@@ -1,0 +1,1627 @@
+===== PAGE 1 =====
+Mẫu số 02
+
+CÔNG TY CỔ PHẦN TASCO
+
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+Độc lập - Tự do - Hạnh phúc
+
+Số: 09/CBTT-TASCO
+
+Hà Nội, ngày 24 tháng 02 năm 2023
+
+CÔNG BỔ THÔNG TIN ĐỊNH KỸ BÁO CÁO TÀI CHÍNH
+
+Kính gửi: - Sở Giao dịch Chứng khoán Hà Nội;
+
+- Ủy ban Chứng khoán Nhà nước.
+
+Thực hiện quy định tại khoản 3 Điều 14 Thông tư số 96/2020/TT-BTC ngày 16/11/2020 của Bộ Tài chính hướng dẫn công bố thông tin trên thị trường chứng khoán, Công ty cổ phần Tasco thực hiện công bố thông tin báo cáo tài chính (BCTC) năm 2022 đã được kiểm toán như sau:
+
+1. Tên tổ chức: CÔNG TY CỔ PHẦN TASCO
+
+• Mã chứng khoán: HUT
+
+- Địa chỉ: Tầng 1 & Tầng 20, Tòa nhà Tasco, Lô HH2-2, đường Phạm Hùng, phường Mễ Trì, quận Nam Từ Liêm, Thành phố Hà Nội.
+
+• Điện thoại liên hệ/Tel: (84-24) 6668 6863 Fax:
+
+- Email: info@tasco.com.vn
+Website: www.tasco.com.vn
+
+2. Nội dung thông tin công bố:
+
+• BCTC năm 2022
+
+BCTC riêng (TCNY không có công ty con và đơn vị kế toán cấp trên có đơn vị trực thuộc);
+
+BCTC hợp nhất (TCNY có công ty con); √
+
+BCTC tổng hợp (TCNY có đơn vị kế toán trực thuộc tổ chức bộ máy kè toán riêng).
+
+- Các trường hợp thuộc diện phải giải trình nguyên nhân:
+
++ Tổ chức kiểm toán đưa ra ý kiến không phải là ý kiến chấp nhận toàn phần đối với BCTC (đối với BCTC được kiểm toán năm 2022):
+
+Có
+
+Không
+
+Văn bản giải trình trong trường hợp tích có:
+
+Có □
+
+Không □
+
++ Lợi nhuận sau thuế trong kỳ báo cáo có sự chênh lệch trước và sau kiểm toán từ 5% trở lên, chuyển từ lỗ sang lãi hoặc ngược lại (đối với BCTC được kiểm toán năm 2022):
+
+Có
+
+Không
+
+Văn bản giải trình trong trường hợp tích có:
+
+Có
+
+Không □
+
+===== PAGE 2 =====
+Mẫu số 02
+
++ Lợi nhuận sau thể thu nhập doanh nghiệp tại báo cáo kết quả kinh doanh của kỳ báo cáo thay đổi từ 10% trở lên so với báo cáo cùng kỳ năm trước:
+
+Có
+
+Không
+
+Văn bản giải trình trong trường hợp tích có:
+
+Có
+
+Không
+
++ Lợi nhuận sau thuế trong kỳ báo cáo bị lỗ, chuyển từ lãi ở báo cáo cùng kỳ năm trước sang lỗ ở kỳ này hoặc ngược lại:
+
+Có
+
+Không □
+
+Văn bản giải trình trong trường hợp tích có:
+
+Có
+
+Không
+
+Thông tin này đã được công bố trên trang thông tin điện tử của công ty vào ngày: 24/02/2023 tại đường dẫn: http://www.tasco.com.vn/quan-he-co-dong
+
+3. Báo cáo về các giao dịch có giá trị từ 35% tổng tài sản trở lên trong năm 2022: Không có.
+
+Chúng tôi xin cam kết các thông tin công bố trên đây là đúng sự thật và hoàn toàn chịu trách nhiệm trước pháp luật về nội dung các thông tin công bố.
+
+Tài liệu đính kèm:
+
+- BCTC Riêng đã được kiểm toán năm 2022;
+
+- BCTC Hợp nhất đã được kiểm toán năm 2022;
+
+- Văn bản giải trình chỉ tiêu lợi nhuận sau thuế TNDN năm 2022 so với năm 2021.
+
+NGƯỜI ĐƯỢC ỦY QUYỀN CBTT
+
+Vũ Khánh Din
+
+===== PAGE 3 =====
+CÔNG TY CỔ PHẦN TASCO
+
+Báo cáo tài chính hợp nhất đã kiểm toán cho năm tài chính kết thúc ngày 31/12/2022
+
+===== PAGE 4 =====
+MỤC LỤC
+
+<table><tr><td></td><td>Trang</td></tr><tr><td>THÔNG TIN VỀ CÔNG TY</td><td>2</td></tr><tr><td>BÁO CÁO CỦA BAN ĐIỀU HÀNH</td><td>3</td></tr><tr><td>BÁO CÁO KIỂM TOÁN ĐỘC LẬP</td><td>4 - 5</td></tr><tr><td>BẢNG CÂN ĐỐI KẾ TOÁN HỢP NHẤT</td><td>6 - 7</td></tr><tr><td>BÁO CÁO KẾT QUẢ HOẠT ĐỘNG KINH DOANH HỢP NHẤT</td><td>8</td></tr><tr><td>BÁO CÁO LƯU CHUYỀN TIỀN TỆ HỢP NHẤT</td><td>9 - 10</td></tr><tr><td>BẢN THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT</td><td>11 - 43</td></tr></table>
+
+A
+
+NAN
+
+===== PAGE 5 =====
+□ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □
+
+CÔNG TY CỔ PHẦN TASCO
+
+THÔNG TIN VỀ CÔNG TY
+
+THÔNG TIN CHUNG CỦA CÔNG TY
+
+Công ty cổ phần Tasco (dưới đây được gọi là “Công ty”) hoạt động theo Giấy chứng nhận đăng ký doanh nghiệp số 0600264117 do Sở Kế hoạch và Đầu tư thành phố Hà Nội cấp lần đầu ngày 26/12/2007, thay đổi lần thứ 28 được cấp ngày 06/05/2022.
+
+Cổ phiếu của Công ty được niêm yết tại Sở Giao dịch Chứng khoán Hà Nội với mã giao dịch cổ phiếu là HUT.
+
+HỘI ĐỒNG QUẢN TRỊ
+
+Các thành viên của Hội đồng quản trị trong năm và đến ngày lập báo cáo này bao gồm:
+
+<table><tr><td>- Ông Vũ Đình Độ</td><td>Chủ tịch</td><td>Bổ nhiệm ngày 29/04/2022</td></tr><tr><td>- Ông Hồ Việt Hà</td><td>Phó Chủ tịch</td><td>Miễn nhiệm Chủ tịch ngày 29/04/2022</td></tr><tr><td>- Ông Nguyễn Danh Hiếu</td><td>Phó Chủ tịch</td><td>Bổ nhiệm Phó Chủ tịch ngày 29/04/2022</td></tr><tr><td>- Ông Nguyễn Thế Minh</td><td>Phó Chủ tịch</td><td>Bổ nhiệm ngày 29/04/2022</td></tr><tr><td>- Ông Trần Đức Huy</td><td>Phó Chủ tịch (thành viên độc lập)</td><td>Bổ nhiệm ngày 29/04/2022</td></tr><tr><td>- Ông Nguyễn Huy Tuấn</td><td>Phó Chủ tịch</td><td>Miễn nhiệm ngày 29/04/2022</td></tr><tr><td>- Bà Phan Thị Thu Thảo</td><td>Thành viên</td><td>Bổ nhiệm ngày 29/04/2022</td></tr><tr><td>- Ông Đình Đức Tùng</td><td>Thành viên độc lập</td><td>Bổ nhiệm ngày 29/04/2022</td></tr><tr><td>- Ông Nguyễn Viết Tân</td><td>Thành viên</td><td>Miễn nhiệm ngày 29/04/2022</td></tr><tr><td>- Bà Trần Hằng Thu</td><td>Thành viên</td><td>Miễn nhiệm ngày 29/04/2022</td></tr><tr><td>- Bà Phạm Thị Chi</td><td>Thành viên</td><td>Miễn nhiệm ngày 29/04/2022</td></tr><tr><td>- Bà Trần Hải Yến</td><td>Thành viên</td><td>Miễn nhiệm ngày 29/04/2022</td></tr></table>
+
+BAN ĐIỀU HÀNH
+
+Các thành viên của Ban Điều hành đã điều hành hoạt động của Công ty trong năm và đến ngày lập báo cáo này bao gồm:
+
+<table><tr><td>- Ông Hồ Việt Hà</td><td>Tổng Giám đốc</td><td>Bổ nhiệm ngày 29/04/2022</td></tr><tr><td>- Ông Nguyễn Huy Tuân</td><td>Tổng Giám đốc</td><td>Miễn nhiệm ngày 29/04/2022</td></tr><tr><td>- Ông Nguyễn Thế Minh</td><td>Phó Tổng Giám đốc</td><td></td></tr><tr><td>- Bà Phan Thị Thu Thảo</td><td>Phó Tổng Giám đốc</td><td></td></tr><tr><td>- Ông Phạm Đức Minh</td><td>Phó Tổng Giám đốc</td><td>Bổ nhiệm ngày 01/01/2022</td></tr></table>
+
+BAN KIỂM SOÁT
+
+Các thành viên của Ban Kiểm soát trong năm và đến ngày lập báo cáo này bao gồm:
+
+<table><tr><td>- Bà Trần Minh Trang</td><td>Trường Ban Kiểm soát</td></tr><tr><td>- Bà Nguyễn Thị Hải Yến</td><td>Thành viên</td></tr><tr><td>- Bà Hoàng Thị Soa</td><td>Thành viên</td></tr></table>
+
+NGƯỜI ĐẠI DIỆN THEO PHÁP LUẬT
+
+Người đại diện theo pháp luật của Công ty trong năm và đến ngày lập báo cáo này là Ông Hồ Việt Hà - Chức danh: Tổng Giám đốc.
+
+TRỤ SỞ ĐĂNG KÝ KINH DOANH
+
+Công ty có trụ sở chính đặt tại Tầng 1 và tầng 20, tòa nhà Tasco, Lô HH2-2, đường Phạm Hùng, phường Mễ Trì, quận Nam Từ Liêm, thành phố Hà Nội.
+
+KIỂM TOÁN VIÊN
+
+Công ty TNHH Kiểm toán BDO được chỉ định kiểm toán Báo cáo tài chính hợp nhất cho năm tài chính kết thúc ngày 31 tháng 12 năm 2022 của Công ty.
+
+2
+
+7
+
+===== PAGE 6 =====
+□ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □
+
+CÔNG TY CỔ PHẦN TASCO
+
+BÁO CÁO CỦA BAN ĐIỀU HÀNH
+
+Về báo cáo tài chính hợp nhất của Công ty cho năm tài chính kết thúc ngày 31 tháng 12 năm 2022
+
+Ban Điều hành Công ty trình bày báo cáo của mình cùng với Báo cáo tài chính hợp nhất cho năm tài chính kết thúc ngày 31 tháng 12 năm 2022 đã được kiểm toán.
+
+TRÁCH NHIÊM CỦA BAN ĐIỀU HÀNH
+
+Ban Điều hành Công ty chịu trách nhiệm lập Báo cáo tài chính hợp nhất và đảm bảo Báo cáo tài chính hợp nhất đã phản ánh một cách trung thực và hợp lý về tinh hình tài chính hợp nhất của Công ty tại ngày 31 tháng 12 năm 2022 cũng như kết quả hoạt động sản xuất kinh doanh hợp nhất và tình hình lưu chuyển tiền tệ hợp nhất cho năm tài chính kết thúc cùng ngày phù hợp với chuẩn mực kế toán, chế độ kế toán doanh nghiệp Việt Nam và các quy định pháp lý có liên quan đến việc lập và trình bày Báo cáo tài chính hợp nhất.
+
+Trong việc lập Báo cáo tài chính hợp nhất này, Ban Điều hành Công ty được yêu cầu phải:
+
+- Chọn lựa các chính sách kế toán thích hợp và áp dụng các chính sách đó một cách nhất quán;
+
+- Thực hiện các xét đoán và các ước tính một cách thận trọng;
+
+- Nêu rõ các nguyên tắc kế toán thích hợp đã được tuân thủ, những sai lệch trọng yếu (nếu có) đã được công bố và giải thích trong Báo cáo tài chính hợp nhất;
+
+- Lập Báo cáo tài chính hợp nhất trên cơ sở hoạt động liên tục trừ trường hợp không thể giả định răng Công ty sẽ tiếp tục hoạt động liên tục.
+
+Ban Điều hành Công ty chịu trách nhiệm đảm bảo sổ kế toán được ghi chép một cách phù hợp để phản ánh hợp lý tình hình tài chính hợp nhất của Công ty ở bất kỳ thời điểm nào và đảm bảo Báo cáo tài chính hợp nhất của Công ty được lập phù hợp với các Chuẩn mực kế toán Việt Nam, Chế độ kế toán doanh nghiệp Việt Nam hiện hành và các quy định pháp lý có liên quan. Ban Điều hành Công ty cũng chịu trách nhiệm đảm bảo an toàn cho các tài sản và đã thực hiện các biện pháp phù hợp để ngăn chắn và phát hiện các hành vi gian lận và sai phạm khác.
+
+Ban Điều hành Công ty xác nhận rằng Công ty đã tuân thủ các yêu cầu nêu trên trong việc lập và trình bày Báo cáo tài chính hợp nhất kèm theo.
+
+PHÊ DUYỆT BÁO CÁO TÀI CHÍNH HỢP NHẤT
+
+Ban Điều hành chúng tôi phê duyệt Báo cáo tài chính hợp nhất cho năm tài chính kết thúc ngày 31 tháng 12 năm 2022 đính kèm được trình bày từ trang 06 đến trang 43. Theo ý kiến của Ban Điều hành Báo cáo tài chính hợp nhất này đã phân ánh trung thực, hợp lý, trên các khóa cạnh trọng yếu, tỉnh hình tài chính hợp nhất của Công ty tại ngày 31 tháng 12 năm 2022, kết quả hoạt động kinh doanh hợp nhất và tình hình lưu chuyển tiền tệ hợp nhất cho năm tài chính kết thúc cùng ngày phù hợp với các Chuẩn mục kế toán Việt Nam, Chế độ kế toán doanh nghiệp Việt Nam và các quy định pháp lý có liên quan đến việc lập và trình bày Báo cáo tài chính hợp nhất.
+
+Hà Nội, ngày 22 tháng 02 năm 2023
+
+Thay mặt Ban Điều hành,
+
+Phó Tổng Giám đốc
+
+Phan Thị Thu Thảo
+
+Theo Giấy Ủy quyền số 16C/2022/QĐ-TASCO
+
+ngày 06/5/2022 của Tổng Giám đốc
+
+3
+
+YUUA
+
+===== PAGE 7 =====
+□ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □
+
+BDO
+
+Số: BC/BDO/2022.40
+
+Tel: +84 (0)24 37833911/12/13
+
+Fax: +84 (0)24 37833914
+
+www.bdovietnam.vn
+
+\(20^{\text{th}}\) Floor, Icon 4 Tower
+
+243A De La Thanh St
+
+Dong Da District, Hanoi,
+
+Vietnam
+
+Hà Nội, ngày 22 tháng 02 năm 2023
+
+BÁO CÁO KIÊM TOÁN ĐỘC LẬP
+
+Về Báo cáo tài chính hợp nhất của Công ty cổ phần Tasco
+
+cho năm tài chính kết thúc ngày 31 tháng 12 năm 2022
+
+Kính gửi: CỔ ĐÔNG, HỘI ĐÔNG QUẢN TRỊ VÀ BAN ĐIỀU HÀNH CÔNG TY CỔ PHẦN TASCO
+
+Chúng tôi đã kiểm toán Báo cáo tài chính hợp nhất kèm theo của Công ty cổ phần Tasco, được lập ngày 22 tháng 02 năm 2023, từ trang 06 đến trang 43, bao gồm Bảng cân đối kế toán hợp nhất tại ngày 31 tháng 12 năm 2022, Báo cáo kết quả hoạt động kinh doanh hợp nhất, Báo cáo lưu chuyển tiền tệ hợp nhất cho năm tài chính kết thúc cùng ngày và Bản thuyết minh Báo cáo tài chính hợp nhất.
+
+Trách nhiệm của Ban Điều hành
+
+Ban Điều hành Công ty chịu trách nhiệm về việc lập và trình bày trung thực và hợp lý Báo cáo tài chính hợp nhất của Công ty theo chuẩn mục kế toán, chế độ kế toán doanh nghiệp Việt Nam và các quy định pháp lý có liên quan đến việc lập và trình bày Báo cáo tài chính hợp nhất và chịu trách nhiệm về kiểm soát nội bộ mà Ban Điều hành xác định là cần thiết để đảm bảo cho việc lập và trình bày Báo cáo tài chính hợp nhất không có sai sót trọng yếu do gian lận hoặc nhằm lẫn.
+
+Trách nhiệm của Kiểm toán viên
+
+Trách nhiệm của chúng tôi là đưa ra ý kiến về Báo cáo tài chính hợp nhất dựa trên kết quả của cuộc kiểm toán. Chúng tôi đã tiến hành kiểm toán theo các chuẩn mục kiểm toán Việt Nam. Các chuẩn mục này yêu cầu chúng tôi tuân thủ chuẩn mục và các quy định về đạo đức nghề nghiệp, lập kế hoạch và thực hiện cuộc kiểm toán để đạt được sự đảm bảo hợp lý về việc liệu Báo cáo tài chính hợp nhất của Công ty có còn sai sót trọng yếu hay không.
+
+Công việc kiểm toán bao gồm thực hiện các thủ tục nhằm thu thập các bằng chứng kiểm toán về các số liệu và thuyết minh trên Báo cáo tài chính hợp nhất. Các thủ tục kiểm toán được lựa chọn dựa trên xét đoán của kiểm toán viên, bao gồm đánh giá rủi ro có sai sót trọng yếu trong Báo cáo tài chính hợp nhất do gian lập hoặc nhằm lẫn. Khi thực hiện đánh giá các rủi ro này, kiểm toán viên đã xem xét kiểm soát nội bộ của Công ty liên quan đến việc lập và trình bày Báo cáo tài chính hợp nhất trung thực, hợp lý nhằm thiết kế các thủ tục kiểm toán phù hợp với tính hình thực tế, tuy nhiên không nhằm mục đích đưa ra ý kiến về hiệu quả của kiểm soát nội bộ của Công ty. Công việc kiểm toán cũng bao gồm đánh giá tính thích hợp của các chính sách kế toán được áp dụng và tính hợp lý của các ước tính kế toán của Ban Điều hành cũng như đánh giá việc trình bày tổng thể Báo cáo tài chính hợp nhất.
+
+Chúng tôi tin tưởng rằng các bằng chứng kiểm toán mà chúng tôi đã thu thập được là đầy đủ và thích hợp làm cơ sở cho ý kiến kiểm toán của chúng tôi.
+
+Ý kiến của Kiểm toán viên
+
+Theo ý kiến của chúng tôi, báo cáo tài chính kèm theo đã phần ánh trung thực và hợp lý, trên các khía cạnh trọng yếu tình hình tài chính hợp nhất của Công ty cổ phần Tasco tại ngày 31 tháng 12 năm 2022, cũng như kết quả hoạt động kinh doanh hợp nhất và tình hình lưu chuyển tiền tệ hợp nhất cho năm tài chính kết thúc cùng ngày, phù hợp với chuẩn mục kế toán, chế độ kế toán doanh nghiệp Việt Nam và các quy định pháp lý có liên quan đến việc lập và trình bày báo cáo tài chính hợp nhất.
+
+BDO Audit Services Co., Ltd, a limited liability company incorporated in Vietnam, is a member of BDO International Limited, a UK company limited by guarantee, and forms part of the International BDO network of independent member firms. BDO is the brand name for the BDO International network and for each of the BDO Member Firms.
+
+4
+
+===== PAGE 8 =====
+BDO
+
+Vân đề khác
+
+Số liệu so sánh là số liệu trên Báo cáo tài chính hợp nhất của Công ty cổ phần Tasco cho năm tài chính kết thúc ngày 31/12/2021 đã được kiểm toán bởi một doanh nghiệp kiểm toán khác. Báo cáo kiểm toán độc lập số 130/2022/BCKT-CPA VIETNAM-NV1, ngày 24/03/2022 kiểm toán viên đưa ra ý kiến chấp nhận toàn phần.
+
+CÔNG TY TNHH KIỂM TOÁN BDO
+
+Mai Lan Phương - Tổng Giám đốc
+
+Số Giấy CNĐKHN kiểm toán 0077-2023-038-1
+
+Phạm Thị Tú - Kiểm toán viên
+
+Số Giấy CNĐKHN kiểm toán 2581-2023-038-1
+
+5
+
+===== PAGE 9 =====
+□ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □
+
+CÔNG TY CỔ PHẦN TASCO
+BẢNG CÂN ĐỐI KẾ TOÁN HỢP NHẤT
+
+Tại ngày 31 tháng 12 năm 2022
+
+B01-DN/HN
+
+<table><tr><td colspan="2">TÀI SẢN</td><td>Mã số</td><td>Thuyết minh</td><td>Số cuối năm</td><td>Đơn vị tính: VND Số đầu năm</td></tr><tr><td colspan="2">A - TÀI SẢN NGẮN HẠN</td><td>100</td><td></td><td>3.139.808.104.404</td><td>2.200.842.731.503</td></tr><tr><td>I.</td><td>Tiền và các khoản tương đương tiền</td><td>110</td><td>V.1</td><td>953.430.125.623</td><td>641.553.582.230</td></tr><tr><td>1.</td><td>Tiền</td><td>111</td><td></td><td>936.427.741.777</td><td>404.156.054.780</td></tr><tr><td>2.</td><td>Các khoản tương đương tiền</td><td>112</td><td></td><td>17.002.383.846</td><td>237.397.527.450</td></tr><tr><td>II.</td><td>Đầu tư tài chính ngắn hạn</td><td>120</td><td></td><td>550.664.500.000</td><td>73.389.607.184</td></tr><tr><td>1.</td><td>Chứng khoán kinh doanh</td><td>121</td><td>V.2.1</td><td>360.454.500.000</td><td>-</td></tr><tr><td>2.</td><td>Đầu tư nằm giữ đến ngày đáo hạn</td><td>123</td><td>V.2.2</td><td>190.210.000.000</td><td>73.389.607.184</td></tr><tr><td>III.</td><td>Các khoản phải thu ngắn hạn</td><td>130</td><td></td><td>1.467.063.807.714</td><td>1.321.513.798.144</td></tr><tr><td>1.</td><td>Phải thu ngắn hạn của khách hàng</td><td>131</td><td>V.3</td><td>456.794.507.342</td><td>444.970.658.998</td></tr><tr><td>2.</td><td>Trả trước cho người bán ngắn hạn</td><td>132</td><td>V.4</td><td>57.785.088.176</td><td>49.998.252.918</td></tr><tr><td>3.</td><td>Phải thu về cho vay ngắn hạn</td><td>135</td><td>V.5</td><td>15.299.000.000</td><td>33.349.285.000</td></tr><tr><td>4.</td><td>Phải thu ngắn hạn khác</td><td>136</td><td>V.6.1</td><td>1.088.144.521.499</td><td>897.369.763.284</td></tr><tr><td>5.</td><td>Dự phòng phải thu ngắn hạn khó đòi</td><td>137</td><td>V.7</td><td>(150.959.309.303)</td><td>(104.174.162.056)</td></tr><tr><td>IV.</td><td>Hàng tồn kho</td><td>140</td><td>V.8</td><td>98.279.326.128</td><td>78.003.107.240</td></tr><tr><td>1.</td><td>Hàng tồn kho</td><td>141</td><td></td><td>98.279.326.128</td><td>78.003.107.240</td></tr><tr><td>V.</td><td>Tài sản ngắn hạn khác</td><td>150</td><td></td><td>70.370.344.939</td><td>86.382.636.705</td></tr><tr><td>1.</td><td>Chi phí trả trước ngắn hạn</td><td>151</td><td>V.9.1</td><td>4.618.576.778</td><td>1.022.853.597</td></tr><tr><td>2.</td><td>Thuế giá trị gia tăng được khấu trừ</td><td>152</td><td></td><td>64.835.925.722</td><td>84.148.310.904</td></tr><tr><td>3.</td><td>Thuế và các khoản khác phải thu Nhà nước</td><td>153</td><td>V.16.2</td><td>915.842.439</td><td>1.211.472.204</td></tr><tr><td colspan="2">B - TÀI SẢN DÀI HẠN</td><td>200</td><td></td><td>8.492.563.816.649</td><td>8.524.652.997.451</td></tr><tr><td>I.</td><td>Các khoản phải thu dài hạn</td><td>210</td><td></td><td>183.391.161.752</td><td>126.673.368.211</td></tr><tr><td>1.</td><td>Phải thu dài hạn khác</td><td>216</td><td>V.6.2</td><td>186.541.161.752</td><td>129.823.368.211</td></tr><tr><td>2.</td><td>Dự phòng phải thu dài hạn khó đòi</td><td>219</td><td>V.7</td><td>(3.150.000.000)</td><td>(3.150.000.000)</td></tr><tr><td>II.</td><td>Tài sản cố định</td><td>220</td><td></td><td>5.819.081.051.068</td><td>6.044.529.708.714</td></tr><tr><td>1.</td><td>Tài sản cố định hữu hình</td><td>221</td><td>V.11</td><td>5.672.823.094.020</td><td>5.882.163.996.403</td></tr><tr><td></td><td>Nguyên giá</td><td>222</td><td></td><td>7.484.988.382.760</td><td>7.474.104.048.663</td></tr><tr><td></td><td>Giá trị hao mòn lũy kế</td><td>223</td><td></td><td>(1.812.165.288.740)</td><td>(1.591.940.052.260)</td></tr><tr><td>2.</td><td>Tài sản cố định vô hình</td><td>227</td><td>V.10</td><td>146.257.957.048</td><td>162.365.712.311</td></tr><tr><td></td><td>Nguyên giá</td><td>228</td><td></td><td>197.318.411.065</td><td>201.574.743.864</td></tr><tr><td></td><td>Giá trị hao mòn lũy kế</td><td>229</td><td></td><td>(51.060.454.017)</td><td>(39.209.031.553)</td></tr><tr><td>III.</td><td>Tài sản dở dang dài hạn</td><td>240</td><td></td><td>926.673.641.198</td><td>1.060.021.226.369</td></tr><tr><td>1.</td><td>Chi phí sản xuất, kinh doanh dở dang dài hạn</td><td>241</td><td>V.12.1</td><td>610.782.218.159</td><td>691.597.917.895</td></tr><tr><td>2.</td><td>Chi phí xây dựng cơ bản dở dang</td><td>242</td><td>V.12.2</td><td>315.891.423.039</td><td>368.423.308.474</td></tr><tr><td>IV.</td><td>Đầu tư tài chính dài hạn</td><td>250</td><td></td><td>361.059.455.076</td><td>352.908.730.165</td></tr><tr><td>1.</td><td>Đầu tư vào công ty liên doanh, liên kết</td><td>252</td><td>V.2.3</td><td>337.259.455.076</td><td>330.108.730.165</td></tr><tr><td>2.</td><td>Đầu tư góp vốn vào đơn vị khác</td><td>253</td><td>V.2.4</td><td>23.800.000.000</td><td>22.800.000.000</td></tr><tr><td>V.</td><td>Tài sản dài hạn khác</td><td>260</td><td></td><td>1.202.358.507.555</td><td>940.519.963.992</td></tr><tr><td>1.</td><td>Chi phí trả trước dài hạn</td><td>261</td><td>V.9.2</td><td>1.105.171.599.237</td><td>940.519.963.992</td></tr><tr><td>2.</td><td>Lợi thế thương mại</td><td>269</td><td>V.13</td><td>97.186.908.318</td><td>-</td></tr><tr><td></td><td>TỔNG CỘNG TÀI SẢN</td><td>270</td><td></td><td>11.632.371.921.053</td><td>10.725.495.728.954</td></tr></table>
+
+Báo cáo này phải được đọc cùng với Bàn thuyết minh Báo cáo tài chính hợp nhất
+
+6
+
+===== PAGE 10 =====
+□ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □
+
+CÔNG TY CỔ PHẦN TASCO
+BẢNG CÂN ĐỐI KẾ TOÁN HỢP NHẤT (tiếp theo)
+
+Tại ngày 31 tháng 12 năm 2022
+
+B01-DN/HN
+
+<table><tr><td colspan="2">NGUỒN VỐN</td><td>Mã số</td><td>Thuyết minh</td><td>Số cuối năm</td><td>Số đầu năm</td></tr><tr><td colspan="2">C - NỘ PHẢI TRẢ</td><td>300</td><td></td><td>7.758.904.854.694</td><td>7.007.867.084.477</td></tr><tr><td>I.</td><td>Nợ ngắn hạn</td><td>310</td><td></td><td>2.208.582.904.728</td><td>1.264.240.430.081</td></tr><tr><td>1.</td><td>Phải trả người bán ngắn hạn</td><td>311</td><td>V.14</td><td>430.237.861.132</td><td>417.292.389.852</td></tr><tr><td>2.</td><td>Người mua trả tiền trước ngắn hạn</td><td>312</td><td>V.15.1</td><td>121.781.062.837</td><td>46.266.343.475</td></tr><tr><td>3.</td><td>Thuế và các khoản phải nộp Nhà nước</td><td>313</td><td>V.16.1</td><td>108.846.492.229</td><td>27.742.154.241</td></tr><tr><td>4.</td><td>Phải trả người lao động</td><td>314</td><td></td><td>26.608.623.966</td><td>17.008.347.342</td></tr><tr><td>5.</td><td>Chi phí phải trả ngắn hạn</td><td>315</td><td>V.17</td><td>69.918.537.772</td><td>103.779.457.832</td></tr><tr><td>6.</td><td>Doanh thu chưa thực hiện ngắn hạn</td><td>318</td><td></td><td>1.101.388.297</td><td>-</td></tr><tr><td>7.</td><td>Phải trả ngắn hạn khác</td><td>319</td><td>V.18.1</td><td>1.142.864.942.247</td><td>320.378.326.168</td></tr><tr><td>8.</td><td>Vay và nợ thuê tài chính ngắn hạn</td><td>320</td><td>V.19.1</td><td>280.324.273.649</td><td>309.486.232.075</td></tr><tr><td>9.</td><td>Dự phòng phải trả ngắn hạn</td><td>321</td><td></td><td>4.096.643.503</td><td>-</td></tr><tr><td>10.</td><td>Quỹ khen thưởng, phúc lợi</td><td>322</td><td></td><td>22.803.079.096</td><td>22.287.179.096</td></tr><tr><td>II.</td><td>Nợ dài hạn</td><td>330</td><td></td><td>5.550.321.949.966</td><td>5.743.626.654.396</td></tr><tr><td>1.</td><td>Người mua trả tiền trước dài hạn</td><td>332</td><td>V.15.2</td><td>94.565.298.415</td><td>-</td></tr><tr><td>2.</td><td>Doanh thu chưa thực hiện dài hạn</td><td>336</td><td></td><td>596.268.865</td><td>967.010.108</td></tr><tr><td>3.</td><td>Phải trả dài hạn khác</td><td>337</td><td>V.18.2</td><td>862.882.214.510</td><td>775.216.362.097</td></tr><tr><td>4.</td><td>Vay và nợ thuê tài chính dài hạn</td><td>338</td><td>V.19.2</td><td>4.553.817.422.717</td><td>4.928.982.536.732</td></tr><tr><td>5.</td><td>Dự phòng phải trả dài hạn</td><td>342</td><td></td><td>38.460.745.459</td><td>38.460.745.459</td></tr><tr><td colspan="2">D - VỐN CHỦ SỞ HỮU</td><td>400</td><td></td><td>3.873.467.066.359</td><td>3.717.628.644.477</td></tr><tr><td>I.</td><td>Vốn chủ sở hữu</td><td>410</td><td>V.20</td><td>3.873.467.066.359</td><td>3.717.628.644.477</td></tr><tr><td>1.</td><td>Vốn góp của chủ sở hữu</td><td>411</td><td></td><td>3.486.319.650.000</td><td>3.486.319.650.000</td></tr><tr><td>-</td><td>Cổ phiếu phổ thông có quyền biểu quyết</td><td>411a</td><td></td><td>3.486.319.650.000</td><td>3.486.319.650.000</td></tr><tr><td>-</td><td>Cổ phiếu ưu đãi</td><td>411b</td><td></td><td>-</td><td>-</td></tr><tr><td>2.</td><td>Thặng dư vốn cổ phần</td><td>412</td><td></td><td>84.146.444.796</td><td>84.541.583.395</td></tr><tr><td>3.</td><td>Quỹ đầu tư phát triển</td><td>418</td><td></td><td>125.326.835.329</td><td>122.247.635.329</td></tr><tr><td>4.</td><td>Lợi nhuận sau thuế chưa phân phối</td><td>421</td><td></td><td>192.402.394.312</td><td>55.678.096.086</td></tr><tr><td>-</td><td>LNST chưa phân phối lũy kế đến cuối kỳ trước</td><td>421a</td><td></td><td>47.837.153.071</td><td>(5.905.700.171)</td></tr><tr><td>-</td><td>LNST chưa phân phối kỳ này</td><td>421b</td><td></td><td>144.565.241.241</td><td>61.583.796.257</td></tr><tr><td>5.</td><td>Lợi ích cổ đông không kiểm soát</td><td>429</td><td></td><td>(14.728.258.078)</td><td>(31.158.320.333)</td></tr><tr><td></td><td>TỔNG CỘNG NGUỒN VỐN</td><td>440</td><td></td><td>11.632.371.921.053</td><td>10.725.495.728.954</td></tr></table>
+
+Người lập biểu
+
+Bùi Thị Bình
+
+Kế toán trưởng
+
+Nguyễn Hồng Oanh
+
+Lập ngày 22 tháng 02 năm 2023
+
+Phan Thị Thu Thảo
+
+Báo cáo này phải được đọc cùng với Bàn thuyết minh Báo cáo tài chính hợp nhất
+
+7
+
+===== PAGE 11 =====
+□ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □
+
+CÔNG TY CỔ PHẦN TASCO
+
+BÁO CÁO KẾT QUẢ HOẠT ĐỘNG KINH DOANH HỢP NHẤT
+
+Cho năm tài chính kết thúc ngày 31 tháng 12 năm 2022
+
+B02-DN/HN
+
+Đơn vị tính: VND
+
+<table><tr><td colspan="2">CHỈ TIÊU</td><td>Mã số</td><td>Thuyết minh</td><td>Năm nay</td><td>Năm trước</td></tr><tr><td>1.</td><td>Doanh thu bán hàng và cung cấp dịch vụ</td><td>01</td><td>VI.1</td><td>1.073.192.908.035</td><td>873.627.989.784</td></tr><tr><td>2.</td><td>Các khoản giảm trừ doanh thu</td><td>02</td><td></td><td>31.553.283</td><td>3.232.902.029</td></tr><tr><td>3.</td><td>Doanh thu thuần về bán hàng và cung cấp dịch vụ</td><td>10</td><td></td><td>1.073.161.354.752</td><td>870.395.087.755</td></tr><tr><td>4.</td><td>Giá vốn hàng bán</td><td>11</td><td>VI.2</td><td>683.110.742.799</td><td>590.367.689.340</td></tr><tr><td>5.</td><td>Lợi nhuận gộp về bán hàng và cung cấp dịch vụ</td><td>20</td><td></td><td>390.050.611.953</td><td>280.027.398.415</td></tr><tr><td>6.</td><td>Doanh thu hoạt động tài chính</td><td>21</td><td>VI.3</td><td>368.051.525.761</td><td>241.366.117.006</td></tr><tr><td>7.</td><td>Chi phí tài chính</td><td>22</td><td>VI.4</td><td>310.849.818.159</td><td>308.472.569.866</td></tr><tr><td></td><td>Trong đó: chi phí lãi vay</td><td>23</td><td></td><td>310.148.255.529</td><td>308.472.569.866</td></tr><tr><td>8.</td><td>Phần lãi hoặc lỗ trong công ty liên doanh, liên kết</td><td>24</td><td></td><td>12.100.239.680</td><td>6.164.614.876</td></tr><tr><td>9.</td><td>Chi phí bán hàng</td><td>25</td><td>VI.5</td><td>25.096.674.652</td><td>63.163.220.097</td></tr><tr><td>10.</td><td>Chi phí quản lý doanh nghiệp</td><td>26</td><td>VI.6</td><td>242.564.882.403</td><td>102.738.547.163</td></tr><tr><td>11.</td><td>Lợi nhuận thuần từ hoạt động kinh doanh</td><td>30</td><td></td><td>191.691.002.180</td><td>53.183.793.171</td></tr><tr><td>12.</td><td>Thu nhập khác</td><td>31</td><td></td><td>2.948.243.119</td><td>4.554.994.371</td></tr><tr><td>13.</td><td>Chi phí khác</td><td>32</td><td></td><td>3.656.697.661</td><td>7.558.278.053</td></tr><tr><td>14.</td><td>Lợi nhuận khác</td><td>40</td><td></td><td>(708.454.542)</td><td>(3.003.283.682)</td></tr><tr><td>15.</td><td>Tổng lợi nhuận kế toán trước thuế</td><td>50</td><td></td><td>190.982.547.638</td><td>50.180.509.489</td></tr><tr><td>16.</td><td>Chi phí thuế thu nhập doanh nghiệp hiện hành</td><td>51</td><td>VI.8</td><td>47.137.025.330</td><td>6.027.496.979</td></tr><tr><td>17.</td><td>Chi phí thuế thu nhập doanh nghiệp hoãn lại</td><td>52</td><td></td><td>-</td><td>-</td></tr><tr><td>18.</td><td>Lợi nhuận sau thuế thu nhập doanh nghiệp</td><td>60</td><td></td><td>143.845.522.308</td><td>44.153.012.510</td></tr><tr><td>19.</td><td>Lợi nhuận sau thuế của công ty mẹ</td><td>61</td><td></td><td>144.565.241.241</td><td>61.583.796.257</td></tr><tr><td>20.</td><td>Lợi nhuận sau thuế của cổ đông không kiểm soát</td><td>62</td><td></td><td>(719.718.933)</td><td>(17.430.783.747)</td></tr><tr><td>21.</td><td>Lãi cơ bản trên cổ phiếu</td><td>70</td><td>VI.9</td><td>414,66</td><td>224,21</td></tr><tr><td>22.</td><td>Lãi suy giảm trên cổ phiếu</td><td>71</td><td>VI.10</td><td>143,32</td><td>224,21</td></tr></table>
+
+Người lập biểu
+
+Bùi Thị Bình
+
+Kế toán trưởng
+
+Nguyễn Hồng Oanh
+
+Lập ngày 22 tháng 02 năm 2023
+
+Phan Thị Thu Thảo
+
+Báo cáo này phải được đọc cùng với Bản thuyết minh Báo cáo tài chính hợp nhất
+
+8
+
+===== PAGE 12 =====
+□ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □
+
+CÔNG TY CỔ PHẦN TASCO
+BÁO CÁO LƯU CHUYỄN TIỀN TỆ HỢP NHẤT
+
+(Theo phương pháp gián tiếp)
+
+Cho năm tài chính kết thúc ngày 31 tháng 12 năm 2022
+
+B03-DN/HN
+
+Đơn vị tính: VND
+
+<table><tr><td></td><td>CHỈ TIÊU</td><td>Mã số</td><td>Thuyết minh</td><td>Năm nay</td><td>Năm trước</td></tr><tr><td>I.</td><td colspan="5">Lưu chuyển tiền từ hoạt động kinh doanh</td></tr><tr><td>1.</td><td>Lợi nhuận trước thuế</td><td>01</td><td></td><td>190.982.547.638</td><td>50.180.509.489</td></tr><tr><td>2.</td><td colspan="5">Điều chỉnh cho các khoản:</td></tr><tr><td>-</td><td>Khấu hao tài sản cố định và bắt động sản đầu tư</td><td>02</td><td></td><td>291.798.298.567</td><td>252.070.858.174</td></tr><tr><td>-</td><td>Các khoản dự phòng</td><td>03</td><td></td><td>24.331.370.434</td><td>4.855.944.506</td></tr><tr><td>-</td><td>Lãi, lỗ chênh lệch tỷ giá hối đoái do đánh giá lại các khoản mục tiền tệ có gốc ngoại tệ</td><td>04</td><td></td><td>-</td><td>-</td></tr><tr><td>-</td><td>Lãi, lỗ từ hoạt động đầu tư</td><td>05</td><td></td><td>(378.870.829.204)</td><td>(251.748.947.711)</td></tr><tr><td>-</td><td>Chi phí lãi vay</td><td>06</td><td></td><td>310.148.255.529</td><td>308.472.569.866</td></tr><tr><td>3.</td><td>Lợi nhuận từ hoạt động kinh doanh trước thay đổi vốn lưu động</td><td>08</td><td></td><td>438.389.642.964</td><td>363.830.934.324</td></tr><tr><td>-</td><td>Tăng, giảm các khoản phải thu</td><td>09</td><td></td><td>(311.017.982.493)</td><td>(360.865.335.369)</td></tr><tr><td>-</td><td>Tăng, giảm hàng tồn kho</td><td>10</td><td></td><td>62.418.097.741</td><td>123.386.812.228</td></tr><tr><td>-</td><td>Tăng, giảm các khoản phải trả</td><td>11</td><td></td><td>1.060.379.932.735</td><td>112.518.430.069</td></tr><tr><td>-</td><td>Tăng, giảm chi phí trả trước</td><td>12</td><td></td><td>(53.290.321.005)</td><td>56.247.747.113</td></tr><tr><td>-</td><td>Tăng, giảm chứng khoán kinh doanh</td><td>13</td><td></td><td>(360.454.500.000)</td><td>-</td></tr><tr><td>-</td><td>Tiền lãi vay đã trả</td><td>14</td><td></td><td>(334.697.813.590)</td><td>(452.226.633.190)</td></tr><tr><td>-</td><td>Thuế thu nhập doanh nghiệp đã nộp</td><td>15</td><td></td><td>(21.374.786.780)</td><td>(57.470.856.431)</td></tr><tr><td>-</td><td>Tiền thu khác từ hoạt động kinh doanh</td><td>16</td><td></td><td>-</td><td>-</td></tr><tr><td>-</td><td>Tiền chi khác cho hoạt động kinh doanh</td><td>17</td><td></td><td>(495.138.599)</td><td>-</td></tr><tr><td></td><td>Lưu chuyển tiền thuần từ hoạt động kinh doanh</td><td>20</td><td></td><td>479.857.130.973</td><td>(214.578.901.256)</td></tr><tr><td>II.</td><td colspan="5">Lưu chuyển tiền từ hoạt động đầu tư</td></tr><tr><td>1.</td><td>Tiền chi đề mua sắm, xây dựng tài sản cố định và các tài sản dài hạn khác</td><td>21</td><td></td><td>(191.462.769.560)</td><td>(59.583.185.318)</td></tr><tr><td>2.</td><td>Tiền thu từ thanh lý, nhượng bán tài sản cố định và các tài sản dài hạn khác</td><td>22</td><td></td><td>15.428.803.754</td><td>481.876.187</td></tr><tr><td>3.</td><td>Tiền chi cho vay, mua các công cụ nợ của đơn vị khác</td><td>23</td><td></td><td>(1.194.672.073.506)</td><td>(111.231.705.700)</td></tr><tr><td>4.</td><td>Tiền thu hồi cho vay, bán lại các công cụ nợ của đơn vị khác</td><td>24</td><td></td><td>1.214.234.373.506</td><td>130.262.098.516</td></tr><tr><td>5.</td><td>Tiền chi đầu tư góp vốn vào đơn vị khác</td><td>25</td><td></td><td>(795.912.557.191)</td><td>(1.000.000.000)</td></tr><tr><td>6.</td><td>Tiền thu hồi đầu tư góp vốn vào đơn vị khác</td><td>26</td><td></td><td>1.041.488.569.523</td><td>136.633.976.000</td></tr><tr><td>7.</td><td>Tiền thu lãi cho vay, cổ tức và lợi nhuận được chia</td><td>27</td><td></td><td>60.478.567.243</td><td>12.096.624.574</td></tr><tr><td></td><td>Lưu chuyển tiền thuần từ hoạt động đầu tư</td><td>30</td><td></td><td>149.582.913.769</td><td>107.659.684.259</td></tr></table>
+
+Báo cáo này phải được đọc cùng với Bản thuyết minh Báo cáo tài chính hợp nhất
+
+9
+
+===== PAGE 13 =====
+□ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □
+
+CÔNG TY CỔ PHẦN TASCO
+
+BÁO CÁO LƯU CHUYÊN TIỀN TỆ HỢP NHẤT (tiếp theo)
+
+(Theo phương pháp gián tiếp)
+
+Cho năm tài chính kết thúc ngày 31 tháng 12 năm 2022
+
+B03-DN/HN
+
+<table><tr><td></td><td>CHỈ TIÊU</td><td>Mã số</td><td>Thuyết minh</td><td>Năm nay</td><td>Năm trước</td></tr><tr><td>III.</td><td colspan="5">Lưu chuyển tiền từ hoạt động tài chính</td></tr><tr><td>1.</td><td>Tiền thu từ phát hành cổ phiếu, nhận vốn góp của chủ sở hữu</td><td>31</td><td></td><td>-</td><td>800.000.000.000</td></tr><tr><td>2.</td><td>Tiền thu từ đi vay</td><td>33</td><td></td><td>57.908.850.926</td><td>56.636.040.091</td></tr><tr><td>3.</td><td>Tiền trả nợ gốc vay</td><td>34</td><td></td><td>(374.363.732.075)</td><td>(327.485.952.475)</td></tr><tr><td>4.</td><td>Cổ tức, lợi nhuận đã trả cho chủ sở hữu</td><td>36</td><td></td><td>(1.108.620.200)</td><td>-</td></tr><tr><td></td><td>Lưu chuyển tiền thuần từ hoạt động tài chính</td><td>40</td><td></td><td>(317.563.501.349)</td><td>529.150.087.616</td></tr><tr><td></td><td>Lưu chuyển tiền thuần trong năm</td><td>50</td><td></td><td>311.876.543.393</td><td>422.230.870.619</td></tr><tr><td></td><td>Tiền và tương đương tiền đầu năm</td><td>60</td><td>V.1</td><td>641.553.582.230</td><td>219.322.711.611</td></tr><tr><td></td><td>Ảnh hưởng của thay đổi tỷ giá hối đoái quy đổi ngoại tệ</td><td>61</td><td></td><td>-</td><td>-</td></tr><tr><td></td><td>Tiền và tương đương tiền cuối năm</td><td>70</td><td>V.1</td><td>953.430.125.623</td><td>641.553.582.230</td></tr></table>
+
+Người lập biểu
+
+Bùi Thị Bình
+
+Kế toán trưởng
+
+Nguyễn Hồng Oanh
+
+Lập ngày 22 tháng 02 năm 2023
+
+Phó Tổng Giám đốc
+
+Phan Thị Thu Thảo
+
+Báo cáo này phải được đọc cùng với Bản thuyết minh Báo cáo tài chính hợp nhất
+
+10
+
+54
+3 H\( _{2} \)O
+M
+
+===== PAGE 14 =====
+□ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □
+
+CÔNG TY CỔ PHẦN TASCO
+BẢN THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT
+
+Cho năm tài chính kết thúc ngày 31 tháng 12 năm 2022
+
+B09-DN/HN
+
+I. THÔNG TIN CHUNG
+
+1. Hình thức sở hữu vốn
+
+Công ty Cổ phần Tasco (gọi tất là “Công ty”) tiền thân là đội cầu Nam Hà, được thành lập năm 1971. Công ty chính thức được thành lập ngày 27/3/1976 với tên gọi Công ty Cầu Hà Nam Ninh, trên cơ sở sáp nhập đội cầu Nam Hà và Xí nghiệp Xây dựng Cầu đường Ninh Bình. Tháng 11 năm 2000, Công ty đã tiến hành cổ phần hoá, từ doanh nghiệp Nhà nước chuyển sang hoạt động theo mô hình Công ty cổ phần, theo Quyết định số 2616/2000/QĐ-UB ngày 20/11/2000 của UBND tỉnh Nam Định và mang tên Công ty Cổ phần Xây dựng Giao thông và Cơ sở Hạ tầng Nam Định.
+
+Ngày 26/12/2007, Công ty đổi tên thành Công ty Cổ phần Tasco. Năm 2008, Công ty chính thức chuyển đăng ký kinh doanh và trụ sở chính từ thành phố Nam Định, tỉnh Nam Định đến thành phố Hà Nội.
+
+Công ty cổ phần Tasco hoạt động theo Giấy chứng nhận đăng ký doanh nghiệp số 0600264117 do Sở Kế hoạch và Đầu tư Thành phố Hà Nội cấp lần đầu ngày 26/12/2007, thay đổi lần 28 ngày 06/05/2022.
+
+Cổ phiếu của Công ty được chính thức giao dịch tại Sở Giao dịch Chứng khoán Hà Nội (HNX) kể từ ngày 11/04/2008 với mã chứng khoán là HUT.
+
+Công ty có trụ sở chính đặt tại Tầng 1 và tầng 20, tòa nhà Tasco, lô HH2-2, đường Phạm Hùng, phường Mễ Trì, quận Nam Từ Liêm, thành phố Hà Nội.
+
+2. Lĩnh vực kinh doanh
+
+- Kinh doanh Bất động sản;
+
+- Dịch vụ;
+
+_ Xây lắp.
+
+3. Ngành nghề kinh doanh
+
+Hoạt động kinh doanh chính của Công ty trong năm:
+
+- Kinh doanh bất động sản, quyền sử dụng đất thuộc chủ sở hữu, chủ sử dụng hoặc đi thuê;
+
+- Xây dựng nhà để ở;
+
+- Xây dựng công trình đường bộ;
+
+- Xây dựng công trình kỹ thuật dân dụng khác;
+
+- Sản xuất điện;
+
+- Dịch vụ thu cước phí và quản lý trạm thu cước phí đường bộ;
+
+- Hoạt động dịch vụ hỗ trợ trực tiếp cho vận tải đường bộ (Dịch vụ thu phí tự động đường bộ ETC).
+
+4. Chu kỳ sản xuất kinh doanh thông thường
+
+Chu kỳ hoạt động sản xuất kinh doanh thông thường của Công ty không quá 12 tháng.
+
+5. Đặc điểm hoạt động của doanh nghiệp trong năm có ảnh hưởng đến Báo cáo tài chính hợp nhất
+
+Từ đầu năm 2022, đại dịch COVID-19 có những ảnh hưởng gần như toàn bộ tới nền kinh tế Việt Nam. Trong bối cảnh hoạt động sản xuất, kinh doanh chịu nhiều tác động do dịch COVID-19, Chính phủ đã và đang có nhiều chính sách nhằm hỗ trợ doanh nghiệp vượt qua khó khăn. Công ty được giảm 30% tiền thuê đất của năm 2021 theo Quyết định số 27/2021/QĐ-TTg ngày 25/09/2021 của Thủ tướng Chính Phù và được gia hạn thời gian nộp thuế GTGT, thuế TNDN và tiền thuê đất theo quyết định tại Nghị định 34/2022/NĐ-CP ngày 28/05/2022.
+
+Bản thuyết minh này là một bộ phận hợp thành và phải được đọc cùng với Báo cáo tài chính hợp nhất
+
+11
+
+===== PAGE 15 =====
+□ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □
+
+CÔNG TY CỔ PHẦN TASCO
+BẢN THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+Cho năm tài chính kết thúc ngày 31 tháng 12 năm 2022
+
+B09-DN/HN
+
+6. Câu trúc doanh nghiệp
+
+Tại ngày 31/12/2022, Công ty có các công ty con và công ty liên doanh, liên kết như sau:
+
+<table><tr><td>Tên</td><td>Địa chỉ</td><td>Ngành nghề kinh doanh</td><td>Tỷ lệ lợi ích (%)</td><td>Tỷ lệ quyền biểu quyết(%)</td></tr><tr><td colspan="5">Công ty con trực tiếp</td></tr><tr><td>- Công ty cổ phần Tasco Nam Thái</td><td>Thái Bình</td><td>Xây lắp</td><td>99,97%</td><td>99,97%</td></tr><tr><td>- Công ty cổ phần VETC</td><td>Hà Nội</td><td>Dịch vụ</td><td>99,26%</td><td>99,26%</td></tr><tr><td>- Công ty TNHH MTV Tasco Nam Định</td><td>Nam Định</td><td>Xây lắp</td><td>100,00%</td><td>100,00%</td></tr><tr><td>- Công ty TNHH MTV Tasco 6</td><td>Nam Định</td><td>Hạ tầng giao thông</td><td>100,00%</td><td>100,00%</td></tr><tr><td>- Công ty TNHH MTV Tasco Quảng Bình</td><td>Quảng Bình</td><td>Hạ tầng giao thông</td><td>100,00%</td><td>100,00%</td></tr><tr><td>- Công ty TNHH MTV Tasco Hải Phòng</td><td>Hải Phòng</td><td>Hạ tầng giao thông</td><td>100,00%</td><td>100,00%</td></tr><tr><td>- Công ty TNHH MTV Dịch vụ Tasco</td><td>Hà Nội</td><td>Dịch vụ</td><td>100,00%</td><td>100,00%</td></tr><tr><td>- Công ty TNHH Tasco Land</td><td>Hà Nội</td><td>Bắt động sản</td><td>100,00%</td><td>100,00%</td></tr><tr><td>- Công ty TNHH Bảo hiểm Tasco</td><td>Hà Nội</td><td>Bảo hiểm phi nhân thọ</td><td>100,00%</td><td>100,00%</td></tr><tr><td colspan="5">Công ty con gián tiếp</td></tr><tr><td>- Công ty TNHH thu phí tự động VETC</td><td>Hà Nội</td><td>Dịch vụ thu phí</td><td>99,35%</td><td>100,00%</td></tr><tr><td colspan="5">Công ty liên doanh, liên kết</td></tr><tr><td>- Công ty TNHH NVT Holdings</td><td>Hà Nội</td><td>Bắt động sản</td><td>20,00%</td><td>20,00%</td></tr><tr><td>- Công ty TNHH BOT Hùng Thắng Phú Thọ</td><td>Phú Thọ</td><td>Hạ tầng giao thông</td><td>30,00%</td><td>30,00%</td></tr></table>
+
+7. Nhân viên
+
+Tổng số cán bộ nhân viên của Công ty mẹ và các Công ty con tại ngày 31/12/2022 là 1.100 người (tại ngày 31/12/2021 là 958 người).
+
+8. Tuyên bố về khả năng so sánh thông tin trên Báo cáo tài chính
+
+Thông tin so sánh được trình bày theo số liệu từ Báo cáo tài chính hợp nhất cho năm tài chính kết thúc ngày 31/12/2021 đã được kiểm toán bởi Công ty TNHH Kiểm toán CPA Việt Nam.
+
+II. NĂM TÀI CHÍNH, ĐƠN VỊ TIỀN TỆ SỬ DỤNG TRONG KẾ TOÁN
+
+1. Kỳ kế toán năm: Kỳ kế toán hàng năm của Công ty bắt đầu từ ngày 01/01 và kết thúc vào ngày 31/12.
+
+2. Đơn vị tiền tệ sử dụng trong kế toán
+
+Đơn vị tiền tệ sử dụng trong kế toán là Đồng Việt Nam (VND).
+
+III. CHUẢN MỤC VÀ CHẾ ĐỘ KẾ TOÁN ÁP DỤNG
+
+1. Cơ sở của việc lập Báo cáo tài chính hợp nhất và Chế độ kế toán áp dụng
+
+Công ty áp dụng Chế độ kế toán doanh nghiệp Việt Nam ban hành kèm theo Thông tư 200/2014/TT- BTC ngày 22/12/2014 (“Thông tư 200”), Thông tư 53/2016/TT-BTC ngày 21/03/2016 sửa đổi bổ sung một số điều của Thông tư 200 của Bộ Tài chính hướng dẫn chế độ kế toán doanh nghiệp và Thông tư 202/2014/TT-BTC ngày 22/12/2014 hướng dẫn phương pháp lập và trình bày Báo cáo tài chính hợp nhất.
+
+Bản thuyết minh này là một bộ phận hợp thành và phải được đọc cùng với Báo cáo tài chính hợp nhất
+
+12
+
+===== PAGE 16 =====
+\( \square \square \square \square \square \square \square \square \square \square \square \square \square \square \square \square \square \square \square \square \square \square \square \square \square \square \square \square \square \square \square \square \square \square \square \square \square \square \)
+
+CÔNG TY CỔ PHẦN TASCO
+BẢN THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+Cho năm tài chính kết thúc ngày 31 tháng 12 năm 2022
+
+B09-DN/HN
+
+Báo cáo tài chính hợp nhất được lập theo nguyên tắc giá gốc và phù hợp với Chuẩn mực kế toán Việt Nam. Báo cáo tài chính hợp nhất kèm theo không nhằm phản ánh tỉnh hình tài chính hợp nhất, kết quả hoạt động kinh doanh hợp nhất và tỉnh hình lưu chuyển tiền tệ hợp nhất theo các nguyên tắc và thông lệ kế toán được chấp nhận chung tại các nước khác ngoài Việt Nam.
+
+2. Tuyên bố về việc tuân thủ Chuẩn mực kế toán và Chế độ kế toán
+
+Ban Điều hành đảm bảo đã lập và trình bày Báo cáo tài chính hợp nhất tuân thủ các yêu cầu của Chuẩn mực kế toán Việt Nam, Chế độ kế toán doanh nghiệp Việt Nam hiện hành và các tài liệu hướng dẫn có liên quan đến việc lập và trình bày Báo cáo tài chính hợp nhất.
+
+IV. CÁC CHÍNH SÁCH KẾ TOÁN ÁP DỤNG
+
+Sau đây là những chính sách kế toán chủ yếu được Công ty áp dụng trong việc lập Báo cáo tài chính hợp nhất. Những chính sách kế toán này nhất quán với các chính sách kế toán áp dụng trong việc lập Báo cáo tài chính hợp nhất của năm tài chính gần nhất.
+
+1. Cơ sở hợp nhất báo cáo tài chính
+
+Báo cáo tài chính hợp nhất được lập trên cơ sở hợp nhất báo cáo tài chính của công ty mẹ và các công ty con do Công ty nấm quyền kiểm soát tại ngày 31/12/2022, phù hợp với Chuẩn mực kế toán Việt Nam.
+
+Các công ty con được hợp nhất toàn bộ kể từ ngày mua, là ngày Công ty thực sự nằm quyền kiểm soát công ty con và tiếp tục được hợp nhất cho đến ngày Công ty thực sự chấm dứt quyền kiểm soát đối với công ty con.
+
+Các báo cáo tài chính của Công ty mẹ và các công ty con sử dụng để hợp nhất được lập cho cùng một kỳ kế toán và được áp dụng các chính sách kế toán một cách thống nhất. Trong trường hợp cần thiết, báo cáo tài chính của công ty con được điều chỉnh để đảm bảo sự nhất quán về các chính sách kế toán đang áp dụng tại Công ty. Các giao dịch nội bộ, công nợ và các khoản lãi, lỗ chưa thực hiện phát sinh từ các giao dịch nội bộ bị loại trừ hoàn toàn khi hợp nhất báo cáo tài chính.
+
+Lợi ích cổ đông không kiểm soát bao gồm giá trị các lợi ích của cổ đông không kiểm soát tại ngày hợp nhất kinh doanh ban đầu và phần lợi ích của cổ đông không kiểm soát trong sự biến động của tổng vốn chủ sở hữu kể từ ngày hợp nhất kinh doanh. Các khoản lỗ tương ứng với phần vốn của cổ đông không kiểm soát vượt quá phần vốn của họ trong tổng vốn chủ sở hữu của công ty con được tính giảm vào phần lợi ích của Công ty, trừ khi cổ đông không kiểm soát có nghĩa vụ ràng buộc và có khả năng bù đáp khoản lỗ đó.
+
+Lợi thế thương mại trên báo cáo tài chính hợp nhất là phần phụ trội giữa mức giá phí hợp nhất kinh doanh so với phần lợi ích của Công ty trong tổng giá trị hợp lý của tài sản, công nợ và công nợ tiềm tàng của công ty con, công ty liên kết, hoặc đơn vị góp vốn liên doanh tại ngày thực hiện nghiệp vụ đầu tư. Lợi thế thương mại từ việc mua các công ty con được coi là một loại tài sản vô hình, được khấu hao theo phương pháp đường thẳng trên thời gian hữu dụng ước tính của lợi thế kinh doanh đó là 10 năm.
+
+Lợi thế thương mại có được từ việc mua công ty liên kết và cơ sở kinh doanh đồng kiểm soát được tính vào giá trị ghi sổ của công ty liên kết và cơ sở kinh doanh đồng kiểm soát. Lợi thế thương mại từ việc mua các công ty con được trình bày riêng như một loại tài sản có khác trên Bảng cân đối kế toán hợp nhất.
+
+Khi bán công ty con, công ty liên kết hoặc đơn vị góp vốn liên doanh, giá trị còn lại của khoản lợi thế thương mại chưa khấu hao hết được tính vào khoản lãi/lỗ do nghiệp vụ nhượng bán công ty tương ứng.
+
+Hợp nhất kinh doanh
+
+Tài sản, công nợ và nợ tiềm tàng của công ty con được xác định theo giá trị hợp lý tại ngày mua công ty con. Bắt kỳ khoản phụ trội nào giữa giá mua và tổng giá trị hợp lý của tài sản được mua được ghi nhận là lợi thế thương mại. Bắt kỳ khoản thiếu hụt nào giữa giá mua và tổng giá trị hợp lý của tài sản được ghi nhận vào kết quả hoạt động kinh doanh hợp nhất của kỳ kế toán phát sinh hoạt động mua công ty con.
+
+Lợi ích của cổ đông không kiểm soát tại ngày hợp nhất kinh doanh ban đầu được xác định trên cơ sở tỉ lệ của cổ đông không kiểm soát trong tổng giá trị hợp lý của tài sản, công nợ và công nợ tiềm tàng được ghi nhận.
+
+Bản thuyết minh này là một bộ phận hợp thành và phải được đọc cùng với Báo cáo tài chính hợp nhất
+
+13
+
+===== PAGE 17 =====
+□ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □
+
+CÔNG TY CỔ PHẦN TASCO
+BẢN THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+
+Cho năm tài chính kết thúc ngày 31 tháng 12 năm 2022
+
+B09-DN/HN
+
+2. Nguyên tắc ghi nhận các khoản tiền và các khoản tương đương tiền
+
+Tiền và các khoản tương đương tiền bao gồm: tiền mặt, tiền gửi ngân hàng không kỳ hạn và có kỳ hạn, tiền đang chuyển và các khoản đầu tư ngắn hạn có thời hạn thu hồi không quá 3 tháng kể từ ngày đầu tư, có khả năng chuyển đổi dễ dàng thành một lượng tiền xác định và không có rủi ro trong việc chuyển đổi thành tiền tại thời điểm báo cáo. Việc xác định các khoản tương đương tiền đảm bảo theo quy định của Chuẩn mực kế toán Việt Nam số 24 “Báo cáo lưu chuyển tiền tệ”.
+
+3. Nguyên tắc kế toán các khoản đầu tư tài chính
+
+a. Các khoản đầu tư nằm giữ đến ngày đáo hạn
+
+Các khoản đầu tư nằm giữ đến ngày đáo hạn là các khoản đầu tư mà Ban điều hành có ý định và khả năng nằm giữ đến ngày đáo hạn.
+
+Các khoản đầu tư nắm giữ đến ngày đáo hạn được ghi nhận ban đầu theo giá gốc. Sau ghi nhận ban đầu, nếu các khoản đầu tư nắm giữ đến ngày đáo hạn chưa được lập dự phòng phải thu khó đòi theo các quy định khác thì các khoản đầu tư này được ghi nhận theo giá trị có thể thu hồi. Các khoản suy giảm giá trị của khoản đầu tư nếu phát sinh được hạch toán vào chi phí tài chính trong báo cáo kết quả hoạt động kinh doanh và được giảm trừ trực tiếp vào giá trị khoản đầu tư.
+
+b. Đầu tư vào công ty liên doanh, liên kết
+
+Công ty liên kết là tất cả các đơn vị mà Công ty có ảnh hưởng đáng kể nhưng không kiểm soát, thường được thể hiện thông qua việc nằm giữ từ 20% đến 50% quyền biểu quyết ở các đơn vị đó.
+
+Các khoản đầu tư vào công ty liên doanh, liên kết trên Báo cáo tài chính hợp nhất được xác định theo phương pháp vốn chủ sở hữu. Theo đó, các khoản đầu tư vào công ty liên doanh, liên kết được ghi nhận ban đầu theo giá gốc. Sau đó, giá trị ghi số của khoản đầu tư được điều chỉnh tăng hoặc giảm tương ứng với phần sở hữu của nhà đầu tư trong lãi hoặc lỗ của bên được đầu tư sau ngày đầu tư. Phần sở hữu của nhà đầu tư trong kết quả kinh doanh của bên được đầu tư được ghi nhận vào Báo cáo kết quả hoạt động kinh doanh của nhà đầu tư. Các khoản được chia từ bên được đầu tư phải hạch toán giảm giá trị ghi số của khoản đầu tư. Việc điều chỉnh giá trị ghi số cũng phải thực hiện khi lợi ích của nhà đầu tư thay đổi phát sinh từ các khoản thu nhập được ghi nhận trực tiếp vào vốn chủ sở hữu của bên được đầu tư, như việc đánh giá lại TSCĐ, chênh lệch tỷ giá do chuyển đổi báo cáo tài chính.
+
+c) Đầu tư vào công cụ vốn của đơn vị khác
+
+Đầu tư góp vốn vào đơn vị khác được ghi nhận ban đầu theo giá gốc. Sau ghi nhận ban đầu, các khoản đầu tư này được xác định theo giá gốc trừ đi dự phòng giảm giá đầu tư. Dự phòng giảm giá đầu tư được lập khi đơn vị nhận đầu tư phát sinh lỗ, ngoại trừ trường hợp khoản lỗ đó đã nằm trong dự kiến của Công ty khi quyết định đầu tư. Dự phòng giảm giá đầu tư được ghi nhận vào báo cáo kết quả kinh doanh trong năm.
+
+4. Nguyên tắc kế toán nợ phải thu
+
+Nợ phải thu là số tiền có thể thu hồi từ khách hàng hoặc các đối tượng khác. Nợ phải thu được trình bày theo giá trị ghi số trừ đi các khoản dự phòng nợ phải thu khó đòi.
+
+Việc phân loại các khoản phải thu là phải thu khách hàng, phải thu khác được thực hiện theo nguyên tắc:
+
+- Phải thu khách hàng: Gồm các khoản phải thu mang tính chất thương mại phát sinh từ giao dịch có tính chất mua, bán giữa Công ty và người mua là đơn vị độc lập với Công ty.
+
+- Phải thu khác: Gồm các khoản phải thu không có tính thương mại, không liên quan đến giao dịch mua, bán (như: phải thu về lãi tiền gửi, lãi cho vay, cổ tức, lợi nhuận được chia; các khoản chi hộ bên thứ ba được quyền nhận lại; các khoản phải thu về cho mượn tài sản...).
+
+Theo dõi khoản phải thu
+
+Các khoản phải thu được theo dõi chi tiết theo kỳ hạn gốc, kỳ hạn còn lại tại thời điểm báo cáo, theo nguyên tệ và theo từng đối tượng. Tại thời điểm lập báo cáo tài chính, khoản phải thu có thời gian thu hồi còn lại không quá 12 tháng hoặc một chu kỳ kinh doanh được phân loại là phải thu ngắn hạn, khoản phải thu có thời gian thu hồi còn lại trên 12 tháng hoặc hơn một chu kỳ kinh doanh được ghi nhận là khoản phải thu dài hạn.
+
+Bàn thuyết minh này là một bộ phận hợp thành và phải được đọc cùng với Báo cáo tài chính hợp nhất
+
+14
+
+===== PAGE 18 =====
+□ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □
+
+CÔNG TY CỔ PHẦN TASCO
+BẢN THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+
+Cho năm tài chính kết thúc ngày 31 tháng 12 năm 2022
+
+B09-DN/HN
+
+Các khoản nợ phải thu được ghi nhận không vượt quá giá trị có thể thu hồi.
+
+Phương pháp lập dự phòng phải thu khó đòi
+
+- Dự phòng nợ phải thu khó đòi thể hiện phần giá trị của các khoản phải thu mà Công ty dự kiến không có khả năng thu hồi tại ngày kết thúc năm tài chính. Tăng hoặc giảm số dư tài khoản dự phòng được ghi nhận vào chi phí quản lý doanh nghiệp trong kỳ. Dự phòng nợ phải thu khó đòi được trích lập cho từng khoản nợ phải thu, căn cứ vào thời gian quá hạn trả nợ gốc theo cam kết ban đầu (không tính đến việc gia hạn nợ giữa các bên), hoặc dự kiến mức tổn thất có thể xảy ra.
+
+5. Nguyên tắc ghi nhận hàng tồn kho
+
+Hàng tồn kho được xác định trên cơ sở giá thấp hơn giữa giá gốc và giá trị thuần có thể thực hiện được. Việc xác định được thực hiện theo quy định của Chuẩn mực kế toán số 02 - "Hàng tồn kho", cụ thể: Giá gốc hàng tồn kho bao gồm: Chi phí mua, chi phí chế biến và các chi phí liên quan trực tiếp khác phát sinh để có được hàng tồn kho tại địa điểm và trạng thái hiện tại. Giá trị thuần có thể thực hiện được, được xác định bằng giá bán ước tính trừ đi chi phí ước tính để hoàn thành sản phẩm và các chi phí ước tính cần thiết cho việc tiêu thụ.
+
+Phương pháp tính giá trị hàng tồn kho: Bình quân gia quyền.
+
+Phương pháp hạch toán hàng tồn kho: Kê khai thường xuyên.
+
+Phương pháp xác định chi phí sản xuất kinh doanh dỡ dang cuối kỳ:
+
+Chi phí sản xuất kinh doanh dở dang cuối kỳ được Công ty xác định bằng cách tập hợp toàn bộ các chi phí xây dựng theo từng công trình xây lắp đang thi công chưa hoàn thành.
+
+Phương pháp lập dự phòng giảm giá hàng tồn kho: Dự phòng giảm giá hàng tồn kho được trích lập cho phần giá trị dự kiến bị tổn thất do các khoản suy giảm trong giá trị (do giảm giá, hông, kém phẩm chất, lỗi thời...) có thể xảy ra đối với nguyên vật liệu, thành phẩm, hàng hoá tồn kho thuộc quyền sở hữu của Công ty dựa trên bằng chứng hợp lý về sự suy giảm giá trị tại ngày kết thúc năm tài chính. Tăng hoặc giảm số dư tài khoản dự phòng được ghi nhận vào giá vốn hàng bán trong năm.
+
+Theo đánh giá của Ban Điều hành Công ty, tại ngày 31/12/2022, Công ty không có hàng tồn kho bị giảm giá, hông, kém phẩm chất, lỗi thời..., nên không cần trích lập dự phòng.
+
+6. Nguyên tắc kế toán và khấu hao Tài sản cố định
+
+Tài sản cố định hữu hình (TSCĐ HH)
+
+TSCĐ HH được phản ánh theo nguyên giá trừ đi giá trị hao mòn lũy kế.
+
+Nguyên giá TSCĐ HH là toàn bộ các chi phí Công ty phải bỏ ra để có TSCĐ tính đến thời điểm đưa tài sản đó vào trạng thái sẵn sàng sử dụng. Việc xác định nguyên giá TSCĐ HH đối với từng loại phù hợp với Chuẩn mực kế toán Việt Nam số 03 về tài sản cố định hữu hình.
+
+Các chỉ phí phát sinh sau ghi nhận ban đầu (chi phí nâng cấp, cải tạo, duy tu, sửa chữa...) được ghi nhận vào chi phí sản xuất kinh doanh trong kỳ. Trong trường hợp có thể chứng minh một cách rõ ràng rằng các khoản chi phí này làm tăng lợi ích kinh tế trong tương lai dự tính thu được do việc sử dụng TSCĐ HH vượt trên mức hoạt động tiêu chuẩn đã được đánh giá ban đầu thì chỉ phí này được vốn hoá như một khoản nguyên giá tăng thêm của TSCĐ.
+
+Khi TSCĐ HH được bán hay thanh lý, nguyên giá và giá trị hao mòn lũy kế được xóa số khởi Bảng cân đối kế toán và bắt kỳ các khoản lãi lỗ nào phát sinh do thanh lý TSCĐ đều được hạch toán vào kết quả hoạt động kinh doanh.
+
+TSCĐ HH được trích khấu hao theo phương pháp đường thẳng trong suốt thời gian sử dụng ước tính như sau:
+
+<table><tr><td>Nhóm TSCĐ</td><td>Số năm</td></tr><tr><td>Nhà cửa, vật kiến trúc</td><td>05 - 25 năm</td></tr><tr><td>Máy móc thiết bị</td><td>04 - 20 năm</td></tr><tr><td>Phương tiện vận tải</td><td>06 - 10 năm</td></tr><tr><td>Thiết bị quản lý</td><td>03 - 10 năm</td></tr></table>
+
+Bản thuyết minh này là một bộ phận hợp thành và phải được đọc cùng với Báo cáo tài chính hợp nhất
+
+15
+
+===== PAGE 19 =====
+□ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □
+
+CÔNG TY CỔ PHẦN TASCO
+BẢN THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+
+Cho năm tài chính kết thúc ngày 31 tháng 12 năm 2022
+
+B09-DN/HN
+
+TSCĐ khác là tài sản hình thành từ dự án đầu tư theo hình thức BOT được phần ánh ban đầu theo giá trị đầu tư và trích khấu hao theo tỷ trọng doanh thu theo thông tư số 147/2016/TT-BTC ngày 13/10/2016 của Bộ Tài chính về sửa đổi bổ sung một số điều của Thông tư số 45/2013/TT-BTC ngày 25/04/2013 của Bộ Tài chính.
+
+Tài sản cố định vô hình (TSCĐ VH)
+
+TSCĐ VH được phần ánh theo nguyên giá trừ đi giá trị hao mòn lũy kế.
+
+Chương trình phần mềm
+
+Nguyên giá TSCĐ của các chương trình phần mềm được xác định là toàn bộ các chi phí thực tế mà Công ty đã bỏ ra để có các chương trình phần mềm trong trường hợp chương trình phần mềm là một bộ phận có thể tách rời với phần cứng có liên quan, thiết kế bố trí mạch tích hợp bán dẫn theo quy định của pháp luật về sở hữu trí tuệ. Chương trình phần mềm được khấu hao theo phương pháp đường thẳng trên thời gian ước tính hữu dụng.
+
+Các quy định khác về quản lý, sử dụng, khấu hao TSCĐ
+
+Các quy định khác về quản lý, sử dụng, khấu hao TSCĐ được Công ty thực hiện theo Thông tư 45/2013/TT-BTC ngày 25/4/2013 của Bộ trưởng Bộ Tài chính và thông tư 147/2016/TT-BTC ngày 13 tháng 10 năm 2016 sửa đổi, bổ sung một số điều của thông tư số 45/2013/TT-BTC và thông tư số 28/2017/TT-BTC ngày 12/04/2017 của BTC sửa đổi, bổ sung một số điều của thông tư 147/2016/TT-BTC.
+
+7. Nguyên tắc kế toán thuế
+
+a) Thuế thu nhập doanh nghiệp hiện hành
+
+Chi phí thuế thu nhập hiện hành được xác định trên cơ sở thu nhập chịu thuế và thuế suất thuế thu nhập doanh nghiệp trong năm hiện hành (20%).
+
+Đối với hoạt động sản xuất kinh doanh điện áp mái: Công ty được miễn thuế 4 năm, giảm 50% số thuế phải nộp trong 9 năm tiếp theo kể từ khi phát sinh thu nhập chịu thuế. Trường hợp 3 năm đầu không có thu nhập chịu thuế thì thời gian tính từ năm thứ 4 trở đi kể từ khi phát sinh doanh thu, hưởng ưu đãi thuế suất 10% trong thời hạn 15 năm. Năm 2022 là năm thứ 3 Công ty được hưởng ưu đãi miễn thuế.
+
+Ba dự án BOT (Dự án BOT Đầu tư xây dựng công trình cải tạo, nâng cấp đường 39B đoạn tuyến tránh thị trấn Thanh Nê, Huyện Kiến Xương và đoạn từ đường vào trung tâm điện lực Thái Bình đến cầu Diêm Điền huyện Thái Thụy, tỉnh Thái Bình; Dự án BOT đầu tư mở rộng, nâng cấp Quốc lộ 1 đoạn Km597+549 - Km605+000 và đoạn Km617+000 - Km641+000 tỉnh Quảng Bình; Dự án BOT Cải tạo nâng cấp QL10 đoạn từ cầu Quán Toan đến cầu Nghìn, thành phố Hải Phòng) của công ty đang được hưởng ưu đãi thuế hiện hành đối với dự án đầu tư mới thuộc lĩnh vực đầu tư phát triển đường bộ.
+
+b) Các loại thuế khác
+
+Các loại thuế khác được áp dụng theo các luật thuế hiện hành tại Việt Nam.
+
+Các báo cáo thuế của Công ty sẽ chịu sự kiểm tra của cơ quan thuế. Do việc áp dụng luật và các quy định về thuế đối với các loại nghiệp vụ khác nhau có thể được giải thích theo nhiều cách khác nhau, số thuế được trình bày trên báo cáo tài chính có thể sẽ bị thay đổi theo quyết định cuối cùng của cơ quan thuế.
+
+8. Nguyên tắc kê toán chi phí trả trước
+
+Chi phí trả trước là các chi phí thực tế đã phát sinh nhưng có liên quan đến kết quả hoạt động sản xuất kinh doanh của nhiều kỳ kế toán.
+
+Chi phí trả trước chủ yếu bao gồm giá trị công cụ, dụng cụ, chi phí quảng cáo, chi phí tư vấn, chi phí lãi vay và các chi phí khác phát sinh trong quá trình hoạt động kinh doanh của Công ty và được coi là có khả năng đem lại lợi ích kinh tế trong tương lai của Công ty. Chi phí lãi vay được phân bổ vào Báo cáo kết quả kinh doanh theo tỷ trọng doanh thu thực hiện/Tổng doanh thu từ Dự án. Các chi phí trả trước còn lại được phân bổ vào Báo cáo kết quả hoạt động kinh doanh theo phương pháp đường thẳng, dựa trên thời gian sử dụng hoặc thời gian thu hồi chi phí ước tính của Công ty.
+
+Bản thuyết minh này là một bộ phận hợp thành và phải được đọc cùng với Báo cáo tài chính hợp nhất
+
+16
+
+===== PAGE 20 =====
+□ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □
+
+CÔNG TY CỔ PHẦN TASCO
+BẢN THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+
+Cho năm tài chính kết thúc ngày 31 tháng 12 năm 2022
+
+B09-DN/HN
+
+Các khoản chi phí trả trước được theo dõi chi tiết theo kỳ hạn. Tại thời điểm lập báo cáo tài chính, khoản chi phí trả trước có thời gian không quá 12 tháng hoặc một chu kỳ kinh doanh kể từ thời điểm trả trước được phân loại là chi phí trả trước ngắn hạn, khoản chi phí trả trước có thời gian trên 12 tháng hoặc hơn một chu kỳ kinh doanh kể từ thời điểm trả trước được ghi nhận là chi phí trả trước dài hạn.
+
+9. Nguyên tắc kế toán nợ phải trả
+
+Các khoản nợ phải trả được trình bày theo giá gốc. Việc phân loại các khoản phải trả là phải trả người bán, phải trả khác được thực hiện theo nguyên tắc:
+
+- Phải trả người bán: Gồm các khoản phải trả mang tính chất thương mại phát sinh từ giao dịch mua hàng hóa, dịch vụ, tài sản.
+
+- Phải trả khác: Gồm các khoản phải trả không có tính thương mại, không liên quan đến giao dịch mua, bán, cung cấp hàng hóa dịch vụ (như: phải trả về lãi vay, cổ tức và lợi nhuận phải trả, chỉ phí hoạt động đầu tư tài chính phải trả; phải trả do bên thứ ba chỉ hộ; phải trả về các khoản BHXH, BHYT, BHTN, KPCĐ...)
+
+Theo dõi các khoản phải trả
+
+Các khoản phải trả được theo dõi chi tiết theo kỳ hạn gốc, kỳ hạn còn lại tại thời điểm báo cáo, theo nguyên tệ và theo từng đối tượng. Tại thời điểm lập báo cáo tài chính, khoản phải trả có thời hạn trả nợ còn lại không quá 12 tháng hoặc một chu kỳ kinh doanh được phân loại là phải trả ngắn hạn, khoản phải trả có thời gian trả nợ còn lại trên 12 tháng hoặc hơn một chu kỳ kinh doanh được ghi nhận là khoản phải trả dài hạn.
+
+Các khoản nợ phải trả được ghi nhận không thấp hơn giá trị phải thanh toán.
+
+10. Nguyên tắc ghi nhận vay và nợ phải trả thuê tài chính
+
+Các khoản vay và nợ thuê tài chính được theo dõi chi tiết theo từng đối tượng, kỳ hạn, nguyên tệ. Tại thời điểm lập Báo cáo tài chính, khoản vay và nợ thuê tài chính đến hạn trả trong vòng 12 tháng hoặc một chu kỳ kinh doanh tiếp theo được phân loại là vay và nợ thuê tài chính ngắn hạn, các khoản có thời gian trả nợ trên 12 tháng hoặc hơn một chu kỳ kinh doanh được ghi nhận là khoản vay và nợ thuê tài chính dài hạn.
+
+11. Nguyên tắc ghi nhận và vốn hóa các khoản chi phí đi vay
+
+Ghi nhận chi phí đi vay
+
+Chi phí di vay gồm chi phí lãi vay và chi phí liên quan trực tiếp đến khoản vay (như chi phí thẩm định, kiểm toán, lập hồ sơ vay vốn...).
+
+Chi phí đi vay được ghi nhận vào chi phí tài chính trong kỳ khi phát sinh (trừ các trường hợp vốn hóa theo quy định của Chuẩn mục kế toán Việt Nam số 16 "Chi phí đi vay").
+
+Chi phí đi vay được vốn hóa
+
+Chi phí đi vay phát sinh từ khoản vay riêng có liên quan trực tiếp đến việc đầu tư xây dựng hoặc sản xuất một tài sản dở dang được tính vào giá trị của tài sản đó (được vốn hoá) sau khi đã trừ đi các khoản thu nhập phát sinh từ hoạt động đầu tư tạm thời của các khoản vay này. Chi phí đi vay được vốn hoá khi doanh nghiệp chắc chắn thu được lợi ích trong tương lai do sử dụng tài sản đó và chi phí lãi vay có thể xác định được một cách đáng tin cây.
+
+Việc vốn hoá các chi phí đi vay sẽ chấm dứt khi các hoạt động chủ yếu cần thiết cho việc chuẩn bị đưa tài sản dở dang vào sử dụng hoặc bán đã hoàn thành. Chi phí đi vay phát sinh sau đó được ghi nhận vào chi phí tài chính trong kỳ.
+
+Trong năm, Công ty phát sinh 165.252.441 đồng (năm trước: 58.707.926.760 đồng) chi phí lãi vay được vốn hóa vào tài sản dở dang.
+
+Chi phí lãi vay của Công ty đối với các khoản vay cho các Dự án BOT được phân bổ vào kết quả kinh doanh trong kỳ theo tỷ trọng doanh thu thực hiện/Tổng doanh thu từ Dự án, riêng đối với 2 Dự án BOT: Đầu tư xây dựng trên quốc lộ 21 (trạm BOT Mỹ Lộc) và quốc lộ 10 (trạm BOT Đông Hưng) chi phí lãi vay được ghi nhận vào kết quả kinh doanh trong kỳ.
+
+Bàn thuyết minh này là một bộ phận hợp thành và phải được đọc cùng với Báo cáo tài chính hợp nhất
+
+17
+
+===== PAGE 21 =====
+□ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □
+
+CÔNG TY CỔ PHẦN TASCO
+BẢN THUYẾT MINH BẢO CẢO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+Cho năm tài chính kết thúc ngày 31 tháng 12 năm 2022
+
+B09-DN/HN
+
+12. Nguyên tắc ghi nhận chi phí phải trả
+
+Chi phí phải trả bao gồm các khoản phải trả cho hàng hóa, dịch vụ đã nhận được từ người bán trong kỳ nhưng thực tế chưa chi trả do chưa có hóa đơn hoặc chưa đủ hồ sơ, tài liệu kế toán, được ghi nhận trong kỳ báo cáo dựa trên điều khoản ghi trong các hợp đồng tương ứng.
+
+Cơ sở xác định các loại chỉ phí phải trả
+
+- Trích trước chi phí lãi tiền vay phải trả trong trường hợp trả lãi sau: Căn cứ số dư nợ gốc, thời hạn, lãi suất áp dụng.
+
+- Trích trước chi phí đề tạm tính giá vốn hàng hóa, thành phẩm bắt động sản đã bán: Căn cứ phần chênh lệch giữa chi phí theo đơn giá dự toán và chi phí thực tế tổng hợp.
+
+13. Nguyên tắc và phương pháp ghi nhận các khoản dự phòng phải trả
+
+Các khoản dự phòng được ghi nhận khi Công ty có nghĩa vụ nợ hiện tại (nghĩa vụ pháp lý hoặc nghĩa vụ liên đối) do kết quả từ một sự kiện đã xảy ra; có sự giảm sút về những lợi ích kinh tế có thể xảy ra dẫn đến việc yêu cầu phải thanh toán nghĩa vụ nợ; và đưa ra được một ước tính đáng tin cây về giá trị của nghĩa vụ nợ đó. Các khoản dự phòng phải trả được ghi nhận thoà mãn các điều kiện quy định trong Chuẩn mực kế toán số 18 “Các khoản dự phòng, tài sản và nợ tiềm tàng”.
+
+Phương pháp ghi nhận dự phòng phải trả
+
+Các khoản dự phòng phải trả được lập thêm (hoặc hoàn nhập) theo số chênh lệch lớn hơn (hoặc nhỏ hơn) giữa số dự phòng phải trả phải lập kỳ này so với số dự phòng phải trả đã lập kỳ trước chưa sử dụng đang ghi trên số kế toán.
+
+Căn cứ trích lập dự phòng phải trả
+
+Dự phòng chi phí đại tu Dự án BOT định kỳ (theo yêu cầu kỹ thuật): được trích lập căn cứ vào nhu cầu, kế hoạch sửa chữa TSCĐ định kỳ của Công ty.
+
+Dự phòng nghiệp vụ bảo hiểm, bao gồm: dự phòng phí chưa được hưởng và dự phòng dao động lớn: được trích lập căn cứ theo các quy định tại Thông tư số 50/2017/TT-BTC ngày 15/05/2017 của Bộ Tài chính hướng dẫn thi hành nghị định số 73/2016/NĐ-CP ngày 01/07/2016 của Chính phủ quy định chi tiết thi hành Luật kinh doanh Bảo hiểm và Luật sửa đổi, bổ sung một số điều của Luật Kinh doanh Bảo hiểm.
+
+14. Nguyên tắc ghi nhận doanh thu chưa thực hiện
+
+Doanh thu chưa thực hiện được ghi nhận khi Công ty nhận được tiền khách hàng trả trước liên quan đến các khoản sau: Khách hàng trả trước tiền phí quản lý vận hành, mua hóa đơn điện tử, thuê địa điểm quảng cáo.
+
+Phương pháp phân bổ doanh thu chưa thực hiện: Doanh thu chưa thực hiện được phân bổ và ghi nhận vào kết quả kinh doanh trong năm, căn cứ thời gian, kỳ hạn của số tiền nhận trước.
+
+15. Nguyên tắc ghi nhận vốn chủ sở hữu
+
+a) Nguyên tắc ghi nhận vốn góp của chủ sở hữu, thẳng dư vốn cổ phần
+
+Vốn góp của chủ sở hữu được ghi nhận theo số vốn thực tế đã góp của các cổ đông. Vốn góp của các cổ đông được ghi theo giá thực tế phát hành cổ phiếu, nhưng được phân ánh chi tiết theo hai chỉ tiêu: vốn góp của chủ sở hữu và thặng dư vốn cổ phần.
+
+Cổ phiếu phổ thông được ghi nhận theo mạnh giá. Khoản tiền thu được từ việc phát hành cổ phiếu vượt quá mạnh giá được ghi nhận là thăng dư vốn cổ phần. Các chi phí liên quan trực tiếp đến việc phát hành cổ phiếu, trừ các ảnh hưởng thuế, được ghi giảm vào thăng dư vốn cổ phần.
+
+b) Nguyên tắc ghi nhận quỹ đầu tư phát triển.
+
+Theo quy định tại Điều lệ Công ty, việc trích và sử dụng Quỹ đầu tư phát triển như sau:
+
+- Mục đích sử dụng: Đầu tư mở rộng quy mô sản xuất, kinh doanh hoặc đầu tư chiều sâu của Công ty.
+
+- Thẩm quyền ra quyết định trích lập và sử dụng quỹ: Đại hội đồng cổ đông.
+
+Bàn thuyết minh này là một bộ phận hợp thành và phải được đọc cùng với Báo cáo tài chính hợp nhất
+
+18
+
+===== PAGE 22 =====
+□ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □
+
+CÔNG TY CỔ PHẦN TASCO
+BẢN THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+Cho năm tài chính kết thúc ngày 31 tháng 12 năm 2022
+
+B09-DN/HN
+
+c) Nguyên tắc ghi nhận lợi nhuận chưa phân phối
+
+Lợi nhuận chưa phân phối phân ánh kết quả kinh doanh (lãi, lỗ) sau thuế TNDN và tình hình phân chia lợi nhuận hoặc xử lý lỗ của Công ty. Lợi nhuận chưa phân phối được theo dõi chi tiết theo kết quả hoạt động kinh doanh của từng năm tài chính (năm trước, năm nay), đồng thời theo dõi chi tiết theo từng nội dung phân chia lợi nhuận (trích lập các quỹ, bổ sung Vốn đầu tư của chủ sở hữu, chia cổ tức cho cổ đông).
+
+16. Nguyên tắc và phương pháp ghi nhận doanh thu
+
+Doanh thu bán hàng hoá, thành phẩm
+
+Doanh thu bán hàng hóa, thành phẩm bất động sản được ghi nhận khi kết quả giao dịch được xác định một cách đáng tin cậy và Công ty có khả năng thu được các lợi ích kinh tế từ giao dịch này. Doanh thu bán hàng được ghi nhận khi phần lớn những rủi ro và lợi ích về quyền sở hữu hàng hoá đã được chuyển giao cho người mua. Doanh thu không được ghi nhận khi có các yếu tố không chắc chắn mang tính trọng yếu về khả năng thu hồi các khoản tiền bán hàng hoặc có khả năng bị trả lại.
+
+Doanh thu cung cấp dịch vụ
+
+Doanh thu cung cấp dịch vụ quản lý vận hành khu đô thị, dịch vụ thu phí đường bộ, dịch vụ thu phí tự động không dùng, dịch vụ cung cấp hóa đơn điện từ được ghi nhận khi kết quả giao dịch được xác định một cách đáng tin cây. Trường hợp giao dịch về cung cấp dịch vụ liên quan đến nhiều kỳ thì doanh thu được ghi nhận theo tỷ lệ hoàn thành của giao dịch tại ngày kết thúc kỳ tài chính. Tỷ lệ hoàn thành giao dịch được đánh giá dựa trên khảo sát các công việc đã được thực hiện. Doanh thu không được ghi nhận nếu như có những yếu tố không chắc chắn trọng yếu liên quan tới khả năng thu hồi các khoản phải thu.
+
+Nếu không thể xác định được kết quả hợp đồng một cách chắc chắn, doanh thu sẽ chỉ được ghi nhận ở mức có thể thu hồi được của các chi phí đã được ghi nhận.
+
+Doanh thu bán điện
+
+Doanh thu bán điện được xác định và ghi nhận dựa trên sản lượng và giá bán điện đã được cơ quan Nhà nước có thẩm quyền phê duyệt.
+
+Doanh thu hoạt động tài chính
+
+Doanh thu hoạt động tài chính gồm: Lãi tiền gửi, tiền cho vay; cổ tức và lợi nhuận được chia và thu nhập từ hoạt động thanh lý các khoản đầu tư tài chính.
+
+Lãi tiền gửi, lãi cho vay: Được ghi nhận trên cơ sở thời gian và lãi suất thực tế từng kỳ, trừ khi khả năng thu hồi tiền lãi không chắc chắn.
+
+Cổ tức và lợi nhuận được chia: Được ghi nhận khi Công ty được quyền nhận cổ tức hoặc được quyền nhận lợi nhuận từ việc góp vốn. Riêng cổ tức nhận bằng cổ phiếu không ghi nhận vào thu nhập mà chỉ theo dõi số lượng tăng thêm.
+
+Thu nhập từ hoạt động thanh lý các khoản đầu tư tài chính: Được ghi nhận khi phần lớn rủi ro và lợi ích gắn liền với quyền sở hữu khoản đầu tư được chuyển giao cho người mua. Phần lớn rủi ro và lợi ích gắn liền với quyền sở hữu chỉ được chuyển giao cho người mua khi hoàn thành giao dịch mua bán (đối với chứng khoán đã niêm yết) hoặc hoàn thành hợp đồng chuyển nhượng tài sản (đối với chứng khoán chưa niêm yết). Thu nhập này được xác định là phần chênh lệch giữa giá bán và giá vốn khoản đầu tư.
+
+Doanh thu hợp đồng xây dựng
+
+Trường hợp, hợp đồng xây dựng quy định nhà thầu được thanh toán theo tiến độ kế hoạch, khi kết quả thực hiện hợp đồng xây dựng được ước tính một cách đáng tin cây, thì doanh thu và chi phí liên quan đến hợp đồng được ghi nhận tương ứng với phần công việc đã hoàn thành do Công ty tự xác định vào ngày lập báo cáo tài chính hợp nhất mà không phụ thuộc vào hóa đơn thanh toán theo tiến độ kế hoạch đã lập hay chưa và số tiền ghi trên hóa đơn là bao nhiêu.
+
+Trường hợp hợp đồng xây dựng quy định nhà thầu được thanh toán theo giá trị khối lượng thực hiện, khi kết quả thực hiện hợp đồng xây dựng được xác định một cách đáng tin cây và được khách hàng xác nhận, thì doanh thu và chi phí liên quan đến hợp đồng được ghi nhận tương ứng với phần công việc đã hoàn thành được khách hàng xác nhận trong năm và được phản ánh trên hóa đơn đã lập.
+
+Bản thuyết minh này là một bộ phận hợp thành và phải được đọc cùng với Báo cáo tài chính hợp nhất
+
+19
+
+===== PAGE 23 =====
+□ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □
+
+CÔNG TY CỔ PHẦN TASCO
+BẢN THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+Cho năm tài chính kết thúc ngày 31 tháng 12 năm 2022
+
+B09-DN/HN
+
+Khi kết quả thực hiện hợp đồng xây dựng không thể ước tính một cách đáng tin cây, doanh thu chỉ được ghi nhận tương ứng với chi phí của hợp đồng xây dựng đã phát sinh mà việc hoàn trả là tương đối chắc chắn.
+
+Doanh thu từ hoạt động chuyển nhượng bất động sản
+
+Doanh thu chuyển nhượng bất động sản được ghi nhận khi phần lớn rủi ro và lợi ích gắn liền với quyền sở hữu bất động sản được chuyển giao cho người mua. Doanh thu chuyển nhượng bất động sản cũng bao gồm doanh thu chuyển nhượng các dự án bất động sản thông qua hình thức chuyển nhượng dự án.
+
+17. Nguyên tắc kế toán các khoản giảm trừ doanh thu
+
+Các khoản giảm trừ doanh thu gồm: chiết khấu thương mại, giảm giá hàng bán và hàng bán bị trả lại. Các khoản giảm trừ doanh thu phát sinh cùng kỳ tiêu thụ sản phẩm, hàng hóa dịch vụ được điều chỉnh giảm doanh thu của kỳ phát sinh.
+
+Trường hợp sản phẩm, hàng hoá, dịch vụ đã tiêu thụ từ các kỳ trước, đến kỳ sau mới phát sinh khoản giảm trừ doanh thu, và sự kiện này phát sinh trước thời điểm phát hành Báo cáo tài chính: Công ty ghi giảm doanh thu trên Báo cáo tài chính của kỳ lập báo cáo (kỳ trước), theo quy định của Chuẩn mực kế toán Việt Nam số 23 “Các sự kiện phát sinh sau ngày kết thúc kỳ kế toán năm”.
+
+Trường hợp sản phẩm, hàng hoá, dịch vụ đã tiêu thụ từ các kỳ trước, đến sau thời điểm phát hành Báo cáo tài chính của kỳ sau mới phát sinh khoản giảm trừ doanh thu: Công ty ghi giảm doanh thu của kỳ phát sinh (kỳ sau).
+
+18. Nguyên tắc kế toán giá vốn hàng bán.
+
+Giá vốn hàng bán được ghi nhận theo nguyên tắc phù hợp với doanh thu.
+
+Để đảm bảo nguyên tắc thận trọng, các chi phí vượt trên mức bình thường của hàng tồn kho được ghi nhận ngay vào chi phí trong kỳ (sau khi trừ đi các khoản bồi thường, nếu có), gồm: chi phí nguyên vật liệu trực tiếp tiêu hao vượt mức bình thường, chi phí nhân công, chi phí sản xuất chung cố định không phân bổ vào giá trị sản phẩm nhập kho, hàng tồn kho hao hụt, mất mát...
+
+Công ty không phát sinh các khoản ghi giảm giá vốn hàng bán trong năm.
+
+19. Chi phí bán hàng và chi phí quản lý doanh nghiệp
+
+Chi phí bán hàng: Là các khoản chi phí thực tế phát sinh trong quá trình bán sản phẩm, hàng hoá, cung cấp dịch vụ, bao gồm các chi phí chào hàng, giới thiệu sản phẩm, quảng cáo sản phẩm, hoa hồng bán hàng, chi phí bảo hành sản phẩm, hàng hoá (trừ hoạt động xây lắp).
+
+Công ty không phát sinh các khoản ghi giảm chi phí bán hàng trong năm.
+
+Chi phí quản lý doanh nghiệp: Là các chi phí quản lý chung, gồm chi phí lương nhân viên bộ phận quản lý doanh nghiệp (tiền lương, tiền công, các khoản phụ cấp,...); bảo hiểm xã hội, bảo hiểm y tế, kinh phí công đoàn, bảo hiểm thất nghiệp của nhân viên quản lý doanh nghiệp; chi phí vật liệu văn phòng, công cụ lao động, khấu hao TSCĐ dùng cho quản lý doanh nghiệp; tiền thuê đất, thuế môn bài; khoản lập dự phòng phải thu khó đòi; dịch vụ mua ngoài (điện, nước, điện thoại, fax, bảo hiểm tài sản, cháy nổ...); chi phí bằng tiền khác (tiếp khách, hội nghị khách hàng...).
+
+Công ty không phát sinh các khoản ghi giảm chi phí quản lý doanh nghiệp trong năm.
+
+20. Báo cáo bộ phận
+
+Báo cáo bộ phận là một phần của báo cáo tài chính hợp nhất, báo cáo bộ phận cung cấp các thông tin về các loại sản phẩm, dịch vụ tại các khu vực có địa lý khác nhau được gọi là thông tin bộ phận.
+
+Bộ phận theo lĩnh vực kinh doanh là một phần có thể xác định riêng biệt tham gia vào quá trình sản xuất hoặc cung cấp sản phẩm, dịch vụ và có rủi ro và lợi ích kinh tế khác với các bộ phận kinh doanh khác.
+
+Bàn thuyết minh này là một bộ phận hợp thành và phải được đọc cùng với Báo cáo tài chính hợp nhất
+
+20
+
+===== PAGE 24 =====
+□ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □
+
+CÔNG TY CỔ PHẦN TASCO
+BẢN THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+Cho năm tài chính kết thúc ngày 31 tháng 12 năm 2022
+
+B09-DN/HN
+
+Bộ phận theo khu vực địa lý là một phần có thể xác định riêng biệt tham gia vào quá trình sản xuất hoặc cung cấp sản phẩm, dịch vụ trong phạm vi một môi trường kinh tế cụ thể và có rủi ro và lợi ích kinh tế khác với các bộ phận kinh doanh trong các môi trường kinh tế khác.
+
+Ban Điều hành Công ty cho rằng, Công ty hoạt động trong các bộ phận theo lĩnh vực kinh doanh là: Xây lắp và hoạt động khác, Đầu tư kinh doanh bắt động sản, Dịch vụ thu phí đường bộ theo hình thức BOT, dịch vụ thu phí theo hình thức điện tử không dùng và hoạt động trong một bộ phận theo khu vực địa lý duy nhất là Việt Nam. Báo cáo bộ phận sẽ được lập theo lĩnh vực kinh doanh.
+
+Báo cáo bộ phận được trình bày ở Thuyết minh số VIII.3.
+
+21. Bên liên quan
+
+Các bên được coi là liên quan nếu một bên có khả năng kiểm soát hoặc có ảnh hưởng đáng kể đối với bên kia trong việc ra quyết định các chính sách tài chính và hoạt động. Các bên cũng được xem là bên liên quan nếu cùng chịu sự kiểm soát chung hay chịu ảnh hưởng đáng kể chung. Các bên liên quan có thể là các công ty hoặc các cá nhân, bao gồm cả các thành viên mật thiết trong gia đình của cá nhân được coi là liên quan.
+
+Trong việc xem xét mối quan hệ của các bên liên quan, bản chất của mối quan hệ được chú trọng nhiều hơn hình thức pháp lý.
+
+Giao dịch và số dư với các bên có liên quan trong năm được trình bày ở Thuyết minh số VIII.2.
+
+22. Các nguyên tắc và phương pháp kế toán khác
+
+Chi phí sản xuất kinh doanh dỗ dang dài hạn
+
+Chi phí sản xuất, kinh doanh dở dang dài hạn được ghi nhận theo giá trị thuần có thể thực hiện được của chi phí sản xuất, kinh doanh dở dang vượt quá một chu kỳ kinh doanh. Các khoản chi phí sản xuất, kinh doanh dở dang dài hạn tại ngày kết thúc năm tài chính bao gồm chi phí đầu tư xây dựng các dự án bất động sản để bán chưa hoàn thành.
+
+Chi phí xây dựng cơ bản dở dang
+
+Chi phí xây dựng cơ bản dở dang bao gồm chi phí xây dựng TSCĐ hoặc bất động sản đầu tư. Các bất động sản xây dựng sử dụng cho nhiều mục đích (làm văn phòng, cho thuê hoặc để bán, ví dụ như tòa nhà chung cư hỗn hợp) được tập hợp chi phí đầu tư xây dựng trên khoản mục “Chi phí xây dựng cơ bản dở dang” và được kết chuyển phù hợp khi công trình, dự án hoàn thành bản giao đưa vào sử dụng, căn cứ cách thức sử dụng tài sản trong thực tế.
+
+V. THÔNG TIN BỔ SUNG CHO CÁC KHOẢN MỤC TRÌNH BÀY TRONG BẢNG CÂN ĐỐI KẾ TOÁN HỢP NHẤT
+
+1. Tiền và các khoản tương đương tiền
+
+<table><tr><td></td><td>Số cuối năm</td><td>Số đầu năm</td></tr><tr><td>Tiền mặt</td><td>1.416.962.505</td><td>1.225.000.109</td></tr><tr><td>Tiền gửi ngân hàng (*)</td><td>935.010.779.272</td><td>402.931.054.671</td></tr><tr><td>Cộng</td><td>936.427.741.777</td><td>404.156.054.780</td></tr><tr><td>Các khoản tương đương tiền (**)</td><td>17.002.383.846</td><td>237.397.527.450</td></tr><tr><td>Cộng tiền và các khoản tương đương tiền</td><td>953.430.125.623</td><td>641.553.582.230</td></tr></table>
+
+(*): Tại ngày 31/12/2022 số dư tiền gửi ngân hàng bao gồm 854.508.822.306 VND là số dư các tài khoản thu phí. Tài khoản này được quản lý, sử dụng tuân theo quy định trong hợp đồng BOO được ký với Bộ Giao thông vận tải và các quy định pháp lý liên quan.
+
+(**): Tương đương tiền là các khoản tiền gửi tại các ngân hàng thương mại và tổ chức tài chính có thời hạn từ 4 ngày đến dưới 3 tháng, lãi suất từ 3,5% - 6%/năm.
+
+Bàn thuyết minh này là một bộ phận hợp thành và phải được đọc cùng với Báo cáo tài chính hợp nhất
+
+21
+
+===== PAGE 25 =====
+CÔNG TY CỔ PHẦN TASCO
+
+BẢN THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẮT (tiếp theo)
+Cho năm tài chính kết thúc ngày 31 tháng 12 năm 2022
+
+B09-DN/HN
+
+<table><tr><td rowspan="2"></td><td colspan="3">Số cuối năm</td><td colspan="3">Số đầu năm</td></tr><tr><td>Giá gốc</td><td>Giá trị hợp lý</td><td>Dự phòng</td><td>Giá gốc</td><td>Giá trị hợp lý</td><td>Dự phòng</td></tr><tr><td>Trái phiếu</td><td>360.454.500.000</td><td>(*)</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>Trái phiếu doanh nghiệp 1 (1.000.000 TP)</td><td>105.933.000.000</td><td></td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>Trái phiếu doanh nghiệp 2 (1.500.000 TP)</td><td>153.403.500.000</td><td></td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>Trái phiếu doanh nghiệp 3 (1.000.000 TP)</td><td>101.118.000.000</td><td></td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>Cộng</td><td>360.454.500.000</td><td></td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td colspan="7">(*): Công ty chưa xác định giá trị hợp lý do các trái phiếu này chưa niêm yết trên thị trường, Chế độ kế toán và Chuẩn mực kế toán Việt Nam cũng không có hướng dẫn về cách tính giá trị hợp lý sử dụng các kỹ thuật định giá. Giá trị hợp lý của các khoản trái phiếu này có thể khác với giá trị ghi sổ.(i): Trái phiếu doanh nghiệp có mệnh giá 100.000 VND/trái phiếu, kỳ hạn 6 năm, lãi suất thả nổi (Hiện tại là 9,5%).(ii): Trái phiếu doanh nghiệp có mệnh giá 100.000 VND/trái phiếu, kỳ hạn 3 năm, lãi suất cố định 10,5%/năm.(iii): Trái phiếu doanh nghiệp có mệnh giá 100.000 VND/trái phiếu, kỳ hạn 3 năm, lãi suất thả nổi.Các Trái phiếu này đã được cam kết mua lại bởi Tổ chức bảo lãnh phát hành.</td></tr><tr><td colspan="7">2.2 Đầu tư nằm giữ đến ngày đáo hạn</td></tr><tr><td rowspan="2"></td><td colspan="3">Số cuối năm</td><td colspan="3">Số đầu năm</td></tr><tr><td>Giá gốc</td><td>Giá trị hợp lý</td><td>Dự phòng</td><td>Giá gốc</td><td>Giá trị hợp lý</td><td>Dự phòng</td></tr><tr><td>Tiền gửi có kỳ hạn</td><td>190.210.000.000</td><td>190.210.000.000</td><td>-</td><td>9.889.607.184</td><td>9.889.607.184</td><td>-</td></tr><tr><td>Tiền gửi có kỳ hạn từ 6 đến 12 tháng tại các ngân hàng thương mại</td><td>190.210.000.000</td><td>190.210.000.000</td><td>-</td><td>9.889.607.184</td><td>9.889.607.184</td><td>-</td></tr><tr><td>Đầu tư nằm giữ đến ngày đáo hạn khác</td><td>-</td><td>-</td><td>-</td><td>63.500.000.000</td><td>63.500.000.000</td><td>-</td></tr><tr><td>Hợp đồng hợp tác đầu tư</td><td>-</td><td>-</td><td>-</td><td>63.500.000.000</td><td>63.500.000.000</td><td>-</td></tr><tr><td>Cộng</td><td>190.210.000.000</td><td>190.210.000.000</td><td>-</td><td>73.389.607.184</td><td>73.389.607.184</td><td>-</td></tr></table>
+
+2. Các khoản đầu tư tài chính
+2.1 Chứng khoán kinh doanh
+
+Bản thuyết minh này là một bộ phận hợp thành và phải được đọc cùng với Báo cáo tài chính hợp nhất
+
+22
+
+===== PAGE 26 =====
+CÔNG TY CỔ PHẦN TASCO
+
+BẢN THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+
+Cho năm tài chính kết thúc ngày 31 tháng 12 năm 2022
+
+2.3 Đầu tư vào Công ty liên doanh, liên kết
+
+<table><tr><td rowspan="2"></td><td colspan="3">Số cuối năm</td><td colspan="3">Số đầu năm</td></tr><tr><td>Giá gốc</td><td>Giá trị theo phương pháp vốn chủ sở hữu</td><td>Dự phòng</td><td>Giá gốc</td><td>Giá trị theo phương pháp vốn chủ sở hữu</td><td>Dự phòng</td></tr><tr><td>Công ty TNHH BOT Hùng Thắng Phú Thọ</td><td>69.000.000.000</td><td>79.859.455.076</td><td>-</td><td>69.000.000.000</td><td>77.793.499.676</td><td>-</td></tr><tr><td>Công ty cổ phần Bắt động sản Quảng Phú (i)</td><td>-</td><td>-</td><td>-</td><td>1.000.000.000</td><td>1.000.000.000</td><td>-</td></tr><tr><td>Tổng Công ty Thăng Long - CTCP (ii)</td><td>-</td><td>-</td><td>-</td><td>239.567.505.000</td><td>251.315.230.489</td><td>-</td></tr><tr><td>Công ty TNHH NVT Holdings</td><td>257.400.000.000</td><td>257.400.000.000</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>Cộng</td><td>326.400.000.000</td><td>337.259.455.076</td><td>-</td><td>309.567.505.000</td><td>330.108.730.165</td><td>-</td></tr><tr><td rowspan="2">2.4 Đầu tư góp vốn vào đơn vị khác</td><td colspan="3">Số cuối năm</td><td colspan="3">Số đầu năm</td></tr><tr><td>Giá gốc</td><td>Giá trị hợp lý (*)</td><td>Dự phòng</td><td>Giá gốc</td><td>Giá trị hợp lý (*)</td><td>Dự phòng</td></tr><tr><td>Công ty cổ phần COTABIG</td><td>300.000.000</td><td></td><td>-</td><td>300.000.000</td><td></td><td>-</td></tr><tr><td>Công ty cổ phần Bắt động sản Quảng Phú (i)</td><td>1.000.000.000</td><td></td><td>-</td><td>-</td><td></td><td>-</td></tr><tr><td>Công ty cổ phần Đầu tư phát triển nhà và đô thị HUD 8</td><td>4.500.000.000</td><td></td><td>-</td><td>4.500.000.000</td><td></td><td>-</td></tr><tr><td>Công ty TNHH Môi trường Tasco Cù Chi</td><td>18.000.000.000</td><td></td><td>-</td><td>18.000.000.000</td><td></td><td>-</td></tr><tr><td>Cộng</td><td>23.800.000.000</td><td></td><td>-</td><td>22.800.000.000</td><td></td><td>-</td></tr></table>
+
+Bàn thuyết minh này là một bộ phận hợp thành và phải được đọc cùng với Báo cáo tài chính hợp nhất
+
+23
+
+===== PAGE 27 =====
+□ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □
+
+CÔNG TY CỔ PHẦN TASCO
+
+BẢN THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+
+Cho năm tài chính kết thúc ngày 31 tháng 12 năm 2022
+
+B09-DN/HN
+
+3. Phải thu ngắn hạn của khách hàng
+
+<table><tr><td></td><td>Số cuối năm</td><td>Số đầu năm</td></tr><tr><td>Phải thu khách hàng là bên thứ ba</td><td>454.772.458.730</td><td>444.955.808.998</td></tr><tr><td>Phải thu hoạt động xây lắp</td><td>367.880.986.002</td><td>359.254.901.221</td></tr><tr><td>Ủy ban nhân dân Quận Nam Từ Liêm</td><td>244.883.010.283</td><td>244.883.010.283</td></tr><tr><td>Sở GTVT tỉnh Thái Bình</td><td>90.344.054.000</td><td>90.344.054.000</td></tr><tr><td>Các đối tượng khác</td><td>32.653.921.719</td><td>24.027.836.938</td></tr><tr><td>Phải thu kinh doanh Bất động sản</td><td>24.121.570.910</td><td>34.064.850.792</td></tr><tr><td>Phải thu hoạt động khác</td><td>62.769.901.818</td><td>51.636.056.985</td></tr><tr><td>Phải thu khách hàng là bên liên quan</td><td>2.022.048.612</td><td>14.850.000</td></tr><tr><td>Phải thu hoạt động khác</td><td>2.022.048.612</td><td>14.850.000</td></tr><tr><td colspan="3">(Chi tiết phải thu khách hàng là bên liên quan được thuyết minh tại thuyết minh số VIII.2)</td></tr><tr><td>Cộng</td><td>456.794.507.342</td><td>444.970.658.998</td></tr></table>
+
+4. Trả trước cho người bán ngắn hạn
+
+<table><tr><td></td><td>Số cuối năm</td><td>Số đầu năm</td></tr><tr><td>Trả trước cho người bán là bên thứ ba</td><td>57.785.088.176</td><td>49.998.252.918</td></tr><tr><td>Trả trước hoạt động xây lắp</td><td>31.273.417.288</td><td>8.532.204.561</td></tr><tr><td>Công ty TNHH Xây dựng và Thương mại Hồng Hân</td><td>11.026.000.000</td><td>-</td></tr><tr><td>Các đối tương khác</td><td>20.247.417.288</td><td>8.532.204.561</td></tr><tr><td>Trả trước hoạt động dự án</td><td>12.968.382.340</td><td>-</td></tr><tr><td>Trả trước hoạt động khác</td><td>13.543.288.548</td><td>41.466.048.357</td></tr><tr><td>Công ty cổ phần Atis</td><td>5.892.329.819</td><td>10.042.669.171</td></tr><tr><td>Các đối tương khác</td><td>7.650.958.729</td><td>31.423.379.186</td></tr><tr><td>Cộng</td><td>57.785.088.176</td><td>49.998.252.918</td></tr></table>
+
+5. Phải thu về cho vay ngắn hạn
+
+<table><tr><td></td><td>Số cuối năm</td><td>Số đầu năm</td></tr><tr><td>Cho vay bên thứ ba</td><td>9.559.000.000</td><td>27.609.285.000</td></tr><tr><td>Công ty TNHH An Nhiên Foods</td><td>9.559.000.000</td><td>20.799.000.000</td></tr><tr><td>Các đối tượng khác</td><td>-</td><td>6.810.285.000</td></tr><tr><td>Cho vay bên liên quan</td><td>5.740.000.000</td><td>5.740.000.000</td></tr><tr><td colspan="3">(Chi tiết cho vay bên liên quan được thuyết minh tại thuyết minh số VIII.2)</td></tr><tr><td>Cộng</td><td>15.299.000.000</td><td>33.349.285.000</td></tr></table>
+
+6. Phải thu khác
+
+6.1 Phải thu khác ngắn hạn
+
+<table><tr><td rowspan="2"></td><td colspan="2">Số cuối năm</td><td colspan="2">Số đầu năm</td></tr><tr><td>Giá trị</td><td>Dự phòng</td><td>Giá trị</td><td>Dự phòng</td></tr><tr><td>Phải thu khác từ bên thứ ba</td><td>1.086.004.874.073</td><td>(14.141.599.875)</td><td>894.982.344.188</td><td>(6.226.224.695)</td></tr><tr><td>Tạm ứng</td><td>26.407.738.748</td><td>(8.674.895.788)</td><td>25.259.815.625</td><td>(4.112.776.227)</td></tr><tr><td>Phải thu giá trị hoàn trả suất đầu tư</td><td>48.324.177.720</td><td>-</td><td>48.324.177.720</td><td>-</td></tr><tr><td>Phải thu từ chuyển nhượng vốn</td><td>-</td><td>-</td><td>157.500.000.000</td><td>-</td></tr><tr><td>Phải thu hợp đồng hợp tác đầu tư</td><td>340.270.000.000</td><td>-</td><td>440.654.000.000</td><td>-</td></tr><tr><td>Phải thu hợp đồng hợp tác kinh doanh</td><td>95.000.000.000</td><td>-</td><td>167.550.000.000</td><td>-</td></tr><tr><td>Phải thu tiền đặt cọc mua phần vốn góp</td><td>331.600.000.000</td><td>-</td><td>-</td><td>-</td></tr><tr><td>Phải thu khác</td><td>244.402.957.605</td><td>(5.466.704.087)</td><td>55.694.350.843</td><td>(2.113.448.468)</td></tr><tr><td>Phải thu khác từ bên liên quan</td><td>2.139.647.426</td><td>-</td><td>2.387.419.096</td><td>-</td></tr><tr><td>Phải thu khác</td><td>2.139.647.426</td><td>-</td><td>2.387.419.096</td><td>-</td></tr><tr><td colspan="5">(Chi tiết phải thu khác từ bên liên quan được thuyết minh tại thuyết minh số VIII.2)</td></tr><tr><td>Cộng</td><td>1.088.144.521.499</td><td>(14.141.599.875)</td><td>897.369.763.284</td><td>(6.226.224.695)</td></tr></table>
+
+Bản thuyết minh này là một bộ phận hợp thành và phải được đọc cùng với Báo cáo tài chính hợp nhất
+
+24
+
+6002
+CÔNG
+CÔ P
+'AS
+YLIÊI
+
+===== PAGE 28 =====
+□ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □
+
+CÔNG TY CỔ PHẦN TASCO
+
+B09-DN/HN
+
+BẢN THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+
+Cho năm tài chính kết thúc ngày 31 tháng 12 năm 2022
+
+6.2 Phải thu khác dài hạn
+
+Số cuối năm
+
+Số đầu năm
+
+<table><tr><td></td><td>Giá trị</td><td>Dự phòng</td><td>Giá trị</td><td>Dự phòng</td></tr><tr><td>Phải thu khác từ bên thứ ba</td><td>186.541.161.752</td><td>(3.150.000.000)</td><td>71.269.713.501</td><td>(3.150.000.000)</td></tr><tr><td>Ký cược, ký quỹ dài hạn (*)</td><td>71.343.829.042</td><td>(3.150.000.000)</td><td>70.280.563.848</td><td>(3.150.000.000)</td></tr><tr><td>Phải thu hợp đồng hợp tác kinh doanh</td><td>56.643.678.000</td><td>-</td><td>-</td><td>-</td></tr><tr><td>Phải thu khác</td><td>58.553.654.710</td><td>-</td><td>989.149.653</td><td>-</td></tr><tr><td>Phải thu khác từ bên liên quan</td><td>-</td><td>-</td><td>58.553.654.710</td><td>-</td></tr><tr><td colspan="5">(Chỉ tiết phải thu khác từ bên liên quan được thuyết minh tại thuyết minh số VIII.2)</td></tr><tr><td>Cộng</td><td>186.541.161.752</td><td>(3.150.000.000)</td><td>129.823.368.211</td><td>(3.150.000.000)</td></tr></table>
+
+(*): Công ty thực hiện ký quỹ dài hạn tại Ngân hàng bằng các hợp đồng tiền gửi có kỳ hạn phục vụ bảo lãnh cho các hợp đồng vay và bảo lãnh thực hiện dự án.
+
+7. Nợ xấu
+
+a. Các khoản phải thu quá hạn thanh toán, hoặc chưa quá hạn nhưng khó có khả năng thu hồi
+
+<table><tr><td rowspan="2"></td><td colspan="3">Số cuối năm</td><td colspan="3">Số đầu năm</td></tr><tr><td>Giá gốc</td><td>Dự phòng</td><td>Giá trị có thể thu hồi</td><td>Giá gốc</td><td>Dự phòng</td><td>Giá trị có thể thu hồi</td></tr><tr><td colspan="7">Các khoản phải thu ngắn hạn</td></tr><tr><td>Sở GTVT tỉnh Thái Bình</td><td>89.903.800.000</td><td>89.903.800.000</td><td>-</td><td>89.903.800.000</td><td>89.903.800.000</td><td>-</td></tr><tr><td>Ban QLDA cải tạo, nâng cấp đường cứu hộ để bối sông Luộc Hưng Yên</td><td>2.283.781.000</td><td>2.283.781.000</td><td>-</td><td>2.283.781.000</td><td>2.283.781.000</td><td>-</td></tr><tr><td>Nguyễn Đăng Hải</td><td>2.567.050.662</td><td>2.567.050.662</td><td>-</td><td>2.567.050.662</td><td>2.567.050.662</td><td>-</td></tr><tr><td>Nguyễn Minh Tuyên</td><td>2.113.448.468</td><td>2.113.448.468</td><td>-</td><td>2.113.448.468</td><td>2.113.448.468</td><td>-</td></tr><tr><td>Các đối tượng khác</td><td>59.000.464.958</td><td>54.091.229.173</td><td>4.909.235.785</td><td>7.306.081.926</td><td>7.306.081.926</td><td>-</td></tr><tr><td colspan="7">Các khoản phải thu dài hạn</td></tr><tr><td>Công ty IT Fusion</td><td>3.150.000.000</td><td>3.150.000.000</td><td>-</td><td>3.150.000.000</td><td>3.150.000.000</td><td>-</td></tr><tr><td>Cộng</td><td>159.018.545.088</td><td>154.109.309.303</td><td>4.909.235.785</td><td>107.324.162.056</td><td>107.324.162.056</td><td>-</td></tr></table>
+
+b. Đánh giá của Công ty về khả năng thu hồi nợ quá hạn
+
+Công ty đã đánh giá và trích lập dự phòng đối với các khoản nợ quá hạn, nợ khó có khả năng thu hồi với sự thận trọng phù hợp. Công ty sẽ tiếp tục thực hiện các biện pháp để đảm bảo thu hồi được số nợ quá hạn.
+
+c. Chi tiết tình hình tăng, giảm dự phòng nợ phải thu khó đòi
+
+<table><tr><td></td><td>Năm nay</td><td>Năm trước</td></tr><tr><td>Số dư đầu năm</td><td>107.324.162.056</td><td>102.468.217.550</td></tr><tr><td>Trích lập dự phòng bổ sung trong năm</td><td>24.229.094.009</td><td>4.855.944.506</td></tr><tr><td>Hoàn nhập dự phòng trong năm</td><td>-</td><td>-</td></tr><tr><td>Tăng do hợp nhất</td><td>22.556.053.238</td><td>-</td></tr><tr><td>Xóa nợ bằng khoản dự phòng trong năm</td><td>-</td><td>-</td></tr><tr><td>Số dư cuối năm</td><td>154.109.309.303</td><td>107.324.162.056</td></tr></table>
+
+Bàn thuyết minh này là một bộ phận hợp thành và phải được đọc cùng với Báo cáo tài chính hợp nhất
+
+25
+
+===== PAGE 29 =====
+□ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □
+
+CÔNG TY CỔ PHẦN TASCO
+
+B09-DN/HN
+
+BẢN THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+
+Cho năm tài chính kết thúc ngày 31 tháng 12 năm 2022
+
+8. Hàng tồn kho
+
+<table><tr><td rowspan="2"></td><td colspan="2">Số cuối năm</td><td colspan="2">Số đầu năm</td></tr><tr><td>Giá trị</td><td>Dự phòng</td><td>Giá trị</td><td>Dự phòng</td></tr><tr><td>Nguyên liệu, vật liệu</td><td>3.508.745.711</td><td>-</td><td>2.978.494.019</td><td>-</td></tr><tr><td>Công cụ, dụng cụ</td><td>38.710.941.935</td><td>-</td><td>34.636.800.552</td><td>-</td></tr><tr><td>Chi phí sản xuất, kinh doanh dở dang</td><td>17.046.660.131</td><td>-</td><td>14.625.615.990</td><td>-</td></tr><tr><td>Hàng hóa Bất động sản</td><td>20.738.151.369</td><td>-</td><td>23.586.452.857</td><td>-</td></tr><tr><td>Hàng hóa</td><td>79.547.333</td><td>-</td><td>2.175.743.822</td><td>-</td></tr><tr><td>Hàng gửi đi bán</td><td>18.195.279.649</td><td></td><td>-</td><td>-</td></tr><tr><td>Cộng</td><td>98.279.326.128</td><td>-</td><td>78.003.107.240</td><td>-</td></tr></table>
+
+9. Chi phí trả trước
+
+9.1 Chi phí trả trước ngắn hạn
+
+<table><tr><td></td><td>Số cuối năm</td><td>Số đầu năm</td></tr><tr><td>Công cụ, dụng cụ xuất dùng</td><td>636.356.189</td><td>175.351.942</td></tr><tr><td>Chi phí thuê kho, thuê văn phòng</td><td>1.997.502.145</td><td>-</td></tr><tr><td>Chi phí trả trước khác</td><td>1.984.718.444</td><td>847.501.655</td></tr><tr><td>Cộng</td><td>4.618.576.778</td><td>1.022.853.597</td></tr></table>
+
+9.2 Chi phí trả trước dài hạn
+
+<table><tr><td></td><td>Số cuối năm</td><td>Số đầu năm</td></tr><tr><td>Công cụ, dụng cụ xuất dùng</td><td>4.067.599.618</td><td>1.340.666.605</td></tr><tr><td>Chi phí lãi vay các dự án BOT</td><td>1.020.921.576.757</td><td>875.156.403.922</td></tr><tr><td>Chi phí dán thẻ ETAG - DA thu phí tự động không dùng</td><td>53.482.511.958</td><td>8.822.731.195</td></tr><tr><td>Chi phí trung tu dự án BOT</td><td>20.669.368.606</td><td>26.508.625.211</td></tr><tr><td>Chi phí trả trước khác</td><td>6.030.542.298</td><td>28.691.537.059</td></tr><tr><td>Cộng</td><td>1.105.171.599.237</td><td>940.519.963.992</td></tr></table>
+
+10. Tăng, giảm tài sản cố định vô hình
+
+<table><tr><td></td><td>Phần mềm máy tính</td><td>Cộng</td></tr><tr><td colspan="3">NGUYÊN GIÁ</td></tr><tr><td>Số đầu năm</td><td>201.574.743.864</td><td>201.574.743.864</td></tr><tr><td>Mua trong năm</td><td>359.000.000</td><td>359.000.000</td></tr><tr><td>Tăng do hợp nhất kinh doanh</td><td>826.329.838</td><td>826.329.838</td></tr><tr><td>Giảm do thoái vốn tại công ty con</td><td>(4.851.859.000)</td><td>(4.851.859.000)</td></tr><tr><td>Giảm khác</td><td>(589.803.637)</td><td>(589.803.637)</td></tr><tr><td>Số cuối năm</td><td>197.318.411.065</td><td>197.318.411.065</td></tr><tr><td colspan="3">HAO MÒN LUỸ KẾ</td></tr><tr><td>Số đầu năm</td><td>39.209.031.553</td><td>39.209.031.553</td></tr><tr><td>Khấu hao trong năm</td><td>12.966.876.760</td><td>12.966.876.760</td></tr><tr><td>Tăng do hợp nhất kinh doanh</td><td>826.329.838</td><td>826.329.838</td></tr><tr><td>Giảm do thoái vốn tại công ty con</td><td>(1.351.980.497)</td><td>(1.351.980.497)</td></tr><tr><td>Giảm khác</td><td>(589.803.637)</td><td>(589.803.637)</td></tr><tr><td>Số cuối năm</td><td>51.060.454.017</td><td>51.060.454.017</td></tr><tr><td colspan="3">GIÁ TRỊ CÔN LẠI</td></tr><tr><td>Số đầu năm</td><td>162.365.712.311</td><td>162.365.712.311</td></tr><tr><td>Số cuối năm</td><td>146.257.957.048</td><td>146.257.957.048</td></tr></table>
+
+Trong đó:
+
+Nguyên giá TSCĐ vô hình tại ngày 31/12/2022 đã khấu hao hết nhưng vẫn còn sử dụng là 4.131.823.138 VND (tại ngày 31/12/2021 là 3.775.296.937 VND).
+
+Giá trị còn lại của TSCĐ vô hình tại ngày 31/12/2022 đã dùng thế chấp, cầm cố, đảm bảo khoản vay là 145.910.286.376 VND (tại ngày 31/12/2021 là 158.792.573.604 VND).
+
+Bản thuyết minh này là một bộ phận hợp thành và phải được đọc cùng với Báo cáo tài chính hợp nhất
+
+26
+
+===== PAGE 30 =====
+B09-DN/HN
+
+CÔNG TY CỔ PHẦN TASCO
+
+BẢN THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+Cho năm tài chính kết thúc ngày 31 tháng 12 năm 2022
+
+<table><tr><td colspan="7">11. Tăng, giảm tài sản cố định hữu hình</td></tr><tr><td></td><td>Nhà cửa,vật kiến trúc</td><td>Máy móc,thiết bị</td><td>Phương tiệnvận tải truyền dẫn</td><td>Thiết bị,dụng cụ quản lý</td><td>TSCĐhữu hình khác</td><td>Cộng</td></tr><tr><td colspan="7">NGUYÊN GIÁ</td></tr><tr><td>Số đầu năm</td><td>24.047.504.412</td><td>126.746.636.227</td><td>28.194.204.020</td><td>10.097.965.148</td><td>7.285.017.738.856</td><td>7.474.104.048.663</td></tr><tr><td>Mua sắm mới</td><td>-</td><td>82.727.273</td><td>1.137.875.818</td><td>38.749.000</td><td>6.262.945.723</td><td>7.522.297.814</td></tr><tr><td>Đầu tư xây dựng cơ bản hoàn thành</td><td>56.466.300</td><td>12.254.343.324</td><td>-</td><td>-</td><td>173.019.864.073</td><td>185.330.673.697</td></tr><tr><td>Tăng do hợp nhất kinh doanh</td><td>-</td><td>-</td><td>771.290.909</td><td>1.371.087.792</td><td>-</td><td>2.142.378.701</td></tr><tr><td>Thanh lý, nhượng bán</td><td>-</td><td>-</td><td>(4.219.000.000)</td><td>(72.727.273)</td><td>-</td><td>(4.291.727.273)</td></tr><tr><td>Chuyển đổi mục đích sử dụng (*)</td><td>(13.689.786.863)</td><td>-</td><td>-</td><td>-</td><td>-</td><td>(13.689.786.863)</td></tr><tr><td>Giảm do thoái vốn tại Công ty con</td><td>(8.625.736.599)</td><td>(122.437.581.218)</td><td>(16.425.716.094)</td><td>(465.941.300)</td><td>-</td><td>(147.954.975.211)</td></tr><tr><td>Tăng/Giảm khác</td><td>-</td><td>(288.120.332)</td><td>-</td><td>(1.993.246.340)</td><td>(15.893.160.096)</td><td>(18.174.526.768)</td></tr><tr><td>Số cuối năm</td><td>1.788.447.250</td><td>16.358.005.274</td><td>9.458.654.653</td><td>8.975.887.027</td><td>7.448.407.388.556</td><td>7.484.988.382.760</td></tr><tr><td colspan="7">GIÁ TRỊ HAO MÒN LỦY KẾ</td></tr><tr><td>Số đầu năm</td><td>11.144.669.676</td><td>41.158.162.319</td><td>12.306.269.674</td><td>7.853.539.213</td><td>1.519.477.411.378</td><td>1.591.940.052.260</td></tr><tr><td>Khấu hao trong năm</td><td>440.320.131</td><td>3.129.186.943</td><td>606.212.959</td><td>342.582.050</td><td>272.035.740.316</td><td>276.554.042.399</td></tr><tr><td>Tăng do hợp nhất kinh doanh</td><td>-</td><td>-</td><td>771.290.909</td><td>1.371.087.792</td><td>-</td><td>2.142.378.701</td></tr><tr><td>Thanh lý, nhượng bán</td><td>-</td><td>-</td><td>(4.219.000.000)</td><td>(72.727.273)</td><td>-</td><td>(4.291.727.273)</td></tr><tr><td>Chuyển đổi mục đích sử dụng (*)</td><td>(6.844.580.579)</td><td>-</td><td>-</td><td>-</td><td>-</td><td>(6.844.580.579)</td></tr><tr><td>Giảm do thoái vốn tại Công ty con</td><td>(2.883.532.636)</td><td>(38.066.170.562)</td><td>(3.101.787.399)</td><td>(262.436.864)</td><td>-</td><td>(44.313.927.461)</td></tr><tr><td>Tăng/Giảm khác</td><td>(120.190.118)</td><td>335.151.374</td><td>-</td><td>(1.993.246.340)</td><td>(1.242.664.223)</td><td>(3.020.949.307)</td></tr><tr><td>Số cuối năm</td><td>1.736.686.474</td><td>6.556.330.074</td><td>6.362.986.143</td><td>7.238.798.578</td><td>1.790.270.487.471</td><td>1.812.165.288.740</td></tr><tr><td colspan="7">GIÁ TRỊ CÒN LẠI</td></tr><tr><td>Số đầu năm</td><td>12.902.834.736</td><td>85.588.473.908</td><td>15.887.934.346</td><td>2.244.425.935</td><td>5.765.540.327.478</td><td>5.882.163.996.403</td></tr><tr><td>Số cuối năm</td><td>51.760.776</td><td>9.801.675.200</td><td>3.095.668.510</td><td>1.737.088.449</td><td>5.658.136.901.085</td><td>5.672.823.094.020</td></tr><tr><td colspan="7">(*) Tài sản cố định đã chuyển đổi thành bất động sản đầu tư theo Quyết định số 24C/QĐ-TASCO ngày 01/07/2022 và đã thực hiện bán ngay trong năm.Trong đó:Nguyên giá TSCĐ hữu hình tại ngày 31/12/2022 đã hết khấu hao nhưng vấn còn sử dụng là 628.293.908.711 VND (tại ngày 31/12/2021 là 632.491.850.752 VND).Giá trị còn lại của TSCĐ hữu hình tại ngày 31/12/2022 đã dùng thế chấp, cảm cố, đảm bảo khoản vay là 5.662.169.287.315 VND (tại ngày 31/12/2021 là 5.764.118.121.132 VND).</td></tr></table>
+
+27
+
+Bản thuyết minh này là một bộ phận hợp thành và phải được đọc cùng với Báo cáo tài chính hợp nhất
+
+===== PAGE 31 =====
+□ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □
+
+CÔNG TY CỔ PHẦN TASCO
+
+BẢN THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+
+Cho năm tài chính kết thúc ngày 31 tháng 12 năm 2022
+
+B09-DN/HN
+
+12. Tài sản dở dang dài hạn
+
+12.1 Chi phí sản xuất kinh doanh dở dang dài hạn
+
+<table><tr><td rowspan="2"></td><td colspan="2">Số cuối năm</td><td colspan="2">Số đầu năm</td></tr><tr><td>Giá gốc</td><td>Giá trị có thể thu hồi</td><td>Giá gốc</td><td>Giá trị có thể thu hồi</td></tr><tr><td>Dự án khu đô thị mới (*)</td><td>240.078.514.799</td><td>240.078.514.799</td><td>260.044.350.117</td><td>260.044.350.117</td></tr><tr><td>Dự án khu nhà ở sinh thái</td><td>370.703.703.360</td><td>370.703.703.360</td><td>430.532.998.679</td><td>430.532.998.679</td></tr><tr><td>Các dự án xây dựng nhà ở khác</td><td>-</td><td>-</td><td>1.020.569.099</td><td>1.020.569.099</td></tr><tr><td>Cộng</td><td>610.782.218.159</td><td>610.782.218.159</td><td>691.597.917.895</td><td>691.597.917.895</td></tr></table>
+
+(*): Theo quyết định của Tòa án nhân dân thành phố Hà Nội tại bản án số 108/KDTM-PT ngày 30/06/2022 về việc tranh chấp hợp đồng kinh tế, theo đó: Tổng Công ty Đầu tư Phát triển Nhà và Đô thị phải bản giao cho Công ty cổ phần Tasco diện tích đất còn thiếu tại dự án là 12.870 m2 hoán đổi phần diện tích chênh lệch do điều chỉnh quy hoạch của các lô đất BT01, LK03, LK24, LK25 theo cam kết tại Biên bản cuộc họp ngày 28/12/2017 sang các lô LKM3, LKM5', LKM6, LKM7, LKM8 và một phần diện tích của lô LKM5 với các chỉ tiêu theo quy hoạch điều chỉnh được phê duyệt tại Quyết định số 5092/QĐ-UBND ngày 31/07/2017 của UBND thành phố Hà Nội.
+
+12.2 Xây dựng cơ bản dở dang
+
+<table><tr><td></td><td>Số cuối năm</td><td>Số đầu năm</td></tr><tr><td>Dự án xây dựng tuyến đường BT</td><td>189.074.631.156</td><td>188.648.230.415</td></tr><tr><td>Dự án khu chức năng đô thị</td><td>54.410.953.846</td><td>54.410.953.846</td></tr><tr><td>Dự án tòa nhà văn phòng</td><td>28.328.889.839</td><td>27.636.335.863</td></tr><tr><td>Các dự án khác</td><td>44.076.948.198</td><td>97.727.788.350</td></tr><tr><td>Cộng</td><td>315.891.423.039</td><td>368.423.308.474</td></tr></table>
+
+13. Lợi thế thương mại
+
+<table><tr><td></td><td>Công ty TNHH Bảo hiểm Tasco</td><td>Cộng</td></tr><tr><td>Nguyên giá</td><td></td><td></td></tr><tr><td>Số đầu năm</td><td>-</td><td>-</td></tr><tr><td>Tăng trong năm</td><td>99.678.880.326</td><td>99.678.880.326</td></tr><tr><td>Giảm trong năm</td><td>-</td><td>-</td></tr><tr><td>Số cuối năm</td><td>99.678.880.326</td><td>99.678.880.326</td></tr><tr><td>Giá trị hao mòn</td><td></td><td></td></tr><tr><td>Số đầu năm</td><td>-</td><td>-</td></tr><tr><td>Khấu hao trong năm</td><td>2.491.972.008</td><td>2.491.972.008</td></tr><tr><td>Số cuối năm</td><td>2.491.972.008</td><td>2.491.972.008</td></tr><tr><td>Giá trị còn lại</td><td></td><td></td></tr><tr><td>Số đầu năm</td><td>-</td><td>-</td></tr><tr><td>Số cuối năm</td><td>97.186.908.318</td><td>97.186.908.318</td></tr></table>
+
+Bản thuyết minh này là một bộ phận hợp thành và phải được đọc cùng với Báo cáo tài chính hợp nhất
+
+28
+
+===== PAGE 32 =====
+□ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □
+
+CÔNG TY CỔ PHẦN TASCO
+
+BẢN THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+
+Cho năm tài chính kết thúc ngày 31 tháng 12 năm 2022
+
+B09-DN/HN
+
+14. Phải trả người bán ngắn hạn
+
+<table><tr><td rowspan="2"></td><td colspan="2">Số cuối năm</td><td colspan="2">Số đầu năm</td></tr><tr><td>Giá trị</td><td>Số có khả năngtrả nợ</td><td>Giá trị</td><td>Số có khả năngtrả nợ</td></tr><tr><td>Phải trả người bán là bên thứ ba</td><td>429.654.693.132</td><td>429.654.693.132</td><td>308.518.866.356</td><td>308.518.866.356</td></tr><tr><td>Phải trả hoạt động kinh doanh BĐS</td><td>84.254.116.786</td><td>84.254.116.786</td><td>46.054.317.084</td><td>46.054.317.084</td></tr><tr><td>Phải trả hoạt động xây lắp</td><td>277.923.829.363</td><td>277.923.829.363</td><td>245.891.648.131</td><td>245.891.648.131</td></tr><tr><td>Công ty Cổ phần Công nghệ - ViễnThông ELCOM</td><td>51.063.715.175</td><td>51.063.715.175</td><td>53.663.715.175</td><td>53.663.715.175</td></tr><tr><td>Công ty cổ phần công nghệ Tiên Phong</td><td>54.474.512.852</td><td>54.474.512.852</td><td>66.130.390.052</td><td>66.130.390.052</td></tr><tr><td>Các đối tượng khác</td><td>172.385.601.336</td><td>172.385.601.336</td><td>126.097.542.904</td><td>126.097.542.904</td></tr><tr><td>Phải trả hoạt động khác</td><td>67.476.746.983</td><td>67.476.746.983</td><td>16.572.901.141</td><td>16.572.901.141</td></tr><tr><td>Công ty TNHH Giải pháp thể vàng</td><td>46.948.655.000</td><td>46.948.655.000</td><td>5.343.567.000</td><td>5.343.567.000</td></tr><tr><td>Các đối tượng khác</td><td>20.528.091.983</td><td>20.528.091.983</td><td>11.229.334.141</td><td>11.229.334.141</td></tr><tr><td>Phải trả người bán là bên liên quan</td><td>583.168.000</td><td>583.168.000</td><td>108.773.523.496</td><td>108.773.523.496</td></tr><tr><td>Phải trả hoạt động kinh doanh BĐS</td><td>-</td><td>-</td><td>13.051.534.261</td><td>13.051.534.261</td></tr><tr><td>Phải trả hoạt động xây lắp</td><td>-</td><td>-</td><td>83.167.077.235</td><td>83.167.077.235</td></tr><tr><td>Phải trả hoạt động khác</td><td>583.168.000</td><td>583.168.000</td><td>12.554.912.000</td><td>12.554.912.000</td></tr><tr><td colspan="5">(Chi tiết phải trả người bán là bên liên quan được thuyết minh tại thuyết minh số VIII.2)</td></tr><tr><td>Cộng</td><td>430.237.861.132</td><td>430.237.861.132</td><td>417.292.389.852</td><td>417.292.389.852</td></tr></table>
+
+15. Người mua trả tiền trước
+
+15.1 Người mua trả tiền trước ngắn hạn
+
+<table><tr><td></td><td>Số cuối năm</td><td>Số đầu năm</td></tr><tr><td>Người mua trả tiền trước là bên thứ ba</td><td>121.781.062.837</td><td>46.266.343.475</td></tr><tr><td>Người mua trả tiền trước hoạt động xây lắp</td><td>37.021.395.218</td><td>464.807.850</td></tr><tr><td>Ban quản lý dự án điện 2 - Chi nhánh Tập đoàn điện lực Việt Nam</td><td>36.313.115.150</td><td>-</td></tr><tr><td>Các đối tượng khác</td><td>708.280.068</td><td>464.807.850</td></tr><tr><td>Người mua trả tiền trước hoạt động đầu tư</td><td>45.675.446.352</td><td>41.291.960.296</td></tr><tr><td>Người mua trả tiền trước hoạt động khác</td><td>39.084.221.267</td><td>4.509.575.329</td></tr><tr><td>Tổng công ty đầu tư phát triển đường Cao tốc Việt Nam - Công ty TNHH MTV</td><td>35.451.601.268</td><td>-</td></tr><tr><td>Các đối tượng khác</td><td>3.632.619.999</td><td>4.509.575.329</td></tr><tr><td>Người mua trả tiền trước là bên liên quan</td><td>-</td><td>-</td></tr><tr><td>Cộng</td><td>121.781.062.837</td><td>46.266.343.475</td></tr></table>
+
+15.2 Người mua trả tiền trước dài hạn
+
+<table><tr><td></td><td>Số cuối năm</td><td>Số đầu năm</td></tr><tr><td>Người mua trả tiền trước là bên thứ ba</td><td>94.565.298.415</td><td>-</td></tr><tr><td>Tổng công ty đầu tư phát triển đường Cao tốc Việt Nam - Công ty TNHH MTV</td><td>94.565.298.415</td><td>-</td></tr><tr><td>Người mua trả tiền trước là bên liên quan</td><td>-</td><td>-</td></tr><tr><td>Cộng</td><td>94.565.298.415</td><td>-</td></tr></table>
+
+Bản thuyết minh này là một bộ phận hợp thành và phải được đọc cùng với Báo cáo tài chính hợp nhất
+
+29
+
+===== PAGE 33 =====
+CÔNG TY CỔ PHẦN TASCO
+
+B09-DN/HN
+
+BẢN THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+
+Cho năm tài chính kết thúc ngày 31 tháng 12 năm 2022
+
+16. Thuế và các khoản phải thu, phải nộp Nhà nước
+
+16.1 Thuế phải nộp
+
+<table><tr><td></td><td>Số đầu năm</td><td>Số phải nộp trong năm</td><td>Số đã nộp trong năm</td><td>Số cuối năm</td></tr><tr><td>Thuế giá trị gia tăng</td><td>9.687.117.062</td><td>61.705.285.743</td><td>67.305.205.453</td><td>4.087.197.352</td></tr><tr><td>Thuế thu nhập doanh nghiệp (i)</td><td>17.441.246.427</td><td>105.661.847.098</td><td>21.374.786.780</td><td>101.728.306.745</td></tr><tr><td>Thuế thu nhập cá nhân</td><td>564.045.462</td><td>13.371.164.938</td><td>11.486.513.328</td><td>2.448.697.072</td></tr><tr><td>Các loại thuế khác</td><td>49.745.290</td><td>1.659.972.447</td><td>1.127.426.677</td><td>582.291.060</td></tr><tr><td>Cộng</td><td>27.742.154.241</td><td>182.398.270.226</td><td>101.293.932.238</td><td>108.846.492.229</td></tr></table>
+
+(i): Phần thuế thu nhập doanh nghiệp (TNDN) phải nộp trong năm 2022 bao gồm cả thuế TNDN nộp thay cho đối tác liên doanh tương ứng với các sản phẩm thuộc dự án khu nhà ở sinh thái Xuân Phương đã bán theo ủy quyền trong hợp đồng liên doanh và các phụ lực hợp đồng kèm theo.
+
+16.2 Thuế phải thu
+
+<table><tr><td></td><td>Số đầu năm</td><td>Số phải thu trong năm</td><td>Số đã thu/cán trừ trong năm</td><td>Số cuối năm</td></tr><tr><td>Thuế giá trị gia tăng</td><td>491.301.100</td><td></td><td>-</td><td>491.301.100</td></tr><tr><td>Thuế thu nhập doanh nghiệp</td><td>711.804.276</td><td>-</td><td>293.812.510</td><td>417.991.766</td></tr><tr><td>Thuế thu nhập cá nhân</td><td>8.366.828</td><td>-</td><td>3.054.559</td><td>5.312.269</td></tr><tr><td>Các loại thuế khác</td><td>-</td><td>1.237.304</td><td>-</td><td>1.237.304</td></tr><tr><td>Cộng</td><td>1.211.472.204</td><td>1.237.304</td><td>296.867.069</td><td>915.842.439</td></tr></table>
+
+17. Chi phí phải trả
+
+<table><tr><td>Chi phí phải trả ngắn hạn</td><td>Số cuối năm</td><td>Số đầu năm</td></tr><tr><td>Trích trước chi phí lãi vay phải trả</td><td>12.788.304.655</td><td>7.202.399.110</td></tr><tr><td>Trích trước giá vốn bất động sản</td><td>43.544.589.503</td><td>62.220.177.316</td></tr><tr><td>Chi phí phải trả khác</td><td>13.585.643.614</td><td>34.356.881.406</td></tr><tr><td>Cộng</td><td>69.918.537.772</td><td>103.779.457.832</td></tr></table>
+
+18. Phải trả khác
+
+<table><tr><td>18.1 Phải trả ngắn hạn khác</td><td>Số cuối năm</td><td>Số đầu năm</td></tr><tr><td>Phải trả khác là bên thứ ba</td><td>1.142.562.624.247</td><td>316.449.306.322</td></tr><tr><td>Bảo hiểm xã hội</td><td>-</td><td>640.385.382</td></tr><tr><td>Bảo hiểm y tế</td><td>-</td><td>257.503.304</td></tr><tr><td>Bảo hiểm thất nghiệp</td><td>-</td><td>889.728.745</td></tr><tr><td>Kinh phí công đoàn</td><td>1.138.148.524</td><td>1.462.012.705</td></tr><tr><td>Nhận ký quỹ, ký cược ngắn hạn</td><td>237.796.000</td><td>237.796.000</td></tr><tr><td>Cổ tức, lợi nhuận phải trả</td><td>9.266.195.220</td><td>10.374.815.420</td></tr><tr><td>Phải trả, phải nộp khác</td><td>1.131.920.484.503</td><td>302.587.064.766</td></tr><tr><td>Phải trả khác là bên liên quan</td><td>302.318.000</td><td>3.929.019.846</td></tr></table>
+
+(Chi tiết phải trả khác là bên liên quan được thuyết minh tại thuyết minh số VIII.2)
+
+<table><tr><td>Cộng</td><td>1.142.864.942.247</td><td>320.378.326.168</td></tr></table>
+
+18.2 Phải trả dài hạn khác
+
+<table><tr><td>Phải trả khác là bên thứ ba</td><td>862.882.214.510</td><td>775.216.362.097</td></tr><tr><td>Phải trả đối tác theo hợp đồng hợp tác kinh doanh</td><td>410.256.249.073</td><td>398.382.747.984</td></tr><tr><td>Phải trả, phải nộp khác</td><td>452.625.965.437</td><td>376.833.614.113</td></tr><tr><td>Phải trả khác là bên liên quan</td><td>-</td><td>-</td></tr></table>
+
+(Chi tiết phải trả khác là bên liên quan được thuyết minh tại thuyết minh số VIII.2)
+
+<table><tr><td>Cộng</td><td>862.882.214.510</td><td>775.216.362.097</td></tr></table>
+
+Bàn thuyết minh này là một bộ phận hợp thành và phải được đọc cùng với Báo cáo tài chính hợp nhất
+
+30
+
+===== PAGE 34 =====
+CÔNG TY CỔ PHẦN TASCO
+
+BẢN THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+Cho năm tài chính kết thúc ngày 31 tháng 12 năm 2022
+
+19. Vay và nợ thuê tài chính
+
+19.1 Vay và nợ thuê tài chính ngắn hạn
+
+Số cuối năm
+
+<table><tr><td>Giá trị</td><td>Số có khả năng trả nợ</td><td>Tăng</td><td>Giảm</td><td>Giá trị</td><td>Số có khả năng trả nợ</td></tr><tr><td>101.731.276.519</td><td>101.731.276.519</td><td>19.153.629.333</td><td>117.581.276.519</td><td>3.303.629.333</td><td>3.303.629.333</td></tr><tr><td>101.731.276.519</td><td>101.731.276.519</td><td>15.850.000.000</td><td>117.581.276.519</td><td>-</td><td>-</td></tr><tr><td>-</td><td>-</td><td>3.303.629.333</td><td>-</td><td>3.303.629.333</td><td>3.303.629.333</td></tr><tr><td>207.754.955.556</td><td>207.754.955.556</td><td>277.020.644.316</td><td>207.754.955.556</td><td>277.020.644.316</td><td>277.020.644.316</td></tr><tr><td>207.754.955.556</td><td>207.754.955.556</td><td>277.020.644.316</td><td>207.754.955.556</td><td>277.020.644.316</td><td>277.020.644.316</td></tr><tr><td>309.486.232.075</td><td>309.486.232.075</td><td>296.174.273.649</td><td>325.336.232.075</td><td>280.324.273.649</td><td>280.324.273.649</td></tr></table>
+
+Chi tiết các khoản vay ngắn hạn
+
+(i): Các khoản vay bên liên quan là cá nhân theo từng hợp đồng riêng lẻ, thời hạn vay 12 tháng, mục đích sử dụng tiền vay bù đáp cho dự án BT Lê Đức Thọ. Đây là các khoản vay tín chấp.
+(ii): Khoản vay ngắn hạn Ngân hàng TMCP Công thương Việt Nam - Chi nhánh Thăng Long theo hợp đồng vay vốn số 11.11/2022 – HĐCVHM/NHCT326-TASCO ngày 11/11/2022 với tổng mức dư nợ vay 3.500.000.000 VND trong thời hạn từ 11/11/2022 - 11/11/2023. Mục đích sử dụng tiền vay: Bổ sung vốn lưu động cho Gói thầu DVTP: Thuê dịch vụ thu phí các DA đường cao tốc do VEC quản lý, khai thác. Lãi suất vay ghi trên từng giấy nhận nợ và được điều chỉnh 01 tháng/1 lần và được xác định bằng Lãi suất cơ sở cộng (+) Biên độ ba phầy năm phần trăm một năm (3,5%/năm). Tài sản đảm bảo cho khoản vay là máy móc thiết bị hình thành từ dự án.
+
+19.2 Vay và nợ thuê tài chính dài hạn
+
+<table><tr><td colspan="2">Số đầu năm</td><td colspan="2">Trong năm</td><td colspan="2">Số cuối năm</td></tr><tr><td>Giá trị</td><td>Số có khả năng trả nợ</td><td>Tăng</td><td>Giảm</td><td>Giá trị</td><td>Số có khả năng trả nợ</td></tr><tr><td>4.928.982.536.732</td><td>4.928.982.536.732</td><td>38.755.221.593</td><td>413.920.335.608</td><td>4.553.817.422.717</td><td>4.553.817.422.717</td></tr><tr><td>-</td><td>-</td><td>21.000.000.000</td><td>21.000.000.000</td><td>-</td><td>-</td></tr><tr><td>4.928.982.536.732</td><td>4.928.982.536.732</td><td>59.755.221.593</td><td>434.920.335.608</td><td>4.553.817.422.717</td><td>4.553.817.422.717</td></tr></table>
+
+Chi tiết các khoản vay dài hạn
+
+(i): Công ty đang vay dài hạn tại các Ngân hàng để thực hiện các dự án BOT, dự án thu phí không dùng và kiểm soát tải trọng xe.
+
+- Các khoản vay dài hạn tại các Ngân hàng để thực hiện các dự án BOT, nguồn trả nợ gốc và lãi vay là nguồn thu từ trạm thu phí theo Hợp đồng BOT đã ký với cơ quan Nhà nước có thẩm quyền. Thời hạn từ 60 đến 180 tháng; lãi suất cho vay thả nổi tại thời điểm giải ngân với mức lãi suất theo thông báo của ngân hàng và điều chỉnh 03 tháng/1 lần chi tiết theo các khoản giải ngân.
+
+Bản thuyết minh này là một bộ phận hợp thành và phải được đọc cùng với Báo cáo tài chính hợp nhất
+
+B09-DN/HN
+
+31
+
+===== PAGE 35 =====
+CÔNG TY CỔ PHẦN TASCO
+BẢN THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+Cho năm tài chính kết thúc ngày 31 tháng 12 năm 2022
+
+B09-DN/HN
+
+- Khoản vay dài hạn tại Ngân hàng TMCP Công thương Việt Nam - Chi nhánh Thăng Long theo hợp đồng vay vốn số 11.11/2022 – HDCVDADT/NHCT326-TASCO ngày 11/11/2022 với tổng giá trị không vượt quá 41.000.000.000 VND, Thời hạn vay: 60 tháng. Mục đích sử dụng tiền vay: Bổ sung vốn đầu tư cho Gói thầu DVTP: Thuê dịch vụ thu phí các DA đường cao tốc do VEC quản lý, khai thác. Lãi suất vay ghi trên từng giấy nhận nợ và được điều chỉnh 01 tháng/1 lần và được xác định bằng Lãi suất cơ sở cộng (+) Biên độ ba phầy năm phần trăm một năm (3,5%/năm).
+- Tài sản đảm bảo cho các khoản vay là tài sản cố định hình thành từ dự án đầu tư (Giá trị còn lại của các tài sản đảm bảo xem Thuyết minh số V.11) và quyền thu phí trong thời gian thực hiện dự án.
+
+20. Vốn chủ sở hữu
+20.1 Bảng đối chiếu biến động của vốn chủ sở hữu
+
+<table><tr><td></td><td>Vốn đầu tư của chủ sở hữu</td><td>Thặng dư vốn cổ phần</td><td>Quỹ đầu tư phát triển</td><td>Lợi nhuận chưa phân phối</td><td>Lợi ích cổ đông không kiểm soát</td><td>Tổng cộng</td></tr><tr><td>Số dư đầu năm trước</td><td>2.686.319.650.000</td><td>84.824.223.592</td><td>122.247.635.329</td><td>(9.247.297.497)</td><td>(13.222.066.246)</td><td>2.870.922.145.178</td></tr><tr><td>Tăng vốn trong năm trước</td><td>800.000.000.000</td><td>-</td><td>-</td><td>-</td><td>-</td><td>800.000.000.000</td></tr><tr><td>Lãi/lỗ trong năm trước</td><td>-</td><td>-</td><td>-</td><td>61.583.796.257</td><td>(17.430.783.747)</td><td>44.153.012.510</td></tr><tr><td>Tăng khác</td><td>-</td><td>-</td><td>-</td><td>3.341.597.326</td><td>-</td><td>3.341.597.326</td></tr><tr><td>Giảm khác</td><td>-</td><td>(282.640.197)</td><td>-</td><td>-</td><td>(505.470.340)</td><td>(788.110.537)</td></tr><tr><td>Số dư cuối năm trước/đầu năm nay</td><td>3.486.319.650.000</td><td>84.541.583.395</td><td>122.247.635.329</td><td>55.678.096.086</td><td>(31.158.320.333)</td><td>3.717.628.644.477</td></tr><tr><td>Tăng vốn trong năm nay</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>Lãi/lỗ trong năm nay</td><td>-</td><td>-</td><td>-</td><td>144.565.241.241</td><td>(719.718.933)</td><td>143.845.522.308</td></tr><tr><td>Tăng do thoái vốn tại Công ty con</td><td>-</td><td>-</td><td>-</td><td>-</td><td>13.074.286.139</td><td>13.074.286.139</td></tr><tr><td>Tăng khác</td><td>-</td><td>-</td><td>-</td><td>166.531.839</td><td>4.242.026.888</td><td>4.408.558.727</td></tr><tr><td>Phân phối các quỹ (*)</td><td>-</td><td>-</td><td>3.079.200.000</td><td>(3.695.100.000)</td><td>-</td><td>(615.900.000)</td></tr><tr><td>Giảm khác</td><td>-</td><td>(395.138.599)</td><td>-</td><td>(4.312.374.854)</td><td>(166.531.839)</td><td>(4.874.045.292)</td></tr><tr><td>Số dư cuối năm nay</td><td>3.486.319.650.000</td><td>84.146.444.796</td><td>125.326.835.329</td><td>192.402.394.312</td><td>(14.728.258.078)</td><td>3.873.467.066.359</td></tr></table>
+
+(*): Trong năm, Công ty thực hiện phân phối lợi nhuận năm 2021 theo Nghị quyết Đại hội đồng cổ đông thường niên năm 2022 số 01/2022/NQ-ĐHĐCD ngày 29 tháng 04 năm 2022. Theo đó, Công ty thực hiện trích quỹ đầu tư phát triển 5% lợi nhuận sau thuế và quỹ khen thưởng phúc lợi 1% lợi nhuận sau thuế.
+
+Bàn thuyết minh này là một bộ phận hợp thành và phải được đọc cùng với Báo cáo tài chính hợp nhất
+
+32
+
+===== PAGE 36 =====
+□ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □
+
+CÔNG TY CỔ PHẦN TASCO
+
+B09-DN/HN
+
+BẢN THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+
+Cho năm tài chính kết thúc ngày 31 tháng 12 năm 2022
+
+20.2 Chi tiết vốn góp của chủ sở hữu
+
+<table><tr><td></td><td>Số cuối năm</td><td>Số đầu năm</td></tr><tr><td>Vốn góp của các cổ đông</td><td>3.486.319.650.000</td><td>3.486.319.650.000</td></tr><tr><td>Cộng</td><td>3.486.319.650.000</td><td>3.486.319.650.000</td></tr></table>
+
+20.3 Các giao dịch về vốn với các chủ sở hữu và phân phối cổ tức, lợi nhuận.
+
+<table><tr><td></td><td>Năm nay</td><td>Năm trước</td></tr><tr><td>Vốn đầu tư của chủ sở hữu</td><td></td><td></td></tr><tr><td>+ Vốn góp đầu năm</td><td>3.486.319.650.000</td><td>2.686.319.650.000</td></tr><tr><td>+ Vốn góp tăng trong năm</td><td>-</td><td>800.000.000.000</td></tr><tr><td>+ Vốn góp cuối năm</td><td>3.486.319.650.000</td><td>3.486.319.650.000</td></tr><tr><td>Cổ tức, lợi nhuận đã chia</td><td>-</td><td>-</td></tr><tr><td>Cổ phiếu</td><td>Số cuối năm</td><td>Số đầu năm</td></tr><tr><td>Số lượng cổ phiếu đăng ký phát hành</td><td>348.631.965</td><td>348.631.965</td></tr><tr><td>Số lượng cổ phiếu đã phát hành/bán ra công chúng</td><td>348.631.965</td><td>348.631.965</td></tr><tr><td>- Cổ phiếu phổ thông</td><td>348.631.965</td><td>348.631.965</td></tr><tr><td>Số lượng cổ phiếu được mua lại</td><td>-</td><td>-</td></tr><tr><td>Số lượng cổ phiếu đang lưu hành</td><td>348.631.965</td><td>348.631.965</td></tr><tr><td>- Cổ phiếu phổ thông</td><td>348.631.965</td><td>348.631.965</td></tr></table>
+
+Mệnh giá cổ phiếu đang lưu hành: 10.000 VND
+
+21. Các chỉ tiêu ngoài Bảng cân đối kế toán
+
+Nợ khó đòi đã xử lý
+
+Chi tiết các khoản nợ khó đòi đã xử lý trong 10 năm như sau:
+
+<table><tr><td>Nội dung</td><td>Số nợ (VND)</td><td>Nguyên nhân xóa nợ</td></tr><tr><td>Công ty cổ phần TIC</td><td>30.853.699.510</td><td>Nợ không có khả năng thu hồi.</td></tr><tr><td>Các đối tượng khác</td><td>3.255.435.822</td><td>Nợ không có khả năng thu hồi.</td></tr><tr><td>Tổng</td><td>34.109.135.332</td><td></td></tr></table>
+
+VI. THÔNG TIN BỔ SUNG CHO CÁC KHOẢN MỤC TRÌNH BÀY TRONG BẢO CẢO KẾT QUẢ HOẠT ĐỘNG KINH DOANH HỢP NHẤT
+
+1. Doanh thu bán hàng và cung cấp dịch vụ
+
+<table><tr><td></td><td>Năm nay</td><td>Năm trước</td></tr><tr><td>Doanh thu hoạt động thu phí</td><td>914.685.840.163</td><td>652.525.176.595</td></tr><tr><td>Doanh thu cung cấp dịch vụ</td><td>74.398.045.337</td><td>149.891.379.588</td></tr><tr><td>Doanh thu hoạt động kinh doanh bất động sản</td><td>42.032.343.756</td><td>56.075.879.521</td></tr><tr><td>Doanh thu hợp đồng xây dựng</td><td>40.031.514.651</td><td>12.983.558.182</td></tr><tr><td>Doanh thu bán điện</td><td>2.045.164.128</td><td>2.151.995.898</td></tr><tr><td>Cộng</td><td>1.073.192.908.035</td><td>873.627.989.784</td></tr><tr><td colspan="3">Trong đó</td></tr><tr><td>Doanh thu bán cho bên thứ ba</td><td>1.067.507.662.232</td><td>873.537.989.784</td></tr><tr><td>Doanh thu bán cho bên liên quan (chi tiết tại thuyết minh số VIII.2)</td><td>5.685.245.803</td><td>90.000.000</td></tr><tr><td>Cộng</td><td>1.073.192.908.035</td><td>873.627.989.784</td></tr></table>
+
+Bàn thuyết minh này là một bộ phận hợp thành và phải được đọc cùng với Báo cáo tài chính hợp nhất
+
+33
+
+===== PAGE 37 =====
+□ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □
+
+CÔNG TY CỔ PHẦN TASCO
+
+B09-DN/HN
+
+BẢN THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+
+Cho năm tài chính kết thúc ngày 31 tháng 12 năm 2022
+
+2. Giá vốn hàng bán
+
+<table><tr><td></td><td>Năm nay</td><td>Năm trước</td></tr><tr><td>Giá vốn hoạt động thu phí</td><td>557.385.891.113</td><td>430.442.990.849</td></tr><tr><td>Giá vốn cung cấp dịch vụ</td><td>54.777.898.771</td><td>100.268.530.803</td></tr><tr><td>Giá vốn hoạt động kinh doanh bất động sản</td><td>31.094.510.744</td><td>46.223.099.241</td></tr><tr><td>Giá vốn hợp đồng xây dựng</td><td>38.958.605.105</td><td>12.373.782.850</td></tr><tr><td>Giá vốn bán điện</td><td>893.837.066</td><td>1.059.285.597</td></tr><tr><td>Cộng</td><td>683.110.742.799</td><td>590.367.689.340</td></tr></table>
+
+3. Doanh thu hoạt động tài chính
+
+<table><tr><td></td><td>Năm nay</td><td>Năm trước</td></tr><tr><td>Lãi tiền gửi, tiền cho vay</td><td>59.086.913.804</td><td>10.432.542.843</td></tr><tr><td>Lãi từ hoạt động chuyển nhượng các khoản đầu tư tài chính</td><td>307.355.664.852</td><td>230.033.574.163</td></tr><tr><td>Doanh thu hoạt động tài chính khác</td><td>1.608.947.105</td><td>900.000.000</td></tr><tr><td>Cộng</td><td>368.051.525.761</td><td>241.366.117.006</td></tr></table>
+
+4. Chi phí tài chính
+
+<table><tr><td></td><td>Năm nay</td><td>Năm trước</td></tr><tr><td>Lãi tiền vay</td><td>310.148.255.529</td><td>308.472.569.866</td></tr><tr><td>Chi phí tài chính khác</td><td>701.562.630</td><td>-</td></tr><tr><td>Cộng</td><td>310.849.818.159</td><td>308.472.569.866</td></tr></table>
+
+5. Chi phí bán hàng
+
+<table><tr><td></td><td>Năm nay</td><td>Năm trước</td></tr><tr><td>Chi phí nhân viên</td><td>13.518.882.336</td><td>23.262.215.436</td></tr><tr><td>Chi phí vật liệu, bao bì</td><td>1.192.155.622</td><td>-</td></tr><tr><td>Chi phí khấu hao TSCĐ</td><td>307.338.684</td><td>-</td></tr><tr><td>Chi phí dịch vụ mua ngoài</td><td>4.592.294.789</td><td>5.526.149.800</td></tr><tr><td>Chi phí bằng tiền khác</td><td>5.486.003.221</td><td>34.374.854.861</td></tr><tr><td>Cộng</td><td>25.096.674.652</td><td>63.163.220.097</td></tr></table>
+
+6. Chi phí quản lý doanh nghiệp
+
+<table><tr><td></td><td>Năm nay</td><td>Năm trước</td></tr><tr><td>Chi phí nhân viên quản lý</td><td>96.478.909.253</td><td>46.861.498.386</td></tr><tr><td>Chi phí vật liệu quản lý, đồ dùng văn phòng</td><td>2.530.296.492</td><td>-</td></tr><tr><td>Chi phí khấu hao TSCĐ</td><td>690.032.198</td><td>5.799.688.491</td></tr><tr><td>Chi phí dự phòng</td><td>24.229.094.009</td><td>16.693.347.386</td></tr><tr><td>Chi phí dịch vụ mua ngoài</td><td>65.465.404.260</td><td>22.221.563.255</td></tr><tr><td>Chi phí bằng tiền khác</td><td>53.171.146.191</td><td>11.162.449.645</td></tr><tr><td>Cộng</td><td>242.564.882.403</td><td>102.738.547.163</td></tr></table>
+
+Bản thuyết minh này là một bộ phận hợp thành và phải được đọc cùng với Báo cáo tài chính hợp nhất
+
+34
+
+===== PAGE 38 =====
+□ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □
+
+CÔNG TY CỔ PHẦN TASCO
+
+B09-DN/HN
+
+BẢN THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+
+Cho năm tài chính kết thúc ngày 31 tháng 12 năm 2022
+
+7. Chi phí sản xuất kinh doanh theo yếu tố
+
+<table><tr><td></td><td>Năm nay</td><td>Năm trước</td></tr><tr><td>Chi phí nhân công</td><td>260.890.639.335</td><td>49.659.350.531</td></tr><tr><td>Chi phí nguyên liệu, công cụ, dụng cụ</td><td>69.027.132.800</td><td>5.334.962.564</td></tr><tr><td>Chi phí khấu hao TSCĐ</td><td>289.306.326.559</td><td>252.070.858.174</td></tr><tr><td>Chi phí dự phòng</td><td>24.331.370.434</td><td>16.693.347.386</td></tr><tr><td>Chi phí dịch vụ mua ngoài</td><td>196.844.320.447</td><td>64.547.851.662</td></tr><tr><td>Chi phí bằng tiền khác</td><td>109.219.838.638</td><td>11.398.860.804</td></tr><tr><td>Cộng</td><td>949.619.628.213</td><td>399.705.231.121</td></tr></table>
+
+8. Chi phí thuế TNDN hiện hành
+
+<table><tr><td></td><td>Năm nay</td><td>Năm trước</td></tr><tr><td>Chi phí thuế TNDN tính trên thu nhập chịu thuế năm hiện hành</td><td>48.048.866.582</td><td>6.027.496.979</td></tr><tr><td>Điều chỉnh chi phí thuế TNDN của các năm trước vào chi phí thuế thu nhập hiện hành năm nay</td><td>(911.841.252)</td><td>-</td></tr><tr><td>Tổng chi phí thuế TNDN hiện hành</td><td>47.137.025.330</td><td>6.027.496.979</td></tr></table>
+
+9. Lãi cơ bản trên cổ phiếu
+
+Lãi cơ bản trên cổ phiếu được tính bằng cách chia lợi nhuận hoặc lỗ sau thuế phân bổ cho cổ đông sở hữu cổ phiếu phổ thông của Công ty cho số lượng bình quân gia quyền của số cổ phiếu phổ thông đang lưu hành trong năm.
+
+Công ty sử dụng các thông tin sau để tính lãi cơ bản trên cổ phiếu:
+
+<table><tr><td></td><td>Năm nay</td><td>Năm trước</td></tr><tr><td>Lợi nhuận kế toán sau thuế thu nhập doanh nghiệp</td><td>143.845.522.308</td><td>44.153.012.510</td></tr><tr><td>Lợi nhuận phân bổ cho cổ đông sở hữu cổ phần phổ thông của Công ty</td><td>144.565.241.241</td><td>61.583.796.257</td></tr><tr><td>Số trích quỹ khen thưởng phúc lợi trong năm (*)</td><td>-</td><td>615.900.000</td></tr><tr><td>Cổ phiếu phổ thông đang lưu hành bình quân trong năm (**)</td><td>348.631.965</td><td>271.919.636</td></tr><tr><td>Lãi cơ bản trên cổ phiếu</td><td>414,66</td><td>224,21</td></tr></table>
+
+(*) Công ty chưa xác định số tiền trích quỹ khen thưởng, phúc lợi từ lợi nhuận sau thuế năm nay; Số liệu trích quỹ khen thưởng, phúc lợi từ lợi nhuận năm trước đã được điều chỉnh theo số liệu thực trích.
+
+(**) Cổ phiếu phổ thông đang lưu hành bình quân trong năm được xác định như sau:
+
+<table><tr><td></td><td>Năm nay</td><td>Năm trước</td></tr><tr><td>Cổ phiếu phổ thông đang lưu hành bình quân đầu năm</td><td>348.631.965</td><td>268.631.965</td></tr><tr><td>Số lượng cổ phiếu phát hành thêm lưu hành bình quân trong năm</td><td>-</td><td>3.287.671</td></tr><tr><td>Trừ: Số lượng cổ phiếu quỹ mua lại bình quân trong năm</td><td>-</td><td>-</td></tr><tr><td>Cổ phiếu phổ thông lưu hành bình quân trong năm</td><td>348.631.965</td><td>271.919.636</td></tr></table>
+
+10. Lãi suy giảm trên cổ phiếu
+
+Chỉ tiêu này phản ánh lãi suy giảm trên cổ phiếu, có tính đến sự tác động của các công cụ trong tương lai có thể được chuyển đổi thành cổ phiếu và pha loãng giá trị cổ phiếu.
+
+Lãi suy giảm trên cổ phiếu được xác định như sau:
+
+<table><tr><td></td><td>Năm nay</td><td>Năm trước</td></tr><tr><td>Lợi nhuận kế toán sau thuế thu nhập doanh nghiệp</td><td>143.845.522.308</td><td>44.153.012.510</td></tr><tr><td>Lợi nhuận phân bổ cho cổ đông sở hữu cổ phần phổ thông của Công ty</td><td>144.565.241.241</td><td>61.583.796.257</td></tr><tr><td>Số trích quỹ khen thưởng phúc lợi trong năm (*)</td><td>-</td><td>615.900.000</td></tr><tr><td>Số BQGQ của CP phổ thông đang lưu hành trong năm</td><td>348.631.965</td><td>271.919.636</td></tr><tr><td>Số BQGQ của CP phổ thông sẽ được phát hành thêm trong năm (**)</td><td>660.090.655</td><td>-</td></tr><tr><td>Lãi suy giảm trên cổ phiếu</td><td>143,32</td><td>224,21</td></tr></table>
+
+Bản thuyết minh này là một bộ phận hợp thành và phải được đọc cùng với Báo cáo tài chính hợp nhất
+
+35
+
+1
+
+===== PAGE 39 =====
+□ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □
+
+CÔNG TY CỔ PHẦN TASCO
+
+BẢN THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+
+Cho năm tài chính kết thúc ngày 31 tháng 12 năm 2022
+
+B09-DN/HN
+
+(*) Công ty chưa xác định số tiền trích quỹ khen thưởng, phúc lợi từ lợi nhuận sau thuế năm nay; Số liệu trích quỹ khen thưởng, phúc lợi từ lợi nhuận năm trước đã được điều chỉnh theo số liệu thực trích.
+
+(**) Theo Nghị quyết của Đại hội đồng cổ đông số 01/2022/NQ-ĐHĐCD ngày 29/04/2022 về việc thông qua phương án tăng vốn điều lệ năm 2022. Số lượng cổ phiếu dự kiến phát hành là 660.090.655 cổ phiếu, trong đó: phát hành cho cổ đông hiện hữu 116.210.655 cổ phiếu, phát hành để hoán đổi toàn bộ cổ phần cho cổ đông của Công ty cổ phần SVC Holdings 543.880.000 cổ phiếu.
+
+VII. THÔNG TIN BỔ SUNG CHO CÁC KHOẢN MỤC TRÌNH BÀY TRONG BẢO CẢO LƯU CHUYỀN TIỀN TỆ HỢP NHẤT
+
+1. Các giao dịch không bằng tiền
+
+<table><tr><td></td><td>Năm nay</td></tr><tr><td>Bù trừ công nợ phải thu và thanh toán gốc vay</td><td>2.527.485.838</td></tr><tr><td>Chuyển phải thu thành cho vay</td><td>13.798.073.506</td></tr><tr><td>Cộng</td><td>16.325.559.344</td></tr></table>
+
+VIII NHỮNG THÔNG TIN KHÁC
+
+1. Các sự kiện phát sinh sau kỳ kế toán
+
+Ban Điều hành Công ty khẳng định rằng, theo nhận định của Ban Điều hành, trên các khía cạnh trọng yếu, không có sự kiện bất thường nào xảy ra sau ngày khoá số kế toán làm ảnh hưởng đến tình hình tài chính và hoạt động của Công ty cần thiết phải điều chỉnh hoặc trình bày trên Báo cáo tài chính cho năm tài chính kết thúc ngày 31 tháng 12 năm 2022.
+
+2. Giao dịch với các bên liên quan
+
+2.1 Danh sách bên liên quan
+
+Danh sách các bên liên quan của Công ty có số dư và giao dịch chủ yếu trong năm, bao gồm:
+
+<table><tr><td>Bên liên quan</td><td>Mối quan hệ</td></tr><tr><td>Công ty TNHH T&#x27;Hospital</td><td>Công ty liên kết từ ngày 15/04/2022 đến ngày 22/12/2022</td></tr><tr><td>Công ty TNHH BOT Hùng Thắng Phú Thọ</td><td>Công ty liên kết</td></tr><tr><td>Tổng Công ty Thăng Long - CTCP</td><td>Công ty liên kết đến ngày 05/07/2022</td></tr><tr><td>Công ty TNHH NVT Holdings</td><td>Công ty liên kết từ ngày 28/12/2022</td></tr><tr><td>Công ty cổ phần Du lịch Hồng Hải</td><td>Đơn vị có liên quan của thành viên HĐQT</td></tr><tr><td>Công ty cổ phần phát triển Du lịch Tân An</td><td>Đơn vị có liên quan của thành viên HĐQT</td></tr><tr><td>Ông Phạm Quang Dũng</td><td>Cổ đông lớn</td></tr><tr><td>Ông Vũ Đình Độ</td><td>Chủ tịch HĐQT (Bổ nhiệm ngày 29/04/2022)</td></tr><tr><td>Ông Hồ Việt Hà</td><td>Phó Chủ tịch HĐQT kiểm Tổng Giám đốc (Bổ nhiệm ngày 29/04/2022)</td></tr><tr><td>Ông Nguyễn Danh Hiếu</td><td>Phó Chủ tịch HĐQT (Bổ nhiệm ngày 29/04/2022)</td></tr><tr><td>Ông Nguyễn Thế Minh</td><td>Phó Chủ tịch HĐQT kiểm Phó Tổng Giám đốc (Bổ nhiệm ngày 29/04/2022)</td></tr><tr><td>Ông Trần Đức Huy</td><td>Phó Chủ tịch HĐQT (Thành viên độc lập HĐQT) (Bổ nhiệm ngày 29/04/2022)</td></tr><tr><td>Ông Nguyễn Huy Tuấn</td><td>Phó Chủ tịch HĐQT kiểm Tổng Giám đốc (Miễn nhiệm ngày 29/04/2022)</td></tr><tr><td>Bà Phan Thị Thu Thảo</td><td>Thành viên HĐQT kiểm Phó Tổng Giám đốc (Bổ nhiệm ngày 29/04/2022)</td></tr></table>
+
+Bản thuyết minh này là một bộ phận hợp thành và phải được đọc cùng với Báo cáo tài chính hợp nhất
+
+36
+
+===== PAGE 40 =====
+□ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □
+
+CÔNG TY CỔ PHẦN TASCO
+
+BẢN THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+
+Cho năm tài chính kết thúc ngày 31 tháng 12 năm 2022
+
+B09-DN/HN
+
+<table><tr><td>Bên liên quan</td><td>Mối quan hệ</td></tr><tr><td>Ông Đình Đức Tùng</td><td>Thành viên độc lập HĐQT (Bổ nhiệm ngày 29/04/2022)</td></tr><tr><td>Ông Nguyễn Viết Tân</td><td>Thành viên HĐQT (Miễn nhiệm ngày 29/04/2022)</td></tr><tr><td>Bà Trần Hằng Thu</td><td>Thành viên HĐQT (Miễn nhiệm ngày 29/04/2022)</td></tr><tr><td>Bà Phạm Thị Chi</td><td>Thành viên HĐQT (Miễn nhiệm ngày 29/04/2022)</td></tr><tr><td>Bà Trần Hải Yến</td><td>Thành viên HĐQT (Miễn nhiệm ngày 29/04/2022)</td></tr><tr><td>Ông Phạm Đức Minh</td><td>Phó Tổng Giám đốc (Bổ nhiệm ngày 01/01/2022)</td></tr><tr><td>Bà Trần Minh Trang</td><td>Trường ban Kiểm soát</td></tr><tr><td>Bà Nguyễn Thị Hải Yến</td><td>Thành viên BKS</td></tr><tr><td>Bà Hoàng Thị Soa</td><td>Thành viên BKS</td></tr><tr><td>Bà Phạm Thị Nhài</td><td>Người liên quan của Thành viên HĐQT đến ngày 29/04/2022</td></tr></table>
+
+2.2 Giao dịch với bên liên quan
+
+a. Thu nhập của thành viên quản lý chủ chốt
+
+Thu nhập (*)
+
+<table><tr><td></td><td>Năm nay</td><td>Năm trước</td></tr><tr><td>Hội đồng quản trị</td><td>1.804.531.818</td><td>3.728.458.027</td></tr><tr><td>Ông Vũ Đình Độ</td><td>-</td><td>-</td></tr><tr><td>Ông Phạm Quang Dũng - Chủ tịch HĐQT (Miễn nhiệm ngày 28/10/2021)</td><td>-</td><td>10.430.000</td></tr><tr><td>Ông Nguyễn Thế Minh (**)</td><td>810.831.818</td><td>-</td></tr><tr><td>Bà Phan Thị Thu Thảo (**)</td><td>813.700.000</td><td>-</td></tr><tr><td>Ông Nguyễn Việt Tân (**)</td><td>180.000.000</td><td>1.795.734.935</td></tr><tr><td>Bà Phạm Thị Chi</td><td>-</td><td>569.857.029</td></tr><tr><td>Bà Trần Hải Yến</td><td>-</td><td>1.202.436.063</td></tr><tr><td>Bà Đỗ Thanh Hương - Thành viên HĐQT độc lập (Miễn nhiệm ngày 28/10/2021)</td><td>-</td><td>150.000.000</td></tr><tr><td>Các thành viên khác</td><td>-</td><td>-</td></tr><tr><td>Ban Kiểm soát</td><td>1.118.745.455</td><td>-</td></tr><tr><td>Bà Trần Minh Trang</td><td>203.500.000</td><td>-</td></tr><tr><td>Bà Nguyễn Thị Hải Yến</td><td>915.245.455</td><td>-</td></tr><tr><td>Các thành viên khác</td><td>-</td><td>-</td></tr><tr><td>Ban Điều hành</td><td>-</td><td>1.831.478.796</td></tr><tr><td>Ông Hồ Việt Hà</td><td>-</td><td>-</td></tr><tr><td>Ông Nguyễn Dĩnh Siêu - Phó Tổng Giám đốc (Miễn nhiệm tháng 12/2021)</td><td>-</td><td>930.075.043</td></tr><tr><td>Ông Khuất Trung Thắng - Phó Tổng Giám đốc (Miễn nhiệm tháng 12/2021)</td><td>-</td><td>901.403.753</td></tr><tr><td>Các thành viên điều hành khác (***)</td><td>-</td><td>-</td></tr><tr><td>Cộng</td><td>2.923.277.273</td><td>5.559.936.823</td></tr></table>
+
+(*) Chỉ bao gồm thu nhập được trả cho chức danh vị trí tại Công ty (không tính đến thu nhập nếu có tại các đơn vị khác).
+
+(**) Các thành viên Hội đồng quản trị kiểm chức vụ điều hành trong Ban Điều hành có thu nhập từ Lương và phụ cấp chức vụ trong năm được trình bày tổng thu nhập tại mục thu nhập của Hội đồng quản trị.
+
+(***) Các thành viên khác trong Ban Điều hành (trừ các thành viên Hội đồng quản trị kiểm nhiệm).
+
+Bàn thuyết minh này là một bộ phận hợp thành và phải được đọc cùng với Báo cáo tài chính hợp nhất
+
+37
+
+===== PAGE 41 =====
+\( \because {a}_{\square } = 1,\;\frac{1}{2}{a}_{\square } + 1 = 2 \)
+
+CÔNG TY CỔ PHẦN TASCO
+
+B09-DN/HN
+
+BẢN THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+
+Cho năm tài chính kết thúc ngày 31 tháng 12 năm 2022
+
+b. Giao dịch với bên liên quan
+
+Giao dịch với các bên liên quan trong năm như sau:
+
+<table><tr><td></td><td>Năm nay</td><td>Năm trước</td></tr><tr><td colspan="3">Cung cấp dịch vụ</td></tr><tr><td>Tổng Công ty Thăng Long - CTCP (*)</td><td>-</td><td>90.000.000</td></tr><tr><td>Công ty TNHH BOT Hùng Thắng Phú Thọ</td><td>813.536.870</td><td>-</td></tr><tr><td>Công ty cổ phần phát triển Du lịch Tân An</td><td>4.871.708.933</td><td>-</td></tr><tr><td>Cộng</td><td>5.685.245.803</td><td>90.000.000</td></tr><tr><td colspan="3">Mua hàng hóa, dịch vụ</td></tr><tr><td>Tổng Công ty Thăng Long - CTCP (*)</td><td>-</td><td>9.333.456.000</td></tr><tr><td>Công ty cổ phần du lịch Hồng Hải</td><td>1.306.716.674</td><td>-</td></tr><tr><td>Công ty cổ phần phát triển Du lịch Tân An</td><td>1.907.042.771</td><td>-</td></tr><tr><td>Công ty TNHH BOT Hùng Thắng Phú Thọ</td><td>147.746.890</td><td>-</td></tr><tr><td>Cộng</td><td>3.361.506.335</td><td>9.333.456.000</td></tr><tr><td colspan="3">Cho vay</td></tr><tr><td>Công ty TNHH T&#x27;Hospital (*)</td><td>57.574.073.506</td><td>-</td></tr><tr><td>Công ty TNHH BOT Hùng Thắng</td><td>-</td><td>90.000.000</td></tr><tr><td>Cộng</td><td>57.574.073.506</td><td>90.000.000</td></tr><tr><td colspan="3">Cổ tức, lợi nhuận được chia</td></tr><tr><td>Tổng Công ty Thăng Long - CTCP (*)</td><td>-</td><td>4.854.502.500</td></tr><tr><td>Cộng</td><td>-</td><td>4.854.502.500</td></tr><tr><td colspan="3">Lãi cho vay</td></tr><tr><td>Công ty TNHH T&#x27;Hospital (*)</td><td>674.869.601</td><td>-</td></tr><tr><td>Công ty TNHH BOT Hùng Thắng Phú Thọ</td><td>602.700.001</td><td>1.191.263.836</td></tr><tr><td>Cộng</td><td>1.277.569.602</td><td>1.191.263.836</td></tr><tr><td colspan="3">Vay</td></tr><tr><td>Ông Phạm Quang Dũng</td><td>15.850.000.000</td><td>40.846.170.310</td></tr><tr><td>Cộng</td><td>15.850.000.000</td><td>40.846.170.310</td></tr><tr><td colspan="3">Thanh toán gốc vay</td></tr><tr><td>Công ty TNHH T&#x27;Hospital (*)</td><td>21.000.000.000</td><td>-</td></tr><tr><td>Ông Phạm Quang Dũng</td><td>117.581.276.519</td><td>20.776.422.046</td></tr><tr><td>Cộng</td><td>138.581.276.519</td><td>20.776.422.046</td></tr><tr><td colspan="3">Lãi vay</td></tr><tr><td>Công ty TNHH T&#x27;Hospital (*)</td><td>867.258.218</td><td>-</td></tr><tr><td>Ông Phạm Quang Dũng</td><td>4.692.931.507</td><td>8.371.643.836</td></tr><tr><td>Cộng</td><td>5.560.189.725</td><td>8.371.643.836</td></tr></table>
+
+(*): Các đơn vị này không còn là bên liên quan tại thời điểm kết thúc năm tài chính 31/12/2022. Giao dịch với các đơn vị này trong năm được xác định đến thời điểm các đơn vị này không còn là bên liên quan.
+
+Bản thuyết minh này là một bộ phận hợp thành và phải được đọc cùng với Báo cáo tài chính hợp nhất
+
+38
+
+===== PAGE 42 =====
+CÔNG TY CỔ PHẦN TASCO
+
+BẢN THUYẾT MINH BẢO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+
+Cho năm tài chính kết thúc ngày 31 tháng 12 năm 2022
+
+B09-DN/HN
+
+Tại ngày kết thúc năm tài chính, số dư phải thu, phải trả với các bên liên quan khác như sau:
+
+<table><tr><td></td><td>Số cuối năm</td><td>Số đầu năm</td></tr><tr><td colspan="3">Phải thu khách hàng</td></tr><tr><td>Công ty cổ phần phát triển Du lịch Tân An</td><td>1.945.549.217</td><td>-</td></tr><tr><td>Công ty TNHH BOT Hùng Thắng Phú Thọ</td><td>76.499.395</td><td>-</td></tr><tr><td>Tổng Công ty Thắng Long - CTCP (*)</td><td></td><td>14.850.000</td></tr><tr><td>Cộng</td><td>2.022.048.612</td><td>14.850.000</td></tr><tr><td colspan="3">Phải thu về cho vay ngắn hạn</td></tr><tr><td>Công ty TNHH BOT Hùng Thắng Phú Thọ</td><td>5.740.000.000</td><td>5.740.000.000</td></tr><tr><td>Cộng</td><td>5.740.000.000</td><td>5.740.000.000</td></tr><tr><td colspan="3">Phải thu khác ngắn hạn</td></tr><tr><td>Công ty TNHH BOT Hùng Thắng Phú Thọ</td><td>2.139.647.426</td><td>1.536.947.425</td></tr><tr><td>Tổng Công ty Thắng Long - CTCP (*)</td><td></td><td>850.471.671</td></tr><tr><td>Cộng</td><td>2.139.647.426</td><td>2.387.419.096</td></tr><tr><td colspan="3">Phải thu khác dài hạn</td></tr><tr><td>Bà Phạm Thị Nhải (*)</td><td></td><td>58.553.654.710</td></tr><tr><td>Cộng</td><td>-</td><td>58.553.654.710</td></tr><tr><td colspan="3">Phải trả người bán ngắn hạn</td></tr><tr><td>Công ty cổ phần du lịch Hồng Hải</td><td>27.000.000</td><td>-</td></tr><tr><td>Công ty cổ phần phát triển Du lịch Tân An</td><td>556.168.000</td><td>-</td></tr><tr><td>Tổng Công ty Thắng Long - CTCP (*)</td><td></td><td>108.773.523.496</td></tr><tr><td>Cộng</td><td>583.168.000</td><td>108.773.523.496</td></tr><tr><td colspan="3">Phải trả khác ngắn hạn</td></tr><tr><td>Công ty TNHH BOT Hùng Thắng Phú Thọ</td><td>302.318.000</td><td>-</td></tr><tr><td>Tổng Công ty Thắng Long - CTCP (*)</td><td></td><td>3.929.019.846</td></tr><tr><td>Cộng</td><td>302.318.000</td><td>3.929.019.846</td></tr><tr><td colspan="3">Vay và nợ thuê tài chính ngắn hạn</td></tr><tr><td>Ông Phạm Quang Dũng</td><td>-</td><td>101.731.276.519</td></tr><tr><td>Cộng</td><td>-</td><td>101.731.276.519</td></tr></table>
+
+(*): Các đơn vị này không còn là bên liên quan tại thời điểm kết thúc năm tài chính 31/12/2022.
+
+Chính sách giá cả đối với các giao dịch giữa Công ty và các bên liên quan khác
+
+Việc mua hàng hóa và dịch vụ từ các bên liên quan được thực hiện theo giá thị trường.
+
+Các khoản công nợ phải thu không có bảo đảm và sẽ được thanh toán bằng tiền. Không có khoản dự phòng phải thu khó đòi nào được lập cho các khoản nợ phải thu từ các bên liên quan.
+
+Bản thuyết minh này là một bộ phận hợp thành và phải được đọc cùng với Báo cáo tài chính hợp nhất
+
+39
+
+===== PAGE 43 =====
+CÔNG TY CỔ PHẦN TASCO
+
+BẢN THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+Cho năm tài chính kết thúc ngày 31 tháng 12 năm 2022
+
+B09-DN/HN
+
+<table><tr><td colspan="6">3. Báo cáo kết quả bộ phận</td></tr><tr><td></td><td>Xây lắp và hoạt động khác</td><td>Đầu tư, kinh doanh BĐS</td><td>Dịch vụ thu phí đường bộ theo hình thức BOT</td><td>Dịch vụ thu phí theo hình thức điện tử không dùng</td><td>Tổng</td></tr><tr><td colspan="6">DOANH THU</td></tr><tr><td>Tổng doanh thu</td><td>116.474.724.116</td><td>42.032.343.756</td><td>568.737.165.316</td><td>345.948.674.847</td><td>1.073.192.908.035</td></tr><tr><td>Giảm trừ doanh thu</td><td>31.553.283</td><td>-</td><td>-</td><td>-</td><td>31.553.283</td></tr><tr><td>Doanh thu thuần</td><td>116.443.170.833</td><td>42.032.343.756</td><td>568.737.165.316</td><td>345.948.674.847</td><td>1.073.161.354.752</td></tr><tr><td colspan="6">KẾT QUẢ HOẠT ĐỘNG</td></tr><tr><td>Kết quả bộ phận</td><td>298.975.830.755</td><td>(41.394.807.688)</td><td>65.176.410.154</td><td>(131.774.885.583)</td><td>190.982.547.638</td></tr><tr><td>Thuế thu nhập doanh nghiệp</td><td>39.603.121.971</td><td>-</td><td>6.706.018.377</td><td>827.884.982</td><td>47.137.025.330</td></tr><tr><td>Lợi nhuận trong năm</td><td>259.372.708.784</td><td>(41.394.807.688)</td><td>58.470.391.777</td><td>(132.602.770.565)</td><td>143.845.522.308</td></tr><tr><td colspan="6">TÀI SẢN</td></tr><tr><td>Tài sản cố định</td><td>1.171.631.792</td><td>-</td><td>4.626.253.765.917</td><td>1.178.112.219.570</td><td>5.805.537.617.279</td></tr><tr><td>Tài sản cố định không thể phân bổ</td><td></td><td></td><td></td><td></td><td>13.543.433.789</td></tr><tr><td>Tài sản dở dang dài hạn</td><td>191.487.970.279</td><td>708.896.042.406</td><td>17.928.821.876</td><td>8.360.806.637</td><td>926.673.641.198</td></tr><tr><td>Các khoản phải thu</td><td>1.369.486.770.315</td><td>85.414.130.970</td><td>73.809.824.215</td><td>121.744.243.966</td><td>1.650.454.969.466</td></tr><tr><td>Hàng tồn kho</td><td>5.588.652.447</td><td>20.738.151.369</td><td>-</td><td>71.952.522.312</td><td>98.279.326.128</td></tr><tr><td>Tài sản ngắn hạn, dài hạn khác</td><td>928.360.782.196</td><td>-</td><td>1.083.563.723.364</td><td>938.150.587.638</td><td>2.950.075.093.198</td></tr><tr><td>Tài sản không thể phân bổ</td><td></td><td></td><td></td><td></td><td>187.807.839.995</td></tr><tr><td>Tổng tài sản</td><td>2.496.095.807.029</td><td>815.048.324.745</td><td>5.801.556.135.372</td><td>2.318.320.380.123</td><td>11.632.371.921.053</td></tr><tr><td colspan="6">NỘ PHẢI TRẢ</td></tr><tr><td>Các khoản phải trả</td><td>322.752.756.702</td><td>583.730.401.714</td><td>407.934.282.565</td><td>1.474.317.545.209</td><td>2.788.734.986.190</td></tr><tr><td>Phải trả tiền vay</td><td>522.500.000</td><td>-</td><td>4.026.961.614.260</td><td>806.657.582.106</td><td>4.834.141.696.366</td></tr><tr><td>Nợ phải trả không phân bổ</td><td></td><td></td><td></td><td></td><td>136.028.172.138</td></tr><tr><td>Tổng nợ phải trả</td><td>323.275.256.702</td><td>583.730.401.714</td><td>4.434.895.896.825</td><td>2.280.975.127.315</td><td>7.758.904.854.694</td></tr></table>
+
+Bản thuyết minh này là một bộ phận hợp thành và phải được đọc cùng với Báo cáo tài chính hợp nhất
+
+40
+
+===== PAGE 44 =====
+CÔNG TY CỔ PHẦN TASCO
+
+BẢN THUYÊT MINH BÁO CÁO TÀI CHÍNH HỢP NHẮT (tiếp then)
+Cho năm tài chính kết thúc ngày 31 tháng 12 năm 2022
+
+B09-DN/HN
+
+4. Thông tin so sánh
+
+Thông tin so sánh được trình bày theo số liệu từ Báo cáo tài chính hợp nhất cho năm tài chính kết thúc ngày 31/12/2021 đã được kiểm toán bởi Công ty TNHH Kiểm toán CPA Việt Nam.
+Trong năm, các công ty thành viên của Công ty đã rà soát lại số liệu quá khử liên quan đến ước tính và trích lập dự phòng giá trị thu hồi của các khoản phải thu; phân loại lại nguyên giá và giá trị hao mòn lũy kể tương ứng với giá trị chỉ phí lãi vay được vốn hóa vào giá trị phần mềm máy tính về tài sản cố định vô hình; phân loại lại số dư các khoản vay và nợ lãi phải trả theo kỳ hạn thanh toàn còn lại tại thời điểm báo cáo và thực hiện điều chỉnh hồi tố một số chỉ tiêu trên báo cáo tài chính hợp nhất. Chi tiết ảnh hưởng của các điều chỉnh hồi tố đến các chỉ tiêu trên Báo cáo tài chính hợp nhất như sau:
+
+<table><tr><td rowspan="2">Chỉ tiêu</td><td rowspan="2">Mã số</td><td colspan="3">Báo cáo tài chính hợp nhất cho năm tài chính kết thúc ngày 31/12/2020</td><td colspan="3">Báo cáo tài chính hợp nhất cho năm tài chính kết thúc ngày 31/12/2021</td></tr><tr><td>Ngày 31/12/2020 (đã trình bày trước đây)</td><td>Điều chỉnh hồi tố</td><td>Ngày 31/12/2020 (trình bày lại)</td><td>Ngày 31/12/2021 (đã trình bày trước đây)</td><td>Điều chỉnh hồi tố</td><td>Ngày 31/12/2021 (trình bày lại)</td></tr><tr><td colspan="8">Bảng cân đối kế toàn hợp nhất</td></tr><tr><td>Tài sản ngắn hạn</td><td>100</td><td>1.462.839.215.580</td><td>(89.903.800.000)</td><td>1.372.935.415.580</td><td>2.290.746.531.503</td><td>(89.903.800.000)</td><td>2.200.842.731.503</td></tr><tr><td>Các khoản phải thu ngắn hạn</td><td>130</td><td>975.469.626.587</td><td>(89.903.800.000)</td><td>885.565.826.587</td><td>1.411.417.598.144</td><td>(89.903.800.000)</td><td>1.321.513.798.144</td></tr><tr><td>Dự phòng nợ phải thu ngắn hạn khó đòi</td><td>137</td><td>(9.414.417.550)</td><td>(89.903.800.000)</td><td>(99.318.217.550)</td><td>(14.270.362.056)</td><td>(89.903.800.000)</td><td>(104.174.162.056)</td></tr><tr><td>Tài sản cố định hữu hình</td><td>221</td><td>6.104.093.281.543</td><td>-</td><td>6.104.093.281.543</td><td>5.920.417.705.047</td><td>(38.253.708.644)</td><td>5.882.163.996.403</td></tr><tr><td>Nguyên giá</td><td>222</td><td>7.477.102.910.079</td><td>-</td><td>7.477.102.910.079</td><td>7.518.239.360.634</td><td>(44.135.311.971)</td><td>7.474.104.048.663</td></tr><tr><td>Giá trị hao mòn lũy kế</td><td>223</td><td>(1.373.009.628.536)</td><td>-</td><td>(1.373.009.628.536)</td><td>(1.597.821.655.587)</td><td>5.881.603.327</td><td>(1.591.940.052.260)</td></tr><tr><td>Tài sản cố định vô hình</td><td>227</td><td>134.427.428.143</td><td>-</td><td>134.427.428.143</td><td>124.112.003.667</td><td>38.253.708.644</td><td>162.365.712.311</td></tr><tr><td>Nguyên giá</td><td>228</td><td>157.561.710.462</td><td>-</td><td>157.561.710.462</td><td>157.439.431.893</td><td>44.135.311.971</td><td>201.574.743.864</td></tr><tr><td>Giá trị hao mòn lũy kế</td><td>229</td><td>(23.134.282.319)</td><td>-</td><td>(23.134.282.319)</td><td>(33.327.428.226)</td><td>(5.881.603.327)</td><td>(39.209.031.553)</td></tr><tr><td>Tổng cộng tài sản</td><td>270</td><td>10.158.470.601.572</td><td>(89.903.800.000)</td><td>10.068.566.801.572</td><td>10.815.399.528.954</td><td>(89.903.800.000)</td><td>10.725.495.728.954</td></tr><tr><td>Nợ ngắn hạn</td><td>310</td><td>1.194.862.964.771</td><td>-</td><td>1.194.862.964.771</td><td>1.244.612.485.921</td><td>19.627.944.160</td><td>1.264.240.430.081</td></tr><tr><td>Phải trả ngắn hạn khác</td><td>319</td><td>362.737.071.284</td><td>-</td><td>362.737.071.284</td><td>508.505.337.564</td><td>(188.127.011.396)</td><td>320.378.326.168</td></tr><tr><td>Vay và nợ thuê tài chính ngắn hạn</td><td>320</td><td>97.778.930.894</td><td>-</td><td>97.778.930.894</td><td>101.731.276.519</td><td>207.754.955.556</td><td>309.486.232.075</td></tr><tr><td>Nợ dài hạn</td><td>330</td><td>6.002.781.691.622</td><td>-</td><td>6.002.781.691.622</td><td>5.763.254.598.556</td><td>(19.627.944.160)</td><td>5.743.626.654.396</td></tr><tr><td>Phải trả dài hạn khác</td><td>337</td><td>551.589.958.880</td><td>-</td><td>551.589.958.880</td><td>587.089.350.701</td><td>188.127.011.396</td><td>775.216.362.097</td></tr><tr><td>Vay và nợ thuê tài chính dài hạn</td><td>338</td><td>5.411.539.750.297</td><td>-</td><td>5.411.539.750.297</td><td>5.136.737.492.288</td><td>(207.754.955.556)</td><td>4.928.982.536.732</td></tr></table>
+
+Bản thuyết minh này là một bộ phận hợp thành và phải được đọc cùng với Báo cáo tài chính hợp nhất
+
+41
+
+===== PAGE 45 =====
+CÔNG TY CỔ PHẦN TASCO
+
+BẢN THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẮT (tiếp theo)
+Cho năm tài chính kết thúc ngày 31 tháng 12 năm 2022
+
+B09-DN/HN
+
+<table><tr><td rowspan="2">Chỉ tiêu</td><td rowspan="2">Mã số</td><td colspan="3">Báo cáo tài chính hợp nhất cho năm tài chính kết thúc ngày 31/12/2020</td><td colspan="3">Báo cáo tài chính hợp nhất cho năm tài chính kết thúc ngày 31/12/2021</td></tr><tr><td>Ngày 31/12/2020 (đã trình bày trước đây)</td><td>Điều chính hồi tố</td><td>Ngày 31/12/2020 (trình bày lại)</td><td>Ngày 31/12/2021 (đã trình bày trước đây)</td><td>Điều chính hồi tố</td><td>Ngày 31/12/2021 (trình bày lại)</td></tr><tr><td>Vốn chủ sở hữu</td><td>400</td><td>2.960.825.945.179</td><td>(89.903.800.000)</td><td>2.870.922.145.179</td><td>3.807.532.444.477</td><td>(89.903.800.000)</td><td>3.717.628.644.477</td></tr><tr><td>Vốn chủ sở hữu</td><td>410</td><td>2.960.825.945.179</td><td>(89.903.800.000)</td><td>2.870.922.145.179</td><td>3.807.532.444.477</td><td>(89.903.800.000)</td><td>3.717.628.644.477</td></tr><tr><td>Lợi nhuận sau thuế chưa phân phối</td><td>421</td><td>80.626.534.571</td><td>(89.873.832.067)</td><td>(9.247.297.496)</td><td>145.551.928.153</td><td>(89.873.832.067)</td><td>55.678.096.086</td></tr><tr><td>Lợi nhuận sau thuế chưa phân phối lũy kế đến cuối kỳ trước</td><td>421a</td><td>315.688.161.156</td><td>-</td><td>315.688.161.156</td><td>83.968.131.896</td><td>(89.873.832.067)</td><td>(5.905.700.171)</td></tr><tr><td>Lợi nhuận sau thuế chưa phân phối lũy kế đến cuối kỳ này</td><td>421b</td><td>(235.061.626.585)</td><td>(89.873.832.067)</td><td>(324.935.458.652)</td><td>61.583.796.257</td><td>-</td><td>61.583.796.257</td></tr><tr><td>Lợi ích cổ đông không kiểm soát</td><td>429</td><td>(13.192.098.313)</td><td>(29.967.933)</td><td>(13.222.066.246)</td><td>(31.128.352.400)</td><td>(29.967.933)</td><td>(31.158.320.333)</td></tr><tr><td>Tổng cộng nguồn vốn</td><td>440</td><td>10.158.470.601.572</td><td>(89.903.800.000)</td><td>10.068.566.801.572</td><td>10.815.399.528.954</td><td>(89.903.800.000)</td><td>10.725.495.728.954</td></tr></table>
+
+Bain thuyet minh may la moft bo phan hopp lhanh va phal durce dorc cung yoi Bao cao tai chihi hop nhat
+
+42
+
+===== PAGE 46 =====
+□ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □
+
+CÔNG TY CỔ PHẦN TASCO
+
+BẢN THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+
+Cho năm tài chính kết thúc ngày 31 tháng 12 năm 2022
+
+B09-DN/HN
+
+Báo cáo tài chính hợp nhất cho năm tài chính kết thúc ngày
+31/12/2020
+
+<table><tr><td>Chi tiêu</td><td>Mã số</td><td>Năm 2020 (đã trìnhbảy trước đây)</td><td>Điều chỉnh hồi tố</td><td>Năm 2020 (trìnhbảy lại)</td></tr><tr><td colspan="5">Báo cáo kết quả kinh doanh hợp nhất</td></tr><tr><td>Chi phí quản lý doanh nghiệp</td><td>26</td><td>121.014.253.343</td><td>89.903.800.000</td><td>210.918.053.343</td></tr><tr><td>Lợi nhuận thuần từ hoạt động kinh doanh</td><td>30</td><td>(252.358.356.743)</td><td>(89.903.800.000)</td><td>(342.262.156.743)</td></tr><tr><td>Tổng lợi nhuận kế toán trước thuế</td><td>50</td><td>(247.023.496.833)</td><td>(89.903.800.000)</td><td>(336.927.296.833)</td></tr><tr><td>Lợi nhuận sau thuế thu nhập doanh nghiệp</td><td>60</td><td>(243.442.762.893)</td><td>(89.903.800.000)</td><td>(333.346.562.893)</td></tr><tr><td>Lợi nhuận sau thuế của công ty mẹ</td><td>61</td><td>(235.061.626.585)</td><td>(89.873.832.067)</td><td>(324.935.458.652)</td></tr><tr><td>Lợi nhuận sau thuế của cổ đông không kiểm soát</td><td>62</td><td>(8.381.136.308)</td><td>(29.967.933)</td><td>(8.411.104.241)</td></tr><tr><td>Lãi cơ bản trên cổ phiếu</td><td>70</td><td>(875,03)</td><td>(334,56)</td><td>(1.209,59)</td></tr><tr><td colspan="5">Báo cáo lưu chuyển tiền tệ hợp nhất</td></tr><tr><td>Lợi nhuận trước thuế</td><td>01</td><td>(247.023.496.833)</td><td>(89.903.800.000)</td><td>(336.927.296.833)</td></tr><tr><td>Các khoản dự phòng</td><td>03</td><td>(22.510.281.092)</td><td>89.903.800.000</td><td>67.393.518.908</td></tr></table>
+
+Lập ngày 22 tháng 02 năm 2023
+
+Người lập biểu
+
+Bùi Thị Bình
+
+Kế toán trưởng
+
+Nguyễn Hồng Oanh
+
+Phó Tổng Giám đốc
+
+Phan Thị Thu Thảo
+
+Bản thuyết minh này là một bộ phận hợp thành và phải được đọc cùng với Báo cáo tài chính hợp nhất
+
+43

@@ -1,0 +1,1460 @@
+===== PAGE 1 =====
+CÔNG TY CP CONTAINER VIỆT NAM
+
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+
+Độc lập - Tự do - Hạnh phúc
+
+Sô: 35 /2022/VSC
+
+Hải Phòng, ngày 07 tháng 03 năm 2022
+
+Kính gửi: - ỦY BAN CHỨNG KHOÁN NHÀ NƯỚC
+- SỞ GIAO ĐỊCH CHỨNG KHOÁN TP. HỒ CHÍ MINH
+
+Căn cứ vào các quy định công bố thông tin của tổ chức niêm yết trên thị trường chứng khoán, Công ty Cổ phần Container Việt Nam (mã chứng khoán: VSC) xin giải trình về việc Lợi nhuận sau thuế thu nhập doanh nghiệp tại Báo cáo kết quả hoạt động kinh doanh năm 2021 so với báo cáo cùng kỳ năm trước có biến động từ 10% trở lên trên Báo cáo tài chính riêng sau kiểm toán như sau:
+
+Đơn vị tính: đồng
+
+<table><tr><td>Stt</td><td>Chỉ tiêu</td><td>Năm 2021</td><td>Năm 2020</td><td>Chênh lệch tăng</td><td>Tỷ lệ tăng (%)</td></tr><tr><td>1</td><td>Lợi nhuận sau thuế TNDN</td><td>249,143,311,503</td><td>85,378,566,388</td><td>163,764,745,115</td><td>192%</td></tr></table>
+
+Nguyên nhân chủ yếu:
+
+Trong năm 2021, Doanh thu từ cung cấp dịch vụ của Công ty tăng so với cùng kỳ năm trước 38.45%. Đồng thời năm 2021 Công ty ghi nhận cổ tức từ các Công ty con (VGR, GIC, VSM) và các Công ty liên kết làm cho doanh thu hoạt động tài chính tăng mạnh so với cùng kỳ năm 2020.
+
+Đây là các nguyên nhân chủ yếu làm cho lợi nhuận sau thuế năm 2021 tăng 163,764,745,115 đồng, tương ứng với tăng 192% so với cùng kỳ năm 2020.
+
+Trân trọng.
+
+TỔNG GIÁM ĐỐC
+
+Nơi nhận:
+
+- Nhu trên
+
+- Luu VT, TCKT
+
+===== PAGE 2 =====
+CÔNG TY CỔ PHẦN CONTAINER VIỆT NAM
+
+BÁO CÁO TÀI CHÍNH RIÊNG
+
+CHO NĂM TÀI CHÍNH KẾT THỨC NGÀY 31 THÁNG 12 NĂM 2021
+
+===== PAGE 3 =====
+CÔNG TY CỔ PHẦN CONTAINER VIỆT NAM
+
+BÁO CÁO TÀI CHÍNH RIÊNG
+
+CHO NĂM TÀI CHÍNH KẾT THỨC NGÀY 31 THÁNG 12 NĂM 2021
+
+NỘI DUNG
+
+TRANG
+
+Thông tin về doanh nghiệp 1
+
+Báo cáo của Ban Giám đốc 2
+
+Báo cáo kiểm toán độc lập 3
+
+Bảng cân đối kế toán riêng (Mẫu số B 01 – DN) 5
+
+Báo cáo kết quả hoạt động kinh doanh riêng (Mẫu số B 02 – DN) 7
+
+Báo cáo lưu chuyển tiền tệ riêng (Mẫu số B 03 – DN) 8
+
+Thuyết minh báo cáo tài chính riêng (Mẫu số B 09 – DN) 10
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+47
+48
+49
+50
+51
+52
+53
+54
+55
+56
+57
+58
+59
+60
+61
+62
+63
+64
+65
+66
+67
+68
+69
+70
+71
+72
+73
+74
+75
+76
+77
+78
+79
+80
+81
+82
+83
+84
+85
+86
+87
+88
+89
+90
+91
+92
+93
+94
+95
+96
+97
+98
+99
+100
+
+1. 2. 3. 4. 5. 6. 7. 8. 9. 10. 11. 12. 13. 14. 15. 16. 17. 18. 19. 20. 21. 22. 23. 24. 25. 26. 27. 28. 29. 30. 31. 32. 33. 34. 35. 36. 37. 38. 39. 40. 41. 42. 43. 44. 45. 46. 47. 48. 49. 50. 51. 52. 53. 54. 55. 56. 57. 58. 59. 60. 61. 62. 63. 64. 65. 66. 67. 68. 69. 70. 71. 72. 73. 74. 75. 76. 77. 78. 79. 80. 81. 82. 83. 84. 85. 86. 87. 88. 89. 90. 91. 92. 93. 94. 95. 96. 97. 98. 99.
+
+===== PAGE 4 =====
+CÔNG TY CỔ PHẦN CONTAINER VIỆT NAM
+
+THÔNG TIN VỀ DOANH NGHIỆP
+
+Giấy Chứng nhận
+
+Đăng ký Doanh nghiệp
+
+Số 0200453688 đề ngày 1 tháng 4 năm 2002
+
+Giấy Chứng nhận Đăng ký Doanh nghiệp số 0200453688 và các thay đổi Giấy Chứng nhận Đăng ký Doanh nghiệp do Sở Kế hoạch và Đầu tư Thành phố Hải Phòng cấp. Giấy Chứng nhận Đăng ký Doanh nghiệp thay đổi gần nhất (lần thứ hai mươi hai) được cấp ngày 27 tháng 1 năm 2022.
+
+Hội đồng Quản trị
+
+<table><tr><td>Ông Nguyễn Việt Hòa</td><td>Chủ tịch</td></tr><tr><td>Ông Nguyễn Việt Trung</td><td>Thành viên</td></tr><tr><td>Ông Nguyễn Hoàng Anh</td><td>Thành viên</td></tr><tr><td>Ông Trần Quang Tiến</td><td>Thành viên(bổ nhiệm ngày 22/9/2021)</td></tr><tr><td>Ông Dương Tiến Dũng</td><td>Thành viên(bổ nhiệm ngày 26/3/2021)</td></tr><tr><td>Ông Văn Trần Hoàn</td><td>Thành viên(bổ nhiệm ngày 26/3/2021)</td></tr><tr><td>Ông Tạ Công Thông</td><td>Thành viên(bổ nhiệm ngày 26/3/2021)</td></tr><tr><td>Ông Nguyễn Văn Tiến</td><td>Thành viên(từ nhiệm ngày 15/9/2021)</td></tr><tr><td>Ông Trần Tiến Dũng</td><td>Thành viên(từ nhiệm ngày 8/9/2021)</td></tr><tr><td>Ông Nguyễn Thế Duy</td><td>Thành viên(từ nhiệm ngày 2/7/2021)</td></tr><tr><td>Ông Nguyễn Thế Trọng</td><td>Thành viên(từ nhiệm ngày 26/3/2021)</td></tr><tr><td>Ông Nghiêm Tuấn Anh</td><td>Thành viên(từ nhiệm ngày 26/3/2021)</td></tr><tr><td>Bà Đặng Trần Gia Thoại</td><td>Thành viên(từ nhiệm ngày 26/3/2021)</td></tr></table>
+
+Ban Kiểm soát
+
+<table><tr><td>Bà Nguyễn Thị Kim Nhã</td><td>Trường ban</td></tr><tr><td>Bà Nguyễn Thị Minh Lan</td><td>Thành viên</td></tr><tr><td>Bà Nghiêm Thị Thùy Dương</td><td>Thành viên</td></tr></table>
+
+Ban Giám đốc
+
+<table><tr><td>Ông Bùi Minh Hưng</td><td>Tổng Giám đốc(bổ nhiệm ngày 8/9/2021)</td></tr><tr><td>Ông Nguyễn Văn Tiến</td><td>Tổng Giám đốc(từ nhiệm ngày 8/9/2021)</td></tr><tr><td>Ông Nguyễn Thế Trọng</td><td>Giám đốc kỹ thuật</td></tr><tr><td>Ông Dương Tiến Dũng</td><td>Giám đốc tài chính(bổ nhiệm ngày 1/5/2021)</td></tr><tr><td>Ông Trần Tiến Dũng</td><td>Giám đốc khai thác(bổ nhiệm ngày 26/7/2021)(từ nhiệm ngày 8/9/2021)</td></tr></table>
+
+Người đại diện
+theo pháp luật
+
+<table><tr><td>Ông Bùi Minh Hưng</td><td>Tổng Giám đốc(bổ nhiệm ngày 8/9/2021)</td></tr><tr><td>Ông Nguyễn Văn Tiến</td><td>Tổng Giám đốc(từ nhiệm ngày 8/9/2021)</td></tr></table>
+
+Trụ sở chính
+
+Số 11 Võ Thị Sáu, Phường Máy Tơ, Quận Ngô Quyền, Thành phố Hải Phòng, Việt Nam
+
+Công ty kiểm toán
+
+Chi nhánh Công ty TNHH PwC (Việt Nam) tại Hà Nội
+
+1
+
+===== PAGE 5 =====
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+
+CÔNG TY CỔ PHẦN CONTAINER VIỆT NAM
+
+BÁO CÁO CỦA BAN GIÁM ĐỐC
+
+TRÁCH NHIỆM CỦA BAN GIÁM ĐỐC ĐỐI VỚI BÁO CÁO TÀI CHÍNH RIÊNG
+
+Ban Giám đốc của Công ty Cổ phần Container Việt Nam (“Công ty”) chịu trách nhiệm lập và trình bày báo cáo tài chính riêng thể hiện trung thực và hợp lý tỉnh hình tài chính riêng của Công ty tại ngày 31 tháng 12 năm 2021, cũng như kết quả hoạt động kinh doanh riêng và tỉnh hình lưu chuyển tiền tệ riêng của năm tài chính kết thúc cùng ngày nêu trên. Trong việc lập báo cáo tài chính riêng này, Ban Giám đốc được yêu cầu phải:
+
+- chọn lựa các chính sách kế toán phù hợp và áp dụng một cách nhất quán;
+
+- thực hiện các xét đoán và ước tính một cách hợp lý và thận trọng; và
+
+- lập báo cáo tài chính riêng trên cơ sở Công ty hoạt động liên tục trừ khi giả định Công ty hoạt động liên tục là không phù hợp.
+
+Ban Giám đốc của Công ty chịu trách nhiệm bảo đảm rằng các số sách kế toán đúng đắn đã được thiết lập và duy trì để thể hiện tỉnh hình tài chính riêng của Công ty với độ chính xác hợp lý tại mọi thời điểm và để làm cơ sở lập báo cáo tài chính riêng tuân thủ theo chế độ kế toán được trình bày ở Thuyết minh 2 của báo cáo tài chính riêng. Ban Giám đốc của Công ty cũng chịu trách nhiệm đối với việc bảo vệ các tài sản của Công ty và thực hiện các biện pháp hợp lý để ngăn ngừa và phát hiện các gian lận hoặc nhằm lẫn.
+
+PHÊ CHUẢN BÁO CÁO TÀI CHÍNH RIÊNG
+
+Theo đây, chúng tôi phê chuẩn báo cáo tài chính riêng đính kèm từ trang 5 đến trang 42. Báo cáo tài chính riêng này phần ánh trung thực và hợp lý tình hình tài chính riêng của Công ty tại ngày 31 tháng 12 năm 2021, cũng như kết quả hoạt động kinh doanh riêng và tình hình lưu chuyển tiền tệ riêng cho năm tài chính kết thúc cùng ngày nếu trên, phù hợp với các Chuẩn mực Kế toán Việt Nam, Chế độ Kế toán Doanh nghiệp Việt Nam và các quy định pháp lý có liên quan đến việc lập và trình bày báo cáo tài chính riêng.
+
+Người sử dụng báo cáo tài chính riêng của Công ty nên đọc cùng với báo cáo tài chính hợp nhất của Công ty và các công ty con (goi chung là “Tập đoàn”) cho nằm tài chính kết thúc ngày 31 tháng 12 năm 2021 để có đủ thông tin về tình hình tài chính hợp nhất, kết quả hoạt động kinh doanh hợp nhất và tình hình lưu chuyển tiền tệ hợp nhất của Tập đoàn.
+
+Thay mặt Ban Giám đốc
+
+Bùi Minh Hùng
+
+Tổng Giám đốc/
+
+Người đại diện theo pháp luật
+
+Hải Phòng, nước CHXHCN Việt Nam
+
+Ngày 2 tháng 3 năm 2022
+
+2
+
+===== PAGE 6 =====
+pwc
+
+BÁO CÁO KIỂM TOÁN ĐỘC LẬP
+
+GửI CÁC CỔ ĐÔNG CỦA CÔNG TY CỔ PHẦN CONTAINER VIỆT NAM
+
+Chúng tôi đã kiểm toán báo cáo tài chính riêng kèm theo của Công ty Cổ phần Container Việt Nam (“Công ty”) được lập ngày 31 tháng 12 năm 2021 và được Ban Giám đốc của Công ty phê chuẩn ngày 2 tháng 3 năm 2022. Báo cáo tài chính riêng này bao gồm: bằng cân đối kế toán riêng tại ngày 31 tháng 12 năm 2021, báo cáo kết quả hoạt động kinh doanh riêng và báo cáo lưu chuyển tiền tệ riêng cho năm tài chính kết thúc cùng ngày nếu trên, và thuyết minh báo cáo tài chính riêng bao gồm các chính sách kế toán chủ yếu từ trang 5 đến trang 42.
+
+Trách nhiệm của Ban Giám đốc
+
+Ban Giám đốc của Công ty chịu trách nhiệm về việc lập và trình bày trung thực và hợp lý báo cáo tài chính riêng của Công ty theo các Chuẩn mực Kế toán Việt Nam, Chế độ Kế toán Doanh nghiệp Việt Nam và các quy định pháp lý có liên quan đến việc lập và trình bày báo cáo tài chính riêng và chịu trách nhiệm về kiểm soát nội bộ mà Ban Giám đốc xác định là cần thiết để đảm bảo cho việc lập và trình bày báo cáo tài chính riêng không có sai sót trọng yếu do gian lận hoặc nhằm lấn.
+
+Trách nhiệm của Kiểm toán viên
+
+Trách nhiệm của chúng tôi là đưa ra ý kiến về báo cáo tài chính riêng này dựa trên kết quả cuộc kiểm toán. Chứng tôi đã tiến hành kiểm toán theo các Chuẩn mực Kiểm toán Việt Nam. Các chuẩn mực này yêu cầu chúng tôi tuân thủ chuẩn mực và các quy định về đạo đức nghề nghiệp và lập kế hoạch và thực hiện cuộc kiểm toán để đạt được sự đảm bảo hợp lý về việc liệu báo cáo tài chính riêng của Công ty có còn sai sót trọng yếu hay không.
+
+Công việc kiểm toán bao gồm thực hiện các thủ tục nhằm thu thập các bằng chứng kiểm toán về các số liệu và thuyết minh trên báo cáo tài chính riêng. Các thủ tục kiểm toán được lựa chọn dựa trên xét đoán của kiểm toán viên, bao gồm đánh giá rủi ro có sai sót trong yếu trong báo cáo tài chính riêng do gian lận hoặc nhằm lẫn. Khi thực hiện đánh giá các rủi ro này, kiểm toán viên đã xem xét kiểm soát nội bộ của Công ty liên quan đến việc lập và trình bày báo cáo tài chính riêng trung thực và hợp lý nhằm thiết kế các thủ tục kiểm toán phù hợp với tình hình thực tế, tuy nhiên không nhằm mục đích đưa ra ý kiến về hiệu quả của kiểm soát nội bộ của Công ty. Công việc kiểm toán cũng bao gồm việc đánh giá tính thích hợp của các chính sách kế toán được áp dụng và tính hợp lý của các ước tính kế toán của Ban Giám đốc cũng như đánh giá việc trình bày tổng thể báo cáo tài chính riêng.
+
+Chúng tôi tin tưởng rằng các bằng chứng kiểm toán mà chúng tôi đã thu thập được là đầy đủ và thích hợp để làm cơ sở cho ý kiến kiểm toán của chúng tôi.
+
+Chi nhánh Công ty TNHH PwC (Việt Nam) tại Hà Nội
+
+Tầng 16, Keangnam Hanoi Landmark Tower, Lô E6, Khu đô thị Cầu Giấy, Phường Mế Trì, Quận Nam Từ Liêm, Hà Nội, Việt Nam
+
+DT: +84 24 3946 2246, www.pwc.com/vn
+
+3
+
+===== PAGE 7 =====
+F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F
+
+[Non-Text]
+
+pwc
+
+Ý kiến của Kiểm toán viên
+
+Theo ý kiến của chúng tôi, báo cáo tài chính riêng đã phần ánh trung thực và hợp lý, trên các khía cạnh trọng yếu, tình hình tài chính riêng của Công ty tại ngày 31 tháng 12 năm 2021, cũng như kết quả hoạt động kinh doanh riêng và tình hình lưu chuyển tiền tệ riêng của Công ty cho năm tài chính kết thúc cùng ngày nếu trên, phù hợp với các Chuẩn mực Kế toán Việt Nam, Chế độ Kế toán Doanh nghiệp Việt Nam và các quy định pháp lý có liên quan đến việc lập và trình bày báo cáo tài chính riêng.
+
+Vấn đề khác
+
+Báo cáo tài chính riêng của Công ty cho năm tài chính kết thúc ngày 31 tháng 12 năm 2020 do một đơn vị kiểm toán khác kiểm toán và báo cáo của họ được phát hành ngày 8 tháng 3 năm 2021 đã đưa ra ý kiến kiểm toán chấp nhận toàn phần.
+
+Thay mặt và đại diện cho Chi nhánh Công ty TNHH PwC (Việt Nam) tại Hà Nội
+
+Trân Hồng Kiên
+
+Số Giấy ČN ĐKHN kiểm toán:
+
+0298-2018-006-1
+
+Chữ ký được ủy quyền
+
+Đăng Thái Sơn
+
+Số Giấy CN ĐKHN kiểm toán:
+
+4668-2018-006-1
+
+Số hiệu báo cáo kiểm toán: HAN 2910
+
+Hà Nội, ngày 2 tháng 3 năm 2022
+
+4
+
+===== PAGE 8 =====
+The image contains no text. The OCR result "F" is a hallucination and does not correspond to any content in the source image. Therefore, the correct OCR output must reflect the absence of any visible text.
+
+(no text)
+
+CÔNG TY CỔ PHẦN CONTAINER VIỆT NAM
+
+Mẫu số B 01 – DN
+
+BẢNG CÂN ĐỐI KẾ TOÁN RIÊNG
+
+<table><tr><td rowspan="2">Mã số</td><td rowspan="2">TÀI SẢN</td><td rowspan="2">Thuyết minh</td><td colspan="2">Tại ngày 31 tháng 12 năm</td></tr><tr><td>2021 VND</td><td>2020 VND</td></tr><tr><td>100</td><td>TÀI SẢN NGẮN HẠN</td><td></td><td>706.063.687.329</td><td>312.617.935.178</td></tr><tr><td>110</td><td>Tiền và các khoản tương đương tiền</td><td>3</td><td>633.997.287.489</td><td>214.950.878.788</td></tr><tr><td>111</td><td>Tiền</td><td></td><td>565.075.300.060</td><td>36.872.340.406</td></tr><tr><td>112</td><td>Các khoản tương đương tiền</td><td></td><td>68.921.987.429</td><td>178.078.538.382</td></tr><tr><td>120</td><td>Đầu tư tài chính ngắn hạn</td><td></td><td>1.000.000.000</td><td>1.000.000.000</td></tr><tr><td>123</td><td>Đầu tư nằm giữ đến ngày đáo hạn</td><td>8(a)</td><td>1.000.000.000</td><td>1.000.000.000</td></tr><tr><td>130</td><td>Các khoản phải thu ngắn hạn</td><td></td><td>57.834.970.525</td><td>85.459.811.142</td></tr><tr><td>131</td><td>Phải thu ngắn hạn của khách hàng</td><td>4</td><td>40.019.688.716</td><td>24.132.891.501</td></tr><tr><td>132</td><td>Trả trước cho người bán ngắn hạn</td><td></td><td>71.708.647</td><td>97.711.590</td></tr><tr><td>135</td><td>Phải thu về cho vay ngắn hạn</td><td>5(a)</td><td>1.789.473.698</td><td>12.686.407.947</td></tr><tr><td>136</td><td>Phải thu ngắn hạn khác</td><td>6</td><td>16.272.427.985</td><td>48.861.128.625</td></tr><tr><td>137</td><td>Dự phòng phải thu ngắn hạn khó đòi</td><td>6</td><td>(318.328.521)</td><td>(318.328.521)</td></tr><tr><td>140</td><td>Hàng tồn kho</td><td></td><td>1.214.274.739</td><td>466.822.694</td></tr><tr><td>141</td><td>Hàng tồn kho</td><td></td><td>1.214.274.739</td><td>466.822.694</td></tr><tr><td>150</td><td>Tài sản ngắn hạn khác</td><td></td><td>12.017.154.576</td><td>10.740.422.554</td></tr><tr><td>152</td><td>Thuế Giá trị Gia tăng (“GTGT”) được khấu trừ</td><td>10(a)</td><td>10.775.773.325</td><td>10.740.422.554</td></tr><tr><td>153</td><td>Thuế và các khoản khác phải thu Nhà nước</td><td>10(a)</td><td>1.241.381.251</td><td>-</td></tr><tr><td>200</td><td>TÀI SẢN DÀI HẠN</td><td></td><td>1.410.304.529.156</td><td>1.033.632.247.755</td></tr><tr><td>210</td><td>Các khoản phải thu dài hạn</td><td></td><td>2.526.315.786</td><td>17.784.015.594</td></tr><tr><td>215</td><td>Phải thu về cho vay dài hạn</td><td>5(b)</td><td>2.526.315.786</td><td>17.784.015.594</td></tr><tr><td>220</td><td>Tài sản cố định</td><td></td><td>22.083.379.119</td><td>22.981.972.864</td></tr><tr><td>221</td><td>Tài sản cố định hữu hình</td><td>7(a)</td><td>16.601.313.821</td><td>17.423.363.082</td></tr><tr><td>222</td><td>Nguyên giá</td><td></td><td>64.929.033.541</td><td>67.750.195.941</td></tr><tr><td>223</td><td>Giá trị khấu hao lũy kế</td><td></td><td>(48.327.719.720)</td><td>(50.326.832.859)</td></tr><tr><td>227</td><td>Tài sản cố định vô hình</td><td>7(b)</td><td>5.482.065.298</td><td>5.558.609.782</td></tr><tr><td>228</td><td>Nguyên giá</td><td></td><td>6.099.124.701</td><td>6.099.124.701</td></tr><tr><td>229</td><td>Giá trị khấu hao lũy kế</td><td></td><td>(617.059.403)</td><td>(540.514.919)</td></tr><tr><td>250</td><td>Đầu tư tài chính dài hạn</td><td></td><td>1.385.146.443.286</td><td>992.653.707.286</td></tr><tr><td>251</td><td>Đầu tư vào công ty con</td><td>8(b)</td><td>895.075.000.000</td><td>895.075.000.000</td></tr><tr><td>252</td><td>Đầu tư vào công ty liên kết</td><td>8(b)</td><td>489.916.443.286</td><td>97.423.707.286</td></tr><tr><td>253</td><td>Đầu tư góp vốn vào đơn vị khác</td><td>8(b)</td><td>155.000.000</td><td>155.000.000</td></tr><tr><td>260</td><td>Tài sản dài hạn khác</td><td></td><td>548.390.965</td><td>212.552.011</td></tr><tr><td>261</td><td>Chi phí trả trước dài hạn</td><td></td><td>548.390.965</td><td>212.552.011</td></tr><tr><td>270</td><td>TỔNG TÀI SẢN</td><td></td><td>2.116.368.216.485</td><td>1.346.250.182.933</td></tr></table>
+
+Các thuyết minh từ trang 10 đến trang 42 là một phần cấu thành báo cáo tài chính riêng này.
+
+5
+
+===== PAGE 9 =====
+□ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □
+
+CÔNG TY CỔ PHẦN CONTAINER VIỆT NAM
+
+Mẫu số B 01 – DN
+
+BÀNG CÂN ĐỐI KẾ TOÁN RIÊNG (tiếp theo)
+
+<table><tr><td rowspan="2">Mã số</td><td rowspan="2">NGUỒN VỐN</td><td rowspan="2">Thuyết minh</td><td colspan="2">Tại ngày 31 tháng 12 năm</td></tr><tr><td>2021 VND</td><td>2020 VND</td></tr><tr><td>300</td><td>NỘ PHẢI TRẢ</td><td></td><td>111.810.661.429</td><td>76.846.701.380</td></tr><tr><td>310</td><td>Nợ ngắn hạn</td><td></td><td>110.568.202.929</td><td>76.816.701.380</td></tr><tr><td>311</td><td>Phải trả người bán ngắn hạn</td><td>9</td><td>3.756.088.527</td><td>15.148.422.953</td></tr><tr><td>312</td><td>Người mua trả tiền trước ngắn hạn</td><td></td><td>1.767.719.458</td><td>1.283.536.085</td></tr><tr><td>313</td><td>Thuế và các khoản phải nộp Nhà nước</td><td>10(b)</td><td>2.117.363.304</td><td>1.847.219.189</td></tr><tr><td>314</td><td>Phải trả người lao động</td><td>11</td><td>8.108.614.589</td><td>5.768.734.921</td></tr><tr><td>315</td><td>Chi phí phải trả ngắn hạn</td><td></td><td>157.814.118</td><td>-</td></tr><tr><td>319</td><td>Phải trả ngắn hạn khác</td><td>12</td><td>91.793.032.787</td><td>36.450.110.455</td></tr><tr><td>322</td><td>Quỹ khen thưởng, phúc lợi</td><td>13</td><td>2.867.570.146</td><td>16.318.677.777</td></tr><tr><td>330</td><td>Nợ dài hạn</td><td></td><td>1.242.458.500</td><td>30.000.000</td></tr><tr><td>337</td><td>Phải trả dài hạn khác</td><td></td><td>30.000.000</td><td>30.000.000</td></tr><tr><td>342</td><td>Dự phòng phải trả dài hạn</td><td></td><td>1.212.458.500</td><td>-</td></tr><tr><td>400</td><td>VỐN CHỦ SỞ HỮU</td><td></td><td>2.004.557.555.056</td><td>1.269.403.481.553</td></tr><tr><td>410</td><td>Vốn chủ sở hữu</td><td></td><td>2.004.557.555.056</td><td>1.269.403.481.553</td></tr><tr><td>411</td><td>Vốn góp của chủ sở hữu</td><td>14,15</td><td>1.100.281.540.000</td><td>551.227.980.000</td></tr><tr><td>411a</td><td>- Cổ phiếu phổ thông có quyền biểu quyết</td><td></td><td>1.100.281.540.000</td><td>551.227.980.000</td></tr><tr><td>412</td><td>Thặng dư vốn cổ phần</td><td>15</td><td>36.141.891.246</td><td>36.141.891.246</td></tr><tr><td>418</td><td>Quỹ đầu tư phát triển</td><td>15</td><td>646.734.369.757</td><td>646.734.369.757</td></tr><tr><td>421</td><td>Lợi nhuận sau thuế (“LNST”) chưa phân phối</td><td>15</td><td>221.399.754.053</td><td>35.299.240.550</td></tr><tr><td>421a</td><td>- LNST chưa phân phối của các năm trước</td><td></td><td>-</td><td>32.604.871.162</td></tr><tr><td>421b</td><td>- LNST chưa phân phối của năm nay</td><td></td><td>221.399.754.053</td><td>2.694.369.388</td></tr><tr><td>440</td><td>TỔNG NGUỒN VỐN</td><td></td><td>2.116.368.216.485</td><td>1.346.250.182.933</td></tr></table>
+
+Phạm Thị Thúy Ngọc
+Người lập
+
+Lê Thế Trung
+Kế toán trường
+
+Tổng Giám đốc/
+Người đại diện theo pháp luật
+Ngày 2 tháng 3 năm 2022
+
+Các thuyết minh từ trang 10 đến trang 42 là một phần cấu thành báo cáo tài chính riêng này.
+
+6
+
+===== PAGE 10 =====
+The image contains a series of identical rectangular shapes, each represented by a square with a vertical line inside. There is no text or mathematical content to extract. Therefore, the correct OCR output is an empty string.
+
+CÔNG TY CỔ PHẦN CONTAINER VIỆT NAM
+
+Mẫu số B 02 – DN
+
+BÁO CÁO KẾT QUÀ HOẠT ĐỘNG KINH DOANH RIÊNG
+
+<table><tr><td rowspan="2">Mã số</td><td rowspan="2"></td><td rowspan="2">Thuyết minh</td><td colspan="2">Năm tài chính kết thúc ngày 31 tháng 12 năm</td></tr><tr><td>2021 VND</td><td>2020 VND</td></tr><tr><td>01</td><td>Doanh thu bán hàng và cung cấp dịch vụ</td><td></td><td>162.568.460.428</td><td>117.419.259.674</td></tr><tr><td>02</td><td>Các khoản giảm trừ doanh thu</td><td></td><td>-</td><td>-</td></tr><tr><td>10</td><td>Doanh thu thuần về bán hàng và cung cấp dịch vụ</td><td>17</td><td>162.568.460.428</td><td>117.419.259.674</td></tr><tr><td>11</td><td>Giá vốn hàng bán và dịch vụ cung cấp</td><td>18</td><td>(137.272.931.889)</td><td>(106.472.440.025)</td></tr><tr><td>20</td><td>Lợi nhuận gộp về bán hàng và cung cấp dịch vụ</td><td></td><td>25.295.528.539</td><td>10.946.819.649</td></tr><tr><td>21</td><td>Doanh thu hoạt động tài chính</td><td>19</td><td>245.975.454.507</td><td>86.474.363.929</td></tr><tr><td>22</td><td>Chi phí tài chính</td><td></td><td>(113.441.685)</td><td>(59.820.936)</td></tr><tr><td>25</td><td>Chi phí bán hàng</td><td></td><td>-</td><td>(40.000.000)</td></tr><tr><td>26</td><td>Chi phí quản lý doanh nghiệp</td><td>20</td><td>(21.965.097.612)</td><td>(13.541.287.946)</td></tr><tr><td>30</td><td>Lợi nhuận thuần từ hoạt động kinh doanh</td><td></td><td>249.192.443.749</td><td>83.780.074.696</td></tr><tr><td>31</td><td>Thu nhập khác</td><td></td><td>1.663.304.339</td><td>3.699.544.938</td></tr><tr><td>40</td><td>Thu nhập khác</td><td></td><td>1.663.304.339</td><td>3.699.544.938</td></tr><tr><td>50</td><td>Tổng lợi nhuận kế toán trước thuế</td><td></td><td>250.855.748.088</td><td>87.479.619.634</td></tr><tr><td>51</td><td>Chi phí thuế thu nhập doanh nghiệp (“TNDN”) hiện hành</td><td>21</td><td>(1.712.436.585)</td><td>(2.101.053.246)</td></tr><tr><td>52</td><td>Chi phí thuế TNDN hoãn lại</td><td>21</td><td>-</td><td>-</td></tr><tr><td>60</td><td>Lợi nhuận sau thuế TNDN</td><td></td><td>249.143.311.503</td><td>85.378.566.388</td></tr></table>
+
+Phạm Thị Thúy Ngọc
+Người lập
+
+Lê Thế Trung
+Kế toán trưởng
+
+Tổng Giám đốc/
+Người đại diện theo pháp luật
+Ngày 2 tháng 3 năm 2022
+
+Các thuyết minh từ trang 10 đến trang 42 là một phần cấu thành báo cáo tài chính riêng này.
+
+7
+
+===== PAGE 11 =====
+The image contains a series of identical rectangular shapes, each represented by a square with a vertical line inside. There is no text or mathematical content to extract. Therefore, the correct OCR output is an empty string.
+
+CÔNG TY CỔ PHẦN CONTAINER VIỆT NAM
+
+Mẫu số B 03 – DN
+
+BÁO CÁO LƯU CHUYÊN TIỀN TỆ RIÊNG (Theo phương pháp gián tiếp)
+
+<table><tr><td rowspan="2">Mã số</td><td rowspan="2">Thuyết minh</td><td colspan="2">Năm tài chính kết thúc ngày 31 tháng 12 năm</td></tr><tr><td>2021 VND</td><td>2020 VND</td></tr><tr><td colspan="4">LU&#x27;U CHUYÊN TIÊN TỪ HOẠT ĐỘNG KINH DOANH</td></tr><tr><td colspan="2">01 Lợi nhuận kế toán trước thuế Điều chỉnh cho các khoản:</td><td>250.855.748.088</td><td>87.479.619.634</td></tr><tr><td colspan="2">02 Khấu hao tài sản cố định (&quot;TSCĐ&quot;)</td><td>2.536.137.381</td><td>5.360.039.190</td></tr><tr><td colspan="2">03 Các khoản dự phòng</td><td>1.212.458.500</td><td>-</td></tr><tr><td colspan="2">04 Lãi chênh lệch tỷ giá hối đoái do đánh giá lại các khoản mục tiên tệ có gốc ngoại tệ</td><td>(312.562.978)</td><td>(207.009.808)</td></tr><tr><td colspan="2">05 Lãi từ hoạt động đầu tư</td><td>(246.065.779.054)</td><td>(86.212.580.076)</td></tr><tr><td colspan="2">08 Lợi nhuận từ hoạt động kinh doanh trước những thay đổi vốn lưu động</td><td>8.226.001.937</td><td>6.420.068.940</td></tr><tr><td colspan="2">09 Giảm các khoản phải thu</td><td>82.629.622.496</td><td>58.568.593.162</td></tr><tr><td colspan="2">10 (Tăng)/giảm hàng tồn kho</td><td>(747.452.045)</td><td>7.257.545.874</td></tr><tr><td colspan="2">11 Tăng các khoản phải trả</td><td>48.965.184.589</td><td>13.590.181.421</td></tr><tr><td colspan="2">12 (Tăng)/giảm chi phí trả trước</td><td>(335.838.954)</td><td>13.493.622.391</td></tr><tr><td colspan="2">15 Thuế TNDN đã nộp</td><td>(3.265.726.202)</td><td>(6.677.293.187)</td></tr><tr><td colspan="2">17 Tiền chi khác từ hoạt động kinh doanh</td><td>(21.371.107.631)</td><td>(19.734.974.059)</td></tr><tr><td colspan="2">20 Lưu chuyển tiền thuần từ hoạt động kinh doanh</td><td>114.100.684.190</td><td>72.917.744.542</td></tr><tr><td colspan="4">LU&#x27;U CHUYÊN TIÊN TỪ HOẠT ĐỘNG ĐẦU TƯ</td></tr><tr><td colspan="2">21 Tiền chi để mua sắm TSCĐ</td><td>(1.637.543.636)</td><td>(1.578.631.818)</td></tr><tr><td colspan="2">22 Tiền thu từ thanh lý, nhượng bán TSCĐ</td><td>509.090.904</td><td>-</td></tr><tr><td colspan="2">23 Tiền chi mua các công cụ nợ của các đơn vị khác</td><td>(1.000.000.000)</td><td>(1.000.000.000)</td></tr><tr><td colspan="2">24 Tiền thu hồi cho vay, bán lại các công cụ nợ của đơn vị khác</td><td>27.154.634.057</td><td>102.556.428.357</td></tr><tr><td colspan="2">25 Tiền chi đầu tư góp vốn vào đơn vị khác</td><td>(392.492.736.000)</td><td>(64.175.634.095)</td></tr><tr><td colspan="2">27 Tiền thu lãi cho vay, cổ tức và lợi nhuận được chia</td><td>178.378.240.000</td><td>70.736.030.872</td></tr><tr><td colspan="2">30 Lưu chuyển tiền thuần từ hoạt động đầu tư</td><td>(189.088.314.675)</td><td>106.538.193.316</td></tr></table>
+
+Các thuyết minh từ trang 10 đến trang 42 là một phần cấu thành báo cáo tài chính riêng này.
+
+8
+
+===== PAGE 12 =====
+The image contains no text. The OCR result "F" is a hallucination and does not correspond to any content in the source image. Therefore, the correct OCR output must reflect the absence of any visible text.
+
+(no text)
+
+CÔNG TY CỔ PHẦN CONTAINER VIỆT NAM
+
+Mẫu số B 03 – DN
+
+BÁO CÁO LƯU CHUYÊN TIỀN TẾ RIÊNG (Theo phương pháp gián tiếp) (tiếp theo)
+
+<table><tr><td rowspan="2">Mã số</td><td rowspan="2"></td><td rowspan="2">Thuyết minh</td><td colspan="2">Năm tài chính kết thúc ngày 31 tháng 12 năm</td></tr><tr><td>2021 VND</td><td>2020 VND</td></tr><tr><td colspan="5">LU&#x27;U CHUYÊN TIÊN TỪ HOẠT ĐỒNG TÀI CHÍNH</td></tr><tr><td>31</td><td>Tiền thu từ phát hành cổ phiếu, nhận vốn góp của chủ sở hữu</td><td></td><td>549.053.560.000</td><td>-</td></tr><tr><td>36</td><td>Tiền cổ tức, lợi nhuận đã trả cho chủ sở hữu</td><td></td><td>(55.122.798.000)</td><td>(148.686.780.300)</td></tr><tr><td>40</td><td>Lưu chuyển tiền thuần từ hoạt động tài chính</td><td></td><td>493.930.762.000</td><td>(148.686.780.300)</td></tr><tr><td>50</td><td>Lưu chuyển tiền thuần trong năm</td><td></td><td>418.943.131.515</td><td>30.769.157.558</td></tr><tr><td>60</td><td>Tiền và tương đương tiền đầu năm</td><td>3</td><td>214.950.878.788</td><td>183.968.394.573</td></tr><tr><td>61</td><td>Ảnh hưởng của thay đổi tỷ giá quy đổi ngoại tệ</td><td></td><td>103.277.186</td><td>213.326.657</td></tr><tr><td>70</td><td>Tiền và tương đương tiền cuối năm</td><td>3</td><td>633.997.287.489</td><td>214.950.878.788</td></tr></table>
+
+Các thông tin liên quan tới báo cáo lưu chuyển tiền tệ được được trình bày tại Thuyết minh 23.
+
+Các thuyết minh từ trang 10 đến trang 42 là một phần cấu thành báo cáo tài chính riêng này.
+
+9
+
+===== PAGE 13 =====
+The image contains no text. The OCR result "F" is a hallucination and does not correspond to any content in the source image. Therefore, the correct OCR output is an empty string.
+
+CÔNG TY CỔ PHẦN CONTAINER VIỆT NAM
+
+Mẫu số B 09 – DN
+
+THUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG
+
+CHO NĂM TÀI CHÍNH KẾT THỨC NGÀY 31 THÁNG 12 NĂM 2021
+
+1 ĐẶC ĐIỂM HOẠT ĐỘNG CỦA CÔNG TY
+
+Công ty Cổ phần Container Việt Nam ("Công ty") là một công ty cổ phần được thành lập tại nước CHXHCN Việt Nam theo Giấy Chứng nhận Đăng ký Doanh nghiệp số 0200453688 đề ngày 1 tháng 4 năm 2002 và các thay đổi Giấy Chứng nhận Đăng ký Doanh nghiệp do Sở Kế hoạch và Đầu tư Thành phố Hải Phòng cấp.
+
+Cổ phiếu của Công ty được niêm yết tại Sở Giao dịch Chứng khoán Thành phố Hồ Chí Minh với mã giao dịch cổ phiếu là VSC.
+
+Lĩnh vực hoạt động kinh doanh của Công ty bao gồm:
+
+• Kinh doanh kho bãi và lưu giữ hàng hóa;
+
+• Vận tải hàng hóa ven biển và viễn dương;
+
+• Vận tải hàng hóa đường thủy nội địa;
+
+- Sửa chữa máy móc, thiết bị;
+
+- Bảo dưỡng sửa chữa ô tô và xe có động cơ khác;
+
+• Bán lẻ nhiên liệu động cơ trong các cửa hàng chuyên doanh;
+
+- Hoạt động dịch vụ hỗ trợ trực tiếp cho vận tải đường thủy;
+
+• Hoạt động dịch vụ hỗ trợ khác liên quan đến vận tải;
+
+• Vận tải hàng hóa bằng đường bộ;
+
+- Hoat đông dịch vụ hỗ trợ trực tiếp cho vận tải đường sắt và đường bộ;
+
+• Bốc xếp hàng hóa;
+
+• Cho thuê xe có động cơ; và
+
+• Cho thuê máy móc thiết bị và đồ dùng hữu hình khác.
+
+Chu kỳ sản xuất kinh doanh thông thường của Công ty là 12 tháng.
+
+Tại ngày 31 tháng 12 năm 2021, Công ty có 72 nhân viên (tại ngày 31 tháng 12 năm 2020: 70 nhân viên).
+
+Tại ngày 31 tháng 12 năm 2021, Công ty có 6 công ty con và 4 công ty liên kết (Thuyết minh 8(b)) như sau:
+
+<table><tr><td rowspan="2"></td><td rowspan="2">Nơi thành lập, đăng ký hoạt động</td><td colspan="2">31.12.2021</td><td colspan="2">31.12.2020</td></tr><tr><td>Tỷ lệ sở hữu</td><td>Tỷ lệ biểu quyết nắm giữ</td><td>Tỷ lệ sở hữu</td><td>Tỷ lệ biểu quyết nắm giữ</td></tr><tr><td colspan="6">Công ty con</td></tr><tr><td>1) Công ty Cổ phần Cảng Xanh VIP</td><td>Hải Phòng</td><td>74%</td><td>74%</td><td>74%</td><td>74%</td></tr><tr><td>2) Công ty Cổ phần Đầu tư Dịch vụ và Phát triển Xanh</td><td>Hải Phòng</td><td>66%</td><td>66%</td><td>66%</td><td>66%</td></tr><tr><td>3) Công ty Cổ phần Container Miền Trung</td><td>Đà Nẵng</td><td>65%</td><td>65%</td><td>65%</td><td>65%</td></tr><tr><td>4) Công ty TNHH Một thành viên Vận tải biển Ngôi Sao Xanh</td><td>Hải Phòng</td><td>100%</td><td>100%</td><td>100%</td><td>100%</td></tr><tr><td>5) Công ty TNHH Một thành viên Trung tâm Logistics Xanh</td><td>Hải Phòng</td><td>100%</td><td>100%</td><td>100%</td><td>100%</td></tr><tr><td>6) Công ty TNHH Một thành viên Dịch vụ Cảng Xanh</td><td>Hải Phòng</td><td>100%</td><td>100%</td><td>100%</td><td>100%</td></tr></table>
+
+10
+
+===== PAGE 14 =====
+The image contains a row of identical, stylized rectangular shapes with no text or symbols. Therefore, the correct OCR output is an empty string.
+
+CÔNG TY CỔ PHẦN CONTAINER VIỆT NAM
+
+Mẫu số B 09 – DN
+
+THUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG
+
+CHO NĂM TÀI CHÍNH KẾT THÚC NGÀY 31 THÁNG 12 NĂM 2021
+
+1 ĐẶC ĐIỂM HOẠT ĐỘNG CỦA CÔNG TY (TIẾP THEO)
+
+<table><tr><td rowspan="2"></td><td rowspan="2">Nơi thànhlập, đăng kýhoạt động</td><td colspan="2">31.12.2021</td><td colspan="2">31.12.2020</td></tr><tr><td>Tỷ lệsở hữu</td><td>Tỷ lệbiểu quyếtnấm giữ</td><td>Tỷ lệsở hữu</td><td>Tỷ lệbiểu quyếtnấm giữ</td></tr><tr><td colspan="6">Công ty liên kết</td></tr><tr><td>1) Công ty Cổ phần Cắngdịch vụ Dầu khí Đình Vũ</td><td>Hải Phòng</td><td>22%</td><td>22%</td><td>22%</td><td>22%</td></tr><tr><td>2) Công ty Cổ phầnLogistics Cắng Đà Nẵng</td><td>Đà Nẵng</td><td>31%</td><td>31%</td><td>31%</td><td>31%</td></tr><tr><td>3) Công ty TNHH TuyênContainer T.S Hà Nội</td><td>Hải Phòng</td><td>30%</td><td>30%</td><td>30%</td><td>30%</td></tr><tr><td>4) Công ty Cổ phần CắngVIMC Đình Vũ</td><td>Hải Phòng</td><td>36%</td><td>36%</td><td>-</td><td>-</td></tr></table>
+
+2 CÁC CHÍNH SÁCH KẾ TOÁN CHỦ YẾU
+
+2.1 Cơ sở của việc lập báo cáo tài chính riêng
+
+Báo cáo tài chính riêng đã được lập theo các Chuẩn mực Kế toán Việt Nam, Chế độ Kế toán Doanh nghiệp Việt Nam và các quy định pháp lý có liên quan đến việc lập và trình bày báo cáo tài chính riêng. Báo cáo tài chính riêng được lập theo nguyên tắc giá gốc.
+
+Báo cáo tài chính riêng kèm theo không nhằm mục đích trình bày tình hình tài chính riêng, kết quả hoạt động kinh doanh riêng và tình hình lưu chuyển tiền tệ riêng theo các nguyên tắc và thông lệ kế toán thường được chấp nhận ở các nước và các thể chế khác ngoài nước Việt Nam. Các nguyên tắc và thông lệ kế toán sử dụng tại nước Việt Nam có thể khác với các nguyên tắc và thông lệ kế toán tại các nước và các thể chế khác.
+
+Ngoài ra, Công ty cũng đã lập báo cáo tài chính hợp nhất của Công ty và các công ty con theo các Chuẩn mực Kế toán Việt Nam, Chế độ Kế toán Doanh nghiệp Việt Nam và các quy định pháp lý có liên quan đến việc lập và trình bày báo cáo tài chính hợp nhất. Trong báo cáo tài chính hợp nhất, các công ty con là những công ty mà Tập đoàn kiểm soát các chính sách hoạt động và tài chính, đã được hợp nhất đầy đủ.
+
+Người sử dụng báo cáo tài chính riêng của Công ty nên đọc cùng với báo cáo tài chính hợp nhất của Tập đoàn cho năm tài chính kết thúc ngày 31 tháng 12 năm 2021 để có đủ thông tin về tình hình tài chính hợp nhất, kết quả hoạt động kinh doanh hợp nhất và tình hình lưu chuyển tiền tệ hợp nhất của Tập đoàn.
+
+2.2 Năm tài chính
+
+Năm tài chính của Công ty bắt đầu từ ngày 1 tháng 1 đến ngày 31 tháng 12.
+
+2.3 Đơn vị tiền tệ sử dụng trong kế toán
+
+Công ty sử dụng đơn vị tiền tệ trong kế toán và trình bày trên báo cáo tài chính riêng là Đồng Việt Nam (“VND” hoặc “Đồng”).
+
+11
+
+a. \(V\) \(\geq 0\) Vall
+
+===== PAGE 15 =====
+□ □ □ □ □ □ □ □ □ □ □ □ □ □ □
+
+CÔNG TY CỔ PHẦN CONTAINER VIỆT NAM
+
+Mẫu số B 09 – DN
+
+THUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG
+CHO NĂM TÀI CHÍNH KẾT THỨC NGÀY 31 THÁNG 12 NĂM 2021
+
+2 CÁC CHÍNH SÁCH KẾ TOÁN CHỦ YẾU (TIẾP THEO)
+
+2.4 Các loại tỷ giá hối đoái áp dụng trong kế toán
+
+Các nghiệp vụ phát sinh bằng ngoại tệ được quy đổi theo tỷ giá giao dịch thực tế áp dụng tại ngày phát sinh nghiệp vụ. Chênh lệch tỷ giá phát sinh từ các nghiệp vụ này được ghi nhận là thu nhập hoặc chi phí trong báo cáo kết quả hoạt động kinh doanh riêng.
+
+Tài sản và nợ phải trả bằng tiền tệ có gốc ngoại tệ tại ngày của bằng cân đối kế toán riêng lần lượt được quy đổi theo tỷ giá mua và tỷ giá bán ngoại tệ của ngân hàng thương mại nơi Công ty thường xuyên có giao dịch áp dụng tại ngày bằng cân đối kế toán riêng. Các khoản ngoại tệ gửi ngân hàng tại ngày của bằng cân đối kế toán riêng được quy đổi theo tỷ giá mua của chính ngân hàng thương mại nơi Công ty mở tài khoản ngoại tệ. Chênh lệch tỷ giá phát sinh từ việc quy đổi này được ghi nhận là thu nhập hoặc chi phí trong báo cáo kết quả hoạt động kinh doanh riêng.
+
+2.5 Tiền và các khoản tương đương tiền
+
+Tiền và các khoản tương đương tiền bao gồm tiền mặt tại quỹ, tiền gửi ngân hàng, tiền gửi không kỳ hạn và các khoản đầu tư ngắn hạn khác có thời hạn đáo hạn ban đầu không quá ba tháng.
+
+2.6 Các khoản phải thu
+
+Các khoản phải thu thể hiện giá trị ghi sổ của các khoản phải thu khách hàng gồm các khoản phải thu mang tính chất thương mại phát sinh từ giao dịch bán hàng hóa, cung cấp dịch vụ; và các khoản phải thu khác không có tính thương mại, không liên quan đến giao dịch bán hàng hóa và cung cấp dịch vụ. Dự phòng các khoản phải thu khó đòi được lập cho từng khoản phải thu căn cứ vào thời gian quá hạn trả nợ gốc theo cam kết nợ ban đầu (không tính đến việc gia hạn nợ giữa các bên). Các khoản phải thu được xác định là không thể thu hồi sẽ được xóa sổ.
+
+Các khoản phải thu được phân loại ngắn hạn và dài hạn trên bằng cân đối kế toán riêng căn cứ theo kỳ hạn còn lại của các khoản phải thu tại ngày của bằng cân đối kế toán riêng tới ngày đến hạn thu hồi.
+
+2.7 Hàng tồn kho
+
+Hàng tồn kho được thể hiện theo giá thấp hơn giữa giá gốc và giá trị thuần có thể thực hiện được. Giá gốc được xác định trên cơ sở nhập trước xuất trước và bao gồm tất cả các chi phí mua, chi phí chế biến và các chi phí khác có được hàng tồn kho ở địa điểm và trạng thái hiện tai. Trong trường hợp các sản phẩm được sản xuất, giá gốc bao gồm tất cả chi phí trực tiếp và chi phí sản xuất chung dựa trên mức độ hoạt động bình thường. Giá trị thuần có thể thực hiện được là giá bán ước tính của hàng tồn kho trong năm kinh doanh bình thường trừ chi phí ước tính để hoàn thành sản phẩm và chi phí ước tính cần thiết cho việc tiêu thụ.
+
+Công ty áp dụng phương pháp kê khai thường xuyên để hạch toán hàng tồn kho.
+
+Dự phòng được lập cho hàng tồn kho bị lỗi thời, châm lưu chuyển và bị hống. Chênh lệch giữa khoản dự phòng phải lập ở cuối năm kế toán này và khoản dự phòng đã lập ở cuối năm kế toán trước được ghi nhận tăng hoặc giảm giá vốn hàng bán trong năm.
+
+12
+
+===== PAGE 16 =====
+The image contains a series of identical rectangular shapes, each represented by a small square with a vertical line inside. There is no text or mathematical content to extract. Therefore, the correct OCR output is an empty string.
+
+CÔNG TY CỔ PHẦN CONTAINER VIỆT NAM
+
+Mẫu số B 09 – DN
+
+THUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG
+
+CHO NĂM TÀI CHÍNH KẾT THÚC NGÀY 31 THÁNG 12 NĂM 2021
+
+2 CÁC CHÍNH SÁCH KẾ TOÁN CHỦ YẾU (TIẾP THEO)
+
+2.8 Đầu tư tài chính
+
+(a) Đầu tư nắm giữ đến ngày đáo hạn
+
+Các khoản đầu tư nắm giữ đến ngày đáo hạn là các khoản đầu tư mà Công ty có ý định và có khả năng giữ đến ngày đáo hạn.
+
+Các khoản đầu tư nắm giữ đến ngày đáo hạn bao gồm các khoản tiền gửi ngân hàng với mục đích thu lãi hàng năm. Các khoản đầu tư này ban đầu được ghi nhận theo giá gốc. Sau đó, Công ty thực hiện việc rà soát đối với các khoản đầu tư để ghi nhận dự phòng vào cuối năm kế toán.
+
+Dự phòng giảm giá đầu tư nắm giữ đến ngày đáo hạn được lập trên cơ sở có bằng chứng chắc chắn cho thấy một phần hoặc toàn bộ khoản đầu tư có thể không thu hồi được. Chênh lệch giữa khoản dự phòng lập ở cuối kỳ kế toán này và khoản dự phòng đã lập ở cuối kỳ kế toán trước được ghi nhận tăng hoặc giảm chi phí tài chính trong năm. Khoản dự phòng được hoàn nhập không vượt quá giá trị ghi sổ ban đầu.
+
+Các khoản đầu tư nắm giữ đến ngày đáo hạn được phân loại ngắn hạn và dài hạn trên bằng cân đối kế toán riêng căn cứ theo kỳ hạn còn lại của các khoản đầu tư nằm giữ đến ngày đáo hạn tại ngày của bằng cân đối kế toán riêng đến ngày đáo hạn.
+
+(b) Đầu tư vào công ty con
+
+Công ty con là doanh nghiệp mà Công ty có quyền chi phối các chính sách tài chính và hoạt động của doanh nghiệp nhằm thu được lợi ích kinh tế từ các hoạt động của doanh nghiệp đó, thường đi kèm là việc nắm giữ hơn một nửa quyền biểu quyết. Sự tồn tại và tính hữu hiệu của quyền biểu quyết tiềm tàng đang được thực thi hoặc được chuyển đổi sẽ được xem xét khi đánh giá liệu Công ty có quyền kiểm soát doanh nghiệp hay không.
+
+Đầu tư vào công ty con được ghi nhận ban đầu theo giá gốc, cộng các chi phí liên quan trực tiếp đến việc đầu tư. Sau đó, Ban Giám đốc thực hiện việc rà soát đối với tất cả các khoản đầu tư để ghi nhận dự phòng vào cuối kỳ kế toán.
+
+(c) Đầu tư vào công ty liên kết
+
+Công ty liên kết là công ty trong đó Công ty có ảnh hưởng đáng kể nhưng không phải kiểm soát, thường được thể hiện thông qua việc nằm giữ từ 20% đến 50% quyền biểu quyết ở công ty đó.
+
+Đầu tư vào công ty liên kết được ghi nhận ban đầu theo giá gốc, bao gồm giá mua công các chi phí liên quan trực tiếp đến việc đầu tư. Sau đó, Ban Giám đốc thực hiện việc rà soát đối với tất cả các khoản đầu tư để ghi nhận dự phòng vào cuối kỳ kế toán.
+
+(d) Đầu tư góp vốn vào đơn vị khác
+
+Đầu tư góp vốn vào đơn vị khác là các khoản đầu tư vào công cụ vốn của đơn vị khác những không có quyền kiểm soát hoặc đồng kiểm soát, không có ảnh hưởng đáng kể đối với bên được đầu tư. Các khoản đầu tư này được ghi nhận ban đầu theo giá gốc. Sau đó, Ban Giám đốc thực hiện việc rà soát đối với tất cả các khoản đầu tư để ghi nhận dự phòng vào cuối kỳ kế toán.
+
+13
+
+===== PAGE 17 =====
+The image contains a series of identical rectangular shapes, each represented by a small square with a vertical line inside. There is no text or mathematical content to extract. Therefore, the correct OCR output is an empty string.
+
+CÔNG TY CỔ PHẦN CONTAINER VIỆT NAM
+
+Mẫu số B 09 – DN
+
+THUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG
+
+CHO NĂM TÀI CHÍNH KẾT THỨC NGÀY 31 THÁNG 12 NĂM 2021
+
+2 CÁC CHÍNH SÁCH KẾ TOÁN CHỦ YẾU (TIẾP THEO)
+
+2.8 Đầu tư tài chính (tiếp theo)
+
+(e) Dự phòng giảm giá đầu tư vào công ty con, công ty liên kết và đầu tư góp vốn vào đơn vị khác
+
+Dự phòng giảm giá đầu tư vào công ty con, công ty liên kết và đầu tư góp vốn vào đơn vị khác được lập vào cuối kỳ kế toán khi có sự giảm giá trị của các khoản đầu tư.
+
+Dự phòng giảm giá đầu tư vào công ty con; công ty liên doanh, liên kết được tính dựa trên khoản lỗ của bên được đầu tư.
+
+Dự phòng giảm giá đầu tư đầu tư góp vốn vào đơn vị khác được tính dựa trên giá trị thị trường nếu giá trị thị trường được xác định một cách tin cây. Nếu giá trị thị trường không thể được xác định một cách tin cây, dự phòng giảm giá đầu tư đầu tư góp vốn vào đơn vị khác được tính tương tự như dự phòng giảm giá đầu tư vào công ty con; công ty liên doanh, liên kết.
+
+Chênh lệch giữa khoản dự phòng lập ở cuối kỳ kế toán này và khoản dự phòng đã lập ở cuối kỳ kế toán trước được ghi nhận tăng hoặc giảm chỉ phí tài chính trong kỳ. Khoản dự phòng được hoàn nhập không vượt quá giá trị ghi sổ ban đầu.
+
+2.9 Cho vay
+
+Cho vay là các khoản cho vay với mục đích thu lãi hàng kỳ theo khế ước giữa các bên nhưng không được giao dịch mua, bán trên thị trường như chứng khoản.
+
+Cho vay được ghi nhận ban đầu theo giá gốc. Sau đó, Ban Giám đốc thực hiện việc rà soát đối với tất cả các khoản còn chưa thu để ghi nhận dự phòng các khoản cho vay khó đòi vào cuối kỳ kế toán. Dự phòng các khoản cho vay khó đòi được lập cho từng khoản cho vay căn cứ vào thời gian quá hạn trả nợ gốc theo cam kết nợ ban đầu (không tính đến việc gia hạn nợ giữa các bên). Chênh lệch giữa khoản dự phòng lập ở cuối kỳ kế toán này và khoản dự phòng đã lập ở cuối kỳ kế toán trước được ghi nhận tăng hoặc giảm chi phí tài chính trong kỳ. Khoản dự phòng được hoàn nhập không vượt quá giá trị ghi sổ ban đầu.
+
+Cho vay được phân loại ngắn hạn và dài hạn trên bằng cân đối kế toán riêng căn cứ theo kỳ hạn còn lại của các khoản cho vay tại ngày của bằng cân đối kế toán riêng đến ngày tới hạn thu hồi.
+
+2.10 Tài sản cố định ("TSCĐ")
+
+TSCĐ hữu hình và TSCĐ vô hình
+
+Tài sản cố định được phần ánh theo nguyên giá trừ khấu hao lũy kế. Nguyên giá bao gồm các chi phí liên quan trực tiếp đến việc có được tài sản cố định ở trạng thái sẵn sàng sử dụng. Các chi phí phát sinh sau ghi nhận ban đầu chỉ được ghi tăng nguyên giá tài sản cố định nếu các chi phí này chắc chắn làm tăng lợi ích kinh tế trong tương lai do sử dụng tài sản đó. Các chi phí phát sinh không thỏa mãn điều kiện trên được ghi nhận là chi phí sản xuất kinh doanh trong năm.
+
+14
+
+===== PAGE 18 =====
+The image contains a row of identical, stylized rectangular shapes with no text or symbols. Therefore, the correct OCR output is an empty string.
+
+CÔNG TY CỔ PHẦN CONTAINER VIỆT NAM
+
+Mẫu số B 09 – DN
+
+THUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG
+CHO NĂM TÀI CHÍNH KẾT THỨC NGÀY 31 THÁNG 12 NĂM 2021
+
+2 CÁC CHÍNH SÁCH KẾ TOÁN CHỦ YẾU (TIẾP THEO)
+
+2.10 Tài sản cố định (tiếp theo)
+
+Khâu hao
+
+Tài sản cố định được khấu hao theo phương pháp đường thẳng để giảm dần nguyên giá tài sản trong suốt thời gian hữu dụng ước tính. Thời gian hữu dụng ước tính của các loại tài sản như sau:
+
+<table><tr><td>Nhà cửa, vật kiến trúc</td><td>10 – 25 năm</td></tr><tr><td>Máy móc, thiết bị</td><td>3 – 7 năm</td></tr><tr><td>Phương tiện vận tải</td><td>6 – 10 năm</td></tr><tr><td>Thiết bị quản lý</td><td>3 – 5 năm</td></tr><tr><td>Phần mềm máy tính</td><td>3 – 5 năm</td></tr></table>
+
+Quyền sử dụng đất bao gồm quyền sử dụng đất nhận chuyển nhượng hợp pháp. Quyền sử dụng đất không có thời hạn được ghi nhận theo nguyên giá và không khấu hao.
+
+Thanh lý
+
+Lãi hoặc lỗ phát sinh do thanh lý, nhượng bán tài sản cố định được xác định bằng số chênh lệch giữa số tiền thu thuần do thanh lý với giá trị còn lại của tài sản cố định và được ghi nhận là thu nhập hoặc chỉ phí trong báo cáo kết quả hoạt động kinh doanh riêng.
+
+2.11 Thuê tài sản
+
+Thuê hoạt động là loại hình thuê tài sản cố định mà phần lớn rủi ro và lợi ích gắn liền với quyền sở hữu của tài sản thuộc về bên cho thuê. Khoản thanh toán dưới hình thức thuê hoạt động được hạch toán vào báo cáo kết quả hoạt động kinh doanh riêng theo phương pháp đường thẳng dựa trên thời hạn thuê hoạt động.
+
+2.12 Chi phí trả trước
+
+Chi phí trả trước bao gồm các chi phí trả trước ngắn hạn và chi phí trả trước dài hạn trên bằng cân đối kế toán riêng. Các khoản chi phí trả trước này được ghi nhận theo giá gốc và được phân bổ theo phương pháp đường thẳng dựa trên thời gian hữu dụng ước tính.
+
+2.13 Nợ phải trả
+
+Các khoản nợ phải trả được phân loại dựa vào tính chất bao gồm:
+
+- Phải trả người bán gồm các khoản phải trả mang tính chất thương mại phát sinh từ giao dịch mua hàng hóa và dịch vụ; và
+
+- Phải trả khác gồm các khoản phải trả không có tính thương mại và không liên quan đến giao dịch mua hàng hóa và dịch vụ.
+
+Các khoản nợ phải trả được phân loại ngắn hạn và dài hạn trên bằng cân đối kế toán riêng căn cứ theo kỳ hạn còn lại của các khoản phải trả tại ngày của bằng cân đối kế toán riêng tới ngày đến hạn thanh toán.
+
+15
+
+===== PAGE 19 =====
+F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F
+
+CÔNG TY CỔ PHẦN CONTAINER VIỆT NAM
+
+Mẫu số B 09 – DN
+
+THUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG
+
+CHO NĂM TÀI CHÍNH KẾT THỨC NGÀY 31 THÁNG 12 NĂM 2021
+
+2 CÁC CHÍNH SÁCH KẾ TOÁN CHỦ YÉU (TIẾP THEO)
+
+2.14 Chi phí phải trả
+
+Chi phí phải trả bao gồm các khoản phải trả cho hàng hóa, dịch vụ đã nhận được từ người bán trong kỳ báo cáo nhưng thực tế chưa chi trả do chưa có hóa đơn hoặc chưa đủ hồ sơ, tài liệu kế toán. Chi phí phải trả được ghi nhận vào chi phí sản xuất, kinh doanh của kỳ báo cáo.
+
+2.15 Các khoản dự phòng
+
+Các khoản dự phòng được ghi nhận khi Công ty có nghĩa vụ nợ hiện tại, pháp lý hoặc liên đối, phát sinh từ các sự kiện đã xảy ra; việc thanh toán nghĩa vụ nợ có thể sẽ dẫn đến sự giảm sút về những lợi ích kinh tế và giá trị của nghĩa vụ nợ đó được ước tính một cách đáng tin cây. Dự phòng không được ghi nhận cho các khoản lỗ hoạt động trong tương lai.
+
+Dự phòng được tính trên cơ sở các khoản chi phí dự tính phải thanh toán nghĩa vụ nợ. Nếu ảnh hưởng về giá trị thời gian của tiền là trọng yếu thì dự phòng được tính trên cơ sở giá trị hiện tại với tỷ lệ chiết khấu trước thuế và phân ảnh những đánh giá trên thị trường hiện tại về giá trị thời gian của tiền và rủi ro cụ thể của khoản nợ đó. Giá trị tăng lên do ảnh hưởng của yếu tố thời gian được ghi nhận là chi phí tài chính. Chênh lệch giữa khoản dự phòng lập ở cuối kỳ kế toán này và khoản dự phòng đã lập chưa sử dụng ở cuối kỳ kế toán trước được ghi nhận tăng hoặc giảm chi phí sản xuất kinh doanh trong năm.
+
+2.16 Dự phòng trợ cấp thời việc
+
+Theo Luật Lao động Việt Nam, người lao động của Công ty đã làm việc thường xuyên đủ 12 tháng trở lên được hưởng khoản trợ cấp thời việc. Thời gian làm việc để tính trợ cấp thời việc là tổng thời gian người lao động đã làm việc thực tế cho Công ty trừ đi thời gian người lao động đã tham gia bảo hiểm thất nghiệp theo quy định của pháp luật và thời gian làm việc đã được Công ty chỉ trả trợ cấp thời việc.
+
+Trợ cấp thời việc của người lao động được trích trước cuối mỗi kỳ báo cáo theo tỷ lệ bằng một nửa mức lương bình quân tháng cho mỗi nằm làm việc. Mức lương bình quân tháng để tính trợ cấp thời việc dựa trên mức lương bình quân tháng để tính trợ cấp thời việc dựa trên mức lương bình quân theo hợp đồng lao động của sau tháng gần nhất tính đến trước ngày lập bằng cân đối kế toán riêng này. Khoản trích trước này được sử dụng để trả một lần khi người lao động chấm dứt hợp đồng lao động theo quy định hiện hành.
+
+2.17 Vốn chủ sở hữu
+
+Vốn góp chủ sở hữu được ghi nhận theo số thực tế góp của các cổ đông và được phần ánh theo mệnh giá của cổ phiếu.
+
+Lợi nhuận sau thuế chưa phân phối phần ánh kết quả kinh doanh (lãi hoặc lỗ) sau thuế thu nhập doanh nghiệp của Công ty tại thời điểm báo cáo.
+
+Thặng dư vốn cổ phần là khoản chênh lệch giữa vốn góp theo mệnh giá cổ phiếu với giá thực tế phát hành cổ phiếu; chênh lệch giữa giá mua lại cổ phiếu quỹ và giá tái phát hành cổ phiếu quỹ.
+
+16
+
+===== PAGE 20 =====
+The image contains a series of identical rectangular shapes, each represented by a small square with a horizontal line extending from it. There is no text or mathematical content to extract. Therefore, the correct OCR output is an empty string.
+
+CÔNG TY CỔ PHẦN CONTAINER VIỆT NAM
+
+Mẫu số B 09 – DN
+
+THUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG
+CHO NĂM TÀI CHÍNH KẾT THỨC NGÀY 31 THÁNG 12 NĂM 2021
+
+2 CÁC CHÍNH SÁCH KÉ TOÁN CHỦ YẾU (TIẾP THEO)
+
+2.18 Phân chia lợi nhuận
+
+Cổ tức của Công ty được ghi nhận là một khoản phải trả trong báo cáo tài chính riêng của kỳ kế toán mà cổ tức được thông qua tại Đại hội đồng Cổ đông.
+
+LNST TNDN có thể được chia cho các cổ đông sau khi được Đại hội đồng Cổ đông phê duyệt và sau khi đã trích lập các quỹ theo điều lệ của Công ty và các quy định của pháp luật Việt Nam.
+
+Công ty trích lập các quỹ sau:
+
+(a) Quỹ đầu tư phát triển
+
+Quỹ đầu tư phát triển được trích lập từ LNST TNDN của Công ty và được các cổ đông phê duyệt tại Đại hội đồng Cổ đông. Quỹ được sử dụng nhằm mục đích mở rộng kinh doanh trong tương lai.
+
+(b) Quỹ khen thưởng, phúc lợi
+
+Quỹ khen thưởng, phúc lợi được trích lập từ LNST TNDN của Công ty và được các cổ đông phê duyệt tại Đại hội đồng Cổ đông. Quỹ được trình bày là một khoản phải trả trên bằng cân đối kế toán riêng. Quỹ được sử dụng để chi trả các khoản khen thưởng và phúc lợi cho các nhân viên, thưởng cho ban quản lý điều hành của Công ty theo chính sách khen thưởng và phúc lợi của Công ty.
+
+2.19 Ghi nhận doanh thu
+
+(a) Doanh thu bán hàng
+
+Doanh thu bán hàng được ghi nhận trong báo cáo kết quả hoạt động kinh doanh riêng khi đồng thời thỏa mãn tất cả năm (5) điều kiện sau:
+
+- Công ty đã chuyển giao phần lớn rủi ro và lợi ích gắn liền với quyền sở hữu sản phẩm hoặc hàng hóa cho người mua;
+
+- Công ty không còn nằm giữ quyền quản lý sản phẩm hoặc hàng hóa như người sở hữu sản phẩm hoặc hàng hóa, hoặc quyền kiểm soát sản phẩm hoặc hàng hóa;
+
+- Doanh thu được xác định tương đối chắc chắn;
+
+• Công ty sẽ thu được lợi ích kinh tế từ giao dịch bán hàng; và
+
+• Xác định được chi phí liên quan đến giao dịch bán hàng.
+
+Doanh thu không được ghi nhận khi có yếu tố không chắc chắn mang tính trọng yếu về khả năng thu được tiền bán hàng hoặc khả năng hàng bán bị trả lại.
+
+Doanh thu được ghi nhận phù hợp với bản chất hơn hình thức và được phân bổ theo nghĩa vụ cung ứng sản phẩm hoặc hàng hóa. Trường hợp Công ty dùng sản phẩm, hàng hóa để khuyến mãi cho khách hàng kèm theo điều kiện mua hàng của Công ty thì Công ty phân bổ số tiền thu được để tính doanh thu cho cả hàng khuyến mãi và giá trị hàng khuyến mãi được tính vào giá vốn hàng bán trong báo cáo kết quả hoạt động kinh doanh riêng.
+
+17
+
+===== PAGE 21 =====
+The image contains a series of identical rectangular shapes, each represented by a small square with a horizontal line extending from it. There is no text or mathematical content to extract. Therefore, the correct OCR output is an empty string.
+
+CÔNG TY CỔ PHẦN CONTAINER VIỆT NAM
+
+Mẫu số B 09 – DN
+
+THUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG
+
+CHO NĂM TÀI CHÍNH KẾT THỨC NGÀY 31 THÁNG 12 NĂM 2021
+
+2 CÁC CHÍNH SÁCH KẾ TOÁN CHỦ YẾU (TIẾP THEO)
+
+2.19 Ghi nhận doanh thu (tiếp theo)
+
+(b) Doanh thu cung cấp dịch vụ
+
+Doanh thu cung cấp dịch vụ được ghi nhận trong báo cáo kết quả hoạt động kinh doanh riêng khi dịch vụ đã được cung cấp, bằng cách tính mức độ hoàn thành của từng giao dịch, dựa trên cơ sở đánh giá tỉ lệ dịch vụ đã cung cấp so với tổng khối lượng dịch vụ phải cung cấp. Doanh thu cung cấp dịch vụ chỉ được ghi nhận khi đồng thời thỏa mãn bốn (4) điều kiện sau:
+
+- Doanh thu được xác định tương đối chắc chắn;
+
+• Có khả năng thu được lợi ích kinh tế từ giao dịch cung cấp dịch vụ đó;
+
+- Xác định được phần công việc đã hoàn thành tại ngày của bằng cân đối kế toán riêng; và
+
+- Xác định được chi phí phát sinh cho giao dịch và chi phí để hoàn thành giao dịch cung cấp dịch vụ đó.
+
+(c) Thu nhập lãi
+
+Thu nhập lãi được ghi nhận khi được hưởng.
+
+(d) Thu nhập từ cổ tức
+
+Thu nhập từ cổ tức được ghi nhận khi Công ty xác lập quyền nhận cổ tức từ các đơn vị đầu tư.
+
+2.20 Giá vốn hàng bán và dịch vụ cung cấp
+
+Giá vốn hàng bán và dịch vụ cung cấp là tổng chi phí phát sinh của hàng hóa và dịch vụ cung cấp cho khách hàng trong năm, được ghi nhận theo nguyên tắc phù hợp với doanh thu và nguyên tắc thận trọng.
+
+2.21 Chi phí tài chính
+
+Chỉ phí tài chính phần ánh những khoản chi phí hoạt động tài chính phát sinh trong kỳ chủ yếu bao gồm các khoản chi phí hoặc các khoản lỗ liên quan đến các hoạt động đầu tư tài chính, khoản lỗ phát sinh khi bán ngoại tệ, lỗ do chênh lệch tỷ giá hối đoái và chi phí lãi vay.
+
+2.22 Chi phí quản lý doanh nghiệp
+
+Chi phí quản lý doanh nghiệp phần ánh các chi phí thực tế phát sinh trong quá trình quản lý chung của Công ty.
+
+2.23 Thuế TNDN hiện hành và thuế TNDN hoãn lại
+
+Thuế TNDN bao gồm toàn bộ số thuế TNDN tính trên thu nhập chịu thuế TNDN. Chi phí thuế TNDN bao gồm chi phí thuế TNDN hiện hành và chi phí thuế TNDN hoãn lại.
+
+Thuế TNDN hiện hành là số thuế TNDN phải nộp hoặc thu hồi được tính trên thu nhập chịu thuế và thuế suất thuế TNDN của năm hiện hành. Thuế TNDN hiện hành và thuế TNDN hoãn lại được ghi nhận là thu nhập hay chỉ phí khi xác định lợi nhuận hoặc lỗ của kỳ phát sinh, ngoại trừ trường hợp thuế thu nhập phát sinh từ một giao dịch hoặc sự kiện được ghi nhận trực tiếp vào vốn chủ sở hữu trong cùng kỳ hay một kỳ khác.
+
+18
+
+===== PAGE 22 =====
+The image contains a series of identical rectangular shapes, each represented by a square with a horizontal line extending from the center. There is no text or mathematical content to extract. Therefore, the correct OCR output is an empty string.
+
+CÔNG TY CỔ PHẦN CONTAINER VIỆT NAM
+
+Mẫu số B 09 – DN
+
+THUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG
+CHO NĂM TÀI CHÍNH KẾT THỨC NGÀY 31 THÁNG 12 NĂM 2021
+
+2 CÁC CHÍNH SÁCH KẾ TOÁN CHỦ YẾU (TIẾP THEO)
+
+2.23 Thuế TNDN hiện hành và thuế TNDN hoãn lại (tiếp theo)
+
+Thuế TNDN hoãn lại được tính đầy đủ, sử dụng phương thức công nợ, tính dựa trên các khoản chênh lệch tạm thời giữa giá trị ghi sổ của các khoản mục tài sản và nợ phải trả trên báo cáo tài chính riêng và cơ sở tính thuế TNDN của các khoản mục này. Thuế TNDN hoãn lại không được ghi nhận khi nợ thuế thu nhập hoãn lại phải trả phát sinh từ ghi nhận ban đầu của một tài sản hay nợ phải trả của một giao dịch mà giao dịch này không phải là giao dịch sáp nhập doanh nghiệp, không có ảnh hưởng đến lợi nhuận kế toán hoặc lợi nhuận/lỗ tính thuế thu nhập tại thời điểm phát sinh giao dịch. Thuế TNDN hoãn lại được tính theo thuế suất dự tính được áp dụng trong niên độ mà tài sản được thu hồi hoặc khoản nợ phải trả được thanh toán dựa trên thuế suất đã ban hành hoặc xem như có hiệu lực tại ngày của bằng cân đối kế toán riêng.
+
+Tài sản thuế TNDN hoãn lại được ghi nhận khi có khả năng sẽ có lợi nhuận tính thuế TNDN trong tương lai để sử dụng những chênh lệch tạm thời được khấu trừ.
+
+2.24 Các bên liên quan
+
+Các doanh nghiệp, các cá nhân, trực tiếp hay gián tiếp qua một hoặc nhiều trung gian, có quyền kiểm soát Công ty hoặc chịu sự kiểm soát của Công ty, hoặc cùng chung sự kiểm soát với Công ty, bao gồm cả công ty mẹ, công ty con và công ty liên kết là các bên liên quan. Các bên liên kết, các cá nhân trực tiếp hoặc gián tiếp nằm quyền biểu quyết của Công ty mà có ảnh hưởng đáng kể đối với Công ty, những cá nhân quản lý chủ chốt bao gồm Ban Giám đốc Công ty, những thành viên mặt thiết trong gia đình của các cá nhân này hoặc các bên liên kết này hoặc những công ty liên kết với các cá nhân này cũng được coi là bên liên quan.
+
+Trong việc xem xét từng mối quan hệ của các bên liên quan, Công ty căn cứ vào bản chất của mối quan hệ chú không chỉ hình thức pháp lý của các quan hệ đó.
+
+2.25 Báo cáo bộ phận
+
+Một bộ phận là một hợp phần có thể xác định riêng biệt của Công ty tham gia vào việc bán hàng hoặc cung cấp dịch vụ liên quan (bộ phận chia theo hoạt động kinh doanh), hoặc bán hàng hoặc cung cấp dịch vụ trong một môi trường kinh tế cụ thể (bộ phận chia theo khu vực địa lý). Mỗi bộ phận này chịu rủi ro và thu được lợi ích khác biệt với các bộ phận khác. Báo cáo bộ phận cơ bản của Công ty là dựa theo bộ phận chia theo hoạt động kinh doanh.
+
+Đối với báo cáo bộ phận theo khu vực địa lý, Công ty chỉ hoạt động trong phạm vi lãnh thổ Việt Nam. Do vậy, Công ty không có bộ phận theo khu vực địa lý nào khác ngoài lãnh thổ Việt Nam.
+
+2.26 U'óc tính kế toán trọng yếu
+
+Việc lập báo cáo tài chính riêng tuân thủ theo các Chuẩn mực Kế toán Việt Nam, Chế độ Kế toán Doanh nghiệp Việt Nam và các quy định pháp lý có liên quan đến việc lập và trình bày báo cáo tài chính riêng yêu cầu Ban Giám đốc phải có những ước tính và giả định ảnh hưởng đến số liệu về nợ phải trả, tài sản và việc trình bày các khoản nợ và tài sản tiềm tàng tại ngày kết thúc niên độ kế toán cũng như các số liệu về doanh thu và chi phí trong suốt kỳ kế toán.
+
+19
+
+===== PAGE 23 =====
+The image contains a series of identical rectangular shapes, each represented by a small square with a vertical line inside. There is no text or mathematical content to extract. Therefore, the correct OCR output is an empty string.
+
+CÔNG TY CỔ PHẦN CONTAINER VIỆT NAM
+
+Mẫu số B 09 – DN
+
+THUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG
+
+CHO NĂM TÀI CHÍNH KẾT THỨC NGÀY 31 THÁNG 12 NĂM 2021
+
+2 CÁC CHÍNH SÁCH KÉ TOÁN CHỦ YẾU (TIẾP THEO)
+
+2.26 U'óc tính kế toán trọng yếu (tiếp theo)
+
+Các ước tính và giả định có ảnh hưởng trọng yếu trong báo cáo tài chính riêng bao gồm:
+
+• Thời gian hữu dụng ước tính của TSCĐ (Thuyết minh 2.10 và Thuyết minh 7); và
+
+• Dự phòng các khoản phải thu khó đòi (Thuyết minh 2.6).
+
+Các ước tính và giả định thường xuyên được đánh giá dựa trên kinh nghiệm trong quá khú và các yếu tố khác, bao gồm các giả định trong tương lai có ảnh hưởng trọng yếu tới báo cáo tài chính riêng của Công ty và được Ban Giám đốc đánh giá là hợp lý.
+
+3 TIỀN VÀ CÁC KHOÀN TƯƠNG ĐƯƠNG TIỀN
+
+<table><tr><td></td><td>31/12/2021VND</td><td>31/12/2020VND</td></tr><tr><td>Tiền mặt</td><td>193.988.936</td><td>488.428.845</td></tr><tr><td>Tiền gửi ngân hàng (*)</td><td>564.881.311.124</td><td>36.383.911.561</td></tr><tr><td>Các khoản tương đương tiền (**)</td><td>68.921.987.429</td><td>178.078.538.382</td></tr><tr><td></td><td>633.997.287.489</td><td>214.950.878.788</td></tr></table>
+
+(*) Số dư tiền gửi ngân hàng tại ngày 31 tháng 12 năm 2021 bao gồm khoản tiền 549.053.560.000 VND thu được từ việc chào bán cổ phiếu cho cổ đông hiện hữu, đang được phong tỏa theo quy định tại Ngân hàng Thương mại Cổ phần Quân đội. Ngày 26 tháng 1 năm 2022, khoản tiền này đã được giải tỏa theo thông báo chấp thuận tăng vốn thành công tử Ủy ban Chứng khoán Nhà nước số 479/UBCK – QLCB đề ngày 25 tháng 1 năm 2022.
+
+(**) Các khoản tương đương tiền là tiền gửi có kỳ hạn tại các ngân hàng thương mại có kỳ hạn ban đầu dưới hoặc bằng 3 tháng với lãi suất từ 2,8%/năm đến 4,6%/năm (năm 2020: lãi suất từ 2,9%/năm đến 4,8%/năm).
+
+4 PHÀI THU NGẢN HẠN CỦA KHÁCH HÀNG
+
+<table><tr><td></td><td>31/12/2021VND</td><td>31/12/2020VND</td></tr><tr><td>Bên thứ baTrong đó:- Công ty TNHH Dịch vụ và Xuất nhập khẩuvận chuyển Đa phương thức Việt Nam- Công ty TNHH Thương mại và Dịch vụTiếp vận Long Mã- Công ty Cổ phần Tiếp vận Siêu Tốc- Công ty Cổ phần CMA - CGM Việt Nam- KhácBên liên quan (Thuyết minh 24(b))</td><td>26.010.688.03112.110.267.7314.013.188.4093.240.421.471-6.646.810.42014.009.000.685</td><td>10.099.015.3872.347.779.20176.668.6011.186.622.9641.118.423.8015.369.520.82014.033.876.114</td></tr><tr><td></td><td>40.019.688.716</td><td>24.132.891.501</td></tr></table>
+
+20
+
+===== PAGE 24 =====
+The image contains a series of identical rectangular shapes, each represented by a square with a vertical line inside. There is no text or mathematical content to extract. Therefore, the correct OCR output is an empty string.
+
+CÔNG TY CỔ PHẦN CONTAINER VIỆT NAM
+
+Mẫu số B 09 – DN
+
+THUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG
+
+CHO NĂM TÀI CHÍNH KẾT THỨC NGÀY 31 THÁNG 12 NĂM 2021
+
+5 PHÀI THU VỀ CHO VAY
+
+(a) Ngắn hạn
+
+<table><tr><td></td><td>31/12/2021VND</td><td>31/12/2020VND</td></tr><tr><td>Bên liên quan (Thuyết minh 24(b))</td><td>1.789.473.698</td><td>12.686.407.947</td></tr></table>
+
+(b) Dài hạn
+
+<table><tr><td></td><td>31/12/2021VND</td><td>31/12/2020VND</td></tr><tr><td>Bên liên quan (Thuyết minh 24(b))</td><td>2.526.315.786</td><td>17.784.015.594</td></tr></table>
+
+Tại ngày 31 tháng 12 năm 2021, số dư phải thu về cho vay bao gồm phần nợ phải trả dài hạn và phần nợ dài hạn đến hạn trả từ Công ty Cổ phần Container Miền Trung – công ty con. Thời hạn của các hợp đồng vay là 36 tháng kể từ ngày giải ngân. Tiền gốc vay được trả định kỳ ba tháng một lần. Lãi suất các khoản vay là từ 4,6%/năm đến 5,5%/năm (năm 2020: lãi suất từ 5,1%/năm đến 8,3%/năm) và được trả định kỳ hàng năm.
+
+6 PHÀI THU NGĂN HẠN KHÁC
+
+<table><tr><td></td><td>31/12/2021VND</td><td>31/12/2020VND</td></tr><tr><td>Bên thứ ba</td><td>2.377.579.761</td><td>1.820.417.093</td></tr><tr><td>Bên liên quan (Thuyết minh 24(b)) (*)</td><td>13.894.848.224</td><td>47.040.711.532</td></tr><tr><td></td><td>16.272.427.985</td><td>48.861.128.625</td></tr><tr><td>Dự phòng phải thu ngắn hạn</td><td>(318.328.521)</td><td>(318.328.521)</td></tr></table>
+
+(*) Số dư khoản phải thu ngắn hạn khác với các bên liên quan chủ yếu là khoản lợi nhuận được chia từ các công ty con của Công ty.
+
+21
+
+===== PAGE 25 =====
+CÔNG TY CỔ PHẦN CONTAINER VIỆT NAM
+
+THUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG
+CHO NĂM TÀI CHÍNH KẾT THỨC NGÀY 31 THÁNG 12 NĂM 2021
+
+Mẫu số B 09 – DN
+
+7 TÀI SẢN CỐ ĐỊNH
+
+(a) Tài sản cố định hữu hình
+
+<table><tr><td></td><td>Nhà cửa,vật kiến trúcVND</td><td>Máy móc,thiết bịVND</td><td>Phương tiệnvận tàiVND</td><td>Thiết bịquản lýVND</td><td>Tổng cộngVND</td></tr><tr><td colspan="6">Nguyên giá</td></tr><tr><td>Tại ngày 1 tháng 1 năm 2021</td><td>21.784.803.233</td><td>434.647.000</td><td>44.104.652.209</td><td>1.426.093.499</td><td>67.750.195.941</td></tr><tr><td>Mua mới</td><td>-</td><td>-</td><td>1.478.461.818</td><td>159.081.818</td><td>1.637.543.636</td></tr><tr><td>Thanh lý</td><td>-</td><td>-</td><td>(4.458.706.036)</td><td>-</td><td>(4.458.706.036)</td></tr><tr><td>Tại ngày 31 tháng 12 năm 2021</td><td>21.784.803.233</td><td>434.647.000</td><td>41.124.407.991</td><td>1.585.175.317</td><td>64.929.033.541</td></tr><tr><td colspan="6">Giá trị khấu hao lũy kế</td></tr><tr><td>Tại ngày 1 tháng 1 năm 2021</td><td>(13.609.047.504)</td><td>(434.647.000)</td><td>(35.347.674.341)</td><td>(935.464.014)</td><td>(50.326.832.859)</td></tr><tr><td>Khấu hao trong năm</td><td>(794.924.678)</td><td>-</td><td>(1.444.271.172)</td><td>(220.397.047)</td><td>(2.459.592.897)</td></tr><tr><td>Thanh lý</td><td>-</td><td>-</td><td>4.458.706.036</td><td>-</td><td>4.458.706.036</td></tr><tr><td>Tại ngày 31 tháng 12 năm 2021</td><td>(14.403.972.182)</td><td>(434.647.000)</td><td>(32.333.239.477)</td><td>(1.155.861.061)</td><td>(48.327.719.720)</td></tr><tr><td colspan="6">Giá trị còn lại</td></tr><tr><td>Tại ngày 1 tháng 1 năm 2021</td><td>8.175.755.729</td><td>-</td><td>8.756.977.868</td><td>490.629.485</td><td>17.423.363.082</td></tr><tr><td>Tại ngày 31 tháng 12 năm 2021</td><td>7.380.831.051</td><td>-</td><td>8.791.168.514</td><td>429.314.256</td><td>16.601.313.821</td></tr></table>
+
+Nguyên giá tài sản cố định hữu hình của Công ty đã khấu hao hết nhưng còn sử dụng tại ngày 31 tháng 12 năm 2021 là 36.347.128.394 VND (tại ngày 31 tháng 12 năm 2020: 29.182.000.000 VND).
+
+22
+
+===== PAGE 26 =====
+The image contains a row of identical rectangular shapes, each containing a small square with a vertical line inside. There is no text or mathematical content to extract.
+
+CÔNG TY CỔ PHẦN CONTAINER VIỆT NAM
+
+Mẫu số B 09 – DN
+
+THUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG GIỮA
+
+CHO NĂM TÀI CHÍNH KẾT THỨC NGÀY 31 THÁNG 12 NĂM 2021
+
+7 TÀI SẢN CỔ ĐỊNH (TIẾP THEO)
+
+(b) Tài sản cố định vô hình
+
+<table><tr><td></td><td>Quyền sử dụng đất VND</td><td>Phần mềm máy tính VND</td><td>Tổng cộng VND</td></tr><tr><td colspan="4">Nguyên giá</td></tr><tr><td>Tại ngày 1 tháng 1 năm 2021</td><td>5.417.853.001</td><td>681.271.700</td><td>6.099.124.701</td></tr><tr><td>Tại ngày 31 tháng 12 năm 2021</td><td>5.417.853.001</td><td>681.271.700</td><td>6.099.124.701</td></tr><tr><td colspan="4">Giá trị khấu hao lũy kế</td></tr><tr><td>Tại ngày 1 tháng 1 năm 2021</td><td>-</td><td>(540.514.919)</td><td>(540.514.919)</td></tr><tr><td>Khấu hao trong năm</td><td>-</td><td>(76.544.484)</td><td>(76.544.484)</td></tr><tr><td>Tại ngày 31 tháng 12 năm 2021</td><td>-</td><td>(617.059.403)</td><td>(617.059.403)</td></tr><tr><td colspan="4">Giá trị còn lại</td></tr><tr><td>Tại ngày 1 tháng 1 năm 2021</td><td>5.417.853.001</td><td>140.756.781</td><td>5.558.609.782</td></tr><tr><td>Tại ngày 31 tháng 12 năm 2021</td><td>5.417.853.001</td><td>64.212.297</td><td>5.482.065.298</td></tr></table>
+
+Nguyên giá tài sản cố định vô hình của Công ty đã khấu hao hết nhưng còn sử dụng tại ngày 31 tháng 12 năm 2021 là 298.549.300 VND (tại ngày 31 tháng 12 năm 2020: 298.549.300 VND).
+
+23
+
+===== PAGE 27 =====
+CÔNG TY CỔ PHẦN CONTAINER VIỆT NAM
+
+Mẫu số B 09 – DN
+
+THUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG
+CHO NĂM TÀI CHÍNH KẾT THỨC NGÀY 31 THÁNG 12 NĂM 2021
+
+8 ĐẦU TƯ TÀI CHÍNH
+
+<table><tr><td rowspan="2" colspan="2"></td><td colspan="3">Tại ngày 31/12/2021</td><td colspan="3">Tại ngày 31/12/2020</td></tr><tr><td>Giá gốc VND</td><td>Giá trị hợp lý VND</td><td>Dự phòng VND</td><td>Giá gốc VND</td><td>Giá trị hợp lý VND</td><td>Dự phòng VND</td></tr><tr><td>(a)</td><td>Ngắn hạn</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td rowspan="2">(i)</td><td>Đầu tư nấm giữ đến ngày đáo hạn</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Tiền gửi có kỳ hạn tại ngân hàng thương mại</td><td>1.000.000.000</td><td>1.000.000.000</td><td>-</td><td>1.000.000.000</td><td>1.000.000.000</td><td>-</td></tr><tr><td>(b)</td><td>Dài hạn</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td rowspan="9">(i)</td><td>Đầu tư vào công ty con</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Công ty Cổ phần Cảng xanh VIP (*)</td><td>518.850.000.000</td><td>1.843.380.000.000</td><td>-</td><td>518.850.000.000</td><td>1.410.750.000.000</td><td>-</td></tr><tr><td>Công ty Cổ phần Đầu tư Dịch vụ và Phát triển Xanh (*)</td><td>80.400.000.000</td><td>183.312.000.000</td><td>-</td><td>80.400.000.000</td><td>164.820.000.000</td><td>-</td></tr><tr><td>Công ty Cổ phần Container Miền Trung (*)</td><td>19.825.000.000</td><td>52.932.750.000</td><td>-</td><td>19.825.000.000</td><td>28.548.000.000</td><td>-</td></tr><tr><td>Công ty TNHH Một thành viên Vận tải biển Ngôi sao Xanh</td><td>70.000.000.000</td><td>(*)</td><td>-</td><td>70.000.000.000</td><td>(*)</td><td>-</td></tr><tr><td>Công ty TNHH Một thành viên Viconship Hồ Chí Minh</td><td>6.000.000.000</td><td>(*)</td><td>-</td><td>6.000.000.000</td><td>(*)</td><td>-</td></tr><tr><td>Công ty TNHH Một thành viên Trung tâm Logistics Xanh</td><td>90.000.000.000</td><td>(*)</td><td>-</td><td>90.000.000.000</td><td>(*)</td><td>-</td></tr><tr><td>Công ty TNHH Một thành viên Dịch vụ Cảng Xanh</td><td>110.000.000.000</td><td>(*)</td><td>-</td><td>110.000.000.000</td><td>(*)</td><td>-</td></tr><tr><td></td><td>895.075.000.000</td><td>2.079.624.750.000</td><td>-</td><td>895.075.000.000</td><td>1.604.118.000.000</td><td>-</td></tr><tr><td rowspan="6">(ii)</td><td>Đầu tư vào công ty liên kết</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Công ty Cổ phần Cảng dịch vụ Dầu khí Đình Vũ (*)</td><td>80.991.207.286</td><td>101.432.300.000</td><td>-</td><td>80.991.207.286</td><td>65.269.480.000</td><td>-</td></tr><tr><td>Công ty Cổ phần Logistics Cảng Đà Nẵng (*)</td><td>14.430.000.000</td><td>29.970.000.000</td><td>-</td><td>14.430.000.000</td><td>23.310.000.000</td><td>-</td></tr><tr><td>Công ty TNHH Tuyến Container T.S. Hà Nội</td><td>2.002.500.000</td><td>(*)</td><td>-</td><td>2.002.500.000</td><td>(*)</td><td>-</td></tr><tr><td>Công ty Cổ phần Cảng VIMC Đình Vũ (**)</td><td>392.492.736.000</td><td>(*)</td><td>-</td><td>-</td><td>(*)</td><td>-</td></tr><tr><td></td><td>489.916.443.286</td><td>131.402.300.000</td><td>-</td><td>97.423.707.286</td><td>88.579.480.000</td><td>-</td></tr><tr><td rowspan="2">(iii)</td><td>Đầu tư góp vốn vào đơn vị khác</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Công ty TNHH MSC Việt Nam</td><td>155.000.000</td><td>(*)</td><td>-</td><td>155.000.000</td><td>(*)</td><td>-</td></tr></table>
+
+24
+
+===== PAGE 28 =====
+The image contains a row of identical, stylized rectangular shapes with no text or symbols. Therefore, the correct OCR output is an empty string.
+
+CÔNG TY CỔ PHẦN CONTAINER VIỆT NAM
+
+Mẫu số B 09 – DN
+
+THUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG
+
+CHO NĂM TÀI CHÍNH KẾT THÚC NGÀY 31 THÁNG 12 NĂM 2021
+
+8 ĐẦU TƯ TÀI CHÍNH (TIẾP THEO)
+
+(*) Đối với các đơn vị đầu tư là các công ty có cổ phiếu niêm yết trên các sở giao dịch chứng khoán, cổ phiếu của công ty đại chúng đăng ký giao dịch trên thị trường giao dịch cổ phiếu của công ty đại chúng chưa niêm yết ("UPCoM"), giá trị hợp lý được tính dựa trên giá đóng của của ngày có giao dịch gần nhất trước ngày kết thúc năm tài chính.
+
+Đối với các khoản đầu tư còn lại, Công ty chưa xác định giá trị hợp lý của các khoản đầu tư này để thuyết minh trên báo cáo tài chính riêng vì các khoản đầu tư này không có giá niêm yết trên thị trường và các Chuẩn mực Kế toán Việt Nam, Chế độ Kế toán Doanh nghiệp Việt Nam và các quy định pháp lý có liên quan đến việc lập và trình bày báo cáo tài chính riêng hiện không có hướng dẫn chỉ tiết về cách tính giá trị hợp lý. Giá trị hợp lý của các khoản đầu tư này có thể khác với giá trị ghi số.
+
+(**) Theo Nghị quyết số 12/2021/NQ-HĐQT đề ngày 11 tháng 8 năm 2021, Hội đồng Quản trị đã thống nhất mua 36% cổ phần của Công ty Cổ phần Cảng VIMC Đình Vũ (“VIMC Đình Vũ”) (tên gọi cũ là Công ty Cổ phần Cảng Vinalines Đình Vũ). Tại ngày 14 tháng 9 năm 2021, Công ty đã hoàn tất việc ký kết hợp đồng mua 36% cổ phần tử cổ đông hiện hữu của VIMC Đình Vũ.
+
+9 PHÀI TRÀ NGƯỜI BÁN NGẮN HẠN
+
+<table><tr><td></td><td>31/12/2021VND</td><td>31/12/2020VND</td></tr><tr><td>Bên thứ baTrong đó:- Công ty Cổ phần Vận tải và Xếp dỡ Hải An</td><td>1.837.102.474</td><td>10.351.468.937</td></tr><tr><td>- Chỉ nhánh công ty TNHH KMTC (Việt Nam)tại Hải Phòng</td><td>665.793.454644.314.000</td><td>1.498.756.686-</td></tr><tr><td>- Công ty TNHH Thương mại và Dịch vụXăng dầu Anh Thủy</td><td>-</td><td>3.180.937.513</td></tr><tr><td>- Công ty Cổ phần Xăng dầu Dầu khí PVOILHải Phòng</td><td>-</td><td>2.312.140.100</td></tr><tr><td>- Khác</td><td>526.995.020</td><td>3.359.634.638</td></tr><tr><td>Bên liên quan (Thuyết minh 24(b))</td><td>1.918.986.053</td><td>4.796.954.016</td></tr><tr><td></td><td>3.756.088.527</td><td>15.148.422.953</td></tr></table>
+
+25
+
+===== PAGE 29 =====
+CÔNG TY CỔ PHẦN CONTAINER VIỆT NAM
+
+THUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG
+CHO NĂM TÀI CHÍNH KẾT THỨC NGÀY 31 THÁNG 12 NĂM 2021
+
+10 THUẾ VÀ CÁC KHOÀN PHẢI THU/PHẢI NỘP NHÀ NƯỚC
+
+Biến động về thuế và các khoản phải thu/phải nộp Nhà nước trong năm như sau:
+
+<table><tr><td colspan="2"></td><td>Tại ngày1/1/2021VND</td><td>Số phát sinhtrong nămVND</td><td>Cấn trừ phải thu/phải trảVND</td><td>Phân loại lại phải thu và phải trảVND</td><td>Tại ngày31/12/2021VND</td></tr><tr><td rowspan="3">(a)</td><td rowspan="2">Phải thuThuế GTGT được khấu trừThuế TNDN</td><td>10.740.422.554-</td><td>11.662.997.256-</td><td>(11.627.646.485)-</td><td>-1.241.381.251</td><td>10.775.773.3251.241.381.251</td></tr><tr><td>10.740.422.554</td><td>11.662.997.256</td><td>(11.627.646.485)</td><td>1.241.381.251</td><td>12.017.154.576</td></tr><tr><td>Tại ngày1/1/2021VND</td><td>Số phát sinhtrong nămVND</td><td>Số đã thực nhận/thực trả trong nămVND</td><td>Cấn trừ phải thu/phải trảVND</td><td>Phân loại lại phải thu và phải trảVND</td><td>Tại ngày31/12/2021VND</td></tr><tr><td rowspan="2">(b)</td><td rowspan="2">Phải nộpThuế GTGTThuế TNDNThuế thu nhập cá nhânThuế và các khoản phảinộp Nhà nước khác</td><td>333.900.531311.908.366378.230.905823.179.387</td><td>16.024.331.7541.712.436.5853.563.779.06717.931.026.152</td><td>(4.344.749.908)(3.265.726.202)(3.577.808.680)(17.386.879.419)</td><td>-1.241.381.251-</td><td>385.835.892-364.201.2921.367.326.120</td></tr><tr><td>1.847.219.189</td><td>39.231.573.558</td><td>(28.575.164.209)</td><td>(11.627.646.485)</td><td>1.241.381.251</td></tr></table>
+
+The image contains a series of identical rectangular shapes, each represented by a small square with a vertical line inside. There is no text or mathematical content to extract. Therefore, the correct OCR output is an empty string.
+
+26
+
+===== PAGE 30 =====
+The image contains a row of identical rectangular shapes, each containing a small square and a horizontal line. There is no text or mathematical content to extract.
+
+CÔNG TY CỔ PHẦN CONTAINER VIỆT NAM
+
+Mẫu số B 09 – DN
+
+THUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG
+
+CHO NĂM TÀI CHÍNH KẾT THỨC NGÀY 31 THÁNG 12 NĂM 2021
+
+11 PHÀI TRÀ NGƯỜI LAO ĐỘNG
+
+<table><tr><td></td><td>31/12/2021VND</td><td>31/12/2020VND</td></tr><tr><td>Chi phí lương nhân viên</td><td>1.076.394.589</td><td>763.880.000</td></tr><tr><td>Chi phí thường cho nhân viên</td><td>7.032.220.000</td><td>5.004.854.921</td></tr><tr><td></td><td>8.108.614.589</td><td>5.768.734.921</td></tr></table>
+
+12 PHẢI TRẢ NGẮN HẠN KHÁC
+
+<table><tr><td></td><td>31/12/2021VND</td><td>31/12/2020VND</td></tr><tr><td rowspan="2">Bên thứ baTrong đó:- Các khoản thu hộ Hăng tàu Dong Young Shipping Co., Ltd. (*)</td><td>73.673.541.789</td><td>31.391.707.824</td></tr><tr><td>69.359.251.314</td><td>23.829.178.711</td></tr><tr><td>- Khách hàng đặt cược thuê vỏ container</td><td>1.336.507.053</td><td>3.056.089.003</td></tr><tr><td>- Cổ tức phải trả cho cổ đông</td><td>1.151.331.600</td><td>1.100.862.850</td></tr><tr><td>- Khác</td><td>1.826.451.822</td><td>3.405.577.260</td></tr><tr><td>Bên liên quan (Thuyết minh 24(b)) (**)</td><td>18.119.490.998</td><td>5.058.402.631</td></tr><tr><td></td><td>91.793.032.787</td><td>36.450.110.455</td></tr></table>
+
+(*) Số dư thể hiện khoản thu hộ khách hàng cho Hăng tàu Dong Young mà Công ty ký hợp đồng làm đại lý cho hăng tàu này.
+
+(**) Số dư tai ngày 31 tháng 12 năm 2021 chủ yếu thể hiện khoản ứng trước lợi nhuận năm 2021 mà Công ty TNHH Một thành viên Dịch vụ Cảng Xanh – công ty con, ứng trước cho Công ty. Tại ngày 31 tháng 12 năm 2021, Công ty TNHH Một thành viên Dịch vụ Cảng Xanh chưa ban hành nghị quyết phê chuẩn việc phân phối lợi nhuận của năm 2021, do đó, khoản ứng trước lợi nhuận được trình bày là khoản phải trả khác trên báo cáo tài chính riêng này.
+
+13 QUỸ KHEN THƯỜNG, PHÚC LỢI
+
+Biến động về Quỹ khen thưởng, phúc lợi của Công ty trong năm như sau:
+
+<table><tr><td></td><td>31/12/2021VND</td><td>31/12/2020VND</td></tr><tr><td>Số dư đầu năm</td><td>16.318.677.777</td><td>23.796.651.836</td></tr><tr><td>Trích lập trong năm (Thuyết minh 15)</td><td>7.920.000.000</td><td>9.957.000.000</td></tr><tr><td>Sử dụng trong năm</td><td>(21.371.107.631)</td><td>(17.434.974.059)</td></tr><tr><td>Số dư cuối năm</td><td>2.867.570.146</td><td>16.318.677.777</td></tr></table>
+
+27
+
+===== PAGE 31 =====
+The image contains a row of identical rectangular shapes, each containing a small square and a horizontal line. According to the instructions, for example, the shapes are not rounded or cut off by clicking the text '____' (which is not explicitly labeled). Since there is no actual text content in the image, the correct OCR output must reflect the absence of any visual elements.
+
+CÔNG TY CỔ PHẦN CONTAINER VIỆT NAM
+
+Mẫu số B 09 – DN
+
+THUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG
+
+CHO NĂM TÀI CHÍNH KẾT THỨC NGÀY 31 THÁNG 12 NĂM 2021
+
+14 VỐN GÓP CỦA CHỦ SỞ HỮU
+
+(a) Số lượng cổ phiếu
+
+<table><tr><td></td><td>31/12/2021Cổ phiếu phổ thông</td><td>31/12/2020Cổ phiếu phổ thông</td></tr><tr><td>Số lượng cổ phiếu đăng ký</td><td>110.028.154</td><td>55.122.798</td></tr><tr><td>Số lượng cổ phiếu đã phát hành</td><td>110.028.154</td><td>55.122.798</td></tr><tr><td>Số lượng cổ phiếu đang lưu hành</td><td>110.028.154</td><td>55.122.798</td></tr></table>
+
+Mệnh giá cổ phiếu: 10.000 VND trên một cổ phiếu.
+
+(b) Chi tiết vốn góp của chủ sở hữu
+
+<table><tr><td rowspan="2"></td><td colspan="2">31/12/2021</td><td colspan="2">31/12/2020</td></tr><tr><td>Cổ phiếu phổ thông</td><td>%</td><td>Cổ phiếu phổ thông</td><td>%</td></tr><tr><td>Công ty Cổ phần Đại lý Vận tải SAFI</td><td>6.400.000</td><td>5,82</td><td>5.290.000</td><td>9,60</td></tr><tr><td>Công ty Cổ phần Đầu tư Sao Á D.C</td><td>-</td><td>-</td><td>4.750.000</td><td>8,62</td></tr><tr><td>Công ty Cổ phần Tập đoàn T&amp;D Group</td><td>5.710.000</td><td>5,19</td><td>-</td><td>0,00</td></tr><tr><td>Công ty Cổ phần Thành Đức Holding</td><td>5.710.000</td><td>5,19</td><td>-</td><td>0,00</td></tr><tr><td>Bà Đoàn Thị Tơ</td><td>7.796.666</td><td>7,09</td><td>3.898.333</td><td>7,07</td></tr><tr><td>Bà Tạ Kim Chi</td><td>7.608.868</td><td>6,92</td><td>3.804.434</td><td>6,90</td></tr><tr><td>Ông Đoàn Quang Huy</td><td>6.226.760</td><td>5,66</td><td>3.113.380</td><td>5,65</td></tr><tr><td>KWE Beteilgungen AG</td><td>-</td><td>-</td><td>5.014.827</td><td>9,10</td></tr><tr><td>Cổ đông khác</td><td>70.575.860</td><td>64,13</td><td>29.251.824</td><td>53,06</td></tr><tr><td>Số lượng cổ phiếu đã phát hành</td><td>110.028.154</td><td>100</td><td>55.122.798</td><td>100</td></tr></table>
+
+(*) Cổ đông khác là cổ đông tổ chức và cá nhân, mỗi cổ đông sở hữu dưới 5% số cổ phiếu có quyền biểu quyết của Công ty.
+
+28
+
+===== PAGE 32 =====
+CÔNG TY CỔ PHẦN CONTAINER VIỆT NAM
+
+THUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG
+CHO NĂM TÀI CHÍNH KẾT THỨC NGÀY 31 THÁNG 12 NĂM 2021
+
+15 TÌNH HÌNH TĂNG GIÀM NGUỒN VỐN CHỦ SỞ HỮU
+
+Mẫu số B 09 – DN
+
+<table><tr><td></td><td>Vốn góp của chủ sở hữu VND</td><td>Thặng dư vốn cổ phần VND</td><td>Quỹ đầu tư phát triển VND</td><td>LNST chưa phân phối VND</td><td>Tổng cộng VND</td></tr><tr><td>Tại ngày 1 tháng 1 năm 2020</td><td>551.227.980.000</td><td>36.141.891.246</td><td>646.734.369.757</td><td>111.009.228.762</td><td>1.345.113.469.765</td></tr><tr><td>Lợi nhuận thuần trong năm</td><td>-</td><td>-</td><td>-</td><td>85.378.566.388</td><td>85.378.566.388</td></tr><tr><td>Trích lập Quỹ khen thưởng, phúc lợi(Thuyết minh 13)</td><td>-</td><td>-</td><td>-</td><td>(9.957.000.000)</td><td>(9.957.000.000)</td></tr><tr><td>Chia cổ tức</td><td>-</td><td>-</td><td>-</td><td>(148.831.554.600)</td><td>(148.831.554.600)</td></tr><tr><td>Thường Hội đồng Quản trị và Ban Kiểm soát</td><td>-</td><td>-</td><td>-</td><td>(2.300.000.000)</td><td>(2.300.000.000)</td></tr><tr><td>Tại ngày 31 tháng 12 năm 2020</td><td>551.227.980.000</td><td>36.141.891.246</td><td>646.734.369.757</td><td>35.299.240.550</td><td>1.269.403.481.553</td></tr><tr><td>Lợi nhuận thuần trong năm</td><td>-</td><td>-</td><td>-</td><td>249.143.311.503</td><td>249.143.311.503</td></tr><tr><td>Trích lập Quỹ khen thưởng, phúc lợi(Thuyết minh 13) (*)</td><td>-</td><td>-</td><td>-</td><td>(5.620.000.000)</td><td>(5.620.000.000)</td></tr><tr><td>Thường Hội đồng Quản trị và Ban Kiểm soát (*)</td><td>-</td><td>-</td><td>-</td><td>(2.300.000.000)</td><td>(2.300.000.000)</td></tr><tr><td>Chia cổ tức (*)</td><td>-</td><td>-</td><td>-</td><td>(27.561.399.000)</td><td>(27.561.399.000)</td></tr><tr><td>Tạm ứng cổ tức năm 2021 (**)</td><td>-</td><td>-</td><td>-</td><td>(27.561.399.000)</td><td>(27.561.399.000)</td></tr><tr><td>Vốn tăng trong năm (***)</td><td>549.053.560.000</td><td>-</td><td>-</td><td>-</td><td>549.053.560.000</td></tr><tr><td>Tại ngày 31 tháng 12 năm 2021</td><td>1.100.281.540.000</td><td>36.141.891.246</td><td>646.734.369.757</td><td>221.399.754.053</td><td>2.004.557.555.056</td></tr></table>
+
+(*) Theo Nghị quyết số 01/2021/NQ-ĐHĐCD đề ngày 26 tháng 3 năm 2021, Đại hội đồng Cổ đông của Công ty đã phê duyệt việc việc trích lập Quỹ khen thưởng, phúc lợi, thưởng Hội đồng Quản trị và Ban Kiểm soát và chia cổ tức lấy từ nguồn lợi nhuận chưa phân phối của năm 2020 tương ứng 20% mênh giá cổ phần. Trong đó, khoản tạm ứng cổ tức tương ứng 15% mênh giá cổ phần với giá trị 82.684.197.000 VND đã được chi trả trong năm 2020 và khoản cổ tức còn lại tương ứng 5% mênh giá cổ phần với giá trị 27.561.399.000 VND đã được chi trả trong năm 2021.
+
+(**) Theo Nghị quyết số 16/2021/NQ-HĐQT đề ngày 6 tháng 10 năm 2021, Hội đồng Quản trị của Công ty đã phê duyệt việc tạm ứng cổ tức cho cổ đông hiện hữu đốt một lấy từ nguồn lợi nhuận chưa phân phối của năm 2021 tương ứng 5% mènh giá cổ phần với giá trị là 27.561.399.000 VND.
+
+29
+
+===== PAGE 33 =====
+The image contains a series of identical rectangular shapes, each represented by a small square with a vertical line extending from its left side. There is no text or mathematical content to extract. Therefore, the correct OCR output is an empty string.
+
+CÔNG TY CỔ PHẦN CONTAINER VIỆT NAM
+
+Mẫu số B 09 – DN
+
+THUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG
+
+CHO NĂM TÀI CHÍNH KẾT THÚC NGÀY 31 THÁNG 12 NĂM 2021
+
+15 TÌNH HÌNH TĂNG GIÀM NGUỒN VỐN CHỦ SỞ HỮU (TIẾP THEO)
+
+(***) Theo Nghị quyết Đại hội đồng cổ đông số 01/2021/NQ-ĐHĐCĐ đề ngày 26 tháng 3 năm 2021, Đại hội đồng cổ đông của Công ty đã thông qua phương án phát hành thêm cổ phiếu cho cổ đông hiện hữu theo tỷ lệ 1:1, với giá phát hành một cổ phiếu là 10.000 VND, để tăng vốn điều lệ của Công ty. Tại ngày 31 tháng 12 năm 2021, Công ty đã nhận được tiền chào bán thành công 54.905.356 cổ phiếu cho cổ đông hiện hữu (đợt một) với số tiền là 549.053.560.000 Đồng Việt Nam (Thuyết minh 3).
+
+Trong năm 2022, Công ty tiếp tục nhận được tiền chào bán 217.442 cổ phiếu còn lại cho cổ đông hiện hữu (đợt hai), với số tiền là 5.436.050.000 VND với giá phát hành một cổ phiếu là 25.000 VND.
+
+Ngày 14 tháng 1 năm 2022, theo Nghị quyết số 01/2022/NQ-HĐQT, Hội đồng Quản trị của Công ty đã thông qua kết quả đốt phát hành cổ phiếu đề tăng vốn điều lệ, trong đó tổng số lượng cổ phiếu chào bán thành công là 55.122.798 cổ phiếu.
+
+16 CÁC KHOÀN MỤC NGOÀI BÀNG CÂN ĐỐI KẾ TOÁN
+
+Tại ngày 31 tháng 12 năm 2021, khoản mục tiền và các khoản tương đương tiền bao gồm số ngoại tệ 714,79 Đô la Mỹ, tương đương 16.378.128 VND (tại ngày 31.12.2020: 652.630 Đô la Mỹ, tương đương 15.077.189.848 VND).
+
+17 DOANH THU THUẦN VỀ BÁN HÀNG VÀ CUNG CẤP DỊCH VỤ
+
+<table><tr><td></td><td>2021VND</td><td>2020VND</td></tr><tr><td>Doanh thu thuần từ bán hàng</td><td>90.267.332.430</td><td>66.519.455.931</td></tr><tr><td>Doanh thu thuần từ dịch vụ lưu bãi, chạylạnh, kiểm hóa, kiểm dịch</td><td>32.233.937.430</td><td>25.470.888.585</td></tr><tr><td>Doanh thu thuần từ dịch vụ bốc dỡ container</td><td>14.592.763.389</td><td>8.360.701.951</td></tr><tr><td>Doanh thu thuần từ cung cấp dịch vụ khác</td><td>25.474.427.179</td><td>17.068.213.207</td></tr><tr><td></td><td>162.568.460.428</td><td>117.419.259.674</td></tr></table>
+
+18 GIÁ VỐN HÀNG BÁN VÀ DỊCH VỤ CUNG CẤP
+
+<table><tr><td></td><td>2021VND</td><td>2020VND</td></tr><tr><td>Chi phí mua hàng hóa</td><td>85.472.587.085</td><td>63.598.728.494</td></tr><tr><td>Chi phí nhân viên</td><td>13.453.468.726</td><td>9.354.834.194</td></tr><tr><td>Chi phí khấu hao</td><td>2.536.137.381</td><td>5.360.039.190</td></tr><tr><td>Chi phí dịch vụ mua ngoài</td><td>35.667.063.193</td><td>26.892.415.902</td></tr><tr><td>Chi phí khác</td><td>143.675.504</td><td>1.266.422.245</td></tr><tr><td></td><td>137.272.931.889</td><td>106.472.440.025</td></tr></table>
+
+30
+
+===== PAGE 34 =====
+CÔNG TY CỔ PHẦN CONTAINER VIỆT NAM
+
+Mẫu số B 09 – DN
+
+THUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG
+
+CHO NĂM TÀI CHÍNH KẾT THÚC NGÀY 31 THÁNG 12 NĂM 2021
+
+19 DOANH THU HOẠT ĐỘNG TÀI CHÍNH
+
+<table><tr><td></td><td>2021VND</td><td>2020VND</td></tr><tr><td>Cố tức từ các khoản đầu tư tài chính(Thuyết minh 24(a))</td><td>239.023.000.982</td><td>73.656.489.746</td></tr><tr><td>Lãi tiền gửi ngân hàng</td><td>5.533.745.489</td><td>3.834.990.363</td></tr><tr><td>Lãi từ hoạt động cho vay (Thuyết minh 24(a))</td><td>881.981.688</td><td>8.559.849.967</td></tr><tr><td>Doanh thu hoạt động tài chính khác</td><td>536.726.348</td><td>423.033.853</td></tr><tr><td></td><td>245.975.454.507</td><td>86.474.363.929</td></tr></table>
+
+20 CHI PHÍ QUẢN LÝ DOANH NGHIỆP
+
+<table><tr><td></td><td>2021VND</td><td>2020VND</td></tr><tr><td>Chi phí nhân viên</td><td>15.447.854.278</td><td>9.030.450.816</td></tr><tr><td>Chi phí dịch vụ mua ngoài</td><td>4.873.250.329</td><td>3.227.277.513</td></tr><tr><td>Khác</td><td>1.643.993.005</td><td>1.283.559.617</td></tr><tr><td></td><td>21.965.097.612</td><td>13.541.287.946</td></tr></table>
+
+21 THUÊ THU NHẬP DOANH NGHIỆP
+
+Số thuế TNDN trên lợi nhuận kế toán trước thuế của Công ty khác với số thuế khi được tính theo thuế suất phổ thông áp dụng 20% như sau:
+
+<table><tr><td></td><td>2021VND</td><td>2020VND</td></tr><tr><td>Lợi nhuận kế toán trước thuế</td><td>250.855.748.088</td><td>87.479.619.634</td></tr><tr><td>Thuế tính ở thuế suất 20%Điều chỉnh:</td><td>50.171.149.618</td><td>17.495.923.927</td></tr><tr><td>Chi phí không được khấu trừThu nhập cổ tức nhận được từ các khoảnđầu tư tài chính không chịu thuế TNDNU&#x27;u đãi thuế (*)</td><td>220.130.153(47.944.279.292)(734.563.894)</td><td>202.480.193(14.763.547.949)(833.802.925)</td></tr><tr><td>Chi phí thuế TNDN (**)</td><td>1.712.436.585</td><td>2.101.053.246</td></tr><tr><td>Chi phí thuế TNDN ghi nhận trong báo cáokết quả hoạt động kinh doanh riêng:Thuế TNDN – hiện hànhThuế TNDN – hoãn lại</td><td>1.712.436.585-</td><td>2.101.053.246-</td></tr><tr><td></td><td>1.712.436.585</td><td>2.101.053.246</td></tr></table>
+
+31
+
+===== PAGE 35 =====
+The image contains a series of identical rectangular shapes, each represented by a square with a vertical line inside. There is no text or mathematical content to extract. Therefore, the correct OCR output is an empty string.
+
+CÔNG TY CỔ PHẦN CONTAINER VIỆT NAM
+
+Mẫu số B 09 – DN
+
+THUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG
+
+CHO NĂM TÀI CHÍNH KẾT THỨC NGÀY 31 THÁNG 12 NĂM 2021
+
+21 THUẾ THU NHẬP DOANH NGHIỆP (TIẾP THEO)
+
+(*) Theo Nghị quyết số 116/2020/QH14 ban hành ngày 19 tháng 6 năm 2020 về việc giảm thuế TNDN phải nộp đối với các doanh nghiệp, hợp tác xã, đơn vị sự nghiệp và tổ chức khác, Công ty được giảm 30% thuế TNDN phải nộp do có tổng doanh thu bán hàng và cung cấp dịch vụ không quá 200 tỷ đồng trong năm 2021.
+
+(**) Chi phí thuế TNDN cho kỳ kế toán được ước tính dựa vào thu nhập chịu thuế và có thể có những điều chỉnh tùy thuộc vào sự kiểm tra của cơ quan thuế.
+
+22 CHI PHÍ KINH DOANH THEO YẾU TỐ
+
+Chi phí sản xuất kinh doanh theo yếu tố thể hiện các chi phí phát sinh trong kỳ, nhưng không bao gồm giá của hàng hóa liên quan tới hoạt động thương mại. Chi tiết được trình bày như sau:
+
+<table><tr><td></td><td>2021VND</td><td>2020VND</td></tr><tr><td>Chi phí mua hàng hóa</td><td>85.472.587.085</td><td>63.958.728.494</td></tr><tr><td>Chi phí nhân viên</td><td>28.901.323.004</td><td>18.385.285.010</td></tr><tr><td>Chi phí khấu hao</td><td>2.536.137.381</td><td>5.360.039.190</td></tr><tr><td>Chi phí dịch vụ mua ngoài</td><td>40.540.313.522</td><td>30.119.693.415</td></tr><tr><td>Chi phí khác</td><td>1.787.668.509</td><td>2.229.981.862</td></tr><tr><td></td><td>159.238.029.501</td><td>120.053.727.971</td></tr></table>
+
+23 CÁC GIAO DỊCH KHÔNG BẢNG TIỀN ẢNH HƯỜNG ĐẾN BÁO CÁO LƯU CHUYỀN TIỀN TỆ
+
+<table><tr><td></td><td>2021VND</td><td>2020VND</td></tr><tr><td>Cán trừ công nợ nội bộ và các khoản lợi nhuận được chia</td><td>60.644.760.982</td><td>-</td></tr><tr><td>Thu hộ trả hộ về thường hoàn thành kế hoạch cho nhân sự các công ty con</td><td>11.407.500.000</td><td>32.272.511.974</td></tr><tr><td>Góp vốn vào công ty con bằng tài sản cố định</td><td>-</td><td>45.824.365.905</td></tr></table>
+
+32
+
+\( \left\|  {N}^{ \cdot  }\right|  = \frac{1 - \left( {{2n} + 3}\right)  \cdot  }{\left( {{2n} + 4}\right)  } = \frac{1 - \left( {{2n} + 3}\right)  \cdot  }{\left( {{2n} + 4}\right)  } \)
+
+\( \therefore m : x = 1 \) 或 \( {3x} + {4y} + 1 = 0 \)
+
+===== PAGE 36 =====
+The image contains no text. The OCR result "1" is a hallucination and does not correspond to any content in the source image. Therefore, the correct OCR output must reflect the absence of any visible characters.
+
+CÔNG TY CỔ PHẦN CONTAINER VIỆT NAM
+
+Mẫu số B 09 – DN
+
+THUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG
+
+CHO NĂM TÀI CHÍNH KẾT THÚC NGÀY 31 THÁNG 12 NĂM 2021
+
+24 THUYẾT MINH VỀ CÁC BÊN LIÊN QUAN
+
+Chi tiết của các bên liên quan chính và mối quan hệ như sau:
+
+<table><tr><td>Tên</td><td>Mối quan hệ</td></tr><tr><td>- Công ty Cổ phần Cắng xanh VIP</td><td>Công ty con</td></tr><tr><td>- Công ty Cổ phần Đầu tư Dịch vụ và Phát triển Xanh</td><td>Công ty con</td></tr><tr><td>- Công ty Cổ phần Container Miền Trung</td><td>Công ty con</td></tr><tr><td>- Công ty TNHH Một thành viên Dịch vụ Cắng Xanh</td><td>Công ty con</td></tr><tr><td>- Công ty TNHH Một thành viên Trung tâm Logistics Xanh</td><td>Công ty con</td></tr><tr><td>- Công ty TNHH Một thành viên Vận tải biển Ngôi sao Xanh</td><td>Công ty con</td></tr><tr><td>- Công ty Cổ phần Logistics Cắng Đà Nẵng</td><td>Công ty liên kết</td></tr><tr><td>- Công ty Cổ phần Cắng dịch vụ Dầu khí Đình Vũ</td><td>Công ty liên kết</td></tr><tr><td>- Công ty TNHH Tuyến Container T.S. Hà Nội</td><td>Công ty liên kết</td></tr><tr><td>- Công ty Cổ phần Cắng VIMC Đình Vũ</td><td>Công ty liên kết</td></tr></table>
+
+(a) Giao dịch với các bên liên quan
+
+<table><tr><td colspan="2"></td><td>2021VND</td><td>2020VND</td></tr><tr><td rowspan="7">(i)</td><td>Doanh thu bán hàng</td><td></td><td></td></tr><tr><td>Công ty Cổ phần Cảng Xanh VIP</td><td>14.387.443.152</td><td>11.056.543.917</td></tr><tr><td>Công ty Cổ phần Đầu tư Dịch vụ và Phát triển Xanh</td><td>14.378.548.981</td><td>12.187.235.078</td></tr><tr><td>Công ty TNHH Một thành viên Vận tải biển Ngôi sao Xanh</td><td>38.448.739.102</td><td>29.425.862.434</td></tr><tr><td>Công ty TNHH Một thành viên Trung tâm Logistics Xanh</td><td>13.739.897.347</td><td>8.295.282.640</td></tr><tr><td>Công ty TNHH Một thành viên Dịch vụ Cảng Xanh</td><td>9.312.703.848</td><td>5.553.713.680</td></tr><tr><td></td><td>90.267.332.430</td><td>66.518.637.749</td></tr><tr><td rowspan="8">(ii)</td><td>Doanh thu cung cấp dịch vụ</td><td></td><td></td></tr><tr><td>Công ty Cổ phần Cảng Xanh VIP</td><td>9.384.000.000</td><td>8.724.000.000</td></tr><tr><td>Công ty Cổ phần Đầu tư Dịch vụ và Phát triển Xanh</td><td>1.116.000.000</td><td>-</td></tr><tr><td>Công ty Cổ phần Container Miền Trung</td><td>125.665.000</td><td>71.635.000</td></tr><tr><td>Công ty TNHH Một thành viên Vận tải biển Ngôi sao Xanh</td><td>3.926.765.237</td><td>2.631.344.097</td></tr><tr><td>Công ty TNHH Một thành viên Dịch vụ Cảng Xanh</td><td>1.416.000.000</td><td>336.000.000</td></tr><tr><td>Công ty TNHH Một thành viên Trung tâm Logistics Xanh</td><td>1.116.000.000</td><td>456.000.000</td></tr><tr><td></td><td>17.084.430.237</td><td>12.218.979.097</td></tr><tr><td rowspan="2">(iii)</td><td>Bán tài sản cố định</td><td></td><td></td></tr><tr><td>Công ty TNHH Một thành viên Trung tâm Logistics Xanh</td><td>463.636.359</td><td>-</td></tr><tr><td rowspan="2">(iv)</td><td>Thanh lý vật tư và chi phí trả trước</td><td></td><td></td></tr><tr><td>Công ty TNHH Một thành viên Dịch vụ Cảng Xanh</td><td>-</td><td>19.064.104.296</td></tr></table>
+
+33
+
+1154 TA 6 NC CH
+
+===== PAGE 37 =====
+The image contains a series of identical rectangular shapes, each represented by a small square with a vertical line inside. There is no text or mathematical content to extract. Therefore, the correct OCR output is an empty string.
+
+CÔNG TY CỔ PHẦN CONTAINER VIỆT NAM
+
+Mẫu số B 09 – DN
+
+THUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG
+
+CHO NĂM TÀI CHÍNH KẾT THỨC NGÀY 31 THÁNG 12 NĂM 2021
+
+24 THUYẾT MINH VỀ CÁC BÊN LIÊN QUAN (TIẾP THEO)
+
+(a) Giao dịch với các bên liên quan (tiếp theo)
+
+<table><tr><td colspan="2"></td><td>2021VND</td><td>2020VND</td></tr><tr><td rowspan="8">(v)</td><td>Mua hàng hóa và dịch vụ</td><td></td><td></td></tr><tr><td>Công ty Cổ phần Cảng Xanh VIP</td><td>98.875.000</td><td>6.440.000</td></tr><tr><td>Công ty Cổ phần Đầu tư Dịch vụ và Phát triển Xanh</td><td>2.077.449.640</td><td>404.589.013</td></tr><tr><td>Công ty Cổ phần Container Miền Trung</td><td>90.855.117</td><td>107.799.994</td></tr><tr><td>Công ty TNHH Một thành viên Dịch vụ Cảng Xanh</td><td>12.662.937.423</td><td>3.445.886.667</td></tr><tr><td>Công ty TNHH Một thành viên Vận tải biển Ngôi sao Xanh</td><td>6.815.172.367</td><td>8.159.156.322</td></tr><tr><td>Công ty TNHH Một thành viên Trung tâm Logistics Xanh</td><td>1.788.796.240</td><td>197.506.400</td></tr><tr><td></td><td>23.534.085.787</td><td>12.321.378.396</td></tr><tr><td rowspan="10">(vi)</td><td>Lợi nhuận được chia từ các công ty con, công ty liên kết (Thuyết minh 19)</td><td></td><td></td></tr><tr><td>Công ty Cổ phần Cảng Xanh VIP</td><td>141.075.000.000</td><td>47.025.000.000</td></tr><tr><td>Công ty Cổ phần Đầu tư Dịch vụ và Phát triển Xanh</td><td>13.668.000.000</td><td>8.040.000.000</td></tr><tr><td>Công ty Cổ phần Container Miền Trung</td><td>2.379.000.000</td><td>2.379.000.000</td></tr><tr><td>Công ty TNHH Một thành viên Dịch vụ Cảng Xanh</td><td>45.590.257.518</td><td>-</td></tr><tr><td>Công ty TNHH Một thành viên Trung tâm Logistics Xanh</td><td>14.881.230.598</td><td>-</td></tr><tr><td>Công ty TNHH Một thành viên Vận tải biển Ngôi sao Xanh</td><td>13.257.372.866</td><td>14.214.489.746</td></tr><tr><td>Công ty Cổ phần Cảng Logistics Cảng Đà Nẵng</td><td>1.998.000.000</td><td>1.998.000.000</td></tr><tr><td>Công ty Cổ phần Cảng Dịch vụ Dầu khí Đình Vũ</td><td>6.174.140.000</td><td>-</td></tr><tr><td></td><td>239.023.000.982</td><td>73.656.489.746</td></tr><tr><td rowspan="8">(vii)</td><td>Thu hộ trả hộ về thường hoàn thành kế hoạch cho nhân sự các công ty con</td><td></td><td></td></tr><tr><td>Công ty Cổ phần Cảng Xanh VIP</td><td>1.411.500.000</td><td>1.216.000.000</td></tr><tr><td>Công ty Cổ phần Đầu tư Dịch vụ và Phát triển Xanh</td><td>1.241.500.000</td><td>1.065.000.000</td></tr><tr><td>Công ty Cổ phần Container Miền Trung</td><td>785.000.000</td><td>935.000.000</td></tr><tr><td>Công ty TNHH Một thành viên Vận tải biển Ngôi sao Xanh</td><td>3.215.500.000</td><td>1.369.000.000</td></tr><tr><td>Công ty TNHH Một thành viên Dịch vụ Cảng Xanh</td><td>2.621.500.000</td><td>5.058.402.631</td></tr><tr><td>Công ty TNHH Một thành viên Trung tâm Logistics Xanh</td><td>2.132.500.000</td><td>1.013.000.000</td></tr><tr><td></td><td>11.407.500.000</td><td>10.656.402.631</td></tr><tr><td rowspan="7">(viii)</td><td>Thu hộ trả hộ về tiền ứng hộ Covid-19</td><td></td><td></td></tr><tr><td>Công ty Cổ phần Cảng Xanh VIP</td><td>1.000.000.000</td><td>-</td></tr><tr><td>Công ty Cổ phần Đầu tư Dịch vụ và Phát triển Xanh</td><td>500.000.000</td><td>-</td></tr><tr><td>Công ty TNHH Một thành viên Dịch vụ Cảng Xanh</td><td>1.000.000.000</td><td>-</td></tr><tr><td>Công ty TNHH Một thành viên Vận tải biển Ngôi sao Xanh</td><td>1.000.000.000</td><td>-</td></tr><tr><td>Công ty TNHH Một thành viên Trung tâm Logistics Xanh</td><td>500.000.000</td><td>-</td></tr><tr><td></td><td>4.000.000.000</td><td>-</td></tr></table>
+
+34
+
+121 5.472 2 161
+
+===== PAGE 38 =====
+The image contains a series of identical rectangular shapes, each represented by a small square with a horizontal line extending from the center. There is no text or mathematical content to extract. Therefore, the correct OCR output is an empty string.
+
+CÔNG TY CỔ PHẦN CONTAINER VIỆT NAM
+
+Mẫu số B 09 – DN
+
+THUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG
+
+CHO NĂM TÀI CHÍNH KẾT THỨC NGÀY 31 THÁNG 12 NĂM 2021
+
+24 THUYẾT MINH VỀ CÁC BÊN LIÊN QUAN (TIẾP THEO)
+
+(a) Giao dịch với các bên liên quan (tiếp theo)
+
+<table><tr><td colspan="2"></td><td>2021VND</td><td>2020VND</td></tr><tr><td rowspan="6">(ix)</td><td>Nhận tiền trả gốc vay</td><td></td><td></td></tr><tr><td>Công ty Cổ phần Cảng Xanh VIP</td><td>-</td><td>43.817.388.847</td></tr><tr><td>Công ty Cổ phần Đầu tư Dịch vụ và Phát triển Xanh</td><td>15.237.037.038</td><td>49.540.740.740</td></tr><tr><td>Công ty TNHH Một thành viên Vận tải biển Ngôi sao Xanh</td><td>5.707.070.699</td><td>4.040.404.044</td></tr><tr><td>Công ty Cổ phần Container Miền Trung</td><td>5.210.526.320</td><td>5.157.894.726</td></tr><tr><td></td><td>26.154.634.057</td><td>102.556.428.357</td></tr><tr><td rowspan="6">(x)</td><td>Lãi cho vay (Thuyết minh 19)</td><td></td><td></td></tr><tr><td>Công ty Cổ phần Container Miền Trung</td><td>382.825.516</td><td>909.233.811</td></tr><tr><td>Công ty TNHH Một thành viên Vận tải biển Ngôi sao Xanh</td><td>138.784.108</td><td>514.437.261</td></tr><tr><td>Công ty Cổ phần Đầu tư Dịch vụ và Phát triển Xanh</td><td>360.372.064</td><td>4.112.412.520</td></tr><tr><td>Công ty Cổ phần Cảng Xanh VIP</td><td>-</td><td>3.023.766.375</td></tr><tr><td></td><td>881.981.688</td><td>8.559.849.967</td></tr><tr><td rowspan="2">(xi)</td><td>Giao dịch góp vốn</td><td></td><td></td></tr><tr><td>Công ty TNHH Một thành viên Dịch vụ Cảng Xanh</td><td>-</td><td>110.000.000.000</td></tr></table>
+
+35
+
+\( b_{1}^{2} \)   \( \geq \)   \( \geq \)   \( \geq \)
+
+===== PAGE 39 =====
+CÔNG TY CỔ PHẦN CONTAINER VIỆT NAM
+
+Mẫu số B 09 – DN
+
+THUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG
+
+CHO NĂM TÀI CHÍNH KẾT THÚC NGÀY 31 THÁNG 12 NĂM 2021
+
+24 THUYẾT MINH VỀ CÁC BÊN LIÊN QUAN (TIẾP THEO)
+
+(a) Giao dịch với các bên liên quan (tiếp theo)
+
+<table><tr><td colspan="2"></td><td>2021VND</td><td>2020VND</td></tr><tr><td colspan="4">(xii) Các khoản chỉ cho các nhân sự quản lý chủ chốt</td></tr><tr><td colspan="4">Hội đồng quản trị</td></tr><tr><td>Ông Nguyễn Việt Hoà</td><td>Chủ tịch</td><td>1.398.971.710</td><td>941.281.089</td></tr><tr><td>Ông Nguyễn Việt Trung</td><td>Thành viên</td><td>200.000.000</td><td>185.000.000</td></tr><tr><td>Ông Nguyễn Hoàng Anh</td><td>Thành viên</td><td>200.000.000</td><td>-</td></tr><tr><td>Ông Trần Quang Tiến</td><td>Thành Viên(bổ nhiệm ngày 22/9/2021)</td><td>-</td><td>-</td></tr><tr><td>Ông Dương Tiến Dũng</td><td>Thành viên(bổ nhiệm ngày 26/3/2021)</td><td>642.813.000</td><td>-</td></tr><tr><td>Ông Văn Trần Hoàn</td><td>Thành viên(bổ nhiệm ngày 26/3/2021)</td><td>-</td><td>-</td></tr><tr><td>Ông Tạ Công Thông</td><td>Thành viên(bổ nhiệm ngày 26/3/2021)</td><td>-</td><td>-</td></tr><tr><td>Ông Nguyễn Văn Tiến</td><td>Thành viên(từ nhiệm ngày 15/9/2021)</td><td>1.525.418.946</td><td>1.039.893.192</td></tr><tr><td>Ông Trần Tiến Dũng</td><td>Thành viên(từ nhiệm ngày 8/9/2021)</td><td>276.495.000</td><td>-</td></tr><tr><td>Ông Nguyễn Thế Duy</td><td>Thành viên(từ nhiệm ngày 2/7/2021)</td><td>200.000.000</td><td>-</td></tr><tr><td>Ông Nguyễn Thế Trọng</td><td>Thành viên(từ nhiệm ngày 26/3/2021)</td><td>1.573.259.605</td><td>798.531.077</td></tr><tr><td>Ông Nghiêm Tuấn Anh</td><td>Thành viên(từ nhiệm ngày 26/3/2021)</td><td>200.000.000</td><td>185.000.000</td></tr><tr><td>Bà Đặng Trần Gia Thoại</td><td>Thành viên(từ nhiệm ngày 26/3/2021)</td><td>200.000.000</td><td>-</td></tr><tr><td colspan="2"></td><td>6.416.958.261</td><td>3.149.705.358</td></tr><tr><td colspan="4">Ban Kiểm soát</td></tr><tr><td>Bà Nguyễn Thị Kim Nhã</td><td>Trường ban</td><td>484.582.664</td><td>184.749.998</td></tr><tr><td>Bà Nguyễn Thị Minh Lan</td><td>Thành viên</td><td>100.000.000</td><td>130.000.000</td></tr><tr><td>Bà Nghiêm Thị Thủy Dương</td><td>Thành viên</td><td>100.000.000</td><td>-</td></tr><tr><td colspan="2"></td><td>684.582.664</td><td>314.749.998</td></tr><tr><td colspan="4">Ban Giám đốc</td></tr><tr><td>Ông Bùi Minh Hưng</td><td>Tổng Giám đốc(bổ nhiệm ngày 8/9/2021)</td><td>476.498.000</td><td>-</td></tr><tr><td>Ông Nguyễn Văn Tiến</td><td>Tổng Giám đốc(từ nhiệm ngày 8/9/2021)</td><td>Như trên</td><td>Như trên</td></tr><tr><td>Ông Nguyễn Thế Trọng</td><td>Giám đốc kỹ thuật</td><td>Như trên</td><td>Như trên</td></tr><tr><td>Ông Dương Tiến Dũng</td><td>Giám đốc tài chính(bổ nhiệm ngày 1/5/2021)</td><td>Như trên</td><td>Như trên</td></tr><tr><td>Ông Trần Tiến Dũng</td><td>Giám đốc khai thác(bổ nhiệm ngày 26/7/2021)(từ nhiệm ngày 8/9/2021)</td><td>Như trên</td><td>Như trên</td></tr></table>
+
+36
+
+===== PAGE 40 =====
+CÔNG TY CỔ PHẦN CONTAINER VIỆT NAM
+
+Mẫu số B 09 – DN
+
+THUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG
+
+CHO NĂM TÀI CHÍNH KẾT THÚC NGÀY 31 THÁNG 12 NĂM 2021
+
+24 THUYẾT MINH VỀ CÁC BÊN LIÊN QUAN (TIẾP THEO)
+
+(b) Số dư với các bên liên quan
+
+<table><tr><td colspan="2"></td><td>31/12/2021VND</td><td>31/12/2020VND</td></tr><tr><td rowspan="7">(i)</td><td>Phải thu ngắn hạn của khách hàng (Thuyết minh 4)</td><td></td><td></td></tr><tr><td>Công ty Cổ phần Cảng Xanh VIP</td><td>2.664.780.272</td><td>2.114.268.985</td></tr><tr><td>Công ty Cổ phần Đầu tư Dịch vụ và Phát triển Xanh</td><td>3.692.753.784</td><td>6.541.529.291</td></tr><tr><td>Công ty Cổ phần Container Miền Trung</td><td>9.436.000</td><td>20.964.857</td></tr><tr><td>Công ty TNHH Một thành viên Trung tâm Logistics Xanh</td><td>3.010.204.566</td><td>833.853.883</td></tr><tr><td>Công ty TNHH Một thành viên Vận tải biển Ngôi sao Xanh</td><td>4.631.826.063</td><td>4.523.259.098</td></tr><tr><td></td><td>14.009.000.685</td><td>14.033.876.114</td></tr><tr><td rowspan="5">(ii)</td><td>Phải thu về cho vay ngắn hạn (Thuyết minh 5(a))</td><td></td><td></td></tr><tr><td>Công ty Cổ phần Container Miền Trung</td><td>1.789.473.698</td><td>3.105.263.168</td></tr><tr><td>Công ty TNHH Một thành viên Vận tải biển Ngôi sao Xanh</td><td>-</td><td>4.040.404.039</td></tr><tr><td>Công ty Cổ phần Đầu tư Dịch vụ và Phát triển Xanh</td><td>-</td><td>5.540.740.740</td></tr><tr><td></td><td>1.789.473.698</td><td>12.686.407.947</td></tr><tr><td rowspan="5">(iii)</td><td>Phải thu về cho vay dài hạn (Thuyết minh 5(b))</td><td></td><td></td></tr><tr><td>Công ty Cổ phần Container Miền Trung</td><td>2.526.315.786</td><td>6.421.052.636</td></tr><tr><td>Công ty TNHH Một thành viên Vận tải biển Ngôi sao Xanh</td><td>-</td><td>1.666.666.660</td></tr><tr><td>Công ty Cổ phần Đầu tư Dịch vụ và Phát triển Xanh</td><td>-</td><td>9.696.296.298</td></tr><tr><td></td><td>2.526.315.786</td><td>17.784.015.594</td></tr><tr><td rowspan="6">(iv)</td><td>Phải thu ngắn hạn khác (Thuyết minh 6)</td><td></td><td></td></tr><tr><td>Công ty TNHH Một thành viên Trung tâm Logistics Xanh</td><td>13.268.922.358</td><td>29.020.191.760</td></tr><tr><td>Công ty TNHH Một thành viên Vận tải biển Ngôi sao Xanh</td><td>625.925.866</td><td>16.187.173.979</td></tr><tr><td>Công ty Cổ phần Đầu tư Dịch vụ và Phát triển Xanh</td><td>-</td><td>1.823.456.190</td></tr><tr><td>Công ty Cổ phần Container Miền Trung</td><td>-</td><td>9.889.603</td></tr><tr><td></td><td>13.894.848.224</td><td>47.040.711.532</td></tr><tr><td rowspan="7">(v)</td><td>Phải trả người bán ngắn hạn (Thuyết minh 9)</td><td></td><td></td></tr><tr><td>Công ty Cổ phần Cảng Xanh VIP</td><td>-</td><td>7.084.000</td></tr><tr><td>Công ty Cổ phần Container Miền Trung</td><td>64.001.600</td><td>42.644.001</td></tr><tr><td>Công ty TNHH Một thành viên Dịch vụ Cảng Xanh</td><td>-</td><td>4.720.728.515</td></tr><tr><td>Công ty TNHH Một thành viên Vận tải biển Ngôi sao Xanh</td><td>50.834.253</td><td>26.497.500</td></tr><tr><td>Công ty TNHH Một thành viên Trung tâm Logistics Xanh</td><td>1.804.150.200</td><td>-</td></tr><tr><td></td><td>1.918.986.053</td><td>4.796.954.016</td></tr><tr><td rowspan="2">(vi)</td><td>Phải trả ngắn hạn khác (Thuyết minh 12)</td><td></td><td></td></tr><tr><td>Công ty TNHH Một thành viên Dịch vụ Cảng Xanh</td><td>18.119.490.998</td><td>5.058.402.631</td></tr></table>
+
+37
+
+===== PAGE 41 =====
+The image contains no text. The OCR result "F" is a hallucination and does not correspond to any content in the source image. Therefore, the correct OCR output is an empty string.
+
+CÔNG TY CỔ PHẦN CONTAINER VIỆT NAM
+
+Mẫu số B 09 – DN
+
+THUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG
+
+CHO NĂM TÀI CHÍNH KẾT THỨC NGÀY 31 THÁNG 12 NĂM 2021
+
+25 CÁC CAM KẾT THUÊ HOẠT ĐỘNG
+
+Công ty phải trả mức tối thiểu cho các hợp đồng thuê hoạt động không hủy ngang trong tương lai, chủ yếu là tiền thuê văn phòng, như sau:
+
+<table><tr><td></td><td>31/12/2021VND</td><td>31/12/2020VND</td></tr><tr><td>Dưới 1 năm</td><td>5.902.410.000</td><td>5.902.410.000</td></tr><tr><td>Từ 1 đến 5 năm</td><td>29.512.050.000</td><td>29.512.050.000</td></tr><tr><td>Trên 5 năm</td><td>21.665.407.912</td><td>27.567.817.912</td></tr><tr><td>Tổng cộng các khoản thanh toán tối thiểu</td><td>57.079.867.912</td><td>62.982.277.912</td></tr></table>
+
+38
+
+\( \left\{  {{n}^{2},n + 1}\right\} \)
+
+===== PAGE 42 =====
+CÔNG TY CỔ PHẦN CONTAINER VIỆT NAM
+
+THUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG
+CHO NĂM TÀI CHÍNH KẾT THỨC NGÀY 31 THÁNG 12 NĂM 2021
+
+26 BÁO CÁO BỘ PHÂN
+
+Doanh thu và chi phí theo lĩnh vực kinh doanh chính của Công ty như sau:
+
+Mẫu số B 09 – DN
+
+<table><tr><td rowspan="2"></td><td colspan="4">Năm tài chính kết thúc ngày 31 tháng 12 năm 2021</td></tr><tr><td>Hoạt độngbán hàng hóaVND</td><td>Hoạt độngcung cấp dịch vụVND</td><td>Hoạt độngđầu tư tài chínhVND</td><td>Tổng cộngVND</td></tr><tr><td>Doanh thu và thu nhập</td><td>90.267.332.430(85.472.587.085)</td><td>72.301.127.998(51.800.344.804)</td><td>247.638.758.846(113.441.685)</td><td>410.207.219.274(137.386.373.574)</td></tr><tr><td>Tổng cộng</td><td>4.794.745.345</td><td>20.500.783.194</td><td>247.525.317.161</td><td>272.820.845.700</td></tr><tr><td>Chi phí chung không phân bổ</td><td></td><td></td><td></td><td>(21.965.097.612)</td></tr><tr><td>Tổng lợi nhuận kế toán trước thuế</td><td></td><td></td><td></td><td>250.855.748.088</td></tr><tr><td rowspan="2"></td><td colspan="4">Năm tài chính kết thúc ngày 31 tháng 12 năm 2020</td></tr><tr><td>Hoạt độngbán hàng hóaVND</td><td>Hoạt độngcung cấp dịch vụVND</td><td>Hoạt độngđầu tư tài chínhVND</td><td>Tổng cộngVND</td></tr><tr><td>Doanh thu và thu nhập</td><td>66.519.455.931(63.598.728.494)</td><td>50.899.803.743(42.873.711.531)</td><td>90.173.908.867(59.820.936)</td><td>207.593.168.541(106.532.260.961)</td></tr><tr><td>Chi phí hoạt động trực tiếp</td><td></td><td></td><td></td><td></td></tr><tr><td>Tổng cộng</td><td>2.920.727.437</td><td>8.026.092.212</td><td>90.114.087.931</td><td>101.060.907.580</td></tr><tr><td>Chi phí chung không phân bổ</td><td></td><td></td><td></td><td>(13.581.287.946)</td></tr><tr><td>Tổng lợi nhuận kế toán trước thuế</td><td></td><td></td><td></td><td>87.479.619.634</td></tr></table>
+
+39
+
+例 1. 三号 6 口
+
+===== PAGE 43 =====
+CÔNG TY CỔ PHẦN CONTAINER VIỆT NAM
+
+THUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG
+
+CHO NĂM TÀI CHÍNH KẾT THỨC NGÀY 31 THÁNG 12 NĂM 2021
+
+26 BÁO CÁO BỘ PHÂN (TIẾP THEO)
+
+Tài sản và nợ phải trả theo lĩnh vực kinh doanh chính của Công ty như sau:
+
+Mẫu số B 09 – DN
+
+<table><tr><td rowspan="2"></td><td colspan="4">Tại ngày 31 tháng 12 năm 2021</td></tr><tr><td>Hoạt độngbản hàng hóaVND</td><td>Hoạt độngcung cấp dịch vụVND</td><td>Hoạt độngđầu tư tài chínhVND</td><td>Tổng cộngVND</td></tr><tr><td colspan="5">Tài sản bộ phận</td></tr><tr><td>Trong đó:</td><td></td><td></td><td></td><td></td></tr><tr><td>Hàng tồn kho</td><td>1.214.274.739</td><td>-</td><td>-</td><td>1.214.274.739</td></tr><tr><td>Phải thu ngắn hạn của khách hàng</td><td>-</td><td>40.019.688.716</td><td>-</td><td>40.019.688.716</td></tr><tr><td>Phải thu về cho vay</td><td>-</td><td>-</td><td>4.315.789.484</td><td>4.315.789.484</td></tr><tr><td>Đầu tư vào công ty con</td><td>-</td><td>-</td><td>895.075.000.000</td><td>895.075.000.000</td></tr><tr><td>Đầu tư vào công ty liên kết</td><td>-</td><td>-</td><td>489.916.443.286</td><td>489.916.443.286</td></tr><tr><td>Đầu tư dài hạn khác</td><td>-</td><td>-</td><td>155.000.000</td><td>155.000.000</td></tr><tr><td>Tổng tài sản phân bổ</td><td>1.214.274.739</td><td>40.019.688.716</td><td>1.389.462.232.770</td><td>1.430.696.196.225</td></tr><tr><td>Tài sản không phân bổ</td><td></td><td></td><td></td><td>685.672.020.260</td></tr><tr><td>Tổng tài sản</td><td></td><td></td><td></td><td>2.116.368.216.485</td></tr><tr><td colspan="5">Nợ phải trả bộ phận</td></tr><tr><td>Trong đó:</td><td></td><td></td><td></td><td></td></tr><tr><td>Phải trả người bán ngắn hạn</td><td>-</td><td>3.756.088.527</td><td>-</td><td>3.756.088.527</td></tr><tr><td>Người mua trả tiền trước ngắn hạn</td><td>-</td><td>1.767.719.458</td><td>-</td><td>1.767.719.458</td></tr><tr><td>Phải trả ngắn hạn khác</td><td>-</td><td>91.793.032.787</td><td>-</td><td>91.793.032.787</td></tr><tr><td>Tổng nợ phải trả phân bổ</td><td>-</td><td>97.316.840.772</td><td>-</td><td>97.316.840.772</td></tr><tr><td>Nợ phải trả không phân bổ</td><td></td><td></td><td></td><td>14.493.820.657</td></tr><tr><td>Tổng nợ phải trả</td><td></td><td></td><td></td><td>111.810.661.429</td></tr></table>
+
+40
+
+[1] 王, 呂, 王
+
+===== PAGE 44 =====
+CÔNG TY CỔ PHẦN CONTAINER VIỆT NAM
+
+THUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG
+
+CHO NĂM TÀI CHÍNH KẾT THỨC NGÀY 31 THẢNG 12 NĂM 2021
+
+26 BÁO CÁO BỘ PHẬN (TIẾP THEO)
+
+Tài sản và nợ phải trả theo lĩnh vực kinh doanh chính của Công ty như sau:
+
+Mẫu số B 09 – DN
+
+Tại ngày 31 tháng 12 năm 2020
+
+<table><tr><td></td><td>Hoạt động bán hàng hóa VND</td><td>Hoạt động cung cấp dịch vụ VND</td><td>Hoạt động đầu tư tài chính VND</td><td>Tổng cộng VND</td></tr><tr><td colspan="5">Tài sản bộ phận</td></tr><tr><td colspan="5">Trong đó:</td></tr><tr><td>Hàng tồn kho</td><td>466.822.694</td><td>-</td><td>-</td><td>466.822.694</td></tr><tr><td>Phải thu ngắn hạn của khách hàng</td><td>-</td><td>24.132.891.501</td><td>-</td><td>24.132.891.501</td></tr><tr><td>Phải thu về cho vay</td><td>-</td><td>-</td><td>30.470.423.541</td><td>30.470.423.541</td></tr><tr><td>Đầu tư vào các công ty con</td><td>-</td><td>-</td><td>895.075.000.000</td><td>895.075.000.000</td></tr><tr><td>Đầu tư vào các công ty liên kết</td><td>-</td><td>-</td><td>97.423.707.286</td><td>97.423.707.286</td></tr><tr><td>Đầu tư dài hạn khác</td><td>-</td><td>-</td><td>155.000.000</td><td>155.000.000</td></tr><tr><td>Tổng tài sản phân bổ</td><td>466.822.694</td><td>24.132.891.501</td><td>1.023.124.130.827</td><td>1.047.723.845.022</td></tr><tr><td>Tài sản không phân bổ</td><td></td><td></td><td></td><td>298.526.337.911</td></tr><tr><td>Tổng tài sản</td><td></td><td></td><td></td><td>1.346.250.182.933</td></tr><tr><td colspan="5">Nợ phải trả bộ phận</td></tr><tr><td colspan="5">Trong đó:</td></tr><tr><td>Phải trả người bán ngắn hạn</td><td>5.493.077.613</td><td>9.655.345.340</td><td>-</td><td>15.148.422.953</td></tr><tr><td>Người mua trả tiền trước ngắn hạn</td><td>-</td><td>1.283.536.085</td><td>-</td><td>1.283.536.085</td></tr><tr><td>Phải trả ngắn hạn khác</td><td>-</td><td>36.450.110.455</td><td>-</td><td>36.450.110.455</td></tr><tr><td>Tổng nợ phải trả phân bổ</td><td>5.493.077.613</td><td>47.388.991.880</td><td>-</td><td>52.882.069.493</td></tr><tr><td>Nợ phải trả không phân bổ</td><td></td><td></td><td></td><td>23.964.631.887</td></tr><tr><td>Tổng nợ phải trả</td><td></td><td></td><td></td><td>76.846.701.380</td></tr></table>
+
+41
+
+例2=2+19
+
+===== PAGE 45 =====
+The image contains no text. The OCR result "1" is a hallucination and does not correspond to any content in the source image. Therefore, the correct OCR output must reflect the absence of any visible text.
+
+(no text)
+
+CÔNG TY CỔ PHẦN CONTAINER VIỆT NAM
+
+Mẫu số B 09 – DN
+
+THUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG
+
+CHO NĂM TÀI CHÍNH KẾT THỨC NGÀY 31 THÁNG 12 NĂM 2021
+
+27 NỘ TIÊM TÀNG
+
+Chi phí khởi phục và hoàn trả mặt bằng lô đất thuê
+
+Tai ngày 31 tháng 12 năm 2021, Công ty đã ký các hợp đồng thuê đất và đã thực hiện xây dựng công trình và hạ tầng trên các lô đất thuê này. Các hợp đồng này quy định việc giải quyết tài sản gắn liền với đất sau khi kết thúc hợp đồng thuê đất được thực hiện theo quy định của pháp luật. Cần cứ theo các quy định hiện hành, Công ty có thể có nghĩa vụ trong tương lai liên quan đến việc tháo dở, di đời các tài sản của Công ty ra khởi khu đất và phục hồi khu đất về trạng thái ban đầu sau thời hạn thuê đất, và nghĩa vụ này chỉ có thể xác định được rõ ràng khi có thêm các sự kiện trong tương lai, ví dụ như các trao đổi bổ sung với bên cho thuê đất hay khi cơ quan chức năng ban thành bổ sung các văn bản pháp luật làm rõ nghĩa vụ của bên đi thuê khi hợp đồng thuê đất không có điều khoản hoàn nguyên. Do Công ty chưa đánh giá được khả năng về giảm sút lợi ích kinh tế từ nghĩa vụ tiềm tàng này, Công ty không ghi nhận khoản dự phòng chi phí hoàn nguyên mà thuyết minh đây là một khoản nợ tiềm tàng trong báo cáo tài chính riêng của Công ty cho năm tài chính kết thúc ngày 31 tháng 12 năm 2021.
+
+28 SỰ KIỆN PHÁT SINH SAU NGÀY BÁO CÁO TÀI CHÍNH RIÊNG
+
+Ngày 14 tháng 1 năm 2022, theo Nghị quyết số 01/2022/NQ-HĐQT, Hội đồng Quản trị của Công ty đã thông qua kết quả đợt phát hành cổ phiếu để tăng vốn điều lệ, trong đó tổng số lượng cổ phiếu chào bán thành công là 55.122.798 cổ phiếu tương ứng với số tiền là 554.489.610.000 VND.
+
+Báo cáo tài chính riêng đã được Ban Giám đốc của Công ty phê chuẩn ngày 2 tháng 3 năm 2022.
+
+Phạm Thị Thúy Ngọc
+Người lập
+
+Lê Thế Trung
+Kế toán trường
+
+Tổng Giám đốc/
+
+Người đại diện theo pháp luật
+
+42

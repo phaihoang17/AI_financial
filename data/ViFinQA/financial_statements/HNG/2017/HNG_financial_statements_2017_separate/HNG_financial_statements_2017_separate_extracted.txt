@@ -1,0 +1,1321 @@
+===== PAGE 1 =====
+Công ty Cổ phần Nông nghiệp Quốc tế Hoàng Anh Gia Lai
+
+Báo cáo tài chính riêng
+
+Ngày 31 tháng 12 năm 2017
+
+===== PAGE 2 =====
+Công ty Cổ phần Nông nghiệp Quốc tế Hoàng Anh Gia Lai
+
+MỤC LỤC
+
+<table><tr><td></td><td>Trang</td></tr><tr><td>Thông tin chung</td><td>1</td></tr><tr><td>Báo cáo của Ban Giám đốc</td><td>2</td></tr><tr><td>Báo cáo kiểm toán độc lập</td><td>3 - 4</td></tr><tr><td>Bằng cân đối kế toán riêng</td><td>5 - 6</td></tr><tr><td>Báo cáo kết quả hoạt động kinh doanh riêng</td><td>7</td></tr><tr><td>Báo cáo lưu chuyển tiền tệ riêng</td><td>8 - 9</td></tr><tr><td>Thuyết minh báo cáo tài chính riêng</td><td>10 - 44</td></tr></table>
+
+The image contains no legible text or symbols. According to Rule 4 (Edge Noise Strategy), since the ground truth is not clearly visible, the OCR should output nothing.
+
+Therefore, the corrected OCR text is:
+
+```text
+[No text detected]
+
+===== PAGE 3 =====
+Công ty Cổ phần Nông nghiệp Quốc tế Hoàng Anh Gia Lai
+
+THÔNG TIN CHUNG
+
+CÔNG TY
+
+Công ty Cổ phần Nông nghiệp Quốc tế Hoàng Anh Gia Lai ("Công ty") là một công ty cổ phần được thành lập theo Luật Doanh nghiệp của Việt Nam theo Giấy Chứng nhận Đăng ký Kinh doanh ("GCNĐKKD") số 5900712753 do Sở Kế hoạch và Đầu tư Tĩnh Gia Lai cấp vào ngày 26 tháng 5 năm 2010 và mươi lăm (15) GCNĐKKD điều chỉnh.
+
+Cổ phiếu của Công ty được niêm yết tai Sở Giao dịch Chứng khoán Thành phố Hồ Chí Minh ("SGDCKHCM") theo Quyết định số 278/QĐ-SGDHCM do SGDCKHCM cấp ngày 10 tháng 7 năm 2015.
+
+Hoạt động chính trong năm hiện tại của Công ty là trồng và kinh doanh cao su, cây ăn trái và các loại cây trồng khác; sản xuất và mua bán cây giống; cung cấp dịch vụ trồng trọt và các vật liệu liên quan; và chăn nuôi và kinh doanh bò thịt và bò sữa.
+
+Công ty có trụ sở chính đăng ký tại Số 15, Đường Trường Chinh, Phường Phù Đồng, Thành phố Pleiku, Tĩnh Gia Lai, Việt Nam.
+
+HỘI ĐỒNG QUẢN TRỊ
+
+Các thành viên Hội đồng Quản trị trong năm và vào ngày lập báo cáo này như sau:
+
+<table><tr><td>Ông Đoàn Nguyên Đức</td><td>Chữ tịch</td><td></td></tr><tr><td>Ông Võ Trường Sơn</td><td>Thành viên</td><td></td></tr><tr><td>Ông Đoàn Nguyên Thu</td><td>Thành viên</td><td></td></tr><tr><td>Bà Võ Thị Mỹ Hạnh</td><td>Thành viên</td><td>bổ nhiệm ngày 30 tháng 6 năm 2017</td></tr><tr><td>Ông Nguyễn Xuân Thắng</td><td>Thành viên</td><td>từ nhiệm ngày 30 tháng 6 năm 2017</td></tr><tr><td>Bà Võ Thị Huyền Lan</td><td>Thành viên</td><td></td></tr><tr><td>Ông Nguyễn Ngọc Ánh</td><td>Thành viên</td><td></td></tr><tr><td>Ông Nguyễn Quan Anh</td><td>Thành viên</td><td></td></tr></table>
+
+BAN KIÊM SOÁT
+
+Các thành viên Ban Kiểm soát trong năm và vào ngày lập báo cáo này như sau:
+
+<table><tr><td>Bà Nguyễn Thị Hải YếnÔng Lê Hồng PhongÔng Dương Trần HùngÔng Phạm Ngọc Châu</td><td>Trường banTrường banThành viênThành viên</td><td>bỗ nhiệm ngày 10 tháng 7 năm 2017từ nhiệm ngày 30 tháng 6 năm 2017bỗ nhiệm ngày 30 tháng 6 năm 2017</td></tr></table>
+
+BAN GIÁM ĐỐC
+
+Các thành viên Ban Giám đốc trong năm và vào ngày lập báo cáo này như sau:
+
+<table><tr><td>Bà Võ Thị Mỹ HạnhÔng Nguyễn Xuân ThắngÔng Phan Thanh ThửÔng Nguyễn Ngọc ÁnhÔng Trịnh Xuân NhânÔng Hoàng Đình QuýÔng Nguyễn Quan AnhBà Nguyễn Thị Thanh ThảoÔng Lê Đình Vũ</td><td>Tổng Giám đốcTổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám Classic</td></tr></table>
+
+NGƯỜI ĐẠI DIỆN THEO PHÁP LUẬT
+
+Người đại diện theo pháp luật của Công ty trong năm và vào ngày lập báo cáo này như sau:
+
+<table><tr><td>Bà Võ Thị Mỹ HạnhÔng Nguyễn Xuân Thắng</td><td>bỗ nhiệm ngày 5 tháng 5 năm 2017từ nhiệm ngày 5 tháng 5 năm 2017</td></tr></table>
+
+KIỂM TOÁN VIÊN
+
+Công ty Trách nhiệm Hữu hạn Ernst & Young Việt Nam là công ty kiểm toán cho Công ty.
+
+1
+
+===== PAGE 4 =====
+Công ty Cổ phần Nông nghiệp Quốc tế Hoàng Anh Gia Lai
+
+BÁO CÁO CỦA BAN GIÁM ĐỐC
+
+Ban Giám đốc Công ty Cổ phần Nông nghiệp Quốc tế Hoàng Anh Gia Lai ("Công ty") trình bày báo cáo này và báo cáo tài chính riêng của Công ty cho năm tài chính kết thúc ngày 31 tháng 12 năm 2017.
+
+TRÁCH NHIỆM CỦA BAN GIÁM ĐỐC ĐỐI VỚI BÁO CÁO TÀI CHÍNH RIÊNG
+
+Ban Giám đốc chịu trách nhiệm đảm bảo báo cáo tài chính riêng cho từng kỷ kế toán năm phân ánh trung thực và hợp lý tỉnh hình tài chính riêng, kết quả hoạt động kinh doanh riêng và tỉnh hình lưu chuyển tiền tệ riêng của Công ty trong năm. Trong quá trình lập báo cáo tài chính riêng này, Ban Giám đốc cần phải:
+
+▶ lựa chọn các chính sách kế toán thích hợp và áp dụng các chính sách này một cách nhất quán:
+
+▶ thực hiện các đánh giá và ước tính một cách hợp lý và thân trọng;
+
+nêu rõ các chuẩn mục kế toán áp dụng cho Công ty có được tuân thủ hay không và tất cả những sai lệch trọng yếu so với những chuẩn mục này đã được trình bày và giải thích trong báo cáo tài chính riêng: và
+
+lập báo cáo tài chính riêng trên cơ sở nguyên tắc hoạt động liên tục trừ trường hợp không thể cho rằng Công ty sẽ tiếp tục hoạt động.
+
+Ban Giám đốc chịu trách nhiệm đảm bảo việc các số sách kế toán thích hợp được lưu giữ để phản ánh tình hình tài chính riêng của Công ty, với mức độ chính xác hợp lý, tại bất kỳ thời điểm nào và đảm bảo rằng các số sách kế toán tuân thủ với chế độ kế toán đã được áp dụng. Ban Giám đốc cũng chịu trách nhiệm về việc quản lý các tài sản của Công ty và do đó phải thực hiện các biện pháp thích hợp để ngăn chắn và phát hiện các hành vi gian lập và những vi phạm khác.
+
+Ban Giám đốc cam kết đã tuân thủ những yêu cầu nêu trên trong việc lập báo cáo tài chính riêng kèm theo.
+
+CÔNG BÓ CỦA BAN GIÁM ĐỐC
+
+Theo ý kiến của Ban Giám đốc, báo cáo tài chính riêng kèm theo phần ánh trung thực và hợp lý tỉnh hình tài chính riêng của Công ty vào ngày 31 tháng 12 năm 2017, kết quả hoạt động kinh doanh riêng và tỉnh hình lưu chuyển tiền tệ riêng cho năm tài chính kết thúc cùng ngày phủ hợp với các Chuẩn mực kể toán Việt Nam, Chế độ kể toán doanh nghiệp Việt Nam và các quy định pháp lý có liên quan đến việc lập và trình bày báo cáo tài chính riêng.
+
+Công ty có các công ty con như được trình bày trong báo cáo tài chính. Công ty đã lập báo cáo tài chính riêng này nhằm đáp ứng các yêu cầu về công bố thông tin, cụ thể là theo quy định tại Thông tư số 155/2015/TT-BTC - Hướng dẫn về việc công bố thông tin trên thị trường chứng khoán. Cũng theo quy định tại các văn bản này, Công ty cũng đã lập báo cáo tài chính hợp nhất của Công ty và các công ty con cho nằm tài chính kết thúc ngày 31 tháng 12 năm 2017 ("báo cáo tài chính hợp nhất") đề ngày 30 tháng 3 năm 2018.
+
+Người sử dụng báo cáo tài chính riêng cần đọc báo cáo tài chính riêng này cùng với báo cáo tài chính hợp nhất để có được đầy đủ thông tin về tinh hình tài chính hợp nhất, kết quả hoạt động kinh doanh hợp nhất và tinh hình lưu chuyển tiền tệ hợp nhất của Công ty và các công ty con.
+
+Thành phố Pleiku, Tỉnh Gia Lai, Việt Nam
+
+Ngày 30 tháng 3 năm 2018
+
+2
+
+(1) N\( _{3} \) ER TRAC
+
+===== PAGE 5 =====
+EY
+Building a better working world
+
+Ernst & Young Vietnam Limited
+28th Floor, Bitexco Financial Tower
+2 Hai Trieu Street, District 1
+Ho Chi Minh City, S.R. of Vietnam
+
+Tel: +84 28 3824 5252
+Fax: +84 28 3824 5250
+ey.com
+
+Số tham chiếu: 61280353/19548843
+
+BÁO CÁO KIỂM TOÁN ĐỘC LẬP
+
+Kính gửi: Quý Cổ đông và Hội đồng Quản trị của Công ty Cổ phần Nông nghiệp Quốc tế Hoàng Anh Gia Lai
+
+Chúng tôi đã kiểm toán báo cáo tài chính riêng kèm theo của Công ty Cổ phần Nông nghiệp Quốc tế Hoàng Anh Gia Lai ("Công ty"), được lập Ngày 30 tháng 3 năm 2018 và được trình bày từ trang 5 đến trang 44, bao gồm bằng cân đối kế toán riêng vào ngày 31 tháng 12 năm 2017, báo cáo kết quả hoạt động kinh doanh riêng, báo cáo lưu chuyển tiền tệ riêng cho năm tài chính kết thúc cùng ngày và các thuyết minh báo cáo tài chính riêng kèm theo.
+
+Trách nhiệm của Ban Giám đốc
+
+Ban Giám đốc Công ty chịu trách nhiệm về việc lập và trình bày trung thực và hợp lý báo cáo tài chính riêng theo các Chuẩn mực kế toán Việt Nam, Chế độ kế toán doanh nghiệp Việt Nam và các quy định pháp lý có liên quan đến việc lập và trình bày báo cáo tài chính riêng và chịu trách nhiệm về kiểm soát nội bộ mà Ban Giám đốc xác định là cần thiết để đảm bảo việc lập và trình bày báo cáo tài chính riêng không có sai sót trọng yếu do gian lập hoặc nhằm lẫn.
+
+Trách nhiệm của Kiểm toán viên
+
+Trách nhiệm của chúng tôi là đưa ra ý kiến về báo cáo tài chính riêng dựa trên kết quả của cuộc kiểm toán. Chứng tối đã tiến hành kiểm toán theo các Chuẩn mực kiểm toán Việt Nam. Các chuẩn mực này yêu cầu chúng tôi tuân thủ các chuẩn mực và các quy định về đạo đức nghề nghiệp, lập kế hoạch và thực hiện cuộc kiểm toán để đạt được sự đảm bảo hợp lý về việc liệu báo cáo tài chính riêng của Công ty có còn sai sót trọng yếu hay không.
+
+Công việc kiểm toán bao gồm thực hiện các thủ tục nhằm thu thập các bằng chứng kiểm toán về các số liệu và thuyết minh trên báo cáo tài chính riêng. Các thủ tục kiểm toán được lựa chọn dựa trên xét đoán của kiểm toán viên, bao gồm đánh giá rủi ro có sai sốt trọng yếu trong báo cáo tài chính riêng do gian lần hoặc nhằm lẫn. Khi thực hiện đánh giá các rủi ro này, kiểm toán viên đã xem xét kiểm soát nội bộ của Công ty liên quan đến việc lập và trình bày báo cáo tài chính riêng trung thực, hợp lý nhằm thiết kế các thủ tục kiểm toán phù hợp với tinh hình thực tế, tuy nhiên không nhằm mục đích đưa ra ý kiến về hiệu quả của kiểm soát nội bộ của Công ty. Công việc kiểm toán cũng bao gồm đánh giá tính thích hợp của các chính sách kế toán được áp dụng và tinh hợp lý của các ước tính kế toán của Ban Giám đốc cũng như đánh giá việc trình bày tổng thể báo cáo tài chính riêng.
+
+Chúng tôi tin tưởng rằng các bằng chứng kiểm toán mà chúng tôi đã thu thập được là đầy đủ và thích hợp để làm cơ sở cho ý kiến kiểm toán của chúng tôi.
+
+A member firm of Ernst & Young Global Limited
+
+副音声
+
+===== PAGE 6 =====
+EY
+Building a better working world
+
+Ý kiến của Kiểm toán viên
+
+Theo ý kiến của chúng tôi, báo cáo tài chính riêng đã phần ánh trung thực và hợp lý, trên các khóa cạnh trọng yếu, tỉnh hình tài chính riêng của Công ty vào ngày 31 tháng 12 năm 2017, cùng như kết quả hoạt động kinh doanh riêng và tỉnh hình lưu chuyển tiền tệ riêng cho năm tài chính kết thúc cùng ngày phù hợp với các Chuẩn mực kế toán Việt Nam, Chế độ kế toán doanh nghiệp Việt Nam và các quy định pháp lý có liên quan đến việc lập và trình bày báo cáo tài chính riêng.
+
+Các vấn đề cần nhân mạnh
+
+Chúng tôi xin lưu ý đến Thuyết minh số 2.1 của báo cáo tài chính riêng. Công ty đã lập báo cáo tài chính hợp nhất của Công ty và các công ty con (“Nhóm Công ty”) cho năm tài chính kết thúc ngày 31 tháng 12 năm 2017 theo các Chuẩn mực kế toán Việt Nam, Chế độ kế toán doanh nghiệp Việt Nam và các quy định pháp lý có liên quan đến việc lập và trình bày báo cáo tài chính hợp nhất. Chúng tôi đã kiểm toán báo cáo tài chính hợp nhất này và báo cáo kiểm toán của chúng tôi đề ngày 30 tháng 3 năm 2018 đã đưa ra ý kiến chấp nhận toàn phần có đoạn nhân mạnh về khả năng hoạt động liên tục của Công ty và các công ty con. Người sử dụng bảo cáo tài chính riêng cần đọc báo cáo tài chính riêng kèm theo này cùng với báo cáo tài chính hợp nhất đã đề cập trên để có được thông tin đầy đủ về tinh hình tài chính hợp nhất, kết quả hoạt động kinh doanh hợp nhất và tinh hình lưu chuyển tiền tệ hợp nhất của Nhóm Công ty.
+
+Chúng tôi cũng xin lưu ý đến Thuyết minh số 2.2 của báo cáo tài chính riêng. Báo cáo tài chính riêng đã được lập với giả định rằng Công ty sẽ tiếp tục hoạt động trên cơ sở hoạt động kinh doanh liên tục. Như được trình bày trong báo cáo tài chính riêng, Công ty đã phát sinh khoản lỗ thuần trong năm tài chính kết thúc ngày 31 tháng 12 năm 2017 là 9.161.050 ngân VND. Vào ngày 31 tháng 12 năm 2017, nợ ngắn hạn của Công ty vượt quá tài sản ngắn hạn là 1.393.519.430 ngân VND. Ngoài ra, tại ngày này, Công ty đã vi phạm một số điều khoản của các khoản vay và trái phiếu như được trình bày tại các Thuyết minh số 17.3 và 17.4 của báo cáo tài chính riêng. Các điều kiện này cho thấy sự tôn tại của yếu tố không chắc chắn trọng yếu có thể dẫn đến nghi ngờ đáng kể về khả năng hoạt động liên tục của Công ty.
+
+Ý kiến kiểm toán của chúng tôi không liên quan đến các vấn đề cần nhân mạnh này.
+
+Công ty Trách nhiệm Hữu hạn Ernst & Young Việt Nam
+
+Đoạn Thị Thu Thủy
+Phó Tổng Giám đốc
+Giấy CNĐKHN kiểm toán
+Số: 1070-2018-004-1
+
+Phạm Thị Cẩm Tú
+Kiểm toán viên
+Giấy CNĐKHN kiểm toán
+Số: 2266-2018-004-1
+
+Thành phố Hồ Chí Minh, Việt Nam
+
+Ngày 30 tháng 3 năm 2018
+
+A member firm of Ernst & Young Global Limited
+
+||二、二等。
+
+===== PAGE 7 =====
+Công ty Cổ phần Nông nghiệp Quốc tế Hoàng Anh Gia Lai
+
+B01-DN
+
+BẢNG CÂN ĐỐI KẾ TOÁN RIÊNG
+
+ngày 31 tháng 12 năm 2017
+
+Ngàn VND
+
+<table><tr><td>Mã số</td><td>TÀI SẢN</td><td>Thuyết minh</td><td>Số cuối năm</td><td>Số đầu năm</td></tr><tr><td>100</td><td>A. TÀI SẢN NGĂN HẠN</td><td></td><td>988.041.722</td><td>2.760.454.724</td></tr><tr><td>110</td><td>I. Tiền</td><td>4</td><td>24.413.533</td><td>144.092.732</td></tr><tr><td>111</td><td>1. Tiền</td><td></td><td>24.413.533</td><td>144.092.732</td></tr><tr><td>130</td><td>II. Các khoản phải thu ngắn hạn</td><td></td><td>947.187.168</td><td>2.612.035.069</td></tr><tr><td>131</td><td>1. Phải thu ngắn hạn của khách hàng</td><td>5</td><td>202.555.014</td><td>75.936.361</td></tr><tr><td>132</td><td>2. Trả trước cho người bán ngắn hạn</td><td>6</td><td>237.014.145</td><td>7.405.264</td></tr><tr><td>135</td><td>3. Phải thu về cho vay ngắn hạn</td><td>25</td><td>10.302.285</td><td>611.768.955</td></tr><tr><td>136</td><td>4. Phải thu ngắn hạn khác</td><td>7</td><td>497.315.724</td><td>1.916.924.489</td></tr><tr><td>140</td><td>III. Hàng tồn kho</td><td>8</td><td>13.194.564</td><td>2.514.356</td></tr><tr><td>141</td><td>1. Hàng tồn kho</td><td></td><td>13.570.601</td><td>2.786.956</td></tr><tr><td>149</td><td>2. Dự phòng giảm giá hàng tồn kho</td><td></td><td>(376.037)</td><td>(272.600)</td></tr><tr><td>150</td><td>IV. Tài sản ngắn hạn khác</td><td></td><td>3.246.457</td><td>1.812.567</td></tr><tr><td>151</td><td>1. Chi phí trả trước ngắn hạn</td><td></td><td>34.610</td><td>540.242</td></tr><tr><td>152</td><td>2. Thuế GTGT được khấu trừ</td><td>16</td><td>2.926.016</td><td>986.494</td></tr><tr><td>153</td><td>3. Thuế và các khoản khác phải thu Nhà nước</td><td>16</td><td>285.831</td><td>285.831</td></tr><tr><td>200</td><td>B. TÀI SẢN DÀI HẠN</td><td></td><td>17.185.941.613</td><td>16.658.835.728</td></tr><tr><td>210</td><td>I. Các khoản phải thu dài hạn</td><td></td><td>5.746.922.974</td><td>3.874.467.877</td></tr><tr><td>215</td><td>1. Phải thu về cho vay dài hạn</td><td>25</td><td>4.491.728.289</td><td>3.853.343.420</td></tr><tr><td>216</td><td>2. Phải thu dài hạn khác</td><td>7</td><td>1.255.194.685</td><td>21.124.457</td></tr><tr><td>220</td><td>II. Tài sản cố định</td><td></td><td>27.270.615</td><td>40.661.481</td></tr><tr><td>221</td><td>1. Tài sản cố định hữu hình</td><td>9</td><td>2.840.044</td><td>10.247.913</td></tr><tr><td>222</td><td>Nguyên giá</td><td></td><td>22.319.279</td><td>28.256.563</td></tr><tr><td>223</td><td>Giá trị khấu hao lũy kế</td><td></td><td>(19.479.235)</td><td>(18.008.650)</td></tr><tr><td>227</td><td>2. Tài sản cố định vô hình</td><td>10</td><td>24.430.571</td><td>30.413.568</td></tr><tr><td>228</td><td>Nguyên giá</td><td></td><td>48.197.185</td><td>48.197.185</td></tr><tr><td>229</td><td>Giá trị hao mòn lũy kế</td><td></td><td>(23.766.614)</td><td>(17.783.617)</td></tr><tr><td>250</td><td>III. Đầu tư tài chính dài hạn</td><td>11</td><td>11.410.317.157</td><td>12.743.162.129</td></tr><tr><td>251</td><td>1. Đầu tư vào các công ty con</td><td></td><td>11.188.437.485</td><td>12.563.586.935</td></tr><tr><td>252</td><td>2. Đầu tư vào công ty liên kết</td><td></td><td>286.004.636</td><td>286.004.636</td></tr><tr><td>254</td><td>3. Dự phòng đầu tư tài chính dài hạn</td><td></td><td>(64.124.964)</td><td>(106.429.442)</td></tr><tr><td>260</td><td>IV. Tài sản dài hạn khác</td><td></td><td>1.430.867</td><td>544.241</td></tr><tr><td>261</td><td>1. Chi phí trả trước dài hạn</td><td></td><td>1.430.867</td><td>544.241</td></tr><tr><td>270</td><td>TỔNG CỘNG TÀI SẢN</td><td></td><td>18.173.983.335</td><td>19.419.290.452</td></tr></table>
+
+5
+
+“
+
+===== PAGE 8 =====
+Công ty Cổ phần Nông nghiệp Quốc tế Hoàng Anh Gia Lai
+
+B01-DN
+
+BẢNG CÂN ĐỐI KẾ TOÁN RIÊNG (tiếp theo)
+
+ngày 31 tháng 12 năm 2017
+
+Ngàn VND
+
+<table><tr><td>Mã số</td><td>NGUỒN VỐN</td><td>Thuyết minh</td><td>Số cuối năm</td><td>Số đầu năm</td></tr><tr><td>300</td><td>C. NỘ PHẢI TRÀ</td><td></td><td>8.155.765.380</td><td>9.391.911.447</td></tr><tr><td>310</td><td>I. Nợ ngắn hạn</td><td></td><td>2.381.561.152</td><td>1.124.466.235</td></tr><tr><td>311</td><td>1. Phải trả người bán ngắn hạn</td><td>12</td><td>168.392.727</td><td>72.458.084</td></tr><tr><td>312</td><td>2. Người mua trả tiền trước ngắn hạn</td><td>13</td><td>115.201.505</td><td>-</td></tr><tr><td>313</td><td>3. Thuế và các khoản phải nộp Nhà nước</td><td>16</td><td>183.501</td><td>229.158</td></tr><tr><td>314</td><td>4. Phải trả người lao động</td><td></td><td>279.547</td><td>2.647.623</td></tr><tr><td>315</td><td>5. Chi phí phải trả ngắn hạn</td><td>14</td><td>189.610.019</td><td>49.257.238</td></tr><tr><td>319</td><td>6. Phải trả ngắn hạn khác</td><td>15</td><td>1.504.320.548</td><td>366.505.359</td></tr><tr><td>320</td><td>7. Vay ngắn hạn</td><td>17</td><td>403.573.305</td><td>633.368.773</td></tr><tr><td>330</td><td>II. Nợ dài hạn</td><td></td><td>5.774.204.228</td><td>8.267.445.212</td></tr><tr><td>333</td><td>1. Chi phí phải trả dài hạn</td><td>14</td><td>-</td><td>62.765.852</td></tr><tr><td>337</td><td>2. Phải trả dài hạn khác</td><td>15</td><td>678.380.824</td><td>90.503.476</td></tr><tr><td>338</td><td>3. Vay dài hạn</td><td>17</td><td>5.095.823.404</td><td>8.114.175.884</td></tr><tr><td>400</td><td>D. VỐN CHỦ SỞ HỮU</td><td></td><td>10.018.217.955</td><td>10.027.379.005</td></tr><tr><td>410</td><td>I. Vốn chủ sở hữu</td><td>18</td><td>10.018.217.955</td><td>10.027.379.005</td></tr><tr><td>411</td><td>1. Vốn cổ phần</td><td></td><td>7.671.438.950</td><td>7.671.438.950</td></tr><tr><td>411a</td><td>- Cổ phiếu phổ thông có quyền biểu quyết</td><td></td><td>7.671.438.950</td><td>7.671.438.950</td></tr><tr><td>412</td><td>2. Thặng dư vốn cổ phần</td><td></td><td>1.064.550.810</td><td>1.064.550.810</td></tr><tr><td>421</td><td>3. Lợi nhuận sau thuế chưa phân phối</td><td></td><td>1.282.228.195</td><td>1.291.389.245</td></tr><tr><td>421a</td><td>- Lợi nhuận sau thuế chưa phân phối lũy kế đến cuối năm trước</td><td></td><td>1.291.389.245</td><td>1.185.386.411</td></tr><tr><td>421b</td><td>- (Lỗ) lợi nhuận sau thuế chưa phân phối năm nay</td><td></td><td>(9.161.050)</td><td>106.002.834</td></tr><tr><td>440</td><td>TỔNG CỘNG NGUỒN VỐN</td><td></td><td>18.173.983.335</td><td>19.419.290.452</td></tr></table>
+
+Phạm Thị Lưu Ly
+
+Người lập
+
+Ngày 30 tháng 3 năm 2018
+
+6
+
+101 2008.2.1
+
+===== PAGE 9 =====
+Công ty Cổ phần Nông nghiệp Quốc tế Hoàng Anh Gia Lai
+
+B02a-DN
+
+BÁO CÁO KẾT QUẢ HOẠT ĐỘNG KINH DOANH RIÊNG
+
+cho năm tài chính kết thúc ngày 31 tháng 12 năm 2017
+
+Ngàn VND
+
+<table><tr><td>Mã số</td><td>CHỈ TIÊU</td><td>Thuyết minh</td><td>Năm nay</td><td>Năm trước</td></tr><tr><td>10</td><td>1. Doanh thu thuần về bán hàng</td><td>19.1</td><td>1.116.144.245</td><td>188.970.898</td></tr><tr><td>11</td><td>2. Giá vốn hàng bán</td><td></td><td>(937.094.639)</td><td>(173.574.358)</td></tr><tr><td>20</td><td>3. Lợi nhuận gộp về bán hàng</td><td></td><td>179.049.606</td><td>15.396.540</td></tr><tr><td>21</td><td>4. Doanh thu hoạt động tài chính</td><td>19.2</td><td>591.314.027</td><td>794.749.353</td></tr><tr><td>22</td><td>5. Chi phí tài chính</td><td>20</td><td>(709.636.650)</td><td>(663.659.663)</td></tr><tr><td>23</td><td>Trong đó: Chi phí lãi vay</td><td></td><td>(540.394.590)</td><td>(549.707.937)</td></tr><tr><td>25</td><td>6. Chi phí bán hàng</td><td>21</td><td>(45.011.892)</td><td>(12.733.911)</td></tr><tr><td>26</td><td>7. Chi phí quản lý doanh nghiệp</td><td>21</td><td>(39.041.110)</td><td>(22.398.389)</td></tr><tr><td>30</td><td>8. (Lỗ) Lợi nhuận thuần từ hoạt động kinh doanh</td><td></td><td>(23.326.019)</td><td>111.353.930</td></tr><tr><td>31</td><td>9. Thu nhập khác</td><td>22</td><td>18.951.604</td><td>838.824</td></tr><tr><td>32</td><td>10. Chi phí khác</td><td>22</td><td>(4.786.635)</td><td>(6.189.920)</td></tr><tr><td>40</td><td>11. Lợi nhuận (lỗ) khác</td><td></td><td>14.164.969</td><td>(5.351.096)</td></tr><tr><td>50</td><td>12. Tổng (lỗ) lợi nhuận kế toán trước thuế</td><td></td><td>(9.161.050)</td><td>106.002.834</td></tr><tr><td>51</td><td>13. Chi phí thuế TNDN hiện hành</td><td>24.1</td><td>-</td><td>-</td></tr><tr><td>60</td><td>14. (Lỗ) Lợi nhuận sau thuế TNDN</td><td></td><td>(9.161.050)</td><td>106.002.834</td></tr></table>
+
+Phạm Thị Lưu Ly
+Người lập
+
+Ngày 30 tháng 3 năm 2018
+
+7
+
+[Illegible]
+
+===== PAGE 10 =====
+Công ty Cổ phần Nông nghiệp Quốc tế Hoàng Anh Gia Lai
+
+B03-DN
+
+BÁO CÁO LƯU CHUYỀN TIỀN TỆ RIÊNG
+
+cho năm tài chính kết thúc ngày 31 tháng 12 năm 2017
+
+Ngàn VND
+
+<table><tr><td>Mã số</td><td>CHỈ TIÊU</td><td>Thuyết minh</td><td>Năm nay</td><td>Năm trước</td></tr><tr><td></td><td rowspan="6">I. LƯU CHUYỀN TIỀN TỪ HOẠT ĐỘNG KINH DOANH (Lỗ) lợi nhuận kế toán trước thuế Điều chỉnh cho các khoản: Khấu hao và hao mòn Các khoản (hoàn nhập dự phòng) dự phòng (Lãi) lỗ chênh lệch tỷ giá hối đoái do đánh giá lại các khoản mục tiền tệ có gốc ngoại tệ Lãi từ hoạt động đầu tư Chi phí lãi vay</td><td></td><td>(9.161.050)</td><td>106.002.834</td></tr><tr><td>02</td><td rowspan="5">9, 10</td><td>8.332.274</td><td>9.515.998</td></tr><tr><td>03</td><td>(42.201.041)</td><td>104.332.253</td></tr><tr><td>04</td><td>(378.096)</td><td>793.308</td></tr><tr><td>05</td><td>(390.356.514)</td><td>(794.734.625)</td></tr><tr><td>06</td><td>549.233.077</td><td>556.325.125</td></tr><tr><td>08</td><td>Lãi (lỗ) từ hoạt động kinh doanh trước thay đổi vốn lưu động</td><td></td><td>115.468.650</td><td>(17.765.107)</td></tr><tr><td>09</td><td>Tăng các khoản phải thu</td><td></td><td>(378.998.012)</td><td>(63.844.907)</td></tr><tr><td>10</td><td>Tăng hàng tồn kho</td><td></td><td>(10.783.645)</td><td>(1.758.060)</td></tr><tr><td>11</td><td>Tăng(giảm) các khoản phải trả</td><td></td><td>253.490.348</td><td>(4.711.044)</td></tr><tr><td>12</td><td>Tăng chi phí trả trước</td><td></td><td>(380.994)</td><td>(506.096)</td></tr><tr><td>14</td><td>Tiền lãi vay đã trả</td><td></td><td>(162.614.335)</td><td>(311.099.880)</td></tr><tr><td>20</td><td>Lưu chuyển tiền thuần sử dụng vào hoạt động kinh doanh</td><td></td><td>(183.817.988)</td><td>(399.685.094)</td></tr><tr><td></td><td>II. LƯU CHUYỀN TIỀN TỪ HOẠT ĐỘNG ĐẦU TƯ</td><td></td><td></td><td></td></tr><tr><td>21</td><td>Tiền chi để mua sắm tài sản cố định</td><td></td><td>(1.380.530)</td><td>(402.756)</td></tr><tr><td>22</td><td>Tiền thu do thanh lý, nhượng bán tài sản cố định</td><td></td><td>755.728</td><td>1.363.300</td></tr><tr><td>23</td><td>Tiền chi cho các đơn vị khác vay</td><td></td><td>-</td><td>(725.136.000)</td></tr><tr><td>24</td><td>Tiền thu hồi cho vay</td><td></td><td>381.207.754</td><td>292.295.457</td></tr><tr><td>25</td><td>Tiền chi đầu tư góp vốn vào đơn vị khác</td><td></td><td>-</td><td>(5.019.147.150)</td></tr><tr><td>26</td><td>Tiền thu hồi bán công ty con</td><td></td><td>1.330.000.000</td><td>-</td></tr><tr><td>27</td><td>Tiền thu lãi cho vay</td><td></td><td>118.468.243</td><td>283.137.065</td></tr><tr><td>30</td><td>Lưu chuyển tiền thuần từ (sử dụng vào) hoạt động đầu tư</td><td></td><td>1.829.051.195</td><td>(5.167.890.084)</td></tr></table>
+
+8
+
+===== PAGE 11 =====
+Công ty Cổ phần Nông nghiệp Quốc tế Hoàng Anh Gia Lai
+
+B02-DN
+
+BÁO CÁO LƯU CHUYỀN TIỀN TỆ RIÊNG (tiếp theo)
+
+cho năm tài chính kết thúc ngày 31 tháng 12 năm 2017
+
+Ngàn VND
+
+<table><tr><td>Mã số</td><td>CHÌ TIÊU</td><td>Thuyết minh</td><td>Năm nay</td><td>Năm trước</td></tr><tr><td></td><td>III. LƯU CHUYỀN TIỀN TỪ HOẠT ĐỘNG TÀI CHÍNH</td><td></td><td></td><td></td></tr><tr><td>31</td><td>Tiền thu từ phát hành cổ phiếu</td><td></td><td>-</td><td>1.652.000.000</td></tr><tr><td>33</td><td>Tiền thu từ đi vay, mượn</td><td>17</td><td>1.389.030.087</td><td>4.479.120.930</td></tr><tr><td>34</td><td>Tiền trả nợ gốc vay, mượn</td><td>17</td><td>(3.153.939.102)</td><td>(420.026.000)</td></tr><tr><td>40</td><td>Lưu chuyển tiền thuần (sử dụng vào) từ hoạt động tài chính</td><td></td><td>(1.764.909.015)</td><td>5.711.094.930</td></tr><tr><td>50</td><td>Lưu chuyển tiền thuần trong năm</td><td></td><td>(119.675.808)</td><td>143.519.752</td></tr><tr><td>60</td><td>Tiền đầu năm</td><td></td><td>144.092.732</td><td>572.980</td></tr><tr><td>61</td><td>Ảnh hưởng của thay đổi tỷ giá hối đoái quy đổi ngoại tệ</td><td></td><td>(3.391)</td><td>-</td></tr><tr><td>70</td><td>Tiền cuối năm</td><td>4</td><td>24.413.533</td><td>144.092.732</td></tr></table>
+
+Phạm Thị Lưu Ly
+Người lập
+
+Hồ Thị Tuyết Loan
+Kế toán trường
+
+Ngày 30 tháng 3 năm 2018
+
+9
+
+===== PAGE 12 =====
+Công ty Cổ phần Nông nghiệp Quốc tế Hoàng Anh Gia Lai
+
+B09-DN
+
+THUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG
+
+ngày 31 tháng 12 năm 2017 và cho năm tài chính kết thúc cùng ngày
+
+1. THÔNG TIN CÔNG TY
+
+Công ty Cổ phần Nông nghiệp Quốc tế Hoàng Anh Gia Lai ("Công ty") là một công ty cổ phần được thành lập theo Luật Doanh nghiệp của Việt Nam theo Giấy Chứng nhận Đăng ký Kinh doanh ("GCNĐKKD") số 5900712753 do Sở Kế hoạch và Đầu tư ("SKHĐT") Tĩnh Gia Lai cấp vào ngày 26 tháng 5 năm 2010 và mười lăm (15) GCNĐKKD điều chỉnh.
+
+Cổ phiếu của Công ty được niêm yết tại Sở Giao dịch Chứng khoán Thành phố Hồ Chí Minh ("SGDCKHCM") theo Quyết định số 278/QĐ-SGDHCM do SGDCKHCM cấp ngày 10 tháng 7 năm 2015.
+
+Vào ngày 31 tháng 12 năm 2017, Công ty có mười một (11) công ty con trực tiếp, mười (10) công ty con gián tiếp và một (1) công ty liên kết. Chi tiết các công ty con như sau:
+
+<table><tr><td>Tên công ty con</td><td>Trụ sở</td><td>Tình trạng hoạt động</td><td>Tỷ lệ sở hữu (%)</td></tr><tr><td>(1) Công ty TNHH Công nghiệp và Nông nghiệp Cao su Hoàng Anh - Quang Minh</td><td>Sekong, Lào</td><td>Đang hoạt động</td><td>97,77</td></tr><tr><td>(2) Công ty Cổ phần Cao su Hoàng Anh - Quang Minh</td><td>Gia Lai, Việt Nam</td><td>Đang hoạt động</td><td>97,77</td></tr><tr><td>(3) Công ty Cổ phần Hoàng Anh Đắk Lắk</td><td>Đắk Lắk, Việt Nam</td><td>Đang hoạt động</td><td>99,53</td></tr><tr><td>(4) Công ty TNHH Phát triển Nông nghiệp Hoàng Anh Attapeu</td><td>Attapeu, Lào</td><td>Đang hoạt động</td><td>100,00</td></tr><tr><td>(5) Công ty TNHH Hoàng Anh Rattanakiri</td><td>Rattanakiri, Campuchia</td><td>Trước hoạt động</td><td>100,00</td></tr><tr><td>(6) Công ty TNHH Heng Brothers</td><td>Rattanakiri, Campuchia</td><td>Trước hoạt động</td><td>100,00</td></tr><tr><td>(7) Công ty TNHH Hoàng Anh Oyadav</td><td>Rattanakiri, Campuchia</td><td>Trước hoạt động</td><td>100,00</td></tr><tr><td>(8) Công ty TNHH CRD</td><td>Rattanakiri, Campuchia</td><td>Trước hoạt động</td><td>100,00</td></tr><tr><td>(9) Công ty TNHH MTV Hoàng Anh An Đông Meas</td><td>Rattanakiri, Campuchia</td><td>Đang hoạt động</td><td>97,77</td></tr><tr><td>(10) Công ty TNHH MTV Kinh doanh Xuất Nhập khẩu Hoàng Anh Gia Lai</td><td>Gia Lai, Việt Nam</td><td>Đang hoạt động</td><td>100,00</td></tr><tr><td>(11) Công ty Cổ phần Bò sữa Tây Nguyên</td><td>Gia Lai, Việt Nam</td><td>Đang hoạt động</td><td>99,00</td></tr><tr><td>(12) Công ty Cổ phần Đông Pênh</td><td>Gia Lai, Việt Nam</td><td>Đang hoạt động</td><td>99,70</td></tr><tr><td>(13) Công ty TNHH MTV Nông nghiệp Daun Penh</td><td>Rattanakiri, Campuchia</td><td>Trước hoạt động</td><td>99,70</td></tr></table>
+
+10
+
+H.H ★
+
+===== PAGE 13 =====
+Công ty Cổ phần Nông nghiệp Quốc tế Hoàng Anh Gia Lai
+
+B09-DN
+
+THUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG (tiếp theo)
+
+ngày 31 tháng 12 năm 2017 và cho năm tài chính kết thúc cùng ngày
+
+1. THÔNG TIN CÔNG TY (tiếp theo)
+
+<table><tr><td>Tên công ty con</td><td>Trụ sở</td><td>Tình trạng hoạt động</td><td>Tỷ lệ sở hữu (%)</td></tr><tr><td>(14) Công ty Cổ phần An Đông Mia</td><td>Gia Lai, Việt Nam</td><td>Đang hoạt động</td><td>69,50</td></tr><tr><td>(15) Công ty TNHH MTV Hoàng Anh Lymphat</td><td>Rattanakiri, Campuchia</td><td>Trước hoạt động</td><td>69,50</td></tr><tr><td>(16) Công ty TNHH Đầu tư và Phát triển Cao su Đông Dương</td><td>Hồ Chí Minh, Việt Nam</td><td>Đang hoạt động</td><td>100,00</td></tr><tr><td>(17) Công ty TNHH Bình Phước Kratie Rubber 2</td><td>Kratie, Campuchia</td><td>Trước hoạt động</td><td>100,00</td></tr><tr><td>(18) Công ty TNHH Sovann Vuthy</td><td>Kratie, Campuchia</td><td>Trước hoạt động</td><td>100,00</td></tr><tr><td>(19) Công ty TNHH Đầu tư Cao su Đông Âu</td><td>Hồ Chí Minh, Việt Nam</td><td>Trước hoạt động</td><td>100,00</td></tr><tr><td>(20) Công ty TNHH Eastern (Cambodia)</td><td>Kratie, Campuchia</td><td>Trước hoạt động</td><td>100,00</td></tr><tr><td>(21) Công ty Cổ phần Cao su Trung Nguyên</td><td>Gia Lai, Việt Nam</td><td>Đang hoạt động</td><td>99,91</td></tr></table>
+
+Tình trạng trước hoạt động là các công ty con đang trong giai đoạn đầu tư, vẫn chưa bắt đầu hoạt động kinh doanh vào ngày 31 tháng 12 năm 2017.
+
+Hoạt động chính trong năm hiện tại của Công ty là trồng và kinh doanh cao su, cây ăn trái và các loại cây trồng khác; sân xuất và mua bán cây giống; cung cấp dịch vụ trồng trọt và các vật liệu liên quan; và chăn nuôi và kinh doanh bò thịt và bò sữa.
+
+Công ty có trụ sở chính đăng ký tại Số 15, Đường Trường Chinh, Phường Phù Đồng, Thành phố Pleiku, Tĩnh Gia Lai, Việt Nam.
+
+Số lượng nhân viên của Công ty tại ngày 31 tháng 12 năm 2017 là 137 (tại ngày 31 tháng 12 năm 2016 là 68).
+
+2. CO'SO TRÌNH BÀY
+
+2.1 Mục đích lập báo cáo tài chính riêng
+
+Công ty có các công ty con như được trình bày tại Thuyết minh số 1 và Thuyết minh số 11.1. Công ty đã lập báo cáo tài chính riêng này nhằm đáp ứng các yêu cầu về công bố thông tin, cụ thể là theo quy định tại Thông tư số 155/2015/TT-BTC - Hướng dẫn về việc công bố thông tin trên thị trường chứng khoán. Cứng theo quy định tại các văn bản này, Công ty cũng đã lập báo cáo tài chính hợp nhất của Công ty và các công ty con cho năm tài chính kết thúc ngày 31 tháng 12 năm 2017 ("báo cáo tài chính hợp nhất") đề ngày 30 tháng 3 năm 2018.
+
+Người sử dụng báo cáo tài chính riêng nên đọc báo cáo này cùng với báo cáo tài chính hợp nhất nói trên để có được các thông tin đầy đủ về tình hình tài chính hợp nhất, kết quả hoạt động kinh doanh hợp nhất và tình hình lưu chuyển tiền tệ hợp nhất của Công ty và các công ty con.
+
+11
+
+===== PAGE 14 =====
+Công ty Cổ phần Nông nghiệp Quốc tế Hoàng Anh Gia Lai
+
+B09-DN
+
+THUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG (tiếp theo)
+
+ngày 31 tháng 12 năm 2017 và cho năm tài chính kết thúc cùng ngày
+
+2. CO' SÔ' TRÌNH BÀY (tiếp theo)
+
+2.2 Giả định hoạt động liên tục
+
+Báo cáo tài chính riêng đã được lập dựa trên cơ sở hoạt động liên tục, với giả định rằng Công ty sẽ có thể sử dụng các tài sản và thanh toán các khoản nợ phải trả của Công ty trong quá trình hoạt động kinh doanh bình thường trong tương lai gần.
+
+Như được trình bày trong báo cáo tài chính riêng, Công ty đã phát sinh khoản lỗ thuần trong năm tài chính kết thúc ngày 31 tháng 12 năm 2017 là 9.161.050 ngân VND. Vào ngày 31 tháng 12 năm 2017, nợ ngắn hạn của Công ty vượt quá tài sản ngắn hạn là 1.393.519.430 ngân VND. Ngoài ra, tại ngày này, Công ty đã vi phạm một số điều khoản của các khoản vay và trái phiếu như được trình bày tại các Thuyết minh số 17.3 và 17.4 của báo cáo tài chính riêng. Các điều kiện này cho thấy sự tồn tại của yếu tố không chắc chắn trọng yếu có thể dẫn đến nghi ngờ đáng kể về khả năng hoạt động liên tục của Công ty.
+
+Tại ngày lập báo cáo tài chính riêng này, Công ty đang trong quá trình tiếp tục triển khai các dự án để đảm bảo đông tiền cho hoạt động kinh doanh của Công ty, tái cơ cấu một số khoản nợ và đang trong quá trình làm việc với các bên cho vay về việc điều chỉnh các điều khoản đã vi phạm của các hợp đồng vay và thế chấp có liên quan. Theo đó, Ban Giám đốc Công ty vấn tiến hành lập báo cáo tài chính riêng trên cỡ sở đáp ứng giả định hoạt động liên tục.
+
+Báo cáo tài chính riêng kèm theo chưa bao gồm các điều chỉnh có thể cần được thực hiện nếu báo cáo tài chính riêng của Công ty được lập trên cơ sở hoạt động không liên tục.
+
+2.3 Chuẩn mực và Chế độ kế toán áp dụng
+
+Báo cáo tài chính riêng của Công ty được trình bày bằng ngàn đồng Việt Nam (“Ngàn VND”) phù hợp với Chế độ kế toán doanh nghiệp Việt Nam và các Chuẩn mực kế toán Việt Nam do Bộ Tài chính ban hành theo:
+
+▶ Quyết định số 149/2001/QĐ-BTC ngày 31 tháng 12 năm 2001 về việc ban hành bốn Chuẩn mực kế toán Việt Nam (Đợt 1);
+
+▶ Quyết định số 165/2002/QĐ-BTC ngày 31 tháng 12 năm 2002 về việc ban hành sáu Chuẩn mực kế toán Việt Nam (Đợt 2);
+
+▶ Quyết định số 234/2003/QĐ-BTC ngày 30 tháng 12 năm 2003 về việc ban hành sâu Chuẩn mực kế toán Việt Nam (Đợt 3);
+
+▶ Quyết định số 12/2005/QĐ-BTC ngày 15 tháng 2 năm 2005 về việc ban hành sáu Chuẩn mực kế toán Việt Nam (Đợt 4); và
+
+Quyết định số 100/2005/QĐ-BTC ngày 28 tháng 12 năm 2005 về việc ban hành bốn Chuẩn mực kế toán Việt Nam (Đợt 5).
+
+Theo đó, báo cáo tài chính riêng được trình bày kèm theo và việc sử dụng báo cáo này không dành cho các đối tượng không được cung cấp các thông tin về các thủ tục và nguyên tắc và thông lệ kế toán tại Việt Nam và hơn nữa không được chủ định trình bày tỉnh hình tài chính, kết quả hoạt động kinh doanh và tỉnh hình lưu chuyển tiền tệ theo các nguyên tắc và thông lệ kế toán được chấp nhận rộng rãi ở các nước và lãnh thổ khác ngoài Việt Nam.
+
+12
+
+===== PAGE 15 =====
+Công ty Cổ phần Nông nghiệp Quốc tế Hoàng Anh Gia Lai
+
+B09-DN
+
+THUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG (tiếp theo)
+
+ngày 31 tháng 12 năm 2017 và cho năm tài chính kết thúc cùng ngày
+
+2. CO' SÔ' TRÌNH BÀY (tiếp theo)
+
+2.4 Hình thức số kế toán áp dụng
+
+Hình thức số kế toán được áp dụng của Công ty là Nhật ký chung.
+
+2.5 Ký kế toán năm
+
+Kỳ kế toán năm của Công ty áp dụng cho việc lập báo cáo tài chính riêng bắt đầu từ ngày 1 tháng 1 và kết thúc ngày 31 tháng 12.
+
+2.6 Đơn vị tiền tệ trong kế toán
+
+Đơn vị tiền tệ trong kế toán của Công ty là VND. Báo cáo tài chính riêng của Công ty được trình bày bằng ngân đồng Việt Nam ("Ngàn VND").
+
+3. TÓM TẮT CÁC CHÍNH SÁCH KẾ TOÁN CHỦ YẾU
+
+3.1 Tiền
+
+Tiền bao gồm tiền mặt tại quỹ và tiền gửi ngân hàng.
+
+3.2 Các khoản phải thu
+
+Các khoản phải thu được trình bày trên báo cáo tài chính riêng theo giá trị ghi sổ cửa các khoản phải thu từ khách hàng và phải thu khác sau khi cần trừ các khoản dự phòng được lập cho các khoản phải thu khó đòi.
+
+Dự phòng nợ phải thu khó đòi thể hiện phần giá trị của các khoản phải thu mà công ty dự kiến không có khả năng thu hồi tại ngày kết thúc ký kế toán năm, được lập theo hướng dẫn của Thông tư 228/2009/TT-BTC do Bộ Tài chính ban hành ngày 7 tháng 12 năm 2009 ("Thông tư 228"). Tăng hoặc giảm số dự tài khoản dự phòng được hạch toán vào chi phí quản lý doanh nghiệp trong báo cáo kết quả hoạt động kinh doanh riêng.
+
+3.3 Hàng tồn kho
+
+Hàng tồn kho được ghi nhận theo giá thấp hơn giữa giá thành để đưa mỗi sản phẩm đến vị trí và điều kiện hiện tại và giá trị thuần có thể thực hiện được.
+
+Giá trị thuần có thể thực hiện được là giá bán ước tính của hàng tồn kho trong điều kiện kinh doanh bình thường trừ chi phí ước tính để hoàn thành và chi phí bán hàng ước tính.
+
+Công ty áp dụng phương pháp kê khai thường xuyên để hạch toán hàng tồn kho với giá trị được xác định như sau:
+
+Nguyên vật liệu, công cụ, dụng cụ và hàng hóa
+
+- Chi phí mua theo phương pháp bình quân gia quyền.
+
+Dự phòng giảm giá hàng tồn kho
+
+Dự phòng giảm giá hàng tồn kho được trích lập cho phần giá trị dự kiến bị tổn thất do các khoản suy giảm trong giá trị (do giảm giá, kém phẩm chất, lỗi thời v.v.) có thể xây ra đối với hàng hóa và các loại hàng tồn kho khác thuộc quyền sở hữu của Công ty dựa trên bằng chứng hợp lý về sự suy giảm giá trị tại ngày kết thúc kỳ kế toán năm.
+
+Số tăng hoặc giảm dự phòng giảm giá hàng tồn kho được hạch toán vào giá vốn hàng bán trong báo cáo kết quả hoạt động kinh doanh riêng.
+
+13
+
+===== PAGE 16 =====
+Công ty Cổ phần Nông nghiệp Quốc tế Hoàng Anh Gia Lai
+
+B09-DN
+
+THUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG (tiếp theo)
+
+ngày 31 tháng 12 năm 2017 và cho năm tài chính kết thúc cùng ngày
+
+3. TÓM TẮT CÁC CHÍNH SÁCH KẾ TOÁN CHỦ YẾU (tiếp theo)
+
+3.4 Tài sản cố định hữu hình
+
+Tài sản cố định hữu hình được thể hiện theo nguyên giá trừ giá trị khấu hao lũy kê.
+
+Nguyên giá tài sản cố định hữu hình bao gồm giá mua và những chi phí có liên quan trực tiếp đến việc đưa tài sản vào hoạt động như dự kiến. Các chi phí mua sắm, nâng cấp và đổi mới tài sản cố định hữu hình được ghi tăng nguyên giá của tài sản và các chi phí khác được hạch toán vào báo cáo kết quả hoạt động kinh doanh riêng khi phát sinh.
+
+Khi tài sản cố định hữu hình được bán hay thanh lý, các khoản lãi hoặc lỗ phát sinh do thanh lý tài sản (là phần chênh lệch giữa giữa tiền thu thuần từ việc bán tài sản với giá trị còn lại của tài sản) được hạch toán vào báo cáo kết quả hoạt động kinh doanh riêng.
+
+3.5 Tài sản cố định vô hình
+
+Tài sàn có định vô hình được ghi nhận theo nguyên giá trừ đi giá trị hao mòn lũy kế.
+
+Nguyên giá tài sản cố định vô hình bao gồm giá mua và những chi phí có liên quan trực tiếp đến việc đưa tài sản vào sử dụng như dự kiến. Các chi phí mua sắm, nâng cấp và đổi mới tài sản cố định vô hình được ghi tăng nguyên giá của tài sản và các chi phí khác được hạch toán vào báo cáo kết quả hoạt động kinh doanh riêng khi phát sinh.
+
+Khi tài sản cố định vô hình được bán hay thanh lý, các khoản lãi hoặc lỗ phát sinh do thanh lý tài sản (là phần chênh lệch giữa giữa tiền thu thuần từ việc bán tài sản với giá trị còn lại của tài sản) được hạch toán vào báo cáo kết quả hoạt động kinh doanh riêng.
+
+3.6 Khấu hao và hao mòn
+
+Khấu hao tài sản cố định hữu hình và hao mòn tài sản cố định vô hình được trích theo phương pháp đường thẳng trong suốt thời gian hữu dụng ước tính của các tài sản như sau:
+
+<table><tr><td>Nhà cửa và vật kiến trúc</td><td>10 năm</td></tr><tr><td>Máy móc và thiết bị</td><td>3 – 10 năm</td></tr><tr><td>Phương tiện vận chuyển</td><td>6 – 10 năm</td></tr><tr><td>Thiết bị văn phòng</td><td>4 – 5 năm</td></tr><tr><td>Chương trình phần mềm</td><td>5 – 8 năm</td></tr></table>
+
+3.7 Chi phí đi vay
+
+Chi phí đi vay bao gồm lãi tiền vay và các chi phí khác phát sinh liên quan trực tiếp đến các khoản vay của Công ty và được hạch toán như chi phí phát sinh trong năm.
+
+3.8 Chi phí trả trước
+
+Chi phí trả trước bao gồm các chi phí trả trước ngắn hạn hay dài hạn trên bằng cân đối kế toán riêng và được phân bổ trong khoảng thời gian trả trước của chi phí tương ứng với các lợi ích kinh tế được tạo ra từ các chi phí này.
+
+14
+
+《》
+
+===== PAGE 17 =====
+Công ty Cổ phần Nông nghiệp Quốc tế Hoàng Anh Gia Lai
+
+B09-DN
+
+THUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG (tiếp theo)
+
+ngày 31 tháng 12 năm 2017 và cho năm tài chính kết thúc cùng ngày
+
+3. TÓM TẮT CÁC CHÍNH SÁCH KẾ TOÁN CHỦ YẾU (tiếp theo)
+
+3.9 Các khoản đầu tư
+
+Đầu tư vào các công ty con
+
+Khoản đầu tư vào các công ty con mà trong đó Công ty nấm quyền kiểm soát được trình bày theo phương pháp giá gốc.
+
+Các khoản phân phối lợi nhuận mà Công ty nhận được từ số lợi nhuận lũy kế cửa công ty con sau ngày Công ty nằm quyền kiểm soát được ghi nhận vào báo cáo kết quả hoạt động kinh doanh riêng. Các khoản phân phối khác được xem như phần thu hồi của các khoản đầu tư và được trừ vào giá trị đầu tư.
+
+Đầu tư vào công ty liên kết
+
+Khoản đầu tư vào công ty liên kết mà trong đó Công ty có ảnh hưởng đáng kể được trình bày theo phương pháp giá gốc.
+
+Các khoản phân phối lợi nhuận tử số lợi nhuận thuần lũy kế của các công ty liên kết sau ngày Công ty có ảnh hưởng đáng kể được ghi nhận vào báo cáo kết quả hoạt động kinh doanh riêng. Các khoản phân phối khác được xem như phần thu hồi các khoản đầu tư và được trừ vào giá trị đầu tư.
+
+Dự phòng giảm giá trị các khoản đầu tư
+
+Dự phòng được lập cho việc giảm giá trị của các khoản đầu tư góp vốn vào ngày kết thúc ký kể toán năm được lập theo hướng dẫn của Thông tư 228 và Thông tư số 89/2013/TT-BTC do Bộ Tài chính ban hành vào ngày 28 tháng 6 năm 2013. Tăng hoặc giảm số dự tài khoản dự phòng được hạch toán vào chí phí tài chính trong báo cáo kết quả hoạt động kinh doanh riêng.
+
+3.10 Các khoản phải trả và chi phí trích trước
+
+Các khoản phải trả và chi phí trích trước được ghi nhận cho số tiền phải trả trong tương lai liên quan đến hàng hóa và dịch vụ đã nhận được mà không phụ thuộc vào việc Công ty đã nhận được hóa đơn của nhà cung cấp hay chưa.
+
+3.11 Các nghiệp vụ bằng ngoại tệ
+
+Các nghiệp vụ phát sinh bằng các đơn vị tiền tệ khác với đơn vị tiền tệ kế toán của Công ty (VND) được hạch toán theo tỷ giá giao dịch thực tế vào ngày phát sinh nghiệp vụ theo nguyên tắc sau:
+
+- Nghiệp vụ làm phát sinh các khoản phải thu được hạch toán theo tỷ giá mua của ngân hàng thương mại nơi Công ty chỉ định khách hàng thanh toán; và
+
+- Nghiệp vụ làm phát sinh các khoản phải trả được hạch toán theo tỷ giá bán của ngân hàng thương mại nơi Công ty dự kiến giao dịch.
+
+Tại ngày kết thúc kỳ kế toán năm, các khoản mục tiền tệ có gốc ngoại tệ được đánh giá lại theo tỷ giá giao dịch thực tế tại ngày của bằng cân đối kế toán riêng theo nguyên tắc sau:
+
+- Các khoản mục tiền tệ được phân loại là tài sản được hạch toán theo tỷ giá mua của ngân hàng thương mại nơi Công ty thường xuyên có giao dịch; và
+
+- Các khoản mục tiền tệ được phân loại là nợ phải trả được hạch toán theo tỷ giá bán của ngân hàng thương mại nơi Công ty thường xuyên có giao dịch.
+
+Tất cả các khoản chênh lệch tỷ giá thực tế phát sinh trong năm và chênh lệch do đánh giá lại số dư tiền tệ có gốc ngoại tệ cuối năm được hạch toán vào báo cáo kết quả hoạt động kinh doanh riêng.
+
+15
+
+《义》
+
+===== PAGE 18 =====
+Công ty Cổ phần Nông nghiệp Quốc tế Hoàng Anh Gia Lai
+
+B09-DN
+
+THUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG (tiếp theo)
+
+ngày 31 tháng 12 năm 2017 và cho năm tài chính kết thúc cùng ngày
+
+3. TÓM TẮT CÁC CHÍNH SÁCH KẾ TOÁN CHỦ YÉU (tiếp theo)
+
+3.12 Phân chia lợi nhuận
+
+Lợi nhuận thuần sau thuế có thể được chia cho các cổ đông sau khi được Đại Hội đồng Cổ đông phê duyệt và sau khi đã trích lập các quỹ dự phòng theo Điều lệ của Công ty và các quy định của pháp luật Việt Nam.
+
+3.13 Ghi nhận doanh thu
+
+Doanh thu được ghi nhận khi Công ty có khả năng nhận được các lợi ích kinh tế có thể xác định được một cách chắc chắn. Doanh thu được xác định theo giá trị hợp lý của các khoản đã thu hoặc sẽ thu được sau khi trừ đi các khoản chiết khấu thương mại, giảm giá hàng bán và hàng bản bị trả lại. Các điều kiện ghi nhận cụ thể sau đây cũng phải được đáp ứng khi ghi nhận doanh thu:
+
+Doanh thu bán hàng
+
+Doanh thu bán hàng được ghi nhận khi các rủi ro trọng yếu và các quyền sở hữu hàng hóa đã được chuyển sang người mua, thường là trùng với thời điểm chuyển giao hàng hóa.
+
+Tiền lãi
+
+Tiền lãi được ghi nhận khi phát sinh trên cơ sở dồn tích (có tính đến lợi tức mà tài sản mang lại) trừ khi khả năng thu hồi tiền lãi không chắc chắn.
+
+Cô túc
+
+Cổ tức được ghi nhận khi quyền được nhận khoản thanh toán cổ tức của Công ty được xác lập.
+
+3.14 Thuế
+
+Thuế thu nhập hiện hành
+
+Tài sản thuế thu nhập và thuế thu nhập phải nộp cho năm hiện hành và các năm trước được xác định bằng số tiền dự kiến được thu hồi hoặc phải nộp cho cơ quan thuế, dựa trên các mức thuế suất và các luật thuế có hiệu lực đến ngày kết thúc ký kế toán năm.
+
+Thuế thu nhập hiện hành được ghi nhận vào báo cáo kết quả hoạt động kinh doanh riêng ngoại trừ trường hợp thuế thu nhập phát sinh liên quan đến một khoản mục được ghi thẳng vào vốn chủ sở hữu, trong trường hợp này, thuế thu nhập hiện hành cũng được ghi nhận trực tiếp vào vốn chủ sở hữu.
+
+16
+
+11.7/<2016>
+
+===== PAGE 19 =====
+Công ty Cổ phần Nông nghiệp Quốc tế Hoàng Anh Gia Lai
+
+B09-DN
+
+THUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG (tiếp theo)
+
+ngày 31 tháng 12 năm 2017 và cho năm tài chính kết thúc cùng ngày
+
+3. TÓM TẮT CÁC CHÍNH SÁCH KẾ TOÁN CHỦ YÉU (tiếp theo)
+
+3.14 Thuế (tiếp theo)
+
+Thuế thu nhập hiện hành (tiếp theo)
+
+Công ty chỉ được bù trừ các tài sản thuế thu nhập hiện hành và thuế thu nhập hiện hành phải nộp khi Công ty có quyền hợp pháp được bù trừ giữa tài sản thuế thu nhập hiện hành với thuế thu nhập hiện hành phải nộp và Công ty dự định thanh toán thuế thu nhập hiện hành phải nộp và tài sản thuế thu nhập hiện hành trên cơ sở thuần.
+
+Thuế thu nhập hoãn lại
+
+Thuế thu nhập hoãn lại được xác định cho các khoản chênh lệch tạm thời tại ngày kết thúc kỳ kế toán năm giữa cơ sở tính thuế thu nhập của các tài sản và nợ phải trả và giá trị ghi sổ của chúng cho mục đích lập báo cáo tài chính riêng.
+
+Thuế thu nhập hoãn lại phải trả được ghi nhận cho tất cả các khoản chênh lệch tạm thời chịu thuế, ngoại trừ:
+
+Thuế thu nhập hoãn lại phải nộp phát sinh từ ghi nhận ban đầu của một tài sản hay nợ phải trả từ một giao dịch mà giao dịch này không có ảnh hưởng đến lợi nhuận kế toán và lợi nhuận tính thuế thu nhập (hoặc lỗ tính thuế) tại thời điểm phát sinh giao dịch; và
+
+Tất cả các chênh lệch tạm thời chịu thuế gắn liền với các khoản đầu tư vào các công ty con và công ty liên kết khi Công ty có khả năng kiểm soát thời gian hoàn nhập khoản chênh lệnh tạm thời và chắc chắn khoản chênh lệch tạm thời sẽ không được hoàn nhập trong tương lai có thể dự đoán.
+
+Tài sản thuế thu nhập hoãn lại cần được ghi nhận cho tất cả các chênh lệch tạm thời được khấu trừ, giả trị được khấu trừ chuyển sang các năm sau của các khoản lỗ tính thuế và các khoản ưu đãi thuế chưa sử dụng, khi chắc chắn trong tương lai sẽ có lợi nhuận tính thuế để sử dụng những chênh lệch tạm thời được khấu trừ, các khoản lỗ tính thuế và các ưu đãi thuế chưa sử dụng này, ngoại trừ:
+
+Tài sản thuế hoãn lại phát sinh từ ghi nhận ban đầu của một tài sản hoặc nợ phải trả từ một giao dịch mà giao dịch này không có ảnh hưởng đến lợi nhuận kế toán và lợi nhuận tính thuế thu nhập (hoặc lỗ tính thuế) tại thời điểm phát sinh giao dịch; và
+
+Đối với các chênh lệch tạm thời được khấu trừ phát sinh từ các khoản đầu tư vào các công ty con và công ty liên kết, tài sản thuế thu nhập hoãn lại chỉ được ghi nhận khi chắc chắn là chênh lệh tạm thời sẽ được hoàn nhập trong tương lai có thể dự đoán được và có lợi nhuận chịu thuế để sử dụng được khoản chênh lệch tạm thời đó.
+
+Giá trị ghi sổ cửa tài sản thuế thu nhập doanh nghiệp hoãn lại được xem xét lại vào ngày kết thúc ký kế toán năm và phải ghi giảm giá trị ghi sổ của tài sản thuế thu nhập hoãn lại đến mức bảo đảm chắc chắn có đủ lợi nhuận tính thuế cho phép lợi ích của một phần hoặc toàn bộ tài sản thuế thu nhập hoãn lại được sử dụng. Các tài sản thuế thu nhập doanh nghiệp hoãn lại chưa được ghi nhận trước đầy được xem xét lại vào ngày kết thúc ký kế toán năm và được ghi nhận khi chắc chắn có đủ lợi nhuận tính thuế trong tương lai để có thể sử dụng các tài sản thuế thu nhập hoãn lại chưa ghi nhận này.
+
+Tài sản thuế thu nhập hoãn lại và thuế thu nhập hoãn lại phải trả được xác định theo thuế suất dự tính sẽ áp dụng cho kỳ kế toán năm khi tài sản được thu hồi hay nợ phải trả được thanh toán, dựa trên các mức thuế suất và luật thuế có hiệu lực vào ngày kết thúc kỳ kế toán năm.
+
+Thuế thu nhập hoãn lại được ghi nhận vào báo cáo kết quả hoạt động kinh doanh riêng ngoại trừ trường hợp thuế thu nhập phát sinh liên quan đến một khoản mục được ghi thắng vào vốn chủ sở hữu, trong trường hợp này, thuế thu nhập hoãn lại cũng được ghi nhận trực tiếp vào vốn chủ sở hữu.
+
+Công ty chỉ được bù trừ các tài sản thuế thu nhập hoãn lại và thuế thu nhập hoãn lại phải nộp khi Công ty có quyền hợp pháp được bù trừ giữa tài sản thuế thu nhập hiện hành với thuế thu nhập hiện hành phải nộp và các tài sản thuế thu nhập hoãn lại và thuế thu nhập hoãn lại phải trả này liên quan tới thuế thu nhập doanh nghiệp được quản lý bởi cùng một cơ quan thuế đối với cùng một đơn vị chịu thuế.
+
+17
+
+||y| = y = ∂ 101
+
+===== PAGE 20 =====
+Công ty Cổ phần Nông nghiệp Quốc tế Hoàng Anh Gia Lai
+
+B09-DN
+
+THUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG (tiếp theo)
+
+ngày 31 tháng 12 năm 2017 và cho năm tài chính kết thúc cùng ngày
+
+3. TÓM TẮT CÁC CHÍNH SÁCH KẾ TOÁN CHỦ YÉU (tiếp theo)
+
+3.14 Bên liên quan
+
+Được coi là bên liên quan là các doanh nghiệp – kể cả công ty mẹ, công ty con, công ty liên kết – các cá nhân, trực tiếp hay gián tiếp qua một hoặc nhiều trung gian, có quyền kiểm soát Công ty hoặc chịu sự kiểm soát của Công ty, hoặc cũng chung kiểm soát với Công ty. Các bên liên kết, các cá nhân nào trực tiếp hoặc gián tiếp nằm quyền biểu quyết của Công ty mà có ảnh hưởng đáng kể đối với Công ty, những chức trách quản lý chủ chất như giám đốc, viên chức của Công ty, những thành viên thân cận trong gia đình của các cá nhân hoặc các bên liên kết này hoặc những công ty liên kết với các cá nhân này cũng được coi là bên liên quan.
+
+Trong việc xem xét mối quan hệ của từng bên liên quan, bản chất của mối quan hệ được chú ý chữ không phải là hình thức pháp lý.
+
+4. TIỀN
+
+<table><tr><td></td><td>Số cuối năm</td><td>Ngàn VND Số đầu năm</td></tr><tr><td>Tiền mặt</td><td>286.790</td><td>138.078</td></tr><tr><td>Tiền gửi ngân hàng</td><td>24.126.743</td><td>143.954.654</td></tr><tr><td>TỔNG CỘNG</td><td>24.413.533</td><td>144.092.732</td></tr></table>
+
+5. PHÀI THU NGÁN HẠN CỦA KHÁCH HÀNG
+
+<table><tr><td></td><td>Số cuối năm</td><td>Ngàn VND Số đầu năm</td></tr><tr><td>Phải thu từ các bên liên quan (Thuyết minh số 25)</td><td>111.492.402</td><td>45.077.426</td></tr><tr><td>Phải thu từ các bên thứ ba</td><td>91.062.612</td><td>30.858.935</td></tr><tr><td>- Công ty TNHH MTV Thương mại Thành An</td><td>34.400.372</td><td>8.512.668</td></tr><tr><td>- Ông Trần Trọng Hùng</td><td>21.582.351</td><td>12.464.980</td></tr><tr><td>- Công ty Cổ phần Nông Lâm NghiệpCánh Đồng Vàng</td><td>13.023.310</td><td>705.597</td></tr><tr><td>- Khách hàng khác</td><td>22.056.579</td><td>9.175.690</td></tr><tr><td>TỔNG CỘNG</td><td>202.555.014</td><td>75.936.361</td></tr></table>
+
+6. TRÀ TRƯỚC CHO NGƯỜI BÁN NGẮN HẠN
+
+<table><tr><td></td><td>Số cuối năm</td><td>Ngàn VND Số đầu năm</td></tr><tr><td>Trả trước cho các bên liên quan(Thuyết minh số 25)</td><td>225.454.321</td><td>3.805.424</td></tr><tr><td>Trả trước cho các bên thứ ba</td><td>11.559.824</td><td>3.599.840</td></tr><tr><td>TỔNG CỘNG</td><td>237.014.145</td><td>7.405.264</td></tr></table>
+
+18
+
+1
+
+===== PAGE 21 =====
+Công ty Cổ phần Nông nghiệp Quốc tế Hoàng Anh Gia Lai
+
+B09-DN
+
+THUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG (tiếp theo)
+
+ngày 31 tháng 12 năm 2017 và cho năm tài chính kết thúc cùng ngày
+
+7. PHẢI THU NGẮN HẠN VÀ DÀI HẠN KHÁC
+
+<table><tr><td></td><td>Số cuối năm</td><td>Ngàn VND Số đầu năm</td></tr><tr><td>Ngắn hạn</td><td>497.315.724</td><td>1.916.924.489</td></tr><tr><td>Phải thu lãi cho vay</td><td>453.186.982</td><td>1.790.227.345</td></tr><tr><td>Thanh toán hộ</td><td>-</td><td>21.076.098</td></tr><tr><td>Khác</td><td>44.128.742</td><td>105.621.046</td></tr><tr><td>Dài hạn</td><td>1.255.194.685</td><td>21.124.457</td></tr><tr><td>Phải thu lãi cho vay</td><td>1.250.194.685</td><td>21.124.457</td></tr><tr><td>Khác</td><td>5.000.000</td><td>-</td></tr><tr><td>TỔNG CỘNG</td><td>1.752.510.409</td><td>1.938.048.946</td></tr><tr><td colspan="3">Trong đó:</td></tr><tr><td>Phải thu dài hạn các bên liên quan(Thuyết minh số 25)</td><td>1.250.194.685</td><td>21.124.457</td></tr><tr><td>Phải thu ngắn hạn các bên liên quan(Thuyết minh số 25)</td><td>459.639.964</td><td>1.915.427.244</td></tr><tr><td>Phải thu các bên thứ ba</td><td>42.675.760</td><td>1.497.245</td></tr></table>
+
+8. HÀNG TÔN KHO
+
+<table><tr><td></td><td>Số cuối năm</td><td>Ngàn VND Số đầu năm</td></tr><tr><td>Hàng hóa</td><td>13.307.332</td><td>2.414.654</td></tr><tr><td>Công cụ, dụng cụ</td><td>161.438</td><td>298.963</td></tr><tr><td>Nguyên vật liệu</td><td>101.831</td><td>73.339</td></tr><tr><td>TỔNG CỘNG</td><td>13.570.601</td><td>2.786.956</td></tr><tr><td>Dự phòng giảm giá hàng tồn kho</td><td>(376.037)</td><td>(272.600)</td></tr><tr><td>GIÁ TRỊ THUẦN</td><td>13.194.564</td><td>2.514.356</td></tr></table>
+
+19
+
+11:1 → 3 < 1-1
+
+===== PAGE 22 =====
+Công ty Cổ phần Nông nghiệp Quốc tế Hoàng Anh Gia Lai
+
+B09-DN
+
+THUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG (tiếp theo)
+
+ngày 31 tháng 12 năm 2017 và cho năm tài chính kết thúc cùng ngày
+
+9. TÀI SẢN CÓ ĐỊNH HỮU HÌNH
+
+<table><tr><td></td><td>Nhà cửa và vật kiến trúc</td><td>Máy móc và thiết bị</td><td>Phương tiện vận chuyển</td><td>Thiết bị văn phòng</td><td>Ngàn VND Tổng cộng</td></tr><tr><td colspan="6">Nguyên giá</td></tr><tr><td>Số đầu năm</td><td>5.756.830</td><td>17.006.391</td><td>5.078.185</td><td>415.157</td><td>28.256.563</td></tr><tr><td>Mua mới</td><td>4.420.218</td><td>458.110</td><td>1.766.111</td><td>-</td><td>6.644.439</td></tr><tr><td>Thanh lý</td><td>(10.177.048)</td><td>(551.082)</td><td>(1.853.593)</td><td>-</td><td>(12.581.723)</td></tr><tr><td>Phân loại lại</td><td>-</td><td>92.972</td><td>-</td><td>(92.972)</td><td>-</td></tr><tr><td>Số cuối năm</td><td>-</td><td>17.006.391</td><td>4.990.703</td><td>322.185</td><td>22.319.279</td></tr><tr><td>Trong đó: Đã khấu hao hết</td><td>-</td><td>15.781.387</td><td>797.302</td><td>281.274</td><td>16.859.963</td></tr><tr><td colspan="6">Khấu hao lũy kế</td></tr><tr><td>Số đầu năm</td><td>189.524</td><td>14.938.475</td><td>2.596.464</td><td>284.187</td><td>18.008.650</td></tr><tr><td>Khấu hao trong năm</td><td>287.965</td><td>1.345.524</td><td>707.606</td><td>8.182</td><td>2.349.277</td></tr><tr><td>Thanh lý</td><td>(477.489)</td><td>(11.950)</td><td>(389.253)</td><td>-</td><td>(878.692)</td></tr><tr><td>Phân loại lại</td><td>-</td><td>1.550</td><td>-</td><td>(1.550)</td><td>-</td></tr><tr><td>Số cuối năm</td><td>-</td><td>16.273.599</td><td>2.914.817</td><td>290.819</td><td>19.479.235</td></tr><tr><td colspan="6">Giá trị còn lại</td></tr><tr><td>Số đầu năm</td><td>5.567.306</td><td>2.067.916</td><td>2.481.721</td><td>130.970</td><td>10.247.913</td></tr><tr><td>Số cuối năm</td><td>-</td><td>732.792</td><td>2.075.886</td><td>31.366</td><td>2.840.044</td></tr></table>
+
+20
+
+||正 2.500
+
+===== PAGE 23 =====
+Công ty Cổ phần Nông nghiệp Quốc tế Hoàng Anh Gia Lai
+
+B09-DN
+
+THUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG (tiếp theo)
+
+ngày 31 tháng 12 năm 2017 và cho năm tài chính kết thúc cùng ngày
+
+10. TÀI SẢN CÓ ĐỊNH VÔ HÌNH
+
+<table><tr><td></td><td>Ngàn VNDChương trìnhphần mềm</td></tr><tr><td colspan="2">Nguyên giá</td></tr><tr><td>Số đầu năm và số cuối năm</td><td>48.197.185</td></tr><tr><td>Trong đó:Đã hao mòn hết</td><td>333.210</td></tr><tr><td colspan="2">Hao mòn lũy kế</td></tr><tr><td>Số đầu năm</td><td>17.783.617</td></tr><tr><td>Hao mòn trong năm</td><td>5.982.997</td></tr><tr><td>Số cuối năm</td><td>23.766.614</td></tr><tr><td colspan="2">Giá trị còn lại</td></tr><tr><td>Số đầu năm</td><td>30.413.568</td></tr><tr><td>Số cuối năm</td><td>24.430.571</td></tr></table>
+
+11. ĐẦU TƯ TÀI CHÍNH DÀI HẠN
+
+<table><tr><td></td><td>Số cuối năm</td><td>Ngàn VND Số đầu năm</td></tr><tr><td>Đầu tư vào các công ty con(Thuyết minh số 11.1)</td><td>11.188.437.485</td><td>12.563.586.935</td></tr><tr><td>Đầu tư vào công ty liên kết(Thuyết minh số 11.2)</td><td>286.004.636</td><td>286.004.636</td></tr><tr><td>TỔNG CỘNG</td><td>11.474.442.121</td><td>12.849.591.571</td></tr><tr><td>Dự phòng đầu tư tài chính dài hạn</td><td>(64.124.964)</td><td>(106.429.442)</td></tr><tr><td>GIÁ TRỊ THUẦN</td><td>11.410.317.157</td><td>12.743.162.129</td></tr></table>
+
+21
+
+1104 2581 161
+
+===== PAGE 24 =====
+Công ty Cổ phần Nông nghiệp Quốc tế Hoàng Anh Gia Lai
+
+B09-DN
+
+THUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG (tiếp theo)
+
+ngày 31 tháng 12 năm 2017 và cho năm tài chính kết thúc cùng ngày
+
+11. ĐẦU TƯ TÀI CHÍNH DÀI HẠN (tiếp theo)
+
+11.1 Đầu tư vào công ty con
+
+Chi tiết các khoản đầu tư vào các công ty con như sau:
+
+<table><tr><td rowspan="2">Tên công ty con</td><td rowspan="2">Lĩnh vực kinh doanh</td><td colspan="3">Số cuối năm</td><td colspan="3">Số đầu năm</td></tr><tr><td>Tỷ lệ sở hữu %</td><td>Giá gốc đầu tư Ngân VND</td><td>Dự phòng Ngân VND</td><td>Tỷ lệ sở hữu %</td><td>Giá gốc đầu tư Ngân VND</td><td>Dự phòng Ngân VND</td></tr><tr><td>Công ty Cổ phần Cao su Trung Nguyên</td><td>Trồng cây công nghiệp và nông nghiệp, và chăn nuôi bò</td><td>99,91</td><td>3.277.737.120</td><td>-</td><td>99.91</td><td>3.277.737.120</td><td>-</td></tr><tr><td>Công ty TNHH Phát triển Nông nghiệp Hoàng Anh Attapeu</td><td>Trồng cây công nghiệp và nông nghiệp, chăn nuôi bò và xây dựng</td><td>100,00</td><td>2.101.029.560</td><td>-</td><td>100.00</td><td>2.101.029.560</td><td>-</td></tr><tr><td>Công ty TNHH Đầu tư và Phát triển Cao su Đông Dương</td><td>Trồng cây công nghiệp</td><td>100,00</td><td>1.650.000.000</td><td>-</td><td>100.00</td><td>1.650.000.000</td><td>-</td></tr><tr><td>Công ty Cổ phần Mía đường Hoàng Anh Gia Lai (I)</td><td>Trồng cây công nghiệp và chăn nuôi bò</td><td>-</td><td>-</td><td>-</td><td>99.99</td><td>1.375.149.450</td><td>-</td></tr><tr><td>Công ty TNHH Hoàng Anh Rattanakiri</td><td>Trồng cây công nghiệp</td><td>100,00</td><td>943.513.645</td><td>-</td><td>100.00</td><td>943.513.645</td><td>-</td></tr><tr><td>Công ty Cổ phần Đông Pênh</td><td>Trồng cây công nghiệp</td><td>99,70</td><td>798.397.600</td><td>-</td><td>99.70</td><td>798.397.600</td><td>-</td></tr><tr><td>Công ty Cổ phần An Đông Mia</td><td>Trồng cây công nghiệp</td><td>69,50</td><td>695.695.001</td><td>-</td><td>69.50</td><td>695.695.001</td><td>-</td></tr><tr><td>Công ty Cổ phần Bò sữa Tây Nguyên</td><td>Chăn nuôi bò</td><td>99,00</td><td>615.584.549</td><td>-</td><td>99.00</td><td>615.584.549</td><td>(21.242.922)</td></tr><tr><td>Công ty Cổ phần Cao su Hoàng Anh – Quang Minh</td><td>Trồng cây công nghiệp và nông nghiệp, và chăn nuôi bò</td><td>97,77</td><td>440.512.398</td><td>-</td><td>97.77</td><td>440.512.398</td><td>-</td></tr><tr><td>Công ty Cổ phần Hoàng Anh Đắk Lắk</td><td>Trồng cây công nghiệp và kinh doanh bất động sản</td><td>99,53</td><td>394.313.155</td><td>-</td><td>99.53</td><td>394.313.155</td><td>(51.239.691)</td></tr><tr><td>Công ty TNHH Hoàng Anh Oyadav</td><td>Trồng cây công nghiệp</td><td>100,00</td><td>171.654.457</td><td>-</td><td>100.00</td><td>171.654.457</td><td>-</td></tr><tr><td>Công ty TNHH MTV Kinh doanh Xuất Nhập khẩu Hoàng Anh Gia Lai</td><td>Thương mại</td><td>100,00</td><td>100.000.000</td><td>(64.124.964)</td><td>100.00</td><td>100.000.000</td><td>(33.946.829)</td></tr><tr><td>TỔNG CỘNG</td><td></td><td></td><td>11.188.437.485</td><td>(64.124.964)</td><td></td><td>12.563.586.935</td><td>(106.429.442)</td></tr></table>
+
+22
+
+11.3.2 证明：
+
+===== PAGE 25 =====
+Công ty Cổ phần Nông nghiệp Quốc tế Hoàng Anh Gia Lai
+
+B09-DN
+
+THUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG (tiếp theo)
+
+ngày 31 tháng 12 năm 2017 và cho năm tài chính kết thúc cùng ngày
+
+11. ĐẦU TƯ TÀI CHÍNH DÀI HẠN (tiếp theo)
+
+11.1 Đầu tư vào công ty con (tiếp theo)
+
+(i) Công ty đã bàn giao các chức vụ quản lý chủ chốt của Công ty Cổ phần Mía đường Hoàng Anh Gia Lai ("Mía đường HAGL") và Công ty TNHH Mía đường Hoàng Anh Attapeu, công ty con của Mía đường HAGL, cùng với quyền vận hành, quản lý kinh doanh đối với nhà máy đường, nông trường mía và các tài sản liên quan thuộc dự án mía đường tại Lào cho một bên thứ ba từ ngày 31 tháng 8 năm 2016. Tại ngày lập báo cáo tài chính riêng này, các thủ tục pháp lý cần thiết liên quan đến giao dịch chuyển nhượng toàn bộ vốn góp trong Mía đường HAGL đã được hoàn tất.
+
+Theo Hợp đồng chuyển nhượng vốn góp trong Mía đường HAGL ngày 22 tháng 5 năm 2017 giữa Công ty, Công ty Cổ phần Đường Biên Hòa và Công ty Cổ phần Mía Đường Thành Thành Công Tây Ninh, cứng thỏa thuận ngày 15 tháng 6 năm 2017, Công ty cam kết chịu trách nhiệm vô điều kiện và không hủy ngang đối với bất kỳ khoản nợ, phạt, bồi thường, nghĩa vụ tài chính và/hoặc bất kỳ cam kết bảo lãnh, nhận nợ, biện pháp đảm bảo nào khác (dừ là hiện hữu chưa được phần ánh hoặc tiềm tàng) mà Nhóm Công ty Mía đường HAGL có nghĩa vụ thực hiện đối với bất kỳ bên thứ ba (bao gồm cả đối với Chính phủ Lào và/hoặc chính phủ Việt Nam) phát sinh vào và trước ngày 31 tháng 8 năm 2016.
+
+11.2 Đầu tư vào công ty liên kết
+
+<table><tr><td rowspan="2">Tên công ty</td><td rowspan="2">Lĩnh vực kinh doanh</td><td colspan="2">Số cuối năm</td><td colspan="2">Số đầu năm</td></tr><tr><td>Tỷ lệ sở hữu %</td><td>Giá trị đầu tư Ngân VND</td><td>Tỷ lệ sở hữu %</td><td>Giá trị đầu tư Ngân VND</td></tr><tr><td>Công ty Cổ phần Cao su Bidiphar</td><td>Trồng cây cao su</td><td>49,14</td><td>286.004.636</td><td>49,14</td><td>286.004.636</td></tr></table>
+
+12. PHÀI TRÀ NGƯỜI BÁN NGẮN HẠN
+
+<table><tr><td></td><td>Số cuối năm</td><td>Ngàn VND Số đầu năm</td></tr><tr><td>Phải trả cho các bên liên quan (Thuyết minh số 25)</td><td>147.945.974</td><td>56.350.535</td></tr><tr><td>Phải trả cho các bên thứ ba</td><td>20.446.753</td><td>16.107.549</td></tr><tr><td>TỔNG CỘNG</td><td>168.392.727</td><td>72.458.084</td></tr></table>
+
+13. NGƯỜI MUA TRÀ TIỀN TRƯỚC NGẤN HẠN
+
+<table><tr><td></td><td>Số cuối năm</td><td>Ngàn VND Số đầu năm</td></tr><tr><td>Bên thứ ba trả tiền trước</td><td>84.896.511</td><td>-</td></tr><tr><td>Bên liên quan trả tiền trước (Thuyết minh số 25)</td><td>30.304.994</td><td>-</td></tr><tr><td>TỔNG CỘNG</td><td>115.201.505</td><td>-</td></tr></table>
+
+23
+
+===== PAGE 26 =====
+Công ty Cổ phần Nông nghiệp Quốc tế Hoàng Anh Gia Lai
+
+B09-DN
+
+THUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG (tiếp theo)
+
+ngày 31 tháng 12 năm 2017 và cho năm tài chính kết thúc cùng ngày
+
+14. CHI PHÍ PHẢI TRẢ NGẮN HẠN VÀ DÀI HẠN
+
+<table><tr><td></td><td>Số cuối năm</td><td>Ngàn VND Số đầu năm</td></tr><tr><td>Ngắn hạn</td><td>189.610.019</td><td>49.257.238</td></tr><tr><td>Chi phí phải trả phát sinh khi thanh lý công ty con</td><td>152.450.400</td><td>-</td></tr><tr><td>Chi phí lãi vay</td><td>430.616</td><td>24.012.500</td></tr><tr><td>Khác</td><td>36.729.003</td><td>25.244.738</td></tr><tr><td>Dài hạn</td><td>-</td><td>62.765.852</td></tr><tr><td>Chi phí lãi vay</td><td>-</td><td>62.765.852</td></tr><tr><td>TỔNG CỘNG</td><td>189.610.019</td><td>112.023.090</td></tr></table>
+
+15. PHÀI TRÀ NGẤN HẠN VÀ DÀI HẠN KHÁC
+
+<table><tr><td></td><td>Số cuối năm</td><td>Ngàn VND Số đầu năm</td></tr><tr><td>Ngắn hạn</td><td>1.504.320.548</td><td>366.505.359</td></tr><tr><td>Nhận góp vốn từ các cổ đông (*)</td><td>1.197.000.000</td><td>-</td></tr><tr><td>Công ty Cổ phần Hưng Thắng Lợi</td><td>500.000.000</td><td>-</td></tr><tr><td>Ông Nguyễn Thanh Quang</td><td>232.335.000</td><td>-</td></tr><tr><td>Ông Nguyễn Mạnh Hùng</td><td>232.330.000</td><td>-</td></tr><tr><td>Bà Vũ Thị Thủy Hương</td><td>232.335.000</td><td>-</td></tr><tr><td>Lãi vay</td><td>211.263.641</td><td>360.636.540</td></tr><tr><td>Mượn tiền</td><td>85.750.000</td><td>-</td></tr><tr><td>Cổ tức phải trả</td><td>4.506.440</td><td>4.506.440</td></tr><tr><td>Phải trả khác</td><td>5.800.467</td><td>1.362.379</td></tr><tr><td>Dài hạn</td><td>678.380.824</td><td>90.503.476</td></tr><tr><td>Lãi vay</td><td>678.380.824</td><td>90.503.476</td></tr><tr><td>TỔNG CỘNG</td><td>2.182.701.372</td><td>457.008.835</td></tr><tr><td colspan="3">Trong đó:</td></tr><tr><td>Phải trả các bên khác</td><td>1.139.678.635</td><td>204.580.094</td></tr><tr><td>Phải trả ngắn hạn bên liên quan(Thuyết minh số 25)</td><td>696.748.336</td><td>169.092.163</td></tr><tr><td>Phải trả dài hạn bên liên quan(Thuyết minh số 25)</td><td>346.274.401</td><td>83.336.578</td></tr></table>
+
+(*) Theo Nghị Quyết Đại hội đồng Cổ đông bất thường với hình thức lấy ý kiến cổ đông bằng văn bản số 1909/17/NQĐHĐCD-HAGL Agrico ngày 19 tháng 9 năm 2017, Công ty đã phát hành riêng lẻ 119.700.000 cổ phiếu để hoàn đối nợ vay thành vốn cổ phần với giá phát hành theo mệnh giá là 10.000 VND/cổ phiếu. Tại ngày 31 tháng 12 năm 2017 việc chào bán văn chưa được hoàn thành (Thuyết minh số 27).
+
+24
+
+11.2.1 = > 人
+
+===== PAGE 27 =====
+Công ty Cổ phần Nông nghiệp Quốc tế Hoàng Anh Gia Lai
+
+B09-DN
+
+THUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG (tiếp theo)
+
+ngày 31 tháng 12 năm 2017 và cho năm tài chính kết thúc cùng ngày
+
+16. THUÉ VÀ CÁC KHOÀN PHÀI NỘP, PHÀI THU NHÀ NƯỚC
+
+<table><tr><td></td><td>Số đầu năm</td><td>Số tăng trong năm</td><td>Số giảm trong năm</td><td>Ngàn VND Số cuối năm</td></tr><tr><td colspan="5">Phải thu</td></tr><tr><td>Thuế giá trị gia tăng</td><td>986.494</td><td>6.739.749</td><td>(4.800.227)</td><td>2.926.016</td></tr><tr><td>Thuế thu nhập doanh nghiệp (Thuyết minh số 24)</td><td>285.831</td><td>-</td><td>-</td><td>285.831</td></tr><tr><td>TỔNG CỘNG</td><td>1.272.325</td><td>6.739.749</td><td>(4.800.227)</td><td>3.211.847</td></tr><tr><td colspan="5">Phải trả</td></tr><tr><td>Thuế thu nhập cá nhân</td><td>229.158</td><td>928.845</td><td>(974.502)</td><td>183.501</td></tr><tr><td>TỔNG CỘNG</td><td>229.158</td><td>928.845</td><td>(974.502)</td><td>183.501</td></tr></table>
+
+17. VAY
+
+<table><tr><td></td><td>Số cuối năm</td><td>Ngàn VND Số đầu năm</td></tr><tr><td>Ngắn hạn</td><td>403.573.305</td><td>633.368.773</td></tr><tr><td>Vay ngắn hạn ngân hàng(Thuyết minh số 17.2)</td><td>299.597.754</td><td>-</td></tr><tr><td>Vay dài hạn trái phiếu đến hạn trả(Thuyết minh số 17.3)</td><td>86.717.200</td><td>297.091.268</td></tr><tr><td>Vay ngắn hạn bên liên quan(Thuyết minh số 17.1)</td><td>12.091.300</td><td>-</td></tr><tr><td>Vay dài hạn ngân hàng đến hạn trả(Thuyết minh số 17.4)</td><td>5.167.051</td><td>5.179.552</td></tr><tr><td>Vay dài hạn bên liên quan đến hạn trả(Thuyết minh số 17.5)</td><td>-</td><td>331.097.953</td></tr><tr><td>Dài hạn</td><td>5.095.823.404</td><td>8.114.175.884</td></tr><tr><td>Vay dài hạn bên liên quan(Thuyết minh số 17.5)</td><td>2.083.992.733</td><td>5.308.638.933</td></tr><tr><td>Vay dài hạn trái phiếu(Thuyết minh số 17.3)</td><td>2.030.418.476</td><td>1.817.205.919</td></tr><tr><td>Vay dài hạn ngân hàng(Thuyết minh số 17.4)</td><td>981.412.195</td><td>988.331.032</td></tr><tr><td>TỔNG CỘNG</td><td>5.499.396.709</td><td>8.747.544.657</td></tr></table>
+
+Tình hình tăng giảm các khoản vay như sau:
+
+<table><tr><td></td><td>Vay ngắn hạn</td><td>Ngàn VNDVay dài hạn</td></tr><tr><td>Số đầu năm</td><td>633.368.773</td><td>8.114.175.884</td></tr><tr><td>Tiền thu từ đi vay</td><td>1.241.328.437</td><td>147.701.650</td></tr><tr><td>Phân loại từ gia hạn hợp đồng</td><td>(205.836.317)</td><td>205.836.317</td></tr><tr><td>Tiền trả nợ gốc vay</td><td>(641.520.998)</td><td>(2.512.418.104)</td></tr><tr><td>Chỉ phí phát hành trái phiếu</td><td>-</td><td>8.838.489</td></tr><tr><td>Cán trừ với khoản phải thu</td><td>(623.754.088)</td><td>(865.929.747)</td></tr><tr><td>Chênh lệch tỷ giá hồi đoái do đánh giá lạicác khoản vay có gốc ngoại tệ</td><td>(12.502)</td><td>(2.381.085)</td></tr><tr><td>Số cuối năm</td><td>403.573.305</td><td>5.095.823.404</td></tr></table>
+
+25
+
+===== PAGE 28 =====
+Công ty Cổ phần Nông nghiệp Quốc tế Hoàng Anh Gia Lai
+
+B09-DN
+
+THUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG (tiếp theo)
+
+ngày 31 tháng 12 năm 2017 và cho năm tài chính kết thúc cùng ngày
+
+17. VAY (tiếp theo)
+
+17.1 Vay ngắn hạn bên liên quan (Thuyết minh số 25)
+
+Chi tiết vay ngắn hạn bên liên quan, tín chấp, nhằm mục đích bổ sung nhu cầu vốn lưu động của Công ty vào ngày 31 tháng 12 năm 2017 được trình bày như sau:
+
+<table><tr><td>Bên cho vay</td><td>Số cuối nămNgàn VND</td><td>Thời hạn thanh toán</td><td>Lãi suất%/ năm</td><td>Mục đích</td><td>Tài sản đảm bảo</td></tr><tr><td colspan="6">Công ty Cổ Phần Hưng Thắng Lợi</td></tr><tr><td>Hợp đồng vay số 01/HĐV-HTL, ngày 20 tháng 6 năm 2017</td><td>12.091.300</td><td>Ngày 22 tháng 6 năm 2018</td><td>4,2%</td><td>Bỗ sung vốn lưu động cho hoạt động kinh doanh (thanh toán các khoản nợ vay)</td><td>Tín chấp</td></tr></table>
+
+17.2 Vay ngắn hạn ngân hàng
+
+Chi tiết vay ngắn hạn ngân hàng vào ngày 31 tháng 12 năm 2017 được trình bày như sau:
+
+<table><tr><td>Bên cho vay</td><td>Số cuối năm</td><td>Thời hạn thanh toán</td><td>Lãi suất</td><td>Mục đích</td><td>Tài sản đảm bảo</td></tr><tr><td></td><td>Ngàn VND</td><td></td><td>%/ năm</td><td></td><td></td></tr></table>
+
+Ngân hàng Thương Mại Cổ phần Tiên Phong
+
+Hợp đồng vay số
+2104/HĐTD/TPBANK,
+ngày 21 tháng 4 năm 2017
+
+Không quá 9 tháng,
+được quy định cụ thể
+tại mỗi khế ước
+nhận nợ
+
+- Khi giải ngân bằng VND: lãi suất nằm đầu tiên 10%, sau đó thay đổi hàng quý bằng lãi suất cơ sở nằm hạn 3 tháng của TP Bank cộng biên độ 3,2% năm (2017: 10%/ năm)
+
+- Khi giải ngân bằng
+ngoại tệ, lãi suất TP
+Bank quy định tại thời
+điểm giải ngân
+
+Bổ sung vốn lưu động cho hoạt động kinh doanh trái cây (chanh dây, chuối, thanh long) và mũ cao su
+
+Tài sân cúa Công ty Cổ phần
+Chăn nuôi Gia Lai và Công ty
+TNHH Eastern (Cambodia) đã
+đang và sẽ hình thành lần lượt
+trên đất theo giấy chuyển
+nhượng quyền sử dụng đất,
+quyền sở hữu nhà ở và tài sản
+gán liền với đất số BY440746,
+diện tích 1.804.000 m2 và theo
+giấy chuyển nhượng quyền sở
+hữu đất tổ nhượng kinh tế tại
+Campuchia số Kor Ror 0185,
+diện tích 925ha
+
+26
+
+===== PAGE 29 =====
+Công ty Cổ phần Nông nghiệp Quốc tế Hoàng Anh Gia Lai
+
+B09-DN
+
+THUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG (tiếp theo)
+
+ngày 31 tháng 12 năm 2017 và cho năm tài chính kết thúc cùng ngày
+
+17. VAY (tiếp theo)
+
+17.3 Vay dài hạn trái phiếu
+
+Chi tiết trái phiếu thường vào ngày 31 tháng 12 năm 2017 được trình bày như sau:
+
+<table><tr><td>Tổ chức thu xếp phát hành</td><td>Số cuối năm</td><td>Ngàn VND Số đầu năm</td></tr><tr><td>Công ty Cổ phần Chứng khoán Euro Capital (&quot;ECS&quot;)</td><td>1.694.000.000</td><td>1.700.000.000</td></tr><tr><td>Công ty Cổ phần Chứng khoán IB (&quot;IB&quot;)</td><td>431.000.000</td><td>431.000.000</td></tr><tr><td>Chi phí phát hành trái phiếu</td><td>(7.864.324)</td><td>(16.702.813)</td></tr><tr><td>TỔNG CỘNG</td><td>2.117.135.676</td><td>2.114.297.187</td></tr><tr><td>Trong đó:</td><td></td><td></td></tr><tr><td>Vay dài hạn trái phiếu đến hạn trả</td><td>86.717.200</td><td>297.091.268</td></tr><tr><td>Vay dài hạn trái phiếu</td><td>2.030.418.476</td><td>1.817.205.919</td></tr></table>
+
+4 H0
+
+27
+
+M.S.D.N
+
+===== PAGE 30 =====
+Công ty Cổ phần Nông nghiệp Quốc tế Hoàng Anh Gia Lai
+
+B09-DN
+
+THUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG (tiếp theo)
+
+ngày 31 tháng 12 năm 2017 và cho năm tài chính kết thúc cùng ngày
+
+17. VAY (tiếp theo)
+
+17.3 Vay dài hạn trái phiếu (tiếp theo)
+
+Trái phiếu thường
+
+Chi tiết trái phiếu thường vào ngày 31 tháng 12 năm 2017 được trình bày như sau:
+
+<table><tr><td>Tổ chức thu xếp phát hành</td><td>Trái chủ</td><td>Số cuối năm Ngân VND</td><td>Thời hạn thanh toán</td><td>Lãi suất %/ năm</td><td>Mục đích</td><td>Tài sản thế chấp</td></tr><tr><td rowspan="2">ESC (*)</td><td>Ngân hàng TMCP Việt Nam Thịnh Vượng (“VPB”)</td><td>1.394.000.000</td><td>từ ngày 17 tháng 8 năm 2019 đến ngày 17 tháng 12 năm 2021</td><td rowspan="2">10,5%/ năm cho kỳ tính lãi đầu tiên và các kỳ tính lãi tiếp theo bằng tổng lãi suất tiết kiệm 12 tháng trả sau của VPB – Chi nhánh Sở Giao dịch cộng với biên độ 4,5%/năm (2017: 10,8 – 11,6)</td><td rowspan="2">Cơ cấu lại một phần nợ gốc trái phiếu kèm chứng quyền có tổng mệnh giá 2.000 tỷ VND (**) được phát hành vào tháng 12 năm 2012, bổ sung vốn cho các dự án đầu tư của Nhóm Công ty bao gồm dự án trồng và chăm sóc cây cao su, cọ đầu và mía đường tại Campuchia và Lào</td><td rowspan="2">181.717.250 cổ phiếu HNG được nắm giữ bởi Công ty Cổ Phần Hoàng Anh Gia Lai (“HAG”). Trong đó, 31.000.000 cổ phiếu HNG đã được dùng để đảm bảo cho trái phiếu có tổng mệnh giá 600 tỷ VND – Trái phiếu HAGL 600 do HAG phát hành</td></tr><tr><td>Ngân hàng TMCP Quốc dân(**)</td><td>300.000.000</td><td>từ ngày 17 tháng 2 năm 2019 đến ngày 17 tháng 12 năm 2021</td></tr><tr><td>IB</td><td>VPB</td><td>431.000.000</td><td>từ ngày 30 tháng 3 năm 2018 đến ngày 27 tháng 12 năm 2020</td><td>10,5%/năm cho kỳ tính lãi đầu tiên và các kỳ tính lãi tiếp theo bằng tổng lãi suất tiết kiệm 12 tháng trả sau của VPB cộng với biên độ 4,0%/năm (2017: 10,5 – 11,5)</td><td>Cơ cấu lại nợ của Công ty</td><td>195.345.440 cổ phiếu HNG được nắm giữ bởi HAG; và toàn bộ quyền sử dụng đất và tài sân gắn liền trên đất đối với 7.376 hecta đất tại Huyện Lumphat, Tĩnh Rattanakiri, Campuchia thuộc sở hữu của các công ty con của Công ty và 4.700.000 cổ phiếu HAG thuộc sở hữu của Chủ tịch Đoàn Nguyên Đức</td></tr></table>
+
+<table><tr><td>Chi phí phát hành</td><td>(7.864.324)</td></tr><tr><td>TỔNG CỘNG</td><td>2.117.135.676</td></tr><tr><td colspan="2">Trong đó:</td></tr><tr><td>Vay dài hạn trái phiếu</td><td>2.030.418.476</td></tr><tr><td>Vay dài hạn trái phiếu đến hạn trả</td><td>86.717.200</td></tr></table>
+
+28
+
+===== PAGE 31 =====
+Công ty Cổ phần Nông nghiệp Quốc tế Hoàng Anh Gia Lai
+
+B09-DN
+
+THUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG (tiếp theo)
+
+ngày 31 tháng 12 năm 2017 và cho năm tài chính kết thúc cùng ngày
+
+17. VAY (tiếp theo)
+
+17.3 Vay dài hạn trái phiếu (tiếp theo)
+
+(*) Theo thỏa thuận gia hạn trái phiếu ngày 10 tháng 2 năm 2017, VPB, trái chủ của khoản trái phiếu 1.400 tỷ VND đã đồng ý gia hạn thời gian hoàn trả trái phiếu và thời gian hoàn trả mới tối đa đến ngày 17 tháng 12 năm 2021.
+
+Theo thỏa thuận gia hạn trái phiếu ngày 10 tháng 3 năm 2017, NCB, trái chủ của khoản trái phiếu 300 tỷ VND đã đồng ý gia hạn thời gian hoàn trả trái phiếu và thời gian hoàn trả mới tối đa đến ngày 17 tháng 2 năm 2021.
+
+Vào ngày 31 tháng 12 năm 2017 và vào ngày lập báo cáo tài chính riêng này, giá trị tài sản đảm bảo không bằng tối thiểu 200% tổng mệnh giá trái phiếu theo điều khoản ràng buộc trong hợp đồng bảo đảm đã ký kết, và diện tích trồng cây cao su thực tế tại các công ty con của Công ty là 44.479 ha nhỏ hơn diện tích 70.643 ha đã đăng ký trong hợp đồng đặt mua trái phiếu.
+
+(**) Trái phiếu kèm chứng quyền
+
+Vào ngày 5 tháng 12 năm 2012, Công ty đã phát hành 20.000 trái phiếu với tổng giá trị là 2.000 tỷ VND (mệnh giá cho mỗi trái phiếu là 100 triệu VND) do VPBS thu xếp phát hành. Trái phiếu này phải hoàn trả sau ba (3) năm và được ân hạn thêm một (1) năm. Công ty đã mua lại 17.000 trái phiếu với tổng mệnh giá là 1.700 tỷ VND vào ngày 17 tháng 11 năm 2015 và 3.000 trái phiếu còn lại với tổng mệnh giá là 300 tỷ VND vào ngày 18 tháng 5 năm 2016.
+
+Ngoài ra, mỗi trái phiếu phát hành kèm theo một chứng quyền và các chứng quyền này sẽ được coi là chứng khoán hoàn toàn độc lập với các trái phiếu ngay sau khi được phát hành. Mỗi chứng quyền sẽ cho phép người nấm giữ có quyền mua một số lượng cổ phần của Công ty tương đương với 0,000775% tổng số vốn điều lệ thực góp của Công ty tại thời điểm đã thực hiện xong tất cả các chứng quyền và theo nguyên tắc là tất cả các chứng quyền trong đốt phát hành này nếu được thực hiện toàn bộ sẽ luôn đảm bảo cho những người sở hữu chứng quyền quyền sở hữu đối với 15,5% tổng số vốn điều lệ thực góp của Công ty tại thời điểm đã thực hiện xong tất cả các chứng quyền.
+
+Vào ngày 23 tháng 6 năm 2015, theo thỏa thuận giữa ECS – công ty sở hữu 20.000 chứng quyền và Công ty, ngày hết hạn của chứng quyền được gia hạn thêm hai (2) năm. Theo đó, thời hạn thực hiện quyền mua cổ phần theo chứng quyền được tăng từ bốn (4) năm lên sáu (6) năm kể từ ngày phát hành chứng quyền, tức là ngày 5 tháng 12 năm 2018.
+
+17.4 Vay dài hạn ngân hàng
+
+<table><tr><td></td><td>Số cuối năm</td><td>Ngàn VND Số đầu năm</td></tr><tr><td>Ngân hàng TMCP Đầu tư và Phát triển Việt nam (&quot;BIDV&quot;), Chi nhánh Gia Lai và Chi nhánh Bến Nghé</td><td>724.124.641</td><td>731.055.979</td></tr><tr><td>Ngân hàng TMCP Sài Gòn Thương Tín (&quot;Sacombank&quot;), Chi nhánh Sài Gòn</td><td>262.454.605</td><td>262.454.605</td></tr><tr><td>TỔNG CỘNG</td><td>986.579.246</td><td>993.510.584</td></tr><tr><td colspan="3">Trong đó :</td></tr><tr><td>Vay dài hạn</td><td>981.412.195</td><td>988.331.032</td></tr><tr><td>Vay dài hạn đến hạn trả</td><td>5.167.051</td><td>5.179.552</td></tr></table>
+
+Các khoản vay này được sử dụng chủ yếu đề tài trợ cho các dự án phát triển trồng cây cao su và mua sắm máy móc thiết bị của các công ty con tại Lào và Campuchia.
+
+29
+
+// 7 コス 164
+
+===== PAGE 32 =====
+Công ty Cổ phần Nông nghiệp Quốc tế Hoàng Anh Gia Lai
+
+B09-DN
+
+THUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG (tiếp theo)
+
+ngày 31 tháng 12 năm 2017 và cho năm tài chính kết thúc cùng ngày
+
+17. VAY (tiếp theo)
+
+17.4 Vay dài hạn ngân hàng (tiếp theo)
+
+Chi tiết cửa các khoản vay dài hạn ngân hàng như sau:
+
+<table><tr><td>Tên ngân hàng</td><td>Số cuối nămNgàn VND</td><td>Nguyên tệUSD</td><td>Thời hạn thanh toán</td><td>Lãi suất(%/ năm)</td><td>Tài sản đảm bảo</td></tr><tr><td colspan="6">BIDV, Chi nhánh Gia Lai và Chi nhánh Bến Nghé</td></tr><tr><td>Hợp đồng vay số01/2010/HĐ-TD, ngày 1tháng 4 năm 2010</td><td>724.124.641</td><td>31.850.655</td><td>từ ngày 31 tháng 12năm 2018 đến ngày 31tháng 12 năm 2026</td><td>Lãi suất huy động tiếtkiệm của BIDV bằngUSD năm hạn 12 thángtrả lãi sau + 4,7%/năm(2017: 7,05 – 7,20)</td><td>Quyền sử dụng đất và vườn câycao su với quy mô 9.996,9 hatại Huyện Saysetha, San Xayvà Phu Vong, Tĩnh Attapeu,Lào thuộc sở hữu của cáccông ty con</td></tr><tr><td colspan="6">Sacombank, Chi nhánh Sài Gòn (*)</td></tr><tr><td>Hợp đồng tín dụng sốLD1400300153, ngày3 tháng 1 năm 2014</td><td>262.454.605</td><td>-</td><td>từ tháng 12 năm2021 đến tháng 12năm 2026</td><td>2017: 9,50 %/ năm vàtừ 2018 trở đi bằng lăisuất tiết kiệm 13 thánglãnh lãi cuối năm củasacombak + (cộng)biên độ 2%/ năm đượcđiều chỉnh 3 tháng/lần</td><td>23,2 triệu cổ phiếu HAG củaChủ tịch Đoàn Nguyên Đức và14,5 triệu cổ phần của Công tyCổ phần Hoàng Anh QuangMinh thuộc sở hữu của Công ty</td></tr><tr><td>TỔNG CỘNG</td><td>986.579.246</td><td></td><td></td><td></td><td></td></tr><tr><td>Trong đó:Vay dài hạnVay dài hạn đến hạn trả</td><td>981.412.1955.167.051</td><td></td><td></td><td></td><td></td></tr></table>
+
+(*) Theo thỏa thuận gia hạn khoản vay ngày 1 tháng 3 năm 2017, Sacombank Chi nhánh Sài Gòn đã đồng ý gia hạn thời gian hoàn trả khoản vay và thời gian hoàn trả mới tối đa đến ngày 31 tháng 3 năm 2021. Vào ngày 31 tháng 12 năm 2017 và vào ngày lập báo cáo tài chính riêng này, giá trị tài sản đảm bảo không bằng tối thiểu 100% tổng giá trị khoản vay theo điều khoản ràng buộc trong hợp đồng bảo đảm đã ký kết, và diện tích trồng thực tế tại các công ty con của Công ty là 44.479 ha nhỏ hơn diện tích 70.643 ha đã đăng ký trong hợp đồng vay.
+
+30
+
+《Y-78015》
+
+===== PAGE 33 =====
+Công ty Cổ phần Nông nghiệp Quốc tế Hoàng Anh Gia Lai
+
+B09-DN
+
+THUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG (tiếp theo)
+
+ngày 31 tháng 12 năm 2017 và cho năm tài chính kết thúc cùng ngày
+
+17. VAY (tiếp theo)
+
+17.5 Vay dài hạn bên liên quan
+
+Chi tiết của các khoản vay dài hạn bên liên quan như sau:
+
+<table><tr><td>Bên cho vay</td><td>Số cuối năm</td><td>Thời hạn thanh toán</td><td>Lãi suất</td></tr><tr><td></td><td>Ngàn VND</td><td></td><td>%/ năm</td></tr></table>
+
+Công ty Cổ phần Hoàng Anh Gia Lai, công ty mẹ (Thuyết minh số 25)
+
+<table><tr><td>Hợp đồng vay số 10/HĐVHAGL-NNQT ngày 4 tháng 7 năm 2016</td><td>1.957.824.733</td><td>Ngày 7 tháng 12 năm 2021</td><td>4,20</td></tr></table>
+
+Công ty Cổ phần Thủy Điện Hoàng Anh Gia Lai (Thuyết minh số 25)
+
+<table><tr><td>Hợp đồng vay số 02/17/TĐHAGL-NNQT ngày 10 tháng 2 năm 2017</td><td>126.168.000</td><td>Ngày 17 tháng 2 năm 2020</td><td>5,00</td></tr></table>
+
+<table><tr><td>TỔNG CỘNG</td><td>2.083.992.733</td></tr></table>
+
+<table><tr><td colspan="2">Trong đó :</td></tr><tr><td>Vay dài hạn</td><td>2.083.992.733</td></tr><tr><td>Vay dài hạn đến hạn trả</td><td>-</td></tr></table>
+
+Các khoản vay bên liên quan là các khoản vay tín chấp được sử dụng để đáp ứng nhu cầu vốn lưu động của Công ty và các công ty con.
+
+31
+
+===== PAGE 34 =====
+Công ty Cổ phần Nông nghiệp Quốc tế Hoàng Anh Gia Lai
+
+B09-DN
+
+THUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG (tiếp theo)
+
+ngày 31 tháng 12 năm 2017 và cho năm tài chính kết thúc cùng ngày
+
+18. VÓN CHỦ SỞ HỮU
+
+18.1 Tỉnh hình tăng, giảm nguồn vốn chủ sở hữu
+
+<table><tr><td></td><td>Vốn cổ phần</td><td>Thặng dư vốn cổ phần</td><td>Lợi nhuận sau thuế chưa phân phối</td><td>Ngàn VND Tổng cộng</td></tr><tr><td colspan="5">Năm trước</td></tr><tr><td>Số đầu năm</td><td>7.081.438.950</td><td>2.550.810</td><td>1.185.386.411</td><td>8.269.376.171</td></tr><tr><td>Phát hành cổ phiếu thu bằng tiền</td><td>590.000.000</td><td>1.062.000.000</td><td>-</td><td>1.652.000.000</td></tr><tr><td>Lợi nhuận thuần trong năm</td><td>-</td><td>-</td><td>106.002.834</td><td>106.002.834</td></tr><tr><td>Số cuối năm</td><td>7.671.438.950</td><td>1.064.550.810</td><td>1.291.389.245</td><td>10.027.379.005</td></tr><tr><td colspan="5">Năm nay</td></tr><tr><td>Số đầu năm</td><td>7.671.438.950</td><td>1.064.550.810</td><td>1.291.389.245</td><td>10.027.379.005</td></tr><tr><td>Lỗ thuần trong năm</td><td>-</td><td>-</td><td>(9.161.050)</td><td>(9.161.050)</td></tr><tr><td>Số cuối năm</td><td>7.671.438.950</td><td>1.064.550.810</td><td>1.282.228.195</td><td>10.018.217.955</td></tr></table>
+
+18.2 Cổ phiếu
+
+<table><tr><td rowspan="2"></td><td>Số cuối năm</td><td>Số đầu năm</td></tr><tr><td>Số lượng</td><td>Số lượng</td></tr><tr><td>Số lượng cổ phiếu được phép phát hành</td><td>767.143.895</td><td>767.143.895</td></tr><tr><td>Số lượng cổ phiếu đã phát hành và góp vốn đầy đủ</td><td>767.143.895</td><td>767.143.895</td></tr><tr><td>Cổ phiếu phổ thông</td><td>767.143.895</td><td>767.143.895</td></tr><tr><td>Số lượng cổ phiếu đang lưu hành</td><td>767.143.895</td><td>767.143.895</td></tr><tr><td>Cổ phiếu phổ thông</td><td>767.143.895</td><td>767.143.895</td></tr></table>
+
+Cổ phiếu phổ thông của Công ty đã được phát hành với mệnh giá 10.000 VND/cổ phiếu. Các cổ đông nằm giữ cổ phiếu phổ thông của Công ty được quyền hưởng cổ tức do Công ty công bố. Mỗi cổ phiếu phổ thông thể hiện một quyền biểu quyết, không hạn chế.
+
+32
+
+===== PAGE 35 =====
+Công ty Cổ phần Nông nghiệp Quốc tế Hoàng Anh Gia Lai
+
+B09-DN
+
+THUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG (tiếp theo)
+
+ngày 31 tháng 12 năm 2017 và cho năm tài chính kết thúc cùng ngày
+
+19. DOANH THU
+
+19.1 Doanh thu bán hàng hóa
+
+<table><tr><td></td><td>Năm nay</td><td>Ngàn VNDNăm trước</td></tr><tr><td>Doanh thu thuần về bán hàng</td><td>1.116.144.245</td><td>188.970.898</td></tr><tr><td colspan="3">Trong đó:</td></tr><tr><td>Doanh thu với các bên thứ ba</td><td>758.315.261</td><td>100.374.430</td></tr><tr><td>Doanh thu với các bên liên quan(Thuyết minh số 25)</td><td>357.828.984</td><td>88.596.468</td></tr></table>
+
+19.2 Doanh thu hoạt động tài chính
+
+<table><tr><td></td><td>Năm nay</td><td>Ngàn VNDNăm trước</td></tr><tr><td>Lãi tiền cho vay</td><td>588.725.812</td><td>487.795.169</td></tr><tr><td>Cổ tức</td><td>-</td><td>304.875.000</td></tr><tr><td>Lãi tiền gửi ngân hàng</td><td>246.844</td><td>2.063.843</td></tr><tr><td>Khác</td><td>2.341.371</td><td>15.341</td></tr><tr><td>TỔNG CỘNG</td><td>591.314.027</td><td>794.749.353</td></tr></table>
+
+20. CHI PHÍ TÀI CHÍNH
+
+<table><tr><td></td><td>Năm nay</td><td>Ngàn VNDNăm trước</td></tr><tr><td>Chi phí lãi vay</td><td>540.394.590</td><td>549.707.937</td></tr><tr><td>Lỗ thanh lý khoản đầu tư vào Công ty con</td><td>198.533.750</td><td>-</td></tr><tr><td rowspan="2">Chi phí phát hành trái phiếu(Hoàn nhập) trích lập dự phòng đầu tư tài chính dài hạn</td><td>8.838.489</td><td>6.617.188</td></tr><tr><td>(42.304.478)</td><td>106.429.442</td></tr><tr><td>Khác</td><td>4.174.299</td><td>905.096</td></tr><tr><td>TỔNG CỘNG</td><td>709.636.650</td><td>663.659.663</td></tr></table>
+
+21. CHI PHÍ BÁN HÀNG VÀ QUẢN LÝ DOANH NGHIỆP
+
+<table><tr><td></td><td>Năm nay</td><td>Ngàn VNDNăm trước</td></tr><tr><td>Chi phí bán hàng</td><td>45.011.892</td><td>12.733.911</td></tr><tr><td>Chi phí dịch vụ mua ngoài</td><td>28.781.590</td><td>8.002.378</td></tr><tr><td>Chi phí nguyên vật liệu, bao bì</td><td>6.110.576</td><td>2.491.935</td></tr><tr><td>Chi phí nhân viên</td><td>8.711.738</td><td>1.903.118</td></tr><tr><td>Khác</td><td>1.407.988</td><td>336.480</td></tr><tr><td>Chi phí quản lý doanh nghiệp</td><td>39.041.110</td><td>22.398.389</td></tr><tr><td>Chi phí nhân viên</td><td>10.844.014</td><td>11.100.863</td></tr><tr><td>Khấu hao và hao mòn tài sản cố định</td><td>6.665.148</td><td>6.681.229</td></tr><tr><td>Khác</td><td>21.531.948</td><td>4.616.297</td></tr><tr><td>TỔNG CỘNG</td><td>84.053.002</td><td>35.132.300</td></tr></table>
+
+33
+
+[Illegible]
+
+===== PAGE 36 =====
+Công ty Cổ phần Nông nghiệp Quốc tế Hoàng Anh Gia Lai
+
+B09-DN
+
+THUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG (tiếp theo)
+
+ngày 31 tháng 12 năm 2017 và cho năm tài chính kết thúc cùng ngày
+
+22. THU NHẬP VÀ CHI PHÍ KHÁC
+
+<table><tr><td></td><td>Năm nay</td><td>Ngân VNDNăm trước</td></tr><tr><td>Thu nhập khác</td><td>18.951.604</td><td>838.824</td></tr><tr><td>Tiền phạt thu được</td><td>13.500.411</td><td>-</td></tr><tr><td>Khác</td><td>5.451.193</td><td>838.824</td></tr><tr><td>Chi phí khác</td><td>(4.786.635)</td><td>(6.189.920)</td></tr><tr><td>Các khoản phạt</td><td>(371.755)</td><td>(3.124.371)</td></tr><tr><td>Khác</td><td>(4.414.880)</td><td>(3.065.549)</td></tr><tr><td>LỢI NHUẬN (Lỗ) KHÁC</td><td>14.164.969</td><td>(5.351.096)</td></tr></table>
+
+23. CHI PHÍ SẢN XUẤT, KINH DOANH THEO YẾU TÓ
+
+<table><tr><td></td><td>Năm nay</td><td>Ngân VNDNăm trước</td></tr><tr><td>Chi phí giá vốn hàng hóa, nguyên vật liệu</td><td>943.205.215</td><td>176.066.293</td></tr><tr><td>Chi phí dịch vụ mua ngoài</td><td>28.781.590</td><td>8.002.378</td></tr><tr><td>Chi phí nhân công</td><td>19.555.752</td><td>13.003.981</td></tr><tr><td>Chi phí khấu hao và hao mòn tài sản cố định(Thuyết minh số 9&amp;10)</td><td>8.332.274</td><td>9.515.998</td></tr><tr><td>Chi phí khác bằng tiền</td><td>21.272.810</td><td>2.118.008</td></tr><tr><td>TỔNG CỘNG</td><td>1.021.147.641</td><td>208.706.658</td></tr></table>
+
+34
+
+11~1 → ← ≡ ∠ → ∥
+
+===== PAGE 37 =====
+Công ty Cổ phần Nông nghiệp Quốc tế Hoàng Anh Gia Lai
+
+B09-DN
+
+THUYẾT MINH BẢO CẢO TÀI CHÍNH RIÊNG (tiếp theo)
+
+ngày 31 tháng 12 năm 2017 và cho năm tài chính kết thúc cùng ngày
+
+24. THUẾ THU NHẬP DOANH NGHIỆP
+
+Công ty có nghĩa vụ nộp thuế thu nhập doanh nghiệp ("TNDN") bằng 20% thu nhập chịu thuế.
+
+Các báo cáo thuế của Công ty sẽ chịu sự kiểm tra của cơ quan thuế. Do việc áp dụng luật và các quy định về thuế đối với các loại nghiệp vụ khác nhau có thể được giải thích theo nhiều cách khác nhau, số thuế được trình bày trên báo cáo tài chính riêng có thể sẽ thay đổi theo quyết định cuối cùng của cơ quan thuế.
+
+24.1 Thuế TNDN hiện hành
+
+Thuế TNDN hiện hành phải trả được xác định dựa trên thu nhập chịu thuế của năm hiện tại. Thu nhập chịu thuế của Công ty khác với thu nhập được báo cáo trong báo cáo kết quả hoạt động kinh doanh riêng vi thu nhập chịu thuế không bao gồm các khoản mục thu nhập chịu thuế hay chi phí được khấu trừ cho mục đích tính thuế trong các năm khác và cũng không bao gồm các khoản mục không phải chịu thuế hay không được khấu trừ cho mục đích tính thuế. Thuế TNDN hiện hành phải trả của Công ty được tính theo thuế suất đã ban hành đến ngày kết thúc ký kế toán năm.
+
+Dưới đây là đối chiếu giữa lợi nhuận kế toán trước thuế theo báo cáo kết quả hoạt động kinh doanh riêng và thu nhập chịu thuế:
+
+<table><tr><td></td><td>Năm nay</td><td>Ngàn VNDNăm trước</td></tr><tr><td>(Lỗ) lợi nhuận kế toán trước thuế</td><td>(9.161.050)</td><td>106.002.834</td></tr><tr><td colspan="3">Các điều chỉnh:</td></tr><tr><td>Chi phí không được khấu trừ</td><td>5.367.194</td><td>7.223.061</td></tr><tr><td>Thu nhập cổ tức</td><td>-</td><td>(304.875.000)</td></tr><tr><td>Điều chỉnh khác</td><td>10.199.419</td><td>-</td></tr><tr><td>Lợi nhuận (lỗ) tính thuế thuần điều chỉnh trước khi chuyển lỗ</td><td>6.405.563</td><td>(191.649.105)</td></tr><tr><td>Lỗ năm trước chuyển sang</td><td>(6.405.563)</td><td>-</td></tr><tr><td>Thu nhập tính thuế uốc tính trong năm hiện hành</td><td>-</td><td>(191.649.105)</td></tr><tr><td>Chi phí thuế TNDN hiện hành uốc tính</td><td>-</td><td>-</td></tr><tr><td>Thuế TNDN trả trước đầu năm</td><td>(285.831)</td><td>(285.831)</td></tr><tr><td>Thuế TNDN đã trả trong năm</td><td>-</td><td>-</td></tr><tr><td>Thuế TNDN trả trước cuối năm</td><td>(285.831)</td><td>(285.831)</td></tr></table>
+
+35
+
+11-1 5.07 - 1±11
+
+===== PAGE 38 =====
+Công ty Cổ phần Nông nghiệp Quốc tế Hoàng Anh Gia Lai
+
+B09-DN
+
+THUYẾT MINH BẢO CÁO TÀI CHÍNH RIÊNG (tiếp theo)
+
+ngày 31 tháng 12 năm 2017 và cho năm tài chính kết thúc cùng ngày
+
+24. THUẾ THU NHẬP DOANH NGHIỆP (tiếp theo)
+
+24.2 Thuế TNDN hoãn lại
+
+Lỗ chuyển sang từ năm trước
+
+Công ty được phép chuyển các khoản lỗ tính thuế sang năm sau để bù trừ với thu nhập chịu thuế thu được trong vòng 5 năm kể từ sau năm phát sinh khoản lỗ đó. Tại ngày kết thúc kỳ kế toán năm, Công ty có khoản lỗ lũy kế với tổng giá trị là 195.340.828 ngân VND (ngày 31 tháng 12 năm 2016 là 201.746.391 ngân VND) có thể sử dụng để bù trừ với thu nhập chịu thuế trong năm hiện hành. Chi tiết như sau:
+
+<table><tr><td>Năm phát sinh</td><td>Có thể chuyển lỗ đến năm</td><td>Lỗ tính thuế</td><td>Đã chuyển lỗ đến ngày 31 tháng 12 năm 2017</td><td>Không được chuyển lỗ</td><td>Ngàn VND Chưa chuyển lỗ tại ngày 31 tháng 12 năm 2017</td></tr><tr><td>2015</td><td>2020</td><td>10.097.286 (*)</td><td>(6.405.563)</td><td>-</td><td>3.691.723</td></tr><tr><td>2016</td><td>2021</td><td>191.649.105 (**)</td><td>-</td><td>-</td><td>191.649.105</td></tr><tr><td colspan="2">TỔNG CỘNG</td><td>201.746.391</td><td>(6.405.563)</td><td>-</td><td>195.340.828</td></tr></table>
+
+(*) Lỗ tính thuế theo biên bản quyết toán thuế.
+
+(**) Lỗ tính thuế là lỗ ước tính theo tờ khai thuế TNDN của Công ty và chưa được cơ quan thuế địa phương quyết toán tại ngày lập báo cáo tài chính riêng này.
+
+Công ty chưa ghi nhận tài sản thuế thu nhập hoãn lại cho phần lỗ lũy kế còn lại trị giá 195.340.828 ngân VND do không thể dự tính được thu nhập chịu thuế trong tương lai tại thời điểm này.
+
+36
+
+ππππππππππππππππππππππππππππππππππππππππππππππππππππππππππππππππππππππππππππππππππππππππππππππππ
+
+===== PAGE 39 =====
+Công ty Cổ phần Nông nghiệp Quốc tế Hoàng Anh Gia Lai
+
+B09-DN
+
+THUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG (tiếp theo)
+
+ngày 31 tháng 12 năm 2017 và cho năm tài chính kết thúc cùng ngày
+
+25. NGHIỆP VỤ VỚI BÊN LIÊN QUAN
+
+Các giao dịch trọng yếu của Công ty với các bên liên quan trong năm được trình bày như sau:
+
+<table><tr><td rowspan="2">Bên liên quan</td><td rowspan="2">Mối quan hệ</td><td rowspan="2">Nội dung nghiệp vụ</td><td colspan="2">Ngàn VND</td></tr><tr><td>Năm nay</td><td>Năm trước</td></tr><tr><td rowspan="2">Công ty Cổ phần HưngThắng Lợi</td><td rowspan="2">Bên liên quan</td><td>Vay</td><td>512.091.300</td><td>-</td></tr><tr><td>Chi phí lãi vay</td><td>10.170.173</td><td>-</td></tr><tr><td rowspan="4">Công ty TNHH Phát triểnNông nghiệp Hoàng AnhAttapeu</td><td rowspan="4">Công ty con</td><td>Mua hàng hóa</td><td>215.646.778</td><td>-</td></tr><tr><td>Lãi cho vay</td><td>179.711.480</td><td>141.250.888</td></tr><tr><td>Bán hàng hóa</td><td>88.765.301</td><td>46.373.305</td></tr><tr><td>Cho mượn tiền</td><td>3.595.223</td><td>-</td></tr><tr><td rowspan="2">Công ty Cổ phần HoàngAnh Gia Lai</td><td rowspan="2">Công ty mẹ</td><td>Chi phí lãi vay</td><td>188.735.979</td><td>257.431.158</td></tr><tr><td>Vay và mượn</td><td>65.891.507</td><td>4.075.594.805</td></tr><tr><td rowspan="2">Công ty TNHH MTVPhát triển Nông nghiệpĐại Thắng</td><td rowspan="2">Bên liên quan</td><td>Mua hàng hóa</td><td>161.930.104</td><td>11.558.000</td></tr><tr><td>Bán hàng hóa</td><td>24.725.081</td><td>-</td></tr><tr><td rowspan="3">Công ty TNHH HoàngAnh Gia Lai Andong Meas</td><td rowspan="3">Công ty con</td><td>Mua hàng hóa</td><td>148.863.822</td><td>-</td></tr><tr><td>Bán hàng hóa</td><td>12.834.569</td><td>-</td></tr><tr><td>Cho mượn tiền</td><td>268.465</td><td>-</td></tr><tr><td rowspan="3">Công ty TNHH MTVKinh doanh Xuất Nhậpkhẩu Hoàng Anh Gia Lai</td><td rowspan="3">Công ty con</td><td>Bán hàng hóa</td><td>124.187.971</td><td>5.900</td></tr><tr><td>Cho mượn</td><td>22.680.362</td><td>-</td></tr><tr><td>Mua vật tư</td><td>18.235.640</td><td>2.259.662</td></tr><tr><td rowspan="4">Công ty TNHH Côngnghiệp và Nông nghiệpCao su Hoàng Anh –Quang Minh</td><td rowspan="4">Công ty con</td><td>Lãi cho vay</td><td>89.668.435</td><td>69.487.125</td></tr><tr><td>Mua hàng hóa</td><td>50.063.259</td><td>11.289.707</td></tr><tr><td>Bán hàng hóa</td><td>6.894.573</td><td>-</td></tr><tr><td>Cho mượn tiền</td><td>800.809</td><td>-</td></tr><tr><td rowspan="2">Công ty Cổ phần Chănnuôi Gia Lai</td><td rowspan="2">Bên liên quan</td><td>Mua hàng hóa</td><td>119.290.583</td><td>-</td></tr><tr><td>Bán hàng hóa</td><td>15.703.441</td><td>30.960.888</td></tr><tr><td>Công ty TNHH HoàngAnh Oyadav</td><td>Công ty con</td><td>Lãi cho vay</td><td>107.025.611</td><td>89.046.422</td></tr><tr><td>Công ty TNHH HoàngAnh Rattanakiri</td><td>Công ty con</td><td>Lãi cho vay</td><td>106.447.051</td><td>81.782.937</td></tr><tr><td rowspan="3">Công ty Cổ phần Bò sữaTây Nguyên</td><td rowspan="3">Công ty con</td><td>Mua hàng hóa</td><td>50.063.259</td><td>-</td></tr><tr><td>Cho mượn</td><td>14.020.000</td><td>-</td></tr><tr><td>Bán hàng hóa</td><td>6.894.573</td><td>2.670.570</td></tr><tr><td>Công ty TNHH Dịch vụNông nghiệp Tây Nguyên</td><td>Bên liên quan</td><td>Bán hàng hóa</td><td>61.067.210</td><td>-</td></tr><tr><td rowspan="3">Công ty Cổ phần Cao suTrung Nguyên</td><td rowspan="3">Công ty con</td><td>Lãi cho vay</td><td>47.338.847</td><td>34.335.066</td></tr><tr><td>Bán hàng hóa</td><td>9.820.540</td><td>5.375.935</td></tr><tr><td>Mua hàng hóa</td><td>3.501.325</td><td>-</td></tr></table>
+
+ππππππππππππππππππππππππππππππππππππππππππππππππππππππππππππππππππππππππππππππππππππππππππππππππππππππππππππππππππππππππππππππ
+
+37
+
+===== PAGE 40 =====
+Công ty Cổ phần Nông nghiệp Quốc tế Hoàng Anh Gia Lai
+
+B09-DN
+
+THUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG (tiếp theo)
+
+ngày 31 tháng 12 năm 2017 và cho năm tài chính kết thúc cùng ngày
+
+25. NGHIỆP VỤ VỚI BÊN LIÊN QUAN (tiếp theo)
+
+Các giao dịch trọng yếu của Công ty với các bên liên quan trong năm được trình bày như sau: (tiếp theo)
+
+<table><tr><td rowspan="2">Bên liên quan</td><td rowspan="2">Mối quan hệ</td><td rowspan="2">Nội dung nghiệp vụ</td><td colspan="2">Ngàn VND</td></tr><tr><td>Năm nay</td><td>Năm trước</td></tr><tr><td>Công ty Cổ phần Đầu tư Bất Động sản An Phú</td><td>Bên liên quan</td><td>Lãi cho vay</td><td>42.583.333</td><td>20.987.500</td></tr><tr><td rowspan="2">Công ty Cổ phần Hoàng Anh Đắk Lắk</td><td rowspan="2">Công ty con</td><td>Lãi cho vay Cho mượn</td><td>15.317.124 12.772.000</td><td>15.388.024 -</td></tr><tr><td>Bán hàng hóa</td><td>1.263.229</td><td>109.600</td></tr><tr><td>Công ty TNHH MTV Nông nghiệp Daun Penh</td><td>Công ty con</td><td>Mua hàng hóa</td><td>7.938.250</td><td>-</td></tr><tr><td>Công ty Cổ phần Thực phẩm Heygo</td><td>Bên liên quan</td><td>Bán hàng hóa</td><td>6.033.014</td><td>-</td></tr></table>
+
+Vào ngày kết thúc kỳ kế toán năm, số dư các khoản phải thu và phải trả với các bên liên quan như sau:
+
+<table><tr><td rowspan="2">Bên liên quan</td><td rowspan="2">Mối quan hệ</td><td rowspan="2">Nội dung nghiệp vụ</td><td rowspan="2">Số cuối năm</td><td>Ngàn VND</td></tr><tr><td>Số đầu năm</td></tr><tr><td colspan="5">Phải thu ngắn hạn của khách hàng (Thuyết minh số 5)</td></tr><tr><td>Công ty TNHH MTVKinh doanh Xuất Nhập khẩu Hoàng Anh Gia Lai</td><td>Công tycon</td><td>Bán hàng hóa</td><td>54.684.592</td><td>-</td></tr><tr><td>Công ty TNHH Dịch vụ Nông nghiệp Tây Nguyên</td><td>Bênliên quan</td><td>Bán hàng hóa</td><td>39.609.909</td><td>-</td></tr><tr><td>Công ty TNHH Hoàng AnhAn Dong Meas</td><td>Công tycon</td><td>Bán hàng hóa</td><td>6.789.994</td><td>-</td></tr><tr><td>Công ty Cổ phần Thực phẩm Heygo</td><td>Bênliên quan</td><td>Bán hàng hóa</td><td>4.653.973</td><td>-</td></tr><tr><td>Công ty Cổ PhầnCao su Trung Nguyên</td><td>Công tycon</td><td>Bán hàng hóa</td><td>2.928.797</td><td>-</td></tr><tr><td>Công ty Cổ phầnBò sữa Tây Nguyên</td><td>Công tycon</td><td>Bán hàng hóa</td><td>1.511.412</td><td>3.198.914</td></tr><tr><td>Công ty Cổ phần Hoàng AnhGia Lai</td><td>Công ty mẹ</td><td>Bán hàng hóa</td><td>1.046.163</td><td>1.373.256</td></tr><tr><td>Công ty Cổ phần Xây dựngCầu đường Hoàng AnhGia Lai</td><td>Bênliên quan</td><td>Bán tài sản cố định, hàng hóa</td><td>267.562</td><td>1.903.798</td></tr><tr><td>Công ty Cổ phần Chăn nuôiGia Lai</td><td>Bênliên quan</td><td>Bán hàng hóa</td><td>-</td><td>14.073.555</td></tr><tr><td>Công ty TNHH MTV Phát triển Nông nghiệp Đại Thắng</td><td>Bênliên quan</td><td>Bán hàng hóa</td><td>-</td><td>10.998.540</td></tr><tr><td>Công ty TNHH Phát triểnNông nghiệp Hoàng AnhAttapeu</td><td>Công tycon</td><td>Bán hàng hóa</td><td></td><td>9.926.139</td></tr><tr><td>Công ty TNHH CN&amp;NN Cao su Hoàng Anh – Quang Minh</td><td>Công tycon</td><td>Bán hàng hóa</td><td>-</td><td>3.493.144</td></tr><tr><td>Công ty Cổ phần Hoàng AnhĐắk Lắk</td><td>Công tycon</td><td>Bán hàng hóa</td><td>-</td><td>110.080</td></tr><tr><td colspan="3"></td><td>111.492.402</td><td>45.077.426</td></tr></table>
+
+38
+
+101
+
+===== PAGE 41 =====
+Công ty Cổ phần Nông nghiệp Quốc tế Hoàng Anh Gia Lai
+
+B09-DN
+
+THUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG (tiếp theo)
+
+ngày 31 tháng 12 năm 2017 và cho năm tài chính kết thúc cùng ngày
+
+25. NGHIỆP VỤ VỚI BÊN LIÊN QUAN (tiếp theo)
+
+Vào ngày kết thúc kỳ kế toán năm, số dư các khoản phải thu và phải trả với các bên liên quan như sau: (tiếp theo)
+
+<table><tr><td>Bên liên quan</td><td>Mối quan hệ</td><td>Nội dung nghiệp vụ</td><td>Số cuối năm</td><td>Ngàn VND Số đầu năm</td></tr><tr><td colspan="5">Trả trước cho người bán ngắn hạn (Thuyết minh số 6)</td></tr><tr><td>Công ty TNHH Phát triển Nông nghiệp Hoàng Anh Attapeu</td><td>Công ty con</td><td>Mua hàng hóa</td><td>66.047.152</td><td>-</td></tr><tr><td>Công ty Cổ phần Cao su Trung Nguyên</td><td>Công ty con</td><td>Mua hàng hóa</td><td>52.364.121</td><td>-</td></tr><tr><td>Công ty Cổ phần Hoàng Anh Đắk Lắk</td><td>Công ty con</td><td>Mua hàng hóa</td><td>30.430.388</td><td>-</td></tr><tr><td>Công ty TNHH CN &amp; NN Cao su Hoàng Anh Quang Minh</td><td>Công ty con</td><td>Mua hàng hóa</td><td>29.400.729</td><td>-</td></tr><tr><td>Công ty TNHH Heng Brothers</td><td>Công ty con</td><td>Mua hàng hóa</td><td>28.667.096</td><td>-</td></tr><tr><td>Công ty TNHH MTV Kinh doanh XNK Hoàng Anh Gia Lai</td><td>Bên liên quan</td><td>Mua hàng hóa</td><td>11.275.592</td><td>-</td></tr><tr><td>Công ty TNHH Bình Phước Kratie Rubber 2</td><td>Công ty con</td><td>Mua hàng hóa</td><td>4.548.000</td><td>-</td></tr><tr><td>Công ty Cổ phần Bò sữa Tây Nguyên</td><td>Công ty con</td><td>Mua hàng hóa</td><td>2.067.403</td><td>3.156.868</td></tr><tr><td>Chi nhánh Nguyên vật liệu Hoàng Anh Gia lai</td><td>Bên liên quan</td><td>Mua hàng hóa</td><td>653.840</td><td>-</td></tr><tr><td>Chi nhánh Chế biển Hoa quả Hoàng Anh Gia lai</td><td>Bên liên quan</td><td>Mua hàng hóa</td><td>-</td><td>358.367</td></tr><tr><td>Chi nhánh Cơ Khí Hoàng Anh Gia lai</td><td>Bên liên quan</td><td>Mua hàng hóa</td><td>-</td><td>290.189</td></tr></table>
+
+<table><tr><td>225.454.321</td><td>3.805.424</td></tr></table>
+
+Phải thu về cho vay ngắn hạn (*)
+
+<table><tr><td>Công ty TNHH Phát triểnNông nghiệp Hoàng AnhAttapeu</td><td>Công ty con</td><td>Cho vay</td><td>10.302.285</td><td>40.896.000</td></tr><tr><td>Công ty TNHH Hoàng AnhOyadav</td><td>Công ty con</td><td>Cho vay</td><td>-</td><td>242.000.002</td></tr><tr><td>Công ty Cổ phần Cao suHoàng Anh Quang Minh</td><td>Công ty con</td><td>Cho vay</td><td>-</td><td>130.000.000</td></tr><tr><td>Công ty TNHH Hoàng AnhRattanakiri</td><td>Công ty con</td><td>Cho vay</td><td>-</td><td>120.872.953</td></tr><tr><td>Công ty Cổ phần Cao suTrung Nguyên</td><td>Công ty con</td><td>Cho vay</td><td>-</td><td>45.000.000</td></tr><tr><td>Công ty Cổ phần Hoàng AnhĐắk Lắk</td><td>Công ty con</td><td>Cho vay</td><td>-</td><td>33.000.000</td></tr></table>
+
+<table><tr><td>10.302.285</td><td>611.768.955</td></tr></table>
+
+(*) Cho vay ngắn hạn bên liên quan thể hiện khoản cho vay tín chấp với thời hạn hoàn trả đến hết tháng 6 năm 2018 và với lãi suất trung bình từ 7% đến 14%/năm.
+
+39
+
+1121-2014
+
+===== PAGE 42 =====
+Công ty Cổ phần Nông nghiệp Quốc tế Hoàng Anh Gia Lai
+
+B09-DN
+
+THUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG (tiếp theo)
+
+ngày 31 tháng 12 năm 2017 và cho năm tài chính kết thúc cùng ngày
+
+25. NGHIỆP VỤ VỚI BÊN LIÊN QUAN (tiếp theo)
+
+Vào ngày kết thúc kỳ kế toán năm, số dư các khoản phải thu và phải trả với các bên liên quan như sau: (tiếp theo)
+
+<table><tr><td rowspan="2">Bên liên quan</td><td rowspan="2">Mối quan hệ</td><td rowspan="2">Nội dung nghiệp vụ</td><td rowspan="2">Số cuối năm</td><td>Ngàn VND</td></tr><tr><td>Số đầu năm</td></tr><tr><td colspan="5">Phải thu ngắn hạn khác (Thuyết minh số 7)</td></tr><tr><td>Công ty TNHH Phát triển Nông nghiệp Hoàng Anh Attapeu</td><td>Công ty con</td><td>Lãi cho vayChi hộ</td><td>409.394.2154.011.563</td><td>798.812.037413.519</td></tr><tr><td>Công ty Cổ phầnCao su Hoàng Anh – Quang Minh</td><td>Công ty con</td><td>Cổ tức phải thuChi hộLãi cho vay</td><td>19.507.5007.234.722</td><td>19.507.5006.391.705319.096.868</td></tr><tr><td>Công ty TNHH Hoàng Anh Rattanakiri</td><td>Công ty con</td><td>Chi hộLãi cho vay</td><td>7.239.727</td><td>7.212.880362.314.788</td></tr><tr><td>Công ty TNHH Hoàng Anh Oyadav</td><td>Công ty con</td><td>Chi hộLãi cho vay</td><td>5.406.428</td><td>5.406.428255.497.231</td></tr><tr><td>Công ty TNHH Hoàng Anh Lymphat</td><td>Công ty con</td><td>Cấn trừ công nợ</td><td>2.941.301</td><td>2.941.301</td></tr><tr><td>Công ty Cổ phần Hoàng Anh Gia Lai</td><td>Công ty mẹ</td><td>Chi hộ</td><td>2.105.085</td><td>2.065.085</td></tr><tr><td>Công ty TNHH Bình Phước Kratie Rubber 2</td><td>Công ty con</td><td>Khác</td><td>589.536</td><td>-</td></tr><tr><td>Công ty TNHH MTV Hoàng Anh An Đông Meas</td><td>Công ty con</td><td>Khác</td><td>557.641</td><td>-</td></tr><tr><td>Công ty Cổ phần Xây dựng Cầu đường Hoàng Anh Gia Lai</td><td>Công ty trong cùng tập đoàn</td><td>Cho mượn tiền</td><td>475.000</td><td>-</td></tr><tr><td>Công ty Cổ Phần Cao su Trung Nguyên</td><td>Công ty con</td><td>Lãi cho vay</td><td>166.884</td><td>6.356.047</td></tr><tr><td>Công ty TNHH MTV Kinh doanh Xuất Nhập khẩu Hoàng Anh Gia Lai</td><td>Công ty con</td><td>Khác</td><td>10.362</td><td>-</td></tr><tr><td>Công ty Cổ phần Bò sữa Tây Nguyên</td><td>Công ty con</td><td>Cổ tức phải thu</td><td>-</td><td>81.675.000</td></tr><tr><td>Công ty Cổ phần Hoàng Anh Đắk Lắk</td><td>Công ty con</td><td>Lãi cho vay</td><td>-</td><td>47.736.855</td></tr></table>
+
+459.639.964 1.915.427.244
+
+40
+
+11.6.2.3
+
+===== PAGE 43 =====
+Công ty Cổ phần Nông nghiệp Quốc tế Hoàng Anh Gia Lai
+
+B09-DN
+
+THUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG (tiếp theo)
+
+ngày 31 tháng 12 năm 2017 và cho năm tài chính kết thúc cùng ngày
+
+25. NGHIỆP VỤ VỚI BÊN LIÊN QUAN (tiếp theo)
+
+Vào ngày kết thúc kỳ kế toán năm, số dư các khoản phải thu và phải trả với các bên liên quan như sau: (tiếp theo)
+
+<table><tr><td rowspan="2">Bên liên quan</td><td rowspan="2">Mối quan hệ</td><td rowspan="2">Nội dung nghiệp vụ</td><td rowspan="2">Số cuối năm</td><td>Ngàn VND</td></tr><tr><td>Số đầu năm</td></tr><tr><td colspan="5">Phải thu về cho vay dài hạn (*)</td></tr><tr><td>Công ty TNHH Phát triển Nông nghiệp Hoàng Anh Attapeu</td><td>Công ty con</td><td>Cho vay</td><td>1.631.811.594</td><td>1.455.792.165</td></tr><tr><td>Công ty TNHH Hoàng Anh Oyadav</td><td>Công ty con</td><td>Cho vay</td><td>799.419.593</td><td>520.449.591</td></tr><tr><td>Công ty TNHH Hoàng Anh Rattanakiri</td><td>Công ty con</td><td>Cho vay</td><td>748.654.354</td><td>535.351.402</td></tr><tr><td>Công ty Cổ phần Cao su Hoàng Anh – Quang Minh</td><td>Công ty con</td><td>Cho vay</td><td>735.474.043</td><td>451.064.043</td></tr><tr><td>Công ty Cổ phần Cao su Trung Nguyên</td><td>Công ty con</td><td>Cho vay</td><td>173.395.050</td><td>490.998.617</td></tr><tr><td>Công ty Cổ phần Hoàng Anh Đắk Lắk</td><td>Công ty con</td><td>Cho vay</td><td>98.507.655</td><td>95.221.602</td></tr><tr><td>Công ty TNHH Đầu tư và Phát triển Cao su Đông Dương</td><td>Công ty con</td><td>Cho vay</td><td>4.466.000</td><td>4.466.000</td></tr><tr><td>Công ty Cổ phần Đầu tư Bất Đông sản An Phú</td><td>Bên liên quan</td><td>Cho vay</td><td>300.000.000</td><td>300.000.000</td></tr></table>
+
+<table><tr><td colspan="3"></td><td>4.491.728.289</td><td>3.853.343.420</td></tr><tr><td colspan="5">Phải thu dài hạn khác (Thuyết minh số 7)</td></tr><tr><td>Công ty TNHH Phát triển Nông nghiệp Hoàng Anh Attapeu</td><td>Công ty con</td><td>Lãi cho vay</td><td>422.043.980</td><td>-</td></tr><tr><td>Công ty Cổ phần Cao su Hoàng Anh - Quang Minh</td><td>Công ty con</td><td>Lãi cho vay</td><td>254.355.304</td><td>-</td></tr><tr><td>Công ty TNHH Hoàng Anh Rattanakiri</td><td>Công ty con</td><td>Lãi cho vay</td><td>251.639.528</td><td>-</td></tr><tr><td>Công ty TNHH Hoàng Anh Oyadav</td><td>Công ty con</td><td>Lãi cho vay</td><td>185.394.853</td><td>-</td></tr><tr><td>Công ty Cổ phần Đầu tư Bất Đông sản An Phú</td><td>Bên liên quan</td><td>Lãi cho vay</td><td>63.570.833</td><td>20.987.500</td></tr><tr><td>Công Ty Cổ phần Hoàng Anh Đắk Lắk</td><td>Công ty con</td><td>Lãi cho vay</td><td>63.053.979</td><td>-</td></tr><tr><td>Công ty Cổ phần Cao su Trung Nguyên</td><td>Công ty con</td><td>Lãi cho vay</td><td>9.365.327</td><td>-</td></tr><tr><td>Công ty TNHH Đầu tư và Phát triển Cao su Đông Dương</td><td>Công ty con</td><td>Lãi cho vay</td><td>770.881</td><td>136.957</td></tr><tr><td colspan="3"></td><td>1.250.194.685</td><td>21.124.457</td></tr></table>
+
+(*) Cho vay dài hạn các bên liên quan thể hiện các khoản cho vay tín chấp các công ty với thời hạn hoàn trả từ tháng 3 năm 2019 đến tháng 6 năm 2023 và với lãi suất trung bình từ 7% đến 14%/năm.
+
+41
+
+===== PAGE 44 =====
+Công ty Cổ phần Nông nghiệp Quốc tế Hoàng Anh Gia Lai
+
+B09-DN
+
+THUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG (tiếp theo)
+
+ngày 31 tháng 12 năm 2017 và cho năm tài chính kết thúc cùng ngày
+
+25. NGHIỆP VỤ VỚI BÊN LIÊN QUAN (tiếp theo)
+
+Vào ngày kết thúc kỳ kế toán năm, số dư các khoản phải thu và phải trả với các bên liên quan như sau: (tiếp theo)
+
+<table><tr><td rowspan="2">Bên liên quan</td><td rowspan="2">Mối quan hệ</td><td rowspan="2">Nội dung nghiệp vụ</td><td rowspan="2">Số cuối năm</td><td>Ngàn VND</td></tr><tr><td>Số đầu năm</td></tr><tr><td colspan="5">Phải trả người bán ngắn hạn (Thuyết minh số 12)</td></tr><tr><td>Công ty TNHH MTV Phát triển Nông Nghiệp Đại Thắng</td><td>Bên liên quan</td><td>Mua vật tư, hàng hóa</td><td>83.166.966</td><td>3.195.942</td></tr><tr><td>Công ty TNHH MTV Hoàng Anh An Đông Meas</td><td>Công ty con</td><td>Mua vật tư</td><td>31.708.739</td><td>-</td></tr><tr><td>Công ty Cổ phần Chăn nuôi Gia Lai</td><td>Bên liên quan</td><td>Mua vật tư, hàng hóa</td><td>20.883.842</td><td>5.367.889</td></tr><tr><td>Công ty Cổ phần Nông nghiệp Đông Pênh</td><td>Công ty con</td><td>Mua vật tư</td><td>7.957.250</td><td>-</td></tr><tr><td>Công ty Cổ phần Cao su Hoàng Anh - Quang Minh</td><td>Công ty con</td><td>Mua vật tư</td><td>3.798.449</td><td>-</td></tr><tr><td rowspan="2">Công ty Cổ phần Hoàng Anh Gia Lai</td><td rowspan="2">Công ty mẹ</td><td rowspan="2">Mua dịch vụ, hàng hóa Mua khoản đầu tư</td><td>430.728</td><td>6.605.559</td></tr><tr><td>-</td><td>12.828.645</td></tr><tr><td>Công ty Cổ phần Cao su Trung Nguyên</td><td>Công ty con</td><td>Mua vật tư</td><td>-</td><td>25.674.802</td></tr><tr><td>Công ty TNHH MTV Kinh doanh Xuất Nhập khẩu Hoàng Anh Gia Lai</td><td>Công ty con</td><td>Mua vật tư</td><td>-</td><td>2.674.574</td></tr><tr><td>Công ty Cổ phần Thẻ thao Hoàng Anh Gia Lai</td><td>Công ty trong cùng tập đoàn</td><td>Mua vật tư</td><td>-</td><td>3.124</td></tr><tr><td></td><td></td><td></td><td>147.945.974</td><td>56.350.535</td></tr><tr><td colspan="5">Người mua trả tiền trước ngắn hạn (Thuyết minh số 13)</td></tr><tr><td>Công ty TNHH MTV Phát triển Nông Nghiệp Đại Thắng</td><td>Bên liên quan</td><td>Tạm ứng mua vật tư</td><td>30.304.994</td><td>-</td></tr><tr><td></td><td></td><td></td><td>30.304.994</td><td>-</td></tr></table>
+
+42
+
+===== PAGE 45 =====
+Công ty Cổ phần Nông nghiệp Quốc tế Hoàng Anh Gia Lai
+
+B09-DN
+
+THUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG (tiếp theo)
+
+ngày 31 tháng 12 năm 2017 và cho năm tài chính kết thúc cùng ngày
+
+25. NGHIỆP VỤ VỚI BÊN LIÊN QUAN (tiếp theo)
+
+Vào ngày kết thúc kỳ kế toán năm, số dư các khoản phải thu và phải trả với các bên liên quan như sau: (tiếp theo)
+
+<table><tr><td rowspan="2">Bên liên quan</td><td rowspan="2">Mối quan hệ</td><td rowspan="2">Nội dung nghiệp vụ</td><td rowspan="2">Số cuối năm</td><td>Ngàn VND</td></tr><tr><td>Số đầu năm</td></tr><tr><td colspan="5">Phải trả ngắn hạn khác (Thuyết minh số 15)</td></tr><tr><td>Công ty Cổ phần HưngThắng Lợi</td><td>Bên liên quan</td><td>Mượn tiềnLãi vay</td><td>500.000.00010.120.174</td><td>-</td></tr><tr><td>Công ty Cổ phần HoàngAnh Gia Lai</td><td>Công ty mẹ</td><td>Lãi vayThu hộ</td><td>107.617.742-</td><td>168.133.553958.610</td></tr><tr><td>Công ty Cổ phần ThủyĐiện Hoàng Anh Gia Lai</td><td>Công ty trongcùng tập đoàn</td><td>Mượn tiềnLãi vay</td><td>67.800.0005.260.420</td><td>-</td></tr><tr><td>Công ty Cổ phần khoángsản Hoàng Anh Gia Lai</td><td>Công ty con</td><td>Mượn tiền</td><td>5.950.000</td><td>-</td></tr><tr><td></td><td></td><td></td><td>696.748.336</td><td>169.092.163</td></tr><tr><td colspan="5">Phải trả dài hạn khác (Thuyết minh số 15)</td></tr><tr><td>Công ty Cổ phầnHoàng Anh Gia Lai</td><td>Công ty mẹ</td><td>Lãi vay</td><td>346.274.401</td><td>83.336.578</td></tr><tr><td colspan="5">Vay ngắn hạn (Thuyết minh số 17.1)</td></tr><tr><td>Công ty Cổ phần HưngThắng Lợi</td><td>Bên liên quan</td><td>Vay ngắn hạn</td><td>12.091.300</td><td>-</td></tr><tr><td colspan="5">Vay dài hạn (Thuyết minh số 17.5)</td></tr><tr><td>Công ty Cổ phần HoàngAnh Gia Lai</td><td>Công ty mẹ</td><td>Vay dài hạn</td><td>1.957.824.733</td><td>5.639.736.886</td></tr><tr><td>Công ty Cổ phần Thủyđiện Hoàng Anh Gia Lai</td><td>Công ty trongcùng tập đoàn</td><td>Vay dài hạn</td><td>126.168.000</td><td>-</td></tr><tr><td></td><td></td><td></td><td>2.083.992.733</td><td>5.639.736.886</td></tr></table>
+
+Giao dịch với các bên liên quan khác
+
+Thu nhập của các thành viên Hội đồng Quản trị và Ban Giám đốc trong năm như sau:
+
+<table><tr><td rowspan="2"></td><td colspan="2">Ngàn VND</td></tr><tr><td>Năm nay</td><td>Năm trước</td></tr><tr><td>Lương và thường</td><td>2.507.100.800</td><td>2.404.370.625</td></tr></table>
+
+43
+
+===== PAGE 46 =====
+Công ty Cổ phần Nông nghiệp Quốc tế Hoàng Anh Gia Lai
+
+B09-DN
+
+THUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG (tiếp theo)
+
+ngày 31 tháng 12 năm 2017 và cho năm tài chính kết thúc cùng ngày
+
+26. CAM KẾT QUAN TRỌNG
+
+Theo hợp đồng chuyển nhượng vốn góp ngày 22 tháng 5 năm 2017 giữa Công ty, Công ty Cổ phần Đường Biên Hòa và Công ty Cổ phần Mía Đường Thành Thành Công Tây Ninh, cùng thỏa thuận ngày 15 tháng 6 năm 2017, Công ty cam kết chịu trách nhiệm vô điều kiện và không hủy ngang đối với bất kỳ khoản nợ, phạt, bồi thường, nghĩa vụ tài chính và/hoặc bất kỳ cam kết bảo lãnh, nhận nợ, biện pháp đảm bảo nào khác (dù là hiện hữu chưa được phân ánh hoặc tiêm tàng) mà Nhóm Công ty Mía đường HAGL có nghĩa vụ thực hiện đối với bất kỳ bên thứ ba (bao gồm cả đối với Chính phủ Lào và/hoặc chính phủ Việt Nam) phát sinh vào và trước ngày 31 tháng 8 năm 2016 nhưng chưa được ghi nhận trong báo cáo tài chính hợp nhất ngày 31 tháng 8 năm 2016 của Nhóm Công ty Mía đường, bao gồm nhưng không bị hạn chế bởi các khoản phải nộp liên quan đến:
+
+(a) Thuế, phí, lệ phí đối với chuyển lợi nhuận từ Nhóm Công ty Mía đường tại Lào về cho Công ty tại Việt Nam theo quy định pháp luật tại Lào và Việt nam;
+
+(b) Thuế nhà thầu hoặc thuế có tính chất tương tự đối với hoạt động xây dựng, giải phóng mặt bằng liên quan đến nhà máy và vùng nguyên liệu của Nhóm Công ty Mía đường HAGL;
+
+(c) Bảo hiểm xã hội, bảo hiểm y tế và thuế thu nhập cá nhân của người lao động làm việc tại Nhóm Công ty Mía đường HAGL;
+
+(d) Thuế giá trị gia tăng liên quan đến giao dịch chuyển nhượng tài sản thuộc hoạt động trồng cỏ và nuôi bò của Nhóm Công ty Mía đường HAGL; và
+
+(e) Các nghĩa vụ tài chính, nghĩa vụ thuế khác, các trách nhiệm bởi thường, tố tụng về mặt pháp lý liên quan đến hoạt động kinh doanh của Nhóm Công ty Mía đường HAGL trước ngày 31 tháng 8 năm 2016.
+
+27. SỰ KIỆN SAU NGÀY KẾT THỨC KỸ KẾ TOÁN NĂM
+
+Như đã trình bày tại Thuyết minh số 15, vào ngày 9 tháng 3 năm 2018, Công ty đã hoàn tất việc phát hành riêng lẻ 119.700.000 cổ phiếu để hoán đổi nợ vay thành vốn cổ phần.
+
+Theo đó, vốn cổ phần đăng ký của Công ty tăng từ 7.671.438.950 ngân VND lên 8.868.438.950 ngân VND. Váo ngày 30 tháng 3 năm 2018, Công ty đã được Sở Kế hoạch và Đầu tư Tĩnh Gia Lai ban hành Giấy Chứng nhận Đăng ký Doanh nghiệp điều chỉnh, chấp thuận việc tăng vốn nói trên.
+
+Ngoài sự kiện nếu trên, không có sự kiện nào khác phát sinh sau ngày kết thúc kỳ kế toán năm có ảnh hưởng trọng yếu cần phải điều chỉnh hoặc công bố trong báo cáo tài chính riêng.
+
+Phạm Thị Lưu Ly
+Người lập
+
+Ngày 30 tháng 3 năm 2018
+
+44

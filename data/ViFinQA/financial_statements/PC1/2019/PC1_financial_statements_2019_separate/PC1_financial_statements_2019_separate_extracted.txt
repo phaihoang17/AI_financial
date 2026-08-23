@@ -1,0 +1,1447 @@
+===== PAGE 1 =====
+BÁO CÁO TÀI CHÍNH RIÊNG
+
+CÔNG TY CỐ PHẦN XÂY LÁP ĐIỆN I
+
+Cho năm tài chính kết thúc ngày 31/12/2019
+
+(dã được kiểm toán)
+
+===== PAGE 2 =====
+Công ty Cổ phần Xây lắp điện I
+
+Số 18 Lý Văn Phúc, phường Cát Linh, quận Đống Đa, Hà Nội
+
+NỘI DUNG
+
+Trang
+
+Báo cáo của Ban Tổng Giám đốc 02 - 03
+
+Báo cáo kiểm toán độc lập 04
+
+Báo cáo tài chính riêng đã được kiểm toán 05 - 44
+
+Bảng cân đối kế toán riêng 05 - 06
+
+Báo cáo kết quả hoạt động kinh doanh riêng 07
+
+Báo cáo lưu chuyển tiền tệ riêng 08 - 09
+
+Thuyết minh Báo cáo tài chính riêng 10 - 44
+
+1
+
+===== PAGE 3 =====
+Công ty Cổ phần Xây lắp điện I
+
+Số 18 Lý Văn Phúc, phường Cát Linh, quận Đống Đa, Hà Nội
+
+BÁO CÁO CỦA BAN TỔNG GIÁM ĐỐC
+
+Ban Tổng Giám đốc Công ty Cổ phần Xây lắp điện I (sau đây gọi tất là “Công ty”) trình bày Báo cáo của mình và Báo cáo tài chính riêng của Công ty cho năm tài chính kết thúc ngày 31/12/2019.
+
+CÔNG TY
+
+Công ty Cổ phần Xây lắp điện I tiền thân là Công ty Xây lắp Đường dây và Trạm, được thành lập từ ngày 02/03/1963. Công ty chính thức được cổ phần hóa trở thành Công ty Cổ phần hoạt động theo Giấy chứng nhận đăng ký kinh doanh 0100100745 do Sở Kế hoạch và Đầu tư thành phố Hà Nội đăng ký lần đầu ngày 20 tháng 7 năm 2005 và đăng ký thay đổi lần thứ 19 ngày 21 tháng 08 năm 2019.
+
+Trụ sở chính của Công ty được đặt tại: Số 18 Lý Văn Phúc, phường Cát Linh, quận Đống Đa, Hà Nội.
+
+HỘI ĐỒNG QUẢN TRỊ, BAN TỔNG GIÁM ĐỐC VÀ BAN KIỂM SOÁT
+
+Các thành viên của Hội đồng Quản trị trong năm và tại ngày lập báo cáo này bao gồm:
+
+<table><tr><td>Ông Trịnh Văn Tuân</td><td>Chủ tịch</td></tr><tr><td>Ông Vũ Văn Tứ</td><td>Thành viên</td></tr><tr><td>ÔngVõ Hồng Quang</td><td>Thành viên</td></tr><tr><td>Ông Nguyễn Minh Đệ</td><td>Thành viên</td></tr><tr><td>Bà Nguyễn Thị Hương</td><td>Thành viên</td></tr></table>
+
+Các thành viên của Ban Tổng Giám đốc đã điều hành Công ty trong năm và tại ngày lập báo cáo này bao gồm:
+
+<table><tr><td>Ông Trịnh Văn Tuân</td><td>Tổng Giám đốc</td><td></td></tr><tr><td>Ông Vũ Văn Tử</td><td>Phó Tổng Giám đốc</td><td></td></tr><tr><td>Ông Võ Hồng Quang</td><td>Phó Tổng Giám đốc</td><td></td></tr><tr><td>Ông Đặng Văn Nghĩa</td><td>Phó Tổng Giám đốc</td><td>(Miễn nhiệm ngày 01/10/2019)</td></tr><tr><td>Ông Nguyễn Nhật Tân</td><td>Phó Tổng Giám đốc</td><td></td></tr><tr><td>Ông Nguyễn Minh Độ</td><td>Phó Tổng Giám đốc</td><td></td></tr><tr><td>Ông Vũ Ánh Dương</td><td>Phó Tổng Giám đốc</td><td>(Bố nhiệm ngày 02/01/2019)</td></tr><tr><td>Ông Đặng Quốc Tương</td><td>Phó Tổng Giám đốc</td><td>(Bố nhiệm ngày 01/10/2019)</td></tr></table>
+
+Các thành viên của Ban Kiểm soát bao gồm:
+
+<table><tr><td>Bà</td><td>Nguyễn Thị Hải Hà</td><td>Trường ban</td></tr><tr><td>Ông</td><td>Nguyễn Anh Tuân</td><td>Thành viên</td></tr><tr><td>Ông</td><td>Nguyễn Quang Vũ</td><td>Thành viên</td></tr></table>
+
+KIÊM TOÁN VIÊN
+
+Công ty TNHH Hăng Kiểm toán AASC đã thực hiện kiểm toán các Báo cáo tài chính riêng cho Công ty.
+
+2
+
+\( \left| {x - 1}\right|  = \frac{3}{2} + x + 8\sqrt{4} \)
+
+===== PAGE 4 =====
+Công ty Cổ phần Xây lắp điện I
+
+Số 18 Lý Văn Phúc, phường Cát Linh, quận Đống Đa, Hà Nội
+
+CÔNG BÓ TRÁCH NHIỆM CỦA BAN TỔNG GIÁM ĐỐC ĐỐI VỚI BẢO CẢO TÀI CHÍNH RIÊNG
+
+Ban Tổng Giám đốc Công ty chịu trách nhiệm về việc lập Báo cáo tài chính riêng phản ánh trung thực, hợp lý tính hình tài chính, kết quả hoạt động kinh doanh và tinh hình lưu chuyển tiền tệ của Công ty trong năm. Trong quá trình lập Báo cáo tài chính riêng, Ban Tổng Giám đốc Công ty cam kết đã tuân thủ các yêu cầu sau:
+
+- Xây dựng và duy trì kiểm soát nội bộ mà Ban Tổng Giám đốc và Ban quản trị Công ty xác định là cần thiết để đảm bảo cho việc lập và trình bày Báo cáo tài chính riêng không còn sai sót trọng yếu do gian lận hoặc do nhằm lẫn;
+
+- Lựa chọn các chính sách kế toán thích hợp và áp dụng các chính sách này một cách nhất quán;
+
+- Đưa ra các đánh giá và dự đoán hợp lý và thận trọng;
+
+- Nếu rõ các Chuẩn mực kế toán được áp dụng có được tuân thủ hay không, có những áp dụng sai lệch trọng yếu đến mức cần phải công bố và giải thích trong Báo cáo tài chính riêng hay không;
+
+- Lập và trình bày các Báo cáo tài chính riêng trên cơ sở tuân thủ các Chuẩn mục kế toán, Chế độ kế toán doanh nghiệp Việt Nam và các quy định pháp lý có liên quan đến việc lập và trình bày báo cáo tài chính;
+
+- Lập các Báo cáo tài chính riêng dựa trên cơ sở hoạt động kinh doanh liên tục, trừ trường hợp không thể cho rằng Công ty sẽ tiếp tục hoạt động kinh doanh.
+
+Ban Tổng Giám đốc Công ty đảm bảo rằng các số kế toán được lưu giữ để phản ánh tỉnh hình tài chính của Công ty, với mức độ trung thực, hợp lý tại bất cứ thời điểm nào và đảm bảo rằng Báo cáo tài chính riêng tuân thủ các quy định hiện hành của Nhà nước. Đồng thời có trách nhiệm trong việc bảo đảm an toàn tài sản của Công ty và thực hiện các biện pháp thích hợp để ngăn chặn, phát hiện các hành vi gian lập và các vi phạm khác.
+
+Ban Tổng Giám đốc Công ty cam kết rằng Báo cáo tài chính riêng đã phản ánh trung thực và hợp lý tỉnh hình tài chính của Công ty tại thời điểm ngày 31/12/2019, kết quả hoạt động kinh doanh và tỉnh hình lưu chuyển tiền tệ cho năm tài chính kết thúc cùng ngày, phù hợp với Chuẩn mực kế toán, Chế độ kế toán doanh nghiệp Việt Nam và tuân thủ các quy định pháp lý có liên quan đến việc lập và trình bày báo cáo tài chính.
+
+Cam kết khác
+
+Ban Tổng Giám đốc cam kết rằng Công ty tuân thủ Nghị định 71/2017/NĐ-CP ngày 06/06/2017 hướng dẫn về quản trị công ty áp dụng đối với công ty đại chúng và Công ty không vi phạm nghĩa vụ công bố thông tin theo quy định tại Thông tư số 155/2015/TT-BTC ngày 06/10/2015 của Bộ Tài chính hướng dẫn công bố thông tin trên Thị trường chứng khoán.
+
+Trịnh Văn Tuân
+
+Tổng Giám đốc
+
+Hà Nội, ngày 23 tháng 03 năm 2020
+
+3
+
+(1) (2) = 36 + 15
+
+===== PAGE 5 =====
+[Non-Text]
+
+aasc since 1991
+
+Số: 270320.004/BCTC.KT3
+
+BÁO CÁO KIỂM TOÁN ĐỘC LẬP
+
+Kính gửi: Quý Cổ đông, Hội đồng Quản trị và Ban Tổng Giám đốc Công ty Cổ phần Xây lắp điện I
+
+Chứng tôi đã kiểm toán Báo cáo tài chính riêng kèm theo của Công ty Cổ phần Xây lắp điện I được lập ngày 23 tháng 03 năm 2020, từ trang 05 đến trang 44, bao gồm: Bảng cân đối kế toán riêng tại ngày 31 tháng 12 năm 2019, Báo cáo kết quả hoạt động kinh doanh riêng, Báo cáo lưu chuyển tiền tệ riêng cho năm tài chính kết thúc cùng ngày và Bán Thuyết minh Báo cáo tài chính riêng.
+
+Trách nhiệm của Ban Tổng Giám đốc
+
+Ban Tổng Giám đốc Công ty chịu trách nhiệm về việc lập và trình bày trung thực và hợp lý Báo cáo tài chính riêng của Công ty theo Chuẩn mực kể toán, Chế độ kể toán doanh nghiệp Việt Nam và các quy định pháp lý có liên quan đến việc lập và trình bày Báo cáo tài chính và chịu trách nhiệm về kiểm soát nội bộ mà Ban Tổng Giám đốc xác định là cần thiết để đảm bảo cho việc lập và trình bày Báo cáo tài chính riêng không có sai sót trọng yếu do gian lập hoặc nhằm lẫn.
+
+Trách nhiệm của Kiểm toán viên
+
+Trách nhiệm của chúng tôi là đưa ra ý kiến về Báo cáo tài chính riêng dựa trên kết quả của cuộc kiểm toán. Chứng tôi đã tiến hành kiểm toán theo các Chuẩn mực kiểm toán Việt Nam. Các chuẩn mực này yêu cầu chúng tôi tuân thủ chuẩn mục và các quy định về đạo đức nghề nghiệp, lập kế hoạch và thực hiện cuộc kiểm toán để đạt được sự đảm bảo hợp lý về việc liệu Báo cáo tài chính riêng của Công ty có còn sai sót trọng yếu hay không.
+
+Công việc kiểm toán bao gồm thực hiện các thủ tục nhằm thu thập các bằng chứng kiểm toán về các số liệu và thuyết minh trên Báo cáo tài chính riêng. Các thủ tục kiểm toán được lựa chọn dựa trên xét đoán của kiểm toán viên, bao gồm đánh giá rủi ro có sai sốt trọng yếu trong Báo cáo tài chính riêng do gian lần hoặc nhằm lẫn. Khi thực hiện đánh giá các rủi ro này, kiểm toán viên đã xem xét kiểm soát nội bộ của Công ty liên quan đến việc lập và trình bày Báo cáo tài chính riêng trung thực, hợp lý nhằm thiết kế các thủ tục kiểm toán phù hợp với tính hình thực tế, tuy nhiên không nhàm mục đích đưa ra ý kiến về hiệu quả của kiểm soát nội bộ của Công ty. Công việc kiểm toán cũng bao gồm đánh giá tính thích hợp của các chính sách kế toán được áp dụng và tính hợp lý của các ước tính kế toán của Ban Tổng Giám đốc cũng như đánh giá việc trình bày tổng thể Báo cáo tài chính riêng.
+
+Chúng tôi tin tương rằng các bằng chứng kiểm toán mà chúng tôi đã thu thập được là đầy đủ và thích hợp làm cơ sở cho ý kiến kiểm toán của chúng tôi.
+
+Ý kiến của Kiểm toán viên
+
+Theo ý kiến của chúng tôi, Báo cáo tài chính riêng đã phần ánh trung thực và hợp lý, trên các khía cạnh trọng yếu tính hình tài chính của Công ty Cổ phần Xây lắp điện I tại ngày 31 tháng 12 năm 2019, cũng như kết quả hoạt động kinh doanh và tính hình lưu chuyển tiền tệ trong năm tài chính kết thúc cùng ngày, phù hợp với Chuẩn mực kế toán, Chế độ kế toán doanh nghiệp Việt Nam và các quy định pháp lý có liên quan đến việc lập và trình bày cáo cáo tài chính.
+
+Công ty TNHH Hăng Kiểm toán AASC
+
+Phạm Anh Tuân
+
+Phó Tổng Giám đốc
+
+Giấy chứng nhận đăng ký hành nghề kiểm toán số: 0777-2018-002-1
+
+Hà Nội, ngày 27 tháng 03 năm 2020
+
+Nguyễn Thị Nhàn
+
+Kiểm toán viên
+
+Giấy chứng nhận đăng ký hành nghề kiểm toán số: 2959-2020-002-1
+
+T: (84)24 3824 1990 | F: (84)24 3825 3973 | 1 Le Phung Hieu, Hanoi, Vietnam
+
+A member of
+
+HLB
+
+international
+
+aasc.com.vn
+
+HĂNG KIẾM TOĂN AASC
+
+4
+
+===== PAGE 6 =====
+The image contains no text. The vertical line is a stylistic or background element and must be ignored according to the rules.
+
+Công ty Cổ phần Xây lắp điện I
+
+Số 18 Lý Văn Phúc, phường Cát Linh, quận Đống Đa, Hà Nội
+
+Báo cáo tài chính riêng
+
+Cho năm tài chính kết thúc ngày 31/12/2019
+
+BẢNG CÂN ĐỐI KẾ TOÁN RIÊNG
+
+Tại ngày 31 tháng 12 năm 2019
+
+<table><tr><td rowspan="2">Mã số</td><td rowspan="2">TÀI SẢN</td><td rowspan="2">Thuyết minh</td><td>31/12/2019</td><td>01/01/2019</td></tr><tr><td>VND</td><td>VND</td></tr><tr><td>100</td><td>A. TÀI SẢN NGÂN HẠN</td><td></td><td>2.660.783.144.842</td><td>2.065.287.409.078</td></tr><tr><td>110</td><td>I. Tiền và các khoản tương đương tiền</td><td>3</td><td>478.438.210.075</td><td>572.299.230.530</td></tr><tr><td>111</td><td>1. Tiền</td><td></td><td>46.438.210.075</td><td>24.299.230.530</td></tr><tr><td>112</td><td>2. Các khoản tương đương tiền</td><td></td><td>432.000.000.000</td><td>548.000.000.000</td></tr><tr><td>120</td><td>II. Đầu tư tài chính ngắn hạn</td><td>4</td><td>150.000.000.000</td><td>90.000.000.000</td></tr><tr><td>123</td><td>1. Đầu tư nằm giữ đến ngày đáo hạn</td><td></td><td>150.000.000.000</td><td>90.000.000.000</td></tr><tr><td>130</td><td>III. Các khoản phải thu ngắn hạn</td><td></td><td>1.663.473.922.545</td><td>1.165.894.905.987</td></tr><tr><td>131</td><td>1. Phải thu ngắn hạn của khách hàng</td><td>5</td><td>962.018.887.474</td><td>786.686.395.766</td></tr><tr><td>132</td><td>2. Trả trước cho người bán ngắn hạn</td><td>6</td><td>576.779.640.136</td><td>346.811.645.600</td></tr><tr><td>135</td><td>3. Phải thu về cho vay ngắn hạn</td><td>7</td><td>37.000.000.000</td><td>-</td></tr><tr><td>136</td><td>4. Phải thu ngắn hạn khác</td><td>8</td><td>90.809.426.672</td><td>35.530.896.358</td></tr><tr><td>137</td><td>5. Dự phòng phải thu ngắn hạn khó đòi</td><td></td><td>(3.134.031.737)</td><td>(3.134.031.737)</td></tr><tr><td>140</td><td>IV. Hàng tồn kho</td><td>9</td><td>339.714.275.861</td><td>229.858.162.509</td></tr><tr><td>141</td><td>1. Hàng tồn kho</td><td></td><td>339.714.275.861</td><td>229.858.162.509</td></tr><tr><td>150</td><td>V. Tài sản ngắn hạn khác</td><td></td><td>29.156.736.361</td><td>7.235.110.052</td></tr><tr><td>151</td><td>1. Chi phí trả trước ngắn hạn</td><td>14</td><td>207.002.554</td><td>261.955.040</td></tr><tr><td>152</td><td>2. Thuế GTGT được khấu trừ</td><td></td><td>28.949.733.807</td><td>6.973.155.012</td></tr><tr><td>200</td><td>B. TÀI SẢN DÀI HẠN</td><td></td><td>3.492.858.782.893</td><td>2.872.112.638.117</td></tr><tr><td>220</td><td>II. Tài sản cố định</td><td></td><td>1.688.777.830.216</td><td>1.769.510.080.058</td></tr><tr><td>221</td><td>1. Tài sản cố định hữu hình</td><td>11</td><td>1.686.956.265.237</td><td>1.768.402.010.058</td></tr><tr><td>222</td><td>- Nguyên giá</td><td></td><td>1.953.022.389.408</td><td>1.949.146.115.157</td></tr><tr><td>223</td><td>- Giá trị hao mòn lũy kế</td><td></td><td>(266.066.124.171)</td><td>(180.744.105.099)</td></tr><tr><td>227</td><td>2. Tài sản cố định vô hình</td><td>12</td><td>1.821.564.979</td><td>1.108.070.000</td></tr><tr><td>228</td><td>- Nguyên giá</td><td></td><td>1.987.970.000</td><td>1.217.970.000</td></tr><tr><td>229</td><td>- Giá trị hao mòn lũy kế</td><td></td><td>(166.405.021)</td><td>(109.900.000)</td></tr><tr><td>230</td><td>III. Bất động sản đầu tư</td><td>13</td><td>96.785.604.132</td><td>97.160.200.443</td></tr><tr><td>231</td><td>- Nguyên giá</td><td></td><td>125.823.873.019</td><td>120.617.951.458</td></tr><tr><td>232</td><td>- Giá trị hao mòn lũy kế</td><td></td><td>(29.038.268.887)</td><td>(23.457.751.015)</td></tr><tr><td>240</td><td>IV. Tài sản dở dang dài hạn</td><td></td><td>436.393.809.541</td><td>54.817.231.467</td></tr><tr><td>242</td><td>1. Chi phí xây dựng cơ bản dở dang</td><td>10</td><td>436.393.809.541</td><td>54.817.231.467</td></tr><tr><td>250</td><td>V. Đầu tư tài chính dài hạn</td><td>4</td><td>1.244.695.195.306</td><td>924.452.888.251</td></tr><tr><td>251</td><td>1. Đầu tư vào công ty con</td><td></td><td>1.181.293.973.373</td><td>827.596.708.373</td></tr><tr><td>252</td><td>2. Đầu tư vào công ty liên doanh, liên kết</td><td></td><td>162.178.756.168</td><td>162.178.756.168</td></tr><tr><td>253</td><td>3. Đầu tư góp vốn vào đơn vị khác</td><td></td><td>4.821.770.000</td><td>4.821.770.000</td></tr><tr><td>254</td><td>4. Dự phòng giảm giá đầu tư tài chính dài hạn</td><td></td><td>(103.599.304.235)</td><td>(70.144.346.290)</td></tr><tr><td>260</td><td>VI. Tài sản dài hạn khác</td><td></td><td>26.206.343.698</td><td>26.172.237.898</td></tr><tr><td>261</td><td>1. Chi phí trả trước dài hạn</td><td>14</td><td>26.206.343.698</td><td>26.172.237.898</td></tr><tr><td>270</td><td>TỔNG CỘNG TÀI SẢN</td><td></td><td>6.153.641.927.735</td><td>4.937.400.047.195</td></tr></table>
+
+5
+
+===== PAGE 7 =====
+Công ty Cổ phần Xây lắp điện I
+
+Số 18 Lý Văn Phúc, phường Cát Linh, quận Đồng Đa, Hà Nội
+
+Báo cáo tài chính riêng
+
+Cho năm tài chính kết thúc ngày 31/12/2019
+
+BẢNG CÂN ĐỐI KẾ TOÁN RIÊNG
+
+Tại ngày 31 tháng 12 năm 2019
+
+(tiếp theo)
+
+<table><tr><td rowspan="2">Mã số</td><td rowspan="2">NGUỒN VỐN</td><td rowspan="2">Thuyết minh</td><td>31/12/2019</td><td>01/01/2019</td></tr><tr><td>VND</td><td>VND</td></tr><tr><td>300</td><td>C. NỘ PHẢI TRẢ</td><td></td><td>2.887.269.452.800</td><td>2.134.863.760.905</td></tr><tr><td>310</td><td>I. Nợ ngắn hạn</td><td></td><td>1.794.097.019.204</td><td>1.199.649.878.237</td></tr><tr><td>311</td><td>1. Phải trả người bán ngắn hạn</td><td>16</td><td>611.574.701.983</td><td>470.331.263.952</td></tr><tr><td>312</td><td>2. Người mua trả tiền trước ngắn hạn</td><td>17</td><td>68.705.266.471</td><td>99.814.857.998</td></tr><tr><td>313</td><td>3. Thuế và các khoản phải nộp Nhà nước</td><td>18</td><td>20.983.652.156</td><td>19.992.691.899</td></tr><tr><td>314</td><td>4. Phải trả người lao động</td><td></td><td>14.875.308.117</td><td>11.803.029.291</td></tr><tr><td>315</td><td>5. Chi phí phải trả ngắn hạn</td><td>19</td><td>84.437.085.641</td><td>95.285.064.285</td></tr><tr><td>318</td><td>6. Doanh thu chưa thực hiện ngắn hạn</td><td>21</td><td>524.871.456</td><td>101.992.887</td></tr><tr><td>319</td><td>7. Phải trả ngắn hạn khác</td><td>20</td><td>16.024.641.825</td><td>17.635.522.484</td></tr><tr><td>320</td><td>8. Vay và nợ thuê tài chính ngắn hạn</td><td>15</td><td>902.322.559.762</td><td>428.317.685.485</td></tr><tr><td>321</td><td>9. Dự phòng phải trả ngắn hạn</td><td>22</td><td>-</td><td>6.196.277.618</td></tr><tr><td>322</td><td>10. Quỹ khen thưởng phúc lợi</td><td></td><td>74.648.931.793</td><td>50.171.492.338</td></tr><tr><td>330</td><td>II. Nợ dài hạn</td><td></td><td>1.093.172.433.596</td><td>935.213.882.668</td></tr><tr><td>337</td><td>1. Phải trả dài hạn khác</td><td>20</td><td>1.453.347.330</td><td>944.637.972</td></tr><tr><td>338</td><td>2. Vay và nợ thuê tài chính dài hạn</td><td>15</td><td>1.084.457.407.553</td><td>927.007.565.983</td></tr><tr><td>342</td><td>3. Dự phòng phải trả dài hạn</td><td>22</td><td>7.261.678.713</td><td>7.261.678.713</td></tr><tr><td>400</td><td>D. VỐN CHỦ SỞ HỮU</td><td></td><td>3.266.372.474.935</td><td>2.802.536.286.290</td></tr><tr><td>410</td><td>I. Vốn chủ sở hữu</td><td>23</td><td>3.266.372.474.935</td><td>2.802.536.286.290</td></tr><tr><td>411</td><td>1. Vốn góp của chủ sở hữu</td><td></td><td>1.593.242.660.000</td><td>1.327.702.940.000</td></tr><tr><td>411a</td><td>- Cổ phiếu phổ thông có quyền biểu quyết</td><td></td><td>1.593.242.660.000</td><td>1.327.702.940.000</td></tr><tr><td>412</td><td>2. Thắng dư vốn cổ phần</td><td></td><td>711.136.556.786</td><td>711.136.556.786</td></tr><tr><td>415</td><td>3. Cổ phiếu quỹ</td><td></td><td>(4.320.000)</td><td>(4.320.000)</td></tr><tr><td>418</td><td>4. Quỹ đầu tư phát triển</td><td></td><td>114.455.330.655</td><td>84.979.549.960</td></tr><tr><td>420</td><td>5. Quỹ khác thuộc vốn chủ sở hữu</td><td></td><td>46.742.864.034</td><td>32.004.973.686</td></tr><tr><td>421</td><td>6. Lợi nhuận sau thuế chưa phân phối</td><td></td><td>800.799.383.460</td><td>646.716.585.858</td></tr><tr><td>421a</td><td>- LNST chưa phân phối lũy kế đến cuối năm trước</td><td></td><td>301.592.257.981</td><td>351.958.778.907</td></tr><tr><td>421b</td><td>- LNST chưa phân phối năm nay</td><td></td><td>499.207.125.479</td><td>294.757.806.951</td></tr></table>
+
+440 TỔNG CỘNG NGUỒN VỐN
+
+4.937.400.047.195
+
+Phạm Thị Thanh Bình
+
+Người lập biểu
+
+Hà Nội, ngày 23 tháng 03 năm 2020
+
+Trần Thị Minh Việt
+
+Kế toán trường
+
+Trịnh Văn Tuân
+
+Tổng Giám đốc
+
+6
+
+===== PAGE 8 =====
+Công ty Cổ phần Xây lắp điện I
+
+Số 18 Lý Văn Phúc, phường Cát Linh, quận Đống Đa, Hà Nội
+
+Báo cáo tài chính riêng
+
+Cho năm tài chính kết thúc ngày 31/12/2019
+
+BÁO CÁO KẾT QUẢ HOẠT ĐỘNG KINH DOANH RIÊNG
+
+Năm 2019
+
+<table><tr><td rowspan="2">Mã số</td><td rowspan="2">CHỈ TIÊU</td><td rowspan="2">Thuyết minh</td><td>Năm 2019</td><td>Năm 2018</td></tr><tr><td>VND</td><td>VND</td></tr><tr><td>01</td><td>1. Doanh thu bán hàng và cung cấp dịch vụ</td><td>25</td><td>4.815.421.295.431</td><td>3.225.760.242.714</td></tr><tr><td>02</td><td>2. Các khoản giảm trừ doanh thu</td><td></td><td>-</td><td>-</td></tr><tr><td>10</td><td>3. Doanh thu thuần bán hàng và cung cấp dịch vụ</td><td></td><td>4.815.421.295.431</td><td>3.225.760.242.714</td></tr><tr><td>11</td><td>4. Giá vốn hàng bán</td><td>26</td><td>4.323.763.364.598</td><td>2.843.754.415.319</td></tr><tr><td>20</td><td>5. Lợi nhuận gộp về bán hàng và cung cấp dịch vụ</td><td></td><td>491.657.930.833</td><td>382.005.827.395</td></tr><tr><td>21</td><td>6. Doanh thu hoạt động tài chính</td><td>27</td><td>268.615.091.234</td><td>69.636.173.621</td></tr><tr><td>22</td><td>7. Chi phí tài chính</td><td>28</td><td>160.877.999.624</td><td>91.854.975.641</td></tr><tr><td>23</td><td>Trong đó: Chi phí lãi vay</td><td></td><td>127.112.167.384</td><td>94.388.752.959</td></tr><tr><td>25</td><td>8. Chi phí bán hàng</td><td>29</td><td>18.672.299.454</td><td>17.880.486.798</td></tr><tr><td>26</td><td>9. Chi phí quản lý doanh nghiệp</td><td>30</td><td>66.282.265.408</td><td>63.401.405.143</td></tr><tr><td>30</td><td>10. Lợi nhuận thuần từ hoạt động kinh doanh</td><td></td><td>514.440.457.581</td><td>278.505.133.434</td></tr><tr><td>31</td><td>11. Thu nhập khác</td><td>31</td><td>6.597.920.420</td><td>44.578.005.636</td></tr><tr><td>32</td><td>12. Chi phí khác</td><td>32</td><td>20.654.329</td><td>4.487:051.826</td></tr><tr><td>40</td><td>13. Lợi nhuận khác</td><td></td><td>6.577.266.091</td><td>40.090.953.810</td></tr><tr><td>50</td><td>14. Tổng lợi nhuận kế toán trước thuế</td><td></td><td>521.017.723.672</td><td>318.596.087.244</td></tr><tr><td>51</td><td>15. Chi phí thuế thu nhập doanh nghiệp hiện hành</td><td>33</td><td>21.810.598.193</td><td>23.838.280.293</td></tr><tr><td>52</td><td>16. Chi phí thuế thu nhập doanh nghiệp hoãn lại</td><td></td><td>-</td><td>-</td></tr><tr><td>60</td><td>17. Lợi nhuận sau thuế thu nhập doanh nghiệp</td><td></td><td>499.207.125.479</td><td>294.757.806.951</td></tr></table>
+
+Phạm Thị Thanh Bình
+
+Người lập biểu
+
+Hà Nội, ngày 23 tháng 03 năm 2020
+
+Trần Thị Minh Việt
+
+Kế toán trường
+
+7
+
+\( \left\| \vec{z}^{\prime}\right\| > \frac{1}{2} \) 且 \( \vec{z}^{\prime} \) 为正数的乘积
+
+===== PAGE 9 =====
+Công ty Cổ phần Xây lắp điện I
+
+Số 18 Lý Văn Phúc, phường Cát Linh, quận Đống Đa, Hà Nội
+
+Báo cáo tài chính riêng
+
+Cho năm tài chính kết thúc ngày 31/12/2019
+
+BÁO CÁO LUÙ CHUYÊN TIỀN TỆ RIÊNG
+
+Năm 2019
+
+(Theo phương pháp gián tiếp)
+
+<table><tr><td rowspan="2">Mã số</td><td rowspan="2">CHỈ TIÊU</td><td rowspan="2">Thuyết minh</td><td>Năm 2019</td><td>Năm 2018</td></tr><tr><td>VND</td><td>VND</td></tr><tr><td></td><td colspan="4">I. LU&#x27;U CHUYÊN TIÊN TỪ HOẠT ĐỘNG KINH DOANH</td></tr><tr><td>01</td><td>Lợi nhuận trước thuế</td><td></td><td>521.017.723.672</td><td>318.596.087.244</td></tr><tr><td></td><td>Điều chỉnh cho các khoản</td><td></td><td></td><td></td></tr><tr><td>02</td><td>- Khấu hao tài sản cố định và bất động sản đầu tư</td><td></td><td>92.851.106.466</td><td>93.944.417.008</td></tr><tr><td>03</td><td>- Các khoản dự phòng</td><td></td><td>27.258.680.327</td><td>(53.169.235.951)</td></tr><tr><td>04</td><td>- Lãi, lỗ chênh lệch tỷ giá hối đoái do đánh giá lại các khoản mục tiền tệ có gốc ngoại tệ</td><td></td><td>-</td><td>(770.011)</td></tr><tr><td>05</td><td>- Lãi, lỗ từ hoạt động đầu tư</td><td></td><td>(267.513.404.861)</td><td>(66.341.144.067)</td></tr><tr><td>06</td><td>- Chi phí lãi vay</td><td></td><td>127.112.167.384</td><td>94.388.752.959</td></tr><tr><td>08</td><td>Lợi nhuận từ hoạt động kinh doanh trước thay đổi vốn lưu động</td><td></td><td>500.726.272.988</td><td>387.418.107.182</td></tr><tr><td>09</td><td>- Tăng, giảm các khoản phải thu (*)</td><td></td><td>(534.760.400.092)</td><td>(169.894.698.336)</td></tr><tr><td>10</td><td>- Tăng, giảm hàng tồn kho</td><td></td><td>(109.856.113.352)</td><td>81.211.572.391</td></tr><tr><td>11</td><td>- Tăng, giảm các khoản phải trả (không kể lãi vay phải trả, thuế thu nhập doanh nghiệp phải nộp)</td><td></td><td>86.535.529.473</td><td>(19.578.344.866)</td></tr><tr><td>12</td><td>- Tăng, giảm chi phí trả trước</td><td></td><td>(57.257.675)</td><td>960.062.184</td></tr><tr><td>14</td><td>- Tiền lãi vay đã trả</td><td></td><td>(128.996.020.188)</td><td>(82.527.883.535)</td></tr><tr><td>15</td><td>- Thuế thu nhập doanh nghiệp đã nộp</td><td></td><td>(19.453.291.102)</td><td>(31.021.954.135)</td></tr><tr><td>17</td><td>- Tiền chi khác cho hoạt động kinh doanh</td><td></td><td>(10.893.497.379)</td><td>(4.984.155.251)</td></tr><tr><td>20</td><td>Lưu chuyển tiền thuần từ hoạt động kinh doanh</td><td></td><td>(216.754.777.327)</td><td>161.582.705.635</td></tr><tr><td></td><td colspan="4">II. LU&#x27;U CHUYÊN TIÊN TỪ HOẠT ĐỘNG ĐẦU TƯ</td></tr><tr><td>21</td><td>Tiền chi để mua sắm, xây dựng tài sản cố định và các tài sản dài hạn khác</td><td></td><td>(320.783.540.268)</td><td>(224.819.351.351)</td></tr><tr><td>22</td><td>Tiền thu từ thanh lý, nhượng bán tài sản cố định và các tài sản dài hạn khác</td><td></td><td>243.454.545</td><td>2.835.623.818</td></tr><tr><td>23</td><td>Tiền chi cho vay, mua các công cụ nợ của đơn vị khác</td><td></td><td>(137.000.000.000)</td><td>(40.000.000.000)</td></tr><tr><td>24</td><td>Tiền thu hồi cho vay, bán lại các công cụ nợ của đơn vị khác</td><td></td><td>40.000.000.000</td><td>50.000.000.000</td></tr><tr><td>25</td><td>Tiền chi đầu tư góp vốn vào đơn vị khác (*)</td><td></td><td>(353.697.265.000)</td><td>(145.784.089.143)</td></tr><tr><td>27</td><td>Tiền thu lãi cho vay, cổ tức và lợi nhuận được chia</td><td></td><td>262.676.391.748</td><td>62.085.513.812</td></tr><tr><td>30</td><td>Lưu chuyển tiền thuần từ hoạt động đầu tư</td><td></td><td>(508.560.958.975)</td><td>(295.682.302.864)</td></tr><tr><td></td><td colspan="4">III. LU&#x27;U CHUYÊN TIÊN TỪ HOẠT ĐỘNG TÀI CHÍNH</td></tr><tr><td>33</td><td>Tiền thu từ đi vay</td><td></td><td>2.599.722.813.869</td><td>1.089.479.880.555</td></tr><tr><td>34</td><td>Tiền trả nợ gốc vay</td><td></td><td>(1.968.268.098.022)</td><td>(798.711.658.108)</td></tr><tr><td>40</td><td>Lưu chuyển tiền thuần từ hoạt động tài chính</td><td></td><td>631.454.715.847</td><td>290.768.222.447</td></tr><tr><td>50</td><td>Lưu chuyển tiền thuần trong năm</td><td></td><td>(93.861.020.455)</td><td>156.668.625.218</td></tr></table>
+
+8
+
+110
+NG
+HÊM
+KIÊM
+AS
+IÊM
+
+===== PAGE 10 =====
+Công ty Cổ phần Xây lắp điện I
+
+Số 18 Lý Văn Phúc, phường Cát Linh, quận Đông Đa, Hà Nội
+
+Báo cáo tài chính riêng
+
+Cho năm tài chính kết thúc ngày 31/12/2019
+
+BÁO CÁO LƯU CHUYỀN TIỀN TỆ RIÊNG
+
+Năm 2019
+
+(Theo phương pháp gián tiếp)
+
+<table><tr><td rowspan="2">Mã số</td><td rowspan="2">CHỈ TIÊU</td><td rowspan="2">Thuyết minh</td><td>Năm 2019</td><td>Năm 2018</td></tr><tr><td>VND</td><td>VND</td></tr><tr><td>60</td><td>Tiền và tương đương tiền đầu năm</td><td></td><td>572.299.230.530</td><td>415.629.835.301</td></tr><tr><td>61</td><td>Ảnh hưởng của thay đổi tỷ giá hối đoái quy đổi ngoại tệ</td><td></td><td>-</td><td>770.011</td></tr><tr><td>70</td><td>Tiền và tương đương tiền cuối năm</td><td>3</td><td>478.438.210.075</td><td>572.299.230.530</td></tr></table>
+
+(*) Trong đó, dòng tiền góp vốn đầu tư vào Công ty Cổ phần Đầu tư Năng lượng Miền Bắc từ việc bù trừ công nợ chuyển nhượng dự án Mông Ân số tiền là: 63.663.000.000 đồng.
+
+Phạm Thị Thanh Bình
+
+Người lập biểu
+
+Hà Nội, ngày 23 tháng 03 năm 2020
+
+Trần Thị Minh Việt
+
+Kế toán trường
+
+Tổng Giám đốc
+
+9
+
+===== PAGE 11 =====
+[Non-Text]
+
+Công ty Cổ phần Xây lắp điện I
+
+Số 18 Lý Văn Phúc, phường Cát Linh, quận Đống Đa, Hà Nội
+
+Báo cáo tài chính riêng
+
+Cho năm tài chính kết thúc ngày 31/12/2019
+
+THUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG
+
+Năm 2019
+
+1. ĐẶC ĐIỂM HOẠT ĐỘNG CỦA DOANH NGHIỆP
+
+Hình thức sở hữu vốn
+
+Công ty Cổ phần Xây lắp diện I tiền thân là Công ty Xây lắp Đường dây và Trạm, được thành lập từ ngày 02/03/1963. Công ty chính thức được cổ phần hóa trở thành Công ty Cổ phần hoạt động theo Giấy chứng nhận đăng ký kinh doanh 0100100745 do Sở Kế hoạch và Đầu tư thành phố Hà Nội đăng ký lần đầu ngày 20 tháng 7 năm 2005 và đăng ký thay đổi lần thứ 19 ngày 21 tháng 08 năm 2019.
+
+Trụ sở chính của Công ty được đặt tại: Số 18 Lý Văn Phúc, phường Cát Linh, quận Đống Đa, Hà Nội.
+
+Vốn điều lệ của Công ty theo đăng ký là 1.593.242.660.000 đồng, vốn điều lệ thực góp đến ngày 31 tháng 12 năm 2019 là 1.593.242.660.000 đồng; tương đương 159.324.266 cổ phần, mệnh giá một cổ phần là 10.000 đồng.
+
+Lĩnh vực kinh doanh
+
+Xây lắp điện; Sản xuất công nghiệp và Kinh doanh bất động sản; Đầu tư thủy điện.
+
+Ngành nghề kinh doanh
+
+Hoạt động chính của Công ty là:
+
+- Kinh doanh bất động sản, quyền sử dụng đất thuộc chủ sở hữu, chủ sử dụng hoặc đi thuê bao gồm: Đầu tư tạo lập nhà, công trình xây dựng để bán, cho thuê, cho thuê mua; Mua nhà, công trình xây dựng để bán, cho thuê, cho thuê mua; Thuê nhà, công trình xây dựng để cho thuê lại; Đầu tư, cải tạo đất và đầu tư các công trình hạ tầng trên đất thuê để cho thuê đất đã có hạ tầng; Nhận chuyển nhượng quyền sử dụng đất, đầu tư công trình hạ tầng để chuyển nhượng, cho thuê; thuê quyền sử dụng đất đã có hạ tầng để cho thuê lại;
+
+- Tư vấn, môi giới, đầu giá bất động sản, đầu giá quyền sử dụng đất: Dịch vụ tư vấn bất động sản, dịch vụ môi giới bất động sản, dịch vụ định giá bất động sản, dịch vụ sản giao dịch bất động sản, dịch vụ quảng cáo bất động sản, dịch vụ quản lý bất động sản; tổ chức dịch vụ quản lý, vận hành và khai thác khu đô thị, nhà chung cư cao tầng;
+
+- Sản xuất, chế tạo cột thép, mạ kẽm những nóng và các cấu kiện kim loại phục vụ dân dụng và công nghiệp;
+
+- Xây dựng công trình kỹ thuật dân dụng khác: Xây lắp các công trình đường dây tái điện và trạm biến áp, các công trình nguồn điện, các công trình công nghiệp, dân dụng, kỹ thuật hạ tầng, giao thông, thủy lợi, bưu chính viễn thông;
+
+- Xuất nhập khẩu các mặt hàng Công ty kinh doanh;
+
+- Chuân bị mặt bằng;
+
+- Lắp đặt hệ thống điện;
+
+- Tư vấn đầu tư;
+
+- Đo đặc bản đồ địa chính, giải thừa, trích đo thừa đất để phục vụ đến bù thi công công trình;
+
+- Bán buôn kim loại và quảng kim loại;
+
+- Sản xuất các cấu kiện kim loại; Rèn, dập, ép và cán kim loại; luyện bột kim loại.
+
+Đặc điểm hoạt động của doanh nghiệp trong năm tài chính có ảnh hưởng đến Báo cáo tài chính riêng
+
+1. Năm 2019, doanh thu có sự tăng trưởng so với năm trước. Sự tăng trưởng này chủ yếu đến từ hoạt động xây lắp, nguyên nhân chính là do trong năm Công ty bán hàng có giá trị lớn đối với các công trình xây lắp EPC. Ngoài ra hoạt động sản xuất công nghiệp cũng có sự tăng trưởng mạnh mã. Trong năm, Công ty đã thực hiện ký kết nhiều hợp đồng xây lắp và sản xuất công nghiệp có giá trị lớn với các chủ đầu tư.
+
+2. Lợi nhuận sau thuế có sự tăng trưởng mạnh so với năm trước (69,4%), điều này chủ yếu là do trong năm Công ty con - Công ty Cổ phần Địa ốc Mỹ Đình thực hiện phân phối cổ tức từ hoạt động kinh doanh bất động sản. Ngoài ra hoạt động xây lắp và thủy điện cũng có sự tăng trưởng mạnh.
+
+3. Năm 2019, hoạt động sản xuất công nghiệp và bán hàng hóa, vật liệu cũng có sự tăng trưởng mạnh so với năm 2018. Công ty đã thực hiện ký kết nhiều hợp đồng sản xuất công nghiệp với các chủ đầu tư, hoạt động sản xuất, mua bán hàng hóa, vật liệu trong năm 2019 có sự tăng trưởng mạnh mê. Do vậy, các khoản công nợ tạm ứng cho nhà cung cấp phục vụ sản xuất kinh doanh có sự tăng mạnh so với đầu năm.
+
+4. Năm 2019, Công ty tiếp tục huy động nguồn vốn hoạt động từ tiền vay ngắn hạn nhằm phục vụ cho hoạt động sản xuất kinh doanh với giá trị sản lượng lớn hơn năm trước dẫn đến các khoản vay ngắn hạn cuối năm nay tăng so với đầu năm. Bên cạnh đó, Công ty cũng huy động nguồn vay dài hạn cho các dự án đang đầu tư làm cho các khoản vay dài hạn tăng mạnh so với đầu năm.
+
+10
+
+===== PAGE 12 =====
+Công ty Cổ phần Xây lắp điện I
+
+Số 18 Lý Văn Phúc, phường Cát Linh, quận Đống Đa, Hà Nội
+
+Báo cáo tài chính riêng
+
+Cho năm tài chính kết thúc ngày 31/12/2019
+
+Cấu trúc doanh nghiệp
+
+<table><tr><td>Công ty có 01 đơn vị trực thuộc sau</td><td>Địa chỉ</td><td>Hoạt động kinh doanh chính</td></tr><tr><td>Chi nhánh Công ty Cổ phần Xây lắp diện I - Nhà máy Kết cấu thép Yên Thường (*)</td><td>Thôn Yên Khê, xã Yên Thường, Gia Lâm, Hà Nội</td><td>Sản xuất, chế tạo cột thép</td></tr></table>
+
+(*) Chi nhánh Yên Thường được thành lập theo Nghị quyết số 09/NQ-PCC1-HĐQT ngày 19/06/2019 của Công ty Cổ phần Xây lắp Điện I về việc thành lập Chi nhánh trên cơ sở chuyển đổi từ Nhà máy kết cấu Thép Yên Thường. Theo đó, từ ngày thành lập, Chi nhánh chuyển từ hình thức hạch toán báo sổ sang hạch toán độc lập.
+
+2. CHẾ ĐỘ VÀ CHÍNH SÁCH KẾ TOÁN ÁP DỤNG TẠI CÔNG TY
+
+2.1. Kỳ kế toán, đơn vị tiền tệ sử dụng trong kế toán
+
+Kỳ kế toán của Công ty theo năm dương lịch bắt đầu từ ngày 01/01 và kết thúc vào ngày 31/12 hàng năm.
+
+Đơn vị tiền tệ sử dụng trong ghi chép kế toán là Đồng Việt Nam (VND).
+
+2.2. Chuẩn mực và Chế độ kế toán áp dụng
+
+Chế độ kế toán áp dụng
+
+Công ty áp dụng Chế độ Kế toán doanh nghiệp ban hành theo Thông tư số 200/2014/TT-BTC ngày 22/12/2014 của Bộ Tài chính và Thông tư số 53/2016/TT-BTC ngày 21/03/2016 của Bộ Tài chính về việc sửa đổi, bổ sung một số điều của Thông tư số 200/2014/TT-BTC.
+
+Tuyên bố về việc tuân thủ Chuẩn mực kế toán và Chế độ kế toán
+
+Công ty đã áp dụng các Chuẩn mục kế toán Việt Nam và các văn bản hướng dẫn Chuẩn mục do Nhà nước đã ban hành. Các Báo cáo tài chính được lập và trình bày theo đúng mọi quy định của từng chuẩn mục, thông tư hướng dẫn thực hiện Chuẩn mục và Chế độ kế toán doanh nghiệp hiện hành đang áp dụng.
+
+2.3. Cơ sở lập Báo cáo tài chính riêng
+
+Báo cáo tài chính riêng được trình bày theo nguyên tắc giá gốc.
+
+Báo cáo tài chính riêng của Công ty được lập trên cơ sở tổng hợp các nghiệp vụ, giao dịch phát sinh và được ghi số kế toán tại Chi nhánh Công ty Cổ phần Xây lắp điện I - Nhà máy Kết cấu thép Yên Thường và tại Văn phòng Công ty.
+
+Trong Báo cáo tài chính riêng của Công ty, các nghiệp vụ giao dịch nội bộ và số dư nội bộ có liên quan đến tài sản, nguồn vốn và công nợ phải thu, phải trả nội bộ đã được loại trừ toàn bộ.
+
+Những người sử dụng các báo cáo tài chính riêng này nên độc các báo cáo tài chính riêng kết hợp với các báo cáo tài chính hợp nhất của Công ty và các công ty con (“Tập đoàn”) cho năm tài chính kết thúc ngày 31/12/2019 để có đủ thông tin về tinh hình tài chính, kết quả hoạt động kinh doanh và các lường lưu chuyển tiền tệ của cả Tập đoàn.
+
+2.4. Công cụ tài chính
+
+Ghi nhận ban đầu
+
+Tài sản tài chính
+
+Tài sản tài chính của Công ty bao gồm tiền và các khoản tương đương tiền, các khoản phải thu khách hàng và phải thu khác, các khoản cho vay, các khoản đầu tư dài hạn. Tại thời điểm ghi nhận ban đầu, tài sản tài chính được xác định theo giá mua/chỉ phí phát hành cộng các chi phí phát sinh khác liên quan trực tiếp đến việc mua, phát hành tài sản tài chính đó.
+
+Nợ phải trả tài chính
+
+Nợ phải trả tài chính của Công ty bao gồm các khoản vay, các khoản phải trả người bán và phải trả khác, chỉ phí phải trả. Tại thời điểm ghi nhận lần đầu, các khoản nợ phải trả tài chính được xác định theo giá phát hành cộng các chỉ phí phát sinh liên quan trực tiếp đến việc phát hành nợ phải trả tài chính đó.
+
+Giá trị sau ghi nhận ban đầu
+
+Hiện tại chưa có các quy định về đánh giá lại công cụ tài chính sau ghi nhận ban đầu.
+
+11
+
+===== PAGE 13 =====
+The image contains no text. The OCR result "1" is a hallucination and does not correspond to any content in the source image. Therefore, the correct OCR output is an empty string.
+
+Công ty Cổ phần Xây lắp điện I
+
+Số 18 Lý Văn Phúc, phường Cát Linh, quận Đống Đa, Hà Nội
+
+Báo cáo tài chính riêng
+
+Cho năm tài chính kết thúc ngày 31/12/2019
+
+2.5. Các nghiệp vụ bằng ngoại tệ
+
+Các giao dịch bằng ngoại tệ trong năm tài chính được quy đổi ra đồng Việt Nam theo tỷ giá thực tế tại ngày giao dịch. Tỷ giá giao dịch thực tế này được xác định theo nguyên tắc sau:
+
+- Khi mua bán ngoại tệ: là tỷ giá được quy định trong hợp đồng mua, bán ngoại tệ giữa Công ty và ngân hàng thương mại;
+
+- Khi góp vốn: là tỷ giá mua ngoại tệ của ngân hàng nơi Công ty mở tài khoản tại ngày góp vốn;
+
+- Khi ghi nhận nợ phải thu: là tỷ giá mua của ngân hàng thương mại nơi Công ty chỉ định khách hàng thanh toán tại thời điểm giao dịch phát sinh;
+
+- Khi ghi nhận nợ phải trả: là tỷ giá bán của ngân hàng thương mại nơi Công ty dự kiến giao dịch tại thời điểm giao dịch phát sinh.
+
+Tỷ giá giao dịch thực tế khi đánh giá lại các khoản mục tiền tệ có gốc ngoại tệ tại thời điểm lập Báo cáo tài chính riêng được xác định theo nguyên tắc:
+
+- Đối với khoản mục phân loại là tài sản: áp dụng tỷ giá mua ngoại tệ của ngân hàng thương mại nơi Công ty thường xuyên có giao dịch;
+
+- Đối với tiền gửi ngoại tệ: áp dụng tỷ giá mua của chính ngân hàng nơi Công ty mở tài khoản ngoại tệ;
+
+- Đối với khoản mục phân loại là nợ phải trả: áp dụng tỷ giá bán ngoại tệ của ngân hàng thương mại nơi Công ty thường xuyên có giao dịch.
+
+Tắt cả các khoản chênh lệch tỷ giá thực tế phát sinh trong năm và chênh lệch do đánh giá lại số du các khoản mục tiền tệ có gốc ngoại tệ cuối năm được hạch toán vào kết quả hoạt động kinh doanh của năm tài chính. Trong đó lãi chênh lệch tỷ giá do đánh giá lại số du cuối năm của các khoản mục tiền tệ có gốc ngoại tệ không được sử dụng để phân phối lợi nhuận hoặc chia cổ tức.
+
+2.6. Tiền và các khoản tương đương tiền
+
+Tiền bao gồm tiền mặt tại quỹ, tiền gửi ngân hàng không kỳ hạn.
+
+Các khoản tương đương tiền là các khoản đầu tư ngắn hạn có thời gian thu hồi không quá 03 tháng kể từ ngày đầu tư, có tính thanh khoản cao, có khả năng chuyển đổi dễ dàng thành các lượng tiền xác định và không có nhiều rủi ro trong chuyển đổi thành tiền.
+
+2.7. Các khoản đầu tư tài chính
+
+Các khoản đầu tư nắm giữ đến ngày đáo hạn bao gồm: Các khoản tiền gửi ngân hàng có kỳ hạn được nằm giữ đến ngày đáo hạn với mục đích thu lãi hàng kỳ và các khoản đầu tư nắm giữ đến ngày đáo hạn khác.
+
+Các khoản đầu tư vào các công ty con, công ty liên kết được ghi nhận ban đầu trên số kế toán theo giá gốc. Sau ghi nhận ban đầu, giá trị của các khoản đầu tư này được xác định theo giá gốc trừ đi dự phòng giảm giá khoản đầu tư.
+
+Các khoản đầu tư góp vốn vào các đơn vị khác bao gồm: các khoản đầu tư vào công cụ vốn của đơn vị khác không có quyền kiểm soát, đồng kiểm soát hoặc có ảnh hưởng đáng kể đối với bên được đầu tư. Giá trị ghi số ban đầu của các khoản đầu tư này được xác định theo giá gốc. Sau ghi nhận ban đầu, giá trị của các khoản đầu tư này được xác định theo giá gốc trừ đi dự phòng giảm giá khoản đầu tư.
+
+Dự phòng giảm giá đầu tư được lập vào thời điểm cuối năm cụ thể như sau:
+
+- Đối với các khoản đầu tư vào công ty con và công ty liên kết: căn cứ vào Báo cáo tài chính của công ty con, công ty liên kết tại thời điểm trích lập dự phòng.
+
+- Đối với khoản đầu tư nắm giữ lâu dài (không phân loại là chứng khoán kinh doanh) và không có ảnh hưởng đáng kể đối với bên được đầu tư: nếu khoản đầu tư vào cổ phiếu niêm yết hoặc giá trị hợp lý của khoản đầu tư được xác định tin cậy thì việc lập dự phòng dựa trên giá trị thị trường của cổ phiếu; nếu khoản đầu tư không xác định được giá trị hợp lý tại thời điểm báo cáo thì việc lập dự phòng căn cứ vào Báo cáo tài chính tại thời điểm trích lập dự phòng của bên được đầu tư.
+
+- Đối với các khoản đầu tư nắm giữ đến ngày đáo hạn: căn cứ khả năng thu hồi để lập dự phòng phải thu khó đòi theo quy định của pháp luật.
+
+12
+
+===== PAGE 14 =====
+Công ty Cổ phần Xây lắp điện I
+
+Số 18 Lý Văn Phúc, phường Cát Linh, quận Đống Đa, Hà Nội
+
+Báo cáo tài chính riêng
+
+Cho năm tài chính kết thúc ngày 31/12/2019
+
+2.8. Các khoản nợ phải thu
+
+Các khoản phải thu được theo dõi chi tiết theo kỳ hạn phải thu, đối tượng phải thu, loại nguyên tệ phải thu, và các yếu tố khác theo nhu cầu quản lý của Công ty.
+
+Dự phòng nợ phải thu khó đòi được trích lập cho các khoản: nợ phải thu quá hạn thanh toán ghi trong hợp đồng kinh tế, các khế ước vay nợ, cam kết hợp đồng hoặc cam kết nợ và nợ phải thu chưa đến hạn thanh toán nhưng khó có khả năng thu hồi. Trong đó, việc trích lập dự phòng nợ phải thu quá hạn thanh toán được căn cứ vào thời gian trả nợ gốc theo hợp đồng mua bán ban đầu, không tính đến việc gia hạn nợ giữa các bên và nợ phải thu chưa đến hạn thanh toán nhưng khách nợ đã lâm vào tinh trạng phá sản hoặc đang làm thủ tục giải thể, mất tích, bổ trốn.
+
+2.9. Hàng tồn kho
+
+Hàng tồn kho được ghi nhận ban đầu theo giá gốc bao gồm: chi phí mua, chi phí chế biến và các chi phí liên quan trực tiếp khác phát sinh để có được hàng tồn kho ở địa điểm và trạng thái tại thời điểm ghi nhận ban đầu. Sau ghi nhận ban đầu, tại thời điểm lập Báo cáo tài chính nếu giá trị thuần có thể thực hiện được của hàng tồn kho thấp hơn giá gốc thì hàng tồn kho được ghi nhận theo giá trị thuần có thể thực hiện được.
+
+Giá trị hàng tồn kho được xác định theo phương pháp giá đích danh.
+
+Hàng tồn kho được hạch toán theo phương pháp kê khai thường xuyên.
+
+Phương pháp xác định giá trị sản phẩm dở dang cuối năm:
+
+- Đối với hoạt động xây lắp: Chi phí sản xuất kinh doanh dở dang được tập hợp theo từng công trình chưa hoàn thành hoặc chưa ghi nhận doanh thu, tương ứng với khối lượng công việc còn dở dang cuối năm.
+
+- Đối với hoạt động sản xuất công nghiệp: Chi phí sản xuất kinh doanh dở dang được tập hợp theo chi phí phát sinh thực tế cho từng loại sản phẩm chưa hoàn thành.
+
+Dự phòng giảm giá hàng tồn kho được lập vào thời điểm cuối năm là số chênh lệch giữa giá gốc của hàng tồn kho lớn hơn giá trị thuần có thể thực hiện được.
+
+2.10. Tài sản cố định
+
+Tài sản cố định hữu hình, tài sản cố định vô hình được ghi nhận ban đầu theo giá gốc. Trong quá trình sử dụng, tài sản cố định hữu hình, tài sản cố định vô hình được ghi nhận theo nguyên giá, hao mòn lũy kế và giá trị còn lại.
+
+Khâu hao tài sản cố định được trích theo phương pháp đường thẳng với thời gian khấu hao được ước tính như sau:
+
+<table><tr><td>- Nhà cửa, vật kiến trúc</td><td>05 - 30</td><td>năm</td></tr><tr><td>- Máy móc, thiết bị</td><td>03 - 20</td><td>năm</td></tr><tr><td>- Phương tiện vận tải, truyền dẫn</td><td>06 - 10</td><td>năm</td></tr><tr><td>- Thiết bị văn phòng</td><td>03 - 06</td><td>năm</td></tr><tr><td>- Tài sản cố định khác</td><td>04 - 05</td><td>năm</td></tr><tr><td>- Quyền sử dụng đất không thời hạn</td><td colspan="2">Không trích khấu hao</td></tr><tr><td>- Phần mềm quản lý</td><td>03 - 05</td><td>năm</td></tr></table>
+
+2.11. Bất động sản đầu tư
+
+Bất động sản đầu tư được ghi nhận ban đầu theo giá gốc.
+
+Đối với bắt động sản đầu tư cho thuê hoạt động được ghi nhận theo nguyên giá, hao mòn luỹ kế và giá trị còn lại. Trong đó khấu hao được trích theo phương pháp đường thẳng với thời gian khấu hao được ước tính như sau:
+
+- Nhà cửa, vật kiến trúc 25 năm
+
+13
+
+[例] ▷ 否 壽 王 [一]
+
+===== PAGE 15 =====
+Công ty Cổ phần Xây lắp điện I
+
+Số 18 Lý Văn Phúc, phường Cát Linh, quận Đống Đa, Hà Nội
+
+Báo cáo tài chính riêng
+
+Cho năm tài chính kết thúc ngày 31/12/2019
+
+2.12. Chi phí xây dựng cơ bản dở dang
+
+Chi phí xây dựng cơ bản dở dang bao gồm tài sản cố định đang mua sắm và xây dựng mà chưa hoàn thành tại ngày kết thúc năm tài chính và được ghi nhận theo giá gốc. Chi phí này bao gồm các chi phí về xây dựng, lắp đặt máy móc thiết bị và các chi phí trực tiếp khác. Chi phí xây dựng cơ bản dở dang chi được tính khấu hao khi các tài sản này hoàn thành và đưa vào sử dụng.
+
+2.13. Thuê hoạt động
+
+Thuê hoạt động là loại hình thuê tài sản cố định mà phần lớn rủi ro và lợi ích gắn liền với quyền sở hữu của tài sản thuộc về bên cho thuê. Khoản thanh toán dưới hình thức thuê hoạt động được hạch toán vào báo cáo kết quả hoạt động kinh doanh theo phương pháp đường thẳng dựa trên thời hạn thuê hoạt động.
+
+2.14. Chi phí trả trước
+
+Các chỉ phí đã phát sinh liên quan đến kết quả hoạt động sản xuất kinh doanh của nhiều năm tài chính được hạch toán vào chỉ phí trả trước để phân bổ dần vào kết quả hoạt động kinh doanh trong các năm tài chính sau.
+
+Việc tính và phân bổ chi phí trả trước dài hạn vào chi phí sản xuất kinh doanh từng năm tài chính được căn cứ vào tính chất, mức độ từng loại chi phí để lựa chọn phương pháp và tiêu thức phân bổ hợp lý. Chi phí trả trước được phân bổ dần vào chi phí sản xuất kinh doanh theo phương pháp đường thẳng.
+
+2.15. Các khoản nợ phải trả
+
+Các khoản nợ phải trả được theo dõi theo kỳ hạn phải trả, đối tượng phải trả, loại nguyên tệ phải trả và các yếu tố khác theo nhu cầu quản lý của Công ty.
+
+2.16. Các khoản vay
+
+Các khoản vay được theo dõi theo từng đối tượng cho vay, từng khế ước vay và kỳ hạn phải trả của các khoản vay. Trường hợp vay bằng ngoại tệ thì thực hiện theo dõi chỉ tiết theo nguyên tệ.
+
+2.17. Chi phí di vay
+
+Chi phí đi vay được ghi nhận vào chi phí sản xuất, kinh doanh trong năm khi phát sinh, trừ chi phí đi vay liên quan trực tiếp đến việc đầu tư xây dựng hoặc sản xuất tài sản dở dang được tính vào giá trị của tài sản đó (được vốn hoá) khi có đủ các điều kiện quy định trong Chuẩn mực Kế toán Việt Nam số 16 “Chi phí đi vay”. Ngoài ra, đối với khoản vay riêng phục vụ việc xây dựng tài sản cố định, bắt động sản đầu tư, lãi vay được vốn hóa kể cả khi thời gian xây dựng dưới 12 tháng.
+
+2.18. Chi phí phải trả
+
+Các khoản phải trả cho hàng hóa dịch vụ đã nhận được từ người bán hoặc đã được cung cấp cho người mua trong năm báo cáo nhưng thực tế chưa chi trả và các khoản phải trả khác như chi phí vận chuyển, chi phí lãi tiền vay phải trả... được ghi nhận vào chi phí sản xuất, kinh doanh của năm báo cáo.
+
+Căn cứ trích trước các công trình thủy điện hoàn thành dựa trên giá trị ước tính theo khối lượng nghiệm thu thực tế trừ đi khoản đã tập hợp chứng từ.
+
+Việc ghi nhận các khoản chi phí phải trả vào chi phí sản xuất, kinh doanh trong năm được thực hiện theo nguyên tắc phù hợp giữa doanh thu và chi phí phát sinh trong năm. Các khoản chi phí phải trả sẽ được quyết toán với số chi phí thực tế phát sinh. Số chênh lệch giữa số trích trước và chi phí thực tế được hoàn nhập.
+
+14
+
+1
+
+===== PAGE 16 =====
+Công ty Cổ phần Xây lắp điện I
+
+Số 18 Lý Văn Phúc, phường Cát Linh, quận Đống Đa, Hà Nội
+
+Báo cáo tài chính riêng
+
+Cho năm tài chính kết thúc ngày 31/12/2019
+
+2.19. Các khoản dự phòng phải trả
+
+Các khoản dự phòng phải trả chỉ được ghi nhận khi thỏa mãn các điều kiện sau:
+
+- Công ty có nghĩa vụ nợ hiện tại (nghĩa vụ pháp lý hoặc nghĩa vụ liên đối) do kết quả từ một sự kiện đã xảy ra;
+
+- Sự giảm sút về những lợi ích kinh tế có thể xảy ra dẫn đến việc yêu cầu phải thanh toán nghĩa vụ nợ;
+
+- Đưa ra được một ước tính đáng tin cây về giá trị của nghĩa vụ nợ đó.
+
+Giá trị được ghi nhận của một khoản dự phòng phải trả là giá trị được ước tính hợp lý nhất về khoản tiền sẽ phải chi để thanh toán nghĩa vụ nợ hiện tại tại ngày kết thúc năm tài chính.
+
+Chi những khoản chi phí liên quan đến khoản dự phòng phải trả đã lập ban đầu mới được bù đáp bằng khoản dự phòng phải trả đó.
+
+Căn cứ trích dự phòng bảo hành công trình dựa vào thống kê công tác bảo hành công trình qua các năm và đánh giá chất lượng công trình của các phòng ban để ước tính mức trích lập dự phòng. Trong trường hợp xét đoán phải trích dự phòng, mức trích lập dự phòng cũng được xem xét phù hợp với nghĩa vụ bảo hành theo điều khoản bảo hành trên hợp đồng (thông thường mức bảo hành từ 3% đến 5% trên doanh thu được xác định chắc chắn, được khách hàng chấp nhận).
+
+Dự phòng phải trả được ghi nhận vào chi phí sản xuất kinh doanh của năm tài chính. Khoản chênh lệch giữa số dự phòng phải trả đã lập ở năm trước chưa sử dụng hết lớn hơn số dự phòng phải trả lập ở năm báo cáo được hoàn nhập ghi giảm chi phí sản xuất, kinh doanh trong năm trừ khoản chênh lệch lớn hơn của khoản dự phòng phải trả về bảo hành công trình xây lắp được hoàn nhập vào thu nhập khác trong năm tài chính.
+
+2.20. Doanh thu chưa thực hiện
+
+Doanh thu chưa thực hiện là số tiền của khách hàng đã trả trước cho một hoặc nhiều năm tài chính về cho thuê tài sản.
+
+Doanh thu chưa thực hiện được kết chuyển vào Doanh thu bán hàng và cung cấp dịch vụ theo số tiền được xác định phù hợp với từng năm tài chính.
+
+2.21. Vốn chủ sở hữu
+
+Vốn đầu tư của chủ sở hữu được ghi nhận theo số vốn thực góp của chủ sở hữu.
+
+Thăng dư vốn cổ phần phản ánh chênh lệch giữa mạnh giá, chỉ phí trực tiếp liên quan đến việc phát hành cổ phiếu và giá phát hành cổ phiếu (kể cả các trường hợp tái phát hành cổ phiếu quỹ) và có thể là thăng dư dương (nếu giá phát hành cao hơn mạnh giá và chỉ phí trực tiếp liên quan đến việc phát hành cổ phiếu) hoặc thăng dư âm (nếu giá phát hành thấp hơn mạnh giá và chỉ phí trực tiếp liên quan đến việc phát hành cổ phiếu).
+
+Cổ phiếu quỹ là cổ phiếu do Công ty phát hành và được Công ty mua lại, cổ phiếu này không bị hủy bỏ và sẽ được tái phát hành trở lại trong khoảng thời gian theo quy định của pháp luật về chứng khoán. Cổ phiếu quỹ được ghi nhận theo giá trị thực tế mua lại và trình bày trên Bảng Cần đối kế toán là một khoản ghi giảm Vốn đầu tư của chủ sở hữu. Giá vốn của cổ phiếu quỹ khi tái phát hành hoặc khi sử dụng để trả cổ tức, thường... được tính theo phương pháp bình quân gia quyền.
+
+Lợi nhuận sau thuế chưa phân phối phản ánh kết quả kinh doanh (lãi, lỗ) sau thuế thu nhập doanh nghiệp và tinh hình phân chia lợi nhuận hoặc xử lý lỗ của Công ty. Việc phân phối lợi nhuận được thực hiện khi Công ty có lợi nhuận sau thuế chưa phân phối không vượt quá mức lợi nhuận sau thuế chưa phân phối trên Báo cáo tài chính hợp nhất sau khi đã loại trừ ảnh hưởng của các khoản lãi do ghi nhận từ giao dịch mua già rè. Trường hợp trả cổ tức, lợi nhuận cho chủ sở hữu quá mức số lợi nhuận sau thuế chưa phân phối được ghi nhận sau trường hợp giảm vốn góp. Lợi nhuận sau thuế chưa phân phối có thể được chia cho các nhà đầu tư dựa trên tỷ lệ góp vốn sau khi được Đại hội đồng cổ đông phê duyệt và sau khi đã trích lập các quỹ theo Điều lệ Công ty và các quy định của pháp luật Việt Nam.
+
+15
+
+===== PAGE 17 =====
+Công ty Cổ phần Xây lắp điện I
+
+Số 18 Lý Văn Phúc, phường Cát Linh, quận Đống Đa, Hà Nội
+
+Báo cáo tài chính riêng
+
+Cho năm tài chính kết thúc ngày 31/12/2019
+
+Công ty trích lập các quỹ sau từ lợi nhuận thuần sau thuế thu nhập doanh nghiệp của Công ty theo đề nghị của Hội đồng quản trị và được các cổ đông phê duyệt tại Đại hội đồng cổ đông thường niên:
+
+- Quỹ đầu tư phát triển: Quỹ này được trích lập nhằm phục vụ việc mở rộng hoạt động hoặc đầu tư chiều sâu của Công ty.
+
+- Quỹ khen thưởng, phúc lợi và Quỹ khen thưởng Ban điều hành: Quỹ này được trích lập để khen thưởng, khuyến khích vật chất, đem lại lợi ích chung và nâng cao phúc lợi cho công nhân viên và được trình bày như một khoản phải trả trên Bảng cân đối kế toán riêng.
+
+Cổ tức phải trả cho các cổ đông được ghi nhận là khoản phải trả trên Bảng Cần đối kế toán của Công ty sau khi có thông báo chia cổ tức của Hội đồng Quản trị Công ty và thông báo ngày chốt quyền nhận cổ tức của Trung tâm Lưu ký chứng khoán Việt Nam.
+
+2.22. Doanh thu
+
+Doanh thu bán hàng
+
+Doanh thu bán hàng được ghi nhận khi đồng thời thỏa mãn các điều kiện sau:
+
+- Phần lớn rủi ro và lợi ích gắn liền với quyền sở hữu sản phẩm hoặc hàng hóa đã được chuyển giao cho người mua;
+
+- Công ty không còn nằm giữ quyền quản lý hàng hóa như người sở hữu hàng hóa hoặc quyền kiểm soát hàng hóa;
+
+- Doanh thu được xác định tương đối chắc chắn;
+
+- Công ty đã thu được hoặc sẽ thu được lợi ích kinh tế từ giao dịch bán hàng;
+
+- Xác định được chi phí liên quan đến giao dịch bán hàng.
+
+Doanh thu cung cấp dịch vụ
+
+Doanh thu cung cấp dịch vụ được ghi nhận khi đồng thời thỏa mãn các điều kiện sau:
+
+- Doanh thu được xác định tương đối chắc chắn;
+
+- Có khả năng thu được lợi ích kinh tế từ giao dịch cung cấp dịch vụ đó;
+
+- Xác định được phần công việc đã hoàn thành vào ngày lập Bảng cân đối kế toán;
+
+- Xác định được chi phí phát sinh cho giao dịch và chi phí để hoàn thành giao dịch cung cấp dịch vụ đó.
+
+Phần công việc cung cấp dịch vụ đã hoàn thành được xác định theo phương pháp đánh giá công việc hoàn thành.
+
+Doanh thu bán bất động sản
+
+Doanh thu bán bắt động sản được ghi nhận khi đồng thời thỏa mãn các điều kiện sau:
+
+- Bất động sản đã hoàn thành toàn bộ và bàn giao cho người mua, Công ty đã chuyển giao rủi ro và lợi ích gắn liền với quyền sở hữu bất động sản cho người mua;
+
+- Công ty không còn nằm giữ quyền quản lý bất động sản như người sở hữu bất động sản hoặc quyền kiểm soát bất động sản;
+
+- Doanh thu được xác định tương đối chắc chắn;
+
+- Công ty đã thu được hoặc sẽ thu được lợi ích kinh tế từ giao dịch bán bất động sản;
+
+- Xác định được chi phí liên quan đến giao dịch bán bất động sản.
+
+Trường hợp bán hàng hóa bất động sản theo hình thức khách hàng tự hoàn thiện hoặc Công ty hoàn thiện theo yêu cầu của khách hàng thi được ghi doanh thu khi hoàn thành bản giao phần xây thô cho khách hàng.
+
+Doanh thu cho thuê hoạt động
+
+Doanh thu cho thuê hoạt động chủ yếu là cho thuê Bất động sản đầu tư - cho thuê văn phòng được ghi nhận vào báo cáo kết quả hoạt động kinh doanh theo phương pháp đường thẳng trong suốt thời hạn cho thuê theo quy định của hợp đồng thuê.
+
+Doanh thu hợp đồng xây dựng
+
+Căn cứ để hạch toán doanh thu là Quyết toán A-B đối với các công trình đã hoàn thành nghiệm thu bàn giao đưa vào sử dụng hoặc Bản xác nhận khối lượng xây dựng cơ bản hoàn thành theo từng giai đoạn và Phiếu giá thanh toán A-B đối với các công trình có thời gian thi công dài. Giá trị hạch toán doanh thu là giá trị quyết toán công trình/giá trị thanh toán giai đoạn (không bao gồm thuế GTGT).
+
+16
+
+===== PAGE 18 =====
+Công ty Cổ phần Xây lắp điện I
+
+Số 18 Lý Văn Phúc, phường Cát Linh, quận Đống Đa, Hà Nội
+
+Báo cáo tài chính riêng
+
+Cho năm tài chính kết thúc ngày 31/12/2019
+
+Doanh thu hoạt động tài chính
+
+Doanh thu phát sinh từ tiền lãi, tiền bản quyền, cổ tức, lợi nhuận được chia và các khoản doanh thu hoạt động tài chính khác được ghi nhận khi thỏa mãn đồng thời hai (2) điều kiện sau:
+
+- Có khả năng thu được lợi ích kinh tế từ giao dịch đó;
+
+- Doanh thu được xác định tương đối chắc chắn.
+
+Cổ tức, lợi nhuận được chia được ghi nhận khi Công ty được quyền nhận cổ tức hoặc được quyền nhận lợi nhuận từ việc góp vốn.
+
+2.23. Giá vốn hàng bán
+
+Giá vốn hàng bán trong năm được ghi nhận phù hợp với doanh thu phát sinh trong năm và đảm bảo tuân thủ nguyên tắc thận trọng.
+
+Giá vốn công trình xây lắp: Đối với các công trình xây lắp đã hoàn thành, nghiệm thu bàn giao hoặc được chủ đầu tư phê duyệt quyết toán thì toàn bộ chỉ phí tập hợp cho công trình đó được kết chuyển đề xác định kết quả kinh doanh.
+
+Đối với các công trình có thời gian thì công dài mà doanh thu được ghi nhận theo khối lượng xây lắp hoàn thành được chủ đầu tư xác nhận thì giá vốn để xác định kết quả kinh doanh tương ứng với khối lượng xây lắp đã hoàn thành.
+
+2.24. Chi phí tài chính
+
+Các khoản chi phí được ghi nhận vào chi phí tài chính gồm:
+
+- Chi phí hoặc các khoản lỗ liên quan đến các hoạt động đầu tư tài chính;
+
+- Chi phí đi vay vốn;
+
+- Dự phòng tổn thất đầu tư vào đơn vị khác, lỗ tỷ giá hối đoái...
+
+Các khoản trên được ghi nhận theo tổng số phát sinh trong năm, không bù trừ với doanh thu hoạt động tài chính.
+
+2.25. Thuế thu nhập doanh nghiệp
+
+a) Chi phí thuế TNDN hiện hành
+
+Chi phí thuế TNDN hiện hành được xác định trên cơ sở thu nhập chịu thuế trong năm và thuế suất thuế TNDN trong năm tài chính hiện hành.
+
+b) Uu dāi thuế
+
+Theo các Giấy chứng nhận đầu tư số 11121000149 do Ủy ban Nhân dân tỉnh Cao Bằng cấp ngày 21/08/2013; Giấy chứng nhận đầu tư điều chỉnh số 11121000149/GCNĐC1/11/1 ngày 17/09/2014 cho dự án đầu tư Thủy điện Bảo Lâm 1; Giấy chứng nhận đầu tư số 11121000151 do Ủy ban Nhân dân tỉnh Cao Bằng cấp ngày 21/08/2013 và Giấy chứng nhận đầu tư điều chỉnh số 11121000151/GCNĐC1/11/1 ngày 17/09/2014 cho dự án đầu tư Thủy điện Bảo Lâm 3; Quyết định chủ trương đầu tư số 2548/QĐ-UBND do Ủy ban Nhân dân tỉnh Cao Bằng cấp ngày 25/12/2015 cho dự án đầu tư Thủy điện Bảo Lâm 3A thì ưu đãi đối với các dự án như sau:
+
+- Được hưởng thuế suất thuế TNDN là 10% trong thời gian 15 năm;
+
+- Được miễn thuế TNDN 4 năm kể từ khi có thu nhập chịu thuế và giảm 50% số thuế phải nộp cho 9 năm tiếp theo;
+
+- Được bù trừ tiền bởi thường giải phóng mặt bằng vào tiền thuê đất phải nộp hàng năm.
+
+Năm 2019 là năm thứ 2 (đối với dự án thủy điện Bảo Lâm 3 và thủy điện Bảo Lâm 3A), là năm thứ 3 (đối với dự án thủy điện Bảo Lâm 1) thực hiện việc miễn giảm thuế của theo các ưu đãi này.
+
+c) Thuế suất thuế TNDN năm tài chính hiện hành
+
+Công ty hiện đang áp dụng mức thuế suất thuế TNDN là 20% đối với thu nhập chịu thuế từ hoạt động kinh doanh chính và hoạt động khác, miễn thuế TNDN đối với thu nhập chịu thuế từ hoạt động thủy điện cho năm tài chính kết thúc ngày 31/12/2019.
+
+17
+
+===== PAGE 19 =====
+Công ty Cổ phần Xây lắp điện I
+
+Số 18 Lý Văn Phúc, phường Cát Linh, quận Đống Đa, Hà Nội
+
+Báo cáo tài chính riêng
+
+Cho năm tài chính kết thúc ngày 31/12/2019
+
+2.26. Thông tin bộ phận
+
+Một bộ phận là một cấu phần có thể xác định riêng biệt của Công ty tham gia vào việc cung cấp các sản phẩm hoặc dịch vụ liên quan (bộ phận chia theo hoạt động kinh doanh), hoặc cung cấp sản phẩm hoặc dịch vụ trong một môi trường kinh tế cụ thể (bộ phận được chia theo khu vực địa lý). Mỗi bộ phận này chịu rủi ro và thu được lợi ích khác biệt so với các bộ phận khác.
+
+Thông tin bộ phận được lập và trình bày phù hợp với chính sách kế toán áp dụng cho việc lập và trình bày báo cáo tài chính của Công ty nhằm mục đích để giúp người sử dụng báo cáo tài chính hiểu rõ và đánh giá được tinh hình hoạt động của Công ty một cách toàn diện.
+
+3. TIỀN VÀ CÁC KHOẢN TƯƠNG ĐƯƠNG TIỀN
+
+<table><tr><td rowspan="2"></td><td>31/12/2019</td><td>01/01/2019</td></tr><tr><td>VND</td><td>VND</td></tr><tr><td>- Tiền mặt</td><td>1.028.366.972</td><td>1.644.581.928</td></tr><tr><td>- Tiền gửi ngân hàng không kỳ hạn</td><td>45.409.843.103</td><td>22.654.648.602</td></tr><tr><td>- Các khoản tương đương tiền</td><td>432.000.000.000</td><td>548.000.000.000</td></tr><tr><td></td><td>478.438.210.075</td><td>572.299.230.530</td></tr></table>
+
+Tại 31/12/2019, các khoản tương đương tiền là tiền gửi có kỳ hạn 01 tháng được gửi tại các ngân hàng thương mại với lãi suất 5%/năm.
+
+4. CÁC KHOÀN ĐẦU TƯ TÀI CHÍNH
+
+a) Đầu tư nằm giữ đến ngày đáo hạn
+
+<table><tr><td rowspan="2"></td><td colspan="2">31/12/2019</td><td colspan="2">01/01/2019</td></tr><tr><td>Giá gốcVND</td><td>Dự phòngVND</td><td>Giá gốcVND</td><td>Dự phòngVND</td></tr><tr><td>Đầu tư ngắn hạn</td><td>150.000.000.000</td><td>-</td><td>90.000.000.000</td><td>-</td></tr><tr><td>- Tiền gửi có kỳ hạn</td><td>150.000.000.000</td><td>-</td><td>90.000.000.000</td><td>-</td></tr><tr><td></td><td>150.000.000.000</td><td>-</td><td>90.000.000.000</td><td>-</td></tr></table>
+
+Tại 31/12/2019, các khoản tiền gửi có kỳ hạn đến 12 tháng được gửi tại các ngân hàng thương mại với lãi suất từ 5,5% đến 7,5%/năm.
+
+18
+
+===== PAGE 20 =====
+Công ty Cổ phần Xây lắp điện I
+
+Số 18 Lý Văn Phúc, phường Cát Linh, quận Đống Đa, Hà Nội
+
+Báo cáo tài chính riêng
+
+Cho năm tài chính kết thúc ngày 31/12/2019
+
+4. CÁC KHOÀN ĐẦU TƯ TÀI CHÍNH (tiếp)
+
+b) Đầu tư góp vốn vào đơn vị khác
+
+<table><tr><td rowspan="2"></td><td colspan="3">31/12/2019</td><td colspan="3">01/01/2019</td></tr><tr><td>Giá gốcVND</td><td>Giá trị hợp lýVND</td><td>Dự phòngVND</td><td>Giá gốcVND</td><td>Giá trị hợp lýVND</td><td>Dự phòngVND</td></tr><tr><td>Đầu tư vào Công ty con</td><td>1.181.293.973.373</td><td></td><td>-</td><td>827.596.708.373</td><td></td><td>-</td></tr><tr><td>- Công ty TNHH MTV Xây lắp điện 1 - Đại Mỗ</td><td>5.000.000.000</td><td></td><td>-</td><td>5.000.000.000</td><td></td><td>-</td></tr><tr><td>- Công ty TNHH MTV Xây lắp điện 1 - Hà Nội</td><td>5.000.000.000</td><td></td><td>-</td><td>5.000.000.000</td><td></td><td>-</td></tr><tr><td>- Công ty TNHH MTV Xây lắp điện I - Miền Nam</td><td>25.000.000.000</td><td></td><td>-</td><td>25.000.000.000</td><td></td><td>-</td></tr><tr><td>- Công ty TNHH MTV Xây lắp điện 1 - Miền Bắc</td><td>10.236.009.597</td><td></td><td>-</td><td>10.236.009.597</td><td></td><td>-</td></tr><tr><td>- Công ty TNHH MTV Xây lắp điện 1 - Mỹ Đình</td><td>10.000.000.000</td><td></td><td>-</td><td>10.000.000.000</td><td></td><td>-</td></tr><tr><td>- Công ty TNHH MTV Xây lắp điện 1 - Từ Liêm</td><td>10.549.569.422</td><td></td><td>-</td><td>10.549.569.422</td><td></td><td>-</td></tr><tr><td>- Công ty TNHH MTV Xây lắp điện 1 - Hà Đông</td><td>5.942.874.315</td><td></td><td>-</td><td>5.942.874.315</td><td></td><td>-</td></tr><tr><td>- Công ty TNHH MTV Xây lắp điện 1 - Nàng Hương</td><td>725.509.851</td><td></td><td>-</td><td>725.509.851</td><td></td><td>-</td></tr><tr><td>- Công ty TNHH MTV Xây lắp điện 1 - Hoàng Mai</td><td>5.000.000.000</td><td></td><td>-</td><td>5.000.000.000</td><td></td><td>-</td></tr><tr><td>- Công ty TNHH MTV Xây lắp điện 1 - Ninh Bình</td><td>10.000.000.000</td><td></td><td>-</td><td>10.000.000.000</td><td></td><td>-</td></tr><tr><td>- Công ty TNHH Chế tạo Cột thép Đông Anh</td><td>28.832.168.426</td><td></td><td>-</td><td>28.832.168.426</td><td></td><td>-</td></tr><tr><td>- Công ty Cổ phần Thủy điện Trung Thu</td><td>151.200.000.000</td><td></td><td>-</td><td>151.200.000.000</td><td></td><td>-</td></tr><tr><td>- Công ty Cổ phần Đầu tư Địa ốc Mỹ Đình</td><td>181.850.000.000</td><td></td><td>-</td><td>181.850.000.000</td><td></td><td>-</td></tr><tr><td>- Công ty Cổ phần Lắp máy Công nghiệp Việt Nam</td><td>2.550.000.000</td><td></td><td>-</td><td>2.550.000.000</td><td></td><td>-</td></tr><tr><td>- Công ty Cổ phần Cơ khí Ô tô Hòa Bình</td><td>235.005.518.217</td><td></td><td>-</td><td>234.165.518.217</td><td></td><td>-</td></tr><tr><td>- Công ty Cổ phần Thủy điện Bảo Lâm</td><td>3.370.000.000</td><td></td><td>-</td><td>3.370.000.000</td><td></td><td>-</td></tr><tr><td>- Công ty Cổ phần Đầu tư Năng lượng Miền Bắc</td><td>141.693.000.000</td><td></td><td>-</td><td>78.030.000.000</td><td></td><td>-</td></tr><tr><td>- Công ty Cổ phần Thương mại đầu tư Tiến Bộ</td><td>154.145.058.545</td><td></td><td>-</td><td>60.145.058.545</td><td></td><td>-</td></tr><tr><td>- Công ty Cổ phần Điện gió Liên Lập</td><td>195.194.265.000</td><td></td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>Đầu tư vào Công ty liên kết</td><td>162.178.756.168</td><td></td><td>(101.946.413.170)</td><td>162.178.756.168</td><td></td><td>(68.491.455.225)</td></tr><tr><td>- Công ty Cổ phần Gang thép Cao Bằng</td><td>124.748.756.168</td><td></td><td>(101.946.413.170)</td><td>124.748.756.168</td><td></td><td>(68.491.455.225)</td></tr><tr><td>- Công ty Cổ phần Khoáng sản Tấn Phát</td><td>37.430.000.000</td><td></td><td>-</td><td>37.430.000.000</td><td></td><td>-</td></tr><tr><td>Đầu tư vào đơn vị khác</td><td>4.821.770.000</td><td>2.142.790.650</td><td>(1.652.891.065)</td><td>4.821.770.000</td><td>1.597.226.400</td><td>(1.652.891.065)</td></tr><tr><td>- Công ty Cổ phần Bê tông Ly tâm Vinaincon</td><td>4.000.000.000</td><td></td><td>(1.652.891.065)</td><td>4.000.000.000</td><td></td><td>(1.652.891.065)</td></tr><tr><td>- Ngân hàng TMCP Đầu tư và Phát triển Việt Nam (BIDV) (*)</td><td>821.770.000</td><td>2.142.790.650</td><td>-</td><td>821.770.000</td><td>1.597.226.400</td><td>-</td></tr><tr><td></td><td>1.348.294.499.541</td><td>2.142.790.650</td><td>(103.599.304.235)</td><td>994.597.234.541</td><td>1.597.226.400</td><td>(70.144.346.290)</td></tr></table>
+
+(*) Giá trị hợp lý của khoản đầu tư vào cổ phiếu Ngân hàng TMCP Đầu tư và Phát triển Việt Nam (BIDV) được xác định theo giá đóng cửa của chứng khoán này trên sản HOSE tại ngày 31/12/2019 và 28/12/2018.
+
+Đối với các khoản đầu tư còn lại, Công ty chưa xác định giá trị hợp lý của các khoản đầu tư tài chính này do Chuẩn mục Kế toán Việt Nam, Chế độ Kế toán doanh nghiệp Việt Nam chưa có hướng dẫn cụ thể về việc xác định giá trị hợp lý.
+
+19
+
+[1] [2]
+
+===== PAGE 21 =====
+Công ty Cổ phần Xây lắp điện I
+
+Số 18 Lý Văn Phúc, phường Cát Linh, quận Đống Đa, Hà Nội
+
+Báo cáo tài chính riêng
+
+Cho năm tài chính kết thúc ngày 31/12/2019
+
+Đầu tư vào Công ty con
+
+Thông tin chỉ tiết về các công ty con của Công ty vào ngày 31/12/2019 như sau:
+
+<table><tr><td>Tên công ty con</td><td>Nơi thành lập và hoạt động</td><td>Tỷ lệ lợi ích/Tỷ lệ biểu quyết</td><td>Tỷ lệ cam kết góp</td><td>Hoạt động kinh doanh chính</td></tr><tr><td>- Công ty TNHH MTV Xây lắp điện 1 - Đại Mỗ</td><td>Hà Nội</td><td>100%</td><td>100%</td><td>Xây lắp điện</td></tr><tr><td>- Công ty TNHH MTV Xây lắp điện 1 - Hà Nội (**)</td><td>Hà Nội</td><td>100%</td><td>100%</td><td>Xây lắp điện</td></tr><tr><td>- Công ty TNHH MTV Xây lắp điện 1 - Miền Nam</td><td>Hồ Chí Minh</td><td>100%</td><td>100%</td><td>Xây lắp điện</td></tr><tr><td>- Công ty TNHH MTV Xây lắp điện 1 - Miền Bắc</td><td>Hà Nội</td><td>100%</td><td>100%</td><td>Xây lắp điện</td></tr><tr><td>- Công ty TNHH MTV Xây lắp điện 1 - Mỹ Đình (**)</td><td>Hà Nội</td><td>100%</td><td>100%</td><td>Xây lắp điện</td></tr><tr><td>- Công ty TNHH MTV Xây lắp điện 1 - Từ Liêm</td><td>Hà Nội</td><td>100%</td><td>100%</td><td>Xây lắp điện</td></tr><tr><td>- Công ty TNHH MTV Xây lắp điện 1 - Hà Đông</td><td>Hà Nội</td><td>100%</td><td>100%</td><td>Xây lắp điện</td></tr><tr><td>- Công ty TNHH MTV Xây lắp điện 1 - Nàng Hương</td><td>Hà Nội</td><td>100%</td><td>100%</td><td>Dịch vụ</td></tr><tr><td>- Công ty TNHH MTV Xây lắp điện 1 - Hoàng Mai</td><td>Hà Nội</td><td>100%</td><td>100%</td><td>Xây lắp điện</td></tr><tr><td>- Công ty TNHH MTV Xây lắp điện 1 - Ninh Bình</td><td>Ninh Bình</td><td>100%</td><td>100%</td><td>Xây lắp điện</td></tr><tr><td>- Công ty TNHH Chế tạo Cột thép Đông Anh</td><td>Hà Nội</td><td>90%</td><td>90%</td><td>Sản xuất các loại cột thép mạ kẽm, kết cấu thép, phụ tùng phụ kiện có liên quan, dịch vụ về mạ; mua bán thép, kẽm, vất tư phục vụ sản xuất, chế tạo kết cấu thép; mua bán vất tư, thiết bị kỹ thuật điện.</td></tr><tr><td>- Công ty Cổ phần Thủy điện Trung Thu</td><td>Điện Biên</td><td>60%</td><td>60%</td><td>Đầu tư xây dựng các nhà máy thủy điện vừa và nhỏ; Sản xuất và kinh doanh điện năng.</td></tr><tr><td>- Công ty Cổ phần Đầu tư Địa ốc Mỹ Đình</td><td>Hà Nội</td><td>99,39%</td><td>99,39%</td><td>Đầu tư, kinh doanh bắt động sản</td></tr><tr><td>- Công ty Cổ phần Lắp máy Công nghiệp Việt Nam</td><td>Hà Nội</td><td>51,00%</td><td>51,00%</td><td>Lắp đặt máy móc và thiết bị công nghiệp</td></tr><tr><td>- Công ty Cổ phần Cơ khí Ô tô Hòa Bình</td><td>Hà Nội</td><td>99,88%</td><td>99,88%</td><td>Đầu tư, kinh doanh bắt động sản</td></tr><tr><td>- Công ty Cổ phần Thủy điện Bảo Lâm</td><td>Cao Bằng</td><td>91,83%</td><td>91,83%</td><td>Tư vấn quản lý dự án thủy điện, quản lý sau đầu tư thủy điện.</td></tr><tr><td>- Công ty Cổ phần Đầu tư Năng lượng Miền Bắc (***)</td><td>Cao Bằng</td><td>56,85%</td><td>51,00%</td><td>Đầu tư xây dựng các nhà máy thủy điện vừa và nhỏ; Sản xuất và kinh doanh điện năng.</td></tr><tr><td>- Công ty Cổ phần Thương mại đầu tư Tiến Bộ</td><td>Hà Nội</td><td>99,95%</td><td>99,95%</td><td>Đầu tư, kinh doanh bắt động sản</td></tr><tr><td>- Công ty Cổ phần Điện gió Liên Lập</td><td>Thôn Của, xã Hướng Tân, huyện Hoàng Hóa, tỉnh Quảng Trị</td><td>99,9%</td><td>99,9%</td><td>Đầu tư xây dựng nhà máy điện gió Liên Lập</td></tr></table>
+
+(**) Tại Nghị Quyết số 22/NQ-PCC1 ngày 02/12/2019, Công ty đã thông qua việc sáp nhập Công ty TNHH MTV Xây lắp điện 1 - Hà Nội vào Công ty TNHH MTV Xây lắp điện 1 - Mỹ Đình, việc sáp nhập dự kiến hoàn thành trước ngày 31/03/2020.
+
+(***) Tỷ lệ lợi ích được tính theo tỷ lệ vốn góp thực tế, tỷ lệ biểu quyết được tính theo tỷ lệ vốn góp cam kết vào Công ty con - Công ty Cổ phần Đầu tư Năng lượng Miền Bắc.
+
+Lí do thay đổi đối với từng khoản đầu tư vào công ty con:
+
+Mua thêm cổ phiếu của Công ty Cổ phần Cơ khí Ô tô Hòa Bình
+
+- Ve số lượng:
+
+- Vê giá trị:
+
+84.000 cổ phần
+
+840.000.000 VND
+
+20
+
+===== PAGE 22 =====
+Công ty Cổ phần Xây lắp điện I
+
+Số 18 Lý Văn Phúc, phường Cát Linh, quận Đông Đa, Hà Nội
+
+Báo cáo tài chính riêng
+
+Cho năm tài chính kết thúc ngày 31/12/2019
+
+Góp vốn bổ sung bằng tiền vào Công ty Cổ phần Thương mại đầu tư Tiến Bộ
+
+<table><tr><td>-</td><td>Về số lượng:</td><td>9.400.000</td><td>cổ phần</td></tr><tr><td>-</td><td>Về giá trị:</td><td>94.000.000.000</td><td>VND</td></tr></table>
+
+Góp vốn bổ sung bằng bù trừ công nợ chuyển nhượng dự án thủy điện Mông Ân theo cam kết góp vốn vào Công ty Cổ phần Đầu tư Năng lượng Miền Bắc:
+
+<table><tr><td>-</td><td>Về số lượng:</td><td>6.366.300</td><td>cổ phần</td></tr><tr><td>-</td><td>Về giá trị:</td><td>63.663.000.000</td><td>VND</td></tr></table>
+
+Đầu tư bằng hình thức mua lại phần vốn góp tại Công ty Cổ phần Điện gió Liên Lập:
+
+<table><tr><td>-</td><td>Về số lượng:</td><td>4.995.000</td><td>cổ phần</td></tr><tr><td>-</td><td>Về giá trị:</td><td>195.194.265.000</td><td>VND</td></tr></table>
+
+Đầu tư vào Công ty liên kết
+
+Thông tin chỉ tiết về các công ty liên kết của Công ty vào ngày 31/12/2019 như sau:
+
+<table><tr><td>Tên công ty liên kết</td><td>Nơi thành lập và hoạt động</td><td>Tỷ lệ lợi ích/Tỷ lệ biểu quyết</td><td>Tỷ lệ cam kết góp</td><td>Hoạt động kinh doanh chính</td></tr><tr><td>- Công ty Cổ phần Gang thép Cao Bằng</td><td>Số 52, phố Kim Đồng, phường Hợp Giang, Cao Bằng</td><td>25,09%</td><td>25,09%</td><td>Khai thác, chế biến và kinh doanh các loại khoáng sản</td></tr><tr><td>- Công ty Cổ phần Khoáng sản Tấn Phát (*** )</td><td>Khách sạn Tây Giang, tố 22, phường Sông Bằng, Cao Bằng</td><td>33,92%</td><td>27,13%</td><td>Thăm dò khoáng sản, khai thác khoáng sản; Khai thác quặng sắt, Bán buôn kim loại và quặng kim loại</td></tr></table>
+
+(***) Tỷ lệ lợi ích được tính theo tỷ lệ vốn góp thực tế, tỷ lệ biểu quyết được tính theo tỷ lệ vốn góp cam kết vào Công ty liên kết - Công ty Cổ phần Khoáng sản Tấn Phát.
+
+Đầu tư vào đơn vị khác
+
+<table><tr><td>Tên công ty nhận đầu tư</td><td>Nơi thành lập và hoạt động</td><td>Tỷ lệ lợi ích</td><td>Tỷ lệ biểu quyết</td><td>Hoạt động kinh doanh chính</td></tr><tr><td>- Công ty Cổ phần Bê tông Ly tâm Vinaincon</td><td>Thôn Tháp Phan, Đồng Lạc, Nam Sách, Hải Dương</td><td>10%</td><td>10%</td><td>Sản xuất bê tông và các sản phẩm từ xi măng và thạch cao</td></tr><tr><td>- Ngân hàng TMCP Đầu tư và Phát triển Việt Nam (BIDV)</td><td>Hà Nội</td><td>0,00136%</td><td>0,00136%</td><td>Ngân hàng</td></tr></table>
+
+21
+
+===== PAGE 23 =====
+Công ty Cổ phần Xây lắp điện I
+
+Số 18 Lý Văn Phúc, phường Cát Linh, quận Đống Đa, Hà Nội
+
+Báo cáo tài chính riêng
+
+Cho năm tài chính kết thúc ngày 31/12/2019
+
+5. PHẢI THU NGẮN HẠN CỦA KHÁCH HÀNG
+
+<table><tr><td rowspan="2"></td><td colspan="2">31/12/2019</td><td colspan="2">01/01/2019</td></tr><tr><td>Giá trịVND</td><td>Dự phòngVND</td><td>Giá trịVND</td><td>Dự phòngVND</td></tr><tr><td colspan="5">Phải thu của khách hàng chi tiết theo khách hàng có số dư lớn</td></tr><tr><td>- Tổng Công ty Điện lực Miền Bắc</td><td>30.881.103.983</td><td>-</td><td>38.565.614.622</td><td>-</td></tr><tr><td>- Công ty Điện lực Thành phố Hà Nội</td><td>6.476.054.545</td><td>-</td><td>66.433.701.404</td><td>-</td></tr><tr><td>- Công ty Cổ phần Đầu tư Kinh doanh Điện lực Thành phố Hồ Chí Minh</td><td>42.571.438.604</td><td>-</td><td>51.725.068.436</td><td>-</td></tr><tr><td>- Công ty Cổ phần Đầu tư Năng lượng Miền Bắc</td><td>37.064.141.232</td><td>-</td><td>129.315.564.955</td><td>-</td></tr><tr><td>- BQLDA Phát triển Điện lực Hà Nội - Tổng Công ty Điện Lực Thành phố Hà Nội</td><td>84.286.250.549</td><td>-</td><td>18.340.834.874</td><td>-</td></tr><tr><td>- Ban Quản lý dự án các công trình điện Miền Trung</td><td>208.365.741.310</td><td>-</td><td>-</td><td>-</td></tr><tr><td>- Ban Quản lý dự án các công trình điện Miền Nam</td><td>81.446.002.298</td><td>-</td><td>29.982.604.929</td><td>-</td></tr><tr><td>- Các khoản phải thu khách hàng khác</td><td>470.928.154.953</td><td>(563.843.847)</td><td>452.323.006.546</td><td>(563.843.847)</td></tr><tr><td></td><td>962.018.887.474</td><td>(563.843.847)</td><td>786.686.395.766</td><td>(563.843.847)</td></tr></table>
+
+6. TRẢ TRƯỚC CHO NGƯỜI BÁN NGẮN HẠN
+
+<table><tr><td rowspan="2"></td><td colspan="2">31/12/2019</td><td colspan="2">01/01/2019</td></tr><tr><td>Giá trịVND</td><td>Dự phòngVND</td><td>Giá trịVND</td><td>Dự phòngVND</td></tr><tr><td>- Công ty Máy và Thiết bịCông nghiệp - MIE</td><td>-</td><td>-</td><td>24.222.309.650</td><td>-</td></tr><tr><td>- Công ty TNHH Đầu tưTonkin Việt Nam</td><td>26.401.518.000</td><td>-</td><td>-</td><td>-</td></tr><tr><td>- Công ty Cổ phần Cơ khí ôtô Hòa Bình</td><td>15.451.480.770</td><td>-</td><td>-</td><td>-</td></tr><tr><td>- Công ty TNHH Chế tạo Cộtthép Đông Anh</td><td>181.522.347.220</td><td>-</td><td>-</td><td>-</td></tr><tr><td>- PT CG Power SystemsIndonesia</td><td>10.032.118.688</td><td>-</td><td>-</td><td>-</td></tr><tr><td>- Công ty Cổ phần Cáp điệnvà Hệ Thống LS-Vina</td><td>3.683.447.372</td><td>-</td><td>-</td><td>-</td></tr><tr><td>- ABB High Voltage</td><td>8.055.605.000</td><td>-</td><td>-</td><td>-</td></tr><tr><td>- Công ty Cổ phần Thươngmại và Xây lắp Côngnghiệp Thăng Long</td><td>9.049.254.943</td><td>-</td><td>8.597.909.019</td><td>-</td></tr><tr><td>- Các khoản trả trước chongười bán khác</td><td>322.583.868.143</td><td>-</td><td>313.991.426.931</td><td>-</td></tr><tr><td></td><td>576.779.640.136</td><td>-</td><td>346.811.645.600</td><td>-</td></tr></table>
+
+22
+
+===== PAGE 24 =====
+Công ty Cổ phần Xây lắp điện I
+
+Số 18 Lý Văn Phúc, phường Cát Linh, quận Đống Đa, Hà Nội
+
+Báo cáo tài chính riêng
+
+Cho năm tài chính kết thúc ngày 31/12/2019
+
+7. PHẢI THU VỀ CHO VAY NGÂN HẠN
+
+<table><tr><td rowspan="2"></td><td colspan="2">31/12/2019</td><td colspan="2">01/01/2019</td></tr><tr><td>Giá trịVND</td><td>Dự phòngVND</td><td>Giá trịVND</td><td>Dự phòngVND</td></tr><tr><td rowspan="2">a) Ngắn hạn- Công ty Cổ phần Cơ khí Ôtô Hòa Bình (*)</td><td>37.000.000.000</td><td>-</td><td>-</td><td>-</td></tr><tr><td>37.000.000.000</td><td>-</td><td>-</td><td>-</td></tr></table>
+
+(*) Đây là khoản cho công ty con - Công ty Cổ phần Cơ khí Ô tô Hòa Bình vay bổ sung vốn lưu động với lãi suất 4,5%/năm, thời hạn vay là 9 tháng.
+
+8. PHẢI THU NGẮN HẠN KHÁC
+
+<table><tr><td rowspan="2"></td><td colspan="2">31/12/2019</td><td colspan="2">01/01/2019</td></tr><tr><td>Giá trịVND</td><td>Dự phòngVND</td><td>Giá trịVND</td><td>Dự phòngVND</td></tr><tr><td>- Phải thu về cổ tức và lợi nhuận được chia</td><td>9.051.294.583</td><td>-</td><td>7.670.666.225</td><td>-</td></tr><tr><td>- Phải thu về lãi tiền gửi, tiền cho vay</td><td>6.500.684.931</td><td>-</td><td>3.044.630.136</td><td>-</td></tr><tr><td>- Phải thu về bảo hiểm xã hội</td><td>171.108.283</td><td>-</td><td>364.796.243</td><td>-</td></tr><tr><td>- Phải thu về bảo hiểm y tế</td><td>201.285</td><td>-</td><td>-</td><td>-</td></tr><tr><td>- Phải thu về bảo hiểm thất nghiệp</td><td>178.920</td><td>-</td><td>-</td><td>-</td></tr><tr><td>- Tạm ứng</td><td>31.481.106.882</td><td>-</td><td>21.786.777.994</td><td>-</td></tr><tr><td>- Tạm ứng đèn bù GPMB (*)</td><td>38.371.718.416</td><td>-</td><td>-</td><td>-</td></tr><tr><td>- Phải thu Phan Ngọc Tiến (Đội Xây lắp số 1)</td><td>418.555.690</td><td>(418.555.690)</td><td>418.555.690</td><td>(418.555.690)</td></tr><tr><td>- Phải thu Trần Nhung (Đội Xây lắp số 3)</td><td>2.151.632.200</td><td>(2.151.632.200)</td><td>2.151.632.200</td><td>(2.151.632.200)</td></tr><tr><td>- Phải thu khác</td><td>2.662.945.482</td><td>-</td><td>93.837.870</td><td>-</td></tr><tr><td></td><td>90.809.426.672</td><td>(2.570.187.890)</td><td>35.530.896.358</td><td>(2.570.187.890)</td></tr></table>
+
+(*): Đây là các khoản tạm ứng để chi trả tiền đến bù tại các công trình xây lắp sẽ được chủ đầu tư hoàn trả lại và tạm ứng để chi trả tiền đến bù dự án bất động sản.
+
+23
+
+===== PAGE 25 =====
+Công ty Cổ phần Xây lắp điện I
+
+Số 18 Lý Văn Phúc, phường Cát Linh, quận Đống Đa, Hà Nội
+
+Báo cáo tài chính riêng
+
+Cho năm tài chính kết thúc ngày 31/12/2019
+
+9. HÀNG TÔN KHO
+
+<table><tr><td rowspan="2"></td><td colspan="2">31/12/2019</td><td colspan="2">01/01/2019</td></tr><tr><td>Giá gốcVND</td><td>Dự phòngVND</td><td>Giá gốcVND</td><td>Dự phòngVND</td></tr><tr><td>- Nguyên liệu, vật liệu</td><td>21.918.998.444</td><td>-</td><td>15.089.126.024</td><td>-</td></tr><tr><td>- Chi phí sản xuất kinh doanhđở dang (*)</td><td>302.945.301.274</td><td>-</td><td>212.685.588.197</td><td>-</td></tr><tr><td>- Thành phẩm</td><td>13.658.748.706</td><td>-</td><td>1.682.253.719</td><td>-</td></tr><tr><td>- Hàng hoá</td><td>1.191.227.437</td><td>-</td><td>401.194.569</td><td>-</td></tr><tr><td></td><td>339.714.275.861</td><td>-</td><td>229.858.162.509</td><td>-</td></tr></table>
+
+(*) Chi phí sản xuất kinh doanh dở dang bao gồm:
+
+<table><tr><td rowspan="2"></td><td>31/12/2019</td><td>01/01/2019</td></tr><tr><td>VND</td><td>VND</td></tr><tr><td>Dự án kinh doanh bắt động sản:</td><td>1.317.196.890</td><td>24.311.613.259</td></tr><tr><td>Khu nhà ở thấp tầng Dự án trung tâm Thương mại và Nhà ở Mỹ Đình - Mỹ Đình Plaza</td><td>-</td><td>23.694.214.895</td></tr><tr><td>Dự án Khu nhà ở Bắc Cổ Nhuế - Chèm</td><td>1.317.196.890</td><td>617.398.364</td></tr><tr><td>Hoạt động xây lắp:</td><td>229.327.230.221</td><td>186.903.595.952</td></tr><tr><td>Gói 4 - Xây lắp đường dây từ điểm đầu đến G7 - Dự án ĐZ 500 kV Sông Hậu - Đức Hòa</td><td>15.221.733.618</td><td>8.329.140.705</td></tr><tr><td>Gói 9 - Lô 9.8 VT54-01 VT61-01 và lô 9.11 VT80-2 VT91-01 - Xây lắp Dự án ĐZ500kV Quảng Trạch - Đốc Sỏi</td><td>22.504.769.836</td><td>811.024.699</td></tr><tr><td>Gói 6 Xây lắp trạm - Dự án Trạm biến áp 220 kV Quỳnh Lưu</td><td>33.271.902</td><td>11.423.266.424</td></tr><tr><td>Gói thầu CP-3 Cấp điện thuộc dự án Phát triển cơ sở hạ tầng khu Công nghệ cao Hòa Lạc</td><td>5.111.471.777</td><td>14.052.019.605</td></tr><tr><td>Gói NPC-110/QX-G01 KS TK CCVT và TCDA ĐZ và TBA 110kV Quảng Xương, tỉnh Thanh Hóa</td><td>392.007.851</td><td>25.303.090.871</td></tr><tr><td>Gói 18 lô 18.6 XLĐZ từ T161-T190 Dự án ĐZ 500kV Sông Hậu - Đức Hòa</td><td>15.560.724.331</td><td>-</td></tr><tr><td>Gói CPC-TTNTrang-PC01: CC VTTB, TCXD, TNHC ĐZ110kV ĐZ22kV dấu nối TBA110kV trung tâm Nha Trang</td><td>20.735.892.620</td><td>194.784.523</td></tr><tr><td>Gói TVKS TVTK TVĐBGPMB CCTB LĐ TN TCXD TBA 110kV và ĐZĐN Nhà máy Điện mặt trời GAIA</td><td>20.448.180.716</td><td>16.176.275</td></tr><tr><td>Gói NPC-110KQ-G03: XL TBA 110kV và ĐZĐN DA ĐZ và TBA 110kV KCN Khai Quang</td><td>4.195.424.870</td><td>43.682.367</td></tr><tr><td>Gói DMS-10 TK CC LĐ TN trạm và ĐZ 110kV thuộc dự án Nhà máy điện mặt trời Đa Mi</td><td>3.626.372.886</td><td>18.849.360.546</td></tr><tr><td>Các công trình, dự án khác</td><td>121.497.379.814</td><td>107.881.049.937</td></tr><tr><td>Hoạt động sản xuất công nghiệp:</td><td>67.459.241.410</td><td>371.225.684</td></tr><tr><td>Gói 4 lô 4.6,4.11,4.13,4.14,4.15,4.16 CCVCCTMK ĐZ500kV Quảng Trạch - Đốc Sỏi</td><td>40.898.678.868</td><td>-</td></tr><tr><td>Gói 4 lô 4.2,4.3,4.4,4.6,CCVCCTMK ĐZ500kV Đốc Sỏi - Pleiku 2</td><td>26.560.562.542</td><td>-</td></tr><tr><td>Công trình sản xuất công nghiệp khác</td><td>-</td><td>371.225.684</td></tr><tr><td>Hoạt động kinh doanh dịch vụ mua bán lắp ráp hàng hóa:</td><td>86.435.193</td><td>-</td></tr><tr><td>Chi phí sản xuất kinh doanh dở dang khác:</td><td>4.755.197.560</td><td>1.099.153.302</td></tr><tr><td></td><td>302.945.301.274</td><td>212.685.588.197</td></tr></table>
+
+24
+
+===== PAGE 26 =====
+Công ty Cổ phần Xây lắp điện I
+
+Số 18 Lý Văn Phúc, phường Cát Linh, quận Đống Đa, Hà Nội
+
+Báo cáo tài chính riêng
+
+Cho năm tài chính kết thúc ngày 31/12/2019
+
+10. CHI PHÍ XÂY DỤNG CƠ BẢN DỒ DANG
+
+<table><tr><td rowspan="2"></td><td>31/12/2019</td><td>01/01/2019</td></tr><tr><td>VND</td><td>VND</td></tr><tr><td>- Xây dựng cơ bản</td><td>436.393.809.541</td><td>54.817.231.467</td></tr><tr><td>Dự án thủy điện Bảo Lạc B (*)</td><td>299.669.167.395</td><td>40.488.129.798</td></tr><tr><td>Dự án thủy điện Sông Nhiệm 4 (**)</td><td>134.746.153.465</td><td>9.899.215.594</td></tr><tr><td>Các dự án khác</td><td>1.978.488.681</td><td>4.429.886.075</td></tr><tr><td></td><td>436.393.809.541</td><td>54.817.231.467</td></tr></table>
+
+Thông tin chỉ tiết về các dự án cụ thể như sau:
+
+(*): Dự án Thủy điện Bảo Lạc B:
+
++ Quyết định chủ trương đầu tư số 100/QĐ-UBND ngày 01-02-2018 do UBND tỉnh Cao Bằng cấp.
+
++ Mục tiêu đầu tư: xây dựng nhà máy thủy điện với công suất 18MW.
+
++ Tổng mức đầu tư 592 tỷ, đã khởi công trong năm 2018, dự kiến hoàn thành quý 3/2020.
+
++ Nguồn vốn thực hiện dự án: 30% vốn tự có, 70% từ nguồn vốn vay ngân hàng.
+
++ Đến thời điểm 31/12/2019, dự án đang ở giai đoạn thi công các hạng mục xây dựng của nhận nước và nhà máy, kênh xả và bước đầu lắp đặt các thiết bị cơ diện và thiết bị cơ khí thủy công.
+
+(**): Dư án Thủy điện Sông Nhiệm 4:
+
++ Quyết định chấp thuận thực hiện dự án đầu tư số 1529/QĐ-UBND ngày 20-07-2018 do UBND tỉnh Hà Giang cấp.
+
++ Mục tiêu đầu tư: xây dựng nhà máy thủy điện với công suất 6 MW.
+
++ Tổng mức đầu tư 196 tỷ, đã khởi công trong quý 4/2018, dự kiến hoàn thành quý 3/2020.
+
++ Nguồn vốn thực hiện dự án: 30% vốn tự có, 70% từ nguồn vốn vay ngân hàng.
+
++ Đến thời điểm 31/12/2019, dự án đang triển khai các hạng mục xây dựng cửa nhận nước và nhà máy, đồng thời thực hiện mua sắm một phần thiết bị cơ diện.
+
+25
+
+===== PAGE 27 =====
+Công ty Cổ phần Xây lắp điện I
+
+Số 18 Lý Văn Phúc, phường Cát Linh, quận Đống Đa, Hà Nội
+
+Báo cáo tài chính riêng
+
+Cho năm tài chính kết thúc ngày 31/12/2019
+
+11. TÀI SẢN CÓ ĐỊNH HỮU HÌNH
+
+<table><tr><td rowspan="2"></td><td>Nhà cửa, vật kiến trúc</td><td>Máy móc, thiết bị</td><td>Phương tiện vận tải,truyền dẫn</td><td>Thiết bị, dụng cụquản lý</td><td>TSCĐ khác</td><td>Cộng</td></tr><tr><td>VND</td><td>VND</td><td>VND</td><td>VND</td><td>VND</td><td>VND</td></tr><tr><td colspan="7">Nguyên giá</td></tr><tr><td>Số dư đầu năm</td><td>1.035.733.516.747</td><td>795.621.741.025</td><td>109.580.138.283</td><td>7.644.413.892</td><td>566.305.210</td><td>1.949.146.115.157</td></tr><tr><td>- Mua trong năm</td><td>268.676.958</td><td>3.993.211.941</td><td>1.330.000.000</td><td>-</td><td>387.370.000</td><td>5.979.258.899</td></tr><tr><td>- Đầu tư xây dựng cơ bản hoàn thành</td><td>522.405.614</td><td>-</td><td>-</td><td>-</td><td>-</td><td>522.405.614</td></tr><tr><td>- Thanh lý, nhượng bán</td><td>-</td><td>(1.975.390.262)</td><td>(650.000.000)</td><td>-</td><td>-</td><td>(2.625.390.262)</td></tr><tr><td>Số dư cuối năm</td><td>1.036.524.599.319</td><td>797.639.562.704</td><td>110.260.138.283</td><td>7.644.413.892</td><td>953.675.210</td><td>1.953.022.389.408</td></tr><tr><td colspan="7">Giá trị hao mòn lũy kế</td></tr><tr><td>Số dư đầu năm</td><td>65.239.665.859</td><td>80.870.287.442</td><td>28.951.751.334</td><td>5.220.982.920</td><td>461.417.544</td><td>180.744.105.099</td></tr><tr><td>- Khấu hao trong năm</td><td>35.533.160.661</td><td>39.949.735.565</td><td>11.482.743.033</td><td>617.501.475</td><td>121.144.015</td><td>87.704.284.749</td></tr><tr><td>- Thanh lý, nhượng bán</td><td>-</td><td>(1.946.329.602)</td><td>(435.936.075)</td><td>-</td><td>-</td><td>(2.382.265.677)</td></tr><tr><td>Số dư cuối năm</td><td>100.772.826.520</td><td>118.873.693.405</td><td>39.998.558.292</td><td>5.838.484.395</td><td>582.561.559</td><td>266.066.124.171</td></tr><tr><td colspan="7">Giá trị còn lại</td></tr><tr><td>Tại ngày đầu năm</td><td>970.493.850.888</td><td>714.751.453.583</td><td>80.628.386.949</td><td>2.423.430.972</td><td>104.887.666</td><td>1.768.402.010.058</td></tr><tr><td>Tại ngày cuối năm</td><td>935.751.772.799</td><td>678.765.869.299</td><td>70.261.579.991</td><td>1.805.929.497</td><td>371.113.651</td><td>1.686.956.265.237</td></tr></table>
+
+Trong đó:
+
+- Giá trị còn lại cuối năm của TSCĐ hữu hình đã dùng thể chấp, cầm cố đảm bảo các khoản vay: 1.657.098.080.499 VND.
+
+- Nguyên giá TSCĐ cuối năm đã khấu hao hết nhưng vẫn còn sử dụng: 32.716.713.406 VND.
+
+26
+
+===== PAGE 28 =====
+Công ty Cổ phần Xây lắp điện I
+
+Số 18 Lý Văn Phúc, phường Cát Linh, quận Đông Đa, Hà Nội
+
+Báo cáo tài chính riêng
+
+Cho năm tài chính kết thúc ngày 31/12/2019
+
+12. TÀI SẢN CÓ ĐỊNH VÔ HÌNH
+
+<table><tr><td rowspan="2"></td><td rowspan="2">Giá trị quyềnsửVND</td><td>Giá trị quyềnsử dụng đất(*)</td><td>Phần mềm máytính</td><td>Cộng</td></tr><tr><td>VND</td><td>VND</td><td>VND</td></tr><tr><td colspan="5">Nguyên giá</td></tr><tr><td>Số dư đầu năm</td><td></td><td>1.108.070.000</td><td>109.900.000</td><td>1.217.970.000</td></tr><tr><td>- Mua trong năm</td><td>-</td><td>-</td><td>770.000.000</td><td>770.000.000</td></tr><tr><td>Số dư cuối năm</td><td>-</td><td>1.108.070.000</td><td>879.900.000</td><td>1.987.970.000</td></tr><tr><td colspan="5">Giá trị hao mòn lũy kế</td></tr><tr><td>Số dư đầu năm</td><td>-</td><td>-</td><td>109.900.000</td><td>109.900.000</td></tr><tr><td>- Khấu hao trong năm</td><td>-</td><td>-</td><td>56.505.021</td><td>56.505.021</td></tr><tr><td>Số dư cuối năm</td><td>-</td><td>-</td><td>166.405.021</td><td>166.405.021</td></tr><tr><td colspan="5">Giá trị còn lại</td></tr><tr><td>Tại ngày đầu năm</td><td>-</td><td>1.108.070.000</td><td>-</td><td>1.108.070.000</td></tr><tr><td>Tại ngày cuối năm</td><td>-</td><td>1.108.070.000</td><td>713.494.979</td><td>1.821.564.979</td></tr></table>
+
+(*) Giá trị quyền sử dụng đất không thời hạn tại thôn Yên Khê, xã Yên Thường, huyện Gia Lâm với tổng diện tích 122,6 m2 đang được sử dụng làm một phần Nhà máy Chế tạo Kết cấu thép Yên Thường.
+
+Trong đó:
+
+- Nguyên giá tài sản cố định cuối năm đã khấu hao hết nhưng vẫn còn sử dụng:
+
+109.900.000 VND
+
+13. BÁT ĐỘNG SẢN ĐẦU TƯ CHO THUÊ
+
+<table><tr><td rowspan="2"></td><td>Chung cưNăng Hương</td><td>Chung cưMỹ Đình Plaza</td><td>Chung cư PCC1 HàĐông Complex</td><td>Cộng</td></tr><tr><td>VND</td><td>VND</td><td>VND</td><td>VND</td></tr><tr><td colspan="5">Nguyên giá</td></tr><tr><td>Số dư đầu năm</td><td>11.076.525.175</td><td>85.271.905.313</td><td>24.269.520.970</td><td>120.617.951.458</td></tr><tr><td>- Đầu tư xây dựngcor bản hoàn thành</td><td>-</td><td>5.205.921.561</td><td>-</td><td>5.205.921.561</td></tr><tr><td>Số dư cuối năm</td><td>11.076.525.175</td><td>90.477.826.874</td><td>24.269.520.970</td><td>125.823.873.019</td></tr><tr><td colspan="5">Giá trị hao mòn lũy kế</td></tr><tr><td>Số dư đầu năm</td><td>3.303.062.461</td><td>17.723.746.955</td><td>2.430.941.599</td><td>23.457.751.015</td></tr><tr><td>- Khấu hao trong năm</td><td>398.779.182</td><td>4.210.957.855</td><td>970.780.835</td><td>5.580.517.872</td></tr><tr><td>Số dư cuối năm</td><td>3.701.841.643</td><td>21.934.704.810</td><td>3.401.722.434</td><td>29.038.268.887</td></tr><tr><td colspan="5">Giá trị còn lại</td></tr><tr><td>Tại ngày đầu năm</td><td>7.773.462.714</td><td>67.548.158.358</td><td>21.838.579.371</td><td>97.160.200.443</td></tr><tr><td>Tại ngày cuối năm</td><td>7.374.683.532</td><td>68.543.122.064</td><td>20.867.798.536</td><td>96.785.604.132</td></tr></table>
+
+27
+
+JO
+C
+ACH
+ANC
+A
+IN
+
+===== PAGE 29 =====
+Công ty Cổ phần Xây lắp điện I
+
+Số 18 Lý Văn Phúc, phường Cát Linh, quận Đống Đa, Hà Nội
+
+Báo cáo tài chính riêng
+
+Cho năm tài chính kết thúc ngày 31/12/2019
+
+14. CHI PHÍ TRÀ TRƯỚC
+
+<table><tr><td rowspan="2"></td><td>31/12/2019</td><td>01/01/2019</td></tr><tr><td>VND</td><td>VND</td></tr><tr><td colspan="3">a) Chi phí trả trước ngắn hạn</td></tr><tr><td>- Công cụ dụng cụ xuất dùng</td><td>50.403.312</td><td>115.926.552</td></tr><tr><td>- Chi phí trả trước ngắn hạn khác</td><td>156.599.242</td><td>146.028.488</td></tr><tr><td></td><td>207.002.554</td><td>261.955.040</td></tr><tr><td colspan="3">b) Chi phí trả trước dài hạn</td></tr><tr><td>- Công cụ dụng cụ xuất dùng</td><td>926.296.368</td><td>1.726.511.814</td></tr><tr><td>- Chi phí sửa chữa tài sản cố định</td><td>1.615.997.822</td><td>2.695.324.270</td></tr><tr><td>- Chi phí giải phóng mặt bằng các Nhà máy Thủy điện (*)</td><td>20.841.974.761</td><td>21.192.563.077</td></tr><tr><td>- Chi phí trả trước dài hạn khác</td><td>2.822.074.747</td><td>557.838.737</td></tr><tr><td></td><td>26.206.343.698</td><td>26.172.237.898</td></tr></table>
+
+(*): Tiền bồi thường giải phóng mặt bằng của các công trình thủy điện Bảo Lâm 1,3,3A được trừ vào tiền thuê đất phải nộp hàng năm theo các thông báo của Cục thuế tỉnh Cao Bằng cụ thể như sau:
+
+<table><tr><td>Công trình</td><td>Thông báo</td><td>Số tiền được trừ</td></tr><tr><td>Công trình Thủy điện Bảo Lâm 1</td><td>Thông báo số 192/TB-CT ngày 24/11/2016</td><td>11.413.476.782</td></tr><tr><td>Công trình Thủy điện Bảo Lâm 3</td><td>Thông báo số 849/TB-CT ngày 21/08/2017</td><td>10.061.418.000</td></tr><tr><td>Công trình Thủy điện Bảo Lâm 3A</td><td>Thông báo số 798/TB-CT ngày 07/08/2017</td><td>668.410.942</td></tr></table>
+
+Tiền thuê đất đã được bù trừ trong năm là: 350.588.316 đồng, chi phí giải phóng mặt bằng của các công trình nếu trên còn được bù trừ với tiền thuê đất các năm tiếp theo tại ngày 31/12/2019 là 20.841.974.761 đồng.
+
+28
+
+TO
+IG
+IEM
+KIEN
+AS
+IEM
+
+===== PAGE 30 =====
+Công ty Cổ phần Xây lắp điện I
+
+Số 18 Lý Văn Phúc, phường Cát Linh, quận Đống Đa, Hà Nội
+
+Báo cáo tài chính riêng
+
+Cho năm tài chính kết thúc ngày 31/12/2019
+
+15. CÁC KHOẢN VAY
+
+<table><tr><td rowspan="3"></td><td colspan="2">01/01/2019</td><td colspan="2">Trong năm</td><td colspan="2">31/12/2019</td></tr><tr><td>Giá trị</td><td>Số có khả năng trả nợ</td><td>Tăng</td><td>Giảm</td><td>Giá trị</td><td>Số có khả năng trả nợ</td></tr><tr><td>VND</td><td>VND</td><td>VND</td><td>VND</td><td>VND</td><td>VND</td></tr><tr><td colspan="7">a) Vay ngắn hạn</td></tr><tr><td>- Vay ngắn hạn</td><td>428.317.685.485</td><td>428.317.685.485</td><td>2.363.072.972.299</td><td>1.942.468.098.022</td><td>848.922.559.762</td><td>848.922.559.762</td></tr><tr><td>- Vay và nợ dài hạn đến hạn trả</td><td></td><td>-</td><td>79.200.000.000</td><td>25.800.000.000</td><td>53.400.000.000</td><td>53.400.000.000</td></tr><tr><td></td><td>428.317.685.485</td><td>428.317.685.485</td><td>2.442.272.972.299</td><td>1.968.268.098.022</td><td>902.322.559.762</td><td>902.322.559.762</td></tr><tr><td colspan="7">b) Vay dài hạn</td></tr><tr><td>- Vay dài hạn</td><td>927.007.565.983</td><td>927.007.565.983</td><td>236.649.841.570</td><td>25.800.000.000</td><td>1.137.857.407.553</td><td>1.137.857.407.553</td></tr><tr><td></td><td>927.007.565.983</td><td>927.007.565.983</td><td>236.649.841.570</td><td>25.800.000.000</td><td>1.137.857.407.553</td><td>1.137.857.407.553</td></tr><tr><td>Khoản đến hạn trả trong vòng 12 tháng</td><td>-</td><td>-</td><td>(79.200.000.000)</td><td>(25.800.000.000)</td><td>(53.400.000.000)</td><td>(53.400.000.000)</td></tr><tr><td>Khoản đến hạn trả sau 12 tháng</td><td>927.007.565.983</td><td>927.007.565.983</td><td></td><td></td><td>1.084.457.407.553</td><td>1.084.457.407.553</td></tr><tr><td colspan="7">Thông tin chi tiết liên quan đến khoản vay ngắn hạn</td></tr><tr><td></td><td>Loại tiền</td><td>Mục đích vay</td><td>Hình thức đảm bảo</td><td></td><td>31/12/2019</td><td>01/01/2019</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>VND</td><td>VND</td></tr><tr><td>Công ty Cổ phần Đầu tư Địa ốc Mỹ Đình</td><td>VND</td><td>Bổ sung vốn</td><td>Tín chấp</td><td></td><td>98.878.400.000</td><td>210.000.000.000</td></tr><tr><td>Công ty Cổ phần Cơ khí Ô tô Hòa Bình</td><td>VND</td><td>Bổ sung vốn</td><td>Tín chấp</td><td></td><td>-</td><td>33.520.000.000</td></tr><tr><td>Công ty Cổ phần Đầu tư Tiến Bộ</td><td>VND</td><td>Bổ sung vốn</td><td>Tín chấp</td><td></td><td>105.700.000.000</td><td>18.200.000.000</td></tr><tr><td>Công ty Cổ phần Điện gió Liên Lập</td><td>VND</td><td>Bổ sung vốn</td><td>Tín chấp</td><td></td><td>44.700.000.000</td><td>-</td></tr><tr><td>Ngân hàng TMCP Đầu tư và Phát triển Việt Nam - Chi nhánh Hà Nội</td><td>VND</td><td>Bổ sung vốn</td><td>Tín chấp</td><td></td><td>143.654.922.142</td><td>166.597.685.485</td></tr><tr><td>Ngân hàng TMCP Ngoại Thương - Sở giao dịch</td><td>VND</td><td>Bổ sung vốn</td><td>Tín chấp</td><td></td><td>8.671.913.721</td><td>-</td></tr><tr><td>Ngân hàng Shinhan - Chi nhánh Hà Nội</td><td>VND</td><td>Bổ sung vốn</td><td>Tín chấp</td><td></td><td>110.200.000.000</td><td>-</td></tr><tr><td rowspan="2">Ngân hàng Ngân hàng Thương mại Cổ phần Công thương Chi nhánh Thành An Đối tượng khác</td><td>VND</td><td>Bổ sung vốn</td><td>Tín chấp</td><td></td><td>335.437.323.899</td><td>-</td></tr><tr><td>VND</td><td></td><td>Tín chấp</td><td></td><td>1.680.000.000</td><td>-</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>848.922.559.762</td><td>428.317.685.485</td></tr></table>
+
+29
+
+(1) C. T. 10
+
+===== PAGE 31 =====
+Công ty Cổ phần Xây lắp điện I
+
+Số 18 Lý Văn Phúc, phường Cát Linh, quận Đống Đa, Hà Nội
+
+Báo cáo tài chính riêng
+
+Cho năm tài chính kết thúc ngày 31/12/2019
+
+Thông tin chi tiết liên quan đến khoản vay dài hạn
+
+<table><tr><td rowspan="2"></td><td rowspan="2">Loại tiền</td><td rowspan="2">Lãi suất năm</td><td rowspan="2">Năm đáo hạn</td><td rowspan="2">Hình thức đảm bảo</td><td>31/12/2019</td><td>01/01/2019</td></tr><tr><td>VND</td><td>VND</td></tr><tr><td>Ngân hàng TMCP Ngoại thương Việt Nam - Sở giao dịch</td><td>VND</td><td>Tổng lãi suất huy động tiết kiệm bằng tiền đồng kỳ hạn 12 tháng và biên độ</td><td>180 tháng kể từ ngày giải ngân</td><td>Tài sản hình thành từ Dự án Thủy Điện Bảo Lâm 3</td><td>490.709.898.607</td><td>353.500.000.000</td></tr><tr><td>Ngân hàng TMCP Công thương Việt Nam - Chi nhánh Thành An</td><td>VND</td><td>Tổng lãi suất huy động tiết kiệm bằng tiền đồng kỳ hạn 12 tháng và biên độ</td><td>168 tháng kể từ ngày giải ngân</td><td>Tài sản hình thành từ Dự án Thủy Điện Bảo Lạc B</td><td>86.439.942.963</td><td>-</td></tr><tr><td>Ngân hàng TMCP Công thương Việt Nam - Chi nhánh Thành An</td><td>VND</td><td>Tổng lãi suất huy động tiết kiệm bằng tiền đồng kỳ hạn 12 tháng và biên độ</td><td>180 tháng kể từ ngày giải ngân</td><td>Tài sản hình thành từ Dự án Thủy Điện Bảo Lâm 3A</td><td>62.339.170.283</td><td>69.339.170.283</td></tr><tr><td>Ngân hàng TMCP Công thương Việt Nam - Chi nhánh Thành An</td><td>VND</td><td>Lãi suất ưu đãi từ nguồn vốn hỗ trợ chương trình phát triển Năng lượng tái tạo (REDP) của WB</td><td>180 tháng kể từ ngày giải ngân</td><td>Tài sản hình thành từ Dự án Thủy Điện Bảo Lâm 1</td><td>498.368.395.700</td><td>504.168.395.700</td></tr><tr><td colspan="5"></td><td>1.137.857.407.553(53.400.000.000)</td><td>927.007.565.983</td></tr><tr><td colspan="5">Khoản đến hạn trả trong vòng 12 tháng</td><td rowspan="2">1.084.457.407.553</td><td rowspan="2">927.007.565.983</td></tr><tr><td colspan="5">Khoản đến hạn trả sau 12 tháng</td></tr></table>
+
+30
+
+===== PAGE 32 =====
+Công ty Cổ phần Xây lắp điện I
+
+Số 18 Lý Văn Phúc, phường Cát Linh, quận Đống Đa, Hà Nội
+
+Báo cáo tài chính riêng
+
+Cho năm tài chính kết thúc ngày 31/12/2019
+
+16. PHẢI TRẢ NGƯỜI BÁN NGẮN HẠN
+
+<table><tr><td rowspan="2"></td><td colspan="2">31/12/2019</td><td colspan="2">01/01/2019</td></tr><tr><td>Giá trịVND</td><td>Số có khả năng tràngVND</td><td>Giá trịVND</td><td>Số có khả năng tràngVND</td></tr><tr><td colspan="5">Phải trả người bán chỉ tiết theo nhà cung cấp có số dư lớn</td></tr><tr><td>- Công ty TNHH MTV Xây lắp điện 1 - Miền Nam</td><td>119.668.449.459</td><td>119.668.449.459</td><td>87.048.319.098</td><td>87.048.319.098</td></tr><tr><td>- Công ty TNHH MTV Xây lắp điện 1 - Mỹ Đình</td><td>14.351.675.740</td><td>14.351.675.740</td><td>39.603.722.588</td><td>39.603.722.588</td></tr><tr><td>- Công ty Cổ phần Đầu tư Thương mại XNK Việt Phát</td><td>-</td><td>-</td><td>71.961.445.345</td><td>71.961.445.345</td></tr><tr><td>- ZHEJIANG WANMA CO.,LTD</td><td>54.563.252.196</td><td>54.563.252.196</td><td>-</td><td>-</td></tr><tr><td>- Dongfang Electric International Coroporation</td><td>34.887.527.299</td><td>34.887.527.299</td><td>-</td><td>-</td></tr><tr><td>- Công ty Cổ phần Thương mại và Kỹ thuật Năng lượng Việt Nam</td><td>41.982.640.883</td><td>41.982.640.883</td><td>123.910.640</td><td>123.910.640</td></tr><tr><td>- Phải trả các đối tượng khác</td><td>346.121.156.406</td><td>346.121.156.406</td><td>271.593.866.281</td><td>271.593.866.281</td></tr><tr><td></td><td>611.574.701.983</td><td>611.574.701.983</td><td>470.331.263.952</td><td>470.331.263.952</td></tr></table>
+
+17. NGƯỜI MUA TRẢ TIỀN TRƯỚC NGẮN HẠN
+
+<table><tr><td rowspan="2"></td><td>31/12/2019</td><td>01/01/2019</td></tr><tr><td>VND</td><td>VND</td></tr><tr><td>- Ban Quản lý Dự án các Công trình Điện Miền Trung</td><td>-</td><td>27.030.938.010</td></tr><tr><td>- Công ty Cổ phần Điện mặt trời Mỹ Sơn - Hoàn Lộc Việt</td><td>-</td><td>27.400.000.000</td></tr><tr><td>- Công ty Cổ phần Thủy điện Đa Nhim - Hàm Thuận - Đa Mi</td><td>-</td><td>15.704.155.345</td></tr><tr><td>- Chủ đầu tư Nam trả My</td><td>16.730.000.000</td><td>-</td></tr><tr><td>- Công ty Cổ phần Cơ khí Xây dựng AMECC</td><td>14.355.320.822</td><td>-</td></tr><tr><td>- Công ty TNHH Vestas Wind Technology Việt Nam</td><td>26.697.200.000</td><td>-</td></tr><tr><td>- Người mua trả tiền trước khác</td><td>10.922.745.649</td><td>29.679.764.643</td></tr><tr><td></td><td>68.705.266.471</td><td>99.814.857.998</td></tr></table>
+
+31
+
+===== PAGE 33 =====
+Công ty Cổ phần Xây lắp điện I
+
+Số 18 Lý Văn Phúc, phường Cát Linh, quận Đống Đa, Hà Nội
+
+Báo cáo tài chính riêng
+
+Cho năm tài chính kết thúc ngày 31/12/2019
+
+18. THUẾ VÀ CÁC KHOẢN PHẢI NỘP NHÀ NƯỚC
+
+<table><tr><td rowspan="2"></td><td>Số phải nộp đầu năm</td><td>Số phải nộp trong năm</td><td>Số đã thực nộp trong năm</td><td>Số phải nộp cuối năm</td></tr><tr><td>VND</td><td>VND</td><td>VND</td><td>VND</td></tr><tr><td>- Thuế giá trị gia tăng</td><td>-</td><td>102.562.647.693</td><td>102.562.647.693</td><td>-</td></tr><tr><td>- Thuế Xuất khẩu, Nhập khẩu</td><td>-</td><td>481.687.102</td><td>481.687.102</td><td>-</td></tr><tr><td>- Thuế thu nhập doanh nghiệp</td><td>15.728.343.732</td><td>21.810.598.193</td><td>19.453.291.102</td><td>18.085.650.823</td></tr><tr><td>- Thuế thu nhập cá nhân</td><td>176.776.304</td><td>3.571.241.919</td><td>3.505.505.629</td><td>242.512.594</td></tr><tr><td>- Thuế Tài nguyên</td><td>1.790.749.795</td><td>29.256.985.850</td><td>30.219.079.078</td><td>828.656.567</td></tr><tr><td>- Thuế Nhà đất, Tiền thuê đất</td><td>-</td><td>2.708.332.585</td><td>2.708.332.585</td><td>-</td></tr><tr><td>- Thuế môn bài</td><td>-</td><td>4.000.000</td><td>4.000.000</td><td>-</td></tr><tr><td>- Phí, lệ phí và các khoản phải nộp khác</td><td>2.296.822.068</td><td>15.440.305.908</td><td>15.910.295.804</td><td>1.826.832.172</td></tr><tr><td></td><td>19.992.691.899</td><td>175.835.799.250</td><td>174.844.838.993</td><td>20.983.652.156</td></tr></table>
+
+Quyết toán thuế của Công ty sẽ chịu sự kiểm tra của cơ quan thuế. Do việc áp dụng luật và các quy định về thuế đối với nhiều loại giao dịch khác nhau có thể được giải thích theo nhiều cách khác nhau, số thuế được trình bày trên Báo cáo tài chính riêng có thể bị thay đổi theo quyết định của cơ quan thuế.
+
+19. CHI PHÍ PHẢI TRẢ NGẮN HẠN
+
+<table><tr><td rowspan="2"></td><td>31/12/2019</td><td>01/01/2019</td></tr><tr><td>VND</td><td>VND</td></tr><tr><td>- Chi phí lãi vay vào công trình Thủy điện Bảo Lạc B</td><td>674.942.020</td><td>-</td></tr><tr><td>- Chi phí lãi vay</td><td>17.217.813.457</td><td>19.101.666.261</td></tr><tr><td>- Chi phí trích trước các công trình xây lắp và sản xuất công nghiệp</td><td>1.385.210.642</td><td>3.524.042.207</td></tr><tr><td>- Trích trước chi phí các công trình thủy điện đã hoàn thành</td><td>62.194.271.199</td><td>72.659.355.817</td></tr><tr><td>- Chi phí phải trả khác</td><td>2.964.848.323</td><td>-</td></tr><tr><td></td><td>84.437.085.641</td><td>95.285.064.285</td></tr></table>
+
+20. PHẢI TRẢ KHÁC
+
+<table><tr><td rowspan="2"></td><td>31/12/2019</td><td>01/01/2019</td></tr><tr><td>VND</td><td>VND</td></tr><tr><td colspan="3">a) Ngắn hạn</td></tr><tr><td>- Kinh phí công đoàn</td><td>304.671.576</td><td>570.002.256</td></tr><tr><td>- Nhận ký quỹ, ký cược ngắn hạn</td><td>1.254.396.803</td><td>1.730.395.774</td></tr><tr><td>- Phải trả tiền bảo trì dự án bắt động sản</td><td>11.562.699.455</td><td>12.917.285.445</td></tr><tr><td>- Phải trả các ban chi huy công trình</td><td>54.359.437</td><td>51.748.767</td></tr><tr><td>- Các khoản phải trả, phải nộp khác</td><td>2.848.514.554</td><td>2.366.090.242</td></tr><tr><td></td><td>16.024.641.825</td><td>17.635.522.484</td></tr><tr><td colspan="3">b) Dài hạn</td></tr><tr><td>- Nhận ký quỹ, ký cược dài hạn</td><td>1.453.347.330</td><td>944.637.972</td></tr><tr><td></td><td>1.453.347.330</td><td>944.637.972</td></tr></table>
+
+32
+
+(1) A
+
+===== PAGE 34 =====
+Công ty Cổ phần Xây lắp điện I
+
+Số 18 Lý Văn Phúc, phường Cát Linh, quận Đống Đa, Hà Nội
+
+Báo cáo tài chính riêng
+
+Cho năm tài chính kết thúc ngày 31/12/2019
+
+21. DOANH THU CHU'A THỰC HIỆN NGẮN HẠN
+
+<table><tr><td rowspan="2"></td><td>31/12/2019</td><td>01/01/2019</td></tr><tr><td>VND</td><td>VND</td></tr><tr><td rowspan="2">- Doanh thu nhận trước tiền thuê văn phòng</td><td>524.871.456</td><td>101.992.887</td></tr><tr><td>524.871.456</td><td>101.992.887</td></tr><tr><td colspan="3">22. DỰ PHÒNG PHẢI TRẢ</td></tr><tr><td rowspan="2"></td><td>31/12/2019</td><td>01/01/2019</td></tr><tr><td>VND</td><td>VND</td></tr><tr><td colspan="3">a) Ngắn hạn</td></tr><tr><td rowspan="2">- Dự phòng báo hành công trình xây dựng</td><td>-</td><td>6.196.277.618</td></tr><tr><td>-</td><td>6.196.277.618</td></tr><tr><td colspan="3">b) Dải hạn</td></tr><tr><td rowspan="2">- Dự phòng báo hành công trình xây dựng</td><td>7.261.678.713</td><td>7.261.678.713</td></tr><tr><td>7.261.678.713</td><td>7.261.678.713</td></tr></table>
+
+33
+
+===== PAGE 35 =====
+Công ty Cổ phần Xây lắp điện I
+
+Số 18 Lý Văn Phúc, phường Cát Linh, quận Đống Đa, Hà Nội
+
+Báo cáo tài chính riêng
+
+Cho năm tài chính kết thúc ngày 31/12/2019
+
+23. VÔN CHỦ SỞ HỮU
+
+a) Báng đối chiếu biến động của vốn chủ sở hữu
+
+<table><tr><td rowspan="2"></td><td>Vốn đầu tư của chủsở hữu</td><td>Thặng dư vốn cổ phần</td><td>Cổ phiếu quỹ</td><td>Quỹ đầu tư phát triển</td><td>Quỹ khác thuộc vốnchủ sở hữu</td><td>Lợi nhuận chưa phân phối</td><td>Cộng</td></tr><tr><td>VND</td><td>VND</td><td>VND</td><td>VND</td><td>VND</td><td>VND</td><td>VND</td></tr><tr><td>Số dư đầu năm trước</td><td>1.154.528.420.000</td><td>711.136.556.786</td><td>(4.320.000)</td><td>66.602.581.106</td><td>22.816.489.259</td><td>571.075.721.042</td><td>2.526.155.448.193</td></tr><tr><td>Lãi trong năm trước</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>294.757.806.951</td><td>294.757.806.951</td></tr><tr><td>Phân phối lợi nhuận</td><td>-</td><td>-</td><td>-</td><td>18.376.968.854</td><td>9.188.484.427</td><td>(219.116.942.135)</td><td>(18.376.968.854)</td></tr><tr><td>Trích quỹ đầu tư phát triển</td><td>-</td><td>-</td><td>-</td><td>18.376.968.854</td><td>-</td><td>(18.376.968.854)</td><td>-</td></tr><tr><td>Trích quỹ dự trữ bổ sungvốn điều lệ</td><td>-</td><td>-</td><td>-</td><td>-</td><td>9.188.484.427</td><td>(9.188.484.427)</td><td>-</td></tr><tr><td>Trích quỹ khen thưởng, phúcloi</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>(18.376.968.854)</td><td>(18.376.968.854)</td></tr><tr><td>Chia cổ tức bằng cổ phiếu</td><td>173.174.520.000</td><td></td><td></td><td></td><td></td><td>(173.174.520.000)</td><td>-</td></tr><tr><td>Số dư cuối năm trước</td><td>1.327.702.940.000</td><td>711.136.556.786</td><td>(4.320.000)</td><td>84.979.549.960</td><td>32.004.973.686</td><td>646.716.585.858</td><td>2.802.536.286.290</td></tr><tr><td>Số dư đầu năm nay</td><td>1.327.702.940.000</td><td>711.136.556.786</td><td>(4.320.000)</td><td>84.979.549.960</td><td>32.004.973.686</td><td>646.716.585.858</td><td>2.802.536.286.290</td></tr><tr><td>Lãi trong năm nay</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>499.207.125.479</td><td>499.207.125.479</td></tr><tr><td>Phân phối lợi nhuận(*)</td><td>-</td><td>-</td><td>-</td><td>29.475.780.695</td><td>14.737.890.348</td><td>(345.124.327.877)</td><td>(35.370.936.834)</td></tr><tr><td>Trích quỹ đầu tư phát triển</td><td>-</td><td>-</td><td>-</td><td>29.475.780.695</td><td>-</td><td>(29.475.780.695)</td><td>-</td></tr><tr><td>Hạch toán cổ tức trả bằngcổ phiếu</td><td>265.539.720.000</td><td>-</td><td>-</td><td>-</td><td>-</td><td>(265.539.720.000)</td><td>-</td></tr><tr><td>Trích quỹ dự trữ bổ sungvốn điều lệ</td><td>-</td><td>-</td><td>-</td><td>-</td><td>14.737.890.348</td><td>(14.737.890.348)</td><td>-</td></tr><tr><td>Trích quỹ khen thưởng, phúcloi</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>(29.475.780.696)</td><td>(29.475.780.696)</td></tr><tr><td>Trích quỹ thưởng Ban điều hành</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>(5.895.156.138)</td><td>(5.895.156.138)</td></tr><tr><td>Số dư cuối năm nay</td><td>1.593.242.660.000</td><td>711.136.556.786</td><td>(4.320.000)</td><td>114.455.330.655</td><td>46.742.864.034</td><td>800.799.383.460</td><td>3.266.372.474.935</td></tr></table>
+
+(*) Công ty phân phối lợi nhuận theo Nghị quyết Đại hội đồng Cổ đông năm 2019 số 01/NQ-PCC1-DHDCĐ ngày 11/04/2019.
+
+34
+
+===== PAGE 36 =====
+Công ty Cổ phần Xây lắp điện I
+
+Số 18 Lý Văn Phúc, phường Cát Linh, quận Đống Đa, Hà Nội
+
+Báo cáo tài chính riêng
+
+Cho năm tài chính kết thúc ngày 31/12/2019
+
+b) Các giao dịch về vốn với các chủ sở hữu và phân phối cổ tức, chia lợi nhuận
+
+<table><tr><td rowspan="2"></td><td>Năm 2019</td><td>Năm 2018</td></tr><tr><td>VND</td><td>VND</td></tr><tr><td colspan="3">Vốn đầu tư của chủ sở hữu</td></tr><tr><td>- Vốn góp đầu năm</td><td>1.327.702.940.000</td><td>1.154.528.420.000</td></tr><tr><td>- Vốn góp tăng trong năm</td><td>265.539.720.000</td><td>173.174.520.000</td></tr><tr><td>- Vốn góp cuối năm</td><td>1.593.242.660.000</td><td>1.327.702.940.000</td></tr><tr><td colspan="3">c) Cổ phiếu</td></tr><tr><td></td><td>31/12/2019</td><td>01/01/2019</td></tr><tr><td></td><td>VND</td><td>VND</td></tr><tr><td>Số lượng cổ phiếu đăng ký phát hành</td><td>159.324.266</td><td>132.770.294</td></tr><tr><td>Số lượng cổ phiếu đã phát hành và góp vốn đầy đủ</td><td>159.324.266</td><td>132.770.294</td></tr><tr><td>- Cổ phiếu phổ thông</td><td>159.324.266</td><td>132.770.294</td></tr><tr><td>Số lượng cổ phiếu được mua lại (Cổ phiếu quỹ)</td><td>432</td><td>432</td></tr><tr><td>- Cổ phiếu phổ thông</td><td>432</td><td>432</td></tr><tr><td>Số lượng cổ phiếu đang lưu hành</td><td>159.323.834</td><td>132.769.862</td></tr><tr><td>- Cổ phiếu phổ thông</td><td>159.323.834</td><td>132.769.862</td></tr><tr><td>Mệnh giá cổ phiếu đang lưu hành (VND)</td><td>10.000</td><td>10.000</td></tr><tr><td colspan="3">d) Các quỹ Công ty</td></tr><tr><td></td><td>31/12/2019</td><td>01/01/2019</td></tr><tr><td></td><td>VND</td><td>VND</td></tr><tr><td>- Quỹ đầu tư phát triển</td><td>114.455.330.655</td><td>84.979.549.960</td></tr><tr><td>- Quỹ khác thuộc vốn chủ sở hữu</td><td>46.742.864.034</td><td>32.004.973.686</td></tr><tr><td></td><td>161.198.194.689</td><td>116.984.523.646</td></tr></table>
+
+24. CÁC KHOẢN MỤC NGOÀI BẢNG CÂN ĐỒI KẾ TOÁN VÀ CAM KẾT THUÊ HOẠT ĐỘNG
+
+a) Tài sản cho thuê ngoài
+
+Công ty hiện đang cho thuê tài sản theo hợp đồng thuê hoạt động. Vào ngày 31/12/2019, các khoản tiền thuê tối thiểu trong tương lai theo hợp đồng cho thuê hoạt động được trình bày như sau:
+
+<table><tr><td rowspan="2"></td><td>31/12/2019</td><td>01/01/2019</td></tr><tr><td>VND</td><td>VND</td></tr><tr><td>- Từ 1 năm trở xuống</td><td>13.713.305.769</td><td>9.782.213.918</td></tr><tr><td>- Trên 1 năm đến 5 năm</td><td>18.999.878.660</td><td>8.999.431.452</td></tr><tr><td></td><td>32.713.184.429</td><td>18.781.645.370</td></tr></table>
+
+35
+
+===== PAGE 37 =====
+The image contains no text. The vertical line is a stylistic or background element and must be ignored according to the rules.
+
+Công ty Cổ phần Xây lắp điện I
+
+Số 18 Lý Văn Phúc, phường Cát Linh, quận Đống Đa, Hà Nội
+
+Báo cáo tài chính riêng
+
+Cho năm tài chính kết thúc ngày 31/12/2019
+
+b) Cam kết thuê hoạt động
+
+<table><tr><td>Tên lô đất/Địa điểm lô đất</td><td>Diện tích thuê</td><td>Thời gian thuê</td><td>Mục đích thuê</td><td>Tiền thuê đất phải trả 2019</td><td>Ghi chú</td></tr><tr><td>Khu đất tại số 18 Lý Văn Phúc - P.Cát Linh - Q.Đống Đa- Hà Nội</td><td>\( 510 \text{ m}^{2} \)</td><td>50 năm</td><td>Trụ sở làm việc</td><td>187.114.920</td><td>Đơn giá ổn định 5 năm/l lần</td></tr><tr><td>Khu đất tại xã Yên Thường- Huyện Gia Lâm - Hà Nội</td><td>\( 9.629 \text{ m}^{2} \)</td><td>Hàng năm</td><td>Trụ sở làm việc</td><td>444.908.611</td><td>Trả tiền thuê đất hàng năm</td></tr><tr><td>Khu đất P.Phương Canh- Q. Nam Từ Liêm- Hà Nội</td><td>\( 6.475 \text{ m}^{2} \)</td><td>50 năm</td><td>Trụ sở làm việc</td><td>564.771.046</td><td>Đơn giá ổn định 5 năm/l lần</td></tr><tr><td>Khu đất Phường Đông Ngạc- Q.Bắc Từ Liêm- Hà Nội</td><td>\( 2.903 \text{ m}^{2} \)</td><td>25 năm</td><td>Trụ sở làm việc</td><td>261.688.938</td><td>Đơn giá ổn định 5 năm/l lần</td></tr><tr><td>Khu đất Phường Mỹ Đình 2- Q. Nam Từ Liêm- Hà Nội</td><td>\( 3.334 \text{ m}^{2} \)</td><td>50 năm</td><td>Bãi dỗ xe, công trình</td><td>772.960.593</td><td>Đơn giá ổn định 5 năm/l lần</td></tr><tr><td>Khu đất Phường Phú Lâm- Q. Hà Đông- Hà Nội</td><td>\( 812,5 \text{ m}^{2} \)</td><td>25 năm</td><td>Trụ sở làm việc</td><td>41.858.039</td><td>Đơn giá ổn định 5 năm/l lần</td></tr><tr><td>Khu đất tại xã Mai Sơn- Yên Mô- Ninh Bình</td><td>\( 29.372 \text{ m}^{2} \)</td><td>33 năm</td><td>Trụ sở làm việc</td><td>75.541.292</td><td>Đơn giá ổn định 5 năm/l lần</td></tr><tr><td>Khu đất Tại Phường Tân Thanh- TP Ninh Bình</td><td>\( 2.887 \text{ m}^{2} \)</td><td>Hàng năm</td><td>Trụ sở làm việc</td><td>49.460.000</td><td>Trả tiền thuê đất hàng năm</td></tr><tr><td>Khu đất tại đường Tam Trinh- Q. Hoàng Mai- Hà Nội</td><td>\( 961 \text{ m}^{2} \)</td><td>Hàng năm</td><td>Trụ sở làm việc</td><td>132.319.802</td><td>Trả tiền thuê đất hàng năm</td></tr><tr><td>Khu đất tại xã Đại Mỗ- Q. Nam Từ Liêm- Hà Nội</td><td>\( 3.192 \text{ m}^{2} \)</td><td>Lâu dài</td><td>Trụ sở làm việc</td><td>58.530.244</td><td>Đơn giá ổn định 5 năm/l lần</td></tr><tr><td>Khu đất Phường Phú La- Q. Hà Đông- Hà Nội</td><td>\( 1.193 \text{ m}^{2} \)</td><td>Hàng năm</td><td>Trụ sở làm việc</td><td>119.179.100</td><td>Trả tiền thuê đất hàng năm</td></tr></table>
+
+c, Ngoại tệ các loại
+
+<table><tr><td rowspan="3">- USD</td><td>31/12/2019</td><td>01/01/2019</td></tr><tr><td>VND</td><td>VND</td></tr><tr><td>4.219,67</td><td>4.242,77</td></tr></table>
+
+25. TỔNG DOANH THU BÁN HÀNG VÀ CUNG CẤP ĐỊCH VỤ
+
+<table><tr><td rowspan="2"></td><td>Năm 2019</td><td>Năm 2018</td></tr><tr><td>VND</td><td>VND</td></tr><tr><td>Doanh thu hoạt động xây lắp và thiết bị ngành diện</td><td>2.533.746.798.527</td><td>1.387.422.113.315</td></tr><tr><td>Doanh thu hoạt động sản xuất công nghiệp</td><td>445.517.465.733</td><td>15.373.436.937</td></tr><tr><td>Doanh thu kinh doanh bắt động sản đầu tư</td><td>13.378.658.902</td><td>14.304.431.920</td></tr><tr><td>Doanh thu chuyển nhượng bắt động sản</td><td>42.599.879.765</td><td>-</td></tr><tr><td>Doanh thu mua bán điện</td><td>422.770.778.518</td><td>406.393.594.195</td></tr><tr><td>Doanh thu chuyển nhượng dự án Thủy điện Môngmath</td><td>-</td><td>121.163.997.898</td></tr><tr><td>Doanh thu bán hàng hóa, vật tư</td><td>1.338.433.121.414</td><td>1.257.515.443.531</td></tr><tr><td>Doanh thu khác</td><td>18.974.592.572</td><td>23.587.224.918</td></tr><tr><td></td><td>4.815.421.295.431</td><td>3.225.760.242.714</td></tr></table>
+
+36
+
+===== PAGE 38 =====
+Công ty Cổ phần Xây lắp điện I
+
+Số 18 Lý Văn Phúc, phường Cát Linh, quận Đống Đa, Hà Nội
+
+Báo cáo tài chính riêng
+
+Cho năm tài chính kết thúc ngày 31/12/2019
+
+26. GIÁ VÔN HÀNG BÁN
+
+<table><tr><td rowspan="2"></td><td>Năm 2019</td><td>Năm 2018</td></tr><tr><td>VND</td><td>VND</td></tr><tr><td>Giá vốn hoạt động xây lắp và thiết bị ngành điện</td><td>2.385.653.914.118</td><td>1.315.672.590.310</td></tr><tr><td>Giá vốn hoạt động sản xuất công nghiệp</td><td>429.606.852.014</td><td>14.350.520.909</td></tr><tr><td>Giá vốn kinh doanh bắt động sản đầu tư</td><td>7.446.079.943</td><td>6.579.966.803</td></tr><tr><td>Giá vốn chuyển nhượng bắt động sản</td><td>27.171.646.072</td><td>-</td></tr><tr><td>Giá vốn mua bán điện</td><td>149.282.562.221</td><td>149.958.249.863</td></tr><tr><td>Giá vốn chuyển nhượng dự án Thủy điện Môngmath</td><td>-</td><td>114.420.541.706</td></tr><tr><td>Giá vốn bán hàng hóa, vật tư</td><td>1.308.789.966.267</td><td>1.221.954.743.074</td></tr><tr><td>Giá vốn khác</td><td>15.812.343.963</td><td>20.817.802.654</td></tr><tr><td></td><td>4.323.763.364.598</td><td>2.843.754.415.319</td></tr></table>
+
+27. DOANH THU HOẠT ĐỘNG TÀI CHÍNH
+
+<table><tr><td rowspan="2"></td><td>Năm 2019</td><td>Năm 2018</td></tr><tr><td>VND</td><td>VND</td></tr><tr><td>Lãi tiền gửi, lãi cho vay</td><td>45.047.502.696</td><td>35.278.728.940</td></tr><tr><td>Cổ tức, lợi nhuận được chia</td><td>222.465.572.205</td><td>34.281.534.883</td></tr><tr><td>Lãi chênh lệch tỷ giá phát sinh trong năm</td><td>1.102.016.333</td><td>75.139.787</td></tr><tr><td>Lãi chênh lệch tỷ giá do đánh giá lại số dư cuối năm</td><td>-</td><td>770.011</td></tr><tr><td></td><td>268.615.091.234</td><td>69.636.173.621</td></tr></table>
+
+28. CHI PHÍ TÀI CHÍNH
+
+<table><tr><td rowspan="2"></td><td>Năm 2019</td><td>Năm 2018</td></tr><tr><td>VND</td><td>VND</td></tr><tr><td>Lãi tiền vay</td><td>127.112.167.384</td><td>94.388.752.959</td></tr><tr><td>Lỗ chênh lệch tỷ giá phát sinh trong năm</td><td>310.874.295</td><td>520.405.150</td></tr><tr><td>Dự phòng/Hoàn nhập dự phòng tổn thất đầu tư</td><td>33.454.957.945</td><td>(3.054.182.468)</td></tr><tr><td></td><td>160.877.999.624</td><td>91.854.975.641</td></tr></table>
+
+29. CHI PHÍ BÁN HÀNG
+
+<table><tr><td rowspan="2"></td><td>Năm 2019</td><td>Năm 2018</td></tr><tr><td>VND</td><td>VND</td></tr><tr><td>Chi phí dịch vụ mua ngoài</td><td>18.672.299.454</td><td>23.484.582.398</td></tr><tr><td>Hoàn nhập dự phòng bảo hành sản phẩm</td><td>-</td><td>(5.604.095.600)</td></tr><tr><td></td><td>18.672.299.454</td><td>17.880.486.798</td></tr></table>
+
+37
+
+===== PAGE 39 =====
+Công ty Cổ phần Xây lắp điện I
+
+Số 18 Lý Văn Phúc, phường Cát Linh, quận Đông Đa, Hà Nội
+
+Báo cáo tài chính riêng
+
+Cho năm tài chính kết thúc ngày 31/12/2019
+
+30. CHI PHÍ QUẢN LÝ DOANH NGHIỆP
+
+<table><tr><td rowspan="2"></td><td>Năm 2019</td><td>Năm 2018</td></tr><tr><td>VND</td><td>VND</td></tr><tr><td>Chi phí nguyên liệu, vật liệu</td><td>2.515.855.205</td><td>2.688.803.920</td></tr><tr><td>Chi phí nhân công</td><td>40.512.513.435</td><td>40.493.123.440</td></tr><tr><td>Chi phí khấu hao tài sản cố định</td><td>2.679.473.430</td><td>2.731.775.114</td></tr><tr><td>Thuế, phí, lệ phí</td><td>458.682.173</td><td>863.766.828</td></tr><tr><td>Chi phí dịch vụ mua ngoài</td><td>14.596.156.411</td><td>9.449.417.696</td></tr><tr><td>Chi phí khác bằng tiền</td><td>5.519.584.754</td><td>7.174.518.145</td></tr><tr><td></td><td>66.282.265.408</td><td>63.401.405.143</td></tr></table>
+
+31. THU NHẬP KHÁC
+
+<table><tr><td rowspan="2"></td><td>Năm 2019</td><td>Năm 2018</td></tr><tr><td>VND</td><td>VND</td></tr><tr><td>Thu nhập từ nhượng bán, thanh lý tài sản cố định</td><td>329.960</td><td>-</td></tr><tr><td>Hoàn nhập trích trước chi phí xây lắp</td><td>-</td><td>17.629.945</td></tr><tr><td>Hoàn nhập dự phòng</td><td>6.196.277.618</td><td>44.510.957.883</td></tr><tr><td>Thu nhập khác</td><td>401.312.842</td><td>49.417.808</td></tr><tr><td></td><td>6.597.920.420</td><td>44.578.005.636</td></tr></table>
+
+32. CHI PHÍ KHÁC
+
+<table><tr><td rowspan="2"></td><td>Năm 2019</td><td>Năm 2018</td></tr><tr><td>VND</td><td>VND</td></tr><tr><td>Giá trị còn lại và chi phí từ nhượng bán, thanh lý tài sản cố định</td><td>-</td><td>3.219.123.757</td></tr><tr><td>Chi phí khác</td><td>20.654.329</td><td>1.267.928.069</td></tr><tr><td></td><td>20.654.329</td><td>4.487.051.826</td></tr></table>
+
+38
+
+===== PAGE 40 =====
+Công ty Cổ phần Xây lắp điện I
+
+Số 18 Lý Văn Phúc, phường Cát Linh, quận Đống Đa, Hà Nội
+
+Báo cáo tài chính riêng
+
+Cho năm tài chính kết thúc ngày 31/12/2019
+
+33. CHI PHÍ THUẾ THU NHẬP DOANH NGHIỆP HIỆN HÀNH
+
+<table><tr><td rowspan="2"></td><td>Năm 2019</td><td>Năm 2018</td></tr><tr><td>VND</td><td>VND</td></tr><tr><td colspan="3">Thuế TNDN từ hoạt động kinh doanh chính</td></tr><tr><td>Tổng lợi nhuận kế toán trước thuế TNDN</td><td>316.343.990.953</td><td>140.844.390.093</td></tr><tr><td>Các khoản điều chỉnh tăng</td><td>678.188.450</td><td>1.828.863.437</td></tr><tr><td>- Chi phí không hợp lệ</td><td>678.188.450</td><td>1.828.863.437</td></tr><tr><td>Các khoản điều chỉnh giảm</td><td>(222.465.572.205)</td><td>(34.281.534.883)</td></tr><tr><td>- Cổ tức, lợi nhuận được chia</td><td>(222.465.572.205)</td><td>(34.281.534.883)</td></tr><tr><td>Thu nhập tính thuế TNDN</td><td>94.556.607.198</td><td>108.391.718.647</td></tr><tr><td>Thuế suất thuế TNDN</td><td>20%</td><td>20%</td></tr><tr><td>Chi phí thuế TNDN hiện hành</td><td>18.911.321.438</td><td>21.678.343.730</td></tr><tr><td>Các khoản điều chỉnh thuế TNDN của các năm trước vào chi phí thuế thu nhập doanh nghiệp hiện hành năm nay</td><td>-</td><td>834.168.710</td></tr><tr><td>Thuế TNDN phải nộp của hoạt động kinh doanh chính (1)</td><td>18.911.321.438</td><td>22.512.512.440</td></tr><tr><td colspan="3">Thuế TNDN từ hoạt động kinh doanh bất động sản</td></tr><tr><td>Tổng lợi nhuận kế toán từ hoạt động kinh doanh bất động sản</td><td>14.496.383.773</td><td>-</td></tr><tr><td>Thuế suất thuế TNDN</td><td>20%</td><td>20%</td></tr><tr><td>Thu nhập tính thuế TNDN</td><td>14.496.383.773</td><td>-</td></tr><tr><td>Thuế TNDN phải nộp của HĐKD bất động sản (2)</td><td>2.899.276.755</td><td>-</td></tr><tr><td colspan="3">Thuế TNDN từ hoạt động kinh doanh thủy điện</td></tr><tr><td>Tổng lợi nhuận kế toán từ hoạt động kinh doanh thủy điện</td><td>190.177.348.946</td><td>177.751.697.151</td></tr><tr><td>Thu nhập tính thuế TNDN</td><td>190.177.348.946</td><td>177.751.697.151</td></tr><tr><td>Thuế suất thuế TNDN</td><td>0%</td><td>0%</td></tr><tr><td>Các khoản điều chỉnh thuế TNDN của các kỳ trước vào chi phí thuế thu nhập doanh nghiệp năm nay</td><td>-</td><td>1.325.767.853</td></tr><tr><td>Thuế TNDN phải nộp của HĐKD thủy điện (3)</td><td>-</td><td>1.325.767.853</td></tr><tr><td>Tổng Chi phí thuế TNDN hiện hành (4)=(1)+(2)+(3)</td><td>21.810.598.193</td><td>23.838.280.293</td></tr><tr><td>Thuế thu nhập doanh nghiệp phải nộp đầu năm</td><td>15.728.343.732</td><td>22.912.017.574</td></tr><tr><td>Thuế thu nhập doanh nghiệp đã trong năm</td><td>(19.453.291.102)</td><td>(31.021.954.135)</td></tr><tr><td>Tổng thuế TNDN phải nộp cuối năm</td><td>18.085.650.823</td><td>15.728.343.732</td></tr></table>
+
+34. CHI PHÍ SẢN XUÁT KINH DOANH THEO YẾU TỐ
+
+<table><tr><td rowspan="2"></td><td>Năm 2019</td><td>Năm 2018</td></tr><tr><td>VND</td><td>VND</td></tr><tr><td>Chi phí nguyên liệu, vật liệu</td><td>1.059.795.210.545</td><td>329.444.163.182</td></tr><tr><td>Chi phí nhân công</td><td>64.132.334.489</td><td>55.858.450.928</td></tr><tr><td>Chi phí khấu hao tài sản cố định</td><td>92.851.106.466</td><td>93.944.417.008</td></tr><tr><td>Chi phí dự phòng, bảo hành</td><td>-</td><td>(5.604.095.600)</td></tr><tr><td>Chi phí dịch vụ mua ngoài</td><td>1.948.520.603.813</td><td>1.075.282.528.286</td></tr><tr><td>Chi phí khác bằng tiền</td><td>86.568.889.270</td><td>73.735.125.971</td></tr><tr><td></td><td>3.251.868.144.583</td><td>1.622.660.589.775</td></tr></table>
+
+39
+
+===== PAGE 41 =====
+Công ty Cổ phần Xây lắp điện I
+
+Số 18 Lý Văn Phúc, phường Cát Linh, quận Đông Đa, Hà Nội
+
+Báo cáo tài chính riêng
+
+Cho năm tài chính kết thúc ngày 31/12/2019
+
+35. CÔNG CỤ TÀI CHÍNH
+
+Các loại công cụ tài chính của Công ty bao gồm:
+
+Giá trị sổ kế toán
+
+<table><tr><td rowspan="2"></td><td colspan="2">31/12/2019</td><td colspan="2">01/01/2019</td></tr><tr><td>Giá gốcVND</td><td>Dự phòngVND</td><td>Giá gốcVND</td><td>Dự phòngVND</td></tr><tr><td colspan="5">Tài sản tài chính</td></tr><tr><td>Tiền và các khoản tương đương tiền</td><td>478.438.210.075</td><td>-</td><td>572.299.230.530</td><td>-</td></tr><tr><td>Phải thu khách hàng, phải thu khác</td><td>1.052.828.314.146</td><td>(3.134.031.737)</td><td>822.217.292.124</td><td>(3.134.031.737)</td></tr><tr><td>Các khoản cho vay</td><td>187.000.000.000</td><td>-</td><td>90.000.000.000</td><td>-</td></tr><tr><td>Đầu tư dài hạn</td><td>821.770.000</td><td>-</td><td>821.770.000</td><td>-</td></tr><tr><td></td><td>1.719.088.294.221</td><td>(3.134.031.737)</td><td>1.485.338.292.654</td><td>(3.134.031.737)</td></tr><tr><td rowspan="2"></td><td rowspan="2"></td><td rowspan="2"></td><td colspan="2">Giá trị số kế toán</td></tr><tr><td>31/12/2019VND</td><td>01/01/2019VND</td></tr><tr><td colspan="5">Nợ phải trả tài chính</td></tr><tr><td>Vay và nợ</td><td></td><td></td><td>1.986.779.967.315</td><td>1.355.325.251.468</td></tr><tr><td>Phải trả người bán, phải trả khác</td><td></td><td></td><td>629.052.691.138</td><td>488.911.424.408</td></tr><tr><td>Chi phí phải trả</td><td></td><td></td><td>84.437.085.641</td><td>95.285.064.285</td></tr><tr><td></td><td></td><td></td><td>2.700.269.744.094</td><td>1.939.521.740.161</td></tr></table>
+
+Tài sản tài chính và nợ phải trả tài chính chưa được đánh giá theo giá trị hợp lý tại ngày kết thúc năm tài chính do Thông tư 210/2009/TT-BTC và các quy định hiện hành yêu cầu trình bày Báo cáo tài chính và thuyết minh thông tin đối với công cụ tài chính nhưng không đưa ra hướng dẫn tương đương cho việc đánh giá và ghi nhận giá trị hợp lý của các tài sản tài chính và nợ phải trả tài chính, ngoại trừ các khoản trích lập dự phòng nợ phải thu khó đòi đã được nếu chi tiết tại Thuyết minh liên quan.
+
+Quản lý rủi ro tài chính
+
+Rủi ro tài chính của Công ty bao gồm rủi ro thị trường, rủi ro tín dụng và rủi ro thanh khoản. Công ty đã xây dựng hệ thống kiểm soát nhằm đảm bảo sự cân bằng ở mức hợp lý giữa chi phí rủi ro phát sinh và chi phí quản lý rủi ro. Ban Tổng Giám đốc Công ty có trách nhiệm theo dõi quy trình quản lý rủi ro để đảm bảo sự cân bằng hợp lý giữa rủi ro và kiểm soát rủi ro.
+
+Rùi ro thị trường
+
+Hoạt động kinh doanh của Công ty sẽ chủ yếu chịu rủi ro khi có sự thay đổi về giá, tỷ giá hối đoái và lãi suất.
+
+Rùi ro vě giá:
+
+Công ty chịu rủi ro về giá của các công cụ vốn phát sinh từ các khoản đầu tư cổ phiếu dài hạn do tính không chắc chắn về giá tương lai của cổ phiếu đầu tư. Các khoản đầu tư cổ phiếu dài hạn được nằm giữ với mục đích chiến lược lâu dài, tại thời điểm kết thúc năm tài chính Công ty chưa có kế hoạch bán các khoản đầu tư này.
+
+40
+
+===== PAGE 42 =====
+Công ty Cổ phần Xây lắp điện I
+
+Số 18 Lý Văn Phúc, phường Cát Linh, quận Đông Đa, Hà Nội
+
+Báo cáo tài chính riêng
+
+Cho năm tài chính kết thúc ngày 31/12/2019
+
+<table><tr><td></td><td>Từ 1 nămtrở xuốngVND</td><td>Trên 1 nàmdến 5 nămVND</td><td>Trên 5 nămVND</td><td>CộngVND</td></tr><tr><td rowspan="2">Tại ngày 31/12/2019Đầu tư dài hạn</td><td>-</td><td>-</td><td>821.770.000</td><td>821.770.000</td></tr><tr><td>-</td><td>-</td><td>821.770.000</td><td>821.770.000</td></tr><tr><td rowspan="2">Tại ngày 01/01/2019Đầu tư dài hạn</td><td>-</td><td>-</td><td>821.770.000</td><td>821.770.000</td></tr><tr><td>-</td><td>-</td><td>821.770.000</td><td>821.770.000</td></tr></table>
+
+Rùi ro về tỷ giá hối đoái:
+
+Công ty chịu rủi ro về tỷ giá do giá trị hợp lý của các lường tiền trong tương lai của một công cụ tài chính sẽ biến động theo những thay đổi của tỷ giá ngoại tệ khi các khoản vay, doanh thu và chi phí của Công ty được thực hiện bằng đơn vị tiền tệ khác với đồng Việt Nam.
+
+Rùi ro vè lǎi suất:
+
+Công ty chịu rủi ro về lãi suất do giá trị hợp lý của các lường tiền trong tương lai của một công cụ tài chính sẽ biến động theo những thay đổi của lãi suất thị trường khi Công ty có phát sinh các khoản tiền gửi có hoặc không có kỳ hạn, các khoản vay và nợ chịu lãi suất thả nổi. Công ty quản lý rủi ro lãi suất bằng cách phân tích tỉnh hình cạnh tranh trên thị trường để có được các lãi suất có lợi cho mục đích của Công ty.
+
+Rùi ro tín dụng
+
+Rùi ro tín dụng là rùi ro mà một bên tham gia trong một công cụ tài chính hoặc hợp đồng không có khả năng thực hiện được nghĩa vụ của mình dẫn đến tổn thất về tài chính cho Công ty. Công ty có các rùi ro tín dụng từ hoạt động sản xuất kinh doanh (chủ yếu đối với các khoản phải thu khách hàng) và hoạt động tài chính (bao gồm tiền gửi ngân hàng, cho vay và các công cụ tài chính khác).
+
+<table><tr><td></td><td>Từ 1 nămtrở xuốngVND</td><td>Trên 1 nãmdến 5 nămVND</td><td>Trên 5 nămVND</td><td>CộngVND</td></tr><tr><td colspan="5">Tại ngày 31/12/2019</td></tr><tr><td>Tiền và các khoản tương đương tiền</td><td>478.438.210.075</td><td>-</td><td>-</td><td>478.438.210.075</td></tr><tr><td>Phải thu khách hàng, phải thu khác</td><td>1.049.694.282.409</td><td>-</td><td>-</td><td>1.049.694.282.409</td></tr><tr><td>Các khoản cho vay</td><td>187.000.000.000</td><td>-</td><td>-</td><td>187.000.000.000</td></tr><tr><td></td><td>1.715.132.492.484</td><td>-</td><td>-</td><td>1.715.132.492.484</td></tr><tr><td colspan="5">Tại ngày 01/01/2019</td></tr><tr><td>Tiền và các khoản tương đương tiền</td><td>572.299.230.530</td><td>-</td><td>-</td><td>572.299.230.530</td></tr><tr><td>Phải thu khách hàng, phải thu khác</td><td>819.083.260.387</td><td>-</td><td>-</td><td>819.083.260.387</td></tr><tr><td>Các khoản cho vay</td><td>90.000.000.000</td><td>-</td><td>-</td><td>90.000.000.000</td></tr><tr><td></td><td>1.481.382.490.917</td><td>-</td><td>-</td><td>1.481.382.490.917</td></tr></table>
+
+41
+
+===== PAGE 43 =====
+Công ty Cổ phần Xây lắp điện I
+
+Số 18 Lý Văn Phúc, phường Cát Linh, quận Đống Đa, Hà Nội
+
+Báo cáo tài chính riêng
+
+Cho năm tài chính kết thúc ngày 31/12/2019
+
+Rủi ro thanh khoản
+
+Rủi ro thanh khoản là rủi ro Công ty gặp khó khăn khi thực hiện các nghĩa vụ tài chính do thiếu vốn. Rủi ro thanh khoản của Công ty chủ yếu phát sinh từ việc các tài sản tài chính và nợ phải trả tài chính có các thời điểm đáo hạn khác nhau.
+
+Thời hạn thanh toán của các khoản nợ phải trả tài chính dựa trên các khoản thanh toán dự kiến theo hợp đồng (trên cơ sở dòng tiền của các khoản gốc) như sau:
+
+<table><tr><td></td><td>Từ 1 nămtrở xuốngVND</td><td>Trên 1 nàmdến 5 nămVND</td><td>Trên 5 nămVND</td><td>CộngVND</td></tr><tr><td colspan="5">Tại ngày 31/12/2019</td></tr><tr><td>Vay và nợ</td><td>902.322.559.762</td><td>273.000.000.000</td><td>811.457.407.553</td><td>1.986.779.967.315</td></tr><tr><td>Phải trả người bán, phải trảkhác</td><td>627.599.343.808</td><td>1.453.347.330</td><td>-</td><td>629.052.691.138</td></tr><tr><td>Chi phí phải trả</td><td>84.437.085.641</td><td>-</td><td>-</td><td>84.437.085.641</td></tr><tr><td></td><td>1.614.358.989.211</td><td>274.453.347.330</td><td>811.457.407.553</td><td>2.700.269.744.094</td></tr><tr><td colspan="5">Tại ngày 01/01/2019</td></tr><tr><td>Vay và nợ</td><td>428.317.685.485</td><td>262.200.000.000</td><td>664.807.565.983</td><td>1.355.325.251.468</td></tr><tr><td>Phải trả người bán, phải trảkhác</td><td>487.966.786.436</td><td>944.637.972</td><td>-</td><td>488.911.424.408</td></tr><tr><td>Chi phí phải trả</td><td>95.285.064.285</td><td>-</td><td>-</td><td>95.285.064.285</td></tr><tr><td></td><td>1.011.569.536.206</td><td>263.144.637.972</td><td>664.807.565.983</td><td>1.939.521.740.161</td></tr></table>
+
+Công ty cho rằng mức độ tập trung rủi ro đối với việc trả nợ là có thể kiểm soát được. Công ty có khả năng thanh toán các khoản nợ đến hạn từ dòng tiền từ hoạt động kinh doanh và tiền thu từ các tài sản tài chính đáo hạn.
+
+36. NHỮNG SỰ KIỆN PHÁT SINH SAU NGÀY KẾT THỨC NĂM TÀI CHÍNH
+
+Tại Nghị quyết số 02/NQ-PCC1-HĐQT và 03/NQ-PCC1-HĐQT ngày 12/02/2020, Công ty đã thông qua chủ trương mua cổ phần tại Công ty Cổ phần Điện gió Phong Huy và Công ty Cổ phần Điện gió Phong Nguyên. Tỷ lệ sở hữu dự kiến tại hai Công ty này là 96% tương ứng với 4.800.000 cổ phần.
+
+Ngoài ra, không còn sự kiện trọng yếu nào xảy ra sau ngày kết thúc năm tài chính đồi hỏi phải được điều chỉnh hay công bố trên Báo cáo tài chính riêng này.
+
+42
+
+===== PAGE 44 =====
+Công ty Cổ phần Xây lắp điện I.
+
+Số 18 Lý Văn Phúc, phường Cát Linh, quận Đống Đa, Hà Nội
+
+Báo cáo tài chính riêng
+
+Cho năm tài chính kết thúc ngày 31/12/2019
+
+37. BẢO CÁO BỘ PHẠN
+
+Theo lĩnh vực kinh doanh
+
+<table><tr><td rowspan="2"></td><td>Xây lắp</td><td>Sản xuất Công nghiệp</td><td>Chuyển nhượng Bắt động sản</td><td>Mua bán điện</td><td>Bán hàng hóa</td><td>Các hoạt động khác</td><td>Tổng cộng toàn doanh nghiệp</td></tr><tr><td>VND</td><td>VND</td><td>VND</td><td>VND</td><td>VND</td><td>VND</td><td>VND</td></tr><tr><td>Doanh thu thuần từ bán hàng ra bên ngoài</td><td>2.533.746.798.527</td><td>445.517.465.733</td><td>42.599.879.765</td><td>422.770.778.518</td><td>1.338.433.121.414</td><td>32.353.251.474</td><td>4.815.421.295.431</td></tr><tr><td>Giá vốn hàng bán</td><td>2.385.653.914.118</td><td>429.606.852.014</td><td>27.171.646.072</td><td>149.282.562.221</td><td>1.308.789.966.267</td><td>23.258.423.906</td><td>4.323.763.364.598</td></tr><tr><td>Lợi nhuận từ hoạt động kinh doanh</td><td>148.092.884.409</td><td>15.910.613.719</td><td>15.428.233.693</td><td>273.488.216.297</td><td>29.643.155.147</td><td>9.094.827.568</td><td>491.657.930.833</td></tr><tr><td>Tổng chi phí mua TSCĐ</td><td>6.729.163.010</td><td>-</td><td>-</td><td>382.119.079.577</td><td>-</td><td>5.205.921.561</td><td>394.054.164.148</td></tr><tr><td>Tài sản bộ phận</td><td>1.037.143.809.476</td><td>451.114.976.407</td><td>180.584.975.138</td><td>2.150.899.110.086</td><td>52.643.316.363</td><td>4.750.197.560</td><td>3.877.136.385.030</td></tr><tr><td>Tài sản không phân bổ</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>2.276.505.542.705</td></tr><tr><td>Tổng tài sản</td><td>1.037.143.809.476</td><td>451.114.976.407</td><td>180.584.975.138</td><td>2.150.899.110.086</td><td>52.643.316.363</td><td>4.750.197.560</td><td>6.153.641.927.735</td></tr><tr><td>Nợ phải trả bộ phận</td><td>554.836.276.606</td><td>40.422.438.910</td><td>25.928.825.534</td><td>1.245.365.527.778</td><td>18.701.223.200</td><td>-</td><td>1.885.254.292.028</td></tr><tr><td>Nợ phải trả không phân bổ</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>1.002.015.160.772</td></tr><tr><td>Tổng nợ phải trả</td><td>554.836.276.606</td><td>40.422.438.910</td><td>25.928.825.534</td><td>1.245.365.527.778</td><td>18.701.223.200</td><td>-</td><td>2.887.269.452.800</td></tr></table>
+
+Theo khu vực địa lý
+
+Công ty không lập Báo cáo bộ phận theo khu vực địa lý do địa bàn hoạt động của Công ty chủ yếu ở Việt Nam.
+
+43
+
+(2)  \( \sim \)  170 H
+
+===== PAGE 45 =====
+Công ty Cổ phần Xây lắp điện I
+
+Số 18 Lý Văn Phúc, phường Cát Linh, quận Đống Đa, Hà Nội
+
+Báo cáo tài chính riêng
+
+Cho năm tài chính kết thúc ngày 31/12/2019
+
+38. SÓ LIÊU SO SÁNH
+
+Số liệu so sánh là số liệu trên Báo cáo tài chính riêng cho năm tài chính kết thúc ngày 31 tháng 12 năm 2018 đã được Công ty TNHH Hăng Kiểm toán AASC kiểm toán.
+
+Phạm Thị Thanh Bình
+
+Người lập biểu
+
+Hà Nội, ngày 23 tháng 03 năm 2020
+
+Trần Thị Minh Việt
+
+Kế toán trưởng
+
+44

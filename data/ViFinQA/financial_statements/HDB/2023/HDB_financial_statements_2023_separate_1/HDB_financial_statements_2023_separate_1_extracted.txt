@@ -1,0 +1,1810 @@
+===== PAGE 1 =====
+HDBank
+
+Cam kết lợi ích cao nhất
+
+NGÂN HÀNG THƯƠNG MẠI CỔ PHẦN PHÁT TRIỂN
+THÀNH PHỐ HỒ CHÍ MINH
+
+BÁO CÁO TÀI CHÍNH RIÊNG QUÝ 4 NĂM 2023
+
+Cho giai đoạn từ ngày 01 tháng 01 năm 2023 đến ngày 31 tháng 12 năm 2023
+
+===== PAGE 2 =====
+Ngân hàng TMCP Phát triển Thành phố Hồ Chí Minh
+
+MỤC LỤC
+
+<table><tr><td></td><td>Trang</td></tr><tr><td>Báo cáo tình hình tài chính riêng</td><td>1-4</td></tr><tr><td>Báo cáo kết quả hoạt động riêng</td><td>5-6</td></tr><tr><td>Báo cáo lưu chuyển tiền tệ riêng</td><td>7-8</td></tr><tr><td>Thuyết minh báo cáo tài chính riêng</td><td>9-51</td></tr></table>
+
+===== PAGE 3 =====
+Ngân hàng TMCP Phát triển Thành phố Hồ Chí Minh
+
+BÁO CÁO TÌNH HÌNH TÀI CHÍNH RIÊNG
+
+Tại ngày 31 tháng 12 năm 2023
+
+Mẫu số B02a/TCTD
+
+(Ban hành theo Thông tư số
+
+27/2021/TT- NHNN ngày 31/12/2021)
+
+<table><tr><td></td><td>Thuyết minh</td><td>Ngày 31 tháng12 năm 2023Triệu đồng</td><td>Ngày 31 tháng12 năm 2022Triệu đồng</td></tr><tr><td colspan="4">TÀI SẢN</td></tr><tr><td>Tiền mặt và vàng bạc</td><td></td><td>2.810.010</td><td>2.937.733</td></tr><tr><td>Tiền gửi tại Ngân hàng Nhà nước Việt Nam</td><td></td><td>41.314.547</td><td>11.162.767</td></tr><tr><td>Tiền gửi tại và cho vay các tổ chức tín dụng(“TCTD”) khác</td><td></td><td>99.806.936</td><td>53.525.710</td></tr><tr><td>Tiền gửi tại các TCTD khác</td><td></td><td>88.062.158</td><td>40.515.880</td></tr><tr><td>Cho vay các TCTD khác</td><td></td><td>11.744.778</td><td>13.009.830</td></tr><tr><td>Dự phòng rủi ro cho vay các TCTD khác (*)</td><td></td><td>-</td><td>-</td></tr><tr><td>Chứng khoán kinh doanh</td><td>V.01</td><td>18.580.932</td><td>1.797.822</td></tr><tr><td>Chứng khoán kinh doanh</td><td></td><td>18.580.932</td><td>1.797.822</td></tr><tr><td>Dự phòng rủi ro chứng khoán kinh doanh (*)</td><td></td><td>-</td><td>-</td></tr><tr><td>Các công cụ tài chính phải sinh vàcác tài sản tài chính khác</td><td>V.02</td><td>53.259</td><td>-</td></tr><tr><td>Cho vay khách hàng</td><td></td><td>323.784.316</td><td>244.491.364</td></tr><tr><td>Cho vay khách hàng</td><td>V.03</td><td>327.317.823</td><td>247.017.555</td></tr><tr><td>Dự phòng rủi ro cho vay khách hàng (*)</td><td>V.04</td><td>(3.533.507)</td><td>(2.526.191)</td></tr><tr><td>Hoạt động mua nợ</td><td></td><td>-</td><td>-</td></tr><tr><td>Mua nợ</td><td></td><td>-</td><td>-</td></tr><tr><td>Dự phòng rủi ro hoạt động mua nợ (*)</td><td></td><td>-</td><td>-</td></tr><tr><td>Chứng khoán đầu tư</td><td>V.05</td><td>44.092.289</td><td>48.789.184</td></tr><tr><td>Chứng khoán đầu tư sẵn sàng để bán</td><td></td><td>31.871.688</td><td>35.375.058</td></tr><tr><td>Chứng khoán đầu tư giữ đến ngày đáo hạn</td><td></td><td>12.304.873</td><td>13.444.130</td></tr><tr><td>Dự phòng rủi ro chứng khoán đầu tư (*)</td><td></td><td>(84.272)</td><td>(30.004)</td></tr><tr><td>Góp vốn, đầu tư dài hạn</td><td>V.06</td><td>1.358.469</td><td>1.358.711</td></tr><tr><td>Đầu tư vào công ty con</td><td></td><td>1.214.688</td><td>1.214.688</td></tr><tr><td>Góp vốn liên doanh</td><td></td><td>-</td><td>-</td></tr><tr><td>Đầu tư vào công ty liên kết</td><td></td><td>-</td><td>-</td></tr><tr><td>Đầu tư dài hạn khác</td><td></td><td>163.921</td><td>163.921</td></tr><tr><td>Dự phòng giảm giá đầu tư dài hạn (*)</td><td></td><td>(20.140)</td><td>(19.898)</td></tr><tr><td>Tài sản cố định</td><td></td><td>1.389.568</td><td>1.275.091</td></tr><tr><td>Tài sản cố định hữu hình</td><td></td><td>686.422</td><td>599.038</td></tr><tr><td>Nguyên giá tài sản cố định</td><td></td><td>1.602.151</td><td>1.418.296</td></tr><tr><td>Hao mòn tài sản cố định (*)</td><td></td><td>(915.729)</td><td>(819.258)</td></tr><tr><td>Tài sản cố định thuê tài chính</td><td></td><td>-</td><td>-</td></tr><tr><td>Nguyên giá tài sản cố định</td><td></td><td>-</td><td>-</td></tr><tr><td>Hao mòn tài sản cố định (*)</td><td></td><td>-</td><td>-</td></tr></table>
+
+1
+
+===== PAGE 4 =====
+Ngân hàng TMCP Phát triển Thành phố Hồ Chí Minh
+
+BÁO CÁO TÌNH HÌNH TÀI CHÍNH RIÊNG
+
+Tại ngày 31 tháng 12 năm 2023
+
+Mẫu số B02a/TCTD
+
+(Ban hành theo Thông tư số
+
+27/2021/TT-NHNN ngày 31/12/2021)
+
+<table><tr><td></td><td>Thuyết minh</td><td>Ngày 31 tháng12 năm 2023Triệu đồng</td><td>Ngày 31 tháng12 năm 2022Triệu đồng</td></tr><tr><td>Tài sản cố định vô hình</td><td></td><td>703.146</td><td>676.053</td></tr><tr><td>Nguyên giá tài sản cố định</td><td></td><td>1.025.381</td><td>956.355</td></tr><tr><td>Hao mòn tài sản cố định (*)</td><td></td><td>(322.235)</td><td>(280.302)</td></tr><tr><td>Bất động sản đầu tư</td><td></td><td>-</td><td>-</td></tr><tr><td>Nguyên giá bất động sản đầu tư</td><td></td><td>-</td><td>-</td></tr><tr><td>Hao mòn bất động sản đầu tư (*)</td><td></td><td>-</td><td>-</td></tr><tr><td>Tài sản Có khác</td><td></td><td>56.795.193</td><td>38.937.766</td></tr><tr><td>Các khoản phải thu</td><td></td><td>49.319.449</td><td>33.239.127</td></tr><tr><td>Các khoản lãi, phí phải thu</td><td></td><td>5.765.264</td><td>4.092.625</td></tr><tr><td>Tài sản thuế TNDN hoãn lại</td><td>V.12.2</td><td>76.708</td><td>32.798</td></tr><tr><td>Tài sản Có khác</td><td></td><td>1.680.293</td><td>1.619.524</td></tr><tr><td>Trong đó: Lợi thế thương mại</td><td></td><td>-</td><td>-</td></tr><tr><td>Dự phòng rủi ro cho các tài sản Có nội bảng khác (*)</td><td></td><td>(46.521)</td><td>(46.308)</td></tr><tr><td>TỔNG TÀI SẢN</td><td></td><td>589.985.519</td><td>404.276.148</td></tr></table>
+
+2
+
+===== PAGE 5 =====
+Ngân hàng TMCP Phát triển Thành phố Hồ Chí Minh
+
+BÁO CÁO TÌNH HÌNH TÀI CHÍNH RIÊNG
+
+Tại ngày 31 tháng 12 năm 2023
+
+Mẫu số B02a/TCTD
+
+(Ban hành theo Thông tư số
+
+27/2021/TT-NHNN ngày 31/12/2021)
+
+<table><tr><td></td><td>Thuyết minh</td><td>Ngày 31 tháng12 năm 2023Triệu đồng</td><td>Ngày 31 tháng12 năm 2022Triệu đồng</td></tr><tr><td colspan="4">NỘ PHẢI TRẢ</td></tr><tr><td>Các khoản nợ Chính phủ và Ngân hàng Nhà nước Việt Nam</td><td>V.07</td><td>26.590</td><td>10.821.258</td></tr><tr><td>Tiền gửi và vay Chính phủ, NHNNGiao dịch bán và mua lại trái phiếu Chính phủ với Kho bạc Nhà nước</td><td></td><td>26.590</td><td>10.821.258</td></tr><tr><td>Tiền gửi và vay các TCTD khác</td><td>V.08</td><td>109.463.555</td><td>88.489.611</td></tr><tr><td>Tiền gửi các TCTD khác</td><td></td><td>63.198.743</td><td>49.507.135</td></tr><tr><td>Vay các TCTD khác</td><td></td><td>46.264.812</td><td>38.982.476</td></tr><tr><td>Tiền gửi của khách hàng</td><td>V.09</td><td>370.777.888</td><td>215.797.174</td></tr><tr><td>Các công cụ tài chính phải sinh và các khoản nợ tài chính khác</td><td>V.02</td><td>-</td><td>164.660</td></tr><tr><td>Vốn tài trợ, uỷ thác đầu tư, cho vay TCTD chịu rủi ro</td><td></td><td>2.811.129</td><td>2.860.155</td></tr><tr><td>Phát hành giấy tờ có giá</td><td>V.10, 13.2</td><td>45.187.148</td><td>40.673.640</td></tr><tr><td>Các khoản nợ khác</td><td>V.11</td><td>17.967.125</td><td>9.347.574</td></tr><tr><td>Các khoản lãi, phí phải trả</td><td></td><td>10.117.289</td><td>4.910.131</td></tr><tr><td>Thuế TNDN hoãn lại phải trả</td><td>V.12.2</td><td>-</td><td>-</td></tr><tr><td>Các khoản phải trả và công nợ khác</td><td></td><td>7.849.836</td><td>4.437.443</td></tr><tr><td>Dự phòng rủi ro khác (cho công nợ tiềm ấn và CKNB)</td><td></td><td>-</td><td>-</td></tr><tr><td>TỔNG NỘ PHẢI TRẢ</td><td></td><td>546.233.435</td><td>368.154.072</td></tr><tr><td colspan="4">VỐN CHỦ SỞ HỮU</td></tr><tr><td>Vốn của TCTD</td><td></td><td>29.198.918</td><td>25.426.026</td></tr><tr><td>Vốn điều lệ</td><td></td><td>29.076.321</td><td>25.303.429</td></tr><tr><td>Vốn đầu tư xây dựng cơ bản và mua sắm tài sản cố định</td><td></td><td>89</td><td>89</td></tr><tr><td>Thặng dư vốn cổ phần</td><td></td><td>535.956</td><td>535.956</td></tr><tr><td>Cổ phiếu quỹ (*)</td><td></td><td>(413.448)</td><td>(413.448)</td></tr><tr><td>Cổ phiếu ưu đãi</td><td></td><td>-</td><td>-</td></tr><tr><td>Vốn khác</td><td></td><td>-</td><td>-</td></tr><tr><td>Qũy của TCTD</td><td></td><td>4.293.604</td><td>3.151.530</td></tr><tr><td>Chênh lệch tỷ giá hối đoái</td><td></td><td></td><td>-</td></tr><tr><td>Chênh lệch đánh giá lại tài sản</td><td></td><td>-</td><td>-</td></tr><tr><td>Lợi nhuận chưa phân phối</td><td></td><td>10.259.562</td><td>7.544.520</td></tr><tr><td>Lợi ích cổ đông không kiểm soát</td><td></td><td></td><td></td></tr><tr><td>TỔNG VỐN CHỦ SỞ HỮU</td><td>V.13.1</td><td>43.752.084</td><td>36.122.076</td></tr><tr><td>TỔNG NỘ PHẢI TRẢ, VỐN CHỦ SỞ HỮU VÀ LỢI ÍCH CỦA CỔ ĐÔNG KHÔNG KIỂM SOÁT</td><td></td><td>589.985.519</td><td>404.276.148</td></tr></table>
+
+3
+
+===== PAGE 6 =====
+Ngân hàng TMCP Phát triển Thành phố Hồ Chí Minh
+
+BÁO CÁO TÌNH HÌNH TÀI CHÍNH RIÊNG
+
+Tại ngày 31 tháng 12 năm 2023
+
+Mẫu số B02a/TCTD
+
+(Ban hành theo Thông tư số
+
+27/2021/TT-NHNN ngày 31/12/2021)
+
+CÁC CHỈ TIÊU NGOÀI BÁO CÁO TÌNH HÌNH TÀI CHÍNH RIÊNG
+
+<table><tr><td></td><td>Thuyết minh</td><td>Ngày 31 tháng12 năm 2023Triệu đồng</td><td>Ngày 31 tháng 12năm 2022Triệu đồng</td></tr><tr><td>Bảo lãnh vay vốn</td><td></td><td>809.436</td><td>406.790</td></tr><tr><td>Cam kết giao dịch hối đoái</td><td></td><td>257.703.043</td><td>68.207.996</td></tr><tr><td>- Cam kết mua ngoại tệ</td><td></td><td>4.293.490</td><td>2.512.790</td></tr><tr><td>- Cam kết bán ngoại tệ</td><td></td><td>4.542.374</td><td>2.912.961</td></tr><tr><td>- Cam kết giao dịch hoán đồi</td><td></td><td>248.867.179</td><td>62.782.245</td></tr><tr><td>- Cam kết giao dịch tương lai</td><td></td><td>-</td><td>-</td></tr><tr><td>Cam kết cho vay không hủy ngang</td><td></td><td>-</td><td>-</td></tr><tr><td>Cam kết trong nghiệp vụ thư tín dụng</td><td></td><td>2.191.087</td><td>4.155.744</td></tr><tr><td>Bảo lãnh khác</td><td></td><td>15.548.620</td><td>4.215.505</td></tr><tr><td>Các cam kết khác</td><td></td><td>4.689.865</td><td>3.252.305</td></tr><tr><td>Lãi cho vay và phí phải thu chưa thu được</td><td></td><td>709.297</td><td>310.109</td></tr><tr><td>Nợ khó đòi đã xử lý</td><td></td><td>3.918.304</td><td>3.129.816</td></tr><tr><td>Tài sản và chứng từ khác</td><td></td><td>27.061.445</td><td>14.277.966</td></tr><tr><td>Tổng cộng</td><td></td><td>312.631.097</td><td>97.956.231</td></tr></table>
+
+Người lập:
+
+Bà Huỳnh Thị Nga
+Chuyên viên
+
+Người kiểm soát:
+
+Bà Hồ Đăng Hoàng Quyên
+Kế toán trường
+
+Người phê duyệt:
+
+Ông Phạm Văn Đầu
+Giám đốc Tài chính
+
+Thành phố Hồ Chí Minh, Việt Nam
+
+Ngày 30 tháng 01 năm 2024
+
+4
+
+===== PAGE 7 =====
+Ngân hàng TMCP Phát triển Thành phố Hồ Chí Minh
+
+BÁO CÁO KẾT QUẢ HOẠT ĐỘNG RIÊNG
+
+Cho giai đoạn từ ngày 01.01.2023 đến ngày 31.12.2023
+
+Mẫu số B03a/TCTD
+
+(Ban hành theo Thông tư số
+
+27/2021/TT- NHNN ngày 31/12/2021)
+
+<table><tr><td rowspan="2"></td><td rowspan="2">Thuyết minh</td><td colspan="2">Quý 4</td><td colspan="2">Lũy kế từ đầu năm đến cuối quý này</td></tr><tr><td>Kỳ nàyTriệu đồng</td><td>Kỳ trướcTriệu đồng</td><td>Kỳ nàyTriệu đồng</td><td>Kỳ trướcTriệu đồng</td></tr><tr><td>Thu nhập lãi và các khoản thu nhập tương tự</td><td>VI.14</td><td>14.108.261</td><td>8.498.364</td><td>47.040.720</td><td>28.273.920</td></tr><tr><td>Chi phí lãi và các khoản chi phí tương tự</td><td>VI.15</td><td>(7.870.774)</td><td>(4 734 152)</td><td>(29 735.917)</td><td>(14 892 577)</td></tr><tr><td>Thu nhập lãi thuần</td><td></td><td>6.237.487</td><td>3.764.212</td><td>17.304.803</td><td>13.381.343</td></tr><tr><td>Thu nhập từ hoạt động dịch vụ</td><td></td><td>614.048</td><td>726.987</td><td>1.987.599</td><td>2.546.236</td></tr><tr><td>Chi phí từ hoạt động dịch vụ</td><td></td><td>(232.927)</td><td>(115.557)</td><td>(640.032)</td><td>(350.572)</td></tr><tr><td>Lãi thuần từ hoạt động dịch vụ</td><td></td><td>381.121</td><td>611.430</td><td>1.347.567</td><td>2.195.664</td></tr><tr><td>(Lỗ)/Lãi thuần từ hoạt động kinh doanh ngoại hối</td><td></td><td>300.449</td><td>(22.302)</td><td>704.217</td><td>204.790</td></tr><tr><td>Lãi thuần từ mua bán chứng khoán kinh doanh</td><td>VI.16</td><td>(92.086)</td><td>351</td><td>41.723</td><td>16.986</td></tr><tr><td>Lãi thuần từ mua bán chứng khoán đầu tư</td><td>VI.17</td><td>111.106</td><td>(3.876)</td><td>1.167.005</td><td>312.620</td></tr><tr><td>Thu nhập từ hoạt động khác</td><td></td><td>82.704</td><td>59.590</td><td>186.533</td><td>232.822</td></tr><tr><td>Chi phí hoạt động khác</td><td></td><td>(257.693)</td><td>24.105</td><td>(275.810)</td><td>(52.098)</td></tr><tr><td>Lãi thuần từ hoạt động khác</td><td></td><td>(174.989)</td><td>83.695</td><td>(89.277)</td><td>180.724</td></tr><tr><td>Thu nhập từ góp vốn, mua cổ phần</td><td>VI.18</td><td>-</td><td>-</td><td>384.325</td><td>356.785</td></tr><tr><td>Chi phí hoạt động</td><td>VI.19</td><td>(2.059.219)</td><td>(2.118.306)</td><td>(6.833.973)</td><td>(6.475.924)</td></tr><tr><td>Lợi nhuận thuần từ hoạt động kinh doanh trước chi phí dự phòng rủi ro tín dụng</td><td></td><td>4.703.869</td><td>2.315.204</td><td>14.026.390</td><td>10.172.988</td></tr><tr><td>Chi phí dự phòng rủi ro tín dụng</td><td></td><td>(577.373)</td><td>(219.539)</td><td>(1.289.961)</td><td>(697.901)</td></tr><tr><td>Tổng lợi nhuận trước thuế</td><td></td><td>4.126.496</td><td>2.095.665</td><td>12.736.429</td><td>9.475.087</td></tr><tr><td>Chi phí thuế thu nhập doanh nghiệp hiện hành</td><td></td><td>(929.751)</td><td>(454.509)</td><td>(2.594.755)</td><td>(1.859.230)</td></tr><tr><td>(Chi phí)/Thu nhập thuế thu nhập doanh nghiệp hoãn lại</td><td></td><td>43.910</td><td>33.400</td><td>43.910</td><td>33.400</td></tr><tr><td>Tổng chi phí thuế thu nhập doanh nghiệp</td><td></td><td>(885.841)</td><td>(421.109)</td><td>(2.550.845)</td><td>(1.825.830)</td></tr><tr><td>Lợi nhuận sau thuế</td><td></td><td>3.240.655</td><td>1.674.556</td><td>10.185.584</td><td>7.649.257</td></tr></table>
+
+5
+
+===== PAGE 8 =====
+Ngân hàng TMCP Phát triển Thành phố Hồ Chí Minh
+
+BÁO CÁO KẾT QUẢ HOẠT ĐÔNG RIÊNG
+
+Cho giai đoạn từ ngày 01.01.2023 đến ngày 31.12.2023
+
+Người lập:
+
+Bà Huỳnh Thị Nga
+
+Chuyên viên
+
+Người kiểm soát:
+
+Bà Hồ Đăng Hoàng Quyên
+
+Kế toán trường
+
+Mẫu số B03a/TCTD
+
+(Ban hành theo Thông tư số
+
+27/2021/TT-NHNN ngày 31/12/2021)
+
+Người phê duyệt:
+
+Ông Phạm Văn Đầu
+
+Giám đốc Tài chính
+
+Thành phố Hồ Chí Minh, Việt Nam
+
+Ngày 30 tháng 01 năm 2024
+
+6
+
+===== PAGE 9 =====
+Ngân hàng TMCP Phát triển Thành phố Hồ Chí Minh
+
+BÁO CÁO LƯU CHUYÊN TIÊN TÊ RIÊNG
+
+Cho giai đoạn từ ngày 01.01.2023 đến ngày 31.12.2023
+
+Mẫu số B04a/TCTD
+
+(Ban hành theo Thông tư số
+
+27/2021/TT-NHNN ngày 31/12/2021)
+
+<table><tr><td></td><td>Thuyết minh</td><td>Kỳ nàyTriệu đồng</td><td>Kỳ trướcTriệu đồng</td></tr><tr><td colspan="4">Lưu chuyển tiền từ hoạt động kinh doanh</td></tr><tr><td>Thu nhập lãi và các khoản thu nhập tương tự nhận được</td><td></td><td>45.352.298</td><td>27.583.341</td></tr><tr><td>Chi phí lãi và các chi phí tương tự đã trả</td><td></td><td>(24.966.023)</td><td>(13.954.490)</td></tr><tr><td>Thu nhập từ hoạt động dịch vụ nhận được</td><td></td><td>1.783.395</td><td>2.028.384</td></tr><tr><td>Chênh lệch số tiền thực thu từ hoạt động kinh doanh chứng khoán, vàng bạc, ngoại tệ</td><td></td><td>1.660.662</td><td>422.191</td></tr><tr><td>Thu nhập khác</td><td></td><td>(66.145)</td><td>42.709</td></tr><tr><td>Tiền thu các khoản nợ đã được xử lý xoá, bù đáp bằng nguồn dự phòng rủi ro</td><td></td><td>97.252</td><td>136.007</td></tr><tr><td>Tiền chi trả cho nhân viên và hoạt động quản lý, công vụ</td><td></td><td>(6.763.450)</td><td>(6.304.230)</td></tr><tr><td>Tiền thuế thu nhập thực nộp trong kỳ</td><td>V.12.1</td><td>(2.131.855)</td><td>(911.190)</td></tr><tr><td>Lưu chuyển tiền thuần từ hoạt động kinh doanh trước những thay đổi về tài sản và vốn lưu động</td><td></td><td>14.966.134</td><td>9.042.722</td></tr><tr><td colspan="4">Những thay đổi về tài sản hoạt động</td></tr><tr><td>(Tăng)/Giảm các khoản tiền gửi và cho vay các TCTD khác</td><td></td><td>1.265.052</td><td>(10.409.484)</td></tr><tr><td>(Tăng)/Giảm các khoản về kinh doanh chứng khoán</td><td></td><td>(12.165.396)</td><td>26.511.110</td></tr><tr><td>(Tăng)/Giảm các công cụ tài chính phải sinh và các tài sản tài chính khác</td><td></td><td>(53.259)</td><td>6.469</td></tr><tr><td>(Tăng)/Giảm các khoản cho vay khách hàng</td><td></td><td>(80.300.268)</td><td>(57.182.899)</td></tr><tr><td>Giảm nguồn dự phòng để xử lý rủi ro, xử lý, bù đáp tổn thất các khoản</td><td></td><td>(282.645)</td><td>(122.159)</td></tr><tr><td>(Tăng)/Giảm khác về tài sản hoạt động</td><td></td><td>(15.204.081)</td><td>(12.981.010)</td></tr><tr><td colspan="4">Những thay đổi về nợ phải trả hoạt động</td></tr><tr><td>Tăng/(Giảm) các khoản nợ Chính phủ và NHNN</td><td></td><td>(10.794.668)</td><td>10.728.602</td></tr><tr><td>Tăng/(Giảm) các khoản tiền gửi, tiền vay các TCTD</td><td></td><td>20.973.944</td><td>(16.393.825)</td></tr><tr><td>Tăng/(Giảm) tiền gửi của khách hàng</td><td></td><td>154.980.715</td><td>32.505.899</td></tr><tr><td>Tăng/(Giảm) phát hành giấy tờ có giá</td><td></td><td>4.513.508</td><td>1.710.527</td></tr><tr><td>Tăng/(Giảm) vốn tài trợ, uỷ thác đầu tư, cho vay mà TCTD chịu rủi ro</td><td></td><td>(49.026)</td><td>(76.709)</td></tr><tr><td>Tăng/(Giảm) các công cụ tài chính phải sinh và các khoản nợ tài chính khác</td><td></td><td>(164.660)</td><td>164.660</td></tr><tr><td>Tăng/(Giảm) khác về nợ phải trả hoạt động</td><td></td><td>2.317.342</td><td>791.666</td></tr><tr><td>Chi từ các quỹ của tổ chức tín dụng</td><td></td><td>(30.315)</td><td>(10.261)</td></tr><tr><td>Lưu chuyển tiền thuần từ hoạt động kinh doanh</td><td></td><td>79.972.377</td><td>(15.714.692)</td></tr></table>
+
+1
+
+===== PAGE 10 =====
+Ngân hàng TMCP Phát triển Thành phố Hồ Chí Minh
+
+BÁO CÁO LƯU CHUYỀN TIỀN TỆ RIÊNG
+
+Cho giai đoạn từ ngày 01.01.2023 đến ngày 31.12.2023
+
+Mẫu số B04a/TCTD
+
+(Ban hành theo Thông tư số
+
+27/2021/TT-NHNN ngày 31/12/2021)
+
+<table><tr><td></td><td>Thuyết minh</td><td>Kỳ nàyTriệu đồng</td><td>Kỳ trướcTriệu đồng</td></tr><tr><td colspan="4">Lưu chuyển tiền từ hoạt động đầu tư</td></tr><tr><td>Mua sắm tài sản cố định</td><td></td><td>(271.106)</td><td>(117.610)</td></tr><tr><td>Tiền thu từ thanh lý, nhượng bán tài sản cố định</td><td></td><td>-</td><td>21.120</td></tr><tr><td>Tiền chi từ thanh lý, nhượng bán tài sản cố định</td><td></td><td>-</td><td>-</td></tr><tr><td>Mua sắm bất động sản đầu tư</td><td></td><td>-</td><td>-</td></tr><tr><td>Tiền thu từ bán, thanh lý bất động sản đầu tư</td><td></td><td>-</td><td>-</td></tr><tr><td>Tiền chi ra do bán, thanh lý bất động sản đầu tư</td><td></td><td>-</td><td>-</td></tr><tr><td>Tiền chi đầu tư, góp vốn vào các tổ chức khác</td><td></td><td>-</td><td>(175.000)</td></tr><tr><td>Tiền thu đầu tư, góp vốn vào các đơn vị khác</td><td></td><td>-</td><td>500</td></tr><tr><td>Tiền thu cổ tức và lợi nhuận được chia từ các khoản đầu tư, góp vốn dài hạn</td><td></td><td>384.325</td><td>372.069</td></tr><tr><td>Lưu chuyển tiền thuần từ hoạt động đầu tư</td><td></td><td>113.219</td><td>101.079</td></tr><tr><td colspan="4">Lưu chuyển tiền từ hoạt động tài chính</td></tr><tr><td>Tăng vốn cổ phần từ góp vốn vào/phát hành cổ phiếu</td><td></td><td>-</td><td>200.000</td></tr><tr><td>Tiền thu từ phát hành GTCG dài hạn đủ điều kiện tính vào vốn tự có và các khoản vay dài hạn khác</td><td></td><td>-</td><td>-</td></tr><tr><td>Tiền thu thanh toán phát hành GTCG dài hạn đủ điều kiện tính vào vốn tự có và các khoản vay dài hạn khác</td><td></td><td>-</td><td>-</td></tr><tr><td>Cổ tức trả cho cổ đông</td><td></td><td>(2.515.261)</td><td>-</td></tr><tr><td>Tiền chi ra mua cổ phiếu ngân quỹ</td><td></td><td>-</td><td>-</td></tr><tr><td>Tiền thu được do bán cổ phiếu ngân quỹ</td><td></td><td>-</td><td>-</td></tr><tr><td>Lưu chuyển tiền thuần từ hoạt động tài chính</td><td></td><td>(2.515.261)</td><td>200.000</td></tr><tr><td>Lưu chuyển tiền thuần trong kỳ</td><td></td><td>77.570.335</td><td>(15.413.613)</td></tr><tr><td>Tiền và các khoản tương đương tiền đầu kỳ</td><td></td><td>54.616.380</td><td>70.029.993</td></tr><tr><td>Điều chỉnh ảnh hưởng của thay đổi tỷ giá</td><td></td><td>-</td><td>-</td></tr><tr><td>Tiền và các khoản tương đương tiền cuối kỳ</td><td></td><td>132.186.715</td><td>54.616.380</td></tr></table>
+
+Người lập:
+
+Bà Huỳnh Thị Nga
+
+Chuyên viên
+
+Người kiểm soát:
+
+Bà Hồ Đăng Hoàng Quyên
+
+Kế toán trường
+
+Người phê duyệt:
+
+Ong Phạm Văn Đầu
+
+Giám đốc Tài chính
+
+Thành phố Hồ Chí Minh, Việt Nam
+
+Ngày 30 tháng 01 năm 2024
+
+8
+
+===== PAGE 11 =====
+Ngân hàng TMCP Phát triển Thành phố Hồ Chí Minh
+
+THUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG
+
+Cho giai đoạn từ ngày 01.01.2023 đến ngày 31.12.2023
+
+Mẫu số B05a/TCTD
+
+(Ban hành theo Thông tư số
+
+27/2021/TT-NHNN ngày 31/12/2021)
+
+I. ĐẶC ĐIỂM HOẠT ĐỘNG CỦA NGÂN HÀNG
+
+1. Giấy phép thành lập và hoạt động, thời hạn có giá trị
+
+Ngân hàng Thương mại Cổ phần Phát triển Thành phố Hồ Chí Minh (“Ngân hàng”) là ngân hàng thương mại cổ phần được thành lập tại nước Cộng hòa Xã hội Chủ nghĩa Việt Nam.
+
+Ngân hàng được thành lập và hoạt động theo Quyết định số 47/QĐ-UB của Ủy ban Nhân dân Thành phố Hồ Chí Minh cấp ngày 11 tháng 2 năm 1989, Giấy phép ban đầu số 00019/NH-GP do Ngân hàng Nhà nước Việt Nam (“NHNN”) cấp ngày 6 tháng 6 năm 1992 và được thay thế bởi Giấy phép số 26/GP-NHNN do Ngân hàng Nhà nước Việt Nam cấp ngày 12 tháng 02 năm 2020 và các Quyết định sửa đổi, bổ sung Giấy phép thành lập và hoạt động số 26/GP-NHNN ngày 12 tháng 02 năm 2020. Thời hạn hoạt động của Ngân hàng là 99 năm kể từ ngày của giấy phép đầu tiên.
+
+Ngân hàng được thành lập nhằm thực hiện các giao dịch ngân hàng bao gồm huy động và nhận tiền gửi ngắn hạn, trung hạn và dài hạn từ các tổ chức và cá nhân; cho vay ngắn hạn, trung hạn và dài hạn đối với các tổ chức và cá nhân trên cơ sở tính chất và khả năng nguồn vốn của Ngân hàng; thực hiện các giao dịch ngoại tệ; các dịch vụ tài trợ thương mại quốc tế; chiết khấu thương phiếu, trái phiếu và các giấy tờ có giá khác; cung cấp dịch vụ thanh toán và các dịch vụ ngân hàng khác được Ngân hàng Nhà nước Việt Nam cho phép.
+
+2. Hình thức sở hữu vốn
+
+Số vốn điều lệ của Ngân hàng vào ngày 31 tháng 12 năm 2023 là 29.076.321 triệu đồng (tại ngày 31 tháng 12 năm 2022: 25.303.429 triệu đồng).
+
+3. Thành phần Hội đồng Quản trị
+
+Các thành viên Hội đồng Quản trị của Ngân hàng trong kỳ và vào ngày lập báo cáo này như sau:
+
+<table><tr><td>Họ và tên</td><td>Chức vụ</td><td>Ngày bổ nhiệm/tái bổ nhiệm/từ nhiệm</td></tr><tr><td>Ông Kím ByoungHo</td><td>Chủ tịchThành viên độc lập</td><td>Bổ nhiệm ngày 29 tháng 04 năm 2022</td></tr><tr><td>Bà Nguyễn Thị Phương Thảo</td><td>Phó Chủ tịch thường trực</td><td>Tái bổ nhiệm ngày 29 tháng 04 năm 2022</td></tr><tr><td>Ông Lưu Đức Khánh</td><td>Phó Chủ tịch</td><td>Tái bổ nhiệm ngày 29 tháng 04 năm 2022</td></tr><tr><td>Ông Nguyễn Thành Đó</td><td>Phó Chủ tịch</td><td>Tái bổ nhiệm ngày 29 tháng 04 năm 2022</td></tr><tr><td>Ông Nguyễn Hữu Đăng</td><td>Phó Chủ tịch</td><td>Tái bổ nhiệm ngày 29 tháng 04 năm 2022</td></tr><tr><td>Bà Nguyễn Thị Tâm</td><td>Thành viên</td><td>Từ nhiệm ngày 26 tháng 04 năm 2023</td></tr><tr><td>Ông Lê Mạnh Dũng</td><td>Thành viên độc lập</td><td>Bổ nhiệm ngày 29 tháng 04 năm 2022</td></tr><tr><td>Ông Phạm Quốc Thanh</td><td>Thành viên</td><td>Bổ nhiệm ngày 26 tháng 04 năm 2023</td></tr></table>
+
+9
+
+===== PAGE 12 =====
+Ngân hàng TMCP Phát triển Thành phố Hồ Chí Minh
+
+THUYÊT MINH BÁO CÁO TÀI CHÍNH RIÊNG
+
+Cho giai đoạn từ ngày 01.01.2023 đến ngày 31.12.2023
+
+Mẫu số B05a/TCTD
+
+(Ban hành theo Thông tư số
+
+27/2021/TT-NHNN ngày 31/12/2021)
+
+4. Thành phần Ban Tổng Giám đốc, Giám đốc Tài chính và Kế toán trường
+
+Thành viên Ban Tổng Giám đốc, Giám đốc Tài chính và Kế toán Trường của Ngân hàng trong kỳ và vào ngày lập báo cáo này như sau:
+
+<table><tr><td>Họ và tên</td><td>Chức vụ</td><td>Ngày bổ nhiệm/tái bổ nhiệm</td></tr><tr><td>Ông Phạm Quốc Thanh</td><td>Tổng Giám đốc</td><td>Bổ nhiệm ngày 02 tháng 04 năm 2020</td></tr><tr><td>Ông Nguyễn Minh Đức</td><td>Phó Tổng Giám đốc</td><td>Tái bổ nhiệm ngày 01 tháng 08 năm 2022</td></tr><tr><td>Ông Lê Thanh Tùng</td><td>Phó Tổng Giám đốc</td><td>Bổ nhiệm ngày 16 tháng 09 năm 2009</td></tr><tr><td>Ông Nguyễn Văn Hảo</td><td>Phó Tổng Giám đốc</td><td>Tái bổ nhiệm ngày 02 tháng 10 năm 2023</td></tr><tr><td>Ông Nguyễn Đăng Thanh</td><td>Phó Tổng Giám đốc</td><td>Tái bổ nhiệm ngày 09 tháng 07 năm 2023</td></tr><tr><td>Ông Lê Thành Trung</td><td>Phó Tổng Giám đốc</td><td>Tái bổ nhiệm ngày 15 tháng 02 năm 2022</td></tr><tr><td>Ông Trần Hoài Nam</td><td>Phó Tổng Giám đốc</td><td>Tái bổ nhiệm ngày 27 tháng 02 năm 2022</td></tr><tr><td>Ông Trần Thái Hòa</td><td>Phó Tổng Giám đốc</td><td>Tái bổ nhiệm ngày 26 tháng 05 năm 2021</td></tr><tr><td>Ông Nguyễn Cảnh Vinh</td><td>Phó Tổng Giám đốc</td><td>Bổ nhiệm ngày 01 tháng 11 năm 2022</td></tr><tr><td>Ông Trần Xuân Huy</td><td>Phó Tổng Giám đốc</td><td>Bổ nhiệm ngày 16 tháng 10 năm 2023</td></tr><tr><td>Ông Phạm Văn Đầu</td><td>Giám đốc Tài chính</td><td>Bổ nhiệm ngày 16 tháng 09 năm 2009</td></tr><tr><td>Bà Hồ Đăng Hoàng Quyên</td><td>Kế toán Trường</td><td>Bổ nhiệm ngày 07 tháng 07 năm 2011</td></tr></table>
+
+5. Mạng lưới hoạt động
+
+Ngân hàng có trụ sở chính đặt tại tòa nhà HD Tower, số 25 Bis đường Nguyễn Thị Minh Khai, P. Bến Nghié, Quận 1, Thành phố Hồ Chí Minh. Vào ngày 31 tháng 12 năm 2023, Ngân hàng có một (1) Hội sở chính, một (1) văn phòng đại diện khu vực miền Bắc, một (1) văn phòng đại diện của HDBank tại Myanmar, bày mươi chính (79) chỉ nhánh, hai trăm bày mươi ba (273) phòng giao dịch tại các tỉnh và thành phố trên cả nước.
+
+6. Công ty con
+
+Tại ngày 31 tháng 12 năm 2023, Ngân hàng có một (1) công ty con như sau:
+
+<table><tr><td>Tên công ty</td><td>Giấy phép đăng ký kinh doanh số</td><td>Lĩnh vực hoạt động</td><td>Tỷ lệ % sở hữu của NH</td></tr><tr><td>Công ty Tài chính TNHH HD SAISON (“HD SAISON”), tên gọi trước đây là Công ty Tài chính TNHH Một thành viên Ngân hàng Thương mại Cổ phần Phát triển Thành phố Hồ Chí Minh</td><td>0304990133 ngày 13 tháng 7 năm 2007 do Sở Kế hoạch và Đầu tư Thành phố Hồ Chí Minh cấp, được điều chỉnh lần thứ mươi sáu (16) vào ngày 20 tháng 06 năm 2022</td><td>Tài chính/ Ngân hàng</td><td>50%</td></tr></table>
+
+7. Nhân viên
+
+Tổng số cán bộ nhân viên của Ngân hàng vào ngày 31 tháng 12 năm 2023 là 9.627 người (tại ngày 31 tháng 12 năm 2022 là 8.655 người).
+
+10
+
+===== PAGE 13 =====
+Ngân hàng TMCP Phát triển Thành phố Hồ Chí Minh
+
+THUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG
+
+Cho giai đoạn từ ngày 01.01.2023 đến ngày 31.12.2023
+
+Mẫu số B05a/TCTD
+
+(Ban hành theo Thông tư số
+
+27/2021/TT-NHNN ngày 31/12/2021)
+
+II. KÝ KẾ TOÁN VÀ ĐƠN VỊ TIỀN TỆ SỬ DỤNG TRONG KẾ TOÁN
+
+1 Kù ké toán
+
+Kỳ kế toán năm của Ngân hàng bắt đầu vào ngày 01 tháng 01 và kết thúc vào ngày 31 tháng 12.
+
+Kỳ kế toán quý 04 của Ngân hàng bắt đầu vào ngày 01 tháng 10 và kết thúc vào ngày 31 tháng 12.
+
+2 Đơn vị tiền tệ sử dụng trong kế toán
+
+Ngân hàng sử dụng đơn vị tiền tệ trong kế toán là Đồng Việt Nam (“VND” hoặc “Đồng”). Báo cáo tài chính riêng được lập bằng Đồng Việt Nam, được làm tròn tới hàng triệu đồng gần nhất (“Triệu Đồng”). Ngân hàng xác định đơn vị tiền tệ sử dụng trong kế toán phù hợp với Chuẩn mực Kế toán Việt Nam, Chế độ Kế toán Việt Nam và các quy định pháp lý có liên quan hiện hành
+
+Tất cả các nghiệp vụ phát sinh của Ngân hàng được hạch toán theo nguyên tệ. Các nghiệp vụ phát sinh bằng ngoại tệ được quy đổi theo tỷ giá áp dụng tại ngày phát sinh nghiệp vụ. Tài sản và công nợ bằng tiền tệ có gốc ngoại tệ tại thời điểm cuối tháng được quy đổi theo tỷ giá áp dụng vào ngày cuối tháng. Chênh lệch do đánh giá lại hàng tháng được ghi nhận vào khoản mục chênh lệch tỷ giá hối đoái trên báo cáo tình hình tài chính riêng cuối mỗi tháng và được kết chuyển vào báo cáo kết quả hoạt động riêng vào thời điểm cuối năm.
+
+III. CHUẢN MỤC VÀ HỆ THỐNG KẾ TOÁN ÁP DỤNG
+
+1 Tuyên bố tuân thủ
+
+Ban Tổng Giám đốc Ngân hàng khẳng định báo cáo tài chính riêng đính kèm được lập phù hợp với các Chuẩn mục kế toán Việt Nam. Hệ thống kế toán các TCTD Việt Nam và các quy định pháp lý có liên quan đến việc lập và trình bày báo cáo tài chính riêng.
+
+2 Cơ sở của việc lập báo cáo tài chính riêng
+
+Báo cáo tài chính riêng đã được lập theo các Chuẩn mực Kế toán Việt Nam, Chế độ Kế toán Việt Nam và các quy định pháp lý có liên quan đến việc lập và trình bày báo cáo tài chính riêng áp dụng cho các TCTD hoạt động tại Việt Nam. Báo cáo tài chính riêng được lập theo nguyên tắc giá gốc.
+
+Báo cáo tài chính riêng kèm theo không nhằm mục đích trình bày tỉnh hình tài chính, kết quả hoạt động và tỉnh hình lưu chuyển tiền tệ theo các nguyên tắc và thông lệ kế toán thường được chấp nhận ở các nước và các thể chế khác ngoài Việt Nam. Các nguyên tắc và thông lệ kế toán sử dụng tại Việt Nam có thể khác với các nguyên tắc và thông lệ kế toán tại các nước và các thể chế khác.
+
+Ngoài ra, Ngân hàng cũng đã lập báo cáo tài chính hợp nhất của Ngân hàng và công ty con theo các Chuẩn mực Kế toán Việt Nam, Chế độ Kế toán Việt Nam và các quy định pháp lý có liên quan đến việc lập và trình bày báo cáo tài chính hợp nhất. Trong báo cáo tài chính hợp nhất, công ty con là công ty mà Ngân hàng kiểm soát các chính sách hoạt động và tài chính, đã được hợp nhất đầy đủ.
+
+Người sử dụng báo cáo tài chính riêng của Ngân hàng nên đọc cùng với báo cáo tài chính hợp nhất của Ngân hàng và công ty con cho kỳ kế toán kết thúc ngày 31 tháng 12 năm 2023 để có đủ thông tin về tình hình tài chính hợp nhất, kết quả hoạt động hợp nhất và tình hình lưu chuyển tiền tệ hợp nhất của Ngân hàng và công ty con.
+
+3 Các cơ sở đánh giá và các ước tính kế toán áp dụng
+
+Việc lập báo cáo tài chính riêng tuân thủ theo các Chuẩn mực Kế toán Việt Nam. Chế độ Kế toán Việt Nam và các quy định pháp lý có liên quan đến việc lập và trình bày báo cáo tài chính riêng áp dụng cho các TCTD hoạt động tại Việt Nam yêu cầu Ban Tổng Giám đốc phải có những ước tính và giả định ảnh hưởng đến số liệu về công nợ, tài sản và việc trình bày các khoản công nợ và tài sản
+
+| |
+
+===== PAGE 14 =====
+Ngân hàng TMCP Phát triển Thành phố Hồ Chí Minh
+
+THUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG
+
+Cho giai đoạn từ ngày 01.01.2023 đến ngày 31.12.2023
+
+Mẫu số B05a/TCTD
+
+(Ban hành theo Thông tư số
+
+27/2021/TT-NHNN ngày 31/12/2021)
+
+tiềm tàng tại ngày kết thúc kỳ kế toán cũng như các số liệu về thu nhập và chỉ phí trong suốt kỳ kế toán.
+
+Uốc tính và giả định có ảnh hưởng trọng yếu trong báo cáo tài chính riêng bao gồm:
+
+- Phân loại và dự phòng rủi ro cho vay khách hàng;
+
+Các ước tính và giả định thường xuyên được đánh giá dựa trên kinh nghiệm trong quá khử và các yếu tố khác, bao gồm các giả định trong tương lai có ảnh hưởng trọng yếu tới báo cáo tài chính riêng của Ngân hàng và được Ban Tổng Giám đốc đánh giá là hợp lý.
+
+IV. TÓM TẮT CÁC CHÍNH SÁCH KẾ TOÁN CHỦ YẾU
+
+1 Chuyên đổi tiền tệ
+
+Theo hệ thống kế toán của Ngân hàng, tất cả các nghiệp vụ phát sinh của Ngân hàng được hạch toán theo nguyên tệ. Tại thời điểm cuối kỳ, tài sản và công nợ có nguồn gốc ngoại tệ được quy đổi sang VND theo tỷ giá quy định vào ngày lập Báo cáo tình hình tài chính riêng. Các khoản thu nhập và chỉ phí bằng ngoại tệ của Ngân hàng được quy đổi ra VND theo tỷ giá vào ngày phát sinh giao dịch. Chênh lệch tỷ giá do đánh giá lại các tài sản và công nợ bằng ngoại tệ sang VND trong năm được ghi nhận và theo dõi trên khoản mục “Chênh lệch tỷ giá hối đoái” trên tài khoản “Vốn chủ sở hữu” và được kết chuyển vào báo cáo kết quả hoạt động riêng tại thời điểm cuối năm tài chính.
+
+2. Công cụ tài chính phải sinh và kế toán phòng ngừa rủi ro
+
+Các công cụ tài chính phải sinh được ghi nhận trên báo cáo tình hình tài chính riêng theo giá trị hợp đồng vào ngày ký kết và sau đó được đánh giá lại theo tỷ giá tại ngày cuối tháng. Lợi nhuận hoặc lỗ đã thực hiện được ghi nhận trong báo cáo kết quả hoạt động riêng. Lợi nhuận hoặc lỗ chưa thực hiện được ghi nhận vào khoản mục chênh lệch tỷ giá hối đoái trên báo cáo tình hình tài chính riêng và được kết chuyển vào báo cáo kết quả hoạt động riêng vào cuối năm.
+
+3. Kế toán ghi nhận thu nhập và chi phí
+
+Thu nhập lãi
+
+Thu nhập lãi được ghi nhận vào báo cáo kết quả hoạt động riêng trên cơ sở dồn tích, theo thời gian và lãi suất thực tế từng kỳ khi thỏa mãn đồng thời hai điều kiện: (i) có khả năng thu được lợi ích kinh tế từ giao dịch đó; và (ii) thu nhập lãi được xác định tương đối chắc chắn. Khi một khoản nợ bị quá hạn hoặc không được phân loại là Nợ đủ tiêu chuẩn hoặc thuộc đối tượng được áp dụng theo Thông tư 03/2021, Thông tư 14/2021 và Thông tư 02/2023 thì số lãi dự thu được xuất toán và được ghi nhận ngoại bảng. Thu nhập lãi của các khoản nợ này được ghi nhận vào báo cáo kết quả hoạt động riêng khi thu được.
+
+Thu nhập từ hoạt động dịch vụ
+
+Thu nhập từ hoạt động dịch vụ bao gồm phí nhận được từ dịch vụ môi giới bảo hiểm, trái phiếu, thanh toán, ngân quỹ và các dịch vụ khác được ghi nhận trong báo cáo kết quả hoạt động riêng trên cơ sở dồn tích khi dịch vụ đã được cung cấp, bằng cách tính mức độ hoàn thành của từng giao dịch, dựa trên cơ sở đánh giá tỷ lệ dịch vụ đã cung cấp so với tổng khối lượng dịch vụ phải cung cấp. Thu nhập từ hoạt động dịch vụ chỉ được ghi nhận khi đồng thời thỏa mãn bốn (4) điều kiện sau:
+
+- Thu nhập được xác định tương đối chắc chắn:
+
+- Có khả năng thu được lợi ích kinh tế từ giao dịch cung cấp dịch vụ đó;
+
+- Xác định được phần công việc đã hoàn thành tại ngày lập báo cáo tình hình tài chính; và
+
+12
+
+===== PAGE 15 =====
+Ngân hàng TMCP Phát triển Thành phố Hồ Chí Minh
+
+THUYÊT MINH BẢO CÁO TÀI CHÍNH RIÊNG
+
+Cho giai đoạn từ ngày 01.01.2023 đến ngày 31.12.2023
+
+Mẫu số B05a/TCTD
+
+(Ban hành theo Thông tư số
+
+27/2021/TT-NHNN ngày 31/12/2021)
+
+- Xác định được chi phí phát sinh cho giao dịch và chi phí để hoàn thành giao dịch cung cấp dịch vụ đó.
+
+Thu nhập từ cổ tức
+
+Cổ tức bằng tiền nhận được từ hoạt động đầu tư được ghi nhận là thu nhập khi quyền nhận cổ tức của Ngân hàng được xác lập. Cổ tức bằng cổ phiếu và các cổ phiếu thường nhận được không được ghi nhận là thu nhập của Ngân hàng mà chỉ cập nhật số lượng cổ phiếu.
+
+Thu nhập khác
+
+Các thu nhập khác được ghi nhận dựa trên cơ sở thực thu.
+
+Theo Thông tư 16/2018/TT-BTC do Bộ Tài chính ban hành ngày 7 tháng 2 năm 2018, đối với các khoản phải thu đã hạch toán vào thu nhập nhưng sau đó được đánh giá không thu được hoặc đến kỳ hạn thu không thu được thì Ngân hàng hạch toán giảm doanh thu nếu cùng năm tài chính hoặc hạch toán vào chi phí nếu khác năm tài chính và theo dõi ngoại bảng để đơn đốc thu. Khi thu được các khoản này, Ngân hàng sẽ hạch toán vào thu nhập trên báo cáo kết quả hoạt động riêng.
+
+Chi phí lãi
+
+Chi phí lãi được ghi nhận vào báo cáo kết quả hoạt động riêng trên cơ sở dồn tích.
+
+4. Kế toán đối với cho vay khách hàng, hoạt động mua nợ
+
+4.1 Kế toán đối với cho vay khách hàng
+
+Đo lường và ghi nhận các khoản cho vay khách hàng
+
+Các khoản cho vay khách hàng được ghi nhận theo số dư nợ gốc trừ dự phòng rủi ro tín dụng.
+
+Các khoản cho vay ngắn hạn là các khoản cho vay có kỳ hạn đến 1 năm kể từ ngày giải ngân; các khoản cho vay trung hạn có kỳ hạn từ trên 1 năm đến 5 năm kể từ ngày giải ngân; các khoản cho vay dài hạn có kỳ hạn trên 5 năm kể từ ngày giải ngân.
+
+Phân loại các khoản cho vay khách hàng
+
+Ngân hàng thực hiện phân loại nợ và trích lập dự phòng rủi ro tín dụng theo Thông tư 11.
+
+Theo Thông tư 11, phân loại các khoản cho vay khách hàng được chia thành năm nhóm nợ căn cứ vào tỉnh hình trả nợ và các yếu tố định lượng như sau:
+
+Nhóm 1: Nợ đủ tiêu chuẩn
+
+(a) Khoản nợ trong hạn và được đánh giá là có khả năng thu hồi đầy đủ cả nợ gốc và lãi đúng hạn; hoặc
+
+(b) Khoản nợ quá hạn dưới 10 ngày và được đánh giá là có khả năng thu hồi đầy đủ nợ gốc và lãi bị quá hạn và thu hồi đầy đủ nợ gốc và lãi còn lại đúng thời hạn; hoặc
+
+(c) Khoản nợ được phân loại vào nhóm 1 do đáp ứng tiêu chí được phân loại vào nhóm nợ có rủi ro thấp hơn.
+
+Nhóm 2: Nợ cần chú ý
+
+(a) Khoản nợ quá hạn đến 90 ngày, trừ khoản nợ quy định tại điểm (b) của Nợ đủ tiêu chuẩn và khoản nợ phân loại vào nhóm nợ có rủi ro cao hơn theo quy định; hoặc
+
+(b) Khoản nợ được điều chỉnh kỳ hạn trả nợ lần đầu còn trong hạn, trừ khoản nợ đáp ứng tiêu chí được phân loại vào nhóm nợ có rủi ro thấp hơn và khoản nợ phân loại vào nhóm nợ có rủi ro cao hơn theo quy định; hoặc
+
+13
+
+===== PAGE 16 =====
+Ngân hàng TMCP Phát triển Thành phố Hồ Chí Minh
+
+THUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG
+
+Cho giai đoạn từ ngày 01.01.2023 đến ngày 31.12.2023
+
+Mẫu số B05a/TCTD
+
+(Ban hành theo Thông tư số
+
+27/2021/TT- NHNN ngày .31/12/2021)
+
+(c) Khoản nợ được phân loại vào nhóm 2 do đáp ứng tiêu chí được phân loại vào nhóm nợ có rủi ro thấp hơn hoặc do khoản nợ phân loại vào nhóm nợ có rủi ro cao hơn theo quy định.
+
+Nhóm 3: Nợ dưới tiêu chuẩn
+
+(a) Khoản nợ quá hạn từ 91 ngày đến 180 ngày; trừ khoản nợ quy định tại khoản 3 Điều 10 Thông tư 11; hoặc
+
+(b) Khoản nợ gia hạn nợ lần đầu còn trong hạn, trừ khoản nợ quy định tại điểm (b) khoản 2, khoản 3 Điều 10 Thông tư 11; hoặc
+
+(c) Khoản nợ được miễn hoặc giảm lãi do khách hàng không đủ khả năng trả lãi đầy đủ theo thỏa thuận, trừ khoản nợ quy định tại khoản 3 Điều 10 Thông tư 11; hoặc
+
+(d) Khoản nợ thuộc một trong các trường hợp sau đây chưa thu hồi được trong thời gian dưới 30 ngày kể từ ngày có quyết định thu hồi:
+
+- Khoản nợ vi phạm quy định tại các khoản 1, 3, 4, 5, 6 Điều 126 Luật Các tổ chức tín dụng; hoặc
+
+- Khoản nợ vi phạm quy định tại các khoản 1, 2, 3, 4 Điều 127 Luật Các tổ chức tín dụng; hoặc
+
+• Khoản nợ vi phạm quy định tại các khoản 1.2.5 Điều 128 Luật Các tổ chức tín dụng.
+
+(e) Khoản nợ trong thời hạn thu hồi theo kết luận thanh tra, kiểm tra; hoặc
+
+(f) Khoản nợ phải thu hồi theo quyết định thu hồi nợ trước hạn của Ngân hàng do khách hàng vi phạm thỏa thuận với Ngân hàng chưa thu hồi được trong thời gian dưới 30 ngày kể từ ngày có quyết định thu hồi; hoặc
+
+(g) Khoản nợ được phân loại vào nhóm 3 theo quy định tại khoản 2, khoản 3 Điều 10 Thông tư 11; hoặc
+
+(h) Khoản nợ phải phân loại vào nhóm 3 theo quy định tại khoản 4 Điều 8 Thông tư 11.
+
+Nhóm 4: Nợ nghi ngờ
+
+(a) Khoản nợ quá hạn từ 181 ngày đến 360 ngày, trừ khoản nợ quy định tại khoản 3 Điều 10 Thông tư 11; hoặc
+
+(b) Khoản nợ cơ cấu lại thời hạn trả nợ lần đầu quá hạn đến 90 ngày theo thời hạn trả nợ được cơ cấu lại lần đầu, trừ khoản nợ quy định tại khoản 3 Điều 10 Thông tư 11; hoặc
+
+(c) Khoản nợ cơ cấu lại thời hạn trả nợ lần thứ hai còn trong hạn, trừ khoản nợ quy định tại điểm (b) khoản 2, khoản 3 Điều 10 Thông tư 11; hoặc
+
+(d) Khoản nợ quy định tại điểm (d) của Nợ dưới tiêu chuẩn chưa thu hồi được trong thời gian từ 30 ngày đến 60 ngày kể từ ngày có quyết định thu hồi: hoặc
+
+(e) Khoản nợ phải thu hồi theo kết luận thanh tra, kiểm tra nhưng quá thời hạn thu hồi theo kết luận thanh tra, kiểm tra đến 60 ngày mà chưa thu hồi được; hoặc
+
+(f) Khoản nợ phải thu hồi theo quyết định thu hồi nợ trước hạn của Ngân hàng do khách hàng vỉ phạm thỏa thuận với Ngân hàng chưa thu hồi được trong thời gian từ 30 ngày đến 60 ngày kể từ ngày có quyết định thu hồi: hoặc
+
+(g) Khoản nợ được phân loại vào nhóm 4 theo quy định tại khoản 2, khoản 3 Điều 10 Thông tư 11; hoặc
+
+14
+
+===== PAGE 17 =====
+Ngân hàng TMCP Phát triển Thành phố Hồ Chí Minh
+
+THUYÊT MINH BÁO CÁO TÀI CHÍNH RIÊNG
+
+Cho giai đoạn từ ngày 01.01.2023 đến ngày 31.12.2023
+
+Mẫu số B05a/TCTD
+
+(Ban hành theo Thông tư số
+
+27/2021/TT-NHNN ngày 31/12/2021)
+
+(h) Khoản nợ phải phân loại vào nhóm 4 theo quy định tại khoản 4 Điều 8 Thông tư 11.
+
+Nhóm 5: Nợ có. khả năng mất vốn
+
+(a) Khoản nợ quá hạn trên 360 ngày; hoặc
+
+(b) Khoản nợ cơ cấu lại thời hạn trả nợ lần đầu quá hạn từ 91 ngày trở lên theo thời hạn trả nợ được cơ cấu lại lần đầu; hoặc
+
+(c) Khoản nợ cơ cấu lại thời hạn trả nợ lần thứ hai quá hạn theo thời hạn trả nợ được cơ cấu lại lần thứ hai; hoặc
+
+(d) Khoản nợ cơ cấu lại thời hạn trả nợ lần thứ ba trở lên, trừ khoản nợ quy định tại điểm b khoản 2 Điều 10 Thông tư 11; hoặc
+
+(e) Khoản nợ quy định tại điểm (d) của Nợ dưới tiêu chuẩn chưa thu hồi được trên 60 ngày kể từ ngày có quyết định thu hồi; hoặc
+
+(f) Khoản nợ phải thu hồi theo kết luận thanh tra, kiểm tra nhưng quá thời hạn thu hồi theo kết luận thanh tra, kiểm tra trên 60 ngày mà chưa thu hồi được; hoặc
+
+(g) Khoản nợ phải thu hồi theo quyết định thu hồi nợ trước hạn của Ngân hàng do khách hàng vỉ phạm thỏa thuận với Ngân hàng chưa thu hồi được trên 60 ngày kể từ ngày có quyết định thu hồi; hoặc
+
+(h) Khoản nợ của khách hàng là TCTD đang được kiểm soát đặc biệt, chỉ nhánh ngân hàng nước ngoài đang bị phong tỏa vốn và tài sản; hoặc
+
+(i) Khoản nợ được phân loại vào nhóm 5 theo quy định tại khoản 3 Điều 10 Thông tư 11; hoặc
+
+(j) Khoản nợ phải phân loại vào nhóm 5 theo quy định tại khoản 4 Điều 8 Thông tư 11.
+
+Nợ được phân loại lại vào nhóm nợ có rủi ro thấp hơn (kể cả nhóm 1) khi:
+
+Đối với nơ quá hạn
+
+- Khách hàng đã trả đầy đủ phần nợ gốc và lãi bị quá hạn (kể cả lãi áp dụng đối với nợ gốc quá hạn) và nợ gốc và lãi của các kỳ hạn trả nợ tiếp theo trong thời gian tối thiểu 03 (ba) tháng đối với nợ trung và dài hạn, 01 (một) tháng đối với nợ ngắn hạn, kể từ ngày bắt đầu trả đầy đủ nợ gốc và lãi bị quá hạn, và
+
+Ngân hàng có đủ cơ sở thông tin, tài liệu đánh giá khách hàng có khả năng trả đầy đủ nợ gốc và lãi còn lại đúng thời hạn.
+
+Đối với nợ cơ cấu lai thời hạn trả nợ
+
+- Khách hàng đã trả đầy đủ nợ gốc và lãi theo thời hạn trả nợ được cơ cấu lại trong thời gian tối thiểu 03 (ba) tháng đối với nợ trung và dài hạn, 01 (một) tháng đối với nợ ngắn hạn, kể từ ngày bắt đầu trả đầy đủ nợ gốc và lãi theo thời hạn được cơ cấu lại; và
+
+Ngân hàng có đủ cơ sở thông tin, tài liệu đánh giá khách hàng có khả năng trả đầy đủ nợ gốc và lãi còn lại đúng thời hạn.
+
+Nợ được phân loại vào nhóm nợ có rủi ro cao hơn khi:
+
+- Các chỉ tiêu về khả năng sinh lời. khả năng thanh toán, tỷ lệ nợ trên vốn, dòng tiền, khả năng trả nợ của khách hàng suy giảm liên tục qua 3 lần đánh giá, phân loại nợ liên tục; hoặc
+
+- Khách hàng không cung cấp đầy đủ, kịp thời và trung thực các thông tin tài chính theo yêu cầu của Ngân hàng để đánh giá khả năng trả nợ của khách hàng; hoặc
+
+15
+
+===== PAGE 18 =====
+Ngân hàng TMCP Phát triển Thành phố Hồ Chí Minh
+
+THUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG
+
+Cho giai đoạn từ ngày 01.01.2023 đến ngày 31.12.2023
+
+Mẫu số B05a/TCTD
+
+(Ban hành theo Thông tư số
+
+27/2021/TT-NHNN ngày 31/12/2021)
+
+- Khoản nợ đã được phân loại vào nhóm 2, nhóm 3, nhóm 4 từ 1 (một) năm trở lên nhưng không đủ điều kiện phân loại vào nhóm nợ có rủi ro thấp hơn; hoặc
+
+- Khoản nợ mà hành vi cấp tín dụng bị xử phạt vi phạm hành chính theo quy định của pháp luật.
+
+Nợ xấu là nợ thuộc các Nhóm 3, 4 và 5.
+
+Ngân hàng được yêu cầu sử dụng kết quả phân loại rủi ro tín dụng do Trung tâm Thông tin tín dụng thuộc NHNN (“CIC”) cung cấp để phân loại các khoản cho vay khách hàng của Ngân hàng vào nhóm nơ có rủi ro cao hơn giữa nhóm nơ được đánh giá bởi Ngân hàng và nhóm nơ do CIC cung cấp.
+
+Trường hợp một khách hàng có nhiều hơn một khoản nợ với Ngân hàng mà có bất kỳ khoản nợ bị chuyển sang nhóm nợ rủi ro cao hơn thì Ngân hàng phân loại các khoản nợ còn lại của khách hàng đó vào các nhóm nợ rủi ro cao hơn tương ứng với mức độ rủi ro.
+
+Khi Ngân hàng tham gia cho vay hợp vốn, Ngân hàng thực hiện phân loại tất cả các khoản nợ (bao gồm cả khoản cho vay hợp vốn) của khách hàng đó vào nhóm rủi ro cao nhất theo kết quả phân loại nợ của các thành viên tham gia cấp tín dụng hợp vốn.
+
+Dự phòng rủi ro cho vay khách hàng:
+
+Dự phòng rủi ro tín dụng bao gồm dự phòng cụ thể và dự phòng chung.
+
+Dư phòng cụ thể
+
+Việc tính dự phòng cụ thể được căn cứ trên các tỷ lệ áp dụng cho từng nhóm nợ như sau:
+
+Tỷ lệ dự phòng
+
+<table><tr><td>Nhóm 1 - Nợ đủ tiêu chuẩn</td><td>0%</td></tr><tr><td>Nhóm 2 - Nợ cần chú ý</td><td>5%</td></tr><tr><td>Nhóm 3 - Nợ dưới tiêu chuẩn</td><td>20%</td></tr><tr><td>Nhóm 4 - Nợ nghi ngờ</td><td>50%</td></tr><tr><td>Nhóm 5 - Nợ có khả năng mất vốn</td><td>100%</td></tr></table>
+
+Dự phòng cụ thể được tính theo số dư các khoản cho vay từng khách hàng tại ngày làm việc cuối cùng của mỗi tháng trừ đi giá trị khấu trừ của tài sản bảo đảm.
+
+Tỷ lệ khấu trừ tối đa đối với các tài sản bảo đảm được xác định theo quy định của Thông tư 11 như sau:
+
+16
+
+===== PAGE 19 =====
+Ngân hàng TMCP Phát triển Thành phố Hồ Chí Minh
+
+THUYẾT MINH BẢO CÁO TÀI CHÍNH RIÊNG
+
+Cho giai đoạn từ ngày 01.01.2023 đến ngày 31.12.2023
+
+Mẫu số B05a/TCTD
+
+(Ban hành theo Thông tư số
+
+27/2021/TT-NHNN ngày 31/12/2021)
+
+<table><tr><td>Loại tài sản bảo đảm</td><td>Tỷ lệ khấu trừ tối đa</td></tr><tr><td>(a) Số dư tiền gửi, chứng chỉ tiền gửi của khách hàng bằng Đồng Việt Nam tại chính Ngân hàng</td><td>100%</td></tr><tr><td>(b) Trái phiếu Chính phủ, vàng miếng theo quy định của pháp luật về hoạt động kinh doanh vàng; số dư tiền gửi, chứng chỉ tiền gửi của khách hàng bằng ngoại tệ tại chính Ngân hàng</td><td>95%</td></tr><tr><td>(c) Trái phiếu chính quyền địa phương, trái phiếu được Chính phủ bảo lãnh; công cụ chuyển nhượng, kỳ phiếu, tín phiếu, trái phiếu do chính Ngân hàng phát hành; số dư tiền gửi, chứng chỉ tiền gửi, kỳ phiếu, tín phiếu do TCTD, chi nhánh ngân hàng nước ngoài khác phát hành:Co thời hạn còn lại dưới 1 nămCó thời hạn còn lại từ 1 năm đến 5 nămCó thời hạn còn lại trên 5 năm</td><td>95%85%80%</td></tr><tr><td>(d) Chứng khoán do các TCTD khác phát hành được niêm yết trên Sở giao dịch chứng khoán</td><td>70%</td></tr><tr><td>(e) Chứng khoán do doanh nghiệp (trừ TCTD) phát hành được niêm yết trên Sở giao dịch chứng khoán</td><td>65%</td></tr><tr><td>(f) Chứng khoán chưa được niêm yết trên Sở giao dịch chứng khoán, giấy tờ có giá, trừ các khoản quy định tại điểm (c), do TCTD khác có đăng ký niêm yết chứng khoán trên Sở giao dịch chứng khoán phát hành;Chứng khoán chưa được niêm yết trên Sở giao dịch chứng khoán, giấy tờ có giá, trừ các khoản quy định tại điểm (c), do TCTD khác không có đăng ký niêm yết chứng khoán trên Sở giao dịch chứng khoán phát hành</td><td>50%30%</td></tr><tr><td>(g) Chứng khoán chưa được niêm yết trên Sở giao dịch chứng khoán, giấy tờ có giá do doanh nghiệp có đăng ký niêm yết chứng khoán trên Sở giao dịch chứng khoán phát hành;Chứng khoán chưa được niêm yết trên Sở giao dịch chứng khoán, giấy tờ có giá do doanh nghiệp không có đăng ký niêm yết chứng khoán trên Sở giao dịch chứng khoán phát hành</td><td>30%10%</td></tr><tr><td>(h) Bất động sản</td><td>50%</td></tr><tr><td>(i) Các loại tài sản bảo đảm khác</td><td>30%</td></tr></table>
+
+17
+
+===== PAGE 20 =====
+Ngân hàng TMCP Phát triển Thành phố Hồ Chí Minh
+
+THUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG
+
+Cho giai đoạn từ ngày 01.01.2023 đến ngày 31.12.2023
+
+Mẫu số B05a/TCTD
+
+(Ban hành theo Thông tư số
+
+27/2021/TT-NHNN ngày 31/12/2021)
+
+Khi tài sản bảo đảm không phải là vàng miếng, chứng khoán đã niêm yết, Cổ phiếu đã đăng ký giao dịch trên hệ thống giao dịch Upcom, trái phiếu Chính phủ được niêm yết trên SGDCK, trái phiếu chính quyền địa phương, trái phiếu Chính phủ bảo lãnh và trái phiếu doanh nghiệp (kể cả TCTD) đã niêm yết, đăng ký giao dịch; chứng khoán chưa được niêm yết trên SGDCK, ký phiếu, tín phiếu, chứng chỉ tiền gửi do doanh nghiệp (kể cả TCTD, chỉ nhánh ngân hàng nước ngoài) phát hành, thì Ngân hàng phải thuê tổ chức có chức năng thẩm định giá theo quy định của pháp luật để xác định giá trị tài sản bảo đảm được khấu trừ khi tính số tiền trích lập dự phòng cụ thể cuối năm tài chính trong các trường hợp sau đây:
+
+- Tài sản bảo đảm mà Ngân hàng định giá từ 50 tỷ đồng trở lên đối với khoản nợ của khách hàng là người có liên quan của Ngân hàng và các đối tượng bị hạn chế cấp tín dụng theo quy định tại Điều 127 Luật Các tổ chức tín dụng (đã sửa đổi, bổ sung);
+
+- Tài sản bảo đảm mà Ngân hàng định giá từ 200 tỷ đồng trở lên.
+
+Đối với các trường hợp khác, tài sản bảo đảm được định giá theo quy định và quy trình nội bộ của Ngân hàng.
+
+Trường hợp không có văn bản định giá tài sản bảo đảm của tổ chức định giá và không xác định được giá trị tài sản bảo đảm theo quy định nội bộ thì giá trị tài sản bảo đảm để khấu trừ phải coi bằng 0 (không).
+
+Dư phòng chung
+
+Dự phòng chung được lập với mức bằng 0,75% tổng số dư tại ngày làm việc cuối cùng của mỗi tháng của các khoản cho vay khách hàng, không bao gồm các khoản cho vay khách hàng được phân loại vào nhóm nợ có khả năng mất vốn.
+
+Xir lý nơ xấu
+
+Các khoản nợ xấu có thể được xử lý bằng dự phòng trong các trường hợp sau:
+
+- Khách hàng là tổ chức bị giải thể, phá sản theo quy định của pháp luật, cá nhân bị chết, mất tích; hoặc
+
+- Các khoản nợ được phân loại vào nhóm 5.
+
+Sau thời gian tối thiểu 05 năm, kể từ ngày sử dụng dự phòng để xử lý rủi ro và sau khi đã thực hiện tất cả các biện pháp của Hội đồng xử lý rủi ro để thu hồi nợ nhưng không thu hồi được, khoản nợ có thể được xuất toán ra khởi ngoại bảng theo quyết định của Hội đồng xử lý rủi ro của Ngân hàng.
+
+4.2 Cơ cấu lại thời hạn trả nợ, miễn, giảm lãi, phí và giữ nguyên nhóm nợ nhằm hỗ trợ khách hàng chịu ảnh hưởng bởi dịch Covid-19
+
+Từ ngày 17 tháng 5 năm 2021, việc cơ cấu lại thời hạn trả nợ, miễn, giảm lãi, phí và giữ nguyên nhóm nợ nhằm hỗ trợ khách hàng chịu ảnh hưởng bởi dịch Covid-19 được thực hiện theo quy định của Thông tư 03/2021/TT-NHNN (“Thông tư 03/2021”) có hiệu lực thi hành từ ngày 17 tháng 5 năm 2021 và Thông tư 14/2021/TT-NHNN (“Thông tư 14/2021”) có hiệu lực thi hành từ ngày 7 tháng 9 năm 2021 sửa đổi, bổ sung một số điều của Thông tư 01 quy định về việc TCTD, chỉ nhánh ngân hàng nước ngoài cơ cấu lại thời hạn trả nợ, miễn, giảm lãi, phí, giữ nguyên nhóm nợ nhằm hỗ trợ khách hàng chịu ảnh hưởng do dịch Covid-19. Chi tiết Thông tư 03/2021 và Thông tư 14/2021 như sau:
+
+Ngán hàng thực hiện cơ cấu lại thời hạn tra nợ, miễn, giảm lãi, phí đối với số dư nợ gốc và/hoặc lãi của khoản nợ đáp ứng đầy đủ các điều kiện sau đây:
+
+18
+
+===== PAGE 21 =====
+Ngân hàng TMCP Phát triển Thành phố Hồ Chí Minh
+
+THUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG
+
+Cho giai đoạn từ ngày 01.01.2023 đến ngày 31.12.2023
+
+Mẫu số B05a/TCTD
+
+(Ban hành theo Thông tự số
+
+27/2021/TT-NHNN ngày 31/12/2021)
+
+- Phát sinh trước ngày 1 tháng 8 năm 2021 từ hoạt động cho vay (đối với cơ cấu lại thời hạn trả nợ) hoặc từ hoạt động cấp tín dụng, trừ hoạt động mua, đầu tư trái phiếu doanh nghiệp (đối với miễn, giảm lãi, phí);
+
+- Phát sinh nghĩa vụ trả nợ gốc và/hoặc lãi trong khoảng thời gian từ ngày 23 tháng 1 năm 2020 đến ngày 30 tháng 6 năm 2022;
+
+- Khách hàng không có khả năng trả nợ đúng hạn nợ gốc và/hoặc lãi theo hợp đồng, thỏa thuận đã ký do doanh thu, thu nhập sụt giảm bởi ảnh hưởng của dịch Covid-19;
+
+- Khách hàng có đề nghị được cơ cấu lại thời hạn trả nợ và Ngân hàng đánh giá khách hàng có khả năng trả nợ đầy đủ nợ gốc và/hoặc lãi theo thời hạn trả nợ được cơ cấu lại.
+
+Việc cơ cấu lại thời hạn trả nợ được thực hiện trong các trường hợp sau đây:
+
+- Số dư nợ còn trong hạn hoặc quá hạn đến 10 ngày kể từ ngày đến hạn thanh toán, thời hạn trả nợ theo hợp đồng, thỏa thuận đã ký, trừ trường hợp quy định bên dưới;
+
+- Số dư nợ của khoản nợ phát sinh trước ngày 23 tháng 1 năm 2020 và quá hạn trong khoảng thời gian từ ngày 23 tháng 1 năm 2020 đến ngày 29 tháng 3 năm 2020;
+
+- Số dư nợ của khoản nợ phát sinh từ ngày 23 tháng 1 năm 2020 đến trước ngày 10 tháng 6 năm 2020 và quá hạn trước ngày 17 tháng 5 năm 2021;
+
+- Số dư nợ của khoản nợ phát sinh từ ngày 10 tháng 6 năm 2020 đến trước ngày 1 tháng 8 năm 2021 và quá hạn từ ngày 17 tháng 7 năm 2021 đến trước ngày 7 tháng 9 năm 2021.
+
+Thời gian cơ cấu lại thời hạn trả nợ; miễn giảm, lãi, phí:
+
+- Thời gian cơ cấu lại thời hạn trả nợ (kể cả trường hợp gia hạn nợ) phù hợp với mức độ ảnh hưởng của dịch Covid-19 đối với khách hàng và không vượt quá 12 tháng kể từ ngày Ngân hàng thực hiện cơ cấu lại thời hạn trả nợ hoặc kể từ ngày đến hạn của từng số dư nợ được cơ cấu lại thời hạn trả nợ.
+
+- Việc thực hiện cơ cấu lại thời hạn trả nợ; miễn, giảm lãi, phí cho khách hàng thực hiện đến ngày 30 tháng 6 năm 2022.
+
+Chỉ tiết việc phân loại nợ và giữ nguyên nhóm nợ của các khoản nợ được cơ cấu lại thời hạn trả nợ, miễn, giảm lãi, phí theo quy định:
+
+Đối với số dư nợ của khoản nợ phát sinh trước ngày 23 tháng 1 năm 2020 (bao gồm cả phần dư nợ đã cơ cấu lại thời hạn trả nợ, miễn, giảm lãi và đã chuyển nhóm nợ theo quy định của NHNN trong khoảng thời gian từ ngày 23 tháng 1 năm 2020 đến ngày 29 tháng 3 năm 2020) được cơ cấu lại thời hạn trả nợ, miễn, giảm lãi, phí theo quy định của Thông tư 03/2021, Ngân hàng giữ nguyên nhóm nợ tại thời điểm gần nhất trước ngày 23 tháng 1 năm 2020.
+
+Đối với số dư nợ của khoản nợ phát sinh từ ngày 23 tháng 1 năm 2020 đến trước ngày 1 tháng 8 năm 2021, Ngân hàng giữ nguyên nhóm nợ đối với số dư nợ được cơ cấu lại thời hạn trả nợ, miễn, giảm lãi này như sau:
+
+- Giữ nguyên nhóm nợ tại thời điểm gần nhất trước ngày thực hiện cơ cấu lại thời hạn trả nợ lần đầu đối với số dư nợ còn trong hạn hoặc quá hạn đến 10 ngày kể từ ngày đến hạn thanh toán, thời hạn trả nợ theo hợp đồng. thỏa thuận cho vay đã ký, trừ trường hợp quy định bên dưới;
+
+19
+
+===== PAGE 22 =====
+Ngân hàng TMCP Phát triển Thành phố Hồ Chí Minh
+
+THUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG
+
+Cho giai đoạn từ ngày 01.01.2023 đến ngày 31.12.2023
+
+Mẫu số B05a/TCTD
+
+(Ban hành theo Thông tư số
+
+27/2021/TT-NHNN ngày 31/12/2021)
+
+- Giữ nguyên nhóm nợ tại thời điểm gần nhất trước ngày khoản nợ bị chuyển quá hạn đối với số dư nợ của khoản nợ phát sinh từ ngày 23 tháng 1 năm 2020 đến trước ngày 10 tháng 6 năm 2020 và quá hạn trước ngày 17 tháng 5 năm 2021;
+
+- Giữ nguyên nhóm nợ tại thời điểm gần nhất trước ngày khoản nợ bị chuyển quá hạn đối với số dư nợ của khoản nợ phát sinh từ ngày 10 tháng 6 năm 2020 đến trước ngày 1 tháng 8 năm 2021 và quá hạn từ ngày 17 tháng 7 năm 2021 đến trước ngày 7 tháng 9 năm 2021;
+
+- Giữ nguyên nhóm nợ tại thời điểm gần nhất trước ngày thực hiện miễn, giảm lãi lần đầu đối với số dư nợ theo quy định tại Thông tư 03/2021 và Thông tư 14/2021.
+
+Đối với số dư nợ sau khi cơ cấu lại thời hạn trả nợ và giữ nguyên nhóm nợ theo quy định tại Thông tư 03/2021 và Thông tư 14/2021 còn trong hạn theo thời hạn cơ cấu lại, Ngân hàng không áp dụng nguyên tắc điều chỉnh, phân loại lại vào nhóm nợ có mức độ rủi ro cao hơn.
+
+Đối với số lãi phải thu của khoản nợ được cơ cấu lại thời hạn trả nợ, miễn, giảm lãi, phí và giữ nguyên nhóm nợ đủ tiêu chuẩn (nhóm 1) theo quy định của Thông tư 03/2021 và Thông tư 14/2021, kể từ ngày được cơ cấu lại, Ngân hàng không hạch toán thu nhập (dự thu) mà thực hiện theo dõi ngoại bảng để đơn đốc thu. Thu nhập lãi của các khoản nợ này được ghi nhận vào báo cáo kết quả hoạt động riêng lẻ khi thu được.
+
+4.3 Trích lập dự phòng cụ thể đối với khách hàng có số dư nợ được cơ cấu lại thời hạn trả nợ, miễn, giảm lãi theo quy định tại Thông tư 03/2021 và Thông tư 14/2021
+
+Ngân hàng thực hiện trích lập dự phòng cụ thể đối với khách hàng có số dư nợ được cơ cấu lại thời hạn trả nợ, miễn, giảm lãi theo quy định của Thông tư 03/2021 như sau:
+
+Số tiền dự phòng cụ thể phải trích bổ sung được xác định theo công thức sau:
+
+Số tiền dự phòng cụ thể phải trích bổ sung = A - B
+
+Trong đó:
+
+A: Số tiền dự phòng cụ thể phải trích đối với toàn bộ dư nợ của khách hàng theo kết quả phân loại nợ theo Thông tư 11.
+
+- B: Số tiền dự phòng cụ thể đối với toàn bộ dự nợ của khách hàng theo kết quả phân loại nợ theo Thông tư 03/2021 và Thông tư 14/2021.
+
+Trường hợp số tiền dự phòng cụ thể phải trích bổ sung được xác định theo công thức nếu trên là dương, dự phòng cụ thể cần được trích bổ sung theo quy định của Thông tư 03/2021 như sau:
+
+- Đến thời điểm ngày 31.12.2021: Tối thiểu 30% số tiền dự phòng cụ thể phải trích bổ sung.
+
+- Đến thời điểm ngày 31.12.2022: Tối thiểu 60% số tiền dự phòng cụ thể phải trích bổ sung.
+
+- Đến thời điểm ngày 31.12.2023: 100% số tiền dự phòng cụ thể phải trích bổ sung.
+
+Việc trích lập dự phòng đối với khách hàng có số dư nợ được cơ cấu lại thời hạn trả nợ theo quy định của Thông tư 03/2021 và Thông tư 14/2021 không áp dụng điều chỉnh hồi tố.
+
+20
+
+===== PAGE 23 =====
+Ngân hàng TMCP Phát triển Thành phố Hồ Chí Minh
+
+THUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG
+
+Cho giai đoạn từ ngày 01.01.2023 đến ngày 31.12.2023
+
+Mẫu số B05a/TCTD
+
+(Ban hành theo Thông tư số
+
+27/2021/TT-NHNN ngày 31/12/2021)
+
+4.4 Cơ cấu lại thời hạn trả nợ và giữ nguyên nhóm nợ nhằm hỗ trợ khách hàng gặp khó khăn trong hoạt động sản xuất kinh doanh và khách hàng gặp khó khăn trả nợ vay phục vụ nhu cầu đời sống, tiêu dùng
+
+Từ ngày 24 tháng 4 năm 2023, việc cơ cấu lại thời hạn trả nợ đối với số dư nợ gốc và hoặc lãi của khoản nợ nhằm hỗ trợ khách hàng gặp khó khăn trong hoạt động sản xuất kinh doanh và khách hàng gặp khó khăn trả nợ vay phục vụ nhu cầu đời sống và tiêu dùng được thực hiện theo quy định của Thông tư 02/2023/TT-NHNN (“Thông tư 02/2023”) do NHNN ban hành ngày 23 tháng 4 năm 2023, trên cơ sở đề nghị của khách hàng, khả năng tài chính của Ngân hàng.
+
+Ngân hàng thực hiện việc cơ cấu lại thời hạn trả nợ đối với số dư nợ gốc và/hoặc lãi của khoản nợ và đáp ứng các điều kiện sau:
+
+- Dư nợ gốc phát sinh trước ngày 24 tháng 4 năm 2023 từ hoạt động cho vay;
+
+- Phát sinh nghĩa vụ trả nợ gốc và/hoặc lãi trong khoảng thời gian từ ngày 24 tháng 4 năm 2023 đến hết ngày 30 tháng 6 năm 2024;
+
+- Số dư nợ của khoản nợ được cơ cấu lại thời hạn trả nợ còn trong hạn hoặc quá hạn đến 10 ngày kể từ ngày đến hạn thanh toán, thời hạn trả nợ theo hợp đồng, thỏa thuận;
+
+- Khách hàng được Ngân hàng đánh giá không có khả năng trả nợ đúng hạn nợ gốc và/hoặc lãi theo hợp đồng, thỏa thuận do doanh thu, thu nhập sụt giảm so với doanh thu, thu nhập tại phương án trả nợ gốc và/hoặc lãi theo hợp đồng, thỏa thuận;
+
+- Khách hàng có đề nghị được cơ cấu lại thời hạn trả nợ và được Ngân hàng đánh giá có khả năng trả nợ đầy đủ nợ gốc và hoặc lãi theo thời hạn trả nợ được cơ cấu lại;
+
+- Ngân hàng không thực hiện cơ cấu lại thời hạn trả nợ đối với khoản nợ vi phạm quy định pháp luật;
+
+- Thời gian cơ cấu lại thời hạn trả nợ (kể cả trường hợp gia hạn nợ) được xác định phù hợp với mức độ khó khăn của khách hàng và không vượt quá 12 tháng kể từ ngày đến hạn của số dư nợ được cơ cấu lại thời hạn trả nợ;
+
+- Việc cơ cấu lại thời hạn trả nợ cho khách hàng theo quy định tại Thông tư 02/2023 được thực hiện từ ngày 24 tháng 4 năm 2023 đến hết ngày 30 tháng 6 năm 2024.
+
+Chỉ tiết phân loại nợ và giữ nguyên nhóm nợ:
+
+Ngân hàng giữ nguyên nhóm nợ đối với khoản nợ có số dư nợ gốc và/hoặc lãi được cơ cấu lại thời hạn trả nợ (“khoản nợ được cơ cấu lại thời hạn trả nợ”) tại thời điểm gần nhất trước khi cơ cấu lại thời hạn trả nợ theo quy định tại Thông tư 11.
+
+- Đối với khoản nợ được cơ cấu lại thời hạn trả nợ còn trong hạn theo thời hạn cơ cấu lại, Ngân hàng không phải áp dụng nguyên tắc điều chỉnh, phân loại lại vào nhóm nợ có mức độ rủi ro cao hơn theo quy định tại Thông tư 11;
+
+- Đối với khoản nợ được cơ cấu lại thời hạn trả nợ quá hạn theo thời hạn cơ cấu lại mà không được Ngân hàng tiếp tục cơ cấu lại thời hạn trả nợ theo quy định tại Thông tư 02/2023, Ngân hàng thực hiện phân loại nợ theo Thông tư 11.
+
+21
+
+===== PAGE 24 =====
+Ngân hàng TMCP Phát triển Thành phố Hồ Chí Minh
+
+THUYÊT MINH BÁO CÁO TÀI CHÍNH RIÊNG
+
+Cho giai đoạn từ ngày 01.01.2023 đến ngày 31.12.2023
+
+Mãu số B05a/TCTD
+
+(Ban hành theo Thông tư số
+
+27/2021/TT-NHNN ngày 31/12/2021)
+
+Đối với số lãi phải thu của khoản nợ có số dư nợ gốc và/hoặc lãi được cơ cấu lại thời hạn trả nợ và giữ nguyên nhóm nợ đủ tiêu chuẩn (nhóm 1) theo quy định tại Thông tư 02/2023, kể từ ngày được cơ cấu lại, Ngân hàng không hạch toán thu nhập (dự thu) mà thực hiện theo dõi ngoại bảng để đôn đốc thu. Thu nhập lãi của các khoản nợ này được ghi nhận vào báo cáo kết quả hoạt động khi thu được.
+
+4.5 Trích lập dự phòng đối với khách hàng có số dư nợ và/hoặc lãi được cơ cấu lại thời hạn trả nợ theo quy định tại Thông tư 02/2023
+
+Từ ngày 24 tháng 4 năm 2023, Ngân hàng thực hiện trích lập dự phòng đối với khách hàng có số dư nợ được cơ cấu lại thời hạn trả nợ theo quy định tại Thông tư 02/2023 như sau:
+
+Dự phòng cụ thể
+
+Số tiền dự phòng cụ thể phải trích bổ sung theo công thức sau:
+
+Số tiền dự phòng cụ thể phải trích bổ sung = A - B
+
+Trong đó:
+
+- A: Số tiền dự phòng cụ thể phải trích đối với toàn bộ dư nợ của khách hàng theo kết quả phân loại nợ theo Thông tư 11.
+
+- B: Số tiền dự phòng cụ thể đối với toàn bộ dư nợ của khách hàng theo kết quả phân loại nợ theo Thông tư 02/2023.
+
+Trường hợp số tiền dự phòng cụ thể phải trích bổ sung được xác định theo công thức nếu trên là dương, Ngân hàng thực hiện trích bổ sung dự phòng cụ thể như sau:
+
+- Đến thời điểm ngày 31.12.2023: Tối thiểu 50% số tiền dự phòng cụ thể phải trích bổ sung;
+
+- Đến thời điểm ngày 31.12.2024: 100% số tiền dự phòng cụ thể phải trích bổ sung.
+
+Dự phòng chung
+
+Ngân hàng thực hiện trích lập dự phòng chung đối với toàn bộ dư nợ của khách hàng theo kết quả phân loại nợ được xác định theo Thông tư 11.
+
+4.6 Kế toán hoạt động mua nợ
+
+Các khoản nợ mua về được ghi nhận theo số tiền đã thanh toán để mua nợ và được phân loại vào nhóm có mức độ rủi ro không thấp hơn nhóm mà khoản nợ đó đã được phân loại trước khi mua. Nếu thu được tiền lãi của khoản nợ bao gồm cả tiền lãi từ trước khi Ngân hàng mua khoản nợ đó, Ngân hàng phải phân bổ số tiền lãi theo nguyên tắc: (i) ghi giảm giá trị của khoản mua nợ số tiền lãi trước khi mua; (ii) ghi nhận là thu nhập số tiền lãi của kỳ sau khi Ngân hàng mua nợ.
+
+Ngân hàng thực hiện phân loại nợ và trích lập dự phòng rủi ro các khoản mua nợ theo quy định của pháp luật về trích lập và sử dụng dự phòng để xử lý rủi ro.
+
+22
+
+===== PAGE 25 =====
+Ngân hàng TMCP Phát triển Thành phố Hồ Chí Minh
+
+THUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG
+
+Cho giai đoạn từ ngày 01.01.2023 đến ngày 31.12.2023
+
+Mẫu số B05a/TCTD
+
+(Ban hành theo Thông tư số
+
+27/2021/TT-NHNN ngày 31/12/2021)
+
+5. Kế toán các nghiệp vụ kinh doanh và đầu tư chứng khoán
+
+5.1 Chứng khoán kinh doanh
+
+Phân loại và ghi nhận
+
+Chứng khoán kinh doanh bao gồm chứng khoán nợ được mua với mục đích kinh doanh. Chứng khoán kinh doanh được ghi nhận ban đầu theo giá gốc vào ngày Ngân hàng có quyền sở hữu chứng khoán.
+
+Đo lường
+
+Chứng khoán nợ kinh doanh niêm yết được ghi nhận theo giá gốc trừ đi dự phòng giảm giá. Dự phòng giảm giá chứng khoán kinh doanh được lập khi giá trị ghi sổ cao hơn giá trị thị trường, được xác định là giá giao dịch gần nhất tại Sở Giao dịch chứng khoán trong vòng 10 ngày tính đến ngày kết thúc kỳ kế toán. Chênh lệch giữa khoản dự phòng giảm giá lập ở cuối kỳ kế toán này và khoản dự phòng giảm giá đã lập ở cuối năm tài chính trước được ghi nhận vào báo cáo kết quả hoạt động riêng trên khoản mục “Lãi thuần từ mua bán chứng khoán kinh doanh” trong kỳ. Ngân hàng không thực hiện trích lập dự phòng đối với trái phiếu Chính phủ, trái phiếu chính quyền địa phương và trái phiếu Chính phủ bảo lãnh.
+
+Chứng khoán nợ kinh doanh chưa niêm yết trên thị trường chứng khoán hoặc chưa đăng ký giao dịch trên thị trường giao dịch của các công ty đại chứng chưa niêm yết được ghi nhận theo giá gốc trừ đi dự phòng rủi ro tín dụng theo quy định của Thông tư 11. Theo quy định của Thông tư 11, Ngân hàng không trích lập dự phòng chung đối với trái phiếu và chứng chỉ tiền gửi do các TCTD khác phát hành.
+
+Dự phòng đối với chứng khoán kinh doanh được đề cập ở trên sẽ được hoàn nhập khi việc tăng lên sau đó của giá trị có thể thu hồi của chứng khoán kinh doanh là do sự kiện khách quan xảy ra sau khi khoản dự phòng được ghi nhận. Khoản dự phòng chỉ được hoàn nhập đến mức tối đa bằng giá trị ghi số của các chứng khoán kinh doanh này khi chưa lập dự phòng.
+
+Lãi hoặc lỗ từ việc bán chứng khoán kinh doanh được ghi nhận trên báo cáo kết quả hoạt động riêng trên khoản mục “Lãi thuần từ mua bán chứng khoán kinh doanh”. Giá vốn được xác định theo phương pháp thực tế đích danh.
+
+Tiền lãi bằng tiền thu được trong thời gian nằm giữ chứng khoán kinh doanh được ghi nhận vào báo cáo kết quả hoạt động riêng khi thực nhận.
+
+Dùng ghi nhận
+
+Chứng khoán kinh doanh được dùng ghi nhận khi các quyền lợi nhận các luồng tiền từ các chứng khoán này đã chấm dứt hoặc Ngân hàng đã chuyển phần lớn rủi ro và lợi ích của việc sở hữu các chứng khoán này.
+
+23
+
+===== PAGE 26 =====
+Ngân hàng TMCP Phát triển Thành phố Hồ Chí Minh
+
+THUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG
+
+Cho giai đoạn từ ngày 01.01.2023 đến ngày 31.12.2023
+
+Mẫu số B05a/TCTD
+
+(Ban hành theo Thông tư số
+
+27/2021/TT-NHNN ngày 31/12/2021)
+
+5.2 Chứng khoán đầu tư sẵn sàng để bán
+
+Phân loại và ghi nhận
+
+Chúng khoán đầu tư sẵn sàng để bán bao gồm các chứng khoán nợ và chứng khoán vốn được Ngân hàng nắm giữ với mục đích đầu tư và sẵn sàng để bán, không thuộc loại chứng khoán mua vào bán ra thường xuyên nhưng có thể bán bất cứ lúc nào xét thấy có lợi.
+
+Ngân hàng ghi nhận chứng khoán đầu tư sẵn sàng để bán vào ngày Ngân hàng nhận chuyển giao phần lớn rủi ro và lợi ích từ việc sở hữu các chứng khoán này
+
+Đo lường
+
+Chứng khoán đầu tư sẵn sàng để bán niêm yết được ghi nhận theo giá trị ghi sổ trừ đi dự phòng giảm giá. Dự phòng giảm giá chứng khoán đầu tư sẵn sàng để bán được lập dự phòng giảm giá khi giá trị ghi sổ cao hơn giá thị trường.
+
+Đối với chứng khoán vốn đã niêm yết, giá chứng khoán vốn trên thị trường là giá đóng cửa tại ngày gần nhất có giao dịch tính đến ngày kết thúc kỳ kế toán.
+
+Đối với chứng khoán nợ đã niêm yết, đăng ký giao dịch, giá chứng khoán nợ trên thị trường là giá giao dịch gần nhất tại Sở Giao dịch chứng khoán trong vòng 10 ngày tính đến ngày kết thúc kỳ kế toán.
+
+Chênh lệch giữa khoản dự phòng giảm giá lập ở cuối kỳ kế toán này và khoản dự phòng đã lập ở cuối năm tài chính trước được ghi nhận vào báo cáo kết quả hoạt động riêng trên khoản mục “Lãi thuần từ mua bán chứng khoán đầu tư” trong kỳ.
+
+Ngân hàng không thực hiện trích lập dự phòng đối với trái phiếu Chính phủ, trái phiếu chính quyền địa phương và trái phiếu Chính phủ bảo lãnh.
+
+Chứng khoán nợ được ghi nhận ban đầu theo mệnh giá vào ngày giao dịch. Lãi dồn tích của chứng khoán trước khi mua (đối với chứng khoán nợ trả lãi sau) hoặc lãi nhận trước chờ phân bổ (đối với chứng khoán nợ trả lãi trước) được phản ánh trên một tài khoản riêng. Phần chiết khấu/phụ trội là chênh lệch âm/duong giữa giá gốc với giá trị của khoản tiền gồm mệnh giá cộng (+) lãi dồn tích trước khi mua (nếu có) hoặc trừ (-) lãi nhận trước chờ phân bổ (nếu có), cũng được phản ánh trên một tài khoản riêng.
+
+Trong khoảng thời gian nằm giữ chứng khoán tiếp theo, các chứng khoán nợ được ghi nhận theo mệnh giá và giá trị chiết khấu/phụ trội (nếu có) của chứng khoán nợ được phân bổ vào báo cáo kết quả hoạt động riêng theo phương pháp đường thẳng trong suốt thời gian còn lại ước tính của chứng khoán.
+
+Số tiền lãi đồn tích trước khi mua được ghi giảm giá trị của tài khoản lãi dự thu khi nhận được. Lãi sau thời điểm mua được ghi nhận vào thu nhập của Ngân hàng trên cơ sở đồn tích.
+
+Số tiền lãi nhận trước được hạch toán phân bổ vào thu lãi đầu tư chứng khoán theo phương pháp đường thẳng cho khoảng thời gian đầu tư chứng khoán.
+
+Chứng khoán nợ chưa niêm yết trên thị trường chứng khoán hoặc chưa đăng ký giao dịch trên thị trường giao dịch của các công ty đại chứng chưa niêm yết được ghi nhận theo giá gốc trừ đi dự phòng rủi ro tín dụng theo quy định của Thông tư 11. Theo quy định của Thông tư 11, Ngân hàng không trích lập dự phòng chung đối với trái phiếu và chứng chỉ tiền gửi do các TCTD khác phát hành.
+
+24
+
+===== PAGE 27 =====
+Ngân hàng TMCP Phát triển Thành phố Hồ Chí Minh
+
+THUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG
+
+Cho giai đoạn từ ngày 01.01.2023 đến ngày 31.12.2023
+
+Mẫu số B05a/TCTD
+
+(Ban hành theo Thông tư số
+
+27/2021/TT-NHNN ngày 31/12/2021)
+
+Dự phòng đối với chứng khoán đầu tư được đề cập ở trên sẽ được hoàn nhập khi việc tăng lên sau đó của giá trị có thể thu hồi của chứng khoán đầu tư là do sự kiện khách quan xảy ra sau khi khoản dự phòng được ghi nhận. Khoản dự phòng chỉ được hoàn nhập đến mức tối đa bằng giá trị ghi sổ của các chứng khoán đầu tư này khi chưa lập dự phòng.
+
+Lãi hoặc lỗ từ việc bán chứng khoán đầu tư sẵn sàng để bán được ghi nhận trên báo cáo kết quả hoạt động riêng trên khoản mục “Lãi thuần từ mua bán chứng khoán đầu tư”. Giá vốn được xác định theo phương pháp thực tế đích danh.
+
+Dùng ghi nhận
+
+Chứng khoán đầu tư sẵn sàng để bán được dùng ghi nhận khi các quyền lợi nhận các luồng tiền từ các chứng khoán này đã chấm dứt hoặc Ngân hàng đã chuyển phần lớn rủi ro và lợi ích của việc sở hữu các chứng khoán này.
+
+5.3 Chứng khoán đầu tư giữ đến ngày đáo hạn
+
+Chứng khoán giữ đến ngày đáo hạn là các chứng khoán nợ được Ngân hàng mua hằng với mục đích đầu tư để hướng lãi và Ngân hàng có ý định và có khả năng giữ các chứng khoán này đến ngày đáo hạn. Chứng khoán giữ đến ngày đáo hạn có giá trị xác định và có ngày đáo hạn cụ thể. Theo Công văn số 2601/NHNN-TCKT do NHNN ban hành ngày 14 tháng 4 năm 2009, Ngân hàng được phép phân loại lại tối đa một lần sau khi mua đối với chứng khoán đầu tư giữ đến ngày đáo hạn.
+
+Chứng khoán nợ giữ đến ngày đáo hạn được ghi nhận và đo lường tương tự như chứng khoán nợ sẵn sàng để bán được trình bày tại thuyết minh 5.2
+
+5.4 Mua lại trái phiếu doanh nghiệp chưa niêm yết
+
+NHNN ban hành Thông tư số 03/2023/TT-NHNN có hiệu lực từ ngày 24 tháng 4 năm 2023 quy định ngưng hiệu lực thi hành khoản 11 Điều 4 Thông tư số 16/2021/TT-NHNN do NHNN ban hành hiệu lực từ ngày 15 tháng 1 năm 2022 quy định việc TCTD, chi nhánh ngân hàng nước ngoài mua, bán trái phiếu doanh nghiệp (“TPDN”). Theo đó, trong thời gian ngưng hiệu lực, từ ngày 24 tháng 4 năm 2023 đến hết ngày 31 tháng 12 năm 2023, Ngân hàng được mua lại TPDN chưa niêm yết trên thị trường chứng khoán hoặc chưa đăng ký giao dịch trên hệ thống giao dịch Upcom mà Ngân hàng đã bán và/hoặc TPDN chưa niêm yết được phát hành cùng lô/cùng đợt phát hành với TPDN chưa niêm yết mà Ngân hàng đã bán khi:
+
+- Đáp ứng các quy định về nguyên tắc mua, bán trái phiếu doanh nghiệp tại Điều 4 Thông tư 16/2021/TT-NHNN;
+
+- Bên mua TPDN này từ Ngân hàng thanh toán toàn bộ số tiền mua TPDN tại thời điểm Ngân hàng ký kết hợp đồng bán TPDN cho bên mua trái phiếu;
+
+- Doanh nghiệp phát hành trái phiếu được xếp hạng ở mức cao nhất theo quy định xếp hạng tín dụng nội bộ của Ngân hàng tại thời điểm gần nhất trước khi Ngân hàng mua TPDN.
+
+6. Tiền và các khoản tương đương tiền
+
+Trên báo cáo lưu chuyển tiền tệ riêng, tiền và các khoản tương đương tiền bao gồm tiền mặt, vàng, tiền gửi thanh toán tại NHNN, tiền gửi tại các TCTD khác không kỳ hạn và có kỳ hạn gốc không quá 03 (ba) tháng.
+
+25
+
+===== PAGE 28 =====
+Ngân hàng TMCP Phát triển Thành phố Hồ Chí Minh
+
+THUYÊT MINH BÁO CÁO TÀI CHÍNH RIÊNG
+
+Cho giai đoạn từ ngày 01.01.2023 đến ngày 31.12.2023
+
+Mẫu số B05a/TCTD
+
+(Ban hành theo Thông tư số
+
+27/2021/TT-NHNN ngày 31/12/2021)
+
+7. Dự phòng, công nợ tiềm ăn và tài sản chưa xác định
+
+Cam kết ngoại bảng bao gồm các khoản bảo lãnh, chấp nhận thanh toán, và các cam kết cho vay không hủy ngang và các cam kết khác phát sinh rủi ro tín dụng.
+
+Phân loại các khoản cam kết ngoại bảng
+
+Việc phân loại cam kết ngoại bảng được thực hiện theo Thông tư 11.
+
+Theo Thông tư 11, Ngân hàng phân loại các cam kết ngoại bảng căn cứ vào tình hình trả nợ và các yếu tố định tính như sau:
+
+Nhóm 1: Cam kết đủ tiêu chuẩn
+
+- Các cam kết còn trong hạn mà Ngân hàng đánh giá khách hàng có khả năng thực hiện đầy đủ các nghĩa vụ theo cam kết.
+
+Nhóm 2: Cam kết cần chú ý
+
+- Các cam kết còn trong hạn mà Ngân hàng đánh giá là khách hàng không có khả năng thực hiện các nghĩa vụ cam kết khi đến hạn.
+
+Các khoản cam kết được phân loại vào Nhóm 3 hoặc các nhóm có rủi ro cao hơn khi chúng thuộc một trong những trường hợp sau:
+
+- Các cam kết vi phạm các quy định của pháp luật về cấp tín dụng, quản lý ngoại hối và các tỷ lệ bảo đảm an toàn đối với các TCTD và chi nhánh ngân hàng nước ngoài;
+
+- Các cam kết vi phạm các quy định nội bộ về cấp tín dụng, quản lý cam kết, chính sách dự phòng rủi ro của các TCTD và chỉ nhánh ngân hàng nước ngoài;
+
+- Các cam kết có giá trị vượt quá các giới hạn cấp tín dụng, trừ trường hợp được phép vượt giới hạn, theo quy định của pháp luật.
+
+Dự phòng rủi ro các cam kết ngoại hàng
+
+Theo Thông tư 11, các cam kết ngoại bảng chỉ được phân loại nợ để quản lý, giám sát chất lượng tín dụng. Do đó không cần thực hiện trích lập dự phòng rủi ro.
+
+8. Nguyên tắc và phương pháp ghi nhận thuế thu nhập doanh nghiệp và chi phí thuế thu nhập doanh nghiệp
+
+Thuế TNDN bao gồm toàn bộ số thuế TNDN tính trên thu nhập chịu thuế TNDN. Chi phí thuế TNDN bao gồm chi phí thuế TNDN hiện hành và chi phí thuế TNDN hoãn lại.
+
+Thuế TNDN hiện hành là số thuế TNDN phải nộp hoặc thu hồi được tính trên thu nhập chịu thuế và thuế suất thuế TNDN của kỳ kế toán hiện hành. Thuế TNDN hiện hành và thuế TNDN hoãn lại được ghi nhận là thu nhập hay chỉ phí khi xác định lợi nhuận hoặc lỗ của kỳ kế toán phát sinh, ngoại trừ trường hợp thuế TNDN phát sinh từ một giao dịch hoặc sự kiện được ghi nhận trực tiếp vào vốn chủ sở hữu trong cùng kỳ kế toán hay một kỳ kế toán khác.
+
+Thuế TNDN hoãn lại sử dụng phương thức công nợ được tính đầy đủ, dựa trên các khoản chênh lệch tạm thời giữa giá trị ghi sổ của các khoản mục tài sản và nợ phải trả trên báo cáo tài chính riêng và cơ sở tính thuế TNDN của các khoản mục này. Thuế TNDN hoãn lại không được ghi nhận khi nợ thuế TNDN hoãn lại phải trả phát sinh từ ghi nhận ban đầu của một tài sản hay nợ phải trả của một giao dịch mà giao dịch này không phải là giao dịch sáp nhập doanh nghiệp, không có ảnh hưởng đến lợi nhuận kế toán hoặc lợi nhuận/lỗ tính thuế thu nhập tại thời điểm phát sinh giao dịch. Thuế TNDN hoãn lại được tính theo thuế suất dự tính được áp dụng trong kỳ mà tài sản được thu hồi
+
+26
+
+===== PAGE 29 =====
+Ngân hàng TMCP Phát triển Thành phố Hồ Chí Minh
+
+THUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG
+
+Cho giai đoạn từ ngày 01.01.2023 đến ngày 31.12.2023
+
+Mẫu số B05a/TCTD
+
+(Ban hành theo Thông tư số
+
+27/2021/TT-NHNN ngày 31/12/2021)
+
+hoặc khoản nợ phải trả được thanh toán dựa trên thuế suất đã ban hành hoặc xem như có hiệu lực tại ngày của báo cáo tình hình tài chính riêng.
+
+Tài sản thuế TNDN hoãn lại được ghi nhận khi có khả năng sẽ có lợi nhuận tính thuế TNDN trong tương lai để sử dụng những chênh lệch tạm thời được khấu trừ.
+
+9. Kế toán các khoản vốn vay, phát hành chứng khoán nợ, công cụ vốn
+
+Các khoản nợ NHNN VN, tiền vay các TCTD khác, phát hành giấy tờ có giá được công bố và trình bày theo số dư gốc tại thời điểm cuối kỳ. Tại thời điểm ghi nhận ban đầu, chi phí phát hành giấy tờ có giá được ghi giảm số dư gốc của giấy tờ có giá. Ngân hàng thực hiện phân bổ dần các chi phí này vào “Chi phí lãi và các chi phí tương tự” theo phương pháp đường thẳng phù hợp với kỳ hạn cuà giấy tờ có giá.
+
+10. Vốn chủ sở hữu
+
+Vốn góp của chủ sở hữu được ghi nhận theo số thực tế góp của các cổ đông và được phản ánh theo mệnh giá của cổ phiếu.
+
+Thăng dư vốn cổ phần: là khoản chênh lệch giữa vốn góp theo mênh giá cổ phiếu với giá thực tế phát hành cổ phiếu; chênh lệch giữa giá mua lại cổ phiếu quỹ và giá tái phát hành cổ phiếu quỹ.
+
+Vốn khác của chủ sở hữu phân ánh giá trị các khoản vốn khác năm giữ bởi chủ sở hữu tại thời điểm báo cáo.
+
+Cô phiếu quỹ
+
+Cổ phiếu quỹ mua trước ngày hiệu lực của Luật Chứng khoán (ngày 1 tháng 1 năm 2021) nhưng chưa bị hủy bò, được bán đi hoặc tái phát hành lại sau đó, số tiền nhận được sẽ được ghi nhận là khoản tăng vốn chủ sở hữu và các khoản thăng dư hoặc thâm hụt từ các giao dịch được ghi nhận vào/từ thăng dư vốn cổ phần.
+
+Các cổ phiếu quỹ mua sau ngày hiệu lực của Luật Chứng khoán (ngày 1 tháng 1 năm 2021) sẽ được hủy bỏ và điều chỉnh giảm vốn chủ sở hữu.
+
+Lợi nhuận chưa phân phối
+
+Lợi nhuận chưa phân phối phân ánh kết quả kinh doanh lãi sau thuế TNDN của Ngân hàng tại thời điểm báo cáo.
+
+Các quỹ dự trữ bắt buộc
+
+Theo Nghị định số 93/2017/NĐ-CP do Chính phủ Việt Nam ban hành ngày 7 tháng 8 năm 2017. Ngân hàng phải trích lập các quỹ như sau trước khi phân phối lợi nhuận:
+
+<table><tr><td></td><td>Tỷ lệ trích lập hàng năm</td><td>Số dư tối đa</td></tr><tr><td>Quỹ dự trữ bổ sung vốn điều lệ</td><td>5% lợi nhuận sau thuế</td><td>Vốn điều lệ</td></tr><tr><td>Quỹ dự phòng tài chính</td><td>10% lợi nhuận sau thuế</td><td>Không quy định mức tối đa</td></tr></table>
+
+Quỹ dự phòng tài chính dùng để bù đáp phần còn lại của những tổn thất, thiết hại về tài sản xảy ra trong quá trình kinh doanh sau khi đã được bù đáp bằng tiền bồi thường của các tổ chức, cá nhân gây ra tổn thất, của tổ chức bảo hiểm và sử dụng dự phòng trích lập trong chỉ phí; sử dụng cho các mục đích khác theo quy định của pháp luật.
+
+27
+
+===== PAGE 30 =====
+Ngân hàng TMCP Phát triển Thành phố Hồ Chí Minh
+
+THUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG
+
+Cho giai đoạn từ ngày 01.01.2023 đến ngày 31.12.2023
+
+Mẫu số B05a/TCTD
+
+(Ban hành theo Thông tư số
+
+27/2021/TT-NHNN ngày 31/12/2021)
+
+Các quỹ khác thuộc nguồn vốn chủ sở hữu được phân bổ từ lợi nhuận sau thuế. Việc phân bổ từ lợi nhuận sau thuế và việc sử dụng các quỹ khác phải được Đại Hội đồng Cổ đông phê duyệt. Các quỹ này không được quy định bởi luật pháp và được phép phân phối hết.
+
+Phân chia lợi nhuận
+
+Cổ tức của Ngân hàng được ghi nhận là một khoản phải trả trong báo cáo tình hình tài chính riêng của kỳ kế toán mà cổ tức được thông qua tại Đại hội đồng Cổ đông.
+
+Lợi nhuận sau thuế TNDN có thể được chia cho các cổ đông sau khi được Đại hội đồng Cổ đông phê duyệt và sau khi đã trích lập các quỹ dự phòng theo điều lệ của Ngân hàng và các quy định của pháp luật Việt Nam.
+
+11. Các điều chỉnh số liệu kế toán kỳ trước: không có
+
+28
+
+===== PAGE 31 =====
+Ngân hàng TMCP Phát triển Thành phố Hồ Chí Minh
+
+THUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG
+
+Cho giai đoạn từ ngày 01.01.2023 đến ngày 31.12.2023
+
+Mẫu số B05a/TCTD
+
+(Ban hành theo Thông tư số
+
+27/2021/T.T- NHNN ngày 31/12/2021)
+
+V. THÔNG TIN BỔ SUNG CHO CÁC KHOẢN MỤC TRÌNH BÀY TRONG BẢO CẢO TÌNH HÌNH TÀI CHÍNH
+
+1. Chứng khoán kinh doanh
+
+<table><tr><td></td><td>Ngày 31 tháng12 năm 2023Triệu đồng</td><td>Ngày 31 tháng12 năm 2022Triệu đồng</td></tr><tr><td colspan="3">1.1. Chứng khoán Nợ</td></tr><tr><td>- Chứng khoán Chính phủ, Chính quyền địa phương</td><td>-</td><td>-</td></tr><tr><td>- Chứng khoán do các TCTD khác trong nước phát hành</td><td>18.580.932</td><td>1.797.822</td></tr><tr><td>- Chứng khoán do các TCKT trong nước phát hành</td><td>-</td><td>-</td></tr><tr><td>- Chứng khoán nợ nước ngoài</td><td>-</td><td>-</td></tr><tr><td>Tổng</td><td>18.580.932</td><td>1.797.822</td></tr><tr><td>1.2. Chứng khoán Vốn</td><td></td><td>-</td></tr><tr><td>- Chứng khoán do các TCTD khác trong nước phát hành</td><td>-</td><td>-</td></tr><tr><td>- Chứng khoán do các TCKT trong nước phát hành</td><td>-</td><td>-</td></tr><tr><td>- Chứng khoán vốn nước ngoài</td><td>-</td><td>-</td></tr><tr><td>1.3. Chứng khoán kinh doanh khác</td><td>-</td><td>-</td></tr><tr><td colspan="3">1.4 Phân tích chất lượng dư nợ chứng khoán kinh doanh được phân loại là tài sản có rủi ro tín dụng</td></tr><tr><td>- Nợ đủ tiêu chuẩn</td><td>18.580.932</td><td>1.797.822</td></tr><tr><td>- Nợ cần chú ý</td><td>-</td><td>-</td></tr><tr><td>- Nợ dưới tiêu chuẩn</td><td>-</td><td>-</td></tr><tr><td>- Nợ nghi ngờ</td><td>-</td><td>-</td></tr><tr><td>- Nợ có khả năng mất vốn</td><td>-</td><td>-</td></tr><tr><td>Tổng</td><td>18.580.932</td><td>1.797.822</td></tr><tr><td>1.5. Dự phòng rủi ro chứng khoán kinh doanh</td><td></td><td>-</td></tr><tr><td>Trong đó: - Dự phòng giảm giá</td><td>-</td><td>-</td></tr><tr><td>- Dự phòng chung</td><td>-</td><td>-</td></tr><tr><td>- Dự phòng cụ thể</td><td>-</td><td>-</td></tr><tr><td colspan="3">1.6 Thuyết minh về tình trạng niêm yết của các chứng khoán kinh doanh</td></tr><tr><td colspan="3">Chứng khoán Nợ:</td></tr><tr><td>+ Đã niêm yết</td><td rowspan="2">18.580.932</td><td rowspan="2">1.797.822</td></tr><tr><td>+ Chưa niêm yết</td></tr><tr><td colspan="3">Chứng khoán Vốn:</td></tr><tr><td>+ Đã niêm yết</td><td>-</td><td>-</td></tr><tr><td>+ Chưa niêm yết</td><td>-</td><td>-</td></tr><tr><td colspan="3">Chứng khoán kinh doanh khác:</td></tr><tr><td>+ Đã niêm yết</td><td>-</td><td>-</td></tr><tr><td>+ Chưa niêm yết</td><td>-</td><td>-</td></tr></table>
+
+29
+
+===== PAGE 32 =====
+Ngân hàng TMCP Phát triển Thành phố Hồ Chí Minh
+
+THUYÊT MINH BÁO CÁO TÀI CHÍNH RIÊNG
+
+Cho giai đoạn từ ngày 01.01.2023 đến ngày 31.12.2023
+
+Mẫu số B05a/TCTD
+
+(Ban hành theo Thông tư số
+
+27/2021/TT-NHNN ngày 31/12/2021)
+
+2. Các công cụ tài chính phải sinh và các tài sản/khoản nợ tài chính khác
+
+<table><tr><td rowspan="2"></td><td rowspan="2">Tổng giá trị của hợp đồng (theo tỷ giá ngày hiệu lực hợp đồng)Triệu đồng</td><td colspan="2">Giá trị ghi số kế toán ròng (theo tỷ giá tại ngày lập báo cáo)</td></tr><tr><td>Tài sảnTriệu đồng</td><td>Công nợTriệu đồng</td></tr><tr><td colspan="4">Tại ngày 31 tháng 12 năm 2023</td></tr><tr><td colspan="4">Công cụ tài chính phải sinh tiền tệ</td></tr><tr><td>Giao dịch kỳ hạn tiền tệ</td><td>5.400.768</td><td>12.816</td><td>-</td></tr><tr><td>Giao dịch hoán đổi tiền tệ</td><td>113.556.125</td><td>39.073</td><td>-</td></tr><tr><td colspan="4">Công cụ tài chính phải sinh khác</td></tr><tr><td>Giao dịch hoán đổi lãi suất tiền tệ chéo</td><td>972.630</td><td>1.370</td><td></td></tr><tr><td>Tổng cộng</td><td>119.929.523</td><td>53.259</td><td>-</td></tr><tr><td>Số thuần</td><td></td><td>53.259</td><td>-</td></tr><tr><td colspan="4">Tại ngày 31 tháng 12 năm 2022</td></tr><tr><td colspan="4">Công cụ tài chính phải sinh tiền tệ</td></tr><tr><td>Giao dịch kỳ hạn tiền tệ</td><td>2.227.206</td><td>9.999</td><td>-</td></tr><tr><td>Giao dịch hoán đổi tiền tệ</td><td>29.306.250</td><td>-</td><td>174.659</td></tr><tr><td colspan="4">Công cụ tài chính phải sinh khác</td></tr><tr><td>Giao dịch hoán đổi lãi suất</td><td>-</td><td>-</td><td></td></tr><tr><td>Tổng cộng</td><td>31.533.456</td><td>9.999</td><td>174.659</td></tr><tr><td>Số thuần</td><td></td><td></td><td>164.660</td></tr></table>
+
+3. Cho vay khách hàng
+
+<table><tr><td></td><td>Ngày 31 tháng 12năm 2023Triệu đồng</td><td>Ngày 31 tháng 12năm 2022Triệu đồng</td></tr><tr><td rowspan="2">Cho vay các tổ chức kinh tế, cá nhân trong nước Cho vay chiết khấu công cụ chuyển nhượng và các giấy tờ có giá</td><td>319.281.058</td><td>239.472.685</td></tr><tr><td>197.563</td><td>437.518</td></tr><tr><td>Cho vay bằng vốn tài trợ, ủy thác đầu tư</td><td>2.673.694</td><td>2.407.558</td></tr><tr><td>Cho vay thấu chi và thẻ tín dụng</td><td>5.163.231</td><td>4.698.142</td></tr><tr><td>Cho vay các tổ chức kinh tế, cá nhân nước ngoài</td><td>-</td><td>200</td></tr><tr><td>Các khoản trả thay khách hàng</td><td>2.277</td><td>1.452</td></tr><tr><td>Tổng</td><td>327.317.823</td><td>247.017.555</td></tr></table>
+
+30
+
+===== PAGE 33 =====
+Ngân hàng TMCP Phát triển Thành phố Hồ Chí Minh
+
+<table><tr><td colspan="2">THUYẾT MINH BẢO CẢO TÀI CHÍNH RIÊNGCho giai đoạn từ ngày 01.01.2023 đến ngày 31.12.2023</td><td>Mẫu số B05a/TCTD(Ban hành theo Thông tư số27/2021/TT- NHNN ngày 31/12/2021)</td></tr><tr><td colspan="3">Phân tích chất lượng nợ cho vay</td></tr><tr><td></td><td>Ngày 31 tháng 12năm 2023Triệu đồng</td><td>Ngày 31 tháng 12năm 2022Triệu đồng</td></tr><tr><td>Nợ đủ tiêu chuẩn</td><td>305.849.036</td><td>238.071.429</td></tr><tr><td>Nợ cần chú ý</td><td>16.533.505</td><td>5.738.746</td></tr><tr><td>Nợ dưới tiêu chuẩn</td><td>1.742.727</td><td>1.154.022</td></tr><tr><td>Nợ nghi ngờ</td><td>1.575.949</td><td>977.658</td></tr><tr><td>Nợ có khả năng mất vốn</td><td>1.616.606</td><td>1.075.700</td></tr><tr><td>Tổng</td><td>327.317.823</td><td>247.017.555</td></tr><tr><td colspan="3">Phân tích dư nợ theo thời gian cho vay</td></tr><tr><td></td><td>Ngày 31 tháng 12năm 2023Triệu đồng</td><td>Ngày 31 tháng 12năm 2022Triệu đồng</td></tr><tr><td>Nợ ngắn hạn</td><td>176.984.869</td><td>165.508.135</td></tr><tr><td>Nợ trung hạn</td><td>83.650.520</td><td>16.193.779</td></tr><tr><td>Nợ dài hạn</td><td>66.682.434</td><td>65.315.641</td></tr><tr><td>Tổng</td><td>327.317.823</td><td>247.017.555</td></tr><tr><td colspan="3">Theo đối tượng khách hàng</td></tr><tr><td></td><td>Ngày 31 tháng 12năm 2023Triệu đồng</td><td>Ngày 31 tháng 12năm 2022Triệu đồng</td></tr><tr><td>Hộ kinh doanh và cá nhân</td><td>133.849.132</td><td>120.840.606</td></tr><tr><td>Công ty trách nhiệm hữu hạn (“TNHH”) khác</td><td>105.980.794</td><td>68.408.284</td></tr><tr><td>Công ty cổ phần khác</td><td>81.177.458</td><td>53.577.740</td></tr><tr><td>Doanh nghiệp Nhà nước</td><td>2.802.782</td><td>2.682.397</td></tr><tr><td>Doanh nghiệp có vốn đầu tư nước ngoài</td><td>3.402.200</td><td>1.408.969</td></tr><tr><td>Hợp tác xã và liên hiệp hợp tác xã</td><td>50.808</td><td>43.686</td></tr><tr><td>Doanh nghiệp tư nhân</td><td>2.139</td><td>27.720</td></tr><tr><td>Các đối tượng khác</td><td>52.510</td><td>28.153</td></tr><tr><td></td><td>327.317.823</td><td>247.017.555</td></tr></table>
+
+31
+
+===== PAGE 34 =====
+Ngân hàng TMCP Phát triển Thành phố Hồ Chí Minh
+
+THUYẾT MINH BẢO CÁO TÀI CHÍNH RIÊNG
+
+Cho giai đoạn từ ngày 01.01.2023 đến ngày 31.12.2023
+
+Mẫu số B05a/TCTD
+
+(Ban hành theo Thông tư số
+
+27/2021/TT-NHNN ngày 31/12/2021)
+
+Theo lĩnh vực kinh doanh
+
+<table><tr><td></td><td>Ngày 31 tháng 12năm 2023Triệu đồng</td><td>Ngày 31 tháng 12năm 2022Triệu đồng</td></tr><tr><td>Hoạt động làm thuê các công việc trong các hộ gia đình, sản xuất sản phẩm vật chất và dịch vụ tự tiêu dùng của hộ gia đình</td><td>92.884.234</td><td>78.591.430</td></tr><tr><td>Nông nghiệp, lâm nghiệp và thủy sản</td><td>14.278.085</td><td>26.016.502</td></tr><tr><td>Sản xuất và gia công, chế biến</td><td>11.589.764</td><td>29.121.078</td></tr><tr><td>Hoạt động kinh doanh bất động sản</td><td>58.484.028</td><td>20.969.929</td></tr><tr><td>Xây dựng</td><td>24.521.581</td><td>16.842.962</td></tr><tr><td>Sản xuất và phân phối điện, khí đốt, nước nóng, hơi nước và điều hòa không khí</td><td>10.020.098</td><td>15.443.604</td></tr><tr><td>Bán buôn và bán lẻ; sửa chữa ô tô, mô tô, xe máy và động cơ khác</td><td>46.004.035</td><td>12.185.185</td></tr><tr><td>Dịch vụ lưu trú và ăn uống</td><td>3.980.434</td><td>5.101.910</td></tr><tr><td>Vận tải, kho bãi</td><td>5.394.191</td><td>4.320.943</td></tr><tr><td>Hoạt động tài chính, ngân hàng và bảo hiểm</td><td>13.038.626</td><td>3.245.148</td></tr><tr><td>Khác</td><td>47.122.747</td><td>35.178.864</td></tr><tr><td></td><td>327.317.823</td><td>247.017.555</td></tr></table>
+
+4 Sự thay đổi của dự phòng rủi ro tín dụng đối với dư nợ cho vay khách hàng
+
+Thay đổi dự phòng rủi ro cho vay khách hàng trong kỳ này như sau:
+
+<table><tr><td></td><td>Dự phòng cụ thểTriệu đồng</td><td>Dự phòng chungTriệu đồng</td><td>Tổng cộngTriệu đồng</td></tr><tr><td>Ngày 01 tháng 01 năm 2023</td><td>681.627</td><td>1.844.564</td><td>2.526.191</td></tr><tr><td>Dự phòng rủi ro trích lập trong kỳ/(Hoàn nhập dự phòng trong kỳ)</td><td>691.766</td><td>598.195</td><td>1.289.961</td></tr><tr><td>Sử dụng dự phòng rủi ro tín dụng trong kỳ</td><td>(282.645)</td><td>-</td><td>(282.645)</td></tr><tr><td>Ngày 31 tháng 12 năm 2023</td><td>1.090.748</td><td>2.442.759</td><td>3.533.507</td></tr></table>
+
+32
+
+===== PAGE 35 =====
+Ngân hàng TMCP Phát triển Thành phố Hồ Chí Minh
+
+THUYẾT MINH BẢO CÁO TÀI CHÍNH RIÊNG
+
+Cho giai đoạn từ ngày 01.01.2023 đến ngày 31.12.2023
+
+Mẫu số B05a/TCTD
+
+(Ban hành theo Thông tử số
+
+27/2021/TT-NHNN ngày 31/12/2021)
+
+Thay đổi dự phòng rủi ro cho vay khách hàng trong năm trước như sau:
+
+<table><tr><td></td><td>Dự phòngcụ thểTriệu đồng</td><td>Dự phòngchungTriệu đồng</td><td>Tổng cộngTriệu đồng</td></tr><tr><td>Ngày 01 tháng 01 năm 2022</td><td>533.240</td><td>1.417.209</td><td>1.950.449</td></tr><tr><td>Dự phòng rủi ro tríchl lập trong kỳ/(Hoàn nhập dự phòng trong kỳ)</td><td>210.546</td><td>427.355</td><td>637.901</td></tr><tr><td>Sử dụng dự phòng rủi ro tín dụng trong kỳ</td><td>(62.159)</td><td>-</td><td>(62.159)</td></tr><tr><td>Ngày 31 tháng 12 năm 2022</td><td>681.627</td><td>1.844.564</td><td>2.526.191</td></tr></table>
+
+5. Chứng khoán đầu tư
+
+5.1 Chứng khoán đầu tư sẵn sàng để bán
+
+<table><tr><td></td><td>Ngày 31 tháng 12năm 2023Triệu đồng</td><td>Ngày 31 tháng 12năm 2022Triệu đồng</td></tr><tr><td colspan="3">a. Chứng khoán Nợ</td></tr><tr><td>Chứng khoán Chính phủ, chính quyền địa phương</td><td>13.040.960</td><td>14.685.119</td></tr><tr><td>Chứng khoán Nợ do các TCTD kháctrong nước phát hành</td><td>10.190.526</td><td>15.375.189</td></tr><tr><td>Chứng khoán Nợ do các TCKT trong nướcphát hành</td><td>8.354.980</td><td>4.300.777</td></tr><tr><td>Chứng khoán Nợ nước ngoài</td><td>-</td><td>-</td></tr><tr><td></td><td>31.586.466</td><td>34.361.085</td></tr><tr><td colspan="3">b. Chứng khoán Vốn</td></tr><tr><td>Chứng khoán Vốn do các TCTD kháctrong nước phát hành</td><td>-</td><td>-</td></tr><tr><td>Chứng khoán Vốn do các TCKTtrong nước phát hành</td><td>285.222</td><td>1.013.973</td></tr><tr><td>Chứng khoán Vốn nước ngoài</td><td>285.222</td><td>1.013.973</td></tr><tr><td></td><td>31.871.688</td><td>35.375.058</td></tr><tr><td colspan="3">c. Dự phòng rủi ro chứng khoán sẵn sàng để bán</td></tr><tr><td>- Dự phòng giảm giá</td><td>-</td><td>-</td></tr><tr><td>- Dự phòng chung</td><td>(62.662)</td><td>(30.004)</td></tr><tr><td>- Dự phòng cụ thể</td><td>(9.000)</td><td>-</td></tr><tr><td></td><td>(71.662)</td><td>(30.004)</td></tr><tr><td>Giá trị thuần</td><td>31.800.026</td><td>35.345.054</td></tr></table>
+
+33
+
+===== PAGE 36 =====
+Ngân hàng TMCP Phát triển Thành phố Hồ Chí Minh
+
+THUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG
+
+Cho giai đoạn từ ngày 01.01.2023 đến ngày 31.12.2023
+
+Mẫu số B05a/TCTD
+
+(Ban hành theo Thông tư số
+
+27/2021/TT-NHNN ngày 31/12/2021)
+
+5.2 Chứng khoán đầu tư giữ đến ngày đáo hạn (không bao gồm trái phiếu đặc biệt do VAMC phát hành)
+
+<table><tr><td></td><td>Ngày 31 tháng 12năm 2023Triệu đồng</td><td>Ngày 31 tháng 12năm 2022Triệu đồng</td></tr><tr><td>Chứng khoán Chính phủ, chính quyền địa phương</td><td>4.285.409</td><td>12.294.130</td></tr><tr><td>Chứng khoán Nợ do các TCTD kháctrong nước phát hành</td><td>6.338.198</td><td>1.150.000</td></tr><tr><td>Chứng khoán Nợ do các TCKT trong nướcphát hành</td><td>1.681.266</td><td>-</td></tr><tr><td>Chứng khoán Nợ nước ngoài</td><td>12.304.873</td><td>13.444.130</td></tr><tr><td>Dự phòng rủi ro chứng khoán giữ đếninggày đáo hạn</td><td></td><td></td></tr><tr><td>- Dự phòng giảm giá</td><td>-</td><td>-</td></tr><tr><td>- Dự phòng chung</td><td>(12.610)</td><td>-</td></tr><tr><td>- Dự phòng cụ thể</td><td>-</td><td>-</td></tr><tr><td></td><td>(12.610)</td><td>-</td></tr><tr><td>Giá trị thuần</td><td>12.292.263</td><td>13.444.130</td></tr></table>
+
+6. Góp vốn, đầu tư dài hạn
+
+Phân tích giá trị đầu tư theo loại hình đầu tư
+
+<table><tr><td></td><td>Ngày 31 tháng 12năm 2023Triệu đồng</td><td>Ngày 31 tháng 12năm 2022Triệu đồng</td></tr><tr><td>Đầu tư vào công ty con (*)</td><td>1.214.688</td><td>1.214.688</td></tr><tr><td>Các khoản đầu tư vào công ty liên doanh</td><td>-</td><td>-</td></tr><tr><td>Các khoản đầu tư vào công ty liên kết</td><td>-</td><td>-</td></tr><tr><td>Các khoản đầu tư dài hạn khác</td><td>163.921</td><td>163.921</td></tr><tr><td>Dự phòng giảm giá đầu tư dài hạn</td><td>(20.140)</td><td>(19.898)</td></tr><tr><td>Tổng</td><td>1.358.469</td><td>1.358.711</td></tr></table>
+
+34
+
+===== PAGE 37 =====
+Ngân hàng TMCP Phát triển Thành phố Hồ Chí Minh
+
+THUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG
+
+Cho giai đoạn từ ngày 01.01.2023 đến ngày 31.12.2023
+
+Mẫu số B05a/TCTD
+
+(Ban hành theo Thông tư số
+
+27/2021/TT-NHNN ngày 31/12/2021)
+
+7. Các khoản nợ Chính phủ và Ngân hàng Nhà nước
+
+<table><tr><td></td><td>Ngày 31 tháng 12năm 2023Triệu đồng</td><td>Ngày 31 tháng12 năm 2022Triệu đồng</td></tr><tr><td>7.1. Vay NHNN</td><td>-</td><td>10.778.760</td></tr><tr><td>Vay theo hồ sơ tín dụng</td><td></td><td></td></tr><tr><td>Vay chiết khấu các giấy tờ có giá</td><td>-</td><td>10.778.760</td></tr><tr><td>Vay có bảo đảm bằng cầm cố giấy tờ có giá</td><td></td><td></td></tr><tr><td>Vay thanh toán bù trừ</td><td></td><td></td></tr><tr><td>Vay đặc biệt</td><td></td><td></td></tr><tr><td>Vay khác (bao gồm cả các khoản vay có thời hạn theo các mục tiêu Chính phủ chỉ định)</td><td></td><td></td></tr><tr><td>Nợ quá hạn</td><td></td><td></td></tr><tr><td>7.2. Tiền gửi của KBNN</td><td>2.104</td><td>88</td></tr><tr><td>Tiền gửi bằng đồng Việt Nam</td><td>2.104</td><td>88</td></tr><tr><td>Tiền gửi bằng ngoại tệ</td><td></td><td></td></tr><tr><td>7.3. Giao dịch bán và mua lại trái phiếu Chính phủ với Kho bạc Nhà nước</td><td>-</td><td>-</td></tr><tr><td>7.4. Các khoản nợ khác</td><td>24.486</td><td>42.410</td></tr><tr><td>Tổng</td><td>26.590</td><td>10.821.258</td></tr></table>
+
+8. Tiền gửi và vay các TCTD khác
+
+8.1 Tiền gửi của các TCTD khác
+
+<table><tr><td></td><td>Ngày 31 tháng 12năm 2023Triệu đồng</td><td>Ngày 31 tháng 12năm 2022Triệu đồng</td></tr><tr><td>Tiền gửi không kỳ hạn</td><td>9.207.238</td><td>8.417.885</td></tr><tr><td>Bằng VND</td><td>9.201.037</td><td>8.388.664</td></tr><tr><td>Bằng ngoại tệ</td><td>6.201</td><td>29.221</td></tr><tr><td>Tiền gửi có kỳ hạn</td><td>53.991.505</td><td>41.089.250</td></tr><tr><td>Bằng VND</td><td>50.800.000</td><td>38.627.000</td></tr><tr><td>Bằng ngoại tệ</td><td>3.191.505</td><td>2.462.250</td></tr><tr><td>Tổng</td><td>63.198.743</td><td>49.507.135</td></tr></table>
+
+35
+
+===== PAGE 38 =====
+Ngân hàng TMCP Phát triển Thành phố Hồ Chí Minh
+
+THUYÊT MINH BÁO CÁO TÀI CHÍNH RIÊNG
+
+Cho giai đoạn từ ngày 01.01.2023 đến ngày 31.12.2023
+
+Mẫu số B05a/TCTD
+
+(Ban hành theo Thông tư số
+
+27/2021/TT-NHNN ngày 31/12/2021)
+
+8.2 Vay các TCTD khác
+
+<table><tr><td></td><td>Ngày 31 tháng 12năm 2023Triệu đồng</td><td>Ngày 31 tháng 12năm 2022Triệu đồng</td></tr><tr><td>Bằng VND</td><td>15.453.491</td><td>22.647.212</td></tr><tr><td>Trong đó:- Vay chiết khấu, tái chiết khấu- Vay cầm cố, thế chấp</td><td>1.825.440</td><td>4.073.768</td></tr><tr><td>Bằng ngoại tệ</td><td>30.811.321</td><td>16.335.264</td></tr><tr><td>Trong đó:- Vay chiết khấu, tái chiết khấu- Vay cầm cố, thế chấp</td><td>1.213.500</td><td>1.172.500</td></tr><tr><td>Tổng</td><td>46.264.812</td><td>38.982.476</td></tr></table>
+
+9. Tiền gửi của khách hàng
+
+Thuyết minh theo loại hình tiền gửi
+
+<table><tr><td></td><td>Ngày 31 tháng 12năm 2023Triệu đồng</td><td>Ngày 31 tháng 12năm 2022Triệu đồng</td></tr><tr><td>Tiền gửi không kỳ hạn (“KKH”)</td><td>40.325.322</td><td>22.267.944</td></tr><tr><td>Tiền gửi KKH bằng VND</td><td>38.234.005</td><td>20.853.121</td></tr><tr><td>Tiền gửi KKH bằng ngoại tệ</td><td>2.091.317</td><td>1.414.823</td></tr><tr><td>Tiền gửi có kỳ hạn (“CKH”)</td><td>329.577.901</td><td>192.863.954</td></tr><tr><td>Tiền gửi CKH bằng VND</td><td>329.224.445</td><td>191.782.701</td></tr><tr><td>Tiền gửi CKH bằng ngoại tệ</td><td>353.456</td><td>1.081.253</td></tr><tr><td>Tiền gửi vốn chuyên dùng</td><td>96.706</td><td>98.057</td></tr><tr><td>Tiền gửi ký quỹ</td><td>777.959</td><td>567.219</td></tr><tr><td>Tổng</td><td>370.777.888</td><td>215.797.174</td></tr></table>
+
+36
+
+===== PAGE 39 =====
+Ngân hàng TMCP Phát triển Thành phố Hồ Chí Minh
+
+THUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG
+
+Cho giai đoạn từ ngày 01.01.2023 đến ngày 31.12.2023
+
+Mẫu số B05a/TCTD
+
+(Ban hành theo Thông tư số
+
+27/2021/TT-NHNN ngày 31/12/2021)
+
+10. Phát hành giấy tờ có giá thông thường (không bao gồm công cụ tài chính phúc hợp)
+
+<table><tr><td></td><td>Ngày 31 tháng 12năm 2023Triệu đồng</td><td>Ngày 31 tháng 12năm 2022Triệu đồng</td></tr><tr><td>Chứng chỉ tiền gửi</td><td>12.377.000</td><td>7.291.000</td></tr><tr><td>Dưới 12 tháng</td><td>10.507.000</td><td>4.500.000</td></tr><tr><td>Từ 12 tháng đến dưới 5 năm</td><td>1.870.000</td><td>2.791.000</td></tr><tr><td>Trái phiếu thường</td><td>24.930.944</td><td>25.772.912</td></tr><tr><td>Từ 12 tháng đến dưới 5 năm</td><td>9.799.417</td><td>19.449.147</td></tr><tr><td>Từ 5 năm trở lên</td><td>15.131.527</td><td>6.323.765</td></tr><tr><td>Tổng</td><td>37.307.944</td><td>33.063.912</td></tr></table>
+
+11. Các khoản nợ khác
+
+<table><tr><td></td><td>Ngày 31 tháng 12năm 2023Triệu đồng</td><td>Ngày 31 tháng 12năm 2022Triệu đồng</td></tr><tr><td>Các khoản phải trả nội bộ</td><td>86.699</td><td>176.029</td></tr><tr><td>Các khoản phải trả bên ngoài</td><td>17.838.815</td><td>9.136.256</td></tr><tr><td>Dự phòng rủi ro khác</td><td>-</td><td>-</td></tr><tr><td>- Dự phòng đối với các cam kết đưa ra</td><td>-</td><td>-</td></tr><tr><td>- Dự phòng cho các dịch vụ thanh toán</td><td>-</td><td>-</td></tr><tr><td>- Dự phòng rủi ro khác (dự phòng rủi ro hoạt động không bao gồm dự phòng khác đối với tài sản có nội bảng)</td><td>-</td><td>-</td></tr><tr><td>Qũy khen thưởng, phúc lợi</td><td>41.611</td><td>35.289</td></tr><tr><td>Tổng</td><td>17.967.125</td><td>9.347.574</td></tr></table>
+
+37
+
+===== PAGE 40 =====
+Ngân hàng TMCP Phát triển Thành phố Hồ Chí Minh
+
+THUYÊT MINH BÁO CÁO TÀI CHÍNH RIÊNG
+
+Cho giai đoạn từ ngày 01.01.2023 đến ngày 31.12.2023
+
+Mẫu số B05a/TCTD
+
+(Ban hành theo Thông tư số
+
+27/2021/TT-NHNN ngày 31/12/2021)
+
+12. Tỉnh hình thực hiện nghĩa vụ với NSNN và thuế thu nhập hoãn lại.
+
+12.1 Tỉnh hình thực hiện nghĩa vụ với NSNN
+
+<table><tr><td rowspan="2">Chỉ tiêu</td><td rowspan="2">Ngày 01 tháng01 năm 2023Triệu đồng</td><td colspan="2">Phát sinh trong kỳ</td><td rowspan="2">Ngày 31 tháng12 năm 2023Triệu đồng</td></tr><tr><td>Số phải nộpTriệu đồng</td><td>Số đã nộpTriệu đồng</td></tr><tr><td>Thuế giá trị gia tăng</td><td>31.526</td><td>179.788</td><td>(147.504)</td><td>63.810</td></tr><tr><td>Thuế thu nhập doauli nghiệp</td><td>1.306.167</td><td>2.594.755</td><td>(2.131.855)</td><td>1.769.067</td></tr><tr><td>Thuế nhà đất</td><td>-</td><td>45</td><td>(45)</td><td>-</td></tr><tr><td>Tiền thuê đất</td><td>-</td><td>66</td><td>(66)</td><td>-</td></tr><tr><td>Các loại thuế khác</td><td>104.103</td><td>428.984</td><td>(496.022)</td><td>37.065</td></tr><tr><td>- Thuế môn bài</td><td>-</td><td>352</td><td>(352)</td><td>-</td></tr><tr><td>- Thuế thu nhập cá nhân</td><td>90.330</td><td>336.846</td><td>(406.765)</td><td>20.411</td></tr><tr><td>- Thuế nhà thầu</td><td>13.773</td><td>91.786</td><td>(88.905)</td><td>16.654</td></tr><tr><td>Các khoản phí, lệ phí và phải nộp khác</td><td>-</td><td>1.907</td><td>(1.907)</td><td>-</td></tr><tr><td>Tổng cộng</td><td>1.441.796</td><td>3.205.545</td><td>(2.777.399)</td><td>1.869.942</td></tr></table>
+
+12.2 Thuế thu nhập hoãn lại
+
+a. Tài sản thuế thu nhập hoãn lại
+
+<table><tr><td></td><td>Ngày 31 tháng 12năm 2023Triệu đồng</td><td>Ngày 31 tháng 12năm 2022Triệu đồng</td></tr><tr><td>- Tài sản thuế thu nhập hoãn lại liên quan đến khoản chênh lệch tạm thời được khấu trừ</td><td>77.768</td><td>32.798</td></tr><tr><td>- Tài sản thuế thu nhập hoãn lại liên quan đến khoản lỗ tính thuế chưa sử dụng</td><td>-</td><td>-</td></tr><tr><td>- Tài sản thuế thu nhập hoãn lại liên quan đến khoản ưu đãi tính thuế chưa sử dụng</td><td>-</td><td>-</td></tr><tr><td>- Khoản hoàn nhập tài sản thuế thu nhập hoãn lại đã được ghi nhận từ các kỳ trước</td><td>-</td><td>-</td></tr><tr><td>Tài sản thuế thu nhập hoãn lại</td><td>77.768</td><td>32.798</td></tr><tr><td colspan="3">b. Thuế thu nhập hoãn lại phải trả</td></tr><tr><td></td><td>Ngày 31 tháng 12năm 2023Triệu đồng</td><td>Ngày 31 tháng 12năm 2022Triệu đồng</td></tr><tr><td>- Thuế thu nhập hoãn lại phải trả phát sinh từ các khoản chênh lệch tạm thời chịu thuế</td><td rowspan="2">1.060</td><td rowspan="2">-</td></tr><tr><td>- Khoản hoàn nhập thuế thu nhập hoãn lại phải trả đã được ghi nhận từ các kỳ trước</td></tr><tr><td>Thuế thu nhập hoãn lại phải trả</td><td>1.060</td><td>-</td></tr></table>
+
+38
+
+===== PAGE 41 =====
+Ngân hàng TMCP Phát triển Thành phố Hồ Chí Minh
+
+THUYÊT MINH BÁO CÁO TÀI CHÍNH RIÊNG
+
+Cho giai đoạn từ ngày 01.01.2023 đến ngày 31.12.2023
+
+Mẫu số B05a/TCTD
+
+(Ban hành theo Thông tư số
+
+27/2021/TT-NHNN ngày 31/12/2021)
+
+13. Vốn chủ sở hữu:
+
+13.1. Báo cáo tình hình thay đổi vốn chủ sở hữu
+
+<table><tr><td></td><td>Số dư đầu kỳTriệu đồng</td><td>Tăng trong kỳTriệu đồng</td><td>Giảm trong kỳTriệu đồng</td><td>Số dư cuối kỳTriệu đồng</td></tr><tr><td>Vốn góp/vốn điều lệ</td><td>25.303.429</td><td>3.772.892</td><td>-</td><td>29.076.321</td></tr><tr><td>Thặng dư vốn cổ phần</td><td>535.956</td><td>-</td><td>-</td><td>535.956</td></tr><tr><td>Vốn đầu tư xây dựng cơ bản</td><td>89</td><td>-</td><td>-</td><td>89</td></tr><tr><td>Cổ phiếu quỹ</td><td>(413.448)</td><td>-</td><td>-</td><td>(413.448)</td></tr><tr><td>Chênh lệch đánh giá lại tài sản</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>Chênh lệch tỷ giá hối đoái</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>Quỹ đầu tư phát triển</td><td>70</td><td>-</td><td>-</td><td>70</td></tr><tr><td>Quỹ dự phòng tài chính</td><td>2.105.514</td><td>764.926</td><td>-</td><td>2.870.440</td></tr><tr><td>Qũy dự trữ bổ sung vốn điều lệ</td><td>918.763</td><td>382.463</td><td>-</td><td>1.301.226</td></tr><tr><td>Qũy khác thuộc vốn CSH</td><td>127.183</td><td>25.000</td><td>(30.315)</td><td>121.868</td></tr><tr><td>Lợi nhuận sau thuế chưa phân phối/lỗ lũy kế</td><td>7.544.520</td><td>10.185.584</td><td>(7.470.542)</td><td>10.259.562</td></tr><tr><td>Lợi ích của cổ đông không kiểm soát</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>Vốn chủ sở hữu khác</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td></td><td>36.122.076</td><td>15.130.865</td><td>(7.500.857)</td><td>43.752.084</td></tr></table>
+
+13.2 Thuyết minh về công cụ tài chính phức hợp:
+
+Trái phiếu chuyên đổi
+
+<table><tr><td></td><td>Ngày 31 tháng 12năm 2023Triệu đồng</td><td>Ngày 31 tháng 12năm 2022Triệu đồng</td></tr><tr><td>- Tổng giá trị</td><td>7.879.204</td><td>7.609.728</td></tr><tr><td>- Giá trị cấu phần nợ</td><td>7.879.204</td><td>7.609.728</td></tr><tr><td>- Giá trị cấu phần vốn CSH</td><td>-</td><td>-</td></tr></table>
+
+39
+
+===== PAGE 42 =====
+Ngân hàng TMCP Phát triển Thành phố Hồ Chí Minh
+
+THUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG
+
+Cho giai đoạn từ ngày 01.01.2023 đến ngày 31.12.2023
+
+Mẫu số B05a/TCTD
+
+(Ban hành theo Thông tư số
+
+27/2021/TT-NHNN ngày 31/12/2021)
+
+13.3 Cô phiếu
+
+<table><tr><td></td><td>Ngày 31 tháng 12năm 2023</td><td>Ngày 31 tháng 12năm 2022</td></tr><tr><td>- Số lượng cổ phiếu đăng ký phát hành</td><td>2.907.632.132</td><td>2.530.342.922</td></tr><tr><td>- Số lượng cổ phiếu đã bán ra công chúng</td><td></td><td></td></tr><tr><td>+ Cổ phiếu phổ thông</td><td>2.907.632.132</td><td>2.530.342.922</td></tr><tr><td>+ Cổ phiếu ưu đãi</td><td></td><td>-</td></tr><tr><td>- Số lượng cổ phiếu được mua lại</td><td></td><td></td></tr><tr><td>+ Cổ phiếu phổ thông</td><td>15.081.522</td><td>15.081.522</td></tr><tr><td>+ Cổ phiếu ưu đãi</td><td></td><td>-</td></tr><tr><td>- Số lượng cổ phiếu đang lưu hành</td><td></td><td></td></tr><tr><td>+ Cổ phiếu phổ thông</td><td>2.892.550.610</td><td>2.515.261.400</td></tr><tr><td>+ Cổ phiếu ưu đãi</td><td></td><td>-</td></tr><tr><td>* Mệnh giá cổ phiếu đang lưu hành (đồng/cổ phiếu)</td><td>10.000</td><td>10.000</td></tr></table>
+
+VI. THÔNG TIN BỔ SUNG CHO CÁC KHOÀN MỤC TRÌNH BÀY TRONG BẢO CẢO KẾT QUẢ HOẠT ĐỘNG
+
+14. Thu nhập lãi và các khoản thu nhập tương tự
+
+<table><tr><td></td><td>Kỳ nàyTriệu đồng</td><td>Kỳ trướcTriệu đồng</td></tr><tr><td>Thu nhập lãi tiền gửi</td><td>1.045.685</td><td>632.406</td></tr><tr><td>Thu nhập lãi cho vay</td><td>33.231.364</td><td>22.098.388</td></tr><tr><td>Thu lãi từ kinh doanh, đầu tư chứng khoán Nợ</td><td>2.709.684</td><td>2.748.320</td></tr><tr><td>- Thu lãi từ chứng khoán kinh doanh</td><td>90.882</td><td>182.646</td></tr><tr><td>- Thu lãi từ chứng khoán đầu tư</td><td>2.618.802</td><td>2.565.674</td></tr><tr><td>Thu nhập từ nghiệp vụ bảo lãnh</td><td>2.652.776</td><td>1.147.229</td></tr><tr><td>Thu khác từ hoạt động tín dụng</td><td>7.401.211</td><td>1.647.577</td></tr><tr><td>Tổng</td><td>47.040.720</td><td>28.273.920</td></tr></table>
+
+15. Chi phí lãi và các khoản chi phí tương tự
+
+<table><tr><td></td><td>Kỳ nàyTriệu đồng</td><td>Kỳ trướcTriệu đồng</td></tr><tr><td>Trả lãi tiền gửi</td><td>23.664.122</td><td>11.423.961</td></tr><tr><td>Trả lãi tiền vay</td><td>3.143.290</td><td>1.504.572</td></tr><tr><td>Trả lãi phát hành giấy tờ có giá</td><td>2.914.765</td><td>1.901.383</td></tr><tr><td>Chỉ phí hoạt động tín dụng khác</td><td>13.740</td><td>62.661</td></tr><tr><td>Tổng</td><td>29.735.917</td><td>14.892.577</td></tr></table>
+
+40
+
+===== PAGE 43 =====
+Ngân hàng TMCP Phát triển Thành phố Hồ Chí Minh
+
+THUYẾT MINH BẢO CẢO TÀI CHÍNH RIÊNG
+
+Cho giai đoạn từ ngày 01.01.2023 đến ngày 31.12.2023
+
+Mẫu số B05a/TCTD
+
+(Ban hành theo Thông tư số
+
+27/2021/TT- NHNN ngày 31/12/2021)
+
+16. Lãi/(lỗ) thuần từ hoạt động kinh doanh (mua bán) chứng khoán kinh doanh
+
+<table><tr><td></td><td>Kỳ nàyTriệu đồng</td><td>Kỳ trướcTriệu đồng</td></tr><tr><td>Thu nhập từ mua bán chứng khoán kinh doanh</td><td>194.305</td><td>115.706</td></tr><tr><td>Chi phí về mua bán chứng khoán kinh doanh(Chi phí)/Hoàn nhập dự phòng rủi ro chứngkhoán kinh doanh</td><td>(152.582)</td><td>(101.600)</td></tr><tr><td rowspan="2">Lãi thuần từ mua bán chứng khoánkinh doanh</td><td>-</td><td>2.880</td></tr><tr><td>41.723</td><td>16.986</td></tr></table>
+
+17. Lãi/(lỗ) thuần từ hoạt động kinh doanlı (mua bán) chứng khoán đầu tư
+
+<table><tr><td></td><td>Kỳ nàyTriệu đồng</td><td>Kỳ trướcTriệu đồng</td></tr><tr><td>Thu nhập từ mua bán chứng khoán đầu tư</td><td>1.425.098</td><td>484.340</td></tr><tr><td rowspan="2">Chi phí về mua bán chứng khoán đầu tư(Chi phí)/Hoàn nhập dự phòng rủi ro chứng khoán đầu tư</td><td>(203.825)</td><td>(240.319)</td></tr><tr><td>(54.268)</td><td>68.599</td></tr><tr><td>Lãi thuần từ mua bán chứng khoán đầu tư</td><td>1.167.005</td><td>312.620</td></tr></table>
+
+18. Thu nhập từ góp vốn, mua cổ phần
+
+<table><tr><td></td><td>Kỳ nàyTriệu đồng</td><td>Kỳ trướcTriệu đồng</td></tr><tr><td>Cổ tức nhận được từ chứng khoán Vốn đầu tư</td><td>-</td><td>-</td></tr><tr><td>Cổ tức nhận được từ góp vốn, đầu tư dài hạn</td><td>384.325</td><td>356.785</td></tr><tr><td>Tổng</td><td>384.325</td><td>356.785</td></tr></table>
+
+41
+
+===== PAGE 44 =====
+Ngân hàng TMCP Phát triển Thành phố Hồ Chí Minh
+
+THUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG
+
+Cho giai đoạn từ ngày 01.01.2023 đến ngày 31.12.2023
+
+Mẫu số B05a/TCTD
+
+(Ban hành theo Thông tư số
+
+27/2021/TT-NHNN ngày 31/12/2021)
+
+19. Chi phí hoạt động
+
+<table><tr><td></td><td>Kỳ nàyTriệu đồng</td><td>Kỳ trướcTriệu đồng</td></tr><tr><td>1. Chi nộp thuế và các khoản lệ phí</td><td>3.411</td><td>3.554</td></tr><tr><td>2. Chi phí cho nhân viên</td><td>3.681.585</td><td>4.123.384</td></tr><tr><td>Chi lương và phụ cấp</td><td>3.318.414</td><td>3.802.090</td></tr><tr><td>Các khoản chi đóng góp theo lương</td><td>208.106</td><td>178.169</td></tr><tr><td>Chi trợ cấp</td><td>54.906</td><td>59.088</td></tr><tr><td>Chi khác cho nhân viên</td><td>100.159</td><td>84.037</td></tr><tr><td>3. Chi về tài sản</td><td>896.318</td><td>797.461</td></tr><tr><td>Trong đó: Chi phí khấu hao tài sản cố định</td><td>147.083</td><td>143.204</td></tr><tr><td>4. Chi phí cho hoạt động quản lý công vụ</td><td>1.967.040</td><td>1.387.076</td></tr><tr><td>Trong đó: Công tác phí</td><td>66.148</td><td>53.557</td></tr><tr><td>Chi về các hoạt động đoàn thể</td><td>1.028</td><td>671</td></tr><tr><td>5. Chi nộp phí bảo hiểm, bảo toàn tiền gửi của khách hàng</td><td>285.163</td><td>162.094</td></tr><tr><td>6. Chi phí/(hoàn nhập) dự phòng (không tính chi phí dự phòng rủi ro tín dụng nội và ngoại bằng, chi phí dự phòng giảm giá chứng khoán)</td><td>456</td><td>2.355</td></tr><tr><td>7. Chi phí hoạt động khác</td><td></td><td></td></tr><tr><td>Tổng</td><td>6.833.973</td><td>6.475.924</td></tr></table>
+
+VII. CÁC THÔNG TIN KHÁC
+
+20. Thông tin về các bên liên quan
+
+Các doanh nghiệp, các cá nhân, trực tiếp hay gián tiếp qua một hoặc nhiều trung gian, có quyền kiểm soát Ngân hàng hoặc chịu sự kiểm soát của Ngân hàng, hoặc cùng chung sự kiểm soát với Ngân hàng, bao gồm cả công ty mẹ, công ty con và công ty trong cùng tập đoàn là các bên liên quan. Các bên liên kết, các cá nhân trực tiếp hoặc gián tiếp nằm quyền biểu quyết của Ngân hàng mà có ảnh hưởng đáng kể đối với Ngân hàng, những cá nhân quản lý chủ chốt bao gồm Hội đồng quản trị, Ban Kiểm soát, Ban Tổng Giám đốc Ngân hàng, những thành viên mật thiết trong gia đình của các cá nhân này hoặc các bên liên kết này hoặc những công ty liên kết với các cá nhân này cũng được coi là bên liên quan.
+
+Trong việc xem xét từng mối quan hệ của các bên liên quan, Ngân hàng căn cứ vào bản chất của mối quan hệ chú không chỉ hình thức pháp lý của các quan hệ đó.
+
+42
+
+===== PAGE 45 =====
+Ngân hàng TMCP Phát triển Thành phố Hồ Chí Minh
+
+THUYẾT MINH BẢO CÁO TÀI CHÍNH RIÊNG
+
+Cho giai đoạn từ ngày 01.01.2023 đến ngày 31.12.2023
+
+Mẫu số B05a/TCTD
+
+(Ban hành theo Thông tư số
+
+27/2021/TT-NHNN ngày 31/12/2021)
+
+Chi tiết.giao dịch trọng yếu với các bên liên quan trong kỳ như sau:
+
+<table><tr><td>Bên liên quan</td><td>Các giao dịch</td><td>31/12/2023Triệu đồng</td></tr><tr><td>Cổ đông lớn và các bên liên quan với cổ đông lớn</td><td>Gửi tiền vào tài khoảnRút tiền từ tài khoản</td><td>105.417.372104.364.952</td></tr><tr><td>Các công ty Ngân hàng đầu tư, góp vốn</td><td>Gửi tiền vào tài khoảnRút tiền từ tài khoản</td><td>108.117.080105.637.427</td></tr><tr><td>Các công ty con</td><td>Gửi tiền vào tài khoảnRút tiền từ tài khoản</td><td>95.766.83995.233.178</td></tr></table>
+
+Các khoản phải thu và phải trả với các bên liên quan tại thời điểm cuối kỳ như sau:
+
+<table><tr><td rowspan="2">Bên liên quan</td><td rowspan="2">Các giao dịch</td><td colspan="2">31/12/2023Triệu đồng</td></tr><tr><td>Phải thu</td><td>Phải trả</td></tr><tr><td rowspan="5">Cổ đông lớn vàcác bên liên quan vớicổ đông lớn</td><td>Tiền gửi có kỳ hạn</td><td>-</td><td>(1.554.480)</td></tr><tr><td>Tiền gửi tiết kiệm</td><td></td><td>(101.100)</td></tr><tr><td>Tiền gửi thanh toán</td><td>-</td><td>(2.190.568)</td></tr><tr><td>Tiền gửi bảo đảm thanh toán, ký quỹ</td><td></td><td>(14.000)</td></tr><tr><td>Tiền vay</td><td>189.788</td><td></td></tr><tr><td rowspan="4">Các công ty Ngân hàng đầu tư, góp vốn</td><td>Tiền gửi có kỳ hạn</td><td>-</td><td>(1.300.000)</td></tr><tr><td>Tiền gửi thanh toán</td><td>-</td><td>(1.620.401)</td></tr><tr><td>Tiền gửi bảo đảm thanh toán, ký quỹ</td><td>-</td><td>(29.833)</td></tr><tr><td>Cho vay</td><td>3.292.818</td><td>-</td></tr><tr><td rowspan="3">Các công ty con</td><td>Tiền gửi có kỳ hạn</td><td></td><td>(400.000)</td></tr><tr><td>Tiền gửi thanh toán</td><td></td><td>(201.057)</td></tr><tr><td>Cho vay</td><td>3.350.000</td><td></td></tr></table>
+
+43
+
+===== PAGE 46 =====
+Ngân hàng TMCP Phát triển Thành phố Hồ Chí Minh
+
+THUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG
+
+Cho giai đoạn từ ngày 01.01.2023 đến ngày 31.12.2023
+
+Mẫu số B05a/TCTD
+
+(Ban hành theo Thông tư số
+
+27/2021/TT-NHNN ngày 31/12/2021)
+
+21. Mức độ tập trung theo khu vực địa lý của các tài sản, công nợ và các khoản mục ngoại bằng
+
+<table><tr><td></td><td>Tổng dư nợ cho vayTriệu đồng</td><td>Tổng tiền gửiTriệu đồng</td><td>Các cam kết tín dụngTriệu đồng</td><td>CCTC phải sinhTriệu đồng</td><td>Kinh doanh và đầu tư chứng khoánTriệu đồng</td></tr><tr><td>Trong nướcNước ngoài</td><td>327.317.823</td><td>118.670.54810.706.157</td><td>19.177.169</td><td>116.742.7113.186.812</td><td>62.757.493</td></tr></table>
+
+VIII. QUẢN LÝ RỦI RO TÀI CHÍNH
+
+22. Chính sách quản lý rủi ro liên quan đến các công cụ tài chính
+
+Các chính sách, hạn mức rủi ro, và các công cụ sử dụng để quản lý rủi ro được áp dụng đối với các hoạt động thường ngày của Ngân hàng.
+
+Mục tiêu của Ngân hàng là quản lý rủi ro một cách phù hợp trong giới hạn cho phép. Do vậy, việc sử dụng các công cụ tài chính, bao gồm nhận tiền gửi của khách hàng và đầu tư vào các tài sản tài chính có chất lượng cao đã trở thành hoạt động mang tính then chốt giúp Ngân hàng đạt được mức chênh lệch lãi suất cần thiết. Xét từ khóa cạnh quản lý rủi ro, điều này đời hỏi Ngân hàng kết hợp một cách cần đối giữa các khoản vay cho các cá nhân và tổ chức thuộc các mức độ tin cây khác nhau, bằng đồng nội tệ cũng như ngoại tệ, cũng như các cam kết ngoại bảng (như bảo lãnh và thư tín dụng). Bên cạnh đó, Ngân hàng cũng đầu tư một phần vốn lưu động cho các ngân hàng khác vay. Những rủi ro liên quan đến trao đổi ngoại tệ và thay đổi lãi suất được quản lý thông qua áp dụng hạn mức trạng thái nhằm hạn chế sự tập trung quá mức đồng thời tham gia vào các hoạt động có tác dụng cân bằng lân nhau để giảm thiểu rủi ro. Thông qua việc nấm giữ nhiều tài sản là các công cụ tài chính có chất lượng cao, cơ cấu báo cáo tình hình tài chính riêng của Ngân hàng có đủ khả năng phòng ngừa rủi ro trọng yếu trong quá trình hoạt động kinh doanh và đảm bảo khả năng thanh khoản.
+
+23. Rủi ro tín dụng
+
+Rùi ro tín dụng là rùi ro do khách hàng không thực hiện hoặc không có khả năng thực hiện một phần hoặc toàn bộ nghĩa vụ trả nợ theo hợp đồng hoặc thỏa thuận với Ngân hàng. Trong đó, khách hàng (bao gồm cả TCTD, chỉ nhánh ngân hàng nước ngoài) có quan hệ với Ngân hàng trong việc nhận cấp tín dụng (bao gồm cả nhận cấp tín dụng thông qua ủy thác), nhận tiền gửi, phát hành trái phiếu doanh nghiệp.
+
+Các chính sách quản lý và giảm thiểu rủi ro tín dụng
+
+Ngân hàng đã thiết lập quy trình kiểm soát chất lượng tín dụng cho phép dự báo sớm những thay đổi về mức độ tín cây của khách hàng. Hạn mức tín dụng đối với mỗi khách hàng được thiết lập thông qua việc sử dụng hệ thống xếp hạng tín dụng, trong đó mỗi khách hàng được xếp loại ở một mức độ rủi ro. Mức độ rủi ro này có thể được sửa đổi, cập nhật thường xuyên.
+
+Tổng mức rủi ro tín dụng tối đa
+
+Mức rủi ro tín dụng tối đa là giá trị ghi sổ trên báo cáo tình hình tài chính riêng cũng như trên các tài khoản ngoại bảng của các công cụ tài chính, mà chưa tính đến tài sản thế chấp hoặc các biện pháp giảm thiểu rủi ro tín dụng khác. Đối với các khoản nợ tiềm tàng, mức rủi ro tín dụng tối đa là giá trị lớn nhất mà Ngân hàng sẽ phải thanh toán trong trường hợp nghĩa vụ đối với các công cụ tài chính này hình thành. Đối với các cam kết ngoại bảng, mức rủi ro tín dụng tối đa là toàn bộ
+
+44
+
+===== PAGE 47 =====
+Ngân hàng TMCP Phát triển Thành phố Hồ Chí Minh
+
+THUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG
+
+Cho giai đoạn từ ngày 01.01.2023 đến ngày 31.12.2023
+
+Mẫu số B05a/TCTD
+
+(Ban hành theo Thông tư số
+
+27/2021/TT-NHNN ngày 31/12/2021)
+
+giá trị của các khoản cam kết chưa được thực hiện. Đối với các cam kết tín dụng, mức rủi ro tín dụng tối đa là toàn bộ giá trị của khoản tín dụng chưa được giải ngân cho khách hàng.
+
+24. Rủi ro thị trường
+
+Rủi ro thị trường là rủi ro do biến động bắt lợi của lãi suất, tỷ giá, giá vàng, giá chứng khoán và giá hàng hóa trên thị trường gây ra tổn thất cho Ngân hàng. Rủi ro thị trường bao gồm: rủi ro tiền tệ, rủi ro lãi suất, rủi ro giá cổ phiếu, rủi ro giá hàng hóa.
+
+24.1 Rüi ro lãi suất
+
+Rùi ro lãi suất là rùi ro do biến động bắt lợi của lãi suất trên thị trường đối với giá trị của giấy tờ có giá, công cụ tài chính có lãi suất, sản phẩm phải sinh lãi suất trên số kinh doanh của Ngân hàng. Ngân hàng quản lý rùi ro lãi suất thông qua việc kiểm soát mức chênh lệch lãi suất theo kỳ hạn hàng tháng.
+
+Bảng dưới đây tóm tắt rủi ro lãi suất của Ngân hàng tại ngày 31 tháng 12 năm 2023. Tài sản và công nợ của Ngân hàng được phân loại theo ngày sớm hơn giữa ngày điều chỉnh lãi suất gần nhất theo hợp đồng hoặc ngày đáo hạn:
+
+45
+
+===== PAGE 48 =====
+Ngân hàng TMCP Phát triển Thành phố Hồ Chí Minh
+
+THUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG
+
+Cho giai đoạn từ ngày 01.01.2023 đến ngày 31.12.2023
+
+Mẫu số B05a/TCTD
+
+(Ban hành theo Thông tư số
+
+27/2021/TT-NHNN ngày 31/12/2021)
+
+<table><tr><td>Chỉ tiêu</td><td>Quá hạn</td><td>Không chịu lãi</td><td>Đến 1 tháng</td><td>Từ trên 1 tháng - 3 tháng</td><td>Từ trên 3 tháng - 6 tháng</td><td>Từ trên 6 tháng - 12 tháng</td><td>Từ trên 1 năm - 5 năm</td><td>Trên 5 năm</td><td>Tổng cộng</td></tr><tr><td colspan="10">Tài sản</td></tr><tr><td>Tiền mặt và vàng bạc</td><td>-</td><td>2.810.010</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>2.810.010</td></tr><tr><td>Tiền gửi tại NHNN</td><td>-</td><td>41.314.547</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>41.314.547</td></tr><tr><td>TG và cho vay các TCTD khác (*)</td><td>-</td><td>-</td><td>87.101.945</td><td>1.177.700</td><td>999.266</td><td>10.528.025</td><td>-</td><td>-</td><td>99.806.936</td></tr><tr><td>Chứng khoán kinh doanh (*)</td><td>-</td><td>-</td><td>-</td><td>4.403.015</td><td>1.630.697</td><td>12.547.220</td><td>-</td><td>-</td><td>18.580.932</td></tr><tr><td>Các CCTCPS&amp; các TSTC khác</td><td>-</td><td>51.889</td><td>(230)</td><td>-</td><td>-</td><td>-</td><td>1.600</td><td>-</td><td>53.259</td></tr><tr><td>Cho vay khách hàng (*)</td><td>21.468.787</td><td>-</td><td>87.310.739</td><td>143.150.155</td><td>39.269.594</td><td>33.162.659</td><td>2.871.013</td><td>84.876</td><td>327.317.823</td></tr><tr><td>Hoạt động mua nợ (*)</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>Chứng khoán đầu tư (*)</td><td>2.529.995</td><td>285.222</td><td>1.971.988</td><td>12.507.955</td><td>1.567.407</td><td>4.386.854</td><td>5.485.867</td><td>15.441.273</td><td>44.176.561</td></tr><tr><td>Góp vốn, đầu tư dài hạn (*)</td><td>-</td><td>1.378.609</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>1.378.609</td></tr><tr><td>TSCĐ &amp; BDS đầu tư</td><td>-</td><td>1.389.568</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>1.389.568</td></tr><tr><td>Tài sản Có khác (*)</td><td>46.799</td><td>18.532.915</td><td>3.139.526</td><td>5.853.740</td><td>11.757.812</td><td>17.305.922</td><td>205.000</td><td>-</td><td>56.841.714</td></tr><tr><td>Tổng tài sản</td><td>24.045.581</td><td>65.762.760</td><td>179.523.968</td><td>167.092.565</td><td>55.224.776</td><td>77.930.680</td><td>8.563.480</td><td>15.526.149</td><td>593.669.959</td></tr><tr><td>Nợ phải trả</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td></td></tr><tr><td>TG - vay từ NHNN&amp;TCTD khác</td><td>-</td><td>-</td><td>67.462.909</td><td>13.303.016</td><td>14.690.569</td><td>13.489.580</td><td>544.071</td><td>-</td><td>109.490.145</td></tr><tr><td>Tiền gửi của khách hàng</td><td>-</td><td>238.108</td><td>93.361.407</td><td>70.863.590</td><td>141.772.128</td><td>56.090.367</td><td>8.452.287</td><td>1</td><td>370.777.888</td></tr><tr><td>Các CCTCPS &amp; các khoản nợ TC khác</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>Vốn tài trợ, UTĐT, cho vay TCTD chịu rủi ro</td><td>-</td><td>-</td><td>-</td><td>2.753.542</td><td>-</td><td>-</td><td>102</td><td>57.485</td><td>2.811.129</td></tr><tr><td>Phát hành giấy tờ có giá</td><td>-</td><td>-</td><td>3.599.929</td><td>8.999.927</td><td>15.029.577</td><td>697.684</td><td>16.860.031</td><td>-</td><td>45.187.148</td></tr><tr><td>Các khoản nợ khác (*)</td><td>-</td><td>17.967.125</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>17.967.125</td></tr><tr><td>Tổng nợ phải trả</td><td>-</td><td>18.205.233</td><td>164.424.245</td><td>95.920.075</td><td>171.492.274</td><td>70.277.631</td><td>25.856.491</td><td>57.486</td><td>546.233.435</td></tr><tr><td>Mức chênh nhạy cảm với LS nội bảng</td><td>24.045.581</td><td>47.557.527</td><td>15.099.723</td><td>71.172.490</td><td>(116.267.498)</td><td>7.653.049</td><td>(17.293.011)</td><td>15.468.663</td><td>47.436.524</td></tr><tr><td>Các cam kết ngoại bảng có tác động tới mức độ nhạy cảm với LS</td><td></td><td>(19.177.169)</td><td></td><td></td><td></td><td></td><td></td><td></td><td>(19.177.169)</td></tr><tr><td>Mức chênh nhạy cảm với lãi suất nội bảng, ngoại bảng</td><td>24.045.581</td><td>28.380.358</td><td>15.099.723</td><td>71.172.490</td><td>(116.267.498)</td><td>7.653.049</td><td>(17.293.011)</td><td>15.468.663</td><td>28.259.355</td></tr></table>
+
+(*) Các khoản mục này không tính đến dự phòng rủi ro
+
+46
+
+===== PAGE 49 =====
+Ngân hàng TMCP Phát triển Thành phố Hồ Chí Minh
+
+THUYÊT MINH BÁO CÁO TÀI CHÍNH RIÊNG
+
+Cho giai đoạn từ ngày 01.01.2023 đến ngày 31.12.2023
+
+Mẫu số B05a/TCTD
+
+(Ban hành theo Thông tư số
+
+27/2021/TT-NHNN ngày 31/12/2021)
+
+24.2 Rủi ro tiền tệ
+
+Rùi ro tiền tệ là rùi ro do biến động bắt lợi của tỷ giá, giá vàng trên thị trường khi Ngân hàng có trạng thái ngoại tệ, trạng thái vàng. Ban Tổng Giám Đốc thiết lập hạn mức giao dịch cho từng loại tiền và tổng các loại tiền cho các trạng thái qua đêm và trong ngày và các trạng thái này được kiểm soát hàng ngày.
+
+47
+
+===== PAGE 50 =====
+Ngân hàng TMCP Phát triển Thành phố Hồ Chí Minh
+
+THUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG
+
+Cho giai đoạn từ ngày 01.01.2023 đến ngày 31.12.2023
+
+Mẫu số B05a/TCTD
+
+(Ban hành theo Thông tư số
+
+27/2021/TT-NHNN ngày 31/12/2021)
+
+Bảng dưới đây trình bày các tài sản và nợ của Ngân hàng theo giá trị ghi số và theo loại tiên tệ tại ngày 31 tháng 12 năm 2023:
+
+<table><tr><td>Chỉ tiêu</td><td>VNDTriệu đồng</td><td>EUR được quyđốiTriệu đồng</td><td>USD được quy đổiTriệu đồng</td><td>Giá trị vàngtiền tệ đượcquy đổiTriệu đồng</td><td>Các ngoại tệ khácđược quy đổiTriệu đồng</td><td>Tổng cộngTriệu đồng</td></tr><tr><td>Tài sản</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Tiền mặt và vàng bạc</td><td>1.956.720</td><td>34.631</td><td>463.842</td><td>23.634</td><td>331.183</td><td>2.810.010</td></tr><tr><td>Tiền gửi tại NHNN</td><td>38.224.226</td><td>4.708</td><td>3.085.613</td><td>-</td><td>-</td><td>41.314.547</td></tr><tr><td>TG và cho vay các TCTD khác (*)</td><td>77.506.539</td><td>84.013</td><td>12.991.219</td><td>-</td><td>9 225.165</td><td>99.806.936</td></tr><tr><td>Chứng khoán kinh doanh (*)</td><td>18.580.932</td><td>-</td><td>-</td><td>-</td><td>-</td><td>18.580.932</td></tr><tr><td>Các công cụ tài chính phải sinh và các tài sản tài chính khác</td><td>3.326.752</td><td>-</td><td>5.703.097</td><td>-</td><td>(8.976.590)</td><td>53.259</td></tr><tr><td>Cho vay khách hàng (*)</td><td>317.432.362</td><td>-</td><td>9.828.622</td><td>-</td><td>56.839</td><td>327.317.823</td></tr><tr><td>Chứng khoán đầu tư (*)</td><td>44.176.561</td><td>-</td><td>-</td><td>-</td><td>-</td><td>44.176.561</td></tr><tr><td>Góp vốn, đầu tư dài hạn (*)</td><td>1.378.609</td><td>-</td><td>-</td><td>-</td><td>-</td><td>1.378.609</td></tr><tr><td>TSCĐ &amp; BĐS đầu tư</td><td>1.389.568</td><td>-</td><td>-</td><td>-</td><td>-</td><td>1.389.568</td></tr><tr><td>Tài sản Có khác (*)</td><td>43.195.186</td><td>705.868</td><td>12.519.172</td><td>-</td><td>421.488</td><td>56.841.714</td></tr><tr><td>Tổng tài sản</td><td>547.167.455</td><td>829.220</td><td>44.591.565</td><td>23.634</td><td>1.058.085</td><td>593.669.959</td></tr><tr><td>Nợ phải trả</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Tiền gửi và vay các TCTD khác</td><td>75.481.118</td><td>692.358</td><td>32.904.169</td><td>-</td><td>412.500</td><td>109.490.145</td></tr><tr><td>Tiền gửi của khách hàng</td><td>368.252.954</td><td>120.598</td><td>2.059.117</td><td>-</td><td>345.219</td><td>370.777.888</td></tr><tr><td>Các công cụ tài chính phải sinh và các khoản nợ tài chính khác</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>Vốn tài trợ, ủy thác đầu tư, cho vay TCTD chịu rủi ro</td><td>-</td><td>-</td><td>2.754.290</td><td>-</td><td>56.839</td><td>2.811.129</td></tr><tr><td>Phát hành giấy tờ có giá</td><td>37.299.398</td><td>-</td><td>7.887.750</td><td>-</td><td>-</td><td>45.187.148</td></tr><tr><td>Các khoản nợ khác (*)</td><td>17.112.667</td><td>13.204</td><td>764.388</td><td>485</td><td>76.381</td><td>17.967.125</td></tr><tr><td>Tổng nợ phải trả</td><td>498.146.137</td><td>826.160</td><td>46.369.714</td><td>485</td><td>890.939</td><td>546.233.435</td></tr><tr><td>Trạng thái tiền tệ nội bảng</td><td>49.021.318</td><td>3.060</td><td>(1.778.149)</td><td>23.149</td><td>167.146</td><td>47.436.524</td></tr><tr><td>Trạng thái tiền tệ ngoại bảng</td><td>-</td><td>-</td><td>1.275.056</td><td>-</td><td>(62.354)</td><td>1.212.702</td></tr><tr><td>Trạng thái tiền tệ nội, ngoại bảng</td><td>49.021.318</td><td>3.060</td><td>(503.093)</td><td>23.149</td><td>104.792</td><td>48.649.226</td></tr></table>
+
+(*) Các khoản mục này không tính đến dự phòng rủi ro
+
+48
+
+===== PAGE 51 =====
+Ngân hàng TMCP Phát triển Thành phố Hồ Chí Minh
+
+THUYẾT MINH BẢO CẢO TÀI CHÍNH RIÊNG
+
+Cho giai đoạn từ ngày 01.01.2023 đến ngày 31.12.2023
+
+Mẫu số B05a/TCTD
+
+(Ban hành theo Thông tư số
+
+27/2021/TT-NHNN ngày 31/12/2021)
+
+24.3 Rủi ro thanh khoản
+
+Rủi ro thanh khoản là rủi ro trong đó Ngân hàng không có khả năng thực hiện các nghĩa vụ trả nợ khi đến hạn; hoặc Ngân hàng có khả năng thực hiện nghĩa vụ trả nợ khi đến hạn nhưng phải trả chi phí cao hơn mức chi phí bình quân của thị trường theo quy định nội bộ của Ngân hàng. Để giảm thiểu rủi ro thanh khoản, Ngân hàng phải huy động từ nhiều nguồn đa dạng khác ngoài nguồn vốn cơ bản của Ngân hàng.
+
+Rùi ro thanh khoản còn được hạn chế thông qua việc nằm giữ một số lượng lớn tiền mặt và các khoản tương đương tiền dưới dạng tài khoản tiền gửi thanh toán tại các TCTD khác, các khoản tiền gửi tại NHNN và các TCTD khác và các giấy tờ có giá. Các tỷ lệ an toàn có tính đến yếu tố rùi rò cũng được sử dụng để quản lý rùi ro thanh khoản.
+
+Bảng sau đây phân tích các tài sản tài chính và khoản nợ tài chính vào các nhóm đáo hạn có liên quan dựa trên kỳ hạn còn lại từ ngày kết thúc kỳ báo cáo đến ngày đáo hạn theo hợp đồng. Các số tiền được trình bày trong bảng sau là các dòng tiền theo hợp đồng không chiết khấu.
+
+49
+
+===== PAGE 52 =====
+Ngân hàng TMCP Phát triển Thành phố Hồ Chí Minh
+
+THUYÊT MINH BÁO CÁO TÀI CHÍNH RIÊNG
+
+Cho giai đoạn từ ngày 01.01.2023 đến ngày 31.12.2023
+
+Mẫu số B05a/TCTD
+
+(Ban hành theo Thông tư số
+
+27/2:21/TT-NHNN ngày 31/12/2021)
+
+<table><tr><td rowspan="2">Chỉ tiêu</td><td colspan="2">Quá hạn</td><td colspan="5">Trong hạn</td><td rowspan="2">Tổng cộng</td></tr><tr><td>Trên 3 tháng</td><td>Đến 3 tháng</td><td>Đến 1 tháng</td><td>Từ trên 1 tháng - 3 tháng</td><td>Từ trên 3 tháng - 12 tháng</td><td>Từ trên 1 năm - 5 năm</td><td>Trên 5 năm</td></tr><tr><td>Tài sản</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Tiền mặt và vàng bạc</td><td>-</td><td>-</td><td>2.810.010</td><td>-</td><td>-</td><td>-</td><td>-</td><td>2.810.010</td></tr><tr><td>Tiền gửi tại NHNN</td><td>-</td><td>-</td><td>41.314.547</td><td>-</td><td>-</td><td>-</td><td>-</td><td>41.314.547</td></tr><tr><td>TG tại và cho vay các TCTD khác (*)</td><td>-</td><td>-</td><td>87.101.944</td><td>1.177.700</td><td>11.527.292</td><td>-</td><td>-</td><td>99.806.936</td></tr><tr><td>Chứng khoán kinh doanh (*)</td><td>-</td><td>-</td><td>-</td><td>4.403.015</td><td>14.177.917</td><td>-</td><td>-</td><td>18.580.932</td></tr><tr><td>Các CCTCPS và TSTC khác</td><td>-</td><td>-</td><td>31.471</td><td>33.991</td><td>(13.803)</td><td>1.600</td><td>-</td><td>53.259</td></tr><tr><td>Cho vay khách hàng (*)</td><td>4.935.283</td><td>16.533.505</td><td>23.212.866</td><td>37.842.610</td><td>115.129.400</td><td>52.693.052</td><td>36.971.107</td><td>327.317.823</td></tr><tr><td>Hoạt động mua nợ (*)</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>Chứng khoán đầu tư (*)</td><td>45.000</td><td>2.484.995</td><td>1.932.172</td><td>9.088.619</td><td>6.658.372</td><td>8.526.130</td><td>15.441.273</td><td>44.176.561</td></tr><tr><td>Góp vốn, đầu tư dài hạn (*)</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>1.378.609</td><td>1.378.609</td></tr><tr><td>TSCĐ &amp; BDS đầu tư</td><td>-</td><td>-</td><td>563.852</td><td>162</td><td>14.639</td><td>251.211</td><td>559.704</td><td>1.389.568</td></tr><tr><td>Tài sản Có khác (*)</td><td>46.799</td><td>-</td><td>14.065.423</td><td>7.589.717</td><td>31.036.379</td><td>959.144</td><td>3.144.252</td><td>56.841.714</td></tr><tr><td>Tổng tài sản</td><td>5.027.082</td><td>19.018.500</td><td>171.032.285</td><td>60.135.814</td><td>178.530.196</td><td>102.431.137</td><td>57.494.945</td><td>593.669.959</td></tr><tr><td>Nợ phải trả</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Tiền gửi và vay từ NHNN và các TCTD khác</td><td>-</td><td>-</td><td>67.462.908</td><td>8.891.681</td><td>28.271.407</td><td>4.864.149</td><td>-</td><td>109.490.145</td></tr><tr><td>Tiền gửi của khách hàng</td><td>-</td><td>-</td><td>93.599.515</td><td>70.863.590</td><td>197.862.495</td><td>8.452.287</td><td>1</td><td>370.777.888</td></tr><tr><td>Các CCTCPS và KNTC khác</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>Vốn tài trợ, uỷ thác đầu tư, cho vay TCTD chịu rủi ro</td><td>-</td><td>-</td><td>-</td><td>70.604</td><td>70.604</td><td>564.931</td><td>2.104.990</td><td>2.811.129</td></tr><tr><td>Phát hành giấy tờ có giá</td><td>-</td><td>-</td><td>3.100.000</td><td>8.500.000</td><td>5.107.806</td><td>16.860.031</td><td>11.619.311</td><td>45.187.148</td></tr><tr><td>Các khoản nợ khác (*)</td><td>-</td><td>-</td><td>9.693.641</td><td>3.439.916</td><td>4.795.852</td><td>37.715</td><td>1</td><td>17.967.125</td></tr><tr><td>Tổng nợ phải trả</td><td>-</td><td>-</td><td>173.856.064</td><td>91.765.791</td><td>236.108.164</td><td>30.779.113</td><td>13.724.303</td><td>546.233.435</td></tr><tr><td>Mức chênh thanh khoản ròng</td><td>5.027.082</td><td>19.018.500</td><td>(2.823.779)</td><td>(31.629.977)</td><td>(57.577.968)</td><td>71.652.024</td><td>43.770.642</td><td>47.436.524</td></tr></table>
+
+(*) Các khoản mục này không tính đến dự phòng rủi ro
+
+50
+
+===== PAGE 53 =====
+Ngân hàng TMCP Phát triển Thành phố Hồ Chí Minh
+
+THUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG
+
+Cho giai đoạn từ ngày 01.01.2023 đến ngày 31.12.2023
+
+Mẫu số B05a/TCTD
+
+(Ban hành theo Thông tư số
+
+27/2021/TT-NHNN ngày 31/12/2021)
+
+Người lập:
+
+Bà Huỳnh Thị Nga
+
+Chuyên viên
+
+Người kiểm soát:
+
+Rà Hồ Đăng Hoàng Quiyên
+
+Kế toán trường
+
+Người phê duyệt:
+
+NGÂN HÀNG
+UỒNG MAI CỔ PHẦN
+PHÁT TRIỂN
+THÀNH PHỐ
+HỒ CHÍ MINH
+
+Chang Phạm Văn Đầu
+
+Giám đốc Tài chính
+
+Thành phố Hồ Chí Minh, Việt Nam
+
+Ngày 30 tháng 01 năm 2024
+
+51
+
+===== PAGE 54 =====
+NGÂN HÀNG TMCP PHÁT TRIỂN TP.HCM
+
+H CMC DEVELOPMENT J. S COMMERCIAL BANK
+
+Số: 185/2024/CV-HDBank
+
+V/v: công bố BCTC Quý 4 năm 2023 và giải trình lợi nhuận sau thuế tăng trên 10% so với cùng kỳ Announcement of the financial statements for 4Q/2023 and explanation for the increase in profit after tax of over 10%
+
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+
+THE SOCIALIST REPUBLIC OF VIETNAM
+
+Độc lập - Tự do - Hạnh phúc
+
+Independence - Freedom - Happiness
+
+Tp. Hồ Chí Minh, ngày 30 tháng 01 năm 2024
+
+Ho Chi Minh City, January 30, 2024
+
+CÔNG BÓ THÔNG TIN TRÊN CÔNG THÔNG TIN ĐIỆN TỪ
+
+CỦA ỦY BẠN CHỨNG KHOÁN NHÀ NƯỚC VÀ SỞ GIAO DỊCH CHỨNG KHOÁN
+
+DISCLOSURE OF INFORMATION ON WEB PORTALS OF
+
+THE STATE SECURITIES COMMISSION AND STOCK EXCHANGES
+
+Kính gửi: - Ủy ban Chứng khoán Nhà Nước
+To: State Securities Commission
+
+- Sở Giao dịch Chứng khoán TP.HCM
+Ho Chi Minh City Stock Exchange
+
+- Sở Giao dịch Chứng khoán Hà Nội
+Ha Noi Stock Exchange
+
+1. Tên tổ chức : NGÂN HÀNG TMCP PHÁT TRIỂN TP.HCM (HDBANK)
+
+Name of organization : Ho Chi Minh City Development Joint Stock Commercial Bank
+
+2. Mã chứng khoán : HDB
+
+Securities code : HDB
+
+3. Địa chỉ trụ sở chính : 25 Bis Nguyễn Thị Minh Khai, P. Bến Nghé, Q. 1, Tp.HCM
+
+Head office address : 25 Bis Nguyen Thi Minh Khai, Ben Nghe Ward, District 1, HCMC
+
+4. Điện thoại : (028) 62 915 916
+
+Telephone : (028) 62 915 916
+
+5. Người được ủy quyền công bố thông tin: Phạm Văn Đầu – Giám đốc tài chính
+
+Authorized person to disclose information: Pham Van Dau – Chief Financial Officer
+
+6. Loại thông tin công bố : (X) Định kỳ
+
+Type of disclosed information : (X) Periodic
+
+7. Nội dung công bố thông tin:
+
+Contents of disclosed information:
+
+Thực hiện nghĩa vụ báo cáo, công bố thông tin của công ty niêm yết theo Thông tư số 96/2020/TT-BTC ngày 16/11/2020 của Bộ Tài chính, Ngân hàng TMCP Phát triển TP.HCM – HDBank công bố báo cáo tài chính Quý 4/2023.
+
+In compliance with the obligation of reporting and information disclosure of listed companies in accordance with Circular No. 96/2020/TT-BTC dated 16/11/2020 of the Ministry of Finance, Ho Chi Minh City Development Joint Stock Commercial Bank – HDBank announces the financial statements for 4Q/2023.
+
+8. Giải trình lợi nhuận sau thuế tại báo cáo tài chính Quý 4/2023 tăng trên 10% so với cùng kỳ năm 2022:
+
+Explanation of the increase of more than \(10\%\) in profit after tax in 4Q/2023 versus 4Q/2022:
+
+<table><tr><td>Chỉ tiêuItems</td><td>Quý 4/20234Q/2023</td><td>Quý 4/20224Q/2022</td><td>Tỷ lệ tăng (%)% growth rate</td></tr><tr><td>Lợi nhuận sau thuế (riêng lẻ, tỷ đồng)Profit after tax (separate, in VND trillion)</td><td>3.241</td><td>1.675</td><td>94%</td></tr><tr><td>Lợi nhuận sau thuế (hợp nhất, tỷ đồng)Profit after tax (consolidated, in VND trillion)</td><td>3.448</td><td>1.799</td><td>92%</td></tr></table>
+
+1/2
+
+M.S.D.N.:030060
+NGĂN H
+THƯƠNG MẠ
+PHÁT T
+THÀNH
+HỒ CHI
+QUẢN 1-TP.
+
+===== PAGE 55 =====
+Lợi nhuận sau thuế tại báo cáo tài chính Quý 4/2023 tăng trên 10% so với lợi nhuận sau thuế tại báo cáo tài chính Quý 4/2022 do HDBank tăng trưởng tích cực về thu nhập từ lãi và ngoài lãi, nhờ dư nợ tín dụng tăng trưởng cao, các màng kinh doanh chứng khoán, ngoại tệ, dịch vụ thanh toán được khách hàng đón nhận mạnh mê. Ngân hàng kiểm soát tốt tỷ lệ nợ xấu giúp làm giảm chí phí dự phòng rủi ro. Thêm vào đó việc đa dạng và hiện đại hóa kênh giao dịch cho khách hàng, đầy mạnh chuyển đổi số giúp nâng cao hiệu quả công việc, giảm hệ số chỉ phí/tổng thu nhập hoạt động so với cùng kỳ, góp phần giúp lợi nhuận sau thuế tăng cao.
+
+Profit after tax in the financial report of Quarter 4/2023 increased by over 10% compared to that of the 4Q/2022 due to HDBank's positive growth in both interest and non-interest income, thanks to strong credit growth and customers' reception of HDBank's services including securities trading, foreign currency, and payment services. The bank's NPL ratio remains low, facilitating the control of credit costs. In addition, diversifying and modernizing transaction channels for customers, promoting digital transformation helped improve the efficiency, lower the cost/total operating income ratio compared to the same period last year, contributing to the growth of profit after tax.
+
+9. Địa chỉ website đăng tải toàn bộ báo cáo tài chính
+
+Website address to download financial statements
+
+Thông tin này đã được công bố trên trang thông tin điện tử của HDBank tại đường dẫn:
+
+This information is published by HDBank on its website at:
+
+Đường dẫn tiếng Việt: https://www.hdbank.com.vn/vi/investor/thong-tin-nha-dau-tu/bao-cao-tai-chinh
+
+English link: https://www.hdbank.com.vn/en/investor/thong-tin-nha-dau-tu/bao-cao-tai-chinh
+
+Ngân hàng TMCP Phát triển Tp.HCM xin gửi kèm báo cáo tài chính Quý 4/2023 hợp nhất & riêng lẻ. Chứng tôi cam kết các thông tin công bố trên đây là đúng sự thật và hoàn toàn chịu trách nhiệm trước pháp luật về nội dung các thông tin đã công bố.
+
+HCMC Development Joint Stock Commercial Bank would like to attach herewith the consolidated and separate financial statements for 4Q/2023. We commit that all disclosed information are true and take full responsibilities legally for the contents of the information disclosed.
+
+Nơi nhân:
+
+Recipients:
+
+- Ủy ban Chứng khoán Nhà nước
+
+- State Securities Commission
+
+- Sở Giao dịch Chứng khoán Tp.HCM
+
+- Ho Chi Minh City Stock Exchange
+
+- Lưu: Văn thư
+
+- Filed: Admin Dept.
+
+NGÂN HÀNG TMCP PHÁT TRIÊN TP.HCMEN
+HCMC DEVELOPMENT J.S.COMMERCIAL BANK
+GIÁM ĐỐC TÀI CHÍNH
+CHIEF FINANCIAL OFFICER
+
+2/2

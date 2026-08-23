@@ -1,0 +1,1754 @@
+===== PAGE 1 =====
+Mẫu số/Form No 01-A
+
+CÔNG TY CỔ PHẦN NÔNG NGHIỆP
+QUỐC TẾ HOÀNG ANH GIA LAÏ
+
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+Độc lập – Tự do – Hạnh phúc
+
+Số: 03/25/CBTT – HAGL Agrico
+
+Gia Lai, ngày 31 tháng 03 năm 2025
+
+CÔNG BỐ THÔNG TIN ĐỊNH KỸ BÁO CÁO TÀI CHÍNH
+Kính gửi: Sở Giao dịch Chứng khoán Hà Nội
+
+Thực hiện quy định tại Khoản 3 Điều 14 Thông tư số 96/2020/TT-BTC ngày 16/11/2020 của Bộ Tài chính hướng dẫn công bố thông tin trên thị trường chứng khoán, Công ty Cổ phần Nông nghiệp Quốc tế Hoàng Anh Gia Lai thực hiện công bố thông tin báo cáo tài chính (BCTC) năm 2024 được kiểm toán với Sở Giao dịch Chứng khoán Hà Nội như sau:
+
+1. Tên tổ chức: Công ty Cổ phần Nông nghiệp Quốc tế Hoàng Anh Gia Lai
+
+• Mã chứng khoán: HNG
+
+• Địa chỉ: Số 15 Trường Chinh, Phường Phù Đồng, Thành phố Pleiku, Tỉnh Gia Lai
+
+• Điện thoại liên hệ: 0269.2222283
+
+- Email: haglagrico@thagrico.vn Website: https://haagrico.com
+
+2. Nội dung thông tin công bố
+
+• BCTC năm 2024
+
+☒ BCTC riêng (ĐKGD không có công ty con và đơn vị kế toán cấp trên có đơn vị trực thuộc;
+
+☒ BCTC hợp nhất (TCNY có công ty con);
+
+□ BCTC tổng hợp (TCNY có đơn vị kế toán trực thuộc tổ chức bộ máy kế toán riêng).
+
+- Các trường hợp thuộc diện phải giải trình nguyên nhân:
+
++ Tổ chức kiểm toán đưa ra ý kiến không phải là ý kiến chấp nhận toàn phần đối với BCTC.
+
+(đối với BCTC đã được soát xét/kiểm toán):
+
+□ Có
+
+Không
+
+Văn bản giải trình trong trường hợp tích có:
+
+□ Có
+
+Không
+
++ Lợi nhuận sau thuế trong kỳ báo cáo có sự chênh lệch trước và sau kiểm toán từ 5% trở lên, chuyển từ lỗ sang lãi hoặc ngược lại (đối với BCTC được kiểm toán năm 2024):
+
+□ Có
+
+□ Không
+
+Văn bản giải trình trong trường hợp tích có:
+
+□ Có
+
+□ Không
+
++ Lợi nhuận sau thuế thu nhập doanh nghiệp tại báo cáo kết quả kinh doanh của kỳ báo cáo thay đổi từ 10% trở lên so với báo cáo cùng kỳ năm trước:
+
+Có
+
+□ Không
+
+===== PAGE 2 =====
+Văn bản giải trình trong trường hợp tích có:
+
+Có
+
+□ Không
+
+Lợi nhuận sau thuế trong kỳ báo cáo bị lỗ, chuyển từ lãi ở báo cáo cùng kỳ năm trước sang lỗ ở kỳ này hoặc ngược lại:
+
+Có
+
+□ Không
+
+Văn bản giải trình trong trường hợp tích có:
+
+Có
+
+□ Không
+
+Thông tin này đã được công bố trên trang thông tin điện tử của công ty vào ngày 31/03/2025 tại đường dẫn: https://www.haagrico.com/nha-dau-tu/cong-bo-thong-tin.
+
+Tài liệu đính kèm:
+
+- BCTC năm 2024 đã kiểm toán;
+
+- Văn bản giải trình.
+
+Đại diện tố chức
+
+Người đại diện theo pháp luật/Người UQCBTT (Ký, ghi rõ họ tên, chức vụ, đóng dấu)
+
+PHÓ TỔNG GIÁM BỐC
+
+Nguyễn Hoàng Phi
+
+===== PAGE 3 =====
+Công ty Cổ phần Nông nghiệp Quốc tế Hoàng Anh Gia Lai
+
+Báo cáo tài chính hợp nhất
+
+Cho năm tài chính kết thúc ngày 31 tháng 12 năm 2024
+
+EY
+
+Shape the future with confidence
+
+===== PAGE 4 =====
+Công ty Cổ phần Nông nghiệp Quốc tế Hoàng Anh Gia Lai
+
+Báo cáo tài chính hợp nhất
+
+Cho năm tài chính kết thúc ngày 31 tháng 12 năm 2024
+
+===== PAGE 5 =====
+Công ty Cổ phần Nông nghiệp Quốc tế Hoàng Anh Gia Lai
+
+MỤC LỤC
+
+<table><tr><td></td><td>Trang</td></tr><tr><td>Thông tin chung</td><td>1</td></tr><tr><td>Báo cáo của Ban Tổng Giám đốc</td><td>2</td></tr><tr><td>Báo cáo kiểm toán độc lập</td><td>3 - 4</td></tr><tr><td>Bàng cân đối kế toán hợp nhất</td><td>5 - 6</td></tr><tr><td>Báo cáo kết quả hoạt động kinh doanh hợp nhất</td><td>7 - 8</td></tr><tr><td>Báo cáo lưu chuyển tiền tệ hợp nhất</td><td>9 - 10</td></tr><tr><td>Thuyết minh báo cáo tài chính hợp nhất</td><td>11 - 53</td></tr></table>
+
+===== PAGE 6 =====
+Công ty Cổ phần Nông nghiệp Quốc tế Hoàng Anh Gia Lai
+
+THÔNG TIN CHUNG
+
+CÔNG TY
+
+Công ty Cổ phần Nông nghiệp Quốc tế Hoàng Anh Gia Lai ("Công ty") là một công ty cổ phần được thành lập theo Luật Doanh nghiệp của Việt Nam theo Giấy Chứng nhận Đăng ký Kinh doanh ("GCNDKKD") số 5900712753 do Sở Kế hoạch và Đầu tư ("SKHĐT") Tĩnh Gia Lai cấp vào ngày 26 tháng 5 năm 2010 và hai mươi (20) GCNDKKD điều chỉnh sau đó.
+
+Cổ phiếu của Công ty được niêm yết tại Sở Giao dịch Chứng khoán Thành phố Hồ Chí Minh ("SGDCKHCM") theo Quyết định số 278/QĐ-SGDHCM do SGDCKHCM cấp ngày 10 tháng 7 năm 2015 với mã giao dịch là "HNG". Công ty đã hủy niêm yết cổ phiếu trên SGDCKHCM theo Quyết định số 488/QĐ-SGDHCM ngày 9 tháng 8 năm 2024 do SGDCKHCM ban hành và chuyển sang giao dịch trên thị trường đăng ký giao dịch ("UPCOM") theo Quyết định số 4111/TB-SGDHN và Quyết định số 974/QĐ-SGDHN ngày 10 tháng 9 năm 2024 do Sở Giao dịch Chứng khoán Hà Nội ("HNX") ban hành.
+
+Tại ngày 31 tháng 12 năm 2024, Công ty có năm (5) công ty con trực tiếp, hai (2) công ty con gián tiếp và một (1) công ty liên kết.
+
+Hoạt động chính trong nằm hiện tại của Công ty và các công ty con ("Nhóm Công ty") là trồng và kinh doanh trái cây, cao su và các loại cây trồng khác; cung cấp dịch vụ trồng trọt và các vật liệu liên quan; chăn nuôi bò; xây dựng công nghiệp và các công trình dân dụng.
+
+Công ty có trụ sở chính đăng ký tại Số 15, Đường Trường Chinh, Phường Phù Đồng, Thành phố Pleiku, Tĩnh Gia Lai, Việt Nam.
+
+HỘI ĐỒNG QUẢN TRỊ
+
+Các thành viên Hội đồng Quản trị ("HĐQT") trong năm và vào ngày lập báo cáo này như sau:
+
+<table><tr><td>Ông Trần Bá Dương</td><td>Chủ tịch</td></tr><tr><td>Ông Đoàn Nguyên Đức</td><td>Phó Chủ tịch</td></tr><tr><td>Ông Trần Bảo Sơn</td><td>Thành viên</td></tr><tr><td>Ông Nguyễn Hoàng Phi</td><td>Thành viên</td></tr><tr><td>Ông Nguyễn Phúc Thịnh</td><td>Thành viên</td></tr></table>
+
+BAN KIỂM SOÁT
+
+Các thành viên Ban Kiểm soát ("BKS") trong năm và vào ngày lập báo cáo này như sau:
+
+<table><tr><td>Ông Bùi Minh Khoa</td><td>Trường ban</td></tr><tr><td>Ông Đăng Công Trực</td><td>Thành viên</td></tr><tr><td>Bà Bùi Thị Liễu</td><td>Thành viên</td></tr></table>
+
+BAN TỔNG GIÁM ĐỐC
+
+Các thành viên Ban Tổng Giám đốc trong năm và vào ngày lập báo cáo này như sau:
+
+<table><tr><td>Ông Trần Bảo SơnÔng Nguyễn Hoàng Phi</td><td>Tổng Giám đốcPhó Tổng Giám đốc</td></tr></table>
+
+NGƯỜI ĐẠI DIỆN THEO PHÁP LUẬT
+
+Người đại diện theo pháp luật của Công ty trong năm và vào ngày lập báo cáo này là Ông Trần Bảo Sơn.
+
+Ông Nguyễn Hoàng Phi được Ông Trần Bảo Sơn ủy quyền đề ký báo cáo tài chính hợp nhất kèm theo cho năm tài chính kết thúc ngày 31 tháng 12 năm 2024 theo Giấy Ủy quyền số 01/2025/GUQ-TGĐ HAGL Agrico ngày 1 tháng 1 năm 2025.
+
+KIÊM TOÁN VIÊN
+
+Công ty Trách nhiệm Hữu hạn Ernst & Young Việt Nam là công ty kiểm toán cho Công ty.
+
+1
+
+===== PAGE 7 =====
+Công ty Cổ phần Nông nghiệp Quốc tế Hoàng Anh Gia Lai
+
+BÁO CÁO CỦA BAN TỔNG GIÁM ĐỐC
+
+Ban Tổng Giám đốc Công ty Cổ phần Nông nghiệp Quốc tế Hoàng Anh Gia Lai ("Công ty") trình bày báo cáo này và báo cáo tài chính hợp nhất của Công ty và các công ty con ("Nhóm Công ty") cho năm tài chính kết thúc ngày 31 tháng 12 năm 2024.
+
+TRÁCH NHIỆM CỦA BAN TỔNG GIÁM ĐỐC ĐỐI VỚI BÁO CÁO TÀI CHÍNH HỢP NHẤT
+
+Ban Tổng Giám đốc chịu trách nhiệm đảm bảo báo cáo tài chính hợp nhất cho từng năm tài chính phân ánh trung thực và hợp lý tỉnh hình tài chính hợp nhất, kết quả hoạt động kinh doanh hợp nhất và tỉnh hình lưu chuyển tiền tệ hợp nhất của Nhóm Công ty trong năm. Trong quá trình lập báo cáo tài chính hợp nhất này, Ban Tổng Giám đốc cần phải:
+
+▶ lựa chọn các chính sách kế toán thích hợp và áp dụng các chính sách này một cách nhất quán;
+
+▶ thực hiện các đánh giá và ước tính một cách hợp lý và thận trọng;
+
+nêu rõ các chuẩn mục kế toán áp dụng cho Nhóm Công ty có được tuân thủ hay không và tất cả những sai lệch trọng yếu so với những chuẩn mục này đã được trình bày và giải thích trong báo cáo tài chính hợp nhất; và
+
+lập báo cáo tài chính hợp nhất trên cơ sở nguyên tắc hoạt động liên tục trừ trường hợp không thể cho rằng Nhóm Công ty sẽ tiếp tục hoạt động.
+
+Ban Tổng Giám đốc chịu trách nhiệm đảm bảo việc các số sách kế toán thích hợp được lưu giữ để phần ánh tỉnh hình tài chính hợp nhất của Nhóm Công ty, với mức độ chính xác hợp lý, tại bắt kỳ thời điểm nào và đảm bảo rằng các số sách kế toán tuân thủ với chế độ kế toán đã được áp dụng. Ban Tổng Giám đốc cũng chịu trách nhiệm về việc quản lý các tài sản của Nhóm Công ty và do đó phải thực hiện các biện pháp thích hợp để ngăn chặn và phát hiện các hành vi gian lập và những vi phạm khác.
+
+Ban Tổng Giám đốc cam kết đã tuân thủ những yêu cầu nếu trên trong việc lập báo cáo tài chính hợp nhất kèm theo.
+
+CÔNG BÓ CỦA BAN TỔNG GIÁM ĐỐC
+
+Theo ý kiến của Ban Tổng Giám đốc, báo cáo tài chính hợp nhất kèm theo phần ánh trung thực và hợp lý tính hình tài chính hợp nhất của Nhóm Công ty vào ngày 31 tháng 12 năm 2024, kết quả hoạt động kinh doanh hợp nhất và tình hình lưu chuyển tiền tệ hợp nhất cho năm tài chính kết thúc cùng ngày, phù hợp với các Chuẩn mực kể toán Việt Nam, Chế độ kể toán doanh nghiệp Việt Nam và các quy định pháp lý có liên quan đến việc lập và trình bày báo cáo tài chính hợp nhất.
+
+Nguyên Hoàng Phi
+Phó Tổng Giám đốc
+
+Tỉnh Gia Lai, Việt Nam
+
+Ngày 31 tháng 3 năm 2025
+
+2
+
+===== PAGE 8 =====
+-
+
+EY
+
+Shape the future with confidence
+
+Ernst & Young Vietnam Limited
+20th Floor, Bitexco Financial Tower
+2 Hai Trieu Street, District 1
+Ho Chi Minh City, Vietnam
+
+Tel: +84 28 3824 5252
+Email: eyhcmc@vn.ey.com
+Website (EN): ey.com/en_vn
+Website (VN): ey.com/vi_vn
+
+Số tham chiếu: 12827243/68479306/HN
+
+BÁO CÁO KIỂM TOÁN ĐỘC LẬP
+
+Kính gửi: Quý Cổ đông của Công ty Cổ phần Nông nghiệp Quốc tế Hoàng Anh Gia Lai
+
+Chúng tôi đã kiểm toán báo cáo tài chính hợp nhất kèm theo của Công ty Cổ phần Nông nghiệp Quốc tế Hoàng Anh Gia Lai ("Công ty") và các công ty con ("Nhóm Công ty"), được lập ngày 31 tháng 3 năm 2025 và được trình bày từ trang 5 đến trang 53, bao gồm bằng cân đối kế toán hợp nhất vào ngày 31 tháng 12 năm 2024, báo cáo kết quả hoạt động kinh doanh hợp nhất, báo cáo lưu chuyển tiền tệ hợp nhất cho năm tài chính kết thúc cùng ngày và các thuyết minh báo cáo tài chính hợp nhất đi kèm.
+
+Trách nhiệm của Ban Tổng Giám đốc
+
+Ban Tổng Giám đốc Công ty chịu trách nhiệm về việc lập và trình bày trung thực và hợp lý báo cáo tài chính hợp nhất của Nhóm Công ty theo các Chuẩn mực kể toán Việt Nam, Chế độ kể toán doanh nghiệp Việt Nam và các quy định pháp lý có liên quan đến việc lập và trình bày báo cáo tài chính hợp nhất và chịu trách nhiệm về kiểm soát nội bộ mà Ban Tổng Giám đốc xác định là cần thiết để đảm bảo việc lập và trình bày báo cáo tài chính hợp nhất không có sai sót trọng yếu do gian lận hoặc nhằm lẫn.
+
+Trách nhiệm của Kiểm toán viên
+
+Trách nhiệm của chúng tôi là đưa ra kết luận về báo cáo tài chính hợp nhất dựa trên kết quả của cuộc kiểm toán. Chủng tôi đã tiến hành kiểm toán theo Chuẩn mực Kiểm toán Việt Nam. Các chuẩn mực này yêu cầu chúng tôi tuân thủ chuẩn mực và các quy định về đạo đức nghề nghiệp, lập kế hoạch và thực hiện cuộc kiểm toán để đạt được sự đảm bảo hợp lý về việc liệu báo cáo tài chính hợp nhất của Nhóm Công ty có còn sai sót trọng yếu hay không.
+
+Công việc kiểm toán bao gồm thực hiện các thủ tục nhằm thu thập các bằng chứng kiểm toán về các số liệu và thuyết minh trên báo cáo tài chính hợp nhất. Các thủ tục kiểm toán được lựa chọn dựa trên xét đoán của kiểm toán viên, bao gồm đánh giá rủi ro có sai sốt trọng yếu trong báo cáo tài chính hợp nhất do gian lận hoặc nhằm lần. Khi thực hiện đánh giá các rủi ro này, kiểm toán viên đã xem xét kiểm soát nội bộ của Nhóm Công ty liên quan đến việc lập và trình bày báo cáo tài chính hợp nhất trung thực, hợp lý nhằm thiết kế các thủ tục kiểm toán phù hợp với tính hình thực tế, tuy nhiên không nhằm mục đích đưa ra ý kiến về hiệu quả của kiểm soát nội bộ của Nhóm Công ty. Công việc kiểm toán cũng bao gồm đánh giá tính thích hợp của các chính sách kế toán được áp dụng và tính hợp lý của các ước tính kế toán của Ban Tổng Giám đốc cũng như đánh giá việc trình bày tổng thể báo cáo tài chính hợp nhất.
+
+Chúng tôi tin tưởng rằng các bằng chứng kiểm toán mà chúng tôi đã thu thập được là đầy đủ và thích hợp để làm cơ sở cho ý kiến kiểm toán của chúng tôi.
+
+A member firm of Ernst & Young Global Limited
+
+3
+
+“1” = 20 + 3
+
+===== PAGE 9 =====
+-
+
+EY
+
+Shape the future with confidence
+
+Ý kiến của Kiểm toán viên
+
+Theo ý kiến của chúng tôi, báo cáo tài chính hợp nhất đã phần ánh trung thực và hợp lý, trên các khía cạnh trọng yếu, tỉnh hình tài chính hợp nhất của Nhóm Công ty vào ngày 31 tháng 12 năm 2024, cũng như kết quả hoạt động kinh doanh hợp nhất và tình hình lưu chuyển tiền tệ hợp nhất cho năm tài chính kết thúc cùng ngày, phù hợp với các Chuẩn mực kế toán Việt Nam, Chế độ kế toán doanh nghiệp Việt Nam và các quy định pháp lý có liên quan đến việc lập và trình bày báo cáo tài chính hợp nhất.
+
+Vấn đề cần nhân mạnh
+
+Chứng tối xin lưu ý đến Thuyết minh số 2.6 của báo cáo tài chính hợp nhất trình bày rằng, Nhóm Công ty đã phát sinh khoản lỗ thuần với số tiền là 1.281.878.648 ngân VND cho năm tài chính kết thúc ngày 31 tháng 12 năm 2024. Đồng thời, cũng tại ngày này, Nhóm Công ty có khoản lỗ lũy kể là 9.384.124.776 ngân VND và nợ ngắn hạn của Nhóm Công ty đã vượt quá tài sản ngắn hạn là 11.829.754.262 ngân VND. Các điều kiện này cho thấy có sự tồn tại của yếu tố không chắc chắn trọng yếu có thể dẫn đến nghi ngờ đáng kể về khả năng hoạt động liên tục của Nhóm Công ty.
+
+Ý kiến kiểm toán của chúng tôi không liên quan đến vấn đề cần nhân mạnh này.
+
+Công ty Trách nhiệm Hữu hạn Ernst & Young Việt Nam
+
+Maria Cristina M. Calimbas
+
+Phó Tổng Giám đốc
+
+Giấy CNĐKHN kiểm toán
+
+Số: 1073-2023-004-1
+
+Nguyễn Minh Thanh
+
+Kiểm toán viên
+
+Giấy CNDKHN kiểm toán
+
+Số: 5559-2025-004-1
+
+Thành phố Hồ Chí Minh, Việt Nam
+
+Ngày 31 tháng 3 năm 2025
+
+A member firm of Ernst & Young Global Limited
+
+4
+
+101…7321-1
+
+===== PAGE 10 =====
+Công ty Cổ phần Nông nghiệp Quốc tế Hoàng Anh Gia Lai
+
+B01-DN/HN
+
+BẢNG CÂN ĐỐI KẾ TOÁN HỢP NHẤT
+
+ngày 31 tháng 12 năm 2024
+
+Ngàn VND
+
+<table><tr><td>Mã số</td><td>TÀI SẢN</td><td>Thuyết minh</td><td>Số cuối năm</td><td>Số đầu năm</td></tr><tr><td>100</td><td>A. TÀI SẢN NGĂN HẠN</td><td></td><td>2.474.455.316</td><td>2.658.783.434</td></tr><tr><td>110</td><td>I. Tiền</td><td>4</td><td>69.818.682</td><td>75.967.251</td></tr><tr><td>111</td><td>1. Tiền</td><td></td><td>69.818.682</td><td>75.967.251</td></tr><tr><td>130</td><td>II. Các khoản phải thu ngắn hạn</td><td></td><td>364.823.159</td><td>600.574.464</td></tr><tr><td>131</td><td>1. Phải thu ngắn hạn của khách hàng</td><td>5</td><td>115.083.863</td><td>277.048.612</td></tr><tr><td>132</td><td>2. Trả trước cho người bán ngắn hạn</td><td>6</td><td>128.250.447</td><td>277.155.414</td></tr><tr><td>136</td><td>3. Phải thu ngắn hạn khác</td><td>7</td><td>165.261.021</td><td>115.624.392</td></tr><tr><td>137</td><td>4. Dự phòng phải thu ngắn hạn khó đòi</td><td>5, 6</td><td>(43.772.172)</td><td>(69.253.954)</td></tr><tr><td>140</td><td>III. Hàng tồn kho</td><td>8</td><td>1.937.430.054</td><td>1.880.825.838</td></tr><tr><td>141</td><td>1. Hàng tồn kho</td><td></td><td>2.017.115.531</td><td>1.942.077.497</td></tr><tr><td>149</td><td>2. Dự phòng giảm giá hàng tồn kho</td><td></td><td>(79.685.477)</td><td>(61.251.659)</td></tr><tr><td>150</td><td>IV. Tài sản ngắn hạn khác</td><td></td><td>102.383.421</td><td>101.415.881</td></tr><tr><td>151</td><td>1. Chi phí trả trước ngắn hạn</td><td>16</td><td>10.012.595</td><td>833.657</td></tr><tr><td>152</td><td>2. Thuế GTGT được khấu trừ</td><td>9</td><td>91.738.986</td><td>100.296.393</td></tr><tr><td>153</td><td>3. Thuế và các khoản khác phải thu Nhà nước</td><td>9</td><td>631.840</td><td>285.831</td></tr><tr><td>200</td><td>B. TÀI SẢN DÀI HẠN</td><td></td><td>14.221.038.454</td><td>11.436.995.904</td></tr><tr><td>210</td><td>I. Khoản phải thu dài hạn</td><td></td><td>2.034.606.179</td><td>909.875.453</td></tr><tr><td>215</td><td>1. Phải thu về cho vay dài hạn</td><td>10</td><td>2.034.606.179</td><td>909.875.453</td></tr><tr><td>220</td><td>II. Tài sản cố định</td><td></td><td>5.348.929.120</td><td>5.585.165.173</td></tr><tr><td>221</td><td>1. Tài sản cố định hữu hình</td><td>11</td><td>5.340.338.759</td><td>5.576.109.655</td></tr><tr><td>222</td><td>Nguyên giá</td><td></td><td>8.543.450.023</td><td>8.348.919.143</td></tr><tr><td>223</td><td>Giá trị khấu hao lũy kế</td><td></td><td>(3.203.111.264)</td><td>(2.772.809.488)</td></tr><tr><td>227</td><td>2. Tài sản cố định vô hình</td><td>12</td><td>8.590.361</td><td>9.055.518</td></tr><tr><td>228</td><td>Nguyên giá</td><td></td><td>12.095.251</td><td>11.796.351</td></tr><tr><td>229</td><td>Giá trị hao mòn lũy kế</td><td></td><td>(3.504.890)</td><td>(2.740.833)</td></tr><tr><td>240</td><td>III. Tài sản dở dang dài hạn</td><td></td><td>6.330.558.156</td><td>4.435.299.954</td></tr><tr><td>242</td><td>1. Chi phí xây dựng cơ bản dở dang</td><td>13</td><td>6.330.558.156</td><td>4.435.299.954</td></tr><tr><td>250</td><td>IV. Đầu tư tài chính dài hạn</td><td>15</td><td>337.952.313</td><td>339.446.064</td></tr><tr><td>252</td><td>1. Đầu tư vào công ty liên kết</td><td></td><td>337.952.313</td><td>339.446.064</td></tr><tr><td>253</td><td>2. Đầu tư góp vốn vào đơn vị khác</td><td></td><td>2.594.610</td><td>2.594.610</td></tr><tr><td>254</td><td>3. Dự phòng đầu tư tài chính dài hạn</td><td></td><td>(2.594.610)</td><td>(2.594.610)</td></tr><tr><td>260</td><td>V. Tài sản dài hạn khác</td><td></td><td>168.992.686</td><td>167.209.260</td></tr><tr><td>261</td><td>1. Chi phí trả trước dài hạn</td><td>16</td><td>72.082.672</td><td>70.207.631</td></tr><tr><td>262</td><td>2. Tài sản thuế thu nhập hoãn lại</td><td>29.3</td><td>96.910.014</td><td>97.001.629</td></tr><tr><td>270</td><td>TỔNG CỘNG TÀI SẢN</td><td></td><td>16.695.493.770</td><td>14.095.779.338</td></tr></table>
+
+5
+
+ITI 77.3210
+
+===== PAGE 11 =====
+Công ty Cổ phần Nông nghiệp Quốc tế Hoàng Anh Gia Lai
+
+B01-DN/HN
+
+BẢNG CẦN ĐỐI KẾ TOÁN HỢP NHẤT (tiếp theo)
+
+ngày 31 tháng 12 năm 2024
+
+Ngàn VND
+
+<table><tr><td>Mã số</td><td>NGUỒN VỐN</td><td>Thuyết minh</td><td>Số cuối năm</td><td>Số đầu năm</td></tr><tr><td>300</td><td>C. NỘ PHẢI TRẢ</td><td></td><td>15.059.861.988</td><td>11.840.072.367</td></tr><tr><td>310</td><td>I. Nợ ngắn hạn</td><td></td><td>14.304.209.578</td><td>9.609.413.390</td></tr><tr><td>311</td><td>1. Phải trả người bán ngắn hạn</td><td>17</td><td>1.283.068.487</td><td>501.655.381</td></tr><tr><td>312</td><td>2. Người mua trả tiền trước ngắn hạn</td><td>18</td><td>1.993.780.825</td><td>1.555.784.364</td></tr><tr><td>313</td><td>3. Thuế và các khoản phải nộp Nhà nước</td><td>9</td><td>13.481.879</td><td>12.453.131</td></tr><tr><td>314</td><td>4. Phải trả người lao động</td><td></td><td>43.890.719</td><td>46.549.076</td></tr><tr><td>315</td><td>5. Chỉ phí phải trả ngắn hạn</td><td>19</td><td>1.215.349.958</td><td>1.126.175.978</td></tr><tr><td>319</td><td>6. Phải trả ngắn hạn khác</td><td>20</td><td>142.810.450</td><td>156.090.429</td></tr><tr><td>320</td><td>7. Vay ngắn hạn</td><td>21</td><td>9.611.827.260</td><td>6.210.705.031</td></tr><tr><td>330</td><td>II. Nợ dài hạn</td><td></td><td>755.652.410</td><td>2.230.658.977</td></tr><tr><td>333</td><td>1. Chỉ phí phải trả dài hạn</td><td>19</td><td>221.699.725</td><td>33.939.083</td></tr><tr><td>337</td><td>2. Phải trả dài hạn khác</td><td>20</td><td>195.696.764</td><td>173.697.682</td></tr><tr><td>338</td><td>3. Vay dài hạn</td><td>21</td><td>338.255.921</td><td>2.023.022.212</td></tr><tr><td>400</td><td>D. VỐN CHỦ SỞ HỮU</td><td></td><td>1.635.631.782</td><td>2.255.706.971</td></tr><tr><td>410</td><td>I. Vốn chủ sở hữu</td><td>22.1</td><td>1.635.631.782</td><td>2.255.706.971</td></tr><tr><td>411</td><td>1. Vốn cổ phần</td><td></td><td>11.085.538.950</td><td>11.085.538.950</td></tr><tr><td>411a</td><td>- Cổ phiếu phổ thông có quyền biểu quyết</td><td></td><td>11.085.538.950</td><td>11.085.538.950</td></tr><tr><td>412</td><td>2. Thặng dư vốn cổ phần</td><td></td><td>1.170.127.000</td><td>1.170.127.000</td></tr><tr><td>417</td><td>3. Chênh lệch tỷ giá hối đoái</td><td></td><td>(1.235.909.392)</td><td>(1.897.856.851)</td></tr><tr><td>421</td><td>4. Lỗ lũy kế</td><td></td><td>(9.384.124.776)</td><td>(8.102.102.128)</td></tr><tr><td>421a</td><td>- Lỗ sau thuế lũy kế đến cuối năm trước</td><td></td><td>(8.102.246.128)</td><td>(7.003.641.410)</td></tr><tr><td>421b</td><td>- Lỗ sau thuế năm nay</td><td></td><td>(1.281.878.648)</td><td>(1.098.460.718)</td></tr><tr><td>440</td><td>TỔNG CỘNG NGUỒN VỐN</td><td></td><td>16.695.493.770</td><td>14.095.779.338</td></tr></table>
+
+6
+
+===== PAGE 12 =====
+Công ty Cổ phần Nông nghiệp Quốc tế Hoàng Anh Gia Lai
+
+B02-DN/HN
+
+BÁO CÁO KÊT QUẢ HOẠT ĐỘNG KINH DOANH HỢP NHẤT
+
+cho năm tài chính kết thúc ngày 31 tháng 12 năm 2024
+
+Ngàn VND
+
+<table><tr><td>Mã số</td><td>CHỈ TIÊU</td><td>Thuyết minh</td><td>Năm nay</td><td>Năm trước</td></tr><tr><td>10</td><td>Doanh thu thuần về bán hàng và cung cấp dịch vụ</td><td>24.1</td><td>491.920.250</td><td>605.571.129</td></tr><tr><td>11</td><td>Giá vốn hàng bán và dịch vụ cung cấp</td><td>25</td><td>(927.642.680)</td><td>(1.269.905.027)</td></tr><tr><td>20</td><td>Lỗ gộp về bán hàng và cung cấp dịch vụ</td><td></td><td>(435.722.430)</td><td>(664.333.898)</td></tr><tr><td>21</td><td>Doanh thu hoạt động tài chính</td><td>24.2</td><td>86.112.332</td><td>36.109.178</td></tr><tr><td>22</td><td>Chi phí tài chính</td><td>26</td><td>(319.852.387)</td><td>(343.586.331)</td></tr><tr><td>23</td><td>- Trong đó: Chi phí lãi vay</td><td></td><td>(312.944.398)</td><td>(325.405.700)</td></tr><tr><td>24</td><td>Phần lãi trong công ty liên kết</td><td>15.1</td><td>24.650.807</td><td>34.923.794</td></tr><tr><td>25</td><td>Chi phí bán hàng</td><td>27</td><td>(12.202.839)</td><td>(26.783.949)</td></tr><tr><td>26</td><td>Chi phí quản lý doanh nghiệp</td><td>27</td><td>(26.506.805)</td><td>(96.747.957)</td></tr><tr><td>30</td><td>Lỗ thuần từ hoạt động kinh doanh</td><td></td><td>(683.521.322)</td><td>(1.060.419.163)</td></tr><tr><td>31</td><td>Thu nhập khác</td><td>28</td><td>18.907.534</td><td>23.564.707</td></tr><tr><td>32</td><td>Chi phí khác</td><td>28</td><td>(617.007.343)</td><td>(73.558.456)</td></tr><tr><td>40</td><td>Lỗ khác</td><td></td><td>(598.099.809)</td><td>(49.993.749)</td></tr><tr><td>50</td><td>Tổng lỗ kế toán trước thuế</td><td></td><td>(1.281.621.131)</td><td>(1.110.412.912)</td></tr><tr><td>51</td><td>Chi phí thuế TNDN hiện hành</td><td>29.1</td><td>(165.902)</td><td>(895.594)</td></tr><tr><td>52</td><td>(Chi phí) thu nhập thuế TNDN hoãn lại</td><td>29.3</td><td>(91.615)</td><td>12.847.788</td></tr><tr><td>60</td><td>Lỗ thuần sau thuế TNDN</td><td></td><td>(1.281.878.648)</td><td>(1.098.460.718)</td></tr></table>
+
+7
+
+===== PAGE 13 =====
+Công ty Cổ phần Nông nghiệp Quốc tế Hoàng Anh Gia Lai
+
+B02-DN/HN
+
+BÁO CÁO KẾT QUẢ HOẠT ĐỘNG KINH DOANH HỢP NHẤT (tiếp theo) cho năm tài chính kết thúc ngày 31 tháng 12 năm 2024
+
+Ngàn VND
+
+<table><tr><td>Mã số</td><td>CHỈ TIÊU</td><td>Thuyết minh</td><td>Năm nay</td><td>Năm trước</td></tr><tr><td>61</td><td>17. Lỗ thuần sau thuế của công ty mẹ</td><td>22</td><td>(1.281.878.648)</td><td>(1.098.460.718)</td></tr><tr><td>70</td><td>18. Lỗ cơ bàn trên cổ phiếu (VND)</td><td>23</td><td>(1.156)</td><td>(991)</td></tr><tr><td>71</td><td>19. Lỗ suy giảm trên cổ phiếu (VND)</td><td>23</td><td>(1.156)</td><td>(991)</td></tr></table>
+
+Nguyễn Văn Tiên
+Người lập
+
+Đỗ Vũ Hải Hà
+Kế toán trường
+
+Nguyễn Hoàng Phi
+Phó Tổng Giám đốc
+
+Tỉnh Gia Lai, Việt Nam
+
+Ngày 31 tháng 3 năm 2025
+
+8
+
+===== PAGE 14 =====
+Công ty Cổ phần Nông nghiệp Quốc tế Hoàng Anh Gia Lai
+
+B03-DN/HN
+
+BÁO CÁO LƯU CHUYÊN TIÊN TỆ HỢP NHẤT
+
+cho năm tài chính kết thúc ngày 31 tháng 12 năm 2024
+
+Ngàn VND
+
+<table><tr><td>Mã số</td><td>CHỈ TIÊU</td><td>Thuyết minh</td><td>Năm nay</td><td>Năm trước</td></tr><tr><td></td><td>I. LƯU CHUYÊN TIÊN TỪ HOẠT ĐỘNG KINH DOANH</td><td></td><td></td><td></td></tr><tr><td>01</td><td>Tổng lỗ kế toán trước thuế Điều chỉnh cho các khoản:</td><td></td><td>(1.281.621.131)</td><td>(1.110.412.912)</td></tr><tr><td>02</td><td>Khấu hao và hao mòn</td><td></td><td>563.408.822</td><td>510.072.657</td></tr><tr><td>03</td><td>(Hoàn nhập dự phòng) dự phòng</td><td></td><td>(7.047.964)</td><td>20.682.883</td></tr><tr><td>04</td><td>Lãi chênh lệch tỷ giá hối đoái do đánh giá lại các khoản mục tiền tệ có gốc ngoại tệ</td><td></td><td>(66.253.785)</td><td>(12.150.122)</td></tr><tr><td>05</td><td>Lỗ (lãi) từ hoạt động đầu tư</td><td></td><td>276.944.233</td><td>(653.132)</td></tr><tr><td>06</td><td>Chi phí lãi vay</td><td>26</td><td>312.944.398</td><td>325.405.700</td></tr><tr><td>08</td><td>Lỗ hoạt động kinh doanh trước thay đổi vốn lưu động</td><td></td><td>(201.625.427)</td><td>(267.054.926)</td></tr><tr><td>09</td><td>Giảm các khoản phải thu</td><td></td><td>379.786.012</td><td>528.601.803</td></tr><tr><td>10</td><td>Tăng hàng tồn kho</td><td></td><td>(28.287.361)</td><td>(256.957.096)</td></tr><tr><td>11</td><td>Tăng các khoản phải trả</td><td></td><td>810.751.376</td><td>939.363.529</td></tr><tr><td>12</td><td>Tăng chi phí trả trước</td><td></td><td>(14.045.824)</td><td>(27.845.262)</td></tr><tr><td>14</td><td>Tiền lãi vay đã trả</td><td></td><td>(370.227.013)</td><td>(352.714.730)</td></tr><tr><td>15</td><td>Thuế thu nhập doanh nghiệp đã nộp</td><td>29.1</td><td>(346.009)</td><td>-</td></tr><tr><td>17</td><td>Tiền chi khác từ hoạt động kinh doanh</td><td></td><td>(144.000)</td><td>-</td></tr><tr><td>20</td><td>Lưu chuyển tiền thuần từ hoạt động kinh doanh</td><td></td><td>575.861.754</td><td>563.393.318</td></tr><tr><td></td><td>II. LƯU CHUYÊN TIÊN TỪ HOẠT ĐỘNG ĐẦU TƯ</td><td></td><td></td><td></td></tr><tr><td>21</td><td>Tiền chi để mua sắm và xây dựng tài sản cố định</td><td></td><td>(965.751.015)</td><td>(576.386.711)</td></tr><tr><td>22</td><td>Tiền thu do thanh lý TSCĐ</td><td></td><td>-</td><td>515.984</td></tr><tr><td>23</td><td>Tiền chi cho đơn vị khác vay</td><td></td><td>(1.309.245.789)</td><td>(781.961.198)</td></tr><tr><td>27</td><td>Tiền thu lãi tiền gửi và cổ tức được chia</td><td></td><td>26.322.006</td><td>59.619</td></tr><tr><td>30</td><td>Lưu chuyển tiền thuần sử dụng vào hoạt động đầu tư</td><td></td><td>(2.248.674.798)</td><td>(1.357.772.306)</td></tr></table>
+
+9
+
+MHNH ★ HH'N
+
+===== PAGE 15 =====
+Công ty Cổ phần Nông nghiệp Quốc tế Hoàng Anh Gia Lai
+
+B03-DN/HN
+
+BÁO CÁO LƯU CHUYÊN TIỀN TỆ HỢP NHẤT (tiếp theo)
+
+cho năm tài chính kết thúc ngày 31 tháng 12 năm 2024
+
+Ngàn VND
+
+<table><tr><td>Mã số</td><td>CHÌ TIÊU</td><td>Thuyết minh</td><td>Năm nay</td><td>Năm trước</td></tr><tr><td></td><td>III. LƯU CHUYÊN TIÊN TỪ HOẠT ĐỘNG TÀI CHÍNH</td><td></td><td></td><td></td></tr><tr><td>33</td><td>Tiền thu từ đi vay</td><td>21</td><td>4.525.920.000</td><td>3.090.557.600</td></tr><tr><td>34</td><td>Tiền trả nợ gốc vay</td><td>21</td><td>(2.859.255.525)</td><td>(2.248.014.298)</td></tr><tr><td>40</td><td>Lưu chuyển tiền thuần từ hoạt động tài chính</td><td></td><td>1.666.664.475</td><td>842.543.302</td></tr><tr><td>50</td><td>Lưu chuyển tiền thuần trong năm</td><td></td><td>(6.148.569)</td><td>48.164.314</td></tr><tr><td>60</td><td>Tiền đầu năm</td><td></td><td>75.967.251</td><td>27.802.937</td></tr><tr><td>70</td><td>Tiền cuối năm</td><td>4</td><td>69.818.682</td><td>75.967.251</td></tr></table>
+
+Nguyễn Văn Tiên
+Người lập
+
+Đỗ Vũ Hải Hà
+Kế toán trường
+
+Nguyễn Hoàng Phi
+Phó Tổng Giám đốc
+
+10
+
+===== PAGE 16 =====
+Công ty Cổ phần Nông nghiệp Quốc tế Hoàng Anh Gia Lai
+
+B09-DN/HN
+
+THUYÊT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT
+
+vào ngày 31 tháng 12 năm 2024 và cho năm tài chính kết thúc cùng ngày
+
+1. THÔNG TIN CÔNG TY
+
+Công ty Cổ phần Nông nghiệp Quốc tế Hoàng Anh Gia Lai ("Công ty") là một công ty cổ phần được thành lập theo Luật Doanh nghiệp của Việt Nam theo GCNĐKKD số 5900712753 do SKHĐT Tĩnh Gia Lai cấp vào ngày 26 tháng 5 năm 2010 và hai mươi (20) GCNĐKKD điều chỉnh sau đó.
+
+Cổ phiếu của Công ty được niêm yết tại SGDCKHCM theo Quyết định số 278/QĐ-SGDHCM do SGDCKHCM cấp ngày 10 tháng 7 năm 2015 với mã giao dịch là "HNG". Công ty đã hủy niêm yết cổ phiếu trên SGDCKHCM theo Quyết định số 488/QĐ-SGDHCM ngày 9 tháng 8 năm 2024 do SGDCKHCM ban hành và chuyển sang giao dịch trên UPCOM theo Quyết định số 4111/TB-SGDHN và Quyết định số 974/QĐ-SGDHN ngày 10 tháng 9 năm 2024 do HNX ban hành.
+
+Hoạt động chính trong năm hiện tại của Công ty và các công ty con ("Nhóm công ty") là trồng và kinh doanh trái cây, cao su và các loại cây trồng khác; sản xuất và mua bán cây giống; cung cấp dịch vụ trồng trọt và các vật liệu liên quan; chắn nuôi bò; xây dựng công nghiệp và các công trình dân dụng.
+
+Công ty có trụ sở chính đăng ký tại Số 15, Đường Trường Chinh, Phường Phù Đồng, Thành phố Pleiku, Tĩnh Gia Lai, Việt Nam.
+
+Số lượng nhân viên ký kết hợp đồng lao động của Nhóm Công ty vào ngày 31 tháng 12 năm 2024 là 6.139 (ngày 31 tháng 12 năm 2023: 5.752).
+
+Vào ngày 31 tháng 12 năm 2024, Công ty có năm (5) công ty con trực tiếp, hai (2) công ty con gián tiếp và một (1) công ty liên kết. Chi tiết như sau:
+
+<table><tr><td>Tên công ty</td><td>Lĩnh vực kinh doanh</td><td>Trụ sở</td><td>Tỉnh trạng hoạt động</td><td>Tỷ lệ sở hữu và biểu quyết(%)</td></tr><tr><td colspan="5">Công ty con</td></tr><tr><td>(1) Công ty TNHH Phát triển Nông nghiệp Hoàng Anh Attapeu (&quot;HA Attapeu&quot;)</td><td>Nông nghiệp và xây dựng</td><td>Attapeu, Lào</td><td>Đang hoạt động</td><td>100</td></tr><tr><td>(2) Công ty TNHH Công nghiệp và Nông nghiệp Cao su Hoàng Anh - Quang Minh (&quot;HAQM Lào&quot;)</td><td>Nông nghiệp</td><td>Sekong, Lào</td><td>Đang hoạt động</td><td>100</td></tr><tr><td>(3) Công ty TNHH Hoàng Anh Rattanakiri (&quot;HA Rattanakiri&quot;)</td><td>Nông nghiệp</td><td>Ratanakiri, Campuchia</td><td>Đang hoạt động</td><td>100</td></tr><tr><td>(4) Công ty TNHH Heng Brothers (&quot;Heng Brothers&quot;)</td><td>Nông nghiệp</td><td>Ratanakiri, Campuchia</td><td>Đang hoạt động</td><td>100</td></tr><tr><td>(5) Công ty TNHH MTV Hoàng Anh Oyadav (&quot;HA Oyadav&quot;)</td><td>Nông nghiệp</td><td>Ratanakiri, Campuchia</td><td>Đang hoạt động</td><td>100</td></tr><tr><td>(6) Công ty TNHH CRD (&quot;CRD&quot;)</td><td>Nông nghiệp</td><td>Ratanakiri, Campuchia</td><td>Đang hoạt động</td><td>100</td></tr><tr><td>(7) Công ty TNHH MTV Đầu tư và Sản xuất Kinh doanh Nông nghiệp Nam Lào (&quot;Nam Lào&quot;) (*)</td><td>Nông nghiệp và xây dựng</td><td>Attapeu, Lào</td><td>Trước hoạt động</td><td>100</td></tr><tr><td colspan="5">Công ty liên kết</td></tr><tr><td>(1) Công ty Cổ phần Cao su Bidiphar (&quot;Bidiphar&quot;)</td><td>Nôngnghiệp</td><td>Bình Định, Việt Nam</td><td>Đang hoạt động</td><td>49,14</td></tr></table>
+
+11
+
+===== PAGE 17 =====
+Công ty Cổ phần Nông nghiệp Quốc tế Hoàng Anh Gia Lai
+
+B09-DN/HN
+
+THUYÊT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+
+vào ngày 31 tháng 12 năm 2024 và cho năm tài chính kết thúc cùng ngày
+
+1. THÔNG TIN CÔNG TY (tiếp theo)
+
+(*) Nam Lào được thành lập ngày 5 tháng 1 năm 2024 theo GCNĐKKD số 0005/ĐKDN cấp bởi Cơ quan đăng ký doanh nghiệp, Sở Công nghiệp và Thương mại tỉnh Attapeu, Lào và Giấy Chứng nhận Đầu tư số 002-2024/KHĐT:ĐT4 cấp bởi Bộ Kế hoạch và Đầu tư Lào, để thực hiện dự án đầu tư sản xuất trồng trot cây ăn trái kết hợp chăn nuôi bò quy mô lớn tại tỉnh Attapeu và tỉnh Sekong, Lào.
+
+2. CO' SÔ' TRÌNH BÀY
+
+2.1 Chuẩn mực và Chế độ kế toán áp dụng
+
+Báo cáo tài chính hợp nhất của Nhóm Công ty được trình bày bằng ngân đồng Việt Nam ("Ngàn VND") phù hợp với Chế độ kế toán doanh nghiệp Việt Nam và các Chuẩn mực kế toán Việt Nam do Bộ Tài chính ban hành theo:
+
+Quyết định số 149/2001/QĐ-BTC ngày 31 tháng 12 năm 2001 về việc ban hành bốn Chuẩn mực kế toán Việt Nam (Đợt 1);
+
+Quyết định số 165/2002/QĐ-BTC ngày 31 tháng 12 năm 2002 về việc ban hành sáu Chuẩn mực kế toán Việt Nam (Đợt 2);
+
+Quyết định số 234/2003/QĐ-BTC ngày 30 tháng 12 năm 2003 về việc ban hành sâu Chuẩn mực kế toán Việt Nam (Đợt 3);
+
+Quyết định số 12/2005/QĐ-BTC ngày 15 tháng 2 năm 2005 về việc ban hành sâu Chuẩn mực kế toán Việt Nam (Đợt 4); và
+
+Quyết định số 100/2005/QĐ-BTC ngày 28 tháng 12 năm 2005 về việc ban hành bốn Chuẩn mực kế toán Việt Nam (Đợt 5).
+
+Theo đó, báo cáo tài chính hợp nhất được trình bày kèm theo và việc sử dụng báo cáo này không dành cho các đối tượng không được cung cấp các thông tin về các thủ tục và nguyên tắc và thông lệ kế toán tại Việt Nam và hơn nữa không được chủ định trình bày tính hình tài chính hợp nhất, kết quả hoạt động kinh doanh hợp nhất và tình hình lưu chuyển tiền tệ hợp nhất của Nhóm Công ty theo các nguyên tắc và thông lệ kế toán được chấp nhận rộng rãi ở các nước và lãnh thổ khác ngoài Việt Nam.
+
+2.2 Hình thức số kế toán áp dụng
+
+Hình thức số kế toán được áp dụng của Nhóm Công ty là Nhật ký chung.
+
+2.3 Ký kế toán năm
+
+Kỳ kế toán năm của Nhóm Công ty áp dụng cho việc lập báo cáo tài chính hợp nhất bắt đầu từ ngày 1 tháng 1 và kết thúc ngày 31 tháng 12.
+
+2.4 Đơn vị tiền tệ trong kế toán
+
+Đơn vị tiền tệ trong kế toán của Công ty là VND. Báo cáo tài chính hợp nhất của Nhóm Công ty được trình bày bằng ngân đồng Việt Nam ("Ngàn VND").
+
+2.5 Co'sò hợp nhất
+
+Báo cáo tài chính hợp nhất bao gồm báo cáo tài chính của Công ty và các công ty con cho năm tài chính kết thúc ngày 31 tháng 12 năm 2024.
+
+Các công ty con được hợp nhất toàn bộ kể từ ngày mua, là ngày Nhóm Công ty thực sự nấm quyền kiểm soát công ty con, và tiếp tục được hợp nhất cho đến ngày Nhóm Công ty thực sự chấm dứt quyền kiểm soát đối với công ty con.
+
+12
+
+===== PAGE 18 =====
+Công ty Cổ phần Nông nghiệp Quốc tế Hoàng Anh Gia Lai
+
+B09-DN/HN
+
+THUYÊT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+
+vào ngày 31 tháng 12 năm 2024 và cho năm tài chính kết thúc cùng ngày
+
+2. CƠ SỞ TRÌNH BÀY (tiếp theo)
+
+2.5 Cơ sở hợp nhất (tiếp theo)
+
+Các báo cáo tài chính của Công ty mẹ và các công ty con sử dụng để hợp nhất được lập cho cùng một kỳ kế toán năm và được áp dụng các chính sách kế toán một cách nhất quán.
+
+Số dư các tài khoản trên bằng cân đối kế toán giữa các đơn vị trong cùng Nhóm Công ty, các khoản thu nhập và chi phí, các khoản lãi hoặc lỗ nội bộ chưa thực hiện phát sinh từ các giao dịch này được loại trừ hoàn toàn.
+
+2.6 Giá định hoạt động liên tục
+
+Báo cáo tài chính hợp nhất đã được lập dựa trên cơ sở hoạt động liên tục, với giả định rằng Nhóm Công ty sẽ có thể sử dụng các tài sản và thanh toán các khoản nợ phải trả của Nhóm Công ty trong quá trình hoạt động kinh doanh bình thường trong tương lai gần.
+
+Như được trình bày trong báo cáo tài chính hợp nhất, Nhóm Công ty đã phát sinh khoản lỗ thuần là 1.281.878.648 ngân VND cho năm tài chính kết thúc ngày 31 tháng 12 năm 2024. Đồng thời, cũng tại ngày này, Nhóm Công ty có khoản lỗ lũy kế là 9.384.124.776 ngân VND và nợ ngắn hạn của Nhóm Công ty đã vượt quá tài sản ngắn hạn với số tiền là 11.829.754.262 ngân VND. Các điều kiện này cho thấy sự tồn tại của yếu tố không chắc chắn trọng yếu có thể dẫn đến nghi ngờ đáng kể về khả năng hoạt động liên tục của Nhóm Công ty.
+
+Tại ngày lập báo cáo tài chính hợp nhất này, Ban Tổng Giám đốc Công ty đang thực hiện đồng thời các giải pháp để giải quyết các vấn đề nếu trên. Cụ thể, Nhóm Công ty đang tiếp tục triển khai các dự án nông nghiệp quy mô lớn để đảm bảo dòng tiền cho hoạt động kinh doanh của Nhóm Công ty và thực hiện đảm phán với các ngân hàng thương mại cho các khoản vay mới. Vào ngày 3 tháng 8 năm 2018, Công ty cũng đã ký kết Thỏa thuận Hợp tác Đầu tư Chiến lược với Công ty Cổ phần Ô tô Trường Hải ("Thaco"), rằng Thaco cam kết sẽ hỗ trợ Nhóm Công ty trong việc tái cơ cấu tài chính và huy động vốn tài trợ cho các dự án nông nghiệp của Nhóm Công ty. Ngoài ra, vào ngày 25 tháng 2 năm 2025, Công ty đã ký kết Hợp đồng Bao tiêu Nông sản với Công ty Cổ phần Nông nghiệp Trường Hải ("Thaco Agri"), trong đó, Thaco Agri sẽ mua và phân phối nông sản của Nhóm Công ty trong năm 2025. Theo đó, Nhóm Công ty kỳ vọng có thể hoàn trả các khoản nợ đến hạn và tiếp tục hoạt động trong kỳ kể toán tiếp theo. Dựa trên các cơ sở này, Ban Tổng Giám đốc đã tiến hành lập báo cáo tài chính hợp nhất của Nhóm Công ty trên cơ sở đáp ứng giả định hoạt động liên tục.
+
+Theo đó, báo cáo tài chính hợp nhất kèm theo chưa bao gồm các điều chỉnh có thể cần được thực hiện nếu báo cáo tài chính hợp nhất của Nhóm Công ty được lập trên cơ sở hoạt động không liên tục.
+
+3. TÓM TẮT CÁC CHÍNH SÁCH KẾ TOÁN CHỦ YẾU
+
+3.1 Tiền
+
+Tiền bao gồm tiền mặt tại quỹ và tiền gửi ngân hàng.
+
+3.2 Các khoản phải thu
+
+Các khoản phải thu được trình bày trên bằng cân đối kế toán hợp nhất theo giá trị ghi sổ các khoản phải thu từ khách hàng và phải thu khác sau khi cán trừ các khoản dự phòng được lập cho các khoản phải thu khó đòi.
+
+Dự phòng nợ phải thu khó đòi thể hiện phần giá trị của các khoản phải thu mà Nhóm Công ty dự kiến không có khả năng thu hồi tại ngày kết thúc ký kế toán năm. Tăng hoặc giảm số dự tài khoản dự phòng được hạch toán vào chi phí quản lý doanh nghiệp trong báo cáo kết quả hoạt động kinh doanh hợp nhất. Khi các khoản nợ phải thu khó đòi được xác định là không thể thu hồi được và kế toán thực hiện xóa nợ, các khoản chênh lệch phát sinh giữa số dự phòng nợ phải thu khó đòi và giá gốc nợ phải thu được hạch toán vào báo cáo kết quả hoạt động kinh doanh hợp nhất.
+
+13
+
+===== PAGE 19 =====
+Công ty Cổ phần Nông nghiệp Quốc tế Hoàng Anh Gia Lai
+
+B09-DN/HN
+
+THUYẾT MINH BẢO CẢO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+
+vào ngày 31 tháng 12 năm 2024 và cho năm tài chính kết thúc cùng ngày
+
+3. TÓM TẮT CÁC CHÍNH SÁCH KẾ TOÁN CHỦ YẾU (tiếp theo)
+
+3.3 Hàng tồn kho
+
+Hàng tồn kho được tính theo giá gốc. Giá gốc hàng tồn kho bao gồm chi phí mua, chi phí chế biến (bao gồm chi phí nguyên vật liệu, chi phí lao động trực tiếp, chi phí liên quan trực tiếp khác, chi phí sản xuất chung có liên quan được phân bổ dựa trên mức độ hoạt động bình thường) để có được hàng tồn kho ở địa điểm và trạng thái hiện tại.
+
+Trường hợp giá trị thuần có thể thực hiện được thấp hơn giá gốc thì phải tính theo giá trị thuần có thể thực hiện được.
+
+Giá trị thuần có thể thực hiện được là giá bán ước tính của hàng tồn kho trong điều kiện kinh doanh bình thường trừ chi phí ước tính để hoàn thành và chi phí bán hàng ước tính.
+
+Nhóm Công ty áp dụng phương pháp kê khai thường xuyên để hạch toán hàng tồn kho với giá trị được xác định như sau:
+
+Nguyên vật liệu, công cụ, dụng - Chi phí mua theo phương pháp bình quân gia quyền. cụ và hàng hóa
+
+Thành phẩm và chi phí sản xuất, kinh doanh dở dang - Chi phí nguyên vật liệu và lao động trực tiếp cộng với chi phí sản xuất chung có liên quan được phân bổ dựa trên công suất hoạt động bình thường.
+
+Chi phí công trình dở dang - Hợp đồng xây dựng
+
+Chi phí công trình dở dang xây dựng đề bán trong quá trình hoạt động bình thường của Nhóm Công ty, không phải đề cho thuê hoặc chờ tăng giá, được ghi nhận là chi phí công trình dở dang - Hợp đồng xây dựng theo giá thấp hơn giữa giá thành đề đưa mỗi sản phẩm đến vị trí và điều kiện hiện tại và giá trị thuần có thể thực hiện được.
+
+Giá thành của chi phí công trình đồ dang bao gồm:
+
+▶ Chi phí xây dựng trả cho nhà thầu; và
+
+▶ Chi phí lãi vay, chi phí tư vấn, thiết kế, chi phí san lắp, đền bù giải phóng mặt bằng, phí tư vấn, thuế chuyển nhượng đất, chi phí quản lý xây dựng chung, và các chi phí liên quan khác.
+
+Giá trị thuần có thể thực hiện được là giá bán ước tính của chi phí công trình đồ dang trong điều kiện kinh doanh bình thường, dựa trên giá thị trường vào ngày báo cáo và chiết khấu cho giá trị thời gian của dòng tiền, nếu đáng kể, và trừ chi phí ước tính để hoàn thành và chi phí bán hàng ước tính.
+
+Giá vốn của chi phí công trình độ dang đã bán được ghi nhận trên báo cáo kết quả hoạt động kinh doanh hợp nhất dựa trên các chi phí trực tiếp tạo thành công trình độ dang đó và chi phí chung được phân bổ trên hạng mục hoàn tất tương ứng của công trình độ dang đó.
+
+Dự phòng giảm giá hàng tồn kho
+
+Dự phòng giảm giá hàng tồn kho được trích lập cho phần giá trị dự kiến bị tồn thất do các khoản suy giảm trong giá trị (do giảm giá, hư hỏng, kém phẩm chất, lỗi thời v.v.) có thể xảy ra đối với nguyên vật liệu, thành phẩm, hàng hóa tồn kho khác thuộc quyền sở hữu của Nhóm Công ty dựa trên bằng chứng hợp lý về sự suy giảm giá trị tại ngày kết thúc ký kế toán năm.
+
+Số tăng hoặc giảm khoản dự phòng giảm giá hàng tồn kho được hạch toán vào giá vốn hàng bán trên báo cáo kết quả hoạt động kinh doanh hợp nhất. Khi hàng tồn kho bị hủy bỏ do hết hạn sử dụng, mất phẩm chất, hư hỏng, không còn giá trị sử dụng, các khoản chênh lệch phát sinh giữa số dự phòng giảm giá hàng tồn kho đã trích lập và giá gốc hàng tồn kho được hạch toán vào báo cáo kết quả hoạt động kinh doanh hợp nhất.
+
+14
+
+===== PAGE 20 =====
+Công ty Cổ phần Nông nghiệp Quốc tế Hoàng Anh Gia Lai
+
+B09-DN/HN
+
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+
+vào ngày 31 tháng 12 năm 2024 và cho năm tài chính kết thúc cùng ngày
+
+3. TÓM TẮT CÁC CHÍNH SÁCH KẾ TOÁN CHỦ YẾU (tiếp theo)
+
+3.4 Tài sản cố định hữu hình
+
+Tài sản cố định hữu hình được thể hiện theo nguyên giá trừ đi giá trị khấu hao lũy kế.
+
+Nguyên giá tài sản cố định hữu hình bao gồm giá mua và những chi phí có liên quan trực tiếp đến việc đưa tài sản vào hoạt động như dự kiến và chi phí để tháo dỡ, di đời tài sản và khởi phục hiện trường tại địa điểm đặt tài sản, nếu có.
+
+Các chỉ phí mua sắm, nâng cấp và đổi mới tài sản cố định hữu hình được ghi tăng nguyên giá của tài sản và chỉ phí bảo trì, sửa chữa được hạch toán vào báo cáo kết quả hoạt động kinh doanh hợp nhất khi phát sinh.
+
+Khi tài sản cố định hữu hình được bán hay thanh lý, các khoản lãi hoặc lỗ phát sinh do thanh lý tài sản (là phần chênh lệch giữa tiền thu thuần từ việc bán tài sản với giá trị còn lại của tài sản) được hạch toán vào báo cáo kết quả hoạt động kinh doanh hợp nhất.
+
+3.5 Tài sản cố định vô hình
+
+Tài sản cố định vô hình được ghi nhận theo nguyên giá trừ đi giá trị hao mòn lũy kế.
+
+Nguyên giá tài sản cố định vô hình bao gồm giá mua và những chi phí có liên quan trực tiếp đến việc đưa tài sản vào sử dụng như dự kiến.
+
+Các chi phí nâng cấp và đổi mới tài sản cố định vô hình được ghi tăng nguyên giá của tài sản và các chi phí khác được hạch toán vào báo cáo kết quả hoạt động kinh doanh hợp nhất khi phát sinh.
+
+Khi tài sản cố định vô hình được bán hay thanh lý, các khoản lãi hoặc lỗ phát sinh do thanh lý tài sản (là phần chênh lệch giữa tiền thu thuần từ việc bán tài sản với giá trị còn lại của tài sản) được hạch toán vào báo cáo kết quả hoạt động kinh doanh hợp nhất.
+
+Quyền sử dụng đất
+
+Quyền sử dụng đất được ghi nhận như tài sản cố định vô hình, thể hiện giá trị của quyền sử dụng đất đã được Nhóm Công ty mua hoặc thuê. Thời gian hữu dụng của quyền sử dụng đất được đánh giá là không có thời hạn hoặc có thời hạn. Theo đó, quyền sử dụng đất có thời hạn thể hiện giá trị tiến thuê đất được trích hao mòn theo thời gian thuê còn quyền sử dụng đất không có thời hạn thì không được trích hao mòn.
+
+3.6 Khấu hao và hao mòn
+
+Khấu hao tài sản cố định hữu hình và hao mòn tài sản cố định vô hình được trích theo phương pháp đường thẳng trong suốt thời gian hữu dụng ước tính của các tài sản như sau:
+
+<table><tr><td>Nhà cửa và vật kiến trúc</td><td>8 - 50 năm</td></tr><tr><td>Máy móc và thiết bị</td><td>5 - 15 năm</td></tr><tr><td>Phương tiện vận tải, truyền dẫn</td><td>6 - 20 năm</td></tr><tr><td>Thiết bị văn phòng</td><td>4 - 5 năm</td></tr><tr><td>Cây trồng lâu năm</td><td>10 - 25 năm</td></tr><tr><td>Chương trình phần mềm</td><td>10 năm</td></tr><tr><td>Gia sức chắn nuôi</td><td>8 năm</td></tr><tr><td>Tài sản khác</td><td>10 - 15 năm</td></tr></table>
+
+Quyền sử dụng đất không có thời hạn thì không trích hao mòn.
+
+15
+
+===== PAGE 21 =====
+Công ty Cổ phần Nông nghiệp Quốc tế Hoàng Anh Gia Lai
+
+B09-DN/HN
+
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+
+vào ngày 31 tháng 12 năm 2024 và cho năm tài chính kết thúc cùng ngày
+
+3. TÓM TẮT CÁC CHÍNH SÁCH KẾ TOÁN CHỦ YẾU (tiếp theo)
+
+3.6 Khấu hao và hao mòn (tiếp theo)
+
+Khấu hao các loại cây trồng lâu năm
+
+Chi tiết như sau:
+
+<table><tr><td rowspan="2">Năm khai thác</td><td colspan="4">Tỷ lệ khấu hao (%)</td></tr><tr><td>Vườn cây cao su(i)</td><td>Vườn cây chuối(ii)</td><td>Vườn mít(iii)</td><td>Vườn xoài(iv)</td></tr><tr><td>Năm thứ 1</td><td>2,50</td><td>10,00</td><td>0,80</td><td>0,30</td></tr><tr><td>Năm thứ 2</td><td>2,80</td><td>10,00</td><td>1,80</td><td>1,00</td></tr><tr><td>Năm thứ 3</td><td>3,50</td><td>10,00</td><td>4,10</td><td>2,20</td></tr><tr><td>Năm thứ 4</td><td>4,40</td><td>10,00</td><td>5,80</td><td>4,30</td></tr><tr><td>Năm thứ 5</td><td>4,80</td><td>10,00</td><td>5,80</td><td>5,80</td></tr><tr><td>Năm thứ 6</td><td>5,40</td><td>10,00</td><td>5,80</td><td>5,80</td></tr><tr><td>Năm thứ 7</td><td>5,40</td><td>10,00</td><td>5,80</td><td>5,80</td></tr><tr><td>Năm thứ 8</td><td>5,10</td><td>10,00</td><td>5,80</td><td>5,80</td></tr><tr><td>Năm thứ 9</td><td>5,10</td><td>10,00</td><td>5,80</td><td>5,80</td></tr><tr><td>Năm thứ 10</td><td>5,00</td><td>Giá trị còn lại</td><td>5,80</td><td>5,80</td></tr><tr><td>Năm thứ 11</td><td>7,00</td><td></td><td>5,80</td><td>5,80</td></tr><tr><td>Năm thứ 12</td><td>6,60</td><td></td><td>5,80</td><td>5,80</td></tr><tr><td>Năm thứ 13</td><td>6,20</td><td></td><td>5,80</td><td>5,80</td></tr><tr><td>Năm thứ 14</td><td>5,90</td><td></td><td>5,80</td><td>5,80</td></tr><tr><td>Năm thứ 15</td><td>5,50</td><td></td><td>5,80</td><td>5,80</td></tr><tr><td>Năm thứ 16</td><td>5,40</td><td></td><td>4,70</td><td>5,80</td></tr><tr><td>Năm thứ 17</td><td>5,00</td><td></td><td>4,70</td><td>5,80</td></tr><tr><td>Năm thứ 18</td><td>5,50</td><td></td><td>4,70</td><td>5,80</td></tr><tr><td>Năm thứ 19</td><td>5,20</td><td></td><td>4,70</td><td>5,80</td></tr><tr><td>Năm thứ 20</td><td>Giá trị còn lại</td><td></td><td>Giá trị còn lại</td><td>Giá trị còn lại</td></tr></table>
+
+Vuàn cây cao su
+
+Ban Tổng Giám đốc ước tính tiêu chuẩn xác định vườn cây đủ điều kiện khai thác để hạch toán tài sản và trích khấu hao khi tỷ lệ cây đủ tiêu chuẩn cạo mũ (chu vi thân cây đo cách mặt đất 1m đạt từ 45cm trở lên và độ dày vỏ ở độ cao 1m cách mặt đất đạt từ 6mm trở lên) đạt trên 70% số cây còn sống trong lô.
+
+Vườ cây ăn trái
+
+Ban Tổng Giám đốc ước tính tiêu chuẩn xác định vườn cây đủ điều kiện khai thác để hạch toán tài sản và trích khấu hao khi tỷ lệ đậu trái đạt trên 50% số cây trồng trong lô kể từ thời gian xử lý ra trái.
+
+16
+
+===== PAGE 22 =====
+Công ty Cổ phần Nông nghiệp Quốc tế Hoàng Anh Gia Lai
+
+B09-DN/HN
+
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+
+vào ngày 31 tháng 12 năm 2024 và cho năm tài chính kết thúc cùng ngày
+
+3. TÓM TẮT CÁC CHÍNH SÁCH KẾ TOÁN CHỦ YẾU (tiếp theo)
+
+3.6 Khấu hao và hao mòn (tiếp theo)
+
+Khấu hao các loại cây trồng lâu năm (tiếp theo)
+
+(i) Khấu hao đối với vườn cây cao su được thực hiện dựa trên Công văn số 1937/BTC-TCDN ngày 9 tháng 2 năm 2010 của Cục Tài chính Doanh nghiệp - Bộ Tài chính hướng dẫn trích khấu hao vườn cây cao su và Quyết định số 221/QĐ-CSVN ngày 27 tháng 4 năm 2010 của Tập đoàn Công nghiệp Cao su Việt Nam hướng dẫn tỷ lệ trích khấu hao vườn cây cao su theo chu kỳ khai thác hai mươi (20) năm.
+
+(ii) Khấu hao đối với vườn cây chuối được thực hiện dựa trên Quyết định số 0106/QĐ-HAGL Agrico ngày 1 tháng 6 năm 2020 của Ban Tổng Giám đốc hướng dẫn tỷ lệ trích khấu hao vườn cây chuối theo chu kỳ khai thác.
+
+(iii) Khấu hao đổi với vườn mít được thực hiện dựa trên Quyết định số 0111/QĐ-HAGL Agrico ngày 1 tháng 11 năm 2018 của Ban Tổng Giám đốc hướng dẫn tỷ lệ trích khấu hao vườn cây mít theo chu kỳ khai thác.
+
+(iv) Khấu hao đối với vườn xoài được thực hiện dựa trên Quyết định số 0101/18/QĐ-HAGL Agrico ngày 2 tháng 1 năm 2018 của Ban Tổng Giám đốc hướng dẫn tỷ lệ trích khấu hao vườn cây xoài theo chu kỳ khai thác.
+
+(v) Khấu hao đối với các vườn cây còn lại được thực hiện dựa trên các Quyết định khác có liên quan của Ban Tổng Giám đốc.
+
+3.7 Chi phí xây dựng cơ bản đồ dang
+
+Chi phí xây dựng cơ bản dở dang thể hiện chi phí mua sắm mới tài sản chưa được lắp đặt xong hoặc chi phí xây dựng cơ bản chưa được hoàn thành. Chi phí xây dựng cơ bản dở dang được ghi nhận theo giá gốc bao gồm toàn bộ chi phí cần thiết để xây dựng mới hoặc sửa chữa, cải tạo, mở rộng hay trang bị lại kỹ thuật công trình như chi phí xây dựng, chi phí thiết bị, chi phí quản lý dự án, chi phí tư vấn đầu tư xây dựng và chi phí vay đủ điều kiện được vốn hóa.
+
+Chi phí xây dựng cơ bản dở dang sẽ được chuyển sang tài khoản tài sản cố định thích hợp, khi các tài sản này được lắp đặt xong hoặc dự án xây dựng được hoàn thành và khấu hao của các tài sản này sẽ được bắt đầu trích khi các tài sản này đã sẵn sàng cho mục đích sử dụng.
+
+Chi phí xây dựng cơ bản đồ dang ghi nhận vào chi phí trong năm trong trường hợp chi phí xây dựng cơ bản đồ dang không đủ điều kiện để ghi nhận là tài sản cố định.
+
+3.8 Chi phí đi vay
+
+Chi phí đi vay bao gồm tiền lãi vay và các chi phí khác phát sinh liên quan trực tiếp đến các khoản vay của Nhóm Công ty.
+
+Chi phí đi vay được hạch toán như chi phí phát sinh trong năm ngoại trừ chi phí đi vay liên quan trực tiếp đến việc mua sắm, xây dựng hoặc hình thành một tài sản cụ thể được vốn hóa vào nguyên giá tài sản. Việc vốn hóa chi phí đi vay sẽ được tạm ngừng lại trong các năm mà quá trình đầu tư xây dựng hoặc sản xuất tài sản đồ dang bị gián đoạn, trừ khi sự gián đoạn đó là cần thiết. Việc vốn hoá chi phí đi vay sẽ chấm dứt khi các hoạt động chủ yếu cần thiết cho việc chuẩn bị đưa tài sản đồ dang vào sử dụng hoặc bán đã hoàn thành.
+
+17
+
+===== PAGE 23 =====
+Công ty Cổ phần Nông nghiệp Quốc tế Hoàng Anh Gia Lai
+
+B09-DN/HN
+
+THUYẾT MINH BẢO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+
+vào ngày 31 tháng 12 năm 2024 và cho năm tài chính kết thúc cùng ngày
+
+3. TÓM TẮT CÁC CHÍNH SÁCH KẾ TOÁN CHỦ YẾU (tiếp theo)
+
+3.9 Thuê tài sản
+
+Việc xác định một thỏa thuận có phải là thỏa thuận thuê tài sản hay không dựa trên bản chất của thỏa thuận đó vào thời điểm khởi đầu: liệu việc thực hiện thỏa thuận này có phụ thuộc vào việc sử dụng một tài sản nhất định và thỏa thuận có bao gồm điều khoản về quyền sử dụng tài sản hay không.
+
+Trong trường hợp Tập đoàn là bên đi thuê
+
+Các khoản tiền thuê theo hợp đồng thuê hoạt động được hạch toán vào báo cáo kết quả hoạt động kinh doanh hợp nhất theo phương pháp đường thẳng trong suốt thời hạn của hợp đồng thuê.
+
+3.10 Chi phí trả trước
+
+Chi phí trả trước bao gồm các chi phí trả trước ngắn hạn và dài hạn trên bằng cân đối kế toán hợp nhất chủ yếu là công cụ, dụng cụ, tiền thuê đất trả trước, các chi phí phát triển vườn cây ngắn ngày và các chi phí khác. Các chi phí trả trước được phân bổ trong khoảng thời gian trả trước hoặc thời gian mà các lợi ích kinh tế tương ứng được tạo ra từ các chi phí này.
+
+Các loại chi phí sau đây được hạch toán vào chi phí trả trước dài hạn để phân bổ vào báo cáo kết quả hoạt động kinh doanh hợp nhất:
+
+- Tiền thuê đất trả trước được phân bổ theo thời hạn thuê;
+
+- Công cụ dụng cụ xuất dùng trong nhiều năm với giá trị lớn, được phân bổ dàn không quá ba (3) năm vào báo cáo kết quả hoạt động kinh doanh hợp nhất;
+
+- Chi phí phát triển cây ăn quả, vườn cây khác, chi phí khai hoang bao gồm: chi phí giống, chi phí chuẩn bị đất, trồng và chăm sóc vườn. Các chi phí này được phân bổ theo thời gian gắn liền với đặc tính sinh trường của từng loại cây; và
+
+- Chi phí dự án chăn nuôi.
+
+3.11 Các khoản đầu tư
+
+Đầu tư vào công ty liên kết
+
+Khoản đầu tư của Nhóm Công ty vào công ty liên kết được hạch toán theo phương pháp vốn chủ sở hữu. Công ty liên kết là công ty mà trong đó Nhóm Công ty có ảnh hưởng đáng kể nhưng không phải là công ty con hay công ty liên doanh của Nhóm Công ty. Thông thường, Nhóm Công ty được coi là có ảnh hưởng đáng kể nếu sở hữu trên 20% quyền bổ phiếu ở đơn vị nhận đầu tư.
+
+Theo phương pháp vốn chủ sở hữu, khoản đầu tư được ghi nhận ban đầu trên bằng cân đối kế toán hợp nhất theo giá gốc, sau đó được điều chỉnh theo những thay đổi của phần sở hữu của Nhóm Công ty trong giá trị tài sản thuần của các công ty liên kết sau khi mua. Lợi thế thương mại phát sinh từ việc đầu tư vào công ty liên kết được phân ánh trong giá trị còn lại của khoản đầu tư. Nhóm Công ty không phân bổ lợi thế thương mại này mà hàng năm thực hiện đánh giá xem lợi thế thương mại có bị suy giảm giá trị hay không.
+
+18
+
+===== PAGE 24 =====
+Công ty Cổ phần Nông nghiệp Quốc tế Hoàng Anh Gia Lai
+
+B09-DN/HN
+
+THUYÊT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+
+vào ngày 31 tháng 12 năm 2024 và cho năm tài chính kết thúc cùng ngày
+
+3. TÓM TẮT CÁC CHÍNH SÁCH KẾ TOÁN CHỦ YẾU (tiếp theo)
+
+3.11 Các khoản đầu tư (tiếp theo)
+
+Đầu tư vào công ty liên kết (tiếp theo)
+
+Phần sở hữu của nhà đầu tư trong lợi nhuận/(lỗ) của công ty liên kết sau khi mua được phần ánh trên báo cáo kết quả hoạt động kinh doanh hợp nhất. Ngoài ra, khi có sự thay đổi được ghi nhận trực tiếp vào vốn chủ sở hữu của công ty liên kết, Nhóm Công ty sẽ ghi nhận phần chia sẻ của mình tương ứng với các thay đổi đó trong vốn chủ sở hữu. Thay đổi lũy kế sau khi mua được điều chỉnh vào giá trị còn lại của khoản đầu tư vào công ty liên kết. Cổ tức nhận được hoặc lợi nhuận được chia từ công ty liên kết được cán trừ vào khoản đầu tư vào công ty liên kết.
+
+Báo cáo tài chính của công ty liên kết được lập cùng kỳ với báo cáo tài chính hợp nhất của Nhóm Công ty và sử eleving các chính sách kế toán nhất quản với Nhóm Công ty. Các điều chỉnh hợp nhất thích hợp đã được ghi nhận để bảo đảm các chính sách kế toán được áp dụng nhất quán với Nhóm Công ty trong trường hợp cần thiết.
+
+Đầu tư góp vốn vào đơn vị khác
+
+Đầu tư góp vốn vào đơn vị khác được ghi nhận theo giá gốc.
+
+Dự phòng các khoản đầu tư
+
+Dự phòng cho việc giảm giá trị của các khoản đầu tư được lập khi có bằng chứng chắc chắn cho thấy có sự suy giảm giá trị của các khoản đầu tư này vào ngày kết thúc ký kế toán năm.
+
+Tăng hoặc giảm số dư tài khoản dự phòng được hạch toán vào chi phí tài chính trên báo cáo kết quả hoạt động kinh doanh hợp nhất.
+
+3.12 Các khoản phải trả và chi phí trích trước
+
+Các khoản phải trả và chi phí trích trước được ghi nhận cho số tiền phải trả trong tương lai liên quan đến hàng hóa và dịch vụ đã nhận được mà không phụ thuộc vào việc Nhóm Công ty đã nhận được hóa đơn của nhà cung cấp hay chưa.
+
+3.13 Dự phòng
+
+Nhóm Công ty ghi nhận dự phòng khi có nghĩa vụ nợ hiện tại (nghĩa vụ pháp lý hoặc nghĩa vụ liên đối) là kết quả của một sự kiến đã xảy ra trong quá khử. Việc thanh toán nghĩa vụ nợ này có thể sẽ dẫn đến sự giảm sút về những lợi ích kinh tế và Nhóm Công ty có thể đưa ra được một ước tính đáng tin cây về giá trị của nghĩa vụ nợ đó.
+
+3.14 Lãi (lỗ) trên cổ phiếu
+
+Lãi (lỗ) cơ bản trên cổ phiếu được tính bằng cách chia lợi nhuận (lỗ) sau thuế phân bổ cho cổ đông sở hữu cổ phiếu phổ thông của Công ty (sau khi đã điều chỉnh cho việc trích lập quỹ khen thưởng, phúc lợi) cho số lượng bình quân gia quyền của số cổ phiếu phổ thông đang lưu hành trong năm.
+
+Lãi (lỗ) suy giảm trên cổ phiếu được tính bằng cách chia lợi nhuận (lỗ) sau thuế phân bổ cho cổ đông sở hữu cổ phiếu phổ thông của Công ty cho số lượng bình quân gia quyền của số cổ phiếu phổ thông đang lưu hành trong năm và số lượng bình quân gia quyền của cổ phiếu phổ thông sẽ được phát hành trong trường hợp tất cả các cổ phiếu phổ thông tiềm năng có tác động suy giảm đều được chuyển thành cổ phiếu phổ thông.
+
+19
+
+===== PAGE 25 =====
+Công ty Cổ phần Nông nghiệp Quốc tế Hoàng Anh Gia Lai
+
+B09-DN/HN
+
+THUYẾT MINH BẢO CẢO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+
+vào ngày 31 tháng 12 năm 2024 và cho năm tài chính kết thúc cùng ngày
+
+3. TÓM TẮT CÁC CHÍNH SÁCH KẾ TOÁN CHỦ YẾU (tiếp theo)
+
+3.15 Các nghiệp vụ bằng ngoại tệ
+
+Các nghiệp vụ phát sinh bằng các đơn vị tiền tệ khác với đơn vị tiền tệ trong kế toán của Nhóm Công ty (VND) được hạch toán theo tỷ giá giao dịch thực tế vào ngày phát sinh nghiệp vụ theo nguyên tắc sau:
+
+- Nghiệp vụ làm phát sinh các khoản phải thu được hạch toán theo tỷ giá mua của ngân hàng thương mại nơi Nhóm Công ty chỉ định khách hàng thanh toán;
+
+- Nghiệp vụ làm phát sinh các khoản phải trả được hạch toán theo tỷ giá bán của ngân hàng thương mại nơi Nhóm Công ty dự kiến giao dịch;
+
+- Giao dịch góp vốn hoặc nhận vốn góp được hạch toán theo tỷ giá mua ngoại tệ của ngân hàng nơi Nhóm Công ty mở tài khoản để nhận vốn của nhà đầu tư; và
+
+- Giao dịch mua sắm tài sản hoặc các khoản chi phí được thanh toán ngay bằng ngoại tệ (không qua các tài khoản phải trả) được hạch toán theo tỷ giá mua của ngân hàng thương mại nơi Nhóm Công ty thực hiện thanh toán.
+
+Tại ngày kết thúc kỳ kế toán năm, các khoản mục tiền tệ có gốc ngoại tệ được đánh giá lại theo tỷ giá giao dịch thực tế tại ngày của bằng cân đối kế toán theo nguyên tắc sau:
+
+- Các khoản mục tiền tệ được phân loại là tài sản được đánh giá lại theo tỷ giá mua của ngân hàng thương mại nơi Nhóm Công ty thường xuyên có giao dịch; và
+
+- Các khoản mục tiền tệ được phân loại là nợ phải trả được đánh giá lại theo tỷ giá bán của ngân hàng thương mại nơi Nhóm Công ty thường xuyên có giao dịch.
+
+Tất cả các khoản chênh lệch tỷ giá phát sinh được hạch toán vào báo cáo kết quả hoạt động kinh doanh hợp nhất.
+
+Chuyên đổi báo cáo tài chính của cơ sở hoạt động ở nước ngoài
+
+Việc chuyển đổi báo cáo tài chính của công ty con mà việc ghi chép số sách được thực hiện bằng đơn vị tiền tệ khác với đơn vị tiền tệ kế toán của Nhóm Công ty là VND, cho mục đích hợp nhất báo cáo tài chính, được thực hiện như sau:
+
+- Tài sản và nợ phải trả được quy đổi tương ứng theo tỷ giá mua và bán của ngân hàng thương mại nơi Nhóm Công ty thường xuyên có giao dịch vào ngày kết thúc kỳ kế toán năm;
+
+- Doanh thu, thu nhập khác và các khoản chi phí được quy đổi theo tỷ giá bình quân trong năm; và
+
+- Tất cả các khoản chênh lệch tỷ giá hối đoái khi chuyển đổi báo cáo tài chính của công ty con cho mục đích hợp nhất được ghi nhận vào khoản mục “Chênh lệch tỷ giá hối đoái” thuộc nguồn vốn chủ sở hữu trên bảng cân đối kế toán hợp nhất và được hạch toán vào báo cáo kết quả hoạt động kinh doanh hợp nhất khi khoản đầu tư được thanh lý.
+
+Tại ngày 31 tháng 12 năm 2024, Nhóm Công ty đã quy đổi các báo cáo tài chính của các công ty con sử dụng đồng tiền kế toán bằng USD và KHR theo các tỷ giá như sau:
+
+- USD/VND: tỷ giá tài sản: 25.349; tỷ giá nợ phải trả: 25.551 (31 tháng 12 năm 2023: tỷ giá tài sản: 24.110; tỷ giá nợ phải trả: 24.410); và
+
+- KHR/VND: tỷ giá tài sản: 6,40; tỷ giá nợ phải trả: 6,50 (31 tháng 12 năm 2023: tỷ giá tài sản: 5,85; tỷ giá nợ phải trả: 6,11).
+
+20
+
+MINH ★ H'H'N'21
+
+===== PAGE 26 =====
+Công ty Cổ phần Nông nghiệp Quốc tế Hoàng Anh Gia Lai
+
+B09-DN/HN
+
+THUYẾT MINH BẢO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+
+vào ngày 31 tháng 12 năm 2024 và cho năm tài chính kết thúc cùng ngày
+
+3. TÓM TẮT CÁC CHÍNH SÁCH KẾ TOÁN CHỦ YẾU (tiếp theo)
+
+3.16 Vốn góp của chủ sở hữu
+
+Cổ phiếu phổ thông
+
+Cổ phiếu phổ thông được ghi nhận theo giá phát hành trừ đi các chi phí phát sinh liên quan trực tiếp đến việc phát hành cổ phiếu, sau khi trừ đi các ảnh hưởng thuế. Các chi phí này được ghi nhận là một khoản khấu trừ từ thẳng dư vốn cổ phần.
+
+Thặng dư vốn cổ phần
+
+Thặng dư vốn cổ phần phản ánh khoản chênh lệch giữa mệnh giá và giá phát hành cổ phiếu trừ đi chi phí phát hành cổ phiếu thực tế phát sinh.
+
+3.17 Phân chia lợi nhuận
+
+Lợi nhuận thuần sau thuế thu nhập doanh nghiệp (không bao gồm các khoản lãi từ giao dịch mua giá rè) có thể được chia cho các cổ đông sau khi được Đại hội đồng Cổ đông phê duyệt, và sau khi đã trích lập các quỹ dự phòng theo Điều lệ của Công ty và các quy định của pháp luật Việt Nam.
+
+3.18 Ghi nhận doanh thu
+
+Doanh thu được ghi nhận khi Nhóm Công ty có khả năng nhận được các lợi ích kinh tế could thể xác định được một cách chắc chắn. Doanh thu được xác định theo giá trị hợp lý của các khoản đã thu hoặc sẽ thu được sau khi trừ đi các khoản chiết khấu thương mại, giảm giá hàng bán và hàng bán bị trả lại. Các điều kiện ghi nhận cụ thể sau đây cũng phải được đáp ứng khi ghi nhận doanh thu.
+
+Doanh thu bán hàng
+
+Doanh thu bán hàng được ghi nhận khi các rủi ro trọng yếu và các quyền sở hữu hàng hóa đã được chuyển sang người mua, thường là trùng với thời điểm chuyển giao hàng hóa.
+
+Hợp đồng xây dựng
+
+Khi kết quả thực hiện hợp đồng xây dựng có thể được ước tính một cách đáng tin cậy và được xác nhận bởi khách hàng thì doanh thu và chi phí liên quan đến hợp đồng được gh nhân tương ứng với phần công việc đã hoàn thành được khách hàng xác nhận vào ngày cuối năm. Các khoản tăng hoặc giảm khối lượng xây lắp, các khoản thu bởi thường và các khoản thu khác chỉ được hạch toán vào doanh thu khi đã được thống nhất với khách hàng.
+
+Khi kết quả thực hiện hợp đồng xây dựng không thể được ước tính một cách đáng tin cậy thì doanh thu chỉ được ghi nhận tương đương với chi phí của hợp đồng đã phát sinh mà việc thu hồi là tương đối chắc chắn. Chỉ phí của hợp đồng chỉ được ghi nhận là chỉ ph trong khi các chỉ phí này đã phát sinh.
+
+Doanh thu cung cấp dịch vụ
+
+Doanh thu từ việc cung cấp các dịch vụ được ghi nhận khi dịch vụ đã được thực hiện.
+
+Doanh thu từ tiền lãi
+
+Tiền lãi được ghi nhận trên cơ sở thời gian và lãi suất thực tế từng kỳ.
+
+Cổ tức và lợi nhuận được chia
+
+Cổ tức và lợi nhuận được chia được ghi nhận khi Công ty được quyền nhận cổ tức hoặc được quyền nhận lợi nhuận từ việc góp vốn.
+
+21
+
+===== PAGE 27 =====
+Công ty Cổ phần Nông nghiệp Quốc tế Hoàng Anh Gia Lai
+
+B09-DN/HN
+
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+
+vào ngày 31 tháng 12 năm 2024 và cho năm tài chính kết thúc cùng ngày
+
+3. TÓM TẮT CÁC CHÍNH SÁCH KẾ TOÁN CHỦ YẾU (tiếp theo)
+
+3.19 Thuế
+
+Thuế thu nhập hiện hành
+
+Tài sản thuế thu nhập và thuế thu nhập phải nộp cho năm hiện hành và các năm trước được xác định bằng số tiền dự kiến được thu hồi từ hoặc phải nộp cho cơ quan thuế, dựa trên các mức thuế suất và các luật thuế có hiệu lực đến ngày kết thúc kỳ kế toán năm.
+
+Thuế thu nhập hiện hành được ghi nhận vào báo cáo kết quả hoạt động kinh doanh hợp nhất ngoại trừ trường hợp thuế thu nhập phát sinh liên quan đến một khoản mục được ghi thẳng vào vốn chủ sở hữu, trong trường hợp này, thuế thu nhập hiện hành cũng được ghi nhận trực tiếp vào vốn chủ sở hữu.
+
+Nhóm Công ty chỉ được bù trừ các tài sản thuế thu nhập hiện hành và thuế thu nhập hiện hành phải nộp khi Nhóm Công ty có quyền hợp pháp được bù trừ giữa tài sản thuế thu nhập hiện hành với thuế thu nhập hiện hành phải nộp và Nhóm Công ty dự định thanh toán thuế thu nhập hiện hành phải nộp và tài sản thuế thu nhập hiện hành trên cơ sở thuần.
+
+Thuế thu nhập hoãn lại
+
+Thuế thu nhập hoãn lại được xác định cho các khoản chênh lệch tạm thời tại ngày kết thúc kỳ kế toán năm giữa cơ sở tính thuế thu nhập của các tài sản và nợ phải trả và giá trị ghi số của các khoản mục này cho mục đích lập báo cáo tài chính hợp nhất.
+
+Thuế thu nhập hoãn lại phải trả được ghi nhận cho tất cả các khoản chênh lệch tạm thời chịu thuế, ngoại trừ:
+
+Thuế thu nhập hoãn lại phải nộp phát sinh từ ghi nhận ban đầu của một tài sản hay nợ phải trả từ một giao dịch mà giao dịch này không có ảnh hưởng đến lợi nhuận kế toán và lợi nhuận tính thuế thu nhập (hoặc lỗ tính thuế) tại thời điểm phát sinh giao dịch; và
+
+Tất cả các chênh lệch tạm thời chịu thuế gắn liền với các khoản đầu tư vào các công ty con và công ty liên kết khi Nhóm Công ty có khả năng kiểm soát thời gian hoàn nhập khoản chênh lệnh tạm thời và chắc chắn khoản chênh lệch tạm thời sẽ không được hoàn nhập trong tương lai có thể dự đoán.
+
+Tài sản thuế thu nhập hoãn lại cần được ghi nhận cho tất cả các chênh lệch tạm thời được khấu trừ, giá trị được khấu trừ chuyển sang các năm sau của các khoản lỗ tính thuế và các khoản ưu đãi thuế chưa sử dụng, khi chắc chắn trong tương lai sẽ có lợi nhuận tính thuế để sử dụng những chênh lệch tạm thời được khấu trừ, các khoản lỗ tính thuế và các ưu đãi thuế chưa sử dụng này, ngoại trừ:
+
+Tài sản thuế hoãn lại phát sinh từ ghi nhận ban đầu của một tài sản hoặc nợ phải trả từ một giao dịch mà giao dịch này không có ảnh hưởng đến lợi nhuận kế toán và lợi nhuận tính thuế thu nhập (hoặc lỗ tính thuế) tại thời điểm phát sinh giao dịch; và
+
+Đối với các chênh lệch tạm thời được khấu trừ phát sinh từ các khoản đầu tư vào các công ty con và công ty liên kết, tài sản thuế thu nhập hoãn lại chỉ được ghi nhận khi chắc chắn là chênh lệnh tạm thời sẽ được hoàn nhập trong tương lai có thể dự đoán được và có lợi nhuận chịu thuế để sử dụng được khoản chênh lệch tạm thời đó.
+
+Giá trị ghi sổ cửa tài sản thuế thu nhập doanh nghiệp hoãn lại được xem xét lại vào ngày kết thúc ký kế toán năm và phải ghi giảm giá trị ghi sổ cửa tài sản thuế thu nhập hoãn lại đến mức bảo đảm chắc chắn có đủ lợi nhuận tính thuế cho phép lợi ích của một phần hoặc toàn bộ tài sản thuế thu nhập hoãn lại được sử dụng. Các tài sản thuế thu nhập doanh nghiệp hoãn lại chưa được ghi nhận trước đây được xem xét lại vào ngày kết thúc ký kế toán năm và được ghi nhận khi chắc chắn có đủ lợi nhuận tính thuế trong tương lai để có thể sử dụng các tài sản thuế thu nhập hoãn lại chưa ghi nhận này.
+
+Tài sản thuế thu nhập hoãn lại và thuế thu nhập hoãn lại phải trả được xác định theo thuế suất dự tính sẽ áp dụng cho kỳ kế toán năm khi tài sản được thu hồi hay nợ phải trả được thanh toán, dựa trên mức thuế suất và luật thuế có hiệu lực vào ngày kết kỳ kế toán năm.
+
+22
+
+===== PAGE 28 =====
+Công ty Cổ phần Nông nghiệp Quốc tế Hoàng Anh Gia Lai
+
+B09-DN/HN
+
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+
+vào ngày 31 tháng 12 năm 2024 và cho năm tài chính kết thúc cùng ngày
+
+3. TÓM TẮT CÁC CHÍNH SÁCH KẾ TOÁN CHỦ YẾU (tiếp theo)
+
+3.19 Thuế (tiếp theo)
+
+Thuế thu nhập hoãn lại (tiếp theo)
+
+Thuế thu nhập hoãn lại được ghi nhận vào báo cáo kết quả hoạt động kinh doanh hợp nhất ngoại trừ trường hợp thuế thu nhập phát sinh liên quan đến một khoản mục được ghi thẳng vào vốn chủ sở hữu, trong trường hợp này, thuế thu nhập hoãn lại cũng được ghi nhận trực tiếp vào vốn chủ sở hữu.
+
+Nhóm Công ty chỉ được bù trừ các tài sản thuế thu nhập hoãn lại và thuế thu nhập hoãn lại phải nộp khi Nhóm Công ty có quyền hợp pháp được bù trừ giữa tài sản thuế thu nhập hiện hành với thuế thu nhập hiện hành phải nộp và các tài sản thuế thu nhập hoãn lại và thuế thu nhập hoãn lại phải trả này liên quan tới thuế thu nhập doanh nghiệp được quản lý bởi cùng một cơ quan thuế đối với cùng một đơn vị chịu thuế hoặc Nhóm Công ty dự định thanh toán thuế thu nhập hiện hành phải trả và tài sản thuế thu nhập hiện hành trên cơ sở thuần hoặc thu hồi tài sản đồng thời với việc thanh toán nợ phải trả trong từng kỳ tương lai khi các khoản trọng yếu của thuế thu nhập hoãn lại phải trả hoặc tài sản thuế thu nhập hoãn lại được thanh toán hoặc thu hồi.
+
+3.20 Các bên liên quan
+
+Các bên được coi là bên liên quan của Nhóm Công ty nếu một bên có khả năng, trực tiếp hoặc gián tiếp, kiểm soát bên kia hoặc gây ảnh hưởng đáng kể tới bên kia trong việc ra các quyết định tài chính và hoạt động, hoặc khi Nhóm Công ty và bên kia cùng chịu sự kiểm soát chung hoặc ảnh hưởng đáng kể chung. Các bên liên quan nếu trên có thể là các công ty hoặc các cá nhân, bao gồm cả các thành viên mật thiết trong gia đình của họ.
+
+3.21 Thông tin bộ phận
+
+Một bộ phận là một hợp phần có thể xác định riêng biệt của Nhóm Công ty tham gia vào việc cung cấp các sản phẩm hoặc dịch vụ liên quan (bộ phận chia theo hoạt động kinh doanh) hoặc cung cấp sản phẩm hoặc dịch vụ trong một môi trường kinh tế cụ thể (bộ phận chia theo vùng địa lý). Mỗi bộ phận này chịu rủi ro và thu được lợi ích khác biệt với các bộ phận khác.
+
+Bộ phận theo hoạt động kinh doanh của Nhóm Công ty chủ yếu được xác định dựa trên việc bán các sản phẩm (trồng cây, thương mại và dịch vụ). Ban Tổng Giám đốc xác định bộ phận theo khu vực địa lý của Nhóm Công ty dựa theo địa điểm của tài sản.
+
+23
+
+===== PAGE 29 =====
+Công ty Cổ phần Nông nghiệp Quốc tế Hoàng Anh Gia Lai
+
+B09-DN/HN
+
+THUYẾT MINH BẢO CẢO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+
+vào ngày 31 tháng 12 năm 2024 và cho năm tài chính kết thúc cùng ngày
+
+4. TIỀN
+
+<table><tr><td></td><td>Số cuối năm</td><td>Ngàn VND Số đầu năm</td></tr><tr><td>Tiền mặt</td><td>1.859.475</td><td>1.912.237</td></tr><tr><td>Tiền gửi ngân hàng</td><td>67.959.207</td><td>74.055.014</td></tr><tr><td>TỔNG CỘNG</td><td>69.818.682</td><td>75.967.251</td></tr></table>
+
+Các thông tin bổ sung về báo cáo lưu chuyển tiền tệ hợp nhất:
+
+<table><tr><td></td><td>Năm nay</td><td>Ngàn VNDNăm trước</td></tr><tr><td colspan="3">Các giao dịch không bằng tiền ảnh hưởng đến báo cáo lưu chuyển tiền tệ hợp nhất trong tương lai:</td></tr><tr><td>Cấn trừ khoản cho vay hoạt động đầu tư sang các khoản phải thu khác từ hoạt động kinh doanh</td><td>419.252.944</td><td></td></tr><tr><td>Cấn trừ công nợ phải thu khác với phải trả khác từ hoạt động đầu tư</td><td>404.376.795</td><td>-</td></tr><tr><td>Cấn trừ công nợ khác</td><td>8.568.569</td><td>213.735.852</td></tr><tr><td colspan="3">Số tiền đi vay thực thu trong năm</td></tr><tr><td>Tiền thu từ đi vay theo khế ước thông thường</td><td>4.525.920.000</td><td>3.090.557.600</td></tr><tr><td colspan="3">Số tiền đã thực trả gốc vay trong năm</td></tr><tr><td>Tiền trả nợ gốc vay theo khế ước thông thường</td><td>(2.859.255.525)</td><td>2.248.014.298</td></tr></table>
+
+5. PHÀI THU NGĂN HẠN CỦA KHÁCH HÀNG
+
+<table><tr><td></td><td>Số cuối năm</td><td>Ngàn VND Số đầu năm</td></tr><tr><td>Phải thu từ bán hàng và cung cấp dịch vụ</td><td>115.083.863</td><td>71.319.858</td></tr><tr><td>- Thaco Agri</td><td>67.814.950</td><td>-</td></tr><tr><td>- Zhengzhou Tai Wang Import and Export Trade Co., Ltd</td><td>22.065.328</td><td>20.986.827</td></tr><tr><td>- Các khách hàng khác</td><td>25.203.585</td><td>50.333.031</td></tr><tr><td>Phải thu từ hoạt động xây dựng sân bay cho Chính phủ Lào</td><td>-</td><td>205.728.754</td></tr><tr><td>TỔNG CỘNG</td><td>115.083.863</td><td>277.048.612</td></tr><tr><td>Dự phòng phải thu ngắn hạn khó đòi</td><td>(41.631.763)</td><td>(65.490.646)</td></tr><tr><td>GIÁ TRỊ THUÀN</td><td>73.452.100</td><td>211.557.966</td></tr><tr><td colspan="3">Trong đó:</td></tr><tr><td>Phải thu các bên liên quan (TM số 30)</td><td>67.814.950</td><td>69.660</td></tr><tr><td>Phải thu bên khác</td><td>5.637.150</td><td>211.488.306</td></tr></table>
+
+24
+
+===== PAGE 30 =====
+Công ty Cổ phần Nông nghiệp Quốc tế Hoàng Anh Gia Lai
+
+B09-DN/HN
+
+THUYÊT MINH BẢO CẢO TÀI CHÍNH HỢP NHẮT (tiếp theo)
+
+vào ngày 31 tháng 12 năm 2024 và cho năm tài chính kết thúc cùng ngày
+
+5. PHẢI THU NGẮN HẠN CỦA KHÁCH HÀNG (tiếp theo)
+
+Chi tiết tình hình tăng giảm dự phòng nợ phải thu khó đòi:
+
+<table><tr><td></td><td>Năm nay</td><td>Ngàn VNDNăm trước</td></tr><tr><td>Số đầu năm</td><td>65.490.646</td><td>63.812.369</td></tr><tr><td>Dự phòng trích lập trong năm</td><td>3.795.864</td><td>10.850.883</td></tr><tr><td>Hoàn nhập và xóa số dự phòng trong năm</td><td>(27.654.747)</td><td>(9.172.606)</td></tr><tr><td>Số cuối năm</td><td>41.631.763</td><td>65.490.646</td></tr></table>
+
+6. TRÀ TRƯỚC CHO NGƯỜI BÁN NGẮN HẠN
+
+<table><tr><td></td><td>Số cuối năm</td><td>Ngàn VND Số đầu năm</td></tr><tr><td>Trả trước cho nhà cung cấp hàng hóa và dịch vụ</td><td>65.154.903</td><td>220.003.263</td></tr><tr><td>- Công ty TNHH Đầu Tư Và Kinh Doanh Việt Nhật</td><td>13.882.052</td><td>-</td></tr><tr><td>- Công ty TNHH MTV Hùng Nguyên Gia Lai</td><td>6.662.271</td><td>-</td></tr><tr><td>- Thaco Agri</td><td>-</td><td>199.234.120</td></tr><tr><td>- Khác</td><td>44.610.580</td><td>20.769.143</td></tr><tr><td>Trả trước cho nhà thầu xây dựng và mua máy móc thiết bị</td><td>63.095.544</td><td>57.152.151</td></tr><tr><td>- Công ty Chiến Hằng Electricity Construction</td><td>8.808.228</td><td>-</td></tr><tr><td>- Công ty Cổ phần Xây dựng 47</td><td>8.372.216</td><td>8.078.438</td></tr><tr><td>- Khác</td><td>45.915.100</td><td>49.073.713</td></tr><tr><td>TỔNG CỘNG</td><td>128.250.447</td><td>277.155.414</td></tr><tr><td>Dự phòng trả trước cho người bán ngắn hạn</td><td>(2.140.409)</td><td>(3.763.308)</td></tr><tr><td>GIÁ TRỊ THUÀN</td><td>126.110.038</td><td>273.392.106</td></tr><tr><td colspan="3">Trong đó:</td></tr><tr><td>Trả trước cho các bên liên quan (TM số 30)</td><td>-</td><td>199.838.185</td></tr><tr><td>Trả trước cho các bên khác</td><td>126.110.038</td><td>73.553.921</td></tr></table>
+
+7. PHẢI THU NGẮN HẠN KHÁC
+
+<table><tr><td></td><td>Số cuối năm</td><td>Ngàn VND Số đầu năm</td></tr><tr><td>Phải thu các bên liên quan từ việc cán trừ công nợ</td><td>136.200.791</td><td>87.094.861</td></tr><tr><td>Tạm ứng cho nhân viên</td><td>19.545.711</td><td>12.516.775</td></tr><tr><td>Khác</td><td>9.514.519</td><td>16.012.756</td></tr><tr><td>TỔNG CỘNG</td><td>165.261.021</td><td>115.624.392</td></tr><tr><td colspan="3">Trong đó:</td></tr><tr><td>Phải thu từ các bên liên quan (TM số 30)</td><td>139.636.109</td><td>87.273.903</td></tr><tr><td>Phải thu từ các bên khác</td><td>25.624.912</td><td>28.350.489</td></tr></table>
+
+25
+
+===== PAGE 31 =====
+Công ty Cổ phần Nông nghiệp Quốc tế Hoàng Anh Gia Lai
+
+B09-DN/HN
+
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+
+vào ngày 31 tháng 12 năm 2024 và cho năm tài chính kết thúc cùng ngày
+
+8. HÀNG TÔN KHO
+
+<table><tr><td></td><td>Số cuối năm</td><td>Ngàn VND Số đầu năm</td></tr><tr><td>Chi phí sản xuất kinh doanh dở dang</td><td>1.671.201.451</td><td>1.634.224.398</td></tr><tr><td colspan="3">Trong đó:</td></tr><tr><td>Hợp đồng xây dựng (i)</td><td>1.249.056.805</td><td>1.057.963.082</td></tr><tr><td>Hoạt động sản xuất, trồng trọt</td><td>422.144.646</td><td>576.261.316</td></tr><tr><td>Nguyên vật liệu</td><td>280.410.763</td><td>265.784.804</td></tr><tr><td>Công cụ, dụng cụ</td><td>43.032.558</td><td>28.405.951</td></tr><tr><td>Thành phẩm</td><td>20.781.235</td><td>13.662.344</td></tr><tr><td>Hàng mua đang đi đường</td><td>1.689.524</td><td>-</td></tr><tr><td>TỔNG CỘNG</td><td>2.017.115.531</td><td>1.942.077.497</td></tr><tr><td>Dự phòng giảm giá hàng tồn kho</td><td>(79.685.477)</td><td>(61.251.659)</td></tr><tr><td>GIÁ TRỊ THUÀN</td><td>1.937.430.054</td><td>1.880.825.838</td></tr></table>
+
+(i) Số dư này chủ yếu thể hiện khoản chi phí xây dựng sân bay dở dang theo Hợp đồng Xây dựng Sân bay Quốc tế Nongkhang tại tỉnh Huaphan, Công hòa Dân chủ Nhân dân Lào số LAO - NKP01, ngày 15 tháng 6 năm 2013. Vào ngày lập báo cáo tài chính hợp nhất này, Nhóm Công ty đã cơ bản hoàn thiện việc xây dựng sân bay Quốc tế Nongkhang và đang trong quá trình thực hiện một số công việc còn lại nhằm hoàn tất việc nghiệm thu cuối và quyết toán dự án.
+
+Chi tiết tình hình tăng giảm dự phòng giảm giá hàng tồn kho:
+
+<table><tr><td rowspan="2"></td><td colspan="2">Ngàn VND</td></tr><tr><td>Năm nay</td><td>Năm trước</td></tr><tr><td>Số đầu năm</td><td>61.251.659</td><td>24.116.424</td></tr><tr><td>Dự phòng trích lập trong năm</td><td>31.637.967</td><td>48.769.105</td></tr><tr><td>Sử dụng và hoàn nhập dự phòng trong năm</td><td>(13.204.149)</td><td>(11.633.870)</td></tr><tr><td>Số cuối năm</td><td>79.685.477</td><td>61.251.659</td></tr></table>
+
+26
+
+===== PAGE 32 =====
+Công ty Cổ phần Nông nghiệp Quốc tế Hoàng Anh Gia Lai
+
+B09-DN/HN
+
+THUYÊT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+
+vào ngày 31 tháng 12 năm 2024 và cho năm tài chính kết thúc cùng ngày
+
+9. THUẾ VÀ CÁC KHOÀN PHẢI THU, PHẢI NỘP NHÀ NƯỚC
+
+<table><tr><td></td><td>Số đầu năm</td><td>Tăng trong năm</td><td>Giảm trong năm</td><td>Ngàn VND Số cuối năm</td></tr><tr><td colspan="5">Phải thu</td></tr><tr><td>Thuế giá trị gia tăng được khấu trừ</td><td>100.296.393</td><td>39.179.440</td><td>(47.736.847)</td><td>91.738.986</td></tr><tr><td>Thuế TNDN (TM số 29.1)</td><td>285.831</td><td>346.009</td><td>-</td><td>631.840</td></tr><tr><td>Thuế khác</td><td>-</td><td>1.113.424</td><td>(1.113.424)</td><td>-</td></tr><tr><td>TỔNG CỘNG</td><td>100.582.224</td><td>40.638.873</td><td>(48.850.271)</td><td>92.370.826</td></tr><tr><td colspan="5">Phải nộp</td></tr><tr><td>Thuế TNDN (TM số 29.1)</td><td>10.712.490</td><td>673.125</td><td>-</td><td>11.385.615</td></tr><tr><td>Thuế thu nhập cá nhân</td><td>708.244</td><td>2.309.957</td><td>(2.002.603)</td><td>1.015.598</td></tr><tr><td>Thuế khác</td><td>1.032.397</td><td>246.932</td><td>(198.663)</td><td>1.080.666</td></tr><tr><td>TỔNG CỘNG</td><td>12.453.131</td><td>3.230.014</td><td>(2.201.266)</td><td>13.481.879</td></tr></table>
+
+10. PHẢI THU VỀ CHO VAY DÀI HẠN
+
+<table><tr><td></td><td>Số cuối năm</td><td>Ngàn VND Số đầu năm</td></tr><tr><td>Cho vay Chính phủ Lào (*)</td><td>2.034.606.179</td><td>667.928.178</td></tr><tr><td>Cho vay các bên liên quan (TM số 30)</td><td>-</td><td>241.947.275</td></tr><tr><td>TỔNG CỘNG</td><td>2.034.606.179</td><td>909.875.453</td></tr></table>
+
+(*) Đây là khoản cho Chính phủ Lào vay không lãi suất nhằm hỗ trợ việc xây dựng Sân bay Quốc tế Nongkhang tại Tĩnh Huaphan và Sân bay Quốc tế Attapeu tại Tĩnh Attapeu, Cộng hòa Dân chủ Nhân dân Lào. Khoản cho vay này sẽ được cán trừ với tiền thuế, tiền thuê đất và các nghĩa vụ phải trả khác mà Nhóm Công ty phải nộp cho Chính phủ Lào trong tương lai hoặc được Chính phủ Lào hoàn trả lại bằng tiền.
+
+27
+
+===== PAGE 33 =====
+Công ty Cổ phần Nông nghiệp Quốc tế Hoàng Anh Gia Lai
+
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+
+vào ngày 31 tháng 12 năm 2024 và cho năm tài chính kết thúc cùng ngày
+
+11. TÀI SẢN CÓ ĐỊNH HỮU HÌNH
+
+<table><tr><td></td><td>Cây trồnglâu năm</td><td>Phương tiệnvận tải,truyền dẫn</td><td>Nhà cửa vàvật kiến trúc</td><td>Gia súcchăn nuôi</td><td>Máy móc vàthiết bị</td><td>Thiết bịvăn phòng</td><td>Tài sản khác</td><td>Ngàn VNDTổng cộng</td></tr><tr><td colspan="9">Nguyên giá</td></tr><tr><td>Số đầu năm</td><td>5.928.860.841</td><td>1.194.213.991</td><td>906.287.648</td><td>-</td><td>309.562.617</td><td>3.188.699</td><td>6.805.347</td><td>8.348.919.143</td></tr><tr><td>Đầu tư xây dựng cơ bảnhoàn thành</td><td>6.203.674</td><td>34.124.935</td><td>-</td><td>211.198.099</td><td>16.903.591</td><td>-</td><td>-</td><td>268.430.299</td></tr><tr><td>Mua mới</td><td>-</td><td>2.991.182</td><td>-</td><td>-</td><td>7.467.805</td><td>50.296</td><td>-</td><td>10.509.283</td></tr><tr><td>Xóa số</td><td>(579.654.015)</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>(579.654.015)</td></tr><tr><td>Chênh lệch tỷ giá</td><td>345.773.711</td><td>61.238.428</td><td>45.584.536</td><td>25.473.773</td><td>16.813.681</td><td>11.436</td><td>349.748</td><td>495.245.313</td></tr><tr><td>Số cuối năm</td><td>5.701.184.211</td><td>1.292.568.536</td><td>951.872.184</td><td>236.671.872</td><td>350.747.694</td><td>3.250.431</td><td>7.155.095</td><td>8.543.450.023</td></tr><tr><td>Trong đó:Đã khấu hao hết</td><td>62.549.601</td><td>202.213.355</td><td>35.982.981</td><td>-</td><td>129.477.581</td><td>3.049.775</td><td>3.423.830</td><td>436.697.123</td></tr><tr><td colspan="9">Khấu hao lũy kế</td></tr><tr><td>Số đầu năm</td><td>(1.620.611.910)</td><td>(552.238.916)</td><td>(418.360.036)</td><td>-</td><td>(174.090.560)</td><td>(2.683.770)</td><td>(4.824.296)</td><td>(2.772.809.488)</td></tr><tr><td>Khấu hao trong năm</td><td>(407.800.907)</td><td>(79.483.021)</td><td>(52.918.639)</td><td>(19.558.479)</td><td>(21.764.271)</td><td>(449.071)</td><td>(266.685)</td><td>(582.241.073)</td></tr><tr><td>Xóa số</td><td>298.051.760</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>298.051.760</td></tr><tr><td>Chênh lệch tỷ giá</td><td>(87.095.209)</td><td>(28.239.819)</td><td>(21.043.446)</td><td>296.413</td><td>(9.775.871)</td><td>(6.629)</td><td>(247.902)</td><td>(146.112.463)</td></tr><tr><td>Số cuối năm</td><td>(1.817.456.266)</td><td>(659.961.756)</td><td>(492.322.121)</td><td>(19.262.066)</td><td>(205.630.702)</td><td>(3.139.470)</td><td>(5.338.883)</td><td>(3.203.111.264)</td></tr><tr><td colspan="9">Giá trị còn lại</td></tr><tr><td>Số đầu năm</td><td>4.308.248.931</td><td>641.975.075</td><td>487.927.612</td><td>-</td><td>135.472.057</td><td>504.929</td><td>1.981.051</td><td>5.576.109.655</td></tr><tr><td>Số cuối năm</td><td>3.883.727.945</td><td>632.606.780</td><td>459.550.063</td><td>217.409.806</td><td>145.116.992</td><td>110.961</td><td>1.816.212</td><td>5.340.338.759</td></tr><tr><td>Trong đó:Tài sản thế chấp(Thuyết minh số 21.4)</td><td>83.469.860</td><td>-</td><td>111.828.747</td><td>-</td><td>16.917.721</td><td>-</td><td>-</td><td>212.216.328</td></tr></table>
+
+28
+
+===== PAGE 34 =====
+Công ty Cổ phần Nông nghiệp Quốc tế Hoàng Anh Gia Lai
+
+B09-DN/HN
+
+THUYẾT MINH BẢO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+
+vào ngày 31 tháng 12 năm 2024 và cho năm tài chính kết thúc cùng ngày
+
+12. TÀI SẢN CÓ ĐỊNH VÔ HÌNH
+
+<table><tr><td></td><td>Quyền sử dụng đất</td><td>Chương trình phần mềm</td><td>Ngàn VND Tổng cộng</td></tr><tr><td colspan="4">Nguyên giá</td></tr><tr><td>Số đầu năm</td><td>5.737.607</td><td>6.058.744</td><td>11.796.351</td></tr><tr><td>Chênh lệch tỷ giá</td><td>294.853</td><td>4.047</td><td>298.900</td></tr><tr><td>Số cuối năm</td><td>6.032.460</td><td>6.062.791</td><td>12.095.251</td></tr><tr><td colspan="4">Hao mòn lũy kế</td></tr><tr><td>Số đầu năm</td><td>-</td><td>(2.740.833)</td><td>(2.740.833)</td></tr><tr><td>Hao mòn trong năm</td><td>-</td><td>(764.057)</td><td>(764.057)</td></tr><tr><td>Số cuối năm</td><td>-</td><td>(3.504.890)</td><td>(3.504.890)</td></tr><tr><td colspan="4">Giá trị còn lại</td></tr><tr><td>Số đầu năm</td><td>5.737.607</td><td>3.317.911</td><td>9.055.518</td></tr><tr><td>Số cuối năm</td><td>6.032.460</td><td>2.557.901</td><td>8.590.361</td></tr></table>
+
+13. CHI PHÍ XÂY DỰNG CO' BẢN DỒ' DANG
+
+<table><tr><td></td><td>Số cuối năm</td><td>Ngàn VND Số đầu năm</td></tr><tr><td>Chi phí phát triển vườn cây ăn trái</td><td>3.647.801.857</td><td>2.497.040.945</td></tr><tr><td>Chi phí phát triển vườn cây cao su</td><td>931.579.566</td><td>812.436.261</td></tr><tr><td>Nhà cửa và vật kiến trúc</td><td>745.803.830</td><td>493.727.094</td></tr><tr><td>Dự án nuôi bò</td><td>683.696.415</td><td>346.528.003</td></tr><tr><td>Các công trình khác</td><td>321.676.488</td><td>285.567.651</td></tr><tr><td>TỔNG CỘNG</td><td>6.330.558.156</td><td>4.435.299.954</td></tr></table>
+
+Một phần chi phí xây dựng cơ bản đã được thế chấp để đảm bảo cho các khoản vay của Nhóm Công ty (TM số 21).
+
+14. CHI PHÍ LÃI VAY ĐƯỢC VỐN HÓA
+
+Trong năm, Nhóm Công ty đã vốn hóa chí phí lãi vay với tổng giá trị là 333.617.542 ngân VND vào chi phí xây dựng cơ bản dở dang (cho năm tài chính kết thúc ngày 31 tháng 12 năm 2023: 307.056.707 ngân VND). Các khoản chí phí lãi vay này phát sinh từ các khoản vay để tài trợ vốn cho việc phát triển vườn cây cao su, cây ăn trái và các dự án khác.
+
+29
+
+===== PAGE 35 =====
+Công ty Cổ phần Nông nghiệp Quốc tế Hoàng Anh Gia Lai
+
+B09-DN/HN
+
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+
+vào ngày 31 tháng 12 năm 2024 và cho năm tài chính kết thúc cùng ngày
+
+15. ĐẦU TƯ TÀI CHÍNH DÀI HẠN
+
+<table><tr><td></td><td>Số cuối năm</td><td>Ngàn VND Số đầu năm</td></tr><tr><td>Đầu tư vào công ty liên kết (TM số 15.1)</td><td>337.952.313</td><td>339.446.064</td></tr><tr><td>Đầu tư góp vốn vào đơn vị khác (TM số 15.2)</td><td>2.594.610</td><td>2.594.610</td></tr><tr><td>TỔNG CỘNG</td><td>340.546.923</td><td>342.040.674</td></tr><tr><td>Dự phòng đầu tư tài chính dài hạn</td><td>(2.594.610)</td><td>(2.594.610)</td></tr><tr><td>GIÁ TRỊ THUÀN</td><td>337.952.313</td><td>339.446.064</td></tr></table>
+
+15.1 Đầu tư vào công ty liên kết
+
+<table><tr><td rowspan="2">Tên công ty liên kết</td><td rowspan="2">Lĩnh vực kinh doanh</td><td colspan="2">Số cuối năm</td><td colspan="2">Số đầu năm</td></tr><tr><td>Tỷ lệ sở hữu và biểu quyết %</td><td>Giá trị ghi sở Ngân VND</td><td>Tỷ lệ sở hữu và biểu quyết %</td><td>Giá trị ghi sở Ngân VND</td></tr><tr><td>Bidiphar</td><td>Trồng, khai thác và chế biến các sản phẩm từ cây cao su</td><td>49,14</td><td>337.952.313</td><td>49,14</td><td>339.446.064</td></tr></table>
+
+Giá trị khoản đầu tư vào công ty liên kết như sau:
+
+Ngàn VND
+
+Bidiphar
+
+Giá trị đầu tư
+
+Số đầu năm và số cuối năm 286.004.636
+
+Phần lãi lũy kế sau khi đầu tư
+
+Số đầu năm 53.441.428
+
+Phần lãi từ công ty liên kết được chia trong năm 24.650.807
+
+Cổ tức được chia trong năm (26.144.558)
+
+Số cuối năm 51.947.677
+
+Giá trị còn lại
+
+Số đầu năm 339.446.064
+
+Số cuối năm 337.952.313
+
+30
+
+===== PAGE 36 =====
+Công ty Cổ phần Nông nghiệp Quốc tế Hoàng Anh Gia Lai
+
+B09-DN/HN
+
+THUYÊT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+
+vào ngày 31 tháng 12 năm 2024 và cho năm tài chính kết thúc cùng ngày
+
+15. ĐẦU TƯ TÀI CHÍNH DÀI HẠN (tiếp theo)
+
+15.2 Đầu tư góp vốn vào đơn vị khác
+
+<table><tr><td colspan="2"></td><td colspan="3">Số đầu năm và số cuối năm</td></tr><tr><td>Tên công ty</td><td>Lĩnh vực kinh doanh</td><td>Tỷ lệsở hữu vàbiểu quyết%</td><td>Giá trịđầu tưNgàn VND</td><td>Dự phòngNgàn VND</td></tr><tr><td>Cánh Đồng Vàng</td><td>Kinh doanh cây ăn trái</td><td>15,00</td><td>2.594.610</td><td>(2.594.610)</td></tr></table>
+
+16. CHI PHÍ TRÀ TRƯỚC
+
+<table><tr><td></td><td>Số cuối năm</td><td>Ngàn VND Số đầu năm</td></tr><tr><td>Ngắn hạn</td><td>10.012.595</td><td>833.657</td></tr><tr><td>Công cụ, dụng cụ</td><td>8.908.925</td><td>613.071</td></tr><tr><td>Chi phí khác</td><td>1.103.670</td><td>220.586</td></tr><tr><td>Dài hạn</td><td>72.082.672</td><td>70.207.631</td></tr><tr><td>Chi phí khai hoang</td><td>36.166.662</td><td>35.473.885</td></tr><tr><td>Công cụ, dụng cụ</td><td>27.224.480</td><td>25.462.193</td></tr><tr><td>Chi phí khác</td><td>8.691.530</td><td>9.271.553</td></tr><tr><td>TỔNG CỘNG</td><td>82.095.267</td><td>71.041.288</td></tr></table>
+
+17. PHẢI TRẢ NGƯỜI BÁN NGẮN HẠN
+
+<table><tr><td></td><td>Số cuối năm</td><td>Ngàn VND Số đầu năm</td></tr><tr><td>Phải trả người bán hàng hóa và cung cấp dịch vụ</td><td>535.030.150</td><td>306.805.194</td></tr><tr><td>- Thaco Agri</td><td>454.527.130</td><td>12.423.015</td></tr><tr><td>- Công ty TNHH Sản Xuất NhựaCông Nghiệp Thaco</td><td>12.547.561</td><td>64.289.740</td></tr><tr><td>- Khác</td><td>67.955.459</td><td>230.092.439</td></tr><tr><td>Phải trả tiền mua máy móc thiết bị</td><td>347.824.942</td><td>-</td></tr><tr><td>- Công ty TNHH Cơ Điện Lạnh Thaco Industries</td><td>242.533.795</td><td>-</td></tr><tr><td>- Công ty TNHH Phân Phối Thaco Auto</td><td>39.257.000</td><td>-</td></tr><tr><td>- Khác</td><td>66.034.147</td><td>-</td></tr><tr><td>Phải trả người bán mua tài sản cố định</td><td>326.755.716</td><td>145.629.572</td></tr><tr><td>- Công ty TNHH Một Thành Viên Chăn Nuôi BòTrung Nguyên</td><td>326.518.324</td><td>145.629.572</td></tr><tr><td>- Khác</td><td>237.392</td><td>-</td></tr><tr><td>Phải trả nhà thầu xây dựng</td><td>61.738.351</td><td>37.501.287</td></tr><tr><td>Phải trả khác</td><td>11.719.328</td><td>11.719.328</td></tr><tr><td>TỔNG CỘNG</td><td>1.283.068.487</td><td>501.655.381</td></tr><tr><td colspan="3">Trong đó:</td></tr><tr><td>Phải trả các bên liên quan (TM số 30)</td><td>1.152.725.712</td><td>397.146.988</td></tr><tr><td>Phải trả các bên khác</td><td>130.342.775</td><td>104.508.393</td></tr></table>
+
+MINH ★ H'H'N'41
+M.O ★ M.S.D.
+
+31
+
+===== PAGE 37 =====
+Công ty Cổ phần Nông nghiệp Quốc tế Hoàng Anh Gia Lai
+
+B09-DN/HN
+
+THUYẾT MINH BẢO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+
+vào ngày 31 tháng 12 năm 2024 và cho năm tài chính kết thúc cùng ngày
+
+18. NGƯỜI MUA TRÀ TIỀN TRƯỚC NGẮN HẠN
+
+<table><tr><td></td><td>Số cuối năm</td><td>Ngàn VND Số đầu năm</td></tr><tr><td>Ứng trước từ bán hàng hóa và cung cấp dịch vụ</td><td>1.028.543.741</td><td>1.531.884.458</td></tr><tr><td>- Thaco Agri</td><td>1.007.830.559</td><td>1.511.858.061</td></tr><tr><td>- Khác</td><td>20.713.182</td><td>20.026.397</td></tr><tr><td>Ứng trước từ hoạt động xây dựng sân bay cho Chính phủ Lào (i)</td><td>939.818.870</td><td>-</td></tr><tr><td>Khác</td><td>25.418.214</td><td>23.899.906</td></tr><tr><td>TỔNG CỘNG</td><td>1.993.780.825</td><td>1.555.784.364</td></tr><tr><td>Trong đó:Các bên liên quan trả tiền trước (TM số 30)</td><td>1.007.830.559</td><td>1.511.858.061</td></tr><tr><td>Các bên khác trả tiền trước</td><td>985.950.266</td><td>43.926.303</td></tr></table>
+
+(i) Số dư này thể hiện khoản ứng trước từ Chính phủ Lào về việc xây dựng sân bay quốc tế Nongkhang tại tỉnh Huaphan, Cộng hòa Dân chủ Nhân dân Lào.
+
+19. CHI PHÍ PHẢI TRÀ
+
+<table><tr><td></td><td>Số cuối năm</td><td>Ngàn VND Số đầu năm</td></tr><tr><td>Ngắn hạn</td><td>1.215.349.958</td><td>1.126.175.978</td></tr><tr><td>Chi phí lãi vay</td><td>1.181.137.888</td><td>1.092.674.678</td></tr><tr><td>Chi phí hoạt động</td><td>26.573.427</td><td>32.375.603</td></tr><tr><td>Chi phí khác</td><td>7.638.643</td><td>1.125.697</td></tr><tr><td>Dài hạn</td><td>221.699.725</td><td>33.939.083</td></tr><tr><td>Chi phí lãi vay</td><td>221.699.725</td><td>33.939.083</td></tr><tr><td>TỔNG CỘNG</td><td>1.437.049.683</td><td>1.160.115.061</td></tr><tr><td colspan="3">Trong đó:</td></tr><tr><td>Phải trả các bên liên quan (TM số 30)</td><td>1.106.975.725</td><td>581.824.344</td></tr><tr><td>Phải trả các bên thứ ba</td><td>330.073.958</td><td>578.290.717</td></tr></table>
+
+20. PHẢI TRÀ KHÁC
+
+<table><tr><td></td><td>Số cuối năm</td><td>Ngàn VND Số đầu năm</td></tr><tr><td>Ngắn hạn</td><td>142.810.450</td><td>156.090.429</td></tr><tr><td>Phải trả tiền thuê đất</td><td>108.644.878</td><td>101.454.835</td></tr><tr><td>Phải trả khác</td><td>34.165.572</td><td>54.635.594</td></tr><tr><td>Dài hạn</td><td>195.696.764</td><td>173.697.682</td></tr><tr><td>Phải trả tiền thuê đất</td><td>146.945.804</td><td>142.117.025</td></tr><tr><td>Phải trả khác</td><td>48.750.960</td><td>31.580.657</td></tr><tr><td>TỔNG CỘNG</td><td>338.507.214</td><td>329.788.111</td></tr><tr><td colspan="3">Trong đó:</td></tr><tr><td colspan="3">Phải trả các bên liên quan (TM số 30)</td></tr><tr><td>- Ngắn hạn</td><td>21.870.165</td><td>18.382.358</td></tr><tr><td>- Dài hạn</td><td>22.589.539</td><td>10.448.887</td></tr><tr><td>Phải trả các bên thứ ba</td><td>294.047.510</td><td>300.956.866</td></tr></table>
+
+32
+
+===== PAGE 38 =====
+Công ty Cổ phần Nông nghiệp Quốc tế Hoàng Anh Gia Lai
+
+B09-DN/HN
+
+THUYÊT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+
+vào ngày 31 tháng 12 năm 2024 và cho năm tài chính kết thúc cùng ngày
+
+21. VAY
+
+<table><tr><td></td><td>Số cuối năm</td><td>Ngàn VND Số đầu năm</td></tr><tr><td>Ngắn hạn</td><td>9.611.827.260</td><td>6.210.705.031</td></tr><tr><td>Vay ngắn hạn ngân hàng (TM số 21.1)</td><td>500.000.000</td><td>500.000.000</td></tr><tr><td>Vay ngắn hạn bên liên quan (TM số 21.2 và 30)</td><td>3.932.160.518</td><td>272.740.518</td></tr><tr><td>Vay dài hạn bên liên quan đến hạn trả (TM số 21.3 và 30)</td><td>5.132.714.070</td><td>4.394.501.662</td></tr><tr><td>Vay dài hạn ngân hàng đến hạn trả (TM số 21.4)</td><td>46.952.672</td><td>1.043.462.851</td></tr><tr><td>Dài hạn</td><td>338.255.921</td><td>2.023.022.212</td></tr><tr><td>Vay dài hạn ngân hàng (TM số 21.4)</td><td>338.255.921</td><td>118.104.605</td></tr><tr><td>Vay dài hạn bên liên quan (TM số 21.3 và 30)</td><td>-</td><td>1.904.917.607</td></tr><tr><td>TỔNG CỘNG</td><td>9.950.083.181</td><td>8.233.727.243</td></tr></table>
+
+Tình hình tăng giảm các khoản vay như sau:
+
+<table><tr><td></td><td>Vay ngắn hạn</td><td>Vay dài hạn</td><td>Ngàn VND Tổng cộng</td></tr><tr><td>Số đầu năm</td><td>6.210.705.031</td><td>2.023.022.212</td><td>8.233.727.243</td></tr><tr><td>Tiền thu từ đi vay</td><td>4.525.920.000</td><td>-</td><td>4.525.920.000</td></tr><tr><td>Vay dài hạn đến hạn trả</td><td>1.566.661.677</td><td>(1.566.661.677)</td><td>-</td></tr><tr><td>Chênh lệch tỷ giá</td><td>49.691.463</td><td>-</td><td>49.691.463</td></tr><tr><td>Tiền chỉ trả nợ gốc vay</td><td>(2.741.150.911)</td><td>(118.104.614)</td><td>(2.859.255.525)</td></tr><tr><td>Số cuối năm</td><td>9.611.827.260</td><td>338.255.921</td><td>9.950.083.181</td></tr></table>
+
+33
+
+===== PAGE 39 =====
+Công ty Cổ phần Nông nghiệp Quốc tế Hoàng Anh Gia Lai
+
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+vào ngày 31 tháng 12 năm 2024 và cho năm tài chính kết thúc cùng ngày
+
+21. VAY (tiếp theo)
+
+21.1 Vay ngắn hạn ngân hàng
+
+Chi tiết của khoản vay ngắn hạn ngân hàng như sau:
+
+<table><tr><td>Ngân hàng</td><td>Số cuối nămNgân VND</td><td>Thời hạn thanh toán</td><td>Lãi suất%/năm</td><td>Tài sản thế chấp</td></tr><tr><td>Ngân hàng Thương mại Cổ phần Tiên Phong (“TPBank”), Chi nhánh Hà Nội</td><td>500.000.000</td><td>Từ ngày 26 tháng3 năm 2025 đến ngày 28 tháng 7 năm 2025</td><td>Lãi suất thay đổi hàng quý bằng lãi suất cơ sở kỳ hạn3 tháng của TPBank + 2,35%/năm(2024: 6% - 7,3%/năm)</td><td>- Tài sản thuộc sở hữu của Eastern Rubber Co., Ltd (Cambodia), công ty con của công ty có cùng thành viên HĐQT, đã, đang và sẽ hình thành trên đất theo giấy chuyển nhượng quyền sở hữu đất tổ nhượng kinh tế số Kor Ror 0185 có diện tích 925 ha tại Campuchia;- Quyền khai thác, tài sản gắn liền 453,7 ha đất trồng trái cây; và quyền khai thác, tài sản gắn liền với đất (bao gồm toàn bộ cây trồng, công trình gắn liền với đất, tài sản khác) và lợi ích từ việc khai thác đất, tài sản gắn liền với đất đã và đang hình thành trên tổng diện tích 71,4 ha tại Bản Houy Kong, Huyện Paksong, Tĩnh Champasak, Lào thuộc sở hữu của Công ty TNHH Phát triển Nông nghiệp Đại Thắng, công ty con của công ty có cùng thành viên HĐQT; và- Quyền khai thác, tài sản gắn liền với đất (bao gồm toàn bộ cây trồng, công trình gắn liền với đất và các tài sản khác) và lợi ích từ việc khai thác đất, tài sản gắn liền với đất đã và đang hình thành trên tổng diện tích 295,7 ha tại Bản Hatsan, Huyện Saysettha, Tĩnh Attapeu, Lào thuộc sở hữu của Công ty TNHH Phát triển Nông nghiệp Khân Xay, công ty con của công ty có cùng thành viên HĐQT.</td></tr></table>
+
+34
+
+===== PAGE 40 =====
+Công ty Cổ phần Nông nghiệp Quốc tế Hoàng Anh Gia Lai
+
+B09-DN/HN
+
+THUYÊT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+
+vào ngày 31 tháng 12 năm 2024 và cho năm tài chính kết thúc cùng ngày
+
+21 VAY (tiếp theo)
+
+21.2 Vay ngắn hạn từ bên liên quan
+
+Nhóm Công ty vay tín chấp ngắn hạn từ bên liên quan nhằm mục đích bổ sung vốn lưu động, chi tiết như sau:
+
+<table><tr><td>Bên cho vay</td><td>Số cuối nămNgân VND</td><td>Thời hạn thanh toán</td><td>Lãi suất%/năm</td></tr><tr><td>Thaco Agri</td><td>3.932.160.518</td><td>Từ ngày 1 tháng 4 năm 2025đến ngày 31 tháng 5 năm 2025</td><td>6,5% -8.0%</td></tr></table>
+
+21.3 Vay dài hạn bên liên quan
+
+Nhóm Công ty vay tín chấp dài hạn từ bên liên quan nhằm mục đích bổ sung vốn lưu động, chi tiết như sau:
+
+<table><tr><td>Bên cho vay</td><td>Số cuối nămNgàn VND</td><td>Thời hạn thanh toán</td><td>Lãi suất%/năm</td></tr><tr><td>Thaco Agri</td><td>5.132.714.070</td><td>Từ ngày 7 tháng 5 năm 2025đến ngày 31 tháng 5 năm 2025</td><td>8,0%</td></tr><tr><td>Trong đó:Vay dài hạn đến hạn trả</td><td>5.132.714.070</td><td></td><td></td></tr></table>
+
+21.4 Vay dài hạn ngân hàng
+
+<table><tr><td></td><td>Số cuối năm</td><td>Số đầu năm</td><td>Ngàn VNDMục đích vay</td></tr><tr><td>Ngân hàng Liên doanhLào Việt (&quot;LaoVietBank&quot;)</td><td>385.208.593</td><td>340.561.880</td><td>Tài trợ dự án nuôi bò</td></tr><tr><td>Ngân hàng Thương mạiCổ phần Đầu tư và Phát triển Việt Nam</td><td>-</td><td>650.410.971</td><td>Tài trợ dự án cao su,cọ đầu và bổ sung vốnlưu động</td></tr><tr><td>Ngân hàng Thương mạiCổ phần Sài GònThương Tín</td><td>-</td><td>170.594.605</td><td>Tài trợ dự án cao suvà bổ sung vốnlưu động</td></tr><tr><td>TỔNG CỘNG</td><td>385.208.593</td><td>1.161.567.456</td><td></td></tr><tr><td>Trong đó:Vay dài hạnVay dài hạn đến hạn trả</td><td>338.255.92146.952.672</td><td>118.104.6051.043.462.851</td><td></td></tr></table>
+
+35
+
+===== PAGE 41 =====
+Công ty Cổ phần Nông nghiệp Quốc tế Hoàng Anh Gia Lai
+
+THUYẾT MINH BẢO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+vào ngày 31 tháng 12 năm 2024 và cho năm tài chính kết thúc cùng ngày
+
+21. VAY (tiếp theo)
+
+21.4 Vay dài hạn ngân hàng (tiếp theo)
+
+Chi tiết của các khoản vay dài hạn ngân hàng như sau: (tiếp theo)
+
+<table><tr><td>Ngân hàng</td><td>Số cuối nămNgân VND</td><td>Nguyên tệUSD</td><td>Thời hạn thanh toán</td><td>Lãi suất%/năm</td><td>Tài sản thế chấp(TM số 8, 11 và 13)</td></tr><tr><td colspan="6">LaoVietBank, Chi nhánh Attapeu</td></tr><tr><td>Khoản vay 1</td><td>230.199.154</td><td>9.009.399</td><td>Từ ngày 25 tháng 3 năm2025 đến ngày 25 tháng12 năm 2028</td><td>9%</td><td>- Trụ sở làm việc của HA Attapeu tại Km 31, Bản Hatxan, Huyện Xaysettha, Tĩnh Attapeu, Lào theo bản đồ đất số 17 001 0008 với diện tích đất 0,3 ha; và- Nhà máy chế biến mũ cao su tại Huyện Saysettha, Tĩnh Attapeu, Lào và toàn bộ đàn bỏ nhập khẩu thuộc sở hữu của HA Attapeu.</td></tr><tr><td>Khoản vay 2</td><td>155.009.439</td><td>6.066.668</td><td>Từ ngày 25 tháng 3 năm2025 đến ngày 25 tháng12 năm 2028</td><td>9%</td><td>Quyền sử dụng đất với tổng diện tích 1.313,89 ha thuộc sở hữu của HA Quang Minh.</td></tr><tr><td>TỔNG CỘNG</td><td>385.208.592</td><td></td><td></td><td></td><td></td></tr><tr><td>Trong đó:Vay dài hạnVay dài hạnđến hạn trả</td><td>338.255.92146.952.672</td><td></td><td></td><td></td><td></td></tr></table>
+
+36
+
+B09-DN/HN
+
+===== PAGE 42 =====
+Công ty Cổ phần Nông nghiệp Quốc tế Hoàng Anh Gia Lai
+
+THUYẾT MINH BẢO CẢO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+
+vào ngày 31 tháng 12 năm 2024 và cho năm tài chính kết thúc cùng ngày
+
+22. VÓN CHỦ SÒ HỮU
+
+22.1 Tỉnh hình tăng, giảm nguồn vốn chủ sở hữu
+
+<table><tr><td></td><td>Vốn cổ phần</td><td>Thăng dư vốn cổ phần</td><td>Chênh lệch tỷ giá hối đoái</td><td>Lỗ lũy kế</td><td>Ngàn VND Tổng cộng</td></tr><tr><td colspan="6">Năm trước</td></tr><tr><td>Số đầu năm</td><td>11.085.538.950</td><td>1.170.127.000</td><td>(2.217.695.545)</td><td>(7.003.497.410)</td><td>3.034.472.995</td></tr><tr><td>Lỗ thuần trong năm</td><td>-</td><td>-</td><td>-</td><td>(1.098.460.718)</td><td>(1.098.460.718)</td></tr><tr><td>Chênh lệch tỷ giá hối đoái</td><td>-</td><td>-</td><td>319.838.694</td><td>-</td><td>319.838.694</td></tr><tr><td>Thù lao Hội Đồng Quản Trị và Ban Kiểm Soát</td><td>-</td><td>-</td><td>-</td><td>(144.000)</td><td>(144.000)</td></tr><tr><td>Số cuối năm</td><td>11.085.538.950</td><td>1.170.127.000</td><td>(1.897.856.851)</td><td>(8.102.102.128)</td><td>2.255.706.971</td></tr><tr><td colspan="6">Năm nay</td></tr><tr><td>Số đầu năm</td><td>11.085.538.950</td><td>1.170.127.000</td><td>(1.897.856.851)</td><td>(8.102.102.128)</td><td>2.255.706.971</td></tr><tr><td>Lỗ thuần trong năm</td><td>-</td><td>-</td><td>-</td><td>(1.281.878.648)</td><td>(1.281.878.648)</td></tr><tr><td>Chênh lệch tỷ giá hối đoái</td><td>-</td><td>-</td><td>661.947.459</td><td>-</td><td>661.947.459</td></tr><tr><td>Thù lao Hội Đồng Quản Trị và Ban Kiểm Soát</td><td>-</td><td>-</td><td>-</td><td>(144.000)</td><td>(144.000)</td></tr><tr><td>Số cuối năm</td><td>11.085.538.950</td><td>1.170.127.000</td><td>(1.235.909.392)</td><td>(9.384.124.776)</td><td>1.635.631.782</td></tr></table>
+
+37
+
+===== PAGE 43 =====
+Công ty Cổ phần Nông nghiệp Quốc tế Hoàng Anh Gia Lai
+
+B09-DN/HN
+
+THUYẾT MINH BẢO CẢO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+
+vào ngày 31 tháng 12 năm 2024 và cho năm tài chính kết thúc cùng ngày
+
+22. VỐN CHỦ SỞ HỮU (tiếp theo)
+
+22.2 Các giao dịch về vốn với các chủ sở hữu
+
+<table><tr><td rowspan="2"></td><td colspan="2">Ngàn VND</td></tr><tr><td>Năm nay</td><td>Năm trước</td></tr><tr><td>Số đầu năm và số cuối năm</td><td>11.085.538.950</td><td>11.085.538.950</td></tr></table>
+
+22.3 Cổ phiếu
+
+<table><tr><td rowspan="2"></td><td colspan="2">Số lượng cổ phiếu</td></tr><tr><td>Số cuối năm</td><td>Số đầu năm</td></tr><tr><td>Số lượng cổ phiếu được phép phát hành</td><td>1.108.553.895</td><td>1.108.553.895</td></tr><tr><td>Số lượng cổ phiếu đã phát hành và góp vốn đầy đủCổ phiếu phổ thông</td><td>1.108.553.895</td><td>1.108.553.895</td></tr><tr><td>Số lượng cổ phiếu đang lưu hànhCổ phiếu phổ thông</td><td>1.108.553.895</td><td>1.108.553.895</td></tr></table>
+
+Cổ phiếu phổ thông của Công ty đã được phát hành với mệnh giá 10.000 VND/cổ phiếu. Các cổ đông nằm giữ cổ phiếu phổ thông của Công ty được quyền hưởng cổ tức do Công ty công bố. Mỗi cổ phiếu phổ thông thể hiện một quyền biểu quyết, không hạn chế.
+
+23. LỔ TRÊN CỔ PHIÉU
+
+Nhóm Công ty sử dụng các thông tin sau để tính lỗ cơ bản và lỗ suy giảm trên cổ phiếu:
+
+<table><tr><td></td><td>Năm nay</td><td>Năm trước</td></tr><tr><td>Lỗ sau thuế thuộc cổ đông sở hữu cổ phiếu phổ thông của Công ty mẹ (ngàn VND)</td><td>(1.281.878.648)</td><td>(1.098.460.718)</td></tr><tr><td>Số cổ phiếu bình quân lưu hành trong kỳ đã tính lãi cơ bản trên cổ phiếu (cổ phiếu)</td><td>1.108.553.895</td><td>1.108.553.895</td></tr><tr><td>Số cổ phiếu bình quân lưu hành trong kỳ đã được điều chỉnh do các yếu tố suy giảm</td><td>1.108.553.895</td><td>1.108.553.895</td></tr><tr><td>Lỗ cơ bản trên cổ phiếu (VND)</td><td>(1.156)</td><td>(991)</td></tr><tr><td>Lỗ suy giảm trên cổ phiếu (VND)</td><td>(1.156)</td><td>(991)</td></tr></table>
+
+Không có các giao dịch cổ phiếu phổ thông hoặc giao dịch cổ phiếu phổ thông tiềm năng nào xảy ra từ ngày kết thúc ký kế toán năm đến ngày hoàn thành báo cáo tài chính hợp nhất này.
+
+38
+
+===== PAGE 44 =====
+Công ty Cổ phần Nông nghiệp Quốc tế Hoàng Anh Gia Lai
+
+B09-DN/HN
+
+THUYẾT MINH BẢO CẢO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+
+vào ngày 31 tháng 12 năm 2024 và cho năm tài chính kết thúc cùng ngày
+
+24. DOANH THU
+
+24.1 Doanh thu thuần về bán hàng và cung cấp dịch vụ
+
+<table><tr><td></td><td>Năm nay</td><td>Ngân VNDNăm trước</td></tr><tr><td>Doanh thu bán mũ cao su</td><td>300.525.430</td><td>218.198.982</td></tr><tr><td>Doanh thu bán trái cây</td><td>186.946.603</td><td>382.809.239</td></tr><tr><td>Doanh thu từ cung cấp dịch vụ</td><td>3.659.942</td><td>2.372.320</td></tr><tr><td>Doanh thu bán hàng hóa</td><td>788.275</td><td>2.190.588</td></tr><tr><td>DOANH THU THUẦN</td><td>491.920.250</td><td>605.571.129</td></tr><tr><td colspan="3">Trong đó:</td></tr><tr><td>Doanh thu thuần với các bên liên quan</td><td>368.089.370</td><td>520.453.067</td></tr><tr><td>Doanh thu thuần với các bên khác</td><td>123.830.880</td><td>85.118.062</td></tr></table>
+
+24.2 Doanh thu hoạt động tài chính
+
+<table><tr><td></td><td>Năm nay</td><td>Ngân VNDNăm trước</td></tr><tr><td>Lãi chênh lệch tỷ giá hối đoái</td><td>85.934.884</td><td>36.049.559</td></tr><tr><td>Lãi tiền gửi ngân hàng</td><td>177.448</td><td>59.619</td></tr><tr><td>TỔNG CỘNG</td><td>86.112.332</td><td>36.109.178</td></tr></table>
+
+25. GIÁ VÓN HÀNG BÁN VÀ DỊCH VỤ CUNG CÁP
+
+<table><tr><td></td><td>Năm nay</td><td>Ngàn VNDNăm trước</td></tr><tr><td>Giá vốn mũ cao su đã bán</td><td>343.012.472</td><td>320.916.988</td></tr><tr><td>Giá vốn trái cây đã bán</td><td>581.030.117</td><td>943.401.078</td></tr><tr><td>Giá vốn dịch vụ đã cung cấp</td><td>3.266.156</td><td>3.983.738</td></tr><tr><td>Giá vốn hàng hóa</td><td>333.935</td><td>1.603.223</td></tr><tr><td>TỔNG CỘNG</td><td>927.642.680</td><td>1.269.905.027</td></tr></table>
+
+26. CHI PHÍ TÀI CHÍNH
+
+<table><tr><td></td><td>Năm nay</td><td>Ngàn VNDNăm trước</td></tr><tr><td>Chi phí lãi vay</td><td>312.944.398</td><td>325.405.700</td></tr><tr><td>Lỗ chênh lệch tỷ giá hối đoái</td><td>2.136.745</td><td>9.147.034</td></tr><tr><td>Khác</td><td>4.771.244</td><td>9.033.597</td></tr><tr><td>TỔNG CỘNG</td><td>319.852.387</td><td>343.586.331</td></tr></table>
+
+39
+
+===== PAGE 45 =====
+Công ty Cổ phần Nông nghiệp Quốc tế Hoàng Anh Gia Lai
+
+B09-DN/HN
+
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+
+vào ngày 31 tháng 12 năm 2024 và cho năm tài chính kết thúc cùng ngày
+
+27. CHI PHÍ BÁN HÀNG VÀ CHI PHÍ QUẢN LÝ DOANH NGHIỆP
+
+<table><tr><td></td><td>Năm nay</td><td>Ngân VNDNăm trước</td></tr><tr><td>Chi phí bán hàng</td><td>12.202.839</td><td>26.783.949</td></tr><tr><td>Chi phí vận chuyển</td><td>6.934.517</td><td>8.898.172</td></tr><tr><td>Chi phí nhân viên</td><td>2.557.323</td><td>5.153.934</td></tr><tr><td>Chi phí dịch vụ mua ngoài</td><td>2.386.469</td><td>12.210.910</td></tr><tr><td>Khác</td><td>324.530</td><td>520.933</td></tr><tr><td>Chi phí quản lý doanh nghiệp</td><td>26.506.805</td><td>96.747.957</td></tr><tr><td>Chi phí nhân viên</td><td>11.151.370</td><td>58.872.154</td></tr><tr><td>Chi phí dịch vụ mua ngoài</td><td>5.232.390</td><td>16.716.199</td></tr><tr><td>Dự phòng nợ phải thu khó đòi</td><td>4.533.187</td><td>12.208.155</td></tr><tr><td>Chi phí khấu hao và hao mòn</td><td>1.764.193</td><td>5.639.459</td></tr><tr><td>Khác</td><td>3.825.665</td><td>3.311.990</td></tr><tr><td>TỔNG CỘNG</td><td>38.709.644</td><td>123.531.906</td></tr></table>
+
+28. THU NHẬP VÀ CHI PHÍ KHÁC
+
+<table><tr><td></td><td>Năm nay</td><td>Ngàn VNDNăm trước</td></tr><tr><td>Thu nhập khác</td><td>18.907.534</td><td>23.564.707</td></tr><tr><td>Xóa số các khoản phải trả</td><td>16.034.863</td><td>21.163.786</td></tr><tr><td>Khác</td><td>2.872.671</td><td>2.400.921</td></tr><tr><td>Chi phí khác</td><td>617.007.343</td><td>73.558.456</td></tr><tr><td>Chi phí xóa số tài sản không hiệu quả</td><td>587.224.619</td><td>68.004.514</td></tr><tr><td>Chi phí thuế GTGT không được khấu trừ</td><td>27.593.790</td><td>-</td></tr><tr><td>Khấu hao tài sản ngưng sử dụng</td><td>1.673.394</td><td>2.477.563</td></tr><tr><td>Khác</td><td>515.540</td><td>3.076.379</td></tr><tr><td>TỔNG CỘNG</td><td>(598.099.809)</td><td>(49.993.749)</td></tr></table>
+
+29. THUẾ THU NHẬP DOANH NGHIỆP
+
+Công ty có nghĩa vụ nộp thuế thu nhập doanh nghiệp ("thuế TNDN") bằng 20% trên thu nhập chịu thuế (2023: 20%).
+
+Các công ty con của Công ty tại Nước Cộng hòa Dân chủ Nhân dân Lào và tại Vương quốc Campuchia có nghĩa vụ nộp thuế TNDN với thuế suất là 20% trên thu nhập chịu thuế cho các hoạt động kinh doanh chính. Các công ty con này cũng được hưởng ưu đãi, miễn, giảm thuế TNDN theo các GCNĐKKD, Giấy phép Đầu tư tương ứng và các luật thuế hiện hành.
+
+Các báo cáo thuế của Công ty và các công ty con sẽ chịu sự kiểm tra của cơ quan thuế. Do việc áp dụng luật và các quy định về thuế đối với các loại nghiệp vụ khác nhau có thể được giải thích theo nhiều cách khác nhau, số thuế được trình bày trên báo cáo tài chính hợp nhất có thể thay đổi theo quyết định cuối cùng của cơ quan thuế.
+
+40
+
+===== PAGE 46 =====
+Công ty Cổ phần Nông nghiệp Quốc tế Hoàng Anh Gia Lai
+
+B09-DN/HN
+
+THUYẾT MINH BẢO CẢO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+
+vào ngày 31 tháng 12 năm 2024 và cho năm tài chính kết thúc cùng ngày
+
+29. THUẾ THU NHẬP DOANH NGHIỆP (tiếp theo)
+
+29.1 Chi phí thuế TNDN
+
+<table><tr><td></td><td>Năm nay</td><td>Ngân VNDNăm trước</td></tr><tr><td>Chi phí thuế TNDN hiện hành</td><td>165.902</td><td>895.594</td></tr><tr><td>Chi phí (thu nhập) thuế TNDN hoãn lại</td><td>91.615</td><td>(12.847.788)</td></tr><tr><td>TỔNG CỘNG</td><td>257.517</td><td>(11.952.194)</td></tr></table>
+
+Dưới đây là đối chiếu giữa thu nhập chịu thuế và kết quả của lãi/(lỗ) kế toán trước thuế nhân với thuế suất thuế TNDN:
+
+<table><tr><td></td><td>Năm nay</td><td>Ngàn VNDNăm trước</td></tr><tr><td>Tổng lỗ kế toán trước thuế</td><td>(1.281.621.131)</td><td>(1.110.412.912)</td></tr><tr><td colspan="3">Điều chỉnh cho các khoản:</td></tr><tr><td>Các khoản lỗ của các công ty con</td><td>1.424.534.714</td><td>1.199.457.607</td></tr><tr><td>Chênh lệch lãi vay nội bộ ở khía cạnh hợp nhất</td><td>(70.651.532)</td><td>(6.667.305)</td></tr><tr><td>Các khoản chi phí không được trừ</td><td>1.165.605.764</td><td>12.942.262</td></tr><tr><td>Thay đổi lợi nhuận nội bộ chưa thực hiện</td><td>(23.063.824)</td><td>(8.529.228)</td></tr><tr><td>Chênh lệch tỷ giá hối đoái</td><td>(66.253.785)</td><td>(12.150.123)</td></tr><tr><td>Lãi từ công ty liên kết</td><td>(24.650.807)</td><td>(34.923.794)</td></tr><tr><td>Lỗ được chuyển từ các năm trước</td><td>-</td><td>(51.155.789)</td></tr><tr><td>Dự phòng các khoản đầu tư</td><td>(1.153.092.663)</td><td>-</td></tr><tr><td colspan="3">Điều chỉnh thuế TNDN theo Nghị định</td></tr><tr><td>132/2020/NĐ-CP (*)</td><td>20.003.206</td><td>-</td></tr><tr><td>Các khoản khác</td><td>10.359.523</td><td>15.917.252</td></tr><tr><td>Thu nhập chịu thuế uốc tính</td><td>1.169.465</td><td>4.477.970</td></tr><tr><td>Thuế TNDN hiện hành uốc tính</td><td>165.902</td><td>895.594</td></tr><tr><td>Chi phí thuế TNDN hiện hành uốc tính</td><td>165.902</td><td>895.594</td></tr><tr><td>Thuế TNDN phải nộp đầu năm</td><td>10.426.679</td><td>9.230.386</td></tr><tr><td>Thuế TNDN đã trả trong năm</td><td>(346.009)</td><td>-</td></tr><tr><td>Các khoản khác</td><td>507.203</td><td>300.699</td></tr><tr><td>Thuế TNDN phải nộp cuối năm</td><td>10.753.775</td><td>10.426.679</td></tr><tr><td colspan="3">Trong đó:</td></tr><tr><td>Thuế TNDN phải trả (TM số 9)</td><td>11.385.615</td><td>10.712.510</td></tr><tr><td>Thuế TNDN trả trước (TM số 9)</td><td>(631.840)</td><td>(285.831)</td></tr></table>
+
+(*) Theo Nghị định số 132/2020/NĐ-CP ngày 5 tháng 11 năm 2020 quy định về quản lý thuế đối với doanh nghiệp có giao dịch liên kết do Chính phủ ban hành, Nhóm Công ty đã ghi nhận điều chỉnh tăng chi phí TNDN trong năm nay với tổng giá trị là 20.003.206 ngân VND.
+
+41
+
+===== PAGE 47 =====
+Công ty Cổ phần Nông nghiệp Quốc tế Hoàng Anh Gia Lai
+
+B09-DN/HN
+
+THUYÊT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+
+vào ngày 31 tháng 12 năm 2024 và cho năm tài chính kết thúc cùng ngày
+
+29. THUẾ THU NHẬP DOANH NGHIỆP (tiếp theo)
+
+29.2 Chi phí thuế TNDN hiện hành
+
+Thuế TNDN hiện hành phải trả được xác định dựa trên thu nhập chịu thuế của năm hiện tại. Thu nhập chịu thuế khác với lãi/lỗ kế toán được trình bày trong báo cáo kết quả kinh doanh hợp nhất vì thu nhập chịu thuế không bao gồm các khoản mục thu nhập chịu thuế hay chi phí được trừ cho mục đích tính thuế trong các năm khác và cũng không bao gồm các khoản mục không phải chịu thuế hay không được trừ cho mục đích tính thuế. Thuế TNDN hiện hành phải nộp của Nhóm Công ty được tính theo thuế suất đã ban hành đến ngày kết thúc kỳ kế toán năm.
+
+29.3 Thuế thu nhập hoãn lại
+
+Nhóm Công ty đã ghi nhận một số khoản tài sản thuế TNDN hoãn lại với các biến động trong năm thể hiện như sau:
+
+Ngàn VND
+
+<table><tr><td rowspan="2"></td><td colspan="2">Bảng cân đối kế toán hợp nhất</td><td colspan="2">Báo cáo kết quả hoạt động kinh doanh hợp nhất</td></tr><tr><td>Số cuối năm</td><td>Số đầu năm</td><td>Năm nay</td><td>Năm trước</td></tr><tr><td colspan="5">Tài sản thuế TNDN hoãn lại</td></tr><tr><td>Chênh lệch lãi vay nội bộ ở khía cạnh hợp nhất</td><td>61.685.061</td><td>56.249.581</td><td>5.435.480</td><td>3.172.011</td></tr><tr><td>Lợi nhuận nội bộ chưa thực hiện</td><td>35.224.953</td><td>40.752.048</td><td>(5.527.095)</td><td>(10.324.223)</td></tr><tr><td>TỔNG CỘNG</td><td>96.910.014</td><td>97.001.629</td><td>(91.615)</td><td>(7.152.212)</td></tr><tr><td colspan="5">Thuế TNDN hoãn lại phải trả</td></tr><tr><td>Dự phòng khoản đầu tư vào công ty con</td><td>-</td><td>-</td><td>-</td><td>20.000.000</td></tr><tr><td colspan="3">(Chi phí) thu nhập thuế TNDN hoãn lại tính vào báo cáo kết quả hoạt động kinh doanh hợp nhất</td><td>(91.615)</td><td>12.847.788</td></tr></table>
+
+30. NGHIỆP VỤ VỚI BÊN LIÊN QUAN
+
+Danh sách các bên liên quan có quan hệ kiểm soát và giao dịch trọng yếu với Nhóm Công ty tại ngày 31 tháng 12 năm 2024 như sau:
+
+Bên liên quan
+
+Môi quan hệ
+
+Ông Trần Bá Dương
+
+Chủ tịch HĐQT
+
+Ông Đoàn Nguyên Đức
+
+Phó Chủ tịch HĐQT
+
+Ông Trần Bảo Sơn
+
+Thành viên HĐQT kiểm Tổng Giám đốc
+
+Ông Nguyễn Hoàng Phi
+
+Thành viên HĐQT kiểm Phó tổng Giám đốc
+
+Ông Nguyễn Phúc Thịnh
+
+Thành viên HĐQT
+
+THACO
+
+Cổ đông lớn, công ty có cùng thành viên HĐQT
+
+Thaco Agri
+
+Công ty có cùng thành viên HĐQT
+
+42
+
+===== PAGE 48 =====
+Công ty Cổ phần Nông nghiệp Quốc tế Hoàng Anh Gia Lai
+
+B09-DN/HN
+
+THUYÊT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+
+vào ngày 31 tháng 12 năm 2024 và cho năm tài chính kết thúc cùng ngày
+
+30. NGHIỆP VỤ VỚI BÊN LIÊN QUAN (tiếp theo)
+
+Danh sách các bên liên quan có quan hệ kiểm soát và giao dịch trọng yếu với Nhóm Công ty tại ngày 31 tháng 12 năm 2024 như sau (tiếp theo):
+
+Bên liên quan
+
+Môi quan hệ
+
+Công ty TNHH Giao Nhận Vận Chuyển Quốc Tế Trường Hải ("Thilogi")
+
+HAG
+
+Công ty TNHH MTV Daun Penh Agrico ("Daun Penh")
+
+Công ty TNHH MTV Hoàng Anh An Đông Meas ("HA Andong Meas")
+
+Công ty TNHH MTV Hoàng Anh Lumphat ("HA Lumphat")
+
+Công ty TNHH MTV Cây ăn trái Thagrico Cao Nguyên ("Thagrico Cao Nguyên")
+
+Công ty TNHH MTV Chăn Nuôi Bò Trung
+Nguyên ("Bò Trung Nguyên")
+
+Công ty TNHH Công Nông Nghiệp Thadico ("Thadico")
+
+Công ty TNHH MTV Tổ hợp Cơ khí Thaco Chu Lai ("Cơ khí Chu Lai")
+
+Công ty TNHH Sản xuất Bao bì Thaco Chu Lai ("Thaco Bao bì")
+
+Công ty TNHH Sản xuất Nhựa công nghiệp Thaco ("Thaco Nhựa công nghiệp")
+
+Công ty TNHH Phân phối Thaco Auto ("Thaco Phân phối")
+
+Công ty TNHH Sản xuất Thiết bị Chuyên dụng Thaco ("Thaco Thiết bị Chuyên dụng")
+
+Công ty TNHH Cơ điện lạnh Thaco Industries ("Thaco ID M&E")
+
+Công ty TNHH Eastern Rubber (Campuchia) ("Eastern Rubber")
+
+Công Ty TNHH MTV Gia Công Thép Chu Lai - Trường Hải ("Thép Chu Lai")
+
+Trường Cao Đăng Thaco ("Cao Đăng Thaco")
+
+Công ty TNHH Vận tải Đường bộ Thilogi ("Thilogi Vận tải")
+
+Công Ty TNHH Sản Xuất Linh Kiện Nhựa Thaco ("Thaco Linh Kiện Nhựa")
+
+Bidiphar
+
+Công ty có cùng thành viên HĐQT
+
+Cổ đông lớn, công ty có cùng thành viên HĐQT
+
+Công ty con của Công ty có cùng thành viên HĐQT
+
+Công ty con của Công ty có cùng thành viên HĐQT
+
+Công ty con của Công ty có cùng thành viên HĐQT
+
+Công ty con của Công ty có cùng thành viên HĐQT
+
+Công ty con của Công ty có cùng thành viên HĐQT
+
+Công ty con của Công ty có cùng thành viên HĐQT
+
+Công ty con của Công ty có cùng thành viên HĐQT
+
+Công ty con của Công ty có cùng thành viên HĐQT
+
+Công ty con của Công ty có cùng thành viên HĐQT
+
+Công ty con của Công ty có cùng thành viên HĐQT
+
+Công ty con của Công ty có cùng thành viên HĐQT
+
+Công ty con của Công ty có cùng thành viên HĐQT
+
+Công ty con của Công ty có cùng thành viên HĐQT
+
+Công ty con của Công ty có cùng thành viên HĐQT
+
+Công ty con của Công ty có cùng thành viên HĐQT
+
+Công ty con của Công ty có cùng thành viên HĐQT
+
+Công ty con của Công ty có cùng thành viên HĐQT
+
+Công ty liên kết
+
+43
+
+N.H.H ★ L. J.S.W ★ Q
+
+===== PAGE 49 =====
+Công ty Cổ phần Nông nghiệp Quốc tế Hoàng Anh Gia Lai
+
+B09-DN/HN
+
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+
+vào ngày 31 tháng 12 năm 2024 và cho năm tài chính kết thúc cùng ngày
+
+30. NGHIỆP VỤ VỚI BÊN LIÊN QUAN (tiếp theo)
+
+Các giao dịch trọng yếu của Nhóm Công ty với các bên liên quan trong năm như sau:
+
+<table><tr><td rowspan="2">Bên liên quan</td><td rowspan="2">Nội dung nghiệp vụ</td><td colspan="2">Ngân VND</td></tr><tr><td>Năm nay</td><td>Năm trước</td></tr><tr><td rowspan="7">Thaco Agri</td><td>Vay</td><td>3.790.420.000</td><td>2.515.117.600</td></tr><tr><td>Lãi vay</td><td>535.779.028</td><td>415.243.040</td></tr><tr><td>Cán trừ công nợ</td><td>415.995.388</td><td>197.569.990</td></tr><tr><td>Mua vật tư</td><td></td><td></td></tr><tr><td>và hàng hóa</td><td>390.733.281</td><td>323.664.853</td></tr><tr><td>Bán hàng hóa</td><td>368.087.462</td><td>520.453.067</td></tr><tr><td>Trả gốc vay</td><td>179.400.000</td><td>169.100.000</td></tr><tr><td>HAG</td><td>Trả gốc vay</td><td>1.133.930.797</td><td>400.000.000</td></tr><tr><td rowspan="4">HA Andong Meas</td><td>Bù trừ nợ gốc vay</td><td>155.672.709</td><td>-</td></tr><tr><td>Cho vay</td><td>101.685.126</td><td>91.325.857</td></tr><tr><td>Thu tiền cho vay</td><td>23.072.920</td><td>-</td></tr><tr><td>Cán trừ công nợ</td><td>8.357.772</td><td>-</td></tr><tr><td>Thaco ID M&amp;E</td><td>Mua vật tư và hàng hóa</td><td>276.912.328</td><td>56.924.947</td></tr><tr><td rowspan="3">Daun Penh</td><td>Cán trừ công nợ</td><td>108.384.057</td><td>39.282.368</td></tr><tr><td>Bù trừ nợ gốc vay</td><td>94.037.261</td><td>-</td></tr><tr><td>Cho vay</td><td>30.619.371</td><td>60.029.142</td></tr><tr><td>Bò Trung Nguyên</td><td>Mua tài sản</td><td>171.904.437</td><td>143.818.957</td></tr><tr><td rowspan="2">Cao su Eastern</td><td>Bù trừ nợ gốc vay</td><td>135.057.275</td><td>-</td></tr><tr><td>Cho vay</td><td>33.380.397</td><td>96.946.639</td></tr><tr><td rowspan="2">HA Lymphat</td><td>Bù trừ nợ gốc vay</td><td>34.485.698</td><td>-</td></tr><tr><td>Cho vay</td><td>13.453.396</td><td>19.852.685</td></tr><tr><td>Bidiphar</td><td>Nhận cổ tức</td><td>26.144.558</td><td>52.289.115</td></tr><tr><td>Thép Chu Lai</td><td>Mua dịch vụ</td><td>14.318.603</td><td>-</td></tr><tr><td>Thadico</td><td>Mua hàng hóa</td><td>13.026.239</td><td>-</td></tr><tr><td>Thaco Phân phối</td><td>Mua tài sản</td><td>8.258.889</td><td>18.183.334</td></tr><tr><td>Thilogi</td><td>Mua dịch vụ</td><td>7.937.333</td><td>8.879.805</td></tr><tr><td>Thaco Thiết bị Chuyên dụng</td><td>Mua hàng hóa</td><td>7.696.009</td><td>2.082.220</td></tr><tr><td>Thaco Bao bì</td><td>Mua hàng hóa</td><td>4.122.350</td><td>46.256.865</td></tr><tr><td>Thaco Nhựa công nghiệp</td><td>Mua hàng hóa</td><td>2.522.885</td><td>69.135.514</td></tr><tr><td>Cơ khí Chu Lai</td><td>Mua hàng hóa</td><td>2.456.809</td><td>86.855.036</td></tr><tr><td>Thaco Linh Kiện Nhựa</td><td>Mua hàng hóa</td><td>2.404.249</td><td>-</td></tr></table>
+
+44
+
+===== PAGE 50 =====
+Công ty Cổ phần Nông nghiệp Quốc tế Hoàng Anh Gia Lai
+
+B09-DN/HN
+
+THUYẾT MINH BẢO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+
+vào ngày 31 tháng 12 năm 2024 và cho năm tài chính kết thúc cùng ngày
+
+30. NGHIỆP VỤ VỚI BÊN LIÊN QUAN (tiếp theo)
+
+Vào ngày kết thúc ký kế toán năm, số dư các khoản phải thu và phải trả của Nhóm Công ty với các bên liên quan như sau:
+
+<table><tr><td>Bên liên quan</td><td>Nội dung nghiệp vụ</td><td>Số cuối năm</td><td>Ngàn VND Số đầu năm</td></tr><tr><td colspan="4">Phải thu ngắn hạn của khách hàng (TM số 5)</td></tr><tr><td>Thaco Agri</td><td>Bán hàng hóa</td><td>67.814.950</td><td>-</td></tr><tr><td>Thagrico Cao Nguyên</td><td>Bán hàng hóa</td><td>-</td><td>69.660</td></tr><tr><td>TỔNG CỘNG</td><td></td><td>67.814.950</td><td>69.660</td></tr><tr><td colspan="4">Trả trước cho người bán ngắn hạn (TM số 6)</td></tr><tr><td>Thaco Agri</td><td>Mua hàng hóa</td><td>-</td><td>199.234.120</td></tr><tr><td>Thaco ID M&amp;E</td><td>Mua hàng hóa</td><td>-</td><td>604.065</td></tr><tr><td>TỔNG CỘNG</td><td></td><td>-</td><td>199.838.185</td></tr><tr><td colspan="4">Phải thu ngắn hạn khác (TM số 7)</td></tr><tr><td>Thaco Agri</td><td>Cắn trừ công nợ</td><td>71.815.958</td><td>71.725.934</td></tr><tr><td>Daun Penh</td><td>Chi hộ</td><td>27.569.926</td><td>163.087</td></tr><tr><td>Thadico</td><td>Chi hộ</td><td>17.981.512</td><td>13.231.785</td></tr><tr><td>HA Andong Meas</td><td>Chi hộ</td><td>7.870.906</td><td>15.956</td></tr><tr><td>Thaco ID M&amp;E</td><td>Chi hộ</td><td>6.429.786</td><td>1.632.420</td></tr><tr><td>HA Lymphat</td><td>Chi hộ</td><td>4.346.637</td><td>-</td></tr><tr><td>Nông nghiệp Thilogi</td><td>Chi hộ</td><td>2.302.924</td><td>293.395</td></tr><tr><td>Khác</td><td>Khác</td><td>1.318.460</td><td>211.326</td></tr><tr><td>TỔNG CỘNG</td><td></td><td>139.636.109</td><td>87.273.903</td></tr><tr><td colspan="4">Phải thu về cho vay dài hạn (TM số 10)</td></tr><tr><td>Eastern Rubber</td><td>Cho vay</td><td>-</td><td>94.665.533</td></tr><tr><td>HA Andong Meas</td><td>Cho vay</td><td>-</td><td>69.309.105</td></tr><tr><td>Daun Penh</td><td>Cho vay</td><td>-</td><td>58.609.466</td></tr><tr><td>HA Lymphat</td><td>Cho vay</td><td>-</td><td>19.363.171</td></tr><tr><td>TỔNG CỘNG</td><td></td><td>-</td><td>241.947.275</td></tr></table>
+
+45
+
+===== PAGE 51 =====
+Công ty Cổ phần Nông nghiệp Quốc tế Hoàng Anh Gia Lai
+
+B09-DN/HN
+
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+
+vào ngày 31 tháng 12 năm 2024 và cho năm tài chính kết thúc cùng ngày
+
+30. NGHIỆP VỤ VỚI BÊN LIÊN QUAN (tiếp theo)
+
+Vào ngày kết thúc kỳ kế toán năm, số dư các khoản phải thu và phải trả của Nhóm Công ty với các bên liên quan như sau (tiếp theo):
+
+<table><tr><td>Bên liên quan</td><td>Nội dung nghiệp vụ</td><td>Số cuối năm</td><td>Ngàn VND Số đầu năm</td></tr><tr><td colspan="4">Phải trả người bán ngắn hạn (TM số 17)</td></tr><tr><td>Thaco Agri</td><td>Mua vật tư và hàng hóa</td><td>454.527.130</td><td>12.423.015</td></tr><tr><td>Bò Trung Nguyên</td><td>Mua tài sản</td><td>326.518.324</td><td>145.629.572</td></tr><tr><td>Thaco ID M&amp;E</td><td>Mua vật tư và hàng hóa</td><td>242.533.795</td><td>56.481.675</td></tr><tr><td>Thaco Phân phối</td><td>Mua tài sản</td><td>39.257.000</td><td>30.365.310</td></tr><tr><td>Thaco Thiết bị Chuyên dụng</td><td>Mua hàng hóa</td><td>20.138.680</td><td>14.037.714</td></tr><tr><td>Thép Chu Lai</td><td>Mua dịch vụ</td><td>14.525.327</td><td>132</td></tr><tr><td>Thadico</td><td>Mua hàng hóa</td><td>13.289.381</td><td>-</td></tr><tr><td>Thaco Nhựa công nghiệp</td><td>Mua hàng hóa</td><td>12.547.561</td><td>64.289.740</td></tr><tr><td>Thaco Bao bì</td><td>Mua hàng hóa</td><td>7.992.311</td><td>52.653.851</td></tr><tr><td>Thilogi Vận tải</td><td>Mua dịch vụ</td><td>7.267.603</td><td>7.344.008</td></tr><tr><td>Thilogi</td><td>Mua dịch vụ</td><td>6.325.242</td><td>7.472.677</td></tr><tr><td>Thaco Linh Kiện Nhựa</td><td>Mua hàng hóa</td><td>4.053.188</td><td>1.557.107</td></tr><tr><td>Khác</td><td>Mua hàng hóa và dịch vụ</td><td>3.750.170</td><td>4.892.187</td></tr><tr><td>TỔNG CỘNG</td><td></td><td>1.152.725.712</td><td>397.146.988</td></tr><tr><td colspan="4">Người mua trả tiền trước ngắn hạn (TM số 18)</td></tr><tr><td>Thaco Agri</td><td>Ứng tiền mua trái cây</td><td>1.007.830.559</td><td>1.511.858.061</td></tr><tr><td colspan="4">Chi phí phải trả ngắn hạn (TM số 19)</td></tr><tr><td>Thaco Agri</td><td>Lãi vay</td><td>1.106.688.519</td><td>571.037.891</td></tr><tr><td></td><td>Mua hàng hóa</td><td>131.206</td><td>-</td></tr><tr><td>Thilogi</td><td>Mua dịch vụ</td><td>156.000</td><td>-</td></tr><tr><td>HAG</td><td>Lãi vay</td><td>-</td><td>10.786.453</td></tr><tr><td>TỔNG CỘNG</td><td></td><td>1.106.975.725</td><td>581.824.344</td></tr><tr><td colspan="4">Phải trả ngắn hạn khác (TM số 20)</td></tr><tr><td>Thaco Agri</td><td>Cấn trừ công nợ</td><td>20.827.778</td><td>17.691.076</td></tr><tr><td>Cơ Khí Chu Lai</td><td>Chỉ hộ</td><td>324.216</td><td>157.968</td></tr><tr><td>Khác</td><td>Khác</td><td>718.171</td><td>533.314</td></tr><tr><td>TỔNG CỘNG</td><td></td><td>21.870.165</td><td>18.382.358</td></tr></table>
+
+46
+
+===== PAGE 52 =====
+Công ty Cổ phần Nông nghiệp Quốc tế Hoàng Anh Gia Lai
+
+B09-DN/HN
+
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+
+vào ngày 31 tháng 12 năm 2024 và cho năm tài chính kết thúc cùng ngày
+
+30. NGHIỆP VỤ VỚI BÊN LIÊN QUAN (tiếp theo)
+
+Vào ngày kết thúc kỳ kế toán năm, số dư các khoản phải thu và phải trả của Nhóm Công ty với các bên liên quan như sau: (tiếp theo)
+
+<table><tr><td>Bên liên quan</td><td>Nội dung nghiệp vụ</td><td>Số cuối năm</td><td>VND Số đầu năm</td></tr><tr><td colspan="4">Phải trả dài hạn khác (TM số 20)</td></tr><tr><td>Cơ khí Chu Lai</td><td>Chi hộ</td><td>20.562.546</td><td>-</td></tr><tr><td>Thaco Agri</td><td>Chi hộ</td><td>1.688.554</td><td>1.583.590</td></tr><tr><td>Daun Penh</td><td>Chi hộ</td><td>-</td><td>8.508.878</td></tr><tr><td>Khác</td><td>Khác</td><td>338.439</td><td>356.419</td></tr><tr><td>TỔNG CỘNG</td><td></td><td>22.589.539</td><td>10.448.887</td></tr><tr><td colspan="4">Vay ngắn hạn (TM số 21.2 và TM số 21.3)</td></tr><tr><td>Thaco Agri</td><td>Vay</td><td>9.064.874.588</td><td>3.549.936.981</td></tr><tr><td>HAG</td><td>Vay</td><td>-</td><td>1.117.305.199</td></tr><tr><td>TỔNG CỘNG</td><td></td><td>9.064.874.588</td><td>4.667.242.180</td></tr><tr><td colspan="4">Vay dài hạn (TM số 21.3)</td></tr><tr><td>Thaco Agri</td><td>Vay</td><td>-</td><td>1.904.917.607</td></tr></table>
+
+Thu nhập (bao gồm tiền lương, thù lao, thưởng và lợi ích khác) cho các thành viên Hội đồng Quản trị, Ban Kiểm soát và Ban Tổng Giám đốc như sau:
+
+<table><tr><td rowspan="2">Tên</td><td rowspan="2">Chức vụ</td><td colspan="2">Thu nhập</td></tr><tr><td>Năm nay</td><td>Năm trước</td></tr><tr><td colspan="4">Hội đồng quản trị và Ban Tổng Giám đốc</td></tr><tr><td>Ông Trần Bá Dương</td><td>Chủ tịch</td><td>-</td><td>-</td></tr><tr><td>Ông Đoàn Nguyên Đức</td><td>Phó chủ tịch</td><td>144.000</td><td>144.000</td></tr><tr><td>Ông Trần Bảo Sơn</td><td>Thành viên/Tổng Giám đốc</td><td>-</td><td>-</td></tr><tr><td>Ông Nguyễn Hoàng Phi</td><td>Thành viên/Phó Tổng Giám Đốc</td><td>-</td><td>-</td></tr><tr><td>Ông Nguyễn Phúc Thịnh</td><td>Thành viên</td><td>-</td><td>-</td></tr><tr><td colspan="4">Ban Kiểm soát</td></tr><tr><td>Ông Bùi Minh Khoa</td><td>Trường ban</td><td>-</td><td>-</td></tr><tr><td>Ông Đăng Công Trực</td><td>Thành viên</td><td>-</td><td>-</td></tr><tr><td>Bà Bùi Thị Liễu</td><td>Thành viên</td><td>-</td><td>-</td></tr><tr><td>TỔNG CỘNG</td><td></td><td>144.000</td><td>144.000</td></tr></table>
+
+47
+
+===== PAGE 53 =====
+Công ty Cổ phần Nông nghiệp Quốc tế Hoàng Anh Gia Lai
+
+B09-DN/HN
+
+THUYẾT MINH BẢO CẢO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+
+vào ngày 31 tháng 12 năm 2024 và cho năm tài chính kết thúc cùng ngày
+
+31. CÁC CAM KẾT
+
+Cam kết thuê hoạt động
+
+Nhóm Công ty thuê đất tại Lào và Campuchia để xây dựng nhà Uzbek, khách sạn, trồng cây cao su và các loại cây trồng khác và thuê văn phòng theo hình thức thuê hoạt động. Tiền thuê cam kết theo các hợp đồng thuê này như sau:
+
+<table><tr><td></td><td>Số cuối năm</td><td>Ngàn VND Số đầu năm</td></tr><tr><td>Đến 1 năm</td><td>20.123.635</td><td>18.517.999</td></tr><tr><td>Từ 1 đến 5 năm</td><td>82.764.365</td><td>77.088.808</td></tr><tr><td>Trên 5 năm</td><td>688.999.349</td><td>670.053.113</td></tr><tr><td>TỔNG CỘNG</td><td>791.887.349</td><td>765.659.920</td></tr></table>
+
+Dự phòng bảo hành dự án xây dựng sân bay
+
+Vào ngày 31 tháng 12 năm 2024, Nhóm Công ty đang tiếp tục thực hiện và hoàn thiện các hạng mục còn lại của sân bay Quốc tế Nongkhang tại Tĩnh Huaphan, nước Cộng hòa Dân chủ - Nhân dân Lào. Nhóm Công ty chưa ghi nhận khoản dự phòng bảo hành cho các dự án này, vì dự án chưa được quyết toán hoàn thành.
+
+Cam kết góp vốn
+
+Vào ngày 31 tháng 12 năm 2024, Nhóm Công ty có khoản cam kết với số tiền là 400.000.000 USD liên quan đến việc đầu tư góp vốn vào Nam Lào, nhằm thực hiện dự án đầu tư sản xuất trồng trọt cây ăn trái kết hợp chăn nuôi bò quy mô lớn tại tỉnh Attapeu và tỉnh Sekong, Lào.
+
+32. KHOÀN MỤC NGOÀI BẢNG CÂN ĐỐI KẾ TOÁN
+
+<table><tr><td></td><td>Số cuối năm</td><td>Số đầu năm</td></tr><tr><td colspan="3">Các loại ngoại tệ:</td></tr><tr><td>- LAK</td><td>9.939.353.019</td><td>711.848.031</td></tr><tr><td>- KHR</td><td>516.279.127</td><td>1.282.589.474</td></tr><tr><td>- USD</td><td>1.638.237</td><td>962.223</td></tr></table>
+
+48
+
+===== PAGE 54 =====
+Công ty Cổ phần Nông nghiệp Quốc tế Hoàng Anh Gia Lai
+
+B09-DN/HN
+
+THUYÊT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+
+vào ngày 31 tháng 12 năm 2024 và cho năm tài chính kết thúc cùng ngày
+
+33. THÔNG TIN THEO BỘ PHẦN
+
+Nhóm Công ty lựa chọn các bộ phận theo lĩnh vực kinh doanh là bộ phận báo cáo chính yếu vì rủi ro và tỷ suất sinh lời của Nhóm Công ty bị tác động chủ yếu bởi những khác biết về sản phẩm và dịch vụ do Nhóm Công ty cung cấp. Các bộ phận theo khu vực địa lý là bộ phận báo cáo thứ yếu. Các hoạt động kinh doanh của Nhóm Công ty được tổ chức và quản lý theo tính chất của sản phẩm và dịch vụ do Nhóm Công ty cung cấp với mỗi một bộ phận là một đơn vị kinh doanh chiến lược cung cấp các sản phẩm khác nhau và phục vụ các thị trường khác nhau.
+
+Giá áp dụng cho các giao dịch giữa các bộ phận được xác định trên cơ sở khách quan tương tự như với các bên thứ ba. Doanh thu, chi phí và kết quả kinh doanh của các bộ phận bao gồm các giao dịch giữa các bộ phận. Các giao dịch này được loại trừ khi lập báo cáo tài chính hợp nhất.
+
+Bộ phận theo khu vực địa lý của Nhóm Công ty được xác định theo địa điểm của tài sản của Nhóm Công ty. Doanh thu bán hàng ra bên ngoài trình bày trong bộ phận theo khu vực địa lý được xác định dựa trên địa điểm địa lý của khách hàng của Nhóm Công ty.
+
+33.1 Bộ phận theo lĩnh vực kinh doanh
+
+Nhàm phục vụ công tác quản lý, Nhóm Công ty được tổ chức theo các đơn vị kinh doanh dựa trên các sản phẩm và dịch vụ và bao gồm các bộ phận báo cáo theo hoạt động như sau:
+
+Nông nghiệp, trồng và thu hoạch cao su và cây ăn trái, chăn nuôi bò; và
+
+▶ Thương mại và dịch vụ: dịch vụ xây dựng, mua bán và vận chuyển hàng hóa.
+
+Kết quả hoạt động kinh doanh của các bộ phận được quản lý riêng biệt nhằm phục vụ cho việc ra quyết định, phân bổ nguồn lực và đánh giá thành tích. Thành tích của các bộ phận được đánh giá dựa trên kết quả lãi lỗ mà trên một số khóa canh, như được trình bày trong bằng dưới đây, được đo lường khác với kết quả hoạt động kinh doanh trong báo cáo kết quả hoạt động kinh doanh hợp nhất. Nguồn tài trợ, bao gồm thu nhập và chỉ phí tử hoạt động tài chính; và thuế thu nhập doanh nghiệp được quản lý tập trung ở cấp độ Nhóm Công ty chữ không phân bổ cho các bộ phận.
+
+Thông tin về doanh thu, lợi nhuận và một số tài sản và công nợ của bộ phận theo lĩnh vực kinh doanh của Nhóm Công ty như sau:
+
+49
+
+===== PAGE 55 =====
+Công ty Cổ phần Nông nghiệp Quốc tế Hoàng Anh Gia Lai
+
+THUYẾT MINH BẢO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+vào ngày 31 tháng 12 năm 2024 và cho năm tài chính kết thúc cùng ngày
+
+33. THÔNG TIN THEO BỘ PHẦN (tiếp theo)
+
+33.1 Bộ phận theo lĩnh vực kinh doanh (tiếp theo)
+
+<table><tr><td></td><td>Nông nghiệp</td><td>Thương mại và dịch vụ</td><td>Loại trừ</td><td>Ngàn VND Tổng cộng</td></tr><tr><td colspan="5">Cho năm tài chính kết thúc ngày 31 tháng 12 năm 2023</td></tr><tr><td>Doanh thu</td><td></td><td></td><td></td><td></td></tr><tr><td>Từ khách hàng bên ngoài</td><td>601.008.221</td><td>4.562.908</td><td>-</td><td>605.571.129</td></tr><tr><td>Giữa các bộ phận</td><td>128.922.430</td><td>321.458.904</td><td>(450.381.334)</td><td>-</td></tr><tr><td>Tổng cộng</td><td>729.930.651</td><td>326.021.812</td><td>(450.381.334)</td><td>605.571.129</td></tr><tr><td>Kết quả hoạt động kinh doanh</td><td></td><td></td><td></td><td></td></tr><tr><td>Kết quả của bộ phận</td><td>(536.416.422)</td><td>322.463.858</td><td>(450.381.334)</td><td>(664.333.898)</td></tr><tr><td>Chi phí hoạt động</td><td></td><td></td><td></td><td>(173.525.655)</td></tr><tr><td>Lỗ trước thuế, doanh thu tài chính và chi phí tài chính</td><td></td><td></td><td></td><td>(837.859.553)</td></tr><tr><td>Doanh thu tài chính</td><td></td><td></td><td></td><td>36.109.178</td></tr><tr><td>Chi phí tài chính</td><td></td><td></td><td></td><td>(343.586.331)</td></tr><tr><td>Chia lãi từ công ty liên kết</td><td></td><td></td><td></td><td>34.923.794</td></tr><tr><td>Lỗ kế toán trước thuế</td><td></td><td></td><td></td><td>(1.110.412.912)</td></tr><tr><td>Chi phí thuế TNDN hiện hành</td><td></td><td></td><td></td><td>(895.594)</td></tr><tr><td>Thu nhập thuế thu nhập hoãn lại</td><td></td><td></td><td></td><td>12.847.788</td></tr><tr><td>Lỗ thuần trong năm</td><td></td><td></td><td></td><td>(1.098.460.718)</td></tr><tr><td colspan="5">Tại ngày 31 tháng 12 năm 2023</td></tr><tr><td>Tải sản và nợ phải trả</td><td></td><td></td><td></td><td></td></tr><tr><td>Tải sản của bộ phận</td><td>10.546.483.302</td><td>3.209.849.972</td><td>-</td><td>13.756.333.274</td></tr><tr><td>Đầu tư vào công ty liên kết</td><td>339.446.064</td><td>-</td><td>-</td><td>339.446.064</td></tr><tr><td>Tổng tài sản</td><td></td><td></td><td></td><td>14.095.779.338</td></tr><tr><td>Nợ phải trả của bộ phận</td><td>(11.082.184.053)</td><td>(757.888.314)</td><td>-</td><td>(11.840.072.367)</td></tr><tr><td>Tổng nợ phải trả</td><td></td><td></td><td></td><td>(11.840.072.367)</td></tr></table>
+
+50
+
+===== PAGE 56 =====
+Công ty Cổ phần Nông nghiệp Quốc tế Hoàng Anh Gia Lai
+
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+vào ngày 31 tháng 12 năm 2024 và cho năm tài chính kết thúc cùng ngày
+
+33. THÔNG TIN THEO BỘ PHẦN (tiếp theo)
+
+33.1 Bộ phận theo lĩnh vực kinh doanh (tiếp theo)
+
+<table><tr><td></td><td>Nông nghiệp</td><td>Thương mại và dịch vụ</td><td>Loại trừ</td><td>Ngăn VND Tổng cộng</td></tr><tr><td colspan="5">Cho năm tài chính kết thúc ngày 31 tháng 12 năm 2024</td></tr><tr><td>Doanh thu</td><td></td><td></td><td></td><td></td></tr><tr><td>Từ khách hàng bên ngoài</td><td>487.472.033</td><td>4.448.217</td><td>-</td><td>491.920.250</td></tr><tr><td>Giữa các bộ phận</td><td>179.394.949</td><td>405.348.142</td><td>(584.743.091)</td><td>-</td></tr><tr><td>Tổng cộng</td><td>666.866.982</td><td>409.796.359</td><td>(584.743.091)</td><td>491.920.250</td></tr><tr><td>Kết quả hoạt động kinh doanh</td><td></td><td></td><td></td><td></td></tr><tr><td>Kết quả của bộ phận</td><td>(257.175.607)</td><td>406.196.268</td><td>(584.743.091)</td><td>(435.722.430)</td></tr><tr><td>Chi phí hoạt động</td><td></td><td></td><td></td><td>(636.809.453)</td></tr><tr><td>Lỗ trước thuế, doanh thu tài chính và chi phí tài chính</td><td></td><td></td><td></td><td>(1.072.531.883)</td></tr><tr><td>Doanh thu tài chính</td><td></td><td></td><td></td><td>86.112.332</td></tr><tr><td>Chi phí tài chính</td><td></td><td></td><td></td><td>(319.852.387)</td></tr><tr><td>Chia lãi trong công ty liên kết</td><td></td><td></td><td></td><td>24.650.807</td></tr><tr><td>Lỗ kế toán trước thuế</td><td></td><td></td><td></td><td>(1.281.621.131)</td></tr><tr><td>Chi phí thuế TNDN hiện hành</td><td></td><td></td><td></td><td>(165.902)</td></tr><tr><td>Chi phí thuế thu nhập hoãn lại</td><td></td><td></td><td></td><td>(91.615)</td></tr><tr><td>Lỗ thuần trong năm</td><td></td><td></td><td></td><td>(1.281.878.648)</td></tr><tr><td colspan="5">Tại ngày 31 tháng 12 năm 2024</td></tr><tr><td>Tài sản và nợ phải trả</td><td></td><td></td><td></td><td></td></tr><tr><td>Tài sản của bộ phận</td><td>14.122.141.035</td><td>2.235.400.422</td><td>-</td><td>16.357.541.457</td></tr><tr><td>Đầu tư vào công ty liên kết</td><td>337.952.313</td><td>-</td><td>-</td><td>337.952.313</td></tr><tr><td>Tổng tài sản</td><td></td><td></td><td></td><td>16.695.493.770</td></tr><tr><td>Nợ phải trả của bộ phận</td><td>(1.568.722.074)</td><td>(13.491.139.914)</td><td>-</td><td>(15.059.861.988)</td></tr><tr><td>Tổng nợ phải trả</td><td></td><td></td><td></td><td>(15.059.861.988)</td></tr></table>
+
+51
+
+===== PAGE 57 =====
+Công ty Cổ phần Nông nghiệp Quốc tế Hoàng Anh Gia Lai
+
+THUYẾT MINH BẢO CẢO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+vào ngày 31 tháng 12 năm 2024 và cho năm tài chính kết thúc cùng ngày
+
+33. THÔNG TIN THEO BỘ PHẦN (tiếp theo)
+
+33.2 Bộ phận theo khu vực địa lý
+
+Thông tin về doanh thu, lợi nhuận và một số tài sản, công nợ của bộ phận theo khu vực địa lý của Nhóm Công ty như sau:
+
+<table><tr><td></td><td>Việt Nam</td><td>Lào</td><td>Campuchia</td><td>Ngàn VND Tổng cộng</td></tr><tr><td colspan="5">Cho năm tài chính kết thúc ngày 31 tháng 12 năm 2023</td></tr><tr><td>Doanh thu từ khách hàng bên ngoài</td><td>527.483.838</td><td>2.791.991</td><td>75.295.300</td><td>605.571.129</td></tr><tr><td>Chi phí hình thành tài sản cố định</td><td>-</td><td>265.150.710</td><td>597.366.587</td><td>862.517.297</td></tr><tr><td colspan="5">Vào ngày 31 tháng 12 năm 2023</td></tr><tr><td colspan="5">Các thông tin bộ phận khác</td></tr><tr><td>Tài sản bộ phận</td><td>3.355.063.357</td><td>8.657.948.215</td><td>1.743.321.702</td><td>13.756.333.274</td></tr><tr><td>Đầu tư vào công ty liên kết</td><td>339.446.064</td><td>-</td><td>-</td><td>339.446.064</td></tr><tr><td>Tổng tài sản</td><td>3.694.509.421</td><td>8.657.948.215</td><td>1.743.321.702</td><td>14.095.779.338</td></tr><tr><td colspan="5">Cho năm tài chính kết thúc ngày 31 tháng 12 năm 2024</td></tr><tr><td>Doanh thu từ khách hàng bên ngoài</td><td>198.220.839</td><td>187.688.135</td><td>106.011.276</td><td>491.920.250</td></tr><tr><td>Chi phí hình thành tài sản cố định</td><td>-</td><td>114.606.182</td><td>-</td><td>114.606.182</td></tr><tr><td colspan="5">Vào ngày 31 tháng 12 năm 2024</td></tr><tr><td colspan="5">Các thông tin bộ phận khác</td></tr><tr><td>Tài sản bộ phận</td><td>2.413.396.930</td><td>11.826.785.492</td><td>2.117.359.035</td><td>16.357.541.457</td></tr><tr><td>Đầu tư vào công ty liên kết</td><td>337.952.313</td><td>-</td><td>-</td><td>337.952.313</td></tr><tr><td>Tổng tài sản</td><td>2.751.349.243</td><td>11.826.785.492</td><td>2.117.359.035</td><td>16.695.493.770</td></tr></table>
+
+B09-DN/HN
+
+52
+
+===== PAGE 58 =====
+Công ty Cổ phần Nông nghiệp Quốc tế Hoàng Anh Gia Lai
+
+B09-DN/HN
+
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+
+vào ngày 31 tháng 12 năm 2024 và cho năm tài chính kết thúc cùng ngày
+
+34. SỰ KIỆN PHÁT SINH SAU NGÀY KẾT THỨC KỸ KẾ TOÁN NĂM
+
+Không có sự kiện nào phát sinh sau ngày kết thúc kỳ kế toán năm yêu cầu phải được điều chỉnh hay trình bày trong báo cáo tài chính hợp nhất của Nhóm Công ty.
+
+53

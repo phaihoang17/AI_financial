@@ -1,0 +1,1884 @@
+===== PAGE 1 =====
+Tập đoàn Bảo Việt
+
+Báo cáo tài chính riêng
+
+Cho năm tài chính kết thúc ngày 31 tháng 12 năm 2021
+
+Building a better working world
+
+===== PAGE 2 =====
+Tập đoàn Bảo Việt
+
+MỤC LỤC
+
+Trang
+
+Thông tin chung 1 - 2
+
+Báo cáo của Hội đồng Quản trị 3
+
+Báo cáo kiểm toán độc lập 4 - 5
+
+Bảng cân đối kế toán riêng 6 - 7
+
+Báo cáo kết quả hoạt động kinh doanh riêng 8
+
+Báo cáo lưu chuyển tiền tệ riêng 9 - 10
+
+Thuyết minh báo cáo tài chính riêng 11 - 65
+
+===== PAGE 3 =====
+Tập đoàn Bảo Việt
+
+THÔNG TIN CHUNG
+
+TẬP ĐOÀN
+
+Tập đoàn Bảo Việt (sau đây gọi tất là “Tập đoàn”) trước đây là một doanh nghiệp Nhà nước đã được cổ phần hóa và trở thành một doanh nghiệp cổ phần theo Giấy Chứng nhận Đăng ký kinh doanh do Sở Kế hoạch và Đầu tư thành phố Hà Nội cấp lần đầu ngày 15 tháng 10 năm 2007. Giấy Chứng nhận Đăng ký kinh doanh của Tập đoàn đã được đăng ký thay đổi 14 lần với lần thứ 14 được thực hiện vào ngày 25 tháng 02 năm 2022.
+
+Toàn bộ số cổ phần thuộc vốn điều lệ của Tập đoàn được niêm yết tại Sở Giao dịch Chứng khoán Thành phố Hồ Chí Minh (HOSE).
+
+Một số thông tin về Tập đoàn theo Giấy Chứng nhận Đăng ký kinh doanh thay đổi lần thứ 14 như sau:
+
+Mã số doanh nghiệp: 0100111761
+
+Tên doanh nghiệp: Tập đoàn Bảo Việt
+
+Địa chỉ trụ sở chính: Số 72, phố Trần Hưng Đạo, phường Trần Hưng Đạo, quận Hoàn Kiểm, Hà Nội
+
+Ngành nghề kinh doanh: Đầu tư vốn vào các công ty con, công ty liên kết; kinh doanh dịch vụ tài chính và các lĩnh vực khác theo quy định của pháp luật; hoạt động kinh doanh bắt động sản; hoạt động dịch vụ công nghệ thông tin và dịch vụ khác liên quan đến máy vi tính; dịch vụ hỗ trợ giáo dục và các ngành nghề kinh doanh khác theo Giấy Chứng nhận Đăng ký Kinh doanh
+
+Vốn điều lệ: 7.423.227.640.000 VND
+
+Số cổ phần đã đăng ký: 742.322.764 cổ phần
+
+Người đại diện theo pháp luật: Ông Đỗ Trường Minh - Tổng Giám đốc
+
+HỘI ĐỒNG QUẢN TRỊ
+
+Các thành viên Hội đồng Quản trị trong năm và vào ngày lập báo cáo này như sau:
+
+<table><tr><td>Ông Đào Đình Thi</td><td>Chủ tịch</td><td>Bổ nhiệm ngày 23 tháng 12 năm 2014</td></tr><tr><td>Ông Đỗ Trường Minh</td><td>Thành viên</td><td>Bổ nhiệm ngày 27 tháng 06 năm 2018</td></tr><tr><td>Bà Thân Hiền Anh</td><td>Thành viên</td><td>Bổ nhiệm ngày 23 tháng 12 năm 2014</td></tr><tr><td>Bà Trần Thị Diệu Hằng</td><td>Thành viên</td><td>Bổ nhiệm ngày 27 tháng 06 năm 2018</td></tr><tr><td>Ông Nguyễn Xuân Việt</td><td>Thành viên</td><td>Bổ nhiệm ngày 27 tháng 06 năm 2018</td></tr><tr><td>Ông Teruo Shimmen</td><td>Thành viên</td><td>Bổ nhiệm ngày 29 tháng 06 năm 2019</td></tr><tr><td>Ông Nguyễn Đình An</td><td>Thành viên</td><td>Bổ nhiệm ngày 29 tháng 06 năm 2020</td></tr><tr><td>Ông Arai Kazuhiko</td><td>Thành viên</td><td>Bổ nhiệm ngày 29 tháng 06 năm 2021</td></tr><tr><td>Ông Kenji Yoneda</td><td>Thành viên</td><td>Miễn nhiệm ngày 29 tháng 06 năm 2021</td></tr></table>
+
+BAN KIỂM SOÁT
+
+Các kiểm soát viên trong năm và vào ngày lập báo cáo này như sau:
+
+<table><tr><td>Ông Ông Tiến Hùng</td><td>Trường Ban Kiểm soátKiểm soát viên</td><td>Bổ nhiệm ngày 29 tháng 06 năm 2019Bổ nhiệm ngày 29 tháng 11 năm 2012</td></tr><tr><td>Ông Vũ Thanh Hải</td><td>Kiểm soát viên</td><td>Bổ nhiệm ngày 29 tháng 06 năm 2019</td></tr><tr><td>Ông Đình Hoài Linh</td><td>Kiểm soát viên</td><td>Bổ nhiệm ngày 29 tháng 06 năm 2021</td></tr><tr><td>Bà Trần Thị Phương</td><td>Kiểm soát viên</td><td>Miễn nhiệm ngày 29 tháng 06 năm 2021</td></tr></table>
+
+1
+
+===== PAGE 4 =====
+Tập đoàn Bảo Việt
+
+THÔNG TIN CHUNG (tiếp theo)
+
+BAN ĐIỀU HÀNH
+
+Các thành viên Ban Điều hành trong năm và vào ngày lập báo cáo này như sau:
+
+Ông Đỗ Trường Minh
+
+Tổng Giám đốc
+
+Bổ nhiệm ngày 27 tháng 06 năm 2018
+
+Ông Nguyễn Xuân Hòa
+
+Kế toán Trường
+
+Bố nhiệm ngày 13 tháng 01 năm 2016
+
+NGƯỜI ĐẠI DIỆN THEO PHÁP LUẬT
+
+Người đại diện theo pháp luật của Tập đoàn trong năm vào ngày lập báo cáo này là Ông Đỗ Trường Minh - Tổng Giám đốc.
+
+KIỂM TOÁN VIÊN
+
+Công ty Trách nhiệm Hữu hạn Ernst & Young Việt Nam là công ty kiểm toán của Tập đoàn.
+
+2
+
+===== PAGE 5 =====
+Tập đoàn Bảo Việt
+
+BÁO CÁO CỦA HỘI ĐÔNG QUẢN TRỊ
+
+Hội đồng Quản trị Tập đoàn Bảo Việt trình bày báo cáo này và phê duyệt báo cáo tài chính riêng của Công ty mẹ Tập đoàn Bảo Việt cho năm tài chính kết thúc ngày 31 tháng 12 năm 2021.
+
+TRÁCH NHIỆM CỦA BAN ĐIỀU HÀNH CÔNG TY MỆ TẬP ĐOÀN ĐỐI VỚI BÁO CÁO TÀI CHÍNH RIÊNG
+
+Ban Điều hành Công ty mẹ Tập đoàn Bảo Việt (“Ban Điều hành”) chịu trách nhiệm đảm bảo báo cáo tài chính riêng cho từng năm tài chính phân ánh trung thực và hợp lý tính hình tài chính riêng, kết quả hoạt động kinh doanh riêng và tính hình lưu chuyển tiền tệ riêng của Công ty mẹ Tập đoàn trong nằm. Trong quá trình lập báo cáo tài chính riêng này, Ban Điều hành cần phải:
+
+▶ lựa chọn các chính sách kế toán thích hợp và áp dụng các chính sách này một cách nhất quán;
+
+▶ thực hiện các đánh giá và ước tính một cách hợp lý và thận trọng;
+
+nêu rõ các chuẩn mục kế toán áp dụng có được tuân thủ hay không và tất cả những sai lệch trọng yếu so với những chuẩn mục này đã được trình bày và giải thích trong báo cáo tài chính riêng; và
+
+lập báo cáo tài chính riêng trên cơ sở nguyên tắc hoạt động liên tục trừ trường hợp không thể cho rằng Công ty mẹ Tập đoàn sẽ tiếp tục hoạt động.
+
+Ban Điều hành chịu trách nhiệm đảm bảo việc các số sách kế toán thích hợp được lưu giữ để phần ánh tinh hình tài chính riêng của Công ty mẹ Tập đoàn, với mức độ chính xác hợp lý, tại bất kỳ thời điểm nào và đảm bảo rằng các số sách kế toán tuân thủ với chế độ kế toán đã được áp dụng. Ban Điều hành cũng chịu trách nhiệm về việc quản lý các tài sản của Công ty mẹ Tập đoàn và do đó phải thực hiện các biện pháp thích hợp để ngăn chạn và phát hiện các hành vi gian lận và những vi phạm khác.
+
+Ban Điều hành cam kết đã tuân thủ những yêu cầu nếu trên trong việc lập báo cáo tài chính riêng kèm theo.
+
+PHÊ DUYỆT BÁO CÁO TÀI CHÍNH RIÊNG
+
+Chúng tôi phê duyệt báo cáo tài chính riêng kèm theo. Báo cáo tài chính riêng kèm theo phần ánh trung thực và hợp lý tinh hình tài chính riêng của Công ty mẹ Tập đoàn Bảo Việt vào ngày 31 tháng 12 năm 2021, kết quả hoạt động kinh doanh riêng và tinh hình lưu chuyển tiền tệ riêng cho năm tài chính kết thúc cùng ngày phù hợp với các Chuẩn mực kể toán Việt Nam, Chế độ kể toán doanh nghiệp Việt Nam và các quy định pháp lý có liên quan đến việc lập và trình bày báo cáo tài chính riêng.
+
+Tập đoàn có các công ty con như được trình bày trong báo cáo tài chính riêng. Tập đoàn đã lập báo cáo tài chính riêng này nhằm đáp ứng các yêu cầu về công bố thông tin, cụ thể là theo quy định tại Thông tư số 96/2020/TT-BTC - Hướng dẫn về việc công bố thông tin trên thị trường chứng khoán. Cứng theo quy định tại các văn bản này, Tập đoàn đã lập báo cáo tài chính hợp nhất của Tập đoàn và các công ty con cho nằm tài chính kết thúc ngày 31 tháng 12 năm 2021 ("báo cáo tài chính hợp nhất") đề ngày 31 tháng 03 năm 2022.
+
+Người sử dụng báo cáo tài chính riêng nên đọc báo cáo này cùng với báo cáo tài chính hợp nhất nói trên để có được các thông tin đầy đủ về tình hình tài chính hợp nhất, kết quả hoạt động kinh doanh hợp nhất và tình hình lưu chuyển tiền tệ hợp nhất của Tập đoàn và các công ty con.
+
+Thay mặt Hội đồng Quản trị:
+
+AP DOAN
+A O VIET
+
+Ông Đào Đình Thi
+
+Chủ tịch
+
+Hà Nội, Việt Nam
+
+Ngày 31 tháng 03 năm 2022
+
+3
+
+===== PAGE 6 =====
+EY
+
+Building a better working world
+
+Ernst & Young Vietnam Limited  
+20th Floor, Bitexco Financial Tower  
+2 Hai Trieu Street, District 1  
+Ho Chi Minh City, S.R. of Vietnam
+
+Tel: +84 28 3824 5252
+Fax: +84 28 3824 5250
+ey.com
+
+Số tham chiếu: 60780870/22679888
+
+BÁO CÁO KIỂM TOÁN ĐỘC LẬP
+
+Kính gửi: Các cổ đông của Tập đoàn Bảo Việt
+
+Chúng tối đã kiểm toán báo cáo tài chính riêng kèm theo của Công ty mẹ Tập đoàn Bảo Việt ("Tập đoàn"), được lập ngày 31 tháng 03 năm 2022 và được trình bày từ trang 6 đến trang 65, bao gồm bằng cân đối kế toán riêng tại ngày 31 tháng 12 năm 2021, báo cáo kết quả hoạt động kinh doanh riêng và báo cáo lưu chuyển tiền tệ riêng cho năm tài chính kết thúc cũng ngày và các thuyết minh báo cáo tài chính riêng kèm theo.
+
+Trách nhiệm của Ban Điều hành Tập đoàn
+
+Ban Điều hành Tập đoàn chịu trách nhiệm về việc lập và trình bày trung thực và hợp lý báo cáo tài chính riêng của Công ty mẹ Tập đoàn theo các Chuẩn mực kể toán Việt Nam, Chế độ kể toán doanh nghiệp Việt Nam và các quy định pháp lý có liên quan đến việc lập và trình bày báo cáo tài chính riêng và chịu trách nhiệm về kiểm soát nội bộ mà Banco Điều hành xác định là cần thiết để đảm bảo cho việc lập và trình bày báo cáo tài chính riêng không có sai sót trọng yếu do gian lận hoặc nhằm lẫn.
+
+Trách nhiệm của Kiểm toán viên
+
+Trách nhiệm của chứng tối là đưa ra ý kiến về báo cáo tài chính riêng dựa trên kết quả của cuộc kiểm toán. Chứng tối đã tiến hành kiểm toán theo các Chuẩn mực kiểm toán Việt Nam. Các chuẩn mực này yêu cầu chứng tối tuân thủ chuẩn mực và các quy định về đạo đức nghề nghiệp, lập kế hoạch và thực hiện cuộc kiểm toán để đạt được sự đảm bảo hợp lý về việc liệu báo cáo tài chính riêng của Tập đoàn có còn sai sót trọng yếu hay không.
+
+Công việc kiểm toán bao gồm thực hiện các thủ tục nhằm thu thập các bằng chứng kiểm toán về các số liệu và thuyết minh trên báo cáo tài chính riêng. Các thủ tục kiểm toán được lựa chọn dựa trên xét đoán của kiểm toán viên, bao gồm đánh giá rủi ro có sai sót trọng yếu trong báo cáo tài chính do gian lần hoặc nhằm lẫn. Khi thực hiện đánh giá các rủi ro này, kiểm toán viên đã xem xét kiểm soát nội bộ của Tập đoàn liên quan đến việc lập và trình bày báo cáo tài chính riêng trung thực, hợp lý nhằm thiết kế các thủ tục kiểm toán phù hợp với tình hình thực tế, tuy nhiên không nhằm mục đích đưa ý kiến về hiệu quả của kiểm soát nội bộ của Tập đoàn. Công việc kiểm toán cũng bao gồm đánh giá tính thích hợp của các chính sách kế toán được áp dụng và tính hợp lý của các ước tính kế toán của Ban Điều hành cũng như đánh giá việc trình bày tổng thể báo cáo tài chính riêng.
+
+Chúng tôi tin tưởng rằng các bằng chứng kiểm toán mà chúng tôi đã thu thập được là đầy đủ và thích hợp để làm cơ sở cho ý kiến kiểm toán của chúng tôi.
+
+A member firm of Ernst & Young Global Limited
+
+4
+
+===== PAGE 7 =====
+EY
+
+Building a better working world
+
+Ý kiến của Kiểm toán viên
+
+Theo ý kiến của chúng tôi, báo cáo tài chính riêng đã phân ánh trung thực và hợp lý, trên các khía cạnh trọng yếu tính hình tài chính riêng của Tập đoàn tại ngày 31 tháng 12 năm 2021, cũng như kết quả hoạt động kinh doanh riêng và tính hình lưu chuyển tiền tệ riêng cho năm tài chính kết thúc cùng ngày, phù hợp với các Chuẩn mục Kế toán Việt Nam, Chế độ Kế toán doanh nghiệp Việt Nam và các quy định pháp lý có liên quan đến việc lập và trình bày báo cáo tài chính riêng.
+
+Công ty Trách nhiệm Hữu hạn Ernst & Young Việt Nam
+
+Trịnh Hoàng Anh
+
+Phó Tổng Giám đốc
+
+Số Giấy CNĐKHN Kiểm toán: 2071-2018-004-1
+
+Huỳnh Nhật Hưng
+
+Kiểm toán viên
+
+Số Giấy CNĐKHN Kiểm toán: 5040-2019-004-1
+
+Hà Nội, Việt Nam
+
+Ngày 31 tháng 03 năm 2022
+
+A member firm of Ernst & Young Global Limited
+
+5
+
+===== PAGE 8 =====
+Tập đoàn Bảo Việt
+
+B01-DN
+
+BĂNG CÂN ĐỐI KẾ TOÁN RIÊNG
+
+tại ngày 31 tháng 12 năm 2021
+
+Đơn vị: VND
+
+<table><tr><td>Mã số</td><td>TÀI SẢN</td><td>Thuyết minh</td><td>Ngày 31 tháng 12 năm 2021</td><td>Ngày 31 tháng 12 năm 2020</td></tr><tr><td>100</td><td>A. TÀI SẢN NGĂN HẠN</td><td></td><td>4.995.798.020.224</td><td>4.646.200.813.579</td></tr><tr><td>110</td><td>I. Tiền và các khoản tương đương tiền</td><td>5</td><td>65.595.878.785</td><td>284.719.971.015</td></tr><tr><td>111</td><td>1. Tiền</td><td></td><td>65.595.878.785</td><td>34.719.971.015</td></tr><tr><td>112</td><td>2. Các khoản tương đương tiền</td><td></td><td>-</td><td>250.000.000.000</td></tr><tr><td>120</td><td>II. Đầu tư tài chính ngắn hạn</td><td></td><td>4.006.104.986.164</td><td>3.439.334.361.164</td></tr><tr><td>121</td><td>1. Chứng khoán kinh doanh</td><td>6.1</td><td>73.104.986.164</td><td>55.334.361.164</td></tr><tr><td>123</td><td>2. Đầu tư nằm giữ đến ngày đáo hạn</td><td>6.2</td><td>3.933.000.000.000</td><td>3.384.000.000.000</td></tr><tr><td>130</td><td>III. Các khoản phải thu ngắn hạn</td><td>7</td><td>885.176.842.577</td><td>883.262.938.147</td></tr><tr><td>131</td><td>1. Phải thu ngắn hạn của khách hàng</td><td></td><td>865.090.218.064</td><td>873.006.663.712</td></tr><tr><td>132</td><td>2. Trả trước cho người bán ngắn hạn</td><td></td><td>10.023.104.980</td><td>198.791.000</td></tr><tr><td>136</td><td>3. Phải thu ngắn hạn khác</td><td></td><td>10.063.519.533</td><td>10.057.483.435</td></tr><tr><td>150</td><td>IV. Tài sản ngắn hạn khác</td><td></td><td>38.920.312.698</td><td>38.883.543.253</td></tr><tr><td>151</td><td>1. Chi phí trả trước ngắn hạn</td><td>8</td><td>14.868.623.717</td><td>13.531.940.245</td></tr><tr><td>152</td><td>2. Thuế GTGT được khấu trừ</td><td>14</td><td>24.051.688.981</td><td>24.051.688.981</td></tr><tr><td>153</td><td>3. Thuế và các khoản khác phải thu Nhà nước</td><td>14</td><td>-</td><td>1.299.914.027</td></tr><tr><td>200</td><td>B. TÀI SẢN DÀI HẠN</td><td></td><td>13.911.860.237.999</td><td>13.953.916.461.231</td></tr><tr><td>220</td><td>I. Tài sản cố định</td><td></td><td>650.696.812.018</td><td>628.630.158.436</td></tr><tr><td>221</td><td>1. Tài sản cố định hữu hình</td><td>9</td><td>323.412.915.539</td><td>347.514.355.365</td></tr><tr><td>222</td><td>Nguyên giá</td><td></td><td>856.183.201.721</td><td>819.944.770.140</td></tr><tr><td>223</td><td>Giá trị hao mòn lũy kế</td><td></td><td>(532.770.286.182)</td><td>(472.430.414.775)</td></tr><tr><td>227</td><td>2. Tài sản cố định vô hình</td><td>10</td><td>327.283.896.479</td><td>281.115.803.071</td></tr><tr><td>228</td><td>Nguyên giá</td><td></td><td>533.776.323.732</td><td>435.221.676.501</td></tr><tr><td>229</td><td>Giá trị hao mòn lũy kế</td><td></td><td>(206.492.427.253)</td><td>(154.105.873.430)</td></tr><tr><td>240</td><td>II. Tài sản dở dang dài hạn</td><td></td><td>271.136.347.373</td><td>308.693.071.956</td></tr><tr><td>242</td><td>1. Chi phí xây dựng cơ bản dở dang</td><td>11</td><td>271.136.347.373</td><td>308.693.071.956</td></tr><tr><td>250</td><td>III. Đầu tư tài chính dài hạn</td><td></td><td>12.984.419.283.079</td><td>12.986.897.174.058</td></tr><tr><td>251</td><td>1. Đầu tư vào công ty con và BVIF</td><td>6.3</td><td>10.352.286.148.720</td><td>9.352.286.148.720</td></tr><tr><td>252</td><td>2. Đầu tư vào công ty liên doanh, liên kết</td><td>6.3</td><td>2.138.200.000.000</td><td>2.138.200.000.000</td></tr><tr><td>253</td><td>3. Đầu tư góp vốn vào đơn vị khác</td><td>6.3</td><td>527.895.480.716</td><td>616.781.114.000</td></tr><tr><td>254</td><td>4. Dự phòng đầu tư tài chính dài hạn</td><td>6.3</td><td>(34.962.346.357)</td><td>(89.940.967.187)</td></tr><tr><td>255</td><td>5. Đầu tư nằm giữ đến ngày đáo hạn</td><td>6.2</td><td>1.000.000.000</td><td>969.570.878.525</td></tr><tr><td>260</td><td>IV. Tài sản dài hạn khác</td><td></td><td>5.607.795.529</td><td>29.696.056.781</td></tr><tr><td>261</td><td>1. Chi phí trả trước dài hạn</td><td>8</td><td>5.607.795.529</td><td>29.696.056.781</td></tr><tr><td>270</td><td>TỔNG CỘNG TÀI SẢN</td><td></td><td>18.907.658.258.223</td><td>18.600.117.274.810</td></tr></table>
+
+6
+
+===== PAGE 9 =====
+Tập đoàn Bảo Việt
+
+B01-DN
+
+BÀNG CÂN ĐỐI KẾ TOÁN RIÊNG (tiếp theo)
+
+tại ngày 31 tháng 12 năm 2021
+
+Đơn vị: VND
+
+<table><tr><td>Mã số</td><td>NGUỒN VỐN</td><td>Thuyết minh</td><td>Ngày 31 tháng 12 năm 2021</td><td>Ngày 31 tháng 12 năm 2020</td></tr><tr><td>300</td><td>C. NỘ PHẢI TRẢ</td><td></td><td>388.194.559.803</td><td>404.803.491.483</td></tr><tr><td>310</td><td>I. Nợ ngắn hạn</td><td></td><td>221.481.365.827</td><td>189.735.656.269</td></tr><tr><td>311</td><td>1. Phải trả người bán ngắn hạn</td><td>13</td><td>13.249.934.085</td><td>4.922.606.612</td></tr><tr><td>312</td><td>2. Người mua trả tiền trước ngắn hạn</td><td></td><td>-</td><td>158.685.912</td></tr><tr><td>313</td><td>3. Thuế và các khoản phải nộp Nhà nước</td><td>14</td><td>25.095.889.373</td><td>18.423.969.606</td></tr><tr><td>314</td><td>4. Phải trả người lao động</td><td>15</td><td>66.512.398.550</td><td>62.902.494.416</td></tr><tr><td>315</td><td>5. Chỉ phí phải trả ngắn hạn</td><td>16</td><td>4.596.468.691</td><td>6.426.007.236</td></tr><tr><td>319</td><td>6. Phải trả ngắn hạn khác</td><td>17</td><td>79.073.849.662</td><td>79.533.349.539</td></tr><tr><td>322</td><td>7. Quỹ khen thưởng, phúc lợi</td><td>18</td><td>32.952.825.466</td><td>17.368.542.948</td></tr><tr><td>330</td><td>II. Nợ dài hạn</td><td></td><td>166.713.193.976</td><td>215.067.835.214</td></tr><tr><td>338</td><td>1. Vay và nợ thuê tài chính dài hạn</td><td>19</td><td>166.713.193.976</td><td>215.067.835.214</td></tr><tr><td>400</td><td>D. VỐN CHỦ SỞ HỮU</td><td></td><td>18.519.463.698.420</td><td>18.195.313.783.327</td></tr><tr><td>410</td><td>I. Vốn chủ sở hữu</td><td>20</td><td>18.519.463.698.420</td><td>18.195.313.783.327</td></tr><tr><td>411</td><td>1. Vốn góp của chủ sở hữu</td><td></td><td>7.423.227.640.000</td><td>7.423.227.640.000</td></tr><tr><td>411a</td><td>- Cổ phiếu phổ thông có quyền biểu quyết</td><td></td><td>7.423.227.640.000</td><td>7.423.227.640.000</td></tr><tr><td>412</td><td>2. Thặng dư vốn cổ phần</td><td></td><td>7.310.458.742.807</td><td>7.310.458.742.807</td></tr><tr><td>418</td><td>3. Quỹ đầu tư phát triển</td><td></td><td>1.193.628.491.611</td><td>890.113.816.478</td></tr><tr><td>421</td><td>4. Lợi nhuận sau thuế chưa phân phối</td><td></td><td>2.592.148.824.002</td><td>2.571.513.584.042</td></tr><tr><td>421a</td><td>- Lợi nhuận sau thuế chưa phân phối lũy kế đến cuối năm trước</td><td></td><td>1.561.585.730.246</td><td>1.561.552.414.060</td></tr><tr><td>421b</td><td>- Lợi nhuận sau thuế chưa phân phối năm nay</td><td></td><td>1.030.563.093.756</td><td>1.009.961.169.982</td></tr><tr><td>440</td><td>TỔNG CỘNG NGUỒN VỐN</td><td></td><td>18.907.658.258.223</td><td>18.600.117.274.810</td></tr></table>
+
+Bà Nguyễn Thị Thanh Vân Người lập
+
+Ông Nguyễn Xuân Hòa
+Kế toán Trường
+
+Ông Đô Trường Minh
+Tổng Giám đốc
+
+Hà Nội, Việt Nam
+
+Ngày 31 tháng 03 năm 2022
+
+7
+
+===== PAGE 10 =====
+Tập đoàn Bảo Việt
+
+B02-DN
+
+BÁO CÁO KẾT QUẢ HOẠT ĐỘNG KINH DOANH RIÊNG
+
+cho năm tài chính kết thúc ngày 31 tháng 12 năm 2021
+
+Đơn vị: VND
+
+<table><tr><td>Mã số</td><td>CHỈ TIÊU</td><td>Thuyết minh</td><td>Cho năm tài chính kết thúc ngày 31 tháng 12 năm 2021</td><td>Cho năm tài chính kết thúc ngày 31 tháng 12 năm 2020</td></tr><tr><td>01</td><td>1. Doanh thu hoạt động kinh doanh</td><td>21</td><td>1.489.512.537.506</td><td>1.408.926.396.582</td></tr><tr><td>11</td><td>2. Chi phí hoạt động kinh doanh</td><td>22</td><td>(224.810.366.431)</td><td>(164.130.649.518)</td></tr><tr><td>20</td><td>3. Lợi nhuận gộp từ hoạt động kinh doanh</td><td></td><td>1.264.702.171.075</td><td>1.244.795.747.064</td></tr><tr><td>26</td><td>4. Chi phí quản lý doanh nghiệp</td><td>23</td><td>(181.134.125.603)</td><td>(178.818.005.528)</td></tr><tr><td>30</td><td>5. Lợi nhuận thuần từ hoạt động kinh doanh</td><td></td><td>1.083.568.045.472</td><td>1.065.977.741.536</td></tr><tr><td>31</td><td>6. Thu nhập khác</td><td></td><td>354.162.876</td><td>1.011.348.941</td></tr><tr><td>32</td><td>7. Chi phí khác</td><td></td><td>(72.208.958)</td><td>(72.345.516)</td></tr><tr><td>40</td><td>8. Lợi nhuận khác</td><td></td><td>281.953.918</td><td>939.003.425</td></tr><tr><td>50</td><td>9. Tổng lợi nhuận trước thuế</td><td></td><td>1.083.849.999.390</td><td>1.066.916.744.961</td></tr><tr><td>51</td><td>10. Chi phí thuế TNDN hiện hành</td><td>24.1</td><td>(53.286.905.634)</td><td>(49.518.591.186)</td></tr><tr><td>52</td><td>11. Chi phí thuế TNDN hoãn lại</td><td>24.2</td><td>-</td><td>(5.682.570.000)</td></tr><tr><td>60</td><td>12. Lợi nhuận sau thuế thu nhập doanh nghiệp</td><td></td><td>1.030.563.093.756</td><td>1.011.715.583.775</td></tr></table>
+
+Bà Nguyễn Thị Thanh Vân
+Người lập
+
+Ông Nguyễn Xuân Hòa
+Kế toán Trường
+
+Ông Đỗ Trường Minh
+Tổng Giám đốc
+
+Hà Nội, Việt Nam
+
+Ngày 31 tháng 03 năm 2022
+
+8
+
+===== PAGE 11 =====
+Tập đoàn Bảo Việt
+
+B03-DN
+
+BÁO CÁO LƯU CHUYÊN TIỀN TỆ RIÊNG
+
+cho năm tài chính kết thúc ngày 31 tháng 12 năm 2021
+
+Đơn vi: VND
+
+<table><tr><td>Mã số</td><td>CHỈ TIÊU</td><td>Thuyết minh</td><td>Cho năm tài chính kết thúc ngày 31 tháng 12 năm 2021</td><td>Cho năm tài chính kết thúc ngày 31 tháng 12 năm 2020</td></tr><tr><td></td><td>I. LƯU CHUYÊN TIỀN TỪ HOẠT ĐỘNG KINH DOANH</td><td></td><td></td><td></td></tr><tr><td>01</td><td>1. Tiền thu bán hàng, cung cấp dịch vụ và doanh thu khác- Thu lãi tiền gửi, lãi trái phiếu, lãi bán chứng khoán, cổ tức và lợi nhuận được chia- Tiền thu từ cung cấp dịch vụ khác</td><td></td><td>1.431.961.952.683</td><td>1.372.549.631.597</td></tr><tr><td>02</td><td>2. Tiền chi trả cho người cung cấp hàng hoá, dịch vụ</td><td></td><td>1.082.405.868.594</td><td>1.065.847.991.080</td></tr><tr><td>03</td><td>3. Tiền chi trả cho người lao động</td><td></td><td>349.556.084.089</td><td>306.701.640.517</td></tr><tr><td>04</td><td>4. Tiền chi trả lãi vay</td><td></td><td>(191.245.047.453)</td><td>(140.172.291.446)</td></tr><tr><td>05</td><td>5. Thuế thu nhập doanh nghiệp đã nộp</td><td></td><td>(120.787.027.772)</td><td>(117.618.794.051)</td></tr><tr><td>06</td><td>6. Tiền thu khác từ hoạt động kinh doanh</td><td></td><td>(11.086.774.448)</td><td>(12.508.071.470)</td></tr><tr><td>07</td><td>7. Tiền chi khác cho hoạt động kinh doanh</td><td></td><td>(44.800.000.000)</td><td>(32.001.600.000)</td></tr><tr><td rowspan="4">20</td><td rowspan="3">Lưu chuyển tiền thuần từ hoạt động kinh doanh</td><td></td><td>47.936.231.948</td><td>25.191.578.523</td></tr><tr><td></td><td>(136.155.960.717)</td><td>(136.493.245.768)</td></tr><tr><td></td><td>975.823.374.241</td><td>958.947.207.385</td></tr><tr><td>II. LƯU CHUYÊN TIỀN TỪ HOẠT ĐỘNG ĐẦU TỪ</td><td></td><td></td><td></td></tr><tr><td>21</td><td>1. Tiền chi đề mua sắm, xây dựng TSCĐ và các tài sản dài hạn khác</td><td></td><td>(83.719.852.665)</td><td>(59.641.462.036)</td></tr><tr><td>22</td><td>2. Tiền thu từ thanh lý, nhượng bán TSCĐ và các tài sản dài hạn khác</td><td></td><td>37.550.000</td><td>15.850.000</td></tr><tr><td>23</td><td>3. Tiền chi cho vay, mua các công cụ nợ của đơn vị khác</td><td></td><td>(2.714.000.000.000)</td><td>(2.735.000.000.000)</td></tr><tr><td>24</td><td>4. Tiền thu hồi cho vay, bán lại các công cụ nợ của đơn vị khác</td><td></td><td>3.135.000.000.000</td><td>1.043.000.000.000</td></tr><tr><td>25</td><td>5. Tiền chi đầu tư góp vốn vào đơn vị khác</td><td></td><td>(1.004.292.501.500)</td><td>(850.000.000.000)</td></tr><tr><td>26</td><td>6. Tiền thu đầu tư góp vốn vào đơn vị khác</td><td></td><td>185.658.005.000</td><td>-</td></tr><tr><td>30</td><td>Lưu chuyển tiền thuần sử dụng vào hoạt động đầu tư</td><td></td><td>(481.316.799.165)</td><td>(2.601.625.612.036)</td></tr></table>
+
+9
+
+===== PAGE 12 =====
+Tập đoàn Bảo Việt
+
+B03-DN
+
+BÁO CÁO LƯU CHUYÊN TIỀN TỆ RIÊNG (tiếp theo)
+
+cho năm tài chính kết thúc ngày 31 tháng 12 năm 2021
+
+Đơn vị: VND
+
+<table><tr><td>Mã số</td><td>CHỈ TIÊU</td><td>Thuyết minh</td><td>Cho năm tài chính kết thúc ngày 31 tháng 12 năm 2021</td><td>Cho năm tài chính kết thúc ngày 31 tháng 12 năm 2020</td></tr><tr><td></td><td>III. LƯU CHUYỄN TIỀN TỪ HOẠT ĐỘNG TÀI CHÍNH</td><td></td><td></td><td></td></tr><tr><td>33</td><td>1. Tiền thu từ đi vay</td><td></td><td>25.572.000.000</td><td>43.572.470.000</td></tr><tr><td>34</td><td>2. Tiền chi trả nợ gốc vay</td><td></td><td>(73.926.641.238)</td><td>(59.535.873.286)</td></tr><tr><td>36</td><td>3. Cổ tức, lợi nhuận đã trả cho chủ sở hữu</td><td></td><td>(665.272.316.646)</td><td>(592.843.450.920)</td></tr><tr><td>40</td><td>Lưu chuyển tiền thuần sử dụng vào hoạt động tài chính</td><td></td><td>(713.626.957.884)</td><td>(608.806.854.206)</td></tr><tr><td>50</td><td>Lưu chuyển tiền thuần trong năm (50 = 20 + 30 + 40)</td><td></td><td>(219.120.382.808)</td><td>(2.251.485.258.857)</td></tr><tr><td>60</td><td>Tiền và tương đương tiền đầu năm</td><td></td><td>284.719.971.015</td><td>2.536.206.569.386</td></tr><tr><td>61</td><td>Ảnh hưởng của thay đổi tỷ giá hối đoái quy đổi ngoại tệ</td><td></td><td>(3.709.422)</td><td>(1.339.514)</td></tr><tr><td>70</td><td>Tiền và tương đương tiền cuối năm</td><td>5</td><td>65.595.878.785</td><td>284.719.971.015</td></tr></table>
+
+Bà Nguyễn Thị Thanh Vân
+Người lập
+
+Ông Nguyễn Xuân Hòa
+Kế toán Trường
+
+Ông Đỗ Trường Minh
+Tổng Giám đốc
+
+Hà Nội, Việt Nam
+
+Ngày 31 tháng 03 năm 2022
+
+10
+
+===== PAGE 13 =====
+Tập đoàn Bảo Việt
+
+B09-DN
+
+THUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG
+
+tại ngày 31 tháng 12 năm 2021 và cho năm tài chính kết thúc cùng ngày
+
+1. THÔNG TIN DOANH NGHIỆP
+
+Tập đoàn Bảo Việt (sau đây gọi tất là “Tập đoàn” hoặc “Công ty mẹ”) trước đây là một doanh nghiệp Nhà nước đã được cổ phần hóa và trở thành một doanh nghiệp cổ phần theo Giấy Chứng nhận Đăng ký kinh doanh do Sở Kế hoạch và Đầu tư thành phố Hà Nội cấp lần đầu ngày 15 tháng 10 năm 2007. Giấy Chứng nhận Đăng ký Kinh doanh của Tập đoàn được đăng ký thay đổi 14 lần với lần thử 14 được thực hiện vào ngày 25 tháng 02 năm 2022.
+
+Toàn bộ số cổ phần thuộc vốn điều lệ của Tập đoàn được niêm yết tại Sở Giao dịch Chứng khoán Thành phố Hồ Chí Minh (HOSE).
+
+Một số thông tin về Tập đoàn theo đăng ký thay đổi lần thứ 14 như sau:
+
+<table><tr><td>Mã số doanh nghiệp:</td><td>0100111761</td></tr><tr><td>Tên doanh nghiệp:</td><td>Tập đoàn Bảo Việt</td></tr><tr><td>Địa chỉ trụ sở chính:</td><td>Số 72, phố Trần Hưng Đạo, phường Trần Hưng Đạo, quận Hoàn Kiểm, Hà Nội</td></tr><tr><td>Ngành nghề kinh doanh:</td><td>Đầu tư vốn vào các công ty con, công ty liên kết; kinh doanh dịch vụ tài chính và các lĩnh vực khác theo quy định của pháp luật; hoạt động kinh doanh bất động sản; hoạt động dịch vụ công nghệ thông tin và dịch vụ khác liên quan đến máy vi tính; dịch vụ hỗ trợ giáo dục và các ngành nghề kinh doanh khác theo Giấy Chứng nhận Đăng ký Kinh doanh</td></tr><tr><td>Vốn điều lệ:</td><td>7.423.227.640.000 VND</td></tr><tr><td>Số cổ phần đã đăng ký:</td><td>742.322.764 cổ phần</td></tr><tr><td>Người đại diện theo pháp luật:</td><td>Ông Đỗ Trường Minh - Tổng Giám đốc</td></tr></table>
+
+Tập đoàn có Địa điểm kinh doanh số 1 - Tập đoàn Bảo Việt tại địa chỉ: số 8 phố Lê Thái Tổ, Phường Hàng Trống, Quận Hoàn Kiểm, Hà Nội.
+
+Cơ cấu vốn cổ phần của Tập đoàn tại ngày lập báo cáo như sau:
+
+<table><tr><td>Cổ đông</td><td>Số lượng cổ phầnnăm giữ</td><td>Tỷ lệsở hữu (%)</td></tr><tr><td>- Bộ Tài chính</td><td>482.509.800</td><td>65,00</td></tr><tr><td>- Công ty Bảo hiểm Nhân thọ Sumitomo(&quot;Sumitomo Life&quot;)</td><td>163.945.421</td><td>22,09</td></tr><tr><td>- Tổng Công ty Đầu tư và Kinh doanh vốn Nhà nước(&quot;SCIC&quot;)</td><td>22.154.400</td><td>2,98</td></tr><tr><td>- Các cổ đông khác</td><td>73.713.143</td><td>9,93</td></tr><tr><td></td><td>742.322.764</td><td>100,00</td></tr></table>
+
+Nhân viên
+
+Tổng số cán bộ công nhân viên của Công ty mẹ Tập đoàn tại ngày 31 tháng 12 năm 2021 là 262 người (Ngày 31 tháng 12 năm 2020: 268 người).
+
+11
+
+===== PAGE 14 =====
+Tập đoàn Bảo Việt
+
+B09-DN
+
+THUYÊT MINH BÁO CÁO TÀI CHÍNH RIÊNG (tiếp theo)
+
+tại ngày 31 tháng 12 năm 2021 và cho năm tài chính kết thúc cùng ngày
+
+1. THÔNG TIN DOANH NGHIỆP (tiếp theo)
+
+Tại ngày 31 tháng 12 năm 2021, Tập đoàn có sáu (06) công ty con, một (01) quỹ đầu tư, tám (08) công ty liên doanh, liên kết (do công ty mẹ nằm giữ trực tiếp hoặc gián tiếp thông qua các công ty con/quỹ đầu tư), và ba (03) đơn vị hạch toán phụ thuộc, chỉ tiết như sau:
+
+Các công ty con
+
+<table><tr><td>Tên công ty</td><td>Địa chỉ</td><td>Lĩnh vực kinh doanh</td><td>Tỷ lệ sở hữu của Tập đoàn</td><td>Quyền biểu quyết của Tập đoàn</td></tr><tr><td>Tổng Công ty Bảo hiểm Bảo Việt (&quot;Bảo hiểm Bảo Việt&quot;)</td><td>7 Lý Thường Kiệt, phường Phan Chu Trình, quận Hoàn Kiểm, Hà Nội</td><td>Bảo hiểm tài sản, bảo hiểm trách nhiệm và bảo hiểm con người, kinh doanh tái bảo hiểm và giám định tổn thất</td><td>100%</td><td>100%</td></tr><tr><td>Tổng Công ty Bảo Việt Nhân thọ (&quot;Bảo Việt Nhân thọ&quot;)</td><td>Tầng 37 Keangnam Hà Nội Landmark Tower, đường Phạm Hùng, quận Nam Từ Liêm, Hà Nội</td><td>Kinh doanh bảo hiểm nhân thọ và kinh doanh tái bảo hiểm</td><td>100%</td><td>100%</td></tr><tr><td>Công ty TNHH Quản lý Quỹ Bảo Việt (&quot;BVF&quot;)</td><td>8 Lê Thái Tổ, Phường Hàng Trống, Quận Hoàn Kiểm, Hà Nội</td><td>Quản lý quỹ đầu tư chứng khoán và quản lý danh mục đầu tư</td><td>100%</td><td>100%</td></tr><tr><td>Công ty TNHH Một thành viên Đầu tư Bảo Việt (&quot;BVInvest&quot;)</td><td>71 Ngô Sỹ Liên, phường Văn Miếu, quận Đồng Đa, Hà Nội</td><td>Kinh doanh bất động sản, tư vấn đầu tư xây dựng và cung cấp máy móc thiết bị</td><td>100%</td><td>100%</td></tr><tr><td>Công ty Cổ phần Chứng khoán Bảo Việt (&quot;BVSC&quot;)</td><td>8 Lê Thái Tổ, Phường Hàng Trống, Quận Hoàn Kiểm, Hà Nội</td><td>Môi giới và lưu ký chứng khoán, tự doanh và bảo lãnh phát hành chứng khoán, tư vấn tài chính và đầu tư chứng khoán</td><td>59,92%</td><td>59,92%</td></tr><tr><td>Công ty TNHH Bảo Việt - Âu Lạc (&quot;Bảo Việt - Âu Lạc&quot;)</td><td>Hà Liễu, Phượng Liễu, huyện Quế Võ, tính Bắc Ninh</td><td>Kinh doanh hướng nghiệp lái xe</td><td>60%</td><td>60%</td></tr></table>
+
+Bảo hiểm Bảo Việt được thành lập ngày 21 tháng 06 năm 2004 theo Quyết định số 1296/QĐ/BTC của Bộ Tài chính và Giấy Chứng nhận Đăng ký Kinh doanh số 01/GPDC3/KDBH do Bộ Tài chính cấp cùng ngày. Sau khi Tập đoàn được cổ phần hóa, vào ngày 23 tháng 11 năm 2007, Bộ Tài chính đã cho phép Tập đoàn được thành lập lại Tổng Công ty Bảo hiểm Bảo Việt theo Giấy phép Thành lập và Hoạt động số 45GP/KDBH và giấy phép điều chỉnh gần nhất số 45/GPDC16/KDBH của Bộ Tài chính cấp ngày 09 tháng 02 năm 2022. Tại ngày 31 tháng 12 năm 2021, vốn điều lệ của Bảo hiểm Bảo Việt là 2.900 tỷ VND.
+
+Bảo Việt Nhân thọ được thành lập ngày 04 tháng 12 năm 2003 theo Quyết định số 3668/QĐ/BTC của Bộ Tài chính. Sau khi Tập đoàn được cổ phần hóa, vào ngày 23 tháng 11 năm 2007, Bộ Tài chính đã cho phép Tập đoàn được thành lập lại Bảo Việt Nhân thọ dưới hình thức chuyển đổi từ Bảo hiểm Nhân thọ Việt Nam theo Giấy phép Thành lập và Hoạt động số 46/GP/KDBH. Tại ngày 31 tháng 12 năm 2021, vốn điều lệ của Bảo Việt Nhân thọ là 6.000 tỷ VND theo Giấy phép điều chỉnh số 46/GPDC11/KDBH của Bộ Tài chính cấp ngày 13 tháng 04 năm 2021.
+
+12
+
+===== PAGE 15 =====
+Tập đoàn Bảo Việt
+
+B09-DN
+
+THUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG (tiếp theo)
+
+tại ngày 31 tháng 12 năm 2021 và cho năm tài chính kết thúc cùng ngày
+
+1. THÔNG TIN DOANH NGHIỆP (tiếp theo)
+
+Các công ty con (tiếp theo)
+
+BVF được thành lập vào ngày 22 tháng 08 năm 2005 theo Quyết định số 911/2005/QĐ/HDQT-BV của Hội đồng Quản trị Tổng Công ty Bảo hiểm Việt Nam và Giấy phép Thành lập và hoạt động số 05/UBCK-GPHĐQLQ do Ủy ban Chứng khoán Nhà nước ban hành ngày 08 tháng 11 năm 2005 và giấy phép điều chỉnh gần nhất số 08/GPĐC-UBCK ngày 17 tháng 01 năm 2022 của Ủy ban Chứng khoán Nhà nước. Tại ngày 31 tháng 12 năm 2021, vốn điều lệ của BVF là 100 tỷ VND.
+
+BVSC được thành lập tại Việt Nam theo Giấy phép thành lập số 4640/GP-UB do Ủy ban Nhân dân Thành phố Hà Nội cấp ngày 01 tháng 10 năm 1999 và Giấy phép Hoạt động Kinh doanh số 01/GPHĐKD ngày 26 tháng 11 năm 1999 và giấy phép điều chỉnh gần nhất số 03/GPĐC-UBCK ngày 10 tháng 01 năm 2022 do Ủy ban Chứng khoán Nhà nước cấp. Tại ngày 31 tháng 12 năm 2021, vốn điều lệ của BVSC là 722.339.370.000 VND.
+
+Bảo Việt - Âu Lạc được thành lập vào ngày 18 tháng 02 năm 2009 theo Quyết định số 2300373648 của Sở Kế hoạch và Đầu tư tỉnh Bắc Ninh. Tại ngày 31 tháng 12 năm 2021, vốn điều lệ của Bảo Việt - Âu Lạc là 60.660.000.000 VND.
+
+BVInvest được thành lập vào ngày 09 tháng 01 năm 2009 theo Giấy chứng nhận đăng ký kinh doanh số 0103034168 của Sở Kế hoạch và Đầu tư Thành phố Hà Nội. Ngày 04 tháng 01 năm 2019, Giấy chứng nhận đăng ký doanh nghiệp số 0103193730 được thay đổi lần thứ 8, chuyển đổi từ Công ty Cổ phần thành Công ty Trách nhiệm hữu hạn một thành viên do Tập đoàn Bảo Việt sở hữu 100% vốn điều lệ. Tại ngày 31 tháng 12 năm 2021, vốn điều lệ đã góp của BVInvest là 200 tỷ VND.
+
+BVInvest có một (01) công ty con là Công ty TNHH MTV Xây dựng Bảo Việt (“BVC”) hoạt động trong lĩnh vực xây dựng, trụ sở chính tại 71 Ngô Sỹ Liên, phường Văn Miếu, quận Đống Đa, Hà Nội. BVC được thành lập ngày 10 tháng 01 năm 2017 theo Giấy chứng nhận Đăng ký doanh nghiệp số 0107699334 của Sở Kế hoạch Đầu tư Thành phố Hà Nội. Tại ngày 31 tháng 12 năm 2021, vốn điều lệ của Công ty này là 5 tỷ VND, do BVInvest góp vốn 100%.
+
+Quỹ Đầu tư Giá trị Bảo Việt (BVIF)
+
+Quỹ Đầu tư Giá trị Bảo Việt ("BVIF") được thành lập tại Việt Nam dưới hình thức quỹ thành viên đóng theo giấy phép số 223/TB-UBCK do Ủy ban Chứng khoán Nhà nước cấp ngày 20 tháng 10 năm 2015. Thời gian hoạt động ban đầu của quỹ là tám (08) năm kể từ ngày được cấp giấy phép.
+
+Quỹ được quản lý bởi Công ty TNHH Quản lý Quỹ Bảo Việt là công ty con của Tập đoàn Bảo Việt. Ngân hàng lưu ký của Quỹ BVIF là Ngân hàng TMCP Đầu tư và Phát triển Việt Nam – Chi nhánh Hà Thành.
+
+Tại thời điểm ngày 31 tháng 12 năm 2021, vốn góp trực tiếp và gián tiếp của Tập đoàn vào BVIF như sau:
+
+<table><tr><td></td><td>Số vốn góp VND</td><td>Tỷ lệ trên vốn điều lệ</td></tr><tr><td>Đầu tư trực tiếp của Tập đoàn Bảo Việt</td><td>420.000.000.000</td><td>42%</td></tr><tr><td>Đầu tư gián tiếp qua các Công ty con</td><td></td><td></td></tr><tr><td>- Bảo Việt Nhân thọ</td><td>350.000.000.000</td><td>35%</td></tr><tr><td>- Bảo hiểm Bảo Việt</td><td>150.000.000.000</td><td>15%</td></tr><tr><td>- BVSC</td><td>80.000.000.000</td><td>8%</td></tr><tr><td></td><td>1.000.000.000.000</td><td>100%</td></tr></table>
+
+13
+
+===== PAGE 16 =====
+Tập đoàn Bảo Việt
+
+B09-DN
+
+THUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG (tiếp theo)
+
+tại ngày 31 tháng 12 năm 2021 và cho năm tài chính kết thúc cùng ngày
+
+1. THÔNG TIN DOANH NGHIỆP (tiếp theo)
+
+Các đơn vị hạch toán phụ thuộc
+
+<table><tr><td>Tên đơn vị</td><td>Địa chỉ</td><td>Hoạt động chính</td></tr><tr><td>Trung tâm Đào tạo Bảo Việt</td><td>8 Lê Thái Tổ, Phường Hàng Trống, Quận Hoàn Kiểm, Hà Nội</td><td>Dịch vụ đào tạo</td></tr><tr><td>Ban Quản lý Dự án Đầu tư Xây dựng các công trình Bảo Việt (&quot;PMU&quot;)</td><td>71 Ngô Sỹ Liên, phường Văn Miếu, quận Đống Đa, Hà Nội</td><td>Xây dựng và Quản lý Dự án</td></tr><tr><td>Chi nhánh Trung tâm Công nghệ Thông tin Tập đoàn Bảo Việt</td><td>71 Ngô Sỹ Liên, phường Văn Miếu, quận Đống Đa, Hà Nội</td><td>Cung cấp dịch vụ công nghệ thông tin, bán buôn phân mềm và phần cứng</td></tr></table>
+
+Các công ty liên doanh, liên kết
+
+<table><tr><td rowspan="2">Công ty được đầu tư</td><td rowspan="2">Lĩnh vực kinh doanh</td><td>Vốn điều lệ</td><td>Năm giữ bởi công ty mẹ</td><td>Thông qua công ty con/quỹ</td><td>Tổng</td><td>Tỷ lệ quyền biểu quyết của Tập đoàn</td></tr><tr><td>VND</td><td>%</td><td>%</td><td>%</td><td>%</td></tr><tr><td colspan="7">Công ty liên kết</td></tr><tr><td>Công ty Cổ phần Đầu tư và Xây dựng Long Việt (“Long Việt”) (*)</td><td>Xây dựng</td><td>65.043.200.000</td><td>-</td><td>45,00</td><td>45,00</td><td>45,00</td></tr><tr><td>Công ty Cổ phần Đầu tư SCIC – Bảo Việt (“Bảo Việt SCIC”)</td><td>Kinh doanh bất động sản</td><td>140.000.000.000</td><td>-</td><td>50,00</td><td>50,00</td><td>50,00</td></tr><tr><td>Ngân hàng TMCP Bảo Việt (“Bảo Việt Bank”)</td><td>Dịch vụ ngân hàng</td><td>3.150.000.000.000</td><td>49,52</td><td>-</td><td>49,52</td><td>49,52</td></tr><tr><td>Công ty Cổ phần Trung Nam Phú Quốc (“Trung Nam Phú Quốc”)</td><td>Dịch vụ du lịch và nghi dưỡng</td><td>220.000.000.000</td><td>49,00</td><td>-</td><td>49,00</td><td>49,00</td></tr><tr><td>Công ty Cổ phần Công nghệ thông tin PLT (“PLT”)</td><td>Dịch vụ công nghệ thông tin, viễn thông</td><td>73.125.000.000</td><td>-</td><td>35,00</td><td>35,00</td><td>35,00</td></tr><tr><td>Công ty Cổ phần Hòn Tầm Biển Nha Trang (“Hòn Tầm Biển Nha Trang”) (**)</td><td>Dịch vụ du lịch và nghi dưỡng</td><td>903.097.620.000</td><td>-</td><td>22,74</td><td>22,74</td><td>22,74</td></tr><tr><td>Công ty Cổ phần Thủy điện Nậm Mu (“Thủy điện Nậm Mu”) (***)</td><td>Sản xuất điện thương phẩm</td><td>209.999.000.000</td><td>-</td><td>24,29</td><td>24,29</td><td>24,29</td></tr><tr><td colspan="7">Công ty liên doanh</td></tr><tr><td>Công ty TNHH Bảo hiểm Tokio Marine Việt Nam (“Tokio Marine Việt Nam”)</td><td>Bảo hiểm phi nhận thọ, tái bảo hiểm, giám định tổn thất, hoạt động đầu tư tài chính</td><td>300.000.000.000</td><td>49,00</td><td>-</td><td>49,00</td><td>49,00</td></tr></table>
+
+(*) Trong Quý 2 năm 2020, Tập đoàn đã công bố thông tin về phương án chuyển nhượng toàn bộ cổ phần mà Tập đoàn (thông qua Bảo Việt Nhân thọ) đang nằm giữ tại Long Việt.
+
+(**) Trong tháng 03 năm 2022, thông qua Tổng Công ty Bảo Việt Nhân thọ, Tập đoàn đã hoàn thành chuyển nhượng toàn bộ phần sở hữu tại Công ty Cổ phần Hòn tắm biển Nha Trang. Theo đó, tại ngày lập báo cáo, Công ty Cổ phần Hòn tắm biển Nha Trang không còn là công ty liên kết của Tập đoàn.
+
+(***) Trong tháng 01 năm 2021, thông qua Quỹ Đầu tư Giá trị Bảo Việt, Tập đoàn đã mua 24,29% cổ phần của Thủy điện Nậm Mu.
+
+14
+
+===== PAGE 17 =====
+Tập đoàn Bảo Việt
+
+B09-DN
+
+THUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG (tiếp theo)
+
+tại ngày 31 tháng 12 năm 2021 và cho năm tài chính kết thúc cùng ngày
+
+2. CƠ SỞ TRÌNH BÀY
+
+2.1 Mục đích lập báo cáo tài chính riêng
+
+Tập đoàn có các công ty con như được trình bày tại Thuyết minh số 1 và Thuyết minh số 6.3. Tập đoàn đã lập báo cáo tài chính riêng này nhằm đáp ứng các yêu cầu về công bố thông tin, cụ thể là theo quy định tại Thông tư số 96/2020/TT-BTC - Hướng dẫn công bố thông tin trên thị trường chứng khoán. Cứng theo quy định tại các văn bản này, Tập đoàn đã lập báo cáo tài chính hợp nhất của Tập đoàn và các công ty con cho năm tài chính kết thúc ngày 31 tháng 12 năm 2021 ("báo cáo tài chính hợp nhất") đề ngày 31 tháng 03 năm 2022.
+
+Người sử dụng báo cáo tài chính riêng nên đọc báo cáo này cùng với báo cáo tài chính hợp nhất nói trên để có được các thông tin đầy đủ về tình hình tài chính hợp nhất, kết quả hoạt động kinh doanh hợp nhất và tình hình lưu chuyển tiền tệ hợp nhất của Tập đoàn và các công ty con.
+
+2.2 Chuẩn mực và Chế độ kế toán áp dụng
+
+Báo cáo tài chính riêng của Công ty mẹ Tập đoàn Bảo Việt (“Tập đoàn”) được trình bày bằng đồng Việt Nam (“VND”) phù hợp với Chế độ kế toán doanh nghiệp Việt Nam và các Chuẩn mực kế toán Việt Nam khác do Bộ Tài chính ban hành theo:
+
+▶ Quyết định số 149/2001/QĐ-BTC ngày 31 tháng 12 năm 2001 về việc ban hành bốn Chuẩn mực kế toán Việt Nam (Đợt 1);
+
+▶ Quyết định số 165/2002/QĐ-BTC ngày 31 tháng 12 năm 2002 về việc ban hành sáu Chuẩn mực kế toán Việt Nam (Đợt 2);
+
+▶ Quyết định số 234/2003/QĐ-BTC ngày 30 tháng 12 năm 2003 về việc ban hành sáu Chuẩn mực kế toán Việt Nam (Đợt 3);
+
+▶ Quyết định số 12/2005/QĐ-BTC ngày 15 tháng 02 năm 2005 về việc ban hành sâu Chuẩn mực kế toán Việt Nam (Đợt 4); và
+
+▶ Quyết định số 100/2005/QĐ-BTC ngày 28 tháng 12 năm 2005 về việc ban hành bốn Chuẩn mực kế toán Việt Nam (Đợt 5).
+
+Theo đó, báo cáo tài chính riêng được trình bày kèm theo và việc sử dụng các báo cáo này không dành cho các đối tượng không được cung cấp các thông tin về các thủ tục và nguyên tắc và thông lệ kế toán tại Việt Nam và hơn nữa không được chủ định trình bày tính hình tài chính, kết quả hoạt động kinh doanh và lưu chuyển tiền tệ theo các nguyên tắc và thông lệ kế toán được chấp nhận rộng rãi ở các nước và lãnh thổ khác ngoài Việt Nam.
+
+2.3 Hình thức số kế toán áp dụng
+
+Hình thức số kế toán được áp dụng của Tập đoàn là Chứng từ ghi sổ.
+
+2.4 Đơn vị tiền tệ trong kế toán
+
+Báo cáo tài chính riêng được lập bằng đơn vị tiền tệ trong kế toán của Tập đoàn là đồng Việt Nam ("VND").
+
+2.5 Ký ké toán năm
+
+Kỳ kế toán năm của Tập đoàn áp dụng cho việc lập báo cáo tài chính riêng bắt đầu từ ngày 01 tháng 01 và kết thúc ngày 31 tháng 12.
+
+Tập đoàn cũng lập báo cáo tài chính riêng giữa niên độ cho giai đoạn tài chính ba tháng kết thúc ngày 31 tháng 03, cho giai đoạn tài chính ba tháng và sâu tháng kết thúc ngày 30 tháng 06, cho giai đoạn tài chính ba tháng và chính tháng kết thúc ngày 30 tháng 09 và cho giai đoạn tài chính ba tháng và mười hai tháng kết thúc ngày 31 tháng 12 hàng năm.
+
+15
+
+===== PAGE 18 =====
+Tập đoàn Bảo Việt
+
+B09-DN
+
+THUYÊT MINH BÁO CÁO TÀI CHÍNH RIÊNG (tiếp theo)
+
+tại ngày 31 tháng 12 năm 2021 và cho năm tài chính kết thúc cùng ngày
+
+3. TUYÊN BÓ VỀ VIỆC TUÂN THÙ CHUẢN MỤC KẾ TOÁN VÀ CHẾ ĐỘ KẾ TOÁN VIỆT NAM
+
+Ban Điều hành Tập đoàn cam kết đã lập báo cáo tài chính riêng tuân thủ theo các Chuẩn mực kế toán và Chế độ kế toán doanh nghiệp Việt Nam. Tập đoàn cũng đồng thời tuân thủ chính sách kế toán về ghi nhận giá trị định giá lại quyền sử dụng đất như được trình bày tại Thuyết minh số 4.5.
+
+4. TÓM TẮT CÁC CHÍNH SÁCH KẾ TOÁN CHỦ YẾU
+
+Các chính sách kế toán của Tập đoàn sử dụng để lập báo cáo tài chính riêng được áp dụng nhất quán với các chính sách đã được sử dụng để lập báo cáo tài chính riêng cho năm tài chính kết thúc ngày 31 tháng 12 năm 2020.
+
+4.1 Tiền và các khoản tương đương tiền
+
+Tiền và các khoản tương đương tiền bao gồm tiền mặt tại quỹ, tiền gửi thanh toán tại ngân hàng và các khoản đầu tư ngắn hạn có thời hạn gốc không quá ba tháng, có tính thanh khoản cao, có khả năng chuyển đổi dễ dàng thành các lượng tiền xác định và không có nhiều rủi ro trong chuyển đổi thành tiền.
+
+4.2 Các khoản đầu tư tài chính
+
+Đầu tư vào các công ty con
+
+Khoản đầu tư vào các công ty con mà Tập đoàn nấm quyền kiểm soát được trình bày theo phương pháp giá gốc.
+
+Các khoản phân phối mà Tập đoàn nhận được từ số lợi nhuận lũy kế của công ty con sau ngày Tập đoàn nằm quyền kiểm soát được ghi nhận vào báo cáo kết quả hoạt động kinh doanh riêng của Tập đoàn. Các khoản phân phối khác được xem như phần thu hồi của các khoản đầu tư và được trừ vào giá trị đầu tư.
+
+Danh sách các công ty con của Tập đoàn được trình bày tại Thuyết minh số 6.3.
+
+Đầu tư vào Quỹ Đầu tư Giá trị Bảo Việt ("BVIF")
+
+Khoản đầu tư góp vốn vào BVIF được phần ánh trên cơ sở giá gốc. Thu nhập phát sinh từ khoản đầu tư này được phần ánh trên Báo cáo kết quả hoạt động kinh doanh riêng trên cơ sở thông báo chia lãi từ Ban Đại diện Quỹ vào thời điểm cuối kỳ. Đình kỳ, dự phòng giảm giá trị khoản đầu tư góp vốn vào BVIF được ghi nhận khi giá trị vốn góp thực tế của các bên tại BVIF lớn hơn vốn chủ sở hữu thực có (“NAV”) của BVIF tại thời điểm lập bảng cân đối kế toán của BVIF.
+
+Đầu tư vào các công ty liên doanh, liên kết
+
+Các khoản đầu tư vào công ty liên doanh, liên kết mà trong đó Tập đoàn có ảnh hưởng đáng kể được trình bày theo phương pháp giá gốc.
+
+Các khoản phân phối từ lợi nhuận thuần lũy kế của các công ty liên doanh, liên kết sau ngày Tập đoàn có quyền đồng kiểm soát, có ảnh hưởng đáng kể được ghi nhận vào Báo cáo kết quả hoạt động kinh doanh riêng của Tập đoàn. Các khoản phân phối khác được xem như phần thu hồi các khoản đầu tư và được trừ vào giá trị đầu tư.
+
+Danh sách các khoản đầu tư vào công ty liên doanh, liên kết của Tập đoàn được trình bày tại Thuyết minh số 6.3.
+
+Chứng khoán kinh doanh và Đầu tư góp vốn vào đơn vị khác
+
+Chứng khoán kinh doanh và Đầu tư góp vốn vào đơn vị khác được ghi nhận theo giá gốc.
+
+16
+
+===== PAGE 19 =====
+Tập đoàn Bảo Việt
+
+B09-DN
+
+THUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG (tiếp theo)
+
+tại ngày 31 tháng 12 năm 2021 và cho năm tài chính kết thúc cùng ngày
+
+4. TÓM TẮT CÁC CHÍNH SÁCH KẾ TOÁN CHỦ YẾU (tiếp theo)
+
+4.2 Các khoản đầu tư tài chính (tiếp theo)
+
+Đầu tư nấm giữ đến ngày đáo hạn
+
+Các khoản đầu tư nắm giữ đến ngày đáo hạn được ghi nhận ban đầu theo giá gốc. Sau khi ghi nhận ban đầu, các khoản đầu tư này được ghi nhận theo giá trị có thể thu hồi. Các khoản suy giảm giá trị của khoản đầu tư nếu phát sinh được hạch toán vào chi phí tài chính trong báo cáo kết quả hoạt động kinh doanh riêng và giảm trừ trực tiếp giá trị đầu tư.
+
+Dự phòng giảm giá trị các khoản đầu tư tài chính
+
+Dự phòng cho việc giảm giá trị của các khoản đầu tư được lập khi có bằng chứng chắc chắn cho thấy có sự suy giảm giá trị của các khoản đầu tư này vào ngày kết thúc năm kế toán. Tăng hoặc giảm số dự phòng được hạch toán vào chi phí tài chính trong báo cáo kết quả hoạt động kinh doanh riêng.
+
+Chi tiết cơ sở đánh giá sự giảm giá của các khoản mục đầu tư theo Thông tư 200 được trình bày như dưới đây:
+
+Chứng khoán kinh doanh: Là dự phòng phần giá trị bị tổn thất có thể xảy ra do giảm giá các loại chứng khoán Tập đoàn đang nằm giữ vì mục đích kinh doanh;
+
+Đầu tư nắm giữ đến ngày đáo hạn: Tập đoàn sẽ đánh giá khả năng thu hồi của các khoản đầu tư này và trong trường hợp có bằng chứng chắc chắn cho thấy một phần hoặc toàn bộ khoản đầu tư có thể không thu hồi được, Tập đoàn sẽ ghi nhận số tổn thất vào chi phí tài chính trong kỳ;
+
+Đầu tư góp vốn vào công ty con, công ty liên doanh, liên kết và các đơn vị khác: Các khoản vốn góp của doanh nghiệp vào các tổ chức kinh tế trong nước, không phải các khoản đầu tư chứng khoán kinh doanh mà Tập đoàn đang sở hữu tại thời điểm lập báo cáo tài chính có cơ sở cho thấy có giá trị suy giảm do với giá trị đầu tư của doanh nghiệp; việc lập dự phòng được thực hiện căn cứ vào khoản lỗ của bên được đầu tư (dự phòng tổn thất đầu tư vào đơn vị khác);
+
+▶ Các khoản đầu tư mà Tập đoàn nằm giữ lâu dài (không phân loại là chứng khoán kinh doanh) và không có ảnh hưởng đáng kể đối với bên được đầu tư: đối với khoản đầu tư vào cổ phiếu niêm yết hoặc giá trị hợp lý khoản đầu tư được xác định tin cây, việc lập dự phòng dựa trên giá trị thị trường của cổ phiếu (tương tự như dự phòng giảm giá chứng khoán kinh doanh); đối với khoản đầu tư không xác định được giá trị hợp lý tại thời điểm lập báo cáo, việc lập dự phòng được thực hiện căn cứ vào khoản lỗ của bên được đầu tư (dự phòng tổn thất đầu tư vào đơn vị khác).
+
+4.3 Các khoản phải thu
+
+Các khoản phải thu được trình bày trên báo cáo tài chính riêng theo giá trị ghi số các khoản phải thu từ khách hàng và phải thu khác sau khi cán trừ các khoản dự phòng được lập cho các khoản phải thu khó đòi.
+
+Dự phòng nợ phải thu khó đòi thể hiện phần giá trị của các khoản phải thu mà Tập đoàn dự kiến không có khả năng thu hồi tại ngày kết thúc năm kế toán. Tăng hoặc giảm số dư tải khoản dự phòng được hạch toán vào chi phí quản lý doanh nghiệp trong báo cáo kết quả hoạt động kinh doanh riêng.
+
+Các khoản phải thu được xem xét trích lập dự phòng rủi ro theo tuổi nợ quá hạn của khoản nợ. Đối với các khoản phải thu chưa đến hạn thanh toán nhưng tổ chức kinh tế làm vào tỉnh trạng phá sản hoặc đang làm thủ tục giải thể; người nợ mất tích, bổ trốn, đang bị các cơ quan pháp luật truy tố, xét xử hoặc đang thì hành án hoặc đã chết, mức trích lập dự phòng được ước tính trên cơ sở dự kiến tổn thất có thể xảy ra.
+
+17
+
+===== PAGE 20 =====
+Tập đoàn Bảo Việt
+
+B09-DN
+
+THUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG (tiếp theo)
+
+tại ngày 31 tháng 12 năm 2021 và cho năm tài chính kết thúc cùng ngày
+
+4. TÓM TẮT CÁC CHÍNH SÁCH KẾ TOÁN CHỦ YẾU (tiếp theo)
+
+4.3 Các khoản phải thu (tiếp theo)
+
+Đối với các khoản nợ phải thu quá hạn thanh toán thì mức trích lập dự phòng theo hướng dẫn của Thông tư 48/2019/TT-BTC ban hành ngày 08 tháng 08 năm 2019 (Thông tư 48) như sau:
+
+<table><tr><td>Thời gian quá hạn</td><td>Mức trích dự phòng</td></tr><tr><td>Từ sáu (06) tháng đến dưới một (01) năm</td><td>30%</td></tr><tr><td>Từ một (01) năm đến dưới hai (02) năm</td><td>50%</td></tr><tr><td>Từ hai (02) năm đến dưới ba (03) năm</td><td>70%</td></tr><tr><td>Từ ba (03) năm trở lên</td><td>100%</td></tr></table>
+
+4.4 Thuê tài sản
+
+Trong trường hợp Tập đoàn là bên đi thuê
+
+Thỏa thuận thuê tài sản được phân loại là thuê tài chính nếu theo hợp đồng thuê tài sản bên cho thuê chuyển giao phần lớn rủi ro và lợi ích gắn liền với quyền sở hữu tài sản cho bên đi thuê. Tất cả các thỏa thuận thuê tài sản khác được phân loại là thuê hoạt động.
+
+Các khoản tiền thuê theo hợp đồng thuê hoạt động được hạch toán vào báo cáo kết quả hoạt động kinh doanh riêng theo phương pháp đường thẳng trong suốt thời hạn của hợp đồng thuê.
+
+Trong trường hợp Tập đoàn là bên cho thuê
+
+Tài sản theo hợp đồng cho thuê hoạt động được ghi nhận là tài sản cố định trên bằng cân đối kế toán riêng. Thu nhập từ tiền cho thuê hoạt động được hạch toán vào báo cáo kết quả hoạt động kinh doanh riêng theo phương pháp đường thẳng trong suốt thời gian cho thuê.
+
+4.5 Tài sản cố định
+
+Tài sản cố định được thể hiện theo nguyên giá trừ đi giá trị khấu hao/hao mòn lũy kế.
+
+Nguyên giá tài sản cố định bao gồm giá mua và những chi phí có liên quan trực tiếp đến việc đưa tài sản vào sẵn sàng hoạt động như dự kiến.
+
+Các chỉ phí mua sắm, nâng cấp và đổi mới tài sản cố định được ghi tăng nguyên giá của tài sản và các chỉ phí khác được hạch toán vào báo cáo kết quả hoạt động kinh doanh riêng khi phát sinh.
+
+Khi tài sản cố định được bán hay thanh lý, các khoản lãi hoặc lỗ phát sinh do thanh lý tài sản (là phần chênh lệch giữa tiền thu thuần từ việc bán tài sản với giá trị còn lại của tài sản) được hạch toán vào báo cáo kết quả hoạt động kinh doanh riêng.
+
+Quyền sử dụng đất
+
+Quyền sử dụng đất có thời hạn hoặc lâu dài được ghi nhận là tài sản cố định vô hình căn cứ trên giấy chứng nhận quyền sử dụng đất được cấp bởi các cơ quan có thẩm quyền.
+
+Tiền thuê đất trả trước cho các hợp đồng thuê đất có hiệu lực trước năm 2003 và được cấp Giấy chứng nhận quyền sử dụng đất được ghi nhận là tài sản cố định vô hình theo quy định của Thông tư số 45/2013/TT-BTC do Bộ Tài chính ban hành vào ngày 25 tháng 04 năm 2013 hướng dẫn chế độ quản lý, sử dụng và trích khấu hao tài sản cố định ("Thông tư 45").
+
+Quyền sử dụng đất đối với các lô đất mà Tập đoàn đã được cấp giấy chứng nhận quyền sử dụng đất, hoặc đang trong thời gian chờ cấp giấy chứng nhận quyền sử dụng đất, vào thời điểm ngày 31 tháng 12 năm 2005 nhằm phục vụ mục đích cổ phần hóa của Công ty mẹ, được ghi nhận như một tài sản cố định vô hình dựa trên giá trị định giá lại do chuyên gia thẩm định giá thực hiện.
+
+18
+
+===== PAGE 21 =====
+Tập đoàn Bảo Việt
+
+B09-DN
+
+THUYÊT MINH BÁO CÁO TÀI CHÍNH RIÊNG (tiếp theo)
+
+tại ngày 31 tháng 12 năm 2021 và cho năm tài chính kết thúc cùng ngày
+
+4. TÓM TẮT CÁC CHÍNH SÁCH KẾ TOÁN CHỦ YẾU (tiếp theo)
+
+4.6 Khấu hao và hao mòn
+
+Khẩu hao tài sản cố định hữu hình và hao mòn tài sản cố định vô hình được trích theo phương pháp khấu hao đường thẳng trong suốt thời gian hữu dụng ước tính của các tài sản như sau:
+
+<table><tr><td>Nhà cửa, vật kiến trúc</td><td>05 - 50 năm</td></tr><tr><td>Máy móc thiết bị</td><td>03 - 20 năm</td></tr><tr><td>Phương tiện vận tải, thiết bị truyền dẫn</td><td>05 - 30 năm</td></tr><tr><td>Thiết bị, dụng cụ quản lý</td><td>03 - 10 năm</td></tr><tr><td>Tài sản cố định hữu hình khác</td><td>04 - 25 năm</td></tr><tr><td>Quyền sử dụng đất có thời hạn</td><td>theo thời hạn trên giấy chứng nhận quyền sử dụng đất</td></tr><tr><td>Phần mềm tin học</td><td>03 - 08 năm</td></tr><tr><td>Tài sản cố định vô hình khác</td><td>02 - 20 năm</td></tr></table>
+
+Tập đoàn không trích khấu hao liên quan đến các giá trị quyền sử dụng đất không thời hạn theo quy định tại Thông tư số 45.
+
+4.7 Chi phí đi vay
+
+Chi phí đi vay bao gồm lãi tiền vay và các chi phí khác phát sinh liên quan trực tiếp đến các khoản vay của Tập đoàn.
+
+Chi phí đi vay được hạch toán như chi phí phát sinh trong năm ngoại trừ các khoản được vốn hóa như theo nội dung của đoạn tiếp theo.
+
+Chi phí đi vay liên quan trực tiếp đến việc mua sắm, xây dựng hoặc hình thành một tài sản qua một thời gian đủ dài để có thể đưa vào sẵn sàng hoạt động như dự kiến hoặc để bán được vốn hóa vào nguyên giá của tài sản đó.
+
+4.8 Chi phí trả trước
+
+Chi phí trả trước bao gồm các chi phí trả trước ngắn hạn hoặc chi phí trả trước dài hạn, được phân bổ trong khoảng thời gian trả trước hoặc thời gian các lợi ích kinh tế tương ứng được tạo ra từ các chi phí này.
+
+Các loại chi phí sau đây được hạch toán vào chi phí trả trước dài hạn để phân bổ đàn vào báo cáo kết quả hoạt động kinh doanh riêng:
+
+▶ Chi phí trả trước về thuê cơ sở hạ tầng; và
+
+▶ Công cụ dụng cụ xuất dùng trong nhiều năm với giá trị lớn.
+
+4.9 Các khoản phải trả và chi phí trích trước
+
+Các khoản phải trả và trích trước được ghi nhận cho số tiền phải trả trong tương lai liên quan đến hàng hóa và dịch vụ đã nhận được không phụ thuộc vào việc Tập đoàn đã nhận được hóa đơn của nhà cung cấp hay chưa.
+
+4.10 Chứng khoán bán và cam kết mua lại theo hợp đồng có kỳ hạn ("hợp đồng repo")
+
+Những tài sản được bán đồng thời cam kết sẽ mua lại vào một thời điểm nhất định trong tương lai ("các hợp đồng mua lại") không được ghi giảm trên báo cáo tài chính riêng. Khoản tiền nhận được theo các hợp đồng mua lại này được ghi nhận là khoản nợ phải trả trên bằng cân đối kế toán riêng và phần chênh lệch giữa giá bán và giá cam kết mua lại trong tương lai được phân bổ vào chi phí và ghi nhận trên báo cáo kết quả hoạt động kinh doanh riêng trong suốt thời gian hiệu lực của hợp đồng mua lại theo phương pháp đường thẳng.
+
+19
+
+===== PAGE 22 =====
+Tập đoàn Bảo Việt
+
+B09-DN
+
+THUYÊT MINH BÁO CÁO TÀI CHÍNH RIÊNG (tiếp theo)
+
+tại ngày 31 tháng 12 năm 2021 và cho năm tài chính kết thúc cùng ngày
+
+4. TÓM TẮT CÁC CHÍNH SÁCH KẾ TOÁN CHỦ YẾU (tiếp theo)
+
+4.11 Lợi ích nhân viên
+
+Các khoản trợ cấp bảo hiểm xã hội
+
+Căn cứ Luật Bảo hiểm Xã hội 2014 và các văn bản hướng dẫn thực hiện, hàng tháng Tập đoàn đã thực hiện việc đóng vào quỹ hưu trí, từ tuất cho Cơ quan Bảo hiểm Xã hội Việt Nam theo mức 14% trên quỹ tiền lương đóng bảo hiểm xã hội của người lao động. Tập đoàn cũng trích nộp 3% quỹ tiền lương đóng bảo hiểm xã hội của người lao động để đóng vào quỹ ốm đau và thai sản, 0,5% quỹ tiền lương đóng bảo hiểm xã hội của người lao động để đóng vào quỹ tai nạn lao động, bệnh nghề nghiệp. Ngoài ra, từ ngày 01 tháng 01 năm 2016, Tập đoàn đã triển khai thực hiện mua sản phẩm bảo hiểm hữu trí tự nguyện cho cán bộ, nhân viên. Theo đó, khi cán bộ, nhân viên nghĩ hưu trí sẽ được thêm quyền lợi từ giá trị Hợp đồng hưu trí theo số năm tham gia và mức đóng của cá nhân.
+
+Trợ cấp bảo hiểm y tế
+
+Căn cứ Luật Bảo hiểm Y tế 2014 và các văn bản hướng dẫn thực hiện, hàng tháng Tập đoàn đã thực hiện việc đóng vào quỹ bảo hiểm y tế cho Cơ quan Bảo hiểm Xã hội Việt Nam theo mức 3% quỹ tiền lương đóng bảo hiểm xã hội của người lao động.
+
+Trợ cấp thời việc và trợ cấp mất việc
+
+Theo Bộ Luật Lao động số 45/2019/QH14 có hiệu lực từ ngày 01 tháng 01 năm 2021 và Nghị định số 145/2020/NĐ-CP của Chính phủ - Quy định chi tiết và hướng dẫn thi hành một số điều của Bộ luật Lao động về điều kiện lao động và quan hệ lao động, đối với người lao động đã làm việc thường xuyên cho Tập đoàn từ đủ 12 tháng trở lên:
+
+Khi hợp đồng lao động chấm dứt, Tập đoàn có trách nhiệm chi trả trợ cấp thời việc bằng một nửa tháng lương cho mỗi năm làm việc cho người lao động tự nguyện thời việc;
+
+Khi người lao động bị mất việc do thay đổi cơ cấu, công nghệ, vì lý do kinh tế hoặc sáp nhập, hợp nhất, chia tách doanh nghiệp, chuyển đổi loại hình doanh nghiệp, chuyển nhượng quyền sở hữu, quyền sử dụng tài sản của doanh nghiệp theo quy định tại Điều 34 của Bộ luật Lao động, Tập đoàn có trách nhiệm chỉ trả trợ cấp mất việc với tổng số tiền tương đương một tháng lương cho mỗi năm làm việc nhưng không được thấp hơn hai tháng tiền lương.
+
+Thời gian làm việc để tính trợ cấp thời việc, trợ cấp mất việc làm là tổng thời gian người lao động đã làm việc thực tế cho người sử dụng lao động trừ đi thời gian người lao động đã tham gia bảo hiểm thất nghiệp theo quy định của pháp luật về bảo hiểm thất nghiệp và thời gian làm việc đã được người sử dụng lao động chỉ trả trợ cấp thời việc, trợ cấp mất việc làm.
+
+Mức lương bình quân tháng được tính để thanh toán trợ cấp thời việc sẽ căn cứ theo mức lương bình quân của 06 tháng liền kê theo hợp đồng lao động trước khi người lao động thời việc.
+
+Quỹ bảo hiểm thất nghiệp
+
+Theo Điều 57 Luật Việc làm số 38/2023/QH13 có hiệu lực từ ngày 01 tháng 01 năm 2015 và Nghị định số 28/2025/NĐ-CP ngày 12 tháng 03 năm 2015 của Chính phủ quy định chi tiết thi hành một số điều của Luật Việc làm về bảo hiểm thất nghiệp. Tập đoàn có nghĩa vụ đóng bảo hiểm thất nghiệp với mức bằng 1% quỹ tiền lương, tiền công đóng bảo hiểm thất nghiệp của những người tham gia bảo hiểm thất nghiệp và trích 1% tiền lương, tiền công hàng tháng đóng bảo hiểm thất nghiệp của từng người lao động để đóng cùng lúc vào Quỹ Bảo hiểm thất nghiệp.
+
+Theo Quyết định số 28/2021/QĐ-TTG ngày 01 tháng 10 năm 2021 của Thủ tướng Chính phủ, mức động bảo hiểm thất nghiệp 1% trích từ quỹ tiền lương, tiền công của người tham gia bảo hiểm thất nghiệp nếu trên được giảm xuống còn 0% trong vòng 12 tháng kể từ ngày 01 tháng 10 năm 2021.
+
+20
+
+===== PAGE 23 =====
+Tập đoàn Bảo Việt
+
+B09-DN
+
+THUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG (tiếp theo)
+
+tại ngày 31 tháng 12 năm 2021 và cho năm tài chính kết thúc cùng ngày
+
+4. TÓM TẮT CÁC CHÍNH SÁCH KẾ TOÁN CHỦ YẾU (tiếp theo)
+
+4.12 Ghi nhận doanh thu
+
+Doanh thu được ghi nhận khi Tập đoàn có khả năng nhận được các lợi ích kinh tế có thể xác định được một cách chắc chắn. Các điều kiện ghi nhận cụ thể sau đây cũng phải được đáp ứng trước khi ghi nhận doanh thu:
+
+Doanh thu cho thuê ghi nhận hàng kỳ
+
+Thu nhập từ tiền cho thuê tài sản theo hợp đồng thuê hoạt động được hạch toán vào báo cáo kết quả hoạt động kinh doanh riêng theo phương pháp đường thẳng trong suốt thời gian cho thuê.
+
+Doanh thu cung cấp dịch vụ
+
+Khi có thể xác định được kết quả hợp đồng một cách chắc chắn, doanh thu sẽ được ghi nhận dựa vào mức độ hoàn thành công việc. Mức độ hoàn thành công việc được xác định theo tỷ lệ phần trăm của số giờ công lao động phát sinh cho đến ngày kết thúc ký kế toán năm trên tổng số giờ công lao động ước tính cho mỗi hợp đồng.
+
+Nếu không thể xác định được kết quả hợp đồng một cách chắc chắn, doanh thu sẽ chỉ được ghi nhận ở mức có thể thu hồi được của các chi phí đã được ghi nhận.
+
+Tiền lãi
+
+Doanh thu được ghi nhận khi tiền lãi phát sinh trên cơ sở đồn tích (có tính đến lợi tức mà tài sản đem lại) trừ khi khả năng thu hồi tiền lãi không chắc chắn.
+
+Đối với trái phiếu, doanh thu tiền lãi bao gồm cả số phân bổ theo phương pháp đường thẳng của các khoản chiết khấu, phụ trội, các khoản lãi nhận trước hoặc các khoản chênh lệch giữa giá trị ghi sổ ban đầu của trái phiếu và giá trị của trái phiếu khi đáo hạn. Chỉ có phần tiền lãi của các kỳ sau khi khoản đầu tư được mua mới được ghi nhận là doanh thu của Tập đoàn. Phần tiền lãi của các kỳ trước khi khoản đầu tư được mua được hạch toán giảm giá trị của chính khoản đầu tư đó.
+
+Cổ tức và lợi nhuận được chia
+
+Cổ tức và lợi nhuận được chia được ghi nhận là doanh thu khi quyền lợi được nhận cổ tức hay lợi nhuận được chia của Tập đoàn với tư cách là nhà đầu tư được xác định. Tập đoàn không ghi nhận doanh thu đối với phần cổ tức bằng cổ phiếu và cổ phiếu thường mà chỉ cập nhật số lượng cổ phiếu theo quy định tại Thông tư 200.
+
+Thu nhập khác
+
+Các khoản thu nhập khác bao gồm các khoản thu từ các hoạt động xảy ra không thường xuyên, ngoài các hoạt động tạo ra doanh thu, bao gồm: các khoản thu về thanh lý tài sản cố định, nhượng bán tài sản cố định; thu tiền phát khách hàng do vi phạm hợp đồng; thu tiền bảo hiểm được bởi thường; thu được các khoản nợ phải thu đã xóa số tính vào chi phí kỳ trước; khoản nợ phải trả nay mất chủ được ghi tăng thu nhập; thu các khoản thuế được giảm, được hoàn lại; và các khoản thu khác được ghi nhận là thu nhập khác theo quy định tại Chuẩn mực Kế toán Việt Nam số 14 - Doanh thu và thu nhập khác.
+
+21
+
+===== PAGE 24 =====
+Tập đoàn Bảo Việt
+
+B09-DN
+
+THUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG (tiếp theo)
+
+tại ngày 31 tháng 12 năm 2021 và cho năm tài chính kết thúc cùng ngày
+
+4. TÓM TẮT CÁC CHÍNH SÁCH KẾ TOÁN CHỦ YẾU (tiếp theo)
+
+4.13 Ghi nhận chi phí
+
+Chi phí hoạt động kinh doanh
+
+Chi phí hoạt động kinh doanh bao gồm chi phí hoạt động tài chính như chi phí dự phòng tài chính, chi phí repo và các chi phí tài chính khác và các chi phí cho các hoạt động kinh doanh của Tập đoàn như chi phí lương, chi phí khấu hao, chi phí quản lý toàn và các chi phí khác.
+
+Tài sản đi thuê
+
+Các khoản tiền thuê theo hợp đồng thuê hoạt động được hạch toán vào báo cáo kết quả hoạt động kinh doanh riêng theo phương pháp đường thẳng trong thời hạn của hợp đồng thuê.
+
+Chi phí quản lý doanh nghiệp
+
+Chi phí quản lý doanh nghiệp bao gồm chi phí nhân viên, chi phí vật liệu đồ dùng văn phòng, chi phí khấu hao tài sản cố định, chi phí dịch vụ mua ngoài.
+
+4.14 Thuế
+
+Thuế thu nhập hiện hành
+
+Tài sản thuế thu nhập và thuế thu nhập phải nộp cho năm kế toán hiện hành và các năm trước được xác định bằng giá trị dự kiến phải nộp cho (hoặc được thu hồi tử) cơ quan thuế, sử dụng các mức thuế suất và các luật thuế có hiệu lực đến ngày kết thúc kỳ kế toán năm.
+
+Thuế thu nhập hiện hành được ghi nhận vào báo cáo kết quả hoạt động kinh doanh riêng ngoại trừ trường hợp thuế thu nhập phát sinh liên quan đến một khoản mục được ghi thẳng vào vốn chủ sở hữu, trong trường hợp này, thuế thu nhập hiện hành cũng được ghi nhận trực tiếp vào vốn chủ sở hữu.
+
+Tập đoàn chỉ được bù trừ các tài sản thuế thu nhập hiện hành và thuế thu nhập hiện hành phải trả khi Tập đoàn có quyền hợp pháp được bù trừ giữa tài sản thuế thu nhập hiện hành với thuế thu nhập hiện hành phải nộp và Tập đoàn dự định thanh toán thuế thu nhập hiện hành phải nộp và tài sản thuế thu nhập hiện hành trên cơ sở thuần.
+
+Thuế thu nhập hoãn lại
+
+Thuế thu nhập hoãn lại được xác định cho các khoản chênh lệch tạm thời tại ngày kết thúc kỳ kế toán năm giữa cơ sở tính thuế thu nhập của các tài sản và nợ phải trả và giá trị ghi sổ của chúng cho mục đích lập báo cáo tài chính riêng.
+
+Thuế thu nhập hoãn lại phải trả được ghi nhận cho tất cả các khoản chênh lệch tạm thời chịu thuế, ngoại trừ:
+
+Thuế thu nhập hoãn lại phải trả phát sinh từ ghi nhận ban đầu của một tài sản hay nợ phải trả từ một giao dịch mà giao dịch này không có ảnh hưởng đến lợi nhuận kế toán và lợi nhuận tính thuế thu nhập (hoặc lỗ tính thuế) tại thời điểm phát sinh giao dịch; và
+
+Các chênh lệch tạm thời chịu thuế gắn liền với các khoản đầu tư vào công ty con, công ty liên kết và các khoản vốn góp liên doanh khi Tập đoàn có khả năng kiểm soát thời gian hoàn nhập khoản chênh lệnh tạm thời và chắc chắn khoản chênh lệch tạm thời sẽ không được hoàn nhập trong tương lai có thể dự đoán.
+
+22
+
+===== PAGE 25 =====
+Tập đoàn Bảo Việt
+
+B09-DN
+
+THUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG (tiếp theo)
+
+tại ngày 31 tháng 12 năm 2021 và cho năm tài chính kết thúc cùng ngày
+
+4. TÓM TẮT CÁC CHÍNH SÁCH KẾ TOÁN CHỦ YẾU (tiếp theo)
+
+4.14 Thuế (tiếp theo)
+
+Thuế thu nhập hoãn lại (tiếp theo)
+
+Tài sản thuế thu nhập hoãn lại cần được ghi nhận cho tất cả các chênh lệch tạm thời được khấu trừ, giá trị được khấu trừ chuyển sang các năm sau của các khoản lỗ tính thuế và các khoản ưu đãi thuế chưa sử dụng, khi chắc chắn trong tương lai sẽ có lợi nhuận tính thuế để sử dụng những chênh lệch tạm thời được khấu trừ, các khoản lỗ tính thuế và các ưu đãi thuế chưa sử dụng này, ngoại trừ:
+
+Tài sản thuế hoãn lại phát sinh từ ghi nhận ban đầu của một tài sản hoặc nợ phải trả từ một giao dịch mà giao dịch này không có ảnh hưởng đến lợi nhuận kế toán và lợi nhuận tính thuế thu nhập (hoặc lỗ tính thuế) tại thời điểm phát sinh giao dịch; và
+
+Đối với các chênh lệch tạm thời được khấu trừ phát sinh từ các khoản đầu tư vào các công ty con, công ty liên kết và các khoản vốn góp liên doanh, tài sản thuế thu nhập hoãn lại được ghi nhận khi chắc chắn là chênh lệnh tạm thời sẽ được hoàn nhập trong tương lai có thể dự đoán được và có lợi nhuận chịu thuế đề sử dụng được khoản chênh lệch tạm thời đó.
+
+Giá trị ghi sổ cửa tài sản thuế thu nhập doanh nghiệp hoãn lại phải được xem xét lại vào ngày kết thúc kỳ kể toán năm và phải giảm giá trị ghi sổ cửa tài sản thuế thu nhập hoãn lại đến mức bảo đảm chắc chắn có đủ lợi nhuận tính thuế cho phép lợi ích của một phần hoặc toàn bộ tài sản thuế thu nhập hoãn lại được sử dụng. Các tài sản thuế thu nhập doanh nghiệp hoãn lại chưa ghi nhận trước đây được xem xét lại vào ngày kết thúc kỳ kể toán năm và được ghi nhận khi chắc chắn có đủ lợi nhuận tính thuế để có thể sử dụng các tài sản thuế thu nhập hoãn lại chưa ghi nhận này.
+
+Tài sản thuế thu nhập hoãn lại và thuế thu nhập hoãn lại phải trả được xác định theo thuế suất dự tính sẽ áp dụng cho giai đoạn mà tài sản được thu hồi hay nợ phải trả được thanh toán, dựa trên các mức thuế suất và luật thuế có hiệu lực vào ngày kết thúc ký kế toán năm.
+
+Thuế thu nhập hoãn lại được ghi nhận vào báo cáo kết quả hoạt động kinh doanh riêng ngoại trừ trường hợp thuế thu nhập phát sinh liên quan đến một khoản mục được ghi thẳng vào vốn chủ sở hữu, trong trường hợp này, thuế thu nhập hoãn lại cũng được ghi nhận trực tiếp vào vốn chủ sở hữu.
+
+Tập đoàn chỉ được bù trừ các tài sản thuế thu nhập hoãn lại và thuế thu nhập hoãn lại phải trả khi Tập đoàn có quyền hợp pháp được bù trừ giữa tài sản thuế thu nhập hiện hành với thuế thu nhập hiện hành phải nộp và các tài sản thuế thu nhập hoãn lại và thuế thu nhập hoãn lại phải nộp này liên quan tới thuế thu nhập doanh nghiệp được quản lý bởi cùng một cơ quan thuế:
+
+Đối với cùng một đơn vị chịu thuế; hoặc
+
+Tập đoàn dự định thanh toán thuế thu nhập hiện hành phải trả và tài sản thuế thu nhập hiện hành trên cơ sở thuần hoặc thu hồi tài sản đồng thời với việc thanh toán nợ phải trả trong từng kỳ tương lai khi các khoản trọng yếu của thuế thu nhập hoãn lại phải trả hoặc tài sản thuế thu nhập hoãn lại được thanh toán hoặc thu hồi.
+
+23
+
+===== PAGE 26 =====
+Tập đoàn Bảo Việt
+
+B09-DN
+
+THUYÊT MINH BÁO CÁO TÀI CHÍNH RIÊNG (tiếp theo)
+
+tại ngày 31 tháng 12 năm 2021 và cho năm tài chính kết thúc cùng ngày
+
+4. TÓM TẮT CÁC CHÍNH SÁCH KẾ TOÁN CHỦ YẾU (tiếp theo)
+
+4.15 Phân chia lợi nhuận
+
+Lợi nhuận thuần sau thuế thu nhập doanh nghiệp có thể được chia cho các cổ đông sau khi được Đại hội đồng cổ đông phê duyệt và sau khi đã trích lập các quỹ theo Điều lệ của Tập đoàn và các quy định của pháp luật Việt Nam.
+
+Tập đoàn trích lập các quỹ sau từ lợi nhuận thuần sau thuế thu nhập doanh nghiệp của Tập đoàn theo đề nghị của Hội đồng Quản trị và được các cổ đông phê duyệt tại Đại hội đồng cổ đông thường niên:
+
+Quỹ Đầu tư Phát triển: được trích lập cho mục đích đầu tư mở rộng quy mô hoạt động, đầu tư chiều sâu của Tập đoàn;
+
+Quỹ Khen thưởng Phúc lợi cho người lao động và Quỹ thưởng cho người quản lý: được trích lập cho mục đích khen thưởng, khuyến khích vật chất, đem lại lợi ích chung và nâng cao phúc lợi cho người lao động và người quản lý, và được trình bày như một khoản phải trả trên bằng cân đối kế toán riêng.
+
+4.16 Các nghiệp vụ bằng ngoại tệ
+
+Các nghiệp vụ phát sinh bằng các đơn vị tiền tệ khác với đơn vị tiền tệ kế toán của Tập đoàn (VND) được hạch toán theo tỷ giá giao dịch thực tế vào ngày phát sinh nghiệp vụ theo nguyên tắc sau:
+
+Nghiệp vụ làm phát sinh các khoản phải thu được hạch toán theo tỷ giá mua của ngân hàng thương mại nơi Tập đoàn chỉ định khách hàng thanh toán;
+
+Nghiệp vụ làm phát sinh các khoản phải trả được hạch toán theo tỷ giá bán của ngân hàng thương mại nơi Tập đoàn dự kiến giao dịch;
+
+Giao dịch góp vốn hoặc nhận vốn góp được hạch toán theo tỷ giá mua ngoại tệ của ngân hàng nơi Tập đoàn mở tài khoản để nhận vốn của nhà đầu tư; và
+
+Giao dịch mua sắm tài sản hoặc các khoản chi phí được thanh toán ngay bằng ngoại tệ (không qua các tài khoản phải trả) được hạch toán theo tỷ giá mua của ngân hàng thương mại nơi Tập đoàn thực hiện thanh toán.
+
+Tại ngày kết thúc kỳ kế toán năm, các khoản mục tiền tệ có gốc ngoại tệ được đánh giá lại theo tỷ giá giao dịch thực tế tại ngày của bằng cân đối kế toán riêng theo nguyên tắc sau:
+
+Các khoản mục tiền tệ được phân loại là tài sản được hạch toán theo tỷ giá mua của ngân hàng thương mại nơi Tập đoàn thường xuyên có giao dịch; và
+
+Các khoản mục tiền tệ được phân loại là nợ phải trả được hạch toán theo tỷ giá bán của ngân hàng thương mại nơi Tập đoàn thường xuyên có giao dịch.
+
+Tất cả các khoản chênh lệch tỷ giá thực tế phát sinh trong kỳ và chênh lệch do đánh giá lại số dư tiền tệ có gốc ngoại tệ cuối kỳ kế toán năm được hạch toán vào báo cáo kết quả hoạt động kinh doanh riêng.
+
+24
+
+===== PAGE 27 =====
+Tập đoàn Bảo Việt
+
+B09-DN
+
+THUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG (tiếp theo)
+
+tại ngày 31 tháng 12 năm 2021 và cho năm tài chính kết thúc cùng ngày
+
+4. TÓM TẮT CÁC CHÍNH SÁCH KẾ TOÁN CHỦ YẾU (tiếp theo)
+
+4.17 Thông tin theo bộ phận
+
+Một bộ phận là một cấu phần có thể xác định riêng biệt của Tập đoàn tham gia vào việc cung cấp các sản phẩm hoặc dịch vụ liên quan (bộ phận được chia theo hoạt động kinh doanh) hoặc cung cấp sản phẩm hoặc dịch vụ trong một môi trường kinh tế cụ thể (bộ phận được chia theo khu vực địa lý). Mỗi một bộ phận này chịu rủi ro và thu được lợi ích khác biệt so với các bộ phận khác.
+
+Hoạt động chính của Tập đoàn là hoạt động dịch vụ tài chính. Đồng thời, hoạt động kinh doanh của Tập đoàn chủ yếu được thực hiện trong lãnh thổ Việt Nam. Vì vậy, rủi ro và tỷ suất sinh lời của Tập đoàn không bị tác động chủ yếu bởi những khác biệt về sản phẩm, dịch vụ mà Tập đoàn cung cấp hoặc do Tập đoàn hoạt động tại nhiều khu vực địa lý khác nhau. Do đó, Ban Điều hành nhận định Tập đoàn chỉ có một bộ phận theo hoạt động kinh doanh và khu vực địa lý và theo đó, Tập đoàn không cần phải trình bày thông tin theo bộ phận.
+
+4.18 Các bên liên quan
+
+Các bên được coi là bên liên quan của Tập đoàn nếu một bên có khả năng, trực tiếp hoặc gián tiếp, kiểm soát bên kia hoặc gây ảnh hưởng đáng kể tới bên kia trong việc ra các quyết định tài chính và hoạt động, hoặc khi Tập đoàn và bên kia cùng chịu sự kiểm soát chung hoặc ảnh hưởng đáng kể chung. Các bên liên quan có thể là các công ty hoặc các cá nhân, bao gồm các thành viên mặt thiết trong gia đình của các cá nhân được coi là liên quan.
+
+5. TIỀN VÀ CÁC KHOÀN TƯƠNG ĐƯƠNG TIỀN
+
+<table><tr><td></td><td>Ngày 31 tháng 12năm 2021VND</td><td>Ngày 31 tháng 12năm 2020VND</td></tr><tr><td>Tiền mặt tại quỹ</td><td>532.405.081</td><td>597.195.824</td></tr><tr><td>Tiền gửi ngân hàng</td><td>65.063.473.704</td><td>34.122.775.191</td></tr><tr><td>Tiền gửi ngân hàng (VND)</td><td>63.676.870.927</td><td>33.727.589.116</td></tr><tr><td>Tiền gửi ngân hàng đồ la Mỹ (USD) quy VND</td><td>233.281.428</td><td>236.990.850</td></tr><tr><td>Tiền gửi giao dịch chứng khoán tại BVSC</td><td>1.153.321.349</td><td>158.195.225</td></tr><tr><td>Các khoản tương đương tiền</td><td>-</td><td>250.000.000.000</td></tr><tr><td>TỔNG CỘNG</td><td>65.595.878.785</td><td>284.719.971.015</td></tr></table>
+
+25
+
+===== PAGE 28 =====
+Tập đoàn Bảo Việt
+
+B09-DN
+
+THUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG (tiếp theo)
+
+tại ngày 31 tháng 12 năm 2021 và cho năm tài chính kết thúc cùng ngày
+
+6. CÁC KHOÀN ĐẦU TƯ TÀI CHÍNH
+
+<table><tr><td></td><td>Thuyết minh</td><td>Ngày 31 tháng 12 năm 2021 VND</td><td>Ngày 31 tháng 12 năm 2020 VND</td></tr><tr><td>Chứng khoán kinh doanh</td><td>6.1</td><td></td><td></td></tr><tr><td>Cổ phiếu niêm yết</td><td></td><td>28.104.986.164</td><td>10.334.361.164</td></tr><tr><td>Chứng chỉ quỹ</td><td></td><td>45.000.000.000</td><td>45.000.000.000</td></tr><tr><td></td><td></td><td>73.104.986.164</td><td>55.334.361.164</td></tr><tr><td>Đầu tư nằm giữ đến ngày đáo hạn</td><td>6.2</td><td></td><td></td></tr><tr><td>Ngắn hạn</td><td></td><td>3.933.000.000.000</td><td>3.384.000.000.000</td></tr><tr><td>- Tiền gửi</td><td></td><td>3.123.000.000.000</td><td>3.384.000.000.000</td></tr><tr><td>- Trái phiếu</td><td></td><td>810.000.000.000</td><td>-</td></tr><tr><td>Dài hạn</td><td></td><td>1.000.000.000</td><td>969.570.878.525</td></tr><tr><td>- Tiền gửi</td><td></td><td>1.000.000.000</td><td>110.000.000.000</td></tr><tr><td>- Trái phiếu</td><td></td><td>-</td><td>859.570.878.525</td></tr><tr><td></td><td></td><td>3.934.000.000.000</td><td>4.353.570.878.525</td></tr><tr><td>Đầu tư tài chính dài hạn khác</td><td>6.3</td><td></td><td></td></tr><tr><td>Đầu tư vào công ty con và BVIF</td><td></td><td>10.352.286.148.720</td><td>9.352.286.148.720</td></tr><tr><td>Đầu tư vào công ty liên doanh, liên kết</td><td></td><td>2.138.200.000.000</td><td>2.138.200.000.000</td></tr><tr><td>Đầu tư góp vốn vào đơn vị khác</td><td></td><td>527.895.480.716</td><td>616.781.114.000</td></tr><tr><td>Dự phòng đầu tư tài chính dài hạn khác</td><td></td><td>(34.962.346.357)</td><td>(89.940.967.187)</td></tr><tr><td></td><td></td><td>12.983.419.283.079</td><td>12.017.326.295.533</td></tr><tr><td>Giá trị thuần các khoản đầu tư tài chính</td><td></td><td>16.990.524.269.243</td><td>16.426.231.535.222</td></tr></table>
+
+26
+
+===== PAGE 29 =====
+Tập đoàn Bảo Việt
+
+THUYÊT MINH BÁO CÁO TÀI CHÍNH RIÊNG (tiếp theo)
+tại ngày 31 tháng 12 năm 2021 và cho năm tài chính kết thúc cùng ngày
+
+6. CÁC KHOÀN ĐẦU TƯ TÀI CHÍNH (tiếp theo)
+
+6.1 Chứng khoán kinh doanh
+
+<table><tr><td rowspan="2"></td><td colspan="3">Ngày 31 tháng 12 năm 2021</td><td colspan="3">Ngày 31 tháng 12 năm 2020</td></tr><tr><td>Giá gốc VND</td><td>Giá trị thuần VND</td><td>Dự phòng VND</td><td>Giá gốc VND</td><td>Giá trị thuần VND</td><td>Dự phòng VND</td></tr><tr><td colspan="7">Cổ phiếu niêm yết</td></tr><tr><td>Công ty Cổ phần Đầu tư và Phát triển Cảng Đình Vũ</td><td>10.334.361.164</td><td>10.334.361.164</td><td>-</td><td>10.334.361.164</td><td>10.334.361.164</td><td>-</td></tr><tr><td>Công ty Cổ phần Vĩnh Hoàn</td><td>17.770.625.000</td><td>17.770.625.000</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td></td><td>28.104.986.164</td><td>28.104.986.164</td><td>-</td><td>10.334.361.164</td><td>10.334.361.164</td><td>-</td></tr><tr><td colspan="7">Chứng chỉ quỹ</td></tr><tr><td>Quỹ Đầu tư Cổ phiếu Năng động Bảo Việt (“BVFED”)</td><td>25.000.000.000</td><td>25.000.000.000</td><td>-</td><td>25.000.000.000</td><td>25.000.000.000</td><td>-</td></tr><tr><td>Quỹ Đầu tư Cổ phiếu Triển vọng Bảo Việt (“BVPF”)</td><td>20.000.000.000</td><td>20.000.000.000</td><td>-</td><td>20.000.000.000</td><td>20.000.000.000</td><td>-</td></tr><tr><td></td><td>45.000.000.000</td><td>45.000.000.000</td><td>-</td><td>45.000.000.000</td><td>45.000.000.000</td><td>-</td></tr><tr><td>TỔNG CỘNG</td><td>73.104.986.164</td><td>73.104.986.164</td><td>-</td><td>55.334.361.164</td><td>55.334.361.164</td><td>-</td></tr></table>
+
+27
+
+B09-DN
+
+===== PAGE 30 =====
+Tập đoàn Bảo Việt
+
+THUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG (tiếp theo)
+tại ngày 31 tháng 12 năm 2021 và cho năm tài chính kết thúc cùng ngày
+
+6. CÁC KHOÀN ĐẦU TƯ TÀI CHÍNH (tiếp theo)
+6.2 Đầu tư nấm giữ đến ngày đáo hạn
+
+<table><tr><td rowspan="2"></td><td colspan="2">Ngày 31 tháng 12 năm 2021</td><td colspan="2">Ngày 31 tháng 12 năm 2020</td></tr><tr><td>Giá gốc VND</td><td>Giá trị ghi sổ VND</td><td>Giá gốc VND</td><td>Giá trị ghi sổ VND</td></tr><tr><td colspan="5">Ngắn hạn</td></tr><tr><td>Tiền gửi (*)</td><td>3.287.000.000.000</td><td>3.123.000.000.000</td><td>3.548.000.000.000</td><td>3.384.000.000.000</td></tr><tr><td>Trái phiếu (**)</td><td>964.709.500.000</td><td>810.000.000.000</td><td>154.709.500.000</td><td>-</td></tr><tr><td>Trái phiếu doanh nghiệp</td><td>964.709.500.000</td><td>810.000.000.000</td><td>154.709.500.000</td><td>-</td></tr><tr><td></td><td>4.251.709.500.000</td><td>3.933.000.000.000</td><td>3.702.709.500.000</td><td>3.384.000.000.000</td></tr><tr><td colspan="5">Dài hạn</td></tr><tr><td>Tiền gửi (***)</td><td>1.000.000.000</td><td>1.000.000.000</td><td>110.000.000.000</td><td>110.000.000.000</td></tr><tr><td>Trái phiếu (**)</td><td>-</td><td>-</td><td>859.570.878.525</td><td>859.570.878.525</td></tr><tr><td>Trái phiếu doanh nghiệp</td><td>-</td><td>-</td><td>859.570.878.525</td><td>859.570.878.525</td></tr><tr><td></td><td>1.000.000.000</td><td>1.000.000.000</td><td>969.570.878.525</td><td>969.570.878.525</td></tr><tr><td>TỔNG CỘNG</td><td>4.252.709.500.000</td><td>3.934.000.000.000</td><td>4.672.280.378.525</td><td>4.353.570.878.525</td></tr></table>
+
+28
+
+B09-DN
+
+===== PAGE 31 =====
+Tập đoàn Bảo Việt
+
+THUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG (tiếp theo)
+
+tại ngày 31 tháng 12 năm 2021 và cho năm tài chính kết thúc cùng ngày
+
+6. CÁC KHOÀN ĐẦU TƯ TÀI CHÍNH (tiếp theo)
+
+6.3 Đầu tư tài chính dài hạn khác
+
+<table><tr><td rowspan="2"></td><td colspan="3">Ngày 31 tháng 12 năm 2021</td><td colspan="3">Ngày 31 tháng 12 năm 2020</td></tr><tr><td>Giá gốc VND</td><td>Dự phòng VND</td><td>Giá trị thuần VND</td><td>Giá gốc VND</td><td>Dự phòng VND</td><td>Giá trị thuần VND</td></tr><tr><td colspan="7">Đầu tư vào công ty con và BVIF</td></tr><tr><td>Bảo Việt Nhân thọ</td><td>6.000.000.000.000</td><td>-</td><td>6.000.000.000.000</td><td>5.000.000.000.000</td><td>-</td><td>5.000.000.000.000</td></tr><tr><td>Bảo hiểm Bảo Việt</td><td>2.900.000.000.000</td><td>-</td><td>2.900.000.000.000</td><td>2.900.000.000.000</td><td>-</td><td>2.900.000.000.000</td></tr><tr><td>BVF</td><td>100.000.000.000</td><td>-</td><td>100.000.000.000</td><td>100.000.000.000</td><td>-</td><td>100.000.000.000</td></tr><tr><td>BVSC</td><td>694.895.148.720</td><td>-</td><td>694.895.148.720</td><td>694.895.148.720</td><td>-</td><td>694.895.148.720</td></tr><tr><td>BVInvest</td><td>200.995.000.000</td><td>-</td><td>200.995.000.000</td><td>200.995.000.000</td><td>-</td><td>200.995.000.000</td></tr><tr><td>BVIF</td><td>420.000.000.000</td><td>-</td><td>420.000.000.000</td><td>420.000.000.000</td><td>-</td><td>420.000.000.000</td></tr><tr><td>Bảo Việt - Âu Lạc</td><td>36.396.000.000</td><td>-</td><td>36.396.000.000</td><td>36.396.000.000</td><td>-</td><td>36.396.000.000</td></tr><tr><td></td><td>10.352.286.148.720</td><td>-</td><td>10.352.286.148.720</td><td>9.352.286.148.720</td><td>-</td><td>9.352.286.148.720</td></tr><tr><td colspan="7">Đầu tư vào công ty liên doanh, liên kết</td></tr><tr><td>Bảo Việt Bank</td><td>1.560.000.000.000</td><td>-</td><td>1.560.000.000.000</td><td>1.560.000.000.000</td><td>-</td><td>1.560.000.000.000</td></tr><tr><td>Tokio Marine Việt Nam</td><td>147.000.000.000</td><td>-</td><td>147.000.000.000</td><td>147.000.000.000</td><td>-</td><td>147.000.000.000</td></tr><tr><td>Trung Nam Phú Quốc</td><td>431.200.000.000</td><td>-</td><td>431.200.000.000</td><td>431.200.000.000</td><td>-</td><td>431.200.000.000</td></tr><tr><td></td><td>2.138.200.000.000</td><td>-</td><td>2.138.200.000.000</td><td>2.138.200.000.000</td><td>-</td><td>2.138.200.000.000</td></tr><tr><td colspan="7">Đầu tư góp vốn vào đơn vị khác</td></tr><tr><td>Đầu tư góp vốn vào đơn vị khác</td><td>527.895.480.716</td><td>(34.962.346.357)</td><td>492.933.134.359</td><td>616.781.114.000</td><td>(89.940.967.187)</td><td>526.840.146.813</td></tr><tr><td>TỔNG CỘNG</td><td>13.018.381.629.436</td><td>(34.962.346.357)</td><td>12.983.419.283.079</td><td>12.107.267.262.720</td><td>(89.940.967.187)</td><td>12.017.326.295.533</td></tr></table>
+
+29
+
+B09-DN
+
+===== PAGE 32 =====
+Tập đoàn Bảo Việt
+
+B09-DN
+
+THUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG (tiếp theo)
+
+tại ngày 31 tháng 12 năm 2021 và cho năm tài chính kết thúc cùng ngày
+
+7. CÁC KHOÀN PHẢI THU NGẮN HẠN
+
+<table><tr><td></td><td>Thuyết minh</td><td>Ngày 31 tháng 12 năm 2021 VND</td><td>Ngày 31 tháng 12 năm 2020 VND</td></tr><tr><td colspan="4">Phải thu ngắn hạn của khách hàng</td></tr><tr><td>Phải thu từ hoạt động đầu tư</td><td>7.1</td><td>776.714.476.660</td><td>799.275.014.996</td></tr><tr><td>Phải thu từ các hoạt động khác</td><td>7.2</td><td>88.375.741.404</td><td>73.731.648.716</td></tr><tr><td></td><td></td><td>865.090.218.064</td><td>873.006.663.712</td></tr><tr><td>Trả trước cho người bán ngắn hạnBVInvest</td><td></td><td>9.053.950.000</td><td>-</td></tr><tr><td>Phải trả cho người bán ngắn hạn khác</td><td></td><td>969.154.980</td><td>198.791.000</td></tr><tr><td></td><td></td><td>10.023.104.980</td><td>198.791.000</td></tr><tr><td>Phải thu ngắn hạn khác</td><td>7.3</td><td>10.063.519.533</td><td>10.057.483.435</td></tr><tr><td>TỔNG CỘNG</td><td></td><td>885.176.842.577</td><td>883.262.938.147</td></tr></table>
+
+7.1 Phải thu từ hoạt động đầu tư
+
+<table><tr><td></td><td>Ngày 31 tháng 12năm 2021VND</td><td>Ngày 31 tháng 12năm 2020VND</td></tr><tr><td colspan="3">Phải thu</td></tr><tr><td>Dự thu lãi tiền gửi</td><td>72.079.928.717</td><td>185.782.235.612</td></tr><tr><td>Dự thu lãi trái phiếu</td><td>2.516.547.943</td><td>3.759.287.665</td></tr><tr><td>Dự thu cổ tức, lợi nhuận được chia</td><td>702.118.000.000</td><td>609.733.491.719</td></tr><tr><td>Lợi nhuận từ Bảo Việt Nhân thọ</td><td>413.107.000.000</td><td>520.160.000.000</td></tr><tr><td>Lợi nhuận từ Bảo hiểm Bảo Việt</td><td>226.613.000.000</td><td>48.405.000.000</td></tr><tr><td>Lợi nhuận từ BVF</td><td>48.463.000.000</td><td>30.435.000.000</td></tr><tr><td>Lợi nhuận từ BVInvest</td><td>13.935.000.000</td><td>5.769.110.719</td></tr><tr><td>Cổ tức khác</td><td>-</td><td>4.964.381.000</td></tr><tr><td>TỔNG CỘNG</td><td>776.714.476.660</td><td>799.275.014.996</td></tr></table>
+
+7.2 Phải thu từ các hoạt động khác
+
+<table><tr><td></td><td>Ngày 31 tháng 12năm 2021VND</td><td>Ngày 31 tháng 12năm 2020VND</td></tr><tr><td colspan="3">Phải thu dịch vụ CNTT</td></tr><tr><td>Bảo Việt Nhân thọ</td><td>45.331.330.927</td><td>49.475.591.284</td></tr><tr><td>Bảo hiểm Bảo Việt</td><td>22.860.171.908</td><td>21.186.321.442</td></tr><tr><td>BVF</td><td>570.853.600</td><td>505.701.477</td></tr><tr><td>BVSC</td><td>831.101.913</td><td>837.367.060</td></tr><tr><td>BVInvest</td><td>80.572.855</td><td>84.577.466</td></tr><tr><td>Bảo Việt Bank</td><td>929.687.849</td><td>940.364.214</td></tr><tr><td></td><td>70.603.719.052</td><td>73.029.922.943</td></tr><tr><td colspan="3">Phải thu dịch vụ cho thuê văn phòng</td></tr><tr><td>BVInvest</td><td>15.695.443.193</td><td>650.443.773</td></tr><tr><td>Bảo hiểm Bảo Việt</td><td>94.806.489</td><td>-</td></tr><tr><td>Công ty khác</td><td>1.754.212.080</td><td>51.282.000</td></tr><tr><td></td><td>17.544.461.762</td><td>701.725.773</td></tr><tr><td colspan="3">Phải thu dịch vụ đào tạo</td></tr><tr><td>Bảo hiểm Bảo Việt</td><td>227.560.590</td><td>-</td></tr><tr><td></td><td>227.560.590</td><td>-</td></tr><tr><td>TỔNG CỘNG</td><td>88.375.741.404</td><td>73.731.648.716</td></tr></table>
+
+30
+
+===== PAGE 33 =====
+Tập đoàn Bảo Việt
+
+B09-DN
+
+THUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG (tiếp theo)
+
+tại ngày 31 tháng 12 năm 2021 và cho năm tài chính kết thúc cùng ngày
+
+7. CÁC KHOẢN PHẢI THU NGẮN HẠN (tiếp theo)
+
+7.3 Phải thu ngắn hạn khác
+
+<table><tr><td></td><td>Ngày 31 tháng 12năm 2021VND</td><td>Ngày 31 tháng 12năm 2020VND</td></tr><tr><td>Phải thu đóng góp an sinh xã hội</td><td>3.000.000.000</td><td>2.017.485.134</td></tr><tr><td>Tạm ứng cho nhân viên</td><td>169.157.894</td><td>606.329.131</td></tr><tr><td>Phải thu chỉ phí quảng cáo biển tấm lớn và dự án Siêu thị tài chính (OSS)</td><td>5.760.522.026</td><td>5.971.780.262</td></tr><tr><td>Công đoàn Cơ quan Tập đoàn Bảo Việt, Công đoàn Tập đoàn Bảo Việt</td><td>-</td><td>859.446.000</td></tr><tr><td>Các khoản phải thu khác</td><td>1.133.839.613</td><td>602.442.908</td></tr><tr><td>TỔNG CỘNG</td><td>10.063.519.533</td><td>10.057.483.435</td></tr></table>
+
+8. CHI PHÍ TRÀ TRƯỚC
+
+<table><tr><td></td><td>Ngày 31 tháng 12năm 2021VND</td><td>Ngày 31 tháng 12năm 2020VND</td></tr><tr><td colspan="3">Chi phí trả trước ngắn hạn</td></tr><tr><td>Chi phí bảo hiểm, chi phí CNTT</td><td>10.995.842.385</td><td>9.609.369.459</td></tr><tr><td>Chi phí công cụ, dụng cụ</td><td>103.877.850</td><td>261.441.197</td></tr><tr><td>Chi phí quảng cáo</td><td>3.768.903.482</td><td>3.661.129.589</td></tr><tr><td></td><td>14.868.623.717</td><td>13.531.940.245</td></tr><tr><td colspan="3">Chi phí trả trước dài hạn</td></tr><tr><td>Trả trước tiền thuê văn phòng</td><td>288.963.666</td><td>26.656.897.578</td></tr><tr><td>Chi phí công cụ, dụng cụ</td><td>2.568.377.500</td><td>1.219.111.498</td></tr><tr><td>Chi phí cải tạo văn phòng</td><td>4.477.169</td><td>1.646.979.597</td></tr><tr><td>Chi phí bảo hành, CNTT</td><td>2.745.977.194</td><td>173.068.108</td></tr><tr><td></td><td>5.607.795.529</td><td>29.696.056.781</td></tr><tr><td>TỔNG CỘNG</td><td>20.476.419.246</td><td>43.227.997.026</td></tr></table>
+
+31
+
+===== PAGE 34 =====
+Tập đoàn Bảo Việt
+
+THUYÊT MINH BÁO CÁO TÀI CHÍNH RIÊNG (tiếp theo)
+tại ngày 31 tháng 12 năm 2021 và cho năm tài chính kết thúc cùng ngày
+
+9. TÀI SẢN CÓ ĐỊNH HỮU HÌNH
+
+B09-DN
+
+<table><tr><td></td><td>Nhà cửa,vật kiến trúcVND</td><td>Máy mócthiết bịVND</td><td>Phương tiệnvận tải, thiết bịtruyền dẫnVND</td><td>Thiết bị,dụng cụ quản lýVND</td><td>Tài sảncó định khácVND</td><td>Tổng cộngVND</td></tr><tr><td colspan="7">Nguyên giá</td></tr><tr><td>Ngày 31 tháng 12 năm 2020</td><td>335.572.718.215</td><td>199.612.976.318</td><td>190.827.476.395</td><td>90.597.070.947</td><td>3.334.528.265</td><td>819.944.770.140</td></tr><tr><td>- Tăng trong năm</td><td>-</td><td>-</td><td>-</td><td>37.215.364.500</td><td>-</td><td>37.215.364.500</td></tr><tr><td>- Điều chỉnh theo quyết toán</td><td>-</td><td>163.499.681</td><td>3.498.000</td><td>28.775.000</td><td>-</td><td>195.772.681</td></tr><tr><td>- Thanh lý trong năm</td><td>-</td><td>-</td><td>-</td><td>(177.407.900)</td><td>(995.297.700)</td><td>(1.172.705.600)</td></tr><tr><td>Ngày 31 tháng 12 năm 2021</td><td>335.572.718.215</td><td>199.776.475.999</td><td>190.830.974.395</td><td>127.663.802.547</td><td>2.339.230.565</td><td>856.183.201.721</td></tr><tr><td colspan="7">Trong đó:</td></tr><tr><td>Đã khấu hao hết</td><td>8.264.120.050</td><td>86.242.214.738</td><td>133.659.903.969</td><td>16.353.238.883</td><td>1.980.850.566</td><td>246.500.328.206</td></tr><tr><td>Chờ thanh lý</td><td>-</td><td>-</td><td>34.097.800.000</td><td>333.072.997</td><td>47.900.000</td><td>34.478.772.997</td></tr><tr><td colspan="7">Giá trị khấu hao lũy kế</td></tr><tr><td>Ngày 31 tháng 12 năm 2020</td><td>145.674.356.117</td><td>123.819.613.522</td><td>160.430.019.031</td><td>39.599.127.194</td><td>2.907.298.911</td><td>472.430.414.775</td></tr><tr><td>- Khấu hao trong năm</td><td>13.790.885.006</td><td>19.958.012.640</td><td>11.905.564.323</td><td>15.806.636.982</td><td>373.577.167</td><td>61.834.676.118</td></tr><tr><td>- Điều chỉnh theo quyết toán</td><td>-</td><td>(325.676.282)</td><td>-</td><td>-</td><td>-</td><td>(325.676.282)</td></tr><tr><td>- Thanh lý trong năm</td><td>-</td><td>-</td><td>-</td><td>(177.407.900)</td><td>(991.720.529)</td><td>(1.169.128.429)</td></tr><tr><td>Ngày 31 tháng 12 năm 2021</td><td>159.465.241.123</td><td>143.451.949.880</td><td>172.335.583.354</td><td>55.228.356.276</td><td>2.289.155.549</td><td>532.770.286.182</td></tr><tr><td colspan="7">Giá trị còn lại</td></tr><tr><td>Ngày 31 tháng 12 năm 2020</td><td>189.898.362.098</td><td>75.793.362.796</td><td>30.397.457.364</td><td>50.997.943.753</td><td>427.229.354</td><td>347.514.355.365</td></tr><tr><td>Ngày 31 tháng 12 năm 2021</td><td>176.107.477.092</td><td>56.324.526.119</td><td>18.495.391.041</td><td>72.435.446.271</td><td>50.075.016</td><td>323.412.915.539</td></tr></table>
+
+32
+
+===== PAGE 35 =====
+Tập đoàn Bảo Việt
+
+B09-DN
+
+THUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG (tiếp theo)
+
+tại ngày 31 tháng 12 năm 2021 và cho năm tài chính kết thúc cùng ngày
+
+10. TÀI SẢN CÓ ĐỊNH VÔ HÌNH
+
+<table><tr><td></td><td>Quyền sử dụng đất VND</td><td>Phần mềm máy tính VND</td><td>Tổng cộng VND</td></tr><tr><td colspan="4">Nguyên giá</td></tr><tr><td>Ngày 31 tháng 12 năm 2020</td><td>63.135.267.200</td><td>372.086.409.301</td><td>435.221.676.501</td></tr><tr><td>- Tăng trong năm</td><td>-</td><td>98.554.647.231</td><td>98.554.647.231</td></tr><tr><td>Ngày 31 tháng 12 năm 2021</td><td>63.135.267.200</td><td>470.641.056.532</td><td>533.776.323.732</td></tr><tr><td colspan="4">Trong đó:</td></tr><tr><td>Đã hết khấu hao</td><td>-</td><td>66.726.167.722</td><td>66.726.167.722</td></tr><tr><td>Không sử dụng</td><td>-</td><td>190.000.000</td><td>190.000.000</td></tr><tr><td colspan="4">Giá trị hao mòn lũy kế</td></tr><tr><td>Ngày 31 tháng 12 năm 2020</td><td>29.261.808.888</td><td>124.844.064.542</td><td>154.105.873.430</td></tr><tr><td>- Hao mòn trong năm</td><td>1.708.119.868</td><td>50.678.433.955</td><td>52.386.553.823</td></tr><tr><td>Ngày 31 tháng 12 năm 2021</td><td>30.969.928.756</td><td>175.522.498.497</td><td>206.492.427.253</td></tr><tr><td colspan="4">Giá trị còn lại</td></tr><tr><td>Ngày 31 tháng 12 năm 2020</td><td>33.873.458.312</td><td>247.242.344.759</td><td>281.115.803.071</td></tr><tr><td>Ngày 31 tháng 12 năm 2021</td><td>32.165.338.444</td><td>295.118.558.035</td><td>327.283.896.479</td></tr></table>
+
+11. CHI PHÍ XÂY DỰNG CO' BẢN DỒ DẠNG
+
+<table><tr><td></td><td>Ngày 31 tháng 12năm 2021VND</td><td>Ngày 31 tháng 12năm 2020VND</td></tr><tr><td colspan="3">Mua sắm tài sản</td></tr><tr><td>- Tòa nhà hợp khối tại số 8 Lê Thái Tổ</td><td>242.242.223.019</td><td>242.242.223.019</td></tr><tr><td>- Hệ thống quản lý hạ tầng máy trạm tập trung</td><td>2.106.217.473</td><td>-</td></tr><tr><td>- Phần mềm nhân sự mới</td><td>1.106.400.000</td><td>-</td></tr><tr><td colspan="3">Xây dựng cơ bản</td></tr><tr><td>- Công trình Bảo Việt tại Hà Đông</td><td>25.588.694.226</td><td>25.588.694.226</td></tr><tr><td>- Dự án LIPA</td><td>-</td><td>39.650.759.741</td></tr><tr><td>- Các công trình khác</td><td>92.812.655</td><td>1.211.394.970</td></tr><tr><td>TỔNG CỘNG</td><td>271.136.347.373</td><td>308.693.071.956</td></tr></table>
+
+33
+
+===== PAGE 36 =====
+Tập đoàn Bảo Việt
+
+B09-DN
+
+THUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG (tiếp theo)
+
+tại ngày 31 tháng 12 năm 2021 và cho năm tài chính kết thúc cùng ngày
+
+12. CHI PHÍ ĐI VAY ĐƯỢC VỐN HÓA
+
+Trong năm 2021, Tập đoàn đã vốn hóa chi phí đi vay với tổng số tiền là 620.807.602 VND (năm 2020: 1.185.747.767 VND), là tiền lãi liên quan đến khoản vay để đầu tư Dự án LIPA.
+
+13. PHẢI TRẢ NGƯỜI BÁN NGẮN HẠN
+
+<table><tr><td></td><td>Ngày 31 tháng 12năm 2021VND</td><td>Ngày 31 tháng 12năm 2020VND</td></tr><tr><td>Công ty Cổ phần Đầu tư Xây dựng và Quảng cáo Hà Việt</td><td>830.749.150</td><td>1.969.249.150</td></tr><tr><td>Công ty Cổ phần Tập đoàn HiPT</td><td>3.625.870.900</td><td>247.940.000</td></tr><tr><td>Công ty TNHH MTV Ủng dụng Kỹ thuật và Sản xuất</td><td>2.323.869.900</td><td>-</td></tr><tr><td>Phải trả ngắn hạn khác</td><td>6.469.444.135</td><td>2.705.417.462</td></tr><tr><td>TỔNG CỘNG</td><td>13.249.934.085</td><td>4.922.606.612</td></tr></table>
+
+34
+
+===== PAGE 37 =====
+Tập đoàn Bảo Việt
+
+THUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG (tiếp theo)
+
+tại ngày 31 tháng 12 năm 2021 và cho năm tài chính kết thúc cùng ngày
+
+14. THUẾ VÀ CÁC KHOÀN (PHÀI THU)/PHÀI NỘP NHÀ NƯỚC
+
+<table><tr><td rowspan="2"></td><td colspan="2">Ngày 31 tháng 12 năm 2020</td><td rowspan="2">Số phải nộp trong năm VND</td><td rowspan="2">Số đã nộp trong năm VND</td><td colspan="2">Ngày 31 tháng 12 năm 2021</td></tr><tr><td>Phải thu VND</td><td>Phải nộp VND</td><td>Phải thu VND</td><td>Phải nộp VND</td></tr><tr><td>Thuế thu nhập doanh nghiệp</td><td>-</td><td>12.086.344.108</td><td>53.286.905.634</td><td>(44.800.000.000)</td><td>-</td><td>20.573.249.742</td></tr><tr><td>Thuế GTGT được khấu trừ</td><td>(24.051.688.981)</td><td>-</td><td>5.103.336.293</td><td>(5.103.336.293)</td><td>(24.051.688.981)</td><td>-</td></tr><tr><td>Thuế GTGT của dự án đầu tư</td><td>(24.051.688.981)</td><td>-</td><td>-</td><td>-</td><td>(24.051.688.981)</td><td>-</td></tr><tr><td>Thuế GTGT hàng bán nội địa được khấu trừ của dịch vụ CNTT</td><td>-</td><td>-</td><td>5.103.336.293</td><td>(5.103.336.293)</td><td>-</td><td>-</td></tr><tr><td>Thuế GTGT hàng bán nội địa của dịch vụ khác</td><td>-</td><td>4.106.377.352</td><td>20.430.140.517</td><td>(21.706.100.598)</td><td>-</td><td>2.830.417.271</td></tr><tr><td>Thuế thu nhập cá nhân</td><td>-</td><td>2.231.248.146</td><td>21.372.200.912</td><td>(22.039.560.204)</td><td>-</td><td>1.563.888.854</td></tr><tr><td>Các loại thuế khác</td><td>(1.299.914.027)</td><td>-</td><td>7.517.984.248</td><td>(6.089.736.715)</td><td>-</td><td>128.333.506</td></tr><tr><td>TỔNG CỘNG</td><td>(25.351.603.008)</td><td>18.423.969.606</td><td>107.710.567.604</td><td>(99.738.733.810)</td><td>(24.051.688.981)</td><td>25.095.889.373</td></tr></table>
+
+15. PHẢI TRẢ NGƯỜI LAO ĐỘNG
+
+<table><tr><td>Ngày 31 tháng 12năm 2021VND</td><td>Ngày 31 tháng 12năm 2020VND</td></tr><tr><td>66.512.398.550</td><td>62.902.494.416</td></tr><tr><td>66.512.398.550</td><td>62.902.494.416</td></tr></table>
+
+Quỹ tiền lương còn phải trả
+
+TỔNG CỘNG
+
+35
+
+B09-DN
+
+===== PAGE 38 =====
+Tập đoàn Bảo Việt
+
+B09-DN
+
+THUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG (tiếp theo)
+
+tại ngày 31 tháng 12 năm 2021 và cho năm tài chính kết thúc cùng ngày
+
+16. CHI PHÍ PHÀI TRẢ NGẮN HẠN
+
+<table><tr><td></td><td>Ngày 31 tháng 12năm 2021VND</td><td>Ngày 31 tháng 12năm 2020VND</td></tr><tr><td>Chi phí lãi vay phải trả</td><td>3.127.968.691</td><td>4.473.507.236</td></tr><tr><td>Chi phí phải trả ngắn hạn khác</td><td>1.468.500.000</td><td>1.952.500.000</td></tr><tr><td>TỔNG CỘNG</td><td>4.596.468.691</td><td>6.426.007.236</td></tr></table>
+
+17. PHẢI TRÀ NGẮN HẠN KHÁC
+
+<table><tr><td></td><td>Ngày 31 tháng 12năm 2021VND</td><td>Ngày 31 tháng 12năm 2020VND</td></tr><tr><td>Kinh phí công đoànBảo hiểm xã hội, bảo hiểm y tế, bảo hiểm thất nghiệpKinh phí cho các chương trình An sinh xã hội chở giải ngân (*)Phải trả tiền đặt cọc của các đơn vị thuê trụ sở làm việcPhải trả các bên liên quanBảo Việt Nhân thọBảo hiểm Bảo ViệtBVSCBVInvestBảo Việt BankSumitomo LifePhải trả đối tác theo cam kết góp vốn vào Trung Nam Phú Quốc (**)Phải trả phải nộp khác</td><td>402.128.532183.544.34216.179.020.9611.306.080.00024.534.028.7323.173.563.3432.604.131.53288.000.00018.425.452.26084.195.685158.685.91234.320.000.0002.149.047.095</td><td>182.942.875350.277.64120.783.479.9121.306.080.00021.636.857.9672.194.814.8952.329.881.59487.500.00016.807.646.36358.329.203158.685.91234.320.000.000953.711.144</td></tr><tr><td>TỔNG CỘNG</td><td>79.073.849.662</td><td>79.533.349.539</td></tr></table>
+
+(*) Chi phí chương trình 30A của Chính phủ và các chương trình An sinh xã hội đang chờ giải ngân theo tiến độ các công trình tài trợ.
+
+(**) Căn cứ theo các điều khoản của Hợp đồng Chuyển nhượng Cổ phần, Tập đoàn sẽ thực hiện chuyển tiền cho Công ty Cổ phần Đầu tư và Phát triển Nhà Thăng Long theo tiến độ và điều kiện cam kết để hoàn tất tỷ lệ góp vốn vào Công ty Cổ phần Trung Nam Phú Quốc.
+
+18. QUỸ KHEN THƯỜNG, PHÚC LỢI
+
+<table><tr><td></td><td>Ngày 31 tháng12 năm 2020VND</td><td>Số tăngtrong nămVND</td><td>Số đã sử dụngtrong nămVND</td><td>Ngày 31 tháng12 năm 2021VND</td></tr><tr><td>Quỹ khen thưởng</td><td>4.761.954.279</td><td>27.690.589.002</td><td>(16.201.388.964)</td><td>16.251.154.317</td></tr><tr><td>Quỹ phúc lợi</td><td>12.606.588.669</td><td>13.500.000.000</td><td>(9.404.917.520)</td><td>16.701.671.149</td></tr><tr><td>TỔNG CỘNG</td><td>17.368.542.948</td><td>41.190.589.002</td><td>(25.606.306.484)</td><td>32.952.825.466</td></tr></table>
+
+36
+
+===== PAGE 39 =====
+Tập đoàn Bảo Việt
+
+THUYÊT MINH BÁO CÁO TÀI CHÍNH RIÊNG (tiếp theo)
+
+tại ngày 31 tháng 12 năm 2021 và cho năm tài chính kết thúc cùng ngày
+
+19. VAY VÀ NỘ THUÊ TÀI CHÍNH DÀI HẠN
+
+<table><tr><td rowspan="2"></td><td colspan="4">Ngày 31 tháng 12 năm 2020</td><td colspan="2">Ngày 31 tháng 12 năm 2021</td></tr><tr><td>Giá trị VND</td><td>Số có khả năng trả nợ VND</td><td>Tăng VND</td><td>Giảm VND</td><td>Giá trị VND</td><td>Số có khả năng trả nợ VND</td></tr><tr><td colspan="7">Vay dài hạn</td></tr><tr><td>Vay ngân hàng (*)</td><td>215.067.835.214</td><td>215.067.835.214</td><td>25.572.000.000</td><td>(73.926.641.238)</td><td>166.713.193.976</td><td>166.713.193.976</td></tr><tr><td>TỔNG CỘNG</td><td>215.067.835.214</td><td>215.067.835.214</td><td>25.572.000.000</td><td>(73.926.641.238)</td><td>166.713.193.976</td><td>166.713.193.976</td></tr></table>
+
+B09-DN
+
+37
+
+===== PAGE 40 =====
+Tập đoàn Bảo Việt
+
+THUYÊT MINH BÁO CÁO TÀI CHÍNH RIÊNG (tiếp theo)
+tại ngày 31 tháng 12 năm 2021 và cho năm tài chính kết thúc cùng ngày
+
+20. VỐN CHỦ SỞ HỮU
+
+20.1 Tỉnh hình tăng giảm nguồn vốn chủ sở hữu
+
+<table><tr><td></td><td>Vốn góp của chủ sở hữu VND</td><td>Thặng dư vốn cổ phần VND</td><td>Quỹ đầu tư phát triển VND</td><td>Lợi nhuận sau thuế chưa phân phối VND</td><td>Tổng cộng VND</td></tr><tr><td>Ngày 31 tháng 12 năm 2019</td><td>7.423.227.640.000</td><td>7.310.458.742.807</td><td>727.465.816.478</td><td>2.362.105.343.901</td><td>17.823.257.543.186</td></tr><tr><td>- Chia cổ tức cho năm 2019</td><td>-</td><td>-</td><td>-</td><td>(593.858.211.200)</td><td>(593.858.211.200)</td></tr><tr><td>- Trích Quỹ Khen thưởng phúc lợi</td><td>-</td><td>-</td><td>-</td><td>(33.203.549.136)</td><td>(33.203.549.136)</td></tr><tr><td>- Trích Quỹ Phục vụ hoạt động An sinh xã hội</td><td>-</td><td>-</td><td>-</td><td>(10.843.169.505)</td><td>(10.843.169.505)</td></tr><tr><td>- Trích Quỹ Đầu tư phát triển</td><td>-</td><td>-</td><td>162.648.000.000</td><td>(162.648.000.000)</td><td>-</td></tr><tr><td>- Lợi nhuận trong năm</td><td>-</td><td>-</td><td>-</td><td>1.011.715.583.775</td><td>1.011.715.583.775</td></tr><tr><td>- Chi thù lao cho Hội đồng Quản trị và Ban kiểm soát</td><td>-</td><td>-</td><td>-</td><td>(1.754.413.793)</td><td>(1.754.413.793)</td></tr><tr><td>Ngày 31 tháng 12 năm 2020</td><td>7.423.227.640.000</td><td>7.310.458.742.807</td><td>890.113.816.478</td><td>2.571.513.584.042</td><td>18.195.313.783.327</td></tr><tr><td>- Chia cổ tức cho năm 2020</td><td>-</td><td>-</td><td>-</td><td>(666.977.003.454)</td><td>(666.977.003.454)</td></tr><tr><td>- Trích Quỹ khen thưởng phúc lợi (*)</td><td>-</td><td>-</td><td>-</td><td>(41.190.589.002)</td><td>(41.190.589.002)</td></tr><tr><td>- Trích Quỹ Đầu tư phát triển (*)</td><td>-</td><td>-</td><td>303.514.675.133</td><td>(303.514.675.133)</td><td>-</td></tr><tr><td>- Lợi nhuận trong năm</td><td>-</td><td>-</td><td>-</td><td>1.030.563.093.756</td><td>1.030.563.093.756</td></tr><tr><td>- Tăng khác</td><td>-</td><td>-</td><td>-</td><td>1.754.413.793</td><td>1.754.413.793</td></tr><tr><td>Ngày 31 tháng 12 năm 2021</td><td>7.423.227.640.000</td><td>7.310.458.742.807</td><td>1.193.628.491.611</td><td>2.592.148.824.002</td><td>18.519.463.698.420</td></tr></table>
+
+(*) Theo Nghị quyết Đại hội đồng cổ đông thường niên năm 2021 ngày 29 tháng 06 năm 2021, Tập đoàn trích 30% lợi nhuận sau thuế 2020 (tương đương với số tiền 303.514.675.133 VND) cho Quỹ Đầu tư phát triển và 4,07% lợi nhuận sau thuế 2020 (tương đương với số tiền 41.190.589.002 VND) cho các Quỹ Khen thưởng phúc lợi cho người lao động và Quỹ thường cho người quản lý của Tập đoàn.
+
+B09-DN
+
+38
+
+===== PAGE 41 =====
+Tập đoàn Bảo Việt
+
+THUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG (tiếp theo)
+
+tại ngày 31 tháng 12 năm 2021 và cho năm tài chính kết thúc cùng ngày
+
+20. VỐN CHỦ SỞ HỮU (tiếp theo)
+
+20.2 Chi tiết vốn đầu tư của chủ sở hữu
+
+Ngày 31 tháng 12 năm 2021
+
+Ngày 31 tháng 12 năm 2020
+
+<table><tr><td></td><td>Cổ phiếu thường VND</td><td>Tổng số VND</td><td>Cổ phiếu thường VND</td><td>Tổng số VND</td></tr><tr><td>Số vốn góp của cổ đông</td><td>7.423.227.640.000</td><td>7.423.227.640.000</td><td>7.423.227.640.000</td><td>7.423.227.640.000</td></tr><tr><td>Thặng dư vốn cổ phần</td><td>7.310.458.742.807</td><td>7.310.458.742.807</td><td>7.310.458.742.807</td><td>7.310.458.742.807</td></tr><tr><td>TỔNG CỘNG</td><td>14.733.686.382.807</td><td>14.733.686.382.807</td><td>14.733.686.382.807</td><td>14.733.686.382.807</td></tr><tr><td colspan="5">20.3 Các giao dịch về vốn với các chủ sở hữu và phân phối cổ tức, lợi nhuận</td></tr><tr><td></td><td></td><td></td><td>Năm 2021 VND</td><td>Năm 2020 VND</td></tr><tr><td colspan="5">Vốn góp của chủ sở hữu</td></tr><tr><td>Ngày 01 tháng 01</td><td></td><td></td><td>7.423.227.640.000</td><td>7.423.227.640.000</td></tr><tr><td>Vốn góp tăng trong năm</td><td></td><td></td><td>-</td><td>-</td></tr><tr><td>Ngày 31 tháng 12</td><td></td><td></td><td>7.423.227.640.000</td><td>7.423.227.640.000</td></tr><tr><td>Cổ tức, lợi nhuận đã chia</td><td></td><td></td><td>666.977.003.454</td><td>593.858.211.200</td></tr></table>
+
+39
+
+B09-DN
+
+===== PAGE 42 =====
+Tập đoàn Bảo Việt
+
+THUYẾT MINH BẢO CÁO TÀI CHÍNH RIÊNG (tiếp theo)
+tại ngày 31 tháng 12 năm 2021 và cho năm tài chính kết thúc cùng ngày
+
+20. VỐN CHỦ SỞ HỮU (tiếp theo)
+20.4 Cổ tức
+
+<table><tr><td colspan="2"></td><td>Cho năm tài chínhkết thúc ngày 31tháng 12 năm 2021VND</td><td>Cho năm tài chínhkết thúc ngày 31tháng 12 năm 2020VND</td></tr><tr><td rowspan="2" colspan="2">Cổ tức đã công bố và đã trả trong nămCổ tức trên cổ phiếu phổ thông(cổ tức cho năm 2020: 898,5VND/cổ phiếu, cổ tức cho năm 2019: 800VND/cổ phiếu)</td><td>666.977.003.454</td><td>593.858.211.200</td></tr><tr><td>666.977.003.454</td><td>593.858.211.200</td></tr><tr><td colspan="4">Thực hiện Nghị quyết Đại hội đồng cổ đông thường niên năm 2021 ngày 29 tháng 06 năm 2021, Tập đoàn Bảo Việt sẽ chi trả cổ tức cho năm tài chính 2020 là 8,985% (898,5 VND/cổ phiếu) tính trên vốn điều lệ 7.423.227.640.000 VND, tương đương với số tiền 666.977.003.454 VND. Việc chi trả cổ tức đã được thực hiện vào tháng 11 năm 2021.</td></tr><tr><td colspan="4">20.5 Cổ phiếu</td></tr><tr><td rowspan="2"></td><td colspan="2">Ngày 31 tháng 12 năm 2021</td><td>Ngày 31 tháng 12 năm 2020</td></tr><tr><td>Số lượngCổ phiếu</td><td>Giá trịVND</td><td>Số lượngCổ phiếuGiá trịVND</td></tr><tr><td>Cổ phiếu đăng ký phát hành</td><td>742.322.764</td><td>7.423.227.640.000</td><td>742.322.7647.423.227.640.000</td></tr><tr><td rowspan="2">Cổ phiếu đã bán ra công chúngCổ phiếu phổ thông</td><td>742.322.764</td><td>7.423.227.640.000</td><td>742.322.7647.423.227.640.000</td></tr><tr><td>742.322.764</td><td>7.423.227.640.000</td><td>742.322.7647.423.227.640.000</td></tr><tr><td rowspan="2">Cổ phiếu đang lưu hànhCổ phiếu phổ thông</td><td>742.322.764</td><td>7.423.227.640.000</td><td>742.322.7647.423.227.640.000</td></tr><tr><td>742.322.764</td><td>7.423.227.640.000</td><td>742.322.7647.423.227.640.000</td></tr></table>
+
+B09-DN
+
+40
+
+===== PAGE 43 =====
+Tập đoàn Bảo Việt
+
+B09-DN
+
+THUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG (tiếp theo)
+
+tại ngày 31 tháng 12 năm 2021 và cho năm tài chính kết thúc cùng ngày
+
+21. DOANH THU HOẠT ĐỘNG KINH DOANH
+
+<table><tr><td></td><td>Cho năm tài chínhkết thúc ngày 31tháng 12 năm 2021VND</td><td>Cho năm tài chínhkết thúc ngày 31tháng 12 năm 2020VND</td></tr><tr><td>Doanh thu từ hoạt động đầu tư tài chính</td><td>1.154.096.473.050</td><td>1.065.556.415.529</td></tr><tr><td>- Lãi tiền gửi không kỳ hạn</td><td>150.761.853</td><td>373.465.465</td></tr><tr><td>- Lãi tiền gửi có kỳ hạn</td><td>164.516.561.594</td><td>270.622.306.531</td></tr><tr><td>- Lãi trái phiếu</td><td>70.193.905.726</td><td>75.785.492.493</td></tr><tr><td>- Cổ tức và lợi nhuận được chia</td><td>826.755.373.661</td><td>717.777.283.554</td></tr><tr><td>- (Lỗ) chênh lệch tỷ giá chưa thực hiện</td><td>-</td><td>(1.339.514)</td></tr><tr><td>- Lãi đầu tư chứng khoán</td><td>92.479.870.216</td><td>999.207.000</td></tr><tr><td>Dịch vụ đào tạo</td><td>1.891.720.373</td><td>2.978.558.500</td></tr><tr><td>Cho thuê văn phòng</td><td>70.728.526.422</td><td>70.479.621.537</td></tr><tr><td>Dịch vụ công nghệ thông tin</td><td>262.795.817.661</td><td>269.911.801.016</td></tr><tr><td>TỔNG CỘNG</td><td>1.489.512.537.506</td><td>1.408.926.396.582</td></tr></table>
+
+22. CHI PHÍ HOẠT ĐỘNG KINH DOANH
+
+<table><tr><td></td><td>Cho năm tài chínhkết thúc ngày 31tháng 12 năm 2021VND</td><td>Cho năm tài chínhkết thúc ngày 31tháng 12 năm 2020VND</td></tr><tr><td>Chi phí hoạt động tài chính</td><td>(53.524.785.546)</td><td>(97.572.699.571)</td></tr><tr><td>- Hoàn nhập dự phòng giảm giá đầu tư</td><td>(54.978.620.830)</td><td>(99.040.020.541)</td></tr><tr><td>- Chi phí lãi vay và chi phí tài chính khác</td><td>1.453.835.284</td><td>1.467.320.970</td></tr><tr><td>Chi phí nhân viên</td><td>67.515.525.065</td><td>67.316.818.312</td></tr><tr><td>Chi phí khấu hao tài sản cố định</td><td>98.390.552.463</td><td>88.049.877.976</td></tr><tr><td>Chi phí mua ngoài hoạt động CNTT (bao gồm chi phí lãi vay đầu tư tài sản CNTT)</td><td>70.715.670.891</td><td>64.849.009.611</td></tr><tr><td>Tiền thuê đất</td><td>9.732.375.466</td><td>8.370.845.696</td></tr><tr><td>Chi phí đào tạo</td><td>1.473.880.907</td><td>2.171.590.060</td></tr><tr><td>Chi phí quản lý tòa nhà</td><td>4.494.623.306</td><td>5.028.428.704</td></tr><tr><td>Chi khác</td><td>26.012.523.879</td><td>25.916.778.730</td></tr><tr><td>TỔNG CỘNG</td><td>224.810.366.431</td><td>164.130.649.518</td></tr></table>
+
+41
+
+===== PAGE 44 =====
+Tập đoàn Bảo Việt
+
+B09-DN
+
+THUYÊT MINH BÁO CÁO TÀI CHÍNH RIÊNG (tiếp theo)
+
+tại ngày 31 tháng 12 năm 2021 và cho năm tài chính kết thúc cùng ngày
+
+23. CHI PHÍ QUẢN LÝ DOANH NGHIỆP
+
+<table><tr><td></td><td>Cho năm tài chínhkết thúc ngày 31tháng 12 năm 2021VND</td><td>Cho năm tài chínhkết thúc ngày 31tháng 12 năm 2020VND</td></tr><tr><td>Chi phí nhân viên</td><td>68.815.081.524</td><td>65.277.664.448</td></tr><tr><td>Chi phí vật liệu quản lý và đồ dùng văn phòng</td><td>780.514.355</td><td>1.204.346.460</td></tr><tr><td>Chi phí khấu hao tài sản cố định</td><td>15.505.001.196</td><td>13.857.428.027</td></tr><tr><td>Thuế, phí, lệ phí</td><td>203.143.350</td><td>110.840.102</td></tr><tr><td>Tiền thuê đất</td><td>1.872.680.189</td><td>1.799.672.652</td></tr><tr><td>Chi phí tư vấn</td><td>3.843.226.078</td><td>5.982.937.500</td></tr><tr><td>Chi phí dịch vụ mua ngoài</td><td>55.374.101.064</td><td>62.487.931.306</td></tr><tr><td>- Chi tuyển truyền, quảng cáo</td><td>6.603.660.813</td><td>8.608.052.998</td></tr><tr><td>- Chi phí thuê văn phòng</td><td>25.761.956.460</td><td>25.761.956.465</td></tr><tr><td>- Chi khác</td><td>23.008.483.791</td><td>28.117.921.843</td></tr><tr><td>Chi phí quản lý khác</td><td>34.740.377.847</td><td>28.097.185.033</td></tr><tr><td>- Các khoản trích theo lương, công tác phí</td><td>12.069.780.735</td><td>12.747.673.477</td></tr><tr><td>- Chi an sinh xã hội, tài trợ giáo dục, y tế</td><td>2.832.458.462</td><td>2.020.492.350</td></tr><tr><td>- Chi bảo hiểm con người và bảo hiểm tài sản</td><td>6.041.020.640</td><td>5.736.629.327</td></tr><tr><td>- Chi khác</td><td>13.797.118.010</td><td>7.592.389.879</td></tr><tr><td>TỔNG CỘNG</td><td>181.134.125.603</td><td>178.818.005.528</td></tr></table>
+
+42
+
+===== PAGE 45 =====
+Tập đoàn Bảo Việt
+
+B09-DN
+
+THUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG (tiếp theo)
+
+tại ngày 31 tháng 12 năm 2021 và cho năm tài chính kết thúc cùng ngày
+
+24. THUẾ THU NHẬP DOANH NGHIỆP
+
+Mức thuế thu nhập doanh nghiệp ("TNDN") áp dụng cho Tập đoàn cho năm tài chính kết thúc ngày 31 tháng 12 năm 2021 là 20% (cho năm tài chính kết thúc ngày 31 tháng 12 năm 2020: 20%).
+
+Các báo cáo thuế của Tập đoàn sẽ chịu sự kiểm tra của cơ quan thuế. Do việc áp dụng luật và các quy định về thuế đối với các loại nghiệp vụ khác nhau có thể được giải thích theo nhiều cách khác nhau, số thuế được trình bày trên báo cáo tài chính riêng có thể sẽ bị thay đổi theo quyết định cuối cùng của cơ quan thuế.
+
+<table><tr><td></td><td>Thuyết minh</td><td>Cho năm tài chính kết thúc ngày 31 tháng 12 năm 2021 VND</td><td>Cho năm tài chính kết thúc ngày 31 tháng 12 năm 2020 VND</td></tr><tr><td>Chi phí thuế TNDN hiện hành</td><td>24.1</td><td>53.286.905.634</td><td>49.518.591.186</td></tr><tr><td>Chi phí thuế TNDN hoãn lại</td><td>24.2</td><td>-</td><td>5.682.570.000</td></tr><tr><td>TỔNG CỘNG</td><td></td><td>53.286.905.634</td><td>55.201.161.186</td></tr></table>
+
+24.1 Thuế TNDN hiện hành
+
+Thuế TNDN hiện hành phải trả được xác định dựa trên thu nhập chịu thuế của năm hiện tại. Thu nhập chịu thuế của Tập đoàn khác với thu nhập được báo cáo trong Báo cáo kết quả hoạt động kinh doanh riêng vi thu nhập chịu thuế không bao gồm các khoản mục thu nhập chịu thuế hay chỉ phí được khấu trừ cho mục đích tính thuế trong các kỳ khác và cũng không bao gồm các khoản mục không phải chịu thuế hay không được khấu trừ cho mục đích tính thuế. Thuế TNDN hiện hành phải trả của Tập đoàn được tính theo thuế suất đã ban hành đến ngày kết thúc kỳ kế toán năm.
+
+43
+
+===== PAGE 46 =====
+Tập đoàn Bảo Việt
+
+B09-DN
+
+THUYÊT MINH BÁO CÁO TÀI CHÍNH RIÊNG (tiếp theo)
+
+tại ngày 31 tháng 12 năm 2021 và cho năm tài chính kết thúc cùng ngày
+
+24. THUẾ THU NHẬP DOANH NGHIỆP (tiếp theo)
+
+24.1 Thuế TNDN hiện hành (tiếp theo)
+
+Dưới đây là đối chiếu lợi nhuận thuần trước thuế và thu nhập chịu thuế tính thuế:
+
+<table><tr><td></td><td>Cho năm tài chính kết thúc ngày 31 tháng 12 năm 2021 VND</td><td>Cho năm tài chính kết thúc ngày 31 tháng 12 năm 2020 VND</td></tr><tr><td>Lợi nhuận kế toán trước thuế</td><td>1.083.849.999.390</td><td>1.066.916.744.961</td></tr><tr><td colspan="3">Các khoản điều chỉnh giảm:</td></tr><tr><td>- Thu nhập không chịu thuế từ cổ tức, lợi nhuận được chia</td><td>(826.755.373.661)</td><td>(717.777.283.554)</td></tr><tr><td>- Hoàn nhập chênh lệch tạm thời chi phí dự phòng tài chính chưa được trừ các năm trước</td><td>-</td><td>(108.358.601.561)</td></tr><tr><td colspan="3">Các khoản điều chỉnh tăng:</td></tr><tr><td>- Lỗ chênh lệch tỷ giá chưa thực hiện</td><td>3.709.422</td><td>1.339.514</td></tr><tr><td>- Chi phí không được khấu trừ thuế</td><td>9.336.193.021</td><td>6.802.756.569</td></tr><tr><td>Thu nhập chịu thuế ước tính trong năm</td><td>266.434.528.172</td><td>247.584.955.929</td></tr><tr><td>Thuế suất thuế thu nhập doanh nghiệp</td><td>20%</td><td>20%</td></tr><tr><td>Thuế TNDN phải trả ước tính trên thu nhập chịu thuế</td><td>53.286.905.634</td><td>49.516.991.186</td></tr><tr><td>Điều chỉnh thuế phải trả các năm trước</td><td>-</td><td>1.600.000</td></tr><tr><td>Thuế TNDN phải trả ước tính trên thu nhập chịu thuế</td><td>53.286.905.634</td><td>49.518.591.186</td></tr><tr><td>Thuế TNDN phải trả/(có thể thu hồi) đầu năm</td><td>12.086.344.108</td><td>(5.430.647.078)</td></tr><tr><td>Thuế TNDN đã trả trong năm</td><td>(44.800.000.000)</td><td>(32.001.600.000)</td></tr><tr><td>Thuế TNDN phải trả cuối năm</td><td>20.573.249.742</td><td>12.086.344.108</td></tr></table>
+
+24.2 Thuế TNDN hoãn lại
+
+Tập đoàn đã ghi nhận một số tài sản thuế thu nhập hoãn lại và thuế thu nhập hoãn lại phải trả với các biến động trong năm nay và năm trước như sau:
+
+<table><tr><td rowspan="2"></td><td colspan="2">Bảng cân đối kế toán riêng</td><td colspan="2">Báo cáo kết quả kinh doanh riêng</td></tr><tr><td>Ngày 31 tháng12 năm 2021VND</td><td>Ngày 31 tháng12 năm 2020VND</td><td>Cho năm tài chính kết thúc ngày 31 tháng12 năm 2021VND</td><td>Cho năm tài chính kết thúc ngày 31 tháng12 năm 2020VND</td></tr><tr><td>Tài sản thuế thu nhập hoãn lại</td><td>-</td><td>-</td><td>-</td><td>(5.682.570.000)</td></tr><tr><td>Chi phí thuế thu nhập hoãn lại tính vào kết quả hoạt động riêng</td><td>-</td><td>-</td><td>-</td><td>(5.682.570.000)</td></tr></table>
+
+44
+
+===== PAGE 47 =====
+Tập đoàn Bảo Việt
+
+B09-DN
+
+THUYÊT MINH BÁO CÁO TÀI CHÍNH RIÊNG (tiếp theo)
+
+tại ngày 31 tháng 12 năm 2021 và cho năm tài chính kết thúc cùng ngày
+
+25. CÁC KHOÀN MỤC NGOÀI BẢNG CÂN ĐỐI KẾ TOÁN RIÊNG
+
+<table><tr><td></td><td>Ngày 31 tháng 12năm 2021</td><td>Ngày 31 tháng 12năm 2020</td></tr><tr><td>Ngoại tệ (USD)</td><td>10.303,95</td><td>10.303,95</td></tr><tr><td>Lãi tiền gửi, trái phiếu dự thu theo hợp đồng (VND)</td><td>707.176.873.631</td><td>658.164.564.315</td></tr></table>
+
+26. GIAO DỊCH VỚI CÁC BÊN LIÊN QUAN
+
+Các bên liên quan có giao dịch với Tập đoàn trong năm bao gồm:
+
+<table><tr><td>Các bên liên quan</td><td>Quan hệ</td></tr><tr><td>Bộ Tài chính</td><td>Cổ đông sáng lập</td></tr><tr><td>SCIC</td><td>Cổ đông sáng lập</td></tr><tr><td>Sumitomo Life</td><td>Cổ đông chiến lược</td></tr><tr><td>Bảo hiểm Bảo Việt</td><td>Công ty con</td></tr><tr><td>Bảo Việt Nhân thọ</td><td>Công ty con</td></tr><tr><td>BVF</td><td>Công ty con</td></tr><tr><td>BVSC</td><td>Công ty con</td></tr><tr><td>BVInvest</td><td>Công ty con</td></tr><tr><td>Bảo Việt Bank</td><td>Công ty liên kết</td></tr><tr><td>Trung Nam Phú Quốc</td><td>Công ty liên kết</td></tr><tr><td>PLT</td><td>Công ty liên kết</td></tr><tr><td>Hòn Tầm Biển Nha Trang</td><td>Công ty liên kết</td></tr><tr><td>Thủy điện Nậm Mu</td><td>Công ty liên kết</td></tr><tr><td>Long Việt</td><td>Công ty liên kết</td></tr><tr><td>Tokio Marine Việt Nam</td><td>Công ty liên doanh</td></tr></table>
+
+Giao dịch trọng yếu của Tập đoàn với các bên liên quan trong năm:
+
+<table><tr><td colspan="2"></td><td rowspan="2">Cho năm tài chínhkết thúc ngày 31tháng 12 năm2021VND</td><td rowspan="2">Cho năm tài chínhkết thúc ngày 31tháng 12 năm2020VND</td></tr><tr><td>Các bên liên quan</td><td>Giao dịch</td></tr><tr><td colspan="4">Cổ đông sáng lập</td></tr><tr><td>Bộ Tài chính</td><td>Cổ tức đã trả</td><td>(433.535.055.300)</td><td>(386.007.840.000)</td></tr><tr><td>SCIC</td><td>Cổ tức đã trả</td><td>(19.905.728.400)</td><td>(17.723.520.000)</td></tr><tr><td colspan="4">Cổ đông chiến lược</td></tr><tr><td>Sumitomo Life</td><td>Doanh thu cho thuê văn phòngCổ tức đã trả</td><td>583.244.408(147.304.960.768)</td><td>577.039.680(131.156.336.800)</td></tr><tr><td colspan="4">Công ty con</td></tr><tr><td>Bảo Việt Nhân thọ</td><td>Chuyển tiền tăng vốnLợi nhuận được nhậnDoanh thu dịch vụ CNTTDoanh thu phí đào tạoChi phí mua bảo hiểm nhân thọThu từ phân bổ chi phíDoanh thu cho thuê văn phòng</td><td>(1.000.000.000.000)413.107.000.000167.836.618.4301.664.159.783(5.807.819.560)2.618.419.103586.296.480</td><td>(850.000.000.000)520.160.000.000177.820.913.9022.756.801.672(5.939.608.900)2.780.784.988-</td></tr></table>
+
+45
+
+\( G_{\text{总}} = N \)
+
+===== PAGE 48 =====
+Tập đoàn Bảo Việt
+
+B09-DN
+
+THUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG (tiếp theo)
+
+tại ngày 31 tháng 12 năm 2021 và cho năm tài chính kết thúc cùng ngày
+
+26. GIAO DỊCH VỚI CÁC BÊN LIÊN QUAN (tiếp theo)
+
+Giao dịch trọng yếu của Tập đoàn với các bên liên quan trọng năm (tiếp theo):
+
+<table><tr><td>Các bên liên quan</td><td>Giao dịch</td><td>Cho năm tài chính kết thúc ngày 31 tháng 12 năm 2021 VND</td><td>Cho năm tài chính kết thúc ngày 31 tháng 12 năm 2020 VND</td></tr><tr><td colspan="4">Công ty con (tiếp theo)</td></tr><tr><td>Bảo hiểm Bảo Việt</td><td>Lợi nhuận được nhậnDoanh thu dịch vụ CNTTThu từ phân bổ chi phíDoanh thu phí đào tạoDoanh thu cho thuê văn phòngChi phí mua bảo hiểm</td><td>226.613.000.00087.880.607.9042.618.419.103227.560.5901.933.067.372(3.582.712.777)</td><td>48.405.000.00083.640.766.9692.780.784.988193.756.8282.216.255.584(3.485.298.958)</td></tr><tr><td>BVF</td><td>Lợi nhuận được nhậnDoanh thu dịch vụ CNTTDoanh thu phí đào tạo</td><td>48.463.000.0001.705.112.155-</td><td>30.435.000.0001.591.180.75312.000.000</td></tr><tr><td>BVSC</td><td>Cổ tức được nhậnDoanh thu dịch vụ CNTTPhi dịch vụ chứng khoánPhí tự vấn tổ chức hợp ĐHĐCDDoanh thu phí đào tạo</td><td>34.624.954.4001.511.454.396(624.563.486)(100.000.000)-</td><td>43.281.193.0003.045.329.432(1.995.449.270)(100.000.000)16.000.000</td></tr><tr><td>BVInvest</td><td>Lợi nhuận được nhậnDoanh thu cho thuê văn phòng và khai thác bãi xeDoanh thu dịch vụ CNTTPhi quản lý tòa nhà và thủ lao ủy thác cho thuê văn phòngChi phí sửa chữa và các dịch vụ khácChi phí năng lượng</td><td>13.935.000.00061.080.350.997294.414.656(5.814.484.789)(4.328.281.536)(6.420.597.611)</td><td>-60.707.599.174309.140.523(6.283.601.336)(4.005.250.930)(6.115.261.350)</td></tr></table>
+
+Công ty liên doanh, liên kết
+
+<table><tr><td rowspan="4">Bảo Việt Bank</td><td>Doanh thu dịch vụ CNTT</td><td>3.467.610.120</td><td>3.504.469.437</td></tr><tr><td>Doanh thu lãi tiền gửi</td><td>20.857.473.276</td><td>104.934.353.499</td></tr><tr><td>Doanh thu lãi trái phiếu</td><td>65.609.999.998</td><td>68.914.358.815</td></tr><tr><td>Doanh thu cho thuê văn phòng và phí giữ xe</td><td>377.025.303</td><td>636.318.576</td></tr><tr><td>Tokio Marine Việt Nam</td><td>Cổ tức đã nhận</td><td>52.811.609.061</td><td>38.098.894.254</td></tr></table>
+
+46
+
+===== PAGE 49 =====
+Tập đoàn Bảo Việt
+
+B09-DN
+
+THUYÊT MINH BÁO CÁO TÀI CHÍNH RIÊNG (tiếp theo)
+
+tại ngày 31 tháng 12 năm 2021 và cho năm tài chính kết thúc cùng ngày
+
+26. GIAO DỊCH VỚI CÁC BÊN LIÊN QUAN (tiếp theo)
+
+Số dư các khoản phải thu và phải trả trọng yếu với các bên liên quan tại ngày kết thúc kỳ kế toán năm:
+
+<table><tr><td>Bên liên quan</td><td>Phải thu/(phải trả)</td><td>Ngày 31 tháng 12năm 2021VND</td><td>Ngày 31 tháng 12năm 2020VND</td></tr><tr><td colspan="4">Cổ đông chiến lược</td></tr><tr><td>Sumitomo Life</td><td>Phải trả tiền đặt cọc thuê văn phòng, trả trước tiền thuê văn phòng</td><td>(158.685.912)</td><td>(317.371.824)</td></tr><tr><td colspan="4">Công ty con</td></tr><tr><td rowspan="6">Bảo Việt Nhân thọ</td><td>Phải thu về lợi nhuận</td><td>413.107.000.000</td><td>520.160.000.000</td></tr><tr><td>Phải thu chi phí CNTT</td><td>45.331.330.927</td><td>49.475.591.284</td></tr><tr><td>Phải thu từ phân bổ chi phí</td><td>2.813.905.869</td><td>2.985.890.131</td></tr><tr><td>Phải thu/(phải trả) dự án OSS</td><td>66.355.144</td><td>(50.650.937)</td></tr><tr><td>Phải trả khoản An sinh xã hội</td><td>(2.701.299.692)</td><td>(2.144.163.958)</td></tr><tr><td>Phải trả tiền đặt cọc thuê văn phòng</td><td>(472.263.651)</td><td>-</td></tr><tr><td rowspan="8">Bảo hiểm Bảo Việt</td><td>Phải thu về lợi nhuận</td><td>226.613.000.000</td><td>48.405.000.000</td></tr><tr><td>Phải thu chi phí CNTT</td><td>22.860.171.908</td><td>21.186.321.442</td></tr><tr><td>Phải thu từ phân bổ chi phí</td><td>2.813.905.869</td><td>2.985.890.131</td></tr><tr><td>Phải trả khoản An sinh xã hội</td><td>(2.400.974.770)</td><td>(2.076.073.895)</td></tr><tr><td>Phải thu/(phải trả) dự án OSS</td><td>66.355.144</td><td>(50.650.937)</td></tr><tr><td>Phải thu hoạt động đào tạo</td><td>227.560.590</td><td>-</td></tr><tr><td>Các khoản phải trả khác</td><td>(203.156.762)</td><td>(203.156.762)</td></tr><tr><td>Phải thu tiền chi thuê văn phòng</td><td>94.806.489</td><td>-</td></tr><tr><td rowspan="3">BVF</td><td>Phải thu về lợi nhuận</td><td>48.463.000.000</td><td>30.435.000.000</td></tr><tr><td>Phải thu chi phí CNTT</td><td>570.853.600</td><td>505.701.477</td></tr><tr><td>Phải thu khoản An sinh xã hội</td><td>3.000.000.000</td><td>2.017.485.134</td></tr></table>
+
+47
+
+===== PAGE 50 =====
+Tập đoàn Bảo Việt
+
+B09-DN
+
+THUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG (tiếp theo)
+
+tại ngày 31 tháng 12 năm 2021 và cho năm tài chính kết thúc cùng ngày
+
+26. GIAO DỊCH VỚI CÁC BÊN LIÊN QUAN (tiếp theo)
+
+Số dư các khoản phải thu và phải trả trọng yếu với các bên liên quan tại ngày kết thúc kỳ kế toán năm (tiếp theo):
+
+<table><tr><td>Bên liên quan</td><td>Phải thu/(phải trả)</td><td>Ngày 31 tháng 12năm 2021VND</td><td>Ngày 31 tháng 12năm 2020VND</td></tr><tr><td colspan="4">Công ty con (tiếp theo)</td></tr><tr><td rowspan="4">BVSC</td><td>Tiền gửi giao dịch chứng khoán</td><td>1.153.321.349</td><td>158.195.225</td></tr><tr><td>Phải thu chi phí CNTT</td><td>831.101.913</td><td>837.367.060</td></tr><tr><td>Phải thu khác</td><td>50.000.000</td><td>50.000.000</td></tr><tr><td>Phải trả khác</td><td>(88.000.000)</td><td>(87.500.000)</td></tr><tr><td rowspan="8">BVInvest</td><td>Phải thu về lợi nhuận</td><td>13.935.000.000</td><td>5.769.110.719</td></tr><tr><td>Phải thu chi phí CNTT</td><td>80.572.855</td><td>84.577.466</td></tr><tr><td>Phải thu tiền cho thuê văn phòng và phí giữ xe</td><td>15.695.443.193</td><td>650.443.773</td></tr><tr><td>Phải thu khác</td><td>203.206.590</td><td>203.206.590</td></tr><tr><td>Phải trả phí quản lý tòa nhà và thù lao ủy thác</td><td>(2.339.020.120)</td><td>(1.805.844.611)</td></tr><tr><td>Phải trả khác</td><td>(2.688.456.307)</td><td>(1.758.433.409)</td></tr><tr><td>Phải trả tiền đặt cọc thuê văn phòng</td><td>(13.397.975.833)</td><td>(13.243.368.343)</td></tr><tr><td>Tạm ứng hợp đồng sửa chữa</td><td>9.053.950.000</td><td>-</td></tr><tr><td colspan="4">Công ty liên kết</td></tr><tr><td rowspan="6">Bảo Việt Bank</td><td>Số dư tiền gửi thanh toán</td><td>63.071.013.883</td><td>32.924.302.178</td></tr><tr><td>Số dư tiền gửi có kỳ hạn</td><td>189.000.000.000</td><td>1.250.000.000.000</td></tr><tr><td>Số dư trái phiếu</td><td>810.000.000.000</td><td>810.000.000.000</td></tr><tr><td>Phải thu từ hoạt động đầu tư tiền gửi và trái phiếu</td><td>4.421.142.465</td><td>78.997.232.878</td></tr><tr><td>Phải thu chi phí CNTT</td><td>929.687.849</td><td>940.364.214</td></tr><tr><td>Phải trả tiền đặt cọc thuê văn phòng</td><td>(84.195.685)</td><td>(58.329.203)</td></tr></table>
+
+48
+
+===== PAGE 51 =====
+Tập đoàn Bảo Việt
+
+B09-DN
+
+THUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG (tiếp theo)
+
+tại ngày 31 tháng 12 năm 2021 và cho năm tài chính kết thúc cùng ngày
+
+26. GIAO DỊCH VỚI CÁC BÊN LIÊN QUAN (tiếp theo)
+
+Các giao dịch với các bên liên quan khác
+
+Thù lao của các thành viên Hội đồng Quản trị, tiền lương sau thuế TNCN của Tổng Giám đốc và những Người quản lý khác của Tập đoàn, năm 2021, như sau:
+
+<table><tr><td></td><td>Cho năm tài chínhkết thúc ngày 31tháng 12 năm 2021VND</td><td>Cho năm tài chínhkết thúc ngày 31tháng 12 năm 2020VND</td></tr><tr><td colspan="3">Thù lao của thành viên Hội đồng Quản trị</td></tr><tr><td>Ông Kenji Yoneda</td><td>69.333.333</td><td>228.000.000</td></tr><tr><td>Ông Teruo Shimmen</td><td>240.000.000</td><td>228.000.000</td></tr><tr><td>Ông Arai Kazuhiko</td><td>170.666.667</td><td>-</td></tr><tr><td>Ông Nguyễn Đình An</td><td>240.000.000</td><td>114.000.000</td></tr><tr><td>Bà Thân Hiền Anh</td><td>240.000.000</td><td>228.000.000</td></tr><tr><td>Ông Đỗ Trường Minh</td><td>240.000.000</td><td>228.000.000</td></tr><tr><td>Bà Trần Thị Diệu Hằng</td><td>240.000.000</td><td>228.000.000</td></tr><tr><td>Ông Nguyễn Xuân Việt</td><td>240.000.000</td><td>228.000.000</td></tr><tr><td>Ông Nguyễn Minh Hoàng</td><td>-</td><td>32.413.793</td></tr><tr><td colspan="3">Tiền lương của Tổng Giám đốc và Người quản lý khác</td></tr><tr><td>Ông Đào Đình Thi</td><td>1.228.757.948</td><td>1.188.203.387</td></tr><tr><td>Ông Đỗ Trường Minh</td><td>1.102.092.191</td><td>1.037.109.208</td></tr><tr><td>Ông Ông Tiến Hùng</td><td>825.196.450</td><td>778.413.905</td></tr><tr><td>Ông Nguyễn Xuân Hòa</td><td>990.628.204</td><td>939.102.524</td></tr></table>
+
+27. TÀI SẢN TIỀM TÀNG
+
+Trong hai năm 2008 và 2009, Tập đoàn Bảo Việt đã ký các hợp đồng tiền gửi với Công ty Cho thuê tài chính II – Ngân hàng Nông nghiệp và Phát triển Nông thôn Việt Nam (“ALCII”), kỳ hạn từ sâu (06) tháng đến một (01) năm và lãi suất tiền gửi từ 10,5% đến 17,5%/năm. Bắt đầu từ năm 2009, do tính hình tài chính khởi khăn, ALCII đã không thực hiện việc chi trả gốc và lãi của một số hợp đồng tiền gửi cho Tập đoàn. Do đó, năm 2016, Tập đoàn đã thực hiện khởi kiện ALCII theo các quy định của pháp luật tố tụng dân sự về việc không thực hiện các nghĩa vụ quy định trong các hợp đồng tiền gửi đã giao kết. Ngày 30 tháng 9 năm 2016, theo quyết định của Bản án số 1158/2016/HDTM-PT của Tòa Phúc thẩm, Tòa án Nhân dân Thành phố Hồ Chí Minh, toàn bộ yêu cầu khởi kiện của Tập đoàn Bảo Việt được tuyến chấp nhận. Theo đó, ALCII có trách nhiệm phải thanh toán cho Tập đoàn khoản tiền còn nợ Tập đoàn tính đến ngày 31 tháng 5 năm 2016, nguồn đầu tư của Tập đoàn bao gồm 121.000.000.000 VND nợ gốc tiền gửi chưa thanh toán, 22.663.080.556 VND nợ lãi trong hạn chưa thanh toán, 119.996.545.833 VND nợ lãi quá hạn tính trên dư nợ gốc quá hạn chưa thanh toán và 33.348.792.748 VND nợ lãi quá hạn tính trên dư nợ lãi trong hạn chưa thanh toán và tiền lãi phát sinh từ ngày 01 tháng 6 năm 2016 cho đến khi trả hết nợ tính trên số dư nợ gốc và nợ lãi trong hạn còn lại theo lãi suất thỏa thuận trong các hợp đồng tiền gửi đã ký. Ngày 31/07/2018, Tòa án Nhân dân Thành phố Hồ Chí Minh đã có Quyết định 1009/2018/QĐ-TBPS tuyên bố phá sản đối với ALCII. Hiện nay, Tập đoàn đang tiếp tục theo dõi tính hình thực hiện các thủ tục xử lý sau phá sản tại ALCII nhằm bảo vệ quyền lợi, lợi ích hợp pháp của Tập đoàn Bảo Việt.
+
+49
+
+===== PAGE 52 =====
+Tập đoàn Bảo Việt
+
+B09-DN
+
+THUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG (tiếp theo)
+
+tại ngày 31 tháng 12 năm 2021 và cho năm tài chính kết thúc cùng ngày
+
+28. CO' CHÉ QUẢN LÝ RÙI RO
+
+28.1 Co chế quản lý rủi ro
+
+Mục tiêu của hoạt động Quản lý rủi ro (“QLRR”) tại Tập đoàn Bảo Việt nhằm phòng ngừa và giảm thiểu những rủi ro, thiết hại có thể xảy ra để góp phần duy trì hoạt động kinh doanh của Tập đoàn theo phương chăm ônOUN, an toàn, hiệu quả; góp phần tạo ra môi trường quản lý minh bạch và bảo vệ tài sản và uy tín của Tập đoàn.
+
+Hoạt động quản lý rủi ro được thực hiện thống nhất từ Ban Lãnh đạo Tập đoàn đến từng bộ phận chức năng và cán bộ tại Tập đoàn theo một nguyên tắc chung nhằm chủ động phát hiện, đánh giá và kiểm soát tác động của các loại rủi ro đối với hoạt động kinh doanh của doanh nghiệp.
+
+Hội đồng Quản trị Tập đoàn Bảo Việt ("HĐQT") chịu trách nhiệm quyết định cơ cấu tổ chức, chức nâng, nhiệm vụ của hệ thống quản lý rủi ro Tập đoàn Bảo Việt; ban hành chiến lược, chính sách quản lý rủi ro Tập đoàn Bảo Việt và thực hiện giám sát hoạt động quản lý rủi ro toàn Tập đoàn.
+
+Tổng Giám đốc Tập đoàn Bảo Việt ban hành các văn bản quy định, hướng dẫn quản lý rủi ro nội bộ và tổ chức thực hiện chiến lược và chính sách quản lý rủi ro đã được HĐQT phê duyệt. Các chính sách và hệ thống QLRR được rà soát định kỳ nhằm phân ánh kịp thời những biến động của thị trường và các hoạt động kinh doanh của Tập đoàn.
+
+Hội đồng Quản lý rủi ro ("HĐQLRR") Tập đoàn Bảo Việt là cơ quan giúp việc của Tổng Giám đốc Tập đoàn Bảo Việt để triển khai công tác quản lý rủi ro. Các cước hợp của HĐQLRR được tổ chức định kỳ nhằm đánh giá mức độ rủi ro tập trung toàn Tập đoàn, đánh giá nhận dạng các rủi ro mới và biện pháp phòng ngừa; phê duyệt mô hình, công cụ đo lường, hạn mức các loại rủi ro và giám sát việc thực hiện các hạn mức rủi ro đã được phê duyệt.
+
+Trong báo cáo này, Tập đoàn Bảo Việt trình bày cách thức cơ bản về hoạt động QLRR nói chung và các mục tiêu, chính sách, quy trình, phương pháp quản lý, đo lường các loại rủi ro cụ thể liên quan tới việc sử dụng các công cụ tài chính nói riêng.
+
+28.2 Quản lý rủi ro tài chính
+
+Rủi ro là điều tất yếu của hoạt động kinh doanh, lợi nhuận cao có thể song hành với rủi ro lớn. Do đó, việc quản lý rủi ro tài chính trong Tập đoàn Bảo Việt luôn là một vấn đề quan trọng được ưu tiên hàng đầu.
+
+Rủi ro liên quan đến công cụ tài chính rất đa dạng, bao gồm ba rủi ro chủ yếu sau: rủi ro tín dụng, rủi ro thanh khoản và rủi ro thị trường.
+
+Ban Điều hành xem xét và thống nhất áp dụng các chính sách quản lý cho những rủi ro nói trên như sau:
+
+28.2.1 Rủi ro tín dụng
+
+Rùi ro tín dụng được định nghĩa là nguy cơ xảy ra tổn thất do khả năng trả nợ của bên vay hoặc đối tác có những thay đổi bất lợi.
+
+Tập đoàn có rủi ro tín dụng từ hoạt động đầu tư tài chính và hoạt động kinh doanh, bao gồm tiền gửi, trái phiếu và các công cụ tài chính khác. Ban Điều hành đã ban hành khung quản lý rủi ro tín dụng để quản lý chất lượng tín dụng và rủi ro tập trung.
+
+50
+
+===== PAGE 53 =====
+Tập đoàn Bảo Việt
+
+B09-DN
+
+THUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG (tiếp theo)
+
+tại ngày 31 tháng 12 năm 2021 và cho năm tài chính kết thúc cùng ngày
+
+28. CƠ CHẾ QUẢN LÝ RỦI RO (tiếp theo)
+
+28.2 Quản lý rủi ro tài chính (tiếp theo)
+
+28.2.1 Rủi ro tín dụng (tiếp theo)
+
+▶ Các khoản đầu tư tiền gửi
+
+Rủi ro tín dụng đối với các khoản tiền gửi được hiểu là nguy cơ không thu hồi được cả gốc và lãi theo thời hạn đã ấn định trong hợp đồng tiền gửi xảy ra do tổ chức tín dụng phá sản, bị tụt hạng tín dụng hoặc mất khả năng thanh khoản.
+
+Tập đoàn Bảo Việt quy định về việc chấm điểm, phân loại và xác định hạn mức đầu tư tiền gửi đối với ngân hàng thương mại và công ty tài chính tại Quyết định số 1018/2020/QĐ-TĐBV chuẩn hóa mô hình phân tích tín dụng nội bộ áp dụng tại Tập đoàn và các Công ty con. HĐQLRR Tập đoàn xác định hạn mức tín dụng đối với mỗi tổ chức tín dụng mà Bảo Việt được phép gửi tiền và các hạn mức này được rà soát định kỳ. Tập đoàn cũng thiết lập các biện pháp giám sát đầu tư nhằm đưa ra hành động kịp thời khi phía đối tác xuất hiện các biểu hiện suy giảm chất lượng tín dụng. HĐQLRR Tập đoàn rà soát mức độ rủi ro và đề xuất các biện pháp xử lý phù hợp.
+
+Ngoài các hợp đồng tiền gửi tại ALCII và VFC mà Tập đoàn đã trích lập dự phòng, Ban Điều hành của Tập đoàn đánh giá tất cả các tài sản tài chính đều trong hạn và không bị suy giảm giá trị vì đều liên quan đến các ngân hàng đảm bảo khả năng thanh toán.
+
+▶ Các khoản đầu tư trái phiếu doanh nghiệp
+
+Rủi ro tín dụng đối với các khoản đầu tư trái phiếu doanh nghiệp là nguy cơ công ty phát hành không có khả năng chi trả mệnh giá trái phiếu và lãi trái phiếu đúng hạn. Để quản lý rủi ro tín dụng từ đầu tư trái phiếu, Tập đoàn xây dựng kế hoạch, phê duyệt hạn mức đầu tư trái phiếu phù hợp với chiến lược đầu tư và cơ cấu tổng tài sản; tuân thủ Quy định của Tập đoàn về Quản lý rủi ro trong đầu tư Trái phiếu doanh nghiệp (sửa đổi, bổ sung lần 1) kèm theo Quyết định số 1129/2020/QĐ-TĐBV ngày 27/8/2020.
+
+Ngoài các khoản đầu tư trái phiếu Vinashin mà Tập đoàn đã trích lập dự phòng, Ban Điều hành của Tập đoàn đánh giá tất cả các khoản đầu tư trái phiếu khác đều trong hạn và không bị suy giảm giá trị.
+
+51
+
+===== PAGE 54 =====
+Tập đoàn Bảo Việt
+
+THUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG (tiếp theo)
+tại ngày 31 tháng 12 năm 2021 và cho năm tài chính kết thúc cùng ngày
+
+28. CO' CHẾ QUẢN LÝ RỦI RO (tiếp theo)
+
+28.2 Quản lý rủi ro tài chính (tiếp theo)
+
+28.2.1 Rủi ro tín dụng (tiếp theo)
+
+▶ Các khoản phải thu khác
+
+Các khoản phải thu khác chiếm tỷ trọng nhỏ và Ban Điều hành đánh giá mức độ rủi ro tín dụng đối với các khoản phải thu này ở mức thấp.
+
+Chi tiết về phân loại chất lượng tín dụng toàn bộ tài sản tài chính có liên quan đến rủi ro tín dụng tại ngày 31 tháng 12 năm 2021 như sau:
+
+<table><tr><td></td><td>Chưa quá hạn và không giảm giá trị</td><td>Quá hạn nhưng không giảm giá trị riêng lẻ</td><td>Bị giảm giá trị riêng lẻ (*)</td><td>Đơn vị tính: VND Tổng cộng</td></tr><tr><td>Tiền và các khoản tương đương tiền</td><td>65.595.878.785</td><td>-</td><td>-</td><td>65.595.878.785</td></tr><tr><td>Đầu tư nắm giữ đến ngày đáo hạn</td><td>4.008.596.476.660</td><td>-</td><td>-</td><td>4.008.596.476.660</td></tr><tr><td>- Trái phiếu</td><td>812.516.547.943</td><td>-</td><td>-</td><td>812.516.547.943</td></tr><tr><td>- Hợp đồng tiền gửi</td><td>3.196.079.928.717</td><td>-</td><td>-</td><td>3.196.079.928.717</td></tr><tr><td>Các khoản phải thu</td><td>800.388.103.043</td><td>-</td><td>-</td><td>800.388.103.043</td></tr><tr><td>- Phải thu từ các bên liên quan</td><td>86.621.529.324</td><td>-</td><td>-</td><td>86.621.529.324</td></tr><tr><td>- Phải thu cổ tức và lợi nhuận</td><td>702.118.000.000</td><td>-</td><td>-</td><td>702.118.000.000</td></tr><tr><td>- Phải thu khác</td><td>11.648.573.719</td><td>-</td><td>-</td><td>11.648.573.719</td></tr><tr><td>Tổng</td><td>4.874.580.458.488</td><td>-</td><td>-</td><td>4.874.580.458.488</td></tr></table>
+
+(*) Số liệu trình bày đã bao gồm các khoản dự phòng đã trích lập
+
+B09-DN
+
+52
+
+===== PAGE 55 =====
+Tập đoàn Bảo Việt
+
+THUYẾT MINH BẢO CÁO TÀI CHÍNH RIÊNG (tiếp theo)
+tại ngày 31 tháng 12 năm 2021 và cho năm tài chính kết thúc cùng ngày
+
+28. CƠ CHẾ QUẢN LÝ RÙI RO (tiếp theo)
+
+28.2 Quản lý rủi ro tài chính (tiếp theo)
+
+28.2.1 Rủi ro tín dụng (tiếp theo)
+
+Chi tiết về phân loại chất lượng tín dụng toàn bộ tài sản tài chính có liên quan đến rủi ro tín dụng tại ngày 31 tháng 12 năm 2020 như sau:
+
+<table><tr><td></td><td>Chưa quá hạn và không giảm giá trị</td><td>Quá hạn nhưng không giảm giá trị riêng lẻ</td><td>Bị giảm giá trị riêng lẻ (*)</td><td>Đơn vị tính: VND Tổng cộng</td></tr><tr><td>Tiền và các khoản tương đương tiền</td><td>284.719.971.015</td><td>-</td><td>-</td><td>284.719.971.015</td></tr><tr><td>Đầu tư nắm giữ đến ngày đáo hạn</td><td>4.543.089.799.062</td><td>-</td><td>-</td><td>4.543.089.799.062</td></tr><tr><td>- Trái phiếu</td><td>863.330.166.190</td><td>-</td><td>-</td><td>863.330.166.190</td></tr><tr><td>- Hợp đồng tiền gửi</td><td>3.679.759.632.872</td><td>-</td><td>-</td><td>3.679.759.632.872</td></tr><tr><td>Các khoản phải thu</td><td>692.938.897.479</td><td>-</td><td>-</td><td>692.938.897.479</td></tr><tr><td>- Phải thu từ các bên liên quan</td><td>73.680.366.716</td><td>-</td><td>-</td><td>73.680.366.716</td></tr><tr><td>- Phải thu cổ tức và lợi nhuận</td><td>609.733.491.719</td><td>-</td><td>-</td><td>609.733.491.719</td></tr><tr><td>- Phải thu khác</td><td>9.525.039.044</td><td>-</td><td>-</td><td>9.525.039.044</td></tr><tr><td>Tổng</td><td>5.520.748.667.556</td><td>-</td><td>-</td><td>5.520.748.667.556</td></tr></table>
+
+(*) Số liệu trình bày đã bao gồm các khoản dự phòng đã trích lập
+
+Tập đoàn đã trích lập đầy đủ dự phòng giảm giá các khoản phải thu theo Thông tư 48. Trong đó:
+
+Chưa quá hạn và không giảm giá trị: các tài sản tài chính hoặc các khoản cho vay với lãi suất và nợ gốc chưa tới ngày đáo hạn và không có bằng chứng của việc suy giảm giá trị.
+
+> Quá hạn nhưng không giảm giá trị riêng lẻ: tài sản tài chính với lãi suất và nợ gốc đã quá hạn nhưng Tập đoàn tin rằng các khoản này không bị giảm giá trị vì chúng được đảm bảo bởi các tài sản thể chấp và tin tưởng vào mức độ tin cây tín dụng và các biện pháp đảm bảo tín dụng khác của khách hàng.
+
+Bị giảm giá trị riêng lẻ: các công cụ nợ và các khoản cho vay khách hàng mà Tập đoàn cho rằng không thể thu hồi lãi và nợ gốc một phần hoặc toàn bộ theo các điều khoản của hợp đồng.
+
+Các tài sản bị đánh giá là giảm giá trị riêng lẻ bao gồm các khoản đầu tư vào trái phiếu Vinashin, đầu tư tiền gửi vào VFC và ALCII và đang được phần ánh theo giá trị thuần sau khi đã trích lập dự phòng.
+
+Tập đoàn đã đánh giá và không nhận thấy ảnh hưởng của dịch Covid-19 đến rủi ro tín dụng của danh mục đầu tư lãi suất cố định.
+
+B09-DN
+
+53
+
+===== PAGE 56 =====
+Tập đoàn Bảo Việt
+
+THUYẾT MINH BẢO CÁO TÀI CHÍNH RIÊNG (tiếp theo)
+tại ngày 31 tháng 12 năm 2021 và cho năm tài chính kết thúc cùng ngày
+
+28. CƠ CHẾ QUẢN LÝ RỦI RO (tiếp theo)
+28.2 Quản lý rủi ro tài chính (tiếp theo)
+
+28.2.2 Rủi ro thanh khoản
+
+Rủi ro thanh khoản là rủi ro không thực hiện được các cam kết tài chính do mất cân đối giữa tài sản và nợ phải trả trong ngắn hạn. Để ngăn ngừa và giảm thiểu rủi ro này, Tập đoàn thực hiện phân tích thời gian đáo hạn còn lại dựa theo hợp đồng của các khoản nợ phải trả tài chính và thông tin về luồng tiền ước tính, phân tích các nhu cầu thanh khoản trong quá khử để phát hiện những biến động về nhu cầu này và các nhân tố ảnh hưởng. Mức độ thanh khoản của Tập đoàn được định kỳ xem xét báo cáo cho Ủy ban Quản lý Tài sản Nợ - Tài sản Có (ALCO), Ủy ban sẽ rà soát mức độ thanh khoản, hiệu quả đầu tư và xác định các hành động phù hợp, Đại dịch Covid-19 không làm gia tăng rủi ro thanh khoản của Tập đoàn.
+
+Bảng sau đây tóm tất thời gian đáo hạn theo hợp đồng của các tài sản tài chính và nợ phải trả tài chính trên cơ sở chưa chiết khấu tại ngày 31 tháng 12 năm 2021:
+
+<table><tr><td>Tài sản tài chính</td></tr><tr><td>Tiền và các khoản tương đương tiền</td></tr><tr><td>Chứng khoán kinh doanh</td></tr><tr><td>- Cổ phiếu niêm yết</td></tr><tr><td>- Chứng chỉ quỹ</td></tr><tr><td>Đầu tư nắm giữ đến ngày đáo hạn</td></tr><tr><td>- Hợp đồng tiền gửi</td></tr><tr><td>- Trái phiếu</td></tr><tr><td>Đầu tư tài chính khác</td></tr><tr><td>Các khoản phải thu</td></tr><tr><td>- Phải thu các bên liên quan</td></tr><tr><td>- Phải thu cổ tức và lợi nhuận</td></tr><tr><td>- Phải thu khác</td></tr><tr><td>Tổng</td></tr><tr><td>Nợ phải trả tài chính</td></tr><tr><td>Phải trả các bên liên quan</td></tr><tr><td>Phải trả đặt cọc cho thuê văn phòng</td></tr><tr><td>Phải trả thương mại</td></tr><tr><td>Phải trả khác</td></tr><tr><td>Vay và nợ</td></tr><tr><td>Tổng</td></tr></table>
+
+B09-DN
+
+54
+
+===== PAGE 57 =====
+Tập đoàn Bảo Việt
+
+THUYẾT MINH BẢO CÁO TÀI CHÍNH RIÊNG (tiếp theo)
+tại ngày 31 tháng 12 năm 2021 và cho năm tài chính kết thúc cùng ngày
+
+28. CƠ CHẾ QUẢN LÝ RÙI RO (tiếp theo)
+
+28.2 Quản lý rủi ro tài chính (tiếp theo)
+
+28.2.2 Rủi ro thanh khoản (tiếp theo)
+
+Bảng sau đây tóm tắt thời gian đáo hạn theo hợp đồng của các tài sản tài chính và nợ phải trả tài chính trên cơ sở chưa chiết khấu tại ngày 31 tháng 12 năm 2020:
+
+<table><tr><td></td><td>Quá hạn</td><td>Không xác định kỳ hạn</td><td>Đến 1 năm</td><td>Từ 1 - 3 năm</td><td>Từ 3 - 5 năm</td><td>Từ 5 - 15 năm</td><td>Trên 15 năm</td><td>Tổng cộng</td></tr><tr><td colspan="9">Tài sản tài chính</td></tr><tr><td>Tiền và các khoản tương đương tiền</td><td>-</td><td>-</td><td>284.720</td><td>-</td><td>-</td><td>-</td><td>-</td><td>284.720</td></tr><tr><td>Chứng khoán kinh doanh</td><td>-</td><td>55.334</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>55.334</td></tr><tr><td>- Cổ phiếu niêm yết</td><td>-</td><td>10.334</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>10.334</td></tr><tr><td>- Chứng chỉ quỹ</td><td>-</td><td>45.000</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>45.000</td></tr><tr><td>Đầu tư nắm giữ đến ngày đáo hạn</td><td>-</td><td>-</td><td>3.745.108</td><td>991.895</td><td>-</td><td>-</td><td>-</td><td>4.737.003</td></tr><tr><td>- Hợp đồng tiến gửi</td><td>-</td><td>-</td><td>3.624.098</td><td>116.285</td><td>-</td><td>-</td><td>-</td><td>3.740.383</td></tr><tr><td>- Trái phiếu</td><td>-</td><td>-</td><td>121.010</td><td>875.610</td><td>-</td><td>-</td><td>-</td><td>996.620</td></tr><tr><td>Đầu tư tài chính khác</td><td>-</td><td>526.840</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>526.840</td></tr><tr><td>Các khoản phải thu</td><td>-</td><td>-</td><td>692.938</td><td>-</td><td>-</td><td>-</td><td>-</td><td>692.938</td></tr><tr><td>- Phải thu các bên liên quan</td><td>-</td><td>-</td><td>73.680</td><td>-</td><td>-</td><td>-</td><td>-</td><td>73.680</td></tr><tr><td>- Phải thu cổ tức và lợi nhuận</td><td>-</td><td>-</td><td>609.733</td><td>-</td><td>-</td><td>-</td><td>-</td><td>609.733</td></tr><tr><td>- Phải thu khác</td><td>-</td><td>-</td><td>9.525</td><td>-</td><td>-</td><td>-</td><td>-</td><td>9.525</td></tr><tr><td>Tổng</td><td>-</td><td>582.174</td><td>4.722.766</td><td>991.895</td><td>-</td><td>-</td><td>-</td><td>6.296.835</td></tr><tr><td colspan="9">Nợ phải trả tài chính</td></tr><tr><td>Phải trả các bên liên quan</td><td>-</td><td>-</td><td>21.637</td><td>-</td><td>-</td><td>-</td><td>-</td><td>21.637</td></tr><tr><td>Phải trả đặt cọc cho thuê văn phòng</td><td>-</td><td>-</td><td>1.306</td><td>-</td><td>-</td><td>-</td><td>-</td><td>1.306</td></tr><tr><td>Phải trả thương mại</td><td>-</td><td>-</td><td>4.923</td><td>-</td><td>-</td><td>-</td><td>-</td><td>4.923</td></tr><tr><td>Phải trả khác</td><td>-</td><td>-</td><td>62.483</td><td>-</td><td>-</td><td>-</td><td>-</td><td>62.483</td></tr><tr><td>Vay và nợ</td><td>-</td><td>-</td><td>-</td><td>-</td><td>215.068</td><td>-</td><td>-</td><td>215.068</td></tr><tr><td>Tổng</td><td>-</td><td>-</td><td>90.349</td><td>-</td><td>215.068</td><td>-</td><td>-</td><td>305.417</td></tr></table>
+
+55
+
+B09-DN
+
+===== PAGE 58 =====
+Tập đoàn Bảo Việt
+
+B09-DN
+
+THUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG (tiếp theo)
+
+tại ngày 31 tháng 12 năm 2021 và cho năm tài chính kết thúc cùng ngày
+
+28. CO' CHÉ QUẢN LÝ RÙI RO (tiếp theo)
+
+28.2 Quản lý rủi ro tài chính (tiếp theo)
+
+28.2.3 Rủi ro thị trường
+
+Rủi ro thị trường là rủi ro mà giá trị hợp lý của một công cụ tài chính thay đổi do sự biến động của các nhân tố của thị trường, chủ yếu như lãi suất, giá cổ phiếu và tỷ giá hối đoái hay giá trị của hàng hóa. Công cụ tài chính bị ảnh hưởng bởi rủi ro thị trường bao gồm các khoản vay và nợ, tiền gửi, các khoản đầu tư sẵn sàng để bán.
+
+Mục tiêu của Tập đoàn là quản lý và kiểm soát mức độ rủi ro thị trường nhằm cân bằng giữa lợi nhuận và rủi ro bằng cách duy trì danh mục đầu tư đảm bảo tuân thủ khẩu vị rủi ro, chiến lược quản lý rủi ro và hạn mức rủi ro thị trường đã được phê duyệt.
+
+▶ Rùi ro lãi suất
+
+Rủi ro lãi suất là rủi ro mà giá trị hợp lý của các dòng tiền tương lai của một công cụ tài chính thay đổi do biến động của lãi suất thị trường.
+
+Trong danh mục đầu tư toàn Tập đoàn, các khoản đầu tư trái phiếu và tiền gửi có lãi suất cố định chiếm tỷ trọng lớn và được nắm giữ phù hợp để đáp ứng các khoản phải trả trong tương lai. Ngoài ra, công tác dự báo lãi suất thị trường luôn được Tập đoàn chú trọng và thực hiện định kỳ trong các báo cáo để kịp thời đưa ra các quyết định quản lý và đầu tư.
+
+Năm 2021 lãi suất ngân hàng ổn định ở mức thấp đã ảnh hưởng đến doanh thu đầu tư từ các khoản đầu tư tiền gửi. Tập đoàn đã thực hiện cân đối dòng tiên, danh mục đầu tư, thực hiện đầu tư với kỳ hạn phù hợp để đảm bảo hiệu quả đầu tư.
+
+Tập đoàn theo dõi thường xuyên và lựa chọn thời hạn đầu tư để đảm bảo rủi ro được giảm thiểu trong khi mục tiêu lợi nhuận vấn đạt được.
+
+▶ Rủi ro tỷ giá ngoại tệ
+
+Rủi ro tỷ giá ngoại tệ là rủi ro thiệt hại về tài chính do biến động của tỷ giá ngoại tệ. Biến động của tỷ giá ngoại tệ giữa đồng Việt Nam và các ngoại tệ khác có thể ảnh hưởng đến tỉnh hình tài chính và kết quả kinh doanh của Tập đoàn. Tuy nhiên, rủi ro này của Tập đoàn không đáng kể do hầu hết các giao dịch tài sản và công nợ của Tập đoàn đều bằng VND.
+
+Rủi ro giá cổ phiếu
+
+Danh mục đầu tư cổ phiếu của Tập đoàn bao gồm các cổ phiếu niêm yết và chưa niêm yết. Danh mục các cổ phiếu niêm yết chịu ảnh hưởng trực tiếp của biến động giá. Danh mục cổ phiếu chưa niêm yết có thể có xu hướng bất lợi nếu điều kiện thị trường xấu đi.
+
+Tình hình tài chính của các công ty mà Tập đoàn đầu tư và điều kiện thị trường có ảnh hưởng đến kết quả đầu tư. Tập đoàn Bảo Việt quản lý rủi ro này bằng việc đánh giá, lựa chọn một cách thận trọng các ngành nghề và công ty để đầu tư. Dịch Covid-19 có tác động đến thị trường chứng khoán, tuy nhiên, đã tăng của thị trường được duy trì tốt trong năm 2021. Tập đoàn thực hiện chiến lược thân trọng đầu tư cổ phiếu và duy trì tỷ trọng ở mức hợp lý trong toàn danh mục đầu tư.
+
+56
+
+===== PAGE 59 =====
+Tập đoàn Bảo Việt
+
+B09-DN
+
+THUYÊT MINH BÁO CÁO TÀI CHÍNH RIÊNG (tiếp theo)
+
+tại ngày 31 tháng 12 năm 2021 và cho năm tài chính kết thúc cùng ngày
+
+28. CO' CHÉ QUẢN LÝ RÙI RO (tiếp theo)
+
+28.2 Quản lý rủi ro tài chính (tiếp theo)
+
+28.2.3 Rủi ro thị trường (tiếp theo)
+
+▶ Rủi ro giá cổ phiếu (tiếp theo)
+
+Tập đoàn sử dụng thước đo Giá trị rủi ro ("VaR") để giám sát và giới hạn rủi ro giá cổ phiếu niêm yết. Thước đo VaR là dùng để ước tính tổn thất tối đa có thể xây ra khi có những biến động bất lợi trong khoảng thời gian nhất định (1 ngày, 1 tuần, 1 tháng và 1 năm), với mức độ tin cây cho trước (95%):
+
+Đơn vị: VND
+
+<table><tr><td>Giá trị rủi ro cửa danh mục cổ phiếu niêm yết tại ngày 31 tháng 12 năm 2021</td><td>HOSE</td><td>HNX</td><td>Tổng</td></tr><tr><td>Giá trị sổ sách</td><td>182.182.272.880</td><td>69.901.560.000</td><td>252.083.832.880</td></tr><tr><td>Giá trị thị trường</td><td>316.348.450.000</td><td>435.671.554.500</td><td>752.020.004.500</td></tr><tr><td>VaR (95%, 1 ngày)</td><td>(9.885.497.092)</td><td>(20.306.646.084)</td><td>(30.192.143.176)</td></tr><tr><td>Mức độ đa dạng hóa VaR (95%)</td><td>1.944.590.970</td><td>-</td><td>1.944.590.970</td></tr><tr><td>VaR (95%, 1 tuần)</td><td>(22.104.643.489)</td><td>(45.407.041.039)</td><td>(67.511.684.528)</td></tr><tr><td>VaR (95%, 1 tháng)</td><td>(46.367.091.355)</td><td>(95.246.612.823)</td><td>(141.613.704.178)</td></tr><tr><td>VaR (95%, 1 năm)</td><td>(156.927.401.353)</td><td>(322.358.013.004)</td><td>(479.285.414.357)</td></tr></table>
+
+Đơn vị: VND
+
+<table><tr><td>Giá trị rủi ro của danh mục cổ phiếu niêm yết tại ngày 31 tháng 12 năm 2020</td><td>HOSE</td><td>HNX</td><td>Tổng</td></tr><tr><td>Giá trị số sách</td><td>253.297.281.164</td><td>69.901.560.000</td><td>323.198.841.164</td></tr><tr><td>Giá trị thị trường</td><td>252.559.356.800</td><td>240.536.400.000</td><td>493.095.756.800</td></tr><tr><td>VaR (95%, 1 ngày)</td><td>(6.557.379.304)</td><td>(10.429.784.416)</td><td>(16.987.163.720)</td></tr><tr><td>Mức độ đa dạng hóa VaR (95%)</td><td>1.843.042.796</td><td>-</td><td>1.843.042.796</td></tr><tr><td>VaR (95%, 1 tuần)</td><td>(14.662.745.878)</td><td>(23.321.706.944)</td><td>(37.984.452.822)</td></tr><tr><td>VaR (95%, 1 tháng)</td><td>(30.756.835.230)</td><td>(48.920.025.196)</td><td>(79.676.860.426)</td></tr><tr><td>VaR (95%, 1 năm)</td><td>(104.095.169.342)</td><td>(165.567.694.754)</td><td>(269.662.864.096)</td></tr></table>
+
+Giá trị rủi ro VaR (95%, 1 ngày) của danh mục cổ phiếu niêm yết tại ngày 31 tháng 12 năm 2021 là 30,192 tỷ VND, nghĩa là với xác suất 95%, mức tổn thất tối đa của danh mục cổ phiếu niêm yết trong một ngày là khoảng gần 30,192 tỷ VND. VaR (95%, 1 ngày) của danh mục cổ phiếu niêm yết tại ngày 31 tháng 12 năm 2021 cao hơn so với VaR (95%, 1 ngày) của danh mục cổ phiếu niêm yết tại ngày 31 tháng 12 năm 2020. Tỷ lệ phần trăm của VaR so với giá trị thị trường của danh mục cổ phiếu niêm yết tại ngày 31 tháng 12 năm 2021 (4,01%) cao hơn tỷ lệ này tại ngày 31 tháng 12 năm 2020 (3,45%).
+
+57
+
+===== PAGE 60 =====
+Tập đoàn Bảo Việt
+
+B09-DN
+
+THUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG (tiếp theo)
+
+tại ngày 31 tháng 12 năm 2021 và cho năm tài chính kết thúc cùng ngày
+
+28. CO' CHÉ QUẢN LÝ RÙI RO (tiếp theo)
+
+28.2 Quản lý rủi ro tài chính (tiếp theo)
+
+28.2.3 Rủi ro thị trường (tiếp theo)
+
+▶ Rủi ro giá cổ phiếu (tiếp theo)
+
+Tập đoàn Bảo Việt còn sử dụng phương pháp phân tích kịch bản “stress testing” để đánh giá những ảnh hưởng tiềm ấn đối với danh mục đầu tư trong các điều kiện thị trường khác nhau. Phân tích dưới đây cho thấy, khí có sự biến động của chỉ số thị trường (chỉ số VN-Index hoặc HNX Index), các yếu tố còn lại không đổi, lợi nhuận trước thuế sẽ bị ảnh hưởng. Mối tương quan của các biển số cũng tác động đáng kể trong việc giảm thiểu rủi ro về giá.
+
+<table><tr><td></td><td>Biến động của chỉ số thị trường</td><td>Ảnh hưởng lên lợi nhuận trước thuế của danh mục cổ phiếu niêm yết (*) (VND)</td></tr><tr><td colspan="3">31 tháng 12 năm 2021</td></tr><tr><td>Kịch bản 1</td><td>+10%</td><td>-</td></tr><tr><td>Kịch bản 2</td><td>-10%</td><td>-</td></tr><tr><td colspan="3">31 tháng 12 năm 2020</td></tr><tr><td>Kịch bản 1</td><td>+10%</td><td>607.342.206</td></tr><tr><td>Kịch bản 2</td><td>-10%</td><td>(14.706.374.148)</td></tr></table>
+
+(*) Số liệu được tính toán áp dụng chính sách trích lập dự phòng giảm giá chứng khoán theo quy định tại Thông tư 48 do đó ảnh hưởng lên lợi nhuận trước thuế của việc biến động giá cổ phiếu chỉ tính tới các cổ phiếu niêm yết có giá thị trường giảm xuống dưới giá gốc.
+
+▶ Rǔi ro giá chứng chỉ quỹ
+
+Biến động giá chứng chỉ quỹ mà Tập đoàn đầu tư và quản lý cũng được xem xét, rà soát và đánh giá thường xuyên. Giá trị Tài sản ròng ("NAV") trên mỗi chứng chỉ quỹ có thể tăng hoặc giảm tùy thuộc vào Giá trị Tài sản và những khoản thanh toán của Quỹ phát sinh trong quá trình hoạt động của Quỹ. Rủi ro này phát sinh chủ yếu do sự giảm giá của các loại chứng khoán như trái phiếu, cổ phiếu niêm yết và chưa niêm yết trên thị trường chứng khoán mà Quỹ đầu tư, khi đó, NAV của Quỹ sẽ bị giảm sút và ảnh hưởng trực tiếp đến thị giá của chứng chỉ quỹ.
+
+29. THUYẾT MINH BỔ SUNG VỀ TÀI SẢN TÀI CHÍNH VÀ NỘ PHẢI TRẢ TÀI CHÍNH
+
+Ngày 06 tháng 11 năm 2009, Bộ Tài chính đã ban hành Thông tư số 210/2009/TT-BTC hướng dẫn áp dụng Chuẩn mực Báo cáo Tài chính Quốc tế về trình bày báo cáo tài chính và thuyết minh thông tin đối với công cụ tài chính ("Thông tư 210") có hiệu lực cho các năm tài chính bắt đầu từ hoặc sau ngày 01 tháng 01 năm 2011. Thông tư 210 đã đưa ra các định nghĩa về công cụ tài chính, bao gồm tài sản tài chính và nợ phải trả tài chính, công cụ tài chính phải sinh và công cụ vốn chủ sở hữu cũng như quy định cách thức phân loại, trình bày và thuyết minh các loại công cụ này.
+
+Do Thông tư 210 chỉ quy định việc trình bày báo cáo tài chính và thuyết minh thông tin đối với công cụ tài chính, các khái niệm dưới đầy theo Thông tư 210 chỉ áp dụng đối với việc lập Thuyết minh này. Các khoản mục tài sản và nợ của Tập đoàn vẫn được ghi nhận và hạch toán theo các quy định hiện hành của các Chuẩn mực Kế toán và Hệ thống Kế toán Việt Nam.
+
+58
+
+===== PAGE 61 =====
+Tập đoàn Bảo Việt
+
+B09-DN
+
+THUYÊT MINH BÁO CÁO TÀI CHÍNH RIÊNG (tiếp theo)
+
+tại ngày 31 tháng 12 năm 2021 và cho năm tài chính kết thúc cùng ngày
+
+29. THUYẾT MINH BỔ SUNG VỀ TÀI SẢN TÀI CHÍNH VÀ NỘ PHẢI TRẢ TÀI CHÍNH (tiếp theo)
+
+Tài sản tài chính
+
+Các tài sản tài chính của Tập đoàn theo phạm vi của Thông tư 210 bao gồm tiền và các khoản tương đương tiền, các khoản đầu tư kỳ hạn có định, công cụ vốn niêm yết và không niêm yết, các khoản cho vay và phải thu khách hàng, và các khoản phải thu tài chính khác. Theo Thông tư 210, tài sản tài chính được phân loại một cách phù hợp, cho mục đích thuyết minh trong báo cáo tài chính, thành một trong các loại sau:
+
+Tài sản tài chính được ghi nhận theo giá trị hợp lý thông qua báo cáo kết quả hoạt động kinh doanh:
+
+Là một tài sản tài chính thỏa mãn một trong các điều kiện sau:
+
+a) Được phân loại vào nhóm nằm giữ để kinh doanh. Tài sản tài chính được phân loại vào nhóm chứng khoán nằm giữ để kinh doanh, nếu:
+
+(i) Được mua hoặc tạo ra chủ yếu cho mục đích bán lại/mua lại trong thời gian ngắn;
+
+(ii) Có bằng chứng về việc kinh doanh công cụ đó nhằm mục đích thu lợi ngắn hạn; hoặc
+
+(iii) Công cụ tài chính phải sinh (ngoại trừ các công cụ tài chính phải sinh được xác định là một hợp đồng bảo lãnh tài chính hoặc một công cụ phòng ngừa rủi ro hiệu quả).
+
+b) Tại thời điểm ghi nhận ban đầu, Tập đoàn xếp tài sản tài chính vào nhóm phần ánh theo giá trị hợp lý thông qua Báo cáo kết quả hoạt động kinh doanh.
+
+Các khoản đầu tư nấm giữ đến ngày đáo hạn:
+
+Là các tài sản tài chính phi phải sinh với các khoản thanh toán cố định hoặc có thể xác định và có kỳ đáo hạn cố định mà Tập đoàn có ý định và có khả năng giữ đến ngày đáo hạn, ngoại trừ:
+
+a) Các tài sản tài chính mà tại thời điểm ghi nhận ban đầu đã được xếp vào nhóm ghi nhận theo giá trị hợp lý thông qua Báo cáo kết quả hoạt động kinh doanh;
+
+b) Các tài sản tài chính đã được xếp vào nhóm sẵn sàng để bán; hoặc
+
+c) Các tài sản tài chính thỏa mãn định nghĩa về các khoản cho vay và phải thu.
+
+Các khoản cho vay và phải thu:
+
+Là các tài sản tài chính phi phái sinh với các khoản thanh toán cố định hoặc có thể xác định và không được niêm yết trên thị trường, ngoại trừ:
+
+a) Các khoản mà đơn vị có ý định bán ngay hoặc sẽ bán trong tương lai gần được phân loại là tài sản nằm giữ vi mục đích kinh doanh, và cũng như các loại mà tại thời điểm ghi nhận ban đầu được đơn vị xếp vào nhóm ghi nhận theo giá trị hợp lý thông qua Báo cáo kết quả hoạt động kinh doanh;
+
+b) Các khoản được đơn vị xếp vào nhóm sẵn sàng để bán tại thời điểm ghi nhận ban đầu; hoặc
+
+c) Các khoản mà người nấm giữ có thể không thu hồi được phần lớn giá trị đầu tư ban đầu, không phải do suy giảm chất lượng tín dụng, và được phân loại vào nhóm sẵn sàng để bán.
+
+59
+
+===== PAGE 62 =====
+Tập đoàn Bảo Việt
+
+B09-DN
+
+THUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG (tiếp theo)
+
+tại ngày 31 tháng 12 năm 2021 và cho năm tài chính kết thúc cùng ngày
+
+29. THUYẾT MINH BỔ SUNG VỀ TÀI SẢN TÀI CHÍNH VÀ NỘ PHẢI TRẢ TÀI CHÍNH (tiếp theo)
+
+Tài sản tài chính (tiếp theo)
+
+Tài sản sẵn sàng để bán:
+
+Là các tài sản tài chính phi phải sinh được xác định là sẵn sàng để bán hoặc không được phân loại là:
+
+a) Các khoản cho vay và các khoản phải thu;
+
+b) Các khoản đầu tư giữ đến ngày đáo hạn;
+
+c) Các tài sản tài chính ghi nhận theo giá trị hợp lý thông qua Báo cáo kết quả hoạt động kinh doanh.
+
+Nợ phải trả tài chính
+
+Nợ phải trả tài chính của Tập đoàn theo phạm vi của Thông tư 210 bao gồm các khoản phải trả người bán, các khoản phải trả khác, các khoản nợ và vay. Theo Thông tư 210, nợ phải trả tài chính, cho mục đích thuyết minh trong báo cáo tài chính, được phân loại một cách phù hợp thành:
+
+Các khoản nợ phải trả tài chính được ghi nhận thông qua báo cáo kết quả hoạt động kinh doanh:
+
+Là một khoản nợ phải trả tài chính thỏa mãn một trong các điều kiện sau:
+
+a) Nợ phải trả tài chính được phân loại vào nhóm nằm giữ để kinh doanh. Nợ phải trả tài chính được phân loại vào nhóm chứng khoán nằm giữ để kinh doanh, nếu:
+
+(i) Được mua hoặc tạo ra chủ yếu cho mục đích bán lại/mua lại trong thời gian ngắn;
+
+(ii) Có bằng chứng về việc kinh doanh công cụ đó nhằm mục đích thu lợi ngắn hạn; hoặc
+
+(iii) Công cụ tài chính phải sinh (ngoại trừ các công cụ tài chính phải sinh được xác định là một hợp đồng bảo lãnh tài chính hoặc một công cụ phòng ngừa rủi ro hiệu quả).
+
+b) Tại thời điểm ghi nhận ban đầu, Tập đoàn xếp nợ phải trả tài chính vào nhóm phần ánh theo giá trị hợp lý thông qua Báo cáo kết quả hoạt động kinh doanh.
+
+Các khoản nợ phải trả tài chính được xác định theo giá trị phân bổ:
+
+Các khoản nợ phải trả tài chính không được phân loại vào nhóm được ghi nhận thông qua báo cáo kết quả hoạt động kinh doanh sẽ được phân loại vào nhóm các khoản nợ phải trả tài chính được xác định theo giá trị phân bổ.
+
+Bù trừ các tài sản và nợ phải trả tài chính
+
+Các tài sản tài chính và nợ phải trả tài chính được bù trừ và giá trị thuần sẽ được trình bày trên bằng cân đối kế toán riêng nếu, và chỉ nếu, Tập đoàn có quyền hợp pháp thực hiện việc bù trừ các giá trị đã được ghi nhận này và có ý định bù trừ trên cơ sở thuần, hoặc thu được các tài sản và thanh toán nợ phải trả đồng thời.
+
+60
+
+===== PAGE 63 =====
+Tập đoàn Bảo Việt
+
+THUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG (tiếp theo)
+tại ngày 31 tháng 12 năm 2021 và cho năm tài chính kết thúc cùng ngày
+
+29. THUYẾT MINH BỔ SUNG VỀ TÀI SẢN TÀI CHÍNH VÀ NỘ PHẢI TRẢ TÀI CHÍNH (tiếp theo)
+
+Bảng dưới đây trình bày giá trị ghi sổ và giá trị hợp lý của các công cụ tài chính được trình bày trong báo cáo tài chính riêng của Tập đoàn tại ngày 31 tháng 12 năm 2021:
+
+<table><tr><td rowspan="2"></td><td colspan="3">Giá trị ghi sổ</td><td>Giá trị hợp lý</td></tr><tr><td>Nguyên giá VND</td><td>Dự phòng giảm giá trị VND</td><td>Giá trị thuần VND</td><td>VND</td></tr><tr><td colspan="5">Tài sản tài chính</td></tr><tr><td>Chứng khoán kinh doanh</td><td>73.104.986.164</td><td>-</td><td>73.104.986.164</td><td>137.137.645.000</td></tr><tr><td>- Cổ phiếu niêm yết</td><td>28.104.986.164</td><td>-</td><td>28.104.986.164</td><td>44.149.645.000</td></tr><tr><td>- Chứng chỉ quỹ</td><td>45.000.000.000</td><td>-</td><td>45.000.000.000</td><td>92.988.000.000</td></tr><tr><td>Đầu tư nằm giữ đến ngày đáo hạn</td><td>4.327.305.976.660</td><td>(318.709.500.000)</td><td>4.008.596.476.660</td><td>4.056.454.977.764</td></tr><tr><td>- Hợp đồng tiền gửi</td><td>3.360.079.928.717</td><td>(164.000.000.000)</td><td>3.196.079.928.717</td><td>3.209.505.381.237</td></tr><tr><td>- Trái phiếu</td><td>967.226.047.943</td><td>(154.709.500.000)</td><td>812.516.547.943</td><td>846.949.596.527</td></tr><tr><td>Đầu tư tài chính khác</td><td>527.895.480.716</td><td>(34.962.346.357)</td><td>492.933.134.359</td><td>1.214.490.435.909</td></tr><tr><td>Các khoản phải thu</td><td>800.388.103.043</td><td>-</td><td>800.388.103.043</td><td>800.388.103.043</td></tr><tr><td>- Phải thu các bên liên quan</td><td>86.621.529.324</td><td>-</td><td>86.621.529.324</td><td>86.621.529.324</td></tr><tr><td>- Phải thu cổ tức và lợi nhuận</td><td>702.118.000.000</td><td>-</td><td>702.118.000.000</td><td>702.118.000.000</td></tr><tr><td>- Phải thu khác</td><td>11.648.573.719</td><td>-</td><td>11.648.573.719</td><td>11.648.573.719</td></tr><tr><td>Tiền và các khoản tương đương tiền</td><td>65.595.878.785</td><td>-</td><td>65.595.878.785</td><td>65.595.878.785</td></tr><tr><td>TỔNG CỘNG</td><td>5.794.290.425.368</td><td>(353.671.846.357)</td><td>5.440.618.579.011</td><td>6.274.067.040.501</td></tr></table>
+
+61
+
+B09-DN
+
+===== PAGE 64 =====
+Tập đoàn Bảo Việt
+
+THUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG (tiếp theo)
+tại ngày 31 tháng 12 năm 2021 và cho năm tài chính kết thúc cùng ngày
+
+29. THUYẾT MINH BỔ SUNG VỀ TÀI SẢN TÀI CHÍNH VÀ NỘ PHẢI TRẢ TÀI CHÍNH (tiếp theo)
+
+Bảng dưới đây trình bày giá trị ghi sổ và giá trị hợp lý của các công cụ tài chính được trình bày trong báo cáo tài chính riêng của Tập đoàn tại ngày 31 tháng 12 năm 2020:
+
+<table><tr><td colspan="3">Giá trị ghi sổ</td><td>Giá trị hợp lý</td></tr><tr><td>Nguyên giá VND</td><td>Dự phòng giảm giá trị VND</td><td>Giá trị thuần VND</td><td>VND</td></tr><tr><td>55.334.361.164</td><td>-</td><td>55.334.361.164</td><td>78.398.080.000</td></tr><tr><td>10.334.361.164</td><td>-</td><td>10.334.361.164</td><td>10.733.580.000</td></tr><tr><td>45.000.000.000</td><td>-</td><td>45.000.000.000</td><td>67.664.500.000</td></tr><tr><td>4.861.799.299.062</td><td>(318.709.500.000)</td><td>4.543.089.799.062</td><td>5.387.416.387.642</td></tr><tr><td>3.843.759.632.872</td><td>(164.000.000.000)</td><td>3.679.759.632.872</td><td>3.692.305.126.801</td></tr><tr><td>1.018.039.666.190</td><td>(154.709.500.000)</td><td>863.330.166.190</td><td>1.695.111.260.841</td></tr><tr><td>616.781.114.000</td><td>(89.940.967.187)</td><td>526.840.146.813</td><td>778.710.575.311</td></tr><tr><td>692.938.897.479</td><td>-</td><td>692.938.897.479</td><td>692.938.897.479</td></tr><tr><td>73.680.366.716</td><td>-</td><td>73.680.366.716</td><td>73.680.366.716</td></tr><tr><td>609.733.491.719</td><td>-</td><td>609.733.491.719</td><td>609.733.491.719</td></tr><tr><td>9.525.039.044</td><td>-</td><td>9.525.039.044</td><td>9.525.039.044</td></tr><tr><td>284.719.971.015</td><td>-</td><td>284.719.971.015</td><td>284.719.971.015</td></tr><tr><td>6.511.573.642.720</td><td>(408.650.467.187)</td><td>6.102.923.175.533</td><td>7.222.183.911.447</td></tr></table>
+
+<table><tr><td>Tài sản tài chính</td></tr><tr><td>Chứng khoán kinh doanh</td></tr><tr><td>- Cổ phiếu niêm yết</td></tr><tr><td>- Chứng chỉ quỹ</td></tr><tr><td>Đầu tư nắm giữ đến ngày đáo hạn</td></tr><tr><td>- Hợp đồng tiền gửi</td></tr><tr><td>- Trái phiếu</td></tr><tr><td>Đầu tư tài chính khác</td></tr><tr><td>Các khoản phải thu</td></tr><tr><td>- Phải thu các bên liên quan</td></tr><tr><td>- Phải thu cổ tức và lợi nhuận</td></tr><tr><td>- Phải thu khác</td></tr><tr><td>Tiền và các khoản tương đương tiền</td></tr><tr><td>TỔNG CỘNG</td></tr></table>
+
+B09-DN
+
+62
+
+===== PAGE 65 =====
+Tập đoàn Bảo Việt
+
+B09-DN
+
+THUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG (tiếp theo)
+
+tại ngày 31 tháng 12 năm 2021 và cho năm tài chính kết thúc cùng ngày
+
+29. THUYẾT MINH BỔ SUNG VỀ TÀI SẢN TÀI CHÍNH VÀ NỘ PHẢI TRÀ TÀI CHÍNH (tiếp theo)
+
+Bảng dưới đây trình bày giá trị ghi sổ và giá trị hợp lý của các khoản nợ phải trả tài chính được trình bày trên báo cáo tài chính riêng của Tập đoàn:
+
+<table><tr><td></td><td>Giá trị ghi số VND</td><td>Giá trị hợp lý VND</td></tr><tr><td colspan="3">Ngày 31 tháng 12 năm 2021</td></tr><tr><td colspan="3">Nợ phải trả tài chính</td></tr><tr><td>Phải trả các bên có liên quan</td><td>24.534.028.732</td><td>24.534.028.732</td></tr><tr><td>Phải trả tiền đặt cọc</td><td>1.306.080.000</td><td>1.306.080.000</td></tr><tr><td>Phải trả người bán</td><td>13.249.934.085</td><td>13.249.934.085</td></tr><tr><td>Phải trả khác</td><td>57.244.536.747</td><td>57.244.536.747</td></tr><tr><td>Vay và nợ</td><td>166.713.193.976</td><td>166.713.193.976</td></tr><tr><td>Tổng cộng</td><td>263.047.773.540</td><td>263.047.773.540</td></tr><tr><td colspan="3">Ngày 31 tháng 12 năm 2020</td></tr><tr><td colspan="3">Nợ phải trả tài chính</td></tr><tr><td>Phải trả các bên có liên quan</td><td>21.636.857.967</td><td>21.636.857.967</td></tr><tr><td>Phải trả tiền đặt cọc</td><td>1.306.080.000</td><td>1.306.080.000</td></tr><tr><td>Phải trả người bán</td><td>4.922.606.612</td><td>4.922.606.612</td></tr><tr><td>Phải trả khác</td><td>62.483.198.292</td><td>62.483.198.292</td></tr><tr><td>Vay và nợ</td><td>215.067.835.214</td><td>215.067.835.214</td></tr><tr><td>Tổng cộng</td><td>305.416.578.085</td><td>305.416.578.085</td></tr></table>
+
+Giá trị hợp lý cửa các tài sản tài chính và nợ phải trả tài chính được phần ánh theo giá trị mà công cụ tài chính có thể được chuyển đổi trong một giao dịch hiện tại giữa các bên tham gia ngoại trừ trường hợp bắt buộc phải bán hoặc thanh lý.
+
+Tập đoàn sử dụng các phương pháp và giả định sau đây để ước tính giá trị hợp lý:
+
+Giá trị hợp lý của các khoản đầu tư kỳ hạn cố định có lãi suất cố định hay thả nổi được Tập đoàn đánh giá dựa trên các thông tin như lãi suất, các rủi ro cụ thể trong phạm vi lãnh thổ, độ rủi ro của dự án được tài trợ và khả năng trả nợ vay của từng khách hàng. Tập đoàn ước tính giá trị hiện tại của các lường tiền trong tương lai bằng cách chiết khấu theo lãi suất thị trường.
+
+Giá trị hợp lý của các khoản đầu tư vốn được giao dịch tích cực trên thị trường tài chính có tổ chức được xác định theo giá công bố, nếu có, tại ngày báo cáo.
+
+Với các khoản đầu tư vốn không có thị trường tích cực, giá trị hợp lý được xác định bằng các phương pháp định giá phù hợp. Các phương pháp này bao gồm chiết khấu lường tiền, so sánh với các công cụ tài chính tương đồng có giá thị trường, giá trị tài sản ròng và các mô hình định giá liên quan.
+
+Giá trị hợp lý của tiền và các khoản tương đương tiền, các khoản phải thu khách hàng, các khoản phải trả người bán và các khoản ngắn hạn khác tương đương với giá trị ghi sổ của các khoản mục này do các công cụ này có kỳ hạn ngắn.
+
+Tại ngày báo cáo, Tập đoàn đánh giá xem liệu có tồn tại các bằng chứng khách quan về việc suy giảm giá trị của từng tài sản tài chính riêng biệt trong trường hợp các suy giảm đó là đáng kể. Đối với các tài sản bị giảm giá trị, lỗ do suy giảm giá trị được xác định là chênh lệch giữa giá trị ghi sổ và giá trị hiện tại của các dòng tiền ước tính trong tương lai chiết khấu theo lãi suất thực tế ban đầu.
+
+Đối với các tài sản tài chính và nợ phải trả tài chính mà không đủ thông tin thị trường để xác định giá trị hợp lý tại thời điểm lập báo cáo, giá trị ghi số của các khoản mục này được thể hiện thay cho giá trị hợp lý.
+
+63
+
+===== PAGE 66 =====
+Tập đoàn Bảo Việt
+
+B09-DN
+
+THUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG (tiếp theo)
+
+tại ngày 31 tháng 12 năm 2021 và cho năm tài chính kết thúc cùng ngày
+
+30. THÔNG TIN KHÁC
+
+Đại dịch Covid-19 tiếp tục ảnh hưởng tiêu cực đến hầu hết các doanh nghiệp và ngành nghề. Tập đoàn vẫn đang tiếp tục theo dõi các diễn biến, cũng như đánh giá các ảnh hưởng tài chính liên quan đến việc đánh giá tài sản, các khoản dự phòng và công nợ tiềm tàng, đồng thời sử dụng các ước tính và xét đoạn đối với các vấn đề khác nhau, dựa trên các thông tin tin cậy nhất có được đến ngày của báo cáo tài chính riêng này.
+
+31. CÁC SỰ KIỆN PHÁT SINH SAU NGÀY KẾT THỨC KỲ KẾ TOÁN NĂM
+
+Ngoài những sự kiện đã thuyết minh trong báo cáo tài chính riêng, không có sự kiện quan trọng nào phát sinh sau ngày 31 tháng 12 năm 2021 yêu cầu phải được điều chỉnh hay trình bày trong các báo cáo tài chính riêng của Tập đoàn.
+
+64
+
+===== PAGE 67 =====
+Tập đoàn Bảo Việt
+
+B09-DN
+
+THUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG (tiếp theo)
+
+tại ngày 31 tháng 12 năm 2021 và cho năm tài chính kết thúc cùng ngày
+
+32. MỘT SỐ CHỈ TIÊU PHÂN TÍCH ĐÁNH GIÁ KHÁI QUẤT TÌNH HÌNH HOẠT ĐỘNG CỦA TẬP ĐOÀN
+
+<table><tr><td></td><td>Đơn vị tính</td><td>Cho năm tài chính kết thúc ngày 31 tháng 12 năm 2021</td><td>Cho năm tài chính kết thúc ngày 31 tháng 12 năm 2020</td></tr><tr><td>Chỉ tiêu</td><td></td><td></td><td></td></tr></table>
+
+1. Bố trí cơ cấu tài sản và cơ cấu nguồn vốn
+
+<table><tr><td colspan="5">1.1 Bổ trí cơ cấu tài sản</td></tr><tr><td>-</td><td>Tài sản ngắn hạn/Tổng tài sản</td><td>%</td><td>26,42</td><td>24,98</td></tr><tr><td>-</td><td>Tài sản dài hạn/Tổng tài sản</td><td>%</td><td>73,58</td><td>75,02</td></tr></table>
+
+<table><tr><td colspan="4">1.2 Bố trí cơ cấu nguồn vốn</td></tr><tr><td>- Nợ phải trả/Tổng</td><td>%</td><td>2,05</td><td>2,18</td></tr><tr><td>- Nguồn vốn chủ sở hữu/Tổng</td><td></td><td></td><td></td></tr><tr><td>Nguồn vốn</td><td>%</td><td>97,95</td><td>97,82</td></tr></table>
+
+2. Khả năng thanh toán
+
+<table><tr><td>2.1 Khả năng thanh toán hiện hành</td><td>Lần</td><td>22,56</td><td>24,49</td></tr><tr><td>2.2 Khả năng thanh toán nhanh</td><td>Lần</td><td>22,56</td><td>24,49</td></tr></table>
+
+3. Tỷ suất sinh lời
+
+<table><tr><td colspan="4">3.1 Tỷ suất lợi nhuận/Doanh thu</td></tr><tr><td>- Tỷ suất lợi nhuận trước thuế/Doanh thu thuần</td><td>%</td><td>72,77</td><td>75,73</td></tr><tr><td>- Tỷ suất lợi nhuận sau thuế/Doanh thu thuần</td><td>%</td><td>69,19</td><td>71,81</td></tr></table>
+
+<table><tr><td colspan="4">3.2 Tỷ suất lợi nhuận/Tổng tài sản</td></tr><tr><td>-</td><td>Tỷ suất lợi nhuận trước thuế/Tổng tài sản</td><td>%</td><td>5,78</td></tr><tr><td>-</td><td>Tỷ suất lợi nhuận sau thuế/Tổng tài sản</td><td>%</td><td>5,50</td></tr></table>
+
+<table><tr><td>3.3 Tỷ suất lợi nhuận sau thuế/Nguồn vốn chủ sở hữu</td><td>%</td><td>5,61</td><td>5,62</td></tr></table>
+
+Hà Nội, Việt Nam
+
+Ngày 31 tháng 03 năm 2022
+
+65

@@ -1,0 +1,208 @@
+===== PAGE 1 =====
+BÁO CÁO TÀI CHÍNH HỢP NHẤT
+ĐÃ ĐƯỢC KIỂM TOÁN
+
+Năm tài chính kết thúc ngày 31 tháng 12 năm 2015
+
+NGÂN HÀNG THƯƠNG MẠI CỔ PHẦN SÀI
+GÒN CÔNG THƯƠNG
+
+===== PAGE 2 =====
+(1) 2024年1月1日至2024年1月31日，公司与关联方累计发生关联交易的总金额为人民币45,000万元。
+
+NGÂN HÀNG THƯƠNG MẠI CỔ PHẦN SÀI GÒN CÔNG THƯƠNG
+
+Mẫu số: B02/TCTD-HN
+
+BẢNG CÂN ĐỐI KẾ TOÁN HỢP NHẤT
+
+Tại ngày 31 tháng 12 năm 2015
+
+Đơn vị tính: Triệu đồng Việt Nam
+
+<table><tr><td>CHỈ TIÊU</td><td>Thuyết minh</td><td>31/12/2015</td><td>31/12/2014</td></tr><tr><td colspan="4">A. TÀI SẢN</td></tr><tr><td>I. Tiền mặt, vàng bạc, đá quý</td><td>V.01</td><td>190.900</td><td>187.678</td></tr><tr><td>II. Tiền gửi tại ngân hàng nhà nước</td><td>V.02</td><td>477.364</td><td>563.314</td></tr><tr><td>III. Tiền, vàng gửi tại các TCTD khác và cho vay các TCTD khác</td><td>V.03</td><td>1.370.657</td><td>132.356</td></tr><tr><td>1. Tiền, vàng gửi tại các TCTD khác</td><td></td><td>1.370.657</td><td>132.356</td></tr><tr><td>2. Cho vay các TCTD khác</td><td></td><td>-</td><td>-</td></tr><tr><td>3. Dự phòng rủi ro cho vay các TCTD khác</td><td></td><td>-</td><td>-</td></tr><tr><td>IV. Chứng khoán kinh doanh</td><td>V.04</td><td>-</td><td>35.000</td></tr><tr><td>1. Chứng khoán kinh doanh</td><td></td><td>-</td><td>35.000</td></tr><tr><td>2. Dự phòng giảm giá chứng khoán kinh doanh</td><td></td><td>-</td><td>-</td></tr><tr><td>V. Các công cụ tài chính phải sinh và các tài sản tài chính khác</td><td>V.05</td><td>3.068</td><td>-</td></tr><tr><td>VI. Cho vay khách hàng</td><td></td><td>11.520.181</td><td>11.139.340</td></tr><tr><td>1. Cho vay khách hàng</td><td>V.06</td><td>11.612.018</td><td>11.232.242</td></tr><tr><td>2. Dự phòng rủi ro cho vay khách hàng</td><td>V.07</td><td>(91.837)</td><td>(92.902)</td></tr><tr><td>VII. Hoạt động mua nợ</td><td></td><td>-</td><td>-</td></tr><tr><td>1. Mua nợ</td><td></td><td>-</td><td>-</td></tr><tr><td>2. Dự phòng rủi ro hoạt động mua nợ</td><td></td><td>-</td><td>-</td></tr><tr><td>VII. Chứng khoán đầu tư</td><td>V.08</td><td>2.528.123</td><td>2.128.387</td></tr><tr><td>1. Chứng khoán đầu tư sẵn sàng để bán</td><td></td><td>-</td><td>670.580</td></tr><tr><td>2. Chứng khoán đầu tư giữ đến ngày đáo hạn</td><td></td><td>2.772.732</td><td>1.510.458</td></tr><tr><td>3. Dự phòng giảm giá chứng khoán đầu tư</td><td></td><td>(244.609)</td><td>(52.651)</td></tr><tr><td>VIII. Góp vốn, đầu tư dài hạn</td><td>V.09</td><td>117.336</td><td>118.086</td></tr><tr><td>1. Đầu tư vào công ty con</td><td></td><td>-</td><td>-</td></tr><tr><td>2. Vốn góp liên doanh</td><td></td><td>-</td><td>-</td></tr><tr><td>3. Đầu tư vào công ty liên kết</td><td></td><td>-</td><td>-</td></tr><tr><td>4. Đầu tư dài hạn khác</td><td></td><td>118.276</td><td>118.276</td></tr><tr><td>5. Dự phòng giảm giá đầu tư dài hạn</td><td></td><td>(940)</td><td>(190)</td></tr></table>
+
+Các thuyết minh báo cáo tài chính là phần không thể tách rời của báo cáo này.
+
+Trang 5
+
+\( \therefore {S}_{\Delta APQ} = {S}_{\Delta AQP} + {S}_{\Delta PQQ} \)
+
+===== PAGE 3 =====
+[Non-Text]
+
+NGÂN HÀNG THƯƠNG MẠI CỔ PHẦN SÀI GÒN CÔNG THƯƠNG
+
+Mẫu số: B02/TCTD-HN
+
+BẢNG CÂN ĐỐI KẾ TOÁN HỢP NHẤT
+
+Tại ngày 31 tháng 12 năm 2015
+
+Đơn vị tính: Triệu đồng Việt Nam
+
+<table><tr><td>CHỈ TIÊU</td><td>Thuyết minh</td><td>31/12/2015</td><td>31/12/2014</td></tr><tr><td>IX. Tài sản cố định</td><td></td><td>947.836</td><td>952.272</td></tr><tr><td>1. Tài sản cố định hữu hình</td><td>V.10</td><td>587.865</td><td>595.690</td></tr><tr><td>a. Nguyên giá tài sản cố định hữu hình</td><td></td><td>879.943</td><td>853.318</td></tr><tr><td>b. Hao mòn tài sản cố định hữu hình</td><td></td><td>(292.078)</td><td>(257.628)</td></tr><tr><td>2. Tài sản cố định thuê tài chính</td><td>V.11</td><td>-</td><td>-</td></tr><tr><td>a. Nguyên giá tài sản cố định thuê tài chính</td><td></td><td>-</td><td>-</td></tr><tr><td>b. Hao mòn tài sản cố định thuê tài chính</td><td></td><td>-</td><td>-</td></tr><tr><td>3. Tài sản cố định vô hình</td><td>V.12</td><td>359.971</td><td>356.582</td></tr><tr><td>a. Nguyên giá tài sản cố định vô hình</td><td></td><td>412.150</td><td>405.866</td></tr><tr><td>b. Hao mòn tài sản cố định vô hình</td><td></td><td>(52.179)</td><td>(49.284)</td></tr><tr><td>X. Bất động sản đầu tư</td><td>V.13</td><td>-</td><td>-</td></tr><tr><td>a. Nguyên giá bất động sản đầu tư</td><td></td><td>-</td><td>-</td></tr><tr><td>b. Hao mòn bất động sản đầu tư</td><td></td><td>-</td><td>-</td></tr><tr><td>XI. Tài sản có khác</td><td>V.14</td><td>593.280</td><td>566.903</td></tr><tr><td>1. Các khoản phải thu</td><td>V.14.1&amp;2</td><td>227.090</td><td>239.252</td></tr><tr><td>2. Các khoản lãi, phí phải thu</td><td></td><td>198.844</td><td>202.040</td></tr><tr><td>3. Tài sản thuế TNDN hoãn lại</td><td>V.22.1</td><td>-</td><td>-</td></tr><tr><td>4. Tài sản Có khác</td><td>V.14.3</td><td>167.346</td><td>125.611</td></tr><tr><td>- Trong đó: Lợi thế thương mại</td><td>V.15</td><td>-</td><td>-</td></tr><tr><td>5. Các khoản dự phòng rủi ro cho các tài sản Có nội bảng khác</td><td></td><td>-</td><td>-</td></tr><tr><td>TỔNG TÀI SẢN CÓ</td><td></td><td>17.748.745</td><td>15.823.336</td></tr></table>
+
+Các thuyết minh báo cáo tài chính là phần không thể tách rời của báo cáo này.
+
+Trang 6
+
+이용품명한 10%
+
+===== PAGE 4 =====
+NGÂN HÀNG THƯƠNG MẠI CỔ PHẦN SÀI GÒN CÔNG THƯƠNG
+
+Mẫu số: B02/TCTD-HN
+
+BẢNG CÂN ĐỐI KẾ TOÁN HỢP NHẤT
+
+Tại ngày 31 tháng 12 năm 2015
+
+Đơn vị tính: Triệu đồng Việt Nam
+
+<table><tr><td>CHỈ TIÊU</td><td>Thuyết minh</td><td>31/12/2015</td><td>31/12/2014</td></tr><tr><td colspan="4">B. NỘ PHẢI TRẢ VÀ VỐN CHỦ SỞ HỮU</td></tr><tr><td>I. Các khoản nợ chính phủ và Ngân hàng Nhà nước</td><td>V.16</td><td>-</td><td>129.121</td></tr><tr><td>II. Tiền gửi và vay các TCTD khác</td><td>V.17</td><td>945.771</td><td>91.607</td></tr><tr><td>1. Tiền gửi của các TCTD khác</td><td></td><td>894.494</td><td>18.783</td></tr><tr><td>2. Vay các TCTD khác</td><td></td><td>51.277</td><td>72.824</td></tr><tr><td>III. Tiền gửi của khách hàng</td><td>V.18</td><td>13.141.759</td><td>11.843.167</td></tr><tr><td>IV. Các công cụ tài chính phải sinh và các khoản nợ tài chính khác</td><td>V.05</td><td>-</td><td>-</td></tr><tr><td>V. Vốn tài trợ, Ủy thác đầu tư, cho vay TCTD chịu rủi ro</td><td>V.19</td><td>-</td><td>-</td></tr><tr><td>VI. Phát hành giấy tờ có giá</td><td>V.20</td><td>-</td><td>-</td></tr><tr><td>VII. Các khoản nợ khác</td><td></td><td>270.271</td><td>273.611</td></tr><tr><td>1. Các khoản lãi, phí phải trả</td><td></td><td>167.664</td><td>127.499</td></tr><tr><td>2. Thuế TNDN hoãn lại phải trả</td><td>V.22.2</td><td>-</td><td>-</td></tr><tr><td>3. Các khoản phải trả và công nợ khác</td><td>V.21</td><td>102.607</td><td>146.112</td></tr><tr><td>4. Dự phòng rủi ro khác (DP cho công nợ tiềm ẩn và cam kết ngoại bảng)</td><td>V.21</td><td>-</td><td>-</td></tr><tr><td>TỔNG NỘ PHẢI TRẢ</td><td></td><td>14.357.801</td><td>12.337.506</td></tr></table>
+
+Các thuyết minh báo cáo tài chính là phần không thể tách rời của báo cáo này.
+
+Trang 7
+
+===== PAGE 5 =====
+[Non-Text]
+
+NGÂN HÀNG THƯƠNG MẠI CỔ PHẦN SÀI GÒN CÔNG THƯƠNG
+
+Mẫu số: B02/TCTD-HN
+
+BẢNG CÂN ĐỐI KẾ TOÁN HỢP NHẤT
+
+Tại ngày 31 tháng 12 năm 2015
+
+Đơn vị tính: Triệu đồng Việt Nam
+
+<table><tr><td>CHỈ TIÊU</td><td>Thuyết minh</td><td>31/12/2015</td><td>31/12/2014</td></tr><tr><td>VIII. Vốn và các quỹ</td><td>V.23</td><td>3.390.944</td><td>3.485.830</td></tr><tr><td>1. Vốn của TCTD</td><td></td><td>3.080.716</td><td>3.080.716</td></tr><tr><td>a. Vốn điều lệ</td><td></td><td>3.080.000</td><td>3.080.000</td></tr><tr><td>b. Vốn đầu tư XDCB</td><td></td><td>-</td><td>-</td></tr><tr><td>c. Thặng dư vốn cổ phần</td><td></td><td>716</td><td>716</td></tr><tr><td>d. Cổ phiếu quỹ</td><td></td><td>-</td><td>-</td></tr><tr><td>e. Cổ phiếu ưu đãi</td><td></td><td>-</td><td>-</td></tr><tr><td>g. Vốn khác</td><td></td><td>-</td><td>-</td></tr><tr><td>2. Quỹ của TCTD</td><td></td><td>245.682</td><td>218.550</td></tr><tr><td>3. Chênh lệch tỷ giá hối đoái</td><td></td><td>-</td><td>-</td></tr><tr><td>4. Chênh lệch đánh giá lại tài sản</td><td></td><td>-</td><td>-</td></tr><tr><td>5. Lợi nhuận chưa phân phối</td><td></td><td>64.546</td><td>186.564</td></tr><tr><td>IX. Lợi ích của cổ đông thiểu số</td><td></td><td>-</td><td>-</td></tr></table>
+
+TỔNG NỘ PHẢI TRẢ VÀ VỐN CHỦ SỞ HỮU
+
+<table><tr><td>17.748.745</td><td>15.823.336</td></tr></table>
+
+CÁC CHỈ TIÊU NGOÀI BẢNG CÂN ĐỐI KẾ TOÁN
+
+<table><tr><td>CHỈ TIÊU</td><td>Thuyết minh</td><td>31/12/2015</td><td>31/12/2014</td></tr><tr><td>I. Nghĩa vụ nợ tiềm ăn</td><td>VIII.38</td><td>364.830</td><td>294.583</td></tr><tr><td>1. Bảo lãnh vay vốn</td><td></td><td>-</td><td>18.500</td></tr><tr><td>2.Cam kết giao dịch ngoại hối</td><td></td><td>109.450</td><td>-</td></tr><tr><td>Cam kết bán ngoại tệ</td><td></td><td>109.450</td><td>-</td></tr><tr><td>4. Cam kết trong nghiệp vụ L/C</td><td></td><td>118.463</td><td>121.631</td></tr><tr><td>5. Bảo lãnh khác</td><td></td><td>136.917</td><td>154.452</td></tr></table>
+
+Lập bằng
+
+Nguyễn Thị Thanh Thủy
+
+$duv
+
+Kế toán trưởng
+
+Đỗ Thị Loan Anh
+
+Tp. HCM, ngày 25 tháng 3 năm 2016
+
+Các thuyết minh báo cáo tài chính là phần không thể tách rời của báo cáo này.
+
+Trang 8
+
+===== PAGE 6 =====
+[Non-Text]
+
+NGÂN HÀNG THƯƠNG MẠI CỔ PHẦN SÀI GÒN CÔNG THƯƠNG
+
+Mẫu số: B03/TCTD-HN
+
+BÁO CÁO KẾT QUẢ KINH DOANH HỢP NHẤT
+
+Năm tài chính kết thúc ngày 31 tháng 12 năm 2015
+
+Đơn vị tính: Triệu đồng Việt Nam
+
+<table><tr><td>CHỈ TIÊU</td><td>Thuyết minh</td><td>Năm 2015</td><td>Năm 2014</td></tr><tr><td>1. Thu nhập lãi và các khoản thu nhập tương tự</td><td>VI.24</td><td>1.313.359</td><td>1.392.266</td></tr><tr><td>2. Chi phí lãi và các chi phí tương tự</td><td>VI.25</td><td>690.537</td><td>716.485</td></tr><tr><td>I. Thu nhập lãi thuần</td><td></td><td>622.822</td><td>675.781</td></tr><tr><td>3. Thu nhập từ hoạt động dịch vụ</td><td></td><td>51.113</td><td>54.398</td></tr><tr><td>4. Chi phí hoạt động dịch vụ</td><td></td><td>20.249</td><td>19.961</td></tr><tr><td>II. Lãi/lỗ thuần từ hoạt động dịch vụ</td><td>VI.26</td><td>30.864</td><td>34.437</td></tr><tr><td>III. Lãi/lỗ thuần từ hoạt động kinh doanh ngoại hối</td><td>VI.27</td><td>21.822</td><td>22.197</td></tr><tr><td>IV. Lãi/lỗ thuần từ mua bán chứng khoán kinh doanh</td><td>VI.28</td><td>2.565</td><td>99</td></tr><tr><td>V. Lãi/lỗ thuần từ mua bán chứng khoán đầu tư</td><td>VI.29</td><td>-</td><td>-</td></tr><tr><td>5. Thu nhập từ hoạt động khác</td><td></td><td>38.658</td><td>82.877</td></tr><tr><td>6. Chi phí hoạt động khác</td><td></td><td>18.007</td><td>26.144</td></tr><tr><td>VI. Lãi/lỗ thuần từ hoạt động khác</td><td>VI.31</td><td>20.651</td><td>56.733</td></tr><tr><td>VII. Thu nhập từ góp vốn, mua cổ phần</td><td>&quot;VI.30</td><td>1.735</td><td>4.627</td></tr><tr><td>VIII. Chi phí hoạt động</td><td>VI.32</td><td>377.440</td><td>319.213</td></tr><tr><td>IX. Lợi nhuận thuần từ hoạt động kinh doanh trước chi phí dự phòng rủi ro tín dụng</td><td></td><td>323.019</td><td>474.661</td></tr><tr><td>X. Chi phí dự phòng rủi ro tín dụng</td><td></td><td>268.286</td><td>244.054</td></tr><tr><td>XI. Tổng lợi nhuận trước thuế</td><td></td><td>54.733</td><td>230.607</td></tr><tr><td>7. Chi phí thuế TNDN hiện hành</td><td></td><td>11.619</td><td>~49.722</td></tr><tr><td>8. Chi phí thuế TNDN hoãn lại</td><td></td><td>-</td><td>-</td></tr><tr><td>XII. Chi phí thuế Thu nhập doanh nghiệp</td><td>VI.33</td><td>11.619</td><td>49.722</td></tr><tr><td>XIII. Lợi nhuận sau thuế Thu nhập doanh nghiệp</td><td></td><td>43.114</td><td>180.885</td></tr><tr><td>XIV. Lợi ích của cổ đông thiểu số</td><td></td><td>-</td><td>-</td></tr><tr><td>XV. Lãi cơ bản trên cổ phiếu</td><td>VI.23.2</td><td>140</td><td>587</td></tr></table>
+
+Lập bằng
+
+Nguyễn Thị Thanh Thuỷ
+
+Kế toán trưởng
+
+Đỗ Thị Loan Anh
+
+Trần Thị Việt Ánh
+
+Các thuyết minh báo cáo tài chính là phần không thể tách rời của báo cáo này.
+
+Trang 9
+
+===== PAGE 7 =====
+[Non-Text]
+
+NGÂN HÀNG THƯƠNG MẠI CỔ PHẦN SÀI GÒN CÔNG THƯƠNG
+
+Mẫu số: B04/TCTD-HN
+
+BÁO CÁO LƯU CHUYÊN TIỀN TỆ HỢP NHẤT
+
+(Theo phương pháp trực tiếp)
+
+Năm tài chính kết thúc ngày 31 tháng 12 năm 2015
+
+Đơn vị tính: Triệu đồng Việt Num
+
+<table><tr><td>CHỈ TIÊU</td><td>Thuyết minh</td><td>Năm 2015</td><td>Năm 2014</td></tr><tr><td colspan="4">LU&#x27;U CHUYỀN TIỀN TỪ HOẠT ĐỘNG KINH DOANH</td></tr><tr><td>01. Thu nhập lãi và các khoản thu nhập tương tự nhận được</td><td></td><td>1.316.554</td><td>1.366.102</td></tr><tr><td>02. Chi phí lãi và các khoản thu nhập tương tự đã trả</td><td></td><td>(650.372)</td><td>(728.739)</td></tr><tr><td>03. Thu nhập từ hoạt động dịch vụ nhận được</td><td></td><td>30.864</td><td>34.438</td></tr><tr><td>04. Chênh lệch số tiền thực thu/ thực chi từ hoạt động kinh doanh (ngoại tệ, vàng bạc, chứng khoán)</td><td></td><td>24.387</td><td>22.295</td></tr><tr><td>05. Thu nhập khác</td><td></td><td>(9.557)</td><td>23.036</td></tr><tr><td>06. Tiền thu các khoản nợ đã được xử lý hoá, bù đáp bằng nguồn rủi ro</td><td></td><td>25.873</td><td>27.700</td></tr><tr><td>07. Tiền chi trả cho nhân viên và hoạt động quản lý, công vụ</td><td></td><td>(336.869)</td><td>(278.858)</td></tr><tr><td>08. Tiền thuế thu nhập thực nộp trong năm</td><td></td><td>(6.335)</td><td>(3.634)</td></tr><tr><td>Lưu chuyển tiền thuần từ hoạt động kinh doanh trước những thay đổi về tài sản và vốn lưu động</td><td></td><td>394.545</td><td>462.340</td></tr><tr><td colspan="4">Những thay đổi về tài sản hoạt động</td></tr><tr><td>09. (Tăng)/Giảm các khoản tiền, vàng gửi và cho vay các TCTD khác</td><td></td><td>-</td><td>-</td></tr><tr><td>10. (Tăng)/Giảm các khoản về kinh doanh chứng khoán</td><td></td><td>(364.736)</td><td>(593.568)</td></tr><tr><td>11. (Tăng)/Giảm các công cụ tài chính phải sinh và các tài sản tài chính khác</td><td></td><td>(3.068)</td><td>-</td></tr><tr><td>12. (Tăng)/Giảm các khoản cho vay khách hàng</td><td></td><td>(379.776)</td><td>(562.274)</td></tr><tr><td>13. Giảm nguồn dự phòng để bù đáp tổn thất các khoản</td><td></td><td>(77.256)</td><td>(191.251)</td></tr><tr><td>14. (Tăng)/Giảm khác về tài sản hoạt động</td><td></td><td>(218.483)</td><td>(107.074)</td></tr></table>
+
+Các thuyết minh báo cáo tài chính là phần không thể tách rời của báo cáo này.
+
+Trang 10
+
+===== PAGE 8 =====
+NGÂN HÀNG THƯƠNG MẠI CỔ PHẦN SÀI GÒN CÔNG THƯƠNG
+
+Mâu số: B04/TCTD-HN
+
+BÁO CÁO LƯU CHUYÊN TIỀN TỆ HỢP NHẤT
+
+(Theo phương pháp trực tiếp)
+
+Năm tài chính kết thúc ngày 31 tháng 12 năm 2015
+
+Đơn vị tính: Triệu đồng Việt Nam
+
+<table><tr><td>CHỈ TIÊU</td><td>Thuyết minh</td><td>Năm 2015</td><td>Năm 2014</td></tr><tr><td colspan="4">Những thay đổi về công nợ hoạt động</td></tr><tr><td>15. Tăng/(Giảm) các khoản nợ chính phủ và NHNN</td><td></td><td>(129.121)</td><td>129.121</td></tr><tr><td>16. Tăng/(Giảm) các khoản tiền gửi và vay các TCTD</td><td></td><td>854.164</td><td>71.490</td></tr><tr><td>17. Tăng/(Giảm) tiền gửi của khách hàng (bao gồm cả Kho bạc Nhà nước)</td><td></td><td>1.298.592</td><td>1.040.132</td></tr><tr><td>18. Tăng/(Giảm) phát hành giấy tờ có giá (ngoại trừ GTCG được tính vào hoạt động tài chính)</td><td></td><td>-</td><td>-</td></tr><tr><td>19. Tăng/(Giảm) vốn tài trợ, ủy thác đầu tư, cho vay mà TCTD chịu rủi ro</td><td></td><td>-</td><td>(108.356)</td></tr><tr><td>20. Tăng/(Giảm) các công cụ tài chính phải sinh và các khoản nợ tài chính khác</td><td></td><td>-</td><td>-</td></tr><tr><td>21. Tăng/(Giảm) khác về công nợ hoạt động</td><td></td><td>(94.452)</td><td>(86.385)</td></tr><tr><td>22. Chi từ các quỹ của tổ chức tín dụng</td><td></td><td>-</td><td>(14.324)</td></tr><tr><td>I. Lưu chuyển tiền thuần từ hoạt động kinh doanh</td><td></td><td>1.280.409</td><td>39.851</td></tr><tr><td colspan="4">LU&#x27;U CHUYÊN TIỀN TỪ HOẠT ĐỘNG ĐẦU TƯ</td></tr><tr><td>01. Mua sắm TSCĐ</td><td></td><td>(38.569)</td><td>(143.684)</td></tr><tr><td>02. Tiền thu từ thanh lý, nhượng bán TSCĐ</td><td></td><td>4.335</td><td>5.996</td></tr><tr><td>03. Tiền chi từ thanh-lý, nhượng bán TSCĐ</td><td></td><td>-</td><td>-</td></tr><tr><td>04. Mua sắm bất động sản đầu tư</td><td></td><td>-</td><td>-</td></tr><tr><td>05. Tiền thu từ bán, thanh lý bất động sản đầu tư</td><td></td><td>-</td><td>-</td></tr><tr><td>06. Tiền chi ra do bán, thanh lý bất động sản đầu tư</td><td></td><td>-</td><td>-</td></tr><tr><td>07. Tiền chi đầu tư, góp vốn vào các đơn vị khác</td><td></td><td>-</td><td>-</td></tr><tr><td>08. Tiền thu đầu tư, góp vốn vào các đơn vị khác</td><td></td><td>-</td><td>-</td></tr><tr><td>09. Tiền thu cổ tức và lợi nhuận được chia từ các khoản đầu tư, góp vốn dài hạn</td><td></td><td>1.735</td><td>4.627</td></tr><tr><td>II. Lưu chuyển tiền từ hoạt động đầu tư</td><td></td><td>(32.499)</td><td>(133.061)</td></tr></table>
+
+Các thuyết minh báo cáo tài chính là phần không thể tách rời của báo cáo này.
+
+Trang 11
+
+===== PAGE 9 =====
+[Non-Text]
+
+NGÂN HÀNG THƯƠNG MẠI CỔ PHẦN SÀI GÒN CÔNG THƯƠNG
+
+Mâu số: B04/TCTD-HN
+
+BÁO CÁO LƯU CHUYÊN TIỀN TỆ HỢP NHẤT
+
+(Theo phương pháp trực tiếp)
+
+Năm tài chính kết thúc ngày 31 tháng 12 năm 2015
+
+Đơn vị tính: Triệu đồng Việt Nam
+
+<table><tr><td>CHỈ TIÊU</td><td>Thuyết minh</td><td>Năm 2015</td><td>Năm 2014</td></tr><tr><td colspan="4">LU&#x27;U CHUYÊN TIÊN TỪ HOẠT ĐỘNG TÀI CHÍNH</td></tr><tr><td>01. Tăng vốn cổ phần từ góp vốn và/hoặc phát hành cổ phiếu</td><td></td><td>-</td><td>-</td></tr><tr><td>02. Tiền thu từ phát hành giấy tờ có giá dài hạn đủ điều kiện tính vào vốn tự có và các khoản vốn vay dài hạn khác</td><td></td><td>-</td><td>-</td></tr><tr><td>03. Tiền chi thanh toán giấy tờ có giá dài hạn đủ điều kiện tính vào vốn tự có và các khoản vốn vay dài hạn khác</td><td></td><td>-</td><td>-</td></tr><tr><td>04. Cổ tức trả cho cổ đông, lợi nhuận đã chia</td><td></td><td>(92.337)</td><td>(107.800)</td></tr><tr><td>05. Tiền chi ra mua cổ phiếu quỹ</td><td></td><td>-</td><td>-</td></tr><tr><td>06. Tiền thu được do bán cổ phiếu quỹ</td><td></td><td>-</td><td>-</td></tr><tr><td>III. Lưu chuyển tiền từ hoạt động tài chính</td><td></td><td>(92.337)</td><td>(107.800)</td></tr><tr><td>IV. Lưu chuyển tiền thuần trong năm</td><td></td><td>1.155.573</td><td>(201.010)</td></tr><tr><td>V. Tiền và các khoản tương đương tiền đầu năm</td><td></td><td>883.348</td><td>1.084.357</td></tr><tr><td>VI. Điều chỉnh của ảnh hưởng thay đổi tỷ giá</td><td></td><td>-</td><td>-</td></tr><tr><td>VII. Tiền và các khoản tương đương tiền cuối năm</td><td>VII.34</td><td>2.038.921</td><td>883.347</td></tr></table>
+
+Lập bằng
+
+Nguyễn Thị Thanh Thủy
+
+Kế toán trưởng
+
+Đô Thị Loan Anh
+
+Tp. HCM, ngày 25 tháng 3 năm 2016
+
+Tổng Giám đốc
+
+Các thuyết minh báo cáo tài chính là phần không thể tách rời của báo cáo này.
+
+Trang 12

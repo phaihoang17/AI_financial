@@ -1,0 +1,1471 @@
+===== PAGE 1 =====
+Công ty Cổ phần Đầu tư Nam Long
+
+Báo cáo tài chính hợp nhất
+
+Ngày 31 tháng 12 năm 2017
+
+===== PAGE 2 =====
+Công ty Cổ phần Đầu tư Nam Long
+
+MỤC LỤC
+
+Trang
+
+Thông tin chung 1 - 2
+
+Báo cáo của Ban Tổng Giám đốc 3
+
+Báo cáo kiểm toán độc lập 4 - 5
+
+Bảng cân đối kế toán hợp nhất 6 - 8
+
+Báo cáo kết quả hoạt động kinh doanh hợp nhất 9
+
+Báo cáo lưu chuyển tiền tệ hợp nhất 10 - 11
+
+Thuyết minh báo cáo tài chính hợp nhất 12 - 47
+
+===== PAGE 3 =====
+Công ty Cổ phần Đầu tư Nam Long
+
+THÔNG TIN CHUNG
+
+CÔNG TY
+
+Công ty Cổ phần Đầu tư Nam Long ("Công ty") là một công ty cổ phần được thành lập theo Luật Doanh nghiệp của Việt Nam theo Giấy Chứng nhận Đăng ký Kinh doanh số 4103004194, do Sở Kế hoạch và Đầu tư Thành phố Hồ Chí Minh ("SKHĐT") cấp ngày 27 tháng 12 năm 2005, và theo Giấy Chứng nhận Đăng ký Kinh doanh điều chỉnh lần thứ 16 vào ngày 24 tháng 8 năm 2017.
+
+Cổ phiếu của Công ty được niêm yết tại Sở Giao dịch Chứng khoán Thành phố Hồ Chí Minh ("SGDCK HCM") với mã NLG theo Quyết định số 14/2013/QĐ-SGDHCM do SGDCK HCM cấp ngày 25 tháng 1 năm 2013.
+
+Vào ngày 31 tháng 12 năm 2017, Công ty có mươi bốn công ty con trực tiếp, hai công ty con gián tiếp, một công ty liên kết và một công ty liên doanh với chi tiết như sau:
+
+<table><tr><td></td><td>Địa điểm</td><td>Ngành nghề kinh doanh</td><td>Tỷ lệ sở hữu %</td></tr><tr><td colspan="4">Công ty</td></tr><tr><td colspan="4">Công ty con</td></tr><tr><td>Công ty TNHH MTV Quản lý và Khai thác Bất Động Sản Nam Long</td><td>Tp. Hồ Chí Minh (&quot;TPHCM&quot;)</td><td>Xây dựng và bất động sản</td><td>100</td></tr><tr><td>Công ty TNHH MTV Dịch vụ Nam Long</td><td>TPHCM</td><td>Dịch vụ và xây lắp</td><td>100</td></tr><tr><td>Công ty Cổ phần Nam Long - Hồng Phát</td><td>Tp. Cần Thơ</td><td>Xây dựng và bất động sản</td><td>99,98</td></tr><tr><td>Công ty Cổ phần Bất Động Sản Nguyên Sơn</td><td>TPHCM</td><td>Bất động sản</td><td>87,33</td></tr><tr><td>Công ty Cổ phần Phát triển Cần hộ Nam Long</td><td>TPHCM</td><td>Xây dựng và bất động sản</td><td>97,14</td></tr><tr><td>Công ty TNHH Một Thành Viên Sàn giao dịch Bất động sản Nam Long</td><td>TPHCM</td><td>Sản giao dịch bất động sản</td><td>100</td></tr><tr><td>Công ty TNHH Một Thành Viên Đầu tư Xây dựng Phát triển Nam Khang</td><td>TPHCM</td><td>Xây dựng và bất động sản</td><td>100</td></tr><tr><td>Công ty Cổ phần Tư vấn Thiết kế và Xây dựng Nam Viên</td><td>TPHCM</td><td>Dịch vụ</td><td>81,25</td></tr><tr><td>Công ty TNHH Kinh doanh Vật liệu Xây dựng Nam Khang</td><td>TPHCM</td><td>Kinh doanh thương mại vật liệu xây dựng</td><td>100</td></tr><tr><td>Công ty Cổ phần Nam Long VCD</td><td>Tỉnh Long An</td><td>Xây dựng và bất động sản</td><td>99,91</td></tr><tr><td>Công ty Cổ phần Đầu tư Nam Phan</td><td>TPHCM</td><td>Xây dựng và bất động sản</td><td>100</td></tr><tr><td>Công ty TNHH Đầu tư và Kinh doanh Bất động sản Nguyên Phúc</td><td>TPHCM</td><td>Bất động sản</td><td>50,00</td></tr><tr><td>Công ty TNHH Đầu tư và Kinh doanh Bất động sản Thảo Nguyên</td><td>TPHCM</td><td>Bất động sản</td><td>50,00</td></tr><tr><td>Công ty TNHH NLG – NNR – HR – Fuji</td><td>TPHCM</td><td>Xây dựng và bất động sản</td><td>50,00</td></tr><tr><td>Công ty TNHH NNH Kikyo Flora</td><td>TPHCM</td><td>Bất động sản</td><td>50,00</td></tr><tr><td>Công ty TNHH NNH Kikyo Valora</td><td>TPHCM</td><td>Bất động sản</td><td>50,00</td></tr><tr><td colspan="4">Công ty liên doanh</td></tr><tr><td>Công ty Cổ phần NNH Mizuki</td><td>TPHCM</td><td>Bất động sản</td><td>50,00</td></tr><tr><td colspan="4">Công ty liên kết</td></tr><tr><td>Công ty TNHH Okamura Tokyo</td><td>TPHCM</td><td>Bất động sản</td><td>30,59</td></tr></table>
+
+1
+
+===== PAGE 4 =====
+Công ty Cổ phần Đầu tư Nam Long
+
+THÔNG TIN CHUNG (tiếp theo)
+
+CÔNG TY (tiếp theo)
+
+Hoạt động chính theo đăng ký trong năm hiện hành của Công ty và các công ty con ("Nhóm Công ty") là trong lĩnh vực xây dựng công nghiệp và dân dụng; sửa chữa nhà ở và trang trí nội thất; kinh doanh nhà ở (xây dựng, sửa chữa nhà đề bản hoặc cho thuê); xây dựng cầu đường bên cảng; san lắp mặt bằng; thì công xây dựng hệ thống cấp thoát nước; lắp đặt và sửa chữa hệ thống điện dưới 35KV; dịch vụ môi giới nhà đất; khai thác, mua bán vật liệu xây dựng; đầu tư xây dựng và kinh doanh khu đô thị; đầu tư xây dựng và kinh doanh kết cấu hạ tầng khu công nghiệp, khu công nghệ cao, đầu tư xây dựng, kinh doanh, quản lý, khai thác, cho thuê công trình: cao óc văn phòng, siêu thị, trường học, bề boi, khách sạn, nhà hàng, sân golf, khu thể dục thể thao, khu du lịch nghĩ mát (không hoạt động tại trụ sở); dịch vụ tư vấn quản lý dự án; thẩm tra thiết kế; dịch vụ môi giới bất động sản; dịch vụ định giá bất động sản; dịch vụ sàn giao dịch bất động sản; dịch vụ tư vấn bất động sản; dịch vụ đấu giá bất động sản; dịch vụ quảng cáo bất động sản; dịch vụ quản lý bất động sản.
+
+Công ty có trụ sở chính tại Lầu 11, Tòa nhà Capital Tower, số 6 Nguyễn Khắc Viện, Phường Tân Phú, Quận 7, thành phố Hồ Chí Minh, Việt Nam và một chi nhánh tại thành phố Cần Thơ, Việt Nam.
+
+HỘI ĐỒNG QUẢN TRỊ
+
+Các thành viên Hội đồng Quản trị trong năm và vào ngày lập báo cáo này như sau:
+
+<table><tr><td>Ông Nguyễn Xuân Quang</td><td>Chủ tịch</td></tr><tr><td>Ông Trần Thanh Phong</td><td>Phó Chủ tịch</td></tr><tr><td>Ông Lai Voon Hon</td><td>Thành viên</td></tr><tr><td>Ông Bùi Đức Khang</td><td>Thành viên</td></tr><tr><td>Ông Chad Ryan Ovel</td><td>Thành viên</td></tr><tr><td>Ông Trịnh Văn Tuấn</td><td>Thành viên</td></tr><tr><td>Ông Ziang Tony Ngo</td><td>Thành viên</td></tr><tr><td>Ông Ngian Siew Siong</td><td>Thành viên</td></tr><tr><td>Ông Cao Tấn Thạch</td><td>Thành viên</td></tr><tr><td>Ông Linson Lim Soon Kooi</td><td>Thành viên</td></tr></table>
+
+BAN KIÊM SOÁT
+
+Các thành viên Ban kiểm soát trong năm và vào ngày lập báo cáo này như sau:
+
+<table><tr><td>Bà Nguyễn Lưu Tuyên</td><td>Trường Ban</td><td>bổ nhiệm ngày 22 tháng 4 năm 2017</td></tr><tr><td rowspan="2">Bà Nguyễn Thị Thanh Thảo</td><td>Trường Ban</td><td>từ nhiệm ngày 22 tháng 4 năm 2017</td></tr><tr><td>Thành viên</td><td>bổ nhiệm ngày 22 tháng 4 năm 2017</td></tr><tr><td>Ông Đặng Hồng Tân</td><td>Thành viên</td><td>bổ nhiệm ngày 22 tháng 4 năm 2017</td></tr><tr><td>Ông Yip Chong Kuan</td><td>Thành viên</td><td>từ nhiệm ngày 22 tháng 4 năm 2017</td></tr><tr><td>Ông Vương Thuận</td><td>Thành viên</td><td>từ nhiệm ngày 22 tháng 4 năm 2017</td></tr></table>
+
+BAN TỔNG GIÁM ĐỐC
+
+Các thành viên Ban Tổng Giám đốc trong năm và vào ngày lập báo cáo này như sau:
+
+<table><tr><td>Ông Chu Chee Kwang</td><td>Tổng Giám đốc</td></tr><tr><td>Ông Châu Quang Phúc</td><td>Giám đốc Tài chính</td></tr><tr><td>Bà Nguyễn Thanh Hương</td><td>Giám đốc Đầu tư</td></tr></table>
+
+NGƯỜI ĐẠI DIỆN THEO PHÁP LUẬT
+
+Người đại diện theo pháp luật của Công ty trong năm và vào ngày lập báo cáo này là Ông Nguyễn Xuân Quang.
+
+Ông Chu Chee Kwang được Ông Nguyễn Xuân Quang ủy quyền ký báo cáo tài chính hợp nhất kèm theo cho năm tài chính kết thúc ngày 31 tháng 12 năm 2017.
+
+KIÊM TOÁN VIÊN
+
+Công ty Trách nhiệm Hữu hạn Ernst & Young Việt Nam là công ty kiểm toán cho Công ty.
+
+2
+
+===== PAGE 5 =====
+Công ty Cổ phần Đầu tư Nam Long
+
+BÁO CÁO CỦA BAN TỔNG GIÁM ĐỐC
+
+Ban Tổng Giám đốc Công ty Cổ phần Đầu tư Nam Long ("Công ty") trình bày báo cáo này và báo cáo tài chính hợp nhất của Công ty và các công ty con ("Nhóm Công ty") cho năm tài chính kết thúc ngày 31 tháng 12 năm 2017.
+
+TRÁCH NHIỆM CỦA BAN TỔNG GIÁM ĐỐC ĐỐI VỚI BÁO CÁO TÀI CHÍNH HỢP NHẤT
+
+Ban Tổng Giám đốc chịu trách nhiệm đảm bảo báo cáo tài chính hợp nhất cho từng năm tài chính phân ánh trung thực và hợp lý tinh hình tài chính hợp nhất, kết quả hoạt động kinh doanh hợp nhất và tinh hình lưu chuyển tiền tệ hợp nhất của Nhóm Công ty trong năm. Trong quá trình lập báo cáo tài chính hợp nhất này, Ban Tổng Giám đốc cần phải:
+
+▶ lựa chọn các chính sách kế toán thích hợp và áp dụng các chính sách này một cách nhất quán;
+
+▶ thực hiện các đánh giá và ước tính một cách hợp lý và thận trọng;
+
+nêu rõ các chuẩn mục kế toán áp dụng cho Nhóm Công ty có được tuân thủ hay không và tất cả những sai lệch trọng yếu so với những chuẩn mục này đã được trình bày và giải thích trong báo cáo tài chính hợp nhất; và
+
+lập báo cáo tài chính hợp nhất trên cơ sở nguyên tắc hoạt động liên tục trừ trường hợp không thể cho rằng Nhóm Công ty sẽ tiếp tục hoạt động.
+
+Ban Tổng Giám đốc chịu trách nhiệm đảm bảo việc các số sách kế toán thích hợp được lưu giữ để phần ánh tính hình tài chính hợp nhất của Nhóm Công ty, với mức độ chính xác hợp lý, tại bất kỳ thời điểm nào và đảm bảo rằng các số sách kế toán tuần thủ với chế độ kế toán đã được áp dụng. Ban Tổng Giám đốc cũng chịu trách nhiệm về việc quản lý các tài sản của Nhóm Công ty và do đó phải thực hiện các biện pháp thích hợp để ngăn chắn và phát hiện các hành vi gian lập và những vi phạm khác.
+
+Ban Tổng Giám đốc cam kết rằng Nhóm Công ty đã tuân thủ những yêu cầu nếu trên trong việc lập báo cáo tài chính hợp nhất kèm theo.
+
+CÔNG BÓ CỦA BAN TỔNG GIÁM ĐỐC
+
+Theo ý kiến của Ban Tổng Giám đốc, báo cáo tài chính hợp nhất kèm theo phần ánh trung thực và hợp lý tính hình tài chính hợp nhất của Nhóm Công ty vào ngày 31 tháng 12 năm 2017, kết quả hoạt động kinh doanh hợp nhất và tính hình lưu chuyển tiền tệ hợp nhất cho năm tài chính kết thúc cùng ngày phù hợp với các Chuẩn mục kế toán Việt Nam, Chế độ kế toán doanh nghiệp Việt Nam và các quy định pháp lý có liên quan đến việc lập và trình bày báo cáo tài chính hợp nhất.
+
+Thành phố Hồ Chí Minh, Việt Nam
+
+Ngày 9 tháng 2 năm 2018
+
+3
+
+===== PAGE 6 =====
+EY
+
+Building a better working world
+
+Ernst & Young Vietnam Limited
+28th Floor, Bitexco Financial Tower
+2 Hai Trieu Street, District 1
+Ho Chi Minh City, S.R. of Vietnam
+
+Tel: +84 28 3824 5252
+Fax: +84 28 3824 5250
+ey.com
+
+Số tham chiếu: 60755865/19324218-HN
+
+BÁO CÁO KIÊM TOÁN ĐỘC LẬP
+
+Kính gửi: Quý Cổ đông và Hội đồng Quản trị Công ty Cổ phần Đầu tư Nam Long
+
+Chúng tôi đã kiểm toán báo cáo tài chính hợp nhất kèm theo của Công ty Cổ phần Đầu tư Nam Long ("Công ty") và các công ty con (sau đây gọi chung là "Nhóm Công ty"), được lập ngày 9 tháng 2 năm 2018 và được trình bày từ trang 6 đến trang 47, bao gồm bằng cân đối kế toán hợp nhất vào ngày 31 tháng 12 năm 2017, báo cáo kết quả hoạt động kinh doanh hợp nhất và báo cáo lưu chuyển tiền tệ hợp nhất cho năm tài chính kết thúc cùng ngày và các thuyết minh báo cáo tài chính hợp nhất kèm theo.
+
+Trách nhiệm của Ban Tổng Giám đốc
+
+Ban Tổng Giám đốc Công ty chịu trách nhiệm về việc lập và trình bày trung thực và hợp lý báo cáo tài chính hợp nhất của Nhóm Công ty theo các Chuẩn mực kế toán Việt Nam, Chế độ kế toán doanh nghiệp Việt Nam và các quy định pháp lý có liên quan đến việc lập và trình bày báo cáo tài chính hợp nhất và chịu trách nhiệm về kiểm soát nội bộ mà Ban Tổng Giám đốc xác định là cần thiết để đảm bảo cho việc lập và trình bày báo cáo tài chính hợp nhất không có sai sót trọng yếu do gian lận hoặc nhằm lấn.
+
+Trách nhiệm của Kiểm toán viên
+
+Trách nhiệm của chúng tối là đưa ra ý kiến về báo cáo tài chính hợp nhất dựa trên kết quả của cược kiểm toán. Chứng tối đã tiến hành kiểm toán theo các Chuẩn mực kiểm toán Việt Nam. Các chuẩn mực này yêu cầu chúng tối tuân thủ chuẩn mực và các quy định về đạo đức nghề nghiệp, lập kế hoạch và thực hiện cược kiểm toán để đạt được sự đảm bảo hợp lý về việc liệu báo cáo tài chính hợp nhất của Nhóm Công ty có còn sai sót trọng yếu hay không.
+
+Công việc kiểm toán bao gồm thực hiện các thủ tục nhằm thu thập các bằng chứng kiểm toán về các số liệu và thuyết minh trên báo cáo tài chính hợp nhất. Các thủ tục kiểm toán được lựa chọn dựa trên xét đoán của kiểm toán viên, bao gồm đánh giá rủi ro có sai sót trọng yếu trong báo cáo tài chính hợp nhất do gian lập hoặc nhằm lẫn. Khi thực hiện đánh giá các rủi ro này, kiểm toán viên đã xem xét kiểm soát nội bộ của Nhóm Công ty liên quan đến việc lập và trình bày báo cáo tài chính hợp nhất trung thực, hợp lý nhằm thiết kế các thủ tục kiểm toán phù hợp với tính hình thực tế, tuy nhiên không nhằm mục đích đưa ra ý kiến về hiệu quả của kiểm soát nội bộ của Nhóm Công ty. Công việc kiểm toán cũng bao gồm đánh giá tính thích hợp của các chính sách kế toán được áp dụng và tính hợp lý của các ước tính kế toán của Ban Tổng Giám đốc cũng như đánh giá việc trình bày tổng thể báo cáo tài chính hợp nhất.
+
+Chúng tôi tin tưởng rằng các bằng chứng kiểm toán mà chúng tôi đã thu thập được là đầy đủ và thích hợp để làm cơ sở cho ý kiến kiểm toán của chúng tôi.
+
+A member firm of Ernst & Young Global Limited
+
+===== PAGE 7 =====
+EY
+
+Building a better working world
+
+Ý kiến của Kiểm toán viên
+
+Theo ý kiến của chúng tôi, báo cáo tài chính hợp nhất đã phần ánh trung thực và hợp lý, trên các khía cạnh trọng yếu, tình hình tài chính hợp nhất của Nhóm Công ty vào ngày 31 tháng 12 năm 2017, cũng như kết quả hoạt động kinh doanh hợp nhất và tình hình lưu chuyển tiền tệ hợp nhất cho nằm tài chính kết thúc cùng ngày, phù hợp với các Chuẩn mực kế toán Việt Nam, Chế độ kế toán doanh nghiệp Việt Nam và các quy định pháp lý có liên quan đến việc lập và trình bày báo cáo tài chính hợp nhất.
+
+Công ty Trách nhiệm Hữu hạn Ernst & Young Việt Nam
+
+Dương Le Anthony
+Phó Tổng Giám đốc
+Giấy CNDKHN kiểm toán
+Số: 2223-2018-004-1
+
+Phạm Thị Cẩm Tú
+Kiểm toán viên
+Giấy CNĐKHN kiểm toán
+Số: 2266-2018-004-1
+
+Thành phố Hồ Chí Minh, Việt Nam
+
+Ngày 9 tháng 2 năm 2018
+
+A member firm of Ernst & Young Global Limited
+
+===== PAGE 8 =====
+{
+    {
+    {
+    {
+    {
+    {
+    {
+    {
+    {
+    {
+    {    }
+    }
+    }
+    }
+    }
+    {
+    {
+    {
+    {
+    {
+    {    }
+    }
+    }
+    }
+    }
+    }
+    {
+    {
+    {
+    {
+    {
+    {    }
+    }
+    }
+    }
+    }
+}
+
+Công ty Cổ phần Đầu tư Nam Long
+
+B01-DN/HN
+
+BẢNG CÂN ĐỐI KẾ TOÁN HỢP NHẤT
+
+vào ngày 31 tháng 12 năm 2017
+
+VND
+
+<table><tr><td>Mã số</td><td>TÀI SẢN</td><td>Thuyết minh</td><td>Số cuối năm</td><td>Số đầu năm</td></tr><tr><td>100</td><td>A. TÀI SẢN NGÁN HẠN</td><td></td><td>6.778.557.325.555</td><td>5.874.254.215.923</td></tr><tr><td>110</td><td>I. Tiền và các khoản tương đương tiền</td><td>4</td><td>2.082.081.217.039</td><td>931.562.883.084</td></tr><tr><td>111</td><td>1. Tiền</td><td></td><td>533.848.457.083</td><td>391.805.138.578</td></tr><tr><td>112</td><td>2. Các khoản tương đương tiền</td><td></td><td>1.548.232.759.956</td><td>539.757.744.506</td></tr><tr><td>120</td><td>II. Đầu tư tài chính ngắn hạn</td><td>5</td><td>60.497.573.374</td><td>38.869.085.285</td></tr><tr><td>123</td><td>1. Đầu tư nắm giữ đến ngày đáo hạn</td><td></td><td>60.497.573.374</td><td>38.869.085.285</td></tr><tr><td>130</td><td>III. Các khoản phải thu ngắn hạn</td><td></td><td>578.555.109.172</td><td>1.094.934.187.907</td></tr><tr><td>131</td><td>1. Phải thu ngắn hạn của khách hàng</td><td>6</td><td>227.021.799.046</td><td>340.384.104.224</td></tr><tr><td>132</td><td>2. Trả trước cho người bán ngắn hạn</td><td>7</td><td>119.806.708.954</td><td>556.785.295.674</td></tr><tr><td>135</td><td>3. Phải thu về cho vay ngắn hạn</td><td>8</td><td>41.780.000.000</td><td>41.780.000.000</td></tr><tr><td>136</td><td>4. Phải thu ngắn hạn khác</td><td>9</td><td>194.628.783.843</td><td>160.823.879.547</td></tr><tr><td>137</td><td>5. Dự phòng phải thu ngắn hạn khó đòi</td><td></td><td>(4.682.182.671)</td><td>(4.839.091.538)</td></tr><tr><td>140</td><td>IV. Hàng tồn kho</td><td></td><td>3.884.006.891.979</td><td>3.698.432.512.033</td></tr><tr><td>141</td><td>1. Hàng tồn kho</td><td>10</td><td>3.884.006.891.979</td><td>3.700.202.039.743</td></tr><tr><td>149</td><td>2. Dự phòng giảm giá hàng tồn kho</td><td></td><td>-</td><td>(1.769.527.710)</td></tr><tr><td>150</td><td>V. Tài sản ngắn hạn khác</td><td></td><td>173.416.533.991</td><td>110.455.547.614</td></tr><tr><td>151</td><td>1. Chỉ phí trả trước ngắn hạn</td><td>11</td><td>101.406.541.726</td><td>53.461.098.464</td></tr><tr><td>152</td><td>2. Thuế giá trị gia tăng được khấu trừ</td><td></td><td>72.009.992.265</td><td>56.962.394.171</td></tr><tr><td>153</td><td>3. Thuế và các khoản khác phải thu Nhà nước</td><td></td><td>-</td><td>32.054.979</td></tr></table>
+
+6
+
+===== PAGE 9 =====
+{
+    {
+    {
+    {
+    {
+    {
+    {
+    {
+    {
+    {
+    {
+    {
+    {
+    {
+    {
+    {
+    {
+    {
+    {
+    {    }
+    }
+    }
+    }
+    }
+    }
+    }
+    }
+    }
+    }
+    }
+    }
+    }
+    }
+    }
+    }
+    }
+    }
+}
+
+Công ty Cổ phần Đầu tư Nam Long
+
+B01-DN/HN
+
+BẢNG CÂN ĐỐI KẾ TOÁN HỢP NHẤT (tiếp theo)
+
+vào ngày 31 tháng 12 năm 2017
+
+VND
+
+<table><tr><td>Mã số</td><td>TÀI SẢN</td><td>Thuyết minh</td><td>Số cuối năm</td><td>Số đầu năm</td></tr><tr><td>200</td><td>B. TÀI SẢN DÀI HẠN</td><td></td><td>1.127.390.245.958</td><td>334.555.251.743</td></tr><tr><td>210</td><td>I. Các khoản phải thu dài hạn</td><td></td><td>76.493.640.565</td><td>124.874.169.981</td></tr><tr><td>211</td><td>1. Phải thu dài hạn của khách hàng</td><td></td><td>-</td><td>151.739.000</td></tr><tr><td>215</td><td>2. Phải thu về cho vay dài hạn</td><td>8</td><td>36.052.361.840</td><td>-</td></tr><tr><td>216</td><td>3. Phải thu dài hạn khác</td><td>9</td><td>40.441.278.725</td><td>124.722.430.981</td></tr><tr><td>220</td><td>II. Tài sản cố định</td><td></td><td>56.457.856.789</td><td>55.173.350.327</td></tr><tr><td>221</td><td>1. Tài sản cố định hữu hình</td><td>12</td><td>43.554.221.659</td><td>42.094.934.637</td></tr><tr><td>222</td><td>Nguyên giá</td><td></td><td>83.335.050.710</td><td>75.999.017.018</td></tr><tr><td>223</td><td>Giá trị khấu hao lũy kế</td><td></td><td>(39.780.829.051)</td><td>(33.904.082.381)</td></tr><tr><td>227</td><td>2. Tài sản cố định vô hình</td><td>13</td><td>12.903.635.130</td><td>13.078.415.690</td></tr><tr><td>228</td><td>Nguyên giá</td><td></td><td>18.807.252.681</td><td>17.927.596.237</td></tr><tr><td>229</td><td>Giá trị hao mòn lũy kế</td><td></td><td>(5.903.617.551)</td><td>(4.849.180.547)</td></tr><tr><td>230</td><td>III. Bất động sản đầu tư</td><td>14</td><td>32.840.444.705</td><td>39.335.877.272</td></tr><tr><td>231</td><td>1. Nguyên giá</td><td></td><td>48.420.861.668</td><td>54.222.910.307</td></tr><tr><td>232</td><td>2. Giá trị hao mòn lũy kế</td><td></td><td>(15.580.416.963)</td><td>(14.887.033.035)</td></tr><tr><td>250</td><td>IV. Đầu tư tài chính dài hạn</td><td>15</td><td>755.471.854.094</td><td>30.520.390.516</td></tr><tr><td>252</td><td>1. Đầu tư vào công ty liên kết và công ty liên doanh</td><td>15.1</td><td>749.529.554.094</td><td>24.797.751.856</td></tr><tr><td>253</td><td>2. Đầu tư góp vốn vào đơn vị khác</td><td>15.2</td><td>5.942.300.000</td><td>5.942.300.000</td></tr><tr><td>254</td><td>3. Dự phòng đầu tư tài chính dài hạn</td><td></td><td>-</td><td>(219.661.340)</td></tr><tr><td>260</td><td>V. Tài sản dài hạn khác</td><td></td><td>206.126.449.805</td><td>84.651.463.647</td></tr><tr><td>261</td><td>1. Chi phí trả trước dài hạn</td><td>11</td><td>2.853.976.159</td><td>2.200.132.694</td></tr><tr><td>262</td><td>2. Tài sản thuế thu nhập hoãn lại</td><td>32.3</td><td>194.466.953.311</td><td>68.614.084.713</td></tr><tr><td>269</td><td>3. Lợi thế thương mại</td><td>16</td><td>8.805.520.335</td><td>13.837.246.240</td></tr><tr><td>270</td><td>TỔNG CỘNG TÀI SẢN</td><td></td><td>7.905.947.571.513</td><td>6.208.809.467.666</td></tr></table>
+
+7
+
+===== PAGE 10 =====
+Công ty Cổ phần Đầu tư Nam Long
+
+B01-DN/HN
+
+BẢNG CÂN ĐỐI KẾ TOÁN HỢP NHẤT (tiếp theo)
+
+vào ngày 31 tháng 12 năm 2017
+
+VND
+
+<table><tr><td>Mã số</td><td>NGUỒN VỐN</td><td>Thuyết minh</td><td>Số cuối năm</td><td>Số đầu năm</td></tr><tr><td>300</td><td>C. NỘ PHẢI TRẢ</td><td></td><td>4.183.199.455.758</td><td>3.061.535.857.828</td></tr><tr><td>310</td><td>I. Nợ ngắn hạn</td><td></td><td>3.060.690.524.841</td><td>2.170.632.810.715</td></tr><tr><td>311</td><td>1. Phải trả người bán ngắn hạn</td><td>17</td><td>291.482.426.792</td><td>199.476.008.760</td></tr><tr><td>312</td><td>2. Người mua trả tiền trước ngắn hạn</td><td>18</td><td>1.249.940.580.322</td><td>651.548.705.368</td></tr><tr><td>313</td><td>3. Thuế và các khoản phải nộp Nhà nước</td><td>19</td><td>248.423.269.410</td><td>166.366.982.121</td></tr><tr><td>314</td><td>4. Phải trả người lao động</td><td></td><td>26.266.188.068</td><td>20.358.866.753</td></tr><tr><td>315</td><td>5. Chỉ phí phải trả ngắn hạn</td><td>20</td><td>665.601.811.062</td><td>585.315.818.762</td></tr><tr><td>319</td><td>6. Phải trả ngắn hạn khác</td><td>21</td><td>284.783.545.233</td><td>146.716.775.526</td></tr><tr><td>320</td><td>7. Vay ngắn hạn</td><td>22</td><td>215.966.663.982</td><td>353.654.528.674</td></tr><tr><td>321</td><td>8. Dự phòng phải trả ngắn hạn</td><td>25</td><td>49.303.529.600</td><td>36.600.981.275</td></tr><tr><td>322</td><td>9. Quỹ khen thưởng, phúc lợi</td><td></td><td>28.922.510.372</td><td>10.594.143.476</td></tr><tr><td>330</td><td>II. Nợ dài hạn</td><td></td><td>1.122.508.930.917</td><td>890.903.047.113</td></tr><tr><td>336</td><td>1. Doanh thu chưa thực hiện dài hạn</td><td>24</td><td>324.012.523.608</td><td>-</td></tr><tr><td>337</td><td>2. Phải trả dài hạn khác</td><td></td><td>7.664.486.992</td><td>7.971.859.607</td></tr><tr><td>338</td><td>3. Vay và nợ dài hạn</td><td>22</td><td>228.548.210.000</td><td>349.613.387.000</td></tr><tr><td>339</td><td>4. Trái phiếu chuyển đổi</td><td>23</td><td>471.345.926.226</td><td>463.083.450.079</td></tr><tr><td>341</td><td>5. Thuế thu nhập hoãn lại phải trả</td><td>32.3</td><td>36.636.898.067</td><td>55.331.868.345</td></tr><tr><td>342</td><td>6. Dự phòng phải trả dài hạn</td><td>25</td><td>54.300.886.024</td><td>14.902.482.082</td></tr><tr><td>400</td><td>D. VỐN CHỦ SỞ HỮU</td><td></td><td>3.722.748.115.755</td><td>3.147.273.609.838</td></tr><tr><td>410</td><td>I. Vốn chủ sở hữu</td><td></td><td>3.722.748.115.755</td><td>3.147.273.609.838</td></tr><tr><td>411</td><td>1. Vốn cổ phần</td><td>26.1</td><td>1.572.264.090.000</td><td>1.421.145.100.000</td></tr><tr><td>411a</td><td>- Cổ phiếu phổ thông có quyền biểu quyết</td><td></td><td>1.572.264.090.000</td><td>1.421.145.100.000</td></tr><tr><td>412</td><td>2. Thặng dư vốn cổ phần</td><td>26.1</td><td>492.051.147.061</td><td>492.161.147.061</td></tr><tr><td>413</td><td>3. Quyền chọn chuyển đổi trái phiếu</td><td>26.1</td><td>40.503.427.830</td><td>40.503.427.830</td></tr><tr><td>415</td><td>4. Cổ phiếu quỹ</td><td>26.1</td><td>(60.464.200.000)</td><td>(60.464.200.000)</td></tr><tr><td>418</td><td>5. Quỹ đầu tư phát triển</td><td>26.1</td><td>10.929.726.999</td><td>10.929.726.999</td></tr><tr><td>420</td><td>6. Quỹ khác thuộc vốn chủ sở hữu</td><td>26.1</td><td>1.088.759.118</td><td>1.081.198.777</td></tr><tr><td>421</td><td>7. Lợi nhuận sau thuế chưa phân phối</td><td>26.1</td><td>863.748.460.570</td><td>578.402.902.765</td></tr><tr><td>421a</td><td>- Lợi nhuận sau thuế chưa phân phối lũy kế đến cuối năm trước</td><td></td><td>363.065.489.892</td><td>277.746.420.785</td></tr><tr><td>421b</td><td>- Lợi nhuận sau thuế chưa phân phối năm nay</td><td></td><td>500.682.970.678</td><td>300.656.481.980</td></tr><tr><td>429</td><td>8. Lợi ích cổ đông không kiểm soát</td><td>27</td><td>802.626.704.177</td><td>663.514.306.406</td></tr><tr><td>440</td><td>TỔNG CỘNG NGUỒN VỐN</td><td></td><td>7.905.947.571.513</td><td>6.208.809.467.666</td></tr></table>
+
+Phạm Hồng Hạnh
+
+Người lập
+
+Lương Thị Kim Thoa
+
+Kế toán trường
+
+Ngày 9 tháng 2 năm 2018
+
+8
+
+===== PAGE 11 =====
+Công ty Cổ phần Đầu tư Nam Long
+
+B02-DN/HN
+
+BÁO CÁO KẾT QUẢ HOẠT ĐỘNG KINH DOANH HỢP NHẤT
+
+cho năm tài chính kết thúc ngày 31 tháng 12 năm 2017
+
+VND
+
+<table><tr><td>Mã số</td><td>CHỈ TIÊU</td><td>Thuyết minh</td><td>Năm nay</td><td>Năm trước</td></tr><tr><td>01</td><td>1. Doanh thu bán hàng và cung cấp dịch vụ</td><td>28.1</td><td>3.164.844.260.274</td><td>2.533.798.820.045</td></tr><tr><td>02</td><td>2. Các khoản giảm trừ doanh thu</td><td>28.1</td><td>(3.532.614.108)</td><td>-</td></tr><tr><td>10</td><td>3. Doanh thu thuần về bán hàng và cung cấp dịch vụ</td><td>28.1</td><td>3.161.311.646.166</td><td>2.533.798.820.045</td></tr><tr><td>11</td><td>4. Giá vốn hàng bán và dịch vụ cung cấp</td><td>29</td><td>(1.866.368.242.306)</td><td>(1.710.918.684.683)</td></tr><tr><td>20</td><td>5. Lợi nhuận gộp về bán hàng và cung cấp dịch vụ</td><td></td><td>1.294.943.403.860</td><td>822.880.135.362</td></tr><tr><td>21</td><td>6. Doanh thu hoạt động tài chính</td><td>28.2</td><td>94.750.864.340</td><td>25.688.673.908</td></tr><tr><td>22</td><td rowspan="2">7. Chi phí hoạt động tài chính - Trong đó: Chi phí lãi vay</td><td rowspan="2">31</td><td rowspan="2">(29.336.737.626) (28.535.115.775)</td><td rowspan="2">(28.610.444.253) (20.554.703.566)</td></tr><tr><td>23</td></tr><tr><td>24</td><td>8. Phần (lỗ) lãi trong công ty liên doanh và liên kết</td><td></td><td>(2.868.197.762)</td><td>598.909.547</td></tr><tr><td>25</td><td>9. Chi phí bán hàng</td><td>30</td><td>(218.510.752.801)</td><td>(188.619.929.874)</td></tr><tr><td>26</td><td>10. Chi phí quản lý doanh nghiệp</td><td>30</td><td>(195.173.267.757)</td><td>(154.386.517.693)</td></tr><tr><td>30</td><td>11. Lợi nhuận thuần từ hoạt động kinh doanh</td><td></td><td>943.805.312.254</td><td>477.550.826.997</td></tr><tr><td>31</td><td>12. Thu nhập khác</td><td></td><td>9.752.434.133</td><td>11.012.029.151</td></tr><tr><td>32</td><td>13. Chi phí khác</td><td></td><td>(3.315.804.062)</td><td>(4.221.939.695)</td></tr><tr><td>40</td><td>14. Lợi nhuận khác</td><td></td><td>6.436.630.071</td><td>6.790.089.456</td></tr><tr><td>50</td><td>15. Tổng lợi nhuận kế toán trước thuế</td><td></td><td>950.241.942.325</td><td>484.340.916.453</td></tr><tr><td>51</td><td>16. Chi phí thuế TNDN hiện hành</td><td>32.1</td><td>(338.630.474.712)</td><td>(99.684.284.976)</td></tr><tr><td>52</td><td>17. Thu nhập thuế TNDN hoãn lại</td><td>32.3</td><td>144.553.313.939</td><td>2.913.538.401</td></tr><tr><td>60</td><td>18. Lợi nhuận sau thuế TNDN</td><td></td><td>756.164.781.552</td><td>387.570.169.878</td></tr><tr><td>61</td><td>19. Lợi nhuận sau thuế của cổ đông công ty mẹ</td><td></td><td>535.017.043.345</td><td>345.217.739.625</td></tr><tr><td>62</td><td>20. Lợi nhuận sau thuế của cổ đông không kiểm soát</td><td>27</td><td>221.147.738.207</td><td>42.352.430.253</td></tr><tr><td>70</td><td>21. Lãi cơ bản trên cổ phiếu</td><td>34</td><td>3.314</td><td>2.159</td></tr><tr><td>71</td><td>22. Lãi suy giảm trên cổ phiếu</td><td>34</td><td>2.958</td><td>1.984</td></tr></table>
+
+Phạm Hồng Hạnh
+
+Người lập
+
+Lương Thị Kim Thoa
+
+Kế toán trường
+
+Ngày 9 tháng 2 năm 2018
+
+9
+
+===== PAGE 12 =====
+{
+    {
+    {
+    {
+    {
+    {
+    {    }
+    {
+    {
+    {
+    {
+    {    }
+    {
+    {    }
+    {    }
+    {    }
+    {    }
+    {    }
+    {    }
+    {    }
+    {    }
+    {    }
+    {    }
+    {    }
+    {    }
+    {    }
+    {    }
+}
+
+Công ty Cổ phần Đầu tư Nam Long
+
+B03-DN/HN
+
+BÁO CÁO LƯU CHUYÊN TIÊN TỆ HỢP NHẤT
+
+cho năm tài chính kết thúc ngày 31 tháng 12 năm 2017
+
+VND
+
+<table><tr><td>Mã số</td><td>CHỈ TIÊU</td><td>Thuyết minh</td><td>Năm nay</td><td>Năm trước</td></tr><tr><td></td><td>I. LƯU CHUYÊN TIÊN TỪ HOẠT ĐỘNG KINH DOANH</td><td></td><td></td><td></td></tr><tr><td>01</td><td>Lợi nhuận trước thuế Điều chỉnh cho các khoản:</td><td></td><td>950.241.942.325</td><td>484.340.916.453</td></tr><tr><td>02</td><td>Khẩu hao và hao mòn</td><td>12, 13, 14, 16</td><td>13.601.703.671</td><td>13.735.081.154</td></tr><tr><td>03</td><td>(Hoàn nhập dự phòng) các khoản dự phòng</td><td></td><td>(1.303.957.804)</td><td>1.430.772.139</td></tr><tr><td>05</td><td>Lãi từ hoạt động đầu tư</td><td></td><td>(92.122.431.293)</td><td>(43.708.871.266)</td></tr><tr><td>06</td><td>Chi phí lãi vay</td><td>31</td><td>28.535.115.775</td><td>20.554.703.566</td></tr><tr><td>08</td><td>Lợi nhuận từ hoạt động kinh doanh trước thay đổi vốn lưu động</td><td></td><td>898.952.372.674</td><td>476.352.602.046</td></tr><tr><td>09</td><td>Giảm (tăng) các khoản phải thu</td><td></td><td>634.063.948.014</td><td>(566.792.764.022)</td></tr><tr><td>10</td><td>Tăng hàng tồn kho</td><td></td><td>(179.157.167.918)</td><td>(35.055.433.091)</td></tr><tr><td>11</td><td>Tăng các khoản phải trả</td><td></td><td>1.274.541.211.952</td><td>27.371.102.993</td></tr><tr><td>12</td><td>Tăng chi phí trả trước</td><td></td><td>(48.599.286.727)</td><td>(34.082.328.714)</td></tr><tr><td>14</td><td>Tiền lãi vay đã trả</td><td></td><td>(68.338.896.954)</td><td>(34.165.987.336)</td></tr><tr><td>15</td><td>Thuế thu nhập doanh nghiệp đã nộp</td><td>19</td><td>(238.256.382.482)</td><td>(80.824.364.594)</td></tr><tr><td>17</td><td>Tiền chi khác cho hoạt động kinh doanh</td><td></td><td>(12.230.025.509)</td><td>(13.961.844.924)</td></tr><tr><td>20</td><td>Lưu chuyển tiền thuần từ (sử dụng vào) hoạt động kinh doanh</td><td></td><td>2.260.975.773.050</td><td>(261.159.017.642)</td></tr><tr><td></td><td>II. LƯU CHUYÊN TIÊN TỪ HOẠT ĐỘNG ĐẦU TƯ</td><td></td><td></td><td></td></tr><tr><td>21</td><td>Tiền chi để mua sắm tài sản cố định</td><td>12, 13, 14</td><td>(5.773.665.945)</td><td>(7.916.759.074)</td></tr><tr><td>22</td><td>Tiền thu do thanh lý tài sản cố định</td><td></td><td>500.000.000</td><td>35.601.770.596</td></tr><tr><td>23</td><td>Tiền chi cho vay</td><td></td><td>(108.628.488.089)</td><td>(64.013.059.386)</td></tr><tr><td>24</td><td>Tiền thu hồi cho vay</td><td></td><td>10.100.000.000</td><td>-</td></tr><tr><td>25</td><td>Tiền chi đầu tư góp vốn vào các đơn vị khác</td><td></td><td>(750.840.000.000)</td><td>(246.410.911.921)</td></tr><tr><td>26</td><td>Tiền thu hồi đầu tư góp vốn vào đơn vị khác</td><td>15.1</td><td>22.400.000.000</td><td>211.584.308.448</td></tr><tr><td>27</td><td>Tiền thu lãi cho vay và cổ tức</td><td></td><td>45.749.249.770</td><td>25.688.673.908</td></tr><tr><td>30</td><td>Lưu chuyển tiền thuần sử dụng vào hoạt động đầu tư</td><td></td><td>(786.492.904.264)</td><td>(45.465.977.429)</td></tr></table>
+
+10
+
+===== PAGE 13 =====
+Công ty Cổ phần Đầu tư Nam Long
+
+B03-DN/HN
+
+BÁO CÁO LƯU CHUYỀN TIÊN TỆ HỢP NHẤT (tiếp theo)
+
+cho năm tài chính kết thúc ngày 31 tháng 12 năm 2017
+
+VND
+
+<table><tr><td>Mã số</td><td>CHỈ TIÊU</td><td>Thuyết minh</td><td>Năm nay</td><td>Năm trước</td></tr><tr><td rowspan="4">31</td><td>III. LƯU CHUYÊN TIÊN TỪ HOẠT ĐỘNG TẢI CHÍNH</td><td></td><td></td><td></td></tr><tr><td>Tiền thu từ phát hành trái phiếu chuyển đổi</td><td></td><td>-</td><td>40.503.427.830</td></tr><tr><td>Tiền thu từ vốn góp của cổ đông thiểu số</td><td></td><td>78.016.750.000</td><td>345.459.240.000</td></tr><tr><td>Tiền trả lại vốn góp cho các cổ đông thiểu số</td><td></td><td>(20.000.000.000)</td><td>-</td></tr><tr><td>33</td><td>Tiền thu từ đi vay</td><td>22.3</td><td>217.005.924.465</td><td>865.185.286.783</td></tr><tr><td>34</td><td>Tiền chi trả nợ gốc vay</td><td>22.3</td><td>(476.068.456.898)</td><td>(339.607.527.274)</td></tr><tr><td>36</td><td>Cổ tức, lợi nhuận đã trả cho chủ sở hữu</td><td>26.3, 27</td><td>(122.918.752.398)</td><td>(96.548.456.872)</td></tr><tr><td>40</td><td>Lưu chuyển tiền thuần (sử dụng vào) từ hoạt động tài chính</td><td></td><td>(323.964.534.831)</td><td>814.991.970.467</td></tr><tr><td>50</td><td>Lưu chuyển tiền và tương đương tiền thuần trong năm</td><td></td><td>1.150.518.333.955</td><td>508.366.975.396</td></tr><tr><td>60</td><td>Tiền và tương đương tiền đầu năm</td><td></td><td>931.562.883.084</td><td>423.195.907.688</td></tr><tr><td>70</td><td>Tiền và tương đương tiền cuối năm</td><td>4</td><td>2.082.081.217.039</td><td>931.562.883.084</td></tr></table>
+
+Phạm Hồng Hạnh
+Người lập
+
+Ngày 9 tháng 2 năm 2018
+
+11
+
+===== PAGE 14 =====
+Công ty Cổ phần Đầu tư Nam Long
+
+B09-DN/HN
+
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT
+
+vào ngày 31 tháng 12 năm 2017 và cho năm tài chính kết thúc cùng ngày
+
+1. THÔNG TIN CÔNG TY
+
+Công ty Cổ phần Đầu tư Nam Long ("Công ty") là một công ty cổ phần được thành lập theo Luật Doanh nghiệp của Việt Nam theo Giấy Chứng nhận Đăng ký Kinh doanh số 4103004194, do Sở Kế hoạch và Đầu tư Thành phố Hồ Chí Minh ("SKHĐT") cấp ngày 27 tháng 12 năm 2005, và theo Giấy Chứng nhận Đăng ký Kinh doanh điều chỉnh lần thứ 16 vào ngày 24 tháng 8 năm 2017.
+
+Cổ phiếu của Công ty được niêm yết tại Sở Giao dịch Chứng khoán Thành phố Hồ Chí Minh ("SGDCK HCM") với mã NLG theo Quyết định số 14/2013/QĐ-SGDHCM do SGDCK HCM cấp ngày 25 tháng 1 năm 2013.
+
+Vào ngày 31 tháng 12 năm 2017, Công ty có mươi bốn công ty con trực tiếp, hai công ty con gián tiếp, một công ty liên kết và một công ty liên doanh với chi tiết như sau:
+
+<table><tr><td>Công ty</td><td>Địa điểm</td><td>Ngành nghề kinh doanh</td><td>Tỷ lệ sở hữu %</td></tr><tr><td colspan="4">Công ty con</td></tr><tr><td>Công ty TNHH MTV Quản lý và Khai thác Bắt Động Sản Nam Long (&quot;Nam Long PMD&quot;)</td><td>Tp. Hồ Chí Minh (&quot;TPHCM&quot;)</td><td>Xây dựng và bất động sản</td><td>100</td></tr><tr><td>Công ty TNHH MTV Dịch vụ Nam Long (&quot;Dịch vụ Nam Long&quot;)</td><td>TPHCM</td><td>Dịch vụ và xây lắp</td><td>100</td></tr><tr><td>Công ty Cổ phần Nam Long - Hồng Phát (&quot;Nam Long – Hồng Phát&quot;)</td><td>Tp. Cần Thơ</td><td>Xây dựng và bất động sản</td><td>99,98</td></tr><tr><td>Công ty Cổ phần Bắt Động Sản Nguyên Sơn (&quot;Nguyên Sơn&quot;)</td><td>TPHCM</td><td>Bắt động sản</td><td>87,33</td></tr><tr><td>Công ty Cổ phần Phát triển Căn hộ Nam Long (&quot;Nam Long ADC&quot;)</td><td>TPHCM</td><td>Xây dựng và bất động sản</td><td>97,14</td></tr><tr><td>Công ty TNHH Một Thành Viên Sản giao dịch Bắt Động Sản Nam Long (&quot;Sản Giao Dịch Nam Long&quot;)</td><td>TPHCM</td><td>Sản giao dịch bất động sản</td><td>100</td></tr><tr><td>Công ty TNHH Một Thành Viên Đầu tư Xây dựng Phát triển Nam Khang (&quot;Nam Khang&quot;)</td><td>TPHCM</td><td>Xây dựng và bất động sản</td><td>100</td></tr><tr><td>Công ty Cổ phần Tư vấn Thiết kế và Xây dựng Nam Viên (&quot;Nam Viên&quot;)</td><td>TPHCM</td><td>Dịch vụ</td><td>81,25</td></tr><tr><td>Công ty TNHH Kinh doanh Vật liệu Xây dựng Nam Khang (&quot;Xây Dựng Nam Khang&quot;)</td><td>TPHCM</td><td>Kinh doanh thương mại vật liệu xây dựng</td><td>100</td></tr><tr><td>Công ty Cổ phần Nam Long VCD (&quot;Nam Long VCD&quot;)</td><td>Tỉnh Long An</td><td>Xây dựng và bất động sản</td><td>99,91</td></tr><tr><td>Công ty Cổ phần Đầu tư Nam Phan (&quot;Nam Phan&quot;)</td><td>TPHCM</td><td>Xây dựng và bất động sản</td><td>100</td></tr><tr><td>Công ty TNHH Đầu tư và Kinh Doanh Bắt Động Sản Nguyên Phúc (&quot;Nguyên Phúc&quot;)</td><td>TPHCM</td><td>Bắt động sản</td><td>50,00</td></tr><tr><td>Công ty TNHH Đầu tư và Kinh Doanh Bắt Động Sản Thảo Nguyên (&quot;Thảo Nguyên&quot;)</td><td>TPHCM</td><td>Bắt động sản</td><td>50,00</td></tr><tr><td>Công ty TNHH NLG – NNR – HR Fuji (&quot;NLG – NNR – HR Fuji&quot;)</td><td>TPHCM</td><td>Xây dựng và bất động sản</td><td>50,00</td></tr><tr><td>Công ty TNHH NNH Kikyo Flora (&quot;Kikyo Flora&quot;)</td><td>TPHCM</td><td>Bắt động sản</td><td>50,00</td></tr><tr><td>Công ty TNHH NNH Kikyo Valora (&quot;Kikyo Valora&quot;)</td><td>TPHCM</td><td>Bắt động sản</td><td>50,00</td></tr><tr><td colspan="4">Công ty liên doanh</td></tr><tr><td>Công ty Cổ phần NNH Mizuki (&quot;NNH Mizuki&quot;)</td><td>TPHCM</td><td>Bắt động sản</td><td>50,00</td></tr><tr><td colspan="4">Công ty liên kết</td></tr><tr><td>Công ty TNHH Okamura Tokyo</td><td>TPHCM</td><td>Bắt động sản</td><td>30,59</td></tr></table>
+
+12
+
+===== PAGE 15 =====
+Công ty Cổ phần Đầu tư Nam Long
+
+B09-DN/HN
+
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+
+vào ngày 31 tháng 12 năm 2017 và cho năm tài chính kết thúc cùng ngày
+
+1. THÔNG TIN CÔNG TY (tiếp theo)
+
+Hoạt động chính theo đăng ký trong năm hiện hành của Công ty và các công ty con ("Nhóm Công ty") chú yếu trong lĩnh vực xây dựng công nghiệp và dân dụng; sửa chữa nhà ở và trang trí nội thất; kinh doanh nhà ở (xây dựng, sửa chữa nhà để bán hoặc cho thuê); xây dựng cầu đường bền cảng; san lắp mặt bằng; thi công xây dựng hệ thống cấp thoát nước; lắp đặt và sửa chữa hệ thống điện dưới 35KV; dịch vụ môi giới nhà đất; mua bán vật liệu xây dựng; đầu tư xây dựng và kinh doanh khu đô thị; đầu tư xây dựng và kinh doanh kết cấu hạ tầng khu công nghiệp, khu công nghệ cao. Đầu tư xây dựng, kinh doanh, quản lý, khai thác, cho thuê công trình: cao óc văn phòng, siêu thị, trường học, bổ boi, khách sạn, nhà hàng, sân golf, khu thể dục thể thao, khu du lịch nghĩ mất (không hoạt động tại trụ sở); dịch vụ tư vấn quản lý dự án; thẩm tra thiết kế; dịch vụ môi giới bất động sản; dịch vụ định giá bất động sản; dịch vụ sàn giao dịch bất động sản; dịch vụ tư vấn bất động sản; dịch vụ dấu giá bất động sản; dịch vụ quảng cáo bất động sản; dịch vụ quản lý bất động sản.
+
+Công ty có trụ sở chính tại Lầu 11, Tòa nhà Capital Tower, Số 6 đường Nguyễn Khắc Viện, Phường Tân Phú, Quận 7, Thành phố Hồ Chí Minh, Việt Nam và một chỉ nhánh tại Thành phố Cần Thơ, Việt Nam.
+
+Số lượng nhân viên của Nhóm Công ty tại ngày 31 tháng 12 năm 2017 là 514 (ngày 31 tháng 12 năm 2016: 487).
+
+2. CƠ SỞ TRÌNH BÀY
+
+2.1 Chuẩn mực và Chế độ kế toán áp dụng
+
+Báo cáo tài chính hợp nhất của Công ty và các công ty con ("Nhóm Công ty") được trình bày bằng đồng Việt Nam ("VND") phù hợp với Chế độ kế toán doanh nghiệp Việt Nam và các Chuẩn mục kế toán Việt Nam khác do Bộ Tài chính ban hành theo:
+
+▶ Quyết định số 149/2001/QĐ-BTC ngày 31 tháng 12 năm 2001 về việc ban hành bốn Chuẩn mực kế toán Việt Nam (Đợt 1);
+
+▶ Quyết định số 165/2002/QĐ-BTC ngày 31 tháng 12 năm 2002 về việc ban hành sáu Chuẩn mực kế toán Việt Nam (Đợt 2);
+
+▶ Quyết định số 234/2003/QĐ-BTC ngày 30 tháng 12 năm 2003 về việc ban hành sáu Chuẩn mực kế toán Việt Nam (Đợt 3);
+
+▶ Quyết định số 12/2005/QĐ-BTC ngày 15 tháng 2 năm 2005 về việc ban hành sáu Chuẩn mực kế toán Việt Nam (Đợt 4); và
+
+▶ Quyết định số 100/2005/QĐ-BTC ngày 28 tháng 12 năm 2005 về việc ban hành bón Chuẩn mục kế toán Việt Nam (Đợt 5).
+
+Theo đó, bằng cân đối kế toán hợp nhất, báo cáo kết quả hoạt động kinh doanh hợp nhất, báo cáo lưu chuyển tiền tệ hợp nhất và các thuyết minh báo cáo tài chính hợp nhất được trình bày kèm theo và việc sử dụng báo cáo này không dành cho các đối tượng không được cung cấp các thông tin về các thủ tục và nguyên tắc và thông lệ kế toán tại Việt Nam và hơn nữa không được chủ định trình bày tính hình tài chính hợp nhất, kết quả hoạt động kinh doanh hợp nhất và lưu chuyển tiền tệ hợp nhất của Nhóm Công ty theo các nguyên tắc và thông lệ kế toán được chấp nhận rộng rãi ở các nước và lãnh thổ khác ngoài Việt Nam.
+
+2.2 Hinh thức số kế toán áp dụng
+
+Hình thức số kế toán được áp dụng của Nhóm Công ty là Nhật ký chung.
+
+2.3 Ký kế toán năm
+
+Kỳ kế toán năm của Nhóm Công ty áp dụng cho việc lập báo cáo tài chính hợp nhất bắt đầu từ ngày 1 tháng 1 và kết thúc ngày 31 tháng 12.
+
+13
+
+===== PAGE 16 =====
+Công ty Cổ phần Đầu tư Nam Long
+
+B09-DN/HN
+
+THUYẾT MINH BẢO CẢO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+
+vào ngày 31 tháng 12 năm 2017 và cho năm tài chính kết thúc cùng ngày
+
+2. CƠ SỞ TRÌNH BÀY (tiếp theo)
+
+2.4 Đơn vị tiền tệ sử dụng trong kế toán
+
+Báo cáo tài chính hợp nhất được lập bằng đơn vị tiền tệ sử dụng trong kế toán của Nhóm Công ty là VND.
+
+2.5 Co sở hợp nhất
+
+Báo cáo tài chính hợp nhất bao gồm báo cáo tài chính của Công ty mẹ và các công ty con cho năm tài chính kết thúc ngày 31 tháng 12 năm 2017.
+
+Các công ty con được hợp nhất toàn bộ kể từ ngày mua, là ngày Nhóm Công ty thực sự nấm quyền kiểm soát công ty con, và tiếp tục được hợp nhất cho đến ngày Nhóm Công ty thực sự chấm dứt quyền kiểm soát đối với công ty con.
+
+Các báo cáo tài chính của công ty mẹ và các công ty con sử dụng để hợp nhất được lập cho cùng một kỳ kế toán và được áp dụng các chính sách kế toán một cách thống nhất.
+
+Số dư các tài khoản trên bằng cân đối kế toán giữa các đơn vị trong cùng Nhóm Công ty, các khoản thu nhập và chi phí, các khoản lãi hoặc lỗ nội bộ chưa thực hiện phát sinh từ các giao dịch này được loại trừ hoàn toàn.
+
+Lợi ích của các cổ đông không kiểm soát là phần lợi ích trong lãi, hoặc lỗ, và trong tài sản thuần của công ty con không được nằm giữ bởi Nhóm Công ty và được trình bày riêng biết trên báo cáo kết quả hoạt động kinh doanh hợp nhất và được trình bày chung với phần vốn chủ sở hữu của các cổ đông của công ty mẹ trong phần vốn chủ sở hữu trên bằng cân đối kế toán hợp nhất.
+
+Ảnh hưởng do các thay đổi trong tỷ lệ sở hữu công ty con mà không làm mất quyền kiểm soát được hạch toán vào lợi nhuận sau thuế chưa phân phối.
+
+3. TÓM TẮT CÁC CHÍNH SÁCH KẾ TOÁN CHỦ YẾU
+
+3.1 Tiền và các khoản tương đương tiền
+
+Tiền và các khoản tương đương tiền bao gồm tiền mặt tại quỹ, tiền gửi ngân hàng, các khoản đầu tư ngắn hạn có thời hạn gốc không quá ba (3) tháng, có tính thanh khoản cao có khả năng chuyển đổi dễ dàng thành các lượng tiền xác định và không có nhiều rủi ro trong chuyển đổi thành tiền.
+
+3.2 Hàng tồn kho
+
+Hàng tồn kho là các dự án phát triển của Nhóm Công ty đang trong giai đoạn sản xuất kinh doanh dở dang và chủ yếu bao gồm các căn hộ, nhà phố và biệt thụ đang xây dựng để bán và đất chờ bán.
+
+Căn hộ, nhà phố và biết thụ đang xây dựng đề bán được ghi nhận theo giá thấp hơn giữa giả thành và giá trị thuần có thể thực hiện được. Giá thành bao gồm các chi phí liên quan trực tiếp đến việc xây dựng và phát triển căn hộ, nhà phố và biết thụ bao gồm cả chi phí đi vay. Giá trị thuần có thể thực hiện được bao gồm giá bán hiện hành trừ đi chi phí ước tính để hoàn thành căn hộ, nhà phố và biết thụ, các chi phí bán hàng và tiếp thị ước tính.
+
+Đất đai chờ xây dựng căn hộ, nhà phố và biệt thụ để bán được trình bày trong mục “Hàng tồn kho” theo giá thấp hơn giữa giả gốc và giá trị thuần có thể thực hiện được. Giá gốc bao gồm các chi phí liên quan trực tiếp đến việc mua quyền sử dụng đất, đến bù giải tốia, san lắp mặt bằng và thi công hạ tầng. Giá trị thuần có thể thực hiện được bao gồm giá bán hiện hành trừ đi chi phí thanh lý ước tính.
+
+Dự phòng giảm giá hàng tồn kho
+
+Dự phòng giảm giá hàng tồn kho được trích lập cho phần giá trị dự kiến bị tổn thất do các khoản suy giảm trong giá trị có thể xây ra đối với hàng tồn kho khác thuộc quyền sở hữu của Nhóm Công ty dựa trên bằng chứng hợp lý về sự suy giảm giá trị tại ngày kết thúc kỳ kế toán.
+
+Số tăng hoặc giảm khoản dự phòng giảm giá hàng tồn kho được hạch toán vào giá vốn hàng bán trong báo cáo tài chính hợp nhất.
+
+14
+
+===== PAGE 17 =====
+Công ty Cổ phần Đầu tư Nam Long
+
+B09-DN/HN
+
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+
+vào ngày 31 tháng 12 năm 2017 và cho năm tài chính kết thúc cùng ngày
+
+3. TÓM TẮT CÁC CHÍNH SÁCH KẾ TOÁN CHỦ YẾU (tiếp theo)
+
+3.3 Các khoản phải thu
+
+Các khoản phải thu được trình bày trên báo cáo tài chính hợp nhất theo giá trị ghi số các khoản phải thu từ khách hàng và phải thu khác sau khi cản trừ các khoản dự phòng được lập cho các khoản phải thu khó đòi.
+
+Dự phòng nợ phải thu khó đòi thể hiện phần giá trị của các khoản phải thu mà Nhóm Công ty dự kiến không có khả năng thu hồi tại ngày kết thúc ký kế toán. Tăng hoặc giảm số dư tài khoản dự phòng được hạch toán vào chỉ phí quản lý doanh nghiệp trên báo cáo kết quả hoạt động kinh doanh hợp nhất.
+
+3.4 Tài sản cố định
+
+Tài sản cố định hữu hình và tài sản cố định vô hình được thể hiện theo nguyên giá trừ đi giá trị khấu hao/ hao mòn lũy kế.
+
+Nguyên giá tài sản cố định hữu hình bao gồm giá mua và những chi phí có liên quan trực tiếp đến việc đưa tài sản vào sẵn sàng hoạt động như dự kiến.
+
+Các chỉ phí mua sắm, nâng cấp và đổi mới tài sản cố định được vốn hóa và chi phí bảo trì, sửa chữa được tính vào báo cáo kết quả hoạt động kinh doanh hợp nhất khi phát sinh.
+
+Khi tài sản được bán hay thanh lý, các khoản lãi hoặc lỗ phát sinh do thanh lý tài sản (là phần chênh lệch giữa tiền thu thuần từ việc bán tài sản với giá trị còn lại của tài sản) được hạch toán vào báo cáo kết quả hoạt động kinh doanh hợp nhất.
+
+Quyền sử dụng đất
+
+Quyền sử dụng đất được ghi nhận như tài sản vô hình khi Nhóm Công ty nằm giữ đất này để sử dụng trong sản xuất, kinh doanh cung cấp dịch vụ hoặc cho các đối tượng khác thuê và Công ty được cấp giấy chứng nhận quyền sử dụng đất. Nguyên giá quyền sử dụng đất bao gồm tất cả những chi phí có liên quan trực tiếp đến việc đưa đất vào trạng thái sẵn sàng để sử dụng. Quyền sử dụng đất với thời gian sử dụng không thời hạn thì không khấu hao.
+
+Tiền thuê đất trả trước cho các hợp đồng thuê đất có hiệu lực trước năm 2003 và được cấp Giấy chứng nhận quyền sử dụng đất được ghi nhận là tài sản cố định vô hình theo quy định của Thông tư số 45/2013/TT-BTC do Bộ Tài chính ban hành vào ngày 25 tháng 4 năm 2013 hướng dẫn chế độ quản lý, sử dụng và trích khấu hao tài sản cố định ("Thông tư 45"). Quyền sử dụng đất được khấu trừ dựa trên thời gian sử dụng hữu ích, ngoại trừ quyền sử dụng đất có thời gian sử dụng vô thời hạn thì không được khấu trừ.
+
+3.5 Thuê tài sản
+
+Trong trường hợp Nhóm Công ty là bên đi thuê
+
+Các khoản tiền thuê theo hợp đồng thuê hoạt động được hạch toán vào báo cáo kết quả hoạt động kinh doanh hợp nhất theo phương pháp đường thẳng trong thời hạn của hợp đồng thuê.
+
+Trong trường hợp Nhóm Công ty là bên cho thuê
+
+Tài sản theo hợp đồng cho thuê hoạt động được ghi nhận là bất động sản đầu tư trên bằng cân đối kế toán hợp nhất. Chi phí trực tiếp ban đầu để thương thảo thỏa thuận cho thuê hoạt động được ghi nhận vào báo cáo kết quả hoạt động kinh doanh hợp nhất khi phát sinh.
+
+Thu nhập từ tiền cho thuê được hạch toán vào báo cáo kết quả hoạt động kinh doanh hợp nhất theo phương pháp đường thẳng trong thời gian cho thuê.
+
+15
+
+===== PAGE 18 =====
+Công ty Cổ phần Đầu tư Nam Long
+
+B09-DN/HN
+
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+
+vào ngày 31 tháng 12 năm 2017 và cho năm tài chính kết thúc cùng ngày
+
+3. TÓM TẮT CÁC CHÍNH SÁCH KẾ TOÁN CHỦ YẾU (tiếp theo)
+
+3.6 Khấu hao và hao mòn
+
+Khẩu hao tài sản cố định hữu hình và hao mòn tài sản cố định vô hình được trích theo phương pháp khấu hao đường thẳng trong suốt thời gian hữu dụng ước tính của các tài sản như sau:
+
+<table><tr><td>Nhà cửa, vật kiến trúc</td><td>25 - 47 năm</td></tr><tr><td>Máy móc, thiết bị</td><td>5 - 12 năm</td></tr><tr><td>Phương tiện vận tải</td><td>6 - 8 năm</td></tr><tr><td>Thiết bị văn phòng</td><td>3 - 8 năm</td></tr><tr><td>Phần mềm vi tính</td><td>3 - 5 năm</td></tr><tr><td>Quyền sử dụng đất</td><td>47 năm</td></tr><tr><td>Tài sản khác</td><td>3 - 5 năm</td></tr></table>
+
+3.7 Bất động sản đầu tư
+
+Bất động sản đầu tư được thể hiện theo nguyên giá bao gồm các chi phí giao dịch liên quan trừ đi giá trị khấu hao và hao mòn lũy kế.
+
+Các khoản chi phí liên quan đến bất động sản đầu tư phát sinh sau ghi nhận ban đầu được hạch toán vào giá trị còn lại của bất động sản đầu tư khi Nhóm Công ty có khả năng thu được các lợi ích kinh tế trong tương lai nhiều hơn mức hoạt động được đánh giá ban đầu của bất động sản đầu tư đó.
+
+Khấu hao và hao mòn bất động sản đầu tư được trích theo phương pháp khấu hao đường thẳng trong suốt thời gian hữu dụng ước tính của các bất động sản như sau:
+
+<table><tr><td>Nhà cửa, vật kiến trúc</td><td>6 - 47 năm</td></tr><tr><td>Quyền sử dụng đất</td><td>47 năm</td></tr></table>
+
+Bất động sản đầu tư không còn được trình bày trong bằng cân đối kế toán hợp nhất sau khi đã bán hoặc sau khi bất động sản đầu tư đã không còn được sử dụng và xét thấy không thu được lợi ích kinh tế trong tương lai từ việc thanh lý bất động sản đầu tư đó. Chênh lệch giữa tiền thu thuần từ việc bán tài sản với giá trị còn lai của bất động sản đầu tư được ghi nhận vào báo cáo kết quả hoạt động kinh doanh hợp nhất trong kỳ thanh lý.
+
+Việc chuyển từ bất động sản chủ sở hữu sử dụng hoặc hàng tồn kho thành bất động sản đầu tư chỉ khi có sự thay đổi về mục đích sử dụng như trường hợp chủ sở hữu chấm dứt sử dụng tài sản đó và bất đầu cho bên khác thuê hoạt động hoặc khi kết thúc giai đoạn xây dựng. Việc chuyển từ bất động sản đầu tư sang bất động sản chủ sở hữu sử dụng hay hàng tồn kho chỉ khi có sự thay đổi về mục đích sử dụng như các trường hợp chủ sở hữu bất đầu sử dụng tài sản này hoặc bất đầu triển khai cho mục đích bán. Việc chuyển từ bất động sản đầu tư sang bất động sản chủ sở hữu sử dụng hoặc hàng tồn kho không làm thay đổi nguyên giá hay giá trị còn lại của bất động sản tại ngày chuyển đổi.
+
+3.8 Chi phí di vay
+
+Chi phí đi vay bao gồm lãi tiền vay và các chi phí khác phát sinh liên quan trực tiếp đến các khoản vay của Nhóm Công ty và được hạch toán như chi phí phát sinh trong kỳ ngoại trừ các khoản được vốn hóa như theo nội dung của đoạn tiếp theo.
+
+Chi phí đi vay liên quan trực tiếp đến việc mua sắm, xây dựng hoặc hình thành một tài sản cụ thể cần có một thời gian đủ dài để có thể đưa vào sử dụng theo mục đích định trước hoặc để bán được vốn hóa vào nguyên giá của tài sản đó.
+
+16
+
+===== PAGE 19 =====
+Công ty Cổ phần Đầu tư Nam Long
+
+B09-DN/HN
+
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+
+vào ngày 31 tháng 12 năm 2017 và cho năm tài chính kết thúc cùng ngày
+
+3. TÓM TẮT CÁC CHÍNH SÁCH KẾ TOÁN CHỦ YẾU (tiếp theo)
+
+3.9 Chi phí trả trước
+
+Chi phí trả trước bao gồm các chi phí trả trước ngắn hạn hoặc chi phí trả trước dài hạn trên bằng cân đối kế toán hợp nhất và được phân bổ trong khoảng thời gian trả trước của chi phí hoặc thời gian các lợi ích kinh tế tương ứng được tạo ra từ các chi phí này.
+
+Các loại chi phí sau đây được hạch toán vào chi phí trả trước dài hạn để phân bổ đàn vào báo cáo kết quả hoạt động kinh doanh hợp nhất:
+
+▶ Công cụ dụng cụ xuất dùng với giá trị lớn và được sử dụng trên một năm;
+
+Nhà mâu; và
+
+▶ Chi phí hoa hồng môi giới.
+
+3.10 Hợp nhất kinh doanh và lợi thế thương mại
+
+Hợp nhất kinh doanh được hạch toán theo phương pháp giá mua. Giá phí hợp nhất kinh doanh bao gồm giá trị hợp lý tại ngày diễn ra trao đổi của các tài sản đem trao đổi, các khoản nợ phải trả đã phát sinh hoặc đã thừa nhận và các công cụ vốn do bên mua phát hành để đổi lấy quyền kiểm soát bên bị mua và các chỉ phí liên quan trực tiếp đến việc hợp nhất kinh doanh. Tài sản đã mua, nợ phải trả có thể xác định được và những khoản nợ tiềm tàng phải gánh chịu trong hợp nhất kinh doanh của bên bị mua đều ghi nhận theo giá trị hợp lý tại ngày hợp nhất kinh doanh.
+
+Lợi thế thương mại phát sinh từ hợp nhất kinh doanh được ghi nhận ban đầu theo giá gốc, là phần chênh lệch giữa giá phí hợp nhất kinh doanh so với với phần sở hữu của bên mua trong giá trị hợp lý thuần của tài sản, nợ phải trả có thể xác định được và các khoản nợ tiêm tàng đã ghi nhận. Nếu giá phí hợp nhất kinh doanh thấp hơn giá trị hợp lý của tài sản thuần của bên bị mua, phần chênh lệch đó sẽ được ghi nhận vào báo cáo kết quả hoạt động kinh doanh hợp nhất. Sau khi ghi nhận ban đầu, lợi thế thương mại được xác định giá trị bằng giá gốc trừ đi giá trị phân bổ lũy kế. Lợi thế thương mại được phân bổ theo phương pháp đường thẳng trong thời gian hữu ích được ước tính tối đa là mười (10) năm. Định kỳ công ty mẹ phải đánh giá tổn thất lợi thế thương mại tại công ty con, nếu có bằng chứng cho thấy số lợi thế thương mại bị tổn thất lớn hơn số phân bổ hàng năm thì phân bổ theo số lợi thế thương mại bị tổn thất ngay trong kỳ phát sinh.
+
+3.11 Các khoản đầu tư
+
+Đầu tư vào công ty liên kết
+
+Các khoản đầu tư vào các công ty liên kết được hạch toán theo phương pháp vốn chủ sở hữu. Công ty liên kết là các công ty mà trong đó Nhóm Công ty có ảnh hưởng đáng kể nhưng không phải là công ty con hay công ty liên doanh của Nhóm Công ty. Thông thường, Nhóm Công ty được coi là có ảnh hưởng đáng kể nếu sở hữu trên 20% quyền bổ phiếu ở đơn vị nhận đầu tư.
+
+Theo phương pháp vốn chủ sở hữu, khoản đầu tư được ghi nhận ban đầu trên bằng cân đối kế toán hợp nhất theo giá gốc, sau đó được điều chỉnh theo những thay đổi của phần sở hữu của nhóm Công ty trong tài sản thuần của công ty liên kết sau khi mua. Lợi thế thương mại phát sinh được phần ánh trong giá trị còn lại của khoản đầu tư. Nhóm Công ty không khấu hao lợi thế thương mại này mà hàng năm thực hiện đánh giá xem lợi thế thương mại có bị suy giảm giá trị hay không. Báo cáo kết quả kinh doanh hợp nhất phần ánh phần sở hữu của Nhóm Công ty trong kết quả hoạt động kinh doanh của công ty liên kết sau khi mua.
+
+Phần sở hữu của nhà đầu tư trong lợi nhuận (lỗ) của công ty liên kết sau khi mua được phân ánh trên báo cáo kết quả kinh doanh hợp nhất và phân số hữu của nhà đầu tư trong thay đổi sau khi mua của các quỹ của công ty liên kết được ghi nhận vào các quỹ. Thay đổi lũy kế sau khi mua được điều chỉnh vào giá trị còn lại của khoản đầu tư vào công ty liên kết. Cổ tức nhận được từ công ty liên kết được cán trừ vào khoản đầu tư vào công ty liên kết.
+
+Các báo cáo tài chính của công ty liên kết được lập cùng kỳ với các báo cáo tài chính hợp nhất của Nhóm Công ty và sử dụng các chính sách kế toán nhất quán với Nhóm Công ty. Các điều chỉnh hợp nhất thích hợp đã được ghi nhận để bảo đảm các chính sách kế toán được áp dụng nhất quán với Nhóm Công ty trong trường hợp cần thiết.
+
+17
+
+===== PAGE 20 =====
+Công ty Cổ phần Đầu tư Nam Long
+
+B09-DN/HN
+
+THUYẾT MINH BẢO CẢO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+vào ngày 31 tháng 12 năm 2017 và cho năm tài chính kết thúc cùng ngày
+
+3. TÓM TẮT CÁC CHÍNH SÁCH KẾ TOÁN CHỦ YẾU (tiếp theo)
+
+3.11 Các khoản đầu tư (tiếp theo)
+
+Đầu tư vào công ty liên doanh
+
+Khoản đầu tư của Nhóm Công ty vào cơ sở kinh doanh được đồng kiểm soát được hạch toán theo phương pháp vốn chủ sở hữu. Theo phương pháp này, khoản đầu tư của Nhóm Công ty vào liên doanh được trình bày trên bằng cân đối kế toán hợp nhất theo giá gốc, sau đó được điều chỉnh theo những thay đổi của phần sở hữu của Nhóm Công ty trong tài sản thuần của liên doanh. Báo cáo kết quả hoạt động kinh doanh hợp nhất phần ánh phần sở hữu của Nhóm Công ty trong kết quả hoạt động kinh doanh của liên doanh.
+
+Phần sở hữu của nhà đầu tư trong lợi nhuận (lỗ) của liên doanh được phản ánh trên báo cáo kết quả kinh doanh hợp nhất và phần sở hữu của nhà đầu tư trong thay đổi sau khi liên doanh của các quỹ của liên doanh được ghi nhận vào quý. Thay đổi lũy kế sau khi liên doanh được điều chỉnh vào giá trị còn lại của khoản đầu tư vào công ty liên doanh. Cổ tức nhận được/ lợi nhuận được chia từ liên doanh được cán trừ vào giá trị khoản đầu tư vào liên doanh.
+
+Báo cáo tài chính của liên doanh được lập cùng kỳ với các báo cáo tài chính của Nhóm Công ty và sử dụng các chính sách kế toán nhất quán với Nhóm Công ty. Các điều chỉnh hợp nhất thích hợp đã được ghi nhận để bảo đảm các chính sách kế toán được áp dụng nhất quán với Nhóm Công ty trong trường hợp cần thiết.
+
+Đầu tư góp vốn vào đơn vị khác
+
+Đầu tư góp vốn vào đơn vị khác được ghi nhận theo giá mua thực tế.
+
+Dự phòng giảm giá trị các khoản đầu tư góp vốn
+
+Dự phòng được lập cho việc giảm giá trị của các khoản đầu tư góp vốn vào ngày kết thúc ký kế toán theo hướng dẫn của Thông tư số 228/2009/TT-BTC và Thông tư số 89/2013/TT-BTC do Bộ Tài chính ban hành ngày 7 tháng 12 năm 2009 và ngày 26 tháng 6 năm 2013. Tăng hoặc giảm số dự tài khoản dự phòng được hạch toán vào chi phí tài chính của doanh nghiệp trên báo cáo kết quả hoạt động kinh doanh hợp nhất.
+
+Đầu tư nằm giữ đến ngày đáo hạn
+
+Các khoản đầu tư nắm giữ đến ngày đáo hạn được ghi nhận theo giá gốc. Sau khi nhận ban đầu, các khoản đầu tư này được ghi nhận theo giá trị có thể thu hồi. Các khoản suy giảm giá trị của khoản đầu tư nếu phát sinh được hạch toán vào chi phí tài chính trong báo cáo kết quả hoạt động kinh doanh hợp nhất và giảm trừ trực tiếp giá trị đầu tư.
+
+3.12 Các khoản phải trả và chi phí trích trước
+
+Các khoản phải trả và chi phí trích trước được ghi nhận cho số tiền phải trả trong tương lai liên quan đến hàng hóa và dịch vụ đã nhận được không phụ thuộc vào việc Nhóm Công ty đã nhận được hóa đơn của nhà cung cấp hay chưa.
+
+3.13 Trợ cấp thời việc phải trả
+
+Trợ cấp thời việc cho nhân viên được trích trước vào cuối mỗi kỳ báo cáo cho toàn bộ người lao động đã làm việc tại Nhóm Công ty được hơn 12 tháng cho đến ngày 31 tháng 12 năm 2008 theo tỷ lệ một nửa mức lương bình quân tháng cho mỗi nằm làm việc tính đến ngày 31 tháng 12 năm 2008 theo Luật Lao động và các văn bản hướng dẫn có liên quan. Mức lương bình quân tháng để tính trợ cấp thời việc sẽ được điều chỉnh vào cuối mỗi kỳ báo cáo theo mức lương bình quân của sâu tháng gần nhất tỉnh đến thời điểm lập báo cáo. Tăng hoặc giảm trong khoản trích trước này ngoại trừ phần thanh toán thực tế cho người lao động sẽ được ghi nhận vào báo cáo kết quả hoạt động kinh doanh hợp nhất.
+
+Khoản trợ cấp thời việc trích trước này được sử dụng để trả trợ cấp thời việc cho người lao động khi chấm dứt hợp đồng lao động theo điều 48 của Bộ luật Lao động.
+
+18
+
+===== PAGE 21 =====
+Công ty Cổ phần Đầu tư Nam Long
+
+B09-DN/HN
+
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+
+vào ngày 31 tháng 12 năm 2017 và cho năm tài chính kết thúc cùng ngày
+
+3. TÓM TẮT CÁC CHÍNH SÁCH KẾ TOÁN CHỦ YẾU (tiếp theo)
+
+3.14 Các nghiệp vụ bằng ngoại tệ
+
+Các nghiệp vụ phát sinh bằng các đơn vị tiền tệ khác với đơn vị tiền tệ kế toán của Nhóm Công ty (VND) được hạch toán theo tỷ giá giao dịch thực tế vào ngày phát sinh nghiệp vụ theo nguyên tắc sau:
+
+- nghiệp vụ làm phát sinh các khoản phải thu được hạch toán theo tỷ giá mua của ngân hàng thương mại nơi Nhóm Công ty chỉ định khách hàng thanh toán; và
+
+- nghiệp vụ làm phát sinh các khoản phải trả được hạch toán theo tỷ giá bán của ngân hàng thương mại nơi Nhóm Công ty dự kiến giao dịch.
+
+Tại ngày kết thúc kỳ kế toan năm, các khoản mục tiền tệ có gốc ngoại tệ được đánh giá lại theo tỷ giá giao dịch thực tế tại ngày của bằng cân đối kế toán theo nguyên tắc sau:
+
+- các khoản mục tiền tệ được phân loại là tài sản được hạch toán theo tỷ giá mua của ngân hàng thương mại nơi Nhóm Công ty thường xuyên có giao dịch; và
+
+- các khoản mục tiền tệ được phân loại là nợ phải trả được hạch toán theo tỷ giá bán của ngân hàng thương mại nơi Nhóm Công ty thường xuyên có giao dịch.
+
+Tất cả các khoản chênh lệch tỷ giá được hạch toán vào báo cáo kết quả hoạt động kinh doanh hợp nhất.
+
+3.15 Cổ phiếu quỹ
+
+Các công cụ vốn chủ sở hữu được Nhóm Công ty mua lại (cổ phiếu quỹ) được ghi nhận theo nguyên giá và trừ vào vốn chủ sở hữu. Nhóm Công ty không ghi nhận các khoản lãi hoặc lỗ khi mua, bán, phát hành hoặc hủy các công cụ vốn chủ sở hữu của mình.
+
+3.16 Phân chía lợi nhuận
+
+Lợi nhuận sau thuế thu nhập doanh nghiệp (không bao gồm các khoản lãi từ giao dịch mua giả rule) có thể được chia cho các cổ đông sau khi được Đại hội đồng cổ đông phê duyệt và sau khi đã trích lập các quỹ dự phòng theo Điều lệ của Nhóm Công ty và các quy định của pháp luật Việt Nam.
+
+Nhóm Công ty trích lập các quỹ dự phòng sau từ lợi nhuận thuần sau thuế thu nhập doanh nghiệp của Nhóm Công ty theo đề nghị của Hội đồng Quản trị và được các cổ đông phê duyệt tại đại hội đồng cổ đông thường niên:
+
+▶ Quỹ đầu tư phát triển
+
+Quỹ này được trích lập nhằm phục vụ việc mở rộng hoạt động hoặc đầu tư chiều sâu của Nhóm Công ty.
+
+▶ Quỹ khác thuộc vốn chủ sở hữu
+
+Nguồn kinh phí cho hoạt động kinh doanh, dự án bao gồm ngân sách hoạt động dự kiến.
+
+▶ Quỹ khen thưởng, phúc lợi
+
+Quỹ này được trích lập để khen thưởng, khuyến khích vật chất, đem lại lợi ích chung và nâng cao phúc lợi cho công nhân viên, và được trình bày như một khoản phải trả trên bằng cân đối kế toán hợp nhất.
+
+3.17 Lãi trên cổ phiếu
+
+Lãi cơ bản trên cổ phiếu được tính bằng cách chia lợi nhuận sau thuế thuộc về cổ đông sở hữu cổ phiếu phổ thông của Nhóm công ty (sau khi đã điều chỉnh cho việc trích lập quỹ khen thưởng, phúc lợi) cho số lượng bình quân gia quyền của số cổ phiếu phổ thông đang lưu hành trong năm.
+
+19
+
+===== PAGE 22 =====
+Công ty Cổ phần Đầu tư Nam Long
+
+B09-DN/HN
+
+THUYÊT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+vào ngày 31 tháng 12 năm 2017 và cho năm tài chính kết thúc cùng ngày
+
+3. TÓM TẮT CÁC CHÍNH SÁCH KẾ TOÁN CHỦ YẾU (tiếp theo)
+
+3.17 Lãi trên cổ phiếu (tiếp theo)
+
+Lãi suy giảm trên cổ phiếu được tính bằng cách chia lợi nhuận hoặc lỗ sau thuế phân bổ cho cổ đông sở hữu cổ phiếu phổ thông của Nhóm công ty (sau khi đã điều chỉnh cho cổ tức của cổ phiếu ưu đãi có quyền chuyển đổi) cho số lượng bình quân gia quyền của số cổ phiếu phổ thông đang lưu hành trong năm và số lượng bình quân gia quyền của cổ phiếu phổ thông sẽ được phát hành trong trường hợp tất cả các cổ phiếu phổ thông tiềm năng có tác động suy giảm đều được chuyển thành cổ phiếu phổ thông.
+
+3.18 Ghi nhận doanh thu
+
+Doanh thu được ghi nhận khi Nhóm Công ty có khả năng nhận được các lợi ích kinh tế có thể xác định được một cách chắc chắn. Doanh thu được xác định theo giả trị hợp lý của các khoản đã thu hoặc sẽ thu được sau khi trừ đi các khoản chiết khấu thương mại, giảm giá hàng bán và hàng bán bị trả lại. Các điều kiện ghi nhận cụ thể sau đây cũng phải được đáp ứng khi ghi nhận doanh thu:
+
+Doanh thu bán biệt thụ, nhà phố và căn hộ
+
+Đối với các biệt thụ, nhà phố và căn hộ mà Nhóm Công ty bán sau khi đã xây dựng hoàn tất, doanh thu và giá vốn được được ghi nhận khi phần lớn rủi ro và lợi ích liên quan đến biệt thụ, nhà phố và căn hộ đã được chuyển giao sang người mua.
+
+Doanh thu bán lô đất và đất đã xây dựng cơ sở hạ tầng
+
+Doanh thu bán lô đất và đất đã xây dựng cơ sở hạ tầng được xác định là tổng số tiền được nhận khi đất và đất đã xây dựng cơ sở hạ tầng được bàn giao cho khách hàng.
+
+Doanh thu cung cấp dịch vụ khác
+
+Doanh thu được ghi nhận khi hoàn thành việc cung cấp dịch vụ.
+
+Tiền lãi
+
+Doanh thu được ghi nhận khi tiền lãi phát sinh trên cơ sở dồn tích (có tính đến lợi tức mà tài sản đem lại) trừ khi khả năng thu hồi tiền lãi không chắc chắn.
+
+Cô tức
+
+Doanh thu được ghi nhận khi quyền được nhận khoản thanh toán cổ tức của Nhóm công ty được xác lập.
+
+Tiền cho thuê
+
+Thu nhập từ tiền cho thuê tài sản theo hợp đồng thuê hoạt động được hạch toán vào kết quả hoạt động kinh doanh hợp nhất theo phương pháp đường thẳng trong suốt thời gian cho thuê.
+
+3.19 Thuế
+
+Thuế thu nhập hiện hành
+
+Tài sản thuế thu nhập và thuế thu nhập phải nộp cho năm hiện hành và các năm trước được xác định bằng số tiền dự kiến được thu hồi từ hoặc phải nộp cho cơ quan thuế, dựa trên các mức thuế suất và các luật thuế có hiệu lực đến ngày kết thúc ký kế toán.
+
+Thuế thu nhập hiện hành được ghi nhận vào báo cáo kết quả hoạt động kinh doanh hợp nhất ngoại trừ trường hợp thuế thu nhập phát sinh liên quan đến một khoản mục được ghi thắng vào vốn chủ sở hữu, trong trường hợp này, thuế thu nhập hiện hành cũng được ghi nhận trực tiếp vào vốn chủ sở hữu.
+
+Nhóm Công ty chỉ được bù trừ các tài sản thuế thu nhập hiện hành và thuế thu nhập hiện hành phải nộp khi Nhóm Công ty có quyền hợp pháp được bù trừ giữa tài sản thuế thu nhập hiện hành với thuế thu nhập hiện hành phải nộp và Nhóm Công ty dự định thanh toán thuế thu nhập hiện hành phải trả và tài sản thuế thu nhập hiện hành trên cơ sở thuần.
+
+20
+
+===== PAGE 23 =====
+Công ty Cổ phần Đầu tư Nam Long
+
+B09-DN/HN
+
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+
+vào ngày 31 tháng 12 năm 2017 và cho năm tài chính kết thúc cùng ngày
+
+3. TÓM TẮT CÁC CHÍNH SÁCH KẾ TOÁN CHỦ YẾU (tiếp theo)
+
+3.19 Thuế (tiếp theo)
+
+Thuế thu nhập hoãn lại
+
+Thuế thu nhập hoãn lại được xác định cho các khoản chênh lệch tạm thời tại ngày kết thúc kỳ kế toán giữa cơ sở tính thuế thu nhập của các tài sản và nợ phải trả và giá trị ghi số của chúng cho mục đích lập báo cáo tài chính hợp nhất.
+
+Thuế thu nhập hoãn lại phải trả được ghi nhận cho tất cả các khoản chênh lệch tạm thời chịu thuế, ngoại trừ thuế thu nhập hoãn lại phải trả phát sinh từ ghi nhận ban đầu của một tài sản hay nợ phải trả từ một giao dịch mà giao dịch này không có ảnh hưởng đến lợi nhuận kế toán hoặc lợi nhuận tính thuế thu nhập (hoặc lỗ tính thuế) tại thời điểm phát sinh giao dịch.
+
+Tài sản thuế thu nhập hoãn lại cần được ghi nhận cho tất cả các chênh lệch tạm thời được khấu trừ, giá trị được khấu trừ chuyển sang các kỳ sau của các khoản lỗ tính thuế và các khoản ưu đãi thuế chưa sử dụng, khi chắc chắn trong tương lai sẽ có lợi nhuận tính thuế để sử dụng những chênh lệch tạm thời được khấu trừ, các khoản lỗ tính thuế và các ưu đãi thuế chưa sử dụng này, ngoại trừ tài sản thuế hoãn lại phát sinh từ ghi nhận ban đầu của một tài sản hoặc nợ phải trả từ một giao dịch mà giao dịch này không có ảnh hưởng đến lợi nhuận kế toán hoặc lợi nhuận tính thuế thu nhập (hoặc lỗ tính thuế) tại thời điểm phát sinh giao dịch.
+
+Giá trị ghi sổ cửa tài sản thuế thu nhập doanh nghiệp hoãn lại phải được xem xét lại vào ngày kết thúc ký kế toán và phải giảm giá trị ghi sổ cửa tài sản thuế thu nhập hoãn lại đến mức bảo đảm chắc chắn có đủ lợi nhuận tính thuế cho phép lợi ích của một phần hoặc toàn bộ tài sản thuế thu nhập hoãn lại được sử dụng. Các tài sản thuế thu nhập doanh nghiệp hoãn lại chưa được ghi nhận trước đây được xem xét lại vào ngày kết thúc ký kế toán và được ghi nhận khi chắc chắn có đủ lợi nhuận tính thuế trong tương lai để có thể sử dụng các tài sản thuế thu nhập hoãn lại chưa ghi nhận này.
+
+Tài sản thuế thu nhập hoãn lại và thuế thu nhập hoãn lại phải trả được xác định theo thuế suất dự tính sẽ áp dụng cho kỳ kế toán khi tài sản được thu hồi hay nợ phải trả được thanh toán, dựa trên các mức thuế suất và luật thuế có hiệu lực vào ngày kết thúc kỳ kế toán năm.
+
+Thuế thu nhập hoãn lại được ghi nhận vào báo cáo kết quả hoạt động kinh doanh hợp nhất ngoại trừ trường hợp thuế thu nhập phát sinh liên quan đến một khoản mục được ghi thẳng vào vốn chủ sở hữu, trong trường hợp này, thuế thu nhập hoãn lại cũng được ghi nhận trực tiếp vào vốn chủ sở hữu.
+
+Nhóm Công ty chỉ được bù trừ các tài sản thuế thu nhập hoãn lại và thuế thu nhập hoãn lại phải trả khi Nhóm Công ty có quyền hợp pháp được bù trừ giữa tài sản thuế thu nhập hiện hành với thuế thu nhập hiện hành phải nộp và các tài sản thuế thu nhập hoãn lại và thuế thu nhập hoãn lại phải trả liên quan tới thuế thu nhập doanh nghiệp được quản lý bởi cùng một cơ quan thuế đối với cùng một đơn vị chịu thuế hoặc Nhóm Công ty dự định thanh toán thuế thu nhập hiện hành phải trả và tài sản thuế thu nhập hiện hành trên cơ sở thuần hoặc thu hồi tài sản đồng thời với việc thanh toán nợ phải trả trong từng kỳ tương lai khi các khoản trọng yếu của thuế thu nhập hoãn lại phải nộp hoặc tài sản thuế thu nhập hoãn lại được thanh toán hoặc thu hồi.
+
+3.20 Trái phiếu chuyển đổi
+
+Trái phiếu chuyển đổi, mà có thể được chuyển đổi thành một số lượng cổ phiếu phổ thông cố định, được phân chia thành nợ phải trả tài chính (cho phần thỏa thuận mang tính bắt buộc phải chi trả bằng tiền hoặc tài sản tài chính khác) và vốn chủ sở hữu (phản quyền chuyển đổi thành cổ phiếu trong một thời gian nhất định) theo điều khoản hợp đồng.
+
+Tại ngày phát hành, giá trị hợp lý của thành phần nợ phải trả tài chính trong trái phiếu chuyển đổi được xác định bằng cách chiết khấu giá trị danh nghĩa của khoản thanh toán trong tương lai (gồm cả nợ gốc và lãi trái phiếu) về giá trị hiện tại theo lãi suất của trái phiếu không chuyển đổi tương tự trên thị trường và trừ đi chi phí phát hành trái phiếu chuyển đổi.
+
+21
+
+===== PAGE 24 =====
+Công ty Cổ phần Đầu tư Nam Long
+
+B09-DN/HN
+
+THUYẾT MINH BẢO CẢO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+vào ngày 31 tháng 12 năm 2017 và cho năm tài chính kết thúc cùng ngày
+
+3. TÓM TẮT CÁC CHÍNH SÁCH KẾ TOÁN CHỦ YÉU (tiếp theo)
+
+3.20 Trái phiếu chuyển đổi (tiếp theo)
+
+Khoản mục này được ghi nhận là nợ phải trả tài chính và được xác định theo giá trị phân bổ (trừ đi chi phí phát hành) cho đến khi được huỷ bổ thông qua chuyển đổi hoặc được thanh toán.
+
+Phần còn lại trong tổng tiền thu được từ phát hành trái phiếu chuyển đổi được phân bổ cho quyền chuyển đổi và được ghi nhận vào vốn chủ sở hữu. Giá trị ghi sổ của quyền chuyển đổi không được đánh giá lại trong các năm sau.
+
+Chi phí giao dịch liên quan đến việc phát hành trái phiếu chuyển đổi được phân bổ dân phù hợp với kỳ hạn trái phiếu theo phương pháp đường thẳng. Tại thời điểm ghi nhận ban đầu, chi phí phát hành trái phiếu chuyển đổi được ghi giảm phần nợ gốc của trái phiếu.
+
+3.21 Các bên liên quan
+
+Các bên được coi là bên liên quan của Tập đoàn nếu một bên có khả năng, trực tiếp hoặc gián tiếp, kiểm soát bên kia hoặc gây ảnh hưởng đáng kể tới bên kia trong việc ra các quyết định tài chính và hoạt động, hoặc khi Tập đoàn và bên kia cùng chịu sự kiểm soát chung hoặc ảnh hưởng đáng kể chung. Các bên liên quan có thể là các công ty hoặc các cá nhân, bao gồm các thành viên mật thiết trong gia đình mật thiết của các cá nhân được coi là liên quan.
+
+3.22 Thông tin bộ phận
+
+Một bộ phận là một hợp phần có thể xác định riêng biệt được của Nhóm Công ty tham gia vào việc cung cấp các sản phẩm hoặc dịch vụ liên quan (bộ phận chia theo hoạt động kinh doanh), hoặc cung cấp sản phẩm hoặc dịch vụ trong một môi trường kinh tế cụ thể (bộ phận chia theo vùng địa lý), mỗi bộ phận này chịu rủi ro và thu được lợi ích khác biệt với các bộ phận khác. Hoạt động kinh doanh bất động sản trong lãnh thổ Việt Nam chủ yếu tạo ra doanh thu và lợi nhuận cho Nhóm Công ty, trong khi các khoản doanh thu khác chiếm tỷ trọng nhỏ trong tổng doanh thu của Nhóm Công ty. Do đó, Ban Tổng Giám đốc Nhóm Công ty nhận định là Nhóm Công ty chỉ có một bộ phận theo hoạt động kinh doanh và khu vực địa lý. Theo đó, thông tin theo bộ phận không được trình bày.
+
+4. TIỀN VÀ CÁC KHOÀN TƯƠNG ĐƯƠNG TIỀN
+
+<table><tr><td></td><td>Số cuối năm</td><td>VND Số đầu năm</td></tr><tr><td>Tiền mặt</td><td>7.930.386.094</td><td>4.103.225.059</td></tr><tr><td>Tiền gửi ngân hàng</td><td>525.918.070.989</td><td>387.701.913.519</td></tr><tr><td>Các khoản tương đương tiền (*)</td><td>1.548.232.759.956</td><td>539.757.744.506</td></tr><tr><td>TỔNG CỘNG</td><td>2.082.081.217.039</td><td>931.562.883.084</td></tr></table>
+
+(*) Các khoản tương đương tiền thể hiện các khoản tiền gửi ngân hàng có kỳ hạn gốc dưới ba tháng và hưởng lãi suất từ 5,2%/năm đến 6,5%/năm.
+
+5. KHOÀN ĐẦU TƯ TÀI CHÍNH NGĂN HẠN
+
+Đầu tư nấm giữ đến ngày đáo hạn phần ánh các khoản tiền gửi có kỳ hạn tại các ngân hàng thương mại có kỳ hạn gốc sâu tháng với lãi suất dao động từ 6,2%/năm đến 6,5%/năm.
+
+22
+
+===== PAGE 25 =====
+Công ty Cổ phần Đầu tư Nam Long
+
+B09-DN/HN
+
+THUYẾT MINH BẢO CẢO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+
+vào ngày 31 tháng 12 năm 2017 và cho năm tài chính kết thúc cùng ngày
+
+6. PHẢI THU KHÁCH HÀNG NGẮN HẠN
+
+<table><tr><td></td><td>Số cuối năm</td><td>VND Số đầu năm</td></tr><tr><td>Phải thu các khách hàng khác</td><td>220.067.135.620</td><td>340.042.349.127</td></tr><tr><td>Phải thu các bên liên quan(Thuyết minh (&quot;TM&quot;) số 33)</td><td>6.954.663.426</td><td>341.755.097</td></tr><tr><td>TỔNG CỘNG</td><td>227.021.799.046</td><td>340.384.104.224</td></tr></table>
+
+7. TRÀ TRƯỚC CHO NGƯỜI BÁN NGÁN HẠN
+
+<table><tr><td></td><td>Số cuối năm</td><td>VND Số đầu năm</td></tr><tr><td>Tạm ứng mua quyền sử dụng đất</td><td>32.251.024.452</td><td>477.881.353.363</td></tr><tr><td>- Ban Bồi thường Giải phóng mặt bằng Quận 7</td><td>27.984.607.179</td><td>-</td></tr><tr><td>- Công ty TNHH Hoàng Nam</td><td>-</td><td>471.400.000.000</td></tr><tr><td>- Khác</td><td>4.266.417.273</td><td>6.481.353.363</td></tr><tr><td>Tạm ứng dịch vụ xây dựng</td><td>85.413.042.168</td><td>70.998.535.407</td></tr><tr><td>- Công ty Cổ phần Xây dựng Điện Quang Nguyên</td><td>21.014.887.330</td><td>14.317.824.472</td></tr><tr><td>- Khác</td><td>64.398.154.838</td><td>56.680.710.935</td></tr><tr><td>Khác</td><td>2.142.642.334</td><td>7.905.406.904</td></tr><tr><td>TỔNG CỘNG</td><td>119.806.708.954</td><td>556.785.295.674</td></tr></table>
+
+8. PHẢI THU VỀ CHO VAY
+
+<table><tr><td></td><td>Số cuối năm</td><td>VND Số đầu năm</td></tr><tr><td colspan="3">Phải thu về cho vay cá nhân, trong đó:</td></tr><tr><td>- Ngắn hạn</td><td>41.780.000.000</td><td>41.780.000.000</td></tr><tr><td>- Dài hạn</td><td>36.052.361.840</td><td>-</td></tr><tr><td>TỔNG CỘNG</td><td>77.832.361.840</td><td>41.780.000.000</td></tr></table>
+
+Chi tiết các khoản phải thu về cho vay như sau:
+
+<table><tr><td>Bên vay</td><td>Số cuối năm VND</td><td>Ngày đáo hạn</td><td>Lãi suất %/năm</td></tr><tr><td colspan="4">Ông Nguyễn Thành Đồng</td></tr><tr><td>Khoản vay 1</td><td>23.180.000.000</td><td>Ngày 30 tháng 12 năm 2018</td><td>7,0</td></tr><tr><td>Khoản vay 2</td><td>25.661.529.600</td><td>Ngày 24 tháng 4 năm 2019</td><td>6,0</td></tr><tr><td colspan="4">Bà Vũ Bích Lan</td></tr><tr><td>Khoản vay 1</td><td>18.600.000.000</td><td>Ngày 28 tháng 12 năm 2018</td><td>7,0</td></tr><tr><td>Khoản vay 2</td><td>10.390.832.240</td><td>Ngày 24 tháng 4 năm 2019</td><td>6,0</td></tr><tr><td>TỔNG CỘNG</td><td>77.832.361.840</td><td></td><td></td></tr><tr><td colspan="2">Trong đó:- Cho vay ngắn hạn- Cho vay dài hạn</td><td>41.780.000.00036.052.361.840</td><td></td></tr></table>
+
+23
+
+===== PAGE 26 =====
+Công ty Cổ phần Đầu tư Nam Long
+
+B09-DN/HN
+
+THUYẾT MINH BẢO CẢO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+
+vào ngày 31 tháng 12 năm 2017 và cho năm tài chính kết thúc cùng ngày
+
+9. CÁC KHOÀN PHẢI THU KHÁC
+
+<table><tr><td></td><td>Số cuối năm</td><td>VND Số đầu năm</td></tr><tr><td colspan="3">Ngắn hạn</td></tr><tr><td>Tạm ứng cho nhân viên phục vụ công tácđền bù</td><td>79.533.369.186</td><td>111.354.640.763</td></tr><tr><td>Phải thu từ hợp đồng hợp táckinh doanh (&quot;HĐHTKD&quot;)</td><td>64.440.255.459</td><td>6.210.353.467</td></tr><tr><td>Trả trước thuế thu nhập doanh nghiệp theotién độ thanh toán của khách hàng</td><td>19.270.300.089</td><td>9.213.961.104</td></tr><tr><td>Tạm ứng khác cho nhân viên</td><td>14.612.053.758</td><td>14.261.932.186</td></tr><tr><td>Khác</td><td>16.772.805.351</td><td>19.782.992.027</td></tr><tr><td></td><td>194.628.783.843</td><td>160.823.879.547</td></tr><tr><td colspan="3">Dài hạn</td></tr><tr><td>Đầu tư vào các HĐHTKD (i)</td><td>34.391.676.806</td><td>117.264.530.680</td></tr><tr><td>Ký quỹ</td><td>6.049.601.919</td><td>7.457.900.301</td></tr><tr><td></td><td>40.441.278.725</td><td>124.722.430.981</td></tr><tr><td>TỔNG CỘNG</td><td>235.070.062.568</td><td>285.546.310.528</td></tr><tr><td colspan="3">Trong đó:</td></tr><tr><td>Phải thu các bên khác</td><td>234.520.062.568</td><td>285.546.310.528</td></tr><tr><td>Phải thu các bên liên quan (TM số 33)</td><td>550.000.000</td><td>-</td></tr></table>
+
+(i) Khoản này thể hiện phần đầu tư vào HĐHTKD với Công ty Cổ phần Thế kỷ 21 trong năm 2015 để xây dựng Khu dân cư 9B7 trên quy mô diện tích 5,9 hecta tại khu đô thị Nam Sài Gòn. Theo HĐHTKD, công ty có sở hữu là 60%. Vào ngày 31 tháng 12 năm 2017, dự án này đang trong giai đoạn hoàn thiện và bàn giao.
+
+24
+
+===== PAGE 27 =====
+Công ty Cổ phần Đầu tư Nam Long
+
+B09-DN/HN
+
+THUYÊT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+
+vào ngày 31 tháng 12 năm 2017 và cho năm tài chính kết thúc cùng ngày
+
+10. HÀNG TÔN KHO
+
+<table><tr><td></td><td>Số cuối năm</td><td>VND Số đầu năm</td></tr><tr><td>Bất động sản dở dang (i)</td><td>3.872.952.698.924</td><td>3.687.742.046.329</td></tr><tr><td>Dịch vụ tổng thầu (ii)</td><td>10.818.336.538</td><td>10.004.027.344</td></tr><tr><td>Nguyên liệu, vật liệu tồn kho</td><td>235.856.517</td><td>768.175.161</td></tr><tr><td>Thành phẩm</td><td>-</td><td>1.687.790.909</td></tr><tr><td>TỔNG CỘNG</td><td>3.884.006.891.979</td><td>3.700.202.039.743</td></tr><tr><td colspan="3">(i) Bất động sản dở dang:</td></tr><tr><td>Dự án Long An (*) (**)</td><td>1.480.845.916.553</td><td>1.410.132.529.019</td></tr><tr><td>Dự án Hoàng Nam (*) (**)</td><td>708.214.359.402</td><td>34.065.035.864</td></tr><tr><td>Dự án Phú Hữu</td><td>672.413.436.691</td><td>515.253.842.875</td></tr><tr><td>Dự án Fuji</td><td>270.846.102.154</td><td>693.986.174.349</td></tr><tr><td>Dự án Nguyên Sơn</td><td>185.707.541.848</td><td>581.124.624.485</td></tr><tr><td>Dự án Areco</td><td>173.402.496.527</td><td>-</td></tr><tr><td>Dự án Nam Long – Hồng Phát</td><td>87.767.753.797</td><td>160.568.491.597</td></tr><tr><td>Dự án Tân Thuận Đông</td><td>79.287.084.075</td><td>66.297.696.252</td></tr><tr><td>Dự án Phước Long B - Mở rộng</td><td>74.029.045.476</td><td>72.484.697.580</td></tr><tr><td>Dự án Thảo Nguyên</td><td>48.142.041.859</td><td>48.142.041.859</td></tr><tr><td>Dự án Cần Thơ</td><td>41.525.135.447</td><td>48.647.599.538</td></tr><tr><td>Dự án Bình Dương (&quot;Dự án Ehome 4&quot;)</td><td>13.621.926.254</td><td>6.677.696.256</td></tr><tr><td>Dự án Phước Long B - Cao tầng</td><td>2.130.493.914</td><td>13.050.022.077</td></tr><tr><td>Dự án Ehome Tây Sài Gòn(&quot;Dự án Ehome 3&quot;)</td><td>-</td><td>8.867.612.807</td></tr><tr><td>Khác</td><td>35.019.364.927</td><td>28.443.981.771</td></tr><tr><td colspan="3">(ii) Dịch vụ tổng thầu:</td></tr><tr><td>Dự án Camelia – Nam Sài Gòn</td><td>10.818.336.538</td><td>10.004.027.344</td></tr></table>
+
+(*) Các quyền sử dụng đất sau đây được dùng thế chấp cho các khoản vay của Nhóm Công ty (TM số 22):
+
+- Quyền sử dụng đất tại Xã An Thạnh, Huyện Bến Lức, Tĩnh Long An;
+
+- Quyền sử dụng đất tại Phường An Lạc, Quận Bình Tân, Thành phố Hồ Chí Minh.
+
+(**) Trong năm, Nhóm Công ty đã vốn hóa chi phí lãi vay với tổng số tiền là 74.200.742.123 VND vào giá trị bất động sản dở dang (cho năm tài chính kết thúc ngày 31 tháng 12 năm 2016: 68.367.854.650 VND).
+
+11. CHI PHÍ TRÀ TRƯỚC
+
+<table><tr><td rowspan="2"></td><td colspan="2">VND</td></tr><tr><td>Số cuối năm</td><td>Số đầu năm</td></tr><tr><td colspan="3">Ngắn hạn</td></tr><tr><td>Chi phí hoa hồng môi giới</td><td>81.398.301.995</td><td>46.037.828.520</td></tr><tr><td>Chi phí hoạt động</td><td>10.526.654.269</td><td>2.960.621.998</td></tr><tr><td>Công cụ, dụng cụ</td><td>7.449.389.729</td><td>3.987.948.691</td></tr><tr><td>Khác</td><td>2.032.195.733</td><td>474.699.255</td></tr><tr><td></td><td>101.406.541.726</td><td>53.461.098.464</td></tr><tr><td colspan="3">Dài hạn</td></tr><tr><td>Công cụ, dụng cụ</td><td>2.568.726.010</td><td>2.069.793.214</td></tr><tr><td>Khác</td><td>285.250.149</td><td>130.339.480</td></tr><tr><td></td><td>2.853.976.159</td><td>2.200.132.694</td></tr><tr><td>TỔNG CỘNG</td><td>104.260.517.885</td><td>55.661.231.158</td></tr></table>
+
+25
+
+===== PAGE 28 =====
+Công ty Cổ phần Đầu tư Nam Long
+
+THUYÊT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+vào ngày 31 tháng 12 năm 2017 và cho năm tài chính kết thúc cùng ngày
+
+12. TÀI SẢN CÓ ĐỊNH HỮU HÌNH
+
+B09-DN/HN
+
+<table><tr><td></td><td>Nhà cửa,vật kiến trúc</td><td>Máy mócvà thiết bị</td><td>Phương tiệnvận chuyển</td><td>Thiết bịvăn phòng</td><td>Tài sản khác</td><td>VNDTổng cộng</td></tr><tr><td colspan="7">Nguyên giá:</td></tr><tr><td>Số đầu năm</td><td>50.779.575.483</td><td>11.703.266.072</td><td>6.980.703.283</td><td>5.396.138.334</td><td>1.139.333.846</td><td>75.999.017.018</td></tr><tr><td>Mua mới</td><td>-</td><td>2.093.526.364</td><td>1.983.609.091</td><td>611.885.454</td><td>333.000.000</td><td>5.022.020.909</td></tr><tr><td>Chuyển từ bất động sản đầu tư</td><td>3.299.515.640</td><td>-</td><td>-</td><td>-</td><td>-</td><td>3.299.515.640</td></tr><tr><td>Thanh lý, nhượng bán</td><td>-</td><td>(666.666.667)</td><td>(318.836.190)</td><td>-</td><td>-</td><td>(985.502.857)</td></tr><tr><td>Số cuối năm</td><td>54.079.091.123</td><td>13.130.125.769</td><td>8.645.476.184</td><td>6.008.023.788</td><td>1.472.333.846</td><td>83.335.050.710</td></tr><tr><td>Trong đó:Đã khấu hao hết</td><td>3.738.339.282</td><td>3.115.209.990</td><td>1.705.921.744</td><td>2.427.567.201</td><td>1.292.036.145</td><td>12.279.074.362</td></tr><tr><td colspan="7">Giá trị khấu hao lũy kế:</td></tr><tr><td>Số đầu năm</td><td>(18.188.960.280)</td><td>(6.826.950.225)</td><td>(4.809.886.452)</td><td>(3.089.751.578)</td><td>(988.533.846)</td><td>(33.904.082.381)</td></tr><tr><td>Khấu hao trong năm</td><td>(2.005.950.888)</td><td>(1.294.500.544)</td><td>(1.499.564.309)</td><td>(561.150.284)</td><td>(65.840.278)</td><td>(5.427.006.303)</td></tr><tr><td>Chuyển từ bất động sản đầu tư</td><td>(1.175.007.939)</td><td>-</td><td>-</td><td>-</td><td>-</td><td>(1.175.007.939)</td></tr><tr><td>Thanh lý, nhượng bán</td><td>-</td><td>666.666.667</td><td>58.600.905</td><td>-</td><td>-</td><td>725.267.572</td></tr><tr><td>Số cuối năm</td><td>(21.369.919.107)</td><td>(7.454.784.102)</td><td>(6.250.849.856)</td><td>(3.650.901.862)</td><td>(1.054.374.124)</td><td>(39.780.829.051)</td></tr><tr><td colspan="7">Giá trị còn lại:</td></tr><tr><td>Số đầu năm</td><td>32.590.615.203</td><td>4.876.315.847</td><td>2.170.816.831</td><td>2.306.386.756</td><td>150.800.000</td><td>42.094.934.637</td></tr><tr><td>Số cuối năm</td><td>32.709.172.016</td><td>5.675.341.667</td><td>2.394.626.328</td><td>2.357.121.926</td><td>417.959.722</td><td>43.554.221.659</td></tr></table>
+
+26
+
+===== PAGE 29 =====
+Công ty Cổ phần Đầu tư Nam Long
+
+B09-DN/HN
+
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+
+vào ngày 31 tháng 12 năm 2017 và cho năm tài chính kết thúc cùng ngày
+
+13. TÀI SẢN CÓ ĐỊNH VỐ HÌNH
+
+<table><tr><td></td><td>Quyềnsử dụng đất</td><td>Phần mềmvi tính</td><td>VNDTổng cộng</td></tr><tr><td colspan="4">Nguyên giá:</td></tr><tr><td>Số đầu năm</td><td>13.128.104.718</td><td>4.799.491.519</td><td>17.927.596.237</td></tr><tr><td>Mua mới</td><td>-</td><td>674.488.636</td><td>674.488.636</td></tr><tr><td>Chuyển từ Bất động sản đầu tư</td><td>745.167.808</td><td>-</td><td>745.167.808</td></tr><tr><td>Kết chuyển vào hàng tồn kho</td><td>(540.000.000)</td><td>-</td><td>(540.000.000)</td></tr><tr><td>Số cuối năm</td><td>13.333.272.526</td><td>5.473.980.155</td><td>18.807.252.681</td></tr><tr><td>Trong đó:Dã khấu hao hết</td><td>-</td><td>889.165.600</td><td>889.165.600</td></tr><tr><td colspan="4">Giá trị hao mòn lũy kế:</td></tr><tr><td>Số đầu năm</td><td>(1.459.217.583)</td><td>(3.389.962.964)</td><td>(4.849.180.547)</td></tr><tr><td>Hao mòn trong năm</td><td>(209.951.372)</td><td>(716.385.101)</td><td>(926.336.473)</td></tr><tr><td>Chuyển từ Bất động sản đầu tư</td><td>(128.100.531)</td><td>-</td><td>(128.100.531)</td></tr><tr><td>Số cuối năm</td><td>(1.797.269.486)</td><td>(4.106.348.065)</td><td>(5.903.617.551)</td></tr><tr><td colspan="4">Giá trị còn lại:</td></tr><tr><td>Số đầu năm</td><td>11.668.887.135</td><td>1.409.528.555</td><td>13.078.415.690</td></tr><tr><td>Số cuối năm</td><td>11.536.003.040</td><td>1.367.632.090</td><td>12.903.635.130</td></tr></table>
+
+27
+
+===== PAGE 30 =====
+Công ty Cổ phần Đầu tư Nam Long
+
+B09-DN/HN
+
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+
+vào ngày 31 tháng 12 năm 2017 và cho năm tài chính kết thúc cùng ngày
+
+14. BẮT ĐỘNG SẢN ĐẦU TƯ
+
+<table><tr><td></td><td>Quyền sử dụng đất</td><td>Nhà cửa,vật kiến trúc</td><td>VNDTổng cộng</td></tr><tr><td colspan="4">Nguyên giá:</td></tr><tr><td>Số đầu năm</td><td>9.418.240.612</td><td>44.804.669.695</td><td>54.222.910.307</td></tr><tr><td>Mua mới</td><td>-</td><td>77.156.400</td><td>77.156.400</td></tr><tr><td>Kết chuyển vào tài sản cố định</td><td>(745.167.808)</td><td>(3.299.515.640)</td><td>(4.044.683.448)</td></tr><tr><td>Kết chuyển vào hàng tồn kho</td><td>-</td><td>(1.834.521.591)</td><td>(1.834.521.591)</td></tr><tr><td>Số cuối năm</td><td>8.673.072.804</td><td>39.747.788.864</td><td>48.420.861.668</td></tr><tr><td>Trong đó:Dã khấu hao hết</td><td>-</td><td>816.491.827</td><td>816.491.827</td></tr><tr><td colspan="4">Giá trị hao mòn lũy kế:</td></tr><tr><td>Số đầu năm</td><td>(8.479.085.367)</td><td>(6.407.947.668)</td><td>(14.887.033.035)</td></tr><tr><td>Tăng trong năm</td><td>(166.233.145)</td><td>(2.050.401.845)</td><td>(2.216.634.990)</td></tr><tr><td>Kết chuyển vào tài sản cố định</td><td>128.100.531</td><td>1.175.007.939</td><td>1.303.108.470</td></tr><tr><td>Kết chuyển vào hàng tồn kho</td><td>-</td><td>220.142.592</td><td>220.142.592</td></tr><tr><td>Số cuối năm</td><td>(8.517.217.981)</td><td>(7.063.198.982)</td><td>(15.580.416.963)</td></tr><tr><td colspan="4">Giá trị còn lại:</td></tr><tr><td>Số đầu năm</td><td>939.155.245</td><td>38.396.722.027</td><td>39.335.877.272</td></tr><tr><td>Số cuối năm</td><td>155.854.823</td><td>32.684.589.882</td><td>32.840.444.705</td></tr></table>
+
+Thuyết minh bổ sung:
+
+Các khoản doanh thu và chi phí hoạt động liên quan đến bất động sản đầu tư được trình bày như sau:
+
+<table><tr><td></td><td>Năm nay</td><td>VNDNăm trước</td></tr><tr><td>Thu nhập cho thuê bất động sản đầu tư</td><td>14.925.009.199</td><td>20.377.823.683</td></tr><tr><td>Chi phí hoạt động kinh doanh trực tiếp của các bất động sản đầu tư tạo thu nhập cho thuê trong kỳ</td><td>(8.406.346.165)</td><td>(9.450.300.155)</td></tr></table>
+
+Các khoản tiền thuê thu được hàng năm trong tương lai được trình bày trong TM số 35.
+
+Nhóm Công ty vẫn chưa xem xét và xác định chính thức giá trị hợp lý của các bất động sản đầu tư vào ngày 31 tháng 12 năm 2017. Tuy nhiên, dựa trên tỷ lệ cho thuê của các tài sản này và giá trị thị trường của đất, Ban Tổng Giám đốc đánh giá rằng giá trị thị trường của các bất động sản đầu tư này đang cao hơn giá trị ghi số vào ngày kết thúc ký kế toán.
+
+15. ĐẦU TƯ TÀI CHÍNH DÀI HẠN
+
+<table><tr><td></td><td>Số cuối năm</td><td>VND Số đầu năm</td></tr><tr><td>Đầu tư vào công ty liên kết và công ty liên doanh (TM số 15.1)</td><td>749.529.554.094</td><td>24.797.751.856</td></tr><tr><td>Đầu tư dài hạn khác (TM số 15.2)</td><td>5.942.300.000</td><td>5.942.300.000</td></tr><tr><td>Dự phòng đầu tư tài chính dài hạn</td><td>-</td><td>(219.661.340)</td></tr><tr><td>GIÁ TRỊ THUẢN</td><td>755.471.854.094</td><td>30.520.390.516</td></tr></table>
+
+28
+
+===== PAGE 31 =====
+Công ty Cổ phần Đầu tư Nam Long
+
+B09-DN/HN
+
+THUYẾT MINH BÁQ CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+
+vào ngày 31 tháng 12 năm 2017 và cho năm tài chính kết thúc cùng ngày
+
+15. ĐẦU TƯ TÀI CHÍNH DÀI HẠN (tiếp theo)
+
+15.1 Đầu tư vào công ty liên kết và công ty liên doanh
+
+<table><tr><td rowspan="2">Tên công ty</td><td rowspan="2">Lĩnh vực kinh doanh</td><td colspan="2">Số cuối năm</td><td colspan="2">Số đầu năm</td></tr><tr><td>Tỷ lệ sở hữu %</td><td>Giá mua VND</td><td>Tỷ lệ sở hữu %</td><td>Giá mua VND</td></tr><tr><td>Công ty Cổ phần NNH Mizuki (i)</td><td>Bất động sản</td><td>50</td><td>750.000.000.000</td><td>-</td><td>-</td></tr><tr><td>Công ty TNHH Okamura Tokyo</td><td>Bất động sản</td><td>30,59</td><td>834.000.000</td><td>30,59</td><td>834.000.000</td></tr><tr><td>Công ty TNHH Đầu tư Gamuda - Nam Long</td><td>Bất động sản</td><td>-</td><td>-</td><td>30</td><td>22.400.000.000</td></tr><tr><td>TỔNG CỘNG</td><td></td><td></td><td>750.834.000.000</td><td></td><td>23.234.000.000</td></tr></table>
+
+(i) Hoạt động chính của Công ty Cổ phần NNH Mizuki là phát triển Khu đô thị Mizuki Park trên quy mô diện tích 26 hecta tại khu đô thị Nam Sài Gòn, Phường Bình Hưng, Huyện Bình Chánh, Thành phố Hồ Chí Minh.
+
+Chi tiết giá trị khoản đầu tư vào công ty liên doanh và liên kết này như sau:
+
+<table><tr><td></td><td>Công ty TNHH Okamura Tokyo</td><td>Gamuda - Nam Long</td><td>NNH Mizuki</td><td>VND Tổng</td></tr><tr><td colspan="5">Giá trị đầu tư:</td></tr><tr><td>Số đầu năm</td><td>834.000.000</td><td>22.400.000.000</td><td>-</td><td>23.234.000.000</td></tr><tr><td>Tăng trong năm</td><td>-</td><td>-</td><td>750.000.000.000</td><td>750.000.000.000</td></tr><tr><td>Thanh lý</td><td>-</td><td>(22.400.000.000)</td><td>-</td><td>(22.400.000.000)</td></tr><tr><td>Số cuối năm</td><td>834.000.000</td><td>-</td><td>750.000.000.000</td><td>750.834.000.000</td></tr><tr><td colspan="5">Phần lũy kế lợi nhuận (lỗ) sau khi mua:</td></tr><tr><td>Số đầu năm</td><td>(465.284.009)</td><td>2.029.035.865</td><td>-</td><td>1.563.751.856</td></tr><tr><td>Phần lãi (lỗ) từ công ty liên kết, liên doanh</td><td>298.776.538</td><td>53.933.449</td><td>(1.137.938.435)</td><td>(785.228.448)</td></tr><tr><td>Cổ tức được chia</td><td>-</td><td>(4.569.150.584)</td><td>-</td><td>(4.569.150.584)</td></tr><tr><td>Lãi từ thanh lý</td><td>-</td><td>2.486.181.270</td><td>-</td><td>2.486.181.270</td></tr><tr><td>Số cuối năm</td><td>(166.507.471)</td><td>-</td><td>(1.137.938.435)</td><td>(1.304.445.906)</td></tr><tr><td colspan="5">Giá trị ghi sổ:</td></tr><tr><td>Số đầu năm</td><td>368.715.991</td><td>24.429.035.865</td><td>-</td><td>24.797.751.856</td></tr><tr><td>Số cuối năm</td><td>667.492.529</td><td>-</td><td>748.862.061.565</td><td>749.529.554.094</td></tr></table>
+
+29
+
+===== PAGE 32 =====
+Công ty Cổ phần Đầu tư Nam Long
+
+B09-DN/HN
+
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+
+vào ngày 31 tháng 12 năm 2017 và cho năm tài chính kết thúc cùng ngày
+
+15. ĐẦU TƯ TÀI CHÍNH DÀI HẠN (tiếp theo)
+
+15.2 Các khoản đầu tư tài chính khác
+
+<table><tr><td rowspan="2"></td><td colspan="3">Tại ngày 31 tháng 12 năm 2017 và 2016</td></tr><tr><td>Số lượng cổ phiếu</td><td>Tỷ lệ sở hữu (%)</td><td>Giá mua VND</td></tr><tr><td>Công ty Cổ phần Phát triển Nhà Bắc Trung Nam</td><td>353.330</td><td>7,00</td><td>3.533.300.000</td></tr><tr><td>Công ty Đầu tư Tài chính Hồng Phát</td><td>150.000</td><td>1,25</td><td>2.409.000.000</td></tr><tr><td>TỔNG CỘNG</td><td></td><td></td><td>5.942.300.000</td></tr></table>
+
+16. LỘI THẾ THƯƠNG MẠI
+
+VND
+
+Lợi thế thương mại phát
+
+sinh từ khoản đầu tư vào
+
+Nguyên Sơn
+
+Nguyên giá:
+
+Số đầu năm và số cuối năm 32.906.583.473
+
+Giá trị hao mòn:
+
+Số đầu năm (19.069.337.233)
+
+Khấu trừ trong năm (5.031.725.905)
+
+Số cuối năm (24.101.063.138)
+
+Giá trị còn lại:
+
+Số đầu năm 13.837.246.240
+
+Số cuối năm 8.805.520.335
+
+17. PHẢI TRẢ NGƯỜI BÁN NGẮN HẠN
+
+<table><tr><td></td><td>Số cuối năm</td><td>VND Số đầu năm</td></tr><tr><td colspan="3">Phải trả cho người bán khác:</td></tr><tr><td>- Công ty Cổ phần Thương mại và Du lịch Bình Dương</td><td>70.000.000.000</td><td>-</td></tr><tr><td>- Công ty TNHH Hoàng Nam</td><td>39.632.500.000</td><td>-</td></tr><tr><td>- Công ty Cổ phần 6D</td><td>30.880.311.020</td><td>25.517.601.720</td></tr><tr><td>- Công ty Cổ phần Phan Vũ</td><td>22.794.549.217</td><td>-</td></tr><tr><td>- Công ty CP QH Plus</td><td>3.793.193.267</td><td>10.405.912.933</td></tr><tr><td>- Công ty TNHH Việt Nam Uni Eastern</td><td>2.180.452.499</td><td>12.523.635.523</td></tr><tr><td>- Công ty TNHH Thương mại Dịch vụ Hưng Quốc Thịnh</td><td>364.833.650</td><td>51.254.292.144</td></tr><tr><td>- Phải trả cho các nhà thầu phụ khác</td><td>121.836.587.139</td><td>99.774.566.440</td></tr><tr><td>TỔNG CỘNG</td><td>291.482.426.792</td><td>199.476.008.760</td></tr></table>
+
+30
+
+===== PAGE 33 =====
+Công ty Cổ phần Đầu tư Nam Long
+
+B09-DN/HN
+
+THUYÊT MINH BẢO CẢO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+
+vào ngày 31 tháng 12 năm 2017 và cho năm tài chính kết thúc cùng ngày
+
+18. NGƯỜI MUA TRÀ TIỀN TRƯỚC
+
+Đây là các khoản ứng trước từ khách hàng có nhu cầu mua căn hộ, nhà phố, biệt thự và đất nhưng chưa nhận bàn giao tại ngày kết thúc kỳ kế toán năm.
+
+19. THUẾ VÀ CÁC KHOÀN PHẢI NỘP NHÀ NƯỚC
+
+<table><tr><td></td><td>Số đầu năm</td><td>Tăng trong năm</td><td>Giảm trong năm</td><td>VND Số cuối năm</td></tr><tr><td>Thuế thu nhập doanh nghiệp</td><td>85.937.895.301</td><td>338.630.474.712</td><td>(238.256.382.482)</td><td>186.311.987.531</td></tr><tr><td>Thuế giá trị gia tăng</td><td>35.057.866.819</td><td>246.084.516.381</td><td>(224.556.800.693)</td><td>56.585.582.507</td></tr><tr><td>Tiền sử dụng đất</td><td>45.371.220.001</td><td>54.227.191.947</td><td>(99.598.411.948)</td><td>-</td></tr><tr><td>Các loại thuế khác</td><td>-</td><td>39.579.967.429</td><td>(34.054.268.057)</td><td>5.525.699.372</td></tr><tr><td>TỔNG CỘNG</td><td>166.366.982.121</td><td>678.522.150.469</td><td>(596.465.863.180)</td><td>248.423.269.410</td></tr></table>
+
+20. CHI PHÍ PHẢI TRẢ NGẮN HẠN
+
+<table><tr><td></td><td>Số cuối năm</td><td>VND Số đầu năm</td></tr><tr><td>Trích trước chi phí hoàn thành dự án</td><td>569.448.527.064</td><td>494.846.884.624</td></tr><tr><td>Chi phí lãi vay phải trả</td><td>22.936.423.760</td><td>36.325.426.027</td></tr><tr><td>Các khoản chi phí hoạt động khác</td><td>73.216.860.238</td><td>54.143.508.111</td></tr><tr><td>TỔNG CỘNG</td><td>665.601.811.062</td><td>585.315.818.762</td></tr></table>
+
+21. PHẢI TRẢ NGẮN HẠN KHÁC
+
+<table><tr><td></td><td>Số cuối năm</td><td>VND Số đầu năm</td></tr><tr><td>Khoản phải trả kinh phí bảo trì duy tu bảo dưỡng</td><td>105.242.355.855</td><td>72.544.804.572</td></tr><tr><td>Đặt cọc của khách hàng</td><td>68.942.494.930</td><td>2.329.729.000</td></tr><tr><td>Phải trả liên quan đến các dự án dở dang</td><td>30.824.354.511</td><td>40.874.681.511</td></tr><tr><td>Phải trả vốn góp cho cổ đông</td><td>39.427.250.000</td><td>-</td></tr><tr><td>Phải trả hợp đồng hợp tác kinh doanh (&quot;HĐHTKD&quot;)</td><td>29.314.537.138</td><td>7.764.901.664</td></tr><tr><td>Cổ tức phải trả cổ đông không kiểm soát</td><td>1.556.124.131</td><td>1.846.051.299</td></tr><tr><td>Ký quỹ đã nhận</td><td>895.135.000</td><td>755.635.000</td></tr><tr><td>Khác</td><td>8.581.293.668</td><td>20.600.972.480</td></tr><tr><td>TỔNG CỘNG</td><td>284.783.545.233</td><td>146.716.775.526</td></tr></table>
+
+31
+
+===== PAGE 34 =====
+Công ty Cổ phần Đầu tư Nam Long
+
+B09-DN/HN
+
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+
+vào ngày 31 tháng 12 năm 2017 và cho năm tài chính kết thúc cùng ngày
+
+22. VAY VÀ NỘ
+
+<table><tr><td></td><td>Số cuối năm</td><td>VND Số đầu năm</td></tr><tr><td colspan="3">Vay ngắn hạn</td></tr><tr><td>Vay ngắn hạn từ cá nhân (TM số 22.1)</td><td>2.800.000.000</td><td>69.894.565.335</td></tr><tr><td>Vay ngắn hạn từ ngân hàng (TM số 22.1)</td><td>113.644.486.982</td><td>82.126.096.080</td></tr><tr><td>Vay dài hạn đến hạn trả (TM số 22.2)</td><td>99.522.177.000</td><td>101.943.358.000</td></tr><tr><td>Trái phiếu phát hành đến hạn trả (TM số 22.3)</td><td>-</td><td>99.690.509.259</td></tr><tr><td></td><td>215.966.663.982</td><td>353.654.528.674</td></tr><tr><td colspan="3">Vay dài hạn</td></tr><tr><td>Vay dài hạn từ ngân hàng (TM số 22.2)</td><td>228.548.210.000</td><td>349.613.387.000</td></tr><tr><td>TỔNG CỘNG</td><td>444.514.873.982</td><td>703.267.915.674</td></tr></table>
+
+32
+
+===== PAGE 35 =====
+Công ty Cổ phần Đầu tư Nam Long
+
+THUYẾT MINH BẢO CẢO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+vào ngày 31 tháng 12 năm 2017 và cho năm tài chính kết thúc cùng ngày
+
+22. VAY VÀ NỘ (tiếp theo)
+
+22.1 Vay ngắn hạn
+
+Chi tiết các khoản vay ngắn hạn như sau:
+
+<table><tr><td></td><td>Số cuối nămVND</td><td>Ngày đáo hạn</td><td>Mục đích vay</td><td>Lãi suất%/năm</td><td>Hình thức đảm bảo</td></tr><tr><td>Vay các cá nhân</td><td>2.800.000.000</td><td>Ngày 14 tháng 4năm 2018</td><td>Hỗ trợ nhu cầuvốn lưu động</td><td>10,5</td><td>Tín chấp</td></tr><tr><td colspan="6">Vay ngân hàng</td></tr><tr><td>Ngân hàng Thương mại Cổ phần Ngoại thương Việt Nam</td><td>55.763.336.107</td><td>Ngày 25 tháng 4 năm2018</td><td></td><td>7,8</td><td>Quyền sử dụng đất và các tài sản trênđất tại xã An Thạnh, Huyện Bến Lức,Tính Long An</td></tr><tr><td>Ngân hàng Thương mại Cổ phần Phương Đông –Chi nhánh Tân Thuận</td><td>44.836.439.795</td><td>Từ ngày 24 tháng 5năm 2018 đến ngày 21tháng 9 năm 2018</td><td>Hỗ trợ nhu cầuvốn lưu động</td><td>7,5</td><td>Quyền sử dụng đất tại bản đồ số 5, xãAn Thạnh, Huyện Bến Lức, Tính LongAn</td></tr><tr><td>Ngân hàng Nông Nghiệp và Phát Triển Nông Thôn Việt Nam– Chi nhánh 8</td><td>13.044.711.080</td><td>Ngày 20 tháng 9năm 2018</td><td></td><td>7,5</td><td>Quyền sử dụng đất và các tài sản trênđất tại xã An Thạnh, Huyện Bến Lức,Tính Long An</td></tr><tr><td>TỔNG CỘNG</td><td>113.644.486.982</td><td></td><td></td><td></td><td></td></tr></table>
+
+B09-DN/HN
+
+33
+
+===== PAGE 36 =====
+Công ty Cổ phần Đầu tư Nam Long
+
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẮT (tiếp theo)
+vào ngày 31 tháng 12 năm 2017 và cho năm tài chính kết thúc cùng ngày
+
+22. VAY VÀ NỘ (tiếp theo)
+
+22.2 Vay dài hạn từ ngân hàng
+
+Chi tiết các khoản vay dài hạn từ ngân hàng như sau:
+
+<table><tr><td>Ngân hàng</td><td>Số cuối nămVND</td><td>Ngày đáo hạn</td><td>Mục đích vay</td><td>Lãi suất%/năm</td><td>Hình thức đảm bảo</td></tr><tr><td colspan="6">Ngân hàng Thương mại Cổ phần Phương Đông</td></tr><tr><td>- Khoản vay 1</td><td>42.360.745.000</td><td>Ngày 6 tháng 5năm 2018</td><td>Hỗ trợ nhu cầuvốn lưu động</td><td>10,2</td><td>Quyền sử dụng đất diện tích \( 1.064.307 \text{ m}^{2} \) và tài sản gắn liền với đất hình thành trong tương laithuộc Dự án Long An VCD</td></tr><tr><td>- Khoản vay 2</td><td>285.709.642.000</td><td>Từ ngày 12 tháng 1năm 2018 đến ngày 12tháng 10 năm 2022</td><td>Mua dự ánHoàng Nam</td><td>9,9</td><td>Thế chấp quyền tài sản dự án Hoàng nam</td></tr><tr><td>TỔNG CỘNG</td><td>328.070.387.000</td><td></td><td></td><td></td><td></td></tr><tr><td>Trong đó:- Vay dài hạnđến hạn trả- Vay dài hạn</td><td>99.522.177.000228.548.210.000</td><td></td><td></td><td></td><td></td></tr></table>
+
+B09-DN/HN
+
+34
+
+===== PAGE 37 =====
+Công ty Cổ phần Đầu tư Nam Long
+
+B09-DN/HN
+
+THUYẾT MINH BẢO CẢO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+
+vào ngày 31 tháng 12 năm 2017 và cho năm tài chính kết thúc cùng ngày
+
+22. VAY VÀ NỘ (tiếp theo)
+
+22.3 Tình hình tăng giảm các khoản vay và trái phiếu trong kỳ
+
+<table><tr><td></td><td>Vay</td><td>Trái phiếu</td><td>VNDTổng cộng</td></tr><tr><td>Số đầu năm</td><td>603.577.406.415</td><td>99.690.509.259</td><td>703.267.915.674</td></tr><tr><td>Tiền thu từ đi vay</td><td>217.005.924.465</td><td>-</td><td>217.005.924.465</td></tr><tr><td>Tiền chi trả nợ gốc</td><td>(376.068.456.898)</td><td>(100.000.000.000)</td><td>(476.068.456.898)</td></tr><tr><td>Chi phí phát hành trái phiếu</td><td>-</td><td>309.490.741</td><td>309.490.741</td></tr><tr><td>Số cuối năm</td><td>444.514.873.982</td><td>-</td><td>444.514.873.982</td></tr></table>
+
+23. TRÁI PHIÉU CHUYÊN ĐỒI
+
+Vào ngày 15 tháng 4 năm 2016, Nhóm Công ty đã phát hành trái phiếu chuyển đổi trị giá 500.000.000.000 VND với mệnh giá là 1.000.000.000 VND/trái phiếu cho cho Ibeworth Pte. Ltd, một công ty do Keppel Land Limited nằm giữ 100% vốn chủ sở hữu. Trái phiếu sẽ được chuyển đổi sang cổ phiếu theo quyết định của trái chủ khi đến hạn và được hưởng lãi kể từ ngày mua trái phiếu với mức lãi suất bằng 7%/năm. Sẽ không có bất ký khoản lãi phát sinh kể từ Ngày thanh toán lãi ngay trước Ngày chuyển đổi liên quan nào sẽ được thanh toán đối với các trái phiếu đã được chuyển đổi tại giá chuyển đổi là 23.500 VND/cổ phiếu và sẽ được điều chỉnh bởi ảnh hưởng của các sự kiện pha loãng, nếu có.
+
+Cấu phần nợ và cấu phần vốn của trái phiếu chuyển đổi được trình bày như sau:
+
+<table><tr><td></td><td>VNDNgày 31 tháng 12năm 2017</td></tr><tr><td>Giá trị trái phiếu chuyển đổi</td><td>500.000.000.000</td></tr><tr><td>Cơ cấu vốn chủ sở hữu (TM số 26.1)</td><td>(40.503.427.830)</td></tr><tr><td>Cơ cấu nợ gốc ghi nhận ban đầu</td><td>459.496.572.170</td></tr><tr><td>Cộng: Số phân bổ lũy kế</td><td>11.849.354.056</td></tr><tr><td>Cơ cấu nợ gốc tại ngày 31 tháng 12 năm 2017</td><td>471.345.926.226</td></tr></table>
+
+24. DOANH THU CHU'A THỰC HIỆN DÀI HẠN
+
+Đây là phần giá trị của khoản lợi nhuận mà Nhóm Công ty nhận được từ việc chuyển nhượng một phần dự án Nguyên Sơn cho Công ty Cổ phần NNH Mizuki, theo tỷ lệ sở hữu của Nhóm Công ty trong liên doanh này.
+
+25. DỰ PHÒNG PHẢI TRẢ
+
+Số dư này thể hiện khoản dự phòng bảo hành công trình xây dựng đối với các công trình, hạng mục công trình đã hoàn thành và bàn giao tại ngày báo cáo.
+
+35
+
+===== PAGE 38 =====
+Công ty Cổ phần Đầu tư Nam Long
+
+THUYẾT MINH BẢO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+
+vào ngày 31 tháng 12 năm 2017 và cho năm tài chính kết thúc cùng ngày
+
+26. VỐN CHỦ SỞ HỮU
+
+26.1 Tỉnh hình tăng giảm nguồn vốn chủ sở hữu
+
+B09-DN/HN
+
+<table><tr><td></td><td>Vốn cổ phần</td><td>Thặng dư vốn cổ phần</td><td>Cổ phiếu quỹ</td><td>Quỹ đầu tư phát triển</td><td>Quỹ khác thuộc Lợi nhuận sau thuế chưa phân phối</td><td>Quyền chọn chuyển đổi trái phiếu</td><td>Tổng cộng</td></tr><tr><td colspan="8">Năm trước</td></tr><tr><td>Số đầu năm</td><td>1.415.721.570.000</td><td>492.337.147.061</td><td>(60.464.200.000)</td><td>10.929.726.999</td><td>1.115.488.341</td><td>358.306.808.042</td><td>- 2.217.946.540.443</td></tr><tr><td>Phát hành cổ phiếu</td><td>5.423.530.000</td><td>(176.000.000)</td><td>-</td><td>-</td><td>-</td><td>-</td><td>5.247.530.000</td></tr><tr><td>Tăng do phát hành trái phiếu chuyển đổi</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>40.503.427.830</td></tr><tr><td>Lợi nhuận thuần trong năm</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>345.217.739.625</td><td>- 345.217.739.625</td></tr><tr><td>Cổ tức bằng tiền công bố</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>(97.655.580.121)</td><td>- (97.655.580.121)</td></tr><tr><td>Phân phối lợi nhuận</td><td>-</td><td>-</td><td>-</td><td>-</td><td>3.512.281.041</td><td>(21.984.106.050)</td><td>- (18.471.825.009)</td></tr><tr><td>Sử dụng quỹ</td><td>-</td><td>-</td><td>-</td><td>-</td><td>(3.546.570.605)</td><td>-</td><td>(3.546.570.605)</td></tr><tr><td>Giảm khác</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>(5.481.958.731)</td><td>- (5.481.958.731)</td></tr><tr><td>Số cuối năm</td><td>1.421.145.100.000</td><td>492.161.147.061</td><td>(60.464.200.000)</td><td>10.929.726.999</td><td>1.081.198.777</td><td>578.402.902.765</td><td>40.503.427.830</td></tr><tr><td colspan="8">Năm nay</td></tr><tr><td>Số đầu năm</td><td>1.421.145.100.000</td><td>492.161.147.061</td><td>(60.464.200.000)</td><td>10.929.726.999</td><td>1.081.198.777</td><td>578.402.902.765</td><td>40.503.427.830</td></tr><tr><td>Phát hành cổ phiếu (i)</td><td>9.581.600.000</td><td>(110.000.000)</td><td>-</td><td>-</td><td>-</td><td>-</td><td>- 9.471.600.000</td></tr><tr><td>Cổ tức bằng cổ phiếu công bố (i)</td><td>141.537.390.000</td><td>-</td><td>-</td><td>-</td><td>-</td><td>(141.537.390.000)</td><td>-</td></tr><tr><td>Lợi nhuận thuần trong năm</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>535.017.043.345</td><td>- 535.017.043.345</td></tr><tr><td>Cổ tức bằng tiền công bố (ii)</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>(67.534.715.430)</td><td>- (67.534.715.430)</td></tr><tr><td>Phân phối lợi nhuận</td><td>-</td><td>-</td><td>-</td><td>-</td><td>3.913.667.677</td><td>(40.032.548.968)</td><td>- (36.118.881.291)</td></tr><tr><td>Sử dụng quỹ</td><td>-</td><td>-</td><td>-</td><td>-</td><td>(3.906.107.336)</td><td>-</td><td>(3.906.107.336)</td></tr><tr><td>Giảm khác</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>(566.831.142)</td><td>- (566.831.142)</td></tr><tr><td>Số cuối năm</td><td>1.572.264.090.000</td><td>492.051.147.061</td><td>(60.464.200.000)</td><td>10.929.726.999</td><td>1.088.759.118</td><td>863.748.460.570</td><td>40.503.427.830</td></tr></table>
+
+36
+
+===== PAGE 39 =====
+Công ty Cổ phần Đầu tư Nam Long
+
+B09-DN/HN
+
+THUYẾT MINH BẢO CẢO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+
+vào ngày 31 tháng 12 năm 2017 và cho năm tài chính kết thúc cùng ngày
+
+26. VỐN CHỦ SỞ HỮU (tiếp theo)
+
+26.2 Cổ phiếu
+
+<table><tr><td rowspan="2" colspan="2"></td><td colspan="2">Số lượng cổ phiếu</td></tr><tr><td>Tại ngày 31 tháng 12 năm 2017</td><td>Tại ngày 31 tháng 12 năm 2016</td></tr><tr><td colspan="2">Cổ phiếu đã được duyệt</td><td>157.226.409</td><td>142.114.510</td></tr><tr><td colspan="2">Cổ phiếu đã phát hành</td><td></td><td></td></tr><tr><td colspan="2">Cổ phiếu đã đã phát hành và được góp vốnđầy đủ</td><td>157.226.409</td><td>142.114.510</td></tr><tr><td colspan="2">Cổ phiếu phổ thông</td><td>157.226.409</td><td>142.114.510</td></tr><tr><td colspan="2">Cổ phiếu quỹ</td><td></td><td></td></tr><tr><td colspan="2">Cổ phiếu quỹ do công ty con nằm giữ</td><td>7.149.780</td><td>6.502.165</td></tr><tr><td colspan="2">Cổ phiếu phổ thông</td><td>7.149.780</td><td>6.502.165</td></tr><tr><td colspan="2">Cổ phiếu đang lưu hành</td><td></td><td></td></tr><tr><td colspan="2">Cổ phiếu phổ thông</td><td>150.076.629</td><td>135.612.345</td></tr><tr><td>26.3</td><td>Cổ tức</td><td></td><td></td></tr><tr><td colspan="2"></td><td>Năm nay</td><td>VNDNăm trước</td></tr><tr><td colspan="2">Vốn cổ phần đã góp</td><td></td><td></td></tr><tr><td colspan="2">Vốn góp đầu năm</td><td>1.421.145.100.000</td><td>1.415.721.570.000</td></tr><tr><td colspan="2">Tăng trong năm</td><td>151.118.990.000</td><td>5.423.530.000</td></tr><tr><td colspan="2">Vốn góp cuối năm</td><td>1.572.264.090.000</td><td>1.421.145.100.000</td></tr><tr><td colspan="2">Cổ tức bằng cổ phiếu đã công bố</td><td>141.537.390.000</td><td>-</td></tr><tr><td colspan="2">Cổ tức bằng tiền đã công bố</td><td>67.534.715.430</td><td>97.655.580.121</td></tr><tr><td colspan="2">Cổ tức đã thực trả bằng tiền</td><td>67.824.642.598</td><td>96.034.439.872</td></tr></table>
+
+37
+
+===== PAGE 40 =====
+Công ty Cổ phần Đầu tư Nam Long
+
+B09-DN/HN
+
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+
+vào ngày 31 tháng 12 năm 2017 và cho năm tài chính kết thúc cùng ngày
+
+27. LỢI ÍCH CỦA CỔ ĐÔNG KHÔNG KIỂM SOÁT
+
+<table><tr><td rowspan="2"></td><td rowspan="2">Số cuối năm</td><td>VND</td></tr><tr><td>Số đầu năm</td></tr><tr><td>Vốn điều lệ đã góp</td><td>618.195.623.970</td><td>599.906.143.470</td></tr><tr><td>Thặng dư vốn</td><td>26.412.286.830</td><td>26.412.286.830</td></tr><tr><td>Cổ phiếu quỹ</td><td>(656.280.000)</td><td>(656.280.000)</td></tr><tr><td>Quỹ đầu tư và phát triển</td><td>62.463.835</td><td>125.693.756</td></tr><tr><td>Các quỹ khác thuộc vốn chủ sở hữu</td><td>731.528.491</td><td>846.532.269</td></tr><tr><td>Quỹ đánh giá lại tài sản</td><td>63.818.489</td><td>63.818.489</td></tr><tr><td>Lợi nhuận sau thuế chưa phân phối</td><td>157.817.262.562</td><td>36.816.111.592</td></tr><tr><td>TỔNG CỘNG</td><td>802.626.704.177</td><td>663.514.306.406</td></tr></table>
+
+Chi tiết tình hình tăng giảm lợi ích của cổ đông không kiểm soát:
+
+VND
+
+Năm nay
+
+<table><tr><td>Số đầu năm</td><td>663.514.306.406</td></tr><tr><td>Góp vốn thêm</td><td>155.516.750.000</td></tr><tr><td>Thoái vốn</td><td>(136.927.250.000)</td></tr><tr><td>Lợi nhuận thuần trong năm</td><td>221.147.738.207</td></tr><tr><td>Chuyển lợi ích của cổ đông thiểu số sang Nhóm Công ty</td><td>(273.168.858)</td></tr><tr><td>Cổ tức đã trả</td><td>(100.236.667.800)</td></tr><tr><td>Quỹ</td><td>(115.003.778)</td></tr></table>
+
+<table><tr><td>Số cuối năm</td><td>802.626.704.177</td></tr></table>
+
+Trong đó:
+
+Cổ tức đã thực trả bằng tiền 55.094.109.800
+
+38
+
+===== PAGE 41 =====
+Công ty Cổ phần Đầu tư Nam Long
+
+B09-DN/HN
+
+THUYẾT MINH BẢO CẢO TÀI CHÍNH HỢP NHẮT (tiếp theo)
+
+vào ngày 31 tháng 12 năm 2017 và cho năm tài chính kết thúc cùng ngày
+
+28. DOANH THU
+
+28.1 Doanh thu bán hàng và cung cấp dịch vụ
+
+<table><tr><td></td><td>Năm nay</td><td>VNDNăm trước</td></tr><tr><td>Tổng doanh thu</td><td>3.164.844.260.274</td><td>2.533.798.820.045</td></tr><tr><td colspan="3">Trong đó:</td></tr><tr><td>Doanh thu bán đất, căn hộ, nhà phố và biệt thự</td><td>2.243.494.278.556</td><td>2.479.838.501.617</td></tr><tr><td>Doanh thu từ chuyển nhượng dự án (i)</td><td>838.344.399.663</td><td>-</td></tr><tr><td>Doanh thu cung cấp dịch vụ</td><td>64.108.264.616</td><td>33.582.494.745</td></tr><tr><td>Thu nhập cho thuê bất động sản đầu tư</td><td>14.925.009.199</td><td>20.377.823.683</td></tr><tr><td>Doanh thu xây dựng</td><td>3.972.308.240</td><td>-</td></tr><tr><td colspan="3">Trừ</td></tr><tr><td>Giảm trừ doanh thu</td><td>(3.532.614.108)</td><td>-</td></tr><tr><td>Doanh thu thuần</td><td>3.161.311.646.166</td><td>2.533.798.820.045</td></tr><tr><td colspan="3">Trong đó:</td></tr><tr><td>Doanh thu bán đất, nhà phố, biệt thự và căn hộ</td><td>2.239.961.664.448</td><td>2.479.838.501.617</td></tr><tr><td>Doanh thu từ chuyển nhượng dự án (i)</td><td>838.344.399.663</td><td>-</td></tr><tr><td>Doanh thu từ các dịch vụ khác đã cung cấp</td><td>64.108.264.616</td><td>33.582.494.745</td></tr><tr><td>Doanh thu từ cho thuê bất động sản đầu tư</td><td>14.925.009.199</td><td>20.377.823.683</td></tr><tr><td>Doanh thu xây dựng</td><td>3.972.308.240</td><td>-</td></tr><tr><td colspan="3">Trong đó:</td></tr><tr><td>Doanh thu với khách hàng khác</td><td>2.301.169.553.716</td><td>2.533.798.820.045</td></tr><tr><td>Doanh thu với bên liên quan</td><td>860.142.092.450</td><td>-</td></tr></table>
+
+(i) Doanh thu từ chuyển nhượng dự án Nguyên Sơn cho Công ty Cổ phần NNH Mizuki, nhằm phát triển Khu đô thị Mizuki Park (TM số 15.1)
+
+28.2 Doanh thu hoạt động tài chính
+
+<table><tr><td></td><td>Năm nay</td><td>VNDNăm trước</td></tr><tr><td>Lãi tiền gửi ngân hàng và lãi cho vay</td><td>48.436.002.638</td><td>18.976.347.441</td></tr><tr><td>Lãi được chia từ HĐHTKD</td><td>41.357.048.118</td><td>6.210.353.467</td></tr><tr><td>Cổ tức được nhận</td><td>4.957.813.584</td><td>501.973.000</td></tr><tr><td>TỔNG CỘNG</td><td>94.750.864.340</td><td>25.688.673.908</td></tr></table>
+
+29. GIÁ VÓN HÀNG BÁN VÀ DỊCH VỤ CUNG CẤP
+
+<table><tr><td></td><td>Năm nay</td><td>VNDNăm trước</td></tr><tr><td>Giá vốn đất, căn hộ, nhà phố và biệt thụ (*)</td><td>1.414.031.746.838</td><td>1.669.369.283.118</td></tr><tr><td>Giá vốn chuyển nhượng dự án (*)</td><td>384.759.699.320</td><td>-</td></tr><tr><td>Giá vốn dịch vụ cung cấp</td><td>55.553.876.435</td><td>32.099.101.410</td></tr><tr><td>Giá vốn xây dựng</td><td>3.616.573.548</td><td>-</td></tr><tr><td>Chi phí kinh doanh bất động sản đầu tư</td><td>8.406.346.165</td><td>9.450.300.155</td></tr><tr><td>TỔNG CỘNG</td><td>1.866.368.242.306</td><td>1.710.918.684.683</td></tr></table>
+
+39
+
+===== PAGE 42 =====
+Công ty Cổ phần Đầu tư Nam Long
+
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+vào ngày 31 tháng 12 năm 2017 và cho năm tài chính kết thúc cùng ngày
+
+29. GIÁ VỐN HÀNG BÁN VÀ DỊCH VỤ CUNG CẤP (tiếp theo)
+
+(*) Giá vốn hàng hóa bất động sản bao gồm các khoản trích trước như sau:
+
+<table><tr><td rowspan="2"></td><td colspan="3">Năm nay</td><td colspan="3">Năm trước</td></tr><tr><td>Chi phí thực tế đã phát sinh</td><td>Giá trị trích trước vào chi phí vào ngày 31 tháng 12 năm 2017</td><td>Tổng cộng giá vốn ghi nhận trong năm</td><td>Chi phí thực tế đã phát sinh</td><td>Giá trị trích trước vào chi phí vào ngày 31 tháng 12 năm 2016</td><td>Tổng cộng giá vốn ghi nhận trong năm</td></tr><tr><td>Giá vốn đất, căn hộ, nhà phố và biệt thụ</td><td>1.408.553.558.379</td><td>5.478.188.459</td><td>1.414.031.746.838</td><td>1.284.918.289.880</td><td>384.450.993.238</td><td>1.669.369.283.118</td></tr><tr><td>Giá vốn chuyển nhượng dự án</td><td>232.552.746.991</td><td>152.206.952.329</td><td>384.759.699.320</td><td>-</td><td>-</td><td>-</td></tr><tr><td>TỔNG CỘNG</td><td>1.641.106.305.370</td><td>157.685.140.788</td><td>1.798.791.446.158</td><td>1.284.918.289.880</td><td>384.450.993.238</td><td>1.669.369.283.118</td></tr></table>
+
+B09-DN/HN
+
+40
+
+===== PAGE 43 =====
+Công ty Cổ phần Đầu tư Nam Long
+
+B09-DN/HN
+
+THUYẾT MINH BẢO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+
+vào ngày 31 tháng 12 năm 2017 và cho năm tài chính kết thúc cùng ngày
+
+30. CHI PHÍ BÁN HÀNG VÀ CHI PHÍ QUẢN LÝ DOANH NGHIỆP
+
+<table><tr><td></td><td>Năm nay</td><td>VNDNăm trước</td></tr><tr><td colspan="3">Chi phí bán hàng</td></tr><tr><td>Chi phí tiếp thị, nhà mẫu</td><td>44.236.137.120</td><td>31.825.380.779</td></tr><tr><td>Chi phí hoa hồng bán hàng</td><td>78.912.122.056</td><td>70.668.124.394</td></tr><tr><td>Chi phí nhân viên</td><td>33.737.693.578</td><td>27.929.894.511</td></tr><tr><td>Phí tư vấn</td><td>13.651.610.765</td><td>19.254.849.729</td></tr><tr><td>Khác</td><td>47.973.189.282</td><td>38.941.680.461</td></tr><tr><td></td><td>218.510.752.801</td><td>188.619.929.874</td></tr><tr><td colspan="3">Chi phí quản lý doanh nghiệp</td></tr><tr><td>Chi phí lương nhân viên</td><td>135.497.727.757</td><td>110.869.605.453</td></tr><tr><td>Chi phí dịch vụ mua ngoài</td><td>31.078.275.970</td><td>21.175.728.643</td></tr><tr><td>Chi phí thuê</td><td>3.681.731.832</td><td>2.178.868.003</td></tr><tr><td>Khấu hao</td><td>2.029.051.681</td><td>2.031.459.342</td></tr><tr><td>Khác</td><td>22.886.480.517</td><td>18.130.856.252</td></tr><tr><td></td><td>195.173.267.757</td><td>154.386.517.693</td></tr><tr><td>TỔNG CỘNG</td><td>413.684.020.558</td><td>343.006.447.567</td></tr></table>
+
+31. CHI PHÍ TÀI CHÍNH
+
+<table><tr><td></td><td>Năm nay</td><td>VNDNăm trước</td></tr><tr><td>Chi phí lãi vay trái phiếu và ngân hàng</td><td>28.535.115.775</td><td>20.554.703.566</td></tr><tr><td>Chi phí tài chính khác</td><td>801.621.851</td><td>8.055.740.687</td></tr><tr><td>TỔNG CỘNG</td><td>29.336.737.626</td><td>28.610.444.253</td></tr></table>
+
+41
+
+===== PAGE 44 =====
+Công ty Cổ phần Đầu tư Nam Long
+
+B09-DN/HN
+
+THUYÊT MINH BẢO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+vào ngày 31 tháng 12 năm 2017 và cho năm tài chính kết thúc cùng ngày
+
+32. THUẾ THU NHẬP DOANH NGHIỆP
+
+Thuế suất thuế thu nhập doanh nghiệp ("TNDN") áp dụng cho Nhóm Công ty là 20% thu nhập chịu thuế.
+
+Các báo cáo thuế của Nhóm Công ty sẽ chịu sự kiểm tra của cơ quan thuế. Do việc áp dụng luật và các quy định về thuế có thể được giải thích theo nhiều cách khác nhau, số thuế được trình bày trên các báo cáo tài chính hợp nhất có thể sẽ bị thay đổi theo quyết định cuối cùng của cơ quan thuế.
+
+32.1 Chi phí thuế TNDN
+
+<table><tr><td></td><td>Năm nay</td><td>VNDNăm trước</td></tr><tr><td>Chi phí thuế TNDN hiện hànhĐiều chỉnh thuế TNDN trích thiếu các kỳ trước(Thu nhập) chi phí thuế TNDN hoãn lại(TM số 32.3)</td><td>337.849.984.186780.490.526(144.553.313.939)</td><td>98.555.565.5261.128.719.450(2.913.538.401)</td></tr><tr><td>TỔNG CỘNG</td><td>194.077.160.773</td><td>96.770.746.575</td></tr></table>
+
+Dưới đây là đối chiếu chi phí thuế TNDN và kết quả của lợi nhuận kế toán trước thuế nhân với thuế suất thuế TNDN:
+
+<table><tr><td></td><td>Năm nay</td><td>VNDNăm trước</td></tr><tr><td>Tổng lợi nhuận kế toán trước thuế</td><td>950.241.942.325</td><td>484.340.916.453</td></tr><tr><td>Thuế TNDN theo thuế suất phổ thông 20%</td><td>190.048.388.469</td><td>96.868.183.291</td></tr><tr><td>Các khoản điều chỉnh tăng (giảm)</td><td></td><td></td></tr><tr><td>Thuế TNDN được miễn, giảm</td><td>(855.971.184)</td><td>-</td></tr><tr><td>Chi phí chênh lệch giữa lãi suất thực tế và lãi suất danh nghĩa liên quan đến phát hành trái phiếu chuyển đổi</td><td>1.181.440.047</td><td>877.444.538</td></tr><tr><td>Phân bổ lợi thế thương mại phát sinh từ hợp nhất kinh doanh</td><td>1.006.345.181</td><td>1.032.816.922</td></tr><tr><td>Thu nhập từ hoạt động không thuộc diện nộp thuế TNDN</td><td>(8.689.332.788)</td><td>(5.497.051.732)</td></tr><tr><td>Lỗ phát sinh trong kỳ của các công ty con</td><td>27.584.120</td><td>97.633.888</td></tr><tr><td>Lỗ năm trước chuyển sang</td><td>(1.227.779.445)</td><td>(1.742.586.387)</td></tr><tr><td>Chi phí không được khấu trừ khác</td><td>9.183.825.285</td><td>4.005.586.605</td></tr><tr><td>Lỗ thuế chưa được ghi nhận</td><td>2.622.170.562</td><td>-</td></tr><tr><td>Điều chỉnh thuế TNDN trích thiếu các kỳ trước</td><td>780.490.526</td><td>1.128.719.450</td></tr><tr><td>Chi phí thuế TNDN</td><td>194.077.160.773</td><td>96.770.746.575</td></tr></table>
+
+42
+
+===== PAGE 45 =====
+Công ty Cổ phần Đầu tư Nam Long
+
+B09-DN/HN
+
+THUYẾT MINH BẢO CẢO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+
+vào ngày 31 tháng 12 năm 2017 và cho năm tài chính kết thúc cùng ngày
+
+32. THUẾ THU NHẬP DOANH NGHIỆP (tiếp theo)
+
+32.2 Thuế TNDN hiện hành
+
+Thuế TNDN hiện hành phải trả được xác định dựa trên thu nhập chịu thuế của kỳ hiện tại. Thu nhập chịu thuế khác với thu nhập được báo cáo trong báo cáo kết quả kinh doanh hợp nhất vì thu nhập chịu thuế không bao gồm các khoản mục thu nhập chịu thuế hay chi phí được khấu trừ cho mục đích tính thuế trong các kỳ khác và cũng không bao gồm các khoản mục không phải chịu thuế hay không được khấu trừ cho mục đích tính thuế. Thuế TNDN hiện hành phải trả của Nhóm Công ty được tính theo thuế suất đã ban hành đến ngày kết thúc ký kế toán.
+
+32.3 Thuế TNDN hoãn lại
+
+Nhóm Công ty đã ghi nhận một số khoản tài sản thuế TNDN hoãn lại và thuế TNDN hoãn lại phải trả với các biến động trong kỳ báo cáo và kỳ trước như sau:
+
+VND
+
+<table><tr><td rowspan="2"></td><td colspan="2">Bảng cân đối kế toán hợp nhất</td><td colspan="2">Báo cáo kết quả hoạt động kinh doanh hợp nhất</td></tr><tr><td>Số cuối năm</td><td>Số đầu năm</td><td>Năm nay</td><td>Năm trước</td></tr><tr><td colspan="5">Tài sản thuế TNDN hoãn lại</td></tr><tr><td>Lợi nhuận nội bộ chưa thực hiện loại trừ trên hợp nhất</td><td>163.281.698.774</td><td>50.473.975.501</td><td>112.813.198.336</td><td>(5.438.173.110)</td></tr><tr><td>Chi phí phải trả</td><td>27.720.182.689</td><td>15.351.281.443</td><td>12.368.901.246</td><td>2.097.111.433</td></tr><tr><td>Khác</td><td>3.465.071.848</td><td>2.788.827.769</td><td>676.244.079</td><td>1.030.044.020</td></tr><tr><td></td><td>194.466.953.311</td><td>68.614.084.713</td><td></td><td></td></tr><tr><td colspan="5">Thuế TNDN hoãn lại phải trả</td></tr><tr><td>Lỗ thuế hoãn lại Chênh lệch giá vốn</td><td>-</td><td>(2.696.372.478)</td><td>2.696.372.478</td><td>-</td></tr><tr><td rowspan="3">Chênh lệch giá trị hợp lý cửa tài sản mua trong hợp nhất kinh doanh</td><td>-</td><td>-</td><td>-</td><td>5.224.556.058</td></tr><tr><td>(36.636.898.067)</td><td>(52.635.495.867)</td><td>15.998.597.800</td><td>-</td></tr><tr><td>(36.636.898.067)</td><td>(55.331.868.345)</td><td></td><td></td></tr><tr><td colspan="3">Thu nhập thuế TNDN hoãn lại</td><td>144.553.313.939</td><td>2.913.538.401</td></tr></table>
+
+43
+
+===== PAGE 46 =====
+Công ty Cổ phần Đầu tư Nam Long
+
+B09-DN/HN
+
+THUYẾT MINH BẢO CẢO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+
+vào ngày 31 tháng 12 năm 2017 và cho năm tài chính kết thúc cùng ngày
+
+33. NGHIỆP VỤ VỚI CÁC BÊN LIÊN QUAN
+
+Các giao dịch trọng yếu của Nhóm Công ty với các bên liên quan bao gồm:
+
+<table><tr><td>Các bên liên quan</td><td>Mối quan hệ</td><td>Nội dung nghiệp vụ</td><td>Năm nay</td><td>VNDNăm trước</td></tr><tr><td>NNH Mizuki</td><td>Công tyliên doanh</td><td>Góp vốnBán dự ánThu tiền chuyểnnhuống dự ánDịch vụ tổng thầu</td><td>750.000.000.000838.344.399.6631.500.000.000.00017.873.290.000</td><td>------</td></tr></table>
+
+Số dư các khoản phải thu và phải trả với các bên liên quan được thể hiện như sau:
+
+<table><tr><td>Các bên liên quan</td><td>Mối quan hệ</td><td>Nội dung nghiệp vụ</td><td>Số cuối năm</td><td>VND Số đầu năm</td></tr><tr><td colspan="5">Phải thu khách hàng ngắn hạn (TM số 6)</td></tr><tr><td>NNH Mizuki</td><td>Công ty liên doanh</td><td>Bán dự án</td><td>6.612.908.329</td><td>-</td></tr><tr><td>Các cá nhân</td><td>Cổ đông</td><td>Bán căn hộ</td><td>341.755.097</td><td>341.755.097</td></tr><tr><td></td><td></td><td></td><td>6.954.663.426</td><td>341.755.097</td></tr><tr><td colspan="5">Phải thu khách hàng ngắn hạn khác (TM số 9)</td></tr><tr><td>NNH Mizuki</td><td>Công ty liên doanh</td><td>Chỉ trả hộ</td><td>550.000.000</td><td>-</td></tr><tr><td colspan="5">Khách hàng trả tiền trước</td></tr><tr><td>NNH Mizuki</td><td>Công ty liên doanh</td><td>Tạm ứng</td><td>13.323.474.303</td><td>-</td></tr></table>
+
+Thu nhập của các thành viên Hội đồng Quản trị ("HĐQT") và Ban Tổng Giám đốc ("BTGĐ") được trình bày như sau:
+
+<table><tr><td></td><td>Năm nay</td><td>VNDNăm trước</td></tr><tr><td>Thủ lao Hội đồng Quản trị</td><td>8.733.803.167</td><td>6.762.000.000</td></tr><tr><td>Thủ lao Ban Tổng Giám đốc</td><td>6.995.757.380</td><td>8.028.240.852</td></tr><tr><td>TỔNG CỘNG</td><td>15.729.560.547</td><td>14.790.240.852</td></tr></table>
+
+44
+
+===== PAGE 47 =====
+Công ty Cổ phần Đầu tư Nam Long
+
+B09-DN/HN
+
+THUYẾT MINH BẢO CẢO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+
+vào ngày 31 tháng 12 năm 2017 và cho năm tài chính kết thúc cùng ngày
+
+34. LÃI TRÊN CỔ PHIÉU
+
+Lãi cơ bản trên cổ phiếu được tính bằng cách chia lợi nhuận sau thuế thuộc về cổ đông sở hữu cổ phiếu phổ thông của Công ty cho số lượng bình quân gia quyền của số cổ phiếu phổ thông đang lưu hành trong năm.
+
+Nhóm Công ty sử dụng các thông tin sau để tính lãi cơ bản trên cổ phiếu:
+
+<table><tr><td></td><td>Năm nay</td><td>Năm trước(Trính bày lại)</td></tr><tr><td>Lợi nhuận sau thuế (VND)</td><td>535.017.043.345</td><td>345.217.739.625</td></tr><tr><td>Trừ: Quỹ khen thưởng phúc lợi (VND)(i)</td><td>(37.451.193.034)</td><td>(22.784.370.816)</td></tr><tr><td>Tiền lãi sau thuế của trái phiếu chuyển đổi hạch toán vào báo cáo kết quả hoạt động kinh doanh hợp nhất (VND)</td><td>9.472.530.047</td><td>16.062.809.514</td></tr><tr><td>Lợi nhuận sau thuế thuộc về cổ đông sở hữu cổ phiếu phổ thông (VND)</td><td>507.038.380.358</td><td>338.496.178.323</td></tr><tr><td>Số lượng bình quân gia quyền của số cổ phiếu phổ thông đang lưu hành trong năm (VND) (ii)</td><td>150.151.973</td><td>149.378.124</td></tr><tr><td>Tăng số lượng cổ phiếu bình quân do ảnh hưởng của cổ phiếu tiềm năng có thể được chuyển đổi từ trái phiếu chuyển đổi (VND) (iii)</td><td>21.276.596</td><td>21.276.596</td></tr><tr><td>Số lượng cổ phiếu bình quân lưu hành đã được điều chỉnh do ảnh hưởng pha loãng trong năm</td><td>171.428.569</td><td>170.654.720</td></tr><tr><td>Lãi trên cổ phiếu (VND)</td><td></td><td></td></tr><tr><td>Lãi cơ bản trên cổ phiếu</td><td>3.314</td><td>2.159</td></tr><tr><td>Lãi suy giảm trên cổ phiếu</td><td>2.958</td><td>1.984</td></tr></table>
+
+(i) Lợi nhuận dùng để tính lãi trên cổ phiếu cho năm tài chính kết thúc ngày 31 tháng 12 năm 2016 đã được điều chỉnh lại để phần ánh khoản thực trích quỹ khen thưởng, phúc lợi từ lợi nhuận sau thuế chưa phân phối của năm 2016 theo Nghị quyết Đại hội đồng cổ đông ngày 22 tháng 4 năm 2017 ("NQĐHĐCD 2016").
+
+Lợi nhuận dùng để tính lãi trên cổ phiếu cho năm tài chính kết thúc ngày 31 tháng 12 năm 2017 được điều chỉnh giảm cho khoản trích quỹ khen thưởng, phúc lợi dự kiến được trích lập với tỷ lệ 7% lợi nhuận sau thuế chưa phân phối năm 2017 theo NQĐHDCĐ 2016.
+
+(ii) Số cổ phiếu phổ thông đang lưu hành bình quân cho năm tài chính kết thúc ngày 31 tháng 12 năm 2017 và 31 tháng 12 năm 2016 đã được điều chỉnh để phần ảnh việc phát hành cổ phiếu để trả cổ tức với tỷ lệ 10% vào ngày 17 tháng 7 năm 2017.
+
+(iii) Như trình bày tại TM số 23 của báo cáo tài chính hợp nhất kèm theo, vào ngày 8 tháng 4 năm 2016, Nhóm Công ty đã phát hành 500.000.000.000 VND trái phiếu chuyển đổi với mệnh giá 1.000.000.000 VND/trái phiếu. Các trái phiếu này có thể có tác động suy giảm lãi trên cổ phiếu trong tương lai như đã được tính toán cho năm tài chính kết thúc ngày 31 tháng 12 năm 2017 và 2016.
+
+45
+
+===== PAGE 48 =====
+Công ty Cổ phần Đầu tư Nam Long
+
+B09-DN/HN
+
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+
+vào ngày 31 tháng 12 năm 2017 và cho năm tài chính kết thúc cùng ngày
+
+35. CÁC CAM KẾT VÀ CÁC KHOÀN NỘ TIỂM TÀNG
+
+Cam kết theo hợp đồng thuê hoạt động
+
+Nhóm Công ty hiện đang thuê tài sản theo hợp đồng thuê hoạt động. Vào ngày 31 tháng 12 năm 2017, các khoản tiền thuê tối thiểu trong tương lai theo hợp đồng thuê hoạt động được trình bày như sau:
+
+<table><tr><td></td><td>Năm nay</td><td>VNDNăm trước</td></tr><tr><td>Dưới một năm</td><td>13.778.381.205</td><td>2.596.923.678</td></tr><tr><td>Từ một đến năm năm</td><td>15.614.462.606</td><td>9.219.026.569</td></tr><tr><td>TỔNG CỘNG</td><td>29.392.843.811</td><td>11.815.950.247</td></tr></table>
+
+Nhóm Công ty hiện đang cho thuê tài sản theo hợp đồng thuê hoạt động. Vào ngày 31 tháng 12 năm 2017, các khoản tiền thuê tối thiểu thu được trong tương lai theo hợp đồng thuê hoạt động được trình bày như sau:
+
+<table><tr><td></td><td>Năm nay</td><td>VNDNăm trước</td></tr><tr><td>Dưới một năm</td><td>14.492.892.666</td><td>5.327.026.280</td></tr><tr><td>Từ một đến năm năm</td><td>21.276.505.140</td><td>15.741.304.299</td></tr><tr><td>Trên năm năm</td><td>-</td><td>18.374.978.680</td></tr><tr><td>TỔNG CỘNG</td><td>35.769.397.806</td><td>39.443.309.259</td></tr></table>
+
+Các cam kết vốn
+
+Vào ngày 31 tháng 12 năm 2017, Nhóm Công ty có các cam kết hợp đồng cho việc xây dựng dự án căn hộ, nhà phố và biệt thụ như sau:
+
+<table><tr><td></td><td>Giá trị theo hợp đồng</td><td>Giá trị đã ghi nhận</td><td>VNDGiá trị cam kết còn lại</td></tr><tr><td>Dự án Kykio Residence</td><td>330.781.067.931</td><td>211.668.915.206</td><td>119.112.152.725</td></tr><tr><td>Dự án Fuji Residence</td><td>142.338.997.465</td><td>98.934.330.901</td><td>43.404.666.564</td></tr><tr><td>Dự án Nguyên Sơn</td><td>145.087.864.284</td><td>51.901.116.351</td><td>93.186.747.933</td></tr><tr><td>Dự án Hoàng Nam</td><td>36.740.094.416</td><td>15.124.970.853</td><td>21.615.123.563</td></tr><tr><td>Dự án Tân Thuận Đông</td><td>16.423.850.541</td><td>14.073.262.809</td><td>2.350.587.732</td></tr><tr><td>Các dự án khác</td><td>15.976.445.287</td><td>9.630.430.930</td><td>6.346.014.357</td></tr><tr><td>TỔNG CỘNG</td><td>687.348.319.924</td><td>401.333.027.050</td><td>286.015.292.874</td></tr></table>
+
+36. SỐ LIỆU TƯƠNG ÚNG
+
+Một số số liệu tương ứng trong báo cáo tài chính hợp nhất cho năm tài chính kết thúc ngày 31 tháng 12 năm 2016 đã được phân loại lại cho phù hợp với cách trình bày của báo cáo tài chính hợp nhất của năm nay.
+
+46
+
+M.S.D.
+* QUANT.T.
+
+===== PAGE 49 =====
+Công ty Cổ phần Đầu tư Nam Long
+
+B09-DN/HN
+
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+
+vào ngày 31 tháng 12 năm 2017 và cho năm tài chính kết thúc cùng ngày
+
+37. SỰ KIỆN PHÁT SINH SAU NGÀY KẾT THỨC KỸ KẾ TOÁN NĂM
+
+Vào ngày 31 tháng 1 năm 2018, Công ty đã nhận Giấy chứng nhận số 06/GCN - UBCK của Ủy ban Chứng khoán Nhà nước thông báo nhận được hồ sơ độ trình từ Công ty liên quan đến việc đăng ký phát hành 31.445.281 cổ phiếu cho cổ đông hiện hữu. Cổ đông của Công ty đã thông nhất thông qua việc phát hành cổ phiếu này theo Nghị quyết Đại hội đồng Cổ đông số 02/2017/NQ/DHDCĐ/NLG ngày 31 tháng 10 năm 2017.
+
+Vào ngày lập báo cáo tài chính hợp nhất này, Công ty đang trong quá trình thực hiện việc phát hành cổ phiếu mới này.
+
+Ngoài sự kiện nếu trên, không có sự kiện nào khác phát sinh sau ngày kết thúc kỳ kế toán năm yêu cầu phải được điều chỉnh hay trình bày trong báo cáo tài chính hợp nhất kèm theo.
+
+Ngày 9 tháng 2 năm 2018
+
+47

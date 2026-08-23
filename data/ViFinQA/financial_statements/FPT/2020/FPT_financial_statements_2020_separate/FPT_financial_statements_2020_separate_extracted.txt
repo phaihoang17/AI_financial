@@ -1,0 +1,1179 @@
+===== PAGE 1 =====
+CÔNG TY CỔ PHẦN FPT
+FPT CORPORATION
+
+CỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM
+Độc lập - Tự do - Hạnh phúc
+THE SOCIALIST REPUBLIC OF VIETNAM
+Independence - Freedom - Happiness
+
+Số/No.: 41 /FPT-FCC
+
+Hà Nội, ngày 05 tháng 03 năm 2021
+
+Hanoi, March 5 \( ^{th} \) , 2021
+
+CÔNG BÓ THÔNG TIN
+TRÊN CÔNG THÔNG TIN ĐIỆN
+TỪ CỦA ỦY BAN CHỨNG KHÓÁN
+NHÀ NƯỚC VÀ SGDCK TP.HCM
+
+DISCLOSURE OF INFORMATION
+ON THE STATE SECURITIES
+COMMISSION'S PORTAL AND
+HOCHIMINH STOCK EXCHANGE'S
+PORTAL
+
+Kính gửi/ To: - Ủy ban Chứng khoán Nhà nước/ The State Securities Commission
+- Sở Giao dịch chứng khoán TP.HCM/ Hochiminh Stock Exchange
+
+- Tên tổ chức / Organization name: Công ty Cổ phần FPT/ FPT Corporation
+
+- Mã chứng khoán/ Security Symbol: FPT/ FPT
+
+- Địa chỉ trụ sở chính/ Address: Số 17 Duy Tân, Phường Dịch Vọng Hậu, Quận Cầu Giấy, Hà Nội/ 17 Duy Tan Street, Dich Vong Hau Ward, Cau Giay Distric, Hanoi
+
+- Điện thoại/ Telephone: 024. 7300 7300
+
+- Fax: 024.3768 7410
+
+- Người thực hiện công bố thông tin/ Submitted by: Bà Bùi Nguyễn Phương Châu/ Ms. Bui Nguyen Phuong Chau
+
+Chức vụ/ Position: Trường Ban Truyền thông FPT/Chief of FPT Corporate Communications Department
+
+Loại thông tin công bố: ☑ định kỳ □ bất thường □24h □ theo yêu cầu
+Information disclosure type: ☑ Periodic □ Irregular □ 24 hours □ On demand
+
+Nội dung thông tin công bố (*)( Content of Information disclosure (*): Báo cáo tài chính công ty mẹ năm 2020 và Báo cáo tài chính hợp nhất năm 2020/Separate Financial Statements of 2020 and Consolidated Financial Statements of 2020.
+
+Thông tin này đã được công bố trên trang thông tin điện tử của công ty vào ngày 05/03/2021 tại đường dẫn: http://fpt.com.vn/vi/nhadautu/cong-bo-thong-tin
+This information was disclosed on Company/Fund's Portal on date March 5\( ^{th} \), 2021 available at: https://fpt.com.vn/en/ir/information-disclosure
+
+1
+
+===== PAGE 2 =====
+Tôi cam kết các thông tin công bố trên đây là đúng sự thật và hoàn toàn chịu trách nhiệm trước pháp luật về nội dung các thông tin đã công bố/ I declare that all information provided in this paper is true and accurate; I shall be legally responsible for any misrepresentation.
+
+Tài liệu đính kèm/Attachment: Báo cáo tài chính công ty mẹ năm 2020 và Báo cáo tài chính hợp nhất năm 2020/Separate Financial of 2020 and Consolidated Financial Statements of 2020.
+
+Nơi nhận/Recipient:
+
+-Như trên/As above:
+
+-Luru/Archived by: VT, FCC/Admin, FCC
+
+Đại diện tổ chức
+
+Organization representative
+
+Người CBTT/Party to disclose information
+
+Bùi Nguyễn Phương Châu
+
+2
+
+===== PAGE 3 =====
+Deloitte.
+
+FPT CORPORATION
+
+(Incorporated in the Socialist Republic of Vietnam)
+
+AUDITED SEPARATE
+
+FINANCIAL STATEMENTS
+
+For the year ended 31 December 2020
+
+===== PAGE 4 =====
+FPT CORPORATION
+
+No. 17 Duy Tan Street,
+
+Dich Vong Hau Ward, Cau Giay District,
+
+Hanoi, Vietnam
+
+TABLE OF CONTENTS
+
+<table><tr><td>CONTENTS</td><td>PAGE(S)</td></tr><tr><td>STATEMENT OF THE BOARD OF MANAGEMENT</td><td>1 - 2</td></tr><tr><td>INDEPENDENT AUDITORS&#x27; REPORT</td><td>3 - 4</td></tr><tr><td>BALANCE SHEET</td><td>5 - 7</td></tr><tr><td>INCOME STATEMENT</td><td>8</td></tr><tr><td>CASH FLOW STATEMENT</td><td>9 - 10</td></tr><tr><td>NOTES TO THE SEPARATE FINANCIAL STATEMENTS</td><td>11 - 37</td></tr></table>
+
+===== PAGE 5 =====
+FPT CORPORATION
+
+No. 17 Duy Tan Street,
+
+Dich Vong Hau Ward, Cau Giay District,
+
+Hanoi, Vietnam
+
+STATEMENT OF THE BOARD OF MANAGEMENT
+
+The Board of Management of FPT Corporation (the "Company") presents this report together with the Company's separate financial statements for the year ended 31 December 2020.
+
+THE BOARDS OF DIRECTORS AND MANAGEMENT
+
+The members of the Boards of Directors and Management of the Company who held office during the year and to the date of this report are as follows:
+
+Board of Directors
+
+Mr. Truong Gia Binh Chairman
+
+Mr. Bui Quang Ngoc Vice Chairman
+
+Mr. Do Cao Bao Member
+
+Mr. Jean Charles Belliol Member
+
+Mr. Le Song Lai Member
+
+Mr. Tomokazu Hamaguchi Member
+
+Mr. Dan E Khoo Member
+
+Board of Management
+
+Mr. Nguyen Van Khoa Executive President
+
+Mr. Nguyen The Phuong Executive Vice President
+
+Mr. Hoang Viet Anh Executive Vice President
+
+THE BOARD OF MANAGEMENT'S STATEMENT OF RESPONSIBILITY
+
+The Board of Management of the Company is responsible for preparing the separate financial statements, which give a true and fair view of the financial position of the Company as at 31 December 2020, and its financial performance and its cash flows for the year then ended in accordance with Vietnamese Accounting Standards, accounting regime for enterprises and legal regulations relating to financial reporting. In preparing these separate financial statements, the Board of Management is required to:
+
+- Select suitable accounting policies and then apply them consistently;
+
+• Make judgments and estimates that are reasonable and prudent;
+
+- State whether applicable accounting principles have been followed, subject to any material departures disclosed and explained in the separate financial statements;
+
+- Prepare the separate financial statements on the going concern basis unless it is inappropriate to presume that the Company will continue in business; and
+
+- Design and implement an effective internal control system for the purpose of properly preparing and presenting the separate financial statements so as to minimize errors and frauds.
+
+1
+
+250
+VG 1
+VHH
+OIT
+FN
+A-T
+
+===== PAGE 6 =====
+FPT CORPORATION
+
+No. 17 Duy Tan Street,
+
+Dich Vong Hau Ward, Cau Giay District,
+
+Hanoi, Vietnam
+
+STATEMENT OF THE BOARD OF MANAGEMENT (Continued)
+
+The Board of Management is responsible for ensuring that proper accounting records are kept, which disclose, with reasonable accuracy at any time, the financial position of the Company and that the separate financial statements comply with Vietnamese Accounting Standards, accounting regime for enterprises and legal regulations relating to financial reporting. The Board of Management is also responsible for safeguarding the assets of the Company and hence for taking reasonable steps for the prevention and detection of frauds and other irregularities.
+
+The Board of Management confirms that the Company has complied with the above requirements in preparing these separate financial statements.
+
+For and on behalf of the Board of Management,
+
+Nguyen The Phuong
+
+Executive Vice President
+
+Power of Attorney No. 63/2019/QD-FPT-TGD dated 29 March 2019
+
+Hanoi, 04 March 2021
+
+2
+
+===== PAGE 7 =====
+Deloitte.
+
+Deloitte Vietnam Co., Ltd.
+
+\(15^{\text{th}}\) Floor, Vinaconex Tower,
+
+34 Lang Ha Street, Lang Ha Ward,
+
+Dong Da District, Hanoi, Vietnam
+
+Tel: +84 24 7105 0000
+
+Fax: +84 24 6288 5678
+
+www.deloitte.com/vn
+
+No.: 0626 /VN1A-HN-BC
+
+INDEPENDENT AUDITORS' REPORT
+
+To: The shareholders
+
+The Boards of Directors and Management
+
+FPT Corporation
+
+We have audited the accompanying separate financial statements of FPT Corporation (the "Company"), prepared on 04 March 2021 as set out from page 05 to page 37, which comprise the balance sheet as at 31 December 2020, the statement of income, and statement of cash flows for the year then ended, and a summary of significant accounting policies and other explanatory information.
+
+Management's Responsibility for the separate financial statements
+
+Management is responsible for the preparation and fair presentation of these separate financial statements in accordance with Vietnamese Accounting Standards, accounting regime for enterprises and legal regulations relating to financial reporting and for such internal control as management determines is necessary to enable the preparation of separate financial statements that are free from material misstatement, whether due to fraud or error.
+
+Auditors' Responsibility
+
+Our responsibility is to express an opinion on these separate financial statements based on our audit. We conducted our audit in accordance with Vietnamese Standards on Auditing. Those standards require that we comply with ethical requirements and plan and perform the audit to obtain reasonable assurance about whether the separate financial statements are free from material misstatement.
+
+An audit involves performing procedures to obtain audit evidence about the amounts and disclosures in the separate financial statements. The procedures selected depend on the auditors' judgment, including the assessment of the risks of material misstatement of the separate financial statements, whether due to fraud or error. In making those risk assessments, the auditors consider internal control relevant to the Company's preparation and fair presentation of the separate financial statements in order to design audit procedures that are appropriate in the circumstances, but not for the purpose of expressing an opinion on the effectiveness of the Company's internal control. An audit also includes evaluating the appropriateness of accounting policies used and the reasonableness of accounting estimates made by management, as well as evaluating the overall presentation of the separate financial statements.
+
+We believe that the audit evidence we have obtained is sufficient and appropriate to provide a basis for our audit opinion.
+
+Deloitte refers to one or more of Deloitte Touche Tohmatsu Limited ("DTTL"), its global network of member firms, and their related entities. DTTL (also referred to as "Deloitte Global") and each of its member firms and their affiliated entities are legally separate and independent entities. DTTL does not provide services to clients. Please see www.deloitte.com/about to learn more.
+
+3
+
+===== PAGE 8 =====
+Deloitte.
+
+INDEPENDENT AUDITORS' REPORT (Continued)
+
+Opinion
+
+In our opinion, the separate financial statements present fairly, in all material respects, the financial position of the Company as at 31 December 2020, and its financial performance and its cash flows for the year then ended in accordance with Vietnamese Accounting Standards, accounting regime for enterprises and legal regulations relating to financial reporting.
+
+Tran Thi Thuy Ngoc
+
+Deputy General Director
+
+Audit Practising Registration Certificate
+
+No. 0031-2018-001-1
+
+Pham Tuan Linh
+
+Auditor
+
+Audit Practising Registration Certificate
+
+No. 3001-2019-001-1
+
+DELOITTE VIETNAM COMPANY LIMITED
+
+04 March 2021
+
+Hanoi, S.R. Vietnam
+
+4
+
+===== PAGE 9 =====
+FPT CORPORATION
+
+No. 17 Duy Tan Street,
+
+Dich Vong Hau Ward, Cau Giay District,
+
+Hanoi, Vietnam
+
+FORM B 01-DN
+
+Issued under Circular No.200/2014/TT-BTC
+
+dated 22 December 2014 of the Ministry of Finance
+
+BALANCE SHEET
+
+As at 31 December 2020
+
+Unit: VND
+
+<table><tr><td></td><td>ASSETS</td><td>Codes</td><td>Notes</td><td>Closing balance</td><td>Opening balance</td></tr><tr><td>A.</td><td>CURRENT ASSETS</td><td>100</td><td></td><td>8,198,590,237,083</td><td>4,283,157,223,963</td></tr><tr><td>I.</td><td>Cash and cash equivalents</td><td>110</td><td>4</td><td>2,062,744,834,148</td><td>720,832,090,017</td></tr><tr><td>1.</td><td>Cash</td><td>111</td><td></td><td>151,644,834,148</td><td>334,832,090,017</td></tr><tr><td>2.</td><td>Cash equivalents</td><td>112</td><td></td><td>1,911,100,000,000</td><td>386,000,000,000</td></tr><tr><td>II.</td><td>Short-term financial investments</td><td>120</td><td></td><td>4,534,100,000,000</td><td>2,526,500,000,000</td></tr><tr><td>1.</td><td>Held-to-maturity investments</td><td>123</td><td>5</td><td>4,534,100,000,000</td><td>2,526,500,000,000</td></tr><tr><td>III.</td><td>Short-term receivables</td><td>130</td><td></td><td>1,530,680,636,913</td><td>1,013,646,698,994</td></tr><tr><td>1.</td><td>Short-term trade receivables</td><td>131</td><td>6</td><td>103,692,219,466</td><td>82,736,052,341</td></tr><tr><td>2.</td><td>Short-term advances to suppliers</td><td>132</td><td>7</td><td>100,494,422,801</td><td>54,744,072,487</td></tr><tr><td>3.</td><td>Short-term loan receivables</td><td>135</td><td>8</td><td>195,500,000,000</td><td>27,000,000,000</td></tr><tr><td>4.</td><td>Other short-term receivables</td><td>136</td><td>9</td><td>1,139,494,264,022</td><td>860,989,278,890</td></tr><tr><td>5.</td><td>Provision for short-term doubtful debts</td><td>137</td><td></td><td>(8,500,269,376)</td><td>(11,822,704,724)</td></tr><tr><td>IV.</td><td>Inventories</td><td>140</td><td></td><td>8,129,915,288</td><td>37,367,253</td></tr><tr><td>1.</td><td>Inventories</td><td>141</td><td></td><td>8,129,915,288</td><td>37,367,253</td></tr><tr><td>V.</td><td>Other short-term assets</td><td>150</td><td></td><td>62,934,850,734</td><td>22,141,067,699</td></tr><tr><td>1.</td><td>Short-term prepayments</td><td>151</td><td></td><td>3,370,626,124</td><td>2,119,551,836</td></tr><tr><td>2.</td><td>Value added tax deductibles</td><td>152</td><td></td><td>59,529,421,982</td><td>19,986,713,235</td></tr><tr><td>3.</td><td>Taxes and other receivables from the State budget</td><td>153</td><td>16</td><td>34,802,628</td><td>34,802,628</td></tr></table>
+
+The accompanying notes are an integral part of these separate financial statements
+
+5
+
+\( \left| {1 > 1}\right|  = 0\frac{1}{2} < \frac{1}{2}0\left| {1 > 1}\right| \)
+
+===== PAGE 10 =====
+FPT CORPORATION
+
+No. 17 Duy Tan Street,
+
+Dich Vong Hau Ward, Cau Giay District,
+
+Hanoi, Vietnam
+
+FORM B 01-DN
+
+Issued under Circular No.200/2014/TT-BTC
+
+dated 22 December 2014 of the Ministry of Finance
+
+BALANCE SHEET (Continued)
+
+As at 31 December 2020
+
+Unit: VND
+
+<table><tr><td></td><td>ASSETS</td><td>Codes</td><td>Notes</td><td>Closing balance</td><td>Opening balance</td></tr><tr><td>B.</td><td>NON-CURRENT ASSETS</td><td>200</td><td></td><td>8,405,582,486,214</td><td>7,022,489,548,928</td></tr><tr><td>I.</td><td>Long-term receivables</td><td>210</td><td></td><td>400,000,000</td><td>-</td></tr><tr><td>1.</td><td>Long-term loans receivable</td><td>215</td><td>8</td><td>400,000,000</td><td>-</td></tr><tr><td>II.</td><td>Fixed assets</td><td>220</td><td></td><td>340,335,618,970</td><td>146,855,224,517</td></tr><tr><td>1.</td><td>Tangible fixed assets</td><td>221</td><td>10</td><td>328,421,086,062</td><td>137,675,979,566</td></tr><tr><td></td><td>- Cost</td><td>222</td><td></td><td>494,420,950,331</td><td>293,931,450,901</td></tr><tr><td></td><td>- Accumulated depreciation</td><td>223</td><td></td><td>(165,999,864,269)</td><td>(156,255,471,335)</td></tr><tr><td>2.</td><td>Intangible assets</td><td>227</td><td>11</td><td>11,914,532,908</td><td>9,179,244,951</td></tr><tr><td></td><td>- Cost</td><td>228</td><td></td><td>81,059,561,892</td><td>73,932,991,892</td></tr><tr><td></td><td>- Accumulated amortisation</td><td>229</td><td></td><td>(69,145,028,984)</td><td>(64,753,746,941)</td></tr><tr><td>III.</td><td>Long-term assets in progress</td><td>240</td><td></td><td>1,340,743,130,808</td><td>1,050,346,964,578</td></tr><tr><td>1.</td><td>Construction in progress</td><td>242</td><td>12</td><td>1,340,743,130,808</td><td>1,050,346,964,578</td></tr><tr><td>IV.</td><td>Long-term financial investments</td><td>250</td><td></td><td>6,722,613,409,012</td><td>5,822,613,409,012</td></tr><tr><td>1.</td><td>Investments in subsidiaries</td><td>251</td><td>5, 13</td><td>6,229,613,409,012</td><td>5,329,613,409,012</td></tr><tr><td>2.</td><td>Investments in associates</td><td>252</td><td>5, 14</td><td>492,500,000,000</td><td>492,500,000,000</td></tr><tr><td>3.</td><td>Equity investments in other entities</td><td>253</td><td>5</td><td>500,000,000</td><td>500,000,000</td></tr><tr><td>V.</td><td>Other long-term assets</td><td>260</td><td></td><td>1,490,327,424</td><td>2,673,950,821</td></tr><tr><td>1.</td><td>Long-term prepayments</td><td>261</td><td></td><td>1,490,327,424</td><td>2,673,950,821</td></tr><tr><td></td><td>TOTAL ASSETS (270=100+200)</td><td>270</td><td></td><td>16,604,172,723,297</td><td>11,305,646,772,891</td></tr></table>
+
+The accompanying notes are an integral part of these separate financial statements
+
+6
+
+1151 237 101
+
+===== PAGE 11 =====
+FPT CORPORATION
+
+No. 17 Duy Tan Street,
+
+Dich Vong Hau Ward, Cau Giay District,
+
+Hanoi, Vietnam
+
+FORM B 01-DN
+
+Issued under Circular No.200/2014/TT-BTC
+
+dated 22 December 2014 of the Ministry of Finance
+
+BALANCE SHEET (Continued)
+
+As at 31 December 2020
+
+Unit: VND
+
+<table><tr><td></td><td>RESOURCES</td><td>Codes</td><td>Notes</td><td>Closing balance</td><td>Opening balance</td></tr><tr><td>C.</td><td>LIABILITIES</td><td>300</td><td></td><td>5,498,847,412,441</td><td>1,621,704,112,496</td></tr><tr><td>I.</td><td>Current liabilities</td><td>310</td><td></td><td>5,249,581,662,441</td><td>1,371,611,362,496</td></tr><tr><td>1.</td><td>Short-term trade payables</td><td>311</td><td>15</td><td>473,313,612,285</td><td>284,069,594,062</td></tr><tr><td>2.</td><td>Short-term advances from customers</td><td>312</td><td></td><td>365,063,567</td><td>415,359,606</td></tr><tr><td>3.</td><td>Taxes and amounts payable to the State budget</td><td>313</td><td>16</td><td>4,357,222,239</td><td>1,016,234,712</td></tr><tr><td>4.</td><td>Payables to employees</td><td>314</td><td></td><td>30,968,596,336</td><td>6,616,863</td></tr><tr><td>5.</td><td>Short-term accrued expenses</td><td>315</td><td>17</td><td>39,671,569,536</td><td>48,517,203,398</td></tr><tr><td>6.</td><td>Short-term unearned revenue</td><td>318</td><td></td><td>3,847,703,821</td><td>1,037,282,677</td></tr><tr><td>7.</td><td>Other current payables</td><td>319</td><td>18</td><td>269,620,587,064</td><td>354,500,401,876</td></tr><tr><td>8.</td><td>Short-term loans</td><td>320</td><td>20</td><td>4,295,030,000,000</td><td>597,000,000,000</td></tr><tr><td>9.</td><td>Short-term provisions</td><td>321</td><td></td><td>10,189,080,000</td><td>20,368,500,000</td></tr><tr><td>10.</td><td>Bonus and welfare funds</td><td>322</td><td></td><td>122,218,227,593</td><td>64,680,169,302</td></tr><tr><td>II.</td><td>Long-term liabilities</td><td>330</td><td></td><td>249,265,750,000</td><td>250,092,750,000</td></tr><tr><td>1.</td><td>Long-term unearned revenue</td><td>336</td><td>19</td><td>249,265,750,000</td><td>250,092,750,000</td></tr><tr><td>D.</td><td>EQUITY</td><td>400</td><td></td><td>11,105,325,310,856</td><td>9,683,942,660,395</td></tr><tr><td>I.</td><td>Owners&#x27; equity</td><td>410</td><td>21</td><td>11,105,325,310,856</td><td>9,683,942,660,395</td></tr><tr><td>1.</td><td>Owners&#x27; contributed capital</td><td>411</td><td></td><td>7,839,874,860,000</td><td>6,783,586,880,000</td></tr><tr><td></td><td>- Ordinary shares carrying voting rights</td><td>411a</td><td></td><td>7,839,874,860,000</td><td>6,783,586,880,000</td></tr><tr><td>2.</td><td>Share premium</td><td>412</td><td></td><td>49,941,441,360</td><td>49,941,441,360</td></tr><tr><td>3.</td><td>Treasury shares</td><td>415</td><td></td><td>(823,760,000)</td><td>(823,760,000)</td></tr><tr><td>4.</td><td>Investment and development fund</td><td>418</td><td></td><td>103,009,261</td><td>103,009,261</td></tr><tr><td>5.</td><td>Other reserves</td><td>420</td><td></td><td>87,203,093,024</td><td>87,203,093,024</td></tr><tr><td>6.</td><td>Retained earnings</td><td>421</td><td></td><td>3,129,026,667,211</td><td>2,763,931,996,750</td></tr><tr><td></td><td>- Retained earnings accumulated to the prior year end</td><td>421a</td><td></td><td>1,028,610,004,465</td><td>1,527,643,010,297</td></tr><tr><td></td><td>- Retained earnings of the current year</td><td>421b</td><td></td><td>2,100,416,662,746</td><td>1,236,288,986,453</td></tr><tr><td></td><td>TOTAL RESOURCES (440=300+400)</td><td>440</td><td></td><td>16,604,172,723,297</td><td>11,305,646,772,891</td></tr></table>
+
+Nguyen Trong Nhan
+Preparer
+
+Chief Accountant
+
+Executive Vice President
+
+04 March 2021
+
+The accompanying notes are an integral part of these separate financial statements
+
+7
+
+===== PAGE 12 =====
+FPT CORPORATION
+
+No. 17 Duy Tan Street,
+
+Dich Vong Hau Ward, Cau Giay District,
+
+Hanoi, Vietnam
+
+FORM B 02-DN
+
+Issued under Circular No.200/2014/TT-BTC
+
+dated 22 December 2014 of the Ministry of Finance
+
+INCOME STATEMENT
+
+For the year ended 31 December 2020
+
+Unit: VND
+
+<table><tr><td></td><td>ITEMS</td><td>Codes</td><td>Notes</td><td>Current year</td><td>Prior year</td></tr><tr><td>1.</td><td>Gross revenue from services rendered</td><td>01</td><td>22</td><td>291,964,092,178</td><td>287,216,908,624</td></tr><tr><td>2.</td><td>Deductions</td><td>02</td><td>22</td><td>-</td><td>11,915,344</td></tr><tr><td>3.</td><td>Net revenue from services rendered (10=01-02)</td><td>10</td><td>22</td><td>291,964,092,178</td><td>287,204,993,280</td></tr><tr><td>4.</td><td>Cost of sales from services rendered</td><td>11</td><td>23</td><td>70,845,327,323</td><td>94,889,359,725</td></tr><tr><td>5.</td><td>Gross profit from services rendered (20=10-11)</td><td>20</td><td></td><td>221,118,764,855</td><td>192,315,633,555</td></tr><tr><td>6.</td><td>Financial income</td><td>21</td><td>25</td><td>3,189,254,995,222</td><td>2,107,370,302,786</td></tr><tr><td>7.</td><td>Financial expenses</td><td>22</td><td>26</td><td>139,062,950,468</td><td>51,489,613,035</td></tr><tr><td></td><td>-In which: Interest expense</td><td>23</td><td></td><td>138,911,372,017</td><td>51,462,109,416</td></tr><tr><td>8.</td><td>Selling expenses</td><td>25</td><td></td><td>4,380,835,730</td><td>3,174,519,314</td></tr><tr><td>9.</td><td>General and administration expenses</td><td>26</td><td>27</td><td>373,815,162,930</td><td>311,955,905,169</td></tr><tr><td>10.</td><td>Operating profit(30=20+(21-22)-(25+26))</td><td>30</td><td></td><td>2,893,114,810,949</td><td>1,933,065,898,823</td></tr><tr><td>11.</td><td>Other income</td><td>31</td><td></td><td>339,058,283</td><td>1,965,907,629</td></tr><tr><td>12.</td><td>Other expenses</td><td>32</td><td></td><td>323,922,416</td><td>8,258,078,455</td></tr><tr><td>13.</td><td>Profit/(loss) from other activities(40=31-32)</td><td>40</td><td></td><td>15,135,867</td><td>(6,292,170,826)</td></tr><tr><td>14.</td><td>Accounting profit before tax(50=30+40)</td><td>50</td><td></td><td>2,893,129,946,816</td><td>1,926,773,727,997</td></tr><tr><td>15.</td><td>Current corporate income tax expense</td><td>51</td><td>28</td><td>8,808,174,070</td><td>12,208,429,544</td></tr><tr><td>16.</td><td>Net profit after corporate income tax(60=50-51)</td><td>60</td><td></td><td>2,884,321,772,746</td><td>1,914,565,298,453</td></tr></table>
+
+Nguyen Trong Nhan
+Preparer
+
+Hoang Huu Chien
+Chief Accountant
+
+Nguyen The Phuong
+Executive Vice President
+
+04 March 2021
+
+The accompanying notes are an integral part of these separate financial statements
+
+8
+
+===== PAGE 13 =====
+FPT CORPORATION
+
+No. 17 Duy Tan Street,
+
+Dich Vong Hau Ward, Cau Giay District,
+
+Hanoi, Vietnam
+
+FORM B 03-DN
+
+Issued under Circular No.200/2014/TT-BTC
+
+dated 22 December 2014 of the Ministry of Finance
+
+CASH FLOW STATEMENT
+
+For the year ended 31 December 2020
+
+Unit: VND
+
+<table><tr><td></td><td>ITEMS</td><td>Codes</td><td>Current year</td><td>Prior year</td></tr><tr><td>I.</td><td colspan="4">CASH FLOWS FROM OPERATING ACTIVITIES</td></tr><tr><td>1.</td><td>Profit before tax</td><td>01</td><td>2,893,129,946,816</td><td>1,926,773,727,997</td></tr><tr><td rowspan="6">2.</td><td colspan="4">Adjustments for:</td></tr><tr><td>Depreciation and amortisation of fixed assets</td><td>02</td><td>21,262,963,030</td><td>19,964,873,678</td></tr><tr><td>Provisions</td><td>03</td><td>(13,501,855,348)</td><td>7,011,204,724</td></tr><tr><td>Foreign exchange losses arising from translating foreign currency items</td><td>04</td><td>944,683,303</td><td>823,406,129</td></tr><tr><td>(Gain) from investing activities</td><td>05</td><td>(3,187,425,347,830)</td><td>(2,100,548,849,731)</td></tr><tr><td>Interest expense</td><td>06</td><td>138,911,372,017</td><td>51,462,109,416</td></tr><tr><td rowspan="10">3.</td><td>Operating losses before movements in working capital</td><td>08</td><td>(146,678,238,012)</td><td>(94,513,527,787)</td></tr><tr><td>(Increase)/decrease in receivables</td><td>09</td><td>(57,276,007,688)</td><td>169,078,665,699</td></tr><tr><td>(Increase)/decrease in inventories</td><td>10</td><td>(8,092,548,035)</td><td>143,780,000</td></tr><tr><td>Increases in payables (excluding accrued loan interest and corporate income tax payable)</td><td>11</td><td>70,737,025,368</td><td>441,004,502,508</td></tr><tr><td>(Increase)/decrease in prepaid expenses</td><td>12</td><td>(67,450,891)</td><td>6,171,796,818</td></tr><tr><td>Interest paid</td><td>14</td><td>(115,112,989,462)</td><td>(45,972,542,507)</td></tr><tr><td>Corporate income tax paid</td><td>15</td><td>(5,000,000,001)</td><td>(16,457,758,065)</td></tr><tr><td>Other cash inflows</td><td>16</td><td>99,000,000,000</td><td>74,204,050,000</td></tr><tr><td>Other cash outflows</td><td>17</td><td>(41,461,941,709)</td><td>(38,073,829,999)</td></tr><tr><td>Net cash (used in)/generated by operating activities</td><td>20</td><td>(203,952,150,430)</td><td>495,585,136,667</td></tr><tr><td>II.</td><td colspan="4">CASH FLOWS FROM INVESTING ACTIVITIES</td></tr><tr><td>1.</td><td>Acquisition and construction of fixed assets and other long-term assets</td><td>21</td><td>(505,388,867,077)</td><td>(349,033,283,112)</td></tr><tr><td>2.</td><td>Proceeds from sale, disposal of fixed assets and other long-term assets</td><td>22</td><td>335,860,063</td><td>1,764,181,818</td></tr><tr><td>3.</td><td>Cash outflow for lending, buying debt instruments of other entities</td><td>23</td><td>(8,574,100,000,000)</td><td>(5,547,200,000,000)</td></tr><tr><td>4.</td><td>Cash recovered from lending, selling debt instruments of other entities</td><td>24</td><td>6,397,600,000,000</td><td>4,785,200,000,000</td></tr><tr><td>5.</td><td>Equity investments in other entities</td><td>25</td><td>(900,000,000,000)</td><td>(550,000,000,000)</td></tr><tr><td>6.</td><td>Cash recovered from investments in other entities</td><td>26</td><td>-</td><td>90,606,000,000</td></tr><tr><td rowspan="2">7.</td><td>Interest earned, dividends and profits received</td><td>27</td><td>2,859,860,627,501</td><td>1,961,344,758,181</td></tr><tr><td>Net cash generated by investing activities</td><td>30</td><td>(721,692,379,513)</td><td>392,681,656,887</td></tr></table>
+
+The accompanying notes are an integral part of these separate financial statements
+
+9
+
+.001
+CÔT
+DEL
+VIÊ
+VGÊ
+
+===== PAGE 14 =====
+FPT CORPORATION
+
+No. 17 Duy Tan Street,
+
+Dich Vong Hau Ward, Cau Giay District,
+
+Hanoi, Vietnam
+
+FORM B 03-DN
+
+Issued under Circular No.200/2014/TT-BTC
+
+dated 22 December 2014 of the Ministry of Finance
+
+CASH FLOW STATEMENT (Continued)
+
+For the year ended 31 December 2020
+
+Unit: VND
+
+<table><tr><td>ITEMS</td><td>Codes</td><td>Current year</td><td>Prior year</td></tr><tr><td colspan="4">III. CASH FLOWS FROM FINANCING ACTIVITIES</td></tr><tr><td>1. Proceeds from share issue and owners&#x27; contributed capital</td><td>31</td><td>33,917,900,000</td><td>30,672,000,000</td></tr><tr><td>2. Proceeds from borrowings</td><td>33</td><td>10,657,030,000,000</td><td>2,689,000,000,000</td></tr><tr><td>3. Repayment of borrowings</td><td>34</td><td>(6,959,000,000,000)</td><td>(2,622,000,000,000)</td></tr><tr><td>4. Dividends and profits paid</td><td>36</td><td>(1,464,543,679,775)</td><td>(1,294,140,941,400)</td></tr><tr><td>Net cash generated by/(used in) financing activities</td><td>40</td><td>2,267,404,220,225</td><td>(1,196,468,941,400)</td></tr><tr><td>Net increase/(decrease) in cash (50=20+30+40)</td><td>50</td><td>1,341,759,690,282</td><td>(308,202,147,846)</td></tr><tr><td>Cash and cash equivalents at the beginning of the year</td><td>60</td><td>720,832,090,017</td><td>1,028,875,665,356</td></tr><tr><td>Effects of changes in foreign exchange rates</td><td>61</td><td>153,053,849</td><td>158,572,507</td></tr><tr><td>Cash and cash equivalents at the end of the year (70=50+60+61)</td><td>70</td><td>2,062,744,834,148</td><td>720,832,090,017</td></tr></table>
+
+04 March 2021
+
+The accompanying notes are an integral part of these separate financial statements
+
+10
+
+121 7050 181
+
+===== PAGE 15 =====
+FPT CORPORATION
+
+No. 17 Duy Tan Street,
+
+Dich Vong Hau Ward, Cau Giay District,
+
+Hanoi, Vietnam
+
+FORM B 09-DN
+
+Issued under Circular No.200/2014/TT-BTC
+
+dated 22 December 2014 of the Ministry of Finance
+
+NOTES TO THE SEPARATE FINANCIAL STATEMENTS
+
+These notes are an integral part of and should be read in conjunction with the accompanying separate financial statements
+
+1. GENERAL INFORMATION
+
+Structure of ownership
+
+FPT Corporation (the "Company") was incorporated as a State-owned company in Vietnam and subsequently equitised in accordance with Decision No. 178/QD-TTg, following which the Company officially operated as a joint stock company. FPT Corporation operates under Business Registration Certificate No. 0103001041 issued for the first time by Hanoi Authority for Planning and Investment dated 13 May 2002 and its amendments.
+
+According to the latest amended Business Registration Certificate dated 04 June 2020, the Company's total charter capital is VND 7,839,874,860,000.
+
+Since December 2006, the Company's shares have been listed on Ho Chi Minh City Stock Exchange.
+
+The number of employees of the Company as at 31 December 2020 was 243 (31 December 2019: 216).
+
+Operating industry and principal activities
+
+The principal activities of the Company are to provide information technology and telecommunication products and services and to make investments. The main products and services provided are system integration; software production and software service provision; IT services, ERP services; Technological product manufacturing; IT product distribution; mobile phone distribution; software solution services; telecommunication and internet services; training; warranty and maintenance of telecommunication and IT equipment and other telecommunication services.
+
+Normal production and business cycle
+
+The Company's normal production and business cycle is carried out for a time period of 12 months or less.
+
+The Corporation's structure:
+
+As at 31 December 2020, FPT Corporation had 01 branch including Branch in Ho Chi Minh City - FPT Corporation (Hanoi City), 7 subsidiaries and 2 associates.
+
+Subsidiaries of the Company including:
+
+• FPT Information System Corporation;
+
+• FPT Telecom Joint Stock Company;
+
+• FPT Software Company Limited;
+
+• FPT Education Company Limited;
+
+• FPT Online Service Joint Stock Company;
+
+• FPT Investment Company Limited; and
+
+• FPT Smart Cloud Company Limited.
+
+11
+
+||| ≥ 3 > /8 ||
+
+===== PAGE 16 =====
+FPT CORPORATION
+
+NOTES TO THE SEPARATE FINANCIAL STATEMENTS (Continued)
+
+FORM B 09-DN
+
+Associates of the Company including:
+
+• FPT Digital Retail Joint Stock Company; and
+
+• Synnex FPT Joint Stock Company.
+
+Disclosure of information comparability in the separate financial statements
+
+Comparative figures are the figures of the audited separate financial statements for the year ended 31 December 2019.
+
+2. ACCOUNTING CONVENTION AND FINANCIAL YEAR
+
+Accounting convention
+
+The accompanying separate financial statements, expressed in Vietnam Dong (VND), are prepared under the historical cost convention and in accordance with Vietnamese Accounting Standards, accounting regime for enterprises and legal regulations relating to financial reporting.
+
+The accompanying separate financial statements are not intended to present the financial position, results of operations and cash flows in accordance with accounting principles and practices generally accepted in countries and jurisdictions other than Vietnam.
+
+These separate financial statements are prepared exclusively for the Company and do not include financial statements of subsidiaries. Users of separate financial statements should read together with the Company's consolidated financial statements for the year ended 31 December 2020 for complete information on the Company's financial position as well as operating results and cash flows during the year.
+
+Financial year
+
+The Company's financial year begins on 01 January and ends on 31 December.
+
+3. SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+
+The significant accounting policies, which have been adopted by the Company in the preparation of these separate financial statements, are as follows:
+
+Estimates
+
+The preparation of the separate financial statements in conformity with Vietnamese Accounting Standards, accounting regime for enterprises and legal regulations relating to financial reporting requires management to make estimates and assumptions that affect the reported amounts of assets, liabilities and disclosures of contingent assets and liabilities at the date of the separate financial statements and the reported amounts of revenues and expenses during the financial year. Although these accounting estimates are based on the management's best knowledge, actual results may differ from those estimates.
+
+12
+
+===== PAGE 17 =====
+FPT CORPORATION
+
+NOTES TO THE SEPARATE FINANCIAL STATEMENTS (Continued)
+
+FORM B 09-DN
+
+Cash and cash equivalents
+
+Cash and cash equivalents comprise cash on hand, demand deposits and short-term, highly liquid investments that are readily convertible to known amounts of cash and which are subject to an insignificant risk of changes in value.
+
+Financial investments
+
+Held-to-maturity investments
+
+Held-to-maturity investments comprise investments that the Company has the positive intent or ability to hold to maturity, including term deposits.
+
+Held-to-maturity investments are recognised on a trade date basis and are initially measured at acquisition price plus directly attributable transaction costs. Post-acquisition interest income from held-to-maturity investments is recognised in the income statement on accrual basis. Pre-acquisition interest is deducted from the cost of such investments at the acquisition date.
+
+Held-to-maturity investments are measured at cost less provision for doubtful debts.
+
+Provision for doubtful debts relating to held-to-maturity investments is made in accordance with prevailing accounting regulations.
+
+Loan receivables
+
+Loan receivables are measured at cost less provision for doubtful debts. Provision for doubtful debts relating to loan receivables is made in accordance with prevailing accounting regulations.
+
+Investments
+
+Investment in subsidiaries
+
+A subsidiary is an entity over which the Company has control. Control is achieved where the Company has the power to govern the financial and operating policies of an investee enterprise so as to obtain benefits from its activities.
+
+Investments in associates
+
+An associate is an entity over which the Company has significant influence and that is neither a subsidiary nor an interest in joint venture. Significant influence is the power to participate in the financial and operating policy decisions of the investee but not control or joint control over those policies.
+
+Investment in subsidiaries, associates are initially recognised at cost. The Company's share of the net profit of the investee after acquisition is recognised in the income statement. Other distributions received other than such profit share are deducted from the cost of the investments as recoverable amounts.
+
+13
+
+===== PAGE 18 =====
+FPT CORPORATION
+
+NOTES TO THE SEPARATE FINANCIAL STATEMENTS (Continued)
+
+FORM B 09-DN
+
+Interests in subsidiaries, associates are carried in the balance sheet at cost less provision for impairment of such investments (if any). Provisions for impairment of investments in subsidiaries, joint ventures and associates are made when there is reliable evidence for declining in value of these investments at the balance sheet date.
+
+Equity investments in other entities
+
+Equity investments in other entities represent the Company's investments in ordinary shares of the entities over which the Company has no control, joint control, or significant influence.
+
+Equity investments in other entities are carried at cost less provision for impairment.
+
+Receivables
+
+Receivables represent the amounts recoverable from customers or other debtors and are stated at book value less provision for doubtful debts.
+
+Provision for doubtful debts is made for receivables that are overdue for six months or more, or when the debtor is in dissolution, in bankruptcy, or is experiencing similar difficulties and so may be unable to repay the debt.
+
+Inventories
+
+Inventory recording method is the perpetual method. Inventories are stated at the lower of cost and net realizable value. Cost comprises cost of purchases and other directly attributable expenses. Cost of inventories is calculated using the first in, first out (FIFO) method. Net realizable value represents the estimated selling price less all estimated costs to completion and costs to be incurred in marketing, selling and distribution.
+
+The evaluation of necessary provision for inventory obsolescence follows current prevailing accounting regulations, which allow provisions to be made for obsolete, damaged, or sub-standard inventories and for those which have costs higher than net realizable values as at the balance sheet date.
+
+Tangible fixed assets and depreciation
+
+Tangible fixed assets are stated at cost less accumulated depreciation.
+
+The costs of purchased tangible fixed assets comprise their purchase prices and any directly attributable costs of bringing the assets to their working condition and location for their intended use.
+
+The costs of self-constructed or manufactured assets are the actual construction or manufacturing cost plus installation and test running costs.
+
+Tangible fixed assets are depreciated using the straight-line method over their estimated useful lives as follows:
+
+<table><tr><td></td><td>Years</td></tr><tr><td>Buildings and structures</td><td>10 - 25</td></tr><tr><td>Machinery and equipment</td><td>5 - 25</td></tr><tr><td>Office equipment</td><td>3 - 5</td></tr><tr><td>Motor vehicles</td><td>4 - 6</td></tr><tr><td>Other assets</td><td>3 - 4</td></tr></table>
+
+14
+
+===== PAGE 19 =====
+FPT CORPORATION
+
+NOTES TO THE SEPARATE FINANCIAL STATEMENTS (Continued)
+
+FORM B 09-DN
+
+Loss or gain resulting from sales and disposals of tangible fixed assets is the difference between profit from sales or disposals of assets and their residual values and is recognised in the interim income statement.
+
+Intangible assets and amortisation
+
+Intangible asset represents computer software that is stated at cost less amortization. Purchase price of new computer software which is not an integral part of related hardware is capitalized and accounted for as intangible assets. Computer software is amortised into the income statement on a straight-line basis from 3 to 5 years.
+
+Construction in progress
+
+Properties in the course of construction for production, rental or administrative purposes, or for other purposes, are carried at cost. Cost includes related professional fees, borrowing costs in accordance with the Company's accounting policy. Depreciation of these assets, on the same basis as other assets, commences when the assets are ready for their intended use.
+
+Prepayments
+
+Prepayments are expenses which have already been paid but relate to results of operations of multiple accounting periods.
+
+Prepaid expenses include the value of tools, supplies, small equipment, and office renovation costs that expected to provide future economic benefits to the Company. These expenses are capitalized as prepayments and are allocated to the income statement using the straight-line method in accordance with the current prevailing accounting regulations.
+
+Revenue recognition
+
+Revenue from rendering of services
+
+Revenue of a transaction involving the rendering of services is recognised when the outcome of such transaction can be measured reliably. Where a transaction involving the rendering of services is attributable to several periods, revenue is recognised in each period by reference to the percentage of completion of the transaction at the balance sheet date of that period. The outcome of a transaction can be measured reliably when all four (4) following conditions are satisfied:
+
+(a) the amount of revenue can be measured reliably;
+
+(b) it is probable that the economic benefits associated with the transaction will flow to the Company;
+
+(c) the percentage of completion of the transaction at the balance sheet date can be measured reliably; and
+
+(d) the costs incurred for the transaction and the costs to complete the transaction can be measured reliably.
+
+Interest income
+
+Interest income is accrued on a time basis, by reference to the principal outstanding and at the applicable interest rate.
+
+15
+
+===== PAGE 20 =====
+FPT CORPORATION
+
+NOTES TO THE SEPARATE FINANCIAL STATEMENTS (Continued)
+
+FORM B 09-DN
+
+Dividend income
+
+Dividend income from investments is recognised when the Company's right to receive payment has been established.
+
+Foreign currencies
+
+Transactions arising in foreign currencies are translated at exchange rates ruling at the transaction date. The balances of monetary items denominated in foreign currencies as at the balance sheet date are retranslated at the exchange rates on the same date. Exchange differences arising from the translation of these accounts are recognised in the income statement.
+
+Borrowing costs
+
+Borrowing costs are recognised in the income statement in the year.
+
+Related parties
+
+Related parties comprise subsidiaries, associates and key management personnel of the Company.
+
+Taxation
+
+Income tax expense represents the sum of the tax currently payable and deferred tax.
+
+The tax currently payable is based on taxable profit for the year. Taxable profit differs from profit before tax as reported in the income statement because it excludes items of income or expense that are taxable or deductible in other years (including loss carried forward, if any) and it further excludes items that are never taxable or deductible.
+
+Deferred tax is recognised on significant differences between carrying amounts of assets and liabilities in the separate financial statements and the corresponding tax bases used in the computation of taxable profit and is accounted for using balance sheet liability method. Deferred tax liabilities are generally recognised for all temporary differences and deferred tax assets are recognised to the extent that it is probable that taxable profit will be available against which deductible temporary differences can be utilised.
+
+Deferred tax is calculated at the tax rates that are expected to apply in the year when the liability is settled or the asset realised. Deferred tax is charged or credited to profit or loss, except when it relates to items charged or credited directly to equity, in which case the deferred tax is also dealt with in equity.
+
+Deferred tax assets and liabilities are offset when there is a legally enforceable right to set off current tax assets against current tax liabilities and when they relate to income taxes levied by the same tax authority and the Company intends to settle its current tax assets and liabilities on a net basis.
+
+The determination of the tax currently payable is based on the current interpretation of tax regulations. However, these regulations are subject to periodic variation and their ultimate determination depends on the results of the tax authorities' examinations.
+
+Other taxes are paid in accordance with the prevailing tax laws in Vietnam.
+
+16
+
+“”
+
+===== PAGE 21 =====
+FPT CORPORATION
+
+NOTES TO THE SEPARATE FINANCIAL STATEMENTS (Continued)
+
+FORM B 09-DN
+
+4. CASH AND CASH EQUIVALENTS
+
+<table><tr><td rowspan="2"></td><td>Closing balance</td><td>Opening balance</td></tr><tr><td>VND</td><td>VND</td></tr><tr><td>Cash on hand</td><td>144,246,940</td><td>523,074,013</td></tr><tr><td>Bank demand deposits</td><td>151,500,587,208</td><td>334,309,016,004</td></tr><tr><td>Cash equivalents (i)</td><td>1,911,100,000,000</td><td>386,000,000,000</td></tr><tr><td></td><td>2,062,744,834,148</td><td>720,832,090,017</td></tr></table>
+
+(i) Cash equivalents represent time deposits at banks with original terms of three months or less.
+
+5. FINANCIAL INVESTMENTS
+
+a. Held-to-maturity investments
+
+<table><tr><td rowspan="3"></td><td colspan="2">Closing balance</td><td colspan="2">Opening balance</td></tr><tr><td colspan="2">VND</td><td colspan="2">VND</td></tr><tr><td>Cost</td><td>Carrying amount</td><td>Cost</td><td>Carrying amount</td></tr><tr><td>Term deposits (i)</td><td>4,534,100,000,000</td><td>4,534,100,000,000</td><td>2,526,500,000,000</td><td>2,526,500,000,000</td></tr></table>
+
+(i) Term deposits represent bank deposits with an original term of more than 3 months and the remaining maturity not exceeding 12 months.
+
+17
+
+125
+NG
+NHI
+OI
+TN
+PA-
+
+===== PAGE 22 =====
+FPT CORPORATION
+
+NOTES TO THE SEPARATE FINANCIAL STATEMENTS (Continued)
+
+FORM B 09-DN
+
+b. Long-term investments
+
+<table><tr><td rowspan="2"></td><td colspan="3">Closing balance</td><td colspan="2">Opening balance</td></tr><tr><td>Cost</td><td>Fair value</td><td>VND Note</td><td>Cost</td><td>VND Fair value</td></tr><tr><td>b1) Investments in subsidiaries</td><td>6,229,613,409,012</td><td>15,302,240,988,317</td><td></td><td>5,329,613,409,012</td><td>11,828,246,911,595</td></tr><tr><td>FPT Information System Corporation</td><td>850,000,000,000</td><td>1,374,337,963,283</td><td>(i)</td><td>850,000,000,000</td><td>1,271,323,740,373</td></tr><tr><td>FPT Investment Company Limited</td><td>800,000,000,000</td><td>1,058,195,532,749</td><td>(i)</td><td>800,000,000,000</td><td>909,072,750,414</td></tr><tr><td>FPT Education Company Limited (*)</td><td>1,000,000,000,000</td><td>1,431,741,260,414</td><td>(i)</td><td>600,000,000,000</td><td>876,363,953,331</td></tr><tr><td>FPT Software Company Limited (*)</td><td>2,812,073,500,000</td><td>3,880,399,379,399</td><td>(i)</td><td>2,412,073,500,000</td><td>3,365,656,284,576</td></tr><tr><td>FPT Telecom Joint Stock Company</td><td>585,592,515,312</td><td>7,008,173,680,200</td><td>(ii)</td><td>585,592,515,312</td><td>4,962,845,430,900</td></tr><tr><td>FPT Smart Cloud Company Limited (*)</td><td>100,000,000,000</td><td>86,192,846,272</td><td>(i)</td><td>-</td><td>-</td></tr><tr><td>FPT Online Service Joint Stock Company</td><td>81,947,393,700</td><td>463,200,326,000</td><td>(ii)</td><td>81,947,393,700</td><td>442,984,752,000</td></tr><tr><td>b2) Investment in associates</td><td>492,500,000,000</td><td>2,127,471,020,610</td><td></td><td>492,500,000,000</td><td>1,710,424,837,234</td></tr><tr><td>Synnex FPT Joint Stock Company</td><td>398,500,000,000</td><td>951,343,020,610</td><td>(i)</td><td>398,500,000,000</td><td>936,753,137,234</td></tr><tr><td>FPT Digital Retail Joint Stock Company</td><td>94,000,000,000</td><td>1,176,128,000,000</td><td>(ii)</td><td>94,000,000,000</td><td>773,671,700,000</td></tr><tr><td>b3) Equity investments in others entities</td><td>500,000,000</td><td>500,000,000</td><td></td><td>500,000,000</td><td>500,000,000</td></tr><tr><td>Ring road No.4 construction project</td><td>500,000,000</td><td>500,000,000</td><td>(i)</td><td>500,000,000</td><td>500,000,000</td></tr></table>
+
+(*) During the year, the Company contributed capital in cash to FPT Education Company Limited, FPT Software Company Limited and FPT Smart Cloud Company Limited with the value of VND 400 billion, VND 400 billion and VND 100 billion respectively.
+
+In accordance with Circular No. 200/2014/TT-BTC dated 22 December 2014, the fair value of investments in subsidiaries, associates and equity investments in other entities as at 31 December 2020 should be presented. According to assessment of the Board of Management, the fair value of the investments presented above is determined as follows:
+
+(i) The minimum value that can be achieved based on book value or corresponding valuations according to market prices of these investments at the end of the financial year.
+
+(ii) Fair value that is determined based on the closing price on the stock exchange and the number of shares held by the Company at the end of the financial year.
+
+18
+
+\( \left\| \begin{array}{c} I_{PH} \\ AM \\ TE \\ TY \\ CO \end{array} \right\| \)
+
+===== PAGE 23 =====
+FPT CORPORATION
+
+NOTES TO THE SEPARATE FINANCIAL STATEMENTS (Continued)
+
+FORM B 09-DN
+
+Current year
+
+Prior year
+
+b4) The performance of subsidiaries during the year:
+
+<table><tr><td>FPT Information System Corporation</td><td>Profitable operation</td><td>Profitable operation</td></tr><tr><td>FPT Investment Company Limited</td><td>Profitable operation</td><td>Profitable operation</td></tr><tr><td>FPT Education Company Limited</td><td>Profitable operation</td><td>Profitable operation</td></tr><tr><td>FPT Software Company Limited</td><td>Profitable operation</td><td>Profitable operation</td></tr><tr><td>FPT Telecom Joint Stock Company</td><td>Profitable operation</td><td>Profitable operation</td></tr><tr><td>FPT Online Service Joint Stock Company</td><td>Profitable operation</td><td>Profitable operation</td></tr><tr><td>FPT Smart Cloud Company Limited</td><td>Loss operation</td><td>Not yet established</td></tr></table>
+
+b5) The performance of associates during the year:
+
+<table><tr><td>Synnex FPT Joint Stock Company</td><td>Profitable operation</td><td>Profitable operation</td></tr><tr><td>FPT Digital Retail Joint Stock Company</td><td>Profitable operation</td><td>Profitable operation</td></tr></table>
+
+Internal transactions between the Company and its subsidiaries and associates during the year are stated in Note 29.
+
+6. SHORT-TERM TRADE RECEIVABLES
+
+<table><tr><td rowspan="2"></td><td>Closing balance</td><td>Opening balance</td></tr><tr><td>VND</td><td>VND</td></tr><tr><td>Berjaya Gia Thinh Investment Technology Joint Stock Company</td><td>47,124,798,719</td><td>44,947,786,921</td></tr><tr><td>FPT Software Company Limited</td><td>18,612,653,037</td><td>14,274,687,281</td></tr><tr><td>FPT Telecom Joint Stock Company</td><td>16,827,370,007</td><td>15,366,524,127</td></tr><tr><td>Others</td><td>21,127,397,703</td><td>8,147,054,012</td></tr><tr><td></td><td>103,692,219,466</td><td>82,736,052,341</td></tr><tr><td>Short-term receivables from related parties (Details stated in Note 29)</td><td>54,450,485,945</td><td>35,877,180,676</td></tr></table>
+
+7. SHORT-TERM ADVANCES TO SUPPLIERS
+
+<table><tr><td rowspan="2"></td><td>Closing balance</td><td>Opening balance</td></tr><tr><td>VND</td><td>VND</td></tr><tr><td>Phu Thai Industries Company Limited</td><td>26,720,495,049</td><td>-</td></tr><tr><td>319 Corporation - Ministry of National Defence</td><td>17,717,894,750</td><td>28,722,375,000</td></tr><tr><td>Vietnam Installation Construction and Refrigeratory Joint Stock Company</td><td>10,208,505,200</td><td>-</td></tr><tr><td>TID Facade Joint Stock Company</td><td>2,932,903,201</td><td>9,744,768,686</td></tr><tr><td>Vietnam Investment Construction and Trading Joint Stock Company</td><td>-</td><td>14,533,886,940</td></tr><tr><td>Other suppliers</td><td>42,914,624,601</td><td>1,743,041,861</td></tr><tr><td></td><td>100,494,422,801</td><td>54,744,072,487</td></tr></table>
+
+19
+
+===== PAGE 24 =====
+FPT CORPORATION
+
+NOTES TO THE SEPARATE FINANCIAL STATEMENTS (Continued)
+
+FORM B 09-DN
+
+8. LOAN RECEIVABLES
+
+<table><tr><td rowspan="2"></td><td>Closing balance</td><td>Opening balance</td></tr><tr><td>VND</td><td>VND</td></tr><tr><td colspan="3">a. Short-term loan receivables</td></tr><tr><td>FPT Invest Company Limited</td><td>185,000,000,000</td><td>-</td></tr><tr><td>FPT Technology Solutions Company Limited</td><td>-</td><td>17,500,000,000</td></tr><tr><td>FPT Land Company Limited</td><td>10,500,000,000</td><td>9,500,000,000</td></tr><tr><td></td><td>195,500,000,000</td><td>27,000,000,000</td></tr><tr><td colspan="3">b. Long-term loan receivables</td></tr><tr><td>FPT Land Company Limited</td><td>400,000,000</td><td>-</td></tr><tr><td></td><td>400,000,000</td><td>-</td></tr><tr><td>Loan receivables from related parties(Details stated in Note 29)</td><td>195,900,000,000</td><td>27,000,000,000</td></tr></table>
+
+Short-term loan receivables represent loans to inter-group companies with terms of more than three months and less than one year.
+
+Long-term loan receivables represent loans to inter-group companies with the remaining term of more than one year.
+
+9. OTHER SHORT-TERM RECEIVABLES
+
+<table><tr><td rowspan="2"></td><td>Closing balance</td><td>Opening balance</td></tr><tr><td>VND</td><td>VND</td></tr><tr><td>Dividends, profits receivable from subsidiaries</td><td>819,845,764,000</td><td>510,000,000,000</td></tr><tr><td>Bank and loan interest</td><td>106,302,578,474</td><td>88,665,255,547</td></tr><tr><td>Deposits and mortgages</td><td>4,629,892,952</td><td>4,634,837,367</td></tr><tr><td>Others</td><td>208,716,028,596</td><td>257,689,185,976</td></tr><tr><td>- FPT Information System Corporation</td><td>135,839,638,954</td><td>142,044,288,335</td></tr><tr><td>- FPT Land Company Limited</td><td>51,280,039,983</td><td>51,280,039,983</td></tr><tr><td>- FPT Investment Company Limited</td><td>5,916,577,555</td><td>40,921,089,055</td></tr><tr><td>- Others</td><td>15,679,772,104</td><td>23,443,768,603</td></tr><tr><td></td><td>1,139,494,264,022</td><td>860,989,278,890</td></tr><tr><td>Other short-term receivables from related parties (Details stated in Note 29)</td><td>1,014,442,550,596</td><td>744,519,334,038</td></tr></table>
+
+20
+
+===== PAGE 25 =====
+FPT CORPORATION
+
+NOTES TO THE SEPARATE FINANCIAL STATEMENTS (Continued)
+
+FORM B 09-DN
+
+10. INCREASE, DECREASE IN TANGIBLE FIXED ASSETS
+
+<table><tr><td rowspan="2"></td><td>Buildings and structures</td><td>Machinery and equipment</td><td>Office equipment</td><td>Motor vehicles</td><td>Others</td><td>Total</td></tr><tr><td>VND</td><td>VND</td><td>VND</td><td>VND</td><td>VND</td><td>VND</td></tr><tr><td colspan="7">COST</td></tr><tr><td>Opening balance</td><td>170,011,427,079</td><td>41,031,039,946</td><td>64,350,002,470</td><td>18,162,090,455</td><td>376,890,951</td><td>293,931,450,901</td></tr><tr><td>Additions</td><td>4,801,502,727</td><td>-</td><td>5,391,837,517</td><td>-</td><td>-</td><td>10,193,340,244</td></tr><tr><td>Transfer from construction</td><td>196,762,385,006</td><td>-</td><td>910,405,597</td><td>-</td><td>-</td><td>197,672,790,603</td></tr><tr><td>Disposals</td><td>-</td><td>(192,204,399)</td><td>(7,764,556,898)</td><td>-</td><td>-</td><td>(7,956,761,297)</td></tr><tr><td>Others</td><td>-</td><td>283,996,550</td><td>296,133,330</td><td>-</td><td>-</td><td>580,129,880</td></tr><tr><td>Closing balance</td><td>371,575,314,812</td><td>41,122,832,097</td><td>63,183,822,016</td><td>18,162,090,455</td><td>376,890,951</td><td>494,420,950,331</td></tr><tr><td colspan="7">ACCUMULATED DEPRECIATION</td></tr><tr><td>Opening balance</td><td>53,739,809,474</td><td>40,766,581,141</td><td>54,617,722,257</td><td>6,754,467,512</td><td>376,890,951</td><td>156,255,471,335</td></tr><tr><td>Charge for the year</td><td>7,426,239,705</td><td>121,451,719</td><td>6,313,641,155</td><td>3,010,348,408</td><td>-</td><td>16,871,680,987</td></tr><tr><td>Disposals</td><td>-</td><td>(192,204,399)</td><td>(7,515,213,534)</td><td>-</td><td>-</td><td>(7,707,417,933)</td></tr><tr><td>Others</td><td>-</td><td>291,354,980</td><td>288,774,900</td><td>-</td><td>-</td><td>580,129,880</td></tr><tr><td>Closing balance</td><td>61,166,049,179</td><td>40,987,183,441</td><td>53,704,924,778</td><td>9,764,815,920</td><td>376,890,951</td><td>165,999,864,269</td></tr><tr><td colspan="7">NET BOOK VALUE</td></tr><tr><td>Opening balance</td><td>116,271,617,605</td><td>264,458,805</td><td>9,732,280,213</td><td>11,407,622,943</td><td>-</td><td>137,675,979,566</td></tr><tr><td>Closing balance</td><td>310,409,265,633</td><td>135,648,656</td><td>9,478,897,238</td><td>8,397,274,535</td><td>-</td><td>328,421,086,062</td></tr></table>
+
+As at 31 December 2020, the cost of the Company's tangible fixed assets includes VND 100,655,420,068 (as at 31 December 2019: VND 101,022,214,728) of machinery, equipment, motor vehicles and office equipment which have been fully depreciated but are still in use.
+
+21
+
+(8) CC DE VIE (51)
+
+===== PAGE 26 =====
+FPT CORPORATION
+
+NOTES TO THE SEPARATE FINANCIAL STATEMENTS (Continued)
+
+FORM B 09-DN
+
+11. INCREASE, DECREASE IN INTANGIBLE ASSETS
+
+<table><tr><td rowspan="2"></td><td>Computersoftware</td></tr><tr><td>VND</td></tr><tr><td colspan="2">COST</td></tr><tr><td>Opening balance</td><td>73,932,991,892</td></tr><tr><td>Purchases</td><td>7,126,570,000</td></tr><tr><td>Closing balance</td><td>81,059,561,892</td></tr><tr><td colspan="2">ACCUMULATED AMORTIZATION</td></tr><tr><td>Opening balance</td><td>64,753,746,941</td></tr><tr><td>Charge for the year</td><td>4,391,282,043</td></tr><tr><td>Closing balance</td><td>69,145,028,984</td></tr><tr><td colspan="2">NET BOOK VALUE</td></tr><tr><td>Opening balance</td><td>9,179,244,951</td></tr><tr><td>Closing balance</td><td>11,914,532,908</td></tr></table>
+
+The cost of intangible assets includes VND 59,763,566,560 (31 December 2019: VND 58,935,631,560) of assets which have been fully amortized but are still in use.
+
+12. CONSTRUCTION IN PROGRESS
+
+<table><tr><td rowspan="2"></td><td>Closing balance</td><td>Opening balance</td></tr><tr><td>VND</td><td>VND</td></tr><tr><td>FPT Tower building project</td><td>1,333,086,970,636</td><td>978,819,494,856</td></tr><tr><td>FPT University Project</td><td>-</td><td>70,617,064,125</td></tr><tr><td>Others</td><td>7,656,160,172</td><td>910,405,597</td></tr><tr><td></td><td>1,340,743,130,808</td><td>1,050,346,964,578</td></tr></table>
+
+22
+
+1121 10232121
+
+===== PAGE 27 =====
+FPT CORPORATION
+
+NOTES TO THE SEPARATE FINANCIAL STATEMENTS (Continued)
+
+FORM B 09-DN
+
+13. INVESTMENTS IN SUBSIDIARIES
+
+Details of the Company's subsidiaries as at 31 December 2020 are as follows:
+
+<table><tr><td>Name of subsidiary</td><td>Place of incorporation and operation</td><td>Proportion of ownership interest (direct and indirect)</td><td>Proportion of voting power held</td><td>Principal activities</td></tr><tr><td>FPT Information System Corporation</td><td>Floor 22, Keangnam Landmark 72, E6, Pham Hung Street, Me Tri, Tu Liem, Hanoi</td><td>100%</td><td>100%</td><td>Providing application software solution, ERP services, IT services and integrated system services</td></tr><tr><td>FPT Software Company Limited</td><td>No. 17 Duy Tan Street, Dich Vong Hau Ward, Cau Giay District, Hanoi</td><td>100%</td><td>100%</td><td>Providing software services and products</td></tr><tr><td>FPT Telecom Joint Stock Company (i)</td><td>No. 17 Duy Tan Street, Dich Vong Hau Ward, Cau Giay District, Hanoi</td><td>45.65%</td><td>45.65%</td><td>Providing ADSL services, fixed line internet services, online advertising and other online services</td></tr><tr><td>FPT Education Company Limited</td><td>No. 17 Duy Tan Street, Dich Vong Hau Ward, Cau Giay District, Hanoi</td><td>100%</td><td>100%</td><td>Providing training and technology services</td></tr><tr><td>FPT Online Service Joint Stock Company</td><td>Lot L 29B-31B-33B Tan Thuan Street, Tan Thuan Dong Ward, District 7, Ho Chi Minh City</td><td>49.52%</td><td>84.15%</td><td>Providing online services</td></tr><tr><td>FPT Investment Company Limited</td><td>No. 17 Duy Tan Street, Dich Vong Hau Ward, Cau Giay District, Hanoi</td><td>100%</td><td>100%</td><td>Providing financial services activities (investment consulting services, excluding legal and financial consulting services)</td></tr><tr><td>FPT Smart Cloud Company Limited</td><td>No.17 Duy Tan Street, Dich Vong Hau Ward, Cau Giay District, Hanoi</td><td>100%</td><td>100%</td><td>Providing IT services and other services related to computers</td></tr></table>
+
+(i) As at 31 December 2020, FPT Corporation holds 45.65% ownership interest (31 December 2019: 45.65%) and 45.65% of voting rights (31 December 2019: 45.65%) at FPT Telecom Joint Stock Company. However, the Company has the power to cast the majority of votes at meetings of the Board of Directors of FPT Telecom Joint Stock Company. Thus, the Company has the power to control the financial and operating policies of FPT Telecom Joint Stock Company. Accordingly, the Company has control over FPT Telecom Joint Stock Company and therefore, FPT Telecom Joint Stock Company is regarded as a subsidiary of the Company.
+
+23
+
+11-1 5-2+1
+
+===== PAGE 28 =====
+FPT CORPORATION
+
+NOTES TO THE SEPARATE FINANCIAL STATEMENTS (Continued)
+
+FORM B 09-DN
+
+14. INVESTMENT IN ASSOCIATES
+
+Details of the Company's associates as at 31 December 2020 are as follows:
+
+<table><tr><td>Name of associate</td><td>Place of incorporation and operation</td><td>Proportion of ownership interest and voting power held</td><td>Principal activities</td></tr><tr><td>Synnex FPT Joint Stock Company</td><td>No. 17 Duy Tan Street, Dich Vong Hau Ward, Cau Giay District, Hanoi</td><td>48.00%</td><td>Producing technology products and distributing IT devices and mobile phones; and manufacturing computers</td></tr><tr><td>FPT Digital Retail Joint Stock Company</td><td>261-263 Khanh Hoi Street, Ward 5, District 4, Ho Chi Minh City</td><td>46.53%</td><td>Retail sales of computers, peripheral devices, software and telecommunication equipment; telecom service agent</td></tr></table>
+
+15. SHORT-TERM TRADE PAYABLES
+
+<table><tr><td rowspan="2"></td><td>Closing balance</td><td>Opening balance</td></tr><tr><td>VND</td><td>VND</td></tr><tr><td>FPT Education Company Limited</td><td>308,494,627,889</td><td>165,061,678,160</td></tr><tr><td>Vietnam Investment Construction and Trading Joint Stock Company</td><td>43,274,792,123</td><td>68,547,916,274</td></tr><tr><td>FPT Information System Corporation</td><td>25,685,136,785</td><td>27,057,527,104</td></tr><tr><td>319 Corporation Ministry Of National Defence</td><td>18,043,213,238</td><td>-</td></tr><tr><td>Vietnam Installation Construction and Refrigeratory Joint Stock Company (VMRC)</td><td>15,435,343,450</td><td>-</td></tr><tr><td>FPT Software Company Limited</td><td>8,818,320,750</td><td>42,208,742</td></tr><tr><td>FPT Telecom Joint Stock Company</td><td>5,551,413,133</td><td>7,272,024,339</td></tr><tr><td>Others</td><td>48,010,764,917</td><td>16,088,239,443</td></tr><tr><td></td><td>473,313,612,285</td><td>284,069,594,062</td></tr><tr><td>Payables to related parties(Details stated in Note 29)</td><td>355,293,513,784</td><td>199,558,938,345</td></tr></table>
+
+24
+
+===== PAGE 29 =====
+FPT CORPORATION
+
+NOTES TO THE SEPARATE FINANCIAL STATEMENTS (Continued)
+
+FORM B 09-DN
+
+16. TAXES AND OTHER RECEIVABLES FROM/PAYABLES TO THE STATE BUDGET
+
+<table><tr><td rowspan="2"></td><td>Opening balance</td><td>Payables during the year</td><td>Paid during the year</td><td>Closing balance</td></tr><tr><td>VND</td><td>VND</td><td>VND</td><td>VND</td></tr><tr><td colspan="5">a. Receivables</td></tr><tr><td>Import duty</td><td>34,802,628</td><td>-</td><td>-</td><td>34,802,628</td></tr><tr><td></td><td>34,802,628</td><td>-</td><td>-</td><td>34,802,628</td></tr><tr><td colspan="5">b. Payables</td></tr><tr><td>Value added tax (VAT)</td><td>2,843,172</td><td>28,308,089,081</td><td>28,308,639,081</td><td>2,293,172</td></tr><tr><td>- Output VAT</td><td>551,000</td><td>28,308,089,081</td><td>28,308,639,081</td><td>1,000</td></tr><tr><td>- VAT on imported goods</td><td>2,292,172</td><td>-</td><td>-</td><td>2,292,172</td></tr><tr><td>Corporate income tax</td><td>(695,276,425)</td><td>8,808,174,070</td><td>5,000,000,001</td><td>3,112,897,644</td></tr><tr><td>Other taxes</td><td>1,708,667,965</td><td>80,716,246,176</td><td>81,182,882,718</td><td>1,242,031,423</td></tr><tr><td>License tax</td><td>-</td><td>4,000,000</td><td>4,000,000</td><td>-</td></tr><tr><td>Personal income tax</td><td>1,652,648,182</td><td>43,356,018,742</td><td>43,820,562,793</td><td>1,188,104,131</td></tr><tr><td>Other taxes</td><td>56,019,783</td><td>37,356,227,434</td><td>37,358,319,925</td><td>53,927,292</td></tr><tr><td></td><td>1,016,234,712</td><td>117,832,509,327</td><td>114,491,521,800</td><td>4,357,222,239</td></tr></table>
+
+17. SHORT-TERM ACCRUED EXPENSES
+
+<table><tr><td rowspan="2"></td><td>Closing balance</td><td>Opening balance</td></tr><tr><td>VND</td><td>VND</td></tr><tr><td>Salary and bonus</td><td>-</td><td>32,589,235,656</td></tr><tr><td>Interest payables</td><td>38,724,752,245</td><td>14,926,369,690</td></tr><tr><td>Other accruals</td><td>946,817,291</td><td>1,001,598,052</td></tr><tr><td></td><td>39,671,569,536</td><td>48,517,203,398</td></tr></table>
+
+25
+
+===== PAGE 30 =====
+FPT CORPORATION
+
+NOTES TO THE SEPARATE FINANCIAL STATEMENTS (Continued)
+
+FORM B 09-DN
+
+18. OTHER SHORT-TERM PAYABLES
+
+<table><tr><td rowspan="2"></td><td>Closing balance</td><td>Opening balance</td></tr><tr><td>VND</td><td>VND</td></tr><tr><td>Union fee</td><td>20,307,660,693</td><td>9,020,195,164</td></tr><tr><td>Social insurance</td><td>310,109,478</td><td>303,663,013</td></tr><tr><td>Health insurance</td><td>71,656,820</td><td>71,710,826</td></tr><tr><td>Unemployment insurance</td><td>17,268,199</td><td>17,282,656</td></tr><tr><td>Short-term deposits received</td><td>523,000,000</td><td>553,000,000</td></tr><tr><td>Dividends payable</td><td>9,734,581,873</td><td>8,705,049,648</td></tr><tr><td>Payables through central account</td><td>232,927,859,519</td><td>328,385,314,580</td></tr><tr><td>- FPT Information System Corporation</td><td>157,881,723,216</td><td>214,321,178,272</td></tr><tr><td>- FPT Education Company Limited</td><td>30,315,118,672</td><td>69,907,799,626</td></tr><tr><td>- FPT Software Company Limited</td><td>28,480,644,564</td><td>15,041,143,314</td></tr><tr><td>- FPT Investment Company Limited</td><td>13,659,729,928</td><td>23,969,178,301</td></tr><tr><td>- FPT Digital Retail Joint Stock Company</td><td>1,526,452,162</td><td>2,993,176,666</td></tr><tr><td>- FPT Telecom Joint Stock Company</td><td>1,064,190,977</td><td>2,152,838,401</td></tr><tr><td>Other current payables</td><td>5,728,450,482</td><td>7,444,185,989</td></tr><tr><td></td><td>269,620,587,064</td><td>354,500,401,876</td></tr><tr><td>Other short-term payables to related parties (Details stated in Note 29)</td><td>232,927,859,519</td><td>328,385,314,580</td></tr></table>
+
+19. LONG-TERM UNEARNED REVENUE
+
+<table><tr><td rowspan="2"></td><td>Closing balance</td><td>Opening balance</td></tr><tr><td>VND</td><td>VND</td></tr><tr><td>Revenue received in advance (i)</td><td>249,265,750,000</td><td>250,092,750,000</td></tr><tr><td></td><td>249,265,750,000</td><td>250,092,750,000</td></tr></table>
+
+(i) Revenue received in advance represents the office rental.
+
+26
+
+===== PAGE 31 =====
+FPT CORPORATION
+
+NOTES TO THE SEPARATE FINANCIAL STATEMENTS (Continued)
+
+FORM B 09-DN
+
+20. SHORT-TERM LOANS AND OBLIGATIONS UNDER FINANCE LEASES
+
+<table><tr><td rowspan="3"></td><td colspan="2">Opening balance</td><td colspan="2">In the year</td><td colspan="2">Closing balance</td></tr><tr><td colspan="2">VND</td><td colspan="2">VND</td><td colspan="2">VND</td></tr><tr><td>Amount</td><td>Amount able to be paid off</td><td>Increases</td><td>Decreases</td><td>Amount</td><td>Amount able to be paid off</td></tr><tr><td colspan="7">Short-term loan and obligation under finance lease from related parties (Details stated in Note 29)</td></tr><tr><td>FPT Education Company Limited</td><td>130,000,000,000</td><td>130,000,000,000</td><td>1,380,000,000,000</td><td>920,000,000,000</td><td>590,000,000,000</td><td>590,000,000,000</td></tr><tr><td>FPT Information System Corporation</td><td>200,000,000,000</td><td>200,000,000,000</td><td>2,411,000,000,000</td><td>1,715,000,000,000</td><td>896,000,000,000</td><td>896,000,000,000</td></tr><tr><td>FPT Digital Retail Joint Stock Company</td><td>220,000,000,000</td><td>220,000,000,000</td><td>1,660,000,000,000</td><td>1,035,000,000,000</td><td>845,000,000,000</td><td>845,000,000,000</td></tr><tr><td>FPT Software Company Limited</td><td>35,000,000,000</td><td>35,000,000,000</td><td>5,113,030,000,000</td><td>3,271,000,000,000</td><td>1,877,030,000,000</td><td>1,877,030,000,000</td></tr><tr><td>FPT Investment Company Limited</td><td>12,000,000,000</td><td>12,000,000,000</td><td>-</td><td>7,000,000,000</td><td>5,000,000,000</td><td>5,000,000,000</td></tr><tr><td>FPT Smart Cloud Company Limited</td><td>-</td><td>-</td><td>93,000,000,000</td><td>11,000,000,000</td><td>82,000,000,000</td><td>82,000,000,000</td></tr><tr><td></td><td>597,000,000,000</td><td>597,000,000,000</td><td>10,657,030,000,000</td><td>6,959,000,000,000</td><td>4,295,030,000,000</td><td>4,295,030,000,000</td></tr></table>
+
+Short-term loans represent unsecured loans with terms of less than one year for business purpose.
+
+27
+
+===== PAGE 32 =====
+FPT CORPORATION
+
+NOTES TO THE SEPARATE FINANCIAL STATEMENTS (Continued)
+
+FORM B 09-DN
+
+21. OWNERS' EQUITY
+
+Movement in owners' equity
+
+<table><tr><td rowspan="2"></td><td>Owners&#x27;contributedcapital</td><td>Share premium</td><td>Treasury shares</td><td>Other reserves</td><td>Investment anddevelopmentfund</td><td>Retained earnings</td><td>Total</td></tr><tr><td>VND</td><td>VND</td><td>VND</td><td>VND</td><td>VND</td><td>VND</td><td>VND</td></tr><tr><td>Prior year&#x27;s opening balance</td><td>6,136,367,720,000</td><td>49,941,441,360</td><td>(823,760,000)</td><td>87,203,093,024</td><td>103,009,261</td><td>2,760,810,099,137</td><td>9,033,601,602,782</td></tr><tr><td>Shares issued</td><td>30,672,000,000</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>30,672,000,000</td></tr><tr><td>Profit for the year</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>1,914,565,298,453</td><td>1,914,565,298,453</td></tr><tr><td>Stock dividends declared</td><td>616,547,160,000</td><td>-</td><td>-</td><td>-</td><td>-</td><td>(616,547,160,000)</td><td>-</td></tr><tr><td>Cash dividends declared</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>(1,294,897,908,000)</td><td>(1,294,897,908,000)</td></tr><tr><td>Other movements of equity</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>1,667,160</td><td>1,667,160</td></tr><tr><td>Current year&#x27;s opening balance</td><td>6,783,586,880,000</td><td>49,941,441,360</td><td>(823,760,000)</td><td>87,203,093,024</td><td>103,009,261</td><td>2,763,931,996,750</td><td>9,683,942,660,395</td></tr><tr><td>Shares issued</td><td>33,917,900,000</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>33,917,900,000</td></tr><tr><td>Profit for the year</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>2,884,321,772,746</td><td>2,884,321,772,746</td></tr><tr><td>Stock dividends declared (i)</td><td>1,022,370,080,000</td><td>-</td><td>-</td><td>-</td><td>-</td><td>(1,022,370,080,000)</td><td>-</td></tr><tr><td>Cash dividends declared (i)</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>(1,465,573,212,000)</td><td>(1,465,573,212,000)</td></tr><tr><td>Other movements of equity</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>(31,283,810,285)</td><td>(31,283,810,285)</td></tr><tr><td>Current year&#x27;s closing balance</td><td>7,839,874,860,000</td><td>49,941,441,360</td><td>(823,760,000)</td><td>87,203,093,024</td><td>103,009,261</td><td>3,129,026,667,211</td><td>11,105,325,310,856</td></tr></table>
+
+Dividends
+
+(i) On 09 April 2020, the Company's Shareholders' Annual General Meeting approved the plan of stock dividend payment of 2019 at the pay-out ratio of 15% (03 new shares for every 20 shares held) and second cash dividend payment of 2019 at the pay-out ratio of 10% of par value (VND 1,000/share). Accordingly, the Company issued 102,237,008 shares for dividend payment of 2019 and paid cash dividend with an amount of VND 681,668,102,000.
+
+On 30 July 2020, the Board of Directors approved the plan of the first cash dividend payment of 2020 at pay-out ratio of 10% of par value (VND 1,000/share). Accordingly, the Company paid cash dividend with an amount of VND 783,905,110,000.
+
+28
+
+(1) CDE 310
+
+===== PAGE 33 =====
+FPT CORPORATION
+
+NOTES TO THE SEPARATE FINANCIAL STATEMENTS (Continued)
+
+FORM B 09-DN
+
+The use of capital received in the year
+
+Unit: VND
+
+<table><tr><td rowspan="2">No.</td><td rowspan="2">Methods of raising capital</td><td rowspan="2">Purposes</td><td colspan="2">Increases/(Decreases)</td><td colspan="2">Used for the right purpose</td></tr><tr><td>Current year</td><td>Prior year</td><td>Current year</td><td>Prior year</td></tr><tr><td>1</td><td>Increasing capital from issuing shares</td><td>To supplement working capital</td><td>1,056,287,980,000</td><td>647,219,160,000</td><td>1,056,287,980,000</td><td>647,219,160,000</td></tr><tr><td colspan="3">Total</td><td>1,056,287,980,000</td><td>647,219,160,000</td><td>1,056,287,980,000</td><td>647,219,160,000</td></tr></table>
+
+Shares
+
+<table><tr><td rowspan="2"></td><td>Closing balance</td><td>Opening balance</td></tr><tr><td>Share</td><td>Share</td></tr><tr><td>Authorised share capital</td><td>783,987,486</td><td>678,358,688</td></tr><tr><td>Issued share</td><td>783,987,486</td><td>678,358,688</td></tr><tr><td>Ordinary shares</td><td>783,987,486</td><td>678,358,688</td></tr><tr><td>Of which shares subject to restriction in ownership transfer</td><td>11,642,061</td><td>10,072,368</td></tr><tr><td>Treasury shares</td><td>(82,376)</td><td>(82,376)</td></tr><tr><td>Of which shares subject to restriction in ownership transfer</td><td>-</td><td>-</td></tr><tr><td>Number of outstanding shares in circulation</td><td>783,905,110</td><td>678,276,312</td></tr><tr><td>Ordinary shares</td><td>783,905,110</td><td>678,276,312</td></tr><tr><td>Of which shares subject to restriction in ownership transfer</td><td>11,642,061</td><td>10,072,368</td></tr></table>
+
+All ordinary shares have a par value of VND 10,000. Each share is entitled to one vote at the Company shareholders' meetings. Shareholders are entitled to receive dividends as declared from time to time. All ordinary shares are ranked equally with regard to the Company's residual assets. With respect to the shares bought back by the Company, all rights are suspended until those shares are re-issued.
+
+Shares subject to ownership transfer restriction have a par value of VND 10,000. These shares are subject to restrictions according to which share owners are not allowed to resell their shares within a specified term from the date of issuance.
+
+29
+
+1151 Z25.5.5
+
+===== PAGE 34 =====
+FPT CORPORATION
+
+NOTES TO THE SEPARATE FINANCIAL STATEMENTS (Continued)
+
+FORM B 09-DN
+
+22. REVENUE
+
+<table><tr><td rowspan="2"></td><td>Current year</td><td>Prior year</td></tr><tr><td>VND</td><td>VND</td></tr><tr><td colspan="3">Sales of services</td></tr><tr><td rowspan="2">- Sales of services</td><td>291,964,092,178</td><td>287,216,908,624</td></tr><tr><td>291,964,092,178</td><td>287,216,908,624</td></tr><tr><td colspan="3">Deductions</td></tr><tr><td rowspan="2">- Service discount</td><td>-</td><td>11,915,344</td></tr><tr><td>-</td><td>11,915,344</td></tr><tr><td>Net revenue from services rendered</td><td>291,964,092,178</td><td>287,204,993,280</td></tr><tr><td>Revenue from related parties(Details stated in Note 29)</td><td>196,497,912,835</td><td>217,370,081,645</td></tr></table>
+
+23. COST OF SALES
+
+<table><tr><td rowspan="2"></td><td>Current year</td><td>Prior year</td></tr><tr><td>VND</td><td>VND</td></tr><tr><td>Cost of services rendered</td><td>70,845,327,323</td><td>94,889,359,725</td></tr><tr><td></td><td>70,845,327,323</td><td>94,889,359,725</td></tr></table>
+
+24. PRODUCTION COST BY NATURE
+
+<table><tr><td rowspan="2"></td><td>Current year</td><td>Prior year</td></tr><tr><td>VND</td><td>VND</td></tr><tr><td>Labour</td><td>132,428,732,813</td><td>120,215,743,745</td></tr><tr><td>Depreciation and amortisation</td><td>21,262,963,030</td><td>19,964,873,678</td></tr><tr><td>Out-sourced services</td><td>176,605,542,486</td><td>219,022,112,212</td></tr><tr><td>Other monetary expenses</td><td>118,744,087,654</td><td>50,817,054,573</td></tr><tr><td></td><td>449,041,325,983</td><td>410,019,784,208</td></tr></table>
+
+25. FINANCIAL INCOME
+
+<table><tr><td rowspan="2"></td><td>Current year</td><td>Prior year</td></tr><tr><td>VND</td><td>VND</td></tr><tr><td>Bank and loan interest</td><td>347,679,419,291</td><td>232,408,854,206</td></tr><tr><td>Dividends and profits received</td><td>2,839,659,411,707</td><td>1,874,586,646,500</td></tr><tr><td>Foreign exchange gain</td><td>21,738,857</td><td>58,199,641</td></tr><tr><td>Other financial income</td><td>1,894,425,367</td><td>316,602,439</td></tr><tr><td></td><td>3,189,254,995,222</td><td>2,107,370,302,786</td></tr><tr><td>Loan interest, dividends and profits received from related parties (Details stated in Note 29)</td><td>2,845,142,441,383</td><td>1,882,005,521,546</td></tr></table>
+
+30
+
+500.
+STY
+IH
+TTI
+NAM
+-1.P.P.
+
+===== PAGE 35 =====
+FPT CORPORATION
+
+NOTES TO THE SEPARATE FINANCIAL STATEMENTS (Continued)
+
+FORM B 09-DN
+
+26. FINANCIAL EXPENSES
+
+<table><tr><td rowspan="2"></td><td>Current year</td><td>Prior year</td></tr><tr><td>VND</td><td>VND</td></tr><tr><td>Interest expense(Details stated in Note 29)</td><td>138,911,372,017</td><td>51,462,109,416</td></tr><tr><td>Foreign exchange loss</td><td>151,578,451</td><td>27,503,619</td></tr><tr><td></td><td>139,062,950,468</td><td>51,489,613,035</td></tr></table>
+
+27. GENERAL AND ADMINISTRATION EXPENSES
+
+<table><tr><td rowspan="2"></td><td>Current year</td><td>Prior year</td></tr><tr><td>VND</td><td>VND</td></tr><tr><td>Labour costs</td><td>132,428,732,813</td><td>120,215,743,745</td></tr><tr><td>Office equipment expenses</td><td>12,163,950,350</td><td>12,423,891,686</td></tr><tr><td>Depreciation expenses</td><td>21,262,963,030</td><td>19,964,873,678</td></tr><tr><td>Out-sourced services</td><td>93,595,964,813</td><td>100,176,846,487</td></tr><tr><td>Other monetary expenses</td><td>114,363,551,924</td><td>59,174,549,573</td></tr><tr><td></td><td>373,815,162,930</td><td>311,955,905,169</td></tr></table>
+
+28. CORPORATE INCOME TAX EXPENSE
+
+<table><tr><td rowspan="2"></td><td>Current year</td><td>Prior year</td></tr><tr><td>VND</td><td>VND</td></tr><tr><td colspan="3">Current corporate income tax expenses</td></tr><tr><td>- Corporate income tax expense based on taxable profit in the current year</td><td>8,808,174,070</td><td>10,684,902,291</td></tr><tr><td>- Adjustments for corporate income tax expense in previous years to the current year</td><td>-</td><td>1,523,527,253</td></tr><tr><td>Total current corporate income tax expenses</td><td>8,808,174,070</td><td>12,208,429,544</td></tr></table>
+
+31
+
+===== PAGE 36 =====
+FPT CORPORATION
+
+NOTES TO THE SEPARATE FINANCIAL STATEMENTS (Continued)
+
+FORM B 09-DN
+
+The current corporate income tax expense for the year was computed as follows:
+
+<table><tr><td rowspan="2"></td><td>Current year</td><td>Prior year</td></tr><tr><td>VND</td><td>VND</td></tr><tr><td>Profit before tax</td><td>2,893,129,946,816</td><td>1,926,773,727,997</td></tr><tr><td colspan="3">Adjustments for taxable profit</td></tr><tr><td>Less: non-taxable income</td><td></td><td></td></tr><tr><td>Dividends and profit received</td><td>(2,839,659,411,707)</td><td>(1,874,586,646,500)</td></tr><tr><td>Others</td><td>(23,628,772,233)</td><td>(5,472,133,249)</td></tr><tr><td>Add back: non-deductible expenses</td><td>14,199,107,475</td><td>6,709,563,205</td></tr><tr><td>Taxable profit</td><td>44,040,870,351</td><td>53,424,511,453</td></tr><tr><td>Normal tax rate</td><td>20%</td><td>20%</td></tr><tr><td>Corporate income tax expense based on taxable profit in the current year</td><td>8,808,174,070</td><td>10,684,902,291</td></tr></table>
+
+The corporate income tax is applied at the rate of 20% of taxable profit. The corporate income tax expense for the financial year is estimated based on taxable profit and is subject to adjustment at the discretion of the tax authorities.
+
+29. RELATED PARTY TRANSACTIONS AND BALANCES
+
+List of related parties who have significant transactions and balances during the year:
+
+<table><tr><td>Related parties</td><td>Relationship</td></tr><tr><td>FPT Investment Company Limited</td><td>Susidiary</td></tr><tr><td>FPT Software Company Limited</td><td>Susidiary</td></tr><tr><td>FPT Smart Cloud Company Limited</td><td>Susidiary</td></tr><tr><td>FPT Information System Corporation</td><td>Susidiary</td></tr><tr><td>FPT Education Company Limited</td><td>Susidiary</td></tr><tr><td>FPT Telecom Joint Stock Company</td><td>Susidiary</td></tr><tr><td>FPT Online Service Joint Stock Company</td><td>Susidiary</td></tr><tr><td>FPT Technology Solutions Company Limited</td><td>Affiliate</td></tr><tr><td>FPT Land Company Limited</td><td>Affiliate</td></tr><tr><td>Synnex FPT Joint Stock Company</td><td>Associate</td></tr><tr><td>FPT Digital Retail Joint Stock Company</td><td>Associate</td></tr></table>
+
+32
+
+===== PAGE 37 =====
+FPT CORPORATION
+
+NOTES TO THE SEPARATE FINANCIAL STATEMENTS (Continued)
+
+FORM B 09-DN
+
+Significant related party balances as at the balance sheet date were as follows:
+
+<table><tr><td rowspan="2"></td><td>Current year</td><td>Prior year</td></tr><tr><td>VND</td><td>VND</td></tr><tr><td colspan="3">Short-term trade receivables</td></tr><tr><td>FPT Software Company Limited</td><td>18,612,653,037</td><td>14,274,687,281</td></tr><tr><td>FPT Telecom Joint Stock Company</td><td>16,827,370,007</td><td>15,366,524,127</td></tr><tr><td>FPT Education Company Limited</td><td>11,005,362,199</td><td>3,644,594,896</td></tr><tr><td>FPT Information System Corporation</td><td>6,355,272,079</td><td>1,104,145,960</td></tr><tr><td>FPT Digital Retail Joint Stock Company</td><td>1,188,029,766</td><td>1,171,665,126</td></tr><tr><td>Synnex FPT Joint Stock Company</td><td>199,108,278</td><td>292,339,376</td></tr><tr><td>FPT Smart Cloud Company Limited</td><td>189,997,686</td><td>-</td></tr><tr><td>FPT Online Service Joint Stock Company</td><td>72,692,893</td><td>-</td></tr><tr><td>FPT Investment Company Limited</td><td>-</td><td>23,223,910</td></tr><tr><td></td><td>54,450,485,945</td><td>35,877,180,676</td></tr><tr><td colspan="3">Loan receivables</td></tr><tr><td>FPT Investment Company Limited</td><td>185,000,000,000</td><td>-</td></tr><tr><td>FPT Land Joint Stock Company</td><td>10,900,000,000</td><td>9,500,000,000</td></tr><tr><td>FPT Technology Solutions Company Limited</td><td>-</td><td>17,500,000,000</td></tr><tr><td></td><td>-</td><td>17,500,000,000</td></tr><tr><td colspan="3">Other short-term receivables</td></tr><tr><td colspan="3">Dividends/profits receivable from subsidiaries</td></tr><tr><td>FPT Software Company Limited</td><td>420,000,000,000</td><td>380,000,000,000</td></tr><tr><td>FPT Telecom Joint Stock Company</td><td>249,845,764,000</td><td>-</td></tr><tr><td>FPT Education Company Limited</td><td>150,000,000,000</td><td>130,000,000,000</td></tr><tr><td></td><td>819,845,764,000</td><td>510,000,000,000</td></tr><tr><td colspan="3">Other short-term receivables</td></tr><tr><td>FPT Information System Company Limited</td><td>135,839,638,954</td><td>142,044,288,335</td></tr><tr><td>FPT Land Company Limited</td><td>51,659,931,766</td><td>51,553,956,648</td></tr><tr><td>FPT Investment Company Limited</td><td>6,271,372,076</td><td>40,921,089,055</td></tr><tr><td>FPT Telecom Joint Stock Company</td><td>652,366,800</td><td>-</td></tr><tr><td>FPT Software Company Limited</td><td>138,461,000</td><td>-</td></tr><tr><td>FPT Education Company Limited</td><td>20,610,000</td><td>-</td></tr><tr><td>FPT Digital Retail Joint Stock Company</td><td>14,406,000</td><td>-</td></tr><tr><td></td><td>194,596,786,596</td><td>234,519,334,038</td></tr></table>
+
+33
+
+11. 田→○ 13
+
+===== PAGE 38 =====
+FPT CORPORATION
+
+NOTES TO THE SEPARATE FINANCIAL STATEMENTS (Continued)
+
+FORM B 09-DN
+
+<table><tr><td rowspan="2"></td><td>Current year</td><td>Prior year</td></tr><tr><td>VND</td><td>VND</td></tr><tr><td colspan="3">Short-term trade payables</td></tr><tr><td>FPT Education Company Limited</td><td>308,494,627,889</td><td>165,061,678,160</td></tr><tr><td>FPT Information System Corporation</td><td>25,685,136,785</td><td>27,057,527,104</td></tr><tr><td>FPT Software Company Limited</td><td>8,818,320,750</td><td>42,208,742</td></tr><tr><td>FPT Telecom Joint Stock Company</td><td>5,551,413,133</td><td>7,272,024,339</td></tr><tr><td>FPT Digital Retail Joint Stock Company</td><td>2,861,632,227</td><td>3,180,000</td></tr><tr><td>FPT Investment Company Limited</td><td>1,595,000,000</td><td>-</td></tr><tr><td>FPT Smart Cloud Company Limited</td><td>1,074,992,997</td><td>-</td></tr><tr><td>FPT Online Service Joint Stock Company</td><td>946,550,000</td><td>122,320,000</td></tr><tr><td>Synnex FPT Joint Stock Company</td><td>265,840,003</td><td>-</td></tr><tr><td></td><td>355,293,513,784</td><td>199,558,938,345</td></tr><tr><td colspan="3">Short-term other payables</td></tr><tr><td colspan="3">Payables through central account</td></tr><tr><td>FPT Information System Corporation</td><td>157,881,723,216</td><td>214,321,178,272</td></tr><tr><td>FPT Education Company Limited</td><td>30,315,118,672</td><td>69,907,799,626</td></tr><tr><td>FPT Software Company Limited</td><td>28,480,644,564</td><td>15,041,143,314</td></tr><tr><td>FPT Investment Company Limited</td><td>13,659,729,928</td><td>23,969,178,301</td></tr><tr><td>FPT Digital Retail Joint Stock Company</td><td>1,526,452,162</td><td>2,993,176,666</td></tr><tr><td>FPT Telecom Joint Stock Company</td><td>1,064,190,977</td><td>2,152,838,401</td></tr><tr><td></td><td>232,927,859,519</td><td>328,385,314,580</td></tr><tr><td colspan="3">Short-term loans</td></tr><tr><td>FPT Software Company Limited</td><td>1,877,030,000,000</td><td>35,000,000,000</td></tr><tr><td>FPT Information System Corporation</td><td>896,000,000,000</td><td>200,000,000,000</td></tr><tr><td>FPT Digital Retail Joint Stock Company</td><td>845,000,000,000</td><td>220,000,000,000</td></tr><tr><td>FPT Education Company Limited</td><td>590,000,000,000</td><td>130,000,000,000</td></tr><tr><td>FPT Smart Cloud Company Limited</td><td>82,000,000,000</td><td>-</td></tr><tr><td>FPT Investment Company Limited</td><td>5,000,000,000</td><td>12,000,000,000</td></tr><tr><td></td><td>4,295,030,000,000</td><td>597,000,000,000</td></tr></table>
+
+34
+
+11241 G3015251
+
+===== PAGE 39 =====
+FPT CORPORATION
+
+NOTES TO THE SEPARATE FINANCIAL STATEMENTS (Continued)
+
+FORM B 09-DN
+
+During the year, the Company entered into the following significant transactions with its related parties:
+
+<table><tr><td rowspan="2"></td><td>Current year</td><td>Prior year</td></tr><tr><td>VND</td><td>VND</td></tr><tr><td colspan="3">Capital contribution</td></tr><tr><td>FPT Software Company Limited</td><td>400,000,000,000</td><td>400,000,000,000</td></tr><tr><td>FPT Education Company Limited</td><td>400,000,000,000</td><td>150,000,000,000</td></tr><tr><td>FPT Smart Cloud Company Limited</td><td>100,000,000,000</td><td>-</td></tr><tr><td></td><td>900,000,000,000</td><td>550,000,000,000</td></tr><tr><td colspan="3">Rendering of services</td></tr><tr><td>FPT Software Company Limited</td><td>70,720,910,064</td><td>92,021,927,047</td></tr><tr><td>FPT Telecom Joint Stock Company</td><td>61,847,529,603</td><td>62,586,891,908</td></tr><tr><td>FPT Information System Corporation</td><td>37,857,719,489</td><td>38,438,395,357</td></tr><tr><td>FPT Education Company Limited</td><td>9,981,134,117</td><td>5,805,334,573</td></tr><tr><td>FPT Online Service Joint Stock Company</td><td>8,892,057,708</td><td>8,957,275,970</td></tr><tr><td>FPT Digital Retail Joint Stock Company</td><td>5,014,980,739</td><td>7,214,056,515</td></tr><tr><td>Synnex FPT Joint Stock Company</td><td>1,190,741,552</td><td>2,305,308,851</td></tr><tr><td>FPT Smart Cloud Company Limited</td><td>517,580,104</td><td>-</td></tr><tr><td>FPT Investment Company Limited</td><td>475,259,459</td><td>40,891,424</td></tr><tr><td></td><td>196,497,912,835</td><td>217,370,081,645</td></tr><tr><td colspan="3">Purchases of goods, services and constructions</td></tr><tr><td>FPT Information System Corporation</td><td>76,648,502,713</td><td>82,205,545,669</td></tr><tr><td>FPT Education Company Limited</td><td>76,043,145,546</td><td>96,629,984,091</td></tr><tr><td>FPT Digital Retail Joint Stock Company</td><td>32,458,952,465</td><td>6,237,028,007</td></tr><tr><td>FPT Telecom Joint Stock Company</td><td>23,903,696,814</td><td>21,953,987,953</td></tr><tr><td>FPT Software Company Limited</td><td>16,066,924,006</td><td>10,383,779,392</td></tr><tr><td>FPT Online Service Joint Stock Company</td><td>3,183,050,000</td><td>1,353,725,715</td></tr><tr><td>FPT Investment Company Limited</td><td>1,450,000,000</td><td>-</td></tr><tr><td>Synnex FPT Joint Stock Company</td><td>1,212,728,484</td><td>2,149,235,460</td></tr><tr><td>FPT Smart Cloud Company Limited</td><td>1,143,327,179</td><td>-</td></tr><tr><td></td><td>232,110,327,207</td><td>220,913,286,287</td></tr><tr><td colspan="3">Dividends received/profits transferred from subsidiaries</td></tr><tr><td>FPT Software Company Limited</td><td>1,420,000,000,000</td><td>1,300,000,000,000</td></tr><tr><td>FPT Telecom Joint Stock Company</td><td>601,901,160,000</td><td>103,242,052,000</td></tr><tr><td>FPT Education Company Limited</td><td>492,291,700,707</td><td>330,000,000,000</td></tr><tr><td>Synnex FPT Joint Stock Company</td><td>171,133,791,000</td><td>28,522,298,500</td></tr><tr><td>FPT Information System Corporation</td><td>100,000,000,000</td><td>-</td></tr><tr><td>FPT Digital Retail Joint Stock Company</td><td>36,754,000,000</td><td>31,960,000,000</td></tr><tr><td>FPT Online Service Joint Stock Company</td><td>17,578,760,000</td><td>80,862,296,000</td></tr><tr><td></td><td>2,839,659,411,707</td><td>1,874,586,646,500</td></tr><tr><td colspan="3">Interest income (loan interest)</td></tr><tr><td>FPT Digital Retail Joint Stock Company</td><td>4,976,273,973</td><td>-</td></tr><tr><td>FPT Investment Company Limited</td><td>354,794,521</td><td>273,916,665</td></tr><tr><td>FPT Land Company Limited</td><td>105,975,118</td><td>-</td></tr><tr><td>FPT Information System Corporation</td><td>45,986,064</td><td>7,144,958,381</td></tr><tr><td></td><td>5,483,029,676</td><td>7,418,875,046</td></tr></table>
+
+35
+
+\( \left| {x - 1}\right|  > x - 2/10 \)
+
+===== PAGE 40 =====
+FPT CORPORATION
+
+NOTES TO THE SEPARATE FINANCIAL STATEMENTS (Continued)
+
+FORM B 09-DN
+
+<table><tr><td rowspan="2"></td><td>Current year</td><td>Prior year</td></tr><tr><td>VND</td><td>VND</td></tr><tr><td colspan="3">Interest expenses</td></tr><tr><td>FPT Software Company Limited</td><td>73,056,115,818</td><td>1,400,839,022</td></tr><tr><td>FPT Information System Corporation</td><td>36,887,704,438</td><td>32,922,692,880</td></tr><tr><td>FPT Digital Retail Joint Stock Company</td><td>13,769,640,729</td><td>10,701,516,884</td></tr><tr><td>FPT Education Company Limited</td><td>13,556,545,368</td><td>5,774,329,079</td></tr><tr><td>FPT Smart Cloud Company Limited</td><td>1,083,541,095</td><td>-</td></tr><tr><td>FPT Investment Company Limited</td><td>553,202,486</td><td>640,624,386</td></tr><tr><td>FPT Telecom Joint Stock Company</td><td>4,622,083</td><td>22,107,165</td></tr><tr><td></td><td>138,911,372,017</td><td>51,462,109,416</td></tr></table>
+
+Remuneration of the Board of Directors, the Board of Supervisors and salary of Executive President and other managers:
+
+Unit: VND
+
+Remuneration of the Board of Directors
+
+<table><tr><td>No.</td><td>Name</td><td>Title</td><td>Current year</td></tr><tr><td>1.</td><td>Mr. Truong Gia Binh</td><td>Chairman</td><td>0</td></tr><tr><td>2.</td><td>Mr. Bui Quang Ngoc</td><td>Vice Chairman</td><td>0</td></tr><tr><td>3.</td><td>Mr. Do Cao Bao</td><td>Member</td><td>0</td></tr><tr><td>4.</td><td>Mr. Le Song Lai</td><td>Member</td><td>264,000,000</td></tr><tr><td>5.</td><td>Mr. Jean Charles</td><td>Member</td><td>600,000,000</td></tr><tr><td>6.</td><td>Mr. Hamaguchi Tomokazu</td><td>Member</td><td>2,326,425,000</td></tr><tr><td>7.</td><td>Mr. Dan E Khoo</td><td>Member</td><td>2,326,425,000</td></tr><tr><td colspan="3">Total</td><td>5,516,850,000</td></tr></table>
+
+Remuneration of the Board of Supervisors
+
+<table><tr><td>No.</td><td>Name</td><td>Title</td><td>Current year</td></tr><tr><td>1</td><td>Mr. Nguyen Viet Thang</td><td>Head of the Board of Supervisors</td><td>588,000,000</td></tr><tr><td>2</td><td>Mr. Nguyen Khai Hoan</td><td>Member</td><td>303,600,000</td></tr><tr><td>3</td><td>Ms. Nguyen Thi Kim Anh</td><td>Member</td><td>303,600,000</td></tr><tr><td colspan="3">Total</td><td>1,195,200,000</td></tr></table>
+
+Salary of Executive President and other managers
+
+<table><tr><td>No.</td><td>Name</td><td>Title</td><td>Current year</td></tr><tr><td>1.</td><td>Mr. Nguyen Van Khoa</td><td>Executive President</td><td>3,520,000,000</td></tr><tr><td>2.</td><td>Mr. Nguyen The Phuong</td><td>Executive Vice President</td><td>2,750,000,000</td></tr><tr><td>3.</td><td>Mr. Hoang Viet Anh</td><td>Executive Vice President</td><td>2,200,000,000</td></tr><tr><td>4.</td><td>Mr. Hoang Huu Chien</td><td>Chief Accountant</td><td>1,540,000,000</td></tr><tr><td>5.</td><td>Ms. Bui Nguyen Phuong Chau</td><td>In charge of Information Governance and Disclosure</td><td>1,100,000,000</td></tr><tr><td colspan="3">Total</td><td>11,110,000,000</td></tr></table>
+
+36
+
+===== PAGE 41 =====
+FPT CORPORATION
+
+NOTES TO THE SEPARATE FINANCIAL STATEMENTS (Continued)
+
+FORM B 09-DN
+
+30. SUBSEQUENT EVENTS
+
+According to Resolution No. 01.01-2021/NQ-HDQTFPT dated 26 January 2021, the Board of Directors of the Company approved:
+
+- To increase the charter capital for FPT Software Company Limited from the current VND 2,800 billion to VND 3,300 billion and the charter capital of FPT Investment Company Limited from the current VND 800 billion to VND 1,000 billion;
+
+- To establish a subsidiary which is named FPT Digital Company Limited in the form of a one-member limited liability company with the charter capital of VND 60 billion. FPT Digital Company Limited was established under the Business Registration Certificate No. 0109525069 issued by Hanoi Authority for Planning and Investment dated 08 February 2021.
+
+04 March 2020
+
+37

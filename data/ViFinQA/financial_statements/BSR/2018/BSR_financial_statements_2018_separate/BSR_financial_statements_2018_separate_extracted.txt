@@ -1,0 +1,1344 @@
+===== PAGE 1 =====
+Deloitte.
+
+CÔNG TY CỔ PHẦN LỌC HÓA DẦU BÌNH SƠN
+
+(Thành lập tại nước Cộng hòa Xã hội Chủ nghĩa Việt Nam)
+
+BÁO CÁO TÀI CHÍNH RIÊNG
+ĐÃ ĐƯỢC KIÊM TOÁN
+
+Cho kỳ hoạt động từ ngày 01 tháng 7 năm 2018 đến ngày 31 tháng 12 năm 2018
+
+===== PAGE 2 =====
+CÔNG TY CỔ PHÂN LOC HÓA DẦU BÌNH SƠN
+
+208 Đại lộ Hùng Vương, thành phố Quảng Ngãi
+
+Tình Quảng Ngãi, CHXHCN Việt Nam
+
+MỤC LỤC
+
+<table><tr><td>NÔI DUNG</td><td>TRANG</td></tr><tr><td>BÁO CÁO CỦA BAN TỔNG GIÁM ĐỐC</td><td>1 - 2</td></tr><tr><td>BÁO CÁO KIỂM TOÁN ĐỘC LẬP</td><td>3 - 4</td></tr><tr><td>BÀNG CÂN ĐÕI KẾ TOÁN</td><td>5 - 6</td></tr><tr><td>BÁO CÁO KẾT QUÀ HOẠT ĐÔNG KINH DOANH</td><td>7</td></tr><tr><td>BÁO CÁO LUU CHUYÊN TIỀN TỆ</td><td>8 - 9</td></tr><tr><td>THUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG</td><td>10 - 40</td></tr></table>
+
+\( \left\|\begin{matrix}0\\0.2\end{matrix}\right\vert\left\langle\begin{matrix}0&0\\0.2&0\end{matrix}\right.\left.\begin{matrix}0&0\\0.2&0\end{matrix}\right\rangle\left.\begin{matrix}0&0\\0.2&0\end{matrix}\right\rangle \)
+
+===== PAGE 3 =====
+CÔNG TY CỔ PHẦN LỌC HÓA DẦU BÌNH SƠN
+208 Đại lộ Hùng Vương, thành phố Quảng Ngãi
+Tình Quảng Ngãi, CHXHCN Việt Nam
+
+MỤC LỤC
+
+<table><tr><td>NÔI DUNG</td><td>TRANG</td></tr><tr><td>BÁO CÁO CỦA BAN TỔNG GIÁM ĐỐC</td><td>1 - 2</td></tr><tr><td>BÁO CÁO KIỂM TOÁN ĐỘC LẬP</td><td>3 - 4</td></tr><tr><td>BÀNG CÂN ĐỐI KẾ TOÁN</td><td>5 - 6</td></tr><tr><td>BÁO CÁO KẾT QUẢ HOẠT ĐỘNG KINH DOANH</td><td>7</td></tr><tr><td>BÁO CÁO LƯU CHUYỄN TIỀN TỆ</td><td>8 - 9</td></tr><tr><td>THUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG</td><td>10 - 40</td></tr></table>
+
+\( ^{*} \) 注：
+
+378.
+JG
+PH/
+ÓA
+HS
+UAN
+
+===== PAGE 4 =====
+CÔNG TY CỔ PHẦN LOC HÓA DẦU BÌNH SƠN
+
+208 Đại lộ Hùng Vương, thành phố Quảng Ngãi
+
+Tình Quảng Ngãi, CHXHCN Việt Nam
+
+BÁO CÁO CỦA BAN TỔNG GIÁM ĐỐC
+
+Ban Tổng Giám đốc Công ty Cổ phần Lọc hóa dầu Bình Sơn (trước đây là Công ty TNHH MTV Lọc hóa dầu Bình Sơn) (goi tất là "Công ty") để trình báo cáo này cùng với bảo cáo tài chính riêng của Công ty cho kỳ hoạt động từ ngày 01 tháng 7 năm 2018 (thời điểm Công ty chính thức chuyển thành công ty cổ phần) đến ngày 31 tháng 12 năm 2018.
+
+HỘI ĐÔNG QUẢN TRỊ VÀ BAN TỔNG GIÁM ĐỐC
+
+Các thành viên của Hội đồng Quản trị và Ban Tổng Giám đốc Công ty đã điều hành Công ty trong kỳ và đến ngày lập báo cáo tài chính riêng này gồm:
+
+Hôi dông Ouàn trí
+
+<table><tr><td>Ông Lê Xuân Huyên</td><td>Chủ tịch</td></tr><tr><td>Ông Bùi Minh Tiến</td><td>Ủy viên (Bỗ nhiệm ngày 14 tháng 01 năm 2019)</td></tr><tr><td>Ông Trần Ngọc Nguyên</td><td>Ủy viên (Miễn nhiệm ngày 14 tháng 01 năm 2019)</td></tr><tr><td>Ông Nguyễn Quang Hòa</td><td>Ủy viên</td></tr><tr><td>Ông Hà Đồng</td><td>Ủy viên</td></tr><tr><td>Ông Nguyễn Bá Phước</td><td>Ủy viên</td></tr></table>
+
+Ban Tổng Giám đốc
+
+<table><tr><td>Ông Bùi Minh Tiến</td><td>Tổng Giám đốc (Bố nhiệm ngày 18 tháng 12 năm 2018)</td></tr><tr><td>Ông Trần Ngọc Nguyên</td><td>Tổng Giám đốc (Bố nhiệm ngày 01 tháng 7 năm 2018)(Miễn nhiệm ngày 18 tháng 12 năm 2018)</td></tr><tr><td>Ông Nguyễn Văn Hội</td><td>Phó Tổng Giám đốc (Bố nhiệm ngày 19 tháng 7 năm 2018)</td></tr><tr><td>Ông Nguyễn Ngọc Anh</td><td>Phó Tổng Giám đốc (Bố nhiệm ngày 19 tháng 7 năm 2018)</td></tr><tr><td>Ông Khương Lê Thành</td><td>Phó Tổng Giám đốc (Bố nhiệm ngày 19 tháng 7 năm 2018)</td></tr><tr><td>Ông Nghiêm Đức Dương</td><td>Phó Tổng Giám đốc (Bố nhiệm ngày 19 tháng 7 năm 2018)</td></tr><tr><td>Ông Nguyễn Duyên Cường</td><td>Phó Tổng Giám đốc (Bố nhiệm ngày 19 tháng 7 năm 2018)</td></tr><tr><td>Ông Đình Thái Hà</td><td>Phó Tổng Giám đốc (Bố nhiệm ngày 19 tháng 7 năm 2018)</td></tr><tr><td>Ông Trần Đoàn Thịnh</td><td>Phó Tổng Giám đốc (Bố nhiệm ngày 7 tháng 3 năm 2019)</td></tr></table>
+
+TRÁCH NHIÊM CỦA BAN TỔNG GIÁM ĐỐC
+
+Ban Tổng Giám đốc Công ty có trách nhiệm lập báo cáo tài chính riêng phần ảnh một cách trung thực và hợp lý tính hình tài chính của Công ty tại ngày 31 tháng 12 năm 2018, cũng như kết quả hoạt động kinh doanh và tính hình lưu chuyển tiền tệ cho kỳ hoạt động từ ngày 01 tháng 7 năm 2018 đến ngày 31 tháng 12 năm 2018, phù hợp với chuẩn mục kể toán, chế độ kể toán doanh nghiệp Việt Nam và các quy định pháp lý có liên quan đến việc lập và trình bày báo cáo tài chính. Trong việc lập báo cáo tài chính riêng này, Ban Tổng Giám đốc được yêu cầu phải:
+
+• Lựa chọn các chính sách kể toán thích hợp và áp dụng các chính sách đó một cách nhất quán;
+
+Đưa ra các xét đoán và ước tính một cách hợp lý và thận trọng;
+
+- Nếu rõ các nguyên tắc kế toán thích hợp có được tuân thủ hay không, có những áp dụng sai lệch trọng yếu cần được công bố và giải thích trong báo cáo tài chính riêng hay không;
+
+- Lập báo cáo tài chính riêng trên cơ sở hoạt động liên tục trừ trường hợp không thể cho răng Công ty sẽ tiếp tục hoạt động kinh doanh; và
+
+• Thiết kê và thực hiện hệ thống kiểm soát nội bộ một cách hữu hiệu cho mục đích lập và trình bày báo cáo tài chính riêng hợp lý nhằm hạn chế rủi ro và gian lận.
+
+1
+
+\( ^{*} \) H r.
+ \( 0^{+} \)  阻点 \( O_{1}, D \)
+
+\( \left\{  {{z}_{0},z}\right\}   < \% \)
+
+===== PAGE 5 =====
+CÔNG TY CỔ PHẦN LỌC HÓA DẦU BÌNH SƠN
+
+208 Đại lộ Hùng Vương, thành phố Quảng Ngãi
+
+Tinh Quảng Ngãi, CHXHCN Việt Nam
+
+BÁO CÁO CỦA BAN TỔNG GIÁM ĐỐC (Tiếp theo)
+
+Ban Tổng Giám đốc Công ty chịu trách nhiệm đảm bảo rằng số kê toán được ghi chép một cách phù hợp để phản ánh một cách hợp lý tính hình tài chính của Công ty ở bắt kỳ thời điểm nào và đảm bảo rằng báo cáo tài chính riêng tuân thủ chuẩn mục kê toán, chế độ kê toán doanh nghiệp Việt Nam và các quy định pháp lý có liên quan đến việc lập và trình bày báo cáo tài chính. Ban Tổng Giám đốc cũng chịu trách nhiệm đảm bảo an toàn cho tài sản của Công ty và thực hiện các biện pháp thích hợp để ngăn chặn và phát hiện các hành ví gian lên và sai phạm khác.
+
+Ban Tổng Giám đốc xác nhận răng Công ty đã tuân thủ các yêu cầu nếu trên trong việc lập báo cáo tài chính riêng.
+
+Thay mặt và đại diện cho Ban Tổng Giám đốc,
+
+Định Thái Hà
+
+Phó Tổng Giám đốc
+
+(Theo Quyết định ủy quyền số 200/QĐ-BSR ngày 17 tháng 01 năm 2019
+
+của Tông Giám đốc Công ty)
+
+Ngày 21 tháng 3 năm 2019
+
+2
+
+，
+
+C.W. X T.C.P ★
+
+===== PAGE 6 =====
+Deloitte.
+
+Công ty TNHH Deloitte Việt Nam
+
+Tăng 15, Tòa nhà Vinaconex,
+
+34 Láng Hạ, P. Láng Hạ,
+
+Q. Đống Đa, Hà Nội, Việt Nam
+
+Điện thoại: +84 24 6288 3568
+
+Fax :÷84 24 6288 5678
+
+Website: www.deloitte.com/vn
+
+Sö: 674/VNIA-HN-BC
+
+BÁO CÁO KIÊM TOÁN ĐỘC LẬP
+
+Kính gửi: Các cổ đông
+
+Hội đồng Quản trị và Ban Tổng Giám đốc
+
+Công ty Cổ phần Lộc hóa dâu Bình Sơn
+
+Chúng tối đã kiểm toán báo cáo tài chính riêng kèm theo của Công ty Cổ phần Lộc hóa đầu Bình Sơn (trước đây là Công ty TNHH MTV Lộc hóa đầu Bình Sơn) (gọi tật là "Công ty"), được lập ngày 21 tháng 3 năm 2019, từ trang 5 đến trang 40, bao gồm Bảng cân đối kế toán tại ngày 31 tháng 12 năm 2018, Báo cáo kết quả hoạt động kinh doanh, Báo cáo lưu chuyển tiễn tệ cho kỳ hoạt động từ ngày 01 tháng 7 năm 2018 đến ngày 31 tháng 12 năm 2018 và Bản thuyết minh báo cáo tài chính riêng.
+
+Trách nhiệm của Ban Tổng Giám đốc
+
+Bản Tổng Giám đốc Công ty chịu trách nhiệm về việc lập và trình bày trung thực và hợp lý báo cáo tài chính riêng của Công ty theo chuẩn mục kế toán, chế độ kế toán doanh nghiệp Việt Nam và các quy định pháp lý có liên quan đến việc lập và trình bày báo cáo tài chính. Bản Tổng Giám đốc Công ty cũng đông thời chịu trách nhiệm về kiểm soát nội bộ mà Bản Tổng Giám đốc xác định là cần thiết để đảm bảo cho việc lập và trình bày báo cáo tài chính riêng không có sai sốt trọng yếu đo gian lập hoặc nhằm lẫn.
+
+Trách nhiệm của Kiểm toán viên
+
+Trách nhiệm của chúng tối là đưa ra ý kiến về báo cáo tài chính riêng dựa trên kết quả của cuộc kiểm toán. Chứng tối đã tiến hành kiểm toán theo các chuẩn mục kiểm toán Việt Nam. Các chuẩn mục này yêu cầu chúng tối tuân thu chuẩn mục và các quy định về độ đức nghề nghiệp, lập kê hoạch và thực hiện cuộc kiểm toán để đạt được sự đảm bảo hợp lý về việc liệu báo cáo tài chính riêng của Công ty có còn sai sót trọng yếu hay không.
+
+Công việc kiểm toán bao gồm thực hiện các thủ tục nhằm thu thập các bằng chứng kiểm toán về các số liệu và thuyết minh trên báo cáo tài chính riêng. Các thủ tục kiểm toán được lựa chọn dựa trên xét đoán của Kiểm toán viên, bao gồm đánh giá rủi ro có sai sót trọng yếu trong báo cáo tài chính riêng do gian lận hoặc nhằm lẫn. Khì thực hiện đánh giá các rủi ro này, Kiểm toán viên đã xem xét kiểm soát nội bộ của Công ty liên quan đến việc lập và trình bày báo cáo tài chính riêng trung thực, hợp lý nhằm thiết kế các thủ tục kiểm toán phù hợp với tình hình thực tế, tuy nhiên không nhằm mục đích đưa ra ý kiến về hiệu quả của kiểm soát nội bộ của Công ty. Công việc kiểm toán cũng bao gồm đánh giá tính thích hợp của các chính sách kế toán được áp dụng và tính hợp lý của các ước tính kế toán của Ban Tổng Giám đốc cũng như đánh giá việc trình bày tổng thể báo cáo tài chính riêng.
+
+Chúng tôi tin tưởng răng các bằng chứng kiểm toán mà chúng tôi đã thu thập được là đầy đủ và thích hợp làm cơ sở cho ý kiến kiểm toán ngoại trừ của chúng tôi.
+
+Tên Deloitte được dùng để chỉ một hoặc nhiều thành viên của Deloitte Touche Tohmatsu Ltd. một công ty TNHH có trụ sở tại Anh, và mạng lưới các hấp thành viên - mỗi thành viên là một tổ chức độc lập về mặt pháp lý. Deloitte Touche Tohmatsu Ltd. (hay "Deloitte Toàn cầu") không cung cấp dịch vụ cho các khách hàng. Vul lòng xem tại website www.deloitte.com/about để biết thêm thông tin chỉ tiết về cơ cấu pháp lý của Deloitte Touche Tohmatsu Ltd, và các hấp thành viên.
+
+3
+
+[1] 甲品百一 1.1
+
+\( \left\| V_{n}\right\| = \frac{1}{\sinh} \)
+
+===== PAGE 7 =====
+Deloitte.
+
+BẢO CẢO KIỂM TOÁN ĐỘC LẬP (Tiếp theo)
+
+Cơ sở của ý kiến kiểm toán ngoại trừ
+
+Như trình bày tại Thuyết minh số 35 phần Thuyết mlnh báo cáo tài chính riêng, Công ty đã đánh giá, xác định giá trị tổn thất của khoản đầu tư vào Công by Cổ phần Nhiên liệu Sinh học Đầu khí Miền Trung ("BSR-BF" – Công ty con của Công ty) tương đương với giá trị dự phòng đầu tư tài chính dài hạn vào BSR-BF đã trích lập tại ngày 30 tháng 6 năm 2018 và quyết định sử dụng toàn bộ giá trị khoản dự phòng đã trích lập để bù đắp tổn thất tại thời điểm chuyển thành công ty cổ phần với số tiễn khoảng 536 tỷ VND. Giá trị tổn thất của khoản đầu tư vào BSR-BF tại ngày 30 tháng 6 năm 2018 có thể thay đổi tùy thuộc vào sự phê duyệt của các cơ quan có thẩm quyền. Do đó, các khoản mục "Chỉ phí tài chính" và "Lợi nhuận sau thuế thu nhập doanh nghiệp" trên Báo cáo kết quả hoạt động kinh doanh cho kỳ hoạt động từ ngày 01 tháng 7 năm 2018 đến ngày 31 tháng 12 năm 2018 và các khoản mục "Phải trả ngắn hạn khác" và "Lợi nhuận sau thuế chưa phân phối" trên Bảng cân đối kế toán tại ngày 31 tháng 12 năm 2018 và tại ngày 01 tháng 7 năm 2018 có thể bị thay đổi tương ứng. Chứng tối không thể thu thập được đầy đủ các bằng chứng kiểm toán thích hợp về giá trị tổn thất của khoản đầu tư vào BSR-BF. Do đó, chứng tối không thể xác định liệu có cần thiết phải điều chỉnh các số liệu này hay không.
+
+Ý kiến kiểm toán ngoại trừ
+
+Theo ý kiến của chúng tối, ngoại trừ ảnh hưởng của vấn đề nêu tại đoạn "Cơ sở của ý kiến kiểm toán ngoại trừ", báo cáo tài chính riêng của Công ty đã phân ánh trung thực và hợp lý, trên các khóa cạnh trọng yếu, tỉnh hình tài chính của Công ty tại ngày 31 tháng 12 năm 2018, cũng như kết quả hoạt động kinh doanh và tỉnh hình lưu chuyển tiền tệ cho kỳ hoạt động từ ngày 01 tháng 7 năm 2018 đến ngày 31 tháng 12 năm 2018, phù hợp với chuẩn mục kế toán, chế độ kế toán doanh nghiệp Việt Nam và các quy định pháp lý có liên quan đến việc lập và trình bày báo cáo tài chính.
+
+Văn đề cản nhân mạnh
+
+Như trình bày tại Thuyết minh số 01 phần Thuyết minh báo cáo tài chính riêng, báo cáo tài chính riêng kèm theo được lập cho kỳ hoạt động từ ngày 01 tháng 7 năm 2018 (ngày Công ty chính thức chuyển thành công ty cổ phần) đến ngày 31 tháng 12 năm 2018. Số liệu trình bày ở cột so sánh của báo cáo tài chính riêng là số liệu tại ngày 30 tháng 6 năm 2018 và kỳ hoạt động sáu (6) tháng từ ngày 01 tháng 01 năm 2018 đến ngày 30 tháng 6 năm 2018 của Công ty TNHH MTV Lộc hóa đầu Bình Sơn (đơn vị cổ phần hóa). Tại ngày lập báo cáo tài chính riêng này, các cơ quan có thẩm quyền chưa thực hiện kiểm tra và phê duyệt quyết toán cổ phần hóa tại thời điểm Công ty chính thức chuyển thành công ty cổ phần.
+
+Ý kiến kiểm toán ngoại trừ của chúng tôi không liên quan đến vấn đề này.
+
+Pham Hoai Nami
+
+Phó Tổng Giám đốc
+
+Giấy chứng nhận đăng ký hành nghề
+
+kiêm toán số 0042-2018-001-1
+
+Vũ Mạnh Hùng
+
+Kiểm toán viên
+
+Giấy chứng nhận đăng ký hành nghề
+
+kiểm toán số 2737-2018-001-1
+
+CÔNG TY TNHH DELOITTE VIÊT NAM
+
+Ngày 21 tháng 3 năm 2019
+
+Hà Nội, CHXHCN Việt Nam
+
+\( \|\ddot{U}_{A}\| \leqslant \frac{1}{\pi} \)
+
+4
+
+===== PAGE 8 =====
+CÔNG TY CỔ PHẦN LỌC HÓA DẦU BÌNH SƠN
+
+208 Đại lộ Hùng Vương, thành phố Quảng Ngãi
+
+Tình Quảng Ngãi, CHXHCN Việt Nam
+
+MÃU SÕ B 01-DN
+
+Ban hành theo Thông tư số 200/2014/TT-BTC
+
+ngày 22 tháng 12 năm 2014 của Bộ Tài chính
+
+BÀNG CÂN ĐỐI KẾ TOÁN
+
+Tại ngày 31 tháng 12 năm 2018
+
+Đơn vị: VND
+
+<table><tr><td></td><td>TÀI SẢN</td><td>Mã số</td><td>Thuyếtmình</td><td>31/12/2018</td><td>01/7/2018</td></tr><tr><td>A.</td><td>TÀI SẢN NGĂN HẠN</td><td>100</td><td></td><td>23.913.177.428.533</td><td>31.547.337.557.859</td></tr><tr><td>I.</td><td>Tiền và các khoản tương đương tiền</td><td>110</td><td>4</td><td>5.740.507.130.037</td><td>11.861.209.118.484</td></tr><tr><td>1.</td><td>Tiền</td><td>111</td><td></td><td>905.877.434.528</td><td>1.576.579.422.975</td></tr><tr><td>2.</td><td>Các khoản tương đương tiền</td><td>112</td><td></td><td>4.834.629.695.509</td><td>10.284.629.695.509</td></tr><tr><td>II.</td><td>Đầu tư tài chính ngắn hạn</td><td>120</td><td>5</td><td>2.000.000.000</td><td>2.000.000.000</td></tr><tr><td>1.</td><td>Đầu tư năm giữ đến ngày đáo hạn</td><td>123</td><td></td><td>2.000.000.000</td><td>2.000.000.000</td></tr><tr><td>III.</td><td>Các khoản phải thu ngắn hạn</td><td>130</td><td></td><td>8.911.615.191.594</td><td>10.446.745.613.190</td></tr><tr><td>1.</td><td>Phải thu ngắn hạn của khách hàng</td><td>131</td><td>6</td><td>8.749.427.049.423</td><td>10.282.005.673.432</td></tr><tr><td>2.</td><td>Trả trước cho người bán ngắn hạn</td><td>132</td><td>7</td><td>124.038.077.821</td><td>94.697.196.015</td></tr><tr><td>3.</td><td>Phải thu ngắn hạn khác</td><td>136</td><td>8</td><td>33.902.094.807</td><td>64.038.826.069</td></tr><tr><td>4.</td><td>Tài sản thiếu chờ xử lý</td><td>139</td><td></td><td>4.247.969.543</td><td>6.003.917.674</td></tr><tr><td>IV.</td><td>Hàng tồn kho</td><td>140</td><td>9</td><td>9.188.786.184.058</td><td>9.098.310.705.254</td></tr><tr><td>1.</td><td>Hàng tồn kho</td><td>141</td><td></td><td>9.442.448.591.737</td><td>9.098.310.705.254</td></tr><tr><td>2.</td><td>Dự phòng giảm giá hàng tồn kho</td><td>149</td><td></td><td>(253.662.407.679)</td><td>-</td></tr><tr><td>V.</td><td>Tài sản ngắn hạn khác</td><td>150</td><td></td><td>70.268.922.844</td><td>139.072.120.931</td></tr><tr><td>1.</td><td>Chỉ phí trả trước ngắn hạn</td><td>151</td><td>10</td><td>16.218.538.206</td><td>136.276.006.041</td></tr><tr><td>2.</td><td>Thuế giá trị gia tăng được khấu trừ</td><td>152</td><td></td><td>31.214.090</td><td>81.818</td></tr><tr><td>3.</td><td>Thuế và các khoản khác phải thu Nhà nước</td><td>153</td><td>15</td><td>54.019.170.548</td><td>2.796.033.072</td></tr><tr><td>B.</td><td>TÀI SẢN DÀI HẠN</td><td>200</td><td></td><td>27.934.095.552.799</td><td>29.037.884.860.395</td></tr><tr><td>I.</td><td>Các khoản phải thu dài hạn</td><td>210</td><td></td><td>525.170.152.590</td><td>483.215.132.617</td></tr><tr><td>1.</td><td>Trả trước cho người bán dài hạn</td><td>212</td><td>7</td><td>521.395.822.590</td><td>483.215.132.617</td></tr><tr><td>2.</td><td>Phải thu về cho vay dài hạn</td><td>215</td><td></td><td>3.774.330.000</td><td>-</td></tr><tr><td>II.</td><td>Tài sản cố định</td><td>220</td><td></td><td>25.768.388.710.070</td><td>26.905.452.126.489</td></tr><tr><td>1.</td><td>Tài sản cố định hữu hình</td><td>221</td><td>11</td><td>25.361.124.799.236</td><td>26.513.115.535.670</td></tr><tr><td></td><td>- Nguyên giả</td><td>222</td><td></td><td>45.151.243.189.444</td><td>45.058.404.511.227</td></tr><tr><td></td><td>- Giá trị hao mòn lũy kế</td><td>223</td><td></td><td>(19.790.118.390.208)</td><td>(18.545.288.975.557)</td></tr><tr><td>2.</td><td>Tài sản cố định vô hình</td><td>227</td><td>12</td><td>407.263.910.834</td><td>392.336.590.819</td></tr><tr><td></td><td>- Nguyên giả</td><td>228</td><td></td><td>769.088.948.251</td><td>715.446.278.832</td></tr><tr><td></td><td>- Giá trị hao mòn lũy kế</td><td>229</td><td></td><td>(361.825.037.417)</td><td>(323.109.688.013)</td></tr><tr><td>III.</td><td>Tài sản dở dang dài hạn</td><td>240</td><td></td><td>986.737.352.963</td><td>961.326.003.482</td></tr><tr><td>1.</td><td>Chi phí xây dựng cơ bền dở dang</td><td>242</td><td>13</td><td>986.737.352.963</td><td>961.326.003.482</td></tr><tr><td>IV.</td><td>Đầu tư tài chính dài hạn</td><td>250</td><td>5</td><td>313.480.888.331</td><td>362.908.874.292</td></tr><tr><td>1.</td><td>Đầu tư vào công ty con</td><td>251</td><td></td><td>351.664.874.292</td><td>351.664.874.292</td></tr><tr><td>2.</td><td>Đầu tư góp vốn vào đơn vị khác</td><td>253</td><td></td><td>11.244.000.000</td><td>11.244.000.000</td></tr><tr><td>3.</td><td>Dự phòng đầu tư tài chính dài hạn</td><td>254</td><td></td><td>(49.427.985.961)</td><td>-</td></tr><tr><td>V.</td><td>Tài sản dài hạn khác</td><td>260</td><td></td><td>340.318.448.845</td><td>324.982.723.515</td></tr><tr><td>1.</td><td>Chỉ phí trả trước dài hạn</td><td>261</td><td>10</td><td>340.318.448.845</td><td>324.982.723.515</td></tr><tr><td></td><td>TỔNG CỘNG TÀI SẢN (270=100÷200)</td><td>270</td><td></td><td>51.847.272.981.332</td><td>60.585.222.418.254</td></tr></table>
+
+Các thuyết minh kèm theo là một bộ phận hợp thành của báo cáo tài chính riêng này
+
+5
+
+||g| G F A S |g|
+
+===== PAGE 9 =====
+CÔNG TY CỔ PHẦN LOC HÓA DẦU BÌNH SƠN
+
+208 Đại lộ Hùng Vương, thành phố Quảng Ngãi
+
+Tỉnh Quảng Ngãi, CHXHCN Việt Nam
+
+MÃU SÕ B 01-DN
+
+Ban hành theo Thông tư số 200/2014/TT-BTC
+
+ngày 22 tháng 12 năm 2014 của Bộ Tài chính
+
+BẢNG CÂN ĐÕI KẾ TOÁN (Tiếp theo)
+
+Tại ngày 31 tháng 12 năm 2018
+
+Đơn vị: VND
+
+<table><tr><td></td><td>NGUỒN VỐN</td><td>Mã số</td><td>Thuyết minh</td><td>31/12/2018</td><td>01/7/2018</td></tr><tr><td>C.</td><td>NỘ PHẢI TRẢ</td><td>300</td><td></td><td>20.591.533.160.628</td><td>29.637.945.208.684</td></tr><tr><td>I.</td><td>Nợ ngắn hạn</td><td>310</td><td></td><td>12.422.702.595.169</td><td>20.575.310.268.436</td></tr><tr><td>1.</td><td>Phải trả người bán ngắn hạn</td><td>311</td><td>14</td><td>6.031.357.171.338</td><td>8.949.121.977.591</td></tr><tr><td>2.</td><td>Người mua trả tiền trước ngắn hạn</td><td>312</td><td></td><td>76.600.000</td><td>-</td></tr><tr><td>3.</td><td>Thuế và các khoản phải nộp Nhà nước</td><td>313</td><td>15</td><td>779.627.766.616</td><td>826.973.935.107</td></tr><tr><td>4.</td><td>Phải trả người l Sec động</td><td>314</td><td></td><td>133.241.682.543</td><td>95.574.873.627</td></tr><tr><td>5.</td><td>Chỉ phí phải trả ngắn hạn</td><td>315</td><td>16</td><td>1.528.529.704.158</td><td>29.227.989.639</td></tr><tr><td>6.</td><td>Phải trả ngắn hạn khác</td><td>319</td><td>17</td><td>1.618.291.990.388</td><td>6.462.502.288.158</td></tr><tr><td>7.</td><td>Vay và nợ thuê tài chính ngắn hạn</td><td>320</td><td>18</td><td>2.291.723.317.194</td><td>4.141.868.133.300</td></tr><tr><td>8.</td><td>Quỹ khen thưởng, phúc lợi</td><td>322</td><td></td><td>39.854.362.932</td><td>70.041.071.014</td></tr><tr><td>II.</td><td>Nợ dài hạn</td><td>330</td><td></td><td>8.168.830.565.459</td><td>9.062.634.940.248</td></tr><tr><td>1.</td><td>Vay và nợ thuê tài chính dài hạn</td><td>338</td><td>19</td><td>6.753.016.820.000</td><td>7.639.511.040.000</td></tr><tr><td>2.</td><td>Quỹ phát triển khoa học và công nghệ</td><td>343</td><td>20</td><td>1.415.813.745.459</td><td>1.423.123.900.248</td></tr><tr><td>D.</td><td>VỐN CHỦ SỞ HỮU</td><td>400</td><td></td><td>31.255.739.820.704</td><td>30.947.277.209.570</td></tr><tr><td>I.</td><td>Vốn chủ sở hữu</td><td>410</td><td>21</td><td>31.255.739.820.704</td><td>30.947.277.209.570</td></tr><tr><td>1.</td><td>Vốn góp của chủ sở hữu</td><td>411</td><td></td><td>31.004.996.160.000</td><td>31.004.996.160.000</td></tr><tr><td>2.</td><td>Chênh lệch tỷ giá hối đoái</td><td>417</td><td></td><td>-</td><td>(57.718.950.430)</td></tr><tr><td>3.</td><td>Lợi nhuận sau thuế chưa phân phối</td><td>421</td><td></td><td>250.743.660.704</td><td>-</td></tr><tr><td></td><td>- Lợi nhuận sau thuế chưa phân phối lũy kế đến cuối kỳ trước</td><td>421a</td><td></td><td>-</td><td>-</td></tr><tr><td></td><td>- Lợi nhuận sau thuế chưa phân phối kỳ này</td><td>421b</td><td></td><td>250.743.660.704</td><td>-</td></tr></table>
+
+TỔNG CỘNG NGUỒN VÔN
+(440=300+400)
+
+Lê Thị Hồng Trâm
+
+Người lập biểu
+
+Ngày 21 tháng 3 năm 2019
+
+Các thuyết minh kèm theo là một bộ phận hợp thành của báo cáo tài chính riêng này
+
+6
+
+10/高画堂8
+
+例1 ≈ 327 × 194 × M
+
+===== PAGE 10 =====
+CÔNG TY CỔ PHẦN LỌC HÓA DẦU BÌNH SƠN
+
+208 Đại lộ Hùng Vương, thành phố Quảng Ngãi
+
+Tinh Quảng Ngãi, CHXHCN Việt Nam
+
+MÃU SÕ B 02-DN
+
+Ban hành theo Thông tư số 200/2014/TT-BTC
+
+ngày 22 tháng 12 năm 2014 của Bộ Tài chính
+
+BÁO CÁO KẾT QUẢ HOẠT ĐỘNG KINH DOẠNH
+
+Cho kỳ hoạt động từ ngày 01 tháng 7 năm 2018 đến ngày 31 tháng 12 năm 2018
+
+Đơn vị: VND
+
+<table><tr><td>CHỈ TIÊU</td><td>Mã số</td><td>Thuyết minh</td><td>Từ ngày 01/7/2018 đến ngày 31/12/2018</td><td>Từ ngày 01/01/2018 đến ngày 30/6/2018 (Trình bày lại)</td></tr><tr><td>1. Doanh thu bán hàng và cung cấp dịch vụ</td><td>01</td><td>24</td><td>56.055.058.673.292</td><td>55.875.121.974.199</td></tr><tr><td>2. Doanh thu thuần về bán hàng và cung cấp dịch vụ (10=01)</td><td>10</td><td></td><td>56.055.058.673.292</td><td>55.875.121.974.199</td></tr><tr><td>3. Giá vốn hàng bán và dịch vụ cung cấp</td><td>11</td><td>25</td><td>55.075.966.629.888</td><td>51.749.031.818.133</td></tr><tr><td>4. Lợi nhuận gộp về bán hàng và cung cấp dịch vụ (20=10-11)</td><td>20</td><td></td><td>979.092.043.404</td><td>4.126.090.156.066</td></tr><tr><td>5. Doanh thu hoạt động tài chính</td><td>21</td><td>27</td><td>338.994.056.719</td><td>303.681.258.238</td></tr><tr><td>6. Chi phí tài chính</td><td>22</td><td>28</td><td>509.272.928.715</td><td>328.660.928.554</td></tr><tr><td>- Trong đó: Chi phí lãi vay</td><td>23</td><td></td><td>195.514.928.178</td><td>214.937.329.419</td></tr><tr><td>7. Chi phí bán hàng</td><td>25</td><td>29</td><td>373.252.220.045</td><td>374.154.259.914</td></tr><tr><td>8. Chi phí quản lý doanh nghiệp</td><td>26</td><td>29</td><td>168.151.769.407</td><td>170.769.158.275</td></tr><tr><td>9. Lợi nhuận thuần từ hoạt động kinh doanh (30=20+(21-22)-(25+26))</td><td>30</td><td></td><td>267.409.181.956</td><td>3.556.187.067.561</td></tr><tr><td>10. Thu nhập khác</td><td>31</td><td>30</td><td>9.627.101.215</td><td>40.472.148.890</td></tr><tr><td>11. Chi phí khác</td><td>32</td><td>31</td><td>2.166.832.005</td><td>35.173.798.383</td></tr><tr><td>12. Lợi nhuận khác (40=31-32)</td><td>40</td><td></td><td>7.460.269.210</td><td>5.298.350.507</td></tr><tr><td>13. Tổng lợi nhuận kê toán trước thuế (50=30+40)</td><td>50</td><td></td><td>274.869.451.166</td><td>3.561.485.418.068</td></tr><tr><td>14. Chi phí thuế thu nhập doanh nghiệp hiện hành</td><td>51</td><td>32</td><td>24.125.790.462</td><td>201.634.326.574</td></tr><tr><td>15. Lợi nhuận sau thuế thu nhập doanh nghiệp (60=50-51)</td><td>60</td><td></td><td>250.743.660.704</td><td>3.359.851.091.494</td></tr></table>
+
+Lê Thị Hồng Trâm
+Người lập biểu
+
+Nguyên Thị Minh Hải
+Phụ trách kê toán
+
+Ngày 21 tháng 3 năm 2019
+
+Các thuyết minh kèm theo là một bộ phận hợp thành của báo cáo tài chính riêng này
+
+7
+
+引：三
+
+\( \left\|  {2i}\right\|   = \frac{1}{2} \times  0 \)
+
+===== PAGE 11 =====
+CÔNG TY CỔ PHẦN LOC HÓA DẦU BÌNH SƠN
+
+208 Đại lộ Hùng Vương, thành phố Quảng Ngãi
+
+Tỉnh Quảng Ngãi, CHXHCN Việt Nam
+
+MÃU SÕ B 03-DN
+
+Ban hành theo Thông tư số 200/2014/TT-BTC
+
+ngày 22 tháng 12 năm 2014 của Bộ Tài chính
+
+BÁO CÁO LƯU CHUYÊN TIÊN TÊ
+
+Cho kỳ hoạt động từ ngày 01 tháng 7 năm 2018 đến ngày 31 tháng 12 năm 2018
+
+Đơn vị: VND
+
+<table><tr><td></td><td>CHỈ TIÊU</td><td>Mã số</td><td>Từ ngày 01/7/2018 đến ngày 31/12/2018</td><td>Từ ngày 01/01/2018 đến ngày 30/6/2018 (Trình bày lại)</td></tr><tr><td>I.</td><td colspan="4">LUU CHUYỄN TIẾN TỪ HOẠT ĐỘNG KINH DOANH</td></tr><tr><td>1.</td><td>Lợi nhuận trước thuế</td><td>01</td><td>274.869.451.166</td><td>3.561.485.418.068</td></tr><tr><td rowspan="7">2.</td><td colspan="4">Điều chỉnh cho các khoản:</td></tr><tr><td>Khẩu hao tài sản cố định</td><td>02</td><td>1.282.621.688.091</td><td>1.278.412.674.251</td></tr><tr><td>Các khoản dự phòng</td><td>03</td><td>303.090.393.640</td><td>(44.027.362.518)</td></tr><tr><td>Lỗ chênh lệch tỷ giá hối đoái do đánh giá lại các khoản mục tiền tệ có gốc ngoại tệ</td><td>04</td><td>76.126.821.860</td><td>24.891.278.897</td></tr><tr><td>Lãi từ hoạt động đầu tư</td><td>05</td><td>(222.698.804.182)</td><td>(281.789.385.934)</td></tr><tr><td>Chi phí lãi vay</td><td>06</td><td>195.514.928.178</td><td>214.937.329.419</td></tr><tr><td>Các khoản điều chỉnh khác</td><td>07</td><td>57.718.950.430</td><td>-</td></tr><tr><td rowspan="10">3.</td><td>Lợi nhuận từ hoạt động kinh doanh trước thay đổi vốn lưu động</td><td>08</td><td>1.967.243.429.183</td><td>4.753.909.952.183</td></tr><tr><td>Giảm các khoản phải thu</td><td>09</td><td>1.417.626.623.719</td><td>560.704.087.013</td></tr><tr><td>Tăng hàng tồn kho</td><td>10</td><td>(344.137.886.483)</td><td>(985.127.790.038)</td></tr><tr><td>(Giảm)/tăng các khoản phải trả (Không kế lãi vay phải trả, thuế thu nhập doanh nghiệp phải nộp)</td><td>11</td><td>(1.281.096.161.980)</td><td>145.558.155.448</td></tr><tr><td>Giảm/(tăng) chí phí trả trước</td><td>12</td><td>104.721.742.505</td><td>(19.908.872.291)</td></tr><tr><td>Tiền lãi vay đã trả</td><td>14</td><td>(197.414.338.036)</td><td>(217.361.516.246)</td></tr><tr><td>Thuế thu nhập doanh nghiệp đã nộp</td><td>15</td><td>(184.441.604.678)</td><td>(209.476.033.949)</td></tr><tr><td>Tiền thu khác từ hoạt động kinh doanh</td><td>16</td><td>4.843.930.000</td><td>1.246.400.000</td></tr><tr><td>Tiền chi khác cho hoạt động kinh doanh</td><td>17</td><td>(38.235.568.715)</td><td>(96.082.874.413)</td></tr><tr><td>Lưu chuyển tiền thuần từ hoạt động kinh doanh</td><td>20</td><td>1.449.109.165.515</td><td>3.933.461.507.707</td></tr><tr><td>II.</td><td colspan="4">LƯU CHUYỄN TIẾN TỪ HOẠT ĐỘNG ĐẦU TỨ</td></tr><tr><td>1.</td><td>Tiền chỉ mua sắm, xây dựng TSCĐ và các tài sản dài hạn khác</td><td>21</td><td>(125.589.832.720)</td><td>(317.415.592.549)</td></tr><tr><td>2.</td><td>Tiền chỉ cho vay, mua công cụ nợ của đơn vị khác</td><td>23</td><td>(3.774.330.000)</td><td>-</td></tr><tr><td rowspan="2">3.</td><td>Tiền thu lãi cho vay, cố tức và lợi nhuận được chia</td><td>27</td><td>251.104.488.042</td><td>287.723.951.297</td></tr><tr><td>Lưu chuyển tiền thuần từ hoạt động đầu tư</td><td>30</td><td>121.740.325.322</td><td>(29.691.641.252)</td></tr></table>
+
+Các thuyết minh kèm theo là một bộ phận hợp thành của báo cáo tài chính riêng này
+
+8
+
+: 07 211-8
+
+1140×17
+
+===== PAGE 12 =====
+CÔNG TY CỔ PHẦN LOC HÓA DẦU BÌNH SƠN
+
+208 Đại lộ Hùng Vương, thành phố Quảng Ngãi
+
+Tình Quảng Ngãi, CHXHCN Việt Nam
+
+MÃU SÕ B 03-DN
+
+Ban hành theo Thông tư số 200/2014/TT-BTC
+
+ngày 22 tháng 12 năm 2014 của Bộ Tài chính
+
+BÁO CÁO LƯU CHUYÊN TIÊN TỆ (Tiêp theo)
+
+Cho kỳ hoạt động từ ngày 01 tháng 7 năm 2018 đến ngày 31 tháng 12 năm 2018
+
+Đơn vị: VND
+
+<table><tr><td colspan="2">CHỈ TIÊU</td><td>Mã số</td><td>Từ ngày 01/7/2018đến ngày 31/12/2018</td><td>Từ ngày 01/01/2018đến ngày 30/6/2018(Trình bày lại)</td></tr><tr><td colspan="5">III. LƯU CHUYÊN TIÊN TỪ HOẠT ĐỘNG TÀI CHÍNH</td></tr><tr><td>1.</td><td>Tiền trả lại vốn góp cho các chủ sở hữu</td><td>32</td><td></td><td>(1.127.802.519.804)</td></tr><tr><td>2.</td><td>Tiền thu từ đi vay</td><td>33</td><td>4.290.000.000.000</td><td>9.234.000.000.000</td></tr><tr><td>3.</td><td>Tiền trả nợ gốc vay</td><td>34</td><td>(7.131.479.211.573)</td><td>(10.730.921.300.938)</td></tr><tr><td>4.</td><td>Cổ tức, lợi nhuận đã trả cho chủ sở hữu</td><td>36</td><td>(4.850.000.000.000)</td><td>(1.995.456.476.103)</td></tr><tr><td></td><td>Lưu chuyển tiền thuần từ hoạt động tài chính</td><td>40</td><td>(7.691.479.211.573)</td><td>(4.620.190.296.845)</td></tr><tr><td></td><td>Lưu chuyển tiền thuần trong kỳ (50=20÷30÷40)</td><td>50</td><td>(6.120.629.720.736)</td><td>(716.420.430.390)</td></tr><tr><td></td><td>Tiền và tương đương tiền đầu kỳ</td><td>60</td><td>11.861.209.118.484</td><td>12.577.677.921.023</td></tr><tr><td></td><td>Ảnh hưởng của thay đổi tỷ giá hõi đoai quy đổi ngoại tệ</td><td>61</td><td>(72.267.711)</td><td>(48.372.149)</td></tr><tr><td></td><td>Tiền và tương đương tiền cuối kỳ (70=50÷60÷61)</td><td>70</td><td>5.740.507.130.037</td><td>11.861.209.118.484</td></tr></table>
+
+Lê Thị Hồng Trâm
+Người lập biểu
+
+Nguyên Thị Minh Hải
+Phụ trách kê toán
+
+Phó Tổng Giám đốc
+
+Ngày 21 tháng 3 năm 2019
+
+，H.H.H.
+
+Các thuyết minh kèm theo là một bộ phận hợp thành của báo cáo tài chính riêng này
+
+9
+
+||g| ≈ a, g ≈ |g|
+
+===== PAGE 13 =====
+CÔNG TY CỔ PHẦN LỌC HÓA DẦU BÌNH SƠN
+
+208 Đại lộ Hùng Vương, thành phố Quảng Ngãi
+
+Tình Quảng Ngãi, CHXHCN Việt Nam
+
+MÃU SÕ B 09-DN
+
+Ban hành theo Thông tư số 200/2014/TT-BTC
+
+ngày 22 tháng 12 năm 2014 của Bộ Tài chính
+
+THUYÊT MINH BÁO CÁO TÀI CHÍNH RIÊNG
+
+Các thuyết minh này là một bộ phận hợp thành và cần được đọc đồng thời với báo cáo tài chính riêng kèm theo
+
+1. THÔNG TIN KHÁI QUÁT
+
+Hình thức sở hữu vốn
+
+Công ty Cổ phần Lộc hóa đầu Bình Sơn (sau đây gọi tất là "Công ty") trước đây là Công ty TNHH MTV Lộc hóa đầu Bình Sơn (là công ty con do Tập đoàn Dầu khí Việt Nam nằm giữ 100% vốn điều lệ, được thành lập theo Giấy chứng nhận đăng ký kinh doanh lần đầu số 3404000189 ngày 05 tháng 6 năm 2008).
+
+Công ty thực hiện chuyển đổi mô hình thành công ty cổ phần theo Quyết định số 1978/QĐ-TTg ngày 8 tháng 12 năm 2017 của Thủ tướng Chính phủ về việc phê duyệt phương án cổ phần hóa Công ty TNHH MTV Lộc hóa đầu Bình Sơn. Công ty hoàn thành bán cổ phần lần đầu ra công chứng vào ngày 17 tháng 01 năm 2018 và chính thức niêm yết cổ phiếu trên sàn UPCOM với mã chứng khoán BSR. Ngày glao dịch đầu tiên là ngày 01 tháng 3 năm 2018.
+
+Công ty chính thức chuyển sang hoạt động dưới hình thức Công ty Cổ phần tử ngày 01 tháng 7 năm 2018 với vốn điều lệ là 31.004.996.160.000 VND theo Giấy chứng nhận đăng ký doanh nghiệp thay đổi lỗn thứ 12 ngày 01 tháng 7 năm 2018 do Sở Kế hoạch và Đầu tư tính Quảng Ngãi cấp và các giấy chứng nhận thay đổi.
+
+Công ty mẹ của Công ty là Tập đoàn Dầu khí Việt Nam.
+
+Tổng số nhân viên của Công ty tại ngày 31 tháng 12 năm 2018 là 1.516 (tại ngày 01 tháng 7 năm 2018: 1.513).
+
+Ngành nghề kinh doanh và hoạt động chính
+
+Theo Giấy chứng nhận đăng ký kinh doanh, ngành nghề kinh doanh của Công ty bao gồm:
+
+- Sản xuất, chế biển, kinh doanh, xuất nhập khẩu, tàng trữ, vận chuyển, phân phối đầu mỏ, các sản phẩm từ đầu mỏ, sản phẩm trung gian, nhiên liệu sinh học, hóa phẩm, phụ gia, xúc tác, nguyên nhiên vất liệu phục vụ công nghiệp lọc - hóa đầu;
+
+- Sửa chữa và bảo dưỡng máy móc, thiết bị trong ngành lọc - hóa dấu;
+
+- Giám sát thì công xây dựng công trình dân dụng và công nghiệp. Giám sát lặp thiết bị công trình, hoàn thiện hệ thống đường ống đầu khí, kho chứa đầu khí;
+
+- Đào tạo nguồn nhân lực, thuê và cung cấp chuyên gia về quản lý, vận hành, bảo dưỡng, sửa chữa trong công nghiệp lọc - hóa đầu và càng biển, nghiên cứu khoa học, ứng dụng, sửa chữa trong công nghiệp lọc - hóa đầu;
+
+- Cung cấp các dịch vụ trong lĩnh vực sản xuất, chế biến, kinh doanh, xuất nhập khẩu, tàng trữ, vận chuyển, phân phối đầu mỏ, các sản phẩm từ đầu mỏ, sản phẩm trung gian, nhiên liệu sinh học, hóa phẩm, phụ gia, xúc tác, vật tư máy móc, thiết bị, phụ tùng, phương tiện, nguyên nhiên vật liệu phục vụ công nghiệp lọc - hóa dâu;
+
+- Cung cấp các dịch vụ phân tích, dâu thô, sản phẩm dầu mò và các hoá chất, phụ gia, xúc tác, nhiên liệu sinh học liên quan đến lĩnh vực lọc - hóa dâu;
+
+• Dịch vụ hài cảng, cảng biến liên quan đến ngành lọc - hóa dâu;
+
+• Đầu tư và phát triển các dự án lọc - hóa dâu, nhiên liệu sinh học trong và ngoài nước.
+
+八、答一
+
+112/ 570219
+
+10
+
+===== PAGE 14 =====
+CÔNG TY CỔ PHẦN LỌC HÓA DẦU BÌNH SƠN
+THUYÊT MINH BÁO CẢO TÀI CHÍNH RIÊNG (Tiếp theo)
+
+MÃU SÕ B 09-DN
+
+Chu kỳ sản xuất, kinh doanh thông thường
+
+Chu kỳ sản xuất, kinh doanh thông thường của Công ty được thực hiện trong thời gian không quá 12 tháng.
+
+Câu trúc doanh nghiệp
+
+Tại ngày 31 tháng 12 năm 2018, Công ty có 01 đơn vị hạch toán phụ thuộc là Ban quản lý Dự án Nâng cấp Mở rộng Nhà máy Lộc đầu Dung Quất.
+
+Tại ngày 31 tháng 12 năm 2018, Công ty có 02 công ty con sau:
+
+<table><tr><td></td><td>Nơi thành lập và hoạt động</td><td>Tỷ lệ góp vốn</td><td>Tỷ lệ quyền biểu quyết nằm qiữ</td><td>Giá trị đầu tư tại ngày 31/12/2018 (*)</td><td>Hoạt động chính</td></tr><tr><td>Công ty Cổ phần Nhà và Thương mại Dầu khí</td><td>Quảng Ngãi</td><td>83,26%</td><td>83,26%</td><td>145.892.845.365</td><td>Quản lý nhà ở và kinh doanh dịch vụ khu dân cư, khu đô thị</td></tr><tr><td>Công ty Cổ phần Nhiên liệu Sinh học Dầu khí Miễn Trung</td><td>Quảng Ngãi</td><td>65,54%</td><td>61,00%</td><td>205.772.028.927</td><td>Sản xuất, nhập khẩu các sản phẩm nhiên liệu sinh học</td></tr></table>
+
+(*) Giá trị đầu tư tại ngày cuối kỳ được Công ty xác định bằng giá gốc của khoản đầu tư trừ giá trị tổn thất tại ngày 30 tháng 6 năm 2018 (Thuyết minh số 35).
+
+Công ty Cổ phần Nhiên liệu và Sinh học Dầu khí Miền Trung chính thức hoạt động thương mại từ ngày 01 tháng 01 năm 2014 và đã tạm dùng sản xuất từ ngày 21 tháng 4 năm 2015. Nhà máy đã tái hoạt động trở lại từ ngày 14 tháng 10 năm 2018.
+
+Thuyết minh về khả năng so sánh thông tin trên báo cáo tài chính riêng
+
+Báo cáo tài chính riêng kèm theo được lập cho kỳ hoạt động từ ngày 01 tháng 7 năm 2018 (ngày Công ty chính thức chuyển thành công ty cổ phần) đến ngày 31 tháng 12 năm 2018. Số liệu trình bày ở cột so sánh của báo cáo tài chính riêng là số liệu tại ngày 30 tháng 6 năm 2018 và kỳ hoạt động sâu (6) tháng từ ngày 01 tháng 01 năm 2018 đến ngày 30 tháng 6 năm 2018 của Công ty TNHH MTV Lộc hóa đầu Bình Sơn (đơn vị cổ phần hóa). Tại ngày lập báo cáo tài chính riêng, các cơ quan có thẩm quyền chưa thực hiện kiểm tra và phê duyệt quyết toán cổ phần hóa tại thời điểm Công ty chính thức chuyển thành công ty cổ phần.
+
+Một số số liệu được điều chỉnh hồi tố như trình bày tại Thuyết minh số 36.
+
+2. CƠ SỞ LẬP BÁO CÁO TÀI CHÍNH RIÊNG VÀ NĂM TÀI CHÍNH
+
+Cơ sở lập báo cáo tài chính riêng
+
+Báo cáo tài chính riêng kèm theo được trình bày bằng Đồng Việt Nam (VND), theo nguyên tắc giá gốc và phù hợp với chuẩn mục kê toán, chế độ kê toán doanh nghiệp Việt Nam và các quy định pháp lý có liên quan đến việc lập và trình bày báo cáo tài chính.
+
+Báo cáo tài chính riêng kèm theo không nhằm phần ánh tỉnh hình tài chính, kết quả hoạt động kinh doanh và tỉnh hình lưu chuyển tiền tệ theo các nguyên tắc và thông lệ kế toán được chấp nhận chung tại các nước khác ngoài Việt Nam.
+
+Năm tài chính
+
+Năm tài chính của Công ty bất đầu từ ngày 01 tháng 01 và kết thúc vào ngày 31 tháng 12.
+
+\( \left|\frac{1}{2}\right|_{\mathcal{L}}^{2}\left(\frac{3}{4}\right)^{2} \)
+
+11/5%
+
+11
+
+===== PAGE 15 =====
+CÔNG TY CỔ PHẦN LỌC HÓA DẦU BÌNH SƠN
+THUYẾT MINH BẢO CẢO TÀI CHÍNH RIÊNG (Tiếp theo)
+
+MÃU SÕ B 09-DN
+
+Báo cáo tài chính riêng này của Công ty được lập cho kỳ báo cáo năm đầu tiên của Công ty sau khi chuyển đổi thành công ty cổ phần là từ ngày 01 tháng 7 năm 2018 (thời điểm Công ty chính thức chuyển thành công ty cổ phần) đến ngày 31 tháng 12 năm 2018.
+
+3. TÓM TẮT CÁC CHÍNH SÁCH KÊ TOÁN CHỦ YÊU
+
+Sau đây là các chính sách kể toán chủ yếu được Công ty áp dụng trong việc lập báo cáo tài chính riêng:
+
+Uốc tính kê toán
+
+Việc lập báo cáo tài chính riêng tuân thủ theo chuẩn mục kể toán, chế độ kế toán doanh nghiệp Việt Nam và các quy định pháp lý có liên quan đến việc lập và trình bày báo cáo tài chính và xử lý tài chính tại thời điểm chính thức chuyển thành công ty cổ phần theo quy định hiện hành yêu cầu Ban Tổng Giám đốc phải có những ước tính và giả định ảnh hưởng đến số liệu báo cáo về công nợ, tài sản và việc trình bày các khoản công nợ và tài sản tiềm tảng tại ngày lập báo cáo tài chính riêng cũngng như các số liệu báo cáo về doanh thu và chi phí trong suốt kỳ hoạt động. Mặtc dù các ước tính kể toán được lập bằng tất cả sự hiểu biết của Ban Tổng Giám đốc, số thực tế phát sinh có thể khác với các ước tính, giả định đặt ra.
+
+Tiền và các khoản tương đương tiền
+
+Tiền và các khoản tương đương tiền bao gôm tiền mặt, các khoản tiền gửi không kỳ hạn, các khoản đầu tư ngắn hạn, có khả năng thanh khoản cao, dễ dàng chuyển đổi thành tiền và ít rủi ro liên quan đến việc biến động giả trị.
+
+Các khoản đầu tư tài chính
+
+Các khoản đầu tư nằm giữ đến ngày đáo hạn
+
+Các khoản đầu tư nằm giữ đến ngày đáo hạn bao gồm các khoản đầu tư mà Công ty có ý định và khả năng giữ đến ngày đáo hạn. Các khoản đầu tư nằm giữ đến ngày đáo hạn bao gồm các khoản tiền gửi ngân hàng có kỳ hạn với mục đích thu lãi hàng kỳ.
+
+Các khoản đầu tư vào công ty con
+
+Công ty con là các công ty do Công ty kiểm soát. Việc kiểm soát đạt được khi Công ty có khả năng kiểm soát các chính sách tải chính và hoạt động của các công ty nhận đầu tư nhằm thu được lợi ích từ hoạt động của các công ty này.
+
+Công ty ghi nhận ban đầu khoản đầu tư vào công ty con theo giá gốc. Công ty hạch toán vào thu nhập trên Báo cáo kết quá hoạt động kinh doanh khoản được chia từ lợi nhuận thuần lũy kế của bên nhận đầu tư phát sinh sau ngày đầu tư. Các khoản khác mà Công ty nhận được ngoài lợi nhuận được chia được coi là phân thu hồi các khoản đầu tư và được ghi nhận là khoản giảm trừ giá gốc đầu tư.
+
+Các khoản đầu tư vào công ty con được trình bày trong Bảng cân đối kê toán theo giả gốc trữ đi các khoản dự phòng giảm giá (nếu có). Dự phòng giảm giá đầu tư vào công ty con được trích lập theo quy định tại Thông tư số 228/2009/TT-BTC ngày 07 tháng 12 năm 2009 của Bộ Tài chính về "Hướng dẫn chế độ trích lập và sử dụng các khoản dự phòng giảm giá hàng tôn kho, tổn thất các khoản đầu tư tài chính, nợ phải thu khó đòi và bảo hành sản phẩm, hàng hóa, công trình xây lắp tại doanh nghiệp", Thông tư số 89/2013/TT-BTC ngày 28 tháng 6 năm 2013 của Bộ Tài chính về việc sửa đổi bổ sung Thông tư số 228/2009/TT-BTC và các quy định kê toán hiện hành.
+
+Đầu tư vào công cụ vốn của đơn vị khác
+
+Đầu tư vào công cụ vốn của đơn vị khác phần ánh các khoản đầu tư công cụ vốn nhưng Công ty không có quyền kiểm soát, đồng kiểm soát hoặc có ảnh hưởng đăng kể đối với bên được đầu tư. Khoản đầu tư vào công cụ vốn các đơn vị khác được phần ánh theo nguyên giá trừ các khoản dự phòng giảm giá đầu tư.
+
+12
+
+\( ^{1} \)  \( ^{2} \)  \( ^{3} \)  \( ^{4} \)
+
+C.T.C.P
+
+===== PAGE 16 =====
+CÔNG TY CỔ PHÂN LỌC HÓA DẦU BÌNH SƠN
+THUYẾT MINH BÁO CẢO TÀI CHÍNH RIÊNG (Tiếp theo)
+
+MÃU SÕ B 09-DN
+
+Nợ phải thu
+
+Nợ phải thu là số tiền có thể thu hồi của khách hàng hoặc các đối tượng khác. Nợ phải thu được trình bày theo giá trị ghi số trừ đi các khoản dự phòng phải thu khó đòi.
+
+Dự phòng phải thu khó đòi được trích lập cho những khoản nợ phải thu đã quá hạn thanh toán từ sáu tháng trở lên, hoặc các khoản nợ phải thu mà người nợ khó có khả năng thanh toán do bị thanh lý, phá sản hay các khó khăn tương tự.
+
+Hàng tôn kho
+
+Hàng tồn kho được xác định trên cơ sở giá thấp hơn giữa giá gốc và giá trị thuần có thể thực hiện được. Giá gốc hàng tồn kho bao gồm chi phí nguyên vật liệu trực tiếp, chi phí lao động trực tiếp và chỉ phí sản xuất chung, nếu có, để có được hàng tồn kho ở địa điểm và trạng thái hiện tại. Hàng tồn kho được hạch toán theo phương pháp kê khai thưởng xuyên. Giá gốc của hàng tồn kho được xác định theo phương pháp bình quân gia quyền. Giá trị thuần có thể thực hiện được được xác định bằng giá bán ước tính trừ các chi phí ước tính để hoàn thành sản phẩm cùng chi phí tiếp thị, bán hàng và phân phối phát sinh.
+
+Giá thành sản xuất của từng loại sản phẩm xăng, đầu hàng tháng được xác định như sau: Chi phí nguyên vật liệu của từng sản phẩm được xác định theo mức tiêu hao nguyên vật liệu thực tế đối với từng sản phẩm; Chi phí nhân công và chi phí sản xuất chung được phân bổ theo chi phí nguyên vật liệu của từng sản phẩm.
+
+Giá trị các sản phẩm đồ dang tại thời điểm cuối tháng được xác định theo mức độ hoàn thành của các sản phẩm đồ dang.
+
+Dự phòng giảm giá hàng tồn kho của Công ty được trích lập theo các quy định kế toán hiện hành. Theo đó, Công ty được phép trích lập dự phòng giảm giá hàng tồn kho lỗi thời, hóng, kém phẩm chất và trong trường hợp giá gốc của hàng tồn kho cao hơn giá trị thuần có thể thực hiện được tại ngày kết thúc ký kế toán.
+
+Giá trị thuần có thể thực hiện được của các sản phẩm lọc hóa dâu và dâu thô tồn kho được Công ty xác định như sau:
+
+- Thành phẩm lọc hóa dâu: Công ty xác định giá trị thuần có thể thực hiện được trên cơ sở giá bán uốc tính trừ đã các chỉ phí tiếp thị, bán hàng và phân phối phát sinh.
+
+- Sản phẩm lọc hóa dầu dở dang: Công ty xác định giá trị thuần có thể thực hiện được trên cơ sở quy đổi về thành phẩm tương đương và giá bán ước tính trừ đã các chỉ phí ước tính để hoàn thành sản phẩm cùng chỉ phí tiếp thị, bán hàng và phân phối phát sinh.
+
+Dầu thô: Theo hướng dẫn tại Công văn số 2801/BTC-CDKT ngày 02 tháng 3 năm 2016 của Bộ Tài chính về việc hạch toán hàng tồn kho, đãu thô tồn kho của Công ty tại thời điểm trích lập dự phòng có giá gốc trên số kê toán cao hơn giá trị thuần có thể thực hiện được và giá bán sản phẩm được sản xuất từ đãu thô bị giảm giá thì Công ty thực hiện trích lập dự phòng giảm giá hàng tồn kho đối với đãu thô trên cơ sở giá trị thuần có thể thực hiện được của đầu thô (giá bán ước tính của đãu thô).
+
+Tài sàn cổ định hữu hình và khấu hao
+
+Tài sàn cõ định hữu hình được trình bày theo nguyên giá trừ giá trị hao mòn lũy kê.
+
+Nguyễn giá tài sản cố định hữu hình bao gồm giá mua và toàn bộ các chi phí khác liên quan trực tiếp đến việc đưa tài sản vào trạng thái sản sáng sử dụng. Nguyễn giá tài sản cố định hữu hình do tự làm, tự xây dựng bao gồm chi phí xây dựng, chi phí sản xuất thực tế phát sinh cộng chi phí lắp đặt và chạy thử.
+
+Đổi với tải sản cố định hình thành do đầu tư xây dựng cơ bản theo phương thức giao thầu hoặc tự xây dựng và sản xuất, nguyên giá là giá quyết toán công trình xây dựng theo Quy chế quản lý đầu tư và xây dựng hiện hành, các chỉ phí khác có liên quan trực tiếp và lệ phí trước bạ (nếu có). Trường hợp dự án đã hoàn thành và đưa vào sử dụng những quyết toán chưa được phê duyệt, nguyên giá tài sản cố định được ghi nhận theo giá tạm tính trên cơ sở chỉ phí thực tế đã bổ ra để có được tài sản cố định. Nguyễn giả tạm tính sẽ được điều chỉnh theo giá quyết toán được Tập đoàn, Hội đồng Quản trị hoặc Ban Tổng Giám đốc phê duyệt.
+
+13
+
+1.1.8.11 4 (D)
+
+M.S.D.N:43
+
+===== PAGE 17 =====
+CÔNG TY CỔ PHẦN LỌC HÓA DẦU BÌNH SƠN
+THUYẾT MINH BẢO CẢO TÀI CHÍNH RIÊNG (Tiếp theo)
+
+MÃU SÕ B 09-DN
+
+Tài sàn cố định hữu hình được khấu hao theo phương pháp đường thẳng dựa trên thời gian hữu dụng ước tính, cụ thể như sau:
+
+<table><tr><td></td><td>Từ ngày 01/7/2018đến ngày 31/12/2018(Số năm)</td></tr><tr><td>Nhà cửa, vột kiến trúc</td><td>5 - 50</td></tr><tr><td>Máy móc, thiết bị</td><td>3 - 20</td></tr><tr><td>Trong đó: Máy móc và thiết bị ngành lọc hóa dầu</td><td>10 - 20</td></tr><tr><td>Phương tiện vận tải, thiết bị truyền dẫn</td><td>6 - 25</td></tr><tr><td>Thiết bị văn phòng</td><td>3 - 8</td></tr><tr><td>Tải sản khác</td><td>4 - 5</td></tr></table>
+
+Theo Quyết định số 952/QĐ-TTg của Thủ tướng Chính phủ ngày 26 tháng 7 năm 2012 về một số cơ chế tài chính của Công ty TNHH MTV Lộc hóa đãu Bình Sơn (nay là Công ty Cổ phần Lộc hóa đãu Bình Sơn) (sau đây gọi tất là "Quyết định 952"), Công ty được trích khấu hao tài sản cố định đối với thiết bị chính của Nhà máy Lộc đãu Dung Quát trong thời gian tối đa là 20 năm.
+
+Theo Công văn số 18327/BTC-CDKT ngày 26 tháng 12 năm 2016 của Bộ Tài chính về việc hạch toán hàng tồn kho, cho mục đích lập và trình bày bảo cáo tài chính, Công ty được tính giá trị hàng tồn kho cổ định theo giá trị ghi số kế toán tại thời điểm ngày 31 tháng 12 năm 2015 vào nguyên giá tài sản cổ định. Đông thời, số dự phòng giảm giá hàng tồn kho đã trích lập đến năm 2016 sẽ được hoàn nhập dự phòng giảm giá hàng tồn kho theo quy định. Về mức khấu hao và thời điểm trích khấu hao, Công ty trích khấu hao của dây chuyển nhà máy trên cơ sở giá trị đã bao gồm giá trị hàng tồn kho cổ định trong đường ông được xác định như trên từ ngày 01 tháng 01 năm 2016 theo thời gian sử dụng ước tính còn lại của tài sản cổ định (nhóm máy móc và thiết bị ngành lọc hóa dầu).
+
+Căn cứ vào khối lượng hàng tồn kho cố định là đầu thô, sân phẩm trung gian, thành phẩm tồn cố định trong dưỡngdig, thiết bị và bề chứa của Công ty theo Chứng thư giám định khối lượng hàng tồn kho cố định số 17631001 ngày 12 tháng 01 năm 2017 của Công ty cố phần Giám định Năng lượng Việt Nam, Công ty đã xác định giá trị hàng tồn kho cố định được hạch toán tăng nguyên giá tài sản cố định theo giá trị ghi số kê toán tại ngày 31 tháng 12 năm 2015 với số tiền khoảng 1.007 tỷ VND và đã ghi giảm giá trị hàng tồn kho với số tiền tương ứng. Việc điều chỉnh giá trị và hạch toán hàng tồn kho như trên đã được Hội đồng Thành viên của Công ty phê duyệt tại Quyết định số 905/QĐ-BSR ngày 17 tháng 3 năm 2017.
+
+Các khoản lãi, lỗ phát sinh khí thanh lý, bán tài sản là chênh lệch giữa thu nhập từ thanh lý và giá trị còn lại của tài sản và được ghi nhận vào Báo cáo kết quả hoạt động kinh doanh.
+
+Tài sản cổ định vô hình và khấu hao
+
+Tài sản cố định vô hình được trình bày theo nguyên giá trừ giá trị hao mòn lũy kê.
+
+Tài sản cố định vô hình phản ánh giá trị bằng sáng chế, bản quyền công nghệ, phần mềm máy tính và tài sản cố định vô hình khác. Giá trị bằng sáng chế, bản quyền công nghệ được khấu hao theo phương pháp đường thẳng trong vòng 15 năm, phần mềm máy tính được khấu hao theo phương pháp đường thẳng trong vòng 3 năm, tài sản cố định vô hình khác được khấu hao theo phương pháp đường thẳng trong vòng 6 năm.
+
+Chỉ phí xây dựng cơ bản đồ dang
+
+Các tài sản đang trong quá trình xây dựng phục vụ mục đích sản xuất, cho thuê, quản trị hoặc cho các mục đích khác được ghi nhận theo giá gốc. Chi phí này bao gồm các chi phí cần thiết để hình thành tài sản bao gồm chí phí xây lắp, thiết bị và các chi phí khác có liên quan phù hợp với chính sách kế toán của Công ty. Các chỉ phí này sẽ được chuyển sang nguyên giá tài sản cố định theo giá tạm tính (nếu chưa có quyết toán được phê duyệt) khi các tài sản được bản giao đưa vào sử dụng.
+
+120
+
+//
+
+14
+
+===== PAGE 18 =====
+CÔNG TY CỔ PHẦN LỌC HÓA DẦU BÌNH SƠN
+THUYÊT MINH BẢO CẢO TÀI CHÍNH RIÊNG (Tiếp theo)
+
+MÃU SÕ B 09-DN
+
+Theo quy định về quản lý đầu tư và xây dựng của Nhà nước, tùy theo phân cấp quản lý, giá trị quyết toán các công trình xây dựng cơ bản hoàn thành cân được các cơ quan có thẩm quyền phê duyệt. Do đó, giá trị cuối cùng của các công trình xây dựng cơ bản có thể thay đổi và phụ thuộc vào quyết toán được phê duyệt bởi các cơ quan có thẩm quyền.
+
+Đối với các tài sản cố định phải sửa chữa và bảo dưỡng định kỳ theo yêu cầu kỹ thuật, Công ty trích lập dự phòng phải trả và hạch toán tương ứng vào chi phí sản xuất kinh doanh khi có dự toán chi phí và được cấp có thẩm quyền phê duyệt. Các chỉ phí sửa chữa, bảo dưỡng tài sản cố định thực tế phát sinh được ghi nhận vào "Chỉ phí xây dựng cơ bản dở dang" và được bù trừ với khoản mục "Dự phòng phải trả" khi công việc sửa chữa, bảo dưỡng hoàn thành và được cơ quan có thẩm quyền phê duyệt.
+
+Các khoản trả trước
+
+Chỉ phí trả trước bao gồm các chi phí thực tế đã phát sinh nhưng có liên quan đến kết quả hoạt động sản xuất kinh doanh của nhiều kỳ kế toán. Chi phí trả trước phản ánh chi phí bảo hiểm con người, bảo hiểm rủi ro tài sản, chi phí bảo hiểm nhân thọ và các khoản chi phí trả trước khác.
+
+Khoản trả trước tiền bảo hiểm con người, bảo hiểm rủi ro tài sản, bảo hiểm nhân thọ được phân bổ vào chi phí tương ứng với thời hạn bảo hiểm.
+
+Các khoản chi phí trả trước khác bao gồm giá trị công cụ, dụng cụ, linh kiện loại nhỏ đã xuất dùng, chi phí cải tạo và các chi phí khác và được col là có khả năng đem lại lợi ích kinh tế trong tương lai cho Công ty. Các chi phí này được vốn hóa dưới hình thức các khoản trả trước và được phân bổ vào Báo cáo kết quả hoạt động kinh doanh, sử dụng phương pháp đường thẳng theo các quy định kể toán hiện hành.
+
+Chi phí phải trả
+
+Chỉ phí phải trả bao gôm các khoản chỉ phí lãi vay phải trả và một số chỉ phí trích trước khác chưa chỉ nhưng được ước tính và ghi nhận vào chỉ phí trong kỳ.
+
+Chi phi lãi vay được ghi nhận trên cơ sở gốc vay và lãi suất vay.
+
+Các khoản khác là các chi phí khác đã phát sinh trong kỳ nhưng chưa nhận được hóa đơn từ nhà cung cấp.
+
+Các khoản dự phòng phải trả
+
+Các khoản dự phòng phải trả được ghi nhận khi Công ty có nghĩa vụ nợ hiện tại do kết quả từ một sự kiện đã xảy ra, và Công ty có khả năng phải thanh toán nghĩa vụ này. Các khoản dự phòng được xác định trên cơ sở uốc tính của Ban Tổng Giám đốc về các khoản chỉ phí căn thiết để thanh toán nghĩa vụ nợ này tại ngày kết thúc kỳ kể toán.
+
+Quỹ phát triển khoa học và công nghệ
+
+Quỹ phát triển khoa học và công nghệ được trích lập để tạo nguồn đầu tư cho hoạt động khoa học và công nghệ của Công ty. Quỹ được hình thành trên cơ sở trích lập tối đa 10% từ thu thập chịu thuế trước khi tính thuế thu nhập doanh nghiệp và được ghi nhận vào chi phí hoạt động kinh doanh trong kỳ. Trong ký hoạt động từ ngày 01 tháng 07 năm 2018 đến ngày 31 tháng 12 năm 2018, dựa trên tỉnh hình sử dụng quỹ, Ban Tổng Giám đốc Công ty quyết định không trích lập thêm Quỹ phát triển khoa học và công nghệ.
+
+Nguồn vốn, quỹ
+
+Nguồn vốn kinh doanh của Công ty do Tập đoàn Dầu khí Việt Nam cấp bằng tiền và giá trị tài sản Nhà máy Lộc đầu Dung Quakt, Nhà máy nhựa PolyPropylene và các tài sản khác. Các quỹ được hình thành từ phân phối lợi nhuận của hoạt động kinh doanh sau khi đã trừ thuế thu nhập doanh nghiệp phải nộp hoặc được Tập đoàn cấp.
+
+155| 0.50 1
+
+115
+
+15
+
+===== PAGE 19 =====
+CÔNG TY CỔ PHẦN LỌC HÓA DẦU BÌNH SƠN
+THUYÊT MINH BÁO CÁO TÀI CHÍNH RIÊNG (Tiếp theo)
+
+MẦU SÔ B 09-DN
+
+Ghi nhận doanh thu
+
+Doanh thu bán hàng:
+
+Doanh thu bán hàng được ghi nhận khi đồng thời thỏa mãn tất cả năm (5) điều kiện sau:
+
+(a) Công ty đã chuyển giao phần lớn rủi ro và lợi ích gần liền với quyền sở hữu sản phẩm hoặc hàng hóa cho người mua;
+
+(b) Công ty không còn nằm giữ quyền quản lý hàng hóa như người sở hữu hàng hóa hoặc quyền kiểm soát hàng hóa;
+
+(c) Doanh thu được xác định tương đối chắc chắn;
+
+(d) Công ty sẽ thu được lợi ích kinh tế từ giao dịch bán hàng; và
+
+(e) Xác định được chi phí liên quan đến giao dịch bán hàng,
+
+Doanh thu cung cấp dịch vụ:
+
+Doanh thu của giao dịch về cung cấp dịch vụ được ghi nhận khi kết quả của giao dịch đó được xác định một cách đáng tin cây. Trường hợp giao dịch về cung cấp dịch vụ liên quan đến nhiều kỳ thì doanh thu được ghi nhận trong kỳ theo kết quả phần công việc đã hoàn thành tại ngày của bằng cân đối kế toán hợp nhất của kỳ đó. Kết quả của giao dịch cung cấp dịch vụ được xác định khi thỏa mãn tất cả bốn (4) điều kiện sau:
+
+(a) Doanh thu được xác định tương đối chắc chắn;
+
+(b) Có khả năng thu được lợi ích kinh tế từ giao dịch cung cấp dịch vụ đó;
+
+(c) Xác định được phân công việc đã hoàn thành tại ngày của bằng cân đối kế toán; và
+
+(d) Xác định được chi phí phát sinh cho giao dịch và chi phí để hoàn thành giao dịch cung cấp dịch vụ đó.
+
+Lãi tiền gửi được ghi nhận trên cơ sở đơn tích, được xác định trên số dư các tài khoản tiền gửi và lãi suất áp dụng.
+
+Lãi từ các khoản đầu tư được ghi nhận khi Công ty có quyền nhận khoản lãi.
+
+Ngoại tê
+
+Các nghiệp vụ phát sinh bằng ngoại tệ được chuyển đổi theo tỷ giá tại ngày phát sinh nghiệp vụ. Số dư các khoản mục tiên tệ có gốc ngoại tệ tại ngày kết thúc ký kê toán được chuyển đổi theo tỷ giá tại ngày này. Chênh lệch tỷ giá phát sinh được hạch toán vào Báo cáo kết quả hoạt động kinh doanh.
+
+Chí phí dī vay
+
+Chỉ phí đi vay được ghi nhận vào chí phí sản xuất, kinh doanh trong kỳ khi phát sinh, trừ khi được vốn hoá theo quy định của Chuẩn mục Kế toán Việt Nam số 16 "Chi phí đi vay". Theo đó, chi phí đi vay liên quan trực tiếp đến việc mua, đầu tư xây dựng hoặc sản xuất những tài sản cần một thời gian tương đối dài để hoàn thành đưa vào sử dụng hoặc kinh doanh được cộng vào nguyên giá tài sản cho đến khi tài sản đó được đưa vào sử dụng hoặc kinh doanh. Các khoản thu nhập phát sinh từ việc đầu tư tạm thời các khoản vay được ghi giảm nguyên giá tài sản có liên quan. Đối với khoản vay riêng phục vụ việc xây dựng tài sản cố định, bắt động sản đầu tư, lãi vay được vốn hóa kể cả khi thời gian xây dựng dưới 12 tháng.
+
+Thuê
+
+Thuế thu nhập doanh nghiệp thể hiện tổng giá trí của thuế phải trả hiện tại và số thuế hoãn lại.
+
+Số thuế phải trả hiện tại được tính dựa trên thu nhập chịu thuế trong kỳ. Thu nhập chịu thuế khác với lợi nhuận trước thuế được trình bày trên báo cáo kết quả hoạt động kinh doanh vì thu nhập chịu thuế không bao gồm các khoản thu nhập hay chi phí tính thuế hoặc được khấu trừ trong các kỳ khác (bao gồm cả lỗ mang sang, nếu có) và ngoài ra không bao gồm các chỉ tiêu không chịu thuế hoặc không được khấu trừ.
+
+16
+
+\( x^{2}+y^{2}=r^{2} \)
+
+11017456121
+
+===== PAGE 20 =====
+CÔNG TY CỔ PHẦN LỌC HÓA DẦU BÌNH SƠN
+THUYẾT MINH BÁO CẢO TÀI CHÍNH RIÊNG (Tiếp theo)
+
+MÃU SÕ B 09-DN
+
+Theo Quyết định 952, Công ty được áp dụng mức thuế suất thuế thu nhập doanh nghiệp là 10% trong thời gian 30 năm; được miễn thuế 4 năm và giảm 50% số thuế phải nộp trong thời gian 9 năm tiếp theo từ năm đầu tiên Công ty có thu nhập chịu thuế từ Dự án Nhà máy Lọc đầu Dung Quất. Năm 2018 là năm thứ năm (5) Công ty được hưởng ưu đãi giảm 50% số thuế thu nhập doanh nghiệp phải nộp.
+
+Thuế thu nhập hoãn lại được tính trên các khoản chênh lệch giữa giá trị ghi số và cơ sở tính thuế thu nhập của các khoản mục tài sản hoặc công nợ trên bảo cáo tài chính riêng và được ghi nhận theo phương pháp bảng cản đối kế toán. Thuế thu nhập hoãn lại phải trả phải được ghi nhận cho tất cả các khoản chênh lệch tạm thời còn tài sản thuế thu nhập hoãn lại chi được ghí nhận khi chắc chắn có đủ lợi nhuận tính thuế trong tương lai để khấu trừ các khoản chênh lệch tạm thời.
+
+Thuế thu nhập hoãn lại được xác định theo thuế suất dự tính sẽ áp dụng cho kỳ tài sản được thu hồi hay nợ phải trả được thanh toán. Thuế thu nhập hoãn lại được ghi nhận vào báo cáo kết quả hoạt động kinh doanh và chỉ ghi vào vốn chủ sở hữu khí khoản thuế đó có liên quan đến các khoản mục được ghi thẳng vào vốn chủ sở hữu.
+
+Tài sản thuế thu nhập hoãn lại và nợ thuế thu nhập hoãn lại phải trả được bù trừ khi Công ty có quyền hợp pháp để bù trừ giữa tài sản thuế thu nhập hiện hành với thuế thu nhập hiện hành phải nộp và khí các tài sản thuế thu nhập hoãn lại và nợ thuế thu nhập hoãn lại phải trả liên quan tối thuế thu nhập doanh nghiệp được quản lý bởi cùng một cơ quan thuế và Công ty có dự định thanh toán thuế thu nhập hiện hành trên cơ sở thuần.
+
+Việc xác định thuế thu nhập của Công ty căn cứ vào các quy định hiện hành về thuế. Tuy nhiên, những quy định này thay đổi theo từng thời kỳ và việc xác định sau cùng về thuế thu nhập doanh nghiệp tùy thuộc vào kết quả kiểm tra của cơ quan thuế có thẩm quyền.
+
+Các loại thuế khác được áp dụng theo các luật thuế hiện hành tại Việt Nam với một số ưu đãi cho Công ty mẹ theo Giấy chứng nhận đầu tư số 13/ÚBĐT ngày 15 tháng 02 năm 2006 của Ban Quản lý Khu kinh tế Dung Quát, cụ thể: được miễn nộp tiên thuê đất trong suốt thời gian thực hiện dự án; được miễn nộp tiên sử dụng đất; được miễn nộp thuê sử dụng đất trong suốt thời gian thực hiện dự án; được giảm 50% thuế thu nhập đối với người có thu nhập cao (kể cả người Việt Nam và người nước ngoài); được miễn thuế nhập khẩu đối với nguyên liệu sản xuất, vật tư, lĩnh kiện và bán thành phẩm mà trong nước chưa sản xuất được hoặc sản xuất không đạt tiêu chuẩn chất lượng trong 05 năm kể từ khi bắt đầu sản xuất; được miễn thuế nhập khẩu đối với hàng hóa mà trong nước chưa sản xuất được hoặc sản xuất được nhưng chưa đáp ứng được yêu cầu chất lượng.
+
+Theo Công văn số 520/CT-TTHT của Cục thuế Tỉnh Quảng Ngãi ngày 05 tháng 3 năm 2018, Công ty TNHH MTV Lộc hóa đãu Bình Sơn (nay là Công ty Cổ phần Lộc hóa đầu Bình Sơn) đang được hưởng ưu đãi thuế thu nhập doanh nghiệp do đáp ứng điều kiện ưu đãi về địa bàn (khu Kinh tế Dung Quất) thì thu nhập được hưởng ưu đãi thuế thu nhập doanh nghiệp là toàn bộ thu nhập phát sinh từ hoạt động sản xuất kinh doanh trên địa bàn ưu đãi (bao gồm cả khoản Chênh lệch lãi tiền gửi ngân hàng lớn lôn lãi tiên vay, thu nhập từ cung cấp dịch vụ tại cảng biển, và các khoản thu nhập liên quan đến hoạt động sản xuất kinh doanh trên địa bàn ưu đãi).
+
+Xử lý tài chính tại thời điểm chuyên thành công ty cổ phần (ngày 01 tháng 7 năm 2018)
+
+Theo quy định tại Điều 21 của Nghị định số 126/2017/NĐ-CP ngày 16 tháng 11 năm 2017 của Chính phủ về chuyển doanh nghiệp Nhà nước và công ty TNHH MTV do doanh nghiệp Nhà nước đầu tư 100% vốn điều lệ thành Công ty Cổ phần, số dư dự phòng giảm giá hàng tồn kho, các khoản đầu tư tài chính (nếu có) được sử dụng đểbü rule đập các tồn thất theo quy định hiện hành, số còn lại được hoàn nhập vào kết quả hoạt động kinh doanh của doanh nghiệp cổ phần hóa.
+
+Đổi với khoản chênh lệch tỷ giá do đánh giá lại các khoản mục tiền tệ có gốc ngoại tệ tại thời điểm chính thức chuyển thành công ty cổ phần, Công ty đánh giá lại theo quy định và không thực hiện kết chuyển vào kết quả hoạt động sản xuất kinh doanh. Số dư khoản chênh lệch tỷ giá tại thời điểm này thực hiện chuyển giao cho công ty cổ phần (sau chuyển đổi doanh nghiệp Nhà nước) theo dõi và xử lý theo quy định.
+
+1. N.H.II 4/0.
+
+N. Q/S W/ P, Z
+
+17
+
+===== PAGE 21 =====
+CÔNG TY CỔ PHẦN LỌC HÓA DẦU BÌNH SƠN
+THUYẾT MINH BÁO CẢO TÀI CHÍNH RIÊNG (Tiếp theo)
+
+MÃU SÕ B 09-DN
+
+4. TIÊN VÀ CÁC KHOÀN TƯƠNG ĐƯƠNG TIÊN
+
+<table><tr><td rowspan="2"></td><td>31/12/2018</td><td>01/7/2018</td></tr><tr><td>VND</td><td>VND</td></tr><tr><td>Tiền mặt</td><td>669.580.425</td><td>916.104.640</td></tr><tr><td>Tiền gửi ngân hàng không kỳ hạn</td><td>905.207.854.103</td><td>1.575.663.318.335</td></tr><tr><td>Các khoản tương tương tiền (*)</td><td>4.834.629.695.509</td><td>10.284.629.695.509</td></tr><tr><td></td><td>5.740.507.130.037</td><td>11.861.209.118.484</td></tr></table>
+
+(*) Các khoản tương đương tiền phần ánh các khoản tiền gửi có kỳ hạn gốc không quả 3 tháng tại các ngân hàng thương mại.
+
+Tại ngày 31 tháng 12 năm 2018, các khoản tương đương tiền của Công ty bao gồm 2.734.629.695.509 VND (tại ngày 01 tháng 7 năm 2018; 2.734.629.695.509 VND) là tiền gửi có kỳ hạn 3 tháng tại Ngân hàng Thương mại TNHH MTV Đại Dương - Chi nhánh Quảng Ngãi đang tạm dùng glao dịch. Bản Tổng Giám đốc đánh giá khoản tiền này sẽ được glao dịch trở lại trong tương lai khi có những quy định cụ thể của Ngân hàng Nhà nước.
+
+5. CÁC KHOÀN ĐẦU TƯ TÀI CHÍNH
+
+a) Đầu tư tài chính ngăn hạn
+
+Tại ngày 31 tháng 12 năm 2018, số dư đầu tư nằm giữ đến ngày đáo hạn phản ánh khoản tiền gửi có kỳ hạn 12 tháng tại Ngân hàng Thương mại TNHH MTV Đại Dương – Chi nhánh Quảng Ngãi đang tạm dùng giao dịch. Ban Tổng Giám đốc đánh giá khoản tiền này sẽ được giao dịch trở lại trong tương lai khi có những quy định cụ thể của Ngân hàng Nhà nước.
+
+b) Đầu tư tài chính dài hạn
+
+<table><tr><td rowspan="3"></td><td colspan="3">31/12/2018</td><td colspan="3">01/7/2018</td></tr><tr><td>Giá gốc</td><td>Tỷ lệ góp vốn</td><td>Dự phòng</td><td>Giá gốc</td><td>Tỷ lệ góp vốn</td><td>Dự phòng</td></tr><tr><td>VND</td><td>%</td><td>VND</td><td>VND</td><td>%</td><td>VND</td></tr><tr><td colspan="7">b1) Đầu tư vào công ty con</td></tr><tr><td>Công ty Cố phần Nhà và Thương mại Dầu khí</td><td>145.892.845.365</td><td>83,26%</td><td>-</td><td>145.892.845.365</td><td>83,26%</td><td>-</td></tr><tr><td>Công ty Cố phần Nhiên liệu Sinh học Dầu khí Miền Trung (*)</td><td>205.772.028.927</td><td>65,54%</td><td>(49.427.985.961)</td><td>205.772.028.927</td><td>65,54%</td><td>-</td></tr><tr><td></td><td>351.664.874.292</td><td></td><td>(49.427.985.961)</td><td>351.664.874.292</td><td></td><td>-</td></tr><tr><td colspan="7">b2) Đầu tư góp vốn vào đơn vị khác</td></tr><tr><td>Công ty Cố phần Bảo dưỡng và Sửa chữa Công trình Dầu khí</td><td>7.000.000.000</td><td>8,75%</td><td>-</td><td>7.000.000.000</td><td>8,75%</td><td>-</td></tr><tr><td>Công ty TNHỊ Kho ngầm Xăng dầu Dầu khí Việt Nam</td><td>4.244.000.000</td><td>5,77%</td><td>-</td><td>4.244.000.000</td><td>5,77%</td><td>-</td></tr><tr><td></td><td>11.244.000.000</td><td></td><td>-</td><td>11.244.000.000</td><td></td><td>-</td></tr></table>
+
+(*) Giá trị đầu tư vào Công ty Cổ phần Nhiên liệu Sinh học Dầu khí Miễn Trung ("BSR-BF") tại ngày 01 tháng 7 năm 2018 được Công ty xác định bằng giá gốc của khoản đầu tư trừ giá trị tổn thất của khoản đầu tư tại ngày 30 tháng 6 năm 2018 (Thuyết minh số 35).
+
+18
+
+\( ^{2} \)  \( f_{n}^{m-1} \) , 0.
+
+1191800
+
+===== PAGE 22 =====
+CÔNG TY CỔ PHẦN LỌC HÓA DẦU BÌNH SƠN
+THUYẾT MINH BÁO CẢO TÀI CHÍNH RIÊNG (Tiếp theo)
+
+MÃU SÕ B 09-DN
+
+Tóm tchèt tinh hình hoạt động công ty con trong kỳ:
+
+Trong kỳ hoạt động từ ngày 01 tháng 7 năm 2018 đến ngày 31 tháng 12 năm 2018, kết quả kinh doanh của BSR-BF bị lỗ còn Công ty Cổ phần Nhà và Thương mại Dầu khí có lãi.
+
+BSR-BF đã tạm ghi tăng nguyên giá các tài sản cố định của dự án Nhà máy Nhiên liệu Sinh học Bio-Ethanol Dung Quát ("Nhà máy") trong năm 2014. Tại ngày báo cáo này, BSR-BF đang trong quá trình thực hiện các thủ tục quyết toán chi phí đầu tư xây dựng và tiếp tục thực hiện các kiến nghị của Thanh tra Chính phủ theo Thông báo số 3129/TB-TTCP ngày 24 tháng 11 năm 2016. Giá trị quyết tran Nhà máy sẽ được điều chỉnh (nếu có) khi có phê duyệt của các cơ quan có thẩm quyền. Tại ngày 31 tháng 12 năm 2018, nợ ngắn hạn của BSR-BF vượt quá tài sản ngắn hạn là 636 tỷ VND, lỗ lũy kể của BSR-BF là 893,8 tỷ VND và nợ quá hạn thanh toán là 518,4 tỷ VND. Khả năng tiếp tục hoạt động của BRS-BF phụ thuộc vào khả năng tái hoạt động sản xuất của nhà máy, các hỗ trợ tài chính từ các cổ đông cũngng như lợi nhuận từ hoạt động kinh doanh trong tương lại. Hội đồng Quản trị và Ban Tổng Giám đốc Công tỷ đánh giá các kể hoạch hoạt động và tài chính của BSR-BF bao gồm hợp đồng hợp tác với một đối tác để khởi động lại hoạt động nhà máy và khẳng định cơ sở lập báo cáo tài chính của BSR-BF theo nguyên tắc hoạt động liên tục là phù hợp.
+
+6. PHẢI THU NGĂN HẠN CỦA KHÁCH HÀNG
+
+<table><tr><td rowspan="2"></td><td>31/12/2018</td><td>01/7/2018</td></tr><tr><td>VND</td><td>VND</td></tr><tr><td colspan="3">a. Phải thu ngắn hạn của khách hàng</td></tr><tr><td>Tập đoàn Xăng dầu Việt Nam</td><td>3.165.211.371.019</td><td>2.889.389.618.778</td></tr><tr><td>Công ty TNHH MTV Dầu khí Thành phố Hồ Chí</td><td>709.077.185.116</td><td>862.644.607.938</td></tr><tr><td>Công ty TNHH MTV Thương mại Dầu khí Đồng Tháp</td><td>268.885.735.528</td><td>492.390.469.359</td></tr><tr><td>Công ty Cổ phần Nhiên liệu bay Petrolimex</td><td>280.583.780.611</td><td>450.994.259.912</td></tr><tr><td>Công ty TNHH MTV Nhiên liệu Hàng không Việt</td><td>186.109.698.117</td><td>400.649.006.927</td></tr><tr><td>Công ty Cổ phần Nhựa OPEC</td><td>269.853.743.082</td><td>306.511.490.406</td></tr><tr><td>Tổng Công ty Thương mại Xuất nhập khẩu Thanh Lễ</td><td>343.364.195.401</td><td>291.294.097.687</td></tr><tr><td>Các khách hàng khác</td><td>1.976.090.572.914</td><td>2.301.036.921.047</td></tr><tr><td>b. Phải thu khách hàng các bên liên quan - (Chi tiết tại Thuyết minh số 33)</td><td>1.550.250.767.636</td><td>2.287.095.201.378</td></tr><tr><td>Tổng cộng</td><td>8.749.427.049.423</td><td>10.282.005.673.432</td></tr></table>
+
+7. TRÀ TRUỐC CHO NGƯỜI BÁN
+
+<table><tr><td rowspan="2"></td><td>31/12/2018</td><td>01/7/2018</td></tr><tr><td>VND</td><td>VND</td></tr><tr><td>a. Trà trước cho người bán ngắn hạn</td><td>124.038.077.821</td><td>94.697.196.015</td></tr><tr><td>Honeywell Pte Ltd</td><td>-</td><td>13.084.734.593</td></tr><tr><td>Albemarle Singapore Pte. Ltd</td><td>16.338.745.518</td><td>58.810.695</td></tr><tr><td>Các đối tượng khác</td><td>107.699.332.303</td><td>81.553.650.727</td></tr><tr><td>b. Trà trước cho người bán dài hạn</td><td>521.395.822.590</td><td>483.215.132.617</td></tr><tr><td>Ban quản lý Khu kinh tế Dung Quát (*)</td><td>521.395.822.590</td><td>483.215.132.617</td></tr><tr><td>Trong đó: Trà trước cho các bên liên quan - (Chỉ tiết tại Thuyết minh số 33)</td><td>1.866.499.833</td><td>2.864.926.452</td></tr><tr><td>Tổng cộng</td><td>645.433.900.411</td><td>577.912.328.632</td></tr></table>
+
+(*) Phần ánh khoản tiền Công ty ứng trước cho Ban quản lý Khu kinh tế Dung Quất từ năm 2015 để thực hiện đền bù giải phóng mặt bằng cho Dự án nâng cấp mở rộng Nhà máy Lộc dâu Dung Quất.
+
+[Unreadable]
+
+||185| G P H O H N | 0
+
+19
+
+===== PAGE 23 =====
+CÔNG TY CỔ PHÂN LỌC HÓA DẦU BÌNH SƠN
+THUYẾT MINH BẢO CẢO TÀI CHÍNH RIÊNG (Tiếp theo)
+
+MÃU SÕ B 09-DN
+
+8. PHÀI THU NGÂN HẠN KHÁC
+
+<table><tr><td rowspan="2"></td><td>31/12/2018</td><td>01/7/2018</td></tr><tr><td>VND</td><td>VND</td></tr><tr><td>Phải thu lãi tiền gửi có kỳ hạn</td><td>26.185.224.707</td><td>54.800.908.567</td></tr><tr><td>Phải thu về cổ phần hóa</td><td>5.701.672.688</td><td>5.701.672.688</td></tr><tr><td>Tạm ứng</td><td>461.400.000</td><td>1.222.839.000</td></tr><tr><td>Phải thu khác</td><td>1.553.797.412</td><td>2.313.405.814</td></tr><tr><td></td><td>33.902.094.807</td><td>64.038.826.069</td></tr></table>
+
+9. HÀNG TỔN KHO
+
+<table><tr><td rowspan="2"></td><td colspan="2">31/12/2018</td><td colspan="2">01/7/2018</td></tr><tr><td>Giế gốc</td><td>VND Dự phòng</td><td>Giế gốc</td><td>VND Dự phòng</td></tr><tr><td>Hàng mua đang đi</td><td>2.088.100.419.061</td><td>-</td><td>512.900.581.641</td><td>-</td></tr><tr><td>Nguyén liệu, vật liệu</td><td>3.159.296.605.527</td><td>495.369.860</td><td>3.986.184.829.425</td><td>-</td></tr><tr><td>Công cụ, dụng cụ</td><td>1.485.475.565.884</td><td>4.567.441.194</td><td>1.483.935.590.986</td><td>-</td></tr><tr><td>Chỉ phí sản xuất, kinh</td><td>999.032.491.711</td><td>85.996.525.519</td><td>1.344.992.763.705</td><td>-</td></tr><tr><td>Thành phẩm</td><td>1.710.543.509.554</td><td>162.603.071.106</td><td>1.770.296.939.497</td><td>-</td></tr><tr><td></td><td>9.442.448.591.737</td><td>253.662.407.679</td><td>9.098.310.705.254</td><td>-</td></tr></table>
+
+Tại ngày 31 tháng 12 năm 2018, Công ty đã trích lập dự phòng giảm giả hàng tồn kho với số tiền là 253.662.407.679 VND đối với hàng tồn kho bị giảm giá, kém phẩm chất và có giá trị thuần có thể thực hiện được thấp hơn giá gốc của các hàng tồn kho này.
+
+10. CHI PHÍ TRÀ TRƯỚC
+
+<table><tr><td rowspan="2"></td><td>31/12/2018</td><td>01/7/2018</td></tr><tr><td>VND</td><td>VND</td></tr><tr><td colspan="3">a. Ngắn hạn</td></tr><tr><td>Bảo hiểm con người, rủi ro tài sản</td><td>3.012.263.115</td><td>114.318.376.859</td></tr><tr><td>Chi phí trả trước ngăn hạn khác</td><td>13.206.275.091</td><td>21.957.629.182</td></tr><tr><td></td><td>16.218.538.206</td><td>136.276.006.041</td></tr><tr><td colspan="3">b. Dải hạn</td></tr><tr><td>Chi phí bảo hiểm nhân thọ (i)</td><td>302.572.239.075</td><td>324.982.723.515</td></tr><tr><td>Bảo hiểm rủi ro tài sản</td><td>30.760.047.916</td><td>-</td></tr><tr><td>Chi phí trả trước dài hạn khác</td><td>6.986.151.854</td><td>-</td></tr><tr><td></td><td>340.318.448.845</td><td>324.982.723.515</td></tr></table>
+
+(i) Chi phí bảo hiểm nhân thọ được Công ty mua cho cán bộ, nhân viên và được phân bổ vào kết quả kinh doanh trong 10 năm kể từ thời điểm phát sinh.
+
+| 1 | 2 |
+
+1107/2,20.50
+
+20
+
+===== PAGE 24 =====
+CÔNG TY CỔ PHẦN LỌC HÓA DẦU BÌNH SƠN
+THUYÊT MINH BÁO CÁO TÀI CHÍNH RIÊNG (Tiếp theo)
+
+11. TĂNG, GIÀM TÀI SẢN CỔ ĐỊNH HỮU HÌNH
+
+MÃU SÕ B 09-DN
+
+<table><tr><td></td><td>Nhà xuǒngvà vát kiěn trúcVND</td><td>Máy mócvà thiết biVND</td><td>Thiết bịvăn phòngVND</td><td>Phuống tiện vântái, thiết bịtruyền đănhVND</td><td>Tài sản cố định hữuhình khácVND</td><td>TổngVND</td></tr><tr><td colspan="7">NGUYÊN GIÁ</td></tr><tr><td>Tại ngày 01/7/2018</td><td>6.343.898.695.646</td><td>38.081.484.119.533</td><td>480.945.242.188</td><td>151.521.785.948</td><td>554.667.912</td><td>45.058.404.511.227</td></tr><tr><td>Tăng trong kỳ</td><td>5.109.162.000</td><td>20.171.533.598</td><td>31.184.737.727</td><td>3.402.643.636</td><td>-</td><td>59.868.076.961</td></tr><tr><td>Đầu tư xây dựng cơ bảnhoàn thành</td><td>25.280.886.467</td><td>7.675.448.730</td><td>-</td><td>-</td><td>-</td><td>32.956.335.197</td></tr><tr><td>Tăng khác</td><td>-</td><td>14.266.059</td><td>-</td><td>-</td><td>-</td><td>14.266.059</td></tr><tr><td>Tại ngày 31/12/2018</td><td>6.374.288.744.113</td><td>38.109.345.367.920</td><td>512.129.979.915</td><td>154.924.429.584</td><td>554.667.912</td><td>45.151.243.189.444</td></tr><tr><td colspan="7">GIÁ TRỊ HAO MÔN LỦY KẾ</td></tr><tr><td>Tại ngày 01/7/2018</td><td>2.215.143.840.901</td><td>16.042.895.389.210</td><td>212.305.434.556</td><td>74.468.976.307</td><td>475.334.583</td><td>18.545.288.975.557</td></tr><tr><td>Khẩu hao trong kỳ</td><td>147.166.683.401</td><td>1.052.064.348.484</td><td>38.153.862.568</td><td>6.970.947.578</td><td>9.333.336</td><td>1.244.365.175.367</td></tr><tr><td>Khẩu hao tài sản của dự án,tài sản cho mục đích phúc lợi</td><td>131.969.082</td><td>230.018.340</td><td>102.251.862</td><td>-</td><td>-</td><td>464.239.284</td></tr><tr><td>Tại ngày 31/12/2018</td><td>2.362.442.493.384</td><td>17.095.189.756.034</td><td>250.561.548.986</td><td>81.439.923.885</td><td>484.667.919</td><td>19.790.118.390.208</td></tr><tr><td colspan="7">GIÁ TRỊ CÒN LẠI</td></tr><tr><td>Tại ngày 01/7/2018</td><td>4.128.754.854.745</td><td>22.038.588.730.323</td><td>268.639.807.632</td><td>77.052.809.641</td><td>79.333.329</td><td>26.513.115.535.670</td></tr><tr><td>Tại ngày 31/12/2018</td><td>4.011.846.250.729</td><td>21.014.155.611.886</td><td>261.568.430.929</td><td>73.484.505.699</td><td>69.999.993</td><td>25.361.124.799.236</td></tr></table>
+
+21
+
+\( x^{2}+y^{2}=r^{2}/r \)
+
+NGAI 1 C.1 M.S.D.N.
+
+===== PAGE 25 =====
+CÔNG TY CỔ PHẦN LỌC HÓA DẦU BÌNH SƠN
+
+THUYÊT MINH BÁO CẢO TÀI CHÍNH RIÊNG (Tiếp theo)
+
+MÃU SÕ B 09-DN
+
+12. TĂNG, GIĂM TÀI SẢN CỔ ĐỊNH VÔ HÌNH
+
+<table><tr><td rowspan="2"></td><td>Bản quyền, bằng sáng chế</td><td>Phân mềm máy tính</td><td>Tài sản cố định vô hình khác</td><td>Tổng</td></tr><tr><td>VND</td><td>VND</td><td>VND</td><td>VND</td></tr><tr><td colspan="5">NGUYÊN GIÁ</td></tr><tr><td>Tại ngày 01/7/2018</td><td>438.606.719.617</td><td>244.136.386.710</td><td>32.703.172.505</td><td>715.446.278.832</td></tr><tr><td>Tăng trong kỳ</td><td>-</td><td>30.786.776.419</td><td>-</td><td>30.786.776.419</td></tr><tr><td>Đầu tư xây dựng cơ bản hoàn thành</td><td>-</td><td>22.855.893.000</td><td>-</td><td>22.855.893.000</td></tr><tr><td>Tại ngày 31/12/2018</td><td>438.606.719.617</td><td>297.779.056.129</td><td>32.703.172.505</td><td>769.088.948.251</td></tr><tr><td colspan="5">GIÁ TRỊ HAO MÔN LỦY KẾ</td></tr><tr><td>Tại ngày 01/7/2018</td><td>226.553.330.192</td><td>69.698.244.858</td><td>26.858.112.963</td><td>323.109.688.013</td></tr><tr><td>Khẩu hao trong kỳ</td><td>14.192.688.492</td><td>23.723.433.219</td><td>340.391.013</td><td>38.256.512.724</td></tr><tr><td>Khẩu hao tài sản của dự án, tài sản cho mục đích phúc lợi</td><td>-</td><td>458.836.680</td><td>-</td><td>458.836.680</td></tr><tr><td>Tại ngày 31/12/2018</td><td>240.746.018.684</td><td>93.880.514.757</td><td>27.198.503.976</td><td>361.825.037.417</td></tr><tr><td colspan="5">GIÁ TRỊ CÔN LẠI</td></tr><tr><td>Tại ngày 01/7/2018</td><td>212.053.389.425</td><td>174.438.141.852</td><td>5.845.059.542</td><td>392.336.590.819</td></tr><tr><td>Tại ngày 31/12/2018</td><td>197.860.700.933</td><td>203.898.541.372</td><td>5.504.668.529</td><td>407.263.910.834</td></tr></table>
+
+Nguyên giá của các tài sản cố định vô hình đã khẩu hao hết nhưng vẫn còn sử dụng tại ngày 31 tháng 12 năm 2018 là 36.582 triệu VND (ngày 01 tháng 7 năm 2018: 12.711 triệu VND).
+
+13. CHI PHÍ XÂY DỰNG CO' BẢN ĐỒ' DẠNG
+
+<table><tr><td rowspan="2"></td><td>31/12/2018</td><td>01/7/2018</td></tr><tr><td>VND</td><td>VND</td></tr><tr><td>Dự án nâng cấp mở rộng Nhà máy Lọc đầu Dung Quát</td><td>930.151.544.565</td><td>911.840.870.660</td></tr><tr><td>Dự án bổ sung phân xưởng thu hồi lưu huỳnh</td><td>-</td><td>70.000.000</td></tr><tr><td>Các công trình khác</td><td>56.585.808.398</td><td>49.415.132.822</td></tr><tr><td></td><td>986.737.352.963</td><td>961.326.003.482</td></tr></table>
+
+1. N.H.II 去 /c
+
+\( \frac{1}{2} \)  \( \frac{1}{2} \)  \( \frac{1}{2} \)
+
+22
+
+===== PAGE 26 =====
+CÔNG TY CỔ PHẦN LỌC HÓA DẦU BÌNH SƠN
+
+THUYÊT MINH BÁO CÁO TÀI CHÍNH RIÊNG (Tiếp theo)
+
+MÃU SÕ B 09-DN
+
+14. PHÀI TRẢ NGƯỜI BÁN NGẦN HẠN
+
+<table><tr><td rowspan="2"></td><td colspan="2">31/12/2018</td><td colspan="2">01/7/2018</td></tr><tr><td>Giá trị</td><td>VND Số có khả năng trả nợ</td><td>Giá trị</td><td>VND Số có khả năng trả nợ</td></tr><tr><td colspan="5">a. Các khoản phải trả người bản ngắn hạn</td></tr><tr><td>Công ty Liên doanh điều</td><td>1.645.545.089.735</td><td>1.645.545.089.735</td><td>1.965.203.459.332</td><td>1.965.203.459.332</td></tr><tr><td>Công ty Hoàng Long</td><td>244.595.897.248</td><td>244.595.897.248</td><td>843.146.670.763</td><td>843.146.670.763</td></tr><tr><td>Công ty Đầu khí Việt Nhật</td><td>571.739.264.948</td><td>571.739.264.948</td><td>708.292.419.273</td><td>708.292.419.273</td></tr><tr><td>Công ty Điều hành chung</td><td>217.669.842.227</td><td>217.669.842.227</td><td>547.903.833.784</td><td>547.903.833.784</td></tr><tr><td>Các đối tượng knắc</td><td>429.636.369.195</td><td>429.636.369.195</td><td>365.596.304.424</td><td>365.596.304.424</td></tr><tr><td></td><td>3.109.186.463.353</td><td>3.109.186.463.353</td><td>4.430.142.687.576</td><td>4.430.142.687.576</td></tr><tr><td>b. Phải trả người bán là các bên liên quan (chỉ tiết tại Thuyết minh số 33)</td><td>2.922.170.707.985</td><td>2.922.170.707.985</td><td>4.518.979.290.015</td><td>4.518.979.290.015</td></tr><tr><td>Tổng cộng</td><td>6.031.357.171.338</td><td>6.031.357.171.338</td><td>8.949.121.977.591</td><td>8.949.121.977.591</td></tr></table>
+
+15. THUÊ VÀ CÁC KHOÀN PHÀI THU/PHÀI NỘP NHÀ NƯỚC
+
+<table><tr><td rowspan="2"></td><td>01/7/2018</td><td>Số phải nộp trong kỳ</td><td>Số đã thực nộp trong kỳ</td><td>31/12/2018</td></tr><tr><td>VND</td><td>VND</td><td>VND</td><td>VND</td></tr><tr><td>Thuế giả trị gia tăng</td><td>225.859.447.885</td><td>2.949.937.261.492</td><td>2.817.552.300.405</td><td>358.244.408.972</td></tr><tr><td>- Thuế GTGT đầu ra</td><td>225.859.447.885</td><td>2.516.771.948.741</td><td>2.384.386.987.654</td><td>358.244.408.972</td></tr><tr><td>- Thuế GTGT hàng nhập khẩu</td><td>-</td><td>433.165.312.751</td><td>433.165.312.751</td><td>-</td></tr><tr><td>Thuế biểu thụ đặc biệt</td><td>463.928.310.260</td><td>2.355.943.573.474</td><td>2.409.689.259.380</td><td>410.182.624.354</td></tr><tr><td>Thuế xuất, nhập khẩu</td><td>(700.938.257)</td><td>184.342.916.608</td><td>201.170.574.840</td><td>(17.528.596.489)</td></tr><tr><td>Thuế thu nhập doanh nghiệp</td><td>126.728.074.323</td><td>23.318.051.111</td><td>184.441.604.678</td><td>(34.395.479.244)</td></tr><tr><td>Các loại thuế, phí, lệ phí khác</td><td>8.363.007.624</td><td>56.859.442.557</td><td>56.116.811.906</td><td>9.105.638.475</td></tr><tr><td>Thuế nhà đất</td><td>-</td><td>708.233.691</td><td>10.415.191</td><td>697.818.500</td></tr><tr><td>Thuế thu nhập cá nhân</td><td>3.763.357.692</td><td>7.916.636.248</td><td>9.729.294.095</td><td>1.950.899.845</td></tr><tr><td>Các loại thuế khác</td><td>4.599.190.132</td><td>47.888.960.527</td><td>46.031.230.529</td><td>6.456.920.130</td></tr><tr><td>Các khoản phí, lệ phí</td><td>460.000</td><td>345.412.091</td><td>345.872.091</td><td>-</td></tr><tr><td></td><td>824.177.902.035</td><td>5.570.401.245.242</td><td>5.668.970.551.209</td><td>725.608.596.068</td></tr><tr><td colspan="5">Trong đó:</td></tr><tr><td>Thuế và các khoản phải thu Nhà nước</td><td>2.796.033.072</td><td></td><td></td><td>54.019.170.548</td></tr><tr><td>Thuế và các khoản phải nộp Nhà nước</td><td>826.973.935.107</td><td></td><td></td><td>779.627.766.616</td></tr></table>
+
+\( \therefore a_{c} = 1 \)
+
+1151 Z.020 191
+
+23
+
+===== PAGE 27 =====
+CÔNG TY CỔ PHẦN LỌC HÓA DẦU BÌNH SƠN
+THUYẾT MINH BÁO CẢO TÀI CHÍNH RIÊNG (Tiếp theo)
+
+MÃU SÕ B 09-DN
+
+16. CHI PHÍ PHÀI TRÀ NGÂN HẠN
+
+<table><tr><td rowspan="2"></td><td>31/12/2018</td><td>01/7/2018</td></tr><tr><td>VND</td><td>VND</td></tr><tr><td>Lãi vay phải trả</td><td>11.805.178.313</td><td>13.704.588.171</td></tr><tr><td>Phải trả chí phí mua dâu thô nhập khẩu (*)</td><td>1.499.493.149.796</td><td>-</td></tr><tr><td>Chỉ phí phải trả ngắn hạn khác</td><td>17.231.376.049</td><td>15.523.401.468</td></tr><tr><td></td><td>1.528.529.704.158</td><td>29.227.989.639</td></tr></table>
+
+(*) Phần ánh chi phí mua dâu thô nhập khẩu tử Socar Trading Singapore PTE Ltd. (ủy thác nhập khẩu thông qua Tổng Công ty Dầu Việt Nam - PVOIL) theo Phụ lục số 2.46 ngày 13 tháng 4 năm 2018 của Hợp đồng nguyên tắc số 189/PVOIL-BSR/06-10/K tháng 6 năm 2010 giữa Công ty và PVOIL về việc cung cấp dâu thô cho Nhà máy Lộc dâu Dung Quát.
+
+17. PHÁI TRÀ NGĂN HẠN KHÁC
+
+<table><tr><td rowspan="2"></td><td>31/12/2018</td><td>01/7/2018</td></tr><tr><td>VND</td><td>VND</td></tr><tr><td>Tập đoàn Dầu khí Việt Nam (i)</td><td>1.423.992.623.305</td><td>6.273.992.623.305</td></tr><tr><td>Ban quản lý Dư án Nhà máy Lọc dầu Dung Quế t(ii)</td><td>170.383.701.042</td><td>170.383.701.042</td></tr><tr><td>Phải trả về cổ phần hóa (iii)</td><td>-</td><td>-</td></tr><tr><td>Phải trả tiền bán cổ phần (iv)</td><td>9.211.577.795</td><td>9.211.577.795</td></tr><tr><td>Nhận ký quỹ, ký cược ngắn hạn</td><td>6.457.497.195</td><td>2.681.569.480</td></tr><tr><td>Phải trả ngân hạn khác</td><td>8.246.591.051</td><td>6.232.816.536</td></tr><tr><td></td><td>1.618.291.990.388</td><td>6.462.502.288.158</td></tr></table>
+
+(i) Phản ánh khoản lợi nhuận còn phải trả Tập đoàn Dầu khí Việt Nam tại ngày kết thúc kỳ kê toán.
+
+(ii) Phân ánh khoản phải trả Ban quản lý Dự án Nhà máy Lọc đầu Dung Quát do nhận bàn giao chi phí đến bù vật chất và cải hoán Nhà máy Lọc đầu Dung Quát theo Biên bản bàn giao số 15/LDDQ-BSR/BBBG ngày 28 tháng 8 năm 2015.
+
+(iii) Số dư phải trả về cổ phần hóa có thể được điều chỉnh lại khi có phê duyệt cuối cùng của cơ quan có thẩm quyền (Thuyết minh số 35).
+
+(iv) Phải trả tiền bán cổ phần phản ánh số tiền Công ty thu được khi thực hiện chào bán cổ phần ra công chúng và chưa nộp về Quỹ hỗ trợ và sắp xếp doanh nghiệp bao gồm cá tiền lãi. Khoan tiền tvu trẻ cổ phần hóa này sẽ được quyết toán và có thể được điều chỉnh khi có phê duyệt cuối cùng của cơ quan có thẩm quyền.
+
+67.50
+
+制 80 合計法
+
+24
+
+===== PAGE 28 =====
+CÔNG TY CỔ PHÂN LỌC HÓA DẦU BÌNH SƠN
+THUYẾT MINH BÁO CẢO TÀI CHÍNH RIÊNG (Tiếp theo)
+
+18. VÀY VÀ NỘ THUÊ TÀI CHÍNH NGẦN HẠN
+
+MÃU SÕ B 09-DN
+
+<table><tr><td rowspan="2"></td><td colspan="2">01/7/2018</td><td colspan="2">Trong kỳ</td><td colspan="2">31/12/2018</td></tr><tr><td>Giá trị</td><td>VND Số có khả năng trả nợ</td><td>Tăng</td><td>VND Giám</td><td>Giá trị</td><td>VND Số có khả năng trả nợ</td></tr><tr><td colspan="7">Vay ngắn hạn</td></tr><tr><td>- Ngân hàng TMCP Phát triển Thành phố Hồ Chí Minh - Chỉ nhánh Trung tâm Kinh doanh</td><td>371.000.000.000</td><td>371.000.000.000</td><td>500.000.000.000</td><td>871.000.000.000</td><td>-</td><td>-</td></tr><tr><td>- Ngân hàng TMCP Sài Gòn - Hà Nội</td><td>615.000.000.000</td><td>615.000.000.000</td><td>3.790.000.000.000</td><td>4.405.000.000.000</td><td>-</td><td>-</td></tr><tr><td>- Ngân hàng TMCP Đại Chứng Việt Nam - Chỉ nhánh Quảng Ngãi</td><td>400.000.000.000</td><td>400.000.000.000</td><td></td><td>400.000.000.000</td><td>-</td><td>-</td></tr><tr><td>- Ngân hàng Đầu tư và Phát triển - Chỉ nhánh Quảng Ngãi</td><td>129.000.000.000</td><td>129.000.000.000</td><td>-</td><td>129.000.000.000</td><td>-</td><td>-</td></tr><tr><td>Nợ dài hạn đến hạn trả(trình bày tại Tiuyết minh số 19)</td><td>2.626.868.133.300</td><td>2.626.868.133.300</td><td>991.334.395.467</td><td>1.326.479.211.573</td><td>2.291.723.317.194</td><td>2.291.723.317.194</td></tr><tr><td></td><td>4.141.868.133.300</td><td>4.141.868.133.300</td><td>5.281.334.395.467</td><td>7.131.479.211.573</td><td>2.291.723.317.194</td><td>2.291.723.317.194</td></tr></table>
+
+25
+
+\( \left|\begin{matrix}1 & 0 & 0 \\ 0 & 0 & 0\end{matrix}\right| \) [2].
+
+\( \left\|  {V}_{GA}\right\|  = C\left\|  {V}_{GA}\right\|  = \left\|  {V}_{GA}\right\|  = N\left\|  \right\| \)
+
+===== PAGE 29 =====
+CÔNG TY CỔ PHẦN LOC HÓA DẦU BÌNH SƠN
+
+THUYÊT MINH BÁO CÁO TÀI CHÍNH RIÊNG (Tiêp theo)
+
+19. VAY VÀ NỘ THUÊ TÀI CHÍNH DÀI HẠN
+
+MÃU SÕ B 09-DN
+
+<table><tr><td rowspan="2"></td><td colspan="3">01/7/2018</td><td colspan="2">Trong kỳ</td><td>31/12/2018</td></tr><tr><td>Giá trị</td><td>VND Số có khả năng trả nợ</td><td>Tăng</td><td>VND Giảm</td><td>Giá trị</td><td>VND Số có khả năng trả nợ</td></tr><tr><td rowspan="2">Vay dài hạn</td><td>10.266.379.173.300</td><td>10.266.379.173.300</td><td>-</td><td>1.221.639.036.106</td><td>9.044.740.137.194</td><td>9.044.740.137.194</td></tr><tr><td>10.266.379.173.300</td><td>10.266.379.173.300</td><td>-</td><td>1.221.639.036.106</td><td>9.044.740.137.194</td><td>9.044.740.137.194</td></tr><tr><td rowspan="2">Trong đó:- Số phải trả trong vòng 12 tháng- Số phải trả sau 12 tháng</td><td>2.626.868.133.300</td><td></td><td></td><td></td><td></td><td>2.291.723.317.194</td></tr><tr><td>7.639.511.040.000</td><td></td><td></td><td></td><td></td><td>6.753.016.820.000</td></tr><tr><td colspan="7">Các khoản vay dài hạn bao gồm:</td></tr><tr><td rowspan="2"></td><td></td><td></td><td>31/12/2018</td><td></td><td></td><td>01/7/2018</td></tr><tr><td>Giá trị</td><td>Nợ dài hạn đến hạn trả</td><td>VND Nợ phải trả sau 12 tháng</td><td>Giá trị</td><td>Nợ dài hạn đến hạn trả</td><td>VND Nợ phải trả sau 12 tháng</td></tr><tr><td>Vay dài hạnNgân hàng Phát triển Việt Nam - Chỉ nhánh Quảng Ngãi</td><td>8.682.661.900.000</td><td>1.929.645.080.000</td><td>6.753.016.820.000</td><td>9.549.572.160.000</td><td>1.910.061.120.000</td><td>7.639.511.040.000</td></tr><tr><td>Ngân hàng TMCP Ngoại thương Việt Nam</td><td>362.078.237.194</td><td>362.078.237.194</td><td>-</td><td>716.807.013.300</td><td>716.807.013.300</td><td>-</td></tr><tr><td></td><td>9.044.740.137.194</td><td>2.291.723.317.194</td><td>6.753.016.820.000</td><td>10.266.379.173.300</td><td>2.626.868.133.300</td><td>7.639.511.040.000</td></tr></table>
+
+26
+
+小叶云
+
+Bn-3C-O2O30c
+
+===== PAGE 30 =====
+CÔNG TY CỔ PHẦN LỌC HÓA DẦU BÌNH SƠN
+
+THUYÊT MINH BÁO CÁO TÀI CHÍNH RIÊNG (Tiếp theo)
+
+MÃU SÕ B 09-DN
+
+Các khoản vay dài hạn của Công ty được dùng để đầu tư, mua sắm và xây dựng tài sản cố định. Lãi suất trong kỳ là 3,6%/năm đến 4,39%/năm đối với Đô la Mỹ. Các khoản vay được phân loại theo đồng tiên vay, hình thức bảo đảm, và lãi suất vay như sau:
+
+<table><tr><td rowspan="2"></td><td>31/12/2018</td><td>01/7/2018</td></tr><tr><td>VND</td><td>VND</td></tr><tr><td>Vay bằng USD</td><td>9.044.740.137.194</td><td>10.266.379.173.300</td></tr><tr><td>Vay bằng VND</td><td>-</td><td>-</td></tr><tr><td></td><td>9.044.740.137.194</td><td>10.266.379.173.300</td></tr><tr><td rowspan="2"></td><td>31/12/2018</td><td>01/7/2018</td></tr><tr><td>VND</td><td>VND</td></tr><tr><td>Vay có bảo lãnh của bên thứ 3(Tập đoàn, Bộ Tài chính)</td><td>362.078.237.194</td><td>716.807.013.300</td></tr><tr><td>Vay tín chấp</td><td>8.682.661.900.000</td><td>9.549.572.160.000</td></tr><tr><td></td><td>9.044.740.137.194</td><td>10.266.379.173.300</td></tr><tr><td rowspan="2"></td><td>31/12/2018</td><td>01/7/2018</td></tr><tr><td>VND</td><td>VND</td></tr><tr><td>Vay theo lãi suất thể nối</td><td>362.078.237.194</td><td>716.807.013.300</td></tr><tr><td>Vay theo lãi suất cổ định</td><td>8.682.661.900.000</td><td>9.549.572.160.000</td></tr><tr><td></td><td>9.044.740.137.194</td><td>10.266.379.173.300</td></tr></table>
+
+Các khoản vay dài hạn được hoàn trả theo lịch biểu sau:
+
+<table><tr><td rowspan="2"></td><td>31/12/2018</td><td>01/7/2018</td></tr><tr><td>VND</td><td>VND</td></tr><tr><td>Trong vòng một năm</td><td>2.291.723.317.194</td><td>2.626.868.133.300</td></tr><tr><td>Trong nằm thứ hai</td><td>1.929.645.080.000</td><td>1.910.061.120.000</td></tr><tr><td>Từ nằm thứ ba đến năm thứ năm</td><td>4.823.371.740.000</td><td>5.729.449.920.000</td></tr><tr><td></td><td>9.044.740.137.194</td><td>10.266.379.173.300</td></tr><tr><td>Trừ: số phải trả trong vòng 12 tháng(được trình bày ở phần vay ngắn hạn)</td><td>2.291.723.317.194</td><td>2.626.868.133.300</td></tr><tr><td>Số phải trả sau 12 tháng</td><td>6.753.016.820.000</td><td>7.639.511.040.000</td></tr></table>
+
+20. QUỸ PHÁT TRIỂN KHOA HỌC VÀ CÔNG NGHỆ
+
+<table><tr><td rowspan="2"></td><td>Từ ngày 01/7/2018đến ngày 31/12/2018</td><td>Từ ngày 01/01/2018đến ngày 30/6/2018(Trình bày lại)</td></tr><tr><td>VND</td><td>VND</td></tr><tr><td>Số dư đầu kỳ</td><td>1.423.123.900.248</td><td>1.428.892.444.389</td></tr><tr><td>Giảm trong kỳ</td><td>(7.310.154.789)</td><td>(5.768.544.141)</td></tr><tr><td>- Sử dụng quỹ</td><td>(7.310.154.789)</td><td>(5.768.544.141)</td></tr><tr><td>Số dư cuối kỳ</td><td>1.415.813.745.459</td><td>1.423.123.900.248</td></tr></table>
+
+\( \frac{1}{2} \)
+
+. M.S.
+
+37.
+JG
+PH
+IOA
+HS
+IAN
+
+27
+
+===== PAGE 31 =====
+CÔNG TY CỔ PHẦN LỌC HÓA DẦU BÌNH SƠN
+THUYÊT MINH BÁO CẢO TÀI CHÍNH RIÊNG (Tiếp theo)
+
+21. VÔN CHỦ SỞ HỮU
+Thay đổi trong vốn chủ sở hữu
+
+MÃU SÕ B 09-DN
+
+<table><tr><td rowspan="2"></td><td>Vốn góp của chủ sở hữu</td><td>Chênh lệch tỷ giá hối doài</td><td>Quỹ đầu tư phát triển</td><td>Lợi nhuận sau thuế chưa phân</td><td>Cộng</td></tr><tr><td>VND</td><td>VND</td><td>VND</td><td>VND</td><td>VND</td></tr><tr><td>Số dư tại ngày 01 tháng 01 năm 2018Điều chính hồi tố thuế nhập khẩu</td><td>28.601.997.800.456</td><td>-</td><td>5.675.629.749.730</td><td>-</td><td>34.277.627.550.186</td></tr><tr><td>Điều chính lợi nhuận năm 2017</td><td>-</td><td>-</td><td>-</td><td>(275.988.508.141)</td><td>(275.988.508.141)</td></tr><tr><td>Điều chính tạm trích Quỹ đầu tư phát triển</td><td>-</td><td>-</td><td>(82.000.000.000)</td><td>82.000.000.000</td><td>-</td></tr><tr><td>Điều chính phân phối lợi nhuận năm 2017 phải nộp về Tập đoàn</td><td>-</td><td>-</td><td>-</td><td>193.988.508.141</td><td>193.988.508.141</td></tr><tr><td>Điều chính hồi tố theo kiểm toán Nhà nước và Thanh tra Thuế (Thuyết minh số 36)</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>Điều chính lợi nhuận năm 2017</td><td>-</td><td>-</td><td>-</td><td>163.168.404.348</td><td>163.168.404.348</td></tr><tr><td>Điều chính phân phối lợi nhuận năm 2017 phải nộp về Tập đoàn</td><td>-</td><td>-</td><td>-</td><td>(163.168.404.348)</td><td>(163.168.404.348)</td></tr><tr><td>Số dư tại ngày 01 tháng 01 năm 2018(Trình bày lại)</td><td>28.601.997.800.456</td><td>-</td><td>5.593.629.749.730</td><td>-</td><td>34.195.627.550.186</td></tr><tr><td>Lợi nhuận trong kỳ</td><td>-</td><td>-</td><td>-</td><td>3.451.031.872.479</td><td>3.451.031.872.479</td></tr><tr><td>Tạm trích Quỹ khen thưởng, phúc lợi</td><td>-</td><td>-</td><td>-</td><td>(56.471.100.000)</td><td>(56.471.100.000)</td></tr><tr><td>Tạm trích Quỹ đầu tư phát triển</td><td>-</td><td>-</td><td>1.032.000.000.000</td><td>(1.032.000.000.000)</td><td>-</td></tr><tr><td>Tạm trích lợi nhuận phal nộp về Tập đoàn</td><td>-</td><td>-</td><td>-</td><td>(2.362.560.772.479)</td><td>(2.362.560.772.479)</td></tr><tr><td>Kết chuyển tăng vốn điều lệ</td><td>2.402.998.359.544</td><td>-</td><td>(2.402.998.359.544)</td><td>-</td><td>-</td></tr><tr><td>Kết chuyển phải trả cổ phần hóa</td><td>-</td><td>-</td><td>(2.721.191.414.777)</td><td>-</td><td>(2.721.191.414.777)</td></tr><tr><td>Chênh lệch tỷ giá do xử lý tài chính (I)</td><td>-</td><td>(57.718.950.430)</td><td>-</td><td>-</td><td>(57.718.950.430)</td></tr><tr><td>Điều chính lợi nhuận năm 2016 phải nộp về Tập đoàn từ Quỹ đầu tư phát triển</td><td>-</td><td>-</td><td>(1.501.439.975.409)</td><td>-</td><td>(1.501.439.975.409)</td></tr><tr><td>Số dư tại ngày 30 tháng 6 năm 2018Điều chính hồi tố theo kiểm toán Nhà nước và Thanh tra Thuế (Thuyết minh số 36)</td><td>31.004.996.160.000</td><td>(57.718.950.430)</td><td>-</td><td>-</td><td>30.947.277.209.570</td></tr><tr><td>Điều chính lợi nhuận 6 tháng đầu năm 2018</td><td>-</td><td>-</td><td>-</td><td>(91.180.780.985)</td><td>(91.180.780.985)</td></tr><tr><td>Điều chính phân phối lợi nhuận 6 tháng đầu năm 2018 về Tập đoàn</td><td>-</td><td>-</td><td>-</td><td>91.180.780.985</td><td>91.180.780.985</td></tr><tr><td>Điều chính theo Nghị quyết phê duyệt phân phối lợi nhuận năm 2017 (il)</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>Điều chính lợi nhuận năm 2017 phải nộp về Tập đoàn từ Quỹ đầu tư phát triển</td><td>-</td><td>-</td><td>(2.313.000.000.000)</td><td>-</td><td>(2.313.000.000.000)</td></tr><tr><td>Điều chính khoản phal trả cổ phần hóa</td><td>-</td><td>-</td><td>2.313.000.000.000</td><td>-</td><td>2.313.000.000.000</td></tr><tr><td>Điều chính theo Nghị quyết phê duyệt phân phối lợi nhuận 6 tháng đầu năm 2018 (iii)</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>Điều chính trích Quỹ đầu tư phát triển 6 tháng đầu năm 2018</td><td>-</td><td>-</td><td>(408.191.414.777)</td><td>408.191.414.777</td><td>-</td></tr><tr><td>Điều chính khoản phal trả cổ phần hóa</td><td>-</td><td>-</td><td>408.191.414.777</td><td>-</td><td>408.191.414.777</td></tr><tr><td>Điều chính trích Quỹ khen thưởng, phúc lợi 6 tháng đầu năm 2018</td><td>-</td><td>-</td><td>-</td><td>(6.992.275.000)</td><td>(6.992.275.000)</td></tr><tr><td>Điều chính lợi nhuận 6 tháng đầu năm 2018 phải nộp về Tập đoàn</td><td>-</td><td>-</td><td>-</td><td>(401.199.139.777)</td><td>(401.199.139.777)</td></tr><tr><td>Số dư tại ngày 30 tháng 6 năm 2018(Trình bày lại)</td><td>31.004.996.160.000</td><td>(57.718.950.430)</td><td>-</td><td>-</td><td>30.947.277.209.570</td></tr><tr><td>Lợi nhuận trong kỳ</td><td>-</td><td>-</td><td>-</td><td>250.743.660.704</td><td>250.743.660.704</td></tr><tr><td>Điều chính chênh lệch tỷ giá (I)</td><td>-</td><td>57.718.950.430</td><td>-</td><td>-</td><td>57.718.950.430</td></tr><tr><td>Số dư tại ngày 31 tháng 12 năm 2018</td><td>31.004.996.160.000</td><td>-</td><td>-</td><td>250.743.660.704</td><td>31.255.739.820.704</td></tr></table>
+
+28
+
+===== PAGE 32 =====
+CÔNG TY CỔ PHẦN LOC HÓA DẦU BÌNH SƠN
+THUYÊT MINH BẢO CẢO TÀI CHÍNH RIÊNG (Tiếp theo)
+
+MÃU SÕ B 09-DN
+
+(i) Tại ngày 30 tháng 6 năm 2018, Công ty thực hiện đánh giá lại chênh lệch tỷ giá các khoản mục tiền tệ có gốc ngoại tệ tại theo quy định và thực hiện chuyển giao cho công ty cổ phần theo dõi và xử lý theo quy định (Thuyết minh số 35).
+
+(ii) Theo Nghị quyết số 6039/NQ-DKVN ngày 8 tháng 10 năm 2018 của Hội đồng Thành viên Tập đoàn Dầu khí Việt Nam về việc thông qua báo cáo tài chính năm 2017 đã được kiểm toán và Phương án phân phối lợi nhuận của Công ty, Công ty không được phê duyệt trích Quỹ đầu tư phát triển trong năm 2017. Theo đó, lợi nhuận sau thuê phải nộp bổ sung từ Quỹ đầu tư phát triển đã trích lập của Công ty về Tập đoàn là 2.313.000.000.000 VND. Số dư phải trả cổ phần hóa kết chuyển từ Quỹ đầu tư phát triển tại ngày 30 tháng 6 năm 2018 sẽ giảm một khoản tương ứng.
+
+(iii) Theo Nghị quyết số 1270/NQ-DKVN ngày 07 tháng 3 năm 2019 của Hội đồng Thành viên Tập đoàn Dầu khí Việt Nam về việc thông qua báo cáo tài chính 6 tháng đầu năm 2018 đã được kiểm toán và Phương án phân phối lợi nhuận của Công ty, Công ty điều chỉnh giảm Quỹ đầu tư phát triển với số tiền là 408.191.414.777 VND. Theo đó, số dự phải trả cổ phần hóa kết chuyển từ Quỹ đầu tư phát triển tại ngày 30 tháng 6 năm 2018 sẽ giảm một khoản tương ứng.
+
+Vốn aiêu lệ
+
+Theo Giấy chứng nhận đăng ký kinh doanh thay đổi lăn thứ 13 ngày 18 tháng 12 năm 2018, vốn điều lệ của Công ty là 31.004.996.160.000 VND, tổng số cổ phiếu là 3.100.499.616 với mệnh giả 10.000 VND/cổ phiếu. Tại ngày 31 tháng 12 năm 2018, vốn điều lệ đã được cổ đông góp như sau:
+
+Vôn đã góp
+
+<table><tr><td rowspan="2"></td><td colspan="2">Tại ngày 31/12/2018</td><td colspan="2">Tại ngày 01/7/2018</td></tr><tr><td>VND</td><td>%</td><td>VND</td><td>%</td></tr><tr><td>Tập đoàn Dầu khí Việt</td><td>28.563.802.470.000</td><td>92,13%</td><td>28.563.802.470.000</td><td>92,13%</td></tr><tr><td>Các cổ đông khác</td><td>2.441.193.690.000</td><td>7,87%</td><td>2.441.193.690.000</td><td>7,87%</td></tr><tr><td></td><td>31.004.996.160.000</td><td>100%</td><td>31.004.996.160.000</td><td>100%</td></tr></table>
+
+<table><tr><td rowspan="2">Cổ phiếu</td><td>31/12/2018</td><td>01/7/2018</td></tr><tr><td>VND</td><td>VND</td></tr><tr><td>Số lượng cổ phiếu đã bán ra công chúng</td><td>3.100.499.616</td><td>3.100.499.616</td></tr><tr><td>Cổ phiếu phổ thông</td><td>3.100.499.616</td><td>3.100.499.616</td></tr><tr><td>Cổ phiếu ưu đãi</td><td>-</td><td>-</td></tr><tr><td>Số lượng cổ phiếu đang lưu hành</td><td>3.100.499.616</td><td>3.100.499.616</td></tr><tr><td>Cổ phiếu phổ thông</td><td>3.100.499.616</td><td>3.100.499.616</td></tr><tr><td>Cổ phiếu ưu đãi</td><td>-</td><td>-</td></tr></table>
+
+Cổ phiếu phổ thông có mệnh giá 10.000 VND/cổ phiếu.
+
+22. CÁC KHOÀN MỤC NGOÀI BÁNG CÂN Đ<|box_end|><|ref_start|> KẾ TOÁN
+
+<table><tr><td rowspan="2"></td><td>31/12/2018</td><td>01/7/2018</td></tr><tr><td>VND</td><td>VND</td></tr><tr><td colspan="3">Ngoại tệ các loại</td></tr><tr><td>Đô la Mỹ (USD)</td><td>2.937.468,53</td><td>890.635,57</td></tr><tr><td>Euro (EUR)</td><td>2,16</td><td>2,16</td></tr></table>
+
+29
+
+\( \left|\left(\frac{3}{2}\right)\right|=\left(\frac{9}{2}\right)\cdot\frac{45}{2}\cdot\overline{0}=\left|\frac{1}{2}\right|\div\frac{1}{2} \)
+
+\( \therefore {a}_{1} =  - 1 \)
+
+===== PAGE 33 =====
+CÔNG TY CỔ PHẦN LỌC HÓA DẦU BÌNH SƠN
+THUYÊT MINH BÁO CẢO TÀI CHÍNH RIÊNG (Tiếp theo)
+
+MÃU SÕ B 09-DN
+
+23. BÁO CÁO BỘ PHÂN
+
+Bộ phận theo lĩnh vực kinh doanh
+
+Hoạt động chính của Công ty là sản xuất, chế biến, kinh doanh các sản phẩm từ đầu mỏ. Thông tin tài chính trình bày trên Bảng cân đối kế toán tại ngày 31 tháng 12 năm 2018 và toàn bộ doanh thu, chí phí trình bày tại Báo cáo kết quả hoạt động kinh doanh cho kỳ hoạt động từ ngày 01 tháng 7 năm 2018 đến ngày 31 tháng 12 năm 2018 chủ yếu liên quan đến hoạt động sản xuất, chế biến, kinh doanh các sản phẩm từ đầu mỏ. Theo đó, Công ty không lập Báo cáo bộ phận theo lĩnh vực kinh doanh. Doanh thu, giá vốn theo từng hoạt động sản xuất kinh doanh được trình bày tại Thuyết minh số 24 và số 25.
+
+Bộ phận theo khu vực địa lý
+
+Hoạt động sản xuất, chế biển, kinh doanh các sản phẩm từ đầu mỏ và các dịch vụ khác chủ yếu đều hoạt động trong lãnh thổ Việt Nam. Theo đó, Công ty không lập Báo cáo bộ phận theo khu vực địa lý.
+
+24. DOANH THU BÁN HÀNG VÀ CUNG CẤP DỊCH VỤ
+
+<table><tr><td rowspan="2"></td><td>Từ ngày 01/7/2018đến ngày 31/12/2018</td><td>Từ ngày 01/01/2018đến ngày 30/6/2018</td></tr><tr><td>VND</td><td>VND</td></tr><tr><td>Tổng doanh thu bán hàng và cung cấp dịch</td><td>56.055.058.673.292</td><td>55.875.121.974.199</td></tr><tr><td>Doanh thu Diesel DO</td><td>20.492.414.568.177</td><td>21.511.318.828.336</td></tr><tr><td>Doanh thu Xăng Mogas 92</td><td>9.536.374.771.381</td><td>8.246.212.780.173</td></tr><tr><td>Doanh thu Xăng Mogas 95</td><td>13.699.235.857.922</td><td>15.398.319.204.986</td></tr><tr><td>Doanh thu LPG</td><td>3.954.797.078.382</td><td>3.675.426.847.432</td></tr><tr><td>Doanh thu Kerosen/Jet A1</td><td>4.254.147.217.291</td><td>3.317.785.964.369</td></tr><tr><td>Doanh thu Polypropylene</td><td>2.439.066.287.452</td><td>2.477.995.649.595</td></tr><tr><td>Doanh thu Dầu nhiên liệu FO</td><td>1.201.781.252.288</td><td>812.267.361.872</td></tr><tr><td>Doanh thu Xăng sinh học E5</td><td>404.781.381.979</td><td>366.923.834.878</td></tr><tr><td>Doanh thu dịch vụ cảng biển</td><td>66.827.994.125</td><td>66.612.987.960</td></tr><tr><td>Doanh thu lưu huỳnh</td><td>1.850.943.953</td><td>1.210.084.768</td></tr><tr><td>Doanh thu dịch vụ khác</td><td>3.781.320.342</td><td>1.048.429.830</td></tr><tr><td>Trong đó: Doanh thu với các bên liên quan(chỉ tiết tại Thuyết minh số 33)</td><td>9.911.028.810.411</td><td>11.523.927.766.333</td></tr><tr><td></td><td>56.055.058.673.292</td><td>55.875.121.974.199</td></tr></table>
+
+25. GIÁ VỐN HÀNG BÁN VÀ DỊCH VỤ CUNG C{{{P}}
+
+<table><tr><td></td><td>Từ ngày 01/7/2018đến ngày 31/12/2018VND</td><td>Từ ngày 01/01/2018đến ngày 30/6/2018(Trình bày lai)VND</td></tr><tr><td>Giá vốn hàng bán Diesel DO</td><td>19.805.471.589.431</td><td>21.328.994.404.877</td></tr><tr><td>Giá vốn hàng bán Xăng Mogas 92</td><td>9.637.356.820.369</td><td>7.062.180.551.779</td></tr><tr><td>Giá vốn hàng bán Xăng Mogas 95</td><td>14.087.241.162.978</td><td>13.218.358.154.486</td></tr><tr><td>Giá vốn hàng bán LPG</td><td>3.595.667.801.631</td><td>4.045.404.906.490</td></tr><tr><td>Giá vốn hàng bán Kerosen/Jet A1</td><td>3.856.258.438.396</td><td>2.956.420.823.938</td></tr><tr><td>Giá vốn hàng bán Polypropylene</td><td>2.289.339.406.970</td><td>1.583.501.287.117</td></tr><tr><td>Giá vốn hàng bán Dâu nhiên liệu FO</td><td>1.098.911.362.503</td><td>1.207.602.340.826</td></tr><tr><td>Giá vốn Xăng sinh học E5</td><td>412.481.947.603</td><td>321.600.922.329</td></tr><tr><td>Giá vốn dịch vụ cảng biển</td><td>31.270.648.233</td><td>34.200.203.273</td></tr><tr><td>Giá vốn hàng bán Propylene</td><td>584.756.989</td><td>567.950.548</td></tr><tr><td>Trích lập/(hoền nhập) dự phòng giảm giá hàng tôn kho</td><td>253.662.407.679</td><td>(12.503.982.765)</td></tr><tr><td>Giá vốn khác</td><td>7.720.287.106</td><td>2.704.255.235</td></tr><tr><td></td><td>55.075.966.629.888</td><td>51.749.031.818.133</td></tr></table>
+
+\( ^{7} \)  /  \( ^{*} \)  =  \( ^{2} \)  =  \( ^{3} \)
+
+\( \left\| \frac{N}{O} \cdot \frac{1}{2} \right\| \times \frac{1}{2} \)
+
+30
+
+===== PAGE 34 =====
+CÔNG TY CỔ PHẦN LỌC HÓA DẦU BÌNH SƠN
+
+THUYET MINH BẢO CẢO TÀI CHỈNH RIÊNG (Tiếp theo)
+
+MÃU SÕ B 09-DN
+
+26. CHI PHÍ SẢN XUẤT, KINH DOANH THEO YÊU TỔ
+
+<table><tr><td></td><td>Từ ngày 01/7/2018đến ngày 31/12/2018VND</td><td>Từ ngày 01/01/2018đến ngày 30/6/2018(Trình bày lại)VND</td></tr><tr><td>Chi phí nguyên liệu, vật liệu</td><td>54.699.306.726.736</td><td>51.696.215.163.763</td></tr><tr><td>Chi phí công cụ, dụng cụ</td><td>17.912.181.719</td><td>19.282.556.476</td></tr><tr><td>Chi phí nhân công</td><td>316.616.065.187</td><td>286.755.082.923</td></tr><tr><td>Chi phí khấu hao tài sản cố định</td><td>1.282.310.391.996</td><td>1.278.101.378.156</td></tr><tr><td>Chi phí dịch vụ mua ngoài</td><td>910.504.458.939</td><td>871.967.646.185</td></tr><tr><td>Chi phí khác bằng tiền</td><td>163.904.089.794</td><td>159.335.236.911</td></tr><tr><td></td><td>57.390.553.914.371</td><td>54.311.657.064.414</td></tr></table>
+
+27. DOANH THU HOẠT ĐỘNG TÀI CHÍNH
+
+<table><tr><td></td><td>Từ ngày 01/7/2018đến ngày 31/12/2018VND</td><td>Từ ngày 01/01/2018đến ngày 30/6/2018VND</td></tr><tr><td>Lãi tiền gửi ngân hàng</td><td>218.360.036.810</td><td>272.174.025.947</td></tr><tr><td>Lãi chênh lệch tỷ giá</td><td>116.295.252.537</td><td>21.891.872.304</td></tr><tr><td>Cổ tức được chia</td><td>4.338.767.372</td><td>9.615.359.987</td></tr><tr><td></td><td>338.994.056.719</td><td>303.681.258.238</td></tr></table>
+
+28. CHI PHÍ TÀI CHÍNH
+
+<table><tr><td rowspan="2"></td><td>Từ ngày 01/7/2018đến ngày 31/12/2018</td><td>Từ ngày 01/01/2018đến ngày 30/6/2018(Trình bày lại)</td></tr><tr><td>VND</td><td>VND</td></tr><tr><td>Lãi tiền vay</td><td>195.514.928.178</td><td>214.937.329.419</td></tr><tr><td>Lỗ chênh lệch tỷ giá tại ngày 30/6/2018 chuyển sang công ty cố phãn (Note 21)</td><td>57.718.950.430</td><td>-</td></tr><tr><td>Lỗ chênh lệch tỷ giá trong kỳ</td><td>206.608.882.403</td><td>64.539.302.281</td></tr><tr><td>Dự phòng đãu tư tài chính dài hạn</td><td>49.427.985.961</td><td>49.184.296.854</td></tr><tr><td>Chi phí tài chính khác</td><td>2.181.743</td><td>-</td></tr><tr><td></td><td>509.272.928.715</td><td>328.660.928.554</td></tr></table>
+
+29. CHI PHÍ BÁN HÀNG VÀ CHI PHÍ QUẢN LÝ DOANH NGHIÊP
+
+<table><tr><td rowspan="2"></td><td>Từ ngày 01/7/2018đến ngày 31/12/2018</td><td>Từ ngày 01/01/2018đến ngày 30/6/2018(Trình bày lại)</td></tr><tr><td>VND</td><td>VND</td></tr><tr><td colspan="3">Các khoản chí phí quản lý doanh nghiệp phát sinh trong kỳ</td></tr><tr><td>Chi phí nhân viên quản lý</td><td>63.081.299.538</td><td>51.619.823.550</td></tr><tr><td>Chi phí vật liệu quản lý</td><td>1.150.164.957</td><td>825.643.887</td></tr><tr><td>Chi phí đồ dùng văn phòng</td><td>1.122.726.619</td><td>2.247.338.089</td></tr><tr><td>Chi phí khấu hao tài sản cố định</td><td>17.065.632.080</td><td>17.428.535.584</td></tr><tr><td>Chi phí dịch vụ mua ngoài</td><td>35.217.234.078</td><td>33.227.924.670</td></tr><tr><td>Chi phí khác bằng tiền</td><td>50.514.712.135</td><td>65.419.892.495</td></tr><tr><td></td><td>168.151.769.407</td><td>170.769.158.275</td></tr><tr><td colspan="3">Các khoản chí phí bán hàng phát sinh trong</td></tr><tr><td>Chi phí nhân viên bán hàng</td><td>17.088.908.036</td><td>15.586.665.954</td></tr><tr><td>Chi phí khấu hao tài sản cố định</td><td>73.868.191.686</td><td>73.868.191.686</td></tr><tr><td>Chi phí vận chuyển bán sản phẩm</td><td>229.595.955.753</td><td>229.936.533.674</td></tr><tr><td>Chi phí dịch vụ mua ngoài</td><td>51.214.357.570</td><td>53.269.073.536</td></tr><tr><td>Chi phí bán hàng xăng sinh học E5</td><td>248.000.000</td><td>180.500.000</td></tr><tr><td>Chi phí khác bằng tiền</td><td>1.236.807.000</td><td>1.313.295.064</td></tr><tr><td></td><td>373.252.220.045</td><td>374.154.259.914</td></tr></table>
+
+(1.1.1)
+
+115000000
+
+31
+
+===== PAGE 35 =====
+CÔNG TY CỔ PHÂN LOC HÓA DẦU BÌNH SƠN
+
+THUYẾT MINH BẢO CẢO TÀI CHÍNH RIÊNG (Tiếp theo)
+
+MÃU SÕ B 09-DN
+
+30. THU NHẬP KHÁC
+
+<table><tr><td></td><td>Từ ngày 01/7/2018đến ngày 31/12/2018VND</td><td>Từ ngày 01/01/2018đến ngày 30/6/2018VND</td></tr><tr><td>Chênh lệch thừa do kiểm kê kho thành phẩm</td><td>7.994.014.790</td><td>6.399.333.267</td></tr><tr><td>Thu nhập từ được thường, bôi thường, phạt hợp đồng</td><td>1.746.700</td><td>30.208.362.372</td></tr><tr><td>Thu nhập khác</td><td>1.631.339.725</td><td>3.864.453.251</td></tr><tr><td></td><td>9.627.101.215</td><td>40.472.148.890</td></tr></table>
+
+31. CHI PHÍ KHÁC
+
+<table><tr><td rowspan="2"></td><td>Từ ngày 01/7/2018đến ngày 31/12/2018</td><td>Từ ngày 01/01/2018đến ngày 30/6/2018(Trình bày lại)</td></tr><tr><td>VND</td><td>VND</td></tr><tr><td>Chi phí bõl thuống, bị phạt</td><td>267.220.899</td><td>8.156.706.647</td></tr><tr><td>Lãi phạt chậm nộp thuê nhập khẩu 2017</td><td>-</td><td>26.497.432.334</td></tr><tr><td>Chi phí khác</td><td>1.899.611.106</td><td>519.659.402</td></tr><tr><td></td><td>2.166.832.005</td><td>35.173.798.383</td></tr></table>
+
+32. CHI PHÍ THUÊ THU NHẬP DOANH NGHIỆP HIỆN HÀNH
+
+<table><tr><td rowspan="2"></td><td>Từ ngày 01/7/2018 đến ngày 31/12/2018</td><td>Từ ngày 01/01/2018 đến ngày 30/6/2018 (Trình bày lại)</td></tr><tr><td>VND</td><td>VND</td></tr><tr><td colspan="3">Chi phí thuế thu nhập doanh nghiệp hiện hành</td></tr><tr><td>Chi phí thuế thu nhập doanh nghiệp tính trên thu nhập chịu thuế kỳ này</td><td>24.125.790.462</td><td>201.626.806.776</td></tr><tr><td>Điều chỉnh chi phí thuế thu nhập doanh nghiệp của kỳ trước vào chi phí thuế thu nhập hiện hành kỳ này</td><td>-</td><td>7.519.798</td></tr><tr><td></td><td>24.125.790.462</td><td>201.634.326.574</td></tr></table>
+
+Chi phí thuế thu nhập doanh nghiệp hiện hành trong kỳ được tính như sau:
+
+<table><tr><td rowspan="2"></td><td>Từ ngày 01/7/2018đến ngày 31/12/2018</td><td>Từ ngày 01/01/2018đến ngày 30/6/2018(Trình bày lại)</td></tr><tr><td>VND</td><td>VND</td></tr><tr><td>Lợi nhuận trước thuế</td><td>274.869.451.166</td><td>3.652.383.071.690</td></tr><tr><td>Điều chỉnh cho thu nhập chịu thuế</td><td></td><td></td></tr><tr><td>Trữ: Thu nhập không chịu thuế</td><td>4.603.345.365</td><td>9.764.755.987</td></tr><tr><td>Cộng: Các khoản chi phí không được khấu trừ</td><td>54.736.437.065</td><td>71.782.496.730</td></tr><tr><td>Thu nhập chịu thuế năm hiện hành</td><td>325.002.542.866</td><td>3.714.400.812.433</td></tr><tr><td>Thu nhập chịu thuế suất ưu đãi</td><td>272.498.120.744</td><td>3.610.243.220.490</td></tr><tr><td>Thu nhập chịu thuế suất thông thường</td><td>52.504.422.122</td><td>104.157.591.943</td></tr><tr><td>Thuế suất ưu đãi</td><td>5%</td><td>5%</td></tr><tr><td>Thuế suất thông thường</td><td>20%</td><td>20%</td></tr><tr><td>Chi phí thuế thu nhập doanh nghiệp tínhtrên thu nhập chịu thuế kỳ này</td><td>24.125.790.462</td><td>201.343.679.413</td></tr><tr><td>Chi phí thuế thu nhập doanh nghiệp điều chỉnhtheo kết luận Thanh tra Thuế (Thuyết minh số 36)</td><td></td><td>283.127.363</td></tr><tr><td>Chi phí thuế thu nhập doanh nghiệp hiệnhành</td><td>24.125.790.462</td><td>201.626.806.776</td></tr></table>
+
+32
+
+“ \( S^{*} \) ” “”
+
+\( H_{2}O_{3} \)  G
+
+===== PAGE 36 =====
+CÔNG TY CỔ PHẦN LỌC HÓA DẦU BÌNH SƠN
+THUYẾT MINH BẢO CẢO TÀI CHÍNH RIÊNG (Tiếp theo)
+
+MÃU SÕ B 09-DN
+
+Công ty có nghĩa vụ nộp thuế thu nhập doanh nghiệp theo tỷ lệ 10% tinh trên thu nhập chịu thuế trong 30 năm; được miễn thuế thu nhập doanh nghiệp trong 4 năm và giảm 50% số thuế phải nộp cho 9 năm tiếp theo kể từ nằm đầu tiên Công ty có thu nhập chịu thuế từ Dự án Nhà máy Lộc đầu Dung Quát.
+
+Công ty đã hết thời gian miễn thuế từ năm 2014 và năm 2018 là năm thứ 5 Công ty được hưởng ưu đãi giảm 50% số thuế phải nộp tính trên mức thuế suất ưu đãi là 10%.
+
+33. NGHIỆP VỤ VÀ SỐ DỰ VỚI CÁC BÊN LIÊN QUAN
+
+Danh sách các bên liên quan có giao dịch và số dư chủ yếu trong kỳ:
+
+<table><tr><td>Bên liên quan</td><td>Môi quan hệ</td></tr><tr><td>Tập đoàn Dầu khí Việt Nam</td><td>Chủ sở hữu</td></tr><tr><td>Công ty Cố phần Nhà và Thương mại Dầu khí</td><td>Công ty con</td></tr><tr><td>Công ty Cố phần Nhiên liệu sinh học Dầu khí Miễn Trung</td><td>Công ty con</td></tr><tr><td>Các công ty trong cùng Tập đoàn Dầu khí Việt Nam</td><td>Công ty cùng Tập đoàn</td></tr></table>
+
+Trong kỳ, Công ty đã có các giao dịch chủ yêu với các bên liên quan sau đây:
+
+<table><tr><td rowspan="2"></td><td>Từ ngày 01/7/2018đến ngày 31/12/2018</td><td>Từ ngày 01/01/2018đến ngày 30/6/2018</td></tr><tr><td>VND</td><td>VND</td></tr><tr><td colspan="3">Bến hàng</td></tr><tr><td>Tổng Công ty Dầu Việt Nam - Công ty Cố phần</td><td>7.703.470.480.664</td><td>9.105.044.101.756</td></tr><tr><td>Công ty Cố phần Kinh doanh Khí Miền Nam</td><td>703.075.958.206</td><td>642.368.930.286</td></tr><tr><td>Công ty Kinh doanh Sản phẩm khí</td><td>640.528.759.475</td><td>595.948.753.107</td></tr><tr><td>Công ty Cố phần Kinh doanh Khí Miền Bắc</td><td>580.624.729.362</td><td>614.791.232.924</td></tr><tr><td>Công ty Cố phần Nhà và Thương mại Dầu khí</td><td>136.163.607.448</td><td>222.292.486.039</td></tr><tr><td>Tổng Công ty Dung dịch khoan và Hóa phẩm Dầu khí</td><td>100.873.549.784</td><td>293.290.236.689</td></tr><tr><td>Tổng Công ty Cố phần Vận tải Dầu khí - Chỉ nhánh Quảng Ngãi</td><td>45.381.394.695</td><td>47.868.251.621</td></tr><tr><td>Công ty Cố phần Dịch vụ Dầu khí Quảng Ngãi PTSC</td><td>601.880.504</td><td>462.803.887</td></tr><tr><td>Công ty Cố phần Phân bón Dầu khí Cà Mau</td><td>246.720.000</td><td>-</td></tr><tr><td>Công ty Cố phần Vận tải Dầu khí Phương Đông Việt</td><td>61.730.273</td><td>1.860.970.024</td></tr><tr><td></td><td>9.911.028.810.411</td><td>11.523.927.766.333</td></tr></table>
+
+[Unreadable]
+
+\(\| \delta^{9} / >, z^{\prime} \in \mathcal{A}\) (N)
+
+33
+
+===== PAGE 37 =====
+CÔNG TY CỔ PHẦN LOC HÓA DẦU BÌNH SƠN
+
+THUYÊT MINH BÁO CÁO TÀI CHÍNH RIÊNG (Tiêp theo)
+
+MÃU SÕ B 09-DN
+
+<table><tr><td></td><td>Từ ngày 01/7/2018đến ngày 31/12/2018VND</td><td>Từ ngày 01/01/2018đến ngày 30/6/2018VND</td></tr><tr><td colspan="3">Mua hàng</td></tr><tr><td>Tổng Công ty Dầu Việt Nam - Công ty Cổ phần (*)</td><td>28.895.209.512.892</td><td>24.171.124.171.738</td></tr><tr><td>Công ty TNHH NN MTV - Tổng Công ty Thăm dò Khai thác Dầu khí</td><td>1.444.304.108.284</td><td>2.030.602.327.591</td></tr><tr><td>Công ty TNHH NN MTV - Tổng Công ty Thăm dò Khai thác Dầu khí (Lô 01 &amp; 02 - Điều hành Dầu khí)</td><td>688.686.607.403</td><td>138.479.424.283</td></tr><tr><td>Tổng Công ty Cổ phần Vận tải Dầu khí</td><td>688.190.283.080</td><td>705.849.355.755</td></tr><tr><td>Công ty Cổ phần Vận tải Sản phẩm khí Quốc tế</td><td>229.595.955.753</td><td>239.947.593.196</td></tr><tr><td>Công ty Cổ phần Dịch vụ Dầu khí Quảng Ngãi</td><td>153.852.960.192</td><td>126.582.975.024</td></tr><tr><td>Công ty TNHH NN MTV - Tổng Công ty Thăm dò Khai thác Dầu khí (Lô 01/97 &amp; 02/97)</td><td>145.609.915.227</td><td>370.433.990.868</td></tr><tr><td>Công ty Cổ phần Nhà và Thương mại Dầu khí</td><td>95.890.517.398</td><td>83.031.105.058</td></tr><tr><td>Công ty Cổ phần Bảo dưỡng và Sửa chữa Công trình Dầu khí</td><td>54.150.028.080</td><td>46.670.002.038</td></tr><tr><td>Tổng Công ty Dung dịch khoan và Hóa phẩm Dầu khí</td><td>27.092.269.146</td><td>15.619.088.281</td></tr><tr><td>Công ty Cổ phần Dịch vụ Bảo vệ An ninh Dầu khí Việt</td><td>20.926.492.820</td><td>16.784.787.503</td></tr><tr><td>Viện Dầu khí Việt Nam - Chỉ nhánh Hà Nội</td><td>12.462.261.176</td><td>7.751.224.291</td></tr><tr><td>Công ty Cổ phần Xăng dầu Dầu khí PVOIL Miền Trung</td><td>1.650.864.290</td><td>1.524.784.239</td></tr><tr><td>Công ty TNHH Dịch vụ Kỹ thuật Dầu khí biến PVD</td><td>1.598.085.000</td><td>2.214.340.000</td></tr><tr><td>Tập đoàn Dầu khí Việt Nam</td><td>1.538.837.640</td><td>-</td></tr><tr><td>Công ty Cổ phần Đào tạo Kỹ thuật PVD</td><td>335.000.000</td><td>178.820.000</td></tr><tr><td>Chi nhánh Tổng Công ty Cổ phần Dịch vụ kỹ thuật Dầu khí Việt Nam - Công ty Dịch vụ Dầu khí Đà Nẵng</td><td>292.011.200</td><td>978.373.166</td></tr><tr><td>Tổng Công ty Phân bón và Hóa chất Dầu khí - Công ty Cổ phần</td><td>223.145.400</td><td>36.678.000</td></tr><tr><td>Công ty Cổ phần Chứng khoán Dầu khí</td><td>198.409.091</td><td>-</td></tr><tr><td>Trường Đại học Dầu khí Việt Nam</td><td>170.000.000</td><td>-</td></tr><tr><td>Công ty Cổ phần Thương mại và Dịch vụ Kỹ thuật Khoan Dầu khí PVD</td><td>165.867.382</td><td>1.059.259.225</td></tr><tr><td>Công ty Cổ phần Vận tải Dầu khí Đông Dương</td><td>122.043.000</td><td>310.540.200</td></tr><tr><td>Chi nhánh Tổng Công ty Dung dịch Khoan và Hóa phẩm Dầu khí tại Hồ Chí Minh</td><td>-</td><td>2.526.680.000</td></tr><tr><td>Công ty Cổ phần Nhiên liệu Sinh học Dầu khí Miền Trung</td><td>-</td><td>25.414.758</td></tr><tr><td></td><td>32.462.265.174.454</td><td>27.961.730.935.214</td></tr></table>
+
+(*) Mua hàng từ Tổng Công ty Dầu Việt Nam - Công ty Cổ phần bao gồm:
+
+<table><tr><td rowspan="2"></td><td>Từ ngày 01/7/2018đến ngày 31/12/2018</td><td>Từ ngày 01/01/2018đến ngày 30/6/2018</td></tr><tr><td>VND</td><td>VND</td></tr><tr><td>- Giá trị hàng hóa và dịch vụ</td><td>53.307.181.561</td><td>44.916.585.749</td></tr><tr><td>- Giá trị đầu thổ mua ủy thác</td><td>28.827.057.789.859</td><td>24.119.941.320.928</td></tr><tr><td>- Các khoản ủy thác khác</td><td>14.844.541.472</td><td>6.266.265.061</td></tr><tr><td></td><td>28.895.209.512.892</td><td>24.171.124.171.738</td></tr><tr><td rowspan="2"></td><td>Từ ngày 01/7/2018đến ngày 31/12/2018</td><td>Từ ngày 01/01/2018đến ngày 30/6/2018(Trình bày lại)</td></tr><tr><td>VND</td><td>VND</td></tr><tr><td>Hoàn trả vốn về Tập đoàn</td><td></td><td></td></tr><tr><td>Tập đoàn Dầu khí Việt Nam</td><td>-</td><td>1.127.802.519.804</td></tr><tr><td>Nộp lợi nhuận</td><td></td><td></td></tr><tr><td>Tập đoàn Dầu khí Việt Nam</td><td>4.850.000.000.000</td><td>1.995.466.476.103</td></tr><tr><td>Thu nhập của Ban Tổng Giám đốc</td><td>8.613.130.000</td><td>4.650.630.000</td></tr></table>
+
+34
+
+1. 1.0.00
+
+C.T.C.P ★
+
+===== PAGE 38 =====
+CÔNG TY CỔ PHẦN LOC HÓA DẦU BÌNH SƠN
+
+THUYÊT MINH BẢO CẢO TÀI CHÍNH RIÊNG (Tiếp theo)
+
+MÃU SÕ B 09-DN
+
+Số dư chủ yếu với các bên liên quan tại ngày kết thúc kỳ kê toán như sau:
+
+<table><tr><td rowspan="2"></td><td>31/12/2018</td><td>01/7/2018</td></tr><tr><td>VND</td><td>VND</td></tr><tr><td colspan="3">Các khoản phải thu</td></tr><tr><td>Tổng Công ty Dầu Việt Nam - Công ty Cổ phần</td><td>1.038.656.820.793</td><td>1.582.397.854.248</td></tr><tr><td>Công ty Cổ phần Kinh doanh Khí Miền Nam</td><td>174.793.874.384</td><td>209.987.538.041</td></tr><tr><td>Công ty Cổ phần Kinh doanh Khí Miền Bắc</td><td>154.463.491.386</td><td>179.577.550.156</td></tr><tr><td>Công ty Kinh doanh Sản phẩm khí</td><td>135.460.121.321</td><td>166.790.172.102</td></tr><tr><td>Công ty Cổ phần Nhà và Thương mại Dầu khí</td><td>33.353.137.809</td><td>39.538.705.417</td></tr><tr><td>Công ty Cổ phần Vận tải Dầu khí Quảng Ngãi</td><td>12.579.511.554</td><td>25.742.531.300</td></tr><tr><td>Công ty Cổ phần Vận tải Dầu Phường Đông Việt</td><td>413.549.421</td><td>1.493.231.462</td></tr><tr><td>Công ty Cổ phần Phân bón Dầu khí Cà Mau</td><td>271.392.000</td><td>-</td></tr><tr><td>Tổng Công ty Cổ phần Vận tải Dầu khí</td><td>210.743.968</td><td>-</td></tr><tr><td>Công ty Cổ phần Dịch vụ Dầu Khí Quảng Ngãi PTSC</td><td>48.125.000</td><td>66.341.919</td></tr><tr><td>Tổng Công ty Dung dịch khoan và Hóa phẩm Dầu khí</td><td>-</td><td>81.501.276.733</td></tr><tr><td></td><td>1.550.250.767.636</td><td>2.287.095.201.378</td></tr><tr><td colspan="3">Trả trước nhà cung cấp</td></tr><tr><td>Công ty Cổ phần Xăng dầu Dầu khí Hà Nội</td><td>1.082.400.000</td><td>-</td></tr><tr><td>Chi nhánh Viện Dầu khí Việt Nam - Trung tâm Nghiên cứu và Phát triển Chế biến Dầu khí</td><td>694.999.833</td><td>694.999.833</td></tr><tr><td>Công ty Cổ phần Chứng khoán Dầu khí (PSI)</td><td>89.100.000</td><td>154.575.000</td></tr><tr><td>Chi nhánh Viện Dầu Khí Việt Nam - Trung tâm lưu trữ dầu khí</td><td>-</td><td>2.015.351.619</td></tr><tr><td></td><td>1.866.499.833</td><td>2.864.926.452</td></tr><tr><td colspan="3">Phải trả nhà cung cấp</td></tr><tr><td>Tổng Công ty Dầu Việt Nam - Công ty Cổ phần</td><td>2.499.485.052.166</td><td>3.986.408.656.102</td></tr><tr><td>Tổng Công ty Cổ phần Vận tải Dầu khí</td><td>187.604.273.197</td><td>300.013.692.120</td></tr><tr><td>Công ty Cổ phần Vận tải Sản phẩm khí Quốc tế</td><td>66.698.100.429</td><td>31.335.740.452</td></tr><tr><td>Công ty Cổ phần Nhà và Thương mại Dầu khí</td><td>52.973.669.940</td><td>20.974.302.810</td></tr><tr><td>Công ty Cổ phần Dịch vụ Dầu khí Quảng Ngãi</td><td>50.892.318.163</td><td>33.808.585.988</td></tr><tr><td>Công ty Cổ phần Bảo dưỡng và Sửa chữa Công trình Dầu khí</td><td>21.578.162.071</td><td>35.982.761.517</td></tr><tr><td>Tổng Công ty Dung dịch khoan và Hóa phẩm dầu khí</td><td>20.002.072.148</td><td>1.783.090.600</td></tr><tr><td>Viện Dầu khí Việt Nam</td><td>10.387.758.223</td><td>5.588.661.722</td></tr><tr><td>Công ty Cổ phần Dịch vụ Bảo vệ An ninh Dầu khí</td><td>7.284.541.221</td><td>7.875.107.382</td></tr><tr><td>Việt Nam - Chỉ nhánh Miền Trung</td><td></td><td></td></tr><tr><td>Tập đoàn Dầu khí Việt Nam</td><td>1.538.837.640</td><td>-</td></tr><tr><td>Công ty Cổ phần Thương mại và Dịch vụ Kỹ thuật Khoản Dầu khí PVD</td><td>1.347.639.267</td><td>1.120.832.476</td></tr><tr><td>Công ty TNHH Dịch vụ Kỹ thuật Dầu khí biến</td><td>1.057.034.000</td><td>668.480.000</td></tr><tr><td>Công ty Cổ phần Xăng dầu Dầu khí PVOIL Miền Trung</td><td>885.222.220</td><td>574.003.250</td></tr><tr><td>Chỉ nhánh Tống Công ty Cổ phần Dịch vụ Kỹ thuật Dầu khí Việt Nam - Công ty Dịch vụ Dầu khí Đà Nẵng</td><td>217.645.800</td><td>801.973.193</td></tr><tr><td>Trường Đại học Dầu khí Việt Nam</td><td>150.000.000</td><td>-</td></tr><tr><td>Công ty Cổ phần Vận tải Dầu khí Đông Dương</td><td>68.381.500</td><td>144.262.525</td></tr><tr><td>Công ty TNHH NN MTV - Tổng Công ty Thẩm dò Khai thác Dầu khí (Lô 01/97 &amp; 02/97)</td><td>-</td><td>60.868.188.041</td></tr><tr><td>Công ty TNHH NN MTV - Tổng Công ty Thẩm dò Khai thác Dầu khí lô 01 &amp; 02 (Điều hành Dầu khí)</td><td>-</td><td>22.759.137.447</td></tr><tr><td>Chỉ nhánh Tống công ty Dung dịch khoan và Hóa phẩm dầu khí - Công ty Cổ phần tại Hồ Chí Minh</td><td>-</td><td>4.128.169.054</td></tr><tr><td>Công ty Cổ phần Dầu nhôn PVOil</td><td>-</td><td>3.404.299.404</td></tr><tr><td>Công ty Cổ phần Đào tạo Kỹ thuật PVD</td><td>-</td><td>656.392.000</td></tr><tr><td>Công ty Cổ phần Nhiên liệu Sinh học Dầu khí Miền Trung</td><td>-</td><td>42.608.132</td></tr><tr><td>Tổng Công ty Phân bón và Hóa chất Dầu khí - CTCP</td><td>-</td><td>40.345.800</td></tr><tr><td></td><td>2.922.170.707.985</td><td>4.518.979.290.015</td></tr></table>
+
+\( \frac{1}{2} \)
+
+\( \because S \cdot W \star TIN \)
+
+35
+
+===== PAGE 39 =====
+CÔNG TY CỔ PHẦN LỌC HÓA DẦU BÌNH SƠN
+THUYẾT MINH BÁO CẢO TÀI CHÍNH RIÊNG (Tiếp theo)
+
+MÃU SÔ B 09-DN
+
+<table><tr><td rowspan="2"></td><td>31/12/2018</td><td>01/7/2018</td></tr><tr><td>VND</td><td>VND</td></tr><tr><td colspan="3">Phải trả khác</td></tr><tr><td>Tập đoàn Dầu khí Việt Nam</td><td>1.423.992.623.305</td><td>6.273.992.623.305</td></tr><tr><td>Ban Quản lý Dư án Nhà máy lọc đãu Dung Quất</td><td>170.383.701.042</td><td>170.383.701.042</td></tr><tr><td>Tổng Công ty Cổ phần Vận tái Dầu khí</td><td>1.215.979.468</td><td>-</td></tr><tr><td></td><td>1.595.592.303.815</td><td>6.444.376.324.347</td></tr><tr><td colspan="3">Phải thu khác</td></tr><tr><td>Tập đoàn Dầu khí Việt Nam</td><td>1.118.996.642</td><td>1.118.996.642</td></tr><tr><td>Công ty Cổ phần Phân bón Dầu khí Cà Mau</td><td>44.444.533</td><td>44.444.533</td></tr><tr><td></td><td>1.163.441.175</td><td>1.163.441.175</td></tr></table>
+
+34. CÁC KHOÁN CAM KÊT
+
+Cam kết mua hàng và sử dụng dịch vụ
+
+Theo Hợp đồng nguyên tắc số 189/PVOIL-BSR/06-10/K tháng 6 năm 2010 về việc cung cấp đầu thô cho Nhà máy Lọc đầu Dung Quất giữa Tổng Công ty Dầu Việt Nam (PV Oil) và Công ty TNHH MTV Lọc hóa đầu Bình Sơn, nay là Công ty Cổ phần Lọc hóa đầu Bình Sơn (BSR), PV Oil sẽ đóng vai trò đầu mỗi cung cấp toàn bộ khối lượng đầu thô cần thiết đập ứng các yêu cầu kỹ thuật do BSR quy định để bảo đảm cho Nhà máy Lọc đầu Dung Quất vận hành hiệu quả, PV Oil sẽ thay mặt BSR hoặc trên cơ sở ủy thác của BSR tổ chức tham gia đầu thầu, chào hàng canh tranh hoặc/và đảm phán trực tiếp với nhà cung cấp để đảm bảo cung cấp đầu thô cho BSR đặt hiệu quả kinh tế cao nhất.
+
+Theo Hợp đồng số 98/2019/HĐ/BSR-QPC ngày 15 tháng 8 năm 2018 giữa Công ty Cổ phần Lộc hóa đầu Bình Sơn (BSR) và Công ty QUAD Personnel Consultant (O&M Contractor), Quad sẽ cung cấp cho BSR dịch vụ quản lý, vấn hành và sửa chữa Nhà máy lọc đầu Dung Quất và Nhà máy Polypropylene (bao gồm cả dịch vụ hướng dẫn, đào tạo đội ngũ cán bộ công nhân viên) trong thời gian 8 tháng với giá trị hợp đồng dự kiến là 7.773.417 USD, hợp đồng có hiệu lực kể từ ngày ký kết.
+
+Cam kết tiêu thụ sản phẩm của Nhà máy Lộc dêu Dung Quát
+
+Theo điều khoản của các Hợp đồng tiêu thụ sèn phẩm xăng dầu của Nhà máy Lọc dâu Dung Quất ký giữa Công ty (bên A) và các đầu mối (bên B) như Tổng Công ty Dầu Việt Nam - Công ty Cổ phần (PVOil), Tập đoàn Xăng dầu Việt Nam (Petrolímex), Công ty TNHH MTV Xăng dầu Hàng không Việt Nam (Vinapco), Tổng Công ty Khí Việt Nam - Công ty Cổ phần (PVGas)..., trong sâu tháng cuối năm 2018, bên A cung cấp cho bên B các sản phẩm xăng dầu của Nhà máy Lọc dâu Dung Quất với giá bán theo điều kiện FOB/FCA Dung Quất, LPG theo điều kiện CIF được xác định trên cơ sở giá tham chiếu quốc tế cộng thêm phụ phí thị trường và các khoản thuế nộp vào Ngân sách Nhà nước (nếu có) đảm bảo cạnh tranh với thị trường.
+
+Cam kết đầu tư nâng cập, mở rộng Nhà máy Lộc dâu Dung Quất
+
+Theo Quyết định số 9016/QĐ-DKVN ngày 22 tháng 12 năm 2014, Hội đồng Thành viên Tập đoàn Dầu khí Việt Nam đã phê duyệt dự án đầu tư nâng cấp, mở rộng Nhà máy Lọc đầu Dung Quất với quy mô đầu tư khoảng 8,5 triệu tân/năm trong năm 2014. Tổng mức đầu tư dự kiến là 1.813.470.000 USD với cơ cấu vốn của chủ sở hữu/vốn vay tối thiểu là 30/70%. Thời gian thực hiện dự án là 78 tháng kể từ ngày phát hành hồ sơ môi thầu (ITB) lựa chọn nhà thầu thiết kế tổng thể (FEED). Tại ngày lập báo cáo tài chính riêng này, Công ty đã hoàn thành việc thẩm định thiết kế FEED và dự toán của dự án Nắng cấp mở rộng Nhà máy lọc đầu Dung Quất. Công ty đang chỗ phê duyệt thiết kế FEED cũng như dự toán của dự án, đồng thời đang tiến hành công tác thu xếp vốn và lựa chọn nhà thầu EPC.
+
+36
+
+N.11.11
+
+\( \% \)
+
+===== PAGE 40 =====
+CÔNG TY CỔ PHẦN LỌC HÓA DẦU BÌNH SƠN
+THUYẾT MINH BẢO CẢO TÀI CHÍNH RIÊNG (Tiếp theo)
+
+MÃU SÕ B 09-DN
+
+35. CÁC THÔNG TIN VÊ QUÁ TRÌNH CỔ PHẦN HÓA DOANH NGHIỆP
+
+Một số thông tin chủ yếu liên quan tới quá trình cổ phần hóa Công ty TNHH MTV Lộc hóa đầu Bình Sơn (nay là Công ty Cổ phần Lộc hóa đầu Bình Sơn) như sau:
+
+Xử lý tài chính tại thời điểm xác định giá trị doanh nghiệp
+
+Theo Nghị quyết Chính phủ về việc phê duyệt phương án xử lý tài chính khi thực hiện Cổ phần hóa Công ty TNHH MTV Lộc hóa dđâu Bình Sơn (nay là Công ty Cổ phần Lộc hóa dđâu Bình Sơn), giá trị thực tế của Công ty là 72.879.914.663.162 VND và giá trị thực tế phần vốn Nhà nước tại ngày 31 tháng 12 năm 2015 là 44.934.562.233.107 VND. Công ty không phải điều chỉnh theo kết quả xác định giá trị doanh nghiệp và phải điều chỉnh theo kiến nghị của Kiểm toán Nhà nước về kết quả tư vấn định giá và xử lý tài chính trước khi Công bổ giá trị doanh nghiệp.
+
+Trong năm 2017, Công ty đã điều chỉnh các nghiệp vụ xử lý tài chính trước khí định giá tại ngày 31 tháng 12 năm 2015 theo kiến nghị của Kiểm toán Nhà nước và thực hiện nộp ngân sách Nhà nước và phân phối lợi nhuận bổ sung.
+
+Vốn điều lệ của Công ty Cổ phần
+
+Theo Quyết định số 1978/QĐ-TTg ngày 8 tháng 12 năm 2017 của Thủ tướng Chính phủ phê duyệt phương án Cổ phần hóa Công ty TNHH MTV Lộc hóa đầu Bình Sơn (nay là Công ty Cổ phần Lộc hóa đầu Bình Sơn), vốn điều lệ của Công ty tại thời điểm Cổ phần hóa là 31.004.996.160.000 VND, chưa bao gồm nhu cầu vốn đầu tư cho Dự án đầu tư nâng cấp, mở rộng Nhà máy Lộc đầu Dung Quất suất thời điểm xác định giá trị doanh nghiệp. Số tiền Tập đoàn Dầu khí Việt Nam đã thực hiện góp bổ sung vốn điều lệ cho BSR sau thời điểm xác định giá trị doanh nghiệp để thực hiện Dự án đầu tư nâng cấp, mở rộng Nhà máy Lộc đầu Dung Quất sẽ được BSR hoàn trả lại cho Tập đoàn Dầu khí Việt Nam.
+
+Trong năm 2017, Công ty đã ghi giảm phân vốn điều lệ với số tiền 1.127.802.519.804 VND tương ứng khoản phải trả Tập đoàn Dầu khí Việt Nam và đã chuyển trả toàn bộ số tiền trên trong năm 2018.
+
+Bán cổ phần lân dâu ra công chúng
+
+Theo Thông báo số 61/TB-SGDHCM ngày 17 tháng 01 năm 2018 và Công văn số 236/SGDHCM-NY ngày 6 tháng 02 năm 2018 của Sở giao dịch chứng khoán TP.Hỗ Chí Minh về kết quả đầu giá cổ phần của Công ty TNHH Một thành viên Lộc hóa đầu Bình Sơn tại ngày 17 tháng 01 năm 2018, kết quả như sau:
+
+- Số lượng cổ phần đưa ra đãu giá là 241.556.969 cổ phần.
+
+- Số lượng cổ phần bán được và đã thanh toán: 241.427.969 cổ phần.
+
+- Tổng giá trị cổ phần bản được và đã thanh toán: 5.414.651.191.200 VND.
+
+Cổ phiếu của Công ty bán ra công chúng trong lấn đầu chính thức được giao dịch trên sản UPCOM từ ngày 01 tháng 3 năm 2018.
+
+Theo Biên bản số 374/BB-BSR của Công ty TNHH MTV Lộc hóa đầu Bình Sơn (nay là Công ty Cổ phần Lộc hóa đầu Bình Sơn) ngày 5 tháng 02 năm 2018 về xác định kết quả bán cổ phần cho người lao động BSR, số lượng cổ phần bán ưu đãi cho người lao động là 2.691.400 cổ phần.
+
+Xử lý tài chính tại thời điểm chính thức chuyên thành công ty cổ phần
+
+Công ty lập báo cáo tài chính riêng cho kỳ hoạt động từ ngày 01 tháng 01 năm 2018 đến ngày 30 tháng 6 năm 2018 trong đó ghi nhận một số nghiệp vụ xử lý tài chính tại thời điểm chuyển thành công ty cổ phần như trình bày tại phần chính sách kế toán như sau:
+
+37
+
+10.入F = 0
+
+H 王 必 意 101
+
+===== PAGE 41 =====
+CÔNG TY CỔ PHẦN LỌC HÓA DẦU BÌNH SƠN
+THUYÊT MINH BÁO CẢO TÀI CHÍNH RIÊNG (Tiếp theo)
+
+MÃU SÕ B 09-DN
+
+(i) Các khoản dự phòng giảm giá đầu tư tài chính, các khoản phải thu và hàng tồn kho:
+
+<table><tr><td rowspan="2"></td><td>Số dư đã trích lập tại ngày 30 tháng 6 năm 2018</td><td>Giá trị tổn thất do Công ty xác định</td><td>Giá trị dự phòng hoàn nhập vào kết quả kinh doanh</td></tr><tr><td>VND</td><td>VND</td><td>VND</td></tr><tr><td>• Dự phòng giảm giả đầu tư tải chính</td><td>536.393.291.073</td><td>536.393.291.073</td><td>-</td></tr><tr><td>• Dự phòng giảm giá các khoản phải thu</td><td>-</td><td>-</td><td>-</td></tr><tr><td>• Dự phòng giảm giá hàng tồn kho</td><td>120.524.556.691</td><td>-</td><td>120.524.556.691</td></tr><tr><td>Tổng cộng</td><td>656.917.847.764</td><td>536.393.291.073</td><td>120.524.556.691</td></tr></table>
+
+Khoản dự phòng giảm giá đầu tư tài chính được xác định theo tỷ lệ sở hữu của Công ty và giá trị tài sản thuần của Công ty Cổ phần Nhiên liệu Sinh học Dầu khí Miền Trung (BSR-BF) tại ngày 30 tháng 6 năm 2018. Công ty đã đánh giá, xác định giá trị tổn thất của khoản đầu tư vào BSR-BF tương đương với giá trị dự phòng đãu tư tài chính dài hạn vào BSR-BF đã trích lập tại ngày 30 tháng 6 năm 2018 và quyết định sử dụng toàn bộ giá trị khoản dự phòng đã trích lập để bù đập tổn thất tại thời điểm chuyển thành công ty cổ phần.
+
+(ii) Chênh lệch tỷ giá đánh giá lại các khoản mục tiên tệ có gốc ngoại tệ:
+
+<table><tr><td rowspan="2"></td><td>Chênh lệch tỷ giá đánh giá lại tại ngày 30 tháng 6 năm 2018</td><td>Chênh lệch tỷ giá chuyển thành công ty cổ phần</td></tr><tr><td>VND</td><td>VND</td></tr><tr><td>Lỗ chênh lệch tỷ giá</td><td>57.718.950.430</td><td>57.718.950.430</td></tr></table>
+
+Báo cáo tài chính gần nhất Công ty lập trước thời điểm chính thức chuyển thành công ty cổ phần là báo cáo tài chính cho kỳ hoạt động 3 tháng kết thúc ngày 31 tháng 3 năm 2018. Do đó, thời điểm gần nhất Công ty thực hiện đánh giá lại các khoản mục tiễn tệ có gốc ngoại tệ và ghi nhận vào kết quả kinh doanh là ngày 31 tháng 3 năm 2018.
+
+(iii) Vôn diêu lệ và các quỹ:
+
+Tại ngày 30 tháng 6 năm 2018, Công ty đã thực hiện kết chuyển khoản mục Quỹ đầu tư phát triển để tăng số vốn điều lệ của Công ty thành 31.004.996.160.000 VND (Thuyết minh số 21). Vốn điều lệ này đã được Đại hội đồng Cổ đông lần thứ nhất của Công ty phê duyệt theo Nghị quyết số 01/NQ-ĐHĐCD ngày 21 tháng 6 năm 2018.
+
+Quyêt toán cổ phần hóa
+
+Tại ngày lập báo cáo tài chính riêng này, các cơ quan có thẩm quyền chưa thực hiện kiểm tra và phê duyệt quyết toán tài chính, quyết toán tiền thu từ cổ phần hóa, chỉ phí cổ phần hóa và quyết định công bố giá trị thực tế vốn nhà nước tại thời điểm Công ty chính thức chuyển thành công ty cổ phần, xác định số phải nộp bổ sung về Quỹ hỗ trợ và sắp xếp và phát triển doanh nghiệp. Các khoản mục trên báo cáo tài chính riêng và các thuyết minh tương ứng có thể thay đổi tùy thuộc vào sự phê duyệt cuối cùng của các cơ quan có thẩm quyền.
+
+\( \{a\} \)  \( \{b\} \)  \( \{c\} \)
+
+1121 G F x 30 [n]
+
+38
+
+===== PAGE 42 =====
+CÔNG TY CỔ PHẦN LỌC HÓA DẦU BÌNH SƠN
+THUYẾT MINH BÁO CẢO TÀI CHÍNH RIÊNG (Tiếp theo)
+
+MÃU SÕ B 09-DN
+
+36. SÔ LIÊU SO SÁNH
+
+Một số số liệu của kỳ hoạt động từ ngày 01 tháng 01 năm 2018 đến ngày 30 tháng 6 năm 2018 đã được điều chỉnh trên cơ sở kết luận của Kiểm toán Nhà nước tại Thông báo kết quả kiểm toán số 50/TB-KTÊN ngày 4 tháng 01 năm 2019 về Báo cáo tài chính năm 2017 của Công ty, Kết luận của Thanh tra Thuế số 19/KL-CT ngày 8 tháng 01 năm 2019 cho kỳ hoạt động từ ngày 01 tháng 01 năm 2016 đến ngày 30 tháng 6 năm 2018 của Công ty, Nghị quyết số 6039/NQ-DKVN ngày 8 tháng 10 năm 2018 của Hội đồng Thành viên Tập đoàn Dầu khí Việt Nam về việc thông qua báo cáo tài chính năm 2017 đã được kiểm toán và Phương án phân phối lợi nhuận của Công ty và Nghị quyết số 1270/NQ-DKVN ngày 07 tháng 3 năm 2019 của Hội đồng Thành viên Tập đoàn Dầu khí Việt Nam về việc thông qua báo cáo tài chính 6 tháng đầu năm 2018 đã được kiểm toán và phương án phân phối lợi nhuận của Công ty, cụ thể như sau:
+
+Bàng cân đôi kê toán
+
+<table><tr><td>Chỉ tiêu</td><td>Mã số</td><td>30/6/2018(Trước điều chỉnh)</td><td>Điều chỉnhhỗi tố</td><td>30/6/2018(Sau điều chỉnh)</td></tr><tr><td></td><td></td><td>VND</td><td>VND</td><td>VND</td></tr><tr><td colspan="5">TÀI SẢN</td></tr><tr><td>1. Phải thu ngắn hạn khác</td><td>136</td><td>63.016.070.235</td><td>1.022.755.834</td><td>64.038.826.069</td></tr><tr><td>2. Chỉ phí trả trước ngắn hạn</td><td>151</td><td>134.899.297.707</td><td>1.376.708.334</td><td>136.276.006.041</td></tr><tr><td>3. Thuế và các khoản khác phải thu Nhà nước</td><td>153</td><td>1.544.868.550</td><td>1.251.164.512</td><td>2.796.033.072</td></tr><tr><td>4. Tài sản cổ định hữu hình</td><td>221</td><td>26.449.310.910.539</td><td>63.804.625.131</td><td>26.513.115.535.670</td></tr><tr><td>- Nguyễn giá</td><td>222</td><td>44.985.552.356.165</td><td>72.852.155.062</td><td>45.058.404.511.227</td></tr><tr><td>- Giá trị hao mòn lũy kế</td><td>223</td><td>(18.536.241.445.626)</td><td>(9.047.529.931)</td><td>(18.545.288.975.557)</td></tr><tr><td>5. Chỉ phí xây dựng cơ bên đồ đang NGUỐN VỐN</td><td>242</td><td>946.436.003.482</td><td>14.890.000.000</td><td>951.326.003.482</td></tr><tr><td>1. Thuế và các khoản phải nộp Nhà nước</td><td>313</td><td>817.603.122.841</td><td>9.370.812.266</td><td>826.973.935.107</td></tr><tr><td>2. Chỉ phí phải trả ngắn hạn</td><td>315</td><td>28.271.171.457</td><td>956.818.182</td><td>29.227.989.639</td></tr><tr><td>3. Phải trả ngắn hạn khác</td><td>319</td><td>6.397.506.939.795</td><td>64.995.348.363</td><td>6.462.502.288.158</td></tr><tr><td>4. Quỹ khen thưởng, phúc lợi</td><td>322</td><td>63.048.796.014</td><td>6.992.275.000</td><td>70.041.071.014</td></tr><tr><td>5. Quỹ phát triển khoe học và công nghệ</td><td>343</td><td>1.423.093.900.248</td><td>30.000.000</td><td>1.423.123.900.248</td></tr></table>
+
+Báo cáo kết quả hoạt động kinh doanh
+
+<table><tr><td>Chỉ tiêu</td><td>Mã số</td><td>Từ 01/01/2018đến 30/6/2018(Trước điều chỉnh)</td><td>Điều chínhhỗi tố</td><td>Từ 01/01/2018đến 30/6/2018(Sau điều chỉnh)</td></tr><tr><td></td><td></td><td>VND</td><td>VND</td><td>VND</td></tr><tr><td>1. Giá vốn hàng bán và dịch vụ cung cấp</td><td>11</td><td>51.665.965.461.309</td><td>83.065.356.824</td><td>51.749.031.818.133</td></tr><tr><td>2. Chỉ phí tài chính</td><td>22</td><td>327.423.105.114</td><td>1.237.823.440</td><td>328.660.928.554</td></tr><tr><td>3. Chỉ phí bán hàng</td><td>25</td><td>368.974.229.320</td><td>5.180.030.594</td><td>374.154.259.914</td></tr><tr><td>4. Chỉ phí quản lý doanh nghiệp</td><td>26</td><td>170.722.494.639</td><td>46.663.636</td><td>170.769.158.275</td></tr><tr><td>5. Chỉ phí khác</td><td>32</td><td>33.807.019.255</td><td>1.366.779.128</td><td>35.173.798.383</td></tr><tr><td>6. Tổng lợi nhuận kế toán trước thuế</td><td>50</td><td>3.652.383.071.690</td><td>(90.897.653.622)</td><td>3.561.485.418.068</td></tr><tr><td>7. Chỉ phí thuế thu nhập doanh nghiệp hiện hành</td><td>51</td><td>201.351.199.211</td><td>283.127.363</td><td>201.634.326.574</td></tr><tr><td>8. Lợi nhuận sau thuế thu nhập doanh nghiệp</td><td>60</td><td>3.451.031.872.479</td><td>(91.180.780.985)</td><td>3.359.851.091.494</td></tr></table>
+
+Báo cáo lưu chuyên tiên tệ
+
+<table><tr><td>Chỉ tiêu</td><td>Mã số</td><td>Từ 01/01/2018đến 30/6/2018(Trước điều chỉnh)</td><td>Điều chínhhồi tố</td><td>Từ 01/01/2018đến 30/6/2018(Sau điều chỉnh)</td></tr><tr><td></td><td></td><td>VND</td><td>VND</td><td>VND</td></tr><tr><td>1. Lợi nhuận trước thuế</td><td>01</td><td>3.652.383.071.690</td><td>(90.897.653.622)</td><td>3.561.485.418.058</td></tr><tr><td>2. Khẩu hao tài sản cổ định</td><td>02</td><td>1.271.824.266.761</td><td>6.588.407.490</td><td>1.278.412.674.251</td></tr><tr><td>3. Chỉ phí lãi vay</td><td>06</td><td>213.699.505.979</td><td>1.237.823.440</td><td>214.937.329.419</td></tr><tr><td>4. Tăng, giảm các-khoản phải thu</td><td>09</td><td>550.770.024.665</td><td>(65.937.652)</td><td>560.704.087.013</td></tr><tr><td>5. Tăng, giảm các khoản phải trả (Không kế lãi vay phải trả, thuế thu nhập doanh nghiệp phải nộp)</td><td>11</td><td>61.044.086.770</td><td>84.514.068.678</td><td>145.558.155.448</td></tr><tr><td>6. Tăng, giảm chỉ phí trẻ trước</td><td>12</td><td>(18.532.163.957)</td><td>(1.376.708.334)</td><td>(19.908.872.291)</td></tr></table>
+
+39
+
+15/ 15
+
+11.01 卜：又 >101
+
+===== PAGE 43 =====
+CÔNG TY CỔ PHẦN LOC HÓA DẦU BÌNH SƠN
+
+THUYÊT MINH BẢO CẢO TÀI CHÍNH RIÊNG (Tiếp theo)
+
+MÃU SÕ B 09-DN
+
+37. THÔNG TIN BỔ SUNG CHO CÁC KHOÀN MỤC TRÌNH BÀY TRONG BẢO CẢO LƯU CHUYÊN TIỀN TỆ
+
+Thông tin bổ sung cho các khoản phi tiên tệ
+
+Tiền chỉ mua tài sản cố định và chi phí xây dựng cơ bản dở dang trong kỳ không bao gồm 124.490.576.426 VND (cho kỳ hoạt động từ ngày 01 tháng 01 năm 2018 đến ngày 30 tháng 6 năm 2018: 48.300.783.518 VND), là số tiền dùng để mua sắm tài sản cố định và xây dựng cơ bản dở dang phát sinh trong kỳ mà chưa được thanh toán, và đã bao gồm 534.469.832.380 VND (cho kỳ hoạt động từ ngày 01 tháng 01 năm 2018 đến ngày 30 tháng 6 năm 2018: 494.625.680.898 VND), là số tiền ứng trước cho mua sắm tài sản cố định. Vì vậy, một khoản tiền tương ứng đã được điều chỉnh trên phần tăng, giảm các khoản phải trả.
+
+Lê Thị Hồng Trâm
+Người lập biểu
+
+tie
+
+Nguyên Thị Minh Hải
+Phụ trách kê toán
+
+Đỉnh Thái Hà
+Phó Tổng Giám đốc
+
+Ngèy 21 tháng 3 năm 2019
+
+40

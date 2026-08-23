@@ -1,0 +1,1308 @@
+===== PAGE 1 =====
+KPMG
+
+Công ty Cổ phần Thủy điện
+Đa Nhim - Hàm Thuận - Đa Mi
+
+Báo cáo tài chính hợp nhất cho năm kết thúc ngày 31 tháng 12 năm 2020
+
+===== PAGE 2 =====
+Công ty Cổ phần Thủy diện Đa Nhim - Hàm Thuận - Đa Mì Thông tin về Công ty
+
+<table><tr><td>Quyết định Thành lập số</td><td>327/QĐ-EVN</td><td>ngày 24 tháng 5 năm 2010</td></tr><tr><td></td><td colspan="2">Quyết định thành lập do Tập đoàn Điện lực Việt Nam cấp trên cơ sở cổ phần hóa Doanh nghiệp Nhà nước (Công ty Thủy điện Đa Nhim - Hàm Thuận - Đa Mi).</td></tr><tr><td>Giấy Chứng nhận Đăng ký Kinh doanh/Doanh nghiệp số</td><td>5800452036</td><td>ngày 18 tháng 5 năm 2005</td></tr><tr><td></td><td colspan="2">Giấy Chứng nhận Đăng ký Kinh Doanh/Doanh nghiệp của Công ty đã được điều chỉnh nhiều lần, lần điều chỉnh gần nhất là giấy Chứng nhận Đăng ký Doanh nghiệp số 5800452036 ngày 6 tháng 7 năm 2018. Giấy Chứng nhận Đăng ký Kinh Doanh/Doanh nghiệp đầu tiên và các giấy chứng nhận điều chỉnh do Sở Kế hoạch và Đầu tư tính Lâm Đồng cấp.</td></tr><tr><td>Hội đồng Quản trị</td><td>Ông Nguyễn Trọng OánhÔng Lê Văn QuangÔng Đỗ Minh Lộc</td><td>Chủ tịchThành viênThành viên</td></tr><tr><td>Ban Kiểm soát</td><td>Ông Ngô Thế LongÔng Hoàng Văn LongBà Bùi Thị Thu Trang</td><td>Trương banThành viênThành viên</td></tr><tr><td>Ban Tổng Giám đốc</td><td>Ông Lê Văn QuangÔng Đỗ Minh LộcÔng Nguyễn Đình Chiến</td><td>Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốc</td></tr><tr><td>Người đại diện theo pháp luật</td><td>Ông Lê Văn Quang</td><td>Tổng Giám đốc</td></tr><tr><td>Trụ sở đăng ký</td><td colspan="2">80A Trần Phú, Phường Lộc SơnThành phố Bảo LộcTỉnh Lâm ĐồngViệt Nam</td></tr><tr><td>Công ty kiểm toán</td><td colspan="2">Công ty TNHH KPMGViệt Nam</td></tr></table>
+
+1
+
+===== PAGE 3 =====
+Công ty cổ phần Thủy điện Đa Nhím - Hàm Thuận - Đa Mi Báo cáo của Ban Tổng Giám đốc
+
+Ban Tổng Giám đốc Công ty cổ phần Thủy điện Đa Nhim - Hàm Thuận - Đa Mi ("Công ty") trình bày báo cáo này và báo cáo tài chính hợp nhất dính kèm của Công ty và công ty con (được gọi chung là "Nhóm Công ty") cho năm kết thúc ngày 31 tháng 12 năm 2020.
+
+Ban Tổng Giám đốc Công ty chịu trách nhiệm lập và trình bày trung thực và hợp lý báo cáo tài chính hợp nhất theo các Chuẩn mực Kế toán Việt Nam. Chế độ Kế toán Doanh nghiệp Việt Nam và các quy định pháp lý có liên quan đến việc lập và trình bày báo cáo tài chính. Theo ý kiến của Ban Tổng Giám đốc Công ty:
+
+(a) báo cáo tài chính hợp nhất được trình bày từ trang 5 đến trang 49 đã phân ánh trung thực và hợp lý tính hình tài chính hợp nhất của Nhóm Công ty tại ngày 31 tháng 12 năm 2020, kết quả hoạt động kinh doanh hợp nhất và lưu chuyển tiền tệ hợp nhất của Nhóm Công ty cho năm kết thúc cùng ngày, phù hợp với các Chuẩn mực Kế toán Việt Nam, Chế độ Kế toán Doanh nghiệp Việt Nam và các quy định pháp lý có liên quan đến việc lập và trình bày báo cáo tài chính; và
+
+(b) tại ngày lập báo cáo này, không có lý do gì để Ban Tổng Giám đốc Công ty cho ràng Nhóm Công ty sẽ không thể thanh toán các khoản nợ phải trả khi đến hạn.
+
+Tại ngày lập báo cáo này, Ban Tổng Giám đốc Công ty đã phê duyệt phát hành báo cáo tài chính hợp nhất đính kèm.
+
+Lâm Đồng, ngày 26 tháng 2 năm 2021
+
+2
+
+===== PAGE 4 =====
+KPMG
+
+KPMG Limited Branch
+
+\(10^{\text{st}}\) Floor, Sun Wah Tower
+
+115 Nguyen Hue Street, Ben Nghe Ward
+
+District 1, Ho Chi Minh City, Vietnam
+
++84 (28) 3821 9266 | kpmg.com.vn
+
+BÁO CÁO KIÊM TOÁN ĐỘC LẬP
+
+Kính gửi các Cổ đông
+
+Công ty cổ phần Thủy điện Đa Nhím - Hàm Thuận - Đa Mì
+
+Chúng tôi đã kiểm toán báo cáo tài chính hợp nhất đính kèm của Công ty cổ phần Thủy điện Đa Nhim - Hàm Thuận - Đa Mi ("Công ty") và công ty con (được gọi chung là "Nhóm Công ty"), bao gồm bằng cân đối kế toán hợp nhất tại ngày 31 tháng 12 năm 2020, báo cáo kết quả hoạt động kinh doanh hợp nhất và báo cáo lưu chuyển tiền tệ hợp nhất liên quan cho năm kết thúc cùng ngày và các thuyết minh kèm theo được Ban Tổng Giám đốc Công ty phê duyệt phát hành ngày 26 tháng 2 năm 2021, được trình bày từ trang 5 đến trang 49.
+
+Trách nhiệm của Ban Tổng Giám đốc
+
+Ban Tổng Giám đốc Công ty chịu trách nhiệm lập và trình bày trung thực và hợp lý báo cáo tài chính hợp nhất này theo các Chuẩn mực Kế toán Việt Nam, Chế độ Kế toán Doanh nghiệp Việt Nam và các quy định pháp lý có liên quan đến việc lập và trình bày báo cáo tài chính, và chịu trách nhiệm về kiểm soát nội bộ mà Ban Tổng Giám đốc xác định là cần thiết để đảm bảo việc lập báo cáo tài chính hợp nhất không có sai sót trọng yếu do gian lận hay nhằm lẫn.
+
+Trách nhiệm của kiểm toán viên
+
+Trách nhiệm của chứng tối là đưa ra ý kiến về báo cáo tài chính hợp nhất này dựa trên kết quả kiểm toán của chứng tối. Chứng tối đã thực hiện công việc kiểm toán theo các Chuẩn mục Kiểm toán Việt Nam. Các chuẩn mục này yêu cầu chứng tối tuân thủ chuẩn mục và các quy định về đạo đức nghề nghiệp và lập kế hoạch và thực hiện cuộc kiểm toán để đạt được sự đảm bảo hợp lý về việc liệu báo cáo tài chính hợp nhất có còn sai sót trọng yếu hay không,
+
+Công việc kiểm toán bao gồm việc thực hiện các thủ tục nhằm thu thập các bằng chứng kiểm toán về các số liệu và các thuyết minh trong báo cáo tài chính. Các thủ tục được lựa chọn dựa trên xét đoán của kiểm toán viên, bao gồm đánh giá rủi ro có sai sót trọng yếu trong báo cáo tài chính do gian lập hoặc nhằm lẫn. Khi thực hiện các đánh giá rủi ro này, kiểm toán viên xem xét kiểm soát nội bộ của Công ty liên quan tới việc lập và trình bày báo cáo tài chính trung thực và hợp lý nhằm thiết kế các thủ tục kiểm toán phù hợp với tỉnh hình thực tế, tuy nhiên không nhằm mục đích đưa ra ý kiến về hiệu quả của kiểm soát nội bộ của Công ty. Công việc kiểm toán cũng bao gồm việc đánh giá tính thích hợp của các chính sách kế toán được áp dụng và tính hợp lý của các ước tính kế toán của Ban Tổng Giám đốc của Công ty, cũng như đánh giá việc trình bày tổng thể báo cáo tài chính.
+
+Chúng tôi tin rằng các bằng chứng kiểm toán mà chứng tôi thu được là đầy đủ và thích hợp làm cơ sở cho ý kiến kiểm toán của chứng tôi.
+
+KPMG Limited Branch in Ho Chi Minh City, a branch of KPMG Limited, a Vietnamese one member limited lately company and a member firm of the KPMG network of independent member firms affiliated with KPMG
+
+3
+
+===== PAGE 5 =====
+KPMG
+
+Ý kiến của kiểm toán viên
+
+Theo ý kiến của chúng tôi, báo cáo tài chính hợp nhất đã phần ảnh trung thực và hợp lý, trên các khía cạnh trọng yếu, tỉnh hình tài chính hợp nhất của Công ty cổ phần Thủy điện Đa Nhim - Hàm Thuận - Đa Mi và công ty con tại ngày 31 tháng 12 năm 2020, kết quả hoạt động kinh doanh hợp nhất và lưu chuyển tiến tệ hợp nhất của Công ty cổ phần Thủy Điện - Đa Nhim - Hàm Thuận - Đa Mi và công ty con trong năm kết thúc cùng ngày, phù hợp với các Chuẩn mục Kế toán Việt Nam, Chế độ Kế toán Doanh nghiệp Việt Nam và các quy định pháp lý có liên quan đến việc lập và trình bày báo cáo tài chính.
+
+Vấn đề cần nhân mạnh
+
+Chủng tôi lưu ý người đọc đến Thuyết minh 3(b)(ii) của báo cáo tài chính hợp nhất trong đó có mô tả việc Nhóm Công ty áp dụng phương pháp xử lý chênh lệch tỷ giá phát sinh trong giai đoạn xây dựng cơ bản của các công trình điện nằm trong Quy hoạch phát triển điện lực quốc gia được Thủ tướng Chính phủ phê duyệt theo hướng dẫn tại Nghị định số 10/2017/NĐ-CP ngày 9 tháng 2 năm 2017 của Chính phủ về quy chế quản lý tài chính của Tập đoàn Điện lực Việt Nam ("Nghị định 10"). Theo hướng dẫn của Nghị định 10, chênh lệch tỷ giá phát sinh trong giai đoạn xây dựng cơ bản của các công trình điện được ghi nhận vào tài khoản "Chênh lệch tỷ giả hối đoai" được phần ảnh trong phần "Vốn chủ sở hữu" và sẽ được phân bổ dẫn vào báo cáo kết quả hoạt động kinh doanh trong thời gian không quả 5 năm kể từ khi các công trình điện đi vào hoạt động thương mại. Hướng dẫn của Nghị định 10 có sự khác biệt so với hướng dẫn của Thông tư số 200/2014/TT-BTC ngày 22 tháng 12 năm 2014 của Bộ Tài chính về Hướng dẫn Chế độ Kế toán Doanh nghiệp. Ănh hướng của việc áp dụng chính sách kế toán theo hướng dẫn của Nghị định 10 đến báo cáo tài chính hợp nhất của Nhóm Công ty cho năm kết thúc ngày 31 tháng 12 năm 2020 được trình bảy trong Thuyết minh 3(b)(ii) của báo cáo tài chính hợp nhất. Ý kiến của chúng tôi không ngoại trừ vấn đề này.
+
+Chỉ nhánh Công ty TNHH KPMG tại Thành phố Hồ Chí Minh
+
+Viêt Nam
+
+Báo pào kiểm toán số: 20-01-00327-21-4
+
+Giấy Chứng nhận Đăng ký Hành nghề
+
+Kiểm toán số N.3782-2017-007-1
+
+Phó Tổng Giám đốc
+
+Trương Vĩnh Phúc
+
+Giấy Chứng nhận Đăng ký Hành nghề
+
+Kiểm toàn số 1901-2018-007-1
+
+Thành phố Hồ Chí Minh, ngày 26 tháng 2 năm 2021
+
+4
+
+===== PAGE 6 =====
+Công ty cổ phần Thủy điện Đa Nhim - Hàm Thuận - Đa Mi Bảng cân đối kế toán hợp nhất tại ngày 31 tháng 12 năm 2020
+
+Mâu B 01 - DN/HN
+
+(Ban hành theo Thông tư số 202/2014/TT-BTC ngày 22 tháng 12 năm 2014 của Bộ Tài chính)
+
+<table><tr><td></td><td>Mã số</td><td>Thuyết minh</td><td>31/12/2020 VND</td><td>1/1/2020 VND</td></tr><tr><td colspan="5">TÀI SẢN</td></tr><tr><td>Tài sản ngắn hạn(100 = 110 + 120+ 130 + 140 + 150)</td><td>100</td><td></td><td>1.494.459.105.437</td><td>1.960.440.525.002</td></tr><tr><td>Tiền và các khoản tương đương tiền</td><td>110</td><td>4</td><td>144.301.260.966</td><td>730.564.116.171</td></tr><tr><td>Tiền</td><td>111</td><td></td><td>13.801.260.966</td><td>123.790.305.186</td></tr><tr><td>Các khoản tương đương tiền</td><td>112</td><td></td><td>130.500.000.000</td><td>606.773.810.985</td></tr><tr><td>Đầu tư tài chính ngắn hạn</td><td>120</td><td></td><td>906.609.863.014</td><td>685.897.861.813</td></tr><tr><td>Đầu tư nằm giữ đến ngày đáo hạn</td><td>123</td><td>5(a)</td><td>906.609.863.014</td><td>685.897.861.813</td></tr><tr><td>Các khoản phải thu ngắn hạn</td><td>130</td><td></td><td>407.101.224.604</td><td>452.817.305.174</td></tr><tr><td>Phải thu ngắn hạn của khách hàng</td><td>131</td><td>6</td><td>319.655.796.608</td><td>358.393.390.591</td></tr><tr><td>Trà trước cho người bán ngắn hạn</td><td>132</td><td></td><td>617.453.789</td><td>44.047.760.014</td></tr><tr><td>Phải thu ngắn hạn khác</td><td>136</td><td>7</td><td>86.827.974.207</td><td>50.376.154.569</td></tr><tr><td>Hàng tồn kho</td><td>140</td><td>8</td><td>34.701.177.033</td><td>89.198.264.643</td></tr><tr><td>Hàng tồn kho</td><td>141</td><td></td><td>34.701.177.033</td><td>89.198.264.643</td></tr><tr><td>Tài sản ngắn hạn khác</td><td>150</td><td></td><td>1.745.579.820</td><td>1.962.977.201</td></tr><tr><td>Chi phí trả trước ngắn hạn</td><td>151</td><td>13(a)</td><td>1.665.330.983</td><td>1.734.874.568</td></tr><tr><td>Thuế và các khoản phải thu Nhà nước</td><td>153</td><td>15(b)</td><td>80.248.837</td><td>228.102.633</td></tr></table>
+
+Các thuyết minh đính kèm là bộ phận hợp thành của báo cáo tài chính hợp nhất này
+
+5
+
+J'SW ★
+
+===== PAGE 7 =====
+Công ty cổ phần Thủy diện Đa Nhim - Hàm Thuận - Đa Mi
+Băng cân đối kế toán hợp nhất tại ngày 31 tháng 12 năm 2020 (tiếp theo)
+
+Mâu B 01 - DN/HN
+
+(Ban hành theo Thông tư số 202/2014/TT-BTC ngày 22 tháng 12 năm 2014 của Bộ Tài chính)
+
+<table><tr><td></td><td>Mã số</td><td>Thuyết minh</td><td>31/12/2020 VND</td><td>1/1/2020 VND</td></tr><tr><td>Tài sản dài hạn(200 = 210 + 220 + 240 + 250 + 260)</td><td>200</td><td></td><td>6.857.512.522.708</td><td>7.271.262.527.287</td></tr><tr><td>Các khoản phải thu dài hạn</td><td>210</td><td></td><td>799.932.824.894</td><td>799.932.824.894</td></tr><tr><td>Phải thu về cho vay dài hạn</td><td>215</td><td>9</td><td>799.932.824.894</td><td>799.932.824.894</td></tr><tr><td>Tài sản cố định</td><td>220</td><td></td><td>5.461.979.964.333</td><td>5.764.183.782.771</td></tr><tr><td>Tài sản cố định hữu hình</td><td>221</td><td>10</td><td>5.460.953.119.682</td><td>5.763.347.963.176</td></tr><tr><td>Nguyên giá</td><td>222</td><td></td><td>14.828.272.944.701</td><td>14.780.687.683.939</td></tr><tr><td>Giá trị hao mòn lũy kế</td><td>223</td><td></td><td>(9.367.319.825.019)</td><td>(9.017.339.720.763)</td></tr><tr><td>Tài sản cố định vô hình</td><td>227</td><td>11</td><td>1.026.844.651</td><td>835.819.595</td></tr><tr><td>Nguyên giá</td><td>228</td><td></td><td>1.886.838.057</td><td>1.528.838.057</td></tr><tr><td>Giá trị hao mòn lũy kế</td><td>229</td><td></td><td>(859.993.406)</td><td>(693.018.462)</td></tr><tr><td>Tài sản dở dang dài hạn</td><td>240</td><td></td><td>435.135.170.408</td><td>402.864.223.360</td></tr><tr><td>Xây dựng cơ bán dở dang</td><td>242</td><td>12</td><td>435.135.170.408</td><td>402.864.223.360</td></tr><tr><td>Đầu tư tài chính dài hạn</td><td>250</td><td></td><td>98.669.359.110</td><td>288.483.008.655</td></tr><tr><td>Đầu tư vào công ty liên kết</td><td>252</td><td>5(b)</td><td>53.329.359.110</td><td>43.143.008.655</td></tr><tr><td>Đầu tư góp vốn vào đơn vị khác</td><td>253</td><td>5(b)</td><td>37.360.000.000</td><td>37.360.000.000</td></tr><tr><td>Đầu tư nằm giữ đến ngày đáo hạn</td><td>255</td><td>5(a)</td><td>7.980.000.000</td><td>207.980.000.000</td></tr><tr><td>Tài sản dài hạn khác</td><td>260</td><td></td><td>61.795.203.963</td><td>15.798.687.607</td></tr><tr><td>Chi phí trả trước dài hạn</td><td>261</td><td>13(b)</td><td>8.740.750.100</td><td>14.086.419.514</td></tr><tr><td>Thiết bị, vật tư, phụ tùng thay thế dài hạn</td><td>263</td><td></td><td>53.054.453.863</td><td>1.712.268.093</td></tr><tr><td>TỔNG CỘNG TÀI SẢN(270 = 100 + 200)</td><td>270</td><td></td><td>8.351.971.628.145</td><td>9.231.703.052.289</td></tr></table>
+
+Các thuyết minh đính kèm là bộ phận hợp thành của báo cáo tài chính hợp nhất này
+
+6
+
+===== PAGE 8 =====
+Công ty cổ phần Thủy điện Đa Nhim - Hàm Thuận - Đa Mi
+Bảng cân đối kế toán hợp nhất tại ngày 31 tháng 12 năm 2020 (tiếp theo)
+
+Mâu B 01 - DN/HN
+
+(Ban hành theo Thông tư số 202/2014/TT-BTC
+
+ngày 22 tháng 12 năm 2014 của Bộ Tài chính)
+
+<table><tr><td></td><td>Mã số</td><td>Thuyết minh</td><td>31/12/2020 VND</td><td>1/1/2020 VND</td></tr><tr><td colspan="5">NGUỒN VỐN</td></tr><tr><td>NỘ PHẢI TRẢ (300 = 310 + 330)</td><td>300</td><td></td><td>2.551.925.771.590</td><td>3.041.734.151.393</td></tr><tr><td>Nợ ngắn hạn</td><td>310</td><td></td><td>413.833.801.055</td><td>756.961.116.404</td></tr><tr><td>Phải trả người bán ngắn hạn</td><td>311</td><td>14</td><td>56.365.859.483</td><td>88.058.439.092</td></tr><tr><td>Người mua trả tiền trước ngắn hạn</td><td>312</td><td></td><td>1.701.238.120</td><td>2.497.345.582</td></tr><tr><td>Thuế và các khoản phải nộp Nhà nước</td><td>313</td><td>15(a)</td><td>133.181.117.132</td><td>95.194.436.129</td></tr><tr><td>Phải trả người lao động</td><td>314</td><td></td><td>23.659.464.522</td><td>21.317.713.475</td></tr><tr><td>Chi phí phải trả ngắn hạn</td><td>315</td><td>16</td><td>20.040.657.833</td><td>12.616.328.842</td></tr><tr><td>Phải trả ngắn hạn khác</td><td>319</td><td></td><td>717.149.490</td><td>2.595.232.793</td></tr><tr><td>Vay ngắn hạn</td><td>320</td><td>17(a)</td><td>169.544.678.712</td><td>528.658.352.617</td></tr><tr><td>Quỹ khen thưởng và phúc lợi</td><td>322</td><td>18</td><td>8.623.635.763</td><td>6.023.267.874</td></tr><tr><td>Nợ dài hạn</td><td>330</td><td></td><td>2.138.091.970.535</td><td>2.284.773.034.989</td></tr><tr><td>Phải trả người bán dài hạn</td><td>331</td><td>14</td><td>-</td><td>35.587.067.377</td></tr><tr><td>Vay dài hạn</td><td>338</td><td>17(b)</td><td>2.137.732.569.543</td><td>2.249.185.967.612</td></tr><tr><td>Thuế thu nhập hoãn lại phải trả</td><td>341</td><td>30(c)</td><td>359.400.992</td><td>-</td></tr><tr><td>VỐN CHỦ SỞ HỮU (400 = 410)</td><td>400</td><td></td><td>5.800.045.856.555</td><td>6.189.968.900.896</td></tr><tr><td>Vốn chủ sở hữu</td><td>410</td><td>19</td><td>5.800.045.856.555</td><td>6.189.968.900.896</td></tr><tr><td>Vốn cổ phần</td><td>411</td><td>20</td><td>4.224.000.000.000</td><td>4.224.000.000.000</td></tr><tr><td>Vốn khác của chủ sở hữu</td><td>414</td><td></td><td>449.306.520.458</td><td>402.839.889.104</td></tr><tr><td>Chênh lệch tỷ giá hối đoái</td><td>417</td><td>21</td><td>(28.633.216.069)</td><td>(8.452.600.340)</td></tr><tr><td>Quỹ đầu tư phát triển</td><td>418</td><td></td><td>70.104.106.264</td><td>116.360.737.618</td></tr><tr><td>Lợi nhuận sau thuế chưa phân phối</td><td>421</td><td></td><td>1.034.827.684.024</td><td>1.406.517.581.598</td></tr><tr><td>- Lợi nhuận sau thuế chưa phân phối lũy kế đến cuối năm trước</td><td>421a</td><td></td><td>376.231.675.876</td><td>360.230.274.516</td></tr><tr><td>- Lợi nhuận sau thuế chưa phân phối năm nay</td><td>421b</td><td></td><td>658.596.008.148</td><td>1.046.287.307.082</td></tr><tr><td>Lợi ích cổ đông không kiểm soát</td><td>429</td><td></td><td>50.440.761.878</td><td>48.703.292.916</td></tr><tr><td>TỔNG CỘNG NGUỒN VỐN (440 = 300 + 400)</td><td>440</td><td></td><td>8.351.971.628.145</td><td>9.231.703.052.289</td></tr></table>
+
+Ngày 26 tháng 2 năm 2021
+
+Người lập:
+
+Lê Xuân Phong
+
+Kế toán tổng hợp
+
+Phạm Thị Hồng Hà
+
+Kế toán trường
+
+Người duyết
+
+Các thuyết minh đính kèm là bộ phận hợp thành của báo cáo tài chính hợp nhất này
+
+7
+
+===== PAGE 9 =====
+Công ty cổ phần Thủy điện Đa Nhim - Hàm Thuận - Đa Mi
+Báo cáo kết quả hoạt động kinh doanh hợp nhất cho năm kết thúc ngày 31 tháng 12 năm 2020 (tiếp theo)
+
+Mâu B 02 - DN/HN
+
+(Ban hành theo Thông tư số 202/2014/TT-BTC ngày 22 tháng 12 năm 2014 của Bộ Tài chính)
+
+<table><tr><td></td><td>Mã số</td><td>Thuyết minh</td><td>2020 VND</td><td>2019 VND</td></tr><tr><td>Lợi nhuận sau thuế TNDN(mang từ trang trước sang)</td><td>60</td><td></td><td>660.342.939.098</td><td>1.047.515.848.070</td></tr><tr><td colspan="5">Phân bổ:</td></tr><tr><td>Lợi nhuận sau thuế của công ty mẹ</td><td>61</td><td></td><td>658.596.008.148</td><td>1.046.287.307.082</td></tr><tr><td>Lợi nhuận sau thuế của cổ đông không kiểm soát</td><td>62</td><td></td><td>1.746.930.950</td><td>1.228.540.988</td></tr><tr><td colspan="5">Lãi trên cổ phiếu</td></tr><tr><td>Lãi cơ bản trên cổ phiếu</td><td>70</td><td>31</td><td>1.559</td><td>2.477</td></tr></table>
+
+Ngày 26 tháng 2 năm 2021
+
+Các thuyết minh đính kèm là bộ phận hợp thành của báo cáo tài chính hợp nhất này
+
+9
+
+\( \frac{1}{2} \)
+
+===== PAGE 10 =====
+Công ty cổ phần Thủy điện Đa Nhim - Hàm Thuận - Đa Mi
+
+Báo cáo kết quả hoạt động kinh doanh hợp nhất cho năm kết thúc ngày 31 tháng 12 năm 2020
+
+Mâu B 02 - DN/HN
+
+(Ban hành theo Thông tư số 202/2014/TT-BTC
+
+ngày 22 tháng 12 năm 2014 của Bộ Tài chính)
+
+<table><tr><td></td><td>Mã số</td><td>Thuyết minh</td><td>2020 VND</td><td>2019 VND</td></tr><tr><td>Doanh thu bán hàng và cung cấp dịch vụ</td><td>01</td><td>24</td><td>1.686.110.693.140</td><td>2.195.242.396.344</td></tr><tr><td>Giá vốn hàng bán và dịch vụ cung cấp</td><td>11</td><td>25</td><td>841.814.187.724</td><td>843.171.721.613</td></tr><tr><td>Lợi nhuận gộp (20 = 01 - 11)</td><td>20</td><td></td><td>844.296.505.416</td><td>1.352.070.674.731</td></tr><tr><td>Doanh thu hoạt động tài chính</td><td>21</td><td>26</td><td>132.971.353.378</td><td>131.638.545.109</td></tr><tr><td>Chi phí tài chính</td><td>22</td><td>27</td><td>117.086.565.946</td><td>149.905.783.589</td></tr><tr><td>Trong đó: Chi phí lãi vay</td><td>23</td><td></td><td>79.749.834.629</td><td>55.082.600.412</td></tr><tr><td>Phần (lỗ)/lãi từ công ty liên kết</td><td>24</td><td>5(b)</td><td>(7.324.749.545)</td><td>6.764.087.447</td></tr><tr><td>Chi phí quản lý doanh nghiệp</td><td>26</td><td>28</td><td>56.507.318.013</td><td>59.771.753.817</td></tr><tr><td>Lợi nhuận thuần từ hoạt động kinh doanh {30 = 20 + (21 - 22) + 24 - 26}</td><td>30</td><td></td><td>796.349.225.290</td><td>1.280.795.769.881</td></tr><tr><td>Thu nhập khác</td><td>31</td><td></td><td>-</td><td>83.902.987</td></tr><tr><td>Chi phí khác</td><td>32</td><td></td><td>197.587.824</td><td>6.046.298.441</td></tr><tr><td>Lỗ khác (40 = 31 - 32)</td><td>40</td><td></td><td>(197.587.824)</td><td>(5.962.395.454)</td></tr><tr><td>Lợi nhuận kế toán trước thuế (50 = 30 + 40)</td><td>50</td><td></td><td>796.151.637.466</td><td>1.274.833.374.427</td></tr><tr><td>Chi phí thuế TNDN hiện hành</td><td>51</td><td>30</td><td>135.449.297.376</td><td>227.317.526.357</td></tr><tr><td>Chi phí thuế TNDN hoãn lại</td><td>52</td><td>30</td><td>359.400.992</td><td>-</td></tr><tr><td>Lợi nhuận sau thuế TNDN (60 = 50 - 51 - 52)(mang sang trang sau)</td><td>60</td><td></td><td>660.342.939.098</td><td>1.047.515.848.070</td></tr></table>
+
+Các thuyết minh đính kèm là bộ phận hợp thành của báo cáo tài chính hợp nhất này
+
+8
+
+===== PAGE 11 =====
+Công ty cổ phần Thủy diện Đa Nhim - Hàm Thuận - Đa Mi
+Báo cáo lưu chuyển tiền tệ hợp nhất cho năm kết thúc ngày 31 tháng 12 năm 2020
+(Phương pháp gián tiếp – tiếp theo)
+
+Mẫu B 03 - DN/HN
+
+(Ban hành theo Thông tư số 202/2014/TT-BTC
+
+ngày 22 tháng 12 năm 2014 của Bộ Tài chính)
+
+<table><tr><td></td><td>Mã số</td><td>Thuyết minh</td><td>2020 VND</td><td>2019 VND</td></tr><tr><td colspan="5">LU&#x27;U CHUYÊN TIÊN TỪ HOẠT ĐỘNG ĐẦU TƯ</td></tr><tr><td>Tiền chi mua sắm, xây dựng tài sản cố địnhvà các tài sản dài hạn khác</td><td>21</td><td></td><td>(94.194.487.691)</td><td>(878.730.584.794)</td></tr><tr><td>Tiền chi cho tiền gửi có kỳ hạn và cho vay</td><td>23</td><td></td><td>(1.309.532.465.796)</td><td>(644.585.278.480)</td></tr><tr><td>Tiền thu hồi từ tiền gửi có kỳ hạn và chovay</td><td>24</td><td></td><td>795.897.861.813</td><td>989.663.690.943</td></tr><tr><td>Tiền chi đầu tư góp vốn vào các đơn vịkhác</td><td>25</td><td></td><td>(22.400.000.000)</td><td>-</td></tr><tr><td>Tiền thu lãi cho vay, lãi tiền gửi, lãi tráiphiếu và cổ tức</td><td>27</td><td></td><td>38.575.814.754</td><td>39.483.862.484</td></tr><tr><td>Lưu chuyển tiền thuần từ hoạt động đầu tư</td><td>30</td><td></td><td>(591.653.276.920)</td><td>(494.168.309.847)</td></tr><tr><td colspan="5">LU&#x27;U CHUYÊN TIÊN TỪ HOẠT ĐỘNG TÀI CHÍNH</td></tr><tr><td>Tiền thu từ đi vay</td><td>33</td><td></td><td>41.622.261.892</td><td>1.028.501.728.612</td></tr><tr><td>Tiền trả nợ gốc vay</td><td>34</td><td></td><td>(145.359.692.145)</td><td>(45.475.138.395)</td></tr><tr><td>Tiền chi trả cổ tức cho cổ đông của Côngty</td><td>36</td><td></td><td>(471.045.985.781)</td><td>(857.577.172.732)</td></tr><tr><td>Tiền chi trả cổ tức cho cổ đông khôngkiểm soát</td><td>36</td><td></td><td>(1.920.000.000)</td><td>(3.360.000.000)</td></tr><tr><td>Lưu chuyển tiền thuần từ hoạt động tài chính</td><td>40</td><td></td><td>(576.703.416.034)</td><td>122.089.417.485</td></tr><tr><td>Lưu chuyển tiền thuần trong năm(\( 50 = 20 + 30 + 40 \))</td><td>50</td><td></td><td>(586.262.855.205)</td><td>517.681.577.297</td></tr><tr><td>Tiền và các khoản tương đương tiềnđầu năm</td><td>60</td><td></td><td>730.564.116.171</td><td>212.882.538.874</td></tr><tr><td>Tiền và các khoản tương đương tiềncuối năm (\( 70 = 50 + 60 \))</td><td>70</td><td>4</td><td>144.301.260.966</td><td>730.564.116.171</td></tr></table>
+
+Ngày 26 tháng 2 năm 2021
+
+Lê Xuân Phong
+Kế toán tổng hợp
+
+Phạm Thị Hồng Hà
+Kế toán trường
+
+Zé Văn Quang
+Tổng Giám đốc
+
+Các thuyết minh đính kèm là bộ phận hợp thành của báo cáo tài chính hợp nhất này
+
+11
+
+===== PAGE 12 =====
+Công ty cổ phần Thủy điện Đa Nhim - Hàm Thuận - Đa Mi
+Báo cáo lưu chuyển tiền tệ hợp nhất cho năm kết thúc ngày 31 tháng 12 năm 2020 (Phương pháp gián tiếp)
+
+Mâu B 03 - DN/HN
+
+(Ban hành theo Thông tư số 202/2014/TT-BTC
+
+ngày 22 tháng 12 năm 2014 của Bộ Tài chính)
+
+<table><tr><td></td><td>Mã số</td><td>Thuyết minh</td><td>2020 VND</td><td>2019 VND</td></tr><tr><td colspan="5">LU&#x27;U CHUYÊN TIÊN TỪ HOẠT ĐỘNG KINH DOANH</td></tr><tr><td>Lợi nhuận trước thuế Điều chỉnh cho các khoản</td><td>01</td><td></td><td>796.151.637.466</td><td>1.274.833.374.427</td></tr><tr><td>Khấu hao và phân bổ</td><td>02</td><td></td><td>351.463.819.308</td><td>316.828.108.415</td></tr><tr><td>Các khoản dự phòng</td><td>03</td><td></td><td>-</td><td>(46.750.000)</td></tr><tr><td>Lỗ chênh lệch tỷ giá hối đoái do đánh giá lại các khoản mục tiền tệ có gốc ngoại tệ</td><td>04</td><td></td><td>37.013.353.824</td><td>30.708.505.457</td></tr><tr><td>Thu nhập lãi tiền gửi, cho vay và trái phiếu</td><td>05</td><td></td><td>(120.699.160.418)</td><td>(106.365.848.409)</td></tr><tr><td>Thu nhập từ cổ tức</td><td>05</td><td></td><td>(3.219.069.000)</td><td>(8.988.603.500)</td></tr><tr><td>Lỗ/(lãi) từ công ty liên kết</td><td>05</td><td></td><td>7.324.749.545</td><td>(6.764.087.447)</td></tr><tr><td>Chi phí lãi vay</td><td>06</td><td></td><td>79.749.834.629</td><td>55.082.600.412</td></tr><tr><td>Lợi nhuận từ hoạt động kinh doanh trước những thay đổi vốn lưu động</td><td>08</td><td></td><td>1.147.785.165.354</td><td>1.555.287.299.355</td></tr><tr><td>Biến động các khoản phải thu</td><td>09</td><td></td><td>(398.387.418.308)</td><td>(166.454.962.775)</td></tr><tr><td>Biến động hàng tồn kho</td><td>10</td><td></td><td>(4.696.806.229)</td><td>(48.035.703.435)</td></tr><tr><td>Biến động các khoản phải trả và nợ phải trả khác</td><td>11</td><td></td><td>39.149.561.110</td><td>(19.340.244.710)</td></tr><tr><td>Biến động chí phí trả trước</td><td>12</td><td></td><td>5.797.209.999</td><td>8.879.104.886</td></tr><tr><td></td><td></td><td></td><td>789.647.711.926</td><td>1.330.335.493.321</td></tr><tr><td>Tiền lãi vay đã trả</td><td>14</td><td></td><td>(52.707.103.281)</td><td>(59.009.918.709)</td></tr><tr><td>Thuế thu nhập doanh nghiệp đã nộp</td><td>15</td><td></td><td>(141.121.771.075)</td><td>(364.878.499.616)</td></tr><tr><td>Tiền chi khác cho hoạt động kinh doanh</td><td>17</td><td></td><td>(13.724.999.821)</td><td>(16.686.605.337)</td></tr><tr><td>Lưu chuyển tiền thuần từ hoạt động kinh doanh</td><td>20</td><td></td><td>582.093.837.749</td><td>889.760.469.659</td></tr></table>
+
+Các thuyết minh đính kèm là bộ phận hợp thành của báo cáo tài chính hợp nhất này
+
+10
+
+* M.S.C.
+
+===== PAGE 13 =====
+Công ty cổ phần Thủy điện Đa Nhim - Hàm Thuận - Đa Mi
+Thuyết minh báo cáo tài chính hợp nhất cho năm kết thúc ngày 31 tháng 12 năm 2020
+
+Mẫu B 09 - DN/HN
+
+(Ban hành theo Thông tư số 202/2014/TT-BTC
+
+ngày 22 tháng 12 năm 2014 của Bộ Tài chính)
+
+Các thuyết minh này là bộ phận hợp thành và cần được đọc đồng thời với báo cáo tài chính hợp nhất đính kèm.
+
+1. Đơn vị báo cáo
+
+(a) Hình thức sở hữu vốn
+
+Công ty cổ phần Thủy điện Đa Nhim - Hàm Thuận - Đa Mi ("Công ty") được thành lập trên cơ sở cổ phần hóa Doanh nghiệp Nhà nước (Công ty Thủy điện Đa Nhim - Hàm Thuận - Đa Mí) theo Quyết định số 327/QĐ-EVN ngày 24 tháng 5 năm 2010 của Tập đoàn Điện Lực Việt Nam và chính thức hoạt động theo mô hình Công ty cổ phần kể từ ngày 7 tháng 10 năm 2011.
+
+Báo cáo tài chính hợp nhất của Công ty cho năm kết thúc ngày 31 tháng 12 năm 2020 bao gồm Công ty và công ty con (được gọi chung là “Nhóm Công ty”) và lợi ích của Nhóm Công ty trong công ty liên kết.
+
+Theo Quyết định số 427/QĐ-SGDHN ngày 12 tháng 6 năm 2017 của Sở Giao dịch Chứng khoán Hà Nội, Công ty bắt đầu đăng ký giao dịch cổ phiếu trên thị trường giao dịch cổ phiếu của các công ty đại chúng chưa niêm yết (UPCOM) với mã cổ phiếu là DNH.
+
+(b) Hoạt động chính
+
+Các hoạt động chính của Công ty là:
+
+sản xuất, kinh doanh điện năng; quản lý, vận hành, bảo dưỡng, sửa chữa, cải tạo các thiết bị điện, các công trình thủy công, công trình kiến trúc của nhà máy thủy điện;
+
+- kinh doanh vật tư, thiết bị; lập dự án đầu tư xây dựng, quản lý dự án đầu tư xây dựng, tư vấn giám sát thi công xây lắp;
+
+- đầu tư xây dựng và lắp đặt công trình thủy điện, nhiệt điện, địa nhiệt, phong nhiệt, năng lượng mặt trời, đầu khí, trạm điện và đường dây tải điện đến cấp điện áp 220 KV; và
+
+- tư vấn lập dự toán đầu tư, quản lý dự án đầu tư, lập dự toán và tổng dự toán công trình dân dụng, công nghiệp đầu khí; sản xuất, sửa chữa, thí nghiệm hiệu chỉnh thiết bị và phụ kiện, cấu kiện, thép bê tông và cung ứng vật tư thiết bị ngành diện.
+
+(c) Chu kỳ sản xuất kinh doanh thông thường
+
+Chu kỳ sản xuất kinh doanh thông thường của Nhóm Công ty nằm trong phạm vi 12 tháng.
+
+12
+
+===== PAGE 14 =====
+Công ty cổ phần Thủy điện Đa Nhim - Hàm Thuận - Đa Mì
+
+Thuyết minh báo cáo tài chính hợp nhất cho năm kết thúc ngày 31 tháng 12 năm 2020 (tiếp theo)
+
+Mâu B 09 - DN/HN
+
+(Ban hành theo Thông tư số 202/2014/TT-BTC
+
+ngày 22 tháng 12 năm 2014 của Bộ Tài chính)
+
+(d) Cấu trúc Nhóm Công ty
+
+Tại ngày 31 tháng 12 năm 2020 và ngày 1 tháng 1 năm 2020, Công ty có cấu trúc như sau:
+
+5 phòng ban;
+
+2 phân xưởng sản xuất;
+
+- Trung tâm dịch vụ kỹ thuật – đơn vị bảo dưỡng và sửa chữa các thiết bị điện, các công trình thủy công của nhà máy thủy điện;
+
+- Ban Quản lý Dự án Mór rộng Nhà máy Thủy điện Đa Nhim – đơn vị quản lý giai đoạn đầu tư mở rộng Nhà máy Thủy điện Đa Nhim.
+
+Tại ngày 31 tháng 12 năm 2020, Công ty có 1 công ty con sở hữu trực tiếp và 1 công ty liên kết (1/1/2020: 1 công ty con sở hữu trực tiếp và 1 công ty liên kết) với thông tin chỉ tiết như sau;
+
+<table><tr><td rowspan="2">Tên đơn vị</td><td rowspan="2">Hoạt động sản xuất kinh doanh chính</td><td colspan="2">31/12/2020</td><td colspan="2">1/1/2020</td></tr><tr><td>% sở hữu</td><td>% quyền biểu quyết</td><td>% sở hữu</td><td>% quyền biểu quyết</td></tr><tr><td>Công ty con sở hữu trực tiếpCông ty Cổ phần Thủy điệnHạ Sông Pha</td><td>Sản xuất, truyền tài và phân phối điện.</td><td>70%</td><td>70%</td><td>70%</td><td>70%</td></tr><tr><td>Công ty liên kếtCông ty Cổ phần Phong điệnThuận Bình</td><td>Sản xuất, truyền tài, và phân phối điện.</td><td>20%</td><td>20%</td><td>20%</td><td>20%</td></tr></table>
+
+Tại ngày 31 tháng 12 năm 2020, Nhóm Công ty có 274 nhân viên (1/1/2020: 284 nhân viên).
+
+2. Cơ sở lập báo cáo tài chính
+
+(a) Tuyên bố về tuân thủ
+
+Báo cáo tài chính hợp nhất này được lập theo các Chuẩn mực Kế toán Việt Nam, Chế độ Kế toán Doanh nghiệp Việt Nam và các quy định pháp lý có liên quan đến việc lập và trình bày báo cáo tài chính.
+
+Nhóm Công ty cũng áp dụng Chế độ Kế toán Doanh nghiệp của Tập đoàn Điện lực Việt Nam đã được Bộ Tài chính chấp thuận tại Văn bản số 12227/BTC-CDKT ngày 3 tháng 9 năm 2015, hướng dẫn chế độ kế toán doanh nghiệp áp dụng cho các đơn vị trong Tập đoàn Điện lực Việt Nam do Tập đoàn Điện lực Việt Nam ban hành theo Văn bản số 1425/EVN-TCKT ngày 22 tháng 3 năm 2019 (được gọi chung là “Chế độ Kế toán EVN”).
+
+13
+
+===== PAGE 15 =====
+Công ty cổ phần Thủy điện Đa Nhim - Hàm Thuận - Đa Mi
+Thuyết minh báo cáo tài chính hợp nhất cho năm kết thúc ngày 31 tháng 12 năm 2020 (tiếp theo)
+
+Mẫu B 09 - DN/HN
+
+(Ban hành theo Thông tư số 202/2014/TT-BTC
+
+ngày 22 tháng 12 năm 2014 của Bộ Tài chính)
+
+(b) Co sở đo lường
+
+Báo cáo tài chính hợp nhất, trừ báo cáo lưu chuyển tiền tệ hợp nhất, được lập trên cơ sở đơn tích theo nguyên tắc giá gốc. Báo cáo lưu chuyển tiền tệ hợp nhất được lập theo phương pháp gián tiếp.
+
+(c) Kỳ kế toán năm
+
+Kỳ kế toán năm của Nhóm Công ty là từ ngày 1 tháng 1 đến ngày 31 tháng 12.
+
+(d) Đơn vị tiền tệ kế toán và trình bày báo cáo tài chính
+
+Đơn vị tiền tệ kế toán của Công ty là Đồng Việt Nam (“VND”), cũng là đơn vị tiền tệ được sử dụng cho mục đích lập và trình bày báo cáo tài chính.
+
+3. Tóm tắt những chính sách kế toán chủ yếu
+
+Sau đây là những chính sách kế toán chủ yếu được Nhóm Công ty áp dụng trong việc lập báo cáo tài chính hợp nhất này.
+
+(a) Co sở hợp nhất
+
+(i) Công ty con
+
+Công ty con là đơn vị chịu sự kiểm soát của Nhóm Công ty. Báo cáo tài chính của công ty con được hợp nhất trong báo cáo tài chính hợp nhất kể từ ngày kiểm soát bắt đầu có hiệu lực cho tối ngày kiểm soát chấm dứt.
+
+(ii) Lợi ích cổ đông không kiểm soát
+
+Lợi ích cổ đông không kiểm soát được xác định theo tỷ lệ phần sở hữu của cổ đông không kiểm soát trong tài sản thuần của đơn vị bị mua lại tại ngày mua.
+
+Việc thoái vốn của Nhóm Công ty trong công ty con mà không dẫn đến mất quyền kiểm soát được kế toán tương tự như các giao dịch vốn chủ sở hữu. Chênh lệch giữa giá trị thay đổi phần sở hữu của Công ty trong tài sản thuần của công ty con và số thu hoặc chỉ từ việc thoái vốn tại công ty con được ghi nhận vào lợi nhuận sau thuế chưa phân phối thuộc vốn chủ sở hữu.
+
+14
+
+\( \left\| \frac{1}{2} \right\|_{2}^{2} = \frac{1}{2} \)
+
+===== PAGE 16 =====
+Công ty cổ phần Thủy điện Đa Nhim - Hàm Thuận - Đa Mi
+Thuyết minh báo cáo tài chính hợp nhất cho năm kết thúc ngày 31 tháng 12 năm 2020 (tiếp theo)
+
+Mâu B 09 - DN/HN
+
+(Ban hành theo Thông tư số 202/2014/TT-BTC
+
+ngày 22 tháng 12 năm 2014 của Bộ Tài chính)
+
+(iii) Mất quyền kiểm soát
+
+Khi mất quyền kiểm soát tại công ty con, Nhóm Công ty dùng ghi nhận tài sản và nợ phải trả của công ty con cũng như lợi ích cổ đông không kiểm soát và các cấu phần vốn chủ sở hữu khác. Lãi hoặc lỗ phát sinh từ sự kiện này được ghi nhận vào báo cáo kết quả hoạt động kinh doanh hợp nhất. Sau khi thoái vốn phần lợi ích còn lại trong công ty con trước đó (nếu có) được ghi nhận theo giá trị ghi số còn lại của khoản đầu tư trên báo cáo tài chính hợp nhất của công ty mẹ, sau khi được điều chỉnh theo tỷ lệ tương ứng cho những thay đổi trong vốn chủ sở hữu kể từ ngày mua nếu Nhóm Công ty vẫn còn ảnh hưởng đáng kể trong đơn vị nhận đầu tư, hoặc trình bày theo giá gốc của khoản đầu tư còn lại nếu không còn ảnh hưởng đáng kể.
+
+(iv) Công ty liên kết
+
+Công ty liên kết là công ty mà Nhóm Công ty có ảnh hưởng đáng kể, những không kiểm soát, các chính sách tài chính và hoạt động của công ty. Công ty liên kết được hạch toán theo phương pháp vốn chủ sở hữu. Báo cáo tài chính hợp nhất bao gồm phần mà Nhóm Công ty được hưởng trong thu nhập và chi phí của công ty liên kết, sau khi điều chỉnh theo chính sách kế toán của Nhóm Công ty, từ ngày bắt đầu cho tới ngày chấm dứt sự ảnh hưởng đáng kể đối với công ty liên kết. Giá trị ghi số của các khoản đầu tư vào công ty liên kết cũngng được điều chỉnh cho những thay đổi của Nhóm Công ty trong công ty liên kết phát sinh từ những thay đổi vốn chủ sở hữu của công ty liên kết mà không phản ánh trên báo cáo kết quả hoạt động kinh doanh (như việc đánh giá lại tài sản cố định, hay chênh lệch tỷ giá do chuyển đổi báo cáo tài chính, v.v...).
+
+Khi phần lỗ của công ty liên kết mà Nhóm Công ty phải chia sẻ vượt quá lợi ích của Nhóm Công ty trong công ty liên kết, giá trị ghi sổ của khoản đầu tư (bao gồm các khoản đầu tư dài hạn, nếu có) sẽ được ghi giảm tới bằng không và dùng việc ghi nhận các khoản lỗ phát sinh trong tương lai trừ các khoản lỗ thuộc phạm vi mà Nhóm Công ty có nghĩa vụ phải trả hoặc đã trả thay cho công ty liên kết.
+
+(v) Các giao dịch được loại trừ khi hợp nhất
+
+Các số dư và giao dịch trong nội bộ Nhóm Công ty và các khoản thu nhập và chi phí chưa thực hiện từ các giao dịch nội bộ được loại trừ khi lập báo cáo tài chính hợp nhất. Khoản lãi và lỗ chưa thực hiện phát sinh từ các giao dịch với các công ty liên kết được hạch toán theo phương pháp vốn chủ sở hữu được trừ vào khoản đầu tư trong phạm vi lợi ích của Nhóm Công ty tại công ty liên kết.
+
+(b) Ngoại tê
+
+(i) Các giao dịch bằng ngoại tệ
+
+Các giao dịch bằng các đơn vị tiền khác VND trong năm được quy đổi sang VND theo tỷ giá thực tế tại ngày giao dịch.
+
+15
+
+===== PAGE 17 =====
+Công ty cổ phần Thủy điện Đa Nhim - Hàm Thuận - Đa Mi
+Thuyết minh báo cáo tài chính hợp nhất cho năm kết thúc ngày 31 tháng 12 năm 2020 (tiếp theo)
+
+Mâu B 09 - DN/HN
+
+(Ban hành theo Thông tư số 202/2014/TT-BTC
+
+ngày 22 tháng 12 năm 2014 của Bộ Tài chính)
+
+Các khoản mục tài sản sán và nợ phải trả có gốc bằng đơn vị tiền tệ khác VND lần lượt được quy đổi sang VND theo tỷ giá mua chuyển khoản và bán chuyển khoản của ngân hàng thương mại nơi Nhóm Công ty thường xuyên có giao dịch tại ngày kết thúc kỳ kế toán năm.
+
+Ngoại trừ chính sách kế toán áp dụng cho chênh lệch tỷ giá phát sinh trong giai đoạn xây dựng cơ bản của các công trình điện nằm trong Quy hoạch phát triển điện lực quốc gia được trình bày dưới đây, các khoản chênh lệch tỷ giá hối đoái được ghi nhận vào báo cáo kết quả hoạt động kinh doanh hợp nhất.
+
+(ii) Chênh lệch tỷ giá phát sinh trong giai đoạn xây dựng cơ bản của các công trình điện nằm trong Quy hoạch phát triển điện lực quốc gia
+
+Nhóm Công ty áp dụng phương pháp xử lý chênh lệch tỷ giá phát sinh trong giai đoạn xây dựng cơ bản của các công trình điện nằm trong Quy hoạch phát triển điện lực quốc gia được Thủ tướng Chính phủ phê duyệt theo hướng dẫn tại Nghị định số 10/2017/NĐ-CP ngày 9 tháng 2 năm 2017 của Chính phủ về quy chế quản lý tài chính của Tập đoàn Điện lực Việt Nam (“Nghị định 10”). Theo hướng dẫn của Nghị định 10, chênh lệch tỷ giá phát sinh trong giai đoạn xây dựng cơ bản của các công trình điện được ghi nhận vào tài khoản “Chênh lệch tỷ giá hối đoái” được phán ánh trong phần “Vốn chủ sở hữu” và sẽ được phân bổ dẫn vào báo cáo kết quả hoạt động kinh doanh trong thời gian không quá 5 năm kể từ khi các công trình di vào hoạt động thương mại. Hướng dẫn của Nghị định 10 có sự khác biệt so với hướng dẫn của Thông tư số 200/2014/TT-BTC ngày 22 tháng 12 năm 2014 (“Thông tư 200”) của Bộ Tài chính về Hướng dẫn Chế độ Kế toán Doanh nghiệp mà theo đó các khoản chênh lệch tỷ giá này phải được ghi nhận vào báo cáo kết quả kinh doanh trong kỳ phát sinh.
+
+Nếu Nhóm Công ty áp dụng việc ghi nhận chênh lệch tỷ giá phát sinh trong giai đoạn xây dựng cơ bản của các công trình điện theo hướng dẫn của Thông tư 200 qua các năm thì chi phí tài chính sẽ tăng 20.180.615.729 VND, chi phí thuế thu nhập doanh nghiệp hiện hành sẽ giám 4.036.123.146 VND VND và lợi nhuận thuần sau thuế sẽ giảm 16.144.492.583 VND cho năm kết thúc ngày 31 tháng 12 năm 2020 (cho năm kết thúc ngày 31 tháng 12 năm 2019: chi phí tài chính sẽ giám 39.569.498.429 VND, chi phí thuế thu nhập doanh nghiệp hiện hành sẽ tăng 7.919.299.686 VND và lợi nhuận thuần sau thuế sẽ tăng 31.677.198.743 VND), số dư chênh lệch tỷ giá thể hiện ở tài khoản “Chênh lệch tỷ giá hối đoái” trong phần “Vốn chủ sở hữu” sẽ tăng 28.633.216.069 VND, thuế và các khoản phải nộp Nhà nước sẽ giảm 5.726.643.214 VND và “Lợi nhuận sau thuế chưa phân phối” sẽ giảm 22.906.572.855 VND tại ngày 31 tháng 12 năm 2020 (1/1/2020: số chênh lệch tỷ giá thể hiện ở tài khoản “Chênh lệch tỷ giá hối đoái” trong phần “Vốn chủ sở hữu” sẽ tăng 8.452.600.340 VND, thuế và các khoản phải nộp Nhà nước sẽ giảm 1.690.520.068 VND và “Lợi nhuận sau thuế chưa phân phối” sẽ giám 6.762.080.272 VND).
+
+(c) Tiền và các khoản tương đương tiền
+
+Tiền bao gồm tiền mặt và tiền gửi ngân hàng không kỳ hạn. Các khoản tương đương tiền là các khoản đầu tư ngắn hạn có tính thanh khoản cao, có thể dễ dàng chuyển đổi thành một lượng tiền xác định, không có nhiều rủi ro về thay đổi giá trị và được sử dụng cho mục đích đáp ứng các cam kết chi tiền ngắn hạn hơn là cho mục đích đầu tư hay là các mục đích khác.
+
+16
+
+===== PAGE 18 =====
+Công ty cổ phần Thủy điện Đa Nhim - Hàm Thuận - Đa Mi
+Thuyết minh báo cáo tài chính hợp nhất cho năm kết thúc ngày 31 tháng 12 năm 2020 (tiếp theo)
+
+Mẫu B 09 - DN/HN
+
+(Ban hành theo Thông tư số 202/2014/TT-BTC
+
+ngày 22 tháng 12 năm 2014 của Bộ Tài chính)
+
+(d) Các khoản đầu tư
+
+(i) Đầu từ nằm giữ đến ngày đáo hạn
+
+Đầu tư nằm giữ đến ngày đáo hạn là các khoản đầu tư mà Ban Tổng Giám đốc của Công ty và công ty con dự định và có khả năng nằm giữ đến ngày đáo hạn. Đầu tư nằm giữ đến ngày đáo hạn gồm tiền gửi ngân hàng có kỳ hạn, trái phiếu và các khoản cho vay nằm giữ đến ngày đáo hạn. Các khoản đầu tư này được ghi nhận theo giá gốc trừ đi dự phòng phải thu khó đòi.
+
+(ii) Đầu tư góp vốn vào các đơn vị khác
+
+Đầu tư vào các công cụ vốn chủ sở hữu của các đơn vị khác được ghi nhận ban đầu theo giá gốc bao gồm giá mua và các chi phí mua có liên quan trực tiếp. Sau ghi nhận ban đầu, khoản đầu tư này được xác định theo giá gốc trừ đi dự phòng giảm giá đầu tư. Dự phòng giảm giá đầu tư được lập khi giá trị hợp lý của khoản đầu tư thấp hơn giá trị ghi số của khoản đầu tư này. Đối với khoản đầu tư không xác định được giá trị hợp lý tại thời điểm báo cáo, dự phòng giảm giá đầu tư được lập khi đơn vị nhận đầu tư phát sinh lỗ. Dự phòng giảm giá đầu tư được hoàn nhập khi giá trị hợp lý của chứng khoán tăng lên hoặc khi đơn vị nhận đầu tư sau đó tạo ra lợi nhuận đề bù trừ cho các khoản lỗ đã được lập dự phòng trước kia. Khoản dự phòng chỉ được hoàn nhập trong phạm vi sao cho giá trị ghi số của khoản đầu tư không vượt quá giá trị ghi số của chúng khi giả định không có khoản dự phòng nào đã được ghi nhận.
+
+(e) Các khoản phải thu
+
+Các khoản phải thu khách hàng và phải thu khác được phản ánh theo nguyên giá trừ đi dự phòng phải thu khó đòi.
+
+(f) Hàng tồn kho
+
+Hàng tồn kho được phân ánh theo giá thấp hơn giữa giá gốc và giá trị thuần có thể thực hiện được. Giá gốc được tính theo phương pháp bình quân gia quyền và bao gồm tất cả các chi phí phát sinh để có được hàng tồn kho ở địa điểm và trạng thái hiện tại. Đối với chi phí sản xuất kinh doanh dở dang, giá gốc bao gồm nguyên vật liệu, chi phí nhân công trực tiếp, và các chi phí sản xuất chung được phân bổ. Giá trị thuần có thể thực hiện được ước tính dựa vào giá bán của hàng tồn kho trừ đi các khoản chi phí ước tính để hoàn thành sản phẩm và các chi phí bán hàng trực tiếp.
+
+Nhóm Công ty áp dụng phương pháp kê khai thường xuyên đề hạch toán hàng tồn kho.
+
+17
+
+===== PAGE 19 =====
+Công ty cổ phần Thủy điện Đa Nhim - Hàm Thuận - Đa Mi
+Thuyết minh báo cáo tài chính hợp nhất cho năm kết thúc ngày 31 tháng 12 năm 2020 (tiếp theo)
+
+Mẫu B 09 - DN/HN
+
+(Ban hành theo Thông tư số 202/2014/TT-BTC
+
+ngày 22 tháng 12 năm 2014 của Bộ Tài chính)
+
+(g) Tài sản cố định hữu hình
+
+(i) Nguyên giá
+
+Tài sản cố định hữu hình được thể hiện theo nguyên giá trừ đi giá trị hao mòn lũy kế. Nguyên giá tài sản cố định hữu hình bao gồm giá mua, thuế nhập khẩu, các loại thuế mua hàng không hoàn lại và chi phí liên quan trực tiếp đề đưa tài sản đến vị trí và trạng thái hoạt động cho mục đích sử dụng đã dự kiến. Các chi phí phát sinh sau khi tài sản cố định hữu hình đã đưa vào hoạt động như chi phí sửa chữa, bảo dưỡng và đại tu được ghi nhận vào báo cáo kết quả hoạt động kinh doanh hợp nhất trong năm mà chi phí phát sinh. Trong các trường hợp có thể chứng minh một cách rõ ràng răng các khoản chi phí này làm tăng lợi ích kinh tế trong tương lai dự tính thu được từ việc sử dụng tài sản cố định hữu hình vượt trên mức hoạt động tiêu chuẩn theo như đánh giá ban đầu, thì các chi phí này được vốn hóa như một khoản nguyên giá tăng thêm của tài sản cố định hữu hình.
+
+(ii) Khâu hao
+
+Khấu hao được tính theo phương pháp đường thẳng dựa trên thời gian hữu dụng ước tính của tài sản cố định hữu hình. Thời gian hữu dụng ước tính như sau:
+
+- nhà cửa và vật kiến trúc 10 - 50 năm
+
+máy móc và thiết bị 8 - 25 năm
+
+- phương tiễn vận tải 6 - 15 năm
+
+- thiết bị văn phòng 3 - 5 năm
+
+- tài sản cố định khác 3 năm
+
+(h) Tài sản cố định vô hình
+
+Phần mềm máy vi tính
+
+Giá mua của phần mềm máy vi tính mới mà phần mềm này không phải là một bộ phận gắn kết với phần cứng có liên quan thì được vốn hóa và hạch toán như tài sản cố định vô hình. Phần mềm máy vi tính được tính khấu hao theo phương pháp đường thẳng từ 5 đến 10 năm.
+
+(i) Xây dựng cơ bản dở dang
+
+Xây dựng dở dang là giá trị các công trình đầu tư xây dựng và công trình sửa chữa lớn tài sản cố định dở dang tại Nhóm Công ty được xác định trên cơ sở chi phí thực tế phát sinh đến cuối kỳ kể toán năm đối với các công trình tự làm hoặc theo khối lượng thực tế thanh toán với bên thi công trên cơ sở hoá đơn cho khối lượng hoàn thành hoặc hạng mục bản giao đối với các công trình thuê bên ngoài thực hiện. Chi phí này bao gồm các chi phí cần thiết để hình thành tài sản bao gồm chi phí xây lắp, thiết bị, chi phí trực tiếp khác, chi phí chung được phân bổ và chi phí lãi vay có liên quan phù hợp với quy định hiện hành. Xây dựng cơ bản dở dang sẽ được chuyển sang nguyên giá tài sản cố định theo giá tạm tính (nếu chưa có quyết toán được phê duyệt) khi các tài sản được bản giao đưa vào sử dụng. Không tính khấu hao cho xây dựng cơ bản dở dang trong quá trình xây dựng và lắp đặt.
+
+18
+
+===== PAGE 20 =====
+Công ty cổ phần Thủy điện Đa Nhím - Hàm Thuận - Đa Mí
+Thuyết minh báo cáo tài chính hợp nhất cho năm kết thúc ngày 31 tháng 12 năm 2020 (tiếp theo)
+
+Mẫu B 09 - DN/HN
+
+(Ban hành theo Thông tư số 202/2014/TT-BTC
+
+ngày 22 tháng 12 năm 2014 của Bộ Tài chính)
+
+Theo quy định về quản lý đầu tư và xây dựng của Nhà nước, tùy theo phân cấp quản lý, giá trị quyết toán các công trình xây dựng cơ bản hoàn thành cần được các cơ quan có thẩm quyền phê duyệt. Do đó, giá trị cuối cùng về giá trị các công trình xây dựng cơ bản có thể thay đổi và phụ thuộc vào quyết toán được phê duyệt bởi các cơ quan có thẩm quyền.
+
+Theo hướng dẫn của Chế độ Kế toán EVN, chi phí sửa chữa lớn tài sản cố định được ghi nhận vào giá vốn hàng bán trong năm dựa trên kế hoạch sửa chữa lớn hàng năm được phê duyệt bởi Hội đồng Quản trị của Công ty và được điều chỉnh vào cuối năm dựa trên cơ sở chi phí thực tế phát sinh. Chi phí của các công trình sửa chữa lớn đã phát sinh nhưng chưa quyết toán được theo dõi trên số dư tài khoản “Xây dựng cơ bản dở dang” đồng thời với tài khoản “Chi phí phải trả ngắn hạn” trên bảng cân đối kế toán. Khi quyết toán các công trình sửa chữa lớn tài sản cố định, giá trị quyết toán sẽ được hạch toán bù trừ giữa hai khoản mục trên. Hướng dẫn của Chế độ Kế toán EVN có sự khác biệt so với hướng dẫn của Chuẩn mục Kế toán Việt Nam số 18 – “Các khoản dự phòng, tài sản và nợ tiêm tàng” (“VAS 18”) mà theo đó một khoản dự phòng chi được ghi nhận khi doanh nghiệp có nghĩa vụ pháp lý hiện tại hoặc liên đói do kết quả của một sự kiện trong quá khử có thể ước tính một cách đáng tin cậy, và chắc chắn sẽ làm giảm sút các lợi ích kinh tế trong tương lai để thanh toán các khoản nợ phải trả do nghĩa vụ đó.
+
+(j) Chi phí trả trước dài hạn
+
+Công cụ dụng cụ
+
+Công cụ và dụng cụ bao gồm các tài sản Nhóm Công ty nằm giữ để sử dụng trong quá trình hoạt động kinh doanh bình thường, với nguyên giá của mỗi tài sản thấp hơn 30 triệu VND và do đó không đủ điều kiện ghi nhận là tài sản cố định theo quy định hiện hành. Nguyên giá của công cụ và dụng cụ được phân bổ theo phương pháp đường thẳng trong thời gian từ 2 đến 3 năm.
+
+(k) Các khoản phải trả người bán và các khoản phải trả khác
+
+Các khoản phải trả người bán và khoản phải trả khác được thể hiện theo giá gốc.
+
+(1) Dự phòng
+
+Một khoản dự phòng được ghi nhận nếu, do kết quả của một sự kiện trong quá khử, Nhóm Công ty có nghĩa vụ pháp lý hiện tại hoặc liên đối có thể ước tính một cách đáng tin cậy, và chắc chắn sẽ làm giảm sút các lợi ích kinh tế trong tương lai để thanh toán các khoản nợ phải trả do nghĩa vụ đó. Khoản dự phòng được xác định bằng cách chiết khấu dòng tiền dự kiến phải trả trong tương lai với tỷ lệ chiết khấu trước thuế phản ánh đánh giá của thị trường ở thời điểm hiện tại về giá trị thời gian của tiền và rủi ro cụ thể của khoản nợ đó.
+
+19
+
+* 1948
+
+===== PAGE 21 =====
+Công ty cổ phần Thủy điện Đa Nhim - Hàm Thuận - Đa Mi
+Thuyết minh báo cáo tài chính hợp nhất cho năm kết thúc ngày 31 tháng 12 năm 2020 (tiếp theo)
+
+Mẫu B 09 - DN/HN
+
+(Ban hành theo Thông tư số 202/2014/TT-BTC
+
+ngày 22 tháng 12 năm 2014 của Bộ Tài chính)
+
+(m) Vốn cổ phần
+
+Cổ phiếu phổ thông
+
+Cổ phiếu phổ thông được ghi nhận theo mệnh giá. Phần chênh lệch giữa giá phát hành cổ phiếu và mệnh giá cổ phiếu được ghi vào thẳng dư vốn cổ phần. Chi phí phát sinh liên quan trực tiếp đến việc phát hành cổ phiếu, trừ đi ảnh hưởng thuế, được ghi giảm vào thẳng dư vốn cổ phần.
+
+(n) Quỹ đầu tư phát triển
+
+Quỹ đầu tư và phát triển của Nhóm Công ty được trích lập và sử dụng theo theo Nghị quyết của Đại hội đồng cổ đông tại cuộc hợp Đại hội đồng cổ đông thường niên.
+
+(o) Thuế
+
+Thuế thu nhập doanh nghiệp tính trên lợi nhuận hoặc lỗ hợp nhất của năm bao gồm thuế thu nhập hiện hành và thuế thu nhập hoãn lại. Thuế thu nhập doanh nghiệp được ghi nhận trong báo cáo kết quả hoạt động kinh doanh hợp nhất ngoại trừ trường hợp có các khoản thuế thu nhập liên quan đến các khoản mục được ghi nhận thẳng vào vốn chủ sở hữu, thì khi đó các thuế thu nhập này cũng được ghi nhận thẳng vào vốn chủ sở hữu.
+
+Thuế thu nhập hiện hành là khoản thuế dự kiến phải nộp dựa trên thu nhập chịu thuế trong năm, sử dụng các mức thuế suất có hiệu lực tại ngày kết thúc kỳ kế toán năm, và các khoản điều chỉnh thuế phải nộp liên quan đến những năm trước.
+
+Thuế thu nhập hoãn lại được tính theo phương pháp bằng cân đối kế toán cho các chênh lệch tạm thời giữa giá trị ghi số cho mục đích báo cáo tài chính và giá trị sử dụng cho mục đích tính thuế của các khoản mục tài sản và nợ phải trả. Giá trị của thuế thu nhập hoãn lại được ghi nhận dựa trên cách thức dự kiến thu hồi hoặc thanh toán giá trị ghi số của các khoản mục tài sản và nợ phải trả sử dụng các mức thuế suất có hiệu lực hoặc cơ bản có hiệu lực tại ngày kết thúc kỳ kế toán năm.
+
+Tài sản thuế thu nhập hoãn lại chỉ được ghi nhận trong phạm vi chắc chắn có đủ lợi nhuận tính thuế trong tương lai đề tài sản thuế thu nhập này có thể sử dụng được. Tài sản thuế thu nhập hoãn lại được ghi giảm trong phạm vi không còn chắc chắn là các lợi ích về thuế liên quan này sẽ sử dụng được.
+
+(p) Doanh thu và thu nhập khác
+
+(i) Doanh thu bán điện
+
+Doanh thu bán điện được ghi nhận trong báo cáo kết quả hoạt động kinh doanh hợp nhất dựa trên sản lượng điện cung cấp vào hệ thống truyền tài diện và có xác nhận của khách hàng. Doanh thu không được ghi nhận nếu như có những yếu tố không chắc chắn trọng yếu liên quan tới khả năng thu hồi các khoản phải thu.
+
+20
+
+* M.3
+
+===== PAGE 22 =====
+Công ty cổ phần Thủy điện Đa Nhim - Hàm Thuận - Đa Mi
+
+Thuyết minh báo cáo tài chính hợp nhất cho năm kết thúc ngày 31 tháng 12 năm 2020 (tiếp theo)
+
+Mâu B 09 - DN/HN
+
+(Ban hành theo Thông tư số 202/2014/TT-BTC
+
+ngày 22 tháng 12 năm 2014 của Bộ Tài chính)
+
+(ii) Doanh thu cung cấp dịch vụ
+
+Doanh thu cung cấp dịch vụ được ghi nhận trong báo cáo kết quả hoạt động kinh doanh hợp nhất theo tỷ lệ phần trăm hoàn thành của giao dịch. Tỷ lệ phần trăm hoàn thành công việc được đánh giá dựa trên khảo sát các công việc đã được thực hiện. Doanh thu không được ghi nhận nếu như có những yếu tố không chắc chắn trọng yếu liên quan tới khả năng thu hồi các khoản phải thu.
+
+(iii) Thu nhập từ tiền lãi
+
+Thu nhập từ tiền lãi được ghi nhận theo tỷ lệ tương ứng với thời gian dựa trên số dư gốc và lãi suất áp dụng.
+
+(iv) Thu nhập từ cổ tức
+
+Thu nhập từ cổ tức được ghi nhận khi quyền nhận cổ tức được xác lập. Cổ tức bằng cổ phiếu không được ghi nhận là doanh thu hoạt động tài chính. Cổ tức nhận được liên quan đến giai đoạn trước khi mua khoản đầu tư được ghi giảm vào giá trị ghi sổ của khoản đầu tư.
+
+(q) Chi phí di vay
+
+Chi phí đi vay được ghi nhận là một chi phí trong năm khi chi phí này phát sinh, ngoại trừ trường hợp chi phí đi vay liên quan đến các khoản vay cho mục đích hình thành tài sản đủ điều kiện vốn hóa chi phí đi vay thì khi đó chi phí đi vay sẽ được vốn hóa và được ghi vào nguyên giá các tài sản này.
+
+(r) Thuê tài sản
+
+(i) Tài sản thuê
+
+Các tài sản thuê theo các hợp đồng thuê của Nhóm Công ty được phân loại là thuê hoạt động và không được ghi nhận trên bằng cân đối kế toán của Nhóm Công ty.
+
+(ii) Các khoản thanh toán tiền thuê
+
+Các khoản thanh toán thuê hoạt động được ghi nhận trong báo cáo kết quả hoạt động kinh doanh hợp nhất theo phương pháp đường thẳng dựa vào thời hạn của hợp đồng thuê. Các khoản hoa hồng đi thuê được ghi nhận trong báo cáo kết quả hoạt động kinh doanh hợp nhất như là một bộ phận hợp thành của tổng chi phí thuê, trong suốt thời hạn thuê.
+
+21
+
+===== PAGE 23 =====
+Công ty cổ phần Thủy điện Đa Nhim - Hàm Thuận - Đa Mi
+Thuyết minh báo cáo tài chính hợp nhất cho năm kết thúc ngày 31 tháng 12 năm 2020 (tiếp theo)
+
+Mâu B 09 - DN/HN
+
+(Ban hành theo Thông tư số 202/2014/TT-BTC
+
+ngày 22 tháng 12 năm 2014 của Bộ Tài chính)
+
+(s) Báo cáo bộ phận
+
+Một bộ phận là một hợp phần có thể xác định riêng biệt của Nhóm Công ty tham gia vào việc cung cấp các sản phẩm hoặc dịch vụ liên quan (bộ phận chia theo hoạt động kinh doanh), hoặc cung cấp sản phẩm hoặc dịch vụ trong một môi trường kinh tế cụ thể (bộ phận chia theo vùng địa lý), mỗi bộ phận này chịu rủi ro và thu được lợi ích khác biệt với các bộ phận khác. Mẫu báo cáo bộ phận cơ bản của Nhóm Công ty là dựa theo bộ phận chia theo hoạt động kinh doanh.
+
+Hoạt động sản xuất kinh doanh chính của Nhóm Công ty là kinh doanh điện và hoạt động khác là kinh doanh các dịch vụ khác liên quan đến lĩnh vực điện. Trong năm, hoạt động sản xuất kinh doanh khác chiếm tỷ trọng rất nhỏ trong tổng doanh thu và kết quả hoạt động của Công ty, theo đó thông tin tài chính trình bày trên bảng cân đối kế toán tại 31 tháng 12 năm 2020 và ngày 1 tháng 1 năm 2020 và toàn bộ doanh thu, chi phí trình bày trên báo cáo kết quả hoạt động kinh doanh hợp nhất cho các năm kết thúc ngày 31 tháng 12 năm 2020 và ngày 31 tháng 12 năm 2019 chủ yếu liên quan đến hoạt động kinh doanh chính của Nhóm Công ty là kinh doanh điện.
+
+Về mặt địa lý, Nhóm Công ty chỉ hoạt động trên lãnh thổ Việt Nam.
+
+(t) Lãi trên cổ phiếu
+
+Nhóm Công ty trình bày lãi cơ bản trên cổ phiếu (EPS) cho các cổ phiếu phổ thông. Lãi cơ bản trên cổ phiếu được tính bằng cách lấy lãi hoặc lỗ thuộc về cổ đông phổ thông của Công ty (sau khí đã trừ đi khoản phân bổ vào quỹ khen thưởng, phúc lợi cho kỳ kế toán báo cáo) chia cho số lượng cổ phiếu phổ thông bình quân gia quyền lưu hành trong năm.
+
+Lãi suy giảm trên cổ phiếu được xác định bằng cách điều chỉnh lãi hoặc lỗ thuộc về cổ đông phổ thông và số lượng cổ phiếu phổ thông bình quân đang lưu hành có tính đến các ảnh hưởng của cổ phiếu phổ thông tiềm năng, bao gồm trái phiếu có thể chuyển đổi và quyền mua cổ phiếu. Công ty không có các cổ phiếu có tác động suy giảm tiềm năng. Do đó, yêu cầu trình bày lãi suy giảm trên cổ phiếu không áp dụng.
+
+(u) Các bên liên quan
+
+Các bên được coi là bên liên quan của Nhóm Công ty nếu một bên có khả năng, trực tiếp hoặc gián tiếp, kiểm soát bên kia hoặc gây ảnh hưởng đáng kể tới bên kia trong việc ra các quyết định tài chính và hoạt động, hoặc khi Nhóm Công ty và bên kia cùng chịu sự kiểm soát chung hoặc ảnh hưởng đáng kể chung. Các bên liên quan có thể là các công ty hoặc các cá nhân, bao gồm cả các thành viên gia đình thân cận của các cá nhân được coi là liên quan.
+
+22
+
+===== PAGE 24 =====
+Công ty cổ phần Thủy điện Đa Nhim - Hàm Thuận - Đa Mi
+Thuyết minh báo cáo tài chính hợp nhất cho năm kết thúc ngày 31 tháng 12 năm 2020 (tiếp theo)
+
+Mẫu B 09 - DN/HN
+
+(Ban hành theo Thông tư số 202/2014/TT-BTC
+
+ngày 22 tháng 12 năm 2014 của Bộ Tài chính)
+
+(v) Thông tin so sánh
+
+Thông tin so sánh trong báo cáo tài chính hợp nhất này được trình bày dưới dạng dữ liệu tương ứng. Theo phương pháp này, các thông tin so sánh của năm trước được trình bày như một phần không thể tách rời của báo cáo tài chính năm hiện tại và phải được xem xét trong mối liên hệ với các số liệu và thuyết minh của năm hiện tại. Theo đó, thông tin so sánh bao gồm trong báo cáo tài chính hợp nhất này không nhằm mục đích trình bày về tỉnh hình tài chính hợp nhất, kết quả hoạt động kinh doanh hợp nhất và lưu chuyển tiền tệ hợp nhất của Nhóm Công ty trong năm trước.
+
+4. Tiền và các khoản tương đương tiền
+
+<table><tr><td></td><td>31/12/2020VND</td><td>1/1/2020VND</td></tr><tr><td>Tiền mặt</td><td>514.249.227</td><td>553.225.264</td></tr><tr><td>Tiền gửi ngân hàng (*)</td><td>13.287.011.739</td><td>123.237.079.922</td></tr><tr><td>Các khoản tương đương tiền</td><td>130.500.000.000</td><td>606.773.810.985</td></tr><tr><td></td><td>144.301.260.966</td><td>730.564.116.171</td></tr></table>
+
+Các khoản tương đương tiền phản ánh các khoản tiền gửi ngân hàng bằng VND có kỳ hạn gốc không quá 3 tháng và hưởng lãi suất năm là 3,0% (1/1/2020: 5%).
+
+(*) Bao gồm trong tiền gửi ngân hàng có khoản tiền gửi của Công ty tại Ngân hàng Thương mại Cổ phần Đầu tư và Phát triển Việt Nam, Chi nhánh Bảo Lộc với số tiền 5.004 triệu VND tại ngày 31 tháng 12 năm 2020 đang được dùng để đảm bảo cho khoản vay của Công ty từ Ngân hàng Phát triển Châu Á (1/1/2020: 77.549 triệu VND) (Thuyết minh 17).
+
+23
+
+===== PAGE 25 =====
+Công ty cổ phần Thủy điện Đa Nhim - Hàm Thuận - Đa Mi
+Thuyết minh báo cáo tài chính hợp nhất cho năm kết thúc ngày 31 tháng 12 năm 2020 (tiếp theo)
+
+Mẫu B 09 - DN/HN
+
+(Ban hành theo Thông tư số 202/2014/TT-BTC
+
+ngày 22 tháng 12 năm 2014 của Bộ Tài chính)
+
+5. Các khoản đầu tư tài chính
+
+(a) Đầu tư nấm giữ đến ngày đáo hạn
+
+<table><tr><td rowspan="2"></td><td rowspan="2">Số lượng</td><td colspan="2">31/12/2020</td><td rowspan="2">Số lượng</td><td colspan="2">1/1/2020</td></tr><tr><td>Giá gốc VND</td><td>Giá trị hợp lý VND</td><td>Giá gốc VND</td><td>Giá trị hợp lý VND</td></tr><tr><td>Đầu tư nằm giữ đến ngày đáo hạn – ngắn hạn▪ Tiền gửi ngân hàng có kỳ hạn ngắn hạn (i)</td><td></td><td>906.609.863.014</td><td>906.609.863.014</td><td></td><td>685.897.861.813</td><td>685.897.861.813</td></tr><tr><td>Đầu tư nằm giữ đến ngày đáo hạn – dài hạn▪ Tiền gửi ngân hàng có kỳ hạn dài hạn▪ Trái phiếu (ii)</td><td>798</td><td>7.980.000.000</td><td>(*)</td><td>798</td><td>200.000.000.0007.980.000.000</td><td>(*) (*)</td></tr><tr><td></td><td></td><td>7.980.000.000</td><td>(*)</td><td></td><td>207.980.000.000</td><td>(*)</td></tr></table>
+
+(i) Số dư này phản ánh các khoản tiền gửi ngân hàng có kỳ hạn gốc trên 3 tháng đến 1 năm và các khoản tiền gửi ngân hàng có kỳ hạn với thời gian đáo hạn còn lại không quá 12 tháng kể từ ngày báo cáo, hưởng lãi suất năm từ 3,7% đến 6,6% (1/1/2020: 5% đến 7,1%).
+
+(ii) Số dư này bao gồm trái phiếu do ngân hàng TMCP Công thương Việt Nam phát hành có giá trị 5 tỷ VND (1/1/2020: 5 tỷ VND), phát hành ngày 14 tháng 11 năm 2017 và có kỳ hạn 10 năm và trái phiếu do ngân hàng TMCP Đầu tư và Phát triển Việt Nam có giá trị 2,98 tỷ VND (1/1/2020: 2,98 tỷ VND), phát hành ngày 19 tháng 12 năm 2018 và có kỳ hạn 10 năm. Lãi suất áp dụng lần lượt là lãi suất tham chiếu cộng với biên độ 1,2%/năm và 1%/năm. Trong đó lãi suất tham chiếu là bình quân lãi suất tiền gửi tiết kiệm cá nhân bằng VND có kỳ hạn 12 tháng của 4 ngân hàng gồm: Ngân hàng TMCP Công thương Việt Nam, Ngân hàng TMCP Đầu tư và Phát triển Việt Nam, Ngân hàng TMCP Ngoại thương Việt Nam và Ngân hàng Nông nghiệp và Phát triển Nông thôn Việt Nam tại ngày xác định lãi suất.
+
+(*) Nhóm Công ty chưa xác định giá trị hợp lý của khoản đầu tư tài chính này để thuyết minh trong báo cáo tài chính hợp nhất vì không có giá niêm yết trên thị trường cho khoản đầu tư tài chính này và Chuẩn mục Kế toán Việt Nam, Chế độ Kế toán Doanh nghiệp Việt Nam hiện không có hướng dẫn về cách tính giá trị hợp lý sử dụng các kỹ thuật định giá. Giá trị hợp lý của khoản đầu tư tài chính này có thể khác với giá trị ghi sổ.
+
+24
+
+\( \therefore m = 1 \)
+
+===== PAGE 26 =====
+Công ty cổ phần Thủy điện Đa Nhim - Hàm Thuận - Đa Mi
+
+Thuyết minh báo cáo tài chính hợp nhất cho năm kết thúc ngày 31 tháng 12 năm 2020 (tiếp theo)
+
+Mẫu B 09 - DN/HN
+
+(Ban hành theo Thông tư số 202/2014/TT-BTC)
+
+ngày 22 tháng 12 năm 2014 của Bộ Tài chính
+
+(b) Đầu tư tài chính dài hạn
+
+<table><tr><td rowspan="2"></td><td rowspan="2">Số lượng cổ phần</td><td rowspan="2">% vốn sở hữu</td><td rowspan="2">% quyền biểu quyết</td><td colspan="6">31/12/2020</td><td colspan="3">1/1/2020</td></tr><tr><td>Giá trị ghi sổ/giá gốc VND</td><td>Dự phòng VND</td><td>Giá trị hợp lý VND</td><td>Số lượng cổ phần</td><td>% vốn sở hữu</td><td>% quyền biểu quyết</td><td>Giá trị ghi sổ/giá gốc VND</td><td>Dự phòng VND</td><td>Giá trị hợp lý VND</td></tr><tr><td colspan="13">Đầu tư góp vốn vào công ty liên kết</td></tr><tr><td>• Công ty Cổ phần Phong diện Thuận Bình (i)</td><td>5.507.920</td><td>20%</td><td>20%</td><td>53.329.359.110</td><td>-</td><td>(*)</td><td>3.267.920</td><td>20%</td><td>20%</td><td>43.143.008.655</td><td>-</td><td>(*)</td></tr><tr><td colspan="13">Đầu tư góp vốn vào các đơn vị khác</td></tr><tr><td>• Công ty Cổ phần Thủy diện A Vương</td><td>2.579.690</td><td>3,3%</td><td>3,3%</td><td>24.560.000.000</td><td>-</td><td>68.603.235.400</td><td>2.579.069</td><td>3,3%</td><td>3,3%</td><td>24.560.000.000</td><td>-</td><td>67.829.514.700</td></tr><tr><td>• Công ty Cổ phần Thủy diện Sòng Ba Hạ</td><td>1.280.000</td><td>1%</td><td>1%</td><td>12.800.000.000</td><td>-</td><td>37.120.000.000</td><td>1.280.000</td><td>1%</td><td>1%</td><td>12.800.000.000</td><td>-</td><td>29.568.000.000</td></tr><tr><td></td><td></td><td></td><td></td><td>37.360.000.000</td><td>-</td><td>105.723.235.400</td><td></td><td></td><td></td><td>37.360.000.000</td><td>-</td><td>97.397.514.700</td></tr><tr><td></td><td></td><td></td><td></td><td>90.689.359.110</td><td></td><td></td><td></td><td></td><td></td><td>80.503.008.655</td><td></td><td></td></tr></table>
+
+25
+
+* M.S.C.N.
+
+===== PAGE 27 =====
+Công ty cổ phần Thủy điện Đa Nhim - Hàm Thuận - Đa Mi
+
+Thuyết minh báo cáo tài chính hợp nhất cho năm kết thúc ngày 31 tháng 12 năm 2020 (tiếp theo)
+
+Mẫu B 09 - DN/HN
+
+(Ban hành theo Thông tư số 202/2014/TT-BTC
+
+ngày 22 tháng 12 năm 2014 của Bộ Tài chính)
+
+(i) Công ty Cổ phần Phong diện Thuận Bình (“Thuận Bình”) được thành lập tại Việt Nam theo Giấy Chứng nhận Đăng ký Kinh doanh số 3400675644 do Sở Kế hoạch và Đầu tư Tỉnh Bình Thuận cấp ngày 16 tháng 1 năm 2009. Hoạt động chính của Thuận Bình là sản xuất, truyền tải và kinh doanh điện năng. Trụ sở đăng ký của Công ty đặt tại xã Lâm on, huyện Ninh Sơn, tỉnh Ninh Thuận, Việt Nam. Trong năm 2020, Công ty đã mua 20% cổ phần phát hành thêm của Thuận Bình với số tiền là 22.400 triệu VND.
+
+Chi tiết giá trị ghi sổ của khoản đầu tư góp vốn vào công ty liên kết:
+
+<table><tr><td rowspan="2"></td><td colspan="3">31/12/2020</td><td colspan="3">1/1/2020</td></tr><tr><td>Giá gốc VND</td><td>(Lỗ)/lợi nhuận được chia lũy kế VND</td><td>Giá trị ghi sổ VND</td><td>Giá gốc VND</td><td>Lợi nhuận được chia lũy kế VND</td><td>Giá trị ghi sổ VND</td></tr><tr><td>Công ty Cổ phần Phong diện Thuận Bình</td><td>55.079.200.000</td><td>(1.749.840.890)</td><td>53.329.359.110</td><td>32.679.200.000</td><td>10.463.808.655</td><td>43.143.008.655</td></tr></table>
+
+26
+
+===== PAGE 28 =====
+Công ty cổ phần Thủy điện Đa Nhim - Hàm Thuận - Đa Mi
+Thuyết minh báo cáo tài chính hợp nhất cho năm kết thúc ngày 31 tháng 12 năm 2020 (tiếp theo)
+
+Mâu B 09 - DN/HN
+
+(Ban hành theo Thông tư số 202/2014/TT-BTC
+
+ngày 22 tháng 12 năm 2014 của Bộ Tài chính)
+
+Biến động của giá trị ghi số khoản đầu tư vào công ty liên kết trong năm như sau:
+
+<table><tr><td></td><td>2020VND</td><td>2019VND</td></tr><tr><td>Số dư đầu năm</td><td>43.143.008.655</td><td>39.637.821.208</td></tr><tr><td>Góp vốn vào công ty liên kết</td><td>22.400.000.000</td><td>-</td></tr><tr><td>Phấn (lỗ)/lợi nhuận được chia từ công ty liên kết</td><td>(7.324.749.545)</td><td>6.764.087.447</td></tr><tr><td>Cổ tức đã nhận trong năm</td><td>(4.888.900.000)</td><td>(3.258.900.000)</td></tr><tr><td></td><td>53.329.359.110</td><td>43.143.008.655</td></tr></table>
+
+Thông tin trích lược từ bảng cân đối kế toán và báo cáo kết quả hoạt động kinh doanh của công ty liên kết tại ngày báo cáo như sau:
+
+Công ty Cổ phần Phong điện Thuận Bình
+
+<table><tr><td></td><td>Tổng tài sản VND</td><td>Tổng nợ phải trả VND</td><td>Tổng vốn chủ sở hữu VND</td><td>(Lỗ)/lợi nhuận thuần sau thuế VND</td></tr><tr><td>Tại ngày và cho năm kết thúc ngày 31 tháng 12 năm 2020</td><td>864.430.030.319</td><td>605.222.773.256</td><td>259.207.257.063</td><td>(38.575.332.202)</td></tr><tr><td>Tại ngày và cho năm kết thúc ngày 31 tháng 12 năm 2019</td><td>844.606.603.310</td><td>626.315.014.045</td><td>218.291.589.265</td><td>37.409.462.079</td></tr></table>
+
+(*) Nhóm Công ty chưa xác định giá trị hợp lý của khoản đầu tư tài chính này để thuyết minh trong báo cáo tài chính hợp nhất bởi vì không có giá niêm yết trên thị trường cho khoản đầu tư tài chính này và các Chuẩn mực Kế toán Việt Nam, Chế độ Kế toán Doanh nghiệp Việt Nam hiện không có hướng dẫn về cách tính giá trị hợp lý sử dụng các kỹ thuật định giá. Giá trị hợp lý của các khoản đầu tư tài chính này có thể khác với giá trị ghi số.
+
+27
+
+===== PAGE 29 =====
+Công ty cổ phần Thủy điện Đa Nhim - Hàm Thuận - Đa Mi
+
+Thuyết minh báo cáo tài chính hợp nhất cho năm kết thúc ngày 31 tháng 12 năm 2020 (tiếp theo)
+
+Mâu B 09 - DN/HN
+
+(Ban hành theo Thông tư số 202/2014/TT-BTC
+
+ngày 22 tháng 12 năm 2014 của Bộ Tài chính)
+
+6. Phải thu ngắn hạn của khách hàng
+
+(a) Phải thu của khách hàng chi tiết theo khách hàng lớn
+
+<table><tr><td></td><td>31/12/2020VND</td><td>1/1/2020VND</td></tr><tr><td>Công ty Mua Bán Điện – Tập đoàn Điện lực Việt Nam</td><td>304.994.974.360</td><td>347.656.889.213</td></tr><tr><td>Tổng Công ty Điện lực Miền Nam</td><td>11.672.110.489</td><td>3.821.709.877</td></tr><tr><td>Các khách hàng khác</td><td>2.988.711.759</td><td>6.914.791.501</td></tr><tr><td></td><td>319.655.796.608</td><td>358.393.390.591</td></tr></table>
+
+(b) Phải thu của khách hàng là bên liên quan
+
+<table><tr><td></td><td>31/12/2020VND</td><td>1/1/2020VND</td></tr><tr><td>Công ty Mua Bán Điện – Tập đoàn Điện lực Việt Nam</td><td>304.994.974.360</td><td>347.656.889.213</td></tr><tr><td>Tổng Công ty Điện lực Miền Nam</td><td>11.672.110.489</td><td>3.821.709.877</td></tr><tr><td>Công ty Cổ phần Tư vấn Xây dựng Điện 3</td><td>319.959.153</td><td>447.115.350</td></tr><tr><td>Công ty Thủy điện Đại Ninh - Tổng Công ty phát điện 1</td><td>9.350.000</td><td>-</td></tr></table>
+
+Khoản phải thu thương mại từ các bên liên quan không có đảm bảo, không hướng lãi và có thời hạn thu hồi là từ 30 - 60 ngày kể từ ngày ghi trên hóa đơn.
+
+7. Phải thu ngắn hạn khác
+
+<table><tr><td></td><td>31/12/2020VND</td><td>1/1/2020VND</td></tr><tr><td>Phải thu lãi tiền gửi, cho vay và trái phiếu</td><td>85.453.360.660</td><td>47.928.933.233</td></tr><tr><td>Cổ tức được chia</td><td>-</td><td>1.973.424.200</td></tr><tr><td>Phải thu khác</td><td>1.374.613.547</td><td>473.797.136</td></tr><tr><td></td><td>86.827.974.207</td><td>50.376.154.569</td></tr></table>
+
+28
+
+===== PAGE 30 =====
+Công ty cổ phần Thủy điện Đa Nhim - Hàm Thuận - Đa Mi
+Thuyết minh báo cáo tài chính hợp nhất cho năm kết thúc ngày 31 tháng 12 năm 2020 (tiếp theo)
+
+Mâu B 09 - DN/HN
+
+(Ban hành theo Thông tư số 202/2014/TT-BTC
+
+ngày 22 tháng 12 năm 2014 của Bộ Tài chính)
+
+8. Hàng tồn kho
+
+<table><tr><td></td><td>31/12/2020Giá gốcVND</td><td>1/1/2020Giá gốcVND</td></tr><tr><td>Nguyên vật liệu</td><td>32.272.079.450</td><td>86.724.214.214</td></tr><tr><td>Công cụ và dụng cụ</td><td>1.406.006.566</td><td>772.852.401</td></tr><tr><td>Chi phí sản xuất kinh doanh dở dang</td><td>1.023.091.017</td><td>1.701.198.028</td></tr><tr><td></td><td>34.701.177.033</td><td>89.198.264.643</td></tr></table>
+
+Tại ngày 31 tháng 12 năm 2020 và ngày 1 tháng 1 năm 2020, Nhóm Công ty không có hàng tồn kho ử động, mất phẩm chất, hư hỏng cần trích lập dự phòng.
+
+9. Phải thu về cho vay dài hạn
+
+<table><tr><td></td><td>31/12/2020VND</td><td>1/1/2020VND</td></tr><tr><td>Phải thu về cho vay dài hạn</td><td>799.932.824.894</td><td>599.932.824.894</td></tr><tr><td>Khoản cho vay dài hạn đến hạn thu hồi được gia hạn</td><td>-</td><td>200.000.000.000</td></tr><tr><td>Khoản đến hạn thu hồi sau 12 tháng</td><td>799.932.824.894</td><td>799.932.824.894</td></tr></table>
+
+Điều kiện và điều khoản của các khoản phải thu về cho vay dài hạn như sau:
+
+<table><tr><td></td><td>Loại tiền tệ</td><td>Năm đáo hạn</td><td>31/12/2020 VND</td><td>1/1/2020 VND</td></tr><tr><td colspan="5">Phải thu về cho vay đối với Tổng Công ty Phát điện 1 – công ty mẹ</td></tr><tr><td>▪ Khoản cho vay 1</td><td>VND</td><td>2024</td><td>200.000.000.000</td><td>200.000.000.000</td></tr><tr><td>▪ Khoản cho vay 2</td><td>VND</td><td>2025</td><td>150.000.000.000</td><td>150.000.000.000</td></tr><tr><td>▪ Khoản cho vay 3</td><td>VND</td><td>2025</td><td>449.932.824.894</td><td>449.932.824.894</td></tr><tr><td colspan="3"></td><td>799.932.824.894</td><td>799.932.824.894</td></tr></table>
+
+Các khoản phải thu về cho vay này không có đảm bảo, có kỳ hạn gốc là 5 năm và lãi suất được xác định bằng lãi suất huy động tiền gửi kỳ hạn 12 tháng trả lãi cuối kỳ của Hội sở chính Ngân hàng TMCP Công thương Việt Nam tại ngày xác định lãi suất cộng với biên độ 2,5%/năm. Tại ngày 31 tháng 12 năm 2020, các khoản phải thu về cho vay này hưởng lãi suất năm là 7,4% (1/1/2020: 8,9%). Nợ gốc vay được thanh toán một lần vào ngày đáo hạn.
+
+29
+
+===== PAGE 31 =====
+… \( P_{\mathrm{max}}^{1} \) …… \( w_{\mathrm{min}}^{1} \) …… \( h_{\mathrm{min}}^{2} \) …… \( h_{\mathrm{min}}^{3} \) ……
+
+Công ty cổ phần Thủy điện Đa Nhim - Hàm Thuận - Đa Mi
+
+Thuyết minh báo cáo tài chính hợp nhất cho năm kết thúc ngày 31 tháng 12 năm 2020 (tiếp theo)
+
+Mẫu B 09 - DN/HN
+
+(Ban hành theo Thông tư số 202/2014/TT-BTC
+
+ngày 22 tháng 12 năm 2014 của Bộ Tài chính)
+
+10. Tài sản cố định hữu hình
+
+<table><tr><td></td><td>Nhà cửa và vật kiến trúc VND</td><td>Máy móc và thiết bị VND</td><td>Phương tiện vận tải VND</td><td>Thiết bị văn phòng VND</td><td>Tài sản cố định khác VND</td><td>Tổng VND</td></tr><tr><td colspan="7">Nguyên giá</td></tr><tr><td>Số dư đầu năm</td><td>8.752.778.896.612</td><td>5.904.396.542.963</td><td>73.289.581.056</td><td>49.968.782.801</td><td>253.880.507</td><td>14.780.687.683.939</td></tr><tr><td>Tăng trong năm</td><td>-</td><td>10.284.840.196</td><td>419.933.364</td><td>3.263.299.999</td><td>-</td><td>13.968.073.559</td></tr><tr><td>Chuyển từ xây dựng cơ bản dở dang</td><td>2.089.700.059</td><td>22.447.533.248</td><td>4.067.845.253</td><td>117.207.214</td><td>-</td><td>28.722.285.774</td></tr><tr><td>Chuyển từ hàng tồn kho</td><td>-</td><td>3.837.870.082</td><td>3.878.553.952</td><td>135.284.035</td><td>-</td><td>7.851.708.069</td></tr><tr><td>Phân loại lại</td><td>-</td><td>588.293.923</td><td>-</td><td>(588.293.923)</td><td>-</td><td>-</td></tr><tr><td>Thanh lý</td><td>-</td><td>(121.552.520)</td><td>(612.960.000)</td><td>(582.227.588)</td><td>-</td><td>(1.316.740.108)</td></tr><tr><td>Giảm khác</td><td>-</td><td>(1.640.066.532)</td><td>-</td><td>-</td><td>-</td><td>(1.640.066.532)</td></tr><tr><td>Số dư cuối năm</td><td>8.754.868.596.671</td><td>5.939.793.461.360</td><td>81.042.953.625</td><td>52.314.052.538</td><td>253.880.507</td><td>14.828.272.944.701</td></tr><tr><td colspan="7">Giá trị hao mòn lũy kế</td></tr><tr><td>Số dư đầu năm</td><td>4.764.702.497.407</td><td>4.157.388.842.063</td><td>50.370.120.233</td><td>44.624.380.553</td><td>253.880.507</td><td>9.017.339.720.763</td></tr><tr><td>Khấu hao trong năm</td><td>175.958.466.990</td><td>169.266.597.441</td><td>3.886.101.276</td><td>2.185.678.657</td><td>-</td><td>351.296.844.364</td></tr><tr><td>Thanh lý</td><td>-</td><td>(121.552.520)</td><td>(612.960.000)</td><td>(582.227.588)</td><td>-</td><td>(1.316.740.108)</td></tr><tr><td>Số dư cuối năm</td><td>4.940.660.964.397</td><td>4.326.533.886.984</td><td>53.643.261.509</td><td>46.227.831.622</td><td>253.880.507</td><td>9.367.319.825.019</td></tr><tr><td colspan="7">Giá trị còn lại</td></tr><tr><td>Số dư đầu năm</td><td>3.988.076.399.205</td><td>1.747.007.700.900</td><td>22.919.460.823</td><td>5.344.402.248</td><td>-</td><td>5.763.347.963.176</td></tr><tr><td>Số dư cuối năm</td><td>3.814.207.632.274</td><td>1.613.259.574.376</td><td>27.399.692.116</td><td>6.086.220.916</td><td>-</td><td>5.460.953.119.682</td></tr></table>
+
+30
+
+* M.S.C.M.
+
+===== PAGE 32 =====
+Công ty cổ phần Thủy diện Đa Nhim - Hàm Thuận - Đa Mi
+Thuyết minh báo cáo tài chính hợp nhất cho năm kết thúc ngày 31 tháng 12 năm 2020 (tiếp theo)
+
+Mâu B 09 - DN/HN
+
+(Ban hành theo Thông tư số 202/2014/TT-BTC
+
+ngày 22 tháng 12 năm 2014 của Bộ Tài chính)
+
+Trong tài sản cố định hữu hình tại ngày 31 tháng 12 năm 2020 có các tài sản có nguyên giá 3.820.298.370.551 VND đã khấu hao hết nhưng vẫn đang sử dụng (1/1/2020: 3.352.679.206.143 VND).
+
+Như được trình bày tại Thuyết minh 17(b), các tài sản hình thành từ các khoản đi vay Tập đoàn Điện lực Việt Nam và Công ty Tài chính Cổ phần Điện lực được sử dụng để đảm bảo cho các khoản vay này. Các tài khoản tiền gửi của Công ty tại Ngân hàng Thương mại Cổ phần Đầu tư và Phát triển Việt Nam, Chi nhánh Bảo Lộc (Thuyết minh 4), tài sản có định là tầm pin mặt trời, máy biến tấn và trạm biến áp của dự án Nhà máy điện mặt trời Đa Mi được sử dụng để đảm bảo cho khoản vay của Công ty từ Ngân hàng Phát triển Châu Á.
+
+Tại ngày 31 tháng 12 năm 2020, tài sản cố định hữu hình có giá trị ghi sở là 443.785.333.977 VND được thế chấp tại Ngân hàng Nông nghiệp và Phát triển Nông thôn – Chi nhánh Ninh Thuận để đảm bảo cho chính khoản vay từ ngân hàng này của công ty con (1/1/2020: là 466.799.668.234 VND) (Thuyết minh 17(b)).
+
+11. Tài sản cố định vô hình
+
+<table><tr><td></td><td>Phần mềm máy ví tính VND</td></tr><tr><td colspan="2">Nguyên giá</td></tr><tr><td>Số dư đầu năm</td><td>1.528.838.057</td></tr><tr><td>Tăng trong năm</td><td>358.000.000</td></tr><tr><td>Số dư cuối năm</td><td>1.886.838.057</td></tr><tr><td colspan="2">Giá trị hao mòn lũy kế</td></tr><tr><td>Số dư đầu năm</td><td>693.018.462</td></tr><tr><td>Khấu hao trong năm</td><td>166.974.944</td></tr><tr><td>Số dư cuối năm</td><td>859.993.406</td></tr><tr><td colspan="2">Giá trị còn lại</td></tr><tr><td>Số dư đầu năm</td><td>835.819.595</td></tr><tr><td>Số dư cuối năm</td><td>1.026.844.651</td></tr></table>
+
+31
+
+===== PAGE 33 =====
+Công ty cổ phần Thủy điện Đa Nhim - Hàm Thuận - Đa Mí
+Thuyết minh báo cáo tài chính hợp nhất cho năm kết thúc ngày 31 tháng 12 năm 2020 (tiếp theo)
+
+Mâu B 09 - DN/HN
+
+(Ban hành theo Thông tư số 202/2014/TT-BTC
+
+ngày 22 tháng 12 năm 2014 của Bộ Tài chính)
+
+12. Xây dựng cơ bản dở dang
+
+<table><tr><td></td><td>2020VND</td><td>2019VND</td></tr><tr><td>Số dư đầu năm</td><td>402.864.223.360</td><td>1.804.706.088.811</td></tr><tr><td>Tăng trong năm</td><td>94.695.165.526</td><td>773.210.661.356</td></tr><tr><td>Xây dựng cơ bản dở dang</td><td>55.532.128.554</td><td>729.688.004.215</td></tr><tr><td>Công trình sửa chữa lớn tài sản cố định</td><td>33.319.935.704</td><td>35.984.290.571</td></tr><tr><td>Lãi vay vốn hóa trong năm</td><td>5.843.101.268</td><td>7.538.366.570</td></tr><tr><td>Chuyên sang tài sản cố định hữu hình (Thuyết minh 10)</td><td>(28.722.285.774)</td><td>(2.139.068.236.236)</td></tr><tr><td>Chuyên sang chi phí trả trước dài hạn (Thuyết minh 13(b))</td><td>(381.997.000)</td><td>-</td></tr><tr><td>Quyết toán chi phí sửa chữa lớn tài sản cố định</td><td>(33.319.935.704)</td><td>(35.984.290.571)</td></tr><tr><td>Số dư cuối năm</td><td>435.135.170.408</td><td>402.864.223.360</td></tr></table>
+
+Các công trình xây dựng cơ bản dở dang lớn như sau:
+
+<table><tr><td></td><td>31/12/2020VND</td><td>1/1/2020VND</td></tr><tr><td>Dự án mở rộng Nhà máy Thủy điện Đa Nhìm (i)</td><td>434.790.597.285</td><td>381.845.141.005</td></tr><tr><td>Dự án Nhà máy Điện Mặt trời Đa Mi</td><td>-</td><td>21.019.082.355</td></tr><tr><td>Các công trình khác</td><td>344.573.123</td><td>-</td></tr><tr><td></td><td>435.135.170.408</td><td>402.864.223.360</td></tr></table>
+
+(i) Dự án mở rộng Nhà máy Thủy điện Đa Nhim ("Dự án") được phê duyệt đầu tư xây dựng theo Quyết định số 6934/QĐ-BCT ngày 24 tháng 9 năm 2013 của Bộ Công Thương. Mục tiêu của Dự án là nhằm mở rộng thêm 1 tổ máy 80MW cho Nhà máy Thủy điện Đa Nhim hiện hữu, nâng tổng công suất nhà máy từ 160MW lên 240MW. Tổng mức đầu tư dự kiến là 1.952.591.601.000 VND (tương đương 92,28 triệu USD). Nguồn vốn đầu tư của Dự án được tài trợ từ vốn và Quỹ hỗ trợ phát triển chính thức (ODA) của Chính phủ Nhật Bản (85%) và vốn đối ứng của Chính phủ Việt Nam (15%), Giai đoạn 1 của dự án đã hoàn thành và đi vào vận hành thương mại từ tháng 4 năm 2019. Tài sản hình thành từ Dự án được sử dụng để đảm bảo cho các khoản vay của Công ty (Thuyết minh 17(b)).
+
+13. Chi phí trả trước
+
+(a) Chi phí trả trước ngắn hạn
+
+Chi phí trả trước ngắn hạn phản ánh chi phí bảo hiểm trả trước và các khoản lệ phí đường bộ.
+
+32
+
+===== PAGE 34 =====
+Công ty cổ phần Thủy điện Đa Nhim - Hàm Thuận - Đa Mi
+
+Thuyết minh báo cáo tài chính hợp nhất cho năm kết thúc ngày 31 tháng 12 năm 2020 (tiếp theo)
+
+Mâu B 09 - DN/HN
+
+(Ban hành theo Thông tư số 202/2014/TT-BTC
+
+ngày 22 tháng 12 năm 2014 của Bộ Tài chính)
+
+(b) Chi phí trả trước dài hạn
+
+<table><tr><td></td><td>Công cụ và dụng cụ VND</td><td>Chỉ phí trả trước khác VND</td><td>Tổng cộng VND</td></tr><tr><td>Số dư đầu năm</td><td>4.347.161.924</td><td>9.739.257.590</td><td>14.086.419.514</td></tr><tr><td>Tăng trong năm</td><td>1.081.438.773</td><td>2.610.202.310</td><td>3.691.641.083</td></tr><tr><td>Chuyển từ xây dựng cơ bản dở dang</td><td>-</td><td>381.997.000</td><td>381.997.000</td></tr><tr><td>Phân bổ trong năm</td><td>(1.315.406.612)</td><td>(8.103.900.885)</td><td>(9.419.307.497)</td></tr><tr><td>Số dư cuối năm</td><td>4.113.194.085</td><td>4.627.556.015</td><td>8.740.750.100</td></tr></table>
+
+14. Phải trả người bán
+
+(a) Phải trả người bán chỉ tiết theo nhà cung cấp lớn
+
+<table><tr><td rowspan="2"></td><td colspan="2">Giá gốc và số có khả năng trả nợ</td></tr><tr><td>31/12/2020VND</td><td>1/1/2020VND</td></tr><tr><td>Công ty Cổ phần Xây dựng 47</td><td>30.526.962.718</td><td>38.359.567.905</td></tr><tr><td>Công ty Cổ phần Xây lắp điện 1</td><td>13.465.270.317</td><td>8.504.484.181</td></tr><tr><td>GE Power India Limited</td><td>4.435.403.723</td><td>20.218.320.144</td></tr><tr><td>Viện Nghiên cứu Cơ khí</td><td>681.109.762</td><td>9.017.558.460</td></tr><tr><td>Công ty TNHH Thương mại và Dịch vụ Thanh An</td><td>-</td><td>27.036.659.939</td></tr><tr><td>Công ty TNHH Cơ điện Minh Anh</td><td>-</td><td>10.867.574.247</td></tr><tr><td>Các nhà cung cấp khác</td><td>7.257.112.963</td><td>9.641.341.593</td></tr><tr><td></td><td>56.365.859.483</td><td>123.645.506.469</td></tr></table>
+
+33
+
+===== PAGE 35 =====
+Công ty cổ phần Thủy điện Đa Nhim - Hàm Thuận - Đa Mi
+
+Thuyết minh báo cáo tài chính hợp nhất cho năm kết thúc ngày 31 tháng 12 năm 2020 (tiếp theo)
+
+Mâu B 09 - DN/HN
+
+(Ban hành theo Thông tư số 202/2014/TT-BTC
+
+ngày 22 tháng 12 năm 2014 của Bộ Tài chính)
+
+(b) Phải trả người bán chỉ tiết theo kỳ hạn thanh toán
+
+<table><tr><td rowspan="2"></td><td colspan="2">Giá gốc và số có khả năng trả nợ</td></tr><tr><td>31/12/2020VND</td><td>1/1/2020VND</td></tr><tr><td>Ngắn hạn</td><td>56.365.859.483</td><td>88.058.439.092</td></tr><tr><td>Dải hạn</td><td>-</td><td>35.587.067.377</td></tr><tr><td></td><td>56.365.859.483</td><td>123.645.506.469</td></tr></table>
+
+(c) Phải trả người bán là các bên liên quan
+
+<table><tr><td rowspan="2"></td><td colspan="2">Giá gốc và số có khả năng trả nợ</td></tr><tr><td>31/12/2020VND</td><td>1/1/2020VND</td></tr><tr><td>Công ty Cổ phần Xây lắp điện 1</td><td>13.465.270.317</td><td>8.504.484.181</td></tr><tr><td>Công ty Cổ phần Tư vấn Xây dựng Điện 3</td><td>404.244.508</td><td>-</td></tr><tr><td>Công ty Cổ phần Tư vấn Xây dựng Điện 2</td><td>178.370.587</td><td>178.370.587</td></tr><tr><td>Ban Quản lý Dự án Điện 1 - Chi nhánh Tập đoàn Điện lực Việt Nam</td><td>117.722.452</td><td>-</td></tr><tr><td>Trung Tâm Thông Tín Điện Lực</td><td>-</td><td>4.448.400</td></tr></table>
+
+Khoản phải trả thương mại cho các bên liên quan không có đảm bảo, không chịu lãi và phải trả theo thỏa thuận với các bên liên quan.
+
+34
+
+\( \frac{1}{2}E \times 10^{3}N \)
+
+===== PAGE 36 =====
+Công ty cổ phần Thủy điện Đa Nhim - Hàm Thuận - Đa Mỉ
+
+Thuyết minh báo cáo tài chính hợp nhất cho năm kết thúc ngày 31 tháng 12 năm 2020 (tiếp theo)
+
+Mẫu B 09 - DN/HN
+
+(Ban hành theo Thông tư số 202/2014/TT-BTC
+
+ngày 22 tháng 12 năm 2014 của Bộ Tài chính)
+
+15. Thuế và các khoản phải nộp/phải thu Nhà nước
+
+(a) Thuế và các khoản phải nộp Nhà nước
+
+<table><tr><td></td><td>1/1/2020VND</td><td>Số phải nộptrong nămVND</td><td>Số đã nộp/cấn trừtrong nămVND</td><td>Chuyển sangthuế phải thuVND</td><td>31/12/2020VND</td></tr><tr><td colspan="6">Thuế</td></tr><tr><td>Thuế giá trị gia tăng</td><td>6.028.802.732</td><td>168.423.100.718</td><td>(160.528.090.321)</td><td>-</td><td>13.923.813.129</td></tr><tr><td>Thuế xuất nhập khẩu</td><td>-</td><td>223.266.965</td><td>(223.266.965)</td><td>-</td><td>-</td></tr><tr><td>Thuế thu nhập doanh nghiệp</td><td>56.692.771.075</td><td>135.449.297.376</td><td>(141.121.771.075)</td><td>(147.853.796)</td><td>50.872.443.580</td></tr><tr><td>Thuế thu nhập cá nhân</td><td>119.167.779</td><td>6.055.740.736</td><td>(5.146.478.013)</td><td>-</td><td>1.028.430.502</td></tr><tr><td>Thuế tài nguyên</td><td>3.132.491.611</td><td>231.770.447.822</td><td>(198.404.832.451)</td><td>-</td><td>36.498.106.982</td></tr><tr><td>Các loại thuế khác</td><td>-</td><td>5.660.948.739</td><td>(5.643.507.159)</td><td>-</td><td>17.441.580</td></tr><tr><td colspan="6">Các khoản phải nộp khác</td></tr><tr><td>Phí dịch vụ môi trường rừng</td><td>21.381.043.932</td><td>89.503.938.144</td><td>(88.012.272.384)</td><td>-</td><td>22.872.709.692</td></tr><tr><td>Phí cấp quyền khai thác tài nguyên nước</td><td>7.840.159.000</td><td>31.960.847.250</td><td>(31.832.834.583)</td><td>-</td><td>7.968.171.667</td></tr><tr><td></td><td>95.194.436.129</td><td>669.047.587.750</td><td>(630.913.052.951)</td><td>(147.853.796)</td><td>133.181.117.132</td></tr></table>
+
+(b) Thuế và các khoản phải thu Nhà nước
+
+Thuế thu nhập doanh nghiệp
+
+<table><tr><td>1/1/2020VND</td><td>Số phát sinh trong năm VND</td><td>Chuyển từ thuế phải nộp VND</td><td>31/12/2020VND</td></tr><tr><td>228.102.633</td><td>-</td><td>(147.853.796)</td><td>80.248.837</td></tr></table>
+
+35
+
+* M.S.C.R. Or
+
+===== PAGE 37 =====
+Công ty cổ phần Thủy điện Đa Nhim - Hàm Thuận - Đa Mi
+Thuyết minh báo cáo tài chính hợp nhất cho năm kết thúc ngày 31 tháng 12 năm 2020 (tiếp theo)
+
+Mâu B 09 - DN/HN
+
+(Ban hành theo Thông tư số 202/2014/TT-BTC
+
+ngày 22 tháng 12 năm 2014 của Bộ Tài chính)
+
+16. Chi phí phải trả ngắn hạn
+
+<table><tr><td></td><td>31/12/2020VND</td><td>1/1/2020VND</td></tr><tr><td>Chi phí lãi vay</td><td>20.040.657.833</td><td>12.616.328.842</td></tr></table>
+
+17. Vay
+
+(a) Vay ngắn hạn
+
+<table><tr><td rowspan="2"></td><td rowspan="2">1/1/2020Giá trị ghi sốvà số có khănăng trả nợVND</td><td colspan="3">Biến động trong năm</td><td rowspan="2">31/12/2020Giá trị ghi sốvà số có khănăng trả nợVND</td></tr><tr><td>TăngVND</td><td>GiảmVND</td><td>Chênh lệch tỷgiá hối đoáiVND</td></tr><tr><td>Vay dài hạnđến hạn trả (b)</td><td>528.658.352.617</td><td>165.278.282.980</td><td>(528.658.352.617)</td><td>4.266.395.732</td><td>169.544.678.712</td></tr></table>
+
+(b) Vay dài hạn
+
+Biến động các khoản vay dài hạn trong năm như sau:
+
+<table><tr><td></td><td>2020VND</td><td>2019VND</td></tr><tr><td>Số dư đầu năm</td><td>2.249.185.967.612</td><td>1.725.365.941.327</td></tr><tr><td>Giải ngân trong năm</td><td>50.696.788.807</td><td>1.028.501.728.612</td></tr><tr><td>Trà nợ gốc trong năm</td><td>(50.400.164.386)</td><td>(11.306.275.173)</td></tr><tr><td>Chuyển sang vay dài hạn đến hạn trả</td><td>(165.278.282.980)</td><td>(528.658.352.617)</td></tr><tr><td>Chênh lệch tỷ giá hối doái do đánh giá lại</td><td>53.528.260.490</td><td>35.282.925.463</td></tr><tr><td>Số dư cuối năm</td><td>2.137.732.569.543</td><td>2.249.185.967.612</td></tr></table>
+
+36
+
+===== PAGE 38 =====
+Công ty cổ phần Thủy điện Đa Nhim - Hàm Thuận - Đa Mi
+Thuyết minh báo cáo tài chính hợp nhất cho năm kết thúc ngày 31 tháng 12 năm 2020 (tiếp theo)
+
+Mâu B 09 - DN/HN
+
+(Ban hành theo Thông tư số 202/2014/TT-BTC
+
+ngày 22 tháng 12 năm 2014 của Bộ Tài chính)
+
+Điều khoản và điều kiện của các khoản vay dài hạn hiện còn số dư như sau:
+
+<table><tr><td></td><td>Tiền tệ</td><td>Nămđáo hạn</td><td>Lãi suất năm</td><td>31/12/2020VND</td><td>1/1/2020VND</td></tr><tr><td colspan="6">Vay từ Tập đoàn Điện Lực Việt Nam</td></tr><tr><td>▪ Khoản vay 1</td><td>JPY</td><td>2020</td><td>3,21%</td><td>-</td><td>389.601.848.586</td></tr><tr><td>▪ Khoản vay 2 (i)</td><td>JPY</td><td>2021</td><td>2,75%</td><td>26.288.624.103</td><td>74.874.772.056</td></tr><tr><td colspan="6">Vay từ Công ty Tài Chính Cổ phần Điện Lực</td></tr><tr><td>▪ Khoản vay 1 (ii)</td><td>JPY</td><td>2044</td><td>0,21% - 1,6%</td><td>1.186.371.716.224</td><td>1.139.383.599.423</td></tr><tr><td colspan="6">Vay từ Ngân hàng phát triển Châu Á</td></tr><tr><td>▪ Khoản vay 1 (iii)</td><td>USD</td><td>2034</td><td>Lãi suất thả nổi</td><td>793.652.807.764</td><td>859.510.000.000</td></tr><tr><td colspan="6">Vay từ Ngân hàng Nông nghiệp và Phát triển Nông thôn – Chi nhánh Ninh Thuận</td></tr><tr><td>▪ Khoản vay 1 (iv)</td><td>VND</td><td>2029</td><td>Lãi suất tiết kiệm12 tháng + 2,5%</td><td>300.964.100.164</td><td>314.474.100.164</td></tr><tr><td colspan="4"></td><td>2.307.277.248.255</td><td>2.777.844.320.229</td></tr></table>
+
+(i) Theo Hợp đồng cho vay lại nguồn vốn vay Ngân hàng Hợp tác Quốc tế Nhật Bản số 01/2013/EVN/TCKT ngày 20 tháng 9 năm 2013. Khoản vay này được sử dụng để đầu tư dự án Phục hồi hệ thống điện Đa Nhim và chịu lãi suất năm là 2,3%/năm, phí quản lý khoản vay là 0,2%/năm và phí cho vay lại là 0,25%/năm. Thời hạn cho vay lại là 7 năm 6 tháng, nợ gốc vay được thanh toán mỗi năm hai lần vào ngày 20 tháng 2 và ngày 20 tháng 8 hàng năm. Khoản vay này được đảm bảo bằng tài sản hình thành từ vốn vay (Thuyết minh 10).
+
+(ii) Theo Hợp đồng cho vay lại vốn vay ưu đãi Chính phủ của Cơ quan Hợp tác Quốc tế Nhật Bản số 01/2015/HĐCVL/TCĐL-ĐHĐ/ĐNMR ngày 8 tháng 7 năm 2015. Khoản vay này được sử dụng để đầu tư Dự án mở rộng Nhà máy Thủy điện Đa Nhim và chịu lãi suất năm là 0,01%/năm đối với các khoản vay cho các hạng mục tư vấn; 1,4%/năm đối với các khoản vay cho các hạng mục xây lắp, thiết bị, và phí cho vay lại là 0,2%/năm. Thời hạn cho vay lại là 25 năm trong đó có thời gian ân hạn là 5 năm kể từ ngày 28 tháng 2 năm 2014, nợ gốc vay được thanh toán mỗi năm hai lần vào ngày 20 tháng 1 và ngày 20 tháng 7 hàng năm sau khi kết thúc thời gian ân hạn, ngày trả nợ gốc đầu tiên vào ngày 20 tháng 1 năm 2019. Khoản vay này được đảm bảo bằng tài sản hình thành từ vốn vay (Thuyết minh 10) và tài sản của Nhà máy Thủy điện Đa Nhim hiện hữu với công suất lắp máy 160MW (Thuyết minh 10 và Thuyết minh 12).
+
+(iii) Theo Hợp đồng cho vay giữa Ngân hàng Phát triển Châu Á (ADB) và Công ty cổ phần Thủy điện Đa Nhim - Hàm Thuận - Đa Mi ngày 26 tháng 9 năm 2019, khoản vay này được sử dụng để tài trợ cho dự
+
+37
+
+===== PAGE 39 =====
+Công ty cổ phần Thủy điện Đa Nhim - Hàm Thuận - Đa Mi
+Thuyết minh báo cáo tài chính hợp nhất cho năm kết thúc ngày 31 tháng 12 năm 2020 (tiếp theo)
+
+Mâu B 09 - DN/HN
+
+(Ban hành theo Thông tư số 202/2014/TT-BTC
+
+ngày 22 tháng 12 năm 2014 của Bộ Tài chính)
+
+án Nhà máy điện mặt trời Đa Mi. Đối với phần dư nợ 173.113.259.466 VND (tương đương 7.464.996 USD) chịu lãi suất thả nổi bằng LIBOR + biên độ lãi suất 3,65%/năm. Đối với phần dư nợ 285.112.774.836 VND (tương đương 12.294.643 USD) chịu lãi suất bằng chỉ phí hoán đổi lãi suất cổ định + biên độ lãi suất 3,65%/năm. Đối với phần dư nợ 335.426.773.463 VND (tương đương 14.464.285 USD) chịu lãi suất cổ định là 2,5%/năm. Thời hạn vay là 15 năm trong đó thời gian ân hạn được tính từ ngày giải ngân đầu tiên (ngày 23 tháng 12 năm 2019) đến kỳ trả nợ đầu tiên (ngày 15 tháng 9 năm 2020). Nợ gốc và lãi vay sẽ được trả mỗi năm hai lần vào ngày 15 tháng 3 và ngày 15 tháng 9 hàng năm. Khoản vay này được đảm bảo bằng:
+
+Các tài khoản tiền gửi của Công ty tại Ngân hàng Thương mại Cổ phần Đầu tư và Phát triển Việt Nam, Chi nhánh Bảo Lộc (Thuyết minh 4).
+
+Tài sản cố định là tấm pin mặt trời, máy biến tần và trạm biến áp của dự án Nhà máy diện mặt trời Đa Mi (Thuyết minh 10)
+
+(iv) Theo hợp đồng vay số 1/4/HĐTD ngày 22 tháng 4 năm 2011 được ký giữa Ngân hàng Nông nghiệp và Phát triển Nông thôn – Chi nhánh Ninh Thuận và công ty con, khoản vay này được sử dụng để thanh toán một phần chi phí thực hiện Dự án Nhà máy Thủy điện Hạ Sông Pha 1 và 2. Thời hạn vay là 18 năm kể từ lần rút vốn đầu tiên, trong đó có 2 năm ăn hạn. Lãi suất được xác định bằng lãi suất huy động tiền gửi tiết kiệm kỳ hạn 12 tháng trả lãi cuối kỳ của Ngân hàng Nông nghiệp và Phát triển Nông thôn – Chi nhánh Ninh Thuận tại thời điểm giải ngân và thời điểm điều chỉnh lãi suất theo định kỳ 6 tháng 1 lần (+) cộng phí thỏa thuận là 2,5%/năm. Khoản vay này được đảm bảo bằng tài sản cố định hữu hình với giá trị ghi sổ tại ngày 31 tháng 12 năm 2020 là 443.785.333.977 VND (1/1/2020: 466.799.668.234 VND) (Thuyết minh 10).
+
+18. Quỹ khen thưởng, phúc lợi
+
+Quỹ này được trích lập từ lợi nhuận chưa phân phối theo sự phê duyệt của các cổ đông tại cuộc hợp Đại hội đồng cổ đông thường niên. Quỹ này được sử dụng để chi trả các khoản khen thưởng và phúc lợi cho các nhân viên của Nhóm Công ty theo chính sách khen thưởng và phúc lợi của Nhóm Công ty. Biển động của quỹ khen thưởng, phúc lợi trong năm như sau:
+
+<table><tr><td></td><td>2020VND</td><td>2019VND</td></tr><tr><td>Số dư đầu năm</td><td>6.023.267.874</td><td>4.608.373.211</td></tr><tr><td>Trích lập trong năm (Thuyết minh 19)</td><td>16.325.367.710</td><td>18.101.500.000</td></tr><tr><td>Sử dụng trong năm</td><td>(13.724.999.821)</td><td>(16.686.605.337)</td></tr><tr><td>Số dư cuối năm</td><td>8.623.635.763</td><td>6.023.267.874</td></tr></table>
+
+38
+
+===== PAGE 40 =====
+\( W_{1}^{2} \)  \( ^{1} \)  \( ^{2} \)  \( ^{3} \)  \( ^{4} \)  \( ^{5} \)  \( ^{6} \)  \( ^{7} \)  \( ^{8} \)  \( ^{9} \)  \( ^{10} \)  \( ^{11} \)  \( ^{12} \)  \( ^{13} \)  \( ^{14} \)  \( ^{15} \)  \( ^{16} \)  \( ^{17} \)  \( ^{18} \)  \( ^{19} \)  \( ^{20} \)  \( ^{21} \)  \( ^{22} \)  \( ^{23} \)  \( ^{24} \)  \( ^{25} \)  \( ^{26} \)  \( ^{27} \)  \( ^{28} \)  \( ^{29} \)  \( ^{30} \)  \( ^{31} \)  \( ^{32} \)  \( ^{33} \)  \( ^{34} \)  \( ^{35} \)  \( ^{36} \)  \( ^{37} \)  \( ^{38} \)  \( ^{39} \)  \( ^{40} \)  \( ^{41} \)  \( ^{42} \)  \( ^{43} \)  \( ^{44} \)  \( ^{45} \)  \( ^{46} \)  \( ^{47} \)  \( ^{48} \)  \( ^{49} \)  \( ^{50} \)  \( ^{51} \)  \( ^{52} \)  \( ^{53} \)  \( ^{54} \)  \( ^{55} \)  \( ^{56} \)  \( ^{57} \)  \( ^{58} \)  \( ^{59} \)  \( ^{60} \)  \( ^{61} \)  \( ^{62} \)  \( ^{63} \)  \( ^{64} \)  \( ^{65} \)  \( ^{66} \)  \( ^{67} \)  \( ^{68} \)  \( ^{69} \)  \( ^{70} \)  \( ^{71} \)  \( ^{72} \)  \( ^{73} \)  \( ^{74} \)  \( ^{75} \)  \( ^{76} \)  \( ^{77} \)  \( ^{78} \)  \( ^{79} \)  \( ^{80} \)  \( ^{81} \)  \( ^{82} \)  \( ^{83} \)  \( ^{84} \)  \( ^{85} \)  \( ^{86} \)  \( ^{87} \)  \( ^{88} \)  \( ^{89} \)  \( ^{90} \)  \( ^{91} \)  \( ^{92} \)  \( ^{93} \)  \( ^{94} \)  \( ^{95} \)  \( ^{96} \)  \( ^{97} \)  \( ^{98} \)  \( ^{99} \)   \( ^{*10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64,65,66,67,68,69,70,71,72,73,74,75,76,77,78,79,80,81,82,83,84,85,86,87,88,89,90,91,92,93,94,95,96,97,98,99,100.
+
+Công ty cổ phần Thủy điện Đa Nhìm - Hàm Thuận - Đa Mi
+
+Thuyết minh báo cáo tài chính hợp nhất cho năm kết thúc ngày 31 tháng 12 năm 2020 (tiếp theo)
+
+Mâu B 09 - DN/HN
+
+(Ban hành theo Thông tư số 202/2014/TT-BTC
+
+ngày 22 tháng 12 năm 2014 của Bộ Tài chính)
+
+19. Thay đổi vốn chủ sở hữu
+
+<table><tr><td></td><td>Vốn cổ phần VND</td><td>Vốn khác VND</td><td>Chênh lệch tỷ giá hối đoái VND</td><td>Quỹ đầu tư phát triển VND</td><td>Lợi nhuận sau thuế chưa phân phối VND</td><td>Lợi ích cổ đông không kiểm soát VND</td><td>Tổng VND</td></tr><tr><td>Số dư tại ngày 1 tháng 1 năm 2019</td><td>4.224.000.000.000</td><td>128.754.171.541</td><td>(48.049.098.769)</td><td>5.670.476.932</td><td>1.481.250.828.449</td><td>50.771.676.244</td><td>5.842.398.054.397</td></tr><tr><td>Lợi nhuận thuần trong năm</td><td>-</td><td>-</td><td>-</td><td>-</td><td>1.046.287.307.082</td><td>1.228.540.988</td><td>1.047.515.848.070</td></tr><tr><td>Cổ tức (Thuyết minh 22)</td><td>-</td><td>-</td><td>-</td><td>-</td><td>(718.080.000.000)</td><td>(2.368.713.116)</td><td>(720.448.713.116)</td></tr><tr><td>Tạm ứng cổ tức</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>(991.286.884)</td><td>(991.286.884)</td></tr><tr><td>Chuyển nguồn hình thành tài sản cổ định</td><td>-</td><td>274.085.717.563</td><td>-</td><td>(274.113.249.381)</td><td>-</td><td>27.531.818</td><td>-</td></tr><tr><td>Trích lập quỹ đầu tư phát triển</td><td>-</td><td>-</td><td>-</td><td>384.803.510.067</td><td>(384.839.053.933)</td><td>35.543.866</td><td>-</td></tr><tr><td>Trích lập quỹ khen thưởng, phúc lợi (Thuyết minh 19)</td><td>-</td><td>-</td><td>-</td><td>-</td><td>(18.101.500.000)</td><td>-</td><td>(18.101.500.000)</td></tr><tr><td>Chênh lệch tỷ giá hối đoái (Thuyết minh 21)</td><td>-</td><td>-</td><td>39.596.498.429</td><td>-</td><td>-</td><td>-</td><td>39.596.498.429</td></tr><tr><td>Số dư tại ngày 1 tháng 1 năm 2020</td><td>4.224.000.000.000</td><td>402.839.889.104</td><td>(8.452.600.340)</td><td>116.360.737.618</td><td>1.406.517.581.598</td><td>48.703.292.916</td><td>6.189.968.900.896</td></tr><tr><td>Lợi nhuận thuần trong năm</td><td>-</td><td>-</td><td>-</td><td>-</td><td>658.596.008.148</td><td>1.746.930.950</td><td>660.342.939.098</td></tr><tr><td>Cổ tức (Thuyết minh 22)</td><td>-</td><td>-</td><td>-</td><td>-</td><td>(1.013.760.000.000)</td><td>-</td><td>(1.013.760.000.000)</td></tr><tr><td>Chuyển nguồn hình thành tài sản cổ định</td><td>-</td><td>46.466.631.354</td><td>-</td><td>(46.592.611.363)</td><td>-</td><td>125.980.009</td><td>-</td></tr><tr><td>Trích lập quỹ đầu tư phát triển</td><td>-</td><td>-</td><td>-</td><td>335.980.009</td><td>(300.000.000)</td><td>(35.980.009)</td><td>-</td></tr><tr><td>Trích lập quỹ khen thưởng, phúc lợi</td><td>-</td><td>-</td><td>-</td><td>-</td><td>(16.225.905.722)</td><td>(99.461.988)</td><td>(16.325.367.710)</td></tr><tr><td>Chênh lệch tỷ giá hối đoái (Thuyết minh 21)</td><td>-</td><td>-</td><td>(20.180.615.729)</td><td>-</td><td>-</td><td>-</td><td>(20.180.615.729)</td></tr><tr><td>Số dư tại ngày 31 tháng 12 năm 2020</td><td>4.224.000.000.000</td><td>449.306.520.458</td><td>(28.633.216.069)</td><td>70.104.106.264</td><td>1.034.827.684.024</td><td>50.440.761.878</td><td>5.800.045.856.555</td></tr></table>
+
+\( x^{2}+y^{2}=r^{2} \)
+
+39
+
+===== PAGE 41 =====
+Công ty cổ phần Thủy điện Đa Nhim - Hàm Thuận - Đa Mi
+Thuyết minh báo cáo tài chính hợp nhất cho năm kết thúc ngày 31 tháng 12 năm 2020 (tiếp theo)
+
+Mẫu B 09 - DN/HN
+
+(Ban hành theo Thông tư số 202/2014/TT-BTC
+
+ngày 22 tháng 12 năm 2014 của Bộ Tài chính)
+
+20. Vốn cổ phần
+
+Vốn cổ phần được duyệt và đã phát hành của Công ty là :
+
+<table><tr><td rowspan="2"></td><td colspan="2">31/12/2020</td><td colspan="2">1/1/2020</td></tr><tr><td>Số cổ phiếu</td><td>VND</td><td>Số cổ phiếu</td><td>VND</td></tr><tr><td>Vốn cổ phần được duyệt</td><td>422.400.000</td><td>4.224.000.000.000</td><td>422.400.000</td><td>4.224.000.000.000</td></tr><tr><td>Vốn cổ phần đã phát hànhCổ phiếu phổ thông</td><td>422.400.000</td><td>4.224.000.000.000</td><td>422.400.000</td><td>4.224.000.000.000</td></tr><tr><td>Số cổ phiếu đang lưu hànhCổ phiếu phổ thông</td><td>422.400.000</td><td>4.224.000.000.000</td><td>422.400.000</td><td>4.224.000.000.000</td></tr></table>
+
+Cổ phiếu phổ thông có mệnh giá là 10.000 VND. Mỗi cổ phiếu phổ thông tương ứng với một phiếu biểu quyết tại các cuộc hợp cổ đông của Công ty. Các cổ đông được nhận cổ tức mà Công ty công bố vào từng thời điểm. Tất cả cổ phiếu phổ thông đều có thứ tự ưu tiên như nhau đối với tài sản còn lại của Công ty. Các quyền lợi của các cổ phiếu đã được Công ty mua lại đều bị tạm ngưng cho tới khi chúng được phát hành lại.
+
+Không có biến động vốn cổ phần trong các kỳ sâu tháng kết thúc ngày 31 tháng 12 năm 2020 và ngày 31 tháng 12 năm 2019.
+
+Cơ cấu cổ đông của Công ty tại ngày 31 tháng 12 năm 2020 và ngày 1 tháng 1 năm 2020 như sau:
+
+<table><tr><td></td><td>Số cổ phiếu</td><td>Vốn cổ phần VND</td><td>Tỷ lệ</td></tr><tr><td colspan="4">Tổng Công ty Phát điện 1 – Công ty TNHH</td></tr><tr><td>Một Thành viên</td><td>422.103.100</td><td>4.221.031.000.000</td><td>99,93%</td></tr><tr><td>Các cổ đông khác</td><td>296.900</td><td>2.969.000.000</td><td>0,07%</td></tr><tr><td></td><td>422.400.000</td><td>4.224.000.000.000</td><td>100%</td></tr></table>
+
+Công ty mẹ, Tổng Công ty Phát điện 1 – Công ty TNHH Một Thành viên, được thành lập tại Việt Nam.
+
+40
+
+* M.S.
+
+===== PAGE 42 =====
+Công ty cổ phần Thủy điện Đa Nhim - Hàm Thuận - Đa Mi
+
+Thuyết minh báo cáo tài chính hợp nhất cho năm kết thúc ngày 31 tháng 12 năm 2020 (tiếp theo)
+
+Mâu B 09 - DN/HN
+
+(Ban hành theo Thông tư số 202/2014/TT-BTC
+
+ngày 22 tháng 12 năm 2014 của Bộ Tài chính)
+
+21. Chênh lệch tỷ giá hối đoái
+
+Khoản mục này phân ánh khoản lãi/(lỗ) chênh lệch tỷ giá phát sinh trong giai đoạn liên quan đến xây dựng cơ bản của Dự án mở rộng Nhà máy Đa Nhim. Khoản chênh lệch tỷ giá hồi đoái này sẽ được phân bổ dân vào báo cáo kết quả kinh doanh trong thời gian không quá 5 năm kể từ khi dự án này đi vào hoạt động thương mại theo hướng dẫn tại Nghị định 10 (Thuyết minh 3(b)(ii)).
+
+Biến động của chênh lệch tỷ giá hối đoái trong năm như sau:
+
+<table><tr><td></td><td>2020VND</td><td>2019VND</td></tr><tr><td>Số dư đầu năm</td><td>8.452.600.340</td><td>48.049.098.769</td></tr><tr><td>Phát sinh trong năm</td><td>20.180.615.729</td><td>-</td></tr><tr><td>Phân bổ vào báo cáo kết quả hoạt động kinh doanh trong năm</td><td>-</td><td>(39.596.498.429)</td></tr><tr><td>Số dư cuối năm</td><td>28.633.216.069</td><td>8.452.600.340</td></tr></table>
+
+22. Cổ tức
+
+Tại cuộc họp Đại hội đồng cổ đông thường niên ngày 22 tháng 5 năm 2020, các cổ đông của Công ty đã quyết định phân phối khoản cổ tức 1.013.760 triệu VND, tương đương 2.400VND/cổ phiếu, từ lợi nhuận sau thuế chưa phân phối của năm 2019 (2019: phân phối khoản cổ tức 929.280 triệu VND, tương đương 2.200 VND/cổ phiếu từ lợi nhuận sau thuế chưa phân phối của năm 2018, trong đó khoản cổ tức 211.200 triệu VND đã được tạm ứng cho các cổ đông trong năm 2018).
+
+23. Các khoản mục ngoài bảng cân đối kế toán
+
+(a) Ngoại tệ các loại
+
+<table><tr><td rowspan="2"></td><td colspan="2">31/12/2020</td><td colspan="2">1/1/2020</td></tr><tr><td>Nguyên tệ</td><td>Tương đương VND</td><td>Nguyên tệ</td><td>Tương đương VND</td></tr><tr><td>USD</td><td>26.298</td><td>603.870.671</td><td>24.439</td><td>567.607.276</td></tr></table>
+
+41
+
+===== PAGE 43 =====
+Công ty cổ phần Thủy điện Đa Nhím - Hàm Thuận - Đa Mi
+Thuyết minh báo cáo tài chính hợp nhất cho năm kết thúc ngày 31 tháng 12 năm 2020 (tiếp theo)
+
+Mẫu B 09 - DN/HN
+
+(Ban hành theo Thông tư số 202/2014/TT-BTC
+
+ngày 22 tháng 12 năm 2014 của Bộ Tài chính)
+
+(b) Cam kết chi tiêu vốn
+
+<table><tr><td></td><td>31/12/2020VND</td><td>1/1/2020VND</td></tr><tr><td>Đã được duyệt nhưng chưa ký kết hợp đồng</td><td>381.853.458.139</td><td>391.707.329.670</td></tr><tr><td>Đã được duyệt và đã ký kết hợp đồng</td><td>243.230.518.090</td><td>494.161.528.915</td></tr><tr><td></td><td>625.083.976.229</td><td>885.868.858.585</td></tr></table>
+
+24. Doanh thu bán hàng và cung cấp dịch vụ
+
+Tổng doanh thu thể hiện tổng giá trị hàng bán và dịch vụ đã cung cấp, không bao gồm thuế giá trị gia tăng.
+
+<table><tr><td></td><td>2020VND</td><td>2019VND</td></tr><tr><td colspan="3">Tổng doanh thu</td></tr><tr><td>▪ Bán điện</td><td>1.675.264.714.647</td><td>2.177.105.770.500</td></tr><tr><td>▪ Cung cấp dịch vụ</td><td>10.845.978.493</td><td>18.136.625.844</td></tr><tr><td></td><td>1.686.110.693.140</td><td>2.195.242.396.344</td></tr></table>
+
+25. Giá vốn hàng bán và dịch vụ cung cấp
+
+<table><tr><td></td><td>2020VND</td><td>2019VND</td></tr><tr><td colspan="3">Tổng giá vốn</td></tr><tr><td>▪ Diện đã bán</td><td>833.617.518.657</td><td>830.000.081.860</td></tr><tr><td>▪ Dịch vụ đã cung cấp</td><td>8.196.669.067</td><td>13.171.639.753</td></tr><tr><td></td><td>841.814.187.724</td><td>843.171.721.613</td></tr></table>
+
+42
+
+===== PAGE 44 =====
+Công ty cổ phần Thủy điện Đa Nhim - Hàm Thuận - Đa Mi
+
+Thuyết minh báo cáo tài chính hợp nhất cho năm kết thúc ngày 31 tháng 12 năm 2020 (tiếp theo)
+
+Mâu B 09 - DN/HN
+
+(Ban hành theo Thông tư số 202/2014/TT-BTC
+
+ngày 22 tháng 12 năm 2014 của Bộ Tài chính)
+
+26. Doanh thu hoạt động tài chính
+
+<table><tr><td></td><td>2020VND</td><td>2019VND</td></tr><tr><td>Thu nhập lãi tiền gửi, cho vay và trái phiếu</td><td>120.699.160.418</td><td>106.365.848.409</td></tr><tr><td>Thu nhập cổ tức</td><td>3.219.069.000</td><td>8.988.603.500</td></tr><tr><td>Lãi chênh lệch tỷ giá đã thực hiện</td><td>9.053.123.960</td><td>16.284.093.200</td></tr><tr><td></td><td>132.971.353.378</td><td>131.638.545.109</td></tr></table>
+
+27. Chi phí tài chính
+
+<table><tr><td></td><td>2020VND</td><td>2019VND</td></tr><tr><td>Chi phí lãi vay</td><td>79.749.834.629</td><td>55.082.600.412</td></tr><tr><td>Phân bổ lỗ chênh lệch tỷ giá hối đoái giai đoạn xây dựng cơ bản các công trình điện (Thuyết minh 21)</td><td>-</td><td>39.596.498.429</td></tr><tr><td>Lỗ chênh lệch tỷ giá thanh toán</td><td>323.377.493</td><td>24.518.179.291</td></tr><tr><td>Lỗ chênh lệch tỷ giá do đánh giá lại</td><td>37.013.353.824</td><td>30.708.505.457</td></tr><tr><td></td><td>117.086.565.946</td><td>149.905.783.589</td></tr></table>
+
+28. Chi phí quản lý doanh nghiệp
+
+<table><tr><td></td><td>2020VND</td><td>2019VND</td></tr><tr><td>Chi phí nhân viên</td><td>32.440.805.047</td><td>34.551.540.329</td></tr><tr><td>Chi phí khấu hao tài sản cố định</td><td>1.174.806.013</td><td>1.291.593.635</td></tr><tr><td>Thuế, phí và lệ phí</td><td>1.464.230.277</td><td>1.488.650.119</td></tr><tr><td>Chi phí nguyên liệu, vật liệu</td><td>688.836.581</td><td>817.380.599</td></tr><tr><td>Chi phí công cụ, dụng cụ, đồ dùng</td><td>734.568.105</td><td>457.015.740</td></tr><tr><td>Hoàn nhập dự phòng phải thu khó đòi</td><td>-</td><td>(46.750.000)</td></tr><tr><td>Chi phí dịch vụ mua ngoài</td><td>12.343.989.342</td><td>12.684.417.368</td></tr><tr><td>Chi phí quản lý doanh nghiệp khác</td><td>7.660.082.648</td><td>8.527.906.027</td></tr><tr><td></td><td>56.507.318.013</td><td>59.771.753.817</td></tr></table>
+
+43
+
+===== PAGE 45 =====
+Công ty cổ phần Thủy điện Đa Nhim - Hàm Thuận - Đa Mi
+
+Thuyết minh báo cáo tài chính hợp nhất cho năm kết thúc ngày 31 tháng 12 năm 2020 (tiếp theo)
+
+Mẫu B 09 - DN/HN
+
+(Ban hành theo Thông tư số 202/2014/TT-BTC
+
+ngày 22 tháng 12 năm 2014 của Bộ Tài chính)
+
+29. Chi phí sân xuất và kinh doanh theo yếu tố
+
+<table><tr><td></td><td>2020VND</td><td>2019VND</td></tr><tr><td>Chi phí nguyên vật liệu trong chi phí sản xuất</td><td>19.468.388.450</td><td>42.734.566.705</td></tr><tr><td>Chi phí nhân công và nhân viên</td><td>94.887.981.697</td><td>103.617.290.784</td></tr><tr><td>Chi phí công cụ, dụng cụ, đồ dùng</td><td>1.423.404.686</td><td>410.477.361</td></tr><tr><td>Chi phí khấu hao và phân bổ</td><td>351.463.819.308</td><td>316.828.108.415</td></tr><tr><td>Thuế, phí và lệ phí khác</td><td>354.699.463.493</td><td>365.453.981.487</td></tr><tr><td>Hoàn nhập dự phòng phải thu khó đòi</td><td>-</td><td>(46.750.000)</td></tr><tr><td>Chi phí dịch vụ mua ngoài</td><td>37.735.361.599</td><td>26.913.945.164</td></tr><tr><td>Chi phí khác</td><td>38.643.086.504</td><td>47.031.855.514</td></tr></table>
+
+30. Thuế thu nhập doanh nghiệp
+
+(a) Ghi nhận trong báo cáo kết quả hoạt động kinh doanh hợp nhất
+
+<table><tr><td></td><td>2020VND</td><td>2019VND</td></tr><tr><td colspan="3">Chi phí thuế TNDN hiện hành</td></tr><tr><td>Năm hiện hành</td><td>135.449.297.376</td><td>227.317.526.357</td></tr><tr><td></td><td>135.449.297.376</td><td>227.317.526.357</td></tr><tr><td colspan="3">Chi phí thuế TNDN hoãn lại</td></tr><tr><td>Phát sinh và hoàn nhập các khoản chênh lệch tạm thời</td><td>359.400.992</td><td>-</td></tr><tr><td></td><td>135.808.698.368</td><td>227.317.526.357</td></tr></table>
+
+44
+
+1
+
+===== PAGE 46 =====
+Công ty cổ phần Thủy điện Đa Nhim - Hàm Thuận - Đa Mi
+Thuyết minh báo cáo tài chính hợp nhất cho năm kết thúc ngày 31 tháng 12 năm 2020 (tiếp theo)
+
+Mâu B 09 - DN/HN
+
+(Ban hành theo Thông từ số 202/2014/TT-BTC
+
+ngày 22 tháng 12 năm 2014 của Bộ Tài chính)
+
+(b) Đối chiếu thuế suất thực tế
+
+<table><tr><td></td><td>2020VND</td><td>2019VND</td></tr><tr><td>Lợi nhuận kế toán trước thuế</td><td>796.151.637.466</td><td>1.274.833.374.427</td></tr><tr><td>Thuế tính theo thuế suất của Công ty</td><td>159.230.327.493</td><td>254.966.674.885</td></tr><tr><td>Ảnh hưởng của các mức thuế suất khác áp dụng cho công ty con</td><td>(597.095.696)</td><td>-</td></tr><tr><td>Ảnh hưởng thuế của phần thu nhập không bị tính thuế</td><td>821.136.109</td><td>(3.150.538.189)</td></tr><tr><td>Chi phí không được khấu trừ thuế</td><td>773.140.772</td><td>1.413.628.826</td></tr><tr><td>U&#x27;u đãi thuế</td><td>(24.418.810.310)</td><td>(25.912.239.165)</td></tr><tr><td></td><td>135.808.698.368</td><td>227.317.526.357</td></tr></table>
+
+(c) Thuế thu nhập hoãn lại phải trả
+
+<table><tr><td></td><td>Thuế suất</td><td>31/12/2020VND</td><td>31/12/2020VND</td></tr><tr><td>Dự phòng đầu tư vào công ty liên kết</td><td>20%</td><td>359.400.992</td><td>-</td></tr></table>
+
+(d) Thuế suất áp dụng
+
+(i) Công ty Cổ phần Thủy điện Đa Nhim - Hàm Thuận - Đa Mi
+
+Theo các điều khoản trong Luật thuế thu nhập doanh nghiệp hiện hành, Công ty có nghĩa vụ nộp cho Nhà nước thuế thu nhập doanh nghiệp bằng 20% trên lợi nhuận chịu thuế.
+
+Dự án Nhà máy Thủy điện Đa Nhim mở rộng và Dự án Điện mặt trời Đa Mi được miễn thuế thu nhập doanh nghiệp 4 năm kể từ năm đầu tiên dự án có thu nhập chịu thuế (từ năm 2019 đến năm 2022) và giảm 50% số thuế thu nhập doanh nghiệp phải nộp trong 9 năm tiếp theo (từ năm 2023 đến năm 2031).
+
+Tất cả các miễn giảm thuế nếu trên sẽ không áp dụng với các khoản thu nhập khác, các khoản thu nhập khác này sẽ chịu thuế suất thuế thu nhập thông thường là 20%.
+
+45
+
+M.S.C.N.
+
+===== PAGE 47 =====
+Công ty cổ phần Thủy điện Đa Nhim - Hàm Thuận - Đa Mi
+
+Thuyết minh báo cáo tài chính hợp nhất cho năm kết thúc ngày 31 tháng 12 năm 2020 (tiếp theo)
+
+Mâu B 09 - DN/HN
+
+(Ban hành theo Thông tư số 202/2014/TT-BTC
+
+ngày 22 tháng 12 năm 2014 của Bộ Tài chính)
+
+(ii) Công ty Cổ phần Thủy điện Hạ Sông Pha
+
+Theo các điều khoản trong luật thuế thu nhập doanh nghiệp hiện hành, Công ty có nghĩa vụ nộp cho Nhà nước thuế thu nhập bằng 20% trên lợi nhuận chịu thuế. Các quy định hiện hành về thuế cho phép Công ty được miễn thuế thu nhập doanh nghiệp trong 4 năm kể từ năm đầu tiên có lợi nhuận chịu thuế từ dự án đầu tư mở rộng (từ năm 2015 đến năm 2018) và giảm 50% thuế thu nhập doanh nghiệp trong 9 năm tiếp theo (từ năm 2019 đến năm 2027).
+
+Tất cả các miễn giảm thuế trên sẽ không áp dụng với các khoản thu nhập khác, các khoản thu nhập khác này sẽ chịu mức thuế suất thuế thu nhập thông thường là 20%.
+
+31. Lãi cơ bản trên cổ phiếu
+
+Việc tính toán lãi cơ bản trên cổ phiếu được dựa trên lợi nhuận thuộc về cổ đông phổ thông và số lượng cổ phiếu phổ thông bình quân gia quyền trong năm, chi tiết như sau:
+
+(a) Lợi nhuận thuần thuộc về cổ đông phổ thông
+
+<table><tr><td></td><td>2020VND</td><td>2019VND</td></tr><tr><td>Lợi nhuận thuần sau thuế trong năm</td><td>6.016.666.052</td><td>1.818.755.840</td></tr><tr><td>Số phân bổ vào quỹ khen thưởng, phúc lợi</td><td>-</td><td>-</td></tr><tr><td></td><td>6.016.666.052</td><td>1.818.755.840</td></tr></table>
+
+(b) Số cổ phiếu phổ thông bình quân gia quyền
+
+<table><tr><td></td><td>2020Cổ phiếu</td><td>2019Cổ phiếu</td></tr><tr><td>Cổ phiếu phổ thông đã phát hành năm trước mang sang</td><td>4.140.000</td><td>10.000</td></tr><tr><td>Ảnh hưởng của số cổ phiếu phổ thông phát hành trong năm</td><td>2.362.600</td><td>4.130.000</td></tr><tr><td>Số lượng bình quân gia quyền của cổ phiếu phổ thông cho năm kết thúc ngày 31 tháng 12</td><td>5.641.707</td><td>2.515.156</td></tr></table>
+
+Tại ngày 31 tháng 12 năm 2020 và 1 tháng 1 năm 2020, Công ty không có cổ phiếu có tác động suy giảm tiểm ẩn.
+
+46
+
+===== PAGE 48 =====
+Công ty cổ phần Thủy điện Đa Nhim - Hàm Thuận - Đa Mi
+
+Thuyết minh báo cáo tài chính hợp nhất cho năm kết thúc ngày 31 tháng 12 năm 2020 (tiếp theo)
+
+Mẫu B 09 - DN/HN
+
+(Ban hành theo Thông tư số 202/2014/TT-BTC
+
+ngày 22 tháng 12 năm 2014 của Bộ Tài chính)
+
+32. Các giao dịch chủ yếu với các bên liên quan
+
+Ngoài các số dư với bên liên quan được trình bày tại các thuyết minh khác của báo cáo tài chính hợp nhất, trong năm Nhóm Công ty có các giao dịch sau với các bên liên quan:
+
+<table><tr><td rowspan="2"></td><td colspan="2">Giá trị giao dịch cho năm</td></tr><tr><td>2020VND</td><td>2019VND</td></tr><tr><td colspan="3">Công ty mẹ cấp cao nhất</td></tr><tr><td colspan="3">Tập đoàn Điện lực Việt Nam</td></tr><tr><td>Mua điện</td><td>3.500.856.770</td><td>3.151.575.218</td></tr><tr><td>Chi phí lãi vay</td><td>10.543.875.442</td><td>17.984.767.536</td></tr><tr><td>Trà nợ gốc vay</td><td>433.698.824.858</td><td>506.555.119.580</td></tr><tr><td colspan="3">Công ty mẹ</td></tr><tr><td colspan="3">Tổng Công ty Phát điện 1</td></tr><tr><td>Thu nhập lãi cho vay</td><td>71.620.714.107</td><td>72.182.827.268</td></tr><tr><td>Chi hộ</td><td>222.432.861</td><td>149.897.000</td></tr><tr><td>Chia cổ tức</td><td>1.013.047.440.000</td><td>717.575.270.000</td></tr><tr><td>Cho vay</td><td>500.000.000.000</td><td>-</td></tr><tr><td colspan="3">Các bên liên quan khác</td></tr><tr><td colspan="3">Công ty Mua Bán Điện – Tập đoàn Điện lực Việt Nam</td></tr><tr><td>Bán điện</td><td>1.606.097.833.456</td><td>2.108.835.010.810</td></tr><tr><td colspan="3">Tổng Công ty điện lực Miền Nam</td></tr><tr><td>Bán điện</td><td>69.166.881.191</td><td>68.270.759.690</td></tr><tr><td colspan="3">Công ty Cổ phần Thủy điện A Vương</td></tr><tr><td>Cổ tức được chia</td><td>2.579.069.000</td><td>3.868.603.500</td></tr><tr><td colspan="3">Công ty Cổ phần Thủy điện Sông Ba Hạ</td></tr><tr><td>Cổ tức được chia</td><td>640.000.000</td><td>5.120.000.000</td></tr><tr><td colspan="3">Công ty Cổ phần Tư vấn Xây dựng Điện 1</td></tr><tr><td>Mua dịch vụ</td><td>226.316.429</td><td>-</td></tr><tr><td colspan="3">Công ty Cổ phần Tư vấn Xây dựng Điện 2</td></tr><tr><td>Mua dịch vụ</td><td>2.545.534.865</td><td>10.669.437.578</td></tr><tr><td colspan="3">Công ty Cổ phần Tư vấn Xây dựng Điện 3</td></tr><tr><td>Cung cấp dịch vụ</td><td>270.767.526</td><td>1.462.159.689</td></tr><tr><td>Mua dịch vụ</td><td>5.484.457.991</td><td>9.318.304.769</td></tr><tr><td colspan="3">Công ty Cổ phần Xây lắp Điện 1</td></tr><tr><td>Mua dịch vụ</td><td>4.960.786.136</td><td>-</td></tr></table>
+
+47
+
+===== PAGE 49 =====
+Công ty cổ phần Thủy điện Đa Nhim - Hàm Thuận - Đa Mi
+
+Thuyết minh báo cáo tài chính hợp nhất cho năm kết thúc ngày 31 tháng 12 năm 2020 (tiếp theo)
+
+Mâu B 09 - DN/HN
+
+(Ban hành theo Thông tư số 202/2014/TT-BTC)
+
+ngày 22 tháng 12 năm 2014 của Bộ Tài chính)
+
+<table><tr><td rowspan="2"></td><td colspan="2">Giá trị giao dịch cho năm</td></tr><tr><td>2020</td><td>2019</td></tr><tr><td>Công ty Cổ phần Tư vấn Xây dựng Điện 4Mua dịch vụ</td><td>-</td><td>198.969.091</td></tr><tr><td>Chi nhánh Tổng Công ty Phát điện 1 – Công ty Thủy điện Đại NinhCung cấp dịch vụ</td><td>9.350.000</td><td>-</td></tr><tr><td>Trung tâm Viễn thông và Công nghệ Thông tinMua dịch vụ</td><td>819.763.992</td><td></td></tr><tr><td>Công ty Thí nghiệm Điện Miền NamMua dịch vụ</td><td>-</td><td>245.656.952</td></tr><tr><td>Chi nhánh Công ty Cổ phần Thủy điện miền Nam tại Lâm ĐồngCung cấp dịch vụ</td><td>-</td><td>53.590.000</td></tr><tr><td>Trung tâm Thông tin Điện lực - Tập đoàn Điện lực Việt NamMua dịch vụ</td><td>-</td><td>299.569.510</td></tr><tr><td>Ban Quản lý Dự án Điện 1 - Chi nhánh Tập đoàn Điện lực Việt NamMua dịch vụ</td><td>852.820.210</td><td>-</td></tr><tr><td>Nhân sự quản lý chủ chốt của Nhóm Công ty Tổng Giám đốcTiền lương và thường</td><td>722.475.706</td><td>705.684.600</td></tr><tr><td>Thành viên khác trong Ban Tổng Giám đốcTiền lương và thường</td><td>1.177.021.255</td><td>1.138.187.800</td></tr><tr><td>Thành viên Hội đồng Quản trị và Ban Kiểm soátThù lao</td><td>1.244.904.200</td><td>897.421.600</td></tr></table>
+
+48
+
+===== PAGE 50 =====
+Công ty cổ phần Thủy điện Đa Nhim - Hàm Thuận - Đa Mi
+
+Thuyết minh báo cáo tài chính hợp nhất cho năm kết thúc ngày 31 tháng 12 năm 2020 (tiếp theo)
+
+Mẫu B 09 - DN/HN
+
+(Ban hành theo Thông tư số 202/2014/TT-BTC
+
+ngày 22 tháng 12 năm 2014 của Bộ Tài chính)
+
+33. Các giao dịch phi tiền tệ từ các hoạt động đầu tư và tài chính
+
+<table><tr><td></td><td>2020VND</td><td>2019VND</td></tr><tr><td>Mua tài sản cố định và xây dựng cơ bản dở dang chưa thanh toán</td><td>54.757.915.563</td><td>73.251.099.873</td></tr><tr><td>Thanh toán nợ gốc vay bằng cách cần trừ với khoản phải thu khách hàng</td><td>433.698.824.858</td><td>524.539.887.116</td></tr><tr><td>Chi trả cố tức bằng cách cần trừ với cho vay</td><td>500.000.000.000</td><td>-</td></tr><tr><td>Chi trả cố tức bằng cách cần trừ với lãi khoản cho vay phải thu</td><td>42.714.014.219</td><td>72.182.827.268</td></tr><tr><td>Lãi tiền gửi có kỳ hạn vốn hóa vào nợ gốc</td><td>7.077.397.218</td><td>28.531.416.284</td></tr><tr><td>Thanh toán lãi vay bằng cách cần trừ với khoản phải thu khách hàng</td><td>10.543.875.442</td><td>-</td></tr><tr><td>Chi phí lãi vay nhập nợ gốc vay</td><td>9.074.526.915</td><td>-</td></tr><tr><td>Chuyển từ hàng tồn kho sang tài sản cố định</td><td>7.851.708.069</td><td>-</td></tr><tr><td>Chuyển từ tài sản cố định sang hàng tồn kho</td><td>-</td><td>3.912.000</td></tr><tr><td>Chuyển xây dựng cơ bản dở dang sang chi phí trả trước dài hạn</td><td>381.997.000</td><td>-</td></tr></table>
+
+34. Thông tin so sánh
+
+Thông tin so sánh tại ngày 1 tháng 1 năm 2020 được mang sang từ số liệu trình bày trong báo cáo tài chính hợp nhất của Nhóm Công ty tại ngày và cho năm kết thúc ngày 31 tháng 12 năm 2019.
+
+Ngày 26 tháng 2 năm 2021
+
+49
+
+* 田

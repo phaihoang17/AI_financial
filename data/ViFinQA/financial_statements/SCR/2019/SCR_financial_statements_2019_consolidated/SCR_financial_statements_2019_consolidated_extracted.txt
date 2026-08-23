@@ -1,0 +1,1918 @@
+===== PAGE 1 =====
+Digitally signed by CÔNG TY CÔ
+
+CÔNG TY CỔ
+PHẦN ĐỊA
+ỐC SÀI GÒN
+THƯƠNG
+TÍN
+
+PHÂN ĐỊA ÔC SÀI GÔN THƯƠNG
+
+TIN
+
+DN: C=VN, S=Hô Chí Minh,
+
+L=Quân Tân Bình, CN=CONG TY
+
+CỔ PHẦN ĐỊA ỐC SẢI GỒN
+
+THU'ONG TIN,
+
+OID.0.9.2342.19200300.100.1.1=M
+
+ST:0303315400
+
+Reason: I am the author of this
+
+document
+
+Location: Công ty CP Địa ốc Sài
+
+Gòn Thương Tín
+
+Date: 2020-03-30 18:07:33
+
+Foxit Reader Version: 9.3.0
+
+Công ty Cổ phần Địa ốc Sài Gòn Thương Tín
+
+Báo cáo tài chính hợp nhất
+
+Cho năm tài chính kết thúc ngày 31 tháng 12 năm 2019
+
+===== PAGE 2 =====
+Công ty Cổ phần Địa ốc Sài Gòn Thương Tín
+
+MỤC LỤC
+
+<table><tr><td></td><td>Trang</td></tr><tr><td>Thông tin chung</td><td>1 - 2</td></tr><tr><td>Bảo cáo của Hội đồng quản trị</td><td>3</td></tr><tr><td>Bảo cáo kiểm toán độc lập</td><td>4 - 5</td></tr><tr><td>Bảng cân đối kế toán hợp nhất</td><td>6 - 8</td></tr><tr><td>Bảo cáo kết quả hoạt động kinh doanh hợp nhất</td><td>9 - 10</td></tr><tr><td>Bảo cáo lưu chuyển tiền tệ hợp nhất</td><td>11 - 12</td></tr><tr><td>Thuyết minh bảo cáo tài chính hợp nhất</td><td>13 - 71</td></tr></table>
+
+===== PAGE 3 =====
+Công ty Cổ phần Địa ốc Sài Gòn Thương Tín
+
+THÔNG TIN CHUNG
+
+CÔNG TY
+
+Công ty Cổ phần Địa Địa Đớc Sài Gòn Thương Tín ("Công ty") là một công ty cổ phần được thành lập theo Luật Doanh nghiệp của Việt Nam theo Giấy Chứng nhận Đăng ký Kinh doanh số 4103002210 do Sở Kế hoạch và Đầu tư Thành phố Hồ Chí Minh cấp ngày 29 tháng 3 năm 2004, và các Giấy Chứng nhận Đăng ký Doanh nghiệp điều chỉnh sau đó.
+
+Cổ phiếu của Công ty được niêm yết tại Sở Giao dịch Chứng khoán Thành phố Hồ Chí Minh ("SGDCK HCM") với mã SCR theo Quyết định số 468/QĐ-SGDHCM do SGDCK HCM cấp ngày 18 tháng 11 năm 2016.
+
+Hoạt động chính theo đăng ký trong năm hiện tai của Công ty và các công ty con ("Tập đoàn") là kinh doanh bất động sản, quyền sử dụng đất thuộc chủ sở hữu, đất thuê; kinh doanh nhà; đầu tư xây dựng kinh doanh kết cấu hạ tầng khu công nghiệp, khu dạn cư, cho thuê kho baii, nhà xưởng, văn phòng; hoạt động hỗ trợ dịch vụ tài chính; tư vấn, môi giới, đấu giá bất động sản, đấu giá quyền sử dụng đất, xây dựng công trình kỹ thuật dân dụng khác, hoạt động tư vấn quản lý, nghiên cứu thị trường và thảm đỏ dư luận; tổ chức giới thiệu và xúc tiến thương mai sản xuất vật liệu xây dựng từ đất sét; đại lý môi giới, đấu giá, cung cấp dịch vụ tư vấn kiến trúc và kỹ thuật có liên quan; hoạt động thiết kế chuyên dụng.
+
+Công ty có trụ sở chính tại số 253 Hoàng Văn Thu, Phường 2, Quận Tân Bình, Thành phố Hồ Chí Minh, Việt Nam.
+
+HỘI ĐỒNG QUẢN TRỊ
+
+Các thành viên Hội đồng Quản trị trong năm và vào ngày lập bảo cáo này như sau:
+
+<table><tr><td>Ông Nguyễn Đăng ThanhÔng Phạm Điền TrungÔng Bùi Tiến ThắngBà Huỳnh Bích Ngọc</td><td>Chủ tịchChủ tịchPhó chủ tịchPhó chủ tịch</td><td>bổ nhiệm ngày 23 tháng 4 năm 2019từ nhiệm ngày 23 tháng 4 năm 2019bổ nhiệm ngày 3 tháng 5 năm 2019kết thúc nhiệm kỳ vào ngày 23 tháng 4 năm 2019</td></tr><tr><td>Ông Lâm Minh ChâuBà Trần Yên DuyênBà Trần Thiên Thanh ThủyÔng Tạ Chí Cường</td><td>Thành viênThành viênThành viênThành viên</td><td>bổ nhiệm ngày 23 tháng 4 năm 2019từ nhiệm ngày 23 tháng 4 năm 2019</td></tr></table>
+
+BAN KIÊM TOÁN NỘI BỘ TRỰC THUỘC HỘI ĐỒNG QUẢN TRỊ
+
+Các thành viên Ban Kiểm toán nội bộ trực thuộc Hội đồng Quản trị trong năm và vào ngày lập báo cáo này như sau:
+
+<table><tr><td>Ông Lâm Minh Châu</td><td>Trường Ban</td><td>bổ nhiệm ngày 24 tháng 4 năm 2019</td></tr><tr><td>Bà Trần Yến Duyên</td><td>Thành viên</td><td>bổ nhiệm ngày 24 tháng 4 năm 2019</td></tr><tr><td>Bà Trần Thiện Thanh Thủy</td><td>Thành viên</td><td>bổ nhiệm ngày 24 tháng 4 năm 2019</td></tr></table>
+
+1
+
+===== PAGE 4 =====
+Công ty Cổ phần Địa ốc Sài Gòn Thương Tín
+
+THÔNG TIN CHUNG (tiếp theo)
+
+BAN TỔNG GIÁM ĐỐC
+
+Các thành viên Ban Tổng Giám đốc trong năm và vào ngày lập báo cáo này như sau:
+
+<table><tr><td>Ông Vũ Quốc TháiÔng Nguyễn Đăng Thanh</td><td>Tổng Giám đốcTổng Giám đốc</td><td>bổ nhiệm ngày 1 tháng 11 năm 2019bổ nhiệm ngày 3 tháng 5 năm 2019từ nhiệm ngày 1 tháng 11 năm 2019</td></tr><tr><td>Ông Bùi Tiến ThắngÔng Lê Trần Hồng PhúcBà Phạm Thị KhuếBà Nguyễn Thị Hằng Nga</td><td>Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốc</td><td>từ nhiệm ngày 3 tháng 5 năm 2019bổ nhiệm ngày 9 tháng 12 năm 2019bổ nhiệm ngày 26 tháng 1 năm 2020bổ nhiệm ngày 3 tháng 5 năm 2019từ nhiệm ngày 26 tháng 1 năm 2020</td></tr><tr><td>Ông Phạm Trung Phan Xuân QuangÔng Hồ Hữu NhânBà Nguyễn Thị Mai ThảoÔng Nguyễn Quốc Vinh</td><td>Phó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốc</td><td>từ nhiệm ngày 22 tháng 8 năm 2019từ nhiệm ngày 3 tháng 5 năm 2019từ nhiệm ngày 3 tháng 6 năm 2019từ nhiệm ngày 28 tháng 6 năm 2019</td></tr></table>
+
+NGƯỜI ĐẠI DIỆN THEO PHÁP LUẬT
+
+Người đại diện theo pháp luật của Công ty trong năm và vào ngày lập báo cáo này là:
+
+Ông Nguyễn Đăng Thanh
+Ông Bùi Tiến Thắng
+
+từ ngày 6 tháng 5 năm 2019
+đến ngày 6 tháng 5 năm 2019
+
+KIÊM TOÁN VIÊN
+
+Công ty Trách nhiệm Hữu hạn Ernst & Young Việt Nam là công ty kiểm toán cho Công ty.
+
+2
+
+===== PAGE 5 =====
+Công ty Cổ phần Địa ốc Sài Gòn Thương Tín
+
+BẢO CẢO CỦA HỘI ĐÔNG QUẢN TRI
+
+Hội đồng quản trị Công ty Cổ phần Địa ốc Sài Gòn Thương Tín ("Công ty") trình bày báo cáo náy và báo cáo tài chính hợp nhất của Công ty và các công ty con ("Tập đoàn") cho năm tài chính kết thúc ngày 31 tháng 12 năm 2019.
+
+TRÁCH NHIỆM CỦA BAN TỔNG GIÁM ĐỐC ĐỐI VỚI BẢO CẢO TÀI CHÍNH HỢP NHẤT
+
+Ban Tổng Giám đốc chịu trách nhiệm đảm bảo báo cáo tài chính hợp nhất cho từng năm tài chính phân ảnh trung thực và hợp lý tỉnh hình tài chính hợp nhất, kết quả hoạt động kinh doanh hợp nhất và tỉnh hình lưu chuyển tiên tế hợp nhất của Tập đoàn trong năm. Trong quả trình lập bảo cáo tài chính hợp nhất này, Ban Tổng Giám đốc cần phải:
+
+lva chọn các chính sách kê toán thích hợp và áp dụng các chính sách này một cách nhất quản;
+
+▶ thực hiện các đánh giá và ước tính một cách hợp lý và thân trọng;
+
+nêu rõ các chuẩn mục kế toán áp dụng cho Tập đoàn có được tuân thủ hay không và tất cả những sai lệch trọng yếu so với những chuẩn mục này đã được trình bày và giải thích trong báo cáo tài chính hợp nhất; và
+
+lập báo cáo tài chính hợp nhất trên cơ sở nguyên tắc hoạt động liên tục trừ trường hợp không thể cho ràng Tập đoàn sẽ tiếp tục hoạt động.
+
+Ban Tổng Giám đốc chịu trách nhiệm đảm bảo việc các số sách kế toán thích hợp được lưu giữ để phản ánh tỉnh hình tài chính hợp nhất của Tập đoàn, với mức độ chính xác hợp lý, tại bất kỳ thời điểm nào và đảm bảo ràng các số sách kế toán tuân thủ với chế độ kế toán đã được áp dụng. Ban Tổng Giám đốc cũng chịu trách nhiệm về việc quản lý các tài sản của Tập đoàn và do đó phải thực hiện các biện pháp thích hợp để ngăn chặn và phát hiện các hành vi gian lăn và những vi phạm khác.
+
+Ban Tổng Giám đốc cam kết ràng Tập đoàn đã tuân thủ những yêu cầu nếu trên trong việc lập báo cáo tài chính hợp nhất kèm theo.
+
+PHÊ DUYỆT BẢO CẢO TÀI CHÍNH HỢP NHẤT
+
+Chủng tối phê duyệt báo cáo tài chính hợp nhất kèm theo. Báo cáo này đã phần ánh trung thực và hợp lý tính hình tài chính hợp nhất của Tập đoàn vào ngày 31 tháng 12 năm 2019, kết quả hoạt động kinh doanh hợp nhất và tính hình lưu chuyển tiền tệ hợp nhất cho năm tài chính kết thúc cùng ngày phù hợp với các Chuẩn mục kể toán Việt Nam, Chế độ ke toán doanh nghiệp Việt Nam và các quy định pháp lý có liên quan đến việc lập và trình bày báo cáo tài chính hợp nhất.
+
+Thành phố Hồ Chí Minh, Việt Nam
+
+Ngày 30 tháng 3 năm 2020
+
+3
+
+===== PAGE 6 =====
+-
+
+EY
+
+Building a better working world
+
+Ernst & Young Vietnam Limited Tel: +84 28 3824 5252
+
+20th Floor, Bitexco Financial Tower Fax: +84 28 3824 5250
+
+2 Hai Trieu Street, District 1
+
+Ho Chi Minh City, S.R. of Vietnam
+
+ev.com
+
+Số tham chiếu: 61466670/21233133/HN
+
+BÁO CÁO KIÊM TOÁN ĐỘC LẬP
+
+Kinh gửi: Quý Có đông của Công ty Cổ phần Địa ốc Sài Gòn Thương Tín
+
+Chủng tối đã kiểm toán bảo cáo tài chính hợp nhất kèm theo của Công ty Cổ phần Địa ốc Sài Gòn Thương Tín ("Công ty") và các công ty con (sau đầy gọi chung là "Tập đoàn") được lập ngày 30 tháng 3 năm 2020, và được trình bày từ trang 6 đến trang 71 bảo gồm bảng cân đối kế toàn hợp nhất vào ngày 31 tháng 12 năm 2019, bảo cáo kết quả hoạt động kinh doanh hợp nhất và bảo cáo lưu chuyển tiền tệ hợp nhất cho năm tài chính kết thúc cùng ngày và các thuyết minh bảo cáo tài chính hợp nhất kèm theo.
+
+Trách nhiệm của Ban Tổng Giám đốc
+
+Ban Tổng Giám đốc Công ty chịu trách nhiệm về việc lập và trình bày trung thực và hợp lý báo cáo tài chính hợp nhất theo các Chuẩn mực kể toán Việt Nam, Chê độ kê toán doanh nghiệp Việt Nam và các quy định pháp lý có liên quan đến việc lập và trình bày báo cáo tài chính hợp nhất và chịu trách nhiệm về kiểm soát nơi bộ mà Ban Tổng Giám đốc xác định là cần thiết để đảm bảo cho việc lập và trình bày báo cáo tài chính hợp nhất không có sai sốt trọng yếu do gian lận hoặc nhằm lấn.
+
+Trách nhiệm của Kiểm toán viên
+
+Trách nhiệm của chúng tôi là đưa ra ý kiến về báo cáo tài chính hợp nhất dưa trên kết quả của cuộc kiểm toán. Chủng tôi đã tiến hành kiểm toán theo các Chuẩn mực kiểm toán Việt Nam. Các chuẩn mục này yêu cầu chúng tôi tuân thủ chuẩn mục và các quy định về đạo đức nghề nghiệp, lập kế hoạch và thực hiện cuộc kiểm toán để đạt được sự đảm bảo hợp lý về việc liệu báo cáo tài chính hợp nhất của Tập đoàn có còn sai sốt trọng yếu hay không.
+
+Công việc kiểm toán bao gồm thực hiện các thủ tục nhằm thu thập các bằng chứng kiểm toán về các số liệu và thuyết minh trên báo cáo tài chính hợp nhất. Các thủ tục kiểm toán được lựa chọn dựa trên xét đoán của kiểm toán viên, bao gồm đánh giá rủi ro có sai sốt trọng yếu trong báo cáo tài chính hợp nhất do gian lập hoặc nhằm lẫn. Khí thực hiện đánh giá các rủi ro này, kiểm toán viên đã xem xét kiểm soát nội bộ của Tập đoàn liên quan đến việc lập và trình bày báo cáo tài chính hợp nhất trung thực, hợp lý nhằm thiết kế các thủ tục kiểm toán phù hợp với tính hình thực tế, tuy nhiên không nhằm mục đích đưa ra ý kiến về hiệu quả của kiểm soát nội bộ của Tập đoàn. Công việc kiểm toán cũng bao gồm đánh giá tính thích hợp của các chính sách kế toán được áp dụng và tính hợp lý của các ước tính kế toán của Ban Tổng Giám đốc cũng như đánh giá việc trình bày tổng thể báo cáo tài chính hợp nhất.
+
+Chủng tối tin tưởng rằng các bằng chứng kiểm toán mà chúng tối đã thu thập được là đầy đủ và thích hợp đề làm cơ sở cho ý kiến kiểm toán của chúng tối.
+
+A signature from of Ernst & Young Global Limited
+
+4
+
+===== PAGE 7 =====
+-
+
+EY
+
+Building a better working world
+
+Ý kiến của Kiểm toán viên
+
+Theo ý kiến của chứng tối, bảo cáo tài chính hợp nhất đã phân ảnh trung thực và hợp lý, trên các khía canh trọng yếu, tỉnh hình tài chính hợp nhất của Tập đoàn vào ngày 31 tháng 12 năm 2019, cũng như kết quả hoạt động kinh doanh hợp nhất và tỉnh hình lưu chuyển tiền tệ hợp nhất cho năm tài chính kết thúc cùng ngày, phù hợp với các Chuẩn mục kế toán Việt Nam, Chế độ kế toán doanh nghiệp Việt Nam và các quy định pháp lý có liên quan đến việc lập và trình bày bảo cáo tài chính hợp nhất.
+
+Vấn đề cần nhân mạnh
+
+Chủng tối xin lưu ý đến Thuyết minh số 38 của báo cáo tài chính hợp nhất. Trong năm 2019, Ban Tổng Giám đốc Công ty đã điều chỉnh hồi tố một vài dữ liệu tương ứng trên báo cáo tài chính hợp nhất của năm trước để phản ánh việc hoàn tất đánh giá giá trị hợp lý tài sản thuần của công ty con tại ngày mua đã được ghi nhận theo giá trị hợp lý tạm thời trong năm 2018, và điều chỉnh hồi tố khoản mục lợi ích cổ đông không kiểm soát để phản ánh hợp lý hơn về giá trị của khoản mục này trên báo cáo tài chính hợp nhất năm 2018.
+
+Bên cạnh đó, Ban Tổng Giám đốc Công ty cũng đã phân loại lại một vài dữ liệu tương ứng trên báo cáo tài chính hợp nhất cho năm 2018 để phân ảnh hợp lý hơn tính hình tài chính hợp nhất của Tập đoàn và phù hợp với cách trình bày của các dữ liệu này trên báo cáo tài chính hợp nhất của nằm nay.
+
+Y kiến kiểm toán của chúng tôi không liên quan đến vấn đề cần nhân mạnh này.
+
+Vấn đề khác
+
+Báo cáo tài chính hợp nhất của Tập đoàn cho năm tài chính kết thúc ngày 31 tháng 12 năm 2018 đã được một doanh nghiệp kiểm toán khác kiểm toán và đưa ra ý kiến chấp nhận toàn phần về báo cáo tài chính hợp nhất đồ vào ngày 28 tháng 3 năm 2019.
+
+Công ty Trách nhiệm Hữu hạn Ernst & Young Việt Nam
+
+Lè Quang Minh
+
+Phó Tóng Glam đốc
+
+Giấy CNDKHN kiểm toán
+
+Số: 0426-2018-004-1
+
+Nguyễn Thủy Trang
+
+Kiểm toán viên
+
+Giấy CNDKHN kiểm toán
+
+Số: 3213-2020-004-1
+
+Thành phố Hồ Chí Minh, Việt Nam
+
+Ngày 30 tháng 3 năm 2020
+
+A member Term of Ernst & Young, 2016 Limited
+
+5
+
+||a|| 0.5 z > 1/2 ||
+
+===== PAGE 8 =====
+Công ty Cổ phần Địa ốc Sài Gòn Thương Tín
+
+B01-DN/HN
+
+BẢNG CẦN ĐỘI KẾ TOẠN HỢP NHẤT
+
+ngày 31 tháng 12 năm 2019
+
+VND
+
+<table><tr><td>Mã số</td><td>TÀI SẢN</td><td>Thuyết minh</td><td>Số cuối năm</td><td>Số đầu năm(Trình bày lại – Thuyết minh số 38)</td></tr><tr><td>100</td><td>A. TÀI SẢN NGĂN HẠN</td><td></td><td>8.973.003.089.584</td><td>8.974.257.277.847</td></tr><tr><td>110</td><td>I. Tiền và các khoản tương đương tiền</td><td>5</td><td>83.538.083.050</td><td>158.244.579.555</td></tr><tr><td>111</td><td>1. Tiền</td><td></td><td>61.210.930.784</td><td>142.047.007.872</td></tr><tr><td>112</td><td>2. Các khoản tương đương tiền</td><td></td><td>22.327.152.266</td><td>16.197.571.683</td></tr><tr><td>120</td><td>II. Đầu tư tài chính ngắn hạn</td><td>6</td><td>100.501.261.233</td><td>182.729.724.638</td></tr><tr><td>123</td><td>1. Đầu tư nằm giữ đến ngày đáo hạn</td><td></td><td>100.501.261.233</td><td>182.729.724.638</td></tr><tr><td>130</td><td>III. Các khoản phải thu ngắn hạn</td><td></td><td>4.608.397.414.474</td><td>4.302.170.098.001</td></tr><tr><td>131</td><td>1. Phải thu ngắn hạn của khách hàng</td><td>7</td><td>555.962.421.158</td><td>516.160.448.620</td></tr><tr><td>132</td><td>2. Trả trước cho người bán ngắn hạn</td><td>8</td><td>1.352.772.211.492</td><td>1.331.556.478.761</td></tr><tr><td>135</td><td>3. Phải thu về cho vay ngắn hạn</td><td>9</td><td>2.089.640.340.332</td><td>2.058.149.244.445</td></tr><tr><td>136</td><td>4. Phải thu ngắn hạn khác</td><td>10</td><td>610.111.667.010</td><td>482.612.741.693</td></tr><tr><td>137</td><td>5. Dự phòng phải thu ngắn hạn khó đòi</td><td>7,8,9</td><td>(89.225.518)</td><td>(86.308.815.518)</td></tr><tr><td>140</td><td>IV. Hàng tồn kho</td><td>11</td><td>4.159.537.510.162</td><td>4.291.286.720.489</td></tr><tr><td>141</td><td>1. Hàng tồn kho</td><td></td><td>4.159.537.510.162</td><td>4.296.988.480.489</td></tr><tr><td>149</td><td>2. Dự phòng giảm giá hàng tồn kho</td><td></td><td>-</td><td>(5.701.760.000)</td></tr><tr><td>150</td><td>V. Tài sản ngắn hạn khác</td><td></td><td>21.028.820.665</td><td>39.826.155.164</td></tr><tr><td>151</td><td>1. Chi phí trả trước ngắn hạn</td><td>12</td><td>1.221.307.716</td><td>3.031.331.306</td></tr><tr><td>152</td><td>2. Thuế giá trị gia tăng được khấu trừ</td><td></td><td>12.473.430.082</td><td>25.736.535.443</td></tr><tr><td>153</td><td>3. Thuế và các khoản khác phải thu Nhà nước</td><td></td><td>7.334.082.867</td><td>11.058.288.415</td></tr></table>
+
+6
+
+10
+
+===== PAGE 9 =====
+Công ty Cổ phần Địa ốc Sài Gòn Thương tín
+
+B01-DN/HN
+
+BẢNG CẦN ĐỐI KẾ TOÁN HỢP NHẤT (tiếp theo)
+
+ngày 31 tháng 12 năm 2019
+
+VND
+
+<table><tr><td>Mã số</td><td>TÀI SẢN</td><td>Thuyết minh</td><td>Số cuối năm</td><td>Số đầu năm(Trình bày lại – Thuyết minh số 38)</td></tr><tr><td>200</td><td>B. TÀI SẢN DÀI HẠN</td><td></td><td>1.911.874.324.969</td><td>1.904.579.168.861</td></tr><tr><td>210</td><td>I. Các khoản phải thu dài hạn</td><td></td><td>331.350.049.457</td><td>355.480.151.086</td></tr><tr><td>212</td><td>1. Trả trước cho người bán dài hạn</td><td></td><td>2.432.660.940</td><td>5.394.219.700</td></tr><tr><td>215</td><td>2. Phải thu về cho vay dài hạn</td><td>9</td><td>616.666.659</td><td>19.878.063.938</td></tr><tr><td>216</td><td>3. Phải thu dài hạn khác</td><td>10</td><td>328.300.721.858</td><td>330.207.867.448</td></tr><tr><td>220</td><td>II. Tài sản cố định</td><td></td><td>213.095.454.249</td><td>218.171.491.684</td></tr><tr><td>221</td><td>1. Tài sản cố định hữu hình</td><td>13</td><td>4.808.400.424</td><td>13.223.184.664</td></tr><tr><td>222</td><td>Nguyên giá</td><td></td><td>15.740.606.478</td><td>25.221.850.360</td></tr><tr><td>223</td><td>Giá trị khấu hao lũy kế</td><td></td><td>(10.932.206.054)</td><td>(11.998.665.696)</td></tr><tr><td>224</td><td>2. Tài sản cố định thuê tài chính</td><td></td><td>-</td><td>536.676.229</td></tr><tr><td>225</td><td>Nguyên giá</td><td></td><td>-</td><td>1.288.022.909</td></tr><tr><td>226</td><td>Giá trị khấu hao lũy kế</td><td></td><td>-</td><td>(751.346.680)</td></tr><tr><td>227</td><td>3. Tài sản cố định vô hình</td><td>14</td><td>208.287.053.825</td><td>204.411.630.791</td></tr><tr><td>228</td><td>Nguyên giá</td><td></td><td>226.008.226.695</td><td>217.201.670.061</td></tr><tr><td>229</td><td>Giá trị hao mòn lũy kế</td><td></td><td>(17.721.172.870)</td><td>(12.790.039.270)</td></tr><tr><td>230</td><td>III. Bất động sản đầu tư</td><td>15</td><td>557.362.259.382</td><td>266.131.741.846</td></tr><tr><td>231</td><td>1. Nguyên giá</td><td></td><td>576.757.016.615</td><td>272.329.811.591</td></tr><tr><td>232</td><td>2. Giá trị khấu hao lũy kế</td><td></td><td>(19.394.757.233)</td><td>(6.198.069.745)</td></tr><tr><td>240</td><td>IV. Tài sản dở dang dài hạn</td><td></td><td>1.635.679.640</td><td>22.473.477.257</td></tr><tr><td>242</td><td>1. Chi phí xây dựng cơ bản dở dang</td><td>16</td><td>1.635.679.640</td><td>22.473.477.257</td></tr><tr><td>250</td><td>V. Đầu tư tài chính dài hạn</td><td>17</td><td>405.749.063.496</td><td>645.284.149.959</td></tr><tr><td>252</td><td>1. Đầu tư vào công ty liên kết</td><td></td><td>145.907.427.496</td><td>802.809.149.959</td></tr><tr><td>253</td><td>2. Đầu tư góp vốn vào đơn vị khác</td><td></td><td>259.841.636.000</td><td>42.475.000.000</td></tr><tr><td>260</td><td>VI. Tài sản dài hạn khác</td><td></td><td>402.681.818.745</td><td>397.038.157.029</td></tr><tr><td>261</td><td>1. Chi phí trả trước dài hạn</td><td>12</td><td>288.066.771.215</td><td>268.363.142.685</td></tr><tr><td>269</td><td>2. Lợi thể thương mại</td><td>18</td><td>114.615.047.530</td><td>128.675.014.344</td></tr><tr><td>270</td><td>TỔNG CỘNG TÀI SẢN</td><td></td><td>10.884.877.414.553</td><td>10.878.836.446.708</td></tr></table>
+
+7
+
+===== PAGE 10 =====
+Công ty Cổ phần Địa ốc Sài Gòn Thương tín
+
+B01-DN/HN
+
+BẢNG CẦN ĐỒI KẾ TOÁN HỢP NHẮT (tiếp theo)
+
+ngày 31 tháng 12 năm 2019
+
+VND
+
+<table><tr><td>Mã số</td><td>NGUỒN VỐN</td><td>Thuyết minh</td><td>Số cuối năm</td><td>Số đầu năm(Trình bày lại – Thuyết minh số 38)</td></tr><tr><td>300</td><td>C. NỘ PHÁI TRẢ</td><td></td><td>6.147.209.710.070</td><td>6.407.086.677.225</td></tr><tr><td>310</td><td>I. Nợ ngắn hạn</td><td></td><td>4.912.998.633.069</td><td>5.117.935.946.194</td></tr><tr><td>311</td><td>1. Phải trả người bán ngắn hạn</td><td>19</td><td>150.989.947.810</td><td>339.067.578.915</td></tr><tr><td>312</td><td>2. Người mua trả tiền trước ngắn hạn</td><td>20</td><td>1.231.294.824.170</td><td>1.647.948.150.149</td></tr><tr><td>313</td><td>3. Thuế và các khoản phải nộp Nhà nước</td><td>21</td><td>94.228.902.926</td><td>43.927.927.726</td></tr><tr><td>314</td><td>4. Phải trả người lao động</td><td></td><td>1.712.985.104</td><td>3.354.760.355</td></tr><tr><td>315</td><td>5. Chi phí phải trả ngắn hạn</td><td>22</td><td>289.307.619.314</td><td>376.494.911.355</td></tr><tr><td>318</td><td>6. Doanh thu chưa thực hiện ngắn hạn</td><td>23</td><td>79.960.193.351</td><td>44.021.432.943</td></tr><tr><td>319</td><td>7. Phải trả ngắn hạn khác</td><td>24</td><td>1.712.251.807.582</td><td>1.253.666.037.810</td></tr><tr><td>320</td><td>8. Vay ngắn hạn</td><td>25</td><td>1.338.275.937.998</td><td>1.397.814.134.607</td></tr><tr><td>322</td><td>9. Quỹ khen thưởng, phúc lợi</td><td>28</td><td>14.976.414.814</td><td>11.641.012.334</td></tr><tr><td>330</td><td>II. Nợ dài hạn</td><td></td><td>1.234.211.077.001</td><td>1.289.150.731.031</td></tr><tr><td>333</td><td>1. Chi phí phải trả dài hạn</td><td>22</td><td>135.775.179.400</td><td>97.276.987.691</td></tr><tr><td>336</td><td>2. Doanh thu chưa thực hiện dài hạn</td><td>23</td><td>38.328.609.409</td><td>38.525.760.000</td></tr><tr><td>337</td><td>3. Phải trả dài hạn khác</td><td>24</td><td>54.468.018.118</td><td>27.078.926.478</td></tr><tr><td>338</td><td>4. Vay và nợ dài hạn</td><td>25</td><td>920.482.676.120</td><td>1.032.132.901.690</td></tr><tr><td>341</td><td>5. Thuế thu nhập hoãn lại phải trả</td><td>34.3</td><td>85.156.593.954</td><td>94.136.155.172</td></tr><tr><td>400</td><td>D. VỐN CHỦ SỞ HỮU</td><td></td><td>4.737.667.704.483</td><td>4.471.749.769.483</td></tr><tr><td>410</td><td>I. Vốn chủ sở hữu</td><td></td><td>4.737.667.704.483</td><td>4.471.749.769.483</td></tr><tr><td>411</td><td>1. Vốn cổ phần</td><td>26</td><td>3.392.226.750.000</td><td>3.392.226.750.000</td></tr><tr><td>411a</td><td>- Cổ phiếu phổ thông có quyền biểu quyết</td><td></td><td>3.392.226.750.000</td><td>3.392.226.750.000</td></tr><tr><td>412</td><td>2. Thắng dư vốn cổ phần</td><td>26</td><td>333.257.781.211</td><td>333.261.184.101</td></tr><tr><td>415</td><td>3. Cổ phiếu quỹ</td><td>26</td><td></td><td>(11.890.000)</td></tr><tr><td>418</td><td>4. Quỹ đầu tư phát triển</td><td>26</td><td>134.240.908.893</td><td>130.100.031.184</td></tr><tr><td>420</td><td>5. Quỹ khác thuộc vốn chủ sở hữu</td><td>26</td><td>24.890.292.522</td><td>24.890.292.522</td></tr><tr><td>421</td><td>6. Lợi nhuận sau thuế chưa phân phối</td><td>26</td><td>621.355.873.192</td><td>365.055.667.136</td></tr><tr><td>421a</td><td>- Lợi nhuận sau thuế chưa phân phối lũy kế đến cuối năm trước</td><td></td><td>347.103.464.136</td><td>163.058.700.833</td></tr><tr><td>421b</td><td>- Lợi nhuận sau thuế chưa phân phối năm nay</td><td></td><td>274.252.409.056</td><td>201.996.966.303</td></tr><tr><td>429</td><td>7. Lợi ích cổ đông không kiểm soát</td><td>27</td><td>231.696.098.665</td><td>226.227.734.540</td></tr><tr><td>440</td><td>TỔNG CỘNG NGUỒN VỐN</td><td></td><td>10.884.877.414.553</td><td>10.878.836.446.708</td></tr></table>
+
+Nguyễn Văn Thanh
+
+Người lập
+
+Nguyễn Thị Thanh Thảo
+
+Kế toán trường
+
+Nguyên Đăng Thanh
+
+Chù tìch
+
+Ngày 30 tháng 3 năm 2020
+
+8
+
+===== PAGE 11 =====
+Công ty Cổ phần Địa óc Sài Gòn Thương Tín
+
+B02-DN/HN
+
+BẢO CẢO KẾT QUẢ HOAT ĐÔNG KINH DOANH HỢP NHẤT
+
+cho năm tài chính kết thúc ngày 31 tháng 12 năm 2019
+
+VND
+
+<table><tr><td>Mã số</td><td>CHÍ TIÊU</td><td>Thuyết minh</td><td>Năm nay</td><td>Năm trước (Trình bày lại – Thuyết minh số 38)</td></tr><tr><td>01</td><td>1. Doanh thu bán hàng và cung cấp dịch vụ</td><td>29.1</td><td>1.046.718.751.221</td><td>3.040.165.557.149</td></tr><tr><td>02</td><td>2. Các khoản giảm trừ doanh thu</td><td>29.1</td><td>(16.227.382.424)</td><td>(111.494.351.305)</td></tr><tr><td>10</td><td>3. Doanh thu thuần về bán hàng và cung cấp dịch vụ</td><td>29.1</td><td>1.030.491.368.797</td><td>2.928.671.205.844</td></tr><tr><td>11</td><td>4. Giá vốn hàng bán và dịch vụ cung cấp</td><td>30</td><td>(608.296.023.820)</td><td>(2.290.919.566.241)</td></tr><tr><td>20</td><td>5. Lợi nhuận gộp về bán hàng và cung cấp dịch vụ</td><td></td><td>422.195.344.977</td><td>637.751.639.603</td></tr><tr><td>21</td><td>6. Doanh thu hoạt động tài chính</td><td>29.2</td><td>283.052.480.485</td><td>205.487.303.124</td></tr><tr><td>22</td><td rowspan="2">7. Chi phí hoạt động tài chính Trong đó: Chi phí lãi vay</td><td rowspan="2">32</td><td rowspan="2">(175.051.332.989) (147.246.982.259)</td><td rowspan="2">(200.698.912.281) (173.155.386.654)</td></tr><tr><td>23</td></tr><tr><td>24</td><td>8. Phần lãi trong công ty liên kết</td><td>17.1</td><td>28.812.603.442</td><td>1.189.378.303</td></tr><tr><td>25</td><td>9. Chi phí bán hàng</td><td>31</td><td>(54.215.378.527)</td><td>(156.299.628.620)</td></tr><tr><td>26</td><td>10. Chi phí quản lý doanh nghiệp</td><td>31</td><td>(159.238.628.810)</td><td>(173.576.372.331)</td></tr><tr><td>30</td><td>11. Lợi nhuận thuần từ hoạt động kinh doanh</td><td></td><td>345.555.088.578</td><td>313.853.407.798</td></tr><tr><td>31</td><td>12. Thu nhập khác</td><td>33</td><td>16.612.210.919</td><td>10.155.829.635</td></tr><tr><td>32</td><td>13. Chi phí khác</td><td>33</td><td>(15.636.254.787)</td><td>(14.969.175.441)</td></tr><tr><td>40</td><td>14. Lợi nhuận (lỗ) khác</td><td></td><td>975.956.132</td><td>(4.813.345.806)</td></tr><tr><td>50</td><td>15. Tổng lợi nhuận kế toán trước thuế TNDN</td><td></td><td>346.531.044.710</td><td>309.040.061.992</td></tr><tr><td>51</td><td>16. Chi phí thuế TNDN hiện hành</td><td>34.1</td><td>(77.532.430.714)</td><td>(76.854.243.124)</td></tr><tr><td>52</td><td>17. Thu nhập (chi phí) thuế TNDN hoãn lại</td><td>34.3</td><td>8.979.561.219</td><td>(24.721.702.790)</td></tr></table>
+
+9
+
+===== PAGE 12 =====
+Công ty Cổ phần Địa ốc Sài Gòn Thương Tín
+
+B02-DN/HN
+
+BẢO CẢO KẾT QUẢ HOAT ĐÔNG KINH DOANH HỢP NHẤT (tiếp theo) cho năm tài chính kết thúc ngày 31 tháng 12 năm 2019
+
+VND
+
+<table><tr><td>Mã số</td><td>CHÍ TIÊU</td><td>Thuyết minh</td><td>Năm nay</td><td>Năm trước (Trình bày lại – Thuyết minh số 38)</td></tr><tr><td>60</td><td>18. Lợi nhuận sau thuế TNDN</td><td></td><td>277.978.175.215</td><td>207.464.116.078</td></tr><tr><td>61</td><td>19. Lợi nhuận sau thuế của cổ đông công ty mẹ</td><td>26.1</td><td>274.252.409.056</td><td>201.996.966.303</td></tr><tr><td>62</td><td>20. Lãi sau thuế của cổ đông không kiểm soát</td><td>27</td><td>3.725.766.159</td><td>5.467.149.775</td></tr><tr><td>70</td><td>21. Lãi cơ bán trên cổ phiếu</td><td>36</td><td>749</td><td>555</td></tr><tr><td>71</td><td>22. Lãi suy giảm trên cổ phiếu</td><td>36</td><td>749</td><td>555</td></tr></table>
+
+Nguyên Văn Thanh
+Người lập
+
+Nguyễn Thị Thanh Thảo
+Kế toán trường
+
+Nguyễn Đăng Thanh
+Chủ tịch
+
+Ngày 30 tháng 3 năm 2020
+
+10
+
+===== PAGE 13 =====
+Công ty Cổ phần Địa ốc Sài Gòn Thương Tín
+
+B03-DN/HN
+
+BẢO CẢO LƯU CHUYÊN TIÊN TỆ HỢP NHẮT
+
+cho năm tài chính kết thúc ngày 31 tháng 12 năm 2019
+
+VND
+
+<table><tr><td>Mã số</td><td>CHÍ TIÊU</td><td>Thuyết minh</td><td>Năm nay</td><td>Năm trước (Trình bày lại – Thuyết minh số 38)</td></tr><tr><td></td><td rowspan="5">I. LU&#x27;U CHUYÊN TIÊN TỪ HOẠT ĐỘNG KINH DOANH Lợi nhuận kê toán trước thuế Điều chỉnh cho các khoản: Khầu hao và hao mòn (bao gồm lợi thể thương mại) (Hoàn nhập dự phòng) dự phòng Lãi từ hoạt động đầu tư Chi phí lãi vay</td><td rowspan="5">32</td><td>346.531.044.710</td><td>309.040.061.992</td></tr><tr><td>02</td><td>35.579.351.927</td><td>21.617.864.228</td></tr><tr><td>03</td><td>(5.701.760.000)</td><td>5.701.760.000</td></tr><tr><td>05</td><td>(309.993.152.225)</td><td>(232.364.566.412)</td></tr><tr><td>06</td><td>147.246.982.259</td><td>173.155.386.654</td></tr><tr><td>08</td><td>Lợi nhuận từ hoạt động kinh doanh trước thay đổi vốn lưu động</td><td></td><td>213.662.466.671</td><td>277.150.506.462</td></tr><tr><td>09</td><td rowspan="2">Tăng các khoản phải thu (Tăng) giảm hàng tồn kho</td><td rowspan="2">21</td><td>(271.926.582.629)</td><td>(117.501.567.790)</td></tr><tr><td>10</td><td>(344.505.744.810)</td><td>780.368.002.368</td></tr><tr><td>11</td><td>Tăng (giám) các khoản phải trả</td><td>21</td><td>32.902.026.366</td><td>(169.744.102.335)</td></tr><tr><td>12</td><td>Tăng chi phí trả trước</td><td></td><td>(30.451.222.624)</td><td>(242.312.317.871)</td></tr><tr><td>14</td><td>Tiền lãi vay đã trả</td><td></td><td>(130.741.555.431)</td><td>(210.821.137.572)</td></tr><tr><td>15</td><td>Thuế TNDN đã nộp</td><td></td><td>(31.394.565.299)</td><td>(60.496.109.695)</td></tr><tr><td>17</td><td>Tiền chi khác cho hoạt động kinh doanh</td><td></td><td>(14.162.764.511)</td><td>(13.946.154.068)</td></tr><tr><td>20</td><td>Lưu chuyển tiền thuần (sử dụng vào) từ hoạt động kinh doanh</td><td></td><td>(576.617.942.267)</td><td>242.697.119.499</td></tr><tr><td></td><td>II. LU&#x27;U CHUYÊN TIÊN TỪ HOẠT ĐỘNG ĐẦU TƯ</td><td></td><td></td><td></td></tr><tr><td>21</td><td>Tiền chi để mua sắm tài sản cố định</td><td></td><td>(40.828.840.582)</td><td>(57.201.796.186)</td></tr><tr><td>22</td><td>Tiền thu do thanh lý tài sản cố định và bất động sản đầu tư</td><td></td><td>143.739.783.972</td><td>400.709.235.275</td></tr><tr><td>23</td><td>Tiền chi cho vay</td><td></td><td>(885.370.855.901)</td><td>(3.175.512.841.420)</td></tr><tr><td>24</td><td>Tiền thu hồi cho vay</td><td></td><td>1.186.175.557.400</td><td>2.126.289.848.758</td></tr><tr><td>25</td><td>Tiền chi đầu tư góp vốn vào các đơn vị khác</td><td></td><td>(257.966.683.202)</td><td>(850.994.507.865)</td></tr><tr><td>26</td><td>Tiền thu hồi đầu tư góp vốn vào đơn vị khác</td><td></td><td>525.411.554.816</td><td>172.073.397.000</td></tr><tr><td>27</td><td>Tiền thu lãi cho vay và cổ tức</td><td></td><td>58.068.693.904</td><td>117.726.171.560</td></tr><tr><td>30</td><td>Lưu chuyển tiền thuần từ (sử dụng vào) hoạt động đầu tư</td><td></td><td>729.229.210.407</td><td>(1.266.910.492.878)</td></tr></table>
+
+11
+
+===== PAGE 14 =====
+Công ty Cổ phần Địa ốc Sài Gòn Thương Tín
+
+B03-DN/HN
+
+BẢO CẢO LƯU CHUYÊN TIÊN TỆ HỢP NHẮT (tiếp theo)
+
+cho năm tài chính kết thúc ngày 31 tháng 12 năm 2019
+
+VND
+
+<table><tr><td>Mã số</td><td>CHỈ TIÊU</td><td>Thuyết minh</td><td>Năm nay</td><td>Năm trước (Trình bày lại – Thuyết minh số 38)</td></tr><tr><td></td><td>III. LƯU CHUYẾN TIÊN TỪ HOẠT ĐỘNG TÀI CHÍNH</td><td></td><td></td><td></td></tr><tr><td rowspan="2">31</td><td>Tiền thu từ phát hành cổ phiếu</td><td></td><td>-</td><td>731.433.700.000</td></tr><tr><td>Tiền thu từ vốn góp của cổ đông thiếu số</td><td>27</td><td>22.400.000.000</td><td>55.211.800.000</td></tr><tr><td>33</td><td>Tiền thu từ đi vay</td><td>25</td><td>2.250.084.657.663</td><td>2.976.610.859.596</td></tr><tr><td>34</td><td>Tiền chỉ trả nợ gốc vay</td><td></td><td>(2.498.193.218.274)</td><td>(2.684.973.147.268)</td></tr><tr><td>35</td><td>Tiền chỉ trả nợ thuê tài chính</td><td></td><td>(109.204.034)</td><td>(262.089.676)</td></tr><tr><td>36</td><td>Cổ tức đã trả cho cổ đông thiếu số</td><td>26.3</td><td>(1.500.000.000)</td><td>-</td></tr><tr><td>40</td><td>Lưu chuyển tiền thuần (sử dụng vào) từ hoạt động tài chính</td><td></td><td>(227.317.764.645)</td><td>1.078.021.122.652</td></tr><tr><td>50</td><td>Lưu chuyển tiền thuần trong năm</td><td></td><td>(74.706.496.505)</td><td>53.807.749.273</td></tr><tr><td>60</td><td>Tiền và tương đương tiền đầu năm</td><td></td><td>158.244.579.555</td><td>104.436.830.282</td></tr><tr><td>70</td><td>Tiền và tương đương tiền cuối năm</td><td>5</td><td>83.538.083.050</td><td>158.244.579.555</td></tr></table>
+
+Nguyễn Văn Thanh
+Người lập
+
+Ngày 30 tháng 3 năm 2020
+
+12
+
+===== PAGE 15 =====
+Công ty Cổ phần Địa ốc Sài Gòn Thương Tín
+
+B09-DN/HN
+
+THUYẾT MINH BẢO CẢO TÀI CHÍNH HỢP NHẤT
+
+váo ngày 31 tháng 12 năm 2019 và cho năm tài chính kết thúc cũng ngày
+
+1. THÔNG TIN CÔNG TY
+
+Công ty Cổ phần Địa Địa Sài Gòn Thương Tín ("Công ty") là một công ty cổ phần được thành lập theo Luật Doanh nghiệp của Việt Nam theo Giấy Chứng nhận Đăng ký Kinh doanh số 4103002210 do Sở Kế hoạch và Đầu tư Thành phố Hồ Chí Minh cấp ngày 29 tháng 3 năm 2004, và các Giấy Chứng nhận Đăng ký Doanh nghiệp điều chỉnh sau đó.
+
+Cổ phiếu của Công ty được niêm yết tai Sở Giao dịch Chứng khoán Thành phố Hồ Chí Minh ("SGDCK HCM") với mã SCR theo Quyết định số 468/QĐ-SGDHCM do SGDCK HCM cấp ngày 18 tháng 11 năm 2016.
+
+Vào ngày 31 tháng 12 năm 2019, Tập đoàn có mươi ba công ty con trực tiếp, bốn công ty liên kết với chi tiết như sau:
+
+<table><tr><td>Công ty</td><td>Địa điểm</td><td>Tình trạng</td><td>Ngành nghề kinh doanh</td><td>Tỷ lệ lợi ích %</td><td>Tỷ lệ biểu quyết %</td></tr><tr><td colspan="6">Công ty con</td></tr><tr><td>Công ty TNHH MTV Kinh doanh Dịch vụ Địa ốc Sài Gòn Thương Tín (&quot;Dịch vụ Địa ốc Sài Gòn&quot;)</td><td>Hồ Chí Minh (&quot;HCMC&quot;)</td><td>Đang hoạt động</td><td>Kinh doanh bất động sản</td><td>100,00</td><td>100,00</td></tr><tr><td>Công ty Cổ phần Năng lượng Thương Tín (&quot;Năng lượng&quot;)</td><td>HCMC</td><td>Đang trong quá trình giải thể</td><td>Sản xuất</td><td>52,00</td><td>52,00</td></tr><tr><td>Công ty Cổ phần Đầu tư Phát triển Địa ốc Đông Sài Gòn (&quot;Đông Sài Gòn&quot;)</td><td>HCMC</td><td>Đang hoạt động</td><td>Kinh doanh bất động sản</td><td>95,00</td><td>95,00</td></tr><tr><td>Công ty Cổ phần Thương Tín Tàu Cuốc (&quot;Tàu Cuốc&quot;)</td><td>HCMC</td><td>Đang hoạt động</td><td>Xây dựng và bất động sản</td><td>99,52</td><td>99,90</td></tr><tr><td>Công ty TNHH Dịch vụ Quản lý Bất động sản Sài Gòn Thương Tín (&quot;Quản lý Dịch vụ Địa ốc Sài Gòn&quot;)</td><td>HCMC</td><td>Đang hoạt động</td><td>Kinh doanh bất động sản</td><td>50,00</td><td>50,00</td></tr><tr><td>Công ty Cổ phần Mai Lan (&quot;Mai Lan&quot;)</td><td>HCMC</td><td>Đang hoạt động</td><td>Dịch vụ</td><td>90,07</td><td>90,07</td></tr><tr><td>Công ty TNHH Thương Tín – CJ Cầu Tre (&quot;CJ Cầu Tre&quot;)</td><td>HCMC</td><td>Đang hoạt động</td><td>Dịch vụ</td><td>74,00</td><td>74,00</td></tr><tr><td>Công ty TNHH Đầu tư Phát triển Bất động sản Hùng Anh Năm (&quot;Hùng Anh Năm&quot;)</td><td>HCMC</td><td>Đang hoạt động</td><td>Kinh doanh bất động sản</td><td>100,00</td><td>100,00</td></tr><tr><td>Công ty Cổ phần Thương Mai Nguyễn Kim Đà Nẵng (&quot;Nguyễn Kim Đà Nẵng&quot;)</td><td>Đà Nẵng</td><td>Đang hoạt động</td><td>Bất động sản và dịch vụ thương mại</td><td>95,10</td><td>95,17</td></tr><tr><td>Công ty TNHH MTV TTC Land Retail Management (&quot;TTC Land Retail&quot;)</td><td>HCMC</td><td>Đang hoạt động</td><td>Kinh doanh bất động sản</td><td>100,00</td><td>100,00</td></tr><tr><td>Công ty Cổ phần Đầu tư BDS TTC Land Long An (&quot;TTC Land Long An&quot;)</td><td>Long An</td><td>Đang hoạt động</td><td>Kinh doanh bất động sản</td><td>98,95</td><td>99,00</td></tr></table>
+
+13
+
+===== PAGE 16 =====
+Công ty Cổ phần Địa ốc Sài Gòn Thương Tín
+
+B09-DN/HN
+
+THUYÊT MINH BẢO CẢO TẢI CHÍNH HỢP NHẮT (tiếp theo)
+
+vào ngày 31 tháng 12 năm 2019 và cho năm tài chính kết thúc cùng ngày
+
+1. THÔNG TIN CÔNG TY (tiếp theo)
+
+Vào ngày 31 tháng 12 năm 2019, Công ty có mươi ba công ty con trực tiếp, bốn công ty liên kết và với chỉ tiết như sau: (tiếp theo)
+
+<table><tr><td>Công ty</td><td>Địa điểm</td><td>Tình trạng</td><td>Ngành nghề kinh doanh</td><td>Tỷ lệ lợi ích %</td><td>Tỷ lệ biểu quyết %</td></tr><tr><td colspan="6">Công ty con (tiếp theo)</td></tr><tr><td>Công ty TNHH MTV Đầu tư BDS TTC Land Phú Quốc (&quot;TTC Land Phú Quốc&quot;)</td><td>Kiên Giang</td><td>Đang hoạt động</td><td>Kinh doanh bất động sản</td><td>100,00</td><td>100,00</td></tr><tr><td>Công ty Cổ phần Đầu tư BDS TTC Land Hưng Điền (&quot;TTC Land Hưng Điền&quot;)</td><td>HCMC</td><td>Đang hoạt động</td><td>Kinh doanh bất động sản</td><td>61,00</td><td>61,00</td></tr><tr><td colspan="6">Công ty liên kết</td></tr><tr><td>Công ty Cổ phần May Tiến Phát</td><td>HCMC</td><td>Đang hoạt động</td><td>Bất động sản và dịch vụ thương mại</td><td>12,09</td><td>(*)</td></tr><tr><td>Công ty Cổ phần Đầu tư Xây dựng Idico – Long An</td><td>HCMC</td><td>Đang hoạt động</td><td>Bất động sản và dịch vụ thương mại</td><td>23,89</td><td>23,89</td></tr><tr><td>Công ty Cổ phần Đầu tư Địa ốc Kim Thành</td><td>HCMC</td><td>Đang hoạt động</td><td>Kinh doanh bất động sản</td><td>60,00</td><td>(*)</td></tr><tr><td>Công ty Cổ phần Đầu tư SVG</td><td>HCMC</td><td>Đang hoạt động</td><td>Sản xuất và xây dựng</td><td>50,00</td><td>(*)</td></tr></table>
+
+(*) Tập đoàn nằm giữ quyền biểu quyết không tương ứng với tỷ lệ lợi ích trong các công ty này (Thuyết minh số 17.1)
+
+Hoạt động chính theo đăng ký trong năm hiện tại của Công ty và các công ty con ("Tập đoàn") là kinh doanh bất động sản, quyền sử dụng đất thuộc chủ sở hữu, đất thuê; kinh doanh nhà; đầu tư xây dựng kinh doanh kết cấu hạ tầng khu công nghiệp, khu dân cư, cho thuê kho bãi, nhà xưởng, văn phòng; hoạt động hỗ trợ dịch vụ tài chính; tư vấn, môi giới, đấu giá bất động sản, đấu giá quyền sử dụng đất, xây dựng công trình kỹ thuật dân dụng khác, hoạt động tư vấn quản lý, nghiên cứu thị trường và thảm đó dư luận; tổ chức giới thiệu và xúc tiến thuống mại sản xuất vật liệu xây dựng từ đất sét; đại lý môi giới, đấu giá, cung cấp dịch vụ tư vấn kiến trúc và kỹ thuật có liên quan; hoạt động thiết kế chuyên dụng.
+
+Công ty có trụ sở chính tại số 253 Hoàng Văn Thụ, Phường 2, Quân Tân Bình, Thành phố Hồ Chí Minh, Việt Nam.
+
+Số lượng nhân viên của Tập đoàn tai ngày 31 tháng 12 năm 2019 là 416 (ngày 31 tháng 12 năm 2018: 518).
+
+14
+
+===== PAGE 17 =====
+Công ty Cổ phần Địa ốc Sài Gòn Thương Tín
+
+B09-DN/HN
+
+THUYÊT MINH BẢO CẢO TÀI CHÍNH HỢP NHẮT (tiếp theo)
+
+vào ngày 31 tháng 12 năm 2019 và cho năm tài chính kết thúc cùng ngày
+
+2. CƠ SỞ TRÌNH BÀY
+
+2.1 Chuẩn mục và Chế độ kế toán áp dụng
+
+Báo cáo tài chính hợp nhất của Công ty và các công ty con ("Tập đoàn") được trình bày bằng đồng Việt Nam ("VND") phù hợp với Chế đồ kế toàn doanh nghiệp Việt Nam, Chuẩn mực kế toán Việt Nam do Bộ Tài chính ban hành theo:
+
+Quyết định số 149/2001/QĐ-BTC ngày 31 tháng 12 năm 2001 về việc ban hành bớn Chuẩn mực kể toán Việt Nam (Đợt 1);
+
+Quyết định số 165/2002/QĐ-BTC ngày 31 tháng 12 năm 2002 về việc ban hành sâu Chuẩn mực kế toán Việt Nam (Đợt 2);
+
+> Quyết định số 234/2003/QĐ-BTC ngày 30 tháng 12 năm 2003 về việc ban hành sâu Chuẩn mực kế toán Việt Nam (Đơn 3);
+
+> Quyết định số 12/2005/QĐ-BTC ngày 15 tháng 2 năm 2005 về việc ban hành sâu Chuẩn mực kế toán Việt Nam (Đort 4); và
+
+Quyết định số 100/2005/QĐ-BTC ngày 28 tháng 12 năm 2005 về việc ban hành bồn Chuẩn mực kế toán Việt Nam (Đợt 5).
+
+Theo đó, báo cáo tài chính hợp nhất được trình bày kèm theo và việc sử dụng báo cáo này không đánh cho các đối tượng không được cung cấp các thông tin về các thủ tục và nguyên tắc và thông lẻ kế toán tại Việt Nam và hơn nữa không được chủ định trình bày tỉnh hình tài chính, kết quả hoạt động kinh doanh và lưu chuyển tiền tệ của Tập đoàn theo các nguyên tắc và thông lẻ kế toán được chấp nhận rộng rãi ở các nước và lãnh thổ khác ngoài Việt Nam.
+
+2.2 Hinh thức số kế toán áp dụng
+
+Hình thức số kế toán được áp dụng của Tập đoàn là Nhật ký chung.
+
+2.3 Ký ké toán năm
+
+Kỳ kế toán năm của Tập đoàn áp dụng cho việc lập báo cáo tài chính hợp nhất bắt đầu từ ngày 1 tháng 1 và kết thúc ngày 31 tháng 12.
+
+2.4 Đơn vị tiền tệ sử dụng trong kế toán
+
+Bảo cáo tài chính hợp nhất được lập bằng đơn vị tiền tệ sử dụng trong kế toán của Tập đoàn là VND.
+
+2.5 Cơ sở hợp nhất
+
+Bảo cáo tài chính hợp nhất bao gồm bảo cáo tài chính của Công ty mẹ và các công ty con cho năm tài chính kết thúc ngày 31 tháng 12 năm 2019.
+
+Các công ty con được hợp nhất toán bộ kể từ ngày mua, là ngày Tập đoàn thực sự nằm quyền kiểm soát công ty con, và tiếp tục được hợp nhất cho đến ngày Tập đoàn thực sự chămains đứt quyền kiểm soát đối với công ty con.
+
+Các báo cáo tài chính của công ty mẹ và các công ty con sử dụng để hợp nhất được lập cho cùng một ký kế toán và được áp dụng các chính sách kế toán một cách thống nhất.
+
+Số dư các tài khoản trên bảng cân đối kế toán giữa các đơn vị trong cùng Tập đoàn, các khoản thu nhập và chi phí, các khoản lãi hoặc lỗ nội bộ chưa thực hiện phát sinh từ các giao dịch này được loại trừ hoàn toàn.
+
+Lợi ích của các cổ đông không kiểm soát là phần lợi ích trong lãi, hoặc lỗ, và trong tài sản thuần của công ty con không được nằm giữ bởi Tập đoàn và được trình bày riêng biết trên báo cáo kết quả hoạt động kinh doanh hợp nhất và được trình bày chung với phần vốn chủ sở hữu của các cổ đông của công ty mẹ trong phần vốn chủ sở hữu trên bằng cân đối kế toán hợp nhất.
+
+Ảnh hưởng do các thay đổi trong tỷ lệ sở hữu công ty con mà không làm mất quyền kiểm soát được hạch toán vào lợi nhuận sau thuế chưa phân phối.
+
+15
+
+===== PAGE 18 =====
+Công ty Cổ phần Địa ốc Sài Gòn Thương Tín
+
+B09-DN/HN
+
+THUYÊT MINH BẢO CẢO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+vào ngày 31 tháng 12 năm 2019 và cho năm tài chính kết thúc cũng ngày
+
+3. TÓM TẮT CÁC CHÍNH SÁCH KẾ TOÁN CHỦ YẾU
+
+3.1 Tiền và các khoản tương đương tiền
+
+Tiền và các khoản tương đương tiền bao gồm tiền mặt tại quỹ, tiền gửi ngân hàng, các khoản đầu tư ngắn han có thời hạn góc không quá ba (3) tháng, có tính thanh khoản cao có khả năng chuyển đổi dễ dàng thành các lượng tiền xác định và không có nhiều rủi ro trong chuyển đổi thành tiền.
+
+3.2 Hàng tồn kho
+
+Hàng hóa bất động sản
+
+Bất động sản được mua hoặc được xây dựng để bản trong quá trình hoạt động bình thường của Tập đoàn, không phải để cho thuê hoặc chờ tăng giá, được ghi nhân là hàng hóa bất động sản theo giá thấp hơn giữa giá thành để đưa môi sản phẩm đến vị trí và điều kiện hiện tai và giả trị thuần có thể thực hiện được.
+
+Giá thành của hàng hóa bất động sản bao gồm:
+
+▶ Chi phí tiền sử dụng đất và tiền thuê đất;
+
+▶ Chi phí xây dựng trả cho nhà thầu; và
+
+▶ Chi phí lãi vay, chi phí tư vấn, thiết kế, chi phí san lập, đèn bù giải phóng mặt bằng, phí tư vấn, thuê chuyển nhượng đất, chi phí quản lý xây dựng chung và các chi phí liên quan khác.
+
+Giá trị thuần có thể thực hiện được là giả bán ước tính của hàng tồn kho trong điều kiện kinh doanh bình thường, dưa trên giả thi trường vào ngày bảo cáo và chiết tính giá trị thời gian của dòng tiền, nếu đáng kể, và trừ chi phí ước tính để hoàn thành và chi phí bán hàng ước tính.
+
+Giá vốn của bất động sản đã bản được ghi nhận trên báo cáo kết quả hoạt động kinh doanh hợp nhất dưa trên các chi phí trực tiếp tạo thành bất động sản đó và chi phí chung được phân bổ trên cơ sở diện tích tương ứng của bất động sản đó.
+
+Hàng tôn kho khác
+
+Hàng tổn kho được ghi nhận theo giá thấp hơn giữa giá thành để đưa mỗi sản phẩm đến vị trí và điều kiện hiện tại và giả trị thuần có thể thực hiện được.
+
+Giá trị thuần có thể thực hiện được là giá bán ước tính của hàng tồn kho trong điều kiện kinh doanh bình thường trừ chi phí ước tính để hoàn thành và chi phí bán hàng ước tính.
+
+Công ty áp dụng phương pháp kê khai thưởng xuyên để hach toán hàng tồn kho (chữ yếu là hàng hóa) với giá trị được xác định theo chỉ phí mua theo phương pháp bình quân gia quyền.
+
+Dự phòng giảm giá hàng tổn kho
+
+Dự phòng giảm giá hàng tồn kho được trích lập cho phần giả trị dự kiến bị tổn thất do các khoản suy giảm trong giả trị (do giảm giả, hư hỏng, kém phẩm chất, lỗi thời v.v.) có thể xây ra đối với nguyên vật liệu, thành phẩm, hàng hóa tồn kho khác thuộc quyền sở hữu của Tập đoàn dưa trên bằng chứng hợp lý về sự suy giảm giả trị tai ngày kết thúc ký kế toán năm.
+
+Số tăng hoặc giảm khoản dự phòng giảm giá hàng tổn kho được hạch toán vào giá vốn hàng bán trong báo cáo kết quả hoạt động kinh doanh hợp nhất.
+
+3.3 Các khoản phải thu
+
+Các khoản phải thu được trình bày trên báo cáo tài chính hợp nhất theo giá trị ghi số các khoản phải thu từ khách hàng và phải thu khác sau khi cán trừ các khoản dự phòng được lập cho các khoản phải thu khó đòi.
+
+Dự phòng nợ phải thu khó đòi thể hiện phần giá trị của các khoản phải thu mà Tập đoàn dư kiến không có khả năng thu hồi tại ngày kết thúc ký kế toán. Tăng hoặc giảm số dư tài khoản dự phòng được hạch toán vào chi phí quản lý doanh nghiệp trên báo cáo kết quả hoạt động kinh doanh hợp nhất.
+
+16
+
+===== PAGE 19 =====
+Công ty Cổ phần Địa ốc Sài Gòn Thương Tín
+
+B09-DN/HN
+
+THUYẾT MINH BẢO CẢO TÀI CHÍNH HỢP NHẮT (tiếp theo)
+vào ngày 31 tháng 12 năm 2019 và cho năm tài chính kết thúc cứng ngày
+
+3. TÓM TÁT CÁC CHÍNH SÁCH KẾ TOÁN CHỦ YẾU (tiếp theo)
+
+3.4 Tài sản cố định hữu hình
+
+Tài sản cố định hữu hình được thể hiện theo nguyên giá trú đi giá trị hao món lũy kế.
+
+Nguyên giá tài sản cố định bao gồm giá mua và những chi phí có liên quan trực tiếp đến việc đưa tài sản vào sẵn sáng hoạt động như dự kiến.
+
+Các chỉ phí mua sắm, nâng cấp và đổi mới tài sản cố định hữu hình được ghi tăng nguyên giả của tài sản và chỉ phí bảo trì, sửa chữa được hạch toàn vào báo cáo kết quả hoạt động kinh doanh hợp nhất khi phát sinh.
+
+Khi tài sản cố định hữu hình được bán hay thanh lý, các khoản lãi hoặc lỗ phát sinh do thanh lý tài sản (là phần chênh lệch giữa tiền thu thuần từ việc bán tài sản với giá trị còn lại của tài sản) được hạch toán vào bảo cáo kết quả hoạt động kinh doanh hợp nhất.
+
+3.5 Thuê tài sản
+
+Việc xác định một thỏa thuận có phải là thỏa thuận thuê tài sản hay không đưa trên bản chất của thỏa thuận đó tại thời điểm khởi đầu: liệu việc thực hiện thỏa thuận này có phụ thuộc vào việc sử dụng một tài sản nhất định và thỏa thuận có bao gồm điều khoản về quyền sử dụng tài sản hay không.
+
+Thỏa thuận thuê tài sản được phân loại là thuê tài chính nếu theo hợp đồng thuê tài sản bên cho thuê chuyển giao phần lớn rủi ro và lợi ích gần liền với quyền sở hữu tài sản cho bên đi thuê. Tất cả các thỏa thuận thuê tài sản khác được phân loại là thuê hoạt động.
+
+Trong trường hợp Tập đoàn là bên đi thuê
+
+Tài sản theo hợp đồng thuê tài chính được vốn hóa trên bằng cân đối kế toán hợp nhất tai thời điểm khởi đầu thuê tài sản theo giá trị thấp hơn giữa giá trị hợp lý của tài sản thuê và giá trị hiện tai của khoản thanh toán tiền thuê tối thiểu. Khoản tiền gốc trong các khoản thanh toán tiền thuê trong tương lai theo hợp đồng thuê tài chính được hạch toán như khoản nợ phải trả. Khoản tiền lãi trong các khoản thanh toán tiền thuê được hạch toán vào báo cáo kết quả hoạt động kinh doanh hợp nhất trong suốt thời gian thuê tài sản theo lãi suất có định trên số dư còn lại của khoản nợ thuê tài chính phải trả.
+
+Tài sản thuê tài chính đã được vốn hóa được trích khấu hao theo phương pháp khấu hao đường thẳng theo thời gian ngắn hơn giữa thời gian hữu dụng ước tính và thời hạn thuê tài sản, nếu không chắc chắn là bên thuê sẽ được chuyển giao quyền sở hữu tài sản khi hết hạn hợp đồng thuê.
+
+Các khoản tiền thuê theo hợp đồng thuê hoạt động được hạch toán vào báo cáo kết quả hoạt động kinh doanh hợp nhất theo phương pháp đường thẳng trong thời hạn của hợp đồng thuê.
+
+Trong trường hợp Tập đoàn là bên cho thuê
+
+Tài sản theo hợp đồng cho thuê hoạt động được ghi nhận là tài sản cố định trên bảng cân đối kế toán hợp nhất. Chi phí trực tiếp ban đầu để thương thảo thỏa thuận cho thuê hoạt động được ghi nhận vào kết quả hoạt động kinh doanh hợp nhất khi phát sinh.
+
+Thu nhập từ tiền cho thuê hoạt động được hạch toán vào báo cáo kết quả hoạt động kinh doanh hợp nhất theo phương pháp đường thẳng trong thời gian cho thuê.
+
+3.6 Tài sản cố định vô hình
+
+Tài sản cố định vô hình được ghi nhận theo nguyên giá trừ đi giá trị hao mòn lũy kế.
+
+Nguyên giá tài sản cố định vô hình bao gồm giả mua và những chi phí có liên quan trực tiếp đến việc đưa tài sản vào sử dụng như dự kiến.
+
+Các chỉ phí nâng cấp và đổi mới tài sản cố định vô hình được ghi tăng nguyên giá của tài sản và các chỉ phí khác được hạch toán vào báo cáo kết quả hoạt động kinh doanh hợp nhất khi phát sinh.
+
+Khi tài sản cố định vô hình được bán hay thanh lý, các khoản lãi hoặc lỗ phát sinh do thanh lý tài sản (là phần chênh lệch giữa tiền thu thuần từ việc bán tài sản với giá trị còn lại của tài sản) được hạch toán vào báo cáo kết quả hoạt động kinh doanh hợp nhất.
+
+17
+
+===== PAGE 20 =====
+Công ty Cổ phần Địa ốc Sài Gòn Thương Tín
+
+B09-DN/HN
+
+THUYÊT MINH BẢO CẢO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+
+vào ngày 31 tháng 12 năm 2019 và cho năm tái chính kết thúc cứng ngày
+
+3. TÓM TẮT CÁC CHÍNH SÁCH KẾ TOÁN CHỦ YÊU (tiếp theo)
+
+3.6 Tài sản cố định vô hình (tiếp theo)
+
+Quyền sử dụng đất
+
+Quyền sử dụng đất được ghi nhận như tài sản vô hình khi Tập đoàn nằm giữ đất này để sử dụng trong sản xuất, kinh doanh cung cấp dịch vụ hoặc cho các đối tượng khác thuê và Công ty được cấp giấy chứng nhân quyền sử dụng đất. Nguyên già quyền sử dụng đất bao gồm tất cả những chi phí có liên quan trực tiếp đến việc đưa đất vào trạng thái sản sáng đề sử dụng.
+
+Quyền sử dụng đất được trích khấu hao dưa trên thời gian sử dụng hữu ích, ngoại trừ quyền sử dụng đất có thời gian sử dụng vô thời hạn thì không hao mòn.
+
+3.7 Khâu hao và hao mòn
+
+Khẩu hao tài sản cố định hữu hình và hao mòn tài sản cố định vô hình được trích theo phương pháp khấu hao đường thẳng trong suốt thời gian hữu dụng ước tính của các tài sản như sau:
+
+<table><tr><td>Nhà cửa, vật kiến trúc</td><td>6 năm</td></tr><tr><td>Máy móc, thiết bị</td><td>2 - 3 năm</td></tr><tr><td>Phương tiện vận tải</td><td>2 - 7 năm</td></tr><tr><td>Thiết bị văn phòng</td><td>2 - 10 năm</td></tr><tr><td>Phần mềm vi tính</td><td>3 - 11 năm</td></tr><tr><td>Tài sản vô hình khác</td><td>3 - 8 năm</td></tr><tr><td>Quyền sử dụng đất</td><td>50 năm</td></tr></table>
+
+3.8 Bát động sản đầu tư
+
+Bất động sản đầu tư được thể hiện theo nguyên giá bao gồm các chi phí giao dịch liên quan trừ đi giá trị khấu hao và hao mòn lũy kế.
+
+Các khoản chi phí liên quan đến bất động sản đầu tư phát sinh sau ghi nhận ban đầu được hạch toán vào giá trị còn lai của bất động sản đầu tư khi Tập đoàn có khả năng thu được các lợi ích kinh tế trong tương lai nhiều hơn mức hoạt động được đánh giá ban đầu của bất động sản đầu tư đó.
+
+Khâu hao và hao món bất động sản đầu tư được trích theo phương pháp khẩu hao đường thẳng trong suốt thời gian hữu dụng ước tính của các bất động sản như sau:
+
+Nhà cửa, vát kiến trúc 24 - 45 năm
+
+Bất động sản đầu tư không còn được trình bày trong bảng cân đối kế toán hợp nhất sau khi đã bán hoặc sau khi bất động sản đầu tư đã không còn được sử dụng và xét thấy không thu được lợi ích kinh tế trong tương lai từ việc thanh lý bất động sản đầu tư đó. Chênh lệch giữa tiền thu thuần từ việc bán tài sản với giả trị còn lai của bất động sản đầu tư được ghi nhận vào báo cáo kết quả hoạt động kinh doanh hợp nhất trong năm thanh lý.
+
+Việc chuyển từ bất động sản chủ sở hữu sử dụng hoặc hàng tồn kho thành bất động sản đầu tư chỉ khi có sự thay đối về mục đích sử dụng như trường hợp chủ sở hữu chấm dứt sử dụng tài sản đó và bất đầu choen b Chin khác thuê hoạt động hoặc khi kết thúc giai đoạn xây dựng. Việc chuyển từ bất động sản đầu tư sang bất động sản chủ sở hữu sử dụng hay hàng tồn kho chỉ khi có sự thay đối về mục đích sử dụng như các trường hợp chủ sở hữu bất đầu sử dụng tài sản này hoặc bất đầu triển khai cho mục đích bán. Việc chuyển từ bất động sản đầu tư sang bất động sản chủ sở hữu sử dụng hoặc hàng tồn kho không làm thay đối nguyên giả hay giá trị còn lại của bất động sản tại ngày chuyển đổi.
+
+3.9 Chi phi di vay
+
+Chi phí đi vay bao gồm lãi tiền vay và các chi phí khác phát sinh liên quan trực tiếp đến các khoản vay của Tập đoàn và được hạch toán như chi phí phát sinh trong kỳ ngoại trừ các khoản được vốn hóa như theo nội dung của đoạn tiếp theo.
+
+Chỉ phí đi vay liên quan trực tiếp đến việc mua sắm, xây dựng hoặc hình thành một tài sản cu thể cần có một thời gian đủ dài để có thể đưa vào sử dụng theo mục đích định trước hoặc để bán được vốn hóa vào nguyên giá của tài sản đó.
+
+18
+
+===== PAGE 21 =====
+Công ty Cổ phần Địa ốc Sài Gòn Thương Tín
+
+B09-DN/HN
+
+THUYÊT MINH BẢO CẢO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+vào ngày 31 tháng 12 năm 2019 và cho năm tài chính kết thúc cứng ngày
+
+3. TÔM TẮT CÁC CHÍNH SÁCH KẾ TOÁN CHỦ YẾU (tiếp theo)
+
+3.10 Chi phí trả trước
+
+Chi phí trả trước bao gồm các chi phí trả trước ngắn hạn hoặc chi phí trả trước dài hạn trên bảng cân đối kế toán hợp nhất và được phân bổ trong khoảng thời gian trả trước của chi phí hoặc thời gian các lợi ích kinh tế tương ứng được tạo ra từ các chi phí này.
+
+Các loại chi phí sau đây được hạch toán vào chi phí trả trước dài hạn để phân bổ dần từ 2 đến 5 năm hoặc ghi nhận phù hợp với doanh thu vào báo cáo kết quả hoạt động kinh doanh hợp nhất:
+
+Công cụ dụng cụ xuất dùng với giá trị lớn và được sử dụng trên một năm;
+
+Nhà mâu; và
+
+▶ Chi phí hoa hồng cho dự án.
+
+3.11 Hợp nhất kinh doanh và lợi thể thương mại
+
+Hợp nhất kinh doanh được hạch toán theo phương pháp giả mua. Giá phí hợp nhất kinh doanh bao gồm giá trị hợp lý tại ngày diễn ra trao đổi của các tài sản đem trao đổi, các khoản nợ phải trả đã phát sinh hoặc đã thừa nhận và các công cụ vốn do bên mua phát hành để đối lấy quyền kiểm soát bên bị mua và các chi phí liên quan trực tiếp đến việc hợp nhất kinh doanh. Tài sản, nợ phải trả có thể xác định được và những khoản nợ tiêm tảng phải gánh chịu trong hợp nhất kinh doanh của bên bị mua đều ghi nhận theo giá trị hợp lý tại ngày hợp nhất kinh doanh.
+
+Lợi thế thương mại phát sinh từ hợp nhất kinh doanh được ghi nhận ban đầu theo giá gốc, là phần chênh lệch giữa giả phí hợp nhất kinh doanh so với với phần sở hữu của bên mua trong giá trị hợp lý của tài sản, nợ phải trả có thể xác định được và các khoản nợ tiềm tảng đã ghi nhận. Nếu giả phí hợp nhất kinh doanh thấp hơn giá trị hợp lý của tài sản thuần của bên bị mua, phần chênh lệch đó sẽ được ghi nhận vào bảo cáo kết quả hoạt động kinh doanh hợp nhất. Sau khi ghi nhận ban đầu, lợi thế thương mại được xác định giá trị bảng nguyên giả trừ đi giả trị phân bổ lũy kế. Lợi thế thương mại được phân bổ theo phương pháp đường thẳng trong thời gian hữu ích được vớc tính tối đa là mười (10) năm. Định kỳ công ty mẹ phải đánh giá tổn thất lợi thế thương mại tại công ty con, nếu có bằng chứng cho thấy số lợi thế thương mại bị tổn thất lớn hơn số phân bổ hàng năm thì phân bổ theo số lợi thế thương mại bị tổn thất ngay trong kỳ phát sinh.
+
+3.12 Các khoản đầu tư
+
+Đầu tư vào công ty liên kết
+
+Các khoản đầu tư vào các công ty liên kết được hach toán theo phương pháp vốn chủ sở hữu. Công ty liên kết là các công ty mà trong đó Tập đoàn có ảnh hưởng đáng kể nhưng không phải là công ty con hay công ty liên doanh của Tập đoàn. Thông thường, Tập đoàn được coi là có ảnh hưởng đáng kể nếu sở hữu trên 20% quyền bổ phiếu ở đơn vị nhận đầu tư.
+
+Theo phương pháp vốn chủ sở hữu, khoản đầu tư được ghi nhận ban đầu trên bảng cân đối kế toán hợp nhất theo giả gốc, sau đó được điều chỉnh theo những thay đối của phần sở hữu của Tập đoàn trong tài sản thuần của công ty liên kết sau khi mua. Lợi thể thương mại phát sinh được phân ảnh trong giá trị còn lại của khoản đầu tư. Tập đoàn không khấu hao lợi thể thương mại này mà hàng năm thực hiện đánh giá xem lợi thể thương mại có bị suy giảm giá trị hay không. Bảo cáo kết quả kinh doanh hợp nhất phân ảnh phần sở hữu của Tập đoàn trong kết quả hoạt động kinh doanh của công ty liên kết sau khi mua.
+
+Phần sở hữu của nhà đầu tư trong lợi nhuận (lỗ) của công ty liên kết sau khi mua được phần ảnh trên bảo cáo kết quả kinh doanh hợp nhất và phần sở hữu của nhà đầu tư trong thay đổi sau khi mua của các quỹ của công ty liên kết được ghi nhận vào các quỹ. Thay đổi lũy kế sau khi mua được điều chỉnh vào giá trị còn lại của khoản đầu tư vào công ty liên kết. Cổ tức nhận được từ công ty liên kết được cán trừ vào khoản đầu tư vào công ty liên kết.
+
+19
+
+===== PAGE 22 =====
+Công ty Cổ phần Địa ốc Sài Gòn Thương Tín
+
+B09-DN/HN
+
+THUYÊT MINH BẢO CẢO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+vào ngày 31 tháng 12 năm 2019 và cho năm tài chính kết thúc cứng ngày
+
+3. TÓM TẮT CÁC CHÍNH SÁCH KẾ TOÁN CHỦ YẾU (tiếp theo)
+
+3.12 Các khoản đầu tư (tiếp theo)
+
+Đầu tư vào công ty liên kết (tiếp theo)
+
+Các báo cáo tài chính của công ty liên kết được lập cùng kỳ với các báo cáo tài chính hợp nhất của Tập đoàn và sử dụng các chính sách kế toán nhất quản với Tập đoàn. Các điều chỉnh hợp nhất thích hợp đã được ghi nhận để bảo đảm các chính sách kế toán được áp dụng nhất quản với Tập đoàn trong trường hợp cần thiết.
+
+Đầu tư góp vốn vào đơn vị khác
+
+Đầu tư góp vốn vào đơn vị khác được ghi nhận theo giá mua thực tế.
+
+Đầu tư nằm giữ đến ngày đáo hạn
+
+Các khoản đầu tư nằm giữ đến ngày đáo hạn được ghi nhận theo giá gốc. Sau khi ghi nhận ban đầu, các khoản đầu tư này được ghi nhận theo giá trị có thể thu hồi. Các khoản suy giảm giá trị của khoản đầu tư nếu phát sinh được hach toán vào chi phí tài chính trong bảo cáo kết quả hoạt động kinh doanh hợp nhất và giảm trừ trực tiếp giá trị đầu tư.
+
+Dự phòng giảm giá trị các khoản đầu tư
+
+Dự phòng cho việc giảm giá trị của các khoản đầu tư được lập khi có bằng chứng chắc chắn cho thấy có sự suy giảm giá trị của các khoản đầu tư này vào ngày kết thúc ký kể toán năm.
+
+Tăng hoặc giảm số dư dự phòng được hạch toán vào chi phí tài chính trong báo cáo kết quả hoạt động kinh doanh hợp nhất.
+
+3.13 Các khoản phải trả và chỉ phí trích trước
+
+Các khoản phải trả và chi phí trích trước được ghi nhận cho số tiền phải trả trong tương lai liên quan đến hàng hóa và dịch vụ đã nhận được không phụ thuộc vào việc Tập đoàn đã nhận được hóa đơn của nhà cung cấp hay chưa.
+
+3.14 Cổ phiếu quỹ
+
+Các công cụ vốn chủ sở hữu được Tập đoàn mua lại (cổ phiếu quỹ) được ghi nhận theo nguyên giá và trừ vào vốn chủ sở hữu. Tập đoàn không ghi nhận các khoản lãi hoặc lỗ khi mua, bán, phát hành hoặc hủy các công cụ vốn chủ sở hữu của mình.
+
+3.15 Phân chia lợi nhuận
+
+Lợi nhuận sau thuế thu nhập doanh nghiệp (không bao gồm các khoản lãi từ giao dịch mua giá rê) có thể được chia cho các cổ đông sau khi được Đại Hội đồng cổ đông phê duyệt và sua jika đã trích lập các quỹ dự phòng theo Điều lệ của Tập đoàn và các quy định của pháp luật Việt Nam.
+
+Tập đoàn trích lập các quỹ dự phòng sau từ lợi nhuận thuần sau thuế thu nhập doanh nghiệp của Tập đoàn theo đề nghị của Hội đồng Quản trị và được các cổ đông phê duyệt tai đại hỏi đồng cổ đông thường niên:
+
+Quỹ đầu tư phát triển
+Quỹ này được trích lập nhằm phục vụ việc mở rộng hoạt động hoặc đầu tư chiều sâu của Tập đoàn.
+
+Quỹ khác thuộc vốn chủ sở hữu
+Nguồn kinh phí cho hoạt động kinh doanh, dư án bao gồm ngân sách hoạt động dư kiến.
+
+Quỹ khen thưởng, phúc lợi
+
+Quỹ này được trich lập để khen thưởng, khuyến khích vật chất, đem lại lợi ích chung và nâng cao phúc lợi cho công nhân viên, và được trình bày như một khoản phải trả trên bằng cân đối kế toán hợp nhất.
+
+20
+
+===== PAGE 23 =====
+Công ty Cổ phần Địa ốc Sài Gòn Thương Tín
+
+B09-DN/HN
+
+THUYÊT MINH BẢO CẢO TÀI CHÍNH HỢP NHẮT (tiếp theo)
+
+vào ngày 31 tháng 12 năm 2019 và cho năm tài chính kết thúc cùng ngày
+
+3. TÔM TẮT CÁC CHÍNH SÁCH KẾ TOÁN CHỦ YỀU (tiếp theo)
+
+3.16 Lãi trên cổ phiếu
+
+Lãi cơ bản trên cổ phiếu được tính bằng cách chia lợi nhuận sau thuế phân bổ cho các cổ đông sở hữu cổ phiếu phổ thông của Tập đoàn (sau khi đã điều chỉnh cho việc trích lập quỹ khen thưởng, phúc lợi) cho số lượng bình quân gia quyền của số cổ phiếu phổ thông đang lưu hành trong năm.
+
+Lãi suy giảm trên cổ phiếu được tính bằng cách chia lợi nhuận hoặc lỗ sau thuế phân bố cho cổ đông sở hữu cổ phiếu phổ thông của Tập đoàn (sau khi đã điều chỉnh cho cổ tức của cổ phiếu ưu đãi có quyền chuyển đổi) cho số lượng bình quân gia quyền của sổ cổ phiếu phổ thông đang lưu hành trong năm và số lượng bình quân gia quyền của cổ phiếu phổ thông sẽ được phát hành trong trường hợp tất cả các cổ phiếu phổ thông tiềm năng cổ tác động suy giảm đều được chuyển thành cổ phiếu phổ thông.
+
+3.17 Ghi nhận doanh thu
+
+Doanh thu được ghi nhận khi Tập đoàn có khả năng nhận được các lợi ích kinh tế cổ thể xác định được một cách chắc chắn. Doanh thu được xác định theo giá trị hợp lý của các khoản đã thu hoặc sẽ thu được sau khi trừ đi các khoản chiết khấu thương mại, giảm giả hàng bán và hàng bán bị trả lại. Các điều kiện ghi nhận cụ thể sau đây cũng phải được đáp ứng khi ghi nhận doanh thu:
+
+Doanh thu bán biết thụ, nhà phố và căn hộ
+
+Đối với các biết thư, nhà phố và căn hộ mà Tập đoàn bán sau khí đã xây dựng hoàn tất, doanh thu và giá vốn được được ghi nhân khi phần lớn rủi ro và lợi ích liên quan đến biết thư, nhà phố và căn hộ đã được chuyển giao sang người mua.
+
+Doanh thu bán bất động sản cũng bao gồm doanh thu cho thuê ghi nhận một lần từ việc cho thuê dài hạn bất động sản. Theo Thông tư số 200/2014/TT-BTC ngày 22 tháng 12 năm 2014 của Bộ Tài chính, trường hợp thời gian cho thuê chiếm trên 90% thời gian sử dụng hữu ích của tài sản, toàn bộ số tiền cho thuê nhận trước được ghi nhận doanh thu một lần nếu thỏa mãn động thời các điều kiện sau:
+
+Bên đi thuê không có quyền hủy ngang hợp đồng thuê và doanh nghiệp cho thuê không có nghĩa vụ phải trả lại số tiền đã nhận trước trong mọi trường hợp và dưới mọi hình thức;
+
+Số tiền nhận trước từ việc cho thuê không nhỏ hơn 90% tổng số tiền cho thuê dự kiến thu được theo hợp đồng thuê trong suốt thời hạn cho thuê và bên đi thuê phải thanh toán toàn bổ số tiền thuê trong vòng 12 tháng kể từ thời điểm khởi đầu thuê tài sản;
+
+Hầu như toàn bộ rủi ro và lợi ích gần liền với quyền sở hữu tài sản thuê đã chuyển giao cho bên đi thuê; và
+
+Doanh nghiệp cho thuê phải ước tính được tương đối đầy đủ giá vốn của hoạt động cho thuê.
+
+Doanh thu bán lô đất và đất đã xây dựng cơ sở hạ tầng
+
+Doanh thu bán lô đất và đất đã xây dựng cơ sở hạ tầng được xác định là tổng số tiền được nhận khi đất và đất đã xây dựng cơ sở hạ tầng được bàn giao cho khách hàng.
+
+Doanh thu cung cấp dịch vụ môi giới bắt động sản và dịch vụ khác
+
+Doanh thu được ghi nhận khi hoàn thành việc cung cấp dịch vụ.
+
+Tiền lãi
+
+Tiền lãi được ghi nhận khi phát sinh trên cơ sở đồn tích (có tính đến lợi tức mà tài sản đem lại) trừ khi khả năng thu hồi tiền lãi không chắc chắn.
+
+Cô tức
+
+Cổ tức được ghi nhận khi quyền được nhận khoản thanh toán cổ tức của Tập đoàn được xác lập.
+
+Tiền cho thuê
+
+Thu nhập từ tiền cho thuê tài sản theo hợp đồng thuê hoạt động được hạch toán vào kết quả hoạt động kinh doanh hợp nhất theo phương pháp đường thẳng trong suốt thời gian cho thuê.
+
+21
+
+===== PAGE 24 =====
+Công ty Cổ phần Địa ốc Sài Gòn Thương Tín
+
+B09-DN/HN
+
+THUYÊT MINH BẢO CẢO TÀI CHÍNH HỢP NHẮT (tiếp theo)
+vào ngày 31 tháng 12 năm 2019 và cho năm tài chính kết thúc cứng ngày
+
+3. TÓM TẮT CÁC CHÍNH SÁCH KẾ TOÁN CHỦ YẾU (tiếp theo)
+
+3.18 Thuế
+
+Thuế thu nhập hiện hành
+
+Tại sản thuế thu nhập và thuế thu nhập phải nộp cho năm hiện hành và các năm trước được xác định bằng số tiền dự kiến được thu hồi từ hoặc phải nộp cho cơ quan thuế, dựa trên các mức thuế suất và các luật thuế có hiệu lực đến ngày kết thúc ký kế toán năm.
+
+Thuế thu nhập hiện hành được ghi nhận vào bảo cáo kết quả hoạt động kinh doanh hợp nhất ngoại trừ trường hợp thuế thu nhập phát sinh liên quan đến một khoản mục được ghi thẳng vào vốn chủ sở hữu, trong trường hợp này, thuế thu nhập hiện hành cũng được ghi nhận trực tiếp vào vốn chủ sở hữu.
+
+Tập đoàn chỉ được bù trừ các tải sản thuế thu nhập hiện hành và thuế thu nhập hiện hành phải nộp khi Tập đoàn có quyền hợp pháp được bù trừ giữa tải sản thuế thu nhập hiện hành với thuế thu nhập hiện hành phải nộp và Tập đoàn dự định thanh toán thuế thu nhập hiện hành phải nộp và tài sản thuế thu nhập hiện hành trên cơ sở thuần.
+
+Thuế thu nhập hoãn lại
+
+Thuế thu nhập hoãn lại được xác định cho các khoản chênh lệch tam thời tại ngày kết thúc ký kế toán năm giữa cơ sở tính thuế thu nhập của các tài sản và nợ phải trả và giá trị ghi sổ của chúng cho mục đích lập bảo cáo tài chính hợp nhất.
+
+Thuế thu nhập hoãn lại phải trả được ghi nhận cho tất cả các khoản chênh lệch tam thời chịu thuế, ngoại trừ thuế thu nhập hoãn lại phải trả phát sinh từ ghi nhận ban đầu của một tài sản hay nợ phải trả từ một giao dịch mà giao dịch này không có ảnh hưởng đến lợi nhuận kê toán hoặc lợi nhuận tính thuế thu nhập (hoặc lỗ tính thuế) tại thời điểm phát sinh giao dịch.
+
+Tài sản thuế thu nhập hoãn lại cần được ghi nhận cho tất cả các chênh lệch tam thời được khấu trừ, giá trị được khấu trừ chuyển sang các năm sau của các khoản lỗ tính thuế và các khoản ưu đãi thuế chưa sử dụng, khi chắc chắn trong tương lai sẽ có lợi nhuận tính thuế để sử dụng những chênh lệch tam thời được khấu trừ, các khoản lỗ tính thuế và các ưu đãi thuế chưa sử dụng này, ngoại trừ tài sản thuế hoãn lại phát sinh từ ghi nhận ban đầu của một tài sản hoặc nợ phải trả từ một giao dịch mà giao dịch này không có ảnh hưởng đến lợi nhuận kế toán hoặc lợi nhuận tính thuế thu nhập (hoặc lỗ tính thuế) tại thời điểm phát sinh giao dịch.
+
+Giá trị ghi số của tài sản thuế thu nhập doanh nghiệp hoãn lại phải được xem xét lại vào ngày kết thúc ký kế toán và phải giảm giá trị ghi số của tài sản thuế thu nhập hoãn lại đến mức bảo đảm chắc chắn có đủ lợi nhuận tỉnh thuế cho phép lợi ích của một phần hoặc toàn bộ tài sản thuế thu nhập hoãn lại được sử dụng. Các tài sản thuế thu nhập doanh nghiệp hoãn lai chưa được ghi nhận trước đây được xem xét lại vào ngày kết thúc ký kế toán năm và được ghi nhận khi chắc chắn có đủ lợi nhuận tỉnh thuế trong tương lai để có thể sử dụng các tài sản thuế thu nhập hoãn lai chưa ghi nhân này.
+
+Tài sản thuế thu nhập hoãn lại và thuế thu nhập hoãn lại phải trả được xác định theo thuê suất dự tính sẽ áp dụng cho năm tài chính khi tài sản được thu hồi hay nor phải trả được thanh toán, dựa trên các mức thuế suất và luật thuê có hiệu lực vào ngày kết thúc ký kế toàn năm.
+
+Thuế thu nhập hoãn lại được ghi nhận vào báo cáo kết quả hoạt động kinh doanh hợp nhất ngoại trừ trường hợp thuế thu nhập phát sinh liên quan đến một khoản mục được ghi thắng vào vốn chủ sở hữu, trong trường hợp này, thuế thu nhập hoãn lại cũng được ghi nhận trục tiếp vào vốn chủ sở hữu.
+
+Tập đoàn chỉ được bù trừ các tài sản thuế thu nhập hoãn lại và thuế thu nhập hoãn lại phải nộp khi Tập đoàn có quyền hợp pháp được bù trừ giữa tài sản thuế thu nhập hiện hành với thuế thu nhập hiện hành phải nộp và các tài sản thuế thu nhập hoãn lại và thuế thu nhập hoãn lại phải trả lien quản tới thuế thu nhập doanh nghiệp được quản lý bởi cũng một cơ quan thuế đối với cùng một đơn vị chịu thuế hoặc Tập đoàn dự định thanh toán thuế thu nhập hiện hành phải nộp và tài sản thuế thu nhập hiện hành trên cơ sở thuần hoặc thu hồi tài sản đồng thời với việc thanh toàn nợ phải trả trong từng kỹ tương lại khi các khoản trọng yếu của thuế thu nhập hoãn lại phải trả hoặc tài sản thuế thu nhập hoãn lại được thanh toán hoặc thu hồi.
+
+22
+
+===== PAGE 25 =====
+Công ty Cổ phần Địa ốc Sài Gòn Thương Tín
+
+B09-DN/HN
+
+THUYÊT MINH BẢO CẢO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+vảo ngày 31 tháng 12 năm 2019 và cho năm tài chính kết thúc cứng ngày
+
+3. TÓM TẮT CÁC CHÍNH SÁCH KẾ TOẤN CHỦ YẾU (tiếp theo)
+
+3.20 Các bên liên quan
+
+Các bên được coi là bên liên quan của Tập đoàn nếu một bên có khả năng, trực tiếp hoặc gián tiếp, kiểm soát bên kia hoặc gây ảnh hưởng đáng kể tới bên kia trong việc ra các quyết định tài chính và hoạt động, hoặc khi Tập đoàn và bên kia cũng chịu sự kiểm soát chung hoặc ảnh hưởng đáng kể chung. Các bên liên quan có thể là các công ty hoặc các cá nhân, bao gồm các thành viên mật thiết trong gia đình mật thiết của các cả nhân được coi là liên quan.
+
+3.21 Thông tin bộ phận
+
+Một bộ phận là một hợp phần có thể xác định riêng biệt được của Tập đoàn tham gia vào việc cung cấp các sản phẩm hoặc dịch vụ liên quan (bộ phận chia theo hoạt động kinh doanh), hoặc cung cấp sản phẩm hoặc dịch vụ trong một mới trường kinh tế cụ thể (bộ phận chia theo vùng địa lý), mỗi bộ phận này chịu rủi ro và thu được lợi ích khác biệt với các bộ phận khác. Hoat động kinh doanh bất động sản trong lãnh thổ Việt Nam chủ yếu tạo ra doanh thu và lợi nhuận cho Tập đoàn, trong khi các khoản doanh thu khác chiếm tỷ trọng nhỏ trong tổng doanh thu của Tập đoàn. Do đó, Ban Tổng Giám đốc Tập đoàn nhận định là Tập đoàn chỉ có một bộ phận theo hoạt động kinh doanh và khu vực địa lý. Theo đó, thông tin theo bộ phận không được trình bày.
+
+4. CÁC SỰ KIỆN QUAN TRỌNG TRONG NĂM
+
+4.1 Năm quyền kiểm soát và thanh lý trong Công ty Cổ phần Thương mại Hải Phòng Plaza ("HPP")
+
+Vào ngày 16 tháng 1 năm 2019, Tập đoàn đã hoàn tất việc nhận chuyển nhượng 91,00% vốn có phân tử các cổ đông của HPP, thông qua đó nằm quyền kiểm soát HPP kể từ ngày này.
+
+Sau đó, vào ngày 26 tháng 9 năm 2019, Tập đoàn đã hoàn thành việc chuyển nhượng toàn bộ cổ phần sở hữu tại HPP cho Công ty Trách nhiệm hữu hạn Đầu tư Bất động sản Doji Land với giá chuyển nhượng là 404.950.000.000 VND. Theo đó, số tiền lãi 51.000.820.412 VND từ việc chuyển nhượng này được ghi nhận vào doanh thu hoạt động tài chính trên bảo cáo kết quả hoạt động kinh doanh hợp nhất (Thuyết minh số 29.2).
+
+4.2 Năm quyền kiểm soát trong Công ty Cổ phần Thương Mại Nguyễn Kim Đà Nẵng trong năm 2018 ("NKĐN")
+
+Tái sản thuần của NKĐN tại ngày mua được ghi nhận trên báo cáo tài chính hợp nhất cho năm tài chính kết thúc ngày 31 tháng 12 năm 2018 dưa trên ước tỉnh tạm thời về giá trị hợp lý do Tập đoàn đang làm việc với đơn vị tư vấn độc lập đánh giá về giá trị của Đư án Cao Ofc Phúc hợp Charmington Tamashi Đà Nẵng tai Điện Biên Phù, phường Chính Giản, Quận Thanh Khê, Thành phố Đà Nẵng của NKĐN. Việc định giá này vấn chưa hoàn thành vào ngày bảo cáo tài chính hợp nhất cho năm tài chính kết thúc ngày 31 tháng 12 năm 2018 được phê duyệt phát hành.
+
+Vào tháng 12 năm 2019, việc đánh giá lại đã hoàn thành và giá trị hợp lý tại ngày mua của Dư án của NKĐN được đánh giá là 337.282.575.851 VND, giảm 12.230.227.869 VND so với giá trị hợp lý tam tính. Các dữ liệu tương ứng trên bảo cáo tài chính hợp nhất năm 2018 đã được điều chỉnh hồi tố. Theo đó, thuế hoàn lại phải trả đã giảm xuống 4.178.100.000 VND và lợi ích của cổ đông không kiểm soát đã tăng lên 351.748.551 VND. Bất lợi thương mại cũng giảm đi tương ứng là 17.064.148.551 VND, dẫn đến tổng giá trị bất lợi thương mại phát sinh từ nghiệp vụ mua là 6.930.827.300 VND. (Thuyết minh số 38)
+
+23
+
+===== PAGE 26 =====
+Công ty Cổ phần Địa ốc Sài Gòn Thương Tín
+
+B09-DN/HN
+
+THUYẾT MINH BẢO CẢO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+
+vào ngày 31 tháng 12 năm 2019 và cho năm tái chính kết thúc cùng ngày
+
+4. CÁC SỰ KIỆN QUAN TRỌNG TRONG NĂM (tiếp theo)
+
+4.3 Chuyên nhượng có phần trong Công ty Cổ phần Khu Công nghiệp Thành Thành Công ("TTC IZ")
+
+Váo ngày 19 tháng 12 năm 2019, Tập Đoàn đã hoàn thành việc chuyển nhượng 10.000.000 cổ phần tương ứng 20% của TTC IZ cho Công ty Trách nhiệm hữu hạn Một thành viên Bất động sản Minh Anh ("Minh Anh"), bên liên quan với tổng giá phí chuyển nhượng là 270.000.000.000 VND. Khoản lãi từ giao dịch chuyển nhượng này đã được ghi nhận vào báo cáo kết quả kinh doanh hợp nhất. Theo đó, TTC IZ không còn là công ty liên kết của Công ty kể từ ngày này. (Thuyết minh số 17.1 và 29.2)
+
+4.4 Chuyển nhượng cổ phần trong Công ty Cổ phần Bao bi và Kho bãi Bình Tây ("Công ty Bình Tây")
+
+Váo ngày 22 tháng 11 năm 2019, Tập Đoàn đã hoàn thành việc chuyển nhượng 2.985.820 cổ phần của Công ty Cổ phần Bao bl và Kho bãi Bình Tây cho ông Nguyễn Hữu Đạt, cá nhân liên quan với tổng giá phí chuyển nhượng là 59.716.400.000 VND. Khoản lãi từ giao dịch chuyển nhượng này đã được ghi nhận trên báo cáo kết quả kinh doanh hợp nhất. Theo đó, Công ty Bình Tây không còn là công ty liên kết của Công ty kể từ ngày này. (Thuyết minh số 17.1 và 29.2)
+
+5. TIÊN VÀ CÁC KHOẢN TƯƠNG ĐƯƠNG TIÊN
+
+<table><tr><td></td><td>Số cuối năm</td><td>VND Số đầu năm</td></tr><tr><td>Tiền mặt</td><td>153.245.550</td><td>116.754.251</td></tr><tr><td>Tiền gửi ngân hàng</td><td>61.057.685.234</td><td>141.930.253.621</td></tr><tr><td>Các khoản tương đương tiền (*)</td><td>22.327.152.266</td><td>16.197.571.683</td></tr><tr><td>TỔNG CỘNG</td><td>83.538.083.050</td><td>158.244.579.555</td></tr></table>
+
+(*) Các khoản tương đương tiền thể hiện các khoản tiền gửi tại các ngân hàng thương mại có kỳ hạn gốc dưới ba (3) tháng và hưởng lãi suất dao động từ 4,8%/năm đến 5,5%/năm.
+
+Các khoản tương đương tiền này đã được thế chấp để đảm bảo cho khoản vay tại các ngân hàng (Thuyết minh số 25).
+
+6. ĐẦU TƯ NĂM GIỮ ĐẾN NGÀY ĐẢO HẠN
+
+Số dư này thể hiện các khoản tiền gửi có kỳ hạn gốc trên ba (3) tháng và kỳ hạn còn lại trên ba (3) tháng đến mươi hai (12) tháng tại các ngân hàng thương mại và hưởng lãi suất đạo đóng từ 6,5%/năm đến 7,2%/năm.
+
+Một số các khoản đầu tư nằm giữ đến ngày đáo hạn với tổng giá trị là 100.501.261.233 VND đã được dùng làm tài sản thể chấp cho các khoản vay tại chính các ngân hàng thương mại này (Thuyết minh số 25).
+
+24
+
+===== PAGE 27 =====
+Công ty Cổ phần Địa ốc Sài Gòn Thương Tín
+
+B09-DN/HN
+
+THUYẾT MINH BẢO CẢO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+
+vào ngày 31 tháng 12 năm 2019 và cho năm tài chính kết thúc cũng ngày
+
+7. PHẢI THU KHÁCH HÀNG NGÁN HẠN
+
+<table><tr><td></td><td>Số cuối năm</td><td>VND Số đầu năm (Trình bày lại – Thuyết minh số 38)</td></tr><tr><td>Phải thu các bên liên quan (Thuyết minh số 35)</td><td>322.076.095.923</td><td>213.260.194.446</td></tr><tr><td>Phải thu các bên khác (*)</td><td>233.886.325.235</td><td>302.900.254.174</td></tr><tr><td>TỔNG CỘNG</td><td>555.962.421.158</td><td>516.160.448.620</td></tr><tr><td>Dự phòng phải thu khách hàng khó đòi</td><td>(89.225.518)</td><td>(89.225.518)</td></tr><tr><td>GIẢ TRI THUẢN</td><td>555.873.195.640</td><td>516.071.223.102</td></tr></table>
+
+(*) Số dư này chủ yếu thể hiện các khoản phải thu tương ứng với 5% giá trị hợp đồng của những nhà phố và căn hộ đã bản giao.
+
+Một số khoản phải thu ngắn hạn của khách hàng được dùng làm tài sản thế chấp cho các khoản vay tại các ngân hàng thương mại (Thuyết minh số 25).
+
+8. TRÀ TRƯỚC CHO NGƯỜI BÁN NGẮN HẠN
+
+<table><tr><td></td><td>Số cuối năm</td><td>VND Số đầu năm</td></tr><tr><td>Trả trước cho người bán</td><td>1.244.032.211.492</td><td>1.302.677.686.226</td></tr><tr><td>- Công ty Cổ phần Đầu tư Tấn Hưng (*)</td><td>522.000.000.000</td><td>522.000.000.000</td></tr><tr><td>- Công ty TNHH Đầu tư Sabeco Hiệp Phúc (**)</td><td>237.086.352.345</td><td>167.528.125.754</td></tr><tr><td>- Công ty Cổ phần Thương mại Xây dựng Dịch vụ Phúc Bảo Minh (*)</td><td>181.056.244.072</td><td>105.000.000.000</td></tr><tr><td>- Lê Thị Giàu (*)</td><td>128.000.000.000</td><td>30.000.000.000</td></tr><tr><td>- Công ty Xây Dụng Á Đông</td><td>-</td><td>36.219.590.000</td></tr><tr><td>- Công ty Cổ phần Địa ốc A.C.B</td><td>-</td><td>126.000.000.000</td></tr><tr><td>- Khác</td><td>175.889.615.075</td><td>315.929.970.472</td></tr><tr><td>Trả trước cho các bên liên quan(Thuyết minh số 35)</td><td>108.740.000.000</td><td>28.878.792.535</td></tr><tr><td>TỔNG CỘNG</td><td>1.352.772.211.492</td><td>1.331.556.478.761</td></tr><tr><td>Dự phòng trả trước cho người bán khô đời</td><td>-</td><td>(36.219.590.000)</td></tr><tr><td>GIÁ TRỊ THUẢN</td><td>1.352.772.211.492</td><td>1.295.336.888.761</td></tr></table>
+
+(*) Các số dư này thể hiện các khoản trả trước cho người bán theo các hợp đồng chuyển nhượng để nhận chuyển nhượng quyền sử dụng đất và tài sản gắn liền với đất hình thành trong tương lai. Vào ngày của Báo cáo tài chính này, các dư án đang trong quá trình thẩm định và đến bù giải phóng mật bằng.
+
+(**) Số dư này thể hiện khoản ứng trước theo các Thỏa thuân Nguyên tắc để mua sản phẩm hình thành trong tương lai đối với 90% tổng số lượng sản phẩm của dự án Charmington Iris, toa lac tại 76 Tôn Thất Thuyết, Phường 16, Quận 4, Thành Phó Hồ Chí Minh.
+
+25
+
+===== PAGE 28 =====
+Công ty Cổ phần Địa ốc Sài Gòn Thương Tín
+
+B09-DN/HN
+
+THUYÊT MINH BẢO CẢO TẢI CHÍNH HỢP NHẮT (tiếp theo)
+
+vào ngày 31 tháng 12 năm 2019 và cho năm tài chính kết thúc cũng ngày
+
+9. PHÁI THU VỀ CHO VAY
+
+<table><tr><td></td><td>Số cuối năm</td><td>VND Số đầu năm</td></tr><tr><td>Ngắn hạn</td><td>2.089.640.340.332</td><td>2.058.149.244.445</td></tr><tr><td>Cho vay bên liên quan (Thuyết minh số 35)</td><td>1.887.455.340.332</td><td>1.823.699.244.445</td></tr><tr><td>Cho vay bên khác</td><td>202.185.000.000</td><td>234.450.000.000</td></tr><tr><td>Dải hạn</td><td>616.666.659</td><td>19.878.063.938</td></tr><tr><td>Cho vay bên liên quan (Thuyết minh số 35)</td><td>616.666.659</td><td>19.878.063.938</td></tr><tr><td>TỔNG CỘNG</td><td>2.090.257.006.991</td><td>2.078.027.308.383</td></tr><tr><td>Dự phòng phải thu về cho vay khó đòi</td><td>-</td><td>(50.000.000.000)</td></tr><tr><td>GIÁ TRỊ THUÀN</td><td>2.090.257.006.991</td><td>2.028.027.308.383</td></tr></table>
+
+Chi tiết các khoản phải thu về cho vay tín chấp nhằm mục đích tài trợ vốn lưu động như sau:
+
+<table><tr><td>Bên vay</td><td>Số cuối nămVND</td><td>Ngày đáo hạn</td><td>Lãi suất%/năm</td></tr></table>
+
+Cho vay ngân hạn bên liên quan
+
+<table><tr><td>Công ty Cổ phần May Tiến Phát</td><td>1.500.622.550.000</td><td>Từ ngày 18 tháng4 năm 2020 đếnngày 26 tháng 6năm 2020</td><td>6,0 - 10,5</td></tr><tr><td>Công ty Cổ phần Khu công nghiệp Thành Thành Công</td><td>120.000.000.000</td><td>Ngày 31 tháng 3năm 2020</td><td>11,0</td></tr><tr><td>Công ty Cổ phần Thành Thành Nam</td><td>88.500.000.000</td><td>Ngày 21 tháng12 năm 2020</td><td>12,0</td></tr><tr><td>Công ty Cổ phần Đầu tư Bất động sản 66</td><td>85.700.000.000</td><td>Ngày 29 tháng 6năm 2020</td><td>10,0</td></tr><tr><td>Huỳnh Thảo Linh</td><td>41.500.000.000</td><td>Ngày 4 tháng 7năm 2020</td><td>11,0</td></tr><tr><td>Công ty Cổ phần Đầu tư Thành Thành Công</td><td>16.616.000.000</td><td>Ngày 28 tháng12 năm 2020</td><td>9,0</td></tr><tr><td>Công ty Cổ phần Sản Xuất Xây Dương Dịch Vụ Hoa Đồng</td><td>14.328.000.000</td><td>Ngày 13 tháng12 năm 2020</td><td>10,5</td></tr><tr><td>Công ty Cổ phần Toàn Hải Văn</td><td>13.663.095.887</td><td>Ngày 28 tháng12 năm 2020</td><td>12,0</td></tr><tr><td>Công ty Cổ phần Đầu Tư Kiến Trúc Xây Dương Toàn Thịnh Phát</td><td>6.525.694.445</td><td>Ngày 30 tháng 6năm 2020</td><td>10,5</td></tr><tr><td>TỔNG CỘNG</td><td>1.887.455.340.332</td><td></td><td></td></tr></table>
+
+26
+
+===== PAGE 29 =====
+Công ty Cổ phần Địa ốc Sài Gòn Thương Tín
+
+B09-DN/HN
+
+THUYÊT MINH BÁO CÁO TÀI CHÍNH HỢP NHẮT (tiếp theo)
+
+vào ngày 31 tháng 12 năm 2019 và cho năm tài chính kết thúc cũng ngày
+
+9. PHẢI THU VỀ CHO VAY (tiếp theo)
+
+<table><tr><td>Bên vay</td><td>Số cuối nămVND</td><td>Ngày đảo hạn</td><td>Lãi suất%/năm</td></tr><tr><td colspan="4">Cho vay ngắn hạn bên khác</td></tr><tr><td>Công ty Cổ phần Thục phẩm CJ Cầu Tre</td><td>156.000.000.000</td><td>Ngày 15 tháng 11năm 2020</td><td>10,5</td></tr><tr><td>Công ty Cổ phần Đầu tư Phát Triển Tân Sơn Nhất</td><td>32.185.000.000</td><td>Ngày 27 tháng 11năm 2020</td><td>11,5 - 12,0</td></tr><tr><td>Đăng Nhân Dung</td><td>14.000.000.000</td><td>Ngày 20 tháng 3năm 2020</td><td>10,5</td></tr><tr><td>TỔNG CỘNG</td><td>202.185.000.000</td><td></td><td></td></tr><tr><td colspan="4">Cho vay dài hạn bên liên quan</td></tr><tr><td>Trần Lam Thông</td><td>616.666.659</td><td>Ngày 9 tháng 1năm 2023</td><td>10,5</td></tr></table>
+
+10. CÁC KHOÀN PHẢI THU KHÁC
+
+<table><tr><td></td><td>Số cuối năm</td><td>VND Số đầu năm (Trình bày lại – Thuyết minh số 38)</td></tr><tr><td>Ngắn hạn</td><td>610.111.667.010</td><td>482.612.741.693</td></tr><tr><td>Phải thu lãi cho vay và cổ tức</td><td>263.909.943.752</td><td>122.573.871.150</td></tr><tr><td>Tam ứng cho nhân viên phục vụ công tác đến bù đất</td><td>129.760.272.596</td><td>117.571.685.880</td></tr><tr><td>Phải thu liên quan đến hợp đồng chuyển nhượng quyền chọn mua sán phẩm</td><td>97.264.200.000</td><td>-</td></tr><tr><td>Trả trước thuế thu nhập doanh nghiệp theo tiến độ thanh toán của khách hàng (i)</td><td>17.218.104.414</td><td>16.298.528.906</td></tr><tr><td>Phải thu từ các hợp đồng hợp tác kinh doanh (&quot;HDHTKD&quot;)</td><td>8.387.173.667</td><td>8.387.173.667</td></tr><tr><td>Kỳ cược, ký quỹ</td><td>57.413.000.000</td><td>5.005.000.000</td></tr><tr><td>Ứng trước mua cổ phần</td><td>-</td><td>200.000.000.000</td></tr><tr><td>Khác</td><td>36.158.972.581</td><td>12.776.482.090</td></tr><tr><td>Dài hạn</td><td>328.300.721.858</td><td>330.207.867.448</td></tr><tr><td>Phải thu từ các HDHTKD (ii)</td><td>275.547.794.198</td><td>275.068.590.788</td></tr><tr><td>Đặt cọc để thực hiện dự án (iii)</td><td>42.000.000.000</td><td>42.000.000.000</td></tr><tr><td>Kỳ cược, ký quỹ</td><td>10.751.927.660</td><td>11.638.276.660</td></tr><tr><td>Khác</td><td>1.000.000</td><td>1.501.000.000</td></tr><tr><td>TỔNG CỘNG</td><td>938.412.388.868</td><td>812.820.609.141</td></tr><tr><td>Trong đó:</td><td></td><td></td></tr><tr><td>Phải thu các bên liên quan (Thuyết minh số 35)</td><td>633.879.660.260</td><td>589.056.501.478</td></tr><tr><td>Phải thu các bên khác</td><td>304.532.728.608</td><td>223.764.107.663</td></tr></table>
+
+27
+
+===== PAGE 30 =====
+Công ty Cổ phần Địa ốc Sài Gòn Thương Tín
+
+B09-DN/HN
+
+THUYÊT MINH BẢO CẢO TÀI CHÍNH HỢP NHẮT (tiếp theo)
+
+vào ngày 31 tháng 12 năm 2019 và cho năm tài chính kết thúc cùng ngày
+
+10. CÁC KHOÀN PHẢI THU KHÁC (tiếp theo)
+
+(i) Theo Thông tư số 96/2015/TT-BTC do Bộ Tài chính ban hành ngày 22 tháng 6 năm 2015 hướng dẫn thi hành một số điều của Luật thuế thu nhập Doanh nghiệp. Tập đoàn thực hiện kê khai và tạm nộp thuế thu nhập doanh nghiệp theo tỷ lệ 1% trên doanh thu được tiền trong năm của các hợp đồng mua bán cân hộ, nhà phố và biệt thụ.
+
+(ii) Số dư này chủ yếu thể hiện phần đầu tư vào HĐHTKD với Công ty TNHH Sản xuất Kinh doanh Hai Thành ("Hai Thành") để phát triển dự án bất động sản. Theo HĐHTKD, Tập đoàn sẽ nhận lại các căn hộ hoặc quyền sử dụng đất khi Hai Thành hoàn thành dự án này. Vào ngày 31 tháng 12 năm 2019, các dự án này đã hoàn thành và đang trong quá trình quyết toàn.
+
+(iii) Số dư này thể hiện khoản đặt cọc theo HĐHTKD với Công ty Cổ phần Đầu tư và Vận tải Việt Nam trong năm 2012 để thực hiện dự án Charmington LaPointe trên quy mô diện tích 5.055,1 hecta tại Quân 10, Thành Phố Hồ Chí Minh. Vào ngày 31 tháng 12 năm 2019, dự án này đã hoàn thiện đưa vào cho thuê và bản giao cho khách hàng
+
+11. HÀNG TÔN KHO
+
+<table><tr><td></td><td>Số cuối năm</td><td>VND Số đầu năm (Trình bày lại – Thuyết minh số 38)</td></tr><tr><td>Bất động sản dở dang</td><td>4.145.164.001.718</td><td>4.282.920.694.202</td></tr><tr><td>- Dư án Jamona City (*)</td><td>1.954.113.327.359</td><td>2.083.461.328.838</td></tr><tr><td>- Dư án Charmington Plaza</td><td>572.646.682.502</td><td>563.100.807.666</td></tr><tr><td>- Dư án Charmington Tamashi Đà Nẵng</td><td>463.327.030.047</td><td>434.180.925.672</td></tr><tr><td>- Dư án Carillon 7 (*)</td><td>404.857.644.504</td><td>137.152.575.084</td></tr><tr><td>- Dư án Jamona Home Resort</td><td>286.064.356.692</td><td>359.483.252.300</td></tr><tr><td>- Dư án Jamona Cầu Tre</td><td>196.498.309.169</td><td>196.678.309.168</td></tr><tr><td>- Dư án Hung Điền – Tân Hưng Quận 8 (*)</td><td>73.291.340.187</td><td>2.721.249.139</td></tr><tr><td>- Dư án TTC Plaza Đức Trọng</td><td>55.294.713.124</td><td>5.138.024.409</td></tr><tr><td>- Dư án Thanh Đa</td><td>35.331.091.935</td><td>34.986.908.935</td></tr><tr><td>- Khu dân cư Phú Hữu Quận 9</td><td>21.776.603.921</td><td>21.776.603.921</td></tr><tr><td>- Dư án Carillon 5</td><td>17.940.886.016</td><td>45.559.584.658</td></tr><tr><td>- Dư án Charmington La Pointe (i)</td><td>9.281.286.495</td><td>52.672.780.469</td></tr><tr><td>- Dư án Phong Điền Phước Dân</td><td>4.358.338.675</td><td>4.358.338.675</td></tr><tr><td>- Dư án Jamona Golden Silk</td><td>4.219.033.304</td><td>590.767.497</td></tr><tr><td>- Dư án Sacomreal Plaza (*)</td><td>-</td><td>188.571.232.924</td></tr><tr><td>- Dư án Jamona Heights</td><td>-</td><td>131.009.248.506</td></tr><tr><td>- Các dự án khác</td><td>46.163.357.788</td><td>21.478.756.341</td></tr><tr><td>Hàng hóa bất động sản</td><td>13.906.041.451</td><td>12.945.813.379</td></tr><tr><td>Nguyên vất liệu</td><td>293.840.627</td><td>906.283.726</td></tr><tr><td>Hàng hóa</td><td>113.660.002</td><td>-</td></tr><tr><td>Công cụ và dụng cụ</td><td>59.966.364</td><td>215.689.182</td></tr><tr><td>TỔNG CỘNG</td><td>4.159.537.510.162</td><td>4.296.988.480.489</td></tr><tr><td>Dư phòng giảm giả hàng tồn kho</td><td>-</td><td>(5.701.760.000)</td></tr><tr><td>GIÁ TRỊ THUẢN</td><td>4.159.537.510.162</td><td>4.291.286.720.489</td></tr></table>
+
+28
+
+===== PAGE 31 =====
+Công ty Cổ phần Địa ốc Sài Gòn Thương Tín
+
+B09-DN/HN
+
+THUYÊT MINH BẢO CẢO TẢI CHÍNH HỢP NHẤT (tiếp theo)
+
+vào ngày 31 tháng 12 năm 2019 và cho năm tài chính kết thúc cũng ngày
+
+11. HÀNG TÔN KHO (tiếp theo)
+
+Quyền sử dụng đất, quyền sở hữu nhà ở và tài sản khác gần liên với các dự án được dùng làm tài sản thể chấp cho các khoản vay dài hạn ngân hàng và trái phiếu phát hành (Thuyết minh số 25.2 và 25.3).
+
+(*) Chi phí lãi vay vốn hóa
+
+Trong năm, Tập đoàn đã vốn hóa chi phí lãi vay với tổng số tiền là 89.594.050.471 VND vào bất động sản dở dang (cho năm tài chính kết thúc ngày 31 tháng 12 năm 2018: 79.566.261.444 VND). Các khoản chi phí đi vay này liên quan đến các khoản vay nhằm tài trợ cho việc xây dựng và phát triển các dự án bất động sản đang triển khai của Tập đoàn.
+
+(i) Số dư này thể hiện các chi phí đã phát sinh liên quan đến việc hợp tác với Công ty Cổ phần Đầu tư Vận tải Việt Nam ("VITC") để phát triển dự án Charmington La Pointe tọa lạc tại số 181 Cao Thắng, Phường 12, Quán 10, Thành phố Hồ Chí Minh. Theo Hợp đồng Hợp tác Kinh doanh, Tập đoàn có quyền chủ động trong mọi hoạt động phát triển của dự án, đồng thời có nghĩa vụ thanh toán các khoản tiền thuê đất và lợi nhuận cố định cho VITC. Vào ngày của báo cáo tài chính hợp nhất này, dự án đang trong quá trình hoàn thiện và cho thuê dài hạn.
+
+12. CHI PHÍ TRÁ TRƯỚC
+
+<table><tr><td></td><td>Số cuối năm</td><td>VND Số đầu năm (Trình bày lại – Thuyết minh số 38)</td></tr><tr><td>Ngắn hạn</td><td>1.221.307.716</td><td>3.031.331.306</td></tr><tr><td>Công cụ, dụng cụ</td><td>80.257.544</td><td>523.969.305</td></tr><tr><td>Khác</td><td>1.141.050.172</td><td>2.507.362.001</td></tr><tr><td>Dải hạn</td><td>288.066.771.215</td><td>268.363.142.685</td></tr><tr><td>Chi phí hoa hồng môi giới</td><td>269.708.359.257</td><td>243.983.045.942</td></tr><tr><td>Công cụ, dụng cụ</td><td>17.202.197.097</td><td>24.380.096.743</td></tr><tr><td>Khác</td><td>1.156.214.861</td><td>-</td></tr><tr><td>TỔNG CỘNG</td><td>289.288.078.931</td><td>271.394.473.991</td></tr></table>
+
+29
+
+===== PAGE 32 =====
+Công ty Cổ phần Địa ốc Sài Gòn Thương Tín
+
+THUYẾT MINH BẢO CẢO TÀI CHÍNH HỢP NHẮT (tiếp theo)
+vảo ngày 31 tháng 12 năm 2019 và cho năm tài chính kết thúc cùng ngày
+
+13. TÀI SẢN CÓ ĐỊNH HỮU HÌNH
+
+B09-DN/HN
+
+<table><tr><td></td><td>Nhà cửa,vật kiến trúc</td><td>Máy mócvà thiết bị</td><td>Phương tiệnvận chuyển</td><td>Thiết bịvăn phòng</td><td>VNDTổng cộng</td></tr><tr><td colspan="6">Nguyên giá:</td></tr><tr><td>Số đầu năm</td><td>249.090.909</td><td>1.270.825.997</td><td>11.190.531.998</td><td>12.511.401.456</td><td>25.221.850.360</td></tr><tr><td>Mua mới</td><td>-</td><td>165.970.990</td><td>1.291.501.909</td><td>622.410.000</td><td>2.079.882.899</td></tr><tr><td>Thanh lý</td><td>-</td><td>(104.727.274)</td><td>(11.191.202.998)</td><td>(226.958.760)</td><td>(11.522.889.032)</td></tr><tr><td>Giảm khác</td><td>-</td><td>-</td><td>-</td><td>(38.237.749)</td><td>(38.237.749)</td></tr><tr><td>Số cuối năm</td><td>249.090.909</td><td>1.332.069.713</td><td>1.290.830.909</td><td>12.868.614.947</td><td>15.740.606.478</td></tr><tr><td>Trong đó:Dã khấu hao hết</td><td>-</td><td>1.023.943.943</td><td>1.290.830.909</td><td>6.343.167.205</td><td>8.657.942.057</td></tr><tr><td colspan="6">Giá trị khấu hao lũy kế:</td></tr><tr><td>Số đầu năm</td><td>(145.303.032)</td><td>(1.142.892.617)</td><td>(2.604.798.817)</td><td>(8.105.671.230)</td><td>(11.998.665.696)</td></tr><tr><td>Khẩu hao trong năm</td><td>(41.515.152)</td><td>(51.233.949)</td><td>(1.533.166.365)</td><td>(1.283.790.336)</td><td>(2.909.705.802)</td></tr><tr><td>Thanh lý</td><td>-</td><td>34.909.052</td><td>3.819.114.326</td><td>122.142.066</td><td>3.976.165.444</td></tr><tr><td>Số cuối năm</td><td>(186.818.184)</td><td>(1.159.217.514)</td><td>(318.850.856)</td><td>(9.267.319.500)</td><td>(10.932.206.054)</td></tr><tr><td colspan="6">Giá trị còn lại:</td></tr><tr><td>Số đầu năm</td><td>103.787.877</td><td>127.933.380</td><td>8.585.733.181</td><td>4.405.730.226</td><td>13.223.184.664</td></tr><tr><td>Số cuối năm</td><td>62.272.725</td><td>172.852.199</td><td>971.980.053</td><td>3.601.295.447</td><td>4.808.400.424</td></tr></table>
+
+30
+
+===== PAGE 33 =====
+Công ty Cổ phần Địa Оc Sài Gòn Thương Tín
+
+THUYẾT MINH BẢO CẢO TÀI CHÍNH HỢP NHẮT (tiếp theo)
+vào ngày 31 tháng 12 năm 2019 và cho năm tài chính kết thúc cùng ngày
+
+14. TÀI SẢN CỔ ĐỊNH VÔ HÌNH
+
+B09-DN/HN
+
+<table><tr><td>Quyền sử dụng đất</td><td>Phần mềm vi tính</td><td>Tải sản khác</td><td>VND Tổng cộng</td></tr><tr><td>209.602.614.181</td><td>5.090.745.880</td><td>2.508.310.000</td><td>217.201.670.061</td></tr><tr><td>-</td><td>8.398.202.316</td><td>37.500.000</td><td>8.435.702.316</td></tr><tr><td>-</td><td>303.572.500</td><td>67.281.818</td><td>370.854.318</td></tr><tr><td>209.602.614.181</td><td>13.792.520.696</td><td>2.613.091.818</td><td>226.008.226.695</td></tr><tr><td>-</td><td>3.615.508.880</td><td>494.900.000</td><td>4.110.408.880</td></tr><tr><td>(7.572.195.173)</td><td>(4.134.710.261)</td><td>(1.083.133.836)</td><td>(12.790.039.270)</td></tr><tr><td>(3.684.959.820)</td><td>(876.118.945)</td><td>(370.054.835)</td><td>(4.931.133.600)</td></tr><tr><td>(11.257.154.993)</td><td>(5.010.829.206)</td><td>(1.453.188.671)</td><td>(17.721.172.870)</td></tr><tr><td>202.030.419.008</td><td>956.035.619</td><td>1.425.176.164</td><td>204.411.630.791</td></tr><tr><td>198.345.459.188</td><td>8.781.691.490</td><td>1.159.903.147</td><td>208.287.053.825</td></tr><tr><td>90.175.781.818</td><td>-</td><td>-</td><td>90.175.781.818</td></tr></table>
+
+31
+
+===== PAGE 34 =====
+Công ty Cổ phần Địa Оc Sài Gòn Thương Tín
+
+B09-DN/HN
+
+THUYÊT MINH BẢO CẢO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+
+vào ngày 31 tháng 12 năm 2019 và cho năm tài chính kết thúc cùng ngày
+
+15. BÁT ĐỘNG SẢN ĐẦU TƯ
+
+<table><tr><td></td><td>VNDNhà cửa,vật kiến trúc</td></tr><tr><td colspan="2">Nguyên giá:</td></tr><tr><td>Số đầu năm</td><td>272.329.811.591</td></tr><tr><td>Đầu tư xây dựng cơ bản hoàn thành</td><td>304.478.893.365</td></tr><tr><td>Tăng trong năm</td><td>36.303.853.748</td></tr><tr><td>Thanh lý</td><td>(36.355.542.089)</td></tr><tr><td>Số cuối năm</td><td>576.757.016.615</td></tr><tr><td colspan="2">Giá trị khấu hao lũy kế:</td></tr><tr><td>Số đầu năm</td><td>(6.198.069.745)</td></tr><tr><td>Khấu hao trong năm</td><td>(13.624.878.091)</td></tr><tr><td>Thanh lý</td><td>428.190.603</td></tr><tr><td>Số cuối năm</td><td>(19.394.757.233)</td></tr><tr><td colspan="2">Giá trị còn lại:</td></tr><tr><td>Số đầu năm</td><td>266.131.741.846</td></tr><tr><td>Số cuối năm</td><td>557.362.259.382</td></tr></table>
+
+Thuyết minh bổ sung:
+
+Các khoản doanh thu cho thuê và chi phí hoạt động liên quan đến bắt động sản đầu tư được trình bày như sau:
+
+<table><tr><td></td><td>Năm nay</td><td>VNDNăm trước</td></tr><tr><td>Thu nhập từ cho thuê bất động sản đầu tư</td><td>43.478.588.322</td><td>17.132.704.112</td></tr><tr><td>Chi phí hoạt động kinh doanh trực tiếp của các bất động sản đầu tư tạo thu nhập cho thuê trong năm</td><td>9.511.282.854</td><td>5.008.084.974</td></tr></table>
+
+Các khoản tiền thuê thu được hàng năm trong tương lai được trình bày trong Thuyết minh số 37.
+
+Giá trị hợp lý của bắt động sản đầu tư chưa được đánh giá và xác định một cách chính thức tại ngày 31 tháng 12 năm 2019. Tuy nhiên, dưa trên tỉnh hình cho thuê thực tế và giá thị trường của tài sản, Ban Tổng Giám đốc tin tưởng ràng giá trị hợp lý của tài sản đầu tư lớn hơn giá trị còn lại tại ngày này.
+
+32
+
+===== PAGE 35 =====
+Công ty Cổ phần Địa Оc Sài Gòn Thương Tín
+
+B09-DN/HN
+
+THUYÊT MINH BẢO CẢO TÀI CHÍNH HỢP NHẮT (tiếp theo)
+
+vào ngày 31 tháng 12 năm 2019 và cho năm tài chính kết thúc cũng ngày
+
+16. CHI PHÍ XÂY DỰNG CƠ BÁN DỒ DANG
+
+<table><tr><td></td><td>Số cuối năm</td><td>VND Số đầu năm</td></tr><tr><td>Phần mềm</td><td>1.166.136.600</td><td>5.141.052.246</td></tr><tr><td>Công trình đang xây dựng</td><td>469.543.040</td><td>17.332.425.011</td></tr><tr><td>TỔNG CỘNG</td><td>1.635.679.640</td><td>22.473.477.257</td></tr></table>
+
+17. ĐẦU TƯ TÀI CHÍNH DÀI HẠN
+
+<table><tr><td></td><td>Số cuối năm</td><td>VND Số đầu năm</td></tr><tr><td>Đầu tư vào công ty liên kết (Thuyết minh số 17.1)</td><td>145.907.427.496</td><td>602.809.149.959</td></tr><tr><td>Đầu tư dài hạn khác (Thuyết minh số 17.2)</td><td>259.841.636.000</td><td>42.475.000.000</td></tr><tr><td>TỔNG CỘNG</td><td>405.749.063.496</td><td>645.284.149.959</td></tr></table>
+
+33
+
+===== PAGE 36 =====
+Công ty Cổ phần Địa Оc Sài Gòn Thương Tín
+
+THUYẾT MINH BẢO CẢO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+vào ngày 31 tháng 12 năm 2019 và cho năm tài chính kết thúc cứng ngày
+
+17. ĐẦU TƯ TÀI CHÍNH DÀI HẠN (tiếp theo)
+
+17.1 Đầu tư vào các công ty liên kết
+
+<table><tr><td rowspan="2">Tên công ty liên kết</td><td rowspan="2">Tỉnh trạng</td><td rowspan="2">Lĩnh vực kinh doanh</td><td colspan="3">Ngày 31 tháng 12 năm 2019</td><td colspan="3">Ngày 31 tháng 12 năm 2018</td></tr><tr><td>Tỷ lệ sở hữu(%)</td><td>Quyền biểu quyết(%)</td><td>Giá gốc đầu tưVND</td><td>Tỷ lệ sở hữu(%)</td><td>Quyền biểu quyết(%)</td><td>Giá gốc đầu tưVND</td></tr><tr><td>Công ty Cổ phần Sản Xuất Xây Dung Dịch Vụ Hoa Đồng (&quot;Hoa Đồng&quot;) (i)</td><td>Đang hoạt động</td><td>Bắt đông sản và dịch vụ thương mại</td><td>49,00</td><td>49,00</td><td>68.600.497.157</td><td>-</td><td>-</td><td>-</td></tr><tr><td>Công ty Cổ phần May Tiến Phát (ii)</td><td>Đang hoạt động</td><td>Bắt đông sản và dịch vụ thương mại</td><td>12,09</td><td>(i)</td><td>43.893.399.717</td><td>12,09</td><td>(i)</td><td>53.479.112.916</td></tr><tr><td>Công ty Cổ phần Đầu tư Xây dung Idico Long An</td><td>Đang hoạt động</td><td>Bắt đông sản và dịch vụ thương mại</td><td>23,89</td><td>23,89</td><td>19.925.654.829</td><td>23,89</td><td>23,89</td><td>19.681.761.033</td></tr><tr><td>Công ty Cổ phần Đầu tư Địa ốc Kim Thành (iii)</td><td>Đang hoạt động</td><td>Bắt đông sản</td><td>60,00</td><td>(ii)</td><td>12.487.875.793</td><td>60,00</td><td>(ii)</td><td>12.201.637.751</td></tr><tr><td>Công ty Cổ phần Đầu tư SVG (iii)</td><td>Đang hoạt động</td><td>Sản xuất và xây dựng</td><td>50,00</td><td>(ii)</td><td>1.000.000.000</td><td>50,00</td><td>(ii)</td><td>1.000.000.000</td></tr><tr><td>Công ty Cổ phần Khu Công nghiệp Thành Thành Công (iv)</td><td>Đang hoạt động</td><td>Bắt đông sản</td><td>-</td><td>-</td><td>-</td><td>39,05</td><td>39,05</td><td>485.355.034.444</td></tr><tr><td>Công ty Cổ phần Bao bi và Kho bãi Bình Tây (v)</td><td>Đang hoạt động</td><td>Dịch vụ</td><td>-</td><td>-</td><td>-</td><td>21,33</td><td>21,33</td><td>31.091.603.815</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>145.907.427.496</td><td></td><td></td><td>602.809.149.959</td></tr></table>
+
+34
+
+===== PAGE 37 =====
+Công ty Cổ phần Địa Оc Sài Gòn Thương Tín
+
+B09-DN/HN
+
+THUYẾT MINH BẢO CẢO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+
+vào ngày 31 tháng 12 năm 2019 và cho năm tài chính kết thúc cùng ngày
+
+17. ĐẦU TƯ TÀI CHÍNH DÀI HẠN (tiếp theo)
+
+17.1 Đầu tư vào các công ty liên kết (tiếp theo)
+
+(i) Vào ngày 5 tháng 7 năm 2019, Tập đoàn đã hoàn thành việc mua 6.860.000 cổ phần tương ứng 49% quyền sở hữu trong Hoa Đồng từ ông Thái Văn Chuyện. Theo đó, Hoa Đồng trở thành công ty liên kết của Tập đoàn kể từ ngày này.
+
+(ii) Mặc đủ tỷ lệ sở hữu của Tập đoàn tại Công ty Cổ phần May Tiến Phát là 12,09%, Tập đoàn đã hạch toán khoản đầu tư này là khoản đầu tư vào công ty liên kết vì Tập đoàn có ảnh hưởng đăng kể đến các chính sách tài chính và hoạt động của công ty này.
+
+(iii) Mạc đủ tỷ lệ sở hữu của Tập đoàn trong Công ty Cổ phần Đầu tư Địa ốc Kim Thành và Công ty Cổ phần Đầu tư SVG lần lượt là 60% và 50%. Tuy nhiên, dưa trên các thỏa thuận của các cổ đông, quyền biểu quyết của Tập đoàn không tương ứng với tỷ lệ sở hữu và Tập đoàn không có quyền kiểm soát. Do đó, Tập đoàn đã phân loại các khoản đầu tư này như các khoản đầu tư vào các công ty liên kết trong bảo cáo tài chính hợp nhất.
+
+(iv) Váo ngày 19 tháng 12 năm 2019, Tập đoàn đã hoàn thành việc chuyển nhượng 10.000.000 cổ phần tương ứng 20% của TTC IZ cho Minh Anh. Theo đó, TTC IZ không còn là công ty liên kết của Công ty kể từ ngày này.
+
+(v) Vào ngày 22 tháng 11 năm 2019, Tập đoàn đã hoàn thành việc chuyển nhượng toàn bộ 2.985.820 cổ phần của Công ty Bình Tây cho ông Nguyễn Hữu Đạt. Theo đó, Công ty Bình Tây không còn là công ty liên kết của Công ty kể từ ngày này.
+
+Chi tiết giá trị khoản đầu tư vào các công ty liên kết này như sau
+
+<table><tr><td></td><td>Năm nay</td><td>VNDNăm trước</td></tr><tr><td colspan="3">Giá trị đầu tư</td></tr><tr><td>Số đầu năm</td><td>627.415.493.044</td><td>641.222.708.185</td></tr><tr><td>Tăng trong năm</td><td>68.600.000.000</td><td>-</td></tr><tr><td>Thanh lý trong năm</td><td>(522.703.444.137)</td><td>(13.807.215.141)</td></tr><tr><td>Số cuối năm</td><td>173.312.048.907</td><td>627.415.493.044</td></tr><tr><td colspan="3">Phần lũy kế lợi nhuận sau khi đầu tư vào công ty liên kết</td></tr><tr><td>Số đầu năm</td><td>(24.606.343.085)</td><td>5.957.880.612</td></tr><tr><td>Lợi nhuận từ các công ty liên kết</td><td>28.812.603.442</td><td>1.189.378.303</td></tr><tr><td>Thanh lý trong năm</td><td>(29.148.481.768)</td><td>-</td></tr><tr><td>Cổ tức được chia trong năm</td><td>(2.462.400.000)</td><td>(31.753.602.000)</td></tr><tr><td>Số cuối năm</td><td>(27.404.621.411)</td><td>(24.606.343.085)</td></tr><tr><td colspan="3">Giá trị đầu tư còn lại</td></tr><tr><td>Số đầu năm</td><td>602.809.149.959</td><td>647.180.588.797</td></tr><tr><td>Số cuối năm</td><td>145.907.427.496</td><td>602.809.149.959</td></tr></table>
+
+35
+
+===== PAGE 38 =====
+Công ty Cổ phần Địa Оc Sài Gòn Thương Tín
+
+B09-DN/HN
+
+THUYẾT MINH BẢO CẢO TẢI CHÍNH HỢP NHẤT (tiếp theo)
+
+váo ngày 31 tháng 12 năm 2019 và cho năm tài chính kết thúc cứng ngày
+
+17. ĐẦU TƯ TÀI CHÍNH DÀI HẠN (tiếp theo)
+
+17.2 Các khoản đầu tư tài chính khác
+
+<table><tr><td rowspan="2"></td><td colspan="3">Số cuối năm</td><td colspan="3">Số đầu năm</td></tr><tr><td>Số lượngcó phiếu</td><td>Giá gốc(VND)</td><td>Tỷ lệsở hữu(%)</td><td>Số lượngcó phiếu</td><td>Giá gốc(VND)</td><td>Tỷ lệsở hữu(%)</td></tr><tr><td rowspan="4">Công ty Cốphần Khu Côngnghiệp ThànhThành CôngCông ty Cổ phầnĐầu tư và Xâydung Công nghệmới Đại NamCông ty Cổ phầnĐầu tư Bắt độngsản 66Công ty Cổphần Đầu tưTin Việt (I)</td><td>9.527.468</td><td>257.241.636.000</td><td>19,05</td><td>-</td><td>-</td><td>-</td></tr><tr><td>100.000</td><td>1.000.000.000</td><td>3,17</td><td>100.000</td><td>1.000.000.000</td><td>3,17</td></tr><tr><td>160.000</td><td>1.600.000.000</td><td>7,40</td><td>160.000</td><td>1.600.000.000</td><td>7,40</td></tr><tr><td>-</td><td>-</td><td>-</td><td>3.625.000</td><td>39.875.000.000</td><td>9,13</td></tr><tr><td>TOTAL</td><td></td><td>259.841.636.000</td><td></td><td></td><td>42.475.000.000</td><td></td></tr></table>
+
+(i) Trong năm, Tập đoàn đã tiến hành thanh lý toàn bộ khoản đầu tư vào Công ty Cổ phần Đầu tư Tín Việt.
+
+36
+
+===== PAGE 39 =====
+Công ty Cổ phần Địa Óc Sài Gòn Thương Tín
+
+B09-DN/HN
+
+THUYẾT MINH BẢO CẢO TẢI CHÍNH HỢP NHẮT (tiếp theo)
+
+vào ngày 31 tháng 12 năm 2019 và cho năm tài chính kết thúc cứng ngày
+
+18. LỘI THẾ THƯƠNG MẠI
+
+<table><tr><td></td><td>Năm nay</td><td>VNDNăm trước</td></tr><tr><td colspan="3">Nguyên giá:</td></tr><tr><td>Số đầu năm</td><td>139.474.521.528</td><td>4.633.289.140</td></tr><tr><td>Phát sinh từ hợp nhất</td><td>-</td><td>134.841.232.388</td></tr><tr><td>Số cuối năm</td><td>139.474.521.528</td><td>139.474.521.528</td></tr><tr><td colspan="3">Giá trị hao mòn lũy kế:</td></tr><tr><td>Số đầu năm</td><td>(10.799.507.184)</td><td>(3.192.040.533)</td></tr><tr><td>Hao mòn trong năm</td><td>(14.059.966.814)</td><td>(7.607.466.651)</td></tr><tr><td>Số cuối năm</td><td>(24.859.473.998)</td><td>(10.799.507.184)</td></tr><tr><td colspan="3">Giá trị cón lại:</td></tr><tr><td>Số đầu năm</td><td>128.675.014.344</td><td>1.441.248.607</td></tr><tr><td>Số cuối năm</td><td>114.615.047.530</td><td>128.675.014.344</td></tr></table>
+
+19. PHÁI TRÁ NGƯỜI BÁN NGÁN HẠN
+
+<table><tr><td></td><td>Số suối năm</td><td>VND Số đầu năm</td></tr><tr><td>Phải trả bên khác:</td><td>132.777.624.590</td><td>197.660.936.505</td></tr><tr><td>- Công ty TNHH Đầu tư Xây dựng và Thương mại Thuận Việt</td><td>25.817.779.167</td><td>59.943.232.278</td></tr><tr><td>- Công ty TNHH MTV Xây dựng Bình Minh</td><td>19.548.328.056</td><td>-</td></tr><tr><td>- Ngân hàng TMCP Sài Gòn Thương Tín</td><td>-</td><td>31.900.000.000</td></tr><tr><td>- Khác</td><td>87.411.517.367</td><td>105.817.704.227</td></tr><tr><td>Phải trả bên liên quan (Thuyết minh số 35)</td><td>18.212.323.220</td><td>141.406.642.410</td></tr><tr><td>TỔNG CỘNG</td><td>150.989.947.810</td><td>339.067.578.915</td></tr></table>
+
+20. NGU'ÔI MUA TRÀ TIÊN TRƯỚC NGÁN HẠN
+
+<table><tr><td></td><td>Số suối năm</td><td>VND Số đầu năm</td></tr><tr><td>Phải trả bên khác (*)</td><td>1.212.292.240.528</td><td>1.627.457.389.846</td></tr><tr><td>Phải trả bên liên quan (Thuyết minh số 35)</td><td>19.002.583.642</td><td>20.490.760.303</td></tr><tr><td>TỔNG CỘNG</td><td>1.231.294.824.170</td><td>1.647.948.150.149</td></tr></table>
+
+(*) Đây là khoản nhận tạm ứng theo tiến độ hợp đồng từ khách hàng mua nhà và cần hồ thuộc các dự án đang được thi công xây dựng của Tập đoàn. Tập đoàn sẽ bản giao nhà và cần hộ cho khách hàng sau khi hoàn thành xây dựng và ghi nhận doanh thu tương ứng.
+
+37
+
+===== PAGE 40 =====
+Công ty Cổ phần Địa Оc Sài Gòn Thương Tín
+
+B09-DN/HN
+
+THUYẾT MINH BẢO CẢO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+
+vào ngày 31 tháng 12 năm 2019 và cho năm tài chính kết thúc cùng ngày
+
+21. THUÊ VÀ CÁC KHOÁN PHẢI NỘP NHÀ NƯỚC
+
+<table><tr><td></td><td>Số đầu năm</td><td>Tăng trong năm</td><td>Giảm trong năm</td><td>VND Số cuối năm</td></tr><tr><td>Thuế thu nhập doanh nghiệp</td><td>36.533.541.450</td><td>77.532.430.714</td><td>(31.394.565.299)</td><td>82.671.406.865</td></tr><tr><td>Thuế giá trị gia tăng</td><td>3.537.861.381</td><td>146.116.960.433</td><td>(143.077.124.572)</td><td>6.577.697.242</td></tr><tr><td>Tiền thuê đất</td><td>-</td><td>10.436.289.566</td><td>(8.272.250.366)</td><td>2.164.039.200</td></tr><tr><td>Thuế thu nhập cả nhân</td><td>3.856.524.895</td><td>19.856.766.720</td><td>(20.905.831.996)</td><td>2.807.459.619</td></tr><tr><td>Các loại thuế khác</td><td>-</td><td>130.432.419</td><td>(122.132.419)</td><td>8.300.000</td></tr><tr><td>TỔNG CỘNG</td><td>43.927.927.726</td><td>254.072.879.852</td><td>(203.771.904.652)</td><td>94.228.902.926</td></tr></table>
+
+22. CHI PHÍ PHÁI TRÀ
+
+<table><tr><td></td><td>Số cuối năm</td><td>VND Số đầu năm</td></tr><tr><td>Ngắn hạn</td><td>289.307.619.314</td><td>376.494.911.355</td></tr><tr><td>Chi phí xây dựng phải trả</td><td>197.009.309.229</td><td>252.622.127.197</td></tr><tr><td>Chi phí lãi vay</td><td>44.170.368.837</td><td>27.664.942.009</td></tr><tr><td>Chi phí bồi thường đất, thuê đất dự án Charmington Plaza</td><td>38.282.833.530</td><td>80.388.033.530</td></tr><tr><td>Chi phí môi giới</td><td>126.374.385</td><td>7.538.720.444</td></tr><tr><td>Khác</td><td>9.718.733.333</td><td>8.281.088.175</td></tr><tr><td>Dài hạn</td><td>135.775.179.400</td><td>97.276.987.691</td></tr><tr><td>Chi phí thuê đất thuộc dự án Charmington La Pointe (*)</td><td>135.775.179.400</td><td>97.276.987.691</td></tr><tr><td>TỔNG CÔNG</td><td>425.082.798.714</td><td>473.771.899.046</td></tr></table>
+
+(*) Số dư này thể hiện khoản trích trước chỉ phí thuê đất và lợi nhuận cố định theo HĐHTKD với Công ty Cổ phần Đầu tư và Vận tải Việt Nam liên quan đến phần dự án đã hoàn thành và đưa vào cho thuê.
+
+38
+
+===== PAGE 41 =====
+Công ty Cổ phần Địa Оc Sài Gòn Thương Tín
+
+B09-DN/HN
+
+THUYÊT MINH BẢO CẢO TẢI CHÍNH HỢP NHẮT (tiếp theo)
+
+vào ngáy 31 tháng 12 năm 2019 và cho năm tài chính kết thúc cùng ngày
+
+23. DOANH THU CHU'A THỰC HIỆN
+
+<table><tr><td></td><td>Số cuối năm</td><td>VND Số đầu năm</td></tr><tr><td>Ngắn hạn</td><td>79.960.193.351</td><td>44.021.432.943</td></tr><tr><td>Lợi nhuận chưa thực hiện (*)</td><td>19.639.326.311</td><td>31.120.642.975</td></tr><tr><td>Tiền cho thuê nhận trước</td><td>60.320.867.040</td><td>12.900.789.968</td></tr><tr><td>Dài hạn</td><td>38.328.609.409</td><td>38.525.760.000</td></tr><tr><td>Lợi nhuận chưa thực hiện (*)</td><td>38.328.609.409</td><td>38.525.760.000</td></tr><tr><td>TỔNG CỘNG</td><td>118.288.802.760</td><td>82.547.192.943</td></tr></table>
+
+(*) Số dư này thể hiện glà trị của khoản lợi nhuận mà Tập đoàn nhận được từ việc cho vay, bản các bất động sản đầu tư và cung cấp dịch vụ cho các công ty liên kết theo tỷ lệ sở hữu của Tập đoàn trong các công ty liên kết này.
+
+24. PHẢI TRẢ KHÁC
+
+<table><tr><td></td><td>Số cuối năm</td><td>VND Số đầu năm (Trình bày lại – Thuyết minh số 38)</td></tr><tr><td>Ngắn hạn</td><td>1.712.251.807.582</td><td>1.253.666.037.810</td></tr><tr><td>Tiền đặt coc nhận từ cả nhân đề mua căn hộ</td><td>1.619.267.929.825</td><td>1.132.424.676.737</td></tr><tr><td>Phải trả liên quan đến thanh lý hợp đồng</td><td>33.292.874.452</td><td>53.861.710.522</td></tr><tr><td>Kỳ cược, ký quỹ</td><td>23.800.735.920</td><td>17.543.514.550</td></tr><tr><td>Quỹ bảo trì</td><td>10.560.829.150</td><td>14.067.000.617</td></tr><tr><td>Lãi vay</td><td>9.661.585.482</td><td>-</td></tr><tr><td>Cổ tức phải trả</td><td>8.819.878.086</td><td>7.563.223.579</td></tr><tr><td>Bảo hiểm xã hội, bảo hiểm y tế và bảo hiểm thắt nghiệp</td><td>332.477.431</td><td>234.145.029</td></tr><tr><td>Khác</td><td>6.515.497.236</td><td>27.971.766.776</td></tr><tr><td>Dài hạn</td><td>54.468.018.118</td><td>27.078.926.478</td></tr><tr><td>Kỳ cược, ký quỹ</td><td>54.368.018.118</td><td>26.978.926.478</td></tr><tr><td>Khác</td><td>100.000.000</td><td>100.000.000</td></tr><tr><td>TỔNG CỘNG</td><td>1.766.719.825.700</td><td>1.280.744.964.288</td></tr><tr><td>Trong đó:</td><td></td><td></td></tr><tr><td>Phải trả khác</td><td>1.722.475.915.905</td><td>1.225.594.402.766</td></tr><tr><td>Phải trả bên liên quan (Thuyết minh số 35)</td><td>44.243.909.795</td><td>55.150.561.522</td></tr></table>
+
+39
+
+===== PAGE 42 =====
+Công ty Cổ phần Địa Óc Sài Gòn Thương Tín
+
+THUYẾT MINH BẢO CẢO TÀI CHÍNH HỢP NHẮT (tiếp theo)
+vào ngày 31 tháng 12 năm 2019 và cho năm tài chính kết thúc cứng ngày
+
+25. VAY VÀ NỘ
+
+B09-DN/HN
+
+<table><tr><td></td><td>Số đầu năm</td><td>Tăng do hợp nhất kinh doanh</td><td>Tăng trong năm</td><td>Giảm trong năm</td><td>Phân loại lại</td><td>Số cuối năm</td></tr><tr><td>Ngắn hạn</td><td>1.397.814.134.607</td><td>29.342.466</td><td>1.803.904.886.695</td><td>(2.173.758.425.769)</td><td>310.285.999.999</td><td>1.338.275.937.998</td></tr><tr><td>Vay cả nhân và tổ chức (Thuyết minh số 25.1)</td><td>476.096.548.448</td><td>-</td><td>1.014.957.224.240</td><td>(810.672.708.616)</td><td>-</td><td>680.381.064.072</td></tr><tr><td>Vay ngân hàng (Thuyết minh số 25.2)</td><td>348.654.012.528</td><td>29.342.466</td><td>788.947.662.455</td><td>(790.022.143.522)</td><td>-</td><td>347.608.873.927</td></tr><tr><td>Trải phiếu dài hạn đến hạn phải trả (Thuyết minh số 25.3)</td><td>160.000.000.000</td><td>-</td><td>-</td><td>(160.000.000.000)</td><td>279.000.000.000</td><td>279.000.000.000</td></tr><tr><td>Vay dài hạn ngân hàng đến hạn phải trả (Thuyết minh số 25.2)</td><td>112.954.369.597</td><td>-</td><td>-</td><td>(112.954.369.597)</td><td>31.285.999.999</td><td>31.285.999.999</td></tr><tr><td>Trải phiếu ngân hạn (Thuyết minh số 25.3)</td><td>300.000.000.000</td><td>-</td><td>-</td><td>(300.000.000.000)</td><td>-</td><td>-</td></tr><tr><td>Thuê tài chính</td><td>109.204.034</td><td>-</td><td>-</td><td>(109.204.034)</td><td>-</td><td>-</td></tr><tr><td>Dài hạn</td><td>1.032.132.901.690</td><td>77.000.000.000</td><td>446.179.770.968</td><td>(324.543.996.539)</td><td>(310.285.999.999)</td><td>920.482.676.120</td></tr><tr><td>Trải phiếu dài hạn (Thuyết minh số 25.3)</td><td>863.281.247.550</td><td>-</td><td>385.201.428.570</td><td>(121.000.000.000)</td><td>(279.000.000.000)</td><td>848.482.676.120</td></tr><tr><td>Vay dài hạn ngân hàng (Thuyết minh số 25.2)</td><td>168.851.654.140</td><td>77.000.000.000</td><td>60.978.342.398</td><td>(203.543.996.539)</td><td>(31.285.999.999)</td><td>72.000.000.000</td></tr><tr><td>TỔNG CỘNG</td><td>2.429.947.036.297</td><td>77.029.342.466</td><td>2.250.084.657.663</td><td>(2.498.302.422.308)</td><td>-</td><td>2.258.758.614.118</td></tr><tr><td colspan="7">Trong đó:</td></tr><tr><td>Vay từ bên khác</td><td>2.292.173.698.491</td><td></td><td></td><td></td><td></td><td>2.108.019.027.190</td></tr><tr><td>Vay từ bên liên quan (Thuyết minh số 35)</td><td>137.773.337.806</td><td></td><td></td><td></td><td></td><td>150.739.586.928</td></tr></table>
+
+40
+
+===== PAGE 43 =====
+Công ty Cổ phần Địa Оc Sài Gòn Thương Tín
+
+B09-DN/HN
+
+THUYÊT MINH BẢO CẢO TÀI CHÍNH HỢP NHẮT (tiếp theo)
+
+vào ngày 31 tháng 12 năm 2019 và cho năm tài chính kết thúc cùng ngày
+
+25. VAY (tiếp theo)
+
+25.1 Vay từ cá nhân và tổ chức
+
+Chi tiết vay tin chấp ngăn hạn từ các cá nhân và tổ chức để bổ sung vốn lưu động được trình bày như sau:
+
+<table><tr><td></td><td>Số cuối năm VND</td><td>Ngày đáo hạn</td><td>Lãi suất %/năm</td></tr><tr><td colspan="4">Ngắn hạn</td></tr><tr><td>Vay từ cá nhân</td><td>420.920.064.072</td><td>Ngày 8 tháng 6 năm 2020</td><td>5,0 – 12,0</td></tr><tr><td>Công ty Cổ phần Đầu tư Tín Nghĩa Á Châu</td><td>59.750.000.000</td><td>Ngày 28 tháng 2 năm 2020</td><td>10,5</td></tr><tr><td>Công ty TNHH Đầu tư Thành Tạo</td><td>38.431.000.000</td><td>Ngày 26 tháng 8 năm 2020</td><td>10,5</td></tr><tr><td>Công ty Cổ phần Khu Công Nghiệp Thành Thành Công</td><td>30.000.000.000</td><td>Ngày 1 tháng 3 năm 2020</td><td>12,0</td></tr><tr><td>Công ty Cổ phần Xây dựng và Kết cấu Thép Đại Tín</td><td>28.400.000.000</td><td>Ngày 29 tháng 11 năm 2020</td><td>10,5</td></tr><tr><td>Công ty TNHH Xây dựng Thương mại Thuận Việt</td><td>28.000.000.000</td><td>Ngày 25 tháng 6 năm 2020</td><td>7,0</td></tr><tr><td>Công ty Cổ phần Bao bì và Kho bãi Bình Tây</td><td>23.552.000.000</td><td>Ngày 25 tháng 6 năm 2020</td><td>10,0</td></tr><tr><td>Công ty Cổ phần Chê Ngọc Bảo</td><td>16.000.000.000</td><td>Ngày 30 tháng 1 năm 2020</td><td>5,0</td></tr><tr><td>Công ty TNHH MTV Kỹ thuật Xây dựng Toàn Thịnh Phát</td><td>11.828.000.000</td><td>Ngày 24 tháng 9 năm 2020</td><td>10,5</td></tr><tr><td>Công ty Cổ phần Đầu tư Địa ốc Kim Thành</td><td>9.500.000.000</td><td>Ngày 21 tháng 1 năm 2020</td><td>10,0</td></tr><tr><td>Công ty Cổ phần Du lịch Thành Thành Công</td><td>5.000.000.000</td><td>Ngày 17 tháng 1 năm 2020</td><td>12,0</td></tr><tr><td>Công ty Cổ phần Đầu tư Hà tầng Cụm Công nghiệp Tân Hội</td><td>5.000.000.000</td><td>Ngày 15 tháng 1 năm 2020</td><td>11,0</td></tr><tr><td>Công ty Cổ phần Khai thác Và Quản lý Khu Công Nghiệp Đăng Huỳnh</td><td>4.000.000.000</td><td>Ngày 30 tháng 4 năm 2020</td><td>11,0</td></tr><tr><td>TỔNG CỘNG</td><td>680.381.064.072</td><td></td><td></td></tr></table>
+
+41
+
+===== PAGE 44 =====
+Công ty Cổ phần Địa Оc Sài Gòn Thương Tín
+
+B09-DN/HN
+
+THUYÊT MINH BẢO CẢO TÀI CHÍNH HỢP NHẮT (tiếp theo)
+
+vào ngày 31 tháng 12 năm 2019 và cho năm tài chính kết thúc cùng ngày
+
+25. VAY VÀ NỘ (tiếp theo)
+
+25.2 Vay từ ngân hàng
+
+Chi tiết các khoản vay ngăn hạn từ ngăn hàng được trình bày như sau:
+
+<table><tr><td>Ngân hàng</td><td>Số cuối nămVND</td><td>Ngày dàohan</td><td>Mục đíchvay</td><td>Lãisuất%/năm</td><td>Hình thùcdàm bảo</td></tr></table>
+
+Ngân hạn
+
+<table><tr><td>Ngân hàngTMCP Đầu tưvà Phát triểnViệt Nam</td><td>170.766.134.865</td><td>Từ 23 tháng1 năm 2020đến 23 tháng11 năm 2020</td><td>Bổ sungvốn lưuđộng vàtài trợ đầutư dự án</td><td>8,8 - Tương đương tiền, đầu9,2tur nằm giữ đến ngầyđáo hạn, 2.985.820 cổphiêu tại Công ty Cốphản Bao bì và Kho bãiBình Tây</td></tr><tr><td>Ngân hàngNông nghiệpvà Phát triểnNông thôn ViệtNam – Chinhánh số 5</td><td>98.000.000.000</td><td>Tháng 4năm 2020</td><td>Bổ sungvốn lưuđộng</td><td>9,0 Quyền sử dụngđất của Công tyCổ phần Đầu tuTấn Hưng toa lạctai xã Tân Kiên,huyên Bình Chánh,Hồ Chí Minh</td></tr><tr><td>Ngân hàngTMCP BưuĐiện Liên Việt- Chi nhánhChợ Lớn</td><td>50.000.000.000</td><td>Tháng 1năm 2020</td><td>Bổ sungvốn lưuđộng vàtài trợ đầutư dự án</td><td>10,5 29.585.783 cổ phiếutại Tàu Cước và20.250.000 cổ phiếutại Đông Sài Gòn</td></tr><tr><td>Ngân hàngTMCP NgoạiThương ViệtNam – Chinhánh Bắc SàiGòn</td><td>16.685.481.191</td><td>Ngày 1tháng 3năm 2020</td><td>Bổ sungvốn lưuđộng</td><td>7,0 Tín chấp</td></tr><tr><td>Ngân hàngTMCP CôngThương ViệtNam</td><td>8.957.257.871</td><td>Ngày 30tháng 6năm 2020</td><td>Bổ sungvốn lưuđộng</td><td>7,5 Quyền sử dụng đấttai số 22A- 24 ThoạiNgọc Hầu, PhườngHòa Thạnh, QuậnTân Phú, Thành phốHồ Chí Minh</td></tr><tr><td>Ngân hàngTMCP ViệtNam ThịnhVương</td><td>3.200.000.000</td><td>Ngày 25tháng 3năm 2020</td><td>Bổ sungvốn lưuđộng</td><td>12,1 Quyền sử dụng đất vàcác tài sản khác gảnliền với đất tại dự ánJamona City, PhườngPhủ Nhuận, Quản 7,Thành phố Hồ Chí Minh</td></tr></table>
+
+TỔNG CỘNG 347.608.873.927
+
+42
+
+===== PAGE 45 =====
+Công ty Cổ phần Địa Оc Sài Gòn Thương Tín
+
+B09-DN/HN
+
+THUYÊT MINH BẢO CẢO TÀI CHÍNH HỢP NHẮT (tiếp theo)
+
+vào ngày 31 tháng 12 năm 2019 và cho năm tài chính kết thúc cũng ngày
+
+25. VAY VÀ NỘ (tiếp theo)
+
+25.2 Vay từ ngân hàng (tiếp theo)
+
+Chi tiết các khoản vay dài hạn từ ngân hàng được trình bày như sau:
+
+<table><tr><td>Ngân hàng</td><td>Số cuối nămVND</td><td>Ngàyđảo hạn</td><td>Mục đíchvay</td><td>Lãisuấtt%/năm</td><td>Hình thức đãm bảo</td></tr><tr><td colspan="6">Dài hạn</td></tr><tr><td>Ngân hàngTMCP ÁChâu</td><td>45.000.000.000</td><td>Ngày 26tháng 11năm 2022</td><td>Tài trợđầu tư dự án</td><td>11,0</td><td>5.400.000.000 cổ phầnCông ty Cổ phần Đầutur Tín nghĩa Á Châuthuộc sở hữu của Côngty Cổ phần May TiênPhát;và hợp đồng mua 3 cãnhộ thuộc dự án JamonaGolden Silk</td></tr><tr><td>Ngân hàngTMCP CôngThương ViệtNam</td><td>39.000.000.000</td><td>2023</td><td>Bổ sungvốn lưu động</td><td>12,0</td><td>Quyền sử dụng đất tạisố 22A- 24 Thoại NgọcHầu, Phường HòaThanh, Quận Tân Phú,Thành phốHồ Chí Minh</td></tr><tr><td>Ngân hàngTMCP TiênPhong</td><td>19.285.999.999</td><td>2021</td><td>Tài trợđầu tư dự án</td><td>11,1-11,5</td><td>Quyền sử dụng đấthuộc dự án Carillon 5,toạ lạc tại 291/2 LũyBán Bích, phường HòaThanh, quận Tân Phú,thành phố Hồ Chí Minh</td></tr></table>
+
+TỔNG CỘNG 103.285.999.999
+
+Vay dài hạn
+
+đến hạn trả 31.285.999.999
+
+Vay dài hạn 72.000.000.000
+
+25.3 Trải phiếu dài hạn phát hành
+
+Chi tiết các khoản trái phiếu dài hạn được trình bày như sau:
+
+<table><tr><td>Tổ chức sắp xếp phát hành</td><td>Số cuối nămVND</td><td>Ngàyđảo hạn</td><td>Mục đíchvay%</td><td>Lãisuấts%/năm</td><td>Hình thức đảm bảo</td></tr></table>
+
+Dải hạn
+
+<table><tr><td>Công ty Cổ phần Chứng Khoản Kỹ Thương</td><td>470.095.890.411</td><td>Ngày 19 Tài trợ đầu tháng 12 tư dự án năm 2021 Hưng Điền, quận 8</td><td>10,0</td><td>Quyền sử dụng đất và tài sản khác gần liền với đất tại dự án Hưng Điền thuộc sở hữu của Công ty Cổ phần Đầu tư</td></tr></table>
+
+43
+
+===== PAGE 46 =====
+Công ty Cổ phần Địa Оc Sài Gòn Thương Tín
+
+B09-DN/HN
+
+THUYÊT MINH BẢO CẢO TÀI CHÍNH HỢP NHẮT (tiếp theo)
+
+vào ngày 31 tháng 12 năm 2019 và cho năm tài chính kết thúc cùng ngày
+
+25. VAY VÀ NỘ(tiếp theo)
+
+25.3 Trái phiếu dài hạn phát hành (tiếp theo)
+
+Chi tiết các khoản trái phiếu dài hạn được trình bày như sau (tiếp theo):
+
+<table><tr><td>Tổ chức sắp xếp phát hành</td><td>Số cuối nămVND</td><td>Ngày đàohan</td><td>Mục đíchvay</td><td>Lãi suất%/năm</td><td>Hình thức đảm bảo</td></tr></table>
+
+Dài hạn
+
+<table><tr><td>Ngân hàng TMCP Việt Nam Maritime</td><td>300.000.000.000</td><td>Tháng 7 năm 2022</td><td>Tài trợ dư án Phúc Bảo Minh</td><td>12,0</td><td>54.530.000 có phiếu tại công ty cổ phần Tín Nghĩa được năm giữ bởi công ty cổ phần đầu tư Thành Thành Công và nhà số 7 Tân Đà, Phường 10, Quận 5 và số 740 Hàm Tử, phường 5, quận 5, Thành phố Hồ Chí Minh</td></tr><tr><td>Ngân hàng TMCP Việt Nam Thịnh Vương</td><td>180.000.000.000</td><td>Từ ngày 12 tháng 7 năm 2021 đến ngày 22 tháng 11 năm 2022</td><td>Bổ sung vốn lưu động và tài trợ đầu tư dự án</td><td>11,0-11,5</td><td>Quyền sử dụng đất tại dự án Sky Villa thuộc sở hữu của Công ty Cổ phần Thương Tín Tàu Cuốc; Quyền sử dụng đất, tài sản hình thành trên đất, và khoản phải thu phát sinh hoặc có liên quan đến thừa đất số 447, tờ bản đồ số 11, Phường Phú Thuận, Quận 7, Thành phố Hồ Chí Minh; Quyền sử dụng đất, tài sản hình thành trên đất tai lô K - Khu chung cư thấp tầng thuộc Dự án Jamona City</td></tr><tr><td>Quỹ Vietnam Debt Fund SPC</td><td>75.000.000.000</td><td>Ngày 14 tháng 6 năm 2020</td><td>Bổ sung vốn lưu động</td><td>11,5</td><td>Tín chấp</td></tr><tr><td>Tổng Công ty Bảo Hiểm Bưu điện</td><td>50.000.000.000</td><td>Ngày 14 tháng 6 năm 2020</td><td>Bổ sung vốn lưu động</td><td>11,5</td><td>Tín chấp</td></tr><tr><td>Công ty TNHH MTV Đại Vạn Phú</td><td>20.000.000.000</td><td>Ngày 14 tháng 6 năm 2020</td><td>Bổ sung vốn lưu động</td><td>11,5</td><td>Tín chấp</td></tr></table>
+
+44
+
+===== PAGE 47 =====
+Công ty Cổ phần Địa Оc Sài Gòn Thương Tín
+
+B09-DN/HN
+
+THUYÊT MINH BẢO CẢO TÀI CHÍNH HỢP NHẮT (tiếp theo)
+
+vào ngày 31 tháng 12 năm 2019 và cho năm tài chính kết thúc cùng ngày
+
+25. VAY VÀ NỘ (tiếp theo)
+
+25.3 Trái phiếu dài hạn phát hành (tiếp theo)
+
+Chi tiết các khoản trái phiếu dài hạn được trình bày như sau (tiếp theo):
+
+<table><tr><td>Tổ chức sắp xếp phát hành</td><td>Số cuối năm VND</td><td>Ngày đáo hạn</td><td>Mục đích vay</td><td>Lãi suất%/năm</td><td>Hình thức đảm bảo</td></tr><tr><td>Ngân hàng TMCP Quốc Tế Việt Nam</td><td>17.000.000.000</td><td>Từ ngày 30 tháng 6 năm 2016 đến ngày 30 tháng 6 năm 2020</td><td>Bổ sung vốn lưu động</td><td>11,0</td><td>95 quyền sử dụng đất toa lạc tại 16/9 đường Bùi Văn Ba, Khu phố 2, Phường Tân Thuận Đông, Quận 7, Thành phố Hồ Chí Minh được năm giữ bởi Công ty Cổ phần Thương Tín Tàu Cước</td></tr><tr><td>Ngân hàng TMCP Tiên Phong</td><td>17.000.000.000</td><td>Từ ngày 1 tháng 9 năm 2017 đến ngày 7 tháng 9 năm 2020</td><td>Bổ sung vốn lưu động</td><td>11,0</td><td>95 quyền sử dụng đất toa lạc tại 16/9 đường Bùi Văn Ba, Khu phố 2, Phường Tân Thuận Đông, Quận 7, HCM được năm giữ bởi Công ty Cổ phần Thương Tín Tàu Cước</td></tr></table>
+
+TỔNG CỘNG 1.129.095.890.411
+
+Chi phi phát hành (1.613.214.291)
+
+GIÁ TRI THUÀN 1.127.482.676.120
+
+Dải hạn đến
+
+han trả 279.000.000.000
+
+Dài han 848.482.676.120
+
+45
+
+===== PAGE 48 =====
+Công ty Cổ phần Địa ốc Sài Gòn Thương Tín
+
+THUYẾT MINH BẢO CẢO TẢI CHÍNH HỢP NHẮT (tiếp theo)
+vào ngày 31 tháng 12 năm 2019 và cho năm tài chính kết thúc cùng ngày
+
+26. VÔN CHỦ SỞ HỮU
+
+26.1 Tinh hình tăng giảm nguồn vốn chủ sở hữu
+
+<table><tr><td></td><td>Vốn cổ phần</td><td>Thặng dư vốn cổ phần</td><td>Cổ phiếu quỹ</td><td>Quỹ đầu tư phát triển</td><td>Quỹ khác thuộc vốn chủ sở hữu</td><td>Lợi nhuận sau thuế chưa phân phối</td><td>VND Tống cộng</td></tr><tr><td colspan="8">Năm trước</td></tr><tr><td>Số đầu năm (đã được trình bày trước đây)</td><td>2.438.724.240.000</td><td>333.441.184.101</td><td>(11.890.000)</td><td>110.076.634.441</td><td>24.890.292.522</td><td>380.411.551.264</td><td>3.287.532.012.328</td></tr><tr><td>Trình bày lại</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>46.446.259.436</td><td>46.446.259.436</td></tr><tr><td>Số đầu năm (được trình bày lại)</td><td>2.438.724.240.000</td><td>333.441.184.101</td><td>(11.890.000)</td><td>110.076.634.441</td><td>24.890.292.522</td><td>426.857.810.700</td><td>3.333.978.271.764</td></tr><tr><td>Phát hành cổ phiếu</td><td>731.613.700.000</td><td>(180.000.000)</td><td>-</td><td>-</td><td>-</td><td>-</td><td>731.433.700.000</td></tr><tr><td>Lợi nhuận thuần trong năm (Trình bày lại – Thuyết minh số 38)</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>201.996.966.303</td><td>201.996.966.303</td></tr><tr><td>Biến động do việc mua thêm vốn chủ sở hữu của công ty con</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>(16.460.965)</td><td>(16.460.965)</td></tr><tr><td>Trích quỹ đầu tư phát triển</td><td>-</td><td>-</td><td>-</td><td>20.023.396.743</td><td>-</td><td>(20.023.396.743)</td><td>-</td></tr><tr><td>Trích quỹ khen thưởng, phúc lợi</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>(22.012.493.690)</td><td>(22.012.493.690)</td></tr><tr><td>Phát hành cổ phiếu thưởng</td><td>221.888.810.000</td><td></td><td></td><td></td><td></td><td>(221.888.810.000)</td><td>-</td></tr><tr><td>Khác</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>142.051.531</td><td>142.051.531</td></tr><tr><td>Số cuối năm</td><td>3.392.226.750.000</td><td>333.261.184.101</td><td>(11.890.000)</td><td>130.100.031.184</td><td>24.890.292.522</td><td>365.055.667.136</td><td>4.245.522.034.943</td></tr></table>
+
+46
+
+===== PAGE 49 =====
+Công ty Cổ phần Địa ốc Sài Gòn Thương Tín
+
+THUYÊT MINH BẢO CẢO TÀI CHÍNH HỢP NHẮT (tiếp theo)
+vào ngày 31 tháng 12 năm 2019 và cho năm tài chính kết thúc cùng ngày
+
+26. VÔN CHỦ SỞ HỮU (tiếp theo)
+
+26.1 Tinh hình tăng giảm nguồn vốn chủ sở hữu (tiếp theo)
+
+<table><tr><td></td><td>Vốn cổ phần</td><td>Thăng dưvốn cổ phần</td><td>Cổ phiếu quỹ</td><td>Quỹ đầu tưphát triển</td><td>Quỹ khác thuộcvốn chủ sở hữu</td><td>Lợi nhuận sau thuếchưa phân phối</td><td>VNDTổng công</td></tr><tr><td colspan="8">Năm nay</td></tr><tr><td>Số đầu năm(dã được trình bàytrước dây - Thuyếtminh số 38)</td><td>3.392.226.750.000</td><td>333.261.184.101</td><td>(11.890.000)</td><td>130.100.031.184</td><td>24.890.292.522</td><td>331.191.377.780</td><td>4.211.657.745.587</td></tr><tr><td>Trình bày lại</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>33.864.289.356</td><td>33.864.289.356</td></tr><tr><td>Số đầu năm(được trình bày lại -Thuyết minh số 38)</td><td>3.392.226.750.000</td><td>333.261.184.101</td><td>(11.890.000)</td><td>130.100.031.184</td><td>24.890.292.522</td><td>365.055.667.136</td><td>4.245.522.034.943</td></tr><tr><td>Lợi nhuận thuầntrong năm</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>274.252.409.056</td><td>274.252.409.056</td></tr><tr><td>Trích quỹ đầu tưphát triển</td><td>-</td><td>-</td><td>-</td><td>4.140.877.709</td><td>-</td><td>(4.140.877.709)</td><td>-</td></tr><tr><td>Trích quỹ khenthường, phúc lợi</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>(13.811.325.291)</td><td>(13.811.325.291)</td></tr><tr><td>Bản cổ phiếu quỹ (*)</td><td>-</td><td>(3.402.890)</td><td>11.890.000</td><td>-</td><td>-</td><td>-</td><td>8.487.110</td></tr><tr><td>Số cuối năm</td><td>3.392.226.750.000</td><td>333.257.781.211</td><td>-</td><td>134.240.908.893</td><td>24.890.292.522</td><td>621.355.873.192</td><td>4.505.971.605.818</td></tr></table>
+
+(*) Vào ngày 23 tháng 7 năm 2019, Công ty đã hoàn tất việc tái phát hành 1.189 cổ phiếu quỹ với mệnh giả là 10.000 VND/cổ phiếu theo Nghị quyết Đại hội cổ đông thường niên số 20/2019/NQ-HDQT ngày 29 tháng 5 năm 2019.
+
+B09-DN/HN
+
+47
+
+===== PAGE 50 =====
+Công ty Cổ phần Địa ốc Sài Gòn Thương Tín
+
+B09-DN/HN
+
+THUYÊT MINH BẢO CẢO TẢI CHÍNH HỢP NHẮT (tiếp theo)
+
+vào ngày 31 tháng 12 năm 2019 và cho năm tài chính kết thúc cùng ngày
+
+26. VỐN CHỦ SỞ HỮU (tiếp theo)
+
+26.2 Cổ phiếu
+
+<table><tr><td rowspan="2"></td><td colspan="2">Số lượng</td></tr><tr><td>Số cuối năm</td><td>Số đầu năm</td></tr><tr><td>Cổ phiếu đăng ký phát hành</td><td>339.222.675</td><td>339.222.675</td></tr><tr><td>Cổ phiếu đã bán ra công chúngCổ phiếu phổ thông</td><td>339.222.675</td><td>339.222.675</td></tr><tr><td>Cổ phiếu được mua lại (cổ phiếu quỹ)Cổ phiếu phổ thông</td><td>-</td><td>1.189</td></tr><tr><td>Cổ phiếu đang lưu hànhCổ phiếu phổ thông</td><td>339.222.675</td><td>339.221.486</td></tr></table>
+
+26.3 Tinh hình tăng giảm vốn cổ phần và phân phối cổ tức
+
+<table><tr><td></td><td>Năm nay</td><td>VNDNăm trước</td></tr><tr><td colspan="3">Vốn cổ phần</td></tr><tr><td>Vốn góp đầu năm</td><td>3.392.226.750.000</td><td>2.438.724.240.000</td></tr><tr><td>Tăng trong năm</td><td>-</td><td>731.613.700.000</td></tr><tr><td>Vốn góp cuối năm</td><td>3.392.226.750.000</td><td>3.170.337.940.000</td></tr><tr><td>Cổ tức công bố</td><td>1.500.000.000</td><td>118.468.000</td></tr><tr><td>Cổ tức đã thực trả bằng tiền</td><td>1.500.000.000</td><td>-</td></tr></table>
+
+27. LỢI ÍCH CỦA CỔ ĐÔNG KHÔNG KIÊM SOÁT
+
+<table><tr><td rowspan="2"></td><td rowspan="2">Số cuối năm</td><td>VND</td></tr><tr><td>Số đầu năm(Trình bày lại –Thuyết minh số 38)</td></tr><tr><td>Vốn điều lệ đã góp</td><td>203.342.847.003</td><td>199.748.809.819</td></tr><tr><td>Quỹ đầu tư và phát triển</td><td>50.946.860</td><td>402.386.079</td></tr><tr><td>Lợi nhuận sau thuế chưa phân phối</td><td>28.302.304.802</td><td>26.076.538.642</td></tr><tr><td>TỔNG CỘNG</td><td>231.696.098.665</td><td>226.227.734.540</td></tr></table>
+
+48
+
+===== PAGE 51 =====
+Công ty Cổ phần Địa ốc Sài Gòn Thương Tín
+
+B09-DN/HN
+
+THUYẾT MINH BẢO CẢO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+
+vào ngày 31 tháng 12 năm 2019 và cho năm tài chính kết thúc cùng ngày
+
+27. LỢI ÍCH CỦA CÓ ĐÔNG KHÔNG KIỂM SOẤT (tiếp theo)
+
+Chi tiết tỉnh hình tăng giảm lợi ích của cổ đông không kiểm soát:
+
+<table><tr><td rowspan="2"></td><td rowspan="2">Năm nay</td><td>VND</td></tr><tr><td>Năm trước(Trình bày lại –Thuyết minh số 38)</td></tr><tr><td>Số đầu năm</td><td>226.227.734.540</td><td>150.046.792.797</td></tr><tr><td>Tăng vốn bằng tiền</td><td>22.400.000.000</td><td>55.211.800.000</td></tr><tr><td>Tăng vốn do hợp nhất kinh doanh</td><td>8.384.865.593</td><td>15.939.006.203</td></tr><tr><td>Lợi nhuận thuần trong năm</td><td>3.725.766.159</td><td>5.467.149.775</td></tr><tr><td>Trích quỹ khen thưởng, phúc lợi</td><td>(351.439.218)</td><td>-</td></tr><tr><td>Cổ tức công bố và đã trả</td><td>(1.500.000.000)</td><td>(165.855.200)</td></tr><tr><td>Giảm do thanh lý công ty con</td><td>(27.190.828.409)</td><td>-</td></tr><tr><td>Chuyển lợi ích cổ đông không kiểm soát cho</td><td></td><td></td></tr><tr><td>Tập đoàn</td><td>-</td><td>(271.159.035)</td></tr><tr><td>Số cuối năm</td><td>231.696.098.665</td><td>226.227.734.540</td></tr></table>
+
+28. QUY KHEN THƯƠNG, PHÚC LỢI
+
+<table><tr><td></td><td>Năm nay</td><td>VNDNăm trước</td></tr><tr><td>Số đầu năm</td><td>11.641.012.334</td><td>4.608.751.180</td></tr><tr><td>Trích lập quỹ từ lợi nhuận sau thuế chưa phân phối</td><td>13.811.325.291</td><td>22.012.493.690</td></tr><tr><td>Giảm do hợp nhất kinh doanh</td><td>-</td><td>(1.034.078.468)</td></tr><tr><td>Sử dụng quỹ</td><td>(10.475.922.811)</td><td>(13.946.154.068)</td></tr><tr><td>Số cuối năm</td><td>14.976.414.814</td><td>11.641.012.334</td></tr></table>
+
+49
+
+===== PAGE 52 =====
+Công ty Cổ phần Địa ốc Sài Gòn Thương Tín
+
+B09-DN/HN
+
+THUYẾT MINH BẢO CẢO TÀI CHÍNH HỢP NHẮT (tiếp theo)
+
+vào ngày 31 tháng 12 năm 2019 và cho năm tài chính kết thúc cùng ngày
+
+29. DOANH THU
+
+29.1 Doanh thu bán hàng và cung cấp dịch vụ
+
+<table><tr><td></td><td>Năm nay</td><td>VNDNăm trước</td></tr><tr><td colspan="3">Tổng doanh thu</td></tr><tr><td>Doanh thu từ chuyển nhượng quyền sử dụng đất, bắt động sản</td><td>590.695.101.977</td><td>2.864.897.193.861</td></tr><tr><td>Doanh thu từ dịch vụ bắt động sản</td><td>354.841.600.846</td><td>113.667.935.590</td></tr><tr><td>Doanh thu từ dịch vụ cho thuê</td><td>68.180.309.006</td><td>41.209.326.905</td></tr><tr><td>Doanh thu từ dịch vụ khác</td><td>33.001.739.392</td><td>20.391.100.793</td></tr><tr><td colspan="3">Trừ</td></tr><tr><td>Hàng bản bị trả lại</td><td>(16.227.382.424)</td><td>(111.494.351.305)</td></tr><tr><td>Doanh thu thuần</td><td>1.030.491.368.797</td><td>2.928.671.205.844</td></tr><tr><td colspan="3">Trong đó:</td></tr><tr><td>Doanh thu từ chuyển nhượng quyền sử dụng đất, bắt động sản</td><td>574.470.446.826</td><td>2.753.402.842.556</td></tr><tr><td>Doanh thu từ dịch vụ bắt động sản</td><td>354.841.600.846</td><td>113.667.935.590</td></tr><tr><td>Doanh thu từ dịch vụ cho thuê</td><td>68.180.309.006</td><td>41.209.326.905</td></tr><tr><td>Doanh thu từ dịch vụ khác</td><td>32.999.012.119</td><td>20.391.100.793</td></tr><tr><td colspan="3">Trong đó:</td></tr><tr><td>Doanh thu với khách hàng khác</td><td>712.334.141.050</td><td>2.783.520.924.299</td></tr><tr><td>Doanh thu với bên liên quan (Thuyết minh số 35)</td><td>318.157.227.747</td><td>145.150.281.545</td></tr></table>
+
+Trong năm, Tập đoàn đã ghi nhận doanh thu một lần từ hoạt động cho thuê dài hạn các cân hộ thuốc dự án Charmington La Pointe vào báo cáo kết quả hoạt động kinh doanh hợp nhất theo chính sách kế toán được trình bày tai Thuyết minh số 3.17. Nếu doanh thu từ việc cho thuê dài hạn các cân hộ này được phân bổ đều trong thời gian thuê, ảnh hưởng đến doanh thu, giá vốn và lợi nhuận góp của Tập đoàn trong năm như sau:
+
+<table><tr><td></td><td>Ghi nhận doanh thu một lần</td><td>VNDGhi nhận doanh thu theo cho thuê hoạt động</td></tr><tr><td>Doanh thu</td><td>67.317.092.803</td><td>1.682.927.320</td></tr><tr><td>Giá vốn</td><td>39.500.485.791</td><td>987.512.145</td></tr><tr><td>Lợi nhuận góp</td><td>27.816.607.012</td><td>695.415.175</td></tr></table>
+
+50
+
+===== PAGE 53 =====
+Công ty Cổ phần Địa ốc Sài Gòn Thương Tín
+
+B09-DN/HN
+
+THUYÊT MINH BẢO CẢO TÀI CHÍNH HỢP NHẮT (tiếp theo)
+vào ngày 31 tháng 12 năm 2019 và cho năm tài chính kết thúc cứng ngày
+
+29. DOANH THU (tiếp theo)
+
+29.2 Doanh thu hoạt động tài chính
+
+<table><tr><td></td><td>Năm nay</td><td>VNDNăm trước</td></tr><tr><td>Thu nhập lãi cho vay</td><td>177.379.039.293</td><td>144.398.789.101</td></tr><tr><td>Thu nhập từ thanh lý công ty con và các khoản đầu tư</td><td>86.106.930.507</td><td>42.014.637.170</td></tr><tr><td>Thu nhập lãi tiền gửi tại ngân hàng</td><td>19.566.510.685</td><td>10.909.618.231</td></tr><tr><td>Thu nhập từ hợp nhất kinh doanh</td><td>-</td><td>6.930.827.300</td></tr><tr><td>Khác</td><td>-</td><td>1.233.431.322</td></tr><tr><td>TỔNG CỘNG</td><td>283.052.480.485</td><td>205.487.303.124</td></tr></table>
+
+30. GIÁ VÔN HÀNG BẢN VÀ DỊCH VỤ CUNG CẤP
+
+<table><tr><td></td><td>Năm nay</td><td>VNDNăm trước</td></tr><tr><td>Giá vốn từ chuyển nhượng quyền sử dụng đất, bắt động sản</td><td>522.879.949.163</td><td>2.168.945.074.041</td></tr><tr><td>Giá vốn dịch vụ môi giới, tư vấn, quản lý</td><td>53.318.988.228</td><td>55.573.047.934</td></tr><tr><td>Giá vốn từ dịch vụ cho thuê</td><td>19.538.662.737</td><td>54.589.661.968</td></tr><tr><td>Giá vốn dịch vụ khác</td><td>12.558.423.692</td><td>11.811.782.298</td></tr><tr><td>TỔNG CỘNG</td><td>608.296.023.820</td><td>2.290.919.566.241</td></tr></table>
+
+31. CHI PHÍ BÁN HÀNG VÀ CHI PHÍ QUÁN LÝ DOANH NGHIỆP
+
+<table><tr><td></td><td>Năm nay</td><td>VNDNăm trước</td></tr><tr><td>Chi phí bán hàng</td><td>54.215.378.527</td><td>156.299.628.620</td></tr><tr><td>Chi phí dịch vụ mua ngoài</td><td>31.825.607.544</td><td>80.375.872.302</td></tr><tr><td>Chi phí nhân viên</td><td>13.391.877.821</td><td>4.236.431.941</td></tr><tr><td>Chi phí môi giới</td><td>3.649.965.871</td><td>49.271.995.959</td></tr><tr><td>Khác</td><td>5.347.927.291</td><td>22.415.328.418</td></tr><tr><td>Chi phí quản lý doanh nghiệp</td><td>159.238.628.810</td><td>173.576.372.331</td></tr><tr><td>Chi phí lương nhân viên</td><td>79.337.560.865</td><td>77.210.958.140</td></tr><tr><td>Chi phí dịch vụ mua ngoài</td><td>40.343.871.108</td><td>52.983.340.664</td></tr><tr><td>Phân bổ lợi thế thương mại</td><td>14.059.966.814</td><td>7.607.466.651</td></tr><tr><td>Chi phí khấu hao và hao mòn</td><td>6.223.878.506</td><td>6.861.701.244</td></tr><tr><td>Chi phí thiết bị văn phòng</td><td>2.808.791.581</td><td>2.948.511.459</td></tr><tr><td>Khác</td><td>16.464.559.936</td><td>25.964.394.173</td></tr><tr><td>TỔNG CỔNG</td><td>213.454.007.337</td><td>329.876.000.951</td></tr></table>
+
+51
+
+===== PAGE 54 =====
+Công ty Cổ phần Địa ốc Sài Gòn Thương Tín
+
+B09-DN/HN
+
+THUYẾT MINH BẢO CẢO TẢI CHỈNH HỢP NHẤT (tiếp theo)
+
+vào ngày 31 tháng 12 năm 2019 và cho năm tài chính kết thúc cùng ngày
+
+32. CHI PHÍ TÀI CHÍNH
+
+<table><tr><td></td><td>Năm nay</td><td>VNDNăm trước</td></tr><tr><td>Chỉ phí lãi vay</td><td>147.246.982.259</td><td>173.155.386.654</td></tr><tr><td>Chiết khấu thanh toán</td><td>16.000.763.069</td><td>16.683.640.335</td></tr><tr><td>Phân bổ chi phí phát hành trái phiếu</td><td>5.201.472.018</td><td>4.363.928.568</td></tr><tr><td>Chi phí quản lý tài khoản trái phiếu và tài khoản khác</td><td>4.500.000.000</td><td>4.500.000.000</td></tr><tr><td>Chỉ phí tài chính khác</td><td>2.102.115.643</td><td>1.995.956.724</td></tr><tr><td>TỔNG CỘNG</td><td>175.051.332.989</td><td>200.698.912.281</td></tr></table>
+
+33. THU NHẬP VÀ CHI PHÍ KHÁC
+
+<table><tr><td></td><td>Năm nay</td><td>VNDNăm trước</td></tr><tr><td>Thu nhập khác</td><td>16.612.210.919</td><td>10.155.829.635</td></tr><tr><td>Tiền bồi thường nhân tử các bên khác</td><td>9.344.173.065</td><td>5.912.066.357</td></tr><tr><td>Khác</td><td>7.268.037.854</td><td>4.243.763.278</td></tr><tr><td>Chi phí khác</td><td>(15.636.254.787)</td><td>(14.969.175.441)</td></tr><tr><td>Tiền bồi thường do vi phạm hợp đồng</td><td>(5.142.218.695)</td><td>(11.871.214.479)</td></tr><tr><td>Lỗ từ thanh lý tài sản cố định</td><td>(1.868.748.227)</td><td>-</td></tr><tr><td>Lỗ từ xóa sổ công nợ</td><td>(1.760.014.188)</td><td>-</td></tr><tr><td>Khác</td><td>(6.865.273.677)</td><td>(3.097.960.962)</td></tr><tr><td>L^{-0}I NHUÂN (L^{-0}) KHÁC THUÂN</td><td>975.956.132</td><td>(4.813.345.806)</td></tr></table>
+
+34. THUÊ THU NHẬP DOANH NGHIỆP
+
+Thuế suất thuế thu nhập doanh nghiệp ("TNDN") áp dụng cho Tập đoàn là 20% thu nhập chịu thuế.
+
+Các báo cáo thuê của Tập đoàn sẽ chịu sự kiểm tra của cơ quan thuê. Do việc áp dụng luật và các quy định về thuê có thể được giải thích theo nhiều cách khác nhau, số thuê được trình bày trên các báo cáo tài chính hợp nhất có thể sẽ bị thay đổi theo quyết định cuối cùng của cơ quan thuê.
+
+34.1 Chi phí thuế TNDN
+
+<table><tr><td></td><td>Năm nay</td><td>VNDNăm trước(Trình bày lại –Thuyết minh số 38)</td></tr><tr><td>Chi phí thuế TNDN hiện hành</td><td>82.513.527.348</td><td>65.087.526.451</td></tr><tr><td>Điều chính thuế TNDN trích (thừa) thiếu năm trước(Thu nhập) chi phí thuế TNDN hoãn lại</td><td>(4.981.096.634)(8.979.561.219)</td><td>11.766.716.67324.721.702.790</td></tr><tr><td>TỔNG CỘNG</td><td>68.552.869.495</td><td>101.575.945.914</td></tr></table>
+
+52
+
+===== PAGE 55 =====
+Công ty Cổ phần Địa ốc Sài Gòn Thương Tín
+
+B09-DN/HN
+
+THUYÊT MINH BẢO CẢO TẢI CHÍNH HỢP NHẮT (tiếp theo)
+
+vào ngày 31 tháng 12 năm 2019 và cho năm tài chính kết thúc cùng ngày
+
+34. THUÊ THU NHẬP DOANH NGHIỆP (tiếp theo)
+
+34.1 Chi phí thuế TNDN (tiếp theo)
+
+Dưới đây là đối chiếu chỉ phí thuế TNDN và kết quả của lợi nhuận kế toán trước thuế nhân với thuế suất thuế TNDN:
+
+VND
+
+<table><tr><td></td><td>Năm nay</td><td>Năm trước(Trình bày lại –Thuyết minh số 38)</td></tr><tr><td>Tổng lợi nhuận kế toán trước thuế</td><td>346.531.044.710</td><td>309.040.061.992</td></tr><tr><td>Thuế TNDN theo thuế suất phố thông 20%</td><td>69.306.208.942</td><td>61.808.012.398</td></tr><tr><td colspan="3">Các khoản điều chỉnh giảm:</td></tr><tr><td>Chi phí không được khấu trừ thuế</td><td>18.963.984.649</td><td>29.747.330.659</td></tr><tr><td>Tái sản thuế thu nhập hoãn lại chưa được ghi nhận</td><td>1.287.578.364</td><td>5.351.058.249</td></tr><tr><td>Ảnh hưởng của việc chia lãi từ các công ty liên kết</td><td>(5.759.986.896)</td><td>(237.875.661)</td></tr><tr><td>Thu nhập không chịu thuế</td><td>-</td><td>(2.282.601.154)</td></tr><tr><td>Điều chỉnh thuế TNDN trích (thừa) thiếu trong những năm trước</td><td>(4.981.096.635)</td><td>11.766.716.673</td></tr><tr><td>Lỗ được chuyển</td><td>(10.263.818.929)</td><td>(4.576.695.250)</td></tr><tr><td>Chi phí thuế TNDN</td><td>68.552.869.495</td><td>101.575.945.914</td></tr></table>
+
+34.2 Thuế TNDN hiện hành
+
+Thuế TNDN hiện hành phải trả được xác định dựa trên thu nhập chịu thuế của năm hiện tại. Thu nhập chịu thuế khác với thu nhập được báo cáo trong báo cáo kết quả kinh doanh hợp nhất vi thu nhập chịu thuế không bao gồm các khoản mục thu nhập chịu thuế hay chi phí được khấu trừ cho mục đích tỉnh thuế trong các năm khác và cũng không bao gồm các khoản mục không phải chịu thuế hay không được khấu trừ cho mục đích tỉnh thuế. Thuế TNDN hiện hành phải trả của Tập đoàn được tỉnh theo thuế suất đã ban hành đến ngày kết thúc ký kế toán năm.
+
+34.3 Thuế TNDN hoãn lại
+
+Tập đoàn đã ghi nhận một số khoản tài sản thuế TNDN hoãn lại và thuế TNDN hoãn lại phải trả với các biến động trong năm bảo cáo và nằm trước như sau:
+
+VND
+
+<table><tr><td rowspan="2"></td><td colspan="2">Bảng cân đối kế toán hợp nhất</td><td colspan="2">Bảo cáo kết quả hoạt động kinh doanh hợp nhất</td></tr><tr><td>Số cuối năm</td><td>Số đầu năm</td><td>Năm nay</td><td>Năm trước</td></tr><tr><td>Lợi nhuận chưa thực hiện</td><td>39.332.160.577</td><td>32.149.303.714</td><td>7.182.856.863</td><td>(19.503.010.413)</td></tr><tr><td>Dự phòng giảm giá đầu từ vào các công ty con và các công ty liên kết</td><td>(23.327.724.418)</td><td>(25.124.428.774)</td><td>1.796.704.356</td><td>(5.218.692.377)</td></tr><tr><td>Chênh lệch giá trị hợp lý trong hợp nhất kinh doanh</td><td>(101.161.030.113)</td><td>(101.161.030.112)</td><td>-</td><td>-</td></tr><tr><td>Thuế thu nhập hoãn lại phải trả</td><td>(85.156.593.954)</td><td>(94.136.155.172)</td><td></td><td></td></tr><tr><td colspan="3">Thu nhập (chi phí) thuế TNDN hoãn lại</td><td>8.979.561.219</td><td>(24.721.702.790)</td></tr></table>
+
+53
+
+===== PAGE 56 =====
+Công ty Cổ phần Địa ốc Sài Gòn Thương Tín
+
+B09-DN/HN
+
+THUYÊT MINH BÁO CẢO TÀI CHÍNH HỢP NHẮT (tiếp theo)
+
+vào ngày 31 tháng 12 năm 2019 và cho năm tài chính kết thúc cũng ngày
+
+34. THUÊ THU NHẬP DOANH NGHIỆP (tiếp theo)
+
+34.4 Lõ chuyển sang năm sau
+
+Tập đoàn được phép chuyển các khoản lỗ tính thuế sang năm sau để bù trừ với lợi nhuận thu được trong vòng 5 năm liên tục kể từ sau năm phát sinh khoản lỗ đó. Tại ngày kết thúc ký kế toán năm, Tập đoàn có các khoản lỗ lũy kể với tổng giá trị là 62.387.830.279 VND (31 tháng 12 năm 2018: 130.104.282.484 VND) có thể sử dụng để bù trừ với lợi nhuận phát sinh trong tương lai. Chi tiết như sau:
+
+<table><tr><td>Năm phát sinh</td><td>Cô thể chuyển lỗ đến năm</td><td>Lỗ tính thuế</td><td>Đã chuyển lỗ đến ngày 31/12/2019</td><td>Không được chuyển lỗ</td><td>VND Chưa chuyển lỗ tại ngày 31/12/2019</td></tr><tr><td>2014</td><td>2019</td><td>49.397.143.607</td><td>(11.981.173.498)</td><td>-</td><td>37.415.970.109</td></tr><tr><td>2015</td><td>2020</td><td>9.903.506.739</td><td>(2.888.727)</td><td>-</td><td>9.900.618.012</td></tr><tr><td>2016</td><td>2021</td><td>7.777.625.961</td><td>-</td><td>-</td><td>7.777.625.961</td></tr><tr><td>2017</td><td>2022</td><td>19.765.000.000</td><td>(19.765.000.000)</td><td>-</td><td>-</td></tr><tr><td>2018</td><td>2023</td><td>855.724.375</td><td>-</td><td>-</td><td>855.724.375</td></tr><tr><td>2019</td><td>2024</td><td>6.437.891.822</td><td>-</td><td>-</td><td>6.437.891.822</td></tr><tr><td>TỔNG CỘNG</td><td></td><td>94.136.892.504</td><td>(31.749.062.225)</td><td>-</td><td>62.387.830.279</td></tr></table>
+
+Lỗ tính thuế ước tính theo tờ khai thuế của Công ty và các công ty con cho năm tài chính kết thúc ngày 31 tháng 12 năm 2019 chưa được cơ quan thuế địa phương quyết toán vào ngày lập báo cáo tài chính hợp nhất này.
+
+Tập đoàn chưa ghi nhận tài sản thuê thu nhập hoãn lại cho phần lỗ lũy kế nếu trên do Tập đoàn không thể dự tỉnh được lợi nhuận chịu thuê trong tương lai tại thời điểm này.
+
+54
+
+===== PAGE 57 =====
+Công ty Cổ phần Địa ốc Sài Gòn Thương Tín
+
+B09-DN/HN
+
+THUYẾT MINH BẢO CẢO TẢI CHÍNH HỢP NHẤT (tiếp theo)
+
+vào ngày 31 tháng 12 năm 2019 và cho năm tài chính kết thúc cũng ngày
+
+35. NGHIỆP VỤ VỚI CÁC BÊN LIÊN QUAN
+
+Các giao dịch trong yếu của Tập đoàn với các bên liên quan trong năm hiện hành và năm trước bao gồm:
+
+VND
+
+<table><tr><td>Các bên liên quan</td><td>Mối quan hệ</td><td>Nội dung nghiệp vụ</td><td>Năm nay</td><td>Năm trước</td></tr><tr><td>Công ty Cổ phầnMay Tiến Phát</td><td>Công tyliên kết</td><td>Cho vayLãi cho vayBán hàng hòavà dịch vụHàng bánbjì trả lạiMua hàng hòavà dịch vụVayChuyển nhượngcổ phầnChi phí lãi vay</td><td>1.050.005.000.000139.525.329.47563.920.584.28861.071.636.28453.259.501.852---61.600.000.000-</td><td>1.418.200.000.00054.475.161.52079.642.758.537--396.869.226.740442.000.000.00061.600.000.0002.637.866.664</td></tr><tr><td>Công ty TNHHMTV Dịch VụBất Đông SảnMinh Anh</td><td>Bên liên quan</td><td>Bản khoảnđầu tưVayỨng trướcChi phí lãi vay</td><td>270.000.000.00080.000.000.00061.500.000.000621.369.863</td><td></td></tr><tr><td>Huỳnh ThảoLinh</td><td>Chủ tịch công ty con</td><td>Chuyển nhượngkhoản đầu tưCho vayThu hồ</td><td>133.840.000.00041.500.000.00014.145.765.000</td><td></td></tr><tr><td>Công ty Cổ phầnKhu Côngnghiệp ThànhThành Công</td><td>Đầu tư khác(Trước đây làcông tyliên kết)</td><td>Dịch vụ môi giớiVayMua hàng hòavà dịch vụLãi cho vayChi phí lãi vay</td><td>100.491.948.96050.000.000.00016.392.606.01313.192.854.6171.933.890.409</td><td>--12.111.295.735--</td></tr><tr><td>Nguyễn Hữu Đạt</td><td>Chủ tịchcông ty con</td><td>VayBán khoảnđầu tưCung cấp dịch vụỨng trướcChi phí lãi vay</td><td>81.878.268.00059.716.400.0009.557.452.2286.341.007.3724.688.226.669</td><td></td></tr></table>
+
+55
+
+===== PAGE 58 =====
+Công ty Cổ phần Địa ốc Sài Gòn Thương Tín
+
+B09-DN/HN
+
+THUYÊT MINH BẢO CẢO TÀI CHÍNH HỢP NHẮT (tiếp theo)
+
+váo ngày 31 tháng 12 năm 2019 và cho năm tài chính kết thúc cũng ngày
+
+35. NGHIỆP VỤ VỚI CÁC BÊN LIÊN QUAN (tiếp theo)
+
+Các giao dịch trọng yếu của Tập đoàn với các bên liên quan trong năm hiện hành và năm trước bao gồm: (tiếp theo)
+
+VND
+
+<table><tr><td>Các bên liên quan</td><td>Mối quan hệ</td><td>Nội dung nghiệp vụ</td><td>Năm nay</td><td>Năm trước</td></tr><tr><td>Công ty Cổ phầnTín Nghĩa Á Châu(“Tín Nghĩa Á Châu”)</td><td>Bên liên quan</td><td>Cho vayVayChi phí lãi vay</td><td>79.764.200.00079.750.000.0003.558.676.973</td><td>----</td></tr><tr><td>Công ty Cổ phầnThành Thành Nam</td><td>Công ty trong cùng Tập đoàn</td><td>Tạm ứngLãi cho vayMua hàng hóa và dịch vụCho vayCung cấp dịch vụVayChi phí lãi vay</td><td>57.350.000.00010.614.904.1107.048.826.180500.000.000383.910.145---</td><td>----321.500.0004.292.275.21388.000.000.00077.140.000.000343.615.278</td></tr><tr><td>Công ty Cổ phầnBao bì và Kho bãi Bình Tây</td><td>Bên liên quan (Trước đáy là công ty liên kết)</td><td>Đầu tư dự ánLãi cho vayVayCho vayChi phí lãi vay</td><td>41.178.405.8461.697.608.933---</td><td>----35.000.00051.100.000.00024.000.000.0002.447.978.750</td></tr><tr><td>Công ty Cổ phầnĐầu tư Kiến trúcXây dựng Toàn Thịnh Phát</td><td>Bên liên quan</td><td>Mua hàng hóa và dịch vụLãi cho vayBán hàng hóa dịch vụ</td><td>34.777.555.203666.702.358---</td><td>224.318.922.513----1.007.569.225</td></tr><tr><td>Công ty Cổ phầnđầu tư Thành Thành Công</td><td>Cổ đông</td><td>Bán hàng hóa và dịch vụMua hàng hóa và dịch vụCho vayLãi cho vay</td><td>16.810.582.38713.689.386.900---</td><td>----8.741.282.791534.300.000.0001.138.969.864</td></tr><tr><td>Trần Lam Thông</td><td>Cổ đông</td><td>VayỨng trướcChi phí lãi vayLãi cho vayCho vay</td><td>21.132.553.55812.216.300.000748.438.49976.125.663---</td><td>5.623.298.09767.032.738.500110.345.15488.229.1641.000.000.000</td></tr><tr><td>Nguyễn Đăng Thanh</td><td>Chủ tịch</td><td>VayChi phí lãi vay</td><td>13.500.000.000770.334.932</td><td>----</td></tr><tr><td>Công ty TNHH MTV Kỹ ThuậtXây dựng Toàn Thịnh Phát</td><td>Bên liên quan</td><td>Mua hàng hóa và dịch vụLãi cho vayBán hàng hóa và dịch vụ</td><td>12.357.095.934---124.171.498</td><td>110.622.072.727666.702.358----</td></tr></table>
+
+56
+
+===== PAGE 59 =====
+Công ty Cổ phần Địa ốc Sài Gòn Thương Tín
+
+B09-DN/HN
+
+THUYÊT MINH BÁO CẢO TÀI CHÍNH HỢP NHẮT (tiếp theo)
+
+vào ngày 31 tháng 12 năm 2019 và cho năm tài chính kết thúc cũng ngày
+
+35. NGHIỆP VỤ VỚI CÁC BÊN LIÊN QUAN
+
+Các giao dịch trọng yếu của Tập đoàn với các bên liên quan năm hiện hành và năm trước bao gồm: (tiếp theo)
+
+VND
+
+<table><tr><td>Các bên liên quan</td><td>Môi quan hệ</td><td>Nội dung nghiệp vụ</td><td>Năm nay</td><td>Năm trước</td></tr><tr><td rowspan="3">Bùi Tiến Thắng</td><td rowspan="3">Chủ tịch công ty con</td><td rowspan="3">VayBán hàng hóaChi phí lãi vay</td><td rowspan="3">13.400.000.000590.909.091469.821.199</td><td>-</td></tr><tr><td>-</td></tr><tr><td>-</td></tr><tr><td>Công ty TNHH Sàn xuất Xây dựng Dịch vụ Hoa Đồng</td><td>Công ty liên kết</td><td>Cho vayCung cấp dịch vụLãi cho vay</td><td>9.228.000.0006.297.000.0001.202.157.942</td><td>2.300.000.0001.575.212.99192.050.000</td></tr><tr><td>Công ty Cổ phần Bất Đồng Sản 66</td><td>Công ty trong cùng Tập đoàn</td><td>Lãi cho vayCho vay</td><td>8.570.000.004-</td><td>5.347.750.000105.650.000.000</td></tr><tr><td>Công ty Cổ phần Du Lịch Thành Thành Công Lâm Đồng</td><td>Công ty trong cùng Tập đoàn</td><td>Lãi phạtMua hàng hóa và dịch vụ</td><td>2.184.471.46515.882.728</td><td>1.372.583.332317.809.182</td></tr><tr><td>Nguyễn Thị Hằng Nga</td><td>Cá nhân liên quan</td><td>VayChi phí lãi vay</td><td>4.000.000.000171.150.684</td><td>-</td></tr><tr><td>Công ty TNHH MTV Tư Văn Sài Gòn Thương Tín</td><td>Công ty trong cùng Tập đoàn</td><td>Bán hàng hóa và dịch vụMua hàng hóa và dịch vụ</td><td>3.089.311.746759.823.472</td><td>-</td></tr><tr><td>Công ty Cổ phần Đầu tư Xây dựng Idico Long An</td><td>Công ty liên kết</td><td>Thông báo chiacổ tứcĐầu tư</td><td>2.462.400.0001.170.000.000</td><td>-</td></tr><tr><td>Công ty Cổ phần Du Lịch Thành Thành Công</td><td>Công ty trong cùng Tập đoàn</td><td>VayBán hàng hóa và dịch vụLãi vayMua hàng hóa dịch vụ</td><td>5.000.000.0001.924.414.883276.164.382-</td><td>-712.169.091-4.186.813.696</td></tr></table>
+
+57
+
+===== PAGE 60 =====
+Công ty Cổ phần Địa ốc Sài Gòn Thương Tín
+
+B09-DN/HN
+
+THUYẾT MINH BẢO CẢO TẢI CHÍNH HỢP NHẮT (tiếp theo)
+
+vào ngày 31 tháng 12 năm 2019 và cho năm tài chính kết thúc cứng ngày
+
+35. NGHIỆP VỤ VỚI CÁC BÊN LIÊN QUAN (tiếp theo)
+
+Các giao dịch trong yếu của Tập đoàn với các bên liên quan năm hiện hành và năm trước bao gồm: (tiếp theo)
+
+VND
+
+<table><tr><td>Các bên liên quan</td><td>Mối quan hệ</td><td>Nội dung nghiệp vụ</td><td>Năm nay</td><td>Năm trước</td></tr><tr><td rowspan="3">Vũ Quốc Thái</td><td rowspan="3">Tổng giảm đốc</td><td>Vay</td><td>2.000.000.000</td><td>-</td></tr><tr><td>Ứng tiền</td><td>400.000.000</td><td>-</td></tr><tr><td>Chi phí lãi vay</td><td>876.712</td><td>-</td></tr><tr><td rowspan="2">Lâm Minh Châu</td><td rowspan="2">Thành viên Hội đồng quản trị</td><td>Vay</td><td>2.391.729.812</td><td>-</td></tr><tr><td>Chi phí lãi vay</td><td>107.079.225</td><td>-</td></tr><tr><td rowspan="3">Công ty Cổ phầnToàn Hải Văn</td><td rowspan="3">Công ty trong cùng Tập đoàn</td><td>Lãi cho vay</td><td>1.748.909.296</td><td>4.346.332.270</td></tr><tr><td>Bản hàng hóa và dịch vụ</td><td>461.559.484</td><td>612.571.701</td></tr><tr><td>Cho vay</td><td>-</td><td>88.000.000.000</td></tr><tr><td>Công ty Cổ phầnĐầu tư Địa ốcKim Thành</td><td>Công ty liên kết</td><td>Chi phí lãi vay</td><td>950.000.004</td><td>1.006.805.559</td></tr><tr><td rowspan="4">Công ty Cổ phầnĐầu tư Xây dựng Hùng Anh</td><td rowspan="4">Bên liên quan</td><td>Vay</td><td>800.000.000</td><td>-</td></tr><tr><td>Chi phí lãi vay</td><td>179.391.778</td><td>52.850.000</td></tr><tr><td>Lãi cho vay</td><td>-</td><td>17.200.685.637</td></tr><tr><td>Nhận ký quỹ</td><td>-</td><td>1.200.000.000</td></tr><tr><td rowspan="2">Công ty Cổ phầnXuất nhập khẩuBến Tre</td><td rowspan="2">Cổ đông</td><td>Bản hàng hóa và dịch vụ</td><td>470.908.099</td><td>-</td></tr><tr><td>Mua hàng hóa và dịch vụ</td><td>-</td><td>361.067.195</td></tr></table>
+
+58
+
+===== PAGE 61 =====
+Công ty Cổ phần Địa ốc Sài Gòn Thương Tín
+
+B09-DN/HN
+
+THUYẾT MINH BẢO CẢO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+
+vào ngày 31 tháng 12 năm 2019 và cho năm tài chính kết thúc cũng ngày
+
+35. NGHIỆP VỤ VỚI CÁC BÊN LIÊN QUAN (tiếp theo)
+
+Tai ngày kết thúc kỳ kể toán năm, số dư các khoản phải thu và phải trả với các bên liên quan như sau:
+
+VND
+
+<table><tr><td>Các bên liên quan</td><td>Môi quan hệ</td><td>Nội dung nghiệp vụ</td><td>Số cuối năm</td><td>Số đầu năm</td></tr><tr><td colspan="5">Phải thu khách hàng ngắn hạn</td></tr><tr><td>Công ty TNHH MTV Dịch Vụ Bất Đồng Sản Minh Anh</td><td>Công ty trong cùng Tập đoàn</td><td>Bán hàng hóa và dịch vụ</td><td>208.500.000.000</td><td>-</td></tr><tr><td>Công ty Cổ phần May Tiến Phát</td><td>Công ty liên kết</td><td>Bán hàng hóa và dịch vụ</td><td>64.264.644.561</td><td>148.990.257.866</td></tr><tr><td>Trần Lam Thông</td><td>Cổ đông</td><td>Phải thu chuyển nhượng cổ phiếu</td><td>28.740.000.000</td><td>28.470.000.000</td></tr><tr><td>Công ty TNHH Sản xuất Xây dựng Dịch vụ Hoa Đồng</td><td>Công ty liên kết</td><td>Bán hàng hóa và dịch vụ</td><td>6.926.700.000</td><td>-</td></tr><tr><td>Công ty Cổ phần Du lịch Thành Thành Công Lâm Đồng</td><td>Công ty trong cùng Tập đoàn</td><td>Bán hàng hóa và dịch vụ</td><td>6.000.000.000</td><td>26.000.000.000</td></tr><tr><td>Công ty Cổ phần Xuất nhập khẩu Bến Tre</td><td>Cổ đông</td><td>Bán hàng hóa và dịch vụ</td><td>4.355.475.053</td><td>6.092.104.364</td></tr><tr><td>Công ty Cổ phần Toàn Hải Văn</td><td>Công ty trong cùng Tập đoàn</td><td>Bán hàng hóa và dịch vụ</td><td>1.205.544.303</td><td>697.828.871</td></tr><tr><td>Công ty Cổ phần Đầu tư và Thương Mại Thuận Thiên</td><td>Cổ đông</td><td>Bán hàng hóa và dịch vụ</td><td>592.639.108</td><td>592.639.108</td></tr><tr><td>Công ty TNHH MTV Tư Văn Sài Gòn Thương Tín</td><td>Công ty trong cùng Tập đoàn</td><td>Bán hàng hóa và dịch vụ</td><td>537.921.000</td><td>-</td></tr><tr><td>Công ty Cổ phần Khu Công nghiệp Thành Thành Công</td><td>Đầu tư khác</td><td>Bán hàng hóa và dịch vụ</td><td>421.476.214</td><td>-</td></tr><tr><td>Công ty TNHH MTV Kỹ Thuật Xây dựng Toàn Thịnh Phát</td><td>Bên liên quan</td><td>Bán hàng hóa và dịch</td><td>291.510.549</td><td>159.031.174</td></tr><tr><td>Huỳnh Thảo Linh</td><td>Chủ tịch công ty con</td><td>Bán hàng hóa và dịch vụ</td><td>142.275.135</td><td>-</td></tr><tr><td>Công ty Cổ phần Đầu tư Thành Thành Công Công</td><td>Cổ đông</td><td>Bán hàng hóa và dịch vụ</td><td>34.815.000</td><td>934.941.785</td></tr></table>
+
+59
+
+===== PAGE 62 =====
+Công ty Cổ phần Địa ốc Sài Gòn Thương Tín
+
+B09-DN/HN
+
+THUYẾT MINH BẢO CẢO TẢI CHÍNH HỢP NHẤT (tiếp theo)
+
+vào ngày 31 tháng 12 năm 2019 và cho năm tài chính kết thúc cũng ngày
+
+35. NGHIỆP VỤ VỚI CÁC BÊN LIÊN QUAN (tiếp theo)
+
+Tại ngày kết thúc ký kế toán năm, số dư các khoản phải thu và phải trả với các bên liên quan như sau: (tiếp theo)
+
+<table><tr><td>Các bên liên quan</td><td>Môi quan hệ</td><td>Nội dung nghiệp vụ</td><td>Số cuối năm</td><td>VND Số đầu năm</td></tr><tr><td colspan="5">Phải thu khách hàng ngắn hạn (tiếp theo)</td></tr><tr><td>Công ty Cổ phần Thành Thành Nam</td><td>Công ty trong cùng Tập đoàn</td><td>Bán hàng hóa và dịch vụ</td><td>33.165.000</td><td>-</td></tr><tr><td>Công ty Cổ phần Thành Thành Công – Biên Hòa</td><td>Công ty trong cùng Tập đoàn</td><td>Bán hàng hóa và dịch vụ</td><td>14.025.000</td><td>1.010.036.878</td></tr><tr><td>Bùi Tiến Thắng</td><td>Chủ tịch công ty con</td><td>Bán hàng hóa và dịch vụ</td><td>12.000.000</td><td>-</td></tr><tr><td>Công ty Cổ phần Du lịch Thành Thành Công</td><td>Công ty trong cùng Tập đoàn</td><td>Bán hàng hóa và dịch vụ</td><td>3.905.000</td><td>313.354.400</td></tr></table>
+
+322.076.095.923 213.260.194.446
+
+Trà trước cho người bán
+
+<table><tr><td>Công ty TNHH MTVDịch Vụ Bắt ĐôngSản Minh Anh</td><td>Công ty trongcùng Tập đoàn</td><td>Mua hàng hòavà dịch vụ</td><td>61.500.000.000</td><td></td></tr><tr><td>Công ty Cố phầnkhu Công nghiệpThành Thành Công</td><td>Đầu tư khác</td><td>Mua hàng hòavà dịch vụ</td><td>41.655.000.000</td><td>1.223.588.505</td></tr><tr><td>Công ty Cố phầnmay Tiến Phát</td><td>Công ty liên kết</td><td>Mua hàng hòavà dịch vụ</td><td>5.200.000.000</td><td>27.615.435.180</td></tr><tr><td>Công ty TNHH TưVấn Thiết Kế KiếnTrúc và Xây DụngHải Thành</td><td>Bên liên quan</td><td>Mua hàng hòavà dịch vụ</td><td>385.000.000</td><td>39.768.850</td></tr><tr><td colspan="3"></td><td>108.740.000.000</td><td>28.878.792.535</td></tr></table>
+
+60
+
+===== PAGE 63 =====
+Công ty Cổ phần Địa ốc Sài Gòn Thương Tín
+
+B09-DN/HN
+
+THUYẾT MINH BẢO CẢO TẢI CHÍNH HỢP NHẮT (tiếp theo)
+
+vào ngày 31 tháng 12 năm 2019 và cho năm tài chính kết thúc cũng ngày
+
+35. NGHIỆP VỤ VỚI CẮC BÊN LIÊN QUAN (tiếp theo)
+
+Tại ngày kết thúc ký kể toàn năm, số dư các khoản phải thu và phải trả với các bên liên quan như sau: (tiếp theo)
+
+VND
+
+<table><tr><td>Các bên liên quan</td><td>Mối quan hệ</td><td>Nội dung nghiệp vụ</td><td>Số cuối năm</td><td>Số đầu năm</td></tr><tr><td colspan="5">Phải thu về cho vay ngắn hạn</td></tr><tr><td>Công ty Cổ phầnMay Tiến Phát</td><td>Công ty liên kết</td><td>Cho vay</td><td>1.500.622.550.000</td><td>1.496.963.550.000</td></tr><tr><td>Công ty Cổ phần Khu công nghiệp Thành Thành Công</td><td>Đầu tư khác</td><td>Cho vay</td><td>120.000.000.000</td><td>120.000.000.000</td></tr><tr><td>Công ty Cổ phần Thành Thành Nam</td><td>Công ty trong cùng Tập đoàn</td><td>Cho vay</td><td>88.500.000.000</td><td>88.000.000.000</td></tr><tr><td>Công ty Cổ phần Bất Đông Sản 66</td><td>Công ty trong cùng Tập đoàn</td><td>Cho vay</td><td>85.700.000.000</td><td>85.700.000.000</td></tr><tr><td>Huỳnh Thảo Linh</td><td>Chủ tịch công ty con</td><td>Cho vay</td><td>41.500.000.000</td><td>-</td></tr><tr><td>Công ty Cổ phần Đầu tư Thành Thành Công</td><td>Cổ đông</td><td>Cho vay</td><td>16.616.000.000</td><td>3.316.000.000</td></tr><tr><td>Công ty Cổ phần Sản xuất – Xây dựng – Dịch vụ Hoa Đồng</td><td>Công ty liên kết</td><td>Cho vay</td><td>14.328.000.000</td><td>5.100.000.000</td></tr><tr><td>Công ty Cổ phần Toàn Hải Vân</td><td>Công ty trong cùng Tập đoàn</td><td>Cho vay</td><td>13.663.095.887</td><td>18.094.000.000</td></tr><tr><td>Công ty Cổ phần Đầu tư Kiến trúc Xây dựng Toàn Thịnh Phát</td><td>Bên liên quan</td><td>Cho vay</td><td>6.525.694.445</td><td>6.525.694.445</td></tr><tr><td></td><td></td><td></td><td>1.887.455.340.332</td><td>1.823.699.244.445</td></tr><tr><td colspan="5">Phải thu về cho vay dài hạn</td></tr><tr><td>Trần Lam Thông</td><td>Cổ đông</td><td>Cho vay</td><td>616.666.659</td><td>816.666.663</td></tr><tr><td>Công ty Cổ Phần Đầu Tư Tín Nghĩa Á Châu</td><td>Bên liên quan</td><td>Cho vay</td><td>-</td><td>19.061.397.275</td></tr><tr><td></td><td></td><td></td><td>616.666.659</td><td>19.878.063.938</td></tr></table>
+
+61
+
+17. 金子·梅山 20
+
+===== PAGE 64 =====
+Công ty Cổ phần Địa ốc Sài Gòn Thương Tín
+
+B09-DN/HN
+
+THUYẾT MINH BẢO CẢO TẢI CHÍNH HỢP NHẮT (tiếp theo)
+
+vào ngày 31 tháng 12 năm 2019 và cho năm tài chính kết thúc cứng ngày
+
+35. NGHIỆP VỤ VỚI CÁC BÊN LIÊN QUAN (tiếp theo)
+
+Tại ngày kết thúc ký kế toán năm, số dư các khoản phải thu và phải trả với các bên liên quan như sau: (tiếp theo)
+
+VND
+
+<table><tr><td>Các bên liên quan</td><td>Môi quan hệ</td><td>Nội dung nghiệp vụ</td><td>Số cuối năm</td><td>Số đầu năm</td></tr><tr><td colspan="5">Phải thu khác</td></tr><tr><td>Công ty TNHH Sản xuất Kinh doanh Hai Thành</td><td>Bên liên quan</td><td>Phải thu liên quan đến HDHTKD</td><td>253.765.946.800</td><td>253.286.743.390</td></tr><tr><td>Công ty Cổ phần May Tiến Phát</td><td>Công ty liên kết</td><td>Thu nhập từ cho vay</td><td>156.576.195.238</td><td>70.401.604.052</td></tr><tr><td>Công ty Cổ phần đầu tư Tín Nghĩa Á Châu</td><td>Công ty trong cùng tập đoàn</td><td>Thỏa thuận chuyển giao quyền chọn Khác</td><td>97.264.200.000 61.397.275</td><td>19.061.397.275</td></tr><tr><td>Công ty Cổ phần Thành Thành Nam</td><td>Công ty trong cùng tập đoàn</td><td>Thu nhập từ cho vay</td><td>57.350.000.000</td><td>321.500.000</td></tr><tr><td>Công ty Cổ phần Khu Công nghiệp Thành Thành Công</td><td>Đầu tư khác</td><td>Thu nhập từ cho vay</td><td>28.760.918.547</td><td>15.568.063.930</td></tr><tr><td>Công ty Cổ phần Đầu Tư Bất Đông Sản 66</td><td>Công ty trong cùng Tập đoàn</td><td>Thu nhập từ cho vay</td><td>13.917.750.004</td><td>5.347.750.000</td></tr><tr><td>Trần Lam Thông</td><td>Chủ tịch công ty con</td><td>Tạm ứng phục vụ công tác đèn bù</td><td>13.379.940.012</td><td>18.001.072.972</td></tr><tr><td>Huỳnh Thảo Linh</td><td>Chủ tịch công ty con</td><td>Khác</td><td>2.698.930.445</td><td>-</td></tr><tr><td>Công ty Cổ phần Du Lịch Thành Thành Công Lâm Đồng</td><td>Công ty trong cùng Tập đoàn</td><td>Lãi chậm thanh toán</td><td>2.712.301.369</td><td>2.070.249.998</td></tr><tr><td>Công ty Cổ Phần Toàn Hải Văn</td><td>Công ty trong cùng Tập đoàn</td><td>Thu nhập từ cho vay</td><td>2.526.145.679</td><td>4.346.332.270</td></tr><tr><td>Công ty Cổ phần Đầu tư Thành Thành Công</td><td>Cổ đông</td><td>Thu nhập từ cho vay</td><td>1.492.151.675</td><td>3.270.575</td></tr><tr><td>Công ty Cổ phần Sản Xuất Xây Dương Dịch Vụ Hoa Đồng</td><td>Công ty liên kết</td><td>Thu nhập từ cho vay</td><td>1.294.207.942</td><td>92.050.000</td></tr><tr><td>Công ty Cổ phần Đầu Tư Kiến Trúc Xây Dương Toàn Thịnh Phát</td><td>Bên liên quan</td><td>Thu nhập từ cho vay</td><td>1.188.169.374</td><td>521.467.016</td></tr><tr><td>Vũ Quốc Thái</td><td>Tống giảm đốc</td><td>Khác</td><td>860.000.000</td><td>-</td></tr></table>
+
+62
+
+===== PAGE 65 =====
+Công ty Cổ phần Địa ốc Sài Gòn Thương Tín
+
+B09-DN/HN
+
+THUYÊT MINH BẢO CẢO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+
+vào ngày 31 tháng 12 năm 2019 và cho năm tài chính kết thúc cứng ngày
+
+35. NGHIỆP VỤ VỚI CÁC BÊN LIÊN QUAN (tiếp theo)
+
+Tai ngày kết thúc ký kể toán năm, số dư các khoản phải thu và phải trả với các bên liên quan như sau: (tiếp theo)
+
+<table><tr><td>Các bên liên quan</td><td>Mối quan hệ</td><td>Nội dung nghiệp vụ</td><td>Số cuối năm</td><td>VND Số đầu năm</td></tr><tr><td colspan="5">Phải thu khác (tiếp theo)</td></tr><tr><td>Công ty Cổ phần Đầu Tư SVG</td><td>Công ty liên kết</td><td>Khác</td><td>20.000.000</td><td>-</td></tr><tr><td>Công ty Cổ phần Đầu tư và Thương Mại Thuận Thiên</td><td>Cổ đông</td><td>Khác</td><td>11.405.900</td><td>-</td></tr><tr><td>Thái Văn Chuyện</td><td>Thành viên HDQT</td><td>Ứng trước mua cổ phần</td><td>-</td><td>200.000.000.000</td></tr><tr><td>Công ty Cổ phần Bao bì và Kho bãi Bình Tây</td><td>Bên liên quan</td><td>Khác</td><td>-</td><td>35.000.000</td></tr></table>
+
+633.879.660.260 589.056.501.478
+
+Phải trả người bán ngắn hạn
+
+<table><tr><td>Công ty Cổ phần Đầu tư Thành Thành Công</td><td>Cổ đông</td><td>Mua hàng hóa và dịch vụ</td><td>5.978.069.144</td><td>4.307.205.617</td></tr><tr><td>Công ty Cổ phần Thành Thành Nam</td><td>Cùng Tập đoàn</td><td>Mua hàng hóa và dịch vụ</td><td>5.026.291.346</td><td>788.102.600</td></tr><tr><td>Công ty Cổ phần May Tiến Phát</td><td>Công ty liên kết</td><td>Mua hàng hóa và dịch vụ</td><td>2.349.037.020</td><td>77.900.000.000</td></tr><tr><td>Công ty Cổ phần Khu Công nghiệp Thành Thành Công</td><td>Đầu tư khác</td><td>Mua hàng hóa và dịch vụ</td><td>2.147.602.261</td><td>-</td></tr><tr><td>Công ty Cổ phần Đầu tư Kiến trúc Xây dựng Toàn Thịnh Phát</td><td>Bên liên quan</td><td>Mua hàng hóa và dịch vụ</td><td>1.726.722.673</td><td>45.925.218.918</td></tr><tr><td>Công ty TNHH Sản xuất Kinh doanh Hai Thành</td><td>Bên liên quan</td><td>Mua hàng hóa và dịch vụ</td><td>536.378.368</td><td>593.785.757</td></tr><tr><td>Công ty Cổ phần Du Lịch Thành Thành Công</td><td>Công ty trong cứng Tập đoàn</td><td>Mua hàng hóa và dịch vụ</td><td>392.384.358</td><td>741.090.703</td></tr><tr><td>Công ty TNHH Tư Văn Thiết Kế Kiến Trúc và Xây Dương Hải Thành</td><td>Bên liên quan</td><td>Mua hàng hóa và dịch vụ</td><td>48.902.050</td><td>-</td></tr><tr><td>Công ty Cổ phần Xuất nhập khẩu Bến Tre</td><td>Bên liên quan</td><td>Mua hàng hóa và dịch vụ</td><td>6.000.000</td><td>-</td></tr><tr><td>Công ty Cổ phần Du Lịch Thành Thành Công Lâm Đồng</td><td>Công ty trong cứng Tập đoàn</td><td>Mua hàng hóa và dịch vụ</td><td>936.000</td><td>-</td></tr><tr><td>Công ty TNHH MTV Kỹ Thuật Xây dựng Toàn Thịnh Phát</td><td>Bên liên quan</td><td>Mua hàng hóa và dịch vụ</td><td>-</td><td>11.151.238.815</td></tr></table>
+
+18.212.323.220 141.406.642.410
+
+63
+
+===== PAGE 66 =====
+Công ty Cổ phần Địa ốc Sài Gòn Thương Tín
+
+B09-DN/HN
+
+THUYÊT MINH BẢO CẢO TÀI CHÍNH HỢP NHẮT (tiếp theo)
+
+vào ngày 31 tháng 12 năm 2019 và cho năm tài chính kết thúc cùng ngày
+
+35. NGHIỆP VỤ VỚI CÁC BÊN LIÊN QUAN (tiếp theo)
+
+Tại ngày kết thúc kỳ kế toán năm, số dư các khoản phải thu và phải trả với các bên liên quan như sau: (tiếp theo)
+
+<table><tr><td>Các bên liên quan</td><td>Mối quan hệ</td><td>Nội dung nghiệp vụ</td><td>Số cuối năm</td><td>VND Số đầu năm</td></tr><tr><td colspan="5">Người mua trả tiền trước ngắn hạn</td></tr><tr><td>Vũ Quốc Thái</td><td>Tổng giám đốc</td><td>Bán hàng hóa và dịch vụ</td><td>17.550.000.742</td><td>-</td></tr><tr><td>Công ty Cổ phầnKhu Công nghiệpThành Thành Công</td><td>Đầu tư khác</td><td>Bán hàng hóa và dịch vụ</td><td>1.017.879.675</td><td>-</td></tr><tr><td>Công ty Cổ phầnSản xuất – Xây dựng– Dịch vụ Hoa Đồng</td><td>Công ty liên kết</td><td>Bán hàng hóa và dịch vụ</td><td>434.703.225</td><td>-</td></tr><tr><td>Công ty Cổ phầnXuất nhập khẩuBến Tre</td><td>Cổ đông</td><td>Bán hàng hóa và dịch vụ</td><td>-</td><td>20.213.560.303</td></tr><tr><td>Công ty Cổ phầnMay Tiến Phát</td><td>Công ty liên kết</td><td>Bán hàng hóa và dịch vụ</td><td>-</td><td>277.200.000</td></tr><tr><td colspan="3"></td><td>19.002.583.642</td><td>20.490.760.303</td></tr><tr><td colspan="5">Phải trả khác</td></tr><tr><td>Trần Lam Thông</td><td>Cổ đông</td><td>Khác</td><td>17.386.797.674</td><td>-</td></tr><tr><td>Huỳnh Thảo Linh</td><td>Chủ tịch công ty con</td><td>Khác</td><td>14.145.765.000</td><td>-</td></tr><tr><td>Công ty Cổ phầnĐầu tư Kiến trúcXây dựng ToánThịnh Phát</td><td>Bên liên quan</td><td>Chi phí tư vấn</td><td>9.552.124.154</td><td>88.851.000</td></tr><tr><td>Công ty Cổ phầnĐầu tư Xây dựngHùng Anh</td><td>Bên liên quan</td><td>Chi phí tư vấn</td><td>2.000.000.000</td><td>1.200.000.000</td></tr><tr><td>Vũ Quốc Thái</td><td>Tổng giám đốc</td><td>Khác</td><td>1.038.843.225</td><td>-</td></tr><tr><td>Công ty Cổ phầnMay Tiến Phát</td><td>Công ty liên kết</td><td>Tạm ứng mua bất động sản đầu tư</td><td>100.000.000</td><td>53.861.710.522</td></tr><tr><td>Lâm Minh Châu</td><td>Thành viên HĐQT</td><td>Khác</td><td>20.379.742</td><td>-</td></tr><tr><td colspan="3"></td><td>44.243.909.795</td><td>55.150.561.522</td></tr></table>
+
+64
+
+===== PAGE 67 =====
+Công ty Cổ phần Địa ốc Sài Gòn Thương Tín
+
+B09-DN/HN
+
+THUYẾT MINH BẢO CẢO TẢI CHÍNH HỢP NHẤT (tiếp theo)
+
+vảo ngày 31 tháng 12 năm 2019 và cho năm tài chính kết thúc cũng ngày
+
+35. NGHIỆP VỤ VỚI CÁC BÊN LIÊN QUAN (tiếp theo)
+
+Tại ngày kết thúc kỳ kể toán năm, số dư các khoản phải thu và phải trả với các bên liên quan như sau: (tiếp theo)
+
+<table><tr><td>Các bên liên quan</td><td>Môi quan hệ</td><td>Nội dung nghiệp vụ</td><td>Số cuối năm</td><td>VND Số đầu năm</td></tr><tr><td colspan="5">Vay</td></tr><tr><td>Công ty Cổ phần Đầu tư Tín Nghĩa Á Châu</td><td>Công ty trong cùng Tập đoàn</td><td>Vay</td><td>59.750.000.000</td><td>-</td></tr><tr><td>Công ty Cổ phần Khu Công nghiệp Thành Thành Công</td><td>Đầu tư khác</td><td>Vay</td><td>30.000.000.000</td><td>-</td></tr><tr><td>Công ty Cổ phần Bao bì và Kho bãi Bình Tây</td><td>Bên liên quan</td><td>Vay</td><td>23.552.000.000</td><td>13.100.000.000</td></tr><tr><td>Vay từ các cố đông</td><td>Cổ đông</td><td>Vay</td><td>22.646.076.379</td><td>10.673.337.806</td></tr><tr><td>Công ty Cổ phần Đầu tư Địa ốc Kim Thành</td><td>Công ty liên kết</td><td>Vay</td><td>9.500.000.000</td><td>9.500.000.000</td></tr><tr><td>Công ty Cổ phần Du Lịch Thành Thành Công Lâm Đồng</td><td>Công ty trong cùng Tập đoàn</td><td>Vay</td><td>5.000.000.000</td><td>-</td></tr><tr><td>Công ty TNHH MTV Kỹ thuật xây dựng Toàn Thịnh Phát</td><td>Bên liên quan khác</td><td>Vay</td><td>291.510.549</td><td>104.500.000.000</td></tr><tr><td colspan="3"></td><td>150.739.586.928</td><td>137.773.337.806</td></tr></table>
+
+Thu nhập của các thành viên Hội đồng Quản trị và Ban Tổng Giám đốc được trình bày như sau:
+
+<table><tr><td></td><td>Năm nay</td><td>VNDNăm trước</td></tr><tr><td>Thủ lao Hội đồng Quản trị</td><td>13.964.343.942</td><td>17.236.239.232</td></tr><tr><td>Thủ lao, lương Ban Tổng Giám đốc</td><td>3.333.009.896</td><td>13.075.747.997</td></tr><tr><td>TỔNG CÔNG</td><td>17.297.353.838</td><td>30.311.987.229</td></tr></table>
+
+65
+
+===== PAGE 68 =====
+Công ty Cổ phần Địa ốc Sài Gòn Thương Tín
+
+B09-DN/HN
+
+THUYÊT MINH BÁO CẢO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+
+vào ngày 31 tháng 12 năm 2019 và cho năm tài chính kết thúc cùng ngày
+
+36. LÃI TRÊN CÓ PHIÊU
+
+Lãi cơ bản trên cổ phiếu được tính bằng cách chia lợi nhuận sau thuế thuộc về cổ đông sở hữu cổ phiếu phổ thông của Công ty (sau khi đã điều chỉnh cho việc trích lập quỹ khen thưởng, phúc lợi) cho sổ lượng bình quân gia quyền của sổ cổ phiếu phổ thông đang lưu hành trong năm.
+
+Tập đoàn sử dụng các thông tin sau để tính lãi cơ bản trên cổ phiếu:
+
+<table><tr><td></td><td>Năm nay</td><td>Năm trước(Trình bày lại)</td></tr><tr><td>Lợi nhuận sau thuế (VND)</td><td>274.252.409.056</td><td>201.996.966.303</td></tr><tr><td>Trừ: Quỹ khen thưởng phúc lợi (VND) (i)</td><td>-</td><td>(8.281.755.418)</td></tr><tr><td>Lợi nhuận sau thuế thuộc về cổ đông sở hữucổ phiếu phổ thông (VND)</td><td>274.252.409.056</td><td>193.715.210.885</td></tr><tr><td>Bình quân gia quyền của số cổ phiếu phổ thông(không bao gồm cổ phiếu quỹ) (cổ phiếu) (ii)</td><td>366.360.489</td><td>348.875.307</td></tr><tr><td>Lãi cơ bản và lãi suy giảm trên cổ phiếu(VND/cổ phiếu)</td><td>749</td><td>555</td></tr></table>
+
+(i) Lợi nhuận đúng để tính lãi trên cổ phiếu cho năm tài chính kết thúc ngày 31 tháng 12 năm 2018 được điều chỉnh giảm cho khoản trích quỹ khen thưởng, phúc lợi trích lập theo Nghị quyết Đại hội đồng cổ đông ("NQ ĐHĐCD") số 03/2019/NQ-ĐHĐCD ngày 23 tháng 4 năm 2019.
+
+(ii) Số cổ phiếu phổ thông đang lưu hành bình quân cho năm tài chính kết thúc ngày 31 tháng 12 năm 2019 và ngày 31 tháng 12 năm 2018 đã được điều chỉnh để phân ảnh việc phát hành 27.137.814 cổ phiếu từ nguồn lợi nhuận sau thuế chưa phân phối vào ngày 14 tháng 1 năm 2020 (Thuyết minh số 40).
+
+Không có cổ phiếu phổ thông tiêm tảng suy giảm trong năm và đến ngày lập bảo cáo tài chính hợp nhất này.
+
+66
+
+===== PAGE 69 =====
+Công ty Cổ phần Địa ốc Sài Gòn Thương Tín
+
+B09-DN/HN
+
+THUYẾT MINH BẢO CẢO TÀI CHỈNH HỢP NHẤT (tiếp theo)
+
+vào ngày 31 tháng 12 năm 2019 và cho năm tái chính kết thúc cứng ngày
+
+37. CÁC CAM KẾT VÀ CÁC KHOÀN NỘ TIỂM TẢNG
+
+Cam kết theo hợp đồng thuê hoạt động
+
+Tập đoàn hiện đang thuê tài sản theo hợp đồng thuê hoạt động. Vào ngày kết thúc ký kế toán năm, các khoản tiền thuê tối thiểu trong tương lai theo hợp đồng thuê hoạt động được trình bày như sau:
+
+<table><tr><td></td><td>Số cuối năm</td><td>VND Số đầu năm</td></tr><tr><td>Đến 1 năm</td><td>11.618.470.177</td><td>17.337.060.559</td></tr><tr><td>Trên 1 đến 5 năm</td><td>41.161.547.144</td><td>62.473.824.718</td></tr><tr><td>Trên 5 năm</td><td>383.870.422.581</td><td>360.421.829.999</td></tr><tr><td>TỔNG CỘNG</td><td>436.650.439.902</td><td>440.232.715.276</td></tr></table>
+
+Cam kết theo hợp đồng cho thuê hoạt động
+
+Tập đoàn hiện đang cho thuê bất động sản đầu tư theo hợp đồng thuê hoạt động. Vào ngày kết thúc ký kế toán năm, các khoản tiền thuê tối thiểu thu được trong tương lai theo hợp đồng thuê hoạt động được trình bày như sau:
+
+<table><tr><td></td><td>Số cuối năm</td><td>VND Số đầu năm</td></tr><tr><td>Đền 1 năm</td><td>5.544.000.000</td><td>5.280.000.000</td></tr><tr><td>Trên 1 đến 5 năm</td><td>22.176.000.000</td><td>21.120.000.000</td></tr><tr><td>Trên 5 năm</td><td>59.598.000.000</td><td>56.760.000.000</td></tr><tr><td>TỔNG CỘNG</td><td>87.318.000.000</td><td>83.160.000.000</td></tr></table>
+
+Các cam kết vốn
+
+Tại ngày 31 tháng 12 năm 2019, Tập đoàn cỏ các cam kết hợp đồng cho việc xây dựng dự án căn hộ, nhà phố và biết thư như sau:
+
+<table><tr><td></td><td>Giá trị theo hợp đồng</td><td>Giá trị đã ghi nhận</td><td>VNDGiá trị cam kết còn lại</td></tr><tr><td>Dự án Jamona City</td><td>3.538.556.430.364</td><td>2.999.628.867.890</td><td>538.927.562.474</td></tr><tr><td>Dự án Jamona Golden Silk</td><td>1.003.589.907.355</td><td>940.603.440.280</td><td>62.986.467.075</td></tr><tr><td>Dự án Carillon 6</td><td>935.241.862.000</td><td>5.238.090.955</td><td>930.003.771.045</td></tr><tr><td>Dự án Carillon 7</td><td>852.067.056.364</td><td>402.102.450.813</td><td>449.964.605.551</td></tr><tr><td>Dự án Charmington LaPointe</td><td>592.099.294.475</td><td>499.000.377.285</td><td>93.098.917.190</td></tr><tr><td>Dự án Carillon 5</td><td>278.858.312.607</td><td>238.951.361.275</td><td>39.906.951.332</td></tr><tr><td>Dự án Charmington Tamashi Đà Nẵng</td><td>203.931.669.128</td><td>38.713.684.922</td><td>165.217.984.206</td></tr><tr><td>Dự án TTC Plaza Đức Trong</td><td>151.244.181.818</td><td>55.192.452.879</td><td>96.051.728.939</td></tr><tr><td>Dự án Charmington Plaza</td><td>6.748.781.818</td><td>1.043.895.015</td><td>5.704.886.803</td></tr><tr><td>TỔNG CỘNG</td><td>7.562.337.495.929</td><td>5.180.474.621.314</td><td>2.381.862.874.615</td></tr></table>
+
+67
+
+===== PAGE 70 =====
+Công ty Cổ phần Địa ốc Sài Gòn Thương Tín
+
+B09-DN/HN
+
+THUYÊT MINH BẢO CẢO TÀI CHÍNH HỢP NHẮT (tiếp theo)
+
+vào ngày 31 tháng 12 năm 2019 và cho năm tài chính kết thúc cùng ngày
+
+38. ĐIỀU CHÌNH SAI SỐT NĂM TRƯỚC VÀ PHÂN LOẠI LẠI DỮ LIỆU TƯƠNG ỨNG
+
+Như được trình bày tại Thuyết minh số 4.3, việc đánh giá lai giá trị hợp lý tài sản thuần của NKĐN tại ngày mua đã hoàn thành. Theo đó, Tập đoàn đã điều chỉnh hồi tố báo cáo tài chính hợp nhất của năm trước để phân ánh việc hoàn tất đánh giá giá trị tài sản thuần của NKĐN. Ánh hưởng của điều chỉnh hồi tố được tóm tất như sau:
+
+VND
+
+Số đầu năm
+(đã được trình bày
+trước đây)
+
+Điều chính lại
+
+Số đầu năm
+(được trình bày lại)
+
+BẢNG CẦN ĐỐI KẾ TOÁN HỢP NHẤT VÀO NGÀY 31 THÁNG 12 NĂM 2018
+
+<table><tr><td>Phải thu ngắn hạn của khách hàng</td><td>462.203.738.098</td><td>95.000.000</td><td>462.298.738.098</td></tr><tr><td>Hàng tồn kho</td><td>3.975.878.925.817</td><td>(16.503.327.869)</td><td>3.959.375.597.948</td></tr><tr><td>Thu nhập thuế hoãn lại</td><td>98.314.255.172</td><td>(4.178.100.000)</td><td>94.136.155.172</td></tr><tr><td>Lợi nhuận sau thuế chưa phân phối</td><td>331.191.377.780</td><td>33.864.289.356</td><td>365.055.667.136</td></tr><tr><td>Lợi nhuận sau thuế chưa phân phối lũy kế đến cuối năm trước</td><td>116.612.441.397</td><td>46.446.259.436</td><td>163.058.700.833</td></tr><tr><td>Lợi nhuận sau thuế chưa phân phối lũy kế năm nay</td><td>214.578.936.383</td><td>(12.581.970.080)</td><td>201.996.966.303</td></tr><tr><td>Lợi ích cổ đông không kiểm soát</td><td>272.322.245.425</td><td>351.748.551</td><td>272.673.993.976</td></tr></table>
+
+BẢO CẢO KẾT QUẢ HOẠT ĐỘNG KINH DOANH CHO NĂM TẢI CHÍNH KẾT THỨC NGÀY 31 THÁNG 12 NĂM 2018
+
+<table><tr><td>Doanh thu tài chính</td><td>222.551.445.335</td><td>(17.064.148.551)</td><td>205.487.296.784</td></tr><tr><td>Chi phí quản lý</td><td></td><td></td><td></td></tr><tr><td>doanh nghiệp</td><td>(178.058.544.462)</td><td>4.482.172.131</td><td>(173.576.372.331)</td></tr><tr><td>Lợi nhuận sau thuế TNDN</td><td>220.046.086.158</td><td>(12.581.976.420)</td><td>207.464.109.738</td></tr><tr><td>Lợi nhuận sau thuế của cổ đông công ty mẹ</td><td>214.578.936.383</td><td>(12.581.970.080)</td><td>201.996.966.303</td></tr><tr><td>Lỗ sau thuế của cổ đông không kiểm soát</td><td>5.467.149.775</td><td>-</td><td>5.467.149.775</td></tr></table>
+
+68
+
+===== PAGE 71 =====
+Công ty Cổ phần Địa ốc Sài Gòn Thương Tín
+
+THUYẾT MINH BẢO CẢO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+vảo ngày 31 tháng 12 năm 2019 và cho năm tài chính kết thúc cùng ngày
+
+38. ĐIỀU CHÍNH SAI SỐT NĂM TRƯỚC VÀ PHÂN LOẠI LẠI Dữ LIỆU TƯƠNG ỨNG (tiếp theo)
+
+Ngoài những điều chỉnh hỏi tố như trên, một vài khoản mục của báo cáo tài chính hợp nhất vào ngày và cho năm tài chính kết thúc 31 tháng 12 năm 2018 cũng đã được phân loại lại cho phù hợp với cách trình bày của báo cáo tài chính hợp nhất của năm hiện hành. Ănh hưởng của việc điều chỉnh trên và phân loại lại này đến báo cáo tài chính hợp nhất được trình bày như sau:
+
+<table><tr><td></td><td>Số đầu năm(dã được trình bày trước đây)</td><td>Điều chỉnh lại</td><td>Phân loại lại</td><td>VND Số đầu năm(được trình bày lại)</td></tr><tr><td colspan="5">BẢNG CẦN ĐỐI KẾ TOÁN HỢP NHẤT VẢO NGÀY 31 THẢNG 12 NĂM 2018</td></tr><tr><td>Phải thu ngắn hạn của khách hàng</td><td>462.203.738.098</td><td>95.000.000</td><td>53.861.710.522</td><td>516.160.448.620</td></tr><tr><td>Phải thu ngắn hạn khác</td><td>266.314.212.787</td><td>-</td><td>216.298.528.906</td><td>482.612.741.693</td></tr><tr><td>Hàng tồn kho</td><td>3.975.878.925.817</td><td>(16.503.327.869)</td><td>337.612.882.541</td><td>4.296.988.480.489</td></tr><tr><td>Thuế và các khoản khác phải thu Nhà nước</td><td>27.356.817.321</td><td>-</td><td>(16.298.528.906)</td><td>11.058.288.415</td></tr><tr><td>Tài sản cố định vô hình</td><td>641.034.958.660</td><td>-</td><td>(436.623.327.869)</td><td>204.411.630.791</td></tr><tr><td>Nguyên giá</td><td>658.307.170.061</td><td>-</td><td>(441.105.500.000)</td><td>217.201.670.061</td></tr><tr><td>Giá trị hao mòn lũy kế</td><td>(17.272.211.401)</td><td>-</td><td>4.482.172.131</td><td>(12.790.039.270)</td></tr><tr><td>Dầu tư góp vốn vào đơn vị khác</td><td>242.475.000.000</td><td>-</td><td>(200.000.000.000)</td><td>42.475.000.000</td></tr><tr><td>Chi phí trả trước dài hạn</td><td>24.380.096.743</td><td>-</td><td>243.983.045.942</td><td>268.363.142.685</td></tr><tr><td>Tài sản dài hạn khác</td><td>139.270.840.614</td><td>-</td><td>(139.270.840.614)</td><td>-</td></tr><tr><td>Phải trả ngắn hạn khác</td><td>1.199.804.327.288</td><td>-</td><td>53.861.710.522</td><td>1.253.666.037.810</td></tr><tr><td>Thuế thu nhập hoãn lại phải trả</td><td>98.314.255.172</td><td>(4.178.100.000)</td><td>-</td><td>94.136.155.172</td></tr><tr><td>Lợi nhuận sau thuế chưa phân phối</td><td>331.191.377.780</td><td>-</td><td>33.864.289.356</td><td>365.055.667.136</td></tr><tr><td>Lợi nhuận sau thuế chưa phân phối</td><td></td><td></td><td></td><td></td></tr><tr><td>lũy kế đến cuối năm trước</td><td>116.612.441.397</td><td>-</td><td>46.446.259.436</td><td>163.058.700.833</td></tr><tr><td>Lợi nhuận sau thuế chưa phân phối</td><td></td><td></td><td></td><td></td></tr><tr><td>lũy kế năm nay</td><td>214.578.936.383</td><td>(12.581.970.080)</td><td>-</td><td>201.996.966.303</td></tr><tr><td>Lợi ích cố đông không kiểm soát</td><td>272.322.245.425</td><td>351.748.551</td><td>(46.446.259.436)</td><td>226.227.734.540</td></tr><tr><td colspan="5">BẢO CẢO KẾT QUẢ HOẠT ĐỘNG KINH DOANH CHO NĂM TÀI CHÍNH KẾT THỨC NGÀY 31 THÁNG 12 NĂM 2018</td></tr><tr><td>Doanh thu hoạt động tài chính</td><td>222.551.445.335</td><td>(17.064.148.551)</td><td>-</td><td>205.487.296.784</td></tr><tr><td>Chi phí quản lý doanh nghiệp</td><td>(178.058.544.462)</td><td>4.482.172.131</td><td>-</td><td>(173.576.372.331)</td></tr><tr><td>Lợi nhuận sau thuế TNDN</td><td>220.046.086.158</td><td>(12.581.970.080)</td><td>-</td><td>207.464.116.078</td></tr><tr><td>Lợi nhuận sau thuế của cố đông công ty mẹ</td><td>214.578.942.723</td><td>(12.581.970.080)</td><td>-</td><td>201.996.966.303</td></tr><tr><td>Lỗ sau thuế của cố đông không kiểm soát</td><td>5.467.149.775</td><td>-</td><td>-</td><td>5.467.149.775</td></tr><tr><td>Lãi cơ bản trên cố phiếu</td><td>642</td><td>(87)</td><td></td><td>555</td></tr><tr><td>Lãi pha loãng trên cố phiếu</td><td>642</td><td>(87)</td><td></td><td>555</td></tr></table>
+
+B09-DN/HN
+
+===== PAGE 72 =====
+Công ty Cổ phần Địa ốc Sài Gòn Thương Tín
+
+THUYẾT MINH BẢO CẢO TẢI CHÍNH HỢP NHẤT (tiếp theo)
+vào ngày 31 tháng 12 năm 2019 và cho năm tải chính kết thúc cứng ngày
+
+38. ĐIỀU CHÌNH SAI SỐT NĂM TRƯỚC VÀ PHẦN LOẠI LẠI DỮ LIỆU TƯƠNG ỨNG (tiếp theo)
+
+Ngoái những điều chỉnh hỏi tố như trên, một vài khoản mục của báo cáo tài chính hợp nhất vào ngày và cho năm tài chính kết thúc 31 tháng 12 năm 2018 cũng đã được phân loại lại cho phù hợp với cách trình bày của báo cáo tài chính hợp nhất của năm hiện hành. Ánh hưởng của việc điều chỉnh trên và phân loại lại này đến báo cáo tài chính hợp nhất được trình bày như sau: (tiếp theo)
+
+<table><tr><td></td><td>Số đầu năm(dã được trình bày trước đây)</td><td>Điều chỉnh lại</td><td>Phân loại lại</td><td>VNDSố đầu năm(được trình bày lại)</td></tr><tr><td colspan="5">BẢO CẢO LƯU CHUYÊN TIỀN TỆ CHO NĂM TÀI CHÍNH KẾT THỨC NGÀY 31 THÁNG 12 NĂM 2018</td></tr><tr><td>Lợi nhuận trước thuế</td><td>321.622.038.412</td><td>(12.581.976.420)</td><td>-</td><td>309.040.061.992</td></tr><tr><td>Tăng khoán phải thu</td><td>(63.544.857.268)</td><td>(95.000.000)</td><td>(53.861.710.522)</td><td>(117.501.567.790)</td></tr><tr><td>Giảm hàng tồn kho</td><td>519.881.628.557</td><td>16.503.327.869</td><td>243.983.045.942</td><td>780.368.002.368</td></tr><tr><td>Giảm khoán phải trả</td><td>(219.779.461.408)</td><td>(3.826.351.449)</td><td>53.861.710.522</td><td>(169.744.102.335)</td></tr><tr><td>Tăng chi phí trả trước</td><td>1.670.728.071</td><td>-</td><td>(243.983.045.942)</td><td>(242.312.317.871)</td></tr></table>
+
+B09-DN/HN
+
+70
+
+===== PAGE 73 =====
+Công ty Cổ phần Địa ốc Sài Gòn Thương Tín
+
+B09-DN/HN
+
+THUYÊT MINH BẢO CẢO TẢI CHÍNH HỢP NHẮT (tiếp theo)
+
+vào ngày 31 tháng 12 năm 2019 và cho năm tài chính kết thúc cũng ngày
+
+39. CÁC CHÍ TIÊU NGOÀI BÁNG CÂN Đ<|box_end|><|ref_start|> KẾ TOÁN
+
+<table><tr><td>Nợ khó đòi đã xử lý</td><td>Thời gian quả hạn</td><td>Số cuối năm</td><td>VND Số đầu năm</td></tr><tr><td>Công ty TNHH Thương mai –Dịch vụ Kinh doanh Địa ốc ViệtR.E.M.A.X</td><td>trên 6 năm</td><td>50.000.000.000</td><td>-</td></tr><tr><td>Công ty TNHH Xây dựng ÁĐồng</td><td>trên 6 năm</td><td>36.219.590.000</td><td>-</td></tr><tr><td>TỔNG CỘNG</td><td></td><td>86.219.590.000</td><td>-</td></tr></table>
+
+40. SỰ KIỆN PHÁT SINH SAU NGÀY KẾT THỨC KỸ KẾ TOÁN NĂM
+
+Theo Nghị quyết Đai hỏi đồng Cổ đông số 05/2019/NQ-ĐHĐCĐ ngày 23 tháng 4 năm 2019, và Nghị quyết Highly đông Quản trị số 01/2020/NQ-HDQT ngày 14 tháng 1 năm 2020 thông qua phương án phát hành cổ phiếu mới cho cổ đông hiện hữu theo tỷ lệ 100:8 từ nguồn lợi nhuận sau thuế chưa phân phối, Tập đoàn đã hoàn tất việc phát hành thêm 27.137.814 cổ phiếu từ nguồn lợi nhuận sau thuế chưa phân phối vào ngày 14 tháng 1 năm 2020. Vốn điều lệ đã đăng ký của Tập đoàn đã tăng từ 3.392.226.750.000 VND lên 3.663.563.030.000 VND. Vào ngày lập báo cáo này, Công ty hiện đang trong quá trình để trình hồ sơ lên Sở Kế hoạch và Đầu tư Thành phố Hồ Chí Minh để xin điều chỉnh Giấy Chứng nhận Đăng kỳ Doanh nghiệp về việc tăng vốn điều lệ này.
+
+Ngoài sự kiện được nếu trên, không có sự kiện trọng yếu nào khác phát sinh sau ngày kết thúc ký kế toán năm yêu cầu phải được điều chỉnh hay trình bày trong báo cáo tái chính hợp nhất của Tập đoàn.
+
+Ngày 30 tháng 3 năm 2020
+
+71

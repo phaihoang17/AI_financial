@@ -1,0 +1,949 @@
+===== PAGE 1 =====
+KPMG
+
+Công ty Cổ phần Masan MEATLife (trước đây là “Công ty Cổ phần Masan Nutri-Science”)
+
+Báo cáo tài chính riêng cho năm
+kết thúc ngày 31 tháng 12 năm 2019
+
+===== PAGE 2 =====
+Công ty Cổ phần Masan MEATLife (trước đây là “Công ty Cổ phần Masan Nutri-Science”) Thông tin về Công ty
+
+<table><tr><td>Giấy Chứng nhận Đăng kýDoanh nghiệp số</td><td>0311224517</td><td>ngày 7 tháng 10 năm 2011</td></tr><tr><td></td><td colspan="2">Giấy Chứng nhận Đăng ký Doanh nghiệp của Công ty đã được điều chỉnh nhiều lần, lần điều chỉnh gần nhất là vào ngày 29 tháng 8 năm 2019. Giấy Chứng nhận Đăng ký Doanh nghiệp và các giấy chứng nhận điều chỉnh do Sở Kế hoạch và Đầu tư Thành phố Hồ Chí Minh cấp.</td></tr><tr><td>Hội đồng Quản trị</td><td>Ông Danny LeÔng Yew Kean LaiÔng Phạm Trung LâmÔng Trần Phương BắcÔng Neal Leroux KokÔng David Tan Wei Ming</td><td>Chủ tịchPhó Chủ tịch(đến ngày 14 tháng 10 năm 2019)Thành viênThành viênThành viên(từ ngày 20 tháng 4 năm 2019)Thành viên(đến ngày 19 tháng 4 năm 2019)</td></tr><tr><td>Ban Tổng Giám đốc</td><td>Ông Phạm Trung Lâm</td><td>Tổng Giám đốc</td></tr><tr><td>Trụ sở đăng ký</td><td>Lầu 10, Tòa nhà Central Plaza17 Lê DuẩnPhường Bến Nghé, Quận 1Thành phố Hồ Chí Minh Việt Nam</td><td></td></tr><tr><td>Công ty kiểm toán</td><td>Công ty TNHH KPMG Việt Nam</td><td></td></tr></table>
+
+1
+
+(2) \( \because {AD} = {BD} = 1 \)
+
+===== PAGE 3 =====
+Công ty Cổ phần Masan MEATLife (trước đây là “Công ty Cổ phần Masan Nutri-Science”) Báo cáo của Ban Tổng Giám đốc
+
+Ban Tổng Giám đốc Công ty Cổ phần Masan MEATLife (trước đây là “Công ty Cổ phần Masan Nutri-Science”) (“Công ty”) trình bày báo cáo này và báo cáo tài chính riêng đính kèm của Công ty cho năm kết thúc ngày 31 tháng 12 năm 2019.
+
+Ban Tổng Giám đốc Công ty chịu trách nhiệm lập và trình bày trung thực và hợp lý báo cáo tài chính riêng theo các Chuẩn mực Kế toán Việt Nam, Chế độ Kế toán Doanh nghiệp Việt Nam và các quy định pháp lý có liên quan đến việc lập và trình bày báo cáo tài chính. Theo ý kiến của Ban Tổng Giám đốc Công ty:
+
+(a) báo cáo tài chính riêng được trình bày từ trang 5 đến trang 37 đã phần ánh trung thực và hợp lý tính hình tài chính riêng của Công ty tại ngày 31 tháng 12 năm 2019, kết quả hoạt động kinh doanh riêng và lưu chuyển tiền tệ riêng của Công ty cho năm kết thúc cùng ngày, phù hợp với các Chuẩn mực Kế toán Việt Nam, Chế độ Kế toán Doanh nghiệp Việt Nam và các quy định pháp lý có liên quan đến việc lập và trình bày báo cáo tài chính; và
+
+(b) tại ngày lập báo cáo này, không có lý do gì để Ban Tổng Giám đốc Công ty cho ràng Công ty sẽ không thể thanh toán các khoản nợ phải trả khi đến han.
+
+Tại ngày lập báo cáo này, Ban Tổng Giám đốc Công ty đã phê duyệt phát hành báo cáo tài chính riêng dính kèm.
+
+Thay mặt Ban Tổng Giám đốc
+
+Phạm Trung Lâm
+
+Tổng Giám đốc
+
+Thành phố Hồ Chí Minh, ngày 20 tháng 3 năm 2020
+
+2
+
+===== PAGE 4 =====
+KPMG
+
+KPMG Limited Branch
+
+\(10^{\text{th}}\) Floor, Sun Wah Tower
+
+115 Nguyen Hue Street, Ben Nghe Ward
+
+District 1, Ho Chi Minh City, Vietnam
+
++84 (28) 3821 9266 | kpmg.com.vn
+
+BÁO CÁO KIỂM TOÁN ĐỘC LẬP
+
+Kính gửi các Cổ đông
+
+Công ty Cổ phần Masan MEATLife (trước đây là “Công ty Cổ phần Masan Nutri-Science”)
+
+Chúng tôi đã kiểm toán báo cáo tài chính riêng đính kèm của Công ty Cổ phần Masan MEATLife (trước đây là “Công ty Cổ phần Masan Nutri-Science”) (“Công ty”), bao gồm bảng cân đối kế toán riêng tại ngày 31 tháng 12 năm 2019, báo cáo kết quả hoạt động kinh doanh riêng và báo cáo lưu chuyển tiền tệ riêng cho năm kết thúc cùng ngày và các thuyết minh kèm theo được Ban Tổng Giám đốc Công ty phê duyệt phát hành ngày 20 tháng 3 năm 2020, được trình bày từ trang 5 đến trang 37.
+
+Trách nhiệm của Ban Tổng Giám đốc
+
+Ban Tổng Giám đốc Công ty chịu trách nhiệm lập và trình bày trung thực và hợp lý báo cáo tài chính riêng này theo các Chuẩn mực Kế toán Việt Nam, Chế độ Kế toán Doanh nghiệp Việt Nam và các quy định pháp lý có liên quan đến việc lập và trình bày báo cáo tài chính, và chịu trách nhiệm về kiểm soát nội bộ mà Ban Tổng Giám đốc xác định là cần thiết để đảm bảo việc lập báo cáo tài chính riêng không có sai sót trọng yếu do gian lận hay nhằm lẫn.
+
+Trách nhiệm của kiểm toán viên
+
+Trách nhiệm của chúng tôi là đưa ra ý kiến về báo cáo tài chính riêng này dựa trên kết quả kiểm toán của chúng tôi. Chúng tôi đã thực hiện công việc kiểm toán theo các Chuẩn mục Kiểm toán Việt Nam. Các chuẩn mục này yêu cầu chúng tôi tuân thủ chuẩn mục và các quy định về đạo đức nghề nghiệp và lập kế hoạch và thực hiện cuộc kiểm toán để đạt được sự đảm bảo hợp lý về việc liệu báo cáo tài chính riêng có còn sai sót trọng yếu hay không.
+
+Công việc kiểm toán bao gồm việc thực hiện các thủ tục nhằm thu thập các bằng chứng kiểm toán về các số liệu và các thuyết minh trong báo cáo tài chính riêng. Các thủ tục được lựa chọn đưa trên xét đoán của kiểm toán viên, bao gồm đánh giá rủi ro có sai sót trọng yếu trong báo cáo tài chính riêng do gian lập hoặc nhằm lân. Khi thực hiện các đánh giá rủi ro này, kiểm toán viên xem xét kiểm soát nội bộ của Công ty liên quan tới việc lập và trình bày báo cáo tài chính riêng trung thực và hợp lý nhằm thiết kế các thủ tục kiểm toán phù hợp với tình hình thực tế, tuy nhiên không nhằm mục đích đưa ra ý kiến về hiệu quả của kiểm soát nội bộ của Công ty. Công việc kiểm toán cũng bao gồm việc đánh giá tính thích hợp của các chính sách kế toán được áp dụng và tính hợp lý của các ước tính kế toán của Ban Tổng Giám đốc Công ty, cũng như đánh giá việc trình bày tổng thể báo cáo tài chính riêng.
+
+Chúng tôi tin rằng các bằng chứng kiểm toán mà chúng tôi thu được là đầy đủ và thích hợp làm cơ sở cho ý kiến kiểm toán của chúng tôi.
+
+3
+
+KPMG Limited Branch in Ho Chi Minh City, a branch of KPMG Limited, a Vietnamese one member limited liability company and a member firm of the KPMG network of independent member firms affiliated with KPMG International Cooperative ("KPMG International"), a Swiss entity.
+
+===== PAGE 5 =====
+KPMG
+
+Ý kiến của kiểm toán viên
+
+Theo ý kiến của chứng tối, báo cáo tài chính riêng đã phần ánh trung thực và hợp lý, trên các khóa cạnh trọng yếu, tình hình tài chính trước hợp nhất của Công ty Cổ phần Masan MEATLife (trước đây là “Công ty Cổ phần Masan Nutri-Science”) tại ngày 31 tháng 12 năm 2019, kết quả hoạt động kinh doanh trước hợp nhất và lưu chuyển tiền tệ trước hợp nhất cho năm kết thúc cùng ngày, phù hợp với các Chuẩn mực Kế toán Việt Nam, Chế độ Kế toán Doanh nghiệp Việt Nam và các quy định pháp lý có liên quan đến việc lập và trình bày báo cáo tài chính.
+
+Trương Vĩnh Phúc
+
+Giấy Chứng nhận Đăng ký Hành nghề
+
+Kiểm toán số 1901-2018-007-1
+
+Phó Tổng Giám đốc
+
+Nguyễn Hồ Khánh Tân
+
+Giấy Chứng nhận Đăng ký Hành nghề
+
+Kiểm toán số 3458-2020-007-1
+
+Thành phố Hồ Chí Minh, ngày 20 tháng 3 năm 2020
+
+4
+
+===== PAGE 6 =====
+Công ty Cổ phần Masan MEATLife (trước đây là “Công ty Cổ phần Masan Nutri-Science”) Băng cân đối kế toán riêng tại ngày 31 tháng 12 năm 2019
+
+Mẫu B 01 - DN
+
+(Ban hành theo Thông tư số 200/2014/TT-BTC ngày 22 tháng 12 năm 2014 của Bộ Tài chính)
+
+<table><tr><td></td><td>Mã số</td><td>Thuyết minh</td><td>31/12/2019 VND</td><td>1/1/2019 VND</td></tr><tr><td colspan="5">TÀI SẢN</td></tr><tr><td>Tài sản ngắn hạn(100 = 110 + 120 + 130 + 140 + 150)</td><td>100</td><td></td><td>2.340.885.319.208</td><td>1.355.360.362.136</td></tr><tr><td>Tiền và các khoản tương đương tiền</td><td>110</td><td>4</td><td>683.578.280.096</td><td>890.040.780.664</td></tr><tr><td>Tiền</td><td>111</td><td></td><td>52.878.280.096</td><td>76.040.780.664</td></tr><tr><td>Các khoản tương đương tiền</td><td>112</td><td></td><td>630.700.000.000</td><td>814.000.000.000</td></tr><tr><td>Đầu tư tài chính ngắn hạn</td><td>120</td><td></td><td>155.000.000.000</td><td>-</td></tr><tr><td>Đầu tư nằm giữ đến ngày đáo hạn</td><td>123</td><td>5</td><td>155.000.000.000</td><td>-</td></tr><tr><td>Các khoản phải thu ngắn hạn</td><td>130</td><td></td><td>1.377.960.908.191</td><td>339.866.146.399</td></tr><tr><td>Phải thu ngắn hạn của khách hàng</td><td>131</td><td>6</td><td>56.491.514.068</td><td>80.060.328.471</td></tr><tr><td>Trả trước cho người bán ngắn hạn</td><td>132</td><td>7</td><td>366.078.064.740</td><td>93.728.415.941</td></tr><tr><td>Phải thu về cho vay ngắn hạn</td><td>135</td><td>8</td><td>584.800.000.000</td><td>-</td></tr><tr><td>Phải thu ngắn hạn khác</td><td>136</td><td>9</td><td>380.372.317.075</td><td>166.077.401.987</td></tr><tr><td>Dự phòng các khoản phải thu ngắn hạn khó đòi</td><td>137</td><td>6</td><td>(9.780.987.692)</td><td>-</td></tr><tr><td>Hàng tồn kho</td><td>140</td><td>10</td><td>121.398.871.431</td><td>123.030.123.114</td></tr><tr><td>Hàng tồn kho</td><td>141</td><td></td><td>121.398.871.431</td><td>123.030.123.114</td></tr><tr><td>Tài sản ngắn hạn khác</td><td>150</td><td></td><td>2.947.259.490</td><td>2.423.311.959</td></tr><tr><td>Chi phí trả trước ngắn hạn</td><td>151</td><td></td><td>2.840.137.866</td><td>2.423.311.959</td></tr><tr><td>Thuế phải thu Nhà nước</td><td>153</td><td></td><td>107.121.624</td><td>-</td></tr></table>
+
+Các thuyết minh đính kèm là bộ phận hợp thành của báo cáo tài chính riêng này
+
+5
+
+===== PAGE 7 =====
+Công ty Cổ phần Masan MEATLife (trước đây là “Công ty Cổ phần Masan Nutri-Science”) Băng cân đối kế toán riêng tại ngày 31 tháng 12 năm 2019 (tiếp theo)
+
+Mẫu B 01 - DN
+
+(Ban hành theo Thông tư số 200/2014/TT-BTC ngày 22 tháng 12 năm 2014 của Bộ Tài chính)
+
+<table><tr><td></td><td>Mã số</td><td>Thuyết minh</td><td>31/12/2019 VND</td><td>1/1/2019 VND</td></tr><tr><td>Tài sản dài hạn(200 = 210 + 220 + 240 + 250 + 260)</td><td>200</td><td></td><td>6.875.819.608.026</td><td>6.272.785.974.791</td></tr><tr><td>Các khoản phải thu dài hạn</td><td>210</td><td></td><td>2.756.000</td><td>2.756.000</td></tr><tr><td>Phải thu dài hạn khác</td><td>216</td><td></td><td>2.756.000</td><td>2.756.000</td></tr><tr><td>Tài sản cố định</td><td>220</td><td></td><td>647.071.056</td><td>658.048.320</td></tr><tr><td>Tài sản cố định hữu hình</td><td>221</td><td></td><td>278.856.128</td><td>151.752.792</td></tr><tr><td>Nguyên giá</td><td>222</td><td></td><td>402.450.318</td><td>196.751.280</td></tr><tr><td>Giá trị hao mòn lũy kế</td><td>223</td><td></td><td>(123.594.190)</td><td>(44.998.488)</td></tr><tr><td>Tài sản cố định vô hình</td><td>227</td><td></td><td>368.214.928</td><td>506.295.528</td></tr><tr><td>Nguyên giá</td><td>228</td><td></td><td>690.403.000</td><td>690.403.000</td></tr><tr><td>Giá trị hao mòn lũy kế</td><td>229</td><td></td><td>(322.188.072)</td><td>(184.107.472)</td></tr><tr><td>Tài sản dở dang dài hạn</td><td>240</td><td></td><td>-</td><td>1.981.506.652</td></tr><tr><td>Xây dựng cơ bản dở dang</td><td>242</td><td>11</td><td>-</td><td>1.981.506.652</td></tr><tr><td>Đầu tư tài chính dài hạn</td><td>250</td><td>12</td><td>6.870.004.511.729</td><td>6.270.004.511.729</td></tr><tr><td>Đầu tư vào các công ty con</td><td>251</td><td></td><td>6.694.450.622.729</td><td>6.094.450.622.729</td></tr><tr><td>Đầu tư góp vốn vào các đơn vị khác</td><td>253</td><td></td><td>175.553.889.000</td><td>175.553.889.000</td></tr><tr><td>Tài sản dài hạn khác</td><td>260</td><td></td><td>5.165.269.241</td><td>139.152.090</td></tr><tr><td>Chi phí trả trước dài hạn</td><td>261</td><td>13</td><td>5.165.269.241</td><td>139.152.090</td></tr><tr><td>TỔNG TÀI SẢN (270 = 100 + 200)</td><td>270</td><td></td><td>9.216.704.927.234</td><td>7.628.146.336.927</td></tr></table>
+
+Các thuyết minh đính kèm là bộ phận hợp thành của báo cáo tài chính riêng này
+
+6
+
+===== PAGE 8 =====
+Công ty Cổ phần Masan MEATLife (trước đây là “Công ty Cổ phần Masan Nutri-Science”) Băng cân đối kế toán riêng tại ngày 31 tháng 12 năm 2019 (tiếp theo)
+
+Mẫu B 01 - DN
+
+(Ban hành theo Thông tư số 200/2014/TT-BTC
+
+ngày 22 tháng 12 năm 2014 của Bộ Tài chính)
+
+<table><tr><td></td><td>Mã số</td><td>Thuyết minh</td><td>31/12/2019 VND</td><td>1/1/2019 VND</td></tr><tr><td colspan="5">NGUỒN VỐN</td></tr><tr><td>NỘ PHẢI TRẢ (300 = 310 + 330)</td><td>300</td><td></td><td>6.101.856.252.863</td><td>4.621.643.436.297</td></tr><tr><td>Nợ ngắn hạn</td><td>310</td><td></td><td>2.560.473.071.875</td><td>3.899.728.834.926</td></tr><tr><td>Phải trả người bán ngắn hạn</td><td>311</td><td>14</td><td>1.948.060.627.082</td><td>1.002.967.971.115</td></tr><tr><td>Người mua trả tiền trước ngắn hạn</td><td>312</td><td></td><td>5.366.344.141</td><td>4.045.877.871</td></tr><tr><td>Thuế phải nộp Nhà nước</td><td>313</td><td>15</td><td>8.218.654.521</td><td>8.842.598.639</td></tr><tr><td>Phải trả người lao động</td><td>314</td><td></td><td>5.223.968</td><td>5.224.214</td></tr><tr><td>Chi phí phải trả ngắn hạn</td><td>315</td><td>16</td><td>222.430.042.500</td><td>246.818.973.061</td></tr><tr><td>Phải trả ngắn hạn khác</td><td>319</td><td>17(a)</td><td>7.862.179.663</td><td>217.293.694.545</td></tr><tr><td>Vay ngắn hạn</td><td>320</td><td>18(a)</td><td>368.530.000.000</td><td>2.419.754.495.481</td></tr><tr><td>Nợ dài hạn</td><td>330</td><td></td><td>3.541.383.180.988</td><td>721.914.601.371</td></tr><tr><td>Phải trả dài hạn khác</td><td>337</td><td>17(b)</td><td>417.869.847.802</td><td>18.240.827.267</td></tr><tr><td>Vay dài hạn</td><td>338</td><td>18(b)</td><td>3.111.844.095.436</td><td>692.089.599.955</td></tr><tr><td>Dự phòng phải trả dài hạn</td><td>342</td><td></td><td>11.669.237.750</td><td>11.584.174.149</td></tr><tr><td>VỐN CHỦ SỞ HỮU (400 = 410)</td><td>400</td><td></td><td>3.114.848.674.371</td><td>3.006.502.900.630</td></tr><tr><td>Vốn chủ sở hữu</td><td>410</td><td>19</td><td>3.114.848.674.371</td><td>3.006.502.900.630</td></tr><tr><td>Vốn cổ phần</td><td>411</td><td>20</td><td>3.243.274.470.000</td><td>2.162.182.990.000</td></tr><tr><td>Cổ phiếu phổ thông có quyền biểu quyết</td><td>411a</td><td></td><td>3.243.274.470.000</td><td>2.162.182.990.000</td></tr><tr><td>Thặng dư vốn cổ phần</td><td>412</td><td></td><td>2.119.105.015.149</td><td>3.200.196.495.149</td></tr><tr><td>Lỗ lũy kế</td><td>421</td><td></td><td>(2.247.530.810.778)</td><td>(2.355.876.584.519)</td></tr><tr><td>Lỗ lũy kế đến cuối năm trước</td><td>421a</td><td></td><td>(2.355.876.584.519)</td><td>(2.936.296.182.388)</td></tr><tr><td>Lợi nhuận sau thuế năm nay</td><td>421b</td><td></td><td>108.345.773.741</td><td>580.419.597.869</td></tr><tr><td>TỔNG NGUỒN VỐN (440 = 300 + 400)</td><td>440</td><td></td><td>9.216.704.927.234</td><td>7.628.146.336.927</td></tr></table>
+
+Các thuyết minh đính kèm là bộ phận hợp thành của báo cáo tài chính riêng này
+
+7
+
+===== PAGE 9 =====
+Công ty Cổ phần Masan MEATLife (trước đây là “Công ty Cổ phần Masan Nutri-Science”) Báo cáo kết quả hoạt động kinh doanh riêng cho năm kết thúc ngày 31 tháng 12 năm 2019
+
+Mẫu B 02 - DN
+
+(Ban hành theo Thông tư số 200/2014/TT-BTC
+
+ngày 22 tháng 12 năm 2014 của Bộ Tài chính)
+
+<table><tr><td></td><td>Mã số</td><td>Thuyết minh</td><td>2019 VND</td><td>2018 VND</td></tr><tr><td>Doanh thu bán hàng</td><td>01</td><td>22</td><td>9.778.042.006.810</td><td>5.615.577.245.583</td></tr><tr><td>Các khoản giảm trừ doanh thu</td><td>02</td><td>22</td><td>559.731.228.140</td><td>309.113.370.067</td></tr><tr><td>Doanh thu thuần về bán hàng (10 = 01 - 02)</td><td>10</td><td>22</td><td>9.218.310.778.670</td><td>5.306.463.875.516</td></tr><tr><td>Giá vốn hàng bán</td><td>11</td><td>23</td><td>8.619.123.155.578</td><td>4.941.833.983.895</td></tr><tr><td>Lợi nhuận gộp (20 = 10 - 11)</td><td>20</td><td></td><td>599.187.623.092</td><td>364.629.891.621</td></tr><tr><td>Doanh thu hoạt động tài chính</td><td>21</td><td>24</td><td>376.320.251.017</td><td>808.970.368.746</td></tr><tr><td>Chi phí tài chính</td><td>22</td><td>25</td><td>260.783.543.446</td><td>223.014.073.684</td></tr><tr><td>Trong đó: Chi phí lãi vay</td><td>23</td><td></td><td>205.928.474.943</td><td>192.403.867.779</td></tr><tr><td>Chi phí bán hàng</td><td>25</td><td>26</td><td>455.061.372.929</td><td>297.362.111.410</td></tr><tr><td>Chi phí quản lý doanh nghiệp</td><td>26</td><td>27</td><td>150.891.655.372</td><td>72.613.442.315</td></tr><tr><td>Lợi nhuận thuần từ hoạt động kinh doanh {30 = 20 + (21 - 22) - (25 + 26)}</td><td>30</td><td></td><td>108.771.302.362</td><td>580.610.632.958</td></tr><tr><td>Thu nhập khác</td><td>31</td><td></td><td>11.788.328</td><td>31.157.520</td></tr><tr><td>Chi phí khác</td><td>32</td><td></td><td>437.316.949</td><td>222.192.609</td></tr><tr><td>Lỗ khác (40 = 31 - 32)</td><td>40</td><td></td><td>(425.528.621)</td><td>(191.035.089)</td></tr><tr><td>Lợi nhuận kế toán trước thuế (50 = 30 + 40)</td><td>50</td><td></td><td>108.345.773.741</td><td>580.419.597.869</td></tr><tr><td>Chi phí thuế TNDN hiện hành</td><td>51</td><td>28</td><td>-</td><td>-</td></tr><tr><td>Chi phí thuế TNDN hoãn lại</td><td>52</td><td>28</td><td>-</td><td>-</td></tr><tr><td>Lợi nhuận sau thuế TNDN (60 = 50 - 51 - 52)</td><td>60</td><td></td><td>108.345.773.741</td><td>580.419.597.869</td></tr></table>
+
+Ngày 20 tháng 3 năm 2020
+
+Người lập:
+
+Người duyêt:
+
+Nguyễn Thị Minh Hằng
+
+Giám đốc Tài chính
+
+Phạm Trung Lâm
+
+Tổng Giám đốc
+
+Các thuyết minh đính kèm là bộ phận hợp thành của báo cáo tài chính riêng này
+
+8
+
+10.4 11.97 — 12.0
+
+===== PAGE 10 =====
+Công ty Cổ phần Masan MEATLife (trước đây là “Công ty Cổ phần Masan Nutri-Science”) Báo cáo lưu chuyển tiền tệ riêng cho năm kết thúc ngày 31 tháng 12 năm 2019 (Phương pháp gián tiếp)
+
+Mẫu B 03 - DN
+
+(Ban hành theo Thông tư số 200/2014/TT-BTC
+
+ngày 22 tháng 12 năm 2014 của Bộ Tài chính)
+
+<table><tr><td></td><td>Mã số</td><td>2019 VND</td><td>2018 VND</td></tr><tr><td colspan="4">LU&#x27;U CHUYÊN TIÊN TỪ HOẠT ĐỘNG KINH DOANH</td></tr><tr><td>Lợi nhuận kế toán trước thuế Điều chỉnh cho các khoản</td><td>01</td><td>108.345.773.741</td><td>580.419.597.869</td></tr><tr><td>Khấu hao</td><td>02</td><td>216.676.302</td><td>166.672.252</td></tr><tr><td>Các khoản dự phòng</td><td>03</td><td>11.093.988.676</td><td>702.311.085</td></tr><tr><td>Lỗ/(lãi) chênh lệch tỷ giá hối đoái do đánh giá lại các khoản mục tiền tệ có gốc ngoại tệ</td><td>04</td><td>180.543.000</td><td>(185.960.101)</td></tr><tr><td>Lãi từ các hoạt động đầu tư</td><td>05</td><td>(374.387.598.204)</td><td>(808.781.377.280)</td></tr><tr><td>Chi phí lãi vay</td><td>06</td><td>205.928.474.943</td><td>192.403.867.779</td></tr><tr><td>Lỗ từ hoạt động kinh doanh trước những thay đổi vốn lưu động</td><td>08</td><td>(48.622.141.542)</td><td>(35.274.888.396)</td></tr><tr><td>Biến động các khoản phải thu và tài sản khác</td><td>09</td><td>(215.028.031.104)</td><td>(165.773.825.642)</td></tr><tr><td>Biến động hàng tồn kho</td><td>10</td><td>1.631.251.683</td><td>(122.947.623.114)</td></tr><tr><td>Biến động các khoản phải trả và nợ phải trả khác</td><td>11</td><td>908.220.771.828</td><td>1.285.583.370.063</td></tr><tr><td>Biến động chi phí trả trước</td><td>12</td><td>(5.442.943.058)</td><td>(2.368.094.405)</td></tr><tr><td></td><td></td><td>640.758.907.807</td><td>959.218.938.506</td></tr><tr><td>Tiền lãi vay</td><td>14</td><td>(2.551.493.806)</td><td>(3.821.659.994)</td></tr><tr><td>Tiền chi khác cho hoạt động kinh doanh</td><td>17</td><td>(1.227.937.383)</td><td>-</td></tr><tr><td>Lưu chuyển tiền thuần từ hoạt động kinh doanh</td><td>20</td><td>636.979.476.618</td><td>955.397.278.512</td></tr><tr><td colspan="4">LU&#x27;U CHUYÊN TIÊN TỪ HOẠT ĐỘNG ĐẦU TƯ</td></tr><tr><td>Tiền chi mua tài sản cố định và xây dựng cơ bản dở dang</td><td>21</td><td>(205.699.038)</td><td>(2.055.206.652)</td></tr><tr><td>Tiền thu từ thanh lý, nhượng bán tài sản dài hạn</td><td>22</td><td>1.635.719.000</td><td>-</td></tr><tr><td>Tiền chi cho vay, gửi tiền gửi có kỳ hạn</td><td>23</td><td>(739.800.000.000)</td><td>-</td></tr><tr><td>Tiền chi đầu tư vào các công ty con</td><td>25</td><td>(600.000.000.000)</td><td>(889.000)</td></tr><tr><td>Tiền thu lãi tiền gửi và cổ tức</td><td>27</td><td>126.578.545.852</td><td>339.127.846.184</td></tr><tr><td>Lưu chuyển tiền thuần từ hoạt động đầu tư</td><td>30</td><td>(1.211.791.434.186)</td><td>337.071.750.532</td></tr></table>
+
+Các thuyết minh đính kèm là bộ phận hợp thành của báo cáo tài chính riêng này
+
+9
+
+===== PAGE 11 =====
+Công ty Cổ phần Masan MEATLife (trước đây là “Công ty Cổ phần Masan Nutri-Science”) Báo cáo lưu chuyển tiền tệ riêng cho năm kết thúc ngày 31 tháng 12 năm 2019 (Phương pháp gián tiếp – tiếp theo)
+
+Mẫu B 03 - DN
+
+(Ban hành theo Thông tư số 200/2014/TT-BTC
+
+ngày 22 tháng 12 năm 2014 của Bộ Tài chính)
+
+<table><tr><td></td><td>Mã số</td><td>2019 VND</td><td>2018 VND</td></tr><tr><td colspan="4">LU&#x27;U CHUYÊN TIÊN TỪ HOẠT ĐỘNG TÀI CHÍNH</td></tr><tr><td>Tiền thu từ đi vay</td><td>33</td><td>461.688.600.360</td><td>-</td></tr><tr><td>Tiền trả nợ gốc vay</td><td>34</td><td>(93.158.600.360)</td><td>-</td></tr><tr><td>Tiền trả cổ tức</td><td>36</td><td>-</td><td>(550.472.586.317)</td></tr><tr><td>Lưu chuyển tiền thuần từ hoạt động tài chính</td><td>40</td><td>368.530.000.000</td><td>(550.472.586.317)</td></tr><tr><td>Lưu chuyển tiền thuần trong năm\( (50 = 20 + 30 + 40) \)</td><td>50</td><td>(206.281.957.568)</td><td>741.996.442.727</td></tr><tr><td>Tiền và các khoản tương đương tiền đầu năm</td><td>60</td><td>890.040.780.664</td><td>148.078.622.646</td></tr><tr><td>Ảnh hưởng của thay đổi tỷ giá hối đoái đối với tiền và các khoản tương đương tiền</td><td>61</td><td>(180.543.000)</td><td>(34.284.709)</td></tr><tr><td>Tiền và các khoản tương đương tiền cuối năm\( (70 = 50 + 60 + 61) \) (Thuyết minh 4)</td><td>70</td><td>683.578.280.096</td><td>890.040.780.664</td></tr></table>
+
+Các thuyết minh đính kèm là bộ phận hợp thành của báo cáo tài chính riêng này
+
+10
+
+===== PAGE 12 =====
+Công ty Cổ phần Masan MEATLife (trước đây là “Công ty Cổ phần Masan Nutri-Science”) Thuyết minh báo cáo tài chính riêng cho năm kết thúc ngày 31 tháng 12 năm 2019
+
+Mẫu B 09 - DN
+
+(Ban hành theo Thông tư số 200/2014/TT-BTC
+
+ngày 22 tháng 12 năm 2014 của Bộ Tài chính)
+
+Các thuyết minh này là bộ phận hợp thành và cần được đọc đồng thời với báo cáo tài chính riêng đính kèm.
+
+1. Đơn vị báo cáo
+
+(a) Hình thức sở hữu vốn
+
+Công ty Cổ phần Masan MEATLife (trước đây là “Công ty Cổ phần Masan Nutri-Science”) (“Công ty”) là một công ty cổ phần được thành lập tại Việt Nam.
+
+Cổ phiếu của Công ty được giao dịch tại thị trường giao dịch chứng khoán của các công ty đại chứng chưa niêm yết (“sàn chứng khoán Upcom”) theo Quyết định số 804/QĐ-SGDHN do Sở Giao dịch Chứng khoán Hà Nội cấp ngày 2 tháng 12 năm 2019.
+
+(b) Hoạt động chính
+
+Hoạt động chính của Công ty là tư vấn quản lý đầu tư và kinh doanh thức ăn gia súc, gia cầm và thủy sản và các hàng hóa khác theo quy định trong Giấy Chứng nhận Đăng ký Kinh doanh của Công ty.
+
+(c) Chu kỳ kinh doanh thông thường
+
+Chu kỳ kinh doanh thông thường của Công ty nằm trong phạm vi 12 tháng.
+
+(d) Câu trúc Công ty
+
+Tại ngày 31 tháng 12 năm 2019, Công ty có 2 công ty con sở hữu trực tiếp (1/1/2019: 2 công ty con sở hữu trực tiếp) như được trình bày trong Thuyết minh 12.
+
+Tại ngày 31 tháng 12 năm 2019, Công ty có 14 chi nhánh hạch toán phụ thuộc bao gồm Chi nhánh Phú Thọ, Chi nhánh Hà Nam, Chi nhánh Nghệ An, Chi nhánh Bình Định, Chi nhánh Đắk Lắk, Chi nhánh Vĩnh Long, Chi nhánh Hậu Giang, Chi nhánh Đồng Nai, Chi nhánh Quảng Nam, Chi nhánh Thái Nguyên, Chi nhánh Tiền Giang, Chi nhánh Hưng Yên, Chi nhánh Hải Phòng và Chi nhánh Cần Thơ (1/1/2019: 14 chi nhánh hạch toán phụ thuộc).
+
+Tại ngày 31 tháng 12 năm 2019, Công ty có 849 nhân viên (1/1/2019: 978 nhân viên).
+
+11
+
+===== PAGE 13 =====
+Công ty Cổ phần Masan MEATLife (trước đây là “Công ty Cổ phần Masan Nutri-Science”) Thuyết minh báo cáo tài chính riêng cho năm kết thúc ngày 31 tháng 12 năm 2019 (tiếp theo)
+
+Mãu B 09 - DN
+
+(Ban hành theo Thông tư số 200/2014/TT-BTC
+
+ngày 22 tháng 12 năm 2014 của Bộ Tài chính)
+
+2. Co sở lập báo cáo tài chính
+
+(a) Tuyên bố về tuân thủ
+
+Báo cáo tài chính riêng này được lập theo các Chuẩn mực Kế toán Việt Nam, Chế độ Kế toán Doanh nghiệp Việt Nam và các quy định pháp lý có liên quan đến việc lập và trình bày báo cáo tài chính.
+
+Công ty lập và phát hành riêng báo cáo tài chính hợp nhất. Để có thông tin đầy đủ về tình hình tài chính hợp nhất tại ngày 31 tháng 12 năm 2019 của Công ty và các công ty con (sau đây được gọi chung là “Tập đoàn”), kết quả hoạt động kinh doanh hợp nhất và lưu chuyển tiền tệ hợp nhất của Tập đoàn cho năm kết thúc cùng ngày, báo cáo tài chính riêng này cần được đọc đồng thời với báo cáo tài chính hợp nhất của Tập đoàn cho năm kết thúc ngày 31 tháng 12 năm 2019.
+
+(b) Co sở đo lường
+
+Báo cáo tài chính riêng, trừ báo cáo lưu chuyển tiền tệ riêng, được lập trên cơ sở đồn tích theo nguyên tắc giá gốc. Báo cáo lưu chuyển tiền tệ riêng được lập theo phương pháp gián tiếp.
+
+(c) Kỳ kế toán năm
+
+Kỳ kế toán năm của Công ty là từ ngày 1 tháng 1 đến ngày 31 tháng 12.
+
+(d) Đơn vị tiền tệ kế toán và trình bày báo cáo tài chính
+
+Đơn vị tiền tệ kế toán của Công ty là Đồng Việt Nam (“VND”), cũng là đơn vị tiền tệ được sử dụng cho mục đích lập và trình bày báo cáo tài chính.
+
+(e) Số liệu so sánh
+
+Số liệu so sánh tại ngày 1 tháng 1 năm 2019 được mang sang từ số liệu trình bày trong báo cáo tài chính riêng đã kiểm toán của Công ty tại ngày và cho năm kết thúc ngày 31 tháng 12 năm 2018.
+
+12
+
+===== PAGE 14 =====
+Công ty Cổ phần Masan MEATLife (trước đây là “Công ty Cổ phần Masan Nutri-Science”) Thuyết minh báo cáo tài chính riêng cho năm kết thúc ngày 31 tháng 12 năm 2019 (tiếp theo)
+
+Mãu B 09 - DN
+
+(Ban hành theo Thông tư số 200/2014/TT-BTC
+
+ngày 22 tháng 12 năm 2014 của Bộ Tài chính)
+
+3. Tóm tắt những chính sách kế toán chủ yếu
+
+Sau đây là những chính sách kế toán chủ yếu được Công ty áp dụng trong việc lập báo cáo tài chính riêng này.
+
+(a) Các giao dịch bằng ngoại tệ
+
+Các giao dịch bằng các đơn vị tiền tệ khác VND trong năm được quy đổi sang VND theo tỷ giá xấp xỉ với tỷ giá thực tế tại ngày giao dịch.
+
+Các khoản mục tài sản và nợ phải trả có gốc bằng đơn vị tiền tệ khác VND được quy đổi sang VND lần lượt theo tỷ giá mua chuyển khoản và tỷ giá bán chuyển khoản của ngân hàng thương mại nơi Công ty thường xuyên có giao dịch tại ngày kết thúc kỳ kế toán năm.
+
+Tất cả các khoản chênh lệch tỷ giá hối đoái được ghi nhận vào báo cáo kết quả hoạt động kinh doanh riêng.
+
+(b) Tiền và các khoản tương đương tiền
+
+Tiền bao gồm tiền mặt và tiền gửi ngân hàng không kỳ hạn. Các khoản tương đương tiền là các khoản đầu tư ngắn hạn có tính thanh khoản cao, có thể dễ dàng chuyển đổi thành một lượng tiền xác định, không có nhiều rủi ro về thay đổi giá trị và được sử dụng cho mục đích đáp ứng các cam kết chi tiền ngắn hạn hơn là cho mục đích đầu tư hay là các mục đích khác.
+
+(c) Đầu tư
+
+(i) Đầu tư nằm giữ đến ngày đáo hạn
+
+Đầu tư nắm giữ đến ngày đáo hạn là các khoản đầu tư mà Ban Tổng Giám đốc Công ty dự định và có khả năng nắm giữ đến ngày đáo hạn. Đầu tư nắm giữ đến ngày đáo hạn gồm tiền gửi ngân hàng có kỳ hạn. Các khoản đầu tư này được ghi nhận theo giá gốc trừ đi dự phòng phải thu khó đòi.
+
+(ii) Đầu tư vào các công ty con
+
+Cho mục đích trình bày trên báo cáo tài chính riêng, các khoản đầu tư vào công ty con được ghi nhận ban đầu theo giá gốc bao gồm giá mua và các chi phí mua có liên quan trực tiếp. Sau ghi nhận ban đầu, các khoản đầu tư này được xác định theo giá gốc trừ đi dự phòng giảm giá đầu tư. Dự phòng giảm giá đầu tư được lập khi công ty con phát sinh lỗ. Dự phòng giảm giá đầu tư được hoàn nhập khi công ty con sau đó tạo ra lợi nhuận để bù trừ cho các khoản lỗ đã được lập dự phòng trước kia. Khoản dự phòng chỉ được hoàn nhập trong phạm vi sao cho giá trị ghi số của khoản đầu tư không vượt quá giá trị ghi số của chúng khi giả định không có khoản dự phòng nào đã được ghi nhận.
+
+13
+
+===== PAGE 15 =====
+Công ty Cổ phần Masan MEATLife (trước đây là “Công ty Cổ phần Masan Nutri-Science”) Thuyết minh báo cáo tài chính riêng cho năm kết thúc ngày 31 tháng 12 năm 2019 (tiếp theo)
+
+Mâu B 09 - DN
+
+(Ban hành theo Thông tư số 200/2014/TT-BTC
+
+ngày 22 tháng 12 năm 2014 của Bộ Tài chính)
+
+(iii) Đầu tư góp vốn vào các đơn vị khác
+
+Đầu tư vào các công cụ vốn chủ sở hữu của các đơn vị khác được ghi nhận ban đầu theo giá gốc bao gồm giá mua và các chi phí mua có liên quan trực tiếp. Sau ghi nhận ban đầu, các khoản đầu tư này được xác định theo giá gốc trừ đi dự phòng giảm giá đầu tư. Dự phòng giảm giá đầu tư được lập khi đơn vị nhận đầu tư phát sinh lỗ. Dự phòng giảm giá đầu tư được hoàn nhập khi đơn vị nhận đầu tư sau đó tạo ra lợi nhuận đề bù trừ cho các khoản lỗ đã được lập dự phòng trước kia. Khoản dự phòng chi được hoàn nhập trong phạm vi sao cho giá trị ghi sổ của khoản đầu tư không vượt quá giá trị ghi sổ của chứng khi giả định không có khoản dự phòng nào đã được ghi nhận.
+
+(d) Các khoản phải thu
+
+Các khoản phải thu của khách hàng và phải thu khác được phản ánh theo giá gốc trừ đi dự phòng phải thu khó đòi.
+
+(e) Hàng tồn kho
+
+Hàng tồn kho được phần ánh theo giá thấp hơn giữa giá gốc và giá trị thuần có thể thực hiện được. Giá gốc được tính theo phương pháp bình quân gia quyền và bao gồm tất cả các chi phí phát sinh để có được hàng tồn kho ở địa điểm và trạng thái hiện tại. Giá trị thuần có thể thực hiện được ước tính dựa vào giá bán của hàng tồn kho trừ đi các khoản chi phí ước tính để hoàn thành sản phẩm và các chi phí bán hàng trực tiếp.
+
+Công ty áp dụng phương pháp kê khai thường xuyên để hạch toán hàng tồn kho.
+
+(f) Tài sản cố định bửu hình
+
+(i) Nguyên giá
+
+Tài sản cố định hữu hình được thể hiện theo nguyên giá trừ đi giá trị hao mòn lũy kế. Nguyên giá tài sản cố định hữu hình bao gồm giá mua, thuế nhập khẩu, các loại thuế mua hàng không hoàn lại và chi phí liên quan trực tiếp để đưa tài sản đến vị trí và trạng thái hoạt động cho mục đích sử dụng đã dự kiến. Các chi phí phát sinh sau khi tài sản cố định hữu hình đã đưa vào hoạt động như chi phí sửa chữa, bảo dưỡng và đại tu được ghi nhận vào báo cáo kết quả hoạt động kinh doanh riêng trong năm mà chi phí phát sinh. Trong các trường hợp có thể chứng minh một cách rõ ràng rằng các khoản chi phí này làm tăng lợi ích kinh tế trong tương lai dự tính thu được từ việc sử dụng tài sản cố định hữu hình vượt trên mức hoạt động tiêu chuẩn theo như đánh giá ban đầu, thì các chi phí này được vốn hóa như một khoản nguyên giá tăng thêm của tài sản cố định hữu hình.
+
+(ii) Khâu hao
+
+Khấu hao được tính theo phương pháp đường thẳng dựa trên thời gian hữu dụng ước tính của tài sản cố định hữu hình. Thời gian hữu dụng ước tính như sau:
+
+- thiết bị văn phòng
+
+3 - 5 năm
+
+14
+
+===== PAGE 16 =====
+Công ty Cổ phần Masan MEATLife (trước đây là “Công ty Cổ phần Masan Nutri-Science”) Thuyết minh báo cáo tài chính riêng cho năm kết thúc ngày 31 tháng 12 năm 2019 (tiếp theo)
+
+Mãu B 09 - DN
+
+(Ban hành theo Thông tư số 200/2014/TT-BTC
+
+ngày 22 tháng 12 năm 2014 của Bộ Tài chính)
+
+(g) Tài sản cố định vô hình
+
+Phần mềm máy vi tính
+
+Giá mua của phần mềm máy vi tính mới mà phần mềm này không phải là một bộ phận gắn kết với phần cứng có liên quan thì được vốn hóa và hạch toán là tài sản cố định vô hình. Nguyên giá của phần mềm máy vi tính được khấu hao theo phương pháp đường thẳng trong 5 năm.
+
+(h) Xây dựng cơ bản dở dang
+
+Xây dựng cơ bản dở đang phản ánh các khoản chi phí phần mềm chưa được phát triển xong. Không tính khấu hao cho xây dựng cơ bản dở đang trong quá trình phát triển phần mềm.
+
+(i) Chi phí trả trước dài hạn
+
+(i) Công cụ và dụng cụ
+
+Công cụ và dụng cụ bao gồm các tài sản mà Công ty nằm giữ để sử dụng trong quá trình hoạt động kinh doanh bình thường, với nguyên giá của mỗi tài sản thấp hơn 30 triệu VND và do đó không đủ điều kiện ghi nhận là tài sản cổ định theo quy định hiện hành. Nguyên giá của công cụ và dụng cụ được phân bổ theo phương pháp đường thẳng trong thời gian từ trên 1 đến 3 năm.
+
+(ii) Chi phí trả trước dài hạn khác
+
+Chi phí trả trước dài hạn khác bao gồm chi phí sửa chữa và bảo trì trả trước được phần ánh theo nguyên giá và được phân bổ theo phương pháp đường thẳng trong thời gian từ 2 đến 3 năm.
+
+(j) Các khoản phải trả
+
+Các khoản phải trả người bán và phải trả khác được thể hiện theo giá gốc.
+
+(k) Dự phòng
+
+Một khoản dự phòng được ghi nhận nếu, do kết quả của một sự kiện trong quá khứ, Công ty có nghĩa vụ pháp lý hiện tại hoặc liên đối có thể ước tính một cách đáng tin cây, và chắc chắn sẽ làm giảm sút các lợi ích kinh tế trong tương lai để thanh toán các khoản nợ phải trả do nghĩa vụ đó. Khoản dự phòng được xác định bằng cách chiết khấu dòng tiền dự kiến phải trả trong tương lai với tỷ lệ chiết khấu trước thuế phân ánh đánh giá của thị trường ở thời điểm hiện tại về giá trị thời gian của tiền và rủi ro cụ thể của khoản nợ đó.
+
+15
+
+===== PAGE 17 =====
+Công ty Cổ phần Masan MEATLife (trước đây là “Công ty Cổ phần Masan Nutri-Science”) Thuyết minh báo cáo tài chính riêng cho năm kết thúc ngày 31 tháng 12 năm 2019 (tiếp theo)
+
+Mãu B 09 - DN
+
+(Ban hành theo Thông tư số 200/2014/TT-BTC
+
+ngày 22 tháng 12 năm 2014 của Bộ Tài chính)
+
+Dự phòng trợ cấp thời việc
+
+Theo Bộ luật Lao động Việt Nam, khi nhân viên làm việc cho công ty từ 12 tháng trở lên (“nhân viên đủ điều kiện”) tự nguyện chấm dứt hợp đồng lao động của mình thì bên sử dụng lao động phải thanh toán tiền trợ cấp thời việc cho nhân viên đó tính dựa trên số năm làm việc và mức lương tại thời điểm thời việc của nhân viên đó. Dự phòng trợ cấp thời việc được lập trên cơ sở số năm nhân viên làm việc cho Công ty và mức lương bình quân của họ trong vòng sáu tháng trước ngày kết thúc kỳ kế toán năm. Cho mục đích xác định số năm làm việc của nhân viên, thời gian nhân viên đã tham gia bảo hiểm thất nghiệp theo quy định của pháp luật và thời gian làm việc đã được Công ty chi trả trợ cấp thời việc được loại trừ.
+
+(l) Cổ phiếu phổ thông
+
+Cổ phiếu phổ thông được ghi nhận theo giá phát hành trừ đi các chi phí phát sinh liên quan trực tiếp đến việc phát hành cổ phiếu, trừ đi ảnh hưởng thuế. Các chi phí đó được ghi giảm vào thẳng dư vốn cổ phần. Khoản chênh lệch giữa số tiền thu được từ việc phát hành cổ phiếu so với mệnh giá của cổ phiếu được phát hành được ghi nhận trong thẳng dư vốn cổ phần.
+
+(m) Thuê
+
+Thuế thu nhập doanh nghiệp tính trên lợi nhuận hoặc lỗ riêng trong năm bao gồm thuế thu nhập hiện hành và thuế thu nhập hoãn lại. Thuế thu nhập doanh nghiệp được ghi nhận trong báo cáo kết quả hoạt động kinh doanh riêng ngoại trừ trường hợp có các khoản thuế thu nhập liên quan đến các khoản mục được ghi nhận thẳng vào vốn chủ sở hữu, thì khi đó các thuế thu nhập này cũng được ghi nhận thẳng vào vốn chủ sở hữu.
+
+Thuế thu nhập hiện hành là khoản thuế dự kiến phải nộp dựa trên thu nhập chịu thuế trong năm, sử dụng các mức thuế suất có hiệu lực tại ngày kết thúc kỳ kế toán năm, và các khoản điều chỉnh thuế phải nộp liên quan đến những năm trước.
+
+Thuế thu nhập hoãn lại được tính theo phương pháp bằng cân đối kế toán cho các chênh lệch tạm thời giữa giá trị ghi sổ cho mục đích báo cáo tài chính và giá trị sử dụng cho mục đích tính thuế của các khoản mục tài sản và nợ phải trả. Giá trị của thuế thu nhập hoãn lại được ghi nhận dựa trên cách thức dự kiến thu hồi hoặc thanh toán giá trị ghi sổ của các khoản mục tài sản và nợ phải trả sử dụng các mức thuế suất có hiệu lực hoặc cơ bản có hiệu lực tại ngày kết thúc kỳ kế toán năm.
+
+Tài sản thuế thu nhập hoãn lại chỉ được ghi nhận trong phạm vi chắc chắn có đủ lợi nhuận tính thuế trong tương lai để các chênh lệch tạm thời này có thể sử dụng được. Tài sản thuế thu nhập hoãn lại được ghi giảm trong phạm vi không còn chắc chắn là các lợi ích về thuế liên quan này sẽ sử dụng được.
+
+(n) Doanh thu bán hàng
+
+Doanh thu bán hàng được ghi nhận trong báo cáo kết quả hoạt động kinh doanh riêng khi phần lớn rủi ro và lợi ích gắn liền với quyền sở hữu sản phẩm hoặc hàng hoá được chuyển giao cho người mua. Doanh thu không được ghi nhận nếu như có những yếu tố không chắc chắn trọng yếu liên quan tới khả năng thu hồi các khoản phải thu hoặc liên quan tới khả năng hàng bán bị trả lại. Doanh thu bán hàng được ghi nhận theo số thuần sau khi đã trừ đi số chiết khấu giảm giá ghi trên hóa đơn bán hàng.
+
+16
+
+===== PAGE 18 =====
+Công ty Cổ phần Masan MEATLife (trước đây là “Công ty Cổ phần Masan Nutri-Science”) Thuyết minh báo cáo tài chính riêng cho năm kết thúc ngày 31 tháng 12 năm 2019 (tiếp theo)
+
+Mẫu B 09 - DN
+
+(Ban hành theo Thông tư số 200/2014/TT-BTC
+
+ngày 22 tháng 12 năm 2014 của Bộ Tài chính)
+
+(o) Doanh thu hoạt động tài chính
+
+Doanh thu hoạt động tài chính bao gồm thu nhập lãi tiền gửi, lãi cho vay, thu nhập cổ tức và lãi chênh lệch tỷ giá hối đoái.
+
+Thu nhập lãi tiền gửi và lãi cho vay được ghi nhận trong báo cáo kết quả hoạt động kinh doanh riêng theo tỷ lệ tương ứng với thời gian dựa trên số dư gốc và lãi suất áp dụng.
+
+Thu nhập cổ tức được ghi nhận khi quyền nhận cổ tức được xác lập. Cổ tức bằng cổ phiếu không được ghi nhận là doanh thu hoạt động tài chính. Cổ tức nhận được liên quan đến giai đoạn trước khi mua khoản đầu tư được ghi giảm vào giá trị ghi sổ của khoản đầu tư.
+
+(p) Chi phí tài chính
+
+Chi phí tài chính bao gồm chi phí lãi vay và lỗ chênh lệch tỷ giá hối đoái.
+
+Chi phí đi vay được ghi nhận là chi phí trong năm khi chi phí này phát sinh, ngoại trừ trường hợp chi phí đi vay liên quan đến các khoản vay cho mục đích hình thành tài sản đủ điều kiện vốn hóa chi phí đi vay thì khi đó chi phí đi vay phát sinh trong suốt thời gian hình thành tài sản sẽ được vốn hóa và được ghi vào nguyên giá các tài sản này.
+
+(q) Các khoản thanh toán thuê hoạt động
+
+Các khoản thanh toán thuê hoạt động được ghi nhận trong báo cáo kết quả hoạt động kinh doanh riêng theo phương pháp đường thẳng dựa vào thời hạn của hợp đồng thuê. Các khoản hoa hồng đi thuê được ghi nhận trong báo cáo kết quả hoạt động kinh doanh riêng như là một bộ phận hợp thành của tổng chi phí thuê.
+
+(r) Các bên liên quan
+
+Các bên được xem là bên liên quan của Công ty nếu một bên có khả năng, trực tiếp hoặc gián tiếp, kiểm soát bên kia hoặc gây ảnh hưởng đáng kể tới bên kia trong việc ra các quyết định tài chính và hoạt động, hoặc khi Công ty và bên kia cùng chịu sự kiểm soát chung hoặc ảnh hưởng đáng kể chung. Các bên liên quan có thể là các công ty hoặc các cá nhân, bao gồm cả các thành viên gia đình thân cận của các cá nhân được xem là liên quan.
+
+Các công ty liên quan đề cập tới công ty mẹ, công ty mẹ cấp cao nhất, các công ty con và các công ty liên kết của các công ty này.
+
+17
+
+===== PAGE 19 =====
+Công ty Cổ phần Masan MEATLife (trước đây là “Công ty Cổ phần Masan Nutri-Science”) Thuyết minh báo cáo tài chính riêng cho năm kết thúc ngày 31 tháng 12 năm 2019 (tiếp theo)
+
+Mãu B 09 - DN
+
+(Ban hành theo Thông tư số 200/2014/TT-BTC
+
+ngày 22 tháng 12 năm 2014 của Bộ Tài chính)
+
+4. Tiền và các khoản tương đương tiền
+
+<table><tr><td></td><td>31/12/2019VND</td><td>1/1/2019VND</td></tr><tr><td>Tiền mặt</td><td>631.460.978</td><td>6.850.080.792</td></tr><tr><td>Tiền gửi ngân hàng</td><td>52.002.819.118</td><td>67.667.699.872</td></tr><tr><td>Tiền đang chuyển</td><td>244.000.000</td><td>1.523.000.000</td></tr><tr><td>Các khoản tương đương tiền</td><td>630.700.000.000</td><td>814.000.000.000</td></tr><tr><td>Tiền và các khoản tương đương tiền trong báo cáolưu chuyển tiền tệ riêng</td><td>683.578.280.096</td><td>890.040.780.664</td></tr></table>
+
+Các khoản tương đương tiền phản ánh các khoản tiền gửi có kỳ hạn tại ngân hàng với kỳ hạn gốc không quá ba tháng kể từ ngày giao dịch.
+
+5. Đầu tư nằm giữ đến ngày đáo hạn
+
+Đầu tư nắm giữ đến ngày đáo hạn phản ánh các khoản tiền gửi có kỳ hạn tại ngân hàng bằng VND với thời hạn đáo hạn còn lại dưới muòi hai tháng kể từ ngày lập bảng cân đối kể toán và hưởng lãi suất năm là 6,2% (1/1/2019: Không).
+
+6. Phải thu ngắn hạn của khách hàng
+
+Phải thu ngắn hạn của khách hàng là bên liên quan
+
+<table><tr><td></td><td>31/12/2019VND</td><td>1/1/2019VND</td></tr><tr><td colspan="3">Các công ty con</td></tr><tr><td>▪ Công ty TNHH Một Thành viên Con Cò Bình Định</td><td>2.368.431.555</td><td>-</td></tr><tr><td>▪ Công ty Cổ phần Dinh dưỡng Nông nghiệp Quốc tế</td><td>300.404.775</td><td>-</td></tr><tr><td>▪ Công ty TNHH MNS Feed Nghệ An</td><td>-</td><td>18.600.500</td></tr></table>
+
+Khoản phải thu thương mại từ các công ty con không có đảm bảo, không hưởng lãi và có thời hạn thu hồi là từ 30 ngày đến 60 ngày kể từ ngày ghi trên hóa đơn.
+
+Biến động của dự phòng các khoản phải thu ngắn hạn khó đòi trong năm như sau:
+
+<table><tr><td></td><td>2019VND</td><td>2018VND</td></tr><tr><td>Số dư đầu năm</td><td>-</td><td>-</td></tr><tr><td>Trích lập dự phòng trong năm</td><td>9.780.987.692</td><td>-</td></tr><tr><td>Số dư cuối năm</td><td>9.780.987.692</td><td>-</td></tr></table>
+
+18
+
+===== PAGE 20 =====
+Công ty Cổ phần Masan MEATLife (trước đây là “Công ty Cổ phần Masan Nutri-Science”) Thuyết minh báo cáo tài chính riêng cho năm kết thúc ngày 31 tháng 12 năm 2019 (tiếp theo)
+
+Mãu B 09 - DN
+
+(Ban hành theo Thông tư số 200/2014/TT-BTC
+
+ngày 22 tháng 12 năm 2014 của Bộ Tài chính)
+
+7. Trả trước cho người bán ngắn hạn
+
+Trả trước cho người bán ngắn hạn là bên liên quan
+
+<table><tr><td></td><td>31/12/2019VND</td><td>1/1/2019VND</td></tr><tr><td colspan="3">Các công ty con</td></tr><tr><td>▪ Công ty TNHH Một Thành viên Con Cò Bình Định</td><td>107.272.638.772</td><td>-</td></tr><tr><td>▪ Công ty Cổ phần Dinh dưỡng Nông nghiệp Quốc tế</td><td>87.687.223.612</td><td>10.249.385.755</td></tr><tr><td>▪ Công ty TNHH MNS Feed Nghệ An</td><td>64.568.629.780</td><td>26.907.513.150</td></tr><tr><td>▪ Công ty TNHH MNS Feed Thái Nguyên</td><td>51.704.819.250</td><td>10.764.358.350</td></tr><tr><td>▪ Công ty TNHH MNS Feed Vĩnh Long</td><td>50.218.551.115</td><td>-</td></tr><tr><td></td><td>361.451.862.529</td><td>47.921.257.255</td></tr></table>
+
+Các khoản trả trước cho các công ty con không có đảm bảo và không hưởng lãi.
+
+8. Phải thu về cho vay ngắn hạn
+
+<table><tr><td></td><td>31/12/2019VND</td><td>1/1/2019VND</td></tr><tr><td colspan="3">Phải thu về cho vay từ các công ty con</td></tr><tr><td>▪ Công ty TNHH MNS Meat Sài Gòn</td><td>265.000.000.000</td><td>-</td></tr><tr><td>▪ Công ty TNHH MNS Meat Hà Nam</td><td>199.800.000.000</td><td>-</td></tr><tr><td>▪ Công ty TNHH MNS Farm Nghệ An</td><td>120.000.000.000</td><td>-</td></tr><tr><td></td><td>584.800.000.000</td><td>-</td></tr></table>
+
+Các khoản phải thu về cho vay ngắn hạn từ các công ty con không có đảm bảo và hưởng lãi suất năm là 6,5%.
+
+19
+
+===== PAGE 21 =====
+Công ty Cổ phần Masan MEATLife (trước đây là “Công ty Cổ phần Masan Nutri-Science”) Thuyết minh báo cáo tài chính riêng cho năm kết thúc ngày 31 tháng 12 năm 2019 (tiếp theo)
+
+Mãu B 09 - DN
+
+(Ban hành theo Thông tư số 200/2014/TT-BTC
+
+ngày 22 tháng 12 năm 2014 của Bộ Tài chính)
+
+9. Phải thu ngắn hạn khác
+
+<table><tr><td></td><td>31/12/2019VND</td><td>1/1/2019VND</td></tr><tr><td colspan="3">Cổ tức phải thu từ các công ty con:</td></tr><tr><td>▪ Công ty Cổ phần Dinh dưỡng Nông nghiệp Quốc tế</td><td>105.313.561.504</td><td>127.313.561.504</td></tr><tr><td>▪ Công ty TNHH MNS Feed</td><td>260.000.000.000</td><td>-</td></tr><tr><td>Lãi phải thu từ tiền gửi</td><td>6.406.517.808</td><td>1.453.601.096</td></tr><tr><td colspan="3">Lãi phải thu từ cho vay các công ty con:</td></tr><tr><td>▪ Công ty TNHH MNS Meat Hà Nam</td><td>2.912.961.645</td><td>-</td></tr><tr><td>▪ Công ty TNHH MNS Farm Nghệ An</td><td>1.379.656.167</td><td>-</td></tr><tr><td>▪ Công ty TNHH MNS Meat Sài Gòn</td><td>909.305.480</td><td>-</td></tr><tr><td>Khoản phải thu phi thương mại từ các bên liên quan</td><td>2.247.968.743</td><td>36.632.772.324</td></tr><tr><td>Tạm ứng</td><td>1.200.038.241</td><td>673.262.549</td></tr><tr><td>Ký quỹ, ký cược ngắn hạn</td><td>2.095.500</td><td>2.095.500</td></tr><tr><td>Phải thu khác</td><td>211.987</td><td>2.109.014</td></tr><tr><td></td><td>380.372.317.075</td><td>166.077.401.987</td></tr></table>
+
+Khoản phải thu phi thương mại từ các bên liên quan bao gồm:
+
+<table><tr><td></td><td>31/12/2019VND</td><td>1/1/2019VND</td></tr><tr><td colspan="3">Các công ty con</td></tr><tr><td>▪ Công ty TNHH MNS Feed</td><td>1.120.228.500</td><td>1.120.228.500</td></tr><tr><td>▪ Công ty TNHH MNS Feed Nghệ An</td><td>889.178.248</td><td>-</td></tr><tr><td>▪ Công ty Cổ phần Việt – Pháp Sản xuất Thức ăn Gia súc</td><td>238.561.995</td><td>20.613.145.608</td></tr><tr><td>▪ Công ty Cổ phần Dinh dưỡng Nông nghiệp Quốc tế</td><td>-</td><td>12.135.210.575</td></tr><tr><td>▪ Công ty TNHH MNS Feed Tiền Giang</td><td>-</td><td>2.374.100.185</td></tr><tr><td>▪ Công ty TNHH MNS Feed Vĩnh Long</td><td>-</td><td>309.680.734</td></tr><tr><td>▪ Công ty TNHH Sản xuất và Thương mại Proconco Hưng Yên</td><td>-</td><td>50.753.959</td></tr><tr><td>▪ Công ty TNHH Một Thành viên Proconco Cần Thơ</td><td>-</td><td>26.170.000</td></tr><tr><td>▪ Công ty TNHH Một Thành viên Con Cò Bình Định</td><td>-</td><td>3.482.763</td></tr><tr><td></td><td>2.247.968.743</td><td>36.632.772.324</td></tr></table>
+
+Các khoản phải thu phi thương mại từ các công ty con không có đảm bảo, không hưởng lãi và có thể thu hồi khi yêu cầu.
+
+20
+
+===== PAGE 22 =====
+Công ty Cổ phần Masan MEATLife (trước đây là “Công ty Cổ phần Masan Nutri-Science”) Thuyết minh báo cáo tài chính riêng cho năm kết thúc ngày 31 tháng 12 năm 2019 (tiếp theo)
+
+Mẫu B 09 - DN
+
+(Ban hành theo Thông tư số 200/2014/TT-BTC
+
+ngày 22 tháng 12 năm 2014 của Bộ Tài chính)
+
+10. Hàng tồn kho
+
+<table><tr><td></td><td>31/12/2019VND</td><td>1/1/2019VND</td></tr><tr><td>Hàng hóa</td><td>121.398.871.431</td><td>123.030.123.114</td></tr></table>
+
+Không có dự phòng giảm giá hàng tồn kho nào được trích lập trong báo cáo tài chính riêng cho các năm kết thúc ngày 31 tháng 12 năm 2019 và 2018.
+
+11. Xây dựng cơ bản dở dang
+
+<table><tr><td></td><td>2019VND</td><td>2018VND</td></tr><tr><td>Số dư đầu năm</td><td>1.981.506.652</td><td>-</td></tr><tr><td>Tăng trong năm</td><td>-</td><td>1.981.506.652</td></tr><tr><td>Thanh lý trong năm</td><td>(1.635.719.000)</td><td>-</td></tr><tr><td>Xóa số</td><td>(345.787.652)</td><td>-</td></tr><tr><td>Số dư cuối năm</td><td>-</td><td>1.981.506.652</td></tr></table>
+
+12. Đầu tư tài chính dài hạn
+
+<table><tr><td></td><td>31/12/2019VND</td><td>1/1/2019VND</td></tr><tr><td>Đầu tư vào các công ty con (a)</td><td>6.694.450.622.729</td><td>6.094.450.622.729</td></tr><tr><td>Đầu tư góp vốn vào các đơn vị khác (b)</td><td>175.553.889.000</td><td>175.553.889.000</td></tr><tr><td></td><td>6.870.004.511.729</td><td>6.270.004.511.729</td></tr></table>
+
+21
+
+===== PAGE 23 =====
+Công ty Cổ phần Masan MEATLife (trước đây là “Công ty Cổ phần Masan Nutri-Science”) Thuyết minh báo cáo tài chính riêng cho năm kết thúc ngày 31 tháng 12 năm 2019 (tiếp theo)
+
+Mẫu B 09 - DN
+
+(Ban hành theo Thông tư số 200/2014/TT-BTC
+
+ngày 22 tháng 12 năm 2014 của Bộ Tài chính)
+
+(a) Đầu tư vào các công ty con
+
+<table><tr><td rowspan="2"></td><td colspan="3">31/12/2019</td><td colspan="3">1/1/2019</td></tr><tr><td>% sở hữu</td><td>% quyền biểu quyết</td><td>Giá gốc VND</td><td>% sở hữu</td><td>% quyền biểu quyết</td><td>Giá gốc VND</td></tr><tr><td>Công ty TNHH MNS Feed</td><td>99,9%</td><td>99,9%</td><td>3.111.990.000.000</td><td>99,9%</td><td>99,9%</td><td>3.111.990.000.000</td></tr><tr><td>Công ty Cổ phần Dinh dưỡng Nông nghiệp Quốc tế</td><td>100,0%</td><td>100,0%</td><td>3.581.563.422.729</td><td>100,0%</td><td>100,0%</td><td>2.981.563.422.729</td></tr><tr><td>Đầu tư khác</td><td>-</td><td>-</td><td>897.200.000</td><td>-</td><td>-</td><td>897.200.000</td></tr><tr><td></td><td></td><td></td><td>6.694.450.622.729</td><td></td><td></td><td>6.094.450.622.729</td></tr></table>
+
+Tất cả các công ty con được thành lập tại Việt Nam.
+
+Công ty chưa xác định giá trị hợp lý của các khoản đầu tư góp vốn này để thuyết minh trong báo cáo tài chính riêng bởi vì Chuẩn mực Kế toán Việt Nam, Chế độ Kế toán Doanh nghiệp Việt Nam hiện không có hướng dẫn về cách tính giá trị hợp lý sử dụng các kỹ thuật định giá. Giá trị hợp lý của các khoản đầu tư góp vốn này có thể khác với giá trị ghi sổ của chúng.
+
+Không có dự phòng giảm giá nào cho các khoản đầu tư vào các công ty con được trích lập trên báo cáo tài chính riêng cho các năm kết thúc ngày 31 tháng 12 năm 2019 và 2018.
+
+Thông tin chỉ tiết của các công ty con tại ngày 31 tháng 12 năm 2019 và ngày 1 tháng 1 năm 2019 được mô tả như sau:
+
+<table><tr><td>Tên</td><td>Trụ sở</td><td>Hoạt động chính</td></tr><tr><td>Công ty TNHH MNS Feed</td><td>Lô A4, Đường số 2, Khu Công nghiệp Sông Mây, Huyện Tràng Bom, Tỉnh Đồng Nai, Việt Nam</td><td>Sản xuất và chế biến thức ăn gia súc, gia cầm và thủy sản</td></tr><tr><td>Công ty Cổ phần Dính dưỡng Nông nghiệp Quốc tế</td><td>Lô A4, Đường số 2, Khu Công nghiệp Sông Mây, Huyện Tràng Bom, Tỉnh Đồng Nai, Việt Nam</td><td>Sản xuất và chế biến thức ăn gia súc, gia cầm và thủy sản; chăn nuôi gia súc và gia cầm</td></tr></table>
+
+22
+
+===== PAGE 24 =====
+Công ty Cổ phần Masan MEATLife (trước đây là “Công ty Cổ phần Masan Nutri-Science”) Thuyết minh báo cáo tài chính riêng cho năm kết thúc ngày 31 tháng 12 năm 2019 (tiếp theo)
+
+Mãu B 09 - DN
+
+(Ban hành theo Thông tư số 200/2014/TT-BTC
+
+ngày 22 tháng 12 năm 2014 của Bộ Tài chính)
+
+Biến động của các khoản đầu tư vào các công ty con trong năm như sau:
+
+<table><tr><td></td><td>Công ty TNHH MNS Feed VND</td><td>Công ty Cổ phần Dinh dưỡng Nông nghiệp Quốc tế VND</td><td>Khác VND</td><td>Tổng VND</td></tr><tr><td>Số dư đầu năm</td><td>3.111.990.000.000</td><td>2.981.563.422.729</td><td>897.200.000</td><td>6.094.450.622.729</td></tr><tr><td>Tăng trong năm</td><td>-</td><td>600.000.000.000</td><td>-</td><td>600.000.000.000</td></tr><tr><td>Số dư cuối năm</td><td>3.111.990.000.000</td><td>3.581.563.422.729</td><td>897.200.000</td><td>6.694.450.622.729</td></tr></table>
+
+(b) Đầu tư góp vốn vào các đơn vị khác
+
+<table><tr><td rowspan="2"></td><td colspan="3">31/12/2019 và 1/1/2019</td></tr><tr><td>% sở hữu</td><td>% quyền biểu quyết</td><td>Giá gốc VND</td></tr><tr><td>Công ty TNHH MNS Meat</td><td>0,001%</td><td>-</td><td>10.889.000</td></tr><tr><td>Đầu tư khác (*)</td><td>-</td><td>-</td><td>175.543.000.000</td></tr><tr><td></td><td></td><td></td><td>175.553.889.000</td></tr></table>
+
+(*) Trong năm 2016, Công ty Cổ phần Dinh dưỡng Nông nghiệp Quốc tế, một công ty con của Công ty, đã phát hành một quyền chọn mua cho một nhà đầu tư để mua 5% lợi ích vốn chủ sở hữu của Công ty Cổ phần Dinh dưỡng Nông nghiệp Quốc tế theo mệnh giá trên cơ sở pha loãng toàn bộ, quyền chọn này có thể được thực hiện trong 10 năm tính từ tháng 1 năm 2016. Trong tháng 2 năm 2016, quyền chọn này đã được Công ty mua lại như một phần trong kế hoạch tái cấu trúc của Công ty và nhằm gia tăng tỷ lệ sở hữu trong các công ty con, đặc biệt là Công ty Cổ phần Dinh dưỡng Nông nghiệp Quốc tế và Công ty Cổ phần Việt – Pháp Sản xuất Thức ăn Gia súc. Công ty ghi nhận giao dịch này trong đầu tư góp vốn khác.
+
+Công ty chưa xác định giá trị hợp lý của các khoản đầu tư góp vốn này để thuyết minh trong báo cáo tài chính riêng bởi vì Chuẩn mực Kế toán Việt Nam, Chế độ Kế toán Doanh nghiệp Việt Nam hiện không có hướng dẫn về cách tính giá trị hợp lý sử dụng các kỹ thuật định giá. Giá trị hợp lý của các khoản đầu tư góp vốn này có thể khác với giá trị ghi sổ của chúng.
+
+Không có biến động của giá trị ghi số của các khoản đầu tư vào các đơn vị khác của Công ty trong năm.
+
+23
+
+===== PAGE 25 =====
+Công ty Cổ phần Masan MEATLife (trước đây là “Công ty Cổ phần Masan Nutri-Science”) Thuyết minh báo cáo tài chính riêng cho năm kết thúc ngày 31 tháng 12 năm 2019 (tiếp theo)
+
+Mãu B 09 - DN
+
+(Ban hành theo Thông tư số 200/2014/TT-BTC
+
+ngày 22 tháng 12 năm 2014 của Bộ Tài chính)
+
+13. Chi phí trả trước dài hạn
+
+<table><tr><td></td><td>Công cụ và dụng cụ VND</td><td>Chỉ phí khác VND</td><td>Tổng VND</td></tr><tr><td>Số dư đầu năm</td><td>72.010.224</td><td>67.141.866</td><td>139.152.090</td></tr><tr><td>Tăng trong năm</td><td>5.885.252.711</td><td>746.303.670</td><td>6.631.556.381</td></tr><tr><td>Phân bổ trong năm</td><td>(1.436.665.238)</td><td>(168.773.992)</td><td>(1.605.439.230)</td></tr><tr><td>Số dư cuối năm</td><td>4.520.597.697</td><td>644.671.544</td><td>5.165.269.241</td></tr></table>
+
+14. Phải trả người bán ngắn hạn
+
+(a) Phải trả người bán chi tiết theo nhà cung cấp lớn
+
+<table><tr><td></td><td>31/12/2019VND</td><td>1/1/2019VND</td></tr><tr><td>Công ty Cổ phần Việt – Pháp Sản xuất Thức ăn Gia súc</td><td>1.748.235.987.687</td><td>741.287.613.925</td></tr><tr><td>Công ty TNHH Sản xuất và Thương mại Proconco Hung Yên</td><td>130.016.204.910</td><td>111.759.514.565</td></tr><tr><td>Các nhà cung cấp khác</td><td>69.808.434.485</td><td>149.920.842.625</td></tr><tr><td></td><td>1.948.060.627.082</td><td>1.002.967.971.115</td></tr></table>
+
+(b) Phải trả người bán là các bên liên quan
+
+<table><tr><td></td><td>31/12/2019VND</td><td>1/1/2019VND</td></tr><tr><td colspan="3">Các công ty con</td></tr><tr><td>▪ Công ty Cổ phần Việt – Pháp Sản xuất Thúc ăn Gia súc</td><td>1.748.235.987.687</td><td>741.287.613.925</td></tr><tr><td>▪ Công ty TNHH Sản xuất và Thương mại Proconco Hung Yên</td><td>130.016.204.910</td><td>111.759.514.565</td></tr><tr><td>▪ Công ty Cổ phần Dinh dưỡng Nông nghiệp Quốc tế</td><td>32.565.908.650</td><td>9.988.097.016</td></tr><tr><td>▪ Công ty TNHH MNS Feed Tiền Giang</td><td>14.580.289.420</td><td>28.256.342.025</td></tr><tr><td>▪ Công ty TNHH MNS Feed Hậu Giang</td><td>669.156.080</td><td>18.577.947.535</td></tr><tr><td>▪ Công ty TNHH MNS Feed Vĩnh Long</td><td>-</td><td>57.370.018.360</td></tr><tr><td>▪ Công ty TNHH Một Thành viên Con Cò Bình Định</td><td>-</td><td>7.725.822.545</td></tr><tr><td colspan="3">Công ty liên quan khác</td></tr><tr><td>▪ Công ty Cổ phần Hàng Tiêu dùng Masan</td><td>4.509.684.250</td><td>6.871.841.133</td></tr><tr><td></td><td>1.930.577.230.997</td><td>981.837.197.104</td></tr></table>
+
+24
+
+===== PAGE 26 =====
+Công ty Cổ phần Masan MEATLife (trước đây là “Công ty Cổ phần Masan Nutri-Science”) Thuyết minh báo cáo tài chính riêng cho năm kết thúc ngày 31 tháng 12 năm 2019 (tiếp theo)
+
+Mãu B 09 - DN
+
+(Ban hành theo Thông tư số 200/2014/TT-BTC
+
+ngày 22 tháng 12 năm 2014 của Bộ Tài chính)
+
+Các khoản phải trả thương mại cho các công ty con và công ty liên quan khác không được đảm bảo, không chịu lãi và phải trả trong vòng 30 đến 60 ngày kể từ ngày ghi trên hóa đơn.
+
+15. Thuế phải nộp Nhà nước
+
+<table><tr><td></td><td>1/1/2019 VND</td><td>Số phát sinh trong năm VND</td><td>Số đã nộp trong năm VND</td><td>Phân loại VND</td><td>31/12/2019 VND</td></tr><tr><td>Thuế giá trị gia tăng</td><td>52.303.881</td><td>151.234.365</td><td>(310.659.870)</td><td>107.121.624</td><td>-</td></tr><tr><td>Thuế thu nhập cá nhân</td><td>8.790.294.758</td><td>29.396.324.102</td><td>(29.967.964.339)</td><td>-</td><td>8.218.654.521</td></tr><tr><td>Các loại thuế khác</td><td>-</td><td>172.303.609</td><td>(172.303.609)</td><td>-</td><td>-</td></tr><tr><td></td><td>8.842.598.639</td><td>29.719.862.076</td><td>(30.450.927.818)</td><td>107.121.624</td><td>8.218.654.521</td></tr></table>
+
+16. Chi phí phải trả ngắn hạn
+
+<table><tr><td></td><td>31/12/2019VND</td><td>1/1/2019VND</td></tr><tr><td>Chiết khấu thương mại</td><td>169.669.987.563</td><td>160.639.232.498</td></tr><tr><td>Thường và lương tháng 13</td><td>37.321.201.948</td><td>53.333.199.000</td></tr><tr><td>Chi phí quảng cáo và khuyến mãi</td><td>3.176.739.678</td><td>20.026.282.330</td></tr><tr><td>Chi phí lãi vay</td><td>1.107.114.932</td><td>-</td></tr><tr><td>Chi phí vận chuyển</td><td>579.534.693</td><td>576.449.889</td></tr><tr><td>Chi phí khác</td><td>10.575.463.686</td><td>12.243.809.344</td></tr><tr><td></td><td>222.430.042.500</td><td>246.818.973.061</td></tr></table>
+
+25
+
+===== PAGE 27 =====
+Công ty Cổ phần Masan MEATLife (trước đây là “Công ty Cổ phần Masan Nutri-Science”) Thuyết minh báo cáo tài chính riêng cho năm kết thúc ngày 31 tháng 12 năm 2019 (tiếp theo)
+
+Mẫu B 09 - DN
+
+(Ban hành theo Thông tư số 200/2014/TT-BTC
+
+ngày 22 tháng 12 năm 2014 của Bộ Tài chính)
+
+17. Phải trả khác
+
+(a) Phải trả ngắn hạn khác
+
+<table><tr><td></td><td>31/12/2019VND</td><td>1/1/2019VND</td></tr><tr><td>Khoản phải trả phi thương mại cho các bên liên quan</td><td>290.168.126</td><td>14.953.012.792</td></tr><tr><td>Chi phí lãi vay phải trả cho Công ty Cổ phần Việt –</td><td></td><td></td></tr><tr><td>Pháp Sản xuất Thức ăn Gia súc, một công ty con</td><td>-</td><td>197.359.154.330</td></tr><tr><td>Kinh phí công đoàn</td><td>-</td><td>1.266.928.820</td></tr><tr><td>Phải trả khác</td><td>7.572.011.537</td><td>3.714.598.603</td></tr><tr><td></td><td>7.862.179.663</td><td>217.293.694.545</td></tr></table>
+
+Khoản phải trả phi thương mại cho các bên liên quan bao gồm:
+
+<table><tr><td></td><td>31/12/2019VND</td><td>1/1/2019VND</td></tr><tr><td colspan="3">Các công ty con</td></tr><tr><td>▪ Công ty Cổ phần Dinh dưỡng Nông nghiệp Quốc tế</td><td>258.168.126</td><td>13.679.786.557</td></tr><tr><td>▪ Công ty TNHH MNS Feed Tiền Giang</td><td>30.000.000</td><td>-</td></tr><tr><td>▪ Công ty Cổ phần Việt – Pháp Sản xuất Thức ăn Gia súc</td><td>2.000.000</td><td>1.024.666.359</td></tr><tr><td>▪ Công ty TNHH Một Thành viên Proconco Cần Thơ</td><td>-</td><td>158.000.000</td></tr><tr><td>▪ Công ty TNHH Một Thành viên Con Cò Bình Định</td><td>-</td><td>60.000.000</td></tr><tr><td>▪ Công ty TNHH MNS Feed Vĩnh Long</td><td>-</td><td>10.274.448</td></tr><tr><td>▪ Công ty TNHH Sản xuất và Thương mại Proconco Hung Yên</td><td>-</td><td>20.000.000</td></tr><tr><td>▪ Công ty TNHH MNS Feed</td><td>-</td><td>285.428</td></tr><tr><td></td><td>290.168.126</td><td>14.953.012.792</td></tr></table>
+
+Các khoản phải trả phi thương mại cho các công ty con không được đảm bảo, không chịu lãi và phải trả khi được yêu cầu.
+
+(b) Phải trả dài hạn khác
+
+<table><tr><td></td><td>31/12/2019VND</td><td>1/1/2019VND</td></tr><tr><td>Chi phí lãi vay phải trả cho Công ty Cổ phần Việt – Pháp Sản xuất Thức ăn Gia súc, một công ty con</td><td>417.869.847.802</td><td>18.240.827.267</td></tr></table>
+
+26
+
+\(H_{2}S\) 0.1
+
+===== PAGE 28 =====
+Công ty Cổ phần Masan MEATLife (trước đây là “Công ty Cổ phần Masan Nutri-Science”) Thuyết minh báo cáo tài chính riêng cho năm kết thúc ngày 31 tháng 12 năm 2019 (tiếp theo)
+
+Mẫu B 09 - DN
+
+(Ban hành theo Thông tư số 200/2014/TT-BTC
+
+ngày 22 tháng 12 năm 2014 của Bộ Tài chính)
+
+18. Vay
+
+(a) Vay ngắn hạn
+
+<table><tr><td rowspan="2"></td><td rowspan="2">1/1/2019Giá trị ghi sổ/Số có khả năngtrả nợVND</td><td colspan="3">Biến động trong năm</td><td rowspan="2">31/12/2019Giá trị ghi sổ/Số có khả năngtrả nợVND</td></tr><tr><td>VayVND</td><td>Hoàn trảVND</td><td>Phân loại lại sang vaydài hạnVND</td></tr><tr><td>Vay ngắn hạn</td><td>-</td><td>461.688.600.360</td><td>(93.158.600.360)</td><td>-</td><td>368.530.000.000</td></tr><tr><td>Vay dài hạn đến hạn trả</td><td>2.419.754.495.481</td><td>-</td><td>-</td><td>(2.419.754.495.481)</td><td>-</td></tr><tr><td></td><td>2.419.754.495.481</td><td>461.688.600.360</td><td>(93.158.600.360)</td><td>(2.419.754.495.481)</td><td>368.530.000.000</td></tr></table>
+
+Điều khoản và điều kiện của các khoản vay ngắn hạn hiện còn số dư như sau:
+
+<table><tr><td></td><td>Loại tiền</td><td>Lãi suất năm</td><td>31/12/2019VND</td><td>1/1/2019VND</td></tr><tr><td>Các khoản vay ngân hàng không đảm báo</td><td>VND</td><td>5,4% - 6,2%</td><td>368.530.000.000</td><td>-</td></tr></table>
+
+27
+
+===== PAGE 29 =====
+Công ty Cổ phần Masan MEATLife (trước đây là “Công ty Cổ phần Masan Nutri-Science”) Thuyết minh báo cáo tài chính riêng cho năm kết thúc ngày 31 tháng 12 năm 2019 (tiếp theo)
+
+Mãu B 09 - DN
+
+(Ban hành theo Thông tư số 200/2014/TT-BTC
+
+ngày 22 tháng 12 năm 2014 của Bộ Tài chính)
+
+(b) Vay dài hạn
+
+<table><tr><td></td><td>31/12/2019VND</td><td>1/1/2019VND</td></tr><tr><td>Vay dài hạn</td><td>3.111.844.095.436</td><td>3.111.844.095.436</td></tr><tr><td>Khoản đến hạn trả trong vòng 12 tháng</td><td>-</td><td>(2.419.754.495.481)</td></tr><tr><td>Khoản đến hạn trả sau 12 tháng</td><td>3.111.844.095.436</td><td>692.089.599.955</td></tr></table>
+
+Điều khoản và điều kiện của các khoản vay dài hạn hiện còn số dư như sau:
+
+<table><tr><td></td><td>Loại tiền</td><td>Lãi suất năm</td><td>Năm đáo hạn</td><td>31/12/2019 VND</td><td>1/1/2019 VND</td></tr><tr><td>Các khoản vay không đảm bảo từ Công ty Cổ phần Việt – Pháp Sản xuất Thức ăn Gia súc, một công ty con▪ Khoản vay 1 (*)</td><td>VND</td><td>6,5%</td><td>2021</td><td>2.419.754.495.481</td><td>2.419.754.495.481</td></tr><tr><td>▪ Khoản vay 2</td><td>VND</td><td>6,5%</td><td>2021</td><td>692.089.599.955</td><td>692.089.599.955</td></tr><tr><td colspan="4"></td><td>3.111.844.095.436</td><td>3.111.844.095.436</td></tr></table>
+
+(*) Vào ngày 2 tháng 5 năm 2019, Công ty đã ký một thỏa thuận với Công ty Cổ phần Việt – Pháp Sản xuất Thức ăn Gia súc để gia hạn thời gian đáo hạn của khoản vay này đến ngày 1 tháng 11 năm 2021.
+
+28
+
+===== PAGE 30 =====
+Công ty Cổ phần Masan MEATLife (trước đây là “Công ty Cổ phần Masan Nutri-Science”) Thuyết minh báo cáo tài chính riêng cho năm kết thúc ngày 31 tháng 12 năm 2019 (tiếp theo)
+
+Mẫu B 09 - DN
+
+(Ban hành theo Thông tư số 200/2014/TT-BTC
+
+ngày 22 tháng 12 năm 2014 của Bộ Tài chính)
+
+19. Thay đổi vốn chủ sở hữu
+
+<table><tr><td></td><td>Vốn cổ phần VND</td><td>Thặng dư vốn cổ phần VND</td><td>Lỗ lũy kế VND</td><td>Tổng VND</td></tr><tr><td>Số dư tại ngày 1 tháng 1 năm 2018</td><td>2.162.182.990.000</td><td>3.200.196.495.149</td><td>(1.365.904.965.932)</td><td>3.996.474.519.217</td></tr><tr><td>Lợi nhuận thuần trong năm</td><td>-</td><td>-</td><td>580.419.597.869</td><td>580.419.597.869</td></tr><tr><td>Cổ tức</td><td>-</td><td>-</td><td>(1.570.391.216.456)</td><td>(1.570.391.216.456)</td></tr><tr><td>Số dư tại ngày 1 tháng 1 năm 2019</td><td>2.162.182.990.000</td><td>3.200.196.495.149</td><td>(2.355.876.584.519)</td><td>3.006.502.900.630</td></tr><tr><td>Phát hành cổ phiếu từ nguồn thẳng dư vốn cổ phần (i)</td><td>1.081.091.480.000</td><td>(1.081.091.480.000)</td><td>-</td><td>-</td></tr><tr><td>Lợi nhuận thuần trong năm</td><td>-</td><td>-</td><td>108.345.773.741</td><td>108.345.773.741</td></tr><tr><td>Số dư tại ngày 31 tháng 12 năm 2019</td><td>3.243.274.470.000</td><td>2.119.105.015.149</td><td>(2.247.530.810.778)</td><td>3.114.848.674.371</td></tr></table>
+
+(i) Vào ngày 23 tháng 7 năm 2019, Đại hội đồng Cổ đông của Công ty đã phê duyệt tăng vốn điều lệ của Công ty thông qua việc phát hành cổ phiếu từ nguồn thăng dư vốn cổ phần.
+
+29
+
+===== PAGE 31 =====
+Công ty Cổ phần Masan MEATLife (trước đây là “Công ty Cổ phần Masan Nutri-Science”) Thuyết minh báo cáo tài chính riêng cho năm kết thúc ngày 31 tháng 12 năm 2019 (tiếp theo)
+
+Mẫu B 09 - DN
+
+(Ban hành theo Thông tư số 200/2014/TT-BTC
+
+ngày 22 tháng 12 năm 2014 của Bộ Tài chính)
+
+20. Vốn cổ phần
+
+Vốn cổ phần được duyệt và đã phát hành của Công ty như sau:
+
+<table><tr><td rowspan="2"></td><td colspan="2">31/12/2019</td><td colspan="2">1/1/2019</td></tr><tr><td>Số cổ phiếu</td><td>VND</td><td>Số cổ phiếu</td><td>VND</td></tr><tr><td>Vốn cổ phần được duyệt</td><td>324.327.447</td><td>3.243.274.470.000</td><td>216.218.299</td><td>2.162.182.990.000</td></tr><tr><td>Vốn cổ phần đã phát hànhCổ phiếu phổ thông</td><td>324.327.447</td><td>3.243.274.470.000</td><td>216.218.299</td><td>2.162.182.990.000</td></tr></table>
+
+Cổ phiếu phổ thông có mệnh giá là 10.000 VND. Mỗi cổ phiếu phổ thông tương ứng với một phiếu biểu quyết tại các cuộc họp cổ đông của Công ty. Các cổ đông được nhận cổ tức mà Công ty công bố vào từng thời điểm. Tất cả cổ phiếu phổ thông đều có thứ tự ưu tiên như nhau đối với tài sản còn lại của Công ty.
+
+Biến động của vốn cổ phần trong năm như sau:
+
+<table><tr><td></td><td>2019VND</td><td>2018VND</td></tr><tr><td>Số dư đầu năm</td><td>2.162.182.990.000</td><td>2.162.182.990.000</td></tr><tr><td>Phát hành cổ phiếu từ nguồn thẳng dư vốn cổ phần</td><td>1.081.091.480.000</td><td>-</td></tr><tr><td>Số dư cuối năm</td><td>3.243.274.470.000</td><td>2.162.182.990.000</td></tr></table>
+
+21. Các khoản mục ngoài Bảng cân đối kế toán
+
+(a) Cam kết thuê
+
+Các khoản tiền thuê tối thiểu phải trả cho các hợp đồng thuê hoạt động không được huỷ ngang như sau:
+
+<table><tr><td></td><td>31/12/2019VND</td><td>1/1/2019VND</td></tr><tr><td>Trong vòng 1 năm</td><td>7.963.257.600</td><td>-</td></tr><tr><td>Trong vòng 2 đến 5 năm</td><td>8.215.707.200</td><td>-</td></tr><tr><td></td><td>16.178.964.800</td><td>-</td></tr></table>
+
+30
+
+===== PAGE 32 =====
+Công ty Cổ phần Masan MEATLife (trước đây là “Công ty Cổ phần Masan Nutri-Science”) Thuyết minh báo cáo tài chính riêng cho năm kết thúc ngày 31 tháng 12 năm 2019 (tiếp theo)
+
+Mẫu B 09 - DN
+
+(Ban hành theo Thông tư số 200/2014/TT-BTC
+
+ngày 22 tháng 12 năm 2014 của Bộ Tài chính)
+
+(b) Ngoại tệ
+
+<table><tr><td rowspan="2"></td><td colspan="2">31/12/2019</td><td colspan="2">1/1/2019</td></tr><tr><td>Nguyên tệ</td><td>Tương đương VND</td><td>Nguyên tệ</td><td>Tương đương VND</td></tr><tr><td>USD</td><td>259.421</td><td>5.995.220.234</td><td>76.120</td><td>1.761.418.883</td></tr></table>
+
+22. Doanh thu bán hàng
+
+Tổng doanh thu thể hiện tổng giá trị hàng bán không bao gồm thuế giá trị gia tăng.
+
+Doanh thu thuần bao gồm:
+
+<table><tr><td></td><td>2019VND</td><td>2018VND</td></tr><tr><td>Tổng doanh thuBán hàng</td><td>9.778.042.006.810</td><td>5.615.577.245.583</td></tr><tr><td>Trừ đi các khoản giảm trừ doanh thuChiết khấu thương mạiHàng bán bị trả lạiGiảm giá hàng bán</td><td>558.924.333.396779.705.04127.189.703</td><td>308.776.301.383337.068.684-</td></tr><tr><td></td><td>559.731.228.140</td><td>309.113.370.067</td></tr><tr><td>Doanh thu thuần</td><td>9.218.310.778.670</td><td>5.306.463.875.516</td></tr></table>
+
+23. Giá vốn hàng bán
+
+<table><tr><td></td><td>2019VND</td><td>2018VND</td></tr><tr><td>Hàng hóa đã bán</td><td>8.619.123.155.578</td><td>4.941.833.983.895</td></tr></table>
+
+31
+
+\( \therefore {a}_{1} =  - {a}_{2} + 3 \)
+
+“×1 = - - +”
+
+===== PAGE 33 =====
+Công ty Cổ phần Masan MEATLife (trước đây là “Công ty Cổ phần Masan Nutri-Science”) Thuyết minh báo cáo tài chính riêng cho năm kết thúc ngày 31 tháng 12 năm 2019 (tiếp theo)
+
+Mâu B 09 - DN
+
+(Ban hành theo Thông tư số 200/2014/TT-BTC
+
+ngày 22 tháng 12 năm 2014 của Bộ Tài chính)
+
+24. Doanh thu hoạt động tài chính
+
+<table><tr><td></td><td>2019VND</td><td>2018VND</td></tr><tr><td>Thu nhập cổ tức</td><td>330.470.365.973</td><td>795.142.312.854</td></tr><tr><td>Thu nhập lãi tiền gửi và cho vay</td><td>44.263.019.883</td><td>13.639.064.426</td></tr><tr><td>Lãi chênh lệch tỷ giá hối đoái đã thực hiện</td><td>1.586.865.161</td><td>3.031.365</td></tr><tr><td>Lãi chênh lệch tỷ giá hối đoái chưa thực hiện</td><td>-</td><td>185.960.101</td></tr><tr><td></td><td>376.320.251.017</td><td>808.970.368.746</td></tr></table>
+
+25. Chi phí tài chính
+
+<table><tr><td></td><td>2019VND</td><td>2018VND</td></tr><tr><td colspan="3">Chi phí lãi vay từ:</td></tr><tr><td>▪ Các công ty con</td><td>202.269.866.205</td><td>192.403.867.779</td></tr><tr><td>▪ Ngân hàng</td><td>3.658.608.738</td><td>-</td></tr><tr><td>Lỗ chênh lệch tỷ giá hối đoái chưa thực hiện</td><td>180.543.000</td><td>-</td></tr><tr><td>Chi phí khác</td><td>54.674.525.503</td><td>30.610.205.905</td></tr><tr><td></td><td>260.783.543.446</td><td>223.014.073.684</td></tr></table>
+
+26. Chi phí bán hàng
+
+<table><tr><td></td><td>2019VND</td><td>2018VND</td></tr><tr><td>Chi phí nhân viên</td><td>217.356.745.370</td><td>150.125.496.839</td></tr><tr><td>Chi phí vận chuyển</td><td>65.271.731.167</td><td>34.342.364.366</td></tr><tr><td>Chi phí quảng cáo và khuyến mãi</td><td>63.625.071.166</td><td>52.654.954.056</td></tr><tr><td>Chi phí thuê hoạt động</td><td>12.308.647.207</td><td>7.052.944.743</td></tr><tr><td>Chi phí công cụ và dụng cụ</td><td>905.887.405</td><td>468.476.263</td></tr><tr><td>Chi phí khác</td><td>95.593.290.614</td><td>52.717.875.143</td></tr><tr><td></td><td>455.061.372.929</td><td>297.362.111.410</td></tr></table>
+
+32
+
+11.4.5.7.8 11.5.6.7.8 11.6.7.9 11.7.8.9 11.8.9.10
+
+===== PAGE 34 =====
+Công ty Cổ phần Masan MEATLife (trước đây là “Công ty Cổ phần Masan Nutri-Science”) Thuyết minh báo cáo tài chính riêng cho năm kết thúc ngày 31 tháng 12 năm 2019 (tiếp theo)
+
+Mẫu B 09 - DN
+
+(Ban hành theo Thông tư số 200/2014/TT-BTC
+
+ngày 22 tháng 12 năm 2014 của Bộ Tài chính)
+
+27. Chi phí quản lý doanh nghiệp
+
+<table><tr><td></td><td>2019VND</td><td>2018VND</td></tr><tr><td>Chi phí nhân viên</td><td>98.414.911.680</td><td>61.709.021.063</td></tr><tr><td>Dự phòng các khoản phải thu khó đòi</td><td>9.780.987.692</td><td>-</td></tr><tr><td>Chi phí thuê hoạt động</td><td>3.462.406.102</td><td>256.467.607</td></tr><tr><td>Chi phí dụng cụ văn phòng</td><td>2.614.986.303</td><td>706.503.305</td></tr><tr><td>Chi phí khấu hao</td><td>216.676.302</td><td>166.672.252</td></tr><tr><td>Chi phí khác</td><td>36.401.687.293</td><td>9.774.778.088</td></tr><tr><td></td><td>150.891.655.372</td><td>72.613.442.315</td></tr></table>
+
+28. Thuế thu nhập doanh nghiệp
+
+(a) Đối chiếu thuế suất thực tế
+
+<table><tr><td></td><td>2019VND</td><td>2018VND</td></tr><tr><td>Lợi nhuận kế toán trước thuế</td><td>108.345.773.741</td><td>580.419.597.869</td></tr><tr><td>Thuế tính theo thuế suất của Công ty</td><td>21.669.154.748</td><td>116.083.919.574</td></tr><tr><td>Chi phí không được khấu trừ thuế</td><td>14.035.255.631</td><td>7.857.234.592</td></tr><tr><td>Tài sản thuế thu nhập hoãn lại chưa được ghi nhận</td><td>30.389.662.816</td><td>37.485.730.152</td></tr><tr><td>Thu nhập được miễn thuế</td><td>(66.094.073.195)</td><td>(159.028.462.571)</td></tr><tr><td>Lỗ tính thuế đã sử dụng</td><td>-</td><td>(2.398.421.747)</td></tr><tr><td></td><td>-</td><td>-</td></tr></table>
+
+33
+
+\( \left\| {\left( 1 - \frac{1}{2}\right) }^{2}\right\| \)
+
+11.1 = 26.12
+
+===== PAGE 35 =====
+Công ty Cổ phần Masan MEATLife (trước đây là “Công ty Cổ phần Masan Nutri-Science”) Thuyết minh báo cáo tài chính riêng cho năm kết thúc ngày 31 tháng 12 năm 2019 (tiếp theo)
+
+Mẫu B 09 - DN
+
+(Ban hành theo Thông tư số 200/2014/TT-BTC
+
+ngày 22 tháng 12 năm 2014 của Bộ Tài chính)
+
+(b) Tài sản thuế thu nhập hoãn lại chưa được ghi nhận
+
+Tài sản thuế thu nhập hoãn lại chưa được ghi nhận đối với các khoản mục sau:
+
+<table><tr><td rowspan="2"></td><td colspan="2">31/12/2019</td><td colspan="2">1/1/2019</td></tr><tr><td>Chênh lệch tạm thời VND</td><td>Giá trị tính thuế VND</td><td>Chênh lệch tạm thời VND</td><td>Giá trị tính thuế VND</td></tr><tr><td rowspan="3">Các chênh lệch tạm thời được khấu trừ Lỗ tính thuế</td><td>195.070.371.244</td><td>39.014.074.249</td><td>193.455.088.680</td><td>38.691.017.736</td></tr><tr><td>1.762.429.541.668</td><td>352.485.908.333</td><td>1.612.096.510.150</td><td>322.419.302.030</td></tr><tr><td>1.957.499.912.912</td><td>391.499.982.582</td><td>1.805.551.598.830</td><td>361.110.319.766</td></tr></table>
+
+Lỗ tính thuế hết hiệu lực vào các năm sau:
+
+<table><tr><td>Năm hết hiệu lực</td><td>Tình hình quyết toán</td><td>Số lỗ được khấu trừ VND</td></tr><tr><td>2020</td><td>Chưa quyết toán</td><td>248.220.474.562</td></tr><tr><td>2021</td><td>Chưa quyết toán</td><td>238.771.521.467</td></tr><tr><td>2022</td><td>Chưa quyết toán</td><td>1.125.104.514.121</td></tr><tr><td>2024</td><td>Chưa quyết toán</td><td>150.333.031.518</td></tr><tr><td colspan="2"></td><td>1.762.429.541.668</td></tr></table>
+
+Theo các quy định thuế hiện hành, chênh lệch tạm thời được khấu trừ không bị hết hiệu lực. Tài sản thuế thu nhập hoãn lại chưa được ghi nhận đối với các khoản mục này bởi vì không có sự chắc chắn rằng sẽ có đủ lợi nhuận tính thuế trong tương lai để Công ty có thể sử dụng các lợi ích thuế của các khoản mục đó.
+
+(c) Thuế suất áp dụng
+
+Theo các điều khoản trong Luật thuế thu nhập doanh nghiệp hiện hành, Công ty có nghĩa vụ nộp cho nhà nước thuế thu nhập doanh nghiệp theo mức thuế suất là 20%.
+
+34
+
+107. > 600.15
+
+\(n = 1, n = 7, \text{代} n\)
+
+===== PAGE 36 =====
+Công ty Cổ phần Masan MEATLife (trước đây là “Công ty Cổ phần Masan Nutri-Science”) Thuyết minh báo cáo tài chính riêng cho năm kết thúc ngày 31 tháng 12 năm 2019 (tiếp theo)
+
+Mẫu B 09 - DN
+
+(Ban hành theo Thông tư số 200/2014/TT-BTC
+
+ngày 22 tháng 12 năm 2014 của Bộ Tài chính)
+
+29. Các giao dịch chủ yếu với các bên liên quan
+
+Ngoài các số dư với các bên liên quan được trình bày tại các thuyết minh khác của báo cáo tài chính riêng này, trong năm Công ty có các giao dịch chủ yếu sau với các bên liên quan:
+
+<table><tr><td rowspan="2"></td><td colspan="2">Giá trị giao dịch</td></tr><tr><td>2019VND</td><td>2018VND</td></tr><tr><td colspan="3">Công ty mẹ</td></tr><tr><td>Công ty Cổ phần Tập đoàn Masan</td><td></td><td></td></tr><tr><td>Cổ tức</td><td>-</td><td>1.135.573.000.000</td></tr><tr><td colspan="3">Các công ty con</td></tr><tr><td colspan="3">Công ty TNHH MNS Feed</td></tr><tr><td>Thu nhập cổ tức</td><td>330.470.365.973</td><td>95.142.382.854</td></tr><tr><td colspan="3">Công ty TNHH MNS Feed Tiền Giang</td></tr><tr><td>Bán hàng</td><td>2.998.041.560</td><td>2.649.412.350</td></tr><tr><td>Mua hàng</td><td>301.745.535.540</td><td>204.564.890.118</td></tr><tr><td>Phí thuê kho</td><td>874.440.000</td><td>938.880.000</td></tr><tr><td colspan="3">Công ty TNHH MNS Feed Thái Nguyên</td></tr><tr><td>Bán hàng</td><td>1.183.539.730</td><td>594.791.350</td></tr><tr><td>Mua hàng</td><td>137.291.188.830</td><td>122.358.393.156</td></tr><tr><td>Phí thuê kho</td><td>682.500.000</td><td>735.000.000</td></tr><tr><td colspan="3">Công ty TNHH MNS Feed Vĩnh Long</td></tr><tr><td>Bán hàng</td><td>2.922.754.125</td><td>2.679.631.840</td></tr><tr><td>Mua hàng</td><td>182.697.171.940</td><td>147.242.665.190</td></tr><tr><td>Phí thuê kho</td><td>360.000.000</td><td>300.000.000</td></tr><tr><td colspan="3">Công ty TNHH MNS Feed Hậu Giang</td></tr><tr><td>Bán hàng</td><td>5.426.386.340</td><td>5.109.679.695</td></tr><tr><td>Mua hàng</td><td>439.799.080.620</td><td>288.897.242.780</td></tr><tr><td>Phí thuê kho</td><td>630.000.000</td><td>630.000.000</td></tr><tr><td colspan="3">Công ty TNHH MNS Feed Nghệ An</td></tr><tr><td>Bán hàng</td><td>327.403.440</td><td>18.600.500</td></tr><tr><td>Mua hàng</td><td>196.456.846.575</td><td>121.183.429.713</td></tr><tr><td>Phí thuê kho</td><td>614.250.000</td><td>598.500.000</td></tr></table>
+
+35
+
+1. 2. 3. 4. 5. 6. 7. 8. 9. 10.
+
+===== PAGE 37 =====
+Công ty Cổ phần Masan MEATLife (trước đây là “Công ty Cổ phần Masan Nutri-Science”) Thuyết minh báo cáo tài chính riêng cho năm kết thúc ngày 31 tháng 12 năm 2019 (tiếp theo)
+
+Mãu B 09 - DN
+
+(Ban hành theo Thông tư số 200/2014/TT-BTC
+
+ngày 22 tháng 12 năm 2014 của Bộ Tài chính)
+
+<table><tr><td rowspan="2"></td><td colspan="2">Giá trị giao dịch</td></tr><tr><td>2019VND</td><td>2018VND</td></tr><tr><td colspan="3">Công ty Cổ phần Dinh dưỡng Nông nghiệp Quốc tế</td></tr><tr><td>Bán hàng</td><td>2.573.478.745</td><td>2.793.406.150</td></tr><tr><td>Mua hàng</td><td>1.010.952.718.473</td><td>686.922.523.777</td></tr><tr><td>Góp vốn</td><td>600.000.000.000</td><td>-</td></tr><tr><td>Phí thuê kho</td><td>-</td><td>110.250.000</td></tr><tr><td>Thu nhập cổ tức</td><td>-</td><td>699.999.930.000</td></tr><tr><td>Khoản vay đã nhận</td><td>-</td><td>679.032.261.643</td></tr><tr><td>Chi phí lãi vay</td><td>-</td><td>16.878.998.306</td></tr><tr><td colspan="3">Công ty TNHH MNS Meat Hà Nam</td></tr><tr><td>Chuyển giao dự án xây dựng cơ bản dở dang</td><td>1.635.719.000</td><td>-</td></tr><tr><td>Mua hàng</td><td>846.194</td><td>-</td></tr><tr><td>Cho vay</td><td>199.800.000.000</td><td>-</td></tr><tr><td>Thu nhập lãi cho vay</td><td>2.912.961.645</td><td>-</td></tr><tr><td colspan="3">Công ty TNHH MNS Meat Sài Gòn</td></tr><tr><td>Cho vay</td><td>265.000.000.000</td><td>-</td></tr><tr><td>Thu nhập lãi cho vay</td><td>909.305.480</td><td>-</td></tr><tr><td colspan="3">Công ty TNHH MNS Farm Nghệ An</td></tr><tr><td>Cho vay</td><td>120.000.000.000</td><td>-</td></tr><tr><td>Thu nhập lãi cho vay</td><td>1.379.656.167</td><td>-</td></tr><tr><td colspan="3">Công ty Cổ phần Việt – Pháp Sản xuất Thức ăn Gia súc</td></tr><tr><td>Bán hàng</td><td>21.539.601.240</td><td>12.871.395.765</td></tr><tr><td>Mua hàng</td><td>4.906.132.652.698</td><td>2.781.868.838.947</td></tr><tr><td>Chuyển khoản vay/cho vay</td><td>-</td><td>692.089.599.955</td></tr><tr><td>Chi phí lãi vay</td><td>202.269.866.205</td><td>175.524.869.473</td></tr><tr><td colspan="3">Công ty TNHH Một Thành viên Proconco Cần Thơ</td></tr><tr><td>Mua hàng</td><td>1.434.374.975</td><td>374.807.950</td></tr><tr><td colspan="3">Công ty TNHH Một Thành viên Con Cò Bình Định</td></tr><tr><td>Bán hàng</td><td>5.016.077.320</td><td>4.009.722.850</td></tr><tr><td>Mua hàng</td><td>1.114.621.231.432</td><td>513.159.493.703</td></tr><tr><td colspan="3">Công ty TNHH Sản xuất và Thương mại Proconco</td></tr><tr><td colspan="3">Hưng Yên</td></tr><tr><td>Bán hàng</td><td>315.468.755</td><td>170.265.810</td></tr><tr><td>Mua hàng</td><td>325.215.366.560</td><td>197.318.564.100</td></tr></table>
+
+36
+
+\( \therefore {S}_{\Delta APQ} = {S}_{\Delta AQP} + {S}_{\Delta QPQ} \)
+
+===== PAGE 38 =====
+Công ty Cổ phần Masan MEATLife (trước đây là “Công ty Cổ phần Masan Nutri-Science”) Thuyết minh báo cáo tài chính riêng cho năm kết thúc ngày 31 tháng 12 năm 2019 (tiếp theo)
+
+Mâu B 09 - DN
+
+(Ban hành theo Thông tư số 200/2014/TT-BTC
+
+ngày 22 tháng 12 năm 2014 của Bộ Tài chính)
+
+<table><tr><td rowspan="2"></td><td colspan="2">Giá trị giao dịch</td></tr><tr><td>2019VND</td><td>2018VND</td></tr><tr><td colspan="3">Các bên liên quan khác</td></tr><tr><td colspan="3">Công ty Cổ phần Hàng Tiêu dùng Masan</td></tr><tr><td>Chi phí công nghệ thông tin (đã bao gồm VAT)</td><td>9.981.471.408</td><td>5.485.002.069</td></tr><tr><td>Chi phí quản lý dự án (đã bao gồm VAT)</td><td>365.403.555</td><td>1.386.839.064</td></tr><tr><td>Mua hàng</td><td>7.211.200</td><td>-</td></tr><tr><td colspan="3">Nhân sự quản lý chủ chốt</td></tr><tr><td>Thù lao</td><td>28.442.181.333</td><td>14.061.849.318</td></tr></table>
+
+Tại ngày và cho các năm kết thúc ngày 31 tháng 12 năm 2019 và 2018, Công ty có các tài khoản tiền gửi không kỳ hạn và có kỳ hạn tại Ngân hàng Thương mại Cổ phần Kỹ thương Việt Nam theo các điều khoản giao dịch thông thường.
+
+30. Các giao dịch phi tiền tệ từ các hoạt động đầu tư và tài chính
+
+<table><tr><td></td><td>2019VND</td><td>2018VND</td></tr><tr><td>Phát hành cổ phiếu từ nguồn thẳng dư vốn cổ phần</td><td>1.081.091.480.000</td><td>-</td></tr><tr><td>Cấn trừ cổ tức phải thu với cổ tức phải trả</td><td>-</td><td>340.886.368.496</td></tr><tr><td>Chuyển chi phí lãi vay phải trả thành nợ gốc vay</td><td>-</td><td>13.057.338.312</td></tr><tr><td>Chuyển cổ tức phải trả thành khoản vay từ công ty con</td><td>-</td><td>679.032.261.643</td></tr></table>
+
+37
+
+(1) 图 2-4
+
+===== PAGE 39 =====
+•
+1
+2

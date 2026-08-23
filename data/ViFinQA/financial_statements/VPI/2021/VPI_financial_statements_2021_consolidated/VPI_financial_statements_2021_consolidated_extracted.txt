@@ -1,0 +1,1729 @@
+===== PAGE 1 =====
+Công ty Cổ phần Đầu tư Văn Phú - Invest
+
+Báo cáo tài chính hợp nhất
+
+Cho năm tài chính kết thúc ngày 31 tháng 12 năm 2021
+
+EY
+
+Building a better working world
+
+===== PAGE 2 =====
+Công ty Cổ phần Đầu tư Văn Phú - Invest
+
+MỤC LỤC
+
+Trang
+
+Thông tin chung 1
+
+Báo cáo của người đại diện theo pháp luật 2
+
+Báo cáo kiểm toán độc lập 3 - 4
+
+Bàng cân đối kế toán hợp nhất 5 - 8
+
+Báo cáo kết quả hoạt động kinh doanh hợp nhất 9
+
+Báo cáo lưu chuyển tiền tệ hợp nhất 10 - 11
+
+Thuyết minh báo cáo tài chính hợp nhất 12 - 56
+
+===== PAGE 3 =====
+Công ty Cổ phần Đầu tư Văn Phú - Invest
+
+THÔNG TIN CHUNG
+
+CÔNG TY
+
+Công ty Cổ phần Đầu tư Văn Phú – Invest ("Công ty") là một công ty cổ phần được thành lập theo Giấy Chứng nhận Đăng ký Kinh doanh lần đầu số 0102702590 ngày 12 tháng 3 năm 2008. Công ty cũng đã nhận được các Giấy Chứng nhận Đăng ký Doanh nghiệp điều chỉnh sau đó với lần điều chỉnh gần nhất là lần thứ 22 do Sở Kế hoạch và Đầu tư Thành phố Hà Nội cấp ngày 26 tháng 11 năm 2021.
+
+Hoạt động kinh doanh chính trong năm hiện tại của Công ty là kinh doanh bất động sản.
+
+Công ty có trụ sở chính tại số 104 Thái Thịnh, Phường Trung Liệt, Quận Đống Đa, Thành phố Hà Nội, Việt Nam.
+
+HỘI ĐỒNG QUẢN TRỊ
+
+Các thành viên Hội đồng Quản trị trong năm và vào ngày lập báo cáo này như sau:
+
+<table><tr><td>Ông Tô Như ToànBà Nguyễn Diệu Tú</td><td>Chủ tịchPhó chủ tịch</td><td></td></tr><tr><td>Ông Ngô Đức LongBà Bỗ Thị Thanh Phương</td><td>Phụ trách quản trịThành viên</td><td>Miễn nhiệm ngày 29 tháng 6 năm 2021Bổ nhiệm ngày 29 tháng 6 năm 2021</td></tr><tr><td>Ông Phạm Hồng ChâuÔng Chu Đức LượngÔng Trịnh Thanh Hải</td><td>Thành viênĐộc lậpThành viên độc lập</td><td></td></tr></table>
+
+BAN TỔNG GIÁM ĐỐC
+
+Các thành viên Ban Tổng Giám đốc trong năm và vào ngày lập báo cáo này như sau:
+
+<table><tr><td>Ông Triệu Hữu Đại</td><td>Tổng Giám đốcPhó Tổng Giám đốc</td><td>Bổ nhiệm ngày 1 tháng 8 năm 2021Bổ nhiệm ngày 15 tháng 6 năm 2021Miễn nhiệm ngày 1 tháng 8 năm 2021</td></tr><tr><td>Ông Đoàn Châu PhongÔng Tô Như ThắngÔng Phạm Hồng ChâuBà Nguyễn Thu Hằng</td><td>Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốc</td><td>Miễn nhiệm ngày 1 tháng 8 năm 2021</td></tr></table>
+
+NGƯỜI ĐẠI DIỆN THEO PHÁP LUẬT
+
+Người đại diện theo pháp luật của Công ty trong năm và vào ngày lập báo cáo này là Ông Tổ Như Toàn, Chủ tịch Hội đồng Quản trị.
+
+KIỂM TOÁN VIÊN
+
+Công ty Trách nhiệm Hữu hạn Ernst & Young Việt Nam là công ty kiểm toán cho Công ty.
+
+1
+
+===== PAGE 4 =====
+Công ty Cổ phần Đầu tư Văn Phú - Invest
+
+BÁO CÁO CỦA NGƯỜI ĐẠI DIỆN THEO PHÁP LUẬT
+
+Người đại diện theo pháp luật của Công ty Cổ phần Đầu tư Văn Phú - Invest ("Công ty") trình bày báo cáo này và báo cáo tài chính hợp nhất của Công ty và các công ty con cho năm tài chính kết thúc ngày 31 tháng 12 năm 2021.
+
+TRÁCH NHIỆM CỦA BAN TỔNG GIÁM ĐỐC ĐỐI VỚI BÁO CÁO TÀI CHÍNH HỢP NHẤT
+
+Ban Tổng Giám đốc chịu trách nhiệm đảm bảo báo cáo tài chính hợp nhất cho từng năm tài chính phần ánh trung thực và hợp lý tinh hình tài chính hợp nhất, kết quả hoạt động kinh doanh hợp nhất và tinh hình lưu chuyển tiền tệ hợp nhất của Công ty và các công ty con trong năm. Trong quá trình lập báo cáo tài chính hợp nhất này, Ban Tổng Giám đốc cần phải:
+
+lựa chọn các chính sách kế toán thích hợp và áp dụng các chính sách này một cách nhất quán;
+
+▶ thực hiện các đánh giá và ước tính một cách hợp lý và thận trọng;
+
+nếu rõ các chuẩn mục kế toán áp dụng cho Công ty và các công ty con có được tuân thủ hay không và tất cả những sai lệch trọng yếu so với những chuẩn mục này đã được trình bày và giải thích trong bảo cáo tài chính hợp nhất; và
+
+lập báo cáo tài chính hợp nhất trên cơ sở nguyên tắc hoạt động liên tục trừ trường hợp không thể cho rằng Công ty và các công ty con sẽ tiếp tục hoạt động.
+
+Ban Tổng Giám đốc chịu trách nhiệm đảm bảo việc các số sách kế toán thích hợp được lưu giữ để phân ánh tỉnh hình tài chính hợp nhất của Công ty và các công ty con, với mức độ chính xác hợp lý, tại bất kỳ thời điểm nào và đảm bảo rằng các số sách kế toán tuần thủ với chế độ kế toán đã được áp dụng. Ban Tổng Giám đốc cũng chịu trách nhiệm về việc quản lý các tài sản của Công ty và các công ty con và do đó phải thực hiện các biện pháp thích hợp để ngăn chặn và phát hiện các hành vi gian lập và những vi phạm khác.
+
+Ban Tổng Giám đốc cam kết với người đại diện theo pháp luật của Công ty rằng Ban Tổng Giám đốc đã tuân thủ những yêu cầu nêu trên trong việc lập báo cáo tài chính hợp nhất kèm theo.
+
+CÔNG BỐ CỦA NGƯỜI ĐẠI DIỆN THEO PHÁP LUẬT
+
+Theo ý kiến của người đại diện theo pháp luật của Công ty, báo cáo tài chính hợp nhất kèm theo phân ánh trung thực và hợp lý tinh hình tài chính hợp nhất của Công ty và các công ty con vào ngày 31 tháng 12 năm 2021, kết quả hoạt động kinh doanh hợp nhất và tinh hình lưu chuyển tiền tệ hợp nhất cho năm tài chính kết thúc cùng ngày phù hợp với các Chuẩn mực kế toán Việt Nam, Chế độ kế toán doanh nghiệp Việt Nam và các quy định pháp lý có liên quan đến việc lập và trình bày báo cáo tài chính hợp nhất.
+
+Tô Như Toàn
+
+Chủ tịch Hội đồng Quản trị
+
+Hà Nội, Việt Nam
+
+Ngày 30 tháng 3 năm 2022
+
+2
+
+===== PAGE 5 =====
+EY
+
+Building a better working world
+
+Ernst & Young Vietnam Limited
+
+8th Floor, CornerStone Building
+
+16 Phan Chu Trinh Street
+
+Hoan Kiem District
+
+Hanoi, S.R. of Vietnam
+
+Tel: +84 24 3831 5100
+
+Fax: +84 24 3831 5090
+
+ey.com
+
+Số tham chiếu: 61600055/ 22574973-HN
+
+BÁO CÁO KIỂM TOÁN ĐỘC LẬP
+
+Kính gửi: Các cổ đông của Công ty Cổ phần Đầu tư Văn Phú - Invest
+
+Chúng tôi đã kiểm toán báo cáo tài chính hợp nhất kèm theo của Công ty Cổ phần Đầu tư Văn Phú - Invest ("Công ty") và các công ty con (sau đây gọi chung là "Công ty và các công ty con") được lập ngày 30 tháng 3 năm 2022 và được trình bày từ trang 5 đến trang 56, bao gồm bảng cân đối kế toán hợp nhất vào ngày 31 tháng 12 năm 2021, báo cáo kết quả hoạt động kinh doanh hợp nhất và báo cáo lưu chuyển tiền tệ hợp nhất cho năm tài chính kết thúc cũng ngày và các thuyết minh báo cáo tài chính hợp nhất kèm theo.
+
+Trách nhiệm của Ban Tổng Giám đốc Công ty
+
+Ban Tổng Giám đốc Công ty chịu trách nhiệm lập và trình bày trung thực và hợp lý báo cáo tài chính hợp nhất của Công ty và các công ty con theo các Chuẩn mực kế toán Việt Nam, Chế độ kế toán doanh nghiệp Việt Nam và các quy định pháp lý có liên quan đến việc lập và trình bày báo cáo tài chính hợp nhất và chịu trách nhiệm về kiểm soát nội bộ mà Ban Tổng Giám đốc xác định là cần thiết để đảm bảo việc lập và trình bày báo cáo tài chính hợp nhất không có sai sót trọng yếu do gian lận hoặc nhằm lấn.
+
+Trách nhiệm của Kiểm toán viên
+
+Trách nhiệm của chúng tối là đưa ra ý kiến về báo cáo tài chính hợp nhất dựa trên kết quả của cuộc kiểm toán. Chứng tối đã tiến hành kiểm toán theo các Chuẩn mục kiểm toán Việt Nam. Các chuẩn mục này yêu cầu chúng tối tuân thủ chuẩn mục và các quy định về đạo đức nghề nghiệp, lập kế hoạch và thực hiện cuộc kiểm toán để đạt được sự đảm bảo hợp lý về việc liệu báo cáo tài chính hợp nhất của Công ty và các công ty con có còn sai sót trọng yếu hay không.
+
+Công việc kiểm toán bao gồm thực hiện các thủ tục nhằm thu thập các bằng chứng kiểm toán về các số liệu và thuyết minh trên báo cáo tài chính hợp nhất. Các thủ tục kiểm toán được lựa chọn dựa trên xét đoán của kiểm toán viên, bao gồm đánh giá rủi ro có sai sót trọng yếu trong báo cáo tài chính hợp nhất do gian lập hoặc nhằm lấn. Khi thực hiện đánh giá các rủi ro này, kiểm toán viên đã xem xét kiểm soát nội bộ của Công ty liên quan đến việc lập và trình bày báo cáo tài chính hợp nhất trung thực, hợp lý nhằm thiết kế các thủ tục kiểm toán phù hợp với tình hình thực tế, tuy nhiên không nhằm mục đích đưa ra ý kiến về hiệu quả của kiểm soát nội bộ của Công ty. Công việc kiểm toán cũng bao gồm đánh giá tính thích hợp của các chính sách kế toán được áp dụng và tình hợp lý của các ước tính kế toán của Ban Tổng Giám đốc cũng như đánh giá việc trình bày tổng thể báo cáo tài chính hợp nhất.
+
+Chúng tôi tin tưởng rằng các bằng chứng kiểm toán mà chúng tôi đã thu thập được là đầy đủ và thích hợp để làm cơ sở cho ý kiến kiểm toán của chúng tôi.
+
+A member firm of Ernst & Young Global Limited
+
+3
+
+12.1 5.4 3.2 2.1
+
+===== PAGE 6 =====
+EY
+
+Building a better working world
+
+Ý kiến của Kiểm toán viên
+
+Theo ý kiến của chúng tôi, báo cáo tài chính hợp nhất đã phần ánh trung thực và hợp lý, trên các khóa cạnh trọng yếu, tỉnh hình tài chính hợp nhất của Công ty và các công ty con tại ngày 31 tháng 12 năm 2021, cũng như kết quả hoạt động kinh doanh hợp nhất và tỉnh hình lưu chuyển tiền tệ hợp nhất cho năm tài chính kết thúc cùng ngày, phù hợp với các Chuẩn mực kế toán Việt Nam, Chế độ kế toán doanh nghiệp Việt Nam và các quy định pháp lý có liên quan đến việc lập và trình bày báo cáo tài chính hợp nhất.
+
+Công ty Trách nhiệm Hữu hạn Ernst & Young Việt Nam
+
+Trần Phú Sơn
+
+Phó Tổng Giám đốc
+
+Số Giấy CNĐKHN kiểm toán: 0637-2018-004-1
+
+Lê Tuân Trung
+
+Kiểm toán viên
+
+Số Giấy CNĐKHN kiểm toán: 5095-2019-004-1
+
+Hà Nội, Việt Nam
+
+Ngày 30 tháng 3 năm 2022
+
+4
+
+2. Hence the of Ernst & Young Global Limited
+
+===== PAGE 7 =====
+Công ty Cổ phần Đầu tư Văn Phú - Invest
+
+B01-DN/HN
+
+BẢNG CÂN ĐỒI KẾ TOÁN HỢP NHẤT
+
+vào ngày 31 tháng 12 năm 2021
+
+Đơn vi tính: VND
+
+<table><tr><td>Mã số</td><td>TÀI SẢN</td><td>Thuyết minh</td><td>Số cuối năm</td><td>Số đầu năm</td></tr><tr><td>100</td><td>A. TÀI SẢN NGÂN HẠN</td><td></td><td>6.773.335.278.465</td><td>5.793.508.290.074</td></tr><tr><td>110</td><td>I. Tiền và các khoản tương đương tiền</td><td>5</td><td>1.122.725.842.399</td><td>1.030.551.891.905</td></tr><tr><td>111</td><td>1. Tiền</td><td></td><td>128.195.609.814</td><td>541.021.395.849</td></tr><tr><td>112</td><td>2. Các khoản tương đương tiền</td><td></td><td>994.530.232.585</td><td>489.530.496.056</td></tr><tr><td>120</td><td>II. Đầu tư tài chính ngắn hạn</td><td></td><td>-</td><td>4.000.000.000</td></tr><tr><td>123</td><td>1. Đầu tư nắm giữ đến ngày đáo hạn</td><td></td><td>-</td><td>4.000.000.000</td></tr><tr><td>130</td><td>III. Các khoản phải thu ngắn hạn</td><td></td><td>2.112.436.176.148</td><td>2.743.285.350.525</td></tr><tr><td>131</td><td>1. Phải thu ngắn hạn của khách hàng</td><td>6.1</td><td>380.551.032.019</td><td>1.062.454.302.910</td></tr><tr><td>132</td><td>2. Trả trước cho người bán ngắn hạn</td><td>6.2</td><td>321.775.217.751</td><td>333.348.711.578</td></tr><tr><td>135</td><td>3. Phải thu về cho vay ngắn hạn</td><td>7</td><td>476.500.000.000</td><td>593.772.328.767</td></tr><tr><td>136</td><td>4. Phải thu ngắn hạn khác</td><td>8</td><td>964.030.667.735</td><td>771.962.533.159</td></tr><tr><td>137</td><td>5. Dự phòng phải thu ngắn hạn khó đòi</td><td>9</td><td>(30.420.741.357)</td><td>(18.252.525.889)</td></tr><tr><td>140</td><td>IV. Hàng tồn kho</td><td>10</td><td>3.442.824.822.548</td><td>1.803.209.172.020</td></tr><tr><td>141</td><td>1. Hàng tồn kho</td><td></td><td>3.456.060.429.744</td><td>1.803.462.117.348</td></tr><tr><td>149</td><td>2. Dự phòng giảm giá hàng tồn kho</td><td></td><td>(13.235.607.196)</td><td>(252.945.328)</td></tr><tr><td>150</td><td>V. Tài sản ngắn hạn khác</td><td></td><td>95.348.437.370</td><td>212.461.875.624</td></tr><tr><td>151</td><td>1. Chi phí trả trước ngắn hạn</td><td>15</td><td>58.026.755.379</td><td>200.120.074.585</td></tr><tr><td>152</td><td>2. Thuế giá trị gia tăng được khấu trừ</td><td>17</td><td>35.061.958.899</td><td>12.077.996.262</td></tr><tr><td>153</td><td>3. Thuế và các khoản khác phải thu Nhà nước</td><td>17</td><td>2.259.723.092</td><td>263.804.777</td></tr></table>
+
+[Unreadable]
+
+5
+
+===== PAGE 8 =====
+Công ty Cổ phần Đầu tư Văn Phú - Invest
+
+B01-DN/HN
+
+BẢNG CÂN ĐỐI KẾ TOÁN HỢP NHẤT (tiếp theo)
+
+vào ngày 31 tháng 12 năm 2021
+
+Đơn vị tính: VND
+
+<table><tr><td>Mã số</td><td>TÀI SẢN</td><td>Thuyết minh</td><td>Số cuối năm</td><td>Số đầu năm</td></tr><tr><td>200</td><td>B. TÀI SẢN DÀI HẠN</td><td></td><td>3.062.148.422.203</td><td>3.910.025.543.691</td></tr><tr><td>210</td><td>I. Các khoản phải thu dài hạn</td><td></td><td>483.549.760.765</td><td>1.708.568.275.481</td></tr><tr><td>216</td><td>1. Phải thu dài hạn khác</td><td>8</td><td>483.549.760.765</td><td>1.708.568.275.481</td></tr><tr><td>220</td><td>II. Tài sản cố định</td><td></td><td>581.116.982.486</td><td>592.298.369.920</td></tr><tr><td>221</td><td>1. Tài sản cố định hữu hình</td><td>13</td><td>575.079.682.849</td><td>587.477.023.131</td></tr><tr><td>222</td><td>Nguyên giá</td><td></td><td>621.610.712.846</td><td>615.759.235.997</td></tr><tr><td>223</td><td>Giá trị hao mòn lũy kế</td><td></td><td>(46.531.029.997)</td><td>(28.282.212.866)</td></tr><tr><td>227</td><td>2. Tài sản cố định vô hình</td><td></td><td>6.037.299.637</td><td>4.821.346.789</td></tr><tr><td>228</td><td>Nguyên giá</td><td></td><td>7.315.849.491</td><td>5.505.499.491</td></tr><tr><td>229</td><td>Giá trị hao mòn lũy kế</td><td></td><td>(1.278.549.854)</td><td>(684.152.702)</td></tr><tr><td>240</td><td>III. Tài sản dở dang dài hạn</td><td>12</td><td>359.670.496.122</td><td>423.209.858.809</td></tr><tr><td>241</td><td>1. Chi phí sản xuất, kinh doanh dở dang dài hạn</td><td>12.1</td><td>-</td><td>89.566.122.396</td></tr><tr><td>242</td><td>2. Chi phí xây dựng cơ bản dở dang</td><td>12.2</td><td>359.670.496.122</td><td>333.643.736.413</td></tr><tr><td>250</td><td>IV. Đầu tư tài chính dài hạn</td><td></td><td>1.475.585.459.675</td><td>982.560.562.056</td></tr><tr><td>252</td><td>1. Đầu tư vào công ty liên doanh, liên kết</td><td>14.1</td><td>1.455.459.186.801</td><td>965.360.562.056</td></tr><tr><td>253</td><td>2. Đầu tư góp vốn vào đơn vị khác</td><td></td><td>-</td><td>17.000.000.000</td></tr><tr><td>255</td><td>3. Đầu tư nắm giữ đến ngày đáo hạn</td><td>14.2</td><td>20.126.272.874</td><td>200.000.000</td></tr><tr><td>260</td><td>V. Tài sản dài hạn khác</td><td></td><td>162.225.723.155</td><td>203.388.477.425</td></tr><tr><td>261</td><td>1. Chi phí trả trước dài hạn</td><td>15</td><td>159.448.549.329</td><td>202.061.871.927</td></tr><tr><td>262</td><td>2. Tài sản thuế thu nhập hoãn lại</td><td>29.3</td><td>2.777.173.826</td><td>1.326.605.498</td></tr><tr><td>270</td><td>TỔNG CỘNG TÀI SẢN</td><td></td><td>9.835.483.700.668</td><td>9.703.533.833.765</td></tr></table>
+
+6
+
+===== PAGE 9 =====
+Công ty Cổ phần Đầu tư Văn Phú - Invest
+
+B01-DN/HN
+
+BẢNG CÂN ĐỐI KẾ TOÁN HỢP NHẤT (tiếp theo)
+
+vào ngày 31 tháng 12 năm 2021
+
+Đơn vi tính: VND
+
+<table><tr><td>Mã số</td><td>NGUỒN VỐN</td><td>Thuyết minh</td><td>Số cuối năm</td><td>Số đầu năm</td></tr><tr><td>300</td><td>C. NỘ PHẢI TRẢ</td><td></td><td>6.441.039.128.685</td><td>6.745.309.358.118</td></tr><tr><td>310</td><td>I. Nợ ngắn hạn</td><td></td><td>3.564.678.539.598</td><td>4.097.496.070.262</td></tr><tr><td>311</td><td>1. Phải trả người bán ngắn hạn</td><td>16.1</td><td>344.264.367.455</td><td>292.906.773.789</td></tr><tr><td>312</td><td>2. Người mua trả tiền trước ngắn hạn</td><td>16.2</td><td>623.229.788.682</td><td>1.713.379.477.818</td></tr><tr><td>313</td><td>3. Thuế và các khoản phải nộp Nhà nước</td><td>17</td><td>29.978.338.839</td><td>149.944.129.198</td></tr><tr><td>314</td><td>4. Phải trả người lao động</td><td></td><td>14.186.856.103</td><td>17.381.250.552</td></tr><tr><td>315</td><td>5. Chi phí phải trả ngắn hạn</td><td>18</td><td>437.624.961.509</td><td>428.973.326.437</td></tr><tr><td>318</td><td>6. Doanh thu chưa thực hiện ngắn hạn</td><td></td><td>3.283.926.117</td><td>2.419.620.186</td></tr><tr><td>319</td><td>7. Phải trả ngắn hạn khác</td><td>19</td><td>277.595.213.368</td><td>180.161.139.926</td></tr><tr><td>320</td><td>8. Vay ngắn hạn</td><td>20</td><td>1.794.476.058.596</td><td>1.272.254.668.888</td></tr><tr><td>322</td><td>9. Quỹ khen thưởng, phúc lợi</td><td></td><td>40.039.028.929</td><td>40.075.683.468</td></tr><tr><td>330</td><td>II. Nợ dài hạn</td><td></td><td>2.876.360.589.087</td><td>2.647.813.287.856</td></tr><tr><td>333</td><td>1. Chi phí phải trả dài hạn</td><td></td><td>9.250.640.700</td><td>-</td></tr><tr><td>337</td><td>2. Phải trả dài hạn khác</td><td>19</td><td>897.793.517.865</td><td>879.615.033.227</td></tr><tr><td>338</td><td>3. Vay dài hạn</td><td>20</td><td>1.356.459.758.667</td><td>1.764.608.029.283</td></tr><tr><td>339</td><td>4. Trái phiếu chuyển đổi</td><td>21</td><td>602.524.172.261</td><td>-</td></tr><tr><td>341</td><td>5. Thuế thu nhập hoãn lại phải trả</td><td>29.3</td><td>6.742.274.248</td><td>-</td></tr><tr><td>342</td><td>6. Dự phòng phải trả dài hạn</td><td></td><td>3.590.225.346</td><td>3.590.225.346</td></tr></table>
+
+◇
+
+7
+
+===== PAGE 10 =====
+Công ty Cổ phần Đầu tư Văn Phú - Invest
+
+B01-DN/HN
+
+BẢNG CÂN ĐỐI KẾ TOÁN HỢP NHẤT (tiếp theo)
+
+vào ngày 31 tháng 12 năm 2021
+
+Đơn vị tính: VND
+
+<table><tr><td>Mã số</td><td>NGUỒN VỐN</td><td>Thuyết minh</td><td>Số cuối năm</td><td>Số đầu năm</td></tr><tr><td>400</td><td>D. VỐN CHỦ SỞ HỮU</td><td></td><td>3.394.444.571.983</td><td>2.958.224.475.647</td></tr><tr><td>410</td><td>I. Vốn chủ sở hữu</td><td>22</td><td>3.394.444.571.983</td><td>2.958.224.475.647</td></tr><tr><td>411</td><td>1. Vốn cổ phần</td><td></td><td>2.199.997.800.000</td><td>1.999.999.000.000</td></tr><tr><td>411a</td><td>- Cổ phiếu phố thông có quyền biểu quyết</td><td></td><td>2.199.997.800.000</td><td>1.999.999.000.000</td></tr><tr><td>413</td><td>2. Quyền chọn chuyển đổi trái phiếu</td><td>21</td><td>90.496.534.831</td><td>-</td></tr><tr><td>418</td><td>3. Quỹ đầu tư phát triển</td><td></td><td>15.177.859.740</td><td>15.177.859.740</td></tr><tr><td>420</td><td>4. Quỹ khác thuộc vốn chủ sở hữu</td><td></td><td>7.588.929.869</td><td>7.588.929.869</td></tr><tr><td>421</td><td>5. Lợi nhuận sau thuế chưa phân phối</td><td></td><td>878.794.718.679</td><td>735.366.093.186</td></tr><tr><td>421a</td><td>- Lợi nhuận sau thuế chưa phân phối lũy kế đến cuối năm trước</td><td></td><td>528.926.437.742</td><td>434.444.063.516</td></tr><tr><td>421b</td><td>- Lợi nhuận sau thuế chưa phân phối năm nay</td><td></td><td>349.868.280.937</td><td>300.922.029.670</td></tr><tr><td>429</td><td>6. Lợi ích cổ đông không kiểm soát</td><td></td><td>202.388.728.864</td><td>200.092.592.852</td></tr><tr><td>440</td><td>TỔNG CỘNG NGUỒN VỐN</td><td></td><td>9.835.483.700.668</td><td>9.703.533.833.765</td></tr></table>
+
+Vũ Hoàng Sâm
+
+Người lập
+
+Trần Mỹ Yến
+
+Kế toán trường
+
+Tô Như Toàn
+
+Chủ tịch Hội đồng Quản trị
+
+Hà Nội, Việt Nam
+
+Ngày 30 tháng 3 năm 2022
+
+8
+
+===== PAGE 11 =====
+Công ty Cổ phần Đầu tư Văn Phú - Invest
+
+B02-DN/HN
+
+BÁO CÁO KẾT QUẢ HOẠT ĐỘNG KINH DOANH HỢP NHẤT
+
+cho năm tài chính kết thúc ngày 31 tháng 12 năm 2021
+
+Đơn vị tính: VND
+
+<table><tr><td>Mã số</td><td>CHỈ TIÊU</td><td>Thuyết minh</td><td>Năm nay</td><td>Năm trước (Trình bày lại)</td></tr><tr><td>01</td><td>1. Doanh thu bán hàng và cung cấp dịch vụ</td><td>23.1</td><td>2.666.099.233.796</td><td>2.171.215.180.594</td></tr><tr><td>02</td><td>2. Các khoản giảm trừ doanh thu</td><td>23.1</td><td>(55.502.956.125)</td><td>(6.216.267.292)</td></tr><tr><td>10</td><td>3. Doanh thu thuần về bán hàng và cung cấp dịch vụ</td><td>23.1</td><td>2.610.596.277.671</td><td>2.164.998.913.302</td></tr><tr><td>11</td><td>4. Giá vốn hàng bán và dịch vụ cung cấp</td><td>24</td><td>(1.968.678.565.580)</td><td>(1.481.688.831.813)</td></tr><tr><td>20</td><td>5. Lợi nhuận gộp về bán hàng và cung cấp dịch vụ</td><td></td><td>641.917.712.091</td><td>683.310.081.489</td></tr><tr><td>21</td><td>6. Doanh thu hoạt động tài chính</td><td>23.2</td><td>121.115.343.820</td><td>107.076.767.708</td></tr><tr><td>22</td><td rowspan="2">7. Chi phí tài chính Trong đó: Chi phí lãi vay</td><td rowspan="2">25</td><td rowspan="2">(114.448.023.256) (103.911.543.417)</td><td rowspan="2">(212.295.313.732) (204.671.567.242)</td></tr><tr><td>23</td></tr><tr><td>24</td><td>8. Phần lãi trong công ty liên doanh, liên kết</td><td></td><td>20.558.940.241</td><td>7.175.117.135</td></tr><tr><td>25</td><td>9. Chi phí bán hàng</td><td>26</td><td>(158.161.411.974)</td><td>(78.056.460.972)</td></tr><tr><td>26</td><td>10. Chi phí quản lý doanh nghiệp</td><td>26</td><td>(127.036.446.764)</td><td>(122.674.187.228)</td></tr><tr><td>30</td><td>11. Lợi nhuận thuần từ hoạt động kinh doanh</td><td></td><td>383.946.114.158</td><td>384.536.004.400</td></tr><tr><td>31</td><td>12. Thu nhập khác</td><td>27</td><td>11.943.418.228</td><td>4.549.214.108</td></tr><tr><td>32</td><td>13. Chi phí khác</td><td></td><td>(3.632.494.834)</td><td>(2.045.065.436)</td></tr><tr><td>40</td><td>14. Lợi nhuận khác</td><td></td><td>8.310.923.394</td><td>2.504.148.672</td></tr><tr><td>50</td><td>15. Tổng lợi nhuận kế toán trước thuế</td><td></td><td>392.257.037.552</td><td>387.040.153.072</td></tr><tr><td>51</td><td>16. Chi phí thuế TNDN hiện hành</td><td>29.1</td><td>(42.815.367.744)</td><td>(80.630.296.618)</td></tr><tr><td>52</td><td>17. (Chỉ phí)/thu nhập thuế TNDN hoãn lại</td><td>29.3</td><td>(5.291.705.920)</td><td>393.925.878</td></tr><tr><td>60</td><td>18. Lợi nhuận sau thuế TNDN</td><td></td><td>344.149.963.888</td><td>306.803.782.332</td></tr><tr><td>61</td><td>19. Lợi nhuận sau thuế của công ty mẹ</td><td></td><td>348.132.041.356</td><td>300.922.029.670</td></tr><tr><td>62</td><td>20. (Lỗ)/lợi nhuận sau thuế của cổ đông không kiểm soát</td><td></td><td>(3.982.077.468)</td><td>5.881.752.662</td></tr><tr><td>70</td><td>21. Lãi cơ bản trên cổ phiếu</td><td>31</td><td>1.582</td><td>1.368</td></tr></table>
+
+Vũ Hoàng Sâm
+
+Người lập
+
+Trân Mỹ Yến
+
+Kế toán trường
+
+Tô Như Toàn
+
+Chủ tịch Hội đồng Quản trị
+
+Hà Nội, Việt Nam
+
+Ngày 30 tháng 3 năm 2022
+
+9
+
+===== PAGE 12 =====
+Công ty Cổ phần Đầu tư Văn Phú - Invest
+
+B03-DN/HN
+
+BÁO CÁO LƯU CHUYÊN TIỀN TỆ HỢP NHẤT
+
+cho năm tài chính kết thúc ngày 31 tháng 12 năm 2021
+
+Đơn vị tính: VND
+
+<table><tr><td>Mã số</td><td>CHỈ TIÊU</td><td>Thuyết minh</td><td>Năm nay</td><td>Năm trước</td></tr><tr><td></td><td>I. LƯU CHUYÊN TIỀN TỪ HOẠT ĐỘNG KINH DOANH</td><td></td><td></td><td></td></tr><tr><td>01</td><td>Lợi nhuận kế toán trước thuếĐiều chỉnh cho các khoản:</td><td></td><td>392.257.037.552</td><td>387.040.153.072</td></tr><tr><td>02</td><td>Khấu hao tài sản cố định (bao gồm phân bổ lợi thế thương mại)</td><td></td><td>20.167.132.786</td><td>22.289.233.809</td></tr><tr><td>03</td><td>Các khoản dự phòng</td><td></td><td>25.150.877.336</td><td>6.776.684.837</td></tr><tr><td>05</td><td>Lãi từ hoạt động đầu tư</td><td></td><td>(98.392.974.515)</td><td>(115.901.261.302)</td></tr><tr><td>06</td><td>Chi phí lãi vay (bao gồm chi phí phát hành trái phiếu phân bổ trong năm)</td><td></td><td>114.222.193.949</td><td>209.219.625.749</td></tr><tr><td>08</td><td>Lợi nhuận từ hoạt động kinh doanh trước thay đổi vốn lưu động</td><td></td><td>453.404.267.108</td><td>509.424.436.165</td></tr><tr><td>09</td><td>Giảm/(tăng) các khoản phải thu</td><td></td><td>448.410.869.178</td><td>(474.605.561.140)</td></tr><tr><td>10</td><td>Giảm hàng tồn kho</td><td></td><td>561.503.233.095</td><td>358.284.651.554</td></tr><tr><td>11</td><td>(Giảm)/tăng các khoản phải trả</td><td></td><td>(861.278.195.272)</td><td>1.835.756.550.408</td></tr><tr><td>12</td><td>Giảm/(tăng) chi phí trả trước</td><td></td><td>169.175.944.311</td><td>(121.477.759.084)</td></tr><tr><td>14</td><td>Tiền lãi vay đã trả</td><td></td><td>(132.791.545.578)</td><td>(265.506.024.176)</td></tr><tr><td>15</td><td>Thuế thu nhập doanh nghiệp đã nộp</td><td></td><td>(99.140.486.839)</td><td>(132.110.169.306)</td></tr><tr><td>20</td><td>Lưu chuyển tiền thuần từ hoạt động kinh doanh</td><td></td><td>539.284.086.003</td><td>1.709.766.124.421</td></tr><tr><td></td><td>II. LƯU CHUYÊN TIỀN TỪ HOẠT ĐỘNG ĐẦU TƯ</td><td></td><td></td><td></td></tr><tr><td>21</td><td>Tiền chi để mua sắm, xây dựng tài sản cố định (TSCĐ) và các tài sản dài hạn khác</td><td></td><td>(89.814.992.119)</td><td>(304.649.141.564)</td></tr><tr><td>22</td><td>Tiền thu do thanh lý, nhượng bán TSCĐ và các tài sản dài hạn khác</td><td></td><td>377.272.727</td><td>1.505.318.182</td></tr><tr><td>23</td><td>Tiền chi cho vay, mua các công cụ nợ của đơn vị khác</td><td></td><td>(42.926.272.874)</td><td>(432.900.000.000)</td></tr><tr><td>24</td><td>Tiền thu hồi cho vay, bán lại các công cụ nợ của đơn vị khác</td><td></td><td>144.272.328.767</td><td>211.762.603.806</td></tr><tr><td>25</td><td>Tiền chi đầu tư góp vốn vào đơn vị khác</td><td></td><td>(1.361.282.148.560)</td><td>(45.940.000.000)</td></tr><tr><td>26</td><td>Tiền thu hồi đầu tư góp vốn vào đơn vị khác</td><td></td><td>51.309.481.704</td><td>213.020.835.283</td></tr><tr><td>27</td><td>Tiền thu lãi cho vay, cổ tức và lợi nhuận được chia</td><td></td><td>86.924.456.519</td><td>32.106.515.465</td></tr><tr><td>30</td><td>Lưu chuyển tiền thuần sử dụng vào hoạt động đầu tư</td><td></td><td>(1.211.139.873.836)</td><td>(325.093.868.828)</td></tr></table>
+
+10
+
+\( b_{1} \)  \( \rightarrow \)   \( \rightarrow \)   \( \rightarrow \)   \( \rightarrow \)   \( \rightarrow \)   \( \rightarrow \)
+
+===== PAGE 13 =====
+Công ty Cổ phần Đầu tư Văn Phú - Invest
+
+B03-DN/HN
+
+BÁO CÁO LƯU CHUYÊN TIÊN TỆ HỢP NHẤT (tiếp theo)
+
+cho năm tài chính kết thúc ngày 31 tháng 12 năm 2021
+
+Đơn vị tính: VND
+
+<table><tr><td>Mã số</td><td>CHỈ TIÊU</td><td>Thuyết minh</td><td>Năm nay</td><td>Năm trước</td></tr><tr><td>31</td><td rowspan="3">III. LƯU CHUYÊN TIÊN TỪ HOẠT ĐỘNG TÀI CHÍNH Tiền thu từ phát hành cổ phiếu, nhận vốn góp của chủ số hữu (bao gồm vốn góp của cổ đông không kiểm soát) Tiền thu từ đi vay Tiền trả nợ gốc vay</td><td rowspan="3">33</td><td rowspan="3">- 2.107.055.488.646 (1.343.025.750.319)</td><td rowspan="3">225.000.000.000 1.690.998.111.739 (2.920.618.874.044)</td></tr><tr><td>33</td></tr><tr><td>34</td></tr><tr><td>40</td><td>Lưu chuyển tiền thuần từ/(sử dụng vào) hoạt động tài chính</td><td></td><td>764.029.738.327</td><td>(1.004.620.762.305)</td></tr><tr><td>50</td><td>Lưu chuyển tiền thuần trong năm</td><td></td><td>92.173.950.494</td><td>380.051.493.288</td></tr><tr><td>60</td><td>Tiền và tương đương tiền đầu năm</td><td></td><td>1.030.551.891.905</td><td>650.500.398.617</td></tr><tr><td>70</td><td>Tiền và tương đương tiền cuối năm</td><td>5</td><td>1.122.725.842.399</td><td>1.030.551.891.905</td></tr></table>
+
+Vũ Hoàng Sâm
+
+Người lập
+
+Trân Mỹ Yến
+
+Kế toán trường
+
+Tô Như Toàn
+
+Chủ tịch Hội đồng Quản trị
+
+Hà Nội, Việt Nam
+
+Ngày 30 tháng 3 năm 2022
+
+11
+
+===== PAGE 14 =====
+Công ty Cổ phần Đầu tư Văn Phú - Invest
+
+B09-DN/HN
+
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT
+
+vào ngày 31 tháng 12 năm 2021 và cho năm tài chính kết thúc cùng ngày
+
+1. THÔNG TIN VỀ CÔNG TY
+
+Công ty Cổ phần Đầu tư Văn Phú – Invest ("Công ty") là một công ty cổ phần được thành lập theo Giấy Chứng nhận Đăng ký Kinh doanh lần đầu số 0102702590 ngày 12 tháng 3 năm 2008. Công ty cũng đã nhận được các Giấy Chứng nhận Đăng ký Doanh nghiệp điều chỉnh sau đó với lần điều chỉnh gần nhất là lần thứ 22 do Sở Kế hoạch và Đầu tư Thành phố Hà Nội cấp ngày 26 tháng 11 năm 2021.
+
+Hoạt động kinh doanh chính trong năm hiện tại của Công ty là kinh doanh bất động sản.
+
+Công ty có trụ sở chính tại số 104 Thái Thịnh, Phường Trung Liệt, Quận Đống Đa, Thành phố Hà Nội, Việt Nam.
+
+Chu kỳ sản xuất kinh doanh bình quân của hoạt động chuyển nhượng bất động sản của Công ty bắt đầu từ thời điểm xin giấy phép đầu tư, thực hiện giải phóng mặt bằng, xây dựng cơ bản cho đến thời điểm hoàn thiện. Do vậy, chu kỳ sản xuất kinh doanh của hoạt động chuyển nhượng bất động sản của Công ty là trong vòng từ 12 tháng đến 36 tháng.
+
+Chu kỳ sẵn xuất, kinh doanh của các hoạt động khác của Công ty thông thường là trong vòng 12 tháng.
+
+Số lượng nhân viên của Công ty tại ngày 31 tháng 12 năm 2021 là 244 (ngày 31 tháng 12 năm 2020: 216 người).
+
+12
+
+===== PAGE 15 =====
+Công ty Cổ phần Đầu tư Văn Phú - Invest
+
+B09-DN/HN
+
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+
+vào ngày 31 tháng 12 năm 2021 và cho năm tài chính kết thúc cùng ngày
+
+1. THÔNG TIN VỀ CÔNG TY (tiếp theo)
+
+Cơ cấu tổ chức
+
+Tại ngày 31 tháng 12 năm 2021, Công ty có 9 công ty con (tại ngày 31 tháng 12 năm 2020: 11 công ty con). Thông tin chỉ tiết về các công ty con và tỷ lệ lợi ích và tỷ lệ biểu quyết của Công ty trong các công ty con này như sau:
+
+<table><tr><td>STT</td><td>Tên Công ty</td><td>Tỷ lệ lợi ích (%)</td><td>Tỷ lệ biểu quyết (%)</td><td>Trụ sở chính</td><td>Hoạt động chính</td></tr><tr><td>1</td><td>Công ty TNHH MTV Đầu tư Văn Phú - Giảng Võ</td><td>100%</td><td>100%</td><td>Số 104 Thái Thịnh, Phường Trung Liệt, Quận Đồng Đa, Thành phố Hà Nội</td><td>Kinh doanh bất động sản</td></tr><tr><td>2</td><td>Công ty Cổ phần Đầu tư Văn Phú số 1</td><td>62%</td><td>62%</td><td>Số 104 Thái Thịnh, Phường Trung Liệt, Quận Đồng Đa, Thành phố Hà Nội</td><td>Kinh doanh bất động sản, xây lắp</td></tr><tr><td>3</td><td>Công ty Cổ phần Đầu tư Văn Phú số 2</td><td>78,50%</td><td>78,50%</td><td>Số 104 Thái Thịnh, Phường Trung Liệt, Quận Đồng Đa, Thành phố Hà Nội</td><td>Kinh doanh bất động sản</td></tr><tr><td>4</td><td>Công ty Cổ phần Văn Phú Bắc Ái</td><td>60%</td><td>60%</td><td>Số 129 Đình Tiên Hoàng, Phường 3, Quận Bình Thạnh, Thành phố Hồ Chí Minh</td><td>Kinh doanh bất động sản</td></tr><tr><td>5</td><td>Công ty Cổ phần Văn Phú B&amp;C (trước đây là Công ty Cổ phần Văn Phú Homes)</td><td>62,64% (**)</td><td>70%</td><td>Số 104 Thái Thịnh, Phường Trung Liệt, Quận Đồng Đa, Thành phố Hà Nội</td><td>Tự vấn, môi giới, đấu giá bất động sản</td></tr><tr><td>6</td><td>Công ty TNHH Văn Phú Resort – Lộc Bình</td><td>100%</td><td>100%</td><td>Đường số 7, Khu đô thị mới An Cựu, Phường An Đông, Thành phố Huế, Tĩnh Thừa Thiên Huế</td><td>Kinh doanh bất động sản</td></tr><tr><td>7</td><td>Công ty TNHH Dịch vụ Du lịch Lâm Viên</td><td>100%</td><td>100%</td><td>Lô 7 Khu đô thị An Cựu City, Phường An Đông, Thành phố Huế, Tĩnh Thừa Thiên Huế</td><td>Dịch vụ lưu trú ngắn ngày</td></tr><tr><td>8</td><td>Công ty Cổ phần Union Success Việt Nam (*)</td><td>54,95%</td><td>70%</td><td>Số 119 Phố Mới, xã Tân Dương, Huyện Thủy Nguyên, Thành phố Hải Phòng</td><td>Kinh doanh bất động sản</td></tr><tr><td>9</td><td>Công ty TNHH MTV Đầu tư Hùng Sơn</td><td>100%</td><td>100%</td><td>Thôn 3, Xã Quảng Hùng, Thành phố Sầm Sơn, Tĩnh Thanh Hoá</td><td>Kinh doanh bất động sản</td></tr></table>
+
+(*) Tỷ lệ lợi ích và tỷ lệ biểu quyết trong công ty con này khác nhau do Công ty kiểm soát công ty con này gián tiếp thông qua một công ty con khác.
+
+(**) Tại ngày 31 tháng 12 năm 2021, Công ty còn cam kết góp vốn vào các công ty con này.
+
+Ngoài ra, Công ty có các công ty liên doanh, liên kết như được trình bày tại Thuyết minh số 14.
+
+11.2.1 + - 1.2 / × 11
+
+13
+
+===== PAGE 16 =====
+Công ty Cổ phần Đầu tư Văn Phú - Invest
+
+B09-DN/HN
+
+THUYÊT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+
+vào ngày 31 tháng 12 năm 2021 và cho năm tài chính kết thúc cùng ngày
+
+2. CƠ SỞ TRÌNH BÀY
+
+2.1 Chuẩn mực và Chế độ kế toán áp dụng
+
+Báo cáo tài chính hợp nhất của Công ty và các công ty con được trình bày bằng đồng Việt Nam (“VND”) và được lập phù hợp với Chế độ kế toán doanh nghiệp Việt Nam và các Chuẩn mực kế toán Việt Nam do Bộ Tài chính ban hành theo:
+
+▶ Quyết định số 149/2001/QĐ-BTC ngày 31 tháng 12 năm 2001 về việc ban hành bốn Chuẩn mực kế toán Việt Nam (Đợt 1);
+
+▶ Quyết định số 165/2002/QĐ-BTC ngày 31 tháng 12 năm 2002 về việc ban hành sáu Chuẩn mực kế toán Việt Nam (Đợt 2);
+
+▶ Quyết định số 234/2003/QĐ-BTC ngày 30 tháng 12 năm 2003 về việc ban hành sáu Chuẩn mực kế toán Việt Nam (Đợt 3);
+
+▶ Quyết định số 12/2005/QĐ-BTC ngày 15 tháng 2 năm 2005 về việc ban hành sáu Chuẩn mực kế toán Việt Nam (Đợt 4); và
+
+▶ Quyết định số 100/2005/QĐ-BTC ngày 28 tháng 12 năm 2005 về việc ban hành bốn Chuẩn mực kế toán Việt Nam (Đợt 5).
+
+Theo đó, báo cáo tài chính hợp nhất được trình bày kèm theo và việc sử dụng các báo cáo này không dành cho các đối tượng không được cung cấp các thông tin về các thủ tục và nguyên tác và thông lệ kế toán tại Việt Nam và hơn nữa không được chủ định trình bày tỉnh hình tài chính hợp nhất, kết quả hoạt động kinh doanh hợp nhất và lưu chuyển tiền tệ hợp nhất theo các nguyên tắc và thông lệ kế toán được chấp nhận rộng rãi ở các nước và lãnh thổ khác ngoài Việt Nam.
+
+2.2 Hình thức số kế toán áp dụng
+
+Hình thức số kế toán được áp dụng của Công ty và các công ty con là Nhật ký chung.
+
+2.3 Ký ké toán năm
+
+Kỳ kế toán năm của Công ty và các công ty con áp dụng cho việc lập báo cáo tài chính hợp nhất bắt đầu từ ngày 1 tháng 1 và kết thúc vào ngày 31 tháng 12.
+
+2.4 Đơn vị tiền tệ trong kế toán
+
+Báo cáo tài chính hợp nhất được lập bằng đơn vị tiền tệ trong kế toán của Công ty và các công ty con là VND.
+
+2.5 Co sở hợp nhất
+
+Báo cáo tài chính hợp nhất bao gồm các báo cáo tài chính của Công ty mẹ và các công ty con cho năm tài chính kết thúc ngày 31 tháng 12 năm 2021.
+
+Các công ty con được hợp nhất toàn bộ kể từ ngày mua/ngày thành lập, là ngày Công ty mẹ và các công ty con nằm quyền kiểm soát công ty con, và tiếp tục được hợp nhất cho đến ngày Công ty mẹ và các công ty con thực sự chấm dứt quyền kiểm soát đối với công ty con.
+
+Báo cáo tài chính của Công ty mẹ và các công ty con sử dụng để hợp nhất được lập cho cùng một kỳ kế toán và được áp dụng các chính sách kế toán một cách thống nhất.
+
+Số dư các tài khoản trên bằng cân đối kế toán giữa các đơn vị trong Công ty và các công ty con, các khoản thu nhập và chi phí, các khoản lãi hoặc lỗ nội bộ chưa thực hiện phát sinh từ các giao dịch này được loại trừ hoàn toàn.
+
+14
+
+===== PAGE 17 =====
+Công ty Cổ phần Đầu tư Văn Phú - Invest
+
+B09-DN/HN
+
+THUYÊT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+
+vào ngày 31 tháng 12 năm 2021 và cho năm tài chính kết thúc cùng ngày
+
+2. CO' SỐ TRÌNH BÀY (tiếp theo)
+
+2.5 Cơ sở hợp nhất (tiếp theo)
+
+Lợi ích của các cổ đông không kiểm soát là phần lợi ích trong lãi, hoặc lỗ, và trong tài sản thuần của công ty con không được nắm giữ bởi Công ty và các công ty con và được trình bày riêng biệt trên báo cáo kết quả hoạt động kinh doanh hợp nhất và trong phần vốn chủ sở hữu trên bảng cân đối kế toán hợp nhất.
+
+Ảnh hưởng do các thay đổi trong tỷ lệ sở hữu công ty con mà không làm mất quyền kiểm soát được hạch toán vào lợi nhuận sau thuế chưa phân phối.
+
+3. TÓM TẮT CÁC CHÍNH SÁCH KẾ TOÁN CHỦ YẾU
+
+3.1 Tiền và các khoản tương đương tiền
+
+Tiền và các khoản tương đương tiền bao gồm tiền mặt tại quỹ, tiền gửi ngân hàng và các khoản đầu tư ngắn hạn có thời hạn gốc không quá ba tháng, có tính thanh khoản cao, có khả năng chuyển đổi dễ dàng thành các lượng tiền xác định và không có nhiều rủi ro trong chuyển đổi thành tiền.
+
+3.2 Hàng tồn kho
+
+Hàng tồn kho được ghi nhận theo giá thấp hơn giữa giá thành để đưa mỗi sản phẩm đến vị trí và điều kiện hiện tại và giá trị thuần có thể thực hiện được.
+
+Giá trị thuần có thể thực hiện được là giá bán ước tính của hàng tồn kho trong điều kiện kinh doanh bình thường trừ chi phí ước tính để hoàn thành và chi phí bán hàng ước tính.
+
+Hàng hóa bất động sản
+
+Bắt động sản được mua hoặc được xây dựng để bán trong quá trình hoạt động bình thường của Công ty và các công ty con, không phải để cho thuê hoặc chờ tăng giá, được ghi nhận là hàng tồn kho bắt động sân theo giá thấp hơn giữa giá thành để đưa mỗi sân phẩm đến vị trí và điều kiện hiện tại và giá trị thuần có thể thực hiện được.
+
+Giá thành của hàng tồn kho bất động sản bao gồm:
+
+▶ Chi phí tiền sử dụng đất và tiền thuê đất;
+
+▶ Chi phí xây dựng trả cho nhà thầu; và
+
+▶ Chi phí lãi vay, chi phí tư vấn, thiết kế, chi phí san lắp, đền bù giải phóng mặt bằng, phí tư vấn, thuế chuyển nhượng đất, chi phí quản lý xây dựng chung, và các chi phí liên quan khác.
+
+Giá trị thuần có thể thực hiện được là giá bán ước tính của hàng tồn kho trong điều kiện kinh doanh bình thường, dựa trên giá thị trường vào ngày báo cáo và chiết tính giá trị thời gian của dòng tiền, nếu đáng kể, và trừ chi phí ước tính để hoàn thành và chi phí bán hàng ước tính.
+
+Giá vốn của bất động sản đã bán được ghi nhận trên báo cáo kết quả hoạt động kinh doanh hợp nhất dựa trên các chi phí trực tiếp tạo thành bất động sản đó và chi phí chung được phân bổ trên cơ sở phù hợp.
+
+15
+
+===== PAGE 18 =====
+Công ty Cổ phần Đầu tư Văn Phú - Invest
+
+B09-DN/HN
+
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+
+vào ngày 31 tháng 12 năm 2021 và cho năm tài chính kết thúc cùng ngày
+
+3. TÓM TẮT CÁC CHÍNH SÁCH KẾ TOÁN CHỦ YẾU (tiếp theo)
+
+3.2 Hàng tồn kho (tiếp theo)
+
+Dự phòng giảm giá hàng tồn kho
+
+Dự phòng giảm giá hàng tồn kho được trích lập cho phần giá trị dự kiến bị tổn thất do các khoản suy giảm trong giá trị (do giảm giá, hư hỏng, kém phẩm chất, lỗi thời v.v.) có thể xây ra đối với nguyên vật liệu, thành phẩm, hàng hóa tồn kho khác thuộc quyền sở hữu của Công ty và các công ty con dựa trên bằng chứng hợp lý về sự suy giảm giá trị tại ngày kết thúc ký kế toán năm.
+
+Số tăng hoặc giảm khoản dự phòng giảm giá hàng tồn kho được hạch toán vào giá vốn hàng bán trên báo cáo kết quả hoạt động kinh doanh hợp nhất.
+
+3.3 Các khoản phải thu
+
+Các khoản phải thu được trình bày trên báo cáo tài chính hợp nhất theo giá trị ghi số các khoản phải thu từ khách hàng và phải thu khác sau khi cản trừ các khoản dự phòng được lập cho các khoản phải thu khó đòi.
+
+Dự phòng nợ phải thu khó đòi thể hiện phần giá trị của các khoản phải thu mà Công ty và các công ty con dự kiến không có khả năng thu hồi tại ngày kết thúc kỳ kế toán. Tăng hoặc giảm số dự tài khoản dự phòng được hạch toán vào chỉ phí quản lý doanh nghiệp trong báo cáo kết quả hoạt động kinh doanh hợp nhất.
+
+3.4 Tài sản cố định hữu hình
+
+Tài sản cố định hữu hình được thể hiện theo nguyên giá trừ đi giá trị hao mòn lũy kế.
+
+Nguyên giá tài sản cố định hữu hình bao gồm giá mua và những chi phí có liên quan trực tiếp đến việc đưa tài sản vào sẵn sàng hoạt động như dự kiến.
+
+Các chi phí mua sắm, nâng cấp và đổi mới tài sản cố định hữu hình được ghi tăng nguyên giá của tài sản và chi phí bảo trì, sửa chữa được hạch toán vào báo cáo kết quả hoạt động kinh doanh hợp nhất khi phát sinh.
+
+Khi tài sản cố định hữu hình được bán hay thanh lý, các khoản lãi hoặc lỗ phát sinh do thanh lý tài sản (là phần chênh lệch giữa tiền thu thuần từ việc bán tài sản với giá trị còn lại của tài sản) được hạch toán vào báo cáo kết quả hoạt động kinh doanh hợp nhất.
+
+3.5 Thuê tài sản
+
+Việc xác định một thỏa thuận có phải là thỏa thuận thuê tài sản hay không dựa trên bản chất của thỏa thuận đó tại thời điểm khởi đầu: liệu việc thực hiện thỏa thuận này có phụ thuộc vào việc sử dụng một tài sản nhất định và thỏa thuận có bao gồm điều khoản về quyền sử dụng tài sản hay không.
+
+Thỏa thuận thuê tài sản được phân loại là thuê tài chính nếu theo hợp đồng thuê tài sản bên cho thuê chuyển giao phần lớn rủi ro và lợi ích gắn liền với quyền sở hữu tài sản cho bên đi thuê. Tất cả các thỏa thuận thuê tài sản khác được phân loại là thuê hoạt động.
+
+Trong trường hợp Công ty và các công ty con là bên đi thuê
+
+Các khoản tiền thuê theo hợp đồng thuê hoạt động được hạch toán vào báo cáo kết quả hoạt động kinh doanh hợp nhất theo phương pháp đường thẳng trong thời hạn của hợp đồng thuê.
+
+Trong trường hợp Công ty và các công ty con là bên cho thuê
+
+Thu nhập từ tiền cho thuê hoạt động được hạch toán vào báo cáo kết quả hoạt động kinh doanh hợp nhất theo phương pháp đường thẳng trong thời gian cho thuê.
+
+16
+
+// / ≡ \(\forall\)
+
+===== PAGE 19 =====
+Công ty Cổ phần Đầu tư Văn Phú - Invest
+
+B09-DN/HN
+
+THUYẾT MINH BẢO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+
+vào ngày 31 tháng 12 năm 2021 và cho năm tài chính kết thúc cùng ngày
+
+3. TÓM TẮT CÁC CHÍNH SÁCH KẾ TOÁN CHỦ YÉU (tiếp theo)
+
+3.6 Tài sản cố định vô hình
+
+Tài sản cố định vô hình được ghi nhận theo nguyên giá trừ đi giá trị hao mòn lũy kế.
+
+Nguyên giá tài sản cố định vô hình bao gồm giá mua và những chi phí có liên quan trực tiếp đến việc đưa tài sản vào sử dụng như dự kiến.
+
+Các chỉ phí nâng cấp và đổi mới tài sản cố định vô hình được ghi tăng nguyên giá của tài sản và các chỉ phí khác được hạch toán vào báo cáo kết quả hoạt động kinh doanh hợp nhất khi phát sinh.
+
+Khi tài sản cố định vô hình được bán hay thanh lý, các khoản lãi hoặc lỗ phát sinh do thanh lý tài sản (là phần chênh lệch giữa tiền thu thuần từ việc bán tài sản với giá trị còn lại của tài sản) được hạch toán vào báo cáo kết quả hoạt động kinh doanh hợp nhất.
+
+3.7 Khấu hao và hao mòn
+
+Khấu hao tài sản cố định hữu hình và hao mòn tài sản cố định vô hình được trích theo phương pháp đường thẳng trong suốt thời gian hữu dụng ước tính của các tài sản như sau:
+
+<table><tr><td>Nhà cửa, vật kiến trúc</td><td>46 năm</td></tr><tr><td>Máy móc, thiết bị</td><td>8 năm</td></tr><tr><td>Phương tiện vận tải</td><td>6 - 7 năm</td></tr><tr><td>Thiết bị, dụng cụ quản lý</td><td>3 - 6 năm</td></tr><tr><td>Phần mềm máy tính</td><td>3 năm</td></tr><tr><td>Tài sản khác</td><td>8 năm</td></tr></table>
+
+3.8 Chi phí trả trước
+
+Chi phí trả trước bao gồm các chi phí trả trước ngắn hạn hoặc chi phí trả trước dài hạn trên bằng cân đối kế toán hợp nhất và được phân bổ trong khoảng thời gian trả trước hoặc thời gian các lợi ích kinh tế tương ứng được tạo ra từ các chi phí này.
+
+Chi phí trả trước ngắn hạn bao gồm chi phí môi giới bán bất động sản, thuế thu nhập doanh nghiệp tạm tính cho các khoản thanh toán theo tiến độ của khách hàng mua bất động sản tại các dự án bất động sản của Công ty và các công ty con và các chi phí trả trước ngắn hạn khác dự kiến mang lại lợi ích kinh tế trong khoảng thời gian một chu kỳ kinh doanh.
+
+Chi phí trả trước dài hạn bao gồm chi phí trước hoạt động, công cụ dụng cụ xuất dùng, chi phí trả trước tiền thuê và các chi phí trả trước khác mang lại lợi ích kinh tế trong khoảng thời gian trên một năm.
+
+17
+
+li x / - 工 = 50 016.11
+
+===== PAGE 20 =====
+Công ty Cổ phần Đầu tư Văn Phú - Invest
+
+B09-DN/HN
+
+THUYÊT MINH BÁO CÁO TÀI CHÍNH HỢP NHẮT (tiếp theo)
+
+vào ngày 31 tháng 12 năm 2021 và cho năm tài chính kết thúc cùng ngày
+
+3. TÓM TẮT CÁC CHÍNH SÁCH KẾ TOÁN CHỦ YẾU (tiếp theo)
+
+3.9 Hợp nhất kinh doanh và lợi thế thương mại
+
+Hợp nhất kinh doanh được hạch toán theo phương pháp giá mua. Giá phí hợp nhất kinh doanh bao gồm giá trị hợp lý tại ngày diễn ra trao đổi của các tài sản đem trao đổi, các khoản nợ phải trả đã phát sinh hoặc đã thừa nhận và các công cụ vốn do bên mua phát hành để đổi lấy quyền kiểm soát bên bị mua và các chi phí liên quan trực tiếp đến việc hợp nhất kinh doanh. Tài sản, nợ phải trả có thể xác định được và những khoản nợ tiềm tàng phải gánh chịu trong hợp nhất kinh doanh của bên bị mua đều ghi nhận theo giá trị hợp lý tại ngày hợp nhất kinh doanh.
+
+Lợi thế thương mại phát sinh từ hợp nhất kinh doanh được ghi nhận ban đầu theo giá gốc, là phần chênh lệch giữa giá phí hợp nhất kinh doanh so với phần số hữu của bên mua trong giá trị hợp lý cửa tài sản, nợ phải trả có thể xác định được và các khoản nợ tiềm tàng đã ghi nhận. Nếu giá phí hợp nhất kinh doanh thấp hơn giá trị hợp lý cửa tài sản thuần của bên bị mua, phần chênh lệch đó sẽ được ghi nhận vào báo cáo kết quả hoạt động kinh doanh hợp nhất. Sau ghi nhận ban đầu, lợi thế thương mại được xác định giá trị bằng nguyên giá trừ đi giá trị phân bổ lũy kế. Lợi thế thương mại được phân bổ theo phương pháp đường thẳng trong thời gian hữu ích được ước tính là 12 tháng. Định kỳ công ty mẹ phải đánh giá tổn thất lợi thế thương mại tại công ty con, nếu có bằng chứng cho thấy số lợi thế thương mại bị tổn thất lớn hơn số phân bổ hàng năm thì phân bổ theo số lợi thế thương mại bị tổn thất ngay trong kỳ phát sinh.
+
+3.10 Mua tài sản và hợp nhất kinh doanh
+
+Công ty và các công ty con mua các công ty con sở hữu tài sản và có các hoạt động sản xuất kinh doanh. Tại thời điểm mua, Công ty và các công ty con sẽ xác định việc mua công ty con có phải là giao dịch hợp nhất kinh doanh hay không. Giao dịch này được coi là hoạt động hợp nhất kinh doanh nếu công ty con có các hoạt động sản xuất kinh doanh gắn liền với tài sản được mua.
+
+Nếu việc mua lại công ty con không phải là giao dịch hợp nhất kinh doanh, giao dịch đó được hạch toán như là một giao dịch mua một nhóm các tài sản và nợ phải trả. Giá phí mua được phân bổ vào các tài sản và nợ phải trả dựa trên giá trị hợp lý tương ứng của các tài sản và nợ phải trả, và không có lợi thể thương mại hay thuế thu nhập hoan lại được ghi nhận.
+
+3.11 Các khoản đầu tư tài chính
+
+Đầu tư vào công ty liên kết
+
+Các khoản đầu tư vào các công ty liên kết được hạch toán theo phương pháp vốn chủ sở hữu. Công ty liên kết là công ty mà trong đó Công ty và các công ty con có ảnh hưởng đáng kể nhưng không phải là công ty con hay công ty liên doanh của Công ty và các công ty con. Thông thường, Công ty và các công ty con được coi là có ảnh hưởng đáng kể nếu sở hữu trên 20% quyền bổ phiếu ở đơn vị nhận đầu tư.
+
+Theo phương pháp vốn chủ sở hữu, khoản đầu tư được ghi nhận ban đầu trên bằng cân đối kế toán hợp nhất theo giá gốc, sau đó được điều chỉnh theo những thay đối của phần sở hữu của Công ty và các công ty con trong giá trị tài sản thuần của công ty liên kết sau khi mua. Lợi thế thương mại phát sinh từ việc đầu tư vào công ty liên kết được phần ánh trong giai trị còn lại của khoản đầu tư. Công ty và các công ty con không phân bổ lợi thế thương mại này mà hàng nằm thực hiện đánh giá xem lợi thế thương mại có bị suy giảm giá trị hay không. Báo cáo kết quả hoạt động kinh doanh hợp nhất phần ánh phần sở hữu của Công ty và các công ty con trong báo cáo kết quả hoạt động kinh doanh của công ty liên kết sau khi mua.
+
+11≤1 → 2 ≡ 3 ≡ 4 ≡ 5 ≡
+
+18
+
+===== PAGE 21 =====
+Công ty Cổ phần Đầu tư Văn Phú - Invest
+
+B09-DN/HN
+
+THUYẾT MINH BẢO CẢO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+vào ngày 31 tháng 12 năm 2021 và cho năm tài chính kết thúc cùng ngày
+
+3. TÓM TẮT CÁC CHÍNH SÁCH KẾ TOÁN CHỦ YẾU (tiếp theo)
+
+3.11 Các khoản đầu tư tài chính (tiếp theo)
+
+Đầu tư vào công ty liên kết (tiếp theo)
+
+Phần sở hữu của nhà đầu tư trong lợi nhuận/(lỗ) của công ty liên kết sau khi mua được phần ánh trên báo cáo kết quả hoạt động kinh doanh hợp nhất và phần sở hữu của nhà đầu tư trong thay đổi sau khi mua của các quỹ của công ty liên kết được ghi nhận vào các quỹ. Thay đổi lũy kế sau khi mua được điều chỉnh vào giá trị còn lại của khoản đầu tư vào công ty liên kết. Cổ tức nhận được/loại nhuận được chia từ công ty liên kết được cán trừ vào khoản đầu tư vào công ty liên kết.
+
+Báo cáo tài chính của công ty liên kết được lập cùng kỳ với báo cáo tài chính hợp nhất của Công ty và các công ty con và sử dụng các chính sách kể toán nhất quán với Công ty và các công ty con. Các điều chỉnh hợp nhất thích hợp đã được ghi nhận để bảo đảm các chính sách kể toán được áp dụng nhất quán với Công ty và các công ty con trong trường hợp cần thiết.
+
+Đầu tư vào công ty liên doanh
+
+Khoản đầu tư của Công ty và các công ty con vào cơ sở kinh doanh được đồng kiểm soát được hạch toán theo phương pháp vốn chủ sở hữu. Theo phương pháp này, khoản đầu tư của Công ty và các công ty con vào cơ sở kinh doanh đồng kiểm soát được trình bày trên bằng cân đối kế toán hợp nhất theo giá gốc, sau đó được điều chỉnh theo những thay đổi của phần sở hữu của Công ty và các công ty con trong tài sản thuần của cơ sở kinh doanh được đồng kiểm soát sau khi liên doanh. Báo cáo kết quả hoạt động kinh doanh hợp nhất phần ánh phần sở hữu của Công ty và các công ty con trong kết quả hoạt động kinh doanh của cơ sở kinh doanh được đồng kiểm soát sau khi liên doanh.
+
+Phần sở hữu của nhà đầu tư trong lợi nhuận/(lỗ) của cơ sở kinh doanh được đồng kiểm soát được phần ánh trên báo cáo kết quả hoạt động kinh doanh hợp nhất và phần sở hữu của nhà đầu tư trong thay đổi sau khi liên doanh của các quỹ của cơ sở kinh doanh được đồng kiểm soát được ghi nhận vào quỹ. Thay đổi lũy kế sau khi liên doanh được điều chỉnh vào giá trị còn lại của khoản đầu tư vào cơ sở kinh doanh được đồng kiểm soát. Cổ tức nhận được/Lợi nhuận được chia từ cơ sở kinh doanh được đồng kiểm soát được cán trừ vào giá trị khoản đầu tư vào cơ sở kinh doanh được đồng kiểm soát.
+
+Báo cáo tài chính của cơ sở kinh doanh được đồng kiểm soát được lập cùng kỳ với báo cáo tài chính hợp nhất của Công ty và các công ty con và sử dụng các chính sách kể toán nhất quán với Công ty và các công ty con. Các điều chỉnh hợp nhất thích hợp đã được ghi nhận để bảo đảm các chính sách kể toán được áp dụng nhất quán với Công ty và các công ty con trong trường hợp cần thiết.
+
+Đầu tư góp vốn vào đơn vị khác
+
+Đầu tư góp vốn vào đơn vị khác được ghi nhận theo giá gốc.
+
+Dự phòng giảm giá trị các khoản đầu tư
+
+Dự phòng cho việc giảm giá trị của các khoản đầu tư được lập khi có bằng chứng chắc chắn cho thấy có sự suy giảm giá trị của các khoản đầu tư này vào ngày kết thúc ký kế toán. Tăng hoặc giảm số dự phòng được hạch toán vào chi phí tài chính trong báo cáo kết quả hoạt động kinh doanh hợp nhất.
+
+Đầu tư nấm giữ đến ngày đáo hạn
+
+Các khoản đầu tư nắm giữ đến ngày đáo hạn được ghi nhận theo giá gốc. Sau khi ghi nhận ban đầu, các khoản đầu tư này được ghi nhận theo giá trị có thể thu hồi. Các khoản suy giảm giá trị của khoản đầu tư nếu phát sinh được hạch toán vào chi phí tài chính trong báo cáo kết quả hoạt động kinh doanh hợp nhất và giảm trừ trực tiếp giá trị đầu tư.
+
+19
+
+||a|| = k ≈ 7/8||
+
+===== PAGE 22 =====
+Công ty Cổ phần Đầu tư Văn Phú - Invest
+
+B09-DN/HN
+
+THUYẾT MINH BẢO CẢO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+vào ngày 31 tháng 12 năm 2021 và cho năm tài chính kết thúc cùng ngày
+
+3. TÓM TẮT CÁC CHÍNH SÁCH KẾ TOÁN CHỦ YẾU (tiếp theo)
+
+3.12 Chi phí di vay
+
+Chi phí đi vay bao gồm lãi tiền vay và các chi phí khác phát sinh liên quan trực tiếp đến các khoản vay của Công ty và các công ty con. Chi phí đi vay được hạch toán như chi phí phát sinh trong năm ngoại trừ các khoản chi phí đi vay liên quan trực tiếp đến việc mua sắm, xây dựng hoặc hình thành một tài sản cụ thể cần có một thời gian đủ dài để có thể đưa vào sử dụng theo mục đích định trước hoặc để bán được vốn hóa vào nguyên giá của tài sản đó.
+
+3.13 Các khoản phải trả và chi phí trích trước
+
+Các khoản phải trả và chi phí trích trước được ghi nhận cho số tiền phải trả trong tương lai liên quan đến hàng hóa và dịch vụ đã nhận được không phụ thuộc vào việc Công ty và các công ty con đã nhận được hóa đơn của nhà cung cấp hay chưa.
+
+3.14 Các khoản dự phòng
+
+Dự phòng chung
+
+Công ty và các công ty con ghi nhận dự phòng khi có nghĩa vụ nợ hiện tại (nghĩa vụ pháp lý hoặc nghĩa vụ liên đối) là kết quả của một sự kiện đã xảy ra trong quá khử. Việc thanh toán nghĩa vụ nợ này có thể sẽ đến sự giảm sút về những lợi ích kinh tế và Công ty và các công ty con có thể đưa ra được một ước tính đáng tin cây về giá trị của nghĩa vụ nợ đó.
+
+Khi Công ty và các công ty con cho rằng một phần hoặc toàn bộ chi phí để thanh toán một khoản dự phòng sẽ được hoàn lại bởi một bên thứ ba, ví dụ như thông qua hợp đồng bảo hiểm, khoản bởi hoàn này chỉ được ghi nhận là một tài sản riêng biệt khi việc nhận được bởi hoàn là gần như chắc chắn. Chi phí liên quan đến các khoản dự phòng được hach toán vào báo cáo kết quả hoạt động kinh doanh hợp nhất sau khi đã trừ đi các khoản bởi hoàn.
+
+Nếu ảnh hưởng về giá trị thời gian của tiền là trọng yếu thì giá trị của một khoản dự phòng cần được chiết khấu về giá trị hiện tại sử dụng tỷ lệ chiết khấu là tỷ lệ trước thuế và phần ánh rõ những rủi ro cụ thể của khoản nợ đó. Khì giá trị của khoản dự phòng được chiết khấu, phần tăng lên theo thời gian của khoản dự phòng được ghi nhận là chỉ phí tài chính.
+
+Dự phòng chi phí bảo hành
+
+Công ty và các công ty con ước tính chỉ phí dự phòng bảo hành dựa trên doanh thu và các thông tin hiện có về việc sữa chữa của các bất động sản và hàng hóa đã bán trong quá khú.
+
+3.15 Trái phiếu chuyển đổi
+
+Trái phiếu chuyển đổi, mà có thể được chuyển đổi thành một số lượng cổ phiếu phổ thông cổ định, được phân chia thành nợ phải trả tài chính (cho phần thỏa thuận mang tỉnh bất buộc phải chi trả bằng tiền hoặc tài sản tài chính khác) và vốn chủ sở hữu (phần quyền chuyển đổi thành cổ phiếu trong một thời gian nhất định) theo điều khoản hợp đồng.
+
+Tại ngày phát hành, giá trị hợp lý của thành phần nợ phải trả tài chính trong trái phiếu chuyển đổi được xác định bằng cách chiết khấu giá trị của khoản thanh toán trong tương lai (gồm cả nợ gốc và lãi trái phiếu) về giá trị hiện tại theo lãi suất của trái phiếu không chuyển đổi tương tự trên thị trường và trừ đi chi phí phát hành trái phiếu chuyển đổi.
+
+Phần còn lại trong tổng tiền thu được từ phát hành trái phiếu chuyển đổi được phân bổ cho quyền chuyển đổi và được ghi nhận vào vốn chủ sở hữu. Giá trị ghi sổ của quyền chuyển đổi không được đánh giá lại trong các năm sau.
+
+Chi phí giao dịch liên quan đến việc phát hành trái phiếu chuyển đổi được phân bổ dần phù hợp với kỳ hạn trái phiếu theo phương pháp đường thẳng. Tại thời điểm ghi nhận ban đầu, chi phí phát hành trái phiếu chuyển đổi được ghi giảm vào phần nợ gốc của trái phiếu.
+
+20
+
+\( \left\{  {2x} - 1 < 2\right\}   : x > 0 \)
+
+===== PAGE 23 =====
+Công ty Cổ phần Đầu tư Văn Phú - Invest
+
+B09-DN/HN
+
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+
+vào ngày 31 tháng 12 năm 2021 và cho năm tài chính kết thúc cùng ngày
+
+3. TÓM TẮT CÁC CHÍNH SÁCH KẾ TOÁN CHỦ YẾU (tiếp theo)
+
+3.16 Phân chia lợi nhuận
+
+Lợi nhuận thuần sau thuế thu nhập doanh nghiệp (không bao gồm các khoản lãi từ giao dịch mua giá rê) có thể được chia cho các cổ đông sau khi được Đại hội đồng cổ đông phê duyệt và sau khi đã trích lập các quỹ dự phòng theo Điều lệ của Công ty, các công ty con và các quy định của pháp luật Việt Nam.
+
+Công ty và các công ty con trích lập các quỹ dự phòng sau từ lợi nhuận thuần sau thuế thu nhập doanh nghiệp của Công ty và các công ty con theo đề nghị của Hội đồng Quản trị và được các cổ đông phê duyệt tại Đại hội đồng cổ đông.
+
+Quỹ đầu tư và phát triển
+
+Quỹ này được trích lập nhằm phục vụ việc mở rộng hoạt động hoặc đầu tư chiều sâu của Công ty và các công ty con hoặc bù đáp các tổn thất tài chính của Công ty và các công ty con trong tương lai.
+
+Quỹ khen thưởng, phúc lợi
+
+Quỹ này được trích lập để khen thưởng, khuyến khích vật chất, đem lại lợi ích chung và nâng cao phúc lợi cho công nhân viên, và được trình bày như một khoản phải trả trên bằng cân đối kế toán hợp nhất.
+
+3.17 Ghi nhận doanh thu
+
+Doanh thu được ghi nhận khi Công ty và các công ty con có khả năng nhận được các lợi ích kinh tế có thể xác định được một cách chắc chắn. Doanh thu được xác định theo giá trị hợp lý của các khoản đã thu hoặc sẽ thu được sau khi trừ đi các khoản chiết khấu thương mại, giảm giá hàng bán và hàng bán bị trả lại. Các điều kiện ghi nhận cụ thể sau đây cũng phải được đáp ứng khi ghi nhận doanh thu.
+
+Doanh thu chuyển nhượng bất động sản
+
+Doanh thu chuyển nhượng bất động sản được ghi nhận khi phần lớn rủi ro và lợi ích gắn liền với quyền sở hữu bất động sản được chuyển giao cho người mua, thường là trùng với thời điểm bàn giao bất động sản.
+
+Doanh thu cung cấp dịch vụ
+
+Doanh thu cung cấp dịch vụ được ghi nhận khi dịch vụ được cung cấp cho khách hàng.
+
+Tiền lãi
+
+Doanh thu được ghi nhận khi tiền lãi phát sinh trên cơ sở đồn tích (có tính đến lợi tức mà tài sản đem lại) trừ khi khả năng thu hồi tiền lãi không chắc chắn.
+
+Cô tức
+
+Doanh thu được ghi nhận khi quyền được nhận khoản thanh toán cổ tức của Công ty và các công ty con được xác lập.
+
+21
+
+===== PAGE 24 =====
+Công ty Cổ phần Đầu tư Văn Phú - Invest
+
+B09-DN/HN
+
+THUYẾT MINH BẢO CẢO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+vào ngày 31 tháng 12 năm 2021 và cho năm tài chính kết thúc cùng ngày
+
+3. TÓM TẮT CÁC CHÍNH SÁCH KẾ TOÁN CHỦ YẾU (tiếp theo)
+
+3.18 Thuế
+
+Thuế thu nhập hiện hành
+
+Tài sản thuế thu nhập và thuế thu nhập phải nộp cho kỳ hiện hành và các kỳ trước được xác định bằng số tiền dự kiến được thu hồi từ hoặc phải nộp cho cơ quan thuế, dựa trên các mức thuế suất và các luật thuế có hiệu lực đến ngày kết thúc kỳ kế toán năm.
+
+Thuế thu nhập hiện hành được ghi nhận vào kết quả hoạt động kinh doanh hợp nhất ngoại trừ trường hợp thuế thu nhập phát sinh liên quan đến một khoản mục được ghi trực tiếp vào vốn chủ sở hữu, trong trường hợp này, thuế thu nhập hiện hành cũng được ghi nhận trực tiếp vào vốn chủ sở hữu.
+
+Công ty và các công ty con chỉ được bù trừ các tài sản thuế thu nhập hiện hành và thuế thu nhập hiện hành phải nộp khí Công ty và các công ty con có quyền hợp pháp được bù trừ giữa tài sản thuế thu nhập hiện hành với thuế thu nhập hiện hành phải nộp và Công ty và các công ty con dự định thanh toán thuế thu nhập hiện hành phải nộp và tài sản thuế thu nhập hiện hành trên cơ sở thuần.
+
+Thuế thu nhập hoãn lại
+
+Thuế thu nhập hoãn lại được xác định cho các khoản chênh lệch tạm thời tại ngày kết thúc kỳ kế toán nằm giữa cơ sở tính thuế thu nhập của các tài sản và nợ phải trả và giá trị ghi sổ của các khoản mục này trong báo cáo tài chính hợp nhất.
+
+Thuế thu nhập hoãn lại phải trả được ghi nhận cho tất cả các khoản chênh lệch tạm thời chịu thuế, ngoại trừ:
+
+Thuế thu nhập hoãn lại phải trả phát sinh từ ghi nhận ban đầu của một tài sản hay nợ phải trả từ một giao dịch mà giao dịch này không có ảnh hưởng đến lợi nhuận kế toán và lợi nhuận tính thuế thu nhập (hoặc lỗ tính thuế) tại thời điểm phát sinh giao dịch; và
+
+▶ Các chênh lệch tạm thời chịu thuế gắn liền với các khoản đầu tư vào công ty liên kết và các khoản vốn góp liên doanh khi Công ty và các công ty con có khả năng kiểm soát thời gian hoàn nhập khoản chênh lệch tạm thời và chắc chắn khoản chênh lệch tạm thời sẽ không được hoàn nhập trong tương lai có thể dự đoán.
+
+Tài sản thuế thu nhập hoãn lại cần được ghi nhận cho tất cả các chênh lệch tạm thời được khấu trừ, giá trị được khấu trừ chuyển sang các kỳ sau của các khoản lỗ tính thuế và các khoản ưu đãi thuế chưa sử dụng, khi chắc chắn trong tương lai sẽ có lợi nhuận tính thuế để sử dụng những chênh lệch tạm thời được khấu trừ, các khoản lỗ tính thuế và các ưu đãi thuế chưa sử dụng này, ngoại trừ:
+
+Tài sản thuế hoãn lại phát sinh từ ghi nhận ban đầu của một tài sản hoặc nợ phải trả từ một giao dịch mà giao dịch này không có ảnh hưởng đến lợi nhuận kế toán và lợi nhuận tính thuế thu nhập (hoặc lỗ tính thuế) tại thời điểm phát sinh giao dịch;
+
+Tất cả các chênh lệch tạm thời được khấu trừ phát sinh từ các khoản đầu tư vào các công ty liên kết và các khoản vốn góp liên doanh khi chắc chắn là chênh lệch tạm thời sẽ được hoàn nhập trong tương lai co thể dự đoán được và có lợi nhuận chịu thuế để sử dụng được khoản chênh lệch tạm thời đó.
+
+22
+
+\( \therefore m = \frac{3}{2} \)
+
+===== PAGE 25 =====
+Công ty Cổ phần Đầu tư Văn Phú - Invest
+
+B09-DN/HN
+
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+
+vào ngày 31 tháng 12 năm 2021 và cho năm tài chính kết thúc cùng ngày
+
+3. TÓM TẮT CÁC CHÍNH SÁCH KẾ TOÁN CHỦ YẾU (tiếp theo)
+
+3.18 Thuế (tiếp theo)
+
+Thuế thu nhập hoãn lại (tiếp theo)
+
+Giá trị ghi sổ cửa tài sản thuế thu nhập doanh nghiệp hoãn lại phải được xem xét lại vào ngày kết thúc ký kế toán năm và phải giảm giá trị ghi sổ cửa tài sản thuế thu nhập hoãn lại đến mức bảo đảm chắc chắn có đủ lợi nhuận tính thuế cho phép lợi ích của một phần hoặc toàn bộ tài sản thuế thu nhập hoãn lại được sử dụng. Các tài sản thuế thu nhập doanh nghiệp hoãn lại chưa được ghi nhận trước đây được xem xét lại vào ngày kết thúc ký kế toán năm và được ghi nhận khi chắc chắn có đủ lợi nhuận tính thuế trong tương lai để có thể sử dụng các tài sản thuế thu nhập hoãn lại chưa ghi nhận này.
+
+Tài sản thuế thu nhập hoãn lại và thuế thu nhập hoãn lại phải trả được xác định theo thuế suất dự tính sẽ áp dụng cho năm tài chính khi tài sản được thu hồi hay nợ phải trả được thanh toán, dựa trên các mức thuế suất và luật thuế có hiệu lực vào ngày kết thúc ký kế toán năm.
+
+Thuế thu nhập hoãn lại được ghi nhận vào báo cáo kết quả hoạt động kinh doanh hợp nhất ngoại trừ trường hợp thuế thu nhập phát sinh liên quan đến một khoản mục được ghi thẳng vào vốn chủ sở hữu, trong trường hợp này, thuế thu nhập hoãn lại cũng được ghi nhận trực tiếp vào vốn chủ sở hữu.
+
+Công ty và các công ty con chỉ được bù trừ các tài sản thuế thu nhập hoãn lại và thuế thu nhập hoãn lại phải trả khi doanh nghiệp có quyền hợp pháp được bù trừ giữa tài sản thuế thu nhập hiện hành với thuế thu nhập hiện hành phải nộp và các tài sản thuế thu nhập hoãn lại và thuế thu nhập hoãn lại phải trả này liên quan tới thuế thu nhập doanh nghiệp được quản lý bởi cùng một cơ quan thuế:
+
+đối với cùng một đơn vị chịu thuế; hoặc
+
+Công ty và các công ty con dự định thanh toán thuế thu nhập hiện hành phải trả và tài sản thuế thu nhập hiện hành trên cơ sở thuần hoặc thu hồi tài sản đồng thời với việc thanh toán nợ phải trả trong từng kỳ tương lai khi các khoản trọng yếu của thuế thu nhập hoãn lại phải trả hoặc tài sản thuế thu nhập hoãn lại được thanh toán hoặc thu hồi.
+
+3.19 Lãi trên cổ phiếu
+
+Lãi cơ bản trên cổ phiếu được tính bằng cách chia lợi nhuận hoặc lỗ sau thuế phân bổ cho cổ đông sở hữu cổ phiếu phổ thông của Công ty (sau khi đã điều chỉnh cho việc trích lập quỹ khen thưởng, phúc lợi) cho số lượng bình quân gia quyền của số cổ phiếu phổ thông đang lưu hành trong năm.
+
+Lãi suy giảm trên cổ phiếu được tính bằng cách chia lợi nhuận hoặc lỗ sau thuế phân bổ cho cổ đông sở hữu cổ phiếu phổ thông của Công ty (sau khi đã điều chỉnh cho cổ tức của cổ phiếu ưu đãi có quyền chuyển đổi) cho số lượng bình quân gia quyền của số cổ phiếu phổ thông đang lưu hành trong năm và số lượng bình quân gia quyền của cổ phiếu phổ thông sẽ được phát hành trong trường hợp tất cả các cổ phiếu phổ thông tiêm năng có tác động suy giảm đều được chuyển thành cổ phiếu phổ thông.
+
+23
+
+===== PAGE 26 =====
+Công ty Cổ phần Đầu tư Văn Phú - Invest
+
+B09-DN/HN
+
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+
+vào ngày 31 tháng 12 năm 2021 và cho năm tài chính kết thúc cùng ngày
+
+3. TÓM TẮT CÁC CHÍNH SÁCH KẾ TOÁN CHỦ YẾU (tiếp theo)
+
+3.20 Thông tin theo bộ phận
+
+Hoạt động kinh doanh chủ yếu của Công ty và các công ty con là kinh doanh bất động sản. Đồng thời, hoạt động kinh doanh của Công ty và các công ty con được thực hiện trong lãnh thổ Việt Nam. Vì vậy, rủi ro và tỷ suất sinh lời của Công ty và các công ty con không bị tác động chủ yếu bởi những khác biệt về sản phẩm mà Công ty và các công ty con cung cấp hoặc do Công ty và các công ty con hoạt động tai nhiều khu vực địa lý khác nhau. Do đó, Ban Tổng Giám đốc nhận định là Công ty và các công ty con chỉ có một bộ phận theo hoạt động kinh doanh và khu vực địa lý và Công ty và các công ty con không trình bày thông tin theo bộ phận.
+
+3.21 Các bên liên quan
+
+Các bên được coi là bên liên quan của Công ty và các công ty con nếu một bên có khả năng, trực tiếp hoặc gián tiếp, kiểm soát bên kia hoặc gây ảnh hưởng đáng kể tới bên kia trong việc ra các quyết định tài chính và hoạt động, hoặc khi Công ty và các công ty con và bên kia cùng chịu sự kiểm soát chung hoặc ảnh hưởng đáng kể chung. Các bên liên quan nếu trên có thể là các công ty hoặc các cá nhân, bao gồm cả các thành viên mật thiết trong gia đình của họ.
+
+4. GIAO DỊCH CHUYỄN NHƯỢNG, GÓP VỐN QUAN TRỘNG TRONG NĂM
+
+Mua Công ty TNHH MTV Đầu tư Hùng Sơn
+
+Trong tháng 4 năm 2021, Công ty đã nhận chuyển nhượng 100% phần vốn góp của Công ty TNHH MTV Đầu tư Hùng Sơn ("Công ty Hùng Sơn") từ một đối tác doanh nghiệp với giá phí là 455 tỷ VND. Sau giao dịch này Công ty Hùng Sơn trở thành công ty con của Công ty. Hoạt động chính của Công ty Hùng Sơn là đầu tư vào Dự án Đầu tư xây dựng và kinh doanh hạ tầng Khu biệt thự Hùng Sơn tại xã Quảng Hùng và xã Quảng Đại, thành phố Sầm Sơn, tỉnh Thanh Hóa. Ban Tổng Giám đốc Công ty đánh giá giao dịch này là giao dịch mua nhóm các tài sản, không phải là hợp nhất kinh doanh. Trên cơ sở đó, giá phí của các giao dịch này được phân bổ cho các tài sản, nợ phải trả được mua dựa trên giá trị hợp lý tương ứng của các tài sản, nợ phải trả đó tại ngày mua.
+
+Chuyển nhượng Công ty Cổ phần Đầu tư và Xây dựng CGM (trước đây là Công ty TNHH Văn Phú – CGM)
+
+Trong tháng 4 năm 2021, Hội đồng Quản trị Công ty đã thông qua việc chuyển nhượng toàn bộ phần vốn góp nằm giữ tại Công ty Cổ phần Đầu tư và Xây dựng CGM (trước đây là Công ty TNHH Văn Phú – CGM) ("Công ty CGM"). Sau đó, Công ty đã hoàn tất việc chuyển nhượng này cho một số đối tác cá nhân với giá phí là 40 tỷ VND và ghi nhận khoản lãi từ giao dịch này trên chỉ tiêu "Doanh thu từ hoạt động tài chính" của báo cáo kết quả hoạt động kinh doanh hợp nhất.
+
+Giải thể Công ty TNHH Đầu tư Văn Phú – Phạm Hùng
+
+Trong tháng 12 năm 2021, Hội đồng Quản trị Công ty đã thông qua chủ trương giải thể Công ty TNHH Đầu tư Văn Phú – Phạm Hùng. Sau đó, Công ty TNHH Đầu tư Văn Phú – Phạm Hùng đã hoàn tất thủ tục giải thể công ty.
+
+Chuyên nhượng một số cổ phần của Công ty Cổ phần Đầu tư Văn Phú số 1
+
+Trong tháng 11 năm 2021, Hội đồng Quản trị Công ty thông qua chủ trương chuyển nhượng một số cổ phần thuộc sở hữu của Công ty tại Công ty Cổ phần Đầu tư Văn Phú số 1 cho một đối tác cá nhân. Sau đó, Công ty đã hoàn tất giao dịch chuyển nhượng 767.500 cổ phần phổ thông, tương đương 5% của vốn cổ phần của công ty con này với giá trị chuyển nhượng là 9,2 tỷ VND. Lãi từ giao dịch này với giá trị 1,535 tỷ VND được ghi nhận vào lợi nhuận sau thuế chưa phân phối trên bằng cân đối kế toán hợp nhất.
+
+24
+
+===== PAGE 27 =====
+Công ty Cổ phần Đầu tư Văn Phú - Invest
+
+B09-DN/HN
+
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+
+vào ngày 31 tháng 12 năm 2021 và cho năm tài chính kết thúc cùng ngày
+
+4. GIAO DỊCH CHUYÊN NHƯỢNG, GÓP VỐN QUAN TRỘNG TRONG NĂM (tiếp theo)
+
+Góp vốn bổ sung vào Công ty TNHH An Biên Golf and Resort ("Công ty An Biên")
+
+Trong tháng 11 năm 2021, Hội đồng Thành viên Công ty An Biên quyết định tăng vốn điều lệ của Công ty An Biên từ 170 tỷ VND lên 413 tỷ VND và thay đổi cơ cấu thành viên góp vốn. Theo đó, Công ty và Công ty TNHH MTV Đầu tư Hùng Sơn đã góp bổ sung vốn vào Công ty An Biên với giá trị lần lượt là 24,3 tỷ VND và 161,1 tỷ VND. Sau các giao dịch này, tỷ lệ vốn góp của Công ty và các công ty con tại Công ty An Biên tăng lên 49% và Công ty An Biên đã trở thành công ty liên kết của Công ty.
+
+5. TIÊN VÀ CÁC KHOÀN TƯƠNG ĐƯƠNG TIÊN
+
+<table><tr><td rowspan="2"></td><td rowspan="2">Số cuối năm</td><td>Đơn vị tính: VND</td></tr><tr><td>Số đầu năm</td></tr><tr><td>Tiền mặt</td><td>18.128.715.932</td><td>57.587.012.050</td></tr><tr><td>Tiền gửi ngân hàng</td><td>110.066.893.882</td><td>483.434.383.799</td></tr><tr><td>Các khoản tương đương tiền (*)</td><td>994.530.232.585</td><td>489.530.496.056</td></tr><tr><td>TỔNG CỘNG</td><td>1.122.725.842.399</td><td>1.030.551.891.905</td></tr></table>
+
+(*) Các khoản tương đương tiền tại ngày 31 tháng 12 năm 2021 bao gồm các khoản tiền gửi có kỳ hạn từ 1 đến 3 tháng tại các ngân hàng thương mại với lãi suất từ 2,3%/năm đến 3,2%/năm (ngày 31 tháng 12 năm 2020: từ 2,4%/năm đến 5%/năm). Các khoản tương đương tiền vào ngày 31 tháng 12 năm 2021 bao gồm các khoản kinh phí bảo trì cho các cần hộ của các dự án bắt động sản của Công ty và các công ty con. Các khoản kinh phí bảo trì này sẽ được chuyển về cho Ban Quản trị tòa nhà.
+
+6. PHẢI THU CỦA KHÁCH HÀNG VÀ TRẢ TRƯỚC CHO NGƯỜI BÁN NGẮN HẠN
+
+6.1 Phải thu ngắn hạn của khách hàng
+
+<table><tr><td rowspan="2"></td><td colspan="2">Đơn vị tính: VND</td></tr><tr><td>Số cuối năm</td><td>Số đầu năm</td></tr><tr><td>Phải thu từ chuyển nhượng bất động sản (*)</td><td>359.028.208.908</td><td>626.453.539.733</td></tr><tr><td>- Khách hàng tổ chức</td><td>84.608.448.880</td><td>54.624.450.000</td></tr><tr><td>- Các khách hàng khác</td><td>274.419.760.028</td><td>571.829.089.733</td></tr><tr><td>Phải thu UBND Thành phố Hồ Chí Minh tại dự án Đầu tư xây dựng đoạn tuyến kết nối từ đường Phạm Văn Đồng đến nút giao thông Gò Dưa – Quốc lộ 1, quận Thủ Đức</td><td>-</td><td>372.195.877.627</td></tr><tr><td>Phải thu từ hoạt động khác</td><td>21.522.823.111</td><td>63.804.885.550</td></tr><tr><td>TỔNG CỘNG</td><td>380.551.032.019</td><td>1.062.454.302.910</td></tr><tr><td>Trong đó:</td><td></td><td></td></tr><tr><td>Phải thu ngắn hạn từ bên liên quan(Thuyết minh số 30)</td><td>-</td><td>1.013.577.742</td></tr><tr><td>Phải thu ngắn hạn từ các bên khác</td><td>380.402.874.381</td><td>1.061.440.725.168</td></tr><tr><td>Dự phòng phải thu ngắn hạn khó đòi</td><td>(29.421.028.757)</td><td>(18.252.525.889)</td></tr></table>
+
+(*) Việc sử dụng các khoản phải thu từ chuyển nhượng bất động sản làm tài sản đảm bảo cho các khoản vay và khoản trái phiếu phát hành của Công ty và các công ty con được trình bày tại Thuyết minh số 20.
+
+25
+
+===== PAGE 28 =====
+Công ty Cổ phần Đầu tư Văn Phú - Invest
+
+B09-DN/HN
+
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+
+vào ngày 31 tháng 12 năm 2021 và cho năm tài chính kết thúc cùng ngày
+
+6. PHẢI THU CỦA KHÁCH HÀNG VÀ TRẢ TRƯỚC CHO NGƯỜI BÁN NGẮN HẠN
+
+6.2 Trả trước cho người bán ngắn hạn
+
+<table><tr><td rowspan="2"></td><td rowspan="2">Số cuối năm</td><td>Đơn vị tính: VND</td></tr><tr><td>Số đầu năm</td></tr><tr><td>Trả trước cho người bán</td><td>321.775.217.751</td><td>333.348.711.578</td></tr><tr><td>- Công ty Cổ phần đầu tư và xây dựng CGM</td><td>205.777.934.127</td><td>-</td></tr><tr><td>- Công ty Cổ phần Đầu tư Xây dựng Bắc Ái</td><td>74.955.420.500</td><td>74.955.420.500</td></tr><tr><td>- Công ty Cổ phần Ecoba Việt Nam</td><td>1.107.166.058</td><td>36.286.526.834</td></tr><tr><td>- Công ty Cổ phần Hawee Cơ điện</td><td>-</td><td>14.398.953.063</td></tr><tr><td>Các nhà cung cấp khác</td><td>39.934.697.066</td><td>207.707.811.181</td></tr><tr><td>TỔNG CỘNG</td><td>321.775.217.751</td><td>333.348.711.578</td></tr><tr><td>Dự phòng trả trước khó đòi</td><td>(999.712.600)</td><td>-</td></tr></table>
+
+7. PHẢI THU VỀ CHO VAY NGẮN HẠN
+
+<table><tr><td colspan="2"></td><td>Đơn vị tính: VND</td></tr><tr><td>Bên đi vay</td><td>Số cuối năm</td><td>Số đầu năm</td></tr><tr><td>Công ty TNHH REQ (*)</td><td>388.500.000.000</td><td>458.000.000.000</td></tr><tr><td>Ông Nguyễn Đăng Sơn (*)</td><td>35.500.000.000</td><td>68.500.000.000</td></tr><tr><td>Công ty Cổ phần Phát triển đô thị An Thịnh (*)</td><td>10.000.000.000</td><td>47.772.328.767</td></tr><tr><td>Công ty Cổ phần Khu nghĩ dưỡng Vườn Cơ (*)</td><td>19.500.000.000</td><td>19.500.000.000</td></tr><tr><td>Công ty Cổ phần Thương mại và Dịch vụ DLH Lan Hạ (**)</td><td>23.000.000.000</td><td>-</td></tr><tr><td>TỔNG CỘNG</td><td>476.500.000.000</td><td>593.772.328.767</td></tr></table>
+
+(*) Các khoản cho vay tại ngày 31 tháng 12 năm 2021 sẽ đáo hạn tại tháng 12 năm 2022, hưởng lãi suất từ 7%/năm – 12,5%/năm và có tài sản đảm bảo.
+
+(**) Khoản cho vay tín chấp, sẽ đáo hạn vào tháng 12 năm 2022, hưởng lãi suất 7%/năm không có tài sản đảm bảo.
+
+26
+
+11.01 王永之 7:37
+
+===== PAGE 29 =====
+Công ty Cổ phần Đầu tư Văn Phú - Invest
+
+B09-DN/HN
+
+THUYẾT MINH BẢO CẢO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+vào ngày 31 tháng 12 năm 2021 và cho năm tài chính kết thúc cùng ngày
+
+8. PHẢI THU KHÁC
+
+<table><tr><td rowspan="2"></td><td colspan="2">Số cuối năm</td><td colspan="2">Đơn vị tính: VND</td></tr><tr><td></td><td>Giá trị</td><td>Dự phòng</td><td>Giá trị</td></tr><tr><td>Ngắn hạn</td><td></td><td></td><td></td><td></td></tr><tr><td>Tạm ứng đề phục vụ phát triển các dự án</td><td>581.119.042.258</td><td>-</td><td>320.903.080.267</td><td>-</td></tr><tr><td>Ứng vốn bồi thường và giải phóng mặt bằng</td><td>135.264.511.571</td><td>-</td><td>-</td><td>-</td></tr><tr><td>Dự thu lãi cho vay, tiền gửi</td><td>86.452.058.540</td><td>-</td><td>105.902.256.287</td><td>-</td></tr><tr><td>Tạm ứng mua cổ phần</td><td>50.000.000.000</td><td>-</td><td>50.000.000.000</td><td>-</td></tr><tr><td>Ký quỹ, ký cược ngắn hạn</td><td>45.379.547.320</td><td>-</td><td>275.955.420</td><td>-</td></tr><tr><td>Tạm ứng cho nhân viên khác</td><td>30.840.474.124</td><td>-</td><td>49.526.614.188</td><td>-</td></tr><tr><td>Đặt cọc thực hiện hợp đồng</td><td>13.561.643.836</td><td>-</td><td>232.000.000.000</td><td>-</td></tr><tr><td>Phải thu khác</td><td>21.413.390.086</td><td></td><td>13.354.626.997</td><td>-</td></tr><tr><td>TỔNG CỘNG</td><td>964.030.667.735</td><td>-</td><td>771.962.533.159</td><td>-</td></tr><tr><td>Dài hạn</td><td></td><td></td><td></td><td></td></tr><tr><td>Ứng vốn bồi thường và giải phóng mặt bằng</td><td>21.202.291.240</td><td>-</td><td>1.195.595.518.593</td><td>-</td></tr><tr><td>Đặt cọc hợp tác đầu tư</td><td>452.617.690.000</td><td>-</td><td>460.000.000.000</td><td>-</td></tr><tr><td>Ký quỹ, ký cược dài hạn</td><td>-</td><td>-</td><td>45.029.591.900</td><td>-</td></tr><tr><td>Phải thu dài hạn khác</td><td>9.729.779.525</td><td>-</td><td>7.943.164.988</td><td>-</td></tr><tr><td>TỔNG CỘNG</td><td>483.549.760.765</td><td>-</td><td>1.708.568.275.481</td><td>-</td></tr><tr><td>Trong đó:</td><td></td><td></td><td></td><td></td></tr><tr><td>Phải thu dài hạn từ bên liên quan (Thuyết minh số 30)</td><td>452.617.690.000</td><td>-</td><td>-</td><td>-</td></tr><tr><td>Phải thu ngắn hạn từ các bên khác</td><td>30.932.070.765</td><td>-</td><td>1.708.568.275.481</td><td>-</td></tr></table>
+
+9. NỘ' XẤU
+
+<table><tr><td rowspan="2"></td><td colspan="2">Số cuối năm</td><td colspan="2">Đơn vị tính: VND Số đầu năm</td></tr><tr><td>Giá gốc</td><td>Giá trị có thể thu hồi</td><td>Giá gốc</td><td>Giá trị có thể thu hồi</td></tr><tr><td>Công ty Cổ phầnKinh doanh Dịch vụ cao cấp Dầu khí Việt Nam (PVR)Khách hàng cá nhân số 1Khách hàng cá nhân số 3Khách hàng cá nhân số 4Các đối tượng khác</td><td>10.000.000.000-26.546.350.00013.500.000.0001.607.216.857</td><td>-15.485.325.5005.747.500.000-</td><td>10.000.000.00021.500.000.000-80.976.604.257</td><td>-17.337.500.000--80.976.604.25776.886.578.368</td></tr><tr><td>TỔNG CỘNG</td><td>51.653.566.857</td><td>21.232.825.500</td><td>112.476.604.257</td><td>94.224.078.368</td></tr></table>
+
+Tại ngày 31 tháng 12 năm 2021, Ban Tổng Giám đốc Công ty đánh giá và xác định giá trị có thể thu hồi của các khoản phải thu dựa trên giá gốc trừ đi giá trị dự phòng phải thu khó đòi đã trích lập.
+
+27
+
+===== PAGE 30 =====
+Công ty Cổ phần Đầu tư Văn Phú - Invest
+
+B09-DN/HN
+
+THUYÊT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+
+vào ngày 31 tháng 12 năm 2021 và cho năm tài chính kết thúc cùng ngày
+
+10. HÀNG TÔN KHO
+
+<table><tr><td rowspan="2"></td><td colspan="2">Số cuối năm</td><td colspan="2">Đơn vị tính: VND</td></tr><tr><td>Giá gốc</td><td>Dự phòng</td><td colspan="2">Số đầu năm</td></tr><tr><td>Chi phí sản xuất kinh doanh dở dang (*)</td><td>2.604.207.662.218</td><td>(12.982.661.868)</td><td>1.293.588.852.787</td><td>-</td></tr><tr><td>Bất động sản hoàn thành (**)</td><td>850.970.375.716</td><td>(252.945.328)</td><td>508.872.382.514</td><td>(252.945.328)</td></tr><tr><td rowspan="2">Nguyên vật liệu Công cụ, dụng cụ</td><td>160.278.894</td><td>-</td><td>50.627.642</td><td>-</td></tr><tr><td>722.112.916</td><td>-</td><td>656.956.065</td><td>-</td></tr><tr><td>Hàng hóa</td><td>-</td><td>-</td><td>293.298.340</td><td>-</td></tr><tr><td>TỔNG CỘNG</td><td>3.456.060.429.744</td><td>(13.235.607.196)</td><td>1.803.462.117.348</td><td>(252.945.328)</td></tr></table>
+
+(*) Chi tiết chi phí sản xuất, kinh doanh dở dang:
+
+<table><tr><td rowspan="2"></td><td rowspan="2">Số cuối năm</td><td>Đơn vị tính: VND</td></tr><tr><td>Số đầu năm</td></tr><tr><td colspan="3">Dự án xây dựng đoạn tuyến kết nối từ đường</td></tr><tr><td>Phạm Văn Đồng đến nút giao thông Gò Dưa (i)</td><td>1.819.012.304.243</td><td>-</td></tr><tr><td>Dự án Hùng Sơn – Thanh Hóa (ii)</td><td>551.263.007.113</td><td>-</td></tr><tr><td>Dự án The Terra An Hưng</td><td>-</td><td>1.212.841.103.288</td></tr><tr><td>Các dự án khác</td><td>233.932.350.862</td><td>80.747.749.499</td></tr><tr><td>TỔNG CỘNG</td><td>2.604.207.662.218</td><td>1.293.588.852.787</td></tr></table>
+
+(**) Chi tiết bất động sản hoàn thành:
+
+<table><tr><td rowspan="2"></td><td rowspan="2">Số cuối năm</td><td>Đơn vị tính: VND</td></tr><tr><td>Số đầu năm</td></tr><tr><td>Dự án The Terra An Hưng (iii)</td><td>769.572.423.491</td><td>-</td></tr><tr><td>Dự án Grandeur Palace Giảng Võ</td><td>50.295.125.400</td><td>434.221.281.505</td></tr><tr><td>Dự án The Terra Hào Nam</td><td>31.102.826.825</td><td>74.651.101.009</td></tr><tr><td>TỔNG CỘNG</td><td>850.970.375.716</td><td>508.872.382.514</td></tr></table>
+
+(i) Dự án Đầu tư xây dựng đoạn tuyến kết nối từ đường Phạm Văn Đồng đến nút giao thông Gò Dưa – Quốc lộ 1, quận Thủ Đức được thực hiện theo hợp đồng xây dựng – chuyển giao (“Hợp đồng BT”) giữa UBND thành phố Hồ Chí Minh với liên danh các nhà đầu tư. Theo Hợp đồng BT này, UBND thành phố Hồ Chí Minh có trách nhiệm bàn giao một số khu đất Công ty Cổ phần Văn Phú Bắc Ái để thanh toán giá trị Hợp đồng BT, và Công ty đang làm việc với cơ quan nhà nước có thẩm quyền để được nhận bàn giao các khu đất này;
+
+(ii) Dự án Đầu tư xây dựng và kinh doanh hạ tầng Khu biệt thự Hùng Sơn tại xã Quảng Hùng và xã Quảng Đại, thành phố Sầm Sơn, tỉnh Thanh Hóa;
+
+(iii) Dự án The Terra An Hưng là tổ hợp thương mại, dịch vụ, căn hộ cao cấp và nhà ở thấp tầng tại ô đất TTDV01 thuộc khu đô thị mới An Hưng, phường La Khê và phường Dương Nội, quận Hà Đông, thành phố Hà Nội;
+
+Việc sử dụng hàng tồn kho làm tài sản đảm bảo cho các khoản vay và trái phiếu phát hành của Công ty và các công ty con được trình bày tại Thuyết minh số 20.
+
+28
+
+===== PAGE 31 =====
+Công ty Cổ phần Đầu tư Văn Phú - Invest
+
+B09-DN/HN
+
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+vào ngày 31 tháng 12 năm 2021 và cho năm tài chính kết thúc cùng ngày
+
+11. CHI PHÍ ĐI VAY ĐƯỢC VỐN HÓA
+
+Trong năm, Công ty và các công ty con đã vốn hóa chi phí đi vay với giá trị là 115,8 tỷ VND (cho năm tài chính kết thúc ngày 31 tháng 12 năm 2020: 145 tỷ VND). Các khoản chi phí đi vay này chủ yếu liên quan đến các khoản vay trực tiếp nhằm đầu tư xây dựng một số dự án bất động sản của Công ty và các công ty con.
+
+12. TÀI SẢN DỒ' DANG DÀI HẠN
+
+12.1 Chi phí sản xuất, kinh doanh dở dang dài hạn
+
+<table><tr><td rowspan="3"></td><td colspan="2">Đơn vị tính: VND</td></tr><tr><td colspan="2">Giá gốc(đồng thời là giá trị có thể thu hồi)</td></tr><tr><td>Số cuối năm</td><td>Số đầu năm</td></tr><tr><td>Chi phí sản xuất, kinh doanh dở dang dài hạn (i)</td><td>-</td><td>89.566.122.396</td></tr><tr><td>TỔNG CỘNG</td><td>-</td><td>89.566.122.396</td></tr></table>
+
+(i) Chi phí phát triển Dự án Trung tâm thương mại, văn phòng, chung cư, biệt thư cao cấp bán và cho thuê, khách sạn 5 sao và khu ẩm thực chợ đêm tại xã Thủy Đường và xã Hòa Bình, huyện Thủy Nguyên, thành phố Hải Phòng. Trong năm 2021, Công ty đã phân loại chi phí thuộc dự án này sang khoản mục hàng tồn kho do Công ty dự định sẽ triển khai dự án này trong một chu kỳ sản xuất kinh doanh.
+
+12.2 Chi phí xây dựng cơ bản dở dang
+
+<table><tr><td rowspan="2"></td><td rowspan="2">Số cuối năm</td><td>Đơn vị tính: VND</td></tr><tr><td>Số đầu năm</td></tr><tr><td>Dự án Đầu tư xây dựng đoạn tuyến kết nối từ đường Phạm Văn Đồng đến nút giao thông Gò Dưa</td><td>-</td><td>134.076.022.948</td></tr><tr><td>Dự án Grandeur Palace – Mỹ Đình</td><td>65.460.456.110</td><td>59.530.196.581</td></tr><tr><td>Dự án Lộc Bình – tỉnh Thừa Thiên Huế</td><td>85.607.257.672</td><td>54.809.192.570</td></tr><tr><td>Dự án Cần Khương – Cần Thơ</td><td>125.990.249.498</td><td>13.764.535.061</td></tr><tr><td>Các dự án khác</td><td>82.612.532.842</td><td>71.463.789.253</td></tr><tr><td>TỔNG CỘNG</td><td>359.670.496.122</td><td>333.643.736.413</td></tr></table>
+
+Việc sử dụng tài sản xây dựng cơ bản đồ dang làm tài sản đảm bảo cho các khoản vay và trái phiếu phát hành của Công ty và các Công ty con được trình bày tại Thuyết minh số 20.
+
+29
+
+===== PAGE 32 =====
+Công ty Cổ phần Đầu tư Văn Phú - Invest
+
+THUYẾT MINH BẢO CÁO TÀI CHÍNH HỢP NHẮT (tiếp theo)
+
+vào ngày 31 tháng 12 năm 2021 và cho năm tài chính kết thúc cùng ngày
+
+13. TÀI SẢN CÓ ĐỊNH HỮU HÌNH
+
+B09-DN/HN
+
+<table><tr><td></td><td>Nhà cửa,vật kiến trúc</td><td>Máy móc,thiết bị</td><td>Phương tiệnvận tải</td><td>Thiết bịvăn phòng</td><td>Tài sản khác</td><td>Đơn vị tính: VNDTổng cộng</td></tr><tr><td colspan="7">Nguyên giá:</td></tr><tr><td>Số đầu năm- Mua trong năm- Thanh lý, nhượng bán</td><td>580.180.516.407</td><td>5.469.853.015</td><td>17.392.381.4708.140.280.000(2.528.555.879)</td><td>3.379.174.360236.252.728-</td><td>9.337.310.74560.000.000(56.500.000)</td><td>615.759.235.9978.436.532.728(2.585.055.879)</td></tr><tr><td>Số cuối năm</td><td>580.180.516.407</td><td>5.469.853.015</td><td>23.004.105.591</td><td>3.615.427.088</td><td>9.340.810.745</td><td>621.610.712.846</td></tr><tr><td>Trong đó:Đã khấu hao hết</td><td>-</td><td>-</td><td>-</td><td>1.338.805.385</td><td>49.080.000</td><td>1.387.885.385</td></tr><tr><td colspan="7">Giá trị khấu hao lũy kế:</td></tr><tr><td>Số đầu năm- Khấu hao trong năm- Thanh lý, nhượng bán</td><td>13.713.357.65812.947.820.780-</td><td>903.896.787779.964.967-</td><td>9.677.541.9453.697.600.323(1.304.849.759)</td><td>2.257.377.472720.474.829-</td><td>1.730.039.0041.426.874.736(19.068.745)</td><td>28.282.212.86619.572.735.635(1.323.918.504)</td></tr><tr><td>Số cuối năm</td><td>26.661.178.438</td><td>1.683.861.754</td><td>12.070.292.509</td><td>2.977.852.301</td><td>3.137.844.995</td><td>46.531.029.997</td></tr><tr><td colspan="7">Giá trị còn lại:</td></tr><tr><td>Số đầu năm</td><td>566.467.158.749</td><td>4.565.956.228</td><td>7.714.839.525</td><td>1.121.796.888</td><td>7.607.271.741</td><td>587.477.023.131</td></tr><tr><td>Số cuối năm</td><td>553.519.337.969</td><td>3.785.991.261</td><td>10.933.813.082</td><td>637.574.787</td><td>6.202.965.750</td><td>575.079.682.849</td></tr></table>
+
+Việc sử dụng tài sản cố định hữu hình làm tài sản đảm bảo cho khoản vay của Công ty và các công ty con được trình bày tại Thuyết minh số 20.
+
+30
+
+11.5.7 0.2 17.11
+
+===== PAGE 33 =====
+Công ty Cổ phần Đầu tư Văn Phú - Invest
+
+THUYẾT MINH BẢO CẢO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+vào ngày 31 tháng 12 năm 2021 và cho năm tài chính kết thúc cùng ngày
+
+14. CÁC KHOÀN ĐẦU TƯ TÀI CHÍNH DÀI HẠN
+
+14.1 Đầu tư vào các công ty liên doanh, liên kết
+
+Chi tiết các khoản đầu tư vào công ty liên doanh, liên kết như sau:
+
+<table><tr><td rowspan="2">Tên công ty</td><td rowspan="2">Địa chỉ</td><td rowspan="2">Hoạt động chính</td><td colspan="2">Số cuối năm</td><td colspan="2">Số đầu năm</td></tr><tr><td>Tỷ lệ vốn nằm giữ trực tiếp (%)</td><td>Tỷ lệ biểu quyết (%)</td><td>Tỷ lệ vốn nằm giữ trực tiếp (%)</td><td>Tỷ lệ biểu quyết (%)</td></tr><tr><td>Công ty Cổ phần Đầu tư và Phát triển Thương mại Văn Phú</td><td>Tầng 1-4, tỏa V1 The Van Phu Victoria, CT9, Khu đỏ thị Văn Phú, Phường Phúc La, Quận Hà Đông, Thành phố Hà Nội</td><td>Kinh doanh bất động sản</td><td>35,00</td><td>35,00</td><td>35,00</td><td>35,00</td></tr><tr><td>Công ty Cổ phần Đầu tư BOT Hà Nội – Bắc Giang</td><td>Số 14, lô B1, Khu đỏ thị mới Nam Từ Sơn, Phường Phù Chẩn, Thành phố Từ Sơn, Tĩnh Bắc Ninh</td><td>Xây dựng và thu phí đường bộ</td><td>33,00</td><td>33,00</td><td>33,00</td><td>33,00</td></tr><tr><td>Công ty Cổ phần In và Văn hóa phẩm</td><td>Số 83, đường Hảo Nam, Phường Ô Chợ Dừa, Quận Đống Đa, Thành phố Hà Nội</td><td>Xây dựng và in ấn</td><td>46,77</td><td>46,77</td><td>46,77</td><td>46,77</td></tr><tr><td>Công ty TNHH BT Hà Đông</td><td>Số 12, đường Khuất Duy Tiến, Phường Thanh Xuân Trung, Quận Thanh Xuân, Thành phố Hà Nội</td><td>Xây dựng công trình kỹ thuật dân dụng</td><td>50,00</td><td>50,00</td><td>50,24</td><td>50,00</td></tr><tr><td>Công ty Cổ phần Đầu tư Kinh doanh Địa ốc An Phú (trước đây là Công ty Cổ phần Kinh doanh Địa ốc Văn Phú)</td><td>V11-A09, Lô đất TTDV01, Khu đỏ thị mới An Hưng, Phường La Khê, Quận Hà Đông, Thành phố Hà Nội</td><td>Tư vấn, môi giới, đấu giá bất động sản</td><td>-</td><td>-</td><td>43,90</td><td>36,00</td></tr><tr><td>Công ty TNHH Đầu tư Phát triển Đô thị Cần Thơ (trước đây là Công ty TNHH Đầu tư Cần Khương)</td><td>Số 9C, Đường Trần Phú, Phường Cái Khế, Quận Ninh Kiều, Thành phố Cần Thơ</td><td>Kinh doanh bất động sản</td><td>49,00</td><td>49,00</td><td>49,00</td><td>49,00</td></tr><tr><td>Công ty Cổ phần Đầu tư Phong Phú</td><td>Số 36 Đường 31 A, Phường An Phú, Quận 2, Thành phố Hồ Chí Minh</td><td>Kinh doanh bất động sản</td><td>30,60</td><td>30,60</td><td>-</td><td>-</td></tr><tr><td>Công ty Cổ phần Đầu tư Hà Phú Riverland</td><td>Số 90 Đường Phan Trung, KP 7, Phường Tân Tiến, Thành phố Biên Hoà, Tĩnh Đồng Nai</td><td>Kinh doanh bất động sản</td><td>30,60</td><td>30,60</td><td>-</td><td>-</td></tr><tr><td>Công ty Cổ phần Đầu tư - Kinh doanh Bất động sản Trần Việt</td><td>Số 285 Nguyễn Du, Phường Nghĩa Chánh, Thành phố Quảng Ngãi, Tĩnh Quảng Ngãi</td><td>Kinh doanh bất động sản</td><td>49,00</td><td>49,00</td><td>49,00</td><td>49,00</td></tr><tr><td>Công ty TNHH An Biên Golf and Resort</td><td>Số 25B, phố Hải Hà, phường Hồng Hải, thành phố Hạ Long, tỉnh Quảng Ninh</td><td>Kinh doanh bất động sản</td><td>49,00</td><td>49,00</td><td>10</td><td>10</td></tr><tr><td>Công ty TNHH Công viên Trung Văn (*)</td><td>Nhà 24B/1 Khu nhà ở Phú Mỹ, số 24 Ngô Quyền, Phường Vạn Phúc, Quận Hà Đông, Thành phố Hà Nội</td><td>Kinh doanh bất động sản</td><td>(*)</td><td>40,00</td><td>-</td><td>-</td></tr></table>
+
+(*) Tại ngày 31 tháng 12 năm 2021, Công ty có cam kết góp vốn vào công ty liên kết này.
+
+31
+
+B09-DN/HN
+
+120 2 3 4 5 6 7 8 9
+
+===== PAGE 34 =====
+Công ty Cổ phần Đầu tư Văn Phú - Invest
+
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+vào ngày 31 tháng 12 năm 2021 và cho năm tài chính kết thúc cùng ngày
+
+14. CÁC KHOÀN ĐẦU TƯ TÀI CHÍNH DÀI HẠN (tiếp theo)
+
+14.1 Đầu tư vào các công ty liên doanh, liên kết (tiếp theo)
+
+Chi tiết giá trị khoản đầu tư vào các công ty liên doanh, liên kết này như sau:
+
+<table><tr><td></td><td>Công ty Cổ phần Đầu tư và Phát triển Thương mại Văn Phú</td><td>Công ty Cổ phần Đầu tư BOT Hà Nội – Bắc Giang</td><td>Công ty Cổ phần In và Văn hóa phẩm</td><td>Công ty TNHH BT Hà Đông</td><td>Công ty Cổ phần Đầu tư Kinh doanh Địa ốc An Phú (iii)</td><td>Công ty TNHH Đầu tư Phát triển Đô thị Cần Thơ</td><td>Công ty Cổ phần Đầu tư Phong Phù (i)</td><td>Công ty Cổ phần Đầu tư Hà Phú Riverland (ii)</td><td>Công ty Cổ phần Đầu tư – Kinh doanh Bắt động sản Trần Việt</td><td>Công ty TNHH An Biên Golf and Resort</td><td>Tổng công</td></tr><tr><td colspan="12">Giá trị đầu tư:</td></tr><tr><td>Số đầu năm</td><td>278.006.400.000</td><td>163.786.400.000</td><td>33.777.503.175</td><td>52.402.886.097</td><td rowspan="2">2.160.000.000(2.160.000.000)</td><td>370.673.708.408</td><td>-</td><td>-</td><td>27.440.000.000</td><td>-</td><td rowspan="2">928.246.897.680(2.160.000.000)</td></tr><tr><td>- Thoái vốn</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>- Góp vốn/mua mới trong năm</td><td>-</td><td>-</td><td>-</td><td>2.160.000.000</td><td>-</td><td>-</td><td>191.250.000.000</td><td>76.500.000.000</td><td>-</td><td>202.370.000.000</td><td>472.280.000.000</td></tr><tr><td>Số cuối năm</td><td>278.006.400.000</td><td>163.786.400.000</td><td>33.777.503.175</td><td>54.562.886.097</td><td>-</td><td>370.673.708.408</td><td>191.250.000.000</td><td>76.500.000.000</td><td>27.440.000.000</td><td>202.370.000.000</td><td>1.398.366.897.680</td></tr><tr><td colspan="12">Phần chia lãi/lỗ) sau khi mua công ty liên doanh, liên kết:</td></tr><tr><td>Số đầu năm</td><td>(1.094.705.700)</td><td>44.882.638.777</td><td>(4.509.071.504)</td><td>-</td><td>(2.160.000.000)</td><td>-</td><td>-</td><td>-</td><td>(5.197.197)</td><td>-</td><td>37.113.664.376</td></tr><tr><td>- Thay đổi do thoại vốn</td><td>-</td><td>-</td><td>-</td><td>-</td><td>2.160.000.000</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>2.160.000.000</td></tr><tr><td>- Phần lãi/lỗ) từ công ty liên doanh, liên kết</td><td>328.762.427</td><td>15.182.229.188(2.740.315.361)</td><td>(441.870.339)</td><td>-</td><td>-</td><td>6.193.729.913</td><td>(604.069.934)</td><td>(95.245.714)</td><td>(4.595.435)</td><td>-</td><td>20.558.940.106(2.740.315.361)</td></tr><tr><td>- Giảm khác</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>Số cuối năm</td><td>(765.943.273)</td><td>57.324.552.604</td><td>(4.950.941.843)</td><td>-</td><td>-</td><td>6.193.729.913</td><td>(604.069.934)</td><td>(95.245.714)</td><td>(9.792.632)</td><td>-</td><td>57.092.289.121</td></tr><tr><td colspan="12">Giá trị còn lại</td></tr><tr><td>Số đầu năm</td><td>276.911.694.300</td><td>208.669.038.777</td><td>29.268.431.671</td><td>52.402.886.097</td><td>-</td><td>370.673.708.408</td><td>-</td><td>-</td><td>27.434.802.803</td><td>-</td><td>965.360.562.056</td></tr><tr><td>Số cuối năm</td><td>277.240.456.727</td><td>221.110.952.604</td><td>28.826.561.332</td><td>54.562.886.097</td><td>-</td><td>376.867.438.321</td><td>190.645.930.066</td><td>76.404.754.286</td><td>27.430.207.368</td><td>202.370.000.000</td><td>1.455.459.186.801</td></tr></table>
+
+(i) Theo Nghị quyết số 1203/NQ-HĐQT của Hội đồng Quản trị Công ty ngày 12 tháng 3 năm 2021, Công ty đã nhận chuyển nhượng 19.125.000 cổ phần tại Công ty Cổ phần Đầu tư Phong Phú từ một số đối tác với tổng giá phí chuyển nhượng là 191,25 tỷ VND.
+
+(ii) Theo Nghị quyết số 0903/NQ-HĐQT của Hội đồng Quản trị Công ty ngày 9 tháng 3 năm 2021, Công ty đã góp 76,5 tỷ VND, tương đương 30,6% vốn điều lệ để thành lập Công ty Cổ phần Đầu tư Hà Phú Riverland.
+
+(iii) Theo Nghị quyết số 1305/NQ-HĐQT của Hội đồng Quản trị Công ty ngày 13 tháng 5 năm 2021, Công ty đã chuyển nhượng 216.000 cổ phần, tương đương 36% vốn điều lệ tại Công ty Cổ phần Đầu tư Kinh doanh Địa ốc An Phú (trước đây là Công ty Cổ phần Kinh doanh Địa ốc Văn Phú) cho một đối tác với giá phí chuyển nhượng là 5 tỷ VND.
+
+B09-DN/HN
+
+32
+
+1121-350-2161
+
+===== PAGE 35 =====
+Công ty Cổ phần Đầu tư Văn Phú - Invest
+
+B09-DN/HN
+
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+
+vào ngày 31 tháng 12 năm 2021 và cho năm tài chính kết thúc cùng ngày
+
+14. CÁC KHOÀN ĐẦU TƯ TÀI CHÍNH DÀI HẠN (tiếp theo)
+
+14.2 Đầu tư nắm giữ đến ngày đáo hạn
+
+Bao gồm 197 trái phiếu doanh nghiệp với mệnh giá 100.000.000 VND/trái phiếu, đáo hạn vào tháng 4 năm 2026, và hưởng lãi suất 4%/năm.
+
+15. CHI PHÍ TRÀ TRƯỚC
+
+<table><tr><td></td><td>Số cuối năm</td><td>Đơn vị tính: VND Số đầu năm</td></tr><tr><td colspan="3">Ngắn hạn</td></tr><tr><td>Chi phí bán hàng các dự án bắt động sản</td><td>48.565.173.029</td><td>175.128.715.678</td></tr><tr><td>Thuế thu nhập doanh nghiệp tạm nộp</td><td>6.507.133.149</td><td>21.286.492.739</td></tr><tr><td>Công cụ, dụng cụ xuất dùng</td><td>703.346.362</td><td>216.656.087</td></tr><tr><td>Chi phí trả trước ngắn hạn khác</td><td>2.251.102.839</td><td>3.488.210.081</td></tr><tr><td>TỔNG CỘNG</td><td>58.026.755.379</td><td>200.120.074.585</td></tr><tr><td colspan="3">Dài hạn</td></tr><tr><td>Công cụ, dụng cụ phục vụ Dư án khu dịch vụ khách sạn Hồ Tây</td><td>98.026.981.597</td><td>121.832.671.225</td></tr><tr><td>Chi phí trả trước tiền thuê mặt bằng Dư án Khu dịch vụ khách sạn Hồ Tây</td><td>47.216.206.234</td><td>50.388.913.738</td></tr><tr><td>Chi phí cải tạo văn phòng tại số 104 Thái Thịnh</td><td>10.431.168.361</td><td>19.621.495.955</td></tr><tr><td>Công cụ, dụng cụ xuất dùng</td><td>599.354.804</td><td>2.020.250.555</td></tr><tr><td>Chi phí trả trước dài hạn khác</td><td>3.174.838.333</td><td>8.198.540.454</td></tr><tr><td>TỔNG CỘNG</td><td>159.448.549.329</td><td>202.061.871.927</td></tr></table>
+
+16. PHÀI TRẢ NGƯỜI BÁN VÀ NGƯỜI MUA TRẢ TIỀN TRƯỚC
+
+16.1 Phải trả người bán ngắn hạn
+
+<table><tr><td rowspan="3"></td><td colspan="2">Đơn vị tính: VND</td></tr><tr><td colspan="2">Giá trị (đồng thời là số có khả năng trả nợ)</td></tr><tr><td>Số cuối năm</td><td>Số đầu năm</td></tr><tr><td>Phải trả cho người bán</td><td></td><td></td></tr><tr><td>- Công ty Cổ phần Đầu tư và Xây dựng CGM</td><td>175.156.469.099</td><td>-</td></tr><tr><td>- Công ty Cổ phần Ecoba Việt Nam</td><td>97.341.059.607</td><td>-</td></tr><tr><td>- Các nhà cung cấp khác</td><td>71.766.838.749</td><td>287.048.809.465</td></tr><tr><td>Phải trả cho các bên liên quan(Thuyết minh số 30)</td><td>-</td><td>5.857.964.324</td></tr><tr><td>TỔNG CỘNG</td><td>344.264.367.455</td><td>292.906.773.789</td></tr></table>
+
+16.2 Người mua trả tiền trước ngắn hạn
+
+<table><tr><td rowspan="2"></td><td colspan="2">Đơn vị tính: VND</td></tr><tr><td>Số cuối năm</td><td>Số đầu năm</td></tr><tr><td>Dự án The Terra An Hưng</td><td>589.198.986.633</td><td>1.655.700.689.175</td></tr><tr><td>Các dự án khác</td><td>34.030.802.049</td><td>57.678.788.643</td></tr><tr><td>TỔNG CỘNG</td><td>623.229.788.682</td><td>1.713.379.477.818</td></tr></table>
+
+33
+
+11.61 ≈ 7.24
+
+===== PAGE 36 =====
+Công ty Cổ phần Đầu tư Văn Phú - Invest
+
+B09-DN/HN
+
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+
+vào ngày 31 tháng 12 năm 2021 và cho năm tài chính kết thúc cùng ngày
+
+17. THUẾ VÀ CÁC KHOÁN PHẢI NỘP NHÀ NƯỚC
+
+Đơn vị tính: VND
+
+<table><tr><td></td><td>Số đầu năm</td><td>Số phải thu trong năm</td><td>Số đã bù trừ trong năm</td><td>Số cuối năm</td></tr><tr><td colspan="5">Phải thu</td></tr><tr><td>Thuế giá trị gia tăng được khấu trừ</td><td>12.077.996.262</td><td>165.805.966.050</td><td>(142.822.003.413)</td><td>35.061.958.899</td></tr><tr><td>Thuế thu nhập doanh nghiệp</td><td>-</td><td>1.770.412.499</td><td>-</td><td>1.770.412.499</td></tr><tr><td>Các loại thuế khác</td><td>263.804.777</td><td>325.480.122</td><td>(99.974.306)</td><td>489.310.593</td></tr><tr><td>TỔNG CỘNG</td><td>12.341.801.039</td><td>167.901.858.671</td><td>(142.921.977.719)</td><td>37.321.681.991</td></tr><tr><td></td><td>Số đầu năm</td><td>Số phải nộp trong năm</td><td>Số đã nộp trong năm</td><td>Số cuối năm</td></tr><tr><td colspan="5">Phải nộp</td></tr><tr><td>Thuế thu nhập doanh nghiệp</td><td>97.495.449.454</td><td>30.266.500.047</td><td>(99.140.486.839)</td><td>28.621.462.662</td></tr><tr><td>Thuế giá trị gia tăng</td><td>51.471.291.610</td><td>31.214.860.950</td><td>(82.087.646.141)</td><td>598.506.419</td></tr><tr><td>Thuế thu nhập cá nhân</td><td>917.066.725</td><td>10.353.941.027</td><td>(10.512.637.994)</td><td>758.369.758</td></tr><tr><td>Các loại thuế khác</td><td>60.321.409</td><td>1.282.954.935</td><td>(1.343.276.344)</td><td>-</td></tr><tr><td>TỔNG CỘNG</td><td>149.944.129.198</td><td>73.118.256.959</td><td>(193.084.047.318)</td><td>29.978.338.839</td></tr></table>
+
+18. CHI PHÍ PHẢI TRẢ NGẮN HẠN
+
+<table><tr><td></td><td>Số cuối năm</td><td>Đơn vị tính: VND</td></tr><tr><td>Trích trước chi phí phát triển bất động sản Dự ánThe Terra An Hưng</td><td>115.182.880.706</td><td>66.535.790.140</td></tr><tr><td>Trích trước chi phí phát triển bất động sản Dự ánGrandeur Palace Giảng Võ</td><td>42.004.004.184</td><td>157.050.596.986</td></tr><tr><td>Trích trước chi phí phát triển bất động sản Dự ánKhu đô thị mới Văn Phú</td><td>99.950.641.403</td><td>99.987.292.868</td></tr><tr><td>Chi phí lãi vay phải trả</td><td>143.026.932.061</td><td>60.423.779.373</td></tr><tr><td>Chi phí trích trước Dự án Khu dịch vụ căn hộ khách sạn Hồ Tây</td><td>2.995.509.314</td><td>5.368.836.949</td></tr><tr><td>Chi phí trích trước khác</td><td>34.464.993.841</td><td>39.607.030.121</td></tr><tr><td>TỔNG CỘNG</td><td>437.624.961.509</td><td>428.973.326.437</td></tr></table>
+
+34
+
+C. ★ H H N
+
+===== PAGE 37 =====
+Công ty Cổ phần Đầu tư Văn Phú - Invest
+
+B09-DN/HN
+
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẮT (tiếp theo)
+
+vào ngày 31 tháng 12 năm 2021 và cho năm tài chính kết thúc cùng ngày
+
+19. PHẢI TRÀ KHÁC
+
+<table><tr><td rowspan="2"></td><td rowspan="2">Số cuối năm</td><td>Đơn vị tính: VND</td></tr><tr><td>Số đầu năm</td></tr><tr><td colspan="3">Ngắn hạn</td></tr><tr><td>Nhận đặt cọc chuyển nhượng bất động sản (i)</td><td>74.000.000.000</td><td>74.000.000.000</td></tr><tr><td>Phải trả về giá trị tài sản trên đất cho Dự án Grandeur Palace Giáng Võ (ii)</td><td>43.098.104.400</td><td>43.098.104.400</td></tr><tr><td>Kinh phí bảo trì (vi)</td><td>81.893.821.471</td><td>26.336.697.151</td></tr><tr><td>Phải trả ngắn hạn khác</td><td>69.951.987.476</td><td>35.066.653.739</td></tr><tr><td>Phải trả ngắn hạn khác cho các bên liên quan(Thuyết minh số 30)</td><td>8.651.300.021</td><td>1.659.684.636</td></tr><tr><td>TỔNG CỘNG</td><td>277.595.213.368</td><td>180.161.139.926</td></tr><tr><td colspan="3">Dài hạn</td></tr><tr><td>Nhận đặt cọc hợp tác đầu tư dự án khu đô thịCồn Khương (iii)</td><td>625.000.000.000</td><td>625.000.000.000</td></tr><tr><td>Nhận góp vốn hợp tác đầu tư (iv)</td><td>129.531.937.398</td><td>118.696.962.300</td></tr><tr><td>Vốn huy động thực hiện dự án (v)</td><td>121.508.335.893</td><td>94.514.276.778</td></tr><tr><td>Phải trả khác</td><td>8.072.555.161</td><td>27.814.980.226</td></tr><tr><td>Phải trả dài hạn khác cho các bên liên quan(Thuyết minh số 30)</td><td>13.680.689.413</td><td>13.588.813.923</td></tr><tr><td>TỔNG CỘNG</td><td>897.793.517.865</td><td>879.615.033.227</td></tr></table>
+
+(i) Số dư vào ngày 31 tháng 12 năm 2021 là khoản nhận đặt cọc theo Hợp đồng nguyên tắc chuyển nhượng quyền sử dụng đất của một khu đất tại thành phố Hồ Chí Minh giữa Công ty Cổ phần Văn Phú Bắc Ái với Công ty TNHH Joming.
+
+(ii) Số dư vào ngày 31 tháng 12 năm 2021 là khoản phải trả cho Bộ Y tế đối với giá trị tài sản trên đất của Trường Đại học Y tế Công cộng liên quan đến dự án Grandeur Palace Giảng Võ.
+
+(iii) Khoản nhận đặt cọc từ Công ty TNHH REQ theo Hợp đồng nguyên tắc số 01/2020/NĐNT/REQ-VPI để đảm bảo thực hiện các quyền và nghĩa vụ của các bên về việc hợp tác đầu tư Dự án Khu đô thị mới Cần Khương ở thành phố Cần Thơ ("Dự án"). Theo đó, Công ty TNHH REQ và Công ty sẽ ký hợp đồng hợp tác đầu tư để cứng góp vốn đầu tư với tỷ lệ tương ứng là 80:20 trên phần vốn góp của Công ty trong tổng vốn đầu tư dự án và sẽ được thu hồi toàn bộ khoản tiền góp vốn, được phân chia lợi ích tương ứng với tỷ lệ góp vốn mà Công ty được hưởng từ Dự án.
+
+(iv) Số dư vào ngày 31 tháng 12 năm 2021 là các khoản nhận góp vốn hợp tác đầu tư cho Dư án đầu tư xây dựng đoạn tuyến kết nối từ đường Phạm Văn Đồng đến nút giao thông Gò Dura – Quốc lộ 1 và Dư án đầu tư xây dựng công trình cải tạo, nâng cấp quốc lộ 1 – đoạn Hà Nội – Bắc Giang. Theo các hợp đồng hợp tác đầu tư, Công ty thay mặt các bên góp vốn thực hiện các quyền và nghĩa vụ liên quan tới việc thực hiện dự án và cam kết chia lãi cho các đối tác theo tỷ lệ góp vốn.
+
+(v) Số dư vào ngày 31 tháng 12 năm 2021 là các khoản vốn huy động từ Công ty Cổ phần Tư vấn Đầu tư Xây dựng Bắc Ái và Công ty Cổ phần Đầu tư HNS Việt Nam để thực hiện Dự án đầu tư xây dựng đoạn tuyến kết nối từ đường Phạm Văn Đồng đến nút giao thông Gò Dưa.
+
+(vi) Khoản kinh phí bảo trì cho các căn hộ đã bàn giao của Dự án Grandeur Palace Giảng Võ và Dự án Terra An Hưng sẽ được chuyển về cho Ban Quản trị Tòa nhà. Công ty hiện đang duy trì các khoản kinh phí bảo trì này trong các tài khoản tiền gửi ngân hàng và đầu tư nắm giữ đến ngày đáo hạn.
+
+35
+
+===== PAGE 38 =====
+Công ty Cổ phần Đầu tư Văn Phú - Invest
+
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo) vào ngày 31 tháng 12 năm 2021 và cho năm tài chính kết thúc
+
+20. VAY
+
+<table><tr><td rowspan="2"></td><td colspan="2">Số đầu năm</td><td colspan="2">Số phát sinh trong năm</td><td colspan="2">Số cuối năm</td></tr><tr><td>Giá trị</td><td>Số có khả năng trả nợ</td><td>Tăng</td><td>Giảm</td><td>Giá trị</td><td>Số có khả năng trả nợ</td></tr><tr><td colspan="7">Vay ngắn hạn</td></tr><tr><td>Vay ngân hàng(Thuyết minh số 20.1)</td><td>656.546.072.961</td><td>656.546.072.961</td><td>296.174.758.935</td><td>(827.571.074.358)</td><td>125.149.757.538</td><td>125.149.757.538</td></tr><tr><td>Vay đối tượng khác(Thuyết minh số 20.3)</td><td>34.900.000.000</td><td>34.900.000.000</td><td>49.411.010.000</td><td>-</td><td>84.311.010.000</td><td>84.311.010.000</td></tr><tr><td>Vay ngân hàng dài hạn đến hạn trả(Thuyết minh số 20.2)</td><td>381.118.418.342</td><td>381.118.418.342</td><td>817.984.322.109</td><td>(90.151.657.728)</td><td>1.108.951.082.723</td><td>1.108.951.082.723</td></tr><tr><td>Trái phiếu phát hành dài hạn đến hạn trả(Thuyết minh số 20.4)</td><td>199.690.177.585</td><td>199.690.177.585</td><td>577.466.530.750</td><td>(301.092.500.000)</td><td>476.064.208.335</td><td>476.064.208.335</td></tr><tr><td></td><td>1.272.254.668.888</td><td>1.272.254.668.888</td><td>1.741.036.621.794</td><td>(1.218.815.232.086)</td><td>1.794.476.058.596</td><td>1.794.476.058.596</td></tr><tr><td colspan="7">Vay dài hạn</td></tr><tr><td>Vay ngân hàng(Thuyết minh số 20.2)</td><td>1.292.195.978.570</td><td>1.292.195.978.570</td><td>676.764.181.678</td><td>(1.034.701.911.288)</td><td>934.258.248.960</td><td>934.258.248.960</td></tr><tr><td>Trái phiếu phát hành(Thuyết minh số 20.4)</td><td>472.412.050.713</td><td>472.412.050.713</td><td>434.748.918.798</td><td>(484.959.459.804)</td><td>422.201.509.707</td><td>422.201.509.707</td></tr><tr><td></td><td>1.764.608.029.283</td><td>1.764.608.029.283</td><td>1.111.513.100.476</td><td>(1.519.661.371.092)</td><td>1.356.459.758.667</td><td>1.356.459.758.667</td></tr><tr><td>TỔNG CỘNG</td><td>3.036.862.698.171</td><td>3.036.862.698.171</td><td>2.852.549.722.270</td><td>(2.738.476.603.178)</td><td>3.150.935.817.263</td><td>3.150.935.817.263</td></tr></table>
+
+36
+
+1/27 - ≈ 16:11
+
+===== PAGE 39 =====
+Công ty Cổ phần Đầu tư Văn Phú - Invest
+
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+
+vào ngày 31 tháng 12 năm 2021 và cho năm tài chính kết thúc cùng ngày
+
+20. VAY (tiếp theo)
+
+20.1 Vay ngân hàng ngắn hạn
+
+[Non-Text]
+
+Số cuối năm  Kỳ hạn trả gốc và lãi
+
+(VND)
+
+(i)
+
+Ngah Hang TNH Indovina - Chinánh Thiên Long
+
+Ngân hàng TNHH Indovina – Chi nhánh Thiên Long
+
+TỔNG CỘNG
+
+(i) Tài sản đảm bảo bao gồm:
+
+- Một số tài sản gắn liền với đất tại Khu dịch vụ thương mại tầng 5-CT9, Khu đô thị mới Văn Phú, phường Phúc La, quận Hà Đông, thành phố Hà Nội thuộc sở hữu của bên thứ đa;
+
+- Tài sản gắn liền với đất tại Sàn thương mại tầng 1, tòa nhà Home City, tổ 51, phố Trung Kính, phường Yên Hòa, quận Cầu Giấy, thành phố Hà Nội thuộc sở hữu của một bên thứ đa;
+
+- Quyền sở hữu 5.150.000 cổ phiếu phổ thông của Công ty thuộc sở hữu của bên thứ ba.
+
+(ii) Quyền đổi nợ từ các hợp đồng mua bán/chuyển nhượng giữa Công ty Cổ phần Đầu tư Văn Phú số 2 và khách hàng; và các khoản lợi ích thu được từ kinh doanh, khai thác giá trị quyền sử dụng đất và cơ sở hạ tầng trên đất tại số 83 Hào Nam, phường Ô Chợ Dừa, quận Đống Đa, thành phố Hà Nội.
+
+B09-DN/HN
+
+37
+
+11.73. 2. 23. = .
+
+===== PAGE 40 =====
+Công ty Cổ phần Đầu tư Văn Phú - Invest
+
+THUYẾT MINH BẢO CẢO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+vào ngày 31 tháng 12 năm 2021 và cho năm tài chính kết thúc cùng ngày
+
+20. VAY (tiếp theo)
+
+20.2 Vay ngân hàng dài hạn
+
+<table><tr><td>Ngân hàng</td><td>Số cuối năm (VND)</td><td>Kỳ hạn trả gốc và lãi</td><td>Lãi suất/năm</td><td>Hình thức đảm bảo</td></tr><tr><td>Ngân hàng TMCP Ngoại thương Việt Nam - Chi nhánh Thủ Thiêm và Ngân hàng TNHH Indovina – Chi nhánh Thiên Long (*)</td><td>824.863.391.340</td><td>Gốc và lãi được thanh toán 6 tháng một lần từ tháng 8 năm 2020 đến tháng 8 năm 2022.</td><td>Lãi suất đang áp dụng là từ 9,1%/năm - 9,5%/năm.</td><td>(iii)</td></tr><tr><td rowspan="2">Trong đó: Vay dài hạn đến hạn trả Ngân hàng TNHH Indovina – Chi nhánh Thiên Long (**)</td><td>824.863.391.340</td><td></td><td></td><td></td></tr><tr><td>541.581.758.665</td><td>Gốc và lãi được thanh toán 6 tháng một lần từ tháng 11 năm 2021 đến tháng 11 năm 2023.</td><td>Lãi suất đang áp dụng là từ 10,3%/năm – 10,8%/năm.</td><td>(iii)</td></tr><tr><td rowspan="2">Trong đó: Vay dài hạn đến hạn trả Ngân hàng TNHH Indovina – Chi nhánh Thiên Long</td><td>279.103.231.831</td><td></td><td></td><td></td></tr><tr><td>205.025.942.203</td><td>Gốc được thanh toán hàng quý tại từng khế ước sau thời gian ăn hạn gốc kéo dài tới tháng 3 năm 2023. Lãi được thanh toán hàng quý.</td><td>Lãi suất đang áp dụng là từ 9,8%/năm - 10,5%/năm.</td><td>(i),(iv)</td></tr><tr><td>Ngân hàng TMCP Quân Đội – chi nhánh Điện Biên Phủ</td><td>466.717.589.179</td><td>Gốc được thanh toán 6 tháng 1 lần kể từ tháng 4 năm 2022 đến tháng 4 năm 2037. Lãi thanh toán 3 tháng 1 lần.</td><td>Lãi suất năm đầu tiên là 9%/năm. Lãi suất các kỳ tiếp theo bằng lãi suất tiết kiệm kỳ hạn 24 tháng trả lãi sau của bên cho vay cộng biển độ tối thiểu 3%/năm</td><td>(v)</td></tr><tr><td rowspan="2">Trong đó: Vay dài hạn đến hạn trả Ngân hàng TMCP Việt Nam Thịnh Vương – Hội sở chính</td><td>4.984.459.552</td><td></td><td></td><td></td></tr><tr><td>5.020.650.296</td><td>Gốc được thanh toán 6 tháng 1 lần kể từ tháng 12 năm 2023 đến tháng 12 năm 2025. Lãi thanh toán hàng tháng.</td><td>11%/năm</td><td>(vi)</td></tr><tr><td>TỔNG CỘNG</td><td>2.043.209.331.683</td><td></td><td></td><td></td></tr><tr><td rowspan="2">Trong đó: Vay dài hạn đến hạn trả Vay dài hạn</td><td>1.108.951.082.723</td><td></td><td></td><td></td></tr><tr><td>934.258.248.960</td><td></td><td></td><td></td></tr></table>
+
+B09-DN/HN
+
+38
+
+11-1 0.5 ≤ H = 10
+
+===== PAGE 41 =====
+Công ty Cổ phần Đầu tư Văn Phú - Invest
+
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+
+váo ngày 31 tháng 12 năm 2021 và cho năm tài chính kết thúc cùng ngày
+
+20. VAY (tiếp theo)
+
+20.2 Vay ngân hàng dài hạn (tiếp theo)
+
+(*) Theo thông báo số 78/2022/CV-IVBTL của Ngân hàng TNHH Indovina – Chi nhánh Thiên Long vào ngày 7 tháng 3 năm 2022 và theo thông báo số 172/TB-TTH-KH của Ngân hàng TMCP Ngoại thương Việt nam – Chi nhánh Thủ Thiêm vào ngày 7 tháng 3 năm 2022, khoản cho vay hợp vốn của hai ngân hàng của Công ty Cổ phần Văn Phú Bắc Ái được cơ cấu lại ngày đến hạn trả gốc thêm 18 tháng kể từ ngày cuối cùng của thời hạn cho vay (ngày đến hạn tháng 2 năm 2024).
+
+(**)
+
+(i) Cùng tài sản đãm bảo như trình bày trong phần (i) Thuyết minh số 20.1.
+
+(iii)
+
+(iv)
+
+(v) Tài sản đảm bảo bao gồm:
+
+- Tài sản gắn liền với đất là bất động sản tại phố Nguyễn Chí Thanh, phường Láng Thương, quận Đống Đa, thành phố Hà Nội:
+
+- Quyền sử dụng đất và nhà ở hình thành trên đất tại lô BT11-02 thuộc khu đô thị An Hưng;
+
+- Quyền sở hữu tài sản gắn liền với đất là Khu dịch vụ thương mại tầng 1-01, tầng 1-02, tầng 1-03, tầng 1-04, tầng 5-01, tại tòa CT9 thuộc Khu đô thị mới Văn Phú, phường Phúc La, quận Hà Đông, thành phố Hà Nội;
+
+- Quyền tài sản của Công ty phát sinh từ hợp đồng cho thuê tòa 1 và khoản thu tòa 2 dự án Khu dịch vụ căn hộ khách sạn Hồ Tây;
+- Quyền sở hữu 3.300.000 cổ phiếu phổ thông của Công ty được nấm giữ bởi bên thứ đa;
+
+- Toàn bộ động sản hình thành từ Dự án Khu du lịch căn hộ khách sạn Hồ Tây.
+
+B09-DN/HN
+
+39
+
+===== PAGE 42 =====
+Công ty Cổ phần Đầu tư Văn Phú - Invest
+
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+
+vào ngày 31 tháng 12 năm 2021 và cho năm tài chính kết thúc cùng ngày
+
+20. VAY (tiếp theo)
+
+20.2 Vay ngân hàng dài hạn (tiếp theo)
+
+(vi) Tài sản đảm bảo bao gồm:
+
+- Quyền tài sản phát sinh từ/liên quan đến dự án Khu đô thị mới Cồn Khương tại Cồn Khương, thuộc phường Bùi Hữu Nghĩa, quận Bình Thủy và một phần thuộc phường Cái Khế, quận Ninh Kiều, thành phố Cần Thơ.
+
+20.3 Vay ngắn hạn đối tượng khác
+
+Khoản vay ngắn hạn từ các đối tác theo hình thức tín chấp gồm các khoản vay với lãi suất 8,5%/năm - 9,75%/năm, gốc và lãi đáo hạn vào tháng 8 và tháng 12 năm 2022.
+
+B09-DN/HN
+
+40
+
+===== PAGE 43 =====
+Công ty Cổ phần Đầu tư Văn Phú - Invest
+
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+
+vao ngay 31 thang 12 năm 2021 và cho năm tài chính kết thúc cùng ngày
+
+20. VAY (tiếp theo)
+
+20.4 Trái phiếu phát hành
+
+<table><tr><td>Bên tư vấn phát hành</td><td>Số cuối năm (VND)</td><td>Ngày đáo hạn</td><td>Lãi suất áp dụng năm nay</td><td>Tài sản đảm bảo</td></tr><tr><td>Công ty TNHH Chứng khoán Ngân hàng TMCP Ngoại thương Việt Nam</td><td>178.906.849.316</td><td>Gốc trái phiếu đáo hạn tháng 7 năm 2022. Lãi được thanh toán 6 tháng một lần kể từ ngày phát hành.</td><td>10,5%/năm</td><td>13.750.000 cổ phiếu phổ thông của Công ty.</td></tr><tr><td>Công ty TNHH Chứng khoán Ngân hàng TMCP Ngoại thương Việt Nam</td><td>196.392.586.680</td><td>Gốc trái phiếu đáo hạn tháng 4 năm 2024. Lãi được thanh toán 6 tháng một lần kể từ ngày phát hành.</td><td>10,3%/năm</td><td>13.750.000 cổ phiếu phổ thông của Công ty.</td></tr><tr><td>Công ty TNHH Chứng khoán Ngân hàng TMCP Ngoại thương Việt Nam</td><td>225.808.923.027</td><td>Gốc trái phiếu đáo hạn tháng 4 năm 2024. Lãi được thanh toán 6 tháng một lần kể từ ngày phát hành.</td><td>10,3%/năm</td><td>(vii)</td></tr><tr><td>Công ty TNHH Chứng khoán Ngân hàng TMCP Ngoại thương Việt Nam</td><td>197.794.650.685</td><td>Gốc trái phiếu đáo hạn tháng 12 năm 2022. Lãi được thanh toán 6 tháng một lần kể từ ngày phát hành.</td><td>10,3%/năm</td><td>14.875.000 cổ phiếu phổ thông của Công ty.</td></tr><tr><td>Công ty Cổ phần Chứng khoán MB</td><td>99.362.708.334</td><td>Gốc trái phiếu đáo hạn tháng 11 năm 2022. Lãi được thanh toán 3 tháng một lần kể từ ngày phát hành.</td><td>10,5%/năm</td><td>7.500.000 cổ phiếu phổ thông của Công ty.</td></tr><tr><td>TỔNG CỘNG</td><td>898.265.718.042</td><td></td><td></td><td></td></tr><tr><td>Trong đó:- Trái phiếu dài hạn đến hạn trả- Trái phiếu dài hạn</td><td>476.064.208.335422.201.509.707</td><td></td><td></td><td></td></tr></table>
+
+(vii) Đảm bảo bởi tài sản mà Công ty đã và sẽ sở hữu phát sinh từ và/hoặc liên quan đến khối để công trình cao tầng thuộc Dự án The Terra An Hưng.
+
+B09-DN/HN
+
+41
+
+===== PAGE 44 =====
+Công ty Cổ phần Đầu tư Văn Phú - Invest
+
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo) vào ngày 31 tháng 12 năm 2021 và cho năm tài chính kết thúc
+
+21. TRÁI PHIÉU CHUYÊN ĐÓI
+
+Vào ngày 1 tháng 11 năm 2021, Công ty đã hoàn tất việc phát hành 690.000 trái phiếu chuyển đổi với mệnh giá 1 triệu VND/trái phiếu cho VIAC (No.1) Limited Partnership. Việc phát hành trái phiếu chuyển đổi trên tổng giá trị 690 tỷ VND đã được phê duyệt theo Nghị quyết của Đại hội đồng cổ đông số 1904/2021/NQ-ĐHĐCD ngày 19 tháng 4 năm 2021 và Nghị quyết của Hội đồng quản trị số 0906/NQ-HĐQT ngày 9 tháng 6 năm 2021.
+
+Một số điều kiện và điều khoản quan trọng của trái phiếu chuyển đổi như sau:
+
+- Kỳ hạn trái phiếu là ba (3) năm từ ngày phát hành;
+
+- Lãi suất: trái phiếu được hưởng lãi suất gộp 5%/năm, và được trả vào thời điểm trái phiếu được mua lại;
+
+- Nhà đầu tư có quyền chuyển đổi toàn bộ Trái phiếu chuyển đổi thành Cổ phần của Công ty vào thời điểm đáo hạn;
+- Giá chuyển đổi là 35.000 VND/cổ phần chuyển đổi, phụ thuộc vào sự điều chỉnh quy định tại hợp đồng đặt mua trái
+
+Trái phiếu chuyển đổi được đảm bảo bằng 24.710.000 cổ phiếu phổ thông của Công ty thuộc sở hữu của bên thứ ba.
+
+Chi tiết của khoản trái phiếu chuyển đổi như sau:
+
+Đơn vị tính: VND
+
+Năm nay
+
+Giá trị trái phiếu chuyên đôi 690.000.000.000
+Chi phí phát hành (1.302.228.818)
+
+Câu phân vốn chủ sở hữu
+Câu phần nợ gốc ghi nhận
+
+2.1.1.1
+
+Cộng: Giá trị lũy kế chi phí lãi vay và chi phí phát hành
+Số đầu năm
+
+Số phân bổ trong năm
+Số cuối năm
+
+Cấu phần nợ gốc tại ngày cuối năm
+
+B09-DN/HN
+
+42
+
+===== PAGE 45 =====
+Công ty Cổ phần Đầu tư Văn Phú - Invest
+
+THUYẾT MINH BẢO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+
+vào ngày 31 tháng 12 năm 2021 và cho năm tài chính kết thúc cùng ngày
+
+22. VÓN CHỦ SỞ HỮU
+
+22.1 Tỉnh hình tăng, giảm nguồn vốn chủ sở hữu
+
+<table><tr><td rowspan="2"></td><td colspan="4">Vốn chủ sở hữu thuộc cổ đông công ty mẹ</td><td rowspan="2">Lợi nhuận sau thuế chưa phân phối</td><td rowspan="2">Lợi ích cổ đông không kiểm soát</td><td rowspan="2">Đơn vị tính: VND</td></tr><tr><td>Vốn cổ phần</td><td>Quyền chọn chuyển đổi trái phiếu</td><td>Quỹ đầu tư phát triển</td><td>Quỹ khác thuộc vốn chủ sở hữu</td></tr><tr><td colspan="8">Cho năm tài chính kết thúc ngày 31 tháng 12 năm 2020</td></tr><tr><td>Ngày 1 tháng 1 năm 2020</td><td>1.600.000.000.000</td><td>-</td><td>15.177.859.740</td><td>7.588.929.869</td><td>851.463.063.516</td><td>216.937.977.494</td><td>2.691.167.830.619</td></tr><tr><td>- Lợi nhuận thuần trong năm</td><td>-</td><td>-</td><td>-</td><td>-</td><td>300.922.029.670</td><td>5.881.752.662</td><td>306.803.782.332</td></tr><tr><td>- Phát hành cổ phiếu trả cổ tức</td><td>399.999.000.000</td><td>-</td><td>-</td><td>-</td><td>(399.999.000.000)</td><td>-</td><td>-</td></tr><tr><td>- Trích quỹ khen thưởng, phúc lợi</td><td>-</td><td>-</td><td>-</td><td>-</td><td>(17.020.000.000)</td><td>-</td><td>(17.020.000.000)</td></tr><tr><td>- Giảm do bán công ty con</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>(2.305.367.885)</td><td>(2.305.367.885)</td></tr><tr><td>- Giảm khác</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>(20.421.769.419)</td><td>(20.421.769.419)</td></tr><tr><td>Ngày 31 tháng 12 năm 2020</td><td>1.999.999.000.000</td><td>-</td><td>15.177.859.740</td><td>7.588.929.869</td><td>735.366.093.186</td><td>200.092.592.852</td><td>2.958.224.475.647</td></tr><tr><td colspan="8">Cho năm tài chính kết thúc ngày 31 tháng 12 năm 2021</td></tr><tr><td>Ngày 1 tháng 1 năm 2021</td><td>1.999.999.000.000</td><td>-</td><td>15.177.859.740</td><td>7.588.929.869</td><td>735.366.093.186</td><td>200.092.592.852</td><td>2.958.224.475.647</td></tr><tr><td>- Lợi nhuận thuần trong năm</td><td>-</td><td>-</td><td>-</td><td>-</td><td>348.132.041.356</td><td>(3.982.077.468)</td><td>344.149.963.888</td></tr><tr><td>- Phát hành cổ phiếu trả cổ tức (i)</td><td>199.998.800.000</td><td>-</td><td>-</td><td>-</td><td>(199.998.800.000)</td><td>-</td><td>-</td></tr><tr><td>- Phát hành trái phiếu chuyển đổi (thuyết minh số 21)</td><td>-</td><td>90.496.534.831</td><td>-</td><td>-</td><td>-</td><td>-</td><td>90.496.534.831</td></tr><tr><td>- Thay đổi do giảm tỷ lệ sở hữu trong công ty con không làm mất quyền kiểm soát</td><td>-</td><td>-</td><td>-</td><td>-</td><td>1.736.239.581</td><td>7.473.760.419</td><td>9.210.000.000</td></tr><tr><td>- Giảm khác</td><td>-</td><td>-</td><td>-</td><td>-</td><td>(6.440.855.444)</td><td>(1.195.546.939)</td><td>(7.636.402.383)</td></tr><tr><td>Ngày 31 tháng 12 năm 2021</td><td>2.199.997.800.000</td><td>90.496.534.831</td><td>15.177.859.740</td><td>7.588.929.869</td><td>878.794.718.679</td><td>202.388.728.864</td><td>3.394.444.571.983</td></tr></table>
+
+B09-DN/HN
+
+43
+
+===== PAGE 46 =====
+Công ty Cổ phần Đầu tư Văn Phú - Invest
+
+B09-DN/HN
+
+THUYẾT MINH BẢO CÁO TÀI CHÍNH HỢP NHẮT (tiếp theo)
+
+vào ngày 31 tháng 12 năm 2021 và cho năm tài chính kết thúc cùng ngày
+
+22. VỐN CHỦ SỞ HỮU (tiếp theo)
+
+22.1 Tỉnh hình tăng, giảm nguồn vốn chủ sở hữu (tiếp theo)
+
+(i) Vào ngày 16 tháng 6 năm 2021, Đại hội đồng cổ đông Công ty đã thông qua Tờ trình phương án phát hành cổ phiếu để trả cổ tức năm 2020 đi kèm Nghị quyết Đại hội đồng cổ đông năm 2021 số 1606/2021/NQ-ĐHĐCED về việc chi trả cổ tức như sau: Phương án phát hành cổ phần để chi trả cổ tức cho các cổ đông hiện hữu theo tỷ lệ 10:1 (mỗi cổ đông hiện hữu sở hữu 10 cổ phần được nhận cổ tức bằng 1 cổ phần). Ngày 9 tháng 12 năm 2021, Công ty đã hoàn thành các thủ tục phát hành cổ phiếu để chi trả cổ tức. Theo đó, số lượng cổ phần được Công ty phát hành thêm là 19.999.880 cổ phần với mệnh giá 10.000 VND/cổ phần.
+
+22.2 Chi tiết vốn đầu tư của chủ sở hữu
+
+Đơn vị tính: VND
+
+<table><tr><td rowspan="2"></td><td colspan="2">Số cuối năm</td><td colspan="2">Số đầu năm</td></tr><tr><td>Tổng số</td><td>Cổ phiếu thường</td><td>Tổng số</td><td>Cổ phiếu thường</td></tr><tr><td>Vốn góp từ cổ đông</td><td>2.199.997.800.000</td><td>2.199.997.800.000</td><td>1.999.999.000.000</td><td>1.999.999.000.000</td></tr><tr><td>TỔNG CỘNG</td><td>2.199.997.800.000</td><td>2.199.997.800.000</td><td>1.999.999.000.000</td><td>1.999.999.000.000</td></tr></table>
+
+Việc sử dụng vốn góp của cổ đông làm tài sản đảm bảo cho khoản vay của Công ty được trình bày tại Thuyết minh số 20.
+
+22.3 Các giao dịch về vốn với các chủ sở hữu và phân phối cổ tức, lợi nhuận
+
+<table><tr><td></td><td>Năm nay</td><td>Đơn vị tính: VNDNăm trước</td></tr><tr><td colspan="3">Vốn đã góp của chủ sở hữu</td></tr><tr><td>Số đầu năm</td><td>1.999.999.000.000</td><td>1.600.000.000.000</td></tr><tr><td>Phát hành thêm cổ phần</td><td>199.998.800.000</td><td>399.999.000.000</td></tr><tr><td>Số cuối năm</td><td>2.199.997.800.000</td><td>1.999.999.000.000</td></tr><tr><td>Cổ tức, lợi nhuận đã chia</td><td>199.998.800.000</td><td>399.999.000.000</td></tr></table>
+
+22.4 Cổ tức
+
+Cổ tức đã công bố và đã trả trong năm
+
+- Cổ tức trả bằng cổ phiếu cho năm
+2021: 1 cổ phiếu/10 cổ phiếu hiện hữu
+(2020: 1 cổ phiếu/4 cổ phiếu hiện hữu) 199.998.800.000 399.999.000.000
+
+44
+
+1.37 工 2 = 6 - 120
+
+===== PAGE 47 =====
+Công ty Cổ phần Đầu tư Văn Phú - Invest
+
+B09-DN/HN
+
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+
+vào ngày 31 tháng 12 năm 2021 và cho năm tài chính kết thúc cùng ngày
+
+22. VỐN CHỦ SỞ HỮU (tiếp theo)
+
+22.5 Cổ phiếu
+
+<table><tr><td></td><td>Số cuối năm(Cổ phiếu)</td><td>Số đầu năm(Cổ phiếu)</td></tr><tr><td>Cổ phiếu đã phát hành ra công chúng</td><td>219.999.780</td><td>199.999.900</td></tr><tr><td>Cổ phiếu phổ thông</td><td>219.999.780</td><td>199.999.900</td></tr><tr><td>Cổ phiếu đang lưu hành</td><td>219.999.780</td><td>199.999.900</td></tr><tr><td>Cổ phiếu phổ thông</td><td>219.999.780</td><td>199.999.900</td></tr></table>
+
+Mệnh giá cổ phiếu đang lưu hành tại ngày 31 tháng 12 năm 2021: 10.000 VND/cổ phiếu (Ngày 31 tháng 12 năm 2020: 10.000 VND/cổ phiếu).
+
+23. DOANH THU
+
+23.1 Doanh thu bán hàng và cung cấp dịch vụ
+
+<table><tr><td rowspan="2"></td><td colspan="2">Đơn vị tính: VND</td></tr><tr><td>Năm nay</td><td>Năm trước</td></tr><tr><td>Tổng doanh thu</td><td>2.666.099.233.796</td><td>2.171.215.180.594</td></tr><tr><td>Trong đó:</td><td></td><td></td></tr><tr><td>Doanh thu chuyển nhượng bất động sản</td><td>2.541.664.179.345</td><td>2.012.398.139.198</td></tr><tr><td>Doanh thu cung cấp dịch vụ</td><td>122.641.574.816</td><td>113.564.534.576</td></tr><tr><td>Doanh thu bán hàng hóa</td><td>-</td><td>42.802.113.408</td></tr><tr><td>Doanh thu khác</td><td>1.793.479.635</td><td>2.450.393.412</td></tr><tr><td>Giảm trừ doanh thu</td><td>(55.502.956.125)</td><td>(6.216.267.292)</td></tr><tr><td>Hàng bán bị trả lại</td><td>(55.502.956.125)</td><td>(6.216.267.292)</td></tr><tr><td>Doanh thu thuần</td><td>2.610.596.277.671</td><td>2.164.998.913.302</td></tr><tr><td>Trong đó:</td><td></td><td></td></tr><tr><td>Doanh thu thuần từ chuyển nhượng bất động sản</td><td>2.486.716.327.345</td><td>2.006.181.871.906</td></tr><tr><td>Doanh thu thuần từ cung cấp dịch vụ</td><td>122.086.470.691</td><td>113.564.534.576</td></tr><tr><td>Doanh thu thuần từ bán hàng hóa</td><td>-</td><td>42.802.113.408</td></tr><tr><td>Doanh thu thuần khác</td><td>1.793.479.635</td><td>2.450.393.412</td></tr><tr><td>Trong đó:</td><td></td><td></td></tr><tr><td>Doanh thu đối với các bên khác</td><td>2.610.168.174.945</td><td>2.164.388.849.666</td></tr><tr><td>Doanh thu đối với các bên liên quan</td><td>428.102.726</td><td>610.063.636</td></tr></table>
+
+23.2 Doanh thu hoạt động tài chính
+
+<table><tr><td rowspan="2"></td><td colspan="2">Don vị tính: VND</td></tr><tr><td>Năm nay</td><td>Năm trước</td></tr><tr><td>Lãi tiền gửi, tiền cho vay</td><td>65.548.780.811</td><td>88.063.805.418</td></tr><tr><td>Lãi bán khoản đầu tư</td><td>53.639.207.944</td><td>16.852.962.290</td></tr><tr><td>Cổ tức và lợi nhuận được chia</td><td>1.911.600.000</td><td>-</td></tr><tr><td>Doanh thu tài chính khác</td><td>15.755.065</td><td>2.160.000.000</td></tr><tr><td>TỔNG CỘNG</td><td>121.115.343.820</td><td>107.076.767.708</td></tr></table>
+
+45
+
+===== PAGE 48 =====
+Công ty Cổ phần Đầu tư Văn Phú - Invest
+
+B09-DN/HN
+
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+
+vào ngày 31 tháng 12 năm 2021 và cho năm tài chính kết thúc cùng ngày
+
+24. GIÁ VỐN HÀNG BÁN VÀ DỊCH VỤ CUNG CẤP
+
+<table><tr><td rowspan="2"></td><td colspan="2">Đơn vị tính: VND</td></tr><tr><td>Năm nay</td><td>Năm trước</td></tr><tr><td>Giá vốn bắt động sản đã chuyển nhượng</td><td>1.862.786.270.674</td><td>1.370.749.857.432</td></tr><tr><td>Giá vốn dịch vụ cung cấp</td><td>105.851.281.451</td><td>79.141.377.379</td></tr><tr><td>Giá vốn hàng hóa đã bán</td><td>-</td><td>28.604.401.969</td></tr><tr><td>Giá vốn khác</td><td>41.013.455</td><td>3.193.195.033</td></tr><tr><td>TỔNG CỘNG</td><td>1.968.678.565.580</td><td>1.481.688.831.813</td></tr></table>
+
+25. CHI PHÍ TÀI CHÍNH
+
+<table><tr><td rowspan="2"></td><td colspan="2">Đơn vị tính: VND</td></tr><tr><td>Năm nay</td><td>Năm trước</td></tr><tr><td>Chi phí lãi vay</td><td>103.911.543.417</td><td>204.671.567.242</td></tr><tr><td>Chi phí phát hành trái phiếu và phí trả nợ trước hạn</td><td>10.310.650.532</td><td>4.548.058.507</td></tr><tr><td>Chi phí tài chính khác</td><td>225.829.307</td><td>3.075.687.983</td></tr><tr><td>TỔNG CỘNG</td><td>114.448.023.256</td><td>212.295.313.732</td></tr></table>
+
+26. CHI PHÍ BÁN HÀNG VÀ CHI PHÍ QUẢN LÝ DOANH NGHIỆP
+
+<table><tr><td rowspan="2"></td><td rowspan="2">Năm nay</td><td>Đơn vị tính: VND</td></tr><tr><td>Năm trước</td></tr><tr><td colspan="3">Chi phí bán hàng</td></tr><tr><td>Chi phí môi giới</td><td>125.885.832.496</td><td>51.068.492.387</td></tr><tr><td>Chi phí bán hàng khác</td><td>32.275.579.478</td><td>26.987.968.585</td></tr><tr><td>TỔNG CỘNG</td><td>158.161.411.974</td><td>78.056.460.972</td></tr><tr><td colspan="3">Chi phí quản lý doanh nghiệp</td></tr><tr><td>Chi phí nhân viên quản lý</td><td>38.781.547.352</td><td>46.978.739.244</td></tr><tr><td>Chi phí công cụ, dụng cụ, đồ dùng văn phòng</td><td>12.116.119.001</td><td>22.783.844.477</td></tr><tr><td>Chi phí khấu hao tài sản cố định và phân bổ lợitheé thương mại</td><td>4.289.470.092</td><td>5.933.295.494</td></tr><tr><td>Chi phí dịch vụ mua ngoài</td><td>26.331.237.531</td><td>15.071.946.808</td></tr><tr><td>Chi phí quản lý doanh nghiệp khác</td><td>45.518.072.788</td><td>31.906.361.205</td></tr><tr><td>TỔNG CỘNG</td><td>127.036.446.764</td><td>122.674.187.228</td></tr></table>
+
+27. THU NHẬP KHÁC
+
+<table><tr><td rowspan="2"></td><td rowspan="2">Năm nay</td><td>Đơn vị tính: VND</td></tr><tr><td>Năm trước</td></tr><tr><td>Tiền phạt, bồi thường thu được</td><td>10.301.030.818</td><td>1.853.677.156</td></tr><tr><td>Các khoản khác</td><td>1.642.387.410</td><td>2.695.536.952</td></tr><tr><td>TỔNG CỘNG</td><td>11.943.418.228</td><td>4.549.214.108</td></tr></table>
+
+46
+
+===== PAGE 49 =====
+Công ty Cổ phần Đầu tư Văn Phú - Invest
+
+B09-DN/HN
+
+THUYẾT MINH BẢO CẢO TÀI CHÍNH HỢP NHẮT (tiếp theo)
+vào ngày 31 tháng 12 năm 2021 và cho năm tài chính kết thúc cùng ngày
+
+28. CHI PHÍ SẢN XUẤT, KINH DOANH THEO YẾU TỐ
+
+<table><tr><td rowspan="2"></td><td rowspan="2">Năm nay</td><td>Đơn vị tính: VND</td></tr><tr><td>Năm trước</td></tr><tr><td>Chi phí xây dựng, phát triển bất động sản</td><td>1.679.614.628.424</td><td>662.429.086.979</td></tr><tr><td>Chi phí nhân công</td><td>38.781.547.352</td><td>46.978.739.244</td></tr><tr><td>Chi phí khấu hao</td><td>20.167.132.786</td><td>22.289.233.809</td></tr><tr><td>Chi phí dịch vụ mua ngoài</td><td>258.109.364.933</td><td>177.079.413.576</td></tr><tr><td>Chi phí khác</td><td>40.108.615.905</td><td>65.322.235.952</td></tr><tr><td>TỔNG CỘNG</td><td>2.036.781.289.400</td><td>974.098.709.560</td></tr></table>
+
+29. THUẾ THU NHẬP DOANH NGHIỆP
+
+Thuế suất thuế thu nhập doanh nghiệp ("TNDN") của Công ty và các công ty con là 20% thu nhập chịu thuế.
+
+Các báo cáo thuế của Công ty và các công ty con sẽ chịu sự kiểm tra của cơ quan thuế. Do việc áp dụng luật và các quy định về thuế có thể được giải thích theo nhiều cách khác nhau, số thuế được trình bày trên báo cáo tài chính hợp nhất có thể sẽ bị thay đổi theo quyết định cuối cùng của cơ quan thuế.
+
+29.1 Chi phí thuế TNDN
+
+<table><tr><td rowspan="2"></td><td colspan="2">Đơn vị tính: VND</td></tr><tr><td>Năm nay</td><td>Năm trước</td></tr><tr><td>Chi phí thuế TNDN hiện hành</td><td>42.815.367.744</td><td>90.866.910.682</td></tr><tr><td>Điều chỉnh chi phí thuế TNDN năm trước theo</td><td></td><td></td></tr><tr><td>Nghị định số 132/2020/NĐ-CP</td><td>-</td><td>(10.354.390.247)</td></tr><tr><td>Điều chỉnh thuế TNDN trích thiếu trong những năm trước</td><td>-</td><td>117.776.183</td></tr><tr><td>Chi phí/(thu nhập) thuế TNDN hoãn lại</td><td>5.291.705.920</td><td>(393.925.878)</td></tr><tr><td>TỔNG CỘNG</td><td>48.107.073.664</td><td>80.236.370.740</td></tr></table>
+
+47
+
+===== PAGE 50 =====
+Công ty Cổ phần Đầu tư Văn Phú - Invest
+
+B09-DN/HN
+
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+
+vào ngày 31 tháng 12 năm 2021 và cho năm tài chính kết thúc cùng ngày
+
+29. THUẾ THU NHẬP DOANH NGHIỆP
+
+29.1 Chi phí thuế TNDN (tiếp theo)
+
+Dưới đây là đối chiếu chi phí thuế TNDN và kết quả của lợi nhuận kế toán trước thuế nhân với thuế suất thuế TNDN:
+
+<table><tr><td rowspan="2"></td><td rowspan="2">Năm nay</td><td>Đơn vị tính: VND</td></tr><tr><td>Năm trước</td></tr><tr><td>Tổng lợi nhuận kế toán trước thuế</td><td>392.257.037.552</td><td>387.040.153.072</td></tr><tr><td>Thuế TNDN theo thuế suất 20% áp dụng cho Công ty và các công ty con Các khoản điều chỉnh:</td><td>78.451.407.510</td><td>77.408.030.614</td></tr><tr><td>Tài sản thuế TNDN hoãn lại chưa được ghi nhận đối với chi phí lãi vay chưa được trừ khi tính thuế</td><td>-</td><td>3.551.973.336</td></tr><tr><td>Hoàn nhập chi phí dự phòng không được khấu trừ năm trước</td><td>(1.529.004.326)</td><td>-</td></tr><tr><td>Tài sản thuế TNDN hoãn lại chưa được ghi nhận đối với lỗ tính thuế</td><td>4.373.953.797</td><td>22.813.987.150</td></tr><tr><td>Chi phí không được trừ Điều chỉnh thuế TNDN trích thiếu trong những năm trước</td><td>3.854.726.572</td><td>529.005.977</td></tr><tr><td>Điều chỉnh thuế TNDN trong những năm trước theo Nghị định số 132/2020/NĐ-CP</td><td>-</td><td>117.776.183</td></tr><tr><td>Thu nhập từ cổ tức không chịu thuế TNDN Điều chỉnh giảm theo Nghị quyết số 116/2020/QH14</td><td>(2.793.443.848)</td><td>(10.354.390.247)</td></tr><tr><td>Lỗ được chuyển</td><td>(382.320.000)</td><td>(432.000.000)</td></tr><tr><td>Điều chỉnh hợp nhất không tính thuế</td><td>-</td><td>(4.881.280.854)</td></tr><tr><td>Các khoản điều chỉnh giảm khác</td><td>(22.449.904.122)</td><td>-</td></tr><tr><td></td><td>(5.155.862.690)</td><td>(2.534.937.582)</td></tr><tr><td></td><td>(6.262.479.229)</td><td>(5.981.793.837)</td></tr><tr><td>Chi phí thuế TNDN</td><td>48.107.073.664</td><td>80.236.370.740</td></tr></table>
+
+29.2 Thuế TNDN hiện hành
+
+Thuế TNDN hiện hành phải trả được xác định dựa trên thu nhập chịu thuế của kỳ hiện tại. Thu nhập chịu thuế của Công ty và các công ty con khác với thu nhập được báo cáo trong báo cáo kết quả hoạt động kinh doanh hợp nhất vì thu nhập chịu thuế không bao gồm các khoản mục thu nhập chịu thuế hay chi phí được khấu trừ cho mục đích tính thuế trong các kỳ khác và cũng không bao gồm các khoản mục không phải chịu thuế hay không được khấu trừ cho mục đích tính thuế trong kỳ này. Thuế TNDN hiện hành phải trả của Công ty và các công ty con được tính theo thuế suất đã ban hành đến ngày kết thúc kỳ kế toán năm.
+
+48
+
+===== PAGE 51 =====
+Công ty Cổ phần Đầu tư Văn Phú - Invest
+
+B09-DN/HN
+
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+
+vào ngày 31 tháng 12 năm 2021 và cho năm tài chính kết thúc cùng ngày
+
+29. THUẾ THU NHẬP DOANH NGHIỆP (tiếp theo)
+
+29.3 Thuế TNDN hoãn lại
+
+Công ty và các công ty con đã ghi nhận một số khoản tài sản thuế thu nhập hoãn lại và thuế thu nhập hoãn lại phải trả với các biến động trong năm báo cáo và năm trước như sau:
+
+Đơn vị tính: VND
+
+<table><tr><td rowspan="2"></td><td colspan="2">Bàng cân đối kế toán hợp nhất</td><td colspan="2">Báo cáo kết quả hoạt động kinh doanh hợp nhất</td></tr><tr><td>Số cuối năm</td><td>Số đầu năm</td><td>Năm nay</td><td>Năm trước</td></tr><tr><td>Tài sản thuế thu nhập hoãn lại</td><td></td><td></td><td></td><td></td></tr><tr><td>Lợi nhuận chưa thực hiện</td><td>2.777.173.826</td><td>1.326.605.498</td><td>1.450.568.328</td><td>393.925.878</td></tr><tr><td>Thuế thu nhập hoãn lại phải trả</td><td></td><td></td><td></td><td></td></tr><tr><td>Chi phí vốn hóa lãi vay</td><td>(6.742.274.248)</td><td>-</td><td>(6.742.274.248)</td><td>-</td></tr><tr><td>Tài sản thuế thu nhập hoãn lại (thuế thu nhập hoãn lại phải trả) thuần</td><td>(3.965.100.422)</td><td>1.326.605.498</td><td></td><td></td></tr><tr><td>(Chi phí)/thu nhập thuế thu nhập hoãn lại tính vào báo cáo kết quả hoạt động kinh doanh hợp nhất</td><td></td><td></td><td>(5.291.705.920)</td><td>393.925.878</td></tr></table>
+
+Công ty và các công ty con được phép chuyển các khoản lỗ tính thuế sang năm sau để bù trừ với lợi nhuận thu được trong vòng 5 năm kể từ sau năm phát sinh khoản lỗ đó. Tại ngày kết thúc kỳ kể toán năm, Công ty và các công ty con có các khoản lỗ lũy kể với tổng giá trị là 53,8 tỷ VND (tại ngày 31 tháng 12 năm 2020 là 144,2 tỷ VND) có thể sử dụng để bù trừ với lợi nhuận phát sinh trong tương lai. Đầy là lỗ tính thuế ước tính của Công ty và các công ty con chưa được cơ quan thuê địa phương quyết toán vào ngày lập báo cáo tài chính hợp nhất này.
+
+Đơn vị tính: VND
+
+<table><tr><td>Năm phát sinh</td><td>Có thể chuyển lỗ đến năm</td><td>Lỗ tính thuế</td><td>Đã chuyển lỗ đến ngày 31/12/2021</td><td>Không được chuyển lỗ</td><td>Chưa chuyển lỗ tại ngày 31/12/2021</td></tr><tr><td>2017</td><td>2022</td><td>7.665.189.520</td><td>(2.045.813.027)</td><td>-</td><td>5.619.376.493</td></tr><tr><td>2018</td><td>2023</td><td>11.939.025.461</td><td>(2.544.519.256)</td><td>-</td><td>9.394.506.205</td></tr><tr><td>2019</td><td>2024</td><td>15.786.810.528</td><td>(321.790.474)</td><td>-</td><td>15.465.020.054</td></tr><tr><td>2020</td><td>2025</td><td>113.679.324.869</td><td>(112.249.520.611)</td><td>-</td><td>1.429.804.258</td></tr><tr><td>2021</td><td>2026</td><td>21.869.768.987</td><td>-</td><td>-</td><td>21.869.768.987</td></tr><tr><td>TỔNG CỘNG</td><td></td><td>170.940.119.365</td><td>(117.161.643.368)</td><td>-</td><td>53.778.475.997</td></tr></table>
+
+49
+
+===== PAGE 52 =====
+Công ty Cổ phần Đầu tư Văn Phú - Invest
+
+B09-DN/HN
+
+THUYẾT MINH BẢO CẢO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+vào ngày 31 tháng 12 năm 2021 và cho năm tài chính kết thúc cùng ngày
+
+29. THUÉ THU NHẬP DOANH NGHIỆP (tiếp theo)
+
+29.4 Tài sản thuế thu nhập hoãn lại chưa được ghi nhận
+
+Công ty chưa ghi nhận tài sản thuế thu nhập hoãn lại đối với các khoản mục sau do không ước tính được chắc chắn thu nhập chịu thuế trong tương lai:
+
+Đơn vị tính: VND
+
+Các chênh lệch tạm thời, trong đó:
+
+Lỗ tính thuế
+
+53.778.475.997
+
+TỔNG CỘNG
+
+53.778.475.997
+
+30. CÁC NGHIỆP VỤ VỚI CÁC BÊN LIÊN QUAN
+
+Những giao dịch trọng yếu của Công ty và các công ty con với các bên liên quan bao gồm:
+
+Đơn vị tính: VND
+
+<table><tr><td>Các bên liên quan</td><td>Mối quan hệ</td><td>Nội dung nghiệp vụ</td><td>Năm nay</td><td>Năm trước</td></tr><tr><td>Công ty Cổ phần Đầu tư Kinh doanh Địa ốc An Phú (trước đây là Công ty Cổ phần Kinh doanh Địa ốc Văn Phú)</td><td>Công ty liên kết</td><td>Mua dịch vụCổ tức được chia</td><td>2.603.182.0821.911.600.000</td><td>31.035.852.7732.160.000.000</td></tr><tr><td>Công ty TNHH BT Hà Đông</td><td>Công ty liên doanh</td><td>Góp vốn</td><td>2.160.000.000</td><td>1.500.000.000</td></tr><tr><td>Công ty Cổ phần Đầu tư - Kinh doanh Bất động sản Trần Việt</td><td>Công ty liên kết</td><td>Góp vốn</td><td>-</td><td>27.440.000.000</td></tr><tr><td>Công ty Cổ phần Abey Holdings</td><td>Cùng thành viên Hội đồng Quản trị</td><td>Chuyển nhượng vốn góp Công ty TNHH Đầu tư Cần Khương</td><td>-</td><td>157.500.000.000</td></tr><tr><td>Công ty Cổ phần Đầu tư Văn Phú – Land</td><td>Cùng thành viên Ban Tổng Giám đốc</td><td>Trả lại tiền nhận góp vốn hợp tác đầu tư</td><td>-</td><td>19.538.000.000</td></tr><tr><td>Công ty Cổ phần In và Văn hóa phẩm</td><td>Công ty liên kết</td><td>Phân chia lợi nhuận theo hợp đồng hợp tác đầu tưTrả lại tiền nhận góp vốn hợp tác đầu tư</td><td>172.672.964</td><td>6.585.443.496</td></tr></table>
+
+50
+
+===== PAGE 53 =====
+Công ty Cổ phần Đầu tư Văn Phú - Invest
+
+B09-DN/HN
+
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+
+vào ngày 31 tháng 12 năm 2021 và cho năm tài chính kết thúc cùng ngày
+
+30. CÁC NGHIỆP VỤ VỚI CÁC BÊN LIÊN QUAN (tiếp theo)
+
+Những giao dịch trọng yếu của Công ty và các công ty con với các bên liên quan bao gồm:
+
+Đơn vị tính: VND
+
+<table><tr><td>Các bên liên quan</td><td>Mối quan hệ</td><td>Nội dung nghiệp vụ</td><td>Năm nay</td><td>Năm trước</td></tr><tr><td>Công ty Cổ phần Đầu tư Hà Phú Riverland</td><td>Công ty liên kết</td><td>Góp vốn</td><td>76.500.000.000</td><td>-</td></tr><tr><td>Công ty Cổ phần Đầu tư và Phát triển Thương mại Văn Phú</td><td>Công ty liên kết</td><td>Nhận vốn góp hợp tác đầu tư</td><td>7.000.615.385</td><td>-</td></tr><tr><td>Công ty Cổ phần Đầu tư Phong Phú</td><td>Công ty liên kết</td><td>Góp vốn hợp tác đầu tư</td><td>452.617.690.000</td><td>-</td></tr></table>
+
+Các điều kiện và điều khoản của các giao dịch với các bên liên quan
+
+Các nghiệp vụ cung cấp dịch vụ, sử dụng dịch vụ và cho vay với các bên liên quan được thực hiện theo cơ sở thỏa thuận theo hợp đồng.
+
+Số dư các khoản phải thu, phải trả tại thời điểm ngày 31 tháng 12 năm 2021 không cần bảo đảm, không có lãi suất và sẽ được thanh toán bằng tiền. Cho năm tài chính kết thúc vào ngày 31 tháng 12 năm 2021, Công ty và các công ty con đánh giá và xác định không có bắt cứ một khoản dự phòng nợ phải thu khó đòi nào liên quan đến số tiền các bên liên quan còn nợ Công ty và các công ty con (ngày 31 tháng 12 năm 2020: 0 VND). Việc đánh giá này được thực hiện cho mỗi năm thông qua việc kiểm tra tỉnh hình tài chính của bên liên quan và thị trường mà bên liên quan đó hoạt động.
+
+51
+
+===== PAGE 54 =====
+Công ty Cổ phần Đầu tư Văn Phú - Invest
+
+B09-DN/HN
+
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẮT (tiếp theo)
+
+vào ngày 31 tháng 12 năm 2021 và cho năm tài chính kết thúc cùng ngày
+
+30. CÁC NGHIỆP VỤ VỚI CÁC BÊN LIÊN QUAN (tiếp theo)
+
+Số dư các khoản phải thu và phải trả với các bên liên quan như sau:
+
+<table><tr><td rowspan="2">Các bên liên quan</td><td rowspan="2">Mối quan hệ</td><td rowspan="2">Nội dung nghiệp vụ</td><td colspan="2">Đơn vị tính: VND</td></tr><tr><td>Số cuối năm</td><td>Số đầu năm</td></tr><tr><td colspan="5">Phải thu ngắn hạn của khách hàng (Thuyết minh số 7.1)</td></tr><tr><td rowspan="2">Công ty Cổ phần Đầu tư Kinh doanh Địa ốc An Phú (trước đây là Công ty Cổ phần Kinh doanh Địa ốc Văn Phú)</td><td>Công ty liên kết</td><td></td><td></td><td></td></tr><tr><td></td><td>Phải thu cung cấp dịch vụ</td><td>-</td><td>131.424.000</td></tr><tr><td>Công ty TNHH Nông dược Trường Minh</td><td>Công ty có cùng thành viên quản lý chủ chốt từ ngày 29 tháng 6 năm 2021</td><td>Phải thu cung cấp dịch vụ</td><td>-</td><td>882.153.742</td></tr><tr><td>TỔNG CỘNG</td><td></td><td></td><td>-</td><td>1.013.577.742</td></tr><tr><td colspan="5">Phải thu dài hạn khác (Thuyết minh số 8)</td></tr><tr><td>Công ty Cổ phần Đầu tư Phong Phú</td><td>Công ty liên kết</td><td>Góp vốn hợp tác đầu tư (i)</td><td>452.617.690.000</td><td>-</td></tr><tr><td>TỔNG CỘNG</td><td></td><td></td><td>452.617.690.000</td><td>-</td></tr></table>
+
+(i) Đây là các khoản góp vốn theo Hợp đồng số 02/2021/HĐHTĐT/VPI-PP kí ngày 30 tháng 12 năm 2021 và Hợp đồng số 02/2021/HĐHTĐT/PHONGPHU-VPGV kí ngày 13 tháng 7 năm 2021 để hợp tác đầu tư một dự án bất động sản tiềm năng.
+
+Phải trả người bản ngắn hạn (Thuyết minh số 16.1)
+
+<table><tr><td rowspan="2">Công ty Cổ phần Đầu tưKinh doanh Địa ốc AnPhú (trước đây là Côngty Cổ phần Kinh doanhĐịa ốc Văn Phú)</td><td rowspan="2">Công ty liên kết</td><td rowspan="2">Phải trả nhậncung cấp dịchvụ</td><td></td></tr><tr><td>- 5.857.964.324</td></tr><tr><td>TỔNG CỘNG</td><td></td><td></td><td>- 5.857.964.324</td></tr></table>
+
+Phải trả ngắn hạn khác (Thuyết minh số 19)
+
+<table><tr><td rowspan="2">Công ty Cổ phần Đầu tư và Phát triển Thương mại Văn PhúHội đồng Quản trị và Ban kiểm soát</td><td rowspan="2">Công ty liên kết</td><td>Nhận góp vốn hợp tác đầu tư</td><td>8.462.300.021</td><td>1.461.684.636</td></tr><tr><td>Phải trả thù lao</td><td>189.000.000</td><td>198.000.000</td></tr><tr><td>TỔNG CỘNG</td><td></td><td></td><td>8.651.300.021</td><td>1.659.684.636</td></tr></table>
+
+Phải trả dài hạn khác (Thuyết minh số 19)
+
+<table><tr><td rowspan="2">Công ty Cổ phần Tập đoàn Phú Mỹ</td><td rowspan="2">Cùng thành viên Hội đồng Quản trị Công ty liên kết</td><td rowspan="2">Nhận góp vốn hợp tác đầu tư Phải trả chia sẻ lợi nhuận hợp tác kinh doanh</td><td>1.297.290.000</td><td>1.297.290.000</td></tr><tr><td>12.383.399.413</td><td>12.291.523.923</td></tr><tr><td>TỔNG CỘNG</td><td></td><td></td><td>13.680.689.413</td><td>13.588.813.923</td></tr></table>
+
+52
+
+===== PAGE 55 =====
+Công ty Cổ phần Đầu tư Văn Phú - Invest
+
+B09-DN/HN
+
+THUYÊT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+
+vào ngày 31 tháng 12 năm 2021 và cho năm tài chính kết thúc cùng ngày
+
+30. CÁC NGHIỆP VỤ VỚI CÁC BÊN LIÊN QUAN (tiếp theo)
+
+Các giao dịch với các bên liên quan khác
+
+Thu nhập của các thành viên của Hội đồng Quản trị và Ban Tổng Giám đốc
+
+<table><tr><td rowspan="2">Tên</td><td rowspan="2">Chức vụ</td><td colspan="2">Đơn vị tính: VND</td></tr><tr><td colspan="2">Thu nhập</td></tr><tr><td></td><td></td><td>Năm nay</td><td>Năm trước</td></tr><tr><td>Ông Tô Như Toàn</td><td>Chữ tịch HĐQT</td><td>2.754.477.156</td><td>2.581.713.600</td></tr><tr><td>Ông Ngô Đức Long</td><td>Phụ trách quản trị đến ngày 29 tháng 6 năm 2021</td><td>60.000.000</td><td>115.000.000</td></tr><tr><td>Ông Phạm Hồng Châu</td><td>Thành viên HĐQT/Phó Tổng Giám đốc</td><td>1.074.210.316</td><td>1.090.195.403</td></tr><tr><td>Bà Nguyễn Diệu Tú</td><td>Thành viên HĐQT</td><td>557.773.691</td><td>115.000.000</td></tr><tr><td>Ông Trịnh Thanh Hải</td><td>Thành viên HĐQT</td><td>558.333.333</td><td>383.333.333</td></tr><tr><td>Ông Đoàn Châu Phong</td><td>Tổng Giám đốc đến ngày 1 tháng 8 năm 2021</td><td>1.162.514.880</td><td>2.109.745.762</td></tr><tr><td>Ông Tô Như Thắng</td><td>Phó Tổng Giám đốc</td><td>1.300.862.291</td><td>1.573.658.800</td></tr><tr><td>Ông Lâm Hoàng Đăng</td><td>Phó Tổng Giám đốc đến ngày 30 tháng 9 năm 2020</td><td>-</td><td>1.106.439.700</td></tr><tr><td>Ông Nguyễn Minh Nguyên</td><td>Phó Tổng Giám đốc đến ngày 1 tháng 5 năm 2020</td><td>-</td><td>549.816.500</td></tr><tr><td>Bà Nguyễn Thu Hằng</td><td>Phó Tổng Giám đốc</td><td>1.771.157.189</td><td>940.302.023</td></tr><tr><td>Bà Đỗ Thị Thanh Phương</td><td>Thành viên HĐQT từ ngày 29 tháng 6 năm 2021</td><td>793.001.958</td><td>-</td></tr><tr><td>Ông Triệu Hữu Đại</td><td>Tổng Giám đốc từ ngày 1 tháng 8 năm 2021</td><td>929.905.085</td><td>-</td></tr><tr><td>TỔNG CỘNG</td><td></td><td>10.962.235.899</td><td>10.565.205.121</td></tr></table>
+
+53
+
+===== PAGE 56 =====
+Công ty Cổ phần Đầu tư Văn Phú - Invest
+
+B09-DN/HN
+
+THUYẾT MINH BẢO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+
+vào ngày 31 tháng 12 năm 2021 và cho năm tài chính kết thúc cùng ngày
+
+31. LÃI TRÊN CỔ PHIÉU
+
+Công ty và các công ty con sử dụng các thông tin sau để tính lãi cơ bản trên cổ phiếu:
+
+<table><tr><td></td><td>Năm nay</td><td>Đơn vị tính: VNDNăm trước(Trình bày lại)</td></tr><tr><td>Lợi nhuận thuần sau thuế phân bổ cho cổ đông sở hữu cổ phiếu phổ thông</td><td>348.132.041.356</td><td>300.922.029.670</td></tr><tr><td>Lợi nhuận sau thuế phân bổ cho cổ đông sở hữu cổ phiếu phổ thông của công ty mẹ</td><td>348.132.041.356</td><td>300.922.029.670</td></tr><tr><td>Bình quân gia quyền của số cổ phiếu phổ thông (không bao gồm cổ phiếu quỹ) để tính lãi cơ bản trên cổ phiếu</td><td>219.999.780</td><td>219.999.780</td></tr><tr><td>Bình quân gia quyền của số cổ phiếu phổ thông (không bao gồm cổ phiếu quỹ) được điều chỉnh để tính lãi cơ bản trên cổ phiếu</td><td>219.999.780</td><td>219.999.780</td></tr><tr><td>Lãi trên cổ phiếu</td><td></td><td></td></tr><tr><td>Lãi cơ bản trên cổ phiếu</td><td>1.582</td><td>1.368</td></tr></table>
+
+Trong năm 2021, việc giả định thực hiện quyền chuyển đổi trái phiếu sang cổ phần phổ thông của Công ty có tác động suy giảm ngược làm tàng lãi trên cổ phiếu. Theo đó, Công ty và các Công ty con không trình bày ảnh hưởng suy giảm lãi trên cổ phiếu đối với cổ phiếu phổ thông tiềm năng này.
+
+Trong năm 2021, Công ty đã thực hiện chia cổ tức bằng cổ phiếu cho cổ đông hiện hữu từ lợi nhuận sau thuế chưa phân phối của năm 2020 theo Nghị quyết đại hội đồng cổ đông số 1606/2021/NQ-ĐHĐCĐ. Công ty đã điều chỉnh bình quân gia quyền của số cổ phiếu phổ thông để tính lãi cơ bản trên cổ phiếu cho số lượng cổ phiếu này.
+
+Không có các giao dịch cổ phiếu phổ thông hoặc giao dịch cổ phiếu phổ thông tiêm năng nào xảy ra từ ngày kết thúc kỳ kế toán năm đến ngày hoàn thành báo cáo tài chính hợp nhất này.
+
+54
+
+===== PAGE 57 =====
+Công ty Cổ phần Đầu tư Văn Phú - Invest
+
+B09-DN/HN
+
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+
+vào ngày 31 tháng 12 năm 2021 và cho năm tài chính kết thúc cùng ngày
+
+32. CÁC CAM KẾT VÀ NỘ TIỂM TÀNG
+
+Các cam kết liên quan đến chi phí đầu tư phát triển các dự án bất động sản
+
+Công ty và các Công ty con đã ký kết các hợp đồng liên quan đến việc triển khai dự án bất động sản của Công ty. Tổng số vốn cam kết theo những hợp đồng này tại ngày 31 tháng 12 năm 2021 ước tính là 533,4 tỷ VND.
+
+Các cam kết về xây dựng khác
+
+Theo Hợp đồng Xây dựng - Chuyển giao Dự án đầu tư xây dựng đoạn tuyến kết nối từ đường Phạm Văn Đồng đến nút giao thông Gò Dưa – Quốc lộ 1, quận Thủ Đức giữa Ủy ban nhân dân thành phố Hồ Chí Minh và liên danh Công ty, Công ty Cổ phần Đầu tư HNS Việt Nam và Công ty Cổ phần Tư vấn Đầu tư Xây dựng Bắc Ái, tổng giá trị đầu tư ước tính còn phải thực hiện tại ngày 31 tháng 12 năm 2021 là 654 tỷ VND.
+
+Cam kết thuê đất và thuê hoạt động
+
+Công ty có cam kết thuê đất và 2 tòa Dự án Khu dịch vụ căn hộ khách sạn Hồ Tây theo hợp đồng thuê có thời hạn từ tháng 2 năm 2016 đến tháng 9 năm 2064. Chi tiết khoản phải trả theo cam kết thuê đất và thuê hoạt động này như sau:
+
+<table><tr><td rowspan="2"></td><td rowspan="2">Số cuối năm</td><td>Đơn vị tính: VND</td></tr><tr><td>Số đầu năm</td></tr><tr><td>Dưới 1 năm</td><td>4.347.715.662</td><td>2.005.850.320</td></tr><tr><td>Từ 1 - 5 năm</td><td>29.204.470.676</td><td>31.540.840.538</td></tr><tr><td>Trên 5 năm</td><td>495.511.961.630</td><td>511.006.846.430</td></tr><tr><td>TỔNG CỘNG</td><td>529.064.147.968</td><td>544.553.537.288</td></tr></table>
+
+Cam kết theo hợp đồng hỗ trợ lãi suất
+
+Công ty và các công ty con đã ký kết một số thỏa thuận ba (3) bên với các khách hàng mua căn hộ tại dự án bất động sản của Công ty và một số ngân hàng cho các khách hàng mua căn hộ này vay, để thanh toán giá trị theo hợp đồng mua bất động sản. Theo thỏa thuận này, ngân hàng sẽ cho khách hàng vay để thanh toán tiền mua căn hộ tại dự án bất động sản trên và Công ty và các công ty con sẽ hỗ trợ khách hàng thông qua việc thanh toán lãi vay tương ứng với lãi suất của ngân hàng tại từng thời điểm.
+
+Cam kết đầu tư góp vốn
+
+Công ty có cam kết góp vốn tại một số công ty như được trình bày tại Thuyết minh số 1 và Thuyết minh số 14. Tại ngày 31 tháng 12 năm 2021, tổng giá trị khoản cam kết góp vốn còn lại của Công ty trong các công ty này là 76,2 tỷ VND.
+
+55
+
+===== PAGE 58 =====
+Công ty Cổ phần Đầu tư Văn Phú - Invest
+
+B09-DN/HN
+
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+
+vào ngày 31 tháng 12 năm 2021 và cho năm tài chính kết thúc cùng ngày
+
+33. THÔNG TIN BÓ SUNG VỀ BÁO CÁO LƯU CHUYÊN TIỀN TỆ HỢP NHẤT
+
+<table><tr><td rowspan="2"></td><td rowspan="2">Năm nay</td><td>Đơn vị tính: VND</td></tr><tr><td>Năm trước</td></tr><tr><td colspan="3">Số tiền đi vay thực thu trong năm</td></tr><tr><td>Tiền thu từ đi vay theo khế ước thông thường</td><td>992.617.220.245</td><td>1.118.073.934.409</td></tr><tr><td>Tiền thu từ phát hành trái phiếu thường</td><td>425.740.497.219</td><td>572.924.177.330</td></tr><tr><td>Tiền thu từ phát hành trái phiếu chuyển đổi Trong đó:</td><td>688.697.771.182</td><td>-</td></tr><tr><td>Tiền thu từ phát hành trái phiếu tương ứng cấu phần vốn</td><td>90.496.534.831</td><td></td></tr><tr><td>Tiền thu từ phát hành trái phiếu tương ứng cấu phần nợ</td><td>598.201.236.351</td><td></td></tr></table>
+
+34. CÁC SỰ KIỆN PHÁT SINH SAU NGÀY KẾT THỨC KỸ KẾ TOÁN NĂM
+
+Không có sự kiện nào phát sinh sau ngày kết thúc ký kế toán năm yêu cầu phải được điều chỉnh hay trình bày trong báo cáo tài chính hợp nhất của Công ty và các công ty con.
+
+Hà Nội, Việt Nam
+
+Ngày 30 tháng 3 năm 2022
+
+56

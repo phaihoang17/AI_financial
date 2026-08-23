@@ -1,0 +1,2249 @@
+===== PAGE 1 =====
+CÔNG TY CỔ PHẦN TẬP ĐOÀN C.E.O
+
+BÁO CÁO TÀI CHÍNH HỢP NHẤT ĐÃ ĐƯỢC KIỂM TOÁN
+
+CHO NĂM TÀI CHÍNH KẾT THỨC NGÀY 31 THÁNG 12 NĂM 2016
+
+Hà Nội, tháng 2 năm 2017
+
+===== PAGE 2 =====
+CÔNG TY CỔ PHẦN TẬP ĐOÀN C.E.O
+
+Tàng 5, Tháp CEO, HH2-1, Đô thị mới Mễ Trì Hạ, Quận Nam Từ Liêm, Thành phố Hà Nội
+
+MỤC LỤC
+
+<table><tr><td></td><td>TRANG</td></tr><tr><td>BÁO CÁO CỦA BAN TỔNG GIÁM ĐỐC</td><td>2 - 3</td></tr><tr><td>BÁO CÁO KIỂM TOÁN ĐỘC LẬP</td><td>4 - 5</td></tr><tr><td>BÀNG CÂN Đ&lt;|box_end|&gt;&lt;|ref_start|&gt; KẾ TOÁN HỢP NHẤT</td><td>6 - 7</td></tr><tr><td>BÁO CÁO KẾT QUẢ HOẠT ĐỘNG KINH DOANH HỢP NHẤT</td><td>8</td></tr><tr><td>BÁO CÁO LUÙ CHUYỄN TIỀN TỆ HỢP NHẤT</td><td>9</td></tr><tr><td>THUYÊT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT</td><td>10 - 61</td></tr></table>
+
+1
+
+\( x^{2}+y^{2}=r^{2} \)
+
+\( \therefore {S}_{\Delta APQ} = {S}_{\Delta AQP} + {S}_{\Delta QPQ} \)
+
+===== PAGE 3 =====
+CÔNG TY CỔ PHẦN TẬP ĐOÀN C.E.O
+
+Tầng 5, Tháp CEO, HH2-1, Đô thị mới Mễ Trì Hạ, Quận Nam Từ Liêm, Thành phố Hà Nội
+
+BÁO CÁO CỦA BAN TỔNG GIÁM ĐỐC
+
+Ban Tổng Giám đốc Công ty Cổ phần Tập đoàn C.E.O và các công ty con (gọi tất là “Tập đoàn”) hệ trình báo cáo này cùng với Báo cáo tài chính hợp nhất của Tập đoàn cho năm tài chính kết thúc ngày 31 tháng 12 năm 2016.
+
+HỘI ĐỒNG QUẢN TRỊ VÀ BAN TỔNG GIÁM ĐỐC
+
+Các thành viên của Hội đồng Quản trị và Ban Tổng Giám đốc Tập đoàn đã điều hành Tập đoàn trong năm và đến ngày lập Báo cáo tài chính hợp nhất này gồm:
+
+Hội đồng Quản trị
+
+<table><tr><td>Ông Đoàn Văn Bình</td><td>Chủ tịch</td></tr><tr><td>Bà Phạm Thị Mai Lan</td><td>Phó Chủ tịch</td></tr><tr><td>Ông Lưu Đức Quang</td><td>Thành viên</td></tr><tr><td>Ông Tạ Văn Tố</td><td>Thành viên</td></tr><tr><td>Bà Vũ Thị Lan Anh</td><td>Thành viên</td></tr></table>
+
+Ban Tổng Giám đốc
+
+<table><tr><td>Ông Tạ Văn Tổ</td><td>Tổng Giám đốc</td></tr><tr><td>Bà Vũ Thị Lan Anh</td><td>Phó Tổng Giám đốc</td></tr><tr><td>Ông Cao Văn Kiên</td><td>Phó Tổng Giám đốc</td></tr><tr><td>Ông Trần Đạo Đức</td><td>Phó Tổng Giám đốc (bổ nhiệm ngày 05 tháng 08 năm 2016)</td></tr></table>
+
+TRÁCH NHIỆM CỦA BAN TỔNG GIÁM ĐỐC
+
+Ban Tổng Giám đốc Tập đoàn có trách nhiệm lập Báo cáo tài chính hợp nhất phân ánh một cách trung thực và hợp lý tinh hình tài chính cũng như kết quả hoạt động kinh doanh và tinh hình lưu chuyển tiền tệ của Tập đoàn trong năm, phù hợp với Chuẩn mực kế toán, Chế độ kế toán doanh nghiệp Việt Nam và các quy định pháp lý có liên quan đến việc lập và trình bày Báo cáo tài chính hợp nhất. Trong việc lập các Báo cáo tài chính hợp nhất này, Ban Tổng Giám đốc được yêu cầu phải:
+
+- Lựa chọn các chính sách kế toán thích hợp và áp dụng các chính sách đó một cách nhất quán;
+
+• Đưa ra các xét đoán và ước tính một cách hợp lý và thận trọng;
+
+- Nếu rõ các nguyên tắc kế toán thích hợp có được tuân thủ hay không, có những áp dụng sai lệch trọng yếu cần được công bố và giải thích trong Báo cáo tài chính hợp nhất hay không;
+
+- Lập Báo cáo tài chính hợp nhất trên cơ sở hoạt động liên tục trừ trường hợp không thể cho rằng Tập đoàn sẽ tiếp tục hoạt động kinh doanh; và
+
+- Thiết kế và thực hiện hệ thống kiểm soát nội bộ một cách hữu hiệu cho mục đích lập và trình bày Báo cáo tài chính hợp nhất hợp lý nhằm hạn chế rủi ro và gian lận.
+
+Ban Tổng Giám đốc Tập đoàn chịu trách nhiệm đảm bảo rằng số sách kế toán được ghi chép một cách phù hợp để phản ánh một cách hợp lý tinh hình tài chính của Tập đoàn ở bất kỳ thời điểm nào và đảm bảo rằng Báo cáo tài chính hợp nhất tuân thủ các Chuẩn mực kế toán, Chế độ kế toán doanh nghiệp Việt Nam và các quy định pháp lý có liên quan đến việc lập và trình bày Báo cáo tài chính hợp nhất.
+
+2
+
+11.07 28.6.14
+
+\( \therefore {a}_{1} =  - 1 \)
+
+===== PAGE 4 =====
+CÔNG TY CỔ PHẦN TẬP ĐOÀN C.E.O
+
+Tàng 5, Tháp CEO, HH2-1, Đô thị mới Mễ Trì Hạ, Quận Nam Từ Liêm, Thành phố Hà Nội
+
+BÁO CÁO CỦA BAN TỔNG GIÁM ĐỐC (TIẾP THEO)
+
+TRÁCH NHIỆM CỦA BAN TỔNG GIÁM ĐỐC (TIẾP THEO)
+
+Ban Tổng Giám đốc cũng chịu trách nhiệm đảm bảo an toàn cho tài sản của Tập đoàn và thực hiện các biện pháp thích hợp để ngăn chắn và phát hiện các hành vi gian lập và sai phạm khác.
+
+Ban Tổng Giám đốc xác nhận rằng Tập đoàn đã tuân thủ các yêu cầu nêu trên trong việc lập Báo cáo tài chính hợp nhất.
+
+Thay mặt và đại diện cho Ban Tổng Giám đốc,
+
+Tông Giám đốc
+
+Hà Nội, ngày 25 tháng 02 năm 2017
+
+3
+
+===== PAGE 5 =====
+IFC
+
+CÔNG TY TNHH KIỂM TOÁN VÀ TƯ VÂN TÀI CHÍNH QUỐC TẾ
+International Auditing and Financial Consulting Company Limited
+
+Địa chỉ: Tắng 15, Tòa nhà Center Building - Hapulico Complex, Số 1 Nguyễn Huy Tường, Q. Thanh Xuân, Hà Nội Address: 15\( ^{th} \) Floor, Center Building - Hapulico Complex, No. 1 Nguyen Huy Tuong Str., Thanh Xuan Dist., Hanoi Tel: + 84 (4) 666 42 777 Fax: + 84 (4) 666 43 777 Email: ifc@ifcvietnam.com.vn Website: www.ifcvietnam.com.vn
+
+Số: 35.02/2017/BCKT-IFC
+
+BÁO CÁO KIỂM TOÁN ĐỘC LẬP
+
+Kính gửi:
+
+Quý Cổ đông
+
+Hội đồng Quản trị và Ban Tổng Giám đốc
+
+Công ty Cổ phần Tập đoàn C.E.O
+
+Chứng tôi đã kiểm toán báo cáo tài chính hợp nhất kèm theo của Công ty Cổ phần Tập đoàn C.E.O (gọi tất là “Tập đoàn”), được lập ngày 25 tháng 02 năm 2017, từ trang 6 đến trang 61, bao gồm Bảng cân đối kế toán hợp nhất tại ngày 31 tháng 12 năm 2016, Báo cáo kết quả hoạt động kinh doanh hợp nhất, Báo cáo lưu chuyển tiền tệ hợp nhất cho năm tài chính kết thúc cùng ngày và Bản thuyết minh báo cáo tài chính hợp nhất.
+
+Trách nhiệm của Ban Tổng Giám đốc
+
+Ban Tổng Giám đốc Công ty Cổ phần Tập đoàn C.E.O chịu trách nhiệm lập và trình bày trung thực và hợp lý báo cáo tài chính hợp nhất theo Chuẩn mực kế toán, Chế độ kế toán doanh nghiệp Việt Nam và các quy định pháp lý có liên quan đến việc lập và trình bày báo cáo tài chính hợp nhất và chịu trách nhiệm về kiểm soát nội bộ mà Ban Tổng Giám đốc xác định là cần thiết để đảm bảo việc lập và trình bày báo cáo tài chính hợp nhất không có sai sót trọng yếu do gian lận hoặc nhằm lẫn.
+
+Trách nhiệm của Kiểm toán viên
+
+Trách nhiệm của chúng tôi là đưa ra ý kiến về báo cáo tài chính hợp nhất dựa trên kết quả của cuộc kiểm toán. Chúng tôi đã tiến hành kiểm toán theo các chuẩn mục kiểm toán Việt Nam. Các chuẩn mục này yêu cầu chúng tôi tuân thủ chuẩn mục và các quy định về đạo đức nghề nghiệp, lập kế hoạch và thực hiện cuộc kiểm toán để đạt được sự đảm bảo hợp lý về việc liệu báo cáo tài chính hợp nhất của Tập đoàn có còn sai sót trọng yếu hay không.
+
+Công việc kiểm toán bao gồm thực hiện các thủ tục nhằm thu thập các bằng chứng kiểm toán về các số liệu và thuyết minh trên báo cáo tài chính hợp nhất. Các thủ tục kiểm toán được lựa chọn dựa trên xét đoán của kiểm toán viên, bao gồm đánh giá rủi ro có sai sót trọng yếu trong báo cáo tài chính hợp nhất do gian lập hoặc nhằm lẫn. Khi thực hiện đánh giá các rủi ro này, kiểm toán viên đã xem xét kiểm soát nội bộ của Tập đoàn liên quan đến việc lập và trình bày báo cáo tài chính hợp nhất trung thực, hợp lý nhằm thiết kế các thủ tục kiểm toán phù hợp với tính hình thực tế, tuy nhiên không nhằm mục đích đưa ra ý kiến về hiệu quả của kiểm soát nội bộ của Tập đoàn. Công việc kiểm toán cũng bao gồm đánh giá tính thích hợp của các chính sách kế toán được áp dụng và tính hợp lý của các ước tính kế toán của Ban Tổng Giám đốc cũng như đánh giá việc trình bày tổng thể báo cáo tài chính hợp nhất.
+
+Chúng tôi tin tưởng rằng các bằng chứng kiểm toán mà chúng tôi đã thu thập được là đầy đủ và thích hợp làm cơ sở cho ý kiến kiểm toán của chúng tôi.
+
+agn INTERNATIONAL
+
+Thành viên hăng agn International / Member Firm of agn International
+
+Kiểm toán/Audit. Kế toán/Accounting. Tư vấn thuế/Tax Consulting. Tài chính/Finance
+
+4
+
+===== PAGE 6 =====
+BÁO CÁO KIỂM TOÁN ĐỘC LẬP (TIẾP THEO)
+
+Ý kiến của Kiểm toán viên
+
+Theo ý kiến của chúng tôi, báo cáo tài chính hợp nhất đã phản ánh trung thực và hợp lý, trên các khía cạnh trọng yếu, tình hình tài chính của Tập đoàn tại ngày 31 tháng 12 năm 2016, cũng như kết quả hoạt động kinh doanh và tình hình lưu chuyển tiền tệ cho năm tài chính kết thúc cùng ngày, phù hợp với Chuẩn mực kế toán, Chế độ kế toán doanh nghiệp Việt Nam và các quy định pháp lý có liên quan đến việc lập và trình bày báo cáo tài chính hợp nhất.
+
+Các vấn đề cần nhân mạnh
+
+Chúng tôi lưu ý người đọc đến Thuyết minh V.2 và VI.1- Thuyết minh báo cáo tài chính hợp nhất, trong đó mô tả nguyên nhân biến động của khoản phải thu ngắn hạn của khách hàng tại ngày 31 tháng 12 năm 2016 và Doanh thu bán hàng và cung cấp dịch vụ năm 2016 của Tập đoàn.
+
+Chủng tôi lưu ý người độc đến Thuyết minh số V.4 - Thuyết minh báo cáo tài chính hợp nhất, trong đó mô tả chi tiết số dư phải thu về cho vay ngắn hạn của Tập đoàn tại ngày 31 tháng 12 năm 2016.
+
+Ý kiến của kiểm toán viên không bị thay đổi do ảnh hưởng của các vấn đề cần nhân mạnh nếu trên.
+
+Nguyễn Nam Cường
+
+Phó Tổng Giám đốc
+
+Chứng nhận đăng ký hành nghề
+
+kiểm toán số 1950-2013-072-1
+
+Thay mặt và đại diện cho
+
+Công ty TNHH Kiểm toán và Tư vấn
+
+Tài chính Quốc tế (IFC)
+
+Hà Nội, ngày 25 tháng 02 năm 2017
+
+Uthra
+
+Nguyễn Thị Thanh Hoa
+
+Kiểm toán viên
+
+Chứng nhận đăng ký hành nghề
+
+kiêm toán số 1402-2013-072-1
+
+5
+
+VII
+
+1-1 74. 400 [u]
+
+===== PAGE 7 =====
+CÔNG TY CỔ PHẦN TẬP ĐOÀN C.E.O
+
+Tàng 5, Tháp CEO, HH2-1, Độ thị mới Mễ Trì Hạ
+
+Quận Nam Từ Liêm, thành phố Hà Nội
+
+BÁO CÁO TÀI CHÍNH HỢP NHẤT
+
+Cho năm tài chính kết thúc
+
+ngày 31 tháng 12 năm 2016
+
+BẢNG CÂN ĐỐI KẾ TOÁN HỢP NHẤT
+
+Tại ngày 31 tháng 12 năm 2016
+
+MÃU SÓ B 01 - DN/HN
+
+Đơn vị: VND
+
+<table><tr><td>TÀI SẢN</td><td>Mã số</td><td>Thuyết minh</td><td>31/12/2016</td><td>01/01/2016</td></tr><tr><td>A. TÀI SẢN NGĂN HẠN</td><td>100</td><td></td><td>2.074.641.514.944</td><td>1.525.430.924.647</td></tr><tr><td>I. Tiền và các khoản tương đương tiền</td><td>110</td><td>V.1</td><td>121.150.408.600</td><td>44.726.779.101</td></tr><tr><td>1. Tiền</td><td>111</td><td></td><td>110.150.408.600</td><td>40.517.903.545</td></tr><tr><td>2. Các khoản tương đương tiền</td><td>112</td><td></td><td>11.000.000.000</td><td>4.208.875.556</td></tr><tr><td>II. Đầu tư tài chính ngắn hạn</td><td>120</td><td></td><td>510.000.000</td><td>10.000.000</td></tr><tr><td>1. Chứng khoán kinh doanh</td><td>121</td><td></td><td>24.400.000</td><td>24.400.000</td></tr><tr><td>2. Dự phòng giảm giá chứng khoán kinh doanh</td><td>122</td><td></td><td>(14.400.000)</td><td>(14.400.000)</td></tr><tr><td>3. Đầu tư nằm giữ đến ngày đáo hạn</td><td>123</td><td></td><td>500.000.000</td><td>-</td></tr><tr><td>III. Các khoản phải thu ngắn hạn</td><td>130</td><td></td><td>1.326.311.209.468</td><td>649.898.228.175</td></tr><tr><td>1. Phải thu ngắn hạn của khách hàng</td><td>131</td><td>V.2a</td><td>718.843.927.327</td><td>381.809.451.906</td></tr><tr><td>2. Trả trước cho người bán ngắn hạn</td><td>132</td><td>V.3</td><td>109.074.059.150</td><td>225.744.622.080</td></tr><tr><td>3. Phải thu về cho vay ngắn hạn</td><td>135</td><td>V.4</td><td>271.800.000.000</td><td>34.200.000.000</td></tr><tr><td>4. Phải thu ngắn hạn khác</td><td>136</td><td>V.5a</td><td>226.339.985.904</td><td>8.380.724.189</td></tr><tr><td>5. Dự phòng phải thu ngắn hạn khó đòi</td><td>137</td><td></td><td>(381.570.000)</td><td>(236.570.000)</td></tr><tr><td>6. Tài sản thiếu chờ xử lý</td><td>139</td><td></td><td>634.807.087</td><td>-</td></tr><tr><td>IV. Hàng tồn kho</td><td>140</td><td></td><td>609.916.571.175</td><td>753.067.993.470</td></tr><tr><td>1. Hàng tồn kho</td><td>141</td><td>V.7</td><td>609.916.571.175</td><td>753.067.993.470</td></tr><tr><td>V. Tài sản ngắn hạn khác</td><td>150</td><td></td><td>16.753.325.701</td><td>77.727.923.901</td></tr><tr><td>1. Chi phí trả trước ngắn hạn</td><td>151</td><td>V.6a</td><td>3.180.418.305</td><td>8.765.682.388</td></tr><tr><td>2. Thuế GTGT được khấu trừ</td><td>152</td><td></td><td>13.569.438.212</td><td>64.225.361.309</td></tr><tr><td>3. Thuế và các khoản khác phải thu Nhà nước</td><td>153</td><td></td><td>3.469.184</td><td>36.880.204</td></tr><tr><td>4. Tài sản ngắn hạn khác</td><td>155</td><td></td><td>-</td><td>4.700.000.000</td></tr><tr><td>B. TÀI SẢN DÀI HẠN</td><td>200</td><td></td><td>1.759.907.684.306</td><td>1.085.125.394.248</td></tr><tr><td>I. Các khoản phải thu dài hạn</td><td>210</td><td></td><td>26.961.989.100</td><td>27.418.016.445</td></tr><tr><td>1. Phải thu dài hạn của khách hàng</td><td>211</td><td>V.2b</td><td>1.347.362.135</td><td>1.347.362.135</td></tr><tr><td>2. Phải thu dài hạn khác</td><td>216</td><td>V.5b</td><td>26.961.989.100</td><td>27.418.016.445</td></tr><tr><td>3. Dự phòng phải thu dài hạn khó đòi</td><td>219</td><td></td><td>(1.347.362.135)</td><td>(1.347.362.135)</td></tr><tr><td>II. Tài sản cố định</td><td>220</td><td></td><td>1.105.819.382.942</td><td>44.728.603.669</td></tr><tr><td>1. Tài sản cố định hữu hình</td><td>221</td><td>V.8</td><td>1.036.989.624.635</td><td>44.575.772.264</td></tr><tr><td>- Nguyên giá</td><td>222</td><td></td><td>1.084.172.336.615</td><td>62.880.003.730</td></tr><tr><td>- Giá trị hao mòn luỹ kế</td><td>223</td><td></td><td>(47.182.711.980)</td><td>(18.304.231.466)</td></tr><tr><td>2. Tài sản cố định vô hình</td><td>227</td><td>V.9</td><td>68.829.758.307</td><td>152.831.405</td></tr><tr><td>- Nguyên giá</td><td>228</td><td></td><td>71.774.136.981</td><td>700.933.346</td></tr><tr><td>- Giá trị hao mòn luỹ kế</td><td>229</td><td></td><td>(2.944.378.674)</td><td>(548.101.941)</td></tr><tr><td>III. Bất động sản đầu tư</td><td>230</td><td>V.10</td><td>154.809.833.998</td><td>158.674.784.780</td></tr><tr><td>- Nguyên giá</td><td>231</td><td></td><td>182.221.255.747</td><td>182.253.563.929</td></tr><tr><td>- Giá trị hao mòn luỹ kế</td><td>232</td><td></td><td>(27.411.421.749)</td><td>(23.578.779.149)</td></tr><tr><td>IV. Tài sản dở dang dài hạn</td><td>240</td><td></td><td>191.585.684.191</td><td>732.489.819.777</td></tr><tr><td>1. Chi phí xây dựng cơ bản dở dang</td><td>242</td><td>V.11</td><td>191.585.684.191</td><td>732.489.819.777</td></tr><tr><td>V. Đầu tư tài chính dài hạn</td><td>250</td><td></td><td>1.600.000.000</td><td>-</td></tr><tr><td>1. Đầu tư góp vốn vào đơn vị khác</td><td>253</td><td>V.12</td><td>1.600.000.000</td><td>-</td></tr><tr><td>VI. Tài sản dài hạn khác</td><td>260</td><td></td><td>279.130.794.075</td><td>121.814.169.577</td></tr><tr><td>1. Chi phí trả trước dài hạn</td><td>261</td><td>V.6b</td><td>90.035.555.998</td><td>45.936.803.992</td></tr><tr><td>2. Tài sản thuế thu nhập hoãn lại</td><td>262</td><td></td><td>8.232.470.955</td><td>6.347.477.331</td></tr><tr><td>3. Lợi thế thương mại</td><td>269</td><td>V.13</td><td>180.862.767.122</td><td>69.529.888.254</td></tr><tr><td>TỔNG CỘNG TÀI SẢN</td><td>270</td><td></td><td>3.834.549.199.250</td><td>2.610.556.318.895</td></tr></table>
+
+Các thuyết minh từ trang 10 đến trang 61 là một bộ phận hợp thành của Báo cáo tài chính hợp nhất
+
+6
+
+===== PAGE 8 =====
+CÔNG TY CỔ PHẦN TẬP ĐOÀN C.E.O
+
+Tàng 5, Tháp CEO, HH2-1, Đô thị mới Mễ Trì Hạ
+
+Quận Nam Từ Liêm, thành phố Hà Nội
+
+BÁO CÁO TÀI CHÍNH HỢP NHẤT
+
+Cho năm tài chính kết thúc
+
+ngày 31 tháng 12 năm 2016
+
+BẢNG CÂN ĐỐI KẾ TOÁN HỢP NHẤT (TIẾP THEO)
+
+Tại ngày 31 tháng 12 năm 2016
+
+MÃU SÓ B 01 - DN/HN
+
+Don vi: VND
+
+<table><tr><td>NGUỒN VỐN</td><td>Mã số</td><td>Thuyết minh</td><td>31/12/2016</td><td>01/01/2016</td></tr><tr><td>C. NỘ PHẢI TRẢ</td><td>300</td><td></td><td>2.267.972.420.308</td><td>1.521.966.646.150</td></tr><tr><td>I. Nợ ngắn hạn</td><td>310</td><td></td><td>1.220.200.386.810</td><td>630.514.062.335</td></tr><tr><td>1. Phải trả người bán ngắn hạn</td><td>311</td><td>V.14</td><td>151.417.470.673</td><td>93.564.212.095</td></tr><tr><td>2. Người mua trả tiền trước ngắn hạn</td><td>312</td><td>V.16</td><td>401.652.584.444</td><td>171.449.959.991</td></tr><tr><td>3. Thuế và các khoản phải nộp Nhà nước</td><td>313</td><td>V.15</td><td>98.316.283.389</td><td>39.700.502.798</td></tr><tr><td>4. Phải trả người lao động</td><td>314</td><td></td><td>10.567.912.085</td><td>9.634.757.365</td></tr><tr><td>5. Chi phí phải trả ngắn hạn</td><td>315</td><td>V.17a</td><td>27.641.370.862</td><td>24.827.690.533</td></tr><tr><td>6. Doanh thu chưa thực hiện ngắn hạn</td><td>318</td><td>V.18a</td><td>14.213.552.946</td><td>605.921.410</td></tr><tr><td>7. Phải trả ngắn hạn khác</td><td>319</td><td>V.19a</td><td>81.796.935.343</td><td>58.964.597.806</td></tr><tr><td>8. Vay và nợ thuê tài chính ngắn hạn</td><td>320</td><td>V.20</td><td>395.643.645.445</td><td>217.272.514.517</td></tr><tr><td>9. Dự phòng phải trả ngắn hạn</td><td>321</td><td></td><td>1.688.943.850</td><td>-</td></tr><tr><td>10. Quỹ khen thưởng, phúc lợi</td><td>322</td><td></td><td>37.261.687.773</td><td>14.493.905.820</td></tr><tr><td>II. Nợ dài hạn</td><td>330</td><td></td><td>1.047.772.033.498</td><td>891.452.583.815</td></tr><tr><td>1. Chi phí phải trả dài hạn</td><td>333</td><td>V.17b</td><td>75.723.565.512</td><td>4.386.401.328</td></tr><tr><td>2. Doanh thu chưa thực hiện dài hạn</td><td>336</td><td>V.18b</td><td>112.907.399.131</td><td>140.314.922.385</td></tr><tr><td>3. Phải trả dài hạn khác</td><td>337</td><td>V.19b</td><td>6.436.223.033</td><td>5.848.263.353</td></tr><tr><td>4. Vay và nợ thuê tài chính dài hạn</td><td>338</td><td>V.21</td><td>850.960.373.038</td><td>740.902.996.749</td></tr><tr><td>5. Thuế thu nhập hoãn lại phải trả</td><td>341</td><td></td><td>1.744.472.784</td><td>-</td></tr><tr><td>D. VỐN CHỦ SỞ HỮU</td><td>400</td><td>V.22</td><td>1.566.576.778.942</td><td>1.088.589.672.745</td></tr><tr><td>I. Vốn chủ sở hữu</td><td>410</td><td></td><td>1.566.576.778.942</td><td>1.088.589.672.745</td></tr><tr><td>1. Vốn góp của chủ sở hữu</td><td>411</td><td></td><td>1.029.359.940.000</td><td>686.239.960.000</td></tr><tr><td>- Cổ phiếu phổ thông có quyền biểu quyết</td><td>411a</td><td></td><td>1.029.359.940.000</td><td>686.239.960.000</td></tr><tr><td>2. Quỹ đầu tư phát triển</td><td>418</td><td></td><td>65.703.471.180</td><td>44.358.764.762</td></tr><tr><td>3. Quỹ khác thuộc vốn chủ sở hữu</td><td>420</td><td></td><td>-</td><td>18.214</td></tr><tr><td>4. Lợi nhuận sau thuế chưa phân phối</td><td>421</td><td></td><td>191.523.873.400</td><td>140.333.081.221</td></tr><tr><td>- LNST chưa phân phối lũy kế đến cuối năm trước</td><td>421a</td><td></td><td>34.540.876.886</td><td>900.817.452</td></tr><tr><td>- LNST chưa phân phối năm nay</td><td>421b</td><td></td><td>156.982.996.514</td><td>139.432.263.769</td></tr><tr><td>5. Lợi ích cổ đông không kiểm soát</td><td>429</td><td></td><td>279.989.494.362</td><td>217.657.848.548</td></tr><tr><td>TỔNG CỘNG NGUỒN VỐN</td><td>440</td><td></td><td>3.834.549.199.250</td><td>2.610.556.318.895</td></tr></table>
+
+Hoàng Thị Nhung
+
+Người lập
+
+Hà Nội, ngày 25 tháng 02 năm 2017
+
+Đỗ Thị Thơm
+
+Kế toán trường
+
+Tạ Văn Tố
+
+Tổng Giám đốc
+
+Các thuyết minh từ trang 10 đến trang 61 là một bộ phận hợp thành của Báo cáo tài chính hợp nhất
+
+7
+
+\( x^{2}+y^{2}=r^{2} \)
+
+===== PAGE 9 =====
+CÔNG TY CỔ PHẦN TẬP ĐOÀN C.E.O
+
+Tàng 5, Tháp CEO, HH2-1, Đô thị mới Mễ Trì Hạ
+
+Quận Nam Từ Liêm, thành phố Hà Nội
+
+BÁO CÁO TÀI CHÍNH HỢP NHẤT
+
+Cho năm tài chính kết thúc
+
+ngày 31 tháng 12 năm 2016
+
+BÁO CÁO KẾT QUẢ HOẠT ĐỘNG KINH DOANH HỢP NHẤT
+
+Cho năm tài chính kết thúc ngày 31 tháng 12 năm 2016
+
+MĂU SÓ B 02 - DN/HN
+
+Đơn vị: VND
+
+<table><tr><td>CHỈ TIÊU</td><td>Mã số</td><td>Thuyết minh</td><td>Năm 2016</td><td>Năm 2015</td></tr><tr><td>1. Doanh thu bán hàng và cung cấp dịch vụ</td><td>01</td><td>VI.1</td><td>1.607.465.171.797</td><td>639.404.204.539</td></tr><tr><td>2. Các khoản giảm trừ doanh thu</td><td>02</td><td>VI.1</td><td>197.030.902.149</td><td>-</td></tr><tr><td>3. Doanh thu thuần về bán hàng và cung cấp dịch vụ</td><td>10</td><td></td><td>1.410.434.269.648</td><td>639.404.204.539</td></tr><tr><td>4. Giá vốn hàng bán</td><td>11</td><td>VI.2</td><td>911.085.419.917</td><td>301.504.773.733</td></tr><tr><td>5. Lợi nhuận gộp về bán hàng và cung cấp dịch vụ</td><td>20</td><td></td><td>499.348.849.731</td><td>337.899.430.806</td></tr><tr><td>6. Doanh thu hoạt động tài chính</td><td>21</td><td>VI.3</td><td>12.324.745.559</td><td>6.185.797.118</td></tr><tr><td>7. Chi phí tài chính</td><td>22</td><td>VI.4</td><td>73.844.014.411</td><td>15.201.965.838</td></tr><tr><td>- Trong đó: Chi phí lãi vay</td><td>23</td><td></td><td>73.693.028.738</td><td>14.690.495.297</td></tr><tr><td>8. Phần lãi hoặc lỗ trong công ty liên doanh, liên kết</td><td>24</td><td></td><td>-</td><td>-</td></tr><tr><td>9. Chi phí bán hàng</td><td>25</td><td></td><td>34.242.182.310</td><td>8.717.040.323</td></tr><tr><td>10. Chi phí quản lý doanh nghiệp</td><td>26</td><td></td><td>101.843.525.031</td><td>49.574.787.145</td></tr><tr><td>11. Lợi nhuận thuần từ hoạt động kinh doanh</td><td>30</td><td></td><td>301.743.873.538</td><td>270.591.434.618</td></tr><tr><td>12. Thu nhập khác</td><td>31</td><td></td><td>1.734.915.451</td><td>654.941.149</td></tr><tr><td>13. Chi phí khác</td><td>32</td><td></td><td>3.090.388.133</td><td>4.579.205.323</td></tr><tr><td>14. Lợi nhuận khác</td><td>40</td><td></td><td>(1.355.472.682)</td><td>(3.924.264.174)</td></tr><tr><td>15. Tổng lợi nhuận kế toán trước thuế</td><td>50</td><td></td><td>300.388.400.856</td><td>266.667.170.444</td></tr><tr><td>16. Chi phí thuế TNDN hiện hành</td><td>51</td><td>VI.5</td><td>70.560.950.549</td><td>64.967.846.455</td></tr><tr><td>17. Thu nhập (Chi phí) thuế TNDN hoãn lại</td><td>52</td><td>VI.5</td><td>(140.520.840)</td><td>(3.926.673.411)</td></tr><tr><td>18. Lợi nhuận sau thuế thu nhập doanh nghiệp</td><td>60</td><td></td><td>229.967.971.147</td><td>205.625.997.400</td></tr><tr><td>19. Lợi nhuận sau thuế của công ty mẹ</td><td>61</td><td></td><td>156.982.996.514</td><td>139.432.263.769</td></tr><tr><td>20. Lợi nhuận sau thuế của cổ đông không kiểm soát</td><td>62</td><td></td><td>72.984.974.633</td><td>66.193.733.631</td></tr><tr><td>21. Lãi cơ bản trên cổ phiếu</td><td>70</td><td>VI.6</td><td>1.596</td><td>1.932</td></tr><tr><td>22. Lãi suy giảm trên cổ phiếu</td><td>71</td><td></td><td>1.596</td><td>1.932</td></tr></table>
+
+Hoàng Thị Nhung
+
+Người lập
+
+Hà Nội, ngày 25 tháng 02 năm 2017
+
+Đỗ Thị Thơm
+
+Kế toán trưởng
+
+Tạ Văn Tổ
+
+Tổng Giám đốc
+
+Các thuyết minh từ trang 10 đến trang 61 là một bộ phận hợp thành của Báo cáo tài chính hợp nhất
+
+8
+
+1.102 一、4+5 二、15
+
+\( \therefore m = \frac{3}{2} \)
+
+===== PAGE 10 =====
+CÔNG TY CÓ PHẦN TẬP ĐOÀN C.E.O
+
+Tàng 5, Tháp CEO, HH2-1, Đô thị mới Mễ Trì Hạ
+
+Quận Nam Từ Liêm, thành phố Hà Nội
+
+BÁO CÁO TÀI CHÍNH HỢP NHẤT
+
+Cho năm tài chính kết thúc
+
+ngày 31 tháng 12 năm 2016
+
+BÁO CÁO LƯU CHUYẾN TIỀN TỆ HỢP NHẤT
+
+(Theo phương pháp gián tiếp)
+
+Cho năm tài chính kết thúc ngày 31 tháng 12 năm 2016
+
+MĂU SÓ B 03 - DN/HN
+
+Đơn vị: VND
+
+<table><tr><td>CHỈ TIÊU</td><td>Mã số</td><td>Năm 2016</td><td>Năm 2015</td></tr><tr><td colspan="4">I. LƯU CHUYỀN TIỀN TỪ HOẠT ĐỘNG KINH DOANH</td></tr><tr><td>1. Lợi nhuận kế toán trước thuế</td><td>01</td><td>300.388.400.856</td><td>266.667.170.444</td></tr><tr><td>2. Điều chỉnh cho các khoản:</td><td></td><td></td><td></td></tr><tr><td>Khấu hao tài sản cố định và bất động sản đầu tư</td><td>02</td><td>36.009.886.514</td><td>24.395.456.943</td></tr><tr><td>Các khoản dự phòng</td><td>03</td><td>145.000.000</td><td>(100.000.000)</td></tr><tr><td>(Lãi)/Lỗ chênh lệch tỷ giá hồi đoái do đánh giá lại các khoản mục</td><td>04</td><td>(150.515.920)</td><td>485.387.317</td></tr><tr><td>tiền tệ có gốc ngoại tệ</td><td></td><td></td><td></td></tr><tr><td>(Lãi)/Lỗ từ hoạt động đầu tư</td><td>05</td><td>(12.537.646.922)</td><td>(6.063.286.152)</td></tr><tr><td>Chi phí lãi vay</td><td>06</td><td>73.693.028.738</td><td>14.690.495.297</td></tr><tr><td>3. Lợi nhuận từ hoạt động kinh doanh trước thay đổi vốn lưu động</td><td>08</td><td>397.548.153.266</td><td>300.075.223.849</td></tr><tr><td>(Tăng)/Giảm các khoản phải thu</td><td>09</td><td>(538.601.436.756)</td><td>(304.751.158.697)</td></tr><tr><td>(Tăng)/Giảm hàng tồn kho</td><td>10</td><td>143.151.422.295</td><td>(275.607.478.447)</td></tr><tr><td>Tăng/(Giảm) các khoản phải trả</td><td>11</td><td>218.901.449.172</td><td>164.648.708.483</td></tr><tr><td>(Tăng)/Giảm chi phí trả trước</td><td>12</td><td>(38.513.487.923)</td><td>(8.966.355.058)</td></tr><tr><td>Tiền lãi vay đã trả</td><td>14</td><td>(72.061.500.746)</td><td>(13.077.023.128)</td></tr><tr><td>Thuế thu nhập doanh nghiệp đã nộp</td><td>15</td><td>(47.969.966.022)</td><td>(62.585.643.800)</td></tr><tr><td>Lưu chuyển tiền thuần từ hoạt động kinh doanh</td><td>20</td><td>62.454.633.286</td><td>(200.263.726.798)</td></tr><tr><td colspan="4">II. LƯU CHUYỀN TIỀN TỪ HOẠT ĐỘNG ĐẦU TƯ</td></tr><tr><td>1. Tiền chi để mua sắm, xây dựng TSCĐ và các TSHD khác</td><td>21</td><td>(343.964.528.682)</td><td>(691.348.795.504)</td></tr><tr><td>2. Tiền thu do thanh lý, nhượng bán TSCĐ và các TSDH khác</td><td>22</td><td>6.650.000.000</td><td>100.000.000</td></tr><tr><td>3. Tiền chi cho vay và mua công cụ nợ của các đơn vị khác</td><td>23</td><td>(633.885.000.000)</td><td>(610.452.340.000)</td></tr><tr><td>4. Tiền thu hồi cho vay, bán lại các công cụ nợ của đơn vị khác</td><td>24</td><td>430.785.000.000</td><td>634.977.340.000</td></tr><tr><td>5. Tiền thu lãi cho vay, cổ tức và lợi nhuận được chia</td><td>27</td><td>11.054.276.810</td><td>5.508.061.332</td></tr><tr><td>Lưu chuyển tiền thuần từ hoạt động đầu tư</td><td>30</td><td>(529.360.251.872)</td><td>(661.215.734.172)</td></tr><tr><td colspan="4">III. LƯU CHUYỀN TIỀN TỪ HOẠT ĐỘNG TÀI CHÍNH</td></tr><tr><td>1. Tiền thu từ phát hành cổ phiếu và nhận vốn góp của CSH</td><td>31</td><td>352.819.980.000</td><td>445.219.980.000</td></tr><tr><td>2. Tiền thu từ di vay</td><td>33</td><td>1.261.330.632.860</td><td>611.070.181.353</td></tr><tr><td>3. Tiền trả nợ gốc vay</td><td>34</td><td>(1.007.902.125.643)</td><td>(118.075.390.349)</td></tr><tr><td>4. Cổ tức, lợi nhuận đã trả cho chủ sở hữu</td><td>36</td><td>(62.925.596.400)</td><td>(72.782.696.800)</td></tr><tr><td>Lưu chuyển tiền thuần từ hoạt động tài chính</td><td>40</td><td>543.322.890.817</td><td>865.432.074.204</td></tr><tr><td>Lưu chuyển tiền thuần trong năm</td><td>50</td><td>76.417.272.231</td><td>3.952.613.234</td></tr><tr><td>Tiền và tương đương tiền đầu năm</td><td>60</td><td>44.726.779.101</td><td>40.768.091.246</td></tr><tr><td>Ảnh hưởng của thay đổi tỷ giá hồi đoái quy đổi ngoại tệ</td><td>61</td><td>6.357.268</td><td>6.074.621</td></tr><tr><td>Tiền và tương đương tiền cuối năm</td><td>70</td><td>121.150.408.600</td><td>44.726.779.101</td></tr></table>
+
+Hoàng Thị Nhung
+
+Người lập
+
+Hà Nội, ngày 25 tháng 02 năm 2017
+
+Đỗ Thị Thơm
+
+Kế toán trường
+
+Tổng Giám đốc
+
+Các thuyết minh từ trang 10 đến trang 61 là một bộ phận hợp thành của Báo cáo tài chính hợp nhất
+
+9
+
+11.2 47.3 50.1
+
+===== PAGE 11 =====
+CÔNG TY CỔ PHẦN TẬP ĐOÀN C.E.O
+
+Tàng 5, Tháp CEO, HH2-1, Đô thị mới Mễ Trì Hạ
+
+Quận Nam Từ Liêm, thành phố Hà Nội
+
+BÁO CÁO TÀI CHÍNH HỢP NHẤT
+
+Cho năm tài chính kết thúc
+
+ngày 31 tháng 12 năm 2016
+
+THUYÊT MINH BẢO CẢO TÀI CHÍNH HỢP NHẤT
+
+MẦU SỐ B 09 - DN/HN
+
+Các Thuyết minh này là một bộ phận hợp thành và cần được đọc đồng thời với Báo cáo tài chính hợp nhất
+
+I. THÔNG TIN KHÁI QUÁT
+
+Hình thức sở hữu vốn
+
+Công ty Cổ phần Tập đoàn C.E.O tiền thân là Công ty TNHH Thương mại, Xây dựng và Công nghệ Việt Nam được thành lập và hoạt động theo Giấy chứng nhận đăng ký kinh doanh số 0102003701 do Sở Kế hoạch và Đầu tư Thành phố Hà Nội cấp ngày 26 tháng 10 năm 2001. Công ty chuyển đổi thành Công ty Cổ phần Đầu tư C.E.O và hoạt động theo Giấy chứng nhận đăng ký kinh doanh số 0103016491 do Sở Kế hoạch và Đầu tư Thành phố Hà Nội cấp ngày 29 tháng 03 năm 2007, và các lần thay đổi. Từ ngày 27 tháng 05 năm 2015, Công ty chuyển đổi thành Công ty Cổ phần Tập đoàn C.E.O và hoạt động theo Giấy chứng nhận đăng ký kinh doanh số 0101183550 thay đổi lần thứ 16 do Sở Kế hoạch và Đầu tư Thành phố Hà Nội ngày 27 tháng 05 năm 2015.
+
+Ngày 29 tháng 09 năm 2014, Công ty chính thức niêm yết cổ phiếu tại Sở giao dịch chứng khoán Hà Nội với mã chứng khoán là CEO.
+
+Vốn điều lệ của Công ty theo Giấy chứng nhận đăng ký kinh doanh thay đổi lần thứ 19 do Sở Kế hoạch và Đầu tư thành phố Hà Nội cấp ngày 12 tháng 05 năm 2016 là 1.029.359.940.000 đồng. Tổng số cổ phần là 102.935.994 cổ phần, mệnh giá 10.000 đồng/cổ phần.
+
+Câu trúc Doanh nghiệp
+
+Tại thời điểm 31 tháng 12 năm 2016, Công ty Cổ phần Tập đoàn C.E.O có tất cả 12 công ty con. Cụ thể:
+
+<table><tr><td>ST T</td><td>Tên công ty con</td><td>Tỷ lệ sở hữu và quyền biểu quyết</td><td>Nơi thành lập và hoạt động</td><td>Hoạt động chính</td></tr><tr><td>1</td><td>Công ty TNHH C.E.O Quốc tế</td><td>100,00%</td><td>Hà Nội</td><td>Xây dựng nhà các loại, cung cấp dịch vụ ăn uống,</td></tr><tr><td>2</td><td>Công ty Cổ phần Xây dựng C.E.O</td><td>51,00%</td><td>Hà Nội</td><td>Xây dựng nhà, khu công nghiệp, kinh doanh bất</td></tr><tr><td>3</td><td>Công ty Cổ phần Phát triển dịch vụ C.E.O</td><td>51,00%</td><td>Hà Nội</td><td>XK lao động, đào tạo các ngành nghề kinh doanh bất động sản, ...</td></tr><tr><td>4</td><td>Trường Cao đẳng Đại Việt</td><td>100,00%</td><td>Bắc Ninh</td><td>Đào tạo các ngành kế toán DN sản xuất, DN</td></tr><tr><td>5</td><td>Công ty Cổ phần Đầu tư và phát triển Phú Quốc</td><td>60,00%</td><td>Kiên Giang</td><td>Kinh doanh khách sạn, resort, khu vui chơi, kinh doanh bất động sản...</td></tr><tr><td>6</td><td>Công ty Cổ phần Đầu tư BMC - CEO</td><td>87,76%</td><td>Hà Nội</td><td>Kinh doanh Bất động sản, xây dựng nhà, khung công nghiệp....</td></tr><tr><td>7</td><td>Công ty Cổ phần Du lịch C.E.O</td><td>51,00%</td><td>Hà Nội</td><td>Cung cấp dịch vụ nhà hàng ăn uống, tổ chức tour</td></tr><tr><td>8</td><td>Công ty Cổ phần Phát triển Nhà và Đô thị Phú Quốc</td><td>75,92%</td><td>Kiên Giang</td><td>Kinh doanh bất động sản quyền sử dụng đất...</td></tr><tr><td>9</td><td>Công TNHH Một thành viên Dịch vụ bảo vệ C.E.O</td><td>100,00%</td><td>Kiên Giang</td><td>Dịch vụ bảo vệ, vận tải hành khách, hàng hóa...</td></tr><tr><td>10</td><td>Công ty TNHH Một thành viên Khách sạn và Nghị dưỡng C.E.O</td><td>100,00%</td><td>Kiên Giang</td><td>Nhà hàng, dịch vụ lưu trú ngắn ngày...</td></tr><tr><td>11</td><td>Công ty TNHH MTV Hải Thi Phú Quốc (*)</td><td>60,00%</td><td>Kiên Giang</td><td>Kinh doanh hoạt động các cơ sở thể thao</td></tr><tr><td>12</td><td>Công ty TNHH MTV Xây dựng C.E.O Phú Quốc (**)</td><td>51,00%</td><td>Kiên Giang</td><td>Xây lắp nhà, khu công nghiệp, kinh doanh bất động sản, sửa chữa máy móc thiết bị</td></tr></table>
+
+(*) Công ty Cổ phần Đầu tư và phát triển Phú Quốc nấm giữ 100% vốn và quyền biểu quyết tại Công ty TNHH MTV Hải Thi Phú Quốc.
+
+(**) Công ty Cổ phần Xây dựng C.E.O nấm giữ 100% vốn và quyền biểu quyết tại Công ty TNHH MTV Xây dựng C.E.O Phú Quốc.
+
+10
+
+(2)  \( \angle 1 = \angle 3 \) 
+
+ \( 6.7 - 4 \)
+
+===== PAGE 12 =====
+CÔNG TY CỔ PHẦN TẬP ĐOÀN C.E.O
+
+Tàng 5, Tháp CEO, HH2-1, Đô thị mới Mễ Trì Hạ
+
+Quận Nam Từ Liêm, thành phố Hà Nội
+
+BÁO CÁO TÀI CHÍNH HỢP NHẤT
+
+Cho năm tài chính kết thúc
+
+ngày 31 tháng 12 năm 2016
+
+THUYÊT MINH BẢO CẢO TÀI CHÍNH HỢP NHẤT (TIẾP THEO)
+
+MÃU SÓ B 09 - DN/HN
+
+Các Thuyết minh này là một bộ phận hợp thành và cần được đọc đồng thời với Báo cáo tài chính hợp nhất
+
+I. THÔNG TIN KHÁI QUÁT (TIÉP THEO)
+
+Ngành nghề kinh doanh và hoạt động chính
+
+Hoạt động kinh doanh của Tập đoàn bao gồm:
+
+- Hoạt động kiến trúc và tư vấn kỹ thuật có liên quan
+
+Chi tiết: Quản lý dự án đầu tư xây dựng công trình; giám sát thi công xây dựng và hoàn thiện công trình dân dụng và công nghiệp; quy hoạch, thiết kế kiến trúc công trình; tư vấn khảo sát xây dựng; thiết kế kiến trúc công trình; thiết kế công trình hạ tầng kỹ thật; Thiết kế cấp thoát nước công trình xây dựng; Thiết kế hệ thống điện công trình dân dụng;
+
+- Hoạt động dịch vụ hỗ trợ trực tiếp cho vận tải đường sắt và đường bộ; Bán buôn đồ uống;
+
+- Bán buôn máy móc, thiết bị và phụ tùng khác: Chi tiết Bán buôn máy móc, thiết bị và phụ tùng máy ván phòng (trừ máy tính và thiết bị ngoại vi);
+
+- Bán buôn máy móc, thiết bị và phụ tùng máy khai khoáng, xây dựng, bán buôn máy móc, thiết bị điện, vật liệu điện (máy phát điện, động cơ điện, đầy điện và thiết bị khác dùng trong mạch điện), Bán buôn máy móc, thiết bị và phụ tùng máy đệt, máy may, da giầy, Bán buôn máy móc, thiết bị y tế;
+
+- Bán buôn nông, lâm sân nguyên liệu( trừ gỗ, tre, nứa) và động vật sống;
+
+- Dịch vụ chăm sóc và duy trì cảnh quan;
+
+- Sản xuất, truyền tải và phân phối điện;
+
+- Xây dựng các công trình đường bộ, đường sắt;
+
+- Khai thác đá, cát, sỏi, đất sét; khai thác quặng sắt;
+
+- Giáo dục mầm non; Giáo dục tiểu học; Giáo dục trung học cơ sở; Giáo dục trung học phổ thông; Giáo dục trung cấp chuyên nghiệp; Đạy nghề; Đào tạo Cao đẳng (chi hoạt động sau khi được cơ Quan Nhà nước có thẩm quyền cấp phép);
+
+- Sản giao dịch bất động sản; Quản lý bất động sản; Quảng cáo bất động sản; Đầu giá bất động sản (Chỉ hoạt động theo chứng chỉ hành nghề của người đại diện theo Phát luật); Định giá bất động sản; Môi giới bất động sản; Tư vấn bất động sản;
+
+- Đầu tư xây dựng và kinh doanh sân golf;
+
+Sản xuất linh kiện xe ô tô và các sản phẩm công nghiệp khác; sản xuất các thiết bị bưu chính, viễn thông, công nghệ thông tin, thiết bị điện (diện thoại, máy fax, phần cứng và phần mềm máy tính);
+
+Kinh doanh dịch vụ hội nghị, hội thảo, kinh doanh siêu thị, trung tâm thương mại, đầu tư kinh doanh cho thuê văn phòng;
+
+Đào tạo trình độ Đại học (Chỉ được hoạt động sau khi được cơ quan Nhà nước có thẩm quyền cho phép); đào tạo ngoại ngữ, tin học;
+
+Đầu tư xây dựng các công trình điện, nước, đầu tư xây dựng nhà, khu công nghiệp, khu du lịch và các khu vui chơi giải trí;
+
+Dịch vụ giao nhận hàng hóa, vận tải hàng hóa, vận chuyển hành khách, dịch thuật; Trang trí nội, ngoại thất;
+
+Sửa chữa, lắp đặt máy móc, thiết bị điện tử, điện, nước, sản phẩm cơ khí, viễn thông; xây dựng trong lĩnh vực bưu chính viễn thông; xây dựng dân dụng công nghiệp, giao thông, thủy lợi, cơ sở hạ tầng; Buôn bán trang thiết bị bưu chính, viễn thông;
+
+Tư vấn khảo sát xây dựng (Không bao gồm dịch vụ thiết kế công trình);
+
+Sản xuất vật liệu xây dựng, đồ gỗ nội thất, hàng thủ công mỹ nghệ, may mặc, giày dép;
+
+Lữ hành nội địa, quốc tế, kinh doanh khách sạn, nhà hàng bất động sản;
+
+Tư vấn, chuyển giao công nghệ trong lĩnh vực xây dựng, công nghiệp (Không bao gồm tư vấn pháp luật, tài chính, thuế, kiểm toán, kế toán, chứng khoán); và
+
+Đại lý mua, đại lý bán, ký gửi hàng hóa, tư vấn đầu tư;
+
+(Dối với những ngành nghề kinh doanh có điều kiện, doanh nghiệp chỉ hoạt động kinh doanh khi có đủ điều kiện theo quy định của Pháp luật).
+
+11
+
+===== PAGE 13 =====
+CÔNG TY CỔ PHẦN TẬP ĐOÀN C.E.O
+
+Tàng 5, Tháp CEO, HH2-1, Đô thị mới Mế Trì Hạ
+
+Quận Nam Từ Liêm, thành phố Hà Nội
+
+BÁO CÁO TÀI CHÍNH HỢP NHẤT
+
+Cho năm tài chính kết thúc
+
+ngày 31 tháng 12 năm 2016
+
+THUYẾT MINH BẢO CẢO TÀI CHÍNH HỢP NHẤT (TIẾP THEO)
+
+MĂU SÓ B 09 - DN/HN
+
+Các Thuyết minh này là một bộ phận hợp thành và cần được đọc đồng thời với Báo cáo tài chính hợp nhất
+
+I. THÔNG TIN KHÁI QUÁT (TIÉP THEO)
+
+Chu kỳ sản xuất, kinh doanh thông thường
+
+Chu kỳ sản xuất kinh doanh thông thường của hoạt động bắt động sản được thực hiện trong thời gian trên 12 tháng. Các hoạt động xây lắp và cung cấp dịch vụ khác có chu kỳ sản xuất kinh doanh thông thường không quá 12 tháng.
+
+II. CƠ SỞ LẬP BÁO CÁO TÀI CHÍNH HỢP NHẤT VÀ KỸ KẾ TOÁN
+
+Cơ sở lập Báo cáo tài chính hợp nhất
+
+Báo cáo tài chính hợp nhất kèm theo được trình bày bằng Đồng Việt Nam (VND), theo nguyên tắc giá gốc và phù hợp với các Chuẩn mực Kế toán Việt Nam, Hệ thống Kế toán Việt Nam và các quy định pháp lý có liên quan về việc lập và trình bày Báo cáo tài chính hợp nhất.
+
+Báo cáo tài chính hợp nhất kèm theo không nhằm phản ánh tình hình tài chính, kết quả hoạt động kinh doanh và tình hình lưu chuyển tiền tệ theo các nguyên tắc và thông lệ kế toán được chấp nhận chung tại các nước khác ngoài Việt Nam.
+
+Kỳ kế toán
+
+Năm tài chính của Tập đoàn bắt đầu từ ngày 01 tháng 01 và kết thúc vào ngày 31 tháng 12.
+
+III. ÁP DỤNG CHUẢN MỤC VÀ CHẾ ĐỘ KẾ TOÁN
+
+Tập đoàn áp dụng Chế độ Kế toán Việt Nam ban hành theo Thông tư 200/2014/TT-BTC ngày 22 tháng 12 năm 2014 và Thông tư số 202/2014/TT-BTC ngày 22 tháng 12 năm 2014 của Bộ trưởng Bộ Tài chính.
+
+Tập đoàn đã tuân thủ đầy đủ yêu cầu của Chuẩn mực Kế toán Việt Nam hiện hành trong việc lập và trình bày Báo cáo tài chính hợp nhất.
+
+Hình thức kế toán áp dụng: Kế toán máy.
+
+IV. TÓM TẮT CÁC CHÍNH SÁCH KẾ TOÁN CHỦ YẾU
+
+Sau đây là các chính sách kế toán chủ yếu được Tập đoàn áp dụng trong việc lập Báo cáo tài chính hợp nhất:
+
+Uốc tính kế toán
+
+Việc lập Báo cáo tài chính hợp nhất tuân thủ theo các Chuẩn mực Kế toán Việt Nam, Hệ thống Kế toán Việt Nam và các quy định hiện hành có liên quan tại Việt Nam yêu cầu Ban Tổng Giám đốc phải có những ước tính và giả định ảnh hưởng đến số liệu báo cáo về công nợ, tài sản và việc trình bày các khoản công nợ và tài sản tiềm tàng tại ngày lập Báo cáo tài chính hợp nhất cũng như các số liệu báo cáo về doanh thu và chi phí trong suốt kỳ hoạt động. Kết quả hoạt động kinh doanh thực tế có thể khác với các ước tính, giả định đặt ra.
+
+12
+
+//.1/5, = VXN
+
+J.S.W ★ Q.N
+
+===== PAGE 14 =====
+CÔNG TY CỔ PHẦN TẬP ĐOÀN C.E.O
+
+Tầng 5, Tháp CEO, HH2-1, Độ thị mới Mễ Trì Hạ
+
+Quận Nam Từ Liêm, thành phố Hà Nội
+
+BÁO CÁO TÀI CHÍNH HỢP NHẤT
+
+Cho năm tài chính kết thúc
+
+ngày 31 tháng 12 năm 2016
+
+THUYẾT MINH BẢO CẢO TÀI CHÍNH HỢP NHẤT (TIẾP THEO)
+
+MẦU SỐ B 09 - DN/HN
+
+Các Thuyết minh này là một bộ phận hợp thành và cần được đọc đồng thời với Báo cáo tài chính hợp nhất
+
+IV. TÓM TẮT CÁC CHÍNH SÁCH KẾ TOÁN CHỦ YẾU (TIẾP THEO)
+
+Cơ sở hợp nhất báo cáo tài chính
+
+Báo cáo tài chính hợp nhất được lập trên cơ sở hợp nhất các Báo cáo tài chính của Công ty mẹ - Công ty Cổ phần Tập đoàn C.E.O và các Báo cáo tài chính của các công ty do Công ty nằm quyền kiểm soát (các công ty con). Việc kiểm soát này đạt được khi Công ty có khả năng kiểm soát các chính sách tài chính và hoạt động của các công ty nhận đầu tư nhằm thu được lợi ích từ hoạt động của các công ty này.
+
+Kết quả hoạt động kinh doanh của các công ty con được mua lại hoặc bán di trong kỳ được trình bày trong Báo cáo Kết quả hoạt động kinh doanh hợp nhất từ ngày mua hoặc cho đến ngày bán khoản đầu tư ở công ty con đó.
+
+Trong trường hợp cần thiết, Báo cáo tài chính của các công ty con được điều chỉnh để các chính sách kế toán được áp dụng tại Công ty và các công ty con khác là giống nhau.
+
+Các giao dịch và số dư chủ yếu giữa Công ty với các công ty con và giữa các công ty con với nhau đã được loại bỏ khi hợp nhất Báo cáo tài chính, lãi/lỗ) chưa thực hiện phát sinh từ các giao dịch giữa các công ty trong nội bộ Công ty cũng đã được loại trừ trên Báo cáo tài chính hợp nhất.
+
+Lợi ích của cổ đông không kiểm soát trong tài sản thuần của công ty con hợp nhất được xác định là một chỉ tiêu riêng biệt tách khởi phần vốn chủ sở hữu của cổ đông của công ty mẹ. Lợi ích của cổ đông không kiểm soát bao gồm giá trị các lợi ích của cổ đông không kiểm soát tại ngày hợp nhất kinh doanh ban đầu (chi tiết xem nội dung trình bày dưới đây) và phần lợi ích của cổ đông không kiểm soát trong sự biến động của tổng vốn chủ sở hữu kể từ ngày hợp nhất kinh doanh. Các khoản lỗ tương ứng với phần vốn của cổ đông không kiểm soát vượt quá phần vốn của họ trong tổng vốn chủ sở hữu của công ty con được tính giảm vào phần lợi ích của Công ty trừ khi cổ đông không kiểm soát có nghĩa vụ ràng buộc và có khả năng bù đáp khoản lỗ đó.
+
+Hợp nhất kinh doanh
+
+Tài sản, công nợ và công nợ tiềm tàng của công ty con được xác định theo giá trị hợp lý tại ngày mua công ty con. Bất kỳ khoản phụ trội nào giữa giá mua và tổng giá trị hợp lý của tài sản được mua được ghi nhận là lợi thế kinh doanh. Bất kỳ khoản thiếu hụt nào giữa giá mua và tổng giá trị hợp lý của tài sản được mua được ghi nhận vào kết quả hoạt động kinh doanh của kỳ kế toán phát sinh hoạt động mua công ty con.
+
+Lợi ích của cổ đông không kiểm soát tại ngày hợp nhất kinh doanh ban đầu được xác định trên cơ sở tỷ lệ của cổ đông không kiểm soát trong tổng giá trị hợp lý của tài sản, công nợ và công nợ tiềm tàng được ghi nhận.
+
+Lợi thế thương mại
+
+Lợi thế thương mại trên Báo cáo tài chính hợp nhất là phần phụ trội giữa mức giá phí hợp nhất kinh doanh so với phần lợi ích của Công ty trong tổng giá trị hợp lý của tài sản, công nợ và công nợ tiềm tàng của công ty con, công ty liên kết, hoặc đơn vị góp vốn liên doanh tại ngày thực hiện nghiệp vụ đầu tư. Lợi thế thương mại được coi là một loại tài sản vô hình, được tính khấu hao theo phương pháp đường thẳng trên thời gian hữu dụng ước tính của lợi thế kinh doanh đó không quá 10 năm.
+
+Lợi thế kinh doanh có được từ việc mua công ty liên kết được tính vào giá trị ghi sổ của công ty liên kết. Lợi thế kinh doanh từ việc mua các công ty con và các cơ sở kinh doanh đồng kiểm soát được trình bày riêng như một loại tài sản vô hình trên bảng cân đối kế toán.
+
+Khi bán công ty con, công ty liên kết hoặc đơn vị góp vốn liên doanh, giá trị còn lại của khoản lợi thế thương mại chưa khấu hao hết được tính vào khoản lãi/lỗ do nghiệp vụ nhượng bán công ty tương ứng.
+
+13
+
+===== PAGE 15 =====
+CÔNG TY CỔ PHẦN TẬP ĐOÀN C.E.O
+
+Tâng 5, Tháp CEO, HH2-1, Đô thị mới Mễ Trì Hạ
+
+Quận Nam Từ Liêm, thành phố Hà Nội
+
+BÁO CÁO TÀI CHÍNH HỢP NHẤT
+
+Cho năm tài chính kết thúc
+
+ngày 31 tháng 12 năm 2016
+
+THUYÊT MINH BẢO CẢO TÀI CHÍNH HỢP NHẤT (TIẾP THEO)
+
+MẦU SỐ B 09 - DN/HN
+
+Các Thuyết minh này là một bộ phận hợp thành và cần được đọc đồng thời với Báo cáo tài chính hợp nhất
+
+IV. TÓM TẮT CÁC CHÍNH SÁCH KẾ TOÁN CHỦ YỀU (TIẾP THEO)
+
+Công cụ tài chính
+
+Ghi nhận ban đầu
+
+Tài sản tài chính
+
+Tại ngày ghi nhận ban đầu, tài sản tài chính được ghi nhận theo giá gốc cộng các chi phí giao dịch có liên quan trực tiếp đến việc mua sắm tài sản tài chính đó.
+
+Tài sản tài chính của Tập đoàn bao gồm tiền mặt, tiền gửi ngắn hạn, các khoản phải thu khách hàng và phải thu khác, các khoản đầu tư ngắn hạn và dài hạn.
+
+Công nợ tài chính
+
+Tại ngày ghi nhận ban đầu, công nợ tài chính được ghi nhận theo giá gốc trừ đi các chi phí giao dịch có liên quan trực tiếp đến việc phát hành công nợ tài chính đó.
+
+Công nợ tài chính của Tập đoàn bao gồm các khoản phải trả người bán và phải trả khác, các khoản nợ và các khoản vay.
+
+Đánh giá lại sau lần ghi nhận ban đầu
+
+Hiện tại, chưa có quy định về đánh giá lại công cụ tài chính sau ghi nhận ban đầu.
+
+Tiền và các khoản tương đương tiền
+
+Tiền và các khoản tương đương tiền bao gồm tiền mặt tại quỹ, các khoản tiền gửi không kỳ hạn, các khoản đầu tư ngắn hạn, có khả năng thanh khoản cao, dễ dàng chuyển đổi thành tiền và ít rủi ro liên quan đến việc biến động giá trị.
+
+Các khoản đầu tư tài chính
+
+Chứng khoán kinh doanh
+
+Chứng khoán kinh doanh là các khoản chứng khoán được Tập đoàn nằm giữ với mục đích kinh doanh. Chứng khoán kinh doanh được ghi nhận bắt đầu từ ngày Tập đoàn có quyền sở hữu và được xác định giá trị ban đầu theo giá trị hợp lý của các khoản thanh toán tại thời điểm giao dịch phát sinh cộng các chi phí liên quan đến giao dịch mua chứng khoán kinh doanh.
+
+Tại các kỳ kế toán tiếp theo, các khoản đầu tư chứng khoán được xác định theo giá gốc trừ các khoản giảm giá chứng khoán kinh doanh.
+
+Dự phòng giảm giá chứng khoán kinh doanh được trích lập theo các quy định kế toán hiện hành.
+
+Các khoản đầu tư nằm giữ đến ngày đáo hạn
+
+Các khoản đầu tư nắm giữ đến ngày đáo hạn bao gồm các khoản đầu tư mà Tập đoàn có ý định và khả năng giữ đến ngày đáo hạn. Các khoản đầu tư nắm giữ đến ngày đáo hạn bao gồm: các khoản tiền gửi ngân hàng có kỳ hạn (bao gồm cả các loại tín phiếu, kỳ phiếu), trái phiếu, cổ phiếu ưu đãi bên phát hành bắt buộc phải mua lại tại một thời điểm nhất định trong tương lai và các khoản cho vay nắm giữ đến ngày đáo hạn với mục đích thu lãi hàng kỳ và các khoản đầu tư nắm giữ đến ngày đáo hạn khác.
+
+14
+
+(1)
+
+\( P_{1} \)   \( P_{2} \)   \( P_{3} \)   \( P_{4} \)   \( P_{5} \)   \( P_{6} \)   \( P_{7} \)   \( P_{8} \)   \( P_{9} \)   \( P_{10} \)
+
+===== PAGE 16 =====
+CÔNG TY CỔ PHẦN TẬP ĐOÀN C.E.O
+
+Tàng 5, Tháp CEO, HH2-1, Đô thị mới Mễ Trì Hạ
+
+Quận Nam Từ Liêm, thành phố Hà Nội
+
+BÁO CÁO TÀI CHÍNH HỢP NHÁT
+
+Cho năm tài chính kết thúc
+
+ngày 31 tháng 12 năm 2016
+
+THUYẾT MINH BẢO CẢO TÀI CHÍNH HỢP NHẤT (TIẾP THEO)
+
+MẦU SỐ B 09 - DN/HN
+
+Các Thuyết minh này là một bộ phận hợp thành và cần được đọc đồng thời với Báo cáo tài chính hợp nhất
+
+IV. TÓM TẮT CÁC CHÍNH SÁCH KẾ TOÁN CHỦ YỀU (TIỂP THEO)
+
+Các khoản đầu tư tài chính (Tiếp theo)
+
+Các khoản đầu tư nằm giữ đến ngày đáo hạn (Tiếp theo)
+
+Các khoản đầu tư nắm giữ đến ngày đáo hạn được ghi nhận bắt đầu từ ngày mua và được xác định giá trị ban đầu theo giá mua và các chi phí liên quan đến giao dịch mua các khoản đầu tư. Thu nhập lãi từ các khoản đầu tư nắm giữ đến ngày đáo hạn sau ngày mua được ghi nhận trên Báo cáo kết quả hoạt động kinh doanh trên cơ sở dự thu. Lãi được hướng trước khi Tập đoàn nằm giữ được ghi giảm trừ vào giá gốc tại thời điểm mua.
+
+Các khoản đầu tư nằm giữ đến ngày đáo hạn được xác định theo giá gốc trừ đi dự phòng phải thu khó đòi.
+
+Dự phòng phải thu khó đòi của các khoản đầu tư nắm giữ đến ngày đáo hạn được trích lập theo các quy định kế toán hiện hành.
+
+Các khoản cho vay
+
+Các khoản cho vay được xác định theo giá gốc trừ đi các khoản dự phòng phải thu khó đòi. Dự phòng phải thu khó đòi các khoản cho vay của Tập đoàn được trích lập theo các quy định kế toán hiện hành.
+
+Đầu tư vào công cụ vốn của đơn vị khác
+
+Đầu tư vào công cụ vốn của đơn vị khác phản ánh các khoản đầu tư công cụ vốn nhưng Tập đoàn không có quyền kiểm soát, đồng kiểm soát hoặc có ánh hưởng đáng kể đối với bên được đầu tư.
+
+Khoản đầu tư vào công cụ vốn các đơn vị khác được phản ánh theo nguyên giá trừ các khoản dự phòng giảm giá đầu tư.
+
+Các khoản phải thu và dự phòng nợ khó đòi
+
+Các khoản phải thu được hạch toán chi tiết cho từng đối tượng phải thu, theo từng nội dung phải thu, theo dõi chi tiết phải thu ngắn hạn, phải thu dài hạn và ghi chép theo từng lần thanh toán.
+
+Dự phòng phải thu khó đòi được trích lập cho những khoản phải thu đã quá hạn thanh toán từ sáu tháng trở lên, hoặc các khoản thu mà người nợ khó có khả năng thanh toán do bị thanh lý, phá sản hay các khó khăn tương tự.
+
+Hàng tôn kho
+
+Hàng tồn kho được xác định trên cơ sở giá thấp hơn giữa giá gốc và giá trị thuần có thể thực hiện được. Giá gốc hàng tồn kho bao gồm chi phí nguyên vật liệu trực tiếp, chi phí lao động trực tiếp và chi phí sản xuất chung, nếu có, để có được hàng tồn kho ở địa điểm và trạng thái hiện tại.
+
+Hàng tồn kho được hạch toán theo phương pháp kê khai thường xuyên. Giá gốc hàng tồn kho được xác định theo phương pháp bình quân gia quyền. Giá trị thuần có thể thực hiện được được xác định bằng giá bán ước tính trừ các chi phí để hoàn thành cùng chi phí tiếp thị, bán hàng và phân phối phát sinh.
+
+Dự phòng giảm giá hàng tồn kho của Tập đoàn được trích lập theo các quy định kế toán hiện hành. Theo đó, Tập đoàn được phép trích lập dự phòng giảm giá hàng tồn kho lỗi thời, hỏng, kém phẩm chất trong trường hợp giá trị thực tế của hàng tồn kho cao hơn giá trị thuần có thể thực hiện được tại thời điểm kết thúc ký kế toán.
+
+15
+
+===== PAGE 17 =====
+CÔNG TY CỔ PHẦN TẬP ĐOÀN C.E.O
+
+Tầng 5, Tháp CEO, HH2-1, Đô thị mới Mễ Trì Ha
+
+Quận Nam Từ Liêm, thành phố Hà Nội
+
+BÁO CÁO TÀI CHÍNH HỢP NHẤT
+
+Cho năm tài chính kết thúc
+
+ngày 31 tháng 12 năm 2016
+
+THUYẾT MINH BẢO CẢO TÀI CHÍNH HỢP NHẤT (TIẾP THEO)
+
+MÂU SÓ B 09 - DN/HN
+
+Các Thuyết minh này là một bộ phận hợp thành và cần được đọc đồng thời với Báo cáo tài chính hợp nhất
+
+IV. TÓM TẮT CÁC CHÍNH SÁCH KẾ TOÁN CHỦ YẾU (TIẾP THEO)
+
+Tài sản cố định hữu hình và khấu hao
+
+Tài sản cố định hữu hình được trình bày theo nguyên giá trừ giá trị hao mòn lũy kế.
+
+Nguyên giá tài sản cố định hữu hình bao gồm giá mua và toàn bộ các chi phí khác liên quan trực tiếp đến việc đưa tài sản vào trạng thái sẵn sàng sử dụng.
+
+Nguyên giá tài sản cố định hữu hình do tự làm, tự xây dựng bao gồm chi phí xây dựng, chi phí sản xuất thực tế phát sinh cộng chi phí lắp đặt và chạy thử.
+
+Tài sản cố định hữu hình được khấu hao theo phương pháp đường thẳng dựa trên thời gian hữu dụng ước tính của tài sản, cụ thể như sau:
+
+<table><tr><td></td><td>Năm</td></tr><tr><td>Nhà cửa vật kiến trúc</td><td>05 - 47</td></tr><tr><td>Máy móc thiết bị</td><td>03 - 04</td></tr><tr><td>Phương tiện vận tải</td><td>05 - 09</td></tr><tr><td>Thiết bị văn phòng</td><td>02 - 05</td></tr><tr><td>Tài sản cố định khác</td><td>02 - 05</td></tr></table>
+
+Tài sản cố định vô hình và khấu hao
+
+Tài sản cố định vô hình của Tập đoàn là quyền sử dụng đất, chương trình phần mềm, nhãn hiệu, tên thương mại và bản quyền, bằng sáng chế được trình bày theo nguyên giá trừ giá trị hao mòn lũy kế.
+
+Tài sản cố định vô hình thể hiện giá trị quyền sử dụng đất vô thời hạn không trích khấu hao. Tài sản cố định vô hình khác được khấu hao theo phương pháp đường thẳng dựa trên tính chất và mục đích sử dụng trong hoạt động sản xuất kinh doanh của Tập đoàn, cụ thể như sau:
+
+<table><tr><td></td><td>Năm</td></tr><tr><td>Chương trình phần mềm</td><td>03 - 08</td></tr><tr><td>Nhân hiệu, tên thương mại</td><td>05</td></tr><tr><td>Bản quyền, bằng sáng chế</td><td>05</td></tr></table>
+
+Bất động sản đầu tư
+
+Bất động sản đầu tư là Tòa tháp CEO, HH2-1, đường Phạm Hùng, quận Nam Từ Liêm, Hà Nội do Tập đoàn nằm giữ nhằm mục đích thu lợi từ việc cho thuê được trình bày theo nguyên giá trừ giá trị hao mòn lũy kế. Nguyên giá bất động sản đầu tư là giá trị quyết toán công trình và các chi phí liên quan trực tiếp của bất động sản đầu tư.
+
+Bắt động sản đầu tư được khấu hao theo phương pháp đường thẳng trên thời gian hữu dụng ước tính của Tòa tháp CEO là 47 năm.
+
+Chi phí xây dựng cơ bản dở dang
+
+Các tài sản đang trong quá trình xây dựng phục vụ mục đích sản xuất, cho thuê, quản trị hoặc cho bắt kỳ mục đích nào khác được ghi nhận theo giá gốc. Chi phí này bao gồm chi phí dịch vụ và chi phí lãi vay có liên quan phù hợp với chính sách kế toán của Tập đoàn. Việc tính khấu hao của các tài sản này được áp dụng giống như với các tài sản khác, bắt đầu từ khi tài sản ở vào trạng thái sẵn sàng sử dụng.
+
+16
+
+===== PAGE 18 =====
+CÔNG TY CỔ PHẦN TẬP ĐOÀN C.E.O
+
+Tàng 5, Tháp CEO, HH2-1, Đô thị mới Mễ Trì Hạ
+
+Quận Nam Từ Liêm, thành phố Hà Nội
+
+BÁO CÁO TÀI CHÍNH HỢP NHẤT
+
+Cho năm tài chính kết thúc
+
+ngày 31 tháng 12 năm 2016
+
+THUYẾT MINH BẢO CẢO TÀI CHÍNH HỢP NHẤT (TIẾP THEO)
+
+MẦU SỐ B 09 - DN/HN
+
+Các Thuyết minh này là một bộ phận hợp thành và cần được đọc đồng thời với Báo cáo tài chính hợp nhất
+
+IV. TÓM TẮT CÁC CHÍNH SÁCH KẾ TOÁN CHỦ YẾU (TIẾP THEO)
+
+Các khoản trả trước dài hạn
+
+Các khoản chi phí trả trước dài hạn khác bao gồm công cụ, dụng cụ, linh kiện loại nhỏ, chi phí thuệ văn phòng và được coi là có khả năng dem lại lợi ích kinh tế trong tương lai cho Tập đoàn với thời hạn từ một năm trở lên. Các chi phí này được vốn hóa dưới hình thức các khoản trả trước dài hạn và được phân bổ vào Báo cáo Kết quả hoạt động kinh doanh, sử dụng phương pháp đường thẳng trong thời gian sử dụng hữu ích.
+
+Chi phí thuê văn phòng của Tập đoàn Lạc Việt được phân bổ trong thời gian 44 năm, chi phí thuê văn phòng của Tổng Công ty xây lắp dầu khí Việt Nam được phân bổ trong thời gian 6 năm.
+
+Chi phí thuê văn phòng để phục vụ hoạt động đào tạo cho Công ty Cổ phần Phát triển Dịch vụ C.E.O được phân bổ vào Báo cáo Kết quả hoạt động kinh doanh theo thời gian của hợp đồng thuê văn phòng là 47,5 năm.
+
+Các khoản dự phòng phải trả
+
+Các khoản dự phòng được ghi nhận khi Tập đoàn có nghĩa vụ nợ hiện tại do kết quả từ một sự kiện đã xảy ra, và Tập đoàn có khả năng phải thanh toán nghĩa vụ này. Các khoản dự phòng được xác định trên cơ sở ước tính của Ban Tổng Giám đốc về các khoản chi phí cần thiết để thanh toán nghĩa vụ nợ này tại ngày kết thúc kỳ kế toán.
+
+Ghi nhận doanh thu
+
+Doanh thu bán hàng
+
+Doanh thu bán hàng được ghi nhận khi đồng thời thỏa mãn tất cả năm (5) điều kiện sau:
+
+(a) Doanh nghiệp đã chuyển giao phần lớn rủi ro và lợi ích gắn liền với quyền sở hữu sản phẩm hoặc hàng hóa cho người mua;
+
+(b) Doanh nghiệp không còn nằm giữ quyền quản lý hàng hóa như người sở hữu hàng hóa hoặc quyền kiểm soát hàng hóa;
+
+(c) Doanh thu được xác định tương đối chắc chắn;
+
+(d) Doanh nghiệp sẽ thu được lợi ích kinh tế từ giao dịch bán hàng; và
+
+(e) Xác định được chi phí liên quan đến giao dịch bán hàng.
+
+Doanh thu cung cấp dịch vụ
+
+Doanh thu của giao dịch về cung cấp dịch vụ được ghi nhận khi kết quả của giao dịch đó được xác định một cách đáng tin cây. Trường hợp giao dịch về cung cấp dịch vụ liên quan đến nhiều kỳ thì doanh thu được ghi nhận trong kỳ theo kết quả phần công việc đã hoàn thành tại ngày của Bảng cân đối kế toán của kỳ đó. Kết quả của giao dịch cung cấp dịch vụ được xác định khi thỏa mãn tất cả bốn (4) điều kiện sau:
+
+(a) Doanh thu được xác định tương đối chắc chắn;
+
+(b) Có khả năng thu được lợi ích kinh tế từ giao dịch cung cấp dịch vụ đó;
+
+(c) Xác định được phần công việc đã hoàn thành tại ngày của Bảng Cân đối kế toán; và
+
+(d) Xác định được chi phí phát sinh cho giao dịch và chi phí để hoàn thành giao dịch cung cấp dịch vụ đó.
+
+17
+
+“C” 2×D /3/4
+
+===== PAGE 19 =====
+□ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □
+
+CÔNG TY CỔ PHẦN TẬP ĐOÀN C.E.O
+
+Tâng 5, Tháp CEO, HH2-1, Đô thị mới Mễ Trì Hạ
+
+Quận Nam Từ Liêm, thành phố Hà Nội
+
+BÁO CÁO TÀI CHÍNH HỢP NHẤT
+
+Cho năm tài chính kết thúc
+
+ngày 31 tháng 12 năm 2016
+
+THUYÊT MINH BẢO CẢO TÀI CHÍNH HỢP NHẤT (TIẾP THEO)
+
+MẦU SỐ B 09 - DN/HN
+
+Các Thuyết minh này là một bộ phận hợp thành và cần được đọc đồng thời với Báo cáo tài chính hợp nhất
+
+IV. TÓM TẮT CÁC CHÍNH SÁCH KẾ TOÁN CHỦ YẾU (TIẾP THEO)
+
+Ghi nhận doanh thu (Tiếp theo)
+
+Doanh thu từ hoạt động kinh doanh bất động sản
+
+Doanh thu bán bắt động sản mà Tập đoàn là chủ đầu tư được ghi nhận khi đồng thời thỏa mãn tất cả năm (5) điều kiện sau:
+
+(a) Bất động sản đã hoàn thành toàn bộ và bàn giao cho người mua, doanh nghiệp đã chuyển giao rủi ro và lợi ích gắn liền với quyền sở hữu bất động sản cho người mua;
+
+(b) Doanh nghiệp không còn nằm giữ quyền quản lý bất động sản như người sở hữu bất động sản hoặc quyền kiểm soát bất động sản;
+
+(c) Doanh thu được xác định tương đối chắc chắn;
+
+(d) Doanh nghiệp đã thu được hoặc sẽ thu được lợi ích kinh tế từ giao dịch bán bất động sản; và
+
+(e) Xác định được chi phí liên quan đến giao dịch bán bất động sản.
+
+Lãi tiền gửi được ghi nhận trên cơ sở dồn tích, được xác định trên số dư các tài khoản tiền gửi và lãi suất áp dụng. Lãi từ các khoản đầu tư được ghi nhận khi Tập đoàn có quyền nhận khoản lãi.
+
+Hợp đồng xây dựng
+
+Khi kết quả thực hiện hợp đồng xây dựng có thể được ước tính một cách đáng tin cây, doanh thu và chi phí liên quan đến hợp đồng được ghi nhận tương ứng với phần công việc đã hoàn thành tại ngày kết thúc niên độ kế toán được tính bằng tỷ lệ phần trăm giữa chi phí phát sinh của phần công việc đã hoàn thành tại thời điểm kết thúc ký kế toán so với tổng chi phí dự toán của hợp đồng, ngoại trừ trường hợp chi phí này không tương đương với phần khối lượng xây lắp đã hoàn thành.
+
+Khoản chi phí này có thể bao gồm các chi phí phụ thêm, các khoản bởi thường và chỉ thường thực hiện hợp đồng theo thỏa thuận với khách hàng.
+
+Khi kết quả thực hiện hợp đồng xây dựng không thể được ước tính một cách đáng tin cây, doanh thu chỉ được ghi nhận tương đương với chi phí của hợp đồng đã phát sinh mà việc được hoàn trả là tương đối chắc chắn.
+
+Chi phí di vay
+
+Chi phí di vay liên quan trực tiếp đến việc mua, đầu tư xây dựng hoặc sản xuất những tài sản cần một thời gian tương đối dài để hoàn thành đưa vào sử dụng hoặc kinh doanh được cộng vào nguyên giá tài sản cho đến khi tài sản đó được đưa vào sử dụng hoặc kinh doanh. Các khoản thu nhập phát sinh từ việc đầu tư tạm thời các khoản vay được ghi giảm nguyên giá tài sản có liên quan.
+
+Tất cả các chi phí lãi vay khác một phần được tập hợp vào chi phí đề tính giá thành và một phần được ghi nhận vào Báo cáo Kết quả hoạt động kinh doanh khi phát sinh.
+
+Ngoại tê
+
+Tập đoàn áp dụng xử lý chênh lệch tỷ giá theo hướng dẫn của Chuẩn mực kế toán Việt Nam số 10 (VAS 10) “Ảnh hưởng của việc thay đổi tỷ giá hối doái”. Theo đó, các nghiệp vụ phát sinh bằng ngoại tệ được chuyển đổi theo tỷ giá tại ngày phát sinh nghiệp vụ. Số dư các khoản mục tiền tệ có gốc ngoại tệ tại ngày kết thúc kỳ kể toán được chuyển đổi theo tỷ giá tại ngày này. Chênh lệch tỷ giá phát sinh được hạch toán vào Báo cáo kết quả hoạt động kinh doanh.
+
+18
+
+1.2.1  \( \angle ACD = \angle C \)
+
+===== PAGE 20 =====
+CÔNG TY CỔ PHẦN TẬP ĐOÀN C.E.O
+
+Tàng 5, Tháp CEO, HH2-1, Đô thị mới Mễ Trì Hạ
+
+Quận Nam Từ Liêm, thành phố Hà Nội
+
+BÁO CÁO TÀI CHÍNH HỢP NHẤT
+
+Cho năm tài chính kết thúc
+
+ngày 31 tháng 12 năm 2016
+
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (TIẾP THEO)
+
+MĂU SỐ B 09 - DN/HN
+
+Các Thuyết minh này là một bộ phận hợp thành và cần được đọc đồng thời với Báo cáo tài chính hợp nhất
+
+IV. TÓM TẮT CÁC CHÍNH SÁCH KẾ TOÁN CHỦ YẾU (TIẾP THEO)
+
+Thuế
+
+Thuế thu nhập doanh nghiệp thể hiện tổng giá trị của số thuế phải trả hiện tại và số thuế hoãn lại.
+
+Số thuế hiện tại phải trả được tính dựa trên thu nhập chịu thuế trong kỳ. Thu nhập chịu thuế khác với lợi nhuận thuần được trình bày trên Báo cáo Kết quả hoạt động kinh doanh vì thu nhập chịu thuế không bao gồm các khoản thu nhập hay chi phí tính thuế hoặc được khấu trừ trong các năm khác (bao gồm cả lỗ mang sang, nếu có) và ngoài ra không bao gồm các chi tiêu không chịu thuế hoặc không được khấu trừ.
+
+Tập đoàn có nghĩa vụ phải nộp thuế thu nhập doanh nghiệp theo tỷ lệ 20% tính trên thu nhập chịu thuế.
+
+Việc xác định thuế thu nhập của Tập đoàn căn cứ vào các quy định hiện hành về thuế. Tuy nhiên, những quy định này thay đổi theo từng thời kỳ và việc xác định sau cùng về thuế thu nhập doanh nghiệp tùy thuộc vào kết quả kiểm tra của cơ quan thuế có thẩm quyền.
+
+Thuế thu nhập hoãn lại được tính trên các khoản chênh lệch giữa giá trị ghi sổ và cơ sở tính thuế thu nhập của các khoản mục tài sản hoặc công nợ trên Báo cáo tài chính hợp nhất và được ghi nhận theo phương pháp bảng cân đối kế toán. Thuế thu nhập hoãn lại phải trả phải được ghi nhận cho tất cả các khoản chênh lệch tạm thời còn tài sản thuế thu nhập hoãn lại chi được ghi nhận khi chắc chắn có đủ lợi nhuận tính thuế trong tương lai để khấu trừ các khoản chênh lệch tạm thời.
+
+Thuế thu nhập hoãn lại được xác định theo thuế suất dự tính sẽ áp dụng cho kỳ tài sản được thu hồi hay nợ phải trả được thanh toán. Thuế thu nhập hoãn lại được ghi nhận vào báo cáo kết quả hoạt động kinh doanh trừ trường hợp khoản thuế đó có liên quan đến các khoản mục được ghi thắng vào vốn chủ sở hữu. Trong trường hợp đó, thuế thu nhập hoãn lại cũng được ghi thắng vào vốn chủ sở hữu.
+
+Tài sản thuế thu nhập hoãn lại và nợ thuế thu nhập hoãn lại phải trả được bù trừ khi Tập đoàn có quyền hợp pháp để bù trừ giữa tài sản thuế thu nhập hiện hành với thuế thu nhập hiện hành phải nộp và khi các tài sản thuế thu nhập hoãn lại và nợ thuế thu nhập hoãn lại phải trả liên quan tới thuế thu nhập doanh nghiệp được quản lý bởi cùng một cơ quan thuế và Tập đoàn có dự định thanh toán thuế thu nhập hiện hành trên cơ sở thuần.
+
+Các loại thuế khác được áp dụng theo các luật thuế hiện hành tại Việt Nam.
+
+19
+
+11.1 2014
+
+===== PAGE 21 =====
+CÔNG TY CỔ PHẦN TẬP ĐOÀN C.E.O
+
+Tàng 5, Tháp CEO, HH2-1, Đô thị mới Mễ Trì Hạ
+
+Quận Nam Từ Liêm, thành phố Hà Nội
+
+BÁO CÁO TÀI CHÍNH HỢP NHẤT
+
+Cho năm tài chính kết thúc
+
+ngày 31 tháng 12 năm 2016
+
+THUYẾT MINH BẢO CẢO TÀI CHÍNH HỢP NHẤT (TIẾP THEO)
+
+MẦU SỐ B 09 - DN/HN
+
+Các Thuyết minh này là một bộ phận hợp thành và cần được đọc đồng thời với Báo cáo tài chính hợp nhất
+
+V. THÔNG TIN BỔ SUNG CHO CÁC KHOẢN MỤC TRÌNH BÀY TRÊN BẢNG CÂN ĐỐI KẾ TOÁN HỢP NHẤT
+
+1. Tiền và các khoản tương đương tiền
+
+<table><tr><td></td><td>31/12/2016VND</td><td>01/01/2016VND</td></tr><tr><td>Tiền mặt</td><td>7.127.447.110</td><td>2.749.787.738</td></tr><tr><td>Tiền gửi ngân hàng</td><td>103.022.961.490</td><td>37.768.115.807</td></tr><tr><td>Các khoản tiền gửi có kỳ hạn dưới 3 tháng</td><td>11.000.000.000</td><td>4.208.875.556</td></tr><tr><td>Cộng</td><td>121.150.408.600</td><td>44.726.779.101</td></tr></table>
+
+2. Các khoản phải thu khách hàng
+
+<table><tr><td></td><td>31/12/2016VND</td><td>01/01/2016VND</td></tr><tr><td colspan="3">a. Phải thu ngắn hạn của khách hàng</td></tr><tr><td>Công ty Cổ phần Tư vấn đầu tư Thành Nam</td><td>289.262.000</td><td>12.693.700.000</td></tr><tr><td>Công ty TNHH Gia Thịnh Phát Phú Quốc</td><td>1.006.278</td><td>52.457.046.168</td></tr><tr><td>Công ty TNHH Phú Kiên</td><td>-</td><td>156.332.300.000</td></tr><tr><td>Công ty TNHH MTV Đầu tư Trang Nguyễn Phú Quốc</td><td>70.827.500.000</td><td>-</td></tr><tr><td>Công ty TNHH MTV Đầu tư Lăng Gia Phú Quốc</td><td>49.079.200.000</td><td>-</td></tr><tr><td>Công ty TNHH MTV Quốc tế Đỗ Gia Phú Quốc</td><td>32.100.420.000</td><td>-</td></tr><tr><td>Công ty TNHH MTV Thu Hoài Phú Quốc</td><td>48.648.900.000</td><td>-</td></tr><tr><td>Công ty TNHH MTV Đầu tư Quang Tiến Phú Quốc</td><td>29.670.000.000</td><td>-</td></tr><tr><td>Các khoản phải thu khách hàng khác</td><td>488.227.639.049</td><td>160.326.405.738</td></tr><tr><td>Cộng</td><td>718.843.927.327</td><td>381.809.451.906</td></tr><tr><td colspan="3">b. Phải thu dài hạn của khách hàng</td></tr><tr><td>Công ty Tư vấn thiết kế công trình xây dựng Việt Nam</td><td>500.000.000</td><td>500.000.000</td></tr><tr><td>Viện nhiệt đới - trường ĐH Kiến trúc Hà Nội7</td><td>421.918.000</td><td>421.918.000</td></tr><tr><td>Công ty PALAFOX ASOCIATES</td><td>425.444.135</td><td>425.444.135</td></tr><tr><td>Cộng</td><td>1.347.362.135</td><td>1.347.362.135</td></tr><tr><td>c. Phải thu khách hàng các bên liên quan</td><td>103.604.366.900</td><td>-</td></tr></table>
+
+c. Phải thu khách hàng các bên liên quan
+
+(Chi tiết trình bày tại thuyết minh số VII.2)
+
+20
+
+1071-253-189
+
+===== PAGE 22 =====
+CÔNG TY CỔ PHẦN TẬP ĐOÀN C.E.O
+
+Tàng 5, Tháp CEO, HH2-1, Đô thị mới Mễ Trì Hạ
+
+Quận Nam Từ Liêm, thành phố Hà Nội
+
+BÁO CÁO TÀI CHÍNH HỢP NHẤT
+
+Cho năm tài chính kết thúc
+
+ngày 31 tháng 12 năm 2016
+
+THUYẾT MINH BẢO CẢO TÀI CHÍNH HỢP NHẤT (TIẾP THEO)
+
+MẦU SỐ B 09 - DN/HN
+
+Các Thuyết minh này là một bộ phận hợp thành và cần được đọc đồng thời với Báo cáo tài chính hợp nhất
+
+V. THÔNG TIN BỔ SUNG CHO CÁC KHOẢN MỤC TRÌNH BÀY TRÊN BẢNG CÂN ĐỐI KẾ TOÁN HỢP NHẤT (TIẾP THEO)
+
+2. Các khoản phải thu khách hàng (Tiếp theo)
+
+Nguyên nhân của khoản phải thu ngắn hạn của khách hàng tăng năm nay so với năm trước như sau:
+
+Tập đoàn ký các hợp đồng bán nhà biệt thư, nhà phố thương mại với điều khoản về bản giao cho bên mua khi đã thực hiện đầy đủ các nghĩa vụ thanh toán tính đến ngày bản giao dự kiến (thông thường phải thanh toán tối thiểu 75% giá trị của hợp đồng). Tuy nhiên, để thúc đẩy các khách hàng sớm đưa sản phẩm vào khai thác, tạo lập cảnh quan chung cho dự án, Tập đoàn đã thay đổi chính sách bản hàng với điều khoản bản giao dự kiến cho bên mua chậm nhất vào ngày 31 tháng 12 năm 2016. Theo đó, bên mua trong hợp đồng mua bán biệt thư và nhà phố thương mại chưa hoàn thành nghĩa vụ thanh toán sẽ được bản giao chậm nhất vào ngày 31 tháng 12 năm 2016. Tổng số doanh thu phát sinh từ các hợp đồng được sửa đổi về điều kiện bản giao chiếm số tiền là 473.581.556.320 đồng (giá trị bao gồm thuế là 514.914.248.800 đồng). Tại ngày 31 tháng 12 năm 2016, số tiền đã thu được là 159.555.610.926 đồng.
+
+3. Trả trước cho người bán ngắn hạn
+
+<table><tr><td></td><td>31/12/2016VND</td><td>01/01/2016VND</td></tr><tr><td>Công ty TNHH Xây dựng và Thương mại Liên Minh</td><td>49.537.948.903</td><td>36.848.568.255</td></tr><tr><td>Công ty Cổ phần Bê tông đúc sẵn Thăng Long</td><td>11.756.116.568</td><td>11.187.693.218</td></tr><tr><td>Công ty TNHH Thang máy Mitsubishi Việt Nam</td><td>5.069.658.430</td><td>4.997.472.800</td></tr><tr><td>Trả trước cho các đối tượng khác</td><td>42.710.335.249</td><td>172.710.887.807</td></tr><tr><td>Cộng</td><td>109.074.059.150</td><td>225.744.622.080</td></tr></table>
+
+21
+
+11.7 - 2.3
+
+===== PAGE 23 =====
+CÔNG TY CỔ PHẦN TẬP ĐOÀN C.E.O
+
+Tàng 5, Tháp CEO, HH2-1, Đô thị mới Mễ Trì Ha
+
+Quận Nam Từ Liêm, thành phố Hà Nội
+
+BÁO CÁO TÀI CHÍNH HỢP NHẤT
+
+Cho năm tài chính kết thúc
+
+ngày 31 tháng 12 năm 2016
+
+THUYẾT MINH BẢO CẢO TÀI CHÍNH HỢP NHẤT (TIẾP THEO)
+
+MẦU SỐ B 09 - DN/HN
+
+Các Thuyết minh này là một bộ phận hợp thành và cần được đọc đồng thời với Báo cáo tài chính hợp nhất
+
+V. THÔNG TIN BÓ SUNG CHO CÁC KHOẢN MỤC TRÌNH BÀY TRÊN BẢNG CÂN ĐỐI KẾ TOÁN HỢP NHẤT (TIẾP THEO)
+
+4. Phải thu về cho vay ngắn hạn
+
+<table><tr><td></td><td>31/12/2016VND</td><td>01/01/2016VND</td></tr><tr><td colspan="3">a. Phải thu về cho vay ngắn hạn</td></tr><tr><td colspan="3">Các khoản cho vay cá nhân với thời hạn không quá 12 tháng</td></tr><tr><td>Nguyễn Viết Mạnh</td><td>30.000.000.000</td><td>-</td></tr><tr><td>Nguyễn Văn Thạo</td><td>24.000.000.000</td><td>-</td></tr><tr><td>Vũ Xuân Hải</td><td>26.000.000.000</td><td>-</td></tr><tr><td>Nguyễn Ngọc Anh</td><td>27.000.000.000</td><td>-</td></tr><tr><td>Vũ Thị Thủy</td><td>20.000.000.000</td><td>-</td></tr><tr><td>Trần Văn Đoàn</td><td>16.000.000.000</td><td>-</td></tr><tr><td>Phương Thị Ngoan</td><td>24.000.000.000</td><td>-</td></tr><tr><td>Đoàn Thị Thu Hằng</td><td>10.000.000.000</td><td>-</td></tr><tr><td>Nguyễn Thị Thanh Nhàn</td><td>10.000.000.000</td><td>-</td></tr><tr><td>Đỗ Văn Dụy</td><td>27.000.000.000</td><td>-</td></tr><tr><td>Đỗ Văn Tiến</td><td>7.600.000.000</td><td>-</td></tr><tr><td>Nguyễn Văn Hóa</td><td>31.000.000.000</td><td>-</td></tr><tr><td>Thái Thị Tươi</td><td>9.700.000.000</td><td>-</td></tr><tr><td>Lưu Thị Thái Hà</td><td>-</td><td>14.500.000.000</td></tr><tr><td>Nguyễn Văn Hùng</td><td>-</td><td>10.000.000.000</td></tr><tr><td>Các khoản vay cá nhân khác</td><td>9.500.000.000</td><td>9.700.000.000</td></tr><tr><td>Cộng</td><td>271.800.000.000</td><td>34.200.000.000</td></tr><tr><td colspan="3">b. Phải thu về cho vay các bên liên quan</td></tr><tr><td></td><td>7.600.000.000</td><td>-</td></tr></table>
+
+Các khoản cho vay nêu trên theo các hợp đồng cho vay có thời hạn không vượt quá 12 tháng, lãi suất cho vay từ 7%/năm đến 10%/năm. Các khoản cho vay này theo hình thức tín chấp.
+
+22
+
+//.Y= ∞√A||
+
+===== PAGE 24 =====
+CÔNG TY CÓ PHẦN TẬP ĐOÀN C.E.O
+
+Tàng 5, Tháp CEO, HH2-1, Đô thị mới Mễ Trì Ha
+
+Quận Nam Từ Liêm, thành phố Hà Nội
+
+BÁO CÁO TÀI CHÍNH HỢP NHẤT
+
+Cho năm tài chính kết thúc
+
+ngày 31 tháng 12 năm 2016
+
+THUYẾT MINH BẢO CẢO TÀI CHÍNH HỢP NHẤT (TIẾP THEO)
+
+MÃU SÓ B 09 - DN/HN
+
+Các Thuyết minh này là một bộ phận hợp thành và cần được đọc đồng thời với Báo cáo tài chính hợp nhất
+
+V. THÔNG TIN BỔ SUNG CHO CÁC KHOÀN MỤC TRÌNH BÀY TRÊN BẢNG CÂN ĐỐI KẾ TOÁN HỢP NHẤT (TIẾP THEO)
+
+5. Phải thu khác
+
+<table><tr><td></td><td>31/12/2016VND</td><td>01/01/2016VND</td></tr><tr><td colspan="3">a. Ngắn hạn</td></tr><tr><td>Thuế GTGT đề nghị hoàn</td><td>-</td><td>25.567.462</td></tr><tr><td>Cảm cố, thế chấp, ký cược, ký quỹ</td><td>110.637.450.000</td><td>5.135.100.000</td></tr><tr><td>- Ký quỹ đảm bảo vay ngân hàng {i}</td><td>105.500.000.000</td><td>-</td></tr><tr><td>- Công ty Vật liệu xây dựng và Xây lắp thương mại BMC {ii}</td><td>5.100.000.000</td><td>5.100.000.000</td></tr><tr><td>- Ký quỹ khác</td><td>37.450.000</td><td>35.100.000</td></tr><tr><td>Tạm ứng</td><td>6.630.678.535</td><td>171.068.000</td></tr><tr><td>Phải thu về hoạt động môi giới Bắt động sản</td><td>41.555.603.758</td><td>-</td></tr><tr><td>- Công ty Cổ phần Đầu tư thương mại Dịch vụ Đức Trí Tín {iii}</td><td>24.617.737.917</td><td>-</td></tr><tr><td>- Công ty Cổ phần Đức Trí Tín Phú Quốc {iv}</td><td>16.937.865.841</td><td>-</td></tr><tr><td>Tiền bồi thường hỗ trợ và tái định cư DA Khu đô thị-Du lịch Đường Bảo-Bãi Trường-Phú Quốc {v}</td><td>63.729.933.000</td><td>-</td></tr><tr><td>Trung tâm Phát triển Quỹ đất UBND huyện Phú Quốc</td><td>44.637.840.000</td><td>-</td></tr><tr><td>Phòng Tài chính Kế hoạch huyện Phú Quốc</td><td>19.092.093.000</td><td>-</td></tr><tr><td>Phải thu khác</td><td>3.786.320.611</td><td>3.048.988.727</td></tr><tr><td>Cộng</td><td>226.339.985.904</td><td>8.380.724.189</td></tr><tr><td colspan="3">b. Dài hạn</td></tr><tr><td>Ban đến bù GPMB Quốc Oai {vi}</td><td>25.700.000.000</td><td>25.700.000.000</td></tr><tr><td>Các khoản ký cược, ký quỹ dài hạn</td><td>1.261.989.100</td><td>1.718.016.445</td></tr><tr><td>Cộng</td><td>26.961.989.100</td><td>27.418.016.445</td></tr></table>
+
+(i) Các khoản tiền gửi có kỳ hạn không quá 12 tháng tại Ngân hàng Thương mại Cổ phần Đầu tư và Phát triển Việt Nam - Chi nhánh Thanh Xuân, tổng số tiền tại ngày 31 tháng 12 năm 2016 là 105.500.000.000 đồng, lãi suất từ 4,8%/năm đến 6,5%/năm. Đây là khoản tiền gửi có kỳ hạn không vượt quá 12 tháng, trong đó 102.500.000.000 đồng được dùng để đảm bảo cho các khoản vay của Công ty Cổ phần Tập đoàn C.E.O và 3.000.000.000 được dùng để đảm bảo cho các khoản vay của Công ty Cổ phần Xây dựng C.E.O.
+
+{ii} Khoản tiền đặt cọc cho Công ty Vật liệu xây dựng và Xây lắp thương mại BMC nhằm đảm bảo sẽ nhận chuyển nhượng 510.000 cổ phần của Công ty Cổ phần BMC-CEO do Công ty Vật liệu xây dựng và Xây lắp thương mại BMC nằm giữ theo biên bản ghi nhớ giữa hai bên số 680/2009/BMC-CEO ngày 10 tháng 11 năm 2009. Số lượng cổ phần trên sẽ được chuyển nhượng sau khi Công ty Vật liệu xây dựng và Xây lắp thương mại BMC chuyển chủ đầu tư dự án khu đô thị mới BMC Thắng Long cho Công ty Cổ phần Đầu tư BMC-CEO.
+
+23
+
+===== PAGE 25 =====
+The image contains no text. The horizontal lines are stylistic or background elements and must be ignored according to the rules.
+
+CÔNG TY CỔ PHẦN TẬP ĐOÀN C.E.O
+
+Tầng 5, Tháp CEO, HH2-1, Đô thị mới Mễ Trì Hạ
+
+Quận Nam Từ Liêm, thành phố Hà Nội
+
+BÁO CÁO TÀI CHÍNH HỢP NHẤT
+
+Cho năm tài chính kết thúc
+
+ngày 31 tháng 12 năm 2016
+
+THUYẾT MINH BẢO CẢO TÀI CHÍNH HỢP NHẤT (TIẾP THEO)
+
+MĂU SỐ B 09 - DN/HN
+
+Các Thuyết minh này là một bộ phận hợp thành và cần được đọc đồng thời với Báo cáo tài chính hợp nhất
+
+V. THÔNG TIN BỔ SUNG CHO CÁC KHOẢN MỤC TRÌNH BÀY TRÊN BẢNG CẦN ĐỐI KẾ TOÁN HỢP NHẤT (TIẾP THEO)
+
+5. Phải thu khác (Tiếp theo)
+
+(iii) Hợp đồng hợp tác đầu tư phân chia doanh thu Dự án Khu tổ hợp du lịch Sonasea Villas & Resort Số 620/CEOPQ-HĐHTĐT giữa Công ty Cổ phần Đầu tư và Phát triển Phú Quốc và Công ty Cổ phần Đầu tư thương mại Dịch vụ Đức Trí Tín ký ngày 24 tháng 12 năm 2015. Theo thỏa thuận của hợp đồng, hai bên hợp tác để bán các căn nhà phố thương mại tại Dự án Sonasea, số tiền góp vốn là 63.877.000.000 đồng. Tiến độ góp vốn theo 06 đợt, tối đa 12 tháng, phương thức chuyển khoản. Các bên tham gia hợp đồng hợp tác đầu tư nêu trên sẽ được hưởng một khoản doanh thu từ tiền đất có hạ tầng kỹ thuật chung với đơn giá cụ thể quy định tại hợp đồng hợp tác. Vi phạm hợp đồng sẽ phạt 8% tổng giá trị vốn góp, trường hợp Công ty Cổ phần Đầu tư và Phát triển Phú Quốc chậm tiến độ thi công quá 30 ngày thì kể từ ngày 31 sẽ bị phạt 0,5% giá trị góp vốn của Công ty Cổ phần Đầu tư thương mại Dịch vụ Đức Trí Tín đợt thanh toán liền kê. Số ngày chậm thi công không vượt quá 60 ngày, kể từ ngày thứ 61 phạt 1% như trên. Số ngày chậm thi công vượt quá 90 ngày sẽ bị phạt hợp đồng.
+
+Số dư phải thu tại ngày 31 tháng 12 năm 2016 là số tiền Công ty Cổ phần Đầu tư và Phát triển Phú Quốc tạm ứng tiền doanh thu tương ứng với giá trị phần chênh lệch khách hàng ứng trước tiền theo tiến độ.
+
+{iv} Khoản phải thu tiền tạm ứng doanh thu tương ứng với giá trị phần chênh lệch khách hàng ứng trước tiền theo tiến độ cho Công ty Cổ phần Đức Trí Tín Phú Quốc theo các hợp đồng sau:
+
+Hợp đồng hợp tác đầu tư phân chia doanh thu Dự án Khu tổ hợp du lịch Sonasea Villas & Resort Số TM4/2016/HĐHTĐT/CEO giữa Công ty Cổ phần Đầu tư và Phát triển Phú Quốc và Công ty Cổ phần Đức Trí Tín Phú Quốc ký ngày 30 tháng 07 năm 2016. Theo thỏa thuận của hợp đồng, hai bên hợp tác để bán các căn nhà phố thương mại tại Dự án Sonasea, số tiền góp vốn 92.628.000.000 đồng. Tiến độ góp vốn theo 07 đợt, tối đa 18 tháng, phương thức chuyển khoản. Các bên tham gia hợp đồng hợp tác đầu tư nếu trên sẽ được hưởng một khoản doanh thu từ tiền đất có hạ tầng kỹ thuật chung với đơn giá cụ thể quy định tại hợp đồng hợp tác. Vi phạm hợp đồng sẽ phạt 8% tổng giá trị vốn góp, trường hợp Công ty Cổ phần Đầu tư và Phát triển Phú Quốc chậm tiến độ thi công quá 30 ngày thì kể từ ngày 31 sẽ bị phạt 0,05% giá trị góp vốn của Công ty Cổ phần Đức Trí Tín Phú Quốc đợt thanh toán liền kê. số ngày chậm thi công không vượt quá 60 ngày, kể từ ngày thứ 61 phạt 0,1% như trên. Số ngày chậm thi công vượt quá 90 ngày sẽ bị phạt hợp đồng.
+
+Hợp đồng hợp tác đầu tư phân chia doanh thu Dự án Khu tổ hợp du lịch Sonasea Villas & Resort Số SV2/2016/HĐHTĐT/CEO giữa Công ty Cổ phần Đầu tư và Phát triển Phú Quốc và Công ty Cổ phần Đức Trí Tín Phú Quốc ký ngày 14 tháng 07 năm 2015. Theo thỏa thuận của hợp đồng, hai bên hợp tác để bán các căn Biệt thư nghi dưỡng tại Dự án Sonasea, số tiền góp vốn 117.704.000.000 đồng. Tiến độ góp vốn theo 07 đợt, tối đa 24 tháng, phương thức chuyển khoản. Các bên tham gia hợp đồng hợp tác đầu tư nếu trên sẽ được hưởng một khoản doanh thu từ tiền đất có hạ tầng kỹ thuật chung với đơn giá cụ thể quy định tại hợp đồng hợp tác. Vi phạm hợp đồng sẽ phạt 8% tổng giá trị vốn góp, trường hợp Công ty Cổ phần Đầu tư và Phát triển Phú Quốc chậm tiến độ thi công quá 30 ngày thì kể từ ngày 31 sẽ bị phạt 0,05% giá trị góp vốn của Công ty Cổ phần Đức Trí Tín Phú Quốc đợt thanh toán liền kể. Số ngày chậm thi công không vượt quá 60 ngày, kể từ ngày thứ 61 phạt 0,1% như trên. Số ngày chậm thi công vượt quá 90 ngày sẽ bị phạt hợp đồng.
+
+{v} Khoản tiền đã chuyển cho Trung tâm Phát triển Quỹ đất UBND Huyện Phú Quốc và Phòng Tài chính Kế hoạch Huyện Phú Quốc để chi trả hộ Công ty Cổ phần Đầu tư Phát triển Nhà và Đô thị Phú Quốc về tiền bồi thường hỗ trợ và tái định cư Dự án “Khu đô thị-Du lịch Đường Bảo-Bãi Trường-Phú Quốc”.
+
+24
+
+===== PAGE 26 =====
+CÔNG TY CỔ PHẦN TẬP ĐOÀN C.E.O
+
+Tàng 5, Tháp CEO, HH2-1, Đô thị mới Mễ Trì Hạ
+
+Quận Nam Từ Liêm, thành phố Hà Nội
+
+BÁO CÁO TÀI CHÍNH HỢP NHẤT
+
+Cho năm tài chính kết thúc
+
+ngày 31 tháng 12 năm 2016
+
+THUYẾT MINH BẢO CẢO TÀI CHÍNH HỢP NHẤT (TIẾP THEO)
+
+MÃU SÓ B 09 - DN/HN
+
+Các Thuyết minh này là một bộ phận hợp thành và cần được đọc đồng thời với Báo cáo tài chính hợp nhất
+
+V. THÔNG TIN BỔ SUNG CHO CÁC KHOÀN MỤC TRÌNH BÀY TRÊN BẢNG CÂN ĐỐI KẾ TOÁN HỢP NHẤT (TIẾP THEO)
+
+5. Phải thu khác (Tiếp theo)
+
+{vi} Khoản tạm ứng cho Ban bồi thường GPMB huyện Quốc Oai, Hà Nội để thực hiện công tác bồi thường, hỗ trợ giải phóng mặt bằng Dự án Khu đất dịch vụ xã Sài Sơn (phục vụ Dự án Khu đô thị mới Quốc Oai lô N1 + N3 của Tập đoàn).
+
+6. Chi phí trả trước
+
+<table><tr><td></td><td>31/12/2016VND</td><td>01/01/2016VND</td></tr><tr><td colspan="3">a) Ngắn hạn</td></tr><tr><td>Công cụ, dụng cụ xuất dùng</td><td>2.426.082.209</td><td>8.105.078.425</td></tr><tr><td>Chi phí bảo hiểm</td><td>66.323.687</td><td>-</td></tr><tr><td>Chi phí thuê văn phòng</td><td>616.332.137</td><td>565.018.864</td></tr><tr><td>Chi phí trả trước ngắn hạn khác</td><td>71.680.272</td><td>95.585.099</td></tr><tr><td>Cộng</td><td>3.180.418.305</td><td>8.765.682.388</td></tr><tr><td colspan="3">b) Dải hạn</td></tr><tr><td>Trả trước tiền thuê văn phòng</td><td>37.292.360.140</td><td>38.764.675.577</td></tr><tr><td>Công cụ, dụng cụ xuất dùng</td><td>48.503.448.011</td><td>4.881.379.931</td></tr><tr><td>Chi phí trả trước dài hạn khác</td><td>4.239.747.847</td><td>2.290.748.484</td></tr><tr><td>Cộng</td><td>90.035.555.998</td><td>45.936.803.992</td></tr></table>
+
+25
+
+===== PAGE 27 =====
+CÔNG TY CỔ PHẦN TẬP ĐOÀN C.E.O
+
+Tâng 5, Tháp CEO, HH2-1, Đô thị mới Mễ Trì Hạ
+Quận Nam Từ Liêm, thành phố Hà Nội
+
+THUYẾT MINH BẢO CẢO TÀI CHÍNH HỢP NHẤT (TIẾP THEO)
+Các Thuyết minh này là một bộ phận hợp thành và cần được đọc đồng thời với Báo cáo tài chính hợp nhất
+MẦU SỐ B 09 - DN/HN
+
+V. THÔNG TIN BỒ SUNG CHO CÁC KHOẢN MỤC TRÌNH BÀY TRÊN BẢNG CÂN ĐỐI KẾ TOÁN HỢP NHẤT (TIẾP THEO)
+
+7. Hàng tồn kho
+
+<table><tr><td rowspan="2"></td><td colspan="2">31/12/2016</td><td colspan="2">01/01/2016</td></tr><tr><td>Giá gốc VND</td><td>Dự phòng VND</td><td>Giá gốc VND</td><td>Dự phòng VND</td></tr><tr><td>Nguyên liệu, vật liệu</td><td>1.259.671.104</td><td>-</td><td>17.978.430</td><td>-</td></tr><tr><td>Công cụ, dụng cụ</td><td>118.670.206</td><td>-</td><td>2.544.817</td><td>-</td></tr><tr><td>Chi phí sản xuất, kinh doanh dở dang</td><td>598.274.036.498</td><td>-</td><td>751.858.725.313</td><td>-</td></tr><tr><td>Thành phẩm</td><td>497.556.759</td><td>-</td><td>992.337.383</td><td>-</td></tr><tr><td>Hàng hoá</td><td>9.766.636.608</td><td>-</td><td>196.407.527</td><td>-</td></tr><tr><td>Cộng</td><td>609.916.571.175</td><td>-</td><td>753.067.993.470</td><td>-</td></tr></table>
+
+Theo các hợp đồng thế chấp ký giữa Công ty Cổ phần Tập đoàn C.E.O, Công ty Cổ phần Xây dựng C.E.O và Ngân hàng Thương mại Cổ phần Đầu tư và Phát triển Việt Nam - Chi nhánh Thanh Xuân, Công ty Cổ phần Tập đoàn C.E.O đã sử dụng tài sản dở dang là 34 sở dò tại Dự án Quốc Oai có giá trị ghi sổ là 57.508.505.060 đồng để đảm bảo cho khoản vay của Công ty Cổ phần Xây dựng C.E.O.
+
+Theo các hợp đồng thế chấp ký giữa Công ty Cổ phần Đầu tư và Phát triển Phú Quốc và Ngân hàng Thương mại Cổ phần Đầu tư và Phát triển Việt Nam - Chi nhánh Thanh Xuân, Công ty Cổ phần Đầu tư và Phát triển Phú Quốc đã sử dụng tài sản dở dang tại Dự án Khu tổ hợp du lịch Sonasea Villas & Resort có gá trị ghi sổ là 96.063.979.348 đồng để đảm bảo cho khoản vay của Công ty Cổ phần Đầu tư và Phát triển Phú Quốc.
+
+26
+
+// > / < × ≡ 12 ∥
+
+===== PAGE 28 =====
+CÔNG TY CỔ PHẦN TẬP ĐOÀN C.E.O
+
+Tâng 5, Tháp CEO, HH2-1, Đô thị mới Mễ Trì Hạ
+Quận Nam Từ Liêm, thành phố Hà Nội
+
+THUYET MINH BẢO CẢO TÀI CHÍNH HỢP NHẤT (TIẾP THEO)
+
+Các Thuyết minh này là một bộ phận hợp thành và cần được đọc đồng thời với Báo cáo tài chính hợp nhất
+
+V. THÔNG TIN BỔ SUNG CHO CÁC KHOẢN MỤC TRÌNH BÀY TRÊN BẢNG CÂN ĐỐI KẾ TOÁN HỢP NHẤT, (TIẾR THEO)
+
+8. Tài sản cố định hữu hình
+
+<table><tr><td></td><td>Nhà cửa vật kiến trúc VND</td><td>Máy móc thiết bị VND</td><td>Phương tiện vận tải VND</td><td>Thiết bị văn phòng VND</td><td>Tài sản khác VND</td><td>Tổng VND</td></tr><tr><td colspan="7">NGUYÊN GIÁ</td></tr><tr><td>Tại ngày 01/01/2016</td><td>11.182.902.222</td><td>22.063.487.256</td><td>24.572.615.204</td><td>3.140.682.043</td><td>1.920.317.005</td><td>62.880.003.730</td></tr><tr><td>Mua trong năm</td><td>608.750.000</td><td>10.307.581.666</td><td>21.699.201.742</td><td>732.542.983</td><td>50.000.000</td><td>33.398.076.391</td></tr><tr><td>Đầu tư XDCB hoàn thành (*)</td><td>992.750.833.748</td><td>-</td><td>-</td><td>1.587.049.413</td><td>-</td><td>994.337.883.161</td></tr><tr><td>Thanh lý, nhượng bán</td><td>-</td><td>(466.666.667)</td><td>(5.976.960.000)</td><td>-</td><td>-</td><td>(6.443.626.667)</td></tr><tr><td>Tại ngày 31/12/2016</td><td>1.004.542.485.970</td><td>31.904.402.255</td><td>40.294.856.946</td><td>5.460.274.439</td><td>1.970.317.005</td><td>1.084.172.336.615</td></tr><tr><td colspan="7">GIÁ TRỊ HAO MÒN LỦY KẾ</td></tr><tr><td>Tại ngày 01/01/2016</td><td>2.389.984.729</td><td>7.681.498.756</td><td>4.498.891.788</td><td>2.019.539.188</td><td>1.714.317.005</td><td>18.304.231.466</td></tr><tr><td>Khấu hao trong năm</td><td>21.149.585.494</td><td>3.296.041.827</td><td>4.806.029.382</td><td>400.343.964</td><td>128.966.514</td><td>29.780.967.181</td></tr><tr><td>Thanh lý, nhượng bán</td><td>-</td><td>(466.666.667)</td><td>(435.820.000)</td><td>-</td><td>-</td><td>(902.486.667)</td></tr><tr><td>Tại ngày 31/12/2016</td><td>23.539.570.223</td><td>10.510.873.916</td><td>8.869.101.170</td><td>2.419.883.152</td><td>1.843.283.519</td><td>47.182.711.980</td></tr><tr><td colspan="7">GIÁ TRỊ CÒN LẠI</td></tr><tr><td>Tại ngày 01/01/2016</td><td>8.792.917.493</td><td>14.381.988.500</td><td>20.073.723.416</td><td>1.121.142.855</td><td>206.000.000</td><td>44.575.772.264</td></tr><tr><td>Tại ngày 31/12/2016</td><td>981.002.915.747</td><td>21.393.528.339</td><td>31.425.755.776</td><td>3.040.391.287</td><td>127.033.486</td><td>1.036.989.624.635</td></tr></table>
+
+(*) Trong năm 2016, Tập đoàn đã xây dựng hoàn thành và đưa vào sử dụng Khách sạn Novotel tại huyện Phú Quốc, tỉnh Kiên Giang và Khu tiện ích dự án Quốc Oai tại huyện Quốc Oai, Hà Nội.
+
+Nguyên giá tài sản cố định hữu hình đã hết khấu hao nhưng vẫn còn sử dụng tại ngày 31 tháng 12 năm 2016 là 6.643.161.902 đồng (tại ngày 31 tháng 12 năm 2015 là 5.674.282.274 đồng).
+
+Giá trị còn lại của tài sản cố định hữu hình đã mang đi thế chấp các khoản vay của Tập đoàn tại ngày 31 tháng 12 năm 2016 là 23.544.109.717 (tại ngày 31 tháng 12 năm 2015 là 22.159.022.066 đồng).
+
+BÁO CÁO TÀI CHÍNH HỢP NHẤT
+
+Quận Nam Từ Liêm, thành phố Hà Nội
+
+ngày 31 tháng 12 năm 2016
+
+MÂU SÓ B 09 - DN/HN
+
+27
+
+1121 50,34+2(-1)
+
+===== PAGE 29 =====
+CÔNG TY CỔ PHẦN TẬP ĐOÀN C.E.O
+
+Tâng 5, Tháp CEO, HH2-1, Đô thị mới Mễ Trì Hạ
+Quận Nam Từ Liêm, thành phố Hà Nội
+
+THUYÊT MINH BẢO CẢO TÀI CHÍNH HỢP NHẤT (TIẾP THEO)
+Các Thuyết minh này là một bộ phận hợp thành và cần được đọc đồng thời với Báo cáo tài chính hợp nhất
+ngay 31 tháng 12 năm 2016
+MẦU SỐ B 09 - DN/HN
+
+V. THÔNG TIN BỔ SUNG CHO CÁC KHOẢN MỤC TRÌNH BÀY TRÊN BẢNG CÂN ĐỐI KẾ TOÁN HỢP NHẤT (TIẾP THEO)
+9. Tài sản cố định vô hình
+
+<table><tr><td></td><td>Quyền sử dụng đấtVND</td><td>Chương trình phần mềmVND</td><td>Nhân hiệu, tên thương mạiVND</td><td>Bản quyền, bằng sáng chếVND</td><td>CộngVND</td></tr><tr><td colspan="6">NGUYÊN GIÁ</td></tr><tr><td>Tại ngày 01/01/2016</td><td>-</td><td>371.705.750</td><td>267.227.596</td><td>62.000.000</td><td>700.933.346</td></tr><tr><td>Mua trong năm</td><td>-</td><td>64.994.722</td><td>-</td><td>8.489.700.193</td><td>8.554.694.915</td></tr><tr><td>Xây dựng cơ bản hoàn thành (*)</td><td>62.518.508.720</td><td>-</td><td>-</td><td>-</td><td>62.518.508.720</td></tr><tr><td>Tại ngày 31/12/2015</td><td>62.518.508.720</td><td>436.700.472</td><td>267.227.596</td><td>8.551.700.193</td><td>71.774.136.981</td></tr><tr><td colspan="6">GIÁ TRỊ HAO MÒN LỦY KẾ</td></tr><tr><td>Tại ngày 01/01/2016</td><td>-</td><td>259.518.251</td><td>226.583.690</td><td>62.000.000</td><td>548.101.941</td></tr><tr><td>Khấu hao trong năm</td><td>1.289.536.616</td><td>37.309.625</td><td>40.643.906</td><td>1.028.786.586</td><td>2.396.276.733</td></tr><tr><td>Tại ngày 31/12/2015</td><td>1.289.536.616</td><td>296.827.876</td><td>267.227.596</td><td>1.090.786.586</td><td>2.944.378.674</td></tr><tr><td colspan="6">GIÁ TRỊ CÒN LẠI</td></tr><tr><td>Tại ngày 01/01/2016</td><td>-</td><td>112.187.499</td><td>40.643.906</td><td>-</td><td>152.831.405</td></tr><tr><td>Tại ngày 31/12/2015</td><td>61.228.972.104</td><td>139.872.596</td><td>-</td><td>7.460.913.607</td><td>68.829.758.307</td></tr></table>
+
+(*) Trong năm 2016, Tập đoàn đã xây dựng hoàn thành và đưa vào sử dụng Khách sạn Novotel tại huyện Phú Quốc, tỉnh Kiên Giang.
+
+Nguyên giá tài sản cố định vô hình đã hết khấu hao nhưng vẫn còn sử dụng tại ngày 31 tháng 12 năm 2016 là 570.933.346 đồng (tại ngày 31 tháng 12 năm 2015 là 303.705.750 đồng).
+
+28
+
+\( \left\{  {1,2,3}\right\}   =  - 5 < \left\{  {1,2,3}\right\}   =  - 5 < \)
+
+===== PAGE 30 =====
+CÔNG TY CỔ PHẦN TẬP ĐOÀN C.E.O
+
+Tâng 5, Tháp CEO, HH2-1, Đô thị mới Mễ Trì Hạ
+
+Quận Nam Từ Liêm, thành phố Hà Nội
+
+BÁO CÁO TÀI CHÍNH HỢP NHẤT
+
+Cho năm tài chính kết thúc
+
+ngày 31 tháng 12 năm 2016
+
+THUYÊT MINH BẢO CẢO TÀI CHÍNH HỢP NHẤT (TIẾP THEO)
+
+MẦU SỐ B 09 - DN/HN
+
+Các Thuyết minh này là một bộ phận hợp thành và cần được đọc đồng thời với Báo cáo tài chính hợp nhất
+
+V. THÔNG TIN BỔ SUNG CHO CÁC KHOẢN MỤC TRÌNH BÀY TRÊN BẢNG CÂN ĐỐI KẾ TOÁN HỢP NHẤT (TIẾP THEO)
+
+10. Bất động sản đầu tư
+
+<table><tr><td></td><td>Nhà cửa vật kiến trúc VND</td><td>Quyền sử dụng đất VND</td><td>Tổng VND</td></tr><tr><td colspan="4">NGUYÊN GIÁ</td></tr><tr><td>Tại ngày 01/01/2016</td><td>178.845.995.929</td><td>3.407.568.000</td><td>182.253.563.929</td></tr><tr><td>Giảm khác (*)</td><td>(32.308.182)</td><td>-</td><td>(32.308.182)</td></tr><tr><td>Tại ngày 31/12/2016</td><td>178.813.687.747</td><td>3.407.568.000</td><td>182.221.255.747</td></tr><tr><td colspan="4">GIÁ TRỊ HAO MÒN LỦY KẾ</td></tr><tr><td>Tại ngày 01/01/2016</td><td>23.578.779.149</td><td>-</td><td>23.578.779.149</td></tr><tr><td>Trích khấu hao trong năm</td><td>3.832.642.600</td><td>-</td><td>3.832.642.600</td></tr><tr><td>Tại ngày 31/12/2016</td><td>27.411.421.749</td><td>-</td><td>27.411.421.749</td></tr><tr><td colspan="4">GIÁ TRỊ CÒN LẠI</td></tr><tr><td>Tại ngày 01/01/2016</td><td>155.267.216.780</td><td>3.407.568.000</td><td>158.674.784.780</td></tr><tr><td>Tại ngày 31/12/2016</td><td>151.402.265.998</td><td>3.407.568.000</td><td>154.809.833.998</td></tr></table>
+
+(*) Giảm khác trong năm là điều chỉnh giảm nguyên giá của Tòa nhà C.E.O theo biên bản quyết toán giá trị tòa nhà.
+
+Giá trị còn lại của bất động sản đầu tư đã mang đi thế chấp các khoản vay của Tập đoàn tại ngày 31 tháng 12 năm 2016 là 151.402.265.998 đồng (tại ngày 31 tháng 12 năm 2015 là 155.267.216.780 đồng).
+
+11. Chi phí xây dựng cơ bản dở dang
+
+<table><tr><td></td><td>31/12/2016VND</td><td>01/01/2016VND</td></tr><tr><td>Công trình Trường cao đẳng Đại Việt</td><td>-</td><td>60.097.677.131</td></tr><tr><td>Trung tâm đào tạo công nghệ cao Đại Việt - Láng Hòa Lạc</td><td>709.349.703</td><td>698.742.840</td></tr><tr><td>Dự án Quốc Oai</td><td>813.131.818</td><td>9.552.449.305</td></tr><tr><td>Khách sạn Novotel</td><td>-</td><td>661.527.966.418</td></tr><tr><td>Nhà tiện ích và hồ boí khu 96 Villa</td><td>47.879.309.224</td><td>-</td></tr><tr><td>Dự án xây dựng Codotel - Bãi Trường, Phú Quốc</td><td>141.332.300.000</td><td>-</td></tr><tr><td>Dự án khác</td><td>851.593.446</td><td>612.984.083</td></tr><tr><td>Cộng</td><td>191.585.684.191</td><td>732.489.819.777</td></tr></table>
+
+29
+
+1.20 - + = - 1.11
+
+===== PAGE 31 =====
+CÔNG TY CỔ PHẦN TẬP ĐOÀN C.E.O
+
+Tâng 5, Tháp CEO, HH2-1, Đô thị mới Mế Trì Hạ
+Quận Nam Từ Liêm, thành phố Hà Nội
+
+THUYET MINH BẢO CẢO TẢI CHÍNH HỢP NHẤT (TIẾP THEO)
+Các Thuyết minh này là một bộ phận hợp thành và cần được đọc đồng thời với Báo cáo tài chính hợp nhất
+MẦU SỐ B 09 - DN/HN
+
+V. THÔNG TIN BỔ SUNG CHO CÁC KHOÀN MỤC TRÌNH BÀY TRÊN BẢNG CÂN ĐỐI KẾ TOÁN HỢP NHẤT (TIẾP THEO)
+
+12. Đầu tư góp vốn vào đơn vị khác
+
+<table><tr><td rowspan="2" colspan="2"></td><td colspan="3">31/12/2016</td><td colspan="4">01/01/2016</td></tr><tr><td>Số lượng cổ phần</td><td>Giá gốc VND</td><td>Giá trị hợp lý VND</td><td>Dự phòng VND</td><td>Số lượng cổ phần</td><td>Giá gốc VND</td><td>Giá trị hợp lý VND</td></tr><tr><td colspan="2">Công ty CP Đầu tư Phát triển Phong Phú Lăng Cô</td><td>160.000</td><td>1.600.000.000</td><td>1.600.000.000</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td colspan="2">Cộng</td><td></td><td>1.600.000.000</td><td>1.600.000.000</td><td>-</td><td></td><td>-</td><td>-</td></tr></table>
+
+30
+
+\( b_{0} \)  \( ^{11} \) ,  \( \equiv \) , < = >, d
+
+===== PAGE 32 =====
+CÔNG TY CỔ PHẦN TẬP ĐOÀN C.E.O
+
+Tầng 5, Tháp CEO, HH2-1, Đô thị mới Mễ Trì Hạ
+Quận Nam Từ Liêm, thành phố Hà Nội
+
+THUYẾT MINH BẢO CẢO TÀI CHÍNH HỢP NHẤT (TIẾP THEO)
+Các Thuyết minh này là một bộ phận hợp thành và cần được đọc đồng thời với Báo cáo tài chính hợp nhất
+MẦU SỐ B 09 - DN/HN
+
+V. THÔNG TIN BÓ SUNG CHO CÁC KHOẢN MỤC TRÌNH BÀY TRÊN BẢNG CÂN ĐỐI KẾ TOÁN HỢP NHẤT (TIẾP THEO)
+
+13. Lợi thể thương mại
+
+Lợi thế thương mại phát sinh từ mua cổ phần/góp vốn
+
+<table><tr><td></td><td>Công ty CP Đầu tư và Phát triển Phú Quốc VND</td><td>Công ty TNHH C.E.O Quốc tế VND</td><td>Công ty Cổ phần đầu tư BMC - C.E.O VND</td><td>Công ty Cổ phần Du lịch C.E.O VND</td><td>Công ty CP Phát triển Nhà và Đô thị Phú Quốc VND</td><td>Tổng VND</td></tr><tr><td colspan="7">NGUYÊN GIÁ</td></tr><tr><td>Tại ngày 01/01/2016</td><td>90.029.000.000</td><td>3.919.980.000</td><td>13.683.536.032</td><td>-</td><td>-</td><td>107.632.516.032</td></tr><tr><td>Tăng do mua công ty con</td><td>-</td><td>-</td><td>-</td><td>44.622.197</td><td>127.838.439.012</td><td>127.883.061.209</td></tr><tr><td>Tại ngày 31/12/2016</td><td>90.029.000.000</td><td>3.919.980.000</td><td>13.683.536.032</td><td>44.622.197</td><td>127.838.439.012</td><td>235.515.577.241</td></tr><tr><td colspan="7">HAO MÒN</td></tr><tr><td>Tại ngày 01/01/2016</td><td>33.797.928.572</td><td>1.567.992.000</td><td>2.736.707.206</td><td>-</td><td>-</td><td>38.102.627.778</td></tr><tr><td>Khấu hao trong năm</td><td>11.246.214.286</td><td>391.998.000</td><td>2.736.707.207</td><td>44.622.197</td><td>2.130.640.651</td><td>16.550.182.341</td></tr><tr><td>Tại ngày 31/12/2016</td><td>45.044.142.858</td><td>1.959.990.000</td><td>5.473.414.413</td><td>44.622.197</td><td>2.130.640.651</td><td>54.652.810.119</td></tr><tr><td colspan="7">GIÁ TRỊ CÒN LẠI</td></tr><tr><td>Tại ngày 01/01/2016</td><td>56.231.071.428</td><td>2.351.988.000</td><td>10.946.828.826</td><td>-</td><td>-</td><td>69.529.888.254</td></tr><tr><td>Tại ngày 31/12/2016</td><td>44.984.857.142</td><td>1.959.990.000</td><td>8.210.121.619</td><td>-</td><td>125.707.798.361</td><td>180.862.767.122</td></tr></table>
+
+BÁO CÁO TÀI CHÍNH HỢP NHẤT
+
+Cho năm tài chính kết thúc
+
+ngày 31 tháng 12 năm 2016
+
+MĂU SỐ B 09 - DN/HN
+
+31
+
+\( \because {N}_{0} = 3 \)
+
+===== PAGE 33 =====
+CÔNG TY CỔ PHẦN TẬP ĐOÀN C.E.O
+
+Tầng 5, Tháp CEO, HH2-1, Đô thị mới Mễ Trì Hạ
+Quận Nam Từ Liêm, thành phố Hà Nội
+
+THUYẾT MINH BAO CAO TÀI CHÍNH HỢP NHẤT (TIẾP THEO)
+Các Thuyết minh này là một bộ phận hợp thành và cần được đọc đồng thời với Báo cáo tài chính hợp nhất
+MẦU SỐ B 09 - DN/HN
+
+V. THÔNG TIN BỔ SUNG CHO CÁC KHOẢN MỤC TRÌNH BÀY TRÊN BẢNG CÂN ĐỐI KẾ TOÁN HỢP NHẤT (TIẾP THEO)
+
+14. Phải trả người bán ngắn hạn
+
+<table><tr><td rowspan="2"></td><td colspan="2">31/12/2016</td><td colspan="2">01/01/2016</td></tr><tr><td>Giá trịVND</td><td>Số có khả năngtrả nợVND</td><td>Giá trịVND</td><td>Số có khả năngtrả nợVND</td></tr><tr><td>Công ty Cổ phần xây dựng Cotec</td><td>46.111.486.654</td><td>46.111.486.654</td><td>23.895.034.894</td><td>23.895.034.894</td></tr><tr><td>Công ty TNHH thương mại Thuận Phát</td><td>-</td><td>-</td><td>7.576.548.385</td><td>7.576.548.385</td></tr><tr><td>Công ty Cổ phần Công nghệ giải pháp Thi Thiên</td><td>-</td><td>-</td><td>3.464.823.810</td><td>3.464.823.810</td></tr><tr><td>Công ty TNHH Dân &amp; Dan</td><td>-</td><td>-</td><td>3.152.042.823</td><td>3.152.042.823</td></tr><tr><td>Công ty TNHH Đầu bếp Châu Âu</td><td>-</td><td>-</td><td>2.963.683.056</td><td>2.963.683.056</td></tr><tr><td>Công ty Cổ phần kỹ thuật Sigma</td><td>10.431.889.086</td><td>10.431.889.086</td><td>-</td><td>-</td></tr><tr><td>Công ty TNHH MTV phát triển bất động sản và du lịch VGC Phú Quốc</td><td>7.065.638.923</td><td>7.065.638.923</td><td>-</td><td>-</td></tr><tr><td>Công ty Cổ phần Cáp điện và hệ thống LS-VINA</td><td>6.074.291.433</td><td>6.074.291.433</td><td>-</td><td>-</td></tr><tr><td>Nhà cung cấp khác</td><td>81.734.164.577</td><td>81.734.164.577</td><td>52.512.079.127</td><td>52.512.079.127</td></tr><tr><td>Cộng</td><td>151.417.470.673</td><td>151.417.470.673</td><td>93.564.212.095</td><td>93.564.212.095</td></tr></table>
+
+32
+
+===== PAGE 34 =====
+CÔNG TY CỔ PHẦN TẬP ĐOÀN C.E.O
+
+Tâng 5, Tháp CEO, HH2-1, Đô thị mới Mễ Trì Hạ
+Quận Nam Từ Liêm, thành phố Hà Nội
+
+THUYET MINH BAO CAO TAI CHÍNH HỢP NHẤT (TIẾP THEO)
+Các Thuyết minh này là một bộ phận hợp thành và cần được đọc đồng thời với Bảo cáo tài chính hợp nhất
+MẦU SỐ B 09 - DN/HN
+
+V. THÔNG TIN BỔ SUNG CHO CÁC KHOẢN MỤC TRÌNH BÀY TRÊN BẢNG CÂN ĐỐI KẾ TOÁN HỢP NHẤT (TIẾP THEO)
+
+15. Thuế và các khoản phải nộp nhà nước
+
+<table><tr><td></td><td>31/12/2016VND</td><td>Số phải nộp trong năm VND</td><td>Số đã thực nộp trong năm VND</td><td>01/01/2016VND</td></tr><tr><td colspan="5">Các khoản phải trả</td></tr><tr><td>Thuế giá trị gia tăng</td><td>32.760.105.526</td><td>60.237.157.735</td><td>29.031.123.619</td><td>1.554.071.410</td></tr><tr><td>Thuế thu nhập doanh nghiệp</td><td>60.465.014.292</td><td>70.695.994.956</td><td>47.969.966.022</td><td>37.738.985.358</td></tr><tr><td>Thuế thu nhập cá nhân</td><td>3.642.287.544</td><td>7.127.060.432</td><td>4.027.263.325</td><td>407.446.030</td></tr><tr><td>Các loại thuế khác</td><td>1.448.876.027</td><td>2.407.904.252</td><td>959.028.225</td><td>-</td></tr><tr><td>Cộng</td><td>98.316.283.389</td><td>140.468.117.375</td><td>81.987.381.191</td><td>39.700.502.798</td></tr></table>
+
+33
+
+\( x^{2}+y^{2}=r^{2} \)
+
+===== PAGE 35 =====
+CÔNG TY CỔ PHẦN TẬP ĐOÀN C.E.O
+
+Tàng 5, Tháp CEO, HH2-1, Đô thị mới Mễ Trì Hạ
+
+Quận Nam Từ Liêm, thành phố Hà Nội
+
+BÁO CÁO TÀI CHÍNH HỢP NHẤT
+
+Cho năm tài chính kết thúc
+
+ngày 31 tháng 12 năm 2016
+
+THUYẾT MINH BẢO CẢO TÀI CHÍNH HỢP NHẤT (TIẾP THEO)
+
+MẦU SỐ B 09 - DN/HN
+
+Các Thuyết minh này là một bộ phận hợp thành và cần được đọc đồng thời với Báo cáo tài chính hợp nhất
+
+V. THÔNG TIN BỔ SUNG CHO CÁC KHOẢN MỤC TRÌNH BÀY TRÊN BẢNG CÂN ĐỐI KẾ TOÁN HỢP NHẤT (TIẾP THEO)
+
+16. Người mua trả tiền trước ngắn hạn
+
+<table><tr><td></td><td>31/12/2016VND</td><td>01/01/2016VND</td></tr><tr><td>Công ty TNHH Kosmos Phú Quốc</td><td>-</td><td>17.424.865.633</td></tr><tr><td>Công ty TNHH TM Đức Trung</td><td>-</td><td>13.340.887.942</td></tr><tr><td>Công ty Cổ phần Hoàng Hà Phú Quốc</td><td>-</td><td>10.949.297.280</td></tr><tr><td>Tăng Khánh An</td><td>22.075.534.059</td><td>-</td></tr><tr><td rowspan="2">Công ty TNHH MTV Phát triển Bất động sản và Du lịch VGC Phú Quốc</td><td>13.701.160.000</td><td></td></tr><tr><td></td><td>8.033.168.214</td></tr><tr><td>Võ Thanh Hải</td><td>6.944.497.230</td><td>3.549.369.957</td></tr><tr><td>Người mua khác</td><td>358.931.393.155</td><td>118.152.370.965</td></tr><tr><td>Cộng</td><td>401.652.584.444</td><td>171.449.959.991</td></tr></table>
+
+17. Chi phí phải trả
+
+<table><tr><td></td><td>31/12/2016VND</td><td>01/01/2016VND</td></tr><tr><td colspan="3">a) Ngắn hạn</td></tr><tr><td>Trích trước chi phí lãi vay</td><td>5.365.304.462</td><td>6.420.402.085</td></tr><tr><td>Trích trước chi phí công trình - dự án Chi Đông</td><td>14.848.551.400</td><td>14.848.551.400</td></tr><tr><td>Chi phí phải trả của khách sạn Novotel chưa có hóa đơn</td><td>4.477.647.597</td><td>-</td></tr><tr><td>Trích trước chi phí khác</td><td>2.949.867.403</td><td>3.558.737.048</td></tr><tr><td>Cộng</td><td>27.641.370.862</td><td>24.827.690.533</td></tr><tr><td colspan="3">b) Dài hạn</td></tr><tr><td>Chi phí thuê đất tạm tính cho các các Lô đất BĐS đã bán (*)</td><td>75.723.565.512</td><td>4.386.401.328</td></tr><tr><td>Cộng</td><td>75.723.565.512</td><td>4.386.401.328</td></tr></table>
+
+(*) Chi phí phải trả dài hạn tiền thuê đất tạm tính các lô đã bán theo hợp đồng thuê đất thời hạn thuê 50 năm kể từ ngày 25 tháng 12 năm 2012 đến ngày 25 tháng 12 năm 2062. Căn cứ quyết định về việc miễn tiền thuê đất theo ưu đãi đầu tư số 1236/QĐ-CT ngày 22 tháng 09 năm 2016, Công ty Cổ phần Đầu tư phát triển Phú Quốc được miễn tiền thuê đất theo ưu đãi 15 năm.
+
+34
+
+===== PAGE 36 =====
+CÔNG TY CỔ PHẦN TẬP ĐOÀN C.E.O
+
+Tàng 5, Tháp CEO, HH2-1, Đô thị mới Mễ Trì Hạ
+
+Quận Nam Từ Liêm, thành phố Hà Nội
+
+BÁO CÁO TÀI CHÍNH HỢP NHẤT
+
+Cho năm tài chính kết thúc
+
+ngày 31 tháng 12 năm 2016
+
+THUYẾT MINH BẢO CẢO TÀI CHÍNH HỢP NHẤT (TIẾP THEO)
+
+MẦU SỐ B 09 - DN/HN
+
+Các Thuyết minh này là một bộ phận hợp thành và cần được đọc đồng thời với Báo cáo tài chính hợp nhất
+
+V. THÔNG TIN BỔ SUNG CHO CÁC KHOẢN MỤC TRÌNH BÀY TRÊN BẢNG CÂN ĐỐI KẾ TOÁN HỢP NHẤT (TIẾP THEO)
+
+18. Doanh thu chưa thực hiện
+
+<table><tr><td></td><td>31/12/2016VND</td><td>01/01/2016VND</td></tr><tr><td colspan="3">a) Ngắn hạn</td></tr><tr><td>Doanh thu chưa thực hiện hoạt động cho thuê tháp</td><td>14.186.280.219</td><td>605.921.410</td></tr><tr><td>Các khoản doanh thu chưa thực hiện khác</td><td>27.272.727</td><td>-</td></tr><tr><td>Cộng</td><td>14.213.552.946</td><td>605.921.410</td></tr><tr><td colspan="3">b) Dài hạn</td></tr><tr><td>Doanh thu chưa thực hiện hoạt động cho thuê tháp</td><td>112.907.399.131</td><td>140.314.922.385</td></tr><tr><td>Cộng</td><td>112.907.399.131</td><td>140.314.922.385</td></tr></table>
+
+19. Phải trả khác
+
+<table><tr><td></td><td>31/12/2016VND</td><td>01/01/2016VND</td></tr><tr><td colspan="3">a) Ngắn hạn</td></tr><tr><td>- Kinh phí công đoàn</td><td>842.167.037</td><td>390.504.130</td></tr><tr><td>- Nhận ký quỹ, ký cược ngắn hạn</td><td>910.483.540</td><td>419.352.042</td></tr><tr><td>- Cổ tức, lợi nhuận phải trả</td><td>24.000.000.000</td><td>12.000.000.000</td></tr><tr><td>- Công ty TNHH Dịch vụ Bất động sản Đảo</td><td>40.849.727.601</td><td>32.732.580.608</td></tr><tr><td colspan="3">Vàng {i}</td></tr><tr><td>- Công ty Cổ phần đầu tư TM DV Đức Trí Tín</td><td>-</td><td>13.000.000.000</td></tr><tr><td>- Công ty Cổ phần Đầu tư Phát triển Phong Phú {ii}</td><td>13.069.738.326</td><td>-</td></tr><tr><td>- Các khoản phải trả, phải nộp khác</td><td>2.124.818.839</td><td>422.161.026</td></tr><tr><td colspan="3">Cổ tức phải trả</td></tr><tr><td>Cộng</td><td>81.796.935.343</td><td>58.964.597.806</td></tr><tr><td colspan="3">b) Dài hạn</td></tr><tr><td>- Nhận ký quỹ, ký cược dài hạn</td><td>3.397.419.841</td><td>3.546.743.576</td></tr><tr><td>- Phí bảo trì dự án Chi Đông</td><td>1.315.788.903</td><td>1.315.788.903</td></tr><tr><td>- Các khoản phải trả, phải nộp khác</td><td>1.723.014.289</td><td>985.730.874</td></tr><tr><td>Cộng</td><td>6.436.223.033</td><td>5.848.263.353</td></tr></table>
+
+35
+
+===== PAGE 37 =====
+CÔNG TY CỔ PHẦN TẬP ĐOÀN C.E.O
+
+Tàng 5, Tháp CEO, HH2-1, Đô thị mới Mễ Trì Hạ
+
+Quận Nam Từ Liêm, thành phố Hà Nội
+
+BÁO CÁO TÀI CHÍNH HỢP NHẤT
+
+Cho năm tài chính kết thúc
+
+ngày 31 tháng 12 năm 2016
+
+THUYẾT MINH BẢO CẢO TÀI CHÍNH HỢP NHẤT (TIẾP THEO)
+
+MẦU SỐ B 09 - DN/HN
+
+Các Thuyết minh này là một bộ phận hợp thành và cần được đọc đồng thời với Báo cáo tài chính hợp nhất
+
+V. THÔNG TIN BỔ SUNG CHO CÁC KHOẢN MỤC TRÌNH BÀY TRÊN BẢNG CÂN ĐỐI KẾ TOÁN HỢP NHẤT (TIẾP THEO)
+
+19. Phải trả khác (Tiếp theo)
+
+(i) Hợp đồng hợp tác đầu tư phân chia doanh thu Dự án Khu tổ hợp du lịch Sonasea Villas & Resort Số 706/HDHTĐT/CEO-GIS giữa Công ty Cổ phần Đầu tư và Phát triển Phú Quốc và Công ty TNHH Dịch vụ Bất động sản Đảo Vàng ký ngày 06 tháng 07 năm 2015. Theo thỏa thuận của hợp đồng, các bên hợp tác để bán các căn biệt thụ nghi dưỡng tại Dự án Sonasea. Tổng số tiền góp vốn 126.745.200.000 đồng. Tiến độ góp vốn theo 06 đợt, tối đa 12 tháng. Các bên tham gia hợp đồng hợp tác đầu tư nếu trên sẽ được hưởng một khoản doanh thu từ tiền đất có hạ tầng kỹ thuật chung với đơn giá cụ thể quy định tại hợp đồng hợp tác. Vi phạm hợp đồng sẽ phạt 8% tổng giá trị vốn góp, trường hợp Công ty Cổ phần Đầu tư và Phát triển Phú Quốc chậm tiến độ thi công quá 30 ngày thì kể từ ngày 31 sẽ bị phạt 0,5% giá trị góp vốn của Công ty TNHH Dịch vụ Bất động sản Đảo Vàng đợt thanh toán liền kê. Số ngày chậm thi công không vượt quá 60 ngày, kể từ ngày thứ 61 phạt 1% như trên. Số ngày chậm thi công vượt quá 90 ngày sẽ bị phạt hợp đồng.
+
+{ii} Khoản phải trả Công ty Cổ phần Đầu tư Phát triển Phong Phú nộp hộ cho Công ty Cổ phần Phát triển Nhà và Đô thị Phú Quốc tiền bởi thường hỗ trợ và tái định cư Dự án “Khu đô thị-Du lịch Đường Bảo-Bãi Trường-Phú Quốc”.
+
+36
+
+===== PAGE 38 =====
+CÔNG TY CỔ PHẦN TẬP ĐOÀN C.E.O
+
+Tàng 5, Tháp CEO, HH2-1, Đô thị mới Mế Trì Hạ
+
+Quận Nam Từ Liêm, thành phố Hà Nội
+
+THUYẾT MINH BẢO CẢO TÀI CHÍNH HỢP NHẤT (TIẾP THEO)
+Các Thuyết minh này là một bộ phận hợp thành và cần được đọc đồng thời với Báo cáo tài chính hợp nhất
+MẦU SỐ B 09 - DN/HN
+
+V. THÔNG TIN BỔ SUNG CHO CÁC KHOẢN MỤC TRÌNH BÀY TRÊN BẢNG CÂN ĐỐI KẾ TOÁN HỢP NHẤT (TIẾP THEO)
+
+20. Vay và nợ thuê tài chính ngắn hạn
+
+<table><tr><td rowspan="2"></td><td colspan="2">31/12/2016</td><td colspan="2">Thay đổi trong năm</td><td colspan="2">01/01/2016</td></tr><tr><td>Giá trịVND</td><td>Số có khả năng trảnợVND</td><td>VayVND</td><td>TràVND</td><td>Giá trịVND</td><td>Số có khả năng trảnợVND</td></tr><tr><td>1. Vay ngân hàng, tổ chức kinh tế</td><td>272.689.551.695</td><td>272.689.551.695</td><td>1.000.198.113.144</td><td>828.549.867.243</td><td>101.041.305.794</td><td>101.041.305.794</td></tr><tr><td>- Ngân hàng TMCP Đầu tư và Phát triển Việt Nam - Chi nhánh Thanh Xuân {i}</td><td>271.690.593.295</td><td>271.690.593.295</td><td>999.199.154.744</td><td>828.549.867.243</td><td>101.041.305.794</td><td>101.041.305.794</td></tr><tr><td>- Công ty CP Đầu tư phát triển nhà Hoàng Hải Phú Quốc</td><td>998.958.400</td><td>998.958.400</td><td>998.958.400</td><td>-</td><td>-</td><td>-</td></tr><tr><td>2. Vay cá nhân {ii}</td><td>25.079.340.000</td><td>25.079.340.000</td><td>30.530.340.000</td><td>85.551.000.000</td><td>80.100.000.000</td><td>80.100.000.000</td></tr><tr><td>Cộng (1) + (2)</td><td>297.768.891.695</td><td>297.768.891.695</td><td>1.030.728.453.144</td><td>914.100.867.243</td><td>181.141.305.794</td><td>181.141.305.794</td></tr><tr><td>Vay dài hạn đến hạn trả (xem thuyết minh số V.21)</td><td>97.874.753.750</td><td>97.874.753.750</td><td></td><td></td><td>36.131.208.723</td><td>36.131.208.723</td></tr><tr><td>- Ngân hàng TMCP Đầu tư và Phát triển Việt Nam - Chi nhánh Thanh Xuân</td><td>97.874.753.750</td><td>97.874.753.750</td><td></td><td></td><td>36.131.208.723</td><td>36.131.208.723</td></tr><tr><td>Tổng cộng</td><td>395.643.645.445</td><td>395.643.645.445</td><td></td><td></td><td>217.272.514.517</td><td>217.272.514.517</td></tr></table>
+
+37
+
+===== PAGE 39 =====
+CÔNG TY CỔ PHẦN TẬP ĐOÀN C.E.O
+
+Tàng 5, Tháp CEO, HH2-1, Đô thị mới Mễ Trì Hạ
+
+Quận Nam Từ Liêm, thành phố Hà Nội
+
+BÁO CÁO TÀI CHÍNH HỢP NHẤT
+
+Cho năm tài chính kết thúc
+
+ngày 31 tháng 12 năm 2016
+
+THUYẾT MINH BẢO CẢO TÀI CHÍNH HỢP NHẤT (TIẾP THEO)
+
+MẦU SỐ B 09 - DN/HN
+
+Các Thuyết minh này là một bộ phận hợp thành và cần được đọc đồng thời với Báo cáo tài chính hợp nhất
+
+V. THÔNG TIN BỔ SUNG CHO CÁC KHOẢN MỤC TRÌNH BÀY TRÊN BẢNG CÂN ĐỐI KẾ TOÁN HỢP NHẤT (TIẾP THEO)
+
+20. Vay và nợ thuê tài chính ngắn hạn (Tiếp theo)
+
+{i} Các khoản vay của Ngân hàng TMCP Đầu tư và Phát triển Việt Nam - Chi nhánh Thanh Xuân theo các Hợp đồng sau:
+
+Khoản thầu chi với Ngân hàng TMCP Đầu tư và Phát triển Việt Nam - Chi Nhánh Thanh Xuân theo Hợp đồng thầu chi số 01/2016/2356339/HĐTD ngày 29 tháng 04 năm 2016. Giá trị hạn mức thầu chi là 100 tỷ đồng. Thời hạn thầu chi tối đa 12 tháng. Đến thời điểm đảo hạn, căn cứ thời điểm đáo hạn quay vòng kỳ tiếp theo của các khoản tiền gửi dùng làm TSĐB được xác định lại. Thời hạn hiệu lực của hạn mức thầu chi là 12 tháng, không vượt quá ngày 21 tháng 04 năm 2017. Lãi suất trong hạn 6,7%/năm được áp dụng đến 30 tháng 06 năm 2016 sau đó áp dụng lãi suất thả nổi được điều chỉnh 03 tháng 1 lần, trong mọi trường hợp không được thấp hơn lãi suất tiền gửi đối ứng làm TSĐB (6,5%/năm). Lãi suất quá hạn bằng 150% lãi suất trong hạn và được tính từ ngày quá hạn.
+
+Khoản vay theo hợp đồng tín dụng hạn mức số 01/2016/4350191/HĐTD ngày 29 tháng 04 năm 2016 với Ngân hàng TMCP Đầu tư và Phát triển Việt Nam - Chi nhánh Thanh Xuân. Hạn mức tín dụng là 200 tỷ đồng, mục đích đề bổ sung vốn lưu động, bảo lãnh, mở L/C, thời hạn cấp hạn mức là 12 tháng kể từ ngày ký hợp đồng nhưng không vượt quá ngày 30 tháng 04 năm 2017. Lãi suất được xác định trong từng hợp đồng tín dụng cụ thể. Kế hoạch trả nợ gốc và lãi được xác định tại từng hợp đồng tín dụng cụ thể. Tài sản bảo đảm là các biện pháp đảm bảo ký kết giữa ngân hàng và Tập đoàn (xem chi tiết tại thuyết minh V.7, V.8 và V.10).
+
+{ii} Các khoản vay tín chấp theo Hợp đồng vay có thời hạn không quá 12 tháng, lãi suất vay được quy định theo từng hợp đồng.
+
+38
+
+\( \therefore {a}_{1} =  - \frac{1}{2}{b}_{1} =  - \frac{1}{2}{c}_{1} =  - \frac{1}{2} \)
+
+===== PAGE 40 =====
+CÔNG TY CỔ PHẦN TẬP ĐOÀN C.E.O
+
+Tâng 5, Tháp CEO, HH2-1, Đô thị mới Mê Trì Hạ
+
+ngày 31 tháng 12 năm 2016
+
+MĂU SỐ B 09 - DN/HN
+
+V. THÔNG TIN BỔ SUNG CHO CÁC KHOẢN MỤC TRÌNH BÀY TRÊN BẢNG CÂN ĐỐI KẾ TOÁN HỢP NHẤT (TIẾP THEO)
+
+21. Vay và nợ thuê tài chính dài hạn
+
+<table><tr><td rowspan="2"></td><td colspan="2">31/12/2016</td><td colspan="2">Thay đổi trong năm</td><td colspan="2">01/01/2016</td></tr><tr><td>Giá trịVND</td><td>Số có khả năng trả nợVND</td><td>VayVND</td><td>TrảVND</td><td>Giá trịVND</td><td>Số có khả năng trả nợVND</td></tr><tr><td>1. Vay dài hạn ngân hàng, tổ chức kinh tế</td><td>948.835.126.788</td><td>948.835.126.788</td><td>228.217.179.716</td><td>48.810.358.400</td><td>769.428.305.472</td><td>769.428.305.472</td></tr><tr><td>- Ngân hàng TMCP Đầu tư và Phát triển Việt Nam - Chi nhánh Thanh Xuân (*)</td><td>948.835.126.788</td><td>948.835.126.788</td><td>228.217.179.716</td><td>47.811.400.000</td><td>768.429.347.072</td><td>768.429.347.072</td></tr><tr><td>- Công ty Cổ phần đầu tư phát triển nhà Hoàng Hải Phú Quốc</td><td>-</td><td>-</td><td>-</td><td>998.958.400</td><td>998.958.400</td><td>998.958.400</td></tr><tr><td>2. Vay dài hạn cá nhân (2)</td><td>-</td><td>-</td><td>-</td><td>7.605.900.000</td><td>7.605.900.000</td><td>7.605.900.000</td></tr><tr><td>Cộng vay dài hạn (1) và (2)</td><td>948.835.126.788</td><td>948.835.126.788</td><td>228.217.179.716</td><td>56.416.258.400</td><td>777.034.205.472</td><td>777.034.205.472</td></tr><tr><td>Các khoản vay dài hạn đến hạn trả</td><td>(97.874.753.750)</td><td>(97.874.753.750)</td><td></td><td></td><td>(36.131.208.723)</td><td>(36.131.208.723,0)</td></tr><tr><td>Ngân hàng TMCP Đầu tư và Phát triển Việt Nam - Chi nhánh Thanh Xuân</td><td>(97.874.753.750)</td><td>(97.874.753.750)</td><td></td><td></td><td>(36.131.208.723)</td><td>(36.131.208.723,0)</td></tr><tr><td>Tổng cộng</td><td>850.960.373.038</td><td>850.960.373.038</td><td></td><td></td><td>740.902.996.749</td><td>740.902.996.749</td></tr></table>
+
+39
+
+b) 1 = 2 - 3 = 2 - 4
+
+===== PAGE 41 =====
+CÔNG TY CỔ PHẦN TẬP ĐOÀN C.E.O
+
+Tầng 5, Tháp CEO, HH2-1, Đô thị mới Mễ Trì Hạ
+
+Quận Nam Từ Liêm, thành phố Hà Nội
+
+BÁO CÁO TÀI CHÍNH HỢP NHẤT
+
+Cho năm tài chính kết thúc
+
+ngày 31 tháng 12 năm 2016
+
+THUYẾT MINH BẢO CẢO TÀI CHÍNH HỢP NHẤT (TIẾP THEO)
+
+MĂU SỐ B 09 - DN/HN
+
+Các Thuyết minh này là một bộ phận hợp thành và cần được đọc đồng thời với Báo cáo tài chính hợp nhất
+
+V. THÔNG TIN BỔ SUNG CHO CÁC KHOẢN MỤC TRÌNH BÀY TRÊN BẢNG CÂN ĐỐI KẾ TOÁN HỢP NHẤT (TIẾP THEO)
+
+21. Vay và nợ thuê tài chính dài hạn (Tiếp theo)
+
+Các khoản vay dài hạn với Ngân hàng TMCP Đầu tư và Phát triển Việt Nam - Chi nhánh Thanh Xuân theo các hợp đồng sau:
+
+Hợp đồng tín dụng số 01/2014/2356339/HĐTD ngày 21 tháng 07 năm 2014 và văn bản sửa đổi, bổ sung hợp đồng tín dụng số 01.01/2014/2356339/HĐTD ngày 21 tháng 07 năm 2015. Hạn mức tín dụng của khoản vay là 80.000.000.000 đồng. Thời hạn vay là 4 năm kể từ ngày bền vay rút khoản vốn đầu tiên của hợp đồng. Lãi suất áp dụng là lãi suất thả nổi, điều chỉnh 3 tháng/lần, lãi suất nợ quả hạn bằng 150% lãi suất trong hạn. Tập đoàn sử dụng khoản vay để bổ sung vốn hoàn thiện 330 biệt thư của dự án Sunny Garden City, Quốc Oai, Hà Nội và để nhận nợ dự án Sunny Garden City, Quốc Oai, Hà nội theo Hợp đồng mua bán nợ số 01/HĐMBN/BIDV.TX-MB.MĐ ký giữa Ngân hàng TMCP Quân đội - Chi nhánh Mỹ Đình và Ngân hàng TMCP Đầu tư và Phát triển Việt Nam - Chỉ nhánh Thanh Xuân ngày 21 tháng 07 năm 2014. Khoản vay được đảm bằng các tài sản theo Hợp đồng thế chấp bất động sản số 01/2356339/2014/HĐBĐ ngày 24 tháng 07 năm 2014, bao gồm: toàn bộ quyền sở hữu tài sản trên đất (giá trị Quyền sử dụng và khai thác) tại Lô đất ký hiệu HH2-1 trong Khu đô thị mới Mã Trì Hạ, phường Mã Trì, quận Nam Từ Liêm, thành phố Hà Nội theo Giấy chứng nhận quyền sử dụng đất số ADD 692008 và quyết định số 4014/QĐ-UBND ngày 09 tháng 10 năm 2007 do UBND thành phố Hà Nội cấp ngày 01/10/2007 cho Công ty cổ phần Đầu tư C.E.O (nay là Công ty Cổ phần Tập đoàn C.E.O), tổng giá trị tài sản thế chấp được định giá là 170.000.000.000 đồng.
+
+Hợp đồng tín dụng số 01/2015/2356339/HĐTD ngày 26 tháng 6 năm 2015, hạn mức vay tối đa là 150.000.000.000 đồng nhưng không quá 67% tổng mức đầu tư của dự án. Tập đoàn vay vốn đề đầu tư dự án Khu nhà ở xã hội Ô đất CC-1 khu đô thị mới thuộc các lô đất N1+N3 thuộc Khu đô thị Quốc Oai, huyện Quốc Oai, TP. Hà Nội. Thời hạn vay là 4 năm kể từ ngày bên vay rút khoản vốn đầu tiên. Khoản vay này chịu lãi suất 5%/năm đến hết 30 tháng 09 năm 2015, sau thời gian trên áp dụng theo quy định của Ngân hàng TMCP Đầu tư và Phát triển Việt Nam - Chi nhánh Thanh Xuân, lãi suất quá hạn bằng 150% lãi trong hạn. Tài sản đảm bảo là các công trình gắn liền với đất và các tài sản khác không bao gồm quyền sử dụng đất hình thành sau đầu tư tại dự án Khu nhà ở xã hội tại Ô đất CC-1 khu đô thị mới thuộc các lô đất N1 + N3 thuộc Khu đô thị Quốc Oai, huyện Quốc Oai, TP. Hà Nội (Khu nhà ở xã hội Bamboo Garden) và các quyền phát sinh có liên quan. Tổng giá trị tài sản thế chấp ước tính là 242.435.000.000 đồng.
+
+Hợp đồng tín dụng số 04/2016/4350191/HĐTD ngày 10 tháng 11 năm 2016. Số tiền vay là 2.896.783.120 đồng, Tập đoàn vay để mua 2 máy xúc đào thủy lực bánh xích, thời hạn vay là 48 tháng kể từ ngày giải ngân đầu tiên. Lãi suất 10% trong 3 tháng đầu, 11% từ tháng thứ 4 trở đi và được điều chỉnh 3 tháng/lần theo thông báo của Ngân hàng, lãi nợ quá hạn là 150% lãi suất trong hạn. Trả nợ gốc theo lịch trả nợ 3 tháng/lần, lãi trả vào 25 hàng tháng. Tài sản bảo đảm là tài sản hình thành từ vốn vay dự án.
+
+Hợp đồng tín dụng số 02/2016/4350191/HĐTD ngày 25 tháng 07 năm 2016, số tiền vay là 3.015.167.400 đồng. Tập đoàn sử dụng tiền vay để mua lu rung nhân hiệu Hamm và Cabin, xe ô tô tải ben tự đồ, máy xúc đào thủy lực bánh xích, thời hạn vay là 48 tháng kể từ ngày giải ngân đầu tiên. Lãi suất cho vay trong hạn là 11% áp dụng tới 30 tháng 09 năm 2016 sau đó được điều chỉnh 3 tháng/lần theo thông báo của Ngân hàng, lãi suất nợ quá hạn là 150% lãi suất trong hạn. Trả nợ gốc theo lịch trả nợ 3 tháng/lần, lãi trả vào 25 hàng tháng. Tài sản bảo đảm là tài sản hình thành từ vốn vay của dự án.
+
+40
+
+11÷1 = 20÷1/10
+
+===== PAGE 42 =====
+CÔNG TY CỔ PHẦN TẬP ĐOÀN C.E.O
+
+Tàng 5, Tháp CEO, HH2-1, Đô thị mới Mễ Trì Hạ
+
+Quận Nam Từ Liêm, thành phố Hà Nội
+
+BÁO CÁO TÀI CHÍNH HỢP NHẤT
+
+Cho năm tài chính kết thúc
+
+ngày 31 tháng 12 năm 2016
+
+THUYẾT MINH BẢO CẢO TÀI CHÍNH HỢP NHẤT (TIẾP THEO)
+
+MĂU SỐ B 09 - DN/HN
+
+Các Thuyết minh này là một bộ phận hợp thành và cần được đọc đồng thời với Báo cáo tài chính hợp nhất
+
+V. THÔNG TIN BỔ SUNG CHO CÁC KHOÃN MỤC TRÌNH BÀY TRÊN BẢNG CÂN ĐỐI KẾ TOÁN HỢP NHẤT (TIẾP THEO)
+
+21. Vay và nợ thuê tài chính dài hạn (Tiếp theo)
+
+Các khoản vay dài hạn với Ngân hàng TMCP Đầu tư và Phát triển Việt Nam - Chi nhánh Thanh Xuân theo các hợp đồng sau (Tiếp theo):
+
+Hợp đồng tín dụng số 03/2016/4350191/HĐTD ngày 16 tháng 08 năm 2016, số tiền vay là 1.015.000.000 đồng. Tập đoàn sử dụng tiền vay để thanh toán tiền xe ô tô tải có cản NHL nhận Hino, thời hạn vay là 36 tháng kể từ ngày giải ngân đầu tiên. Lãi suất cho vay trong hạn là 11% áp dụng tối 30 tháng 09 năm 2016 sau đó được điều chỉnh 3 tháng/lần theo thông báo của Ngân hàng, lãi suất nợ quá hạn là 150% lãi suất trong hạn. Trả nợ gốc theo lịch trả nợ 3 tháng/lần, lãi trả vào 25 hàng tháng. Tài sản bảo đảm là tài sản hình thành từ vốn vay của dự án.
+
+Hợp đồng tín dụng số 01/2015/4350191/HĐTD ngày 28 tháng 08 năm 2015, số tiền vay là 5.018.959.750 đồng. Tập đoàn sử dụng tiền vay để thanh toán tiền mua sắm tài sản cố định. Thời hạn vay 48 tháng với lãi suất thả nổi điều chỉnh 3 tháng/lần theo thông báo lãi suất của Ngân hàng BIDV CN Thanh Xuân. Tiền lãi vay được bên vay trả định kỳ 25 hàng tháng. Tài sản đảm bảo là toàn bộ tài sản hình thành từ vốn vay.
+
+Hợp đồng tín dụng số 03/2014/4350191/HĐTD ngày 06 tháng 10 năm 2014, số tiền vay là 3.556.753.750 đồng, thời gian cho vay là 36 tháng. Lãi suất áp dụng là 11%/năm từ thời điểm vay đến ngày 31 tháng 12 năm 2014 và sau đó được điều chỉnh 03 tháng/lần theo lãi suất quy định của BIDV. Tập đoàn sử dụng tiền vay để thanh toán tiền mua 01 máy xúc thủy lực. Khoản vay được đảm bảo bằng tài sản hình thành từ vốn vay.
+
+Hợp đồng hạn mức tín dụng số HĐ 01/2014/3778372 ngày 20 tháng 11 năm 2014; tổng hạn mức cho vay là 600 tỷ đồng; thời hạn vay là 09 năm kể từ ngày nhận nợ. Thời gian ăn hạn là 2 năm, sau khi hết thời gian ăn hạn mới xác định lịch trả nợ. Lãi suất áp dụng là lãi suất huy động tiết kiệm VND kỳ hạn 12 tháng và biên độ (+) 3%/năm. Lãi quả hạn bằng 150% lãi trong hạn. Tập đoàn sử dụng tiền vay để thực hiện đầu tư dự án Khu tổ hợp du lịch Sonasea Villas and Resort - Phú Quốc. Khoản vay được đảm bảo theo hợp đồng thế chấp tài sản số 01/2014/3778372/HĐTC ngày 28 tháng 11 năm 2014. Giá trị tài sản thể chấp tạm tính theo hợp đồng này là 1.320.075.000.000 đồng.
+
+Hợp đồng tín dụng số 01/2016/3778372/HDDA ngày 19 tháng 8 năm 2016; tổng khoản nợ gốc không được vượt quá 305.000.000.000 đồng. Tập đoàn sử dụng tiền vay để tài trợ chi phí hợp lý đầu tư dự án 78 căn biệt thư và được bên cho vay chấp nhận. Lãi suất các khoản vay được áp dụng lĩa suất cho vay thỏa thuận thả nổi, điều chỉnh định kỳ 3 tháng/lần kể từ ngày giải ngân đầu tiên. Lãi suất cho vay đến hết 30/9/2016 là 11%/năm. Thời hạn vay là 48 tháng kể từ ngày giải ngân đầu tiên, trong đó thời gian ân hạng đối với các khoản vay là 12 tháng kể từ ngày giải ngân đầu tiên, thời hạn rút vốn là hai mươi tư tháng kể từ ngày giải ngân đầu tiên. Lãi phạt chậm nộp bằng 150% lãi suất trong hạn. Để đảm bảo cho các nghĩa vụ, bên vay sẽ thế chấp cho bên cho vay công trình/ cơ sở hạ tầng dự án 78 căn biệt thư thuộc dự án theo hợp đồng thế chấp tài sản hình thành trong tương lai ngay sau khi văn bản quy phạm pháp luật có liên quan cho phép.
+
+41
+
+===== PAGE 43 =====
+CÔNG TY CỔ PHẦN TẬP ĐOÀN C.E.O
+
+Tàng 5, Tháp CEO, HH2-1, Đô thị mới Mễ Trì Hạ
+
+Quận Nam Từ Liêm, thành phố Hà Nội
+
+BÁO CÁO TÀI CHÍNH HỢP NHẤT
+
+Cho năm tài chính kết thúc
+
+ngày 31 tháng 12 năm 2016
+
+THUYẾT MINH BẢO CẢO TÀI CHÍNH HỢP NHẤT (TIẾP THEO)
+
+MĂU SỐ B 09 - DN/HN
+
+Các Thuyết minh này là một bộ phận hợp thành và cần được đọc đồng thời với Báo cáo tài chính hợp nhất
+
+V. THÔNG TIN BỔ SUNG CHO CÁC KHOẢN MỤC TRÌNH BÀY TRÊN BẢNG CẦN ĐỐI KẾ TOÁN HỢP NHẤT (TIẾP THEO)
+
+21. Vay và nợ thuê tài chính dài hạn (Tiếp theo)
+
+Các khoản vay dài hạn được hoàn trả theo lịch biểu sau:
+
+<table><tr><td></td><td>31/12/2016VND</td><td>01/01/2016VND</td></tr><tr><td>Trong vòng một năm</td><td>97.874.753.750</td><td>36.131.208.723</td></tr><tr><td>Từ năm thứ hai đến năm thứ năm</td><td>850.960.373.038</td><td>740.902.996.749</td></tr><tr><td>Cộng</td><td>948.835.126.788</td><td>777.034.205.472</td></tr><tr><td>Trừ: số phải trả trong vòng 12 tháng(được trình bày ở phần vay ngắn hạn)</td><td>(97.874.753.750)</td><td>(36.131.208.723)</td></tr><tr><td>Số phải trả sau 12 tháng</td><td>850.960.373.038</td><td>740.902.996.749</td></tr></table>
+
+42
+
+===== PAGE 44 =====
+CÔNG TY CỔ PHẦN TẬP ĐOÀN C.E.O
+
+Tâng 5, Tháp CEO, HH2-1, Đô thị mới Mễ Trì Hạ
+
+ngày 31 tháng 12 năm 2016
+
+THUYET MINH BAO CAO TAI CHINH HỢP NHẤT (TIỂP THEO)
+Các Thuyết minh này là một bộ phận hợp thành và cần được đọc đồng thời với Báo cáo tài chính hợp nhất
+
+V. THÔNG TIN BỔ SUNG CHO CÁC KHOẢN MỤC TRÌNH BÀY TRÊN BẢNG CÂN ĐỐI KẾ TOÁN HỢP NHẤT (TIẾP THEO)
+
+22. Vốn chủ sở hữu
+
+a. Thay đổi trong vốn chủ sở hữu
+
+<table><tr><td></td><td>Vốn góp của chủ sở hữu VND</td><td>Quỹ đầu tư phát triển VND</td><td>Quỹ khác của chủ sở hữu VND</td><td>Lợi nhuận chưa phân phối VND</td><td>Lợi ích cổ đông không kiểm soát VND</td><td>Tổng cộng VND</td></tr><tr><td>Số dư tại ngày 01/01/2015</td><td>343.119.980.000</td><td>40.264.171.881</td><td>136.172.652</td><td>82.825.873.061</td><td>79.032.339.252</td><td>545.378.536.846</td></tr><tr><td>Vốn góp tăng trong năm</td><td>343.119.980.000</td><td>-</td><td>-</td><td>-</td><td>-</td><td>343.119.980.000</td></tr><tr><td>Lợi nhuận tăng trong năm</td><td>-</td><td>-</td><td>-</td><td>139.432.263.769</td><td>66.193.733.631</td><td>205.625.997.400</td></tr><tr><td>Phân phối lợi nhuận</td><td>-</td><td>10.338.122.028</td><td>69.635.662</td><td>(21.039.772.789)</td><td>(2.727.915.866)</td><td>(13.359.930.965)</td></tr><tr><td>Tăng do phân loại lại Công ty con</td><td>-</td><td>-</td><td>-</td><td>40.932.656</td><td>588.343.810</td><td>629.276.466</td></tr><tr><td>Trả cổ tức</td><td>-</td><td>-</td><td>-</td><td>(54.899.196.800)</td><td>(23.099.500.000)</td><td>(77.998.696.800)</td></tr><tr><td>Cổ đông không kiểm soát góp vốn</td><td>-</td><td>-</td><td>-</td><td>-</td><td>102.100.000.000</td><td>102.100.000.000</td></tr><tr><td>Giảm khác</td><td>-</td><td>(6.243.529.147)</td><td>(205.790.100)</td><td>-</td><td>-</td><td>(6.449.319.247)</td></tr><tr><td>Số dư tại ngày 31/12/2015</td><td>686.239.960.000</td><td>44.358.764.762</td><td>18.214</td><td>146.360.099.897</td><td>222.087.000.827</td><td>1.099.045.843.700</td></tr><tr><td>Số dư tại ngày 31/12/2015 sau khi điều chỉnh hồi tố</td><td>686.239.960.000</td><td>44.358.764.762</td><td>18.214</td><td>140.333.081.221</td><td>217.657.848.548,00</td><td>1.088.589.672.745</td></tr><tr><td>Vốn góp tăng trong năm</td><td>343.119.980.000</td><td>-</td><td>-</td><td>(2.762.221.535)</td><td>39.798.902.751</td><td>380.156.661.216</td></tr><tr><td>Lợi nhuận tăng trong năm</td><td>-</td><td>-</td><td>-</td><td>156.982.996.514</td><td>72.984.974.633</td><td>229.967.971.147</td></tr><tr><td>Phân phối lợi nhuận</td><td>-</td><td>21.344.706.418</td><td>-</td><td>(21.344.706.418)</td><td>-</td><td>-</td></tr><tr><td>Giảm khác</td><td>-</td><td>-</td><td>(18.214)</td><td>-</td><td>-</td><td>(18.214)</td></tr><tr><td>Trích Quỹ khen thưởng phúc lợi</td><td></td><td></td><td></td><td>(16.319.919.628)</td><td>(7.837.231.570)</td><td>(24.157.151.198)</td></tr><tr><td>Trích quỹ khen thưởng Ban điều hành</td><td>-</td><td>-</td><td>-</td><td>(3.603.760.354)</td><td>-</td><td>(3.603.760.354)</td></tr><tr><td>Trả cổ tức</td><td></td><td></td><td></td><td>(61.761.596.400)</td><td>(42.615.000.000)</td><td>(104.376.596.400)</td></tr><tr><td>Số dư tại ngày 31/12/2016</td><td>1.029.359.940.000</td><td>65.703.471.180</td><td>-</td><td>191.523.873.400</td><td>279.989.494.362</td><td>1.566.576.778.942</td></tr></table>
+
+43
+
+\( \angle 10 = \angle {H}^{\prime }{H}^{\prime }N \)
+
+===== PAGE 45 =====
+CÔNG TY CỔ PHẦN TẬP ĐOÀN C.E.O
+
+Tàng 5, Tháp CEO, HH2-1, Đô thị mới Mễ Trì Hạ
+
+Quận Nam Từ Liêm, thành phố Hà Nội
+
+BÁO CÁO TÀI CHÍNH HỢP NHẤT
+
+Cho năm tài chính kết thúc
+
+ngày 31 tháng 12 năm 2016
+
+THUYẾT MINH BẢO CẢO TÀI CHÍNH HỢP NHẤT (TIẾP THEO)
+
+MĂU SỐ B 09 - DN/HN
+
+Các Thuyết minh này là một bộ phận hợp thành và cần được đọc đồng thời với Báo cáo tài chính hợp nhất
+
+V. THÔNG TIN BỔ SUNG CHO CÁC KHOẢN MỤC TRÌNH BÀY TRÊN BẢNG CÂN ĐỐI KẾ TOÁN HỢP NHẤT (TIỂP THEO)
+
+22. Vốn chủ sở hữu (Tiếp theo)
+
+a. Thay đổi trong vốn chủ sở hữu (Tiếp theo)
+
+(i) Tập đoàn đã hoàn thành thủ tục tăng vốn theo đúng quy định của pháp luật hiện hành và Phương án đã được Đại hội đồng Cổ đông phê duyệt tại Nghị quyết đại hội đồng cổ đông bất thường số 02/NQ-DHĐCD ngày 19 tháng 11 năm 2015.
+
+Theo mục 4, tờ trình số 319/TTr-HĐQT ngày 04 tháng 11 năm 2015 của Hội đồng Quản trị đã được Đại hội đồng cổ đông bất thường phê duyệt tại Nghị quyết số 02/NQ-DHĐCD ngày 19 tháng 11 năm 2015, tổng số tiền dự kiến thu được từ đợt phát hành là 343.119.980.000 đồng. Chi tiết phương án sử dụng vốn thu được từ đợt phát hành là: đầu tư vào Dự án Sonasea Residences - Phú Quốc với số tiền 189.119.980.000; đầu tư vào Dự án River Silk City phân kỳ II : 50.000.000.000 đồng; đầu tư vào Dự án căn hộ nghi Dương Sonasea - Phú Quốc với số tiền 104.000.000.000 đồng.
+
+Theo Nghị quyết của Hội đồng quản trị số 09/NQ-HĐQT ngày 27 tháng 09 năm 2016, Nghị quyết của Hội đồng quản trị số 12/NQ-HĐQT ngày 25 tháng 12 năm 2016, chi tiết phương án sử dụng vốn điều chỉnh là: đầu tư vào Dự án Sonasea Residences - Phú Quốc với số tiền 16.807.961.197 đồng, đầu tư vào Dự án River Silk City phân kỳ II với số tiền là 80.000.000.000 đồng; mua cổ phần của Công ty Cổ phần Phát triển và Đô thị Nhà Phú Quốc với số tiền 156.000.000.000 đồng, góp vốn thành lập Công ty TNHH MTV Dịch vụ Bảo Vệ C.E.O với số tiền 2.000.000.000 đồng, góp vốn thành lập Công ty TNHH MTV Khách sạn và Nghị dưỡng C.E.O với số tiền 20.000.000.000 đồng, góp vốn theo tỷ lệ vốn góp tại Công ty Cổ phần Phát triển Nhà và Đô thị Phú Quốc số tiền là 68.312.018.803 đồng. Tập đoàn đã thực hiện sử dụng vốn từ đợt phát hành theo phương án điều chỉnh nếu trên.
+
+b. Cổ phiếu
+
+<table><tr><td></td><td>31/12/2016Cổ phiếu</td><td>01/01/2016Cổ phiếu</td></tr><tr><td>Số lượng cổ phiếu đã bán ra công chúng</td><td>102.935.994</td><td>68.623.996</td></tr><tr><td>- Cổ phiếu phổ thông</td><td>102.935.994</td><td>68.623.996</td></tr><tr><td>- Cổ phiếu ưu đãi</td><td>-</td><td>-</td></tr><tr><td>Số lượng cổ phiếu quỹ</td><td>-</td><td>-</td></tr><tr><td>- Cổ phiếu phổ thông</td><td>-</td><td>-</td></tr><tr><td>- Cổ phiếu ưu đãi</td><td>-</td><td>-</td></tr><tr><td>Số lượng cổ phiếu đang lưu hành</td><td>102.935.994</td><td>68.623.996</td></tr><tr><td>- Cổ phiếu phổ thông</td><td>102.935.994</td><td>68.623.996</td></tr><tr><td>- Cổ phiếu ưu đãi</td><td>-</td><td>-</td></tr></table>
+
+Mệnh giá cổ phiếu: 10.000 đồng/cổ phiếu.
+
+23. Bộ phận theo lĩnh vực kinh doanh và bộ phận theo khu vực địa lý
+
+Bộ phận theo lĩnh vực kinh doanh
+
+Đế phục vụ mục đích quản lý, cơ cấu tổ chức của Tập đoàn được chia thành 04 (bốn) bộ phận hoạt động: bộ phận kinh doanh bất động sản, bộ phận hoạt động xây lắp, bộ phận cung cấp dịch vụ và bộ phận bán hàng hóa. Tập đoàn lập báo cáo bộ phận theo bốn bộ phận kinh doanh này.
+
+Bộ phận kinh doanh bất động sản: Bán các biệt thư, căn hộ liền kè, nhà phố thương mại và chung cư. Bộ phận Xây lắp: Thi công xây dựng các công trình dân dụng, công nghiệp...
+
+Bộ phận cung cấp dịch vụ: Cung cấp dịch vụ đào tạo, xuất khẩu lao động; cho thuê văn phòng; nhà hàng, khách sạn, du lịch...
+
+Bộ phận bán hàng hóa: Cung cấp vật liệu xây dựng...
+
+44
+
+===== PAGE 46 =====
+CÔNG TY CÓ PHẦN TẬP ĐOÀN C.E.O
+
+Tâng 5, Tháp CEO, HH2-1, Đô thị mới Mé Trì Hạ
+Quận Nam Từ Liêm, thành phố Hà Nội
+
+THUYẾT MINH BẢO CẢO TÀI CHÍNH HỢP NHẤT (TIẾP THEO)
+Các Thuyết minh này là một bộ phận hợp thành và cần được đọc đồng thời với Báo cáo tài chính hợp nhất
+MẦU SỐ B 09 - DN/HN
+
+V. THÔNG TIN BÓ SUNG CHO CÁC KHOĂN MỤC TRÌNH BÀY TRÊN BẢNG CÂN ĐỐI KẾ TOÁN HỢP NHẤT (TIẾP THEO)
+23. Bộ phận theo lĩnh vực kinh doanh và bộ phận theo khu vực địa lý (tiếp theo)
+
+Bộ phận theo lĩnh vực kinh doanh
+
+Bảng cân đối kế toán tại ngày 31 tháng 12 năm 2016
+
+<table><tr><td></td><td>Hoạt động kinh doanh Bất động sản VND</td><td>Hoạt động cung cấp dịch vụ VND</td><td>Hoạt động xây lắp VND</td><td>Bán hàng hóa VND</td><td>Loại trừ VND</td><td>Tổng cộng VND</td></tr><tr><td colspan="7">Tài sản</td></tr><tr><td>Tài sản bộ phận</td><td>1.983.329.043.356</td><td>946.758.640.755</td><td>188.522.743.669</td><td>-</td><td>(793.630.459.605)</td><td>2.324.979.968.175</td></tr><tr><td>Tài sản không phân bổ</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>1.509.569.231.075</td></tr><tr><td>Tổng tài sản</td><td>1.983.329.043.356</td><td>946.758.640.755</td><td>188.522.743.669</td><td>-</td><td>(793.630.459.605)</td><td>3.834.549.199.250</td></tr><tr><td colspan="7">Nợ phải trả</td></tr><tr><td>Nợ phải trả bộ phận</td><td>1.914.489.531.696</td><td>57.747.959.185</td><td>276.100.837.978</td><td>-</td><td>(249.554.475.549)</td><td>1.998.783.853.310</td></tr><tr><td>Nợ phải trả không phân bổ</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>269.188.566.998</td></tr><tr><td>Tổng nợ phải trả</td><td>1.914.489.531.696</td><td>57.747.959.185</td><td>276.100.837.978</td><td></td><td>(249.554.475.549)</td><td>2.267.972.420.308</td></tr><tr><td colspan="7">Bảng cân đối kế toán tại ngày 01 tháng 01 năm 2016</td></tr><tr><td></td><td>Hoạt động kinh doanh Bất động sản VND</td><td>Hoạt động cung cấp dịch vụ VND</td><td>Hoạt động xây lắp VND</td><td>Bán hàng hóa VND</td><td>Loại trừ VND</td><td>Tổng cộng VND</td></tr><tr><td colspan="7">Tài sản</td></tr><tr><td>Tài sản bộ phận</td><td>1.843.776.462.955</td><td>253.476.492.046</td><td>198.706.737.838</td><td>-</td><td>(558.178.612.781)</td><td>1.737.781.080.058</td></tr><tr><td>Tài sản không phân bổ</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>883.231.409.792</td></tr><tr><td>Tổng tài sản</td><td>1.843.776.462.955</td><td>253.476.492.046</td><td>198.706.737.838</td><td>-</td><td>(558.178.612.781)</td><td>2.621.012.489.850</td></tr><tr><td colspan="7">Nợ phải trả</td></tr><tr><td>Nợ phải trả bộ phận</td><td>1.402.931.530.654</td><td>145.081.454.950</td><td>152.079.270.659</td><td>-</td><td>(193.593.652.676)</td><td>1.506.498.603.587</td></tr><tr><td>Nợ phải trả không phân bổ</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>15.468.042.563</td></tr><tr><td>Tổng nợ phải trả</td><td>1.402.931.530.654</td><td>145.081.454.950</td><td>152.079.270.659</td><td>-</td><td>(193.593.652.676)</td><td>1.521.966.646.150</td></tr></table>
+
+45
+
+===== PAGE 47 =====
+CÔNG TY CỔ PHẦN TẬP ĐOÀN C.E.O
+
+Tâng 5, Tháp CEO, HH2-1, Đô thị mới Mê Trì Hạ
+Quận Nam Từ Liêm, thành phố Hà Nội
+
+THUYẾT MINH BẢO CẢO TẢI CHÍNH HỢP NHẤT (TIẾP THEO)
+Các Thuyết minh này là một bộ phận hợp thành và cần được đọc đồng thời với Báo cáo tài chính hợp nhất
+MẦU SỐ B 09 - DN/HN
+
+V. THÔNG TIN BỔ SUNG CHO CÁC KHOẢN MỤC TRÌNH BÀY TRÊN BẢNG CÂN ĐỐI KẾ TOÁN HỢP NHẤT (TIẾP THEO)
+
+23. Bộ phận theo lĩnh vực kinh doanh và bộ phận theo khu vực địa lý (Tiếp theo)
+
+Báo cáo kết quả hoạt động kinh doanh cho năm tài chính kết thúc ngày 31 tháng 12 năm 2016:
+
+<table><tr><td></td><td>Hoạt động kinh doanh Bất động sản VND</td><td>Hoạt động cung cấp dịch vụ VND</td><td>Hoạt động xây lắp VND</td><td>Bán hàng hóa VND</td><td>Loại trừ VND</td><td>Tổng cộng VND</td></tr><tr><td colspan="7">Doanh thu bán hàng và cung cấp dịch vụ</td></tr><tr><td>Doanh thu thuần từ bán hàng ra bên ngoài</td><td>1.125.190.918.867</td><td>225.995.175.485</td><td>-</td><td>59.248.175.296</td><td>-</td><td>1.410.434.269.648</td></tr><tr><td>Doanh thu thuần từ bán hàng cho các bộ phận khác</td><td>-</td><td>25.853.017.765</td><td>370.152.472.455</td><td>1.053.699.091</td><td>(397.059.189.311)</td><td>-</td></tr><tr><td>Tổng doanh thu</td><td>1.125.190.918.867</td><td>251.848.193.250</td><td>370.152.472.455</td><td>60.301.874.387</td><td>(397.059.189.311)</td><td>1.410.434.269.648</td></tr><tr><td>Giá vốn hàng bán và cung cấp dịch vụ</td><td>730.701.342.242</td><td>166.123.801.693</td><td>332.813.569.628</td><td>58.868.430.977</td><td>(377.421.724.623)</td><td>911.085.419.917</td></tr><tr><td colspan="7">Kết quả hoạt động kinh doanh</td></tr><tr><td>Kết quả kinh doanh bộ phận</td><td>394.489.576.625</td><td>85.724.391.557</td><td>37.338.902.827</td><td>1.433.443.410</td><td>(19.637.464.688)</td><td>499.348.849.731</td></tr><tr><td>Chi phí không phân bổ</td><td></td><td></td><td></td><td></td><td></td><td>136.085.707.341</td></tr><tr><td>Lợi nhuận từ hoạt động kinh doanh</td><td></td><td></td><td></td><td></td><td></td><td>363.263.142.390</td></tr><tr><td>Phần lợi nhuận trong các công ty con, công ty liên kết</td><td></td><td></td><td></td><td></td><td></td><td>-</td></tr><tr><td>Doanh thu hoạt động tài chính</td><td></td><td></td><td></td><td></td><td></td><td>12.324.745.559</td></tr><tr><td>Lợi nhuận khác</td><td></td><td></td><td></td><td></td><td></td><td>(1.355.472.682)</td></tr><tr><td>Chi phí tài chính</td><td></td><td></td><td></td><td></td><td></td><td>73.844.014.411</td></tr><tr><td>Lợi nhuận trước thuế</td><td></td><td></td><td></td><td></td><td></td><td>300.388.400.856</td></tr><tr><td>Chi phí thuế thu nhập doanh nghiệp</td><td></td><td></td><td></td><td></td><td></td><td>70.560.950.549</td></tr><tr><td>Chi phí thuế TNDN hoãn lại</td><td></td><td></td><td></td><td></td><td></td><td>(140.520.840)</td></tr><tr><td>Lợi nhuận trong năm</td><td></td><td></td><td></td><td></td><td></td><td>229.967.971.147</td></tr></table>
+
+46
+
+112/ 一正音-1011
+
+===== PAGE 48 =====
+CÔNG TY CỔ PHẦN TẬP ĐOÀN C.E.O
+
+Tâng 5, Tháp CEO, HH2-1, Đô thị mới Mế Trì Hạ
+Quận Nam Từ Liêm, thành phố Hà Nội
+
+THUYẾT MINH BẢO CẢO TÀI CHÍNH HỢP NHẤT (TIẾP THEO)
+Các Thuyết minh này là một bộ phận hợp thành và cần được đọc đồng thời với Báo cáo tài chính hợp nhất
+MẦU SỐ B 09 - DN/HN
+
+V. THÔNG TIN BỔ SUNG CHO CÁC KHOẢN MỤC TRÌNH BÀY TRÊN BẢNG CÂN ĐỐI KẾ TOÁN HỢP NHẤT (TIẾP THEO)
+23. Bộ phận theo lĩnh vực kinh doanh và bộ phận theo khu vực địa lý (Tiếp theo)
+
+Báo cáo kết quả hoạt động kinh doanh cho năm tài chính kết thúc ngày 31 tháng 12 năm 2015 (Tiếp theo):
+
+<table><tr><td></td><td>Hoạt động kinh doanh Bất động sản VND</td><td>Hoạt động cung cấp dịch vụ VND</td><td>Hoạt động xây lắp VND</td><td>Bán hàng hóa VND</td><td>Loại trừ VND</td><td>Tổng cộng VND</td></tr><tr><td colspan="7">Doanh thu bán hàng và cung cấp dịch vụ</td></tr><tr><td>Doanh thu thuần từ bán hàng ra bên ngoài</td><td>550.728.373.365</td><td>88.675.831.174</td><td>-</td><td>-</td><td>-</td><td>639.404.204.539</td></tr><tr><td>Doanh thu thuần từ bán hàng cho các bộ phận khác</td><td>-</td><td>42.739.313.967</td><td>208.100.669.089</td><td>-</td><td>(250.839.983.056)</td><td>-</td></tr><tr><td>Tổng doanh thu</td><td>550.728.373.365</td><td>131.415.145.141</td><td>208.100.669.089</td><td>-</td><td>(250.839.983.056)</td><td>639.404.204.539</td></tr><tr><td>Giá vốn hàng bán và cung cấp dịch vụ</td><td>272.606.599.894</td><td>73.445.605.945</td><td>193.511.741.626</td><td>-</td><td>(238.059.173.732)</td><td>301.504.773.733</td></tr><tr><td colspan="7">Kết quả hoạt động kinh doanh</td></tr><tr><td>Kết quả kinh doanh bộ phận</td><td>278.121.773.471</td><td>57.969.539.196</td><td>14.588.927.463</td><td>-</td><td>(12.780.809.324)</td><td>337.899.430.806</td></tr><tr><td>Chi phí phân bổ</td><td></td><td></td><td></td><td></td><td></td><td>58.169.316.502</td></tr><tr><td>Lợi nhuận từ hoạt động kinh doanh</td><td></td><td></td><td></td><td></td><td></td><td>279.730.114.304</td></tr><tr><td>Phần lợi nhuận trong các công ty con, công ty liên kết</td><td></td><td></td><td></td><td></td><td></td><td>-</td></tr><tr><td>Doanh thu hoạt động tài chính</td><td></td><td></td><td></td><td></td><td></td><td>6.063.286.152</td></tr><tr><td>Lợi nhuận khác</td><td></td><td></td><td></td><td></td><td></td><td>(3.924.264.174)</td></tr><tr><td>Chi phí tài chính</td><td></td><td></td><td></td><td></td><td></td><td>15.201.965.838</td></tr><tr><td>Lợi nhuận trước thuế</td><td></td><td></td><td></td><td></td><td></td><td>266.667.170.444</td></tr><tr><td>Chi phí thuế thu nhập doanh nghiệp</td><td></td><td></td><td></td><td></td><td></td><td>64.967.846.455</td></tr><tr><td>Chi phí thuế TNDN hoãn lại</td><td></td><td></td><td></td><td></td><td></td><td>(3.926.673.411)</td></tr><tr><td>Lợi nhuận trong năm</td><td></td><td></td><td></td><td></td><td></td><td>205.625.997.400</td></tr></table>
+
+47
+
+11.51. 20. 20.
+
+===== PAGE 49 =====
+CÔNG TY CỔ PHẦN TẬP ĐOÀN C.E.O
+
+Tàng 5, Tháp CEO, HH2-1, Đô thị mới Mễ Trì Hạ
+
+Quận Nam Từ Liêm, thành phố Hà Nội
+
+BÁO CÁO TÀI CHÍNH HỢP NHẤT
+
+Cho năm tài chính kết thúc
+
+ngày 31 tháng 12 năm 2016
+
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (TIẾP THEO)
+
+MĂU SỐ B 09 - DN/HN
+
+Các Thuyết minh này là một bộ phận hợp thành và cần được đọc đồng thời với Báo cáo tài chính hợp nhất
+
+V. THÔNG TIN BÓ SUNG CHO CÁC KHOÀN MỤC TRÌNH BÀY TRÊN BẢNG CÂN ĐỐI KẾ TOÁN HỢP NHẤT (TIẾP THEO)
+
+23. Bộ phận theo lĩnh vực kinh doanh và bộ phận theo khu vực địa lý (Tiếp theo)
+
+Bộ phận theo khu vực địa lý
+
+Bộ phận theo khu vực địa lý là một bộ phận có thể phân biệt được của một doanh nghiệp tham gia vào quá trình sản xuất hoặc cung cấp sản phẩm, dịch vụ trong phạm vi một môi trường kinh tế cụ thể mà bộ phận này có rủi ro và lợi ích kinh tế khác với các bộ phận kinh doanh trong môi trường kinh tế khác.
+
+Tập đoàn hoạt động tại Hà Nội, Hà Nam, Bắc Ninh và Kiên Giang. Bộ phận kinh doanh bất động sản, hoạt động cho thuê văn phòng, dịch vụ sản bất động sản và hoạt động xây dựng được thực hiện tại Hà Nội, Hà Nam và Kiên Giang. Hoạt động cung cấp dịch vụ được thực hiện tại Hà Nội, Bắc Ninh và Kiên Giang.
+
+Dưới đây là phân tích doanh thu của Tập đoàn theo khu vực địa lý, không tính đến xuất xứ của hàng hóa, dịch vụ.
+
+<table><tr><td></td><td>Năm 2016VND</td><td>Năm 2015VND</td></tr><tr><td>Tinh Bắc Ninh</td><td>80.086.947</td><td>393.982.000</td></tr><tr><td>Thành phố Hà Nội</td><td>355.208.868.559</td><td>113.481.581.786</td></tr><tr><td>Tinh Hà Nam</td><td>25.799.885.405</td><td>142.691.830.943</td></tr><tr><td>Tinh Kiên Giang</td><td>1.029.345.428.737</td><td>382.836.809.810</td></tr><tr><td>Cộng</td><td>1.410.434.269.648</td><td>639.404.204.539</td></tr></table>
+
+Dưới đây là phân tích về giá trị còn lại của các tài sản bộ phận, tăng tài sản cố định hữu hình và vô hình theo khu vực địa lý, nơi đặt các tài sản đó.
+
+<table><tr><td rowspan="2"></td><td colspan="2">Giá trị còn lại của tài sản bộ phận</td><td colspan="2">Tăng tài sản cố định hữu hình và vô hình</td></tr><tr><td>31/12/2016VND</td><td>01/01/2016VND</td><td>Năm 2016VND</td><td>Năm 2015VND</td></tr><tr><td>Hà Nội</td><td>1.648.879.399.280</td><td>1.164.409.434.572</td><td>149.946.754.617</td><td>17.994.616.845</td></tr><tr><td>Kiên Giang</td><td>2.185.669.799.970</td><td>1.446.146.884.323</td><td>948.862.408.570</td><td>3.763.392.725</td></tr><tr><td>Cộng</td><td>3.834.549.199.250</td><td>2.610.556.318.895</td><td>1.098.809.163.187</td><td>21.758.009.570</td></tr></table>
+
+48
+
+11-1 20=36.50
+
+===== PAGE 50 =====
+CÔNG TY CỔ PHẦN TẬP ĐOÀN C.E.O
+
+Tàng 5, Tháp CEO, HH2-1, Đô thị mới Mễ Trì Hạ
+
+Quận Nam Từ Liêm, thành phố Hà Nội
+
+BÁO CÁO TÀI CHÍNH HỢP NHẤT
+
+Cho năm tài chính kết thúc
+
+ngày 31 tháng 12 năm 2016
+
+THUYẾT MINH BẢO CẢO TÀI CHÍNH HỢP NHẤT (TIẾP THEO)
+
+MẦU SỐ B 09 - DN/HN
+
+Các Thuyết minh này là một bộ phận hợp thành và cần được đọc đồng thời với Báo cáo tài chính hợp nhất
+
+VI. THÔNG TIN BỔ SUNG CHO CÁC KHOẢN MỤC TRÌNH BÀY TRÊN BẢO CẢO KẾT QUẢ HOẠT ĐỘNG KINH DOANH HỢP NHẤT
+
+1. Doanh thu bán hàng và cung cấp dịch vụ
+
+<table><tr><td></td><td>Năm 2016VND</td><td>Năm 2015VND</td></tr><tr><td>Tổng doanh thu bán hàng và cung cấp dịch vụ</td><td>1.607.465.171.797</td><td>639.404.204.539</td></tr><tr><td colspan="3">Trong đó:</td></tr><tr><td>Doanh thu bán hàng hóa</td><td>59.248.175.296</td><td>-</td></tr><tr><td>Doanh thu kinh doanh bất động sản</td><td>1.322.221.821.016</td><td>550.728.373.365</td></tr><tr><td>Doanh thu cung cấp dịch vụ đào tạo, xuất khẩu lao động</td><td>54.862.410.038</td><td>39.849.296.181</td></tr><tr><td>Doanh thu dịch vụ nhà hàng, khách sạn, du lịch</td><td>121.952.086.727</td><td>-</td></tr><tr><td>Doanh thu cung cấp dịch vụ khác</td><td>49.180.678.720</td><td>48.826.534.993</td></tr><tr><td>Các khoản giảm trừ doanh thu</td><td>197.030.902.149</td><td>-</td></tr><tr><td>- Hàng bán bị trả lại</td><td>197.030.902.149</td><td>-</td></tr><tr><td>Doanh thu thuần về bán hàng và cung cấp dịch vụ</td><td>1.410.434.269.648</td><td>639.404.204.539</td></tr></table>
+
+Doanh thu trong năm 2016 của Tập đoàn tăng chủ yếu do các nguyên nhân sau:
+
+- Tập đoàn bắt đầu khai thác khách sạn Novotel Phú Quốc từ đầu năm 2016; và
+
+- Năm 2016 doanh thu kinh doanh bất động sản tăng là do Tập đoàn ký các hợp đồng bán nhà biệt thụ, nhà phố thương mại với điều khoản về bản giao cho bên mua khi đã thực hiện đầy đủ các nghĩa vụ thanh toán tính đến ngày bản giao dự kiến (thông thường phải thanh toán tối thiểu 75% giá trị của hợp đồng). Tuy nhiên, để thúc đầy các khách hàng sớm đưa sản phẩm vào khai thác, tạo lập cảnh quan chung cho dự án, Tập đoàn đã thay đổi chính sách bán hàng với điều khoản bản giao dự kiến cho bên mua chậm nhất vào ngày 31 tháng 12 năm 2016. Theo đó, bên mua trong hợp đồng mua bán biệt thụ và nhà phố thương mại chưa hoàn thành nghĩa vụ thanh toán sẽ được bản giao chậm nhất vào ngày 31 tháng 12 năm 2016. Tổng số doanh thu phát sinh từ các hợp đồng được sửa đổi về điều kiện bản giao có số tiền là 473.581.556.320 đồng (chiếm 35,82% tổng doanh thu kinh doanh bất động sản).
+
+2. Giá vốn hàng bán
+
+<table><tr><td></td><td>Năm 2016VND</td><td>Năm 2015VND</td></tr><tr><td>Giá vốn bán hàng hóa</td><td>58.868.430.977</td><td>-</td></tr><tr><td>Giá vốn kinh doanh bất động sản</td><td>688.697.501.169</td><td>264.829.624.454</td></tr><tr><td>Giá vốn dịch vụ đào tạo, xuất khẩu lao động</td><td>28.578.245.546</td><td>19.780.845.924</td></tr><tr><td>Giá vốn dịch vụ nhà hàng, khách sạn, du lịch</td><td>99.811.289.365</td><td>-</td></tr><tr><td>Giá vốn của dịch vụ khác đã cung cấp</td><td>35.129.952.860</td><td>16.894.303.355</td></tr><tr><td>Cộng</td><td>911.085.419.917</td><td>301.504.773.733</td></tr></table>
+
+49
+
+\(11m/6.5>0=11.8\)
+
+===== PAGE 51 =====
+CÔNG TY CỔ PHẦN TẬP ĐOÀN C.E.O
+
+Tàng 5, Tháp CEO, HH2-1, Đô thị mới Mễ Trì Hạ
+
+Quận Nam Từ Liêm, thành phố Hà Nội
+
+BÁO CÁO TÀI CHÍNH HỢP NHẤT
+
+Cho năm tài chính kết thúc
+
+ngày 31 tháng 12 năm 2016
+
+THUYẾT MINH BẢO CẢO TÀI CHÍNH HỢP NHẤT (TIẾP THEO)
+
+MĂU SỐ B 09 - DN/HN
+
+Các Thuyết minh này là một bộ phận hợp thành và cần được đọc đồng thời với Báo cáo tài chính hợp nhất
+
+VI. THÔNG TIN BỔ SUNG CHO CÁC KHOẢN MỤC TRÌNH BÀY TRÊN BẢO CẢO KẾT QUẢ HOẠT ĐỘNG KINH DOANH HỢP NHẤT (TIẾP THEO)
+
+3. Doanh thu hoạt động tài chính
+
+<table><tr><td></td><td>Năm 2016VND</td><td>Năm 2015VND</td></tr><tr><td>Lãi tiền gửi, tiền cho vay</td><td>12.033.332.377</td><td>6.063.286.152</td></tr><tr><td>Lãi chênh lệch tỷ giá chưa thực hiện</td><td>189.653.394</td><td>6.313.158</td></tr><tr><td>Lãi chênh lệch tỷ giá đã thực hiện</td><td>8.026.418</td><td>116.197.808</td></tr><tr><td>Doanh thu hoạt động tài chính khác</td><td>93.733.370</td><td>-</td></tr><tr><td>Cộng</td><td>12.324.745.559</td><td>6.185.797.118</td></tr></table>
+
+4. Chi phí tài chính
+
+<table><tr><td></td><td>Năm 2016VND</td><td>Năm 2015VND</td></tr><tr><td>Lãi tiền vay</td><td>73.693.028.738</td><td>14.690.495.297</td></tr><tr><td>Lỗ chênh lệch tỷ giá chưa thực hiện</td><td>39.137.474</td><td>497.775.096</td></tr><tr><td>Lỗ chênh lệch tỷ giá đã thực hiện</td><td>111.848.199</td><td>13.695.445</td></tr><tr><td>Cộng</td><td>73.844.014.411</td><td>15.201.965.838</td></tr></table>
+
+5. Chi phí thuế thu nhập doanh nghiệp hiện hành
+
+<table><tr><td></td><td>Năm 2016VND</td><td>Năm 2015VND</td></tr><tr><td>Chi phí thuế thu nhập doanh nghiệp hiện hành- Chi phí thuế thu nhập doanh nghiệp tính trên thu nhập chịu thuế năm hiện hành</td><td>70.560.950.549</td><td>64.967.846.455</td></tr><tr><td>Tổng chi phí thuế thu nhập doanh nghiệp hiện hành</td><td>70.560.950.549</td><td>64.967.846.455</td></tr><tr><td>Chi phí thuế thu nhập doanh nghiệp hoãn lại- Chi phí thuế thu nhập doanh nghiệp hoãn lại phát sinh từ các khoản chênh lệch tạm thời phải chịu thuế</td><td>(140.520.840)</td><td>(3.926.673.411)</td></tr><tr><td>Tổng chi phí thuế thu nhập doanh nghiệp hoãn lại</td><td>(140.520.840)</td><td>(3.926.673.411)</td></tr></table>
+
+50
+
+(1)  \( \geqslant \)  4.5 V,
+
+===== PAGE 52 =====
+CÔNG TY CỔ PHẦN TẬP ĐOÀN C.E.O
+
+Tàng 5, Tháp CEO, HH2-1, Độ thị mới Mễ Trì Hạ
+
+Quận Nam Từ Liêm, thành phố Hà Nội
+
+BÁO CÁO TÀI CHÍNH HỢP NHẤT
+
+Cho năm tài chính kết thúc
+
+ngày 31 tháng 12 năm 2016
+
+THUYẾT MINH BẢO CẢO TÀI CHÍNH HỢP NHẤT (TIẾP THEO)
+
+MẦU SỐ B 09 - DN/HN
+
+Các Thuyết minh này là một bộ phận hợp thành và cần được đọc đồng thời với Báo cáo tài chính hợp nhất
+
+VI. THÔNG TIN BỔ SUNG CHO CÁC KHOẢN MỤC TRÌNH BÀY TRÊN BẢO CẢO KẾT QUẢ HOẠT ĐỘNG KINH DOANH HỢP NHẤT (TIẾP THEO)
+
+6. Lãi cơ bản trên cổ phiếu
+
+<table><tr><td></td><td>Năm 2016VND</td><td>Năm 2015VND</td></tr><tr><td>Lợi nhuận sau thuế chưa phân phối</td><td>156.982.996.514</td><td>139.432.263.769</td></tr><tr><td>Các khoản điều chỉnh tăng hoặc giảm lợi nhuận kế toán để xác định lợi nhuận hoặc lỗ phân bổ cho cổ đông sở hữu cổ phiếu phổ thông</td><td>(7.377.513.337)</td><td>(9.009.400.705)</td></tr><tr><td>Các khoản điều chỉnh tăng</td><td>-</td><td>-</td></tr><tr><td>Các khoản điều chỉnh giảm (*)</td><td>7.377.513.337</td><td>9.009.400.705</td></tr><tr><td>- Trích lập quỹ khen thưởng phúc lợi</td><td>7.377.513.337</td><td>5.405.640.351</td></tr><tr><td>- Trích lập quỹ khen thưởng Ban điều hành</td><td>-</td><td>3.603.760.354</td></tr><tr><td>Lợi nhuận để tính lãi cơ bản trên cổ phiếu</td><td>149.605.483.177</td><td>130.422.863.064</td></tr><tr><td>Số cổ phiếu bình quân lưu hành trong năm</td><td>93.742.951</td><td>67.495.930</td></tr><tr><td>Lãi cơ bản trên cổ phiếu (**)</td><td>1.596</td><td>1.932</td></tr></table>
+
+(*) Giá trị Quỹ khen thưởng phúc lợi, quỹ khen thưởng Ban điều hành cho năm tài chính kết thúc ngày 31 tháng 12 năm 2015 là số liệu thực tế Tập đoàn đã trích theo Nghị quyết Đại hội đồng cổ đông thường niên năm 2016 số 01/NQ-ĐHĐCĐ ngày 16 tháng 3 năm 2016 của Tập đoàn. Tỷ lệ trích Quỹ khen thưởng phúc lợi cho năm tài chính kết thúc ngày 31 tháng 12 năm 2016 được giả định có tỷ lệ không đổi so với năm tài chính kết thúc ngày 31 tháng 12 năm 2015.
+
+Theo điều lệ hoạt động và quy chế tài chính của Tập đoàn không quy định cụ thể về việc phải trích lập quỹ khen thưởng Ban điều hành. Đồng thời, tại thời điểm lập báo cáo tài chính này, Tập đoàn chưa đến kỳ tiến hành Đại hội đồng cổ đông thường niên năm 2017. Theo đó, Tập đoàn không ước tính quỹ thưởng Ban điều hành cần phải trích khi tính lãi cơ bản trên cổ phiếu cho năm tài chính kết thúc ngày 31 tháng 12 năm 2016.
+
+51
+
+===== PAGE 53 =====
+CÔNG TY CỔ PHẦN TẬP ĐOÀN C.E.O
+
+Tàng 5, Tháp CEO, HH2-1, Đô thị mới Mế Trì Hạ
+
+Quận Nam Từ Liêm, thành phố Hà Nội
+
+BÁO CÁO TÀI CHÍNH HỢP NHẤT
+
+Cho năm tài chính kết thúc
+
+ngày 31 tháng 12 năm 2016
+
+THUYẾT MINH BẢO CÁO TÀI CHÍNH HỢP NHẤT (TIẾP THEO)
+
+MĂU SÓ B 09 - DN/HN
+
+Các Thuyết minh này là một bộ phận hợp thành và cần được đọc đồng thời với Báo cáo tài chính hợp nhất
+
+VI. THÔNG TIN BỔ SUNG CHO CÁC KHOẢN MỤC TRÌNH BÀY TRÊN BẢO CẢO KẾT QUẢ HOẠT ĐỘNG KINH DOANH HỢP NHẤT (TIẾP THEO)
+
+6. Lãi cơ bản trên cổ phiếu (Tiếp theo)
+
+(**) Công ty thực hiện điều chỉnh hồi tố chỉ tiêu lãi cơ bản trên cổ phiếu do ảnh hưởng của việc trích quỹ khen thưởng phúc lợi và quỹ khen thưởng Ban điều hành:
+
+<table><tr><td rowspan="2"></td><td>Năm 2015 (trước điều chỉnh)</td><td>Điều chỉnh</td><td>Năm 2015(Số sau điều chỉnh)</td></tr><tr><td>VND</td><td>VND</td><td>VND</td></tr><tr><td>Lợi nhuận sau thuế chưa phân phối</td><td>139.432.263.769</td><td>-</td><td>139.432.263.769</td></tr><tr><td>Các khoản điều chỉnh tăng hoặc giảm lợi nhuận kế toán đề xác định lợi nhuận hoặc lỗ phân bổ cho cổ đông sở hữu cổ phiếu phổ thông</td><td>-</td><td>(9.009.400.705)</td><td>(9.009.400.705)</td></tr><tr><td>Các khoản điều chỉnh tăng</td><td>-</td><td>-</td><td>-</td></tr><tr><td>Các khoản điều chỉnh giảm</td><td>-</td><td>9.009.400.705</td><td>9.009.400.705</td></tr><tr><td>- Trích lập quỹ khen thưởng phúc lợi</td><td>-</td><td>5.405.640.351</td><td>5.405.640.351</td></tr><tr><td>- Trích lập quỹ khen thưởng Ban điều hành</td><td>-</td><td>3.603.760.354</td><td>3.603.760.354</td></tr><tr><td>Lợi nhuận để tính lãi cơ bản trên cổ phiếu</td><td>139.432.263.769</td><td>(9.009.400.705)</td><td>130.422.863.064</td></tr><tr><td>Số cổ phiếu bình quân lưu hành trong năm</td><td>67.495.930</td><td>-</td><td>67.495.930</td></tr><tr><td>Lãi cơ bản trên cổ phiếu</td><td>2.066</td><td>134</td><td>1.932</td></tr></table>
+
+7. Chi phí sản xuất kinh doanh theo yếu tố
+
+<table><tr><td></td><td>Năm 2016VND</td><td>Năm 2015VND</td></tr><tr><td>Chi phí nguyên liệu, vật liệu</td><td>253.916.945.635</td><td>55.231.115.703</td></tr><tr><td>Chi phí nhân công</td><td>145.791.997.085</td><td>56.317.314.373</td></tr><tr><td>Chi phí khấu hao tài sản cố định</td><td>36.009.886.514</td><td>10.020.537.451</td></tr><tr><td>Chi phí dịch vụ mua ngoài</td><td>694.714.485.414</td><td>1.016.720.739.514</td></tr><tr><td>Chi phí khác bằng tiền</td><td>35.521.869.862</td><td>43.987.053.141</td></tr><tr><td>Cộng</td><td>1.165.955.184.510</td><td>1.182.276.760.182</td></tr></table>
+
+52
+
+===== PAGE 54 =====
+CÔNG TY CỔ PHẦN TẬP ĐOÀN C.E.O
+
+Tàng 5, Tháp CEO, HH2-1, Độ thị mới Mễ Trì Hạ
+
+Quận Nam Từ Liêm, thành phố Hà Nội
+
+BÁO CÁO TÀI CHÍNH HỢP NHẤT
+
+Cho năm tài chính kết thúc
+
+ngày 31 tháng 12 năm 2016
+
+THUYẾT MINH BẢO CÁO TÀI CHÍNH HỢP NHẤT (TIẾP THEO)
+
+MẦU SỐ B 09 - DN/HN
+
+Các Thuyết minh này là một bộ phận hợp thành và cần được đọc đồng thời với Báo cáo tài chính hợp nhất
+
+VII. CÁC THÔNG TIN KHÁC
+
+1. Công cụ tài chính
+
+Quản lý rủi ro vốn
+
+Tập đoàn quản trị nguồn vốn nhằm đảm bảo rằng Tập đoàn có thể vừa hoạt động liên tục vừa tối đa hóa lợi ích của các cổ đông thông qua tối ưu hóa số dư nguồn vốn và công nợ.
+
+Cấu trúc vốn của Tập đoàn gồm có các khoản nợ thuần (bao gồm các khoản vay như đã trình bày tại Thuyết minh số V.20 và Thuyết minh số V.21 trừ đi tiền và các khoản tương đương tiền) và phần vốn thuộc sở hữu của các cổ đông.
+
+Hệ số đơn bảy tài chính
+
+Hệ số dòn bảy tài chính của Tập đoàn tại ngày kết thúc kỳ kế toán như sau:
+
+<table><tr><td></td><td>31/12/2016VND</td><td>01/01/2016VND</td></tr><tr><td>Các khoản vay</td><td>1.246.604.018.483</td><td>958.175.511.266</td></tr><tr><td>Trừ: Tiền và các khoản tương đương tiền</td><td>121.150.408.600</td><td>44.726.779.101</td></tr><tr><td>Nợ thuần</td><td>1.125.453.609.883</td><td>913.448.732.165</td></tr><tr><td>Vốn chủ sở hữu</td><td>1.566.576.778.942</td><td>1.088.589.672.745</td></tr><tr><td>Tỷ lệ nợ thuần trên vốn chủ sở hữu</td><td>71,84%</td><td>83,91%</td></tr></table>
+
+Các chính sách kế toán chủ yếu
+
+Chi tiết các chính sách kế toán chủ yếu và các phương pháp mà Tập đoàn áp dụng (bao gồm các tiêu chí đề ghi nhận, cơ sở xác định giá trị và cơ sở ghi nhận các khoản thu nhập và chi phí) đối với từng loại tài sản tài chính, công nợ tài chính và công cụ vốn được trình bày tại Thuyết minh số IV “Tóm tắt các chính sách kế toán chủ yếu” tương ứng.
+
+53
+
+===== PAGE 55 =====
+CÔNG TY CỔ PHẦN TẬP ĐOÀN C.E.O
+
+Tàng 5, Tháp CEO, HH2-1, Đô thị mới Mễ Trì Hạ
+
+Quận Nam Từ Liêm, thành phố Hà Nội
+
+BÁO CÁO TÀI CHÍNH HỢP NHẤT
+
+Cho năm tài chính kết thúc
+
+ngày 31 tháng 12 năm 2016
+
+THUYẾT MINH BẢO CẢO TÀI CHÍNH HỢP NHẤT (TIẾP THEO)
+
+MĂU SỐ B 09 - DN/HN
+
+Các Thuyết minh này là một bộ phận hợp thành và cần được đọc đồng thời với Báo cáo tài chính hợp nhất
+
+VII. THÔNG TIN KHÁC (TIẾP THEO)
+
+1. Công cụ tài chính (Tiếp theo)
+
+Các loại công cụ tài chính
+
+<table><tr><td rowspan="2"></td><td colspan="2">Giá trị ghi sổ</td></tr><tr><td>31/12/2016VND</td><td>01/01/2016VND</td></tr><tr><td colspan="3">Tài sản tài chính</td></tr><tr><td>Tiền và các khoản tương đương tiền</td><td>121.150.408.600</td><td>44.726.779.101</td></tr><tr><td>Phải thu khách hàng và phải thu khác</td><td>1.126.296.203.796</td><td>446.265.454.540</td></tr><tr><td>Đầu tư tài chính</td><td>2.110.000.000</td><td>10.000.000</td></tr><tr><td>Các khoản ký quỹ</td><td>110.637.450.000</td><td>5.135.100.000</td></tr><tr><td>Cộng</td><td>1.360.194.062.396</td><td>496.137.333.641</td></tr><tr><td colspan="3">Công nợ tài chính</td></tr><tr><td>Các khoản vay và nợ thuê tài chính</td><td>1.246.604.018.483</td><td>958.175.511.266</td></tr><tr><td>Phải trả người bán và phải trả khác</td><td>239.650.629.049</td><td>158.377.073.254</td></tr><tr><td>Chi phí phải trả</td><td>27.641.370.862</td><td>24.827.690.533</td></tr><tr><td>Cộng</td><td>1.513.896.018.394</td><td>1.141.380.275.053</td></tr></table>
+
+Tập đoàn chưa đánh giá giá trị hợp lý của tài sản tài chính và công nợ tài chính tại ngày kết thúc năm tài chính do Thông tư 210 cũng như các quy định hiện hành chưa có hướng dẫn cụ thể về việc xác định giá trị hợp lý của các tài sản tài chính và công nợ tài chính. Thông tư 210 yêu cầu áp dụng Chuẩn mục báo cáo tài chính Quốc tế về việc trình bày báo cáo tài chính và thuyết minh thông tin đối với công cụ tài chính nhưng không đưa ra hướng dẫn tương đương cho việc đánh giá và ghi nhận công cụ tài chính bao gồm cả áp dụng giá trị hợp lý, nhằm phù hợp với Chuẩn mục báo cáo tài chính Quốc tế.
+
+Mục tiêu quản lý rủi ro tài chính
+
+Tập đoàn đã xây dựng hệ thống quản lý rủi ro nhằm phát hiện và đánh giá các rủi ro mà Tập đoàn phải chịu, thiết lập các chính sách và quy trình kiểm soát rủi ro ở mức chấp nhận được. Hệ thống quản lý rủi ro được xem xét lại định kỳ nhằm phản ánh những thay đổi của điều kiện thị trường và hoạt động của Tập đoàn.
+
+Rủi ro tài chính bao gồm rủi ro thị trường (bao gồm rủi ro tỷ giá, rủi ro lãi suất và rủi ro về giá), rủi ro tín dụng và rủi ro thanh khoản.
+
+54
+
+===== PAGE 56 =====
+CÔNG TY CỔ PHẦN TẬP ĐOÀN C.E.O
+
+Tàng 5, Tháp CEO, HH2-1, Đô thị mới Mễ Trì Hạ
+
+Quận Nam Từ Liêm, thành phố Hà Nội
+
+BÁO CÁO TÀI CHÍNH HỢP NHẤT
+
+Cho năm tài chính kết thúc
+
+ngày 31 tháng 12 năm 2016
+
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (TIẾP THEO)
+
+MĂU SỐ B 09 - DN/HN
+
+Các Thuyết minh này là một bộ phận hợp thành và cần được đọc đồng thời với Báo cáo tài chính hợp nhất
+
+VII. THÔNG TIN KHÁC (TIẾP THEO)
+
+1. Công cụ tài chính (Tiếp theo)
+
+Rủi ro thị trường
+
+Hoạt động kinh doanh của Tập đoàn sẽ chủ yếu chịu rủi ro khi có sự thay đổi về tỷ giá hối đoái, lãi suất và giá. Tập đoàn không thực hiện các biện pháp phòng ngừa rủi ro này do thiếu thị trường hoạt động giao dịch các công cụ tài chính này.
+
+Quản lý rủi ro lãi suất
+
+Tập đoàn chịu rủi ro lãi suất trọng yếu phát sinh từ các khoản vay chịu lãi suất đã được ký kết. Tập đoàn chịu rủi ro lãi suất khi Tập đoàn vay vốn theo lãi suất thả nổi và lãi suất cố định. Rủi ro này sẽ do Tập đoàn quản trị bằng cách duy trì ở mức độ hợp lý các khoản vay lãi suất cố định và lãi suất thả nổi.
+
+Tập đoàn chịu rủi ro lãi suất lớn phát sinh từ các khoản vay chịu lãi suất. Đối với các khoản vay chịu lãi suất với lãi suất cố định, Tập đoàn có khả năng sẽ phải chịu rủi ro lãi suất theo giá trị hợp lý của các khoản vay này.
+
+Quản lý rủi ro về giá hàng hóa
+
+Tập đoàn mua nguyên vật liệu từ các nhà cung cấp trong nước để phục vụ cho hoạt động sản xuất kinh doanh. Do vậy, Tập đoàn sẽ chịu rủi ro từ việc thay đổi giá bán của nguyên vật liệu. Tập đoàn không thực hiện các biện pháp phòng ngừa rủi ro này do thiếu thị trường mua các công cụ tài chính này.
+
+Rủi ro tín dụng
+
+Rùi ro tín dụng xảy ra khi một khách hàng hoặc đối tác không đáp ứng được các nghĩa vụ trong hợp đồng dẫn đến các tổn thất tài chính cho Tập đoàn. Tập đoàn có chính sách tín dụng phù hợp và thường xuyên theo dõi tình hình để đánh giá xem Tập đoàn có chịu rủi ro tín dụng hay không. Tập đoàn không có bắt kỳ rủi ro tín dụng trọng yếu nào với các khách hàng hoặc đối tác bồi vì các khoản phải thu đến từ một số lượng lớn khách hàng hoạt động trong nhiều ngành khác nhau và phân bổ ở các khu vực địa lý khác nhau.
+
+Quản lý rủi ro thanh khoản
+
+Mục đích quản lý rủi ro thanh khoản nhằm đảm bảo đủ nguồn vốn để đáp ứng các nghĩa vụ tài chính hiện tại và trong tương lai. Tính thanh khoản cũng được Tập đoàn quản lý nhằm đảm bảo mức phụ trội giữa công nợ đến hạn và tài sản đến hạn trong kỳ ở mức có thể được kiểm soát đối với số vốn mà Tập đoàn tin rằng có thể tạo ra trong kỳ đó. Chính sách của Tập đoàn là theo dõi thường xuyên các yêu cầu về thanh khoản hiện tại và dự kiến trong tương lai nhằm đảm bảo Tập đoàn duy trì dù mức dự phòng tiền mặt, các khoản vay và đủ vốn mà chủ sở hữu cam kết góp nhằm đáp ứng các quy định về tính thanh khoản ngắn hạn và dài hạn hơn.
+
+Các bảng dưới đây trình bày chi tiết các mức đáo hạn theo hợp đồng còn lại đối với tài sản tài chính và công nợ tài chính phi phải sinh và thời hạn thanh toán như đã được thỏa thuận. Các bảng này được trình bày dựa trên dòng tiền chưa chiết khấu của tài sản tài chính và dòng tiền chưa chiết khấu của công nợ tài chính tính theo ngày sớm nhất mà Tập đoàn phải trả. Việc trình bày thông tin tài sản tài chính phi phải sinh là cần thiết để hiểu được việc quản lý rủi ro thanh khoản của Tập đoàn khi tính thanh khoản được quản lý trên cơ sở công nợ và tài sản thuần.
+
+55
+
+11.57 一正 20.1>11
+
+===== PAGE 57 =====
+CÔNG TY CỔ PHẦN TẬP ĐOÀN C.E.O
+
+Tàng 5, Tháp CEO, HH2-1, Đô thị mới Mễ Trì Hạ
+
+Quận Nam Từ Liêm, thành phố Hà Nội
+
+BÁO CÁO TÀI CHÍNH HỢP NHẤT
+
+Cho năm tài chính kết thúc
+
+ngày 31 tháng 12 năm 2016
+
+THUYẾT MINH BẢO CẢO TÀI CHÍNH HỢP NHẤT (TIẾP THEO)
+
+MĂU SÓ B 09 - DN/HN
+
+Các Thuyết minh này là một bộ phận hợp thành và cần được đọc đồng thời với Báo cáo tài chính hợp nhất
+
+VII. THÔNG TIN KHÁC (TIÉP THEO)
+
+1. Công cụ tài chính (Tiếp theo)
+
+Quản lý rủi ro thanh khoản (Tiếp theo)
+
+<table><tr><td></td><td>Dưới 1 nămVND</td><td>Từ 1-5 nămVND</td><td>TổngVND</td></tr><tr><td colspan="4">31/12/2016</td></tr><tr><td>Tiền và các khoản tương đương tiền</td><td>121.150.408.600</td><td>-</td><td>121.150.408.600</td></tr><tr><td>Phải thu khách hàng và phải thu khác</td><td>1.099.334.214.696</td><td>26.961.989.100</td><td>1.126.296.203.796</td></tr><tr><td>Đầu tư tài chính</td><td>510.000.000</td><td>1.600.000.000</td><td>2.110.000.000</td></tr><tr><td>Các khoản ký quỹ</td><td>110.637.450.000</td><td>-</td><td>110.637.450.000</td></tr><tr><td>Cộng</td><td>1.331.632.073.296</td><td>28.561.989.100</td><td>1.360.194.062.396</td></tr><tr><td colspan="4">31/12/2016</td></tr><tr><td>Các khoản vay và nợ thuê tài chính</td><td>395.643.645.445</td><td>850.960.373.038</td><td>1.246.604.018.483</td></tr><tr><td>Phải trả người bán và phải trả khác</td><td>233.214.406.016</td><td>6.436.223.033</td><td>239.650.629.049</td></tr><tr><td>Chi phí phải trả</td><td>27.641.370.862</td><td>-</td><td>27.641.370.862</td></tr><tr><td>Cộng</td><td>656.499.422.323</td><td>857.396.596.071</td><td>1.513.896.018.394</td></tr><tr><td>Chênh lệch thanh khoản thuần</td><td>675.132.650.973</td><td>(828.834.606.971)</td><td>(153.701.955.998)</td></tr><tr><td></td><td>Dưới 1 nămVND</td><td>Từ 1-5 nămVND</td><td>TổngVND</td></tr><tr><td colspan="4">01/01/2016</td></tr><tr><td>Tiền và các khoản tương đương tiền</td><td>44.726.779.101</td><td>-</td><td>44.726.779.101</td></tr><tr><td>Phải thu khách hàng và phải thu khác</td><td>418.847.438.095</td><td>27.418.016.445</td><td>446.265.454.540</td></tr><tr><td>Đầu tư tài chính</td><td>10.000.000</td><td>-</td><td>10.000.000</td></tr><tr><td>Các khoản ký quỹ</td><td>5.135.100.000</td><td>-</td><td>5.135.100.000</td></tr><tr><td>Cộng</td><td>468.719.317.196</td><td>27.418.016.445</td><td>496.137.333.641</td></tr><tr><td colspan="4">01/01/2016</td></tr><tr><td>Các khoản vay và nợ thuê tài chính</td><td>217.272.514.517</td><td>740.902.996.749</td><td>958.175.511.266</td></tr><tr><td>Phải trả người bán và phải trả khác</td><td>152.528.809.901</td><td>5.848.263.353</td><td>158.377.073.254</td></tr><tr><td>Chi phí phải trả</td><td>24.827.690.533</td><td>-</td><td>24.827.690.533</td></tr><tr><td>Cộng</td><td>394.629.014.951</td><td>746.751.260.102</td><td>1.141.380.275.053</td></tr><tr><td>Chênh lệch thanh khoản thuần</td><td>74.090.302.245</td><td>(719.333.243.657)</td><td>(645.242.941.412)</td></tr></table>
+
+Ban Tổng Giám đốc đánh giá mức tập trung rủi ro thanh khoản ở mức thấp. Ban Tổng Giám đốc tin tương rằng Tập đoàn có thể tạo ra đủ nguồn tiền để đáp ứng các nghĩa vụ tài chính khi đến hạn.
+
+56
+
+\(\|c^{2}\| \leq 2\leq 0 = 0.15\|\)
+
+===== PAGE 58 =====
+CÔNG TY CÓ PHẦN TẬP ĐOÀN C.E.O
+
+Tàng 5, Tháp CEO, HH2-1, Đô thị mới Mễ Trì Hạ
+
+Quận Nam Từ Liêm, thành phố Hà Nội
+
+BÁO CÁO TÀI CHÍNH HỢP NHẤT
+
+Cho năm tài chính kết thúc
+
+ngày 31 tháng 12 năm 2016
+
+THUYẾT MINH BẢO CẢO TÀI CHÍNH HỢP NHẤT (TIẾP THEO)
+
+MĂU SÓ B 09 - DN/HN
+
+Các Thuyết minh này là một bộ phận hợp thành và cần được đọc đồng thời với Báo cáo tài chính hợp nhất
+
+VII. THÔNG TIN KHÁC (TIÉP THEO)
+
+2. Nghiệp vụ và số dư với các bên liên quan
+
+Danh sách bên liên quan:
+
+<table><tr><td>Bên liên quan</td><td>Mối quan hệ</td></tr><tr><td>Phạm Thị Mai LanĐỗ Văn TiếnCông ty TNHH MTV Thu Hoài Phú Quốc</td><td>Phó Chủ tịch Hội đồng quản trịNgười có liên quan với Kế toán trườngNgười đại diện pháp luật có mối quan hệ vớiTập Đoàn</td></tr><tr><td>Công ty TNHH MTV Đầu tư Quang Tiến Phú Quốc</td><td>Người đại diện pháp luật có mối quan hệ vớiTập Đoàn</td></tr><tr><td>Đoàn Thị ThảoVũ Thị Lan Anh</td><td>Người thân của cổ đông lớn trong Tập đoànThành viên Hội đồng quản trị và Ban TổngGiám đốc</td></tr></table>
+
+Trong năm, Tập đoàn đã có các giao dịch chủ yếu sau với các bên liên quan:
+
+<table><tr><td></td><td>Năm 2016VND</td><td>Năm 2015VND</td></tr><tr><td colspan="3">Bán hàng</td></tr><tr><td>Phạm Thị Mai Lan</td><td>665.073.704</td><td>-</td></tr><tr><td>Đỗ Văn Tiến</td><td>2.814.947.321</td><td>-</td></tr><tr><td>Công ty TNHH MTV Thu Hoài Phú Quốc</td><td>55.913.232.727</td><td>-</td></tr><tr><td>Công ty TNHH MTV Đầu tư Quang Tiến Phú Quốc</td><td>33.350.800.976</td><td>-</td></tr><tr><td>Đoàn Thị Thảo</td><td>12.643.302.114</td><td>-</td></tr><tr><td>Vũ Thị Lan Anh</td><td>9.554.212.247</td><td>-</td></tr><tr><td>Cộng</td><td>114.941.569.089</td><td>-</td></tr><tr><td colspan="3">Tiền chi cho vay</td></tr><tr><td>Đỗ Văn Tiến</td><td>7.600.000.000</td><td>-</td></tr><tr><td>Cộng</td><td>7.600.000.000</td><td>-</td></tr></table>
+
+57
+
+10. 甲子乙丙丁
+
+===== PAGE 59 =====
+CÔNG TY CÓ PHẦN TẬP ĐOÀN C.E.O
+
+Tàng 5, Tháp CEO, HH2-1, Đô thị mới Mễ Trì Hạ
+
+Quận Nam Từ Liêm, thành phố Hà Nội
+
+BÁO CÁO TÀI CHÍNH HỢP NHẤT
+
+Cho năm tài chính kết thúc
+
+ngày 31 tháng 12 năm 2016
+
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (TIẾP THEO)
+
+MĂU SÓ B 09 - DN/HN
+
+Các Thuyết minh này là một bộ phận hợp thành và cần được đọc đồng thời với Báo cáo tài chính hợp nhất
+
+VII. THÔNG TIN KHÁC (TIÉP THEO)
+
+2. Nghiệp vụ và số dư với các bên liên quan (Tiếp theo)
+
+Số dư chủ yếu với các bên liên quan tại ngày kết thúc niên độ kế toán:
+
+<table><tr><td></td><td>31/12/2016VND</td><td>01/01/2016VND</td></tr><tr><td colspan="3">Phải thu khách hàng</td></tr><tr><td>Đỗ Văn Tiến</td><td>2.837.466.900</td><td>-</td></tr><tr><td>Công ty TNHH MTV Thu Hoài Phú Quốc</td><td>48.648.900.000</td><td>-</td></tr><tr><td>Công ty TNHH MTV Đầu tư Quang Tiến Phú Quốc</td><td>29.670.000.000</td><td>-</td></tr><tr><td>Đoàn Thị Thảo</td><td>13.608.000.000</td><td>-</td></tr><tr><td>Vũ Thị Lan Anh</td><td>8.840.000.000</td><td>-</td></tr><tr><td>Cộng</td><td>103.604.366.900</td><td>-</td></tr><tr><td colspan="3">Phải thu về cho vay</td></tr><tr><td>Đỗ Văn Tiến</td><td>7.600.000.000</td><td>-</td></tr><tr><td>Cộng</td><td>7.600.000.000</td><td>-</td></tr></table>
+
+Thu nhập Ban điều hành được hưởng năm 2016:
+
+<table><tr><td></td><td>Năm 2016VND</td><td>Năm 2015VND</td></tr><tr><td>Lương và thù lao</td><td>4.078.492.335</td><td>2.773.334.092</td></tr><tr><td>Cộng</td><td>4.078.492.335</td><td>2.773.334.092</td></tr></table>
+
+3. Sự kiện sau ngày kết thúc năm tài chính
+
+Không có sự kiện trọng yếu nào phát sinh sau ngày 31 tháng 12 năm 2016 dồi hỏi phải được điều chỉnh hay trình bày trong Báo cáo tài chính.
+
+58
+
+12765
+
+===== PAGE 60 =====
+CÔNG TY CỔ PHẦN TẬP ĐOÀN C.E.O
+
+Tàng 5, Tháp CEO, HH2-1, Đô thị mới Mễ Trì Hạ
+
+Quận Nam Từ Liêm, thành phố Hà Nội
+
+BÁO CÁO TÀI CHÍNH HỢP NHẤT
+
+Cho năm tài chính kết thúc
+
+ngày 31 tháng 12 năm 2016
+
+THUYẾT MINH BẢO CẢO TÀI CHÍNH HỢP NHẤT (TIẾP THEO)
+
+MẦU SỐ B 09 - DN/HN
+
+Các Thuyết minh này là một bộ phận hợp thành và cần được đọc đồng thời với Báo cáo tài chính hợp nhất
+
+VII. THÔNG TIN KHÁC (TIẾP THEO)
+
+4. Số liệu so sánh
+
+Số liệu so sánh là số liệu của Báo cáo tài chính hợp nhất cho năm tài chính kết thúc ngày 31 tháng 12 năm 2015 đã được kiểm toán. Một số sai sót phát sinh chủ yếu từ năm 2015 trở về trước đã được điều chỉnh hồi tố vào số liệu so sánh trên Báo cáo tài chính hợp nhất cho năm tài chính kết thúc ngày 31 tháng 12 năm 2016 của Tập đoàn.
+
+Sai sốt từ năm 2015 trở về trước được điều chỉnh hồi tố vào số liệu so sánh trên Báo cáo cáo tài chính cho năm tài chính kết thúc ngày 31 tháng 12 năm 2016
+
+<table><tr><td>Nội dung</td><td>Số tiền VND</td></tr><tr><td>1. Điều chỉnh tăng chỉ tiêu &quot;Tài sản thuế thu nhập doanh nghiệp hoãn lại&quot; do điều chỉnh lợi nhuận chưa thực hiện của Công ty Cổ phần Xây dựng C.E.O xây dựng công trình Trường Cao đẳng Đại Việt phát sinh từ năm 2015 trở về trước</td><td>1.003.719.249</td></tr><tr><td>2. Điều chỉnh giảm chỉ tiêu &quot;Hàng tồn kho&quot; do điều chỉnh lợi nhuận chưa thực hiện của Công ty Cổ phần Xây dựng C.E.O xây dựng công trình Quốc Oai và công trình Sonasea Villas phát sinh năm 2014</td><td>6.441.293.960</td></tr><tr><td>3. Điều chỉnh giảm chỉ tiêu &quot;Chi phí Xây dựng cơ bản dở dang&quot; do điều chỉnh lợi nhuận chưa thực hiện của Công ty Cổ phần Xây dựng C.E.O xây dựng công trình Trường Cao đẳng Đại Việt cho Công ty Cổ phần Tập đoàn C.E.O phát sinh từ năm 2015 trở về trước</td><td>5.018.596.244</td></tr><tr><td>Chi tiết lợi nhuận chưa thực hiện của Công ty Cổ phần Xây dựng C.E.O xây dựng công trình Trường Cao đẳng Đại Việt phát sinh từ năm 2015 trở về trước:</td><td></td></tr><tr><td>Năm 2008</td><td>466.861.811</td></tr><tr><td>Năm 2009</td><td>288.620.705</td></tr><tr><td>Năm 2010</td><td>2.752.192.497</td></tr><tr><td>Năm 2011</td><td>732.445.487</td></tr><tr><td>Năm 2013</td><td>10.979.098</td></tr><tr><td>Năm 2015</td><td>767.496.646</td></tr><tr><td>Cộng</td><td>5.018.596.244</td></tr><tr><td>4. Điều chỉnh giảm chỉ tiêu &quot;Lợi nhuận sau thuế chưa phân phối&quot; do điều chỉnh lợi nhuận chưa thực hiện của Công ty Cổ phần Xây dựng C.E.O xây dựng công trình Quốc Oai và công trình Sonasea Villas phát sinh năm 2014 và lợi nhuận chưa thực hiện của Công ty Cổ phần Xây dựng C.E.O xây dựng công trình Trường Cao đẳng Đại Việt phát sinh từ năm 2015 trở về trước</td><td>6.027.018.676</td></tr><tr><td>5. Điều chỉnh giảm chỉ tiêu &quot;Lợi ích cổ đông không kiểm soát&quot; do điều chỉnh lợi nhuận chưa thực hiện của Công ty Cổ phần Xây dựng C.E.O xây dựng công trình Quốc Oai và công trình Sonasea Villas phát sinh năm 2014 và lợi nhuận chưa thực hiện của Công ty Cổ phần Xây dựng C.E.O xây dựng công trình Trường Cao đẳng Đại Việt phát sinh từ năm 2015 trở về trước</td><td>4.429.152.279</td></tr></table>
+
+59
+
+//U/ 4.5 = 15.11
+
+===== PAGE 61 =====
+CÔNG TY CỔ PHẦN TẬP ĐOÀN C.E.O
+
+Tàng 5, Tháp CEO, HH2-1, Đô thị mới Mễ Trì Hạ
+
+Quận Nam Từ Liêm, thành phố Hà Nội
+
+BÁO CÁO TÀI CHÍNH HỢP NHẤT
+
+Cho năm tài chính kết thúc
+
+ngày 31 tháng 12 năm 2016
+
+THUYẾT MINH BẢO CẢO TÀI CHÍNH HỢP NHẤT (TIẾP THEO)
+
+MẦU SỐ B 09 - DN/HN
+
+Các Thuyết minh này là một bộ phận hợp thành và cần được đọc đồng thời với Báo cáo tài chính hợp nhất
+
+VII. THÔNG TIN KHÁC (TIÉP THEO)
+
+4. Số liệu so sánh (Tiếp theo)
+
+Ảnh hưởng của các sai sót nếu trên đến báo cáo tài chính cho năm tài chính kết thúc ngày 31 tháng 12 năm 2016 của Tập đoàn như sau:
+
+<table><tr><td>Chỉ tiêu trên Báo cáo</td><td>Ảnh hưởng của các sai sót VND</td></tr></table>
+
+Bảng cân đối kế toán
+
+<table><tr><td colspan="2">1. Điều chính Lợi nhuận chưa thực hiện năm 2014</td></tr><tr><td>Giảm Hàng tồn kho</td><td>6.441.293.960</td></tr><tr><td>Giảm Lợi nhuận sau thuế chưa phân phối</td><td>3.979.431.408</td></tr><tr><td>Giảm Lợi ích cổ đông không kiểm soát</td><td>2.461.862.552</td></tr></table>
+
+2. Điều chỉnh lợi nhuận chưa thực hiện của Công ty Cổ phần Xây dựng C.E.O xây dựng công trình Trường Cao đẳng Đại Việt phát sinh từ năm 2015 trở về trước
+
+<table><tr><td>Tăng Tài sản thuế thu nhập doanh nghiệp hoãn lại</td><td>1.003.719.249</td></tr><tr><td>Giảm Chỉ phi xây dựng cơ bản dở dang</td><td>5.018.596.244</td></tr><tr><td>Giảm Lợi nhuận sau thuế chưa phân phối</td><td>2.047.587.268</td></tr><tr><td>Giảm Lợi ích cổ đông không kiểm soát</td><td>1.967.289.727</td></tr></table>
+
+60
+
+===== PAGE 62 =====
+CÔNG TY CỔ PHẦN TẬP ĐOÀN C.E.O
+
+Tàng 5, Tháp CEO, HH2-1, Đô thị mới Mế Trì Hạ
+
+Quận Nam Từ Liêm, thành phố Hà Nội
+
+BÁO CÁO TÀI CHÍNH HỢP NHẤT
+
+Cho năm tài chính kết thúc
+
+ngày 31 tháng 12 năm 2016
+
+THUYẾT MINH BẢO CẢO TÀI CHÍNH HỢP NHẤT (TIẾP THEO)
+
+MĂU SỐ B 09 - DN/HN
+
+Các Thuyết minh này là một bộ phận hợp thành và cần được đọc đồng thời với Báo cáo tài chính hợp nhất
+
+VII. THÔNG TIN KHÁC (TIÉP THEO)
+
+4. Số liệu so sánh (Tiếp theo)
+
+Một số chỉ tiêu trên Băng cân đối kế toán trước điều chỉnh và sau điều chỉnh hồi tố:
+
+<table><tr><td>Chỉ tiêu trên Báo cáo</td><td>Mã số</td><td>31/12/2015(trước điều chỉnh)VND</td><td>31/12/2015(sau điều chỉnh)VND</td></tr><tr><td>A. TÀI SẢN NGẮN HẠN</td><td>100</td><td>1.531.872.218.607</td><td>1.525.430.924.647</td></tr><tr><td>IV. Hàng tồn kho</td><td>140</td><td>759.509.287.430</td><td>753.067.993.470</td></tr><tr><td>1. Hàng tồn kho</td><td>141</td><td>759.509.287.430</td><td>753.067.993.470</td></tr><tr><td>B. TÀI SẢN DÀI HẠN</td><td>200</td><td>1.089.140.271.243</td><td>1.085.125.394.248</td></tr><tr><td>IV. Tài sản dở dang dài hạn</td><td>240</td><td>737.508.416.021</td><td>732.489.819.777</td></tr><tr><td>1. Chi phí xây dựng cơ bản dở dang</td><td>242</td><td>737.508.416.021</td><td>732.489.819.777</td></tr><tr><td>VI. Tài sản dài hạn khác</td><td>260</td><td>120.810.450.328</td><td>121.814.169.577</td></tr><tr><td>2. Tài sản thuế thu nhập hoãn lại</td><td>262</td><td>5.343.758.082</td><td>6.347.477.331</td></tr><tr><td>TỔNG CỘNG TÀI SẢN</td><td>270</td><td>2.621.012.489.850</td><td>2.610.556.318.895</td></tr><tr><td>D. VỐN CHỦ SỞ HỮU</td><td>400</td><td>1.099.045.843.700</td><td>1.088.589.672.745</td></tr><tr><td>I. Vốn chủ sở hữu</td><td>410</td><td>1.099.045.843.700</td><td>1.088.589.672.745</td></tr><tr><td>4. Lợi nhuận sau thuế chưa phân phối</td><td>421</td><td>146.360.099.897</td><td>140.333.081.221</td></tr><tr><td>- LNST chưa phân phối lũy kế đến cuối năm trước</td><td>421a</td><td>6.927.836.128</td><td>900.817.452</td></tr><tr><td>5. Lợi ích cổ đông không kiểm soát</td><td>429</td><td>222.087.000.827</td><td>217.657.848.548</td></tr><tr><td>TỔNG CỘNG NGUỒN VỐN</td><td>440</td><td>2.621.012.489.850</td><td>2.610.556.318.895</td></tr></table>
+
+Hoàng Thị Nhung
+
+Người lập
+
+Hà Nội, ngày 25 tháng 02 năm 2017
+
+61

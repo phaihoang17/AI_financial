@@ -1,0 +1,1133 @@
+===== PAGE 1 =====
+#
+
+TÔN NAM KIM
+
+THƯƠNG HIỆU QUỐC GIA
+
+[Non-Text]
+
+BÁO CÁO TÀI CHÍNH HỢP NHẤT
+
+CHO NĂM TÀI CHÍNH KẾT THỨC NGÀY 31 THÁNG 12 NĂM 2021
+
+CÔNG TY CỔ PHẦN THÉP NAM KIM
+
+===== PAGE 2 =====
+CÔNG TY CỔ PHẦN THÉP NAM KIM
+
+BÁO CÁO TÀI CHÍNH HỢP NHẤT
+
+CHO NĂM TÀI CHÍNH KẾT THÚC NGÀY 31 THÁNG 12 NĂM 2021
+
+===== PAGE 3 =====
+CÔNG TY CỔ PHẦN THÉP NAM KIM
+
+BÁO CÁO TÀI CHÍNH HỢP NHẤT
+
+CHO NĂM TÀI CHÍNH KẾT THỨC NGÀY 31 THÁNG 12 NĂM 2021
+
+<table><tr><td>NỘI DUNG</td><td>TRANG</td></tr></table>
+
+Thông tin về doanh nghiệp 1
+
+Báo cáo của Ban Tổng Giám đốc 2
+
+Báo cáo kiểm toán độc lập 3
+
+Bảng cân đối kế toán hợp nhất (Mẫu số B 01 - DN/HN) 5
+
+Báo cáo kết quả hoạt động kinh doanh hợp nhất (Mẫu số B 02 - DN/HN) 8
+
+Báo cáo lưu chuyển tiền tệ hợp nhất (Mẫu số B 03 - DN/HN) 9
+
+Thuyết minh cho báo cáo tài chính hợp nhất (Mẫu số B 09 - DN/HN) 10
+
+===== PAGE 4 =====
+CÔNG TY CỔ PHẦN THÉP NAM KIM
+
+THÔNG TIN VỀ DOANH NGHIỆP
+
+Giấy chứng nhận đăng ký doanh nghiệp
+
+Số 3700477019 do Sở Kế hoạch và Đầu tư Tĩnh Bình Dương cấp ngày 23 tháng 12 năm 2002 và Giấy chứng nhận đăng ký doanh nghiệp công ty cổ phần điều chỉnh gần nhất lần thứ 27 ngày 15 tháng 2 năm 2022
+
+<table><tr><td>Hội đồng Quản trị</td><td>Ông Hồ Minh QuangÔng Nguyễn Vinh AnÔng Võ Hoàng VũBà Nguyễn Ngọc Ý NhiÔng Nguyễn Hữu Kinh LuânÔng Võ Thời</td><td>Chủ tịchThành viênThành viênThành viênThành viên(đến ngày 16 tháng 12 năm 2021)Thành viên</td></tr><tr><td>Ban kiểm soát</td><td>Bà Nguyễn Thị Bích NhiBà Võ Thị VuiÔng Lê Nhật Tân</td><td>Trường banThành viênThành viên</td></tr><tr><td>Ban Tổng Giám đốc</td><td>Ông Võ Hoàng VũÔng Quảng Trọng LăngBà Nguyễn Thị Ngọc LiênÔng Nguyễn Vinh AnBà Trần Ngọc Diệu</td><td>Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốc</td></tr><tr><td>Người đại diện theo pháp luật</td><td>Ông Võ Hoàng Vũ</td><td>Tổng Giám đốc</td></tr><tr><td>Trụ sở chính</td><td colspan="2">Lô A1, Đường Đ2, Khu Công nghiệp Đồng An 2, Phường Hòa Phú, Thành phố Thủ Dầu Một, Tỉnh Bình Dương, Việt Nam</td></tr><tr><td>Công ty kiểm toán</td><td colspan="2">Công ty TNHH PwC (Việt Nam)</td></tr></table>
+
+1
+
+===== PAGE 5 =====
+CÔNG TY CỔ PHẦN THÉP NAM KIM
+
+BÁO CÁO CỦA BAN TỔNG GIÁM ĐỐC
+
+TRÁCH NHIỆM CỦA BAN TỔNG GIÁM ĐỐC ĐỐI VỚI BÁO CÁO TÀI CHÍNH HỢP NHẤT
+
+Ban Tổng Giám đốc của Công ty Cổ phần Thép Nam Kim ("Công ty") chịu trách nhiệm lập báo cáo tài chính hợp nhất thể hiện trung thực và hợp lý tình hình tài chính của Công ty và các công ty con (goi chung là "Tập đoàn") tại ngày 31 tháng 12 năm 2021, cũng như kết quả hoạt động kinh doanh hợp nhất và tình hình lưu chuyển tiền tệ hợp nhất cho năm tài chính kết thúc vào ngày nếu trên. Trong việc lập báo cáo tài chính hợp nhất này, Ban Tổng Giám đốc được yêu cầu phải:
+
+- chọn lựa các chính sách kế toán phù hợp và áp dụng một cách nhất quán;
+
+- thực hiện các xét đoán và ước tính một cách hợp lý và thận trọng; và
+
+- lập báo cáo tài chính hợp nhất trên cơ sở Tập đoàn hoạt động liên tục trừ khi giả định Tập đoàn hoạt động liên tục là không phù hợp.
+
+Ban Tổng Giám đốc của Công ty chịu trách nhiệm bảo đảm rằng các số sách kế toán đúng đắn đã được thiết lập và duy trì để thể hiện tình hình tài chính hợp nhất của Tập đoàn với độ chính xác hợp lý tại mọi thời điểm và để làm cơ sở lập báo cáo tài chính hợp nhất tuân thủ theo chế độ kế toán được trình bày ở Thuyết minh 2 của báo cáo tài chính hợp nhất. Ban Tổng Giám đốc của Công ty cũng chịu trách nhiệm đối với việc bảo vệ các tài sản của Tập đoàn và thực hiện các biện pháp hợp lý để ngăn ngừa và phát hiện các gian lận hoặc nhằm lẫn.
+
+PHÊ CHUẦN BÁO CÁO TÀI CHÍNH HỢP NHẤT
+
+Theo đây, chúng tôi phê chuẩn báo cáo tài chính hợp nhất đinh kèm từ trang 5 đến trang 44. Báo cáo tài chính hợp nhất này phần ánh trung thực và hợp lý tính hình tài chính hợp nhất của Tập đoàn tại ngày 31 tháng 12 năm 2021, cũng như kết quả hoạt động kinh doanh hợp nhất và tình hình lưu chuyển tiền tệ hợp nhất cho năm tài chính kết thúc cùng ngày nếu trên phù hợp với các Chuẩn mực Kế toán Việt Nam, Chế độ Kế toán Doanh nghiệp Việt Nam và các quy định pháp lý có liên quan đến việc lập và trình bày báo cáo tài chính hợp nhất.
+
+Thay mặt Ban Tổng Giám đốc
+
+Võ Hoàng Vũ
+
+Tổng Giám đốc
+
+Tỉnh Bình Dương, nước CHXHCN Việt Nam
+
+Ngày 21 tháng 3 năm 2022
+
+2
+
+===== PAGE 6 =====
+pwc
+
+BÁO CÁO KIỂM TOÁN ĐỐC LẬP
+
+GÙI CÁC CỔ ĐÔNG CỦA CÔNG TY CỔ PHẦN THÉP NAM KIM
+
+Chúng tôi đã kiểm toán báo cáo tài chính hợp nhất kèm theo của Công ty Cổ phần Thép Nam Kim ("Công ty") và các công ty con (gọi chung là "Tập đoàn") được lập ngày 31 tháng 12 năm 2021 và được Ban Tổng Giám đốc Công ty phê chuẩn ngày 21 tháng 3 năm 2022. Báo cáo tài chính hợp nhất này bao gồm: bằng cân đối kế toán hợp nhất tại ngày 31 tháng 12 năm 2021, báo cáo kết quả hoạt động kinh doanh hợp nhất và báo cáo lưu chuyển tiền tệ hợp nhất cho năm tài chính kết thúc cũng ngày nếu trên, và thuyết minh báo cáo tài chính hợp nhất bao gồm các chính sách kế toán chủ yếu từ trang 5 đến trang 44.
+
+Trách nhiệm của Ban Tổng Giám đốc
+
+Ban Tổng Giám đốc của Công ty chịu trách nhiệm lập và trình bày trung thực và hợp lý báo cáo tài chính hợp nhất của Tập đoàn theo các Chuẩn mực Kế toán Việt Nam, Chế độ Kế toán Doanh nghiệp Việt Nam và các quy định pháp lý có liên quan đến việc lập và trình bày báo cáo tài chính hợp nhất và chịu trách nhiệm về kiểm soát nội bộ mà Ban Tổng Giám đốc xác định là cần thiết để đảm bảo việc lập và trình bày báo cáo tài chính hợp nhất không có sai sót trọng yếu do gian lân hoặc nhằm lẫn.
+
+Trách nhiệm của Kiểm toán viên
+
+Trách nhiệm của chúng tôi là đưa ra ý kiến về báo cáo tài chính hợp nhất này dựa trên kết quả cuộc kiểm toán. Chúng tôi đã tiến hành kiểm toán theo các Chuẩn mực Kiểm toán Việt Nam. Các chuẩn mực này yêu cầu chúng tôi tuân thủ chuẩn mực và các quy định về đạo đức nghề nghiệp và lập kế hoạch và thực hiện cuộc kiểm toán để đạt được sự đảm bảo hợp lý về việc liệu báo cáo tài chính hợp nhất của Tập đoàn có còn sai sót trọng yếu hay không.
+
+Công việc kiểm toán bao gồm thực hiện các thủ tục nhằm thu thập các bằng chứng kiểm toán về các số liệu và thuyết minh trên báo cáo tài chính hợp nhất. Các thủ tục kiểm toán được lựa chọn dựa trên xét đoán của kiểm toán viên, bao gồm đánh giá rủi ro có sai sót trọng yếu trong báo cáo tài chính hợp nhất do gian lận hoặc nhằm lẫn. Khi thực hiện đánh giá các rủi ro này, kiểm toán viên đã xem xét kiểm soát nội bộ của Tập đoàn liên quan đến việc lập và trình bày báo cáo tài chính trung thực và hợp lý nhằm thiết kế các thủ tục kiểm toán phù hợp với tình hình thực tế, tuy nhiên không nhằm mục đích đưa ra ý kiến về hiệu quả của kiểm soát nội bộ của Tập đoàn. Công việc kiểm toán cũng bao gồm việc đánh giá tính thích hợp của các chính sách kế toán được áp dụng và tính hợp lý của các ước tính kế toán của Ban Tổng Giám đốc cũng như đánh giá việc trình bày tổng thể báo cáo tài chính hợp nhất.
+
+Chúng tôi tin tưởng rằng các bằng chứng kiểm toán mà chúng tôi đã thu thập được là đầy đủ và thích hợp để làm cơ sở cho ý kiến kiểm toán của chúng tôi.
+
+3
+
+Công ty TNHH PwC (Việt Nam)
+Số 29, Đường Lê Duẩn, Phường Bến Nghé, Quận 1, Thành phố Hồ Chí Minh, Việt Nam
+ĐT: +84 (28) 38230796, www.pwc.com/vn
+
+===== PAGE 7 =====
+pwc
+
+Ý kiến của Kiểm toán viên
+
+Theo ý kiến của chúng tôi, báo cáo tài chính hợp nhất đã phần ánh trung thực và hợp lý, trên các khía cạnh trọng yếu, tình hình tài chính hợp nhất của Tập đoàn tại ngày 31 tháng 12 năm 2021, cũng như kết quả hoạt động kinh doanh hợp nhất và tình hình lưu chuyển tiền tệ hợp nhất cho năm tài chính kết thúc cùng ngày nếu trên phù hợp với các Chuẩn mực Kế toán Việt Nam, Chế độ Kế toán Doanh nghiệp Việt Nam và các quy định pháp lý có liên quan đến việc lập và trình bày báo cáo tài chính hợp nhất.
+
+Thay mặt và đại diện cho Công ty TNHH PwC (Việt Nam)
+
+Nguyên Hoàng Nam
+
+Số Giấy CN ĐKHN kiểm toán:
+
+0849-2018-006-1
+
+Chữ ký được ủy quyền
+
+Trương Phước Lộc
+
+Số Giấy CN ĐKHN kiểm toán:
+
+4173-2022-006-1
+
+Số hiệu báo cáo kiểm toán: HCM11615
+
+Thành phố Hồ Chí Minh, ngày 21 tháng 3 năm 2022
+
+4
+
+===== PAGE 8 =====
+CÔNG TY CỔ PHẦN THÉP NAM KIM
+
+Mẫu số B 01 – DN/HN
+
+BÀNG CÂN ĐỐI KẾ TOÁN HỢP NHẤT
+
+<table><tr><td rowspan="2">Mã số</td><td rowspan="2">TÀI SẢN</td><td rowspan="2">Thuyết minh</td><td colspan="2">Tại ngày 31 tháng 12 năm</td></tr><tr><td>2021 VND</td><td>2020 VND</td></tr><tr><td>100</td><td>TÀI SẢN NGĂN HẠN</td><td></td><td>12.215.599.008.275</td><td>4.492.264.536.968</td></tr><tr><td>110</td><td>Tiền và các khoản tương đương tiền</td><td>4</td><td>751.445.944.055</td><td>219.161.716.845</td></tr><tr><td>111</td><td>Tiền</td><td></td><td>670.954.162.335</td><td>45.471.716.845</td></tr><tr><td>112</td><td>Các khoản tương đương tiền</td><td></td><td>80.491.781.720</td><td>173.690.000.000</td></tr><tr><td>120</td><td>Đầu tư tài chính ngắn hạn</td><td></td><td>447.713.546.612</td><td>369.526.402.595</td></tr><tr><td>121</td><td>Chứng khoán kinh doanh</td><td>5(a)</td><td>9.353.176</td><td>9.353.176</td></tr><tr><td>123</td><td>Đầu tư nằm giữ đến ngày đáo hạn</td><td>5(b)</td><td>447.704.193.436</td><td>369.517.049.419</td></tr><tr><td>130</td><td>Các khoản phải thu ngắn hạn</td><td></td><td>1.901.701.507.479</td><td>1.437.540.466.313</td></tr><tr><td>131</td><td>Phải thu ngắn hạn của khách hàng</td><td>6</td><td>1.493.179.266.213</td><td>1.218.090.460.560</td></tr><tr><td>132</td><td>Trả trước cho người bán ngắn hạn</td><td>7</td><td>351.713.227.664</td><td>204.796.849.338</td></tr><tr><td>136</td><td>Phải thu ngắn hạn khác</td><td>8(a)</td><td>63.068.470.363</td><td>17.411.507.841</td></tr><tr><td>137</td><td>Dự phòng phải thu ngắn hạn khó đòi</td><td>6</td><td>(6.259.456.761)</td><td>(2.758.351.426)</td></tr><tr><td>140</td><td>Hàng tồn kho</td><td></td><td>8.281.323.556.123</td><td>2.371.077.179.239</td></tr><tr><td>141</td><td>Hàng tồn kho</td><td>9</td><td>8.701.658.662.222</td><td>2.371.077.179.239</td></tr><tr><td>149</td><td>Dự phòng giảm giá hàng tồn kho</td><td>9</td><td>(420.335.106.099)</td><td>-</td></tr><tr><td>150</td><td>Tài sản ngắn hạn khác</td><td></td><td>833.414.454.006</td><td>94.958.771.976</td></tr><tr><td>151</td><td>Chi phí trả trước ngắn hạn</td><td>10(a)</td><td>13.523.389.572</td><td>9.213.413.509</td></tr><tr><td>152</td><td>Thuế Giá trị Gia tăng (&quot;GTGT&quot;) được khấu trừ</td><td>16</td><td>819.891.064.434</td><td>85.745.358.467</td></tr></table>
+
+Các thuyết minh từ trang 10 đến trang 44 là một phần cấu thành báo cáo tài chính hợp nhất này.
+
+5
+
+===== PAGE 9 =====
+CÔNG TY CỔ PHẦN THÉP NAM KIM
+
+Mẫu số B 01 – DN/HN
+
+BÀNG CÂN ĐỐI KẾ TOÁN HỢP NHẤT (tiếp theo)
+
+<table><tr><td rowspan="2">Mã số</td><td rowspan="2">TÀI SẢN (tiếp theo)</td><td rowspan="2">Thuyết minh</td><td colspan="2">Tại ngày 31 tháng 12 năm</td></tr><tr><td>2021 VND</td><td>2020 VND</td></tr><tr><td>200</td><td>TÀI SẢN DÀI HẠN</td><td></td><td>3.182.316.358.021</td><td>3.270.828.788.280</td></tr><tr><td>210</td><td>Các khoản phải thu dài hạn</td><td></td><td>6.500.000</td><td>3.470.966.092</td></tr><tr><td>216</td><td>Phải thu dài hạn khác</td><td>8(b)</td><td>6.500.000</td><td>3.470.966.092</td></tr><tr><td>220</td><td>Tài sản cố định</td><td></td><td>2.770.700.940.771</td><td>3.126.532.591.606</td></tr><tr><td>221</td><td>Tài sản cố định hữu hình</td><td>11(a)</td><td>2.529.816.436.046</td><td>2.726.909.254.185</td></tr><tr><td>222</td><td>Nguyên giá</td><td></td><td>4.830.028.692.167</td><td>4.637.592.539.327</td></tr><tr><td>223</td><td>Giá trị khấu hao lũy kế</td><td></td><td>(2.300.212.256.121)</td><td>(1.910.683.285.142)</td></tr><tr><td>224</td><td>Tài sản cố định thuê tài chính</td><td>11(b)</td><td>-</td><td>150.636.097.026</td></tr><tr><td>225</td><td>Nguyên giá</td><td></td><td>-</td><td>169.433.832.365</td></tr><tr><td>226</td><td>Giá trị khấu hao lũy kế</td><td></td><td>-</td><td>(18.797.735.339)</td></tr><tr><td>227</td><td>Tài sản cố định vô hình</td><td>11(c)</td><td>240.884.504.725</td><td>248.987.240.395</td></tr><tr><td>228</td><td>Nguyên giá</td><td></td><td>279.429.712.657</td><td>279.429.712.657</td></tr><tr><td>229</td><td>Giá trị khấu hao lũy kế</td><td></td><td>(38.545.207.932)</td><td>(30.442.472.262)</td></tr><tr><td>240</td><td>Tài sản dở dang dài hạn</td><td></td><td>176.006.903.074</td><td>58.575.728.261</td></tr><tr><td>242</td><td>Chi phí xây dựng cơ bản dở dang</td><td>12</td><td>176.006.903.074</td><td>58.575.728.261</td></tr><tr><td>250</td><td>Đầu tư tài chính dài hạn</td><td></td><td>8.180.000.000</td><td>23.180.000.000</td></tr><tr><td>255</td><td>Đầu tư nằm giữ đến ngày đáo hạn</td><td>5(b)</td><td>8.180.000.000</td><td>23.180.000.000</td></tr><tr><td>260</td><td>Tài sản dài hạn khác</td><td></td><td>227.422.014.176</td><td>59.069.502.321</td></tr><tr><td>261</td><td>Chi phí trả trước dài hạn</td><td>10(b)</td><td>208.796.145.623</td><td>59.069.502.321</td></tr><tr><td>262</td><td>Tài sản thuế thu nhập hoãn lại</td><td></td><td>18.625.868.553</td><td>-</td></tr><tr><td>270</td><td>TỔNG TÀI SẢN</td><td></td><td>15.397.915.366.296</td><td>7.763.093.325.248</td></tr></table>
+
+Các thuyết minh từ trang 10 đến trang 44 là một phần cấu thành báo cáo tài chính hợp nhất này
+
+6
+
+===== PAGE 10 =====
+CÔNG TY CỔ PHẦN THÉP NAM KIM
+
+Mẫu số B 01 – DN/HN
+
+BẢNG CÂN ĐỐI KẾ TOÁN HỢP NHẤT (tiếp theo)
+
+<table><tr><td rowspan="2">Mãsố</td><td rowspan="2">NGUỒN VỐN</td><td rowspan="2">Thuyếtminh</td><td colspan="2">Tại ngày 31 tháng 12 năm</td></tr><tr><td>2021VND</td><td>2020VND</td></tr><tr><td>300</td><td>NỘ PHẢI TRẢ</td><td></td><td>9.674.711.671.751</td><td>4.582.073.162.617</td></tr><tr><td>310</td><td>Nợ ngắn hạn</td><td></td><td>9.598.192.512.183</td><td>4.097.976.895.372</td></tr><tr><td>311</td><td>Phải trả người bán ngắn hạn</td><td>13</td><td>4.879.071.761.786</td><td>1.070.443.509.756</td></tr><tr><td>312</td><td>Người mua trả tiền trước ngắn hạn</td><td>14</td><td>582.661.815.270</td><td>346.218.920.151</td></tr><tr><td>313</td><td>Thuế và các khoản phải nộp Nhà nước</td><td>16</td><td>189.812.745.137</td><td>51.056.523.851</td></tr><tr><td>314</td><td>Phải trả người lao động</td><td></td><td>44.325.771.984</td><td>40.385.309.272</td></tr><tr><td>315</td><td>Chỉ phí phải trả ngắn hạn</td><td>15</td><td>67.789.915.665</td><td>27.812.146.715</td></tr><tr><td>319</td><td>Phải trả ngắn hạn khác</td><td></td><td>12.636.345.899</td><td>1.017.428.026</td></tr><tr><td>320</td><td>Vay và nợ thuê tài chính ngắn hạn</td><td>17(a)</td><td>3.773.154.733.117</td><td>2.520.048.120.256</td></tr><tr><td>322</td><td>Quỹ khen thưởng, phúc lợi</td><td>18</td><td>48.739.423.325</td><td>40.994.937.345</td></tr><tr><td>330</td><td>Nợ dài hạn</td><td></td><td>76.519.159.568</td><td>484.096.267.245</td></tr><tr><td>337</td><td>Phải trả dài hạn khác</td><td></td><td>900.000.000</td><td>900.000.000</td></tr><tr><td>338</td><td>Vay và nợ thuê tài chính dài hạn</td><td>17(b)</td><td>46.499.351.598</td><td>482.405.018.648</td></tr><tr><td>341</td><td>Thuế thu nhập hoãn lại phải trả</td><td></td><td>29.119.807.970</td><td>791.248.597</td></tr><tr><td>400</td><td>VỐN CHỦ SỞ HỮU</td><td></td><td>5.723.203.694.545</td><td>3.181.020.162.631</td></tr><tr><td>410</td><td>Vốn chủ sở hữu</td><td></td><td>5.723.203.694.545</td><td>3.181.020.162.631</td></tr><tr><td>411</td><td>Vốn góp của chủ sở hữu</td><td>19, 20</td><td>2.183.985.680.000</td><td>1.819.998.680.000</td></tr><tr><td>411a</td><td>- Cổ phiếu phổ thông có quyền biểu quyết</td><td></td><td>2.183.985.680.000</td><td>1.819.998.680.000</td></tr><tr><td>412</td><td>Thặng dư vốn cổ phần</td><td>20</td><td>785.907.272.279</td><td>766.255.590.000</td></tr><tr><td>415</td><td>Cổ phiếu quỹ</td><td>20</td><td></td><td>(78.043.577.721)</td></tr><tr><td>418</td><td>Quỹ đầu tư phát triển</td><td>20</td><td>74.567.904.963</td><td>59.804.428.330</td></tr><tr><td>420</td><td>Quỹ khác thuộc vốn chủ sở hữu</td><td>20</td><td>42.586.677.857</td><td>36.681.287.204</td></tr><tr><td>421</td><td>Lợi nhuận sau thuế (“LNST”) chưa phân phối</td><td>20</td><td>2.636.156.159.446</td><td>576.323.754.818</td></tr><tr><td>421a</td><td>- LNST chưa phân phối lũy kế của các năm trước</td><td></td><td>416.450.646.225</td><td>332.654.182.550</td></tr><tr><td>421b</td><td>- LNST chưa phân phối của năm nay</td><td></td><td>2.219.705.513.221</td><td>243.669.572.268</td></tr><tr><td>440</td><td>TỔNG NGUỒN VỐN</td><td></td><td>15.397.915.366.296</td><td>7.763.093.325.248</td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr></table>
+
+Các thuyết minh từ trang 10 đến trang 44 là một phần cấu thành báo cáo tài chính hợp nhất này.
+
+7
+
+===== PAGE 11 =====
+CÔNG TY CỔ PHẦN THÉP NAM KIM
+
+Mẫu số B 02 – DN/HN
+
+BÁO CÁO KẾT QUÀ HOẠT ĐỘNG KINH DOANH HỢP NHẤT
+
+<table><tr><td rowspan="2">Mã số</td><td rowspan="2"></td><td rowspan="2">Thuyết minh</td><td colspan="2">Năm tài chính kết thúc ngày 31 tháng 12 năm</td></tr><tr><td>2021 VND</td><td>2020 VND</td></tr><tr><td>01</td><td>Doanh thu bán hàng và cung cấp dịch vụ</td><td></td><td>28.206.149.855.751</td><td>11.613.991.092.807</td></tr><tr><td>02</td><td>Các khoản giảm trừ doanh thu</td><td></td><td>(32.747.619.525)</td><td>(54.316.572.647)</td></tr><tr><td>10</td><td>Doanh thu thuần về bán hàng và cung cấp dịch vụ</td><td>23</td><td>28.173.402.236.226</td><td>11.559.674.520.160</td></tr><tr><td>11</td><td>Giá vốn hàng bán và dịch vụ cung cấp</td><td>24</td><td>(23.903.545.311.978)</td><td>(10.690.464.691.531)</td></tr><tr><td>20</td><td>Lợi nhuận gộp về bán hàng và cung cấp dịch vụ</td><td></td><td>4.269.856.924.248</td><td>869.209.828.629</td></tr><tr><td>21</td><td>Doanh thu hoạt động tài chính</td><td>25</td><td>199.218.435.866</td><td>89.088.163.360</td></tr><tr><td>22</td><td>Chi phí tài chính</td><td>26</td><td>(397.466.220.790)</td><td>(281.258.215.062)</td></tr><tr><td>23</td><td>- Trong đó: Chi phí lãi vay</td><td></td><td>(243.685.237.356)</td><td>(222.154.457.661)</td></tr><tr><td>25</td><td>Chi phí bán hàng</td><td>27</td><td>(1.397.951.232.015)</td><td>(267.948.756.419)</td></tr><tr><td>26</td><td>Chi phí quản lý doanh nghiệp</td><td>28</td><td>(122.720.788.853)</td><td>(91.908.570.848)</td></tr><tr><td>30</td><td>Lợi nhuận thuần từ hoạt động kinh doanh</td><td></td><td>2.550.937.118.456</td><td>317.182.449.660</td></tr><tr><td>31</td><td>Thu nhập khác</td><td></td><td>10.744.953.120</td><td>3.795.441.330</td></tr><tr><td>32</td><td>Chi phí khác</td><td></td><td>346.908.979</td><td>(165.774.826)</td></tr><tr><td>40</td><td>Lợi nhuận khác</td><td></td><td>11.091.862.099</td><td>3.629.666.504</td></tr><tr><td>50</td><td>Tổng lợi nhuận kế toán trước thuế</td><td></td><td>2.562.028.980.555</td><td>320.812.116.164</td></tr><tr><td>51</td><td>Chi phí thuế thu nhập doanh nghiệp (“TNDN”) hiện hành</td><td>29</td><td>(356.682.935.566)</td><td>(25.557.009.597)</td></tr><tr><td>52</td><td>Thu nhập thuế TNDN hoãn lại</td><td>29</td><td>19.915.013.232</td><td>14.426.101</td></tr><tr><td>60</td><td>Lợi nhuận sau thuế TNDN</td><td></td><td>2.225.261.058.221</td><td>295.269.532.668</td></tr><tr><td></td><td>Phân bổ cho:</td><td></td><td></td><td></td></tr><tr><td>61</td><td>Cổ đông của Công ty</td><td></td><td>2.225.261.058.221</td><td>295.269.532.668</td></tr><tr><td>70</td><td>Lãi cơ bản trên cổ phiếu</td><td>21</td><td>10.419</td><td>1.345</td></tr><tr><td>71</td><td>Lãi suy giảm trên cổ phiếu</td><td>21</td><td>10.419</td><td>1.345</td></tr></table>
+
+Nguyễn Ngọc Bảo Châu
+Người lập
+
+Vũ Thị Huyền
+Kế toán trưởng
+
+Các thuyết minh từ trang 10 đến trang 44 là một phần cấu thành báo cáo tài chính hợp nhất này.
+
+8
+
+===== PAGE 12 =====
+CÔNG TY CỔ PHẦN THÉP NAM KIM
+
+Mẫu số B 03 – DN/HN
+
+BÁO CÁO LƯU CHUYỀN TIỀN TỆ HỢP NHẤT (Theo phương pháp gián tiếp)
+
+<table><tr><td rowspan="2">Mãsố</td><td rowspan="2">Thuyếtminh</td><td colspan="2">Năm tài chính kết thúcngày 31 tháng 12 năm</td></tr><tr><td>2021VND</td><td>2020VND</td></tr><tr><td colspan="4">LU&#x27;U CHUYÊN TIÊN TỪ HOẠT ĐỘNG KINH DOANH</td></tr><tr><td>01</td><td>Lợi nhuận kế toán trước thuếĐiều chỉnh cho các khoản:</td><td>2.562.028.980.555</td><td>320.812.116.164</td></tr><tr><td>02</td><td>Khấu hao tài sản cố định (&quot;TSCĐ&quot;)</td><td>378.833.971.310</td><td>376.255.520.548</td></tr><tr><td>03</td><td>Các khoản dự phòng</td><td>423.836.211.434</td><td>400.000.000</td></tr><tr><td>04</td><td>Lỗ chênh lệch tỷ giá hối đoái do đánh giá lạicác khoản mục tiên tệ có gốc ngoại tệ</td><td>20.359.041.207</td><td>1.368.014.070</td></tr><tr><td>05</td><td>Lãi từ hoạt động đầu tư</td><td>(15.154.020.441)</td><td>(27.090.757.323)</td></tr><tr><td>06</td><td>Chi phí lãi vay</td><td>243.685.237.356</td><td>222.154.457.661</td></tr><tr><td>07</td><td>Các khoản điều chỉnh khác</td><td></td><td>12.357.783.377</td></tr><tr><td>08</td><td>Lợi nhuận từ hoạt động kinh doanh trước những thay đổi vốn lưu động</td><td>3.613.589.421.421</td><td>906.257.134.497</td></tr><tr><td>09</td><td>Tăng các khoản phải thu</td><td>(1.224.705.151.592)</td><td>(497.986.322.468)</td></tr><tr><td>10</td><td>(Tăng)/giảm hàng tồn kho</td><td>(6.330.581.482.983)</td><td>218.291.327.280</td></tr><tr><td>11</td><td>Tăng/(giảm) các khoản phải trả</td><td>4.111.556.190.228</td><td>(394.729.139.948)</td></tr><tr><td>12</td><td>Giảm chi phí trả trước</td><td>18.014.174.917</td><td>28.517.406.648</td></tr><tr><td>14</td><td>Tiền lãi vay đã trả</td><td>(230.893.376.600)</td><td>(228.102.720.920)</td></tr><tr><td>15</td><td>Thuế TNDN đã nộp</td><td>(255.631.985.625)</td><td>(6.760.599.978)</td></tr><tr><td>17</td><td>Tiền chi khác từ hoạt động kinh doanh</td><td>(9.621.840.327)</td><td>(9.909.990.000)</td></tr><tr><td>20</td><td>Lưu chuyển tiền thuần từ hoạt động kinh doanh</td><td>(308.274.050.561)</td><td>15.577.095.111</td></tr><tr><td colspan="4">LU&#x27;U CHUYÊN TIÊN TỪ HOẠT ĐỘNG ĐẦU TƯ</td></tr><tr><td>21</td><td>Tiền chi để mua sắm, xây dựng TSCĐ và các taisản dài hạn khác</td><td>(145.066.081.288)</td><td>(54.273.792.939)</td></tr><tr><td>23</td><td>Tiền gửi có kỳ hạn tại ngân hàng</td><td>(135.600.000.000)</td><td>(157.965.479.452)</td></tr><tr><td>24</td><td>Tiền thu hồi tiền gửi có kỳ hạn tại ngân hàng</td><td>87.100.000.000</td><td>529.363.404.931</td></tr><tr><td>25</td><td>Tiền chi đầu tư góp vốn vào công ty con</td><td>(138.420.000.000)</td><td></td></tr><tr><td>27</td><td>Tiền thu lãi tiền gửi và trái phiếu</td><td>23.241.845.719</td><td>28.614.073.831</td></tr><tr><td>30</td><td>Lưu chuyển tiền thuần từ hoạt động đầu tư</td><td>(308.744.235.569)</td><td>345.738.206.371</td></tr><tr><td colspan="4">LU&#x27;U CHUYÊN TIÊN TỪ HOẠT ĐỘNG TÀI CHÍNH</td></tr><tr><td>31</td><td>Tiền thu từ tái phát hành cổ phiếu quỹ</td><td>334.288.800.000</td><td></td></tr><tr><td>32</td><td>Tiền chi mua lại cổ phiếu đã phát hành</td><td></td><td>(78.043.577.721)</td></tr><tr><td>33</td><td>Tiền thu từ di vay</td><td>21.070.601.295.868</td><td>11.098.457.061.598</td></tr><tr><td>34</td><td>Tiền chi trả nợ gốc vay</td><td>(20.208.184.257.647)</td><td>(11.165.449.521.984)</td></tr><tr><td>35</td><td>Tiền chi trả nợ gốc thuê tài chính</td><td>(46.713.324.647)</td><td>(21.559.995.996)</td></tr><tr><td>36</td><td>Tiền cổ tức đã trả cho chủ sở hữu</td><td></td><td>(51.599.960.400)</td></tr><tr><td>40</td><td>Lưu chuyển tiền thuần từ hoạt động tài chính</td><td>1.149.992.513.574</td><td>(218.195.994.503)</td></tr><tr><td>50</td><td>Lưu chuyển tiền thuần trong năm</td><td>532.974.227.444</td><td>143.119.306.979</td></tr><tr><td>60</td><td>Tiền và tương đương tiền đầu năm</td><td>4</td><td>219.161.716.845</td></tr><tr><td>61</td><td>Ảnh hưởng của thay đổi tỷ giá hối đoái quy đổi ngoại tệ</td><td>(690.000.234)</td><td>232.120</td></tr><tr><td>70</td><td>Tiền và tương đương tiền cuối năm</td><td>4</td><td>751.445.944.055</td></tr></table>
+
+Các thông tin liên quan tới báo cáo lưu chuyển tiền tệ hợp nhất được được trình bày tại Thuyết minh 32.
+
+Nguyễn Ngọc Bảo Châu
+Người lập
+
+Vũ Thị Huyền
+Kế toán trường
+
+Võ Hoàng Vũ
+Tổng Giám đốc
+
+Ngày 21 tháng 3 năm 2022
+
+Các thuyết minh từ trang 10 đến trang 44 là một phần cấu thành báo cáo tài chính hợp nhất này.
+
+9
+
+===== PAGE 13 =====
+CÔNG TY CỔ PHẦN THÉP NAM KIM
+
+Mẫu số B 09 – DN/HN
+
+THUYÊT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT
+CHO NĂM TÀI CHÍNH KẾT THỨC NGÀY 31 THÁNG 12 NĂM 2021
+
+1 ĐẶC ĐIỀM HOẠT ĐỘNG CỦA TẬP ĐOÀN
+
+Công ty Cổ phần Thép Nam Kim ("Công ty") là một công ty cổ phần được thành lập tại nước CHXHCN Việt Nam theo Giấy chứng nhận đăng ký doanh nghiệp công ty cổ phần số 3700477019 do Sở Kế hoạch và Đầu tư Tĩnh Bình Dương cấp lần đầu ngày 23 tháng 12 năm 2002 và Giấy chứng nhận đăng ký doanh nghiệp công ty cổ phần điều chỉnh gần nhất lần thứ 27 ngày 15 tháng 2 năm 2022
+
+Cổ phiếu của Công ty được niêm yết tại Sở giao dịch Chứng khoán Thành phố Hồ Chí Minh với mã giao dịch cổ phiếu là NKG vào ngày 14 tháng 1 năm 2011 theo Quyết định số 05/2011/QĐ-SGDHCM của Sở Giao dịch Chứng khoán Thành phố Hồ Chí Minh.
+
+Hoạt động chính của Tập đoàn là:
+
+- Sản xuất sản phẩm khác bằng kim loại chưa được phân vào đậu, chi tiết sản xuất các loại tôn thép: tôn mạ kẽm, tôn mạ hợp kim nhóm kẽm (tôn lạnh), tôn mạ hợp kim nhóm kẽm phủ son, tôn mạ kẽm phủ son;
+
+- Sản xuất sắt, thép, gang, chi tiết: sản xuất thép ống, thép hộp, thép hình và các sản phẩm từ thép cuộn, thép cán người, thép mạ kẽm, bằng thép đen, bằng thép mạ kẽm;
+
+• Bán buôn kim loại và quặng kim loại, chi tiết: bán buôn sắt, thép các loại;
+
+- Gia công cơ khí, xử lý và tráng phủ kim loại (không gia công tại địa điểm trụ sở chính); và
+
+- Mua bán phế liệu (không chứa, phân loại, xử lý, tái chế tại trụ sở chính).
+
+Chu kỳ sản xuất kinh doanh thông thường của Tập đoàn là 12 tháng.
+
+Tại ngày 31 tháng 12 năm 2021, Công ty có 3 công ty con và 1 đơn vị trực thuộc không có tư cách pháp nhân hạch toán phụ thuộc. Chi tiết như sau:
+
+<table><tr><td rowspan="2">Tên công ty/đơn vị trực thuộc</td><td rowspan="2">Địa chỉ đăng ký hoạt động</td><td rowspan="2">Ngành, nghề kinh doanh chính</td><td colspan="2">Tỷ lệ sở hữu và quyền biểu quyết</td></tr><tr><td>2021</td><td>2020</td></tr><tr><td colspan="5">Công ty con</td></tr><tr><td>Công ty TNHH Một Thành Viên Ông thép Nam Kim</td><td>Tỉnh Long An, Việt Nam</td><td>Sản xuất các loại tôn thép: tôn mạ màu, tôn mạ kẽm; kinh doanh sắt thép các loại.</td><td>100%</td><td>100%</td></tr><tr><td>Công ty TNHH MTV Ông thép Nam Kim Chu Lai</td><td>Tỉnh Quảng Nam, Việt Nam</td><td>Sản xuất các loại tôn thép: tôn mạ màu, tôn mạ kẽm; kinh doanh sắt thép các loại.</td><td>100%</td><td>100%</td></tr><tr><td>Công ty TNHH Dae Myung Paper Việt Nam (Thuyết minh 3)</td><td>Tỉnh Bình Dương, Việt Nam</td><td>Sản xuất giấy, bột giấy, bla giấy.</td><td>100%</td><td>0%</td></tr><tr><td colspan="5">Chi nhánh</td></tr><tr><td>Chi nhánh Công ty Cổ phần Thép Nam Kim (*)</td><td>Tỉnh Bình Dương, Việt Nam</td><td></td><td></td><td></td></tr></table>
+
+(*) Theo Nghị quyết của Hội đồng Quản trị số 11/2021/NQ-HĐQT ngày 14 tháng 12 năm 2021, Hội đồng Quản trị thông qua quyết định chấm dứt hoạt động Chi nhánh Công ty Cổ phần thép Nam Kim tại Bình Dương. Theo đó, Công ty đã đã hoàn thành nghĩa vụ nộp thuế để nộp hồ sơ chấm dứt hoạt động kể từ ngày 2 tháng 3 năm 2022.
+
+10
+
+===== PAGE 14 =====
+CÔNG TY CỔ PHẦN THÉP NAM KIM
+
+Mẫu số B 09 – DN/HN
+
+1 ĐẶC ĐIỀM HOẠT ĐỘNG CỦA TẬP ĐOÀN (tiếp theo)
+
+Tại ngày 31 tháng 12 năm 2021, Tập đoàn có 1.451 nhân viên (31 tháng 12 năm 2020: 1.485 nhân viên).
+
+2 CÁC CHÍNH SÁCH KÉ TOÁN CHỦ YẾU
+
+2.1 Cơ sở của việc lập báo cáo tài chính hợp nhất
+
+Báo cáo tài chính hợp nhất đã được lập theo các Chuẩn mực Kế toán Việt Nam, Chế độ Kế toán Doanh nghiệp Việt Nam và các quy định pháp lý có liên quan đến việc lập và trình bày báo cáo tài chính. Báo cáo tài chính hợp nhất được lập theo nguyên tắc giá gốc ngoại trừ các khoản đầu tư vào công ty liên doanh, liên kết và hợp nhất kinh doanh như được trình bày tại Thuyết minh 2.5.
+
+Báo cáo tài chính hợp nhất kèm theo không nhằm vào việc trình bày tỉnh hình tài chính, kết quả hoạt động kinh doanh và tình hình lưu chuyển tiền tệ theo các nguyên tắc và thực hành kế toán thường được chấp nhận ở các nước và các thể chế khác ngoài nước Việt Nam. Các nguyên tắc và thực hành kế toán sử dụng tại nước Việt Nam có thể khác với các nguyên tắc và thực hành kế toán tại các nước và các thể chế khác.
+
+2.2 Năm tài chính
+
+Năm tài chính của Tập đoàn bắt đầu từ ngày 1 tháng 1 đến ngày 31 tháng 12.
+
+2.3 Đơn vị tiền tệ sử dụng trong kế toán
+
+Tập đoàn sử dụng đơn vị trong kế toán và trình bày trên báo cáo tài chính hợp nhất là Đồng Việt Nam ("VND" hoặc "đồng"). Tập đoàn xác định đơn vị tiền tệ sử dụng trong kế toán dựa vào đơn vị tiền tệ chủ yếu sử dụng trong các giao dịch bán hàng, cung cấp dịch vụ, có ảnh hưởng lớn đến giá bán hàng hóa, cung cấp dịch vụ; đơn vị tiền tệ dùng để niêm yết giá bán và nhận thanh toán; đơn vị tiền tệ sử dụng chủ yếu trong việc mua hàng hóa, dịch vụ; có ảnh hưởng lớn đến chi phí nhân công, nguyên vật liệu và các chi phí sản xuất, kinh doanh khác, và thông thường dùng để thanh toán cho các chi phí đó.
+
+Ngoài ra, Công ty còn sử dụng đơn vị tiền tệ này để huy động các nguồn lực tài chính và thường xuyên thu được từ các hoạt động kinh doanh và tích trữ lại.
+
+2.4 Các loại tỷ giá hối đoái áp dụng trong kế toán
+
+Các nghiệp vụ phát sinh bằng ngoại tệ được quy đổi theo tỷ giá giao dịch thực tế áp dụng tại ngày phát sinh nghiệp vụ. Chênh lệch tỷ giá phát sinh từ các nghiệp vụ này được ghi nhận là thu nhập hoặc chi phí trong báo cáo kết quả hoạt động kinh doanh hợp nhất.
+
+Tài sản và nợ phải trả bằng tiền tệ có gốc ngoại tệ tại ngày của bằng cân đối kế toán hợp nhất lần lượt được quy đổi theo tỷ giá mua và tỷ giá bán ngoại tệ của ngân hàng thương mại nơi Tập đoàn thường xuyên có giao dịch áp dụng tại ngày bằng cân đối kế toán hợp nhất. Các khoản ngoại tệ gửi ngân hàng tại ngày của bằng cân đối kế toán hợp nhất được quy đổi theo tỷ giá mua của chính ngân hàng nơi Tập đoàn mở tài khoản ngoại tệ. Chênh lệch tỷ giá phát sinh từ việc quy đổi này được ghi nhận là thu nhập hoặc chỉ phí trong báo cáo kết quả hoạt động kinh doanh hợp nhất.
+
+11
+
+===== PAGE 15 =====
+CÔNG TY CỔ PHẦN THÉP NAM KIM
+
+Mẫu số B 09 – DN/HN
+
+2 CÁC CHÍNH SÁCH KẾ TOÁN CHỦ YẾU (tiếp theo)
+
+2.5 Cơ sở hợp nhất báo cáo tài chính
+
+Công ty con
+
+Công ty con là những doanh nghiệp mà Tập đoàn có quyền chi phối các chính sách tài chính và hoạt động của doanh nghiệp nhằm thu được lợi ích kinh tế từ các hoạt động của doanh nghiệp đó, thường đi kèm là việc nằm giữ hơn một nửa quyền biểu quyết. Sự tồn tại và tỉnh hữu hiệu của quyền biểu quyết tiềm tàng đang được thực thi hoặc được chuyển đổi sẽ được xem xét khi đánh giá liệu Tập đoàn có quyền kiểm soát doanh nghiệp hay không. Công ty con được hợp nhất toàn bộ kể từ ngày quyền kiểm soát đã chuyển giao cho Tập đoàn. Việc hợp nhất chấm dứt kể từ lúc quyền kiểm soát không còn.
+
+Giao dịch, công nợ và các khoản lãi, các khoản lỗ chưa thực hiện phát sinh giữa các công ty trong cùng Tập đoàn được loại trừ khi hợp nhất.
+
+Chính sách kế toán của công ty con cũng thay đổi nếu cần thiết để đảm bảo sự nhất quán với chính sách kế toán đang được Tập đoàn áp dụng.
+
+2.6 Tiền và các khoản tương đương tiền
+
+Tiền và các khoản tương đương tiền bao gồm tiền mặt tại quỹ, tiền gửi ngân hàng, tiền gửi không kỳ hạn và các khoản đầu tư ngắn hạn khác có thời hạn đáo hạn ban đầu không quá ba tháng.
+
+2.7 Các khoản phải thu
+
+Các khoản phải thu thể hiện giá trị ghi sổ cửa các khoản phải thu khách hàng gồm các khoản phải thu mang tính chất thương mại phát sinh từ giao dịch bán hàng hóa, cung cấp dịch vụ; và các khoản phải thu khác không có tính thương mại, không liên quan đến giao dịch bán hàng hóa và cung cấp dịch vụ. Dự phòng các khoản phải thu khó đòi được lập cho từng khoản phải thu căn cứ vào thời gian quá hạn trả nợ gốc theo cam kết nợ ban đầu (không tính đến việc gia hạn nợ giữa các bên), hoặc căn cứ vào mức tổn thất dự kiến có thể xảy ra. Các khoản nợ phải thu được xác định là không thể thu hồi sẽ được xóa sổ.
+
+Các khoản nợ phải thu được phân loại ngắn hạn và dài hạn trên bằng cân đối kế toán hợp nhất căn cứ theo kỳ hạn còn lại của các khoản phải thu tại ngày của bằng cân đối kế toán hợp nhất tới ngày đến hạn thu hồi.
+
+2.8 Hàng tồn kho
+
+Hàng tồn kho được thể hiện theo giá thấp hơn giữa giá gốc và giá trị thuần có thể thực hiện được. Giá gốc được xác định trên cơ sở bình quân gia quyền và bao gồm tất cả các chi phí mua, chi phí chế biến và các chi phí khác có được hàng tồn kho ở địa điểm và trạng thái hiện tại. Đối với các sản phẩm được sản xuất, giá gốc bao gồm tất cả các chi phí trực tiếp và chi phí sản xuất chung dựa trên mức độ hoạt động bình thường. Giá trị thuần có thể thực hiện được là giá bán ước tính của hàng tồn kho trong năm kinh doanh bình thường trừ chi phí ước tính để hoàn thành sản phẩm và chi phí ước tính cần thiết cho việc tiêu thụ.
+
+Tập đoàn áp dụng phương pháp kê khai thường xuyên để hạch toán hàng tồn kho.
+
+12
+
+===== PAGE 16 =====
+CÔNG TY CỔ PHẦN THÉP NAM KIM
+
+Mẫu số B 09 – DN/HN
+
+2 CÁC CHÍNH SÁCH KẾ TOÁN CHỦ YẾU (tiếp theo)
+
+2.8 Hàng tồn kho (tiếp theo)
+
+Dự phòng được lập cho hàng tồn kho bị lỗi thời, chậm lưu chuyển và bị hỏng. Chênh lệch giữa khoản dự phải lập ở cuối năm kế toán này và khoản dự phòng đã lập ở cuối năm kế toán trước được ghi nhận tăng hoặc giảm giá vốn hàn bán trong năm.
+
+2.9 Đầu tư tài chính
+
+(a) Chứng khoán kinh doanh
+
+Chứng khoán kinh doanh là chứng khoán do Tập đoàn nằm giữ cho mục đích kinh doanh và được nằm giữ chủ yếu cho mục đích mua bán để kiểm lời.
+
+Chứng khoán kinh doanh được ghi nhận ban đầu theo giá gốc bao gồm giá mua và các chi phí liên quan trực tiếp đến việc mua chứng khoán kinh doanh. Sau đó, Ban Tổng Giám đốc thực hiện việc rà soát đối với tất cả các khoản đầu tư để ghi nhận dự phòng vào cuối năm kế toán. Dự phòng giảm giá đầu tư chứng khoán kinh doanh được lập khi giá trị ghi số cao hơn giá trị thị trường của các khoản chứng khoán kinh doanh này. Chênh lệch giữa khoản dự phòng lập ở cuối năm kế toán này và khoản dự phòng đã lập ở cuối năm kế toán trước được ghi nhận tăng hoặc giảm chi phí tài chính trong năm. Khoản dự phòng được hoàn nhập không vượt quá giá trị ghi số ban đầu.
+
+Thời điểm ghi nhận chứng khoán kinh doanh là thời điểm Tập đoàn có quyền sở hữu, cụ thể như sau:
+
+- Chứng khoán niêm yết được ghi nhận tại thời điểm khớp lệnh; và
+
+- Chứng khoán chưa niêm yết được ghi nhận tại thời điểm chính thức có quyền sở hữu theo quy định của pháp luật.
+
+Lãi hoặc lỗ từ việc thanh lý, nhượng bán chứng khoán kinh doanh được hạch toán vào báo cáo kết quả hoạt động kinh doanh hợp nhất. Giá vốn được xác định theo phương pháp bình quân gia quyền di động.
+
+(b) Đầu tư nằm giữ đến ngày đáo hạn
+
+Các khoản đầu tư nắm giữ đến ngày đáo hạn là các khoản đầu tư Tập đoàn có ý định và có khả năng giữ đến ngày đáo hạn.
+
+Các khoản đầu tư nắm giữ đến ngày đáo hạn bao gồm các khoản tiền gửi ngân hàng có kỳ hạn và trái phiếu mà bên phát hành bắt buộc phải mua lại tại một thời điểm nhất định trong tương lai và các khoản đầu tư nắm giữ đến ngày đáo hạn khác. Các khoản đầu tư này ban đầu được ghi nhận theo giá gốc. Sau đó, Ban Tổng Giám đốc thực hiện việc rà soát đối với tất cả các khoản đầu tư để ghi nhận dự phòng vào cuối năm kế toán.
+
+Dự phòng giảm giá đầu tư nắm giữ đến ngày đáo hạn được lập khi có bằng chứng chắc chắn cho thấy một phần hoặc toàn bộ khoản đầu tư có thể không thu hồi được. Chênh lệch giữa khoản dự phòng lập ở cuối nằm kế toán này và khoản dự phòng đã lập ở cuối nằm kế toán trước được ghi nhận tăng hoặc giảm chi phí tài chính trong năm. Khoản dự phòng được hoàn nhập không vượt quá giá trị ghi số ban đầu. Các khoản đầu tư nắm giữ đến ngày đáo hạn được phân loại ngắn hạn và dài hạn trên bằng cân đối kế toán căn cứ theo kỳ hạn còn lại của các khoản đầu tư nắm giữ đến ngày đáo hạn tại ngày của bằng cân đối kế toán đến ngày đáo hạn.
+
+13
+
+===== PAGE 17 =====
+CÔNG TY CỔ PHẦN THÉP NAM KIM
+
+Mẫu số B 09 – DN/HN
+
+2 CÁC CHÍNH SÁCH KẾ TOÁN CHỦ YẾU (tiếp theo)
+
+2.10 Tài sản cố định ("TSCĐ")
+
+TSCĐ hữu hình và TSCĐ vô hình
+
+TSCĐ được phần ánh theo nguyên giá trừ khấu hao lũy kế. Nguyên giá bao gồm các chi phí liên quan trực tiếp đến việc có được TSCĐ ở trạng thái sẵn sàng sử dụng. Các chi phí phát sinh sau ghi nhận ban đầu chỉ được ghi tăng nguyên giá TSCĐ nếu các chi phí này chắc chắn làm tăng lợi ích kinh tế trong tương lai do sử dụng tài sản đó. Các chi phí phát sinh không thỏa mãn điều kiện trên được ghi nhận là chi phí sản xuất kinh doanh trong năm.
+
+Khâu hao
+
+TSCĐ được khấu hao theo phương pháp đường thẳng để giảm dần nguyên giá tài sản trong suốt thời gian hữu dụng ước tính. Thời gian hữu dụng ước tính của các loại tài sản như sau:
+
+<table><tr><td>Nhà cửa, vật kiến trúc</td><td>5 – 25 năm</td></tr><tr><td>Máy móc, thiết bị</td><td>2 – 25 năm</td></tr><tr><td>Phương tiện vận tải</td><td>6 – 25 năm</td></tr><tr><td>Thiết bị văn phòng</td><td>5 – 10 năm</td></tr><tr><td>Phần mềm vi tính</td><td>5 năm</td></tr><tr><td>TSCĐ khác</td><td>10 – 40 năm</td></tr></table>
+
+Quyền sử dụng đất có thời hạn được ghi nhận căn cứ trên Giấy chứng nhận quyền sử dụng đất, được khấu hao theo phương pháp đường thẳng từ 39 năm đến 45 năm.
+
+Thanh lý
+
+Lãi hoặc lỗ phát sinh do thanh lý nhượng bán TSCĐ được xác định bằng số chênh lệch giữa số tiền thu thuần do thanh lý với giá trị còn lại của TSCĐ và được ghi nhận là thu nhập hoặc chỉ phí trong báo cáo kết quả hoạt động kinh doanh hợp nhất.
+
+Chi phí xây dựng cơ bản đồ dang
+
+Chỉ phí xây dựng cơ bản dở dang thể hiện giá trị của các tài sản trong quá trình lắp đặt hoặc xây dựng phục vụ mục đích sản xuất, cho thuê hoặc quản trị, hoặc cho bất kì mục đích nào khác, được ghi nhận theo giá gốc. bao gồm toàn bộ chi phí cần thiết để xây dựng mới hoặc sửa chữa, cải tạo, mở rộng hay trang bị lại kỹ thuật công trình như chi phí xây dựng; chi phí thiết bị; chi phí quản lý dự án; chi phí tư vấn đầu tư xây dựng; và chi phí vay được vốn hóa đối với tài sản đủ điều kiện phù hợp với chính sách kế toán của Công ty. Khấu hao của những tài sản này, cũng giống như các loại TSCĐ khác, sẽ bất đầu được trích khi tài sản đã sản sàng cho mục đích sử dụng.
+
+14
+
+===== PAGE 18 =====
+CÔNG TY CỔ PHẦN THÉP NAM KIM
+
+Mẫu số B 09 – DN/HN
+
+2 CÁC CHÍNH SÁCH KẾ TOÁN CHỦ YẾU (tiếp theo)
+
+2.11 Thuê tài sản
+
+Việc thuê tài sản mà bên cho thuê chuyển giao quyền sở hữu vào cuối thời hạn thuê và chuyển giao phần lớn rủi ro và lợi ích gắn với quyền sở hữu tài sản cho bên thuê thì được hạch toán là thuê tài chính. Thuê tài chính được ghi nhận là tài sản tại thời điểm khởi đầu việc thuê tài sản với giá trị thấp hơn giữa giá trị hợp lý của tài sản cho thuê và giá trị hiện tại thuần của các khoản thanh toán tiền thuê tối thiểu.
+
+Khoản thanh toán tiền thuê tài chính được chia ra thành chi phí tài chính và khoản phải trả nợ gốc để duy trì một tỷ lệ lãi suất cố định trên số dư nợ thuê tài chính. Khoản phải trả nợ gốc không bao gồm chi phí tài chính, được hạch toán là nợ dài hạn.
+
+Chi phí tài chính được hạch toán vào báo cáo kết quả hoạt động kinh doanh hợp nhất trong suốt thời hạn của hợp đồng thuê. TSCĐ thuê tài chính được khấu hao theo phương pháp đường thẳng trong thời gian ngắn hơn giữa thời gian sử dụng ước tính của tài sản và thời gian thuê. Tuy nhiên nếu có sự chắc chắn hợp lý rằng bên thuê sẽ có quyền sở hữu ở cuối thời hạn thuê thì khấu hao sẽ được dựa trên thời gian sử dụng ước tính của tài sản.
+
+Thuê hoạt động là loại hình thuê TSCĐ mà phần lớn rủi ro và lợi ích gắn liền với quyền sở hữu của tài sản thuộc về bên cho thuê. Khoản thanh toán dưới hình thức thuê hoạt động được hạch toán vào báo cáo kết quả hoạt động kinh doanh hợp nhất theo phương pháp đường thẳng dựa trên thời hạn thuê hoạt động.
+
+2.12 Chi phí trả trước
+
+Chi phí trả trước bao gồm các chi phí trả trước ngắn hạn và chi phí trả trước dài hạn trên bằng cân đối kế toán hợp nhất. Các khoản chi phí trả trước được hạch toán theo giá gốc và phân bổ theo phương pháp đường thẳng dựa trên thời hạn hữu dụng ước tính. Tiền thuê đất trả trước cho các hợp đồng thuê đất và được phân bổ theo phương pháp đường thẳng
+
+Ngoài ra, tiền thuê đất trả trước cho các hợp đồng thuê đất có hiệu lực sau năm 2003 cũng được ghi nhận là chi phí trả trước theo quy định của Thông tư số 45/2013/TT-BTC do Bộ Tài chính ban hành vào ngày 25 tháng 4 năm 2013 và được phân bổ theo phương pháp đường thẳng trong 35 năm phù hợp với giấy chứng nhận quyền sử dụng đất.
+
+2.13 Nợ phải trả
+
+Các khoản nợ phải trả được phân loại dựa vào tính chất bao gồm:
+
+- Phải trả người bán gồm các khoản phải trả mang tính chất thương mại phát sinh từ giao dịch mua hàng hóa và dịch vụ; và
+
+- Phải trả khác gồm các khoản phải trả không có tính thương mại, không liên quan đến giao dịch mua hàng hóa và dịch vụ.
+
+Các khoản nợ phải trả được phân loại ngắn hạn và dài hạn trên bằng cân đối kế toán hợp nhất căn cứ theo kỳ hạn còn lại của các khoản phải trả tại ngày của bằng cân đối kế toán hợp nhất tới ngày đến hạn thanh toán.
+
+15
+
+===== PAGE 19 =====
+CÔNG TY CỔ PHẦN THÉP NAM KIM
+
+Mẫu số B 09 – DN/HN
+
+2 CÁC CHÍNH SÁCH KẾ TOÁN CHỦ YÊU (tiếp theo)
+
+2.14 Vay và nợ thuê tài chính
+
+Vay và nợ thuê tài chính bao gồm các khoản tiền vay và nợ thuê tài chính từ các ngân hàng và công ty tài chính.
+
+Các khoản vay và nợ thuê tài chính được phân loại ngắn hạn và dài hạn trên bằng cân đối kế toán hợp nhất căn cứ theo kỳ hạn còn lại của các khoản vay và nợ thuê tài chính tại ngày của bằng cân đối kế toán hợp nhất tới ngày đến hạn thanh toán.
+
+Chi phí đi vay liên quan trực tiếp đối với hoạt động xây dựng hoặc sản xuất bất kỳ tài sản dữ tiêu chuẩn sẽ được vốn hóa trong thời gian mà các tài sản này được hoàn thành và chuẩn bị đưa vào sử dụng. Đối với các khoản vay chung trong đó có sử dụng vốn cho mục đích đầu tư xây dựng hoặc sản xuất bất kỳ tài sản dữ tiêu chuẩn thì Tập đoàn xác định chi phí đi vay được vốn hóa theo tỷ lệ vốn hóa đối với chi phí lũy kế bình quân gia quyền phát sinh cho việc đầu tư xây dựng cơ bản hoặc sản xuất tài sản dữ tiêu chuẩn đó. Tỷ lệ vốn hóa được tính theo tỷ lệ lãi suất bình quân gia quyền của các khoản vay chưa trả trong năm, trừ các khoản vay riêng biệt phục vụ cho mục đích hình thành một tài sản cụ thể. Chi phí đi vay khác được ghi nhận trong báo cáo kết quả hoạt động kinh doanh hợp nhất khi phát sinh.
+
+2.15 Chi phí phải trả
+
+Chi phí phải trả bao gồm các khoản phải trả cho hàng hóa, dịch vụ đã nhận được từ người bán trong năm báo cáo nhưng thực tế chưa chi trả do chưa có hóa đơn hoặc chưa đủ hồ sơ, tài liệu kế toán, được ghi nhận vào chi phí sản xuất kinh doanh của nằm báo cáo.
+
+2.16 Các khoản dự phòng
+
+Các khoản dự phòng được ghi nhận khi Tập đoàn có nghĩa vụ nợ hiện tại, pháp lý hoặc liên đối, phát sinh từ các sự kiện đã xảy ra; việc thanh toán nghĩa vụ nợ có thể sẽ dẫn đến sự giảm sút về những lợi ích kinh tế và giá trị của nghĩa vụ nợ đó được ước tính một cách đáng tin cây. Dự phòng không được ghi nhận cho các khoản lỗ hoạt động trong tương lai.
+
+Dự phòng được tính trên cơ sở các khoản chi phí dự tính phải thanh toán nghĩa vụ nợ. Nếu ảnh hưởng về giá trị thời gian của tiền là trọng yếu thì dự phòng được tính trên cơ sở giá trị hiện tại với tỷ lệ chiết khấu trước thuế và phần ánh những đánh giá trên thị trường hiện tại về giá trị thời gian của tiền và rủi ro cụ thể của khoản nợ đó. Giá trị tăng lên do ảnh hưởng của yếu tố thời gian được ghi nhận là chi phí tài chính. Chênh lệch giữa khoản dự phòng phải trả phải lập ở cuối năm kế toán này và khoản dự phòng đã lập chưa sử dụng ở cuối năm kế toán trước được ghi nhận tăng hoặc giảm chi phí sản xuất kinh doanh trong năm.
+
+16
+
+===== PAGE 20 =====
+CÔNG TY CỔ PHẦN THÉP NAM KIM
+
+Mẫu số B 09 – DN/HN
+
+2 CÁC CHÍNH SÁCH KÊ TOÁN CHỦ YÉU (tiếp theo)
+
+2.17 Dự phòng trợ cấp thời việc
+
+Theo Luật Lao động Việt Nam, người lao động của Tập đoàn đã làm việc thường xuyên đủ 12 tháng trở lên được hưởng khoản trợ cấp thời việc. Thời gian làm việc để tính trợ cấp thời việc là tổng thời gian người lao động đã làm việc thực tế cho Tập đoàn trừ đi thời gian người lao động đã tham gia bảo hiểm thất nghiệp theo quy định của pháp luật và thời gian làm việc đã được Tập đoàn chi trả trợ cấp thời việc.
+
+Trợ cấp thời việc của người lao động được trích trước cuối mỗi năm báo cáo theo tỷ lệ bằng một nửa mức lương bình quân tháng cho mỗi năm làm việc. Mức lương bình quân tháng để tính trợ cấp thời việc dựa trên mức lương bình quân theo hợp đồng lao động của sáu tháng gần nhất tính đến trước ngày lập bảng cân đối kế toán hợp nhất này.
+
+Khoản trích trước này được sử dụng để trả một lần khi người lao động chấm dứt hợp đồng lao động theo quy định hiện hành.
+
+2.18 Vốn chủ sở hữu
+
+Vốn góp của chủ sở hữu được ghi nhận theo số thực tế góp của các cổ đông và được phần ánh theo mênh giá của cổ phiếu.
+
+Thặng dư vốn cổ phần là khoản chênh lệch giữa vốn góp theo mênh giá cổ phiếu với giá thực tế phát hành cổ phiếu; chênh lệch giữa giá mua lại cổ phiếu quỹ và giá tái phát hành cổ phiếu quỹ.
+
+Cổ phiếu quỹ mua trước ngày hiệu lực của Luật Chứng khoán (ngày 1/1/2021) là cổ phiếu do Công ty phát hành và được mua lại bởi chính Công ty, nhưng chưa bị huỷ bổ và sẽ được tái phát hành trở lại trong khoảng thời gian theo quy định của pháp luật về chứng khoán. Cổ phiếu quỹ mua sau ngày 1/1/2021 sẽ được hủy bổ và điều chỉnh giảm vốn chủ sở hữu.
+
+LNST chưa phân phối phần ánh kết quả kinh doanh sau thuế TNDN tại thời điểm báo cáo.
+
+17
+
+===== PAGE 21 =====
+CÔNG TY CỔ PHẦN THÉP NAM KIM
+
+Mẫu số B 09 – DN/HN
+
+2 CÁC CHÍNH SÁCH KÊ TOÁN CHÙ YẾU (tiếp theo)
+
+2.19 Phân chia lợi nhuận
+
+Cổ tức của Công ty được ghi nhận là một khoản phải trả trong các báo cáo tài chính hợp nhất của năm kế toán mà cổ tức được thông qua tại Đại hội đồng Cổ đông.
+
+LNST TNDN có thể được chia cho các cổ đông sau khi được Đại hội đồng Cổ đông phê duyệt và sau khi đã trích lập các quỹ theo điều lệ của Công ty và các quy định của pháp luật Việt Nam.
+
+Tập đoàn trích lập các quỹ sau:
+
+(a) Quỹ khen thưởng, phúc lợi
+
+Quỹ khen thưởng, phúc lợi được trích lập từ LNST TNDN của Tập đoàn và được các cổ đông phê duyệt tại Đại hội đồng cổ đông thường niên. Quỹ được trình bày là một khoản phải trả trên bằng cân đối kế toán hợp nhất. Quỹ này được trích lập để khen thưởng, khuyến khích vật chất, đem lại lợi ích chung và nâng cao phúc lợi cho nhân viên.
+
+(b) Quỹ đầu tư phát triển
+
+Quỹ đầu tư phát triển được trích lập từ LNST TNDN của Tập đoàn và được các cổ đông phê duyệt tại Đại hội đồng cổ đông thường niên. Quỹ được sử dụng để phục vụ việc mở rộng hoạt động hoặc đầu tư chiều sâu của Tập đoàn.
+
+(c) Quỹ khác
+
+Quý khác thuộc chủ sở hữu được trích lập từ LNST TNDN của Tập đoàn và được các cổ đông phê duyệt tại Đại hội đồng cổ đông thường niên. Quý này được sử dụng để bổ sung vốn điều lệ.
+
+2.20 Ghi nhận doanh thu
+
+(a) Doanh thu bán hàng
+
+Doanh thu bán hàng được ghi nhận trong báo cáo kết quả hoạt động kinh doanh hợp nhất khi đồng thời thỏa mãn tất cả năm (5) điều kiện sau:
+
+- Tập đoàn đã chuyển giao phần lớn rủi ro và lợi ích gắn liền với quyền sở hữu sản phẩm hoặc hàng hóa cho người mua;
+
+- Tập đoàn không còn nằm giữ quyền quản lý sản phẩm hoặc hàng hóa như người sở hữu sản phẩm hoặc hàng hóa hoặc quyền kiểm soát sản phẩm hoặc hàng hóa;
+
+• Doanh thu được xác định tương đối chắc chắn;
+
+• Tập đoàn sẽ thu được lợi ích kinh tế từ giao dịch bán hàng; và
+
+• Xác định được chi phí liên quan đến giao dịch bán hàng.
+
+18
+
+===== PAGE 22 =====
+CÔNG TY CỔ PHẦN THÉP NAM KIM
+
+Mẫu số B 09 – DN/HN
+
+2 CÁC CHÍNH SÁCH KẾ TOÁN CHỦ YẾU (tiếp theo)
+
+2.20 Ghi nhận doanh thu (tiếp theo)
+
+(a) Doanh thu bán hàng (tiếp theo)
+
+Doanh thu không được ghi nhận khi có yếu tố không chắc chắn mang tính trọng yếu về khả năng thu được tiền bán hàng hoặc khả năng hàng bán bị trả lại.
+
+Doanh thu được ghi nhận phù hợp với bản chất hơn hình thức và được phân bổ theo nghĩa vụ cung ứng hàng hóa. Trường hợp Tập đoàn dùng sản phẩm, hàng hóa để khuyến mãi cho khách hàng kèm theo điều kiện mua hàng của Tập đoàn thì Tập đoàn phân bổ số tiền thu được để tính doanh thu cho cả hàng khuyến mãi và giá trị hàng khuyến mãi được tính vào giá vốn hàng bán trong báo cáo kết quả hoạt động kinh doanh hợp nhất.
+
+(b) Doanh thu cung cấp dịch vụ
+
+Doanh thu cung cấp dịch vụ được ghi nhận trong báo cáo kết quả hoạt động kinh doanh hợp nhất khi dịch vụ đã được cung cấp, bằng cách tính mức độ hoàn thành của từng giao dịch, dựa trên cơ sở đánh giá tỉ lệ dịch vụ đã cung cấp so với tổng khối lượng dịch vụ phải cung cấp. Doanh thu cung cấp dịch vụ chỉ được ghi nhận khi đồng thời thỏa mãn bốn (4) điều kiện sau:
+
+- Doanh thu được xác định tương đối chắc chắn;
+
+• Có khả năng thu được lợi ích kinh tế từ giao dịch cung cấp dịch vụ đó;
+
+- Xác định được phần công việc đã hoàn thành tại ngày của bằng cân đối kế toán hợp nhất; và
+
+- Xác định được chi phí phát sinh cho giao dịch và chi phí để hoàn thành giao dịch cung cấp dịch vụ đó.
+
+(c) Thu nhập lãi
+
+Thu nhập lãi được ghi nhận khi được hưởng.
+
+(d) Thu nhập từ cổ tức
+
+Thu nhập từ cổ tức được ghi nhận khi Tập đoàn xác lập quyền nhận cổ tức từ các đơn vị đầu tư.
+
+2.21 Các khoản giảm trừ doanh thu
+
+Các khoản giảm trừ doanh thu bao gồm chiết khấu thương mại, hàng bán bị trả lại và giảm giá hàng bán. Các khoản giảm trừ doanh thu phát sinh cùng năm tiêu thụ sản phẩm, hàng hóa dịch vụ được ghi nhận điều chỉnh giảm doanh thu năm phát sinh.
+
+Các khoản giảm trừ doanh thu đối với sản phẩm, hàng hóa và dịch vụ tiêu thụ trong năm, phát sinh sau ngày của bằng cân đối kế toán hợp nhất nhưng trước thời điểm phát hành báo cáo tài chính hợp nhất được ghi nhận điều chỉnh giảm doanh thu của năm lập báo cáo.
+
+19
+
+===== PAGE 23 =====
+CÔNG TY CỔ PHẦN THÉP NAM KIM
+
+Mẫu số B 09 – DN/HN
+
+2 CÁC CHÍNH SÁCH KẾ TOÁN CHỦ YẾU (tiếp theo)
+
+2.22 Giá vốn hàng bán và dịch vụ cung cấp
+
+Giá vốn hàng bán và dịch vụ cung cấp là tổng chi phí phát sinh của thành phẩm, hàng hóa, vật tư xuất bán và dịch vụ cung cấp cho khách hàng trong năm, được ghi nhận theo nguyên tắc phù hợp với doanh thu và nguyên tắc thận trọng.
+
+2.23 Chi phí tài chính
+
+Chi phí tài chính phần ánh những khoản chi phí hoạt động tài chính phát sinh trong năm chủ yếu bao gồm chi phí lãi vay và lỗ chênh lệch tỷ giá hối đoái.
+
+2.24 Chi phí bán hàng
+
+Chi phí bán hàng phần ánh các chi phí thực tế phát sinh trong quá trình bán sản phẩm, hàng hoá và cung cấp dịch vụ.
+
+2.25 Chi phí quản lý doanh nghiệp
+
+Chi phí quản lý doanh nghiệp phần ánh các chi phí thực tế phát sinh trong quá trình quản lý chung của Tập đoàn.
+
+2.26 Thuế TNDN và thuế TNDN hoãn lại
+
+Thuế TNDN bao gồm toàn bộ số thuế TNDN tính trên thu nhập chịu thuế TNDN. Chi phí thuế TNDN bao gồm chi phí thuế TNDN hiện hành và chi phí thuế thu nhập hoãn lại.
+
+Thuế TNDN hiện hành là số thuế TNDN phải nộp hoặc thu hồi được tính trên thu nhập chịu thuế tại thuế suất thuế TNDN của năm hiện hành. Thuế thu nhập hiện hành và thuế thu nhập hoãn lại được ghi nhận là thu nhập hay chi phí khi xác định lợi nhuận hoặc lỗ của năm phát sinh, ngoại trừ trường hợp thuế thu nhập phát sinh từ một giao dịch hoặc sự kiện được ghi nhận trực tiếp vào vốn chủ sở hữu trong cùng năm hay một năm khác.
+
+Thuế thu nhập hoãn lại được tính đầy đủ, sử dụng phương thức công nợ, tính trên các khoản chênh lệch tạm thời giữa giá trị ghi số của các khoản mục tài sản và nợ phải trả trên báo cáo tài chính hợp nhất và cơ sở tính thuế thu nhập của các khoản mục này. Thuế thu nhập hoãn lại không được ghi nhận khi nợ thuế thu nhập hoãn lại phải trả phát sinh từ ghi nhận ban đầu của một tài sản hay nợ phải trả của một giao dịch mà giao dịch này không phải là giao dịch sáp nhập doanh nghiệp, không có ảnh hưởng đến lợi nhuận kế toán hoặc lợi nhuận tính thuế thu nhập tại thời điểm phát sinh giao dịch. Thuế TNDN hoãn lại được tính theo thuế suất dự tính được áp dụng trong niên độ mà tài sản được thu hồi hoặc khoản nợ phải trả được thanh toán dựa trên thuế suất đã ban hành hoặc xem như có hiệu lực tại ngày của bằng cân đối kế toán hợp nhất.
+
+Tài sản thuế thu nhập hoãn lại được ghi nhận khi có khả năng sẽ có lợi nhuận tính thuế TNDN trong tương lai để sử dụng những chênh lệch tạm thời được khấu trừ.
+
+20
+
+===== PAGE 24 =====
+CÔNG TY CỔ PHẦN THÉP NAM KIM
+
+Mẫu số B 09 – DN/HN
+
+2 CÁC CHÍNH SÁCH KẾ TOÁN CHỦ YẾU (tiếp theo)
+
+2.27 Các bên liên quan
+
+Các doanh nghiệp, các cá nhân, trực tiếp hay gián tiếp qua một hoặc nhiều trung gian, có quyền kiểm soát Tập đoàn hoặc chịu sự kiểm soát của Tập đoàn, hoặc cùng chung sự kiểm soát với Tập đoàn, bao gồm cả công ty mẹ, công ty con và công ty liên kết là các bên liên quan. Các bên liên kết, các cá nhân trực tiếp hoặc gián tiếp nằm quyền biểu quyết của Tập đoàn mà có ảnh hưởng đáng kể đối với Tập đoàn, những cá nhân quản lý chủ chốt bao gồm Bàn Tổng Giám đốc, những thành viên mật thiết trong gia đình của các cá nhân này hoặc các bên liên kết này hoặc những công ty liên kết với các cá nhân này cũng được coi là bên liên quan.
+
+Trong việc xem xét từng mối quan hệ của các bên liên quan, Tập đoàn căn cứ vào bản chất của mối quan hệ chú không chỉ hình thức pháp lý của các quan hệ đó.
+
+2.28 U'óc tính kế toán trọng yếu
+
+Việc lập báo cáo tài chính hợp nhất tuân thủ theo các Chuẩn mực Kế toán Việt Nam, Chế độ Kế toán Doanh nghiệp Việt Nam và các quy định hiện hành khác có liên quan đến lập và trình bày báo cáo tài chính hợp nhất yêu cầu Ban Tổng Giám đốc phải có những ước tính và giả định ảnh hưởng đến số liệu về công nợ, tài sản và việc trình bày các khoản công nợ và tài sản tiềm tàng tại ngày kết thúc niên độ kế toán cũng như các số liệu về doanh thu và chỉ phí trong suốt năm tài chính.
+
+Các ước tính và giả định có ảnh hưởng trọng yếu trong báo cáo tài chính hợp nhất bao gồm:
+
+• Thời gian hữu dụng ước tính của TSCĐ (Thuyết minh 2.10 và 11); và
+
+• Chi phí phải trả và các khoản dự phòng (Thuyết minh 2.8, 2.15, 2.16, 2.17, 8 và 15).
+
+Các ước tính và giả định thường xuyên được đánh giá dựa trên kinh nghiệm trong quá khứ và các yếu tố khác, bao gồm các giả định trong tương lai có ảnh hưởng trọng yếu tới báo cáo tài chính hợp nhất của Tập đoàn và được Ban Tổng Giám đốc đánh giá là hợp lý.
+
+2.29 Báo cáo bộ phận
+
+Một bộ phận là một hợp phần có thể xác định riêng biệt của Tập đoàn tham gia vào việc cung cấp các sản phẩm hoặc dịch vụ liên quan (bộ phận chia theo hoạt động kinh doanh), hoặc cung cấp sản phẩm hoặc dịch vụ trong một môi trường kinh tế cụ thể (bộ phận chia theo khu vực địa lý). Mỗi bộ phận này chịu rủi ro và thu được lợi ích khác biệt với các bộ phận khác. Báo cáo bộ phận cơ bản của Tập đoàn là dựa theo bộ phận chia theo khu vực địa lý.
+
+21
+
+===== PAGE 25 =====
+CÔNG TY CỔ PHẦN THÉP NAM KIM
+
+Mẫu số B 09 – DN/HN
+
+3 HỢP NHẤT KINH DOANH
+
+Vào ngày 31 tháng 5 năm 2021, Tập đoàn đã hoàn tất việc mua 100% lợi ích vốn chủ sở hữu của Công ty TNHH Dae Myung Paper Việt Nam với tổng giá phí là 138.420.000.000 đồng.
+
+Việc hợp nhất kinh doanh này ảnh hưởng đến tài sản thuần của Tập đoàn tại ngày mua như sau:
+
+<table><tr><td></td><td>Giá trị hợp lý ghi nhận tại ngày mua VND</td></tr><tr><td colspan="2">Tài sản</td></tr><tr><td>Chi phí trả trước dài hạn (Thuyết minh 10)</td><td>167.418.208.282</td></tr><tr><td>Thuế Giá trị Gia tăng được khấu trừ</td><td>620.372.352</td></tr><tr><td>Khác</td><td>292.901</td></tr><tr><td></td><td>168.038.873.535</td></tr><tr><td colspan="2">Nợ phải trả</td></tr><tr><td></td><td>29.617.704.052</td></tr><tr><td>Khác</td><td>1.169.483</td></tr><tr><td></td><td>29.618.873.535</td></tr><tr><td>Tài sản thuần</td><td>138.420.000.000</td></tr><tr><td>Lợi thế thương mại</td><td>-</td></tr><tr><td>Tiền thuần chi ra</td><td>138.420.000.000</td></tr></table>
+
+4 TIÊN VÀ CÁC KHOÀN TƯƠNG ĐƯƠNG TIÊN
+
+<table><tr><td></td><td>2021VND</td><td>2020VND</td></tr><tr><td>Tiền mặt</td><td>780.774.638</td><td>2.125.944.499</td></tr><tr><td>Tiền gửi ngân hàng</td><td>670.173.387.697</td><td>43.345.772.346</td></tr><tr><td>Các khoản tương đương tiền (*)</td><td>80.491.781.720</td><td>173.690.000.000</td></tr><tr><td></td><td>751.445.944.055</td><td>219.161.716.845</td></tr></table>
+
+(*) Các khoản tương đương tiền bao gồm tiền gửi ngân hàng có kỳ hạn đáo hạn ban đầu không quá 3 tháng và hưởng lãi suất từ 3%/năm đến 3,2%/năm (tại ngày 31 tháng 12 năm 2020: từ 3%/năm đến 3,3%/năm).
+
+22
+
+===== PAGE 26 =====
+CÔNG TY CỔ PHẦN THÉP NAM KIM
+
+Mẫu số B 09 – DN/HN
+
+5 ĐẦU TƯ TÀI CHÍNH
+
+(a) Chứng khoán kinh doanh
+
+<table><tr><td rowspan="2"></td><td colspan="2">2021</td><td colspan="2">2020</td></tr><tr><td>Giá gốc VND</td><td>Giá trị hợp lý VND</td><td>Giá gốc VND</td><td>Giá trị hợp lý VND</td></tr><tr><td>Cổ phiếu</td><td>9.353.176</td><td>34.651.400</td><td>9.353.176</td><td>44.738.600</td></tr></table>
+
+(b) Đầu tư nấm giữ đến ngày đáo hạn
+
+<table><tr><td rowspan="2" colspan="2"></td><td colspan="2">2021</td><td colspan="2">2020</td></tr><tr><td>Giá gốc VND</td><td>Giá trị ghi sở VND</td><td>Giá gốc VND</td><td>Giá trị ghi sở VND</td></tr><tr><td rowspan="2">(i)</td><td>Ngắn hạn</td><td></td><td></td><td></td><td></td></tr><tr><td>Tiền gửi có kỳ hạn (*)</td><td>447.704.193.436</td><td>447.704.193.436</td><td>369.517.049.419</td><td>369.517.049.419</td></tr><tr><td rowspan="4">(ii)</td><td>Dài hạn</td><td></td><td></td><td></td><td></td></tr><tr><td>Tiền gửi có kỳ hạn</td><td>-</td><td>-</td><td>15.000.000.000</td><td>15.000.000.000</td></tr><tr><td>Trái phiếu (**)</td><td>8.180.000.000</td><td>8.180.000.000</td><td>8.180.000.000</td><td>8.180.000.000</td></tr><tr><td></td><td>8.180.000.000</td><td>8.180.000.000</td><td>23.180.000.000</td><td>23.180.000.000</td></tr></table>
+
+(*) Số dư này thể hiện các khoản tiền gửi ngân hàng có kỳ hạn trên 3 tháng và không quá 12 tháng và hưởng lãi suất từ 3,5% đến 5,5%/năm (tại ngày 31 tháng 12 năm 2020: từ 3,7% đến 6,5%/năm).
+
+(**) Số dư này thể hiện trái phiếu được phát hành bởi các ngân hàng thương mại ở Việt Nam và hưởng lãi suất 7,30%/năm.
+
+6 PHÀI THU NGĂN HẠN CỦA KHÁCH HÀNG
+
+<table><tr><td></td><td>2021VND</td><td>2020VND</td></tr><tr><td>Bên thứ ba</td><td>1.493.179.266.213</td><td>1.218.090.460.560</td></tr></table>
+
+Tại ngày 31 tháng 12 năm 2021 và ngày 31 tháng 12 năm 2020, không có khách hàng nào có số dư chiếm hơn 10% trên tổng số dư các khoản phải thu ngắn hạn của khách hàng.
+
+Tại ngày 31 tháng 12 năm 2021 và ngày 31 tháng 12 năm 2020, số dư các khoản phải thu ngắn hạn của khách hàng đã quá hạn thanh toán lần lượt là 6.259.456.761 đồng và 2.758.351.426 đồng đã được lập dự phòng toàn bộ.
+
+23
+
+===== PAGE 27 =====
+CÔNG TY CỔ PHẦN THÉP NAM KIM
+
+Mẫu số B 09 – DN/HN
+
+7 TRÀ TRƯỚC CHO NGƯỜI BÁN NGẮN HẠN
+
+<table><tr><td></td><td>2021VND</td><td>2020VND</td></tr><tr><td>Công ty Cổ phần Đầu tư Xây dựngGiải trí Đại Dương</td><td>253.734.664.190</td><td>164.778.814.382</td></tr><tr><td>Khác</td><td>97.978.563.474</td><td>40.018.034.956</td></tr><tr><td></td><td>351.713.227.664</td><td>204.796.849.338</td></tr></table>
+
+8 PHÀI THU KHÁC
+
+(a) Ngắn hạn
+
+<table><tr><td></td><td>2021VND</td><td>2020VND</td></tr><tr><td>Lãi tiền gửi và trái phiếu</td><td>-</td><td>8.087.825.278</td></tr><tr><td>Tạm ứng</td><td>46.530.842.303</td><td>7.026.143.389</td></tr><tr><td>Ký quỹ, ký cược</td><td>14.423.987.280</td><td>-</td></tr><tr><td>Phải thu khác</td><td>2.113.640.780</td><td>2.297.539.174</td></tr><tr><td></td><td>63.068.470.363</td><td>17.411.507.841</td></tr></table>
+
+(b) Dài hạn
+
+<table><tr><td></td><td>2021VND</td><td>2020VND</td></tr><tr><td>Ký quỹ, ký cược</td><td>6.500.000</td><td>3.470.966.092</td></tr></table>
+
+Tại ngày 31 tháng 12 năm 2021 và 31 tháng 12 năm 2020, Tập đoàn không có khoản phải thu khác quá hạn hoặc chưa quá hạn nhưng khó có khả năng thu hồi.
+
+9 HÀNG TÔN KHO
+
+<table><tr><td rowspan="2"></td><td colspan="2">2021</td><td colspan="2">2020</td></tr><tr><td>Giá gốc VND</td><td>Dự phòng VND</td><td>Giá gốc VND</td><td>Dự phòng VND</td></tr><tr><td>Hàng mua đang đi trên đường</td><td>1.976.427.593.059</td><td>(167.553.679.899)</td><td>272.612.429.606</td><td>-</td></tr><tr><td>Nguyên vật liệu</td><td>2.286.841.441.738</td><td>(252.781.426.200)</td><td>254.149.822.410</td><td>-</td></tr><tr><td>Công cụ, dụng cụ</td><td>224.977.494.966</td><td>-</td><td>178.268.516.915</td><td>-</td></tr><tr><td>Thành phẩm</td><td>3.979.607.350.708</td><td>-</td><td>1.666.007.063.883</td><td>-</td></tr><tr><td>Hàng hóa</td><td>21.055.922</td><td>-</td><td>39.346.425</td><td>-</td></tr><tr><td>Hàng gửi đi bán</td><td>233.783.725.829</td><td>-</td><td>-</td><td>-</td></tr><tr><td></td><td>8.701.658.662.222</td><td>(420.335.106.099)</td><td>2.371.077.179.239</td><td>-</td></tr></table>
+
+24
+
+===== PAGE 28 =====
+CÔNG TY CỔ PHẦN THÉP NAM KIM
+
+Mẫu số B 09 – DN/HN
+
+10 CHI PHÍ TRÀ TRƯỚC
+
+(a) Ngắn hạn
+
+<table><tr><td></td><td>2021VND</td><td>2020VND</td></tr><tr><td>Công cụ, dụng cụ</td><td>13.452.941.905</td><td>7.719.873.340</td></tr><tr><td>Khác</td><td>70.447.667</td><td>1.493.540.169</td></tr><tr><td></td><td>13.523.389.572</td><td>9.213.413.509</td></tr><tr><td colspan="3">Biến động chi phí trả trước ngắn hạn trong năm như sau:</td></tr><tr><td></td><td>2021VND</td><td>2020VND</td></tr><tr><td>Số dư đầu năm</td><td>9.213.413.509</td><td>26.321.912.877</td></tr><tr><td>Tăng</td><td>23.171.922.493</td><td>28.746.100.179</td></tr><tr><td>Phân bổ</td><td>(18.861.946.430)</td><td>(45.854.599.547)</td></tr><tr><td>Số dư cuối năm</td><td>13.523.389.572</td><td>9.213.413.509</td></tr></table>
+
+(b) Dài hạn
+
+<table><tr><td></td><td>2021VND</td><td>2020VND</td></tr><tr><td>Quyền sử dụng đất</td><td>164.605.799.026</td><td>-</td></tr><tr><td>Công cụ, dụng cụ</td><td>31.236.728.007</td><td>43.793.331.212</td></tr><tr><td>Chi phí quảng cáo</td><td>6.264.643.215</td><td>3.390.891.475</td></tr><tr><td>Chi phí sửa chữa, đại tu nhà xưởng</td><td>6.688.975.375</td><td>11.484.896.003</td></tr><tr><td>Khác</td><td>-</td><td>400.383.631</td></tr><tr><td></td><td>208.796.145.623</td><td>59.069.502.321</td></tr></table>
+
+Biến động chi phí trả trước dài hạn trong năm như sau:
+
+<table><tr><td></td><td>2021VND</td><td>2020VND</td></tr><tr><td>Số dư đầu năm</td><td>59.069.502.321</td><td>70.478.409.601</td></tr><tr><td>Tăng</td><td>26.435.328.585</td><td>27.196.120.202</td></tr><tr><td>Tăng do mua công ty con (Thuyết minh 3)</td><td>167.418.208.282</td><td>-</td></tr><tr><td>Phân bổ</td><td>(44.126.893.565)</td><td>(38.605.027.482)</td></tr><tr><td>Số dư cuối năm</td><td>208.796.145.623</td><td>59.069.502.321</td></tr></table>
+
+25
+
+===== PAGE 29 =====
+CÔNG TY CỔ PHẦN THÉP NAM KIM
+
+<table><tr><td></td><td>Nhà cửa,vật kiến trúcVND</td><td>Máy móc,thiết bịVND</td><td>Phương tiệnvận tảiVND</td><td>Thiết bịvăn phòngVND</td><td>TSCĐ khácVND</td><td>Tổng cộngVND</td></tr><tr><td colspan="7">Nguyên giá</td></tr><tr><td>Tại ngày 1 tháng 1 năm 2021</td><td>707.966.849.535</td><td>3.660.181.925.087</td><td>253.118.422.469</td><td>15.599.588.756</td><td>725.753.480</td><td>4.637.592.539.327</td></tr><tr><td>Mua trong năm</td><td>-</td><td>17.793.422.969</td><td>1.275.000.000</td><td>-</td><td>-</td><td>19.068.422.969</td></tr><tr><td>Chuyển từ chi phí xây dựng cơbản dở dang (Thuyết minh 12)</td><td>-</td><td>2.880.717.506</td><td>880.000.000</td><td>173.180.000</td><td>-</td><td>3.933.897.506</td></tr><tr><td>Chuyển từ tài sản cố định thuếtài chính (Thuyết minh 11(b))</td><td>-</td><td>169.433.832.365</td><td>-</td><td>-</td><td>-</td><td>169.433.832.365</td></tr><tr><td>Tại ngày 31 tháng 12 năm 2021</td><td>707.966.849.535</td><td>3.850.289.897.927</td><td>255.273.422.469</td><td>15.772.768.756</td><td>725.753.480</td><td>4.830.028.692.167</td></tr><tr><td colspan="7">Giá trị khấu hao lũy kế</td></tr><tr><td>Tại ngày 1 tháng 1 năm 2021</td><td>253.064.909.040</td><td>1.557.540.145.253</td><td>92.851.218.360</td><td>6.824.209.143</td><td>402.803.346</td><td>1.910.683.285.142</td></tr><tr><td>Khấu hao trong năm</td><td>46.823.813.479</td><td>298.035.993.141</td><td>18.444.892.094</td><td>1.727.440.325</td><td>50.242.963</td><td>365.082.382.002</td></tr><tr><td>Chuyển từ tài sản cố định thuếtài chính (Thuyết minh 11(b))</td><td>-</td><td>24.446.588.977</td><td>-</td><td>-</td><td>-</td><td>24.446.588.977</td></tr><tr><td>Tại ngày 31 tháng 12 năm 2021</td><td>299.888.722.519</td><td>1.880.022.727.371</td><td>111.296.110.454</td><td>8.551.649.468</td><td>453.046.309</td><td>2.300.212.256.121</td></tr><tr><td colspan="7">Giá trị còn lại</td></tr><tr><td>Tại ngày 1 tháng 1 năm 2021</td><td>454.901.940.495</td><td>2.102.641.779.834</td><td>160.267.204.109</td><td>8.775.379.613</td><td>322.950.134</td><td>2.726.909.254.185</td></tr><tr><td>Tại ngày 31 tháng 12 năm 2021</td><td>408.078.127.016</td><td>1.970.267.170.556</td><td>143.977.312.015</td><td>7.221.119.288</td><td>272.707.171</td><td>2.529.816.436.046</td></tr></table>
+
+11 TSCD
+
+(a) TSCĐ hữu hình
+
+26
+
+===== PAGE 30 =====
+CÔNG TY CỔ PHẦN THÉP NAM KIM
+
+Mẫu số B 09 – DN/HN
+
+11 TSCĐ (tiếp theo)
+
+(a) TSCĐ hữu hình (tiếp theo)
+
+Tại ngày 31 tháng 12 năm 2021, TSCĐ hữu hình của Tập đoàn với tổng giá trị còn lại là 2.530 tỷ đồng (tại ngày 31 tháng 12 năm 2020: 2.727 tỷ đồng) đã được dùng để làm tài sản thể chấp cho các khoản vay từ các ngân hàng (Thuyết minh 17).
+
+Nguyên giá TSCĐ hữu hình của Tập đoàn đã khấu hao hết nhưng còn sử dụng tại ngày 31 tháng 12 năm 2021 là 16,69 tỷ đồng (tại ngày 31 tháng 12 năm 2020: 11,6 tỷ đồng).
+
+(b) TSCĐ thuê tài chính
+
+<table><tr><td></td><td>Máy móc thiết bị VND</td></tr><tr><td colspan="2">Nguyên giá</td></tr><tr><td>Tại ngày 1 tháng 1 năm 2021</td><td>169.433.832.365</td></tr><tr><td>Chuyển sang TSCĐ hữu hình (Thuyết minh 11(a))</td><td>(169.433.832.365)</td></tr><tr><td>Tại ngày 31 tháng 12 năm 2021</td><td>-</td></tr><tr><td colspan="2">Giá trị khấu hao lũy kế</td></tr><tr><td>Tại ngày 1 tháng 1 năm 2021</td><td>18.797.735.339</td></tr><tr><td>Khấu hao trong năm</td><td>5.648.853.638</td></tr><tr><td>Chuyển sang TSCĐ hữu hình (Thuyết minh 11(a))</td><td>(24.446.588.977)</td></tr><tr><td>Tại ngày 31 tháng 12 năm 2021</td><td>-</td></tr><tr><td colspan="2">Giá trị còn lại</td></tr><tr><td>Tại ngày 1 tháng 1 năm 2021</td><td>150.636.097.026</td></tr><tr><td>Tại ngày 31 tháng 12 năm 2021</td><td>-</td></tr></table>
+
+27
+
+===== PAGE 31 =====
+CÔNG TY CỔ PHẦN THÉP NAM KIM
+
+Mẫu số B 09 – DN/HN
+
+11 TSCĐ (tiếp theo)
+
+(c) TSCĐ vô hình
+
+<table><tr><td></td><td>Quyền sử dụng đất VND</td><td>Phần mềm vi tính VND</td><td>Tổng cộng VND</td></tr><tr><td colspan="4">Nguyên giá</td></tr><tr><td>Tại ngày 1 tháng 1 năm 2021và 31 tháng 12 năm 2021</td><td>269.452.694.657</td><td>9.977.018.000</td><td>279.429.712.657</td></tr><tr><td colspan="4">Giá trị khấu hao lũy kế</td></tr><tr><td>Tại ngày 1 tháng 1 năm 2021Khấu hao trong năm</td><td>29.440.198.0096.596.008.083</td><td>1.002.274.2531.506.727.587</td><td>30.442.472.2628.102.735.670</td></tr><tr><td>Tại ngày 31 tháng 12 năm 2021</td><td>36.036.206.092</td><td>2.509.001.840</td><td>38.545.207.932</td></tr><tr><td colspan="4">Giá trị còn lại</td></tr><tr><td>Tại ngày 1 tháng 1 năm 2021</td><td>240.012.496.648</td><td>8.974.743.747</td><td>248.987.240.395</td></tr><tr><td>Tại ngày 31 tháng 12 năm 2021</td><td>233.416.488.565</td><td>7.468.016.160</td><td>240.884.504.725</td></tr></table>
+
+Tại ngày 31 tháng 12 năm 2021 và ngày 31 tháng 12 năm 2020, Quyền sử dụng đất của Tập đoàn đã được dùng để làm tài sản thế chấp cho các khoản vay từ các ngân hàng (Thuyết minh 17).
+
+Nguyên giá TSCĐ vô hình của Tập đoàn đã khấu hao hết nhưng còn sử dụng tại ngày 31 tháng 12 năm 2021 và ngày 31 tháng 12 năm 2020 là 135.600.000 đồng.
+
+12 CHI PHÍ XÂY DỰNG CƠ BẢN DỒ DANG
+
+<table><tr><td></td><td>2021VND</td><td>2020VND</td></tr><tr><td>Dự án nhà máy thép</td><td>96.639.683.148</td><td>45.276.310.909</td></tr><tr><td>Dự án mở rộng nhà máy thép Nam Kim Long An</td><td>69.539.299.866</td><td>-</td></tr><tr><td>Mua sắm</td><td>9.827.920.060</td><td>13.299.417.352</td></tr><tr><td></td><td>176.006.903.074</td><td>58.575.728.261</td></tr></table>
+
+28
+
+===== PAGE 32 =====
+CÔNG TY CỔ PHẦN THÉP NAM KIM
+
+Mẫu số B 09 – DN/HN
+
+12 CHI PHÍ XÂY DỰNG CO' BẢN DỒ' DANG (tiếp theo)
+
+Biến động chi phí xây dựng cơ bản đồ dang trong năm như sau:
+
+<table><tr><td></td><td>2021VND</td><td>2020VND</td></tr><tr><td>Số dư đầu năm</td><td>58.575.728.261</td><td>49.070.606.991</td></tr><tr><td>Mua sắm, xây dựng cơ bản</td><td>125.997.658.319</td><td>52.580.424.528</td></tr><tr><td>Chuyển sang TSCĐ hữu hình(Thuyết minh 11(a))</td><td>(3.933.897.506)</td><td>(20.947.343.881)</td></tr><tr><td>Chuyển sang TSCĐ vô hình(Thuyết minh 11(c))</td><td>-</td><td>(9.770.176.000)</td></tr><tr><td>Khác</td><td>(4.632.586.000)</td><td>(12.357.783.377)</td></tr><tr><td>Số dư cuối năm</td><td>176.006.903.074</td><td>58.575.728.261</td></tr></table>
+
+13 PHÀI TRÀ NGƯỜI BÁN NGẮN HẠN
+
+<table><tr><td rowspan="2"></td><td colspan="2">2021</td><td colspan="2">2020</td></tr><tr><td>Giá trị VND</td><td>Số có khả năng trả nợ VND</td><td>Giá trị VND</td><td>Số có khả năng trả nợ VND</td></tr><tr><td rowspan="4">Công ty TNHH Gang ThépHưng Nghiệp Formosa Hà TĩnhWin Faith Trading LimitedKhác</td><td>2.233.121.269.885</td><td>2.233.121.269.885</td><td>220.915.339.715</td><td>220.915.339.715</td></tr><tr><td>602.258.359.888</td><td>602.258.359.888</td><td>159.461.824.896</td><td>159.461.824.896</td></tr><tr><td>2.043.692.132.013</td><td>2.043.692.132.013</td><td>690.066.345.145</td><td>690.066.345.145</td></tr><tr><td>4.879.071.761.786</td><td>4.879.071.761.786</td><td>1.070.443.509.756</td><td>1.070.443.509.756</td></tr></table>
+
+Tại ngày 31 tháng 12 năm 2021 và 31 tháng 12 năm 2020, Công ty không có khoản phải trả người bán nào bị quá hạn thanh toán.
+
+29
+
+===== PAGE 33 =====
+CÔNG TY CỔ PHẦN THÉP NAM KIM
+
+Mẫu số B 09 – DN/HN
+
+14 NGU'ÔI MUA TRÀ TIÊN TRƯỚC NGẮN HẠN
+
+<table><tr><td rowspan="2" colspan="2"></td><td rowspan="2">2021VND</td><td rowspan="2">2020VND</td></tr><tr></tr><tr><td colspan="2">Australian Steel</td><td>64.017.284.250</td><td>-</td></tr><tr><td colspan="2">Asbestos Y Aceros</td><td>57.938.827.173</td><td>9.478.265.250</td></tr><tr><td colspan="2">Khác</td><td>460.705.703.847</td><td>336.740.654.901</td></tr><tr><td colspan="2"></td><td>582.661.815.270</td><td>346.218.920.151</td></tr><tr><td>15</td><td colspan="3">CHI PHÍ PHÀI TRÀ NGÂN HẠN</td></tr><tr><td colspan="2"></td><td>2021VND</td><td>2020VND</td></tr><tr><td colspan="2">Chi phí vận chuyển</td><td>35.921.902.820</td><td>9.329.977.497</td></tr><tr><td colspan="2">Chi phí lãi vay</td><td>13.446.082.244</td><td>654.221.488</td></tr><tr><td colspan="2">Chi phí quảng cáo</td><td>5.451.885.000</td><td>1.744.875.000</td></tr><tr><td colspan="2">Chi phí điện sản xuất</td><td>11.603.816.100</td><td>13.548.831.400</td></tr><tr><td colspan="2">Khác</td><td>1.366.229.501</td><td>2.534.241.330</td></tr><tr><td colspan="2"></td><td>67.789.915.665</td><td>27.812.146.715</td></tr></table>
+
+30
+
+===== PAGE 34 =====
+CÔNG TY CỔ PHẦN THÉP NAM KIM
+
+Mẫu số B 09 – DN/HN
+
+16 THUẾ VÀ CÁC KHOÀN PHÀI THU/PHÀI NỘP NHÀ NƯỚC
+
+Biến động về thuế và các khoản phải thu/phải nộp Nhà nước trong năm như sau:
+
+<table><tr><td rowspan="2"></td><td colspan="2">Tại ngày 1.1.2021</td><td rowspan="2">Số phải nộp/cấntrừ trong nămVND</td><td rowspan="2">Số đã thựcnộp/phải thutrong nămVND</td><td rowspan="2">KhácVND</td><td colspan="2">Tại ngày 31.12.2021</td></tr><tr><td>Phải thuVND</td><td>Phải nộpVND</td><td>Phải thuVND</td><td>Phải nộpVND</td></tr><tr><td rowspan="2">Thuế GTGT được khấu trừThuế GTGT hàng bántrong nước</td><td>85.745.358.467</td><td>-</td><td>3.309.623.686.713</td><td>4.043.149.020.328</td><td>620.372.352</td><td>819.891.064.434</td><td>-</td></tr><tr><td>-</td><td>-</td><td>1.101.409.860.791</td><td>1.101.409.860.791</td><td>-</td><td>-</td><td>-</td></tr><tr><td rowspan="6">Thuế GTGT hàng nhập khẩuThuế xuất, nhập khẩuThuế TNDNThuế thu nhập cá nhânCác loại thuế khác</td><td>-</td><td>31.432.237.406</td><td>934.734.158.979</td><td>897.663.068.675</td><td>-</td><td>-</td><td>68.503.327.710</td></tr><tr><td>-</td><td>43.882.158</td><td>4.433.532.318</td><td>3.423.651.543</td><td>-</td><td>-</td><td>1.053.762.933</td></tr><tr><td>-</td><td>16.929.682.093</td><td>356.682.935.566</td><td>255.631.985.625</td><td>-</td><td>-</td><td>117.980.632.034</td></tr><tr><td>-</td><td>2.650.722.194</td><td>10.111.366.126</td><td>10.720.965.780</td><td>-</td><td>-</td><td>2.041.122.540</td></tr><tr><td>-</td><td>-</td><td>872.673.802</td><td>638.773.882</td><td>-</td><td>-</td><td>233.899.920</td></tr><tr><td>85.745.358.467</td><td>51.056.523.851</td><td>5.717.868.214.295</td><td>6.312.637.326.624</td><td>620.372.352</td><td>819.891.064.434</td><td>189.812.745.137</td></tr><tr><td colspan="8">17 VAY VÀ NỘ THUÊ TÀI CHÍNH</td></tr><tr><td colspan="8">(a) Ngắn hạn</td></tr><tr><td></td><td>Tại ngày1.1.2021VND</td><td>TăngVND</td><td>GiảmVND</td><td>Nợ dài hạnđền hạn trảVND</td><td>Đánh giá lạicuối nămVND</td><td colspan="2">Tại ngày31.12.2021VND</td></tr><tr><td rowspan="2">Vay ngân hàng (*)No thuê tài chính</td><td>2.498.488.124.26021.559.995.996</td><td>21.070.601.295.868</td><td>(20.103.644.056.844)(32.339.993.994)</td><td>306.212.137.59610.779.997.998</td><td>1.497.232.237-</td><td colspan="2">3.773.154.733.117-</td></tr><tr><td>2.520.048.120.256</td><td>21.070.601.295.868</td><td>(20.135.984.050.838)</td><td>316.992.135.594</td><td>1.497.232.237</td><td colspan="2">3.773.154.733.117</td></tr></table>
+
+31
+
+===== PAGE 35 =====
+CÔNG TY CỔ PHẦN THÉP NAM KIM
+
+Mẫu số B 09 – DN/HN
+
+17 VAY VÀ NỘ THUÊ TÀI CHÍNH (tiếp theo)
+
+(a) Ngắn hạn (tiếp theo)
+
+(*) Chi tiết các khoản vay ngắn hạn ngân hàng tại ngày 31 tháng 12 năm 2021 như sau:
+
+<table><tr><td>Ngân hàng</td><td>Giá trị (VND)</td><td>Tiền tệ gốc</td><td>Đáo hạn</td><td>Hình thức đảm bảo</td></tr><tr><td rowspan="2">Ngân hàng Thương mại Cổ phần Đầu tư và Phát triển Việt Nam</td><td>120.518.743.173</td><td>USD</td><td>Từ tháng 3 đến tháng 6 năm 2022</td><td rowspan="2">Nhà cửa, vật kiến trúc; máy móc, thiết bị; phương tiện vận tải; dụng cụ quản lý; và cổ phiếu</td></tr><tr><td>2.090.592.903.697</td><td>VND</td><td>Từ tháng 3 đến tháng 6 năm 2022</td></tr><tr><td>Nợ dài hạn đến hạn trả cho Ngân hàng Thương mại Cổ phần Đầu tư và Phát triển Việt Nam</td><td>77.500.000.000</td><td>VND</td><td>Tháng 11 năm 2022</td><td></td></tr><tr><td rowspan="2">Ngân hàng Thương mại Cổ phần Công thương Việt Nam</td><td>220.472.908.197</td><td>USD</td><td>Từ tháng 4 đến tháng 6 năm 2022</td><td rowspan="2">Phương tiện vận tải, truyền dẫn - quản lý; máy móc thiết bị - sân xuất; hợp đồng tiền gửi; trái phiếu; và hàng tồn kho luân chuyển</td></tr><tr><td>158.282.551.172</td><td>VND</td><td>Tháng 6 năm 2022</td></tr><tr><td rowspan="2">Ngân hàng Thương mại Cổ phần Ngoại thương Việt Nam</td><td>175.613.525.192</td><td>USD</td><td>Tháng 3 năm 2022</td><td rowspan="2">Máy móc thiết bị; hợp đồng tiền gửi; và hàng tồn kho luân chuyển</td></tr><tr><td>136.580.929.284</td><td>VND</td><td>Từ tháng 3 đến tháng 4 năm 2022</td></tr><tr><td>Ngân hàng Thương mại Cổ phần Xăng dầu Petrolimex</td><td>-</td><td>USD</td><td>Tháng 2 năm 2022</td><td>Hàng tồn kho luân chuyển</td></tr><tr><td>Ngân hàng Thương mại Cổ phần Xăng dầu Petrolimex</td><td>189.217.425.812</td><td>VND</td><td>Tháng 2 năm 2022</td><td>Hàng tồn kho luân chuyển</td></tr><tr><td>Ngân hàng SinoPac - Chi nhánh thành phố Hồ Chí Minh</td><td>113.506.464.085</td><td>VND</td><td>Từ tháng 1 đến tháng 3 năm 2022</td><td>Tín chấp</td></tr><tr><td>Ngân hàng Thương mại Cổ phần Hàng Hải Việt Nam</td><td>100.000.000.000</td><td>VND</td><td>Tháng 5 năm 2022</td><td>Tín chấp và hợp đồng tiền gửi</td></tr><tr><td>Ngân hàng Thương mại Cổ phần Nam Á</td><td>68.880.000.000</td><td>USD</td><td>Tháng 4 2022</td><td>Hàng tồn kho luân chuyển</td></tr><tr><td>Ngân hàng Thương mại Cổ phần Quốc tế Việt Nam</td><td>190.081.150.545</td><td>VND</td><td>Từ tháng 2 2022 đến tháng 5 2022</td><td>Hàng tồn kho; và hợp đồng tiền gửi</td></tr><tr><td>Ngân hàng TNHH CTBC – Chi nhánh TP Hồ Chí Minh</td><td>131.908.131.960</td><td>VND</td><td>Tháng 2 năm 2022</td><td>Tín chấp</td></tr><tr><td></td><td>3.773.154.733.117</td><td></td><td></td><td></td></tr></table>
+
+Lãi suất cho các khoản nợ dài hạn đến hạn trả VND từ 8,6%/năm đến 8,8%/năm. Lãi suất cho các khoản vay ngắn hạn VND và USD lần lượt từ 4,5%/năm đến 4,8%/năm và từ 2%/năm đến 3,5%/năm.
+
+32
+
+===== PAGE 36 =====
+CÔNG TY CỔ PHẦN THÉP NAM KIM
+
+<table><tr><td colspan="6">17 VAY VÀ NỘ THUÊ TÀI CHÍNH (tiếp theo)</td></tr><tr><td colspan="6">(b) Dài hạn</td></tr><tr><td></td><td>Tại ngày1.1.2021VND</td><td>GiảmVND</td><td>Nợ dài hạnđến hạn trảVND</td><td>Tại ngày31.12.2021VND</td><td></td></tr><tr><td>Vay ngân hàng (*)</td><td>457.251.689.997</td><td>(104.540.200.803)</td><td>(306.212.137.596)</td><td>46.499.351.598</td><td></td></tr><tr><td>Nợ thuê tài chính</td><td>25.153.328.651</td><td>(14.373.330.653)</td><td>(10.779.997.998)</td><td>-</td><td></td></tr><tr><td></td><td>482.405.018.648</td><td>(118.913.531.456)</td><td>(316.992.135.594)</td><td>46.499.351.598</td><td></td></tr><tr><td colspan="6">(*) Chi tiết các khoản vay dài hạn ngân hàng tại ngày 31 tháng 12 năm 2021 như sau:</td></tr><tr><td>Ngân hàng</td><td>Giá trị (VND)</td><td>Tiền tệ gốc</td><td>Đáo hạn</td><td>Hình thức đảm bào</td><td></td></tr><tr><td>Ngân hàng Thương mại Cổ phầnĐầu tư và Phát triển Việt Nam</td><td>46.499.351.598</td><td>VND</td><td>Tháng 3 năm 2023</td><td>Nhà cửa, vật kiến trúc; máymóc thiết bị; phương tiện vậntải; và dụng cụ quản lý</td><td></td></tr><tr><td colspan="6">Lãi suất cho các khoản vay dài hạn từ 8,6%/năm đến 8,8%/năm</td></tr></table>
+
+33
+
+===== PAGE 37 =====
+CÔNG TY CỔ PHẦN THÉP NAM KIM
+
+Mẫu số B 09 – DN/HN
+
+18 QUỸ KHEN THƯỜNG, PHÚC LỢI
+
+Biến động quỹ khen thưởng, phúc lợi trong năm như sau:
+
+<table><tr><td></td><td>2021VND</td><td>2020VND</td></tr><tr><td>Số dư đầu năm</td><td>40.994.937.345</td><td>49.484.915.911</td></tr><tr><td>Trích quỹ (Thuyết minh 20)</td><td>8.858.085.980</td><td>1.420.011.434</td></tr><tr><td>Chi quỹ</td><td>(1.113.600.000)</td><td>(9.909.990.000)</td></tr><tr><td>Số dư cuối năm</td><td>48.739.423.325</td><td>40.994.937.345</td></tr></table>
+
+19 VỐN GÓP CỦA CHỦ SỞ HỮU
+
+(a) Số lượng cổ phiếu phổ thông
+
+<table><tr><td></td><td>2021</td><td>2020</td></tr><tr><td>Số lượng cổ phiếu đăng ký</td><td>218.398.568</td><td>181.999.868</td></tr><tr><td>Số lượng cổ phiếu đã phát hành</td><td>218.398.568</td><td>181.999.868</td></tr><tr><td>Số lượng cổ phiếu đã mua lại</td><td>-</td><td>(10.000.000)</td></tr><tr><td>Số lượng cổ phiếu đang lưu hành</td><td>218.398.568</td><td>171.999.868</td></tr></table>
+
+(b) Chi tiết vốn góp của chủ sở hữu
+
+<table><tr><td rowspan="2"></td><td colspan="2">2021</td><td colspan="2">2020</td></tr><tr><td>Cổ phiếu phổ thông</td><td>%</td><td>Cổ phiếu phổ thông</td><td>%</td></tr><tr><td>Ông Hồ Minh Quang</td><td>28.159.249</td><td>12,89</td><td>23.466.044</td><td>12,89</td></tr><tr><td>Unicoh Specialty Chemical Co., Ltd</td><td>11.040.000</td><td>5,05</td><td>12.600.000</td><td>6,92</td></tr><tr><td>Công ty Cổ phần Đầu tư</td><td></td><td></td><td></td><td></td></tr><tr><td>Thương Maji SMC</td><td>10.920.000</td><td>5,00</td><td>9.100.000</td><td>5,00</td></tr><tr><td>Ông Vỗ Hoàng Vũ</td><td>7.812.000</td><td>3,58</td><td>19.010.000</td><td>10,45</td></tr><tr><td>Bà Nguyễn Thị Nhân</td><td>6.270.300</td><td>2,87</td><td>7.368.585</td><td>4,05</td></tr><tr><td>Bà Phạm Thị Thu Yến</td><td>6.207.300</td><td>2,84</td><td>-</td><td>-</td></tr><tr><td>Ông Trương Quốc Huy</td><td>3.610.600</td><td>1,65</td><td>7.264.165</td><td>3,99</td></tr><tr><td>Các cổ đông khác</td><td>144.379.119</td><td>66,12</td><td>93.191.074</td><td>51,21</td></tr><tr><td>Cổ phiếu quỹ</td><td>-</td><td>-</td><td>10.000.000</td><td>5,49</td></tr><tr><td>Số lượng cổ phiếu đã phát hành</td><td>218.398.568</td><td>100,00</td><td>181.999.868</td><td>100,00</td></tr></table>
+
+34
+
+===== PAGE 38 =====
+CÔNG TY CỔ PHẦN THÉP NAM KIM
+
+Mẫu số B 09 – DN/HN
+
+19 VỐN GÓP CỦA CHỦ SỞ HỮU (tiếp theo)
+
+(c) Tình hình biến động của vốn cổ phần
+
+<table><tr><td rowspan="2"></td><td colspan="2">Cổ phiếu phổ thông</td></tr><tr><td>Số cổ phiếu</td><td>VND</td></tr><tr><td>Tại ngày 1 tháng 1 năm 2020</td><td>181.999.868</td><td>1.819.998.680.000</td></tr><tr><td>Tại ngày 31 tháng 12 năm 2020</td><td>181.999.868</td><td>1.819.998.680.000</td></tr><tr><td>Cổ phiếu mới phát hành</td><td>36.398.700</td><td>363.987.000.000</td></tr><tr><td>Tại ngày 31 tháng 12 năm 2021</td><td>218.398.568</td><td>2.183.985.680.000</td></tr></table>
+
+Mệnh giá cổ phiếu: 10.000 đồng trên một cổ phiếu.
+
+35
+
+===== PAGE 39 =====
+CÔNG TY CỔ PHẦN THÉP NAM KIM
+
+20 TÌNH HÌNH TĂNG GIÀM VỐN CHỦ SỞ HỮU
+
+Mẫu số B 09 – DN/HN
+
+<table><tr><td></td><td>Vốn góp của chủ sở hữu VND</td><td>Thặng dư vốn cổ phần VND</td><td>Quỹ đầu tư phát triển VND</td><td>Quỹ khác thuộc vốn chủ sở hữu VND</td><td>Cổ phiếu quỹ VND</td><td>LNST chưa phân phối lũy kế VND</td><td>Tổng cộng VND</td></tr><tr><td>Tại ngày 1 tháng 1 năm 2020</td><td>1.819.998.680.000</td><td>766.255.590.000</td><td>38.504.256.821</td><td>35.734.612.915</td><td>-</td><td>356.321.039.782</td><td>3.016.814.179.518</td></tr><tr><td>Lợi nhuận nhuận trong năm</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>295.269.532.668</td><td>295.269.532.668</td></tr><tr><td>Mua lại cổ phiếu đã phát hành</td><td>-</td><td>-</td><td>-</td><td>-</td><td>(78.043.577.721)</td><td>-</td><td>(78.043.577.721)</td></tr><tr><td>Cổ tức</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>(51.599.960.400)</td><td>(51.599.960.400)</td></tr><tr><td>Trích quỹ khen thưởng, phúc lợi</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>(1.420.011.434)</td><td>(1.420.011.434)</td></tr><tr><td>Trích quỹ đầu tư phát triển</td><td>-</td><td>-</td><td>21.300.171.509</td><td>-</td><td>-</td><td>(21.300.171.509)</td><td>-</td></tr><tr><td>Trích quỹ khác thuộc vốn chủ sở hữu</td><td>-</td><td>-</td><td>-</td><td>946.674.289</td><td>-</td><td>(946.674.289)</td><td>-</td></tr><tr><td>Tại ngày 31 tháng 12 năm 2020</td><td>1.819.998.680.000</td><td>766.255.590.000</td><td>59.804.428.330</td><td>36.681.287.204</td><td>(78.043.577.721)</td><td>576.323.754.818</td><td>3.181.020.162.631</td></tr><tr><td>Lợi nhuận nhuận trong kỳ</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>2.225.261.058.221</td><td>2.225.261.058.221</td></tr><tr><td>Tái phát hành cổ phiếu quỹ (*)</td><td>-</td><td>256.245.222.279</td><td>-</td><td>-</td><td>78.043.577.721</td><td>-</td><td>334.288.800.000</td></tr><tr><td>Chia cổ tức bằng cổ phiếu (**)</td><td>363.987.000.000</td><td>(236.593.540.000)</td><td>-</td><td>-</td><td>-</td><td>(127.393.460.000)</td><td>-</td></tr><tr><td>Trích quỹ khen thưởng, phúc lợi (Thuyết minh 18) (**)</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>(8.858.085.980)</td><td>(8.858.085.980)</td></tr><tr><td>Trích quỹ đầu tư phát triển (**)</td><td>-</td><td>-</td><td>14.763.476.633</td><td>-</td><td>-</td><td>(14.763.476.633)</td><td>-</td></tr><tr><td>Trích quỹ khác thuộc vốn chủ sở hữu (**)</td><td>-</td><td>-</td><td>-</td><td>5.905.390.653</td><td>-</td><td>(5.905.390.653)</td><td>-</td></tr><tr><td>Giảm khác</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>(8.508.240.327)</td><td>(8.508.240.327)</td></tr><tr><td>Tại ngày 31 tháng 12 năm 2021</td><td>2.183.985.680.000</td><td>785.907.272.279</td><td>74.567.904.963</td><td>42.586.677.857</td><td>-</td><td>2.636.156.159.446</td><td>5.723.203.694.545</td></tr></table>
+
+(*) Theo Nghị quyết Hội đồng Quản trị số 04/2021/NQ-HĐQT ngày 14 tháng 5 năm 2021, Hội đồng Quản trị đã thông qua phương án tái phát hành cổ phiếu quỹ với số lượng 10.000.000 cổ phần. Theo đó, Công ty đã tái phát hành toàn bộ 10.000.000 cổ phiếu quỹ cho năm tài chính kết thúc ngày 31 tháng 12 năm 2021.
+
+(**) Theo Nghị quyết Đại hội đồng Cổ đông thường niên số 001/2021/NQ-ĐHĐCĐ ngày 24 tháng 4 năm 2021, Tập đoàn đã trích lập quỹ dự trữ, quỹ khen thường, phúc lợi và quỹ đầu tư phát triển thuộc vốn chủ sở hữu lần lượt theo tỷ lệ 2%, 5% và 3% từ LNST chưa phân phối năm 2020. Đồng thời, Đại Hội đồng Cổ đông đã thông qua quyết định chi trả cổ tức đợt cuối năm 2020 bằng cổ phiếu với tỷ lệ 7% từ LNST chưa phân phối và thường cổ phiếu với tỷ lệ 13% từ thăng dư vốn cổ phần.
+
+36
+
+===== PAGE 40 =====
+[ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ]
+
+CÔNG TY CỔ PHẦN THÉP NAM KIM
+
+Mẫu số B 09 – DN/HN
+
+21 LÃI TRÊN CỔ PHIÉU
+
+(a) Lãi cơ bản trên cổ phiếu
+
+Lãi cơ bản trên cổ phiếu được tính bằng hiệu của số lợi nhuận thuần phân bổ cho các cổ đồng và số trích quỹ khen thưởng, phúc lợi chia cho số lượng bình quân gia quyền của số cổ phiếu phổ thông đang lưu hành trong năm, điều chỉnh cho cổ phiếu thưởng phát hành trong năm trừ đi cổ phiếu quỹ. Chi tiết như sau:
+
+<table><tr><td rowspan="2"></td><td colspan="2">Năm tài chính kết thúc ngày 31 tháng 12 năm</td></tr><tr><td>2021</td><td>2020(**)</td></tr><tr><td>Lợi nhuận thuần phân bổ cho các cổ đông (VND)</td><td>2.225.261.058.221</td><td>295.269.532.668</td></tr><tr><td>Điều chỉnh giảm số trích quỹ khen thưởng, phúc lợi (VND) (*)</td><td>-</td><td>(8.858.085.980)</td></tr><tr><td></td><td>2.225.261.058.221</td><td>286.411.446.688</td></tr><tr><td>Bình quân số cổ phiếu phổ thông đang lưu hành (cổ phiếu)</td><td>213.568.012</td><td>212.929.949</td></tr><tr><td>Lãi cơ bản trên mỗi cổ phiếu (VND)</td><td>10.419</td><td>1.345</td></tr></table>
+
+(*) Công ty và các công ty con không có kế hoạch trích quỹ khen thưởng, phúc lợi cho năm tài chính kết thúc ngày 31 tháng 12 năm 2021 đến ngày của báo cáo tài chính hợp nhất này.
+
+(**) Lãi cơ bản trên cổ phiếu của năm 2020 đã được tính lại dựa trên số trích quỹ khen thưởng phúc lợi đã được phê duyệt theo Nghị quyết Đại hội đồng Cổ đông thường niên số 001/2021/NQ-ĐHĐCD ngày 24 tháng 4 năm 2021.
+
+<table><tr><td rowspan="2"></td><td colspan="3">2020</td></tr><tr><td>Số liệu báo cáotrước đây</td><td>Điều chỉnh</td><td>Số liệutrình bày lại</td></tr><tr><td>Lợi nhuận thuần phân bổ chocác cổ đông (VND)</td><td>295.269.532.668</td><td>-</td><td>295.269.532.668</td></tr><tr><td>Điều chỉnh giảm số trích quỹ khenthường, phúc lợi (VND)</td><td>-</td><td>(8.858.085.980)</td><td>(8.858.085.980)</td></tr><tr><td></td><td>295.269.532.668</td><td>(8.858.085.980)</td><td>286.411.446.688</td></tr><tr><td>Bình quân gia quyền số cổ phiếu phổthống đang lưu hành (cổ phiếu)</td><td>176.593.576</td><td>36.336.373</td><td>212.929.949</td></tr><tr><td>Lãi cơ bản trên mỗi cổ phiếu (VND)</td><td>1.672</td><td></td><td>1.345</td></tr></table>
+
+37
+
+===== PAGE 41 =====
+CÔNG TY CỔ PHẦN THÉP NAM KIM
+
+Mẫu số B 09 – DN/HN
+
+21 LÃI TRÊN CÔ PHIÉU
+
+(b) Lãi suy giảm trên cổ phiếu
+
+Công ty không có cổ phiếu phổ thông tiềm tàng có tác động suy giảm trong năm và đến ngày lập báo cáo tài chính hợp nhất này. Do đó, lãi suy giảm trên cổ phiếu bằng với lãi cơ bản trên cổ phiếu.
+
+22 CÁC KHOÀN MỤC NGOÀI BÀNG CÂN ĐỐI KẾ TOÁN HỢP NHẤT
+
+(a) Tài sản thuê hoạt động
+
+Tổng số tiền thuê tối thiểu trong tương lai theo hợp đồng thuê hoạt động tài sản không hủy ngang được trình bày tại Thuyết minh 34.
+
+(b) Ngoại tệ các loại
+
+Tại ngày 31 tháng 12 năm 2021, khoản mục tiền và các khoản tương đương tiền đã bao gồm số ngoại tệ 25.729.723,13 Đô la Mỹ (tại ngày 31 tháng 12 năm 2020: 716.608,05 Đô la Mỹ).
+
+23 DOANH THU THUÀN BÁN HÀNG VÀ CUNG CẤP ĐỊCH VỤ
+
+<table><tr><td></td><td>2021VND</td><td>2020VND</td></tr><tr><td colspan="3">Doanh thu</td></tr><tr><td>Doanh thu bán thành phẩm</td><td>27.684.016.072.738</td><td>11.598.722.551.476</td></tr><tr><td>Doanh thu cung cấp dịch vụ</td><td>522.133.783.013</td><td>15.268.541.331</td></tr><tr><td></td><td>28.206.149.855.751</td><td>11.613.991.092.807</td></tr><tr><td colspan="3">Các khoản giảm trừ</td></tr><tr><td>Chiết khấu thương mại</td><td>(23.263.689.075)</td><td>(28.333.656.064)</td></tr><tr><td>Giảm giá hàng bán</td><td>(997.097.194)</td><td>(4.683.908.665)</td></tr><tr><td>Hàng bán bị trả lại</td><td>(8.486.833.256)</td><td>(21.299.007.918)</td></tr><tr><td></td><td>(32.747.619.525)</td><td>(54.316.572.647)</td></tr><tr><td colspan="3">Doanh thu thuần về bán hàng và cung cấp dịch vụ</td></tr><tr><td>Doanh thu thuần về bán thành phẩm</td><td>27.651.268.453.213</td><td>11.544.405.978.829</td></tr><tr><td>Doanh thu thuần về cung cấp dịch vụ</td><td>522.133.783.013</td><td>15.268.541.331</td></tr><tr><td></td><td>28.173.402.236.226</td><td>11.559.674.520.160</td></tr></table>
+
+38
+
+===== PAGE 42 =====
+CÔNG TY CỔ PHẦN THÉP NAM KIM
+
+Mẫu số B 09 – DN/HN
+
+24 GIÁ VÓN HÀNG BÁN VÀ DỊCH VỤ CUNG CẤP
+
+<table><tr><td></td><td>2021VND</td><td>2020VND</td></tr><tr><td>Giá vốn của thành phẩm đã bán</td><td>23.481.651.863.301</td><td>10.681.607.682.473</td></tr><tr><td>Giá vốn của dịch vụ đã cung cấp</td><td>1.558.342.578</td><td>8.857.009.058</td></tr><tr><td>Dự phòng hàng tồn kho</td><td>420.335.106.099</td><td>-</td></tr><tr><td></td><td>23.903.545.311.978</td><td>10.690.464.691.531</td></tr></table>
+
+25 DOANH THU HOẠT ĐỘNG TÀI CHÍNH
+
+<table><tr><td></td><td>2021VND</td><td>2020VND</td></tr><tr><td>Lãi tiền gửi và trái phiếu</td><td>15.154.020.441</td><td>27.090.757.323</td></tr><tr><td>Lãi chênh lệch tỷ giá hối đoái đã thực hiện</td><td>183.991.980.618</td><td>59.600.960.577</td></tr><tr><td>Doanh thu hoạt động tài chính khác</td><td>72.434.807</td><td>2.396.445.460</td></tr><tr><td></td><td>199.218.435.866</td><td>89.088.163.360</td></tr></table>
+
+26 CHI PHÍ TÀI CHÍNH
+
+<table><tr><td></td><td>2021VND</td><td>2020VND</td></tr><tr><td>Chi phí lãi vay</td><td>243.685.237.356</td><td>222.154.457.661</td></tr><tr><td>Lỗ chêch lệch tỷ giá đã thực hiện</td><td>133.371.508.917</td><td>57.345.696.286</td></tr><tr><td>Lỗ thuần do đánh giá lại các khoản có gốc ngoại tệ cuối năm</td><td>20.359.041.207</td><td>1.368.014.070</td></tr><tr><td>Khác</td><td>50.433.310</td><td>390.047.045</td></tr><tr><td></td><td>397.466.220.790</td><td>281.258.215.062</td></tr></table>
+
+27 CHI PHÍ BÁN HÀNG
+
+<table><tr><td></td><td>2021VND</td><td>2020VND</td></tr><tr><td>Chi phí vận chuyển</td><td>1.326.107.827.787</td><td>222.857.994.097</td></tr><tr><td>Chi phí nhân viên</td><td>32.841.841.374</td><td>19.086.067.118</td></tr><tr><td>Chi phí dịch vụ mua ngoài</td><td>32.489.244.051</td><td>3.596.286.510</td></tr><tr><td>Chi phí khấu hao TSCĐ</td><td>3.757.519.600</td><td>18.790.663.306</td></tr><tr><td>Khác</td><td>2.754.799.203</td><td>3.617.745.388</td></tr><tr><td></td><td>1.397.951.232.015</td><td>267.948.756.419</td></tr></table>
+
+39
+
+===== PAGE 43 =====
+CÔNG TY CỔ PHẦN THÉP NAM KIM
+
+Mẫu số B 09 – DN/HN
+
+28 CHI PHÍ QUẢN LÝ DOANH NGHIỆP
+
+<table><tr><td></td><td>2021VND</td><td>2020VND</td></tr><tr><td>Chi phí nhân viên</td><td>52.152.530.643</td><td>42.121.352.623</td></tr><tr><td>Chi phí khấu hao TSCĐ</td><td>13.360.102.257</td><td>9.568.055.286</td></tr><tr><td>Chi phí dịch vụ mua ngoài</td><td>45.531.321.535</td><td>36.608.640.826</td></tr><tr><td>Dự phòng phải thu khó đòi</td><td>4.570.838.108</td><td>-</td></tr><tr><td>Khác</td><td>7.105.996.310</td><td>3.610.522.113</td></tr><tr><td></td><td>122.720.788.853</td><td>91.908.570.848</td></tr></table>
+
+29 THUÉ TNDN
+
+Theo Thông tư số 96/2015/TT-BTC ngày 22 tháng 6 năm 2015 của Bộ Tài chính, Tập đoàn được hưởng ưu đãi thuế cho phần đầu tư mở rộng như sau:
+
+(a) Đối với dự án nhà máy thép Nam Kim 3:
+
+Tập đoàn được miễn thuế TNDN 2 năm kể từ khi có thu nhập chịu thuế (2017 – 2018) và giảm 50% số thuế TNDN phải nộp trong 4 năm tiếp theo (2019 – 2022) đối với thu nhập thực hiện từ dự án.
+
+(b) Đối với Công ty TNHH Một Thành viên Ông thép Nam Kim ("Công ty Ông thép"):
+
+Tập đoàn được miễn thuế TNDN 2 năm kể từ khi có thu nhập chịu thuế (2017 – 2018) và giảm 50% số thuế TNDN phải nộp trong 4 năm tiếp theo (2019 – 2022) đối với thu nhập thực hiện từ công ty này.
+
+Các hoạt động khác áp dụng mức thuế suất thuế TNDN phổ thông là 20%.
+
+40
+
+===== PAGE 44 =====
+CÔNG TY CỔ PHẦN THÉP NAM KIM
+
+Mẫu số B 09 – DN/HN
+
+29 THUẾ TNDN (tiếp theo)
+
+Số thuế TNDN trên lợi nhuận trước thuế của Tập đoàn khác với số thuế khi được tính theo thuế suất phổ thông áp dụng 20% như sau:
+
+<table><tr><td></td><td>2021VND</td><td>2020VND</td></tr><tr><td>Lợi nhuận kế toán trước thuế</td><td>2.562.028.980.555</td><td>320.812.116.164</td></tr><tr><td>Thuế tính ở thuế suất 20%Điều chỉnh:</td><td>512.405.796.111</td><td>64.162.423.233</td></tr><tr><td>Chi phí không được khấu trừ</td><td>230.561.013</td><td>154.029.782</td></tr><tr><td rowspan="2">Lỗ từ dự án nhà máy thép đã được sử dụngU&#x27;u đãi thuế</td><td>-</td><td>(24.305.193.370)</td></tr><tr><td>(175.938.110.454)</td><td>(14.479.354.463)</td></tr><tr><td>Lỗ từ dự án nhà máy thép và công tycon mà không ghi nhận tài sản thuếthu nhập hoãn lại</td><td>69.675.664</td><td>10.678.314</td></tr><tr><td>Chi phí thuế TNDN</td><td>336.767.922.334</td><td>25.542.583.496</td></tr><tr><td>Chi phí/ (thu nhập) thuế TNDN ghi nhậntrong báo cáo kết quả hoạt động kinhdoanh hợp nhất:</td><td></td><td></td></tr><tr><td>Thuế TNDN - hiện hành (*)</td><td>356.682.935.566</td><td>25.557.009.597</td></tr><tr><td>Thuế TNDN - hoãn lại</td><td>(19.915.013.232)</td><td>(14.426.101)</td></tr><tr><td></td><td>336.767.922.334</td><td>25.542.583.496</td></tr></table>
+
+(*) Chi phí thuế TNDN hiện hành cho năm tài chính được ước tính dựa vào thu nhập chịu thuế và có thể có những điều chỉnh tùy thuộc vào sự kiểm tra của cơ quan thuế.
+
+30 CHI PHÍ SÀN XUẤT KINH DOANH THEO YẾU TỐ
+
+Chi phí sản xuất kinh doanh theo yếu tố thể hiện các chi phí phát sinh trong năm từ hoạt động kinh doanh của Tập đoàn, không bao gồm giá mua hàng hóa phát sinh trong hoạt động thương mại. Chi tiết được trình bày như sau:
+
+<table><tr><td></td><td>2021VND</td><td>2020VND</td></tr><tr><td>Chi phí nguyên liệu, vật liệu</td><td>25.241.307.769.575</td><td>11.015.687.792.814</td></tr><tr><td>Chi phí khấu hao TSCĐ</td><td>378.833.971.310</td><td>376.255.520.548</td></tr><tr><td>Chi phí nhân viên</td><td>331.821.183.553</td><td>266.561.269.659</td></tr><tr><td>Chi phí dịch vụ mua ngoài</td><td>1.975.796.574.959</td><td>685.298.379.960</td></tr><tr><td>Khác</td><td>43.841.846.103</td><td>5.019.034.577</td></tr><tr><td></td><td>27.971.601.345.500</td><td>12.348.821.997.558</td></tr></table>
+
+41
+
+===== PAGE 45 =====
+CÔNG TY CỔ PHẦN THÉP NAM KIM
+
+Mẫu số B 09 – DN/HN
+
+31 BÁO CÁO BỘ PHẬN
+
+Báo cáo bộ phận theo khu vực địa lý:
+
+Hoạt động của Tập đoàn được phân bổ chủ yếu ở trong nước và xuất khẩu. Tập đoàn không thực hiện theo dõi các thông tin về kết quả kinh doanh, TSCĐ, các tài sản dài hạn khác và giá trị các khoản chi phí lớn không bằng tiền của bộ phận theo khu vực địa lý dựa trên vị trí của khách hàng.
+
+<table><tr><td></td><td>2021VND</td><td>2020VND</td></tr><tr><td>Xuất khẩu</td><td>19.200.454.891.908</td><td>4.739.549.068.859</td></tr><tr><td>Trong nước</td><td>8.972.947.344.318</td><td>6.820.125.451.301</td></tr><tr><td>Doanh thu thuần về bán hàng và cung cấp dịch vụ</td><td>28.173.402.236.226</td><td>11.559.674.520.160</td></tr></table>
+
+Báo cáo bộ phận theo lĩnh vực kinh doanh:
+
+Hoạt động sản xuất và kinh doanh các loại tôn thép, tôn mạ kẽm, tôn mạ hợp kim nhóm kẽm là hoạt động chủ yếu tạo ra doanh thu và lợi nhuận cho Tập đoàn, trong khi các khoản doanh thu khác chiếm tỷ trọng nhỏ trong tổng doanh thu của Tập đoàn, do vậy Ban Tổng Giám đốc cho rằng Tập đoàn hoạt động trong một bộ phận kinh doanh duy nhất.
+
+32 THUYẾT MINH CHO CÁC KHOÀN MỤC TRÊN BÁO CÁO LƯU CHUYỀN TIỀN TỆ
+
+(a) Số tiền đi vay thực thu trong kỳ
+
+<table><tr><td></td><td>2021VND</td><td>2020VND</td></tr><tr><td>Vay theo khế ước thông thường</td><td>21.070.601.295.868</td><td>11.098.457.061.598</td></tr></table>
+
+(b) Số tiền đã thực trả nợ gốc vay trong kỳ
+
+<table><tr><td></td><td>2021VND</td><td>2020VND</td></tr><tr><td>Tiền trả nợ gốc vay theo khế ước thông thường</td><td>20.208.184.257.647</td><td>11.165.449.521.984</td></tr></table>
+
+42
+
+===== PAGE 46 =====
+CÔNG TY CỔ PHẦN THÉP NAM KIM
+
+Mẫu số B 09 – DN/HN
+
+33 THUYẾT MINH VỀ CÁC BÊN LIÊN QUAN
+
+(a) Giao dịch với các bên liên quan
+
+Trong năm, các giao dịch trọng yếu sau đây được thực hiện với các bên liên quan:
+
+<table><tr><td rowspan="2"></td><td>2021</td><td>2020</td></tr><tr><td>VND</td><td>VND</td></tr></table>
+
+i) Hoạt động khác
+
+<table><tr><td>Thu tiền từ Ông Hồ Minh Quang</td><td>6.000.000.000</td><td>-</td></tr></table>
+
+(ii) Các khoản chỉ cho các nhân sự quản lý chủ chốt
+
+<table><tr><td>Lương và các quyền lợi gộp khác</td><td>15.671.378.368</td><td>8.912.101.235</td></tr></table>
+
+Trong đó
+
+Thù lao cho Hội đồng
+Quản trị:
+
+<table><tr><td>Ông Hồ Minh Quang</td><td>Chủ tịch</td><td>300.000.000</td><td>120.000.000</td></tr><tr><td>Ông Võ Hoàng Vũ</td><td>Thành viên</td><td>200.000.000</td><td>30.495.000</td></tr><tr><td>Ông Nguyễn Vinh An</td><td>Thành viên</td><td>140.000.000</td><td>60.000.000</td></tr><tr><td>Bà Nguyễn Ngọc Ý Nhi</td><td>Thành viên</td><td>140.000.000</td><td>30.495.000</td></tr><tr><td>Ông Võ Thời</td><td>Thành viên</td><td>140.000.000</td><td>-</td></tr><tr><td>Ông Nguyễn Hữu Kinh Luân</td><td>Thành viên</td><td>140.000.000</td><td>-</td></tr><tr><td>Ông Phạm Mạnh Hùng</td><td>Thành viên</td><td></td><td></td></tr><tr><td></td><td>(đến ngày 1.9.2019)</td><td>-</td><td>40.055.000</td></tr><tr><td>Bà Trần Uyển Nhàn</td><td>Thành viên</td><td></td><td></td></tr><tr><td></td><td>(đến ngày 29.6.2019)</td><td>-</td><td>29.505.000</td></tr><tr><td>Ông Lương Thanh Bình</td><td>Thành viên</td><td></td><td></td></tr><tr><td></td><td>(đến ngày 29.6.2019)</td><td>-</td><td>29.505.000</td></tr></table>
+
+Lương và các quyền lợi gộp khác cho các nhân sự quản lý chủ chốt:
+
+<table><tr><td>Ông Hồ Minh Quang</td><td>Chủ tịch</td><td>2.352.943.424</td><td>2.056.316.187</td></tr><tr><td>Ông Võ Hoàng Vũ</td><td>Tổng giám đốc</td><td>2.050.187.268</td><td>1.797.696.125</td></tr><tr><td>Ông Quảng Trọng Lăng</td><td>Phó Tổng Giám Đốc</td><td>1.582.989.038</td><td>788.365.128</td></tr><tr><td>Ông Nguyễn Vinh An</td><td>Phó Tổng Giám Đốc</td><td>1.616.830.884</td><td>909.085.436</td></tr><tr><td>Bà Trần Ngọc Diệu</td><td>Phó Tổng Giám Đốc</td><td>1.467.017.424</td><td>920.855.669</td></tr><tr><td>Bà Nguyễn Thị Ngọc Liên</td><td>Phó Tổng Giám Đốc</td><td>5.541.410.330</td><td>2.099.727.690</td></tr></table>
+
+<table><tr><td>15.671.378.368</td><td>8.912.101.235</td></tr></table>
+
+43
+
+===== PAGE 47 =====
+CÔNG TY CỔ PHẦN THÉP NAM KIM
+
+Mẫu số B 09 – DN/HN
+
+33 THUYẾT MINH VỀ CÁC BÊN LIÊN QUAN (tiếp theo)
+
+(b) Số dư cuối năm với các bên liên quan
+
+<table><tr><td></td><td>2021VND</td><td>2020VND</td></tr><tr><td colspan="3">Phải trả ngắn hạn khác</td></tr><tr><td>Ông Hồ Minh Quang -Chủ tịch Hội đồng Quản trị</td><td>30.000.000.000</td><td>6.000.000.000</td></tr><tr><td>Ông Vố Hoàng Vũ - Tổng giám đốc</td><td>15.000.000.000</td><td>-</td></tr><tr><td></td><td>45.000.000.000</td><td>6.000.000.000</td></tr></table>
+
+34 CAM KẾT THUÊ HOẠT ĐỘNG
+
+Tập đoàn phải trả mức tối thiểu cho các hợp đồng thuê hoạt động không hủy ngang trong tương lai như sau:
+
+<table><tr><td></td><td>2021VND</td><td>2020\( ^{1} \)VND</td></tr><tr><td>Trong vòng 1 năm</td><td>225.116.559</td><td>900.466.236</td></tr><tr><td>Trên 1 năm đến 5 năm</td><td>-</td><td>225.116.559</td></tr><tr><td>Tổng cộng các khoản thanh toán tối thiểu</td><td>225.116.559</td><td>1.125.582.795</td></tr></table>
+
+Báo cáo tài chính hợp nhất đã được Ban Tổng Giám đốc phê chuẩn ngày 21 tháng 3 năm 2022.
+
+Nguyễn Ngọc Bảo Châu
+Người lập
+
+Vũ Thị Huyền
+Kế toán trưởng
+
+Võ Hoàng Vũ
+Tổng Giám đốc
+
+44
+
+===== PAGE 48 =====
+□ □ □ □ □ □ □

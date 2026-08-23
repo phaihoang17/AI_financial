@@ -1,0 +1,1731 @@
+===== PAGE 1 =====
+CÔNG TY CỔ PHẦN TẬP ĐOÀN F.I.T
+
+BÁO CÁO TÀI CHÍNH RIÊNG ĐÃ ĐƯỢC KIỂM TOÁN
+
+CHO NĂM TÀI CHÍNH KẾT THỨC NGÀY 31/12/2020
+
+Tháng 3 năm 2021
+
+===== PAGE 2 =====
+□
+□
+□
+□
+□
+□
+□
+□
+□
+□
+□
+□
+□
+□
+□
+□
+□
+□
+□
+□
+□
+□
+□
+□
+□
+□
+□
+□
+□
+□
+□
+□
+□
+
+CÔNG TY CỔ PHẦN TẬP ĐOÀN F.I.T
+
+Tầng 5, toa nhà Times Tower, 35 Lê Văn Lương, P. Nhân Chính, Q. Thanh Xuân, TP. Hà Nội
+
+MỤC LỤC
+
+<table><tr><td>NÔI DUNG</td><td>TRANG</td></tr><tr><td>BÁO CÁO CỦA BAN TỔNG GIÁM ĐỐC</td><td>2 - 4</td></tr><tr><td>BÁO CÁO KIỀM TOÁN ĐỘC LẬP</td><td>5 - 6</td></tr><tr><td>BẢNG CÂN ĐỐI KẾ TOÁN RIÊNG</td><td>7 - 8</td></tr><tr><td>BÁO CÁO KẾT QUÀ HOẠT ĐỘNG KINH DOANH RIÊNG</td><td>9</td></tr><tr><td>BÁO CÁO LUƯU CHUYÊN TIỀN TỆ RIÊNG</td><td>10</td></tr><tr><td>THUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG</td><td>11 - 41</td></tr></table>
+
+1
+
+// 0010 //
+
+===== PAGE 3 =====
+□ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □
+
+CÔNG TY CỔ PHẦN TẬP ĐOÀN F.I.T
+
+Tầng 5, tòa nhà Times Tower, 35 Lê Văn Lương, P. Nhân Chính, Q. Thanh Xuân, TP. Hà Nội
+
+BÁO CÁO CỦA BAN TỔNG GIÁM ĐỐC
+
+Ban Tổng Giám đốc Công ty Cổ phần F.I.T (sau đây gọi tất là “Công ty”) trình bày Báo cáo của mình cùng với Báo cáo tài chính riêng của Công ty đã được kiểm toán cho năm tài chính kết thúc ngày 31/12/2020.
+
+KHÁI QUÁT VỀ CÔNG TY
+
+Công ty Cổ phần Tập đoàn F.I.T (sau đây gọi tất là “Công ty”) hoạt động theo Giấy chứng nhận đăng ký kinh doanh lần đầu số 0103016102 ngày 08/03/2017, thay đổi lần 28 số 0102182140 ngày 27/7/2017 do Sở Kế hoạch và Đầu tư thành phố Hà Nội cấp.
+
+Vốn điều lệ của Công ty là 2.547.302.470.000 VND, tương đương 254.730.247 cổ phiếu, mệnh giá mỗi cổ phiếu 10.000 VND.
+
+Cổ phiếu của Công ty được niêm yết tại Sở Giao dịch chứng khoán Thành phố Hồ Chí Minh với mã chứng khoán FIT.
+
+HỘI ĐỒNG QUẢN TRỊ VÀ BAN TỔNG GIÁM ĐỐC
+
+Các thành viên Hội đồng Quản trị và Ban Tổng Giám đốc đã điều hành Công ty trong năm tài chính kết thúc ngày 31/12/2020 và đến ngày lập Báo cáo này gồm:
+
+Hội đồng Quản trị
+
+<table><tr><td>Ông Nguyễn Văn Sang</td><td>Chủ tịch</td><td></td></tr><tr><td>Bà Nguyễn Thị Minh Nguyệt</td><td>Phó Chủ tịch</td><td></td></tr><tr><td>Ông Kiều Hữu Dũng</td><td>Thành viên</td><td>Bổ nhiệm ngày 26/6/2020</td></tr><tr><td>Ông Cao Trọng Hoan</td><td>Thành viên</td><td>Bổ nhiệm ngày 26/6/2020</td></tr><tr><td>Ông Phan Minh Sáng</td><td>Thành viên</td><td></td></tr><tr><td>Ông Đỗ Văn Khá</td><td>Thành viên độc lập</td><td></td></tr><tr><td>Ông Bùi Tuấn</td><td>Thành viên độc lập</td><td></td></tr><tr><td>Ông Kiều Hữu Hoàn</td><td>Thành viên</td><td>Miễn nhiệm ngày 26/6/2020</td></tr><tr><td>Ông Hứa Xuân Sinh</td><td>Thành viên độc lập</td><td>Miễn nhiệm ngày 26/6/2020</td></tr></table>
+
+Ban Tổng Giám đốc
+
+<table><tr><td>Bà Nguyễn Thị Minh Nguyệt</td><td>Tổng Giám đốc</td></tr></table>
+
+Ban Kiểm soát
+
+<table><tr><td>Ông Ninh Việt Tiến</td><td>Trường ban</td><td></td></tr><tr><td>Bà Nguyễn Thị Thanh Thúy</td><td>Thành viên</td><td></td></tr><tr><td>Bà Nguyễn Thị Hồng Anh</td><td>Thành viên</td><td>Bổ nhiệm ngày 26/6/2020</td></tr><tr><td>Ông Lưu Đức Quang</td><td>Thành viên</td><td>Miễn nhiệm ngày 26/6/2020</td></tr></table>
+
+2
+
+(1) \( \because {AD} = {BD} = 1 \)
+
+===== PAGE 4 =====
+□
+□
+□
+□
+□
+□
+□
+□
+□
+□
+□
+□
+□
+□
+□
+□
+□
+□
+□
+□
+□
+□
+□
+□
+□
+□
+□
+□
+□
+□
+□
+□
+□
+□
+□
+□
+□
+
+CÔNG TY CỔ PHẦN TẬP ĐOÀN F.I.T
+
+Tầng 5, tòa nhà Times Tower, 35 Lê Văn Lương, P. Nhân Chính, Q. Thanh Xuân, TP. Hà Nội
+
+BÁO CÁO CỦA BAN TỔNG GIÁM ĐỐC (TIẾP)
+
+Đại diện theo pháp luật
+
+Người đại diện theo pháp luật của Công ty trong năm tài chính kết thúc ngày 31/12/2020 và cho đến ngày lập báo cáo này là Bà Nguyễn Thị Minh Nguyệt – Tổng Giám đốc.
+
+KIỂM TOÁN VIÊN
+
+Báo cáo tài chính riêng cho năm tài chính kết thúc ngày 31/12/2020 kèm theo được kiểm toán bởi Công ty TNHH Kiểm toán và Tư vấn UHY (UHY LTD).
+
+TRÁCH NHIÊM CỦA BAN TỔNG GIÁM ĐỐC
+
+Ban Tổng Giám đốc Công ty chịu trách nhiệm lập Báo cáo tài chính riêng cho năm tài chính kết thúc ngày 31/12/2020 phân ánh một cách trung thực và hợp lý tình hình tài chính, kết quả hoạt động kinh doanh và tình hình lưu chuyển tiền tệ của Công ty trong năm.
+
+Trong việc lập Báo cáo tài chính riêng này, Ban Tổng Giám đốc được yêu cầu phải:
+
+- Lựa chọn các chính sách kế toán thích hợp và áp dụng các chính sách đó một cách nhất quán;
+
+- Thực hiện các xét đoán và ước tính một cách hợp lý và thận trọng;
+
+- Nếu rõ các chuẩn mục kế toán áp dụng cho Công ty có được tuân thủ hay không và tất cả các sai lệch trọng yếu đã được trình bày và giải thích trong Báo cáo tài chính riêng;
+
+- Lập Báo cáo tài chính riêng trên cơ sở hoạt động liên tục trừ trường hợp không thể cho rằng Công ty sẽ tiếp tục hoạt động liên tục;
+
+- Thiết lập và thực hiện hệ thống kiểm soát nội bộ một cách hữu hiệu nhằm hạn chế rủi ro có sai sót trọng yếu do gian lận hoặc nhằm lẫn trong việc lập và trình bày Báo cáo tài chính riêng.
+
+Ban Tổng Giám đốc Công ty đảm bảo các số sách kế toán có liên quan được lưu giữ đầy đủ để phản ánh tình hình tài chính, tình hình hoạt động của Công ty với mức độ trung thực, hợp lý tại bất kỳ thời điểm nào và các số kế toán tuân thủ chế độ kế toán áp dụng. Ban Tổng Giám đốc cũng chịu trách nhiệm quản lý các tài sản của Công ty và do đó đã thực hiện các biện pháp thích hợp để ngăn chắn và phát hiện các hành vi gian lập và các qui định pháp lý có liên quan đến việc lập và trình bày Báo cáo tài chính riêng.
+
+CÁC SỰ KIỆN SAU NGÀY KẾT THỨC NĂM TÀI CHÍNH
+
+Ban Tổng Giám đốc Công ty khẳng định rằng, không có bất cứ sự kiện nào xảy ra sau ngày kết thúc năm tài chính có ảnh hưởng trọng yếu, yêu cầu phải điều chỉnh hoặc công bố trên Báo cáo tài chính riêng cho năm tài chính kết thúc ngày 31/12/2020 của Công ty.
+
+CÁC CAM KẾT KHÁC
+
+Ban Tổng Giám đốc cam kết rằng Công ty không vi phạm nghĩa vụ công bố thông tin theo quy định tại Thông tư số 155/2015/TT-BTC ngày 06/10/2015 của Bộ Tài chính về việc công bố thông tin trên thị trường chứng khoán, tuân thủ các quy định tại Nghị định số 71/2017/NĐ-CP ngày 06/06/2017 của Chính phủ hướng dẫn về quản trị công ty áp dụng đối với công ty đại chúng và Thông tư số 95/2017/TT-BTC ngày 22/09/2017 của Bộ Tài chính hướng dẫn một số điều tại Nghị định số 71/2017/NĐ-CP ngày 06/06/2017.
+
+3
+
+11.7 24.8
+
+===== PAGE 5 =====
+□ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □
+
+CÔNG TY CỔ PHẦN TẬP ĐOÀN F.I.T
+
+Tàng 5, toa nhà Times Tower, 35 Lê Văn Lương, P. Nhân Chính, Q. Thanh Xuân, TP. Hà Nội
+
+BÁO CÁO CỦA BAN TỔNG GIÁM ĐỐC (TIẾP)
+
+PHÊ DUYỆT BÁO CÁO TÀI CHÍNH RIÊNG
+
+Ban Tổng Giám đốc phê duyệt Báo cáo tài chính riêng đính kèm. Báo cáo tài chính đã phân ánh trung thực và hợp lý tình hình tài chính của Công ty tại ngày 31/12/2020, cũng như kết quả hoạt động kinh doanh và các lường lưu chuyển tiền tệ cho năm tài chính kết thúc ngày 31/12/2020, phù hợp với các Chuẩn mực kế toán, Chế độ kế toán doanh nghiệp Việt Nam và các quy định pháp lý có liên quan đến việc lập và trình bày Báo cáo tài chính riêng.
+
+Thay mặt và đại diện cho Ban Tổng Giám đốc,
+
+Nguyên Thị Minh Nguyệt
+
+Tổng Giám đốc
+
+Hà Nội, ngày 26 tháng 03 năm 2021
+
+4
+
+17/1 / 2
+
+===== PAGE 6 =====
+□
+□
+□
+□
+□
+□
+□
+□
+□
+□
+□
+□
+□
+□
+□
+□
+□
+□
+□
+□
+□
+□
+□
+□
+□
+□
+□
+□
+□
+□
+□
+□
+□
+
+UHY CÔNG TY TNHH KIỂM TOÁN VÀ TƯ VĂN UHY
+Số: 187 /2021/UHY-BCKT
+
+BÁO CÁO KIỂM TOÁN ĐỘC LẬP
+
+Kính gửi: Cổ đông, Hội đồng Quản trị và Ban Tổng Giám đốc Công ty Cổ phần Tập đoàn F.I.T
+
+Chúng tôi đã kiểm toán Báo cáo tài chính riêng kèm theo của Công ty Cổ phần Tập đoàn F.I.T (sau đây gọi tắt là “Công ty”) được lập ngày 26/03/2021, từ trang 07 đến trang 41 bao gồm: Bảng cân đối kế toán riêng tại ngày 31/12/2020, Báo cáo kết quả hoạt động kinh doanh riêng, Báo cáo lưu chuyển tiền tệ riêng cho năm tài chính kết thúc ngày 31/12/2020 và Bản Thuyết minh Báo cáo tài chính riêng.
+
+Trách nhiệm của Ban Tổng Giám đốc
+
+Ban Tổng Giám đốc Công ty chịu trách nhiệm lập và trình bày trung thực và hợp lý Báo cáo tài chính riêng theo Chuẩn mực kế toán, Chế độ kế toán doanh nghiệp Việt Nam và các quy định pháp lý có liên quan đến việc lập và trình bày Báo cáo tài chính riêng và chịu trách nhiệm về kiểm soát nội bộ mà Ban Tổng Giám đốc xác định là cần thiết để đảm bảo việc lập và trình bày Báo cáo tài chính riêng không có sai sót trọng yếu do gian lận hoặc nhằm lẫn.
+
+Trách nhiệm của Kiểm toán viên
+
+Trách nhiệm của chúng tôi là đưa ra ý kiến về Báo cáo tài chính dựa trên kết quả của cuộc kiểm toán. Chúng tôi đã tiến hành kiểm toán theo các Chuẩn mực kiểm toán Việt Nam. Các Chuẩn mực này yêu cầu chúng tôi tuân thủ Chuẩn mực và các quy định về đạo đức nghề nghiệp, lập kế hoạch và thực hiện cuộc kiểm toán để đạt được sự đảm bảo hợp lý về việc liệu Báo cáo tài chính của Công ty có còn sai sót trọng yếu hay không.
+
+Công việc kiểm toán bao gồm việc thực hiện thủ tục nhằm thu thập các bằng chứng kiểm toán và các số liệu và thuyết minh trên Báo cáo tài chính. Các thủ tục kiểm toán được lựa chọn dựa trên các xét đoán của Kiểm toán viên, bao gồm đánh giá rủi ro có sai sót trọng yếu trong báo cáo tài chính do gian lập hoặc nhằm lẫn. Khi thực hiện đánh giá các rủi ro này, Kiểm toán viên đã xem xét kiểm soát nội bộ của Công ty liên quan đến việc lập và trình bày Báo cáo tài chính trung thực, hợp lý nhằm thiết kế các thủ tục kiểm toán phù hợp với tình hình thực tế, tuy nhiên không nhằm mục đích đưa ra ý kiến về hiệu quả kiểm soát của Công ty. Công việc kiểm toán cũng bao gồm đánh giá tính thích hợp của các chính sách kế toán được áp dụng và tính hợp lý của các ước tính kế toán của Ban Tổng Giám đốc cũng như đánh giá việc trình bày tổng thể Báo cáo tài chính.
+
+Chúng tôi tin tưởng rằng các bằng chứng kiểm toán mà chúng tôi đã thu thập được là đầy đủ và thích hợp để làm cơ sở cho ý kiến kiểm toán của chúng tôi.
+
+Ý kiến
+
+Theo ý kiến của chúng tôi, Báo cáo tài chính đính kèm đã phần ánh trung thực và hợp lý, trên các khóa cạnh trọng yếu, tỉnh hình tài chính của Công ty Cổ phần Tập đoàn F.I.T tại ngày 31/12/2020 cũng như kết quả hoạt động kinh doanh và tỉnh hình lưu chuyển tiền tệ của Công ty cho năm tài chính kết thúc ngày 31/12/2020, phù hợp với các Chuẩn mực kế toán Việt Nam, Chế độ kế toán doanh nghiệp Việt Nam và các quy định pháp lý có liên quan đến việc lập và trình bày Báo cáo tài chính.
+
+Vấn đề cần nhân mạnh
+
+Như đã trình bày tại Thuyết minh số 6 phần Thuyết minh Báo cáo tài chính, Công ty Cổ phần Tập đoàn F.I.T chưa thực hiện ghi nhận lãi dự thu liên quan đến khoản đầu tư mua trái phiếu chuyển đổi của Công ty Cổ Phần Đầu Tư Thương Mại Hoa Sen Việt Nam do chưa chắc chắn được khoản lãi đầu tư trái phiếu tại thời điểm đáo hạn. Đầy là loại hình trái phiếu chuyển đổi, có bảo đảm bằng tài sản và kèm theo chứng quyền, tổng số lượng trái phiếu là 250.000 trái phiếu với mệnh giá là 100.000 VND/trái phiếu. Kỳ hạn trái phiếu là 05 năm, lãi suất áp dụng trong trường hợp chọn chuyển đổi sang cổ phiếu của tổ chức phát hành là 0%/năm hoặc 5%/năm trong trường hợp không chuyển đổi sang cổ phiếu. Trường hợp Công ty lựa chọn không chuyển đổi toàn bộ trái phiếu tại ngày đáo hạn thì lãi dự thu cho giai đoạn trước khi nằm giữ là 4.818.493.151 đồng, cho giai đoạn sau ngày nằm giữ (18/06/2020) đến 31/12/2020 là 674.657.534 đồng.
+
+Vấn đề cần nhân mạnh nếu trên không ảnh hưởng đến ý kiến kiểm toán đã trình bày.
+
+Trụ sở: Tắng 5, Tháp B2
+Tòa nhà Roman Plaza, Đường Tổ Hữu, Phường Đại Mỗ,
+Quận Nam Từ Liêm, Thành phố Hà Nội, Việt Nam.
+Điện thoại: 84 24 5678 3999 Fax: 84 24 5678 3999
+www.uhy.vn
+
+Thành viên độc lập của Hăng UHY Quốc Tế
+
+5
+
+===== PAGE 7 =====
+}
+}
+}
+}
+}
+}
+}
+}
+}
+}
+}
+}
+}
+}
+}
+}
+}
+}
+}
+}
+}
+}
+}
+}
+}
+}
+}
+}
+}
+}
+}
+}
+}
+}
+}
+}
+}
+}
+}
+}
+}
+}
+}
+
+BÁO CÁO KIỂM TOÁN ĐỘC LẬP (TIẾP)
+
+Vấn đề khác
+
+Báo cáo tài chính riêng của Công ty cho năm tài chính kết thúc ngày 31/12/2019 đã được kiểm toán bởi Công ty kiểm toán khác với ý kiến chấp nhận toàn phần theo Báo cáo kiểm toán số 202/VACO/BCKIT.NV2 ngày 30/3/2020.
+
+Phạm Thị Thảo
+
+Phó Tổng Giám đốc
+
+Giấy CNĐKHN kiểm toán số 2465-2018-112-1
+
+Thay mặt và đại diện cho
+
+CÔNG TY TNHH KIỂM TOÁN VÀ TƯ VẤN UHY
+
+Hà Nội, ngày 26 tháng 03 năm 2021
+
+Trình Thị Trang
+
+Kiêm toán viên
+
+Giấy CNDKHN kiểm toán số 4061-2017-112-1
+
+6
+
+1181 4 : 2 ▲ 1211 li3i 10 1212 131
+
+===== PAGE 8 =====
+□ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □
+
+CÔNG TY CỔ PHẦN TẬP ĐOÀN F.I.T
+
+Tàng 5, toa Times Tower - HACC1 Complex Building,
+
+35 Lê Văn Lương, P. Nhân Chính, Q. Thanh Xuân, TP. Hà Nội
+
+BÁO CÁO TÀI CHÍNH RIÊNG
+
+Cho năm tài chính
+
+kết thúc ngày 31/12/2020
+
+BẢNG CÂN ĐỐI KẾ TOÁN RIÊNG
+
+Tại ngày 31 tháng 12 năm 2020
+
+<table><tr><td>TÀI SẢN</td><td>Mã số</td><td>Thuyết minh</td><td>31/12/2020 VND</td><td>01/01/2020 VND</td></tr><tr><td>TÀI SẢN NGĂN HẠN</td><td>100</td><td></td><td>889.798.505.825</td><td>921.631.786.230</td></tr><tr><td>Tiền và các khoản tương đương tiền</td><td>110</td><td>4</td><td>117.917.536</td><td>3.486.351.810</td></tr><tr><td>Tiền</td><td>111</td><td></td><td>117.917.536</td><td>286.351.810</td></tr><tr><td>Các khoản tương đương tiền</td><td>112</td><td></td><td>-</td><td>3.200.000.000</td></tr><tr><td>Đầu tư tài chính ngắn hạn</td><td>120</td><td>6</td><td>789.330.436.897</td><td>889.156.687.428</td></tr><tr><td>Chứng khoán kinh doanh</td><td>121</td><td></td><td>49.424.177.980</td><td>44.120.004.509</td></tr><tr><td>Dự phòng giảm giá chứng khoán kinh doanh</td><td>122</td><td></td><td>(87.254.674)</td><td>(10.968.574.909)</td></tr><tr><td>Đầu tư nắm giữ đến ngày đáo hạn</td><td>123</td><td></td><td>739.993.513.591</td><td>856.005.257.828</td></tr><tr><td>Các khoản phải thu ngắn hạn</td><td>130</td><td></td><td>100.140.468.450</td><td>25.590.434.995</td></tr><tr><td>Phải thu ngắn hạn của khách hàng</td><td>131</td><td>5</td><td>5.777.534.326</td><td>4.514.020.937</td></tr><tr><td>Trả trước cho người bán ngắn hạn</td><td>132</td><td>7</td><td>494.270.990</td><td>733.383.909</td></tr><tr><td>Phải thu ngắn hạn khác</td><td>136</td><td>9</td><td>94.230.037.583</td><td>20.704.404.598</td></tr><tr><td>Dự phòng phải thu ngắn hạn khó đòi</td><td>137</td><td>10</td><td>(361.374.449)</td><td>(361.374.449)</td></tr><tr><td>Tài sản ngắn hạn khác</td><td>150</td><td></td><td>209.682.942</td><td>3.398.311.997</td></tr><tr><td>Chi phí trả trước ngắn hạn</td><td>151</td><td>8</td><td>114.382.240</td><td>66.823.806</td></tr><tr><td>Thuế GTGT được khấu trừ</td><td>152</td><td></td><td>95.300.702</td><td>3.285.527.723</td></tr><tr><td>Thuế và các khoản khác phải thu Nhà nước</td><td>153</td><td>15</td><td>-</td><td>45.960.468</td></tr><tr><td>TÀI SẢN DÀI HẠN</td><td>200</td><td></td><td>2.241.121.325.830</td><td>2.260.672.065.434</td></tr><tr><td>Các khoản phải thu dài hạn</td><td>210</td><td></td><td>1.014.500.000</td><td>1.014.500.000</td></tr><tr><td>Phải thu dài hạn khác</td><td>216</td><td>9</td><td>1.014.500.000</td><td>1.014.500.000</td></tr><tr><td>Tài sản cố định</td><td>220</td><td></td><td>26.924.486.116</td><td>36.763.643.384</td></tr><tr><td>Tài sản cố định hữu hình</td><td>221</td><td>11</td><td>17.511.813.291</td><td>17.938.297.734</td></tr><tr><td>- Nguyên giá</td><td>222</td><td></td><td>26.790.770.680</td><td>25.067.721.456</td></tr><tr><td>- Giá trị hao mòn lũy kế</td><td>223</td><td></td><td>(9.278.957.389)</td><td>(7.129.423.722)</td></tr><tr><td>Tài sản cố định vô hình</td><td>227</td><td>12</td><td>9.412.672.825</td><td>18.825.345.650</td></tr><tr><td>- Nguyên giá</td><td>228</td><td></td><td>9.618.372.825</td><td>19.031.045.650</td></tr><tr><td>- Giá trị hao mòn lũy kế</td><td>229</td><td></td><td>(205.700.000)</td><td>(205.700.000)</td></tr><tr><td>Bất động sản đầu tư</td><td>230</td><td>13</td><td>39.802.483.535</td><td>78.568.097.856</td></tr><tr><td>- Nguyên giá</td><td>231</td><td></td><td>44.704.785.906</td><td>84.864.435.156</td></tr><tr><td>- Giá trị hao mòn lũy kế</td><td>232</td><td></td><td>(4.902.302.371)</td><td>(6.296.337.300)</td></tr><tr><td>Tài sản dở dang dài hạn</td><td>240</td><td></td><td>-</td><td>878.723.556</td></tr><tr><td>Chi phí xây dựng cơ bản dở dang</td><td>242</td><td></td><td>-</td><td>878.723.556</td></tr><tr><td>Đầu tư tài chính dài hạn</td><td>250</td><td>6</td><td>2.173.182.856.175</td><td>2.143.278.316.549</td></tr><tr><td>Đầu tư vào công ty con</td><td>251</td><td></td><td>2.193.770.036.914</td><td>2.096.270.036.914</td></tr><tr><td>Đầu tư vào công ty liên doanh, liên kết</td><td>252</td><td></td><td>-</td><td>58.948.400.000</td></tr><tr><td>Dự phòng đầu tư tài chính dài hạn</td><td>254</td><td></td><td>(20.587.180.739)</td><td>(11.940.120.365)</td></tr><tr><td>Tài sản dài hạn khác</td><td>260</td><td></td><td>197.000.004</td><td>168.784.089</td></tr><tr><td>Chi phí trả trước dài hạn</td><td>261</td><td>8</td><td>197.000.004</td><td>168.784.089</td></tr><tr><td>TỔNG TÀI SẢN (270 = 100 + 200)</td><td>270</td><td></td><td>3.130.919.831.655</td><td>3.182.303.851.664</td></tr></table>
+
+Các thuyết minh đính kèm là một bộ phận hợp thành của Báo cáo tài chính
+
+7
+
+1.0m 1.5m 2.0m 2.5m 3.0m
+
+===== PAGE 9 =====
+□ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □
+
+CÔNG TY CỔ PHẦN TẬP ĐOÀN F.I.T
+
+Tàng 5, tòa Times Tower - HACC1 Complex Building,
+35 Lê Văn Lương, P. Nhân Chính, Q. Thanh Xuân, TP. Hà Nội
+
+BÁO CÁO TÀI CHÍNH RIÊNG
+
+Cho năm tài chính
+kết thúc ngày 31/12/2020
+
+BẢNG CÂN ĐỐI KẾ TOÁN RIÊNG (TIỂP)
+
+Tại ngày 31 tháng 12 năm 2020
+
+<table><tr><td>NGUỒN VỐN</td><td>Mã số</td><td>Thuyết minh</td><td>31/12/2020VND</td><td>01/01/2020VND</td></tr><tr><td>NỘ PHẢI TRẢ</td><td>300</td><td></td><td>220.213.373.118</td><td>283.145.411.883</td></tr><tr><td>Nợ ngắn hạn</td><td>310</td><td></td><td>217.668.373.118</td><td>270.418.411.883</td></tr><tr><td>Phải trả người bán ngắn hạn</td><td>311</td><td></td><td>254.283.777</td><td>354.166.441</td></tr><tr><td>Người mua trả tiền trước ngắn hạn</td><td>312</td><td></td><td>11.189.845</td><td>251.272.903</td></tr><tr><td>Thuế và các khoản phải nộp Nhà nước</td><td>313</td><td>15</td><td>1.115.534.635</td><td>2.695.312.758</td></tr><tr><td>Phải trả người lao động</td><td>314</td><td></td><td>1.288.210.249</td><td>2.282.690.743</td></tr><tr><td>Chi phí phải trả ngắn hạn</td><td>315</td><td>14</td><td>5.726.475.169</td><td>6.389.080.763</td></tr><tr><td>Doanh thu chưa thực hiện ngắn hạn</td><td>318</td><td></td><td>126.283.994</td><td>113.332.560</td></tr><tr><td>Phải trả ngắn hạn khác</td><td>319</td><td>16</td><td>111.225.832.161</td><td>105.383.147.074</td></tr><tr><td>Vay và nợ thuê tài chính ngắn hạn</td><td>320</td><td>17</td><td>92.535.209.286</td><td>147.418.354.639</td></tr><tr><td>Quỹ khen thưởng, phúc lợi</td><td>322</td><td></td><td>5.385.354.002</td><td>5.531.054.002</td></tr><tr><td>Nợ dài hạn</td><td>330</td><td></td><td>2.545.000.000</td><td>12.727.000.000</td></tr><tr><td>Vay và nợ thuê tài chính dài hạn</td><td>338</td><td>17</td><td>2.545.000.000</td><td>12.727.000.000</td></tr><tr><td>VỐN CHỦ SỞ HỮU</td><td>400</td><td></td><td>2.910.706.458.537</td><td>2.899.158.439.781</td></tr><tr><td>Vốn chủ sở hữu</td><td>410</td><td>18</td><td>2.910.706.458.537</td><td>2.899.158.439.781</td></tr><tr><td>Vốn góp của chủ sở hữu</td><td>411</td><td></td><td>2.547.302.470.000</td><td>2.547.302.470.000</td></tr><tr><td>- Cổ phiếu phổ thông có quyền biểu quyết</td><td>411a</td><td></td><td>2.547.302.470.000</td><td>2.547.302.470.000</td></tr><tr><td>Thặng dư vốn cổ phần</td><td>412</td><td></td><td>70.045.649.714</td><td>70.045.649.714</td></tr><tr><td>Quỹ đầu tư phát triển</td><td>418</td><td></td><td>886.852.413</td><td>886.852.413</td></tr><tr><td>Lợi nhuận sau thuế chưa phân phối</td><td>421</td><td></td><td>292.471.486.410</td><td>280.923.467.654</td></tr><tr><td>- LNST chưa phân phối lũy kế đến cuối năm trước</td><td>421a</td><td></td><td>280.923.467.654</td><td>260.004.652.925</td></tr><tr><td>- LNST chưa phân phối kỳ này</td><td>421b</td><td></td><td>11.548.018.756</td><td>20.918.814.729</td></tr><tr><td>TỔNG NGUỒN VỐN (440 = 300 + 400)</td><td>440</td><td></td><td>3.130.919.831.655</td><td>3.182.303.851.664</td></tr></table>
+
+Nguyễn Thị Minh Nguyệt
+Tổng Giám đốc
+
+Hà Nội, ngày 26 tháng 03 năm 2021
+
+Phan Thị Hòa
+Kế toán trưởng
+
+Ninh Thị Phương
+Người lập biểu
+
+Các thuyết minh đính kèm là một bộ phận hợp thành của Báo cáo tài chính
+
+8
+
+===== PAGE 10 =====
+□ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □
+
+CÔNG TY CỔ PHẦN TẬP ĐOÀN F.I.T
+
+Tàng 5, toa Times Tower - HACC1 Complex Building,
+
+35 Lê Văn Lương, P. Nhân Chính, Q. Thanh Xuân, TP. Hà Nội
+
+BÁO CÁO TÀI CHÍNH RIÊNG
+
+Cho năm tài chính
+
+kết thúc ngày 31/12/2020
+
+BÁO CÁO KÊT QUẢ HOẠT ĐỘNG KINH DOANH RIÊNG
+
+Cho năm tài chính kết thúc ngày 31/12/2020
+
+<table><tr><td>Chỉ tiêu</td><td>Mã số</td><td>Thuyết minh</td><td>Năm 2020 VND</td><td>Năm 2019 VND</td></tr><tr><td>Doanh thu bán hàng và cung cấp dịch vụ</td><td>01</td><td>19</td><td>65.618.865.463</td><td>22.168.672.419</td></tr><tr><td>Các khoản giảm trừ doanh thu</td><td>02</td><td></td><td>-</td><td>-</td></tr><tr><td>Doanh thu thuần bán hàng và cung cấp dịch vụ</td><td>10</td><td></td><td>65.618.865.463</td><td>22.168.672.419</td></tr><tr><td>Giá vốn hàng bán</td><td>11</td><td>20</td><td>56.428.514.336</td><td>10.907.494.734</td></tr><tr><td>Lợi nhuận gộp về bán hàng và cung cấp dịch vụ</td><td>20</td><td></td><td>9.190.351.127</td><td>11.261.177.685</td></tr><tr><td>Doanh thu hoạt động tài chính</td><td>21</td><td>21</td><td>55.924.383.285</td><td>50.145.136.937</td></tr><tr><td>Chi phí tài chính</td><td>22</td><td>22</td><td>29.601.768.672</td><td>18.333.925.213</td></tr><tr><td>Trong đó: Chi phí lãi vay</td><td>23</td><td></td><td>5.521.322.051</td><td>5.596.574.365</td></tr><tr><td>Chi phí quản lý doanh nghiệp</td><td>26</td><td>23</td><td>22.731.317.122</td><td>21.017.629.364</td></tr><tr><td>Lợi nhuận thuần từ hoạt động kinh doanh</td><td>30</td><td></td><td>12.781.648.618</td><td>21.986.253.165</td></tr><tr><td>Thu nhập khác</td><td>31</td><td></td><td>1.626.395.942</td><td>4.139.969.013</td></tr><tr><td>Chi phí khác</td><td>32</td><td></td><td>1.399.790.942</td><td>1.304.247.297</td></tr><tr><td>Lợi nhuận khác</td><td>40</td><td></td><td>226.605.000</td><td>2.835.721.716</td></tr><tr><td>Tổng lợi nhuận kế toán trước thuế</td><td>50</td><td></td><td>13.008.253.618</td><td>24.821.974.881</td></tr><tr><td>Chi phí thuế TNDN hiện hành</td><td>51</td><td>25</td><td>1.460.234.862</td><td>3.903.160.152</td></tr><tr><td>Chi phí thuế TNDN hoãn lại</td><td>52</td><td></td><td>-</td><td>-</td></tr><tr><td>Lợi nhuận sau thuế thu nhập doanh nghiệp</td><td>60</td><td></td><td>11.548.018.756</td><td>20.918.814.729</td></tr></table>
+
+Nguyễn Thị Minh Nguyệt
+Tổng Giám đốc
+
+Hà Nội, ngày 26 tháng 03 năm 2021
+
+Phan Thị Hòa
+Kế toán trường
+
+Ninh Thị Phương
+Người lập biểu
+
+Các thuyết minh đính kèm là một bộ phận hợp thành của Báo cáo tài chính
+
+9
+
+11:1 101
+
+===== PAGE 11 =====
+□ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □
+
+CÔNG TY CỔ PHẦN TẬP ĐOÀN F.I.T
+
+Tầng 5, tòa Times Tower - HACC1 Complex Building,
+
+35 Lê Văn Lương, P. Nhân Chính, Q. Thanh Xuân, TP. Hà Nội
+
+BÁO CÁO TÀI CHÍNH RIÊNG
+
+Cho năm tài chính
+
+kết thúc ngày 31/12/2020
+
+BÁO CÁO LƯU CHUYÊN TIỀN TỆ RIÊNG
+
+(Theo phương pháp gián tiếp)
+
+Cho năm tài chính kết thúc ngày 31/12/2020
+
+<table><tr><td>Chỉ tiêu</td><td>Mã số</td><td>Thuyết minh</td><td>Năm 2020 VND</td><td>Năm 2019 VND</td></tr><tr><td colspan="5">Lưu chuyển tiền từ hoạt động kinh doanh</td></tr><tr><td>Lợi nhuận trước thuế</td><td>01</td><td></td><td>13.008.253.618</td><td>24.821.974.881</td></tr><tr><td colspan="5">Điều chỉnh cho các khoản</td></tr><tr><td>Khấu hao TSCĐ và BĐSDT</td><td>02</td><td></td><td>3.859.947.361</td><td>4.272.370.109</td></tr><tr><td>Các hoàn nhập/trích lập dự phòng</td><td>03</td><td></td><td>(2.234.259.861)</td><td>3.689.638.196</td></tr><tr><td>Lãi hoạt động đầu tư</td><td>05</td><td></td><td>(39.973.430.748)</td><td>(44.237.665.774)</td></tr><tr><td>Chi phí lãi vay</td><td>06</td><td></td><td>5.521.322.051</td><td>5.596.574.365</td></tr><tr><td>Lợi nhuận từ hoạt động kinh doanh trước thay đổi vốn lưu động</td><td>08</td><td></td><td>(19.818.167.579)</td><td>(5.857.108.223)</td></tr><tr><td>Tăng, giảm các khoản phải thu</td><td>09</td><td></td><td>(71.679.637.168)</td><td>7.677.271.433</td></tr><tr><td>Tăng, giảm các khoản phải trả (không kể lãi vay phải trả,thuế thu nhập doanh nghiệp phải nộp)</td><td>11</td><td></td><td>3.874.337.609</td><td>89.371.620.519</td></tr><tr><td>Tăng, giảm chi phí trả trước</td><td>12</td><td></td><td>(114.799.373)</td><td>1.141.947.358</td></tr><tr><td>Tăng, giảm chứng khoán kinh doanh</td><td>13</td><td></td><td>(5.304.173.471)</td><td>2.761.183.955</td></tr><tr><td>Tiền lãi vay đã trả</td><td>14</td><td></td><td>(5.762.238.602)</td><td>(5.907.157.980)</td></tr><tr><td>Thuế thu nhập doanh nghiệp đã nộp</td><td>15</td><td></td><td>(3.013.575.874)</td><td>(4.650.414.561)</td></tr><tr><td>Tiền chi khác từ hoạt động kinh doanh</td><td>17</td><td></td><td>(145.700.000)</td><td>(4.349.988.064)</td></tr><tr><td>Lưu chuyển tiền thuần từ hoạt động kinh doanh</td><td>20</td><td></td><td>(101.963.954.458)</td><td>80.187.354.437</td></tr><tr><td colspan="5">Lưu chuyển tiền từ hoạt động đầu tư</td></tr><tr><td>Tiền chi để mua sắm, xây dựng TSCĐ và các tài sản dài hạn khác</td><td>21</td><td></td><td>(844.325.668)</td><td>(158.362.347)</td></tr><tr><td>Tiền thu thanh lý, nhượng bán TSCĐ và các tài sản dài hạn khác</td><td>22</td><td></td><td>46.212.830.587</td><td>-</td></tr><tr><td>Tiền chi cho vay, mua các công cụ nợ của đơn vị khác</td><td>23</td><td></td><td>(3.267.361.369.863)</td><td>(1.884.767.000.000)</td></tr><tr><td>Tiền thu hồi cho vay, bán lại các công cụ nợ của đơn vị khác</td><td>24</td><td></td><td>3.383.373.114.100</td><td>1.870.939.732.350</td></tr><tr><td>Tiền chi đầu tư góp vốn vào đơn vị khác</td><td>25</td><td></td><td>(97.500.000.000)</td><td>(220.000.000.000)</td></tr><tr><td>Tiền thu hồi đầu tư góp vốn vào đơn vị khác</td><td>26</td><td></td><td>47.521.173.000</td><td>-</td></tr><tr><td>Tiền thu lãi vay, cổ tức và lợi nhuận được chia</td><td>27</td><td></td><td>52.259.243.381</td><td>42.609.287.244</td></tr><tr><td>Lưu chuyển tiền thuần từ hoạt động đầu tư</td><td>30</td><td></td><td>163.660.665.537</td><td>(191.376.342.753)</td></tr><tr><td colspan="5">Lưu chuyển tiền từ hoạt động tài chính</td></tr><tr><td>Tiền thu từ đi vay</td><td>33</td><td></td><td>2.119.479.950.036</td><td>1.696.582.722.719</td></tr><tr><td>Tiền trả nợ gốc vay</td><td>34</td><td></td><td>(2.184.545.095.389)</td><td>(1.585.375.266.533)</td></tr><tr><td>Lưu chuyển tiền thuần từ hoạt động tài chính</td><td>40</td><td></td><td>(65.065.145.353)</td><td>111.207.456.186</td></tr><tr><td>Lưu chuyển tiền thuần trong năm</td><td>50</td><td></td><td>(3.368.434.274)</td><td>18.467.870</td></tr><tr><td>Tiền và tương đương tiền đầu năm</td><td>60</td><td>4</td><td>3.486.351.810</td><td>3.467.883.940</td></tr><tr><td>Ảnh hưởng của thay đổi tỷ giá hối đoái quy đổi ngoại tệ</td><td>61</td><td></td><td>-</td><td>-</td></tr><tr><td>Tiền và tương đương tiền cuối năm</td><td>70</td><td>4</td><td>117.917.536</td><td>3.486.351.810</td></tr></table>
+
+Nguyên Thị Minh Nguyệt
+
+Tổng Giám đốc
+
+Hà Nội, ngày 26 tháng 03 năm 2021
+
+Phan Thị Hòa
+
+Kế toán trưởng
+
+Ninh Thị Phương
+
+Người lập biểu
+
+Các thuyết minh đính kèm là một bộ phận hợp thành của Báo cáo tài chính
+
+10
+
+===== PAGE 12 =====
+The OCR result should be empty, as the image contains only a stylistic horizontal line that must be ignored according to Rule 2. No text or placeholder characters should be output.
+
+CÔNG TY CỔ PHẦN TẬP ĐOÀN F.I.T
+
+Tàng 5, toa Times Tower - HACC1 Complex Building,
+
+35 Lê Văn Lương, P. Nhân Chính, Q. Thanh Xuân, TP. Hà Nội
+
+BÁO CÁO TÀI CHÍNH RIÊNG
+
+Cho năm tài chính
+
+kết thúc ngày 31/12/2020
+
+THUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG
+
+(Các thuyết minh này là bộ phận hợp thành và cần được đọc đồng thời với Báo cáo tài chính kèm theo
+
+1. ĐẶC ĐIỂM HOẠT ĐỘNG CỦA DOANH NGHIỆP
+
+1.1 HÌNH THỨC SỞ HỮU VỐN
+
+Công ty Cổ phần Tập đoàn F.I.T (sau đây gọi tất là “Công ty”) hoạt động theo Giấy chứng nhận đăng ký kinh doanh lần đầu số 0103016102 ngày 08/03/2007, thay đổi lần 28 số 0102182140 ngày 27/7/2017 do Sở Kế hoạch và Đầu tư thành phố Hà Nội cấp.
+
+Vốn điều lệ của Công ty là 2.547.302.470.000 VND, tương đương 254.730.247 cổ phiếu, mệnh giá mỗi cổ phiếu 10.000 VND. Tại ngày 31/12/2020, vốn điều lệ đã được góp đủ.
+
+Công ty có trụ sở chính đặt tại Tầng 5, tòa Times Tower, 35 Lê Văn Lương, P. Nhân Chính, Q. Thanh Xuân, TP. Hà Nội.
+
+Tổng số nhân viên Công ty tại ngày 31/12/2020 là 40 người (tại 31/12/2019 là 40 người).
+
+1.2 LĨNH VỰC VÀ NGÀNH NGHỀ KINH DOANH
+
+Ngành nghề kinh doanh chính:
+
+• Dịch vụ cho thuê văn phòng;
+
+- Kinh doanh bất động sản;
+
+- Các dịch vụ: Tư vấn đầu tư, tư vấn mua bán doanh nghiệp (tur vấn M&A), tư vấn cổ phần hóa, tư vấn quản trị doanh nghiệp, tư vấn phát triển thị trường (không bao gồm tư vấn pháp luật tài chính); Tư vấn đầu tư, tư vấn quản lý tài chính kinh doanh, tư vấn phát triển nguồn nhân lực (không bao gồm tư vấn pháp luật, tài chính); Dịch vụ môi giới bất động sản; bãi đồ xe và các công trình công cộng;
+
+- Và các ngành nghề kinh doanh khác.
+
+1.3 CHU KÝ KINH DOANH THÔNG THƯỜNG
+
+Công ty có chu kỳ sản xuất kinh doanh thông thường không quá 12 tháng.
+
+1.4 CÁU TRÚC DOANH NGHIỆP
+
+Các công ty con, Công ty liên doanh, liên kết
+
+Tại ngày 31/12/2020, Công ty có các Công ty con và Công ty liên kết chi tiết như sau:
+
+<table><tr><td>STT</td><td>Tên Công ty</td><td>Trụ sở chính</td><td>Tỷ lệ phần sở hữu</td><td>Tỷ lệ quyền biểu quyết nắm giữ</td><td>Hoạt động chính</td></tr><tr><td></td><td colspan="5">Công ty con cấp 1</td></tr><tr><td>1</td><td>Công ty CP Vật tư Kỹ thuật Nông nghiệp Cần Thơ</td><td>Cần Thơ</td><td>56,69%</td><td>56,69%</td><td>Kinh doanh các sản phẩm từ nông nghiệp</td></tr><tr><td>2</td><td>Công ty TNHH Xuất nhập khẩu và Thương mại F.I.T Việt Nam</td><td>Hà Nội</td><td>100,00%</td><td>100,00%</td><td>Xuất nhập khẩu các mặt hàng nông sản</td></tr><tr><td>3</td><td>Công ty CP Dược phẩm Cửu Long</td><td>Vĩnh Long</td><td>74,61%</td><td>74,61%</td><td>Kinh doanh dược phẩm, thiết bị y tế</td></tr><tr><td>4</td><td>Công ty CP Đầu tư Bất động sản F.I.T</td><td>Hà Nội</td><td>99,69%</td><td>99,69%</td><td>Kinh doanh bất động sản</td></tr></table>
+
+11
+
+\( \therefore {AD} = {BD} = 1 - \frac{1}{2}{AB},{AB} = {AC} \)
+
+===== PAGE 13 =====
+□ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □
+
+CÔNG TY CỔ PHẦN TẬP ĐOÀN F.I.T
+
+Tàng 5, toa Times Tower - HACC1 Complex Building,
+
+35 Lê Văn Lương, P. Nhân Chính, Q. Thanh Xuân, TP. Hà Nội
+
+BÁO CÁO TÀI CHÍNH RIÊNG
+
+Cho năm tài chính
+
+kết thúc ngày 31/12/2020
+
+THUYÊT MINH BÁO CÁO TÀI CHÍNH RIÊNG (TIÊP)
+
+(Các thuyết minh này là bộ phận hợp thành và cần được đọc đồng thời với Báo cáo tài chính kèm theo
+
+1. ĐẶC ĐIỂM HOẠT ĐỘNG CỦA DOANH NGHIỆP (TIẾP)
+
+1.4 CÂU TRÚC DOANH NGHIỆP (TIẾP)
+
+Thông qua công ty con cấp 1, Công ty nằm quyền kiểm soát các Công ty con sau:
+
+<table><tr><td>STT</td><td>Tên Công ty</td><td>Trụ sở chính</td><td>Tỷ lệ phần sở hữu</td><td>Tỷ lệ quyền biểu quyết nằm giữ</td><td>Hoạt động chính</td></tr><tr><td></td><td colspan="5">Công ty con cấp 2</td></tr><tr><td>5</td><td>Công ty CP Chế biến Thực phẩm xuất khẩu Miền Tây</td><td>Cần Thơ</td><td>54,80%</td><td>96,66%</td><td>Chế biến nông sản</td></tr><tr><td>6</td><td>Công ty CP Hạt giống TSC</td><td>Cần Thơ</td><td>55,74%</td><td>99,74%</td><td>Kinh doanh hạt giống</td></tr><tr><td>7</td><td>Công ty CP FIT Consumer</td><td>Hồ Chí Minh</td><td>64,49%</td><td>100,00%</td><td>Kinh doanh hàng hóa tiêu dùng</td></tr><tr><td>8</td><td>Công ty CP Giống Cây trồng Nông Tín</td><td>Hồ Chí Minh</td><td>44,03%</td><td>77,67%</td><td>Sản xuất, kinh doanh giống cây trồng</td></tr><tr><td>9</td><td>Công ty CP Westfood Hậu Giang</td><td>Hậu Giang</td><td>53,70%</td><td>98,00%</td><td>Chế biến nông sản</td></tr><tr><td>10</td><td>Công ty Liên doanh Sản xuất Kinh doanh, Xuất nhập khẩu Dược phẩm và Trang thiết bị y tế</td><td>Lào</td><td>38,05%</td><td>51,00%</td><td>Giới thiệu thuốc</td></tr><tr><td>11</td><td>Công ty TNHH MTV Dược phẩm VPC-Sài Gòn</td><td>Hồ Chí Minh</td><td>74,61%</td><td>100,00%</td><td>Kinh doanh được phẩm, dụng cụ y tế</td></tr><tr><td>12</td><td>Công ty CP Dược phẩm Benovas</td><td>Hồ Chí Minh</td><td>74,53%</td><td>99,90%</td><td>Kinh doanh được phẩm, trang thiết bị y tế</td></tr><tr><td>13</td><td>Công ty CP Thiết bị Y tế Benovas</td><td>Vĩnh Long</td><td>46,26%</td><td>62,00%</td><td>Sản xuất và kinh doanh dụng cụ, trang thiết bị y tế</td></tr><tr><td>14</td><td>Công ty CP Thuốc Ung thư Benovas</td><td>Hà Nội</td><td>41,04%</td><td>55,00%</td><td>Sản xuất thuốc, hóa được và được liệu</td></tr><tr><td></td><td colspan="5">Công ty liên kết</td></tr><tr><td>1</td><td>Công ty Cổ phần nước khoáng Khánh Hòa</td><td>Khánh Hòa</td><td>31,60%</td><td>49,00%</td><td>Sản xuất nước khoáng và các sản phẩm từ nước khoáng</td></tr><tr><td>2</td><td>Công ty Cổ phần FIT Cosmetics</td><td>Hồ Chí Minh</td><td>25,33%</td><td>39,28%</td><td>Phân phối ngành hóa mỹ phẩm</td></tr><tr><td>3</td><td>Công ty Cổ phần Mũi Dinh Ecopark</td><td>Ninh Thuận</td><td>49,84%</td><td>50,00%</td><td>Dịch vụ hỗ trợ liên quan đến vận tải, dịch vụ lưu trú ngắn ngày, dịch vụ ăn uống phục vụ lưu động, bán buôn đồ uống</td></tr></table>
+
+12
+
+===== PAGE 14 =====
+□ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □
+
+CÔNG TY CỔ PHẦN TẬP ĐOÀN F.I.T
+
+Tàng 5, toa Times Tower - HACC1 Complex Building,
+
+35 Lê Văn Lương, P. Nhân Chính, Q. Thanh Xuân, TP. Hà Nội
+
+BÁO CÁO TÀI CHÍNH RIÊNG
+
+Cho năm tài chính
+
+kết thúc ngày 31/12/2020
+
+THUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG (TIẾP)
+
+(Các thuyết minh này là bộ phận hợp thành và cần được đọc đồng thời với Báo cáo tài chính kèm theo
+
+1. ĐẶC ĐIỂM HOẠT ĐỘNG CỦA DOANH NGHIỆP (TIẾP)
+
+1.5 TUYÊN BÓ VỀ KHẢ NĂNG SO SÁNH THÔNG TIN TRÊN BÁO CÁO TÀI CHÍNH RIÊNG
+
+Số liệu so sánh trên Báo cáo tài chính riêng cho năm tài chính kết thúc ngày 31/12/2020 là số liệu trên Báo cáo tài chính riêng cho năm tài chính kết thúc ngày 31/12/2019 của Công ty đã được kiểm toán và hoàn toàn có thể so sánh được.
+
+2. KÝ KẾ TOÁN, CHUẢN MỤC KẾ TOÁN VÀ CHẾ ĐỘ KẾ TOÁN ÁP DỤNG
+
+2.1 NĂM TÀI CHÍNH
+
+Năm tài chính của Công ty từ ngày 01 tháng 01 đến ngày 31 tháng 12 năm dương lịch. Báo cáo tài chính riêng kèm theo được lập cho năm tài chính kết thúc ngày 31/12/2020.
+
+2.2 ĐƠN VỊ TIỀN TỆ SỦ DỤNG TRONG KẾ TOÁN
+
+Đơn vị tiền tệ sử dụng trong kế toán là Đồng Việt Nam (VND) do việc thu, chi chủ yếu được thực hiện bằng đơn vị tiền tệ VND.
+
+2.3 CHẾ ĐỘ KẾ TOÁN ÁP DỤNG
+
+Công ty áp dụng các Chuẩn mực Kế toán, Chế độ kế toán Doanh nghiệp Việt Nam được ban hành theo Thông tư số 200/2014/TT-BTC ngày 22/12/2014 và các Thông tư hướng dẫn thực hiện Chuẩn mực Kế toán của Bộ Tài chính trong việc lập và trình bày Báo cáo tài chính riêng.
+
+2.4 CƠ SỞ LẬP BÁO CÁO TÀI CHÍNH RIÊNG
+
+Báo cáo tài chính riêng được lập trên cơ sở kế toán dồn tích (trừ các thông tin liên quan đến các luồng tiền). Các chính sách kế toán Công ty sử dụng để lập Báo cáo tài chính riêng cho năm tài chính kết thúc ngày 31/12/2020 được áp dụng nhất quán với các chính sách đã được sử dụng để lập Báo cáo tài chính riêng cho năm tài chính kết thúc ngày 31/12/2019.
+
+2.5 TUYÊN BỔ VỀ VIỆC TUÂN THỦ CHUẢN MỤC KẾ TOÁN VÀ CHẾ ĐỘ KẾ TOÁN
+
+Ban Tổng Giám đốc đảm bảo đã tuân thủ yêu cầu của các Chuẩn mực kế toán, Chế độ kế toán doanh nghiệp Việt Nam được ban hành theo Thông tư số 200/2014/TT-BTC ngày 22/12/2014 (Thông tư 200), Thông tư 53/2016/TT-BTC ngày 21/03/2016 (Thông tư 53) sửa đổi bổ sung Thông tư 200 cũng như các Thông tư hướng dẫn thực hiện chuẩn mực kế toán của Bộ Tài chính trong việc lập Báo cáo tài chính.
+
+Báo cáo tài chính riêng kèm theo không phần ánh tình hình tài chính, kết quả hoạt động kinh doanh và tình hình lưu chuyển tiền tệ theo các nguyên tắc và thông lệ kế toán được chấp nhận chung ở các nước khác ngoài Việt Nam.
+
+3. CÁC CHÍNH SÁCH KẾ TOÁN ÁP DỤNG
+
+Sau đây là các chính sách kế toán chủ yếu được Công ty áp dụng trong việc lập Báo cáo tài chính riêng:
+
+13
+
+===== PAGE 15 =====
+□ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □
+
+CÔNG TY CỔ PHẦN TẬP ĐOÀN F.I.T
+
+Tàng 5, tòa Times Tower - HACC1 Complex Building,
+
+35 Lê Văn Lương, P. Nhân Chính, Q. Thanh Xuân, TP. Hà Nội
+
+BÁO CÁO TÀI CHÍNH RIÊNG
+
+Cho năm tài chính
+
+kết thúc ngày 31/12/2020
+
+THUYÊT MINH BÁO CÁO TÀI CHÍNH RIÊNG (TIẾP)
+
+(Các thuyết minh này là bộ phận hợp thành và cần được đọc đồng thời với Báo cáo tài chính kèm theo
+
+3. CÁC CHÍNH SÁCH KÊ TOÁN ÁP DỤNG (TIẾP)
+
+3.1 UỐC TÍNH KẾ TOÁN
+
+Việc lập Báo cáo tài chính riêng tuân thủ theo Chuẩn mực kế toán, Chế độ kế toán doanh nghiệp Việt Nam và các quy định pháp lý có liên quan đến việc lập và trình bày Báo cáo tài chính yêu cầu Ban Tổng Giám đốc phải có những ước tính và giả định ảnh hưởng đến số liệu báo cáo về các công nợ, tài sản và việc trình bày các khoản công nợ và tài sản tiềm tàng tại ngày lập Báo cáo tài chính cũng như các số liệu báo cáo về doanh thu và chi phí trong suốt năm tài chính (kỳ hoạt động). Mặc dù các ước tính kế toán được lập bằng tất cả sự hiểu biết của Ban Tổng Giám đốc, số thực tế phát sinh có thể khác với các ước tính, giả định đặt ra.
+
+3.2 ĐÁNH GIÁ VÀ GHI NHẬN THEO GIÁ TRỊ HỢP LÝ
+
+Luật Kế toán số 88/2015/QH13 đã được Quốc hội nước Cộng hòa Xã hội chủ nghĩa Việt Nam khóa XIII, kỳ hợp số 10 thông qua ngày 20/11/2015 có hiệu lực từ ngày 01/01/2017. Theo quy định tại điều 28 – Đánh giá và ghi nhận Theo giá trị hợp lý. Tuy nhiên, đến thời điểm phát hành báo cáo này, chưa có văn bản hướng dẫn trong việc áp dụng đánh giá và ghi nhận theo giá trị hợp lý, do đó, Công ty chưa áp dụng giá trị hợp lý trong trình bày Báo cáo tài chính riêng.
+
+Như đã trình bày ở trên, Luật kế toán đã có hiệu lực từ ngày 01/01/2017, trong đó bao gồm quy định về đánh giá và ghi nhận theo giá trị hợp lý, tuy nhiên chưa có hướng dẫn cụ thể cho vấn đề này, theo đó, Ban Tổng Giám đốc đã xem xét và áp dụng như sau:
+
+a) Công cụ tài chính (trừ các khoản đầu tư dài hạn khác, đầu tư vào công ty con) được ghi nhận và đánh giá lại theo giá trị hợp lý theo cơ sở giá gốc trừ đi các khoản dự phòng cần trích lập (nếu có) theo quy định hiện hành;
+
+b) Các khoản mục tiền tệ có gốc ngoại tệ được đánh giá theo tỷ giá giao dịch thực tế;
+
+c) Bất động sản đầu tư xác định được giá trị hợp lý được trình bày cụ thể tại các thuyết minh;
+
+d) Đối với tài sản và nợ phải trả (ngoài các mục a,b,c nêu trên) Công ty không có cơ sở để xác định được giá trị hợp lý một cách đáng tin cây do đó Công ty đang ghi nhận theo giá gốc.
+
+3.3 CÔNG CỤ TÀI CHÍNH
+
+Ghi nhận ban đầu
+
+Tài sản tài chính: Tại ngày ghi nhận ban đầu, tài sản tài chính được ghi nhận theo giá gốc cộng các chi phí giao dịch có liên quan trực tiếp đến việc mua sắm tài sản tài chính đó. Tài sản tài chính của Công ty bao gồm tiền, các khoản tương đương tiền, các khoản phải thu khách hàng, phải thu khác, các khoản ký quỹ và các khoản đầu tư tài chính.
+
+Nợ phải trả tài chính: Tại ngày ghi nhận ban đầu, nợ phải trả tài chính được ghi nhận Theo giá gốc trừ đi các chi phí giao dịch có liên quan trực tiếp đến việc phát hành công nợ tài chính đó. Nợ phải trả tài chính của Công ty bao gồm các khoản phải trả người bán, phải trả khác, các khoản chi phí phải trả, các khoản nợ thuê tài chính và các khoản vay.
+
+3.3 TIỀN VÀ CÁC KHOẢN TƯƠNG ĐƯƠNG TIỀN
+
+Tiền và các khoản tương đương tiền bao gồm tiền mặt tại quỹ, tiền gửi ngân hàng, tiền đang chuyển, các khoản đầu tư ngắn hạn hoặc các khoản đầu tư có tính thanh khoản cao. Các khoản đầu tư có tính thanh khoản cao là các khoản có kỳ hạn gốc không quá 03 tháng, có khả năng chuyển đổi thành các khoản tiền xác định và ít rủi ro liên quan đến việc chuyển đổi giá trị của các khoản này.
+
+14
+
+===== PAGE 16 =====
+□ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □
+
+CÔNG TY CỔ PHẦN TẬP ĐOÀN F.I.T
+
+Tàng 5, tòa Times Tower - HACC1 Complex Building,
+
+35 Lê Văn Lương, P. Nhân Chính, Q. Thanh Xuân, TP. Hà Nội
+
+BÁO CÁO TÀI CHÍNH RIÊNG
+
+Cho năm tài chính
+
+kết thúc ngày 31/12/2020
+
+THUYÊT MINH BÁO CÁO TÀI CHÍNH RIÊNG (TIẾP)
+
+(Các thuyết minh này là bộ phận hợp thành và cần được đọc đồng thời với Báo cáo tài chính kèm theo
+
+3. CÁC CHÍNH SÁCH KẾ TOÁN ÁP DỤNG (TIẾP)
+
+3.4 CÁC KHOẢN ĐẦU TƯ TÀI CHÍNH
+
+Chứng khoán kinh doanh
+
+Chứng khoán kinh doanh là các loại chứng khoán được nằm giữ vì mục đích kinh doanh (kể cả chứng khoán có thời gian đáo hạn trên 12 tháng mua vào, bán ra để kiểm lời).
+
+Chứng khoán kinh doanh được ghi nhận bắt đầu từ ngày Công ty có quyền sở hữu và được xác định giá trị ban đầu theo giá trị hợp lý của các khoản thanh toán tại thời điểm giao dịch phát sinh cộng các chi phí liên quan đến giao dịch mua bán chứng khoán kinh doanh. Tại các kỳ kế toán tiếp theo, các khoản đầu tư chứng khoán được xác định theo giá gốc trừ các khoản giảm giá chứng khoán kinh doanh.
+
+Dự phòng giảm giá chứng khoán kinh doanh được lập cho từng loại chứng khoán có giá trị thị trường bị giảm xuống thấp hơn giá gốc.
+
+Đối với cổ phiếu đã niêm yết trên thị trường chứng khoán, giá trị hợp lý là giá đóng cửa niêm yết trên thị trường chứng khoán tại ngày gần nhất có giao dịch tính đến thời điểm lập Báo cáo tài chính riêng. Đối với cổ phiếu đã đăng ký giao dịch trên thị trường giao dịch của các công ty đại chúng chưa niêm yết và các doanh nghiệp nhà nước thực hiện cổ phần hóa dưới hình thức chào bán chứng khoán ra công chúng (Upcom) thì già trị hợp lý được xác định là giá tham chiếu bình quân trong 30 ngày giao dịch liên kể gần nhất trước thời điểm lập Báo cáo tài chính do Sở Giao dịch chứng khoán công bố. Đối với các chứng khoán chưa đăng ký giao dịch trên thị trường, Công ty không đánh giá giá trị hợp lý do không có đủ thông tin.
+
+Tăng, giảm số trích lập dự phòng cần phải ghi nhận/hoàn nhập được ghi nhận vào chí phí tài chính trong năm.
+
+Đầu tư nằm giữ đến ngày đáo hạn
+
+Khoản đầu tư được phân loại là nằm giữ đến ngày đáo hạn khi Công ty có ý định và khả năng giữ đến ngày đáo hạn. Các khoản đầu tư nằm giữ đến ngày đáo hạn bao gồm: các khoản tiền gửi ngân hàng có kỳ hạn, trái phiếu và các khoản đầu tư khác.
+
+Các khoản đầu tư nắm giữ đến ngày đáo hạn được ghi nhận bắt đầu từ ngày mua và được xác định giá trị ban đầu theo giá mua và các chi phí liên quan đến giao dịch mua các khoản đầu tư. Thu nhập từ lãi các khoản đầu tư nắm giữ đến ngày đáo hạn sau ngày mua được ghi nhận trên Báo cáo kết quả hoạt động kinh doanh trên cơ sở dự thu. Lãi được hưởng trước khi Công ty nắm giữ đc ghi giảm trừ vào giá gốc tại thời điểm mua.
+
+Các khoản đầu tư nằm giữ đến ngày đáo hạn được xác định theo giá gốc trừ đi dự phòng phải thu khó đòi.
+
+Dự phòng phải thu khó đòi của khoản đầu tư nắm giữ đến ngày đáo hạn được trích lập dựa theo các quy định hiện hành.
+
+Các khoản cho vay
+
+Các khoản cho vay được xác định theo giá gốc trừ đi các khoản dự phòng phải thu khó đòi. Dự phòng phải thu khó đòi các khoản cho vay của Công ty được trích lập dựa theo các quy định hiện hành.
+
+15
+
+1. 2. 3. 4. 5. 6. 7. 8. 9. 10. 11. 12. 13. 14. 15. 16. 17. 18. 19. 20. 21. 22. 23. 24. 25. 26. 27. 28. 29. 30. 31. 32. 33. 34. 35. 36. 37. 38. 39. 40. 41. 42. 43. 44. 45. 46. 47. 48. 49. 50. 51. 52. 53. 54. 55. 56. 57. 58. 59. 60. 61. 62. 63. 64. 65. 66. 67. 68. 69. 70. 71. 72. 73. 74. 75. 76. 77. 78. 79. 80.
+
+===== PAGE 17 =====
+The image contains only a row of blank, thin, horizontal lines that are stylistic or background elements. According to the correction guidelines, such lines must be ignored and not converted into any text symbols. Therefore, the correct OCR output is empty.
+
+(no text)
+
+CÔNG TY CỔ PHẦN TẬP ĐOÀN F.I.T
+
+Tàng 5, tòa Times Tower - HACC1 Complex Building,
+
+35 Lê Văn Lương, P. Nhân Chính, Q. Thanh Xuân, TP. Hà Nội
+
+BÁO CÁO TÀI CHÍNH RIÊNG
+
+Cho năm tài chính
+
+kết thúc ngày 31/12/2020
+
+THUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG (TIẾP)
+
+(Các thuyết minh này là bộ phận hợp thành và cần được đọc đồng thời với Báo cáo tài chính kèm theo
+
+3. CHUẢN MỤC VÀ CHẾ ĐỘ KẾ TOÁN ÁP DỤNG (TIẾP)
+
+3.4 CÁC KHOẢN ĐẦU TƯ TÀI CHÍNH (TIẾP)
+
+Các khoản đầu tư vào Công ty con
+
+Công ty con là các công ty do Công ty kiểm soát. Kiểm soát là quyền chi phối các chính sách tài chính và hoạt động của một doanh nghiệp hoặc hoạt động kinh doanh nhằm thu được lợi ích kinh tế từ các hoạt động của doanh nghiệp hoặc hoạt động kinh doanh đó.
+
+Thời điểm ghi nhận ban đầu của khoản đầu tư vào Công ty con được mua trong năm là ngày mà Công ty đạt được quyền kiểm soát thực tế đối với đơn vị được đầu tư.
+
+Đầu tư vào Công ty liên kết, liên doanh
+
+- Công ty liên doanh: Là doanh nghiệp được thành lập trên cơ sở thỏa thuận trên hợp đồng mà theo đó Công ty và các bên tham gia thực hiện hoạt động kinh tế trên cơ sở đồng kiểm soát. Đồng kiểm soát được hiểu là việc đưa ra các quyết định mang tính chiến lược liên quan đến các chính sách hoạt động và tài chính của công ty liên doanh phải có sự đồng thuận của các bên tham gia liên doanh.
+
+- Công ty liên kết: Là doanh nghiệp mà Công ty có ảnh hưởng đáng kể nhưng không có quyền kiểm soát đối với các chính sách tài chính và hoạt động. Ảnh hưởng đáng kể thể hiện ở quyền tham gia vào việc đưa ra các quyết định về chính sách tài chính và hoạt động của doanh nghiệp nhận đầu tư nhưng không kiểm soát các chính sách này.
+
+Các khoản đầu tư vào công ty con, công ty liên doanh, liên kết được trình bày trên Bảng cân đối kế toán riêng theo giá gốc trừ đi các khoản dự phòng giảm giá (nếu có). Dự phòng giảm giá đầu tư vào công ty con được trích lập theo quy định tại Thông tư 48/2019/TT-BTC ngày 08/08/2019 của Bộ tài chính về “Hướng dẫn chế độ trích lập và sử dụng các khoản dự phòng giảm giá hàng tồn kho, tổn thất các khoản đầu tư tài chính, nợ phải thu khó đòi và bảo hành sản phẩm, hàng hóa, công trình xây lắp tại doanh nghiệp” và các quy định kế toán hiện hành.
+
+Cổ tức và lợi nhuận của các kỳ trước khi khoản đầu tư được mua được hạch toán giảm giá trị của chính khoản đầu tư đó. Cổ tức và lợi nhuận của các kỳ sau khi khoản đầu tư được mua được ghi nhận doanh thu tài chính.
+
+Đầu tư vào công cụ vốn của đơn vị khác
+
+Đầu tư vào công cụ vốn của đơn vị khác bao gồm các khoản đầu tư công cụ vốn nhưng Công ty không có quyền kiểm soát, đồng kiểm soát hoặc có ảnh hưởng đáng kể đối với bên được đầu tư. Khoản đầu tư vào công cụ vốn của đơn vị khác được phản ánh theo nguyên giá trừ các khoản dự phòng giảm giá đầu tư.
+
+Dự phòng tổn thất đầu tư vào đơn vị khác được trích lập như sau
+
+Đối với khoản đầu tư vào cổ phiếu niêm yết hoặc giá trị hợp lý khoản đầu tư được xác định tin cây, việc lập dự phòng dựa trên giá trị thị trường của cổ phiếu.
+
+Đối với các khoản đầu tư không xác định được giá trị hợp lý tại thời điểm lập báo cáo, Công ty trích lập dự phòng tổn thất đầu tư vào đơn vị khác căn cứ vào lỗ trên Báo cáo tài chính của đơn vị được đầu tư, trường hợp đơn vị được đầu tư có công ty con, căn cứ trích lập là Báo cáo tài chính hợp nhất. Việc bổ sung/hoàn nhập dự phòng trích lập trong kỳ được ghi nhận vào chi phí tài chính.
+
+16
+
+===== PAGE 18 =====
+□ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □
+
+CÔNG TY CỔ PHẦN TẬP ĐOÀN F.I.T
+
+Tàng 5, tòa Times Tower - HACC1 Complex Building,
+35 Lê Văn Lương, P. Nhân Chính, Q. Thanh Xuân, TP. Hà Nội
+
+BÁO CÁO TÀI CHÍNH RIÊNG
+
+Cho năm tài chính
+kết thúc ngày 31/12/2020
+
+THUYÊT MINH BÁO CÁO TÀI CHÍNH RIÊNG (TIẾP)
+
+(Các thuyết minh này là bộ phận hợp thành và cần được đọc đồng thời với Báo cáo tài chính kèm theo
+
+3. CHUẢN MỤC VÀ CHẾ ĐỘ KẾ TOÁN ÁP DỤNG (TIẾP)
+
+3.5 CÁC KHOẢN PHẢI THU VÀ DỰ PHÒNG NỘ PHẢI THU KHÓ ĐỜI
+
+Các khoản phải thu gồm: các khoản phải thu khách hàng, khoản trả trước cho người bán và các khoản phải thu khác tại thời điểm báo cáo.
+
+Việc phân loại các khoản phải thu là phải thu khách hàng và phải thu khác được thực hiện theo nguyên tắc sau:
+
+- Phải thu của khách hàng phần ánh các khoản phải thu mang tính chất thương mại phát sinh từ giao dịch có tính chất mua - bán giữa Công ty và người mua là đơn vị độc lập với Công ty;
+
+- Phải thu khác phản ánh các khoản phải thu không có tính thương mại, không liên quan đến giao dịch mua - bán.
+
+Dự phòng phải thu khó đòi được lập cho từng khoản nợ phải thu quá hạn thanh toán từ sáu tháng trở lên, hoặc các khoản nợ phải thu mà người nợ khó có khả năng thanh toán do bị thanh lý, phá sản hay các khó khăn tương tự.
+
+3.6 TÀI SẢN CÓ ĐỊNH HỮU HÌNH VÀ HAO MÒN
+
+Tài sản cố định hữu hình được trình bày theo nguyên giá trừ giá trị hao mòn lũy kế. Nguyên giá tài sản cố định hữu hình bao gồm toàn bộ các chi phí mà Công ty phải bỏ ra để có được tài sản cố định tính đến thời điểm đưa tài sản đó vào trạng thái sẵn sàng sử dụng.
+
+Nguyên giá tài sản cố định hữu hình do tự làm, tự xây dựng bao gồm chi phí xây dựng, chi phí sản xuất thực tế phát sinh cộng vào chi phí lắp đặt và chạy thử.
+
+Tài sản cố định hữu hình được khấu hao theo phương pháp đường thẳng dựa trên thời gian hữu dụng ước tính, cụ thể như sau:
+
+<table><tr><td>Nhóm tài sản cố định</td><td>Thời gian sử dụng (năm)</td></tr><tr><td>Nhà cửa, vật kiến trúc</td><td>25 - 50</td></tr><tr><td>Phương tiện vận tải</td><td>06</td></tr><tr><td>Thiết bị, dụng cụ quản lý và TSCĐ khác</td><td>02 - 03</td></tr></table>
+
+3.7 TÀI SẢN CÓ ĐỊNH VÔ HÌNH
+
+Tài sản cố định vô hình được thể hiện theo nguyên giá trừ hao mòn lũy kế. Tài sản cố định vô hình của Công ty bao gồm quyền sử dụng đất và phần mềm máy vi tính. Quyền sử dụng đất được phân bổ theo phương pháp đường thẳng dựa trên thời gian sử dụng lô đất. Quyền sử dụng đất có thời gian sử dụng lâu dài không trích khấu hao.
+
+3.8 BẮT ĐỘNG SẢN ĐẦU TƯ
+
+Bất động sản đầu tư bao gồm nhà cửa, vật kiến trúc do công ty nằm giữ nhằm mục đích thu lợi từ việc cho thuê được trình bày theo nguyên giá trừ giá trị hao mòn lũy kế. Nguyên giá của bất động sản đầu tư được mua bao gồm giá mua và các chi phí liên quan trực tiếp như phí dịch vụ tư vấn về luật pháp liên quan, thuê trước bạ và chi phí giao dịch liên quan khác.
+
+Bất động sản đầu tư được ghi nhận theo giá gốc và được khấu hao theo phương pháp đường thẳng trên thời gian hữu dụng ước tính trong vòng 25 - 47 năm.
+
+17
+
+10.1 10.1
+
+===== PAGE 19 =====
+The image contains only a row of identical, plain horizontal lines that are stylistic or background elements. According to the correction guidelines, such lines must be ignored by the OCR result. Therefore, the correct OCR output is empty.
+
+(no text)
+
+CÔNG TY CỔ PHẦN TẬP ĐOÀN F.I.T
+
+Tàng 5, toa Times Tower - HACC1 Complex Building,
+
+35 Lê Văn Lương, P. Nhân Chính, Q. Thanh Xuân, TP. Hà Nội
+
+BÁO CÁO TÀI CHÍNH RIÊNG
+
+Cho năm tài chính
+
+kết thúc ngày 31/12/2020
+
+THUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG (TIẾP)
+
+(Các thuyết minh này là bộ phận hợp thành và cần được đọc đồng thời với Báo cáo tài chính kèm theo
+
+3. CHUẢN MỤC VÀ CHẾ ĐỘ KẾ TOÁN ÁP DỤNG (TIẾP)
+
+3.9 CHI PHÍ XÂY DỰNG CƠ BẢN DỞ DANG
+
+Các tài sản đang trong quá trình xây dựng phục vụ mục đích sản xuất, cho thuê, quản trị hoặc cho bắt kỳ mục đích nào khác được ghi nhận theo giá gốc. Chi phí này bao gồm chi phí dịch vụ và chi phí lãi vay có liên quan phù hợp với chính sách phù hợp với chính sách kế toán của Công ty. Việc tính khấu hao của các tài sản này được sử dụng giống như các tài sản hác, bắt đầu từ khi tài sản ở trạng thái sẵn sàng sử dụng.
+
+3.10 CHI PHÍ TRẢ TRƯỚC DÀI HẠN
+
+Các khoản chi phí trả trước dài hạn bao gồm công cụ, dụng cụ, linh kiện loại nhỏ chờ phân bổ. Các chi phí được phân bổ vào Báo cáo Kết quả hoạt động kinh doanh, sử dụng phương pháp đường thẳng trong vòng hai năm.
+
+3.11 CÁC KHOẢN NỘ PHẢI TRẢ VÀ CHI PHÍ PHẢI TRẢ
+
+Việc phân loại các khoản phải trả là phải trả người bán, chỉ phí phải trả và phải trả khác được thực hiện theo nguyên tắc sau:
+
+- Phải trả người bán phần ánh các khoản phải trả mang tính chất thương mại phát sinh từ giao dịch mua hàng hóa, dịch vụ, tài sản và người bán là đơn vị độc lập với Công ty, bao gồm cả các khoản phải trả khi nhập khẩu thông qua người nhận ủy thác;
+
+- Chi phí phải trả phản ánh các khoản phải trả cho hàng hóa, dịch vụ đã nhận được từ người bán hoặc đã cung cấp cho người mua nhưng chưa chi trả do chưa có hóa đơn hoặc chưa đủ hồ sơ, tài liệu kế toán và các khoản phải trả cho người lao động về tiền lương nghi phép, các khoản chi phí sản xuất, kinh doanh phải trích trước;
+
+- Phải trả khác phản ánh các khoản phải trả không có tính thương mại, không liên quan đến giao dịch mua, bán, cung cấp hàng hóa dịch vụ.
+
+3.12 VỐN CHỦ SỞ HỮU
+
+Vốn góp của chủ sở hữu: Vốn góp của chủ sở hữu được ghi nhận theo số vốn thực tế đã góp của các cổ đông.
+
+Thăng dư vốn cổ phần: Thăng dư vốn cổ phần được ghi nhận theo số chênh lệch giữa giá phát hành và mênh giá cổ phiếu khi phát hành lần đầu, phát hành bổ sung, chênh lệch giữa giá trị phát hành và giá trị sổ sách của cổ phiếu quỹ và cấu phần vốn của trái phiếu chuyển đổi khi đáo hạn. Chi phí trực tiếp liên quan đến việc phát hành bổ sung cổ phiếu và tái phát hành cổ phiếu quỹ được ghi giảm thăng dư vốn cổ phần.
+
+3.13 PHÂN PHỐI LỢI NHUẬN
+
+Lợi nhuận sau thuế thu nhập doanh nghiệp được phân phối cho các cổ đông sau khi đã trích lập các quỹ theo Điều lệ của Công ty cũng như các quy định của pháp luật và đã được Đại hội đồng cổ đông phê duyệt.
+
+Việc phân phối lợi nhuận cho các cổ đông được cân nhắc đến các khoản mục phi tiền tệ nằm trong lợi nhuận sau thuế chưa phân phối có thể ảnh hưởng đến luồng tiền và khả năng chi trả cổ tức/lợi nhuận như lãi do đánh giá lại tài sản mang đi góp vốn, lãi do đánh giá lại các khoản mục tiền tệ, các công cụ tài chính và các khoản mục phi tiền tệ khác.
+
+Cổ tức/lợi nhuận được ghi nhận là nợ phải trả khi được Đại hội đồng cổ đông phê duyệt.
+
+18
+
+\( \therefore {S}_{\Delta APQ} = {S}_{\Delta AQP} + {S}_{\Delta PQQ} \)
+
+===== PAGE 20 =====
+The image contains only a row of blank, thin, horizontal lines that are stylistic or background elements. According to Rule 2, such lines must be ignored by the OCR result. Therefore, the correct OCR output is empty.
+
+(no text)
+
+CÔNG TY CỔ PHẦN TẬP ĐOÀN F.I.T
+
+Tàng 5, toa Times Tower - HACC1 Complex Building,
+
+35 Lê Văn Lương, P. Nhân Chính, Q. Thanh Xuân, TP. Hà Nội
+
+BÁO CÁO TÀI CHÍNH RIÊNG
+
+Cho năm tài chính
+
+kết thúc ngày 31/12/2020
+
+THUYÊT MINH BÁO CÁO TÀI CHÍNH RIÊNG (TIẾP)
+
+(Các thuyết minh này là bộ phận hợp thành và cần được đọc đồng thời với Báo cáo tài chính kèm theo
+
+3. CHUẦN MỰC VÀ CHẾ ĐỘ KẾ TOÁN ÁP DỤNG (TIẾP)
+
+3.14 CÁC GIAO DỊCH BẢNG NGOẠI TỆ
+
+Tỷ giá sử dụng đề quy đổi các giao dịch phát sinh bằng ngoại tệ là tỷ giá giao dịch thực tế tại thời điểm phát sinh giao dịch. Tỷ giá giao dịch thực tế đối với các giao dịch bằng ngoại tệ được xác định như sau:
+
+- Đối với nợ phải thu: tỷ giá mua của Ngân hàng Thương mại nơi Công ty chỉ định khách hàng thanh toán tại thời điểm giao dịch phát sinh.
+
+- Đối với nợ phải trả: tỷ giá bán của Ngân hàng Thương mại nơi Công ty dự kiến giao dịch tại thời điểm giao dịch phát sinh.
+
+- Đối với các giao dịch mua sắm tài sản hoặc các khoản chi phí được thanh toán ngay bằng ngoại tệ (không qua các tài khoản phải trả): tỷ giá mua của Ngân hàng Thương mại nơi Công ty thực hiện thanh toán.
+
+Tỷ giá sử dụng để đánh giá lại số dư các khoản mục tiền tệ có gốc ngoại tệ tại ngày kết thúc kỳ kế toán được xác định theo tỷ giá thực tế của Ngân hàng Thương mại tại thời điểm cuối kỳ kế toán.
+
+Chênh lệch tỷ giá phát sinh trong kỳ từ các giao dịch bằng ngoại tệ được ghi nhận vào doanh thu hoạt động tài chính hoặc chi phí tài chính. Chênh lệch tỷ giá do đánh giá lại các khoản mục tiền tệ có gốc ngoại tệ tại ngày kết thúc kỳ kế toán sau khi bù trừ chênh lệch tăng và chênh lệch giảm được ghi nhận vào doanh thu hoạt động tài chính hoặc chi phí tài chính.
+
+3.15 GHI NHÂN DOANH THU
+
+Doanh thu được ghi nhận khi Công ty có khả năng nhận được các lợi ích kinh tế có thể xác định được một cách chắc chắn. Doanh thu thuần được xác định theo giá trị hợp lý của các khoản đã thu hoặc sẽ thu được sau khi trừ đi các khoản chiết khấu thương mại, giảm giá hàng bán và hàng bán bị trả lại.
+
+Doanh thu bán hàng
+
+Được ghi nhận khi thỏa mãn đồng thời tất cả năm (5) điều kiện sau:
+
+(a) Công ty đã chuyển giao phần lớn rủi ro và lợi ích gắn liền với quyền sở hữu sản phẩm hoặc hàng hóa cho người mua;
+
+(b) Công ty không còn nằm giữ quyền quản lý hàng hóa như người sở hữu hàng hóa hoặc quyền kiểm soát hàng hóa;
+
+(c) Doanh thu được xác định một cách tương đối chắc chắn;
+
+(d) Công ty sẽ thu được lợi ích kinh tế trong tương lai;
+
+(e) Xác định được các giao dịch liên quan đến bán hàng.
+
+Doanh thu cung cấp dịch vụ
+
+Doanh thu của giao dịch về cung cấp dịch vụ được ghi nhận khi kết quả của giao dịch đó được xác định một cách đáng tin cây. Trường hợp giao dịch cung cấp dịch vụ liên quan đến nhiều kỳ thì doanh thu được ghi nhận trong kỳ theo kết quả phần công việc đã hoàn thành tại ngày của Bảng cân đối kế toán của kỳ đó. Kết quả của giao dịch cung cấp dịch vụ được xác định khi thỏa mãn tất cả các điều kiện sau:
+
+(a) Doanh thu được xác định tương đối chắc chắn;
+
+(b) Công ty có khả năng thu được lợi ích kinh tế từ giao dịch cung cấp dịch vụ đó;
+
+(c) Phần công việc đã hoàn thành vào ngày lập Bảng Cân đối kế toán có thể xác định được; và
+
+(d) Chi phí phát sinh cho giao dịch và chi phí để hoàn thành giao dịch cung cấp dịch vụ đó có thể xác định được.
+
+19
+
+(1) \(x_{1}, x_{2}, \ldots, x_{n}\) 且 \(x_{1} \leqslant 0\)，且 \(x_{2} \leqslant 0\)，且 \(x_{3} \leqslant 0\)，且 \(x_{4} \leqslant 0\)。
+
+===== PAGE 21 =====
+□ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □
+
+CÔNG TY CỔ PHẦN TẬP ĐOÀN F.I.T
+
+Tàng 5, tòa Times Tower - HACC1 Complex Building,
+35 Lê Văn Lương, P. Nhân Chính, Q. Thanh Xuân, TP. Hà Nội
+
+BÁO CÁO TÀI CHÍNH RIÊNG
+
+Cho năm tài chính
+kết thúc ngày 31/12/2020
+
+THUYẾT MINH BẢO CÁO TÀI CHÍNH RIÊNG (TIẾP)
+
+(Các thuyết minh này là bộ phận hợp thành và cần được đọc đồng thời với Báo cáo tài chính kèm theo
+
+3. CHUẢN MỤC VÀ CHẾ ĐỘ KẾ TOÁN ÁP DỤNG (TIẾP)
+
+3.15 GHI NHÂN DOANH THU (TIÊP)
+
+Doanh thu hoạt động tài chính
+
+Là cổ tức, lợi nhuận được chia từ các đơn vị mà Công ty tham gia góp vốn và các khoản lãi tiền gửi ngân hàng. Cổ tức và lợi nhuận được chia được ghi nhận khi Công ty có quyền nhận.
+
+Lãi tiền gửi được ghi nhận trên cơ sở dồn tích, được xác định trên số dư các tài khoản tiền gửi và lãi suất thực tế từng kỳ.
+
+3.16 CHI PHÍ ĐI VAY
+
+Chi phí đi vay bao gồm lãi tiền vay và các chi phí khác phát sinh liên quan trực tiếp đến các khoản vay. Trong năm tài chính kết thúc ngày 31/12/2020, toàn bộ chi phí lãi vay phát sinh được ghi nhận vào chi phí tài chính trong kỳ.
+
+3.17 THUÊ
+
+Thuế thu nhập doanh nghiệp thể hiện tổng giá trị số thuế thu nhập hiện hành và số thuế thu nhập hoãn lại.
+
+Thuế thu nhập hiện hành
+
+Thuế thu nhập hiện hành được tính dựa trên thu nhập chịu thuế trong kỳ. Thu nhập chịu thuế khác với lợi nhuận thuần được trình bày trên báo cáo kết quả hoạt động kinh doanh vì không bao gồm các khoản thu nhập hay chi phí tính thuế hoặc được khấu trừ trong các kỳ khác (bao gồm cả lỗ mang sang, nếu có) và ngoài ra không bao gồm các chỉ tiêu không chịu thuế hoặc không được khấu trừ.
+
+Thuế thu nhập hoãn lại
+
+Thuế thu nhập hoãn lại là khoản thuế thu nhập doanh nghiệp sẽ phải nộp hoặc sẽ được hoàn lại do chênh lệch tạm thời giữa giá trị ghi sổ của tài sản và nợ phải trả cho mục đích lập Báo cáo tài chính và cơ sở tính thuế thu nhập. Thuế thu nhập hoãn lại phải trả được ghi nhận cho tất cả các khoản chênh lệch tạm thời chịu thuế. Tài sản thuế thu nhập hoãn lại chỉ được ghi nhận khi chắc chắn trong tương lai sẽ có lợi nhuận tính thuế để sử dụng những chênh lệch tạm thời được khấu trừ này.
+
+Tài sản thuế thu nhập hoãn lại và thuế thu nhập hoãn lại phải trả được xác định theo thuế suất dự tính sẽ áp dụng cho năm tài sản được thu hồi hay nợ phải trả được thanh toán dựa trên các mức thuế suất có hiệu lực tại ngày kết thúc năm tài chính. Thuế thu nhập hoãn lại được ghi nhận vào Báo cáo kết quả hoạt động kinh doanh và chỉ ghi trực tiếp vào vốn chủ sở hữu khi khoản thuế đó liên quan đến các khoản mục được ghi thắng vào vốn chủ sở hữu.
+
+Tài sản thuế thu nhập hoãn lại và thuế thu nhập hoãn lại phải trả được bù trừ khi: Công ty có quyền hợp pháp được bù trừ giữa tài sản thuế thu nhập hiện hành với thuế thu nhập hiện hành phải nộp; và Các tài sản thuế thu nhập hoãn lại và thuế thu nhập hoãn lại phải trả liên quan tới thuế thu nhập doanh nghiệp được quản lý bởi cùng một cơ quan thuế và Công ty có dự định thanh toán thuế thu nhập doanh nghiệp hiện hành trên cơ sở thuần.
+
+Việc xác định thuế thu nhập của Công ty căn cứ vào các quy định hiện hành về thuế. Tuy nhiên, những quy định này thay đổi theo từng thời kỳ và việc xác định sau cùng về thuế thu nhập doanh nghiệp tùy thuộc vào kết quả kiểm tra của cơ quan thuế có thẩm quyền.
+
+Các loại thuế khác được áp dụng theo các quy định về thuế hiện hành tại Việt Nam.
+
+20
+
+101 171 1141 6. 101
+
+===== PAGE 22 =====
+□ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □
+
+CÔNG TY CỔ PHẦN TẬP ĐOÀN F.I.T
+
+Tàng 5, toa Times Tower - HACC1 Complex Building,
+
+35 Lê Văn Lương, P. Nhân Chính, Q. Thanh Xuân, TP. Hà Nội
+
+BÁO CÁO TÀI CHÍNH RIÊNG
+
+Cho năm tài chính
+
+kết thúc ngày 31/12/2020
+
+THUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG (TIẾP)
+
+(Các thuyết minh này là bộ phận hợp thành và cần được đọc đồng thời với Báo cáo tài chính kèm theo
+
+3. CHUẦN MỰC VÀ CHẾ ĐỘ KẾ TOÁN ÁP DỤNG (TIẾP)
+
+3.18 CÁC BÊN LIÊN QUAN
+
+Các bên được coi là liên quan nếu một bên có khả năng kiểm soát hoặc có ảnh hưởng đáng kể đối với bên kia trong việc ra quyết định các chính sách tài chính và hoạt động. Bên liên quan bao gồm:
+
+Những doanh nghiệp có quyền kiểm soát, hoặc bị kiểm soát trực tiếp hoặc gián tiếp thông qua một hoặc nhiều bên trung gian, hoặc dưới quyền bị kiểm soát chung với Công ty gồm các công ty con, các bên liên doanh, cơ sở kinh doanh được đồng kiểm soát, các công ty liên kết;
+
+- Các cá nhân có quyền trực tiếp hoặc gián tiếp biểu quyết ở các doanh nghiệp Báo cáo dẫn đến có ảnh hưởng đáng kể tới doanh nghiệp này, các nhân viên quản lý chủ chốt có quyền và trách nhiệm về việc lập kế hoạch, quản lý và kiểm soát các hoạt động của Công ty kể cả các thành viên mật thiết trong gia đình của các cá nhân này;
+
+- Các doanh nghiệp do các cá nhân được nếu trên nằm trực tiếp hoặc gián tiếp quyền biểu quyết hoặc người đó có thể có ảnh hưởng đáng kể tới doanh nghiệp.
+
+3.19 BÁO CÁO BỘ PHẬN
+
+Bộ phận được Báo cáo là một bộ phận có thể phân biệt được của Công ty tham gia vào quá trình sản xuất hoặc cung cấp sản phẩm, dịch vụ riêng lẻ, một nhóm các sản phẩm hoặc các dịch vụ có liên quan (Bộ phận theo lĩnh vực kinh doanh) mà bộ phận này có rủi ro và lợi ích kinh tế khác với các bộ phận kinh doanh khác. Công ty trình bày Báo cáo bộ phận tại Báo cáo hợp nhất.
+
+4. TIÊN VÀ CÁC KHOẢN TƯƠNG ĐƯƠNG TIÊN
+
+<table><tr><td></td><td>31/12/2020VND</td><td>01/01/2020VND</td></tr><tr><td>Tiền mặt</td><td>19.355.266</td><td>5.304.241</td></tr><tr><td>Tiền gửi ngân hàng không kỳ hạn</td><td>98.562.270</td><td>281.047.569</td></tr><tr><td>Các khoản tương đương tiền</td><td>-</td><td>3.200.000.000</td></tr><tr><td></td><td>117.917.536</td><td>3.486.351.810</td></tr></table>
+
+5. PHẢI THU KHÁCH HÀNG
+
+<table><tr><td rowspan="2"></td><td colspan="2">31/12/2020</td><td colspan="2">01/01/2020</td></tr><tr><td>Giá trị VND</td><td>Dự phòng VND</td><td>Giá trị VND</td><td>Dự phòng VND</td></tr><tr><td>Ngắn hạn</td><td>5.777.534.326</td><td>(99.436.956)</td><td>4.514.020.937</td><td>(99.436.956)</td></tr><tr><td>Công ty CP FIT Cosmestics</td><td>3.367.072.240</td><td>-</td><td>2.762.416.240</td><td>-</td></tr><tr><td>Công ty CP Dược Phẩm Cửu Long</td><td>804.110.446</td><td>-</td><td>846.839.520</td><td>-</td></tr><tr><td>Công ty CP chế biến thực phẩm xuất khẩu Miền Tây</td><td>250.002.506</td><td>-</td><td>-</td><td>-</td></tr><tr><td>Công ty CP Thuốc Ung Thư BENOVAS</td><td>393.185.801</td><td>-</td><td>-</td><td>-</td></tr><tr><td>Công ty CP Nước khoáng Khánh Hòa</td><td>284.608.824</td><td>-</td><td>200.861.100</td><td>-</td></tr><tr><td>Chi nhánh Công ty CP FIT Cosmestic</td><td>256.537.000</td><td>-</td><td>256.537.000</td><td>-</td></tr><tr><td>Phải thu đối tượng khác</td><td>422.017.509</td><td>(99.436.956)</td><td>447.367.077</td><td>(99.436.956)</td></tr><tr><td></td><td>5.777.534.326</td><td>(99.436.956)</td><td>4.514.020.937</td><td>(99.436.956)</td></tr><tr><td>Trong đó: Phải thu của khách hàng là các bên liên</td><td>5.516.806.827</td><td></td><td>4.233.014.660</td><td></td></tr></table>
+
+Trong đó: Phải thu của khách hàng là các bên liên quan (chi tiết tại Thuyết minh số 26)
+
+21
+
+\( \left( {1 - x}\right)  = \left( {x - 2}\right) \)
+
+===== PAGE 23 =====
+□ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □
+
+CÔNG TY CỔ PHẦN TẬP ĐOÀN F.I.T
+
+Tàng 5, tòa Times Tower - HACC1 Complex Building,
+35 Lê Văn Lương, P. Nhân Chính, Q. Thanh Xuân, TP. Hà Nội
+
+THUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG (TIẾP)
+(Các thuyết minh này là bộ phận hợp thành và cần được đọc đồng thời với Báo cáo tài chính kèm theo)
+
+6. CÁC KHOẢN ĐẦU TƯ TÀI CHÍNH
+
+<table><tr><td colspan="3">31/12/2020</td><td colspan="3">01/01/2020</td></tr><tr><td>Giá gốcVND</td><td>Giá trị hợp lýVND</td><td>Dự phòng (*)VND</td><td>Giá gốcVND</td><td>Giá trị hợp lýVND</td><td>Dự phòng (*)VND</td></tr><tr><td>10.302.201.028</td><td>10.301.398.104</td><td>(802.924)</td><td>24.926.294.642</td><td>19.956.764.120</td><td>(4.969.530.522)</td></tr><tr><td>1.865.127.633</td><td>1.778.675.883</td><td>(86.451.750)</td><td>19.193.709.867</td><td>13.194.665.480</td><td>(5.999.044.387)</td></tr><tr><td>7.500.000.000</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>29.756.849.319</td><td>29.756.849.319</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>49.424.177.980</td><td></td><td>(87.254.674)</td><td>44.120.004.509</td><td></td><td>(10.968.574.909)</td></tr></table>
+
+I. Chứng khoán kinh doanh
+Tổng giá trị cổ phiếu
+Giá trị cổ phiếu đã được niêm yết
+Giá trị cổ phiếu giao dịch trên sàn Upcom
+Giá trị cổ phiếu chưa niêm yết
+Trái phiếu
+Trái phiếu chuyển đổi công ty CP đầu tư
+thương mại Hoa Sen Việt Nam (**)
+
+(*) Dự phòng được trích lập căn cứ vào giá thực tế theo quy định tại Thông tư 48/2019/TT-BTC hướng dẫn về trích lập dự phòng:
+- Đối với chứng khoán đã niêm yết: giá chứng khoán thực tế trên thị trường là giá đóng cửa niêm yết trên thị trường chứng khoán tại ngày gần nhất có giao dịch tính đến thời điểm lập Báo cáo tài chính riêng.
+- Đối với cổ phiếu đã đăng ký giao dịch trên thị trường giao dịch của các công ty đại chứng chưa niêm yết và các doanh nghiệp Nhà nước thực hiện cổ phần hóa dưới hình thức chào bán chứng khoán ra công chúng (Upcom) thì giá trị chứng khoán thực tế trên thị trường được xác định là giá tham chiếu bình quân trong 30 ngày giao dịch liền kê gần nhất trước thời điểm lập Báo cáo tài chính do Sở Giao dịch chứng khoán công bố.
+- Đối với các chứng khoán chưa đăng ký giao dịch trên thị trường, Công ty không đánh giá giá trị hợp lý và trích lập dự phòng do không có đủ thông tin.
+(**) Khoản mua trái phiếu chuyển đổi của Công ty Cổ phần Đầu tư Thương mại Hoa Sen theo hợp đồng số 01-18062020/MBTP/DNSE-FIT ngày 18/06/2020 giữa Công ty Cổ phần Tập đoàn F.I.T và Công ty Cổ phần chứng khoán Đại Nam, loại hình trái phiếu chuyển đổi có tài sản đảm bảo, ngày phát hành 11/08/2016, ngày đảo hạn 11/08/2021, mạnh giá là 100.000 VND/trái phiếu, lãi suất áp dụng trong trường hợp chọn chuyển đổi sang cổ phiếu của tổ chức phát hành tại ngày đáo hạn là 0%/năm hoặc 5%/năm trong trường hợp không chuyển đổi sang cổ phiếu. Tính đến thời điểm 31/12/2020, Công ty chưa ghi nhận lãi dự thu liên quan đến khoản đầu tư nêu trên do chưa chắc chắn về khả năng nắm giữ đến ngày đáo hạn cũng như lựa chọn chuyển đổi sang cổ phiếu của tổ chức phát hành hoặc không. Lãi dự thu cho giai đoạn trước khi nằm giữ là 4.818.493.151 đồng, cho giai đoạn sau ngày nằm giữ (18/06/2020) đến 31/12/2020 là 674.657.534 đồng.
+
+22
+
+===== PAGE 24 =====
+□ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □
+
+CÔNG TY CỔ PHẦN TẬP ĐOÀN F.I.T
+
+Tầng 5, tòa Times Tower - HACC1 Complex Building,
+35 Lê Văn Lương, P. Nhân Chính, Q. Thanh Xuân, TP. Hà Nội
+
+THUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG (TIẾP)
+(Các thuyết minh này là bộ phận hợp thành và cần được đọc đồng thời với Báo cáo tài chính kèm theo)
+
+6. CÁC KHOẢN ĐẦU TƯ TÀI CHÍNH (TIẾP)
+
+<table><tr><td rowspan="2"></td><td colspan="3">31/12/2020</td><td colspan="3">01/01/2020</td></tr><tr><td>Giá gốcVND</td><td>Giá trị ghi sốVND</td><td>Dự phòngVND</td><td>Giá gốcVND</td><td>Giá trị ghi sốVND</td><td>Dự phòngVND</td></tr><tr><td colspan="7">II. Đầu tư nằm giữ đến ngày đáo hạn</td></tr><tr><td>Ngắn hạn</td><td>739.993.513.591</td><td>739.778.369.863</td><td>(215.143.728)</td><td>856.005.257.828</td><td>855.790.114.100</td><td>(215.143.728)</td></tr><tr><td>- Tiền gửi có kỳ hạn (*)</td><td>172.681.369.863</td><td>172.681.369.863</td><td>-</td><td>280.000.000.000</td><td>280.000.000.000</td><td>-</td></tr><tr><td>- Trái phiếu</td><td>20.000.000.000</td><td>20.000.000.000</td><td>-</td><td>10.000.000.000</td><td>10.000.000.000</td><td>-</td></tr><tr><td>- Các khoản đầu tư khác (**)</td><td>547.312.143.728</td><td>547.097.000.000</td><td>(215.143.728)</td><td>566.005.257.828</td><td>565.790.114.100</td><td>(215.143.728)</td></tr><tr><td>Công Ty CP Đầu Tư Thương Mại Hoa Sen Việt Nam</td><td>105.000.000.000</td><td>105.000.000.000</td><td>-</td><td>304.551.407.000</td><td>304.551.407.000</td><td>-</td></tr><tr><td>Công ty CP Đầu tư Bất Đông Sản F.I.T</td><td>220.283.000.000</td><td>220.283.000.000</td><td>-</td><td>37.527.000.000</td><td>37.527.000.000</td><td>-</td></tr><tr><td>Công ty TNHH Xuất nhập khẩu và Thương mại F.I.T Việt Nam</td><td>135.000.000.000</td><td>135.000.000.000</td><td>-</td><td>12.165.000.000</td><td>12.165.000.000</td><td>-</td></tr><tr><td>Công ty CP FIT Cosmetics</td><td>6.475.000.000</td><td>6.475.000.000</td><td>-</td><td>22.500.000.000</td><td>22.500.000.000</td><td>-</td></tr><tr><td>Công ty CP Đầu tư và Phát triển Nông sản</td><td>70.339.000.000</td><td>70.339.000.000</td><td>-</td><td>99.795.068.000</td><td>99.795.068.000</td><td>-</td></tr><tr><td colspan="7">Hưng Yên</td></tr><tr><td>Công ty CP Today Cosmetics</td><td>10.000.000.000</td><td>10.000.000.000</td><td>-</td><td>10.000.000.000</td><td>10.000.000.000</td><td>-</td></tr><tr><td>Các công ty khác</td><td>-</td><td>-</td><td>-</td><td>79.251.639.100</td><td>79.251.639.100</td><td>-</td></tr><tr><td>Nguyễn Trương Ban</td><td>215.143.728</td><td>-</td><td>(215.143.728)</td><td>215.143.728</td><td>-</td><td>(215.143.728)</td></tr><tr><td>Dài hạn</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td></td><td>739.993.513.591</td><td>739.778.369.863</td><td>(215.143.728)</td><td>856.005.257.828</td><td>855.790.114.100</td><td>(215.143.728)</td></tr></table>
+
+(*) Các khoản tiền gửi có kỳ hạn từ trên 3 tháng đến 12 tháng tại các Ngân hàng Thương mại, lãi suất dao động từ 6,9%/năm đến 8,25%/năm. Tổng giá trị hợp đồng đang dùng để đảm bảo cho các khoản vay là 172.681.369.863 đồng.
+
+(**) Số dư Đầu tư ngắn hạn vào các tổ chức tại 31/12/2020 bao gồm Các hợp đồng hợp tác đầu tư với thời hạn hợp tác từ 6 tháng đến 12 tháng. Mục đích hợp tác là đầu tư nhằm dem lại hiệu quả kinh doanh cao nhất thông qua việc hợp tác đầu tư trong lĩnh vực tài chính. Công ty được hưởng lãi suất cố định từ 7,3%/năm đến 10%/năm không phụ thuộc vào kết quả kinh doanh.
+
+23
+
+===== PAGE 25 =====
+□ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □
+
+BÁO CÁO TÀI CHÍNH RIÊNG
+
+Cho năm tài chính
+kết thúc ngày 31/12/2020
+
+THUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG (TIẾP)
+
+(Các thuyết minh này là bộ phận hợp thành và cần được đọc đồng thời với Báo cáo tải chính kèm theo)
+
+6. CÁC KHOẢN ĐẦU TƯ TÀI CHÍNH (TIẾP)
+
+<table><tr><td rowspan="2"></td><td colspan="3">31/12/2020</td><td colspan="3">01/01/2020</td></tr><tr><td>Số lượng CP</td><td>Giá gốc VND</td><td>Dự phòng VND</td><td>Số lượng CP</td><td>Giá gốc VND</td><td>Dự phòng VND</td></tr><tr><td colspan="7">III. Đầu tư tài chính dài hạn</td></tr><tr><td>Đầu tư vào Công ty con</td><td></td><td>2.193.770.036.914</td><td>(20.587.180.739)</td><td></td><td>2.096.270.036.914</td><td>(11.940.120.365)</td></tr><tr><td>Công ty CP Vật tư Kỹ thuật Nông nghiệp Cần Thơ</td><td>83.700.523</td><td>880.593.089.954</td><td>-</td><td>83.700.523</td><td>880.593.089.954</td><td>-</td></tr><tr><td>Công ty TNHH Xuất nhập khẩu và Thương mại F.I.T</td><td></td><td>100.000.000.000</td><td>-</td><td>-</td><td>100.000.000.000</td><td>-</td></tr><tr><td>Công ty CP Dược phẩm Cửu Long</td><td>42.402.616</td><td>656.566.946.960</td><td>-</td><td>42.402.616</td><td>656.566.946.960</td><td>-</td></tr><tr><td>Công ty CP Đầu tư Bất động sản F.I.T</td><td>31.900.000</td><td>319.000.000.000</td><td>-</td><td>31.900.000</td><td>319.000.000.000</td><td>-</td></tr><tr><td>Công ty CP F.I.T Consumer (*)</td><td>23.761.000</td><td>237.610.000.000</td><td>(20.587.180.739)</td><td>14.011.000</td><td>140.110.000.000</td><td>(11.940.120.365)</td></tr><tr><td>Đầu tư vào Công ty liên doanh, liên kết</td><td></td><td>-</td><td>-</td><td></td><td>58.948.400.000</td><td>-</td></tr><tr><td>Công ty CP Chứng khoán Đại Nam (**)</td><td>-</td><td>-</td><td>-</td><td>3.983.000</td><td>58.948.400.000</td><td>-</td></tr><tr><td></td><td></td><td>2.193.770.036.914</td><td>(20.587.180.739)</td><td></td><td>2.155.218.436.914</td><td>(11.940.120.365)</td></tr></table>
+
+(*) Trong kỳ, Công ty thực hiện góp vốn thêm 97,5 tỷ đồng tương ứng 9.750.000 Cổ phần vào Công ty CP F.I.T Consumer theo Hợp Đồng số 01-07082020/MBCP/LDHUNG-FIT ngày 07/08/2020.
+
+(**) Năm 2020, Công ty chuyển nhượng toàn bộ 3.983.000 cổ phiếu tại Công ty Cổ phần Chứng khoán Đại Nam (tương ứng với tỷ lệ sở hữu 24,89%) theo Hợp đồng chuyển nhượng số 03DNSE/HĐCN/FIT-ENCAP ngày 30/12/2020 với Công ty Cổ phần Công nghệ tài chính Encapital.
+
+24
+
+中国华
+
+===== PAGE 26 =====
+□ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □
+
+CÔNG TY CỔ PHẦN TẬP ĐOÀN F.I.T
+
+Tàng 5, toa Times Tower - HACC1 Complex Building,
+
+35 Lê Văn Lương, P. Nhân Chính, Q. Thanh Xuân, TP. Hà Nội
+
+BÁO CÁO TÀI CHÍNH RIÊNG
+
+Cho năm tài chính
+
+kết thúc ngày 31/12/2020
+
+THUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG (TIẾP)
+
+(Các thuyết minh này là bộ phận hợp thành và cần được đọc đồng thời với Báo cáo tài chính kèm theo)
+
+6. CÁC KHOẢN ĐẦU TƯ TÀI CHÍNH (TIẾP)
+
+<table><tr><td rowspan="2"></td><td colspan="2">31/12/2020</td><td colspan="2">01/01/2020</td></tr><tr><td>Tỷ lệ sở hữu %</td><td>Tỷ lệ biểu quyết %</td><td>Tỷ lệ sở hữu %</td><td>Tỷ lệ biểu quyết %</td></tr><tr><td colspan="5">Đầu tư vào Công ty con</td></tr><tr><td>Công ty CP Vật tư Kỹ thuật Nông nghiệp Cần Thơ</td><td>56,69%</td><td>56,69%</td><td>56,69%</td><td>56,69%</td></tr><tr><td>Công ty TNHH Xuất nhập khẩu và Thương mại F.I.T Việt Nam</td><td>100,00%</td><td>100,00%</td><td>100,00%</td><td>100,00%</td></tr><tr><td>Công ty CP Dược phẩm Cửu Long</td><td>74,61%</td><td>74,61%</td><td>74,61%</td><td>74,61%</td></tr><tr><td>Công ty CP Đầu tư Bất động sản F.I.T</td><td>99,69%</td><td>99,69%</td><td>99,69%</td><td>99,69%</td></tr><tr><td>Công ty CP F.I.T Consumer</td><td>18,28%</td><td>100,00%</td><td>10,78%</td><td>92,50%</td></tr></table>
+
+7. TRẢ TRƯỚC CHO NGƯỜI BÁN
+
+<table><tr><td></td><td>31/12/2020VND</td><td>01/01/2020VND</td></tr><tr><td colspan="3">Ngắn hạn</td></tr><tr><td>- Công ty Cổ phần Pavo Capital</td><td>227.200.000</td><td>568.000.000</td></tr><tr><td>- Công ty TNHH thiết bị bảo vệ và điện tử tin học Việt Anh</td><td>78.204.000</td><td>78.204.000</td></tr><tr><td>- Công ty TNHH Sage &amp; Co Group Việt Nam</td><td>44.824.450</td><td>-</td></tr><tr><td>- Đối tượng khác</td><td>144.042.540</td><td>87.179.909</td></tr><tr><td></td><td>494.270.990</td><td>733.383.909</td></tr></table>
+
+8. CHI PHÍ TRẢ TRƯỚC
+
+<table><tr><td></td><td>31/12/2020VND</td><td>01/01/2020VND</td></tr><tr><td>Ngắn hạn</td><td>114.382.240</td><td>66.823.806</td></tr><tr><td>- Công cụ, dụng cụ xuất dùng</td><td>49.063.131</td><td>1.878.786</td></tr><tr><td>- Các khoản khác</td><td>65.319.109</td><td>64.945.020</td></tr><tr><td>Dài hạn</td><td>197.000.004</td><td>168.784.089</td></tr><tr><td>- Công cụ, dụng cụ xuất dùng</td><td>42.451.556</td><td>148.268.759</td></tr><tr><td>- Các khoản khác</td><td>154.548.448</td><td>20.515.330</td></tr><tr><td></td><td>311.382.244</td><td>235.607.895</td></tr></table>
+
+25
+
+===== PAGE 27 =====
+□ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □
+
+CÔNG TY CỔ PHẦN TẬP ĐOÀN F.I.T
+
+Tàng 5, toa Times Tower - HACC1 Complex Building,
+
+35 Lê Văn Lương, P. Nhân Chính, Q. Thanh Xuân, TP. Hà Nội
+
+BÁO CÁO TÀI CHÍNH RIÊNG
+
+Cho năm tài chính
+
+kết thúc ngày 31/12/2020
+
+THUYÊT MINH BÁO CÁO TÀI CHÍNH RIÊNG (TIẾP)
+
+(Các thuyết minh này là bộ phận hợp thành và cần được đọc đồng thời với Báo cáo tài chính kèm theo)
+
+9. PHẢI THU KHÁC
+
+<table><tr><td rowspan="2"></td><td colspan="2">31/12/2020</td><td colspan="2">01/01/2020</td></tr><tr><td>Giá trị VND</td><td>Dự phòng VND</td><td>Giá trị VND</td><td>Dự phòng VND</td></tr><tr><td>Ngắn hạn</td><td>94.230.037.583</td><td>(46.793.763)</td><td>20.704.404.598</td><td>(46.793.763)</td></tr><tr><td>· Ký cược, ký quỹ ngắn hạn</td><td>54.800.000</td><td>-</td><td>55.120.000</td><td>-</td></tr><tr><td>· Cổ tức, lợi nhuận được chia</td><td>-</td><td>-</td><td>100.007.000</td><td>-</td></tr><tr><td>· Phải thu về lãi dự thu</td><td>6.084.489.782</td><td>-</td><td>17.557.019.177</td><td>-</td></tr><tr><td>+ Ngân hàng TMCP Đầu tư và Phát triển Việt Nam</td><td>3.131.780.826</td><td>-</td><td>5.326.027.398</td><td>-</td></tr><tr><td>+ Công ty Tài chính TNHH MTV Ngân hàng Việt Nam Thịnh Vượng</td><td>2.571.914.435</td><td>-</td><td>11.862.739.725</td><td>-</td></tr><tr><td>+ Ngân hàng TNHH MTV Public Việt Nam-Chi nhánh Thanh Xuân</td><td>227.917.809</td><td>-</td><td>368.252.054</td><td>-</td></tr><tr><td>+ Công ty Cổ phần Chứng khoán Dầu Khí</td><td>152.876.712</td><td>-</td><td>-</td><td>-</td></tr><tr><td>· Tạm ứng</td><td>167.078.416</td><td>-</td><td>130.728.729</td><td>-</td></tr><tr><td>· Phải thu lãi hợp đồng hợp tác đầu tư</td><td>14.021.481.122</td><td>-</td><td>2.814.735.929</td><td>-</td></tr><tr><td>+ Công ty CP Đầu tư Bất động sản F.I.T</td><td>5.905.252.002</td><td>-</td><td>595.517.643</td><td>-</td></tr><tr><td>+ Công ty CP Đầu tư Thương mại Hoa Sen Việt Nam</td><td>3.525.410.959</td><td>-</td><td>309.350.553</td><td>-</td></tr><tr><td>+ Công ty TNHH Xuất nhập khẩu và Thương mại F.I.T Việt Nam</td><td>1.982.465.754</td><td>-</td><td>23.408.890</td><td>-</td></tr><tr><td>+ Công ty CP FIT Cosmetics</td><td>1.349.802.738</td><td>-</td><td>29.589.041</td><td>-</td></tr><tr><td>+ Công ty CP Today Cosmetics</td><td>815.342.464</td><td>-</td><td>13.150.685</td><td>-</td></tr><tr><td>+ Công ty CP đầu tư và phát triển nông sản Hưng Yên</td><td>443.207.205</td><td>-</td><td>-</td><td>-</td></tr><tr><td>+ Công ty CP FIT Consumer</td><td>-</td><td>-</td><td>1.843.719.117</td><td>-</td></tr><tr><td>· Phải thu khác</td><td>73.902.188.263</td><td>(46.793.763)</td><td>46.793.763</td><td>(46.793.763)</td></tr><tr><td>+ Công ty Cổ phần Đầu tư Thương mại Hoa Sen Việt Nam (*)</td><td>59.859.907.000</td><td>-</td><td>-</td><td>-</td></tr><tr><td>+ Công ty Cổ phần Đầu tư Trí Việt (*)</td><td>13.995.487.500</td><td>-</td><td>-</td><td>-</td></tr><tr><td>+ Các đối tượng khác</td><td>46.793.763</td><td>(46.793.763)</td><td>46.793.763</td><td>(46.793.763)</td></tr><tr><td>Dài hạn</td><td>1.014.500.000</td><td>-</td><td>1.014.500.000</td><td>-</td></tr><tr><td>· Ký cược, ký quỹ dài hạn</td><td>1.014.500.000</td><td>-</td><td>1.014.500.000</td><td>-</td></tr><tr><td></td><td>95.244.537.583</td><td>(46.793.763)</td><td>21.718.904.598</td><td>(46.793.763)</td></tr></table>
+
+(*) Số dư gốc còn phải thu của các hợp đồng hợp tác đầu tư theo các Phụ lục hợp đồng đã ký, thời hạn thanh toán 01 năm từ thời điểm ký Phụ lục.
+
+26
+
+// * 001917
+
+===== PAGE 28 =====
+□ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □
+
+CÔNG TY CỔ PHẦN TẬP ĐOÀN F.I.T
+
+Tầng 5, tòa Times Tower - HACC1 Complex Building,
+35 Lê Văn Lương, P. Nhân Chính, Q. Thanh Xuân, TP. Hà Nội
+
+BÁO CÁO TÀI CHÍNH RIÊNG
+
+Cho năm tài chính
+kết thúc ngày 31/12/2020
+
+THUYẾT MINH BẢO CẢO TÀI CHÍNH RIÊNG (TIẾP)
+
+(Các thuyết minh này là bộ phận hợp thành và cần được đọc đồng thời với Báo cáo tài chính kèm theo)
+
+10. NỘ QUÁ HẠN
+
+<table><tr><td rowspan="2">Khoản mục</td><td colspan="3">31/12/2020</td><td colspan="3">01/01/2020</td></tr><tr><td>Giá gốcVND</td><td>Dự phòngVND</td><td>Giá trị có thể thu hồiVND</td><td>Giá gốcVND</td><td>Dự phòngVND</td><td>Giá trị có thể thu hồiVND</td></tr><tr><td>Phải thu khách hàng</td><td>99.436.958</td><td>(99.436.958)</td><td>-</td><td>99.436.958</td><td>(99.436.958)</td><td>-</td></tr><tr><td>- Công ty CP Chứng khoán Hòa Bình</td><td>45.536.958</td><td>(45.536.958)</td><td>-</td><td>45.536.958</td><td>(45.536.958)</td><td>-</td></tr><tr><td>- Ông Trịnh Xuân Sơn</td><td>53.900.000</td><td>(53.900.000)</td><td>-</td><td>53.900.000</td><td>(53.900.000)</td><td>-</td></tr><tr><td>Phải thu khác</td><td>46.793.763</td><td>(46.793.763)</td><td>-</td><td>46.793.763</td><td>(46.793.763)</td><td>-</td></tr><tr><td>- Ông Nguyễn Trường Ban</td><td>46.793.763</td><td>(46.793.763)</td><td>-</td><td>46.793.763</td><td>(46.793.763)</td><td>-</td></tr><tr><td>Đầu tư nằm giữ đến ngày đáo hạn</td><td>215.143.728</td><td>(215.143.728)</td><td>-</td><td>215.143.728</td><td>(215.143.728)</td><td>-</td></tr><tr><td>- Ông Nguyễn Trường Ban</td><td>215.143.728</td><td>(215.143.728)</td><td>-</td><td>215.143.728</td><td>(215.143.728)</td><td>-</td></tr><tr><td></td><td>361.374.449</td><td>(361.374.449)</td><td>-</td><td>361.374.449</td><td>(361.374.449)</td><td>-</td></tr></table>
+
+11. TÀI SẢN CÓ ĐỊNH HỮU HÌNH
+
+<table><tr><td></td><td>Nhà cửa,vật kiến trúcVND</td><td>Phương tiệnvận tảiVND</td><td>Thiết bị,dụng cụquản lýVND</td><td>CộngVND</td></tr><tr><td colspan="5">NGUYÊN GIÁ</td></tr><tr><td>01/01/2020</td><td>15.511.904.026</td><td>3.737.600.000</td><td>5.818.217.430</td><td>25.067.721.456</td></tr><tr><td>- Mua mới trong năm</td><td>-</td><td>1.073.084.000</td><td>51.500.000</td><td>1.124.584.000</td></tr><tr><td>- Đầu tư XDCB hoàn thành</td><td>-</td><td>-</td><td>598.465.224</td><td>598.465.224</td></tr><tr><td>31/12/2020</td><td>15.511.904.026</td><td>4.810.684.000</td><td>6.468.182.654</td><td>26.790.770.680</td></tr><tr><td colspan="5">HAO MÒN LỦY KẾ</td></tr><tr><td>01/01/2020</td><td>(956.712.056)</td><td>(3.245.281.713)</td><td>(2.927.429.953)</td><td>(7.129.423.722)</td></tr><tr><td>- Khấu hao trong năm</td><td>(387.707.664)</td><td>(585.571.387)</td><td>(1.176.254.616)</td><td>(2.149.533.667)</td></tr><tr><td>31/12/2020</td><td>(1.344.419.720)</td><td>(3.830.853.100)</td><td>(4.103.684.569)</td><td>(9.278.957.389)</td></tr><tr><td colspan="5">GIÁ TRỊ CÒN LẠI</td></tr><tr><td>01/01/2020</td><td>14.555.191.970</td><td>492.318.287</td><td>2.890.787.477</td><td>17.938.297.734</td></tr><tr><td>31/12/2020</td><td>14.167.484.306</td><td>979.830.900</td><td>2.364.498.085</td><td>17.511.813.291</td></tr></table>
+
+Nguyên giá TSCĐ tại 31/12/2020 đã khấu hao hết nhưng vẫn còn sử dụng: 3.965.309.091 đồng (tại ngày 01/01/2020 là 152.709.091 đồng).
+
+Giá trị TSCĐ còn lại tại 31/12/2020 dùng để thể chấp, cầm cố đảm bảo các khoản vay: 14.167.484.306 đồng (tại ngày 01/01/2020 là 14.555.191.970 đồng).
+
+27
+
+MS/HAI
+
+1157 2011
+
+===== PAGE 29 =====
+□ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □
+
+CÔNG TY CỔ PHẦN TẬP ĐOÀN F.I.T
+
+Tàng 5, toa Times Tower - HACC1 Complex Building,
+
+35 Lê Văn Lương, P. Nhân Chính, Q. Thanh Xuân, TP. Hà Nội
+
+BÁO CÁO TÀI CHÍNH RIÊNG
+
+Cho năm tài chính
+
+kết thúc ngày 31/12/2020
+
+THUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG (TIẾP)
+
+(Các thuyết minh này là bộ phận hợp thành và cần được đọc đồng thời với Báo cáo tài chính kèm theo)
+
+12. TÀI SẢN CÓ ĐỊNH VÔ HÌNH
+
+<table><tr><td></td><td>Quyềnsử dụng đấtVND</td><td>Phần mềmmáy vi tínhVND</td><td>CộngVND</td></tr><tr><td colspan="4">NGUYÊN GIÁ</td></tr><tr><td>01/01/2020</td><td>18.825.345.650</td><td>205.700.000</td><td>19.031.045.650</td></tr><tr><td>- Thanh lý, nhượng bán</td><td>(9.412.672.825)</td><td>-</td><td>(9.412.672.825)</td></tr><tr><td>31/12/2020</td><td>9.412.672.825</td><td>205.700.000</td><td>9.618.372.825</td></tr><tr><td colspan="4">GIÁ TRỊ HAO MÒN</td></tr><tr><td>01/01/2020</td><td>-</td><td>(205.700.000)</td><td>(205.700.000)</td></tr><tr><td>- Khấu hao trong năm</td><td>-</td><td>-</td><td>-</td></tr><tr><td>31/12/2020</td><td>-</td><td>(205.700.000)</td><td>(205.700.000)</td></tr><tr><td colspan="4">GIÁ TRỊ CÒN LẠI</td></tr><tr><td>01/01/2020</td><td>18.825.345.650</td><td>-</td><td>18.825.345.650</td></tr><tr><td>31/12/2020</td><td>9.412.672.825</td><td>-</td><td>9.412.672.825</td></tr></table>
+
+Nguyên giá TSCĐ tại 31/12/2020 đã khấu hao hết nhưng vẫn còn sử dụng: 205.700.000 đồng (tại ngày 01/01/2020 là 205.700.000 đồng).
+
+Giá trị TSCĐ còn lại tại 31/12/2020 dùng để thể chấp, cảm cố đảm bảo các khoản vay: 9.412.672.825 đồng (tại ngày 01/01/2020 là 18.825.345.650 đồng).
+
+28
+
+11.2.1 三、4
+
+===== PAGE 30 =====
+□ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □
+
+CÔNG TY CỔ PHẦN TẬP ĐOÀN F.I.T
+
+Tàng 5, tòa Times Tower - HACC1 Complex Building,
+
+35 Lê Văn Lương, P. Nhân Chính, Q. Thanh Xuân, TP. Hà Nội
+
+BÁO CÁO TÀI CHÍNH RIÊNG
+
+Cho năm tài chính
+
+kết thúc ngày 31/12/2020
+
+THUYÊT MINH BÁO CÁO TÀI CHÍNH RIÊNG (TIẾP)
+
+(Các thuyết minh này là bộ phận hợp thành và cần được đọc đồng thời với Báo cáo tài chính kèm theo)
+
+13. BẮT ĐỘNG SẢN ĐẦU TƯ
+
+<table><tr><td></td><td>31/12/2020VND</td><td>Tăng trong kỳVND</td><td>Giảm trong kỳVND</td><td>01/01/2020VND</td></tr><tr><td>NGUYÊN GIÁ</td><td>44.704.785.906</td><td>-</td><td>(40.159.649.250)</td><td>84.864.435.156</td></tr><tr><td>- Tầng 4-HACC1 - Phần diện tích cho thuê</td><td>-</td><td>-</td><td>(40.159.649.250)</td><td>40.159.649.250</td></tr><tr><td>- Tầng 5-HACC1 - Phần diện tích cho thuê</td><td>31.826.085.906</td><td>-</td><td>-</td><td>31.826.085.906</td></tr><tr><td>- Tầng 1 tòa nhà CT1 Mễ Trì</td><td>12.878.700.000</td><td>-</td><td>-</td><td>12.878.700.000</td></tr><tr><td>GIÁ TRỊ HAO MÒN LỦY KẾ</td><td>(4.902.302.371)</td><td>(1.710.413.694)</td><td>3.104.448.623</td><td>(6.296.337.300)</td></tr><tr><td>- Tầng 4-HACC1 - Phần diện tích cho thuê</td><td>-</td><td>(636.940.674)</td><td>3.104.448.623</td><td>(2.467.507.949)</td></tr><tr><td>- Tầng 5-HACC1 - Phần diện tích cho thuê</td><td>(2.756.624.521)</td><td>(795.515.472)</td><td>-</td><td>(1.961.109.049)</td></tr><tr><td>- Tầng 1 tòa nhà CT1 Mễ Trì</td><td>(2.145.677.850)</td><td>(277.957.548)</td><td>-</td><td>(1.867.720.302)</td></tr><tr><td>GIÁ TRỊ CÒN LẠI</td><td>39.802.483.535</td><td>(1.710.413.694)</td><td>(37.055.200.627)</td><td>78.568.097.856</td></tr><tr><td>- Tầng 4-HACC1 - Phần diện tích cho thuê</td><td>-</td><td>(636.940.674)</td><td>(37.055.200.627)</td><td>37.692.141.301</td></tr><tr><td>- Tầng 5-HACC1 - Phần diện tích cho thuê</td><td>29.069.461.385</td><td>(795.515.472)</td><td>-</td><td>29.864.976.857</td></tr><tr><td>- Tầng 1 tòa nhà CT1 Mễ Trì</td><td>10.733.022.150</td><td>(277.957.548)</td><td>-</td><td>11.010.979.698</td></tr></table>
+
+Giá trị còn lại của Bất động sản đầu tư dùng để thể chấp các khoản vay tại 31/12/2020 là 29.069.461.385 đồng (tại 01/01/2020 là 67.557.118.158 đồng).
+
+Theo quy định tại Chuẩn mực kế toán số 05 – Bất động sản đầu tư, giá trị hợp lý của Bất động sản đầu tư tại ngày 01/01/2020 và 31/12/2020 cần được trình bày. Tuy nhiên, Công ty chưa xác định giá trị hợp lý này do chưa đủ cơ sở nên giá trị hợp lý của Bất động sản đầu tư tại ngày 31/12/2020 chưa được trình bày trên Báo cáo tài chính riêng.
+
+14. CHI PHÍ PHẢI TRẢ
+
+<table><tr><td></td><td>31/12/2020VND</td><td>01/01/2020VND</td></tr><tr><td colspan="3">Ngắn hạn</td></tr><tr><td>- Trích trước chi phí lãi tiền vay</td><td>97.262.640</td><td>338.179.191</td></tr><tr><td>- Trích trước chi phí đầu tư xây dựng</td><td>177.736.553</td><td>177.736.553</td></tr><tr><td>- Trích trước chi phí lãi hợp đồng hợp tác đầu tư</td><td>4.639.415.797</td><td>5.039.551.979</td></tr><tr><td>- Các khoản khác</td><td>812.060.179</td><td>833.613.040</td></tr><tr><td></td><td>5.726.475.169</td><td>6.389.080.763</td></tr></table>
+
+29
+
+[无法识别]
+
+===== PAGE 31 =====
+□ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □
+
+CÔNG TY CỔ PHẦN TẬP ĐOÀN F.I.T
+
+Tàng 5, toa Times Tower - HACC1 Complex Building,
+
+35 Lê Văn Lương, P. Nhân Chính, Q. Thanh Xuân, TP. Hà Nội
+
+BÁO CÁO TÀI CHÍNH RIÊNG
+
+Cho năm tài chính
+
+kết thúc ngày 31/12/2020
+
+THUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG (TIẾP)
+
+(Các thuyết minh này là bộ phận hợp thành và cần được đọc đồng thời với Báo cáo tài chính kèm theo)
+
+15. THUÊ VÀ CÁC KHOẢN PHẢI NỘP/PHẢI THU NHÀ NƯỚC
+
+<table><tr><td></td><td>31/12/2020VND</td><td>Số phải nộp trong nămVND</td><td>Số đã thực nộp/bù trừ trong nămVND</td><td>01/01/2020VND</td></tr><tr><td colspan="5">Thuế và các khoản phải nộp</td></tr><tr><td>- Thuế giá trị gia tăng phải nộp</td><td>-</td><td>5.729.767.460</td><td>5.729.767.460</td><td>-</td></tr><tr><td>- Thuế thu nhập doanh nghiệp</td><td>1.051.466.396</td><td>1.460.234.862</td><td>3.013.575.874</td><td>2.604.807.408</td></tr><tr><td>- Thuế thu nhập cá nhân</td><td>64.068.239</td><td>1.156.053.936</td><td>1.182.491.047</td><td>90.505.350</td></tr><tr><td>- Các loại thuế khác</td><td>-</td><td>17.111.376</td><td>17.111.376</td><td>-</td></tr><tr><td></td><td>1.115.534.635</td><td>8.363.167.634</td><td>9.942.945.757</td><td>2.695.312.758</td></tr><tr><td></td><td>31/12/2020VND</td><td>Số phải thu trong nămVND</td><td>Số đã thực thu/khẩu trừ trong nămVND</td><td>01/01/2020VND</td></tr><tr><td colspan="5">Thuế và các khoản phải thu</td></tr><tr><td>- Thuế Giá trị gia tăng</td><td>-</td><td>-</td><td>45.960.468</td><td>45.960.468</td></tr><tr><td></td><td>-</td><td>-</td><td>45.960.468</td><td>45.960.468</td></tr></table>
+
+16. PHẢI TRẢ KHÁC
+
+<table><tr><td></td><td>31/12/2020VND</td><td>01/01/2020VND</td></tr><tr><td>Ngắn hạn</td><td>111.225.832.161</td><td>105.383.147.074</td></tr><tr><td>Kính phí công đoàn</td><td>180.396.905</td><td>209.483.585</td></tr><tr><td>Bảo hiểm xã hội, y tế, thất nghiệp</td><td>-</td><td>5.047.074</td></tr><tr><td>Ký cược, ký quỹ ngắn hạn</td><td>611.024.730</td><td>1.872.196.149</td></tr><tr><td>Phải trả hợp đồng hợp tác đầu tư</td><td>110.420.361.272</td><td>103.284.138.233</td></tr><tr><td>+ Công ty CP Mũi Dinh Ecopark (*)</td><td>110.420.361.272</td><td>103.284.138.233</td></tr><tr><td>Các khoản phải trả ngắn hạn khác</td><td>14.049.254</td><td>12.282.033</td></tr><tr><td></td><td>111.225.832.161</td><td>105.383.147.074</td></tr></table>
+
+(*) Hợp đồng hợp tác đầu tư số 01-10042020/HTDT/MD-FIT ngày 10/04/2020 giữa Công ty Cổ phần Tập đoàn F.I.T và Công ty Cổ phần Mũi Dinh, thời hạn hợp tác là 12 tháng tính từ ngày 11/04/2020. Mục đích hợp tác nhằm đem lại hiệu quả kinh doanh cao nhất thông qua việc hợp tác đầu tư trong thị trường Bắt động sản Việt Nam. Bên góp vốn sẽ được hưởng một khoản lợi nhuận cố định là 6%/năm mà không phụ thuộc vào kết quả kinh doanh của hoạt động hợp tác.
+
+30
+
+11.2.1
+
+11-1 25 26 1011.
+
+===== PAGE 32 =====
+□ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □
+
+BÁO CÁO TÀI CHÍNH RIÊNG
+
+Cho năm tài chính
+kết thúc ngày 31/12/2020
+
+THUYẾT MINH BẢO CẢO TÀI CHÍNH RIÊNG (TIẾP)
+(Các thuyết minh này là bộ phận hợp thành và cần được đọc đồng thời với Báo cáo tài chính kèm theo)
+
+17. VAY VÀ NỘ THUÊ TÀI CHÍNH
+
+<table><tr><td rowspan="2"></td><td colspan="2">31/12/2020</td><td colspan="2">Trong kỳ</td><td colspan="2">01/01/2020</td></tr><tr><td>Giá trịVND</td><td>Số có khả năngtrả nợVND</td><td>GiảmVND</td><td>TăngVND</td><td>Giá trịVND</td><td>Số có khả năngtrả nợVND</td></tr><tr><td colspan="7">a) Vay ngắn hạn</td></tr><tr><td>Vay ngắn hạn</td><td>82.353.209.286</td><td>82.353.209.286</td><td>(2.174.363.095.389)</td><td>2.119.479.950.036</td><td>137.236.354.639</td><td>137.236.354.639</td></tr><tr><td>- Ngân hàng TMCP Đầu tư và Phát triển Việt Nam (1)</td><td>47.257.633.676</td><td>47.257.633.676</td><td>(827.173.406.917)</td><td>795.008.156.633</td><td>79.422.883.960</td><td>79.422.883.960</td></tr><tr><td>- Ngân hàng TMCP Việt Nam Thịnh Vượng (2)</td><td>25.095.575.610</td><td>25.095.575.610</td><td>(1.274.572.471.384)</td><td>1.246.854.576.315</td><td>52.813.470.679</td><td>52.813.470.679</td></tr><tr><td>- Ngân hàng TNHH MTV Public Việt Nam (3)</td><td>10.000.000.000</td><td>10.000.000.000</td><td>(72.120.000.000)</td><td>77.120.000.000</td><td>5.000.000.000</td><td>5.000.000.000</td></tr><tr><td>- Công ty CP Chứng khoán Đại Nam</td><td>-</td><td>-</td><td>(497.217.088)</td><td>497.217.088</td><td>-</td><td>-</td></tr><tr><td>Vay dài hạn đến hạn trả</td><td>10.182.000.000</td><td>10.182.000.000</td><td>(10.182.000.000)</td><td>10.182.000.000</td><td>10.182.000.000</td><td>10.182.000.000</td></tr><tr><td>- Ngân hàng TMCP Việt Nam Thịnh Vượng (4)</td><td>10.182.000.000</td><td>10.182.000.000</td><td>(10.182.000.000)</td><td>10.182.000.000</td><td>10.182.000.000</td><td>10.182.000.000</td></tr><tr><td></td><td>92.535.209.286</td><td>92.535.209.286</td><td>(2.184.545.095.389)</td><td>2.129.661.950.036</td><td>147.418.354.639</td><td>147.418.354.639</td></tr><tr><td colspan="7">b) Vay dài hạn</td></tr><tr><td>- Ngân hàng TMCP Việt Nam Thịnh Vượng (4)</td><td>2.545.000.000</td><td>2.545.000.000</td><td>(10.182.000.000)</td><td>-</td><td>12.727.000.000</td><td>12.727.000.000</td></tr><tr><td></td><td>2.545.000.000</td><td>2.545.000.000</td><td>(10.182.000.000)</td><td>-</td><td>12.727.000.000</td><td>12.727.000.000</td></tr></table>
+
+31
+
+62.10.11
+
+===== PAGE 33 =====
+□ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □
+
+CÔNG TY CỔ PHẦN TẬP ĐOÀN F.I.T
+
+Tầng 5, tòa Times Tower - HACC1 Complex Building,
+
+35 Lê Văn Lương, P. Nhân Chính, Q. Thanh Xuân, TP. Hà Nội
+
+BÁO CÁO TÀI CHÍNH RIÊNG
+
+Cho năm tài chính
+
+kết thúc ngày 31/12/2020
+
+THUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG (TIẾP)
+
+(Các thuyết minh này là bộ phận hợp thành và cần được đọc đồng thời với Báo cáo tài chính kèm theo)
+
+17. VAY VÀ NỘ THUÊ TÀI CHÍNH (TIẾP)
+
+(1) Hợp đồng cấp hạn mức thầu chi số 01/2020/2268539/HĐTC ngày 07/04/2020 và Phụ lục Hợp đồng cấp hạn mức thầu chi ngày 16/04/2020 với Ngân hàng TMCP Đầu tư và Phát triển Việt Nam. Tổng hạn mức thầu chi 50 tỷ VND, thời hạn thầu chi tối đa 59 ngày và nằm trong thời hạn của hạn mức thầu chi, lãi suất trong hạn 7,1%/năm cố định trong thời hạn hiệu lực của hạn mức thầu chi. Mục đích thầu chi là bổ sung vốn lưu động phục vụ hoạt động sản xuất kinh doanh. Tài sản cầm cố là Hợp đồng tiền gửi có kỳ hạn số 72/2020/HĐTG.TX ngày 14/02/2020 kỳ hạn 12 tháng giá trị 25 tỷ VND và hợp đồng tiền gửi có kỳ hạn số 73/2020/HĐTG.TX ngày 14/02/2020 kỳ hạn 12 tháng giá trị 25 tỷ VND.
+
+(2) Hợp đồng cấp hạn mức thầu chi số 2020.02/HMTD/VPB-FIT ngày 06/08/2020 với Ngân hàng TMCP Việt Nam Thịnh Vượng. Hạn mức thầu chi là 150.000.000.000 VND, thời hạn thầu chi 12 tháng kể từ ngày 06/08/2020. Lãi suất cho vay là 9,3%/ năm và cố định trong suốt thời gian duy trì hạn mức thầu chi. Mục đích bổ sung vốn lưu động phục vụ hoạt động sản xuất kinh doanh. Tài sản cầm cố là khoản tiền gửi có kỳ hạn theo Hợp đồng tiền gửi có kỳ hạn số VPBFC/TGCKH-2973/2020 ngày 24/02/2020 với giá trị 20 tỷ VND; Xác nhận tiền gửi số 3771/NV-FC.20 ngày 14/09/2020 với giá trị 10.981.369.863 VND; Hợp đồng tiền gửi số VPBFC/TGCKH-3149/2020 ngày 21/09/2020 trị giá 11,7 tỷ VND và Hợp đồng tiền gửi số VPBFC/TGCKH-3241/2020 ngày 02/12/2020 trị giá 70 tỷ VND.
+
+(3) Đề nghị rút tiền số 210-7-52-00-20179 ngày 16/10/2020 với Ngân hàng TNHH MTV Public Việt Nam. Tổng hạn mức thấu chi 10 tỷ VND, thời hạn thấu chi tối đa 05 tháng và nằm trong thời hạn của hạn mức thấu chi, lãi suất trong hạn 5,9%/năm cố định trong thời hạn hiệu lực của hạn mức thấu chi. Mục đích thấu chi là bổ sung vốn lưu động phục vụ hoạt động sản xuất kinh doanh. Tài sản cầm cố là Thỏa thuận tiền gửi có kỳ hạn số 01/FIT/HĐTG/2020 ngày 13/08//2020 kỳ hạn 12 tháng giá trị 10 tỷ VND.
+
+(4) Số dư vay theo hợp đồng số 070619-1206291-04-SME ngày 21/6/2019 giữa Ngân hàng TMCP Việt Nam Thịnh Vượng -- Chi nhánh Thăng Long, số tiền vay 28 tỷ đồng, thời hạn cho vay từ 24/6/2019 đến 13/01/2022, mục đích vay dùng để thanh toán một phần tiền mua sản tầng 5 - Khối dịch vụ thương mại văn phòng Dự án nhà ở kinh doanh kết hợp dịch vụ thương mại HACC1 Complex Building tại lô đất số 2.6 No đường Lê Văn Lương, Thanh Xuân, Hà Nội. Lãi suất cho vay theo thông báo lãi của Ngân hàng. Tài sản thế chấp là Sàn văn phòng tầng 5, tòa nhà HACC1 Complex Building.
+
+Khoản vay dài hạn được hoàn trả theo lịch biểu như sau:
+
+<table><tr><td></td><td>31/12/2020VND</td><td>01/01/2020VND</td></tr><tr><td>Trong vòng 1 năm</td><td>10.182.000.000</td><td>10.182.000.000</td></tr><tr><td>Trong năm thứ 2</td><td>2.545.000.000</td><td>10.182.000.000</td></tr><tr><td>Cộng</td><td>12.727.000.000</td><td>20.364.000.000</td></tr><tr><td>Trừ: số phải trả trong vòng 12 tháng</td><td>10.182.000.000</td><td>10.182.000.000</td></tr><tr><td>Số còn phải trả sau 12 tháng</td><td>2.545.000.000</td><td>10.182.000.000</td></tr></table>
+
+32
+
+===== PAGE 34 =====
+□ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □
+
+CÔNG TY CỔ PHẦN TẬP ĐOÀN F.I.T
+
+Tàng 5, toa Times Tower - HACC1 Complex Building,
+
+35 Lê Văn Lương, P. Nhân Chính, Q. Thanh Xuân, TP. Hà Nội
+
+BÁO CÁO TÀI CHÍNH RIÊNG
+
+Cho năm tài chính
+
+kết thúc ngày 31/12/2020
+
+THUYÊT MINH BÁO CÁO TÀI CHÍNH RIÊNG (TIẾP)
+
+(Các thuyết minh này là bộ phận hợp thành và cần được đọc đồng thời với Báo cáo tài chính kèm theo)
+
+18. VỐN CHỦ SỞ HỮU
+
+18.1 Băng đối chiếu biến động Vốn chủ sở hữu
+
+<table><tr><td rowspan="2">Khoản mục</td><td>Vốn đầu tư của chủ sở hữu</td><td>Thặng dư vốn cổ phần</td><td>Quỹ đầu tư phát triển</td><td>Lợi nhuận sau thuế chưa phân phối</td><td>Tổng cộng</td></tr><tr><td>VND</td><td>VND</td><td>VND</td><td>VND</td><td>VND</td></tr><tr><td>01/01/2019</td><td>2.547.302.470.000</td><td>70.045.649.714</td><td>886.852.413</td><td>264.197.629.119</td><td>2.882.432.601.246</td></tr><tr><td>- Lãi trong năm</td><td>-</td><td>-</td><td>-</td><td>20.918.814.729</td><td>20.918.814.729</td></tr><tr><td>- Giảm khác</td><td>-</td><td>-</td><td>-</td><td>(4.192.976.194)</td><td>(4.192.976.194)</td></tr><tr><td>31/12/2019</td><td>2.547.302.470.000</td><td>70.045.649.714</td><td>886.852.413</td><td>280.923.467.654</td><td>2.899.158.439.781</td></tr><tr><td>01/01/2020</td><td>2.547.302.470.000</td><td>70.045.649.714</td><td>886.852.413</td><td>280.923.467.654</td><td>2.899.158.439.781</td></tr><tr><td>- Lãi trong năm</td><td>-</td><td>-</td><td>-</td><td>11.548.018.756</td><td>11.548.018.756</td></tr><tr><td>31/12/2020</td><td>2.547.302.470.000</td><td>70.045.649.714</td><td>886.852.413</td><td>292.471.486.410</td><td>2.910.706.458.537</td></tr></table>
+
+18.2 Chi tiết vốn đầu tư của chủ sở hữu
+
+<table><tr><td rowspan="2"></td><td colspan="2">31/12/2020</td><td colspan="2">01/01/2020</td></tr><tr><td>Giá trị VND</td><td>Tỷ lệ %</td><td>Giá trị VND</td><td>Tỷ lệ %</td></tr><tr><td>Công ty Cổ phần Đầu tưDũng Tâm</td><td>1.299.124.230.000</td><td>51,00%</td><td>1.299.124.230.000</td><td>51,00%</td></tr><tr><td>Cổ đông khác</td><td>1.248.178.240.000</td><td>49,00%</td><td>1.248.178.240.000</td><td>49,00%</td></tr><tr><td></td><td>2.547.302.470.000</td><td>100%</td><td>2.547.302.470.000</td><td>100%</td></tr></table>
+
+18.3 Các giao dịch về vốn với các chủ sở hữu và phân phối cổ tức
+
+<table><tr><td></td><td>Năm 2020VND</td><td>Năm 2019VND</td></tr><tr><td colspan="3">- Vốn đầu tư của chủ sở hữu</td></tr><tr><td>+ Vốn góp đầu năm</td><td>2.547.302.470.000</td><td>2.547.302.470.000</td></tr><tr><td>+ Vốn góp tăng trong năm</td><td>-</td><td>-</td></tr><tr><td>+ Vốn góp giảm trong năm</td><td>-</td><td>-</td></tr><tr><td>+ Vốn góp cuối năm</td><td>2.547.302.470.000</td><td>2.547.302.470.000</td></tr><tr><td>- Cổ tức, lợi nhuận đã chia</td><td>-</td><td>-</td></tr></table>
+
+33
+
+===== PAGE 35 =====
+□ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □
+
+CÔNG TY CỔ PHẦN TẬP ĐOÀN F.I.T
+
+Tầng 5, tòa Times Tower - HACC1 Complex Building,
+
+35 Lê Văn Lương, P. Nhân Chính, Q. Thanh Xuân, TP. Hà Nội
+
+BÁO CÁO TÀI CHÍNH RIÊNG
+
+Cho năm tài chính
+
+kết thúc ngày 31/12/2020
+
+THUYÊT MINH BÁO CÁO TÀI CHÍNH RIÊNG (TIÊP)
+
+(Các thuyết minh này là bộ phận hợp thành và cần được đọc đồng thời với Báo cáo tài chính kèm theo)
+
+18. VỐN CHỦ SỞ HỮU (TIẾP)
+
+18.4 Cổ phiếu
+
+<table><tr><td></td><td>31/12/2020CP</td><td>01/01/2020CP</td></tr><tr><td>Số lượng cổ phiếu đăng ký phát hành</td><td>254.730.247</td><td>254.730.247</td></tr><tr><td>Số lượng cổ phiếu đã bán ra công chúng</td><td>254.730.247</td><td>254.730.247</td></tr><tr><td>+ Cổ phiếu phổ thông</td><td>254.730.247</td><td>254.730.247</td></tr><tr><td>Số lượng cổ phiếu được mua lại</td><td>-</td><td>-</td></tr><tr><td>Số lượng cổ phiếu đang lưu hành</td><td>254.730.247</td><td>254.730.247</td></tr><tr><td>+ Cổ phiếu phổ thông</td><td>254.730.247</td><td>254.730.247</td></tr><tr><td>Mệnh giá cổ phiếu (VND/Cổ phiếu)</td><td>10.000</td><td>10.000</td></tr></table>
+
+19. DOANH THU BÁN HÀNG VÀ CUNG CẤP DỊCH VỤ
+
+<table><tr><td></td><td>Năm 2020VND</td><td>Năm 2019VND</td></tr><tr><td>Doanh thu dịch vụ tư vấn</td><td>6.309.726.344</td><td>7.242.567.673</td></tr><tr><td>Doanh thu cho thuê Bất động sản</td><td>13.096.308.532</td><td>14.926.104.746</td></tr><tr><td>Doanh thu chuyển nhượng Bất động sản</td><td>46.212.830.587</td><td>-</td></tr><tr><td></td><td>65.618.865.463</td><td>22.168.672.419</td></tr><tr><td>Các khoản giảm trừ doanh thu</td><td>-</td><td>-</td></tr><tr><td>Doanh thu thuần về bán hàng và cung cấp dịch vụ</td><td>65.618.865.463</td><td>22.168.672.419</td></tr><tr><td>Trong đó doanh thu với các bên liên quan (chi tiết tại Thuyết minh số 26)</td><td>10.885.912.577</td><td>13.712.175.635</td></tr></table>
+
+20. GIÁ VỐN HÀNG BÁN VÀ CUNG CẤP DỊCH VỤ
+
+<table><tr><td></td><td>Năm 2020VND</td><td>Năm 2019VND</td></tr><tr><td>Chi phí dịch vụ tư vấn</td><td>3.023.550.563</td><td>3.389.609.853</td></tr><tr><td>Giá vốn dịch vụ cho thuê Bất động sản</td><td>6.728.617.674</td><td>7.517.884.881</td></tr><tr><td>Giá vốn hoạt động chuyển nhượng Bất động sản</td><td>46.676.346.099</td><td>-</td></tr><tr><td>Giá vốn hoạt động khác</td><td></td><td></td></tr><tr><td></td><td>56.428.514.336</td><td>10.907.494.734</td></tr></table>
+
+21. DOANH THU HOẠT ĐỘNG TÀI CHÍNH
+
+<table><tr><td></td><td>Năm 2020VND</td><td>Năm 2019VND</td></tr><tr><td>Lãi tiền gửi, tiền cho vay</td><td>14.306.054.085</td><td>26.200.534.856</td></tr><tr><td>Cổ tức lợi nhuận được chia</td><td>5.875.533.600</td><td>6.697.126.225</td></tr><tr><td>Lãi bán khoản đầu tư</td><td>4.030.931.106</td><td>5.907.471.163</td></tr><tr><td>Lợi nhuận từ hoạt động hợp tác đầu tư</td><td>31.711.864.494</td><td>11.340.004.693</td></tr><tr><td></td><td>55.924.383.285</td><td>50.145.136.937</td></tr></table>
+
+34
+
+WANG TAI
+
+\( \frac{1}{2}F.I.T \star d_{i} \)
+
+===== PAGE 36 =====
+□ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □
+
+CÔNG TY CỔ PHẦN TẬP ĐOÀN F.I.T
+
+Tầng 5, tòa Times Tower - HACC1 Complex Building,
+
+35 Lê Văn Lương, P. Nhân Chính, Q. Thanh Xuân, TP. Hà Nội
+
+BÁO CÁO TÀI CHÍNH RIÊNG
+
+Cho năm tài chính
+
+kết thúc ngày 31/12/2020
+
+THUYÊT MINH BÁO CÁO TÀI CHÍNH RIÊNG (TIÉP)
+
+(Các thuyết minh này là bộ phận hợp thành và cần được đọc đồng thời với Báo cáo tài chính kèm theo)
+
+22. CHI PHÍ TÀI CHÍNH
+
+<table><tr><td></td><td>Năm 2020VND</td><td>Năm 2019VND</td></tr><tr><td>Chi phí lãi vay</td><td>5.521.322.051</td><td>5.596.574.365</td></tr><tr><td>Lỗ bán các khoản đầu tư</td><td>19.720.387.897</td><td>3.332.263.574</td></tr><tr><td>(Hoàn nhập)/Trích dự phòng tồn thất chứng khoán kinh doanh và đầu tư vào đơn vị khác</td><td>(2.234.259.861)</td><td>3.689.638.196</td></tr><tr><td>Chi phí từ hoạt động hợp tác đầu tư</td><td>6.470.238.273</td><td>5.590.458.828</td></tr><tr><td>Chi phí tài chính khác</td><td>124.080.312</td><td>124.990.250</td></tr><tr><td></td><td>29.601.768.672</td><td>18.333.925.213</td></tr></table>
+
+23. CHI PHÍ QUẢN LÝ DOANH NGHIỆP
+
+<table><tr><td></td><td>Năm 2020VND</td><td>Năm 2019VND</td></tr><tr><td>Chi phí nhân công</td><td>9.301.792.270</td><td>9.774.938.198</td></tr><tr><td>Chi phí đồ dùng văn phòng</td><td>58.931.751</td><td>445.948.457</td></tr><tr><td>Chi phí khấu hao tài sản cố định</td><td>1.437.449.235</td><td>1.452.736.646</td></tr><tr><td>Chi phí dịch vụ mua ngoài</td><td>7.976.562.911</td><td>6.965.373.643</td></tr><tr><td>Các khoản chi phí khác</td><td>3.956.580.955</td><td>2.378.632.420</td></tr><tr><td></td><td>22.731.317.122</td><td>21.017.629.364</td></tr></table>
+
+24. CHI PHÍ SẢN XUẤT KINH DOANH THEO YẾU TỐ
+
+<table><tr><td rowspan="2"></td><td>Năm 2020</td><td>Năm 2019</td></tr><tr><td>VND</td><td>VND</td></tr><tr><td>Chi phí nhân công</td><td>12.325.342.833</td><td>13.164.548.051</td></tr><tr><td>Khấu hao tài sản cố định</td><td>3.859.947.361</td><td>4.272.370.109</td></tr><tr><td>Chi phí dịch vụ mua ngoài</td><td>12.345.001.894</td><td>12.178.858.176</td></tr><tr><td>Chi phí khác</td><td>3.953.193.271</td><td>2.377.854.642</td></tr><tr><td></td><td>32.483.485.359</td><td>31.993.630.978</td></tr></table>
+
+35
+
+M
+
+11.5.
+
+===== PAGE 37 =====
+□ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □
+
+CÔNG TY CỔ PHẦN TẬP ĐOÀN F.I.T
+
+Tàng 5, toa Times Tower - HACC1 Complex Building,
+
+35 Lê Văn Lương, P. Nhân Chính, Q. Thanh Xuân, TP. Hà Nội
+
+BÁO CÁO TÀI CHÍNH RIÊNG
+
+Cho năm tài chính
+
+kết thúc ngày 31/12/2020
+
+THUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG (TIẾP)
+
+(Các thuyết minh này là bộ phận hợp thành và cần được đọc đồng thời với Báo cáo tài chính kèm theo)
+
+25. CHI PHÍ THUẾ THU NHẬP DOANH NGHIỆP HIỆN HÀNH
+
+<table><tr><td></td><td>Năm 2020VND</td><td>Năm 2019VND</td></tr><tr><td>Tổng lợi nhuận kế toán trước thuế</td><td>13.008.253.618</td><td>24.821.974.881</td></tr><tr><td>Điều chỉnh cho thu nhập chịu thuế</td><td></td><td></td></tr><tr><td>Trừ:</td><td>(5.875.533.600)</td><td>(6.697.126.225)</td></tr><tr><td>- Cổ tức, lợi nhuận được chia</td><td>(5.875.533.600)</td><td>(6.697.126.225)</td></tr><tr><td>Cộng:</td><td>3.297.528.996</td><td>1.390.952.102</td></tr><tr><td>- Chi phí không được trừ</td><td>3.297.528.996</td><td>1.390.952.102</td></tr><tr><td>Thu nhập tính thuế</td><td>10.430.249.014</td><td>19.515.800.758</td></tr><tr><td>Thuế suất</td><td>20%</td><td>20%</td></tr><tr><td>Chi phí thuế thu nhập tính trên thu nhập tính thuế</td><td>2.086.049.803</td><td>3.903.160.152</td></tr><tr><td>Thuế TNDN được giảm theo NQ số</td><td>625.814.941</td><td>-</td></tr><tr><td>116/2020/QH14 ngày 19/6/2020 (*)</td><td></td><td></td></tr><tr><td>Chi phí thuế TNDN hiện hành</td><td>1.460.234.862</td><td>3.903.160.152</td></tr></table>
+
+(*) Công ty thuộc đối tượng giảm thuế Thu nhập doanh nghiệp phải nộp năm 2020 theo quy định tại Nghị quyết số 116/2020/QH14 ngày 19/6/2020. Theo đó, Công ty được giảm 30% thuế Thu nhập doanh nghiệp phải nộp của năm 2020, số thuế được giảm là 625.814.941 đồng
+
+36
+
+107 1 = 1.5/1 104 1/2/1
+
+===== PAGE 38 =====
+□ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □
+
+CÔNG TY CỔ PHẦN TẬP ĐOÀN F.I.T
+
+Tàng 5, toa Times Tower - HACC1 Complex Building,
+
+35 Lê Văn Lương, P. Nhân Chính, Q. Thanh Xuân, TP. Hà Nội
+
+BÁO CÁO TÀI CHÍNH RIÊNG
+
+Cho năm tài chính
+
+kết thúc ngày 31/12/2020
+
+THUYẾT MINH BẢO CÁO TÀI CHÍNH RIÊNG (TIÊP)
+
+(Các thuyết minh này là bộ phận hợp thành và cần được đọc đồng thời với Báo cáo tài chính kèm theo)
+
+26. THÔNG TIN KHÁC
+
+26.1 THÔNG TIN VỀ BÊN LIÊN QUAN
+
+Bên liên quan của Công ty được công bố bao gồm:
+
+<table><tr><td>STT</td><td>Bên liên quan</td><td>Mối quan hệ</td></tr><tr><td>1</td><td>Công ty CP Đầu tư Dũng Tâm</td><td>Công ty mẹ</td></tr><tr><td>2</td><td>Công ty TNHH Xuất nhập khẩu và Thương mại F.I.T Việt</td><td>Công ty con cấp 1</td></tr><tr><td>3</td><td>Công ty CP Vật tư Kỹ thuật Nông nghiệp Cần Thơ (TSC)</td><td>Công ty con cấp 1</td></tr><tr><td>4</td><td>Công ty CP Dược phẩm Cửu Long (DCL)</td><td>Công ty con cấp 1</td></tr><tr><td>5</td><td>Công ty CP Đầu tư Bất động sản F.I.T</td><td>Công ty con cấp 1</td></tr><tr><td>6</td><td>Công ty CP Chế biến Thực phẩm xuất khẩu Miền Tây</td><td>Công ty con cấp 2</td></tr><tr><td>7</td><td>Công ty CP Hạt giống TSC</td><td>Công ty con cấp 2</td></tr><tr><td>8</td><td>Công ty CP FIT Consumer</td><td>Công ty con cấp 2</td></tr><tr><td>9</td><td>Công ty CP Giống Cây trồng Nông Tín</td><td>Công ty con cấp 2</td></tr><tr><td>10</td><td>Công ty Liên doanh Sản xuất Kinh doanh, Xuất nhập khẩu Dược phẩm và Trang thiết bị y tế</td><td>Công ty con cấp 2</td></tr><tr><td>11</td><td>Công ty TNHH MTV Dược phẩm VPC-Sài Gòn</td><td>Công ty con cấp 2</td></tr><tr><td>12</td><td>Công ty CP Dược phẩm Benovas</td><td>Công ty con cấp 2</td></tr><tr><td>13</td><td>Công ty CP Thiết bị Y tế Benovas</td><td>Công ty con cấp 2</td></tr><tr><td>14</td><td>Công ty CP Thuốc Ung thư Benovas</td><td>Công ty con cấp 2</td></tr><tr><td>15</td><td>Công ty CP Westfood Hậu Giang</td><td>Công ty con cấp 3</td></tr><tr><td>16</td><td>Công ty CP FIT Cosmetics</td><td>Công ty liên kết</td></tr><tr><td>17</td><td>Công ty CP nước khoáng Khánh Hòa</td><td>Công ty liên kết</td></tr><tr><td>18</td><td>Công ty CP Mũi Dinh Ecopark</td><td>Công ty liên kết</td></tr><tr><td>19</td><td>Công ty CP Đầu tư KD</td><td>Công ty có liên quan với thành viên HĐQT</td></tr><tr><td>20</td><td>Công ty CP Phát triển Bất động sản DPV</td><td>Công ty có liên quan với thành viên HĐQT</td></tr><tr><td>21</td><td>Công ty CP Lương thực thực phẩm Safoco</td><td>Công ty có liên quan với thành viên HĐQT</td></tr><tr><td>22</td><td>Công ty CP Khu du lịch Champarama</td><td>Công ty có liên quan với thành viên HĐQT</td></tr><tr><td>23</td><td>Công ty CP Today Cosmetics</td><td>Công ty có liên quan với thành viên HĐQT</td></tr><tr><td>24</td><td>Công ty CP Đầu tư Bắc Thủ Đô</td><td>Công ty có liên quan với thành viên HĐQT</td></tr><tr><td>25</td><td>Công ty CP FCE Việt Nam</td><td>Công ty có liên quan với thành viên HĐQT</td></tr><tr><td>26</td><td>Công ty CP Xuất nhập khẩu TH Nam Sài Gòn</td><td>Công ty có liên quan với thành viên HĐQT</td></tr><tr><td>27</td><td>Công ty CP Đầu tư Phát triển Công nghệ Cao Việt Mỹ</td><td>Công ty có liên quan với thành viên HĐQT</td></tr></table>
+
+37
+
+10
+10
+10
+10
+10
+10
+
+===== PAGE 39 =====
+□ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □
+
+CÔNG TY CỔ PHẦN TẬP ĐOÀN F.I.T
+
+Tàng 5, toa Times Tower - HACC1 Complex Building,
+
+35 Lê Văn Lương, P. Nhân Chính, Q. Thanh Xuân, TP. Hà Nội
+
+BÁO CÁO TÀI CHÍNH RIÊNG
+
+Cho năm tài chính
+
+kết thúc ngày 31/12/2020
+
+THUYÊT MINH BÁO CÁO TÀI CHÍNH RIÊNG (TIÊP)
+
+(Các thuyết minh này là bộ phận hợp thành và cần được đọc đồng thời với Báo cáo tài chính kèm theo)
+
+26. THÔNG TIN KHÁC (TIÊP)
+
+26.1 THÔNG TIN VỀ BÊN LIÊN QUAN (TIẾP)
+
+<table><tr><td>STT</td><td>Bên liên quan</td><td>Mối quan hệ</td></tr><tr><td>28</td><td>Công ty CP Đầu tư xây dựng nhà KD Sài Gòn</td><td>Công ty có liên quan với thành viên HĐQT</td></tr><tr><td>29</td><td>Công ty CP Cảnh Viên</td><td>Công ty có liên quan với thành viên HĐQT</td></tr><tr><td>30</td><td>Thành viên Hội đồng Quản trị và Ban Tổng Giám đốc</td><td>Có ảnh hưởng đáng kể</td></tr></table>
+
+Số dư bên liên quan của Công ty:
+
+<table><tr><td rowspan="2">STT</td><td rowspan="2">Công ty</td><td>31/12/2020</td><td>01/01/2020</td></tr><tr><td>VND</td><td>VND</td></tr><tr><td rowspan="3">1</td><td>Công ty CP Dược phẩm Cửu Long (DCL)</td><td></td><td></td></tr><tr><td>- Phải thu khách hàng</td><td>804.110.446</td><td>846.839.520</td></tr><tr><td>- Phải trả người bán</td><td>-</td><td>90.000.000</td></tr><tr><td rowspan="2">2</td><td>Công ty CP nước khoáng Khánh Hòa</td><td></td><td></td></tr><tr><td>- Phải thu khách hàng</td><td>284.608.824</td><td>200.861.100</td></tr><tr><td rowspan="5">3</td><td>Công ty CP FIT Cosmetics</td><td></td><td></td></tr><tr><td>- Hợp tác đầu tư</td><td>6.475.000.000</td><td>22.500.000.000</td></tr><tr><td>- Phải thu khách hàng</td><td>3.623.609.240</td><td>3.018.953.240</td></tr><tr><td>- Phải thu lợi nhuận hợp tác đầu tư</td><td>1.349.802.738</td><td>29.589.041</td></tr><tr><td>- Phải trả người bán</td><td>16.327.101</td><td>-</td></tr><tr><td rowspan="2">4</td><td>Công ty CP Chế biến thực phẩm xuất khẩu Miền Tây</td><td></td><td></td></tr><tr><td>- Phải thu khách hàng</td><td>250.002.506</td><td>-</td></tr><tr><td rowspan="3">5</td><td>Công ty CP Thuốc Ung thư Benovas</td><td></td><td></td></tr><tr><td>- Hợp tác đầu tư</td><td></td><td></td></tr><tr><td>- Phải thu khách hàng</td><td>393.185.801</td><td>-</td></tr><tr><td rowspan="2">6</td><td>Công ty CP Đầu tư Dũng Tâm</td><td></td><td></td></tr><tr><td>- Phải thu khách hàng</td><td>979.210</td><td>-</td></tr><tr><td rowspan="4">7</td><td>Công ty CP FIT Consumer</td><td></td><td></td></tr><tr><td>- Hợp tác đầu tư</td><td>-</td><td>11.636.000.000</td></tr><tr><td>- Phải thu khách hàng</td><td>160.310.800</td><td>160.310.800</td></tr><tr><td>- Phải thu lợi nhuận hợp tác đầu tư</td><td>-</td><td>1.843.719.117</td></tr><tr><td rowspan="3">8</td><td>Công ty TNHH Xuất nhập khẩu và Thương mại F.I.T Việt Nam</td><td></td><td></td></tr><tr><td>- Hợp tác đầu tư</td><td>135.000.000.000</td><td>12.165.000.000</td></tr><tr><td>- Phải thu lợi nhuận hợp tác đầu tư</td><td>1.982.465.754</td><td>23.408.890</td></tr><tr><td rowspan="3">9</td><td>Công ty CP Đầu tư Bất động sản F.I.T</td><td></td><td></td></tr><tr><td>- Hợp tác đầu tư</td><td>220.283.000.000</td><td>37.527.000.000</td></tr><tr><td>- Phải thu lợi nhuận hợp tác đầu tư</td><td>5.905.252.002</td><td>595.517.643</td></tr><tr><td rowspan="3">10</td><td>Công ty CP Today Cosmetics</td><td></td><td></td></tr><tr><td>- Hợp tác đầu tư</td><td>10.000.000.000</td><td>10.000.000.000</td></tr><tr><td>- Phải thu lợi nhuận hợp tác đầu tư</td><td>815.342.464</td><td>13.150.685</td></tr><tr><td rowspan="3">11</td><td>Công ty CP Mũi Đình Ecopark</td><td></td><td></td></tr><tr><td>- Nhận hợp tác đầu tư</td><td>110.420.361.272</td><td>103.284.138.233</td></tr><tr><td>- Phải thu lợi nhuận hợp tác đầu tư</td><td>4.639.415.797</td><td>5.039.551.979</td></tr></table>
+
+38
+
+(1)  \( \frac{1}{2} \)  (2)  \( \frac{1}{2} \)  (3)  \( \frac{1}{2} \)  (4)  \( \frac{1}{2} \)  (5)  \( \frac{1}{2} \)  (6)  \( \frac{1}{2} \)  (7)  \( \frac{1}{2} \)  (8)  \( \frac{1}{2} \)  (9)  \( \frac{1}{2} \)  (10)
+
+===== PAGE 40 =====
+□ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □
+
+CÔNG TY CỔ PHẦN TẬP ĐOÀN F.I.T
+
+Tầng 5, tòa Times Tower - HACC1 Complex Building,
+
+35 Lê Văn Lương, P. Nhân Chính, Q. Thanh Xuân, TP. Hà Nội
+
+BÁO CÁO TÀI CHÍNH RIÊNG
+
+Cho năm tài chính
+
+kết thúc ngày 31/12/2020
+
+THUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG (TIẾP)
+
+(Các thuyết minh này là bộ phận hợp thành và cần được đọc đồng thời với Báo cáo tài chính kèm theo)
+
+26. THÔNG TIN KHÁC (TIẾP)
+
+26.1 THÔNG TIN VỀ BÊN LIÊN QUAN (TIẾP)
+
+Giao dịch với bên liên quan:
+
+<table><tr><td>STT</td><td>Công ty</td><td>Năm 2020VND</td><td>Năm 2019VND</td></tr><tr><td rowspan="4">1</td><td>Công ty CP Dược phẩm Cửu Long (DCL)</td><td></td><td></td></tr><tr><td>- Doanh thu cung cấp dịch vụ</td><td>4.889.412.493</td><td>4.650.577.601</td></tr><tr><td>- Tiền thu từ cung cấp dịch vụ</td><td>5.331.082.818</td><td>5.376.872.076</td></tr><tr><td>- Mua hàng hóa, dịch vụ</td><td>-</td><td>81.818.182</td></tr><tr><td rowspan="5">2</td><td>Công ty CP nước khoáng Khánh Hòa</td><td></td><td></td></tr><tr><td>- Doanh thu cung cấp dịch vụ</td><td>1.541.485.233</td><td>1.212.826.908</td></tr><tr><td>- Tiền thu từ cung cấp dịch vụ</td><td>1.611.886.032</td><td>2.235.748.500</td></tr><tr><td>- Mua hàng hóa, dịch vụ</td><td>70.361.856</td><td>58.194.972</td></tr><tr><td>- Trà tiền mua hàng hóa dịch vụ</td><td>76.434.045</td><td>58.194.972</td></tr><tr><td rowspan="8">3</td><td>Công ty CP FIT Cosmetics</td><td></td><td></td></tr><tr><td>- Doanh thu cung cấp dịch vụ</td><td>549.687.272</td><td>549.687.275</td></tr><tr><td>- Lợi nhuận từ hợp đồng hợp tác đầu tư</td><td>1.320.213.697</td><td>2.957.711.414</td></tr><tr><td>- Thu lợi nhuận từ hợp đồng hợp tác đầu tư</td><td>-</td><td>9.201.120.894</td></tr><tr><td>- Chuyển tiền hợp tác đầu tư</td><td>2.000.000.000</td><td>22.500.000.000</td></tr><tr><td>- Thu hồi tiền hợp tác đầu tư</td><td>18.025.000.000</td><td>34.286.632.350</td></tr><tr><td>- Mua hàng hóa, dịch vụ</td><td>78.003.116</td><td>1.492.392</td></tr><tr><td>- Trà tiền mua hàng hóa dịch vụ</td><td>84.764.525</td><td>1.492.392</td></tr><tr><td rowspan="3">4</td><td>Công ty CP Chế biến thực phẩm xuất khẩu Miền Tây</td><td></td><td></td></tr><tr><td>- Doanh thu cung cấp dịch vụ</td><td>909.100.020</td><td>1.889.364.000</td></tr><tr><td>- Tiền thu từ cung cấp dịch vụ</td><td>750.007.518</td><td>2.078.300.400</td></tr><tr><td rowspan="3">5</td><td>Công ty CP Thuốc Ung thư Benovas</td><td></td><td></td></tr><tr><td>- Doanh thu cung cấp dịch vụ</td><td>1.432.060.526</td><td>1.420.749.491</td></tr><tr><td>- Tiền thu từ cung cấp dịch vụ</td><td>1.182.080.778</td><td>1.562.824.440</td></tr><tr><td rowspan="3">6</td><td>Công ty CP Đầu tư Dũng Tâm</td><td></td><td></td></tr><tr><td>- Doanh thu cung cấp dịch vụ</td><td>178.267.937</td><td>164.088.000</td></tr><tr><td>- Tiền thu từ cung cấp dịch vụ</td><td>195.115.521</td><td>180.496.800</td></tr><tr><td rowspan="6">7</td><td>Công ty CP FIT Consumer</td><td></td><td></td></tr><tr><td>- Lợi nhuận từ hợp đồng hợp tác đầu tư</td><td>446.511.425</td><td>898.939.777</td></tr><tr><td>- Thu lợi nhuận từ hợp đồng hợp tác đầu tư</td><td>2.290.230.542</td><td>-</td></tr><tr><td>- Thu hồi tiền hợp tác đầu tư</td><td>11.636.000.000</td><td>-</td></tr><tr><td>- Mua hàng hóa, dịch vụ</td><td>6.815.410</td><td>67.692.309</td></tr><tr><td>- Trà tiền mua hàng hóa dịch vụ</td><td>7.496.951</td><td>82.479.829</td></tr></table>
+
+39
+
+===== PAGE 41 =====
+□ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □
+
+CÔNG TY CỔ PHẦN TẬP ĐOÀN F.I.T
+
+Tầng 5, tòa Times Tower - HACC1 Complex Building,
+
+35 Lê Văn Lương, P. Nhân Chính, Q. Thanh Xuân, TP. Hà Nội
+
+BÁO CÁO TÀI CHÍNH RIÊNG
+
+Cho năm tài chính
+
+kết thúc ngày 31/12/2020
+
+THUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG (TIẾP)
+
+(Các thuyết minh này là bộ phận hợp thành và cần được đọc đồng thời với Báo cáo tài chính kèm theo)
+
+26. THÔNG TIN KHÁC (TIẾP)
+
+26.1 THÔNG TIN VỀ BÊN LIÊN QUAN (TIẾP)
+
+<table><tr><td>STT</td><td>Công ty</td><td>Năm 2020VND</td><td>Năm 2019VND</td></tr><tr><td rowspan="11">8</td><td>Công ty TNHH Xuất nhập khẩu và Thương mại F.I.T Việt Nam</td><td></td><td></td></tr><tr><td>- Doanh thu cung cấp dịch vụ</td><td>535.524.000</td><td>535.524.000</td></tr><tr><td>- Tiền thu từ cung cấp dịch vụ</td><td>589.076.400</td><td>589.076.400</td></tr><tr><td>- Lợi nhuận từ hợp đồng hợp tác đầu tư</td><td>6.373.060.541</td><td>89.038.205</td></tr><tr><td>- Thu lợi nhuận từ hợp đồng hợp tác đầu tư</td><td>4.414.003.677</td><td>65.629.315</td></tr><tr><td>- Lợi nhuận phải trả hợp đồng hợp tác đầu tư</td><td>-</td><td>550.906.849</td></tr><tr><td>- Lợi nhuận đã trả từ hợp đồng hợp tác đầu tư</td><td>-</td><td>550.906.849</td></tr><tr><td>- Chuyển tiền hợp tác đầu tư</td><td>333.980.000.000</td><td>42.500.000.000</td></tr><tr><td>- Thu hồi tiền hợp tác đầu tư</td><td>211.145.000.000</td><td>30.335.000.000</td></tr><tr><td>- Nhận tiền hợp tác đầu tư</td><td>-</td><td>70.370.000.000</td></tr><tr><td>- Trả tiền hợp tác đầu tư</td><td>-</td><td>70.370.000.000</td></tr><tr><td rowspan="7">9</td><td>Công ty Cổ phần Đầu tư BĐS F.I.T</td><td></td><td></td></tr><tr><td>- Doanh thu cung cấp dịch vụ</td><td>535.524.000</td><td>535.524.000</td></tr><tr><td>- Tiền thu từ cung cấp dịch vụ</td><td>589.076.400</td><td>589.076.400</td></tr><tr><td>- Lợi nhuận từ hợp đồng hợp tác đầu tư</td><td>13.449.820.180</td><td>4.092.477.700</td></tr><tr><td>- Thu lợi nhuận từ hợp đồng hợp tác đầu tư</td><td>8.140.095.821</td><td>3.854.987.454</td></tr><tr><td>- Chuyển tiền hợp tác đầu tư</td><td>307.565.000.000</td><td>43.920.000.000</td></tr><tr><td>- Thu hồi tiền hợp tác đầu tư</td><td>124.809.000.000</td><td>54.793.000.000</td></tr><tr><td rowspan="3">10</td><td>Công ty CP Vật tư Kỹ thuật Nông nghiệp Cần Thơ (TSC)</td><td></td><td></td></tr><tr><td>- Doanh thu cung cấp dịch vụ</td><td>314.851.096</td><td>383.426.910</td></tr><tr><td>- Tiền thu từ cung cấp dịch vụ</td><td>346.336.208</td><td>421.769.600</td></tr><tr><td rowspan="5">11</td><td>Công ty CP Today Cosmetics</td><td></td><td></td></tr><tr><td>- Lợi nhuận từ hợp đồng hợp tác đầu tư</td><td>802.191.779</td><td>821.932.905</td></tr><tr><td>- Thu lợi nhuận từ hợp đồng hợp tác đầu tư</td><td>-</td><td>1.025.084.442</td></tr><tr><td>- Chuyển tiền hợp tác đầu tư</td><td>-</td><td>10.000.000.000</td></tr><tr><td>- Thu hồi tiền hợp tác đầu tư</td><td>-</td><td>9.200.000.000</td></tr><tr><td rowspan="2">12</td><td>Công ty CP Phát triển Bất động sản DPV</td><td></td><td></td></tr><tr><td>- Trả tiền hợp tác đầu tư</td><td>-</td><td>10.000.000.000</td></tr><tr><td rowspan="4">13</td><td>Công ty CP Mũi Dinh Ecopark</td><td></td><td></td></tr><tr><td>- Lợi nhuận phải trả hợp đồng hợp tác đầu tư</td><td>6.354.153.342</td><td>5.039.551.979</td></tr><tr><td>- Nhận tiền hợp tác đầu tư</td><td>17.511.933.515</td><td>128.384.138.233</td></tr><tr><td>- Trả tiền hợp tác đầu tư</td><td>17.130.000.000</td><td>25.100.000.000</td></tr></table>
+
+40
+
+===== PAGE 42 =====
+□ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □
+
+CÔNG TY CỔ PHẦN TẬP ĐOÀN F.I.T
+
+Tàng 5, toa Times Tower, 35 Lê Văn Lương, P. Nhân Chính,
+
+Q. Thanh Xuân, TP. Hà Nội
+
+BÁO CÁO TÀI CHÍNH RIÊNG
+
+Cho năm tài chính kết thúc
+
+ngày 31/12/2020
+
+THUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG (TIẾP)
+
+(Các thuyết minh này là bộ phận hợp thành và cần được đọc đồng thời với Báo cáo tài chính kèm theo)
+
+26. THÔNG TIN KHÁC (TIẾP)
+
+26.1 THÔNG TIN VỀ BÊN LIÊN QUAN (TIẾP)
+
+Thu nhập của Ban Tổng Giám đốc
+
+<table><tr><td></td><td>Năm 2020 (*)VND</td><td>Năm 2019VND</td></tr><tr><td>Thù lao Hội đồng quản trị và Ban kiểm soát</td><td>420.000.000</td><td>420.000.000</td></tr><tr><td>Thu nhập Ban Tổng Giám đốc</td><td>1.655.900.280</td><td>3.573.728.843</td></tr><tr><td></td><td>2.075.900.280</td><td>3.993.728.843</td></tr></table>
+
+(*) Chi tiết thu nhập năm 2020 bao gồm:
+
+<table><tr><td>STT</td><td>Họ và tên</td><td>Chức danh</td><td>Thu nhập năm 2020</td></tr><tr><td>1</td><td>Nguyễn Văn Sang</td><td>Chủ tịch HĐQT</td><td>60.000.000</td></tr><tr><td>2</td><td>Nguyễn Thị Minh Nguyệt</td><td>Phó Chủ tịch HĐQT</td><td>48.000.000</td></tr><tr><td>3</td><td>Kiều Hữu Hoàn</td><td>Thành viên HĐQT</td><td>23.333.333</td></tr><tr><td>4</td><td>Phan Minh Sáng</td><td>Thành viên HĐQT</td><td>48.000.000</td></tr><tr><td>5</td><td>Hứa Xuân Sinh</td><td>Thành viên độc lập HĐQT</td><td>23.333.333</td></tr><tr><td>6</td><td>Đỗ Văn Khá</td><td>Thành viên độc lập HĐQT</td><td>36.000.000</td></tr><tr><td>7</td><td>Bùi Tuấn</td><td>Thành viên độc lập HĐQT</td><td>36.000.000</td></tr><tr><td>8</td><td>Kiều Hữu Dũng</td><td>Thành viên HĐQT</td><td>24.666.667</td></tr><tr><td>9</td><td>Cao Trọng Hoan</td><td>Thành viên HĐQT</td><td>24.666.667</td></tr><tr><td>10</td><td>Ninh Việt Tiến</td><td>Trưởng BKS</td><td>36.000.000</td></tr><tr><td>11</td><td>Lưu Đức Quang</td><td>Thành viên BKS</td><td>8.750.000</td></tr><tr><td>12</td><td>Nguyễn Thị Thanh Thúy</td><td>Thành viên BKS</td><td>18.000.000</td></tr><tr><td>13</td><td>Nguyễn Thị Hồng Anh</td><td>Thành viên BKS</td><td>9.250.000</td></tr><tr><td>14</td><td>Ống Đỗ Văn Khá</td><td>Thành viên HĐQT độc lập</td><td>12.000.000</td></tr><tr><td>15</td><td>Ống Bùi Tuấn</td><td>Thành viên HĐQT độc lập</td><td>12.000.000</td></tr><tr><td>16</td><td>Nguyễn Thị Minh Nguyệt</td><td>Tổng Giám đốc</td><td>1.655.900.280</td></tr><tr><td colspan="3">Tổng thu nhập</td><td>2.075.900.280</td></tr></table>
+
+26.2 SỐ LIỆU SO SÁNH
+
+Nguyễn Thị Minh Nguyệt
+Tổng Giám đốc
+
+Hà Nội, ngày 26 tháng 03 năm 2021
+
+Phan Thị Hòa
+Kế toán trường
+
+Ninh Thị Phương
+Người lập biểu
+
+41
+
+TJ VAN UHY
+
+OAN F.I.T ★
+I.C.P

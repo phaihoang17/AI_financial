@@ -1,0 +1,1816 @@
+===== PAGE 1 =====
+BÁO CÁO TÀI CHÍNH RIÊNG
+
+TỔNG CÔNG TY SẢN XUẤT - XUẤT NHẬP KHẦU
+BÌNH DƯƠNG - CÔNG TY CỔ PHẦN
+
+Cho năm tài chính kết thúc ngày 31/12/2025 (đã được kiểm toán)
+
+===== PAGE 2 =====
+Tổng Công ty Sản xuất - Xuất nhập khẩu Bình Dương - CTCP
+
+A128 đường 3/2, Khu phố Đông Tư, phường Lái Thiêu, Thành phố Hồ Chí Minh
+
+NỘI DUNG
+
+<table><tr><td></td><td>Trang</td></tr><tr><td>Báo cáo của Ban Tổng Giám đốc</td><td>02 - 03</td></tr><tr><td>Báo cáo kiểm toán độc lập</td><td>04 - 06</td></tr><tr><td>Báo cáo tài chính riêng đã được kiểm toán</td><td>07 - 49</td></tr><tr><td>Bàng cân đối kế toán riêng</td><td>07 - 08</td></tr><tr><td>Báo cáo kết quả hoạt động kinh doanh riêng</td><td>09</td></tr><tr><td>Báo cáo lưu chuyển tiền tệ riêng</td><td>10 - 11</td></tr><tr><td>Thuyết minh Báo cáo tài chính riêng</td><td>12 - 49</td></tr></table>
+
+1
+
+11. ① ② = 3 - 18
+
+\( \left\| {\vec{z}}\right\|  = \frac{\partial \vec{z}}{\partial t}\left| {\vec{z} + \frac{\partial \vec{z}}{\partial t}}\right| \)
+
+===== PAGE 3 =====
+Tổng Công ty Sản xuất - Xuất nhập khẩu Bình Dương - CTCP
+
+A128 đường 3/2, Khu phố Đông Tư, phường Lái Thiêu, Thành phố Hồ Chí Minh
+
+BÁO CÁO CỦA BAN TỔNG GIÁM ĐỐC
+
+Ban Tổng Giám đốc Tổng Công ty Sản xuất - Xuất nhập khẩu Bình Dương - Công ty Cổ phần (sau đây gọi tất là “Tổng Công ty”) trình bày Báo cáo của mình và Báo cáo tài chính riêng cho năm tài chính kết thúc ngày 31/12/2025.
+
+TỔNG CÔNG TY
+
+Tiền thân của Tổng Công ty Sản xuất - Xuất nhập khẩu Bình Dương - TNHH Một thành viên là Công ty Sản xuất - Xuất nhập khẩu Bình Dương hoạt động theo Giấy chứng nhận đăng ký kinh doanh số 103728 ngày 26 tháng 11 năm 1992 do Sở Kế hoạch và Đầu tư tính Bình Dương cấp, đăng ký thay đổi lần thứ 15 ngày 28 tháng 11 năm 2006. Tổng Công ty hoạt động theo mô hình Công ty mẹ - Công ty con theo Quyết định số 134/2006/QĐ-UBND ngày 22 tháng 05 năm 2006 của Chủ tịch UBND tỉnh Bình Dương.
+
+Công ty Sản xuất - Xuất nhập khẩu Bình Dương được chuyển đổi thành Tổng Công ty Sản xuất - Xuất nhập khẩu Bình Dương - TNHH Một thành viên theo Quyết định số 1805/QĐ-UBND ngày 24 tháng 06 năm 2010 của UBND tỉnh Bình Dương. Tổng Công ty chính thức đi vào hoạt động theo mô hình TNHH Một thành viên theo Giấy chứng nhận đăng ký doanh nghiệp Công ty trách nhiệm hữu hạn một thành viên số 3700148166 ngày 15 tháng 11 năm 2010, đăng ký thay đổi lần thứ ba ngày 18 tháng 10 năm 2017 do Sở Kế hoạch và Đầu tư tỉnh Bình Dương cấp.
+
+Tổng Công ty chính thức hoạt động theo mô hình công ty cổ phần theo Giấy chứng nhận đăng ký doanh nghiệp công ty cổ phần số 3700148166 ngày 01 tháng 11 năm 2018 do Sở Kế hoạch và Đầu tư tính Bình Dương cấp, đăng ký thay đổi lần thứ 10 vào ngày 26 tháng 09 năm 2025.
+
+Trụ sở chính của Tổng Công ty được đặt tại: A128 đường 3/2, khu phố Đông Tư, phường Lái Thiêu, thành phố Hồ Chí Minh.
+
+HỘI ĐỒNG QUẢN TRỊ, BAN TỔNG GIÁM ĐỐC VÀ BAN KIỂM SOÁT
+
+Các thành viên của Hội đồng Quản trị trong năm và tại ngày lập báo cáo này bao gồm:
+
+<table><tr><td>Ông Nguyễn An Định</td><td>Chủ tịch</td></tr><tr><td>Ông Trần Hồng Khôi</td><td>Thành viên</td></tr><tr><td>Ông Trần Việt Anh</td><td>Thành viên</td></tr><tr><td>Ông Nguyễn Văn Thiền</td><td>Thành viên</td></tr><tr><td>Ông Mai Hữu Tín</td><td>Thành viên</td></tr><tr><td>Ông Lê Trọng Nghĩa</td><td>Thành viên</td></tr><tr><td>Ông Nguyễn Văn Hiền Phúc</td><td>Thành viên HĐQT độc lập</td></tr></table>
+
+Các thành viên của Ban Tổng Giám đốc đã điều hành Tổng Công ty trong năm và tại ngày lập báo cáo này bao gồm:
+
+<table><tr><td>Ông Lê Trọng Nghĩa</td><td>Tổng Giám đốc</td><td></td></tr><tr><td>Ông Huỳnh Hữu Hùng</td><td>Phó Tổng Giám đốc</td><td>Bổ nhiệm từ ngày 01/06/2025</td></tr></table>
+
+Các thành viên của Ban Kiểm soát bao gồm:
+
+<table><tr><td>Ông</td><td>Nguyễn Ngọc Trường Long</td><td>Trường Ban kiểm soát</td></tr><tr><td>Ông</td><td>Lê Văn Minh</td><td>Thành viên</td></tr><tr><td>Ông</td><td>Cao Hoàng Đề</td><td>Thành viên</td></tr><tr><td>Bà</td><td>Trần Thị Tuyết Nga</td><td>Thành viên</td></tr></table>
+
+2
+
+||扎 O ||
+
+T.B. GCT DUC XU CO\( _{M} \) 314
+
+===== PAGE 4 =====
+Tổng Công ty Sản xuất - Xuất nhập khẩu Bình Dương - CTCP
+
+A128 đường 3/2, Khu phố Đông Tư, phường Lái Thiêu, Thành phố Hồ Chí Minh
+
+NGƯỜI ĐẠI DIỆN THEO PHÁP LUẬT
+
+Người đại diện theo pháp luật của Tổng Công ty trong năm và cho đến khi lập Báo cáo tài chính riêng này là Ông Nguyễn An Định – Chủ tịch Hội đồng quản trị và Ông Lê Trọng Nghĩa - Tổng Giám đốc.
+
+KIỂM TOÁN VIÊN
+
+Công ty TNHH Hăng Kiểm toán AASC đã thực hiện kiểm toán các Báo cáo tài chính riêng cho Tổng Công ty.
+
+CÔNG BÓ TRÁCH NHIỆM CỦA BAN TỔNG GIÁM ĐỐC ĐỐI VỚI BÁO CÁO TÀI CHÍNH RIÊNG
+
+Ban Tổng Giám đốc Tổng Công ty chịu trách nhiệm về việc lập Báo cáo tài chính riêng phần ánh trung thực, hợp lý tình hình tài chính, kết quả hoạt động kinh doanh và tình hình lưu chuyển tiền tệ của Tổng Công ty trong năm. Trong quá trình lập Báo cáo tài chính riêng, Ban Tổng Giám đốc Tổng Công ty cam kết đã tuân thủ các yêu cầu sau:
+
+- Xây dựng và duy trì kiểm soát nội bộ mà Ban Tổng Giám đốc và Ban quản trị Tổng Công ty xác định là cần thiết để đảm bảo cho việc lập và trình bày Báo cáo tài chính riêng không còn sai sót trọng yếu do gian lận hoặc do nhằm lẫn;
+
+- Lựa chọn các chính sách kế toán thích hợp và áp dụng các chính sách này một cách nhất quán;
+
+- Đưa ra các đánh giá và dự đoán hợp lý và thận trọng;
+
+- Nếu rõ các Chuẩn mực kế toán được áp dụng có được tuân thủ hay không, có những áp dụng sai lệch trọng yếu đến mức cần phải công bố và giải thích trong Báo cáo tài chính riêng hay không;
+
+- Lập và trình bày các Báo cáo tài chính riêng trên cơ sở tuân thủ các Chuẩn mực Kế toán, Chế độ Kế toán doanh nghiệp Việt Nam và các quy định pháp lý có liên quan đến việc lập và trình bày Báo cáo tài chính riêng;
+
+- Lập các Báo cáo tài chính riêng dựa trên cơ sở hoạt động kinh doanh liên tục, trừ trường hợp không thể cho rằng Tổng Công ty sẽ tiếp tục hoạt động kinh doanh.
+
+Ban Tổng Giám đốc Tổng Công ty đảm bảo rằng các số kế toán được lưu giữ để phản ánh hình hình tài chính của Tổng Công ty, với mức độ trung thực, hợp lý tại bất cứ thời điểm nào và đảm bảo rằng Báo cáo tài chính riêng tuân thủ các quy định hiện hành của Nhà nước. Đồng thời có trách nhiệm trong việc bảo đảm an toàn tài sản của Tổng Công ty và thực hiện các biện pháp thích hợp để ngăn chắn, phát hiện các hành vi gian lập và các vi phạm khác.
+
+Ban Tổng Giám đốc Tổng Công ty cam kết rằng Báo cáo tài chính riêng đã phản ánh trung thực và hợp lý tính hình tài chính của Tổng Công ty tại thời điểm ngày 31 tháng 12 năm 2025, kết quả hoạt động kinh doanh và tình hình lưu chuyển tiền tệ cho năm tài chính kết thúc cùng ngày, phù hợp với Chuẩn mực kế toán, Chế độ kế toán doanh nghiệp Việt Nam và tuân thủ các quy định pháp lý có liên quan đến việc lập và trình bày Báo cáo tài chính riêng.
+
+Cam kết khác
+
+Ban Tổng Giám đốc cam kết rằng Tổng Công ty tuân thủ Nghị định 155/2020/NĐ-CP ngày 31/12/2020 về quy định chi tiết thi hành một số điều của Luật Chứng khoán và Tổng Công ty không vi phạm nghĩa vụ công bố thông tin theo quy định tại Thông tư số 96/2020/TT-BTC ngày 16/11/2020 của Bộ Tài chính hướng dẫn công bố thông tin trên Thị trường chứng khoán và Thông tư số 68/2024/TT-BTC ngày 18/09/2024 của Bộ Tài chính về việc sửa đổi, bổ sung một số điều của Thông tư số 96/2020/TT-BTC.
+
+Tp. Hồ Chí Minh, ngày 30 tháng 03 năm 2026
+
+3
+
+\( \left\|  {\frac{1}{2}\frac{1}{2} - \frac{1}{2}}\right\|  {a}_{1} = \frac{1}{2}\left( {{a}_{1} - \frac{1}{2}}\right) \)
+
+8/6 Gt-T-HG,2-1
+
+===== PAGE 5 =====
+aasc
+Số: 300326.017/BCTC.HCM
+
+BÁO CÁO KIỂM TOÁN ĐỘC LẬP
+
+Kính gửi: Cổ đông, Hội đồng Quản trị và Ban Tổng Giám đốc
+
+Tổng Công ty Sản xuất - Xuất nhập khẩu Bình Dương - Công ty Cổ phần
+
+Chúng tôi đã kiểm toán Báo cáo tài chính riêng kèm theo của Tổng Công ty Sản xuất - Xuất nhập khẩu Bình Dương - Công ty Cổ phần được lập ngày 30 tháng 03 năm 2026, từ trang 07 đến trang 49, bao gồm: Bảng cân đối kế toán riêng tại ngày 31 tháng 12 năm 2025, Báo cáo kết quả hoạt động kinh doanh riêng, Báo cáo lưu chuyển tiền tệ riêng cho năm tài chính kết thúc cùng ngày và Bản thuyết minh Báo cáo tài chính riêng.
+
+Trách nhiệm của Ban Tổng Giám đốc
+
+Ban Tổng Giám đốc Công ty chịu trách nhiệm về việc lập và trình bày trung thực và hợp lý Báo cáo tài chính riêng của Tổng Công ty theo Chuẩn mực kế toán, Chế độ kế toán doanh nghiệp Việt Nam và các quy định pháp lý có liên quan đến việc lập và trình bày Báo cáo tài chính riêng và chịu trách nhiệm về kiểm soát nội bộ mà Ban Tổng Giám đốc xác định là cần thiết để đảm bảo cho việc lập và trình bày Báo cáo tài chính riêng không có sai sót trọng yếu do gian lận hoặc nhằm lấn.
+
+Trách nhiệm của Kiểm toán viên
+
+Trách nhiệm của chúng tôi là đưa ra ý kiến về Báo cáo tài chính riêng dựa trên kết quả của cuộc kiểm toán. Chứng tôi đã tiến hành kiểm toán theo các Chuẩn mục kiểm toán Việt Nam. Các chuẩn mục này yêu cầu chúng tôi tuân thủ chuẩn mục và các quy định về đạo đức nghề nghiệp, lập kế hoạch và thực hiện cuộc kiểm toán để đạt được sự đảm bảo hợp lý về việc liệu Báo cáo tài chính riêng của Tổng Công ty có còn sai sót trọng yếu hay không.
+
+Công việc kiểm toán bao gồm thực hiện các thủ tục nhằm thu thập các bằng chứng kiểm toán về các số liệu và thuyết minh trên Báo cáo tài chính riêng. Các thủ tục kiểm toán được lựa chọn dựa trên xét đoán của kiểm toán viên, bao gồm đánh giá rủi ro có sai sót trọng yếu trong Báo cáo tài chính riêng do gian lập hoặc nhằm lẫn. Khí thực hiện đánh giá các rủi ro này, kiểm toán viên đã xem xét kiểm soát nội bộ của Tổng Công ty liên quan đến việc lập và trình bày Báo cáo tài chính riêng trung thực, hợp lý nhằm thiết kế các thủ tục kiểm toán phù hợp với tính hình thực tế, tuy nhiên không nhằm mục đích đưa ra ý kiến về hiệu quả của kiểm soát nội bộ của Tổng Công ty. Công việc kiểm toán cũng bao gồm đánh giá tính thích hợp của các chính sách kế toán được áp dụng và tính hợp lý của các ước tính kế toán của Ban Tổng Giám đốc cũng như đánh giá việc trình bày tổng thể Báo cáo tài chính riêng,
+
+Chúng tôi tin tưởng rằng các bằng chứng kiểm toán mà chúng tôi đã thu thập được là đầy đủ và thích hợp làm cơ sở cho ý kiến kiểm toán ngoại trừ của chúng tôi.
+
+Cơ sở của ý kiến kiểm toán ngoại trừ
+
+- Theo nội dung tại thuyết minh số 35a và 35c của Bản thuyết minh Báo cáo tài chính riêng, liên quan đến hoạt động chuyển giao đất và hủy hợp đồng chuyển giao đất đối với Công ty TNHH Phát Triển và Công ty Cổ phần Bất động sản U&I, các giao dịch nếu trên đã được thực hiện căn cứ theo chủ trương đã được Tỉnh ủy Bình Dương chấp thuận và theo thỏa thuận giữa các bên. Lợi nhuận từ các giao dịch chuyển nhượng do phát sinh trước giai đoạn cổ phần hóa nên đã được Tổng Công ty điều chỉnh giảm trừ số dư công nợ lợi nhuận phải nộp Ngân sách Nhà nước tại thuyết minh số 20. Đến thời điểm lập Báo cáo tài chính riêng này, số dư các khoản mục nếu trên chưa được đối chiếu xác nhận, đồng thời Tổng Công ty chưa được cơ quan có thẩm quyền phê duyệt quyết toán cổ phần hóa. Bằng các thủ tục kiểm toán đã thực hiện, chúng tôi không thể đánh giá được ảnh hưởng của các vấn đề nếu trên đến Báo cáo tài chính riêng đính kèm.
+
+T: (84) 24 3824 1990 | F: (84) 24 3825 3973 | 1 Le Phung Hieu, Hanoi, Vietnam
+
+A member of HLB International
+
+aasc.com.vn
+
+HĂNG KIỂM TOÁN AASC
+
+4
+
+===== PAGE 6 =====
+Cơ sở của ý kiến kiểm toán ngoại trừ (tiếp theo)
+
+- Theo nội dung trình bày tại Thuyết minh số 35b của Bản thuyết minh Báo cáo tài chính riêng, liên quan đến việc chuyển giao đất cho Công ty Cổ phần An Bình, tại thời điểm 01/01/2025 và 31/12/2025, Tổng Công ty đang trình bày khoản phải thu liên quan đến hợp đồng bởi thường kinh phí đất và chuyển giao đất phát sinh trước thời điểm chuyển sang công ty cổ phần với số tiền là 60 tỷ VND. Ngày 14/11/2019, Ủy ban Nhân dân tỉnh Bình Dương đã ban hành Quyết định số 3379/QĐ-UBND về việc thu hồi lại Quyết định cho Công ty Cổ phần An Bình thuê đất thu tiền một lần cho cả thời gian thuê tại phường Phú Lợi, thành phố Thủ Dầu Một, tỉnh Bình Dương. Hiện tại các bên chưa có thỏa thuận về việc xử lý các nội dung liên quan đến hợp đồng nếu trên. Với các tài liệu đã thu thập được, chúng tôi đã thực hiện đầy đủ các thủ tục kiểm toán cần thiết nhưng không thể đánh giá được khả năng thu hồi của khoản phải thu này và ảnh hưởng của vấn đề này đến Báo cáo tài chính riêng đính kèm.
+
+- Chứng tôi không đánh giá được tính phù hợp của giao dịch góp vốn vào Công ty Cổ phần Đầu tư & Phát triển Tân Thành ("Tân Thành"), việc tính lãi tiền ứng vốn liên quan và khả năng thu hồi của khoản phải thu này, thông tin chỉ tiết được trình bày tại Thuyết minh số 34b của Bản thuyết minh Báo cáo tài chính riêng. Tại thời điểm 31/12/2025, khoản phải thu này đã quá hạn tuy nhiên Tổng Công ty chưa xem xét trích lập dự phòng đối với khoản phải thu này.
+
+Cũng liên quan đến Công ty Cổ phần Đầu tư & Phát triển Tân Thành, tại thuyết minh số 07 và 08 đang trình bày số dư các khoản cho vay và tiền lãi tương ứng đã quá hạn của Tân Thành với số tiền tại thời điểm 31/12/2025 lần lượt là 92,35 tỷ VND và 57,03 tỷ VND, số dự phòng đã trích lập tương ứng là 72,10 tỷ VND. Từ ngày 01/01/2023, Tổng Công ty không ghi nhận các khoản lãi vay, lãi chậm thanh toán phát sinh tương ứng với dư nợ gốc cho Tân Thành vay. Số dư phải thu về lãi chậm thanh toán, lãi vay phát sinh từ các khoản phải thu về cho vay quá hạn nhưng không được ghi nhận doanh thu đến thời điểm 31/12/2025 là 43,88 tỷ VND (đến thời điểm 01/01/2025 là 34,45 tỷ VND), tiền lãi phát sinh trong năm nay không được ghi nhận doanh thu là 9,43 tỷ VND (chi tiết tại thuyết minh số 09b).
+
+Bằng các thủ tục kiểm toán đã thực hiện, chúng tôi không đánh giá được khoản lãi vay, lãi chậm trả quá hạn cần được ghi nhận bổ sung cũng như khả năng thu hồi của các khoản phải thu nếu trên, số dự phòng cần trích lập và ảnh hưởng của các vấn đề này đến Báo cáo tài chính riêng đính kèm.
+
+- Theo nội dung được trình bày tại thuyết minh số 08 và 34c của Bản thuyết minh Báo cáo tài chính riêng, Tổng Công ty phải nộp truy thu tiền sử dụng đất do áp sai đơn giá và tiền phạt chậm nộp tương ứng theo Bản án của Tòa án Nhân dân cấp cao tại Hà Nội, thông báo của Cục thuế Bình Dương và thông báo của Cục thi hành án dân sự thành phố Hà Nội với tổng số tiền là 1.060,22 tỷ VND. Tổng số tiền Tổng Công ty đã nộp và được khấu trừ là 1.060,22 tỷ VND, trong đó 806,17 tỷ VND nộp bằng tiền và 254 tỷ VND được cơ quan thi hành án khấu trừ, số được khấu trừ bao gồm:
+
++ Số tiền 128,36 tỷ VND do các cá nhân có liên quan nộp khác phục hậu quả thông qua Tổng Công ty;
+
++ Số tiền 125,69 tỷ VND Tổng Công ty đã tạm nộp trong năm 2019, trong đó bao gồm số dư phải thu Công ty TNHH Đầu tư - Xây dựng Tân Phú là 87,986 tỷ VND mà chúng tôi đã nêu ý kiến ngoại trừ các năm trước (xem thêm tại thuyết minh số 08 và 34a).
+
+Tổng số tiền Tổng Công ty đã thực nộp và được khấu trừ nêu trên được ghi nhận trên khoản mục Phải thu khác (Thuyết minh số 8) bao gồm số phải thu Công ty TNHH Đầu tư - Xây dựng Tân Phú là 87,986 tỷ VND và Phải thu các khoản tạm nộp chờ xử lý quyết toán cổ phần hóa là 972,238 tỷ VND, đồng thời đã được trích lập dự phòng với số dư trích lập lũy kế đến thời điểm 31/12/2025 là 212,04 tỷ VND, trong đó số dự phòng ghi nhận vào chi phí quản lý doanh nghiệp năm nay là 70,68 tỷ VND (thuyết minh số 08 và số 27) căn cứ theo Nghị quyết phiên hợp Đại hội đồng cổ đông thường niên năm 2023 số 72/NQ-ĐHĐCD ngày 30/06/2023, đồng thời số tiền các cá nhân đã nộp khắc phục hậu quả thông qua Tổng Công ty là 128,36 tỷ VND được ghi nhận khoản phải trả trên khoản mục "Phải trả khác" (thuyết minh 20). Bằng các thủ tục kiểm toán đã thực hiện, chúng tôi không thể đánh giá được sự phù hợp và chính xác cũng như khả năng thu hồi của khoản Phải thu khác - Phải thu các khoản tạm nộp chờ xử lý quyết toán cổ phần hóa và số dư dự phòng tương ứng, số dư phải thu Công ty TNHH Đầu tư - Xây dựng Tân Phú cũng như việc ghi nhận khoản phải trả cho các cá nhân liên quan đến bản án. Chúng tôi cũng chưa xác định được việc có cần ghi nhận bổ sung nghĩa vụ tiền sử dụng đất và tiền phạt chậm nộp (nếu có) liên quan đến các khoản truy thu tiền sử dụng đất của các lô đất khác theo kết luận của Kiểm toán Nhà nước khu vực IV năm 2017 hay không và ảnh hưởng của các vấn đề này đến Báo cáo tài chính riêng đính kèm.
+
+5
+
+\( \left( {1 < x}\right)  = \frac{x}{2} + \left( {x - 1}\right) \)
+
+700
+SNG
+SẢN
+T NH
+NH
+CÔN
+CÓ F
+AN-
+
+===== PAGE 7 =====
+Ý kiến kiểm toán ngoại trừ
+
+Theo ý kiến của chúng tôi, ngoại trừ ảnh hưởng của các vấn đề nếu tại đoạn “Cơ sở của ý kiến kiểm toán ngoại trừ”, Báo cáo tài chính riêng đã phân ánh trung thực và hợp lý trên các khóa cạnh trọng yếu tình hình tài chính của Tổng Công ty Sản xuất - Xuất nhập khẩu Bình Dương - Công ty Cổ phần tại ngày 31 tháng 12 năm 2025, cũng như kết quả hoạt động kinh doanh và tình hình lưu chuyển tiền tệ cho năm tài chính kết thúc cùng ngày, phù hợp với Chuẩn mục Kế toán, Chế độ Kế toán doanh nghiệp Việt Nam và các quy định pháp lý có liên quan đến việc lập và trình bày Báo cáo tài chính.
+
+Vấn đề cần nhân mạnh
+
+Chúng tôi muốn lưu ý người đọc Báo cáo tài chính về các nội dung như sau:
+
+- Tổng Công ty đang trình bày giá trị bất động sản đầu tư nắm giữ với mục đích chờ tăng giá là quyền sử dụng đất có tổng giá trị 78 tỷ VND tại khu phố Đông Tư, phường Lái Thiêu, thành phố Hồ Chí Minh với diện tích là 10.547 m2 theo nội dung tại Thuyết minh số 15 của Bản thuyết minh Báo cáo tài chính riêng. Bất động sản đầu tư này được mua trước giai đoạn Tổng Công ty chính thức chuyển sang công ty cổ phần và vẫn chưa hoàn tất thủ tục sang tên chủ sở hữu cho Tổng Công ty.
+
+- Các lô đất tại xã Vĩnh Phú, tỉnh Bình Dương (nay thuộc phường Bình Hòa, thành phố Hồ Chí Minh) mà Tổng Công ty đã mua trước thời điểm chính thức chuyển sang Công ty cổ phần đã được Tổng Công ty bàn giao cho Trung tâm Phát triển Quỹ đất tỉnh Bình Dương vào ngày 14/11/2023 theo Quyết định số 2569/QĐ-UBND ngày 02/10/2023 của Ủy ban Nhân dân tỉnh Bình Dương. Chi phí đầu tư của các lô đất này đang được theo dõi trên khoản mục "Chi phí xây dựng cơ bản dở dang" - Quyền sử dụng đất ở xã Vĩnh Phú, tỉnh Bình Dương (chi tiết tại thuyết minh số 11 - ghi chú (2) của Bản thuyết minh Báo cáo tài chính riêng), việc xử lý khoản chi phí này đang được Ủy ban Nhân dân tỉnh Bình Dương (nay là Ủy ban Nhân dân Thành phố Hồ Chí Minh) xem xét phê duyệt.
+
+Đến thời điểm phát hành báo cáo này, cơ quan có thẩm quyền là Ủy ban Nhân dân tỉnh Bình Dương (nay là Ủy ban Nhân dân Thành phố Hồ Chí Minh) vẫn chưa phê duyệt quyết toán cổ phần hóa. Do vậy, một số chỉ tiêu trên Báo cáo tài chính riêng của Tổng Công ty có thể sẽ thay đổi sau khi được phê duyệt quyết toán cổ phần hóa tại ngày 31/10/2018, xem chỉ tiết tại thuyết minh số 36.
+
+Các vấn đề cần nhân mạnh này không làm thay đổi ý kiến kiểm toán ngoại trừ nêu trên của chúng tôi.
+
+Tp. Hồ Chí Minh, ngày 30 tháng 03 năm 2026
+
+6
+
+11105
+JNG TY
+NHIÊM HÙ
+, KIÊM
+IAS
+PHÔ
+
+148
+XUÃ
+AP
+UCO
+3 T
+HÃ
+BÌ
+
+===== PAGE 8 =====
+Tổng Công ty Sản xuất - Xuất nhập khẩu Bình Dương - CTCP
+
+A128 đường 3/2, Khu phố Đông Tư, phường Lái Thiêu,
+
+Thành phố Hồ Chí Minh
+
+Báo cáo tài chính riêng
+
+cho năm tài chính kết thúc ngày 31/12/2025
+
+BẢNG CÂN ĐỐI KẾ TOÁN RIÊNG
+
+Tại ngày 31 tháng 12 năm 2025
+
+<table><tr><td rowspan="2">Mã số</td><td rowspan="2">TÀI SẢN</td><td rowspan="2">Thuyết minh</td><td>31/12/2025</td><td>01/01/2025</td></tr><tr><td>VND</td><td>VND</td></tr><tr><td>100</td><td>A. TÀI SẢN NGĂN HẠN</td><td></td><td>643.841.780.728</td><td>597.938.149.869</td></tr><tr><td>110</td><td>I. Tiền và các khoản tương đương tiền</td><td>03</td><td>33.193.426.016</td><td>49.029.816.511</td></tr><tr><td>111</td><td>1. Tiền</td><td></td><td>3.193.426.016</td><td>14.029.816.511</td></tr><tr><td>112</td><td>2. Các khoản tương đương tiền</td><td></td><td>30.000.000.000</td><td>35.000.000.000</td></tr><tr><td>120</td><td>II. Đầu tư tài chính ngắn hạn</td><td>04</td><td>25.000.000.000</td><td>-</td></tr><tr><td>123</td><td>1. Đầu tư nắm giữ đến ngày đáo hạn</td><td></td><td>25.000.000.000</td><td>-</td></tr><tr><td>130</td><td>III. Các khoản phải thu ngắn hạn</td><td></td><td>427.712.107.563</td><td>392.037.546.259</td></tr><tr><td>131</td><td>1. Phải thu ngắn hạn của khách hàng</td><td>05</td><td>2.273.793.650</td><td>2.827.293.650</td></tr><tr><td>132</td><td>2. Trà trước cho người bán ngắn hạn</td><td>06</td><td>10.121.764.142</td><td>12.358.810.487</td></tr><tr><td>135</td><td>3. Phải thu về cho vay ngắn hạn</td><td>07</td><td>92.347.102.061</td><td>107.347.102.061</td></tr><tr><td>136</td><td>4. Phải thu ngắn hạn khác</td><td>08</td><td>407.378.642.700</td><td>335.666.940.038</td></tr><tr><td>137</td><td>5. Dự phòng phải thu ngắn hạn khó đòi</td><td></td><td>(84.409.194.990)</td><td>(66.162.599.977)</td></tr><tr><td>140</td><td>IV. Hàng tồn kho</td><td>10</td><td>124.249.900.502</td><td>124.342.773.798</td></tr><tr><td>141</td><td>1. Hàng tồn kho</td><td></td><td>162.049.126.800</td><td>162.142.000.096</td></tr><tr><td>149</td><td>2. Dự phòng giảm giá hàng tồn kho</td><td></td><td>(37.799.226.298)</td><td>(37.799.226.298)</td></tr><tr><td>150</td><td>V. Tài sản ngắn hạn khác</td><td></td><td>33.686.346.647</td><td>32.528.013.301</td></tr><tr><td>151</td><td>1. Chi phí trả trước ngắn hạn</td><td>12</td><td>116.147.032</td><td>124.494.118</td></tr><tr><td>152</td><td>2. Thuế GTGT được khấu trừ</td><td></td><td>15.572.577.323</td><td>14.405.896.891</td></tr><tr><td>153</td><td>3. Thuế và các khoản khác phải thu Nhà nước</td><td>18</td><td>17.997.622.292</td><td>17.997.622.292</td></tr><tr><td>200</td><td>B. TÀI SẢN DÀI HẠN</td><td></td><td>3.736.704.989.302</td><td>3.809.911.870.951</td></tr><tr><td>210</td><td>I. Các khoản phải thu dài hạn</td><td></td><td>830.100.428.218</td><td>900.782.078.315</td></tr><tr><td>211</td><td>1. Phải thu dài hạn của khách hàng</td><td>05</td><td>60.000.000.000</td><td>60.000.000.000</td></tr><tr><td>215</td><td>2. Phải thu về cho vay dài hạn</td><td>07</td><td>9.896.049.652</td><td>9.896.049.652</td></tr><tr><td>216</td><td>3. Phải thu dài hạn khác</td><td>08</td><td>972.249.328.857</td><td>972.249.328.857</td></tr><tr><td>219</td><td>4. Dự phòng phải thu dài hạn khó đòi</td><td></td><td>(212.044.950.291)</td><td>(141.363.300.194)</td></tr><tr><td>220</td><td>II. Tài sản cố định</td><td></td><td>2.402.480.957</td><td>3.188.871.159</td></tr><tr><td>221</td><td>1. Tài sản cố định hữu hình</td><td>13</td><td>2.335.496.499</td><td>3.081.846.073</td></tr><tr><td>222</td><td>- Nguyên giá</td><td></td><td>9.032.081.087</td><td>8.974.081.087</td></tr><tr><td>223</td><td>- Giá trị hao mòn luỹ kế</td><td></td><td>(6.696.584.588)</td><td>(5.892.235.014)</td></tr><tr><td>227</td><td>2. Tài sản cố định vô hình</td><td>14</td><td>66.984.458</td><td>107.025.086</td></tr><tr><td>228</td><td>- Nguyên giá</td><td></td><td>456.475.237</td><td>456.475.237</td></tr><tr><td>229</td><td>- Giá trị hao mòn luỹ kế</td><td></td><td>(389.490.779)</td><td>(349.450.151)</td></tr><tr><td>230</td><td>III. Bất động sản đầu tư</td><td>15</td><td>78.000.000.000</td><td>78.000.000.000</td></tr><tr><td>231</td><td>- Nguyên giá</td><td></td><td>78.000.000.000</td><td>78.000.000.000</td></tr><tr><td>232</td><td>- Giá trị hao mòn luỹ kế</td><td></td><td>-</td><td>-</td></tr><tr><td>240</td><td>IV. Tài sản dở dang dài hạn</td><td></td><td>127.069.407.313</td><td>123.267.001.962</td></tr><tr><td>242</td><td>1. Chi phí xây dựng cơ bản dở dang</td><td>11</td><td>127.069.407.313</td><td>123.267.001.962</td></tr><tr><td>250</td><td>V. Đầu tư tài chính dài hạn</td><td>04</td><td>2.642.418.529.121</td><td>2.625.774.919.642</td></tr><tr><td>251</td><td>1. Đầu tư vào công ty con</td><td></td><td>1.983.268.790.753</td><td>1.983.268.790.753</td></tr><tr><td>252</td><td>2. Đầu tư vào công ty liên doanh, liên kết</td><td></td><td>1.153.336.427.266</td><td>1.153.336.427.266</td></tr><tr><td>253</td><td>3. Đầu tư góp vốn vào đơn vị khác</td><td></td><td>505.000.000</td><td>505.000.000</td></tr><tr><td>254</td><td>4. Dự phòng giảm giá đầu tư tài chính dài hạn</td><td></td><td>(494.691.688.898)</td><td>(511.335.298.377)</td></tr><tr><td>260</td><td>VI. Tài sản dài hạn khác</td><td></td><td>56.714.143.693</td><td>78.898.999.873</td></tr><tr><td>261</td><td>1. Chi phí trả trước dài hạn</td><td>12</td><td>56.714.143.693</td><td>78.898.999.873</td></tr><tr><td>270</td><td>TỔNG CỘNG TÀI SẢN</td><td></td><td>4.380.546.770.030</td><td>4.407.850.020.820</td></tr></table>
+
+7
+
+令人满意
+
+\( \frac{1}{2} \)
+
+===== PAGE 9 =====
+Tổng Công ty Sản xuất - Xuất nhập khẩu Bình Dương - CTCP
+
+A128 đường 3/2, Khu phố Đông Tư, phường Lái Thiêu,
+
+Thành phố Hồ Chí Minh
+
+Báo cáo tài chính riêng
+
+cho năm tài chính kết thúc ngày 31/12/2025
+
+BẢNG CÂN ĐỐI KẾ TOÁN RIÊNG
+
+Tại ngày 31 tháng 12 năm 2025
+
+(tiếp theo)
+
+<table><tr><td rowspan="2">Mã số</td><td rowspan="2" colspan="2">NGUỒN VỐN</td><td rowspan="2">Thuyết minh</td><td>31/12/2025</td><td>01/01/2025</td></tr><tr><td>VND</td><td>VND</td></tr><tr><td>300</td><td>C.</td><td>NỘ PHẢI TRẢ</td><td></td><td>1.159.111.567.836</td><td>1.148.362.215.734</td></tr><tr><td>310</td><td>I.</td><td>Nợ ngắn hạn</td><td></td><td>1.102.444.901.169</td><td>1.091.695.549.067</td></tr><tr><td>311</td><td>1.</td><td>Phải trả người bán ngắn hạn</td><td>16</td><td>1.097.195.954</td><td>2.629.193.075</td></tr><tr><td>313</td><td>2.</td><td>Thuế và các khoản phải nộp Nhà nước</td><td>18</td><td>369.167.795</td><td>658.607.355</td></tr><tr><td>314</td><td>3.</td><td>Phải trả người lao động</td><td></td><td>3.924.380.953</td><td>1.570.814.286</td></tr><tr><td>315</td><td>4.</td><td>Chi phí phải trả ngắn hạn</td><td>19</td><td>126.293.747.422</td><td>128.356.687.893</td></tr><tr><td>318</td><td>5.</td><td>Doanh thu chưa thực hiện ngắn hạn</td><td></td><td>66.700.000</td><td>63.525.000</td></tr><tr><td>319</td><td>6.</td><td>Phải trả ngắn hạn khác</td><td>20</td><td>745.229.462.343</td><td>729.733.980.779</td></tr><tr><td>320</td><td>7.</td><td>Vay và nợ thuê tài chính ngắn hạn</td><td>17</td><td>214.000.000.000</td><td>214.000.000.000</td></tr><tr><td>322</td><td>8.</td><td>Quỹ khen thưởng phúc lợi</td><td></td><td>11.464.246.702</td><td>14.682.740.679</td></tr><tr><td>330</td><td>II.</td><td>Nợ dài hạn</td><td></td><td>56.666.666.667</td><td>56.666.666.667</td></tr><tr><td>337</td><td>1.</td><td>Phải trả dài hạn khác</td><td>20</td><td>56.666.666.667</td><td>56.666.666.667</td></tr><tr><td>400</td><td>D.</td><td>VỐN CHỦ SỐ HỮU</td><td></td><td>3.221.435.202.194</td><td>3.259.487.805.086</td></tr><tr><td>410</td><td>I.</td><td>Vốn chủ sở hữu</td><td>21</td><td>3.221.435.202.194</td><td>3.259.487.805.086</td></tr><tr><td>411</td><td>1.</td><td>Vốn góp của chủ sở hữu</td><td></td><td>3.000.000.000.000</td><td>3.000.000.000.000</td></tr><tr><td>411a</td><td></td><td>Cổ phiếu phổ thông có quyền biểu quyết</td><td></td><td>3.000.000.000.000</td><td>3.000.000.000.000</td></tr><tr><td>418</td><td>2.</td><td>Quỹ đầu tư phát triển</td><td></td><td>34.318.182.703</td><td>31.732.501.531</td></tr><tr><td>421</td><td>3.</td><td>Lợi nhuận sau thuế chưa phân phối</td><td></td><td>187.117.019.491</td><td>227.755.303.555</td></tr><tr><td>421a</td><td></td><td>LNST chưa phân phối lũy kế đến cuối năm trước</td><td></td><td>130.683.141.211</td><td>176.041.680.122</td></tr><tr><td>421b</td><td></td><td>LNST chưa phân phối năm nay</td><td></td><td>56.433.878.280</td><td>51.713.623.438</td></tr><tr><td>440</td><td colspan="2">TỔNG CỘNG NGUỒN VỐN</td><td></td><td>4.380.546.770.030</td><td>4.407.850.020.820</td></tr></table>
+
+Người lập
+
+Nguyễn Hồng Quyên
+
+Kế toán trưởng
+
+Tổng Giám đốc
+
+8
+
+===== PAGE 10 =====
+Tổng Công ty Sản xuất - Xuất nhập khẩu Bình Dương - CTCP
+
+A128 đường 3/2, Khu phố Đông Tư, phường Lái Thiêu,
+
+Thành phố Hồ Chí Minh
+
+Báo cáo tài chính riêng
+
+cho năm tài chính kết thúc ngày 31/12/2025
+
+BÁO CÁO KẾT QUẢ HOẠT ĐỘNG KINH DOANH RIÊNG
+
+Cho năm tài chính kết thúc ngày 31/12/2025
+
+<table><tr><td rowspan="2">Mã số</td><td rowspan="2">CHỈ TIÊU</td><td rowspan="2">Thuyết minh</td><td>Năm 2025</td><td>Năm 2024</td></tr><tr><td>VND</td><td>VND</td></tr><tr><td>01</td><td>1. Doanh thu bán hàng và cung cấp dịch vụ</td><td>23</td><td>787.700.000</td><td>1.694.485.715</td></tr><tr><td>02</td><td>2. Các khoản giảm trừ doanh thu</td><td></td><td>-</td><td>-</td></tr><tr><td>10</td><td>3. Doanh thu thuần bán hàng và cung cấp dịch vụ</td><td></td><td>787.700.000</td><td>1.694.485.715</td></tr><tr><td>11</td><td>4. Giá vốn hàng bán</td><td>24</td><td>-</td><td>310.531.534</td></tr><tr><td>20</td><td>5. Lợi nhuận gộp về bán hàng và cung cấp dịch vụ</td><td></td><td>787.700.000</td><td>1.383.954.181</td></tr><tr><td>21</td><td>6. Doanh thu hoạt động tài chính</td><td>25</td><td>212.776.275.083</td><td>160.567.505.529</td></tr><tr><td>22</td><td>7. Chi phí tài chính</td><td>26</td><td>(1.401.634.003)</td><td>(31.878.015.694)</td></tr><tr><td>23</td><td>Trong đó: Chi phí lãi vay</td><td></td><td>12.502.328.768</td><td>15.984.835.453</td></tr><tr><td>25</td><td>8. Chi phí bán hàng</td><td></td><td>-</td><td>-</td></tr><tr><td>26</td><td>9. Chi phí quản lý doanh nghiệp</td><td>27</td><td>158.178.549.322</td><td>144.295.009.613</td></tr><tr><td>30</td><td>10. Lợi nhuận thuần từ hoạt động kinh doanh</td><td></td><td>56.787.059.764</td><td>49.534.465.791</td></tr><tr><td>31</td><td>11. Thu nhập khác</td><td>28</td><td>15.912.135</td><td>3.726.443.820</td></tr><tr><td>32</td><td>12. Chi phí khác</td><td>29</td><td>369.093.619</td><td>1.547.286.178</td></tr><tr><td>40</td><td>13. Lợi nhuận khác</td><td></td><td>(353.181.484)</td><td>2.179.157.642</td></tr><tr><td>50</td><td>14. Tổng lợi nhuận kế toán trước thuế</td><td></td><td>56.433.878.280</td><td>51.713.623.433</td></tr><tr><td>51</td><td>15. Chi phí thuế thu nhập doanh nghiệp hiện hành</td><td>30</td><td>-</td><td>-</td></tr><tr><td>60</td><td>16. Lợi nhuận sau thuế thu nhập doanh nghiệp</td><td></td><td>56.433.878.280</td><td>51.713.623.433</td></tr></table>
+
+Người lập
+
+Nguyễn Hồng Quyên
+
+Kế toán trường
+
+Nguyễn Thị Kim Phượng
+
+Tổng Giám đốc
+
+9
+
+\( \frac{1}{2} \) 求 \( \left( {0 < x}\right) \) 求 \( = \frac{x}{2} + \left( {x + 1}\right) \)
+
+===== PAGE 11 =====
+Tổng Công ty Sản xuất - Xuất nhập khẩu Bình Dương - CTCP
+
+A128 đường 3/2, Khu phố Đông Tư, phường Lái Thiêu,
+
+Thành phố Hồ Chí Minh
+
+Báo cáo tài chính riêng
+
+cho năm tài chính kết thúc ngày 31/12/2025
+
+BÁO CÁO LƯU CHUYÊN TIỀN TỆ RIÊNG
+
+Cho năm tài chính kết thúc ngày 31/12/2025
+
+(Theo phương pháp gián tiếp)
+
+<table><tr><td rowspan="2">Mã số</td><td rowspan="2">CHỈ TIÊU</td><td rowspan="2">Thuyết minh</td><td>Năm 2025</td><td>Năm 2024</td></tr><tr><td>VND</td><td>VND</td></tr><tr><td colspan="5">I. LU&#x27;U CHUYÊN TIÊN TỪ HOẠT ĐỘNG KINH DOANH</td></tr><tr><td rowspan="2">01</td><td>Lợi nhuận trước thuế</td><td></td><td>56.433.878.280</td><td>51.713.623.433</td></tr><tr><td>Điều chính cho các khoản</td><td></td><td></td><td></td></tr><tr><td>02</td><td>Khấu hao tài sản cố định</td><td></td><td>844.390.202</td><td>1.319.025.456</td></tr><tr><td>03</td><td>Các khoản dự phòng</td><td></td><td>72.284.635.631</td><td>26.549.871.165</td></tr><tr><td>04</td><td>Lãi, lỗ chênh lệch tỷ giá hối đoái do đánh giá lại các khoản mục tiền tệ có gốc ngoại tệ</td><td></td><td>2.739.617.648</td><td>3.759.973.556</td></tr><tr><td>05</td><td>Lãi từ hoạt động đầu tư</td><td></td><td>(212.754.589.295)</td><td>(163.588.803.275)</td></tr><tr><td>06</td><td>Chi phí lãi vay</td><td></td><td>12.502.328.768</td><td>15.984.835.453</td></tr><tr><td>08</td><td>Lợi nhuận từ hoạt động kinh doanh trước thay đổi vốn lưu động</td><td></td><td>(67.949.738.766)</td><td>(64.261.474.212)</td></tr><tr><td>09</td><td>Biến động các khoản phải thu</td><td></td><td>1.659.772.839</td><td>(1.760.927.101)</td></tr><tr><td>10</td><td>Biến động hàng tồn kho</td><td></td><td>92.873.296</td><td>449.974.508</td></tr><tr><td>11</td><td>Biến động các khoản phải trả (không kể lãi vay phải trả, thuế thu nhập doanh nghiệp phải nộp)</td><td></td><td>(1.265.704.044)</td><td>1.922.382.436</td></tr><tr><td>12</td><td>Biến động chi phí trả trước</td><td></td><td>22.193.203.266</td><td>22.361.955.439</td></tr><tr><td>14</td><td>Tiền lãi vay đã trả</td><td></td><td>-</td><td>(167.972.440)</td></tr><tr><td>17</td><td>Tiền chi khác cho hoạt động kinh doanh</td><td></td><td>(7.704.975.149)</td><td>(7.599.598.395)</td></tr><tr><td>20</td><td>Lưu chuyển tiền thuần từ hoạt động kinh doanh</td><td></td><td>(52.974.568.558)</td><td>(49.055.659.765)</td></tr><tr><td colspan="5">II. LU&#x27;U CHUYÊN TIÊN TỪ HOẠT ĐỘNG ĐẦU TỪ</td></tr><tr><td>21</td><td>Tiền chỉ để mua sắm, xây dựng tài sản cố định và các tài sản dài hạn khác</td><td></td><td>(3.860.405.351)</td><td>(892.743.694)</td></tr><tr><td>22</td><td>Tiền thu từ thanh lý, nhượng bán tài sản cố định và các tài sản dài hạn khác</td><td></td><td>533.500.000</td><td>4.117.678.450</td></tr><tr><td>23</td><td>Tiền chi cho vay, mua các công cụ nợ của đơn vị khác</td><td></td><td>(25.000.000.000)</td><td>-</td></tr><tr><td>24</td><td>Tiền thu hồi cho vay, bán lại các công cụ nợ của đơn vị khác</td><td></td><td>15.000.000.000</td><td>41.200.000.000</td></tr><tr><td>27</td><td>Tiền thu lãi cho vay, cổ tức và lợi nhuận được chia</td><td></td><td>140.473.479.707</td><td>160.825.389.369</td></tr><tr><td>30</td><td>Lưu chuyển tiền thuần từ hoạt động đầu tư</td><td></td><td>127.146.574.356</td><td>205.250.324.125</td></tr></table>
+
+10
+
+11105
+JNG TY
+NHIÊM HỦI
+; KIỂM
+AS
+PHỒ
+
+===== PAGE 12 =====
+Tổng Công ty Sản xuất - Xuất nhập khẩu Bình Dương - CTCP
+
+A128 đường 3/2, Khu phố Đông Tư, phường Lái Thiêu,
+
+Thành phố Hồ Chí Minh
+
+Báo cáo tài chính riêng
+
+cho năm tài chính kết thúc ngày 31/12/2025
+
+BÁO CÁO LƯU CHUYÊN TIỀN TỆ RIÊNG
+
+Cho năm tài chính kết thúc ngày 31/12/2025
+
+(Theo phương pháp gián tiếp)
+
+<table><tr><td rowspan="2">Mã số</td><td rowspan="2">CHỈ TIÊU</td><td rowspan="2">Thuyết minh</td><td>Năm 2025</td><td>Năm 2024</td></tr><tr><td>VND</td><td>VND</td></tr><tr><td></td><td colspan="4">III. LƯU CHUYỀN TIỀN TỪ HOẠT ĐỘNG TÀI CHÍNH</td></tr><tr><td>33</td><td>1. Tiền thu từ đi vay</td><td></td><td>-</td><td>38.500.000.000</td></tr><tr><td>34</td><td>2. Tiền trả nợ gốc vay</td><td></td><td>-</td><td>(260.000.000.000)</td></tr><tr><td>36</td><td>3. Cổ tức, lợi nhuận đã trả cho chủ sở hữu</td><td></td><td>(90.007.539.500)</td><td>(89.996.580.000)</td></tr><tr><td>40</td><td>Lưu chuyển tiền thuần từ hoạt động tài chính</td><td></td><td>(90.007.539.500)</td><td>(311.496.580.000)</td></tr><tr><td>50</td><td>Lưu chuyển tiền thuần trong năm</td><td></td><td>(15.835.533.702)</td><td>(155.301.915.640)</td></tr><tr><td>60</td><td>Tiền và tương đương tiền đầu năm</td><td></td><td>49.029.816.511</td><td>204.308.502.152</td></tr><tr><td>61</td><td>Ảnh hưởng của thay đổi tỷ giá hối đoái quy đổi ngoại tệ</td><td></td><td>(856.793)</td><td>23.229.999</td></tr><tr><td>70</td><td>Tiền và tương đương tiền cuối năm</td><td>03</td><td>33.193.426.016</td><td>49.029.816.511</td></tr></table>
+
+Nguyễn Hồng Quyên
+
+Tp. Hồ Chí Minh, ngày 30 tháng 03 năm 2026
+
+11
+
+===== PAGE 13 =====
+Tổng Công ty Sản xuất - Xuất nhập khẩu Bình Dương - CTCP
+
+A128 đường 3/2, Khu phố Đông Tư, phường Lái Thiêu,
+
+Thành phố Hồ Chí Minh
+
+Báo cáo tài chính riêng
+
+cho năm tài chính kết thúc ngày 31/12/2025
+
+THUYÊT MINH BÁO CÁO TÀI CHÍNH RIÊNG
+
+Cho năm tài chính kết thúc ngày 31/12/2025
+
+1 . THÔNG TIN CHUNG
+
+Hình thức sở hữu vốn
+
+Tiền thân của Tổng Công ty Sản xuất - Xuất nhập khẩu Bình Dương - TNHH Một thành viên là Công ty Sản xuất - Xuất nhập khẩu Bình Dương hoạt động theo Giấy chứng nhận đăng ký kinh doanh số 103728 ngày 26 tháng 11 năm 1992 do Sở Kế hoạch và Đầu tư tỉnh Bình Dương cấp, đăng ký thay đổi lần thứ 15 ngày 28 tháng 11 năm 2006. Tổng Công ty hoạt động theo mô hình Công ty mẹ - Công ty con theo Quyết định số 134/2006/QĐ-UBND ngày 22 tháng 05 năm 2006 của Chủ tịch UBND tỉnh Bình Dương.
+
+Công ty Sản xuất - Xuất nhập khẩu Bình Dương được chuyển đổi thành Tổng Công ty Sản xuất - Xuất nhập khẩu Bình Dương - TNHH Một thành viên theo Quyết định số 1805/QĐ-UBND ngày 24 tháng 06 năm 2010 của UBND tỉnh Bình Dương. Tổng Công ty chính thức đi vào hoạt động theo mô hình TNHH Một thành viên theo Giấy chứng nhận đăng ký doanh nghiệp Công ty trách nhiệm hữu hạn một thành viên số 3700148166 ngày 15 tháng 11 năm 2010, đăng ký thay đổi lần thứ ba ngày 18 tháng 10 năm 2017 do Sở Kế hoạch và Đầu tư tỉnh Bình Dương cấp.
+
+Tổng Công ty chính thức hoạt động theo mô hình công ty cổ phần theo Giấy chứng nhận đăng ký doanh nghiệp công ty cổ phần số 3700148166 ngày 01 tháng 11 năm 2018 do Sở Kế hoạch và Đầu tư tinh Bình Dương cấp, đăng ký thay đổi lần thứ 10 vào ngày 26 tháng 09 năm 2025.
+
+Trụ sở chính của Tổng Công ty được đặt tại: A128 đường 3/2, khu phố Đông Tư, phường Lái Thiêu, thành phố Hồ Chí Minh.
+
+Vốn điều lệ của Tổng Công ty là 3.000.000.000.000 VND tương đương với 300.000.000 cổ phần. Mệnh giá mỗi cổ phần là 10.000 VND.
+
+Tổng số nhân viên tại ngày 31 tháng 12 năm 2025 của Tổng Công ty là: 53 người (tại ngày 01 tháng 01 năm 2025 là 54 người).
+
+Lĩnh vực kinh doanh
+
+Kinh doanh thương mại, dịch vụ sân golf và hạ tầng khu công nghiệp.
+
+Ngành nghề kinh doanh
+
+Hoạt động chính của Tổng Công ty là:
+
+- Đầu tư tài chính;
+
+- Kinh doanh địa óc, bất động sản;
+
+- Cho thuê đất, cho thuê kho bãi.
+
+Đặc điểm hoạt động của Tổng Công ty trong năm tài chính có ảnh hưởng đến Báo cáo tài chính riêng
+
+Lợi nhuận sau thuế trên Báo cáo kết quả kinh doanh riêng năm nay tăng 4,72 tỷ VND, tương ứng tăng 9,13% so với năm trước. Nguyên nhân biến động chủ yếu như sau:
+
+- Doanh thu hoạt động tài chính tăng 52,21 tỷ VND, tương ứng tăng 32,52%, chủ yếu do tăng cổ tức, lợi nhuận được chia từ các khoản đầu tư tài chính dài hạn. Chi phí hoạt động tài chính tăng 30,48 tỷ VND, tương ứng tăng 95,60% so với năm trước, chủ yếu do năm trước hoàn nhập dự phòng đầu tư tài chính dài hạn.
+
+- Chi phí quản lý doanh nghiệp tăng 13,88 tỷ VND, tương ứng tăng 9,62% chủ yếu do tăng chi phí trích lập dự phòng nợ phải thu khó đòi trong năm nay.
+
+Thông tin về các công ty con, công ty liên kết của Tổng Công ty xem chi tiết tại Thuyết minh số 4.
+
+12
+
+===== PAGE 14 =====
+Tổng Công ty Sản xuất - Xuất nhập khẩu Bình Dương - CTCP
+
+A128 đường 3/2, Khu phố Đông Tư, phường Lái Thiêu,
+
+Thành phố Hồ Chí Minh
+
+Báo cáo tài chính riêng
+
+cho năm tài chính kết thúc ngày 31/12/2025
+
+2 . CHẾ ĐỘ VÀ CHÍNH SÁCH KẾ TOÁN ÁP DỤNG TẠI TỔNG CÔNG TY
+
+2.1 . Kỳ kế toán, đơn vị tiền tệ sử dụng trong kế toán
+
+Kỳ kế toán năm của Tổng Công ty theo năm dương lịch bắt đầu từ ngày 01/01 và kết thúc vào ngày 31/12 hàng năm.
+
+Đơn vị tiền tệ sử dụng trong ghi chép kế toán là đồng Việt Nam (VND).
+
+2.2 . Chuẩn mực và Chế độ kế toán áp dụng
+
+Chế độ kế toán áp dụng
+
+Tổng Công ty áp dụng Chế độ Kế toán doanh nghiệp ban hành theo Thông tư số 200/2014/TT-BTC ngày 22/12/2014 của Bộ Tài chính và Thông tư số 53/2016/TT-BTC ngày 21/03/2016 của Bộ Tài chính về việc sửa đổi, bổ sung một số điều của Thông tư số 200/2014/TT-BTC.
+
+Tuyên bố về việc tuân thủ Chuẩn mực kế toán và Chế độ kế toán
+
+Tổng Công ty đã áp dụng các Chuẩn mục kế toán Việt Nam và các văn bản hướng dẫn Chuẩn mục do Nhà nước đã ban hành. Các Báo cáo tài chính được lập và trình bày theo đúng mọi quy định của từng chuẩn mục, thông tư hướng dẫn thực hiện Chuẩn mục và Chế độ kế toán doanh nghiệp hiện hành đang áp dụng.
+
+2.3 . Cơ sở lập Báo cáo tài chính riêng
+
+Báo cáo tài chính riêng được trình bày theo nguyên tắc giá gốc.
+
+Những người sử dụng các Báo cáo tài chính riêng này nên đọc các Báo cáo tài chính riêng kết hợp với các Báo cáo tài chính hợp nhất của Tổng Công ty và các Công ty con cho năm tài chính kết thúc ngày 31/12/2025 để có đủ thông tin về tinh hình tài chính, kết quả hoạt động kinh doanh và các lường lưu chuyển tiền tệ của cả Tổng Công ty và các công ty con.
+
+2.4 . Uốc tính kế toán
+
+Việc lập Báo cáo tài chính riêng tuân thủ theo các Chuẩn mực kế toán Việt Nam, Chế độ kế toán doanh nghiệp Việt Nam và các quy định pháp lý có liên quan đến việc lập và trình bày Báo cáo tài chính riêng yêu cầu Ban Tổng Giám đốc phải có những ước tính và giả định ảnh hưởng đến số liệu về công nợ, tài sản và việc trình bày các khoản công nợ và tài sản tiềm tàng tại ngày kết thúc năm tài chính cũng như các số liệu về doanh thu và chi phí trong suốt năm tài chính.
+
+Các ước tính và giả định có ảnh hưởng trọng yếu trong Báo cáo tài chính riêng bao gồm:
+
+- Dự phòng phải thu khó đòi;
+
+- Dự phòng giảm giá hàng tồn kho;
+
+- Uốc tính phân bổ chi phí trả trước;
+
+- Thời gian hữu dụng ước tính của tài sản cố định;
+
+- Phân loại và dự phòng các khoản đầu tư tài chính;
+
+- Uốc tính chi phí phải trả;
+
+- Uốc tính thuế thu nhập doanh nghiệp.
+
+Các ước tính và giả định thường xuyên được đánh giá dựa trên kinh nghiệm trong quá khứ và các yếu tố khác, bao gồm các giả định trong tương lai có ảnh hưởng trọng yếu tới Báo cáo tài chính riêng của Tổng Công ty và được Ban Tổng Giám đốc đánh giá là hợp lý.
+
+13
+
+1001
+C
+RÁCH
+HÂN
+HÂN
+
+J01
+G CO
+N X
+IHÂ
+'DU
+NG
+PH
+T.B
+
+===== PAGE 15 =====
+Tổng Công ty Sản xuất - Xuất nhập khẩu Bình Dương - CTCP
+
+A128 đường 3/2, Khu phố Đông Tư, phường Lái Thiêu,
+
+Thành phố Hồ Chí Minh
+
+Báo cáo tài chính riêng
+
+cho năm tài chính kết thúc ngày 31/12/2025
+
+2.5 . Công cụ tài chính
+
+Ghi nhận ban đầu
+
+Tài sản tài chính
+
+Tài sản tài chính của Tổng Công ty bao gồm tiền và các khoản tương đương tiền, các khoản phải thu khách hàng và phải thu khác, các khoản cho vay. Tại thời điểm ghi nhận ban đầu, tài sản tài chính được xác định theo giá mua/chi phí phát hành cộng các chi phí phát sinh khác liên quan trực tiếp đến việc mua, phát hành tài sản tài chính đó.
+
+Nợ phải trả tài chính
+
+Nợ phải trả tài chính của Tổng Công ty bao gồm các khoản vay, phải trả người bán và phải trả khác, chi phí phải trả. Tại thời điểm ghi nhận lần đầu, các khoản nợ phải trả tài chính được xác định theo giá phát hành cộng các chi phí phát sinh liên quan trực tiếp đến việc phát hành nợ phải trả tài chính đó.
+
+Giá trị sau ghi nhận ban đầu
+
+Tài sản tài chính và nợ phải trả tài chính chưa được đánh giá theo giá trị hợp lý tại ngày kết thúc năm tài chính do Thông tư số 210/2009/TT-BTC và các quy định hiện hành yêu cầu trình bày Báo cáo tài chính và thuyết minh thông tin đối với công cụ tài chính nhưng không đưa ra hướng dẫn tương đương cho việc đánh giá và ghi nhận giá trị hợp lý của các tài sản tài chính và nợ phải trả tài chính.
+
+2.6 . Các nghiệp vụ bằng ngoại tệ
+
+Các giao dịch bằng ngoại tệ trong năm tài chính được quy đổi ra đồng Việt Nam theo tỷ giá thực tế tại ngày giao dịch.
+
+Tỷ giá giao dịch thực tế khi đánh giá lại các khoản mục tiền tệ có gốc ngoại tệ tại thời điểm lập Báo cáo tài chính riêng được xác định theo nguyên tắc:
+
+- Đối với khoản mục phân loại là tài sản: áp dụng tỷ giá mua ngoại tệ của ngân hàng thương mại nơi Tổng Công ty thường xuyên có giao dịch;
+
+- Đối với tiền gửi ngoại tệ: áp dụng tỷ giá mua của chính ngân hàng nơi Tổng Công ty mở tài khoản ngoại tệ;
+
+- Đối với khoản mục phân loại là nợ phải trả: áp dụng tỷ giá bán ngoại tệ của ngân hàng thương mại nơi Tổng Công ty thường xuyên có giao dịch.
+
+Tất cả các khoản chênh lệch tỷ giá thực tế phát sinh trong năm và chênh lệch do đánh giá lại số dư các khoản mục tiền tệ có gốc ngoại tệ cuối năm được hạch toán vào kết quả hoạt động kinh doanh của năm tài chính.
+
+2.7 . Tiền và các khoản tương đương tiền
+
+Tiền bao gồm tiền mặt tại quỹ, tiền gửi ngân hàng không kỳ hạn.
+
+Các khoản tương đương tiền là các khoản đầu tư ngắn hạn có thời gian thu hồi không quá 03 tháng kể từ ngày đầu tư, có tính thanh khoản cao, có khả năng chuyển đổi dễ dàng thành các lượng tiền xác định và không có nhiều rủi ro trong chuyển đổi thành tiền.
+
+2.8 . Các khoản đầu tư tài chính
+
+Các khoản đầu tư nắm giữ đến ngày đáo hạn bao gồm: Các khoản tiền gửi ngân hàng có kỳ hạn được nằm giữ đến ngày đáo hạn với mục đích thu lãi hàng kỳ.
+
+Các khoản đầu tư vào các công ty con, công ty liên kết được ghi nhận ban đầu trên số kế toán theo giá gốc. Sau ghi nhận ban đầu, giá trị của các khoản đầu tư này được xác định theo giá gốc trừ đi dự phòng giảm giá khoản đầu tư.
+
+Các khoản đầu tư góp vốn vào các đơn vị khác bao gồm: các khoản đầu tư vào công cụ vốn của đơn vị khác không có quyền kiểm soát, đồng kiểm soát hoặc có ảnh hưởng đáng kể đối với bên được đầu tư. Giá trị ghi sổ ban đầu của các khoản đầu tư này được xác định theo giá gốc. Sau ghi nhận ban đầu, giá trị của các khoản đầu tư này được xác định theo giá gốc trừ đi dự phòng giảm giá khoản đầu tư.
+
+14
+
+117
+ONG
+NHIỆ
+GKI
+AA
+PH
+
+481
+NG T
+JÁT-
+2 KH
+ONG
+TY
+IN
+INH
+
+===== PAGE 16 =====
+Tổng Công ty Sản xuất - Xuất nhập khẩu Bình Dương - CTCP
+
+A128 đường 3/2, Khu phố Đông Tư, phường Lái Thiêu,
+
+Thành phố Hồ Chí Minh
+
+Báo cáo tài chính riêng
+
+cho năm tài chính kết thúc ngày 31/12/2025
+
+Dự phòng giảm giá các khoản đầu tư được lập vào thời điểm cuối năm cụ thể như sau:
+
+- Đối với các khoản đầu tư vào công ty con, công ty liên kết: Dự phòng giảm giá đầu tư được lập khi đơn vị nhận đầu tư phát sinh lỗ, căn cứ vào Báo cáo tài chính của công ty con, công ty liên kết tại thời điểm trích lập dự phòng.
+
+- Đối với khoản đầu tư nắm giữ lâu dài (không phân loại là chứng khoán kinh doanh) và không có ảnh hưởng đáng kể đối với bên được đầu tư: việc lập dự phòng được lập căn cứ vào Báo cáo tài chính tại thời điểm trích lập dự phòng của bên được đầu tư.
+
+- Đối với các khoản đầu tư nắm giữ đến ngày đáo hạn: căn cứ khả năng thu hồi để lập dự phòng phải thu khó đòi theo quy định của pháp luật.
+
+2.9 . Các khoản nợ phải thu
+
+Các khoản phải thu được theo dõi chi tiết theo kỳ hạn phải thu, đối tượng phải thu, loại nguyên tệ phải thu, và các yếu tố khác theo nhu cầu quản lý của Tổng Công ty. Các khoản phải thu được phân loại là ngắn hạn và dài hạn trên Báo cáo tài chính riêng căn cứ kỳ hạn còn lại của các khoản phải thu tại ngày báo cáo.
+
+Dự phòng nợ phải thu khó đòi được trích lập cho các khoản: nợ phải thu quá hạn thanh toán ghi trong hợp đồng kinh tế, các khế ước vay nợ, cam kết hợp đồng hoặc cam kết nợ và nợ phải thu chưa đến hạn thanh toán nhưng khó có khả năng thu hồi. Trong đó, việc trích lập dự phòng nợ phải thu quá hạn thanh toán được căn cứ vào thời gian trả nợ gốc theo hợp đồng mua bán ban đầu, không tính đến việc gia hạn nợ giữa các bên và nợ phải thu chưa đến hạn thanh toán nhưng khách nợ đã lâm vào tình trạng phá sản hoặc đang làm thủ tục giải thể, mất tích, bỏ trốn hoặc dự kiến mức tổn thất có thể xảy ra.
+
+2.10 . Hàng tồn kho
+
+Hàng tồn kho được ghi nhận ban đầu theo giá gốc bao gồm: chi phí mua, chi phí chế biến và các chi phí liên quan trực tiếp khác phát sinh để có được hàng tồn kho ở địa điểm và trạng thái tại thời điểm ghi nhận ban đầu. Sau ghi nhận ban đầu, tại thời điểm lập Báo cáo tài chính riêng nếu giá trị thuần có thể thực hiện được của hàng tồn kho thấp hơn giá gốc thì hàng tồn kho được ghi nhận theo giá trị thuần có thể thực hiện được.
+
+Giá trị thuần có thể thực hiện được ước tính dựa vào giá bán của hàng tồn kho trừ đi các khoản chi phí ước tính để hoàn thành sản phẩm và các chi phí ước tính để bán sản phẩm.
+
+Giá trị hàng tồn kho được xác định theo phương pháp bình quân gia quyền.
+
+Hàng tồn kho được hạch toán theo phương pháp kê khai thường xuyên.
+
+Dự phòng giảm giá hàng tồn kho được lập vào thời điểm cuối năm căn cứ theo số chênh lệch giữa giá gốc của hàng tồn kho lớn hơn giá trị thuần có thể thực hiện được.
+
+2.11. Tài sản cố định
+
+Tài sản cố định hữu hình, tài sản cố định vô hình được ghi nhận ban đầu theo giá gốc. Trong quá trình sử dụng, tài sản cố định hữu hình, tài sản cố định vô hình được ghi nhận theo nguyên giá, hao mòn luỹ kế và giá trị còn lại.
+
+Giá trị sau ghi nhận ban đầu
+
+Nếu các khoản chi phí này làm tăng lợi ích kinh tế trong tương lai dự tính thu được từ việc sử dụng tài sản cố định hữu hình vượt trên mức hoạt động tiêu chuẩn theo như đánh giá ban đầu thì các chi phí này được vốn hóa như một khoản nguyên giá tăng thêm của tài sản cố định hữu hình.
+
+Khấu hao tài sản cố định được trích theo phương pháp đường thẳng với thời gian khấu hao được ước tính như sau:
+
+<table><tr><td>- Nhà cửa, vật kiến trúc</td><td>06 - 25</td><td>năm</td></tr><tr><td>- Máy móc, thiết bị</td><td>06 - 12</td><td>năm</td></tr><tr><td>- Phương tiện vận tải</td><td>05 - 10</td><td>năm</td></tr><tr><td>- Thiết bị, dụng cụ quản lý</td><td>03 - 08</td><td>năm</td></tr><tr><td>- Tài sản cố định khác</td><td>02</td><td>năm</td></tr><tr><td>- Phần mềm máy tính</td><td>03</td><td>năm</td></tr></table>
+
+2.12. Bất động sản đầu tư
+
+Bất động sản đầu tư được ghi nhận ban đầu theo giá gốc. Bất động sản đầu tư nắm giữ chờ tăng giá là quyền sử dụng đất trước ngày 01/01/2015 được tính trích khấu hao theo phương pháp đường thẳng tương tự như các tài sản khác, kể từ ngày 01/01/2015 không thực hiện trích khấu hao.
+
+15
+
+에 测고 수
+
+===== PAGE 17 =====
+Tổng Công ty Sản xuất - Xuất nhập khẩu Bình Dương - CTCP
+
+A128 đường 3/2, Khu phố Đông Tư, phường Lái Thiêu,
+
+Thành phố Hồ Chí Minh
+
+Báo cáo tài chính riêng
+
+cho năm tài chính kết thúc ngày 31/12/2025
+
+2.13. Chi phí xây dựng cơ bản
+
+Chi phí xây dựng cơ bản dở dang bao gồm tài sản cố định đang mua sắm và xây dựng mà chưa hoàn thành tại ngày kết thúc năm tài chính và được ghi nhận theo giá gốc. Chi phí này bao gồm các chi phí về xây dựng, lắp đặt máy móc thiết bị và các chi phí trực tiếp khác.
+
+2.14 . Thuê hoạt động
+
+Thuê hoạt động là loại hình thuê tài sản cố định mà phần lớn rủi ro và lợi ích gắn liền với quyền sở hữu của tài sản thuộc về bên cho thuê. Khoản thanh toán dưới hình thức thuê hoạt động được hạch toán vào Báo cáo kết quả hoạt động kinh doanh theo phương pháp đường thẳng dựa trên thời hạn thuê hoạt động.
+
+2.15. Chi phí trả trước
+
+Các chi phí đã phát sinh liên quan đến kết quả hoạt động sản xuất kinh doanh của nhiều năm tài chính được hạch toán vào chi phí trả trước để phân bổ dẫn vào kết quả hoạt động kinh doanh trong các năm tài chính sau.
+
+Việc tính và phân bổ chi phí trả trước dài hạn vào chi phí sản xuất kinh doanh từng năm tài chính được căn cứ vào tính chất, mức độ từng loại chi phí để lựa chọn phương pháp và tiêu thức phân bổ hợp lý.
+
+Các loại chi phí trả trước của Tổng Công ty bao gồm:
+
+- Công cụ và dụng cụ bao gồm các tài sản mà Tổng Công ty nấm giữ để sử dụng trong quá trình hoạt động kinh doanh bình thường, với nguyên giá của mỗi tài sản thấp hơn 30 triệu VND và do đó không đủ điều kiện để ghi nhận là tài sản cố định theo quy định hiện hành. Nguyên giá công cụ dụng cụ được phân bổ theo phương pháp đường thẳng trong thời gian hữu dụng;
+
+- Lợi thế kinh doanh phát sinh khi cổ phần hóa doanh nghiệp Nhà nước được phân bổ đàn tối đa không quá 10 năm;
+
+- Chi phí trả trước khác được ghi nhận theo nguyên giá và được phân bổ theo phương pháp đường thẳng trong thời gian hữu dụng.
+
+2.16. Các khoản nợ phải trả
+
+Các khoản nợ phải trả được theo dõi theo kỳ hạn phải trả, đối tượng phải trả, loại nguyên tệ phải trả và các yếu tố khác theo nhu cầu quản lý của Tổng Công ty. Các khoản phải trả được phân loại ngắn hạn và dài hạn trên Báo cáo tài chính riêng căn cứ theo kỳ hạn còn lại của các khoản phải trả tại ngày báo cáo.
+
+2.17. Các khoản vay
+
+Các khoản vay được theo dõi theo từng đối tượng cho vay, từng khế ước vay nợ và kỳ hạn phải trả của các khoản vay. Trường hợp vay bằng ngoại tệ thì thực hiện theo dõi chỉ tiết theo nguyên tệ.
+
+2.18. Chi phí đi vay
+
+Chi phí đi vay được ghi nhận vào chi phí sản xuất, kinh doanh trong năm khi phát sinh, trừ chi phí đi vay liên quan trực tiếp đến việc đầu tư xây dựng hoặc sản xuất tài sản dở dang được tính vào giá trị của tài sản đó (được vốn hoá) khi có đủ các điều kiện quy định trong Chuẩn mực Kế toán Việt Nam số 16 “Chi phí đi vay”. Ngoài ra, đối với khoản vay riêng phục vụ việc xây dựng tài sản cố định, bất động sản đầu tư, lãi vay được vốn hóa kể cả khi thời gian xây dựng dưới 12 tháng.
+
+2.19 . Chi phí phải trả
+
+Các khoản phải trả cho hàng hóa dịch vụ đã nhận được từ người bán hoặc đã được cung cấp cho người mua trong năm báo cáo nhưng thực tế chưa chi trả và các khoản phải trả khác như chi phí lãi tiền vay phải trả... được ghi nhận vào chi phí sản xuất, kinh doanh của năm báo cáo.
+
+Việc ghi nhận các khoản chi phí phải trả vào chi phí sản xuất, kinh doanh trong năm được thực hiện theo nguyên tắc phù hợp giữa doanh thu và chi phí phát sinh trong năm. Các khoản chi phí phải trả sẽ được quyết toán với số chi phí thực tế phát sinh. Số chênh lệch giữa số trích trước và chi phí thực tế được hoàn nhập.
+
+16
+
+===== PAGE 18 =====
+Tổng Công ty Sản xuất - Xuất nhập khẩu Bình Dương - CTCP
+
+A128 đường 3/2, Khu phố Đông Tư, phường Lái Thiêu,
+
+Thành phố Hồ Chí Minh
+
+Báo cáo tài chính riêng
+
+cho năm tài chính kết thúc ngày 31/12/2025
+
+2.20 . Doanh thu chưa thực hiện
+
+Doanh thu chưa thực hiện là số tiền của khách hàng đã trả trước cho một hoặc nhiều năm tài chính về cho thuê tài sản. Doanh thu chưa thực hiện được kết chuyển vào Doanh thu cung cấp dịch vụ theo số tiền được xác định phù hợp với từng năm tài chính.
+
+2.21. Vốn chủ sở hữu
+
+Vốn đầu tư của chủ sở hữu được ghi nhận theo số vốn thực góp của chủ sở hữu.
+
+Lợi nhuận sau thuế chưa phân phối phần ánh kết quả kinh doanh (lãi, lỗ) sau thuế thu nhập doanh nghiệp và tinh hình phân chia lợi nhuận hoặc xử lý lỗ của Tổng Công ty.
+
+Cổ tức phải trả cho các cổ đông được ghi nhận là khoản phải trả trên Bảng cân đối kế toán riêng của Tổng Công ty sau khi có thông báo chia cổ tức của Hội đồng Quản trị Tổng Công ty và thông báo ngày chết quyền nhận cổ tức của Tổng Công ty Lưu ký và bù trừ chứng khoán Việt Nam.
+
+2.22 . Doanh thu
+
+Doanh thu được ghi nhận khi Tổng Công ty có khả năng nhận được các lợi ích kinh tế có thể xác định một cách chắc chắn. Doanh thu được xác định theo giá trị hợp lý của các khoản đã thu hoặc sẽ thu được sau khi trừ đi các khoản chiết khấu thương mại, giảm giá hàng bán, hàng bán bị trả lại. Các điều kiện ghi nhận cụ thể sau đây cũng phải được đáp ứng khi ghi nhận doanh thu:
+
+Doanh thu bán hàng
+
+- Phần lớn rủi ro và lợi ích gắn liền với quyền sở hữu sản phẩm hoặc hàng hóa đã được chuyển giao cho người mua;
+
+- Tổng Công ty không còn nằm giữ quyền quản lý hàng hóa như người sở hữu hàng hóa hoặc quyền kiểm soát hàng hóa.
+
+Doanh thu cung cấp dịch vụ
+
+- Xác định được phần công việc đã hoàn thành vào ngày lập Bảng cân đối kế toán riêng.
+
+Doanh thu hoạt động tài chính
+
+Doanh thu phát sinh từ tiền lãi, cổ tức, lợi nhuận được chia và các khoản doanh thu hoạt động tài chính khác được ghiành nhận khi thỏa mãn đồng thời hai (2) điều kiện sau:
+
+- Có khả năng thu được lợi ích kinh tế từ giao dịch đó;
+
+- Doanh thu được xác định tương đối chắc chắn.
+
+Cổ tức, lợi nhuận được chia được ghi nhận khi Tổng Công ty được quyền nhận cổ tức hoặc được quyền nhận lợi nhuận từ việc góp vốn.
+
+2.23 . Giá vốn hàng bán và dịch vụ cung cấp
+
+Giá vốn hàng bán và dịch vụ cung cấp là tổng chi phí phát sinh của thành phẩm, hàng hóa, vật tư xuất bán và dịch vụ cung cấp cho khách hàng trong năm, được ghi nhận phù hợp với doanh thu phát sinh trong năm và đảm bảo tuân thủ nguyên tắc thận trọng. Các trường hợp hao hụt vật tư hàng hóa vượt định mức, chi phí vượt định mức bình thường, chi phí nhân công và chi phí sản xuất chung cố định không phân bổ vào giá trị sản phẩm nhập kho, dự phòng giảm giá hàng tồn kho, hàng tồn kho bị mất mát sau khi đã trừ đi phân trách nhiệm của tập thể, cá nhân có liên quan... được ghi nhận đầy đủ và, kịp thời vào giá vốn hàng bán trong năm kể cả khi sản phẩm, hàng hóa chưa được xác định là tiêu thụ.
+
+2.24 . Chi phí tài chính
+
+Các khoản chi phí được ghi nhận vào chi phí tài chính gồm:
+
+- Chi phí hoặc các khoản lỗ liên quan đến các hoạt động đầu tư tài chính;
+
+- Chi phí đi vay vốn;
+
+- Dự phòng tổn thất đầu tư vào đơn vị khác, lỗ tỷ giá hối đoái...
+
+Các khoản trên được ghi nhận theo tổng số phát sinh trong năm, không bù trừ với doanh thu hoạt động tài chính.
+
+17
+
+M.S.D.N.
+
+T.N.H.H
+N N ★
+I.Q.M
+
+100
+NG
+AN
+NF
+NH
+VH
+ON
+ON
+ON
+AN-
+
+===== PAGE 19 =====
+Tổng Công ty Sản xuất - Xuất nhập khẩu Bình Dương - CTCP
+
+A128 đường 3/2, Khu phố Đông Tư, phường Lái Thiêu,
+
+Thành phố Hồ Chí Minh
+
+Báo cáo tài chính riêng
+
+cho năm tài chính kết thúc ngày 31/12/2025
+
+2.25. Thuế thu nhập doanh nghiệp
+
+a) Chi phí thuế TNDN hiện hành
+
+Chi phí thuế TNDN hiện hành được xác định trên cơ sở thu nhập chịu thuế trong năm và thuế suất thuế TNDN trong năm tài chính hiện hành.
+
+b) Thuế suất thuế TNDN hiện hành
+
+Trong năm tài chính kết thúc ngày 31/12/2025, Tổng Công ty được áp dụng mức thuế suất thuế TNDN là 20% đối với các hoạt động sản xuất kinh doanh có thu nhập chịu thuế TNDN.
+
+2.26. Các bên liên quan
+
+Các bên được coi là liên quan nếu bên đó có khả năng kiểm soát hoặc có ảnh hưởng đáng kể đối với bên kia trong việc ra quyết định về các chính sách tài chính và hoạt động. Các bên liên quan của Tổng Công ty bao gồm:
+
+- Các doanh nghiệp trực tiếp hay gián tiếp qua một hoặc nhiều trung gian có quyền kiểm soát Tổng Công ty hoặc chịu sự kiểm soát của Tổng Công ty, hoặc cùng chung sự kiểm soát với Tổng Công ty, bao gồm cả công ty mẹ, công ty con và công ty liên kết;
+
+- Các cá nhân trực tiếp hoặc gián tiếp nấm quyền biểu quyết của Tổng Công ty mà có ảnh hưởng đáng kể đối với Tổng Công ty, những nhân sự quản lý chủ chốt của Tổng Công ty, những thành viên mật thiết trong gia đình của các cá nhân này;
+
+- Các doanh nghiệp do các cá nhân nếu trên nằm trực tiếp hoặc gián tiếp phần quan trọng quyền biểu quyết hoặc có ảnh hưởng đáng kể tới các doanh nghiệp này.
+
+Trong việc xem xét từng mối quan hệ của các bên liên quan để phục vụ cho việc lập và trình bày Báo cáo tài chính riêng, Tổng Công ty chú ý tới bản chất của mối quan hệ hơn là hình thức pháp lý của các quan hệ đó.
+
+2.27. Thông tin bộ phận
+
+Hoạt động kinh doanh chính của Tổng Công ty là đầu tư tài chính và diễn ra trên lãnh thổ Việt Nam. Do đó, Tổng Công ty không trình bày Báo cáo bộ phận theo lĩnh vực kinh doanh và theo khu vực địa lý.
+
+3 . TIỀN VÀ CÁC KHOẢN TƯƠNG ĐƯƠNG TIỀN
+
+<table><tr><td rowspan="2"></td><td>31/12/2025</td><td>01/01/2025</td></tr><tr><td>VND</td><td>VND</td></tr><tr><td>Tiền mặt</td><td>422.682.909</td><td>1.282.246.429</td></tr><tr><td>Tiền gửi ngân hàng không kỳ hạn</td><td>2.770.743.107</td><td>12.747.570.082</td></tr><tr><td>Các khoản tương đương tiền (*)</td><td>30.000.000.000</td><td>35.000.000.000</td></tr><tr><td></td><td>33.193.426.016</td><td>49.029.816.511</td></tr></table>
+
+(*) Tại ngày 31/12/2025, các khoản tương đương tiền là tiền gửi với kỳ hạn dưới 03 tháng có giá trị 30 tỷ VND được gửi tại các ngân hàng thương mại cổ phần với lãi suất từ 4,5%/năm đến 4,75%/năm.
+
+4 . CÁC KHOẢN ĐẦU TƯ TÀI CHÍNH
+
+a) Đầu tư nằm giữ đến ngày đáo hạn
+
+<table><tr><td rowspan="3"></td><td colspan="2">31/12/2025</td><td colspan="2">01/01/2025</td></tr><tr><td>Giá gốc</td><td>Dự phòng</td><td>Giá gốc</td><td>Dự phòng</td></tr><tr><td>VND</td><td>VND</td><td>VND</td><td>VND</td></tr><tr><td rowspan="2">- Tiền gửi có kỳ hạn (*)</td><td>25.000.000.000</td><td>-</td><td>-</td><td>-</td></tr><tr><td>25.000.000.000</td><td>-</td><td>-</td><td>-</td></tr></table>
+
+(*) Tại ngày 31/12/2025, các đầu tư nắm giữ đến ngày đáo hạn ngắn hạn là tiền gửi với kỳ hạn 06 tháng có giá trị 25 tỷ VND được gửi tại các ngân hàng thương mại cổ phần với lãi suất từ 4,10%/năm đến 5,30%/năm.
+
+18
+
+100 RAC IÃ
+
+148
+CÔNG
+XUÃ
+IÂP
+UO
+G TY
+HÂN
+BÌ
+
+===== PAGE 20 =====
+Tổng Công ty Sản xuất - Xuất nhập khẩu Bình Dương - CTCP
+
+A128 đường 3/2, Khu phố Đông Tư, phường Lái Thiêu, Thành phố Hồ Chí Minh
+
+Báo cáo tài chính riêng
+
+cho năm tài chính kết thúc ngày 31/12/2025
+
+4. CÁC KHOẢN ĐẦU TƯ TÀI CHÍNH (Tiếp theo)
+b) Đầu tư góp vốn vào đơn vị khác
+
+<table><tr><td rowspan="2"></td><td rowspan="2">Mã CK</td><td colspan="3">31/12/2025</td><td colspan="3">01/01/2025</td></tr><tr><td>Giá gốcVND</td><td>Giá trị hợp lýVND</td><td>Dự phòngVND</td><td>Giá gốcVND</td><td>Giá trị hợp lýVND</td><td>Dự phòngVND</td></tr><tr><td>Đầu tư vào công ty con</td><td></td><td>1.983.268.790.753</td><td></td><td>(99.459.377.985)</td><td>1.983.268.790.753</td><td></td><td>(125.328.189.181)</td></tr><tr><td>- KP Apparel Manufacturing Co., Ltd</td><td></td><td>62.138.569.749</td><td></td><td>-</td><td>62.138.569.749</td><td></td><td>-</td></tr><tr><td>- Công ty TNHH MTV Giấy Vĩnh Phú (1)</td><td></td><td>84.522.691.475</td><td></td><td>(12.697.646.380)</td><td>84.522.691.475</td><td></td><td>(16.119.332.037)</td></tr><tr><td>- Công ty CP Thương mại Tổng hợp Thuận An</td><td></td><td>17.597.456.293</td><td></td><td>-</td><td>17.597.456.293</td><td></td><td>-</td></tr><tr><td>- Công ty TNHH MTV Quốc tế Protrade</td><td></td><td>511.397.354.195</td><td></td><td>-</td><td>511.397.354.195</td><td></td><td>-</td></tr><tr><td>- Công ty TNHH Sân Golf Palm Sông Bé</td><td></td><td>915.047.144.712</td><td></td><td>-</td><td>915.047.144.712</td><td></td><td>(8.238.346.730)</td></tr><tr><td>- Công ty CP Cao su Dầu Tiếng Việt Lào</td><td></td><td>392.565.574.329</td><td></td><td>(86.761.731.605)</td><td>392.565.574.329</td><td></td><td>(100.970.510.414)</td></tr><tr><td>Đầu tư vào công ty liên kết</td><td></td><td>1.153.336.427.266</td><td></td><td>(395.232.310.913)</td><td>1.153.336.427.266</td><td></td><td>(386.007.109.196)</td></tr><tr><td>- Công ty CP Phát triển Phú Mỹ</td><td></td><td>238.562.498.304</td><td></td><td>(223.033.109.744)</td><td>238.562.498.304</td><td></td><td>(209.500.417.887)</td></tr><tr><td>- Công ty TNHH FrieslandCampina Việt Nam</td><td></td><td>298.799.188.283</td><td></td><td>(4.954.885.287)</td><td>298.799.188.283</td><td></td><td>(7.131.001.513)</td></tr><tr><td>- Công ty CP Bệnh viện Đa khoa Quốc tế Hạnh Phúc</td><td></td><td>243.622.560.000</td><td></td><td>(76.023.644.846)</td><td>243.622.560.000</td><td></td><td>(79.194.746.378)</td></tr><tr><td>- Công ty CP Hưng Vương</td><td></td><td>68.438.780.329</td><td></td><td>-</td><td>68.438.780.329</td><td></td><td>-</td></tr><tr><td>- Công ty TNHH YCH-PROTRADE</td><td></td><td>26.301.686.013</td><td></td><td>-</td><td>26.301.686.013</td><td></td><td>-</td></tr><tr><td>- Công ty CP Đầu tư &amp; Phát triển Tân Thành</td><td></td><td>156.890.179.774</td><td></td><td>(91.220.671.036)</td><td>156.890.179.774</td><td></td><td>(90.180.943.418)</td></tr><tr><td>- Công ty CP May mặc Bình Dương</td><td>BDG</td><td>120.721.534.563</td><td>501.652.123.200</td><td>-</td><td>120.721.534.563</td><td>399.901.928.400</td><td>-</td></tr><tr><td>Đầu tư vào đơn vị khác</td><td></td><td>505.000.000</td><td></td><td>-</td><td>505.000.000</td><td></td><td>-</td></tr><tr><td>- Công ty Cổ phần Cơ khí Vận tải Cao su Dầu Tiếng</td><td></td><td>505.000.000</td><td></td><td>-</td><td>505.000.000</td><td></td><td>-</td></tr><tr><td></td><td></td><td>3.137.110.218.019</td><td></td><td>(494.691.688.898)</td><td>3.137.110.218.019</td><td></td><td>(511.335.298.377)</td></tr></table>
+
+Giá trị hợp lý của khoản đầu tư vào Công ty CP May Mặc Bình Dương tại ngày đầu năm và cuối năm được xác định theo giá đóng cửa của chứng khoán này trên sản UPCOM tại ngày 31/12/2024 và ngày 31/12/2025. Các khoản đầu tư còn lại Tổng Công ty chưa xác định giá trị hợp lý của các khoản đầu tư tài chính này do Chuẩn mực Kế toán Việt Nam, Chế độ Kế toán doanh nghiệp Việt Nam chưa có hướng dẫn cụ thể về việc xác định giá trị hợp lý.
+
+19
+
+11.1 ▷ 2014
+
+===== PAGE 21 =====
+Tổng Công ty Sản xuất - Xuất nhập khẩu Bình Dương - CTCP
+
+A128 đường 3/2, Khu phố Đông Tư, phường Lái Thiêu, Thành phố Hồ Chí Minh
+
+Báo cáo tài chính riêng
+
+cho năm tài chính kết thúc ngày 31/12/2025
+
+<table><tr><td>CÁC KHOẢN ĐẦU TƯ TÀI CHÍNH (Tiếp theo)Thông tin chi tiết về các đơn vị nhận đầu tư trong năm:Tên Công ty</td><td>Nơi thành lập và hoạt động</td><td>Tỷ lệ lợi ích</td><td>Tỷ lệ biểu quyết</td><td>Hoạt động kinh doanh</td></tr><tr><td colspan="5">Công ty con</td></tr><tr><td>- KP Apparell Manufacturing Co.,Ltd</td><td>Vương quốc Campuchia</td><td>100,00%</td><td>100,00%</td><td>Sản xuất hàng sợi, vải, may mặc</td></tr><tr><td>- Công ty TNHH MTV Giấy Vĩnh Phú\( ^{(1)} \)</td><td>Thành phố Hồ Chí Minh</td><td>100,00%</td><td>100,00%</td><td>Sản xuất, kinh doanh sản phẩm từ giấy</td></tr><tr><td>- Công ty CP Thương mại Tổng hợp Thuận An</td><td>Thành phố Hồ Chí Minh</td><td>62,68%</td><td>62,68%</td><td>Kinh doanh thương mại</td></tr><tr><td>- Công ty TNHH MTV Quốc Tế Protrade</td><td>Thành phố Hồ Chí Minh</td><td>100,00%</td><td>100,00%</td><td>Kinh doanh hạ tầng khu công nghiệp</td></tr><tr><td>- Công ty TNHH Sân Golf Palm Sông Bé</td><td>Thành phố Hồ Chí Minh</td><td>100,00%</td><td>100,00%</td><td>Kinh doanh dịch vụ golf</td></tr><tr><td>- Công ty CP Cao su Dầu Tiếng Việt Lào</td><td>Thành phố Hồ Chí Minh</td><td>50,50%</td><td>50,50%</td><td>Trồng, khai thác, chế biến mủ cao su</td></tr><tr><td colspan="5">Công ty liên kết</td></tr><tr><td>- Công ty CP Phát triển Phú Mỹ</td><td>Thành phố Hồ Chí Minh</td><td>35,00%</td><td>35,00%</td><td>Kinh doanh bất động sản, dịch vụ golf</td></tr><tr><td>- Công ty TNHH FrieslandCampina Việt Nam</td><td>Thành phố Hồ Chí Minh</td><td>30,00%</td><td>30,00%</td><td>Kinh doanh sữa và nước giải khát</td></tr><tr><td>- Công ty CP Bệnh viện Đa khoa Quốc tế Hạnh Phúc</td><td>Thành phố Hồ Chí Minh</td><td>24,00%</td><td>24,00%</td><td>Dịch vụ y tế</td></tr><tr><td>- Công ty CP Hưng Vương\( ^{(2)} \)</td><td>Thành phố Hồ Chí Minh</td><td>30,90%</td><td>35,96%</td><td>Sản xuất kinh doanh sản phẩm từ gỗ,kinh doanh hạ tầng khu công nghiệp</td></tr><tr><td>- Công ty TNHH YCH-PROTRADE</td><td>Thành phố Hồ Chí Minh</td><td>30,00%</td><td>30,00%</td><td>Kinh doanh dịch vụ logistics</td></tr><tr><td>- Công ty CP Đầu tư và Phát triển Tân Thành</td><td>Thành phố Hồ Chí Minh</td><td>30,00%</td><td>30,00%</td><td>Kinh doanh bất động sản, dịch vụ golf</td></tr><tr><td>- Công ty CP May mặc Bình Dương\( ^{(2)} \)</td><td>Thành phố Hồ Chí Minh</td><td>47,71%</td><td>49,46%</td><td>Sản xuất kinh doanh hàng may mặc</td></tr><tr><td colspan="5">Đơn vị khác</td></tr><tr><td>- Công ty CP Cơ khí Vận tải Cao su Dầu Tiếng</td><td>Thành phố Hồ Chí Minh</td><td>2,10%</td><td>2,10%</td><td>Vận chuyển và gia công cơ khí</td></tr></table>
+
+(1) Căn cứ theo Nghị quyết số 06/NQ-HĐQT ngày 06/09/2024, Hội đồng Quản trị Tổng Công ty thống nhất giải thể Công ty TNHH MTV Giấy Vĩnh Phú. Đến thời điểm lập Báo cáo tài chính riêng này, Công ty TNHH MTV Giấy Vĩnh Phú đang trong quá trình thực hiện các thủ tục giải thể công ty theo quy định của pháp luật.
+
+(2) Tại ngày 31/12/2025, tỷ lệ lợi ích nhỏ hơn tỷ lệ biểu quyết do trong cơ cấu vốn của Công ty Cổ phần May mặc Bình Dương và Công ty Cổ phần Hưng Vượng bao gồm vốn góp từ Tổng Công ty và vốn góp từ Công ty TNHH MTV Quốc tế Protrade (Công ty con của Tổng Công ty).
+
+20
+
+===== PAGE 22 =====
+Tổng Công ty Sản xuất - Xuất nhập khẩu Bình Dương - CTCP
+
+A128 đường 3/2, Khu phố Đông Tư, phường Lái Thiêu,
+
+Thành phố Hồ Chí Minh
+
+Báo cáo tài chính riêng
+
+cho năm tài chính kết thúc ngày 31/12/2025
+
+5 . PHẢI THU CỦA KHÁCH HÀNG
+
+<table><tr><td rowspan="3"></td><td colspan="2">31/12/2025</td><td colspan="2">01/01/2025</td></tr><tr><td>Giá trị</td><td>Dự phòng</td><td>Giá trị</td><td>Dự phòng</td></tr><tr><td>VND</td><td>VND</td><td>VND</td><td>VND</td></tr><tr><td colspan="5">a) Ngắn hạn</td></tr><tr><td>Bên liên quan</td><td>-</td><td>-</td><td>533.500.000</td><td>-</td></tr><tr><td>- Công ty TNHH Sân Golf Palm - Sông Bé</td><td>-</td><td>-</td><td>533.500.000</td><td>-</td></tr><tr><td>Bên khác</td><td>2.273.793.650</td><td>(2.273.793.650)</td><td>2.293.793.650</td><td>(2.293.793.650)</td></tr><tr><td>- Bà Hứa Ngọc Oanh</td><td>281.207.000</td><td>(281.207.000)</td><td>286.207.000</td><td>(286.207.000)</td></tr><tr><td>- Các khoản phải thu khách hàng khác</td><td>1.992.586.650</td><td>(1.992.586.650)</td><td>2.007.586.650</td><td>(2.007.586.650)</td></tr><tr><td></td><td>2.273.793.650</td><td>(2.273.793.650)</td><td>2.827.293.650</td><td>(2.293.793.650)</td></tr><tr><td colspan="5">b) Dài hạn</td></tr><tr><td>- Công ty Cổ phần An Bình (*)</td><td>60.000.000.000</td><td>-</td><td>60.000.000.000</td><td>-</td></tr><tr><td></td><td>60.000.000.000</td><td>-</td><td>60.000.000.000</td><td>-</td></tr></table>
+
+(*) Đây là khoản phải thu chuyển giao 15 ha đất tại phường Phú Lợi, thành phố Thủ Dầu Một, tỉnh Bình Dương. Ngày 22/12/2016, Ủy ban Nhân dân tỉnh Bình Dương đã ban hành Quyết định số 3536/QĐ-UBND về việc thu hồi đất do Tổng Công ty Sản xuất - Xuất nhập khẩu Bình Dương TNHH MTV quản lý để giao cho Công ty Cổ phần An Bình thuê đất thu tiền một lần cho cả thời gian thuê tại phường Phú Lợi, thành phố Thủ Dầu Một. Tuy nhiên, vào ngày 14/11/2019, Ủy ban Nhân dân tỉnh Bình Dương đã ban hành Quyết định số 3379/QĐ-UBND về việc thu hồi lại Quyết định số 3536/QĐ-UBND ngày 22/12/2016 của Ủy ban Nhân dân tỉnh nêu trên. Thông tin chỉ tiết xem tại Thuyết minh số 35b.
+
+6 . TRẢ TRƯỚC CHO NGƯỜI BÁN NGẮN HẠN
+
+<table><tr><td rowspan="3"></td><td colspan="2">31/12/2025</td><td colspan="2">01/01/2025</td></tr><tr><td>Giá trị</td><td>Dự phòng</td><td>Giá trị</td><td>Dự phòng</td></tr><tr><td>VND</td><td>VND</td><td>VND</td><td>VND</td></tr><tr><td>Ông Bùi Thanh Hải</td><td>10.032.700.000</td><td>(10.032.700.000)</td><td>10.207.700.000</td><td>(3.062.310.000)</td></tr><tr><td>Công ty Luật TNHH Đông Phương Luật</td><td>-</td><td>-</td><td>915.200.000</td><td>-</td></tr><tr><td>Các khách hàng khác</td><td>89.064.142</td><td>-</td><td>1.235.910.487</td><td>-</td></tr><tr><td></td><td>10.121.764.142</td><td>(10.032.700.000)</td><td>12.358.810.487</td><td>(3.062.310.000)</td></tr></table>
+
+21
+
+\( \therefore {S}_{\Delta ACD} = {S}_{\Delta COD} + {S}_{\Delta BDO} \)
+
+\( \left\|  {n - 1}\right\|  {5P} \times  {n}_{2} + {n}_{3} = {200} \)
+
+===== PAGE 23 =====
+Tổng Công ty Sản xuất - Xuất nhập khẩu Bình Dương - CTCP
+A128 đường 3/2, Khu phố Đông Tư, phường Lái Thiêu, Thành phố Hồ Chí Minh
+Báo cáo tài chính riêng
+cho năm tài chính kết thúc ngày 31/12/2025
+
+<table><tr><td colspan="7">7 . PHẢI THU VỀ CHO VAY</td></tr><tr><td rowspan="3"></td><td colspan="2">01/01/2025</td><td colspan="2">Trong năm</td><td colspan="2">31/12/2025</td></tr><tr><td>Giá trị</td><td>Dự phòng</td><td>Tăng</td><td>Giảm</td><td>Giá trị</td><td>Dự phòng</td></tr><tr><td>VND</td><td>VND</td><td>VND</td><td>VND</td><td>VND</td><td>VND</td></tr><tr><td rowspan="2">a) Ngắn hạnBên liên quan- Công ty Cổ phần Đầu tư &amp; Phát triển Tân Thành (1)</td><td>107.347.102.061</td><td>(32.204.130.618)</td><td>-</td><td>15.000.000.000</td><td>92.347.102.061</td><td>(15.073.129.108)</td></tr><tr><td>107.347.102.061</td><td>(32.204.130.618)</td><td>-</td><td>15.000.000.000</td><td>92.347.102.061</td><td>(15.073.129.108)</td></tr><tr><td rowspan="2">b) Dài hạnBên khác- Công ty TNHH Du lịch D&amp;M (2)</td><td>9.896.049.652</td><td>-</td><td>-</td><td>-</td><td>9.896.049.652</td><td>-</td></tr><tr><td>9.896.049.652</td><td>-</td><td>-</td><td>-</td><td>9.896.049.652</td><td>-</td></tr><tr><td colspan="7">c) Các khoản cho vay đối với các bên liên quan</td></tr><tr><td rowspan="4"></td><td rowspan="3"></td><td rowspan="3">Mối quan hệ</td><td colspan="2">31/12/2025</td><td colspan="2">01/01/2025</td></tr><tr><td>Gốc</td><td>Lãi (*)</td><td>Gốc</td><td>Lãi (*)</td></tr><tr><td>VND</td><td>VND</td><td>VND</td><td>VND</td></tr><tr><td>- Công ty Cổ phần Đầu tư &amp; Phát triển Tân Thành(*) Tiền lãi vay tương ứng với khoản cho vay này xem tại Thuyết minh số 08 - Phải thu khác.</td><td>Công ty liên kết</td><td>92.347.102.061</td><td>57.029.572.232</td><td>107.347.102.061</td><td>57.029.572.232</td></tr></table>
+
+22
+
+BIM JAN TY JON PK JAT NG 187
+
+QI H'H'
+
+===== PAGE 24 =====
+Tổng Công ty Sản xuất - Xuất nhập khẩu Bình Dương - CTCP
+
+A128 đường 3/2, Khu phố Đông Tư, phường Lái Thiêu,
+
+Thành phố Hồ Chí Minh
+
+Báo cáo tài chính riêng
+
+cho năm tài chính kết thúc ngày 31/12/2025
+
+7 . PHẢI THU VỀ CHO VAY (Tiếp theo)
+
+(1) Thông tin chi tiết về các khoản cho Công ty Cổ phần Đầu tư & Phát triển Tân Thành vay ngắn hạn:
+
+Hợp đồng vay vốn ngày 08/01/2016 và phụ lục hợp đồng ngày 31/12/2019; Hợp đồng vay vốn số 2017/HDVV ngày 30/11/2017 và phụ lục hợp đồng ngày 31/12/2019, với các điều khoản như sau:
+
+- Loại tiên: VND;
+
+- Mục đích cho vay: bổ sung vốn lưu động;
+
+- Lãi suất: 8%/năm;
+
+- Thời hạn cho vay: 36 tháng kể từ ngày 01/01/2020;
+
+- Hình thức đảm bảo: tín chấp;
+
+- Số dư tại ngày 31/12/2025 là 92.347.102.061 VND.
+
+Thông tin chi tiết về khoản cho vay dài hạn
+
+(2) Khoản phải thu Công ty TNHH Du lịch D&M về cho vay triển khai các thủ tục ban đầu của dự án khu du lịch tại Mũi Né, tỉnh Bình Thuận (nay là phường Mũi Né, tỉnh Lâm Đồng) do Công ty TNHH Du lịch D&M làm chủ đầu tư với lãi suất 0%/năm, hình thức đảm bảo là tín chấp. Theo Biên bản bản giao số 02/BBBG-TCTY ngày 29/06/2021 về việc chuyển giao quyền đại diện sở hữu vốn tại Công ty TNHH Du lịch D&M của Tổng Công ty cho Công ty TNHH MTV Đầu tư và Quản lý Dự án Bình Dương ("IMPCo"), trong thời gian 06 tháng kể từ ngày được Tinh ủy Bình Dương (nay là Thành ủy thành phố Hồ Chí Minh) phê duyệt, IMPCo có trách nhiệm hoàn trả lại khoản vay của Công ty TNHH Du lịch D&M cho Tổng Công ty. Đến thời điểm lập báo cáo này, Tỉnh ủy Bình Dương (nay là Thành ủy thành phố Hồ Chí Minh) vẫn chưa có văn bản phê duyệt nội dung nêu trên.
+
+8 . PHẢI THU KHÁC
+
+<table><tr><td rowspan="2"></td><td colspan="2">31/12/2025</td><td colspan="2">01/01/2025</td></tr><tr><td>Giá trịVND</td><td>Dự phòngVND</td><td>Giá trịVND</td><td>Dự phòngVND</td></tr><tr><td colspan="5">a) Ngắn hạn</td></tr><tr><td colspan="5">a.1) Chi tiết theo nội dung</td></tr><tr><td>- Phải thu về tạm ứng</td><td>12.375.776.140</td><td>-</td><td>12.543.864.003</td><td>-</td></tr><tr><td>- Phải thu lãi cho vay</td><td>172.913.753.054</td><td>(57.029.572.232)</td><td>172.913.753.054</td><td>(28.602.365.709)</td></tr><tr><td>- Phải thu lãi tiền gửi</td><td>215.328.767</td><td>-</td><td>34.219.179</td><td>-</td></tr><tr><td>- Phải thu Công ty TNHH Đầu tư - Xây dựng Tân Phú tiền chênh lệch giá chuyển nhượng khu đất 43 ha\( ^{(1)} \)</td><td>87.986.422.597</td><td>-</td><td>87.986.422.597</td><td>-</td></tr><tr><td>- Phải thu tiền chi hộ</td><td>651.761.673</td><td>-</td><td>1.121.280.736</td><td>-</td></tr><tr><td>- Phải thu về cổ tức</td><td>72.100.000.000</td><td>-</td><td>-</td><td>-</td></tr><tr><td>- Phải thu tiền hoàn thuế do hủy hợp đồng\( ^{(2)} \)</td><td>61.014.602.231</td><td>-</td><td>61.014.602.231</td><td>-</td></tr><tr><td>- Phải thu khác</td><td>120.998.238</td><td>-</td><td>52.798.238</td><td>-</td></tr><tr><td></td><td>407.378.642.700</td><td>(57.029.572.232)</td><td>335.666.940.038</td><td>(28.602.365.709)</td></tr></table>
+
+23
+
+TRÀ
+HÀ
+THÀ
+
+6-C
+Y
+IAU
+3
+H DI
+
+===== PAGE 25 =====
+Tổng Công ty Sản xuất - Xuất nhập khẩu Bình Dương - CTCP
+
+A128 đường 3/2, Khu phố Đông Tư, phường Lái Thiêu,
+
+Thành phố Hồ Chí Minh
+
+Báo cáo tài chính riêng
+
+cho năm tài chính kết thúc ngày 31/12/2025
+
+8. PHẢI THU KHÁC (Tiếp theo)
+
+<table><tr><td rowspan="2"></td><td colspan="2">31/12/2025</td><td colspan="2">01/01/2025</td></tr><tr><td>Giá trịVND</td><td>Dự phòngVND</td><td>Giá trịVND</td><td>Dự phòngVND</td></tr><tr><td colspan="5">a.2) Chi tiết theo đối tượng</td></tr><tr><td>Bên liên quan</td><td>245.416.883.727</td><td>(57.029.572.232)</td><td>173.786.402.790</td><td>(28.602.365.709)</td></tr><tr><td>- Công ty TNHH MTV Quốc tế Protrade</td><td>46.000.000.000</td><td>-</td><td>-</td><td>-</td></tr><tr><td>- Công ty TNHH MTV Đầu tư và Quản lý Dự án Bình Dương</td><td>403.130.673</td><td>-</td><td>872.649.736</td><td>-</td></tr><tr><td>- Công ty CP Đầu tư &amp; Phát triển Tân Thành</td><td>172.913.753.054</td><td>(57.029.572.232)</td><td>172.913.753.054</td><td>(28.602.365.709)</td></tr><tr><td>+ Tiền lãi cho vay ngắn hạn</td><td>57.029.572.232</td><td>(57.029.572.232)</td><td>57.029.572.232</td><td>(28.602.365.709)</td></tr><tr><td>+ Tiền lãi bổ sung theo thỏa thuận (3)</td><td>115.884.180.822</td><td>-</td><td>115.884.180.822</td><td>-</td></tr><tr><td>- Công ty TNHH YCH - Protrade</td><td>26.100.000.000</td><td>-</td><td>-</td><td>-</td></tr><tr><td>Bên khác</td><td>161.961.758.973</td><td>-</td><td>161.880.537.248</td><td>-</td></tr><tr><td>- Công ty TNHH Đầu tư - Xây dựng Tân Phú (1)</td><td>87.986.422.597</td><td>-</td><td>87.986.422.597</td><td>-</td></tr><tr><td>- Cục thuế tỉnh Bình Dương (2)</td><td>61.014.602.231</td><td>-</td><td>61.014.602.231</td><td>-</td></tr><tr><td>- Các đối tượng khác</td><td>12.960.734.145</td><td>-</td><td>12.879.512.420</td><td>-</td></tr><tr><td></td><td>407.378.642.700</td><td>(57.029.572.232)</td><td>335.666.940.038</td><td>(28.602.365.709)</td></tr><tr><td colspan="5">b) Dài hạn</td></tr><tr><td>- Phải thu các khoản tạm nộp chờ xử lý quyết toán cổ phần hóa (4)</td><td>972.238.328.857</td><td>(212.044.950.291)</td><td>972.238.328.857</td><td>(141.363.300.194)</td></tr><tr><td>- Ký cược, ký quỹ</td><td>11.000.000</td><td>-</td><td>11.000.000</td><td></td></tr><tr><td></td><td>972.249.328.857</td><td>(212.044.950.291)</td><td>972.249.328.857</td><td>(141.363.300.194)</td></tr></table>
+
+(1) Thông tin chi tiết tại Thuyết minh số 34a.
+
+(2) Thông tin chi tiết tại Thuyết minh số 35c.
+
+(3) Khoản phải thu Công ty Cổ phần Đầu tư & Phát triển Tân Thành tiền lãi cho vay phát sinh theo Biên bản thỏa thuận ngày 01 tháng 11 năm 2019 giữa Tổng Công ty Sản xuất - Xuất nhập khẩu Bình Dương - Công ty Cổ phần và Công ty Cổ phần Đầu tư & Phát triển Tân Thành, thông tin chỉ tiết tại Thuyết minh số 34b.
+
+(4) Thông tin chi tiết tại Thuyết minh số 34c.
+
+24
+
+===== PAGE 26 =====
+Tổng Công ty Sản xuất - Xuất nhập khẩu Bình Dương - CTCP
+
+A128 đường 3/2, Khu phố Đông Tư, phường Lái Thiêu,
+
+Thành phố Hồ Chí Minh
+
+Báo cáo tài chính riêng
+
+cho năm tài chính kết thúc ngày 31/12/2025
+
+9 .NỘ XẦU
+
+<table><tr><td rowspan="2"></td><td colspan="2">31/12/2025</td><td colspan="2">01/01/2025</td></tr><tr><td>Giá gốcVND</td><td>Giá trị có thể thu hồiVND</td><td>Giá gốcVND</td><td>Giá trị có thể thu hồiVND</td></tr><tr><td colspan="5">a) Tổng giá trị các khoản phải thu, cho vay quá hạn thanh toán hoặc chưa quá hạn nhưng khó có khả năng thu hồi</td></tr><tr><td colspan="5">Phải thu khách hàng</td></tr><tr><td>Bà Hứa Ngọc Oanh</td><td>281.207.000</td><td>-</td><td>286.207.000</td><td>-</td></tr><tr><td>Các khách hàng khác</td><td>1.992.586.650</td><td>-</td><td>2.007.586.650</td><td>-</td></tr><tr><td colspan="5">Trả trước cho người bán</td></tr><tr><td>Ông Bùi Thanh Hải</td><td>10.032.700.000</td><td>-</td><td>10.207.700.000</td><td>7.145.390.000</td></tr><tr><td colspan="5">Phải thu về cho vay</td></tr><tr><td>Công ty CP Đầu tư &amp; Phát triển Tân Thành</td><td>92.347.102.061</td><td>77.273.972.953</td><td>107.347.102.061</td><td>75.142.971.443</td></tr><tr><td colspan="5">Phải thu khác</td></tr><tr><td>Công ty CP Đầu tư &amp; Phát triển Tân Thành (*)</td><td>172.913.753.054</td><td>115.884.180.822</td><td>172.913.753.054</td><td>144.311.387.345</td></tr><tr><td>Phải thu các khoản tạm nộp chờ quyết toán cổ phần hóa (**)</td><td>972.238.328.857</td><td>760.193.378.566</td><td>972.238.328.857</td><td>830.875.028.663</td></tr><tr><td></td><td>1.249.805.677.622</td><td>953.351.532.341</td><td>1.265.000.677.622</td><td>1.057.474.777.451</td></tr></table>
+
+b) Thông tin về các khoản tiền phạt, phải thu về lãi trả chậm ... phát sinh từ các khoản nợ quá hạn nhưng không được ghi nhận doanh thu
+
+<table><tr><td>+ Công ty CP Đầu tư &amp; Phát triển Tân Thành (*)</td><td>43.876.317.346</td><td>34.446.858.984</td></tr><tr><td></td><td>43.876.317.346</td><td>34.446.858.984</td></tr></table>
+
+(*) Từ ngày 01/01/2023, Tổng Công ty không ghi nhận các khoản lãi cho vay, lãi chậm thanh toán tương ứng với dư nợ gốc cho vay của Công ty CP Đầu tư & Phát triển Tân Thành do không đánh giá được khả năng thu hồi chắc chắn.
+
+(**) Đây là số phải thu các khoản tạm nộp chờ xử lý quyết toán cổ phần hóa, khả năng thu hồi của khoản phải thu này phụ thuộc vào kết quả quyết toán cổ phần hóa của cơ quan có thẩm quyền. Thông tin chỉ tiết tại Thuyết minh số 34c.
+
+10 . HÀNG TỔN KHO
+
+<table><tr><td rowspan="3"></td><td colspan="2">31/12/2025</td><td colspan="2">01/01/2025</td></tr><tr><td>Giá gốc</td><td>Dự phòng</td><td>Giá gốc</td><td>Dự phòng</td></tr><tr><td>VND</td><td>VND</td><td>VND</td><td>VND</td></tr><tr><td rowspan="2">Hàng hoá (*)</td><td>162.049.126.800</td><td>(37.799.226.298)</td><td>162.142.000.096</td><td>(37.799.226.298)</td></tr><tr><td>162.049.126.800</td><td>(37.799.226.298)</td><td>162.142.000.096</td><td>(37.799.226.298)</td></tr></table>
+
+(*) Hàng hóa chủ yếu là các loại cây kiếng phục vụ kinh doanh.
+
+11. XÂY DỰNG CƠ BẢN DỞ DANG
+
+<table><tr><td rowspan="2"></td><td>31/12/2025</td><td>01/01/2025</td></tr><tr><td>VND</td><td>VND</td></tr><tr><td>- Khu tái định cư tại Khu Công nghiệp - Dịch vụ An Tây (1)</td><td>66.727.329.629</td><td>65.385.067.962</td></tr><tr><td>- Quyền sử dụng đất ở xã Vĩnh Phú, tỉnh Bình Dương (2)</td><td>8.474.786.210</td><td>8.474.786.210</td></tr><tr><td>- Cụm Công nghiệp An Điền (3)</td><td>3.240.218.299</td><td>3.240.218.299</td></tr><tr><td>- Khu quy hoạch Gò Chai (4)</td><td>40.038.834.627</td><td>40.038.834.627</td></tr><tr><td>- Các công trình khác</td><td>8.588.238.548</td><td>6.128.094.864</td></tr><tr><td></td><td>127.069.407.313</td><td>123.267.001.962</td></tr></table>
+
+25
+
+NO
+
+\( \left\| \vec{z}\right\| = \left\| \vec{g}\right\| \)
+
+===== PAGE 27 =====
+Tổng Công ty Sản xuất - Xuất nhập khẩu Bình Dương - CTCP
+
+A128 đường 3/2, Khu phố Đông Tư, phường Lái Thiêu,
+
+Thành phố Hồ Chí Minh
+
+Báo cáo tài chính riêng
+
+cho năm tài chính kết thúc ngày 31/12/2025
+
+(1) Tên dự án: Khu tái định cư tại Khu Công nghiệp - Dịch vụ An Tây;
+
+- Chủ đầu tư: Tổng Công ty Sản xuất - Xuất nhập khẩu Bình Dương - Công ty Cổ phần;
+
+- Địa điểm: xã An Điền, thị xã Bến Cát, tỉnh Bình Dương (nay thuộc phường Long Nguyên, thành phố Hồ Chí Minh);
+
+- Mục tiêu: Đầu tư khu tái định cư;
+
+- Quy mô: 8,8 ha;
+
+- Tỉnh trạng dự án tại ngày 31/12/2025: Tổng Công ty đã được cấp quyền sử dụng đất cho dự án, hiện tại đang thực hiện các thủ tục pháp lý để tách số và bản giao đất cho từng hộ dân trong khu tái định cư. Chi phí phát sinh lũy kế đến thời điểm 31/12/2025 là các chi phí đến bù, giải phóng mặt bằng và đầu tư cơ sở hạ tầng của dự án. Liên quan đến dự án này, sau khi hoàn tất nghĩa vụ pháp lý là cấp số cho các hộ dân, Tổng Công ty sẽ quyết toán với Tỉnh ủy Bình Dương về toàn bộ các giao dịch có liên quan gồm khoản tiền đã thu trước của các hộ dân được trình bày tại Thuyết minh số 20 do có liên quan đến giai đoạn trước cổ phần hóa. Do đó, số liệu này có thể thay đổi sau khi được phê duyệt quyết toán cổ phần hóa.
+
+(2) Tên dự án: Mua đất ở xã Vĩnh Phú, tỉnh Bình Dương;
+
+- Chủ đầu tư: Tổng Công ty Sản xuất - Xuất nhập khẩu Bình Dương - TNHH MTV;
+
+- Địa điểm: xã Vĩnh Phú, tỉnh Bình Dương (nay thuộc phường Bình Hòa, thành phố Hồ Chí Minh);
+
+- Mục tiêu: Năm giữ chờ tăng giá;
+
+- Quy mô: 564 m²;
+
+- Tỉnh trạng dự án tại ngày 31/12/2025: căn cứ theo Quyết định số 2569/QĐ-UBND ngày 02/10/2023 của Ủy ban Nhân dân tỉnh Bình Dương, Tổng Công ty đã tiến hành bàn giao 02 khu đất và 02 giấy chứng nhận quyền sử dụng đất của 02 khu đất có diện tích 564 m² tại phường Vĩnh Phú, thành phố Thuận An, tỉnh Bình Dương cho Trung tâm Phát triển Quỹ đất tỉnh Bình Dương vào ngày 14/11/2023. Về xử lý chi phí đầu tư vào đất, Sở Tài chính đang lập hội đồng để xác định và trình Ủy ban Nhân dân tỉnh xem xét phê duyệt.
+
+(3) Tên dự án: Đầu tư xây dựng Cụm công nghiệp An Điền;
+
+- Chủ đầu tư: Tổng Công ty Sản xuất - Xuất nhập khẩu Bình Dương - Công ty Cổ phần;
+
+- Địa điểm: xã An Điền, thị xã Bến Cát, tỉnh Bình Dương (nay thuộc phường Long Nguyên, thành phố Hồ Chí Minh);
+
+- Mục tiêu: Đầu tư xây dựng hạng mục hạ tầng kỹ thuật Cụm công nghiệp An Điền;
+
+- Tổng vốn đầu tư: 194.330.575.584 VND;
+
+- Quy mô: 7,9 ha;
+
+- Tỉnh trạng dự án tại ngày 31/12/2025: hiện tại đang tạm ngưng thực hiện để Ủy ban Nhân dân tỉnh Bình Dương (nay là Ủy ban Nhân dân thành phố Hồ Chí Minh) xem xét chủ trương hoán đổi đất để thực hiện dự án.
+
+(4) Thông tin chi tiết tại Thuyết minh số 35c.
+
+12 . CHI PHÍ TRẢ TRƯỚC
+
+<table><tr><td rowspan="2" colspan="2"></td><td>31/12/2025</td><td>01/01/2025</td></tr><tr><td>VND</td><td>VND</td></tr><tr><td rowspan="4">a)</td><td>Ngắn hạn</td><td></td><td></td></tr><tr><td>- Công cụ dụng cụ chờ phân bổ</td><td>15.337.034</td><td>15.492.051</td></tr><tr><td>- Chi phí sửa chữa</td><td>100.809.998</td><td>109.002.067</td></tr><tr><td></td><td>116.147.032</td><td>124.494.118</td></tr><tr><td rowspan="6">b)</td><td>Dài hạn</td><td></td><td></td></tr><tr><td>- Công cụ dụng cụ chờ phân bổ</td><td>80.971.678</td><td>147.805.667</td></tr><tr><td>- Chi phí sửa chữa tài sản và lắp đặt nội thất văn phòng</td><td>317.975.134</td><td>3.081.135.165</td></tr><tr><td>- Chi phí thẻ hội viên sân golf Phú Mỹ</td><td>1.626.081.135</td><td>1.678.962.075</td></tr><tr><td>- Giá trị lợi thế kinh doanh (*)</td><td>54.689.115.746</td><td>73.991.096.966</td></tr><tr><td></td><td>56.714.143.693</td><td>78.898.999.873</td></tr></table>
+
+(*) Lợi thế kinh doanh phát sinh do xác định giá trị doanh nghiệp để cổ phần hóa từ thời điểm 31/10/2018 với giá trị là 193.020.005.291 VND, thời gian phân bổ là 10 năm. Chi phí đã phân bổ trong năm là 19.301.981.220 VND.
+
+26
+
+H'H
+
+M.S.D.N.-O
+
+48
+ÔNG
+'UÃ
+ÂP
+'UO
+G T
+HÃ
+Γ.B
+
+===== PAGE 28 =====
+Tổng Công ty Sản xuất - Xuất nhập khẩu Bình Dương - CTCP
+A128 đường 3/2, Khu phố Đông Tư, phường Lái Thiêu, Thành phố Hồ Chí Minh
+Báo cáo tài chính riêng
+cho năm tài chính kết thúc ngày 31/12/2025
+
+13. TÀI SẢN CÓ ĐỊNH HỮU HÌNH
+
+<table><tr><td rowspan="2"></td><td>Nhà cửa, vật kiến trúc</td><td>Máy móc, thiết bị</td><td>Phương tiện vận tải,truyền dẫn</td><td>Thiết bị, dụng cụ quản lý</td><td>Tài sản cố định khác</td><td>Cộng</td></tr><tr><td>VND</td><td>VND</td><td>VND</td><td>VND</td><td>VND</td><td>VND</td></tr><tr><td colspan="7">Nguyên giá</td></tr><tr><td>Số dư đầu năm</td><td>205.840.170</td><td>531.663.020</td><td>6.647.586.625</td><td>1.555.212.999</td><td>33.778.273</td><td>8.974.081.087</td></tr><tr><td>- Mua trong năm</td><td>-</td><td>-</td><td>-</td><td>58.000.000</td><td>-</td><td>58.000.000</td></tr><tr><td>Số dư cuối năm</td><td>205.840.170</td><td>531.663.020</td><td>6.647.586.625</td><td>1.613.212.999</td><td>33.778.273</td><td>9.032.081.087</td></tr><tr><td colspan="7">Giá trị hao mòn lũy kế</td></tr><tr><td>Số dư đầu năm</td><td>205.840.170</td><td>465.098.793</td><td>4.248.600.524</td><td>961.741.046</td><td>10.954.481</td><td>5.892.235.014</td></tr><tr><td>- Khấu hao trong năm</td><td>-</td><td>32.829.635</td><td>515.786.040</td><td>247.289.331</td><td>8.444.568</td><td>804.349.574</td></tr><tr><td>Số dư cuối năm</td><td>205.840.170</td><td>497.928.428</td><td>4.764.386.564</td><td>1.209.030.377</td><td>19.399.049</td><td>6.696.584.588</td></tr><tr><td colspan="7">Giá trị còn lại</td></tr><tr><td>Tại ngày đầu năm</td><td>-</td><td>66.564.227</td><td>2.398.986.101</td><td>593.471.953</td><td>22.823.792</td><td>3.081.846.073</td></tr><tr><td>Tại ngày cuối năm</td><td>-</td><td>33.734.592</td><td>1.883.200.061</td><td>404.182.622</td><td>14.379.224</td><td>2.335.496.499</td></tr></table>
+
+- Nguyên giá tài sản cố định cuối năm đã khấu hao hết nhưng vẫn còn sử dụng: 4.287.500.052 VND.
+
+27
+HHP
+AA
+CÔNG
+RÁCH NIÊM
+IÀNG KIẾ
+1001110
+
+===== PAGE 29 =====
+Tổng Công ty Sản xuất - Xuất nhập khẩu Bình Dương - CTCP
+
+A128 đường 3/2, Khu phố Đông Tư, phường Lái Thiêu,
+
+Thành phố Hồ Chí Minh
+
+Báo cáo tài chính riêng
+
+cho năm tài chính kết thúc ngày 31/12/2025
+
+14. TÀI SẢN CỐ ĐỊNH VÔ HÌNH
+
+<table><tr><td rowspan="2"></td><td>Phần mềm máy tính</td><td>Khác</td><td>Cộng</td></tr><tr><td>VND</td><td>VND</td><td>VND</td></tr><tr><td colspan="4">Nguyên giá</td></tr><tr><td>Số dư đầu năm</td><td>369.475.237</td><td>87.000.000</td><td>456.475.237</td></tr><tr><td>Số dư cuối năm</td><td>369.475.237</td><td>87.000.000</td><td>456.475.237</td></tr><tr><td colspan="4">Giá trị hao mòn lũy kế</td></tr><tr><td>Số dư đầu năm</td><td>301.553.377</td><td>47.896.774</td><td>349.450.151</td></tr><tr><td>- Khấu hao trong năm</td><td>22.640.628</td><td>17.400.000</td><td>40.040.628</td></tr><tr><td>Số dư cuối năm</td><td>324.194.005</td><td>65.296.774</td><td>389.490.779</td></tr><tr><td colspan="4">Giá trị còn lại</td></tr><tr><td>Tại ngày đầu năm</td><td>67.921.860</td><td>39.103.226</td><td>107.025.086</td></tr><tr><td>Tại ngày cuối năm</td><td>45.281.232</td><td>21.703.226</td><td>66.984.458</td></tr></table>
+
+- Nguyên giá TSCĐ vô hình cuối năm đã khấu hao hết nhưng vẫn còn sử dụng: 188.350.237 VND.
+
+15 . BẮT ĐỘNG SẢN ĐẦU TƯ
+
+Tại thời điểm 31/12/2025, bắt động sản đầu tư là quyền sử dụng đất nắm giữ chờ tăng giá tại khu phố Đông Tư, phường Lái Thiêu, thành phố Hồ Chí Minh với diện tích là 10.547 m² và nguyên giá là 78 tỷ VND. Toàn bộ giá trị bất động sản đầu tư này được mua trước thời điểm Tổng Công ty chính thức chuyển sang mô hình công ty cổ phần và đến thời điểm 31/12/2025 vẫn chưa hoàn tất thủ tục sang tên cho Tổng Công ty. Đến thời điểm hiện tại, Tổng Công ty vẫn đang chờ hướng dẫn của các cơ quan có thẩm quyền liên quan đến vấn đề pháp lý của khu đất này.
+
+Giá trị hợp lý của bất động sản đầu tư chưa được đánh giá và xác định một cách chính thức tại ngày 31/12/2025. Tuy nhiên, dựa trên tình hình cho thuê và giá thị trường của các tài sản này, Ban Tổng Giám đốc Tổng Công ty tin tưởng rằng giá trị hợp lý của tài sản đầu tư lớn hơn giá trị còn lại trên sổ kế toán tại ngày kết thúc năm tài chính.
+
+16 . PHẢI TRẢ NGƯỜI BÁN NGẮN HẠN
+
+<table><tr><td rowspan="3"></td><td colspan="2">31/12/2025</td><td colspan="2">01/01/2025</td></tr><tr><td>Giá trị</td><td>Số có khả năng trả nợ</td><td>Giá trị</td><td>Số có khả năng trả nợ</td></tr><tr><td>VND</td><td>VND</td><td>VND</td><td>VND</td></tr><tr><td>Bên liên quan</td><td>255.262.516</td><td>255.262.516</td><td>2.102.418.163</td><td>2.102.418.163</td></tr><tr><td>- Công ty TNHH MTV Đầu tư và Quản lý Dự án Bình Dương</td><td>-</td><td>-</td><td>1.867.850.023</td><td>1.867.850.023</td></tr><tr><td>- Công ty TNHH MTV Sân Golf Palm Sông Bé</td><td>194.692.672</td><td>194.692.672</td><td>165.890.380</td><td>165.890.380</td></tr><tr><td>- Công ty CP Thương mại Tổng hợp Thuận An</td><td>48.740.020</td><td>48.740.020</td><td>57.317.760</td><td>57.317.760</td></tr><tr><td>- Công ty CP Phát triển Phú Mỹ</td><td>11.829.824</td><td>11.829.824</td><td>11.360.000</td><td>11.360.000</td></tr><tr><td>Bên khác</td><td>841.933.438</td><td>841.933.438</td><td>526.774.912</td><td>526.774.912</td></tr><tr><td>- Công ty Luật TNHH Đông Phương Luật</td><td>436.800.000</td><td>436.800.000</td><td>-</td><td>-</td></tr><tr><td>- Phải trả các đối tượng khác</td><td>405.133.438</td><td>405.133.438</td><td>526.774.912</td><td>526.774.912</td></tr><tr><td></td><td>1.097.195.954</td><td>1.097.195.954</td><td>2.629.193.075</td><td>2.629.193.075</td></tr></table>
+
+28
+
+\( \left\| {\mathrm{E}}^{2}\right\|  = \frac{1}{\left( {\mathrm{E}}^{2}\right) } - \frac{1}{\left( {\mathrm{E}}^{2}\right) } < \frac{1}{\left( {\mathrm{E}}^{2}\right) } \)
+
+===== PAGE 30 =====
+<table><tr><td colspan="7">Tổng Công ty Sản xuất - Xuất nhập khẩu Bình Dương - CTCP</td></tr><tr><td colspan="7">A128 đường 3/2, Khu phố Đông Tư, phường Lái Thiêu, Thành phố Hồ Chí Minh</td></tr><tr><td rowspan="3"></td><td colspan="2">01/01/2025</td><td colspan="2">Trong năm</td><td colspan="2">31/12/2025</td></tr><tr><td>Giá trị</td><td>Số có khả năng trả nợ</td><td>Tăng</td><td>Giảm</td><td>Giá trị</td><td>Số có khả năng trả nợ</td></tr><tr><td>VND</td><td>VND</td><td>VND</td><td>VND</td><td>VND</td><td>VND</td></tr><tr><td>a) Vay ngắn hạn</td><td>160.000.000.000</td><td>160.000.000.000</td><td>-</td><td>-</td><td>160.000.000.000</td><td>160.000.000.000</td></tr><tr><td>- Công ty TNHH MTV Quốc tế Protrade (1)</td><td>90.000.000.000</td><td>90.000.000.000</td><td>-</td><td>-</td><td>90.000.000.000</td><td>90.000.000.000</td></tr><tr><td>- Công ty TNHH Sân Golf Palm Sông Bé (2)</td><td>70.000.000.000</td><td>70.000.000.000</td><td>-</td><td>-</td><td>70.000.000.000</td><td>70.000.000.000</td></tr><tr><td>Nợ dài hạn đến hạn trả</td><td>54.000.000.000</td><td>54.000.000.000</td><td>-</td><td>-</td><td>54.000.000.000</td><td>54.000.000.000</td></tr><tr><td>- Công ty TNHH MTV Giấy Vĩnh Phú (3)</td><td>54.000.000.000</td><td>54.000.000.000</td><td>-</td><td></td><td>54.000.000.000</td><td>54.000.000.000</td></tr><tr><td></td><td>214.000.000.000</td><td>214.000.000.000</td><td>-</td><td>-</td><td>214.000.000.000</td><td>214.000.000.000</td></tr><tr><td>b) Vay dài hạn</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>- Công ty TNHH MTV Giấy Vĩnh Phú (3)</td><td>54.000.000.000</td><td>54.000.000.000</td><td>-</td><td>-</td><td>54.000.000.000</td><td>54.000.000.000</td></tr><tr><td></td><td>54.000.000.000</td><td>54.000.000.000</td><td>-</td><td>-</td><td>54.000.000.000</td><td>54.000.000.000</td></tr><tr><td>Khoản nợ đến hạn trả trong vòng 12 tháng</td><td>(54.000.000.000)</td><td>(54.000.000.000)</td><td>-</td><td>-</td><td>(54.000.000.000)</td><td>(54.000.000.000)</td></tr><tr><td>Khoản nợ đến hạn trả sau 12 tháng</td><td>-</td><td>-</td><td></td><td></td><td>-</td><td>-</td></tr><tr><td>Các khoản vay đối với các bên liên quan</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td rowspan="3"></td><td rowspan="3"></td><td>Mối quan hệ</td><td colspan="2">31/12/2025</td><td colspan="2">01/01/2025</td></tr><tr><td></td><td>Gốc</td><td>Lãi</td><td>Gốc</td><td>Lãi</td></tr><tr><td></td><td>VND</td><td>VND</td><td>VND</td><td>VND</td></tr><tr><td>Công ty TNHH MTV Quốc tế Protrade</td><td>Công ty con</td><td>90.000.000.000</td><td>31.928.904.117</td><td>90.000.000.000</td><td>24.188.904.116</td><td></td></tr><tr><td>Công ty TNHH Sân Golf Palm Sông Bé</td><td>Công ty con</td><td>70.000.000.000</td><td>14.507.437.614</td><td>70.000.000.000</td><td>9.341.519.806</td><td></td></tr><tr><td>Công ty TNHH MTV Giấy Vĩnh Phú</td><td>Công ty con</td><td>54.000.000.000</td><td>4.137.534.246</td><td>54.000.000.000</td><td>4.137.534.246</td><td></td></tr><tr><td></td><td></td><td>214.000.000.000</td><td>50.573.875.977</td><td>214.000.000.000</td><td>37.667.958.168</td><td></td></tr></table>
+
+Tổng Công ty Sản xuất - Xuất nhập khẩu Bình Dương - CTCP
+
+A128 đường 3/2, Khu phố Đông Tư, phường Lái Thiêu, Thành phố Hồ Chí Minh
+
+<table><tr><td colspan="7">17 . CÁC KHOẢN VAY</td></tr><tr><td rowspan="3"></td><td colspan="2">01/01/2025</td><td colspan="2">Trong năm</td><td colspan="2">31/12/2025</td></tr><tr><td>Giá trị</td><td>Số có khả năng trả nợ</td><td>Tăng</td><td>Giảm</td><td>Giá trị</td><td>Số có khả năng trả nợ</td></tr><tr><td>VND</td><td>VND</td><td>VND</td><td>VND</td><td>VND</td><td>VND</td></tr><tr><td>a) Vay ngắn hạn</td><td>160.000.000.000</td><td>160.000.000.000</td><td>-</td><td>-</td><td>160.000.000.000</td><td>160.000.000.000</td></tr><tr><td>- Công ty TNHH MTV Quốc tế Protrade (1)</td><td>90.000.000.000</td><td>90.000.000.000</td><td>-</td><td>-</td><td>90.000.000.000</td><td>90.000.000.000</td></tr><tr><td>- Công ty TNHH Sân Golf Palm Sông Bé (2)</td><td>70.000.000.000</td><td>70.000.000.000</td><td>-</td><td>-</td><td>70.000.000.000</td><td>70.000.000.000</td></tr><tr><td>Nợ dài hạn đến hạn trả</td><td>54.000.000.000</td><td>54.000.000.000</td><td>-</td><td>-</td><td>54.000.000.000</td><td>54.000.000.000</td></tr><tr><td>- Công ty TNHH MTV Giấy Vĩnh Phú (3)</td><td>54.000.000.000</td><td>54.000.000.000</td><td>-</td><td></td><td>54.000.000.000</td><td>54.000.000.000</td></tr><tr><td></td><td>214.000.000.000</td><td>214.000.000.000</td><td>-</td><td>-</td><td>214.000.000.000</td><td>214.000.000.000</td></tr><tr><td colspan="7">b) Vay dài hạn</td></tr><tr><td>- Công ty TNHH MTV Giấy Vĩnh Phú (3)</td><td>54.000.000.000</td><td>54.000.000.000</td><td>-</td><td>-</td><td>54.000.000.000</td><td>54.000.000.000</td></tr><tr><td></td><td>54.000.000.000</td><td>54.000.000.000</td><td>-</td><td>-</td><td>54.000.000.000</td><td>54.000.000.000</td></tr><tr><td>Khoản nợ đến hạn trả trong vòng 12 tháng</td><td>(54.000.000.000)</td><td>(54.000.000.000)</td><td>-</td><td>-</td><td>(54.000.000.000)</td><td>(54.000.000.000)</td></tr><tr><td>Khoản nợ đến hạn trả sau 12 tháng</td><td>-</td><td>-</td><td></td><td></td><td>-</td><td>-</td></tr><tr><td colspan="7">Các khoản vay đối với các bên liên quan</td></tr><tr><td rowspan="3"></td><td rowspan="3"></td><td>Mối quan hệ</td><td colspan="2">31/12/2025</td><td colspan="2">01/01/2025</td></tr><tr><td></td><td>Gốc</td><td>Lãi</td><td>Gốc</td><td>Lãi</td></tr><tr><td></td><td>VND</td><td>VND</td><td>VND</td><td>VND</td></tr><tr><td>Công ty TNHH MTV Quốc tế Protrade</td><td></td><td>Công ty con</td><td>90.000.000.000</td><td>31.928.904.117</td><td>90.000.000.000</td><td>24.188.904.116</td></tr><tr><td>Công ty TNHH Sân Golf Palm Sông Bé</td><td></td><td>Công ty con</td><td>70.000.000.000</td><td>14.507.437.614</td><td>70.000.000.000</td><td>9.341.519.806</td></tr><tr><td>Công ty TNHH MTV Giấy Vĩnh Phú</td><td></td><td>Công ty con</td><td>54.000.000.000</td><td>4.137.534.246</td><td>54.000.000.000</td><td>4.137.534.246</td></tr><tr><td></td><td></td><td></td><td>214.000.000.000</td><td>50.573.875.977</td><td>214.000.000.000</td><td>37.667.958.168</td></tr></table>
+
+29
+
+\( \frac{d}{d\tau }\left( {\frac{d - 1}{d\tau }}\right)  = 1 \)
+
+101
+
+===== PAGE 31 =====
+<table><tr><td colspan="6">Tổng Công ty Sản xuất - Xuất nhập khẩu Bình Dương - CTCPA128 đường 3/2, Khu phố Đông Tư, phường Lái Thiêu, Thành phố Hồ Chí Minh</td><td>Báo cáo tài chính riêngcho năm tài chính kết thúc ngày 31/12/2025</td></tr><tr><td colspan="7">17 . CÁC KHOẢN VAY (tiếp theo)</td></tr><tr><td rowspan="2"></td><td>Hạn mức</td><td>Thời hạn vay</td><td>Mục đích vay</td><td>Lãi suất</td><td>Hình thức đảm bảo</td><td>31/12/2025</td></tr><tr><td>VND</td><td></td><td></td><td></td><td></td><td>VND</td></tr><tr><td colspan="7">Thông tin chi tiết liên quan đến các khoản vay ngắn hạn:Bên liên quan</td></tr><tr><td colspan="6">(1) Công ty TNHH MTV Quốc tế Protrade</td><td>90.000.000.000</td></tr><tr><td>(1.1) Hợp đồng vay vốn số 01/2023/HĐVV ngày 15/03/2023</td><td>100.000.000.000</td><td>12 tháng(Tự động gia hạn)</td><td>Bổ sung vốn lưu động</td><td>9,4%/năm</td><td>Tín chấp</td><td>60.000.000.000</td></tr><tr><td>(1.2) Hợp đồng vay vốn số 01/2024/HĐVV ngày 09/09/2024</td><td>30.000.000.000</td><td>12 tháng(Tự động gia hạn)</td><td>Bổ sung vốn lưu động</td><td>7%/năm</td><td>Tín chấp</td><td>30.000.000.000</td></tr><tr><td colspan="6">(2) Công ty TNHH Sân Golf Palm Sông Bé</td><td>70.000.000.000</td></tr><tr><td>(2.1) Hợp đồng vay vốn số SBGR-TCTY/2023/227/1458/002 ngày 21/08/2023 và Phụ lục hợp đồng số 02 ngày 08/09/2025</td><td>30.000.000.000</td><td>12 tháng</td><td>Bổ sung vốn lưu động</td><td>7,2%/năm</td><td>Tín chấp</td><td>30.000.000.000</td></tr><tr><td>(2.2) Hợp đồng vay vốn số SBGR-TCTY/2023/333/2511/015 ngày 07/12/2023 và Phụ lục hợp đồng số 02 ngày 03/12/2025</td><td>40.000.000.000</td><td>12 tháng</td><td>Bổ sung vốn lưu động</td><td>7,7%/năm</td><td>Tín chấp</td><td>40.000.000.000</td></tr><tr><td colspan="6">(3) Công ty TNHH MTV Giấy Vĩnh Phú</td><td>54.000.000.000</td></tr><tr><td>(3.1) Hợp đồng vay vốn số 03/2023/HĐVV ngày 28/08/2023</td><td>40.000.000.000</td><td>24 tháng</td><td>Bổ sung vốn lưu động</td><td>0,0%/năm</td><td>Tín chấp</td><td>40.000.000.000</td></tr><tr><td>(3.2) Hợp đồng vay vốn số 04/2023/HĐVV ngày 25/12/2023</td><td>10.000.000.000</td><td>24 tháng</td><td>Bổ sung vốn lưu động</td><td>0,0%/năm</td><td>Tín chấp</td><td>10.000.000.000</td></tr><tr><td>(3.3) Hợp đồng vay vốn số 01/2024/HĐVV ngày 11/05/2024</td><td>4.000.000.000</td><td>24 tháng</td><td>Bổ sung vốn lưu động</td><td>0,0%/năm</td><td>Tín chấp</td><td>4.000.000.000</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td>214.000.000.000</td></tr></table>
+
+30
+
+B\( ^{1} \)N
+A\( ^{2} \)T\( ^{3} \)K
+P\( ^{4} \)K
+J\( ^{5} \)T\( ^{6} \)NG
+18
+
+===== PAGE 32 =====
+Tổng Công ty Sản xuất - Xuất nhập khẩu Bình Dương - CTCP
+
+A128 đường 3/2, Khu phố Đông Tư, phường Lái Thiêu, Thành phố Hồ Chí Minh
+
+Báo cáo tài chính riêng
+kết thúc ngày 31/12/2025
+
+18. THUẾ VÀ CÁC KHOẢN PHẢI NỘP NHÀ NƯỚC
+
+<table><tr><td rowspan="2"></td><td>Số phải thuđầu năm</td><td>Số phải nộpđầu năm</td><td>Số phải nộptrong năm</td><td>Số đã thực nộptrong năm</td><td>Số phải thucuối năm</td><td>Số phải nộpcuối năm</td></tr><tr><td>VND</td><td>VND</td><td>VND</td><td>VND</td><td>VND</td><td>VND</td></tr><tr><td>- Thuế thu nhập doanh nghiệp</td><td>17.729.895.143</td><td>-</td><td>-</td><td>-</td><td>17.729.895.143</td><td>-</td></tr><tr><td>- Thuế thu nhập cá nhân</td><td>-</td><td>658.607.355</td><td>2.166.113.340</td><td>2.455.552.900</td><td>-</td><td>369.167.795</td></tr><tr><td>- Thuế nhà đất và tiền thuê đất</td><td>267.727.149</td><td>-</td><td>4.274.494</td><td>4.274.494</td><td>267.727.149</td><td>-</td></tr><tr><td>- Các khoản phí, lệ phí và các khoản phàinộp khác</td><td>-</td><td>-</td><td>3.000.000</td><td>3.000.000</td><td>-</td><td>-</td></tr><tr><td></td><td>17.997.622.292</td><td>658.607.355</td><td>2.173.387.834</td><td>2.462.827.394</td><td>17.997.622.292</td><td>369.167.795</td></tr></table>
+
+Quyết toán thuế của Tổng Công ty sẽ chịu sự kiểm tra của cơ quan thuế. Do việc áp dụng luật và các quy định về thuế đối với nhiều loại giao dịch khác nhau có thể được giải thích theo nhiều cách khác nhau, số thuế được trình bày trên Báo cáo tài chính riêng có thể bị thay đổi theo quyết định của cơ quan thuế.
+
+31
+
+\( \frac{1}{2} \) ① \( \frac{1}{2} \) ②
+
+===== PAGE 33 =====
+Tổng Công ty Sản xuất - Xuất nhập khẩu Bình Dương - CTCP
+
+A128 đường 3/2, Khu phố Đông Tư, phường Lái Thiêu,
+
+Thành phố Hồ Chí Minh
+
+Báo cáo tài chính riêng
+
+cho năm tài chính kết thúc ngày 31/12/2025
+
+19 . CHI PHÍ PHẢI TRẢ NGẮN HẠN
+
+<table><tr><td rowspan="2"></td><td>31/12/2025</td><td>01/01/2025</td></tr><tr><td>VND</td><td>VND</td></tr><tr><td>- Chi phí lãi vay</td><td>-</td><td>403.589.041</td></tr><tr><td>- Chi phí trích trước giá vốn bất động sản đã chuyển nhượng (*)</td><td>125.432.958.852</td><td>125.432.958.852</td></tr><tr><td>- Chi phí phải trả khác</td><td>860.788.570</td><td>2.520.140.000</td></tr><tr><td></td><td>126.293.747.422</td><td>128.356.687.893</td></tr></table>
+
+(*) Đây là các khoản trích trước chi phí để thực hiện đầu tư cơ sở hạ tầng tại dự án Khu công nghiệp đô thị - Dịch vụ An Tây và Khu liên hợp dịch vụ - đô thị Bình Dương lũy kế từ trước giai đoạn cổ phần hóa. Trong giai đoạn cổ phần hóa, Tổng Công ty đã bàn giao Khu công nghiệp đô thị - Dịch vụ An Tây và Khu liên hợp dịch vụ - đô thị Bình Dương với diện tích lần lượt là 1.723.267,4 m² và 1.888.953,2 m² cho Công ty TNHH MTV Đầu tư và Quản lý Dự án Bình Dương tiếp tục quản lý và khai thác dự án theo chủ trương của Tỉnh ủy Bình Dương. Giá trị chi phí trích trước còn lại tại thời điểm 31/12/2025 tương ứng với khối lượng còn lại Tổng Công ty phải thực hiện.
+
+20 . PHẢI TRẢ KHÁC
+
+<table><tr><td rowspan="2" colspan="2"></td><td>31/12/2025</td><td>01/01/2025</td></tr><tr><td>VND</td><td>VND</td></tr><tr><td rowspan="9">a)</td><td>Ngắn hạn</td><td></td><td></td></tr><tr><td>- Kinh phí công đoàn</td><td>509.222.226</td><td>509.222.226</td></tr><tr><td>- Lợi nhuận trong giai đoạn trước cổ phần hóa phải nộp chủ sở hữu</td><td>477.554.089.447</td><td>477.609.089.447</td></tr><tr><td>- Phải trả tiền lãi vay</td><td>50.573.875.977</td><td>37.667.958.168</td></tr><tr><td>- Phải trả cổ tức</td><td>34.393.500</td><td>41.933.000</td></tr><tr><td>- Phải trả Công ty KP Apparell Manufacturing Company Limited (1)</td><td>87.457.984.356</td><td>84.719.223.501</td></tr><tr><td>- Phải trả các cá nhân liên quan bản án (2)</td><td>128.356.296.604</td><td>128.356.296.604</td></tr><tr><td>- Các khoản phải trả, phải nộp khác</td><td>738.480.233</td><td>830.257.833</td></tr><tr><td></td><td>745.229.462.343</td><td>729.733.980.779</td></tr><tr><td rowspan="3">b)</td><td>Dài hạn</td><td></td><td></td></tr><tr><td>- Nhận trước tiền đất tái định cư của các hộ dân thuộc khu tái định cư An Tây (3)</td><td>56.666.666.667</td><td>56.666.666.667</td></tr><tr><td></td><td>56.666.666.667</td><td>56.666.666.667</td></tr><tr><td rowspan="7">c)</td><td>Trong đó: Phải trả khác là các bên liên quan</td><td></td><td></td></tr><tr><td>- Tỉnh ủy Bình Dương (nay là Thành ủy thành phố Hồ Chí Minh)</td><td>477.554.089.447</td><td>477.609.089.447</td></tr><tr><td>- KP Apparell Manufacturing Co., Ltd</td><td>87.457.984.356</td><td>84.719.223.501</td></tr><tr><td>- Công ty TNHH Một thành viên Đầu tư và Quản lý Dự án Bình Dương</td><td>99.910.320</td><td>99.910.320</td></tr><tr><td>- Công ty TNHH Sân Golf Palm Sông Bé</td><td>14.507.437.614</td><td>9.341.519.806</td></tr><tr><td>- Công ty TNHH MTV Giấy Vĩnh Phú</td><td>4.137.534.246</td><td>4.137.534.246</td></tr><tr><td>- Công ty TNHH MTV Quốc tế Protrade</td><td>31.928.904.117</td><td>24.188.904.116</td></tr><tr><td></td><td></td><td>615.685.860.100</td><td>600.096.181.436</td></tr></table>
+
+(1) Đây là khoản phải trả Công ty KP Apparel Manufacturing Company Limited về tiền mua máy móc thiết bị và thuê nhà xưởng. Số dư nguyên tệ tại thời điểm 31/12/2025 là 3.315.691,11 USD, tương ứng 87.457.984.356 VND.
+
+32
+
+===== PAGE 34 =====
+Tổng Công ty Sản xuất - Xuất nhập khẩu Bình Dương - CTCP
+
+A128 đường 3/2, Khu phố Đông Tư, phường Lái Thiêu,
+
+Thành phố Hồ Chí Minh
+
+Báo cáo tài chính riêng
+
+cho năm tài chính kết thúc ngày 31/12/2025
+
+(2) Khoản phải trả các cá nhân có liên quan đến Bán án sơ thẩm số 327/2022/HSST ngày 30/08/2022 của Tòa án Nhân dân Thành phố Hà Nội, đây là số tiền các cá nhân nộp cho Tổng Công ty để khác phục hậu quả và được Cục thi hành án Hà Nội khấu trừ vào nghĩa vụ của Tổng Công ty. Thông tin chỉ tiết tại thuyết minh 34c.
+
+(3) Các khoản tiền nhận trước của hộ dân mua đất tại khu tái định cư thuộc khu Công nghiệp - Dịch vụ An Tây. Theo phương án sử dụng đất khi cổ phần hóa Tổng Công ty, toàn bộ khu đất thuộc khu Công nghiệp – Dịch vụ An Tây và khu tái định cư sẽ bản giao về cho Công ty TNHH MTV Quản lý Dự án Bình Dương, một đơn vị trực thuộc Tinh ủy Bình Dương. Giá trị bàn giao bao gồm cả phần đất đã nhận trước của các hộ dân này. Tuy nhiên tại thời điểm bàn giao, Tổng Công ty đã tiến hành nộp các hồ sơ thủ tục giao đất cho Sở Tài Nguyên và Môi trường tỉnh Bình Dương để thực hiện tách số cho từng hộ dân, do đó Tổng Công ty tạm thời chưa thực hiện bàn giao về cho Công ty TNHH MTV Quản lý Dự án Bình Dương. Sau khi các thủ tục tách số hoàn tất, Tổng Công ty sẽ bản giao toàn bộ hồ sơ có liên quan trong đó bao gồm chi phí xây dựng cơ bản dở dang trình bày tại Thuyết minh số 11 với số tiền 66,727 tỷ VND, tiền nhận trước ghi nhận trên khoản mục "Phải trả dài hạn khác" số tiền 56,67 tỷ VND và toàn bộ các nội dung này sẽ được xử lý khi quyết toán cổ phần hóa với Tinh ủy Bình Dương (nay là Thành ủy thành phố Hồ Chí Minh).
+
+21. VÔN CHỦ SỞ HỮU
+
+a) Băng đối chiếu biến động của vốn chủ sở hữu
+
+<table><tr><td rowspan="2"></td><td>Vốn đầu tư của Chủ sở hữu</td><td>Quỹ đầu tư phát triển</td><td>Lợi nhuận chưa phân phối</td><td>Cộng</td></tr><tr><td>VND</td><td>VND</td><td>VND</td><td>VND</td></tr><tr><td>Số dư đầu năm trước</td><td>3.000.000.000.000</td><td>29.078.979.932</td><td>272.860.723.320</td><td>3.301.939.703.252</td></tr><tr><td>Lãi trong năm trước</td><td>-</td><td>-</td><td>51.713.623.433</td><td>51.713.623.433</td></tr><tr><td>Chia cổ tức</td><td>-</td><td>-</td><td>(90.000.000.000)</td><td>(90.000.000.000)</td></tr><tr><td>Trích quỹ đầu tư phát triển</td><td>-</td><td>2.653.521.599</td><td>(2.653.521.599)</td><td>-</td></tr><tr><td>Trích quỹ khen thưởng phúc lợi</td><td>-</td><td>-</td><td>(2.653.521.599)</td><td>(2.653.521.599)</td></tr><tr><td>Trích quỹ thưởng ban điều hành</td><td>-</td><td>-</td><td>(216.000.000)</td><td>(216.000.000)</td></tr><tr><td>Thù lao Hội đồng Quản trị, Ban Kiểm soát</td><td>-</td><td>-</td><td>(1.296.000.000)</td><td>(1.296.000.000)</td></tr><tr><td>Số dư cuối năm trước</td><td>3.000.000.000.000</td><td>31.732.501.531</td><td>227.755.303.555</td><td>3.259.487.805.086</td></tr><tr><td>Số dư đầu năm nay</td><td>3.000.000.000.000</td><td>31.732.501.531</td><td>227.755.303.555</td><td>3.259.487.805.086</td></tr><tr><td>Lãi trong năm nay</td><td>-</td><td>-</td><td>56.433.878.280</td><td>56.433.878.280</td></tr><tr><td>Trích quỹ đầu tư phát triển (*)</td><td>-</td><td>2.585.681.172</td><td>(2.585.681.172)</td><td>-</td></tr><tr><td>Trích quỹ khen thưởng phúc lợi (*)</td><td>-</td><td>-</td><td>(2.585.681.172)</td><td>(2.585.681.172)</td></tr><tr><td>Thù lao Hội đồng Quản trị, Ban Kiểm soát năm 2024 (*)</td><td>-</td><td>-</td><td>(1.900.800.000)</td><td>(1.900.800.000)</td></tr><tr><td>Chia cổ tức (*)</td><td>-</td><td>-</td><td>(90.000.000.000)</td><td>(90.000.000.000)</td></tr><tr><td>Số dư cuối năm nay</td><td>3.000.000.000.000</td><td>34.318.182.703</td><td>187.117.019.491</td><td>3.221.435.202.194</td></tr></table>
+
+33
+
+HY
+HUH
+MTO
+SC
+HO H
+
+,700
+ÔNG SẢN
+ẤT M
+BÌNH CÓ
+CÓ
+N A
+
+===== PAGE 35 =====
+Tổng Công ty Sản xuất - Xuất nhập khẩu Bình Dương - CTCP
+
+A128 đường 3/2, Khu phố Đông Tư, phường Lái Thiêu,
+
+Thành phố Hồ Chí Minh
+
+Báo cáo tài chính riêng
+
+cho năm tài chính kết thúc ngày 31/12/2025
+
+(*) Theo Nghị quyết phiên hợp Đại hội đồng cổ đông thường niên năm 2025 số 10/NQ-ĐHĐCD ngày 28/04/2025, Tổng Công ty công bố việc phân phối lợi nhuận năm 2024 như sau:
+
+<table><tr><td rowspan="2"></td><td>Số tiền</td></tr><tr><td>VND</td></tr><tr><td>Trích quỹ đầu tư phát triển</td><td>2.585.681.172</td></tr><tr><td>Trích quỹ khen thưởng phúc lợi</td><td>2.585.681.172</td></tr><tr><td>Trích quỹ thưởng ban điều hành (Đã tạm trích năm 2024)</td><td>216.000.000</td></tr><tr><td>Trích thù lao HĐQT, BKS, Thư ký Tổng Công ty</td><td>1.900.800.000</td></tr><tr><td>Chi trả cổ tức 3%/vốn điều lệ (tương ứng mỗi cổ phần nhận 300 VND)</td><td>90.000.000.000</td></tr></table>
+
+b) Chi tiết vốn đầu tư của chủ sở hữu
+
+<table><tr><td rowspan="2"></td><td>Tỷ lệ</td><td>Cuối năm</td><td>Tỷ lệ</td><td>Đầu năm</td></tr><tr><td>%</td><td>VND</td><td>%</td><td>VND</td></tr><tr><td>- Công ty TNHH MTV Đầu tư và Quản lý Dự án Bình Dương</td><td>60,98</td><td>1.829.274.000.000</td><td>60,98</td><td>1.829.274.000.000</td></tr><tr><td>- Công ty Cổ phần SAM Holdings</td><td>8,00</td><td>240.000.000.000</td><td>8,00</td><td>240.000.000.000</td></tr><tr><td>- Công ty Cổ phần Đầu tư U&amp;I</td><td>6,00</td><td>180.000.000.000</td><td>6,00</td><td>180.000.000.000</td></tr><tr><td>- Bà Trần Thị Thu Hà</td><td>5,00</td><td>150.000.000.000</td><td>5,00</td><td>150.000.000.000</td></tr><tr><td>- Cổ đông khác</td><td>20,02</td><td>600.726.000.000</td><td>20,02</td><td>600.726.000.000</td></tr><tr><td></td><td>100</td><td>3.000.000.000.000</td><td>100</td><td>3.000.000.000.000</td></tr></table>
+
+c) Các giao dịch về vốn với các chủ sở hữu và phân chia lợi nhuận
+
+<table><tr><td rowspan="2"></td><td>Năm 2025</td><td>Năm 2024</td></tr><tr><td>VND</td><td>VND</td></tr><tr><td colspan="3">Vốn đầu tư của chủ sở hữu</td></tr><tr><td>- Vốn góp đầu năm</td><td>3.000.000.000.000</td><td>3.000.000.000.000</td></tr><tr><td>- Vốn góp cuối năm</td><td>3.000.000.000.000</td><td>3.000.000.000.000</td></tr><tr><td colspan="3">Cổ tức, lợi nhuận:</td></tr><tr><td>- Cổ tức, lợi nhuận phải trả đầu năm</td><td>477.651.022.447</td><td>477.647.602.447</td></tr><tr><td>+ Lợi nhuận phải nộp Tinh ủy Bình Dương\( ^{(1)} \)</td><td>477.609.089.447</td><td>477.609.089.447</td></tr><tr><td>+ Cổ tức phải trả cổ đông khác</td><td>41.933.000</td><td>38.513.000</td></tr><tr><td>- Cổ tức, lợi nhuận phải trả trong năm</td><td>89.945.000.000</td><td>90.000.000.000</td></tr><tr><td>+ Lợi nhuận phải nộp Tinh ủy Bình Dương\( ^{(1)(2)} \)</td><td>(55.000.000)</td><td>-</td></tr><tr><td>+ Cổ tức phải trả cổ đông</td><td>90.000.000.000</td><td>90.000.000.000</td></tr><tr><td>- Cổ tức, lợi nhuận đã chi trả bằng tiền</td><td>90.007.539.500</td><td>89.996.580.000</td></tr><tr><td>+ Cổ tức, lợi nhuận tạm chia trên lợi nhuận năm trước</td><td>90.007.539.500</td><td>89.996.580.000</td></tr><tr><td>- Cổ tức, lợi nhuận còn phải trả cuối năm</td><td>477.588.482.947</td><td>477.651.022.447</td></tr><tr><td>+ Lợi nhuận phải nộp Tinh ủy Bình Dương\( ^{(1)} \)</td><td>477.554.089.447</td><td>477.609.089.447</td></tr><tr><td>+ Cổ tức phải trả cổ đông khác</td><td>34.393.500</td><td>41.933.000</td></tr></table>
+
+(1) Nay là Thành ủy Thành phố Hồ Chí Minh.
+
+(2) Xem thêm tại Thuyết minh số 22b.
+
+34
+
+\( \frac{y}{2} = 9 \)
+
+\( \left\| \begin{array}{c} V - T \\ P H \end{array} \right. \) NG DUS HAP XU CON 148
+
+===== PAGE 36 =====
+Tổng Công ty Sản xuất - Xuất nhập khẩu Bình Dương - CTCP
+
+A128 đường 3/2, Khu phố Đông Tư, phường Lái Thiêu,
+
+Thành phố Hồ Chí Minh
+
+Báo cáo tài chính riêng
+
+cho năm tài chính kết thúc ngày 31/12/2025
+
+d) Cổ phiếu
+
+<table><tr><td></td><td>31/12/2025</td><td>01/01/2025</td></tr><tr><td>Số lượng cổ phiếu đăng ký phát hành</td><td>300.000.000</td><td>300.000.000</td></tr><tr><td>Số lượng cổ phiếu đã bán ra công chúng</td><td></td><td></td></tr><tr><td>- Cổ phiếu phổ thông</td><td>300.000.000</td><td>300.000.000</td></tr><tr><td>Số lượng cổ phiếu đang lưu hành</td><td></td><td></td></tr><tr><td>- Cổ phiếu phổ thông</td><td>300.000.000</td><td>300.000.000</td></tr><tr><td colspan="3">Mệnh giá cổ phiếu đang lưu hành là 10.000 VND/cổ phần.</td></tr></table>
+
+e) Các quỹ của Tổng Công ty
+
+<table><tr><td rowspan="2"></td><td>31/12/2025</td><td>01/01/2025</td></tr><tr><td>VND</td><td>VND</td></tr><tr><td>Quỹ đầu tư phát triển</td><td>34.318.182.703</td><td>31.732.501.531</td></tr><tr><td></td><td>34.318.182.703</td><td>31.732.501.531</td></tr></table>
+
+22. CÁC KHOẢN MỤC NGOÀI BẢNG CÂN ĐỐI KẾ TOÁN VÀ CAM KẾT THUÊ HOẠT ĐỘNG
+
+a) Tài sản thuê ngoài
+
+Tổng Công ty ký hợp đồng thuê đất tại số A128, đường 3/2, khu phố Đông Tư, phường Lái Thiêu, thành phố Thuận An, tỉnh Bình Dương (nay là phường Lái Thiêu, thành phố Hồ Chí Minh) để sử dụng với mục đích làm văn phòng Tổng Công ty và xí nghiệp. Diện tích khu đất thuê là 15.782,3 m\( ^{2} \). Theo hợp đồng này, Tổng Công ty phải trả tiền thuê đất hàng năm cho đến ngày đáo hạn hợp đồng theo quy định hiện hành của hợp đồng thuê.
+
+b) Tài sản nhận giữ hộ
+
+Các tài sản thuộc danh mục phải bản giao về Công ty TNHH MTV Đầu tư và Quản lý dự án Bình Dương theo Quyết định số 3468/QĐ-UBND ngày 08/12/2017 của Ủy ban Nhân dân tỉnh Bình Dương về phê duyệt giá trị doanh nghiệp để cổ phần hóa Tổng Công ty Sản xuất - Xuất nhập khẩu Bình Dương TNHH Một thành viên. Chi tiết như sau:
+
+<table><tr><td rowspan="2"></td><td>31/12/2025</td><td>01/01/2025</td></tr><tr><td>VND</td><td>VND</td></tr><tr><td>- Quyền sử dụng đất và tài sản trên đất tại khu phố Đông Tư, phường Lái Thiêu</td><td>-</td><td>5.453.253.100</td></tr><tr><td>- Quyền sử dụng đất tại xã An Tây, huyện Bến Cát</td><td>1.743.153.742</td><td>1.743.153.742</td></tr><tr><td>- Khu tái định cư Gò Chai (*)</td><td>-</td><td>52.920.317.344</td></tr><tr><td>- Khu tái định cư An Tây</td><td>26.726.901.367</td><td>26.726.901.367</td></tr><tr><td></td><td>28.470.055.109</td><td>86.843.625.553</td></tr></table>
+
+(*) Căn cứ Biên bản số 17/BBBG/TCTY ngày 29/04/2025 về việc bản giao Khu đất và chi phí có liên quan của dự án Khu tái định cư Gò Chai tại Khu phố Bình Đức, phường Bình Hòa, thành phố Thuận An, tỉnh Bình Dương ("Khu tái định cư Gò Chai"), Tổng Công ty đã tiến hành bản giao ranh mốc thực địa, khu đất, chi phí và các hồ sơ, chứng từ có liên quan của dự án cho Công ty TNHH MTV Đầu tư và Quản lý dự án Bình Dương để quản lý. Ngoài ra, trong khoảng thời gian từ ngày 01/11/2018 đến thời điểm bản giao, Tổng Công ty đã thực hiện chi hộ chi báo vệ giữ đất với tổng số tiền 55.000.000 VND. Đối với khoản chi phí này, Tổng Công ty đã có báo cáo kiến nghị thực hiện cần trừ vào khoản phải trả cho Văn phòng Tỉnh ủy (nay là Văn phòng Thành ủy TP. Hồ Chí Minh). (Xem thêm tại Thuyết minh số 21c)
+
+35
+
+MS.D.N.-010
+★
+★
+★
+★
+★
+★
+
+166
+G TY
+IT-
+KH
+NG
+TY
+IN
+BINH
+
+===== PAGE 37 =====
+Tổng Công ty Sản xuất - Xuất nhập khẩu Bình Dương - CTCP
+
+A128 đường 3/2, Khu phố Đông Tư, phường Lái Thiêu,
+
+Thành phố Hồ Chí Minh
+
+Báo cáo tài chính riêng
+
+cho năm tài chính kết thúc ngày 31/12/2025
+
+Tại thời điểm 31/12/2025, một số tài sản thuộc danh mục cần thanh lý theo phương án cổ phần hóa nhưng chưa thanh lý được, Tổng Công ty đã ghi nhận giảm trên số kế toán, chuyển sang theo dõi ngoài bảng và đang đề nghị Tỉnh ủy Bình Dương (nay là Thành ủy thành phố Hồ Chí Minh) phê duyệt chủ trương bản giao cho Công ty TNHH MTV Đầu tư và Quản lý Dự án Bình Dương như sau:
+
+<table><tr><td rowspan="2"></td><td>31/12/2025</td><td>01/01/2025</td></tr><tr><td>VND</td><td>VND</td></tr><tr><td>- Chi phí đầu tư khu phức hợp Bình Dương Riverside</td><td>3.034.989.090</td><td>3.034.989.090</td></tr><tr><td>- Chi phí đầu tư khác</td><td>406.818.182</td><td>406.818.182</td></tr><tr><td></td><td>3.441.807.272</td><td>3.441.807.272</td></tr></table>
+
+c) Ngoại tệ các loại
+
+<table><tr><td></td><td>31/12/2025</td><td>01/01/2025</td></tr><tr><td>- Đô la Mỹ (USD)</td><td>24.036,53</td><td>24.516,81</td></tr></table>
+
+23. DOANH THU BÁN HÀNG VÀ CUNG CẤP ĐỊCH VỤ
+
+<table><tr><td rowspan="2"></td><td>Năm 2025</td><td>Năm 2024</td></tr><tr><td>VND</td><td>VND</td></tr><tr><td>Doanh thu bán hàng hóa</td><td>-</td><td>134.285.715</td></tr><tr><td>Doanh thu cung cấp dịch vụ</td><td>787.700.000</td><td>1.560.200.000</td></tr><tr><td></td><td>787.700.000</td><td>1.694.485.715</td></tr></table>
+
+24 . GIÁ VÔN HÀNG BÁN
+
+<table><tr><td rowspan="2"></td><td>Năm 2025</td><td>Năm 2024</td></tr><tr><td>VND</td><td>VND</td></tr><tr><td>Giá vốn bán hàng hóa</td><td>-</td><td>118.602.345</td></tr><tr><td>Giá vốn cung cấp dịch vụ</td><td>-</td><td>191.929.189</td></tr><tr><td></td><td>-</td><td>310.531.534</td></tr></table>
+
+25 . DOANH THU HOẠT ĐỘNG TÀI CHÍNH
+
+<table><tr><td rowspan="2"></td><td>Năm 2025</td><td>Năm 2024</td></tr><tr><td>VND</td><td>VND</td></tr><tr><td>Lãi tiền gửi</td><td>2.126.264.726</td><td>898.790.576</td></tr><tr><td>Cổ tức, lợi nhuận được chia</td><td>210.628.324.569</td><td>159.640.653.589</td></tr><tr><td>Lãi chênh lệch tỷ giá phát sinh trong năm</td><td>21.685.788</td><td>28.061.364</td></tr><tr><td></td><td>212.776.275.083</td><td>160.567.505.529</td></tr><tr><td>Trong đó: Doanh thu hoạt động tài chính nhận từ các bên liên quan</td><td>210.551.840.660</td><td>159.569.445.391</td></tr></table>
+
+Trong đó: Doanh thu hoạt động tài chính nhận từ các bên liên quan
+
+(Xem thông tin chi tiết tại Thuyết minh số 38)
+
+26 . CHI PHÍ TÀI CHÍNH
+
+<table><tr><td rowspan="2"></td><td>Năm 2025</td><td>Năm 2024</td></tr><tr><td>VND</td><td>VND</td></tr><tr><td>Lãi tiền vay</td><td>12.502.328.768</td><td>15.984.835.453</td></tr><tr><td>Lỗ chênh lệch tỷ giá phát sinh trong năm</td><td>29.060</td><td>20.899.105</td></tr><tr><td>Lỗ chênh lệch tỷ giá do đánh giá lại số dư cuối năm</td><td>2.739.617.648</td><td>3.759.973.556</td></tr><tr><td>Hoàn nhập dự phòng đầu tư tài chính dài hạn</td><td>(16.643.609.479)</td><td>(51.643.723.808)</td></tr><tr><td></td><td>(1.401.634.003)</td><td>(31.878.015.694)</td></tr><tr><td>Trong đó: Chi phí tài chính trả cho các bên liên quan</td><td>12.502.328.768</td><td>15.878.232.876</td></tr></table>
+
+(Xem thông tin chi tiết tại Thuyết minh số 38)
+
+36
+
+===== PAGE 38 =====
+Tổng Công ty Sản xuất - Xuất nhập khẩu Bình Dương - CTCP
+
+A128 đường 3/2, Khu phố Đông Tư, phường Lái Thiêu,
+
+Thành phố Hồ Chí Minh
+
+Báo cáo tài chính riêng
+
+cho năm tài chính kết thúc ngày 31/12/2025
+
+27 . CHI PHÍ QUẢN LÝ DOANH NGHIỆP
+
+<table><tr><td rowspan="2"></td><td>Năm 2025</td><td>Năm 2024</td></tr><tr><td>VND</td><td>VND</td></tr><tr><td>Chi phí công cụ, dụng cụ</td><td>114.920.330</td><td>140.643.119</td></tr><tr><td>Chi phí nhân công</td><td>20.507.069.551</td><td>15.735.519.071</td></tr><tr><td>Chi phí khấu hao tài sản cố định</td><td>844.390.202</td><td>1.127.096.267</td></tr><tr><td>Chi phí dự phòng (*)</td><td>88.928.245.110</td><td>78.193.594.973</td></tr><tr><td>Thuế, phí, lệ phí</td><td>7.274.494</td><td>9.106.420</td></tr><tr><td>Chi phí dịch vụ mua ngoài</td><td>21.076.830.287</td><td>21.032.735.868</td></tr><tr><td>Chi phí khác bằng tiền</td><td>7.397.838.128</td><td>8.754.332.675</td></tr><tr><td>Lợi thế kinh doanh phân bổ</td><td>19.301.981.220</td><td>19.301.981.220</td></tr><tr><td></td><td>158.178.549.322</td><td>144.295.009.613</td></tr><tr><td>Trong đó: Chi phí quản lý doanh nghiệp từ các bên liên quan</td><td>6.230.849.590</td><td>6.491.073.509</td></tr></table>
+
+(Xem thông tin chi tiết tại Thuyết minh số 38)
+
+(*) Bao gồm số dự phòng cho khoản phải thu các khoản tạm nộp chờ xử lý quyết toán cổ phần hóa trích trong năm nay là 70,68 tỷ VND (chi tiết tại thuyết minh số 8), theo chủ trương đã được Đại hội đồng Cổ đông Tổng Công ty phê duyệt tại Nghị quyết số 72/NQ-ĐHĐCD ngày 30/06/2023.
+
+28. THU NHẬP KHÁC
+
+<table><tr><td rowspan="2"></td><td>Năm 2025</td><td>Năm 2024</td></tr><tr><td>VND</td><td>VND</td></tr><tr><td>Thu nhập từ nhượng bán, thanh lý tài sản cố định</td><td>-</td><td>3.049.359.110</td></tr><tr><td>Thu nhập từ thanh lý vật tư</td><td>-</td><td>586.363.636</td></tr><tr><td>Thu nhập khác</td><td>15.912.135</td><td>90.721.074</td></tr><tr><td></td><td>15.912.135</td><td>3.726.443.820</td></tr><tr><td>Trong đó: Thu nhập khác đối với các bên liên quan</td><td>-</td><td>485.000.000</td></tr></table>
+
+(Xem thông tin chi tiết tại Thuyết minh số 38)
+
+29 . CHI PHÍ KHÁC
+
+<table><tr><td rowspan="2"></td><td>Năm 2025</td><td>Năm 2024</td></tr><tr><td>VND</td><td>VND</td></tr><tr><td>Xuất kho vật tư thanh lý và chi phí thanh lý</td><td>-</td><td>1.238.587.848</td></tr><tr><td>Các khoản bị phạt</td><td>3.617.726</td><td>7.000.000</td></tr><tr><td>Chi phí khác</td><td>365.475.893</td><td>301.698.330</td></tr><tr><td></td><td>369.093.619</td><td>1.547.286.178</td></tr></table>
+
+37
+
+.110
+JNG
+NHIÊM
+G KIÊ
+AA
+'H PH
+
+N:37
+TÓ
+S.
+:UÁT
+BÍN
+C
+C
+'AN
+
+===== PAGE 39 =====
+Tổng Công ty Sản xuất - Xuất nhập khẩu Bình Dương - CTCP
+
+A128 đường 3/2, Khu phố Đông Tư, phường Lái Thiêu,
+
+Thành phố Hồ Chí Minh
+
+Báo cáo tài chính riêng
+
+cho năm tài chính kết thúc ngày 31/12/2025
+
+30 . CHI PHÍ THUÊ THU NHẬP DOANH NGHIỆP HIỆN HÀNH
+
+<table><tr><td rowspan="2"></td><td>Năm 2025</td><td>Năm 2024</td></tr><tr><td>VND</td><td>VND</td></tr><tr><td>Tổng lợi nhuận kế toán trước thuế TNDN</td><td>56.433.878.280</td><td>51.713.623.433</td></tr><tr><td>Các khoản điều chỉnh tăng</td><td>103.162.823.256</td><td>1.078.669.599</td></tr><tr><td>- Chi phí không hợp lý hợp lệ</td><td>6.970.776.496</td><td>1.078.669.599</td></tr><tr><td>- Các khoản điều chỉnh tăng khác</td><td>9.429.458.362</td><td>-</td></tr><tr><td>- Chênh lệch dự phòng đầu tư tài chính giữa chi phí kế toán và chi phí thuế</td><td>86.761.731.605</td><td>-</td></tr><tr><td>- Lỗ chênh lệch tỷ giá cuối năm</td><td>856.793</td><td>-</td></tr><tr><td>Các khoản điều chỉnh giảm</td><td>(210.628.324.569)</td><td>(159.663.883.588)</td></tr><tr><td>- Lãi chênh lệch tỷ giá cuối năm</td><td>-</td><td>(23.229.999)</td></tr><tr><td>- Có tức lợi nhuận được chia</td><td>(210.628.324.569)</td><td>(159.640.653.589)</td></tr><tr><td>Thu nhập chịu thuế thu nhập doanh nghiệp</td><td>(51.031.623.033)</td><td>(106.871.590.556)</td></tr><tr><td>Chi phí thuế TNDN hiện hành (thuế suất 20%)</td><td>-</td><td>-</td></tr><tr><td>Thuế TNDN phải nộp đầu năm</td><td>(17.729.895.143)</td><td>(17.729.895.143)</td></tr><tr><td>Thuế TNDN đã nộp trong năm</td><td>-</td><td>-</td></tr><tr><td>Thuế TNDN phải nộp cuối năm</td><td>(17.729.895.143)</td><td>(17.729.895.143)</td></tr></table>
+
+31 . CHI PHÍ SẢN XUẤT KINH DOANH THEO YẾU TỐ
+
+<table><tr><td rowspan="2"></td><td>Năm 2025</td><td>Năm 2024</td></tr><tr><td>VND</td><td>VND</td></tr><tr><td>Chi phí nguyên liệu, vật liệu, đồ dùng</td><td>114.920.330</td><td>140.643.119</td></tr><tr><td>Chi phí nhân công</td><td>20.507.069.551</td><td>15.735.519.071</td></tr><tr><td>Chi phí khấu hao tài sản cố định</td><td>844.390.202</td><td>1.319.025.456</td></tr><tr><td>Chi phí dịch vụ mua ngoài</td><td>21.076.830.287</td><td>21.032.735.868</td></tr><tr><td>Chi phí khác bằng tiền</td><td>26.707.093.842</td><td>28.065.420.315</td></tr><tr><td>Chi phí dự phòng</td><td>88.928.245.110</td><td>78.193.594.973</td></tr><tr><td></td><td>158.178.549.322</td><td>144.486.938.802</td></tr></table>
+
+32. CÔNG CỤ TÀI CHÍNH
+
+Quản lý rủi ro tài chính
+
+Các loại rủi ro tài chính của Tổng Công ty có thể gặp phải bao gồm: rủi ro thị trường, rủi ro tín dụng và rủi ro thanh khoản. Tổng Công ty đã xây dựng hệ thống kiểm soát nhằm đảm bảo sự cân bằng ở mức hợp lý giữa chi phí rủi ro phát sinh và chi phí quản lý rủi ro. Ban Tổng Giám đốc Tổng Công ty có trách nhiệm theo dõi quy trình quản lý rủi ro để đảm bảo sự cân bằng hợp lý giữa rủi ro và kiểm soát rủi ro.
+
+Rủi ro thị trường
+
+Tổng Công ty có thể sẽ_class phải các rủi ro thị trường như: biến động về tỷ giá hối đoái, lãi suất.
+
+Rùi ro về tỷ giá hối đoái:
+
+Tổng Công ty chịu rủi ro về tỷ giá khi có các giao dịch được thực hiện bằng đơn vị tiền tệ khác với đồng Việt Nam như: các khoản cho vay, doanh thu, chi phí...
+
+Rùi ro về lãi suất:
+
+Tổng Công ty chịu rủi ro về lãi suất do giá trị hợp lý của các lường tiền trong tương lai của một công cụ tài chính sẽ biến động theo những thay đổi của lãi suất thị trường khi Tổng Công ty có phát sinh các khoản tiền gửi có hoặc không có kỳ hạn, các khoản vay và nợ chịu lãi suất thả nổi. Tổng Công ty quản lý rủi ro lãi suất bằng cách phân tích tình hình cạnh tranh trên thị trường để có được các lãi suất có lợi cho mục đích của Tổng Công ty.
+
+38
+
+\( \left\| {\overrightarrow{H}}^{2}\right\|  S = {10}^{2} + \frac{1}{2}{S}_{0} + \frac{1}{2}{S}_{1} + \frac{1}{2}{S}_{2} + \frac{1}{2}{S}_{3} + \frac{1}{2}{S}_{4} + \frac{1}{2}{S}_{5} + \frac{1}{2}{S}_{6} + \frac{1}{2}{S}_{7} + \frac{1}{2}{S}_{8} + \frac{1}{2}{S}_{9} + \frac{1}{2}{S}_{10} + \frac{1}{2}{S}_{11} + \frac{1}{2}{S}_{12} + \frac{1}{2}{S}_{13} + \frac{1}{2}{S}_{14} + \frac{1}{2}{S}_{15} + \frac{1}{2}{S}_{16} + \frac{1}{2}{S}_{17} + \frac{1}{2}{S}_{18} + \frac{1}{2}{S}_{19} + \frac{1}{2}{S}_{20} + \frac{1}{2}{S}_{21} + \frac{1}{2}{S}_{22} + \frac{1}{2}{S}_{23} + \frac{1}{2}{S}_{24} + \frac{1}{2}{S}_{25} + \frac{1}{2}{S}_{26} + \frac{1}{2}{S}_{27} + \frac{1}{2}{S}_{28} + \frac{1}{2}{S}_{29} + \frac{1}{2}{S}_{30} + \frac{1}{2}{S}_{31} + \frac{1}{2}{S}_{32} + \frac{1}{2}{S}_{33} + \frac{1}{2}{S}_{34} + \frac{1}{2}{S}_{35} + \frac{1}{2}{S}_{36} + \frac{1}{2}{S}_{37} + \frac{1}{2}{S}_{38} + \frac{1}{2}{S}_{39} + \frac{1}{2}{S}_{40} + \frac{1}{2}{S}_{41} + \frac{1}{2}{S}_{42} + \frac{1}{2}{S}_{43} + \frac{1}{2}{S}_{44} + \frac{1}{2}{S}_{45} + \frac{1}{2}{S}_{46} + \frac{1}{2}{S}_{47} + \frac{1}{2}{S}_{48} + \frac{1}{2}{S}_{49} + \frac{1}{2}{S}_{50} + \frac{1}{2}{S}_{51} + \frac{1}{2}{S}_{52} + \frac{1}{2}{S}_{53} + \frac{1}{2}{S}_{54} + \frac{1}{2}{S}_{55} + \frac{1}{2}{S}_{56} + \frac{1}{2}{S}_{57} + \frac{1}{2}{S}_{58} + \frac{1}{2}{S}_{59} + \frac{1}{2}{S}_{60} + \frac{1}{2}{S}_{61} + \frac{1}{2}{S}_{62} + \frac{1}{2}{S}_{63} + \frac{1}{2}{S}_{64} + \frac{1}{2}{S}_{65} + \frac{1}{2}{S}_{66} + \frac{1}{2}{S}_{67} + \frac{1}{2}{S}_{68} + \frac{1}{2}{S}_{69} + \frac{1}{2}{S}_{70} + \frac{1}{2}{S}_{71} + \frac{1}{2}{S}_{72} + \frac{1}{2}{S}_{73} + \frac{1}{2}{S}_{74} + \frac{1}{2}{S}_{75} + \frac{1}{2}{S}_{76} + \frac{1}{2}{S}_{77} + \frac{1}{2}{S}_{78} + \frac{1}{2}{S}_{79} + \frac{1}{2}{S}_{80} + \frac{1}{2}{S}_{81} + \frac{1}{2}{S}_{82} + \frac{1}{2}{S}_{83} + \frac{1}{2}{S}_{84} + \frac{1}{2}{S}_{85} + \frac{1}{2}{S}_{86} + \frac{1}{2}{S}_{87} + \frac{1}{2}{S}_{88} + \frac{1}{2}{S}_{89} + \frac{1}{2}{S}_{90} + \frac{1}{2}\]
+
+\( \left\| \begin{array}{c}W-T \\S_{PH}\end{array} \right. \) \( \left. \begin{array}{c}ONG\\H\\D\\H\\NHA\\N\\X\\G\\CO\end{array} \right. \) \( \left. \begin{array}{c}001\\001\end{array} \right\| \)
+
+===== PAGE 40 =====
+Tổng Công ty Sản xuất - Xuất nhập khẩu Bình Dương - CTCP
+
+A128 đường 3/2, Khu phố Đông Tư, phường Lái Thiêu,
+
+Thành phố Hồ Chí Minh
+
+Báo cáo tài chính riêng
+
+cho năm tài chính kết thúc ngày 31/12/2025
+
+Rủi ro tín dụng
+
+Rủi ro tín dụng là rủi ro mà một bên tham gia trong một công cụ tài chính hoặc hợp đồng không có khả năng thực hiện được nghĩa vụ của mình dẫn đến tổn thất về tài chính cho Tổng Công ty. Tổng Công ty có các rủi ro tín dụng từ hoạt động động sản xuất kinh doanh (chủ yếu đối với các khoản phải thu khách hàng, phải thu khác) và hoạt động tài chính (bao gồm tiền gửi ngân hàng, cho vay và các công cụ tài chính khác).
+
+<table><tr><td rowspan="2"></td><td>Từ 1 nămtrở xuống</td><td>Trên 1 nămđến 5 năm</td><td>Trên 5 năm</td><td>Cộng</td></tr><tr><td>VND</td><td>VND</td><td>VND</td><td>VND</td></tr><tr><td colspan="5">Tại ngày 31/12/2025</td></tr><tr><td>Tiền và các khoản tương đương tiền</td><td>32.770.743.107</td><td>-</td><td>-</td><td>32.770.743.107</td></tr><tr><td>Phải thu khách hàng, phải thu khác</td><td>350.349.070.468</td><td>820.204.378.566</td><td>-</td><td>1.170.553.449.034</td></tr><tr><td>Các khoản cho vay</td><td>102.273.972.953</td><td>9.896.049.652</td><td>-</td><td>112.170.022.605</td></tr><tr><td></td><td>485.393.786.528</td><td>830.100.428.218</td><td>-</td><td>1.315.494.214.746</td></tr><tr><td colspan="5">Tại ngày 01/01/2025</td></tr><tr><td>Tiền và các khoản tương đương tiền</td><td>47.747.570.082</td><td>-</td><td>-</td><td>47.747.570.082</td></tr><tr><td>Phải thu khách hàng, phải thu khác</td><td>307.598.074.329</td><td>890.886.028.663</td><td>-</td><td>1.198.484.102.992</td></tr><tr><td>Các khoản cho vay</td><td>75.142.971.443</td><td>9.896.049.652</td><td>-</td><td>85.039.021.095</td></tr><tr><td></td><td>430.488.615.854</td><td>900.782.078.315</td><td>-</td><td>1.331.270.694.169</td></tr></table>
+
+Rủi ro thanh khoản
+
+Rùi ro thanh khoản là rủi ro Tổng Công ty gặp khó khăn khi thực hiện các nghĩa vụ tài chính do thiếu vốn. Rùi ro thanh khoản của Tổng Công ty chủ yếu phát sinh từ việc các tài sản tài chính và nợ phải trả tài chính có các thời điểm đáo hạn khác nhau.
+
+Thời hạn thanh toán của các khoản nợ phải trả tài chính dựa trên các khoản thanh toán dự kiến theo hợp đồng (trên cơ sở dòng tiền của các khoản gốc) như sau:
+
+<table><tr><td rowspan="2"></td><td>Từ 1 nămtrở xuống</td><td>Trên 1 nămđến 5 năm</td><td>Trên 5 năm</td><td>Cộng</td></tr><tr><td>VND</td><td>VND</td><td>VND</td><td>VND</td></tr><tr><td colspan="5">Tại ngày 31/12/2025</td></tr><tr><td>Vay và nợ</td><td>214.000.000.000</td><td>-</td><td>-</td><td>214.000.000.000</td></tr><tr><td>Phải trả người bán,phải trả khác</td><td>746.326.658.297</td><td>56.666.666.667</td><td>-</td><td>802.993.324.964</td></tr><tr><td>Chi phí phải trả</td><td>126.293.747.422</td><td>-</td><td>-</td><td>126.293.747.422</td></tr><tr><td></td><td>1.086.620.405.719</td><td>56.666.666.667</td><td>-</td><td>1.143.287.072.386</td></tr><tr><td colspan="5">Tại ngày 01/01/2025</td></tr><tr><td>Vay và nợ</td><td>214.000.000.000</td><td>-</td><td>-</td><td>214.000.000.000</td></tr><tr><td>Phải trả người bán,phải trả khác</td><td>732.363.173.854</td><td>56.666.666.667</td><td>-</td><td>789.029.840.521</td></tr><tr><td>Chi phí phải trả</td><td>128.356.687.893</td><td>-</td><td>-</td><td>128.356.687.893</td></tr><tr><td></td><td>1.074.719.861.747</td><td>56.666.666.667</td><td>-</td><td>1.131.386.528.414</td></tr></table>
+
+Tổng Công ty cho rằng mức độ tập trung rủi ro đối với việc trả nợ là có thể kiểm soát được. Tổng Công ty có khả năng thanh toán các khoản nợ đến hạn từ dòng tiền từ hoạt động kinh doanh và tiền thu từ các tài sản tài chính đáo hạn.
+
+39
+
+===== PAGE 41 =====
+Tổng Công ty Sản xuất - Xuất nhập khẩu Bình Dương - CTCP
+
+A128 đường 3/2, Khu phố Đông Tư, phường Lái Thiêu,
+
+Thành phố Hồ Chí Minh
+
+Báo cáo tài chính riêng
+
+cho năm tài chính kết thúc ngày 31/12/2025
+
+33. THÔNG TIN BỔ SUNG CHO CÁC KHOẢN MỤC TRÌNH BÀY TRONG BÁO CÁO LUÙ CHUYỀN TIỀN TỆ RIÊNG
+
+<table><tr><td rowspan="2" colspan="2"></td><td>Năm 2025</td><td>Năm 2024</td></tr><tr><td>VND</td><td>VND</td></tr><tr><td rowspan="2">a)</td><td>Số tiền đi vay thực thu trong năm</td><td></td><td></td></tr><tr><td>Tiền thu từ đi vay theo khế ước thông thường</td><td>-</td><td>38.500.000.000</td></tr><tr><td rowspan="2">b)</td><td>Số tiền đã thực trả gốc vay trong năm</td><td></td><td></td></tr><tr><td>Tiền trả nợ gốc vay theo khế ước thông thường</td><td>-</td><td>260.000.000.000</td></tr></table>
+
+34. THÔNG TIN KHÁC
+
+a) Thông tin liên quan đến việc chuyển nhượng khu đất dịch vụ 43ha
+
+Trong năm 2016, Tổng Công ty Sản xuất - Xuất nhập khẩu Bình Dương TNHH MTV, nay là Tổng Công ty Sản xuất - Xuất nhập khẩu Bình Dương - CTCP, đã chuyển nhượng khu đất với tổng diện tích 43 ha tại Khu liên hợp Công nghiệp - Dịch vụ - Đồ Thị Bình Dương, phường Hòa Phú, thành phố Thủ Dầu Một, tỉnh Bình Dương (nay là phường Bình Dương, thành phố Hồ Chí Minh) cho Công ty TNHH Đầu tư - Xây dựng Tân Phú ("Công ty Tân Phú"), là công ty được thành lập theo Hụp đồng thóa thuận thành lập liên doanh ngày 01/07/2010 giữa Công ty Sản xuất - Xuất nhập khẩu Bình Dương (vốn góp 30%) và Công ty Cổ phần Bắt động sản Âu Lạc ("Công ty Âu Lạc") (vốn góp 70%) để thực hiện đầu tư dự án Khu dân cư - Thương mại - Dịch vụ tại khu đất nếu trên.
+
+Đơn giá chuyển nhượng theo Hợp đồng chuyển nhượng quyền sử dụng đất ngày 08/12/2016 là 581.653 VND/m², tổng giá trị chuyển nhượng là 250.110.964.496 VND. Đơn giá chuyển nhượng quyền sử dụng đất được Tổng Công ty căn cứ vào thỏa thuận tại Hợp đồng liên doanh với Công ty Cổ phần Bất động sản Âu Lạc, lợi nhuận từ giao dịch nếu trên với giá trị 153,629 tỷ VND đã được Tổng Công ty ghi nhận vào kết quả kinh doanh của giai đoạn doanh nghiệp Nhà nước trước khi cổ phần hóa.
+
+Vào năm 2017, Tổng Công ty đã chuyển nhượng 30% phần vốn của Tổng Công ty trong Công ty Tân Phú cho Công ty Âu Lạc, các nghiệp vụ kinh tế phát sinh có liên quan đã được ghi nhận vào giai đoạn trước khi cổ phần hóa.
+
+Căn cứ vào biên bản làm việc của Thanh tra tỉnh Bình Dương trong năm 2019, Hội đồng Quản trị Tổng Công ty Sản xuất - Xuất nhập khẩu Bình Dương - CTCP đã quyết nghị thông qua việc thống nhất xử lý các vấn đề liên quan đến chuyên nhượng khu đất dịch vụ 43 ha và chuyển nhượng phần vốn góp 30% tại Công ty Tân Phú của Tổng Công ty Sản xuất - Xuất nhập khẩu Bình Dương - TNHH MTV theo Nghị quyết số 15/NQ-HĐQT ngày 15/11/2019. Theo đó:
+
++ Về chuyển nhượng khu đất 43 ha
+
+Trước tiên, Tổng Công ty xác định lại giá chuyển nhượng khu đất theo bảng giá đất do Ủy ban Nhân dân tỉnh Bình Dương ban hành tại thời điểm Tổng Công ty ký kết hợp đồng chuyển nhượng khu đất cho Công ty Tân Phú. Sau khi UBND tỉnh Bình Dương phê duyệt lựa chọn đơn vị thẩm định giá độc lập để định giá lại giá trị khu đất dịch vụ 43 ha theo giá thị trường tại thời điểm ký hợp đồng chuyển nhượng, Tổng Công ty cam kết sẽ tiếp tục xử lý nếu giá của đơn vị thẩm định giá độc lập cao hơn giá ban hành của UBND tỉnh tại thời điểm Tổng Công ty chuyển nhượng cho Công ty Tân Phú.
+
+- Giá trị khu đất 43 ha chuyển nhượng cho Công ty Tân Phú theo hợp đồng chuyển nhượng quyền sử dụng đất ngày 08/12/2016 là 250.110.964.496 VND;
+
+- Giá trị khu đất 43 ha xác định lại theo giá do Ủy ban Nhân dân tỉnh Bình Dương ban hành tại thời điểm chuyển nhượng theo Quyết định số 06/2016/QĐ-UBND ngày 29/02/2016 là 375.805.853.921 VND, tương ứng đơn giá 873.967 VND/m²;
+
+- Giá trị chênh lệch là 125.694.889.425 VND được Tổng Công ty thực hiện như sau: Tổng Công ty sẽ thỏa thuận với Công ty Tân Phú để thu hồi phần chênh lệch tương ứng tỷ lệ 70% phần giá trị tăng thêm cho hợp đồng chuyển nhượng như sau:
+
+<table><tr><td>Nội dung</td><td>Số tiền (VND)</td></tr><tr><td>- Số tiền Tổng Công ty góp tương ứng 30% vốn điều lệ</td><td>37.708.466.828</td></tr><tr><td>- Số tiền Công ty Âu Lạc góp tương ứng 70% vốn điều lệ</td><td>87.986.422.597</td></tr><tr><td>Cộng</td><td>125.694.889.425</td></tr></table>
+
+40
+
+===== PAGE 42 =====
+Tổng Công ty Sản xuất - Xuất nhập khẩu Bình Dương - CTCP
+
+A128 đường 3/2, Khu phố Đông Tư, phường Lái Thiêu,
+
+Thành phố Hồ Chí Minh
+
+Báo cáo tài chính riêng
+
+cho năm tài chính kết thúc ngày 31/12/2025
+
+Tổng Công ty đã tạm nộp toàn bộ số tiền chênh lệch nêu trên vào tài khoản của Văn phòng Tỉnh ủy Bình Dương trong năm 2019. Trong đó phần tương ứng 30% của Tổng Công ty đã được Tỉnh ủy xác nhận giảm trừ công nợ phải trả khác, phần còn lại tương ứng với 70% Tổng Công ty theo dõi phải thu Công ty Tân Phú tại thuyết minh số 08 với số dư đến thời điểm 01/01/2025 và 31/12/2025 là 87,986 tỷ VND.
+
+Trong năm 2023, số tiền 125,694 tỷ VND Tổng Công ty đã tạm nộp nêu trên được Cục thi hành án dân sự thành phố Hà Nội xác nhận được khấu trừ để thực hiện nghĩa vụ của Tổng Công ty về việc nộp bổ sung tiền sử dụng đất theo Bản án hình sự phúc thẩm số 912/2022/HS-PT ngày 28/12/2022 của Tòa án Nhân dân cấp cao tại Hà Nội. Do đó Tổng Công ty đã điều chỉnh tăng lợi nhuận phải nộp về Ngân sách Nhà nước với số tiền là 37,7 tỷ VND (chi tiết tại thuyết minh số 20) và chuений sang theo dõi tổng thể tại khoản mục "Phải thu khác" - Phải thu các khoản tạm nộp chờ quyết toán cổ phần hóa, riêng số dư phải thu công ty Tân Phú với số tiền là 87,986 tỷ VND vẫn tiếp tục theo dõi tại khoản mục "Phải thu khác" để thu hồi (chi tiết tại thuyết minh số 08).
+
+Hiện tại, số liệu tại thời điểm chính thức chuyển sang công ty cổ phần của Tổng Công ty chưa được cơ quan có thẩm quyền phê duyệt quyết toán. Do đó các nội dung nếu trên có thể thay đổi sau khi được phê duyệt quyết toán cổ phần hóa.
+
+b) Thông tin góp vốn và tiền lãi bổ sung của Công ty Cổ phần Đầu tư & Phát triển Tân Thành
+
+Năm 2007, Tổng Công ty Sản xuất - Xuất nhập khẩu Bình Dương TNHH MTV ("Protrade") thực hiện góp vốn liên doanh với các bên nước ngoài là IC Corporation và K Source Solutions Co., Ltd để thành lập Công ty Cổ phần Đầu tư & Phát triển Tân Thành ("Tân Thành"), mục đích đầu tư và kinh doanh một khu phức hợp có tên là "Câu lạc bộ sân gôn và Khu nghi dưỡng Đảo Hồ Điệp", bao gồm một sân golf 18 lỗ, câu lạc bộ giải trí, khu căn hộ cao tầng, khu nhà ở cao cấp và khu thương mại. Theo Giấy chứng nhận đầu tư số 461032000225 ngày 02/11/2007, tổng vốn đầu tư của 3 cổ đông sáng lập là 30 triệu USD, cơ cấu vốn góp như sau:
+
+<table><tr><td>Cổ đông</td><td>USD</td><td>VND</td><td colspan="2">Phương thức góp vốn</td></tr><tr><td>Tổng Công ty Sản xuất - Xuất nhập khẩu Bình Dương - TNHH MTV</td><td>9.000.000</td><td>144.000.000.000</td><td>Quyền sử dụng đất</td><td>(1)</td></tr><tr><td>IC Corporation</td><td>6.300.000</td><td>100.800.000.000</td><td>Tiền mặt</td><td>(2)</td></tr><tr><td>K Source Solutions</td><td>14.700.000</td><td>235.200.000.000</td><td>Tiền mặt</td><td>(2)</td></tr><tr><td>Cộng</td><td>30.000.000</td><td>480.000.000.000</td><td></td><td></td></tr></table>
+
+(1) Tổng Công ty Sản xuất - Xuất nhập khẩu Bình Dương TNHH MTV tính đến trước thời điểm cấp giấy chứng nhận thay đổi lần 1 vào ngày 20/04/2011 chưa thực hiện nghĩa vụ góp vốn vào Tân Thành bằng các quyền sử dụng đất với tổng diện tích là 1.450.101,8 m\( ^{2} \).
+
+(2) Hai cổ đông nước ngoài này đã góp trong năm 2007 là 5.200.000 USD trong đó IC Corporation góp 4.200.000 USD và K Source góp 1.000.000 USD và đến năm 2011 chưa thực hiện đầy đủ nghĩa vụ góp vốn theo hợp đồng liên doanh.
+
+Trong năm 2011, 02 cổ đông sáng lập bên liên doanh nước ngoài là IC Corportion và K Source Solutions Co., Ltd đã chuyển nhượng lại phần vốn đã góp cho Công ty Cổ phần Hưng Vượng và Công ty TNHH Phát Triển theo hợp đồng chuyển nhượng vốn và góp thay vốn ngày 24 tháng 2 năm 2011. Cụ thể, Công ty Cổ phần Hưng Vượng nhận chuyển nhượng 4.200.000 USD từ IC Corporation, tương đương với 14% vốn điều lệ của Tân Thành và cam kết góp bổ sung 7.200.000 USD tương đương 24% vốn điều lệ của Tân Thành. Công ty TNHH Phát Triển nhận chuyển nhượng 1.000.000 USD từ K Source Co., Ltd, tương đương với 3,33% vốn điều lệ của Tân Thành và cam kết góp bổ sung 8.600.000 USD tương đương 28,67% vốn điều lệ của Tân Thành.
+
+Phương thức thanh toán chuyển nhượng: Theo biên bản thỏa thuận ngày 10/06/2011, các bên thống nhất ủy quyền cho Công ty Cổ phần Đầu tư & Phát triển Tân Thành làm trung gian chuyển trả cho hai đối tác nước ngoài nêu trên hộ Công ty Cổ phần Hưng Vương và Công ty TNHH Phát Triển. Công ty Cổ phần Hưng Vương và Công ty TNHH Phát Triển sẽ có trách nhiệm hoàn trả đầy đủ lại cho Công ty Cổ phần Đầu tư & Phát triển Tân Thành.
+
+Sau khi hoàn thành việc chuyển nhượng, Ủy ban Nhân dân tỉnh Bình Dương đã cấp Giấy chứng nhận đầu tư số 46122000080 ngày 20 tháng 4 năm 2011, chuyển đổi từ doanh nghiệp có vốn đầu tư nước ngoài thành doanh nghiệp 100% vốn trong nước. Trong đó, số vốn góp theo cam kết theo giấy chứng nhận đầu tư của Protrade là 144 tỷ VND bằng quyền sử dụng đất, Công ty Cổ phần Hưng Vương là 182,4 tỷ VND bằng tiền mặt tương đương 11,4 triệu USD và Công ty TNHH Phát Triển là 153,6 tỷ VND bằng tiền mặt tương đương 9,6 triệu USD.
+
+41
+
+\( \left\| \frac{VH}{P} \right\| ^{2} = \frac{JGK}{M} \)
+
+XUAXUN
+
+===== PAGE 43 =====
+Tổng Công ty Sản xuất - Xuất nhập khẩu Bình Dương - CTCP
+
+A128 đường 3/2, Khu phố Đông Tứ, phường Lái Thiêu,
+
+Thành phố Hồ Chí Minh
+
+Báo cáo tài chính riêng
+
+cho năm tài chính kết thúc ngày 31/12/2025
+
+Theo Giấy chứng nhận đầu tư số 46122000080 ngày 20 tháng 4 năm 2011 thì phần vốn góp của Protrade là 144 tỷ VND bằng quyền sử dụng đất. Trong năm 2011, Protrade đã chuyển 144 tỷ VND cho Tân Thành nhằm hỗ trợ vốn trong giai đoạn đầu mới thành lập tuy nhiên ghi nhận vào vốn góp. Trong năm 2017, theo Nghị quyết Đại hội đồng cổ đông bất thường ngày 06/06/2017 của Công ty Cổ phần Đầu tư & Phát Triển Tân Thành quyết nghị thông qua việc xác nhận góp vốn bằng giá trị quyền sử dụng đất của Protrade, nghĩa vụ góp vốn bằng quyền sử dụng đất được thực hiện xuyên suốt từ khi thành lập, theo đó phần tiền Protrade đã chuyển ghi nhận vào vốn góp trước đây được Tân Thành chuyển thành khoản phải trả cho Protrade.
+
+Ngày 09/06/2017, Protrade và Tân Thành đã ký Hợp đồng góp vốn bằng giá trị quyền sử dụng đất, theo đó khu đất góp vốn là các quyền sử dụng đất tại phường Hòa Phú, thành phố Thủ Dầu Một, tỉnh Bình Dương với tổng diện tích 1.450.101,8 m² được các bên thống nhất xác định là 139,209 tỷ VND. Số vốn còn thiếu so với cam kết là 4,79 tỷ VND được Protrade góp bổ sung dưới hình thức cần trừ công nợ. Tân Thành có nghĩa vụ thanh toán lại số vốn góp 144 tỷ VND trước đây Protrade đã góp bằng tiền và đã thanh toán trong năm 2018. Trong năm 2019, căn cứ theo thỏa thuận số 2019/TTLV ngày 01/11/2019, Protrade và Tân Thành thống nhất việc xác định lãi vay bổ sung số tiền 115,884 tỷ VND cho khoản tiền 144 tỷ VND, là số tiền được các bên xác định là khoản ứng vốn cho Công ty Cổ phần Đầu tư & Phát triển Tân Thành để đối ứng vốn hoạt động, tính từ thời điểm chuyển tiền ngày 24/05/2011 đến thời điểm hoàn thành thanh toán ngày 20/09/2018. Khoản lãi vay bổ sung nếu trên được xác định là khoản lợi nhuận tăng thêm của giai đoạn trước khi cổ phần hóa và nộp bổ sung vào Ngân sách Nhà nước. Công ty Cổ phần Đầu tư & Phát triển Tân Thành có nghĩa vụ thanh toán đầy đủ khoản tiền lãi nếu trên cho Tổng Công ty chậm nhất đến thời điểm 31/12/2022. Đến thời điểm lập Báo cáo tài chính riêng này, Tổng Công ty chưa thu hồi được khoản nợ nói trên.
+
+Hiện tại, số liệu tại thời điểm chính thức chuyển sang công ty cổ phần của Tổng Công ty chưa được chủ sở hữu phê duyệt quyết toán. Do vậy, khoản lãi vay bổ sung nêu trên có thể thay đổi sau khi được phê duyệt quyết toán cổ phần hóa. Theo Bản án sở thẩm số 327/2022/HSST ngày 30/08/2022 của Tòa án Nhân dân Thành phố Hà Nội và Bản án phúc thẩm số 912/2022/HS-PT ngày 28/12/2022 của Tòa án Nhân dân cấp cao tại Hà Nội, Tòa án đề nghị Ủy ban Nhân dân tỉnh Bình Dương thu hồi khu đất 145 ha thuộc phường Hòa Phú, thành phố Thủ Dầu Một, tỉnh Bình Dương (nay là phường Bình Dương, thành phố Hồ Chí Minh) để giao cho Tỉnh ủy Bình Dương quản lý, sử dụng theo đúng quy định pháp luật. Đồng thời, Tòa án cũng ghi nhận đề xuất của Tỉnh ủy Bình Dương về việc mua lại cổ phần của Công ty Tân Thành từ các cổ đông hiện hữu teoro giá trị số sách để chuyển thành Công ty 100% vốn thuộc sở hữu của Tỉnh ủy Bình Dương. Hiện tại Tỉnh Ủy, Ủy ban Nhân dân tỉnh Bình Dương (nay là Thành ủy, Ủy ban Nhân dân Thành phố Hồ Chí Minh) đang làm việc với các bên có liên quan để giải quyết nội dung nếu trên trên cơ sở bảo đảm quyền, lợi ích hợp pháp cho các bên liên quan trong quá trình xử lý khu đất 145ha.
+
+c) Thông tin tạm nộp bổ sung tiền sử dụng đất và tiền chậm nộp tương ứng
+
+Căn cứ theo Báo cáo kiểm toán về việc quản lý và sử dụng đất đô thị trên địa bàn tỉnh Bình Dương giai đoạn 2013 - 2016 ngày 15/08/2017 của Kiểm toán Nhà Nước khu vực IV; Căn cứ theo Bản án sơ thẩm số 327/2022/HSST ngày 30/08/2022 của Tòa án Nhân dân Thành phố Hà Nội và Bản án phúc thẩm số 912/2022/HS-PT ngày 28/12/2022 của Tòa án Nhân dân cấp cao tại Hà Nội; Căn cứ Quyết định số 681/QĐ-CTHADS về việc thi hành án chủ động đối với Tổng Công ty. Các nghĩa vụ Tổng Công ty phải nộp và tình hình thực hiện như sau:
+
+42
+
+HY
+MTC
+SO
+HÖ
+
+.00148
+NG CÔNG
+ÀN XUÀ
+Γ NHẬP
+NH DUC
+CÔNG T
+CỔ PHẠ
+AN-T.B
+
+===== PAGE 44 =====
+Tổng Công ty Sản xuất - Xuất nhập khẩu Bình Dương - CTCP
+
+A128 đường 3/2, Khu phố Đông Tư, phường Lái Thiêu,
+
+Thành phố Hồ Chí Minh
+
+Báo cáo tài chính riêng
+
+cho năm tài chính kết thúc ngày 31/12/2025
+
+<table><tr><td>Nội dung</td><td>Số tiền (VND)</td><td>Ghi chú</td></tr><tr><td>1. Tổng số tiền Tổng Công ty phải nộp+ Tiền sử dụng đất bổ sung khu đất 43 ha và 145 ha</td><td>1.060.224.751.454761.078.561.949</td><td>Theo Bản án sơ thẩm số 327/2022/HSST ngày 30/08/2022 của Tòa án Nhân dân Thành phố Hà Nội.</td></tr><tr><td>+ Tiền phạt chậm nộp- Phật chậm nộp tiền sử dụng đất</td><td>299.146.189.505286.690.160.693</td><td>Theo Thông báo số 16592/TB-CTBDU ngày 01/11/2021 của Cục thuế Bình Dương.</td></tr><tr><td>- Phật chậm nộp thi hành án</td><td>12.456.028.812</td><td>Thông báo số 2278/CTHADS ngày 10/04/2023 của Cục thi hành án dân sự thành phố Hà Nội.</td></tr><tr><td>2. Tổng số tiền Tổng Công ty đã thực hiện+ Số nộp bằng tiền+ Số đã tạm nộp được khấu trừ</td><td>1.060.224.751.454806.173.565.425125.694.889.425</td><td>Thông tin chi tiết được trình bày tại thuyết minh số 34a.</td></tr><tr><td>+ Số tiền các cá nhân có liên quan nộp khác phục hậu quả được khấu trừ vào nghĩa vụ của Tổng Công ty</td><td>128.356.296.604</td><td></td></tr></table>
+
+3. Số tiền còn phải nộp tại 31/12/2025
+
+Đối với các lô đất khác, theo Bàn án sơ thẩm số 327/2022/HSST ngày 30/08/2022 của Tòa án Nhân dân Thành phố Hà Nội, Tòa án đề nghị Cục thuế Bình Dương (nay là Chi Cục thuế khu vực XVI) xác định và truy thu bổ sung tiền sử dụng đất đối với các khu đất khác đã cấp cho Tổng Công ty (không bao gồm khu đất 43 ha và 145 ha nêu trên) theo kết luận của Kiểm toán Nhà nước theo quy định của pháp luật. Tổng Công ty sẽ ghi nhận bổ sung sau khi có thông báo chính thức của cơ quan Thuế.
+
+Theo Nghị quyết phiên hợp Đại hội đồng cổ đông thường niên năm 2023 số 72/NQ-ĐHĐCĐ ngày 30/06/2023, tổng số tiền 1.060,22 tỷ VND Tổng Công ty phải nộp nêu trên liên quan đến giai đoạn trước cổ phần hóa. Hiện tại Ủy ban Nhân dân tỉnh Bình Dương (nay là Ủy ban Nhân dân thành phố Hồ Chí Minh) vẫn chưa có quyết định phê duyệt quyết toán cổ phần hóa, do đó để đảm bảo nguyên tắc thận trọng, Đại hội đồng Cổ đông Tổng Công ty quyết nghị thông qua việc ghi nhận khoản phải thu số tiền Tổng Công ty tạm nộp nêu trên đề chờ xử lý khi có kết quả quyết toán cổ phần hóa chính thức. Đồng thời, Đại hội đồng cổ đông thường niên quyết nghị định kỳ tại thời điểm lập Báo cáo tài chính, Tổng Công ty sẽ trích lập dự phòng khoản phải thu này trên nguyên tắc phân bổ cho khoảng 15 năm, bắt đầu từ năm 2023 để tránh biến động kết quả kinh doanh của Công ty cổ phần trong trường hợp khoản phải thu này không được cơ quan có thẩm quyền quyết toán dưa vào phần vốn Nhà nước tại thời điểm cổ phần hóa. Trường hợp theo kết quả quyết toán cổ phần hóa mà tổng số tiền Tổng Công ty đã tạm nộp được cơ quan có thẩm quyền chấp thuận ghi nhận vào phần vốn Nhà nước tại thời điểm cổ phần hóa, Tổng Công ty sẽ xử lý hoàn nhập lại số dự phòng đã trích tương ứng.
+
+Tại thời điểm 31/12/2025, tổng số tiền Tổng Công ty đã tạm nộp ghi nhận phải thu khác là 972.238.328.857 VND (thuyết minh số 08). Số dự phòng đã trích lập lũy kế đến thời điểm 31/12/2025 là 212.044.950.291 VND, trong đó số dự phòng ghi nhận vào Báo cáo kết quả kinh doanh riêng năm nay là 70.681.650.097 VND (thuyết minh số 27).
+
+196.89
+
+43
+
+===== PAGE 45 =====
+Tổng Công ty Sản xuất - Xuất nhập khẩu Bình Dương - CTCP
+A128 đường 3/2, Khu phố Đông Tư, phường Lái Thiêu,
+Thành phố Hồ Chí Minh
+
+Báo cáo tài chính riêng
+
+cho năm tài chính kết thúc ngày 31/12/2025
+
+35. THÔNG TIN CHUYỀN GIAO ĐẤT CHO CÔNG TY TNHH PHÁT TRIỂN, CÔNG TY CỔ PHẦN AN BÌNH VÀ CÔNG TY CỔ PHẦN BẮT ĐỘNG SẢN U&I TRƯỚC GIAI ĐOẠN CỔ PHẦN HÓA
+
+a) Thông tin hủy hợp đồng chuyển giao đất cho Công ty TNHH Phát Triển
+
+Trong năm 2016, căn cứ chủ trương của Tỉnh Ủy Bình Dương về việc chấp thuận chuyển giao, thu hồi và cho thuê đất theo công văn số 349/CV/TU ngày 30/06/2016. Tổng Công ty Sản xuất - Xuất nhập khẩu Bình Dương TNHH MTV đã ký hợp đồng bởi thường kinh phí đầu tư về đất và chuyển giao đất ngày 18/04/2016 và phụ lục số 01 ngày 25/05/2016 với Công ty TNHH Phát Triển ("Phát Triển"), theo đó Tổng Công ty chuyển giao cho Phát Triển khu đất có diện tích 83.852,1 m² tại phường Phú Lợi, thành phố Thủ Dầu Một, tỉnh Bình Dương (nay là phường Phú Lợi, thành phố Hồ Chí Minh) với tổng giá trị bởi thường là 97.727.400.000 VND.
+
+Ngày 24/10/2016, Ủy ban Nhân dân tỉnh Bình Dương (nay là Ủy ban Nhân dân thành phố Hồ Chí Minh) đã có Quyết định số 2833/QĐ-UBND ngày 24/10/2016 về việc thu hồi đất do Tổng Công ty quản lý và cho Công ty TNHH Phát Triển thuê đất thu tiên một lần cho cả thời gian thuê. Công ty TNHH Phát Triển đã thanh toán cho Tổng Công ty với số tiền 30 tỷ VND, số phải thu còn lại 67,727 tỷ VND sẽ được thanh toán sau khi Công ty TNHH Phát Triển được cấp giấy chứng nhận quyền sử dụng đất. Lợi nhuận từ giao dịch nêu trên đã được Tổng Công ty ghi nhận vào kết quả kinh doanh của giai đoạn trước khi cổ phần hóa.
+
+Mặc dù đã được Ủy ban Nhân dân tỉnh cấp quyết định cho thuê đất, tuy nhiên đến thời điểm tháng 10 năm 2019 thủ tục cấp giấy chứng nhận quyền sử dụng đất cho Công ty Phát Triển vẫn chưa hoàn thành. Do đó, ngày 28/10/2019, Công ty TNHH Phát Triển có văn bản số 14/2019/CV-PT đề nghị Tổng Công ty hủy bỏ toàn bộ hợp đồng bởi thường kinh phí đầu tư về đất và chuyển giao đất ngày 18/04/2016 vì lý do chậm trẻ trong thủ tục xin cấp giấy chứng nhận quyền sử dụng đất như cam kết. Hội đồng Quản trị Tổng Công ty đã ban hành nghị quyết số 13B/NQ-HĐQT ngày 04/11/2019 phê duyệt chủ trương hủy hợp đồng với Công ty TNHH Phát Triển.
+
+Ngày 04/11/2019, Tổng Công ty và Công ty TNHH Phát Triển đã ký Biên bản hủy hợp đồng bồi thường kinh phí đầu tư về đất và chuyển giao đất. Ngày 14/11/2019, Ủy ban Nhân dân tỉnh Bình Dương đã ban hành Quyết định số 3381/QĐ-UBND về việc thu hồi lại các quyết định đã cấp liên quan đến việc cho Công ty TNHH Phát Triển thuê đất dưới hình thức Nhà nước cho thuê đất thu tiền một lần cho cả thời gian thuê tại phường Phú Lợi, thành phố Thủ Dầu Một.
+
+Ngày 10/12/2019, Tổng Công ty đã hoàn trả toàn bộ số tiền 30 tỷ VND mà Công ty TNHH Phát Triển đã thanh toán để thực hiện hợp đồng và phụ lực. Toàn bộ các nghiệp vụ phát sinh và khoản lợi nhuận 70,919 tỷ VND đã ghi nhận trong giai đoạn doanh nghiệp Nhà nước được Tổng Công ty điều chỉnh hồi tố giảm khoản lợi nhuận phải nộp về ngân sách Nhà nước. Hiện nay vụ việc đang chờ hướng dẫn thực hiện của cấp có thẩm quyền và sẽ được xem xét xử lý theo quyết định của các cấp có thẩm quyền.
+
+Đối với các khoản thuế được điều chỉnh hồi tố theo các nội dung nếu trên, bao gồm thuế giá trị gia tăng và thuế thu nhập doanh nghiệp với số tiền lần lượt là 8,83 tỷ VND và 17,73 tỷ VND. Tổng Công ty đã có công văn đề nghị Cục thuế tỉnh Bình Dương (nay là Chi Cục thuế khu vực XVI) hướng dẫn thực hiện điều chỉnh. Tuy nhiên, đến thời điểm lập báo cáo này, Cục thuế tỉnh Bình Dương chưa có văn bản trả lời chính thức.
+
+b) Thông tin hợp đồng chuyển giao đất cho Công ty Cổ phần An Bình
+
+Trong năm 2016, Tổng Công ty Sản xuất - Xuất nhập khẩu Bình Dương TNHH MTV đã ký hợp đồng bởi thường kinh phí đầu tư về đất và chuyển giao đất ngày 15/08/2016 với Công ty Cổ phần An Bình ("An Bình"). Ngày 25/08/2016, Tỉnh ủy Bình Dương đã ban hành Công văn số 457-CV/TU về đồng ý chủ trương cho Tổng Công ty được chuyển giao 15 ha đất tại phường Phú Lợi, thành phố Thủ Dầu Một, tỉnh Bình Dương cho An Bình để làm dịch vụ kho bãi phục vụ sản xuất kinh doanh.
+
+Ngày 22/12/2016, Ủy ban Nhân dân tỉnh Bình Dương (nay là Ủy ban Nhân dân thành phố Hồ Chí Minh) đã ban hành Quyết định số 3536/QĐ-UBND về việc thu hồi đất do Tổng Công ty Sản xuất - Xuất nhập khẩu Bình Dương TNHH MTV quản lý để giao cho Công ty Cổ phần An Bình thuê đất thu tiền một lần cho cả thời gian thuê tại phường Phú Lợi, thành phố Thủ Dầu Một. Tổng Công ty đã ghi nhận các nghiệp vụ kinh tế phát sinh có liên quan đến giao dịch này trong giai đoạn trước khi cổ phần hóa. Đến thời điểm hiện tại, Tổng Công ty vẫn đang theo dõi một khoản phải thu Công ty Cổ phần An Bình với số tiền 60 tỷ VND, thời hạn thu hồi của khoản phải thu này phụ thuộc vào tiến độ thực hiện thủ tục chuyển giao đất của cơ quan có thẩm quyền, xem chỉ tiết tại Thuyết minh số 05.
+
+44
+
+===== PAGE 46 =====
+Tổng Công ty Sản xuất - Xuất nhập khẩu Bình Dương - CTCP
+A128 đường 3/2, Khu phố Đông Tư, phường Lái Thiêu,
+Thành phố Hồ Chí Minh
+
+Báo cáo tài chính riêng
+
+cho năm tài chính kết thúc ngày 31/12/2025
+
+Tuy nhiên vào ngày 14/11/2019, Ủy ban Nhân dân tỉnh Bình Dương đã ban hành Quyết định số 3379/QĐ-UBND về việc thu hồi lại Quyết định số 3536/QĐ-UBND ngày 22/12/2016 của Ủy ban Nhân dân tỉnh nêu trên. Hiện nay vụ việc đang chờ hướng dẫn thực hiện của cấp có thẩm quyền và sẽ được xem xét xử lý theo quyết định của các cấp có thẩm quyền.
+
+c) Thông tin hợp đồng chuyển giao đất cho Công ty Cổ phần Bất động sản U&I
+
+Trong năm 2016, Tỉnh ủy Bình Dương ban hành Thông báo số 45-TB/TU ngày 04/03/2016 về việc thống nhất chủ trương cho phép Tổng Công ty Sản xuất - Xuất nhập khẩu Bình Dương TNHH MTV chuyển giao diện tích đất trong dự án Khu quy hoạch Gò Chai. Đây là dự án được Ủy ban Nhân dân tỉnh Bình Dương giao cho Tổng Công ty làm chủ đầu tư theo văn bản số 5653/UBND-SX ngày 24/12/2007.
+
+Tổng Công ty Sản xuất - Xuất nhập khẩu Bình Dương TNHH MTV (Bên A) đã ký hợp đồng chuyển giao đất số 01/2016HĐCG/PROTRADE-U&I ngày 14/10/2016 với Công ty Cổ phần Bất động sản U&I (Bên B). Theo đó Bên A sẽ chuyển giao cho Bên B toàn bộ phần diện tích đất Bên A đã đến bù cho các hộ dân thuộc dự án Khu quy hoạch Gò Chai tại phường Bình Hòa, thành phố Thuận An, tỉnh Bình Dương với diện tích là 236.403,18 m² và Bên B hoàn trả lại cho Bên A chi phí đã bồi thường. Đối với diện tích Bên A sẽ chuyển giao cho Bên B nếu trên, Bên B sẽ thực hiện nghĩa vụ tài chính đối với Nhà nước theo mục đích sử dụng đất của dự án. Về việc chuyển giao đất, Tổng Công ty sẽ bàn giao thực địa cho Bên B khi nhận đủ số tiền chuyển nhượng. Tuy nhiên, sau đó hai bên đã ký phụ lực hợp đồng số 02/2018/PLHĐCGĐ trong tháng 04 năm 2018 về việc sẽ tiến hành bản giao đất ngoài thực địa theo hồ sơ đã bồi thường và bản đồ địa chính của cơ quan có chức năng xác lập và cung cấp hồ sơ pháp lý đầy đủ cho Bên B, riêng điều khoản thanh toán sẽ được các bên thỏa thuận sau.
+
+Tổng Công ty đã ghi nhận các giao dịch từ việc chuyển giao khu đất vào giai đoạn trước cổ phần hóa bao gồm doanh thu 236,4 tỷ VND, giá vốn 39,245 tỷ VND và lợi nhuận là 197,157 tỷ VND. Số tiền đã thu được là 53,47 tỷ VND và ghi nhận khoản phải thu Công ty Cổ phần Bất động sản U&I tính đến thời điểm 01/01/2022 là 204,512 tỷ VND.
+
+Do các thủ tục để bàn giao khu đất không thực hiện được, Hội đồng Quản trị Tổng Công ty đã ban hành Nghị quyết số 27/NQ-HĐQT ngày 05/05/2020 về việc thông qua chủ trương sẽ thực hiện hủy hợp đồng chuyên giao đất với Công ty Cổ phần Bất động sản U&I và hoàn trả lại tiền mà Công ty U&I đã thanh toán. Ngày 11/11/2021, Tỉnh ủy Bình Dương đã ban hành Thông báo số 265-TB/TU về việc thống nhất thu hồi chủ trương cho Tổng Công ty được chuyển giao diện tích 236.403,18 m² đất đã được đến bù trong dự án Khu quy hoạch Gò Chai và cho Tổng Công ty được hủy hợp đồng chuyển giao đất với Công ty Cổ phần Bất động sản U&I. Sau khi thu hồi, giao cho Công ty TNHH MTV Đầu tư và Quản lý Dự án Bình Dương tiếp nhận và thực hiện các trình tự thủ tục đầu tư dự án trên khu đất. Ngày 20/06/2022, Tổng Công ty và Công ty Cổ phần Bất động sản U&I đã có biên bản thống nhất ý kiến xử lý các vấn đề liên quan đến việc hủy hợp đồng chuyển giao số 01/2016-HĐCG/PROTRADE-U&I ngày 14/10/2016.
+
+Ngày 22/06/2022, Công ty Cổ phần Bất động sản U&I đã bàn giao hồ sơ bồi thường giải phóng mặt bằng của dự án Khu dân cư đô thị Gò Chai cho Tổng Công ty theo Biên bản số 03/BB-TCTY. Ngày 01/07/2022, Hội đồng Quản trị Tổng Công ty đã ban hành Nghị quyết số 59/NQ-HĐQT về việc thống nhất cho Tổng Công ty tiến hành thủ tục xử lý các vấn đề liên quan đến việc hủy hợp đồng chuyển giao đất và sử dụng nguồn tài chính của công ty cổ phần để hoàn trả số tiền 53.473.519.613 VND cho Công ty Cổ phần Bất động sản U&I và sẽ quyết toán số tiền trên với Tỉnh ủy Bình Dương khi quyết toán bản giao công ty cổ phần trên cơ sở đảm bảo quyền lợi của cổ đông Tổng Công ty và thực hiện đúng theo quy định pháp luật.
+
+Ngày 21/07/2022, Tổng Công ty và Công ty Cổ phần Bất động sản U&I đã ký hợp đồng hủy bỏ hợp đồng chuyển giao đất. Theo đó, các bên thống nhất hủy bỏ hợp đồng chuyển giao đất số 01/2016-HĐCG/PROTRADE-U&I ngày 14/10/2016. Khí hợp đồng bị hủy bỏ thì hợp đồng này không có hiệu lực từ thời điểm giao kết, các bên không phải thực hiện nghĩa vụ đã thỏa thuận. Công ty Cổ phần Bất động sản U&I đã hoàn trả toàn bộ hồ sơ, tài liệu liên quan đến toàn bộ phần diện tích 236.403,18 m² đã tiếp nhận từ Tổng Công ty thuộc dự án Khu dân cư đô thị Gò Chai. Tổng Công ty có trách nhiệm hoàn trả số tiền 53.473.519.613 VND mà Công ty Cổ phần Bất động sản U&I đã thanh toán trong vòng 30 ngày kể từ ngày hai bên ký Hợp đồng hủy bỏ Hợp đồng chuyển giao đất.
+
+45
+
+11.2.3.4 2023年1月1日
+
+* M.S.D.
+
+===== PAGE 47 =====
+Tổng Công ty Sản xuất - Xuất nhập khẩu Bình Dương - CTCP
+
+A128 đường 3/2, Khu phố Đông Tư, phường Lái Thiêu,
+
+Thành phố Hồ Chí Minh
+
+Báo cáo tài chính riêng
+
+cho năm tài chính kết thúc ngày 31/12/2025
+
+Ngày 01/08/2022, Tổng Công ty đã hoàn trả toàn bộ số tiền 53.473.519.613 VND theo hợp đồng hủy bỏ hợp đồng chuyển giao đất số 01/2016-HĐCG/PROTRADE-U&I ngày 14/10/2016. Toàn bộ các nghiệp vụ phát sinh đã ghi nhận trong giai đoạn doanh nghiệp Nhà nước được Tổng Công ty xử lý như sau:
+
+- Ghi nhận giảm khoản phải thu Công ty Cổ phần Bất động sản U&I với số tiền là 204.512.681.143 VND;
+
+- Ghi nhận giá trị lũy kế chi phí đầu tư khu đất trên chỉ tiêu Chi phí xây dựng cơ bản dở dang là 40.038.834.627 VND, chi tiết tại thuyết minh số 11;
+
+- Khoản lợi nhuận 197,16 tỷ VND từ việc chuyển giao đất đã ghi nhận trong giai đoạn doanh nghiệp Nhà nước được ghi nhận giảm khoản lợi nhuận phải nộp về Ngân sách Nhà nước và có thể sẽ thay đổi sau khi được phê duyệt quyết toán cổ phần hóa;
+
+- Ghi nhận khoản phải thu hoàn thuế giá trị gia tăng và thuế thu nhập doanh nghiệp đã nộp là 61.014.602.231 VND, trong đó bao gồm thuế giá trị gia tăng với số tiền 21.583.020.756 VND và thuế thu nhập doanh nghiệp với số tiền 39.431.581.475 VND, chi tiết tại thuyết minh số 08. Tổng Công ty đã có công văn đề nghị Cục thuế tỉnh Bình Dương hướng dẫn thực hiện điều chỉnh. Tuy nhiên đến thời điểm phát hành báo cáo này, Cục thuế tỉnh Bình Dương (nay là Chi Cục thuế khu vực XVI) chưa có văn bản trà lời chính thức.
+
+Hiện tại việc hủy hợp đồng nếu trên đã được cấp có thẩm quyền phê duyệt thực hiện, các nghĩa vụ liên quan sẽ được xử lý khi quyết toán cổ phần hóa.
+
+36. THÔNG TIN QUYẾT TOÁN SỐ LIỆU TẠI THỜI ĐIỂM CHÍNH THỨC CHUYỄN SANG CÔNG TY CỔ PHẦN
+
+Căn cứ vào Biên bản thẩm tra ngày 26/07/2019 của Văn phòng Tĩnh ủy và Chi cục Tài chính Doanh nghiệp tỉnh Bình Dương, cơ quan chủ quản là Tĩnh ủy Bình Dương đã ban hành Thông báo số 216-TB/VPTU ngày 20/01/2020 về việc phê duyệt quyết toán tài chính, quyết toán số tiền thu từ cổ phần hóa, giá trị thực tế phần vốn Nhà nước tại thời điểm chính thức chuyển thành công ty cổ phần của Tổng Công ty Sản xuất - Xuất nhập khẩu Bình Dương - TNHH MTV. Trong đó một số nội dung chưa thống nhất sẽ được Tổng Công ty tiếp tục trình cấp có thẩm quyền xem xét quyết định, nếu có thay đổi sẽ được xem xét điều chỉnh vào giá trị khoản phải nộp ngân sách Nhà nước.
+
+Theo phương án cổ phần hóa của Tổng Công ty được Ủy ban Nhân dân tỉnh Bình Dương phê duyệt theo Quyết định số 3706/QĐ-UBND ngày 28/12/2017, Ủy ban Nhân dân tỉnh Bình Dương sẽ là đơn vị có thẩm quyền phê duyệt số liệu quyết toán tại thời điểm chuyển sang công ty cổ phần của Tổng Công ty. Tỉnh ủy Bình Dương đã có Công văn số 2433-CV/VPTU ngày 31/07/2020 đề nghị Ủy ban Nhân dân tỉnh Bình Dương phê duyệt số liệu quyết toán tại thời điểm chính thức chuyển sang công ty cổ phần của Tổng Công ty. Đến thời điểm phát hành báo cáo này, Ủy ban Nhân dân tỉnh Bình Dương (nay là Ủy ban Nhân dân Thành phố Hồ Chí Minh) đang lấy ý kiến tham mưu của các sở ngành liên quan và vẫn chưa có quyết định phê duyệt quyết toán cổ phần hóa. Do vậy, một số chi tiêu trên Báo cáo tài chính riêng cho nằm tài chính kết thúc ngày 31/12/2025 của Tổng Công ty có thể sẽ thay đổi sau khi có quyết định phê duyệt quyết toán cổ phần hóa tại ngày 31/10/2018.
+
+37. NHỮNG SỰ KIỆN PHÁT SINH SAU NGÀY KẾT THỨC NĂM TÀI CHÍNH
+
+Không có sự kiện trọng yếu nào xảy ra sau ngày kết thúc năm tài chính đồi hỏi phải được điều chỉnh hay công bố trên Báo cáo tài chính riêng này.
+
+46
+
+115
+
+3700 TONG SANK JATNH BINH CON CÓF NAN
+
+===== PAGE 48 =====
+Tổng Công ty Sản xuất - Xuất nhập khẩu Bình Dương - CTCP
+
+A128 đường 3/2, Khu phố Đông Tư, phường Lái Thiêu,
+
+Thành phố Hồ Chí Minh
+
+Báo cáo tài chính riêng
+
+cho năm tài chính kết thúc ngày 31/12/2025
+
+38 . GIAO DỊCH VỚI CÁC BÊN LIÊN QUAN
+
+Danh sách và mối quan hệ giữa các bên liên quan và Tổng Công ty như sau:
+
+Bên liên quan
+
+<table><tr><td>Công ty TNHH MTV Đầu tư và Quản lý Dự án Bình Dương</td><td>Đại diện vốn của cổ đông Nhà nước - Công ty mẹ</td></tr><tr><td>Công ty Cổ phần SAM Holdings</td><td>Cổ đông lớn</td></tr><tr><td>Công ty Cổ phần Đầu tư U&amp;I</td><td>Cổ đông lớn</td></tr><tr><td>Bà Trần Thị Thu Hà</td><td>Cổ đông lớn</td></tr><tr><td>KP Apparel Manufacturing Co., Ltd</td><td>Công ty con</td></tr><tr><td>Công ty TNHH MTV Giấy Vĩnh Phú</td><td>Công ty con</td></tr><tr><td>Công ty CP Thương mại Tổng hợp Thuận An</td><td>Công ty con</td></tr><tr><td>Công ty TNHH MTV Quốc tế Protrade</td><td>Công ty con</td></tr><tr><td>Công ty TNHH Sân Golf Palm Sông Bé</td><td>Công ty con</td></tr><tr><td>Công ty CP Cao su Dầu Tiếng Việt Lào</td><td>Công ty con</td></tr><tr><td>Công ty CP Phát triển Phú Mỹ</td><td>Công ty liên kết</td></tr><tr><td>Công ty TNHH FrieslandCampina Việt Nam</td><td>Công ty liên kết</td></tr><tr><td>Công ty CP Bệnh viện Đa khoa Quốc tế Hạnh Phúc</td><td>Công ty liên kết</td></tr><tr><td>Công ty CP Hưng Vượng</td><td>Công ty liên kết</td></tr><tr><td>Công ty TNHH YCH-PROTRADE</td><td>Công ty liên kết</td></tr><tr><td>Công ty CP Đầu tư và Phát triển Tân Thành</td><td>Công ty liên kết</td></tr><tr><td>Công ty CP May mặc Bình Dương</td><td>Công ty liên kết</td></tr><tr><td>Tỉnh ủy Bình Dương</td><td>Chủ sở hữu Công ty mẹ</td></tr><tr><td>Công ty Cổ phần Tập đoàn Kỹ nghệ Gỗ Trường Thành</td><td>Công ty có cùng người quản lý chủ chốt</td></tr><tr><td>Công ty Cổ phần Cao su Phước Hòa</td><td>Công ty có cùng người quản lý chủ chốt</td></tr><tr><td>Công ty Cổ phần Dịch vụ Du lịch Phú Thọ</td><td>Công ty có cùng người quản lý chủ chốt</td></tr><tr><td>Công ty Cổ phần Công viên nước Đầm Sen</td><td>Công ty có cùng người quản lý chủ chốt</td></tr><tr><td>Công ty Cổ phần Địa ốc Sacom</td><td>Công ty có cùng người quản lý chủ chốt</td></tr><tr><td>Công ty Cổ phần Tổng Công ty Nước - Môi trường tỉnh Bình Dương</td><td>Công ty có cùng người quản lý chủ chốt</td></tr><tr><td>Công ty Cổ phần Đầu tư Xây dựng Chánh Phú Hòa</td><td>Công ty có cùng người quản lý chủ chốt</td></tr><tr><td>Công ty Cổ phần Cấp nước Gia Tân</td><td>Công ty có cùng người quản lý chủ chốt</td></tr><tr><td>Công ty Cổ phần Cấp nước Đồng Nai</td><td>Công ty có cùng người quản lý chủ chốt</td></tr><tr><td>Công ty Cổ phần Cấp thoát nước Cần Thơ</td><td>Công ty có cùng người quản lý chủ chốt</td></tr><tr><td>Tổng Công ty Đầu tư và Phát triển Công nghiệp - CTCP</td><td>Công ty có cùng người quản lý chủ chốt</td></tr><tr><td>Công ty Cổ phần Luật TNHH B.C.M</td><td>Công ty có cùng người quản lý chủ chốt</td></tr><tr><td>Công ty Cổ phần Dây và Cáp SACOM</td><td>Công ty có cùng người quản lý chủ chốt</td></tr><tr><td>Công ty Cổ phần SACOM - Tuyền Lâm</td><td>Công ty có cùng người quản lý chủ chốt</td></tr><tr><td>Công ty Cổ phần Liên doanh Cảng Quốc tế Mỹ Thủy</td><td>Công ty có cùng người quản lý chủ chốt</td></tr><tr><td>Công ty Cổ phần Tập đoàn LEC</td><td>Công ty có cùng người quản lý chủ chốt</td></tr><tr><td>Các thành viên Hội đồng quản trị, Ban Tổng Giám đốc, Ban Kiểm soát</td><td>Người nội bộ</td></tr></table>
+
+47
+
+C. T.
+HAN
+TOÁI
+C
+HÀ
+
+148
+CÔNG
+XUẤT
+I{{{P}}} K
+{UON}
+G TY
+H{{{N}}}
+
+===== PAGE 49 =====
+Tổng Công ty Sản xuất - Xuất nhập khẩu Bình Dương - CTCP
+
+A128 đường 3/2, Khu phố Đông Tư, phường Lái Thiêu,
+
+Thành phố Hồ Chí Minh
+
+Báo cáo tài chính riêng
+
+cho năm tài chính kết thúc ngày 31/12/2025
+
+Ngoài các thông tin với các bên liên quan đã trình bày tại các thuyết minh trên, Tổng Công ty còn có các giao dịch phát sinh trong năm với các bên liên quan như sau:
+
+<table><tr><td rowspan="2"></td><td>Năm 2025</td><td>Năm 2024</td></tr><tr><td>VND</td><td>VND</td></tr><tr><td>Mua hàng hóa, dịch vụ</td><td>6.230.849.590</td><td>6.491.073.509</td></tr><tr><td>- Công ty CP Thương mại Tổng hợp Thuận An</td><td>578.009.937</td><td>471.817.118</td></tr><tr><td>- Công ty TNHH Sân Golf Palm Sông Bé</td><td>3.689.383.887</td><td>2.393.138.499</td></tr><tr><td>- Công ty CP Phát triển Phú Mỹ</td><td>81.149.376</td><td>405.011.275</td></tr><tr><td>- Công ty CP Đầu tư &amp; Phát triển Tân Thành</td><td>-</td><td>347.885.340</td></tr><tr><td>- Công ty TNHH MTV Đầu tư và Quản lý Dự án Bình Dương</td><td>1.882.306.390</td><td>2.873.221.277</td></tr><tr><td>Nhận cổ tức, lợi nhuận được chia</td><td>210.551.840.660</td><td>159.569.445.391</td></tr><tr><td>- Công ty TNHH MTV Quốc tế Protrade</td><td>108.097.487.660</td><td>116.490.900.391</td></tr><tr><td>- Công ty CP May mặc Bình Dương</td><td>29.578.545.000</td><td>29.578.545.000</td></tr><tr><td>- Công ty TNHH FrieslandCampina VN</td><td>-</td><td>13.500.000.000</td></tr><tr><td>- Công ty CP Cao su Dầu Tiếng Việt Lào</td><td>21.210.000.000</td><td>-</td></tr><tr><td>- Công ty Cổ phần Thương mại Tổng hợp Thuận An</td><td>665.808.000</td><td>-</td></tr><tr><td>- Công ty TNHH YCH-PROTRADE</td><td>51.000.000.000</td><td>-</td></tr><tr><td>Thanh lý tài sản</td><td>-</td><td>485.000.000</td></tr><tr><td>- Công ty TNHH Sân Golf Palm Sông Bé</td><td>-</td><td>485.000.000</td></tr><tr><td>Chi phí đi vay</td><td>12.502.328.768</td><td>15.878.232.876</td></tr><tr><td>- Công ty TNHH Sân Golf Palm Sông Bé</td><td>4.762.328.767</td><td>6.295.999.998</td></tr><tr><td>- Công ty TNHH MTV Quốc tế Protrade</td><td>7.740.000.001</td><td>6.622.986.303</td></tr><tr><td>- Công ty TNHH MTV Giấy Vĩnh Phú</td><td>-</td><td>2.959.246.575</td></tr></table>
+
+Thế chấp tài sản
+
+Công ty Cổ phần Đầu tư & Phát triển Tân Thành, công ty liên kết của Tổng Công ty đã sử dụng tài sản của mình là các Quyền sử dụng đất theo các Giấy chứng nhận Quyền sử dụng đất, quyền sở hữu nhà ở và tài sản khác gắn liền với đất số BO 594927, BO 594926 do Sở Tài nguyên và Môi trường tỉnh Bình Dương cấp ngày 29/08/2013 với tổng diện tích 624.059,8 m² để bảo lãnh cho khoản vay của Tổng Công ty tại Ngân hàng TMCP Đầu tư và Phát triển Việt Nam - Chi nhánh Bình Dương ("BIDV") theo Hợp đồng thế chấp số 01/2017/4486227/HDBĐ ngày 06/11/2017 và Hợp đồng sửa đổi bổ sung số 02.01/2019/4486227/HDBĐ ngày 28/05/2019. Theo Bản án số 327/2022/HSST ngày 30/08/2022 của Tòa án Nhân dân Thành phố Hà Nội, Tòa án đề nghị Ủy ban Nhân dân tỉnh Bình Dương thu hồi khu đất 145 ha thuộc phường Hòa Phú, thành phố Thủ Dầu Một, tỉnh Bình Dương (nay là phường Bình Dương, thành phố Hồ Chí Minh) để giao cho Tinh ủy Bình Dương quản lý, sử dụng theo đúng quy định pháp luật. BIDV có trách nhiệm phải bản giao các giấy chứng nhận quyền sử dụng đất của khu đất 145ha, bao gồm hai giấy chứng nhận nêu trên, cho Ủy ban Nhân dân tỉnh Bình Dương. Đến thời điểm lập báo cáo này, việc bản giao chưa được thực hiện do Ủy ban Nhân dân tỉnh Bình Dương (nay là Ủy ban Nhân dân Thành phố Hồ Chí Minh) chưa có quyết định thu hồi.
+
+66-C
+TY
+HẦU
+3
+DUONG
+
+48
+
+===== PAGE 50 =====
+Tổng Công ty Sản xuất - Xuất nhập khẩu Bình Dương - CTCP
+
+A128 đường 3/2, Khu phố Đông Tư, phường Lái Thiêu,
+
+Thành phố Hồ Chí Minh
+
+Báo cáo tài chính riêng
+
+cho năm tài chính kết thúc ngày 31/12/2025
+
+Giao dịch với các bên liên quan khác như sau:
+
+<table><tr><td></td><td>Chức vụ</td><td>Năm 2025</td><td>Năm 2024</td></tr><tr><td>Thu nhập, thù lao</td><td></td><td>VND</td><td>VND</td></tr><tr><td>Ông Nguyễn An Định</td><td>Chủ tịch HĐQT</td><td>1.591.445.012</td><td>1.220.111.111</td></tr><tr><td>Ông Trần Hồng Khôi</td><td>Thành viên HĐQT</td><td>182.823.529</td><td>140.111.111</td></tr><tr><td>Ông Trần Việt Anh</td><td>Thành viên HĐQT</td><td>182.823.529</td><td>140.111.111</td></tr><tr><td>Ông Nguyễn Văn Thiền</td><td>Thành viên HĐQT</td><td>182.823.529</td><td>140.111.111</td></tr><tr><td>Ông Mai Hữu Tín</td><td>Thành viên HĐQT</td><td>182.823.529</td><td>140.111.111</td></tr><tr><td>Ông Nguyễn Văn Hiền Phúc</td><td>Thành viên HĐQT</td><td>121.882.353</td><td>-</td></tr><tr><td>Ông Lê Trọng Nghĩa</td><td>Thành viên HĐQT Tổng Giám đốc</td><td>1.283.693.094</td><td>980.111.111</td></tr><tr><td>Ông Huỳnh Hữu Hùng</td><td>Phó Tổng Giám đốc (Từ ngày 01/06/2025)</td><td>997.960.870</td><td>-</td></tr><tr><td>Ông Nguyễn Ngọc Trường Long</td><td>Trường Ban kiểm soát</td><td>182.823.529</td><td>140.111.111</td></tr><tr><td>Ông Lê Văn Minh</td><td>Thành viên Ban kiểm soát</td><td>127.976.471</td><td>140.111.111</td></tr><tr><td>Ông Cao Hoàng Đề</td><td>Thành viên Ban kiểm soát</td><td>127.976.471</td><td>140.111.111</td></tr><tr><td>Bà Trần Thị Tuyết Nga</td><td>Thành viên Ban kiểm soát</td><td>85.317.648</td><td>-</td></tr><tr><td>Bà Nguyễn Thị Kim Phượng</td><td>Kế toán trưởng</td><td>915.943.478</td><td>672.000.000</td></tr></table>
+
+Ngoài các bên liên quan có phát sinh giao dịch và số dư nêu trên, các bên liên quan khác không phát sinh giao dịch trong năm và không có số dư tại ngày kết thúc năm tài chính với Tổng Công ty.
+
+39 . SỐ LIỆU SO SÁNH
+
+Số liệu so sánh là số liệu của Báo cáo tài chính riêng cho năm tài chính kết thúc ngày 31 tháng 12 năm 2024 đã được Công ty TNHH Hăng Kiểm toán AASC kiểm toán.
+
+Người lập
+
+Nguyễn Hồng Quyên
+
+Kế toán trưởng
+
+Nguyễn Thị Kim Phượng
+
+Tp. Hồ Chí Minh, ngày 30 tháng 03 năm 2026
+
+Tổng Giám Đốc
+
+49

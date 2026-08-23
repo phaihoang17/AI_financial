@@ -1,0 +1,598 @@
+===== PAGE 1 =====
+Công ty Cổ phần Tập đoàn Thủy sản Minh Phú
+Thuyết minh báo cáo tài chính riêng cho năm kết thúc ngày 31 tháng 12 năm 2019 (tiếp theo)
+
+Mẫu B 09 – DN
+(Ban hành theo Thông tư số 200/2014/TT-BTC ngày 22/12/2014 của Bộ Tài chính)
+
+(c) Đầu tư góp vốn vào đơn vị khác
+
+<table><tr><td>Ngày 31 tháng 12 năm 2019</td><td>Địa chỉ</td><td>% sở hữu</td><td>% lợi ích kinh tế (i)</td><td>Giá gốc VND</td><td>Dự phòng giảm giá VND</td><td>Giá trị hợp lý VND</td></tr><tr><td colspan="7">Đầu tư góp vốn vào:</td></tr><tr><td colspan="7">Các công ty con</td></tr><tr><td>▪ Mseafood Corporation</td><td>Tiểu bang California, Hoa Kỳ</td><td>90,0%</td><td>90,0%</td><td>323.162.400.000</td><td></td><td>- (****)</td></tr><tr><td>▪ Công ty Cổ phần Thủy sản Minh Phú Hậu Giang</td><td>Tỉnh Hậu Giang, Việt Nam</td><td>98,27%</td><td>98,27%</td><td>1.587.861.174.231</td><td></td><td>- (****)</td></tr><tr><td>▪ Công ty TNHH Chế biến Thủy sản Minh Quí (*)</td><td>Tỉnh Cà Mau, Việt Nam</td><td>97,50%</td><td>97,50%</td><td>195.000.000.000</td><td></td><td>- (****)</td></tr><tr><td>▪ Công ty TNHH Chế biến Thủy sản Minh Phát</td><td>Tỉnh Cà Mau, Việt Nam</td><td>95,0%</td><td>95,0%</td><td>95.000.000.000</td><td></td><td>- (****)</td></tr><tr><td>▪ Công ty TNHH Thủy Hải sản Minh Phú – Kiên Giang (*)</td><td>Tỉnh Kiên Giang, Việt Nam</td><td>99,67%</td><td>99,67%</td><td>407.597.760.876</td><td>(148.650.000.000)</td><td>(****)</td></tr><tr><td>▪ Công ty TNHH Sản xuất Giống Thủy sản Minh Phú (*)</td><td>Tỉnh Ninh Thuận, Việt Nam</td><td>99,5%</td><td>99,5%</td><td>53.383.420.074</td><td>(16.869.553.925)</td><td>(****)</td></tr><tr><td>▪ Công ty TNHH Nười trồng Thủy sản Minh Phú – Lộc An (*)</td><td>Tỉnh Bà Rịa – Vũng Tàu, Việt Nam</td><td>100,0%</td><td>100,0%</td><td>473.880.690.554</td><td>(150.000.000.000)</td><td>(****)</td></tr><tr><td>▪ Công ty TNHH Sản xuất Chế phẩm Sinh học Minh Phú (trước đây là “Công ty TNHH MTV Sản xuất Chế phẩm Sinh học Minh Phú”) (*)</td><td>Tỉnh Cà Mau, Việt Nam</td><td>100,0%</td><td>100,0%</td><td>4.500.000.000</td><td>(715.852.027)</td><td>(****)</td></tr><tr><td>▪ Công ty TNHH MTV Chuỗi Cung ứng Thủy sản Minh Phú</td><td>Tỉnh Hậu Giang, Việt Nam</td><td>100,0%</td><td>100,0%</td><td>2.000.000.000</td><td></td><td>- (****)</td></tr><tr><td>▪ Công ty Cổ phần Căng Minh Phú Hậu Giang</td><td>Tỉnh Hậu Giang, Việt Nam</td><td>50,0%</td><td>99,1%</td><td>100.000.000.000</td><td></td><td>- (****)</td></tr><tr><td>▪ Công ty TNHH Kho vận Ebisumo</td><td>Thành phố Tokyo, Nhật Bản</td><td>100,0%</td><td>100,0%</td><td>935.000.000</td><td></td><td>- (****)</td></tr><tr><td>▪ Công ty TNHH Thực phẩm Minh Phú (*)</td><td>Tỉnh Hậu Giang, Việt Nam</td><td>100,0%</td><td>100,0%</td><td>20.000.000</td><td></td><td>- (****)</td></tr><tr><td>▪ Công ty Cổ phần Xã hội Chuỗi Tôm Rừng Minh Phú (**)</td><td>Tỉnh Cà Mau, Việt Nam</td><td>25,25%</td><td>45,45%</td><td>2.500.000.000</td><td></td><td>- (****)</td></tr><tr><td>▪ Công ty Cổ phần Nông nghiệp Công nghệ cao Minh Phú (***)</td><td>Tỉnh Kiên Giang, Việt Nam</td><td>60,0%</td><td>60,0%</td><td>3.575.000.000</td><td></td><td>- (****)</td></tr><tr><td></td><td></td><td></td><td></td><td>3.249.415.445.735</td><td>(316.235.405.952)</td><td></td></tr><tr><td colspan="7">Công ty liên kết</td></tr><tr><td>▪ Công ty TNHH Dịch vụ Kỹ thuật Nuôi Trồng Thủy Sản Minh Phú Aquamekong</td><td>Thành phố Hồ Chí Minh, Việt Nam</td><td>49,00%</td><td>49,00%</td><td>3.900.000.000</td><td></td><td>- (****)</td></tr><tr><td colspan="7">Đơn vị khác</td></tr><tr><td>▪ Công ty Cổ phần Hạ tầng Sài Gòn – Cà Mau</td><td>Tỉnh Cà Mau, Việt Nam</td><td>10,00%</td><td>10,00%</td><td>7.000.000.000</td><td>(111.246.470)</td><td></td></tr><tr><td></td><td></td><td></td><td></td><td>3.260.315.445.735</td><td>(316.346.652.422)</td><td></td></tr></table>
+
+24
+
+卫义之
+
+===== PAGE 2 =====
+25
+
+<table><tr><td>Ngày 1 tháng 1 năm 2019</td><td>Địa chỉ</td><td>% sở hữu</td><td>% lợi ích kinh tế (i)</td><td>Giá gốc VND</td><td>Dự phòng giảm giá VND</td><td>Giá trị hợp lý VND</td></tr><tr><td colspan="7">Đầu tư góp vốn vào:</td></tr><tr><td colspan="7">Các công ty con</td></tr><tr><td>▪ Mseafood Corporation</td><td>Tiểu bang California, Hoa Kỳ</td><td>90,0%</td><td>90,0%</td><td>323.162.400.000</td><td></td><td>-(****)</td></tr><tr><td>▪ Công ty Cổ phần Thủy sản Minh Phú Hậu Giang</td><td>Tỉnh Hậu Giang, Việt Nam</td><td>67,5%</td><td>67,5%</td><td>585.000.000.000</td><td></td><td>-(****)</td></tr><tr><td>▪ Công ty TNHH Chế biến Thủy sản Minh Quí</td><td>Tỉnh Cà Mau, Việt Nam</td><td>97,5%</td><td>97,5%</td><td>195.000.000.000</td><td></td><td>-(****)</td></tr><tr><td>▪ Công ty TNHH Chế biến Thủy sản Minh Phát</td><td>Tỉnh Cà Mau, Việt Nam</td><td>95,0%</td><td>95,0%</td><td>95.000.000.000</td><td></td><td>-(****)</td></tr><tr><td>▪ Công ty TNHH Thủy Hải sản Minh Phú – Kiên Giang (*)</td><td>Tỉnh Kiên Giang, Việt Nam</td><td>99,1%</td><td>99,1%</td><td>182.520.000.000</td><td>(148.650.000.000)</td><td>-(****)</td></tr><tr><td>▪ Công ty TNHH Sản xuất Giống Thủy sản Minh Phú</td><td>Tỉnh Ninh Thuận, Việt Nam</td><td>98,5%</td><td>98,5%</td><td>29.550.000.000</td><td>(16.869.553.925)</td><td>-(****)</td></tr><tr><td>▪ Công ty TNHH Nuôi trồng Thủy sản Minh Phú – Lộc An (*)</td><td>Tỉnh Bà Rịa – Vũng Tàu, Việt Nam</td><td>100,0%</td><td>100,0%</td><td>160.565.684.683</td><td>(150.000.000.000)</td><td>-(****)</td></tr><tr><td>▪ Công ty TNHH Sản xuất Chế phẩm Sinh học Minh Phú</td><td>Tỉnh Cà Mau, Việt Nam</td><td>100,0%</td><td>100,0%</td><td>4.500.000.000</td><td>(715.852.027)</td><td>-(****)</td></tr><tr><td>▪ Công ty TNHH MTV Chuỗi Cung ứng Thủy sản Minh Phú</td><td>Tỉnh Hậu Giang, Việt Nam</td><td>100,0%</td><td>100,0%</td><td>2.000.000.000</td><td></td><td>-(****)</td></tr><tr><td>▪ Công ty Cổ phần Cảng Minh Phú Hậu Giang</td><td>Tỉnh Hậu Giang, Việt Nam</td><td>50,0%</td><td>83,7%</td><td>100.000.000.000</td><td></td><td>-(****)</td></tr><tr><td>▪ Công ty TNHH Kho vận Ebisumo</td><td>Thành phố Tokyo, Nhật Bản</td><td>100,0%</td><td>100,0%</td><td>935.000.000</td><td></td><td>-(****)</td></tr><tr><td>▪ Công ty TNHH Thực phẩm Minh Phú (*)</td><td>Tỉnh Hậu Giang, Việt Nam</td><td>100,0%</td><td>100,0%</td><td>20.000.000</td><td></td><td>-(****)</td></tr><tr><td>▪ Công ty Cổ phần Xã hội Chuỗi Tôm Rùng Minh Phú (**)</td><td>Tỉnh Cà Mau, Việt Nam</td><td>25,25%</td><td>45,45%</td><td>2.030.000.000</td><td></td><td>-(****)</td></tr><tr><td>▪ Công ty Cổ phần Nông nghiệp Công nghệ cao Minh Phú (***)</td><td>Tỉnh Kiên Giang, Việt Nam</td><td>60,0%</td><td>60,0%</td><td>100.000.000</td><td></td><td>-(****)</td></tr><tr><td></td><td></td><td></td><td></td><td>1.680.383.084.683</td><td>(316.235.405.952)</td><td></td></tr><tr><td colspan="7">Công ty liên kết</td></tr><tr><td>▪ Công ty TNHH Dịch vụ Kỹ thuật Nuôi Trồng Thủy Sản Minh Phú Aquamekong</td><td>Thành phố Hồ Chí Minh, Việt Nam</td><td>49,00%</td><td>49,00%</td><td>3.900.000.000</td><td></td><td>-(****)</td></tr><tr><td colspan="7">Đơn vị khác</td></tr><tr><td>▪ Công ty Cổ phần Hạ tầng Sài Gòn – Cà Mau</td><td>Tỉnh Cà Mau, Việt Nam</td><td>10,00%</td><td>10,00%</td><td>7.000.000.000</td><td>(111.246.470)</td><td></td></tr><tr><td></td><td></td><td></td><td></td><td>1.691.283.084.683</td><td>(316.346.652.422)</td><td></td></tr></table>
+
+Công ty Cổ phần Tập đoàn Thủy sản Minh Phú
+Thuyết minh báo cáo tài chính riêng cho năm kết thúc ngày 31 tháng 12 năm 2019 (tiếp theo)
+
+110 277 161
+
+===== PAGE 3 =====
+Công ty Cổ phần Tập đoàn Thủy sản Minh Phú
+Thuyết minh báo cáo tài chính riêng cho năm kết thúc ngày 31 tháng 12 năm 2019 (tiếp theo)
+
+Mẫu B 09 - DN
+
+(Ban hành theo Thông tư số 200/2014/TT-BTC
+
+ngày 22/12/2014 của Bộ Tài chính)
+
+(i) Tỷ lệ lợi ích kinh tế thể hiện tỷ lệ lợi ích kinh tế thực của Công ty trong các công ty con bao gồm sở hữu trực tiếp và gián tiếp.
+
+(*) Tại ngày báo cáo, Công ty chưa góp đủ vốn vào các công ty con này.
+
+(**) Công ty nấm giữ trực tiếp 25,25% lợi ích Công ty Cổ phần Xã hội Chuỗi Tôm Rừng Minh Phú và nấm giữ gián tiếp 20,20% lợi ích của đơn vị này qua các công ty con. Các cổ đông còn lại là ông Lê Văn Quang và bà Lê Thị Dịu Minh lần lượt sở hữu 39,40% và 15,15% vốn góp của đơn vị này.
+
+Công ty phân loại khoản đầu tư vào Công ty Cổ phần Xã hội Chuỗi Tôm Rừng Minh Phú là khoản đầu tư vào công ty con do ông Lê Văn Quang và bà Lê Thị Dịu Minh đã uỷ quyền cho Công ty thay mặt các cổ đông này có quyền biểu quyết tại đơn vị.
+
+Tại ngày lập báo cáo, Công ty và những cổ đông khác chưa góp đủ vốn điều lệ cho công ty con này.
+
+(***) Công ty nằm giữ 60% lợi ích Công ty Cổ phần Nông nghiệp Công nghệ cao Minh Phú. Các cổ đông còn lại là Công ty Cổ phần Đầu tư Long Phụng và bà Lê Thị Minh Phú lần lượt sở hữu 30% và 10% vốn góp của đơn vị này.
+
+Tại ngày lập báo cáo, Công ty và những cổ đông khác chưa góp đủ vốn điều lệ cho công ty con này.
+
+(****) Công ty chưa xác định giá trị hợp lý của các khoản đầu tư này để thuyết minh trong Báo cáo tài chính riêng bởi vì không có giá niêm yết trên thị trường cho các khoản đầu tư này và Chuẩn mực Kế toán Việt Nam, Chế độ Kế toán doanh nghiệp Việt Nam hiện không có hướng dẫn về cách tính giá trị hợp lý sử dụng các kỹ thuật định giá. Giá trị hợp lý của các khoản đầu tư này có thể khác với giá trị ghi sổ.
+
+Biến động của giá gốc khoản đầu tư góp vốn vào các công ty con trong năm như sau:
+
+<table><tr><td></td><td>2019VND</td><td>2018VND</td></tr><tr><td>Số dư đầu năm</td><td>1.680.383.084.683</td><td>1.640.197.400.000</td></tr><tr><td>Tăng trong năm</td><td>697.196.816.821</td><td>40.185.684.683</td></tr><tr><td>Mua lại cổ phần công ty con từ cổ đông không kiểm soát</td><td>871.835.544.231</td><td>-</td></tr><tr><td>Số dư cuối năm</td><td>3.249.415.445.735</td><td>1.680.383.084.683</td></tr></table>
+
+Không có biến động về giá gốc của các khoản đầu tư vào công ty liên kết và đơn vị khác trong năm.
+
+Không có biến động dự phòng giảm giá đầu tư dài hạn trong năm.
+
+26
+
+121 二五 121
+
+===== PAGE 4 =====
+Công ty Cổ phần Tập đoàn Thủy sản Minh Phú
+Thuyết minh báo cáo tài chính riêng cho năm kết thúc ngày 31 tháng 12 năm 2019 (tiếp theo)
+
+Mẫu B 09 - DN
+
+(Ban hành theo Thông tư số 200/2014/TT-BTC
+
+ngày 22/12/2014 của Bộ Tài chính)
+
+7. Phải thu của khách hàng
+
+(a) Phải thu của khách hàng chi tiết theo khách hàng lớn
+
+<table><tr><td></td><td>31/12/2019VND</td><td>1/1/2019VND</td></tr><tr><td>Công ty TNHH Chế biến Thủy sản Minh Quí</td><td>257.658.372.016</td><td>330.420.469.400</td></tr><tr><td>Công ty Cổ phần Thủy sản Minh Phú Hậu Giang</td><td>156.766.616.825</td><td>-</td></tr><tr><td>Mseafood Corporation</td><td>28.420.371.523</td><td>636.149.963.066</td></tr><tr><td>Công ty TNHH Chế biến Thủy sản Minh Phát</td><td>-</td><td>728.898.753.430</td></tr><tr><td>Các khách hàng khác</td><td>389.733.519.026</td><td>671.600.831.799</td></tr><tr><td></td><td>832.578.879.390</td><td>2.367.070.017.695</td></tr></table>
+
+(b) Phải thu của khách hàng là bên liên quan
+
+<table><tr><td></td><td>31/12/2019VND</td><td>1/1/2019VND</td></tr><tr><td colspan="3">Các công ty con</td></tr><tr><td>Công ty TNHH Chế biến Thủy sản Minh Phát</td><td>-</td><td>728.898.753.430</td></tr><tr><td>Công ty TNHH Chế biến Thủy sản Minh Quí</td><td>257.658.372.016</td><td>330.420.469.400</td></tr><tr><td>Công ty Cổ phần Thủy sản Minh Phú Hậu Giang</td><td>156.766.616.825</td><td>-</td></tr><tr><td>Công ty TNHH Kho vận Ebisumo</td><td>90.034.960.286</td><td>214.225.839.564</td></tr><tr><td>Công ty TNHH Thủy Hải sản Minh Phú - Kiên Giang</td><td>-</td><td>58.595.622.188</td></tr><tr><td>Mseafood Corporation</td><td>28.420.371.523</td><td>636.149.963.066</td></tr><tr><td>Công ty TNHH Nuôi trồng Thủy sản Minh Phú – Lộc An</td><td>-</td><td>22.968.315.317</td></tr><tr><td>Công ty TNHH Thực phẩm Minh Phú</td><td>40.995.218.101</td><td>15.984.324.622</td></tr><tr><td colspan="3">Bên liên quan khác</td></tr><tr><td>Công ty Cổ phần Hạ tầng Sài Gòn – Cà Mau</td><td>-</td><td>2.058.898.500</td></tr></table>
+
+Khoản phải thu thương mại từ các bên liên quan không được đảm bảo, không được hưởng lãi và đến hạn trong vòng 15 – 90 ngày kể từ ngày ghi trên hóa đơn.
+
+Khoản phải thu của khách hàng tại ngày 31 tháng 12 năm 2019 bao gồm 832.579 triệu VND (1/1/2019: 2.367.070 triệu VND) được thể chấp tại ngân hàng để đảm bảo cho các khoản vay ngắn hạn của Công ty (Thuyết minh 18(a)).
+
+27
+
+[Illegible]
+
+===== PAGE 5 =====
+Công ty Cổ phần Tập đoàn Thủy sản Minh Phú
+Thuyết minh báo cáo tài chính riêng cho năm kết thúc ngày 31 tháng 12 năm 2019 (tiếp theo)
+
+Mẫu B 09 - DN
+
+(Ban hành theo Thông tư số 200/2014/TT-BTC
+
+ngày 22/12/2014 của Bộ Tài chính)
+
+8. Phải thu khác
+
+(a) Phải thu ngắn hạn khác
+
+<table><tr><td></td><td>31/12/2019VND</td><td>1/1/2019VND</td></tr><tr><td>Phải thu lãi tiền gửi</td><td>27.166.252.646</td><td>11.293.213.100</td></tr><tr><td>Cổ tức</td><td>19.451.250.000</td><td>-</td></tr><tr><td>Ký quỹ ngắn hạn (*)</td><td>5.625.000.000</td><td>-</td></tr><tr><td>Tạm ứng cho nông dân (Thuyết minh 8(b))</td><td>3.500.000.000</td><td>-</td></tr><tr><td>Các khoản tạm ứng khác</td><td>2.926.255.963</td><td>4.219.888.240</td></tr><tr><td>Phải thu ngắn hạn khác từ các công ty con (**)</td><td>-</td><td>57.249.299.909</td></tr><tr><td>Phải thu khác</td><td>6.790.260.479</td><td>6.557.101.117</td></tr><tr><td></td><td>65.459.019.088</td><td>79.319.502.366</td></tr></table>
+
+(*) Ký quỹ ngắn hạn bao gồm khoản ký quỹ cho Sở Kế hoạch và Đầu tư Tỉnh Cà Mau liên quan đến dự án đầu tư nhà máy mở rộng của Công ty theo thỏa thuận số 06 ngày 28 tháng 2 năm 2019.
+
+(**) Trong năm, Công ty đã chuyển khoản phải thu ngắn hạn khác từ các công ty con để hỗ trợ vốn lưu động thành khoản đầu tư góp vốn vào các công ty con.
+
+(b) Phải thu dài hạn khác
+
+<table><tr><td></td><td>31/12/2019VND</td><td>1/1/2019VND</td></tr><tr><td>Tạm ứng cho nông dân (*)</td><td>7.306.508.578</td><td>7.306.508.578</td></tr><tr><td>Khoản phải thu đến hạn trong 12 tháng (Thuyết minh 8(a))</td><td>(3.500.000.000)</td><td>-</td></tr><tr><td>Khoản phải thu đến hạn sau 12 tháng</td><td>3.806.508.578</td><td>7.306.508.578</td></tr><tr><td>Đặt cọc cho Công ty Cổ phần Hạ tầng Sài Gòn – Cà Mau,một bên liên quan (**)</td><td>2.058.898.500</td><td>-</td></tr><tr><td></td><td>5.865.407.078</td><td>7.306.508.578</td></tr></table>
+
+(*) Đây là khoản tạm ứng cho nông dân để hỗ trợ việc nuôi tôm, được đảm bảo bằng quyền sử dụng đất của nông dân. Khoản tạm ứng này không được hưởng lãi và có thể thu hồi trong vòng 3 năm 2020, 2021 và 2022.
+
+(**) Đây là khoản đặt cọc cho Công ty Cổ phần Hạ tầng Sài Gòn – Cà Mau, một bên liên quan, cho mục đích thuê đất.
+
+28
+
+===== PAGE 6 =====
+Công ty Cổ phần Tập đoàn Thủy sản Minh Phú
+Thuyết minh báo cáo tài chính riêng cho năm kết thúc ngày 31 tháng 12 năm 2019 (tiếp theo)
+
+Mẫu B 09 - DN
+
+(Ban hành theo Thông tư số 200/2014/TT-BTC
+
+ngày 22/12/2014 của Bộ Tài chính)
+
+9. Hàng tồn kho
+
+<table><tr><td rowspan="2"></td><td colspan="2">31/12/2019</td><td colspan="2">1/1/2019</td></tr><tr><td>Giá gốc VND</td><td>Dự phòng VND</td><td>Giá gốc VND</td><td>Dự phòng VND</td></tr><tr><td>Hàng đang đi trên đường</td><td>-</td><td>-</td><td>26.374.997.952</td><td>-</td></tr><tr><td>Nguyên vật liệu</td><td>54.245.923.205</td><td>-</td><td>50.894.320.378</td><td>-</td></tr><tr><td>Công cụ và dụng cụ</td><td>1.529.132.526</td><td>-</td><td>1.511.439.635</td><td>-</td></tr><tr><td>Thành phẩm</td><td>1.060.152.024.278</td><td>(21.636.679.053)</td><td>1.115.250.401.566</td><td>(11.444.283.656)</td></tr><tr><td></td><td>1.115.927.080.009</td><td>(21.636.679.053)</td><td>1.194.031.159.531</td><td>(11.444.283.656)</td></tr></table>
+
+Biến động dự phòng giảm giá hàng tồn kho trong năm như sau:
+
+<table><tr><td></td><td>2019VND</td><td>2018VND</td></tr><tr><td>Số dư đầu năm</td><td>11.444.283.656</td><td>11.442.570.027</td></tr><tr><td>Tăng trong năm</td><td>10.192.395.397</td><td>1.713.629</td></tr><tr><td>Số dư cuối năm</td><td>21.636.679.053</td><td>11.444.283.656</td></tr></table>
+
+Tại ngày 31 tháng 12 năm 2019, hàng tồn kho có giá trị ghi sổ là 1.094.290 triệu VND (1/1/2019: 1.182.587 triệu VND) được thế chấp tại ngân hàng để đảm bảo cho các khoản vay ngắn hạn của Công ty (Thuyết minh 18(a)).
+
+Trong hàng tồn kho tại ngày 31 tháng 12 năm 2019 có 460.185 triệu VND (1/1/2019: 163.795 triệu VND) thành phẩm được ghi nhận theo giá trị thuần có thể thực hiện được.
+
+29
+
+===== PAGE 7 =====
+Công ty Cổ phần Tập đoàn Thủy sản Minh Phú
+Thuyết minh báo cáo tài chính riêng cho năm kết thúc ngày 31 tháng 12 năm 2019 (tiếp theo)
+
+<table><tr><td></td><td>Nhà cửa VND</td><td>Máy móc và thiết bị VND</td><td>Phương tiện vận chuyển VND</td><td>Thiết bị văn phòng VND</td><td>Tổng VND</td></tr><tr><td colspan="6">Nguyên giá</td></tr><tr><td>Số dư đầu năm</td><td>119.185.752.627</td><td>285.423.189.651</td><td>55.576.658.911</td><td>13.544.954.046</td><td>473.730.555.235</td></tr><tr><td>Tăng trong năm</td><td>213.395.000</td><td>9.334.529.460</td><td>-</td><td>998.634.183</td><td>10.546.558.643</td></tr><tr><td>Chuyển từ xây dựng cơ bản dở dang</td><td>-</td><td>-</td><td>6.787.600.000</td><td>-</td><td>6.787.600.000</td></tr><tr><td>Thanh lý</td><td>-</td><td>(1.054.102.000)</td><td>(4.905.867.274)</td><td>(66.439.084)</td><td>(6.026.408.358)</td></tr><tr><td>Số dư cuối năm</td><td>119.399.147.627</td><td>293.703.617.111</td><td>57.458.391.637</td><td>14.477.149.145</td><td>485.038.305.520</td></tr><tr><td colspan="6">Giá trị hao mòn lũy kế</td></tr><tr><td>Số dư đầu năm</td><td>65.903.359.841</td><td>154.752.316.589</td><td>30.356.643.533</td><td>9.308.644.397</td><td>260.320.964.360</td></tr><tr><td>Khấu hao trong năm</td><td>6.931.205.865</td><td>25.326.377.077</td><td>5.113.550.336</td><td>1.263.702.407</td><td>38.634.835.685</td></tr><tr><td>Thanh lý</td><td>-</td><td>(1.054.102.000)</td><td>(2.882.606.124)</td><td>(44.620.902)</td><td>(3.981.329.026)</td></tr><tr><td>Số dư cuối năm</td><td>72.834.565.706</td><td>179.024.591.666</td><td>32.587.587.745</td><td>10.527.725.902</td><td>294.974.471.019</td></tr><tr><td colspan="6">Giá trị còn lại</td></tr><tr><td>Số dư đầu năm</td><td>53.282.392.786</td><td>130.670.873.062</td><td>25.220.015.378</td><td>4.236.309.649</td><td>213.409.590.875</td></tr><tr><td>Số dư cuối năm</td><td>46.564.581.921</td><td>114.679.025.445</td><td>24.870.803.892</td><td>3.949.423.243</td><td>190.063.834.501</td></tr></table>
+
+30
+
+===== PAGE 8 =====
+Công ty Cổ phần Tập đoàn Thủy sản Minh Phú
+Thuyết minh báo cáo tài chính riêng cho năm kết thúc ngày 31 tháng 12 năm 2019 (tiếp theo)
+
+Mẫu B 09 - DN
+
+(Ban hành theo Thông tư số 200/2014/TT-BTC
+
+ngày 22/12/2014 của Bộ Tài chính)
+
+11. Tài sản cố định vô hình
+
+<table><tr><td></td><td>Quyền sử dụng đất VND</td><td>Phần mềm máy tính VND</td><td>Tổng VND</td></tr><tr><td colspan="4">Nguyên giá</td></tr><tr><td>Số dư đầu năm và cuối năm</td><td>22.181.099.585</td><td>19.772.187.118</td><td>41.953.286.703</td></tr><tr><td colspan="4">Giá trị hao mòn lũy kế</td></tr><tr><td>Số dư đầu năm</td><td>4.966.613.721</td><td>5.937.619.599</td><td>10.904.233.320</td></tr><tr><td>Khấu hao trong năm</td><td>205.801.997</td><td>1.300.631.842</td><td>1.506.433.839</td></tr><tr><td>Số dư cuối năm</td><td>5.172.415.718</td><td>7.238.251.441</td><td>12.410.667.159</td></tr><tr><td colspan="4">Giá trị còn lại</td></tr><tr><td>Số dư đầu năm</td><td>17.214.485.864</td><td>13.834.567.519</td><td>31.049.053.383</td></tr><tr><td>Số dư cuối năm</td><td>17.008.683.867</td><td>12.533.935.677</td><td>29.542.619.544</td></tr></table>
+
+Trong tài sản cố định vô hình có các tài sản với nguyên giá là 4.602 triệu VND đã được khấu hao hết tại ngày 31 tháng 12 năm 2019 (1/1/2019: 2.958 triệu VND), nhưng vẫn còn đang được sử dụng.
+
+Tại ngày 31 tháng 12 năm 2019, tài sản cố định vô hình với giá trị còn lại là 1.924 triệu VND (1/1/2019: 1.987 triệu VND) được thế chấp tại ngân hàng để đảm bảo cho các khoản vay ngắn hạn của Công ty (Thuyết minh 18(a)).
+
+31
+
+===== PAGE 9 =====
+Công ty Cổ phần Tập đoàn Thủy sản Minh Phú
+
+Thuyết minh báo cáo tài chính riêng cho năm kết thúc ngày 31 tháng 12 năm 2019 (tiếp theo)
+
+Mẫu B 09 - DN
+
+(Ban hành theo Thông tư số 200/2014/TT-BTC
+
+ngày 22/12/2014 của Bộ Tài chính)
+
+12. Xây dựng cơ bản dở dang
+
+<table><tr><td></td><td>2019VND</td><td>2018VND</td></tr><tr><td>Số dư đầu năm</td><td>16.771.105.274</td><td>14.698.614.364</td></tr><tr><td>Tăng trong năm</td><td>10.992.555.012</td><td>4.324.790.910</td></tr><tr><td>Chuyển sang tài sản cố định hữu hình</td><td>(6.787.600.000)</td><td>(2.252.300.000)</td></tr><tr><td>Chuyển sang chi phí trả trước ngắn hạn</td><td>(377.248.638)</td><td>-</td></tr><tr><td>Số dư cuối năm</td><td>20.598.811.648</td><td>16.771.105.274</td></tr></table>
+
+Xây dựng cơ bản dở dang bao gồm:
+
+<table><tr><td></td><td>31/12/2019VND</td><td>1/1/2019VND</td></tr><tr><td>Quyền sử dụng đất</td><td>20.535.175.284</td><td>16.707.468.910</td></tr><tr><td>Cải tạo văn phòng</td><td>63.636.364</td><td>63.636.364</td></tr><tr><td></td><td>20.598.811.648</td><td>16.771.105.274</td></tr></table>
+
+13. Chi phí trả trước
+
+(a) Chi phí trả trước ngắn hạn
+
+<table><tr><td></td><td>31/12/2019VND</td><td>1/1/2019VND</td></tr><tr><td>Công cụ dụng cụ</td><td>2.582.206.352</td><td>2.437.757.166</td></tr></table>
+
+(b) Chi phí trả trước dài hạn
+
+<table><tr><td></td><td>Công cụ và dụng cụ VND</td></tr><tr><td>Số dư đầu năm</td><td>18.433.184.817</td></tr><tr><td>Tăng trong năm</td><td>7.921.773.998</td></tr><tr><td>Phân bổ trong năm</td><td>(12.001.435.655)</td></tr><tr><td>Số dư cuối năm</td><td>14.353.523.160</td></tr></table>
+
+32
+
+===== PAGE 10 =====
+Công ty Cổ phần Tập đoàn Thủy sản Minh Phú
+Thuyết minh báo cáo tài chính riêng cho năm kết thúc ngày 31 tháng 12 năm 2019 (tiếp theo)
+
+Mẫu B 09 - DN
+
+(Ban hành theo Thông tư số 200/2014/TT-BTC
+
+ngày 22/12/2014 của Bộ Tài chính)
+
+14. Thuế thu nhập hoãn lại phải trả
+
+<table><tr><td></td><td>31/12/2019VND</td><td>1/1/2019VND</td></tr><tr><td>Lãi chênh lệch tỷ giá hối đoái chưa thực hiện</td><td>1.297.204.032</td><td>1.732.611.442</td></tr></table>
+
+15. Phải trả người bán
+
+(a) Phải trả người bán chi tiết theo nhà cung cấp lớn
+
+<table><tr><td></td><td>31/12/2019Giá gốc/Số cókhả năng trả nợVND</td><td>1/1/2019Giá gốc/Số cókhả năng trả nợVND</td></tr><tr><td>Doanh nghiệp từ nhân Minh Hy</td><td>3.240.937.862</td><td>19.574.834.438</td></tr><tr><td>Công ty Cổ phần Thủy sản Minh Phú Hậu Giang</td><td>-</td><td>217.481.421.143</td></tr><tr><td>Magnum Export Private Limited</td><td>-</td><td>8.274.941.200</td></tr><tr><td>Các nhà cung cấp khác</td><td>75.060.358.069</td><td>152.902.540.861</td></tr><tr><td></td><td>78.301.295.931</td><td>398.233.737.642</td></tr></table>
+
+(b) Phải trả người bán là các bên liên quan
+
+<table><tr><td></td><td>31/12/2019Giá gốc/Số cókhả năng trả nợVND</td><td>1/1/2019Giá gốc/Số cókhả năng trả nợVND</td></tr><tr><td colspan="3">Các công ty con</td></tr><tr><td>Công ty TNHH Chế biến Thủy sản Minh Phát</td><td>7.292.882.527</td><td>-</td></tr><tr><td>Công ty TNHH MTV Chuỗi Cung ứng Thủy sản Minh Phú</td><td>4.739.344.272</td><td>3.520.675.000</td></tr><tr><td>Công ty TNHH Thủy Hải sản Minh Phú - Kiên Giang</td><td>3.118.501.300</td><td>-</td></tr><tr><td>Công ty TNHH Nuôi trồng Thủy sản Minh Phú – Lộc An</td><td>1.703.722.800</td><td>8.675.391.200</td></tr><tr><td>Công ty Cổ phần Xã hội Chuỗi Tôm Rừng Minh Phú</td><td>337.558.891</td><td>303.169.765</td></tr><tr><td>Công ty Cổ phần Thủy sản Minh Phú Hậu Giang</td><td>-</td><td>217.481.421.143</td></tr></table>
+
+Khoản phải trả các công ty con không được đảm bảo, không chịu lãi và phải trả khi có yêu cầu.
+
+Không có khoản phải trả người bán nào tại ngày 31 tháng 12 năm 2019 và ngày 1 tháng 1 năm 2019 bị quá hạn.
+
+33
+
+===== PAGE 11 =====
+Công ty Cổ phần Tập đoàn Thủy sản Minh Phú
+Thuyết minh báo cáo tài chính riêng cho năm kết thúc ngày 31 tháng 12 năm 2019 (tiếp theo)
+
+<table><tr><td></td><td>1/1/2019VND</td><td>Số phát sinhVND</td><td>Số đã nộpVND</td><td>Số đã cán trừVND</td><td>31/12/2019VND</td></tr><tr><td>Thuế thu nhập doanh nghiệp</td><td>23.063.950.092</td><td>36.539.303.355</td><td>(57.040.852.805)</td><td>-</td><td>2.562.400.642</td></tr><tr><td>Thuế thu nhập cá nhân</td><td>407.831.521</td><td>38.769.548.592</td><td>(38.845.180.218)</td><td>-</td><td>332.199.895</td></tr><tr><td>Thuế giá trị gia tăng</td><td>-</td><td>133.841.581.826</td><td>(36.909.398.758)</td><td>(95.204.096.452)</td><td>1.728.086.616</td></tr><tr><td></td><td>23.471.781.613</td><td>209.150.433.773</td><td>(132.795.431.781)</td><td>(95.204.096.452)</td><td>4.622.687.153</td></tr><tr><td colspan="6">(b) Thuế giá trị gia tăng được khấu trừ</td></tr><tr><td></td><td></td><td>1/1/2019VND</td><td>Số phát sinhVND</td><td>Số đã cán trừVND</td><td>31/12/2019VND</td></tr><tr><td>Thuế giá trị gia tăng được khấu trừ</td><td></td><td>28.375.187.380</td><td>68.121.823.935</td><td>(95.204.096.452)</td><td>1.292.914.863</td></tr></table>
+
+34
+
+[Illegible]
+
+===== PAGE 12 =====
+Công ty Cổ phần Tập đoàn Thủy sản Minh Phú
+Thuyết minh báo cáo tài chính riêng cho năm kết thúc ngày 31 tháng 12 năm 2019 (tiếp theo)
+
+<table><tr><td></td><td>1/1/2019VND</td><td>Số phát sinhVND</td><td>Số đã cán trừVND</td><td>31/12/2019VND</td></tr><tr><td>Thuế xuất nhập khẩu</td><td>966.607.217</td><td>144.809.105</td><td>(350.187.629)</td><td>761.228.693</td></tr><tr><td>Thuế khác</td><td>556.105.150</td><td>231.142.263</td><td>-</td><td>787.247.413</td></tr><tr><td></td><td>1.522.712.367</td><td>375.951.368</td><td>(350.187.629)</td><td>1.548.476.106</td></tr></table>
+
+35
+
+\( \therefore {S}_{\Delta APQ} = {S}_{\Delta AQP} + {S}_{\Delta PQQ} \)
+
+===== PAGE 13 =====
+Công ty Cổ phần Tập đoàn Thủy sản Minh Phú
+Thuyết minh báo cáo tài chính riêng cho năm kết thúc ngày 31 tháng 12 năm 2019 (tiếp theo)
+
+Mẫu B 09 - DN
+
+(Ban hành theo Thông tư số 200/2014/TT-BTC
+
+ngày 22/12/2014 của Bộ Tài chính)
+
+17. Phải trả ngắn hạn khác
+
+<table><tr><td></td><td>31/12/2019VND</td><td>1/1/2019VND</td></tr><tr><td>Cổ tức phải trả</td><td>399.468.525.800</td><td>2.504.968.300</td></tr><tr><td>Nhận tiền ứng trước từ nhân viên cho việc phát hành cổ phiếu cho chương trình lựa chọn cho người lao động trong công ty</td><td>4.590.900.000</td><td>-</td></tr><tr><td>Bảo hiểm xã hội, bảo hiểm y tế, kinh phí công đoàn</td><td>3.000.278.125</td><td>1.609.363.989</td></tr><tr><td>Nhận ứng trước từ nhân viên mua nhà tập thể</td><td>1.712.014.545</td><td>-</td></tr><tr><td>Lãi vay phải trả</td><td>-</td><td>3.486.857.383</td></tr><tr><td>Phải trả khác</td><td>1.343.959.413</td><td>1.585.973.958</td></tr><tr><td></td><td>410.115.677.883</td><td>9.187.163.630</td></tr></table>
+
+Không có khoản phải trả ngắn hạn khác nào tại ngày 31 tháng 12 năm 2019 và ngày 1 tháng 1 năm 2019 bị quá hạn.
+
+36
+
+모-y z-z-wi
+
+===== PAGE 14 =====
+Công ty Cổ phần Tập đoàn Thủy sản Minh Phú
+Thuyết minh báo cáo tài chính riêng cho năm kết thúc ngày 31 tháng 12 năm 2019 (tiếp theo)
+
+Mẫu B 09 – DN
+(Ban hành theo Thông tư số 200/2014/TT-BTC ngày 22/12/2014 của Bộ Tài chính)
+
+18. Vay và trái phiếu
+(a) Vay ngắn hạn
+
+<table><tr><td rowspan="2"></td><td colspan="2">1/1/2019</td><td colspan="3">Biến động trong năm</td><td colspan="2">31/12/2019</td></tr><tr><td>Giá trị ghi số VND</td><td>Số có khả năng trả nợ VND</td><td>Tăng VND</td><td>Giảm VND</td><td>Đánh giá lại tỷ giá VND</td><td>Giá trị ghi số VND</td><td>Số có khả năng trả nợ VND</td></tr><tr><td>Vay ngắn hạn</td><td>1.801.455.101.760</td><td>1.801.455.101.760</td><td>7.808.133.187.569</td><td>(8.674.850.700.040)</td><td>(2.927.898.589)</td><td>931.809.690.700</td><td>931.809.690.700</td></tr><tr><td colspan="8">Điều khoản và điều kiện của các khoản vay ngắn hạn hiện còn số dư như sau:</td></tr><tr><td rowspan="2"></td><td rowspan="2"></td><td rowspan="2"></td><td rowspan="2">Loại tiền</td><td colspan="2">Lãi suất năm</td><td rowspan="2">31/12/2019 VND</td><td rowspan="2">1/1/2019 VND</td></tr><tr><td>2019</td><td>2018</td></tr><tr><td>Ngân hàng TMCP Đầu Tư và Phát Triển Việt Nam - Chi nhánh Cà Mau</td><td></td><td></td><td>USD</td><td>3,1%</td><td>2,5% - 3,4%</td><td>415.126.493.960</td><td>214.979.090.320</td></tr><tr><td>Ngân hàng TMCP Công Thương Việt Nam - Chi nhánh Cà Mau</td><td></td><td></td><td>USD</td><td>3,1%</td><td>2,5% - 3,8%</td><td>369.426.614.000</td><td>1.255.643.153.040</td></tr><tr><td>Ngân hàng TMCP Ngoại Thương Việt Nam - Chi nhánh Cà Mau</td><td></td><td></td><td>USD</td><td>3,1%</td><td>2,5% - 3,8%</td><td>147.256.582.740</td><td>330.832.858.400</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td>931.809.690.700</td><td>1.801.455.101.760</td></tr></table>
+
+37
+
+11. 2×3. 1
+
+===== PAGE 15 =====
+Công ty Cổ phần Tập đoàn Thủy sản Minh Phú
+Thuyết minh báo cáo tài chính riêng cho năm kết thúc ngày 31 tháng 12 năm 2019 (tiếp theo)
+
+Mẫu B 09 - DN
+
+(Ban hành theo Thông tư số 200/2014/TT-BTC
+
+ngày 22/12/2014 của Bộ Tài chính)
+
+Các khoản vay ngân hàng được bảo đảm bằng các tài sản của Công ty như sau:
+
+<table><tr><td rowspan="2"></td><td colspan="2">Giá trị ghi sổ tại ngày</td></tr><tr><td>31/12/2019 VND</td><td>1/1/2019 VND</td></tr><tr><td>Tiền gửi có kỳ hạn (Thuyết minh 6(b))</td><td>34.000.000.000</td><td>97.000.000.000</td></tr><tr><td>Phải thu khách hàng (Thuyết minh 7)</td><td>834.637.777.890</td><td>2.367.070.017.695</td></tr><tr><td>Hàng tồn kho (Thuyết minh 9)</td><td>1.094.290.400.956</td><td>1.182.586.875.875</td></tr><tr><td>Tài sản cố định hữu hình (Thuyết minh 10)</td><td>61.116.306.016</td><td>76.621.431.432</td></tr><tr><td>Tài sản cố định vô hình (Thuyết minh 11)</td><td>1.924.548.768</td><td>1.987.380.124</td></tr><tr><td></td><td>2.025.969.033.630</td><td>3.725.265.705.126</td></tr></table>
+
+(b) Trái phiếu
+
+Điều khoản và điều kiện của trái phiếu doanh nghiệp dài hạn hiện còn số dư như sau:
+
+<table><tr><td rowspan="2">Mã trái phiếu</td><td rowspan="2">Loại tiền</td><td colspan="2">Lãi suất năm</td><td colspan="2">Số lượng</td><td rowspan="2">31/12/2019 VND</td><td rowspan="2">1/1/2019 VND</td></tr><tr><td>2019</td><td>2018</td><td>2019</td><td>2018</td></tr><tr><td colspan="8">Trái phiếu doanh nghiệp không được chuyển đổi</td></tr><tr><td colspan="8">MPC_BOND</td></tr><tr><td>2015</td><td>VND</td><td>7,5%</td><td>7,5%</td><td>-</td><td>936</td><td>-</td><td>933.166.666.681</td></tr></table>
+
+Trái phiếu được trình bày theo mệnh giá trừ đi chi phí phát hành. Chi phí phát hành được phân bổ đàn theo phương pháp đường thẳng trong suốt kỳ hạn của trái phiếu.
+
+38
+
+1131.07-2.104
+
+===== PAGE 16 =====
+Công ty Cổ phần Tập đoàn Thủy sản Minh Phú
+Thuyết minh báo cáo tài chính riêng cho năm kết thúc ngày 31 tháng 12 năm 2019 (tiếp theo)
+
+Mẫu B 09 - DN
+
+(Ban hành theo Thông tư số 200/2014/TT-BTC
+
+ngày 22/12/2014 của Bộ Tài chính)
+
+Biến động của trái phiếu dài hạn trong năm như sau:
+
+<table><tr><td></td><td>2019VND</td><td>2018VND</td></tr><tr><td>Số dư đầu năm</td><td>933.166.666.681</td><td>1.487.916.666.677</td></tr><tr><td>Phân bổ chi phí phát hành trái phiếu</td><td>2.833.333.319</td><td>9.250.000.004</td></tr><tr><td>Mua lại trái phiếu (*)</td><td>(936.000.000.000)</td><td>(564.000.000.000)</td></tr><tr><td>Số dư cuối năm</td><td>-</td><td>933.166.666.681</td></tr></table>
+
+(*) Trong năm, Công ty mua lại toàn bộ trái phiếu doanh nghiệp đã phát hành với kỳ hạn 5 năm có tổng mệnh giá là 936 tỷ VND trước ngày đáo hạn của trái phiếu. Không có khoản chi phí giao dịch nào phát sinh từ việc mua lại trái phiếu này.
+
+19. Quỹ khen thưởng và phúc lợi
+
+Quỹ này được lập bằng cách trích từ lợi nhuận chưa phân phối theo quyết định của các cổ đông tại cuộc hợp cổ đông của Công ty. Quỹ này được dùng để chi trả tiền thường và phúc lợi cho nhân viên của Công ty theo chính sách thường và phúc lợi của Công ty. Biển động quỹ khen thường và phúc lợi trong năm như sau:
+
+<table><tr><td></td><td>2019VND</td><td>2018VND</td></tr><tr><td>Số dư đầu năm</td><td>43.654.102.201</td><td>43.666.412.514</td></tr><tr><td>Trích lập trong năm</td><td>1.055.000.000</td><td>23.588.616.084</td></tr><tr><td>Sử dụng quỹ trong năm</td><td>(19.600.585.338)</td><td>(23.600.926.397)</td></tr><tr><td>Số dư cuối năm</td><td>25.108.516.863</td><td>43.654.102.201</td></tr></table>
+
+39
+
+[Illegible Handwriting]
+
+===== PAGE 17 =====
+Công ty Cổ phần Tập đoàn Thủy sản Minh Phú
+Thuyết minh báo cáo tài chính riêng cho năm kết thúc ngày 31 tháng 12 năm 2019 (tiếp theo)
+
+<table><tr><td></td><td>Vốn cổ phần VND</td><td>Thặng dư vốn cổ phần VND</td><td>Cổ phiếu quỹ VND</td><td>Quỹ đầu tư phát triển VND</td><td>Lợi nhuận chưa phân phối VND</td><td>Tổng VND</td></tr><tr><td>Số dư tại ngày 1 tháng 1 năm 2018</td><td>700.000.000.000</td><td>177.876.869.236</td><td>(80.162.090.861)</td><td>31.920.523.434</td><td>1.272.234.029.584</td><td>2.101.869.331.393</td></tr><tr><td>Lợi nhuận thuần trong năm</td><td>-</td><td>-</td><td>-</td><td>-</td><td>715.214.718.304</td><td>715.214.718.304</td></tr><tr><td>Phát hành cổ phiếu</td><td>684.628.500.000</td><td>(177.876.869.236)</td><td>-</td><td>-</td><td>(506.751.630.764)</td><td>-</td></tr><tr><td>Phát hành cổ phiếu thường</td><td>15.371.500.000</td><td>-</td><td>-</td><td>-</td><td>-</td><td>15.371.500.000</td></tr><tr><td>Phân bổ vào các quỹ</td><td>-</td><td>-</td><td>-</td><td>117.943.080.421</td><td>(117.943.080.421)</td><td>-</td></tr><tr><td>Trích quỹ khen thưởng phúc lợi</td><td>-</td><td>-</td><td>-</td><td>-</td><td>(23.588.616.084)</td><td>(23.588.616.084)</td></tr><tr><td>Sử dụng các quỹ</td><td>-</td><td>-</td><td>-</td><td>(6.171.656.054)</td><td>-</td><td>(6.171.656.054)</td></tr><tr><td>Số dư tại ngày 1 tháng 1 năm 2019</td><td>1.400.000.000.000</td><td>-</td><td>(80.162.090.861)</td><td>143.691.947.801</td><td>1.339.165.420.619</td><td>2.802.695.277.559</td></tr><tr><td>Lợi nhuận thuần trong năm</td><td>-</td><td>-</td><td>-</td><td>-</td><td>650.232.072.763</td><td>650.232.072.763</td></tr><tr><td>Phát hành cổ phiếu (*)</td><td>600.000.000.000</td><td>2.360.944.843.299</td><td></td><td></td><td>-</td><td>2.960.944.843.299</td></tr><tr><td>Chia cổ tức (**)</td><td>-</td><td>-</td><td>-</td><td>-</td><td>(1.089.239.950.000)</td><td>(1.089.239.950.000)</td></tr><tr><td>Phân bổ vào các quỹ</td><td>-</td><td>-</td><td>-</td><td>1.582.500.000</td><td>(1.582.500.000)</td><td>-</td></tr><tr><td>Trích quỹ khen thưởng phúc lợi</td><td>-</td><td>-</td><td>-</td><td>-</td><td>(1.055.000.000)</td><td>(1.055.000.000)</td></tr><tr><td>Sử dụng các quỹ</td><td>-</td><td>-</td><td>-</td><td>(27.015.580.862)</td><td>-</td><td>(27.015.580.862)</td></tr><tr><td>Số dư tại ngày 31 tháng 12 năm 2019</td><td>2.000.000.000.000</td><td>2.360.944.843.299</td><td>(80.162.090.861)</td><td>118.258.866.939</td><td>897.520.043.382</td><td>5.296.561.662.759</td></tr></table>
+
+40
+
+===== PAGE 18 =====
+Công ty Cổ phần Tập đoàn Thủy sản Minh Phú
+Thuyết minh báo cáo tài chính riêng cho năm kết thúc ngày 31 tháng 12 năm 2019 (tiếp theo)
+
+Mẫu B 09 - DN
+
+(Ban hành theo Thông tư số 200/2014/TT-BTC
+
+ngày 22/12/2014 của Bộ Tài chính)
+
+(*) Ngày 15 tháng 2 năm 2019, Hội đồng Quản trị của Công ty đã thông qua việc triển khai phương án phát hành cổ phiếu riêng lẻ cho nhà đầu tư theo Nghị quyết Đại hội đồng cổ đông bất thường năm 2018 số 02/NQĐHĐCD.MP18 ngày 10 tháng 11 năm 2018 với giá chào bán cổ phần được điều chỉnh theo Nghị quyết Đại hội đồng cổ đông bất thường năm 2019 số 01/NQĐHĐCD.MP19 ngày 29 tháng 1 năm 2019. Theo đó, vào tháng 5 năm 2019, Công ty đã phát hành thành công thêm 60.000.000 cổ phiếu, tương ứng với tổng mệnh giá phát hành là 600.000.000.000 VND, tại mức giá phát hành là 50.630,5 VND mỗi cổ phiếu và tổng chi phí phát hành là 76.885.156.701 VND.
+
+(**) Trong năm 2019, Đại hội đồng cổ đông của Công ty đã thông qua phương án chia cổ tức năm 2018 bằng tiền mặt với tổng số tiền lần lượt là 692.314.250.000 VND và 396.925.700.000 VND tương ứng với tỷ lệ chi trả lần lượt là 5.000 VND/cổ phiếu và 2.000 VND/cổ phiếu từ lợi nhuận chưa phân phối lũy kế đến ngày 31 tháng 12 năm 2018.
+
+21. Vốn cổ phần
+
+Vốn cổ phần được duyệt và đã phát hành của Công ty như sau:
+
+<table><tr><td rowspan="2"></td><td colspan="2">31/12/2019</td><td colspan="2">1/1/2019</td></tr><tr><td>Số lượng cổ phiếu</td><td>VND</td><td>Số lượng cổ phiếu</td><td>VND</td></tr><tr><td>Vốn cổ phần được duyệt và đã phát hànhCổ phiếu phổ thông</td><td>200.000.000</td><td>2.000.000.000.000</td><td>140.000.000</td><td>1.400.000.000.000</td></tr><tr><td>Cổ phiếu quỹCổ phiếu phổ thông</td><td>(1.537.150)</td><td>(80.162.090.861)</td><td>(1.537.150)</td><td>(80.162.090.861)</td></tr><tr><td>Số cổ phiếu đang lưu hànhCổ phiếu phổ thông</td><td>198.462.850</td><td>1.919.837.909.139</td><td>138.462.850</td><td>1.319.837.909.139</td></tr></table>
+
+Tất cả các cổ phiếu phổ thông có mạnh giá 10.000 VND. Mỗi cổ phiếu phổ thông tương ứng với một phiếu biểu quyết tại các cuộc hợp cổ đông của Công ty. Các cổ đông được nhận cổ tức mà Công ty công bố vào từng thời điểm. Tất cả cổ phiếu phổ thông đều có thứ tự ưu tiên như nhau đối với tài sản còn lại của Công ty. Các quyền lợi của các cổ phiếu đã được Công ty mua lại đều bị tạm ngừng cho tới khi chúng được phát hành lại.
+
+41
+
+===== PAGE 19 =====
+Công ty Cổ phần Tập đoàn Thủy sản Minh Phú
+Thuyết minh báo cáo tài chính riêng cho năm kết thúc ngày 31 tháng 12 năm 2019 (tiếp theo)
+
+Mẫu B 09 - DN
+
+(Ban hành theo Thông tư số 200/2014/TT-BTC
+
+ngày 22/12/2014 của Bộ Tài chính)
+
+Biến động của vốn cổ phần trong năm như sau:
+
+<table><tr><td rowspan="2"></td><td colspan="2">2019</td><td colspan="2">2018</td></tr><tr><td>Số lượng cổ phiếu</td><td>VND</td><td>Số lượng cổ phiếu</td><td>VND</td></tr><tr><td>Số dư đầu năm</td><td>140.000.000</td><td>1.400.000.000.000</td><td>70.000.000</td><td>700.000.000.000</td></tr><tr><td>Phát hành cổ phiếu riêng lẻ cho nhà đầu tư</td><td>60.000.000</td><td>600.000.000.000</td><td>-</td><td>-</td></tr><tr><td>Phát hành cổ phiếu từ lợi nhuận giữ lại và thăng dư vốn cổ phần</td><td>-</td><td>-</td><td>68.462.850</td><td>684.628.500.000</td></tr><tr><td>Phát hành cổ phiếu thường từ quỹ khen thường và phúc lợi</td><td>-</td><td>-</td><td>1.537.150</td><td>15.371.500.000</td></tr><tr><td>Số dư cuối năm</td><td>200.000.000</td><td>2.000.000.000.000</td><td>140.000.000</td><td>1.400.000.000.000</td></tr></table>
+
+22. Quỹ đầu tư phát triển
+
+Quỹ đầu tư phát triển được trích lập từ lợi nhuận chưa phân phối theo quyết định của Đại Hội đồng Cổ đông. Quỹ này được thành lập nhằm mục đích mở rộng doanh nghiệp trong tương lai.
+
+23. Các khoản mục ngoài bảng cân đối kế toán
+
+(a) Tài sản cam kết thuê ngoài
+
+Các khoản tiền thuê tối thiểu phải trả cho các hợp đồng thuê hoạt động không được hủy ngang như sau:
+
+<table><tr><td></td><td>31/12/2019VND</td><td>1/1/2019VND</td></tr><tr><td>Trong vòng một năm</td><td>40.296.850.560</td><td>42.825.035.560</td></tr><tr><td>Trong vòng hai đến năm năm</td><td>9.987.402.240</td><td>37.800.000.000</td></tr><tr><td>Trên năm năm</td><td>7.698.622.560</td><td>-</td></tr><tr><td></td><td>57.982.875.360</td><td>80.625.035.560</td></tr></table>
+
+42
+
+* H H
+
+===== PAGE 20 =====
+Công ty Cổ phần Tập đoàn Thủy sản Minh Phú
+
+Thuyết minh báo cáo tài chính riêng cho năm kết thúc ngày 31 tháng 12 năm 2019 (tiếp theo)
+
+Mẫu B 09 - DN
+
+(Ban hành theo Thông tư số 200/2014/TT-BTC
+
+ngày 22/12/2014 của Bộ Tài chính)
+
+(b) Ngoại tệ các loại
+
+<table><tr><td rowspan="2"></td><td colspan="2">31/12/2019</td><td colspan="2">1/1/2019</td></tr><tr><td>Nguyên tệ</td><td>Tương đương VND</td><td>Nguyên tệ</td><td>Tương đương VND</td></tr><tr><td>USD</td><td>707.105</td><td>16.390.700.623</td><td>976.184</td><td>22.647.463.696</td></tr><tr><td>JPY</td><td>150.074.045</td><td>31.815.697.540</td><td>101.569.653</td><td>21.228.057.477</td></tr><tr><td>CAD</td><td>1.410</td><td>24.302.290</td><td>1.447</td><td>24.942.114</td></tr><tr><td></td><td></td><td>48.230.700.453</td><td></td><td>43.900.463.287</td></tr></table>
+
+24. Doanh thu bán hàng
+
+Tổng doanh thu thể hiện tổng giá trị hàng bán không bao gồm thuế giá trị gia tăng.
+
+Doanh thu thuần bao gồm:
+
+<table><tr><td></td><td>2019VND</td><td>2018VND</td></tr><tr><td colspan="3">Tổng doanh thu</td></tr><tr><td>▪ Thành phẩm đã bán</td><td>10.788.911.064.254</td><td>12.080.018.986.392</td></tr><tr><td>▪ Nguyên vật liệu đã bán</td><td>2.377.628.654</td><td>6.027.390.229</td></tr><tr><td>▪ Phế liệu đã bán</td><td>17.944.875.150</td><td>10.397.661.968</td></tr><tr><td></td><td>10.809.233.568.058</td><td>12.096.444.038.589</td></tr><tr><td colspan="3">Trừ các khoản giảm trừ doanh thu</td></tr><tr><td>▪ Giảm giá hàng bán</td><td>(1.006.031.183)</td><td>(37.885.559.593)</td></tr><tr><td>▪ Hàng bán bị trả lại</td><td>(45.229.025.458)</td><td>(22.480.906.594)</td></tr><tr><td>▪ Chiết khấu thương mại</td><td>(52.407.158)</td><td>(134.401.265)</td></tr><tr><td></td><td>(46.287.463.799)</td><td>(60.500.867.452)</td></tr><tr><td>Doanh thu thuần</td><td>10.762.946.104.259</td><td>12.035.943.171.137</td></tr></table>
+
+43
+
+\( \therefore {S}_{\Delta APQ} = {S}_{\Delta AQP} + {S}_{\Delta QPQ} \)
+
+===== PAGE 21 =====
+Công ty Cổ phần Tập đoàn Thủy sản Minh Phú
+
+Thuyết minh báo cáo tài chính riêng cho năm kết thúc ngày 31 tháng 12 năm 2019 (tiếp theo)
+
+Mẫu B 09 - DN
+
+(Ban hành theo Thông tư số 200/2014/TT-BTC
+
+ngày 22/12/2014 của Bộ Tài chính)
+
+25. Giá vốn hàng bán
+
+<table><tr><td></td><td>2019VND</td><td>2018VND</td></tr><tr><td>Thành phẩm đã bán</td><td>10.000.987.688.578</td><td>10.885.079.575.597</td></tr><tr><td>Nguyên vật liệu đã bán</td><td>2.249.630.533</td><td>5.800.420.410</td></tr><tr><td>Dự phòng giảm giá hàng tồn kho</td><td>10.192.395.397</td><td>1.713.629</td></tr><tr><td></td><td>10.013.429.714.508</td><td>10.890.881.709.636</td></tr></table>
+
+26. Doanh thu hoạt động tài chính
+
+<table><tr><td></td><td>2019VND</td><td>2018VND</td></tr><tr><td>Cổ tức được chia từ các công ty con</td><td>393.810.301.893</td><td>174.893.625.000</td></tr><tr><td>Thu nhập lãi tiền gửi</td><td>69.092.709.770</td><td>48.783.452.293</td></tr><tr><td>Lãi chênh lệch tỷ giá hối đoái đã thực hiện</td><td>15.085.998.912</td><td>16.401.429.774</td></tr><tr><td>Lãi chênh lệch tỷ giá hối đoái chưa thực hiện</td><td>5.216.050.699</td><td>8.833.666.685</td></tr><tr><td>Cổ tức thu được từ chứng khoán kinh doanh</td><td>573.177.200</td><td>475.746.600</td></tr><tr><td>Doanh thu hoạt động tài chính khác</td><td>2.159.097.341</td><td>5.908.884.083</td></tr><tr><td></td><td>485.937.335.815</td><td>255.296.804.435</td></tr></table>
+
+27. Chi phí tài chính
+
+<table><tr><td></td><td>2019VND</td><td>2018VND</td></tr><tr><td>Chi phí lãi vay</td><td>84.298.079.414</td><td>129.072.009.686</td></tr><tr><td>Lỗ chênh lệch tỷ giá hối đoái đã thực hiện</td><td>82.229.113.385</td><td>62.450.391.067</td></tr><tr><td>Chi phí phát hành trái phiếu</td><td>2.833.333.319</td><td>9.250.000.004</td></tr><tr><td>Dự phòng giảm giá đầu tư chứng khoán kinh doanh</td><td>-</td><td>(262.604.094)</td></tr><tr><td>Chi phí tài chính khác</td><td>73.277.386</td><td>71.179.158</td></tr><tr><td></td><td>169.433.803.504</td><td>200.580.975.821</td></tr></table>
+
+44
+
+[Illegible]
+
+===== PAGE 22 =====
+Công ty Cổ phần Tập đoàn Thủy sản Minh Phú
+
+Thuyết minh báo cáo tài chính riêng cho năm kết thúc ngày 31 tháng 12 năm 2019
+
+(tiếp theo)
+
+Mẫu B 09 - DN
+
+(Ban hành theo Thông tư số 200/2014/TT-BTC
+
+ngày 22/12/2014 của Bộ Tài chính)
+
+28. Chi phí bán hàng
+
+<table><tr><td></td><td>2019VND</td><td>2018VND</td></tr><tr><td>Chi phí vận chuyển</td><td>152.721.918.481</td><td>183.639.246.379</td></tr><tr><td>Chi phí thuê kho</td><td>75.740.344.603</td><td>80.799.578.576</td></tr><tr><td>Chi phí hoa hồng</td><td>19.804.583.561</td><td>19.425.631.304</td></tr><tr><td>Chi phí nhân viên</td><td>14.231.057.060</td><td>16.336.058.737</td></tr><tr><td>Chi phí khác</td><td>42.564.692.258</td><td>42.863.015.276</td></tr><tr><td></td><td>305.062.595.963</td><td>343.063.530.272</td></tr></table>
+
+29. Chi phí quản lý doanh nghiệp
+
+<table><tr><td></td><td>2019VND</td><td>2018VND</td></tr><tr><td>Chi phí nhân viên</td><td>41.485.375.238</td><td>39.907.922.814</td></tr><tr><td>Dụng cụ văn phòng</td><td>11.996.133.387</td><td>9.795.492.911</td></tr><tr><td>Chi phí khấu hao</td><td>5.898.612.848</td><td>5.590.421.714</td></tr><tr><td>Chi phí dịch vụ mua ngoài</td><td>6.694.418.481</td><td>7.978.769.709</td></tr><tr><td>Phí ngân hàng</td><td>1.930.398.960</td><td>1.959.680.613</td></tr><tr><td>Chi phí khác</td><td>9.604.945.518</td><td>10.615.697.285</td></tr><tr><td></td><td>77.609.884.432</td><td>75.847.985.046</td></tr></table>
+
+30. Chi phí sản xuất và kinh doanh theo yếu tố
+
+<table><tr><td></td><td>2019VND</td><td>2018VND</td></tr><tr><td>Chi phí nguyên vật liệu và hàng hóa</td><td>9.101.100.858.555</td><td>10.224.470.188.805</td></tr><tr><td>Chi phí nhân công và nhân viên</td><td>737.214.554.568</td><td>776.530.895.815</td></tr><tr><td>Chi phí dịch vụ mua ngoài</td><td>381.055.421.351</td><td>414.917.568.760</td></tr><tr><td>Chi phí khấu hao và phân bổ</td><td>40.141.269.524</td><td>37.164.193.055</td></tr><tr><td>Chi phí khác</td><td>82.633.015.445</td><td>94.046.129.277</td></tr></table>
+
+45
+
+[1] [2]
+
+===== PAGE 23 =====
+Công ty Cổ phần Tập đoàn Thủy sản Minh Phú
+Thuyết minh báo cáo tài chính riêng cho năm kết thúc ngày 31 tháng 12 năm 2019 (tiếp theo)
+
+Mẫu B 09 - DN
+
+(Ban hành theo Thông tư số 200/2014/TT-BTC
+
+ngày 22/12/2014 của Bộ Tài chính)
+
+31. Thuế thu nhập doanh nghiệp
+
+(a) Ghi nhận trong báo cáo kết quả hoạt động kinh doanh riêng
+
+<table><tr><td></td><td>2019VND</td><td>2018VND</td></tr><tr><td colspan="3">Chi phí thuế hiện hành</td></tr><tr><td>Năm hiện hành</td><td>36.761.649.719</td><td>71.737.235.871</td></tr><tr><td>Dự phòng (thừa)/thiếu trong những năm trước</td><td>(222.346.364)</td><td>220.593.230</td></tr><tr><td></td><td>36.539.303.355</td><td>71.957.829.101</td></tr><tr><td colspan="3">Lợi ích thuế thu nhập hoãn lại</td></tr><tr><td>Phát sinh và hoàn nhập các khoản chênh lệch tạm thời</td><td>(435.407.410)</td><td>(267.832.873)</td></tr><tr><td></td><td>36.103.895.945</td><td>71.689.996.228</td></tr></table>
+
+(b) Đối chiếu thuế suất thực tế
+
+<table><tr><td></td><td>2019VND</td><td>2018VND</td></tr><tr><td>Lợi nhuận kế toán trước thuế</td><td>686.335.968.708</td><td>786.904.714.532</td></tr><tr><td>Thuế theo thuế suất của Công tyẢnh hưởng của mức thuế suất khác áp dụng cho doanh thu từ hoạt động thương mại và thu nhập khácChi phí không được khấu trừ thuếThu nhập không bị tính thuếDự phòng (thừa)/thiếu trong những năm trước</td><td>68.633.596.8716.788.570.393342.422.954(39.438.347.909)(222.346.364)</td><td>78.690.471.4539.923.516.264392.352.441(17.536.937.160)220.593.230</td></tr><tr><td>Thuế thu nhập doanh nghiệp</td><td>36.103.895.945</td><td>71.689.996.228</td></tr></table>
+
+(c) Thuế suất áp dụng
+
+Theo các điều khoản của Luật Thuế Thu nhập, Công ty có nghĩa vụ nộp cho Nhà nước thuế thu nhập doanh nghiệp với thuế suất là 10% lợi nhuận chịu thuế cho hoạt động chế biến và sản xuất các sản phẩm thủy sản và 20% cho hoạt động thương mại và các hoạt động khác.
+
+46
+
+10. 20
+
+===== PAGE 24 =====
+Công ty Cổ phần Tập đoàn Thủy sản Minh Phú
+Thuyết minh báo cáo tài chính riêng cho năm kết thúc ngày 31 tháng 12 năm 2019 (tiếp theo)
+
+Mẫu B 09 - DN
+
+(Ban hành theo Thông tư số 200/2014/TT-BTC ngày 22/12/2014 của Bộ Tài chính)
+
+32. Các giao dịch chủ yếu với các bên liên quan
+
+Ngoài số dư với các công ty liên quan được trình bày trong các thuyết minh khác của báo cáo tài chính riêng này, trong năm Công ty có các giao dịch chủ yếu với các công ty liên quan như sau:
+
+<table><tr><td></td><td>2019VND</td><td>2018VND</td></tr><tr><td colspan="3">Công ty TNHH Chế biến Thủy sản Minh Quí</td></tr><tr><td>Bán thành phẩm</td><td>607.881.589.510</td><td>517.500.712.730</td></tr><tr><td>Cổ tức được chia</td><td>19.451.250.000</td><td>12.952.875.000</td></tr><tr><td>Thuê nhà xưởng</td><td>10.800.000.000</td><td>10.800.000.000</td></tr><tr><td>Ủy thác xuất khẩu</td><td>1.139.731.563</td><td>27.868.880.587</td></tr><tr><td>Thuê văn phòng</td><td>330.000.000</td><td>330.000.000</td></tr><tr><td colspan="3">Công ty TNHH Chế biến Thủy sản Minh Phát</td></tr><tr><td>Bán thành phẩm</td><td>168.132.518.058</td><td>346.398.660.991</td></tr><tr><td>Thuê nhà xưởng</td><td>15.600.000.000</td><td>15.600.000.000</td></tr><tr><td>Mua hàng hóa</td><td>2.873.700.478</td><td>-</td></tr><tr><td>Thuê văn phòng</td><td>80.000.000</td><td>80.000.000</td></tr><tr><td>Cổ tức được chia</td><td>-</td><td>9.390.750.000</td></tr><tr><td>Ủy thác xuất khẩu</td><td>-</td><td>52.519.432.511</td></tr><tr><td colspan="3">Công ty Cổ phần Thủy Sản Minh Phú Hậu Giang</td></tr><tr><td>Mua thành phẩm</td><td>2.403.903.902.519</td><td>2.618.678.536.771</td></tr><tr><td>Mua nguyên vật liệu</td><td>2.072.047.536</td><td>19.832.503.189</td></tr><tr><td>Bán thành phẩm</td><td>2.173.461.482.247</td><td>2.667.644.823.992</td></tr><tr><td>Bán nguyên vật liệu</td><td>2.377.628.654</td><td>5.997.822.674</td></tr><tr><td>Cho thuê xe</td><td>1.387.890.000</td><td>3.337.800.200</td></tr><tr><td>Góp vốn</td><td>131.025.630.000</td><td>-</td></tr><tr><td>Cổ tức được chia</td><td>374.359.051.893</td><td>152.550.000.000</td></tr><tr><td>Giảm giá hàng bán</td><td>-</td><td>14.430.091.801</td></tr><tr><td>Chi phí thuê nhà kho</td><td>-</td><td>1.566.760.283</td></tr><tr><td colspan="3">Công ty TNHH Thủy Hải sản Minh Phú – Kiên Giang</td></tr><tr><td>Mua nguyên vật liệu</td><td>972.582.431.190</td><td>505.099.717.306</td></tr><tr><td>Góp vốn</td><td>225.077.760.876</td><td>30.000.000.000</td></tr><tr><td colspan="3">Công ty TNHH Sản xuất Giống Thủy sản Minh Phú</td></tr><tr><td>Góp vốn</td><td>23.833.420.074</td><td>-</td></tr><tr><td colspan="3">Công ty TNHH Nuôi trồng Thủy sản Minh Phú – Lộc An</td></tr><tr><td>Mua nguyên vật liệu</td><td>483.469.107.570</td><td>432.693.342.582</td></tr><tr><td>Góp vốn</td><td>313.315.005.871</td><td>9.565.684.683</td></tr><tr><td>Thu nhập khác</td><td>339.404.276</td><td>-</td></tr></table>
+
+47
+
+107 = 10
+
+===== PAGE 25 =====
+Công ty Cổ phần Tập đoàn Thủy sản Minh Phú
+Thuyết minh báo cáo tài chính riêng cho năm kết thúc ngày 31 tháng 12 năm 2019 (tiếp theo)
+
+Mẫu B 09 - DN
+
+(Ban hành theo Thông tư số 200/2014/TT-BTC ngày 22/12/2014 của Bộ Tài chính)
+
+<table><tr><td></td><td>2019VND</td><td>2018VND</td></tr><tr><td colspan="3">Mseafood Corporation</td></tr><tr><td>Bán thành phẩm</td><td>3.127.773.477.947</td><td>3.594.141.915.130</td></tr><tr><td>Hàng bán bị trả lại</td><td>18.282.656.065</td><td>9.780.303.660</td></tr><tr><td colspan="3">Công ty TNHH MTV Chuỗi Cung ứng Thủy sản Minh Phú</td></tr><tr><td>Mua dịch vụ</td><td>29.636.744.230</td><td>22.705.232.000</td></tr><tr><td>Mua nguyên vật liệu</td><td>3.389.731.530</td><td>-</td></tr><tr><td>Bán nguyên vật liệu</td><td>-</td><td>416.517.500</td></tr><tr><td colspan="3">Công ty TNHH Kho vận Ebisumo</td></tr><tr><td>Bán thành phẩm</td><td>501.404.713.178</td><td>681.992.447.634</td></tr><tr><td>Hàng bán bị trả lại</td><td>389.630.336</td><td>5.904.465.984</td></tr><tr><td>Giảm giá hàng bán</td><td>-</td><td>21.222.261</td></tr><tr><td colspan="3">Công ty TNHH Thực phẩm Minh Phú</td></tr><tr><td>Bán thành phẩm</td><td>97.173.107.655</td><td>56.474.135.174</td></tr><tr><td>Phí dịch vụ bán hàng</td><td>14.478.396.900</td><td>13.117.670.791</td></tr><tr><td>Cung cấp dịch vụ</td><td>226.145.600</td><td>233.297.200</td></tr><tr><td>Hàng bán bị trả lại</td><td>64.208.128</td><td>119.262.499</td></tr><tr><td colspan="3">Công ty Cổ phần Xã hội Chuỗi Tôm Rừng Minh Phú</td></tr><tr><td>Mua nguyên vật liệu</td><td>105.831.696.639</td><td>30.742.145.074</td></tr><tr><td>Phí chứng nhận vùng nuôi tôm</td><td>2.629.068.000</td><td>3.331.748.150</td></tr><tr><td>Góp vốn</td><td>470.000.000</td><td>520.000.000</td></tr><tr><td colspan="3">Công ty Cổ phần Nông nghiệp Công nghệ cao Minh Phú</td></tr><tr><td>Góp vốn</td><td>3.475.000.000</td><td>100.000.000</td></tr><tr><td colspan="3">Công ty Cổ phần Mekong Logistics</td></tr><tr><td>Phí lưu kho, bốc xếp</td><td>45.960.491.878</td><td>27.164.369.385</td></tr><tr><td colspan="3">Công ty Cổ phần Đầu tư Long Phụng</td></tr><tr><td>Thuê văn phòng</td><td>2.905.112.960</td><td>2.582.440.200</td></tr></table>
+
+Các nghiệp vụ với nhân sự chủ chốt
+
+Tổng lương, thường và trợ cấp trả cho các nhân sự chủ chốt trong năm như sau:
+
+<table><tr><td></td><td>2019VND</td><td>2018VND</td></tr><tr><td>Lương, thường và trợ cấp của Ban Giám đốc,Ban Kiểm Soát và Hội đồng Quản trị</td><td>10.664.840.832</td><td>7.400.999.913</td></tr></table>
+
+48
+
+10.1 = 5 ≈ 15
+
+===== PAGE 26 =====
+Công ty Cổ phần Tập đoàn Thủy sản Minh Phú
+Thuyết minh báo cáo tài chính riêng cho năm kết thúc ngày 31 tháng 12 năm 2019 (tiếp theo)
+
+Mẫu B 09 - DN
+
+(Ban hành theo Thông tư số 200/2014/TT-BTC
+
+ngày 22/12/2014 của Bộ Tài chính)
+
+33. Các nghiệp vụ từ hoạt động đầu tư và tài chính phi tiền tệ
+
+<table><tr><td></td><td>31/12/2019VND</td><td>1/1/2019VND</td></tr><tr><td>Chuyển khoản phải thu thương mại từ công ty con thành vốn góp</td><td>97.877.420.897</td><td>-</td></tr><tr><td>Chuyển khoản phải thu khác từ công ty con thành góp vốn</td><td>64.786.684.826</td><td>-</td></tr><tr><td>Phát hành vốn cổ phần từ lợi nhuận giữ lại và thăng dư vốn cổ phần</td><td>-</td><td>684.628.500.000</td></tr><tr><td>Phát hành cổ phiếu thường từ quỹ khen thưởng và phúc lợi</td><td>-</td><td>15.371.500.000</td></tr></table>
+
+34. Các vụ kiện và khiếu nại
+
+Vào ngày 14 tháng 1 năm 2020, Cục Hải quan và Biên phòng Hoa Kỳ (“CBP”) đã gửi “Thông báo bắt đầu điều tra và áp dụng biện pháp tạm thời” cho Mseafood Corporation (“Mseafood”), một công ty con của Công ty tại Hoa Kỳ, sau khi nhận được cáo buộc của Tổ chức “Ủy ban Thực thi Thương mại Tôm Hoa Kỳ” về việc Công ty và các công ty con đã nhập tôm thành phẩm đông lạnh từ Ăn Độ để xuất sang Hoa Kỳ thông qua Mseafood. Theo đó, CBP đã chính thức khởi xưởng cuộc điều tra về cáo buộc trốn thuế chống bán phá giá và áp dụng các biện pháp tạm thời đối với Mseafood. Mục đích của cuộc điều tra là để xác minh nguồn gốc của tôm đông lạnh nhập khẩu bởi Mseafood vào Hoa Kỳ trong giai đoạn từ ngày 18 tháng 9 năm 2018 đến ngày 31 tháng 1 năm 2020.
+
+Tại ngày phát hành báo cáo tài chính riêng này, Mseafood đã tạm nộp khoản thuế chống bán phá giá liên quan đến vụ khiếu nại trên là 1.233.357 USD, tương đương 28,6 tỷ VND cho CPB. Ban Tổng giám đốc tin rằng khoản thuế tạm nộp này sẽ được hoàn lại và Công ty và các công ty con sẽ không phát sinh thêm bắt kỳ nghĩa vụ nào liên quan đến vụ khiếu nại này vì toàn bộ tôm đông lạnh nhập khẩu bởi Mseafood vào Hoa Kỳ trong giai đoạn nói trên được chế biến từ tôm nguyên liệu có nguồn gốc từ Việt Nam. Tuy nhiên, kết quả cuối cùng phụ thuộc vào quyết định của CBP do CBP có toàn quyền chấp nhận hoặc từ chối các hồ sơ và bằng chứng do Mseafood cung cấp. Quyết định cuối cùng của CBP dự kiến sẽ được đưa ra vào tháng 5 hoặc tháng 6 năm 2020.
+
+35. Sự kiện sau ngày trên Bằng cân đối kế toán
+
+Chương trình lựa chọn cho người lao động trong Công ty
+
+Ngày 21 tháng 1 năm 2020, Công ty đã báo cáo kết quả phát hành cổ phiếu theo chương trình lựa chọn cho người lao động trong Công ty đến Ủy ban Chứng khoán Nhà nước. Theo đó, số lượng cổ phiếu phát hành thành công cho người lao động là 467.040 cổ phiếu, tại mức giá phát hành là 10.000 VND mỗi cổ phiếu.
+
+49
+
+“证：证必得”
+
+===== PAGE 27 =====
+Công ty Cổ phần Tập đoàn Thủy sản Minh Phú
+Thuyết minh báo cáo tài chính riêng cho năm kết thúc ngày 31 tháng 12 năm 2019 (tiếp theo)
+
+Mẫu B 09 - DN
+
+(Ban hành theo Thông tư số 200/2014/TT-BTC
+
+ngày 22/12/2014 của Bộ Tài chính)
+
+36. Số liệu so sánh
+
+Số liệu so sánh tại ngày 1 tháng 1 năm 2019 được mang sang từ số liệu trình bày trong báo cáo tài chính riêng của Công ty tại ngày và cho năm kết thúc ngày 31 tháng 12 năm 2018.
+
+50

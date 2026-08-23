@@ -1,0 +1,1393 @@
+===== PAGE 1 =====
+CÔNG TY CÓ PHẦN TẬP ĐOÀN HOA SEN
+
+BÁO CẢO TÀI CHÍNH RIÊNG
+
+CHO NĂM TÀI CHÍNH KẾT THỨC NGÀY 30 THÁNG 9 NĂM 2025
+
+===== PAGE 2 =====
+CÔNG TY CỔ PHẦN TẬP ĐOÀN HOA SEN
+
+BÁO CÁO TÀI CHÍNH RIÊNG
+
+CHO NĂM TÀI CHÍNH KẾT THỨC NGÀY 30 THÁNG 9 NĂM 2025
+
+NỘI DUNG
+
+TRANG
+
+Thông tin về doanh nghiệp 1
+
+Báo cáo của Ban Tổng Giám đốc 2
+
+Báo cáo kiểm toán độc lập 3
+
+Bảng cân đối kế toán riêng (Mẫu số B 01 - DN) 5
+
+Báo cáo kết quả hoạt động kinh doanh riêng (Mẫu số B 02 - DN) 7
+
+Báo cáo lưu chuyển tiền tệ riêng (Mẫu số B 03 - DN) 8
+
+Thuyết minh báo cáo tài chính riêng (Mẫu số B 09 - DN) 9
+
+===== PAGE 3 =====
+CÔNG TY CỔ PHẦN TẬP ĐOẦN HOA SEN
+
+THÔNG TIN VỀ DOANH NGHIỆP
+
+<table><tr><td>Giấy chứng nhậnđăng ký doanh nghiệp</td><td colspan="2">Số 3700381324 do Sở Tài chính Thành phố Hồ Chí Minh (trước đay là Sở Kế hoạch và Đầu tư Tĩnh Bình Dương) cấp lần đầu ngày 8 tháng 8 năm 2001, và Giấy chứng nhận đăng ký doanh nghiệp thay đổi lần thứ 45 ngày 4 tháng 8 năm 2025.</td></tr><tr><td>Hội đồng Quản trị</td><td>Ông Lê Phước VũÔng Trần Ngọc ChuÔng Trần Quốc TrìÔng Lý Văn XuânÔng Đình Việt DuyÔng Nguyễn Văn Luân</td><td>Chủ tịchPhó Chủ tịch Thường trực - Điều hànhThành viên không điều hànhThành viên không điều hànhThành viên độc lậpThành viên độc lập</td></tr><tr><td>Ủy ban Kiểm toán</td><td>Ông Nguyễn Văn LuânÔng Đình Việt DuyÔng Lý Văn Xuân</td><td>Chủ tịchThành viênThành viên</td></tr><tr><td rowspan="5">Ban Tổng Giám đốc</td><td>Ông Vũ Văn ThanhÔng Nguyễn Ngọc HuyÔng Hoàng Đức HuyÔng Trần Quốc PhẩmÔng Nguyễn Tân HòaÔng Nguyễn Minh PhúcÔng Trần Thành NamÔng Trần Đình Tài</td><td>Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốcPhó Tổng Giám đốc(từ ngày 10 tháng 7 năm 2025)Quyền Phó Tổng Giám đốc(đến ngày 10 tháng 7 năm 2025)</td></tr><tr><td>Ông Nguyễn Lê Mạnh Tùng</td><td>Phó Tổng Giám đốc(từ ngày 1 tháng 12 năm 2025)Quyền Phó Tổng Giám đốc(đến ngày 1 tháng 12 năm 2025)</td></tr><tr><td>Ông Nguyễn Trần Đại</td><td>Phó Tổng Giám đốc(từ ngày 1 tháng 12 năm 2025)Quyền Phó Tổng Giám đốc(đến ngày 1 tháng 12 năm 2025)</td></tr><tr><td>Ông Cao Quảng Sang</td><td>Quyền Phó Tổng Giám đốc(từ ngày 24 tháng 2 năm 2025)</td></tr><tr><td>Ông Phạm Định</td><td>Quyền Phó Tổng Giám đốc(đến ngày 15 tháng 4 năm 2025)</td></tr><tr><td>Người đại diện theo pháp luật</td><td>Ông Lê Phước VũÔng Trần Ngọc ChuÔng Vũ Văn Thanh</td><td>Chủ tịch Hội đồng Quản trịPhó Chủ tịch Hội đồng Quản trịTổng Giám đốc</td></tr><tr><td>Trụ sở chính</td><td colspan="2">Số 9, Đại lỗ Thông Nhất, Khu Công nghiệp Sống Thần II, Phường Dĩ An, Thành phố Hồ Chí Minh, Việt Nam</td></tr><tr><td>Công ty kiểm toán</td><td colspan="2">Công ty TNHH PwC (Việt Nam)</td></tr></table>
+
+1
+
+===== PAGE 4 =====
+CÔNG TY CÓ PHẦN TẬP ĐOÀN HOA SEN
+
+BÁO CÁO CỦA BAN TỔNG GIÁM ĐỐC
+
+Trách nhiệm của Ban Tổng Giám đốc đối với Báo cáo Tài chính Riêng
+
+Ban Tổng Giám đốc của Công ty Cổ phần Tập đoàn Hoa Sen ("Công ty") chịu trách nhiệm lập báo cáo tài chính riêng thể hiện trung thực và hợp lý tỉnh hình tài chính riêng của Công ty tại ngày 30 tháng 9 năm 2025, cũng như kết quả hoạt động kinh doanh riêng và tỉnh hình lưu chuyển tiền tệ riêng cho năm tài chính kết thúc cũng ngày nếu trên. Trong việc lập báo cáo tài chính riêng này, Ban Tổng Giám đốc được yêu cầu phải.
+
+- Chơn lựa các chính sách kế toàn phù hợp và áp dụng một cách nhất quản;
+
+- Thực hiện các xét đoán và ước tính một cách hợp lý và thân trong; và
+
+- Lập báo cáo tài chính riêng trên cơ sở Công ty hoạt động liên tục trừ khi giả định Công ty hoạt động liên tục là không phù hợp.
+
+Ban Tổng Giám đốc của Công ty chịu trách nhiệm bảo đảm ràng các số sách kế toán đúng đản đã được thiết lập và duy trì để thể hiện tỉnh hình tài chính riêng của Công ty với độ chính xác hợp lý tại mọi thời điểm và để làm cơ sở lập báo cáo tài chính riêng tuân thủ theo chế độ kế toán được trình bày ở Thuyết minh 2 của bảo cáo tài chính riêng. Ban Tổng Giám đốc của Công ty cũng chịu trách nhiệm đối với việc bảo vệ các tài sản của Công ty và thực hiện các biện pháp hợp lý để ngân ngừa và phát hiện các gian lận hoặc nhằm lẫn.
+
+Phê chuẩn Báo cáo Tài chính Riêng
+
+Theo đây, chúng tôi phê chuẩn báo cáo tài chính riêng định kèm từ trang 5 đến trang 59. Báo cáo tài chính riêng này phần ánh trung thực và hợp lý tính hình tài chính riêng của Công ty tại ngày 30 tháng 9 năm 2025, cũng như kết quả hoạt động kinh doanh riêng và tính hình lưu chuyển tiến tệ riêng cho năm tài chính kết thúc cũng ngày nếu trên, phù hợp với các Chuẩn mực Kế toán Việt Nam, Chế độ Kế toán Doanh nghiệp Việt Nam và các quy định pháp lý có liên quan đến việc lập và trình bày báo cáo tài chính riêng.
+
+Người sử dụng bảo cáo tài chính riêng của Công ty nên đọc cứng với báo cáo tài chính hợp nhất của Công ty và các công ty con (gọi chung là "Tập đoàn") cho nằm tài chính kết thúc ngày 30 tháng 9 năm 2025 để có đủ thông tin về tỉnh hình tài chính hợp nhất, kết quả hoạt động kinh doanh hợp nhất và tỉnh hình lưu chuyển tiền tệ hợp nhất của Tập đoàn.
+
+Vũ Văn Thanh
+
+Tổng Giám đốc
+
+Thành phố Hồ Chí Minh, nước CHXHCN Việt Nam
+
+Ngày 26 tháng 12 năm 2025
+
+2
+
+===== PAGE 5 =====
+pwc
+
+BẢO CẢO KIỂM TOÁN ĐỐC LẬP
+
+GửI CÁC CỔ ĐÔNG CỦA CÔNG TY CỔ PHẦN TẬP ĐOÀN HOA SEN
+
+Chứng tối đã kiểm toán bảo cáo tài chính riêng kém theo của Công ty Cổ phần Tập đoàn Hoa Sen ("Công ty") được lập ngày 30 tháng 9 năm 2025, và được Ban Tổng Giám đốc của Công ty phê chuẩn ngày 26 tháng 12 năm 2025. Báo cáo tài chính riêng này bao gồm: bảng cân đối kế toán riêng tại ngày 30 tháng 9 năm 2025, báo cáo kết quả hoạt động kinh doanh riêng, báo cáo lưu chuyển tiền tệ riêng cho năm tài chính kết thúc cùng ngày nếu trên, và thuyết minh báo cáo tài chính riêng bao gồm các chính sách kế toán chủ yếu từ trang 5 đến trang 59.
+
+Trách nhiệm của Ban Tổng Giám đốc
+
+Ban Tổng Giám đốc của Công ty chịu trách nhiệm về việc lập và trình bày trung thực và hợp lý báo cáo tài chính riêng của Công ty theo các Chuẩn mực Kế toán Việt Nam, Chế độ Kế toán Doanh nghiệp Việt Nam và các quy định pháp lý có liên quan đến việc lập và trình bày báo cáo tài chính riêng và chịu trách nhiệm về kiểm soát nội bộ mà Ban Tổng Giám đốc xác định là cần thiết để đảm bảo cho việc lập và trình bày báo cáo tài chính riêng không có sai sốt trọng yếu do gian lần hoặc nhằm lẫn.
+
+Trách nhiệm của Kiểm toán viên
+
+Trách nhiệm của chúng tôi là đưa ra ý kiến về bảo cáo tài chính riêng này đưa trên kết quả cuộc kiểm toàn. Chứng tôi đã tiến hành kiểm toàn theo các Chuẩn mực Kiểm toán Việt Nam. Các chuẩn mực này yêu cầu chúng tôi tuân thủ chuẩn mực và các quy định về đạo đức nghề nghiệp, lập kế hoạch và thực hiện cuộc kiểm toàn để đạt được sự đảm bảo hợp lý về việc liệu báo cáo tài chính riêng của Công ty có còn sai sót trọng yếu hay không.
+
+Công việc kiểm toán bao gồm thực hiện các thủ tục nhằm thu thập các bằng chứng kiểm toán về các số liệu và thuyết minh trên báo cáo tài chính riêng. Các thủ tục kiểm toán được lựa chọn dựa trên xét đoán của kiểm toán viên, bao gồm đánh giá rủi ro có sai sốt trong yêu trong báo cáo tài chính riêng do gian lận hoặc nhằm lẫn. Khi thực hiện đánh giá các rủi ro này, kiểm toán viên đã xem xét kiểm soát nội bộ của Công ty liên quan đến việc lập và trình bày báo cáo tài chính riêng trung thực và hợp lý nhằm thiết kế các thủ tục kiểm toán phù hợp với tỉnh hình thực tế, tuy nhiên không nhằm mục đích đưa ra ý kiến về hiệu quả của kiểm soát nội bộ của Công ty. Công việc kiểm toán cũng bao gồm việc đánh giá tỉnh thích hợp của các chính sách kế toán được áp dụng và tính hợp lý của các ước tỉnh kế toán của Ban Tổng Giám đốc, cũng như đánh giá việc trình bày tổng thể báo cáo tài chính riêng.
+
+Chủng tối tin tưởng răng các bằng chứng kiểm toán mà chúng tối đã thu thập được là đầy đủ và thích hợp đề làm cơ sở cho ý kiến kiểm toán của chúng tối.
+
+3
+
+Công ty TNHH PwC (Việt Nam)
+
+Số 29. Đường Lê Duân, Phương Sài Gòn,
+
+Thành phố Hồ Chí Minh, Việt Nam
+
++84 (28) 3823 0796
+
+www.pwc.com
+
+©2025 Công ty TNHH PwC (Viết Nam): São lưu moạtín. Trang taí btau nity, “PwC” là Công ty TNHH PwC (Viết Nam): sa trong mont ad brung hop os—the la mang tuchi. PwC, trong đó Cork cóng ty thanh viên la mot pháp nian đó lap na néng belt. Vuz long, truy çập www.pw.comstructure.de belt them chi belt.
+
+===== PAGE 6 =====
+pwc
+
+Ý kiến của Kiểm toán viên
+
+Theo ý kiến của chúng tôi, bảo cáo tài chính riêng đã phần ánh trung thực và hợp lý, trên các khía canh trọng yếu, tỉnh hình tài chính riêng của Công ty tại ngày 30 tháng 9 năm 2025, cũng như kết quả hoạt động kinh doanh riêng và tỉnh hình lưu chuyển tiền tệ riêng của Công ty cho năm tài chính kết thúc cũng ngày nếu trên, phù hợp với các Chuẩn mực Kế toán Việt Nam, Chế độ Kế toán Doanh nghiệp Việt Nam và các quy định pháp lý có liên quan đến việc lập và trình bày báo cáo tài chính riêng.
+
+Thay mặt và đại diện cho Công ty TNHH PwC (Việt Nam)
+
+Pham Tha Hùng
+
+Sơ Giấy CN ĐKHN kiểm toán:
+
+3444-2025-006-1
+
+Chữ ký được ủy quyền
+
+Tràm Tú Mai Anh
+
+Số Giấy CN ĐKHN kiểm toán:
+
+3546-2021-006-1
+
+Số hiệu báo cáo kiểm toán: HCM17539
+
+Thành phố Hồ Chí Minh, ngày 26 tháng 12 năm 2025
+
+4
+
+===== PAGE 7 =====
+CÔNG TY CÓ PHẦN TẬP ĐOÀN HOA SEN
+
+Mẫu số B 01 - DN
+
+BẢNG CẦN ĐỐI KẾ TOÁN RIÊNG
+
+<table><tr><td rowspan="2">Mã số</td><td rowspan="2">TÀI SẢN</td><td rowspan="2">Thuyết minh</td><td colspan="2">Tại ngày</td></tr><tr><td>30.9.2025 VND</td><td>30.9.2024 VND</td></tr><tr><td>100</td><td>TÀI SẢN NGĂN HẠN</td><td></td><td>12.159.635.783.116</td><td>15.547.886.617.815</td></tr><tr><td>110</td><td>Tiền và các khoản tương đương tiền</td><td>3</td><td>357.667.413.204</td><td>427.778.817.941</td></tr><tr><td>111</td><td>Tiền</td><td></td><td>356.796.727.614</td><td>426.922.790.174</td></tr><tr><td>112</td><td>Các khoản tương đương tiền</td><td></td><td>870.685.590</td><td>856.027.767</td></tr><tr><td>120</td><td>Đầu tư tài chính ngắn hạn</td><td></td><td>36.754.243.645</td><td>21.278.737.672</td></tr><tr><td>123</td><td>Đầu tư nắm giữ đến ngày đào hạn</td><td>4(a)</td><td>36.754.243.645</td><td>21.278.737.672</td></tr><tr><td>130</td><td>Các khoản phải thu ngắn hạn</td><td></td><td>7.200.663.747.434</td><td>10.613.408.098.640</td></tr><tr><td>131</td><td>Phải thu ngắn hạn của khách hàng</td><td>5</td><td>5.569.287.972.529</td><td>9.337.308.709.135</td></tr><tr><td>132</td><td>Trả trước cho người bán ngắn hạn</td><td>6(a)</td><td>186.229.022.285</td><td>535.694.209.756</td></tr><tr><td>135</td><td>Phải thu về cho vay ngắn hạn</td><td>7</td><td>426.500.000.000</td><td>374.000.000.000</td></tr><tr><td>136</td><td>Phải thu ngắn hạn khác</td><td>8(a)</td><td>1.019.755.655.039</td><td>366.833.818.035</td></tr><tr><td>137</td><td>Dư phòng phải thu ngắn hạn khó đòi</td><td></td><td>(1.108.902.419)</td><td>(428.638.286)</td></tr><tr><td>140</td><td>Hàng tồn kho</td><td>9</td><td>3.920.784.485.164</td><td>3.943.145.442.782</td></tr><tr><td>141</td><td>Hàng tồn kho</td><td></td><td>3.996.616.719.709</td><td>4.064.994.260.176</td></tr><tr><td>149</td><td>Dư phòng giảm giá hàng tồn kho</td><td></td><td>(75.832.234.545)</td><td>(121.848.817.394)</td></tr><tr><td>150</td><td>Tài sản ngắn hạn khác</td><td></td><td>643.765.893.669</td><td>542.275.520.780</td></tr><tr><td>151</td><td>Chi phí trả trước ngắn hạn</td><td>10(a)</td><td>95.596.663.469</td><td>86.974.686.528</td></tr><tr><td>152</td><td>Thuế giá trị gia tăng (&quot;GTGT&quot;) được khấu trừ</td><td>15(a)</td><td>440.847.931.868</td><td>326.902.155.004</td></tr><tr><td>153</td><td>Thuế và các khoản khác phải thu Nhà nước</td><td>15(b)</td><td>107.321.298.332</td><td>128.398.679.248</td></tr><tr><td>200</td><td>TÀI SẢN DÀI HẠN</td><td></td><td>7.102.493.345.271</td><td>4.763.897.298.254</td></tr><tr><td>210</td><td>Các khoản phải thu dài hạn</td><td></td><td>1.893.574.473.006</td><td>175.741.186.200</td></tr><tr><td>212</td><td>Trả trước cho người bán dài hạn</td><td>6(b)</td><td>1.250.000.000.000</td><td>-</td></tr><tr><td>216</td><td>Phải thu dài hạn khác</td><td>8(b)</td><td>643.574.473.006</td><td>175.741.186.200</td></tr><tr><td>220</td><td>Tài sản cố định</td><td></td><td>955.653.484.918</td><td>844.402.354.164</td></tr><tr><td>221</td><td>Tài sản cố định hữu hình</td><td>11(a)</td><td>752.945.579.741</td><td>666.709.132.303</td></tr><tr><td>222</td><td>Nguyên giả</td><td></td><td>3.858.836.028.832</td><td>3.851.460.375.484</td></tr><tr><td>223</td><td>Giá trị khấu hao lũy kê</td><td></td><td>(3.105.890.449.091)</td><td>(3.184.751.243.181)</td></tr><tr><td>227</td><td>Tài sản cố định vô hình</td><td>11(b)</td><td>202.707.905.177</td><td>177.693.221.861</td></tr><tr><td>228</td><td>Nguyên giả</td><td></td><td>303.859.082.510</td><td>270.506.314.710</td></tr><tr><td>229</td><td>Giá trị khấu hao lũy kê</td><td></td><td>(101.151.177.333)</td><td>(92.813.092.849)</td></tr><tr><td>240</td><td>Tài sản dở dang dài hạn</td><td></td><td>110.687.368.098</td><td>9.027.013.569</td></tr><tr><td>242</td><td>Chi phí xây dựng cơ bản dở dang</td><td>12</td><td>110.687.368.098</td><td>9.027.013.569</td></tr><tr><td>250</td><td>Đầu tư tài chính dài hạn</td><td></td><td>4.009.850.000.000</td><td>3.595.595.087.671</td></tr><tr><td>251</td><td>Đầu tư vào công ty con</td><td>4(b)</td><td>4.009.850.000.000</td><td>3.594.595.087.671</td></tr><tr><td>255</td><td>Đầu tư nằm giữ đến ngày đào hạn</td><td></td><td>-</td><td>1.000.000.000</td></tr><tr><td>260</td><td>Tài sản dài hạn khác</td><td></td><td>132.728.019.249</td><td>139.131.656.650</td></tr><tr><td>261</td><td>Chi phí trả trước dài hạn</td><td>10(b)</td><td>47.991.029.812</td><td>62.373.737.291</td></tr><tr><td>262</td><td>Tài sản thuế thu nhập hoãn lại</td><td>20</td><td>84.736.989.437</td><td>76.757.919.359</td></tr><tr><td>270</td><td>TỔNG TÀI SẢN</td><td></td><td>19.262.129.128.387</td><td>20.311.783.916.069</td></tr></table>
+
+Các thuyết minh từ trang 9 đến trang 59 là một phần cầu thành báo cáo tài chính riêng này.
+
+5
+
+===== PAGE 8 =====
+CÔNG TY CÓ PHẦN TẬP ĐOÀN HOA SEN
+
+Mẫu số B 01 - DN
+
+BẢNG CẦN ĐỐI KẾ TOÁN RIÊNG
+
+(tiếp theo)
+
+<table><tr><td rowspan="2">Mã số</td><td rowspan="2">NGUỒN VỐN</td><td rowspan="2">Thuyết minh</td><td colspan="2">Tại ngày</td></tr><tr><td>30.9.2025VND</td><td>30.9.2024VND</td></tr><tr><td>300</td><td>NỘ PHẢI TRẢ</td><td></td><td>7.228.523.128.673</td><td>8.878.813.931.686</td></tr><tr><td>310</td><td>Nợ ngắn hạn</td><td></td><td>7.214.672.950.257</td><td>8.864.853.420.561</td></tr><tr><td>311</td><td>Phải trả người bán ngắn hạn</td><td>13</td><td>2.094.261.424.739</td><td>2.853.606.214.481</td></tr><tr><td>312</td><td>Người mua trả tiền trước ngắn hạn</td><td>14</td><td>207.055.544.710</td><td>179.999.887.975</td></tr><tr><td>313</td><td>Thuế và các khoản phải nộp Nhà nước</td><td>15(c)</td><td>105.177.573.470</td><td>74.417.109.924</td></tr><tr><td>314</td><td>Phải trả người lao động</td><td></td><td>66.338.867.695</td><td>64.468.071.697</td></tr><tr><td>315</td><td>Chi phí phải trả ngắn hạn</td><td>16</td><td>297.431.231.452</td><td>208.807.717.032</td></tr><tr><td>319</td><td>Phải trả ngắn hạn khác</td><td>17</td><td>149.315.847.668</td><td>137.451.191.503</td></tr><tr><td>320</td><td>Vay và nợ thuê tài chính ngắn hạn</td><td>18</td><td>4.273.038.041.770</td><td>5.310.715.159.144</td></tr><tr><td>322</td><td>Quỹ khen thưởng, phúc lợi</td><td>19</td><td>22.054.418.753</td><td>35.388.068.805</td></tr><tr><td>330</td><td>Nợ dài hạn</td><td></td><td>13.850.178.416</td><td>13.960.511.125</td></tr><tr><td>337</td><td>Phải trả dài hạn khác</td><td></td><td>709.500.000</td><td>709.500.000</td></tr><tr><td>342</td><td>Dư phòng phải trả dài hạn</td><td></td><td>13.140.678.416</td><td>13.251.011.125</td></tr><tr><td>400</td><td>VỐN CHỦ SỞ HỮU</td><td></td><td>12.033.605.999.714</td><td>11.432.969.984.383</td></tr><tr><td>410</td><td>Vốn chủ sở hữu</td><td></td><td>12.033.605.999.714</td><td>11.432.969.984.383</td></tr><tr><td>411</td><td>Vốn góp của chủ sở hữu</td><td>21, 22</td><td>6.209.823.090.000</td><td>6.159.823.090.000</td></tr><tr><td>411a</td><td>- Cổ phiếu phổ thông có quyền biểu quyết</td><td></td><td>6.209.823.090.000</td><td>6.159.823.090.000</td></tr><tr><td>412</td><td>Thắng dư vốn cổ phần</td><td>22</td><td>157.292.539.068</td><td>157.292.539.068</td></tr><tr><td>420</td><td>Quỹ khác thuộc vốn chủ sở hữu</td><td>22</td><td>42.474.414.880</td><td>50.993.213.769</td></tr><tr><td>421</td><td>Lợi nhuận sau thuế (&quot;LNST&quot;)chưa phân phối</td><td>22</td><td>5.624.015.955.766</td><td>5.064.861.141.546</td></tr><tr><td>421a</td><td>- LNST chưa phân phối lũy kécủa các năm trước</td><td></td><td>4.710.184.890.194</td><td>4.576.082.907.573</td></tr><tr><td>421b</td><td>- LNST chưa phân phối của năm nay</td><td></td><td>913.831.065.572</td><td>488.778.233.973</td></tr><tr><td>440</td><td>TỔNG NGUỒN VỐN</td><td></td><td>19.262.129.128.387</td><td>20.311.783.916.069</td></tr></table>
+
+Nguyễn Thị Thanh Tuyên
+Người lập
+
+Nguyễn Thị Ngọc Lan
+Kế toán trưởng
+
+Vũ Văn Thanh
+
+Tổng Giám đốc
+
+Ngày 26 tháng 12 năm 2025
+
+Các thuyết minh từ trang 9 đến trang 59 là một phần cấu thành báo cáo tài chính riêng này.
+
+6
+
+===== PAGE 9 =====
+CÔNG TY CÓ PHẦN TẬP ĐOÀN HOA SEN
+
+Mẫu số B 02 - DN
+
+BÁO CẢO KẾT QUẢ HOẠT ĐỘNG KINH DOANH RIÊNG
+
+<table><tr><td rowspan="2">Mã số</td><td rowspan="2"></td><td rowspan="2">Thuyết minh</td><td colspan="2">Năm tài chính kết thúc ngày</td></tr><tr><td>30.9.2025 VND</td><td>30.9.2024 VND</td></tr><tr><td>01</td><td>Doanh thu bán hàng và cung cấp dịch vụ</td><td></td><td>56.151.873.297.035</td><td>67.051.370.845.971</td></tr><tr><td>02</td><td>Các khoản giảm trừ doanh thu</td><td></td><td>(435.450.431.487)</td><td>(338.823.047.220)</td></tr><tr><td>10</td><td>Doanh thu thuần về bán hàng và cung cấp dịch vụ</td><td>24</td><td>55.716.422.865.548</td><td>66.712.547.798.751</td></tr><tr><td>11</td><td>Giá vốn hàng bán và dịch vụ cung cấp</td><td>25</td><td>(52.849.608.651.606)</td><td>(63.473.799.048.283)</td></tr><tr><td>20</td><td>Lợi nhuận gộp về bán hàng và cung cấp dịch vụ</td><td></td><td>2.866.814.213.942</td><td>3.238.748.750.468</td></tr><tr><td>21</td><td>Doanh thu hoạt động tài chính</td><td>26</td><td>1.236.104.660.111</td><td>652.938.094.707</td></tr><tr><td>22</td><td>Chi phí tài chính</td><td>27</td><td>(261.191.675.193)</td><td>(251.550.025.718)</td></tr><tr><td>23</td><td>- Trong đó: Chi phí lãi vay</td><td>27</td><td>(176.174.297.625)</td><td>(131.805.003.372)</td></tr><tr><td>25</td><td>Chi phí bán hàng</td><td>28</td><td>(2.534.796.640.480)</td><td>(2.858.708.812.560)</td></tr><tr><td>26</td><td>Chi phí quản lý doanh nghiệp</td><td>29</td><td>(422.253.803.611)</td><td>(308.367.699.972)</td></tr><tr><td>30</td><td>Lợi nhuận thuần từ hoạt động kinh doanh</td><td></td><td>884.676.754.769</td><td>473.060.306.925</td></tr><tr><td>31</td><td>Thu nhập khác</td><td></td><td>46.818.153.654</td><td>34.684.261.898</td></tr><tr><td>32</td><td>Chi phí khác</td><td></td><td>(3.559.515.528)</td><td>(5.192.249.642)</td></tr><tr><td>40</td><td>Lợi nhuận khác</td><td>30</td><td>43.258.638.126</td><td>29.492.012.256</td></tr><tr><td>50</td><td>Tổng lợi nhuận kế toán trước thuế</td><td></td><td>927.935.392.895</td><td>502.552.319.181</td></tr><tr><td>51</td><td>Chi phí thuế thu nhập doanh nghiệp (&quot;TNDN&quot;) hiện hành</td><td>31</td><td>(22.083.397.401)</td><td>(99.693.200)</td></tr><tr><td>52</td><td>Thu nhập thuế TNDN hoãn lại</td><td>20, 31</td><td>7.979.070.078</td><td>26.469.681.181</td></tr><tr><td>60</td><td>Lợi nhuận sau thuế TNDN</td><td></td><td>913.831.069.672</td><td>528.922.307.162</td></tr></table>
+
+Nguyễn Thị Thanh Tuyên
+Người lập
+
+Nguyễn Thị Ngọc Lan
+Kế toán trường
+
+Vũ Văn Thanh
+
+Tổng Giám đốc
+
+Ngày 26 tháng 12 năm 2025
+
+Các thuyết minh từ trang 9 đến trang 59 là một phần cấu thành bảo cáo tài chính riêng này.
+
+7
+
+===== PAGE 10 =====
+CÔNG TY CỔ PHẦN TẬP ĐOÀN HOA SEN
+
+Mẫu số B 03 - DN
+
+BÁO CÁO LƯU CHUYÊN TIÊN TỆ RIÊNG
+
+(Theo phương pháp gián tiếp)
+
+<table><tr><td rowspan="2">Mãsố</td><td rowspan="2"></td><td rowspan="2">Thuyếtminh</td><td colspan="2">Năm tài chính kết thúc ngày</td></tr><tr><td>30.9.2025VND</td><td>30.9.2024VND</td></tr><tr><td colspan="5">LUU CHUYÊN TIÊN TỪ HOẠT ĐỘNG KINH DOANH</td></tr><tr><td>01</td><td>Lợi nhuận kể toàn trước thuếĐiều chỉnh cho các khoản:</td><td></td><td>927.935.392.895</td><td>502.552.319.181</td></tr><tr><td>02</td><td>Khẩu hao tài sản cố định (&quot;TSCD&quot;)</td><td>11, 27</td><td>182.926.890.791</td><td>213.396.307.446</td></tr><tr><td>03</td><td>Các khoản hoàn nhập dự phòng</td><td></td><td>(45.446.651.425)</td><td>(5.435.448.472)</td></tr><tr><td>04</td><td>Lỗ chênh lệch tỷ giả hối đoai do đánh giá lại các khoản mục tiên tẻ có gốc ngoại tệ</td><td>27</td><td>3.197.897.048</td><td>4.859.887.308</td></tr><tr><td>05</td><td>Lãi từ hoạt động đầu tư</td><td></td><td>(983.332.706.608)</td><td>(325.217.103.728)</td></tr><tr><td>06</td><td>Chi phí lãi vay</td><td>27</td><td>176.174.297.625</td><td>131.805.003.372</td></tr><tr><td>08</td><td>Lợi nhuận từ hoạt động kinh doanh trước những thay đổi vốn lưu động</td><td></td><td>261.455.120.326</td><td>521.960.965.107</td></tr><tr><td>09</td><td>Giảm/(tăng) các khoản phải thu</td><td></td><td>3.684.192.878.675</td><td>(1.800.373.698.676)</td></tr><tr><td>10</td><td>Giảm/(tăng) hàng tồn kho</td><td></td><td>68.377.540.467</td><td>(188.494.190.075)</td></tr><tr><td>11</td><td>(Giảm)/tăng các khoản phải trả</td><td></td><td>(328.543.355.091)</td><td>274.588.619.440</td></tr><tr><td>12</td><td>Giảm chỉ phí trả trước</td><td></td><td>22.347.325.081</td><td>55.298.002.073</td></tr><tr><td>14</td><td>Tiền lãi vay đã trả</td><td></td><td>(173.813.361.939)</td><td>(131.111.426.969)</td></tr><tr><td>17</td><td>Tiền chi khác từ hoạt động kinh doanh</td><td></td><td>(66.037.545.793)</td><td>(182.993.643.610)</td></tr><tr><td>20</td><td>Lưu chuyển tiền thuần từ hoạt động kinh doanh</td><td></td><td>3.467.978.601.726</td><td>(1.451.125.372.710)</td></tr><tr><td colspan="5">LUU CHUYÊN TIÊN TỪ HOẠT ĐỘNG ĐẦU TƯ</td></tr><tr><td>21</td><td>Tiền chi để mua sắm TSCD và các tài sản dài hạn khác</td><td></td><td>(1.777.222.902.123)</td><td>(560.646.561.404)</td></tr><tr><td>22</td><td>Tiền thu từ thanh lý TSCD</td><td></td><td>27.987.424.703</td><td>36.807.283.700</td></tr><tr><td>23</td><td>Tiền chi cho vay, mua các khoản đầu tư nàm giữ đến ngày đáo hạn</td><td></td><td>(223.475.505.973)</td><td>(288.417.778.768)</td></tr><tr><td>24</td><td>Tiền thu hồi cho vay, bản lại các đầu tư nàm giữ đến ngày đáo hạn</td><td></td><td>156.500.000.000</td><td>28.000.000.000</td></tr><tr><td>25</td><td>Tiền chi đầu tư góp vốn vào công ty con</td><td></td><td>(415.254.912.329)</td><td>(1.500.000.000)</td></tr><tr><td>27</td><td>Tiền thu lãi cho vay, cổ tức và lợi nhuận được chia</td><td></td><td>14.025.676.372</td><td>40.168.882.612</td></tr><tr><td>30</td><td>Lưu chuyển tiền thuần từ hoạt động đầu tư</td><td></td><td>(2.217.440.219.350)</td><td>(745.588.173.860)</td></tr><tr><td colspan="5">LUU CHUYÊN TIÊN TỪ HOẠT ĐỘNG TÀI CHÍNH</td></tr><tr><td>31</td><td>Tiền thu từ phát hành cổ phiếu</td><td></td><td>27.890.000.000</td><td>22.110.000.000</td></tr><tr><td>33</td><td>Tiền thu từ vay ngắn hạn</td><td>18</td><td>27.687.476.327.112</td><td>31.261.321.526.957</td></tr><tr><td>34</td><td>Tiền chi trả nợ gốc vay</td><td>18</td><td>(28.725.153.444.486)</td><td>(28.854.393.170.251)</td></tr><tr><td>36</td><td>Tiền chi trả cổ tức cho chủ sở hữu</td><td>21</td><td>(310.104.306.500)</td><td>(307.574.177.800)</td></tr><tr><td>40</td><td>Lưu chuyển tiền thuần từ hoạt động tài chính</td><td></td><td>(1.319.891.423.874)</td><td>2.121.464.178.906</td></tr><tr><td>50</td><td>Lưu chuyển tiền thuần trong năm</td><td></td><td>(69.353.041.498)</td><td>(75.249.367.664)</td></tr><tr><td>60</td><td>Tiền và tương đương tiền đầu năm</td><td>3</td><td>427.778.817.941</td><td>501.386.999.566</td></tr><tr><td>61</td><td>Ảnh hưởng của thay đổi tỷ giả hối đoai quy đổi ngoại tệ</td><td></td><td>(758.363.239)</td><td>1.641.186.039</td></tr><tr><td>70</td><td>Tiền và tương đương tiền cuối năm</td><td>3</td><td>357.667.413.204</td><td>427.778.817.941</td></tr></table>
+
+Các thông tin bổ sung cho các khoản mục trong bảo cáo lưu chuyển ten<|vision_start|> Morocco được trình bày tai Thuyết minh 33.
+
+Nguyễn Thị Thanh Tuyên
+Người lập
+
+Tổng Giám đốc
+
+Ngày 26 tháng 12 năm 2025
+
+Các thuyết minh từ trang 9 đến trang 59 là một phần cấu thành báo cáo tài chính riêng này.
+
+8
+
+===== PAGE 11 =====
+CÔNG TY CÓ PHẦN TẬP ĐOÀN HOA SEN
+
+Mẫu số B 09 - DN
+
+THUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG
+CHO NĂM TÀI CHÍNH KẾT THỨC NGÀY 30 THÁNG 9 NĂM 2025
+
+1 ĐẶC ĐIỂM HOẠT ĐỘNG CỦA CÔNG TY
+
+Công ty Cổ phần Tập đoàn Hoa Sen ("Công ty") là một công ty cổ phần được thành lập tại nước CHXHCN Việt Nam theo Giấy chứng nhận đăng ký doanh nghiệp số 3700381324 do Sở Tài chính Thành phố Hồ Chí Minh (trước đây là Sở Kế hoạch và Đầu tư Tĩnh Bình Dương) cấp ngày 8 tháng 8 năm 2001 và Giấy chứng nhận đăng ký doanh nghiệp thay đổi gần nhất lần thứ 45 ngày 4 tháng 8 năm 2025.
+
+Cổ phiếu của Công ty đã chính thức giao dịch tại Sở Giao dịch Chứng khoán Thành phố Hồ Chí Minh kể từ ngày 5 tháng 12 năm 2008 với mã giao dịch cổ phiếu là "HSG" theo Quyết định số 117/QĐ-SGDHCM do Giám đốc Sở Giao dịch Chứng khoán Thành phố Hồ Chí Minh ký ngày 5 tháng 11 năm 2008.
+
+Hoạt động chính của Công ty bao gồm:
+
+- Sản xuất tâm lợp bằng thép mã kẽm, hợp kim nhôm kẽm, mã kẽm phủ sơn, và mã các loại hợp kim khác;
+
+- Sản xuất xà gồ thép, xà gồ mạ kẽm;
+
+- Sản xuất ống thép đen, ống thép mạ kẽm, ống thép mạ các loại hợp kim khác;
+
+- Sản xuất lưới thép mạ, dây thép mạ kẽm, dây thép các loại;
+
+- Mua bán vật liệu xây dựng, tư liệu sản xuất và hàng tiêu dùng;
+
+• Dịch vụ cho thuê kho và vận tải hàng hóa;
+
+• Xây dựng công nghiệp và dân dụng; và
+
+- Sản xuất thép cán người dạng cuộn và cho thuê máy móc, thiết bị và đồ dùng hữu hình khác.
+
+Chu kỳ sản xuất kinh doanh thông thường của Công ty là 12 tháng.
+
+Tại ngày 30 tháng 9 năm 2025 Công ty có 5.324 nhân viên (tại ngày 30 tháng 9 năm 2024: 5.294 nhân viên).
+
+Thông tin so sánh tai ngày 30 tháng 9 năm 2024 được mang sang từ số liệu trình bày trong báo cáo tài chính riêng cho năm tài chính kết thúc ngày 30 tháng 9 năm 2024 đã được kiểm toán.
+
+9
+
+===== PAGE 12 =====
+CÔNG TY CÓ PHẦN TẬP ĐOÀN HOA SEN
+
+ĐẠC ĐIỂM HOẠT ĐỘNG CỦA CỔNG TY (tiếp theo)
+
+Tai ngày 30 tháng 9 năm 2025 và ngày 30 tháng 9 năm 2024, Công ty có 9 công ty con và 2 công ty liên kết như được trình bày trong Thuyết minh 4(b) - Đầu tư góp vốn vào đơn vị khác Chi tiết như sau:
+
+<table><tr><td rowspan="2">Tên</td><td rowspan="2">Hoạt động chính</td><td rowspan="2">Nơi thành lập,dăng ký hoạt động (*)</td><td colspan="2">Tại ngày 30.9.2025</td><td colspan="2">Tại ngày 30.9.2024</td></tr><tr><td>Tỷ lệsở hữu%</td><td>Tỷ lệ quyềnbiểu quyết%</td><td>Tỷ lệsở hữu%</td><td>Tỷ lệ quyềnbiểu quyết%</td></tr><tr><td colspan="7">Công ty con</td></tr><tr><td>Công ty Trách nhiệm hữu hạn Một thành viênHoa Sen Nghệ An</td><td>Sản xuất và kinh doanh tấm lợp bằngkim loại và các sản phẩm ống thép.</td><td>Tỉnh Nghệ An</td><td>100</td><td>100</td><td>100</td><td>100</td></tr><tr><td>Công ty Trách nhiệm hữu hạn Một thành viênHoa Sen Nhom Hội - Bình Định</td><td>Sản xuất và kinh doanhcác sản phẩm tấm lợp kim loại.</td><td>Tỉnh Gia Lai</td><td>100</td><td>100</td><td>100</td><td>100</td></tr><tr><td>Công ty TNHH Một thành viên Tôn Hoa Sen</td><td>Sản xuất và kinh doanhcác sản phẩm thép cán nguội.</td><td>Thành phốHồ Chí Minh</td><td>100</td><td>100</td><td>100</td><td>100</td></tr><tr><td>Công ty TNHH Một thành viên Hoa Sen Phú Mỹ (i)</td><td>Sản xuất và kinh doanh các sản phẩmống thép.</td><td>Thành phốHồ Chí Minh</td><td>100</td><td>100</td><td>100</td><td>100</td></tr><tr><td>Công ty Trách nhiệm hữu hạn Một thành viênHoa Sen Hà Nam</td><td>Sản xuất và kinh doanh các sản phẩmống thép.</td><td>Tỉnh Hà Nam</td><td>100</td><td>100</td><td>100</td><td>100</td></tr><tr><td>Công ty Cổ phần Nhưa Hoa Sen</td><td>Sản xuất và kinh doanh vật liệuxây dựng bằng nhưa.</td><td>Thành phốHồ Chí Minh</td><td>99,95</td><td>99,95</td><td>99,95</td><td>99,95</td></tr><tr><td>Công ty TNHH Mốt thành viên Hoa Sen Bình Định</td><td>Sản xuất và kinh doanh các sản phẩmống thép.</td><td>Tỉnh Gia Lai</td><td>100</td><td>100</td><td>100</td><td>100</td></tr><tr><td>Công ty Cổ phần Hoa Sen Yên Bải (ii)</td><td>Kinh doanh khách sạn, dịch vụ ăn uốngvà khu trung tâm thương mại.</td><td>Tỉnh Lao Cai</td><td>97,26</td><td>97,26</td><td>97,26</td><td>97,26</td></tr><tr><td>Công ty Trách nhiệm hữu hạn Một thành viênVật liệu Xây dựng Hoa Sen Yên Bải</td><td>Sản xuất và kinh doanhcác sản phẩm ống thép.</td><td>Tỉnh Lao Cai</td><td>100</td><td>100</td><td>100</td><td>100</td></tr><tr><td colspan="7">Công ty liên kết</td></tr><tr><td>Công ty Cổ phần Cảng Quốc tế Hoa Sen (iii)</td><td>Hoạt động dịch vụ hỗ trợ khácliên quan tới văn tải.</td><td>Thành phốHồ Chí Minh</td><td>49</td><td>49</td><td>49</td><td>49</td></tr><tr><td>Công ty Cổ phần Hoa Sen Sài Gòn</td><td>Hoạt động kinh doanh bất động sản.</td><td>Thành phốHồ Chí Minh</td><td>40</td><td>40</td><td>40</td><td>40</td></tr></table>
+
+Tại ngày 30 tháng 9 năm 2025 và ngày 30 tháng 9 năm 2024, Công ty có 63 chỉ nhánh.
+
+(*) Nơi thành lập, đăng ký hoạt động đã được cấp nhất theo đơn vị hành chính cấp tính từ ngày 1 tháng 7 năm 2025.
+
+10
+
+===== PAGE 13 =====
+CÔNG TY CÓ PHẦN TẬP ĐOÀN HOA SEN
+
+Mẫu số B 09 - DN
+
+1 ĐẶC ĐIỂM HOẠT ĐỘNG CỦA CÔNG TY (tiếp theo)
+
+Thông tin các giao dịch đầu tư vào công ty con và công ty liên kết chủ yếu trong năm tài chính kết thúc ngày 30 tháng 9 năm 2025 như sau:
+
+(i) Theo Nghị quyết Hội đồng Quản trị số 52/NQ/HDQT/2024 ngày 22 tháng 11 năm 2024, Hội đồng Quản trị đã thông qua chủ trương góp thêm vốn điều lệ của Công ty TNHH Một thành viên Hoa Sen Phú Mỹ là 320.000.000.000 Đồng, nhằm bổ sung nguồn vốn cho việc mở rộng sản xuất và phục vụ hoạt động sản xuất kinh doanh của Công ty. Theo Quyết định Hội đồng Quản trị số 114/QĐ/HDQT/2024 ngày 26 tháng 11 năm 2024, Công ty đã góp thêm vốn điều lệ cho công ty con này là 320.000.000.000 Đồng.
+
+(iii) Theo Nghị quyết Hội đồng Quản trị số 15/NQ/HDQT/2024 ngày 7 tháng 5 năm 2024, Hội đồng Quản trị đã thông qua chủ trương góp thêm vốn điều lệ của Công ty Cổ phần Hoa Sen Yên Bái là 200.000.000.000 Đồng, nhằm phục vụ hoạt động sản xuất kinh doanh và triển khai Dư án Khách sạn Yên Bái. Trong niên độ tài chính ("NĐTC") kết thúc ngày 30 tháng 9 năm 2025, Công ty đã góp thêm là 95.254.912.329 Đồng. Trong năm tài chính kết thúc ngày 30 tháng 9 năm 2024, Công ty đã góp bằng tiền là 1.500.000.000 Đồng, chuyển đổi khoản cho vay dài hạn thành vốn góp là 4.200.000.000 Đồng và chuyển đổi lãi phải thu từ cho vay thành vốn góp vốn điều lệ cho công ty con này là 45.087.671 Đồng.
+
+(iii) Ngày 3 tháng 10 năm 2025, Đại hội đồng cổ đông của Công ty Cổ phần Cảng Quốc tế Hoa Sen đã thông qua Nghị quyết số 01/NQ/ĐHĐCD/HSP/2025 về việc giải thể Công ty Cổ phần Cảng Quốc tế Hoa Sen.
+
+2 CÁC CHÍNH SÁCH KÉ TOÁN CHỦ YẾU
+
+2.1 Cơ sở của việc lập bảo cáo tài chính riêng
+
+Bảo cáo tài chính riêng đã được lập theo các Chuẩn mực Kế toán Việt Nam, Chế độ Kế toán Doanh nghiệp Việt Nam và các quy định pháp lý có liên quan đến việc lập và trình bày báo cáo tài chính riêng. Bảo cáo tài chính riêng được lập theo nguyên tắc giá gốc.
+
+Bảo cáo tài chính riêng kèm theo không nhằm mục đích trình bày tỉnh hình tại chính riêng, kết quả hoạt động kinh doanh riêng và tỉnh hình lưu chuyển tiền tệ riêng theo các nguyên tắc và thông lệ kể toán thường được chấp nhận ở các nước và các thể chế khác ngoài nước Việt Nam. Các nguyên tắc và thông lệ kể toán sử dụng tại nước Việt Nam có thể khác với các nguyên tắc và thông lệ kể toán tại các nước và các thể chế khác.
+
+Ngoài ra, Công ty cũng đã soạn lập báo cáo tài chính hợp nhất của Công ty và các công ty con (goi chung là “Tập đoàn”) theo các Chuẩn mực Kế toán Việt Nam, Chế độ Kế toán Doanh nghiệp Việt Nam và các quy định pháp lý có liên quan đến việc lập và trình bày báo cáo tài chính hợp nhất. Trong báo cáo tài chính hợp nhất, các công ty con là những công ty mà Tập đoàn kiểm soát các chính sách hoạt động và tài chính đã được hợp nhất đầy đủ.
+
+Người sử dụng báo cáo tài chính riêng của Công ty nên đọc cũng với bảo cáo tài chính hợp nhất của Tập đoàn cho năm tài chính kết thúc ngày 30 tháng 9 năm 2025 để có đủ thông tin về tỉnh hình tài chính hợp nhất, kết quả hoạt động kinh doanh hợp nhất và tỉnh hình lưu chuyển tiền tệ hợp nhất của Tập đoàn.
+
+11
+
+===== PAGE 14 =====
+CÔNG TY CỔ PHẦN TẬP ĐOẦN HOA SEN
+
+Mẫu số B 09 - DN
+
+2 CÁC CHÍNH SÁCH KÊ TOÁN CHỦ YỀU (tiếp theo)
+
+2.2 Năm tài chính
+
+Năm tài chính của Công ty bất đầu từ ngày 1 tháng 10 đến ngày 30 tháng 9.
+
+2.3 Đơn vị tiền tệ sử dụng trong kế toán
+
+Công ty sử dụng đơn vị tiền tê trong kế toán và trình bày trên báo cáo tài chính riêng là Đồng Việt Nam ("VND" hoặc "Đồng").
+
+2.4 Các loại tỷ giá hối đoái áp dụng trong kế toán
+
+Các nghiệp vụ phát sinh bằng ngoại tệ được quy đổi theo tỷ giá giao dịch thực tế áp dụng tại ngày phát sinh nghiệp vụ. Chênh lệch tỷ giá phát sinh từ các nghiệp vụ này được ghi nhận là thu nhập hoặc chỉ phí trong báo cáo kết quả hoạt động kinh doanh riêng.
+
+Tài sản và nợ phải trả bằng tiền tệ có gốc ngoại tệ tại ngày của bảng cân đối kế toán riêng lần lượt được quy đổi theo tỷ giá mua và tỷ giá bán ngoại tệ của ngân hàng thương mại nơi Công ty thường xuyên có giao dịch áp dụng tại ngày bảng cân đối kế toán riêng. Các khoản ngoại tệ gửi ngân hàng tại ngày của bảng cân đối kế toán riêng được quy đổi theo tỷ giá mua của chính ngân hàng thương mại nơi Công ty mở tài khoản ngoại tệ. Chênh lệch tỷ giá phát sinh từ việc quy đổi này được ghi nhận là thu nhập hoặc chi phí trong báo cáo kết quả hoạt động kinh doanh riêng.
+
+2.5 Tiền và các khoản tương đương tiền
+
+Tiền và các khoản tương đương tiền bao gồm tiền mặt tai quỹ, tiền gửi ngân hàng không kỳ hạn, tiền đang chuyển và các khoản đầu tư ngân hạn khác có thời hạn đảo hạn ban đầu không quá ba tháng.
+
+2.6 Các khoản phải thu
+
+Các khoản phải thu thể hiện giả trị ghi số của các khoản phải thu khách hàng gồm các khoản phải thu mang tỉnh chất thương mại phát sinh từ giao dịch bán hàng hóa, cung cấp dịch vụ; và các khoản phải thu khác không có tỉnh chất thương mại, không liên quan đến giao dịch bán hàng hóa và cung cấp dịch vụ. Dự phòng các khoản phải thu khó đòi được lập cho từng khoản phải thu căn cứ vào thời gian quá hạn trả nợ gốc theo cam kết nợ ban đầu (không tính đến việc gia hạn nợ giữa các bên), hoặc căn cứ vào mức tổn thất ước tỉnh có thể xảy ra. Chênh lệch giữa khoản dự phòng phải lập ở cuối năm tài chính này và khoản dự phòng đã lập ở cuối năm tài chính trước được ghi nhận tăng hoặc giảm chi phí quản lý doanh nghiệp trong năm tài chính. Các khoản phải thu được xác định là không thể thu hồi sẽ được xóa số.
+
+Các khoản phải thu được phân loại ngắn hạn và dài hạn trên bằng cân đối kế toán riêng cản cứ theo kỳ hạn còn lại của các khoản phải thu tai ngày của bằng cân đối kế toán riêng tới ngày đến hạn thu hồi.
+
+12
+
+===== PAGE 15 =====
+CÔNG TY CỔ PHẦN TẬP ĐOÀN HOA SEN
+
+Mẫu số B 09 - DN
+
+2 CÁC CHÍNH SÁCH KÊ TOÂN CHỦ YÉU (tiếp theo)
+
+2.7 Hàng tồn kho
+
+Hàng tồn kho được thể hiện theo giá thấp hơn giữa giá gốc và giá trị thuần có thể thực hiện được. Giá gốc được xác định trên cơ sở bình quân gia quyền và bao gồm tất cả các chi phí mua, chi phí chế biến và các chi phí liên quan trực tiếp khác phát sinh để có được hàng tồn kho ở địa điểm và trạng thái hiện tại. Trong trường hợp các sản phẩm được sản xuất, giá gốc bao gồm tất cả các chi phí trực tiếp và chi phí sản xuất chung dựa trên mức độ hoạt động bình thường. Giá trị thuần có thể thực hiện được là giả bán ước tính của hàng tồn kho trong năm tài chính kinh doanh bình thường trừ chi phí ước tính để hoàn thành sản phẩm và chi phí ước tỉnh cần thiết cho việc tiêu thụ.
+
+Công ty áp dung phương pháp kê khai thường xuyên để hach toán hàng tồn kho.
+
+Dư phòng được lập cho hàng tồn kho bị lỗi thời và bị hỏng. Chênh lệch giữa khoản dự phòng phải lập ở cuối năm tài chính này và khoản dự phòng đã lập ở cuối năm tài chính trước được ghi nhận tăng hoặc giảm giá vốn hàng bán trong năm tài chính.
+
+2.8 Đầu tư tài chính
+
+(a) Đầu tư nấm giữ đến ngày đào hạn
+
+Các khoản đầu tư nắm giữ đến ngày đáo hạn là các khoản đầu tư mà Công ty có ý định và có khả năng giữ đến ngày đáo hạn.
+
+Các khoản đầu tư nằm giữ đến ngày đáo hạn bao gồm các khoản tiền gửi ngân hàng có kỳ hạn. Các khoản đầu tư này ban đầu được ghi nhận theo giá gốc. Sau đó, Ban Tổng Giám đốc thực hiện việc rà soát đối với tất cả các khoản đầu tư để ghi nhận dự phòng vào cuối năm tài chính.
+
+Dư phòng giảm giá đầu tư nằm giữ đến ngày đảo hạn được lập trên cơ sở có bằng chứng chắc chắn cho thấy một phần hoặc toàn bộ khoản đầu tư có thể không thu hồi được. Chênh lệch giữa khoản dự phòng lập ở cuối năm tài chính này và khoản dự phòng đã lập ở cuối năm tài chính trước được ghi nhận tăng hoặc giảm chí phí tài chính trong năm tài chính. Khoản dự phòng được hoàn nhập không vượt quá giá trị ghi sổ ban đầu.
+
+Các khoản đầu tư nằm giữ đến ngày đáo hạn được phân loại ngắn hạn và dài hạn trên bảng cân đối kế toán riêng cần cứ theo kỳ hạn còn lại của các khoản đầu tư nằm giữ đến ngày đáo hạn tại ngày của bảng cân đối kế toán riêng đến ngày đáo hạn.
+
+(b) Đầu tư vào công ty con
+
+Công ty con là những doanh nghiệp mà Công ty có quyền chi phối các chính sách tài chính và hoạt động của doanh nghiệp nhằm thu được lợi ích kinh tế từ các hoạt động của doanh nghiệp đó, thường đi kèm là việc nằm giữ hơn một nửa quyền biểu quyết. Sự tồn tai và tính hữu hiệu của quyền biểu quyết tiềm năng đang được thực thi hoặc được chuyển đổi sẽ được xem xét khi đánh giá liệu Công ty có quyền kiểm soát doanh nghiệp hay không.
+
+Đầu tư vào công ty con được ghi nhận ban đầu theo giả gốc, cộng các chi phí liên quan trực tiếp đến việc đầu tư. Sau đó, Ban Tổng Giám đốc thực hiện việc rà soát đối với tất cả các khoản đầu tư để ghi nhận dự phòng vào cuối năm tài chính.
+
+13
+
+===== PAGE 16 =====
+CÔNG TY CỔ PHẦN TẬP ĐOÀN HOA SEN
+
+Mẫu số B 09 - DN
+
+2 CÁC CHÍNH SÁCH KÊ TOÁN CHỦ YẾU (tiếp theo)
+
+2.8 Đầu tư tài chính (tiếp theo)
+
+(c) Đầu tư vào công ty liên kết
+
+Công ty liên kết là công ty trong đó Công ty có ảnh hưởng đáng kể nhưng không phải kiểm soát, thường được thể hiện thông qua việc nằm giữ từ 20% đến 50% quyền biểu quyết ở các công ty đó.
+
+Đầu tư vào các công ty liên kết được ghi nhận ban đầu theo giá gốc, bao gồm giá mua hoặc giá trị góp vốn cộng các chi phí liên quan trực tiếp đến việc đầu tư. Sau đó, Ban Tổng Giám đốc thực hiện việc rà soát đối với tất cả các khoản đầu tư để ghi nhận dự phòng vào cuối năm tài chính.
+
+(d) Dự phòng giảm giả đầu tư vào công ty con và công ty liên kết
+
+Dự phòng giảm giá đầu tư vào công ty con và công ty liên kết được lập vào cuối năm tài chính khi có sự giảm giá trị của các khoản đầu tư.
+
+Dự phòng giảm giá đầu tư vào công ty con và công ty liên kết là khoản dự phòng tổn thất do công ty con, công ty liên kết bị lỗ dẫn đến Công ty có khả năng mất vốn hoặc do suy giảm giá trị các khoản đầu tư vào công ty con và công ty liên kết.
+
+Chênh lệch giữa khoản dự phòng lập ở cuối năm tài chính này và khoản dự phòng đã lập ở cuối năm tài chính trước được ghi nhận tăng hoặc giảm chi phí tài chính trong năm tài chính. Khoản dự phòng được hoàn nhập không vượt quá giá trị ghi số ban đầu.
+
+2.9 Cho vay
+
+Cho vay là các khoản cho vay với mục đích thu lãi hàng kỳ theo khế ước giữa các bên nhưng không được giao dịch mua, bán trên thị trường như chứng khoản.
+
+Cho vay được ghi nhận ban đầu theo giả gốc. Sau đó, Ban Tổng Giám đốc thực hiện việc ra soát đối với tất cả các khoản còn chưa thu để ghi nhận dự phòng các khoản cho vay khó đòi vào cuối năm tài chính. Dự phòng các khoản cho vay khó đòi được lập cho từng khoản cho vay căn cứ vào thời gian quá hạn trả nợ gốc theo cam kết nợ ban đầu (không tính đến việc gia hạn nợ giữa các bên), hoặc căn cứ vào mức tổn thất ước tính có thể xảy ra. Chênh lệch giữa khoản dự phòng lập ở cuối năm tài chính này và khoản dự phòng đã lập ở cuối năm tài chính trước được ghi nhân tăng hoặc giảm chỉ phí tài chính trong năm tài chính. Khoản dự phòng được hoàn nhập không vượt quá giá trị ghi số ban đầu.
+
+Cho vay được phân loại ngắn hạn và dài hạn trên bằng cân đối kế toán riêng cản cử theo kỳ hạn còn lại của các khoản cho vay tại ngày của bằng cân đối kế toán riêng đến ngày tới hạn thu hồi.
+
+14
+
+===== PAGE 17 =====
+CÔNG TY CỔ PHẦN TẬP ĐOÀN HOA SEN
+
+Mẫu số B 09 - DN
+
+2 CÁC CHÍNH SÁCH KÉ TOÁN CHỦ YẾU (tiếp theo)
+
+2.10 Tài sản cố định ("TSCĐ")
+
+TSCĐ hữu hình và TSCĐ vô hình
+
+TSCĐ được phần ảnh theo nguyên giá trừ khấu hao lũy kế. Nguyên giá bao gồm các chi phí liên quan trực tiếp đến việc có được TSCĐ ở trạng thái sản sáng sử dụng. Các chi phí phát sinh sau ghi nhận ban đầu chỉ được ghi tăng nguyên giá TSCĐ nếu các chi phí này chắc chắn làm tăng lợi ích kinh tế trong tương lai do sử dụng tài sản đó. Các chi phí phát sinh không thỏa mãn điều kiện trên được ghi nhận là chỉ phí sản xuất, kinh doanh trong năm tài chính.
+
+Khâu hao
+
+TSCĐ được khấu hao theo phương pháp đường thẳng để giảm dần giá trị phải khấu hao trong suốt thời gian sử dụng hữu ích ước tính. Giá trị phải khấu hao là nguyên giá của TSCĐ ghi trên báo cáo tài chính riêng trừ đi (-) giá trị thanh lý ước tính của tài sản đó. Thời gian sử dụng hữu ích ước tính của các nhóm tài sản như sau:
+
+<table><tr><td>Nhà cửa, vật kiến trúc</td><td>5 - 30 năm</td></tr><tr><td>Máy móc thiết bị</td><td>3 - 10 năm</td></tr><tr><td>Phương tiện vận tải</td><td>2 - 10 năm</td></tr><tr><td>Thiết bị quản lý</td><td>3 - 10 năm</td></tr><tr><td>TSCĐ khác</td><td>5 - 8 năm</td></tr><tr><td>Quyền sử dụng đất</td><td>14 - 50 năm</td></tr><tr><td>Phần mềm máy tính</td><td>3 - 6 năm</td></tr></table>
+
+Quyền sử dụng đất bao gồm quyền sử dụng đất nhân chuyển nhượng hợp pháp và tiền sử dụng đất đã trả trước cho các hợp đồng thuê đất có hiệu lực trước ngày hiệu lực của luật đất đai 2003 (tức là ngày 1 tháng 7 năm 2004) và được cấp Giấy chứng nhận quyền sử dụng đất.
+
+Quyền sử dụng đất có thời hạn được phần ánh theo nguyên giá trừ khấu hao lũy kê. Nguyên giá của quyền sử dụng đất bao gồm giá mua và các chi phí liên quan trực tiếp đến việc có được quyền sử dụng đất. Quyền sử dụng đất được khấu hao theo phương pháp đường thẳng trong suốt thời hạn của quyền sử dụng đất.
+
+Quyền sử dụng đất không có thời hạn được ghi nhận theo nguyên giá và không khấu hao.
+
+Thanh lý
+
+Lãi hoặc lỗ phát sinh do thanh lý, nhượng bán TSCĐ được xác định bằng số chênh lệch giữa số tiền thu thuần do thanh lý với giá trị còn lại của TSCĐ và được ghi nhận là thu nhập hoặc chi phí trong báo cáo kết quả hoạt động kinh doanh riêng.
+
+15
+
+===== PAGE 18 =====
+CÔNG TY CỔ PHẦN TẬP ĐOÀN HOA SEN
+
+Mẫu số B 09 - DN
+
+2 CÁC CHÍNH SÁCH KẾ TOÁN CHỦ YẾU (tiếp theo)
+
+2.10 Tài sản cố định ("TSCD") (tiếp theo)
+
+Chi phí xây dựng cơ bản dở dang
+
+Chi phí xây dựng cơ bản dở dang thể hiện giá trị của các tài sản đang trong quá trình lập đặt hoặc xây dựng phục vụ mục đích sản xuất, cho thuê hoặc quản trị, hoặc cho bắt kỳ mục đích nào khác, được ghi nhận theo giá gốc, bao gồm toàn bộ chi phí cần thiết để xây dựng mới hoặc sửa chữa, cải tạo, mở rộng hay trang bị lại kỹ thuật công trình như chi phí xây dựng; chi phí thiết bị; chi phí quản lý dự án; chi phí tư vấn đầu tư xây dựng; và chi phí vay được vốn hóa đối với tài sản đủ điều kiện phù hợp với chính sách kế toán của Công ty. Khấu hao của những tài sản này, cũng giống như các loại TSCĐ khác, sẽ bắt đầu được trích khi tài sản đã sản sàng cho mục đích sử dụng.
+
+2.11 Thuê tài sản
+
+Thuê hoạt động là loai hình thuê TSCĐ mà phần lớn rủi ro và lợi ích gần liền với quyền sở hữu của tài sản thuộc về bên cho thuê. Khoản thanh toán dưới hình thức thuê hoạt động được hạch toán vào báo cáo kết quả hoạt động kinh doanh riêng theo phương pháp đường thẳng dựa trên thời hạn thuê hoạt động.
+
+2.12 Chi phi trả trước
+
+Chi phí trả trước bao gồm chi phí trả trước ngắn hạn và chi phí trả trước dài hạn trên bằng cân đối kế toán riêng. Chi phí trả trước ngắn hạn phần ánh số tiền trả trước để được cung cấp dịch vụ, hoặc các công cụ, dụng cụ không thỏa mãn điều kiện ghi nhận TSCĐ trong khoảng thời gian không quá 12 tháng hoặc một chu kỳ sản xuất kinh doanh kể từ ngày trả trước. Chi phí trả trước dài hạn phần ánh số tiền trả trước để được cung cấp dịch vụ, hoặc các công cụ, dụng cụ không thỏa mãn điều kiện ghi nhận TSCĐ có thời hạn trên 12 tháng hoặc hơn một chu kỳ sản xuất kinh doanh kể từ ngày trả trước. Các khoản chi phí trả trước này được ghi nhận theo giá gốc và được phân bổ theo phương pháp đường thẳng dưa trên thời gian hữu dụng ước tính.
+
+Tiền thuê đất trả trước cho các hợp đồng thuê đất không được ghi nhận vào TSCĐ vô hình theo chính sách kế toán số 2.10 thì ghi nhận vào chi phí trả trước và được phân bổ theo phương pháp đường thẳng theo thời hạn thuê trả trước.
+
+2.13 Nợ phải trả
+
+Các khoản nợ phải trả được phân loại dựa vào tỉnh chất bao gồm:
+
+- Phải trả người bán gồm các khoản phải trả mang tỉnh chất thương mại phát sinh từ giao dịch mua hàng hóa và dịch vụ; và
+
+- Phải trả khác gồm các khoản phải trả không có tính chất thương mại và không liên quan đến giao dịch mua hàng hóa và dịch vụ.
+
+Các khoản nợ phải trả được phân loại ngân han và dài hạn trên bảng cân đối kế toán riêng cản cứ theo kỳ hạn còn lại của các khoản nợ phải trả tại ngày của bảng cân đối kế toán riêng tới ngày đến hạn thanh toán.
+
+16
+
+===== PAGE 19 =====
+CÔNG TY CỔ PHẦN TẬP ĐOÀN HOA SEN
+
+Mẫu số B 09 - DN
+
+2 CÁC CHÍNH SÁCH KẾ TOÁN CHỦ YẾU (tiếp theo)
+
+2.14 Vay
+
+Vay bao gồm các khoản tiền vay từ các ngân hàng.
+
+Các khoản vay được phân loại ngắn hạn và dài hạn trên bằng cân đối kế toán riêng cản cứ theo kỳ hạn còn lại của các khoản vay tại ngày của bằng cân đối kế toán riêng tới ngày đến hạn thanh toán.
+
+Chi phí đi vay được ghi nhận trong bảo cáo kết quả hoạt động kinh doanh riêng khi phát sinh.
+
+2.15 Chi phí phải trả
+
+Chi phí phải trả bao gồm các khoản phải trả cho hàng hóa, dịch vụ đã nhận được từ người bán trong năm tài chính nhưng thực tế chưa chi trả do chưa có hóa đơn hoặc chưa đủ hồ sơ, tài liệu kế toán, được ghi nhân vào chi phí sản xuất kinh doanh của năm tài chính.
+
+2.16 Các khoản dự phòng
+
+Các khoản dự phòng được ghi nhận khi Công ty có nghĩa vụ nợ hiện tai, pháp lý hoặc liên đối, phát sinh từ các sự kiện đã xảy ra; việc thanh toán nghĩa vụ nợ có thể sẽ dẫn đến sự giảm sút về những lợi ích kinh tế và giá trị của nghĩa vụ nợ đó được ước tính một cách đáng tin cây. Dự phòng không được ghi nhận cho các khoản lỗ hoạt động trong tương lai.
+
+Dự phòng được tính trên cơ sở các khoản chi phí dự tính phải thanh toán nghĩa vụ nợ. Nếu ảnh hưởng về giá trị thời gian của tiền là trọng yếu thì dự phòng được tính trên cơ sở giá trị hiện tại với tỷ lệ chiết khấu trước thuế và phân ảnh những đánh giá trên thị trường hiện tại về giá trị thời gian của tiền và rủi ro cụ thể của khoản nợ đó. Giá trị tăng lên do ảnh hưởng của yếu tố thời gian được ghi nhận là chi phí tài chính. Chênh lệch giữa khoản dự phòng lập ở cuối năm tài chính này và khoản dự phòng đã lập chưa sử dụng ở cuối năm tài chính trước được ghi nhận tăng hoặc giảm chi phí sản xuất, kinh doanh trong năm tài chính.
+
+2.17 Dụ phòng trợ cấp thời việc
+
+Theo Luật Lao đông Việt Nam, người lao đông của Công ty đã làm việc thường xuyên đủ 12 tháng trở lên được hưởng khoản trợ cấp thời việc. Thời gian làm việc để tính trợ cấp thời việc là tổng thời gian người lao đông đã làm việc thực tế cho Công ty trừ đi thời gian người lao đông đã tham gia bảo hiểm thất nghiệp theo quy định của pháp luật và thời gian làm việc đã được Công ty chỉ trả trợ cấp thời việc.
+
+Trợ cấp thời việc của người lao động được trích trước cuối mỗi năm tài chính theo tỷ lệ bằng một nửa mức lương bình quân tháng cho mỗi năm làm việc. Mức lương bình quân tháng để tính trợ cấp thời việc dựa trên mức lương bình quân theo hợp đồng lao động của sâu tháng gần nhất tỉnh đến trước ngày kết thúc năm tài chính này.
+
+Khoản trích trước này được sử dụng để trả một lần khi người lao đông chấm dứt hợp đồng lao đông theo quy định hiện hành.
+
+17
+
+===== PAGE 20 =====
+CÔNG TY CÓ PHẦN TẬP ĐOÀN HOA SEN
+
+Mẫu số B 09 - DN
+
+2 CÁC CHÍNH SÁCH KÊ TOÁN CHỦ YỀU (tiếp theo)
+
+2.18 Vốn chủ sở hữu
+
+Vốn góp của chủ sở hữu được ghi nhân theo số thực tế góp của các cổ đông và được phán ánh theo mệnh giá của cổ phiếu.
+
+Thăng dư vốn cổ phần là khoản chênh lệch giữa vốn góp theo mệnh giá cổ phiếu với giá thực tế phát hành cổ phiếu; chênh lệch giữa giá mua lại cổ phiếu quỹ và giá tái phát hành cổ phiếu quỹ.
+
+LNST chưa phân phối phần ánh kết quả kinh doanh (lãi, lỗ) sau thuế TNDN của Công ty tại thời điểm báo cáo.
+
+2.19 Phân chia lợi nhuận
+
+Cổ tức của Công ty được ghi nhận là một khoản phải trả trong báo cáo tài chính riêng của năm tài chính dưa vào ngày chốt danh sách cổ đông theo Nghị quyết của Hội đồng Quản trị sau khi phương án chỉ trả cổ tức được thông qua tại Đại hội đồng Cổ đông.
+
+LNST TNDN có thể được chia cho các cổ đông sau khi được Đại hội đông Cổ đông phê duyệt và sau khi đã trich lập các quỹ theo điều lệ của Công ty và các quy định của pháp luật Việt Nam.
+
+Công ty trích lập các quỹ sau:
+
+(a) Quỹ khen thưởng, phúc lợi
+
+Quỹ khen thưởng, phúc lợi được trich lập từ LNST TNDN của Công ty và được các cổ đông phê duyệt tại Đại hỏi đồng Cổ đông. Quỹ được trình bày là một khoản phải trả trên bằng cân đối kế toán riêng. Quỹ được sử dụng để dùng cho công tác khen thưởng, cải thiện và nâng cao đời sống vật chất, tỉnh thần của người lao đông.
+
+(b) Quỹ khác
+
+Quỹ khác thuộc vốn chủ sở hữu được trích lập từ LNST TNDN của Công ty và được các cổ đông phê duyệt tại Đại hội đồng Cổ đông. Quỹ khác được sử dụng cho các hoạt động tài trợ, từ thiện, và thủ lao, kinh phí hoạt động của Hội đồng Quản trị. Việc sử dụng các quỹ này căn cứ theo quy chế trích lập, quản lý, sử dụng các quỹ và kinh phí hoạt động của Hội đồng Quản trị.
+
+18
+
+===== PAGE 21 =====
+CÔNG TY CỔ PHẦN TẬP ĐOÀN HOA SEN
+
+Mẫu số B 09 - DN
+
+2 CÁC CHÍNH SÁCH KẾ TOÁN CHỦ YẾU (tiếp theo)
+
+2.20 Ghi nhận doanh thu
+
+(a) Doanh thu bản hàng
+
+Doanh thu bán hàng được ghi nhận trong báo cáo kết quả hoạt động kinh doanh riêng khi đồng thời thỏa mãn tất cả năm (5) điều kiện sau:
+
+- Công ty đã chuyển giao phần lớn rủi ro và lợi ích gắn liền với quyền sở hữu sản phẩm hoặc hàng hóa cho người mua;
+
+- Công ty không còn nằm giữ quyền quản lý sản phẩm hoặc hàng hóa như người sở hữu sản phẩm hoặc hàng hóa, hoặc quyền kiểm soát sản phẩm hoặc hàng hóa;
+
+- Doanh thu được xác định tương đối chắc chắn;
+
+• Công ty sẽ thu được lợi ích kinh tế từ giao dịch bán hàng; và
+
+- Xác định được chi phí liên quan đến giao dịch bán hàng.
+
+Doanh thu không được ghi nhận khi có yếu tố không chắc chắn mang tính trọng yếu về khả năng thu được tiền bán hàng hoặc khả năng hàng bán bị trả lại.
+
+Doanh thu được ghi nhận phủ hợp với bản chất hơn hình thức và được phân bổ theo nghĩa vụ cung ứng sản phẩm hoặc hàng hóa. Trường hợp Công ty dùng sản phẩm, hàng hóa để khuyến mãi cho khách hàng kèm theo điều kiện mua hàng của Công ty thì Công ty phân bổ số tiền thu được để tính doanh thu cho cả hàng khuyến mãi và giá trị hàng khuyến mãi được tính vào giá vốn hàng bán trong báo cáo kết quả hoạt động kinh doanh riêng.
+
+(b) Doanh thu cung cấp dịch vụ
+
+Doanh thu cung cấp dịch vụ được ghi nhận trong báo cáo kết quả hoạt động kinh doanh riêng khi dịch vụ đã được cung cấp, bằng cách tính mức độ hoàn thành của từng giao dịch, dưa trên cơ sở đánh giá tỉ lệ dịch vụ đã cung cấp so với tổng khối lượng dịch vụ phải cung cấp. Doanh thu cung cấp dịch vụ chỉ được ghi nhận khi đồng thời thỏa mãn bốn (4) điều kiện sau:
+
+- Doanh thu được xác định tương đối chắc chắn;
+
+• Có khả năng thu được lợi ích kinh tế từ giao dịch cung cấp dịch vụ đó;
+
+- Xác định được phần công việc đã hoàn thành tại ngày của bằng cân đối kế toán riêng và
+
+- Xác định được chi phí phát sinh cho giao dịch và chi phí để hoàn thành giao dịch cung cấp dịch vụ đó.
+
+(c) Thu nhập lãi
+
+Tiền lãi được ghi nhân trong bảo cáo kết quả hoạt động kinh doanh riêng trên cơ sở thời gian và lãi suất thực tế từng kỳ khi thỏa mãn đồng thời hai (2) điều kiện sau.
+
+• Có khả năng thu được lợi ích kinh tế từ giao dịch đó; và
+
+- Doanh thu được xác định tương đối chắc chắn.
+
+19
+
+===== PAGE 22 =====
+CÔNG TY CÔ PHẦN TẬP ĐOÀN HOA SEN
+
+Mẫu số B 09 - DN
+
+2 CÁC CHÍNH SÁCH KÉ TOÁN CHỦ YẾU (tiếp theo)
+
+2.20 Ghi nhận doanh thu (tiếp theo)
+
+(d) Thu nhập từ lợi nhuận được chia
+
+Thu nhập từ cổ tức và lợi nhuận được chia được ghi nhận trong báo cáo kết quả hoạt động kinh doanh riêng khí thỏa mãn đồng thời hai (2) điều kiện sau:
+
+• Có khả năng thu được lợi ích kinh tế từ giao dịch đó; và
+
+- Doanh thu được xác định tương đối chắc chắn.
+
+Thu nhập từ cổ tức và lợi nhuận được chia được ghi nhận khi Công ty xác lập quyền nhân lợi nhuận từ các đơn vị đầu tư.
+
+2.21 Các khoản giảm trừ doanh thu
+
+Các khoản giảm trừ doanh thu bao gồm chiết khấu thương mại, hàng bán bị trả lại và giảm giá hàng bán. Các khoản giảm trừ doanh thu phát sinh cùng năm tài chính tiêu thu sản phẩm, hàng hóa, dịch vụ được ghi nhận điều chỉnh giảm doanh thu năm tài chính phát sinh.
+
+Các khoản giảm trừ doanh thu đối với sản phẩm, hàng hoá, dịch vụ tiêu thụ trong năm tài chính, phát sinh sau ngày của bảng cân đối kế toán riêng nhưng trước thời điểm phát hành báo cáo tài chính riêng được ghi nhận điều chỉnh giảm doanh thu của năm tài chính lập báo cáo.
+
+2.22 Giá vốn hàng bán và dịch vụ cung cấp
+
+Giá vốn hàng bán và dịch vụ cung cấp là tổng chỉ phí phát sinh của thành phẩm, hàng hóa, vật tư xuất bán và dịch vụ cung cấp cho khách hàng trong năm tài chính, được ghi nhân theo nguyên tắc phù hợp với doanh thu và nguyên tắc thân trong.
+
+2.23 Chi phí tài chính
+
+Chi phí tài chính phần ảnh những khoản chi phí hoạt động tài chính phát sinh trong năm tài chính chủ yếu bao gồm các khoản chi phí hoặc các khoản lỗ liên quan đến chi phí lãi vay; khoản lỗ phát sinh khí bán ngoại tệ; lỗ tỷ giá hối đoái; và chiết khấu thanh toán.
+
+2.24 Chi phi bán hàng
+
+Chi phí bán hàng phân ánh các chi phí thực tế phát sinh trong quá trình bản sản phẩm, hàng hoá và cung cấp dịch vụ.
+
+2.25 Chi phi quản lý doanh nghiệp
+
+Chi phí quản lý doanh nghiệp phần ảnh các chi phí thực tế phát sinh trong quá trình quản lý chung của Công ty.
+
+20
+
+===== PAGE 23 =====
+CÔNG TY CÓ PHẦN TẬP ĐOÀN HOA SEN
+
+Mẫu số B 09 - DN
+
+2 CÁC CHÍNH SÁCH KÉ TOÁN CHỦ YỀU (tiếp theo)
+
+2.26 Thuế thu nhập doanh nghiệp hiện hành và thuế thu nhập doanh nghiệp hoãn lại
+
+Thuế TNDN bao gồm toàn bộ số thuế TNDN tỉnh trên thu nhập chịu thuế TNDN. Chi phí thuế TNDN bao gồm chi phí thuế TNDN hiện hành và chi phí thuế TNDN hoãn lại.
+
+Thuế TNDN hiện hành là số thuế TNDN phải nộp hoặc thu hồi được tính trên thu nhập chịu thuế và thuế suất thuế TNDN của năm tài chính hiện hành. Thuế TNDN hiện hành và thuế TNDN hoãn lại được ghi nhận là thu nhập hay chi phí khi xác định lợi nhuận hoặc lỗ của năm tài chính phát sinh, ngoại trừ trường hợp thuế TNDN phát sinh từ một giáo dịch hoặc sự kiện được ghi nhận trực tiếp vào vốn chủ sở hữu trong cùng năm tài chính hay một năm tài chính khác.
+
+Thuế TNDN hoãn lại, sử dụng phương pháp công nợ, được tính đầy đủ đưa trên các khoản chênh lệch tạm thời giữa giả trị ghi số của các khoản mục tài sản và nợ phải trả trên báo cáo tài chính riêng và cơ sở tính thuế TNDN của các khoản mục này. Thuế TNDN hoãn lại không được ghi nhận khi nợ thuế TNDN hoãn lại phải trả phát sinh từ ghi nhận ban đầu của một tài sản hay nợ phải trả của một giao dịch mà giao dịch này không phải là giao dịch sáp nhập doanh nghiệp, không có ảnh hưởng đến lợi nhuận kế toán hoặc lợi nhuận/lỗ tỉnh thuế TNDN tại thời điểm phát sinh giao dịch. Thuế TNDN hoãn lại được tính theo thuế suất dự tính được áp dụng trong niên độ mà tài sản được thu hồi hoặc khoản nợ phải trả được thanh toán dựa trên thuế suất đã ban hành hoặc xem như có hiệu lực tại ngày của bảng cân đối kế toán riêng.
+
+Tài sân thuế TNDN hoãn lai được ghi nhận khi có khả năng sẽ có lợi nhuận tính thuế TNDN trong tương lai để sử dụng những chênh lệch tam thời được khấu trừ.
+
+2.27 Các bên liên quan
+
+Các doanh nghiệp, các cá nhân, trực tiếp hay giản tiếp qua một hoặc nhiều trung gian, có quyền kiểm soát Công ty hoặc chịu sự kiểm soát của Công ty, hoặc cùng chung sự kiểm soát với Công ty, bao gồm cả công ty mẹ, công ty con và công ty trong cùng tập đoàn là các bên liên quan. Các bên liên kết, các cá nhân trực tiếp hoặc giãn tiếp nằm quyền biểu quyết của Công ty mà có ảnh hưởng đáng kể đối với Công ty, những cá nhân quản lý chủ chất bao gồm Chủ tịch và các thành viên Hội đồng Quản trị, Ủy ban Kiểm toàn, Ban Tổng Giám đốc, những thành viên mặt thiết trong gia đình của các cá nhân này hoặc các bên liên kết này hoặc những công ty liên kết với các cá nhân này cũng được coi là bên liên quan.
+
+Trong việc xem xét từng mối quan hệ của các bên liên quan. Công ty căn cứ vào bản chất của mối quan hệ chữ không chỉ hình thức pháp lý của các quan hệ đó.
+
+2.28 Báo cáo bộ phận
+
+Một bộ phận là một hợp phần có thể xác định riêng biệt của Công ty tham gia vào việc bản hàng hoặc cung cấp dịch vụ liên quan (bộ phận chia theo hoạt động kinh doanh), hoặc bản hàng hoặc cung cấp dịch vụ trong một môi trường kinh tế cụ thể (bộ phận chia theo khu vực địa lý). Mỗi bộ phân này chịu rủi ro và thu được loi ích khác biệt với các bộ phân khác. Ban Tổng Giám đốc của Công ty xác định rằng rủi ro và tỷ suất sinh lời của doanh nghiệp bị tác động chủ yếu bởi những khác biệt về các loại sản phẩm, dịch vụ mà Công ty cung cấp. Do vậy báo cáo bộ phận chính yếu của Công ty là theo lĩnh vực kinh doanh.
+
+21
+
+===== PAGE 24 =====
+CÔNG TY CÔ PHẦN TẬP ĐOÀN HOA SEN
+
+Mẫu số B 09 - DN
+
+2 CÁC CHÍNH SÁCH KÉ TOÁN CHỦ YẾU (tiếp theo)
+
+2.29 Uốc tinh kế toán trọng yếu
+
+Việc lập bảo cáo tài chính riêng tuân thủ theo các Chuẩn mực Kế toán Việt Nam, Chế độ Kế toán Doanh nghiệp Việt Nam và các quy định pháp lý có liên quan đến việc lập và trình bày báo cáo tài chính riêng yêu cầu Ban Tổng Giám đốc phải có những ước tỉnh và giả định ảnh hưởng đến số liệu về tài sản, nợ phải trả và việc trình bày các khoản nợ và tài sản tiêm tàng tại ngày kết thúc năm tài chính cũng như các số liệu về doanh thu và chí phí trong suốt năm tài chính.
+
+Các ước tính và giả định thường xuyên được đánh giá dựa trên kinh nghiệm trong quá khử và các yếu tố khác, bao gồm các giả định trong tương lai có ảnh hưởng trọng yếu tới báo cáo tài chính riêng của Công ty và được Ban Tổng Giám đốc đánh giá là hợp lý.
+
+3 TIÊN VÀ CÁC KHOÂN TƯƠNG DƯƠNG TIÊN
+
+<table><tr><td></td><td>30.9.2025VND</td><td>30.9.2024VND</td></tr><tr><td>Tiền mặt</td><td>10.366.895.000</td><td>16.016.225.000</td></tr><tr><td>Tiền gửi ngân hàng không kỳ hạn</td><td>345.499.555.787</td><td>410.506.565.174</td></tr><tr><td>Tiền đang chuyển</td><td>930.276.827</td><td>400.000.000</td></tr><tr><td>Các khoản tương đương tiền (*)</td><td>870.685.590</td><td>856.027.767</td></tr><tr><td></td><td>357.667.413.204</td><td>427.778.817.941</td></tr></table>
+
+(*) Tai ngày 30 tháng 9 năm 2025 và 30 tháng 9 năm 2024, các khoản tương đương tiền thể hiện giả trị của các khoản tiền gửi bằng Đồng Việt Nam có kỳ hạn gốc không quá 3 tháng tại các ngân hàng thương mại và hưởng lãi suất từ 1,6%/năm đến 1,9%/năm.
+
+Tại ngày 30 tháng 9 năm 2025 và tại ngày 30 tháng 9 năm 2024, toàn bộ các khoản tương đương tiền được dùng để đảm bảo cho hợp đồng cấp bảo lãnh của Ngân hàng Thương mại Cổ phần Công Thương Việt Nam - Chi nhánh Đông Thành phố Hồ Chí Minh (trước đây là Ngân hàng Thương mại Cổ phần Công thương Việt Nam - Chi nhánh Khu Công nghiệp Bình Dương).
+
+22
+
+===== PAGE 25 =====
+CÔNG TY CÓ PHẦN TẬP ĐOÀN HOA SEN
+
+4 ĐẦU TƯ TẢI CHÍNH
+
+(a) Đầu tư nằm giữ đến ngày đáo hạn
+
+<table><tr><td rowspan="2"></td><td colspan="2">Tại ngày 30.9.2025</td><td colspan="2">Tại ngày 30.9.2024</td></tr><tr><td>Giá gốc VND</td><td>Giá trị ghi số VND</td><td>Giá gốc VND</td><td>Giá trị ghi số VND</td></tr><tr><td>Ngắn hạn</td><td></td><td></td><td></td><td></td></tr><tr><td>Tiền gửi có kỳ hạn (*)</td><td>36.754.243.645</td><td>36.754.243.645</td><td>21.278.737.672</td><td>21.278.737.672</td></tr></table>
+
+23
+
+===== PAGE 26 =====
+CÔNG TY CÓ PHẦN TẬP ĐOÀN HOA SEN
+
+Mẫu số B 09 - DN
+
+<table><tr><td colspan="3">Tại ngày 30.9.2025</td><td colspan="3">Tại ngày 30.9.2024</td></tr><tr><td>Giá gốc VND</td><td>Giá trị hợp lý VND</td><td>Dự phòng VND</td><td>Giá gốc VND</td><td>Giá trị hợp lý VND</td><td>Dự phòng VND</td></tr><tr><td>1.100.000.000.000</td><td>(*)</td><td>-</td><td>1.100.000.000.000</td><td>(*)</td><td>-</td></tr><tr><td>770.000.000.000</td><td>(*)</td><td>-</td><td>770.000.000.000</td><td>(*)</td><td>-</td></tr><tr><td>700.000.000.000</td><td>(*)</td><td>-</td><td>380.000.000.000</td><td>(*)</td><td>-</td></tr><tr><td>505.000.000.000</td><td>(*)</td><td>-</td><td>409.745.087.671</td><td>(*)</td><td>-</td></tr><tr><td>299.850.000.000</td><td>(*)</td><td>-</td><td>299.850.000.000</td><td>(*)</td><td>-</td></tr><tr><td>280.000.000.000</td><td>(*)</td><td>-</td><td>280.000.000.000</td><td>(*)</td><td>-</td></tr><tr><td>200.000.000.000</td><td>(*)</td><td>-</td><td>200.000.000.000</td><td>(*)</td><td>-</td></tr><tr><td>105.000.000.000</td><td>(*)</td><td>-</td><td>105.000.000.000</td><td>(*)</td><td>-</td></tr><tr><td>50.000.000.000</td><td>(*)</td><td>-</td><td>50.000.000.000</td><td>(*)</td><td>-</td></tr><tr><td>-</td><td>(*)</td><td>-</td><td>-</td><td>(*)</td><td>-</td></tr><tr><td>-</td><td>(*)</td><td>-</td><td>-</td><td>(*)</td><td>-</td></tr><tr><td>4.009.850.000.000</td><td></td><td>-</td><td>3.594.595.087.671</td><td></td><td>-</td></tr></table>
+
+4 ĐẦU TƯ TÀI CHÍNH (tiếp theo)
+
+(b) Đầu tư góp vốn vào đơn vị khác
+
+<table><tr><td>i. Đầu tư vào công ty conCông ty Trách nhiệm hữu hạn Một thành viên Hoa Sen Nghệ An (i)Công ty Trách nhiệm hữu hạn Một thành viên Hoa Sen Nhơn Hội - Bình Định (ii)Công ty TNHH Một thành viên Hoa Sen Phú Mỹ (ii)Công ty Cổ phần Hoa Sen Yên Bái (ii)Công ty Cổ phần Nhựa Hoa Sen (i)Công ty TNHH Một thành viên Tôn Hoa Sen (i)Công ty Trách nhiệm hữu hạn Một thành viên Hoa Sen Hà Nam (i)Công ty TNHH Một thành viên Hoa Sen Bình Định (ii)Công ty Trách nhiệm hữu hạn Một thành viên Vật liệu Xây dựng Hoa Sen Yên Bái (ii)</td></tr><tr><td>ii. Đầu tư vào công ty liên kếtCông ty Cổ phần Cảng Quốc tế Hoa Sen (iii)Công ty Cổ phần Hoa Sen Sài Gòn (iv)</td></tr></table>
+
+24
+
+===== PAGE 27 =====
+CÔNG TY CỔ PHẦN TẬP ĐOẢN HOA SEN
+
+Mẫu số B 09 - DN
+
+4 ĐẦU TƯ TÀI CHÍNH (tiếp theo)
+
+(b) Đầu tư góp vốn vào đơn vị khác (tiếp theo)
+
+(*) Tại ngày 30 tháng 9 năm 2025 và ngày 30 tháng 9 năm 2024, Công ty chưa xác định được giá trị hợp lý của các khoản đầu tư này để thuyết minh trên bảo cáo tài chính riêng vi các khoản đầu tư này không có giá niêm yết trên thị trường. Giá trị hợp lý của các khoản đầu tư này có thể khác với giá trị ghi số.
+
+(i) Tai ngày 30 tháng 9 năm 2025, các công ty con này vẫn đang hoạt động có lãi.
+
+(ii) Tai ngày 30 tháng 9 năm 2025, các công ty con này đang có lỗ lũy kế; tuy nhiên, giá trị có thể thu hồi của các khoản đầu tư này được tính theo phương pháp định giá bằng thu nhập của các công ty con này cao hơn giá trị ghi số của các khoản đầu tư nên Ban Tổng Giám đốc Công ty đánh giá không có sự suy giảm giá trị các khoản đầu tư vào các công ty con này.
+
+(iii) Công ty Cổ phần Cảng Quốc tế Hoa Sen được thành lập theo Giấy chứng nhận đăng ký doanh nghiệp số 3502399898 do Sở Kế hoạch và Đầu tư Tĩnh Bà Rịa - Vũng Tấu cấp ngày 5 tháng 7 năm 2019. Tại ngày 30 tháng 9 năm 2025, công ty này chưa nhận góp vốn và chưa hoạt động. Theo đó, Công ty sẽ góp 4,9 tỷ Đồng, tương đương 49% quyền biểu quyết. Tại ngày 3 tháng 10 năm 2025, Đại hội đồng cổ đông của Công ty Cổ phần Cảng Quốc tế Hoa Sen đã thông qua Nghị quyết số 01/NQ/ĐHĐCĐ/HSP/2025 về việc giải thể Công ty Cổ phần Cảng Quốc tế Hoa Sen.
+
+(iv) Công ty Cổ phần Hoa Sen Sài Gòn được thành lập theo Giấy chứng nhận đăng ký doanh nghiệp số 0318310211 do Sở Kế hoạch và Đầu tư Thành phố Hồ Chí Minh cấp ngày 21 tháng 2 năm 2024. Tại ngày 30 tháng 9 năm 2025, công ty này chưa nhận góp vốn và chưa hoạt động. Theo đó, Công ty sẽ góp 40 tỷ Đồng, tương đương 40% quyền biểu quyết.
+
+5 PHẢI THU NGÁN HẠN CỦA KHÁCH HÀNG
+
+<table><tr><td></td><td>30.9.2025VND</td><td>30.9.2024VND</td></tr><tr><td>Bên thử ba</td><td>1.332.084.800.581</td><td>1.952.443.626.813</td></tr><tr><td>Bên liên quan (Thuyết minh 35(b))</td><td>4.237.203.171.948</td><td>7.384.865.082.322</td></tr><tr><td></td><td>5.569.287.972.529</td><td>9.337.308.709.135</td></tr></table>
+
+Tại ngày 30 tháng 9 năm 2025 và ngày 30 tháng 9 năm 2024, không có khách hàng bên thứ ba nào cỏ số dư chiếm hơn 10% trên tổng số dư các khoản phải thu ngắn hạn của khách hàng.
+
+Tại ngày 30 tháng 9 năm 2025 và ngày 30 tháng 9 năm 2024, các khoản phải thu có tổng giá trị là 1.139 tỷ Đồng đã được dùng để làm tài sản thể chấp cho các khoản vay ngắn hạn từ ngân hàng (Thuyết minh 18).
+
+25
+
+===== PAGE 28 =====
+CÔNG TY CỔ PHẦN TẬP ĐOÀN HOA SEN
+
+Mẫu số B 09 - DN
+
+6 TRÀ TRƯỚC CHO NGƯỜI BÁN
+
+(a) Ngân hạn
+
+<table><tr><td></td><td>30.9.2025VND</td><td>30.9.2024VND</td></tr><tr><td colspan="3">Bên thứ ba</td></tr><tr><td>Cisdi Thermal &amp; Environmental Engineering Company Limited</td><td>76.746.400.000</td><td>6.736.519.405</td></tr><tr><td>Quỹ Đầu tư Phát triển Thành Phó Cần Thơ</td><td>24.273.292.842</td><td>-</td></tr><tr><td colspan="3">Công Ty Cổ Phần Tư Văn Quản Lý</td></tr><tr><td>Đầu Tư Apex</td><td>21.000.000.000</td><td>6.500.000.000</td></tr><tr><td>Khác</td><td>63.767.553.423</td><td>71.140.838.462</td></tr><tr><td>Bên liên quan (Thuyết minh 35(b))</td><td>441.776.020</td><td>451.316.851.889</td></tr><tr><td></td><td>186.229.022.285</td><td>535.694.209.756</td></tr></table>
+
+(b) Dài hạn
+
+<table><tr><td></td><td>30.9.2025VND</td><td>30.9.2024VND</td></tr><tr><td>Bên liên quan (Thuyết minh 35(b))</td><td>1.250.000.000.000</td><td>-</td></tr></table>
+
+7 PHẢI THU VỀ CHO VAY NGẮN HẠN
+
+<table><tr><td rowspan="2"></td><td colspan="2">Tại ngày 30.9.2025</td><td colspan="2">Tại ngày 30.9.2024</td></tr><tr><td>Giá trị VND</td><td>Dự phòng VND</td><td>Giá trị VND</td><td>Dự phòng VND</td></tr><tr><td>Bên liên quan(Thuyết minh 35(b)) (*)</td><td>426.500.000.000</td><td>-</td><td>374.000.000.000</td><td>-</td></tr></table>
+
+(*) Tại ngày 30 tháng 9 năm 2025, khoản phải thu về cho vay ngắn hạn bao gồm các khoản cho vay với Công ty Cổ phần Nhựa Hoa Sen theo các hợp đồng cho vay và các phụ luc gia hạn, có kỳ hạn còn lại không quá 12 tháng với lãi suất là 4,1%/năm (tại ngày 30 tháng 9 năm 2024: 3%/năm).
+
+Biến động về phải thu cho vay ngắn hạn trong năm tài chính như sau:
+
+<table><tr><td rowspan="2"></td><td colspan="2">Năm tài chính kết thúc ngày</td></tr><tr><td>30.9.2025VND</td><td>30.9.2024VND</td></tr><tr><td>Số dư đầu năm</td><td>374.000.000.000</td><td>118.500.000.000</td></tr><tr><td>Tăng (Thuyết minh 35(a))</td><td>208.000.000.000</td><td>283.500.000.000</td></tr><tr><td>Giám (Thuyết minh 35(a))</td><td>(155.500.000.000)</td><td>(28.000.000.000)</td></tr><tr><td>Số dư cuối năm</td><td>426.500.000.000</td><td>374.000.000.000</td></tr></table>
+
+26
+
+===== PAGE 29 =====
+CÔNG TY CÓ PHẦN TẬP ĐOÀN HOA SEN
+
+Mẫu số B 09 - DN
+
+8 PHẢI THU KHÁC
+
+(a) Ngân hạn
+
+<table><tr><td rowspan="2"></td><td colspan="2">Tại ngày 30.9.2025</td><td colspan="2">Tại ngày 30.9.2024</td></tr><tr><td>Giá trị VND</td><td>Dự phòng VND</td><td>Giá trị VND</td><td>Dự phòng VND</td></tr><tr><td>Phải thu về lợi nhuận được chia</td><td>943.521.034.246</td><td>-</td><td>298.441.792.270</td><td>-</td></tr><tr><td>Tạm ứng cho nhân viên</td><td>33.918.523.047</td><td>-</td><td>29.224.478.037</td><td>-</td></tr><tr><td>Đặt cọc thuê mặt bằng và kỳ quỹ, kỳ cước ngân hạn</td><td>26.164.232.499</td><td>-</td><td>25.728.366.709</td><td>-</td></tr><tr><td>Phải thu lãi cho vay</td><td>4.083.375.342</td><td>-</td><td>2.131.109.589</td><td>-</td></tr><tr><td>Khác</td><td>12.068.489.905</td><td>-</td><td>11.308.051.430</td><td>-</td></tr><tr><td></td><td>1.019.755.655.039</td><td>-</td><td>366.833.818.035</td><td>-</td></tr><tr><td>Trong đó:</td><td></td><td></td><td></td><td></td></tr><tr><td>Bên thủ ba</td><td>70.866.545.451</td><td>-</td><td>63.433.551.781</td><td>-</td></tr><tr><td>Bên liên quan(Thuyết minh 35(b))</td><td>948.889.109.588</td><td>-</td><td>303.400.266.254</td><td>-</td></tr><tr><td></td><td>1.019.755.655.039</td><td>-</td><td>366.833.818.035</td><td>-</td></tr></table>
+
+(b) Dài hạn
+
+<table><tr><td rowspan="2"></td><td colspan="2">Tại ngày 30.9.2025</td><td colspan="2">Tại ngày 30.9.2024</td></tr><tr><td>Giá trị VND</td><td>Dự phòng VND</td><td>Giá trị VND</td><td>Dự phòng VND</td></tr><tr><td>Tạm ứng để mua đất (*)</td><td>533.227.818.006</td><td>-</td><td>58.438.165.400</td><td>-</td></tr><tr><td>Đặt cọc thuê mặt bằng</td><td>84.527.880.000</td><td>-</td><td>91.484.245.800</td><td>-</td></tr><tr><td>Khạc</td><td>25.818.775.000</td><td>-</td><td>25.818.775.000</td><td>-</td></tr><tr><td></td><td>643.574.473.006</td><td>-</td><td>175.741.186.200</td><td>-</td></tr><tr><td colspan="5">Trong đó:</td></tr><tr><td>Bên thứ ba</td><td>641.303.973.006</td><td>-</td><td>126.723.761.200</td><td>-</td></tr><tr><td>Bên liên quan(Thuyết minh 35(b))</td><td>2.270.500.000</td><td>-</td><td>49.017.425.000</td><td>-</td></tr><tr><td></td><td>643.574.473.006</td><td>-</td><td>175.741.186.200</td><td>-</td></tr></table>
+
+(*) Tại ngày của báo cáo tài chính riêng này, Công ty đang trong quá trình thực hiện thủ tục pháp lý để chuyển nhượng quyền sử dụng đất và dự kiến sẽ kéo dài trên 12 tháng.
+
+27
+
+===== PAGE 30 =====
+CÔNG TY CỔ PHẦN TẬP ĐOÀN HOA SEN
+
+Mẫu số B 09 - DN
+
+9 HÀNG TÔN KHO
+
+<table><tr><td rowspan="2"></td><td colspan="2">Tại ngày 30.9.2025</td><td colspan="2">Tại ngày 30.9.2024</td></tr><tr><td>Giá gốc VND</td><td>Dự phòng VND</td><td>Giá gốc VND</td><td>Dự phòng VND</td></tr><tr><td>Hàng mua đang di trên đường</td><td>491.018.601.108</td><td>(9.804.341.636)</td><td>877.318.113.429</td><td>(17.655.353.966)</td></tr><tr><td>Nguyên vật liệu</td><td>499.322.263.649</td><td>(6.321.625.901)</td><td>464.380.608.238</td><td>(12.158.845.106)</td></tr><tr><td>Công cu, dung cu</td><td>139.717.852.232</td><td>-</td><td>139.644.530.778</td><td>-</td></tr><tr><td>Thành phẩm</td><td>1.361.473.502.224</td><td>(32.697.785.803)</td><td>1.411.484.367.781</td><td>(68.215.161.495)</td></tr><tr><td>Hàng hóa</td><td>1.505.084.500.496</td><td>(27.008.481.205)</td><td>1.172.166.639.950</td><td>(23.819.456.827)</td></tr><tr><td></td><td>3.996.616.719.709</td><td>(75.832.234.545)</td><td>4.064.994.260.176</td><td>(121.848.817.394)</td></tr></table>
+
+Tại ngày 30 tháng 9 năm 2025, hàng tồn kho có giá trị ghi số là 1.947 tỷ Đồng (tại ngày 30 tháng 9 năm 2024: 1.811 tỷ Đồng) đã được đúng để làm tài sản thể chấp cho các khoản vay ngắn han từ ngân hàng (Thuyết minh 18).
+
+Biến động về dự phòng giảm giá hàng tồn kho trong năm tài chính như sau:
+
+<table><tr><td rowspan="2"></td><td colspan="2">Năm tài chính kết thúc ngày</td></tr><tr><td>30.9.2025VND</td><td>30.9.2024VND</td></tr><tr><td>Số dư đầu năm</td><td>121.848.817.394</td><td>127.008.960.824</td></tr><tr><td>Giảm dư phòng (Thuyết minh 25)</td><td>(46.016.582.849)</td><td>(5.160.143.430)</td></tr><tr><td>Số dư cuối năm</td><td>75.832.234.545</td><td>121.848.817.394</td></tr></table>
+
+10 CHI PHÍ TRẢ TRƯỚC
+
+(a) Ngắn hạn
+
+<table><tr><td></td><td>30.9.2025VND</td><td>30.9.2024VND</td></tr><tr><td>Chi phí thuê nhà xưởng</td><td>62.862.363.585</td><td>58.139.926.619</td></tr><tr><td>Chi phí phần mềm</td><td>7.569.863.046</td><td>4.101.352.364</td></tr><tr><td>Chi phí quảng cáo trả trước</td><td>5.380.208.960</td><td>10.753.936.993</td></tr><tr><td>Chi phí công cụ, dụng cụ</td><td>5.329.223.303</td><td>4.100.076.987</td></tr><tr><td>Chi phí sửa chữa</td><td>1.468.329.365</td><td>3.185.231.368</td></tr><tr><td>Chi phí tư vấn</td><td>6.523.173.135</td><td>1.013.454.334</td></tr><tr><td>Khác</td><td>6.483.502.075</td><td>5.680.707.863</td></tr><tr><td></td><td>95.596.663.469</td><td>86.974.686.528</td></tr></table>
+
+28
+
+===== PAGE 31 =====
+CÔNG TY CÓ PHẦN TẬP ĐOÀN HOA SEN
+
+Mẫu số B 09 - DN
+
+10 CHI PHÍ TRÀ TRƯỚC (tiếp theo)
+
+(b) Dài hạn
+
+<table><tr><td></td><td>30.9.2025VND</td><td>30.9.2024VND</td></tr><tr><td>Chi phí sửa chữa</td><td>20.990.168.462</td><td>20.417.303.431</td></tr><tr><td>Chi phí công cụ, dụng cụ</td><td>13.262.116.423</td><td>15.952.000.527</td></tr><tr><td>Chi phí thuê</td><td>4.114.739.915</td><td>4.218.494.843</td></tr><tr><td>Chi phí làm bằng hiệu</td><td>3.855.784.450</td><td>13.151.864.066</td></tr><tr><td>Khác</td><td>5.768.220.562</td><td>8.634.074.424</td></tr><tr><td></td><td>47.991.029.812</td><td>62.373.737.291</td></tr></table>
+
+Biến động về chi phi trả trước dài hạn trong năm tài chính như sau:
+
+<table><tr><td rowspan="2"></td><td colspan="2">Năm tài chính kết thúc ngày</td></tr><tr><td>30.9.2025VND</td><td>30.9.2024VND</td></tr><tr><td>Số dư đầu năm</td><td>62.373.737.291</td><td>100.428.317.304</td></tr><tr><td>Tăng</td><td>21.037.729.834</td><td>18.554.346.311</td></tr><tr><td>Chuyển từ xây dựng cơ bản dở dang(Thuyết minh 12)</td><td>16.586.594.543</td><td>6.398.610.083</td></tr><tr><td>Phân bổ</td><td>(51.905.605.734)</td><td>(63.007.536.407)</td></tr><tr><td>Thanh lý</td><td>(101.426.122)</td><td>-</td></tr><tr><td>Số dư cuối năm</td><td>47.991.029.812</td><td>62.373.737.291</td></tr></table>
+
+29
+
+===== PAGE 32 =====
+CÔNG TY CÓ PHẦN TẬP ĐOÀN HOA SEN
+
+<table><tr><td></td><td>Nhà cửa,vật kiến trúcVND</td><td>Máy mócthiết bịVND</td><td>Phương tiệnvận tảiVND</td><td>Thiết bịquản lýVND</td><td>KhácVND</td><td>Tổng cộngVND</td></tr><tr><td colspan="7">Nguyên giá</td></tr><tr><td>Tai ngày 1 tháng 10 năm 2024</td><td>869.339.008.020</td><td>2.521.028.592.038</td><td>340.700.501.235</td><td>89.735.166.898</td><td>30.657.107.293</td><td>3.851.460.375.484</td></tr><tr><td>Mua trong năm</td><td>43.950.795.285</td><td>42.532.633.832</td><td>24.338.681.691</td><td>1.345.866.000</td><td>4.158.530.421</td><td>116.326.507.229</td></tr><tr><td>Chuyển từ xây dựng cơ bảnđở dang (Thuyết minh 12)</td><td>25.003.519.283</td><td>102.262.272.249</td><td>21.111.649.450</td><td>-</td><td>275.000.000</td><td>148.652.440.982</td></tr><tr><td>Thanh lý</td><td>(1.769.015.276)</td><td>(234.513.380.165)</td><td>(20.156.727.873)</td><td>(14.867.474)</td><td>-</td><td>(256.453.990.788)</td></tr><tr><td>Xóa số</td><td>(1.057.254.379)</td><td>(92.049.696)</td><td>-</td><td>-</td><td>-</td><td>(1.149.304.075)</td></tr><tr><td>Tai ngày 30 tháng 9 năm 2025</td><td>935.467.052.933</td><td>2.431.218.068.258</td><td>365.994.104.503</td><td>91.066.165.424</td><td>35.090.637.714</td><td>3.858.836.028.832</td></tr><tr><td colspan="7">Giá trị khấu hao lũy kế</td></tr><tr><td>Tai ngày 1 tháng 10 năm 2024</td><td>469.170.681.407</td><td>2.331.706.995.117</td><td>284.083.752.904</td><td>74.606.879.637</td><td>25.182.934.116</td><td>3.184.751.243.181</td></tr><tr><td>Khẩu hao trong năm</td><td>79.187.332.317</td><td>72.857.146.603</td><td>15.563.888.798</td><td>4.994.557.594</td><td>1.985.880.995</td><td>174.588.806.307</td></tr><tr><td>Thanh lý</td><td>(759.855.125)</td><td>(234.513.380.165)</td><td>(17.412.674.959)</td><td>(14.867.474)</td><td>-</td><td>(252.700.777.723)</td></tr><tr><td>Xóa số</td><td>(656.772.978)</td><td>(92.049.696)</td><td>-</td><td>-</td><td>-</td><td>(748.822.674)</td></tr><tr><td>Tai ngày 30 tháng 9 năm 2025</td><td>546.941.385.621</td><td>2.169.958.711.859</td><td>282.234.966.743</td><td>79.586.569.757</td><td>27.168.815.111</td><td>3.105.890.449.091</td></tr><tr><td colspan="7">Giá trị còn lại</td></tr><tr><td>Tai ngày 1 tháng 10 năm 2024</td><td>400.168.326.613</td><td>189.321.596.921</td><td>56.616.748.331</td><td>15.128.287.261</td><td>5.474.173.177</td><td>666.709.132.303</td></tr><tr><td>Tai ngày 30 tháng 9 năm 2025</td><td>388.525.667.312</td><td>261.259.356.399</td><td>83.759.137.760</td><td>11.479.595.667</td><td>7.921.822.603</td><td>752.945.579.741</td></tr></table>
+
+30
+
+===== PAGE 33 =====
+CÔNG TY CỔ PHẦN TẬP ĐOÀN HOA SEN
+
+Mẫu số B 09 - DN
+
+11 TÀI SẢN CÓ ĐỊNH ("TSCĐ") (tiếp theo)
+
+(b) TSCĐ vô hình
+
+<table><tr><td></td><td>Quyền sử dụng đất VND</td><td>Phần mềm máy tính VND</td><td>Tổng cộng VND</td></tr><tr><td colspan="4">Nguyên giả</td></tr><tr><td>Tại ngày 1 tháng 10 năm 2024</td><td>200.348.707.708</td><td>70.157.607.002</td><td>270.506.314.710</td></tr><tr><td>Mua trong năm</td><td>31.997.630.000</td><td>1.063.048.200</td><td>33.060.678.200</td></tr><tr><td>Chuyển từ xây dựng cơ bản dở dang(Thuyết minh 12)</td><td>-</td><td>292.089.600</td><td>292.089.600</td></tr><tr><td>Tại ngày 30 tháng 9 năm 2025</td><td>232.346.337.708</td><td>71.512.744.802</td><td>303.859.082.510</td></tr><tr><td colspan="4">Giá trị khấu hao lũy kế</td></tr><tr><td>Tại ngày 1 tháng 10 năm 2024</td><td>39.081.568.569</td><td>53.731.524.280</td><td>92.813.092.849</td></tr><tr><td>Khấu hao trong năm</td><td>3.515.681.400</td><td>4.822.403.084</td><td>8.338.084.484</td></tr><tr><td>Tại ngày 30 tháng 9 năm 2025</td><td>42.597.249.969</td><td>58.553.927.364</td><td>101.151.177.333</td></tr><tr><td colspan="4">Giá trị còn lại</td></tr><tr><td>Tại ngày 1 tháng 10 năm 2024</td><td>161.267.139.139</td><td>16.426.082.722</td><td>177.693.221.861</td></tr><tr><td>Tại ngày 30 tháng 9 năm 2025</td><td>189.749.087.739</td><td>12.958.817.438</td><td>202.707.905.177</td></tr></table>
+
+Tại ngày 30 tháng 9 năm 2025, TSCĐ vô hình với tổng giá trị còn lại là 50,5 tỷ Đồng (tại ngày 30 tháng 9 năm 2024; 52 tỷ Đồng) đã được dùng để làm tái sản thế chấp cho các khoản vay ngắn hạn từ ngân hàng (Thuyết minh 18).
+
+Nguyên giá TSCĐ vô hình của Công ty đã khấu hao hết nhưng còn sử dụng tại ngày 30 tháng 9 năm 2025 là 50,9 tỷ Đồng (tại ngày 30 tháng 9 năm 2024: 50 tỷ Đồng).
+
+31
+
+===== PAGE 34 =====
+CÔNG TY CÔ PHẦN TẬP ĐOẦN HOA SEN
+
+Mẫu số B 09 - DN
+
+12 CHI PHÍ XÃY DỰNG CƠ BẢN DỒ DANG
+
+Chi tiết chi phí xây dựng cơ bản dở dang như sau:
+
+<table><tr><td></td><td>30.9.2025VND</td><td>30.9.2024VND</td></tr><tr><td>Chi phí xây dựng, nâng cấp hệ thống siêu thịvật liệu xây dựng và nội thất Hoa Sen Home</td><td>48.795.377.721</td><td>4.536.441.124</td></tr><tr><td>Máy móc, thiết bị chở lắp đặt</td><td>24.538.899.507</td><td>4.062.623.889</td></tr><tr><td>Sửa chữa lớn TSCĐ</td><td>20.326.934.640</td><td>427.948.556</td></tr><tr><td>Khác</td><td>17.026.156.230</td><td>-</td></tr><tr><td></td><td>110.687.368.098</td><td>9.027.013.569</td></tr></table>
+
+Biến đông chi phí xây dựng cơ bản dở dang trong năm tài chính như sau:
+
+<table><tr><td rowspan="2"></td><td colspan="2">Năm tài chính kết thúc ngày</td></tr><tr><td>30.9.2025VND</td><td>30.9.2024VND</td></tr><tr><td>Số dư đầu năm</td><td>9.027.013.569</td><td>27.180.502.737</td></tr><tr><td>Tăng trong năm</td><td>267.191.479.654</td><td>28.120.911.453</td></tr><tr><td>Chuyển sang TSCĐ hữu hình(Thuyết minh 11(a))</td><td>(148.652.440.982)</td><td>(22.592.254.798)</td></tr><tr><td>Chuyển sang TSCĐ vô hình(Thuyết minh 11(b))</td><td>(292.089.600)</td><td>(15.947.100.200)</td></tr><tr><td>Chuyển sang chi phí trả trước dài hạn(Thuyết minh 10(b))</td><td>(16.586.594.543)</td><td>(6.398.610.083)</td></tr><tr><td>Chuyển sang chi phí trả trước ngắn hạn</td><td>-</td><td>(1.336.435.540)</td></tr><tr><td>Số dư cuối năm</td><td>110.687.368.098</td><td>9.027.013.569</td></tr></table>
+
+32
+
+===== PAGE 35 =====
+CÔNG TY CÓ PHẦN TẬP ĐOÀN HOA SEN
+
+13 PHÃI TRÃ NGU'ÕI BÁN NGÁN HẠN
+
+<table><tr><td rowspan="2" colspan="2"></td><td colspan="2">Tại ngày 30.9.2025</td><td colspan="2">Tại ngày 30.9.2024</td></tr><tr><td>Giá trị VND</td><td>Số có khả năng trả nợ VND</td><td>Giá trị VND</td><td>Số có khả năng trả nợ VND</td></tr><tr><td>13</td><td>PHẢI TRẢ NGƯỜI BÁN NGÁN HẠN</td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>Bên thứ ba</td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>Công ty Cổ phần Thép Hòa Phát Dung Quất</td><td>610.665.542.168</td><td>610.665.542.168</td><td>382.563.821.530</td><td>382.563.821.530</td></tr><tr><td></td><td>Hangzhou Cogeneration (Hong Kong) Company Limited</td><td>369.869.992.737</td><td>369.869.992.737</td><td>-</td><td>-</td></tr><tr><td></td><td>Khác</td><td>656.798.871.970</td><td>656.798.871.970</td><td>1.555.489.880.580</td><td>1.555.489.880.580</td></tr><tr><td></td><td>Bên liên quan (Thuyết minh 35(b))</td><td>456.927.017.864</td><td>456.927.017.864</td><td>915.552.512.371</td><td>915.552.512.371</td></tr><tr><td></td><td></td><td>2.094.261.424.739</td><td>2.094.261.424.739</td><td>2.853.606.214.481</td><td>2.853.606.214.481</td></tr><tr><td>14</td><td>NGƯỜI MUA TRẢ TIỀN TRƯỚC NGÂN HẠN</td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td>30.9.2025 VND</td><td>30.9.2024 VND</td></tr><tr><td></td><td>Bên thứ ba</td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>Martin Muñiz Molina</td><td></td><td></td><td>48.598.767.368</td><td>2.297.127.400</td></tr><tr><td></td><td>Khác</td><td></td><td></td><td>128.125.643.288</td><td>169.701.116.171</td></tr><tr><td></td><td>Bên liên quan (Thuyết minh 35(b))</td><td></td><td></td><td>30.331.134.054</td><td>8.001.644.404</td></tr><tr><td></td><td></td><td></td><td></td><td>207.055.544.710</td><td>179.999.887.975</td></tr></table>
+
+33
+
+===== PAGE 36 =====
+CÔNG TY CÓ PHẦN TẬP ĐOÀN HOA SEN
+
+<table><tr><td colspan="2"></td><td>Tại ngày1.10.2024VND</td><td>Số phải thu/phàinộp trong nămVND</td><td>Số đã thực nộptrong nămVND</td><td>Số đã cần triturong nămVND</td><td>Số đã đượchoản trong nămVND</td><td>Phân loại lạiVND</td><td>Tại ngày30.9.2025VND</td></tr><tr><td>(a)</td><td>Thuế GTGT được khấu trừThuế GTGTđược khấu trừ</td><td>326.902.155.004</td><td>5.757.837.969.200</td><td>-</td><td>(4.685.392.192.336)</td><td>(958.500.000.000)</td><td>-</td><td>440.647.931.868</td></tr><tr><td rowspan="2">(b)</td><td rowspan="2">Phải thuThuế TNDNThuế thu nhập cá nhân</td><td>128.398.679.248-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>(21.077.563.867)182.951</td><td>107.321.115.381182.951</td></tr><tr><td>128.398.679.248</td><td>-</td><td>-</td><td>-</td><td>-</td><td>(21.077.380.916)</td><td>107.321.298.332</td></tr><tr><td rowspan="99">(c)</td><td rowspan="99">Phải nộpThuế GTGT hàngnhập khẩuThuế GTGTThuế thu nhập cá nhânThuế TNDNThuế xuất nhập khẩuKhác</td><td rowspan="99">58.127.130.52513.170.861.3883.080.861.742-38.256.269-74.417.109.924</td><td rowspan="99">756.845.089.5374.762.772.917.46854.207.494.84022.083.397.40110.776.431.4919.456.858.166</td><td rowspan="99">(719.821.042.739)(84.418.212.054)(54.464.492.370)-(10.783.946.776)(9.424.458.166)</td><td rowspan="99">- (4.685.392.192.336)-(54.464.492.370)-(10.783.946.776)(9.424.458.166)</td><td rowspan="99">-</td><td rowspan="99">- 182.951(21.077.563.867)-</td><td rowspan="99">95.151.177.3236.133.374.4662.824.047.1631.005.833.53430.740.98432.400.000</td></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr></table>
+
+34
+
+===== PAGE 37 =====
+CÔNG TY CỔ PHẦN TẬP ĐOÀN HOA SEN
+
+Mẫu số B 09 - DN
+
+16 CHI PHÍ PHÀI TRẢ NGÁN HẠN
+
+<table><tr><td></td><td>30.9.2025VND</td><td>30.9.2024VND</td></tr><tr><td>Chi phi nhân viên</td><td>152.054.503.067</td><td>59.891.332.191</td></tr><tr><td>Trích trước chiết khấu thương mại</td><td>95.714.377.887</td><td>57.452.199.979</td></tr><tr><td>Chi phi vận chuyển</td><td>20.084.778.890</td><td>74.556.296.225</td></tr><tr><td>Chi phi điện</td><td>10.273.714.834</td><td>10.396.478.659</td></tr><tr><td>Chi phi lãi vay</td><td>4.723.527.210</td><td>2.362.591.524</td></tr><tr><td>Khác</td><td>14.580.329.564</td><td>4.148.818.454</td></tr><tr><td></td><td>297.431.231.452</td><td>208.807.717.032</td></tr></table>
+
+17 PHẢI TRẢ NGẮN HẠN KHÁC
+
+<table><tr><td></td><td>30.9.2025VND</td><td>30.9.2024VND</td></tr><tr><td>Chiết khấu bộ chứng từ xuất khẩu phải trả</td><td>133.119.362.319</td><td>101.285.719.447</td></tr><tr><td>Nhận ký quỹ, ký cược ngắn hạn</td><td>6.269.602.408</td><td>6.205.262.108</td></tr><tr><td>Cổ tức phải trả</td><td>4.344.840.677</td><td>3.957.992.677</td></tr><tr><td>Tiền nhận từ việc phát hành cổ phiếu theo chương trình lựa chọn cho người lao động</td><td>-</td><td>22.110.000.000</td></tr><tr><td>Khác</td><td>5.582.042.264</td><td>3.892.217.271</td></tr><tr><td></td><td>149.315.847.668</td><td>137.451.191.503</td></tr><tr><td colspan="3">Trong đó:</td></tr><tr><td>Bên thứ ba</td><td>149.275.947.668</td><td>136.997.926.817</td></tr><tr><td>Bên liên quan (Thuyết minh 35(b))</td><td>39.900.000</td><td>453.264.686</td></tr><tr><td></td><td>149.315.847.668</td><td>137.451.191.503</td></tr></table>
+
+35
+
+===== PAGE 38 =====
+CÔNG TY CÔ PHẦN TẬP ĐOÀN HOA SEN
+
+18 VAY NGÁN HẠN
+
+Mẫu số B 09 - DN
+
+<table><tr><td rowspan="2"></td><td colspan="2">Tại ngày 1.10.2024</td><td colspan="2">Phát sinh trong kỳ</td><td colspan="2">Tại ngày 30.9.2025</td></tr><tr><td>Giá trị VND</td><td>Số có khả năng trả nợ VND</td><td>Tăng VND</td><td>Giám VND</td><td>Giá trị VND</td><td>Số có khả năng trả nợ VND</td></tr><tr><td>Ngân hàng</td><td>5.310.715.159.144</td><td>5.310.715.159.144</td><td>27.687.476.327.112</td><td>(28.725.153.444.486)</td><td>4.273.038.041.770</td><td>4.273.038.041.770</td></tr><tr><td colspan="7">Các khoản vay ngân hàng bằng Đồng Việt Nam được huy động cho mục đích bổ sung vốn lưu động. Lãi suất của các khoản vay được xác định tại thời điểm giải ngân. Chi tiết như sau:</td></tr><tr><td>Ngân hàng</td><td></td><td></td><td>Lãi suất %/năm</td><td>Ký hạn</td><td>Tại ngày 30.9.2025 VND</td><td>Tại ngày 30.9.2024 VND</td></tr><tr><td>Ngân hàng Thương mại Cổ phần Ngoại thương Việt Nam - Chi nhánh Nam Bình Dương (i)</td><td></td><td></td><td>3,9% - 4,2%</td><td>Tôi đa không quá 6 tháng kể từ ngày tiếp theo của ngày giải ngân vốn vay và được ghi trên từng Giấy nhận nợ</td><td>1.310.606.061.142</td><td>2.647.446.645.284</td></tr><tr><td>Ngân hàng Thương mại Cổ phần Công Thương Việt Nam - Chi nhánh Đông Thành phố Hồ Chí Minh (ii) (trước đáy là Ngân hàng Thương mại Cổ phần Công Thương Việt Nam - Chi nhánh Khu Công nghiệp Bình Dương)</td><td></td><td></td><td>4% - 4,3%</td><td>Tôi đa không quá 5 tháng kể từ ngày giải ngân</td><td>1.226.408.673.522</td><td>2.271.483.187.659</td></tr><tr><td>Ngân hàng Thương mại Cổ phần Đầu Tư và Phát Triên Việt Nam - Chi Nhánh Sở Giao Dịch 2 (iii)</td><td></td><td></td><td>4%</td><td>Theo từng hợp đồng tin dụng</td><td>790.963.003.699</td><td>323.755.954.476</td></tr><tr><td>Ngân hàng TNHH Một thành viên United Overseas Bank (Việt Nam) (iv)</td><td></td><td></td><td>3,95% - 4,15%</td><td>Không quá 120 ngày kể từ ngày giải ngân.</td><td>536.622.767.537</td><td>53.000.000.000</td></tr><tr><td>Ngân hàng Thương mại Cổ phần À Châu - Chi nhánh Tân Thuận (v)</td><td></td><td></td><td>3,9% - 4,1%</td><td>Thời hạn vay tối đa là 6 tháng kể từ ngày kể tiếp của ngày giải ngân</td><td>209.894.118.637</td><td>-</td></tr><tr><td>Ngân hàng Thương mại Cổ phần Phát triển Thành phố Hồ Chí Minh (vi)</td><td></td><td></td><td>3,7% - 3,9%</td><td>Theo từng khê uốc nhận nợ</td><td>198.543.417.233</td><td>-</td></tr><tr><td>Ngân hàng Đại chủng TNHH Kasikombank - Chi nhánh Thành phố Hồ Chí Minh (vii)</td><td></td><td></td><td>(*)</td><td>Không quá 120 ngày kể từ ngày giải ngân.</td><td>-</td><td>15.029.371.725</td></tr><tr><td>Ngân hàng TNHH Một thành viên HSBC (Việt Nam) (viii)</td><td></td><td></td><td>(*)</td><td>Không quá 120 ngày kể từ ngày giải ngân.</td><td>-</td><td>-</td></tr><tr><td>Ngân hàng Thương mại Cổ phần Sài Gòn Thương Tín - Chi nhánh Trung Tâm (ix)</td><td></td><td></td><td>(*)</td><td>Theo từng hợp đồng tin dụng và không quá 12 tháng kể từ ngày giải ngân</td><td>-</td><td>-</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>4.273.038.041.770</td><td>5.310.715.159.144</td></tr></table>
+
+36
+
+===== PAGE 39 =====
+CÔNG TY CỔ PHẦN TẬP ĐOÀN HOA SEN
+
+Mẫu số B 09 - DN
+
+18 VAY NGĂN HẠN (tiếp theo)
+
+(*) Tai ngày 30 tháng 9 năm 2025, các hợp đồng tin dụng này vẫn còn hiệu lực nhưng Công ty không phát sinh số dư khoản vay với các ngân hàng này.
+
+Chi tiết tài sản đảm bảo như sau:
+
+(i) Khoản vay từ Ngân hàng Thương mại Cổ phần Ngoại thương Việt Nam - Chi nhánh Nam Bình Dương được đảm bảo bằng khoản phải thu có giá trị là 569 tỷ Đồng; một phần hàng tồn kho của Công ty; quyền sử dụng đất và TSCĐ hữu hình có giá trị còn lại lần lượt là 8,6 tỷ Đồng và 43,8 tỷ Đồng (tại ngày 30 tháng 9 năm 2024: 9 tỷ Đồng và 50 tỷ Đồng); và quyền sử dụng đất và TSCĐ hữu hình của Công ty Trách nhiệm hữu hạn Một thành viên Hoa Sen Hà Nam, Công ty TNHH Một thành viên Hoa Sen Phú Mỹ, Công ty TNHH Một thành viên Tôn Hoa Sen có tổng giá trị còn lại là 292,6 tỷ Đồng (tại ngày 30 tháng 9 năm 2024: 330 tỷ Đồng);
+
+(ii) Khoản vay từ Ngân hàng Thương mai Cổ phần Công Thương Việt Nam - Chi nhánh Đông Thành phố Hồ Chí Minh (trước đây là Ngân hàng Thương mại Cổ phần Công thương Việt Nam - Chi nhánh Khu Công nghiệp Bình Dương) được đảm bảo bằng quyền sử dụng đất và TSCĐ hữu hình có giá trị còn lại lần lượt là 24,2 tỷ Đồng và 44,2 tỷ Đồng (tại ngày 30 tháng 9 năm 2024: 25 tỷ Đồng và 48 tỷ Đồng); khoản phải thu có giá trị là 570 tỷ Đồng; một phần hàng tồn kho của Công ty; quyền sử dụng đất và TSCĐ hữu hình của Công ty TNHH Một thành viên Tôn Hoa Sen có tổng giá trị còn lại là 40,1 tỷ Đồng (tại ngày 30 tháng 9 năm 2024: 45 tỷ Đồng);
+
+(iii) Khoản vay từ Ngân hàng Thương mại Cổ phần Đầu tư và Phát triển Việt Nam - Chi Nhánh Sở Giao Dịch 2 được đảm bảo bằng hợp đồng tiền gửi có kỳ hạn với giá trị ghi số là 28,7 tỷ Đồng (tại ngày 30 tháng 9 năm 2024: 21,3 tỷ Đồng) (Thuyết minh 4(a)) và TSCĐ hữu hình của Công ty Trách nhiệm hữu hạn Một thành viên Hoa Sen Nghệ An có tổng giá trị còn lại là 33,8 tỷ Đồng (tại ngày 30 tháng 9 năm 2024: 42 tỷ Đồng);
+
+(iv) Khoản vay từ Ngân hàng TNHH Một thành viên United Overseas Bank (Việt Nam) được đảm bảo bằng hàng tồn kho của Công ty theo hình thức thả nổi trị giá 23 triệu Đô la Mỹ;
+
+(v) Khoản vay từ Ngân hàng Thương mại Cổ phần Á Châu - Chi nhánh Tân Thuận không cỏ tài sản đảm bảo;
+
+(vi) Khoản vay từ Ngân hàng Thương mại Cổ phần Phát triển Thành phố Hồ Chí Minh không có tài sản đảm bảo;
+
+(vii) Khoản vay từ Ngân hàng Đại chủng TNHH Kasikornbank - Chi nhánh Thành phố Hồ Chí Minh được đảm bảo bằng hàng tồn kho của Công ty được thể chấp ít nhất là 10 triệu Đô la Mỹ (hoặc số tiền tương đương bằng Đồng Việt Nam);
+
+(viii) Khoản vay từ Ngân hàng TNHH Một thành viên HSBC (Việt Nam) được đảm bảo bằng quyền sử dụng đất có giá trị còn lại là 10,7 tỷ Đồng (tại ngày 30 tháng 9 năm 2024: 11 tỷ Đồng); hàng tồn kho của Công ty; và TSCĐ hữu hình của Công ty TNHH Một thành viên Hoa Sen Bình Định có giá trị còn lại là 26,3 tỷ Đồng (tại ngày 30 tháng 9 năm 2024: 29 tỷ Đồng); và
+
+(ix) Tài sản đảm bảo tại Ngân hàng Thương mại Cổ phần Sài Gòn Thương Tín - Chỉ nhánh Trung Tâm là quyền sử dụng đất và TSCĐ hữu hình có giả trị còn lại lần lượt là 7 tỷ Đồng và 0,9 tỷ Đồng (tại ngày 30 tháng 9 năm 2024: 7 tỷ Đồng và 1,5 tỷ Đồng).
+
+37
+
+===== PAGE 40 =====
+CÔNG TY CÔ PHẦN TẬP ĐOÀN HOA SEN
+
+Mẫu số B 09 - DN
+
+19 QUY KHEN THƯỜNG, PHÚC LỢI
+
+Biến động về quỹ khen thưởng, phúc lợi trong năm tài chính như sau:
+
+<table><tr><td rowspan="2"></td><td colspan="2">Năm tài chính kết thúc ngày</td></tr><tr><td>30.9.2025VND</td><td>30.9.2024VND</td></tr><tr><td>Số dư đầu năm</td><td>35.388.068.805</td><td>148.469.573.661</td></tr><tr><td>Trích lập quỹ (Thuyết minh 22)</td><td>18.604.251.306</td><td>18.103.097.086</td></tr><tr><td>Sử dụng quỹ</td><td>(31.937.901.358)</td><td>(131.184.601.942)</td></tr><tr><td>Số dư cuối năm</td><td>22.054.418.753</td><td>35.388.068.805</td></tr></table>
+
+20 THUÊ THU NHẬP DOANH NGHIỆP HOÃN LẠI
+
+Tái sản thuế TNDN hoãn lại và thuế TNDN hoãn lại phải trả được bù trừ khi Công ty có quyền hợp pháp được bù trừ giữa tài sản thuế TNDN hiện hành với thuế TNDN hiện hành phải trả và khi thuế TNDN hoãn lại có liên quan đến cũng một cơ quan thuế và cũng một đơn vị chịu thuế.
+
+Chi tiết tải sản thuế TNDN hoãn lại và thuế TNDN hoãn lại phải trả như sau:
+
+<table><tr><td></td><td>30.9.2025VND</td><td>30.9.2024VND</td></tr><tr><td>Tài sản thuế TNDN hoãn lại:Tài sản thuế TNDN hoãn lại đượcthu hồi sau 12 tháng</td><td>2.628.135.683</td><td>2.650.202.225</td></tr><tr><td>Tài sản thuế TNDN hoãn lại đượcthu hồi trong vòng 12 tháng</td><td>82.115.434.152</td><td>74.107.717.134</td></tr><tr><td></td><td>84.743.569.835</td><td>76.757.919.359</td></tr><tr><td>Thuế TNDN hoãn lại phải trả:Thuế TNDN hoãn lại phải tràtrong vòng 12 tháng</td><td>(6.580.398)</td><td>-</td></tr><tr><td></td><td>84.736.989.437</td><td>76.757.919.359</td></tr></table>
+
+38
+
+===== PAGE 41 =====
+CÔNG TY CÓ PHẦN TẬP ĐOÀN HOA SEN
+
+Mẫu số B 09 - DN
+
+20 THUÊ THU NHẬP DOANH NGHIỆP HOÃN LẠI (tiếp theo)
+
+Biến động về thuế TNDN hoãn lai, được bù trừ các số dư liên quan đến cùng một cơ quan thuế, trong năm tài chính như sau:
+
+<table><tr><td rowspan="2"></td><td colspan="2">Năm tài chính kết thúc ngày</td></tr><tr><td>30.9.2025VND</td><td>30.9.2024VND</td></tr><tr><td>Số dư đầu năm</td><td>76.757.919.359</td><td>50.288.238.178</td></tr><tr><td>Ghi nhận vào báo cáo kết quả hoạt động kinh doanh riêng (Thuyết minh 31)</td><td>7.979.070.078</td><td>26.469.681.181</td></tr><tr><td>Số dư cuối năm</td><td>84.736.989.437</td><td>76.757.919.359</td></tr></table>
+
+(a) Chi tiết tài sản thuế TNDN hoãn lại
+
+Tài sản thuế TNDN hoãn lại liên quan đến các khoản mục chênh lệch tam thời sau:
+
+<table><tr><td></td><td>30.9.2025VND</td><td>30.9.2024VND</td></tr><tr><td>Chi phí phải trả</td><td>62.733.323.787</td><td>45.018.199.654</td></tr><tr><td>Các khoản dự phòng</td><td>18.016.363.076</td><td>27.105.693.361</td></tr><tr><td>Lợi nhuận chưa thực hiện</td><td>3.993.882.972</td><td>4.031.414.140</td></tr><tr><td>Chênh lệch tỷ giá hối đoái chưa thực hiện</td><td>-</td><td>602.612.204</td></tr><tr><td></td><td>84.743.569.835</td><td>76.757.919.359</td></tr></table>
+
+(b) Chi tiết thuế thu nhập hoãn lại phải trả
+
+Thuế TNDN hoān lại phải trả liên quan đến khoản mục chênh lệch tạm thời sau:
+
+<table><tr><td></td><td>30.9.2025VND</td><td>30.9.2024VND</td></tr><tr><td>Chênh lệch tỷ giả hối đoái chưa thực hiện</td><td>(6.580.398)</td><td>-</td></tr></table>
+
+Thuế suất thuế TNDN sử dụng để xác định giá trị tài sản thuế TNDN hoãn lại và thuế thu nhập hoãn lại phải trả năm 2025 và 2024 là 20%.
+
+Tài sản thuế TNDN hoãn lại được ghi nhận dựa trên khá năng thu được thu nhập chịu thuế trong tương lai để cán trừ các khoản chênh lệch tam thời đã phát sinh này.
+
+39
+
+===== PAGE 42 =====
+CÔNG TY CỔ PHẦN TẬP ĐOÀN HOA SEN
+
+Mẫu số B 09 - DN
+
+21 VÔN GÓP CỦA CHỦ SỞ HỮU
+
+(a) Số lượng cổ phiếu
+
+<table><tr><td rowspan="2"></td><td colspan="2">Tại ngày 30.9.2025</td><td colspan="2">Tại ngày 30.9.2024</td></tr><tr><td>Cổ phiếu phổ thông</td><td>Cổ phiếu ưu đãi</td><td>Cổ phiếu phổ thông</td><td>Cổ phiếu ưu đãi</td></tr><tr><td>Số lượng cổ phiếu đăng ký</td><td>620.982.309</td><td>-</td><td>615.982.309</td><td>-</td></tr><tr><td>Số lượng cổ phiếu đã phát hành</td><td>620.982.309</td><td>-</td><td>615.982.309</td><td>-</td></tr><tr><td>Số lượng cổ phiếu đang lưu hành</td><td>620.982.309</td><td>-</td><td>615.982.309</td><td>-</td></tr></table>
+
+(b) Chi tiết vốn góp của chủ sở hữu
+
+<table><tr><td rowspan="2"></td><td colspan="2">Tai ngày 30.9.2025</td><td colspan="2">Tai ngày 30.9.2024</td></tr><tr><td>Cổ phiếu phổ thông</td><td>%</td><td>Cổ phiếu phổ thông</td><td>%</td></tr><tr><td>Ông Lê Phước Vũ</td><td>105.345.945</td><td>16,96</td><td>104.845.945</td><td>17,02</td></tr><tr><td>Cổ đông khác</td><td>515.636.364</td><td>83,04</td><td>511.136.364</td><td>82,98</td></tr><tr><td>Số lượng cổ phiếu đã phát hành</td><td>620.982.309</td><td>100,00</td><td>615.982.309</td><td>100,00</td></tr></table>
+
+(c) Tinh hình biển động của vốn cổ phần
+
+<table><tr><td></td><td>Số cổ phiếu</td><td>Cổ phiếu phổ thông VND</td><td>Tổng cộng VND</td></tr><tr><td>Tại ngày 1 tháng 10 năm 2023</td><td>615.982.309</td><td>6.159.823.090.000</td><td>6.159.823.090.000</td></tr><tr><td>Tại ngày 30 tháng 9 năm 2024</td><td>615.982.309</td><td>6.159.823.090.000</td><td>6.159.823.090.000</td></tr><tr><td>Cổ phiếu mới phát hành</td><td>5.000.000</td><td>50.000.000.000</td><td>50.000.000.000</td></tr><tr><td>Tại ngày 30 tháng 9 năm 2025</td><td>620.982.309</td><td>6.209.823.090.000</td><td>6.209.823.090.000</td></tr></table>
+
+Mệnh giá cổ phiếu: 10.000 Đồng trên một cổ phiếu.
+
+40
+
+===== PAGE 43 =====
+CÔNG TY CÓ PHẦN TẬP ĐOÀN HOA SEN
+
+Mẫu số B 09 - DN
+
+22 TÍNH HÌNH TĂNG GIÀM NGUỒN VỐN CHỦ SỞ HỮU
+
+<table><tr><td></td><td>Vốn cổ phần VND</td><td>Thắng dư vốn cổ phần VND</td><td>Quỹ khác thuộc vốn chủ sở hữu VND</td><td>LNST chưa phân phối VND</td><td>Tổng cộng VND</td></tr><tr><td>Tai ngày 1 tháng 10 năm 2023</td><td>6.159.823.090.000</td><td>157.292.539.068</td><td>77.910.496.944</td><td>4.886.924.844.463</td><td>11.281.950.970.475</td></tr><tr><td>Lợi nhuận thuần trong năm</td><td>-</td><td>-</td><td>-</td><td>528.922.307.162</td><td>528.922.307.162</td></tr><tr><td>Chia cổ tức bằng tiền</td><td>-</td><td>-</td><td>-</td><td>(307.991.154.500)</td><td>(307.991.154.500)</td></tr><tr><td>Trích lập quỹ khen thưởng, phúc lợi (Thuyết minh 19)</td><td>-</td><td>-</td><td>-</td><td>(18.103.097.086)</td><td>(18.103.097.086)</td></tr><tr><td>Trích lập quỹ khác</td><td>-</td><td>-</td><td>24.891.758.493</td><td>(24.891.758.493)</td><td>-</td></tr><tr><td>Sử dụng quỹ khác</td><td>-</td><td>-</td><td>(51.809.041.668)</td><td>-</td><td>(51.809.041.668)</td></tr><tr><td>Tai ngày 30 tháng 9 năm 2024</td><td>6.159.823.090.000</td><td>157.292.539.068</td><td>50.993.213.769</td><td>5.064.861.141.546</td><td>11.432.969.984.383</td></tr><tr><td>Lợi nhuận thuần trong năm</td><td>-</td><td>-</td><td>-</td><td>913.831.065.572</td><td>913.831.065.572</td></tr><tr><td>Chia cổ tức bằng tiền (*)</td><td>-</td><td>-</td><td>-</td><td>(310.491.154.500)</td><td>(310.491.154.500)</td></tr><tr><td>Phát hành cổ phiếu theo chương trình lựa chơn cho người lao đông (ESOP) (**)</td><td>50.000.000.000</td><td>-</td><td>-</td><td>-</td><td>50.000.000.000</td></tr><tr><td>Trích lập quỹ khen thưởng, phúc lợi (Thuyết minh 19) (*)</td><td>-</td><td>-</td><td>-</td><td>(18.604.251.306)</td><td>(18.604.251.306)</td></tr><tr><td>Trích lập quỹ khác (*)</td><td>-</td><td>-</td><td>25.580.845.546</td><td>(25.580.845.546)</td><td>-</td></tr><tr><td>Sử dụng quỹ khác</td><td>-</td><td>-</td><td>(34.099.644.435)</td><td>-</td><td>(34.099.644.435)</td></tr><tr><td>Tai ngày 30 tháng 9 năm 2025</td><td>6.209.823.090.000</td><td>157.292.539.068</td><td>42.474.414.860</td><td>5.624.015.955.766</td><td>12.033.605.999.714</td></tr></table>
+
+(*) Theo Nghị quyết Đại hội đồng Cổ đông thường niên năm 2024-2025 số 01/NQ/DHDCĐ/2025 ngày 18 tháng 3 năm 2025, ĐHDCĐ đã thông qua phương án chỉ trả cổ tức và trích lập các quỹ và thủ lao, kinh phí của HĐQT trong niên độ tài chính ("NDTC") 2023-2024 và phê duyệt tỷ lệ trích lập tối đa các quỹ và thủ lao, kinh phí của HĐQT trong NĐTC 2024-2025. Theo đó:
+• Chia cổ tức bằng tiền từ LNST hợp nhất chưa phân phối lũy kế đến hết ngày 30 tháng 9 năm 2024 với tỷ lệ thực hiện là 5% mênh già cổ phiếu đang lưu hành;
+• Trích bổ sung quỹ khen thưởng, phúc lợi cho NĐTC 2023-2024 là 3.682.624.676 Đồng và tạm trích cho NĐTC 2024-2025 là 14.921.626.630 Đồng;
+• Trích bổ sung quỹ tài trợ và từ thiên cho NĐTC 2023-2024 là 3.682.624.676 Đồng và tạm trích cho NĐTC 2024-2025 là 14.921.626.630 Đồng; và
+• Trích bổ sung thủ lao, chỉ phí hoạt động của Hội đồng Quản trị và các đơn vị trực thuộc Hội đồng Quản trị cho NĐTC 2023-2024 là 1.380.984.254 Đồng và tạm trích cho NĐTC 2024-2025 là 5.595.609.986 Đồng
+
+(**) Theo Nghị quyết Đại hội đồng cổ đông thường niên năm 2023 – 2024 số 01/NQ/DHDCD/2024 ngày 18 tháng 3 năm 2024, Đại hội đồng cổ đông thông qua chủ trương phát hành cổ phiếu theo chương trình lựa chọn cho người lao động ("ESOP") đối với Cán bộ Lãnh đạo, Quản trị, Điều hành và Cán bộ Quản lý, nhân sự chủ chất khác thuộc Tập đoàn và ủy quyền cho Hội đồng Quản trị quyết định thời gian triển khai thực hiện. Theo đó, đotted phát hành ESOP bắt đầu từ ngày 31 tháng 8 năm 2024 đến hết ngày 9 tháng 10 năm 2024. Ngày 9 tháng 10 năm 2024, Công ty đã hoàn thành đotted phát hành.
+
+41
+
+===== PAGE 44 =====
+CÔNG TY CÓ PHẦN TẬP ĐOÀN HOA SEN
+
+Mẫu số B 09 - DN
+
+23 CÁC KHOÀN MỤC NGOÀI BÀNG CẦN ĐỐI KẾ TOÁN RIÊNG
+
+(a) Xóa sô tài sản thiếu chờ xử lý
+
+Trong niên độ tài chính kết thúc ngày 30 tháng 9 năm 2025. Công ty không có các khoản nợ khó đòi đã xử lý đã xóa số (tai ngày 30 tháng 9 năm 2024: 10.345.169.668).
+
+(b) Ngoại tệ
+
+Tại ngày 30 tháng 9 năm 2025, khoản mục tiền và các khoản tương đương tiền đã bao gồm số ngoại tệ là 6.622.629 Đô la Mỹ (tại ngày 30 tháng 9 năm 2024: 6.792.326 Đô la Mỹ).
+
+24 DOANH THU THUÀN VỀ BÁN HÀNG VÀ CUNG CÁP DỊCH VỤ
+
+<table><tr><td rowspan="2"></td><td colspan="2">Năm tài chính kết thúc ngày</td></tr><tr><td>30.9.2025VND</td><td>30.9.2024VND</td></tr><tr><td colspan="3">Doanh thu về bán hàng và cung cấp dịch vụ</td></tr><tr><td>Doanh thu bán hàng hóa</td><td>39.807.273.525.952</td><td>49.885.357.777.105</td></tr><tr><td>Doanh thu bán thành phẩm</td><td>16.333.936.671.121</td><td>17.156.159.722.432</td></tr><tr><td>Doanh thu cung cấp dịch vụ</td><td>10.653.797.546</td><td>8.628.416.616</td></tr><tr><td>Doanh thu khác</td><td>9.302.416</td><td>1.224.929.818</td></tr><tr><td></td><td>56.151.873.297.035</td><td>67.051.370.845.971</td></tr><tr><td colspan="3">Các khoản giảm trừ</td></tr><tr><td>Chiết khấu thương mại</td><td>(384.311.924.593)</td><td>(305.868.861.202)</td></tr><tr><td>Hàng bán bị trả lại</td><td>(30.656.662.228)</td><td>(22.670.719.345)</td></tr><tr><td>Giảm giá hàng bán</td><td>(20.481.844.666)</td><td>(10.283.466.673)</td></tr><tr><td></td><td>(435.450.431.487)</td><td>(338.823.047.220)</td></tr><tr><td colspan="3">Doanh thu thuần về bán hàng và cung cấp dịch vụ</td></tr><tr><td>Doanh thu thuần về bán hàng hóa</td><td>39.652.960.228.344</td><td>49.823.396.756.535</td></tr><tr><td>Doanh thu thuần về bán thành phẩm</td><td>16.052.799.537.242</td><td>16.879.297.695.782</td></tr><tr><td>Doanh thu thuần về cung cấp dịch vụ</td><td>10.653.797.546</td><td>8.628.416.616</td></tr><tr><td>Doanh thu thuần khác</td><td>9.302.416</td><td>1.224.929.818</td></tr><tr><td></td><td>55.716.422.865.548</td><td>66.712.547.798.751</td></tr></table>
+
+42
+
+===== PAGE 45 =====
+CÔNG TY CÓ PHẦN TẬP ĐOÀN HOA SEN
+
+Mẫu số B 09 - DN
+
+25 GIÁ VÔN HÀNG BẢN VÀ DỊCH VỤ CUNG CẤP
+
+<table><tr><td rowspan="2"></td><td colspan="2">Năm tài chính kết thúc ngày</td></tr><tr><td>30.9.2025VND</td><td>30.9.2024VND</td></tr><tr><td>Giá vốn của hàng hóa đã bán</td><td>37.812.017.135.392</td><td>47.709.643.687.322</td></tr><tr><td>Giá vốn của thành phẩm đã bán</td><td>15.081.977.019.258</td><td>15.767.927.389.328</td></tr><tr><td>Giá vốn của dịch vụ đã cung cấp</td><td>1.631.079.805</td><td>1.388.115.063</td></tr><tr><td>Giảm dư phòng giảm giá hàng tổn kho (Thuyết minh 9)</td><td>(46.016.582.849)</td><td>(5.160.143.430)</td></tr><tr><td></td><td>52.849.608.651.606</td><td>63.473.799.048.283</td></tr></table>
+
+26 DOANH THU HOẠT ĐỘNG TẢI CHỈNH
+
+<table><tr><td rowspan="2"></td><td colspan="2">Năm tài chính kết thúc ngày</td></tr><tr><td>30.9.2025VND</td><td>30.9.2024VND</td></tr><tr><td>Lợi nhuận được chia (Thuyết minh 35(a))</td><td>943.521.034.246</td><td>298.441.792.270</td></tr><tr><td>Lãi chênh lệch tỷ giá hối đoái đã thực hiện</td><td>271.546.892.875</td><td>335.971.784.697</td></tr><tr><td>Lãi tiền gửi, tiền cho vay</td><td>15.909.442.125</td><td>7.974.056.145</td></tr><tr><td>Lãi thu từ khách hàng chậm thanh toàn</td><td>3.109.412.744</td><td>9.980.309.748</td></tr><tr><td>Chiết khấu thanh toán được hưởng</td><td>1.949.378.121</td><td>570.151.847</td></tr><tr><td>Lãi từ hoạt động đầu tư</td><td>68.500.000</td><td>-</td></tr><tr><td></td><td>1.236.104.660.111</td><td>652.938.094.707</td></tr></table>
+
+27 CHI PHÍ TÀI CHÍNH
+
+<table><tr><td rowspan="2"></td><td colspan="2">Năm tài chính kết thúc ngày</td></tr><tr><td>30.9.2025VND</td><td>30.9.2024VND</td></tr><tr><td>Chi phí lãi vay</td><td>176.174.297.625</td><td>131.805.003.372</td></tr><tr><td>Lỗ chênh lệch tỷ giá hối đoái đã thực hiện</td><td>81.778.577.732</td><td>112.642.729.238</td></tr><tr><td>Lỗ thuần do đánh giá lại các khoảncó gốc ngoại tệ cuối năm</td><td>3.197.897.048</td><td>4.859.887.308</td></tr><tr><td>Chiết khấu thanh toán</td><td>40.902.788</td><td>2.242.405.800</td></tr><tr><td></td><td>261.191.675.193</td><td>251.550.025.718</td></tr></table>
+
+43
+
+===== PAGE 46 =====
+CÔNG TY CỔ PHẦN TẬP ĐOÀN HOA SEN
+
+Mẫu số B 09 - DN
+
+28 CHI PHÍ BÁN HÀNG
+
+<table><tr><td rowspan="2"></td><td colspan="2">Năm tài chính kết thúc ngày</td></tr><tr><td>30.9.2025VND</td><td>30.9.2024VND</td></tr><tr><td>Chi phí xuất khẩu</td><td>865.300.757.408</td><td>1.307.180.299.620</td></tr><tr><td>Chi phí nhân viên</td><td>854.771.525.616</td><td>755.370.213.131</td></tr><tr><td>Chi phí thuê cửa hàng</td><td>187.072.415.429</td><td>175.025.526.450</td></tr><tr><td>Chi phí khấu hao</td><td>149.253.436.831</td><td>161.404.676.332</td></tr><tr><td>Chi phí vận chuyển</td><td>139.340.593.102</td><td>122.582.402.073</td></tr><tr><td>Chi phí dịch vụ mua ngoài</td><td>78.062.897.026</td><td>68.640.499.559</td></tr><tr><td>Chi phí quảng cáo</td><td>55.480.621.670</td><td>50.389.347.411</td></tr><tr><td>Khác</td><td>205.514.393.398</td><td>218.115.847.984</td></tr><tr><td></td><td>2.534.796.640.480</td><td>2.858.708.812.560</td></tr></table>
+
+29 CHI PHÍ QUẢN LÝ DOANH NGHIỆP
+
+<table><tr><td rowspan="2"></td><td colspan="2">Năm tài chính kết thúc ngày</td></tr><tr><td>30.9.2025VND</td><td>30.9.2024VND</td></tr><tr><td>Chi phí nhân viên</td><td>187.644.244.391</td><td>140.423.962.462</td></tr><tr><td>Chi phí dịch vụ mua ngoài</td><td>51.623.712.920</td><td>39.716.220.954</td></tr><tr><td>Chi phí dịch vụ chuyên nghiệp</td><td>29.675.436.445</td><td>5.129.505.600</td></tr><tr><td>Chi phí công tác</td><td>19.999.170.601</td><td>11.596.418.354</td></tr><tr><td>Chi phí tiếp khách</td><td>17.994.650.158</td><td>10.892.997.524</td></tr><tr><td>Chi phí khấu hao</td><td>15.465.145.886</td><td>16.994.995.197</td></tr><tr><td>Chi phí thuê văn phòng và thiết bị</td><td>13.053.738.745</td><td>23.467.211.958</td></tr><tr><td>Khác</td><td>86.797.704.465</td><td>60.146.387.923</td></tr><tr><td></td><td>422.253.803.611</td><td>308.367.699.972</td></tr></table>
+
+30 THU NHẬP VÀ CHI PHÍ KHÁC
+
+<table><tr><td rowspan="2"></td><td colspan="2">Năm tài chính kết thúc ngày</td></tr><tr><td>30.9.2025VND</td><td>30.9.2024VND</td></tr><tr><td colspan="3">Thu nhập khác</td></tr><tr><td>Lãi do thanh lý TSCĐ</td><td>24.234.211.638</td><td>18.837.391.545</td></tr><tr><td>Tiền bồi thường thu được</td><td>10.732.981.279</td><td>2.297.375.456</td></tr><tr><td>Khác</td><td>11.850.960.737</td><td>13.549.494.897</td></tr><tr><td></td><td>46.818.153.654</td><td>34.684.261.898</td></tr><tr><td colspan="3">Chi phí khác</td></tr><tr><td>Khác</td><td>(3.559.515.528)</td><td>(5.192.249.642)</td></tr><tr><td>Lợi nhuận khác</td><td>43.258.638.126</td><td>29.492.012.256</td></tr></table>
+
+44
+
+===== PAGE 47 =====
+CÔNG TY CỔ PHẦN TẬP ĐOÀN HOA SEN
+
+Mẫu số B 09 - DN
+
+31 THUÊ THU NHẬP DOANH NGHIỆP ("TNDN")
+
+Số thuế TNDN trên lợi nhuận kế toàn trước thuế của Công ty khác với số thuế khi được tính theo thuế suất phổ thông áp dụng 20% như sau:
+
+<table><tr><td rowspan="2"></td><td colspan="2">Năm tài chính kết thúc ngày</td></tr><tr><td>30.9.2025VND</td><td>30.9.2024VND</td></tr><tr><td>Lợi nhuận kế toán trước thuế</td><td>927.935.392.895</td><td>502.552.319.181</td></tr><tr><td>Thuế tính ở thuế suất 20%</td><td>185.587.078.579</td><td>100.510.463.836</td></tr><tr><td>Điều chỉnh:</td><td></td><td></td></tr><tr><td>Thu nhập không chịu thuế</td><td>(188.704.206.849)</td><td>(59.688.358.454)</td></tr><tr><td>Chi phí không được khấu trừ</td><td>25.013.626.580</td><td>23.555.799.945</td></tr><tr><td>Lỗ tỉnh thuế đã được sử dụng</td><td>(8.798.004.521)</td><td>(87.204.141.457)</td></tr><tr><td>Chênh lệch tạm thời mà không ghi nhận thuế TNDN hoãn lại</td><td>-</td><td>(3.643.445.051)</td></tr><tr><td>Dự phòng thiếu của kỳ trước</td><td>1.005.833.534</td><td>99.693.200</td></tr><tr><td>Chi phí/(thu nhập) thuế TNDN (*)</td><td>14.104.327.323</td><td>(26.369.987.981)</td></tr><tr><td>Chi phí/(thu nhập) thuế TNDN ghi nhận trong báo cáo kết quả hoạt động kinh doanh riêng giữa niên độ:</td><td></td><td></td></tr><tr><td>Thuế TNDN - hiện hành</td><td>22.083.397.401</td><td>99.693.200</td></tr><tr><td>Thuế TNDN - hoãn lại (Thuyết minh 20)</td><td>(7.979.070.078)</td><td>(26.469.681.181)</td></tr><tr><td></td><td>14.104.327.323</td><td>(26.369.987.981)</td></tr></table>
+
+(*) Chi phi thuế TNDN cho năm tài chính được ước tỉnh dựa vào thu nhập chịu thuế và có thể có những điều chỉnh tùy thuộc vào sự kiểm tra của cơ quan thuế.
+
+32 CHI PHÍ SÁN XUÁT KINH DOANH THEO YÉU TÓ
+
+Chi phí sản xuất kinh doanh theo yếu tố thể hiện các chi phí phát sinh trong năm tài chính từ hoạt động kinh doanh của Công ty, không bao gồm giả mua hàng hóa phát sinh trong hoạt động thương mai. Chi tiết được trình bày như sau:
+
+<table><tr><td rowspan="2"></td><td colspan="2">Năm tài chính kết thúc ngày</td></tr><tr><td>30.9.2025VND</td><td>30.9.2024VND</td></tr><tr><td>Chi phí nguyên liệu, vật liệu</td><td>13.467.264.648.587</td><td>14.771.765.929.612</td></tr><tr><td>Chi phí dịch vụ mua ngoài</td><td>1.463.875.488.857</td><td>1.881.703.161.240</td></tr><tr><td>Chi phí nhân viên</td><td>1.134.025.202.014</td><td>984.900.095.440</td></tr><tr><td>Chi phí khấu hao TSCĐ</td><td>182.926.890.791</td><td>213.396.307.446</td></tr><tr><td>Khác</td><td>792.935.713.024</td><td>699.753.059.890</td></tr><tr><td></td><td>17.041.027.943.273</td><td>18.551.518.553.628</td></tr></table>
+
+45
+
+===== PAGE 48 =====
+CÔNG TY CỔ PHẦN TẬP ĐOẦN HOA SEN
+
+Mẫu số B 09 - DN
+
+33 CÁC GIAO DỊCH ÁNH HƯỜNG ĐÊN BẢO CẢO LƯU CHUYẾN TIỀN TỆ RIÊNG
+
+<table><tr><td></td><td>30.9.2025VND</td><td>30.9.2024VND</td></tr><tr><td>Mua sám TSCĐ và các tài sản dài hạn khác nhung chưa thanh toán</td><td>29.350.616.268</td><td>7.487.151.911</td></tr><tr><td>Ứng trước tiền mua TSCĐ và các tài sản dài hạn khác</td><td>1.419.912.658.497</td><td>512.194.609.706</td></tr><tr><td rowspan="2"></td><td colspan="2">Năm tài chính kết thúc ngày</td></tr><tr><td>30.9.2025VND</td><td>30.9.2024VND</td></tr><tr><td>Cán trừ khoản phải thu ngắn hạn khác và khoản phải trả ngắn hạn</td><td>298.441.792.270</td><td>534.673.894.324</td></tr><tr><td>Xóa số tài sản thiếu chờ xử lý</td><td>-</td><td>10.345.169.668</td></tr><tr><td>Chuyển đổi khoản phải thu về cho vay dài hạn thành khoản đầu tư vào công ty con</td><td>-</td><td>4.200.000.000</td></tr><tr><td>Chuyển đổi lãi cho vay phải thu thành khoản đầu tư vào công ty con</td><td>-</td><td>45.087.671</td></tr></table>
+
+46
+
+===== PAGE 49 =====
+CÔNG TY CÓ PHẦN TẬP ĐOÀN HOA SEN
+
+Mẫu số B 09 - DN
+
+34 BÁO CÁO BỘ PHẠN
+
+Ban Tổng Giám đốc của Công ty xác định răng, việc ra các quyết định quản lý của Công ty chủ yếu dựa trên các loại sản phẩm, hàng hóa, và dịch vụ mà Công ty cung cấp. Do vậy bảo cáo bộ phận chính yếu của Công ty là theo lĩnh vực kinh doanh.
+
+Báo cáo bộ phận theo lĩnh vực kinh doanh
+
+Hoạt động kinh doanh chính của Công ty là sản xuất tám lợp bằng thép mạ kẽm, hợp kim nhóm kẽm, mạ kẽm phủ son, mạ các loại hợp kim khác; sản xuất xà gỗ thép, xà gỗ mạ kẽm; sản xuất ống thép đen, ống thép mạ kẽm, ống thép mạ các loại hợp kim khác; sản xuất lưới thép mạ, dây thép mạ kẽm, dây thép các loại; mua bán vật liệu xây dựng, tư liệu sản xuất và hàng tiêu dùng; sản xuất thép cản người dạng cuôn và cho thuê máy móc, thiết bị và đồ dùng hữu hình khác. Hoạt động kinh doanh khác là dịch vụ cho thuê kho và vận tải hàng hóa; xây dựng công nghiệp và dân dụng. Trong năm tài chính, hoạt động kinh doanh khác chiếm tỷ trong không đáng kể trong tổng doanh thu và kết quả hoạt động kinh doanh riêng của Công ty. Theo đó, thông tin tài chính trình bày trên bảng cân đối kể toán riêng và bảo cáo kết quả hoạt động kinh doanh riêng chủ yếu liên quan đến hoạt động kinh doanh chính của Công ty.
+
+Báo cáo bộ phận theo khu vực địa lý
+
+Doanh thu bộ phận bán hàng, cung cấp dịch vụ ra bên ngoài theo khu vực địa lý dựa trên vị trí của khách hàng. Tổng giá trị còn lại của tài sản bộ phận theo vị trí địa lý của tài sản. Tại ngày 30 tháng 9 năm 2025 và ngày 30 tháng 9 năm 2024, toàn bộ tài sản của Công ty chỉ nấm trên lãnh thổ Việt Nam.
+
+47
+
+===== PAGE 50 =====
+CÔNG TY CÓ PHẦN TẬP ĐOÀN HOA SEN
+
+34 BÁO CÁO BỘ PHẦN (tiếp theo)
+
+Báo cáo bộ phận theo khu vực địa lý (tiếp theo)
+
+Báo cáo bộ phận theo khu vực địa lý của Công ty như sau:
+
+Năm tài chính kết thúc ngày 30 tháng 9 năm 2025
+
+<table><tr><td>Trong nước VND</td><td>Nước ngoài VND</td><td>Tổng cộng VND</td></tr><tr><td>43.529.672.734.768(41.877.782.324.572)</td><td>12.186.750.130.780(10.971.826.327.034)</td><td>55.716.422.865.548(52.849.608.651.606)</td></tr><tr><td>1.651.890.410.196</td><td>1.214.923.803.746</td><td>2.866.814.213.942</td></tr><tr><td colspan="3">Năm tài chính kết thúc ngày 30 tháng 9 năm 2024</td></tr><tr><td>Trong nước VND</td><td>Nước ngoài VND</td><td>Tổng cộng VND</td></tr><tr><td>48.044.118.276.974(46.770.486.975.472)</td><td>18.668.429.521.777(16.703.312.072.811)</td><td>66.712.547.798.751(63.473.799.048.283)</td></tr><tr><td>1.273.631.301.502</td><td>1.965.117.448.966</td><td>3.238.748.750.468</td></tr></table>
+
+Doanh thu thuần từ bản hàng và cung cấp dịch vụ
+Giá vốn hàng bán và dịch vụ cung cấp
+
+Lợi nhuận gộp về bán hàng và cung cấp dịch vụ
+
+Doanh thu thuần từ bán hàng và cung cấp dịch vụ
+Giá vốn hàng bán và dịch vụ cung cấp
+
+Lợi nhuận gộp về bán hàng và cung cấp dịch vụ
+
+Mẫu số B 09 - DN
+
+48
+
+===== PAGE 51 =====
+CÔNG TY CÓ PHẦN TẬP ĐOÀN HOA SEN
+
+Mẫu số B 09 - DN
+
+35 THUYẾT MINH VỀ CÁC BÊN LIÊN QUAN
+
+Công ty là một công ty cổ phần.
+
+Chi tiết của các công ty con và công ty liên kết như trong Thuyết minh 1.
+
+Chi tiết của các bên liên quan chính và mối quan hệ như sau:
+
+<table><tr><td>Tên</td><td>Mối quan hệ</td></tr><tr><td>Công ty Trách nhiệm hữu hạn Một thành viên Hoa Sen Nghệ An</td><td>Công ty con</td></tr><tr><td>Công ty Trách nhiệm hữu hạn Một thành viên Hoa Sen Nhơn Hội - Bình Định</td><td>Công ty con</td></tr><tr><td>Công ty TNHH Một thành viên Tôn Hoa Sen</td><td>Công ty con</td></tr><tr><td>Công ty TNHH Một thành viên Hoa Sen Phú Mỹ</td><td>Công ty con</td></tr><tr><td>Công ty Trách nhiệm hữu hạn Một thành viên Hoa Sen Hà Nam</td><td>Công ty con</td></tr><tr><td>Công ty Cổ phần Nhưa Hoa Sen</td><td>Công ty con</td></tr><tr><td>Công ty TNHH Một thành viên Hoa Sen Bình Định</td><td>Công ty con</td></tr><tr><td>Công ty Cổ phần Hoa Sen Yên Bái</td><td>Công ty con</td></tr><tr><td>Công ty Trách nhiệm hữu hạn Một thành viên Vật liệu Xây dựng Hoa Sen Yên Bái</td><td>Công ty con</td></tr><tr><td>Công ty TNHH Tập đoàn Đầu tư Hoa Sen</td><td>Công ty thuộc sở hữu của Chủ tịch Công ty</td></tr><tr><td>Công ty TNHH Một thành viên Đầu tư Hoa Sen Nghệ An</td><td>Công ty thuộc sở hữu của Chủ tịch Công ty</td></tr><tr><td>Công ty TNHH Dash</td><td>Bên liên quan của Chủ tịch Công ty</td></tr><tr><td>Ông Hoàng Đức Huy</td><td>Thành viênBan Tổng Giám đốc</td></tr><tr><td>Bà Lê Thị Lệ Hoa</td><td>Bên liên quan của Chủ tịch Công ty</td></tr></table>
+
+49
+
+===== PAGE 52 =====
+CÔNG TY CỔ PHẦN TẬP ĐOẢN HOA SEN
+
+Mẫu số B 09 - DN
+
+35 THUYẾT MINH VỀ CÁC BÊN LIÊN QUAN (tiếp theo)
+
+(a) Giao dịch với các bên liên quan
+
+Các giao dịch chủ yếu với các bên liên quan phát sinh trong năm tài chính gồm:
+
+<table><tr><td rowspan="2"></td><td colspan="2">Năm tài chính kết thúc ngày</td></tr><tr><td>30.9.2025VND</td><td>30.9.2024VND</td></tr><tr><td colspan="3">(i) Doanh thu thuần bán hàng và cung cấp dịch vụ</td></tr><tr><td colspan="3">Công ty con</td></tr><tr><td>Công ty TNHH Một thành viên Tôn Hoa Sen</td><td>9.824.514.380.168</td><td>13.105.231.171.955</td></tr><tr><td>Công ty Trách nhiệm hữu hạn Một thành viên Hoa Sen Nghệ An</td><td>9.156.011.089.002</td><td>12.094.197.159.860</td></tr><tr><td>Công ty Trách nhiệm hữu hạn Một thành viên Hoa Sen Nhơn Hội - Bình Đình</td><td>3.993.400.186.069</td><td>4.947.074.319.509</td></tr><tr><td>Công ty TNHH Một thành viên Hoa Sen Phú Mỹ</td><td>2.830.215.648.137</td><td>2.936.918.714.484</td></tr><tr><td>Công ty Trách nhiệm hữu hạn Một thành viên Hoa Sen Hà Nam</td><td>3.879.241.661</td><td>1.876.927.030</td></tr><tr><td>Công ty Cổ phần Nhựa Hoa Sen</td><td>2.383.475.137</td><td>2.154.777.912</td></tr><tr><td>Công ty Trách nhiệm hữu hạn Một thành viên Vật liệu Xây dựng Hoa Sen Yên Bái</td><td>811.366.778</td><td>46.367.917</td></tr><tr><td>Công ty TNHH Một thành viên Hoa Sen Bình Đình</td><td>435.792.014</td><td>3.747.446.141</td></tr><tr><td colspan="3">Bên liên quan khác</td></tr><tr><td>Công ty TNHH Tập đoàn Đầu tư Hoa Sen</td><td>3.160.907.197.192</td><td>2.364.920.717.469</td></tr><tr><td>Công ty TNHH Dash</td><td>86.208.736</td><td>-</td></tr><tr><td></td><td>28.972.644.584.894</td><td>35.456.167.602.277</td></tr></table>
+
+50
+
+===== PAGE 53 =====
+CÔNG TY CÓ PHẦN TẬP ĐOÀN HOA SEN
+
+Mẫu số B 09 - DN
+
+35 THUYẾT MINH VÊ CẮC BÊN LIÊN QUAN (tiếp theo)
+
+(a) Giao dịch với các bên liên quan (tiếp theo)
+
+<table><tr><td rowspan="2"></td><td colspan="2">Năm tài chính kết thúc ngày</td></tr><tr><td>30.9.2025VND</td><td>30.9.2024VND</td></tr><tr><td colspan="3">(ii) Mua hàng hóa và dịch vụ</td></tr><tr><td colspan="3">Công ty con</td></tr><tr><td>Công ty TNHH Mốt thành viên Tôn Hoa Sen</td><td>11.306.708.350.425</td><td>12.405.238.116.358</td></tr><tr><td>Công ty Trách nhiệm hữu hạn Một thành viên Hoa Sen Nghề An</td><td>7.852.142.667.511</td><td>10.562.180.703.366</td></tr><tr><td>Công ty Trách nhiệm hữu hạn Một thành viên Hoa Sen Nhơn Hôi - Bình Định</td><td>3.107.733.570.416</td><td>3.853.646.450.028</td></tr><tr><td>Công ty TNHH Mốt thành viên Hoa Sen Phú Mỹ</td><td>1.655.234.862.879</td><td>1.768.285.426.641</td></tr><tr><td>Công ty TNHH Mốt thành viên Hoa Sen Bình Định</td><td>1.419.003.596.366</td><td>1.189.359.711.034</td></tr><tr><td>Công ty Trách nhiệm hữu hạn Một thành viên Hoa Sen Hà Nam</td><td>502.672.194.516</td><td>434.369.161.177</td></tr><tr><td>Công ty Trách nhiệm hữu hạn Một thành viên Vật liệu Xây dựng Hoa Sen Yên Bái</td><td>282.089.472.354</td><td>165.353.720.817</td></tr><tr><td>Công ty Cổ phần Nhưa Hoa Sen</td><td>4.447.878.498</td><td>11.508.188.113</td></tr><tr><td>Công ty Cổ phần Hoa Sen Yên Bái</td><td>-</td><td>2.909.244.624</td></tr><tr><td colspan="3">Bên liên quan khác</td></tr><tr><td>Công ty TNHH Tập đoán Đầu tư Hoa Sen</td><td>34.146.881.437</td><td>240.727.530.221</td></tr><tr><td>Công ty TNHH Dash</td><td>2.636.239.350</td><td>-</td></tr><tr><td>Công ty TNHH Mốt thành viên Đầu tư Hoa Sen Nghệ An</td><td>551.200.000</td><td>302.125.888</td></tr><tr><td></td><td>26.167.366.913.752</td><td>30.633.880.378.267</td></tr></table>
+
+(iii) Bán TSCĐ và công cụ, dụng cụ
+
+Công ty con
+
+<table><tr><td>Công ty Trách nhiệm hữu hạn Một thành viên Hoa Sen Nghề An</td><td>752.955.136</td><td>221.157.000</td></tr><tr><td>Công ty Trách nhiệm hữu hạn Một thành viên Hoa Sen Nhơn Hội - Bình Định</td><td>526.112.913</td><td>-</td></tr><tr><td>Công ty TNHH Một thành viên Tớn Hoa Sen</td><td>268.900.000</td><td>-</td></tr><tr><td>Công ty TNHH Một thành viên Hoa Sen Phú Mỹ</td><td>189.632.626</td><td>242.799.000</td></tr><tr><td>Công ty Cổ phần Nhưa Hoa Sen</td><td>99.545.454</td><td>156.762.825</td></tr><tr><td>Công ty Trách nhiệm hữu hạn Một thành viên Vật liệu Xây dựng Hoa Sen Yên Bái</td><td>60.000.000</td><td>-</td></tr><tr><td>Công ty TNHH Một thành viên Hoa Sen Bình Định</td><td>-</td><td>909.091</td></tr></table>
+
+Bên liên quan khác
+
+<table><tr><td>Công ty TNHH Tập đoàn Đầu tư Hoa Sen</td><td>85.000.000</td><td></td></tr><tr><td></td><td>1.982.146.129</td><td>621.627.916</td></tr></table>
+
+51
+
+===== PAGE 54 =====
+CÔNG TY CÓ PHẦN TẬP ĐOÀN HOA SEN
+
+Mẫu số B 09 - DN
+
+35 THUYẾT MINH VỀ CẮC BÊN LIÊN QUAN (tiếp theo)
+
+(a) Giao dịch với các bên liên quan (tiếp theo)
+
+<table><tr><td rowspan="2" colspan="2"></td><td colspan="2">Năm tài chính kết thúc ngày</td></tr><tr><td>30.9.2025VND</td><td>30.9.2024VND</td></tr><tr><td>(iv)</td><td>Mua TSCĐ, xây dựng cơ bản dở dang</td><td></td><td></td></tr><tr><td></td><td>Công ty con</td><td></td><td></td></tr><tr><td></td><td>Công ty Trách nhiệm hữu hạn Một thành viên Hoa Sen Nghệ An</td><td>84.476.000</td><td>306.628.000</td></tr><tr><td></td><td>Công ty Trách nhiệm hữu hạn Một thành viên Hoa Sen Nhơn Hội - Bình Định</td><td>-</td><td>1.577.729.904</td></tr><tr><td></td><td>Công ty TNHH Một thành viên Hoa Sen Phú Mỹ</td><td>-</td><td>1.964.064.650</td></tr><tr><td></td><td>Công ty TNHH Một thành viên Hoa Sen Bình Định</td><td>-</td><td>1.472.231.365</td></tr><tr><td></td><td></td><td>84.476.000</td><td>5.320.653.919</td></tr><tr><td>(v)</td><td>Hoạt động đầu tư</td><td></td><td></td></tr><tr><td></td><td>Cho vay ngắn hạn (Thuyết minh 7)</td><td></td><td></td></tr><tr><td></td><td>Công ty con</td><td></td><td></td></tr><tr><td></td><td>Công ty Cổ phần Nhựa Hoa Sen</td><td>208.000.000.000</td><td>283.500.000.000</td></tr><tr><td></td><td>Cho vay dài hạn</td><td></td><td></td></tr><tr><td></td><td>Công ty con</td><td></td><td></td></tr><tr><td></td><td>Công ty Cổ phần Hoa Sen Yên Bái</td><td>-</td><td>4.200.000.000</td></tr><tr><td></td><td>Thu hồi cho vay ngắn hạn (Thuyết minh 7)</td><td></td><td></td></tr><tr><td></td><td>Công ty con</td><td></td><td></td></tr><tr><td></td><td>Công ty Cổ phần Nhựa Hoa Sen</td><td>155.500.000.000</td><td>28.000.000.000</td></tr><tr><td></td><td>Dầu tư vào công ty con</td><td></td><td></td></tr><tr><td></td><td>Công ty con</td><td></td><td></td></tr><tr><td></td><td>Công ty TNHH Một thành viên Hoa Sen Phú Mỹ</td><td>320.000.000.000</td><td>-</td></tr><tr><td></td><td>Công ty Cổ phần Hoa Sen Yên Bái</td><td>95.254.912.329</td><td>5.745.087.671</td></tr><tr><td></td><td></td><td>415.254.912.329</td><td>5.745.087.671</td></tr></table>
+
+52
+
+===== PAGE 55 =====
+CÔNG TY CỔ PHẦN TẬP ĐOÀN HOA SEN
+
+Mẫu số B 09 - DN
+
+35 THUYẾT MINH VỀ CÁC BÊN LIÊN QUAN (tiếp theo)
+
+(a) Giao dịch với các bên liên quan (tiếp theo)
+
+<table><tr><td rowspan="2" colspan="2"></td><td colspan="2">Năm tài chính kết thúc ngày</td></tr><tr><td>30.9.2025VND</td><td>30.9.2024VND</td></tr><tr><td rowspan="12">(vi)</td><td>Thu nhập lãi</td><td></td><td></td></tr><tr><td>Lãi cho vay</td><td></td><td></td></tr><tr><td>Công ty con</td><td></td><td></td></tr><tr><td>Công ty Cổ phần Nhưa Hoa Sen</td><td>14.774.215.068</td><td>6.554.897.262</td></tr><tr><td>Công ty Cổ phần Hoa Sen Yên Bái</td><td>-</td><td>45.087.671</td></tr><tr><td></td><td>14.774.215.068</td><td>6.599.984.933</td></tr><tr><td>Lãi thu từ khách hàng chậm thanh toán</td><td></td><td></td></tr><tr><td>Công ty con</td><td></td><td></td></tr><tr><td>Công ty Cổ phần Nhưa Hoa Sen</td><td>2.699.264.196</td><td>9.595.177.349</td></tr><tr><td>Bên liên quan khác</td><td></td><td></td></tr><tr><td>Công ty TNHH Tập đoàn Đầu tư Hoa Sen</td><td>17.600.251</td><td>39.775.092</td></tr><tr><td></td><td>2.716.864.447</td><td>9.634.952.441</td></tr><tr><td rowspan="7">(vii)</td><td>Lợi nhuận được chia (Thuyết minh 26)</td><td></td><td></td></tr><tr><td>Công ty con</td><td></td><td></td></tr><tr><td>Công ty Trách nhiệm hữu hạn Một thành viên Hoa Sen Nghệ An</td><td>483.125.431.774</td><td>233.211.069.581</td></tr><tr><td>Công ty Cổ phần Nhưa Hoa Sen</td><td>328.369.305.825</td><td>-</td></tr><tr><td>Công ty TNHH Một thành viên Tôn Hoa Sen</td><td>76.369.081.747</td><td>65.230.722.689</td></tr><tr><td>Công ty Trách nhiệm hữu hạn Một thành viên Hoa Sen Hà Nam</td><td>55.657.214.900</td><td>-</td></tr><tr><td></td><td>943.521.034.246</td><td>298.441.792.270</td></tr></table>
+
+53
+
+===== PAGE 56 =====
+CÔNG TY CÓ PHẦN TẬP ĐOÀN HOA SEN
+
+Mẫu số B 09 - DN
+
+35 THUYẾT MINH VỀ CÁC BÊN LIÊN QUAN (tiếp theo)
+
+(a) Giao dịch với các bên liên quan (tiếp theo)
+
+<table><tr><td rowspan="2" colspan="2"></td><td colspan="2">Năm tài chính kết thúc ngày</td></tr><tr><td>30.9.2025VND</td><td>30.9.2024VND</td></tr><tr><td colspan="4">(viii) Các khoản chi cho các nhân sự quản lý chủ chốt</td></tr><tr><td colspan="4">Hội đồng Quản trị</td></tr><tr><td>Ông Lê Phước Vũ</td><td>Chủ tịch</td><td>360.000.000</td><td>360.000.000</td></tr><tr><td>Ông Trần Ngọc Chu</td><td>Phó Chủ tịch Thường trực- Điều hành</td><td>300.000.000</td><td>300.000.000</td></tr><tr><td>Ông Trần Quốc Trí</td><td>Thành viên không điều hành</td><td>240.000.000</td><td>240.000.000</td></tr><tr><td>Ông Lý Văn Xuân</td><td>Thành viên không điều hành</td><td>240.000.000</td><td>240.000.000</td></tr><tr><td>Ông Nguyễn Văn Luân</td><td>Thành viên độc lập</td><td>240.000.000</td><td>240.000.000</td></tr><tr><td>Ông Đình Việt Duy</td><td>Thành viên độc lập</td><td>240.000.000</td><td>240.000.000</td></tr><tr><td colspan="4">Ủy ban Kiểm toàn</td></tr><tr><td>Ông Nguyễn Văn Luân</td><td>Chủ tịch</td><td>120.000.000</td><td>120.000.000</td></tr><tr><td>Ông Đình Việt Duy</td><td>Thành viên</td><td>60.000.000</td><td>60.000.000</td></tr><tr><td>Ông Lý Văn Xuân</td><td>Thành viên</td><td>60.000.000</td><td>60.000.000</td></tr><tr><td colspan="4">Ban Tổng Giám đốc</td></tr><tr><td>Ông Vũ Văn Thanh</td><td>Tổng Giám đốc(từ ngày 12/4/2024)</td><td>2.161.793.703</td><td>2.243.789.926</td></tr><tr><td>Ông Trần Quốc Trí</td><td>Tổng Giám đốc(dên ngày 12/4/2024)</td><td>-</td><td>1.398.954.316</td></tr><tr><td>Các thành viên khác</td><td></td><td>19.845.525.240</td><td>13.534.908.556</td></tr><tr><td></td><td></td><td>23.867.318.943</td><td>19.037.652.798</td></tr></table>
+
+54
+
+===== PAGE 57 =====
+CÔNG TY CÓ PHẦN TẬP ĐOẦN HOA SEN
+
+Mẫu số B 09 - DN
+
+35 THUYẾT MINH VỀ CẮC BÊN LIÊN QUAN (tiếp theo)
+
+(b) Số dư cuối năm tài chính với các bên liên quan
+
+<table><tr><td></td><td>30.9.2025VND</td><td>30.9.2024VND</td></tr></table>
+
+(i) Phải thu ngắn hạn của khách hàng (Thuyết minh 5)
+
+<table><tr><td colspan="3">Công ty con</td></tr><tr><td>Công ty Trách nhiệm hữu hạn Một thành viên Hoa Sen Nhom Hội - Bình Đình</td><td>1.756.131.948.057</td><td>2.399.988.914.358</td></tr><tr><td>Công ty Trách nhiệm hữu hạn Một thành viên Hoa Sen Nghệ An</td><td>1.534.202.419.916</td><td>1.712.615.273.326</td></tr><tr><td>Công ty TNHH Một thành viên Tôn Hoa Sen</td><td>510.328.623.226</td><td>1.966.480.327.637</td></tr><tr><td>Công ty TNHH Một thành viên Hoa Sen Phú Mỹ</td><td>436.061.294.038</td><td>1.075.264.470.688</td></tr><tr><td>Công ty Cổ phần Nhưa Hoa Sen</td><td>471.186.711</td><td>230.381.830.308</td></tr><tr><td>Công ty Trách nhiệm hữu hạn Một thành viên Hoa Sen Hà Nam</td><td>-</td><td>134.266.005</td></tr><tr><td colspan="3">Bên liên quan khác</td></tr><tr><td>Công ty TNHH Dash</td><td>7.700.000</td><td>-</td></tr><tr><td></td><td>4.237.203.171.948</td><td>7.384.865.082.322</td></tr></table>
+
+(ii) Trà trước cho người bán (Thuyết minh 6)
+
+<table><tr><td colspan="3">Ngân hạn (Thuyết minh 6(a))</td></tr><tr><td colspan="3">Công ty con</td></tr><tr><td>Công ty Trách nhiệm hữu hạn Một thành viên Hoa Sen Nhơn Hội - Bình Đình</td><td>433.235.527</td><td>-</td></tr><tr><td>Công ty Cổ phần Nhựa Hoa Sen</td><td>8.540.493</td><td>-</td></tr><tr><td>Công ty Trách nhiệm hữu hạn Một thành viên Hoa Sen Hà Nam</td><td>-</td><td>1.011.643.028</td></tr><tr><td>Công ty Cổ phần Hoa Sen Yên Bái</td><td>-</td><td>305.208.861</td></tr><tr><td colspan="3">Bên liên quan khác</td></tr><tr><td>Bà Lê Thị Lệ Hoa (*)</td><td>-</td><td>450.000.000.000</td></tr><tr><td></td><td>441.776.020</td><td>451.316.851.889</td></tr><tr><td colspan="3">Dài hạn (Thuyết minh 6(b))</td></tr><tr><td colspan="3">Bên liên quan khác</td></tr><tr><td>Bà Lê Thị Lệ Hoa (*)</td><td>1.250.000.000.000</td><td>-</td></tr></table>
+
+(*) Số dư thể hiện khoản tiền trả trước theo Thỏa thuận và cam kết chuyển nhượng, nhận chuyển nhượng quyền sử dụng đất số 01/HĐHMHB/2024 ngày 12 tháng 8 năm 2024 cùng các Phụ lục, và 01/TTMHMB/HSG-LTLH-NVC/2025 ngày 28 tháng 4 năm 2025 giữa Công ty và bà Lê Thị Lệ Hoa. Theo đó, các bên cam kết chuyển nhượng và nhận chuyển nhượng khu đất tai xã Long Thành và xã Bình An, huyện Long Thành, tỉnh Đồng Nai. Giá chuyển nhượng sẽ được các bên thỏa thuận theo diện tích thực tế và giá thị trường tai thời điểm chuyển nhượng. Tai ngày 30 tháng 9 năm 2025. Công ty đã trả trước cho bà Lê Thị Lệ Hoa số tiền là 1.250 tỷ Đồng và các bên đang tiền hành các thủ tục hoàn thiện thủ tục pháp lý để chuyển nhượng.
+
+56
+
+===== PAGE 58 =====
+CÔNG TY CỔ PHẦN TẬP ĐOÀN HOA SEN
+
+Mẫu số B 09 - DN
+
+35 THUYẾT MINH VỀ CÁC BÊN LIÊN QUAN (tiếp theo)
+
+(b) Số dư cuối năm tài chính với các bên liên quan (tiếp theo)
+
+<table><tr><td colspan="2"></td><td>30.9.2025VND</td><td>30.9.2024VND</td></tr><tr><td rowspan="3">(iii)</td><td>Phải thu về cho vay ngắn hạn (Thuyết minh 7)</td><td></td><td></td></tr><tr><td>Công ty con</td><td></td><td></td></tr><tr><td>Công ty Cổ phần Nhưa Hoa Sen</td><td>426.500.000.000</td><td>374.000.000.000</td></tr><tr><td rowspan="15">(iv)</td><td>Phải thu ngắn hạn khác (Thuyết minh 8(a))</td><td></td><td></td></tr><tr><td>Phải thu về cổ tức và lợi nhuận được chia</td><td></td><td></td></tr><tr><td>Công ty con</td><td></td><td></td></tr><tr><td>Công ty Trách nhiệm hữu hạn Một thành viên Hoa Sen Nghệ An</td><td>483.125.431.774</td><td>233.211.069.581</td></tr><tr><td>Công ty Cổ phần Nhưa Hoa Sen</td><td>328.369.305.825</td><td>-</td></tr><tr><td>Công ty TNHH Một thành viên Tớn Hoa Sen</td><td>76.369.081.747</td><td>65.230.722.689</td></tr><tr><td>Công ty Trách nhiệm hữu hạn Một thành viên Hoa Sen Hà Nam</td><td>55.657.214.900</td><td>-</td></tr><tr><td></td><td>943.521.034.246</td><td>298.441.792.270</td></tr><tr><td>Phải thu lãi vay và lãi trả chậm</td><td></td><td></td></tr><tr><td>Công ty con</td><td></td><td></td></tr><tr><td>Công ty Cổ phần Nhưa Hoa Sen</td><td>4.083.375.342</td><td>4.188.473.984</td></tr><tr><td>Đặt cọc thuê mặt bằng</td><td></td><td></td></tr><tr><td>Bên liên quan khác</td><td></td><td></td></tr><tr><td>Công ty TNHH Tập đoàn Đầu tư Hoa Sen</td><td>1.284.700.000</td><td>770.000.000</td></tr><tr><td></td><td>948.889.109.588</td><td>303.400.266.254</td></tr><tr><td rowspan="8">(v)</td><td>Phải thu dài hạn khác (Thuyết minh 8(b))</td><td></td><td></td></tr><tr><td>Đặt cọc thuê mặt bằng</td><td></td><td></td></tr><tr><td>Bên liên quan khác</td><td></td><td></td></tr><tr><td>Công ty TNHH Tập đoàn Đầu tư Hoa Sen</td><td>2.270.500.000</td><td>3.555.200.000</td></tr><tr><td>Tạm ứng để mua đất</td><td></td><td></td></tr><tr><td>Thành viên Ban Tổng Giám đốc</td><td></td><td></td></tr><tr><td>Ông Hoàng Đức Huy</td><td>-</td><td>45.462.225.000</td></tr><tr><td></td><td>2.270.500.000</td><td>49.017.425.000</td></tr></table>
+
+56
+
+===== PAGE 59 =====
+CÔNG TY CÔ PHẦN TẬP ĐOÀN HOA SEN
+
+Mẫu số B 09 - DN
+
+35 THUYẾT MINH VỀ CẮC BÊN LIÊN QUAN (tiếp theo)
+
+(b) Số dư cuối năm tài chính với các bên liên quan (tiếp theo)
+
+<table><tr><td></td><td>30.9.2025VND</td><td>30.9.2024VND</td></tr></table>
+
+(vi) Phải trả người bán ngắn hạn (Thuyết minh 13)
+
+<table><tr><td colspan="3">Công ty con</td></tr><tr><td>Công ty TNHH Mốt thành viên Hoa SenBình Đình</td><td>276.954.268.284</td><td>515.644.210.398</td></tr><tr><td>Công ty Trách nhiệm hữu hạn Một thành viênHoa Sen Hà Nam</td><td>114.739.626.163</td><td>83.989.192.704</td></tr><tr><td>Công ty Trách nhiệm hữu hạn Một thành viênVật liệu Xây dựng Hoa Sen Yên Bái</td><td>60.765.866.993</td><td>28.634.237.199</td></tr><tr><td>Công ty Cổ phần Nhưa Hoa Sen</td><td>603.406.342</td><td>729.882.822</td></tr><tr><td>Công ty Trách nhiệm hữu hạn Một thành viênHoa Sen Nhơn Hội - Bình Định</td><td>-</td><td>279.469.923.544</td></tr><tr><td>Công ty Cổ phần Hoa Sen Yên Bái</td><td>-</td><td>3.200.169.086</td></tr></table>
+
+Bên liên quan khác
+
+<table><tr><td>Công ty TNHH Tập đoàn Đầu tư Hoa Sen</td><td>2.675.182.372</td><td>3.836.728.618</td></tr><tr><td>Công ty TNHH Dash</td><td>1.074.835.710</td><td>-</td></tr><tr><td>Công ty TNHH Một thành viên Đầu tư Hoa Sen Nghệ An</td><td>113.832.000</td><td>48.168.000</td></tr><tr><td></td><td>456.927.017.864</td><td>915.552.512.371</td></tr></table>
+
+(vii) Người mua trả tiền trước ngắn hạn (Thuyết minh 14)
+
+<table><tr><td colspan="3">Bên liên quan khác</td></tr><tr><td>Công ty TNHH Tạp đoán Đầu tư Hoa Sen</td><td>30.331.134.054</td><td>8.001.644.404</td></tr></table>
+
+(viii) Phải trả ngắn hạn khác (Thuyết minh 17)
+
+<table><tr><td colspan="3">Công ty con</td></tr><tr><td>Công ty Trách nhiệm hữu hạn Một thành viên Vật liệu Xây dung Hoa Sen Yên Bái</td><td>39.900.000</td><td>277.324.320</td></tr><tr><td>Công ty Trách nhiệm hữu hạn một thành viên Hoa Sen Hà Nam</td><td>-</td><td>175.940.366</td></tr><tr><td></td><td>39.900.000</td><td>453.264.686</td></tr></table>
+
+(ix) Phải trả dài hạn khác
+
+<table><tr><td colspan="3">Bên liên quan khác</td></tr><tr><td>Công ty TNHH Tập đoàn Đầu tư Hoa Sen</td><td>709.500.000</td><td>709.500.000</td></tr></table>
+
+57
+
+===== PAGE 60 =====
+CÔNG TY CÔ PHẦN TẬP ĐOÀN HOA SEN
+
+Mẫu số B 09 - DN
+
+36 CÁC CAM KÊT
+
+(a) Cam kết thuê hoạt động
+
+(i) Công ty là bên đi thuê
+
+Công ty phải trả mức tối thiểu cho các hợp đồng thuê hoạt động không hủy ngang trong tương lai như sau:
+
+<table><tr><td></td><td>30.9.2025VND</td><td>30.9.2024VND</td></tr><tr><td>Dưới 1 năm</td><td>163.515.310.324</td><td>162.593.415.843</td></tr><tr><td>Từ 1 đến 5 năm</td><td>367.482.474.888</td><td>418.233.772.991</td></tr><tr><td>Trên 5 năm</td><td>257.312.597.624</td><td>280.184.903.596</td></tr><tr><td>Tổng cộng các khoản thanh toán tối thiểu</td><td>788.310.382.836</td><td>861.012.092.430</td></tr></table>
+
+(ii) Công ty là bên cho thuê
+
+Công ty đã ký các hợp đồng cho thuê hoạt động, theo đó, khoản tiền thuê tối thiểu phải thu trong tương lai của hợp đồng cho thuê hoạt động không hủy ngang như sau:
+
+<table><tr><td></td><td>30.9.2025VND</td><td>30.9.2024VND</td></tr><tr><td>Dưới 1 năm</td><td>5.583.044.643</td><td>4.782.966.461</td></tr><tr><td>Từ 1 đến 5 năm</td><td>12.788.644.508</td><td>11.334.610.969</td></tr><tr><td>Trên 5 năm</td><td>5.716.000.000</td><td>-</td></tr><tr><td>Tổng công các khoản phải thu tối thiểu</td><td>24.087.689.151</td><td>16.117.577.430</td></tr></table>
+
+(b) Cam kết vốn
+
+Các cam kết về chi tiêu tạo lập TSCĐ đã ký hợp đồng tai ngày kết thúc năm tải chính nhưng chưa được hạch toán vào báo cáo tái chính riêng như sau.
+
+<table><tr><td></td><td>30.9.2025VND</td><td>30.9.2024VND</td></tr><tr><td>Nhà xuống, máy móc và thiết bị</td><td>426.964.294.113</td><td>146.354.865.660</td></tr></table>
+
+(c) Cam kết bảo lãnh tín dụng
+
+Tại ngày 30 tháng 9 năm 2025, Công ty có cam kết bảo lãnh không hủy ngang với ngah hàng thương mại ("Bên nhận bảo lãnh") cho các khoản vay của công ty con ("Bên được bảo lãnh"). Theo đó, Công ty có trách nhiệm hoàn trả cho toàn bộ nghĩa vụ trả nợ đầy đủ và đúng hạn bao gồm gốc vay, lãi vay và các chi phí khác cho Bên nhận bảo lãnh trong trường hợp Bên được bảo lãnh vi phạm nghĩa vụ được bảo lãnh được nếu trong Văn bản bảo lãnh. Chi tiết các khoản bảo lãnh như sau:
+
+<table><tr><td rowspan="2"></td><td colspan="2">Hạn mức bảo lãnh</td></tr><tr><td>30.9.2025VND</td><td>30.9.2024VND</td></tr><tr><td>Công ty Cổ phần Nhựa Hoa Sen</td><td>450.000.000.000</td><td>350.000.000.000</td></tr></table>
+
+58
+
+===== PAGE 61 =====
+CÔNG TY CÓ PHẦN TẬP ĐOÀN HOA SEN
+
+Mẫu số B 09 - DN
+
+37 CÁC SỰ KIỆN PHÁT SINH SAU NGÀY BẢO CẢO TÀI CHÍNH RIÊNG
+
+Theo Nghị quyết Hội đồng Quản trị số 48/NQ/HĐQT/2025 ngày 11 tháng 11 năm 2025, Hội đồng Quản trị thông qua nghị quyết về việc góp vốn với tỷ lệ 99% để thành lập Công ty Cổ phần Hoa Sen Home.
+
+Báo cáo tài chính riêng đã được Ban Tổng Giám đốc phê chuẩn ngày 30 tháng 12 năm 2025.
+
+Nguyễn Thị Thanh Tuyên
+Người lập
+
+Nguyễn Thị Ngọc Lan
+Kế toán trường
+
+Vũ Văn Thanh
+Tổng Giám đốc
+
+59

@@ -1,0 +1,921 @@
+===== PAGE 1 =====
+Công ty Cổ phần Đầu tư Thế Giới Di Động
+
+Báo cáo tài chính riêng
+
+Cho năm tài chính kết thúc ngày 31 tháng 12 năm 2025
+
+EY
+
+Shape the future with confidence
+
+===== PAGE 2 =====
+Công ty Cổ phần Đầu tư Thế Giới Di Động
+
+MỤC LỤC
+
+<table><tr><td></td><td>Trang</td></tr><tr><td>Thông tin chung</td><td>1</td></tr><tr><td>Báo cáo của Ban Tổng Giám đốc</td><td>2</td></tr><tr><td>Báo cáo kiểm toán độc lập</td><td>3 - 4</td></tr><tr><td>Bàng cân đối kế toán riêng</td><td>5 - 6</td></tr><tr><td>Báo cáo kết quả hoạt động kinh doanh riêng</td><td>7</td></tr><tr><td>Báo cáo lưu chuyển tiền tệ riêng</td><td>8 - 9</td></tr><tr><td>Thuyết minh báo cáo tài chính riêng</td><td>10 - 27</td></tr></table>
+
+E
+
+===== PAGE 3 =====
+Công ty Cổ phần Đầu tư Thế Giới Di Động
+
+THÔNG TIN CHUNG
+
+CÔNG TY
+
+Công ty Cổ phần Đầu tư Thế Giới Di Động ("Công ty") là một công ty cổ phần được thành lập theo Luật Doanh nghiệp của Việt Nam theo Giấy Chứng nhận Đăng ký Doanh nghiệp ("GCNĐKDN") số 0306731335 do Sở Kế hoạch và Đầu tư ("Sở KH&ĐT") Tĩnh Bình Dương cấp ngày 16 tháng 1 năm 2009, và theo GCNĐKDN gần nhất lần thứ 36 ngày 23 tháng 12 năm 2025.
+
+Cổ phiếu của Công ty được niêm yết tại Sở Giao dịch Chứng khoán Thành phố Hồ Chí Minh ("SGDCKHCM") với mã chứng khoán "MWG" theo Quyết định niêm yết số 253/QĐ-SGDHCM do SGDCKHCM cấp ngày 7 tháng 7 năm 2014.
+
+Hoạt động chính trong năm hiện tại của Công ty là quản lý các khoản đầu tư vào các công ty con.
+
+Công ty có trụ sở chính tại Số 222 Yersin, Phường Thử Dầu Một, Thành phố Hồ Chí Minh, Việt Nam và văn phòng hoạt động tại Tòa nhà MWG, Lô T2-1.2, Đường D1, Khu Công nghệ cao, Phường Tăng Nhơn Phú, Thành phố Hồ Chí Minh, Việt Nam.
+
+HỘI ĐỒNG QUẢN TRỊ
+
+Các thành viên Hội đồng Quản trị ("HĐQT") trong năm và vào ngày lập báo cáo này như sau:
+
+<table><tr><td>Ông Nguyễn Đức Tài</td><td>Chủ tịch</td><td></td></tr><tr><td>Ông Phạm Văn Trọng</td><td>Thành viên điều hành</td><td>bổ nhiệm ngày 26 tháng 4 năm 2025</td></tr><tr><td>Ông Vũ Đăng Linh</td><td>Thành viên điều hành</td><td>bổ nhiệm ngày 26 tháng 4 năm 2025</td></tr><tr><td>Ông Đoàn Văn Hiếu Em</td><td>Thành viên điều hành</td><td></td></tr><tr><td>Ông Trần Huy Thanh Tùng</td><td>Thành viên điều hành</td><td>hết nhiệm kỳ ngày 26 tháng 4 năm 2025</td></tr><tr><td>Ông Đăng Minh Lương</td><td>Thành viên điều hành</td><td>hết nhiệm kỳ ngày 26 tháng 4 năm 2025</td></tr><tr><td>Ông Thomas Lanyi</td><td>Thành viên không điều hành</td><td></td></tr><tr><td>Ông Robert Willett</td><td>Thành viên không điều hành</td><td></td></tr><tr><td>Ông Nguyễn Tiến Trung</td><td>Thành viên độc lập</td><td></td></tr><tr><td>Ông Đỗ Tiến Sĩ</td><td>Thành viên độc lập</td><td></td></tr><tr><td>Ông Đào Thế Vinh</td><td>Thành viên độc lập</td><td>hết nhiệm kỳ ngày 26 tháng 4 năm 2025</td></tr></table>
+
+ỦY BAN KIỂM TOÁN
+
+Các thành viên Ủy ban kiểm toán trong năm và vào ngày lập báo cáo này như sau:
+
+<table><tr><td>Ông Nguyễn Tiến TrungÔng Đỗ Tiến SĩÔng Đào Thế Vinh</td><td>Chủ tịchThành viênThành viên</td><td>bổ nhiệm ngày 13 tháng 5 năm 2025hết nhiệm kỳ ngày 13 tháng 5 năm 2025</td></tr></table>
+
+BAN TỔNG GIÁM ĐỐC
+
+Các thành viên Ban Tổng Giám đốc trong năm và vào ngày lập báo cáo này như sau:
+
+<table><tr><td rowspan="2">Ông Vũ Đăng Lĩnh</td><td>Tổng Giám đốc</td><td>bố nhiệm ngày 3 tháng 4 năm 2025</td></tr><tr><td>Giám đốc Tài chính</td><td>miễn nhiệm ngày 3 tháng 4 năm 2025</td></tr><tr><td>Bà Lý Trần Kim Ngân</td><td>Kế toán trưởng</td><td></td></tr><tr><td>Ông Trần Huy Thanh Tùng</td><td>Tổng Giám đốc</td><td>miễn nhiệm ngày 3 tháng 4 năm 2025</td></tr></table>
+
+NGƯỜI ĐẠI DIỆN THEO PHÁP LUẬT
+
+Người đại diện theo pháp luật trong kỳ và vào ngày lập báo cáo này như sau:
+
+<table><tr><td>Ông Vũ Đăng LinhÔng Trần Huy Thanh Tùng</td><td>bỏ nhiệm ngày 3 tháng 4 năm 2025miễn nhiệm ngày 3 tháng 4 năm 2025</td></tr></table>
+
+KIÊM TOÁN VIÊN
+
+Công ty Trách Nhiệm Hữu Hạn Ernst & Young Việt Nam là công ty kiểm toán cho Công ty.
+
+1
+
+0.01 27754
+
+No.1
+
+/
+
+===== PAGE 4 =====
+Công ty Cổ phần Đầu tư Thế Giới Di Động
+
+BÁO CÁO CỦA BAN TỔNG GIÁM ĐỐC
+
+Ban Tổng Giám đốc Công ty Cổ phần Đầu tư Thế Giới Di Đông ("Công ty") trình bày báo cáo này và báo cáo tài chính riêng của Công ty cho năm tài chính kết thúc ngày 31 tháng 12 năm 2025.
+
+TRÁCH NHIỆM CỦA BAN TỔNG GIÁM ĐỐC ĐỐI VỚI BÁO CÁO TÀI CHÍNH RIÊNG
+
+Ban Tổng Giám đốc Công ty chịu trách nhiệm đảm bảo báo cáo tài chính riêng cho từng năm tài chính phân ánh trung thực và hợp lý tỉnh hình tài chính riêng, kết quả hoạt động kinh doanh riêng và tỉnh hình lưu chuyển tiền tệ riêng của Công ty trong năm. Trong quả trình báo cáo tài chính riêng này, Ban Tổng Giám đốc cần phải:
+
+lưa chọn các chính sách kế toán thích hợp và áp dụng các chính sách này một cách nhất quán;
+
+- thực hiện các đánh giá và ước tính một cách hợp lý và thận trọng;
+
+nêu rõ các chuẩn mục kế toán áp dụng cho Công ty có được tuân thủ hay không và tất cả những sai lệch trọng yếu so với những chuẩn mục này đã được trình bày và giải thích trong Bảo cáo tài chính riêng; và
+
+lập Báo cáo tài chính riêng trên cơ sở nguyên tắc hoạt động liên tục trừ trường hợp không thể cho răng Công ty sẽ tiếp tục hoạt động.
+
+Ban Tổng Giám đốc chịu trách nhiệm đảm bảo việc các số sách kế toán thích hợp được lưu giữ để phần ánh tỉnh hình tài chính riêng của Công ty, với mức độ chính xác hợp lý, tại bắt ký thời điểm nào và đảm bảo rằng các số sách kế toán tuân thủ với chế độ kế toán đã được áp dụng. Ban Tổng Giám đốc cũng chịu trách nhiệm về việc quản lý các tài sản của Công ty và do đó phải thực hiện các biện pháp thích hợp để ngăn chặn và phát hiện các hành vi gian lận và những vi phạm khác.
+
+Ban Tổng Giám đốc cam kết đã tuân thủ những yêu cầu nếu trên trong việc lập báo cáo tài chính riêng kèm theo.
+
+CÔNG BÓ CỦA BAN TỔNG GIÁM ĐỐC
+
+Theo ý kiến của Ban Tổng Giám đốc, báo cáo tài chính riêng kèm theo đã phần ánh trung thực và hợp lý tính hình tài chính riêng của Công ty vào ngày 31 tháng 12 năm 2025, kết quả hoạt động kinh doanh riêng và tính hình lưu chuyển tiền tệ riêng cho năm tài chính kết thúc cùng ngày phù hợp với các Chuẩn mực kế toán Việt Nam, Chế độ kế toán doanh nghiệp Việt Nam và các quy định pháp lý có liên quan đến việc lập và trình bày báo cáo tài chính riêng.
+
+Công ty có các công ty con như được trình bày trong báo cáo tài chính riêng. Công ty đã lập báo cáo tài chính riêng này theo các Chuẩn mực Kế toán Việt Nam, Chế độ Kế toán Doanh nghiệp Việt Nam và các quy định pháp lý có liên quan đến việc lập và trình bày báo cáo tài chính riêng. Ngoài ra, Công ty đã lập báo cáo tài chính hợp nhất của Công ty và các công ty con cho năm tài chính kết thúc ngày 31 tháng 12 năm 2025 ("báo cáo tài chính hợp nhất") đề ngày 23 tháng 3 năm 2026 phù hợp với các quy định hiện hành trên áp dụng cho việc lập và trình bày báo cáo tài chính hợp nhất.
+
+Người sử dụng báo cáo tài chính riêng nên đọc báo cáo này cùng với báo cáo tài chính hợp nhất nói trên để có được các thông tin đầy đủ về tình hình tài chính hợp nhất, kết quả hoạt động kinh doanh hợp nhất và tình hình lưu chuyển tiền tệ hợp nhất của Nhóm Công ty.
+
+Vũ Đăng Linh
+
+Tổng Giám đốc
+
+Thành phố Hồ Chí Minh, Việt Nam
+
+Ngày 23 tháng 3 năm 2026
+
+2
+
+图 2-5
+
+11.07 . - 0.1251
+
+===== PAGE 5 =====
+-
+
+EY
+
+Shape the future with confidence
+
+Ernst & Young Vietnam Limited
+2 Hai Trieu Street, Sai Gon Ward
+Ho Chi Minh City, Vietnam
+
+Tel: +84 28 3824 5252
+Email: eyhcmc@vn.ey.com
+Website (EN): ey.com/en_vn
+Website (VN): ey.com/vi_vn
+
+Số tham chiếu: 11660300/68620270
+
+BÁO CÁO KIỂM TOÁN ĐỘC LẬP
+
+Kính gửi: Quý Cổ đông và Hội đồng Quản trị của Công ty Cổ phần Đầu tư Thế Giới Di Động
+
+Chủng tối đã kiểm toán báo cáo tài chính riêng kèm theo của Công ty Cổ phần Đầu tư Thế Giới Di Đông (“Công ty”) được lập ngày 23 tháng 3 năm 2026 và được trình bày từ trang 5 đến trang 27 bao gồm bằng cân đối kế toán riêng vào ngày 31 tháng 12 năm 2025, báo cáo kết quả hoạt động kinh doanh riêng và báo cáo lưu chuyển tiền tệ riêng cho năm tài chính kết thúc cùng ngày và các thuyết minh báo cáo tài chính riêng kèm theo.
+
+Trách nhiệm của Ban Tổng Giám đốc
+
+Ban Tổng Giám đốc Công ty chịu trách nhiệm lập và trình bày trung thực và hợp lý báo cáo tài chính riêng theo các Chuẩn mực kế toán Việt Nam, Chế độ kế toán doanh nghiệp Việt Nam và các quy định pháp lý có liên quan đến việc lập và trình bày báo cáo tài chính riêng và chịu trách nhiệm về kiểm soát nội bộ mà Ban Tổng Giám đốc xác định là cần thiết để đảm bảo việc lập và trình bày báo cáo tài chính riêng không có sai sốt trọng yếu do gian lận hoặc nhằm lân.
+
+Trách nhiệm của Kiểm toán viên
+
+Trách nhiệm của chứng tối là đưa ra ý kiến về báo cáo tài chính riêng đưa trên kết quả của cuộc kiểm toán. Chứng tối đã tiến hành kiểm toán theo các Chuẩn mực kiểm toán Việt Nam. Các chuẩn mực này yêu cầu chứng tối tuân thủ chuẩn mực và các quy định về đạo đức nghề nghiệp, lập kế hoạch và thực hiện cuộc kiểm toán để đạt được sự đảm bảo hợp lý về việc liệu báo cáo tài chính riêng của Công ty có còn sai sót trọng yếu hay không.
+
+Công việc kiểm toán bao gồm thực hiện các thủ tục nhằm thu thập các bằng chứng kiểm toán về các số liệu và thuyết minh trên báo cáo tài chính riêng. Các thủ tục kiểm toán được lựa chọn dựa trên xét đoán của kiểm toán viên, bao gồm đánh giá rủi ro có sai sót trọng yếu trong báo cáo tài chính riêng do gian lận hoặc nhằm lẫn. Khi thực hiện đánh giá các rủi ro này, kiểm toán viên đã xem xét kiểm soát nội bộ của Công ty liên quan đến việc lập và trình bày báo cáo tài chính riêng trung thực, hợp lý nhằm thiết kế các thủ tục kiểm toán phù hợp với tỉnh hình thực tế, tuy nhiên không nhằm mục đích đưa ra ý kiến về hiệu quả của kiểm soát nội bộ của Công ty. Công việc kiểm toán cũng bao gồm đánh giá tính thích hợp của các chính sách kế toán được áp dụng và tính hợp lý của các ước tính kế toán của Ban Tổng Giám đốc cũng như đánh giá việc trình bày tổng thể báo cáo tài chính riêng.
+
+Chúng tôi tin tưởng rằng các bằng chứng kiểm toán mà chúng tôi đã thu thập được là đầy đủ và thích hợp để làm cơ sở cho ý kiến kiểm toán của chúng tôi.
+
+A member firm of Ernst & Young Global Limited
+
+3
+
+1010 F 5. 1011
+
+===== PAGE 6 =====
+-
+
+EY
+
+Shape the future with confidence
+
+Ý kiến của Kiểm toán viên
+
+Theo ý kiến của chứng tối, báo cáo tài chính riêng đã phần ánh trung thực và hợp lý, trên các khóa cạnh trọng yếu, tỉnh hình tài chính riêng của Công ty vào ngày 31 tháng 12 năm 2025, kết quả hoạt động kinh doanh riêng và tỉnh hình lưu chuyển tiền tệ riêng cho năm tài chính kết thúc cùng ngày phù hợp với các Chuẩn mực kế toán Việt Nam, Chế độ kế toán doanh nghiệp Việt Nam và các quy định pháp lý có liên quan đến việc lập và trình bày báo cáo tài chính riêng.
+
+Lê Vũ Trường
+
+Phó Tổng Giám đốc
+
+Giấy CNDKHN kiểm toán
+
+Số: 1588-2023-004-1
+
+Lý Hồng Mỹ
+
+Kiểm toán viên
+
+Giấy CNDKHN kiểm toán
+
+Sô: 4175-2022-004-1
+
+Thành phố Hồ Chí Minh, Việt Nam
+
+Ngày 23 tháng 3 năm 2026
+
+A member firm of Ernst & Young Global Limited
+
+4
+
+100
+
+===== PAGE 7 =====
+Công ty Cổ phần Đầu tư Thế Giới Di Động
+
+B01-DN
+
+BẢNG CÂN ĐỐI KẾ TOÁN RIÊNG
+
+vào ngày 31 tháng 12 năm 2025
+
+VND
+
+<table><tr><td>Mã số</td><td>TÀI SẢN</td><td>Thuyết minh</td><td>Số cuối năm</td><td>Số đầu năm</td></tr><tr><td>100</td><td>A. TÀI SẢN NGÁN HẠN</td><td></td><td>4.770.260.531.773</td><td>6.159.541.372.542</td></tr><tr><td>110</td><td>I. Tiền</td><td>4</td><td>221.396.470.928</td><td>10.166.536.777</td></tr><tr><td>111</td><td>1. Tiền</td><td></td><td>221.396.470.928</td><td>10.166.536.777</td></tr><tr><td>120</td><td>II. Đầu tư tài chính ngắn hạn</td><td></td><td>3.246.286.886.357</td><td>5.180.322.000.323</td></tr><tr><td>123</td><td>1. Đầu tư nằm giữ đến ngày đáo hạn</td><td>5.1</td><td>3.246.286.886.357</td><td>5.180.322.000.323</td></tr><tr><td>130</td><td>III. Các khoản phải thu ngắn hạn</td><td></td><td>1.298.528.373.718</td><td>964.957.408.171</td></tr><tr><td>135</td><td>1. Phải thu về cho vay ngắn hạn</td><td>6</td><td>1.148.000.000.000</td><td>877.000.000.000</td></tr><tr><td>136</td><td>2. Phải thu ngắn hạn khác</td><td>7</td><td>150.528.373.718</td><td>87.957.408.171</td></tr><tr><td>150</td><td>IV. Tài sản ngắn hạn khác</td><td></td><td>4.048.800.770</td><td>4.095.427.271</td></tr><tr><td>151</td><td>1. Chi phí trả trước ngắn hạn</td><td></td><td>5.246.246</td><td>22.837.246</td></tr><tr><td>153</td><td>2. Thuế và các khoản khác phải thu Nhà nước</td><td>9</td><td>4.043.554.524</td><td>4.072.590.025</td></tr><tr><td>200</td><td>B. TÀI SẢN DÀI HẠN</td><td></td><td>22.856.674.802.252</td><td>20.002.876.222.422</td></tr><tr><td>250</td><td>I. Đầu tư tài chính dài hạn</td><td></td><td>22.856.674.802.252</td><td>19.988.608.896.059</td></tr><tr><td>251</td><td>1. Đầu tư vào các công ty con</td><td>8.1</td><td>22.541.759.311.707</td><td>20.136.758.211.707</td></tr><tr><td>254</td><td>2. Dự phòng đầu tư tài chính dài hạn</td><td>8.1</td><td>(700.241.009.455)</td><td>(148.149.315.648)</td></tr><tr><td>255</td><td>3. Đầu tư nằm giữ đến ngày đáo hạn</td><td>5.2</td><td>1.015.156.500.000</td><td>-</td></tr><tr><td>260</td><td>II. Tài sản dài hạn khác</td><td></td><td>-</td><td>14.267.326.363</td></tr><tr><td>261</td><td>1. Chi phí trả trước dài hạn</td><td></td><td>-</td><td>14.267.326.363</td></tr><tr><td>270</td><td>TỔNG CỘNG TÀI SẢN</td><td></td><td>27.626.935.334.025</td><td>26.162.417.594.964</td></tr></table>
+
+5
+
+11-1 2→95，1-11
+
+الله.
+
+===== PAGE 8 =====
+Công ty Cổ phần Đầu tư Thế Giới Di Động
+
+B01-DN
+
+BẢNG CÂN ĐỐI KẾ TOÁN RIÊNG (tiếp theo)
+
+vào ngày 31 tháng 12 năm 2025
+
+VND
+
+<table><tr><td>Mã số</td><td>NGUỒN VỐN</td><td>Thuyết minh</td><td>Số cuối năm</td><td>Số đầu năm</td></tr><tr><td>300</td><td>C. NỘ PHẢI TRẢ</td><td></td><td>948.121.597.140</td><td>6.216.670.297.707</td></tr><tr><td>310</td><td>I. Nợ ngắn hạn</td><td></td><td>948.121.597.140</td><td>6.216.670.297.707</td></tr><tr><td>313</td><td>1. Thuế và các khoản phải nộp nhà nước</td><td></td><td>222.222</td><td>-</td></tr><tr><td>315</td><td>2. Chỉ phí phải trả ngắn hạn</td><td>10</td><td>14.175.951.173</td><td>266.595.773.351</td></tr><tr><td>319</td><td>3. Phải trả ngắn hạn khác</td><td>11</td><td>22.195.423.745</td><td>1.549.524.356</td></tr><tr><td>320</td><td>4. Vay ngắn hạn</td><td>12</td><td>911.750.000.000</td><td>5.948.525.000.000</td></tr><tr><td>400</td><td>D. VỐN CHỦ SỞ HỮU</td><td></td><td>26.678.813.736.885</td><td>19.945.747.297.257</td></tr><tr><td>410</td><td>I. Vốn chủ sở hữu</td><td>13.1</td><td>26.678.813.736.885</td><td>19.945.747.297.257</td></tr><tr><td>411</td><td>1. Vốn cổ phần</td><td></td><td>14.696.931.770.000</td><td>14.622.441.770.000</td></tr><tr><td>411a</td><td>- Cổ phiếu phổ thông có quyền biểu quyết</td><td></td><td>14.696.931.770.000</td><td>14.622.441.770.000</td></tr><tr><td>412</td><td>2. Thắng dư vốn cổ phần</td><td></td><td>(189.084.925.846)</td><td>522.021.325.200</td></tr><tr><td>415</td><td>3. Cổ phiếu quỹ</td><td></td><td>(12.364.140.000)</td><td>(7.599.680.000)</td></tr><tr><td>421</td><td>4. Lợi nhuận sau thuế chưa phân phối</td><td></td><td>12.183.331.032.731</td><td>4.808.883.882.057</td></tr><tr><td>421a</td><td>- Lợi nhuận sau thuế chưa phân phối lũy kế đến cuối năm trước</td><td></td><td>3.330.427.119.057</td><td>2.180.582.129.650</td></tr><tr><td>421b</td><td>- Lợi nhuận sau thuế chưa phân phối năm nay</td><td></td><td>8.852.903.913.674</td><td>2.628.301.752.407</td></tr><tr><td>440</td><td>TỔNG CỘNG NGUỒN VỐN</td><td></td><td>27.626.935.334.025</td><td>26.162.417.594.964</td></tr></table>
+
+Thành phố Hồ Chí Minh, Việt Nam
+
+Ngày 23 tháng 3 năm 2026
+
+6
+
+11.1 令 \( \because \angle {AEG} = {10}^{ \circ  }\left( {，\frac{1}{2}}\right) \)
+
+===== PAGE 9 =====
+Công ty Cổ phần Đầu tư Thế Giới Di Động
+
+B02-DN
+
+BÁO CÁO KẾT QUẢ HOẠT ĐỘNG KINH DOANH RIÊNG
+
+cho năm tài chính kết thúc ngày 31 tháng 12 năm 2025
+
+VND
+
+<table><tr><td>Mã số</td><td>CHỈ TIÊU</td><td>Thuyết minh</td><td>Năm nay</td><td>Năm trước</td></tr><tr><td>21</td><td>1. Doanh thu hoạt động tài chính</td><td>14</td><td>9.770.247.201.762</td><td>3.158.675.297.711</td></tr><tr><td>22</td><td rowspan="2">2. Chi phí tài chính- Trong đó: Chi phí lãi vay</td><td rowspan="2">15</td><td rowspan="2">(912.169.233.602)(291.787.790.198)</td><td rowspan="2">(508.905.019.989)(460.482.509.459)</td></tr><tr><td>23</td></tr><tr><td>26</td><td>3. Chi phí quản lý doanh nghiệp</td><td>16</td><td>(5.172.952.740)</td><td>(21.468.525.315)</td></tr><tr><td>30</td><td>4. Lợi nhuận thuần từ hoạt động kinh doanh</td><td></td><td>8.852.905.015.420</td><td>2.628.301.752.407</td></tr><tr><td>32</td><td>5. Chi phí khác</td><td></td><td>(1.101.746)</td><td>-</td></tr><tr><td>40</td><td>6. Lỗ khác</td><td></td><td>(1.101.746)</td><td>-</td></tr><tr><td>50</td><td>7. Tổng lợi nhuận trước thuế</td><td></td><td>8.852.903.913.674</td><td>2.628.301.752.407</td></tr><tr><td>51</td><td>8. Chi phí thuế TNDN hiện hành</td><td>17.1</td><td>-</td><td>-</td></tr><tr><td>60</td><td>9. Lợi nhuận sau thuế TNDN</td><td></td><td>8.852.903.913.674</td><td>2.628.301.752.407</td></tr></table>
+
+Nguyễn Thu Thủy
+
+Người lập
+
+Lý Trần Kim Ngân
+
+Kế toán trường
+
+Vũ Đăng Linh
+
+Tổng Giám đốc
+
+Thành phố Hồ Chí Minh, Việt Nam
+
+Ngày 23 tháng 3 năm 2026
+
+7
+
+11-11 52×19/11 10-1 > 0 - 7.04
+
+===== PAGE 10 =====
+Công ty Cổ phần Đầu tư Thế Giới Di Động
+
+B03-DN
+
+BÁO CÁO LƯU CHUYÊN TIỀN TỆ
+
+cho năm tài chính kết thúc ngày 31 tháng 12 năm 2025
+
+VND
+
+<table><tr><td>Mã số</td><td>CHỈ TIÊU</td><td>Thuyết minh</td><td>Năm nay</td><td>Năm trước</td></tr><tr><td></td><td>I. LƯU CHUYÊN TIÊN TỪ HOẠT ĐỘNG KINH DOANH</td><td></td><td></td><td></td></tr><tr><td>01</td><td>Lợi nhuận kế toán trước thuế Điều chỉnh cho các khoản:</td><td></td><td>8.852.903.913.674</td><td>2.628.301.752.407</td></tr><tr><td>03</td><td>Các khoản dự phòng</td><td></td><td>552.091.693.807</td><td>-</td></tr><tr><td>04</td><td>(Lãi) lỗ chênh lệch tỷ giá hối đoái do đánh giá lại các khoản mục tiền tệ có gốc ngoại tệ</td><td></td><td>(47.263.861.958)</td><td>25.793.714.496</td></tr><tr><td>05</td><td>Lãi từ hoạt động đầu tư</td><td></td><td>(9.770.247.201.762)</td><td>(3.158.675.297.711)</td></tr><tr><td>06</td><td>Chi phí lãi vay</td><td>15</td><td>291.787.790.198</td><td>460.482.509.459</td></tr><tr><td>08</td><td>Lỗ từ hoạt động kinh doanh trước thay đổi vốn lưu động</td><td></td><td>(120.727.666.041)</td><td>(44.097.321.349)</td></tr><tr><td>09</td><td>(Tăng) giảm các khoản phải thu</td><td></td><td>(72.578.977.611)</td><td>31.495.441.507</td></tr><tr><td>11</td><td>(Giảm) tăng các khoản phải trả</td><td></td><td>(226.486.885.234)</td><td>101.680.001.558</td></tr><tr><td>12</td><td>Giảm chi phí trả trước</td><td></td><td>14.284.917.363</td><td>21.733.802.306</td></tr><tr><td>14</td><td>Tiền lãi vay đã trả</td><td></td><td>(297.085.743.573)</td><td>(467.955.777.820)</td></tr><tr><td>20</td><td>Lưu chuyển tiền thuần sử dụng vào hoạt động kinh doanh</td><td></td><td>(702.594.355.096)</td><td>(357.143.853.798)</td></tr><tr><td></td><td>II. LƯU CHUYÊN TIÊN TỪ HOẠT ĐỘNG ĐẦU TƯ</td><td></td><td></td><td></td></tr><tr><td>23</td><td>Tiền chỉ cho vay, mua các công cụ nợ của đơn vị khác</td><td></td><td>(8.383.892.665.435)</td><td>(6.717.542.631.853)</td></tr><tr><td>24</td><td>Tiền thu hồi cho vay, bán lại công cụ nợ của đơn vị khác</td><td></td><td>9.061.632.292.513</td><td>4.583.696.467.709</td></tr><tr><td>25</td><td>Tiền chỉ đầu tư góp vốn vào đơn vị khác</td><td></td><td>(2.505.000.000.000)</td><td>-</td></tr><tr><td>26</td><td>Tiền thu hồi đầu tư góp vốn vào đơn vị khác</td><td></td><td>99.998.900.000</td><td>99.998.900.000</td></tr><tr><td>27</td><td>Tiền thu lãi từ tiền gửi, cho vay và cổ tức</td><td></td><td>9.750.423.236.215</td><td>3.154.372.759.174</td></tr><tr><td>30</td><td>Lưu chuyển tiền thuần từ hoạt động đầu tư</td><td></td><td>8.023.161.763.293</td><td>1.120.525.495.030</td></tr><tr><td></td><td>III. LƯU CHUYÊN TIÊN TỪ HOẠT ĐỘNG TÀI CHÍNH</td><td></td><td></td><td></td></tr><tr><td>31</td><td>Tiền thu từ phát hành cổ phiếu, nhận vốn góp của chủ sở hữu</td><td>13.1</td><td>174.490.000.000</td><td>-</td></tr><tr><td>32</td><td>Mua lại cổ phiếu của doanh nghiệp đã phát hành</td><td>13.1</td><td>(815.870.711.046)</td><td>(9.141.790.000)</td></tr><tr><td>33</td><td>Tiền thu từ đi vay</td><td>12</td><td>911.750.000.000</td><td>-</td></tr><tr><td>34</td><td>Tiền trả nợ gốc vay</td><td>12</td><td>(5.901.250.000.000)</td><td>(300.000.000.000)</td></tr><tr><td>36</td><td>Cổ tức đã trả cho chủ sở hữu</td><td>13.1</td><td>(1.478.456.763.000)</td><td>(730.957.693.995)</td></tr><tr><td>40</td><td>Lưu chuyển tiền thuần sử dụng vào hoạt động tài chính</td><td></td><td>(7.109.337.474.046)</td><td>(1.040.099.483.995)</td></tr></table>
+
+8
+
+10/2 2013 11.7. 6=10
+
+===== PAGE 11 =====
+Công ty Cổ phần Đầu tư Thế Giới Di Động
+
+B03-DN
+
+BÁO CÁO LƯU CHUYÊN TIÊN TỆ RIÊNG (tiếp theo)
+
+cho năm tài chính kết thúc ngày 31 tháng 12 năm 2025
+
+VND
+
+<table><tr><td>Mã số</td><td>CHỈ TIÊU</td><td>Thuyết minh</td><td>Năm nay</td><td>Năm trước</td></tr><tr><td>50</td><td>Lưu chuyển tiền thuần trong năm</td><td></td><td>211.229.934.151</td><td>(276.717.842.763)</td></tr><tr><td>60</td><td>Tiền đầu năm</td><td></td><td>10.166.536.777</td><td>286.884.379.540</td></tr><tr><td>70</td><td>Tiền cuối năm</td><td>4</td><td>221.396.470.928</td><td>10.166.536.777</td></tr></table>
+
+Nguyễn Thu Thủy
+
+Người lập
+
+Lý Trần Kim Ngân
+
+Kế toán trường
+
+Vũ Đăng Linh
+
+Tổng Giám đốc
+
+Thành phố Hồ Chí Minh, Việt Nam
+
+Ngày 23 tháng 3 năm 2026
+
+9
+
+===== PAGE 12 =====
+Công ty Cổ phần Đầu tư Thế Giới Di Động
+
+B09-DN
+
+THUYẾT MINH BẢO CẢO TÀI CHÍNH RIÊNG
+
+vào ngày 31 tháng 12 năm 2025 và cho năm tài chính kết thúc cùng ngày
+
+1. THÔNG TIN CÔNG TY
+
+Công ty Cổ phần Đầu tư Thế Giới Di Đông ("Công ty") là một công ty cổ phần được thành lập theo Luật Doanh nghiệp của Việt Nam theo Giấy Chứng nhận Đăng ký Doanh nghiệp ("GCNDKDN") số 0306731335 do Sở Kế hoạch và Đầu tư ("Sở KH&ĐT") Tĩnh Bình Dương cấp ngày 16 tháng 1 năm 2009, và theo GCNDKDN lần gần nhất lần thứ 36 ngày 23 tháng 12 năm 2025.
+
+Cổ phiếu của Công ty được niêm yết tại Sở Giao dịch Chứng khoán Thành phố Hồ Chí Minh ("SGDCKHCM") với mã chứng khoán "MWG" theo Quyết định niêm yết số 253/QĐ-SGDHCM do SGDCKHCM cấp ngày 7 tháng 7 năm 2014.
+
+Hoạt động chính trong năm hiện tại của Công ty là quản lý các khoản đầu tư vào các công ty con.
+
+Công ty có trụ sở chính tại Số 222 Yersin, Phường Thủ Dầu Một, Thành phố Hồ Chí Minh, Việt Nam và văn phòng hoạt động tại Tòa nhà MWG, Lô T2-1.2, Đường D1, Khu Công nghệ cao, Phường Tăng Nhơn Phú, Thành phố Hồ Chí Minh, Việt Nam.
+
+Cơ cấu tổ chức
+
+Vào ngày 31 tháng 12 năm 2025, Công ty có tám (8) công ty ccn trực tiếp như sau:
+
+<table><tr><td rowspan="2">Tên công ty</td><td rowspan="2">Trụ sở</td><td rowspan="2">Lĩnh vực kinh doanh</td><td colspan="2">Tỷ lệ sở hữu và quyền biểu quyết (%)</td></tr><tr><td>Số cuối năm</td><td>Số đầu năm</td></tr><tr><td colspan="5">Công ty con</td></tr><tr><td>Công ty Cổ phần Đầu tư Điện Máy Xanh (trước đây là Công ty Cổ phần Thế Giới Di Động)</td><td>Thành phố Hồ Chí Minh, Việt Nam</td><td>Thương mại sản phẩm điện tử</td><td>98,95</td><td>99,95</td></tr><tr><td>Công ty Cổ phần Công nghệ và Đầu tư Bách Hóa Xanh</td><td>Thành phố Hồ Chí Minh, Việt Nam</td><td>Quản lý khoản đầu tư</td><td>94,99</td><td>94,99</td></tr><tr><td>Công ty Cổ phần Thế giới Số Trần Anh (*)</td><td>Thành phố Hà Nội, Việt Nam</td><td>Thương mại sản phẩm điện tử</td><td>99,33</td><td>99,33</td></tr><tr><td>Công ty TNHH MTV Công nghệ Thông tin Thế Giới Di Động</td><td>Thành phố Hồ Chí Minh, Việt Nam</td><td>Công nghệ thông tin</td><td>100,00</td><td>100,00</td></tr><tr><td>Công ty Cổ phần 4K Farm (*)</td><td>Tĩnh Bà Rịa – Vũng Tàu, Việt Nam</td><td>Nông nghiệp</td><td>99,99</td><td>99,99</td></tr><tr><td>Công ty TNHH MTV Đầu tư Thiện Tâm</td><td>Thành phố Hồ Chí Minh, Việt Nam</td><td>Quản lý khoản đầu tư</td><td>100,00</td><td>-</td></tr><tr><td>Công ty TNHH MTV Đầu tư An Nhi</td><td>Thành phố Hồ Chí Minh, Việt Nam</td><td>Quản lý khoản đầu tư</td><td>100,00</td><td>-</td></tr><tr><td>Công ty Cổ phần Logistics Toàn Tín (*)</td><td>Thành phố Hồ Chí Minh, Việt Nam</td><td>Kho vận</td><td>99,99</td><td>99,99</td></tr><tr><td>Công ty Cổ phần Thợ Điện Máy Xanh (trước đây là Công ty Cổ phần Dịch vụ Lắp đặt - Sửa chữa - Bảo hành Tận Tâm)</td><td>Thành phố Hồ Chí Minh, Việt Nam</td><td>Dịch vụ lắp đặt, bảo trì</td><td>-</td><td>99,99</td></tr></table>
+
+(*) Tại ngày lập báo cáo này, các Công ty con này đang trong quá trình thực hiện các thủ tục cần thiết để giải thể.
+
+10
+
+\( \therefore {a}_{1} =  - 2\left( {{a}_{1} + 2}\right) \)
+
+===== PAGE 13 =====
+Công ty Cổ phần Đầu tư Thế Giới Di Động
+
+B09-DN
+
+THUYẾT MINH BẢO CẢO TÀI CHÍNH RIÊNG (tiếp theo)
+
+vào ngày 31 tháng 12 năm 2025 và cho năm tài chính kết thúc cùng ngày
+
+2. CƠ SỞ TRÌNH BÀY
+
+2.1 Mục đích lập báo cáo tài chính riêng
+
+Công ty có các công ty con như được trình bày tại Thuyết minh số 1 và Thuyết minh số 8.1. Công ty đã lập báo cáo tài chính riêng này theo các Chuẩn mực Kế toán Việt Nam, Chế độ Kế toán Doanh nghiệp Việt Nam và các quy định pháp lý có liên quan đến việc lập và trình bày báo cáo tài chính riêng. Ngoài ra, Công ty đã lập báo cáo tài chính hợp nhất của Công ty và các công ty con cho năm tài chính kết thúc ngày 31 tháng 12 năm 2025 ("bảo cáo tài chính hợp nhất") để ngày 23 tháng 3 năm 2026 phù hợp với các quy định hiện hành trên áp dụng cho việc lập và trình bày báo cáo tài chính hợp nhất.
+
+Người sử dụng báo cáo tài chính riêng nên đọc báo cáo này cùng với báo cáo tài chính hợp nhất nói trên để có được các thông tin đầy đủ về tinh hình tài chính hợp nhất, kết quả hoạt động kinh doanh hợp nhất và tinh hình lưu chuyển tiền tệ hợp nhất của Công ty và các công ty con.
+
+2.2 Chuẩn mực và Chế độ kế toán áp dụng
+
+Báo cáo tài chính riêng của Công ty được trình bày bằng đồng Việt Nam ("VND") phù hợp với Chế độ kế toán doanh nghiệp Việt Nam và các Chuẩn mực kế toán Việt Nam do Bộ Tài chính ban hành theo:
+
+Quyết định số 149/2001/QĐ-BTC ngày 31 tháng 12 năm 2001 về việc ban hành bốn Chuẩn mực kế toán Việt Nam (Đợt 1);
+
+Quyết định số 165/2002/QĐ-BTC ngày 31 tháng 12 năm 2002 về việc ban hành sâu Chuẩn mực kế toán Việt Nam (Đợt 2);
+
+Quyết định số 234/2003/QĐ-BTC ngày 30 tháng 12 năm 2003 về việc ban hành sâu Chuẩn mực kế toán Việt Nam (Đợt 3);
+
+Quyết định số 12/2005/QĐ-BTC ngày 15 tháng 2 năm 2005 về việc ban hành sâu Chuẩn mực kế toán Việt Nam (Đợt 4); và
+
+Quyết định số 100/2005/QĐ-BTC ngày 28 tháng 12 năm 2005 về việc ban hành bốn Chuẩn mực kế toán Việt Nam (Đợt 5).
+
+Theo đó, báo cáo tài chính riêng được trình bày kèm theo và việc sử dụng các báo cáo này không dành cho các đối tượng không được cung cấp các thông tin về các thủ tục và nguyên tắc và thông lệ kế toán tại Việt Nam và hơn nữa không được chủ định trình bày tình hình tài chính riêng, kết quả hoạt động kinh doanh riêng và tình hình lưu chuyển tiền tệ riêng theo các nguyên tắc và thông lệ kế toán được chấp nhận rộng rãi ở các nước và lãnh thổ khác ngoài Việt Nam.
+
+2.3 Hình thức số kế toán áp dụng
+
+Hình thức số kế toán được áp dụng của Công ty là Nhật ký chung.
+
+2.4 Ký ké toán năm
+
+Kỳ kế toán năm của Công ty áp dung cho việc lập báo cáo tài chính riêng bắt đầu từ ngày 1 tháng 1 và kết thúc ngày 31 tháng 12.
+
+2.5 Đơn vị tiền tệ trong kế toán
+
+Báo cáo tài chính riêng được lập bằng đơn vị tiền tệ trong kế toán của Công ty là VND.
+
+11
+
+===== PAGE 14 =====
+Công ty Cổ phần Đầu tư Thế Giới Di Động
+
+B09-DN
+
+THUYẾT MINH BẢO CẢO TÀI CHÍNH RIÊNG (tiếp theo)
+
+vào ngày 31 tháng 12 năm 2025 và cho năm tài chính kết thúc cùng ngày
+
+2. CO' SÔ' TRÌNH BÀY (tiếp theo)
+
+2.6 Quy định kế toán mới đã ban hành nhưng chưa có hiệu lực
+
+Ngày 27 tháng 10 năm 2025, Bộ Tài chính đã ban hành Thông tư số 99/2025/TT-BTC hướng dẫn Chế độ kế toán doanh nghiệp ("Thông tư 99"), thay thế Thông tư số 200/2014/TT BTC hướng dẫn Chế độ kế toán doanh nghiệp do Bộ Tài chính ban hành ngày 22 tháng 12 năm 2014 và một số quy định khác có liên quan. Thông tư 99 có hiệu lực từ ngày 1 tháng 1 năm 2026 và áp dụng cho các doanh nghiệp có năm tài chính bắt đầu từ hoặc sau ngày 1 tháng 1 năm 2026.
+
+Công ty đang trong quá trình đánh giá tác động của Thông tư 99 đối với việc lập và trình bày báo cáo tài chính riêng và sẽ áp dụng Thông tư 99 cho năm tài chính kết thúc ngày 31 tháng 12 năm 2026.
+
+3. TÓM TẮT CÁC CHÍNH SÁCH KẾ TOÁN CHỦ YẾU
+
+3.1 Tiền
+
+Tiền bao gồm tiền gửi ngân hàng.
+
+3.2 Các khoản phải thu
+
+Các khoản phải thu được trình bày trên báo cáo tài chính riêng theo giá trị ghi số các khoản phải thu từ khách hàng và phải thu khác sau khi cần trừ các khoản dự phòng được lập cho các khoản phải thu khó đòi.
+
+Dự phòng nợ phải thu khó đòi thể hiện phần giá trị của các khoản phải thu mà Công ty dự kiến không có khả năng thu hồi tại ngày kết thúc năm tài chính. Tăng hoặc giảm số dư tải khoản dự phòng được hạch toán vào chỉ phí quản lý doanh nghiệp trên báo cáo kết quả hoạt động kinh doanh riêng.
+
+3.3 Chi phí đi vay
+
+Chi phí đi vay bao gồm lãi tiền vay và các chi phí khác phát sinh liên quan trực tiếp đến các khoản vay của Công ty, và được hạch toán như chi phí phát sinh trong năm.
+
+3.4 Các khoản đầu tư
+
+Đầu tư vào các công ty con
+
+Các khoản đầu tư vào các công ty con mà trong đó Công ty nằm quyền kiểm soát được trình bày theo phương pháp giá gốc.
+
+Các khoản phân phối lợi nhuận mà Công ty nhận được từ số lợi nhuận lũy kế của các công ty con sau ngày Công ty nấm quyền kiểm soát được ghi nhận vào kết quả hoạt động kinh doanh riêng của Công ty. Các khoản phân phối khác được xem như phần thu hồi của các khoản đầu tư và được trừ vào giá trị đầu tư.
+
+Đầu tư nấm giữ đến ngày đáo hạn
+
+Các khoản đầu tư nằm giữ đến ngày đáo hạn được ghi nhận theo giá gốc. Sau khi ghi nhận ban đầu, các khoản đầu tư này được ghi nhận theo giá trị có thể thu hồi. Các khoản suy giảm giá trị khoản đầu tư nếu phát sinh được hạch toán vào chi phí trong năm và giảm trừ trực tiếp giá trị đầu tư.
+
+Dự phòng giảm giá trị các khoản đầu tư
+
+Dự phòng cho việc giảm giá trị của các khoản đầu tư được lập khi có bằng chứng chắc chắn cho thấy có sự suy giảm giá trị của các khoản đầu tư này vào ngày kết thúc năm tài chính. Tăng hoặc giảm số dự dự phòng được hạch toán vào chi phí tài chính trong báo cáo kết quả hoạt động kinh doanh riêng.
+
+12
+
+M.S.D.
+
+MINH★
+
+\(\therefore m = \frac{3}{11}\)
+
+//√
+
+===== PAGE 15 =====
+Công ty Cổ phần Đầu tư Thế Giới Di Động
+
+B09-DN
+
+THUYÊT MINH BÁO CÁO TÀI CHÍNH RIÊNG (tiếp theo)
+
+vào ngày 31 tháng 12 năm 2025 và cho năm tài chính kết thúc cùng ngày
+
+3. TÓM TẮT CÁC CHÍNH SÁCH KẾ TOÁN CHỦ YẾU (tiếp theo)
+
+3.5 Các khoản phải trả và chỉ phí trích trước
+
+Các khoản phải trả và chi phí trích trước được ghi nhận cho số tiền phải trả trong tương lai liên quan đến hàng hóa và dịch vụ đã nhận được không phụ thuộc vào việc Công ty đã nhận được hóa đơn của nhà cung cấp hay chưa.
+
+3.6 Các nghiệp vụ bằng ngoại tệ
+
+Các nghiệp vụ phát sinh bằng các đơn vị tiền tệ khác với đơn vị tiền tệ kế toán của Công ty (VND) được hạch toán theo tỷ giá giao dịch thực tế vào ngày phát sinh nghiệp vụ theo nguyên tắc sau:
+
+- Nghiệp vụ làm phát sinh các khoản phải trả được hạch toán theo tỷ giá bán của ngân hàng thương mại nơi Công ty dự kiến giao dịch; và
+
+Tại ngày kết thúc năm tài chính, các khoản mục tiền tệ có gốc ngoại tệ được đánh giá lại theo tỷ giá giao dịch thực tế tại ngày của bằng cân đối kế toán riêng theo nguyên tắc sau.
+
+- Các khoản mục tiền tệ được phân loại là nợ phải trả được đánh giá lại theo tỷ giá bán của ngân hàng thương mại nơi Công ty thường xuyên có giao dịch.
+
+Tất cả các khoản chênh lệch tỷ giá phát sinh được hạch toán vào báo cáo kết quả hoạt động kinh doanh riêng.
+
+3.7 Vốn góp của chủ sở hữu
+
+Cổ phiếu phổ thông
+
+Cổ phiếu phổ thông được ghi nhận theo giá phát hành trừ đi các chi phí phát sinh liên quan trực tiếp đến việc phát hành cổ phiếu, sau khi trừ đi các ảnh hưởng thuế. Các chi phí này được ghi nhận là một khoản khấu trừ từ thẳng dư vốn cổ phần.
+
+Thặng dư vốn cổ phần
+
+Thặng dư vốn cổ phần phần ánh khoản chênh lệch giữa mệnh giá và giá phát hành cổ phiếu trừ đi chi phí phát hành cổ phiếu thực tế phát sinh.
+
+Cổ phiếu quỹ
+
+Các công cụ vốn chủ sở hữu được Công ty mua lại (cổ phiếu quỹ) được ghi nhận theo nguyên giá và trừ vào vốn chủ sở hữu. Công ty không ghi nhận các khoản lãi/(lỗ) khi mua, bán, phát hành hoặc hủy các công cụ vốn chủ sở hữu của mình.
+
+3.8 Phân chia lợi nhuận
+
+Lợi nhuận thuần sau thuế thu nhập doanh nghiệp (không bao gồm lãi từ giao dịch mua giá rễ) có thể được chia cho các cổ đông sau khi được Đại hội đồng cổ đông phê duyệt, và sau khi đã trích lập các quỹ dự phòng theo Điều lệ của Công ty và các quy định của pháp luật Việt Nam.
+
+Công ty trích lập các quỹ dự phòng sau từ lợi nhuận thuần sau thuế thu nhập doanh nghiệp của Công ty theo đề nghị của Hội đồng Quản trị và được các cổ đông phê duyệt tại Đại hội đồng cổ đông thường niên.
+
+Quỹ khen thưởng, phúc lợi
+
+Quỹ này được trích lập để khen thưởng, khuyến khích vật chất, đem lại lợi ích chung và nâng cao phúc lợi cho công nhân viên, và được trình bày như một khoản phải trả trên bằng cân đối kế toán riêng.
+
+13
+
+《54.18 阳》
+
+[Non-Text]
+
+例 1.2 只别
+
+===== PAGE 16 =====
+Công ty Cổ phần Đầu tư Thế Giới Di Động
+
+B09-DN
+
+THUYÊT MINH BẢO CẢO TÀI CHÍNH RIÊNG (tiếp theo)
+
+vào ngày 31 tháng 12 năm 2025 và cho năm tài chính kết thúc cùng ngày
+
+3. TÓM TÁT CÁC CHÍNH SÁCH KÉ TOÁN CHỦ YẾU (tiếp theo)
+
+3.9 Ghi nhận doanh thu
+
+Doanh thu được ghi nhận khi Công ty có khả năng nhận được các lợi ích kinh tế có thể xác định được một cách chắc chắn. Doanh thu được xác định theo giả trị hợp lý của các khoản đã thu hoặc sẽ thu được sau khi trừ đi các khoản chiết khấu thương mại, giảm giá hàng bán và hàng bán bị trả lại. Các điều kiện ghi nhận cụ thể sau đây cũng phải được đáp ứng trước khi ghi nhận doanh thu:
+
+Tiền lãi
+
+Doanh thu được ghi nhận khi tiền lãi phát sinh trên cơ sở dồn tích (có tính đến lợi tức mà tài sản đem lại) trừ khi khả năng thu hồi tiền lãi không chắc chắn.
+
+Cổ tức
+
+Doanh thu được ghi nhận khi quyền được nhận khoản thanh toán cổ tức của Công ty được xác lập.
+
+3.10 Thuế
+
+Thuế thu nhập hiện hành
+
+Tài sản thuế thu nhập và thuế thu nhập phải nộp cho năm hiện hành và các năm trước được xác định bằng số tiền dự kiến phải nộp cho (hoặc được thu hồi từ) cơ quan thuế, dựa trên các mức thuế suất và các luật thuế có hiệu lực đến ngày kết thúc năm tài chính.
+
+Thuế thu nhập hiện hành được ghi nhận vào báo cáo kết quả hoạt động kinh doanh riêng ngoại trừ trường hợp thuế thu nhập phát sinh liên quan đến một khoản mục được ghi thẳng vào vốn chủ sở hữu, trong trường hợp này, thuế thu nhập hiện hành cũng được ghi nhận trực tiếp vào vốn chủ sở hữu.
+
+Công ty chỉ được bù trừ các tải sản thuế thu nhập hiện hành và thuế thu nhập hiện hành phải nộp khi Công ty có quyền hợp pháp được bù trừ giữa tải sản thuế thu nhập hiện hành với thuế thu nhập hiện hành phải nộp và Công ty dự định thanh toán thuế thu nhập hiện hành phải nộp và tải sản thuế thu nhập hiện hành trên cơ sở thuần.
+
+Thuế thu nhập hoãn lại
+
+Thuế thu nhập hoãn lại được xác định cho các khoản chênh lệch tạm thời tại ngày kết thúc kỳ kế toán giữa cơ sở tính thuế thu nhập của các tài sản và nợ phải trả và giá trị ghi sổ của các khoản mục này trong báo cáo tài chính.
+
+Thuế thu nhập hoãn lại phải trả được ghi nhận cho tất cả các khoản chênh lệch tạm thời chịu thuế, ngoại trừ:
+
+Thuế thu nhập hoãn lại phải trả phát sinh từ ghi nhận ban đầu của một tài sản hay nợ phải trả từ một giao dịch mà giao dịch này không có ảnh hưởng đến lợi nhuận kế toán và lợi nhuận tính thuế thu nhập (hoặc lỗ tính thuế) tại thời điểm phát sinh giao dịch;
+
+Các chênh lệch tạm thời chịu thuế gắn liền với các khoản đầu tư vào công ty liên kết và các khoản vốn góp liên doanh khi Công ty có khả năng kiểm soát thời gian hoàn nhập khoản chênh lệch tạm thời và chắc chắn khoản chênh lệch tạm thời sẽ không được hoàn nhập trong tương lai có thể dự đoán.
+
+14
+
+\( \sim 2 > 1.5\% \)
+
+1151074 1.12/20
+
+===== PAGE 17 =====
+Công ty Cổ phần Đầu tư Thế Giới Di Động
+
+B09-DN
+
+THUYÊT MINH BẢO CẢO TÀI CHÍNH RIÊNG (tiếp theo)
+
+vào ngày 31 tháng 12 năm 2025 và cho năm tài chính kết thúc cùng ngày
+
+3. TÓM TẮT CÁC CHÍNH SÁCH KẾ TOÁN CHỦ YÉU (tiếp theo)
+
+3.10 Thuế (tiếp theo)
+
+Thuế thu nhập hoãn lại (tiếp theo)
+
+Tài sản thuế thu nhập hoãn lại cần được ghi nhận cho tất cả các chênh lệch tạm thời được khấu trừ, giá trị được khấu trừ chuyển sang các năm sau của các khoản lỗ tính thuế và các khoản ưu đãi thuế chưa sử dụng, khi chắc chắn trong tương lai sẽ có lợi nhuận tính thuế để sử dụng những chênh lệch tạm thời được khấu trừ, các khoản lỗ tính thuế và các ưu đãi thuế chưa sử dụng này, ngoại trừ:
+
+Tài sản thuế hoãn lại phát sinh từ ghi nhận ban đầu của một tài sản hoặc nợ phải trả từ một giao dịch mà giao dịch này không có ảnh hưởng đến lợi nhuận kế toán và lợi nhuận tính thuế thu nhập (hoặc lỗ tính thuế) tại thời điểm phát sinh giao dịch;
+
+Đối với các chênh lệch tạm thời được khấu trừ phát sinh từ các khoản đầu tư vào các công ty liên kết và các khoản vốn góp liên doanh, tài sản thuế thu nhập hoản lại được ghi nhận khi chắc chắn là chênh lệch tạm thời sẽ được hoàn nhập trong tương lai có thể dựđoan được và có lợi nhuận tính thuế để sử dụng được khoản chênh lệch tạm thời đó.
+
+Giá trị ghi số của tài sản thuế thu nhập hoãn lại phải được xem xét lại vào ngày kết thúc kỳ kế toán và phải giảm giá trị ghi số của tài sản thuế thu nhập hoãn lại đến mức bảo đảm chắc chắn có đủ lợi nhuận tính thuế cho phép lợi ích của một phần hoặc toàn bộ tài sản thuế thu nhập hoãn lại được sử dụng. Các tài sản thuế thu nhập hoãn lại chưa được ghi nhận trước đây được xem xét lại vào ngày kết thúc kỳ kế toán và được ghi nhận khi chắc chắn có đủ lợi nhuận tính thuế trong tương lai để có thể sử dụng các tài sản thuế thu nhập hoãn lại chưa ghi nhận này.
+
+Tài sản thuế thu nhập hoãn lại và thuế thu nhập hoãn lại phải trả được xác định theo thuế suất dự tính sẽ áp dụng cho [năm tài chính] khi tài sản được thu hồi hay nợ phải trả được thanh toán, dựa trên các mức thuế suất và luật thuế có hiệu lực vào ngày kết thúc ký kế toán.
+
+Thuế thu nhập hoãn lại được ghi nhận vào báo cáo kết quả hoạt động kinh doanh ngoại trừ trường hợp thuế thu nhập phát sinh liên quan đến một khoản mục được ghi thắng vào vốn chủ sở hữu; trong trường hợp này, thuế thu nhập hoãn lại cũng được ghi nhận trực tiếp vào vốn chủ sở hữu.
+
+Công ty chỉ được bù trừ các tài sản thuế thu nhập hoãn lại và thuế thu nhập hoãn lại phải trả khi Công ty có quyền hợp pháp được bù trừ giữa tài sản thuế thu nhập hiện hành với thuế thu nhập hiện hành phải nộp và các tài sản thuế thu nhập hoãn lại và thuế thu nhập hoãn lại phải trả này liên quan tới thuế thu nhập doanh nghiệp được quản lý bởi cùng một cơ quan thuế
+
+đối với cùng một đơn vị chịu thuế; hoặc
+
+Công ty dự định thanh toán thuế thu nhập hiện hành phải nộp và tài sản thuế thu nhập hiện hành trên cơ sở thuần hoặc thu hồi tài sản đồng thời với việc thanh toán nợ phải trả trong từng ký tương lai khi các khoản trọng yếu của thuế thu nhập hoãn lại phải trả hoặc tài sản thuế thu nhập hoãn lai được thanh toán hoặc thu hồi.
+
+3.11 Các bên liên quan
+
+Các bên được coi là bên liên quan của Công ty nếu một bên có khả năng, trực tiếp hoặc gián tiếp, kiểm soát bên kia hoặc gây ảnh hưởng đáng kể tới bên kia trong việc ra các quyết định tài chính và hoạt động, hoặc khi Công ty và bên kia cùng chịu sự kiểm soát chung hoặc ảnh hưởng đáng kể chung. Các bên liên quan nếu trên có thể là các công ty hoặc các cá nhân, bao gồm cả các thành viên mật thiết trong gia đình của họ.
+
+15
+
+11.01-2 8:11
+
+10. 二面之子
+
+===== PAGE 18 =====
+Công ty Cổ phần Đầu tư Thế Giới Di Động
+
+B09-DN
+
+THUYẾT MINH BẢO CÁO TÀI CHÍNH RIÊNG (tiếp theo)
+
+vào ngày 31 tháng 12 năm 2025 và cho năm tài chính kết thúc cùng ngày
+
+4. TIỀN
+
+<table><tr><td></td><td>Số cuối năm</td><td>VND Số đầu năm</td></tr><tr><td>Tiền gửi ngân hàng</td><td>221.396.470.928</td><td>10.166.536.777</td></tr></table>
+
+5. ĐẦU TƯ' NÁM GIỮ' ĐẾN NGÀY ĐÁO HẠN
+
+5.1 Các khoản đầu tư tài chính ngắn hạn
+
+<table><tr><td></td><td>Số cuối năm</td><td>VND Số đầu năm</td></tr><tr><td>Tiền gửi có kỳ hạn (i)</td><td>1.391.500.000.000</td><td>1.385.500.000.000</td></tr><tr><td>Khác (ii)</td><td>1.854.786.886.357</td><td>3.794.822.000.323</td></tr><tr><td>TỔNG CỘNG</td><td>3.246.286.886.357</td><td>5.180.322.000.323</td></tr></table>
+
+(i) Đây là các khoản tiền gửi bằng VND có kỳ hạn dưới 1 năm và hưởng lãi suất áp dụng.
+
+(ii) Đây là các khoản đầu tư vào trái phiếu và khoản đầu tư khác có kỳ hạn từ 6 tháng đến 1 năm và hưởng lãi suất áp dụng.
+
+5.2 Các khoản đầu tư tài chính dài hạn
+
+Đầu tư tài chính dài hạn thể hiện các khoản đầu tư trái phiếu bằng VND có kỳ hạn trên 1 năm và hưởng lãi suất áp dụng.
+
+6. PHẢI THU VỀ CHO VAY NGẮN HẠN
+
+<table><tr><td></td><td>Số cuối năm</td><td>VND Số đầu năm</td></tr><tr><td>Các công ty chứng khoán (i)</td><td>1.148.000.000.000</td><td>877.000.000.000</td></tr></table>
+
+(i) Phải thu cho vay thể hiện khoản cho các công ty chứng khoán vay tín chấp có kỳ hạn từ 1 tháng đến dưới 12 tháng và hưởng lãi suất áp dụng.
+
+\( \frac{1 + u}{1} - \frac{u}{1} = 1 \)
+
+16
+
+===== PAGE 19 =====
+Công ty Cổ phần Đầu tư Thế Giới Di Động
+
+B09-DN
+
+THUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG (tiếp theo)
+
+vào ngày 31 tháng 12 năm 2025 và cho năm tài chính kết thúc cùng ngày
+
+7. PHÀI THU NGÂN HẠN KHÁC
+
+<table><tr><td></td><td>Số cuối năm</td><td>VND Số đầu năm</td></tr><tr><td>Lãi tiền gửi phải thu</td><td>51.927.639.731</td><td>32.318.547.082</td></tr><tr><td>Lãi trái phiếu phải thu</td><td>42.744.810.357</td><td>30.118.381.631</td></tr><tr><td>Lãi cho vay phải thu</td><td>13.059.298.630</td><td>25.520.479.458</td></tr><tr><td>Khác</td><td>42.796.625.000</td><td>-</td></tr><tr><td>TỔNG CỘNG</td><td>150.528.373.718</td><td>87.957.408.171</td></tr></table>
+
+8. ĐẦU TƯ TÀI CHÍNH DÀI HẠN
+
+<table><tr><td></td><td>Số cuối năm</td><td>VND Số đầu năm</td></tr><tr><td>Đầu tư vào công ty con (Thuyết minh số 8.1)</td><td>22.541.759.311.707</td><td>20.136.758.211.707</td></tr><tr><td>Dự phòng khoản đầu tư dài hạn(Thuyết minh số 8.1)</td><td>(700.241.009.455)</td><td>(148.149.315.648)</td></tr><tr><td>TỔNG CỘNG</td><td>21.841.518.302.252</td><td>19.988.608.896.059</td></tr></table>
+
+17
+
+\( \left\{  {2n - 1}\right\}   = n + 1,n + 1 = 3 \)
+
+===== PAGE 20 =====
+Công ty Cổ phần Đầu tư Thế Giới Di Động
+
+THUYẾT MINH BẢO CÁO TÀI CHÍNH RIÊNG (tiếp theo)
+vào ngày 31 tháng 12 năm 2025 và cho năm tài chính kết thúc cùng ngày
+
+8. ĐẦU TƯ TÀI CHÍNH DÀI HẠN (tiếp theo)
+
+8.1 Đầu tư vào các công ty con
+
+Chi tiết khoản đầu tư vào công ty con như sau:
+
+<table><tr><td rowspan="2">Tên công ty</td><td rowspan="2">Địa chỉ</td><td rowspan="2">Hoạt động chính</td><td colspan="3">Số cuối năm</td><td colspan="3">Số đầu năm</td></tr><tr><td>%sở hữu</td><td>Giá gốc đầu tưVND</td><td>Dự phòngVND</td><td>%sở hữu</td><td>Giá gốc đầu tưVND</td><td>Dự phòngVND</td></tr><tr><td>Công ty Cổ phần Công nghệ và Đầu tư Bách Hóa Xanh</td><td>Thành phố Hồ Chí Minh, Việt Nam</td><td>Quản lý khoản đầu tư</td><td>94,99</td><td>14.049.800.000.000</td><td>-</td><td>94,99</td><td>14.049.800.000.000</td><td>-</td></tr><tr><td>Công ty Cổ phần Đầu tư Điện Máy Xanh</td><td>Thành phố Hồ Chí Minh, Việt Nam</td><td>Thương mại sản phẩm điện tử</td><td>98,95</td><td>4.426.023.111.000</td><td>-</td><td>99,95</td><td>4.426.023.111.000</td><td>-</td></tr><tr><td>Công ty Cổ phần Thế Giới Số Trần Anh (i)</td><td>Thành phố Hà Nội, Việt Nam</td><td>Thương mại sản phẩm điện tử</td><td>99,33</td><td>860.937.300.707</td><td>(551.253.156.750)</td><td>99,33</td><td>860.937.300.707</td><td>-</td></tr><tr><td>Công ty TNHH MTV Công nghệ Thông tin Thế Giới Dĩ Động</td><td>Thành phố Hồ Chí Minh, Việt Nam</td><td>Công nghệ thông tin</td><td>100,00</td><td>538.000.000.000</td><td>-</td><td>100,00</td><td>538.000.000.000</td><td>-</td></tr><tr><td>Công ty Cổ phần 4K Farm (i)</td><td>Tỉnh Bà Rịa – Vũng Tàu, Việt Nam</td><td>Nông nghiệp</td><td>99,99</td><td>161.998.900.000</td><td>(148.987.852.705)</td><td>99,99</td><td>161.998.900.000</td><td>(148.149.315.648)</td></tr><tr><td>Công ty TNHH MTV Đầu tư Thiện Tâm (ii)</td><td>Thành phố Hồ Chí Minh, Việt Nam</td><td>Quản lý khoản đầu tư</td><td>100,00</td><td>2.105.000.000.000</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>Công ty TNHH MTV Đầu tư An Nhi (iii)</td><td>Thành phố Hồ Chí Minh, Việt Nam</td><td>Quản lý khoản đầu tư</td><td>100,00</td><td>400.000.000.000</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>Công ty Cổ phần Thợ Điện Máy Xanh (iv)</td><td>Thành phố Hồ Chí Minh, Việt Nam</td><td>Dịch vụ lắp đặt, bảo trì</td><td>-</td><td></td><td>-</td><td>99,99</td><td>99.998.900.000</td><td>-</td></tr><tr><td>TỔNG CỘNG</td><td></td><td></td><td></td><td>22.541.759.311.707</td><td>(700.241.009.455)</td><td></td><td>20.136.758.211.707</td><td>(148.149.315.648)</td></tr></table>
+
+18
+
+“
+
+B09-DN
+
+===== PAGE 21 =====
+Công ty Cổ phần Đầu tư Thế Giới Di Động
+
+B09-DN
+
+THUYÊT MINH BÁO CÁO TÀI CHÍNH RIÊNG (tiếp theo)
+
+vào ngày 31 tháng 12 năm 2025 và cho năm tài chính kết thúc cùng ngày
+
+8. ĐẦU TƯ TÀI CHÍNH DÀI HẠN (tiếp theo)
+
+8.1 Đầu tư vào các công ty con (tiếp theo)
+
+(i) Tại ngày lập báo cáo này, các Công ty con này đang trong quá trình thực hiện các thủ tục cần thiết để giải thể.
+
+(ii) Tại ngày 27 tháng 11 năm 2025, Công ty đã thực hiện góp vốn thành lập Công ty TNHH MTV Đầu tư Thiện Tâm với số vốn thực góp là VND 2.105.000.000.000 theo Nghị quyết số 11/NQ/HĐQT-2025.
+
+Tại ngày 27 tháng 11 năm 2025, Công ty TNHH MTV Đầu tư Thiện Tâm đã thực hiện góp vốn thành lập Công ty TNHH MTV Thương mại Thiện Tâm với số vốn thực góp là VND 2.100.000.000.000 theo Quyết định số 01/2025. Theo đó, Công ty TNHH MTV Đầu tư Thiện Tâm sở hữu 100% Công ty TNHH MTV Thương mại Thiện Tâm. Tại ngày 31 tháng 12 năm 2025, Công ty TNHH MTV Thương mại Thiện Tâm là công ty con gián tiếp của Công ty.
+
+Trong năm, theo Nghị quyết số 04/NQ/HĐQT/ĐMX-2025, ngày 20 tháng 11 năm 2025, Công ty TNHH MTV Thương mại Thiện Tâm nhận chuyển nhượng 201.294.010 cổ phần phổ thông của Công ty Cổ phần Dược Phẩm An Khang Pharma, từ Công ty Cổ phần Đầu tư Điện Máy Xanh (trước đó là Công ty Cổ phần Thế Giới Di Đông). Tại ngày ngày 25 tháng 12 năm 2025, Công ty MTV Thương mại Thiện Tâm đã hoàn thành việc sở hữu 99.99% Công ty Cổ phần Dược Phẩm An Khang Pharma. Theo đó, tại ngày 31 tháng 12 năm 2025, Công ty Cổ phần Dược Phẩm An Khang Pharma trở thành công ty con gián tiếp của Công ty và Công ty TNHH MTV Đầu tư Thiện Tâm.
+
+(iii) Tại ngày 17 tháng 12 năm 2025, Công ty đã thực hiện góp vốn thành lập Công ty TNHH MTV Đầu tư An Nhi với số vốn thực góp là VND 400.000.000.000 theo Nghị quyết số 11/NQ/HĐQT-2025.
+
+Trong năm Công ty TNHH MTV Đầu tư An Nhi đã thực hiện góp vốn thành lập Công ty TNHH Thương mại Avakids với số vốn thực góp là VND 350.000.000.000 theo Quyết định số 01/25/QĐ. Theo đó, Công ty TNHH MTV Đầu tư An Nhi sở hữu 100% Công ty TNHH Thương mại Avakids. Tại ngày 31 tháng 12 năm 2025, Công ty TNHH Thương mại Avakids là công ty con giản tiếp của Công ty.
+
+(iv) Tại ngày 29 tháng 12 năm 2025, Công ty đã hoàn tất thủ tục chuyển nhượng 100% vốn chủ sở hữu cho Công ty Cổ phần Đầu tư Điện Máy Xanh (trước đó là Công ty Cổ phần Thế Giới Di Đông) theo Nghị quyết số 04/NQ/HĐQT/ĐMX. Theo đó, Tại ngày 31 tháng 12 năm 2025, Công ty Cổ phần Thợm Điện Máy Xanh (trước đó là Công ty Cổ phần Dịch vụ Lắp đặt – Sửa chữa – Bảo hành Tận Tâm), trở thành công ty con gián tiếp của Công ty, không còn là công ty con trực tiếp của Công ty.
+
+12.5.4.7.8.9.10.11.12.13.14.15.16.17.18.19.20.21.22.23.24.25.26.27.28.29.30.31.32.33.34.35.36.37.38.39.40.41.42.43.44.45.46.47.48.49.50.51.52.53.54.55.56.57.58.59.60.61.62.63.64.65.66.67.68.69.70.71.72.73.74.75.76.77.78.79.80.81.82.83.84.85.86.87.88.89.90.91.92.93.94.95.96.97.98.99.
+
+19
+
+===== PAGE 22 =====
+Công ty Cổ phần Đầu tư Thế Giới Di Động
+
+B09-DN
+
+THUYẾT MINH BẢO CÁO TÀI CHÍNH RIÊNG (tiếp theo)
+
+vào ngày 31 tháng 12 năm 2025 và cho năm tài chính kết thúc cùng ngày
+
+9. THUẾ VÀ CÁC KHOÀN PHÀI THU NHÀ NƯỚC
+
+<table><tr><td></td><td>Số đầu năm</td><td>Tăng trong năm</td><td>Giảm trong năm</td><td>VND Số cuối năm</td></tr><tr><td colspan="5">Phải thu</td></tr><tr><td>Thuế thu nhập doanh nghiệp</td><td>4.043.554.524</td><td>-</td><td>-</td><td>4.043.554.524</td></tr><tr><td>Thuế giá trị gia tăng</td><td>29.035.501</td><td>324.133.584</td><td>(353.169.085)</td><td>-</td></tr><tr><td>TỔNG CỘNG</td><td>4.072.590.025</td><td>324.133.584</td><td>(353.169.085)</td><td>4.043.554.524</td></tr></table>
+
+10. CHI PHÍ PHÀI TRÀ NGÁN HẠN
+
+<table><tr><td></td><td>Số cuối năm</td><td>VND Số đầu năm</td></tr><tr><td>Chi phí lãi vay</td><td>9.408.840.058</td><td>14.706.793.433</td></tr><tr><td>Chi phí đảm bảo tỷ giá</td><td>4.651.111.111</td><td>251.015.319.915</td></tr><tr><td>Khác</td><td>116.000.004</td><td>873.660.003</td></tr><tr><td>TỔNG CỘNG</td><td>14.175.951.173</td><td>266.595.773.351</td></tr></table>
+
+11. PHÀI TRÀ NGÁN HẠN KHÁC
+
+<table><tr><td></td><td>Số cuối năm</td><td>VND Số đầu năm</td></tr><tr><td>Nhận tạm ứng cổ tức (Thuyết minh số 18)</td><td>20.634.327.612</td><td>-</td></tr><tr><td>Khác</td><td>1.561.096.133</td><td>1.549.524.356</td></tr><tr><td>TỔNG CỘNG</td><td>22.195.423.745</td><td>1.549.524.356</td></tr></table>
+
+20
+
+===== PAGE 23 =====
+Công ty Cổ phần Đầu tư Thế Giới Di Động
+
+THUYẾT MINH BẢO CẢO TÀI CHÍNH RIÊNG (tiếp theo)
+vào ngày 31 tháng 12 năm 2025 và cho kỳ kế toán kết thúc cùng ngày
+
+12. VAY NGÁN HẠN
+
+<table><tr><td></td><td>Số đầu năm</td><td>Tăng trong năm</td><td>Giảm trong năm</td><td>Chênh lệch tỷ giá</td><td>VND Số cuối năm</td></tr><tr><td>Vay ngắn hạn từ ngân hàng</td><td>-</td><td>911.750.000.000</td><td>-</td><td>-</td><td>911.750.000.000</td></tr><tr><td>Vay dài hạn từ ngân hàng đến hạn trả</td><td>5.948.525.000.000</td><td>-</td><td>(5.901.250.000.000)</td><td>(47.275.000.000)</td><td>-</td></tr><tr><td>TỔNG CỘNG</td><td>5.948.525.000.000</td><td>911.750.000.000</td><td>(5.901.250.000.000)</td><td>(47.275.000.000)</td><td>911.750.000.000</td></tr><tr><td>Trong đó:Số có khả năng trả nợ</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Vay ngắn hạn</td><td>5.948.525.000.000</td><td></td><td></td><td></td><td>911.750.000.000</td></tr></table>
+
+21
+
+\( \therefore {a}_{3} = 1 - 1 \)
+
+===== PAGE 24 =====
+Công ty Cổ phần Đầu tư Thế Giới Di Động
+
+THUYẾT MINH BẢO CẢO TÀI CHÍNH RIÊNG (tiếp theo)
+vào ngày 31 tháng 12 năm 2025 và cho kỳ kế toán kết thúc cùng ngày
+
+13. VÓN CHỦ SỞ HỮU
+
+13.1 Tỉnh hình tăng (giảm) nguồn vốn chủ sở hữu
+
+<table><tr><td></td><td>Vốn cổ phần</td><td>Thặng dư vốn cổ phần</td><td>Cổ phiếu quỹ</td><td>Lợi nhuận sau thuế chưa phân phối</td><td>VND Tổng cộng</td></tr><tr><td colspan="6">Năm trước</td></tr><tr><td>Số đầu năm</td><td>14.633.767.160.000</td><td>522.021.325.200</td><td>(9.783.280.000)</td><td>2.911.539.823.645</td><td>18.057.545.028.845</td></tr><tr><td>Lợi nhuận thuần trong năm</td><td>-</td><td>-</td><td>-</td><td>2.628.301.752.407</td><td>2.628.301.752.407</td></tr><tr><td>Hủy cổ phiếu quỹ</td><td>(11.325.390.000)</td><td>-</td><td>11.325.390.000</td><td>-</td><td>-</td></tr><tr><td>Mua lại cổ phiếu quỹ</td><td>-</td><td>-</td><td>(9.141.790.000)</td><td>-</td><td>(9.141.790.000)</td></tr><tr><td>Chia cổ tức bằng tiền</td><td>-</td><td>-</td><td></td><td>(730.957.693.995)</td><td>(730.957.693.995)</td></tr><tr><td>Số cuối năm</td><td>14.622.441.770.000</td><td>522.021.325.200</td><td>(7.599.680.000)</td><td>4.808.883.882.057</td><td>19.945.747.297.257</td></tr><tr><td colspan="6">Năm nay</td></tr><tr><td>Số đầu năm</td><td>14.622.441.770.000</td><td>522.021.325.200</td><td>(7.599.680.000)</td><td>4.808.883.882.057</td><td>19.945.747.297.257</td></tr><tr><td>Phát hành cổ phiếu theo chương trình ESOP (i)</td><td>174.490.000.000</td><td>-</td><td>-</td><td>-</td><td>174.490.000.000</td></tr><tr><td>Lợi nhuận thuần trong năm</td><td>-</td><td>-</td><td>-</td><td>8.852.903.913.674</td><td>8.852.903.913.674</td></tr><tr><td>Mua lại cổ phiếu quỹ (ii)</td><td>-</td><td>-</td><td>(4.764.460.000)</td><td>-</td><td>(4.764.460.000)</td></tr><tr><td>Mua lại cổ phiếu quỹ để giảm vốn cổ phần (iii)</td><td>-</td><td>-</td><td>(811.106.251.046)</td><td>-</td><td>(811.106.251.046)</td></tr><tr><td>Giảm vốn cổ phần từ hủy cổ phiếu quỹ (iii)</td><td>(100.000.000.000)</td><td>(711.106.251.046)</td><td>811.106.251.046</td><td>-</td><td>-</td></tr><tr><td>Chia cổ tức bằng tiền (iv)</td><td>-</td><td>-</td><td>-</td><td>(1.478.456.763.000)</td><td>(1.478.456.763.000)</td></tr><tr><td>Số cuối năm</td><td>14.696.931.770.000</td><td>(189.084.925.846)</td><td>(12.364.140.000)</td><td>12.183.331.032.731</td><td>26.678.813.736.885</td></tr></table>
+
+22
+
+11/5/2014. 10:00
+
+MINH★
+
+===== PAGE 25 =====
+Công ty Cổ phần Đầu tư Thế Giới Di Động
+
+B09-DN
+
+THUYẾT MINH BẢO CẢO TÀI CHÍNH RIÊNG (tiếp theo)
+
+vào ngày 31 tháng 12 năm 2025 và cho năm tài chính kết thúc cùng ngày
+
+13. VÔN CHỦ SỞ HỮU (tiếp theo)
+
+13.1 Tỉnh hình tăng (giảm) nguồn vốn chủ sở hữu (tiếp theo)
+
+(i) Theo Nghị quyết số 01/NQ/ĐHĐCĐ/2025 ngày 26 tháng 4 năm 2025 và Nghị quyết số 06/NQ/HĐQT/2025 ngày 19 tháng 4 năm 2025, Đại hội đồng Cổ đông và Hội đồng Quản trị Công ty đã thông qua kế hoạch phát hành cổ phiếu theo chương trình lựa chọn cho cán bộ quản lý chủ chốt của Nhóm Công ty với số lương 17.449.000 cổ phiếu tương đương với việc tăng vốn với số tiền 174.490.000.000 VND.
+
+(ii) Vào ngày 23 tháng 5 năm 2025, Công ty đã mua lại 324.161 cổ phiếu phát hành theo chương trình lựa chọn cho người lao động (ESOP) của những nhân viên đã nghĩ việc theo quy chế phát hành ESOP, với giá mua là 3.241.610.000 VND.
+
+Vào ngày 4 tháng 7 năm 2025, Công ty đã mua lại 152.285 cổ phiếu phát hành theo chương trình lựa chọn cho người lao động (ESOP) của những nhân viên đã nghĩ việc theo quy chế phát hành ESOP, với giá mua là 1.522.850.000 VND.
+
+(iii) Vào ngày 18 tháng 10 năm 2025, Hội đồng Quản trị Công ty đã thông qua Nghị quyết số 10/NQ/HĐQT-2025 về phương án mua lại 10.000.000 cổ phiếu Công ty từ các cổ đông hiện hữu nhằm mục đích giảm vốn điều lệ, đã được Đại hội đồng cổ đông thường niên 2025 thông qua theo Nghị quyết Đại hội đồng cổ đông số 01/NQ/ĐHĐCD/2025 ngày 26 tháng 4 năm 2025. Vào ngày 12 tháng 12 năm 2025, Công ty đã hoàn thành việc mua lại 10.000.000 cổ phiếu phổ thông với tổng giá và phí mua là 811.106.251.046 VND.
+
+Vào ngày 23 tháng 12 năm 2025, Công ty đã nhận GCNĐKDN điều chỉnh lần thứ 36, được cấp bởi Sở Tài chính Thành Phổ Hồ Chí Minh, phê duyệt việc giảm vốn điều lệ của Công ty từ 14.796.931.770.000 VND xuống 14.696.931.770.000 VND.
+
+(iv) Theo Nghị quyết số 01/NQ/ĐHĐCD/2025 ngày 26 tháng 4 năm 2025 và theo Nghị quyết số 09/NQ/HĐQT-2025 ngày 25 tháng 6 năm 2025, Đại hội đồng Cổ đông và Hội đồng Quản trị Công ty đã thông qua kế hoạch chi trả cổ tức năm 2024 bằng tiền cho cổ đông hiện hữu của Công ty với tỷ lệ 10% trên mệnh giá mỗi cổ phiếu phổ thông.
+
+13.2 Các giao dịch về vốn với các chủ sở hữu
+
+<table><tr><td></td><td>Năm nay</td><td>VNDNăm trước</td></tr><tr><td>Số đầu năm</td><td>14.622.441.770.000</td><td>14.633.767.160.000</td></tr><tr><td>Phát hành cổ phiếu theo chương trình ESOP</td><td>174.490.000.000</td><td>-</td></tr><tr><td>Hủy cổ phiếu quỹ</td><td>(100.000.000.000)</td><td>(11.325.390.000)</td></tr><tr><td>Số cuối năm</td><td>14.696.931.770.000</td><td>14.622.441.770.000</td></tr><tr><td colspan="3">Cổ tức đã công bố và chi trả trong năm</td></tr><tr><td>Cổ tức đã công bố</td><td>1.478.456.763.000</td><td>730.957.694.000</td></tr><tr><td>Cổ tức đã chi trả bằng tiền</td><td>1.478.456.763.000</td><td>730.957.694.000</td></tr></table>
+
+11015027=16511
+
+23
+
+===== PAGE 26 =====
+Công ty Cổ phần Đầu tư Thế Giới Di Động
+
+B09-DN
+
+THUYÊT MINH BẢO CẢO TÀI CHÍNH RIÊNG (tiếp theo)
+
+vào ngày 31 tháng 12 năm 2025 và cho năm tài chính kết thúc cùng ngày
+
+13. VỐN CHỦ SỞ HỮU (tiếp theo)
+
+13.3 Cổ phiếu
+
+<table><tr><td rowspan="2"></td><td colspan="2">Số cổ phiếu</td></tr><tr><td>Số cuối năm</td><td>Số đầu năm</td></tr><tr><td>Số lượng cổ phiếu được phép phát hành</td><td>1.469.693.177</td><td>1.462.244.177</td></tr><tr><td>Số lượng cổ phiếu đã phát hành và được góp vốn đầy đủCổ phiếu phổ thông</td><td>1.469.693.177</td><td>1.462.244.177</td></tr><tr><td>Số lượng cổ phiếu quỹCổ phiếu phổ thông</td><td>(1.236.414)</td><td>(759.968)</td></tr><tr><td>Số lượng cổ phiếu đang lưu hànhCổ phiếu phổ thông</td><td>1.468.456.763</td><td>1.461.484.209</td></tr></table>
+
+Các cổ đông nắm giữ cổ phiếu phổ thông của Công ty được quyền hưởng cổ tức do Công ty công bố. Mỗi cổ phiếu phổ thông với mệnh giá 10.000 VND thể hiện một quyền biểu quyết. không hạn chế.
+
+14. DOANH THU HOẠT ĐỘNG TÀI CHÍNH
+
+<table><tr><td></td><td>Năm nay</td><td>VNDNăm trước</td></tr><tr><td>Thu nhập từ cổ tức</td><td>9.264.541.215.910</td><td>2.771.476.165.927</td></tr><tr><td>Lãi thu từ trái phiếu</td><td>239.839.254.872</td><td>212.254.610.336</td></tr><tr><td>Lãi tiền gửi</td><td>139.722.432.357</td><td>48.467.869.696</td></tr><tr><td>Lãi tiền cho vay</td><td>126.144.298.623</td><td>126.476.651.752</td></tr><tr><td>TỔNG CỘNG</td><td>9.770.247.201.762</td><td>3.158.675.297.711</td></tr></table>
+
+15. CHI PHÍ TÀI CHÍNH
+
+<table><tr><td></td><td>Năm nay</td><td>VNDNăm trước</td></tr><tr><td>Dự phòng đầu tư dài hạn</td><td>552.091.693.807</td><td>-</td></tr><tr><td>Chi phí lãi vay</td><td>291.787.790.198</td><td>460.482.509.459</td></tr><tr><td>Lỗ chênh lệch tỷ giá hối đoái</td><td>48.338.542.612</td><td>25.793.714.496</td></tr><tr><td>Chi phí thu xếp khoản vay</td><td>19.073.128.803</td><td>22.519.119.552</td></tr><tr><td>Khác</td><td>878.078.182</td><td>109.676.482</td></tr><tr><td>TỔNG CỔNG</td><td>912.169.233.602</td><td>508.905.019.989</td></tr></table>
+
+24
+
+11.1 2017年1月
+
+===== PAGE 27 =====
+Công ty Cổ phần Đầu tư Thế Giới Di Động
+
+B09-DN
+
+THUYẾT MINH BẢO CẢO TÀI CHÍNH RIÊNG (tiếp theo)
+
+vào ngày 31 tháng 12 năm 2025 và cho năm tài chính kết thúc cùng ngày
+
+16. CHI PHÍ QUẢN LÝ DOANH NGHIỆP
+
+<table><tr><td></td><td>Năm nay</td><td>VNDNăm trước</td></tr><tr><td>Chi phí tư vấn</td><td>3.007.442.631</td><td>2.825.671.476</td></tr><tr><td>Chi phí dịch vụ mua ngoài</td><td>1.080.428.740</td><td>5.553.155.726</td></tr><tr><td>Thuế nhà thầu</td><td>-</td><td>11.819.753.783</td></tr><tr><td>Khác</td><td>1.085.081.369</td><td>1.269.944.330</td></tr><tr><td>TỔNG CỘNG</td><td>5.172.952.740</td><td>21.468.525.315</td></tr></table>
+
+17. THUẾ THU NHẬP DOANH NGHIỆP
+
+Thuế suất thuế thu nhập doanh nghiệp ("thuế TNDN") áp dụng cho Công ty là 20% thu nhập chịu thuế.
+
+Các báo cáo thuế của Công ty sẽ chịu sự kiểm tra của cơ quan thuế. Do việc áp dụng luật và các quy định về thuế có thể được giải thích theo nhiều cách khác nhau, số thuế được trình bày trên báo cáo tài chính riêng có thể sẽ bị thay đổi theo quyết định cuối cùng của cơ quan thuế.
+
+17.1 Chi phí thuế TNDN
+
+Dưới đây là đối chiếu giữa chỉ phí thuế TNDN và lợi nhuận kế toán trước thuế nhân với thuế suất thuế TNDN:
+
+<table><tr><td></td><td>Năm nay</td><td>VNDNăm trước</td></tr><tr><td>Tổng lợi nhuận kế toán trước thuế</td><td>8.852.903.913.674</td><td>2.628.301.752.407</td></tr><tr><td>Thuế TNDN theo thuế suất 20% áp dụng cho Công ty</td><td>1.770.580.782.735</td><td>525.660.350.481</td></tr><tr><td rowspan="2">Các khoản điều chỉnh:Thu nhập từ cổ tứcLỗ thuế chưa ghi nhận thuế thu nhập hoãn lại</td><td>(1.852.908.243.182)</td><td>(554.295.233.185)</td></tr><tr><td>82.327.460.447</td><td>28.634.882.704</td></tr><tr><td>Chi phí thuế TNDN</td><td>-</td><td>-</td></tr></table>
+
+17.2 Thuế TNDN hiện hành
+
+Thuế TNDN hiện hành phải nộp được xác định dựa trên thu nhập chịu thuế của năm hiện tại. Thu nhập chịu thuế của Công ty khác với lợi nhuận được báo cáo trong báo cáo kết quả sản xuất kinh doanh riêng vi thu nhập chịu thuế không bao gồm các khoản mục thu nhập chịu thuế hay chi phí được khấu trừ cho mục đích tính thuế trong các năm khác và cũng không bao gồm các khoản mục không phải chịu thuế hay không được khấu trừ cho mục đích tính thuế. Thuế TNDN hiện hành phải nộp của Công ty được tính theo thuế suất đã ban hành đến ngày kết thúc năm tài chính.
+
+25
+
+===== PAGE 28 =====
+Công ty Cổ phần Đầu tư Thế Giới Di Động
+
+B09-DN
+
+THUYẾT MINH BẢO CẢO TÀI CHÍNH RIÊNG (tiếp theo)
+
+vào ngày 31 tháng 12 năm 2025 và cho năm tài chính kết thúc cùng ngày
+
+18. NGHIỆP VỤ VỚI CÁC BÊN LIÊN QUAN
+
+Danh sách các bên liên quan có quan hệ kiểm soát với Công ty trong năm và tại ngày 31 tháng 12 năm 2025 như sau:
+
+<table><tr><td>Bên liên quan</td><td>Mối quan hệ</td></tr><tr><td>Công ty Cổ phần Đầu tư Điện Máy Xanh</td><td>Công ty con</td></tr><tr><td>Công ty Cổ phần Công nghệ và Đầu tư Bách Hóa Xanl</td><td>Công ty con</td></tr><tr><td>Công ty Cổ phần Thế giới Số Trần Anh</td><td>Công ty con</td></tr><tr><td>Công ty TNHH MTV Công nghệ Thông tin Thế Giới Di Động</td><td>Công ty con</td></tr><tr><td>Công ty Cổ phần 4K Farm</td><td>Công ty con</td></tr><tr><td>Công ty Cổ phần Logistics Toàn Tín</td><td>Công ty con</td></tr><tr><td>Công ty TNHH MTV Đầu tư Thiện Tâm</td><td>Công ty con</td></tr><tr><td>Công ty TNHH MTV Đầu tư An Nhi</td><td>Công ty con</td></tr><tr><td>Công ty Cổ phần Thương mại Bách Hóa Xanh</td><td>Công ty con gián tiếp</td></tr><tr><td>Công ty Cổ phần Thợ Điện Máy Xanh</td><td>Công ty con gián tiếp</td></tr><tr><td>Công ty Cổ phần Dược phẩm An Khang Pharma</td><td>Công ty con gián tiếp</td></tr><tr><td>Công ty TNHH Thương mại Avakids</td><td>Công ty con gián tiếp</td></tr><tr><td>Công ty TNHH MTV Thương mại Thiện Tâm</td><td>Công ty con gián tiếp</td></tr><tr><td>PT Era Blu Elektronik</td><td>Công ty liên doanh</td></tr><tr><td>Công ty TNHH Tư vấn Đầu tư Thế giới Bản lẻ</td><td>Đồng thành viên quản lý chủ chốt</td></tr><tr><td>Quỹ Tư thiện Mái Âm Thế Giới Di Động</td><td>Đồng thành viên quản lý chủ chốt</td></tr><tr><td>Công ty Zynstra tại Anh</td><td>Đồng thành viên quản lý chủ chốt</td></tr><tr><td>Công ty Purple Wifi tại Anh</td><td>Đồng thành viên quản lý chủ chốt</td></tr><tr><td>NEWT Natural Capital LLP tại Anh</td><td>Đồng thành viên quản lý chủ chốt</td></tr></table>
+
+Những giao dịch trọng yếu của Công ty với các bên liên quan trong năm nay bao gồm:
+
+VND
+
+<table><tr><td>Bên liên quan</td><td>Nội dung nghiệp vụ</td><td>Năm nay</td><td>Năm trước</td></tr><tr><td>Công ty Cổ phầnĐầu tư Điện Máy Xanh</td><td>Thu nhập từ cổ tứcNhận cổ tức bằng cổ phiếuChuyển nhượng cổ phầnThu hồi khoản cho vayCho vayLãi cho vay</td><td>8.695.179.943.5226.538.653.600.00099.998.900.000-</td><td>2.748.476.418.927-2.181.850.000.000292.400.000.00079.322.775.940</td></tr><tr><td>Công ty Cổ phầnThợ Điện Máy Xanh</td><td>Nhận cổ tức</td><td>469.361.272.388</td><td></td></tr><tr><td>Công ty TNHHMTV Đầu tư Thiện Tâm</td><td>Góp vốn đầu tư</td><td>2.105.000.000.000</td><td></td></tr><tr><td>Công ty TNHH MTVĐầu tư An Nhi</td><td>Góp vốn đầu tư</td><td>400.000.000.000</td><td></td></tr><tr><td>Công ty TNHH MTV Côngnghệ Thông tin Thế GiớiDi Động</td><td>Nhận cổ tức</td><td>100.000.000.000</td><td></td></tr></table>
+
+26
+
+===== PAGE 29 =====
+Công ty Cổ phần Đầu tư Thế Giới Di Động
+
+B09-DN
+
+THUYẾT MINH BẢO CẢO TÀI CHÍNH RIÊNG (tiếp theo)
+
+vào ngày 31 tháng 12 năm 2025 và cho năm tài chính kết thúc cùng ngày
+
+18. NGHIỆP VỤ VỚI CÁC BÊN LIÊN QUAN (tiếp theo)
+
+Những giao dịch trọng yếu của Công ty với các bên liên quan trong năm nay bao gồm: (tiếp theo)
+
+<table><tr><td>Bên liên quan</td><td>Nội dung nghiệp vụ</td><td>Năm nay</td><td>VNDNăm trước</td></tr><tr><td>Ông Robert Willett</td><td>Chi phí tư vấn</td><td>2.503.842.632</td><td>2.351.671.475</td></tr><tr><td>Công ty Cổ phầnLogistics Toàn Tín</td><td>Thu hồi đầu tư góp vốnThu nhập từ cổ tức</td><td>--</td><td>99.998.900.00022.999.747.000</td></tr></table>
+
+Vào ngày kết thúc ký kế toán năm, các khoản phải trả các bên liên quan như sau:
+
+<table><tr><td>Bên liên quan</td><td>Nội dung nghiệp vụ</td><td>Năm nay</td><td>VNDNăm trước</td></tr></table>
+
+Phải trả ngắn hạn khác
+
+Công ty Cổ phần
+Thợ Điện Máy Xanh
+
+Nhận tạm ứng cổ tức
+
+20.634.327.612
+
+19. SỰ KIỆN SAU NGÀY KẾT THỨC KỸ KẾ TOÁN
+
+Không có sự kiện nào phát sinh sau ngày kết thúc ký kế toán yêu cầu phải được điều chỉnh hay trình bày trong báo cáo tài chính riêng của Công ty.
+
+Thành phố Hồ Chí Minh, Việt Nam
+
+Ngày 23 tháng 3 năm 2026
+
+27

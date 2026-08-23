@@ -1,0 +1,1430 @@
+===== PAGE 1 =====
+TẬP ĐOÀN CÔNG NGHIỆP THAN - KHOÁNG SẢN VIỆT NAM
+
+CÔNG TY MỆ
+
+TỔNG CÔNG TY ĐIỆN LỰC TKV - CTCP
+
+Báo cáo tài chính riêng đã được kiểm toán
+
+cho năm tài chính kết thúc vào ngày 31/12/2018
+
+===== PAGE 2 =====
+TẬP ĐOÀN CÔNG NGHIỆP THAN - KHOÁNG SẢN VIỆT NAM
+
+CÔNG TY MỆ - TỔNG CÔNG TY ĐIÊN LỰC TKV - CTCP
+
+Địa chỉ: Tòa nhà Sannam, đường Duy Tân, phường Dịch Vọng Hậu, Q. Cầu Giấy, TP. Hà Nội
+
+BÁO CÁO CỦA BAN TỔNG GIÁM ĐỐC
+
+Năm tài chính kết thúc vào ngày 31/12/2018
+
+Ban Tổng Giám đốc Tổng Công ty Điện lực TKV - CTCP trình bày báo cáo này cùng với Báo cáo tài chính riêng cho năm tài chính kết thúc vào ngày 31/12/2018 của Công ty mẹ - Tổng công ty Điện lực TKV - CTCP (sau đây gọi tất là “Công ty mẹ”) đã được kiểm toán bởi các kiểm toán viên độc lập.
+
+1. Thông tin chung
+
+Tổng Công ty Điện lực TKV - CTCP được cổ phần hóa từ Tổng Công ty Điện lực - Vinacomin (TNHH MTV) theo Quyết định số 85/QĐ-Ttg ngày 19/01/2015 của Thủ tướng Chính phủ về việc phê duyệt Phương án cổ phần hóa Công ty mẹ - Tổng Công ty Điện lực - Vinacomin thuộc Tập đoàn Công nghiệp Than - Khoáng sản Việt Nam.
+
+Tổng Công ty Điện lực TKV - CTCP hoạt động theo Giấy chứng nhận đăng ký doanh nghiệp công ty cổ phần đăng ký thay đổi lần 5 ngày 16/07/2018 với mã số doanh nghiệp là 0104297034, theo đó vốn điều lệ của Tổng công ty là 6.800.000.000.000 VND được chia thành 680.000.000 cổ phần (mệnh giá cổ phần là 10.000 đồng), danh sách cổ đông tại ngày 31/12/2018 bao gồm:
+
+<table><tr><td>TT</td><td>Tên cổ đông</td><td>Số cổ phần theo điều lệ</td><td>Tỷ lệ</td></tr><tr><td>1</td><td>Tập đoàn Công nghiệp Than - Khoáng sẵn Việt Nam</td><td>677.808.500</td><td>99,68%</td></tr><tr><td>2</td><td>Cổ đông khác</td><td>2.191.500</td><td>0,32%</td></tr><tr><td></td><td>Cộng</td><td>680.000.000</td><td>100%</td></tr></table>
+
+2. Hội đồng quản trị, Ban Tổng Giám đốc và Ban kiểm soát
+
+Các thành viên của Hội đồng quản trị của Tổng công ty trong suốt năm tài chính và đến ngày lập báo cáo này bao gồm các vị như sau:
+
+<table><tr><td colspan="2">Ho và tên:</td><td>Chức vụ:</td></tr><tr><td>-</td><td>Ông Nguyễn Trọng Hùng</td><td>Chủ tịch</td></tr><tr><td>-</td><td>Ông Ngô Trí Thịnh</td><td>Ủy viên</td></tr><tr><td>-</td><td>Ông Hoàng Phó Hiềng</td><td>Ủy viên</td></tr><tr><td>-</td><td>Ông Nguyễn Đức Pha</td><td>Ủy viên</td></tr><tr><td>-</td><td>Ông Phạm Xuân Phong</td><td>Ủy viên</td></tr></table>
+
+Các thành viên của Ban Tổng Giám đốc của Tổng công ty đã điều hành hoạt động của Tổng công ty trong suốt năm tài chính và đến ngày lập báo cáo này bao gồm các vị như sau:
+
+<table><tr><td colspan="2">Ho và tên:</td><td>Chức vu:</td></tr><tr><td>-</td><td>Ông Ngô Trí Thịnh</td><td>Tổng Giám đốc</td></tr><tr><td>-</td><td>Ông Nguyễn Văn Hải</td><td>Phó Tổng Giám đốc</td></tr></table>
+
+2
+
+M.S.D. THI.
+
+T.N.H.H ★ ION
+AN
+
+===== PAGE 3 =====
+TẬP ĐOÀN CÔNG NGHIỆP THAN - KHOÁNG SẢN VIỆT NAM
+
+CÔNG TY MỆ - TỔNG CÔNG TY ĐIỆN LỰC TKV - CTCP
+
+Địa chỉ: Tòa nhà Sannam, đường Duy Tân, phường Dịch Vọng Hậu, Q. Cầu Giấy, TP. Hà Nội
+
+BÁO CÁO CỦA BAN TỔNG GIÁM ĐỐC (Tiếp theo)
+
+Năm tài chính kết thúc vào ngày 31/12/2018
+
+<table><tr><td colspan="2">Ho và tên:</td><td colspan="2">Chức vụ:</td></tr><tr><td>-</td><td>Ông Hoàng Phó Hiềng</td><td>Phó Tổng Giám đốc</td><td></td></tr><tr><td>-</td><td>Ông Bùi Minh Tân</td><td>Phó Tổng Giám đốc</td><td></td></tr><tr><td>-</td><td>Ông Phạm Xuân Phong</td><td>Phó Tổng Giám đốc</td><td></td></tr><tr><td>-</td><td>Ông Nguyễn Trung Thực</td><td>Phó Tổng Giám đốc (từ ngày 26/3/2019)</td><td>(i)</td></tr></table>
+
+(i) Theo Quyết định số 555/QĐ-ĐLTKV ngày 20/3/2019 của Tổng Công ty điện lực - TKV về việc bổ nhiệm Phó Tổng Giám đốc Công ty.
+
+Các thành viên của Ban kiểm soát của Tổng công ty trong suốt năm tài chính và đến ngày lập báo cáo này bao gồm các vị như sau:
+
+<table><tr><td colspan="2">Ho và tên:</td><td>Chức vụ:</td></tr><tr><td>-</td><td>Ông Phạm Văn Thường</td><td>Trường ban kiểm soát</td></tr><tr><td>-</td><td>Bà Bùi Tố Uyên</td><td>Thành viên ban kiểm soát</td></tr><tr><td>-</td><td>Bà Bùi Thu Thái</td><td>Thành viên ban kiểm soát</td></tr></table>
+
+3. Trụ sở
+
+Công ty mẹ - Tổng Công ty Điện lực TKV - CTCP có trụ sở chính theo đăng ký kinh doanh thay đổi lần 4 tại tòa nhà Sannam, đường Duy Tân, phường Dịch Vọng Hậu, quận Cầu Giấy, thành phố Hà Nội
+
+Trong năm tài chính kết thúc vào ngày 31/12/2018, Công ty mẹ bao gồm các chi nhánh phụ thuộc sau:
+
+1. Công ty Nhiệt điện Cao Ngạn - TKV, địa chỉ tại ngõ 719, đường Dương Tự Minh, phường Quan Triều, thành phố Thái Nguyên, tỉnh Thái Nguyên;
+
+2. Công ty Nhiệt điện Na Dương - TKV, địa chỉ tại khu 4, thị trấn Na Dương, huyện Lộc Bình, tỉnh Lạng Sơn;
+
+3. Công ty Nhiệt điện Sơn Đông - TKV, địa chỉ tại thôn Đồng Rì, thị trấn Thanh Sơn, huyện Sơn Đông, tỉnh Bắc Giang;
+
+4. Ban Quản lý Dự án Nhà máy Nhiệt điện Mạo Khê - Vinacomin, địa chỉ tại xã Bình Khê, thị xã Đông Triều, tỉnh Quảng Ninh;
+
+5. Ban Quản lý Dự án Nhà máy Thủy điện Đồng Nai 5 - Vinacomin, địa chỉ tại thị trấn Lộc Thắng, huyện Bảo Lâm, tỉnh Lâm Đồng;
+
+6. Công ty Nhiệt điện Đông Triều - TKV, địa chỉ tại xã Bình Khê, thị xã Đông Triều, tỉnh Quảng Ninh;
+
+7. Công ty Thủy điện Đồng Nai 5 - TKV, địa chỉ tại số 10 đường Hoàng Văn Thụ, phường 1, thành phố Bảo Lộc, tỉnh Lâm Đồng.
+
+3
+
+N.03134
+CÔN
+TRÁCH NH
+P
+VIỆT
+NH XU
+
+===== PAGE 4 =====
+TẬP ĐOÀN CÔNG NGHIỆP THAN - KHOÁNG SẢN VIỆT NAM
+
+CÔNG TY MỆ - TỔNG CÔNG TY ĐIỆN LỰC TKV - CTCP
+
+Địa chỉ: Tòa nhà Sannam, đường Duy Tân, phường Dịch Vọng Hậu, Q. Cầu Giấy, TP. Hà Nội
+
+MỤC LỤC
+
+Trang
+
+1. Báo cáo của Ban Tổng Giám đốc 2 - 5
+
+2. Báo cáo kiểm toán 6 - 7
+
+3. Báo cáo tài chính riêng đã được kiểm toán
+
+- Bàng cân đối kế toán riêng 8 - 9
+
+- Báo cáo kết quả hoạt động kinh doanh riêng 10
+
+- Báo cáo lưu chuyển tiền tệ riêng 11
+
+- Bàn thuyết minh báo cáo tài chính riêng 12 - 46
+
+0640-C.
+G TY
+M HÜU F
+F
+NAM
+N-T.P
+
+1
+
+===== PAGE 5 =====
+TẬP ĐOÀN CÔNG NGHIỆP THAN - KHOÁNG SẢN VIỆT NAM
+
+CÔNG TY MỆ - TỔNG CÔNG TY ĐIỆN LỰC TKV - CTCP
+
+Địa chỉ: Tòa nhà Sannam, đường Duy Tân, phường Dịch Vọng Hậu, Q. Cầu Giấy, TP. Hà Nội
+
+BÁO CÁO CỦA BAN TỔNG GIÁM ĐỐC (Tiếp theo)
+
+Năm tài chính kết thúc vào ngày 31/12/2018
+
+4. Tình hình tài chính và kết quả hoạt động kinh doanh
+
+Chi tiết tỉnh hình tài chính vào ngày 31/12/2018 và kết quả hoạt động kinh doanh cho năm tài chính kết thúc cùng ngày của Công ty mẹ được trình bày trong Báo cáo tài chính riêng đã được kiểm toán dính kèm.
+
+5. Các khoản bất thường và sự kiện quan trọng phát sinh sau niên độ
+
+Ngày 07/01/2019, Hội đồng thành viên Tập đoàn Công nghiệp Than - Khoáng sản Việt Nam đã có Quyết định số 28/QĐ-TKV phê duyệt quyết toán công tác cổ phần hóa Tổng Công ty Điện lực - Vinacomin tại thời điểm chính thức chuyển thành Tổng Công ty Điện lực TKV - CTCP.
+
+Ngoài ra, Ban Tổng Giám đốc Tổng công ty không có sự kiện nào có thể làm cho các số liệu và thông tin đã được trình bày trong Báo cáo tài chính riêng đã được kiểm toán của Tổng công ty bị phần ánh sai lệch.
+
+6. Công ty kiểm toán
+
+Công ty TNHH PKF Việt Nam được chỉ định là kiểm toán viên thực hiện kiểm toán Báo cáo tài chính riêng cho năm tài chính kết thúc vào ngày 31/12/2018 của Công ty mẹ.
+
+7. Công bố trách nhiệm của Ban Tổng Giám đốc
+
+Ban Tổng Giám đốc Tổng Công ty chịu trách nhiệm lập Báo cáo tài chính riêng và đảm bảo Báo cáo tài chính riêng đã phần ánh trung thực và hợp lý về tình hình tài chính vào ngày 31/12/2018 cũng như kết quả hoạt động kinh doanh và tình hình lưu chuyển tiền tệ cho năm tài chính kết thúc cùng ngày của Công ty mẹ. Để lập Báo cáo tài chính riêng này, Ban Tổng Giám đốc Tổng Công ty được yêu cầu:
+
+- Xây dựng và duy trì kiểm soát nội bộ mà Ban Tổng Giám đốc và Hội đồng quản trị xác định là cần thiết để đảm bảo cho việc lập và trình bày Báo cáo tài chính riêng không còn sai sót trọng yếu do gian lận hoặc do nhằm lẫn;
+
+- Lựa chọn phù hợp và áp dụng nhất quán các chính sách kế toán;
+
+- Thực hiện các xét đoán và ước tính một cách hợp lý và thận trọng;
+
+- Nếu rõ các chuẩn mục kế toán được áp dụng có được tuân thủ hay không, có những áp dụng sai lệch trọng yếu đến mức cần phải công bố và giải thích trong Báo cáo tài chính riêng hay không;
+
+- Lập và trình bày các báo cáo tài chính riêng trên cơ sở tuân thủ các chuẩn mục kế toán Việt Nam, chế độ kế toán doanh nghiệp Việt Nam hiện hành và các quy định pháp lý có liên quan đến việc lập và trình bày báo cáo tài chính;
+
+- Lập Báo cáo tài chính riêng trên cơ sở hoạt động liên tục trừ khi giả thuyết Tổng Công ty sẽ tiếp tục hoạt động không còn phù hợp.
+
+Ban Tổng Giám đốc Tổng Công ty cam kết rằng đã tuân thủ các yêu cầu nêu trên trong việc lập Báo cáo tài chính riêng và nhận thấy không có vấn đề bất thường xảy ra có thể ảnh hưởng đến khả năng hoạt động liên tục của doanh nghiệp.
+
+4
+
+NAM NAN
+G TY EM HOU
+10440, G
+
+===== PAGE 6 =====
+TẬP ĐOÀN CÔNG NGHIỆP THAN - KHOÁNG SẢN VIỆT NAM
+
+CÔNG TY MỆ - TỔNG CÔNG TY ĐIỆN LỰC TKV - CTCP
+
+Địa chỉ: Tòa nhà Sannam, đường Duy Tân, phường Dịch Vọng Hậu, Q. Cầu Giấy, TP. Hà Nội
+
+BÁO CÁO CỦA BAN TỔNG GIÁM ĐỐC (Tiếp theo)
+
+Năm tài chính kết thúc vào ngày 31/12/2018
+
+Ban Tổng Giám đốc Tổng Công ty chịu trách nhiệm đảm bảo sổ kế toán được ghi chép đầy đủ, phần ánh trung thực và hợp lý tình hình tài chính của Tổng Công ty và đảm bảo Báo cáo tài chính riêng của Tổng Công ty được lập phù hợp với các chuẩn mực kế toán Việt Nam, chế độ kế toán doanh nghiệp Việt Nam hiện hành và các quy định pháp lý có liên quan đến việc lập và trình bày báo cáo tài chính riêng.
+
+Ban Tổng Giám đốc Công ty mẹ cũng chịu trách nhiệm đảm bảo an toàn cho các tài sản và đã thực hiện các biện pháp phù hợp để ngăn ngừa và phát hiện sai sót và các trường hợp vi phạm khác.
+
+Ban Tổng Giám đốc Tổng Công ty xác nhận rằng Báo cáo tài chính riêng cho năm tài chính kết thúc vào ngày 31/12/2018 của Tổng Công ty đã được lập theo đúng các yêu cầu trên.
+
+Ngoài ra, Ban Tổng Giám đốc cam kết rằng Tổng công ty không vi phạm nghĩa vụ công bố thông tin theo quy định tại Thông tư số 155/2015/TT-BTC ngày 06/10/2015 của Bộ Tài chính hướng dẫn về việc công bố thông tin trên Thị trường chứng khoán.
+
+8. Ý kiến của Ban Tổng Giám đốc
+
+Theo ý kiến của Ban Tổng Giám đốc Tổng Công ty, Báo cáo tài chính riêng của Công ty mẹ đã được kiểm toán (đính kèm) đã phần ánh trung thực và hợp lý tính hình tài chính tại ngày 31/12/2018, kết quả hoạt động kinh doanh riêng và tính hình lưu chuyển tiền tệ riêng trong năm tài chính kết thúc cùng ngày của Công ty mẹ và được lập phù hợp với các chuẩn mục kế toán Việt Nam, chế độ kế toán doanh nghiệp Việt Nam hiện hành và các quy định pháp lý có liên quan đến việc lập và trình bày Báo cáo tài chính.
+
+Hà Nội, ngày 26 tháng 03 năm 2019
+
+THAY MẶT BAN TỔNG GIÁM ĐỐC
+TỔNG GIÁM ĐỐC
+
+5
+
+===== PAGE 7 =====
+PKF Việt Nam
+
+PKF
+Accountants & business advisers
+
+Số: 62 /2019/BCKT- PKF.VPC
+
+Hà Nội, ngày 26 tháng 03 năm 2019
+
+BÁO CÁO KIỂM TOÁN ĐỘC LẬP
+
+Kính gửi: HỘI ĐỒNG QUẢN TRỊ VÀ BAN TỔNG GIÁM ĐỐC TỔNG CÔNG TY ĐIỆN LỰC TKV - CTCP
+
+Chúng tôi đã kiểm toán Báo cáo tài chính riêng cho năm tài chính kết thúc vào ngày 31 tháng 12 năm 2018 của Công ty mẹ - Tổng Công ty Điện lực TKV - CTCP (Công ty mẹ) được lập ngày 26 tháng 03 năm 2019 bao gồm: Bằng cân đối kế toán riêng tại ngày 31/12/2018, Báo cáo kết quả hoạt động kinh doanh riêng, Báo cáo lưu chuyển tiền tệ riêng và Bản thuyết minh báo cáo tài chính riêng cho năm tài chính kết thúc cùng ngày được trình bày từ trang 8 đến trang 46 kèm theo.
+
+Báo cáo tài chính riêng đã được kiểm toán này không nhằm phần ánh tình hình tài chính, kết quả hoạt động kinh doanh và tình hình lưu chuyển tiền tệ theo các nguyên tắc và thông lệ kế toán được chấp nhận chung tại các nước khác ngoài Việt Nam.
+
+Trách nhiệm của Ban Tổng Giám đốc
+
+Ban Tổng Giám đốc Công ty mẹ - Tổng Công ty Điện lực TKV - CTCP chịu trách nhiệm về việc lập và trình bày trung thực và hợp lý Báo cáo tài chính riêng của Công ty mẹ theo các chuẩn mục kế toán Việt Nam, chế độ kế toán doanh nghiệp Việt Nam và các quy định pháp lý có liên quan đến việc lập và trình bày báo cáo tài chính và chịu trách nhiệm về kiểm soát nội bộ mà Ban Tổng Giám đốc xác định là cần thiết để đảm bảo cho việc lập và trình bày Báo cáo tài chính riêng không có sai sót trọng yếu do gian lận hoặc nhằm lẫn.
+
+Trách nhiệm của Kiểm toán viên
+
+Trách nhiệm của chúng tối là đưa ra ý kiến về Báo cáo tài chính riêng dựa trên kết quả của cuộc kiểm toán. Chúng tối đã tiến hành kiểm toán theo các chuẩn mục kiểm toán Việt Nam. Các chuẩn mục này yêu cầu chúng tối tuân thủ chuẩn mục và các quy định về đạo đức nghề nghiệp, lập kế hoạch và thực hiện cuộc kiểm toán để đạt được sự đảm bảo hợp lý về việc liệu Báo cáo tài chính riêng của Tổng Công ty có còn sai sót trọng yếu hay không.
+
+Công việc kiểm toán bao gồm thực hiện các thủ tục nhằm thu thập các bằng chứng kiểm toán về các số liệu và thuyết minh trên Báo cáo tài chính riêng. Các thủ tục kiểm toán được lựa chọn dựa trên xét đoán của kiểm toán viên, bao gồm đánh giá rủi ro có sai sót trọng yếu trong Báo cáo tài chính riêng do gian lận hoặc nhằm lẫn. Khi thực hiện đánh giá các rủi ro này, kiểm toán viên đã xem xét kiểm soát nội bộ của Tổng Công ty liên quan đến việc lập và trình bày Báo cáo tài chính riêng trung thực, hợp lý nhằm thiết kế các thủ tục kiểm toán phù hợp với tình hình thực tế, tuy nhiên không nhằm mục đích đưa ra ý kiến về hiệu quả của kiểm soát nội bộ của Tổng Công ty. Công việc kiểm toán cũng bao gồm đánh giá tính thích hợp của các chính sách kế toán được áp dụng và tính hợp lý của các ước tính kế toán của Ban Tổng Giám đốc cũng như đánh giá việc trình bày tổng thể báo cáo tài chính.
+
+Chúng tôi tin tưởng rằng các bằng chứng kiểm toán mà chúng tôi đã thu thập được là đầy đủ và thích hợp làm cơ sở cho ý kiến kiểm toán của chúng tôi.
+
+Văn phòng chính • Tel: +84 24 6664 4488 • Fax: +84 24 6664 2233 • Email: pkfvietnam@pkf.com.vn • www.pkf.com.vn
+
+Tâng 10 và 12 toa nhà Hapulico • Số 1 Nguyễn Huy Tường • Phường Thanh Xuân Trung • Quân Thanh Xuân • Thành phố Hà Nội • Việt Nam
+
+PKF Việt Nam là công ty thành viên của Tập đoàn PKF Quốc tế, mạng lưới của các công ty độc lập và không thừa nhận bất kỳ trách nhiệm hoặc nghĩa vụ nás cho các hành động hoặc việc không hành động của bất kỳ công ty hoặc các công ty thành viên khác
+
+CÓ
+RÁCH NI
+P
+VIỆ
+VH XU
+
+===== PAGE 8 =====
+Ý kiến của Kiểm toán viên
+
+Theo ý kiến chúng tôi, xét trên các khóa cạnh trọng yếu, Báo cáo tài chính riêng kèm theo đã phần ánh trung thực và hợp lý tình hình tài chính vào ngày 31 tháng 12 năm 2018, kết quả hoạt động kinh doanh và tình hình lưu chuyển tiền tệ trong năm tài chính kết thúc cùng ngày của Công ty mẹ - Tổng Công ty Điện lực TKV - CTCP, và được lập phù hợp với các chuẩn mục kế toán Việt Nam, Chế độ kế toán doanh nghiệp Việt Nam hiện hành và các quy định pháp lý có liên quan đến việc lập và trình bày báo cáo tài chính.
+
+Đại diện cho Công ty TNHH PKF Việt Nam
+
+Nguyễn Hồng Quang
+
+Phó Tổng Giám đốc
+
+Giấy chứng nhận đăng ký hành nghề
+
+kiểm toán số: 0576-2018-242-1
+
+Nguyễn Hoàng Hà
+
+Kiểm toán viên
+
+Giấy chứng nhận đăng ký hành nghề
+
+kiểm toán số: 0740-2018-242-1
+
+7
+
+===== PAGE 9 =====
+TẬP ĐOÀN CÔNG NGHIỆP THAN - KHOÁNG SẢN VIỆT NAM
+
+CÔNG TY MỆ - TỔNG CÔNG TY ĐIỆN LỰC TKV - CTCP
+
+Địa chỉ: Tòa nhà Sannam, đường Duy Tân, phường Dịch Vọng Hậu, Q. Cầu Giấy, TP. Hà Nội
+
+BẢNG CÂN ĐỐI KẾ TOÁN RIÊNG
+
+Ngày 31 tháng 12 năm 2018
+
+Đơn vị: VND
+
+<table><tr><td>TÀI SẢN NGÁN HẠN</td><td>Mã số</td><td>TM</td><td>31/12/2018</td><td>01/01/2018</td></tr><tr><td>TÀI SẢN NGÁN HẠN</td><td>100</td><td></td><td>4.029.945.370.445</td><td>3.181.160.957.652</td></tr><tr><td>Tiền và các khoản tương đương tiền</td><td>110</td><td>5.1</td><td>300.087.599.256</td><td>91.603.523.920</td></tr><tr><td>Tiền</td><td>111</td><td></td><td>50.087.599.256</td><td>41.603.523.920</td></tr><tr><td>Các khoản tương đương tiền</td><td>112</td><td></td><td>250.000.000.000</td><td>50.000.000.000</td></tr><tr><td>Đầu tư tài chính ngắn hạn</td><td>120</td><td>5.2</td><td>-</td><td>-</td></tr><tr><td>Các khoản phải thu ngắn hạn</td><td>130</td><td></td><td>3.601.742.566.643</td><td>2.997.169.594.629</td></tr><tr><td>Phải thu ngắn hạn của khách hàng</td><td>131</td><td>5.4</td><td>2.401.781.062.858</td><td>1.645.417.574.120</td></tr><tr><td>Trả trước cho người bán ngắn hạn</td><td>132</td><td></td><td>2.547.869.820</td><td>84.368.938.471</td></tr><tr><td>Phải thu nội bộ ngắn hạn</td><td>133</td><td></td><td>-</td><td>4.885.428.343</td></tr><tr><td>Phải thu về cho vay ngắn hạn</td><td>135</td><td>5.3</td><td>650.001.015.403</td><td>833.805.219.988</td></tr><tr><td>Phải thu ngắn hạn khác</td><td>136</td><td>5.5</td><td>547.468.349.562</td><td>433.753.763.707</td></tr><tr><td>Dự phòng phải thu ngắn hạn khó đòi (*)</td><td>137</td><td>5.6</td><td>(55.731.000)</td><td>(5.061.330.000)</td></tr><tr><td>Hàng tồn kho</td><td>140</td><td>5.7</td><td>74.949.208.031</td><td>45.737.674.824</td></tr><tr><td>Hàng tồn kho</td><td>141</td><td></td><td>74.949.208.031</td><td>45.737.674.824</td></tr><tr><td>Dự phòng giảm giá hàng tồn kho (*)</td><td>149</td><td></td><td>-</td><td>-</td></tr><tr><td>Tài sản ngắn hạn khác</td><td>150</td><td></td><td>53.165.996.515</td><td>46.650.164.279</td></tr><tr><td>Chi phí trả trước ngắn hạn</td><td>151</td><td>5.11</td><td>935.326.403</td><td>703.483.770</td></tr><tr><td>Thuế GTGT được khấu trừ</td><td>152</td><td></td><td>52.230.670.112</td><td>44.986.739.677</td></tr><tr><td>Thuế và các khoản phải thu Nhà nước</td><td>153</td><td>5.14</td><td>-</td><td>959.940.832</td></tr><tr><td>TÀI SẢN DÀI HẠN</td><td>200</td><td></td><td>16.102.275.681.926</td><td>17.627.529.111.366</td></tr><tr><td>Các khoản phải thu dài hạn</td><td>210</td><td></td><td>1.729.650.492.060</td><td>1.631.899.722.298</td></tr><tr><td>Phải thu về cho vay dài hạn</td><td>215</td><td>5.3</td><td>1.728.684.939.682</td><td>1.630.934.169.920</td></tr><tr><td>Phải thu dài hạn khác</td><td>216</td><td></td><td>965.552.378</td><td>965.552.378</td></tr><tr><td>Dự phòng phải thu dài hạn khó đòi (*)</td><td>219</td><td>5.6</td><td>-</td><td>-</td></tr><tr><td>Tài sản cố định</td><td>220</td><td></td><td>11.674.065.699.414</td><td>12.946.449.912.111</td></tr><tr><td>TSCĐ hữu hình</td><td>221</td><td>5.9</td><td>11.635.867.097.237</td><td>12.921.526.033.782</td></tr><tr><td>- Nguyên giá</td><td>222</td><td></td><td>21.934.363.289.622</td><td>21.871.308.864.329</td></tr><tr><td>- Giá trị hao mòn luỷ kế (*)</td><td>223</td><td></td><td>(10.298.496.192.385)</td><td>(8.949.782.830.547)</td></tr><tr><td>TSCĐ vô hình</td><td>227</td><td>5.10</td><td>38.198.602.177</td><td>24.923.878.329</td></tr><tr><td>- Nguyên giá</td><td>228</td><td></td><td>44.953.363.240</td><td>29.372.729.730</td></tr><tr><td>- Giá trị hao mòn luỷ kế (*)</td><td>229</td><td></td><td>(6.754.761.063)</td><td>(4.448.851.401)</td></tr><tr><td>Tài sản dở dang dài hạn</td><td>240</td><td></td><td>67.532.275.452</td><td>81.813.493.312</td></tr><tr><td>Chi phí sản xuất, kinh doanh dở dang dài hạn</td><td>241</td><td></td><td>-</td><td>1.055.479.022</td></tr><tr><td>Chi phí xây dựng cơ bản dở dang</td><td>242</td><td>5.8</td><td>67.532.275.452</td><td>80.758.014.290</td></tr><tr><td>Đầu tư tài chính dài hạn</td><td>250</td><td>5.2</td><td>2.147.490.644.767</td><td>2.303.444.577.790</td></tr><tr><td>Đầu tư vào công ty con</td><td>251</td><td></td><td>1.883.306.772.926</td><td>1.883.306.772.926</td></tr><tr><td>Đầu tư góp vốn vào đơn vị khác</td><td>253</td><td></td><td>1.224.938.734.159</td><td>1.096.124.960.279</td></tr><tr><td>Dự phòng giảm giá đầu tư tài chính dài hạn (*)</td><td>254</td><td></td><td>(960.754.862.318)</td><td>(675.987.155.415)</td></tr><tr><td>Tài sản dài hạn khác</td><td>260</td><td></td><td>483.536.570.233</td><td>663.921.405.855</td></tr><tr><td>Chi phí trả trước dài hạn</td><td>261</td><td>5.11</td><td>342.796.803.244</td><td>515.468.728.162</td></tr><tr><td>Thiết bị, vật tư, phụ tùng thay thế dài hạn</td><td>263</td><td></td><td>140.739.766.989</td><td>148.452.677.693</td></tr><tr><td>Lợi thế thương mại</td><td>269</td><td></td><td>-</td><td>-</td></tr><tr><td>TỔNG CỘNG TÀI SẢN</td><td>270</td><td></td><td>20.132.221.052.371</td><td>20.808.690.069.018</td></tr></table>
+
+Báo cáo tài chính riêng này phải được đọc chung với các thuyết minh kèm theo
+
+8
+
+===== PAGE 10 =====
+TẬP ĐOÀN CÔNG NGHIỆP THAN - KHOÁNG SẢN VIỆT NAM
+
+CÔNG TY MỆ - TỔNG CÔNG TY ĐIỆN LỰC TKV - CTCP
+
+Địa chỉ: Tòa nhà Sannam, đường Duy Tân, phường Dịch Vọng Hậu, Q. Cầu Giấy, TP. Hà Nội
+
+BÀNG CÂN ĐỐI KẾ TOÁN RIÊNG (Tiếp theo)
+
+Ngày 31 tháng 12 năm 2018
+
+Đơn vị: VND
+
+<table><tr><td>NGUỒN VỐN</td><td>Mã số</td><td>TM</td><td>31/12/2018</td><td>01/01/2018</td></tr><tr><td>NỘ PHẢI TRẢ</td><td>300</td><td></td><td>12.732.358.084.527</td><td>13.691.008.184.871</td></tr><tr><td>Nợ ngắn hạn</td><td>310</td><td></td><td>3.780.854.736.296</td><td>3.481.177.811.961</td></tr><tr><td>Phải trả người bán ngắn hạn</td><td>311</td><td>5.13</td><td>884.581.369.352</td><td>791.703.587.215</td></tr><tr><td>Người mua trả tiền trước ngắn hạn</td><td>312</td><td></td><td>-</td><td>41.464.435</td></tr><tr><td>Thuế và các khoản phải nộp Nhà nước</td><td>313</td><td>5.14</td><td>99.603.919.067</td><td>35.941.354.237</td></tr><tr><td>Phải trả người lao động</td><td>314</td><td></td><td>66.252.076.659</td><td>59.353.145.683</td></tr><tr><td>Chi phí phải trả ngắn hạn</td><td>315</td><td>5.15</td><td>595.340.577.080</td><td>459.262.533.556</td></tr><tr><td>Phải trả nội bộ ngắn hạn</td><td>316</td><td></td><td>-</td><td>4.885.428.343</td></tr><tr><td>Phải trả ngắn hạn khác</td><td>319</td><td>5.16</td><td>176.043.936.503</td><td>17.041.112.991</td></tr><tr><td>Vay và nợ thuê tài chính ngắn hạn</td><td>320</td><td>5.12</td><td>1.932.889.334.586</td><td>2.087.671.905.826</td></tr><tr><td>Quỹ khen thưởng và phúc lợi</td><td>322</td><td></td><td>26.143.523.049</td><td>25.277.279.675</td></tr><tr><td>Nợ dài hạn</td><td>330</td><td></td><td>8.951.503.348.231</td><td>10.209.830.372.910</td></tr><tr><td>Phải trả người bán dài hạn</td><td>331</td><td>5.13</td><td>399.805.189.215</td><td>625.431.237.752</td></tr><tr><td>Phải trả nội bộ dài hạn</td><td>335</td><td></td><td>-</td><td>-</td></tr><tr><td>Vay và nợ thuê tài chính dài hạn</td><td>338</td><td>5.12</td><td>8.551.698.159.016</td><td>9.584.399.135.158</td></tr><tr><td>VỐN CHỦ SỞ HỮU</td><td>400</td><td></td><td>7.399.862.967.844</td><td>7.117.681.884.147</td></tr><tr><td>Vốn chủ sở hữu</td><td>410</td><td>5.17</td><td>7.399.862.967.844</td><td>7.117.681.884.147</td></tr><tr><td>Vốn góp của chủ sở hữu</td><td>411</td><td></td><td>6.800.000.000.000</td><td>6.800.000.000.000</td></tr><tr><td>- Cổ phiếu phổ thông có quyền biểu quyết</td><td>411a</td><td></td><td>6.800.000.000.000</td><td>6.800.000.000.000</td></tr><tr><td>Thặng dư vốn cổ phần</td><td>412</td><td></td><td>-</td><td>-</td></tr><tr><td>Vốn khác của chủ sở hữu</td><td>414</td><td></td><td>-</td><td>-</td></tr><tr><td>Chênh lệch đánh giá lại tài sản</td><td>416</td><td></td><td>-</td><td>-</td></tr><tr><td>Quỹ đầu tư phát triển</td><td>418</td><td></td><td>3.269.425.647</td><td>-</td></tr><tr><td>Lợi nhuận sau thuế chưa phân phối</td><td>421</td><td></td><td>596.593.542.197</td><td>317.681.884.147</td></tr><tr><td>- LNST chưa phân phối lũy kế đến cuối kỳ trước</td><td>421a</td><td></td><td>94.987.627.670</td><td>(354.030.919.308)</td></tr><tr><td>- LNST chưa phân phối kỳ này</td><td>421b</td><td></td><td>501.605.914.527</td><td>671.712.803.455</td></tr><tr><td>Nguồn kinh phí và quỹ khác</td><td>430</td><td></td><td>-</td><td>-</td></tr></table>
+
+TỔNG CỘNG NGUÒN VỐN
+
+440
+
+20.132.221.052.371
+
+20.808.690.069.018
+
+NGƯỜI LẬP BIỂU
+
+Lưu Thị Thu Hà
+
+KẾ TOÁN TRƯỜNG
+
+Nguyễn Thị Hà
+
+Hà Nội, ngày 26 tháng 03 năm 2019
+
+TỔNG GIÁM ĐỐC
+
+Ngô Trí Thịnh
+
+Báo cáo tài chính riêng này phải được đọc chung với các thuyết minh kèm theo
+
+9
+
+===== PAGE 11 =====
+TẬP ĐOÀN CÔNG NGHIỆP THAN - KHOÁNG SẢN VIỆT NAM
+
+CÔNG TY MỆ - TỔNG CÔNG TY ĐIỆN LỰC TKV - CTCP
+
+Địa chỉ: Tòa nhà Sannam, đường Duy Tân, phường Dịch Vọng Hậu, Q. Cầu Giấy, TP. Hà Nội
+
+BÁO CÁO KẾT QUẢ HOẠT ĐỘNG KINH DOANH RIÊNG
+
+Năm tài chính kết thúc vào ngày 31 tháng 12 năm 2018
+
+Đơn vị: VND
+
+<table><tr><td></td><td>CHỈ TIỀU</td><td>Mã số</td><td>TM</td><td>Năm 2018</td><td>Năm 2017</td></tr><tr><td colspan="2">Doanh thu bán hàng và cung cấp dịch vụ</td><td>01</td><td>6.1</td><td>8.028.360.506.827</td><td>7.269.482.060.418</td></tr><tr><td colspan="2">Các khoản giảm trừ doanh thu</td><td>02</td><td></td><td>-</td><td>-</td></tr><tr><td colspan="2">Doanh thu thuần từ bán hàng và cung cấp dịch vụ</td><td>10</td><td></td><td>8.028.360.506.827</td><td>7.269.482.060.418</td></tr><tr><td colspan="2">Giá vốn hàng bán</td><td>11</td><td>6.2</td><td>6.308.909.736.655</td><td>5.978.531.598.420</td></tr><tr><td colspan="2">Lợi nhuận gộp về bán hàng và cung cấp dịch vụ</td><td>20</td><td></td><td>1.719.450.770.172</td><td>1.290.950.461.998</td></tr><tr><td colspan="2">Doanh thu hoạt động tài chính</td><td>21</td><td>6.3</td><td>25.610.145.009</td><td>59.193.351.216</td></tr><tr><td colspan="2">Chi phí tài chính</td><td>22</td><td>6.4</td><td>1.039.687.148.146</td><td>515.161.035.961</td></tr><tr><td colspan="2">- Trong đó: Chi phí lãi vay</td><td>23</td><td></td><td>357.134.811.466</td><td>365.893.027.814</td></tr><tr><td colspan="2">Chi phí bán hàng</td><td>25</td><td>6.7</td><td>-</td><td>-</td></tr><tr><td colspan="2">Chi phí quản lý doanh nghiệp</td><td>26</td><td>6.7</td><td>167.104.286.406</td><td>155.582.401.503</td></tr><tr><td colspan="2">Lợi nhuận thuần từ hoạt động kinh doanh</td><td>30</td><td></td><td>538.269.480.629</td><td>679.400.375.750</td></tr><tr><td colspan="2">Thu nhập khác</td><td>31</td><td>6.5</td><td>12.544.757.541</td><td>6.338.203.382</td></tr><tr><td colspan="2">Chi phí khác</td><td>32</td><td>6.6</td><td>4.149.563.900</td><td>25.775.677</td></tr><tr><td colspan="2">Lợi nhuận khác (40=31-32)</td><td>40</td><td></td><td>8.395.193.641</td><td>6.312.427.705</td></tr><tr><td colspan="2">Tổng lợi nhuận kế toán trước thuế (50=30+40)</td><td>50</td><td></td><td>546.664.674.270</td><td>685.712.803.455</td></tr><tr><td colspan="2">Chi phí thuế TNDN hiện hành</td><td>51</td><td>6.9</td><td>45.058.759.743</td><td>-</td></tr><tr><td colspan="2">Chi phí thuế TNDN hoãn lại</td><td>52</td><td></td><td>-</td><td>-</td></tr><tr><td colspan="2">Lợi nhuận sau thuế TNDN (60=50-51-52)</td><td>60</td><td></td><td>501.605.914.527</td><td>685.712.803.455</td></tr></table>
+
+NGƯỜI LẬP BIỀU
+
+Lưu Thị Thu Hà
+
+KẾ TOÁN TRƯỜNG
+
+Nguyễn Thị Hà
+
+Hà Nội, ngày 26 tháng 03 năm 2019
+
+Báo cáo tài chính riêng này phải được đọc chung với các thuyết minh kèm theo
+
+10
+
+CÔI ACH NH P VIÊT
+
+===== PAGE 12 =====
+TẬP ĐOÀN CÔNG NGHIỆP THAN - KHOÁNG SẢN VIỆT NAM
+
+CÔNG TY MỆ - TỔNG CÔNG TY ĐIỆN LỰC TKV - CTCP
+
+Địa chỉ: Tòa nhà Sannam, đường Duy Tân, phường Dịch Vọng Hậu, Q. Cầu Giấy, TP. Hà Nội
+
+BÁO CÁO LƯU CHUYÊN TIÊN TỆ RIÊNG (theo phương pháp gián tiếp)
+
+Năm tài chính kết thúc vào ngày 31 tháng 12 năm 2018
+
+Đơn vị: VND
+
+<table><tr><td></td><td>CHỈ TIỀU</td><td>Mã số TM</td><td>Năm 2018</td><td>Năm 2017</td></tr><tr><td colspan="5">LƯU CHUYÊN TIỀN TỪ HOẠT ĐỘNG SXKD</td></tr><tr><td>Lợi nhuận trước thuế</td><td>01</td><td></td><td>546.664.674.270</td><td>685.712.803.455</td></tr><tr><td>Điều chỉnh cho các khoản</td><td></td><td></td><td></td><td></td></tr><tr><td>Khấu hao TSCĐ và BĐSĐT</td><td>02</td><td></td><td>1.351.430.218.149</td><td>1.389.068.873.090</td></tr><tr><td>Các khoản dự phòng</td><td>03</td><td></td><td>279.762.107.903</td><td>(10.526.259.995)</td></tr><tr><td>Lãi, lỗ chênh lệch tỷ giá hối đoái do đánh giá lại các khoản mục tiền tệ có gốc ngoại tệ</td><td>04</td><td></td><td>190.156.481.939</td><td>(18.381.952.836)</td></tr><tr><td>Lãi lỗ từ hoạt động đầu tư</td><td>05</td><td></td><td>(25.514.466.112)</td><td>(31.855.803.544)</td></tr><tr><td>Chi phí lãi vay</td><td>06</td><td></td><td>357.134.811.466</td><td>365.893.027.814</td></tr><tr><td>Lợi nhuận kinh doanh trước những thay đổi vốn lưu động</td><td>08</td><td></td><td>2.699.633.827.615</td><td>2.379.910.687.984</td></tr><tr><td>Tăng, Giảm các khoản phải thu</td><td>09</td><td></td><td>266.353.419.945</td><td>(546.050.914.150)</td></tr><tr><td>Tăng, Giảm hàng tồn kho</td><td>10</td><td></td><td>(21.498.622.503)</td><td>10.259.340.930</td></tr><tr><td>Tăng, Giảm các khoản phải trả (Không kể lãi vay phải trả và thuế TNDN phải nộp)</td><td>11</td><td></td><td>(876.199.820.680)</td><td>82.817.679.790</td></tr><tr><td>Tăng, Giảm chi phí trả trước</td><td>12</td><td></td><td>168.853.722.835</td><td>132.740.550.858</td></tr><tr><td>Tiền lãi vay đã trả</td><td>14</td><td></td><td>(343.155.295.167)</td><td>(368.320.425.531)</td></tr><tr><td>Thuế thu nhập doanh nghiệp đã nộp</td><td>15</td><td></td><td>(5.760.391.668)</td><td>-</td></tr><tr><td>Tiền thu khác từ hoạt động kinh doanh</td><td>16</td><td></td><td>11.037.193.901</td><td>14.112.792.348</td></tr><tr><td>Tiền chi khác cho hoạt động kinh doanh</td><td>17</td><td></td><td>(24.881.131.224)</td><td>(6.622.783.624)</td></tr><tr><td>Lưu chuyển tiền thuần từ hoạt động kinh doanh</td><td>20</td><td></td><td>1.874.382.903.054</td><td>1.698.846.928.605</td></tr><tr><td colspan="5">LƯU CHUYÊN TIỀN TỪ HOẠT ĐỘNG ĐẦU TƯ</td></tr><tr><td>Tiền chi mua sắm, xây dựng TSCĐ và TS DH khác</td><td>21</td><td></td><td>(69.477.640.230)</td><td>(101.527.622.271)</td></tr><tr><td>Tiền chi cho vay, mua công cụ nợ của đơn vị khác</td><td>23</td><td></td><td>(725.000.000.000)</td><td>-</td></tr><tr><td>Tiền thu hồi cho vay, bán công cụ nợ của đơn vị khác</td><td>24</td><td></td><td>829.053.932.873</td><td>20.697.262.539</td></tr><tr><td>Tiền chi đầu tư góp vốn vào đơn vị khác</td><td>25</td><td></td><td>(128.813.773.880)</td><td>(111.033.234.000)</td></tr><tr><td>Tiền thu lãi cho vay, cổ tức và lợi nhuận được chia</td><td>27</td><td></td><td>25.514.466.112</td><td>47.790.758.036</td></tr><tr><td>Lưu chuyển tiền thuần từ hoạt động đầu tư</td><td>30</td><td></td><td>(68.723.015.125)</td><td>(144.072.835.696)</td></tr><tr><td colspan="5">LƯU CHUYÊN TIỀN TỪ HOẠT ĐỘNG TẢI CHÍNH</td></tr><tr><td>Tiền thu từ đi vay</td><td>33</td><td>7.1</td><td>741.780.860.000</td><td>874.340.907.848</td></tr><tr><td>Tiền trả nợ gốc vay</td><td>34</td><td>7.2</td><td>(2.135.073.180.593)</td><td>(2.666.122.362.717)</td></tr><tr><td>Cổ tức, lợi nhuận đã trả cho chủ sở hữu</td><td>36</td><td></td><td>(203.883.492.000)</td><td>-</td></tr><tr><td>Lưu chuyển tiền thuần từ hoạt động tài chính</td><td>40</td><td></td><td>(1.597.175.812.593)</td><td>(1.791.781.454.869)</td></tr><tr><td>LƯU CHUYÊN TIỀN THUẢN TRONG NĂM</td><td>50</td><td></td><td>208.484.075.336</td><td>(237.007.361.960)</td></tr><tr><td>Tiền và tương đương tiền đầu năm</td><td>60</td><td></td><td>91.603.523.920</td><td>328.610.885.880</td></tr><tr><td>Ảnh hưởng của thay đổi tỷ giá hối đoái quy đổi ngoại tệ</td><td>61</td><td></td><td>-</td><td>-</td></tr><tr><td>Tiền và tương đương tiền cuối năm</td><td>70</td><td></td><td>300.087.599.256</td><td>91.603.523.920</td></tr></table>
+
+NGƯỜI LẬP BIỂU
+
+Lưu Thị Thu Hà
+
+KÉ TOÁN TRƯỜNG
+
+Nguyễn Thị Hà
+
+Hà Nội, ngày 26 tháng 03 năm 2019
+
+TỔNG GIÁM ĐỐC
+
+Báo cáo tài chính riêng này phải được đọc chung với các thuyết minh kèm theo
+
+11
+
+1121 1031
+
+===== PAGE 13 =====
+TẬP ĐOÀN CÔNG NGHIỆP THAN - KHOÁNG SẢN VIỆT NAM
+
+CÔNG TY MỆ - TỔNG CÔNG TY ĐIỆN LỰC TKV - CTCP
+
+Địa chỉ: Tòa nhà Sannam, đường Duy Tân, phường Dịch Vọng Hậu, Q. Cầu Giấy, TP. Hà Nội
+
+BẢN THUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG
+
+Năm tài chính kết thúc vào ngày 31/12/2018
+
+1 ĐẶC ĐIỂM HOẠT ĐỘNG CỦA DOANH NGHIỆP
+
+Hình thức sở hữu vốn
+
+Tổng Công ty Điện lực TKV - CTCP được cổ phần hóa từ Tổng Công ty Điện lực - Vinacomin (TNHH MTV) theo Quyết định số 85/QĐ-Ttg ngày 19/01/2015 của Thủ tướng Chính phủ về việc phê duyệt Phương án cổ phần hóa Công ty mẹ - Tổng Công ty Điện lực - Vinacomin thuộc Tập đoàn Công nghiệp Than - Khoáng sản Việt Nam.
+
+Tổng Công ty Điện lực TKV - CTCP hoạt động theo Giấy chứng nhận đăng ký doanh nghiệp công ty cổ phần đăng ký thay đổi lần 5 ngày 16/07/2018 với mã số doanh nghiệp là 0104297034, theo đó vốn điều lệ của Tổng công ty là 6.800.000.000.000 VND được chia thành 680.000.000 cổ phần (mệnh giá cổ phần là 10.000 đồng), danh sách cổ đông tại ngày 31/12/2018 bao gồm:
+
+<table><tr><td rowspan="2">Nhà đầu tư</td><td colspan="2">Theo điều lệ</td><td rowspan="2">Vốn góp thực tế tại 31/12/2018</td><td rowspan="2">Tỷ lệ góp vốn (%)</td></tr><tr><td>Số cổ phần</td><td>Tiền (VND)</td></tr><tr><td>Tập đoàn CN Than - Khoáng sản Việt Nam</td><td>677.808.500</td><td>6.778.085.000.000</td><td>6.778.085.000.000</td><td>99,68%</td></tr><tr><td>Các cổ đông khác</td><td>2.191.500</td><td>21.915.000.000</td><td>21.915.000.000</td><td>0,32%</td></tr><tr><td>Cộng</td><td>680.000.000</td><td>6.800.000.000.000</td><td>6.800.000.000.000</td><td>100%</td></tr></table>
+
+Ngành nghề kinh doanh và hoạt động chính
+
+Hoạt động chính của Công ty mẹ là Đầu tư xây dựng, khai thác, vận hành các nhà máy nhiệt điện, các nhà máy thủy điện; Sản xuất điện; Mua bán điện; Quản lý các dự án đầu tư xây dựng công trình điện.
+
+Chu kỳ sản xuất, kinh doanh thông thường
+
+Chu kỳ sản xuất, kinh doanh thông thường của Tổng Công ty được thực hiện trong thời gian không quá 12 tháng.
+
+Cấu trúc doanh nghiệp
+
+Văn phòng Tổng Công ty đóng tại tòa nhà Sannam, đường Duy Tân, phường Dịch Vọng Hậu, quận Cầu Giấy, thành phố Hà Nội.
+
+Trong năm tài chính kết thúc vào ngày 31/12/2018, Công ty mẹ bao gồm các chi nhánh phụ thuộc sau:
+
+1. Công ty Nhiệt điện Cao Ngạn - TKV, địa chỉ tại ngõ 719, đường Dương Tự Minh, phường Quan Triều, thành phố Thái Nguyên, tỉnh Thái Nguyên;
+
+2. Công ty Nhiệt điện Na Dương - TKV, địa chỉ tại khu 4, thị trấn Na Dương, huyện Lộc Bình, tỉnh Lạng Sơn;
+
+3. Công ty Nhiệt điện Sơn Đông - TKV, địa chỉ tại thôn Đồng Rì, thị trấn Thanh Sơn, huyện Sơn Đông, tỉnh Bắc Giang;
+
+Bản thuyết minh Báo cáo tài chính riêng là một bộ phận không tách rời của Báo cáo tài chính riêng
+
+12
+
+HAN
+
+===== PAGE 14 =====
+TẬP ĐOÀN CÔNG NGHIỆP THAN - KHOÁNG SẢN VIỆT NAM
+
+CÔNG TY MỆ - TỔNG CÔNG TY ĐIỆN LỰC TKV - CTCP
+
+Địa chỉ: Tòa nhà Sannam, đường Duy Tân, phường Dịch Vọng Hậu, Q. Cầu Giấy, TP. Hà Nội
+
+BẢN THUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG (Tiếp theo)
+
+Năm tài chính kết thúc vào ngày 31/12/2018
+
+4. Ban Quản lý Dự án Nhà máy Nhiệt điện Mạo Khê - Vinacomin, địa chỉ tại xã Bình Khê, thị xã Đông Triều, tỉnh Quảng Ninh;
+
+5. Ban Quản lý Dự án Nhà máy Thủy điện Đồng Nai 5 - Vinacomin, địa chỉ tại thị trấn Lộc Thắng, huyện Bảo Lâm, tỉnh Lâm Đồng;
+
+6. Công ty Nhiệt điện Đông Triều - TKV, địa chỉ tại xã Bình Khê, thị xã Đông Triều, tỉnh Quảng Ninh;
+
+7. Công ty Thủy điện Đồng Nai 5 - TKV, địa chỉ tại số 10 đường Hoàng Văn Thụ, phường 1, thành phố Bảo Lộc, tỉnh Lâm Đồng.
+
+2 CO' SÔ LẬP BÁO CÁO TÀI CHÍNH
+
+Chuẩn mực và chế độ kế toán áp dụng
+
+Báo cáo tài chính riêng được lập phù hợp với các chuẩn mục kế toán Việt Nam, Chế độ kế toán doanh nghiệp được ban hành theo Thông tư số 200/2014/TT-BTC ngày 22/12/2014 của Bộ tài chính và Thông tư số 53/2016/TT-BTC ngày 21/3/2016 của Bộ Tài chính sửa đổi, bổ sung một số điều của Thông tư số 200/2014/TT-BTC ngày 22/12/2014 Hướng dẫn chế độ kế toán doanh nghiệp.
+
+3 NĂM TÀI CHÍNH, ĐƠN VỊ TIỀN TỆ SÙ DỤNG TRONG KẾ TOÁN
+
+Năm tài chính của Công ty mẹ bắt đầu từ ngày 01/01 và kết thúc vào ngày 31/12 năm dương lịch.
+
+Đơn vị tiền tệ sử dụng trong kế toán là đồng Việt Nam (VND).
+
+4 TÓM TẮT CÁC CHÍNH SÁCH KẾ TOÁN QUAN TRỌNG
+
+Các chính sách kế toán đã được áp dụng trong việc trình bày Báo cáo tài chính riêng này là nhất quán với các chính sách kế toán đã được áp dụng để trình bày Báo cáo tài chính riêng cho năm tài chính kết thúc vào ngày 31/12/2017 của Tổng công ty.
+
+4.1 U'óc tính kê toán
+
+Việc lập và trình bày Báo cáo tài chính riêng cho năm tài chính kết thúc vào ngày 31/12/2018 của Công ty mẹ tuân thủ theo các chuẩn mục kế toán Việt Nam, chế độ kế toán doanh nghiệp Việt Nam hiện hành, yêu cầu Ban Tổng Giám đốc phải có những ước tính và giả định ảnh hưởng đến số liệu báo cáo về công nợ, tài sản và việc trình bày các khoản công nợ và tài sản tiềm tàng tại ngày kết thúc năm tài chính cũng như các số liệu báo cáo về doanh thu và chi phí trong suốt năm tài chính. Kết quả hoạt động kinh doanh thực tế có thể khác với các ước tính, giả định đặt ra.
+
+4.2 Tiền và các khoản tương đương tiền
+
+Tiền bao gồm tiền mặt tại quỹ, các khoản tiền gửi ngân hàng (không kỳ hạn).
+
+Bản thuyết minh Báo cáo tài chính riêng là một bộ phận không tách rời của Báo cáo tài chính riêng
+
+13
+
+H
+
+Q.S.W ★ Q.THA
+
+===== PAGE 15 =====
+TẬP ĐOÀN CÔNG NGHIỆP THAN - KHOÁNG SẢN VIỆT NAM CÔNG TY MỆ - TỔNG CÔNG TY ĐIỆN LỰC TKV - CTCP
+
+Địa chỉ: Tòa nhà Sannam, đường Duy Tân, phường Dịch Vọng Hậu, Q. Cầu Giấy, TP. Hà Nội
+
+BẢN THUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG (Tiếp theo)
+
+Năm tài chính kết thúc vào ngày 31/12/2018
+
+Các khoản tương đương tiền là các khoản đầu tư ngắn hạn có thời hạn thu hồi hoặc đáo hạn không quá 3 tháng có khả năng chuyển đổi thành một lượng tiền xác định và không có rủi ro trong chuyển đổi thành tiền kể từ ngày mua khoản đầu tư đó tại thời điểm báo cáo.
+
+4.3 Các giao dịch ngoại tệ
+
+Các nghiệp vụ phát sinh bằng đồng tiền khác ngoài đồng Việt Nam (VND) được chuyển đổi thành đồng Việt Nam theo tỷ giá thực tế tại thời điểm phát sinh nghiệp vụ. Các khoản chênh lệch tỷ giá đã thực hiện phát sinh trong năm tài chính được ghi nhận vào chi phí hoặc doanh thu hoạt động tài chính trong năm.
+
+Số dư các khoản mục tiền tệ có gốc ngoại tệ được phân loại thành tài sản và nợ phải trả, vào ngày kết thúc năm tài chính được quy đổi sang đồng Việt Nam lần lượt theo tỷ giá mua vào và bán ra của các ngân hàng thương mại có tài khoản giao dịch tại ngày kết thúc năm tài chính. Tỷ giá áp dụng đánh giá lại các khoản mục tiền tệ có gốc ngoại tệ cuối năm áp dụng thống nhất trong Tập đoàn Công nghiệp Than - Khoáng sản Việt Nam được thực hiện theo Công văn số 31/TKV-KTTC ngày 04/01/2019 của Tập đoàn, cụ thể như sau:
+
+- Các khoản tiền gửi, tiền tồn quỹ và các khoản phải thu ngoài TKV có gốc ngoại tệ quy đổi theo tỷ giá mua vào ngày 31/12/2018 của Ngân hàng là 23.155 VND/USD.
+
+- Các khoản công nợ phải trả, tiền vay ngoài TKV có gốc ngoại tệ quy đổi theo tỷ giá bán ra ngày 31/12/2018 của Ngân hàng là 23.245 VND/USD.
+
+- Các khoản công nợ phải thu, phải trả trong TKV có gốc ngoại tệ quy đổi theo tỷ giá bán ra ngày 31/12/2018 của Ngân hàng là 23.245 VND/USD.
+
+- Các loại ngoại tệ khác (nếu có) được căn cứ vào thông báo của Ngân hàng hoặc quy đổi qua đồng đô la Mỹ theo nguyên tắc như hướng dẫn nếu trên.
+
+Khoản chênh lệch tỷ giá do đánh giá lại các khoản mục tiền tệ có gốc ngoại tệ tại thời điểm chính thức chuyển thành công ty cổ phần của Công ty mẹ - Tổng Công ty Điện lực - TKV được phân bổ không quá 5 năm (bắt đầu từ thời điểm 15/01/2016) theo hướng dẫn tại Công văn số 558/BTC-TCDN ngày 13/01/2017 của Bộ Tài chính. Trong năm tài chính kết thúc vào ngày 31/12/2018, Công ty mẹ đã thực hiện phân bổ với mức bằng 1,3 lần mức phân bổ số lỗ chênh lệch tỷ giá năm tài chính kết thúc vào ngày 31/12/2017.
+
+Khoản chênh lệch tỷ giá phát sinh do đánh giá lại các số dư của các khoản mục tiền tệ có gốc ngoại tệ khác tại ngày kết thúc năm tài chính được ghi nhận vào chi phí hoặc doanh thu hoạt động tài chính trong năm tài chính theo Chuẩn mực kế toán Việt Nam số 10 “Ảnh hưởng của việc thay đổi tỷ giá hối đoái”.
+
+4.4 Nợ phải thu
+
+Các khoản phải thu trình bày trong Báo cáo tài chính riêng theo giá trị ghi sổ phải thu từ khách hàng của Công ty mẹ và các khoản phải thu khác cộng với dự phòng nợ phải thu khó đòi. Tại thời điểm báo cáo, nếu:
+
+- Khoản phải thu có thời gian thu hồi hoặc thanh toán từ 01 năm trở xuống (hoặc trong một chu kỳ sản xuất kinh doanh) được phân loại là Tài sản ngắn hạn;
+
+Bản thuyết minh Báo cáo tài chính riêng là một bộ phận không tách rời của Báo cáo tài chính riêng
+
+14
+
+\( \left\| \frac{1}{2} \right\|_{0.5}^{c} \) RACH \( \left\| \frac{1}{2} \right\|_{H^{2}}^{V} \)
+
+===== PAGE 16 =====
+TẬP ĐOÀN CÔNG NGHIỆP THAN - KHOÁNG SẢN VIỆT NAM CÔNG TY MỆ - TỔNG CÔNG TY ĐIỆN LỰC TKV - CTCP
+
+Địa chỉ: Tòa nhà Sannam, đường Duy Tân, phường Dịch Vọng Hậu, Q. Cầu Giấy, TP. Hà Nội
+
+BẢN THUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG (Tiếp theo)
+
+Năm tài chính kết thúc vào ngày 31/12/2018
+
+- Khoản phải thu có thời gian thu hồi hoặc thanh toán trên 01 năm (hoặc nhiều hơn một chu kỳ sản xuất kinh doanh) được phân loại là Tài sản dài hạn.
+
+Dự phòng nợ phải thu khó đòi thể hiện phần giá trị dự kiến bị tổn thất do các khoản phải thu không được khách hàng thanh toán phát sinh đối với số dự các khoản phải thu vào ngày kết thúc năm tài chính.
+
+Dự phòng nợ phải thu khó đòi được trích lập cho những khoản phải thu đã quá hạn thanh toán từ sáu tháng trở lên hoặc các khoản phải thu mà khách nợ khó có khả năng thanh toán do bị thanh lý, phá sản hay các khó khăn tương tự.
+
+4.5 Hàng tồn kho
+
+Hàng tồn kho được thể hiện là giá thấp hơn giữa giá gốc và giá trị thuần có thể thực hiện được của hàng tồn kho.
+
+Giá gốc hàng tồn kho bao gồm chi phí mua, chế biến và các chi phí liên quan trực tiếp khác phát sinh để có được hàng tồn kho ở địa điểm và trạng thái sẵn sàng sử dụng.
+
+Giá trị thuần có thể thực hiện được của hàng tồn kho là giá bán ước tính của hàng tồn kho trong kỳ sản xuất, kinh doanh bình thường trừ chi phí ước tính để hoàn thành sản phẩm và chi phí ước tính cần thiết cho việc tiêu thụ chúng.
+
+Công ty mẹ áp dụng phương pháp kê khai thường xuyên để hạch toán hàng tồn kho với giá trị được xác định theo như sau:
+
+- Nguyên vật liệu, công cụ dụng cụ, vật tư và hàng hoá được xác định theo các phương pháp nhập trước xuất trước và bình quân gia quyền.
+
+Dự phòng giảm giá hàng tồn kho được trích lập cho các vật tư, hàng hóa tồn kho có giá gốc lớn hơn giá trị thuần có thể thực hiện được theo quy định tại Chuẩn mực kế toán Việt Nam số 02 "Hàng tồn kho" và Thông tư số 228/2009/TT - BTC ngày 07/12/2009 của Bộ Tài chính về việc hướng dẫn chế độ trích lập và sử dụng các khoản dự phòng giảm giá hàng tồn kho, tổn thất các khoản đầu tư tài chính, nợ phải thu khó đòi và bảo hành sản phẩm, hàng hóa, công trình xây lắp tại doanh nghiệp.
+
+4.6 Tài sản cố định và khấu hao tài sản cố định
+
+4.6.1 Tài sản cố định hữu hình
+
+Đối với những tài sản cố định hữu hình đưa vào sử dụng trước ngày 01/4/2014
+
+Nguyên giá và giá trị còn lại của các tài sản đưa vào sử dụng trước ngày 01/4/2014 được ghi nhận theo giá trị đánh giá lại theo Quyết định số 1930/QĐ-HĐTV ngày 29/8/2014 của Tập đoàn Công nghiệp Than - Khoáng sản Việt Nam.
+
+Đối với những tài sản cố định hữu hình đưa vào sử dụng sau ngày 01/4/2014
+
+Tài sản cố định hữu hình được phần ánh theo nguyên giá và giá trị hao mòn luỹ kế.
+
+Bản thuyết minh Báo cáo tài chính riêng là một bộ phận không tách rời của Báo cáo tài chính riêng
+
+15
+
+A40| ONG NHIEN PK ET N |AN
+
+===== PAGE 17 =====
+TẬP ĐOÀN CÔNG NGHIỆP THAN - KHOÁNG SẢN VIỆT NAM CÔNG TY MỆ - TỔNG CÔNG TY ĐIỆN LỰC TKV - CTCP
+
+Địa chỉ: Tòa nhà Sannam, đường Duy Tân, phường Dịch Vọng Hậu, Q. Cầu Giấy, TP. Hà Nội
+
+BẢN THUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG (Tiếp theo)
+
+Năm tài chính kết thúc vào ngày 31/12/2018
+
+Nguyên giá tài sản cố định hữu hình tăng sau ngày 01/4/2014 bao gồm giá mua và những chi phí có liên quan trực tiếp đến việc đưa tài sản vào trạng thái sẵn sàng sử dụng. Nguyên giá tài sản cố định hữu hình do tự làm, tự xây dựng bao gồm chi phí xây dựng, chi phí sẵn xuất thực tế phát sinh cộng chi phí lắp đặt và chạy thử. Các chi phí nâng cấp tài sản cố định hữu hình được vốn hóa, ghi tăng nguyên giá tài sản cố định; các chi phí bảo trì, sửa chữa được tính vào kết quả hoạt động kinh doanh trong năm. Khi tài sản cố định hữu hình được bán hay thanh lý, nguyên giá và giá trị hao mòn lũy kế được xóa sổ và bất kỳ các khoản lãi lỗ nào phát sinh do thanh lý tài sản cố định hữu hình đều được hạch toán vào kết quả hoạt động kinh doanh.
+
+Khấu hao tài sản cố định hữu hình được tính theo phương pháp đường thẳng, áp dụng cho tất cả các tài sản theo tỷ lệ được tính toán để phân bổ nguyên giá trong suốt thời gian ước tính sử dụng và phù hợp với hướng dẫn tại Thông tư 45/2013/TT-BTC ngày 25/04/2013 của Bộ Tài chính về việc hướng dẫn Chế độ quản lý, sử dụng và trích khấu hao tài sản cố định.
+
+Thời gian trích khấu hao tài sản cố định hữu hình của Công ty mẹ như sau:
+
+<table><tr><td>-</td><td>Nhà cửa, vật kiến trúc</td><td>5 - 50 năm</td></tr><tr><td>-</td><td>Máy móc, thiết bị</td><td>3 - 20 năm</td></tr><tr><td>-</td><td>Phương tiện vận tải, truyền dẫn</td><td>3 - 12 năm</td></tr><tr><td>-</td><td>Thiết bị dụng cụ, quản lý</td><td>3 - 6 năm</td></tr><tr><td>-</td><td>Tài sản cố định hữu hình khác</td><td>10 năm</td></tr></table>
+
+4.6.2 Tài sản cố định vô hình
+
+Đối với những tài sản cố định vô hình đưa vào sử dụng trước ngày 01/4/2014
+
+Nguyên giá và giá trị còn lại của các tài sản cố định vô hình đưa vào sử dụng trước ngày 01/4/2014 được ghi nhận theo giá trị đánh giá lại theo Quyết định phê duyệt số 1930/QĐ-HĐTV ngày 29/8/2014 của Tập đoàn Công nghiệp Than - Khoáng sản Việt Nam.
+
+Đối với những tài sản cố định vô hình đưa vào sử dụng sau ngày 01/4/2014
+
+Nguyên giá tài sản cố định vô hình tăng sau ngày 01/4/2014 bao gồm giá mua và các chi phí trực tiếp liên quan đến việc chuẩn bị để đưa tài sản vào trạng thái sẵn sàng sử dụng. Các chi phí nâng cấp tài sản được vốn hóa vào nguyên giá tài sản cố định; các chi phí khác được tính vào kết quả hoạt động kinh doanh trong năm. Khi tài sản cố định vô hình được bán hay thanh lý, nguyên giá và giá trị hao mòn lũy kế được xóa số và bắt kỳ khoản lãi lỗ nào phát sinh do thanh lý tài sản cố định vô hình đều được hạch toán vào kết quả hoạt động kinh doanh.
+
+Khấu hao tài sản cố định vô hình được tính theo phương pháp đường thẳng, áp dụng cho tất cả các tài sản theo tỷ lệ được tính toán để phân bổ nguyên giá trong suốt thời gian ước tính sử dụng và phù hợp với hướng dẫn tại Thông tư 45/2013/TT-BTC ngày 25/04/2013 của Bộ Tài chính về việc hướng dẫn Chế độ quản lý, sử dụng và trích khấu hao tài sản cố định.
+
+Thời gian trích khấu hao của tài sản cố định vô hình của Công ty mẹ như sau:
+
+<table><tr><td>-</td><td>Phần mềm máy tính</td><td>3 - 6 năm</td></tr><tr><td>-</td><td>Quyền sử dụng đất</td><td>8 - 50 năm</td></tr></table>
+
+Bản thuyết minh Báo cáo tài chính riêng là một bộ phận không tách rời của Báo cáo tài chính riêng
+
+16
+
+11.4 | 4M 30000000000000000000000000000000000000000000
+
+===== PAGE 18 =====
+TẬP ĐOÀN CÔNG NGHIỆP THAN - KHOÁNG SẢN VIỆT NAM
+
+CÔNG TY ME - TỔNG CÔNG TY ĐIỆN LỰC TKV - CTCP
+
+Địa chỉ: Tòa nhà Sannam, đường Duy Tân, phường Dịch Vọng Hậu, Q. Cầu Giấy, TP. Hà Nội
+
+BẢN THUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG (Tiếp theo)
+
+Năm tài chính kết thúc vào ngày 31/12/2018
+
+Tài săn cố định vô hình khác
+
+6 năm
+
+4.7 Các khoản đầu tư tài chính
+
+Các khoản đầu tư tài chính được kế toán theo phương pháp giá gốc. Theo đó, các khoản đầu tư chỉ được ghi nhận ban đầu theo giá gốc, sau đó không được điều chỉnh theo những thay đổi của phần sở hữu của Công ty mẹ trong tài sản thuần của bên nhận đầu tư. Công ty mẹ chỉ hạch toán vào thu nhập trên báo cáo kết quả hoạt động kinh doanh riêng khoản được chia từ lợi nhuận thuần luỹ kế của bên nhận đầu tư phát sinh sau ngày đầu tư. Các khoản khác mà Công ty mẹ nhận được ngoài lợi nhuận được chia được coi là phần thu hồi các khoản đầu tư và được ghi nhận là khoản giảm trừ giá gốc khoản đầu tư.
+
+Các khoản đầu tư tài chính tại thời điểm báo cáo, nếu:
+
+(i) Có thời hạn thu hồi hoặc đáo hạn không quá 90 ngày kể từ ngày mua khoản đầu tư đó được coi là “tương đương tiền”;
+
+(ii) Có thời hạn thu hồi vốn dưới 1 (một) năm hoặc trong 1 (một) chu kỳ kinh doanh được phân loại là tài sản ngắn hạn;
+
+(iii) Có thời hạn thu hồi vốn trên 1 (một) năm hoặc trên 1 (một) chu kỳ kinh doanh được phân loại là tài sản dài hạn (các khoản đầu tư tài chính dài hạn).
+
+Các khoản đầu tư tài chính dài hạn:
+
++ Công ty con là công ty mà Công ty mẹ có quyền chi phối các chính sách và hoạt động nhằm thu được lợi ích kinh tế từ hoạt động kinh doanh.
+
++ Các khoản đầu tư dài hạn khác bao gồm các khoản đầu tư cổ phiếu, góp vốn vào các đơn vị khác với tỷ lệ nhỏ hơn 20% vốn điều lệ của công ty nhận đầu tư, các khoản cho vay và đầu tư dài hạn khác. Các khoản đầu tư này được phần ánh theo giá gốc.
+
+Dự phòng giảm giá đầu tư được lập vào thời điểm cuối năm tài chính là số chênh lệch giữa giá gốc của các khoản đầu tư được hạch toán trên số kế toán lớn hơn giá trị thị trường của chúng tại thời điểm lập dự phòng. Việc trích lập và hoàn nhập các khoản dự phòng giảm giá đầu tư được thực hiện theo Thông tư 228/2009/TT-BTC ban hành ngày 07/12/2009 và Thông tư 89/2013/TT-BTC ban hành ngày 28/06/2013 của Bộ Tài chính sửa đổi bổ sung Thông tư 228/2009/TT-BTC ban hành ngày 07/12/2009.
+
+4.8 Chi phí đi vay và vốn hoá các khoản chi phí đi vay
+
+Chi phí đi vay bao gồm các khoản lãi tiền vay, các khoản chi phí khác phát sinh liên quan tới quá trình làm thủ tục vay được ghi nhận vào chi phí hoạt động tài chính trong năm trừ trường hợp các khoản chi phí đi vay đó được tính vào (vốn hóa) giá trị tài sản do có liên quan trực tiếp đến việc đầu tư xây dựng, mua sắm tài sản hoặc sản xuất các tài sản dở dang khi có đủ điều kiện vốn hóa theo quy định tại chuẩn mục chi phí đi vay.
+
+Việc vốn hoá chi phí đi vay sẽ được tạm ngừng lại trong các giai đoạn mà quá trình đầu tư xây dựng hoặc sản xuất tài sản đồ dang bị gián đoạn, trừ khi sự gián đoạn đó là cần thiết
+
+Bàn thuyết minh Báo cáo tài chính riêng là một bộ phận không tách rời của Báo cáo tài chính riêng
+
+17
+
+TA NÔI H'N'1
+
+===== PAGE 19 =====
+TẬP ĐOÀN CÔNG NGHIỆP THAN - KHOÁNG SẢN VIỆT NAM CÔNG TY MỆ - TỔNG CÔNG TY ĐIỆN LỰC TKV - CTCP
+
+Địa chỉ: Tòa nhà Sannam, đường Duy Tân, phường Dịch Vọng Hậu, Q. Cầu Giấy, TP. Hà Nội
+
+BẢN THUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG (Tiếp theo)
+
+Năm tài chính kết thúc vào ngày 31/12/2018
+
+và sẽ chấm dứt khi các hoạt động chủ yếu cần thiết cho việc chuẩn bị đưa tài sản dở dang vào sử dụng hoặc bán ra đã hoàn thành. Chi phí đi vay phát sinh sau đó sẽ được ghi nhận là chỉ phí hoạt động kinh doanh trong năm tài chính.
+
+4.9 Chi phí xây dựng cơ bản dở dang
+
+Chi phí xây dựng cơ bản dở dang bao gồm các khoản chi phí đầu tư hình thành tài sản cố định (chi phí mua sắm tài sản cố định, đầu tư xây dựng cơ bản) và chi phí sửa chữa tài sản cố định còn chưa hoàn thành tại ngày kết thúc năm tài chính. Chi phí xây dựng cơ bản được ghi nhận theo giá gốc. Tài sản sau khi kết thúc quá trình đầu tư sẽ được trích khấu hao giống như các tài sản cố định khác, bắt đầu từ khi tài sản được đưa vào sử dụng.
+
+Theo quy định về quản lý đầu tư xây dựng của Nhà nước, các công trình xây dựng cơ bản hoàn thành và mua sắm máy móc, thiết bị hoàn thành cần được các cơ quan có thẩm quyền về quản lý đầu tư phê duyệt. Do đó, giá trị cuối cùng về các công trình xây dựng cơ bản và mua sắm máy móc thiết bị này sẽ phụ thuộc vào phê duyệt của cơ quan có thẩm quyền.
+
+4.10 Chi phí trả trước
+
+Chi phí trả trước bao gồm công cụ dụng cụ, lỗ chênh lệch tỷ giá phân bổ không quá 5 năm, chi phí sửa chữa lớn tài sản cố định và các chi phí trả trước khác. Chi phí trả trước sẽ được phân bổ đàn vào chi phí sản xuất kinh doanh trong thời gian hợp lý kể từ khi phát sinh.
+
+4.11 Nợ phải trả
+
+Các khoản phải trả trình bày trong Báo cáo tài chính riêng theo giá trị ghi sổ phải trả từ nhà cung cấp của Công ty mẹ và các khoản phải trả khác và được chi tiết cho từng đối tượng phải trả. Tại thời điểm báo cáo, nếu:
+
+- Khoản phải trả có thời hạn thanh toán từ 1 năm trở xuống (hoặc trong một chu kỳ sản xuất kinh doanh) được phân loại là ngắn hạn;
+
+- Khoản phải trả có thời hạn thanh toán trên 1 năm (hoặc nhiều hơn một chu kỳ sản xuất kinh doanh) được phân loại là dài hạn;
+
+4.12 Chi phí phải trả
+
+Chi phí phải trả bao gồm giá trị các khoản chi phí đã được tính vào chi phí hoạt động kinh doanh trong năm, nhưng chưa được thực chi tại thời điểm kết thúc năm tài chính để đảm bảo khi chi phí phát sinh thực tế không gây đột biến cho chi phí hoạt động kinh doanh trên cơ sở đảm bảo nguyên tắc phù hợp giữa doanh thu và chi phí. Khi các chi phí đó phát sinh, nếu có chênh lệch với số đã trích, kế toán tiến hành ghi bổ sung hoặc ghi giảm chi phí phần chênh lệch tương ứng.
+
+4.13 Vốn chủ sở hữu
+
+Vốn góp ban đầu của Công ty mẹ được ghi nhận theo giá trị vốn góp của các bên góp vốn khi được chuyển đổi thành Công ty cổ phần. Trong quá trình hoạt động, vốn đầu tư của Tổng công ty được ghi nhận tăng lên theo giá trị vốn góp tăng lên của các cổ đông.
+
+Bản thuyết minh Báo cáo tài chính riêng là một bộ phận không tách rời của Báo cáo tài chính riêng
+
+18
+
+===== PAGE 20 =====
+TẬP ĐOÀN CÔNG NGHIỆP THAN - KHOÁNG SẢN VIỆT NAM CÔNG TY MỆ - TỔNG CÔNG TY ĐIỆN LỰC TKV - CTCP
+
+Địa chỉ: Tòa nhà Sannam, đường Duy Tân, phường Dịch Vọng Hậu, Q. Cầu Giấy, TP. Hà Nội
+
+BẢN THUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG (Tiếp theo)
+
+Năm tài chính kết thúc vào ngày 31/12/2018
+
+Theo Giấy chứng nhận đăng ký doanh nghiệp Công ty Cổ phần số 0104297034 do Sở Kế hoạch và Đầu tư thành phố Hà Nội cấp thay đổi lần thứ 5 ngày 16/07/2018, vốn điều lệ của Tổng công ty (Công ty mẹ) là 6.800.000.000.000 đồng và được chia thành 680.000.000 cổ phần. Các cổ đông đã góp vốn cổ phần vào Tổng công ty tại ngày kết thúc năm tài chính như sau:
+
+<table><tr><td rowspan="2">Nhà đầu tư</td><td colspan="2">Theo điều lệ</td><td rowspan="2">Vốn góp thực tế tại 31/12/2018</td><td rowspan="2">Tỷ lệ góp vốn (%)</td></tr><tr><td>Số cổ phần</td><td>Tiền (VND)</td></tr><tr><td>Tập đoàn Công nghiệp Than - Khoáng sản Việt Nam</td><td>677.808.500</td><td>6.778.085.000.000</td><td>6.778.085.000.000</td><td>100%</td></tr><tr><td>Các cổ đông khác</td><td>2.191.500</td><td>21.915.000.000</td><td>21.915.000.000</td><td>100%</td></tr><tr><td>Cộng</td><td>680.000.000</td><td>6.800.000.000.000</td><td>6.800.000.000.000</td><td>100%</td></tr></table>
+
+Lợi nhuận sau thuế thu nhập doanh nghiệp có thể chia cho các bên góp vốn sau khi được thông qua bởi Nghị quyết cuộc hợp Đại hội đồng cổ đông. Cổ tức được chia từ lợi nhuận chưa phân phối dựa trên tỷ lệ góp vốn của từng cổ đông.
+
+4.14 Doanh thu
+
+Doanh thu được ghi nhận khi kết quả giao dịch được xác định một cách đáng tin cây và Công ty mẹ có khả năng thu được lợi ích kinh tế từ giao dịch này.
+
+(i) Doanh thu bán hàng được ghi nhận khi phần lớn rủi ro và lợi ích gắn liền với quyền sở hữu hàng hóa đã được chuyển giao cho người mua và hàng hóa đã được giao cho người mua và được chấp nhận của khách hàng.
+
+(ii) Doanh thu xây dựng được ghi nhận tương ứng với phần công việc đã hoàn thành được khách hàng xác nhận trong năm, khi Công ty mẹ đảm bảo thu được lợi ích từ hợp đồng xây dựng và chi phí để hoàn thành phần công việc đã hoàn thành tại thời điểm lập Báo cáo tài chính được tính toán một cách tin cây.
+
+(iii) Doanh thu cung cấp dịch vụ được ghi nhận khi phần lớn rủi ro và lợi ích đã được chuyển giao cho khách hàng, dịch vụ đã được cung cấp và được khách hàng chấp nhận.
+
+(iv) Doanh thu hoạt động tài chính bao gồm doanh thu phát sinh từ lãi tiền gửi, lãi tiền cho vay, lãi chênh lệch tỷ giá, và các khoản doanh thu hoạt động tài chính khác. Lãi tiền gửi, lãi tiền vay được xác định trên cơ sở dồn tích, được xác định trên số dư các khoản tiền gửi và lãi suất áp dụng.
+
+(v) Lãi từ các khoản đầu tư được ghi nhận khi Công ty mẹ có quyền nhận khoản lãi.
+
+4.15 Chi phí hoạt động tài chính
+
+Chi phí tài chính của Công ty mẹ bao gồm các khoản chi phí lãi tiền vay không được vốn hoá theo quy định và các chi phí khác phát sinh trong năm tài chính. Trong đó chi phí lãi tiền vay là lãi vay phải trả trong năm của các khoản vay ngắn hạn và dài hạn của Công ty mẹ.
+
+Bản thuyết minh Báo cáo tài chính riêng là một bộ phận không tách rời của Báo cáo tài chính riêng
+
+19
+
+3134406
+CÔNG
+CH NHIÊM
+PK
+VIÊT N
+(XUÂN)
+
+===== PAGE 21 =====
+TẬP ĐOÀN CÔNG NGHIỆP THAN - KHOÁNG SẢN VIỆT NAM CÔNG TY MỆ - TỔNG CÔNG TY ĐIỆN LỰC TKV - CTCP
+
+Địa chỉ: Tòa nhà Sannam, đường Duy Tân, phường Dịch Vọng Hậu, Q. Cầu Giấy, TP. Hà Nội
+
+BẢN THUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG (Tiếp theo)
+
+Năm tài chính kết thúc vào ngày 31/12/2018
+
+4.16 Thuế
+
+Thuế Giá trị gia tăng: các sản phẩm của Công ty mẹ chịu thuế suất 10%
+
+Thuế Thu nhập Doanh nghiệp: thể hiện tổng giá trị của số thuế thu nhập hiện hành và số thuế thu nhập hoãn lại.
+
+Thuế thu nhập hiện hành là khoản thuế được tính dựa trên thu nhập chịu thuế trong năm với thuế suất áp dụng trong năm tài chính. Thu nhập chịu thuế chênh lệch so với lợi nhuận kế toán là do điều chỉnh các khoản chênh lệch tạm thời giữa kế toán thuế và kế toán tài chính cũng như điều chỉnh các khoản thu nhập hay chỉ phí không phải chịu thuế hay không được khấu trừ.
+
+Thuế thu nhập hoãn lại là khoản thuế thu nhập doanh nghiệp sẽ phải nộp hoặc sẽ được hoàn lại do chênh lệch tạm thời giữa giá trị ghi sổ của tài sản và nợ phải trả cho mục đích Báo cáo tài chính và các giá trị dùng cho mục đích tính thuế. Thuế thu nhập hoãn lại phải trả được ghi nhận cho tất cả các khoản chênh lệch tạm thời chịu thuế. Tài sản thuế thu nhập hoãn lại chỉ được ghi nhận khi chắc chắn trong tương lai sẽ có lợi nhuận tính thuế để sử dụng những chênh lệch tạm thời được khấu trừ này.
+
+Các loại thuế khác: theo quy định hiện hành của Việt Nam.
+
+Bản thuyết minh Báo cáo tài chính riêng là một bộ phận không tách rời của Báo cáo tài chính riêng
+
+20
+
+40-C.T.I.
+TY HOU HAN
+AM
+
+===== PAGE 22 =====
+TẬP ĐOÀN CÔNG NGHIỆP THAN - KHOÁNG SẢN VIỆT NAM
+
+CÔNG TY MỆ - TỔNG CÔNG TY ĐIỆN LỰC TKV - CTCP
+
+Địa chỉ: Tòa nhà Sannam, đường Duy Tân, phường Dịch Vọng Hậu, Q. Cầu Giấy, TP. Hà Nội
+
+BẢN THUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG (Tiếp theo)
+
+Năm tài chính kết thúc vào ngày 31/12/2018
+
+5 THÔNG TIN BỔ SUNG CHO CÁC KHOÀN MỤC TRÌNH BÀY TRONG BẢNG CÂN ĐỐI KẾ TOÁN RIÊNG
+
+5.1 Tiền và các khoản tương đương tiền
+
+<table><tr><td></td><td></td><td>31/12/2018(VND)</td><td>01/01/2018(VND)</td></tr><tr><td>Tiền mặt tại quỹ</td><td>(i)</td><td>803.293.451</td><td>99.163.144</td></tr><tr><td>Tiền gửi ngân hàng</td><td>(ii)</td><td>49.284.305.805</td><td>41.504.360.776</td></tr><tr><td>Các khoản tương đương tiền</td><td>(iii)</td><td>250.000.000.000</td><td>50.000.000.000</td></tr><tr><td>Cộng</td><td></td><td>300.087.599.256</td><td>91.603.523.920</td></tr></table>
+
+(i) Số dư tiền mặt tại quỹ vào ngày 31/12/2018 bao gồm:
+
+<table><tr><td></td><td>Nguyên tệ</td><td>VND</td></tr><tr><td>Ngoại tệ</td><td></td><td>-</td></tr><tr><td>Đồng Việt Nam</td><td></td><td>803.293.451</td></tr><tr><td>Cộng</td><td></td><td>803.293.451</td></tr></table>
+
+(ii) Số dư tiền gửi ngân hàng tại ngày 31/12/2018 bao gồm:
+
+<table><tr><td></td><td>Nguyên tệ</td><td>VND</td></tr><tr><td>Ngoại tệ (USD)</td><td>0,04 #</td><td>912</td></tr><tr><td>Đồng Việt Nam</td><td></td><td>49.284.304.893</td></tr><tr><td>Cộng</td><td></td><td>49.284.305.805</td></tr></table>
+
+(ii) Số dư các khoản tương đương tiền tại ngày 31/12/2018 bao gồm:
+
+<table><tr><td></td><td>Nguyên tệ</td><td>VND</td></tr><tr><td>Ngoại tệ</td><td></td><td>-</td></tr><tr><td>Đồng Việt Nam</td><td></td><td>250.000.000.000</td></tr><tr><td>Cộng</td><td></td><td>250.000.000.000</td></tr></table>
+
+Bàn thuyết minh Báo cáo tài chính riêng là một bộ phận không tách rời của Báo cáo tài chính riêng
+
+21
+
+J.H.H ★ ION
+
+Q.S.W ★ Q.TH
+
+===== PAGE 23 =====
+TẬP ĐOÀN CÔNG NGHIỆP THAN - KHOÁNG SẢN VIỆT NAM CÔNG TY MỆ - TỔNG CÔNG TY ĐIỆN LỰC TKV - CTCP
+
+Địa chỉ: Tòa nhà Sannam, đường Duy Tân, phường Dịch Vọng Hậu, Q. Cầu Giấy, TP. Hà Nội
+
+<table><tr><td rowspan="2"></td><td colspan="3">31/12/2018(VND)</td><td colspan="3">01/01/2018(VND)</td></tr><tr><td>Giá gốc</td><td>Giá trị hợp lý</td><td>Dự phòng</td><td>Giá gốc</td><td>Giá trị hợp lý</td><td>Dự phòng</td></tr><tr><td>Ngắn hạn</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>Dải hạn</td><td>3.108.245.507.085</td><td>2.147.490.644.767</td><td>(960.754.862.318)</td><td>2.979.431.733.205</td><td>2.303.444.577.790</td><td>(675.987.155.415)</td></tr><tr><td>Đầu tư góp vốn vào đơn vị khác</td><td>3.108.245.507.085</td><td>2.147.490.644.767</td><td>(960.754.862.318)</td><td>2.979.431.733.205</td><td>2.303.444.577.790</td><td>(675.987.155.415)</td></tr><tr><td>Đầu tư vào Công ty con:</td><td>1.883.306.772.926</td><td>923.993.910.608</td><td>(959.312.862.318)</td><td>1.883.306.772.926</td><td>1.293.331.053.311</td><td>(589.975.719.615)</td></tr><tr><td>- Công ty Cổ phần Nhiệt điện Cẩm Phả - TKV</td><td>1.757.179.069.334</td><td>797.866.207.016</td><td>(959.312.862.318)</td><td>1.757.179.069.334</td><td>1.167.203.349.719</td><td>(589.975.719.615)</td></tr><tr><td>- Công ty Cổ phần Than - Điện Nông Sơn - TKV</td><td>126.127.703.592</td><td>126.127.703.592</td><td>-</td><td>126.127.703.592</td><td>126.127.703.592</td><td>-</td></tr><tr><td>Đầu tư vào đơn vi khác:</td><td>1.224.938.734.159</td><td>1.223.496.734.159</td><td>(1.442.000.000)</td><td>1.096.124.960.279</td><td>1.010.113.524.479</td><td>(86.011.435.800)</td></tr><tr><td>- Công ty TNHH Điện lực Vĩnh Tân</td><td>386.597.424.159</td><td>386.597.424.159</td><td>-</td><td>257.783.650.279</td><td>257.783.650.279</td><td>-</td></tr><tr><td>- Công ty Cổ phần Nhiệt điện Hải Phòng</td><td>360.500.000.000</td><td>359.058.000.000</td><td>(1.442.000.000)</td><td>360.500.000.000</td><td>360.500.000.000</td><td>-</td></tr><tr><td>- Công ty Cổ phần Nhiệt điện Quảng Ninh</td><td>477.841.310.000</td><td>477.841.310.000</td><td>-</td><td>477.841.310.000</td><td>391.829.874.200</td><td>(86.011.435.800)</td></tr><tr><td>Cộng</td><td>3.108.245.507.085</td><td>2.147.490.644.767</td><td>(960.754.862.318)</td><td>2.979.431.733.205</td><td>2.303.444.577.790</td><td>(675.987.155.415)</td></tr></table>
+
+Ban thuyet minh Bao cao tai chiin neng la mot bo phan khang tach roi cua Bao cao tai chih neng
+
+22
+
+===== PAGE 24 =====
+TỔNG TY MỆ - TỔNG CÔNG TY FED
+
+a chi: Tòa nhà Sappam
+
+'âr huì zh
+
+TẬP ĐOÀN CÔNG NGHIỆP THAN - KHOÁNG SẢN VIỆT NAM CÔNG TY MỆ - TỔNG CÔNG TY ĐIỆN LỰC TKV - CTCP
+
+Địa chỉ: Tòa nhà Sannam, đường Duy Tân, phường Dịch Vọng Hậu, Q. Cầu Giấy, TP. Hà Nội
+
+BÀN THUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG (Tiếp theo)
+Năm tài chính kết thúc vào ngày 31/12/2018
+
+Tóm tắt tình hình hoạt động của các công ty con, công ty liên doanh, liên kết tại ngày 31/12/2018
+
+<table><tr><td>Tên công ty</td><td>Nơi thành lập và hoạt động</td><td>Tỷ lệ lợi ích</td><td>Tỷ lệ biểu quyết</td><td>Hoạt động kinh doanh chính</td></tr><tr><td colspan="5">Đầu tư vào công ty con:</td></tr><tr><td>Công ty CP Nhiệt điện Cẩm Phả - TKV</td><td>Quảng Ninh</td><td>89,21%</td><td>89,21%</td><td>Sản xuất, truyền tải và phân phối điện</td></tr><tr><td>Công ty CP Than - Điện Nông Sơn - TKV</td><td>Quảng Nam</td><td>88,77%</td><td>88,77%</td><td>Sản xuất than và sản xuất điện</td></tr><tr><td colspan="5">Đầu tư vào Công ty khác:</td></tr><tr><td>Công ty TNHH Điện lực Vĩnh Tân</td><td>Bình Thuận</td><td>5%</td><td>5%</td><td>Sản xuất, truyền tải và phân phối điện</td></tr><tr><td>Công ty CP Nhiệt điện Hải Phòng</td><td>Hải Phòng</td><td>7,21%</td><td>7,21%</td><td>Sản xuất, truyền tải và phân phối điện</td></tr><tr><td>Công ty CP Nhiệt điện Quảng Ninh</td><td>Quảng Ninh</td><td>10,62%</td><td>10,62%</td><td>Sản xuất, truyền tải và phân phối điện</td></tr></table>
+
+ĂN THUYẾT MINH BÁO CÁO TÀ
+àm tài chính kết thúc vào ngày 31/
+
+} Phải thu về cho vay
+
+<table><tr><td>gắn hạn</td></tr><tr><td>hòng ty CP Nhiệt điện Cẩm Phả - Tk</td></tr><tr><td>Gốc vay</td></tr><tr><td>Cho vay dài hạn đến hạn trả</td></tr><tr><td>hòng ty CP Than - Điện Nông Sơn</td></tr><tr><td>V</td></tr><tr><td>Gốc vay</td></tr><tr><td>Cho vay dài hạn đến hạn trả</td></tr><tr><td>hạn</td></tr><tr><td>hòng ty CP Nhiệt điện Cẩm Phả - TKV</td></tr><tr><td>hòng ty CP Than - Điện Nông Sơn</td></tr><tr><td>g</td></tr></table>
+
+yết minh Báo cáo tài chính riêng là một bộ
+
+23
+
+Bản thuyết minh Báo cáo tài chính riêng là một bộ phận không tách rời của Báo cáo tài chính riêng
+
+\( \left\| \frac{1}{2} \right. \)
+
+===== PAGE 25 =====
+TẬP ĐOÀN CÔNG NGHIỆP THAN - KHOÁNG SẢN VIỆT NAM
+
+CÔNG TY MỆ - TỔNG CÔNG TY ĐIỆN LỰC TKV - CTCP
+
+Địa chỉ: Tòa nhà Sannam, đường Duy Tân, phường Dịch Vọng Hậu, Q. Cầu Giấy, TP. Hà Nội
+
+BẢN THUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG (Tiếp theo)
+
+Năm tài chính kết thúc vào ngày 31/12/2018
+
+5.4 Phải thu khách hàng
+
+<table><tr><td colspan="2"></td><td>31/12/2018(VND)</td><td>01/01/2018(VND)</td></tr><tr><td rowspan="3">a.</td><td>Ngắn hạn</td><td>2.401.781.062.858</td><td>1.645.417.574.120</td></tr><tr><td>Công ty Mua bán điện</td><td>2.387.634.193.904</td><td>1.636.650.992.335</td></tr><tr><td>Các khách hàng khác</td><td>14.146.868.954</td><td>8.766.581.785</td></tr><tr><td rowspan="2">b.</td><td>Dài hạn</td><td>-</td><td>-</td></tr><tr><td>Cộng</td><td>2.401.781.062.858</td><td>1.645.417.574.120</td></tr></table>
+
+5.5 Phải thu khác
+
+<table><tr><td rowspan="2" colspan="2"></td><td colspan="2">31/12/2018(VND)</td><td colspan="2">01/01/2018(VND)</td></tr><tr><td>Giá trị</td><td>Dự phòng</td><td>Giá trị</td><td>Dự phòng</td></tr><tr><td rowspan="3">a.</td><td>Ngắn hạn</td><td>547.468.349.562</td><td>(55.731.000)</td><td>433.753.763.707</td><td>(55.731.000)</td></tr><tr><td>Phải thu về lãi cho vay</td><td>526.418.340.343</td><td>-</td><td>411.449.178.795</td><td>-</td></tr><tr><td>Phải thu khác (i)</td><td>21.050.009.219</td><td>(55.731.000)</td><td>22.304.584.912</td><td>(55.731.000)</td></tr><tr><td rowspan="3">b.</td><td>Dài hạn</td><td>965.552.378</td><td>-</td><td>965.552.378</td><td>-</td></tr><tr><td>Ký cược, ký quỹ</td><td>965.552.378</td><td>-</td><td>965.552.378</td><td>-</td></tr><tr><td>Cộng</td><td>548.433.901.940</td><td>(55.731.000)</td><td>434.719.316.085</td><td>(55.731.000)</td></tr></table>
+
+<table><tr><td>(i) Phải thu khác</td><td>31/12/2018(VND)</td></tr><tr><td>Phải thu tiền vật tư nhà thầu SFECO</td><td>4.655.338.132</td></tr><tr><td>Phải thu người lao động</td><td>812.299.208</td></tr><tr><td>Tạm ứng</td><td>241.293.216</td></tr><tr><td>Các khoản khác</td><td>15.341.078.663</td></tr><tr><td>Cộng</td><td>21.050.009.219</td></tr></table>
+
+Bản thuyết minh Báo cáo tài chính riêng là một bộ phận không tách rời của Báo cáo tài chính riêng
+
+25
+
+NVAH. O ★ M.S.D.N.F TR
+
+===== PAGE 26 =====
+TẬP ĐOÀN CÔNG NGHIỆP THAN - KHOÁNG SẢN VIỆT NAM
+
+CÔNG TY MỆ - TỔNG CÔNG TY ĐIỆN LỰC TKV - CTCP
+
+Địa chỉ: Tòa nhà Sannam, đường Duy Tân, phường Dịch Vọng Hậu, Q. Cầu Giấy, TP. Hà Nội
+
+BẢN THUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG (Tiếp theo)
+Năm tài chính kết thúc vào ngày 31/12/2018
+
+5.6 Nợ xấu
+
+<table><tr><td rowspan="2"></td><td colspan="2">31/12/2018(VND)</td><td colspan="2">01/01/2018(VND)</td></tr><tr><td>Giá gốc</td><td>Giá trị có thể thu hồi</td><td>Giá gốc</td><td>Giá trị có thể thu hồi</td></tr><tr><td>Tổng giá trị các khoản phải thu, cho vay quá hạn thanh toán hoặc chưa quá hạn nhưng khó có khả năng thu hồi:</td><td>55.731.000</td><td>-</td><td>5.061.330.000</td><td>-</td></tr><tr><td>Từ 3 năm trở lên</td><td>55.731.000</td><td>-</td><td>5.061.330.000</td><td>-</td></tr><tr><td>Điện lực Thái Nguyên</td><td>13.621.000</td><td>-</td><td>13.621.000</td><td>-</td></tr><tr><td>Vụ Năng lượng - Bộ Công thương</td><td>42.110.000</td><td>-</td><td>42.110.000</td><td>-</td></tr><tr><td>Công ty CP Xây dựng số 18</td><td>-</td><td>-</td><td>5.005.599.000</td><td>-</td></tr></table>
+
+26
+
+Bản thuyết minh Báo cáo tài chính riêng là một bộ phận không tách rời của Báo cáo tài chính riêng
+
+===== PAGE 27 =====
+TẬP ĐOÀN CÔNG NGHIỆP THAN - KHOÁNG SẢN VIỆT NAM
+
+CÔNG TY MỆ - TỔNG CÔNG TY ĐIỆN LỰC TKV - CTCP
+
+Địa chỉ: Tòa nhà Sannam, đường Duy Tân, phường Dịch Vọng Hậu, Q. Cầu Giấy, TP. Hà Nội
+
+BẢN THUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG (Tiếp theo)
+
+Năm tài chính kết thúc vào ngày 31/12/2018
+
+5.8 Chi phí xây dựng cơ bản dở dang
+
+<table><tr><td></td><td>31/12/2018(VND)</td><td>01/01/2018(VND)</td></tr><tr><td>- Mua sám</td><td>-</td><td>-</td></tr><tr><td>- Xây dựng cơ bản</td><td>60.806.305.452</td><td>79.143.669.108</td></tr><tr><td>Dự án Nhà máy Nhiệt điện Đồng Nai 5</td><td>83.945.820</td><td>17.025.905.500</td></tr><tr><td>Dự án Nhà máy Nhiệt điện Na Dương 2</td><td>28.982.665.777</td><td>19.084.687.109</td></tr><tr><td>Dự án ĐTXD nhà máy sản xuất Vật liệu không nung và bãi tập kết nguyên liệu tại Đồng Giếng To</td><td>2.946.467.500</td><td>2.946.467.500</td></tr><tr><td>Xây dựng bãi thải xỉ NMND Na Dương</td><td>22.035.262.307</td><td>20.599.348.607</td></tr><tr><td>Đường công vụ từ Quốc lộ 18A đến NMND Đông Triều</td><td>-</td><td>11.510.692.498</td></tr><tr><td>Dự án khác</td><td>6.757.964.048</td><td>7.976.567.894</td></tr><tr><td>- Chi phí sửa chữa lớn TSCĐ</td><td>6.725.970.000</td><td>1.614.345.182</td></tr><tr><td>Cộng</td><td>67.532.275.452</td><td>80.758.014.290</td></tr></table>
+
+27
+
+Bản thuyết minh Báo cáo tài chính riêng là một bộ phận không tách rời của Báo cáo tài chính riêng
+
+===== PAGE 28 =====
+TẬP ĐOÀN CÔNG NGHIỆP THAN - KHOÁNG SẢN VIỆT NAM
+CÔNG TY MỆ - TỔNG CÔNG TY ĐIỆN LỰC TKV - CTCP
+Địa chỉ: Tòa nhà Sannam, đường Duy Tân, phường Dịch Vọng H
+
+BẢN THUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG (Tiếp theo)
+Năm tài chính kết thúc vào ngày 31/12/2018
+
+5.9 Tăng giảm tài sản cố định hữu hình
+
+<table><tr><td></td><td>Nhà cửa,vật kiến trúcVND</td><td>Máy móc, trangthiết bịVND</td><td>Phương tiệnvận tảiVND</td><td>Thiết bị, dụng cụquản lýVND</td><td>TSCĐ hữuhình khácVND</td><td>Tổng cộngVND</td></tr><tr><td colspan="7">NGUYÊN GIÁ</td></tr><tr><td>Số dư đầu năm</td><td>6.699.885.928.793</td><td>14.611.840.295.809</td><td>251.330.807.288</td><td>49.011.498.003</td><td>259.240.334.436</td><td>21.871.308.864.329</td></tr><tr><td>- Mua trong năm</td><td>-</td><td>7.293.252.764</td><td>-</td><td>1.151.952.706</td><td>-</td><td>8.445.205.470</td></tr><tr><td>- Đầu tư XDCB hoàn thành</td><td>48.581.735.345</td><td>16.623.476.858</td><td>-</td><td>359.090.909</td><td>-</td><td>65.564.303.112</td></tr><tr><td>- Tăng khác</td><td>-</td><td>-</td><td>-</td><td>2.097.300.000</td><td>-</td><td>2.097.300.000</td></tr><tr><td>- Thanh lý, nhượng bán</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>- Giảm khác</td><td>(1.477.335.607)</td><td>(3.795.711.027)</td><td>(2.097.300.000)</td><td>-</td><td>(5.682.036.655)</td><td>(13.052.383.289)</td></tr><tr><td>Số dư cuối năm</td><td>6.746.990.328.531</td><td>14.631.961.314.404</td><td>249.233.507.288</td><td>52.619.841.618</td><td>253.558.297.781</td><td>21.934.363.289.622</td></tr><tr><td colspan="7">GIÁ TRỊ HAO MÒN</td></tr><tr><td>Số dư đầu năm</td><td>1.499.800.124.534</td><td>7.058.219.728.026</td><td>179.547.718.405</td><td>46.956.777.819</td><td>165.258.481.763</td><td>8.949.782.830.547</td></tr><tr><td>- Khấu hao trong năm</td><td>358.113.452.297</td><td>933.454.593.527</td><td>23.512.510.168</td><td>2.075.509.086</td><td>31.968.243.409</td><td>1.349.124.308.487</td></tr><tr><td>- Hao mòn trong năm</td><td>664.415.232</td><td>-</td><td>-</td><td>-</td><td>-</td><td>664.415.232</td></tr><tr><td>- Thanh lý, nhượng bán</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>- Giảm khác</td><td>-</td><td>(1.075.361.881)</td><td>-</td><td>-</td><td>-</td><td>(1.075.361.881)</td></tr><tr><td>Số dư cuối năm</td><td>1.858.577.992.063</td><td>7.990.598.959.672</td><td>203.060.228.573</td><td>49.032.286.905</td><td>197.226.725.172</td><td>10.298.496.192.385</td></tr><tr><td colspan="7">GIÁ TRỊ CÒN LẠI</td></tr><tr><td>Tại ngày đầu năm</td><td>5.200.085.804.259</td><td>7.553.620.567.783</td><td>71.783.088.883</td><td>2.054.720.184</td><td>93.981.852.673</td><td>12.921.526.033.782</td></tr><tr><td>Tại ngày cuối năm</td><td>4.888.412.336.468</td><td>6.641.362.354.732</td><td>46.173.278.715</td><td>3.587.554.713</td><td>56.331.572.609</td><td>11.635.867.097.237</td></tr><tr><td colspan="6">Giá trị còn lại cuối năm của TSCĐ hữu hình dùng để thế chấp đảm bảo khoản vay:</td><td>54.864.201.206</td></tr><tr><td colspan="6">Nguyên giá TSCĐ cuối năm đã khấu hao hết nhưng vẫn còn sử dụng:</td><td>886.664.907.599</td></tr></table>
+
+28
+
+Bàn thuyết minh Báo cáo tài chính riêng là một bộ phận không tách rời của Báo cáo tài chính riêng
+
+===== PAGE 29 =====
+TẬP ĐOÀN CÔNG NGHIỆP THAN - KHOÁNG SẢN VIỆT NAM
+
+CÔNG TY MỆ - TỔNG CÔNG TY ĐIỆN LỰC TKV - CTCP
+
+Địa chỉ: Tòa nhà Sannam, đường Duy Tân, phường Dịch Vọng Hậu, Q. Cầu Giấy, TP. Hà Nội
+
+BẢN THUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG (Tiếp theo)
+
+Năm tài chính kết thúc vào ngày 31/12/2018
+
+5.10 Tăng giảm tài sản cố định vô hình
+
+<table><tr><td></td><td>Quyền sử dụng đất VND</td><td>Phần mềm máy vi tính VND</td><td>TSCĐVH Khác VND</td><td>Tổng cộng VND</td></tr><tr><td colspan="5">NGUYÊN GIÁ</td></tr><tr><td>Số dư đầu năm</td><td>26.652.807.787</td><td>2.492.195.579</td><td>227.726.364</td><td>29.372.729.730</td></tr><tr><td>- Mua trong năm</td><td>-</td><td>4.708.760.405</td><td>-</td><td>4.708.760.405</td></tr><tr><td>- Tăng khác</td><td>10.871.873.105</td><td>-</td><td>-</td><td>10.871.873.105</td></tr><tr><td>- Thanh lý, nhượng bán</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>- Giảm khác</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>Số dư cuối năm</td><td>37.524.680.892</td><td>7.200.955.984</td><td>227.726.364</td><td>44.953.363.240</td></tr><tr><td colspan="5">GIÁ TRỊ HAO MÒN</td></tr><tr><td>Số dư đầu năm</td><td>2.593.208.113</td><td>1.687.934.665</td><td>167.708.623</td><td>4.448.851.401</td></tr><tr><td>- Khấu hao trong năm</td><td>1.233.441.992</td><td>1.046.231.950</td><td>26.235.720</td><td>2.305.909.662</td></tr><tr><td>- Tăng khác</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>- Thanh lý, nhượng bán</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>- Giảm khác</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>Số dư cuối năm</td><td>3.826.650.105</td><td>2.734.166.615</td><td>193.944.343</td><td>6.754.761.063</td></tr><tr><td colspan="5">GIÁ TRỊ CÒN LẠI</td></tr><tr><td>Tại ngày đầu năm</td><td>24.059.599.674</td><td>804.260.914</td><td>60.017.741</td><td>24.923.878.329</td></tr><tr><td>Tại ngày cuối năm</td><td>33.698.030.787</td><td>4.466.789.369</td><td>33.782.021</td><td>38.198.602.177</td></tr></table>
+
+Giá trị còn lại cuối năm của TSCĐ vô hình dùng để thế chấp đảm bảo khoản vay: - Nguyên giá TSCĐ cuối năm đã khấu hao hết nhưng vẫn còn sử dụng: 1.674.016.579
+
+5.11 Chi phí trả trước
+
+<table><tr><td colspan="2"></td><td>31/12/2018(VND)</td><td>01/01/2018(VND)</td></tr><tr><td rowspan="4">a.</td><td>Ngắn hạn</td><td>935.326.403</td><td>703.483.770</td></tr><tr><td>Công cụ, dụng cụ xuất dùng</td><td>588.465.095</td><td>402.091.840</td></tr><tr><td>Chi phí bảo hiểm</td><td>271.994.294</td><td>235.626.230</td></tr><tr><td>Chi phí trả trước ngắn hạn khác</td><td>74.867.014</td><td>65.765.700</td></tr><tr><td rowspan="7">b.</td><td>Dài hạn</td><td>342.796.803.244</td><td>515.468.728.162</td></tr><tr><td>Công cụ dụng cụ phân bổ nhiều năm</td><td>6.047.919.048</td><td>6.909.351.191</td></tr><tr><td>Chi phí sữa chữa lớn chờ phân bổ</td><td>73.068.059.350</td><td>52.132.770.346</td></tr><tr><td>Chi phí giai đoạn triển khai không đủ tiêu chuẩn ghi nhận TSCĐ vô hình</td><td>28.092.521.711</td><td>32.765.746.484</td></tr><tr><td>Lỗ chênh lệch tỷ giá phân bổ không quá 5 năm</td><td>235.289.515.388</td><td>422.900.449.911</td></tr><tr><td>Chi phí trả trước dài hạn khác</td><td>298.787.747</td><td>760.410.230</td></tr><tr><td>Cộng</td><td>343.732.129.647</td><td>516.172.211.932</td></tr></table>
+
+Bản thuyết minh Báo cáo tài chính riêng là một bộ phận không tách rời của Báo cáo tài chính riêng
+
+29
+
+TR M.S.D.N.Q.THAN
+
+===== PAGE 30 =====
+TẬP ĐOÀN CÔNG NGHIỆP THAN - KHOÁNG SẢN VIỆT NAM
+
+CÔNG TY MỆ - TỔNG CÔNG TY ĐIỆN LỰC TKV - CTCP
+
+Địa chỉ: Tòa nhà Sannam, đường Duy Tân, phường Dịch Vọng Hậu, Q. Cầu Giấy, TP. Hà Nội
+
+BẢN THUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG (Tiếp theo)
+Năm tài chính kết thúc vào ngày 31/12/2018
+
+5.12 Vay và nợ thuê tài chính
+
+<table><tr><td rowspan="2" colspan="2"></td><td colspan="2">01/01/2018(VND)</td><td rowspan="2">Tăng trong năm</td><td rowspan="2">Giảm trong năm</td><td colspan="2">31/12/2018(VND)</td></tr><tr><td>Giá trị</td><td>Khả năngtrà nợ</td><td>Giá trị</td><td>Khả năngtrà nợ</td></tr><tr><td>a.</td><td>Gốc vay ngắn hạn</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>b.</td><td>Gốc vay và nợ dài hạn</td><td>11.672.071.040.984</td><td>11.672.071.040.984</td><td>1.020.042.963.901</td><td>2.207.526.511.283</td><td>10.484.587.493.602</td><td>10.484.587.493.602</td></tr><tr><td>b1.</td><td>Gốc vay dài hạn</td><td>11.672.071.040.984</td><td>11.672.071.040.984</td><td>620.042.963.901</td><td>2.207.526.511.283</td><td>10.084.587.493.602</td><td>10.084.587.493.602</td></tr><tr><td rowspan="2">-</td><td>Từ 1 năm đến 5 năm</td><td>10.617.927.640</td><td>10.617.927.640</td><td>12.180.860.000</td><td>8.137.535.140</td><td>14.661.252.500</td><td>14.661.252.500</td></tr><tr><td>Vay ngân hàng</td><td>10.617.927.640</td><td>10.617.927.640</td><td>12.180.860.000</td><td>8.137.535.140</td><td>14.661.252.500</td><td>14.661.252.500</td></tr><tr><td rowspan="3">-</td><td>Trên 5 năm</td><td>11.661.453.113.344</td><td>11.661.453.113.344</td><td>607.862.103.901</td><td>2.199.388.976.143</td><td>10.069.926.241.102</td><td>10.069.926.241.102</td></tr><tr><td>Vay ngân hàng</td><td>4.307.684.548.739</td><td>4.307.684.548.739</td><td>422.878.250.000</td><td>572.976.409.919</td><td>4.157.586.388.820</td><td>4.157.586.388.820</td></tr><tr><td>Vay Tập đoàn</td><td>7.353.768.564.605</td><td>7.353.768.564.605</td><td>184.983.853.901</td><td>1.626.412.566.224</td><td>5.912.339.852.282</td><td>5.912.339.852.282</td></tr><tr><td>b2.</td><td>Gốc nợ dài hạn</td><td>-</td><td>-</td><td>400.000.000.000</td><td>-</td><td>400.000.000.000</td><td>400.000.000.000</td></tr><tr><td rowspan="3">-</td><td>Từ 5 năm đến 10 năm</td><td>-</td><td>-</td><td>400.000.000.000</td><td>-</td><td>400.000.000.000</td><td>400.000.000.000</td></tr><tr><td>Trái phiếu phát hành (*)</td><td>-</td><td>-</td><td>400.000.000.000</td><td>-</td><td>400.000.000.000</td><td>400.000.000.000</td></tr><tr><td>Cộng</td><td>11.672.071.040.984</td><td>11.672.071.040.984</td><td>1.020.042.963.901</td><td>2.207.526.511.283</td><td>10.484.587.493.602</td><td>10.484.587.493.602</td></tr></table>
+
+30
+
+Bản thuyết minh Báo cáo tài chính riêng là một bộ phận không tách rời của Báo cáo tài chính riêng
+
+\( \frac{1}{2}C \)  \( \times \)  \( \frac{1}{2}C \)  \( \times \)  \( \frac{1}{2}C \)  \( \times \)  \( \frac{1}{2}C \)  \( \times \)  \( \frac{1}{2}C \)
+
+===== PAGE 31 =====
+TẬP ĐOÀN CÔNG NGHIỆP THAN - KHOÁNG SẢN VIỆT NAM
+
+CÔNG TY MỆ - TỔNG CÔNG TY ĐIỆN LỰC TKV - CTCP
+
+Địa chỉ: Tòa nhà Sannam, đường Duy Tân, phường Dịch Vọng Hậu, Q. Cầu Giấy, TP. Hà Nội
+
+BẢN THUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG (Tiếp theo)
+Năm tài chính kết thúc vào ngày 31/12/2018
+
+<table><tr><td rowspan="2" colspan="2"></td><td colspan="2">01/01/2018(VND)</td><td colspan="2">31/12/2018(VND)</td></tr><tr><td>Giá trị</td><td>Khả năngtrà nợ</td><td>Giá trị</td><td>Khả năngtrà nợ</td></tr><tr><td rowspan="3">c.</td><td>Phân loại gốc vay nợ dài hạn đến hạn trả tại thời điểm lập BCTC</td><td>2.087.671.905.826</td><td>2.087.671.905.826</td><td>1.932.889.334.586</td><td>1.932.889.334.586</td></tr><tr><td>Vay Ngân hàng</td><td>554.900.982.059</td><td>554.900.982.059</td><td>602.667.146.828</td><td>602.667.146.828</td></tr><tr><td>Vay Tập đoàn</td><td>1.532.770.923.767</td><td>1.532.770.923.767</td><td>1.330.222.187.758</td><td>1.330.222.187.758</td></tr><tr><td>d.</td><td>Số dư tại thời điểm lập BCTC</td><td>11.672.071.040.984</td><td>11.672.071.040.984</td><td>10.484.587.493.602</td><td>10.484.587.493.602</td></tr><tr><td>d.1</td><td>Vay và nợ ngắn hạn (d.1 = a + c)</td><td>2.087.671.905.826</td><td>2.087.671.905.826</td><td>1.932.889.334.586</td><td>1.932.889.334.586</td></tr><tr><td>d.2</td><td>Vay và nợ dài hạn (d.2 = b - c)</td><td>9.584.399.135.158</td><td>9.584.399.135.158</td><td>8.551.698.159.016</td><td>8.551.698.159.016</td></tr><tr><td rowspan="5">(*)</td><td colspan="5">Trái phiếu phát hành năm 2018:</td></tr><tr><td colspan="5">Trái phiếu không chuyển đổi có tổng mệnh giá 400.000.000.000 tỷ đồng (bốn trăm tỷ đồng) được đảm bảo bằng tài sản. Phát hành ngày 31/7/2018 và đáo hạn ngày 31/7/2025. Các trái phiếu được phát hành dưới hình thức bút toán ghi số, mỗi trái phiếu có mệnh giá 1.000.000.000 đồng (một tỷ đồng).</td></tr><tr><td colspan="5">Trái chủ (Ngân hàng TMCP Tiên Phong) được hưởng lãi kể từ và bao gồm ngày 31 tháng 7 năm 2018 cho đến nhưng không bao gồm ngày 31 tháng 7 năm 2025 (ngày đáo hạn) và được trả 6 tháng 1 lần vào ngày 31/7 và 31/1 hàng năm với mức lãi suất áp dụng như sau:</td></tr><tr><td colspan="5">+ Lãi suất kỳ đầu tiên là 9,8%/năm</td></tr><tr><td colspan="5">+ Lãi suất các kỳ sau tổng cửa 3,1%/năm và trung bình cộng lãi suất lãi suất tiền gửi tiết kiệm bằng Đồng Việt Nam, áp dụng với cá nhân, trả lãi sau, kỳ hạn 12 tháng áp dụng cho cá nhân công bố tại trang Web của 04 ngân hàng lớn của Việt nam bao gồm: Ngân hàng TMCP Ngoại Thương Việt Nam, Ngân hàng TMCP Đầu tư và Phát triển Việt Nam, Ngân hàng TMCP Công thương Việt nam và Ngân hàng Nông nghiệp và Phát triển Nông Thôn Việt Nam vào 11h00 tại ngày xác định lãi suất.</td></tr></table>
+
+Ban thuyet minh Bao cao tai chiin ring ta mot by phan knowing tach roi cua Bao cao tai chiin ring
+
+\( \left|\left|A06\right|\right|VG T E M H K F N Q |N|\)
+
+31
+
+===== PAGE 32 =====
+TẬP ĐOÀN CÔNG NGHIỆP THAN - KHOÁNG SẢN VIỆT NAM
+CÔNG TY MỆ - TỔNG CÔNG TY ĐIỆN LỰC TKV - CTCP
+
+Địa chỉ: Tòa nhà Sannam, đường Duy Tân, phường Dịch Vọng Hậu, Q. Cầu Giấy, TP. Hà Nội
+
+BẢN THUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG (Tiếp theo)
+Năm tài chính kết thúc vào ngày 31/12/2018
+
+5.13 Phải trả người bán
+
+<table><tr><td rowspan="2"></td><td colspan="2">31/12/2018(VND)</td><td colspan="2">01/01/2018(VND)</td></tr><tr><td>Giá trị</td><td>Số có khả năng trả nợ</td><td>Giá trị</td><td>Số có khả năng trả nợ</td></tr><tr><td>Các khoản phải trả người bán ngắn hạn</td><td>884.581.369.352</td><td>884.581.369.352</td><td>791.703.587.215</td><td>791.703.587.215</td></tr><tr><td>Công ty Kho vận và cảng Cẩm Phả - Vinacomin</td><td>35.723.904.867</td><td>35.723.904.867</td><td>-</td><td>-</td></tr><tr><td>Tổng công ty Đông Bắc</td><td>100.868.023.672</td><td>100.868.023.672</td><td>158.292.884.066</td><td>158.292.884.066</td></tr><tr><td>Công ty Kho Vận Đá Bạc - Vinacomin</td><td>51.232.927.877</td><td>51.232.927.877</td><td>-</td><td>-</td></tr><tr><td>Ban Điều hành Dự án Thủy điện Đồng Nai 5 Tổng công ty Sông Đà</td><td>451.193.407.652</td><td>451.193.407.652</td><td>474.029.213.190</td><td>474.029.213.190</td></tr><tr><td>LD HydroChina HuaDong và Tianjin Alstom Hydro</td><td>-</td><td>-</td><td>10.301.532.012</td><td>10.301.532.012</td></tr><tr><td>Phải trả các đối tượng khác</td><td>245.563.105.284</td><td>245.563.105.284</td><td>149.079.957.947</td><td>149.079.957.947</td></tr><tr><td>Các khoản phải trả người bán dài hạn</td><td>399.805.189.215</td><td>399.805.189.215</td><td>625.431.237.752</td><td>625.431.237.752</td></tr><tr><td>Nhà thầu SFECO</td><td>399.805.189.215</td><td>399.805.189.215</td><td>391.033.382.523</td><td>391.033.382.523</td></tr><tr><td>Công ty TNHH công trình điện Cáp Nhĩ Tân - DA Cao Ngạn</td><td>-</td><td>-</td><td>234.397.855.229</td><td>234.397.855.229</td></tr><tr><td>Cộng</td><td>1.284.386.558.567</td><td>1.284.386.558.567</td><td>1.417.134.824.967</td><td>1.417.134.824.967</td></tr></table>
+
+32
+
+Bản thuyết minh Báo cáo tài chính riêng là một bộ phận không tách rời của Báo cáo tài chính riêng
+
+\( \frac{1}{2} \)  \( \frac{1}{2} \)  \( \frac{1}{2} \)
+
+===== PAGE 33 =====
+TẬP ĐOÀN CÔNG NGHIỆP THAN - KHOÁNG SẢN VIỆT NAM
+
+CÔNG TY MỆ - TỔNG CÔNG TY ĐIỆN LỰC TKV - CTCP
+
+Địa chỉ: Tòa nhà Sannam, đường Duy Tân, phường Dịch Vọng Hậu, Q. Cầu Giấy, TP. Hà Nội
+
+BẢN THUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG (Tiếp theo)
+Năm tài chính kết thúc vào ngày 31/12/2018
+
+5.14 Thuế và các khoản phải thu, phải trả Nhà nước
+
+<table><tr><td></td><td>01/01/2018(VND)</td><td>Số phải nộp trong năm</td><td>Số đã thực nộp trong năm</td><td>31/12/2018(VND)</td></tr><tr><td colspan="5">Phải nộp</td></tr><tr><td>Thuế giá trị gia tăng</td><td>23.429.843.450</td><td>324.276.668.312</td><td>300.265.680.177</td><td>47.440.831.585</td></tr><tr><td>Thuế thu nhập doanh nghiệp</td><td>-</td><td>44.644.855.151</td><td>5.760.391.668</td><td>38.884.463.483</td></tr><tr><td>Thuế thu nhập cá nhân</td><td>154.590.021</td><td>3.159.676.185</td><td>2.595.097.233</td><td>719.168.973</td></tr><tr><td>Thuế tài nguyên</td><td>7.349.257.218</td><td>64.099.944.151</td><td>65.142.270.320</td><td>6.306.931.049</td></tr><tr><td>Thuế đất và tiền thuê đất</td><td>-</td><td>859.598.077</td><td>859.598.077</td><td>-</td></tr><tr><td>Các khoản phí, lệ phí và các khoản phải nộp khác</td><td>5.007.663.548</td><td>32.849.072.121</td><td>31.604.211.692</td><td>6.252.523.977</td></tr><tr><td>Cộng</td><td>35.941.354.237</td><td>469.889.813.997</td><td>406.227.249.167</td><td>99.603.919.067</td></tr><tr><td colspan="5">Phải thu</td></tr><tr><td>Thuế giá trị gia tăng</td><td>84.043.985</td><td>84.043.985</td><td>-</td><td>-</td></tr><tr><td>Thuế thu nhập doanh nghiệp</td><td>413.904.592</td><td>413.904.592</td><td>-</td><td>-</td></tr><tr><td>Thuế đất và tiền thuê đất</td><td>461.992.255</td><td>1.325.241.518</td><td>863.249.263</td><td>-</td></tr><tr><td>Cộng</td><td>959.940.832</td><td>1.823.190.095</td><td>863.249.263</td><td>-</td></tr></table>
+
+Quyết toán thuế của Tổng công ty sẽ chịu sự kiểm tra của cơ quan thuế. Do việc áp dụng luật và các quy định về thuế đối với nhiều loại giao dịch khác nhau có thể được giải thích theo nhiều cách khác nhau. Theo đó số thuế được trình bày trên Báo cáo tài chính có thể bị thay đổi theo quyết định của cơ quan thuế.
+
+Ban thuyet minh Bao cao tai chinh ring ta moṭ by phen khang tach roi cua Bao cao tai chinh ring
+
+33
+
+===== PAGE 34 =====
+TẬP ĐOÀN CÔNG NGHIỆP THAN - KHOÁNG SẢN VIỆT NAM
+
+CÔNG TY MỆ - TỔNG CÔNG TY ĐIỆN LỰC TKV - CTCP
+
+Địa chỉ: Tòa nhà Sannam, đường Duy Tân, phường Dịch Vọng Hậu, Q. Cầu Giấy, TP. Hà Nội
+
+BẢN THUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG (Tiếp theo)
+
+Năm tài chính kết thúc vào ngày 31/12/2018
+
+5.15 Chi phí phải trả
+
+<table><tr><td></td><td>31/12/2018(VND)</td><td>01/01/2018(VND)</td></tr><tr><td>Ngắn hạn</td><td>595.340.577.080</td><td>459.262.533.556</td></tr><tr><td>Chi phí lãi vay phải trả</td><td>585.019.558.730</td><td>455.303.543.837</td></tr><tr><td>Chi phí phải trả khác</td><td>10.321.018.350</td><td>3.958.989.719</td></tr><tr><td>Dài hạn</td><td>-</td><td>-</td></tr><tr><td>Cộng</td><td>595.340.577.080</td><td>459.262.533.556</td></tr></table>
+
+5.16 Phải trả khác
+
+<table><tr><td></td><td>31/12/2018(VND)</td><td>01/01/2018(VND)</td></tr><tr><td>Ngắn hạn</td><td>176.043.936.503</td><td>17.041.112.991</td></tr><tr><td>Phải trả nhà thầu SFECO</td><td>4.322.434.076</td><td>4.322.434.076</td></tr><tr><td>Phải trả về mô tơ, máy phát nhà thầu Harbin - DA Cao Ngạn</td><td>-</td><td>3.296.575.000</td></tr><tr><td>Quỹ sắp xếp đổi mới doanh nghiệp</td><td>161.017.850.859</td><td>-</td></tr><tr><td>Các khoản khác</td><td>(i) 10.703.651.568</td><td>9.422.103.915</td></tr><tr><td>Dài hạn</td><td>-</td><td>-</td></tr><tr><td>Cộng</td><td>176.043.936.503</td><td>17.041.112.991</td></tr></table>
+
+(i) Số các khoản khác ngày 31/12/2018 bao gồm:
+
+<table><tr><td></td><td>VND</td></tr><tr><td>Thường an toàn điện</td><td>6.055.166.727</td></tr><tr><td>Các khoản phải trả khác</td><td>4.648.484.841</td></tr><tr><td>Cộng</td><td>10.703.651.568</td></tr></table>
+
+Bản thuyết minh Báo cáo tài chính riêng là một bộ phận không tách rời của Báo cáo tài chính riêng
+
+34
+
+V
+TRÁC
+G. THANKH
+M.S.D.N:O₂
+
+===== PAGE 35 =====
+TẬP ĐOÀN CÔNG NGHIỆP THAN - KHOÁNG SẢN VIỆT NAM
+
+CÔNG TY MỆ - TỔNG CÔNG TY ĐIỆN LỰC TKV - CTCP
+
+Địa chỉ: Tòa nhà Sannam, đường Duy Tân, phường Dịch Vọng Hậu, Q. Cầu Giấy, TP. Hà Nội
+
+BẢN THUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG (Tiếp theo)
+Năm tài chính kết thúc vào ngày 31/12/2018
+
+5.17 Vốn chủ sở hữu
+
+Bàng đối chiếu biến động của vốn chủ sở hữu
+
+<table><tr><td></td><td>Vốn góp của chủ sở hữu VND</td><td>Thặng dư vốn cổ phần VND</td><td>Chênh lệch đánh giá lại TS VND</td><td>Quỹ đầu tư phát triển VND</td><td>Lợi nhuận sau thuế chưa phân phối VND</td><td>Tổng cộng VND</td></tr><tr><td>Số dư đầu năm trước</td><td>6.800.000.000.000</td><td>(3.640.600.000)</td><td>-</td><td>-</td><td>(354.030.919.308)</td><td>6.442.328.480.692</td></tr><tr><td>Tăng vốn trong năm trước</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>Tăng khác</td><td>-</td><td>3.640.600.000</td><td>-</td><td>-</td><td>-</td><td>3.640.600.000</td></tr><tr><td>Lãi trong năm trước</td><td>-</td><td>-</td><td>-</td><td>-</td><td>671.712.803.455</td><td>671.712.803.455</td></tr><tr><td>Giảm khác</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>Số dư cuối năm trước/ đầu năm nay</td><td>6.800.000.000.000</td><td>-</td><td>-</td><td>-</td><td>317.681.884.147</td><td>7.117.681.884.147</td></tr><tr><td>Tăng vốn trong năm nay</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>Tăng khác</td><td>-</td><td>-</td><td>-</td><td>3.269.425.647</td><td>-</td><td>3.269.425.647</td></tr><tr><td>Lãi trong năm nay</td><td>-</td><td>-</td><td>-</td><td>-</td><td>501.605.914.527</td><td>501.605.914.527</td></tr><tr><td>Giảm vốn trong năm nay</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>Phân phối lợi nhuận (*)</td><td>-</td><td>-</td><td>-</td><td>-</td><td>(222.694.256.477)</td><td>(222.694.256.477)</td></tr><tr><td>Giảm khác</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>Số dư cuối năm</td><td>6.800.000.000.000</td><td>-</td><td>-</td><td>3.269.425.647</td><td>596.593.542.197</td><td>7.399.862.967.844</td></tr></table>
+
+(*) Phân phối lợi nhuận theo Nghị quyết Đại hội đồng cổ đông thường niên năm 2018 số 03/NQ-ĐHĐCĐ-2018 của Tổng Công ty điện lực - TKV ngày 20/4/2018.
+
+Bản thuyết minh Báo cáo tài chính riêng là một bộ phận không tách rời của Báo cáo tài chính riêng
+
+35
+
+===== PAGE 36 =====
+TẬP ĐOÀN CÔNG NGHIỆP THAN - KHOÁNG SẢN VIỆT NAM
+
+CÔNG TY MỆ - TỔNG CÔNG TY ĐIỆN LỰC TKV - CTCP
+
+Địa chỉ: Tòa nhà Sannam, đường Duy Tân, phường Dịch Vọng Hậu, Q. Cầu Giấy, TP. Hà Nội
+
+BẢN THUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG (Tiếp theo)
+
+Năm tài chính kết thúc vào ngày 31/12/2018
+
+(*) Chi tiết vốn góp của chủ sở hữu
+
+<table><tr><td></td><td>31/12/2018(VND)</td><td>01/01/2018(VND)</td></tr><tr><td>Vốn của Nhà nước</td><td>6.778.085.000.000</td><td>6.778.085.000.000</td></tr><tr><td>Vốn của đối tượng khác</td><td>21.915.000.000</td><td>21.915.000.000</td></tr><tr><td>Cộng</td><td>6.800.000.000.000</td><td>6.800.000.000.000</td></tr></table>
+
+Các giao dịch về vốn với các chủ sở hữu và phân phối cổ tức, chia lợi nhuận
+
+<table><tr><td></td><td>Năm 2018(VND)</td><td>Năm 2017(VND)</td></tr><tr><td colspan="3">Vốn góp của chủ sở hữu</td></tr><tr><td>Vốn đầu năm</td><td>6.800.000.000.000</td><td>6.800.000.000.000</td></tr><tr><td>Vốn tăng trong năm</td><td>-</td><td>-</td></tr><tr><td>Vốn giảm trong năm</td><td>-</td><td>-</td></tr><tr><td>Vốn cuối năm</td><td>6.800.000.000.000</td><td>6.800.000.000.000</td></tr><tr><td>Cổ tức, lợi nhuận đã chia</td><td>203.883.492.000</td><td>-</td></tr></table>
+
+Cổ phiếu
+
+<table><tr><td></td><td>Năm 2018</td><td>Năm 2017</td></tr><tr><td>Số lượng CP đăng ký phát hành</td><td>680.000.000</td><td>680.000.000</td></tr><tr><td>Số lượng CP đã bán ra công chúng</td><td>680.000.000</td><td>680.000.000</td></tr><tr><td>Cổ phiếu phổ thông</td><td>680.000.000</td><td>680.000.000</td></tr><tr><td>Cổ phiếu ưu đãi</td><td>-</td><td>-</td></tr><tr><td>Số lượng cổ phiếu được mua lại</td><td>-</td><td>-</td></tr><tr><td>Cổ phiếu phổ thông</td><td>-</td><td>-</td></tr><tr><td>Cổ phiếu ưu đãi</td><td>-</td><td>-</td></tr><tr><td>Số lượng cổ phiếu đang lưu hành</td><td>680.000.000</td><td>680.000.000</td></tr><tr><td>Cổ phiếu phổ thông</td><td>680.000.000</td><td>680.000.000</td></tr><tr><td>Cổ phiếu ưu đãi</td><td>-</td><td>-</td></tr></table>
+
+Bản thuyết minh Báo cáo tài chính riêng là một bộ phận không tách rời của Báo cáo tài chính riêng
+
+36
+
+T.P.HF M HUU HAN TY 40-C1
+
+===== PAGE 37 =====
+TẬP ĐOÀN CÔNG NGHIỆP THAN - KHOÁNG SẢN VIỆT NAM
+
+CÔNG TY MỆ - TỔNG CÔNG TY ĐIỆN LỰC TKV - CTCP
+
+Địa chỉ: Tòa nhà Sannam, đường Duy Tân, phường Dịch Vọng Hậu, Q. Cầu Giấy, TP. Hà Nội
+
+BẢN THUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG (Tiếp theo)
+
+Năm tài chính kết thúc vào ngày 31/12/2018
+
+6 THÔNG TIN BỔ SUNG CHO CÁC KHOÀN MỤC TRÌNH BÀY TRONG BẢO CẢO KẾT QUẢ HOẠT ĐỘNG KINH DOANH RIÊNG
+
+6.1 Doanh thu bán hàng và cung cấp dịch vụ
+
+<table><tr><td></td><td>Năm 2018(VND)</td><td>Năm 2017(VND)</td></tr><tr><td>Tổng doanh thu bán hàng và cung cấp dịch vụ</td><td>8.028.360.506.827</td><td>7.269.482.060.418</td></tr><tr><td>Doanh thu bán hàng</td><td>8.010.030.119.703</td><td>7.253.223.668.211</td></tr><tr><td>Doanh thu cung cấp dịch vụ khác</td><td>18.330.387.124</td><td>16.258.392.207</td></tr></table>
+
+6.2 Giá vốn hàng bán
+
+<table><tr><td></td><td>Năm 2018(VND)</td><td>Năm 2017(VND)</td></tr><tr><td>Giá vốn bán hàng</td><td>6.292.368.889.023</td><td>5.965.270.146.201</td></tr><tr><td>Giá vốn cung cấp dịch vụ khác</td><td>16.540.847.632</td><td>13.261.452.219</td></tr><tr><td>Cộng</td><td>6.308.909.736.655</td><td>5.978.531.598.420</td></tr></table>
+
+6.3 Doanh thu hoạt động tài chính
+
+<table><tr><td></td><td>Năm 2018(VND)</td><td>Năm 2017(VND)</td></tr><tr><td>Lãi tiền gửi, tiền cho vay</td><td>12.873.233.988</td><td>9.790.449.589</td></tr><tr><td>Tiền cổ tức và lợi nhuận được chia</td><td>12.617.500.000</td><td>21.630.000.000</td></tr><tr><td>Lãi chênh lệch tỷ giá</td><td>93.117.407</td><td>27.772.901.627</td></tr><tr><td>Doanh thu tài chính khác</td><td>26.293.614</td><td>-</td></tr><tr><td>Cộng</td><td>25.610.145.009</td><td>59.193.351.216</td></tr></table>
+
+6.4 Chi phí tài chính
+
+<table><tr><td></td><td>Năm 2018(VND)</td><td>Năm 2017(VND)</td></tr><tr><td>Lãi tiền vay</td><td>357.134.811.466</td><td>365.893.027.814</td></tr><tr><td>Chênh lệch tỷ giá</td><td>384.909.406.944</td><td>141.501.131.276</td></tr><tr><td>Chi phí tài chính khác</td><td>12.875.222.833</td><td>18.293.136.866</td></tr><tr><td>Dự phòng đầu tư tài chính dài hạn</td><td>284.767.706.903</td><td>(10.526.259.995)</td></tr><tr><td>Cộng</td><td>1.039.687.148.146</td><td>515.161.035.961</td></tr></table>
+
+Bản thuyết minh Báo cáo tài chính riêng là một bộ phận không tách rời của Báo cáo tài chính riêng
+
+37
+
+NỘI ★ H'H'N
+
+41.0 ★ M.S
+
+===== PAGE 38 =====
+TẬP ĐOÀN CÔNG NGHIỆP THAN - KHOÁNG SẢN VIỆT NAM
+
+CÔNG TY MỆ - TỔNG CÔNG TY ĐIỆN LỰC TKV - CTCP
+
+Địa chỉ: Tòa nhà Sannam, đường Duy Tân, phường Dịch Vọng Hậu, Q. Cầu Giấy, TP. Hà Nội
+
+BẢN THUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG (Tiếp theo)
+
+Năm tài chính kết thúc vào ngày 31/12/2018
+
+6.5 Thu nhập khác
+
+<table><tr><td></td><td>Năm 2018(VND)</td><td>Năm 2017(VND)</td></tr><tr><td>Thu nhập khác</td><td>12.544.757.541</td><td>6.338.203.382</td></tr><tr><td>Cộng</td><td>12.544.757.541</td><td>6.338.203.382</td></tr></table>
+
+6.6 Chi phí khác
+
+<table><tr><td></td><td>Năm 2018(VND)</td><td>Năm 2017(VND)</td></tr><tr><td>Chi phí khác</td><td>4.149.563.900</td><td>25.775.677</td></tr><tr><td>Cộng</td><td>4.149.563.900</td><td>25.775.677</td></tr></table>
+
+6.7 Chi phí bán hàng và chi phí quản lý doanh nghiệp
+
+<table><tr><td colspan="2"></td><td>Năm 2018(VND)</td><td>Năm 2017(VND)</td></tr><tr><td rowspan="5">a.</td><td>Chi phí quản lý doanh nghiệp</td><td>167.104.286.406</td><td>155.582.401.503</td></tr><tr><td>Chi phí nhân viên</td><td>79.159.127.466</td><td>81.184.086.408</td></tr><tr><td>Chi phí khấu hao</td><td>19.746.381.678</td><td>17.970.884.773</td></tr><tr><td>Dịch vụ mua ngoài</td><td>11.208.165.590</td><td>7.272.587.817</td></tr><tr><td>Các khoản khác</td><td>56.990.611.672</td><td>49.154.842.505</td></tr><tr><td>b.</td><td>Chi phí bán hàng</td><td>-</td><td>-</td></tr><tr><td rowspan="2">c.</td><td>Các khoản ghi giảm chi phí bán hàng và Chi phí quản lý doanh nghiệp</td><td>-</td><td>-</td></tr><tr><td>Cộng</td><td>167.104.286.406</td><td>155.582.401.503</td></tr></table>
+
+6.8 Chi phí sản xuất kinh doanh theo yếu tố
+
+<table><tr><td></td><td>Năm 2018(VND)</td><td>Năm 2017(VND)</td></tr><tr><td>Chi phí nguyên liệu, vật liệu</td><td>4.560.163.948.287</td><td>4.243.689.382.723</td></tr><tr><td>Chi phí nhân công</td><td>232.106.923.944</td><td>222.189.639.750</td></tr><tr><td>Chi phí khấu hao TSCĐ</td><td>1.351.430.218.149</td><td>1.389.068.873.090</td></tr><tr><td>Chi phí dịch vụ mua ngoài</td><td>119.747.048.252</td><td>93.546.177.469</td></tr><tr><td>Chi phí khác bằng tiền</td><td>212.565.884.429</td><td>185.619.926.891</td></tr><tr><td>Cộng</td><td>6.476.014.023.061</td><td>6.134.113.999.923</td></tr></table>
+
+Bàn thuyết minh Báo cáo tài chính riêng là một bộ phận không tách rời của Báo cáo tài chính riêng
+
+38
+
+===== PAGE 39 =====
+TẬP ĐOÀN CÔNG NGHIỆP THAN - KHOÁNG SẢN VIỆT NAM
+
+CÔNG TY MỆ - TỔNG CÔNG TY ĐIỆN LỰC TKV - CTCP
+
+Địa chỉ: Tòa nhà Sannam, đường Duy Tân, phường Dịch Vọng Hậu, Q. Cầu Giấy, TP. Hà Nội
+
+BẢN THUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG (Tiếp theo)
+
+Năm tài chính kết thúc vào ngày 31/12/2018
+
+6.9 Chi phí thuế thu nhập doanh nghiệp hiện hành
+
+<table><tr><td></td><td>Năm 2018(VND)</td></tr><tr><td>Tổng lợi nhuận kế toán trước thuế</td><td>546.664.674.270</td></tr><tr><td>Các khoản điều chỉnh tăng, giảm lợi nhuận kế toán để xác định lợi nhuận chịu thuế thu nhập doanh nghiệp:</td><td>(161.400.043.312)</td></tr><tr><td>- Các khoản điều chỉnh tăng</td><td>444.416.971</td></tr><tr><td>Chi phí không hợp lệ</td><td>444.416.971</td></tr><tr><td>- Các khoản điều chỉnh giảm</td><td>(161.844.460.283)</td></tr><tr><td>Thu nhập được miễn thuế</td><td>(161.844.460.283)</td></tr><tr><td>Tổng thu nhập chịu thuế</td><td>385.264.630.958</td></tr><tr><td>Chuyển lỗ năm trước</td><td>(26.650.296.096)</td></tr><tr><td>Thu nhập tính thuế</td><td>358.614.334.862</td></tr><tr><td>- Thu nhập được hưởng ưu đãi thuế với thuế suất 10%</td><td>266.641.072.290</td></tr><tr><td>- Thu nhập chịu thuế suất 20%</td><td>91.973.262.572</td></tr><tr><td>Thuế suất thuế TNDN được hưởng ưu đãi</td><td>10%</td></tr><tr><td>Thuế suất thuế TNDN hoạt động không được hưởng ưu đãi</td><td>20%</td></tr><tr><td>Thuế TNDN phải nộp</td><td>45.058.759.743</td></tr><tr><td>Thuế TNDN được miễn giảm</td><td>-</td></tr><tr><td>Điều chỉnh chi phí thuế thu nhập doanh nghiệp của các năm trước</td><td>-</td></tr><tr><td>Tổng chi phí thuế TNDN hiện hành</td><td>45.058.759.743</td></tr></table>
+
+7 THÔNG TIN BỔ SUNG CHO CÁC KHOÀN MỤC TRÌNH BÀY TRONG BÁO CÁO LƯU CHUYỂN TIỀN TỆ
+
+<table><tr><td>7.1. Số tiền đi vay thực thu trong kỳ</td><td>741.780.860.000 VND</td></tr><tr><td>Tiền thu từ đi vay theo khế ước thông thường</td><td>341.780.860.000 VND</td></tr><tr><td>Tiền thu từ phát hành trái phiếu thường</td><td>400.000.000.000 VND</td></tr></table>
+
+<table><tr><td>7.2. Số tiền đã thực trả gốc vay trong kỳ</td><td>2.135.073.180.593 VND</td></tr><tr><td>Tiền trả nợ gốc vay theo khế ước thông thường:</td><td>2.135.073.180.593 VND</td></tr></table>
+
+8 NHỮNG THÔNG TIN KHÁC
+
+8.1. Công cụ tài chính
+
+Công ty mẹ chịu các rủi ro sau khi sử dụng các công cụ tài chính: rủi ro thị trường, rủi ro tín dụng và rủi ro thanh khoản.
+
+Ban Điều hành chịu trách nhiệm chung đối với việc thiết lập và giám sát nguyên tắc quản lý rủi ro tài chính. Ban Tổng Giám đốc thiết lập các chính sách nhằm phát hiện và phân tích các
+
+Bản thuyết minh Báo cáo tài chính riêng là một bộ phận không tách rời cửa Báo cáo tài chính riêng
+
+39
+
+| | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
+
+===== PAGE 40 =====
+TẬP ĐOÀN CÔNG NGHIỆP THAN - KHOÁNG SẢN VIỆT NAM
+
+CÔNG TY MỆ - TỔNG CÔNG TY ĐIỆN LỰC TKV - CTCP
+
+Đia chỉ: Tòa nhà Sannam, đường Duy Tân, phường Dịch Vọng Hậu, Q. Cầu Giấy, TP. Hà Nội
+
+BẢN THUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG (Tiếp theo)
+
+Năm tài chính kết thúc vào ngày 31/12/2018
+
+rủi ro mà Tổng Công ty phải chịu, thiết lập các biện pháp kiểm soát rủi ro và các hạn mức rủi ro thích hợp, và giám sát các rủi ro và việc thực hiện các hạn mức rủi ro. Hệ thống và chính sách quản lý rủi ro được xem xét lại định kỳ nhằm phần ánh những thay đổi của các điều kiện thị trường và hoạt động của Công ty mẹ.
+
+Ban Tổng Giám đốc xem xét và thống nhất áp dụng các chính sách quản lý cho những rủi ro nói trên như sau:
+
+(i) Rủi ro thị trường
+
+Rủi ro thị trường là rủi ro mà giá trị hợp lý cửa các luồng tiền trong tương lai cửa các công cụ tài chính sẽ biến động theo những thay đổi cửa giá thị trường. Rủi ro thị trường có bốn loại rủi ro: rủi ro lãi suất, rủi ro tiền tệ, rủi ro về giá hàng hóa và rủi ro về giá khác.
+
+Rùi ro lãi suất
+
+Rủi ro lãi suất là rủi ro mà giá trị hợp lý hoặc các luồng tiền trong tương lai của một công cụ tài chính sẽ biến động theo những thay đổi của lãi suất thị trường. Rủi ro thị trường do thay đổi lãi suất của Công ty mẹ chủ yếu liên quan đến tiền, các khoản tiền gửi ngắn hạn và các khoản vay của Công ty mẹ.
+
+Công ty mẹ quản lý rủi ro lãi suất bằng cách phân tích tình hình cạnh tranh trên thị trường để có được lãi suất có lợi cho mục đích của Công ty mẹ và vẫn nằm trong giới hạn quản lý rủi ro của mình.
+
+Rùi ro ngoại tệ
+
+Rủi ro ngoại tệ là rủi ro mà giá trị hợp lý của các luồng tiền trong tương lai của các công cụ tài chính sẽ biến động theo những thay đổi của tỉ giá hối đoái. Công ty mẹ chịu rủi ro do sự thay đổi của tỉ giá hối đoái liên quan trực tiếp đến hoạt động kinh doanh của Công ty mẹ.
+
+Công ty mẹ có rủi ro tỷ giá hối đoái từ các giao dịch mua, bán bằng đơn vị tiền tệ không phải là đơn vị tiền tệ kế toán của Công ty mẹ.
+
+Rủi ro về giá cổ phiếu, trái phiếu
+
+Cổ phiếu do Công ty mẹ nấm giữ có thể bị ảnh hưởng bởi các rủi ro về giá trị tương lai của cổ phiếu đầu tư. Công ty mẹ đầu tư cổ phiếu vào một số dự án nhiệt điện có cùng các rủi ro. Đây là cổ phiếu đầu tư dài hạn và chưa được niêm yết nên Công ty mẹ đánh giá mức độ nhạy cảm đối với biến động về giá cổ phiếu này là thấp.
+
+(ii) Rủi ro tín dụng
+
+Rủi ro tín dụng là rủi ro mà một bên tham gia trong một công cụ tài chính hoặc hợp đồng giao dịch không thực hiện được nghĩa vụ của mình, dẫn đến tổn thất về tài chính. Công ty mẹ có rủi ro tín dụng từ các hoạt động kinh doanh của mình (chủ yếu đối với tài khoản phải thu khách hàng), và từ hoạt động tài chính của mình, bao gồm tiền gửi ngân hàng, các khoản cho vay và các công cụ tài chính khác.
+
+Phải thu khách hàng
+
+Bản thuyết minh Báo cáo tài chính riêng là một bộ phận không tách rời của Báo cáo tài chính riêng
+
+40
+
+\( \frac{1}{2}M \)  \( \frac{1}{2}H \)  \( \frac{1}{2}O \)
+
+===== PAGE 41 =====
+TẬP ĐOÀN CÔNG NGHIỆP THAN - KHOÁNG SẢN VIÊT NAM
+
+CÔNG TY MỆ - TỔNG CÔNG TY ĐIỆN LỰC TKV - CTCP
+
+Địa chỉ: Tòa nhà Sannam, đường Duy Tân, phường Dịch Vọng Hậu, Q. Cầu Giấy, TP. Hà Nội
+
+BẢN THUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG (Tiếp theo)
+
+Năm tài chính kết thúc vào ngày 31/12/2018
+
+Công ty mẹ thường xuyên theo dõi các khoản phải thu khách hàng chưa thu được. Đối với các khách hàng lớn, Công ty mẹ xem xét sự suy giảm trong chất lượng tín dụng của từng khách hàng tại ngày lập báo cáo. Công ty mẹ tìm cách duy trì sự kiểm soát chặt chế các khoản phải thu tồn động và bố trí nhân sự kiểm soát tín dụng để giảm thiểu rủi ro tín dụng.
+
+Công ty mẹ sẽ lập dự phòng giảm giá trị để phần ánh mức độ thiệt hại ước tính đối với phải thu khách hàng, phải thu khác và các khoản đầu tư. Thành phần chính của khoản dự phòng giảm giá trị này là khoản lỗ cụ thể có liên quan đến mức độ thiệt hại cụ thể đối với từng khách hàng.
+
+Tiền gửi ngân hàng
+
+Công ty mẹ chủ yếu duy trì số dư tiền gửi tại các ngân hàng được nhiều người biết đến tại Việt Nam. Rủi ro tín dụng của số dư tiền gửi tại các ngân hàng được quản lý bởi bộ phận ngân quỹ của Công ty mẹ theo chính sách của Công ty mẹ. Rủi ro tín dụng tối đa của Công ty mẹ đối với các khoản mục trên bản cân đối kế toán tại ngày kết thúc năm tài chính là giá trị ghi sổ như trình bày trong Thuyết minh số 5.1. Công ty mẹ nhận thấy mức độ tập trung rủi ro tín dụng đối với khoản tiền gửi ngân hàng là thấp.
+
+(iii) Rủi ro thanh khoản
+
+Rủi ro thanh khoản là rủi ro mà Công ty mẹ sẽ gặp khó khăn khi thực hiện các nghĩa vụ tài chính do thiếu vốn. Rủi ro thanh khoản của Công ty mẹ chủ yếu phát sinh từ việc các tài sản tài chính và nợ phải trả tài chính có thời điểm đáo hạn khác biệt nhau.
+
+Công ty mẹ giảm thiểu rủi ro thanh khoản bằng cách duy trì một lượng tiền mặt và các khoản tương đương tiền và các khoản vay ngân hàng ở mức mà Ban Tổng Giám đốc cho rằng đủ để đáp ứng cho các hoạt động của Công ty mẹ và giảm thiểu rủi ro do những biến động của lường tiền.
+
+Bằng dưới đây phân tích đối với tài sản tài chính và các khoản nợ tài chính phi phải sinh vào các nhóm đáo hạn có liên quan dựa trên kỳ hạn còn lại từ ngày lập bằng cân đối kế toán đến ngày đáo hạn theo hợp đồng. Các số tiền được trình bày trong bằng sau là các lường tiền theo hợp đồng không chiết khấu. Việc trình bày thông tin tài sản tài chính phi phải sinh là cần thiết để hiểu được việc quản lý rủi ra thanh khoản của Công ty mẹ khi tính thanh khoản được quản lý trên cơ sở công nợ và tài sản thuần.
+
+Bản thuyết minh Báo cáo tài chính riêng là một bộ phận không tách rời của Báo cáo tài chính riêng
+
+41
+
+•
+
+TINHH ★IONA
+
+===== PAGE 42 =====
+TẬP ĐOÀN CÔNG NGHIỆP THAN - KHOÁNG SẢN VIỆT NAM
+
+CÔNG TY MỆ - TỔNG CÔNG TY ĐIỆN LỰC TKV - CTCP
+
+Đia chỉ: Tòa nhà Sannam, đường Duy Tân, phường Dịch Vọng Hậu, Q. Câu Giấy, TP. Hà Nội
+
+BÀN THUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG (Tiếp theo)
+
+Năm tài chính kết thúc vào ngày 31/12/2018
+
+<table><tr><td></td><td>Dưới 1 năm</td><td>Từ 1 năm trở lên</td><td>Tổng cộng</td></tr><tr><td colspan="4">Ngày 31/12/2018</td></tr><tr><td colspan="4">Giá trị ghi số:</td></tr><tr><td>Tiền và các khoản tương đương tiền</td><td>300.087.599.256</td><td>-</td><td>300.087.599.256</td></tr><tr><td>Phải thu khách hàng</td><td>2.401.781.062.858</td><td>-</td><td>2.401.781.062.858</td></tr><tr><td>Đầu tư</td><td>-</td><td>3.108.245.507.085</td><td>3.108.245.507.085</td></tr><tr><td>Phải thu khác</td><td>547.468.349.562</td><td>965.552.378</td><td>548.433.901.940</td></tr><tr><td colspan="4">Tài sản tài chính khác</td></tr><tr><td colspan="4">Trừ:</td></tr><tr><td>Dự phòng phải thu khó đòi</td><td>(55.731.000)</td><td>-</td><td>(55.731.000)</td></tr><tr><td>Dự phòng giảm giá các khoản đầu tư</td><td>-</td><td>(960.754.862.318)</td><td>(960.754.862.318)</td></tr><tr><td>Tổng cộng</td><td>3.249.281.280.676</td><td>2.148.456.197.145</td><td>5.397.737.477.821</td></tr><tr><td colspan="4">Ngày 31/12/2018</td></tr><tr><td>Các khoản vay và nợ</td><td>1.932.889.334.586</td><td>8.551.698.159.016</td><td>10.484.587.493.602</td></tr><tr><td>Phải trả người bán</td><td>884.581.369.352</td><td>399.805.189.215</td><td>1.284.386.558.567</td></tr><tr><td>Phải trả, PN khác và chi phí phải trả</td><td>771.384.513.583</td><td>-</td><td>771.384.513.583</td></tr><tr><td>Tổng cộng</td><td>3.588.855.217.521</td><td>8.951.503.348.231</td><td>12.540.358.565.752</td></tr><tr><td>Chênh lệch thanh khoản thuần</td><td>(339.573.936.845)</td><td>(6.803.047.151.086)</td><td>(7.142.621.087.931)</td></tr></table>
+
+Ban thuyet minh Bao cao tai chi nh yeng la moṭ by phan khorng tach roi cua Bao cao tai chi nh yeng
+
+42
+
+===== PAGE 43 =====
+TẬP ĐOÀN CÔNG NGHIỆP THAN - KHOÁNG SẢN VIỆT NAM
+
+CÔNG TY MỆ - TỔNG CÔNG TY ĐIỆN LỰC TKV - CTCP
+
+Địa chỉ: Tòa nhà Sannam, đường Duy Tân, phường Dịch Vọng Hậu, Q. Cầu Giấy, TP. Hà Nội
+
+BẢN THUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG (Tiếp theo)
+Năm tài chính kết thúc vào ngày 31/12/2018
+
+<table><tr><td></td><td>Dưới 1 năm</td><td>Từ 1 năm trở lên</td><td>Tổng cộng</td></tr><tr><td colspan="4">Ngày 01/01/2018</td></tr><tr><td colspan="4">Giá trị ghi số:</td></tr><tr><td>Tiền và các khoản tương đương tiền</td><td>91.603.523.920</td><td>-</td><td>91.603.523.920</td></tr><tr><td>Phải thu khách hàng</td><td>1.645.417.574.120</td><td>-</td><td>1.645.417.574.120</td></tr><tr><td>Đầu tư</td><td>-</td><td>2.979.431.733.205</td><td>2.979.431.733.205</td></tr><tr><td>Phải thu khác</td><td>433.753.763.707</td><td>965.552.378</td><td>434.719.316.085</td></tr><tr><td colspan="4">Tài sản tài chính khác</td></tr><tr><td colspan="4">Trừ:</td></tr><tr><td>Dự phòng phải thu khó đòi</td><td>(5.061.330.000)</td><td>-</td><td>(5.061.330.000)</td></tr><tr><td>Dự phòng giảm giá các khoản đầu tư</td><td>-</td><td>(675.987.155.415)</td><td>(675.987.155.415)</td></tr><tr><td>Tổng cộng</td><td>2.165.713.531.747</td><td>2.304.410.130.168</td><td>4.470.123.661.915</td></tr><tr><td colspan="4">Ngày 01/01/2018</td></tr><tr><td>Các khoản vay và nợ</td><td>2.087.671.905.826</td><td>9.584.399.135.158</td><td>11.672.071.040.984</td></tr><tr><td>Phải trả người bán</td><td>791.703.587.215</td><td>625.431.237.752</td><td>1.417.134.824.967</td></tr><tr><td>Phải trả, PN khác và chi phí phải trả</td><td>35.941.354.237</td><td>-</td><td>35.941.354.237</td></tr><tr><td>Tổng cộng</td><td>2.915.316.847.278</td><td>10.209.830.372.910</td><td>13.125.147.220.188</td></tr><tr><td>Chênh lệch thanh khoản thuần</td><td>(749.603.315.531)</td><td>(7.905.420.242.742)</td><td>(8.655.023.558.273)</td></tr></table>
+
+Công ty mẹ cho rằng mức độ tập trung rủi ro đối với việc trả nợ là thấp. Công ty mẹ có đủ khả năng tiếp cận các nguồn vốn cần thiết.
+
+Ban thuyet minh Bao cao tai chiin ring ia moft bo phan knowing tach roi cua Bao cao tai chiin ring
+
+43
+
+===== PAGE 44 =====
+TẬP ĐOÀN CÔNG NGHIỆP THAN - KHOÁNG SẢN VIỆT NAM
+CÔNG TY MỆ - TỔNG CÔNG TY ĐIỆN LỰC TKV - CTCP
+
+Địa chỉ: Tòa nhà Sannam, đường Duy Tân, phường Dịch Vọng Hậu, Q. Cầu Giấy, TP. Hà Nội
+
+BÀN THUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG (Tiếp theo)
+Năm tài chính kết thúc vào ngày 31/12/2018
+
+(iv) Giá trị hợp lý
+
+Giá trị ghi sổ trừ dự phòng của các khoản phải thu ngắn hạn, tiền gửi ngân hàng và các khoản phải trả người bán và phải trả khác là gần bằng với giá trị hợp lý của chúng
+
+<table><tr><td rowspan="2"></td><td colspan="2">Giá trị ghi sổ</td><td colspan="2">Giá trị hợp lý</td></tr><tr><td>31/12/2018</td><td>01/01/2018</td><td>31/12/2018</td><td>01/01/2018</td></tr><tr><td colspan="5">Tài sản tài chính</td></tr><tr><td>Các khoản đầu tư nắm giữ đến ngày đáo hạn</td><td></td><td></td><td></td><td></td></tr><tr><td>Các khoản cho vay và phải thu</td><td></td><td></td><td></td><td></td></tr><tr><td>Phải thu khách hàng</td><td>2.401.781.062.858</td><td>1.645.417.574.120</td><td>2.401.781.062.858</td><td>1.645.417.574.120</td></tr><tr><td>Các khoản PT khác</td><td>548.433.901.940</td><td>434.719.316.085</td><td>548.378.170.940</td><td>434.663.585.085</td></tr><tr><td colspan="5">Tài sản tài chính sẵn sàng để bán</td></tr><tr><td>Tiền và các khoản tương đương tiền</td><td>300.087.599.256</td><td>91.603.523.920</td><td>300.087.599.256</td><td>91.603.523.920</td></tr><tr><td>Tổng cộng</td><td>3.250.302.564.054</td><td>2.171.740.414.125</td><td>3.250.246.833.054</td><td>2.171.684.683.125</td></tr><tr><td colspan="5">Nợ phải trả tài chính</td></tr><tr><td>Vay và nợ</td><td>10.484.587.493.602</td><td>11.672.071.040.984</td><td>10.484.587.493.602</td><td>11.672.071.040.984</td></tr><tr><td>Phải trả người bán</td><td>1.284.386.558.567</td><td>1.417.134.824.967</td><td>1.284.386.558.567</td><td>1.417.134.824.967</td></tr><tr><td>Phải trả khác</td><td>771.384.513.583</td><td>35.941.354.237</td><td>771.384.513.583</td><td>35.941.354.237</td></tr><tr><td>Tổng cộng</td><td>12.540.358.565.752</td><td>13.125.147.220.188</td><td>12.540.358.565.752</td><td>13.125.147.220.188</td></tr></table>
+
+Giá trị hợp lý cửa tài sản và nợ phải trả tài chính không được đánh giá và xác định một cách chính thức vào ngày 31/12/2018 và ngày 01/01/2018. Tuy nhiên, Ban Tổng Giám đốc đánh giá giá trị hợp lý cửa những tài sản và phải trả tài chính này không có chênh lệch trọng yếu với giá trị ghi sổ cửa chúng tại ngày kết thúc năm tài chính.
+
+44
+
+Bản thuyết minh Báo cáo tài chính riêng là một bộ phận không tách rời của Báo cáo tài chính riêng
+
+===== PAGE 45 =====
+TẬP ĐOÀN CÔNG NGHIỆP THAN - KHOÁNG SẢN VIỆT NAM CÔNG TY MỆ - TỔNG CÔNG TY ĐIỆN LỰC TKV - CTCP
+
+Địa chỉ: Tòa nhà Sannam, đường Duy Tân, phường Dịch Vọng Hậu, Q. Câu Giấy, TP. Hà Nội
+
+BẢN THUYẾT MINH BÁO CÁO TÀI CHÍNH (Tiếp theo)
+Năm tài chính kết thúc vào ngày 31/12/2018
+
+8.2 Báo cáo bộ phận
+
+Tổng Công ty báo cáo kết quả hoạt động kinh doanh theo các lĩnh vực hoạt động, bao gồm: Doanh thu bán hàng và Doanh thu cung cấp dịch vụ. Chi tiết kết quả hoạt động kinh doanh theo từng ngành nghề như sau:
+
+<table><tr><td rowspan="2"></td><td>Doanh thu bán hàng</td><td>Doanh thu cung cấp dịch vụ</td><td>Tổng cộng</td></tr><tr><td>VND</td><td>VND</td><td>VND</td></tr><tr><td colspan="4">Năm 2017</td></tr><tr><td>Doanh thu</td><td>7.253.223.668.211</td><td>16.258.392.207</td><td>7.269.482.060.418</td></tr><tr><td>Các khoản giảm trừ</td><td>-</td><td>-</td><td>-</td></tr><tr><td>Giá vốn hàng bán</td><td>5.965.270.146.201</td><td>13.261.452.219</td><td>5.978.531.598.420</td></tr><tr><td>Lợi nhuận gộp</td><td>1.287.953.522.010</td><td>2.996.939.988</td><td>1.290.950.461.998</td></tr><tr><td colspan="4">Năm 2018</td></tr><tr><td>Doanh thu</td><td>8.010.030.119.703</td><td>18.330.387.124</td><td>8.028.360.506.827</td></tr><tr><td>Các khoản giảm trừ</td><td>-</td><td>-</td><td>-</td></tr><tr><td>Giá vốn hàng bán</td><td>6.292.368.889.023</td><td>16.540.847.632</td><td>6.308.909.736.655</td></tr><tr><td>Lợi nhuận gộp</td><td>1.717.661.230.680</td><td>1.789.539.492</td><td>1.719.450.770.172</td></tr></table>
+
+Báo cáo bộ phận theo khu vực địa lý (báo cáo thứ yếu): Báo cáo bộ phận theo khu vực địa lý dựa trên vị trí của khách hàng tạo ra doanh thu cho bộ phận. Trong năm tài chính kết thúc vào ngày 31/12/2018, hoạt động sản xuất kinh doanh của Công ty mẹ chỉ phát sinh tại khu vực nội địa nên Tổng Công ty không lập Báo cáo bộ phận thứ yếu (theo khu vực địa lý).
+
+45
+
+Bản thuyết minh Báo cáo tài chính riêng là một bộ phận không tách rời của Báo cáo tài chính riêng
+
+===== PAGE 46 =====
+TẠP ĐOẠN CONG NGHIỆP THAN - KHOẢNG SẢN VIỆT NAM
+
+CÔNG TY MỆ - TỔNG CÔNG TY ĐIỆN LỰC - VINACOMIN
+
+Địa chỉ: Tòa nhà Sannam, đường Duy Tân, phường Dịch Vọng Hậu, Q. Cầu Giấy, TP. Hà Nội
+
+BẢN THUYẾT MINH BÁO CÁO TÀI CHÍNH (Tiếp theo)
+
+Năm tài chính kết thúc vào ngày 31/12/2018
+
+8.3 Những sự kiện phát sinh sau ngày kết thúc năm tài chính
+
+Đến ngày lập báo cáo này, Ban Tổng Giám đốc Tổng Công ty cho rằng không có sự kiện nào khác có thể làm cho các số liệu và thông tin đã được trình bày trong Báo cáo tài chính riêng đã được kiểm toán của Công ty mẹ bị phần ánh sai lệch.
+
+8.4 Thông tin so sánh
+
+Số liệu dùng để so sánh Báo cáo tài chính riêng là số liệu trên Báo cáo tài chính riêng cho năm tài chính kết thúc vào ngày 31/12/2017 của Công ty mẹ - Tổng Công ty điện lực - Vinacomin đã được kiểm toán bởi Công ty TNHH PKF Việt Nam.
+
+Hà Nội, ngày 26 tháng 03 năm 2019
+
+NGƯỜI LẬP BIỂU
+
+Lưu Thị Thu Hà
+
+KẾ TOÁN TRƯỜNG
+
+Nguyễn Thị Hà
+
+TỔNG GIÁM ĐỐC
+
+Bàn thuyết minh Báo cáo tài chính riêng là một bộ phận không tách rời của Báo cáo tài chính riêng
+
+46

@@ -1,0 +1,1442 @@
+===== PAGE 1 =====
+PETROVIETNAM
+PV GAS
+
+TẬP ĐOÀN DẦU KHÍ QUỐC GIA VIỆT NAM
+TỔNG CÔNG TY KHÍ VIỆT NAM - CTCP
+
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+Độc lập - Tự do - Hạnh phúc
+
+Số: 582 /KVN-TC
+
+Thành phố Hồ Chí Minh, ngày 26 tháng 03 năm 2020
+
+CÔNG BỐ THÔNG TIN
+
+Về Báo cáo tài chính hợp nhất đã được kiểm toán năm 2019 của Tổng Công ty Khí Việt Nam - CTCP
+
+Kính gửi:
+
+- Ủy ban Chứng khoán Nhà nước;
+
+- Sở Giao dịch Chứng khoán Tp. HCM.
+
+Tổng Công ty Khí Việt Nam – CTCP (PV GAS)
+
+Mã chứng khoán: GAS
+
+Địa chỉ trụ sở chính: PV GAS TOWER, số 673 đường Nguyễn Hữu Thọ, xã Phước Kiền, huyện Nhà Bè, Tp. Hồ Chí Minh.
+
+Điện thoại: (08) 37816777. Fax: (08) 37815666 - 37815777.
+
+Loại thông tin công bố: định kỳ.
+
+Nội dung thông tin công bố: Báo cáo tài chính hợp nhất đã được kiểm toán năm 2019 của Tổng Công ty Khí Việt Nam – CTCP.
+
+Thông tin này đã được công bố trên trang thông tin điện tử của PV Gas vào ngày 26/03/2020 tại website http://www.pvgas.com.vn, chuyên mục Quan hệ cổ đông/Tài liệu cổ đông/Báo cáo tài chính.
+
+Chúng tôi xin cam kết các thông tin công bố trên đây là đúng sự thật và hoàn toàn chịu trách nhiệm trước pháp luật về nội dung các thông tin đã công bố.
+
+Nơi nhận:
+
+- Như trên;
+
+- UBCKNN (Vụ Quản lý Phát hành Chứng khoán);
+
+- HĐQT TCT (để báo cáo);
+
+- TGD TCT (đê báo cáo);
+
+- Ban TC, KT;
+
+- Luru: VT.
+
+Tài liệu đính kèm:
+
+- Báo cáo tài chính hợp nhất đã được kiểm toán năm 2019.
+
+TUQ. TỔNG GIÁM ĐỐC
+NGƯỜI ĐƯỢC ỦY QUYỀN
+CÔNG BỐ THÔNG TIN
+
+===== PAGE 2 =====
+Deloitte.
+
+TỔNG CÔNG TY KHÍ VIỆT NAM - CÔNG TY CỔ PHẦN
+
+(Thành lập tại nước Cộng hoà Xã hội Chủ nghĩa Việt Nam)
+
+BÁO CÁO TÀI CHÍNH HỢP NHẤT
+ĐÃ ĐƯỢC KIỂM TOÁN
+
+Cho năm tài chính kết thúc ngày 31 tháng 12 năm 2019
+
+===== PAGE 3 =====
+TỔNG CÔNG TY KHÍ VIÊT NAM - CÔNG TY CỔ PHẦN
+
+Tòa nhà PV GAS Tower, số 673 đường Nguyễn Hữu Thọ
+
+Xã Phước Kiến, huyện Nhà Bè, thành phố Hồ Chí Minh, CHXHCN Việt Nam
+
+MỤC LỤC
+
+<table><tr><td>NÔI DUNG</td><td>TRANG</td></tr><tr><td>BÁO CÁO CỦA BAN TỔNG GIÁM ĐỐC</td><td>1 - 2</td></tr><tr><td>BÁO CÁO KIỂM TOÁN ĐỘC LẬP</td><td>3 - 4</td></tr><tr><td>BẢNG CÂN ĐỐI KẾ TOÁN HỢP NHẮT</td><td>5 - 6</td></tr><tr><td>BÁO CÁO KẾT QUÀ HOẠT ĐỘNG KINH DOANH HỢP NHẮT</td><td>7</td></tr><tr><td>BÁO CÁO LƯU CHUYỄN TIỂN TÊ HỢP NHẮT</td><td>8 - 9</td></tr><tr><td>THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẮT</td><td>10 - 45</td></tr></table>
+
+\( \left\|  {\eta }^{2}\right\|  = \frac{1}{2} + \frac{1}{2} + \frac{1}{2} + \cdots  + \frac{1}{2} + \frac{1}{2} + \frac{1}{2} + \cdots  + \frac{1}{2} + \frac{1}{2} + \frac{1}{2} + \cdots  + \frac{1}{2} + \frac{1}{2} + \frac{1}{2} + \cdots  + \frac{1}{2} + \frac{1}{2} + \frac{1}{2} + \cdots  + \frac{1}{2} + \frac{1}{2} + \frac{1}{2} + \cdots  + \frac{1}{2} + \frac{1}{2} + \frac{1}{2} + \cdots  + \frac{1}{2} + \frac{1}{2} + \frac{1}{2} + \cdots  + \frac{1}{2} + \frac{1}{2} + \frac{1}{2} + \cdots  + \frac{1}{2} + \frac{1}{2} + \frac{1}{2} + \cdots  + \frac{1}{2} + \frac{1}{2} + \frac{1}{2} + \cdots  + \frac{1}{2} + \frac{1}{2} + \frac{1}{2} + \cdots  + \frac{1}{2} + \frac{1}{2} + \frac{1}{2} + \cdots  + \frac{1}{2} + \frac{1}{2} + \frac{1}{2} + \cdots  + \frac{1}{2} + \frac{1}{2} + \frac{1}{2} + \cdots  + \frac{1}{2} + \frac{1}{2} + \frac{1}{2} + \cdots  + \frac{1}{2} + \frac{1}{2} + \frac{1}{2} + \cdots  + \frac{1}{2} + \frac{1}{2} + \frac{1}{2} + \cdots  + \frac{1}{2} + \frac{1}{2} + \frac{1}{2} + \cdots  + \frac{1}{2} + \frac{1}{2} + \frac{1}{2} + \cdots  + \frac{1}{2} + \frac{1}{2} + \frac{1}{2} + \cdots  + \frac{1}{2} + \frac{1}{2} + \frac{1}{2} + \cdots  + \frac{1}{2} + \frac{1}{2} + \frac{1}{2} + \cdots  + \frac{1}{2} + \frac{1}{2} + \frac{1}{2} + \cdots  + \frac{1}{2} + \frac{1}{2} + \frac{1}{2} + \cdots  + \frac{1}{2} + \frac{1}{2} + \frac{1}{2} + \cdots  + \frac{1}{2} + \frac{1}{2} + \frac{1}{2} + \cdots  + \frac{1}{2} + \frac{1}{2} + \frac{1}{2} + \cdots  + \frac{1}{2} + \frac{1}{2} + \frac{1}{2} + \cdots  + \frac{1}{2} + \frac{1}{2} + \frac{1}{2} + \cdots  + \frac{1}{2} + \frac{1}{2} + \frac{1}{2} + \cdots  + \frac{1}{2} + \frac{1}{2} + \frac{1}{2} + \cdots  + \frac{1}{2} + \frac{1}{2} + \frac{1}{2} + \cdots  + \frac{1}{2} + \frac{1}{2} + \frac{1}{2} + \cdots  + \frac{1}{2} + \frac{1}{2} + \frac{1}{2} + \cdots  + \frac{1}{2} + \frac{1}{2} + \frac{1}{2} + \cdots  + \frac{1}{2} + \frac{1}{2} + \frac{1}{2} + \cdots  + \frac{1}{2}+ -\infty ,\quad n = n_{0},n_{0},n_{0},n_{0},n_{0},n_{0},n_{0},n_{0},n_{0},n_{0},n_{0},n_{0},n_{0},n_{0},n_{0},n_{0},n_{0},n_{0},n_{0},n_{0},n_{0},n_{0},n_{0},n_{0},n_{0},n_{0},n_{0},n_{0},n_{0},n_{0},n_{0},n_{0},n_{0},n_{0},n_{0},n_{0},n_{0},n_{0},n_{0},n_{0},n_{0},n_{0},n_{0},n_{0},n_{0},n_{0},n_{0},n_{0},n_{0},n_{0},n_{0},n_{0},n_{0},n_{0},n_{0},n_{0},n_{0},n_{0},n_{0},n_{0},n_{0},n_{0},n_{0},n_{0},n_{0},n_{0},n_{0},n_{0},n_{0},n_{0},n_{0},n_{0},n_{0},n_{0},n_{0},n_{0},n_{0},n_{0},n_{0},n_{0},n_{0},n_{0},n_{0},n_{0},n_{0},n_{0},n_{0},n_{0},n_{0},n_{0},n_{0},n_{0},n_{0},n_{0},n_{0},n_{0},n_{0},n_{0},n_{0},n_{0},n_{0},n_{0},n_{0},n_{0},n_{0},n_{0},n_{0},n_{0},n_{0},n_{0},n_{0},n_{0},n_{0},n_{0},n_{0},n_{0},n_{0},n_{0},n_{0},n_{0},n_{0},n_{0},n_{0},n_{0},n_{0}.
+
+===== PAGE 4 =====
+TỔNG CÔNG TY KHÍ VIÊT NAM - CÔNG TY CỔ PHẦN
+
+Tòa nhà PV GAS Tower, số 673 đường Nguyễn Hữu Thọ
+
+Xã Phước Kiến, huyện Nhà Bè, thành phố Hồ Chí Minh, CHXHCN Việt Nam
+
+BÁO CÁO CỦA BAN TỔNG GIÁM ĐỐC
+
+Ban Tổng Giám đốc Tổng Công ty Khí Việt Nam - Công ty Cổ phần (gọi tắt là "Tổng Công ty") để trình báo cáo này cùng với báo cáo tài chính hợp nhất của Tổng Công ty cho năm tài chính kết thúc ngày 31 tháng 12 năm 2019.
+
+HỘI ĐỒNG QUẢN TRỊ VÀ BAN TỔNG GIÁM ĐỐC
+
+Các thành viên của Hội đồng Quản trị và Ban Tổng Giám đốc Tổng Công ty đã điều hành Tổng Công ty trong năm và đến ngày lập báo cáo tài chính hợp nhất này gồm:
+
+Hội đồng Quản trị
+
+<table><tr><td>Ông Nguyễn Sinh Khang</td><td>Chủ tịch</td></tr><tr><td>Ông Dương Mạnh Sơn</td><td>Thành viên</td></tr><tr><td>Ông Phan Quốc Nghĩa</td><td>Thành viên</td></tr><tr><td>Bà Võ Thị Thanh Ngọc</td><td>Thành viên</td></tr><tr><td>Ông Đỗ Đông Nguyên</td><td>Thành viên</td></tr><tr><td>Ông Trương Hồng Sơn</td><td>Thành viên (bố nhiệm ngày 09 tháng 4 năm 2019)</td></tr><tr><td>Ông Nguyễn Anh Tuân</td><td>Thành viên (miễn nhiệm ngày 09 tháng 4 năm 2019)</td></tr></table>
+
+Ban Tổng Giám đốc
+
+<table><tr><td>Ông Dương Mạnh Sơn</td><td>Tổng Giám đốc</td></tr><tr><td>Ông Nguyễn Thanh Nghị</td><td>Phó Tổng Giám đốc</td></tr><tr><td>Ông Bùi Ngọc Quang</td><td>Phó Tổng Giám đốc</td></tr><tr><td>Ông Nguyễn Quốc Huy</td><td>Phó Tổng Giám đốc</td></tr><tr><td>Ông Phạm Đăng Nam</td><td>Phó Tổng Giám đốc</td></tr><tr><td>Ông Nguyễn Thanh Bình</td><td>Phó Tổng Giám đốc (bổ nhiệm ngày 17 tháng 7 năm 2019)</td></tr><tr><td>Ông Hoàng Văn Quang</td><td>Phó Tổng Giám đốc (bổ nhiệm ngày 18 tháng 02 năm 2020)</td></tr><tr><td>Ông Huỳnh Quang Hải</td><td>Phó Tổng Giám đốc (bổ nhiệm ngày 19 tháng 02 năm 2020)</td></tr><tr><td>Ông Nguyễn Mậu Dũng</td><td>Phó Tổng Giám đốc (miễn nhiệm ngày 29 tháng 7 năm 2019)</td></tr><tr><td>Ông Hồ Tùng Vũ</td><td>Phó Tổng Giám đốc (miễn nhiệm ngày 01 tháng 9 năm 2019)</td></tr></table>
+
+TRÁCH NHIÊM CỦA BAN TỔNG GIÁM ĐỐC
+
+Ban Tổng Giám đốc Tổng Công ty có trách nhiệm lập báo cáo tài chính hợp nhất phần ánh một cách trung thực và hợp lý tinh hình tài chính hợp nhất của Tổng Công ty tại ngày 31 tháng 12 năm 2019, cũng như kết quả hoạt động kinh doanh hợp nhất và tinh hình lưu chuyển tiền tệ hợp nhất cho năm tài chính kết thúc cùng ngày, phù hợp với chuẩn mục kế toán, chế độ kế toán doanh nghiệp Việt Nam và các quy định pháp lý có liên quan đến việc lập và trình bày báo cáo tài chính hợp nhất. Trong việc lập báo cáo tài chính hợp nhất này, Ban Tổng Giám đốc được yêu cầu phải:
+
+1
+
+\( \left\| \frac{1}{2} \right\|_{0}^{2} \)  \( \leqslant \frac{1}{2} \)  \( \leqslant \frac{1}{2} \)  \( \leqslant \frac{1}{2} \)  \( \leqslant \frac{1}{2} \)  \( \leqslant \frac{1}{2} \)
+
+===== PAGE 5 =====
+TỔNG CÔNG TY KHÍ VIỆT NAM - CÔNG TY CỔ PHẦN
+
+Tòa nhà PV GAS Tower, số 673 đường Nguyễn Hữu Thọ
+
+Xã Phước Kiến, huyện Nhà Bè, thành phố Hồ Chí Minh, CHXHCN Việt Nam
+
+BÁO CÁO CỦA BAN TỔNG GIÁM ĐỐC (Tiếp theo)
+
+- Lựa chọn các chính sách kê toán thích hợp và áp dụng các chính sách đó một cách nhất quán;
+
+• Đưa ra các xét đoán và ước tính một cách hợp lý và thận trọng;
+
+- Nếu rõ các nguyên tắc kể toán thích hợp có được tuân thủ hay không, có những áp dụng sai lệch trọng yếu cần được công bố và giải thích trong báo cáo tài chính hợp nhất hay không;
+
+- Lập báo cáo tài chính hợp nhất trên cơ sở hoạt động liên tục trừ trường hợp không thể cho rằng Tổng Công ty sẽ tiếp tục hoạt động kinh doanh; và
+
+- Thiết kê và thực hiện hệ thống kiểm soát nội bộ một cách hữu hiệu cho mục đích lập và trình bày báo cáo tài chính hợp nhất hợp lý nhằm hạn chế rủi ro và gian lận.
+
+Ban Tổng Giám đốc Tổng Công ty chịu trách nhiệm đảm bảo rằng số kể toán được ghi chép một cách phù hợp để phần ánh một cách hợp lý tỉnh hình tài chính hợp nhất của Tổng Công ty ở bất kỳ thời điểm nào và đảm bảo rằng báo cáo tài chính hợp nhất tuân thủ chuẩn mục kể toán, chế độ kể toán doanh nghiệp Việt Nam và các quy định pháp lý có liên quan đến việc lập và trình bày báo cáo tài chính hợp nhất. Ban Tổng Giám đốc cũng chịu trách nhiệm đảm bảo an toàn cho tài sản của Tổng Công ty và thực hiện các biện pháp thích hợp để ngăn chắn và phát hiện các hành vi gian lận và sai phạm khác.
+
+Ban Tổng Giám đốc xác nhận răng Tổng Công ty đã tuân thủ các yêu cầu nêu trên trong việc lập báo cáo tài chính hợp nhất.
+
+Ngày 17 tháng 3 năm 2020
+
+2
+
+J1125
+ÔNG
+TNH
+LOIT
+T N
+DA - T
+
+===== PAGE 6 =====
+Deloitte.
+
+Số: 0668 /VN1A-HN-BC
+
+Công ty TNHH Deloitte Việt Nam
+
+Tăng 15, Tòa nhà Vinaconex,
+
+34 Láng Hạ, Phường Láng Hạ,
+
+Quận Đông Đa, Hà Nội, Việt Nam
+
+Điện thoại: +84 24 7105 0000
+
+Fax : +84 24 6288 5678
+
+www.deloitte.com/vn
+
+BÁO CÁO KIÊM TOÁN ĐỘC LẬP
+
+Kính gửi: Các Cổ đông
+
+Hội đồng Quản trị và Ban Tổng Giám đốc
+
+Tổng Công ty Khí Việt Nam - Công ty Cổ phần
+
+Chúng tôi đã kiểm toán báo cáo tài chính hợp nhất kèm theo của Tổng Công ty Khí Việt Nam - Công ty Cổ phần (gọi tắt là "Tổng Công ty"), được lập ngày 17 tháng 3 năm 2020, từ trang 05 đến trang 45 bao gồm Bảng cân đối kế toán hợp nhất tại ngày 31 tháng 12 năm 2019, Báo cáo kết quả hoạt động kinh doanh hợp nhất, Báo cáo lưu chuyển tiền tệ hợp nhất cho năm tài chính kết thúc cùng ngày và Bản thuyết minh báo cáo tài chính hợp nhất.
+
+Trách nhiệm của Ban Tổng Giám đốc
+
+Ban Tổng Giám đốc Tổng Công ty chịu trách nhiệm về việc lập và trình bày trung thực và hợp lý báo cáo tài chính hợp nhất của Tổng Công ty theo chuẩn mục kế toán, chế độ kế toán doanh nghiệp Việt Nam và các quy định pháp lý có liên quan đến việc lập và trình bày báo cáo tài chính hợp nhất và chịu trách nhiệm về kiểm soát nội bộ mà Ban Tổng Giám đốc xác định là cần thiết để đảm bảo cho việc lập và trình bày báo cáo tài chính hợp nhất không có sai sót trọng yếu do gian lận hoặc nhằm lẫn.
+
+Trách nhiệm của Kiểm toán viên
+
+Trách nhiệm của chúng tôi là đưa ra ý kiến về báo cáo tài chính hợp nhất dựa trên kết quả của cuộc kiểm toán. Chứng tôi đã tiến hành kiểm toán theo các chuẩn mục kiểm toán Việt Nam. Các chuẩn mục này yêu cầu chúng tôi tuân thủ chuẩn mục và các quy định về đạo đức nghề nghiệp, lập kế hoạch và thực hiện cuộc kiểm toán để đạt được sự đảm bảo hợp lý về việc liệu báo cáo tài chính hợp nhất của Tổng Công ty có còn sai sót trọng yếu hay không.
+
+Công việc kiểm toán bao gồm thực hiện các thủ tục nhằm thu thập các bằng chứng kiểm toán về các số liệu và thuyết minh trên báo cáo tài chính hợp nhất. Các thủ tục kiểm toán được lựa chọn dựa trên xét đoán của Kiểm toán viên, bao gồm đánh giá rủi ro có sai sót trọng yếu trong báo cáo tài chính hợp nhất do gian lập hoặc nhằm lỗn. Khi thực hiện đánh giá các rủi ro này, Kiểm toán viên đã xem xét kiểm soát nội bộ của Tổng Công ty liên quan đến việc lập và trình bày báo cáo tài chính hợp nhất trung thực, hợp lý nhằm thiết kế các thủ tục kiểm toán phù hợp với tình hình thực tế, tuy nhiên không nhằm mục đích đưa ra ý kiến về hiệu quả của kiểm soát nội bộ của Tổng Công ty. Công việc kiểm toán cũng bao gồm đánh giá tính thích hợp của các chính sách kế toán được áp dụng và tính hợp lý của các ước tính kế toán của Ban Tổng Giám đốc cũng như đánh giá việc trình bày tổng thể báo cáo tài chính hợp nhất.
+
+Chúng tôi tin tưởng răng các bằng chứng kiểm toán mà chúng tôi đã thu thập được là đầy đủ và thích hợp làm cơ sở cho ý kiến kiểm toán của chúng tôi.
+
+Ý kiến của Kiểm toán viên
+
+Theo ý kiến của chúng tôi, báo cáo tài chính hợp nhất đã phản ánh trung thực và hợp lý, trên các phía cạnh trọng yếu, tỉnh hình tài chính hợp nhất của Tổng Công ty tại ngày 31 tháng 12 năm 2019, cũng như kết quả hoạt động kinh doanh hợp nhất và tình hình lưu chuyển tiền tệ hợp nhất cho năm tài chính kết thúc cùng ngày, phù hợp với chuẩn mực kể toán, chế độ kể toán doanh nghiệp Việt Nam và các quy định pháp lý có liên quan đến việc lập và trình bày báo cáo tài chính hợp nhất.
+
+Tên Deloitte được dùng để chỉ một hoặc nhiều thành viên của Deloitte Touche Tohmatsu Limited, và mang lưới các hăng thành viên - mỗi thành viên là một tổ chức độc lập về mặt pháp lý. Deloitte Touche Tohmatsu Limited (hay "Deloitte Toàn cău") không cung cấp dịch vụ cho các khách hàng. Vui lòng xem tại website www.deloitte.com/about để biết thêm thông tin chỉ tiết.
+
+3
+
+00-C
+TY
+I
+STE
+AM
+HA
+
+===== PAGE 7 =====
+Deloitte.
+
+BÁO CÁO KIÊM TOÁN ĐỘC LẬP (Tiếp theo)
+
+Vấn đề cân nhân mạnh
+
+Chúng tôi lưu ý người đọc đến Thuyết minh 28 trong Bản thuyết minh báo cáo tài chính hợp nhất, trong đó mô tả nghĩa vụ có thể phải nộp cho Ngân sách nhà nước về phần chênh lệch giá khí thị trường và giá khí trong bao tiêu đã ghi nhận doanh thu năm 2019. Ý kiến kiểm toán của chúng tôi không bị thay đổi bởi vấn đề này.
+
+Trần Huy Công
+
+Phó Tổng Giám đốc
+
+Giấy chứng nhận đăng ký hành nghề
+
+kiểm toán số 0891-2018-001-1
+
+CÔNG TY TNHH DELOITTE VIÊT NAM
+
+Ngày 17 tháng 3 năm 2020
+
+Hà Nội, CHXHCN Việt Nam
+
+Vũ Mạnh Hùng
+
+Kiểm toán viên
+
+Giấy chứng nhận đăng ký hành nghề
+
+kiêm toán số 2737-2018-001-1
+
+4
+
+===== PAGE 8 =====
+TỔNG CÔNG TY KHÍ VIỆT NAM - CÔNG TY CỔ PHẦN
+
+Tòa nhà PV GAS Tower, số 673 đường Nguyễn Hữu Thọ
+
+Xã Phước Kiến, huyện Nhà Bè,
+
+Thành phố Hồ Chí Minh, CHXHCN Việt Nam
+
+MÃU SỐ B 01-DN/HN
+
+Ban hành theo Thông tư số 202/2014/TT-BTC
+
+ngày 22 tháng 12 năm 2014 của Bộ Tài chính
+
+BÀNG CÂN ĐỐI KẾ TOÁN HỢP NHẤT
+
+Tại ngày 31 tháng 12 năm 2019
+
+Đơn vị: VND
+
+<table><tr><td colspan="2">TÀI SẢN</td><td>Mã số</td><td>Thuyet minh</td><td>Số cuối năm</td><td>Số đầu năm</td></tr><tr><td>A.</td><td>TÀI SẢN NGÂN HẠN</td><td>100</td><td></td><td>41.815.396.772.232</td><td>40.932.012.643.396</td></tr><tr><td rowspan="3">I.</td><td>Tiền và các khoản tương đương tiền</td><td>110</td><td>4</td><td>4.475.889.167.227</td><td>6.705.645.460.007</td></tr><tr><td>1. Tiền</td><td>111</td><td></td><td>1.151.995.985.522</td><td>1.330.220.087.809</td></tr><tr><td>2. Các khoản tương đương tiền</td><td>112</td><td></td><td>3.323.893.181.705</td><td>5.375.425.372.198</td></tr><tr><td rowspan="2">II.</td><td>Đầu tư tài chính ngắn hạn</td><td>120</td><td>5</td><td>24.915.000.000.000</td><td>21.602.454.000.000</td></tr><tr><td>1. Đầu tư nằm giữ đến ngày đáo hạn</td><td>123</td><td></td><td>24.915.000.000.000</td><td>21.602.454.000.000</td></tr><tr><td rowspan="6">III.</td><td>Các khoản phải thu ngắn hạn</td><td>130</td><td></td><td>10.358.798.068.406</td><td>10.213.710.624.435</td></tr><tr><td>1. Phải thu ngắn hạn của khách hàng</td><td>131</td><td>6</td><td>4.683.939.543.842</td><td>4.638.181.584.290</td></tr><tr><td>2. Trà trước cho người bán ngắn hạn</td><td>132</td><td>7</td><td>844.110.099.287</td><td>91.011.400.518</td></tr><tr><td>3. Phải thu ngắn hạn khác</td><td>136</td><td>8</td><td>5.142.871.041.447</td><td>5.773.843.457.749</td></tr><tr><td>4. Dự phòng phải thu ngắn hạn khó đòi</td><td>137</td><td>9</td><td>(312.832.668.282)</td><td>(290.002.813.032)</td></tr><tr><td>5. Tài sản thiếu chờ xử lý</td><td>139</td><td></td><td>710.052.112</td><td>676.994.910</td></tr><tr><td rowspan="3">IV.</td><td>Hàng tôn kho</td><td>140</td><td>10</td><td>1.574.702.523.108</td><td>1.948.260.051.377</td></tr><tr><td>1. Hàng tôn kho</td><td>141</td><td></td><td>1.645.289.410.396</td><td>2.018.155.350.298</td></tr><tr><td>2. Dự phòng giảm giá hàng tôn kho</td><td>149</td><td></td><td>(70.586.887.288)</td><td>(69.895.298.921)</td></tr><tr><td rowspan="4">V.</td><td>Tài sản ngắn hạn khác</td><td>150</td><td></td><td>491.007.013.491</td><td>461.942.507.577</td></tr><tr><td>1. Chi phí trả trước ngắn hạn</td><td>151</td><td>11</td><td>89.084.285.844</td><td>103.518.806.266</td></tr><tr><td>2. Thuế giá trị gia tăng được khấu trừ</td><td>152</td><td></td><td>367.882.617.612</td><td>299.938.138.296</td></tr><tr><td>3. Thuế và các khoản khác phải thu Nhà nước</td><td>153</td><td>19</td><td>34.040.110.035</td><td>58.485.563.015</td></tr><tr><td>B.</td><td>TÀI SẢN DÀI HẠN</td><td>200</td><td></td><td>20.363.390.617.402</td><td>21.682.407.601.897</td></tr><tr><td rowspan="3">I.</td><td>Các khoản phải thu dài hạn</td><td>210</td><td></td><td>127.884.370.801</td><td>216.829.039.491</td></tr><tr><td>1. Trà trước cho người bán dài hạn</td><td>212</td><td>7</td><td>79.220.337.859</td><td>67.561.613.929</td></tr><tr><td>2. Phải thu dài hạn khác</td><td>216</td><td>8</td><td>48.664.032.942</td><td>149.267.425.562</td></tr><tr><td rowspan="10">II.</td><td>Tài sản cố định</td><td>220</td><td></td><td>15.849.872.770.378</td><td>18.609.210.697.766</td></tr><tr><td>1. Tài sản cố định hữu hình</td><td>221</td><td>12</td><td>15.437.766.089.565</td><td>18.149.000.448.519</td></tr><tr><td>- Nguyên giá</td><td>222</td><td></td><td>48.513.599.270.479</td><td>50.029.678.362.842</td></tr><tr><td>- Giá trị hao mòn lũy kế</td><td>223</td><td></td><td>(33.075.833.180.914)</td><td>(31.880.677.914.323)</td></tr><tr><td>2. Tài sản cố định thuê tài chính</td><td>224</td><td></td><td>-</td><td>20.023.931.745</td></tr><tr><td>- Nguyên giá</td><td>225</td><td></td><td>-</td><td>49.178.501.219</td></tr><tr><td>- Giá trị hao mòn lũy kế</td><td>226</td><td></td><td>-</td><td>(29.154.569.474)</td></tr><tr><td>3. Tài sản cố định vô hình</td><td>227</td><td>13</td><td>412.106.680.813</td><td>440.186.317.502</td></tr><tr><td>- Nguyên giá</td><td>228</td><td></td><td>539.724.659.083</td><td>550.726.305.369</td></tr><tr><td>- Giá trị hao mòn lũy kế</td><td>229</td><td></td><td>(127.617.978.270)</td><td>(110.539.987.867)</td></tr><tr><td rowspan="3">III.</td><td>Bất động sản đầu tư</td><td>230</td><td></td><td>23.186.576.974</td><td>24.014.662.414</td></tr><tr><td>- Nguyên giá</td><td>231</td><td></td><td>26.427.782.233</td><td>26.427.782.233</td></tr><tr><td>- Giá trị hao mòn lũy kế</td><td>232</td><td></td><td>(3.241.205.259)</td><td>(2.413.119.819)</td></tr><tr><td rowspan="2">IV.</td><td>Tài sản dở dang dài hạn</td><td>240</td><td></td><td>3.020.872.112.628</td><td>1.235.198.326.718</td></tr><tr><td>1. Chi phí xây dựng cơ bản dở dang</td><td>242</td><td>14</td><td>3.020.872.112.628</td><td>1.235.198.326.718</td></tr><tr><td rowspan="4">V.</td><td>Đầu tư tài chính dài hạn</td><td>250</td><td>5</td><td>404.693.951.815</td><td>63.019.500.678</td></tr><tr><td>1. Đầu tư vào công ty liên doanh, liên kết</td><td>252</td><td></td><td>394.693.951.815</td><td>53.019.500.678</td></tr><tr><td>2. Đầu tư góp vốn vào đơn vị khác</td><td>253</td><td></td><td>35.000.000.000</td><td>85.000.000.000</td></tr><tr><td>3. Dự phòng đầu tư tài chính dài hạn</td><td>254</td><td></td><td>(25.000.000.000)</td><td>(75.000.000.000)</td></tr><tr><td rowspan="4">VI.</td><td>Tài sản dài hạn khác</td><td>260</td><td></td><td>936.880.834.806</td><td>1.534.135.374.830</td></tr><tr><td>1. Chi phí trả trước dài hạn</td><td>261</td><td>11</td><td>823.187.362.762</td><td>1.324.485.607.020</td></tr><tr><td>2. Tài sản thuê thu nhập hoãn lại</td><td>262</td><td>15</td><td>30.489.957.914</td><td>43.975.357.039</td></tr><tr><td>3. Lợi thể thương mại</td><td>269</td><td>17</td><td>83.203.514.130</td><td>165.674.410.771</td></tr><tr><td colspan="2">TỔNG CỘNG TÀI SẢN (270=100+200)</td><td>270</td><td></td><td>62.178.787.389.634</td><td>62.614.420.245.293</td></tr></table>
+
+Các thuyết minh kèm theo là một bộ phận hợp thành của báo cáo tài chính hợp nhất này
+
+5
+
+===== PAGE 9 =====
+TỔNG CÔNG TY KHÍ VIỆT NAM - CÔNG TY CỔ PHẦN
+
+Tòa nhà PV GAS Tower, số 673 đường Nguyễn Hữu Thọ
+
+Xã Phước Kiên, huyện Nhà Bè,
+
+Thành phố Hồ Chí Minh, CHXHCN Việt Nam
+
+MÃU SỐ B 01-DN/HN
+
+Ban hành theo Thông tư số 202/2014/TT-BTC
+
+ngày 22 tháng 12 năm 2014 của Bộ Tài chính
+
+BÀNG CÂN ĐỔI KẾ TOÁN HỢP NHẤT (Tiếp theo)
+
+Tại ngày 31 tháng 12 năm 2019
+
+<table><tr><td colspan="2">NGUỒN VỐN</td><td>Mã số</td><td>Thuyết minh</td><td>Số cuối năm</td><td>Số đầu năm</td></tr><tr><td>C.</td><td>NỘ PHẢI TRẢ</td><td>300</td><td></td><td>12.564.256.032.003</td><td>15.747.295.132.679</td></tr><tr><td rowspan="11">I.</td><td>Nợ ngắn hạn</td><td>310</td><td></td><td>9.964.436.306.143</td><td>11.846.614.031.313</td></tr><tr><td>1. Phải trả người bán ngắn hạn</td><td>311</td><td>18</td><td>1.913.892.958.734</td><td>2.663.844.385.208</td></tr><tr><td>2. Người mua trả tiền trước ngắn hạn</td><td>312</td><td></td><td>202.837.473.408</td><td>237.513.454.863</td></tr><tr><td>3. Thuế và các khoản phải nộp Nhà nước</td><td>313</td><td>19</td><td>876.865.173.928</td><td>759.700.530.897</td></tr><tr><td>4. Phải trả người lao động</td><td>314</td><td></td><td>118.098.347.249</td><td>188.077.461.797</td></tr><tr><td>5. Chi phí phải trả ngắn hạn</td><td>315</td><td>20</td><td>4.047.844.728.329</td><td>5.488.545.648.029</td></tr><tr><td>6. Doanh thu chưa thực hiện ngắn hạn</td><td>318</td><td></td><td>936.607.573</td><td>1.481.038.533</td></tr><tr><td>7. Phải trả ngắn hạn khác</td><td>319</td><td>21</td><td>1.029.191.512.264</td><td>658.389.914.253</td></tr><tr><td>8. Vay và nợ thuê tài chính ngắn hạn</td><td>320</td><td>22</td><td>1.340.567.850.126</td><td>1.489.867.272.234</td></tr><tr><td>9. Dự phòng phải trả ngắn hạn</td><td>321</td><td></td><td>9.050.349.783</td><td>-</td></tr><tr><td>10. Quỹ khen thưởng, phúc lợi</td><td>322</td><td></td><td>425.151.304.749</td><td>359.194.325.499</td></tr><tr><td rowspan="7">II.</td><td>Nợ dài hạn</td><td>330</td><td></td><td>2.599.819.725.860</td><td>3.900.681.101.366</td></tr><tr><td>1. Doanh thu chưa thực hiện dài hạn</td><td>336</td><td></td><td>22.464.760.780</td><td>23.328.790.844</td></tr><tr><td>2. Phải trả dài hạn khác</td><td>337</td><td>21</td><td>86.941.807.721</td><td>247.137.862.278</td></tr><tr><td>3. Vay và nợ thuê tài chính dài hạn</td><td>338</td><td>22</td><td>1.455.930.000.000</td><td>3.395.742.808.039</td></tr><tr><td>4. Thuế thu nhập hoãn lại phải trả</td><td>341</td><td>24</td><td>182.000.454.368</td><td>168.503.666.569</td></tr><tr><td>5. Dự phòng phải trả dài hạn</td><td>342</td><td>23</td><td>836.651.603.962</td><td>45.337.438.542</td></tr><tr><td>6. Quỹ phát triển khoa học và công nghệ</td><td>343</td><td></td><td>15.831.099.029</td><td>20.630.535.094</td></tr><tr><td>D.</td><td>VỐN CHỦ SỞ HỮU</td><td>400</td><td></td><td>49.614.531.357.631</td><td>46.867.125.112.614</td></tr><tr><td rowspan="11">I.</td><td>Vốn chủ sở hữu</td><td>410</td><td>25</td><td>49.614.531.357.631</td><td>46.867.125.112.614</td></tr><tr><td>1. Vốn góp của chủ sở hữu</td><td>411</td><td></td><td>19.139.500.000.000</td><td>19.139.500.000.000</td></tr><tr><td>- Cổ phiếu phổ thông có quyền biểu quyết</td><td>411a</td><td></td><td>19.139.500.000.000</td><td>19.139.500.000.000</td></tr><tr><td>2. Thắng dư vốn cổ phần</td><td>412</td><td></td><td>210.679.541.297</td><td>210.679.541.297</td></tr><tr><td>3. Vốn khác của chủ sở hữu</td><td>414</td><td></td><td>196.658.562.648</td><td>255.319.038.873</td></tr><tr><td>4. Quỹ đầu tư phát triển</td><td>418</td><td></td><td>18.844.379.948.876</td><td>14.862.130.022.329</td></tr><tr><td>5. Quỹ khác thuộc vốn chủ sở hữu</td><td>420</td><td></td><td>6.287.318.113</td><td>6.287.318.113</td></tr><tr><td>6. Lợi nhuận sau thuế chưa phân phối</td><td>421</td><td></td><td>10.109.461.187.456</td><td>10.598.838.456.543</td></tr><tr><td>- Lợi nhuận sau thuế chưa phân phối lũy kế đến cuối nằm trước</td><td>421a</td><td></td><td>59.908.671.304</td><td>3.110.217.713.815</td></tr><tr><td>- Lợi nhuận sau thuế chưa phân phối năm nay</td><td>421b</td><td></td><td>10.049.552.516.152</td><td>7.488.620.742.728</td></tr><tr><td>7. Lợi ích cổ đông không kiểm soát</td><td>429</td><td></td><td>1.107.564.799.241</td><td>1.794.370.735.459</td></tr><tr><td colspan="2">TỔNG CÔNG NGUỒN VỐN (440=300+400)</td><td>440</td><td></td><td>62.178.787.389.634</td><td>62.614.420.245.293</td></tr></table>
+
+Đặng Thị Hồng Yên
+Người lập biểu
+
+Nguyễn Công Luận
+Kế toán trường
+
+Dương Mạnh Sơn
+Tổng Giám đốc
+
+Ngày 17 tháng 3 năm 2020
+
+Các thuyết minh kèm theo là một bộ phận hợp thành của báo cáo tài chính hợp nhất này
+
+6
+
+\( \left\| \frac{m}{3} \right\| \leq \frac{m}{2} \)
+
+===== PAGE 10 =====
+TỔNG CÔNG TY KHÍ VIỆT NAM - CÔNG TY CỔ PHẦN
+
+Tòa nhà PV GAS Tower, số 673 đường Nguyễn Hữu Thọ Xã Phước Kiến, huyện Nhà Bè,
+
+Thành phố Hồ Chí Minh, CHXHCN Việt Nam
+
+MÃU SỐ B 02-DN/HN
+
+Ban hành theo Thông tư số 202/2014/TT-BTC
+
+ngày 22 tháng 12 năm 2014 của Bộ Tài chính
+
+BÁO CÁO KẾT QUẢ HOẠT ĐỘNG KINH DOANH HỢP NHẤT
+
+Cho năm tài chính kết thúc ngày 31 tháng 12 năm 2019
+
+Đơn vị: VND
+
+<table><tr><td>CHỈ TIÊU</td><td>Mã số</td><td>Thuyết minh</td><td>Năm nay</td><td>Năm trước</td></tr><tr><td>1. Doanh thu bán hàng và cung cấp dịch vụ</td><td>01</td><td></td><td>75.310.106.606.268</td><td>75.976.345.569.671</td></tr><tr><td>2. Các khoản giảm trừ doanh thu</td><td>02</td><td></td><td>304.809.430.862</td><td>364.799.330.259</td></tr><tr><td>3. Doanh thu thuần về bán hàng và cung cấp dịch vụ (10=01-02)</td><td>10</td><td>28</td><td>75.005.297.175.406</td><td>75.611.546.239.412</td></tr><tr><td>4. Giá vốn hàng bán và dịch vụ cung cấp</td><td>11</td><td>29</td><td>58.086.688.538.104</td><td>58.120.227.682.208</td></tr><tr><td>5. Lợi nhuận gộp về bán hàng và cung cấp dịch vụ (20=10-11)</td><td>20</td><td></td><td>16.918.608.637.302</td><td>17.491.318.557.204</td></tr><tr><td>6. Doanh thu hoạt động tài chính</td><td>21</td><td>30</td><td>1.664.550.734.786</td><td>1.476.548.445.639</td></tr><tr><td>7. Chi phí tài chính</td><td>22</td><td>31</td><td>240.940.076.023</td><td>616.615.024.877</td></tr><tr><td>- Trong đó: Chi phí lãi vay</td><td>23</td><td></td><td>197.609.807.262</td><td>440.018.194.452</td></tr><tr><td>8. Phần (lỗ) trong công ty liên doanh, liên kết</td><td>24</td><td></td><td>(504.636.282)</td><td>(3.573.202.455)</td></tr><tr><td>9. Chi phí bán hàng</td><td>25</td><td>32</td><td>2.394.374.579.372</td><td>2.638.679.383.447</td></tr><tr><td>10. Chi phí quản lý doanh nghiệp</td><td>26</td><td>32</td><td>875.266.258.698</td><td>1.127.931.765.213</td></tr><tr><td>11. Lợi nhuận thuần từ hoạt động kinh doanh (30=20+(21-22)+24-(25+26))</td><td>30</td><td></td><td>15.072.073.821.713</td><td>14.581.067.626.851</td></tr><tr><td>12. Thu nhập khác</td><td>31</td><td>33</td><td>16.104.369.827</td><td>39.088.905.640</td></tr><tr><td>13. Chi phí khác</td><td>32</td><td>34</td><td>19.915.348.120</td><td>80.234.601.606</td></tr><tr><td>14. (Lỗ) khác (40=31-32)</td><td>40</td><td></td><td>(3.810.978.293)</td><td>(41.145.695.966)</td></tr><tr><td>15. Tổng lợi nhuận kế toán trước thuế (50=30+40)</td><td>50</td><td></td><td>15.068.262.843.420</td><td>14.539.921.930.885</td></tr><tr><td>16. Chi phí thuế thu nhập doanh nghiệp hiện hành</td><td>51</td><td>35</td><td>2.967.381.924.337</td><td>2.778.439.374.778</td></tr><tr><td>17. Chi phí thuế thu nhập doanh nghiệp hoãn lại</td><td>52</td><td></td><td>15.229.609.228</td><td>52.917.076.131</td></tr><tr><td>18. Lợi nhuận sau thuế thu nhập doanh nghiệp (60=50-51-52)</td><td>60</td><td></td><td>12.085.651.309.855</td><td>11.708.565.479.976</td></tr><tr><td>18.1. Lợi nhuận sau thuế của Công ty mẹ</td><td>61</td><td></td><td>11.902.248.028.143</td><td>11.453.968.895.042</td></tr><tr><td>18.2. Lợi nhuận sau thuế của cổ đông không kiểm soát</td><td>62</td><td></td><td>183.403.281.712</td><td>254.596.584.934</td></tr><tr><td>19. Lãi cơ bản trên cổ phiếu</td><td>70</td><td>36</td><td></td><td>5.838</td></tr></table>
+
+Đặng Thị Hồng Yên
+Người lập biểu
+
+Ngày 17 tháng 3 năm 2020
+
+Nguyễn Công Luận
+Kế toán trường
+
+Dương Mạnh Sơn
+Tổng Giám đốc
+
+Các thuyết minh kèm theo là một bộ phận hợp thành của báo cáo tài chính hợp nhất này
+
+7
+
+011
+ÔN
+TN
+LQ
+ÊT
+DA
+02
+CÔN
+HÍ
+N
+NG
+PH
+PH
+
+===== PAGE 11 =====
+TỔNG CÔNG TY KHÍ VIỆT NAM - CÔNG TY CỔ PHẦN
+
+Tòa nhà PV GAS Tower, số 673 đường Nguyễn Hữu Thọ Xã Phước Kiến, huyện Nhà Bè, Thành phố Hồ Chí Minh, CHXHCN Việt Nam
+
+MÃU SỐ B 03-DN/HN
+
+Ban hành theo Thông tư số 202/2014/TT-BTC ngày 22 tháng 12 năm 2014 của Bộ Tài chính
+
+BÁO CÁO LƯU CHUYÊN TIÊN TÊ HỢP NHẤT
+
+Cho năm tài chính kết thúc ngày 31 tháng 12 năm 2019
+
+Đơn vị: VND
+
+<table><tr><td>CHỈ TIÊU</td><td>Mã số</td><td>Năm nay</td><td>Năm trước</td></tr><tr><td colspan="4">I. LƯU CHUYỄN TIỀN TỪ HOẠT ĐỘNG KINH DOANH</td></tr><tr><td>1. Lợi nhuận trước thuế</td><td>01</td><td>15.068.262.843.420</td><td>14.539.921.930.885</td></tr><tr><td colspan="4">2. Điều chỉnh cho các khoản:</td></tr><tr><td>Khấu hao tài sản cố định</td><td>02</td><td>2.691.351.575.784</td><td>2.828.502.305.719</td></tr><tr><td>Các khoản dự phòng</td><td>03</td><td>836.351.949.750</td><td>23.994.520.943</td></tr><tr><td>(Lãi)/Lỗ chênh lệch tỷ giá hồi đoái do đánh giá lại các khoản mục tiền tệ có gốc ngoại tệ</td><td>04</td><td>(17.215.375.585)</td><td>106.170.897.202</td></tr><tr><td>(Lãi) từ hoạt động đầu tư</td><td>05</td><td>(1.584.783.105.309)</td><td>(1.400.876.798.566)</td></tr><tr><td>Chi phí lãi vay</td><td>06</td><td>197.609.807.262</td><td>440.018.194.452</td></tr><tr><td>Các khoản điều chỉnh khác</td><td>07</td><td>-</td><td>3.086.084.912</td></tr><tr><td>3. Lợi nhuận từ hoạt động kinh doanh trước thay đổi vốn lưu động</td><td>08</td><td>17.191.577.695.322</td><td>16.540.817.135.547</td></tr><tr><td>Thay đổi các khoản phải thu</td><td>09</td><td>(702.159.409.023)</td><td>(1.147.989.882.295)</td></tr><tr><td>Thay đổi hàng tồn kho</td><td>10</td><td>277.061.101.494</td><td>(280.603.136.858)</td></tr><tr><td>Thay đổi các khoản phải trả (Không kể lãi vay phải trả, thuế thu nhập doanh nghiệp phải nộp)</td><td>11</td><td>(401.099.202.738)</td><td>1.525.692.316.225</td></tr><tr><td>Thay đổi chi phí trả trước</td><td>12</td><td>(142.271.505.195)</td><td>(266.851.684.236)</td></tr><tr><td>Tiền lãi vay đã trả</td><td>14</td><td>(275.508.833.227)</td><td>(447.431.985.821)</td></tr><tr><td>Thuế thu nhập doanh nghiệp đã nộp</td><td>15</td><td>(2.853.005.601.343)</td><td>(3.112.740.156.514)</td></tr><tr><td>Tiền thu khác từ hoạt động kinh doanh</td><td>16</td><td>-</td><td>1.102.418.960</td></tr><tr><td>Tiền chi khác cho hoạt động kinh doanh</td><td>17</td><td>(413.676.152.000)</td><td>(390.107.370.571)</td></tr><tr><td>Lưu chuyển tiền thuần từ hoạt động kinh doanh</td><td>20</td><td>12.680.918.093.290</td><td>12.421.887.654.437</td></tr><tr><td colspan="4">II. LƯU CHUYỄN TIỀN TỪ HOẠT ĐỘNG ĐẦU TƯ</td></tr><tr><td>1. Tiền chi mua sắm, xây dựng TSCĐ và các tài sản dài hạn khác</td><td>21</td><td>(2.690.311.002.689)</td><td>(692.463.537.696)</td></tr><tr><td>2. Tiền thu thanh lý, nhượng bán TSCĐ và các tài sản dài hạn khác</td><td>22</td><td>1.475.305.521</td><td>19.260.426.842</td></tr><tr><td>3. Tiền chi cho vay, mua công cụ nợ của đơn vị khác</td><td>23</td><td>(37.350.400.000.000)</td><td>(18.707.004.000.000)</td></tr><tr><td>4. Tiền thu hồi cho vay, bán lại công cụ nợ của đơn vị khác</td><td>24</td><td>34.030.200.000.000</td><td>10.681.900.000.000</td></tr><tr><td>5. Tiền thu hồi đầu tư vốn vào đơn vị khác</td><td>26</td><td>-</td><td>25.422.359.175</td></tr><tr><td>6. Thu lãi tiền cho vay, cổ tức và lợi nhuận được chia</td><td>27</td><td>1.470.287.703.043</td><td>1.358.375.796.557</td></tr><tr><td>7. Số dư Tiền và tương đương tiền giảm do Tổng Công ty không còn quyền kiểm soát tại Công ty con</td><td></td><td>(183.385.237.974)</td><td>-</td></tr><tr><td>Lưu chuyển tiền thuần từ hoạt động đầu tư</td><td>30</td><td>(4.722.133.232.099)</td><td>(7.314.508.955.122)</td></tr></table>
+
+Các thuyết minh kèm theo là một bộ phận hợp thành của báo cáo tài chính hợp nhất này
+
+8
+
+250
+G
+HH
+IT
+NA
+-T.F
+
+A
+
+===== PAGE 12 =====
+TỔNG CÔNG TY KHÍ VIÊT NAM - CÔNG TY CỔ PHẦN
+
+Tòa nhà PV GAS Tower, số 673 đường Nguyễn Hữu Thọ
+
+Xã Phước Kiến, huyện Nhà Bè,
+
+Thành phố Hồ Chí Minh, CHXHCN Việt Nam
+
+MÃU SÕ B 03-DN/HN
+
+Ban hành theo Thông tư số 202/2014/TT-BTC
+
+ngày 22 tháng 12 năm 2014 của Bộ Tài chính
+
+BÁO CÁO LƯU CHUYÊN TIỀN TỆ HỢP NHẤT (Tiếp theo)
+
+Cho năm tài chính kết thúc ngày 31 tháng 12 năm 2019
+
+Đơn vị: VND
+
+<table><tr><td>CHỈ TIÊU</td><td>Mã số</td><td>Năm nay</td><td>Năm trước</td></tr><tr><td colspan="4">III. LƯU CHUYỄN TIỀN TỪ HOẠT ĐỘNG TÀI CHÍNH</td></tr><tr><td>1. Tiền thu từ phát hành cổ phiếu, nhận vốn góp của chủ sở hữu</td><td>31</td><td>-</td><td>60.952.471.943</td></tr><tr><td>2. Tiền thu từ đi vay</td><td>33</td><td>2.344.153.043.210</td><td>2.524.747.821.473</td></tr><tr><td>3. Tiền trả nợ gốc vay</td><td>34</td><td>(4.294.384.540.138)</td><td>(6.822.151.718.673)</td></tr><tr><td>4. Tiền trả nợ gốc thuê tài chính</td><td>35</td><td>(7.899.885.693)</td><td>(12.799.224.326)</td></tr><tr><td>5. Cổ tức, lợi nhuận đã trả cho chủ sở hữu</td><td>36</td><td>(8.229.985.000.000)</td><td>(7.655.800.000.000)</td></tr><tr><td>Lưu chuyển tiền thuần từ hoạt động tài chính</td><td>40</td><td>(10.188.116.382.621)</td><td>(11.905.050.649.583)</td></tr><tr><td>Lưu chuyển tiền thuần trong năm (50=20+30+40)</td><td>50</td><td>(2.229.331.521.430)</td><td>(6.797.671.950.268)</td></tr><tr><td>Tiền và tương đương tiền đầu năm</td><td>60</td><td>6.705.645.460.007</td><td>13.502.016.964.678</td></tr><tr><td>Ảnh hưởng của thay đổi tỷ giá hối đoái quy đổi ngoại tệ</td><td>61</td><td>(424.771.350)</td><td>1.300.445.597</td></tr><tr><td>Tiền và tương đương tiền cuối năm (70=50+60+61)</td><td>70</td><td>4.475.889.167.227</td><td>6.705.645.460.007</td></tr></table>
+
+Đặng Thị Hồng Yên
+Người lập biểu
+
+Ngày 17 tháng 3 năm 2020
+
+Nguyễn Công Luận
+Kế toán trường
+
+Dương Mạnh Sơn
+Tổng Giám đốc
+
+Các thuyết minh kèm theo là một bộ phận hợp thành của báo cáo tài chính hợp nhất này
+
+9
+
+===== PAGE 13 =====
+TỔNG CÔNG TY KHÍ VIỆT NAM - CÔNG TY CỔ PHẦN
+
+Tòa nhà PV GAS Tower, số 673 đường Nguyễn Hữu Thọ
+
+Xã Phước Kiến, huyện Nhà Bè,
+
+Thành phố Hồ Chí Minh, CHXHCN Việt Nam
+
+MÃU SÕ B 09-DN/HN
+
+Ban hành theo Thông tư số 202/2014/TT-BTC
+
+ngày 22 tháng 12 năm 2014 của Bộ Tài chính
+
+THUYÊT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT
+
+Các thuyết minh này là một bộ phận hợp thành và căn được đọc đồng thời với báo cáo tài chính hợp nhất kèm theo
+
+1. THÔNG TIN KHÁI QUÁT
+
+Hình thức sở hữu vốn
+
+Tổng Công ty Khí Việt Nam - Công ty Cổ phần (goi tất là "Tổng Công ty") tiền thân là Tổng Công ty Khí Việt Nam - Công ty TNHH Một thành viên - là công ty con của Tập đoàn Dầu khí Việt Nam, được thành lập theo Quyết định số 2232/QĐ-DKVN ngày 18 tháng 7 năm 2007 của Tập đoàn Dầu khí Việt Nam và Giấy chứng nhận đăng ký doanh nghiệp số 3500102710 cấp lần đầu ngày 17 tháng 01 năm 2007.
+
+Tổng Công ty Khí Việt Nam - Công ty TNHH Một thành viên chính thức chuyển sang hoạt động dưới hình thức công ty cổ phần với tên gọi Tổng Công ty Khí Việt Nam - Công ty Cổ phần theo Giấy chứng nhận đăng ký doanh nghiệp do Sở Kế hoạch và Đầu tư thành phố Hồ Chí Minh cấp ngày 16 tháng 5 năm 2011 và các Giấy chứng nhận đăng ký doanh nghiệp sửa đổi với vốn điều lệ là 19.139,5 tỷ đồng.
+
+Trụ sở chính của Tổng Công ty đặt tại Tòa nhà PV GAS Tower, số 673 đường Nguyễn Hữu Thọ, xã Phước Kiến, huyện Nhà Bè, thành phố Hồ Chí Minh, Việt Nam.
+
+Ngành nghề kinh doanh và hoạt động chính
+
+Ngành nghề kinh doanh của Tổng Công ty bao gồm: thu gom, vận chuyển, tàng trữ khí và sản phẩm khí. Sản xuất khí đốt, phân phối nhiên liệu khí bằng đường ống, chi tiết: Chế biến khí và sản phẩm khí. Bán buôn nhiên liệu rắn, lòng, khí và các sản phẩm liên quan, chi tiết: Tổ chức phân phối và kinh doanh các sản phẩm khí khô, khí LNG, CNG, LPG, Condensate; Xuất nhập khẩu các sản phẩm khí khô, LNG, LPG, Condensate. Hoạt động kiến trúc và tư vấn kỹ thuật liên quan, chi tiết: Tư vấn đầu tư, thiết kế xây dựng công trình công nghiệp có khí chế tạo. Giám sát công tác xây dựng và hoàn thiện công trình công nghiệp, dân dụng. Hoạt động xây dựng chuyên dụng khác, chi tiết: Đầu tư xây dựng, quản lý vận hành, bảo dưỡng, sửa chữa các công trình, dự án khí và liên quan đến khí. Bán buôn chuyên doanh khác chưa được phân vào đầu, chi tiết: Kinh doanh vật tư, thiết bị, hóa chất trong lĩnh vực chế biến và sử dụng khí và các sản phẩm khí, nhập vật tư, thiết bị và phương tiện phục vụ ngành khí. Kinh doanh bất động sản, quyền sử dụng đất thuộc chủ sở hữu, chủ sử dụng hoặc đi thuê, chi tiết: Kinh doanh dịch vụ kho bãi, cảng. Kinh doanh bất động sản. Đầu tư có sở hạ tầng hệ thống phân phối sản phẩm khí khô, khí lòng từ khẩu nguồn từ cung cấp đến khẩu phân phối bán buôn, bán lè. Nghiên cứu và phát triển thực nghiệm khoa học tự nhiên và kỹ thuật, chi tiết: Nghiên cứu ứng dụng trong lĩnh vực khí, cải tạo công trình khí. Cung cấp dịch vụ trong lĩnh vực khí, cải tạo, bảo dưỡng, sửa chữa động cơ, lắp đặt thiết bị chuyển đổi cho phương tiện giao thông vận tải và nông lâm ngư nghiệp sử dụng nhiên liệu khí. Vận tài hàng hóa bằng đường bộ, chi tiết: Dịch vụ vận tải và các phương tiện có sử dụng nhiên liệu khí, vận chuyển sản phẩm khí (kinh doanh dịch vụ vận chuyển các sản phẩm khí). Cho thuê máy móc, thiết bị, phương tiện, công trình khí hoặc liên quan đến khí.
+
+Hoạt động chính của Tổng Công ty là thu gom, nhập khẩu, vận chuyển, tàng trữ, chế biến, phân phối, kinh doanh khí và các sản phẩm khí.
+
+Chu kỳ sản xuất, kinh doanh thông thường
+
+Chu kỳ sản xuất, kinh doanh thông thường của Tổng Công ty được thực hiện trong thời gian không quá 12 tháng.
+
+10
+
+===== PAGE 14 =====
+TỔNG CÔNG TY KHÍ VIỆT NAM - CÔNG TY CỔ PHẦN
+
+THUYÊT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (Tiếp theo)
+
+MÃU SÕ B 09-DN/HN
+
+Câu trúc doanh nghiệp
+
+Các đơn vị trực thuộc Tổng Công ty:
+
+- Công ty Vận chuyển Khí Đông Nam Bộ;
+
+- Công ty Chế biến Khí Vũng Tàu;
+
+- Công ty Kinh doanh Sản phẩm Khí;
+
+- Công ty Dịch vụ Khí;
+
+- Công ty Quản lý Dự án Khí;
+
+- Ban quản lý Dự án Khí Đông Nam Bộ;
+
+- Công ty Khí Cà Mau;
+
+- Ban quản lý Dư án Nhà máy Xử lý Khí Cà Mau;
+
+- Chi nhánh khí Hải Phòng
+
+- Chi nhánh kinh doanh LNG.
+
+Tổng Công ty có 06 công ty con, 01 công ty liên kết và 01 công ty liên doanh. Thông tin khái quát về các công ty con, công ty liên kết và công ty liên doanh của Tổng Công ty như sau:
+
+<table><tr><td>Tên công ty</td><td>Tên viết tắt</td><td>Nơi thành lập và hoạt động</td><td>Tỷ lệ sở hữu</td><td>Tỷ lệ quyền biểu quyết</td><td>Hoạt động chính</td></tr><tr><td colspan="6">Công ty con</td></tr><tr><td>Công ty Cổ phần Kinh doanh Khí Miền Bắc</td><td>PV Gas North</td><td>Hà Nội</td><td>51,31%</td><td>51,31%</td><td>Phân phối khí hóa lỏng</td></tr><tr><td>Công ty Cổ phần Phân phối Khí thấp áp Dầu khí Việt Nam</td><td>PV Gas D</td><td>TP. Hồ Chí Minh</td><td>50,50%</td><td>50,50%</td><td>Phân phối khí thấp áp</td></tr><tr><td>Công ty Cổ phần Bọc ống Dầu khí Việt Nam</td><td>PV Coating</td><td>Vũng Tàu</td><td>52,94%</td><td>52,94%</td><td>Kinh doanh dịch vụ bọc ống</td></tr><tr><td>Công ty Cổ phần Sản xuất Ống thép Dầu khí Việt Nam</td><td>PV Pipe</td><td>Tiền Giang</td><td>99,99%</td><td>99,99%</td><td>Sản xuất ống thép</td></tr><tr><td>Công ty Cổ phần CNG Việt Nam</td><td>CNG Việt Nam</td><td>TP. Hồ Chí Minh</td><td>56,00%</td><td>56,00%</td><td>Sản xuất khí thiên nhiên</td></tr><tr><td>Công ty Cổ phần LNG Việt Nam</td><td>LNG Việt Nam</td><td>TP. Hồ Chí Minh</td><td>51,00%</td><td>51,00%</td><td>Sản xuất khí thiên nhiên</td></tr><tr><td colspan="6">Công ty liên doanh, công ty liên kết</td></tr><tr><td>Công ty Cổ phần Kinh doanh Khí Miền Nam</td><td>PV Gas South</td><td>TP. Hồ Chí Minh</td><td>35,26%</td><td>35,26%</td><td>Phân phối khí hóa lỏng</td></tr><tr><td>Công ty TNHH Khí nhiên liệu Giao thông Vận tải PVGazprom</td><td>PVGazprom</td><td>TP. Hồ Chí Minh</td><td>29,00%</td><td>29,00%</td><td>Kinh doanh khí</td></tr></table>
+
+Thuyết minh về khả năng so sánh thông tin trên báo cáo tài chính hợp nhất
+
+Số liệu so sánh là số liệu của báo cáo tài chính hợp nhất đã được kiểm toán cho năm tài chính kết thúc ngày 31 tháng 12 năm 2018.
+
+2. CƠ SỞ LẬP BÁO CÁO TÀI CHÍNH HỢP NHẤT VÀ NĂM TÀI CHÍNH
+
+Cơ sở lập báo cáo tài chính hợp nhất
+
+Báo cáo tài chính hợp nhất kèm theo được trình bày bằng Đồng Việt Nam (VND), theo nguyên tắc giá gốc và phù hợp với chuẩn mục kể toán, chế độ kể toán doanh nghiệp Việt Nam và các quy định pháp lý có liên quan đến việc lập và trình bày báo cáo tài chính hợp nhất.
+
+11
+
+===== PAGE 15 =====
+TỔNG CÔNG TY KHÍ VIỆT NAM - CÔNG TY CỔ PHẦN
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (Tiếp theo)
+
+MÃU SỐ B 09-DN/HN
+
+Báo cáo tài chính hợp nhất kèm theo không nhằm phản ánh tình hình tài chính hợp nhất, kết quả hoạt động kinh doanh hợp nhất và tình hình lưu chuyển tiền tệ hợp nhất theo các nguyên tắc và thông lệ kế toán được chấp nhận chung tại các nước khác ngoài Việt Nam.
+
+Năm tài chính
+
+Năm tài chính của Tổng Công ty bắt đầu từ ngày 01 tháng 01 và kết thúc vào ngày 31 tháng 12.
+
+3. TÓM TẮT CÁC CHÍNH SÁCH KẾ TOÁN CHỦ YÊU
+
+Sau đây là các chính sách kể toán chủ yếu được Tổng Công ty áp dụng trong việc lập báo cáo tài chính hợp nhất:
+
+Ước tính kê toán
+
+Việc lập báo cáo tài chính hợp nhất tuân thủ theo chuẩn mục kê toán, chế độ kê toán doanh nghiệp Việt Nam và các quy định pháp lý có liên quan đến việc lập và trình bày báo cáo tài chính hợp nhất yêu cầu Bam Tổng Giám đốc phải có những ước tính và giả định ảnh hưởng đến số liệu báo cáo về công nợ, tài sản và việc trình bày các khoản công nợ và tài sản tiềm tàng tại ngày lập báo cáo tài chính hợp nhất cũngng như các số liệu báo cáo về doanh thu và chi phí trong suốt năm tài chính. Mặtc dù các ước tính kê toán được lập bằng tất cả sự hiểu biết của Bam Tổng Giám đốc, số thực tế phát sinh có thể khác với các ước tính, giả định đặt ra.
+
+Cơ sở hợp nhất báo cáo tài chính
+
+Báo cáo tài chính hợp nhất bao gồm báo cáo tài chính riêng của Tổng Công ty và báo cáo tài chính của các công ty do Tổng Công ty kiểm soát (các công ty con) được lập cho năm tài chính kết thúc ngày 31 tháng 12 năm 2019. Việc kiểm soát này đạt được khi Tổng Công ty có khả năng kiểm soát các chính sách tài chính và hoạt động của các công ty nhận đầu tư nhằm thu được lợi ích từ hoạt động của các công ty này.
+
+Kết quả hoạt động kinh doanh của các công ty con được mua lại hoặc bán đi trong nằm được trình bày trong Báo cáo kết quả hoạt động kinh doanh hợp nhất từ ngày mua hoặc cho đến ngày bán khoản đầu tư ở công ty con đó.
+
+Trong trường hợp cần thiết, báo cáo tài chính của các công ty con được điều chỉnh để các chính sách kế toán được áp dụng tại Tổng Công ty và các công ty con là giống nhau.
+
+Tất cả các nghiệp vụ và số dư chủ yếu giữa Tổng Công ty với các công ty con và giữa các công ty con với nhau được loại bỏ khi hợp nhất báo cáo tài chính.
+
+Lợi ích của cổ đông không kiểm soát bao gồm giá trị các lợi ích của cổ đông không kiểm soát tại ngày hợp nhất kinh doanh ban đầu (chi tiết xem nội dung trình bày dưới đầy) và phân lợi ích của cổ đông không kiểm soát trong sự biến động của tổng vốn chủ sở hữu kể từ ngày hợp nhất kinh doanh. Các khoản lỗ phát sinh tại công ty con phải được phân bổ tương ứng với phần sở hữu của cổ đông không kiểm soát, kể cả trường hợp số lỗ đó lớn hơn phần sở hữu của cổ đông không kiểm soát trong tài sản thuần của công ty con.
+
+Hợp nhất kinh doanh
+
+Tài sản, công nợ và công nợ tiềm tàng của công ty con được xác định theo giá trị hợp lý tại ngày mua công ty con. Bắt kỳ khoản phụ trội nào giữa giá mua và tổng giá trị hợp lý của tài sản được mua được ghi nhận là lợi thể thường mại. Bắt kỳ khoản thiếu hụt nào giữa giá mua và tổng giá trị hợp lý của tài sản được mua được ghi nhận vào kết quả hoạt động kinh doanh của năm tài chính phát sinh hoạt động mua công ty con.
+
+Lợi ích của cổ đông không kiểm soát tại ngày hợp nhất kinh doanh ban đầu được xác định trên cơ sở tỷ lệ của cổ đông không kiểm soát trong tổng giá trị hợp lý của tài sản, công nợ và công nợ tiêm tàng được ghi nhận.
+
+12
+
+\( \left( \frac{1}{2} \right) ^{3} \)  \( \left( \frac{1}{2} \right) ^{5} \)
+
+===== PAGE 16 =====
+TỔNG CÔNG TY KHÍ VIỆT NAM - CÔNG TY CỔ PHẦN THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (Tiếp theo)
+
+MÃU SÕ B 09-DN/HN
+
+Đâu tư vào công ty liên kết
+
+Công ty liên kết là một công ty mà Công ty có ảnh hưởng đáng kể nhưng không phải là công ty con hay công ty liên doanh của Công ty. Ảnh hưởng đáng kể thể hiện ở quyền tham gia vào việc đưa ra các quyết định về chính sách tài chính và hoạt động của bên nhận đầu tư nhưng không có ảnh hưởng về mặt kiểm soát hoặc đồng kiểm soát những chính sách này.
+
+Kết quả hoạt động kinh doanh, tài sản và công nợ của các công ty liên kết được hợp nhất trong báo cáo tài chính theo phương pháp vốn chủ sở hữu. Các khoản góp vốn liên kết được trình bày trong Bảng cân đối kế toán theo giá gốc được điều chỉnh theo những thay đối trong phần vốn góp của Công ty vào phần tài sản thuần của công ty liên kết sau ngày mua khoản đầu tư. Các khoản lỗ của công ty liên kết vượt quá khoản góp vốn của Công ty tại công ty liên kết đó (bao gồm bất kế các khoản góp vốn dài hạn mà về thực chất tạo thành đầu tư thuần của Công ty tại công ty liên kết đó) không được ghi nhận.
+
+Trong trường hợp một công ty thành viên của Công ty thực hiện giao dịch với một công ty liên kết với Công ty, lãi/lỗ chưa thực hiện tương ứng với phần góp vốn của Công ty vào công ty liên kết, được loại trừ khởi báo cáo tài chính hợp nhất.
+
+Góp vốn liên doanh
+
+Các khoản góp vốn liên doanh là thỏa thuận trên cơ sở ký kết hợp đồng mà theo đó Tổng Công ty và các bên tham gia thực hiện hoạt động kinh tế trên cơ sở đồng kiểm soát. Cơ sở đồng kiểm soát được hiểu là việc đưa ra các quyết định mang tính chiến lược liên quan đến các chính sách hoạt động và tài chính của đơn vị liên doanh phải có sự đồng thuận của các bên đồng kiểm soát.
+
+Trong trường hợp một công ty thành viên trực tiếp thực hiện hoạt động kinh doanh theo các thỏa thuận liên doanh, phần vốn góp vào tài sản đồng kiểm soát và bất kỳ khoản nợ phải trả phát sinh chung phải gánh chịu cùng với các bên góp vốn liên doanh khác từ hoạt động của liên doanh được hạch toán vào báo cáo tài chính hợp nhất của Tổng Công ty tương ứng và được phân loại theo bản chất của nghiệp vụ kinh tế phát sinh. Các khoản công nợ và chi phí phát sinh có liên quan trực tiếp đến phần vốn góp trong phần tài sản đồng kiểm soát được hạch toán trên cơ sở dôn tích. Các khoản thu nhập từ việc bán hàng hoặc sử dụng phần sản phẩm được chia từ hoạt động của liên doanh và phần chi phí phát sinh phải gánh chịu được ghi nhận khi chắc chắn khoản lợi ích kinh tế có được từ các giao dịch này được chuyển tới hoặc chuyển ra khởi Tổng Công ty và các khoản lợi ích kinh tế này có thể được xác định một cách đáng tin cây.
+
+Các thỏa thuận góp vốn liên doanh liên quan đến việc thành lập một cơ sở kinh doanh độc lập trong đó có các bên tham gia góp vốn liên doanh được gọi là cơ sở kinh doanh đồng kiểm soát. Tổng Công ty lập báo cáo về các khoản lợi ích trong các cơ sở kinh doanh đồng kiểm soát theo phương pháp vốn chủ sở hữu.
+
+Lợi thể thương mại
+
+Lợi thể thường mại trên báo cáo tài chính hợp nhất là phần phụ trội giữa mức giá phí hợp nhất kinh doanh so với phần lợi ích của Tổng Công ty trong tổng giá trị hợp lý của tài sản, công nợ và công nợ tiêm tàng của công ty con, công ty liên kết hoặc đơn vị góp vốn liên doanh tại ngày thực hiện nghiệp vụ đầu tư. Lợi thể thường mại từ việc đầu tư vào công ty con được phân bổ theo phương pháp đường thẳng trên thời gian hữu dụng ước tính của lợi thể thường mại đó tối đa là 10 năm.
+
+Lợi thể thường mại có được từ việc mua công ty liên kết và cơ sở kinh doanh đồng kiểm soát được tính vào giá trị ghi số của công ty liên kết và cơ sở kinh doanh đồng kiểm soát. Lợi thể thường mại từ việc mua các công ty con được trình bày riêng như một loại tài sản trên Bảng cân đối kế toán hợp nhất.
+
+Khi bán công ty con, công ty liên kết hoặc đơn vị góp vốn liên doanh, giá trị còn lại của khoản lợi thể thương mại chưa khấu hao hết được tính vào khoản lãi/lỗ do nghiệp vụ nhượng bán công ty tương ứng.
+
+13
+
+\( \left\| H_{1}O_{2}N_{3}\right\| = \left\| H_{1}O_{2}N_{3}\right\| \)
+
+===== PAGE 17 =====
+TỔNG CÔNG TY KHÍ VIỆT NAM - CÔNG TY CỔ PHẦN
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (Tiếp theo)
+
+MÃU SÕ B 09-DN/HN
+
+Tiền và các khoản tương đương tiền
+
+Tiền và các khoản tương đương tiền bao gồm tiền mặt tại quỹ, các khoản tiền gửi không kỳ hạn, các khoản đầu tư ngắn hạn, có khả năng thanh khoản cao, dễ dàng chuyển đổi thành tiền và ít rủi ro liên quan đến việc biển động giá trị.
+
+Các khoản đầu tư tài chính
+
+Các khoản đầu tư nằm giữ đến ngày đáo hạn
+
+Các khoản đầu tư nằm giữ đến ngày đáo hạn bao gồm các khoản đầu tư mà Tổng Công ty có ý định và khả năng giữ đến ngày đáo hạn. Các khoản đầu tư nằm giữ đến ngày đáo hạn bao gồm: các khoản tiền gửi ngân hàng có kỳ hạn.
+
+Các khoản đầu tư nằm giữ đến ngày đáo hạn được ghi nhận bắt đầu từ ngày mua và được xác định giá trị ban đầu theo giá mua và các chi phí liên quan đến giao dịch mua các khoản đầu tư. Thu nhập lãi từ các khoản đầu tư nằm giữ đến ngày đáo hạn sau ngày mua được ghi nhận trên Báo cáo kết quả hoạt động kinh doanh hợp nhất trên cơ sở dự thu. Lãi được hưởng trước khi Tổng Công ty nằm giữ được ghi giảm trừ vào giá gốc tại thời điểm mua.
+
+Các khoản đầu tư nằm giữ đến ngày đáo hạn được xác định theo giá gốc trừ đi dự phòng phải thu khó đòi.
+
+Dự phòng phải thu khó đòi của các khoản đầu tư nằm giữ đến ngày đáo hạn được trích lập theo các quy định kể toán hiện hành.
+
+Đầu tư vào công cụ vốn của đơn vị khác
+
+Đầu tư vào công cụ vốn của đơn vị khác phần ánh các khoản đầu tư công cụ vốn nhưng Tổng Công ty không có quyền kiểm soát, đồng kiểm soát hoặc có ảnh hưởng đáng kể đối với bên được đầu tư.
+
+Các khoản đầu tư vào công cụ vốn của đơn vị khác được trình bày trong Bảng cân đối kế toán hợp nhất theo giá gốc trừ đi các khoản dự phòng giảm giá đầu tư (nếu có).
+
+Các khoản đầu tư vào công cụ vốn của đơn vị khác được trình bày trong Bảng cân đối kế toán hợp nhất theo giá gốc trừ đi các khoản dự phòng giảm giá (nếu có). Dự phòng giảm giá của các khoản đầu tư được thực hiện khi có bằng chứng chắc chắn cho thấy có sự suy giảm giá trị của các khoản đầu tư này tại ngày kết thúc năm tài chính.
+
+Nợ phải thu
+
+Nợ phải thu là số tiền có thể thu hồi của khách hàng hoặc các đối tượng khác. Nợ phải thu được trình bày theo giá trị ghi số trừ đi các khoản dự phòng phải thu khó đòi.
+
+Dự phòng phải thu khó đòi được trích lập cho những khoản nợ phải thu đã quá hạn thanh toán từ sáu tháng trở lên, hoặc các khoản nợ phải thu mà người nợ khó có khả năng thanh toán do bị thanh lý, phá sản hay các khó khăn tương tự.
+
+Hàng tôn kho
+
+Hàng tôn kho được xác định trên cơ sở giá thấp hơn giữa giá gốc và giá trị thuần có thể thực hiện được. Giá gốc hàng tôn kho bao gồm chi phí nguyên vật liệu trực tiếp, chi phí lao động trực tiếp và chi phí sản xuất chung, nếu có, để có được hàng tôn kho ở địa điểm và trạng thái hiện tại. Giá trị thuần có thể thực hiện được được xác định bằng giá bán ước tính trừ các chi phí ước tính để hoàn thành sản phẩm cùng chi phí tiếp thị, bán hàng và phân phối phát sinh. Hàng tôn kho được hạch toán theo phương pháp kê khai thường xuyên. Giá xuất kho của hàng tôn kho được xác định theo phương pháp nhập trước xuất trước đối với LPG do Tổng công ty mua ngoài và phương pháp bình quân gia quyền đối với các loại hàng tôn kho khác.
+
+14
+
+\( \left\| \frac{1}{2} \right\|_{L^{\infty}} = \frac{1}{2} \)
+
+11.1.02=2
+
+===== PAGE 18 =====
+TỔNG CÔNG TY KHÍ VIỆT NAM - CÔNG TY CỔ PHẦN
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (Tiếp theo)
+
+MÃU SỐ B 09-DN/HN
+
+Dự phòng giảm giá hàng tôn kho của Tổng Công ty được trích lập theo các quy định kể toán hiện hành. Theo đó, Tổng Công ty được phép trích lập dự phòng giảm giá hàng tôn kho lỗi thời, hỏng, kém phẩm chất và trong trường hợp giá gốc của hàng tôn kho cao hơn giá trị thuần có thể thực hiện được tại ngày kết thúc nằm tài chính.
+
+Tài sản cố định hữu hình và khẩu hao
+
+Tài sản cố định hữu hình được trình bày theo nguyên giá trừ giá trị hao mòn lũy kê.
+
+Nguyên giá tài sản cố định hình thành do mua sắm bao gồm giá mua và toàn bộ các chi phí khác liên quan trực tiếp đến việc đưa tài sản vào trạng thái sẵn sàng sử dụng. Đối với tài sản cố định hình thành do đầu tư xây dựng cơ bản theo phương thức giao thầu hoặc tư xây dựng và sản xuất, nguyên giá là giá quyết toán công trình xây dựng theo Quy chế quản lý đầu tư và xây dựng hiện hành, các chi phí khác có liên quan trực tiếp và lệ phí trước bạ (nếu có). Trường hợp dự án đã hoàn thành và đưa vào sử dụng nhưng quyết toán chưa được phê duyệt, nguyên giá tài sản cố định được ghi nhận theo giá tạm tính trên cơ số chi phí thực tế đã bó ra để có được tài sản cố định. Nguyên giá tạm tính sẽ được điều chỉnh theo giá quyết toán được các cơ quan có thẩm quyền phê duyệt.
+
+Tài sản cổ định hữu hình được khấu hao theo phương pháp đường thẳng dựa trên thời gian hữu dụng ước tính, cụ thể như sau:
+
+<table><tr><td></td><td>Số năm</td></tr><tr><td>Nhà cửa, vật kiến trúc</td><td>03 - 50</td></tr><tr><td>Máy móc, thiết bị</td><td>03 - 20</td></tr><tr><td>Phương tiện vận tải và thiết bị truyền dẫn</td><td>03 - 13</td></tr><tr><td>Thiết bị văn phòng</td><td>03 - 10</td></tr><tr><td>Tài sản cố định khác (bao gồm các công trình khí)</td><td>03 - 20</td></tr></table>
+
+Tài sản cố định hữu hình là máy móc, thiết bị và phương tiện vận tải dùng cho việc sản xuất, chiết nạp khí CNG tại CNG Việt Nam, công ty con của Tổng Công ty được khấu hao nhanh theo phương pháp số dư giảm dần theo quy định tại Thông tư số 45/2013/TT-BTC ngày 25 tháng 4 năm 2013 của Bộ Tài chính, với thời gian hữu dụng được áp dụng tương tự như thời gian hữu dụng theo phương pháp khấu hao đường thẳng.
+
+Tài sản cố định hữu hình là hệ thống phân phối khí thấp áp tại Xí nghiệp Phân phối Khí thấp áp Nhơn Trạch và Vũng Tàu và hệ thống phân phối khí thấp áp cho khách hàng Internal Việt Nam của Công ty Cổ phần Phân phối Khí thấp áp Dầu khí Việt Nam, công ty con của Tổng Công ty được khấu hao nhanh với khung khấu hao là 5 năm để phản ánh phù hợp hiệu suất sử dụng tài sản của PV Gas D.
+
+Tài sản cố định hữu hình là máy móc, thiết bị trực tiếp liên quan đến sản xuất sản phẩm của dự án bọc ống tại Công ty Cổ phần Bọc ống Dầu khí Việt Nam, công ty con của Tổng Công ty ("PV Coating") được tính khấu hao theo khối lượng sản phẩm hoàn thành trong năm.
+
+Các tài sản cố định hữu hình của Tổng Công ty được đánh giá lại khi thực hiện cố phần hóa doanh nghiệp Nhà nước, nguyên giá và giá trị hao mòn lũy kế được điều chỉnh theo kết quả đánh giá lại đã được các cơ quan có thẩm quyền phê duyệt theo quy định.
+
+Các khoản lãi, lỗ phát sinh khi thanh lý, bán tài sản là chênh lệch giữa thu nhập từ thanh lý và giá trị còn lại của tài sản và được ghi nhận vào Báo cáo kết quả hoạt động kinh doanh hợp nhất.
+
+Thuê tài sản
+
+Một khoản thuê được xem là thuê tài chính khi phần lớn các quyền lợi và rủi ro về quyền sở hữu tài sản được chuyển sang cho người đi thuê. Tất cả các khoản thuê khác được xem là thuê hoạt động.
+
+Tổng Công ty ghi nhận tài sản thuê tài chính là tài sản của Tổng Công ty theo giá trị hợp lý của tài sản thuê tại thời điểm khởi đầu thuê tài sản hoặc theo giá trị hiện tại của khoản thanh toán tiền thuê tối thiểu, nếu giá trị này thấp hơn. Nợ phải trả bên cho thuê tương ứng được ghi nhận trên
+
+15
+
+NÔI ★ H'H'N'T'I
+
+\( \left\{  {2,3,4}\right\}   \leq   \geq  {10} \)
+
+===== PAGE 19 =====
+TỔNG CÔNG TY KHÍ VIỆT NAM - CÔNG TY CỔ PHẦN
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (Tiếp theo)
+
+MÃU SỐ B 09-DN/HN
+
+Bảng cân đối kế toán hợp nhất như một khoản nợ phải trả về thuê tài chính. Các khoản thanh toán tiền thuê được chia thành chi phí tài chính và khoản phải trả nợ gốc nhằm đảm bảo tỷ lệ lãi suất định kỳ cố định trên số dư nợ còn lại. Chi phí thuê tài chính được ghi nhận vào kết quả hoạt động kinh doanh hợp nhất, trừ khi các chi phí này trực tiếp hình thành nên tài sản đi thuê, trong trường hợp đó sẽ được vốn hóa theo chính sách kế toán của Tổng Công ty về chi phí đi vay.
+
+Một khoản thuê được xem là thuê hoạt động khi bên cho thuê vẫn được hưởng phần lớn các quyền lợi và phải chịu rủi ro vẽ quyền sở hữu tài sản. Chi phí thuê hoạt động được ghi nhận vào Báo cáo kết quả hoạt động kinh doanh hợp nhất theo phương pháp đường thẳng trong suốt thời gian thuê. Các khoản tiền nhận được hoặc phải thu nhằm tạo điều kiện ký kết hợp đồng thuê hoạt động cũng được ghi nhận theo phương pháp đường thẳng trong suốt thời gian thuê.
+
+Các tài sản đi thuê tài chính được khấu hao trên thời gian hữu dụng ước tính tương tự như áp dụng với tài sản thuộc sở hữu của Tổng công ty. Tuy nhiên, nếu không chắc chắn là bên thuê sẽ có quyền sở hữu tài sản khi hết hạn hợp đồng thuê thì tài sản thuê sẽ được khấu hao theo thời gian ngắn hơn giữa thời hạn thuê hoặc thời gian sử dụng hữu ích của tài sản đó:
+
+<table><tr><td></td><td>Số năm</td></tr><tr><td>Máy móc, thiết bị</td><td>05</td></tr><tr><td>Phương tiện vận tải</td><td>03 - 06</td></tr></table>
+
+Tài sản cố định vô hình và khẩu hao
+
+Tài sản cố định vô hình thể hiện giá trị quyền sử dụng đất, các phần mềm máy tính, bản quyền, bằng sáng chế và các tài sản cố định vô hình khác, được trình bày theo nguyên giá trừ giá trị hao mòn lũy kẻ. Quyền sử dụng đất có thời hạn được khấu hao theo thời gian được cấp, quyền sử dụng đất có thời hạn sử dụng lâu dài không phải trích khấu hao. Phăn mềm máy tính và các tài sản cố định vô hình khác được khấu hao theo phương pháp đường thẳng dựa trên thời gian hữu dụng ước tính từ hai (02) đến muồi (10) năm.
+
+Các tài sản cố định vô hình của Tổng Công ty được đánh giá lại khi thực hiện cố phần hóa doanh nghiệp Nhà nước, nguyên giá và giá trị hao mòn lũy kế được điều chỉnh theo kết quả đánh giá lại đã được các cơ quan có thẩm quyền phê duyệt theo quy định.
+
+Chi phí xây dựng cơ bản đồ dang
+
+Các tài sản đang trong quá trình xây dựng phục vụ mục đích sản xuất, cho thuê, quản lý hoặc cho các mục đích khác được ghi nhận theo giá gốc. Chi phí này bao gồm các chi phí cần thiết để hình thành tài sản bao gồm chi phí xây lắp, thiết bị, chi phí khác và chi phí lãi vay có liên quan phù hợp với chính sách kể toán của Tổng Công ty. Các chi phí này sẽ được chuyển sang nguyên giá tài sản cổ định theo giá tạm tính (nếu chưa có quyết toán được phê duyệt) khi các tài sản được bàn giao đưa vào sử dụng.
+
+Theo quy định về quản lý đầu tư và xây dựng của Nhà nước, tùy theo phân cấp quản lý, giá trị quyết toán các công trình xây dựng cơ bản hoàn thành cần được các cơ quan có thẩm quyền phê duyệt. Do đó, giá trị cuối cùng về giá trị các công trình xây dựng cơ bản có thể thay đổi và phụ thuộc vào quyết toán được phê duyệt bởi các cơ quan có thẩm quyền.
+
+Các khoản trả trước
+
+Chi phí trả trước bao gồm các chi phí thực tế đã phát sinh nhưng có liên quan đến kết quả hoạt động sản xuất kinh doanh của nhiều nằm tài chính. Chi phí trả trước bao gồm khoản trả trước giá trị vò bình gas đã đưa vào sử dụng, tiền thuê đất, tiền thuê mặt bằng, chi phí bảo hiểm tài sản và các khoản chi phí trả trước khác.
+
+Giá trị vò bình gas đã đưa vào sử dụng được phần ánh trên khoản mục chi phí trả trước dài hạn và được phân bổ vào Báo cáo kết quả hoạt động kinh doanh hợp nhất theo thời gian sử dụng ước tính của vò bình gas (ký quỹ, ký cước vò bình gas nhận được từ khách hàng được phần ánh trên khoản mục Phải trả dài hạn khác và được phân bổ vào thu nhập tương ứng với thời hạn phân bổ giá trị vò bình gas). Giá trị vò bình gas được phân bổ theo phương pháp đường thẳng với thời gian không quá muời (10) năm.
+
+16
+
+===== PAGE 20 =====
+TỔNG CÔNG TY KHÍ VIỆT NAM - CÔNG TY CỔ PHẦN
+THUYÊT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (Tiếp theo)
+
+MÃU SỐ B 09-DN/HN
+
+Tiền thuê đất, tiền thuê mặt bằng thể hiện số tiền thuê đã được trả trước. Tiền thuê trả trước được phân bổ vào Báo cáo kết quả hoạt động kinh doanh hợp nhất theo phương pháp đường thẳng tương ứng với thời gian thuê.
+
+Các khoản chi phí trả trước khác bao gồm giá trị công cụ, dụng cụ, linh kiện loại nhỏ đã xuất dùng và các khoản chi phí trả trước khác được coi là có khả năng đem lại lợi ích kinh tế trong tương lai cho Tổng Công ty. Các chi phí này được vốn hóa dưới hình thức các khoản trả trước và được phân bổ vào Báo cáo kết quả hoạt động kinh doanh hợp nhất, sử dụng phương pháp đường thẳng theo các quy định kê toán hiện hành.
+
+Các khoản dự phòng phải trả
+
+Các khoản dự phòng phải trả được ghi nhận khi Tổng Công ty có nghĩa vụ nợ hiện tại do kết quả từ một sự kiện đã xảy ra, và Tổng Công ty có khả năng phải thanh toán nghĩa vụ này.
+
+Quỹ phát triển khoa học và công nghệ
+
+Quỹ phát triển khoa học và công nghệ được trích lập để tạo nguồn đầu tư cho hoạt động khoa học và công nghệ của Tổng Công ty. Quỹ được hình thành trên nhu cầu phát triển và đối mới công nghệ của Tổng Công ty và được ghi nhận vào kết quả hoạt động kinh doanh trong năm theo quy định tại Thông tư liên tịch số 12/2016/TTLT-BKHCN-BTC ngày 28 tháng 6 năm 2016. Theo đó, Tổng Công ty căn cứ vào nhu cầu sử dụng nguồn vốn cho hoạt động khoa học và công nghệ trích lập tối đa 10% thu nhập tính thuế thu nhập doanh nghiệp trong năm để hình thành quỹ.
+
+Ghi nhận doanh thu
+
+Doanh thu bán hàng
+
+Doanh thu bán hàng được ghi nhận khi đồng thời thỏa mãn tất cả năm (5) điều kiện sau:
+
+(a) Tổng Công ty đã chuyển giao phần lớn rủi ro và lợi ích gần liền với quyền sở hữu sản phẩm hoặc hàng hóa cho người mua;
+
+(b) Tổng Công ty không còn nằm giữ quyền quản lý hàng hóa như người sở hữu hàng hóa hoặc quyền kiểm soát hàng hóa;
+
+(c) Doanh thu được xác định tương đối chắc chắn;
+
+(d) Tổng Công ty sẽ thu được lợi ích kinh tế từ giao dịch bán hàng; và
+
+(e) Xác định được chi phí liên quan đến giao dịch bán hàng.
+
+Doanh thu cung cấp dịch vụ
+
+Doanh thu của giao dịch về cung cấp dịch vụ được ghi nhận khi kết quả của giao dịch đó được xác định một cách đáng tin cây. Trường hợp giao dịch về cung cấp dịch vụ liên quan đến nhiều nằm thì doanh thu được ghi nhận trong năm theo kết quả phần công việc đã hoàn thành tại ngày của Bàng cân đối kế toán hợp nhất của nằm đó. Kết quả của giao dịch cung cấp dịch vụ được xác định khi thỏa mãn tất cả bồn (4) điều kiện sau:
+
+(a) Doanh thu được xác định tương đối chắc chắn;
+
+(b) Có khả năng thu được lợi ích kinh tế từ giao dịch cung cấp dịch vụ đó;
+
+(c) Xác định được phần công việc đã hoàn thành tại ngày của Bảng cân đối kế toán hợp nhất; và
+
+(d) Xác định được chi phí phát sinh cho giao dịch và chi phí hoàn thành giao dịch cung cấp dịch vụ đó.
+
+Doanh thu cho thuê diện tích tòa nhà văn phòng được ghi nhận trong Báo cáo kết quả hoạt động kinh doanh hợp nhất theo phương pháp đường thẳng trong suốt thời hạn của hợp đồng thuê.
+
+Lãi tiên gửi được ghi nhận trên cơ sở dôn tích, được xác định trên số dư các tài khoản tiền gửi và lãi suất áp dụng.
+
+Lãi từ các khoản đầu tư được ghi nhận khi Tổng Công ty có quyền nhận khoản lãi.
+
+17
+
+JIO
+C
+DI
+VI
+NO
+C.P. ★
+
+===== PAGE 21 =====
+TỔNG CÔNG TY KHÍ VIỆT NAM - CÔNG TY CỔ PHẦN
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (Tiếp theo)
+
+MÃU SỐ B 09-DN/HN
+
+Ngoại tê
+
+Các nghiệp vụ phát sinh bằng ngoại tệ được chuyển đổi theo tỷ giá tại ngày phát sinh nghiệp vụ. Số dư các khoản mục tiền tệ có gốc ngoại tệ tại ngày kết thúc năm tài chính được chuyển đổi theo tỷ giá tại ngày này. Chênh lệch tỷ giá phát sinh được hạch toán vào Báo cáo kết quả hoạt động kinh doanh hợp nhất.
+
+Theo hướng dẫn tại Công văn số 4360/DKVN-TCKT ngày 30 tháng 6 năm 2015 và Công văn số 3124/DKVN-TCKT ngày 13 tháng 5 năm 2015 của Tập đoàn Dầu khí Việt Nam, Tổng Công ty áp dụng tỷ giá mua vào do Ngân hàng TMCP Ngoại thương Việt Nam công bố để chuyển đổi các khoản mục tiên tệ gốc ngoại tệ tại ngày 31 tháng 12 năm 2019. Tỷ giá này có sự khác biệt so với tỷ giá quy định của Thông tư số 200/2014/TT-BTC ban hành ngày 22 tháng 12 năm 2014 của Bộ Tài chính về hướng dẫn chế độ kẽ toán doanh nghiệp ("Thông tư 200"). Theo đánh giá của Ban Tổng Giám đốc, sự khác biệt này không gây ảnh hưởng trọng yếu đến báo cáo tài chính hợp nhất cho năm tài chính kết thúc ngày 31 tháng 12 năm 2019 của Tổng Công ty.
+
+Chi phí đi vay
+
+Chi phí đi vay được ghi nhận vào chi phí sản xuất, kinh doanh trong năm khi phát sinh, trừ khi được vốn hoá theo quy định của Chuẩn mực kế toán Việt Nam số 16 "Chi phí đi vay". Theo đó, chi phí đi vay liên quan trực tiếp đến việc mua, đầu tư xây dựng hoặc sản xuất những tài sản cần một thời gian tương đối dài để hoàn thành đưa vào sử dụng hoặc kinh doanh được cộng vào nguyên giá tài sản cho đến khi tài sản đó được đưa vào sử dụng hoặc kinh doanh. Các khoản thu nhập phát sinh từ việc đầu tư tạm thời các khoản vay được ghi giảm nguyên giá tài sản có liên quan. Đối với khoản vay riêng phục vụ việc xây dựng tài sản cố định, bất động sản đầu tư, lãi vay được vốn hóa kể cả khi thời gian xây dựng dưới 12 tháng.
+
+Thuê
+
+Thuế thu nhập doanh nghiệp thể hiện tổng giá trị của số thuế phải trả hiện tại và số thuế hoãn lại.
+
+Số thuế phải trả hiện tại được tính dựa trên thu nhập tính thuế trong năm. Thu nhập tính thuế khác với lợi nhuận trước thuế được trình bày trên Báo cáo kết quả hoạt động kinh doanh hợp nhất vi thu nhập tính thuế không bao gồm các khoản thu nhập hay chi phí tính thuế hoặc được khấu trừ trong các năm khác (bao gồm cả lỗ mang sang, nếu có) và ngoài ra không bao gồm các chi tiêu không chịu thuế hoặc không được khấu trừ.
+
+Thuế thu nhập hoãn lại được tính trên các khoản chênh lệch giữa giá trị ghi số và cơ sở tính thuế thu nhập của các khoản mục tài sản hoặc công nợ trên báo cáo tài chính hợp nhất và được ghi nhận theo phương pháp bảng cân đối kế toán. Thuế thu nhập hoãn lại phải trả phải được ghi nhận cho tất cả các khoản chênh lệch tạm thời còn tài sản thuế thu nhập hoãn lại chỉ được ghi nhận khi chắc chắn có đủ lợi nhuận tính thuế trong tương lai để khấu trừ các khoản chênh lệch tạm thời.
+
+Thuế thu nhập hoãn lại được xác định theo thuế suất dự tính sẽ áp dụng cho nằm tài sản được thu hồi hay nợ phải trả được thanh toán. Thuế thu nhập hoãn lại được ghi nhận vào Báo cáo kết quả hoạt động kinh doanh hợp nhất và chỉ ghi vào vốn chủ sở hữu khi khoản thuế đó có liên quan đến các khoản mục được ghi thắng vào vốn chủ sở hữu.
+
+Tài sản thuế thu nhập hoãn lại và nợ thuế thu nhập hoãn lại phải trả được bù trừ khi Tổng Công ty có quyền hợp pháp để bù trừ giữa tài sản thuế thu nhập hiện hành với thuế thu nhập hiện hành phải nộp và khi các tài sản thuế thu nhập hoãn lại và nợ thuế thu nhập hoãn lại phải trả liên quan tối thuế thu nhập doanh nghiệp được quản lý bởi cùng một cơ quan thuế và Tổng Công ty có dự định thanh toán thuế thu nhập hiện hành trên cơ sở thuần.
+
+Việc xác định thuế thu nhập của Tổng Công ty căn cứ vào các quy định hiện hành về thuế. Tuy nhiên, những quy định này thay đổi theo từng thời kỳ và việc xác định sau cùng về thuế thu nhập doanh nghiệp tùy thuộc vào kết quả kiểm tra của cơ quan thuế có thẩm quyền.
+
+Các loại thuế khác được áp dụng theo các luật thuế hiện hành tại Việt Nam.
+
+18
+
+\( \left\| HN^{*} + \cdots + D.N. \right\|_{DA} \)   \( \left\| ET^{*} LO^{*} Z^{*} O^{*} Z^{*} \right\|_{112} \)
+
+===== PAGE 22 =====
+TỔNG CÔNG TY KHÍ VIỆT NAM - CÔNG TY CỔ PHẦN THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (Tiếp theo)
+
+MÃU SÕ B 09-DN/HN
+
+4. TIÊN VÀ CÁC KHOÀN TƯƠNG ĐƯƠNG TIÊN
+
+<table><tr><td></td><td>Số cuối nămVND</td><td>Số đầu nămVND</td></tr><tr><td>Tiền mặt</td><td>4.120.897.016</td><td>24.294.345.484</td></tr><tr><td>Tiền gửi không kỳ hạn</td><td>1.140.131.323.102</td><td>1.305.925.742.325</td></tr><tr><td>Tiền đang chuyển</td><td>7.743.765.404</td><td>-</td></tr><tr><td>Các khoản tương đương tiền</td><td>3.323.893.181.705</td><td>5.375.425.372.198</td></tr><tr><td></td><td>4.475.889.167.227</td><td>6.705.645.460.007</td></tr></table>
+
+Các khoản tương đương tiền phản ánh các khoản tiền gửi có kỳ hạn gốc nhỏ hơn hoặc bằng 03 tháng tại các ngân hàng thương mại.
+
+Các khoản tiền gửi không kỳ hạn và các khoản tương đương tiền được gửi tại các ngân hàng thương mại và các tổ chức tín dụng tại Việt Nam. Tổng Công ty thường xuyên đánh giá và tin tưởng rằng tất cả các khoản tiền gửi ngân hàng không có rủi ro về tính thanh khoản hoặc khả năng thu hồi.
+
+19
+
+\( \left( {80} + 9\right)  = \left( {10} - 3\right)  = \left( {50}\right) \)
+
+===== PAGE 23 =====
+TỔNG CÔNG TY KHÍ VIỆT NAM - CÔNG TY CỔ PHẦN
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẬT (Tiếp theo)
+
+MÃU SỐ B 09-DN/HN
+
+5. ĐẦU TƯ TÀI CHÍNH
+
+a) Đầu tư tài chính ngắn hạn
+
+<table><tr><td rowspan="2"></td><td colspan="3">Số cuối năm</td><td colspan="3">Số đầu năm</td></tr><tr><td>Giá gốcVND</td><td colspan="2">Giá trị ghi sốVND</td><td>Giá gốcVND</td><td colspan="2">Giá trị ghi sốVND</td></tr><tr><td>Đầu tư nằm giữ đến ngày đáo hạn</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>- Tiền gửi có kỳ hạn (i)</td><td>24.915.000.000.000</td><td colspan="2">24.915.000.000.000</td><td>21.602.454.000.000</td><td colspan="2">21.602.454.000.000</td></tr><tr><td></td><td>24.915.000.000.000</td><td colspan="2">24.915.000.000.000</td><td>21.602.454.000.000</td><td colspan="2">21.602.454.000.000</td></tr></table>
+
+20
+
+\( \left\| \frac{1}{2} \right\|_{P}^{1} \)   \( \left\| \frac{1}{2} \right\|_{N}^{1} - \left\| \frac{1}{2} \right\|_{S}^{1} \)
+
+===== PAGE 24 =====
+TỔNG CÔNG TY KHÍ VIỆT NAM - CÔNG TY CỔ PHẦN
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (Tiếp theo)
+
+MÃU SỐ B 09-DN/HN
+
+(iii) Theo quy định tại Thông tư số 200/2014/TT-BTC ngày 22 tháng 12 năm 2014, giá trị hợp lý của các khoản đầu tư vào công ty liên doanh, liên kết và các đơn vị khác tại ngày 31 tháng 12 năm 2019 cần được trình bày. Tổng Công ty đã xác định giá trị hợp lý của các khoản đầu tư này trên cơ sở giá niêm yết của cổ phiếu trên sản giao dịch chứng khoán tại ngày lập báo cáo tài chính riêng và sở lượng cổ phiếu mà Tổng Công ty đang nằm giữ. Tuy nhiên, do Công ty TNHH Khí nhiên liệu Giao thông Vận tải PVGazprom, Công ty Cổ phần Đầu tư và Kinh doanh Tài sản Việt Nam và Công ty Cổ phần Xăng đầu Dầu khí Vũng Áng chưa thực hiện niêm yết cổ phiếu trên các thị trường chứng khoán, nên giá trị hợp lý của khoản đầu tư vào các công ty này tại ngày 31 tháng 12 năm 2019 được xác định bằng giá gốc trừ đi dự phòng giảm giá tương ứng.
+
+Các giao dịch chủ yếu giữa Tổng Công ty và các Công ty liên doanh, liên kết được trình bày tại Thuyết minh số 39.
+
+6. PHÀI THU NGĂN HẠN CỦA KHÁCH HÀNG
+
+<table><tr><td></td><td>Số cuối nămVND</td><td>Số đầu nămVND</td></tr><tr><td>Vitol Asia Pte, Ltd.</td><td>433.742.623.320</td><td>27.291.457.594</td></tr><tr><td>Tổng Công ty Điện lực Dầu khí Việt Nam</td><td>370.302.127.151</td><td>639.274.563.146</td></tr><tr><td>Cơ quan Tập đoàn Dầu khí Việt Nam</td><td>272.760.593.097</td><td>309.810.080.209</td></tr><tr><td>Tổng Công ty Phân bón và Hoá chất Dầu khí - CTCP</td><td>210.276.167.229</td><td>234.392.662.645</td></tr><tr><td>Petredec International Pte Ltd.</td><td>184.956.540.551</td><td>116.020.940.138</td></tr><tr><td>Công ty TNHH TotalGaz Việt Nam</td><td>169.649.356.186</td><td>180.047.466.226</td></tr><tr><td>Tổng Công ty Dầu Việt Nam - CTCP</td><td>169.242.005.574</td><td>21.172.552.973</td></tr><tr><td>SK Gas Company Limited</td><td>-</td><td>456.081.140.625</td></tr><tr><td>Các khách hàng khác</td><td>2.873.010.130.734</td><td>2.654.090.720.734</td></tr><tr><td></td><td>4.683.939.543.842</td><td>4.638.181.584.290</td></tr><tr><td>Phải thu ngắn hạn khách hàng là các bên liên quan(chi tiết trình bày tại Thuyết minh số 39)</td><td>1.668.274.889.046</td><td>1.367.432.767.399</td></tr></table>
+
+7. TRÀ TRUỐC CHO NGƯỜI BÁN
+
+<table><tr><td rowspan="2"></td><td>Số cuối năm</td><td>Số đầu năm</td></tr><tr><td>VND</td><td>VND</td></tr><tr><td colspan="3">a) Trà trước cho người bán ngắn hạn</td></tr><tr><td>Tổng Công ty Cổ phần Dịch vụ Kỹ thuật</td><td>394.724.912.865</td><td>13.310.399.729</td></tr><tr><td>Dầu khí Việt Nam</td><td></td><td></td></tr><tr><td>Công ty TNHH Samsung C&amp;T Corporation Việt Nam</td><td>279.732.779.456</td><td>-</td></tr><tr><td>Tổng Công ty Tư vấn Thiết kế Dầu khí - CTCP</td><td>2.827.006.031</td><td>9.092.320.265</td></tr><tr><td>Các đối tượng khác</td><td>166.825.400.935</td><td>68.608.680.524</td></tr><tr><td></td><td>844.110.099.287</td><td>91.011.400.518</td></tr><tr><td>Trà trước người bán ngắn hạn là các bên liên quan (chi tiết trình bày tại Thuyết minh số 39)</td><td>397.551.918.896</td><td>22.402.719.994</td></tr><tr><td colspan="3">b) Trà trước cho người bán dài hạn</td></tr><tr><td>Công ty Đường ống Dẫn khí Nam Côn Sơn</td><td>79.220.337.859</td><td>67.561.613.929</td></tr><tr><td></td><td>79.220.337.859</td><td>67.561.613.929</td></tr></table>
+
+21
+
+A
+
+27
+NG
+INA
+TY
+IAN
++O
+
+===== PAGE 25 =====
+TỔNG CÔNG TY KHÍ VIỆT NAM - CÔNG TY CỔ PHẦN
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (Tiếp theo)
+
+MÃU SÕ B 09-DN/HN
+
+8. PHÀI THU KHÁC
+
+<table><tr><td></td><td>Số cuối nămVND</td><td>Số đầu nămVND</td></tr><tr><td colspan="3">a) Phải thu ngắn hạn khác</td></tr><tr><td>Dự thu doanh thu bán và vận chuyển khí và condensate</td><td>4.579.937.500.307</td><td>5.320.930.584.090</td></tr><tr><td>Lãi dự thu tiền gửi có kỳ hạn</td><td>408.467.752.693</td><td>286.726.306.413</td></tr><tr><td>Phải thu Công ty Cổ phần Phát triển Đô thị Dầu khí liên quan đến hợp đồng xây dựng khu văn phòng cho thuê tại Bạc Liêu</td><td>50.000.000.000</td><td>50.000.000.000</td></tr><tr><td>Phải thu về tạm ứng</td><td>8.875.154.026</td><td>10.376.945.464</td></tr><tr><td>Phải thu về ký cược, ký quỹ</td><td>21.817.200.483</td><td>5.808.006.790</td></tr><tr><td>Các khoản phải thu khác</td><td>73.773.433.938</td><td>100.001.614.992</td></tr><tr><td></td><td>5.142.871.041.447</td><td>5.773.843.457.749</td></tr><tr><td>Phải thu ngắn hạn khác các bên liên quan(chi tiết trình bày tại Thuyết minh số 39)</td><td>1.333.106.548.805</td><td>1.761.946.602.817</td></tr><tr><td colspan="3">b) Phải thu dài hạn khác</td></tr><tr><td>Khoản góp vốn theo hợp đồng hợp tác liên doanh thực hiện xây dựng đường ống Lô B - Ô Môn</td><td>35.923.908.884</td><td>116.582.995.804</td></tr><tr><td>Phải thu về ký quỹ, ký cược</td><td>12.740.124.058</td><td>32.684.429.758</td></tr><tr><td></td><td>48.664.032.942</td><td>149.267.425.562</td></tr></table>
+
+22
+
+===== PAGE 26 =====
+TỔNG CÔNG TY KHÍ VIỆT NAM - CÔNG TY CỔ PHẦN
+THUYÊT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (Tiếp theo)
+
+MÃU SÔ B 09-DN/HN
+
+9. NỘ XÂU
+
+<table><tr><td rowspan="2"></td><td colspan="2">Số cuối năm</td><td colspan="2">Số đầu năm</td></tr><tr><td>Giá gốc</td><td>Giá trị có thể thu hồi</td><td>Giá gốc</td><td>Giá trị có thể thu hồi</td></tr><tr><td></td><td>VND</td><td>VND</td><td>VND</td><td>VND</td></tr><tr><td>a) Quá hạn trên 3 năm</td><td>286.038.533.267</td><td>883.364.610</td><td>205.704.004.169</td><td>1.443.384.555</td></tr><tr><td>Công ty Cổ phần Sản xuất - Dịch vụ - Thương mại - Xây dựng Thành Tài</td><td>71.568.492.466</td><td>-</td><td>-</td><td>-</td></tr><tr><td>Công ty Cổ phần Phát triển Đô thị Dầu khí</td><td>50.000.000.000</td><td>-</td><td>50.000.000.000</td><td>-</td></tr><tr><td>Tổng Công ty Tư vấn Thiết kế Dầu khí - CTCP</td><td>61.276.826.009</td><td>-</td><td>48.569.198.216</td><td>-</td></tr><tr><td>Công ty Cổ phần Hoá dầu và Xơ sợi Dầu khí</td><td>46.739.648.142</td><td>-</td><td>46.789.648.142</td><td>-</td></tr><tr><td>Công ty TNHH MTV Kinh doanh Dầu khí Việt Hải</td><td>18.945.601.254</td><td>33.329.255</td><td>18.912.271.999</td><td>-</td></tr><tr><td>Công ty TNHH Gốm sú Mỹ Xuân</td><td>11.296.297.196</td><td>-</td><td>11.296.297.196</td><td>-</td></tr><tr><td>Công ty Cổ phần Năng lượng Đất Việt</td><td>16.967.776.836</td><td>-</td><td>9.906.135.711</td><td>-</td></tr><tr><td>Công ty Cổ phần Xây lắp Dầu khí 2</td><td>4.870.608.031</td><td>29.663.090</td><td>4.811.281.851</td><td>1.443.384.555</td></tr><tr><td>Các đối tượng khác</td><td>4.373.283.333</td><td>820.372.265</td><td>15.419.171.054</td><td>-</td></tr><tr><td>b) Quá hạn từ 2 năm đến dưới 3 năm</td><td>13.448.202.214</td><td>4.034.460.664</td><td>96.718.539.188</td><td>29.914.928.040</td></tr><tr><td>Công ty Cổ phần Sản xuất - Dịch vụ - Thương mại - Xây dựng Thành Tài</td><td>-</td><td>-</td><td>73.272.262.529</td><td>21.981.678.759</td></tr><tr><td>Tổng Công ty Tư vấn Thiết kế Dầu khí - CTCP</td><td>13.448.202.214</td><td>4.034.460.664</td><td>13.883.863.752</td><td>4.160.539.126</td></tr><tr><td>Công ty Cổ phần Năng lượng Đất Việt</td><td>-</td><td>-</td><td>7.061.641.125</td><td>2.118.492.337</td></tr><tr><td>Các đối tượng khác</td><td>-</td><td>-</td><td>2.500.771.782</td><td>1.654.217.818</td></tr><tr><td>c) Quá hạn từ 1 năm đến dưới 2 năm</td><td>26.246.456.232</td><td>10.982.615.148</td><td>29.098.738.030</td><td>14.549.369.016</td></tr><tr><td>Tổng Công ty Tư vấn Thiết kế Dầu khí - CTCP</td><td>14.879.825.153</td><td>7.439.912.577</td><td>14.050.322.156</td><td>7.025.161.078</td></tr><tr><td>Công ty Cổ phần Chế tạo Giàn khoan Dầu khí</td><td>5.842.366.173</td><td>1.752.709.852</td><td>5.842.366.173</td><td>2.921.183.087</td></tr><tr><td>Công ty Cổ phần Kết cấu Kim loại và Lắp máy Dầu khí</td><td>4.860.698.667</td><td>1.458.209.600</td><td>4.860.698.667</td><td>2.430.349.334</td></tr><tr><td>Các đối tượng khác</td><td>663.566.239</td><td>331.783.119</td><td>4.345.351.034</td><td>2.172.675.517</td></tr><tr><td>d) Quá hạn từ 6 tháng đến dưới 1 năm</td><td>7.500.420.041</td><td>5.250.294.029</td><td>9.125.574.295</td><td>6.389.882.006</td></tr><tr><td>Tổng Công ty Tư vấn Thiết kế Dầu khí - CTCP</td><td>7.500.420.041</td><td>5.250.294.029</td><td>7.141.167.852</td><td>5.000.797.496</td></tr><tr><td>Các đối tượng khác</td><td>-</td><td>-</td><td>1.984.406.443</td><td>1.389.084.510</td></tr><tr><td>e) Quá hạn thanh toán hoặc chưa quá hạn nhưng khó có khả năng thu hồi từ 11 ngày đến 6 tháng</td><td>3.748.954.893</td><td>2.999.163.914</td><td>25.555.860.794</td><td>23.902.339.827</td></tr><tr><td>Công ty Cổ phần Khai thác Khoáng sản và Sản xuất Vật liệu xây dựng Trung Nguyên</td><td>3.748.954.893</td><td>2.999.163.914</td><td>-</td><td>-</td></tr><tr><td>Công ty TNHH MTV SX VLXD Đông Tâm</td><td>-</td><td>-</td><td>8.528.887.113</td><td>8.054.553.827</td></tr><tr><td>Các đối tượng khác</td><td>-</td><td>-</td><td>17.026.973.681</td><td>15.847.786.000</td></tr><tr><td></td><td>336.982.566.647</td><td>24.149.898.365</td><td>366.202.716.476</td><td>76.199.903.444</td></tr></table>
+
+Giá trị có thể thu hồi được xác định bằng giá gốc các khoản phải thu trừ đi dự phòng phải thu khó đòi đã trích lập tại ngày lập báo cáo tài chính hợp nhất.
+
+23
+
+===== PAGE 27 =====
+TỔNG CÔNG TY KHÍ VIỆT NAM - CÔNG TY CỔ PHẦN
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (Tiếp theo)
+
+MÃU SÕ B 09-DN/HN
+
+10. HÀNG TÔN KHO
+
+<table><tr><td rowspan="3"></td><td colspan="2">Số cuối năm</td><td colspan="2">Số đầu năm</td></tr><tr><td>Giá gốc</td><td>Dự phòng</td><td>Giá gốc</td><td>Dự phòng</td></tr><tr><td>VND</td><td>VND</td><td>VND</td><td>VND</td></tr><tr><td>Hàng mua đang đi đường</td><td>13.193.519.943</td><td>-</td><td>59.353.554.680</td><td>-</td></tr><tr><td>Nguyên liệu, vật liệu</td><td>1.063.934.161.257</td><td>(70.586.887.288)</td><td>874.861.891.848</td><td>(69.895.298.921)</td></tr><tr><td>Công cụ, dụng cụ</td><td>56.051.032.989</td><td>-</td><td>98.113.432.351</td><td>-</td></tr><tr><td>Chi phí sản xuất, kinh doanh dở dang</td><td>30.191.402.152</td><td>-</td><td>47.558.069.898</td><td>-</td></tr><tr><td>Thành phẩm</td><td>84.266.088.363</td><td>-</td><td>92.263.189.705</td><td>-</td></tr><tr><td>Hàng hoá</td><td>397.653.205.692</td><td>-</td><td>846.005.211.816</td><td>-</td></tr><tr><td>Cộng</td><td>1.645.289.410.396</td><td>(70.586.887.288)</td><td>2.018.155.350.298</td><td>(69.895.298.921)</td></tr></table>
+
+Trong năm 2019, dự phòng giảm giá hàng tồn kho cho một số vật tư ứ động, kém, mất phẩm chất, không có khả năng sử dụng được ghi nhận tăng với số tiền là 691.588.367 đồng (trong năm 2018: giảm 22.281.312.685 đồng).
+
+11. CHI PHÍ TRÀ TRƯỚC
+
+<table><tr><td></td><td>Số cuối nămVND</td><td>Số đầu nămVND</td></tr><tr><td colspan="3">a) Chi phí trả trước ngắn hạn</td></tr><tr><td>Chi phí bảo hiểm tài sản</td><td>39.955.137.333</td><td>40.546.553.357</td></tr><tr><td>Chi phí quảng cáo, truyền thông</td><td>13.937.378.778</td><td>24.316.710.772</td></tr><tr><td>Chi phí trả trước ngắn hạn khác</td><td>35.191.769.733</td><td>38.655.542.137</td></tr><tr><td></td><td>89.084.285.844</td><td>103.518.806.266</td></tr><tr><td colspan="3">b) Chi phí trả trước dài hạn</td></tr><tr><td>Chi phí vò bình gas chờ phân bổ</td><td>442.072.188.874</td><td>801.441.028.091</td></tr><tr><td>Trà trước tiền thuê đất và mặt bằng</td><td>247.620.491.272</td><td>362.168.759.051</td></tr><tr><td>Tiền lãi chậm trả về Quỹ hỗ trợ sắp xếp doanh nghiệp- Cơ quan Tập đoàn Dầu khí Việt Nam</td><td>1.999.999.994</td><td>3.999.999.998</td></tr><tr><td>Chi phí trả trước dài hạn khác</td><td>131.494.682.622</td><td>156.875.819.880</td></tr><tr><td></td><td>823.187.362.762</td><td>1.324.485.607.020</td></tr></table>
+
+24
+
+\( \therefore {a}_{1} = 3,{b}_{1} = 4 \)
+
+===== PAGE 28 =====
+TỔNG CÔNG TY KHÍ VIỆT NAM - CÔNG TY CỔ PHẦN
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (Tiếp theo)
+
+MÃU SÕ B 09-DN/HN
+
+12. TĂNG, GIÀM TÀI SẢN CỔ ĐỊNH HỮU HÌNH
+
+<table><tr><td rowspan="2"></td><td>Nhà cửa,vật kiến trúc</td><td>Máy móc,thiết bị</td><td>Phương tiện vận tảivà thiết bị truyền dẫn</td><td>Thiết bịvăn phòng</td><td>Tài sảncổ định khác</td><td>Tổng cộng</td></tr><tr><td>VND</td><td>VND</td><td>VND</td><td>VND</td><td>VND</td><td>VND</td></tr><tr><td colspan="7">NGUYÊN GIÁ</td></tr><tr><td>Số dư đầu năm</td><td>8.155.101.295.107</td><td>10.046.374.727.935</td><td>860.372.439.674</td><td>344.187.936.837</td><td>30.623.641.963.289</td><td>50.029.678.362.842</td></tr><tr><td>Đầu tư xây dựng cơ bản hoàn thành</td><td>23.570.236.751</td><td>64.542.929.589</td><td>19.266.462.887</td><td>-</td><td>169.594.184.573</td><td>276.973.813.800</td></tr><tr><td>Mua sắm mới</td><td>2.206.655.635</td><td>60.263.162.205</td><td>8.489.393.981</td><td>44.161.095.582</td><td>5.017.200.840</td><td>120.137.508.243</td></tr><tr><td>Giảm do không còn nằm giữ quyền kiểm soát tại Công ty con</td><td>(593.977.759.971)</td><td>(1.149.027.314.177)</td><td>(31.332.196.407)</td><td>(7.896.155.758)</td><td>(105.849.905.188)</td><td>(1.888.083.331.501)</td></tr><tr><td>Thanh lý, nhượng bán</td><td>(4.884.495.113)</td><td>(14.147.940.733)</td><td>(476.812.818)</td><td>(17.469.814.396)</td><td>(269.472.727)</td><td>(37.248.535.787)</td></tr><tr><td>Phân loại lại</td><td>139.873.262.715</td><td>(139.615.018.302)</td><td>713.531.545</td><td>(2.025.288.574)</td><td>1.053.512.616</td><td>-</td></tr><tr><td>Tăng/(Giảm) khác</td><td>12.405.924.305</td><td>(325.004.923)</td><td>-</td><td>60.533.500</td><td>-</td><td>12.141.452.882</td></tr><tr><td>Số dư cuối năm</td><td>7.734.295.119.429</td><td>8.868.065.541.594</td><td>857.032.818.862</td><td>361.018.307.191</td><td>30.693.187.483.403</td><td>48.513.599.270.479</td></tr><tr><td colspan="7">GIÁ TRỊ HAO MÒN LỦY KẾ</td></tr><tr><td>Số dư đầu năm</td><td>3.795.536.708.585</td><td>3.698.959.133.023</td><td>667.496.555.167</td><td>262.344.148.343</td><td>23.456.341.369.205</td><td>31.880.677.914.323</td></tr><tr><td>Trích khấu hao/hao mòn trong năm</td><td>549.317.195.866</td><td>619.267.768.080</td><td>37.424.310.381</td><td>34.043.409.906</td><td>1.349.399.200.249</td><td>2.589.451.884.482</td></tr><tr><td>Giảm do không còn nằm giữ quyền kiểm soát tại Công ty con</td><td>(278.426.359.712)</td><td>(945.445.143.625)</td><td>(26.094.300.270)</td><td>(6.299.885.066)</td><td>(104.658.514.034)</td><td>(1.360.924.202.707)</td></tr><tr><td>Thanh lý, nhượng bán</td><td>(4.425.460.555)</td><td>(10.776.604.048)</td><td>(476.812.818)</td><td>(17.469.814.396)</td><td>(269.472.727)</td><td>(33.418.164.544)</td></tr><tr><td>Phân loại lại</td><td>49.803.979.410</td><td>(48.349.829.435)</td><td>(1.138.780.630)</td><td>(903.353.800)</td><td>587.984.455</td><td>-</td></tr><tr><td>Tăng/(Giảm) khác</td><td>-</td><td>(22.312.588)</td><td>-</td><td>68.061.948</td><td>-</td><td>45.749.360</td></tr><tr><td>Số dư cuối năm</td><td>4.111.806.063.594</td><td>3.313.633.011.407</td><td>677.210.971.830</td><td>271.782.566.935</td><td>24.701.400.567.148</td><td>33.075.833.180.914</td></tr><tr><td colspan="7">GIÁ TRỊ CÒN LẠI</td></tr><tr><td>Tại ngày đầu năm</td><td>4.359.564.586.522</td><td>6.347.415.594.912</td><td>192.875.884.507</td><td>81.843.788.494</td><td>7.167.300.594.084</td><td>18.149.000.448.519</td></tr><tr><td>Tại ngày cuối năm</td><td>3.622.489.055.835</td><td>5.554.432.530.187</td><td>179.821.847.032</td><td>89.235.740.256</td><td>5.991.786.916.255</td><td>15.437.766.089.565</td></tr></table>
+
+25
+
+(8) 0.000 50% | 21
+
+===== PAGE 29 =====
+TỔNG CÔNG TY KHÍ VIỆT NAM - CÔNG TY CỔ PHẦN
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (Tiếp theo)
+
+MÃU SÕ B 09-DN/HN
+
+Nguyên giá của tài sản cố định hữu hình bao gồm các tài sản cố định đã khấu hao hết nhưng vẫn còn sử dụng tại ngày 31 tháng 12 năm 2019 là 18.862.659.174.230 đồng (tại ngày 31 tháng 12 năm 2018: 17.858.146.032.457 đồng).
+
+Nguyên giá tài sản cố định tại ngày 31 tháng 12 năm 2019 bao gồm một số tài sản có nguyên giá là 13.257.251.390.439 đồng (tại ngày 31 tháng 12 năm 2018: 12.958.075.748.976 đồng) được tạm tăng theo chi phí thực tế phát sinh đã tập hợp được để trích khấu hao khi công trình được đưa vào sử dụng. Nguyên giá các công trình này sẽ được điều chỉnh lại khi quyết toán công trình được phê duyệt đối với các chênh lệch phát sinh (nếu có).
+
+13. TĂNG, GIÀM TÀI SẢN CỔ ĐỊNH VÔ HÌNH
+
+<table><tr><td rowspan="2"></td><td>Quyền sử dụng đất</td><td>Phần mềm máy tính</td><td>Bàn quyền, bằng sáng chế</td><td>Tài sản cổ định vô hình khác</td><td>Tổng cộng</td></tr><tr><td>VND</td><td>VND</td><td>VND</td><td>VND</td><td>VND</td></tr><tr><td colspan="6">NGUYÊN GIÁ</td></tr><tr><td>Số dư đầu năm</td><td>397.105.769.847</td><td>152.087.365.146</td><td>1.464.370.376</td><td>68.800.000</td><td>550.726.305.369</td></tr><tr><td>Mua trong năm</td><td>-</td><td>28.757.302.380</td><td>-</td><td>-</td><td>28.757.302.380</td></tr><tr><td>Thanh lý, nhượng bán</td><td>-</td><td>-</td><td>-</td><td>(68.800.000)</td><td>(68.800.000)</td></tr><tr><td>Giảm do mất quyền kiểm soát tại Công ty con</td><td>(28.839.738.884)</td><td>(9.222.430.906)</td><td>(1.464.370.376)</td><td>-</td><td>(39.526.540.166)</td></tr><tr><td>Giảm khác</td><td>-</td><td>(163.608.500)</td><td>-</td><td>-</td><td>(163.608.500)</td></tr><tr><td>Số dư cuối năm</td><td>368.266.030.963</td><td>171.458.628.120</td><td>-</td><td>-</td><td>539.724.659.083</td></tr><tr><td colspan="6">GIÁ TRỊ HAO MÒN LỦY KẾ</td></tr><tr><td>Số dư đầu năm</td><td>7.760.663.227</td><td>101.316.136.118</td><td>1.394.388.522</td><td>68.800.000</td><td>110.539.987.867</td></tr><tr><td>Khẩu hao trong năm</td><td>764.434.779</td><td>27.416.074.675</td><td>69.981.854</td><td>-</td><td>28.250.491.308</td></tr><tr><td>Thanh lý, nhượng bán</td><td>-</td><td>-</td><td>-</td><td>(68.800.000)</td><td>(68.800.000)</td></tr><tr><td>Giảm do mất quyền kiểm soát tại Công ty con</td><td>(2.972.675.363)</td><td>(6.575.761.547)</td><td>(1.464.370.376)</td><td>-</td><td>(11.012.807.286)</td></tr><tr><td>Giảm khác</td><td></td><td>(90.893.619)</td><td></td><td>-</td><td>(90.893.619)</td></tr><tr><td>Số dư cuối năm</td><td>5.552.422.643</td><td>122.065.555.627</td><td>-</td><td>-</td><td>127.617.978.270</td></tr><tr><td colspan="6">GIÁ TRỊ CÒN LẠI</td></tr><tr><td>Tại ngày đầu năm</td><td>389.345.106.620</td><td>50.771.229.028</td><td>69.981.854</td><td>-</td><td>440.186.317.502</td></tr><tr><td>Tại ngày cuối năm</td><td>362.713.608.320</td><td>49.393.072.493</td><td>-</td><td>-</td><td>412.106.680.813</td></tr></table>
+
+Nguyên giá của tài sản cố định vô hình bao gồm một số tài sản đã khấu hao hết những vẫn còn sử dụng tại ngày 31 tháng 12 năm 2019 là 81.400.565.974 đồng (tại ngày 31 tháng 12 năm 2018: 61.939.345.072 đồng).
+
+26
+
+\( \left\| \frac{1}{2} - \frac{1}{2}\right\|_{0}^{2} = \left\| \frac{1}{2} - \frac{1}{2}\right\|_{0}^{2} \)
+
+===== PAGE 30 =====
+TỔNG CÔNG TY KHÍ VIỆT NAM - CÔNG TY CỔ PHẦN
+THUYÊT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (Tiếp theo)
+
+MÃU SỐ B 09-DN/HN
+
+14. CHI PHÍ XÂY DỰNG CƠ BẢN DỒ DANG
+
+<table><tr><td></td><td>Số cuối nămVND</td><td>Số đầu nămVND</td></tr><tr><td>Dự án đường ống dẫn khí Nam Côn Sơn 2 - Giai đoạn</td><td>1.461.213.433.323</td><td>174.778.866.174</td></tr><tr><td>Đường ống dẫn khí Lô B - Ô Môn</td><td>713.687.757.747</td><td>589.224.807.564</td></tr><tr><td>Dự án Đường ống thu gom, vận chuyển khí mô Sao Vàng - Đại Nguyệt</td><td>280.688.369.277</td><td>18.725.251.796</td></tr><tr><td>Nhà máy Xử lý khí Cà Mau</td><td>153.895.502.120</td><td>5.547.809.225</td></tr><tr><td>Kho cảng nhập khẩu LNG Sơn Mỹ</td><td>137.938.773.143</td><td>136.681.306.779</td></tr><tr><td>Kho chứa LNG quy mô 1 triệu tấn/năm tại Thị Vải</td><td>108.565.985.404</td><td>77.021.627.904</td></tr><tr><td>Dự án Đường ống thu gom khí mô Cá Rồng Đỏ</td><td>70.435.976.690</td><td>70.435.976.690</td></tr><tr><td>Dự án Nâng cao hệ số thu hồi LPG tại nhà máy GPP Đình Cổ</td><td>5.786.500.105</td><td>18.605.948.217</td></tr><tr><td>Khác</td><td>88.659.814.819</td><td>144.176.732.369</td></tr><tr><td></td><td>3.020.872.112.628</td><td>1.235.198.326.718</td></tr></table>
+
+15. TÀI SẢN THUẾ THU NHẬP HOÃN LẠI
+
+<table><tr><td></td><td>Khấu hao tài sản cổ định và các khoản dự phòng VND</td><td>Lợi nhuận chưa thực hiện VND</td><td>Tổng cộng VND</td></tr><tr><td>Số đầu năm trước</td><td>19.514.618.883</td><td>26.627.147.633</td><td>46.141.766.516</td></tr><tr><td>Ghi nhận trong năm</td><td>(1.806.314.720)</td><td>(360.094.757)</td><td>(2.166.409.477)</td></tr><tr><td>Số dư cuối năm trước</td><td>17.708.304.163</td><td>26.267.052.876</td><td>43.975.357.039</td></tr><tr><td>Ghi nhận trong năm</td><td>2.733.574.427</td><td>(4.466.395.857)</td><td>(1.732.821.430)</td></tr><tr><td>Giảm do không còn nằm giữ quyền kiểm soát tại Công ty con</td><td>(11.752.577.695)</td><td>-</td><td>(11.752.577.695)</td></tr><tr><td>Số dư cuối năm nay</td><td>8.689.300.895</td><td>21.800.657.019</td><td>30.489.957.914</td></tr></table>
+
+16. HỢP ĐÔNG HỢP TÁC KINH DOANH
+
+Tổng Công ty Khí Việt Nam - Công ty Cổ phần, Tổng Công ty Tư văn Thiết kế Dầu khí - Công ty Cổ phần và Công ty Cổ phần Địa ốc Phú Long hợp tác cùng góp vốn đầu tư xây dựng và kinh doanh khai thác Dự án "Tòa nhà văn phòng PV Gas Tower" tại số 673 đường Nguyễn Hữu Thọ, xã Phước Kiến, huyện Nhà Bè, thành phố Hồ Chí Minh. Theo thỏa thuận giữa các bên, Tổng Công ty thực hiện quản lý và hạch toán kết quả kinh doanh của hợp đồng và phân chia lợi nhuận sau thuế cho các bên theo tỷ lệ vốn góp.
+
+Tỷ lệ vốn góp theo thỏa thuận tại Hợp đồng hợp tác kinh doanh như sau:
+
+Phần vốn góp của Tổng Công ty Khí Việt Nam - Công ty Cổ phần: 70%
+
+Phần vốn góp của Tổng Công ty Tư vấn Thiết kế Dầu khí - Công ty Cổ phần: 20%
+
+Phần vốn góp của Công ty Cổ phần Địa ốc Phú Long: 10%
+
+Dưới đây là số liệu về tình hình hoạt động của hợp đồng hợp tác kinh doanh này trong nằm tài chính kết thúc ngày 31 tháng 12 năm 2019:
+
+27
+
+C.I.
+Y
+TE
+M
+HA
+
+02
+ON
+HI
+N
+G
+H
+H
+
+===== PAGE 31 =====
+TỔNG CÔNG TY KHÍ VIỆT NAM - CÔNG TY CỔ PHẦN
+THUYÊT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (Tiếp theo)
+
+MÃU SÕ B 09-DN/HN
+
+<table><tr><td></td><td>Số cuối năm VND</td><td>Số đầu năm VND</td></tr><tr><td>Nguyên giá tài sản cố định</td><td>723.317.373.840</td><td>723.317.373.840</td></tr><tr><td>Hao mòn lũy kẽ tài sản cố định</td><td>116.305.193.593</td><td>106.763.869.405</td></tr><tr><td>Giá trị còn lại của tài sản cố định</td><td>607.012.180.247</td><td>616.553.504.435</td></tr></table>
+
+<table><tr><td></td><td>Năm nayVND</td><td>Năm trướcVND</td></tr><tr><td>Doanh thu của hợp đồng hợp tác kinh doanh</td><td>81.119.697.429</td><td>74.451.240.326</td></tr><tr><td>Giá vốn của hợp đồng hợp tác kinh doanh</td><td>50.141.319.352</td><td>43.906.639.203</td></tr><tr><td>(Trích lập)/Hoàn nhập dự phòng phải thu</td><td>13.762.051.776</td><td>(4.663.926.835)</td></tr><tr><td>Chi phí khác của hợp đồng hợp tác kinh doanh</td><td>-</td><td>716.324.872</td></tr><tr><td>Thuế thu nhập doanh nghiệp</td><td>9.030.298.903</td><td>14.300.819.880</td></tr><tr><td>Lợi nhuận thuần sau thuế thu nhập doanh nghiệp</td><td>8.186.027.398</td><td>20.191.383.206</td></tr><tr><td>Phân chia theo tỷ lệ góp vốn:</td><td></td><td></td></tr><tr><td>- Tổng Công ty Khí Việt Nam - CTCP</td><td>5.886.641.926</td><td>14.128.480.302</td></tr><tr><td>- Tổng Công ty Tư vấn Thiết kế Dầu khí - CTCP</td><td>1.328.383.361</td><td>3.359.527.707</td></tr><tr><td>- Công ty Cổ phần Địa ốc Phú Long</td><td>971.002.111</td><td>2.703.375.197</td></tr></table>
+
+17. LỘI THẾ THƯƠNG MẠI
+
+<table><tr><td rowspan="2"></td><td>Năm nay</td><td>Năm trước</td></tr><tr><td>VND</td><td>VND</td></tr><tr><td>Số dư đầu năm</td><td>165.674.410.771</td><td>235.432.057.411</td></tr><tr><td>Phân bổ vào chi phí trong năm</td><td>(67.446.146.641)</td><td>(69.757.646.640)</td></tr><tr><td>Giảm do không còn nằm giữ quyền kiểm soát tai Công ty con</td><td>(15.024.750.000)</td><td>-</td></tr><tr><td>Số dư cuối năm</td><td>83.203.514.130</td><td>165.674.410.771</td></tr></table>
+
+18. PHẢI TRẢ NGƯỜI BÁN NGẮN HẠN
+
+<table><tr><td rowspan="3"></td><td colspan="2">Số cuối năm</td><td colspan="2">Số đầu năm</td></tr><tr><td>Giá trị</td><td>Số có khả năng trả nợ</td><td>Giá trị</td><td>Số có khả năng trả nợ</td></tr><tr><td>VND</td><td>VND</td><td>VND</td><td>VND</td></tr><tr><td>Abu Dhabi National Oil Company</td><td>432.776.348.000</td><td>432.776.348.000</td><td>453.970.562.375</td><td>453.970.562.375</td></tr><tr><td>Liên doanh Việt - Nga VietsovPetro</td><td>200.952.930.031</td><td>200.952.930.031</td><td>172.169.591.633</td><td>172.169.591.633</td></tr><tr><td>Cơ quan Tập đoàn Dầu khí Việt Nam</td><td>184.117.736.588</td><td>184.117.736.588</td><td>92.293.519.979</td><td>92.293.519.979</td></tr><tr><td>Tổng Công ty Cổ phần Dịch vụ Kỹ thuật Dầu khí Việt Nam</td><td>175.912.959.380</td><td>175.912.959.380</td><td>108.093.930.612</td><td>108.093.930.612</td></tr><tr><td>Công ty Cổ phần Lộc hóa dâu Bình Sơn</td><td>124.359.870.506</td><td>124.359.870.506</td><td>464.717.487.091</td><td>464.717.487.091</td></tr><tr><td>Petredec International Pte., Ltd.</td><td>92.520.346.999</td><td>92.520.346.999</td><td>183.416.461.318</td><td>183.416.461.318</td></tr><tr><td>E1 Corporation</td><td>52.716.593.975</td><td>52.716.593.975</td><td>62.257.355.388</td><td>62.257.355.388</td></tr><tr><td>Trafigura Pte Ltd.</td><td>-</td><td>-</td><td>464.518.162.476</td><td>464.518.162.476</td></tr><tr><td>Các đối tượng khác</td><td>650.536.173.255</td><td>650.536.173.255</td><td>662.407.314.336</td><td>662.407.314.336</td></tr><tr><td></td><td>1.913.892.958.734</td><td>1.913.892.958.734</td><td>2.663.844.385.208</td><td>2.663.844.385.208</td></tr><tr><td>Phải trả người bán ngắn hạn là các bên liên quan (chi tiết trình bày tại Thuyết minh số 39)</td><td>786.707.163.849</td><td>786.707.163.849</td><td>934.860.763.797</td><td>934.860.763.797</td></tr></table>
+
+28
+
+===== PAGE 32 =====
+TỔNG CÔNG TY KHÍ VIỆT NAM - CÔNG TY CỔ PHẦN
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (Tiếp theo)
+
+MÃU SÕ B 09-DN/HN
+
+19. THUÊ VÀ CÁC KHOÀN PHẢI THU/PHẢI NỘP NHÀ NƯỚC
+
+<table><tr><td rowspan="2">Chỉ tiêu</td><td rowspan="2">Số đầu năm</td><td colspan="3">Phát sinh trong năm</td><td rowspan="2">Số cuối năm</td></tr><tr><td>Số phải nộp/phải thu</td><td>Số đã nộp/đã thu</td><td>Giảm do không còn nằm giữ quyền kiểm soát tại công ty con</td></tr><tr><td></td><td>VND</td><td>VND</td><td>VND</td><td>VND</td><td>VND</td></tr><tr><td>Thuế giả trị gia tăng</td><td>75.002.555.765</td><td>2.351.559.542.729</td><td>2.302.147.509.338</td><td>5.647.328.975</td><td>118.767.260.181</td></tr><tr><td>Thuế xuất nhập khẩu</td><td>(18.158.342.152)</td><td>311.452.961.964</td><td>320.118.777.140</td><td>-</td><td>(26.824.157.328)</td></tr><tr><td>Thuế thu nhập doanh nghiệp</td><td>626.742.406.764</td><td>2.959.580.366.944</td><td>2.853.005.601.343</td><td>2.475.031.065</td><td>730.842.141.300</td></tr><tr><td>Thuế nhà đất, tiền thuê đất</td><td>-</td><td>23.318.984.702</td><td>23.377.476.990</td><td>(49.506.870)</td><td>(8.985.418)</td></tr><tr><td>Thuế thu nhập cá nhân</td><td>13.496.636.056</td><td>99.048.553.341</td><td>92.980.385.980</td><td>(233.461.956)</td><td>19.798.265.373</td></tr><tr><td>Thuế môn bài</td><td>-</td><td>519.000.000</td><td>519.000.000</td><td>-</td><td>-</td></tr><tr><td>Thuế và các khoản phí, lệ phí khác</td><td>4.131.711.449</td><td>23.063.169.205</td><td>28.409.201.615</td><td>(1.464.860.746)</td><td>250.539.785</td></tr><tr><td>Cộng</td><td>701.214.967.882</td><td>5.768.542.578.885</td><td>5.620.557.952.406</td><td>6.374.530.468</td><td>842.825.063.893</td></tr><tr><td colspan="6">Trong đó:</td></tr><tr><td>Thuế và các khoản khác phải thu Nhà nước</td><td>58.485.563.015</td><td></td><td></td><td></td><td>34.040.110.035</td></tr><tr><td>Thuế và các khoản khác phải nộp Nhà nước</td><td>759.700.530.897</td><td></td><td></td><td></td><td>876.865.173.928</td></tr></table>
+
+Thuế và các khoản khác phải thu Nhà nước
+
+<table><tr><td rowspan="2"></td><td>Số cuối năm</td><td>Số đầu năm</td></tr><tr><td>VND</td><td>VND</td></tr><tr><td>Thuế giá trị gia tăng</td><td>4.417.560.000</td><td>23.089.083.261</td></tr><tr><td>Thuế nhập khẩu</td><td>27.428.515.001</td><td>19.330.423.943</td></tr><tr><td>Thuế thu nhập doanh nghiệp</td><td>2.109.316.452</td><td>14.292.797.930</td></tr><tr><td>Thuế thu nhập cá nhân</td><td>77.718.582</td><td>154.154.730</td></tr><tr><td>Các loại thuế khác</td><td>7.000.000</td><td>1.619.103.151</td></tr><tr><td></td><td>34.040.110.035</td><td>58.485.563.015</td></tr></table>
+
+Thuế và các khoản khác phải nộp Nhà nước
+
+<table><tr><td rowspan="2"></td><td>Số cuối năm</td><td>Số đầu năm</td></tr><tr><td>VND</td><td>VND</td></tr><tr><td>Thuế thu nhập doanh nghiệp</td><td>732.951.457.752</td><td>641.035.204.694</td></tr><tr><td>Thuế giá trị gia tăng</td><td>123.184.820.181</td><td>98.091.639.026</td></tr><tr><td>Thuế thu nhập cá nhân</td><td>19.875.983.955</td><td>13.650.790.786</td></tr><tr><td>Các loại thuế khác</td><td>852.912.040</td><td>6.922.896.391</td></tr><tr><td></td><td>876.865.173.928</td><td>759.700.530.897</td></tr></table>
+
+29
+
+===== PAGE 33 =====
+TỔNG CÔNG TY KHÍ VIỆT NAM - CÔNG TY CỔ PHẦN
+THUYÊT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (Tiếp theo)
+
+MÃU SỐ B 09-DN/HN
+
+20. CHI PHÍ PHẢI TRẢ NGẮN HẠN
+
+<table><tr><td rowspan="2"></td><td>Số cuối năm</td><td>Số đầu năm</td></tr><tr><td>VND</td><td>VND</td></tr><tr><td>Trích trước chi phí mua và xử lý khí</td><td>3.622.952.010.339</td><td>4.151.352.384.590</td></tr><tr><td>- Trích trước chi phí mua và vận chuyển khí Nam Côn Sơn</td><td>2.446.755.125.459</td><td>3.008.942.751.075</td></tr><tr><td>- Trích trước chi phí mua và xử lý khí Cửu Long</td><td>753.896.453.680</td><td>727.086.054.826</td></tr><tr><td>- Trích trước chi phí mua và xử lý khí Thiên Úng Đại Hùng</td><td>232.932.734.425</td><td>248.273.111.621</td></tr><tr><td>- Trích trước chi phí mua khí PM3 CAA và 46 - Cái Nước</td><td>122.516.775.805</td><td>87.071.393.627</td></tr><tr><td>- Trích trước chi phí mua khí Hàm Rồng Thái Bình</td><td>66.850.920.970</td><td>79.979.073.441</td></tr><tr><td>Điều chỉnh chi phí mua khí Đông Bắc Rồng cho giai đoạn 2013 - 2018 do thay đổi nhiệt trị (i)</td><td>218.561.235.725</td><td>-</td></tr><tr><td>Chi phí phải trả nhà thầu xây dựng cơ bản</td><td>3.576.179.981</td><td>250.271.023.565</td></tr><tr><td>Trích trước chi phí bảo dưỡng, sửa chữa</td><td>29.985.828.140</td><td>22.192.703.756</td></tr><tr><td>Lãi vay phải trả</td><td>4.601.850.418</td><td>81.993.513.758</td></tr><tr><td>Điều chỉnh chi phí mua khí Cửu Long cho giai đoạn 2016 - 2018 do thay đổi nhiệt trị (ii)</td><td>-</td><td>840.097.798.853</td></tr><tr><td>Chi phí nhà điều hành Nam Côn Sơn</td><td>72.242.942.010</td><td>45.997.693.232</td></tr><tr><td>Các khoản khác</td><td>95.924.681.716</td><td>96.640.530.275</td></tr><tr><td></td><td>4.047.844.728.329</td><td>5.488.545.648.029</td></tr><tr><td>Chi phí phải trả các bên liên quan(chỉ tiết trình bày tại Thuyết minh số 39)</td><td>2.117.310.266.773</td><td>1.752.010.862.737</td></tr></table>
+
+(i) Đối với lượng khí Đông Bắc Rồng đã tiêu thụ trong giai đoạn tử 2013 đến 2018, Tổng Công ty đang tạm chỉ trả cho Tập đoàn Dầu khí Việt Nam trên cơ sở nhiệt trị tạm tính là 40.000 BTU/Sm3 và đơn giá tạm tính theo giá mua khí bề Cửu Long cùng thời kỳ. Ngày 21 tháng 01 năm 2019, Tổng Công ty và Tập đoàn Dầu khí Việt Nam đã có cuộc hợp thống nhất về nhiệt trị khí Đông Bắc Rồng căn cứ vào Dự thảo Hợp đồng mua bán khí Đông Bắc Rồng và ý kiến các bên. Theo đó, đối với giai đoạn khí Đông Bắc Rồng được hoán đổi bằng khí Lô 09.1 (Giai đoạn 1), trong giai đoạn tử năm 2013 đến năm 2016, nhiệt trị được áp dụng là là 46.000 BTU/Sm3 và trong giai đoạn tử 2017 trở đi, nhiệt trị được áp dụng trên cơ sở nhiệt trị thực tế của khí Lô 09.1 tại đầu ra của CCP. Tổng Công ty đã ghi nhận bổ sung chi phí mua khí Đông Bắc Rồng với số tiền là 218.561.235.725 đồng dựa trên Dự thảo Hợp đồng mua bán khí Đông Bắc Rồng và phân ánh vào kết quả hoạt động kinh doanh cho năm tài chính kết thúc ngày 31 tháng 12 năm 2019. Tại ngày báo cáo tài chính hợp nhất này, hai bền đang tiến hành các thủ tục cần thiết để Hợp đồng mua bán khí Đông Bắc Rồng được chính thức ký kết.
+
+(ii) Theo Hợp đồng mua bán khí Bế Cửu Long số 01/PVN-PVGas/2016 giữa Tổng Công ty và Tập đoàn Dầu khí Việt Nam ngày 01 tháng 02 năm 2016, nhiệt trị khí Rồng Đồi Môi và khí Lô 09-1 từ ngày 01 tháng 01 năm 2016 đến hết ngày 31 tháng 12 năm 2020 được thỏa thuận tạm thời áp dụng là 40.000 BTU/Sm3. Ngày 08 tháng 3 năm 2019, Hội đồng Quản trị Tổng Công ty đã ban hành Nghị quyết số 26/NQ-KVN thông qua các nội dung chính của Bổ sung số 01 Hợp đồng mua bán khí Bế Cửu Long ("Bổ sung số 01"). Theo đó, nhiệt trị khí Rồng Đồi Môi và khí Lô 09-1 từ ngày 01 tháng 01 năm 2016 đến ngày 31 tháng 12 năm 2018 được thống nhất áp dụng là 46.000 BTU/Sm3. Tổng Công ty đã ghi nhận bổ sung chi phí mua khí Bế Cửu Long cho giai đoạn 2016-2018 với số tiền là 840.097.798.853 đồng và phản ánh vào kết quả hoạt động kinh doanh cho năm tài chính kết thúc ngày 31 tháng 12 năm 2018. Tại ngày báo cáo tài chính hợp nhất này, Bổ sung số 01 đã được ký kết và hai bên đã hoàn tất thủ tục quyết toán theo Công văn số 3193/DKVN-TCKT ngày 13 tháng 6 năm 2019.
+
+30
+
+||の(二)、(三)
+
+===== PAGE 34 =====
+TỔNG CÔNG TY KHÍ VIỆT NAM - CÔNG TY CỔ PHẦN
+THUYÊT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (Tiếp theo)
+
+MÃU SỐ B 09-DN/HN
+
+21. CÁC KHOÀN PHÀI TRÀ KHÁC
+
+<table><tr><td rowspan="2"></td><td>Số cuối năm</td><td>Số đầu năm</td></tr><tr><td>VND</td><td>VND</td></tr><tr><td colspan="3">a) Phải trả ngắn hạn khác</td></tr><tr><td>Cổ tức phải trả</td><td>3.873.578.404</td><td>3.373.837.955</td></tr><tr><td>Tổng Công ty Tư vấn Thiết kế Đầu khí - CTCP (ii)</td><td>156.613.644.066</td><td>155.078.782.366</td></tr><tr><td>Công ty Cổ phần Địa ốc Phú Long (ii)</td><td>81.139.202.347</td><td>80.168.200.236</td></tr><tr><td>Tập đoàn Đầu khí Việt Nam (iii)</td><td>-</td><td>22.068.726.543</td></tr><tr><td>Chiết khấu doanh thu vận chuyển khí Nam Côn Sơn</td><td>348.065.220.579</td><td>269.189.139.972</td></tr><tr><td>Phải trả nhà thầu xây dựng cơ bản (i)</td><td>253.958.496.577</td><td>-</td></tr><tr><td>Nhận ký quỹ, ký cược ngắn hạn</td><td>44.902.529.972</td><td>38.951.616.348</td></tr><tr><td>Phải trả hàng vay</td><td>20.693.196.232</td><td>5.951.213.615</td></tr><tr><td>Các khoản khác</td><td>119.945.644.087</td><td>83.608.397.218</td></tr><tr><td></td><td>1.029.191.512.264</td><td>658.389.914.253</td></tr><tr><td>Phải trả ngắn hạn khác các bên liên quan(chi tiết trình bày tại Thuyết minh số 39)</td><td>156.613.644.066</td><td>177.147.508.909</td></tr><tr><td colspan="3">b) Phải trả dài hạn khác</td></tr><tr><td>Nhận ký quỹ, ký cược vỏ bình ga</td><td>82.519.613.202</td><td>243.307.739.992</td></tr><tr><td>Các khoản khác</td><td>4.422.194.519</td><td>3.830.122.286</td></tr><tr><td></td><td>86.941.807.721</td><td>247.137.862.278</td></tr></table>
+
+(i) Số dư phải trả nhà thâu xây dựng cơ bản tại ngày 31 tháng 12 năm 2019 phần ánh khoản chi phí liên quan đến Dự án xử lý khí Cà Mau và Dự án nâng cao hệ số thu hồi LPG tại nhà máy GPP Dinh Cổ chưa được quyết toán.
+
+(ii) Các khoản phải trả phần ánh phân vốn góp và lợi nhuận được chia của Tổng Công ty Tư vấn Thiết kế Đầu khí - CTCP và Công ty Cổ phần Địa ốc Phú Long từ việc đầu tư xây dựng và kinh doanh khai thác Dự án "Tòa nhà văn phòng PV Gas Tower".
+
+(iii) Số dư phải trả Cơ quan Tập đoàn Dầu khí Việt Nam tại ngày 31 tháng 12 năm 2018 phần ánh khoản chi phí dịch vụ quản lý phải trả theo Hợp đồng cung cấp dịch vụ giữa Tập đoàn Dầu khí Việt Nam và Tổng Công ty. Theo đó, Tổng Công ty thực hiện trả cho Cơ quan Tập đoàn Dầu khí Việt Nam chi phí dịch vụ quản lý hàng năm theo mức 0,05% và 0,5% tính trên từng loại doanh thu. Theo Nghị quyết số 77/NQ-DKVN của Tập đoàn Dầu khí Việt Nam ngày 07 tháng 01 năm 2019, Tập đoàn Dầu khí Việt Nam dùng thu phí quản lý cho các đơn vị thành viên áp dụng từ ngày 01 tháng 01 năm 2019.
+
+31
+
+1125
+ONG
+TNH
+LOI
+.TN
+DA-
+M.S.
+
+===== PAGE 35 =====
+TỔNG CÔNG TY KHÍ VIỆT NAM - CÔNG TY CỔ PHẦN
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (Tiếp theo)
+
+MÃU SỐ B 09-DN/HN
+
+22. VAY VÀ NỘ THUÊ TÀI CHÍNH
+
+<table><tr><td rowspan="3"></td><td colspan="2">Số đầu năm</td><td colspan="4">Phát sinh trong năm</td><td colspan="2">Số cuối năm</td></tr><tr><td>Giá trị</td><td>Số có khả năng trả nợ</td><td>Giải ngân</td><td>Chênh lệch tỷ giá</td><td>Trả gốc</td><td>Giảm do không còn nằm giữ quyền kiểm soát tại công ty con</td><td>Giá trị</td><td>Số có khả năng trả nợ</td></tr><tr><td>VND</td><td>VND</td><td>VND</td><td>VND</td><td>VND</td><td>VND</td><td>VND</td><td>VND</td></tr><tr><td>Vay ngắn hạn</td><td>435.936.258.565</td><td>435.936.258.565</td><td>2.344.153.043.210</td><td>-</td><td>(2.347.238.207.393)</td><td>(126.000.000.000)</td><td>306.851.094.382</td><td>306.851.094.382</td></tr><tr><td>Vay ngắn hạn ngân hàng</td><td>435.936.258.565</td><td>435.936.258.565</td><td>2.344.153.043.210</td><td></td><td>(2.347.238.207.393)</td><td>(126.000.000.000)</td><td>306.851.094.382</td><td>306.851.094.382</td></tr><tr><td>Vay và nợ thuê tài chính dài hạn</td><td>4.449.673.821.708</td><td>4.449.673.821.708</td><td>-</td><td>(976.500.000)</td><td>(1.955.046.218.438)</td><td>(4.004.347.526)</td><td>2.489.646.755.744</td><td>2.489.646.755.744</td></tr><tr><td>Vay dài hạn ngân hàng</td><td>4.437.769.588.489</td><td>4.437.769.588.489</td><td>-</td><td>(976.500.000)</td><td>(1.947.146.332.745)</td><td>-</td><td>2.489.646.755.744</td><td>2.489.646.755.744</td></tr><tr><td>Nợ thuê tài chính dài hạn</td><td>11.904.233.219</td><td>11.904.233.219</td><td>-</td><td>-</td><td>(7.899.885.693)</td><td>(4.004.347.526)</td><td>-</td><td>-</td></tr><tr><td>Cộng</td><td>4.885.610.080.273</td><td>4.885.610.080.273</td><td>2.344.153.043.210</td><td>(976.500.000)</td><td>(4.302.284.425.831)</td><td>(130.004.347.526)</td><td>2.796.497.850.126</td><td>2.796.497.850.126</td></tr><tr><td colspan="9">Trong đó:</td></tr><tr><td>Số phải trả trong vòng 12 tháng</td><td>1.489.867.272.234</td><td></td><td></td><td></td><td></td><td></td><td>1.340.567.850.126</td><td></td></tr><tr><td>Số phải trả sau 12 tháng</td><td>3.395.742.808.039</td><td></td><td></td><td></td><td></td><td></td><td>1.455.930.000.000</td><td></td></tr></table>
+
+32
+
+\( \left\| H^{n}\right\|_{N}=\left\| \frac{1}{2} \right\| \geq \frac{1}{2} \left\| \frac{1}{2} \right\| \leq \left\| \frac{1}{2} \right\| \)
+
+===== PAGE 36 =====
+TỔNG CÔNG TY KHÍ VIỆT NAM - CÔNG TY CỔ PHẦN
+THUYÊT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (Tiếp theo)
+
+MÃU SỐ B 09-DN/HN
+
+Các khoản vay ngắn hạn được giải ngân bằng Đồng Việt Nam để bổ sung vốn lưu động, phục vụ hoạt động kinh doanh của một số công ty con.
+
+Các khoản vay dài hạn và nợ thuê tài chính dài hạn được giải ngân bằng Đồng Việt Nam và Đô la Mỹ để phục vụ cho việc đầu tư mua sắm tài sản cố định của Tổng Công ty và một số công ty con. Chi tiết số tiền vay theo đồng tiền giải ngân như sau:
+
+<table><tr><td rowspan="2"></td><td>Số cuối năm</td><td>Số đầu năm</td></tr><tr><td>VND</td><td>VND</td></tr><tr><td>Vay bằng USD (i)</td><td>2.426.550.000.000</td><td>3.403.785.000.000</td></tr><tr><td>Vay bằng VND</td><td>63.096.755.744</td><td>1.045.888.821.708</td></tr><tr><td></td><td>2.489.646.755.744</td><td>4.449.673.821.708</td></tr></table>
+
+(i) Tại ngày 31 tháng 12 năm 2019, số dư theo nguyên tệ của các khoản vay bằng USD là 105.000.000 USD (tại ngày 31 tháng 12 năm 2018 là 147.000.000 USD).
+
+Các khoản vay và nợ thuê tài chính dài hạn của Tổng Công ty phân loại theo loại hình đảm bảo và lãi suất như sau:
+
+Theo loại hình đảm bảo:
+
+<table><tr><td rowspan="2"></td><td>Số cuối năm</td><td>Số đầu năm</td></tr><tr><td>VND</td><td>VND</td></tr><tr><td>Tín chấp</td><td>2.426.550.000.000</td><td>4.303.785.000.000</td></tr><tr><td>Bảo đảm bằng tài sản của Tổng Công ty</td><td>63.096.755.744</td><td>133.984.588.489</td></tr><tr><td>Thuê tài chính</td><td>-</td><td>11.904.233.219</td></tr><tr><td></td><td>2.489.646.755.744</td><td>4.449.673.821.708</td></tr></table>
+
+Theo lãi suất
+
+<table><tr><td rowspan="2"></td><td>Số cuối năm</td><td>Số đầu năm</td></tr><tr><td>VND</td><td>VND</td></tr><tr><td>Vay và nợ thuê tài chính theo lãi suất cổ định</td><td></td><td>5.804.880.000</td></tr><tr><td>Vay và nợ thuê tài chính theo lãi suất thả nổi</td><td>2.489.646.755.744</td><td>4.443.868.941.708</td></tr><tr><td></td><td>2.489.646.755.744</td><td>4.449.673.821.708</td></tr></table>
+
+Lãi suất trong năm là 10,5%/năm đổi với Đông Việt Nam và lãi suất Libor 6 tháng cộng với 2,4% đổi với Đô la Mỹ.
+
+Các khoản vay và nợ thuê tài chính dài hạn được hoàn trả theo lịch biểu sau:
+
+<table><tr><td rowspan="2"></td><td>Số cuối năm</td><td>Số đầu năm</td></tr><tr><td>VND</td><td>VND</td></tr><tr><td>Trong vòng một năm</td><td>1.033.716.755.744</td><td>1.053.931.013.669</td></tr><tr><td>Trong năm thứ hai</td><td>970.620.000.000</td><td>1.175.439.346.500</td></tr><tr><td>Từ năm thứ ba đến năm thứ năm</td><td>485.310.000.000</td><td>1.874.149.615.385</td></tr><tr><td>Sau năm năm</td><td>-</td><td>346.153.846.154</td></tr><tr><td></td><td>2.489.646.755.744</td><td>4.449.673.821.708</td></tr><tr><td>Trừ: số phải trả trong vòng 12 tháng</td><td>1.033.716.755.744</td><td>1.053.931.013.669</td></tr><tr><td>Số phải trả sau 12 tháng</td><td>1.455.930.000.000</td><td>3.395.742.808.039</td></tr></table>
+
+33
+
+C.I.T.N.H.F
+E J NO. A
+
+5
+
+===== PAGE 37 =====
+TỔNG CÔNG TY KHÍ VIỆT NAM - CÔNG TY CỔ PHẦN
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (Tiếp theo)
+
+MÃU SÕ B 09-DN/HN
+
+23. DỰ PHÒNG PHẢI TRẢ DÀI HẠN
+
+<table><tr><td></td><td>Số cuối nămVND</td><td>Số đầu nămVND</td></tr><tr><td>Chi phí thu dọn công trình khí Bế Cửu Long - phần tài sản của PVGas (i)</td><td>382.764.597.860</td><td>-</td></tr><tr><td>Chi phí thu dọn công trình khí Bế Cửu Long - phần tài sản chung giữa PVGas và Vietsovpetro (i)</td><td>271.348.930.640</td><td>-</td></tr><tr><td>Chi phí thu dọn công trình khí PM3 - Cà Mau (i)</td><td>122.295.531.680</td><td>-</td></tr><tr><td>Chi phí thu dọn công trình - Đường ống Phú Mỹ - Hồ Chí Minh (ii)</td><td>25.037.742.820</td><td>18.765.601.404</td></tr><tr><td>Dự phòng khác</td><td>35.204.800.962</td><td>26.571.837.138</td></tr><tr><td></td><td>836.651.603.962</td><td>45.337.438.542</td></tr></table>
+
+(i) Số dư dự phòng phải trả chi phí thu dọn công trình khí PM3 - Cà Mau, công trình khí Bế Cửu Long - phần tài sản của PVGas và công trình Bế Cửu Long - phân tài sản chung giữa PVGas và Vietsovpetro phần ánh khoản dự phòng phải trả về chi phí thu dọn, khởi phục và hoàn trả mặt bằng các công trình trên cơ sở dự toán đã được Bộ Công thương phê duyệt tại Quyết định số 1295/QĐ-BCT ngày 17 tháng 5 năm 2019.
+
+(ii) Số dư dự phòng phải trả chi phí thu dọn công trình Đường ống Phú Mỹ - Hồ Chí Minh phần ánh khoản dự phòng phải trả về chi phí thu dọn, khởi phục và hoàn trả mặt bằng công trình Đường ống Phú Mỹ trên cơ sở dự toán đã được Bộ Công thương phê duyệt tại Quyết định số 3754/QĐ-BCT ngày 19 tháng 9 năm 2016.
+
+24. THUÊ THU NHẬP HOÃN LẠI PHẢI TRÀ
+
+<table><tr><td rowspan="2"></td><td>Các khoản dự phòng</td><td>Tổng cộng</td></tr><tr><td>VND</td><td>VND</td></tr><tr><td>Số dư đầu năm trước</td><td>117.752.999.916</td><td>117.752.999.916</td></tr><tr><td>Ghi nhận trong năm</td><td>50.750.666.653</td><td>50.750.666.653</td></tr><tr><td>Số dư đầu năm nay</td><td>168.503.666.569</td><td>168.503.666.569</td></tr><tr><td>Ghi nhận trong năm</td><td>13.496.787.799</td><td>13.496.787.799</td></tr><tr><td>Số dư cuối năm nay</td><td>182.000.454.368</td><td>182.000.454.368</td></tr></table>
+
+34
+
+\( \left\| \frac{1}{2} \right\|_{0.000 - 1}^{0.000} \)
+
+===== PAGE 38 =====
+TỔNG CÔNG TY KHÍ VIỆT NAM - CÔNG TY CỔ PHẦN
+'THUYÊT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (Tiếp theo)
+
+MÃU SÕ B 09-DN/HN
+
+25. VỐN CHỦ SỞ HỮU
+
+Bàng đổi chiếu biến động của vốn chủ sở hữu:
+
+<table><tr><td rowspan="2"></td><td>Vốn đầu tư của chủ sở hữu</td><td>Thặng dư vốn cổ phần</td><td>Vốn khác của chủ sở hữu</td><td>Cổ phiếu quỹ</td><td>Quỹ đầu tư phát triển</td><td>Quỹ khác thuộc vốn chủ sở hữu</td><td>Lợi nhuận sau thuế chưa phân phối</td><td>Lợi ích cổ đông không kiểm soát</td><td>Tổng cộng</td></tr><tr><td>VND</td><td>VND</td><td>VND</td><td>VND</td><td>VND</td><td>VND</td><td>VND</td><td>VND</td><td>VND</td></tr><tr><td>Số dư đầu năm trước</td><td>19.139.500.000.000</td><td>189.746.727.266</td><td>255.319.038.873</td><td>(40.111.223.937)</td><td>14.849.893.822.097</td><td>6.287.318.113</td><td>7.089.031.949.795</td><td>1.781.841.132.604</td><td>43.271.508.764.811</td></tr><tr><td>Lợi nhuận trong năm</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>11.453.968.895.042</td><td>254.596.584.934</td><td>11.708.565.479.976</td></tr><tr><td>Trích lập các quỹ</td><td>-</td><td>-</td><td>-</td><td>-</td><td>12.236.200.232</td><td>-</td><td>(12.236.200.232)</td><td>-</td><td>-</td></tr><tr><td>Bán cổ phiếu quỹ</td><td>-</td><td>20.932.814.031</td><td>-</td><td>40.111.223.937</td><td>-</td><td>-</td><td>-</td><td>-</td><td>61.044.037.968</td></tr><tr><td>Trích Quỹ khen thưởng, phúc lợi và Quỹ thưởng Ban quản lý điều hành</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>(276.123.034.294)</td><td>(32.299.940.751)</td><td>(308.422.975.045)</td></tr><tr><td>Chia cổ tức</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>(7.655.800.000.000)</td><td>(209.717.996.998)</td><td>(7.865.517.996.998)</td></tr><tr><td>Thay đổi khác</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>(3.153.768)</td><td>(49.044.330)</td><td>(52.198.098)</td></tr><tr><td>Số dư đầu năm nay</td><td>19.139.500.000.000</td><td>210.679.541.297</td><td>255.319.038.873</td><td>-</td><td>14.862.130.022.329</td><td>6.287.318.113</td><td>10.598.838.456.543</td><td>1.794.370.735.459</td><td>46.867.125.112.614</td></tr><tr><td>Lợi nhuận trong năm</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>11.902.248.028.143</td><td>183.403.281.712</td><td>12.085.651.309.855</td></tr><tr><td>Trích lập các quỹ</td><td>-</td><td>-</td><td>-</td><td>-</td><td>4.070.802.087.346</td><td>-</td><td>(4.070.802.087.346)</td><td>-</td><td>-</td></tr><tr><td>Tăng/(Giảm) do thay đổi tỷ lệ sở hữu</td><td>-</td><td>-</td><td>-</td><td>-</td><td>12.928.730.397</td><td>-</td><td>1.943.619.923</td><td>(14.872.350.320)</td><td>-</td></tr><tr><td>Trích Quỹ khen thưởng, phúc lợi và Quỹ thưởng Ban quản lý điều hành</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>(289.668.104.011)</td><td>(27.572.279.402)</td><td>(317.240.383.413)</td></tr><tr><td>Chia cổ tức</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>(8.229.985.000.000)</td><td>(173.266.845.753)</td><td>(8.403.251.845.753)</td></tr><tr><td>Giảm do không còn năm giữ quyền kiểm soát tại công ty con</td><td>-</td><td>-</td><td>(58.660.476.225)</td><td>-</td><td>(101.480.891.196)</td><td>-</td><td>186.371.648.736</td><td>(654.425.413.358)</td><td>(628.195.132.043)</td></tr><tr><td>Thay đổi khác</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>10.514.625.468</td><td>(72.329.097)</td><td>10.442.296.371</td></tr><tr><td>Số dư cuối năm</td><td>19.139.500.000.000</td><td>210.679.541.297</td><td>196.658.562.648</td><td>-</td><td>18.844.379.948.876</td><td>6.287.318.113</td><td>10.109.461.187.456</td><td>1.107.564.799.241</td><td>49.614.531.357.631</td></tr></table>
+
+35
+
+||z|±0z=0.15||
+
+===== PAGE 39 =====
+TỔNG CÔNG TY KHÍ VIỆT NAM - CÔNG TY CỔ PHẦN
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (Tiếp theo)
+
+MÃU SỐ B 09-DN/HN
+
+Chi tiết vốn đầu tư của chủ sở hữu:
+
+<table><tr><td rowspan="2">Cổ đông</td><td colspan="2">Theo Giấy chứng nhận đăng ký doanh nghiệp thay đổi lần thứ 16</td><td>Vốn đã gópSố cuối năm</td><td>Vốn đã gópSố đầu năm</td></tr><tr><td>VND</td><td>%</td><td>VND</td><td>VND</td></tr><tr><td>Cơ quan Tập đoàn Dầu khí Việt Nam</td><td>18.328.359.000.000</td><td>95,76%</td><td>18.328.359.000.000</td><td>18.328.359.000.000</td></tr><tr><td>Các cổ đông khác</td><td>811.141.000.000</td><td>4,24%</td><td>811.141.000.000</td><td>811.141.000.000</td></tr><tr><td></td><td>19.139.500.000.000</td><td>100%</td><td>19.139.500.000.000</td><td>19.139.500.000.000</td></tr></table>
+
+Số lượng cổ phần Tổng Công ty đã đăng ký và phát hành ra công chúng tại ngày 31 tháng 12 năm 2019 là 1.913.950.000 cổ phần. Toàn bộ số cổ phần của Tổng Công ty là cổ phần phổ thông, mệnh giá mỗi cổ phần là 10.000 đồng.
+
+Cổ phiếu:
+
+<table><tr><td>Cổ phiếu</td><td>Số cuối năm</td><td>Số đầu năm</td></tr><tr><td>- Số lượng cổ phiếu đã bán ra công chúng</td><td>1.913.950.000</td><td>1.913.950.000</td></tr><tr><td>+ Cổ phiếu phổ thông</td><td>1.913.950.000</td><td>1.913.950.000</td></tr><tr><td>- Số lượng cổ phiếu quỹ</td><td>-</td><td>-</td></tr><tr><td>+ Cổ phiếu phổ thông</td><td>-</td><td>-</td></tr><tr><td>- Số lượng cổ phiếu đang lưu hành</td><td>1.913.950.000</td><td>1.913.950.000</td></tr><tr><td>+ Cổ phiếu phổ thông</td><td>1.913.950.000</td><td>1.913.950.000</td></tr></table>
+
+Cổ tức của Công ty mẹ:
+
+- Theo Nghị quyết số 25/NQ-KVN ngày 25 tháng 02 năm 2019 của Hội đồng Quản trị trên cơ sở Nghị Quyết Đại hội đồng cổ đông số 74/NQ-ĐHĐCD ngày 27 tháng 4 năm 2018, Tổng Công ty đã thông qua kế hoạch tạm ứng cổ tức đợt 2 năm 2018 từ lợi nhuận sau thuế năm 2018 với số tiền là 3.827.900.000.000 VND (tương đường 20% vốn điều lệ).
+
+- Theo Nghị quyết Đại hội đồng cổ đông số 51/NQ-KVN ngày 09 tháng 4 năm 2019, Tổng Công ty đã thông qua kế hoạch chia cổ tức từ lợi nhuận sau thuế năm 2019 với tỷ lệ dự kiến là 30% vốn điều lệ. Cũng theo Nghị quyết này, Tổng Công ty đã công bố cổ tức đợt còn lại năm 2018 từ lợi nhuận sau thuế năm 2018 với số tiền là 2.488.135.000.000 VND (tương đương 13% vốn điều lệ).
+
+- Theo Nghị quyết số 72/NQ-KVN ngày 09 tháng 8 năm 2019 của Hội đồng Quản trị trên cơ sở Nghị quyết Đại hội đồng cổ đông số 51/NQ-KVN ngày 09 tháng 4 năm 2019, Tổng Công ty đã thông qua kế hoạch tạm ứng cổ tức đợt 1 năm 2019 từ lợi nhuận sau thuế năm 2019 với số tiền là 1.913.950.000.000 VND (tương đương 10% vốn điều lệ).
+
+26. CÁC KHOÀN MỤC NGOÀI BÀNG CÂN ĐỐI KẾ TOÁN
+
+<table><tr><td></td><td>Số cuối năm</td><td>Số đầu năm</td></tr><tr><td colspan="3">Ngoại tệ các loại</td></tr><tr><td>USD</td><td>2.132.124</td><td>5.713.409</td></tr><tr><td>EUR</td><td>457</td><td>10.715</td></tr></table>
+
+36
+
+.010
+C
+DE
+VI
+ONG
+
+A
+T
+N
+
+===== PAGE 40 =====
+TỔNG CÔNG TY KHÍ VIỆT NAM - CÔNG TY CỔ PHẦN
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (Tiếp theo)
+
+MÃU SỐ B 09-DN/HN
+
+27. BÁO CÁO THEO BỘ PHÂN
+
+Bô phân theo khu vực địa lý
+
+Tổng Công ty không có hoạt động kinh doanh nào ngoài lãnh thổ Việt Nam; do vậy, Tổng Công ty không có bộ phận kinh doanh theo khu vực địa lý ngoài Việt Nam.
+
+Bô phân theo lĩnh vực kinh doanh
+
+Đế phục vụ mục đích quản lý, Tổng Công ty tổ chức các hoạt động kinh doanh theo từng lĩnh vực trên cơ sở các công ty con hoạt động tương đối riêng biệt.
+
+Hoạt động theo lĩnh vực kinh doanh của Tổng Công ty bao gồm các bộ phận như sau:
+
+- Hoạt động kinh doanh khí và các sản phẩm khí (gồm có Công ty mẹ, PV Gas South cho kỳ hoạt động từ ngày 01/01/2019 đến ngày 30/9/2019, PV Gas North, PV Gas D, CNG Việt Nam và LNG Việt Nam);
+
+- Hoạt động phụ trợ kinh doanh khí và các sản phẩm khí: sản xuất ông thép, xây dựng, lắp đặt, sửa chữa các công trình khí (gồm có PV Pipe và PV Coating).
+
+Các thông tin bộ phận về hoạt động kinh doanh của Tổng Công ty như sau:
+
+Bảng cân đối kê toán hợp nhất tại ngày 31 tháng 12 năm 2019
+
+<table><tr><td rowspan="2"></td><td>Kinh doanh khí và các sản phẩm khí</td><td>Hoạt động phụ trợ kinh doanh khí và các sản phẩm khí</td><td>Loại trừ nội bộ và điều chỉnh</td><td>Tổng cộng</td></tr><tr><td>VND</td><td>VND</td><td>VND</td><td>VND</td></tr><tr><td colspan="5">Tài sản</td></tr><tr><td>Tiền và các khoản tương đương tiền</td><td>4.425.991.922.137</td><td>49.897.245.090</td><td>-</td><td>4.475.889.167.227</td></tr><tr><td>Đầu tư tài chính ngắn hạn</td><td>24.850.000.000.000</td><td>65.000.000.000</td><td>-</td><td>24.915.000.000.000</td></tr><tr><td>Các khoản phải thu ngắn hạn</td><td>12.431.584.094.816</td><td>632.441.011.759</td><td>(2.705.227.038.169)</td><td>10.358.798.068.406</td></tr><tr><td>Hàng tồn kho</td><td>1.192.645.367.317</td><td>382.057.155.791</td><td>-</td><td>1.574.702.523.108</td></tr><tr><td>Tài sản ngắn hạn khác</td><td>462.556.110.813</td><td>28.450.902.678</td><td>-</td><td>491.007.013.491</td></tr><tr><td>Các khoản phải thu dài hạn</td><td>129.065.130.453</td><td>481.025.473</td><td>(1.661.785.125)</td><td>127.884.370.801</td></tr><tr><td>Tài sản cố định và bất động sản đầu tư</td><td>14.634.873.588.517</td><td>1.553.752.218.710</td><td>(315.566.459.875)</td><td>15.873.059.347.352</td></tr><tr><td>Tài sản dở dang dài hạn</td><td>2.788.675.301.668</td><td>1.131.181.819</td><td>231.065.629.141</td><td>3.020.872.112.628</td></tr><tr><td>Đầu tư tài chính dài hạn</td><td>3.203.116.235.946</td><td>-</td><td>(2.798.422.284.131)</td><td>404.693.951.815</td></tr><tr><td>Tài sản dài hạn khác</td><td>746.693.881.531</td><td>85.006.389.457</td><td>21.977.049.688</td><td>853.677.320.676</td></tr><tr><td>Lợi thể thương mại</td><td>-</td><td>-</td><td>83.203.514.130</td><td>83.203.514.130</td></tr><tr><td>Tổng tài sản hợp nhất</td><td>64.865.201.633.198</td><td>2.798.217.130.777</td><td>(5.484.631.374.341)</td><td>62.178.787.389.634</td></tr><tr><td colspan="5">Nợ phải trả</td></tr><tr><td>Nợ ngắn hạn</td><td>11.366.253.236.083</td><td>804.395.867.147</td><td>(2.206.212.797.087)</td><td>9.964.436.306.143</td></tr><tr><td>Nợ dài hạn</td><td>2.402.052.378.955</td><td>342.219.875.400</td><td>(144.452.528.495)</td><td>2.599.819.725.860</td></tr><tr><td>Tổng nợ phải trả hợp nhất</td><td>13.768.305.615.038</td><td>1.146.615.742.547</td><td>(2.350.665.325.582)</td><td>12.564.256.032.003</td></tr></table>
+
+37
+
+,1125
+ÔNG
+TNHI
+LOI
+ÊT N
+ĐA
+
+A
+
+===== PAGE 41 =====
+TỔNG CÔNG TY KHÍ VIỆT NAM - CÔNG TY CỔ PHẦN
+
+THUYÊT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (Tiếp theo)
+
+MÃU SỐ B 09-DN/HN
+
+Bảng cân đối kê toán hợp nhất tại ngày 31 tháng 12 năm 2018
+
+<table><tr><td rowspan="2"></td><td>Kinh doanh khí và các sản phẩm khí</td><td>Hoạt động phụ trợ kinh doanh khí và các sản phẩm khí</td><td>Loại trừ nội bộ và điều chỉnh</td><td>Tổng cộng</td></tr><tr><td>VND</td><td>VND</td><td>VND</td><td>VND</td></tr><tr><td colspan="5">Tài sản</td></tr><tr><td>Tiền và các khoản tương đương tiền</td><td>6.669.076.464.683</td><td>36.568.995.324</td><td>-</td><td>6.705.645.460.007</td></tr><tr><td>Đầu tư tài chính ngắn hạn</td><td>21.454.454.000.000</td><td>148.000.000.000</td><td>-</td><td>21.602.454.000.000</td></tr><tr><td>Các khoản phải thu ngắn hạn</td><td>12.752.480.816.142</td><td>70.569.568.075</td><td>(2.609.339.759.782)</td><td>10.213.710.624.435</td></tr><tr><td>Hàng tồn kho</td><td>1.748.609.946.906</td><td>199.650.104.471</td><td>-</td><td>1.948.260.051.377</td></tr><tr><td>Tài sản ngắn hạn khác</td><td>446.509.046.448</td><td>15.433.461.129</td><td>-</td><td>461.942.507.577</td></tr><tr><td>Các khoản phải thu dài hạn</td><td>218.399.642.616</td><td>-</td><td>(1.570.603.125)</td><td>216.829.039.491</td></tr><tr><td>Tài sản cố định và bất động sản đầu tư</td><td>17.349.806.349.836</td><td>1.651.590.030.631</td><td>(368.171.020.287)</td><td>18.633.225.360.180</td></tr><tr><td>Tài sản dở dang dài hạn</td><td>1.234.823.642.399</td><td>374.684.319</td><td>-</td><td>1.235.198.326.718</td></tr><tr><td>Đầu tư tài chính dài hạn</td><td>3.070.140.336.559</td><td>-</td><td>(3.007.120.835.881)</td><td>63.019.500.678</td></tr><tr><td>Tài sản dài hạn khác</td><td>1.303.261.597.128</td><td>48.985.860.455</td><td>16.213.506.476</td><td>1.368.460.964.059</td></tr><tr><td>Lợi thể thường mai</td><td>-</td><td>-</td><td>165.674.410.771</td><td>165.674.410.771</td></tr><tr><td>Tổng tài sản hợp nhất</td><td>66.247.561.842.717</td><td>2.171.172.704.404</td><td>(5.804.314.301.828)</td><td>62.614.420.245.293</td></tr><tr><td colspan="5">Nợ phải trả</td></tr><tr><td>Nợ ngắn hạn</td><td>14.037.863.844.699</td><td>516.946.428.482</td><td>(2.708.196.241.868)</td><td>11.846.614.031.313</td></tr><tr><td>Nợ dài hạn</td><td>3.661.855.568.340</td><td>71.892.469.582</td><td>166.933.063.444</td><td>3.900.681.101.366</td></tr><tr><td>Tổng nợ phải trả hợp nhất</td><td>17.699.719.413.039</td><td>588.838.898.064</td><td>(2.541.263.178.424)</td><td>15.747.295.132.679</td></tr></table>
+
+Kết quả hoạt động kinh doanh hợp nhất cho năm tài chính kết thúc ngày 31 tháng 12 năm 2019
+
+<table><tr><td rowspan="2"></td><td>Kinh doanh khí và các sản phẩm khí</td><td>Hoạt động phụ trợ kinh doanh khí và các sản phẩm khí</td><td>Loại trừ nội bộ và điều chỉnh</td><td>Tổng cộng</td></tr><tr><td>VND</td><td>VND</td><td>VND</td><td>VND</td></tr><tr><td colspan="5">Doanh thu</td></tr><tr><td>Tổng doanh thu thuần</td><td>87.335.242.941.488</td><td>715.142.612.105</td><td>(13.045.088.378.187)</td><td>75.005.297.175.406</td></tr><tr><td>Doanh thu nội bộ</td><td>12.400.985.884.567</td><td>644.102.493.620</td><td>(13.045.088.378.187)</td><td>-</td></tr><tr><td>Tổng doanh thu</td><td>74.934.257.056.921</td><td>71.040.118.485</td><td>-</td><td>75.005.297.175.406</td></tr><tr><td>Chi phí kinh doanh</td><td>73.753.854.956.529</td><td>600.760.861.714</td><td>(12.998.286.442.069)</td><td>61.356.329.376.174</td></tr><tr><td>- Giá vốn hàng bán</td><td>70.432.267.196.329</td><td>543.243.523.219</td><td>(12.888.822.181.444)</td><td>58.086.688.538.104</td></tr><tr><td>- Chi phí bán hàng</td><td>2.452.442.812.126</td><td>-</td><td>(58.068.232.754)</td><td>2.394.374.579.372</td></tr><tr><td>- Chi phí quản lý doanh nghiệp</td><td>869.144.948.074</td><td>57.517.338.495</td><td>(51.396.027.871)</td><td>875.266.258.698</td></tr><tr><td>Kết quả hoạt động kinh doanh</td><td>13.581.387.984.959</td><td>114.381.750.391</td><td>(46.801.936.118)</td><td>13.648.967.799.232</td></tr><tr><td>Phần (lỗ) trong các công ty liên doanh, liên kết</td><td></td><td></td><td></td><td>(504.636.282)</td></tr><tr><td>Doanh thu hoạt động tài chính</td><td></td><td></td><td></td><td>1.664.550.734.786</td></tr><tr><td>Chi phí tài chính</td><td></td><td></td><td></td><td>240.940.076.023</td></tr><tr><td>(Lỗ) khác</td><td></td><td></td><td></td><td>(3.810.978.293)</td></tr><tr><td>Lợi nhuận trước thuế thu nhập doanh nghiệp</td><td></td><td></td><td></td><td>15.068.262.843.420</td></tr><tr><td>Chi phí thuế thu nhập doanh nghiệp hiện hành</td><td></td><td></td><td></td><td>2.967.381.924.337</td></tr><tr><td>Chi phí thuế thu nhập doanh nghiệp hoãn lại</td><td></td><td></td><td></td><td>15.229.609.228</td></tr><tr><td>Lợi nhuận sau thuế thu nhập doanh nghiệp</td><td></td><td></td><td></td><td>12.085.651.309.855</td></tr></table>
+
+38
+
+C.P. d.
+
+===== PAGE 42 =====
+TỔNG CÔNG TY KHÍ VIỆT NAM - CÔNG TY CỔ PHẦN
+THUYÊT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (Tiếp theo)
+
+MÃU SỐ B 09-DN/HN
+
+Kết quả hoạt động kinh doanh hợp nhất cho năm tài chính kết thúc ngày 31 tháng 12 năm 2018
+
+<table><tr><td rowspan="2"></td><td>Kinh doanh khí và các sản phẩm khí</td><td>Hoạt động phụ trợ kinh doanh khí và các sản phẩm khí</td><td>Loại trừ nội bộ và điều chỉnh</td><td>Tổng cộng</td></tr><tr><td>VND</td><td>VND</td><td>VND</td><td>VND</td></tr><tr><td colspan="5">Doanh thu</td></tr><tr><td>Tổng doanh thu thuần</td><td>88.672.251.103.471</td><td>214.294.835.856</td><td>(13.274.999.699.915)</td><td>75.611.546.239.412</td></tr><tr><td>Doanh thu nội bộ</td><td>13.274.999.699.915</td><td>-</td><td>(13.274.999.699.915)</td><td>-</td></tr><tr><td>Tổng doanh thu</td><td>75.397.251.403.556</td><td>214.294.835.856</td><td>-</td><td>75.611.546.239.412</td></tr><tr><td>Chi phí kinh doanh</td><td>74.911.042.911.021</td><td>314.639.608.624</td><td>(13.338.843.688.777)</td><td>61.886.838.830.868</td></tr><tr><td>- Giá vốn hàng bán</td><td>71.095.181.721.661</td><td>273.886.795.047</td><td>(13.248.840.834.500)</td><td>58.120.227.682.208</td></tr><tr><td>- Chi phí bán hàng</td><td>2.702.347.628.860</td><td>-</td><td>(63.668.245.413)</td><td>2.638.679.383.447</td></tr><tr><td>- Chi phí quản lý doanh nghiệp</td><td>1.113.513.560.500</td><td>40.752.813.577</td><td>(26.334.608.864)</td><td>1.127.931.765.213</td></tr><tr><td>Kết quả hoạt động kinh doanh</td><td>13.761.208.192.450</td><td>(100.344.772.768)</td><td>63.843.988.862</td><td>13.724.707.408.544</td></tr><tr><td colspan="4">Phăn (lỗ) trong các công ty liên doanh, liên kết</td><td>(3.573.202.455)</td></tr><tr><td colspan="4">Doanh thu hoạt động tài chính</td><td>1.476.548.445.639</td></tr><tr><td colspan="4">Chi phí tài chính</td><td>616.615.024.877</td></tr><tr><td colspan="4">(Lỗ) khác</td><td>(41.145.695.966)</td></tr><tr><td colspan="4">Lợi nhuận trước thuế thu nhập doanh nghiệp</td><td>14.539.921.930.885</td></tr><tr><td colspan="4">Chi phí thuế thu nhập doanh nghiệp hiện hành</td><td>2.778.439.374.778</td></tr><tr><td colspan="4">Chi phí thuế thu nhập doanh nghiệp hoãn lại</td><td>52.917.076.131</td></tr><tr><td colspan="4">Lợi nhuận sau thuế thu nhập doanh nghiệp</td><td>11.708.565.479.976</td></tr></table>
+
+28. DOANH THU THUÂN VỀ BÁN HÀNG VÀ CUNG CẤP ĐỊCH VỤ
+
+<table><tr><td rowspan="2"></td><td>Năm nay</td><td>Năm trước</td></tr><tr><td>VND</td><td>VND</td></tr><tr><td>Doanh thu bán hàng hóa và cung cấp dịch vụ</td><td>75.310.106.606.268</td><td>75.976.345.569.671</td></tr><tr><td>Doanh thu bán khí khô</td><td>42.134.214.210.541</td><td>38.597.727.565.471</td></tr><tr><td>Doanh thu bán LPG</td><td>23.270.255.500.366</td><td>26.616.758.486.179</td></tr><tr><td>Doanh thu vận chuyển khí và condensate</td><td>3.394.661.528.113</td><td>4.496.081.321.381</td></tr><tr><td>Doanh thu bán CNG</td><td>4.855.302.428.515</td><td>3.961.577.703.866</td></tr><tr><td>Doanh thu bán condensate</td><td>1.309.057.817.926</td><td>1.731.420.222.289</td></tr><tr><td>Doanh thu bán xăng dầu nhớt</td><td>61.537.049.456</td><td>90.318.898.143</td></tr><tr><td>Doanh thu cho thuê tòa nhà PVGAS Tower</td><td>45.951.122.308</td><td>43.548.809.735</td></tr><tr><td>Doanh thu khác</td><td>239.126.949.043</td><td>438.912.562.607</td></tr><tr><td>Các khoản giảm trừ doanh thu</td><td>304.809.430.862</td><td>364.799.330.259</td></tr><tr><td>Chiết khấu thương mại</td><td>304.809.430.862</td><td>364.799.330.259</td></tr><tr><td>Doanh thu thuần bán hàng và cung cấp dịch vụ</td><td>75.005.297.175.406</td><td>75.611.546.239.412</td></tr><tr><td>Doanh thu phát sinh trong năm với các bên liên quan (chi tiết trình bày tai Thuyết minh số 39)</td><td>16.973.947.444.844</td><td>16.293.514.327.798</td></tr></table>
+
+Doanh thu bán hàng và cung cấp dịch vụ bao gồm doanh thu bán khí Nam Côn Sơn cho Tổng Công ty Phát điện 3 - CTCP tương ứng với phần chênh lệch giá khí thị trường và giá khí trong bao tiêu với số tiền 50.884.613 USD (tương đương khoảng 1.186 tỷ đồng). Tổng Công ty có thể có nghĩa vụ phải nộp số tiền này về Ngân sách nhà nước trong tương lai.
+
+39
+
+M
+E
+CHIN. HUM KION YH
+
+===== PAGE 43 =====
+TỔNG CÔNG TY KHÍ VIỆT NAM - CÔNG TY CỔ PHẦN
+THUYÊT MINH BÁO CÁO TÀI CHÍNH HỢP NHẮT (Tiếp theo)
+
+MÃU SỐ B 09-DN/HN
+
+29. GIÁ VÔN HÀNG BÁN VÀ DỊCH VỤ CUNG CẤP
+
+<table><tr><td rowspan="2"></td><td>Năm nay</td><td>Năm trước</td></tr><tr><td>VND</td><td>VND</td></tr><tr><td>Giá vốn bán khí khô</td><td>32.370.280.982.909</td><td>29.411.356.052.747</td></tr><tr><td>Giá vốn bán LPG</td><td>20.997.960.792.539</td><td>23.174.609.714.995</td></tr><tr><td>Giá vốn vận chuyển khí và condensate</td><td>791.385.841.760</td><td>778.033.946.139</td></tr><tr><td>Giá vốn bán CNG</td><td>2.679.601.178.481</td><td>3.193.316.222.261</td></tr><tr><td>Giá vốn bán condensate</td><td>1.086.579.889.912</td><td>1.068.695.869.443</td></tr><tr><td>Giá vốn bán xăng dầu nhớt</td><td>58.996.221.915</td><td>87.370.995.228</td></tr><tr><td>Giá vốn cho thuê tòa nhà PVGAS Tower</td><td>35.860.522.549</td><td>30.650.048.738</td></tr><tr><td>Giá vốn khác</td><td>66.023.108.039</td><td>376.194.832.657</td></tr><tr><td></td><td>58.086.688.538.104</td><td>58.120.227.682.208</td></tr></table>
+
+30. DOANH THU HOẠT ĐỘNG TÀI CHÍNH
+
+<table><tr><td rowspan="2"></td><td>Năm nay</td><td>Năm trước</td></tr><tr><td>VND</td><td>VND</td></tr><tr><td>Lãi tiền gửi, tiền cho vay</td><td>1.598.716.946.137</td><td>1.444.116.708.813</td></tr><tr><td>Lãi chênh lệch tỷ giá</td><td>64.986.420.184</td><td>30.587.366.250</td></tr><tr><td>Cố tức, lợi nhuận được chia</td><td>800.000.000</td><td>500.000.000</td></tr><tr><td>Doanh thu hoạt động tài chính khác</td><td>47.368.465</td><td>1.344.370.576</td></tr><tr><td></td><td>1.664.550.734.786</td><td>1.476.548.445.639</td></tr></table>
+
+31. CHI PHÍ TÀI CHÍNH
+
+<table><tr><td rowspan="2"></td><td>Năm nay</td><td>Năm trước</td></tr><tr><td>VND</td><td>VND</td></tr><tr><td>Chi phí lãi vay</td><td>197.609.807.262</td><td>440.018.194.452</td></tr><tr><td>Lỗ chênh lệch tỷ giá</td><td>22.902.568.801</td><td>166.505.752.062</td></tr><tr><td>Chi phí tài chính khác</td><td>20.427.699.960</td><td>10.091.078.363</td></tr><tr><td></td><td>240.940.076.023</td><td>616.615.024.877</td></tr></table>
+
+32. CHI PHÍ BÁN HÀNG VÀ CHI PHÍ QUẢN LÝ DOANH NGHIỆP
+
+<table><tr><td rowspan="2"></td><td>Năm nay</td><td>Năm trước</td></tr><tr><td>VND</td><td>VND</td></tr><tr><td colspan="3">Chi phí bán hàng</td></tr><tr><td>Chi phí vận chuyển</td><td>796.285.895.905</td><td>815.796.344.656</td></tr><tr><td>Chi phí nhân viên bán hàng</td><td>211.766.833.363</td><td>382.099.180.816</td></tr><tr><td>Chi phí khấu hao</td><td>285.771.682.716</td><td>262.036.183.861</td></tr><tr><td>Chi phí quảng cáo</td><td>441.606.452.582</td><td>275.658.764.411</td></tr><tr><td>Các khoản chi phí bán hàng khác</td><td>658.943.714.806</td><td>903.088.909.703</td></tr><tr><td></td><td>2.394.374.579.372</td><td>2.638.679.383.447</td></tr><tr><td colspan="3">Chi phí quản lý doanh nghiệp</td></tr><tr><td>Phí quản lý phải nộp Cơ quan Tập đoàn Dầu khí Việt Nam</td><td>-</td><td>246.507.647.848</td></tr><tr><td>Chi phí nhân viên quản lý</td><td>191.633.455.478</td><td>221.661.050.755</td></tr><tr><td>Lợi thể thương mại phân bổ</td><td>67.446.146.641</td><td>69.757.646.640</td></tr><tr><td>Chi phí an sinh xã hội</td><td>92.368.989.000</td><td>82.510.326.400</td></tr><tr><td>Chi phí dự phòng</td><td>36.592.000.550</td><td>26.671.469.426</td></tr><tr><td>Các khoản chi phí quản lý doanh nghiệp khác</td><td>487.225.667.029</td><td>480.823.624.144</td></tr><tr><td></td><td>875.266.258.698</td><td>1.127.931.765.213</td></tr></table>
+
+40
+
+===== PAGE 44 =====
+TỔNG CÔNG TY KHÍ VIỆT NAM - CÔNG TY CỔ PHẦN
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (Tiếp theo)
+
+MÃU SỐ B 09-DN/HN
+
+33. THU NHẬP KHÁC
+
+<table><tr><td rowspan="2"></td><td>Năm nay</td><td>Năm trước</td></tr><tr><td>VND</td><td>VND</td></tr><tr><td>Thu nhập từ chuyển nhượng quyền thuê đất</td><td>-</td><td>16.225.895.442</td></tr><tr><td>Hoàn nhập Quỹ phát triển khoa học và công nghệ</td><td>-</td><td>6.954.447.639</td></tr><tr><td>Chênh lệch thừa sau kiểm kê và quyết toán dự án</td><td>335.949.819</td><td>1.672.816.269</td></tr><tr><td>Thu nhập khác</td><td>15.768.420.008</td><td>14.235.746.290</td></tr><tr><td></td><td>16.104.369.827</td><td>39.088.905.640</td></tr></table>
+
+34. CHI PHÍ KHÁC
+
+<table><tr><td rowspan="2"></td><td>Năm nay</td><td>Năm trước</td></tr><tr><td>VND</td><td>VND</td></tr><tr><td>Chi phí thực hiện thiết kế kỹ thuật tổng thể cụm thiết bị đầu nối Cá Rồng Đỏ</td><td>-</td><td>42.251.406.550</td></tr><tr><td>Chi phí từ chuyển nhượng quyền thuê đất</td><td>-</td><td>14.141.196.684</td></tr><tr><td>Phạt chậm nộp, chậm kê khai thuê</td><td>5.653.599.487</td><td>4.121.138.540</td></tr><tr><td>Chi phí khác</td><td>14.261.748.633</td><td>19.720.859.832</td></tr><tr><td></td><td>19.915.348.120</td><td>80.234.601.606</td></tr></table>
+
+35. CHI PHÍ THUÊ THU NHẬP DOANH NGHIỆP HIỆN HÀNH
+
+<table><tr><td rowspan="2"></td><td>Năm nay</td><td>Năm trước</td></tr><tr><td>VND</td><td>VND</td></tr><tr><td>Chi phí thuế thu nhập doanh nghiệp tính trên thu nhập tính thuế hiện hành năm nay</td><td>2.958.099.579.417</td><td>2.905.128.455.414</td></tr><tr><td>Điều chỉnh chi phí thuế thu nhập doanh nghiệp của các năm trước vào chi phí thuế thu nhập hiện hành năm nay</td><td>9.282.344.920</td><td>(126.689.080.636)</td></tr><tr><td>Tổng chi phí thuế thu nhập doanh nghiệp hiện hành</td><td>2.967.381.924.337</td><td>2.778.439.374.778</td></tr></table>
+
+Tổng Công ty và các công ty con có nghĩa vụ phải nộp thuế thu nhập doanh nghiệp theo tỷ lệ 20% tính trên thu nhập tính thuế. Theo quy định hiện hành, Tổng Công ty đã lựa chọn hưởng ưu đãi:
+
+- Đối với Dự án Nhà máy xử lý khí Cà Mau: Miễn thuê thu nhập doanh nghiệp 4 năm kể từ năm bắt đầu phát sinh thu nhập tính thuế, tức năm 2017 và giảm 50% số thuế phải nộp trong 9 năm tiếp theo (không hưởng ưu đãi thuê suất) cho phần thu nhập phát sinh từ Dự án;
+
+- Đối với Dự án Hệ thống thu gom và phân phối khí Hàm Ròng Thái Bình: Miễn thuế thu nhập doanh nghiệp 2 năm kể từ năm bắt đầu phát sinh thu nhập tính thuế, tức năm 2017 và giảm 50% số thuế phải nộp trong 4 năm tiếp theo (không hướng ưu đãi thuế suất) cho phân thu nhập phát sinh từ Dự án.
+
+41
+
+===== PAGE 45 =====
+TỔNG CÔNG TY KHÍ VIỆT NAM - CÔNG TY CỔ PHẦN
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (Tiếp theo)
+
+MÃU SÕ B 09-DN/HN
+
+36. LÃI CƠ BẢN TRÊN CỔ PHIÊU
+
+<table><tr><td></td><td>Năm nay</td><td>Năm trước(Trình bày lại)</td></tr><tr><td>Lợi nhuận kể toán sau thuế thu nhập doanh nghiệp của cổ đông của Công ty mẹ (VND)</td><td>11.902.248.028.143</td><td>11.453.968.895.042</td></tr><tr><td>Trích Quỹ khen thưởng, phúc lợi và Quỹ thưởng Ban quản lý điều hành theo Nghị quyết Đại hội đông cổ đông (VND)</td><td>147.273.842.125</td><td>281.169.006.317</td></tr><tr><td>Lợi nhuận để tính lãi cơ bản trên cổ phiếu (VND)</td><td>11.754.974.186.018</td><td>11.172.799.888.725</td></tr><tr><td>Số cổ phiếu phổ thông bình quân lưu hành trong năm</td><td>1.913.930.653</td><td>1.913.930.653</td></tr><tr><td>Lãi cơ bản trên cổ phiếu (VND/cổ phiếu)</td><td>6.142</td><td>5.838</td></tr></table>
+
+Theo quy định tại Thông tư 200/2014, Quỹ khen thưởng, phúc lợi được trích từ lợi nhuận sau thuế cần được loại ra khởi lợi nhuận sau thuế khi ước tính lãi cơ bản trên cổ phiếu. Do vậy, lãi cơ bản trên cổ phiếu cho nằm tài chính kết thúc ngày 31 tháng 12 năm 2018 được xác định lại trên cơ sở trích lập theo Quỹ khen thưởng, phúc lợi và Quỹ thưởng Ban quản lý điều hành năm 2018 được Đại hội đồng cổ đông Công ty mẹ và các công ty con phê duyệt trong năm 2019. Theo đó, lãi cơ bản trên cổ phiếu kỳ trước được trình bày lại là 5.838 đồng/cổ phiếu (số đã trình bày năm trước là 5.911 đồng/cổ phiếu).
+
+37. CHI PHÍ SÀN XUẤT, KINH DOANH THEO YÊU TỔ
+
+<table><tr><td rowspan="2"></td><td>Năm nay</td><td>Năm trước</td></tr><tr><td>VND</td><td>VND</td></tr><tr><td>Chi phí mua khí từ các chủ mỏ</td><td>25.796.865.205.648</td><td>24.306.258.806.572</td></tr><tr><td>Chi phí mua LPG</td><td>16.561.713.329.158</td><td>18.464.101.228.245</td></tr><tr><td>Chi phí nguyên liệu, vật liệu</td><td>8.558.181.180.276</td><td>9.720.783.125.184</td></tr><tr><td>Chi phí nhân công</td><td>1.187.053.874.868</td><td>1.327.486.216.008</td></tr><tr><td>Chi phí khấu hao tài sản cố định</td><td>2.691.351.575.784</td><td>2.828.502.305.719</td></tr><tr><td>Chi phí dịch vụ mua ngoài</td><td>3.812.330.483.316</td><td>3.951.895.737.798</td></tr><tr><td>Chi phí khác</td><td>739.944.207.106</td><td>1.278.420.690.969</td></tr><tr><td></td><td>59.347.439.856.156</td><td>61.877.448.110.495</td></tr></table>
+
+38. CÁC KHOÀN CAM KẾT
+
+(i) Cam kết vốn
+
+Tại ngày 31 tháng 12 năm 2019, Tổng Công ty có một số dự án đầu tư xây dựng cơ bản lớn đang triển khai. Các khoản cam kết vốn liên quản tới các dự án này được xác định trên cơ sở giá trị công trình chưa thực hiện trong tổng mức đầu tư hoặc dự toán công trình, cụ thể như sau:
+
+<table><tr><td rowspan="2"></td><td>Số cuối năm</td><td>Số đầu năm</td></tr><tr><td>VND</td><td>VND</td></tr><tr><td>Dự án kho cảng nhập khẩu LNG Sơn Mỹ</td><td>34.160.184.082.494</td><td>34.228.379.768.579</td></tr><tr><td>Dự án Kho chứa LNG quy mô 1 triệu tấn/năm tại Thị Vải</td><td>6.342.906.101.765</td><td>5.609.358.936.826</td></tr><tr><td>Dự án Nhà máy xử lý khí Cà Mau</td><td>5.332.033.274.598</td><td>5.239.011.278.654</td></tr><tr><td>Dự án thu gom và phân phối khí mô Cá Rồng Đỏ</td><td>4.116.830.192.111</td><td>4.123.986.102.686</td></tr><tr><td>Dự án đường ống Thu gom, vận chuyển mô Sao Vàng Đại Nguyệt</td><td>2.896.874.516.814</td><td>3.213.813.529.930</td></tr><tr><td>Dự án Đường ống dẫn khí Nam Côn Sơn 2</td><td>18.010.439.448.475</td><td>2.510.897.737.091</td></tr><tr><td></td><td>70.859.267.616.257</td><td>54.925.447.353.766</td></tr></table>
+
+42
+
+||07.13.10.10||
+
+10
+
+===== PAGE 46 =====
+TỔNG CÔNG TY KHÍ VIỆT NAM - CÔNG TY CỔ PHẦN
+THUYÊT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (Tiếp theo)
+
+MÃU SÕ B 09-DN/HN
+
+(ii) Cam kết khác
+
+Các khoản cam kết liên quan đến hoạt động kinh doanh khí:
+
+Cam kết mua hàng
+
+<table><tr><td>Cam kết mua hàng</td><td>Sản lượng cam kết</td><td>Thời gian cam kết</td></tr><tr><td>Cam kết mua khí từ chủ khí Lô 06.1</td><td>Tôi thiếu là 2,7 tỷ m3/năm</td><td>Đến hết giai đoạn bình ổn của Lô 06.1</td></tr><tr><td>Cam kết mua khí từ chủ khí Lô 11.2</td><td>Tôi thiếu là 1,216 tỷ m3/năm</td><td>Đến hết giai đoạn bình ổn của Lô 11.2</td></tr><tr><td>Cam kết mua khí từ chủ khí Lô 05.3 và 05.2</td><td>Tôi thiếu là 1,368 tỷ m3/năm</td><td>Đến hết giai đoạn bình ổn của Lô 05-2 và Lô 05-3</td></tr><tr><td>Cam kết mua khí từ chủ khí Lô 102 và 106</td><td>Tôi thiếu 204 triệu m3/năm</td><td>Đến hết giai đoạn bình ổn của Lô 102 và Lô 106</td></tr></table>
+
+Cam kết bán hàng
+
+<table><tr><td>Cam kết bán hàng</td><td>Sản lượng cam kết</td><td>Thời gian cam kết</td></tr><tr><td>Bán khí Nam Côn Sơn cho Tập đoàn Điện lực Việt Nam</td><td>Tôi thiếu là 1,85 tỷ m3/năm</td><td>Trong giai đoạn bình ổn theo hợp đồng GSA</td></tr><tr><td>Bán khí Nam Côn Sơn cho Công ty TNHH Phú Mỹ 3 BOT Power (PM3 BOT)</td><td>Tôi thiếu là 0,85 tỷ m3/năm</td><td>Đến tháng 9 năm 2023</td></tr><tr><td>Bán khí Nam Côn Sơn cho Công ty TNHH Năng lượng Mekong (PM 2.2 BOT)</td><td>Tôi thiếu là 0,85 tỷ m3/năm</td><td>Đến tháng 02 năm 2024</td></tr><tr><td>Bán khí Nam Côn Sơn cho Tổng Công ty Điện lực Dầu khí Việt Nam</td><td>Tôi thiếu là 0,447 tỷ m3/năm</td><td>Trong giai đoạn bình ổn theo Hợp đồng</td></tr><tr><td>Bán khí Nam Côn Sơn cho Công ty Cổ Phần Điện Lực Dầu Khí Nhơn Trạch 2</td><td>Tôi thiếu là 0,785 tỷ m3/năm</td><td>Đến ngày 31 tháng 12 năm 2036</td></tr></table>
+
+43
+
+2500
+NG T
+NHH
+OIT
+T NA
+DA-T
+
+02
+ON
+N
+G T
+HÄ
+HÖ
+
+===== PAGE 47 =====
+TỔNG CÔNG TY KHÍ VIỆT NAM - CÔNG TY CỔ PHẦN
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (Tiếp theo)
+
+MÃU SỐ B 09-DN/HN
+
+39. NGHIÊP VỤ VÀ SỐ DỰ VỚI CÁC BÊN LIÊN QUAN
+
+Bên liên quan của Tổng Công ty là Tập đoàn Dầu khí Việt Nam (công ty mẹ của Tổng Công ty) và các công ty con, các công ty liên doanh, liên kết của Tập đoàn.
+
+Trong năm, Tổng Công ty đã có các giao dịch chủ yếu sau với các bên liên quan như sau:
+
+<table><tr><td rowspan="2"></td><td>Năm nay</td><td>Năm trước</td></tr><tr><td>VND</td><td>VND</td></tr><tr><td>Doanh thu bán hàng và cung cấp dịch vụ</td><td>16.973.947.444.844</td><td>16.293.514.327.798</td></tr><tr><td>Tổng Công ty Điện lực Dầu khí Việt Nam</td><td>8.846.474.194.542</td><td>8.735.146.831.584</td></tr><tr><td>Cơ quan Tập đoàn Dầu khí Việt Nam</td><td>3.426.491.480.744</td><td>2.867.630.736.310</td></tr><tr><td>Tổng Công ty Phân bón và Hoá chất Dầu khí - CTCP</td><td>2.218.029.708.065</td><td>2.848.845.448.631</td></tr><tr><td>Công ty Cổ phần Kinh doanh khí Miền Nam</td><td>1.020.032.480.439</td><td>-</td></tr><tr><td>Tổng Công ty Dầu Việt Nam - CTCP</td><td>847.181.794.620</td><td>830.235.527.717</td></tr><tr><td>Tổng Công ty Thăm dò Khai thác Dầu khí</td><td>376.192.912.129</td><td>377.719.055.725</td></tr><tr><td>Liên doanh Việt - Nga VietsovPetro</td><td>9.207.125.089</td><td>255.896.296.107</td></tr><tr><td>Tổng Công ty Cổ phần Vận tải Dầu khí</td><td>220.550.172.308</td><td>220.435.194.074</td></tr><tr><td>Tổng Công ty Cổ phần Dịch vụ Kỹ thuật Dầu khí Việt Nam</td><td>4.815.743.107</td><td>113.649.846.968</td></tr><tr><td>Tổng Công ty Cổ phần Dịch vụ Tổng hợp Dầu khí</td><td>4.971.833.801</td><td>43.955.390.682</td></tr><tr><td>Giá trị hàng mua và dịch vụ cung cấp</td><td>20.430.436.239.637</td><td>21.255.889.897.372</td></tr><tr><td>Cơ quan Tập đoàn Dầu khí Việt Nam</td><td>16.121.316.832.125</td><td>14.636.362.520.535</td></tr><tr><td>Công ty Cổ phần Lộc hóa dầu Bình Sơn</td><td>1.503.823.108.845</td><td>3.777.342.198.433</td></tr><tr><td>Tổng Công ty Thăm dò Khai thác Dầu khí</td><td>574.697.510.687</td><td>776.547.657.245</td></tr><tr><td>Liên doanh Việt - Nga VietsovPetro</td><td>748.853.025.240</td><td>754.788.476.880</td></tr><tr><td>Tổng Công ty Cổ phần Vận tải Dầu khí</td><td>599.330.387.085</td><td>658.921.510.721</td></tr><tr><td>Tổng Công ty Cổ phần Dịch vụ Kỹ thuật Dầu khí Việt Nam</td><td>562.990.495.373</td><td>373.139.778.779</td></tr><tr><td>Tổng Công ty Dầu Việt Nam - CTCP</td><td>63.874.677.778</td><td>103.210.295.603</td></tr><tr><td>Công ty Cổ phần PVI</td><td>171.491.430.357</td><td>73.503.004.315</td></tr><tr><td>Công ty Cổ phần Kinh doanh khí Miền Nam</td><td>64.562.270.103</td><td>-</td></tr><tr><td>Tổng Công ty Cổ phần Dịch vụ Tổng hợp Dầu khí</td><td>5.119.994.384</td><td>37.737.219.314</td></tr><tr><td>Tổng Công ty Tư vấn Thiết kế Dầu khí - CTCP</td><td>438.915.660</td><td>32.637.818.929</td></tr><tr><td>Tổng Công ty Phân bón và Hoá chất Dầu khí - CTCP</td><td>13.937.592.000</td><td>31.699.416.618</td></tr></table>
+
+Số dư chủ yếu với các bên liên quan tại ngày 31 tháng 12 năm 2019 như sau:
+
+<table><tr><td></td><td>Số cuối nămVND</td><td>Số đầu nămVND</td></tr><tr><td>Các khoản tiền gửi có kỳ hạn</td><td>617.877.013.292</td><td>365.891.129.773</td></tr><tr><td>Ngân hàng TMCP Đại chúng Việt Nam</td><td>617.877.013.292</td><td>365.891.129.773</td></tr><tr><td>Các khoản phải thu khách hàng</td><td>1.668.274.889.046</td><td>1.367.432.767.399</td></tr><tr><td>Tổng Công ty Điện lực Dầu khí Việt Nam</td><td>370.302.127.151</td><td>639.274.563.146</td></tr><tr><td>Cơ quan Tập đoàn Dầu khí Việt Nam</td><td>272.760.593.097</td><td>309.810.080.209</td></tr><tr><td>Công ty Cố phần Kinh doanh khí Miền Nam</td><td>459.787.685.401</td><td>-</td></tr><tr><td>Tổng Công ty Phân bón và Hóa chất Dầu khí - CTCP</td><td>210.276.167.229</td><td>234.392.662.645</td></tr><tr><td>Tổng Công ty Tư vấn Thiết kế Dầu khí - CTCP</td><td>106.749.286.194</td><td>91.134.223.229</td></tr><tr><td>Công ty Cố phần Hoá dầu và Xơ sợi Dầu khí</td><td>46.739.648.142</td><td>46.789.648.142</td></tr><tr><td>Tổng Công ty Dầu Việt Nam - CTCP</td><td>169.242.005.574</td><td>21.172.552.973</td></tr><tr><td>Tổng Công ty Cố phần Vận tải Dầu khí</td><td>25.390.956.774</td><td>17.317.335.152</td></tr><tr><td>Tổng Công ty Cố phần Xây lắp Dầu khí Việt Nam</td><td>6.483.793.351</td><td>6.483.793.351</td></tr><tr><td>Tổng Công ty Cố phần Dịch vụ Kỹ thuật Dầu khí Việt Nam</td><td>542.626.133</td><td>1.057.908.552</td></tr><tr><td>Trà trước cho người bán ngắn hạn</td><td>397.551.918.896</td><td>22.402.719.994</td></tr><tr><td>Tổng Công ty Cố phần Dịch vụ Kỹ thuật Dầu khí Việt Nam</td><td>394.724.912.865</td><td>13.310.399.729</td></tr><tr><td>Tổng Công ty Tư vấn Thiết kế Dầu khí - CTCP</td><td>2.827.006.031</td><td>9.092.320.265</td></tr></table>
+
+44
+
+Y
+ΓΕ
+Μ
+? H
+
+===== PAGE 48 =====
+TỔNG CÔNG TY KHÍ VIỆT NAM - CÔNG TY CỔ PHẦN
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (Tiếp theo)
+
+MÃU SỐ B 09-DN/HN
+
+<table><tr><td rowspan="2"></td><td>Số cuối năm</td><td>Số đầu năm</td></tr><tr><td>VND</td><td>VND</td></tr><tr><td>Phải thu khác</td><td>1.333.106.548.805</td><td>1.761.946.602.817</td></tr><tr><td>Tổng Công ty Điện lực Dầu khí Việt Nam</td><td>1.264.226.690.692</td><td>1.619.135.765.194</td></tr><tr><td>Công ty Cổ phần Phát triển Đô thị Dầu khí</td><td>50.000.000.000</td><td>50.000.000.000</td></tr><tr><td>Công ty Cổ phần Kinh doanh khí Miền Nam</td><td>9.476.508.626</td><td>-</td></tr><tr><td>Tổng Công ty Cổ phần Xây lắp Dầu khí Việt Nam</td><td>4.870.608.031</td><td>54.870.608.031</td></tr><tr><td>Cơ quan Tập đoàn Dầu khí Việt Nam</td><td>2.616.074.790</td><td>18.304.617.151</td></tr><tr><td>Ngân hàng TMCP Đại chúng Việt Nam</td><td>1.916.666.666</td><td>19.635.612.441</td></tr><tr><td>Các khoản phải trả người bán</td><td>786.707.163.849</td><td>934.860.763.797</td></tr><tr><td>Công ty Cổ phần Lộc hóa dầu Bình Sơn</td><td>124.359.870.506</td><td>464.717.487.091</td></tr><tr><td>Liên doanh Việt - Nga VietsovPetro</td><td>200.952.930.031</td><td>172.169.591.633</td></tr><tr><td>Tổng Công ty Cổ phần Dịch vụ Kỹ thuật Dầu khí Việt Nam</td><td>175.912.959.380</td><td>108.093.930.612</td></tr><tr><td>Cơ quan Tập đoàn Dầu khí Việt Nam</td><td>184.117.736.588</td><td>92.293.519.979</td></tr><tr><td>Tổng Công ty Cổ phần Vận tải Dầu khí</td><td>52.228.429.347</td><td>53.578.179.255</td></tr><tr><td>Tổng Công ty Cổ phần Xây lắp Dầu khí Việt Nam</td><td>25.208.095.580</td><td>44.008.055.227</td></tr><tr><td>Công ty Cổ phần Kinh doanh khí Miền Nam</td><td>23.927.142.417</td><td>-</td></tr><tr><td>Chỉ phí phải trả</td><td>2.117.310.266.773</td><td>1.752.010.862.737</td></tr><tr><td>Cơ quan Tập đoàn Dầu khí Việt Nam</td><td>2.080.143.674.770</td><td>1.615.668.535.365</td></tr><tr><td>Liên doanh Việt - Nga VietsovPetro</td><td>33.084.818.989</td><td>16.441.067.250</td></tr><tr><td>Tổng Công ty Thẩm dò và Khai thác Dầu khí</td><td>4.081.773.014</td><td>37.561.841.320</td></tr><tr><td>Tổng Công ty Cổ phần Dịch vụ Kỹ thuật Dầu khí Việt Nam</td><td>-</td><td>82.339.418.802</td></tr><tr><td>Phải trả khác</td><td>156.613.644.066</td><td>177.147.508.909</td></tr><tr><td>Tổng Công ty Tư vấn Thiết kế Dầu khí - CTCP</td><td>156.613.644.066</td><td>155.078.782.366</td></tr><tr><td>Cơ quan Tập đoàn Dầu khí Việt Nam</td><td>-</td><td>22.068.726.543</td></tr><tr><td>Các khoản vay</td><td>63.096.755.743</td><td>126.193.511.489</td></tr><tr><td>Ngân hàng TMCP Đại chúng Việt Nam</td><td>63.096.755.743</td><td>126.193.511.489</td></tr></table>
+
+40. CÔNG NỘ TỈÊM TÀNG
+
+Tại ngày 31 tháng 12 năm 2019, Tổng Công ty có các khoản cam kết bảo lãnh nghĩa vụ thanh toán toàn bộ gốc vay, lãi vay, lãi quá hạn và các chi phí khác phát sinh theo các Hợp đồng tín dụng của PV Pipe ký với Ngân hàng TMCP Đại chúng Việt Nam - Chi nhánh Thành phố Hồ Chí Minh và Ngân hàng TMCP Ngoại thương Việt Nam - Chi nhánh Kỳ Đồng. Số dư nợ gốc và lãi vay PV Pipe phải trả 02 ngân hàng nêu trên tại ngày 31 tháng 12 năm 2019 lần lượt là khoảng 81,3 tỷ đồng và 1,3 tỷ đồng, trong đó số nợ gốc đến hạn trả là khoảng 81,3 tỷ đồng (tại ngày 31 tháng 12 năm 2018 lần lượt là khoảng 144,6 tỷ đồng và 3,1 tỷ đồng, trong đó số nợ gốc đến hạn trả là khoảng 84,6 tỷ đồng).
+
+Tính đến 31 tháng 12 năm 2019, Tổng Công ty đã thực hiện nghĩa vụ bảo lãnh và thanh toán gốc vay và lãi vay cho các ngân hàng với số tiền khoảng 506,4 tỷ đồng (tại ngày 31 tháng 12 năm 2018: 373,5 tỷ đồng).
+
+Đặng Thị Hồng Yên
+Người lập biểu
+
+Ngày 17 tháng 3 năm 2020
+
+45

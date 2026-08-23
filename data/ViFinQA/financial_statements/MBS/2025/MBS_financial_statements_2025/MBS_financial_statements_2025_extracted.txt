@@ -1,0 +1,2240 @@
+===== PAGE 1 =====
+KPMG
+
+Công ty Cổ phần Chứng khoán MB
+
+Báo cáo tài chính cho năm kết thúc ngày 31 tháng 12 năm 2025
+
+===== PAGE 2 =====
+Công ty Cổ phần Chứng khoán MB
+Thông tin về Công ty
+
+Giấy phép Hoạt động
+
+<table><tr><td rowspan="7">Kinh doanh Chứng khoán số</td><td>116/GP-UBCK</td><td>ngày 9 tháng 12 năm 2013</td></tr><tr><td>112/GPĐC-UBCK</td><td>ngày 18 tháng 11 năm 2022</td></tr><tr><td>21/GPĐC-UBCK</td><td>ngày 4 tháng 4 năm 2024</td></tr><tr><td>75/GPĐC-UBCK</td><td>ngày 14 tháng 10 năm 2024</td></tr><tr><td>01/GPĐC-UBCK</td><td>ngày 3 tháng 1 năm 2025</td></tr><tr><td>116/GPĐC-UBCK</td><td>ngày 24 tháng 10 năm 2025</td></tr><tr><td>127/GPĐC-UBCK</td><td>ngày 27 tháng 11 năm 2025</td></tr></table>
+
+Giấy phép Hoạt động Kinh doanh Chứng khoán ("GPHĐKDCK") do Ủy ban Chứng khoán Nhà nước cấp. Giấy phép Hoạt động Kinh doanh Chứng khoán của Công ty đã được điều chỉnh nhiều lần, và lần điều chỉnh gần đây nhất là GPHĐKDCK số 127/GPĐC-UBCK ngày 27 tháng 11 năm 2025.
+
+Giấy Chứng nhận
+
+<table><tr><td rowspan="3">Đăng ký Doanh nghiệp</td><td>0106393583ngày 9 tháng 12 năm 2013</td></tr><tr><td>Giấy Chứng nhận Đăng ký Doanh nghiệp do Sở Kế hoạch và Đầu tư Thành phố Hà Nội cấp.</td></tr><tr><td>Giấy Chứng nhận Đăng ký Doanh nghiệp thay đổi lần thứ 9 do Sở Kế hoạch và Đầu tư Thành phố Hà Nội cấp ngày 5 tháng 12 năm 2025.</td></tr></table>
+
+Hội đồng Quản trị
+
+<table><tr><td rowspan="5">Hội đồng Quản trị</td><td>Ông Lê Viết Hải</td><td>Chủ tịch</td></tr><tr><td>Ông Phan Phương Anh</td><td>Phó Chủ tịch</td></tr><tr><td>Ông Phạm Thế Anh</td><td>Thành viên HĐQT độc lập</td></tr><tr><td>Bà Nguyễn Minh Hằng</td><td>Thành viên</td></tr><tr><td>Ông Phạm Xuân Thanh</td><td>Thành viên</td></tr></table>
+
+Ban Kiểm soát
+
+<table><tr><td rowspan="3">Ban Kiểm soát</td><td>Bà Phạm Thị Hoa</td><td>Trường Ban</td></tr><tr><td>Bà Vũ Thị Hương</td><td>Thành viên</td></tr><tr><td>Bà Lê Thu Trang</td><td>Thành viên</td></tr></table>
+
+Ban Tổng Giám đốc
+
+<table><tr><td rowspan="5">Ban Tổng Giám đốc</td><td>Ông Phan Phương Anh</td><td>Tổng Giám đốc</td></tr><tr><td>Bà Phùng Thị Thanh Hà</td><td>Phó Tổng Giám đốc</td></tr><tr><td>Ông Lê Thành Nam</td><td>Phó Tổng Giám đốc</td></tr><tr><td>Bà Phạm Thị Kim Ngân</td><td>Phó Tổng Giám đốc</td></tr><tr><td></td><td>(từ ngày 25 tháng 9 năm 2025)</td></tr></table>
+
+Người đại diện
+theo pháp luật
+
+<table><tr><td>Người đại diện theo pháp luật</td><td>Ông Phan Phương Anh</td><td>Tổng Giám đốc</td></tr></table>
+
+Trụ sở đăng ký
+
+<table><tr><td>Trụ sở đăng ký</td><td>Khu vực 1 – Tầng 7 và 8, Tòa nhà MB Số 21 Cát Linh, Phường Ô Chợ Dừa Hà Nội, Việt Nam</td></tr></table>
+
+Công ty Kiểm toán
+
+<table><tr><td>Công ty TNHH KPMG Việt Nam</td></tr></table>
+
+1
+
+115/0
+
+===== PAGE 3 =====
+Công ty Cổ phần Chứng khoán MB
+Báo cáo của Ban Tổng Giám đốc
+
+Ban Tổng Giám đốc Công ty Cổ phần Chứng khoán MB ("Công ty") trình bày báo cáo này và báo cáo tài chính đính kèm của Công ty cho năm kết thúc ngày 31 tháng 12 năm 2025.
+
+Ban Tổng Giám đốc Công ty có trách nhiệm lập và trình bày trung thực và hợp lý báo cáo tài chính theo các Chuẩn mực Kế toán Việt Nam, Chế độ Kế toán Doanh nghiệp Việt Nam, Thông tư số 210/2014/TT-BTC ngày 30 tháng 12 năm 2014 (“Thông tư 210”) do Bộ Tài chính ban hành về Hướng dẫn kế toán áp dụng đối với công ty chứng khoán và Thông tư số 334/2016/TT-BTC ngày 27 tháng 12 năm 2016 do Bộ Tài chính ban hành về sửa đổi, bổ sung và thay thế Phụ lục 02 và Phụ lục 04 của Thông tư 210 và các quy định pháp lý có liên quan đến việc lập và trình bày báo cáo tài chính. Theo ý kiến của Ban Tổng Giám đốc Công ty:
+
+- Báo cáo tài chính được trình bày từ trang 5 đến trang 84 đã phần ánh trung thực và hợp lý tính hình tài chính của Công ty tại ngày 31 tháng 12 năm 2025, kết quả hoạt động và lưu chuyển tiền tệ của Công ty cho năm kết thúc cùng ngày, phù hợp với các Chuẩn mực Kế toán Việt Nam, Chế độ Kế toán Doanh nghiệp Việt Nam, Thông tư số 210/2014/TT-BTC ngày 30 tháng 12 năm 2014 do Bộ Tài chính ban hành về Hướng dẫn kế toán áp dụng đối với công ty chứng khoán và Thông tư số 334/2016/TT-BTC ngày 27 tháng 12 năm 2016 do Bộ Tài chính ban hành về sửa đổi, bổ sung và thay thế Phụ lục 02 và Phụ lục 04 của Thông tư 210 và các quy định pháp lý có liên quan đến việc lập và trình bày báo cáo tài chính; và
+
+- Tại ngày lập báo cáo này, không có lý do gì để Ban Tổng Giám đốc Công ty cho rằng Công ty sẽ không thể thanh toán các khoản nợ phải trả khi đến hạn.
+
+Tại ngày lập báo cáo này, Ban Tổng Giám đốc Công ty đã phê duyệt phát hành báo cáo tài chính đính kèm.
+
+2
+
+===== PAGE 4 =====
+KPMG
+
+Công ty TNHH KPMG
+
+Tâng 46, Keangnam Landmark 72,
+
+Đường Phạm Hùng, Phường Yên Hòa,
+
+Thành phố Hà Nội, Việt Nam
+
++84 (24) 3946 1600 | kpmg.com.vn
+
+BÁO CÁO KIỂM TOÁN ĐỘC LẬP
+
+Kính gửi các Cổ đông
+
+Công ty Cổ phần Chứng khoán MB
+
+Chúng tôi đã kiểm toán báo cáo tài chính đính kèm của Công ty Cổ phần Chứng khoán MB (“Công ty”), bao gồm báo cáo tình hình tài chính tại ngày 31 tháng 12 năm 2025, báo cáo kết quả hoạt động, báo cáo lưu chuyển tiền tệ và báo cáo tình hình biến động vốn chủ sở hữu liên quan cho năm kết thúc cùng ngày và các thuyết minh kèm theo được Ban Tổng Giám đốc Công ty phê duyệt phát hành ngày 24 tháng 2 năm 2026, được trình bày từ trang 5 đến trang 84.
+
+Trách nhiệm của Ban Tổng Giám đốc
+
+Ban Tổng Giám đốc Công ty chịu trách nhiệm lập và trình bày trung thực và hợp lý báo cáo tài chính này theo các Chuẩn mực Kế toán Việt Nam, Chế độ Kế toán Doanh nghiệp Việt Nam, Thông tư số 210/2014/TT-BTC ngày 30 tháng 12 năm 2014 (“Thông tư 210”) do Bộ Tài chính ban hành về Hướng dẫn kế toán áp dụng đối với công ty chứng khoán và Thông tư số 334/2016/TT-BTC ngày 27 tháng 12 năm 2016 do Bộ Tài chính ban hành về sửa đổi, bổ sung và thay thế Phụ lục 02 và Phụ lục 04 của Thông tư 210 và các quy định pháp lý có liên quan đến việc lập và trình bày báo cáo tài chính, và chịu trách nhiệm về kiểm soát nội bộ mà Ban Tổng Giám đốc Công ty xác định là cần thiết để đảm bảo việc lập báo cáo tài chính không có sai sót trọng yếu do gian lận hay nhằm lẫn.
+
+Trách nhiệm của kiểm toán viên
+
+Trách nhiệm của chúng tôi là đưa ra ý kiến về báo cáo tài chính này dựa trên kết quả kiểm toán của chúng tôi. Chứng tôi đã thực hiện công việc kiểm toán theo các Chuẩn mục Kiểm toán Việt Nam. Các chuẩn mục này yêu cầu chúng tôi tuân thủ chuẩn mục và các quy định về đạo đức nghề nghiệp và lập kế hoạch và thực hiện cuộc kiểm toán để đạt được sự đảm bảo hợp lý về việc liệu báo cáo tài chính có còn sai sót trọng yếu hay không.
+
+Công việc kiểm toán bao gồm việc thực hiện các thủ tục nhằm thu thập các bằng chứng kiểm toán về các số liệu và các thuyết minh trong báo cáo tài chính. Các thủ tục được lựa chọn dựa trên xét đoán của kiểm toán viên, bao gồm đánh giá rủi ro có sai sót trọng yếu trong báo cáo tài chính do gian lận hoặc nhằm lẫn. Khí thực hiện các đánh giá rủi ro này, kiểm toán viên xem xét kiểm soát nội bộ của Công ty liên quan tới việc lập và trình bày báo cáo tài chính trung thực và hợp lý nhằm thiết kế các thủ tục kiểm toán phù hợp với tình hình thực tế, tuy nhiên không nhằm mục đích đưa ra ý kiến về hiệu quả của kiểm soát nội bộ của Công ty. Công việc kiểm toán cũng bao gồm việc đánh giá tính thích hợp của các chính sách kế toán được áp dụng và tính hợp lý của các ước tính kế toán của Ban Tổng Giám đốc Công ty, cũng như đánh giá việc trình bày tổng thể báo cáo tài chính.
+
+Chúng tôi tin rằng các bằng chứng kiểm toán mà chúng tôi thu được là đầy đủ và thích hợp làm cơ sở cho ý kiến kiểm toán của chúng tôi.
+
+3
+
+Công ty TNHH KPMG, một công ty trách nhiệm hữu hạn một thành viên được thành lập tại Việt Nam và là công ty thành viên trong tổ chức toàn cầu của các công ty KPMG độc lập, liên kết với KPMG International Limited, một công ty trách nhiệm hữu hạn theo bảo lãnh được thành lập tại Vương Quốc Anh. Tất cả các quyền được bảo hộ.
+
+\( \left\| {p - 1}\right\|  = p - \frac{1}{2}p - 1 \)
+
+===== PAGE 5 =====
+KPMG
+
+Ý kiến của kiểm toán viên
+
+Theo ý kiến của chúng tôi, báo cáo tài chính đã phần ánh trung thực và hợp lý, trên các khóa cạnh trọng yếu, tình hình tài chính của Công ty Cổ phần Chứng khoán MB tại ngày 31 tháng 12 năm 2025, kết quả hoạt động và lưu chuyển tiền tệ cho năm kết thúc cùng ngày, phù hợp với các Chuẩn mục Kế toán Việt Nam, Chế độ Kế toán Doanh nghiệp Việt Nam, Thông tư số 210/2014/TT-BTC ngày 30 tháng 12 năm 2014 do Bộ Tài chính ban hành về Hướng dẫn kế toán áp dụng đối với công ty chứng khoán và Thông tư số 334/2016/TT-BTC ngày 27 tháng 12 năm 2016 do Bộ Tài chính ban hành về sửa đổi, bổ sung và thay thế Phụ lục 02 và Phụ lục 04 của Thông tư 210 và các quy định pháp lý có liên quan đến việc lập và trình bày báo cáo tài chính.
+
+Công ty TNHH KPMG
+
+Việt Nam
+
+Báo cáo kiểm toán số: 25-02-00178-26-4
+
+Đàm Xuân Lâm
+
+Giấy chứng nhận Đăng ký Hành nghề
+
+Kiểm toán số 0861-2023-007-1
+
+Phó Tổng Giám đốc
+
+Hà Nội, ngày 24 tháng 2 năm 2026
+
+Lê Nhật Vương
+
+Giấy chứng nhận Đăng ký Hành nghề
+
+Kiểm toán số 3849-2022-007-1
+
+4
+
+===== PAGE 6 =====
+Công ty Cổ phần Chứng khoán MB
+
+Báo cáo tình hình tài chính tại ngày 31 tháng 12 năm 2025
+
+Mẫu B01 - CTCK
+
+(Ban hành theo Thông tư số 334/2016/TT-BTC
+
+ngày 27/12/2016 của Bộ Tài chính)
+
+<table><tr><td colspan="2"></td><td>Mã số</td><td>Thuyết minh</td><td>31/12/2025 VND</td><td>31/12/2024 VND</td></tr><tr><td colspan="6">TÀI SẢN</td></tr><tr><td>A.</td><td>TÀI SẢN NGĂN HẠN(100 = 110 + 130)</td><td>100</td><td></td><td>30.570.217.920.387</td><td>21.873.571.497.790</td></tr><tr><td>I.</td><td>Tài sản tài chính</td><td>110</td><td></td><td>30.551.105.307.265</td><td>21.853.905.561.273</td></tr><tr><td>1.</td><td>Tiền và các khoản tương đương tiền</td><td>111</td><td>6</td><td>2.431.266.116.691</td><td>1.773.543.835.124</td></tr><tr><td>1.1.</td><td>Tiền</td><td>111.1</td><td></td><td>2.431.266.116.691</td><td>1.749.543.835.124</td></tr><tr><td>1.2.</td><td>Các khoản tương đương tiền</td><td>111.2</td><td></td><td>-</td><td>24.000.000.000</td></tr><tr><td>2.</td><td>Các tài sản tài chính được ghi nhận theo giá trị hợp lý thông qua lãi/(lỗ)(“FVTPL”)</td><td>112</td><td>8(a)</td><td>3.104.483.142.733</td><td>1.973.818.318.843</td></tr><tr><td>3.</td><td>Các khoản đầu tư nắm giữ đến ngày đáo hạn (“HTM”)</td><td>113</td><td>8(b)</td><td>6.714.472.421.784</td><td>4.994.512.493.078</td></tr><tr><td>4.</td><td>Các khoản cho vay</td><td>114</td><td>8(c)</td><td>15.040.584.813.320</td><td>10.293.729.065.183</td></tr><tr><td>5.</td><td>Tài sản tài chính sẵn sàng để bán</td><td>115</td><td>8(d)</td><td>3.092.748.059.694</td><td>2.706.379.850.371</td></tr><tr><td>6.</td><td>Dự phòng suy giảm giá trị các tài sản tài chính và tài sản thế chấp</td><td>116</td><td>8(f)</td><td>(27.440.878.619)</td><td>(98.400.705.976)</td></tr><tr><td>7.</td><td>Các khoản phải thu</td><td>117</td><td>9</td><td>174.798.590.958</td><td>231.234.916.889</td></tr><tr><td>7.2</td><td>Phải thu và dự thu cổ tức, tiền lãi các tài sản tài chính</td><td>117.2</td><td>9</td><td>174.798.590.958</td><td>231.234.916.889</td></tr><tr><td>7.2.1</td><td>Phải thu cổ tức, tiền lãi đến ngày nhận, các khoản đầu tư đáo hạn</td><td>117.3</td><td>9</td><td>29.767.353.266</td><td>29.172.766.557</td></tr><tr><td>7.2.2</td><td>Dự thu cổ tức, tiền lãi chưa đến ngày nhận</td><td>117.4</td><td>9</td><td>145.031.237.692</td><td>202.062.150.332</td></tr><tr><td>8.</td><td>Trả trước cho người bán</td><td>118</td><td>10</td><td>11.044.645.844</td><td>8.229.736.516</td></tr><tr><td>9.</td><td>Phải thu các dịch vụ công ty chứng khoán cung cấp</td><td>119</td><td>11</td><td>9.014.015.780</td><td>7.852.593.150</td></tr><tr><td>12.</td><td>Các khoản phải thu khác</td><td>122</td><td>12</td><td>7.920.148.920</td><td>4.537.982.300</td></tr><tr><td>13.</td><td>Dự phòng suy giảm giá trị các khoản phải thu</td><td>129</td><td>13</td><td>(7.785.769.840)</td><td>(41.532.524.205)</td></tr><tr><td>II.</td><td>Tài sản ngắn hạn khác</td><td>130</td><td></td><td>19.112.613.122</td><td>19.665.936.517</td></tr><tr><td>1.</td><td>Tạm ứng</td><td>131</td><td></td><td>81.881.673</td><td>1.660.202.400</td></tr><tr><td>2.</td><td>Vật tư văn phòng, công cụ, dụng cụ</td><td>132</td><td></td><td>228.436.886</td><td>566.344.886</td></tr><tr><td>3.</td><td>Chi phí trả trước ngắn hạn</td><td>133</td><td>14</td><td>3.454.012.871</td><td>2.331.860.009</td></tr><tr><td>4.</td><td>Cầm cố, thể chấp, ký quỹ, ký cược ngắn hạn</td><td>134</td><td>15(a)</td><td>15.090.000.000</td><td>15.090.000.000</td></tr><tr><td>6.</td><td>Thuế và các khoản phải thu Nhà nước</td><td>136</td><td>26</td><td>17.529.222</td><td>17.529.222</td></tr><tr><td>7.</td><td>Tài sản ngắn hạn khác</td><td>137</td><td></td><td>240.752.470</td><td>-</td></tr></table>
+
+Các thuyết minh đính kèm là bộ phận hợp thành của báo cáo tài chính này
+
+5
+
+||王| A 王二 / 心
+
+===== PAGE 7 =====
+Công ty Cổ phần Chứng khoán MB
+
+Báo cáo tình hình tài chính tại ngày 31 tháng 12 năm 2025 (tiếp theo)
+
+Mẫu B01 - CTCK
+
+(Ban hành theo Thông tư số 334/2016/TT-BTC
+
+ngày 27/12/2016 của Bộ Tài chính)
+
+<table><tr><td colspan="2"></td><td>Mã số</td><td>Thuyết minh</td><td>31/12/2025 VND</td><td>31/12/2024 VND</td></tr><tr><td>B.</td><td>TÀI SẢN DÀI HẠN(200 = 220 + 250)</td><td>200</td><td></td><td>206.112.065.455</td><td>258.309.153.265</td></tr><tr><td>II.</td><td>Tài sản cố định</td><td>220</td><td></td><td>117.056.997.413</td><td>155.678.821.099</td></tr><tr><td rowspan="3">1.</td><td>Tài sản cố định hữu hình</td><td>221</td><td>16</td><td>98.351.829.368</td><td>126.719.606.413</td></tr><tr><td>- Nguyên giá</td><td>222</td><td></td><td>305.896.987.831</td><td>313.472.981.714</td></tr><tr><td>- Giá trị hao mòn lũy kế</td><td>223a</td><td></td><td>(207.545.158.463)</td><td>(186.753.375.301)</td></tr><tr><td rowspan="3">3.</td><td>Tài sản cố định vô hình</td><td>227</td><td>17</td><td>18.705.168.045</td><td>28.959.214.686</td></tr><tr><td>- Nguyên giá</td><td>228</td><td></td><td>105.827.937.576</td><td>103.045.231.066</td></tr><tr><td>- Giá trị hao mòn lũy kế</td><td>229a</td><td></td><td>(87.122.769.531)</td><td>(74.086.016.380)</td></tr><tr><td>V.</td><td>Tài sản dài hạn khác</td><td>250</td><td></td><td>89.055.068.042</td><td>102.630.332.166</td></tr><tr><td>1.</td><td>Cảm cố, thế chấp, ký quỹ,ký cược dài hạn</td><td>251</td><td>15(b)</td><td>2.494.566.867</td><td>2.514.566.867</td></tr><tr><td>2.</td><td>Chi phí trả trước dài hạn</td><td>252</td><td>18</td><td>54.244.781.580</td><td>59.466.924.868</td></tr><tr><td>3.</td><td>Tài sản thuế thu nhập hoãn lại</td><td>253</td><td>19</td><td>2.124.489.351</td><td>10.477.959.835</td></tr><tr><td>4.</td><td>Tiền nộp Quỹ Hö trợ thanh toán</td><td>254</td><td>20</td><td>20.000.000.000</td><td>20.000.000.000</td></tr><tr><td>5.</td><td>Tài sản dài hạn khác</td><td>255</td><td>21</td><td>10.191.230.244</td><td>10.170.880.596</td></tr><tr><td></td><td>TỔNG TÀI SẢN(270 = 100 + 200)</td><td>270</td><td></td><td>30.776.329.985.842</td><td>22.131.880.651.055</td></tr></table>
+
+Các thuyết minh đính kèm là bộ phận hợp thành của báo cáo tài chính này
+
+6
+
+===== PAGE 8 =====
+Công ty Cổ phần Chứng khoán MB
+
+Báo cáo tình hình tài chính tại ngày 31 tháng 12 năm 2025 (tiếp theo)
+
+Mẫu B01 - CTCK
+
+(Ban hành theo Thông tư số 334/2016/TT-BTC
+
+ngày 27/12/2016 của Bộ Tài chính)
+
+<table><tr><td colspan="2"></td><td>Mã số</td><td>Thuyết minh</td><td>31/12/2025 VND</td><td>31/12/2024 VND</td></tr><tr><td>C.</td><td>NỘ PHẢI TRẢ(300 = 310 + 340)</td><td>300</td><td></td><td>22.781.531.321.125</td><td>15.223.341.794.443</td></tr><tr><td>I.</td><td>Nợ phải trả ngắn hạn</td><td>310</td><td></td><td>21.219.949.764.436</td><td>14.161.986.237.762</td></tr><tr><td>1.</td><td>Vay và nợ thuê tài chính ngắn hạn</td><td>311</td><td>22</td><td>17.730.048.954.174</td><td>13.069.703.217.309</td></tr><tr><td>1.1</td><td>Vay ngắn hạn</td><td>312</td><td></td><td>17.730.048.954.174</td><td>13.069.703.217.309</td></tr><tr><td>6.</td><td>Phải trả hoạt động giao dịch chứng khoán</td><td>318</td><td>23</td><td>43.904.051.447</td><td>21.551.998.147</td></tr><tr><td>8.</td><td>Phải trả người bán ngắn hạn</td><td>320</td><td>24</td><td>12.460.795.794</td><td>11.493.708.210</td></tr><tr><td>9.</td><td>Người mua trả tiền trước ngắn hạn</td><td>321</td><td>25</td><td>2.873.167.402.000</td><td>683.151.902.000</td></tr><tr><td>10.</td><td>Thuế và các khoản phải nộp Nhà nước</td><td>322</td><td>26</td><td>184.887.419.422</td><td>120.310.511.245</td></tr><tr><td>11.</td><td>Phải trả người lao động</td><td>323</td><td></td><td>5.974.991.485</td><td>4.083.140.070</td></tr><tr><td>12.</td><td>Các khoản trích nộp phúc lợi nhân viên</td><td>324</td><td></td><td>2.670.138.711</td><td>2.712.107.420</td></tr><tr><td>13.</td><td>Chỉ phí phải trả ngắn hạn</td><td>325</td><td>27</td><td>292.859.664.996</td><td>165.344.593.730</td></tr><tr><td>15.</td><td>Doanh thu chưa thực hiện ngắn hạn</td><td>327</td><td></td><td>3.376.203.379</td><td>3.050.871.308</td></tr><tr><td>17.</td><td>Các khoản phải trả, phải nộp khác ngắn hạn</td><td>329</td><td>28</td><td>9.649.593.267</td><td>14.530.406.797</td></tr><tr><td>19.</td><td>Quỹ khen thưởng, phúc lợi</td><td>331</td><td></td><td>60.950.549.761</td><td>66.053.781.526</td></tr><tr><td>II.</td><td>Nợ phải trả dài hạn</td><td>340</td><td></td><td>1.561.581.556.689</td><td>1.061.355.556.681</td></tr><tr><td>4.</td><td>Trái phiếu phát hành dài hạn</td><td>346</td><td>29</td><td>1.561.581.556.689</td><td>1.061.355.556.681</td></tr><tr><td>D</td><td>VỐN CHỦ SỞ HỮU(400 = 410)</td><td>400</td><td></td><td>7.994.798.664.717</td><td>6.908.538.856.612</td></tr><tr><td>I.</td><td>Vốn chủ sở hữu</td><td>410</td><td></td><td>7.994.798.664.717</td><td>6.908.538.856.612</td></tr><tr><td>1.</td><td>Vốn đầu tư của chủ sở hữu</td><td>411</td><td>30</td><td>6.750.284.049.673</td><td>6.062.944.519.673</td></tr><tr><td>1.1.</td><td>Vốn góp của chủ sở hữu</td><td>411.1</td><td></td><td>6.587.267.870.000</td><td>5.728.129.810.000</td></tr><tr><td>a.</td><td>Cổ phiếu phổ thông có quyền biểu quyết</td><td>411.1a</td><td></td><td>6.587.267.870.000</td><td>5.728.129.810.000</td></tr><tr><td>1.2.</td><td>Thặng dư vốn cổ phần</td><td>411.2</td><td></td><td>163.759.790.000</td><td>335.558.320.000</td></tr><tr><td>1.5.</td><td>Cổ phiếu quỹ</td><td>411.5</td><td></td><td>(743.610.327)</td><td>(743.610.327)</td></tr><tr><td>5.</td><td>Quỹ dự phòng tài chính và rủi ro nghiệp vụ</td><td>415</td><td></td><td>24.516.764.528</td><td>24.516.764.528</td></tr><tr><td>6.</td><td>Các quỹ khác thuộc vốn chủ sở hữu</td><td>416</td><td></td><td>1.625.982.305</td><td>1.625.982.305</td></tr><tr><td>7.</td><td>Lợi nhuận chưa phân phối</td><td>417</td><td></td><td>1.218.371.868.211</td><td>819.451.590.106</td></tr><tr><td>7.1.</td><td>Lợi nhuận sau thuế đã thực hiện</td><td>417.1</td><td></td><td>1.214.775.282.087</td><td>789.317.719.875</td></tr><tr><td>7.2</td><td>Lợi nhuận chưa thực hiện</td><td>417.2</td><td></td><td>3.596.586.124</td><td>30.133.870.231</td></tr><tr><td></td><td>TỔNG NỘ PHẢI TRẢ VÀ VỐN CHỦ SỞ HỮU (440 = 300 + 400)</td><td>440</td><td></td><td>30.776.329.985.842</td><td>22.131.880.651.055</td></tr></table>
+
+Các thuyết minh đính kèm là bộ phận hợp thành của báo cáo tài chính này
+
+7
+
+===== PAGE 9 =====
+Công ty Cổ phần Chứng khoán MB
+
+Báo cáo tình hình tài chính tại ngày 31 tháng 12 năm 2025 (tiếp theo)
+
+Mẫu B01 - CTCK
+
+(Ban hành theo Thông tư số 334/2016/TT-BTC
+
+ngày 27/12/2016 của Bộ Tài chính)
+
+CÁC CHÌ TIÊU NGOÀI BÁO CÁO TÌNH HÌNH TÀI CHÍNH
+
+<table><tr><td></td><td>Mã số</td><td>Thuyết minh</td><td>31/12/2025 VND</td><td>31/12/2024 VND</td></tr><tr><td colspan="5">A. TÀI SẢN CỦA CÔNG TY CHỨNG KHOÁN VÀ TÀI SẢN QUẢN LÝ THEO CAM KẾT</td></tr><tr><td>2. Chứng chỉ có giá nhận giữ hộ (VND)</td><td>002</td><td>31(a)</td><td>9.883.660.000</td><td>9.883.660.000</td></tr><tr><td>4. Nợ khó đòi đã xử lý (VND)</td><td>004</td><td>31(b)</td><td>522.022.219.440</td><td>523.771.059.597</td></tr><tr><td>5. Ngoại tệ các loại USDJPY</td><td>005</td><td>31(c)</td><td></td><td>88780</td></tr><tr><td>6. Cổ phiếu đang lưu hành (cổ phiếu)</td><td>006</td><td>30(b)</td><td>658.696.746</td><td>572.782.940</td></tr><tr><td>7. Cổ phiếu quỹ (cổ phiếu)</td><td>007</td><td>30(b)</td><td>30.041</td><td>30.041</td></tr><tr><td>8. Tài sản tài chính niêm yết/đăng ký giao dịch tại Tổng Công ty Lưu ký và Bù trừ Chứng khoán Việt Nam (&quot;VSDC&quot;) của công ty chứng khoán (VND)</td><td>008</td><td>31(d)</td><td>3.339.338.270.000</td><td>3.038.359.070.000</td></tr><tr><td>9. Tài sản tài chính đã lưu ký tại VSDC của công ty chứng khoán (VND)</td><td>009</td><td></td><td>-</td><td>150.000</td></tr><tr><td>10. Tài sản tài chính chờ về của công ty chứng khoán (VND)</td><td>010</td><td></td><td>820.000.000</td><td>178.000.000</td></tr><tr><td>12. Tài sản tài chính chưa lưu ký tại VSDC của công ty chứng khoán (VND)</td><td>012</td><td>31(e)</td><td>60.545.580.000</td><td>60.545.580.000</td></tr><tr><td>14. Chứng quyền (Số lượng)</td><td>014</td><td></td><td>13.972.900</td><td>30.392.600</td></tr><tr><td colspan="5">B. TÀI SẢN VÀ CÁC KHOÀN PHẢI TRẢ VỀ TÀI SẢN QUẢN LÝ CAM KẾT VỚI KHÁCH HÀNG</td></tr><tr><td>1. Tài sản tài chính niêm yết/đăng ký giao dịch tại VSDC của Nhà đầu tư</td><td>021</td><td>31(f)</td><td>65.082.428.340.000</td><td>53.070.947.018.000</td></tr><tr><td>a. Tài sản tài chính giao dịch tự do chuyển nhượng</td><td>021.1</td><td></td><td>36.884.301.110.000</td><td>30.428.360.868.000</td></tr><tr><td>b. Tài sản tài chính hạn chế chuyển nhượng</td><td>021.2</td><td></td><td>3.287.799.480.000</td><td>737.526.900.000</td></tr><tr><td>c. Tài sản tài chính giao dịch cẩm cố</td><td>021.3</td><td></td><td>20.635.836.200.000</td><td>17.289.632.620.000</td></tr><tr><td>d. Tài sản tài chính phong tòa, tạm giữ</td><td>021.4</td><td></td><td>3.571.263.730.000</td><td>4.040.258.200.000</td></tr><tr><td>e. Tài sản tài chính chờ thanh toán</td><td>021.5</td><td></td><td>703.227.820.000</td><td>575.168.430.000</td></tr><tr><td>2. Tài sản tài chính đã lưu ký tại VSDC và chưa giao dịch của Nhà đầu tư</td><td>022</td><td>31(g)</td><td>1.606.396.000.000</td><td>3.812.875.610.000</td></tr><tr><td>a. Tài sản tài chính đã lưu ký tại VSDC và chưa giao dịch, tự do chuyển nhượng</td><td>022.1</td><td></td><td>102.120.490.000</td><td>1.443.755.430.000</td></tr><tr><td>b. Tài sản tài chính đã lưu ký tại VSDC và chưa giao dịch, hạn chế chuyển nhượng</td><td>022.2</td><td></td><td>1.504.275.510.000</td><td>2.369.120.180.000</td></tr><tr><td>3. Tài sản tài chính chờ về của Nhà đầu tư</td><td>023</td><td>31(h)</td><td>638.258.820.000</td><td>506.608.860.000</td></tr></table>
+
+Các thuyết minh đính kèm là bộ phận hợp thành của báo cáo tài chính này
+
+8
+
+===== PAGE 10 =====
+Công ty Cổ phần Chứng khoán MB
+
+Báo cáo tình hình tài chính tại ngày 31 tháng 12 năm 2025 (tiếp theo)
+
+Mẫu B01 - CTCK
+
+(Ban hành theo Thông tư số 334/2016/TT-BTC
+
+ngày 27/12/2016 của Bộ Tài chính)
+
+<table><tr><td colspan="2"></td><td>Mã số</td><td>Thuyết minh</td><td>31/12/2025 VND</td><td>31/12/2024 VND</td></tr><tr><td>5.</td><td>Tài sản tài chính chưa lưu ký tại VSDC của Nhà đầu tư</td><td>024.b</td><td>31(i)</td><td>855.440.000</td><td>858.240.000</td></tr><tr><td>7.</td><td>Tiền gửi của khách hàng</td><td>026</td><td></td><td>4.632.778.248.863</td><td>3.358.932.288.854</td></tr><tr><td>7.1.</td><td>Tiền gửi của Nhà đầu tư về giao dịch chứng khoán theo phương thức công ty chứng khoán quản lý</td><td>027</td><td>31(j)</td><td>4.249.811.256.637</td><td>2.910.908.869.249</td></tr><tr><td>7.1.a</td><td>Tiền gửi ký quỹ của Nhà đầu tư tại VSDC</td><td>027.1</td><td>31(j)</td><td>182.797.580.852</td><td>270.501.223.230</td></tr><tr><td>7.2</td><td>Tiền gửi tổng hợp giao dịch chứng khoán cho khách hàng</td><td>028</td><td>31(j)</td><td>101.605.089.728</td><td>171.589.439.729</td></tr><tr><td>7.4.</td><td>Tiền gửi của Tổ chức phát hành chứng khoán</td><td>030</td><td>31(k)</td><td>98.564.321.646</td><td>5.932.756.646</td></tr><tr><td>8.</td><td>Phải trả của Nhà đầu tư về tiền gửi giao dịch chứng khoán theo phương thức công ty chứng khoán quản lý</td><td>031</td><td>31(l)</td><td>4.534.213.927.217</td><td>3.352.999.532.208</td></tr><tr><td>8.1.</td><td>Phải trả của Nhà đầu tư trong nước về tiền gửi giao dịch chứng khoán theo phương thức công ty chứng khoán quản lý</td><td>031.1</td><td></td><td>4.485.760.517.620</td><td>3.307.745.085.493</td></tr><tr><td>8.2.</td><td>Phải trả của Nhà đầu tư nước ngoài về tiền gửi giao dịch chứng khoán theo phương thức công ty chứng khoán quản lý</td><td>031.2</td><td></td><td>48.453.409.597</td><td>45.254.446.715</td></tr><tr><td>9.</td><td>Phải trả của Tổ chức phát hành chứng khoán</td><td>032</td><td>31(m)</td><td>98.438.803.364</td><td>5.807.238.364</td></tr><tr><td>12.</td><td>Phải trả cổ tức, gốc và lãi trái phiếu</td><td>035</td><td>31(n)</td><td>125.518.282</td><td>125.518.282</td></tr></table>
+
+23-02-2026
+
+Người lập:
+
+Người kiểm soát:
+
+Người duyệt:
+
+Tạ Duy Chung
+Kế toán tổng hợp
+
+Nguyễn Văn Học
+Kế toán trường
+
+Phạm Thị Kim Ngân
+Phó Tổng Giám đốc
+
+Phan Phương Anh
+Tổng Giám đốc
+
+Các thuyết minh đính kèm là bộ phận hợp thành của báo cáo tài chính này
+
+9
+
+===== PAGE 11 =====
+Công ty Cổ phần Chứng khoán MB
+
+Báo cáo kết quả hoạt động cho năm kết thúc ngày ngày 31 tháng 12 năm 2025
+
+Mẫu B02 - CTCK
+
+(Ban hành theo Thông tư số 334/2016/TT-BTC
+
+ngày 27/12/2016 của Bộ Tài chính)
+
+<table><tr><td colspan="2"></td><td>Mã số</td><td>Thuyết minh</td><td>Năm 2025 VND</td><td>Năm 2024 VND</td></tr><tr><td>I.</td><td colspan="5">DOANH THU HOẠT ĐỘNG</td></tr><tr><td>1.1.</td><td>Lãi từ các tài sản tài chính được ghi nhận theo giá trị hợp lý thông qua lãi/(lỗ) (&quot;FVTPL&quot;)</td><td>01</td><td></td><td>718.966.140.991</td><td>983.233.565.283</td></tr><tr><td>a.</td><td>Lãi từ bán các tài sản tài chính FVTPL</td><td>01.1</td><td>32</td><td>689.662.806.610</td><td>970.676.311.987</td></tr><tr><td>b.</td><td>Chênh lệch tăng về đánh giá lại các tài sản tài chính FVTPL</td><td>01.2</td><td>34</td><td>(4.963.443.133)</td><td>9.815.531.028</td></tr><tr><td>c.</td><td>Cổ tức, tiền lãi phát sinh từ tài sản tài chính FVTPL</td><td>01.3</td><td>35(a)</td><td>16.255.966.800</td><td>2.708.649.200</td></tr><tr><td>d.</td><td>Chênh lệch giảm về đánh giá lại chứng quyền</td><td>01.4</td><td>34</td><td>18.010.810.714</td><td>33.073.068</td></tr><tr><td>1.2.</td><td>Lãi từ các khoản đầu tư nằm giữ đến ngày đáo hạn</td><td>02</td><td>35(b)</td><td>331.985.336.263</td><td>181.719.364.918</td></tr><tr><td>1.3.</td><td>Lãi từ các khoản cho vay và phải thu</td><td>03</td><td>35(c)</td><td>1.423.116.839.942</td><td>1.056.131.145.711</td></tr><tr><td>1.4.</td><td>Lãi từ các tài sản tài chính sẵn sàng để bán</td><td>04</td><td>35(d)</td><td>129.781.478.132</td><td>174.889.281.414</td></tr><tr><td>1.6.</td><td>Doanh thu nghiệp vụ môi giới chứng khoán</td><td>06</td><td>36</td><td>923.466.458.403</td><td>628.154.571.742</td></tr><tr><td>1.7.</td><td>Doanh thu nghiệp vụ bảo lãnh, đại lý phát hành chứng khoán</td><td>07</td><td></td><td>553.222.154</td><td>200.000.000</td></tr><tr><td>1.9.</td><td>Doanh thu nghiệp vụ lưu ký chứng khoán</td><td>09</td><td></td><td>41.902.196.441</td><td>28.817.061.958</td></tr><tr><td>1.10.</td><td>Doanh thu hoạt động tư vấn tài chính</td><td>10</td><td>37</td><td>9.946.288.303</td><td>25.597.143.800</td></tr><tr><td>1.11.</td><td>Thu nhập hoạt động khác</td><td>11</td><td>38</td><td>59.707.184.828</td><td>41.625.341.201</td></tr><tr><td></td><td>Cộng doanh thu hoạt động</td><td>20</td><td></td><td>3.639.425.145.457</td><td>3.120.367.476.027</td></tr><tr><td>II.</td><td colspan="5">CHI PHÍ HOẠT ĐỘNG</td></tr><tr><td>2.1.</td><td>Lỗ các tài sản tài chính được ghi nhận theo giá trị hợp lý thông qua lãi/(lỗ)</td><td>21</td><td></td><td>378.129.893.259</td><td>797.146.221.181</td></tr><tr><td>a.</td><td>Lỗ từ bán các tài sản tài chính FVTPL</td><td>21.1</td><td>33</td><td>341.533.024.100</td><td>794.146.495.404</td></tr><tr><td>b.</td><td>Chênh lệch giảm đánh giá lại các tài sản tài chính FVTPL</td><td>21.2</td><td>34</td><td>27.776.023.059</td><td>(35.991.852)</td></tr><tr><td>c.</td><td>Chi phí giao dịch mua các tài sản tài chính FVTPL</td><td>21.3</td><td></td><td>5.365.687.955</td><td>2.789.095.217</td></tr><tr><td>d.</td><td>Chênh lệch tăng về đánh giá lại chứng quyền</td><td>21.4</td><td></td><td>3.455.158.145</td><td>246.622.412</td></tr><tr><td>2.4.</td><td>(Hoàn nhập)/chi phí dự phòng tài sản tài chính, xử lý tổn thất các khoản phải thu khó đòi và lỗ suy giảm tài sản tài chính và chi phí đi vay</td><td>24</td><td>39</td><td>(105.482.481.734)</td><td>43.620.280.002</td></tr><tr><td>2.6</td><td>Chi phí hoạt động tự doanh</td><td>26</td><td>40</td><td>30.544.610.281</td><td>15.632.447.259</td></tr><tr><td>2.7.</td><td>Chi phí nghiệp vụ môi giới chứng khoán</td><td>27</td><td>41</td><td>766.107.385.017</td><td>517.456.606.990</td></tr><tr><td>2.8</td><td>Chi phí nghiệp vụ bảo lãnh đại lý phát hành chứng khoán</td><td>28</td><td></td><td>1.499.988</td><td>1.499.988</td></tr></table>
+
+Các thuyết minh đính kèm là bộ phận hợp thành của báo cáo tài chính này
+
+10
+
+===== PAGE 12 =====
+Công ty Cổ phần Chứng khoán MB
+
+Báo cáo kết quả hoạt động cho năm kết thúc ngày 31 tháng 12 năm 2025 (tiếp theo)
+
+Mẫu B02 - CTCK
+
+(Ban hành theo Thông tư số 334/2016/TT-BTC
+
+ngày 27/12/2016 của Bộ Tài chính)
+
+<table><tr><td colspan="2"></td><td>Mã số</td><td>Thuyết minh</td><td>Năm 2025 VND</td><td>Năm 2024 VND</td></tr><tr><td>2.10.</td><td>Chi phí nghiệp vụ lưu ký chứng khoán</td><td>30</td><td></td><td>34.463.147.360</td><td>23.368.751.698</td></tr><tr><td>2.11.</td><td>Chi phí hoạt động tư vấn tài chính</td><td>31</td><td></td><td>4.362.996.412</td><td>12.359.879.599</td></tr><tr><td>2.12.</td><td>Chi phí hoạt động khác</td><td>32</td><td>42</td><td>775.900.012</td><td>211.599.987</td></tr><tr><td></td><td>Cộng chi phí hoạt động</td><td>40</td><td></td><td>1.108.902.950.595</td><td>1.409.797.286.704</td></tr><tr><td>III</td><td colspan="5">DOANH THU HOẠT ĐỘNG TÀI CHÍNH</td></tr><tr><td>3.1</td><td>Chênh lệch lãi tỷ giá hối đoái đã và chưa thực hiện</td><td>41</td><td></td><td>77.617</td><td>102.414</td></tr><tr><td>3.2.</td><td>Doanh thu, dự thu cổ tức, lãi tiền gửi ngân hàng không cổ định</td><td>42</td><td></td><td>6.699.817.603</td><td>6.138.723.594</td></tr><tr><td></td><td>Cộng doanh thu hoạt động tài chính</td><td>50</td><td></td><td>6.699.895.220</td><td>6.138.826.008</td></tr><tr><td>IV.</td><td colspan="5">CHI PHÍ TÀI CHÍNH</td></tr><tr><td>4.1</td><td>Chênh lệch lỗ tỷ giá hối đoái đã và chưa thực hiện</td><td>51</td><td></td><td>-</td><td>10.553</td></tr><tr><td>4.2</td><td>Chi phí lãi vay, lãi trái phiếu phát hành</td><td>52</td><td>43</td><td>844.353.981.743</td><td>541.247.874.447</td></tr><tr><td></td><td>Cộng chi phí tài chính</td><td>60</td><td></td><td>844.353.981.743</td><td>541.247.885.000</td></tr><tr><td>V.</td><td>CHI PHÍ BÁN HÀNG</td><td>61</td><td></td><td>15.851.036.082</td><td>9.975.188.204</td></tr><tr><td>VI.</td><td>CHI PHÍ QUẢN LÝ CÔNG TY CHỨNG KHOÁN</td><td>62</td><td>44</td><td>280.734.157.638</td><td>239.698.440.510</td></tr><tr><td>VII.</td><td>KẾT QUẢ HOẠT ĐỘNG(70 = 20 - 40 + 50 - 60 - 61 - 62)</td><td>70</td><td></td><td>1.396.282.914.619</td><td>925.787.501.617</td></tr><tr><td>VIII.</td><td colspan="5">THU NHẬP KHÁC VÀ CHI PHÍ KHÁC</td></tr><tr><td>8.1.</td><td>Thu nhập khác</td><td>71</td><td>45</td><td>18.882.265.436</td><td>4.860.628.403</td></tr><tr><td>8.2.</td><td>Chi phí khác</td><td>72</td><td></td><td>158.848.347</td><td>4.079.085</td></tr><tr><td></td><td>Cộng kết quả hoạt động khác(80 = 71 - 72)</td><td>80</td><td></td><td>18.723.417.089</td><td>4.856.549.318</td></tr><tr><td>IX.</td><td>TỔNG LỢI NHUẬN KẾ TOÁN TRƯỚC THUẾ (90 = 70 + 80)(mang sang trang sau)</td><td>90</td><td></td><td>1.415.006.331.708</td><td>930.644.050.935</td></tr></table>
+
+Các thuyết minh đính kèm là bộ phận hợp thành của báo cáo tài chính này
+
+11
+
+J01
+CÔT
+KH
+HY P
+
+===== PAGE 13 =====
+Công ty Cổ phần Chứng khoán MB
+
+Báo cáo kết quả hoạt động cho năm kết thúc ngày 31 tháng 12 năm 2025 (tiếp theo)
+
+Mẫu B02 - CTCK
+
+(Ban hành theo Thông tư số 334/2016/TT-BTC
+
+ngày 27/12/2016 của Bộ Tài chính)
+
+<table><tr><td colspan="2"></td><td>Mã số</td><td>Thuyết minh</td><td>Năm 2025 VND</td><td>Năm 2024 VND</td></tr><tr><td>IX.</td><td>TỔNG LỢI NHUẬN KẾ TOÁN TRƯỚC THUẾ (90 = 70 + 80) (mang sang từ trang trước)</td><td>90</td><td></td><td>1.415.006.331.708</td><td>930.644.050.935</td></tr><tr><td>9.1.</td><td>Lợi nhuận đã thực hiện</td><td>91</td><td></td><td>1.433.190.145.331</td><td>921.006.077.399</td></tr><tr><td>9.2.</td><td>(Lỗ)/lợi nhuận chưa thực hiện</td><td>92</td><td></td><td>(18.183.813.623)</td><td>9.637.973.536</td></tr><tr><td>X.</td><td>CHI PHÍ THUẾ THU NHẬP DOANH NGHIẾP (“TNDN”)</td><td>100</td><td></td><td>284.133.334.649</td><td>187.090.868.370</td></tr><tr><td>10.1.</td><td>Chi phí thuế TNDN hiện hành</td><td>100.1</td><td>46</td><td>275.779.864.165</td><td>188.516.830.206</td></tr><tr><td>10.2.</td><td>Chi phí/(lợi ích) thuế TNDN hoãn lại</td><td>100.2</td><td>46</td><td>8.353.470.484</td><td>(1.425.961.836)</td></tr><tr><td>XI.</td><td>LỢI NHUẬN KẾ TOÁN SAU THUẾ TNDN (200 = 90 - 100)</td><td>200</td><td></td><td>1.130.872.997.059</td><td>743.553.182.565</td></tr><tr><td>XIII.</td><td>THU NHẬP THUÀN TRÊN CỔ PHIẾU PHỒ THÔNG</td><td>500</td><td>47</td><td>1.063.020.617.235</td><td>698.939.991.611</td></tr><tr><td>13.1.</td><td>Lãi cơ bản trên cổ phiếu (VND/cổ phiếu)</td><td>501</td><td>47</td><td>1.633</td><td>(Điều chỉnh lại)</td></tr></table>
+
+23-02-2026
+
+Người lập:
+
+Tạ Duy Chung
+Kế toán tổng hợp
+
+Người kiểm soát:
+
+Nguyễn Văn Học
+Kế toán trường
+
+Người duyệt:
+
+Các thuyết minh đính kèm là bộ phận hợp thành của báo cáo tài chính này
+
+12
+
+12
+NO
+NH
+'N
+10
+
+===== PAGE 14 =====
+Công ty Cổ phần Chứng khoán MB
+
+Báo cáo lưu chuyển tiền tệ cho năm kết thúc ngày 31 tháng 12 năm 2025
+
+(Phương pháp gián tiếp)
+
+Mẫu B03b - CTCK
+
+(Ban hành theo Thông tư số 334/2016/TT-BTC
+
+ngày 27/12/2016 của Bộ Tài chính)
+
+<table><tr><td></td><td>Mã số</td><td>Thuyết minh</td><td>Năm 2025 VND</td><td>Năm 2024 VND</td></tr><tr><td colspan="5">I. LƯU CHUYÊN TIỀN TỪ HOẠT ĐỘNG KINH DOANH</td></tr><tr><td>1. Lợi nhuận trước thuế TNDN</td><td>01</td><td></td><td>1.415.006.331.708</td><td>930.644.050.935</td></tr><tr><td>2. Điều chỉnh cho các khoản:</td><td>02</td><td></td><td>713.198.834.655</td><td>467.806.712.026</td></tr><tr><td>- Khấu hao tài sản cố định</td><td>03</td><td></td><td>53.645.235.277</td><td>60.909.312.223</td></tr><tr><td>- Các khoản dự phòng</td><td>04</td><td></td><td>(104.706.581.722)</td><td>43.908.765.761</td></tr><tr><td>- Lãi chênh lệch tỷ giá hối đoái chưa thực hiện</td><td>05</td><td></td><td>(77.617)</td><td>(91.861)</td></tr><tr><td>- Chi phí lãi vay, lãi trái phiếu phát hành</td><td>06</td><td></td><td>844.353.981.743</td><td>541.247.874.447</td></tr><tr><td>- Lãi từ hoạt động đầu tư</td><td>07</td><td></td><td>(7.004.894.228)</td><td>(6.525.541.776)</td></tr><tr><td>- Dự thu tiền lãi</td><td>08</td><td></td><td>(73.088.443.717)</td><td>(171.733.606.768)</td></tr><tr><td>- Các khoản điều chỉnh khác</td><td>09</td><td></td><td>(385.081)</td><td>-</td></tr><tr><td>3. Tăng các chi phí phi tiền tệ</td><td>10</td><td></td><td>31.231.181.204</td><td>210.630.560</td></tr><tr><td>- Chênh lệch tăng đánh giá lại giá trị các tài sản tài chính được ghi nhận theo giá trị hợp lý thông qua lãi/(lỗ) (FVTPL)</td><td>11</td><td></td><td>31.231.181.204</td><td>210.630.560</td></tr><tr><td>4. Giảm các doanh thu phi tiền tệ</td><td>18</td><td></td><td>(13.047.367.581)</td><td>(9.848.604.096)</td></tr><tr><td>- Chênh lệch tăng đánh giá lại giá trị các tài sản tài chính được ghi nhận theo giá trị hợp lý thông qua lãi/(lỗ) (FVTPL)</td><td>19</td><td></td><td>(13.047.367.581)</td><td>(9.848.604.096)</td></tr><tr><td>5. Thay đổi vốn lưu động</td><td>30</td><td></td><td>(6.641.861.075.035)</td><td>(5.466.242.609.056)</td></tr><tr><td>- Tăng tài sản tài chính FVTPL</td><td>31</td><td></td><td>(1.163.404.290.082)</td><td>(841.039.767.696)</td></tr><tr><td>- Tăng các khoản đầu tư giữ đến ngày đáo hạn</td><td>32</td><td></td><td>(1.719.959.928.706)</td><td>(2.344.568.960.902)</td></tr><tr><td>- Tăng các khoản cho vay</td><td>33</td><td></td><td>(4.746.855.748.137)</td><td>(1.075.246.035.008)</td></tr><tr><td>- Tăng tài sản tài chính sẵn sàng để bán</td><td>34</td><td></td><td>(386.368.209.323)</td><td>(1.444.811.830.138)</td></tr><tr><td>- Giảm phải thu bán các tài sản tài chính</td><td>35</td><td></td><td>2.190.015.500.000</td><td>680.980.900.000</td></tr><tr><td>- Giảm các khoản phải thu và dự thu cổ tức, tiền lãi các tài sản tài chính</td><td>36</td><td></td><td>129.524.769.648</td><td>178.182.935.103</td></tr><tr><td>- (Tăng)/giảm các khoản phải thu về các dịch vụ công ty chứng khoán cung cấp</td><td>37</td><td></td><td>(1.161.422.630)</td><td>332.439.783</td></tr><tr><td>- Tăng các khoản phải thu khác</td><td>39</td><td></td><td>(3.382.166.620)</td><td>(2.149.821.068)</td></tr><tr><td>- Giảm các tài sản khác</td><td>40</td><td></td><td>1.655.204.226</td><td>2.263.653.828</td></tr><tr><td>- Tăng chi phí phải trả (không bao gồm chi phí lãi vay)</td><td>41</td><td></td><td>73.992.302.114</td><td>33.650.356.687</td></tr><tr><td>- Giảm chi phí trả trước</td><td>42</td><td></td><td>4.099.990.426</td><td>16.709.782.051</td></tr><tr><td>- Thuế TNDN đã nộp</td><td>43</td><td></td><td>(218.981.446.448)</td><td>(151.903.676.615)</td></tr><tr><td>- Lãi vay đã trả</td><td>44</td><td></td><td>(781.357.606.764)</td><td>(494.937.451.882)</td></tr><tr><td>- Giảm phải trả cho người bán</td><td>45</td><td></td><td>(1.847.821.744)</td><td>(4.756.830.945)</td></tr><tr><td>- Giảm các khoản trích lập phúc lợi nhân viên</td><td>46</td><td></td><td>(41.968.709)</td><td>(103.355.800)</td></tr><tr><td>- Tăng thuế và các khoản phải nộp Nhà nước (không bao gồm thuế TNDN đã nộp)</td><td>47</td><td></td><td>7.778.490.460</td><td>6.984.473.980</td></tr><tr><td>- Tăng/(giảm) phải trả người lao động</td><td>48</td><td></td><td>1.891.851.415</td><td>(3.201.721.034)</td></tr><tr><td>- Tăng/(giảm) phải trả, phải nộp khác</td><td>50</td><td></td><td>22.237.848.558</td><td>(22.627.699.400)</td></tr><tr><td>- Tiền chi khác cho hoạt động kinh doanh</td><td>52</td><td></td><td>(49.696.422.719)</td><td>-</td></tr><tr><td>Lưu chuyển tiền thuần từ hoạt động kinh doanh</td><td>60</td><td></td><td>(4.495.472.095.049)</td><td>(4.077.429.819.631)</td></tr></table>
+
+Các thuyết minh đính kèm là bộ phận hợp thành của báo cáo tài chính này
+
+13
+
+11.1 12.2 13.3
+
+===== PAGE 15 =====
+Công ty Cổ phần Chứng khoán MB
+
+Báo cáo lưu chuyển tiền tệ cho năm kết thúc ngày 31 tháng 12 năm 2025 (Phương pháp gián tiếp – tiếp theo)
+
+Mẫu B03b - CTCK
+
+(Ban hành theo Thông tư số 334/2016/TT-BTC
+
+ngày 27/12/2016 của Bộ Tài chính)
+
+<table><tr><td></td><td>Mã số</td><td>Thuyết minh</td><td>Năm 2025 VND</td><td>Năm 2024 VND</td></tr><tr><td colspan="5">II. LƯU CHUYÊN TIỀN TỪ HOẠT ĐỘNG ĐẦU TƯ</td></tr><tr><td>1. Tiền chi mua sắm, xây dựng tài sản cố định</td><td>61</td><td></td><td>(15.023.026.510)</td><td>(9.801.226.425)</td></tr><tr><td>2. Tiền thu từ thanh lý, nhượng bán TSCĐ, BĐSĐT và các tài sản khác</td><td>62</td><td></td><td>305.076.625</td><td>386.818.182</td></tr><tr><td>5. Tiền thu về cổ tức và lợi nhuận được chia từ các khoản đầu tư tài chính dài hạn</td><td>65</td><td></td><td>6.699.817.603</td><td>-</td></tr><tr><td>Lưu chuyển tiền thuần từ hoạt động đầu tư</td><td>70</td><td></td><td>(8.018.132.282)</td><td>(9.414.408.243)</td></tr><tr><td colspan="5">III. LƯU CHUYÊN TIỀN TỪ HOẠT ĐỘNG TÀI CHÍNH</td></tr><tr><td>1. Tiền thu từ phát hành cổ phiếu, nhận vốn góp của chủ sở hữu</td><td>71</td><td></td><td>687.339.530.000</td><td>1.686.988.200.000</td></tr><tr><td>3. Tiền vay gốc</td><td>73</td><td></td><td>54.639.373.227.681</td><td>38.636.046.556.035</td></tr><tr><td>3.2. Tiền vay khác</td><td>73.2</td><td></td><td>54.639.373.227.681</td><td>38.636.046.556.035</td></tr><tr><td>4. Tiền chi trả nợ gốc vay</td><td>74</td><td></td><td>(49.479.027.490.816)</td><td>(34.509.687.440.008)</td></tr><tr><td>4.3. Tiền chi trả gốc vay khác</td><td>74.3</td><td></td><td>(49.479.027.490.816)</td><td>(34.509.687.440.008)</td></tr><tr><td>6. Cổ tức, lợi nhuận đã trả cho chủ sở hữu</td><td>76</td><td></td><td>(686.472.757.967)</td><td>(524.208.536.493)</td></tr><tr><td>Lưu chuyển tiền thuần từ hoạt động tài chính</td><td>80</td><td></td><td>5.161.212.508.898</td><td>5.289.138.779.534</td></tr><tr><td>IV. Lưu chuyển tiền thuần trong năm (90 = 60 + 70 + 80)</td><td>90</td><td></td><td>657.722.281.567</td><td>1.202.294.551.660</td></tr><tr><td>V. Tiền và các khoản tương đương tiền đầu năm</td><td>101</td><td></td><td>1.773.543.835.124</td><td>571.249.283.464</td></tr><tr><td>Tiền</td><td>101.1</td><td></td><td>1.749.543.835.124</td><td>441.249.283.464</td></tr><tr><td>Các khoản tương đương tiền</td><td>101.2</td><td></td><td>24.000.000.000</td><td>130.000.000.000</td></tr><tr><td>VI. Tiền và các khoản tương đương tiền cuối năm (103 = 90 + 101)</td><td>103</td><td>6</td><td>2.431.266.116.691</td><td>1.773.543.835.124</td></tr><tr><td>Tiền</td><td>103.1</td><td></td><td>2.431.266.116.691</td><td>1.749.543.835.124</td></tr><tr><td>Các khoản tương đương tiền</td><td>103.2</td><td></td><td>-</td><td>24.000.000.000</td></tr></table>
+
+Các thuyết minh đính kèm là bộ phận hợp thành của báo cáo tài chính này
+
+14
+
+===== PAGE 16 =====
+Công ty Cổ phần Chứng khoán MB
+
+Báo cáo lưu chuyển tiền tệ cho năm kết thúc ngày 31 tháng 12 năm 2025
+
+(Phương pháp gián tiếp – tiếp theo)
+
+Mẫu B03b - CTCK
+
+(Ban hành theo Thông tư số 334/2016/TT-BTC
+
+ngày 27/12/2016 của Bộ Tài chính)
+
+PHẦN LƯU CHUYỀN TIỀN TỆ HOẠT ĐỘNG MÔI GIỚI, ỦY THÁC CỦA KHÁCH HÀNG
+
+<table><tr><td></td><td></td><td>Mã số</td><td>Năm 2025 VND</td><td>Năm 2024 VND</td></tr><tr><td>I.</td><td>Lưu chuyển tiền hoạt động môi giới, ủy thác của khách hàng</td><td></td><td></td><td></td></tr><tr><td>1.</td><td>Tiền thu bán chứng khoán môi giới cho khách hàng</td><td>01</td><td>372.162.789.883.927</td><td>243.148.294.750.444</td></tr><tr><td>2.</td><td>Tiền chi mua chứng khoán môi giới cho khách hàng</td><td>02</td><td>(382.148.827.732.299)</td><td>(247.997.854.109.762)</td></tr><tr><td>7.</td><td>Nhận tiền gửi để thanh toán giao dịch chứng khoán của khách hàng</td><td>07</td><td>11.188.766.988.121</td><td>3.995.867.134.532</td></tr><tr><td>11.</td><td>Chỉ trả phí lưu ký chứng khoán của khách hàng</td><td>09</td><td>(21.514.744.740)</td><td>(16.473.190.813)</td></tr><tr><td>14.</td><td>Tiền thu của Tổ chức phát hành chứng khoán</td><td>14</td><td>2.192.598.756.070</td><td>2.576.995.057.278</td></tr><tr><td>15.</td><td>Tiền chi trả Tổ chức phát hành chứng khoán</td><td>15</td><td>(2.099.967.191.070)</td><td>(2.580.405.881.278)</td></tr><tr><td></td><td>Tăng/(giảm) tiền thuần trong năm</td><td>20</td><td>1.273.845.960.009</td><td>(873.576.239.599)</td></tr><tr><td rowspan="6">II.</td><td>Tiền và các khoản tương đương tiền đầu năm của khách hàng</td><td>30</td><td>3.358.932.288.854</td><td>4.232.508.528.453</td></tr><tr><td>Tiền gửi ngân hàng đầu năm:</td><td>31</td><td>3.358.932.288.854</td><td>4.232.508.528.453</td></tr><tr><td>- Tiền gửi của Nhà đầu tư về giao dịch chứng khoán theo phương thức công ty chứng khoán quản lý</td><td>32</td><td>2.910.908.869.249</td><td>3.897.146.498.014</td></tr><tr><td>- Tiền gửi ký quỹ của Nhà đầu tư</td><td>32.1</td><td>270.501.223.230</td><td>133.652.638.234</td></tr><tr><td>- Tiền gửi tổng hợp giao dịch chứng khoán cho khách hàng</td><td>33</td><td>171.589.439.729</td><td>192.365.811.559</td></tr><tr><td>- Tiền gửi của Tổ chức phát hành chứng khoán</td><td>35</td><td>5.932.756.646</td><td>9.343.580.646</td></tr><tr><td rowspan="6">III.</td><td>Tiền và các khoản tương đương tiền cuối năm của khách hàng (40 = 20 + 30)</td><td>40</td><td>4.632.778.248.863</td><td>3.358.932.288.854</td></tr><tr><td>Tiền gửi ngân hàng cuối năm</td><td>41</td><td>4.632.778.248.863</td><td>3.358.932.288.854</td></tr><tr><td>- Tiền gửi của Nhà đầu tư về giao dịch chứng khoán theo phương thức công ty chứng khoán quản lý</td><td>42</td><td>4.249.811.256.637</td><td>2.910.908.869.249</td></tr><tr><td>- Tiền gửi ký quỹ của Nhà đầu tư</td><td>42.1</td><td>182.797.580.852</td><td>270.501.223.230</td></tr><tr><td>- Tiền gửi tổng hợp giao dịch chứng khoán cho khách hàng</td><td>43</td><td>101.605.089.728</td><td>171.589.439.729</td></tr><tr><td>- Tiền gửi của Tổ chức phát hành chứng khoán</td><td>45</td><td>98.564.321.646</td><td>5.932.756.646</td></tr></table>
+
+23-02-2026
+
+Người lập:
+
+Tạ Duy Chung
+Kế toán tổng hợp
+
+Người kiểm soát:
+
+Nguyễn Văn Học
+Kế toán trường
+
+Các thuyết minh đính kèm là bộ phận hợp thành của báo cáo tài chính này
+
+15
+
+===== PAGE 17 =====
+Công ty Cổ phần Chứng khoán MB
+Báo cáo tình hình biến động vốn chủ sở hữu cho năm kết thúc ngày 31 tháng 12 năm 2025
+
+Mẫu B04 - CTCK
+(Ban hành theo Thông tư số 334/2016/TT-BTC
+ngày 27/12/2016 của Bộ Tài chính)
+
+<table><tr><td rowspan="2" colspan="2">CHÌ TIÊU</td><td colspan="2">Số dư đầu năm</td><td colspan="4">Số tăng/(giảm)</td><td colspan="2">Số dư cuối năm</td></tr><tr><td>1/1/2024VND</td><td>1/1/2025VND</td><td>Năm 2024TăngVND</td><td>(Giảm)VND</td><td>TăngVND</td><td>(Giảm)VND</td><td>31/12/2024VND</td><td>31/12/2025VND</td></tr><tr><td>I.</td><td colspan="9">Biến động vốn chủ sở hữu</td></tr><tr><td>1.</td><td>Vốn đầu tư củachủ sở hữu</td><td>4.375.946.418.400</td><td>6.062.944.519.673</td><td>1.686.998.101.273</td><td></td><td>-</td><td>859.138.060.000</td><td>171.798.530.000</td><td>6.062.944.519.673</td></tr><tr><td>1.1.</td><td>Cổ phiếu phổ thông</td><td>4.376.699.930.000</td><td>5.728.129.810.000</td><td>1.351.429.880.000</td><td></td><td>-</td><td>859.138.060.000</td><td>-</td><td>5.728.129.810.000</td></tr><tr><td>1.2.</td><td>Cổ phiếu quỹ</td><td>(753.511.600)</td><td>(743.610.327)</td><td>9.901.273</td><td></td><td>-</td><td>-</td><td>-</td><td>(743.610.327)</td></tr><tr><td>1.3.</td><td>Thặng dư vốn cổ phần</td><td>-</td><td>335.558.320.000</td><td>335.558.320.000</td><td></td><td>-</td><td>-</td><td>171.798.530.000</td><td>335.558.320.000</td></tr><tr><td>4.</td><td>Quỹ dự phòng tài chínhvà rủi ro nghiệp vụ</td><td>24.516.764.528</td><td>24.516.764.528</td><td>-</td><td></td><td>-</td><td>-</td><td>-</td><td>24.516.764.528</td></tr><tr><td>7.</td><td>Các quỹ khác thuộcvốn chủ sở hữu</td><td>1.625.982.305</td><td>1.625.982.305</td><td>-</td><td></td><td>-</td><td>-</td><td>-</td><td>1.625.982.305</td></tr><tr><td>8.</td><td>Lợi nhuậnchưa phân phối</td><td>636.107.333.361</td><td>819.451.590.106</td><td>743.553.182.565</td><td>560.208.925.820</td><td>1.157.410.281.166</td><td>758.490.003.061</td><td>819.451.590.106</td><td>1.218.371.868.211</td></tr><tr><td>8.1.</td><td>Lợi nhuận đã thực hiện</td><td>618.419.678.969</td><td>789.317.719.875</td><td>731.106.966.726</td><td>560.208.925.820</td><td>1.157.410.281.166</td><td>731.952.718.954</td><td>789.317.719.875</td><td>1.214.775.282.087</td></tr><tr><td>8.2.</td><td>Lợi nhuận churathực hiện</td><td>17.687.654.392</td><td>30.133.870.231</td><td>12.446.215.839</td><td></td><td>-</td><td>26.537.284.107</td><td>30.133.870.231</td><td>3.596.586.124</td></tr><tr><td></td><td>TỔNG CỘNG</td><td>5.038.196.498.594</td><td>6.908.538.856.612</td><td>2.430.551.283.838</td><td>560.208.925.820</td><td>2.016.548.341.166</td><td>930.288.533.061</td><td>6.908.538.856.612</td><td>7.994.798.664.717</td></tr></table>
+
+Người lập:
+
+han Phương Anh
+Tổng Giám đốc
+
+Phạm Thị Kim Ngân
+Phó Tổng Giám đốc
+
+Nguyễn Văn Học
+Kế toán trưởng
+
+Các thuyết minh đính kèm là bộ phận hợp thành của báo cáo tài chính này
+
+16
+
+===== PAGE 18 =====
+Công ty Cổ phần Chứng khoán MB
+
+Thuyết minh báo cáo tài chính cho năm kết thúc ngày 31 tháng 12 năm 2025
+
+Mẫu B09 - CTCK
+
+(Ban hành theo Thông tư số 334/2016/TT-BTC
+
+ngày 27/12/2016 của Bộ Tài chính)
+
+Các thuyết minh này là bộ phận hợp thành và cần được đọc đồng thời với báo cáo tài chính đính kèm.
+
+1. Đơn vị báo cáo
+
+(a) Thông tin doanh nghiệp
+
+Công ty Cổ phần Chứng khoán MB ("Công ty") là một công ty cổ phần được thành lập tại Việt Nam.
+
+Công ty được Ủy ban Chứng khoán Nhà nước cấp Giấy phép Hoạt động Kinh doanh Chứng khoán số 116/GP-UBCK lần đầu vào ngày 9 tháng 12 năm 2013 và Giấy phép Hoạt động Kinh doanh Chứng khoán mới nhất số 127/GPĐC-UBCK được Ủy ban Chứng khoán Nhà nước cấp ngày 27 tháng 11 năm 2025. Giấy Chứng nhận Đăng ký Doanh nghiệp số 0106393583 đăng ký thay đổi lần thứ chính ngày 5 tháng 12 năm 2025 do Sở kế hoạch và Đầu tư Thành phố Hà Nội cấp.
+
+Điều lệ hoạt động của Công ty được ban hành ngày 9 tháng 12 năm 2013 và được sửa đổi, bổ sung lần gần nhất vào ngày 28 tháng 4 năm 2025. Cổ phiếu của Công ty (Mã cổ phiếu: MBS) được chính thức đăng ký giao dịch tại Sở giao dịch Chứng khoán Hà Nội ngày 16 tháng 3 năm 2016.
+
+(b) Quy mô vốn
+
+Tại ngày 31 tháng 12 năm 2025, vốn điều lệ của Công ty là 6.587.267.870.000 VND (31/12/2024: 5.728.129.810.000 VND).
+
+(c) Hoạt động chính
+
+Các hoạt động chính của Công ty là:
+
+- Môi giới chứng khoán, cho vay và cung cấp dịch vụ;
+
+• Tự doanh chứng khoán;
+
+• Bảo lãnh phát hành chứng khoán;
+
+• Lưu ký chứng khoán; và
+
+• Tư vấn đầu tư chứng khoán.
+
+(d) Số lượng nhân viên
+
+Tại ngày 31 tháng 12 năm 2025, Công ty có 621 nhân viên (31/12/2024: 636 nhân viên).
+
+(e) Mạng lưới hoạt động
+
+Công ty có trụ sở chính tại Khu vực 1 – Tầng 7 và 8, Tòa nhà MB, Số 21 Cát Linh, Phường Ô Chợ Dừa, Hà Nội, Việt Nam. Tại ngày 31 tháng 12 năm 2025, Công ty có một (1) trụ sở chính và sâu (6) chi nhánh tại Thành phố Hồ Chí Minh, Hà Nội và Hải Phòng (31/12/2024: Công ty có một (1) trụ sở chính và sâu (6) chi nhánh tại Thành phố Hồ Chí Minh, Hà Nội và Hải Phòng).
+
+17
+
+===== PAGE 19 =====
+Công ty Cổ phần Chứng khoán MB
+
+Thuyết minh báo cáo tài chính cho năm kết thúc ngày 31 tháng 12 năm 2025 (tiếp theo)
+
+Mẫu B09 - CTCK
+
+(Ban hành theo Thông tư số 334/2016/TT-BTC
+
+ngày 27/12/2016 của Bộ Tài chính)
+
+(f) Mục tiêu đầu tư
+
+Là công ty chứng khoán niêm yết trên thị trường chứng khoán Việt Nam với hoạt động chính bao gồm môi giới chứng khoán, tự doanh chứng khoán, tự vấn đầu tư, bảo lãnh phát hành chứng khoán và tự vấn tài chính. Công ty hoạt động với mục tiêu trở thành một trong những công ty chứng khoán hàng đầu trên thị trường, đóng góp vào sự phát triển của thị trường chứng khoán Việt Nam, đem lại những lợi ích cốt lỗi cho khách hàng, các nhà đầu tư và cổ đông của Công ty.
+
+(g) Hạn chế đầu tư
+
+Công ty tuân thủ quy định tại Điều 28 của Thông tư số 121/2020/TT-BTC (“Thông tư 121”) do Bộ Tài chính ban hành ngày 31 tháng 12 năm 2020 quy định về hoạt động của công ty chứng khoán. Theo đó:
+
+Công ty chứng khoán không được mua, góp vốn mua bất động sản trừ trường hợp để sử dụng làm trụ sở chính, chi nhánh, phòng giao dịch phục vụ trực tiếp cho các hoạt động nghiệp vụ của công ty chứng khoán.
+
+Công ty chứng khoán mua, đầu tư vào bất động sản theo quy định tại Khoản 1 Điều 28 của Thông tư 121 và tài sản cố định theo nguyên tắc giá trị còn lại của tài sản cố định và bất động sản không được vượt quá 50% giá trị tổng tài sản của công ty chứng khoán.
+
+Tổng giá trị đầu tư vào các trái phiếu doanh nghiệp của công ty chứng khoán không được vượt quá 70% vốn chủ sở hữu. Công ty chứng khoán được cấp phép thực hiện nghiệp vụ tự doanh chứng khoán được mua bán lại trái phiếu niêm yết theo quy định có liên quan về giao dịch mua bán lại trái phiếu.
+
+Công ty chứng khoán không được trực tiếp hoặc ủy thác cho tổ chức, cá nhân khác thực hiện:
+
+Đầu tư vào cổ phiếu hoặc phần vốn góp của công ty có sở hữu trên 50% vốn điều lệ của công ty chứng khoán, trừ trường hợp mua cổ phiếu lô lẻ theo yêu cầu của khách hàng;
+
+- Cùng với người có liên quan đầu tư từ 5% trở lên vốn điều lệ của công ty chứng khoán khác;
+
+Đầu tư quá 20% tổng số cổ phiếu, chứng chỉ quỹ đang lưu hành của một tổ chức niêm yết;
+
+Đầu tư quá 15% tổng số cổ phiếu, chứng chỉ quỹ đang lưu hành của một tổ chức chưa niêm yết, quy định này không áp dụng đối với chứng chỉ quỹ thành viên, quỹ hoán đổi danh mục và quỹ mở;
+
+- Đầu tư hoặc góp vốn quá 10% tổng số vốn góp của một công ty trách nhiệm hữu hạn hoặc dự án kinh doanh;
+
+Đầu tư hoặc góp vốn quá 15% vốn chủ sở hữu vào một tổ chức hoặc dự án kinh doanh; và
+
+- Đầu tư quá 70% vốn chủ sở hữu vào cổ phiếu, phần vốn góp và dự án kinh doanh, trong đó không được đầu tư quá 20% vốn chủ sở hữu vào cổ phiếu chưa niêm yết, phần vốn góp và dự án kinh doanh.
+
+Công ty chứng khoán được thành lập, mua lại công ty quản lý quỹ làm công ty con. Trong trường hợp này, công ty chứng khoán không phải tuân thủ quy định tại điểm c, d và đ Khoản 4 Điều 28 của Thông tư 121. Công ty chứng khoán dự kiến thành lập, mua lại công ty quản lý quỹ làm công ty con phải đáp ứng các điều kiện sau:
+
+18
+
+10.2 7H9
+
+===== PAGE 20 =====
+Công ty Cổ phần Chứng khoán MB
+
+Thuyết minh báo cáo tài chính cho năm kết thúc ngày 31 tháng 12 năm 2025 (tiếp theo)
+
+Mẫu B09 - CTCK
+
+(Ban hành theo Thông tư số 334/2016/TT-BTC
+
+ngày 27/12/2016 của Bộ Tài chính)
+
+- Vốn chủ sở hữu sau khi góp vốn thành lập, mua lại công ty quản lý quỹ tối thiểu phải bằng vốn điều lệ tối thiểu cho các nghiệp vụ kinh doanh công ty đang thực hiện;
+
+- Tỷ lệ vốn khả dụng sau khi góp vốn thành lập, mua lại công ty quản lý quỹ tối thiểu phải đạt 180%; và
+
+- Công ty chứng khoán sau khi góp vốn thành lập, mua lại công ty quản lý quỹ phải đảm bảo tuân thủ hạn chế vay nợ quy định tại Điều 26 của Thông tư 121 và hạn chế đầu tư quy định tại Khoản 3 Điều 28 và Điểm e Khoản 4 Điều 28 của Thông tư 121.
+
+Trường hợp công ty chứng khoán đầu tư vượt quá hạn mức do thực hiện bảo lãnh phát hành theo hình thức cam kết chắc chắn, do hợp nhất, sáp nhập hoặc do biến động tài sản, vốn chủ sở hữu của công ty chứng khoán hoặc tổ chức góp vốn, công ty chứng khoán phải áp dụng các biện pháp cần thiết để tuân thủ hạn mức đầu tư theo quy định tại Khoản 2, 3 và 4 Điều 28 của Thông tư 121 tối đa trong thời hạn 1 năm.
+
+2. Cơ sở lập báo cáo tài chính
+
+(a) Tuyên bố về tuân thủ
+
+Chế độ kế toán áp dụng
+
+Báo cáo tài chính này được lập theo các Chuẩn mực Kế toán Việt Nam, Chế độ Kế toán Doanh nghiệp Việt Nam, Thông tư số 210/2014/TT-BTC ngày 30 tháng 12 năm 2014 ("Thông tư 210") do Bộ Tài chính ban hành về Hướng dẫn kế toán áp dụng đối với công ty chứng khoán và Thông tư số 334/2016/TT-BTC ngày 27 tháng 12 năm 2016 ("Thông tư 334") do Bộ Tài chính ban hành về sửa đổi, bổ sung và thay thế Phụ lục 02 và Phụ lục 04 của Thông tư 210 và các quy định pháp lý có liên quan đến việc lập và trình bày báo cáo tài chính.
+
+(b) Co sở đo luồng
+
+Báo cáo tài chính, được lập trên cơ sở dồn tích theo nguyên tắc giá gốc, trừ báo cáo lưu chuyển tiền tệ, các tài sản tài chính được ghi nhận theo giá trị hợp lý thông qua lãi/(lỗ) (Thuyết minh 3(c)) và các tài sản tài chính sẵn sàng để bán (Thuyết minh 3(f)). Báo cáo lưu chuyển tiền tệ được lập theo phương pháp gián tiếp.
+
+(c) Kỳ kế toán năm
+
+Kỳ kế toán năm của Công ty là từ ngày 1 tháng 1 đến ngày 31 tháng 12.
+
+(d) Đơn vị tiền tệ kế toán
+
+Đơn vị tiền tệ kế toán của Công ty là Đồng Việt Nam ("VND"), cũng là đơn vị tiền tệ được sử dụng cho mục đích lập và trình bày báo cáo tài chính.
+
+19
+
+\( \left( 1\right)  + 8 = {10} \)
+
+===== PAGE 21 =====
+Công ty Cổ phần Chứng khoán MB
+
+Thuyết minh báo cáo tài chính cho năm kết thúc ngày 31 tháng 12 năm 2025 (tiếp theo)
+
+Mẫu B09 - CTCK
+
+(Ban hành theo Thông tư số 334/2016/TT-BTC
+
+ngày 27/12/2016 của Bộ Tài chính)
+
+3. Tóm tắt những chính sách kế toán chủ yếu
+
+Sau đây là những chính sách kế toán chủ yếu được Công ty áp dụng trong việc lập báo cáo tài chính này.
+
+(a) Tài sản và nợ phải trả tài chính
+
+(i) Ghi nhận
+
+Các tài sản và nợ phải trả tài chính được ghi nhận trong báo cáo tình hình tài chính khi và chỉ khi Công ty trở thành một bên tham gia các điều khoản hợp đồng của tài sản và nợ phải trả tài chính này.
+
+(ii) Phân loại và đo lường
+
+- Các tài sản tài chính được ghi nhận thông qua lãi/(lỗ): Xem Thuyết minh 3(c);
+
+• Các khoản đầu tư nắm giữ đến ngày đáo hạn: Xem Thuyết minh 3(d);
+
+• Các khoản cho vay: Xem Thuyết minh 3(e);
+
+- Các tài sản tài chính sẵn sàng để bán: Xem Thuyết minh 3(f).
+
+(iii) Chám dứt ghi nhận
+
+Công ty chấm dứt ghi nhận một tài sản tài chính khi quyền lợi theo hợp đồng của Công ty đối với các dòng tiền phát sinh từ tài sản tài chính này chấm dứt, hay khi Công ty chuyển giao toàn bộ tài sản tài chính này bằng một giao dịch mà phần lớn rủi ro và lợi ích gắn liền với việc sở hữu tài sản tài chính này được chuyển giao hoặc một giao dịch mà trong đó Công ty không chuyển giao toàn bộ và cũng không giữ lại phần lớn rủi ro và lợi ích gắn liền với việc sở hữu tài sản và cũng không nắm quyền kiểm soát tài sản.
+
+Công ty chấm dứt ghi nhận nợ phải trả tài chính khi các nghĩa vụ theo hợp đồng đã được dỗ bỏ, hủy bỏ hoặc chấm dứt.
+
+(iv) Cán trừ
+
+Tài sản và nợ phải trả tài chính được cán trừ và số dư thuần được trình bày trên Báo cáo tỉnh hình tài chính khi và chỉ khi Công ty có quyền hợp pháp để cán trừ các khoản mục với số tiền được ghi nhận và Công ty có ý định thực hiện các giao dịch trên cơ sở thuần hoặc thực hiện đồng thời việc bán tài sản và thanh toán nợ.
+
+(v) Xác định và đánh giá suy giảm giá trị
+
+Các tài sản tài chính được xem xét khả năng suy giảm giá trị tại ngày lập báo cáo tình hình tài chính.
+
+Công ty đánh giá xem có bằng chứng khách quan nào cho thấy từng tài sản tài chính hoặc từng nhóm các tài sản tài chính bị suy giảm giá trị. Một tài sản tài chính hoặc một nhóm tài sản tài chính được xem là giảm giá trị nếu, và chỉ nếu, có bằng chứng khách quan về sự suy giảm, là hệ quả của một hoặc nhiều sự kiện đã xảy ra sau ghi nhận ban đầu của tài sản (một “sự kiện tổn thất” đã xảy ra) và ảnh hưởng của sự kiện tổn thất lên lường tiền tương lai dự kiến của tài sản tài chính hoặc nhóm các tài sản tài chính có thể ước tính một cách đáng tin cây.
+
+20
+
+11. 用 \( F\left( {0 < x}\right) \) 不是(   ),令 \( F\left( {x > 1}\right) \)
+
+===== PAGE 22 =====
+Công ty Cổ phần Chứng khoán MB
+
+Thuyết minh báo cáo tài chính cho năm kết thúc ngày 31 tháng 12 năm 2025 (tiếp theo)
+
+Mẫu B09 - CTCK
+
+(Ban hành theo Thông tư số 334/2016/TT-BTC
+
+ngày 27/12/2016 của Bộ Tài chính)
+
+Một số bằng chứng khách quan cho thấy các tài sản tài chính bị suy giảm giá trị bao gồm:
+
+- Khó khăn trọng yếu về tài chính của tổ chức phát hành hoặc tổ chức giao ước;
+
+- Vi phạm hợp đồng, ví dụ như mất khả năng trả nợ hoặc không thanh toán lãi hoặc gốc đúng hạn;
+
+- Bên cho vay, vì lý do kinh tế hoặc pháp luật liên quan đến khó khăn tài chính của bên đi vay, đã đưa ra một số ưu đãi nhượng bộ cho bên đi vay mà bên cho vay không thể xem xét hơn được;
+
+- Bên đi vay có khả năng phá sản hoặc tái cơ cấu tài chính;
+
+- Các dữ liệu thu thập được cho thấy có sự suy giảm về dòng tiền ước tính trong tương lai phát sinh từ một nhóm các tài sản tài chính kể từ khi ghi nhận ban đầu.
+
+Tăng hoặc giảm số dư tài khoản dự phòng được ghi nhận vào báo cáo kết quả hoạt động trên khoản mục “Chi phí dự phòng tài sản tài chính, xử lý tổn thất các khoản phải thu khó đòi, lỗ suy giảm tài sản tài chính và chi phí đi vay”.
+
+Trong trường hợp nếu tài sản tài chính được đánh giá khởi phục mức suy giảm giá trị trước đó, Công ty sẽ hoàn nhập khoản dự phòng suy giảm giá trị đã được trích lập trước đó.
+
+(b) Tiền và các khoản tương đương tiền
+
+Tiền và các khoản tương đương tiền bao gồm tiền mặt tại quý, tiền gửi ngân hàng của Công ty, các khoản đầu tư ngắn hạn có thời hạn thu hồi không quá ba tháng kể từ ngày mua, có tính thanh khoản cao, có khả năng chuyển đổi dễ dàng thành các lượng tiền xác định và không có nhiều rủi ro trong chuyển đổi thành tiền.
+
+Tiền gửi của nhà đầu tư về giao dịch chứng khoán và tiền gửi của tổ chức phát hành được phần ánh tại mục “Các chỉ tiêu ngoài báo cáo tình hình tài chính”.
+
+(c) Các tài sản tài chính được ghi nhận thông qua lãi/(lỗ) ("FVTPL")
+
+Tài sản tài chính FVTPL là một tài sản tài chính thỏa mãn một trong các điều kiện sau:
+
+- Tài sản tài chính được phân loại vào nhóm FVTPL. Tài sản tài chính được phân loại vào nhóm FVTPL, nếu:
+
+- Tài sản được mua chủ yếu cho mục đích bán lại trong thời gian ngắn;
+
+- Có bằng chứng về việc kinh doanh công cụ đó nhằm mục đích thu lợi ngắn hạn; hoặc
+
+- Công cụ tài chính phải sinh (ngoại trừ các công cụ tài chính phải sinh được xác định là một hợp đồng bảo lãnh tài chính hoặc một công cụ phòng ngừa rủi ro hiệu quả).
+
+- Tại thời điểm ghi nhận ban đầu, Công ty xếp tài sản tài chính vào nhóm tài sản tài chính FVTPL.
+
+Các chứng khoán cơ sở là tài sản bảo đảm cho các chứng quyền mua có bảo đảm, được phân loại và ghi nhận ban đầu là tài sản tài chính được ghi nhận theo giá trị hợp lý thông qua lãi/(lỗ).
+
+Các tài sản tài chính FVTPL được ghi nhận ban đầu theo giá mua thực tế các tài sản tài chính (đối với chứng khoán chưa niêm yết) hoặc giá khớp lệnh tại các Sở giao dịch chứng khoán (đối với chứng khoán niêm yết), không bao gồm các chi phí giao dịch phát sinh liên quan đến việc mua các tài sản tài chính này.
+
+21
+
+110:17 2.50 1~11
+
+===== PAGE 23 =====
+Công ty Cổ phần Chứng khoán MB
+
+Thuyết minh báo cáo tài chính cho năm kết thúc ngày 31 tháng 12 năm 2025 (tiếp theo)
+
+Mẫu B09 - CTCK
+
+(Ban hành theo Thông tư số 334/2016/TT-BTC
+
+ngày 27/12/2016 của Bộ Tài chính)
+
+Sau ghi nhận ban đầu, các tài sản tài chính FVTPL được phần ánh theo giá trị hợp lý tại ngày kết thúc kỳ kế toán năm. Mọi khoản chênh lệch tăng/giảm về đánh giá lại các tài sản tài chính được ghi nhận theo giá trị hợp lý thông qua lãi/(lỗ) được hạch toán vào lãi/(lỗ) của báo cáo kết quả hoạt động.
+
+(d) Các khoản đầu tư nằm giữ đến ngày đáo hạn
+
+Các khoản đầu tư nắm giữ đến ngày đáo hạn là các tài sản tài chính phi phải sinh với các khoản thanh toán cố định hoặc có thể xác định và có kỳ đáo hạn cố định mà Công ty có ý định và có khả năng giữ đến ngày đáo hạn, ngoại trừ:
+
+- Các tài sản tài chính mà tại thời điểm ghi nhận ban đầu đã được Công ty xếp vào nhóm tài sản tài chính FVTPL;
+
+• Các tài sản tài chính đã được Công ty xếp vào nhóm sẵn sàng để bán; hoặc
+
+• Các tài sản tài chính thỏa mãn đinh nghĩa về các khoản cho vay và phải thu.
+
+Các khoản đầu tư nắm giữ đến ngày đáo hạn được ghi nhận ban đầu theo giá mua cộng các chi phí liên quan trực tiếp đến việc mua các khoản đầu tư đó như chi phí môi giới, chi phí giao dịch, chi phí thông tin, lệ phí, phí ngân hàng.
+
+Sau ghi nhận ban đầu, các khoản đầu tư nắm giữ đến ngày đáo hạn được hạch toán theo giá trị phân bổ sử dụng phương pháp lãi suất thực tế, trừ đi dự phòng suy giảm giá trị tài sản tài chính.
+
+Các tài sản tài chính sẽ không được tiếp tục phân loại là khoản đầu tư nằm giữ đến ngày đáo hạn nếu trong năm hiện tại hoặc trong hai năm tài chính gần nhất đã được bán hoặc phân loại lại một số lượng đáng kể các tài sản tài chính giữ đến ngày đáo hạn trước thời hạn, trừ khi việc bán hoặc phân loại lại thỏa mãn một trong các điều kiện sau:
+
+- Rất gần ngày đáo hạn mà việc thay đổi lãi suất thị trường không ảnh hưởng trọng yếu đến giá trị của tài sản tài chính;
+
+- Được thực hiện sau khi Công ty đã thu được phần lớn tiền gốc của các tài sản tài chính này theo tiến độ thanh toán hoặc được thanh toán trước; hoặc
+
+- Do liên quan đến một sự kiện đặc biệt nào ngoài khả năng kiểm soát của Công ty và sự kiện này Công ty không thể dự đoán trước được.
+
+(e) Các khoản cho vay
+
+Các khoản cho vay là các tài sản tài chính phi phải sinh có các khoản thanh toán cố định hoặc có thể xác định và không được niêm yết trên thị trường hoạt động, ngoại trừ:
+
+- Các khoản mà Công ty có ý định bán ngay hoặc sẽ bán trong tương lai gần được phân loại là tài sản nấm giữ vì mục đích kinh doanh, và cũng như các loại mà tại thời điểm ghi nhận ban đầu được Công ty xếp vào nhóm ghi nhận theo giá trị hợp lý thông qua lãi/(lỗ);
+
+- Các khoản được Công ty xếp vào nhóm sẵn sàng để bán tại thời điểm ghi nhận ban đầu; hoặc
+
+- Các khoản mà người nằm giữ có thể không thu hồi được phần lớn giá trị đầu tư ban đầu, không phải do suy giảm chất lượng tín dụng, và được phân loại vào nhóm sẵn sàng để bán.
+
+Các khoản cho vay của Công ty bao gồm các khoản cho vay ký quỹ chứng khoán theo hợp đồng ký quỹ của khách hàng và hợp đồng ứng trước tiền bán chứng khoán.
+
+22
+
+li工1 一 T ： 1=1
+
+===== PAGE 24 =====
+Công ty Cổ phần Chứng khoán MB
+
+Thuyết minh báo cáo tài chính cho năm kết thúc ngày 31 tháng 12 năm 2025 (tiếp theo)
+
+Mẫu B09 - CTCK
+
+(Ban hành theo Thông tư số 334/2016/TT-BTC
+
+ngày 27/12/2016 của Bộ Tài chính)
+
+Các khoản cho vay được ghi nhận theo giá gốc trừ đi dự phòng suy giảm giá trị tài sản tài chính (néu có).
+
+Các khoản cho vay được xem xét khả năng suy giảm giá trị tại ngày lập báo cáo tình hình tài chính. Dự phòng suy giảm giá trị của khoản cho vay được trích lập dựa trên mức tổn thất ước tính, được tính bằng phần chênh lệch giữa giá trị thị trường của chứng khoán được dùng làm tài sản bảo đảm cho khoản vay và số dư của khoản cho vay đó. Tăng hoặc giảm số dư tài khoản dự phòng được ghi nhận vào báo cáo kết quả hoạt động trên khoản mục “Chi phí dự phòng tài sản tài chính, xử lý tổn thất các khoản phải thu khó đòi, lỗ suy giảm tài sản tài chính và chi phí đi vay”.
+
+Lãi dự thu được ghi nhận trên khoản mục “Phải thu và dự thu cổ tức, tiền lãi các tài sản tài chính”.
+
+(f) Các tài sản tài chính sẵn sàng để bán
+
+Tài sản tài chính sẵn sàng để bán là các tài sản tài chính phi phải sinh được xác định là sẵn sàng để bán hoặc không được phân loại là:
+
+• Các khoản cho vay và phải thu;
+
+• Các khoản đầu tư giữ đến ngày đáo hạn; hoặc
+
+• Các tài sản tài chính FVTPL.
+
+Các tài sản tài chính sẵn sàng để bán được ghi nhận ban đầu theo giá gốc là giá mua cộng các chi phí giao dịch phát sinh trực tiếp từ việc mua các tài sản tài chính này. Sau ghi nhận ban đầu, tài sản tài chính sẵn sàng để bán được ghi nhận theo giá trị hợp lý. Khoản chênh lệch do đánh giá lại tài sản tài chính sẵn sàng để bán so với năm trước được thể hiện trên khoản mục “Chênh lệch đánh giá lại tài sản tài chính sẵn sàng để bán” thuộc phần Thu nhập toàn diện khác trên báo cáo kết quả hoạt động và “Chênh lệch đánh giá lại tài sản theo giá trị hợp lý” trên báo cáo tỉnh hình tài chính.
+
+Đối với tài sản tài chính sẵn sàng để bán là các chứng khoán vốn của các công ty chưa niêm yết trên thị trường chứng khoán nhưng đã đăng ký giao dịch trên thị trường giao dịch của các công ty đại chúng chưa niêm yết ("UPCoM") thì giá trị thị trường được xác định là giá đóng cửa tại ngày gần nhất có giao dịch tính đến ngày đánh giá giá trị chứng khoán.
+
+Đối với tài sản tài chính sẵn sàng để bán là các chứng khoán vốn không có giá niêm yết trên thị trường hoạt động và chưa đăng ký giao dịch trên thị trường giao dịch của các công ty đại chúng chưa niêm yết ("UPCoM") hoặc không thể xác định được giá trị hợp lý một cách đáng tin cậy, thì các tài sản tài chính này sẽ được phần ánh theo giá gốc trừ đi dự phòng suy giảm giá trị tài sản tài chính.
+
+Tại ngày lập báo cáo tình hình tài chính, Công ty cũng đánh giá liệu có hay không bằng chứng khách quan rằng tài sản tài chính sẵn sàng để bán bị suy giảm giá trị. Tăng hoặc giảm số dư tài khoản dự phòng được ghi nhận vào báo cáo kết quả hoạt động trên khoản mục “Chỉ phí dự phòng tài sản tài chính, xử lý tổn thất các khoản phải thu khó đòi, lỗ suy giảm tài sản tài chính và chi phí đi vay”. Các khoản dự phòng sụy giảm giá trị các tài sản tài chính sẵn sàng để bán phát sinh trước ngày có hiệu lực của Thông tư 210 sẽ ghi giảm dần vào báo cáo kết quả hoạt động khi các tài sản tài chính sẵn sàng để bán được thanh lý.
+
+23
+
+===== PAGE 25 =====
+Công ty Cổ phần Chứng khoán MB
+
+Thuyết minh báo cáo tài chính cho năm kết thúc ngày 31 tháng 12 năm 2025 (tiếp theo)
+
+Mẫu B09 - CTCK
+
+(Ban hành theo Thông tư số 334/2016/TT-BTC
+
+ngày 27/12/2016 của Bộ Tài chính)
+
+(g) Các khoản phải thu
+
+Các khoản phải thu bao gồm các khoản phải thu và dự thu cổ tức tiền lãi các khoản đầu tư, khoản phải thu khoản đầu tư đến hạn, các khoản cam kết mua và bán lại chứng khoán niêm yết và chưa niêm yết,... Các khoản phải thu được ghi nhận ban đầu theo giá gốc và luôn được phần ánh theo giá gốc trong thời gian tiếp theo.
+
+Các khoản phải thu được xem xét trích lập dự phòng rủi ro theo tuổi nợ quá hạn của khoản nợ hoặc theo tổn thất dự kiến có thể xảy ra trong trường hợp khoản nợ chưa đến hạn thanh toán nhưng tổ chức kinh tế lâm vào tình trạng phá sản hoặc đang làm thủ tục giải thể; người nợ mất tích, bổ trốn, đang bị các cơ quan pháp luật truy tố, giam giữ, xét xử, đang thi hành án hoặc đã chết. Chi phí dự phòng phát sinh được hạch toán vào báo cáo kết quả hoạt động trên khoản mục “Chi phí hoạt động khác” trong năm.
+
+Mức trích lập dự phòng đối với các khoản nợ phải thu quá hạn thanh toán được tính toán theo các tỷ lệ dự phòng dưới đây:
+
+<table><tr><td>Thời gian quá hạn</td><td>Mức trích dự phòng</td></tr><tr><td>Từ trên sáu (6) tháng đến dưới một (1) năm</td><td>30%</td></tr><tr><td>Từ một (1) năm đến dưới hai (2) năm</td><td>50%</td></tr><tr><td>Từ hai (2) năm đến dưới ba (3) năm</td><td>70%</td></tr><tr><td>Trên ba (3) năm</td><td>100%</td></tr></table>
+
+Dự phòng đối với các khoản phải thu chưa đến hạn được xác định bởi Công ty sau khi xem xét đến khả năng thu hồi của các khoản nợ này.
+
+(h) Tài sản cố định hữu hình
+
+(i) Nguyên giá
+
+Tài sản cố định hữu hình được thể hiện theo nguyên giá trừ đi giá trị hao mòn lũy kế. Nguyên giá tài sản cố định hữu hình bao gồm giá mua, thuế nhập khẩu, các loại thuế mua hàng không hoàn lại và chi phí liên quan trực tiếp để đưa tài sản đến vị trí và trạng thái hoạt động cho mục đích sử dụng đã dự kiến. Các chỉ phí phát sinh sau khi tài sản cố định hữu hình đã đưa vào hoạt động như chi phí sửa chữa, bảo dưỡng và đại tu được ghi nhận vào báo cáo kết quả hoạt động trong năm mà chi phí phát sinh. Trong các trường hợp có thể chứng minh một cách rõ ràng rằng các khoản chỉ phí này làm tăng lợi ích kinh tế trong tương lai dự tính thu được từ việc sử dụng tài sản cố định hữu hình vượt trên mức hoạt động tiêu chuẩn theo như đánh giá ban đầu, thì các chỉ phí này được vốn hóa như một khoản nguyên giá tăng thêm của tài sản cố định hữu hình.
+
+(ii) Khấu hao
+
+Khấu hao được tính theo phương pháp đường thẳng dựa trên thời gian hữu dụng ước tính của tài sản cố định hữu hình. Thời gian hữu dụng ước tính như sau:
+
+- Máy móc thiết bị 3 - 6 năm
+
+- Phương tiện vận chuyển 6 năm
+
+• Thiết bị văn phòng 3 - 5 năm
+
+24
+
+===== PAGE 26 =====
+Công ty Cổ phần Chứng khoán MB
+
+Thuyết minh báo cáo tài chính cho năm kết thúc ngày 31 tháng 12 năm 2025 (tiếp theo)
+
+Mẫu B09 - CTCK
+
+(Ban hành theo Thông tư số 334/2016/TT-BTC
+
+ngày 27/12/2016 của Bộ Tài chính)
+
+(i) Tài sản cố định vô hình
+
+(i) Nguyên giá
+
+Tài sản cố định vô hình được ghi nhận theo nguyên giá trừ đi giá trị hao mòn lũy kế. Nguyên giá tài sản cố định vô hình bao gồm giá mua và những chi phí có liên quan trực tiếp đến việc đưa tài sản vào sử dụng như dự kiến. Các chỉ phí mua sắm, nâng cấp và đổi mới tài sản cố định vô hình được ghi tăng nguyên giá của tài sản và các chỉ phí khác được hạch toán vào báo cáo kết quả hoạt động khi phát sinh. Khi tài sản cố định vô hình được bán hay thanh lý, các khoản lãi hoặc lỗ phát sinh do thanh lý tài sản (là phần chênh lệch giữa tiền thu thuần từ việc bán tài sản với giá trị còn lại của tài sản) được hạch toán vào báo cáo kết quả hoạt động.
+
+Tài sản cố định vô hình của Công ty là phần mềm máy vi tính. Giá mua của phần mềm máy vi tính mới mà phần mềm này không phải là một bộ phận gắn kết với phần cứng có liên quan thì được vốn hóa và hạch toán như tài sản cố định vô hình.
+
+(ii) Khâu hao
+
+Khấu hao được tính theo phương pháp đường thẳng dựa trên thời gian hữu dụng ước tính của tài sản cố định vô hình. Thời gian hữu dụng ước tính như sau:
+
+• Phần mềm máy vi tính
+
+2 - 5 năm
+
+(j) Các khoản phải trả người bán và các khoản phải trả khác
+
+(i) Chứng quyền mua có bảo đảm
+
+Chứng quyền mua có bảo đảm là chứng khoán có tài sản bảo đảm do Công ty phát hành, cho phép người sở hữu được quyền mua chứng khoán cơ sở từ tổ chức phát hành chứng quyền đó theo một mức giá đã được xác định trước, tại một thời điểm hoặc trước một thời điểm đã được ấn định, hoặc nhận khoản tiền chênh lệch giữa giá thực hiện và giá chứng khoán cơ sở tại thời điểm thực hiện.
+
+Chứng quyền mua có bảo đảm được ghi nhận ban đầu theo giá gốc và được tiếp tục ghi nhận sau ghi nhận ban đầu theo giá trị hợp lý là giá thị trường trên khoản mục “Phải trả hoạt động giao dịch chứng khoán”.
+
+Các khoản chênh lệch tăng do đánh giá lại chứng quyền mua có bảo đảm theo giá trị hợp lý so với năm trước được ghi nhận vào báo cáo kết quả hoạt động trên khoản mục “Chênh lệch tăng về đánh giá lại chứng quyền”. Khoản chênh lệch giảm do đánh giá lại chứng quyền mua có bảo đảm theo giá trị hợp lý so với năm trước được ghi nhận vào báo cáo kết quả hoạt động trên khoản mục “Chênh lệch giảm về đánh giá lại chứng quyền”.
+
+Chi phí mua và phát hành chứng quyền được ghi nhận vào chi phí giao dịch mua các tài sản tài chính của báo cáo kết quả hoạt động ngay khi phát sinh.
+
+(ii) Các khoản phải trả người bán và các khoản phải trả khác
+
+Các khoản phải trả người bán và khoản phải trả khác thể hiện theo giá gốc.
+
+25
+
+===== PAGE 27 =====
+Công ty Cổ phần Chứng khoán MB
+
+Thuyết minh báo cáo tài chính cho năm kết thúc ngày 31 tháng 12 năm 2025 (tiếp theo)
+
+Mẫu B09 - CTCK
+
+(Ban hành theo Thông tư số 334/2016/TT-BTC
+
+ngày 27/12/2016 của Bộ Tài chính)
+
+(k) Dự phòng
+
+Một khoản dự phòng được ghi nhận nếu, do kết quả của một sự kiện trong quá khứ, Công ty có nghĩa vụ pháp lý hiện tại hoặc liên đối có thể ước tính một cách đáng tin cây, và chắc chắn sẽ làm giảm sút các lợi ích kinh tế trong tương lai để thanh toán các khoản nợ phải trả do nghĩa vụ đó. Khoản dự phòng được xác định bằng cách chiết khấu dòng tiền dự kiến phải trả trong tương lai với tỷ lệ chiết khấu trước thuế phần ánh đánh giá của thị trường ở thời điểm hiện tại về giá trị thời gian của tiền và rủi ro cụ thể của khoản nợ đó.
+
+(I) Các quỹ dự trữ pháp định
+
+Trước ngày 1 tháng 1 năm 2022, Công ty sử dụng lợi nhuận sau thuế hàng năm để trích lập các quỹ dự trữ pháp định theo Thông tư số 146/2014/TT-BTC (“Thông tư 146”) ngày 6 tháng 10 năm 2014 do Bộ Tài chính ban hành hướng dẫn chế độ tài chính đối với công ty chứng khoán, công ty quản lý quỹ như sau:
+
+<table><tr><td></td><td>Tỷ lệ trích lập hàng năm</td><td>Số dư tối đa</td></tr><tr><td>Quỹ dự trữ bổ sung vốn điều lệ:</td><td>5% lợi nhuận sau thuế</td><td>10% vốn điều lệ</td></tr><tr><td>Quỹ dự phòng tài chính:</td><td>5% lợi nhuận sau thuế</td><td>10% vốn điều lệ</td></tr></table>
+
+Với hiệu lực của Thông tư số 114/2021/TT-BTC ("Thông tư 114") ngày 17 tháng 12 năm 2021 do Bộ Tài chính ban hành thay thế Thông tư 146, các quy định về trích lập các quỹ trên bị bãi bỏ. Theo đó:
+
+- Số dư quỹ dự trữ bổ sung vốn điều lệ đã trích lập theo quy định tại Thông tư 146 được dùng để bổ sung vốn điều lệ theo quy định tại Luật Chứng khoán số 54/2019/QH14 và các quy định khác.
+
+- Số dư quỹ dự phòng tài chính và rủi ro nghiệp vụ có thể dùng bổ sung vốn điều lệ hoặc sử dụng theo quyết định của Đại hội đồng Cổ đông, Hội đồng thành viên hoặc Chủ tịch Công ty theo quy định tại Luật Chứng khoán số 54/2019/QH14 và các quy định khác.
+
+Đến ngày 31 tháng 12 năm 2025, Công ty đã sử dụng hết quỹ dự trữ bổ sung vốn điều lệ. Công ty chưa tiến hành xử lý số dự quỹ dự phòng tài chính và rủi ro nghiệp vụ.
+
+(m) Vốn cổ phần
+
+(i) Vốn cổ phần
+
+Cổ phiếu phổ thông được ghi nhận theo giá phát hành trừ đi các chi phí phát sinh liên quan trực tiếp đến việc phát hành cổ phiếu, trừ đi ảnh hưởng thuế. Các chi phí đó được ghi giảm vào thẳng dư vốn cổ phần.
+
+(ii) Cổ phiếu quỹ
+
+Cổ phiếu quỹ chỉ được ghi nhận đối với việc mua lại các cổ phiếu lẻ phát sinh khi phát hành cổ phiếu để trả cổ tức hoặc phát hành cổ phiếu từ nguồn vốn chủ sở hữu theo phương án đã được thông qua, hoặc mua lại cổ phiếu lô lẻ theo yêu cầu của cổ đông. Cổ phiếu lẻ là cổ phiếu đại diện cho phần vốn cổ phần hình thành do gộp các phần lẻ cổ phần chia theo tỷ lệ cho nhà đầu tư. Trong tất cả các trường hợp khác, khi mua lại cổ phiếu mà trước đó đã được ghi nhận là vốn chủ sở hữu, mengh giá của các cổ phiếu mua lại phải được ghi giảm trừ vào vốn cổ phần. Chênh lệch giữa mengh giá của cổ phiếu mua lại và giá trị khoản thanh toán bao gồm các chi phí liên quan trực tiếp, trừ đi thuế, được ghi nhận vào thẳng dư vốn cổ phần.
+
+26
+
+===== PAGE 28 =====
+Công ty Cổ phần Chứng khoán MB
+
+Thuyết minh báo cáo tài chính cho năm kết thúc ngày 31 tháng 12 năm 2025 (tiếp theo)
+
+Mẫu B09 - CTCK
+
+(Ban hành theo Thông tư số 334/2016/TT-BTC
+
+ngày 27/12/2016 của Bộ Tài chính)
+
+(n) Quỹ khen thưởng, phúc lợi
+
+Quỹ khen thưởng, phúc lợi được trích lập từ lợi nhuận sau thuế. Mức trích lập hàng năm do Đại hội đồng Cổ đông của Công ty quyết định và được ghi nhận trên khoản mục Nợ phải trả của Công ty.
+
+(o) Doanh thu và thu nhập
+
+(i) Lãi/(lỗ) từ bán các tài sản tài chính
+
+Lãi/(lỗ) từ bán các TSTC được ghi nhận khi Công ty nhận được Thông báo khớp lệnh của các giao dịch kinh doanh chứng khoán từ Tổng Công ty Lưu ký và Bù trừ Chứng khoán Việt Nam (“VSDC”) (đối với chứng khoán niêm yết) và thỏa thuận chuyển nhượng tài sản đã được hoàn tất (đối với chứng khoán chưa niêm yết).
+
+(ii) Cổ tức và thu nhập tiền lãi phát sinh từ các tài sản tài chính
+
+Thu nhập từ cổ tức được ghi nhận khi quyền nhận cổ tức được xác lập. Cổ tức không được ghi nhận đối với các cổ phiếu giao dịch từ ngày không hưởng quyền.
+
+Đối với cổ phiếu thường, Công ty chỉ ghi tăng số lượng cổ phiếu được hưởng mà không ghi tăng doanh thu từ cổ tức.
+
+Thu nhập tiền lãi bao gồm lãi tiền gửi ngân hàng, lãi từ các tài sản tài chính được ghi nhận theo giá trị hợp lý thông qua lãi/(lỗ) và từ các khoản đầu tư nắm giữ đến ngày đáo hạn, lãi cho vay hoạt động margin được ghi nhận theo tỷ lệ tương ứng với thời gian dựa trên số dư gốc và lãi suất áp dụng.
+
+Thu nhập tiền lãi hoạt động cho vay ứng trước tiền bán của khách hàng được ghi nhận theo tỷ lệ tương ứng với thời gian dựa trên số dư gốc và lãi suất áp dụng.
+
+(iii) Lãi/(lỗ) từ kinh doanh chứng quyền có bảo đảm
+
+Lãi/lỗ từ mua bán chứng quyền mua có bảo đảm trong năm được xác định dựa trên mức chênh lệch giữa giá bán và giá vốn bình quân của chứng quyền.
+
+Lãi/lỗ phát sinh khi chứng quyền có bảo đảm đáo hạn ở trạng thái có lãi được xác định dựa trên mức chênh lệch giữa giá trị ghi sổ của chứng quyền và mức chênh giữa giá thanh toán và giá thực hiện của chứng quyền tại thời điểm đáo hạn.
+
+Lãi phát sinh khi chứng quyền mua có bảo đảm đáo hạn ở trạng thái lỗ hoặc hòa vốn bằng giá trị ghi sổ của các chứng quyền tương ứng.
+
+(iv) Doanh thu nghiệp vụ môi giới chứng khoán
+
+Doanh thu từ dịch vụ môi giới chứng khoán được ghi nhận khi giao dịch chứng khoán đã hoàn thành.
+
+(v) Doanh thu nghiệp vụ bảo lãnh, đại lý phát hành chứng khoán
+
+Doanh thu bảo lãnh, đại lý phát hành chứng khoán là các khoản phí, hoa hồng được hưởng theo thỏa thuận tại hợp đồng, thường được tính trên giá trị chứng khoán đã phát hành thành công. Các khoản doanh thu này được ghi nhận căn cứ theo thỏa thuận/biên bản thanh lý với Tổ chức phát hành chứng khoán.
+
+(vi) Doanh thu nghiệp vụ lưu ký chứng khoán
+
+Doanh thu từ dịch vụ lưu ký chứng khoán được ghi nhận khi dịch vụ được cung cấp.
+
+27
+
+===== PAGE 29 =====
+Công ty Cổ phần Chứng khoán MB
+
+Thuyết minh báo cáo tài chính cho năm kết thúc ngày 31 tháng 12 năm 2025 (tiếp theo)
+
+Mẫu B09 - CTCK
+
+(Ban hành theo Thông tư số 334/2016/TT-BTC
+
+ngày 27/12/2016 của Bộ Tài chính)
+
+(vii) Doanh thu hoạt động tư vấn tài chính
+
+Doanh thu hoạt động tư vấn tài chính được ghi nhận theo tiến độ hoàn thành giao dịch tại ngày kết thúc kỳ kế toán năm. Tiến độ hoàn thành được đánh giá trên cơ sở xem xét các công việc đã được thực hiện.
+
+(viii) Thu nhập khác
+
+Các khoản thu nhập khác bao gồm các khoản thu từ các hoạt động xảy ra không thường xuyên, ngoài các hoạt động tạo ra doanh thu, gồm: các khoản thu về thanh lý tài sản cố định, nhượng bán tài sản cố định, thu tiền phạt khách hàng do vi phạm hợp đồng; thu tiền bảo hiểm được bồi thường; thu được các khoản nợ phải thu đã xóa số tính vào chi phí năm trước; khoản nợ phải trả nay mất chủ được ghi tăng thu nhập; thu các khoản thuế được giảm, được hoàn lại; và các khoản thu khác được ghi nhận là thu nhập khác theo quy định tại Chuẩn mực Kế toán Việt Nam số 14 - Doanh thu và Thu nhập khác.
+
+(p) Các khoản thanh toán thuê hoạt động
+
+Các khoản thanh toán thuê hoạt động được ghi nhận trong báo cáo kết quả hoạt động theo phương pháp đường thẳng dựa vào thời hạn của hợp đồng thuê. Các khoản hoa hồng đi thuê được ghi nhận trong báo cáo kết quả hoạt động như là một bộ phận hợp thành của tổng chi phí thuê, trong suốt thời hạn thuê.
+
+(q) Chi phí lãi vay
+
+Chi phí vay được ghi nhận là chi phí trong năm khi chi phí này phát sinh.
+
+(r) Thuế
+
+Thuế thu nhập doanh nghiệp tính trên lợi nhuận hoặc lỗ trong năm bao gồm thuế thu nhập hiện hành và thuế thu nhập hoãn lại. Thuế thu nhập doanh nghiệp được ghi nhận trong báo cáo kết quả hoạt động ngoại trừ trường hợp có các khoản thuế thu nhập liên quan đến các khoản mục được ghi nhận thắng vào vốn chủ sở hữu, thì khi đó các khoản thuế thu nhập này cũng được ghi nhận thắng vào vốn chủ sở hữu.
+
+Thuế thu nhập hiện hành là khoản thuế dự kiến phải nộp dựa trên thu nhập chịu thuế trong năm, sử dụng các mức thuế suất có hiệu lực tại ngày kết thúc ký kế toán năm, và các khoản điều chỉnh thuế phải nộp liên quan đến những năm trước.
+
+Thuế thu nhập hoãn lại được ghi nhận cho các chênh lệch tạm thời giữa giá trị ghi sổ cho mục đích báo cáo tài chính và giá trị sử dụng cho mục đích tính thuế của các khoản mục tài sản và nợ phải trả. Giá trị của thuế thu nhập hoãn lại được ghi nhận dựa trên cách thức dự kiến thu hồi hoặc thanh toán giá trị ghi sổ của các khoản mục tài sản và nợ phải trả sử dụng các mức thuế suất có hiệu lực hoặc cơ bản có hiệu lực tại ngày kết thúc kỳ kế toán năm.
+
+Tài sản thuế thu nhập hoãn lại chỉ được ghi nhận trong phạm vi chắc chắn có đủ lợi nhuận tính thuế trong tương lai để tài sản thuế thu nhập này có thể sử dụng được. Tài sản thuế thu nhập hoãn lại được ghi giảm trong phạm vi không còn chắc chắn là các lợi ích về thuế liên quan này sẽ sử dụng được.
+
+28
+
+===== PAGE 30 =====
+Công ty Cổ phần Chứng khoán MB
+
+Thuyết minh báo cáo tài chính cho năm kết thúc ngày 31 tháng 12 năm 2025 (tiếp theo)
+
+Mẫu B09 - CTCK
+
+(Ban hành theo Thông tư số 334/2016/TT-BTC
+
+ngày 27/12/2016 của Bộ Tài chính)
+
+(s) Lãi trên cổ phiếu
+
+Công ty trình bày lãi cơ bản trên cổ phiếu (“EPS”) cho các cổ phiếu phổ thông của Công ty. Lãi cơ bản trên cổ phiếu được tính bằng cách lấy lãi thuộc về cổ đông phổ thông của Công ty (sau khi đã trừ quỹ khen thưởng, phúc lợi trích lập trong năm) chia cho số lượng cổ phiếu phổ thông bình quân gia quyền lưu hành trong năm. Trong năm, Công ty không có các cổ phiếu tiềm năng có tác động suy giảm và do vậy yêu cầu trình bày lãi suy giảm trên cổ phiếu không áp dụng.
+
+(t) Các bên liên quan
+
+Các bên được coi là bên liên quan của Công ty nếu một bên có khả năng, trực tiếp hoặc gián tiếp, kiểm soát bên kia hoặc gây ảnh hưởng đáng kể tới bên kia trong việc ra các quyết định tài chính và hoạt động, hoặc khi Công ty và bên kia cùng chịu sự kiểm soát chung hoặc ảnh hưởng đáng kể chung. Các bên liên quan có thể là các công ty hoặc các cá nhân, bao gồm cả các thành viên gia đình thân cận của các cá nhân được coi là liên quan.
+
+(u) Báo cáo bộ phận
+
+Một bộ phận là một hợp phần có thể xác định riêng biệt của Công ty tham gia vào việc cung cấp các sản phẩm hoặc dịch vụ liên quan (bộ phận chia theo hoạt động kinh doanh), hoặc cung cấp sản phẩm hoặc dịch vụ trong một môi trường kinh tế cụ thể (bộ phận chia theo vùng địa lý), mỗi bộ phận này chịu rủi ro và thu được lợi ích khác biệt với các bộ phận khác. Mẫu báo cáo bộ phận của Công ty là dưa theo bộ phận chia theo hoạt động kinh doanh.
+
+(v) Số dư bằng không
+
+Các khoản mục hay các số dư quy định trong Thông tư 210 và Thông tư 334 mà không được thể hiện trên báo cáo tài chính này thì được hiểu là có số dư bằng không.
+
+(w) Thông tin so sánh
+
+Thông tin so sánh trong báo cáo tài chính này được trình bày dưới dạng dữ liệu tương ứng. Theo phương pháp này, các thông tin so sánh của năm trước được trình bày như một phần không thể tách rời của báo cáo tài chính năm hiện tại và phải được xem xét trong mối liên hệ với các số liệu và thuyết minh của năm hiện tại. Theo đó, thông tin so sánh bao gồm trong báo cáo tài chính này không nhằm mục đích trình bày về tình hình tài chính, kết quả hoạt động, lưu chuyển tiền tệ của Công ty trong năm trước.
+
+29
+
+\( \therefore {S}_{\Delta APQ} = {S}_{\Delta AQP} + {S}_{\Delta QPQ} \)
+
+===== PAGE 31 =====
+Công ty Cổ phần Chứng khoán MB
+
+Thuyết minh báo cáo tài chính cho năm kết thúc ngày 31 tháng 12 năm 2025 (tiếp theo)
+
+Mẫu B09 - CTCK
+
+(Ban hành theo Thông tư số 334/2016/TT-BTC
+
+ngày 27/12/2016 của Bộ Tài chính)
+
+4. Quản lý rủi ro tài chính
+
+(a) Tổng quan
+
+Công ty nhận định nghiệp vụ quản lý rủi ro là nghiệp vụ không thể thiếu cho toàn bộ hoạt động kinh doanh của Công ty. Công ty đã xây dựng hệ thống kiểm soát nhằm đảm bảo sự cân bằng ở mức hợp lý giữa chi phí rủi ro phát sinh và chi phí quản lý rủi ro. Ban Tổng Giám đốc liên tục theo dõi quy trình quản lý rủi ro của Công ty để đảm bảo sự cân bằng hợp lý giữa rủi ro và kiểm soát rủi ro.
+
+Các loại rủi ro chính mà Công ty phải đối mặt do việc sử dụng các công cụ tài chính của mình bao gồm:
+
+• Rùi ro tín dụng;
+
+• Rủi ro thanh khoản; và
+
+• Rủi ro thị trường.
+
+Thuyết minh này cung cấp thông tin về từng loại rủi ro nếu trên mà Công ty có thể gặp phải và mô tả các mục tiêu, chính sách và các quy trình Công ty sử dụng để đo lường và quản lý rủi ro. Ban Tổng Giám đốc xem xét và thống nhất áp dụng các chính sách quản lý những rủi ro này như sau.
+
+(b) Rùi ro tín dụng
+
+Rủi ro tín dụng là rủi ro mà một bên tham gia trong một công cụ tài chính hoặc hợp đồng khách hàng không thực hiện các nghĩa vụ của mình, dẫn đến tổn thất về tài chính. Công ty có rủi ro tín dụng từ các hoạt động kinh doanh của mình (chủ yếu đối với các khoản phải thu của khách hàng) và từ hoạt động tài chính của mình, bao gồm tiền gửi ngân hàng, các khoản phải thu của khách hàng và các khoản phải thu khác.
+
+30
+
+11. 7. 10. 11
+
+===== PAGE 32 =====
+Công ty Cổ phần Chứng khoán MB
+
+Thuyết minh báo cáo tài chính cho năm kết thúc ngày 31 tháng 12 năm 2025 (tiếp theo)
+
+Mẫu B09 - CTCK
+
+(Ban hành theo Thông tư số 334/2016/TT-BTC
+
+ngày 27/12/2016 của Bộ Tài chính)
+
+Tổng giá trị ghi sổ cửa các tài sản tài chính thể hiện mức rủi ro tín dụng tối đa. Mức độ rủi ro tín dụng tối đa tại ngày báo cáo như sau:
+
+<table><tr><td></td><td>Thuyết minh</td><td>31/12/2025 VND</td><td>31/12/2024 VND</td></tr><tr><td>Tiền và các khoản tương đương tiền</td><td>(i)</td><td>2.431.266.116.691</td><td>1.773.543.835.124</td></tr><tr><td>Các tài sản tài chính được ghi nhận thông qua lãi/(lỗ)</td><td>(ii)</td><td>2.911.761.716.342</td><td>1.746.355.135.567</td></tr><tr><td>Các khoản đầu tư nắm giữ đến ngày đáo hạn</td><td>(i)</td><td>6.714.472.421.784</td><td>4.994.512.493.078</td></tr><tr><td>Các khoản cho vay</td><td>(iii)</td><td>15.040.584.813.320</td><td>10.293.729.065.183</td></tr><tr><td>Tài sản tài chính sẵn sàng để bán</td><td>(ii)</td><td>3.045.306.071.041</td><td>2.588.404.505.218</td></tr><tr><td>Các khoản phải thu</td><td>(iii)</td><td>174.798.590.958</td><td>231.234.916.889</td></tr><tr><td>Phải thu các dịch vụ công ty chứng khoán cung cấp</td><td>(iii)</td><td>9.014.015.780</td><td>7.852.593.150</td></tr><tr><td>Các khoản phải thu khác</td><td>(iii)</td><td>7.920.148.920</td><td>4.537.982.300</td></tr><tr><td>Cảm cố, thế chấp, ký quỹ, ký cược ngắn hạn</td><td>(iii)</td><td>15.090.000.000</td><td>15.090.000.000</td></tr><tr><td>Cảm cố, thế chấp, ký quỹ, ký cược dài hạn</td><td>(iii)</td><td>2.494.566.867</td><td>2.514.566.867</td></tr><tr><td>Tiền nộp Quỹ Hỗ trợ thanh toán</td><td>(iv)</td><td>20.000.000.000</td><td>20.000.000.000</td></tr><tr><td>Tiền nộp Quỹ bù trừ chứng khoán phái sinh</td><td>(iv)</td><td>10.191.230.244</td><td>10.170.880.596</td></tr><tr><td colspan="2"></td><td>30.382.899.691.947</td><td>21.687.945.973.972</td></tr></table>
+
+(i) Tiền và các khoản tương đương tiền và các khoản đầu tư nấm giữ đến ngày đáo hạn
+
+Tiền và các khoản tương đương tiền và các khoản đầu tư nắm giữ đến ngày đáo hạn của Công ty được gửi tại các tổ chức tín dụng có uy tín. Công ty không nhận thấy có rủi ro tín dụng trọng yếu nào từ các khoản tiền gửi này và không cho rằng các tổ chức tài chính này có thể mất khả năng trả nợ và gây tổn thất cho Công ty.
+
+(ii) Các TSTC ghi nhận thông qua lãi/(lỗ) và các tài sản tài chính sẵn sàng để bán
+
+Công ty giới hạn mức rủi ro tín dụng bằng cách chỉ đầu tư vào các loại chứng khoán có tính thanh khoản cao, ngoại trừ trường hợp đầu tư phục vụ mục đích chiến lược dài hạn, các đối tác có xếp hạng tín nhiệm tương đương hoặc cao hơn so với Công ty.
+
+31
+
+\( \left| {x - 1}\right|  = \left| {{x}^{2} + {4x}}\right|  = \left| {{x}^{2} + {2x}}\right|  + \cdots  + \left| {{x}^{2} + {2x}}\right|  < x = 1 \)
+
+===== PAGE 33 =====
+Công ty Cổ phần Chứng khoán MB
+
+Thuyết minh báo cáo tài chính cho năm kết thúc ngày 31 tháng 12 năm 2025 (tiếp theo)
+
+Mẫu B09 - CTCK
+
+(Ban hành theo Thông tư số 334/2016/TT-BTC
+
+ngày 27/12/2016 của Bộ Tài chính)
+
+(iii) Các khoản cho vay và các khoản phải thu, các khoản cảm cố, thế chấp, ký quỹ, ký cược ngắn hạn và dài hạn
+
+Theo quy định của pháp luật chứng khoán hiện hành, Công ty có thể cho khách hàng vay tiền đề mua chứng khoán theo quy định về giao dịch ký quỹ chứng khoán theo hợp đồng ký quỹ. Công ty tuân thủ theo quy định về hạn mức cho vay giao dịch ký quỹ tại Quyết định số 87/QĐ-UBCK ngày 25 tháng 1 năm 2017 của Ủy ban Chứng khoán Nhà nước về việc ban hành quy chế hướng dẫn giao dịch ký quỹ chứng khoán. Công ty quản lý rủi ro tín dụng khách hàng thông qua các chính sách, thủ tục và quy trình kiểm soát của Công ty có liên quan đến việc quản lý rủi ro tín dụng khách hàng.
+
+Công ty thường xuyên theo dõi các khoản phải thu của khách hàng chưa thu được và yêu cầu khách hàng thanh toán đầy đủ các khoản phải thu này theo đúng điều khoản trong hợp đồng. Trên cơ sở này và việc các khoản phải thu của khách hàng của Công ty có liên quan đến nhiều khách hàng khác nhau, rủi ro tín dụng không bị tập trung đáng kể vào một khách hàng nhất định.
+
+(iv) Tiền nộp Quỹ Hồ trợ thanh toán và Quỹ bù trừ chứng khoán phái sinh
+
+Theo Quyết định số 45/QĐ-VSD ngày 22 tháng 5 năm 2014 của Trung tâm Lưu ký Chứng khoán Việt Nam (nay là Tổng công ty lưu ký và bù trừ chứng khoán Việt Nam - VSDC) về việc ban hành quy chế quản lý và sử dụng quỹ hỗ trợ thanh toán (“Quyết định 45”), Công ty phải ký quỹ một khoản tiền ban đầu là 120 triệu VND tại VSDC và hàng năm phải đóng thêm 0,01% trên doanh số giao dịch môi giới chứng khoán niêm yết tại các Sở Giao dịch Chứng khoán của kỳ liền trước với số tiền đóng góp hàng năm vào Quỹ hỗ trợ thanh toán không quá 2,5 tỷ VND.
+
+Giới hạn tối đa về mức đóng góp của mỗi thành viên lưu ký vào Quỹ Hồ trợ thanh toán là 20 tỷ VND đối với thành viên lưu ký là công ty chứng khoán có nghiệp vụ tự doanh và môi giới.
+
+Theo Quyết định số 97/QĐ-VSD ngày 23 tháng 3 năm 2017 của VSDC về việc ban hành quy chế quản lý và sử dụng quỹ bù trừ (“Quyết định 97”), Quyết định số 145/QĐ-VSD ngày 4 tháng 8 năm 2017 của VSDC về sửa đổi quyết định 97 (“Quyết định 145”), và Quyết định số 115/QĐ-VSD ngày 9 tháng 9 năm 2022 của VSDC về việc ban hành quy chế quản lý và sử dụng quỹ bù trừ cho thị trường chứng khoán phải sinh tại VSDC (“Quyết định 115”) thay thế Quyết định 97 và Quyết định 145, Công ty phải đóng góp một khoản tiền tối thiểu ban đầu là 10 tỷ VND tại VSDC và hàng tháng VSDC sẽ thực hiện đánh giá lại quy mô Quỹ bù trừ và xác định nghĩa vụ đóng góp Quỹ bù trừ của từng thành viên bù trừ căn cứ vào quy mô giao dịch, mức biến động giả trên thị trường, nghĩa vụ tài chính, mức độ rủi ro và các tiêu chí khác. Khoản đóng góp của từng thành viên bù trừ do định kỳ đánh giá lại đảm bảo không thấp hơn mức đóng góp tối thiểu ban đầu.
+
+(c) Rùi ro thanh khoản
+
+Rủi ro thanh khoản là rủi ro trong đó Công ty không thể thanh toán cho các nghĩa vụ tài chính khi đến hạn. Phương thức quản lý thanh khoản của Công ty là đảm bảo ở mức cao nhất rằng Công ty luôn có đủ khả năng thanh khoản để thanh toán các khoản phải trả khi đến hạn, trong điều kiện bình thường cũng như trong điều kiện căng thẳng về mặt tài chính, mà không làm phát sinh các mức tổn thất không thể chấp nhận được hoặc có nguy cơ gây tổn hại đến danh tiếng của Công ty.
+
+Công ty giám sát rủi ro thanh khoản thông qua việc duy trì một lượng tiền mặt và các khoản tương đương tiền và các khoản vay ngân hàng ở mức mà Ban Tổng Giám đốc cho là đủ để đáp ứng cho các hoạt động của Công ty và để giảm thiểu ảnh hưởng của những biến động về lường tiền.
+
+32
+
+===== PAGE 34 =====
+Công ty Cổ phần Chứng khoán MB
+Thuyết minh báo cáo tài chính cho năm kết thúc ngày 31 tháng 12 năm 2025 (tiếp theo)
+
+Mẫu B09 - CTCK
+(Ban hành theo Thông tư số 334/2016/TT-BTC ngày 27/12/2016 của Bộ Tài chính)
+
+Các khoản nợ tài chính có khoản thanh toán cố định hoặc có thể xác định được bao gồm cả khoản thanh toán tiền lãi ước tính có thời gian đáo hạn theo hợp đồng như sau:
+
+<table><tr><td colspan="5">Tại ngày 31 tháng 12 năm 2025</td></tr><tr><td></td><td>Giá trị ghi sổ VND</td><td>Dòng tiền theo hợp đồng VND</td><td>Trong vòng 1 năm VND</td><td>Trong vòng 2-5 năm VND</td></tr><tr><td>Vay ngắn hạn (*)</td><td>17.730.048.954.174</td><td>18.041.627.319.440</td><td>18.041.627.319.440</td><td>-</td></tr><tr><td>Phải trả hoạt động giao dịch chứng khoán</td><td>43.904.051.447</td><td>43.904.051.447</td><td>43.904.051.447</td><td>-</td></tr><tr><td>Phải trả người bán ngắn hạn</td><td>12.460.795.794</td><td>12.460.795.794</td><td>12.460.795.794</td><td>-</td></tr><tr><td>Chi phí phải trả ngắn hạn</td><td>292.859.664.996</td><td>292.859.664.996</td><td>292.859.664.996</td><td>-</td></tr><tr><td>Các khoản phải trả, phải nộp khác ngắn hạn</td><td>9.649.593.267</td><td>9.649.593.267</td><td>9.649.593.267</td><td>-</td></tr><tr><td>Trái phiếu phát hành dài hạn (*)</td><td>1.561.581.556.689</td><td>1.779.392.010.694</td><td>110.211.300.000</td><td>1.669.180.710.694</td></tr><tr><td></td><td>19.650.504.616.367</td><td>20.179.893.435.638</td><td>18.510.712.724.944</td><td>1.669.180.710.694</td></tr><tr><td colspan="5">Tại ngày 31 tháng 12 năm 2024</td></tr><tr><td></td><td>Giá trị ghi sổ VND</td><td>Dòng tiền theo hợp đồng VND</td><td>Trong vòng 1 năm VND</td><td>Trong vòng 2-5 năm VND</td></tr><tr><td>Vay ngắn hạn (*)</td><td>13.069.703.217.309</td><td>13.434.655.350.989</td><td>13.434.655.350.989</td><td>-</td></tr><tr><td>Phải trả hoạt động giao dịch chứng khoán</td><td>21.551.998.147</td><td>21.551.998.147</td><td>21.551.998.147</td><td>-</td></tr><tr><td>Phải trả người bán ngắn hạn</td><td>11.493.708.210</td><td>11.493.708.210</td><td>11.493.708.210</td><td>-</td></tr><tr><td>Chi phí phải trả ngắn hạn</td><td>165.344.593.730</td><td>165.344.593.730</td><td>165.344.593.730</td><td>-</td></tr><tr><td>Các khoản phải trả, phải nộp khác ngắn hạn</td><td>14.530.406.797</td><td>14.530.406.797</td><td>14.530.406.797</td><td>-</td></tr><tr><td>Trái phiếu phát hành dài hạn (*)</td><td>1.061.355.556.681</td><td>1.286.539.909.563</td><td>74.516.400.000</td><td>1.212.023.509.563</td></tr><tr><td></td><td>14.343.979.480.874</td><td>14.934.115.967.436</td><td>13.722.092.457.873</td><td>1.212.023.509.563</td></tr></table>
+
+Dòng tiền theo hợp đồng của các khoản vay ngắn hạn và trái phiếu phát hành dài hạn không bao gồm dòng tiền từ dự thu lãi phải trả đến ngày kết thúc ký báo cáo năm liên quan tới các hợp đồng vay và phát hành trái phiếu, do khoản này đã bao gồm ở dòng tiền theo hợp đồng từ Chi phí phải trả ngắn hạn. Công ty quản lý khả năng thanh toán các khoản chi phí hoạt động dự kiến và thanh toán các khoản nợ bằng cách đầu tư khoản tiền thặng dư vào các khoản đầu tư ngắn hạn và duy trì một số hạn mức tín dụng vay ngân hàng.
+
+(*)
+
+33
+
+===== PAGE 35 =====
+Công ty Cổ phần Chứng khoán MB
+
+Thuyết minh báo cáo tài chính cho năm kết thúc ngày 31 tháng 12 năm 2025 (tiếp theo)
+
+Mẫu B09 - CTCK
+
+(Ban hành theo Thông tư số 334/2016/TT-BTC
+
+ngày 27/12/2016 của Bộ Tài chính)
+
+(d) Rùi ro thị trường
+
+Rủi ro thị trường là rủi ro mà những biến động về giá thị trường, như tỷ giá hối đoái, lãi suất và giá cổ phiếu sẽ ảnh hưởng đến kết quả hoạt động của Công ty hoặc giá trị của các công cụ tài chính mà Công ty nấm giữ. Mục đích của việc quản lý rủi ro thị trường là quản lý và kiểm soát các rủi ro thị trường trong giới hạn có thể chấp nhận được, trong khi vẫn tối đa hóa lợi nhuận thu được.
+
+Rủi ro thị trường có ba loại rủi ro: rủi ro tỷ giá hối đoái, rủi ro lãi suất và rủi ro về giá khác, chẳng hạn như rủi ro về giá cổ phiếu.
+
+(i) Rủi ro tỷ giá hối đoái
+
+Rủi ro tỷ giá hối đoái là rủi ro mà giá trị hợp lý hoặc các lường tiền trong tương lai của một công cụ tài chính sẽ biến động do thay đổi tỷ giá hối đoái.
+
+Tại ngày 31 tháng 12 năm 2025 và 31 tháng 12 năm 2024, rủi ro tỷ giá hối đoái của Công ty là không trọng yếu do số dư công cụ tài chính bằng ngoại tệ là không trọng yếu.
+
+(ii) Rủi ro lãi suất
+
+Rủi ro lãi suất là rủi ro mà giá trị hợp lý hoặc các luồng tiền trong tương lai của một công cụ tài chính sẽ biến động do sự thay đổi của lãi suất thị trường. Rủi ro thị trường do thay đổi lãi suất của Công ty chủ yếu liên quan đến tiền và các khoản tiền gửi ngắn hạn, các khoản phải thu của khách hàng, các khoản phải thu khác, phải trả hoạt động giao dịch chứng khoán, phải trả khác và các khoản vay và nợ ngắn hạn.
+
+Công ty quản lý rủi ro lãi suất bằng cách phân tích tình hình cạnh tranh trên thị trường để có được các lãi suất có lợi cho mục đích của Công ty và vẫn nằm trong giới hạn quản lý rủi ro của mình.
+
+34
+
+===== PAGE 36 =====
+Công ty Cổ phần Chứng khoán MB
+
+Thuyết minh báo cáo tài chính cho năm kết thúc ngày 31 tháng 12 năm 2025 (tiếp theo)
+
+Mẫu B09 - CTCK
+
+(Ban hành theo Thông tư số 334/2016/TT-BTC
+
+ngày 27/12/2016 của Bộ Tài chính)
+
+Tại ngày báo cáo, các công cụ tài chính chịu lãi suất của Công ty như sau:
+
+<table><tr><td rowspan="2"></td><td colspan="2">Giá trị ghi sổ</td></tr><tr><td>31/12/2025VND</td><td>31/12/2024VND</td></tr><tr><td>Các công cụ tài chính có lãi suất cố địnhTài sản tài chính ngắn hạn</td><td></td><td></td></tr><tr><td>Tiền và các khoản tương đương tiền</td><td>2.431.266.116.691</td><td>1.773.543.835.124</td></tr><tr><td>Các tài sản tài chính được ghi nhận theo giá trị hợp lý thông qua lãi/(lỗ)</td><td>2.911.761.716.342</td><td>1.746.355.135.567</td></tr><tr><td>Các khoản đầu tư nắm giữ đến ngày đáo hạn</td><td>6.714.472.421.784</td><td>4.994.512.493.078</td></tr><tr><td>Các khoản cho vay</td><td>15.040.584.813.320</td><td>10.293.729.065.183</td></tr><tr><td>Tài sản tài chính sẵn sàng để bán</td><td>1.067.039.050.200</td><td>1.454.187.945.427</td></tr><tr><td>Tài sản tài chính dài hạn</td><td></td><td></td></tr><tr><td>Tiền nộp Quỹ Hồ trợ thanh toán</td><td>20.000.000.000</td><td>20.000.000.000</td></tr><tr><td></td><td>28.185.124.118.337</td><td>20.282.328.474.379</td></tr><tr><td>Nợ phải trả tài chínhVay ngắn hạn</td><td>17.730.048.954.174</td><td>13.069.703.217.309</td></tr><tr><td></td><td>10.455.075.164.163</td><td>7.212.625.257.070</td></tr><tr><td>Các công cụ tài chính có lãi suất thả nổiTài sản tài chính ngắn hạn</td><td></td><td></td></tr><tr><td>Tài sản tài chính sẵn sàng để bán</td><td>1.978.267.020.841</td><td>1.134.216.559.791</td></tr><tr><td>Nợ phải trả tài chínhTrái phiếu phát hành dài hạn</td><td>1.561.581.556.689</td><td>1.061.355.556.681</td></tr><tr><td></td><td>416.685.464.152</td><td>72.861.003.110</td></tr></table>
+
+Tại ngày 31 tháng 12 năm 2025, mỗi thay đổi 1% lãi suất sẽ làm tăng 3.333.483.713 VND lợi nhuận sau thuế của Công ty (31/12/2024: 582.888.025 VND). Phân tích này dựa trên giả định là tất cả các biển số khác sẽ không thay đổi, đặc biệt là tỷ giá hối đoái.
+
+(iii) Rủi ro về giá cổ phiếu
+
+Rủi ro giá cổ phiếu phát sinh từ cổ phiếu niêm yết và chưa niêm yết do Công ty nằm giữ. Ban Tổng Giám đốc Công ty theo dõi các chứng khoán niêm yết trong danh mục đầu tư dựa trên các chỉ số thị trường. Các khoản đầu tư trọng yếu trong danh mục đầu tư được quản lý riêng rẽ và được các cấp có thẩm quyền phê duyệt.
+
+Tại ngày 31 tháng 12 năm 2025, giá trị hợp lý của các khoản đầu tư vào cổ phiếu niêm yết là 148.091.735.391 VND (31/12/2024: 167.680.023.276 VND). Nếu giá thị trường của các chứng khoán này tăng hoặc giảm 4% tại ngày 31 tháng 12 năm 2025 với tất cả các biến số khác không thay đổi có thể làm tăng hoặc giảm lợi nhuận sau thuế của Công ty tương ứng 4.738.935.533 VND (31/12/2024: giá trị thị trường của các chứng khoán tăng hoặc giảm 3%, tương ứng 4.024.320.559 VND).
+
+35
+
+===== PAGE 37 =====
+Công ty Cổ phần Chứng khoán MB
+Thuyết minh báo cáo tài chính cho năm kết thúc ngày 31 tháng 12 năm 2025 (tiếp theo)
+
+Mẫu B09 - CTCK
+(Ban hành theo Thông tư số 334/2016/TT-BTC ngày 27/12/2016 của Bộ Tài chính)
+
+Báo cáo bộ phận
+
+Báo cáo bộ phận theo lĩnh vực kinh doanh
+
+Công ty có các bộ phận kinh doanh chính: Môi giới và dịch vụ khách hàng, tự doanh, ngân hàng đầu tư và các bộ phận khác.
+
+Cho năm kết thúc ngày 31 tháng 12 năm 2025
+
+<table><tr><td></td><td>Môi giới và dịch vụ khách hàng VND</td><td>Tự doanh VND</td><td>Ngân hàng đầu tư VND</td><td>Các bộ phận khác VND</td><td>Tổng cộng VND</td></tr><tr><td>Doanh thu thuần hoạt động kinh doanh</td><td>2.388.485.494.786</td><td>1.180.732.955.386</td><td>10.499.510.457</td><td>78.589.450.264</td><td>3.658.307.410.893</td></tr><tr><td>Doanh thu hoạt động tài chính</td><td>4.374.318.709</td><td>2.162.417.259</td><td>19.229.007</td><td>143.930.245</td><td>6.699.895.220</td></tr><tr><td>Các chi phí trực tiếp</td><td>(800.570.532.377)</td><td>(303.192.021.806)</td><td>(4.364.496.400)</td><td>(934.748.359)</td><td>(1.109.061.798.942)</td></tr><tr><td>Chi phí tài chính</td><td>(551.273.310.672)</td><td>(272.518.533.923)</td><td>(2.423.334.746)</td><td>(18.138.802.402)</td><td>(844.353.981.743)</td></tr><tr><td>Chi phí bán hàng</td><td>(10.349.040.009)</td><td>(5.115.983.589)</td><td>(45.493.202)</td><td>(340.519.282)</td><td>(15.851.036.082)</td></tr><tr><td>Chi phí quản lý công ty chứng khoán</td><td>(183.289.534.776)</td><td>(90.608.042.025)</td><td>(805.719.939)</td><td>(6.030.860.898)</td><td>(280.734.157.638)</td></tr><tr><td>Lợi nhuận thuần từ hoạt động kinh doanh trước thuế</td><td>847.377.395.661</td><td>511.460.791.302</td><td>2.879.695.177</td><td>53.288.449.568</td><td>1.415.006.331.708</td></tr></table>
+
+Lợi nhuận thuần từ hoạt động kinh doanh trước thuế
+
+5
+
+36
+
+===== PAGE 38 =====
+Công ty Cổ phần Chứng khoán MB
+
+Thuyết minh báo cáo tài chính cho năm kết thúc ngày 31 tháng 12 năm 2025 (tiếp theo)
+
+Mẫu B09 - CTCK
+
+(Ban hành theo Thông tư số 334/2016/TT-BTC
+
+ngày 27/12/2016 của Bộ Tài chính)
+
+Tại ngày 31 tháng 12 năm 2025
+
+<table><tr><td>Môi giới và dịch vụ khách hàng VND</td><td>Tự doanh VND</td><td>Ngân hàng đầu tư VND</td><td>Các bộ phận khác VND</td><td>Tổng cộng VND</td></tr><tr><td>15.040.584.813.320</td><td>13.059.061.336.550</td><td>1.228.245.940</td><td>25.504.715.787</td><td>28.126.379.111.597</td></tr><tr><td>1.730.135.965.661</td><td>855.281.958.552</td><td>7.605.480.838</td><td>56.927.469.194</td><td>2.649.950.874.245</td></tr><tr><td>16.770.720.778.981</td><td>13.914.343.295.102</td><td>8.833.726.778</td><td>82.432.184.981</td><td>30.776.329.985.842</td></tr><tr><td>43.904.051.447</td><td>2.873.167.402.000</td><td>-</td><td>-</td><td>2.917.071.453.447</td></tr><tr><td>12.969.378.711.705</td><td>6.411.331.736.877</td><td>57.011.913.073</td><td>426.737.506.023</td><td>19.864.459.867.678</td></tr><tr><td>13.013.282.763.152</td><td>9.284.499.138.877</td><td>57.011.913.073</td><td>426.737.506.023</td><td>22.781.531.321.125</td></tr></table>
+
+37
+
+===== PAGE 39 =====
+Công ty Cổ phần Chứng khoán MB
+Thuyết minh báo cáo tài chính cho năm kết thúc ngày 31 tháng 12 năm 2025 (tiếp theo)
+
+Mẫu B09 - CTCK
+(Ban hành theo Thông tư số 334/2016/TT-BTC ngày 27/12/2016 của Bộ Tài chính)
+
+Cho năm kết thúc ngày 31 tháng 12 năm 2024
+
+<table><tr><td></td><td>Môi giới và dịch vụ khách hàng VND</td><td>Tự doanh VND</td><td>Ngân hàng đầu tư VND</td><td>Các bộ phận khác VND</td><td>Tổng cộng VND</td></tr><tr><td>Doanh thu thuần hoạt động kinh doanh</td><td>1.713.102.779.411</td><td>1.339.842.211.615</td><td>25.797.143.800</td><td>46.485.969.604</td><td>3.125.228.104.430</td></tr><tr><td>Doanh thu hoạt động tài chính</td><td>3.365.015.143</td><td>2.631.826.523</td><td>50.672.838</td><td>91.311.504</td><td>6.138.826.008</td></tr><tr><td>Các chi phí trực tiếp</td><td>(540.825.358.688)</td><td>(856.398.948.442)</td><td>(12.361.379.587)</td><td>(215.679.072)</td><td>(1.409.801.365.789)</td></tr><tr><td>Chi phí tài chính</td><td>(296.686.585.798)</td><td>(232.042.826.648)</td><td>(4.467.721.732)</td><td>(8.050.750.822)</td><td>(541.247.885.000)</td></tr><tr><td>Chi phí bán hàng</td><td>(5.467.928.121)</td><td>(4.276.544.872)</td><td>(82.340.026)</td><td>(148.375.185)</td><td>(9.975.188.204)</td></tr><tr><td>Chi phí quản lý công ty chứng khoán</td><td>(131.391.389.984)</td><td>(102.763.087.340)</td><td>(1.978.586.820)</td><td>(3.565.376.366)</td><td>(239.698.440.510)</td></tr><tr><td>Lợi nhuận thuần từ hoạt động kinh doanh trước thuế</td><td>742.096.531.963</td><td>146.992.630.836</td><td>6.957.788.473</td><td>34.597.099.663</td><td>930.644.050.935</td></tr><tr><td colspan="6">Tại ngày 31 tháng 12 năm 2024</td></tr><tr><td></td><td>Môi giới và dịch vụ khách hàng VND</td><td>Tự doanh VND</td><td>Ngân hàng đầu tư VND</td><td>Các bộ phận khác VND</td><td>Tổng cộng VND</td></tr><tr><td>Tài sản bộ phận</td><td>10.293.729.065.183</td><td>9.796.247.937.199</td><td>1.617.004.951</td><td>22.142.549.167</td><td>20.113.736.556.500</td></tr><tr><td>Tài sản phân bổ</td><td>1.104.082.764.632</td><td>863.518.938.238</td><td>16.626.078.825</td><td>33.916.312.860</td><td>2.018.144.094.555</td></tr><tr><td>Tổng tài sản</td><td>11.397.811.829.815</td><td>10.659.766.875.437</td><td>18.243.083.776</td><td>56.058.862.027</td><td>22.131.880.651.055</td></tr><tr><td>Nợ phải trả bộ phận</td><td>21.551.998.147</td><td>683.151.902.000</td><td>-</td><td>-</td><td>704.703.900.147</td></tr><tr><td>Nợ phải trả phân bổ</td><td>7.942.831.192.415</td><td>6.212.201.999.339</td><td>119.608.911.335</td><td>243.995.791.207</td><td>14.518.637.894.296</td></tr><tr><td>Tổng nợ phải trả</td><td>7.964.383.190.562</td><td>6.895.353.901.339</td><td>119.608.911.335</td><td>243.995.791.207</td><td>15.223.341.794.443</td></tr></table>
+
+Báo cáo bộ phận theo khu vực địa lý
+
+Tất cả hoạt động kinh doanh của Công ty được thực hiện trong lãnh thổ Việt Nam (là một bộ phận đơn lẻ).
+
+38
+
+||H:/ 0.18||
+
+(b)
+
+===== PAGE 40 =====
+Công ty Cổ phần Chứng khoán MB
+
+Thuyết minh báo cáo tài chính cho năm kết thúc ngày 31 tháng 12 năm 2025 (tiếp theo)
+
+Mẫu B09 - CTCK
+
+(Ban hành theo Thông tư số 334/2016/TT-BTC
+
+ngày 27/12/2016 của Bộ Tài chính)
+
+6. Tiền và các khoản tương đương tiền
+
+<table><tr><td></td><td>31/12/2025VND</td><td>31/12/2024VND</td></tr><tr><td rowspan="2">Tiền gửi ngân hàng cho hoạt động của Công tyCác khoản tương đương tiền</td><td>2.431.266.116.691</td><td>1.749.543.835.124</td></tr><tr><td>-</td><td>24.000.000.000</td></tr><tr><td></td><td>2.431.266.116.691</td><td>1.773.543.835.124</td></tr></table>
+
+7. Giá trị khối lượng giao dịch thực hiện trong năm
+
+<table><tr><td rowspan="2"></td><td colspan="2">Năm 2025</td><td colspan="2">Năm 2024</td></tr><tr><td>Khối lượng giao dịch thực hiện Đơn vị</td><td>Giá trị giao dịch thực hiện VND</td><td>Khối lượng giao dịch thực hiện Đơn vị</td><td>Giá trị giao dịch thực hiện VND</td></tr><tr><td>Cữa Công ty</td><td>994.668.310</td><td>95.553.934.774.864</td><td>497.285.911</td><td>46.723.622.437.449</td></tr><tr><td>Cổ phiếu</td><td>108.903.843</td><td>2.725.418.375.200</td><td>83.915.186</td><td>2.100.748.830.320</td></tr><tr><td>Trái phiếu</td><td>766.731.667</td><td>92.665.119.772.664</td><td>400.065.625</td><td>44.507.454.369.129</td></tr><tr><td>Chứng khoán khác</td><td>119.032.800</td><td>163.396.627.000</td><td>13.305.100</td><td>115.419.238.000</td></tr><tr><td>Cữa Nhà đầu tư</td><td>33.251.817.096</td><td>787.879.406.521.975</td><td>22.657.173.919</td><td>513.874.330.366.107</td></tr><tr><td>Cổ phiếu</td><td>31.843.189.664</td><td>767.602.949.014.654</td><td>21.511.871.987</td><td>500.224.345.514.208</td></tr><tr><td>Trái phiếu</td><td>135.358.320</td><td>18.262.454.172.761</td><td>45.873.955</td><td>12.649.189.577.509</td></tr><tr><td>Chứng khoán khác</td><td>1.273.269.112</td><td>2.014.003.334.560</td><td>1.099.427.977</td><td>1.000.795.274.390</td></tr><tr><td></td><td></td><td>883.433.341.296.839</td><td></td><td>560.597.952.803.556</td></tr></table>
+
+39
+
+12. NC N F
+
+===== PAGE 41 =====
+Công ty Cổ phần Chứng khoán MB
+
+Thuyết minh báo cáo tài chính cho năm kết thúc ngày 31 tháng 12 năm 2025 (tiếp theo)
+
+Mẫu B09 - CTCK
+
+(Ban hành theo Thông tư số 334/2016/TT-BTC
+
+ngày 27/12/2016 của Bộ Tài chính)
+
+Các loại tài sản tài chính
+
+Các tài sản tài chính được ghi nhận theo giá trị hợp lý thông qua lãi/(lỗ) (FVTPL)
+
+(a)
+
+<table><tr><td rowspan="2"></td><td colspan="4">31/12/2025</td><td colspan="2">31/12/2024</td></tr><tr><td>Giá gốc VND</td><td>Giá trị thị trường/Giá trị hợp lý VND</td><td>Giá trị ghi sở VND</td><td>Giá gốc VND</td><td>Giá trị thị trường/Giá trị hợp lý VND</td><td>Giá trị ghi sở VND</td></tr><tr><td>Cổ phiếu</td><td>170.420.917.644</td><td>148.091.735.391</td><td>148.091.735.391</td><td>157.455.739.208</td><td>167.680.023.276</td><td>167.680.023.276</td></tr><tr><td>Trái phiếu</td><td>1.029.212.500.000</td><td>1.029.212.500.000</td><td>1.029.212.500.000</td><td>999.786.000.000</td><td>999.786.000.000</td><td>999.786.000.000</td></tr><tr><td>Chứng chỉ tiền gửi</td><td>1.882.549.216.342</td><td>1.882.549.216.342</td><td>1.882.549.216.342</td><td>746.569.135.567</td><td>746.569.135.567</td><td>746.569.135.567</td></tr><tr><td>Chứng chỉ quỹ</td><td>35.164.108.659</td><td>44.629.691.000</td><td>44.629.691.000</td><td>50.131.577.788</td><td>59.783.160.000</td><td>59.783.160.000</td></tr><tr><td></td><td>3.117.346.742.645</td><td>3.104.483.142.733</td><td>3.104.483.142.733</td><td>1.953.942.452.563</td><td>1.973.818.318.843</td><td>1.973.818.318.843</td></tr></table>
+
+40
+
+//到 / 王 / 态 //
+
+===== PAGE 42 =====
+Công ty Cổ phần Chứng khoán MB
+
+Thuyết minh báo cáo tài chính cho năm kết thúc ngày 31 tháng 12 năm 2025 (tiếp theo)
+
+Mẫu B09 - CTCK
+
+(Ban hành theo Thông tư số 334/2016/TT-BTC
+
+ngày 27/12/2016 của Bộ Tài chính)
+
+(b) Các khoản đầu tư nằm giữ đến ngày đáo hạn
+
+<table><tr><td></td><td>31/12/2025VND</td><td>31/12/2024VND</td></tr><tr><td>Ngắn hạn</td><td></td><td></td></tr><tr><td>• Tiền gửi có kỳ hạn</td><td>6.614.472.421.784</td><td>4.344.521.451.918</td></tr><tr><td>• Chứng chỉ tiền gửi</td><td>100.000.000.000</td><td>649.991.041.160</td></tr><tr><td></td><td>6.714.472.421.784</td><td>4.994.512.493.078</td></tr></table>
+
+Tại ngày 31 tháng 12 năm 2025, các khoản tiền gửi có kỳ hạn có giá trị 6.586.472.421.784 VND (31/12/2024: 4.344.521.451.918 VND) và các chứng chỉ tiền gửi với giá trị là 100.000.000.000 VND (31/12/2024: 649.991.041.160 VND) được thế chấp tại ngân hàng để đảm bảo cho các khoản vay của Công ty (Thuyết minh 22).
+
+(c) Các khoản cho vay
+
+<table><tr><td rowspan="2"></td><td colspan="2">31/12/2025</td><td colspan="2">31/12/2024</td></tr><tr><td>Giá gốc VND</td><td>Giá trị hợp lý VND</td><td>Giá gốc VND</td><td>Giá trị hợp lý VND</td></tr><tr><td>Cho vay hoạt động ký quỹ</td><td>14.516.938.211.399</td><td>(*)</td><td>10.119.783.948.884</td><td>(*)</td></tr><tr><td>Cho vay hoạt động ứng trước tiền bán chứng khoán</td><td>523.646.601.921</td><td>(*)</td><td>173.945.116.299</td><td>(*)</td></tr><tr><td></td><td>15.040.584.813.320</td><td></td><td>10.293.729.065.183</td><td></td></tr></table>
+
+(*) Công ty chưa xác định giá trị hợp lý của các công cụ tài chính bởi vì không có giá niêm yết trên thị trường cho các công cụ tài chính này và các Chuẩn mực Kế toán Việt Nam, Chế độ Kế toán Doanh nghiệp Việt Nam và các hướng dẫn kế toán áp dụng đối với công ty chứng khoán hiện không có hướng dẫn về cách tính giá trị hợp lý sử dụng các kỹ thuật định giá. Giá trị hợp lý của các công cụ tài chính này có thể khác với giá trị ghi sổ.
+
+41
+
+===== PAGE 43 =====
+Công ty Cổ phần Chứng khoán MB
+Thuyết minh báo cáo tài chính cho năm kết thúc ngày 31 tháng 12 năm 2025 (tiếp theo)
+
+<table><tr><td colspan="4"></td><td colspan="2">Mẫu B09 - CTCK(Ban hành theo Thông tư số 334/2016/TT-BTCngày 27/12/2016 của Bộ Tài chính)</td></tr><tr><td rowspan="11">(d)</td><td colspan="5">Các khoản đầu tư sẵn sàng để bán</td></tr><tr><td>Tại ngày 31 tháng 12 năm 2025</td><td>Giá gốcVND</td><td>Giá trị thị trường/Giá trị hợp lýVND</td><td>Dự phòngsuy giảm giá trịVND</td><td>Giá trị ghi sởVND</td></tr><tr><td>Cổ phiếu</td><td>47.441.988.653</td><td>(*)</td><td>27.440.878.619</td><td>20.001.110.034</td></tr><tr><td>Trái phiếu</td><td>1.978.267.020.841</td><td>1.978.267.020.841 (**)</td><td>-</td><td>1.978.267.020.841</td></tr><tr><td>Chứng chỉ tiền gửi</td><td>1.067.039.050.200</td><td>1.067.039.050.200</td><td>-</td><td>1.067.039.050.200</td></tr><tr><td></td><td>3.092.748.059.694</td><td></td><td>27.440.878.619</td><td>3.065.307.181.075</td></tr><tr><td>Tại ngày 31 tháng 12 năm 2024</td><td>Giá gốcVND</td><td>Giá trị thị trường/Giá trị hợp lýVND</td><td>Dự phòngsuy giảm giá trịVND</td><td>Giá trị ghi sởVND</td></tr><tr><td>Cổ phiếu</td><td>117.975.345.153</td><td>(*)</td><td>82.554.833.496</td><td>35.420.511.657</td></tr><tr><td>Trái phiếu</td><td>1.987.835.612.518</td><td>1.987.835.612.518 (**)</td><td>15.845.872.480</td><td>1.971.989.740.038</td></tr><tr><td>Chứng chỉ tiền gửi</td><td>600.568.892.700</td><td>600.568.892.700</td><td>-</td><td>600.568.892.700</td></tr><tr><td></td><td>2.706.379.850.371</td><td></td><td>98.400.705.976</td><td>2.607.979.144.395</td></tr><tr><td>(*)</td><td colspan="5">Tài sản tài chính này là chứng khoán vốn được hạch toán theo giá gốc trừ đi dự phòng suy giảm giá trị do không có giá niêm yết trên thị trường hoạt động và giá trị hợp lý không thể xác định được một cách đáng tin cây.</td></tr><tr><td rowspan="2">(**)</td><td colspan="5">Giá trị hợp lý không bao gồm lãi dự thu được trình bày tại Thuyết minh 9.</td></tr><tr><td colspan="5">Tại ngày 31 tháng 12 năm 2025, các khoản trái phiếu có giá trị 230.630.767.304 VND được thế chấp tại ngân hàng để đảm bảo cho các khoản vay của Công ty (31/12/2024: Không có) (Thuyết minh 22).</td></tr></table>
+
+42
+
+===== PAGE 44 =====
+Công ty Cổ phần Chứng khoán MB
+
+Thuyết minh báo cáo tài chính cho năm kết thúc ngày 31 tháng 12 năm 2025 (tiếp theo)
+
+<table><tr><td>Mẫu B09 - CTCK(Ban hành theo Thông tư số 334/2016/TT-BTCngày 27/12/2016 của Bộ Tài chính)</td></tr></table>
+
+Tình hình biến động giá trị thị trường/giá trị hợp lý của tài sản tài chính
+
+Tại ngày 31 tháng 12 năm 2025
+
+<table><tr><td></td><td>Giá gốc VND</td><td>Chênh lệch tăng VND</td><td>Chênh lệch giảm VND</td><td>Giá trị đánh giá lại/ Giá trị hợp lý VND</td></tr><tr><td colspan="5">Tài sản tài chính FVTPL</td></tr><tr><td>Cổ phiếu</td><td>170.420.917.644</td><td>5.514.892.311</td><td>(27.844.074.564)</td><td>148.091.735.391</td></tr><tr><td>Trái phiếu</td><td>1.029.212.500.000</td><td>-</td><td>-</td><td>1.029.212.500.000</td></tr><tr><td>Chứng chỉ tiền gửi</td><td>1.882.549.216.342</td><td>-</td><td>-</td><td>1.882.549.216.342</td></tr><tr><td>Chứng chỉ quỹ</td><td>35.164.108.659</td><td>9.465.582.341</td><td>-</td><td>44.629.691.000</td></tr><tr><td></td><td>3.117.346.742.645</td><td>14.980.474.652</td><td>(27.844.074.564)</td><td>3.104.483.142.733</td></tr><tr><td colspan="5">Tài sản tài chính AFS</td></tr><tr><td>Trái phiếu (*)</td><td>1.978.267.020.841</td><td>-</td><td>-</td><td>1.978.267.020.841</td></tr><tr><td>Chứng chỉ tiền gửi</td><td>1.067.039.050.200</td><td>-</td><td>-</td><td>1.067.039.050.200</td></tr><tr><td></td><td>3.045.306.071.041</td><td>-</td><td>-</td><td>3.045.306.071.041</td></tr><tr><td>Tổng cộng</td><td>6.162.652.813.686</td><td>14.980.474.652</td><td>(27.844.074.564)</td><td>6.149.789.213.774</td></tr></table>
+
+Giá trị hợp lý không bao gồm lãi dự thu được trình bày tại Thuyết minh 9.
+
+(
+
+43
+
+THAN.
+
+===== PAGE 45 =====
+Công ty Cổ phần Chứng khoán MB
+
+Thuyết minh báo cáo tài chính cho năm kết thúc ngày 31 tháng 12 năm 2025 (tiếp theo)
+
+<table><tr><td colspan="5">Tại ngày 31 tháng 12 năm 2024</td></tr><tr><td></td><td>Giá gốc VND</td><td>Chênh lệch tăng VND</td><td>Chênh lệch giảm VND</td><td>Giá trị đánh giá lại/ Giá trị hợp lý VND</td></tr><tr><td colspan="5">Tài sản tài chính FVTPL</td></tr><tr><td>Cổ phiếu</td><td>157.455.739.208</td><td>10.288.149.429</td><td>(63.865.361)</td><td>167.680.023.276</td></tr><tr><td>Trái phiếu</td><td>999.786.000.000</td><td>-</td><td>-</td><td>999.786.000.000</td></tr><tr><td>Chứng chỉ tiền gửi</td><td>746.569.135.567</td><td>-</td><td>-</td><td>746.569.135.567</td></tr><tr><td>Chứng chỉ quỹ</td><td>50.131.577.788</td><td>9.651.582.212</td><td>-</td><td>59.783.160.000</td></tr><tr><td></td><td>1.953.942.452.563</td><td>19.939.731.641</td><td>(63.865.361)</td><td>1.973.818.318.843</td></tr><tr><td colspan="5">Tài sản tài chính AFS</td></tr><tr><td>Trái phiếu (*)</td><td>1.987.835.612.518</td><td>-</td><td>-</td><td>1.987.835.612.518</td></tr><tr><td>Chứng chỉ tiền gửi</td><td>600.568.892.700</td><td>-</td><td>-</td><td>600.568.892.700</td></tr><tr><td></td><td>2.588.404.505.218</td><td>-</td><td>-</td><td>2.588.404.505.218</td></tr><tr><td>Tổng cộng</td><td>4.542.346.957.781</td><td>19.939.731.641</td><td>(63.865.361)</td><td>4.562.222.824.061</td></tr></table>
+
+Giá trị hợp lý không bao gồm lãi dự thu được trình bày tại Thuyết minh 9.
+
+(*)
+
+44
+
+== 28500000000000000000000000000000000000
+
+===== PAGE 46 =====
+Công ty Cổ phần Chứng khoán MB
+Thuyết minh báo cáo tài chính cho năm kết thúc ngày 31 tháng 12 năm 2025 (tiếp theo)
+
+<table><tr><td rowspan="2"></td><td colspan="3">31/12/2025</td><td colspan="3">31/12/2024</td></tr><tr><td>Số lượng Đơn vị</td><td>Giá gốc VND</td><td>Dự phòng suy giảm giá trị VND</td><td>Số lượng Đơn vị</td><td>Giá gốc VND</td><td>Dự phòng suy giảm giá trị VND</td></tr><tr><td colspan="7">Tài sản tài chính AFS</td></tr><tr><td>Cổ phiếu chưa niêm yết</td><td></td><td>47.441.988.653</td><td>(27.440.878.619)</td><td></td><td>117.975.345.153</td><td>(82.554.833.496)</td></tr><tr><td colspan="7">CTCP Cảng Tân Cảng</td></tr><tr><td>Hiệp Phước</td><td>-</td><td>-</td><td>-</td><td>1.710.000</td><td>46.768.500.000</td><td>(28.899.000.000)</td></tr><tr><td colspan="7">TCT Công nghệ Năng lượng</td></tr><tr><td>Dầu khí Việt Nam</td><td>2.500.000</td><td>30.000.000.000</td><td>(16.750.000.000)</td><td>2.500.000</td><td>30.000.000.000</td><td>(16.750.000.000)</td></tr><tr><td>CTCP Chế biến Thủy sản Út Xi</td><td>-</td><td>-</td><td>-</td><td>894.705</td><td>26.214.856.500</td><td>(26.214.856.500)</td></tr><tr><td colspan="7">CTCP công nghiệp cao su</td></tr><tr><td>COECCO</td><td>492.000</td><td>7.380.000.000</td><td>(4.182.000.000)</td><td>492.000</td><td>7.380.000.000</td><td>(4.182.000.000)</td></tr><tr><td>Công ty Cổ phần Viet Lotus</td><td>457.300</td><td>4.573.000.000</td><td>(3.508.878.619)</td><td>457.300</td><td>4.573.000.000</td><td>(3.508.976.996)</td></tr><tr><td colspan="7">CTCP Dịch vụ Tài sản mã hoá</td></tr><tr><td>Dolphinex</td><td>245.000</td><td>2.450.000.000</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>Cổ phiếu chưa niêm yết khác</td><td>301.512</td><td>3.038.988.653</td><td>(3.000.000.000)</td><td>301.512</td><td>3.038.988.653</td><td>(3.000.000.000)</td></tr><tr><td>Trái phiếu chưa niêm yết</td><td>18.314</td><td>1.978.267.020.841</td><td>-</td><td>6.530.709</td><td>1.987.835.612.518</td><td>(15.845.872.480)</td></tr><tr><td>Chứng chỉ tiền gửi</td><td>1.050</td><td>1.067.039.050.200</td><td>-</td><td>600</td><td>600.568.892.700</td><td>-</td></tr><tr><td></td><td></td><td>3.092.748.059.694</td><td>(27.440.878.619)</td><td></td><td>2.706.379.850.371</td><td>(98.400.705.976)</td></tr></table>
+
+(f)
+
+45
+
+||E|| E||E||
+
+===== PAGE 47 =====
+Công ty Cổ phần Chứng khoán MB
+
+Thuyết minh báo cáo tài chính cho năm kết thúc ngày 31 tháng 12 năm 2025 (tiếp theo)
+
+Mẫu B09 - CTCK
+
+(Ban hành theo Thông tư số 334/2016/TT-BTC
+
+ngày 27/12/2016 của Bộ Tài chính)
+
+Biến động dự phòng suy giảm giá trị tài sản tài chính và tài sản thế chấp trong năm như sau:
+
+<table><tr><td></td><td>Năm 2025 VND</td><td>Năm 2024 VND</td></tr><tr><td>Số dư đầu năm(Hoàn nhập)/trích lập dự phòng trong năm(Thuyết minh 39)</td><td>98.400.705.976(70.959.827.357)</td><td>82.554.833.49615.845.872.480</td></tr><tr><td>Số dư cuối năm</td><td>27.440.878.619</td><td>98.400.705.976</td></tr></table>
+
+9. Các khoản phải thu
+
+<table><tr><td></td><td>31/12/2025VND</td><td>31/12/2024VND</td></tr><tr><td>Phải thu cổ tức, tiền lãi đến ngày nhận</td><td>29.767.353.266</td><td>29.172.766.557</td></tr><tr><td>- Phải thu cổ tức</td><td>131.343.800</td><td>227.055.000</td></tr><tr><td>- Phải thu lãi cho vay margin</td><td>29.636.009.466</td><td>28.945.711.557</td></tr><tr><td>Các khoản phải thu và dự thu cổ tức, tiền lãicác tài sản tài chính chưa đến ngày nhận</td><td>145.031.237.692</td><td>202.062.150.332</td></tr><tr><td>- Dự thu lãi trái phiếu</td><td>37.530.653.428</td><td>142.787.895.211</td></tr><tr><td>- Dự thu lãi tiền gửi có kỳ hạn</td><td>107.500.584.264</td><td>59.274.255.121</td></tr><tr><td></td><td>174.798.590.958</td><td>231.234.916.889</td></tr></table>
+
+10. Trả trước cho người bán
+
+<table><tr><td></td><td>31/12/2025VND</td><td>31/12/2024VND</td></tr><tr><td>Công ty Cổ phần Ứng dụng Khoa học và Công nghệ- MITEC</td><td>-</td><td>3.587.892.000</td></tr><tr><td>Công ty Cổ phần Công nghệ Tin học và Dịch vụ Goline</td><td>1.983.680.000</td><td>1.983.680.000</td></tr><tr><td>Chi Nhánh - Công Ty TNHH Một Thành Viên ViễnThông Quốc Tế FPT</td><td>2.178.708.600</td><td>200.000.000</td></tr><tr><td>Công ty TNHH Bảo hiểm Nhân thọ MB Ageas</td><td>1.820.000.000</td><td>-</td></tr><tr><td>Công ty Cổ phần Đầu tư Thương mại và Phát triểnCông nghệ FSI</td><td>1.517.583.276</td><td>-</td></tr><tr><td>Công ty Cổ phần Cơ điện Nam Giang</td><td>-</td><td>803.634.308</td></tr><tr><td>Công ty Cổ phần Vacxin Việt Nam</td><td>845.161.000</td><td>-</td></tr><tr><td>Các công ty khác</td><td>2.699.512.968</td><td>1.654.530.208</td></tr><tr><td></td><td>11.044.645.844</td><td>8.229.736.516</td></tr></table>
+
+46
+
+\( \left\|  {n - 1}\right\|  = n + 1 \)
+
+===== PAGE 48 =====
+Công ty Cổ phần Chứng khoán MB
+
+Thuyết minh báo cáo tài chính cho năm kết thúc ngày 31 tháng 12 năm 2025 (tiếp theo)
+
+Mẫu B09 - CTCK
+
+(Ban hành theo Thông tư số 334/2016/TT-BTC
+
+ngày 27/12/2016 của Bộ Tài chính)
+
+11. Phải thu các dịch vụ công ty chứng khoán cung cấp
+
+<table><tr><td></td><td>31/12/2025VND</td><td>31/12/2024VND</td></tr><tr><td>Phải thu hoạt động tư vấn tài chính</td><td>8.615.000.000</td><td>7.614.000.000</td></tr><tr><td>Phải thu hoạt động môi giới chứng khoán</td><td>368.930.198</td><td>113.204.033</td></tr><tr><td>Phải thu dịch vụ khác</td><td>30.085.582</td><td>125.389.117</td></tr><tr><td></td><td>9.014.015.780</td><td>7.852.593.150</td></tr></table>
+
+12. Các khoản phải thu khác
+
+<table><tr><td></td><td>31/12/2025VND</td><td>31/12/2024VND</td></tr><tr><td>Phí quản lý tài sản chứng khoán phải sinh</td><td>114.082.052</td><td>131.872.030</td></tr><tr><td>Treo phí giao dịch</td><td>4.428.229.399</td><td>2.810.082.529</td></tr><tr><td>Phải thu khác</td><td>3.377.837.469</td><td>1.596.027.741</td></tr><tr><td></td><td>7.920.148.920</td><td>4.537.982.300</td></tr></table>
+
+47
+
+MCP
+
+*
+
+===== PAGE 49 =====
+Công ty Cổ phần Chứng khoán MB
+
+Thuyết minh báo cáo tài chính cho năm kết thúc ngày 31 tháng 12 năm 2025 (tiếp theo)
+
+Mẫu B09 - CTCK
+
+(Ban hành theo Thông tư số 334/2016/TT-BTC
+
+ngày 27/12/2016 của Bộ Tài chính)
+
+13. Dự phòng suy giảm giá trị các khoản phải thu
+
+<table><tr><td></td><td>31/12/2025VND</td><td>31/12/2024VND</td></tr><tr><td>Dự phòng phải thu các dịch vụ do công ty chứng khoán cung cấp</td><td>7.011.488.211</td><td>6.235.588.199</td></tr><tr><td>Dự phòng giảm giá các khoản cho vay</td><td>774.281.629</td><td>-</td></tr><tr><td>Dự phòng suy giảm giá trị phải thu và dự thu về cổ tức, tiền lãi</td><td>-</td><td>35.296.936.006</td></tr><tr><td></td><td>7.785.769.840</td><td>41.532.524.205</td></tr></table>
+
+Biến động dự phòng suy giảm giá trị các khoản phải thu trong năm như sau:
+
+<table><tr><td></td><td>Năm 2025VND</td><td>Năm 2024VND</td></tr><tr><td rowspan="2">Số dư đầu năm(Hoàn nhập)/trích lập dự phòng phải thu và dự thu khóđời về cổ tức, tiền lãi từ các tài sản tài chính AFS trong năm (Thuyết minh 39)</td><td>41.532.524.205</td><td>13.469.630.924</td></tr><tr><td>(35.296.936.006)</td><td>27.774.407.522</td></tr><tr><td>Trích lập dự phòng giảm giá các khoản cho vay trong năm (Thuyết minh 39)</td><td>774.281.629</td><td>-</td></tr><tr><td>Trích lập dự phòng phải thu khó đòi về cung cấp dịch vụ kinh doanh chứng khoán trong năm(Thuyết minh 42)</td><td>775.900.012</td><td>211.599.987</td></tr><tr><td>Trích lập dự phòng phải thu khác trong năm(Thuyết minh 44)</td><td>-</td><td>95.000.000</td></tr><tr><td>Xử lý khoản phải thu tổn thất bằng nguồn dự phòng trong năm</td><td>-</td><td>(18.114.228)</td></tr><tr><td>Số dư cuối năm</td><td>7.785.769.840</td><td>41.532.524.205</td></tr></table>
+
+48
+
+===== PAGE 50 =====
+Công ty Cổ phần Chứng khoán MB
+
+Thuyết minh báo cáo tài chính cho năm kết thúc ngày 31 tháng 12 năm 2025 (tiếp theo)
+
+Mẫu B09 - CTCK
+
+(Ban hành theo Thông tư số 334/2016/TT-BTC
+
+ngày 27/12/2016 của Bộ Tài chính)
+
+14. Chi phí trả trước ngắn hạn
+
+<table><tr><td></td><td>31/12/2025VND</td><td>31/12/2024VND</td></tr><tr><td>Chi phí trả trước tiền thuê văn phòng</td><td>20.182.800</td><td>20.182.800</td></tr><tr><td>Chi phí lắp đặt sửa chữa chờ phân bổ</td><td>-</td><td>818.861.055</td></tr><tr><td>Công cụ dụng cụ chờ phân bổ</td><td>18.090.714</td><td>2.553.775</td></tr><tr><td>Chi phí đồng phục nhân viên chờ phân bổ</td><td>2.646.102.120</td><td>-</td></tr><tr><td>Chi phí trả trước khác</td><td>769.637.237</td><td>1.490.262.379</td></tr><tr><td></td><td>3.454.012.871</td><td>2.331.860.009</td></tr></table>
+
+15. Cảm cố, thế chấp, ký quỹ, ký cược
+
+(a) Càm có, thế chấp, ký quỹ, ký cược ngắn hạn
+
+<table><tr><td></td><td>31/12/2025VND</td><td>31/12/2024VND</td></tr><tr><td>Các khoản đặt cọc</td><td>15.090.000.000</td><td>15.090.000.000</td></tr></table>
+
+(b) Cảm cố, thế chấp, ký quỹ, ký cược dài hạn
+
+<table><tr><td></td><td>31/12/2025VND</td><td>31/12/2024VND</td></tr><tr><td>Đặt cọc thuê văn phòng dài hạn</td><td>2.358.116.867</td><td>2.358.116.867</td></tr><tr><td>Ký cược ký quỹ dài hạn khác</td><td>136.450.000</td><td>156.450.000</td></tr><tr><td></td><td>2.494.566.867</td><td>2.514.566.867</td></tr></table>
+
+49
+
+||H. ||. O. |S||
+
+===== PAGE 51 =====
+Công ty Cổ phần Chứng khoán MB
+Thuyết minh báo cáo tài chính cho năm kết thúc ngày 31 tháng 12 năm 2025 (tiếp theo)
+
+<table><tr><td></td><td>Máy móc thiết bị VND</td><td>Phương tiện vận chuyển VND</td><td>Thiết bị văn phòng VND</td><td>Tổng cộng VND</td></tr><tr><td colspan="5">Nguyên giá</td></tr><tr><td>Số dư đầu năm</td><td>294.738.669.524</td><td>9.375.998.635</td><td>9.358.313.555</td><td>313.472.981.714</td></tr><tr><td>Mua trong năm</td><td>12.074.120.000</td><td>-</td><td>166.200.000</td><td>12.240.320.000</td></tr><tr><td>Thanh lý</td><td>(19.305.423.694)</td><td>-</td><td>(510.890.189)</td><td>(19.816.313.883)</td></tr><tr><td>Số dư cuối năm</td><td>287.507.365.830</td><td>9.375.998.635</td><td>9.013.623.366</td><td>305.896.987.831</td></tr><tr><td colspan="5">Giá trị hao mòn lũy kế</td></tr><tr><td>Số dư đầu năm</td><td>174.549.038.498</td><td>3.567.092.443</td><td>8.637.244.360</td><td>186.753.375.301</td></tr><tr><td>Khấu hao trong năm</td><td>38.980.033.608</td><td>1.314.968.308</td><td>313.095.129</td><td>40.608.097.045</td></tr><tr><td>Thanh lý</td><td>(19.305.423.694)</td><td>-</td><td>(510.890.189)</td><td>(19.816.313.883)</td></tr><tr><td>Số dư cuối năm</td><td>194.223.648.412</td><td>4.882.060.751</td><td>8.439.449.300</td><td>207.545.158.463</td></tr><tr><td colspan="5">Giá trị còn lại</td></tr><tr><td>Số dư đầu năm</td><td>120.189.631.026</td><td>5.808.906.192</td><td>721.069.195</td><td>126.719.606.413</td></tr><tr><td>Số dư cuối năm</td><td>93.283.717.418</td><td>4.493.937.884</td><td>574.174.066</td><td>98.351.829.368</td></tr></table>
+
+Tài sản cố định hữu hình tại ngày 31 tháng 12 năm 2025 có các tài sản có nguyên giá 102.430.109.576 VND đã khấu hao hết nhưng vẫn đang được sử dụng (31/12/2024: 72.289.168.312 VND).
+
+16.
+
+50
+
+12
+
+===== PAGE 52 =====
+Công ty Cổ phần Chứng khoán MB
+Thuyết minh báo cáo tài chính cho năm kết thúc ngày 31 tháng 12 năm 2025 (tiếp theo)
+
+<table><tr><td colspan="5">Mẫu B09 - CTCK(Ban hành theo Thông tư số 334/2016/TT-BTCngày 27/12/2016 của Bộ Tài chính)Cho năm kết thúc ngày 31 tháng 12 năm 2024</td></tr><tr><td></td><td>Máy móc thiết bị VND</td><td>Phương tiện vận chuyển VND</td><td>Thiết bị văn phòng VND</td><td>Tổng cộng VND</td></tr><tr><td colspan="5">Nguyên giá</td></tr><tr><td>Số dư đầu năm</td><td>294.693.828.099</td><td>5.087.478.635</td><td>9.031.487.555</td><td>308.812.794.289</td></tr><tr><td>Mua trong năm</td><td>44.841.425</td><td>5.435.320.000</td><td>326.826.000</td><td>5.806.987.425</td></tr><tr><td>Thanh lý</td><td>-</td><td>(1.146.800.000)</td><td>-</td><td>(1.146.800.000)</td></tr><tr><td>Số dư cuối năm</td><td>294.738.669.524</td><td>9.375.998.635</td><td>9.358.313.555</td><td>313.472.981.714</td></tr><tr><td colspan="5">Giá trị hao mòn lũy kế</td></tr><tr><td>Số dư đầu năm</td><td>135.247.163.705</td><td>3.442.509.272</td><td>7.710.453.651</td><td>146.400.126.628</td></tr><tr><td>Khấu hao trong năm</td><td>39.301.874.793</td><td>1.271.383.171</td><td>926.790.709</td><td>41.500.048.673</td></tr><tr><td>Thanh lý</td><td>-</td><td>(1.146.800.000)</td><td>-</td><td>(1.146.800.000)</td></tr><tr><td>Số dư cuối năm</td><td>174.549.038.498</td><td>3.567.092.443</td><td>8.637.244.360</td><td>186.753.375.301</td></tr><tr><td colspan="5">Giá trị còn lại</td></tr><tr><td>Số dư đầu năm</td><td>159.446.664.394</td><td>1.644.969.363</td><td>1.321.033.904</td><td>162.412.667.661</td></tr><tr><td>Số dư cuối năm</td><td>120.189.631.026</td><td>5.808.906.192</td><td>721.069.195</td><td>126.719.606.413</td></tr></table>
+
+51
+
+===== PAGE 53 =====
+Công ty Cổ phần Chứng khoán MB
+
+Thuyết minh báo cáo tài chính cho năm kết thúc ngày 31 tháng 12 năm 2025 (tiếp theo)
+
+Mẫu B09 - CTCK
+
+(Ban hành theo Thông tư số 334/2016/TT-BTC
+
+ngày 27/12/2016 của Bộ Tài chính)
+
+17. Tài sản cố định vô hình
+
+<table><tr><td rowspan="2"></td><td colspan="2">Phần mềm máy vi tính</td></tr><tr><td>Năm 2025 VND</td><td>Năm 2024 VND</td></tr><tr><td colspan="3">Nguyên giá</td></tr><tr><td>Số dư đầu năm</td><td>103.045.231.066</td><td>105.202.602.066</td></tr><tr><td>Tăng trong năm</td><td>2.782.706.510</td><td>3.994.239.000</td></tr><tr><td>Xóa số</td><td>-</td><td>(6.151.610.000)</td></tr><tr><td>Số dư cuối năm</td><td>105.827.937.576</td><td>103.045.231.066</td></tr><tr><td colspan="3">Giá trị hao mòn lũy kế</td></tr><tr><td>Số dư đầu năm</td><td>74.086.016.380</td><td>60.828.362.830</td></tr><tr><td>Khấu hao trong năm</td><td>13.037.138.232</td><td>19.409.263.550</td></tr><tr><td>Xóa số</td><td>-</td><td>(6.151.610.000)</td></tr><tr><td>Điều chỉnh khác</td><td>(385.081)</td><td>-</td></tr><tr><td>Số dư cuối năm</td><td>87.122.769.531</td><td>74.086.016.380</td></tr><tr><td colspan="3">Giá trị còn lại</td></tr><tr><td>Số dư đầu năm</td><td>28.959.214.686</td><td>44.374.239.236</td></tr><tr><td>Số dư cuối năm</td><td>18.705.168.045</td><td>28.959.214.686</td></tr></table>
+
+Trong tài sản cố định vô hình có các tài sản với nguyên giá 41.221.071.737 VND đã được khấu hao hết tại ngày 31 tháng 12 năm 2025 nhưng vẫn đang được sử dụng (31/12/2024:37.829.839.737 VND).
+
+18. Chi phí trả trước dài hạn
+
+<table><tr><td></td><td>31/12/2025VND</td><td>31/12/2024VND</td></tr><tr><td>Chi phí thuê nhà dài hạn</td><td>44.233.487.148</td><td>45.536.196.372</td></tr><tr><td>Chi phí lắp đặt sửa chữa chờ phân bổ dài hạn</td><td>5.035.137.215</td><td>8.004.013.237</td></tr><tr><td>Chi phí công cụ dụng cụ phân bổ dài hạn</td><td>1.650.296.030</td><td>2.149.989.022</td></tr><tr><td>Chi phí đồng phục dài hạn</td><td>-</td><td>25.435.523</td></tr><tr><td>Chi phí trả trước dài hạn khác</td><td>3.325.861.187</td><td>3.751.290.714</td></tr><tr><td></td><td>54.244.781.580</td><td>59.466.924.868</td></tr></table>
+
+52
+
+THA ★ M.O.C.N:01
+
+===== PAGE 54 =====
+Công ty Cổ phần Chứng khoán MB
+
+Thuyết minh báo cáo tài chính cho năm kết thúc ngày 31 tháng 12 năm 2025 (tiếp theo)
+
+Mẫu B09 - CTCK
+
+(Ban hành theo Thông tư số 334/2016/TT-BTC
+
+ngày 27/12/2016 của Bộ Tài chính)
+
+19. Tài sản thuế thu nhập hoãn lại
+
+Tài sản thuế thu nhập hoãn lại được ghi nhận:
+
+<table><tr><td></td><td>31/12/2025VND</td><td>31/12/2024VND</td></tr><tr><td>Tài sản thuế thu nhập hoãn lại:Dự phòng suy giảm giá trị tài sản tài chính vàtài sản thế chấpChênh lệch giảm đánh giá lại các tài sản tài chínhFVTPL và AFSChênh lệch về đánh giá lại chứng quyền</td><td>2.418.908.7065.567.977.684-</td><td>14.409.141.91412.773.07243.991.177</td></tr><tr><td>Tổng tài sản thuế thu nhập hoãn lại</td><td>7.986.886.390</td><td>14.465.906.163</td></tr><tr><td>Thuế thu nhập hoãn lại phải trả:Chênh lệch tăng đánh giá lại các tài sản tài chínhFVTPLChênh lệch về đánh giá lại chứng quyền</td><td>(2.995.257.702)(2.867.139.337)</td><td>(3.987.946.328)-</td></tr><tr><td>Tổng thuế thu nhập hoãn lại phải trả</td><td>(5.862.397.039)</td><td>(3.987.946.328)</td></tr><tr><td>Tài sản thuế thu nhập hoãn lại thuần</td><td>2.124.489.351</td><td>10.477.959.835</td></tr></table>
+
+53
+
+//×/ ∞ () 1211
+
+===== PAGE 55 =====
+Công ty Cổ phần Chứng khoán MB
+Thuyết minh báo cáo tài chính cho năm kết thúc ngày 31 tháng 12 năm 2025 (tiếp theo)
+
+<table><tr><td></td><td colspan="3">Mẫu B09 - CTCK(Ban hành theo Thông tư số 334/2016/TT-BTCngày 27/12/2016 của Bộ Tài chính)</td></tr><tr><td colspan="4">Biến động các chênh lệch tạm thời trong năm:</td></tr><tr><td colspan="4">Năm 2025</td></tr><tr><td></td><td>1/1/2025VND</td><td>Được ghi nhận trongbáo cáo kết quả hoạtđộng trong nămVND</td><td>31/12/2025VND</td></tr><tr><td>Dự phòng suy giảm giá trị tài sản tài chính và tài sản thế chấp</td><td>72.045.709.567</td><td>(59.951.166.039)</td><td>12.094.543.528</td></tr><tr><td>Chênh lệch giảm đánh giá lại các tài sản tài chính FVTPL</td><td>63.865.361</td><td>27.776.023.059</td><td>27.839.888.420</td></tr><tr><td>Chênh lệch tăng đánh giá lại các tài sản tài chính FVTPL</td><td>(19.939.731.641)</td><td>4.963.443.133</td><td>(14.976.288.508)</td></tr><tr><td>Chênh lệch về đánh giá lại chứng quyền</td><td>219.955.884</td><td>(14.555.652.569)</td><td>(14.335.696.685)</td></tr><tr><td></td><td>52.389.799.171</td><td>(41.767.352.416)</td><td>10.622.446.755</td></tr><tr><td colspan="4">Năm 2024</td></tr><tr><td></td><td>1/1/2024VND</td><td>Được ghi nhận trongbáo cáo kết quả hoạtđộng trong nămVND</td><td>31/12/2024VND</td></tr><tr><td>Dự phòng suy giảm giá trị tài sản tài chính và tài sản thế chấp</td><td>55.331.646.387</td><td>16.714.063.180</td><td>72.045.709.567</td></tr><tr><td>Khoản chênh lệch tạm thời chịu thuế</td><td>(53.719.534)</td><td>53.719.534</td><td>-</td></tr><tr><td>Chênh lệch giảm đánh giá lại các tài sản tài chính FVTPL</td><td>99.857.213</td><td>(35.991.852)</td><td>63.865.361</td></tr><tr><td>Chênh lệch tăng đánh giá lại các tài sản tài chính FVTPL</td><td>(10.124.200.613)</td><td>(9.815.531.028)</td><td>(19.939.731.641)</td></tr><tr><td>Chênh lệch tăng về đánh giá lại chứng quyền</td><td>6.406.540</td><td>213.549.344</td><td>219.955.884</td></tr><tr><td>Tổng tài sản thuế thu nhập hoãn lại</td><td>45.259.989.993</td><td>7.129.809.178</td><td>52.389.799.171</td></tr></table>
+
+54
+
+11.51 12.52 13.53
+
+===== PAGE 56 =====
+Công ty Cổ phần Chứng khoán MB
+
+Thuyết minh báo cáo tài chính cho năm kết thúc ngày 31 tháng 12 năm 2025 (tiếp theo)
+
+Mẫu B09 - CTCK
+
+(Ban hành theo Thông tư số 334/2016/TT-BTC
+
+ngày 27/12/2016 của Bộ Tài chính)
+
+20. Tiền nộp Quỹ Hồ trợ thanh toán
+
+Tiền nộp quỹ hỗ trợ thanh toán phần ánh các khoản tiền ký quỹ tại VSDC.
+
+Theo Quyết định 45, Công ty phải ký quỹ một khoản tiền ban đầu là 120 triệu VND tại VSDC và hàng năm phải đóng thêm 0,01% trên doanh số giao dịch môi giới chứng khoán niêm yết tại các Sở Giao dịch Chứng khoán của kỳ liền trước với số tiền đóng góp hàng năm vào Quỹ hỗ trợ thanh toán không quá 2,5 tỷ VND.
+
+Giới hạn tối đa về mức đóng góp của mỗi thành viên lưu ký vào Quỹ Hỗ trợ thanh toán là 20 tỷ VND đối với thành viên lưu ký là công ty chứng khoán có nghiệp vụ tự doanh và môi giới.
+
+Chi tiết tiền nộp Quỹ Hồ trợ thanh toán như sau:
+
+<table><tr><td></td><td>31/12/2025VND</td><td>31/12/2024VND</td></tr><tr><td>Số dư đầu năm và số dư cuối năm</td><td>20.000.000.000</td><td>20.000.000.000</td></tr></table>
+
+21. Tài sản dài hạn khác
+
+Theo Quyết định 97, Quyết định 145 và Quyết định 115, Công ty phải đóng góp một khoản tiền tối thiểu ban đầu là 10 tỷ VND tại VSDC và hàng tháng VSDC sẽ thực hiện đánh giá lại quy mô Quỹ bù trừ và xác định nghĩa vụ đóng góp Quỹ bù trừ của từng thành viên bù trừ căn cứ vào quy mô giao dịch, mức biến động giá trên thị trường, nghĩa vụ tài chính, mức độ rủi ro và các tiêu chí khác. Khoản đóng góp của từng thành viên bù trừ do định kỳ đánh giá lại đảm bảo không thấp hơn mức đóng góp tối thiểu ban đầu.
+
+Chi tiết tiền nộp Quỹ bù trừ cho giao dịch phải sinh như sau:
+
+<table><tr><td></td><td>31/12/2025VND</td><td>31/12/2024VND</td></tr><tr><td>Quỹ bù trừ cho giao dịch phải sinh</td><td>10.191.230.244</td><td>10.170.880.596</td></tr></table>
+
+Chi tiết tiền nộp Quỹ bù trừ cho giao dịch phải sinh như sau:
+
+<table><tr><td></td><td>Năm 2025VND</td><td>Năm 2024VND</td></tr><tr><td>Số dư đầu năm</td><td>10.170.880.596</td><td>10.150.580.580</td></tr><tr><td>Lãi trong năm</td><td>20.349.648</td><td>20.300.016</td></tr><tr><td>Số dư cuối năm</td><td>10.191.230.244</td><td>10.170.880.596</td></tr></table>
+
+55
+
+121 475 121
+
+===== PAGE 57 =====
+Công ty Cổ phần Chứng khoán MB
+Thuyết minh báo cáo tài chính cho năm kết thúc ngày 31 tháng 12 năm 2025 (tiếp theo)
+
+<table><tr><td></td><td>1/1/2025Giá trị ghi sổVND</td><td>Biến động trong nămTăngVND</td><td>GiảmVND</td><td>31/12/2025Giá trị ghi sổVND</td></tr><tr><td>Vay ngắn hạn tổ chức tín dụng (*)</td><td>10.349.550.000.000</td><td>40.938.358.000.000</td><td>(37.464.408.000.000)</td><td>13.823.500.000.000</td></tr><tr><td>Vay ngắn hạn các đối tượng khác (**)</td><td>2.720.153.217.309</td><td>13.201.015.227.681</td><td>(12.014.619.490.816)</td><td>3.906.548.954.174</td></tr><tr><td></td><td>13.069.703.217.309</td><td>54.139.373.227.681</td><td>(49.479.027.490.816)</td><td>17.730.048.954.174</td></tr></table>
+
+56
+
+‖訣 一 エ ユ ノ 心‖
+
+===== PAGE 58 =====
+Công ty Cổ phần Chứng khoán MB
+
+Thuyết minh báo cáo tài chính cho năm kết thúc ngày 31 tháng 12 năm 2025 (tiếp theo)
+
+Mẫu B09 - CTCK
+
+(Ban hành theo Thông tư số 334/2016/TT-BTC
+
+ngày 27/12/2016 của Bộ Tài chính)
+
+23. Phải trả hoạt động giao dịch chứng khoán
+
+<table><tr><td></td><td>31/12/2025VND</td><td>31/12/2024VND</td></tr><tr><td>Phải trả Sở Giao dịch Chứng khoán</td><td>16.143.069.836</td><td>11.545.045.408</td></tr><tr><td>Phải trả VSDC</td><td>3.243.527.611</td><td>1.980.399.739</td></tr><tr><td>Phải trả chứng quyền</td><td>24.517.454.000</td><td>8.026.553.000</td></tr><tr><td></td><td>43.904.051.447</td><td>21.551.998.147</td></tr></table>
+
+24. Phải trả người bán ngắn hạn
+
+<table><tr><td></td><td>31/12/2025VND</td><td>31/12/2024VND</td></tr><tr><td>Phải trả hoa hồng dịch vụ phát triển kinh doanh</td><td>7.864.814.204</td><td>6.131.036.806</td></tr><tr><td>Phải trả nhà cung cấp khác</td><td>4.595.981.590</td><td>5.362.671.404</td></tr><tr><td></td><td>12.460.795.794</td><td>11.493.708.210</td></tr></table>
+
+25. Người mua trả tiền trước ngắn hạn
+
+<table><tr><td></td><td>31/12/2025VND</td><td>31/12/2024VND</td></tr><tr><td>Khách hàng ứng trước tiền mua giấy tờ có giá</td><td>2.871.166.400.000</td><td>680.980.900.000</td></tr><tr><td>Các khoản ứng trước khác</td><td>2.001.002.000</td><td>2.171.002.000</td></tr><tr><td></td><td>2.873.167.402.000</td><td>683.151.902.000</td></tr></table>
+
+26. Thuế và các khoản phải nộp Nhà nước
+
+<table><tr><td></td><td>31/12/2025VND</td><td>31/12/2024VND</td></tr><tr><td>Thuế giá trị gia tăng</td><td>844.450.761</td><td>665.817.542</td></tr><tr><td>Thuế thu nhập doanh nghiệp</td><td>144.074.157.498</td><td>87.275.739.781</td></tr><tr><td>Thuế thu nhập cá nhân</td><td>39.260.221.479</td><td>31.262.078.584</td></tr><tr><td>Các loại thuế khác</td><td>708.589.684</td><td>1.106.875.338</td></tr><tr><td></td><td>184.887.419.422</td><td>120.310.511.245</td></tr></table>
+
+57
+
+10人 7.5%
+
+===== PAGE 59 =====
+Công ty Cổ phần Chứng khoán MB
+Thuyết minh báo cáo tài chính cho năm kết thúc ngày 31 tháng 12 năm 2025 (tiếp theo)
+
+<table><tr><td rowspan="2"></td><td colspan="2">1/1/2025</td><td rowspan="2">Số phải nộp trong năm VND</td><td rowspan="2">Số đã nộp trong năm VND</td><td colspan="2">31/12/2025</td></tr><tr><td>Phải thu VND</td><td>Phải trả VND</td><td>Phải thu VND</td><td>Phải trả VND</td></tr><tr><td>Thuế giá trị gia tăng</td><td>-</td><td>665.817.542</td><td>6.961.529.125</td><td>6.782.895.906</td><td>-</td><td>844.450.761</td></tr><tr><td>Thuế TNDN</td><td>-</td><td>87.275.739.781</td><td>275.779.864.165</td><td>218.981.446.448</td><td>-</td><td>144.074.157.498</td></tr><tr><td>Thuế thu nhập cá nhân</td><td>17.529.222</td><td>31.262.078.584</td><td>606.466.486.242</td><td>598.468.343.347</td><td>17.529.222</td><td>39.260.221.479</td></tr><tr><td>Các loại thuế khác</td><td>-</td><td>1.106.875.338</td><td>9.069.629.995</td><td>9.467.915.649</td><td>-</td><td>708.589.684</td></tr><tr><td></td><td>17.529.222</td><td>120.310.511.245</td><td>898.277.509.527</td><td>833.700.601.350</td><td>17.529.222</td><td>184.887.419.422</td></tr><tr><td colspan="7">Cho năm kết thúc ngày 31 tháng 12 năm 2024</td></tr><tr><td rowspan="2"></td><td colspan="2">1/1/2024</td><td rowspan="2">Số phải nộp trong năm VND</td><td rowspan="2">Số đã nộp trong năm VND</td><td colspan="2">31/12/2024</td></tr><tr><td>Phải thu VND</td><td>Phải trả VND</td><td>Phải thu VND</td><td>Phải trả VND</td></tr><tr><td>Thuế giá trị gia tăng</td><td>-</td><td>179.119.059</td><td>4.609.215.001</td><td>4.122.516.518</td><td>-</td><td>665.817.542</td></tr><tr><td>Thuế TNDN</td><td>-</td><td>50.662.586.190</td><td>188.516.830.206</td><td>151.903.676.615</td><td>-</td><td>87.275.739.781</td></tr><tr><td>Thuế thu nhập cá nhân</td><td>17.529.222</td><td>25.681.797.442</td><td>396.381.199.258</td><td>390.800.918.116</td><td>17.529.222</td><td>31.262.078.584</td></tr><tr><td>Các loại thuế khác</td><td>-</td><td>189.380.983</td><td>7.317.580.675</td><td>6.400.086.320</td><td>-</td><td>1.106.875.338</td></tr><tr><td></td><td>17.529.222</td><td>76.712.883.674</td><td>596.824.825.140</td><td>553.227.197.569</td><td>17.529.222</td><td>120.310.511.245</td></tr></table>
+
+58
+
+\( H^{1}N \)
+
+===== PAGE 60 =====
+Công ty Cổ phần Chứng khoán MB
+
+Thuyết minh báo cáo tài chính cho năm kết thúc ngày 31 tháng 12 năm 2025 (tiếp theo)
+
+Mẫu B09 - CTCK
+
+(Ban hành theo Thông tư số 334/2016/TT-BTC
+
+ngày 27/12/2016 của Bộ Tài chính)
+
+27. Chi phí phải trả ngắn hạn
+
+<table><tr><td></td><td>31/12/2025VND</td><td>31/12/2024VND</td></tr><tr><td>Dự trả lãi trái phiếu phát hành</td><td>10.244.077.595</td><td>9.305.139.783</td></tr><tr><td>Dự trả lãi vay các tổ chức tín dụng</td><td>51.085.497.257</td><td>30.562.443.076</td></tr><tr><td>Dự trả lãi vay các cá nhân và tổ chức khác</td><td>68.217.283.351</td><td>36.156.506.192</td></tr><tr><td>Dự chi lương, thưởng</td><td>152.481.066.149</td><td>79.593.783.027</td></tr><tr><td>Chi phí phải trả khác</td><td>10.831.740.644</td><td>9.726.721.652</td></tr><tr><td></td><td>292.859.664.996</td><td>165.344.593.730</td></tr></table>
+
+28. Các khoản phải trả, phải nộp khác ngắn hạn
+
+<table><tr><td></td><td>31/12/2025VND</td><td>31/12/2024VND</td></tr><tr><td>Phải trả cổ tức</td><td>4.305.148.190</td><td>3.438.378.157</td></tr><tr><td>Phải trả lãi cho vay margin</td><td>1.866.327.728</td><td>2.472.912.217</td></tr><tr><td>Phải trả thường kinh doanh Ban Điều hành</td><td>-</td><td>5.893.826.546</td></tr><tr><td>Các khoản phải trả khác</td><td>3.478.117.349</td><td>2.725.289.877</td></tr><tr><td></td><td>9.649.593.267</td><td>14.530.406.797</td></tr></table>
+
+29. Trái phiếu phát hành dài hạn
+
+<table><tr><td>Năm phát hành</td><td>Lô</td><td>Lãi suất năm</td><td>Năm đáo hạn</td><td>31/12/2025 VND</td><td>31/12/2024 VND</td></tr><tr><td>2023</td><td>Lô 1</td><td>7,60%</td><td>2027</td><td>156.300.000.000</td><td>156.300.000.000</td></tr><tr><td>2023</td><td>Lô 2</td><td>7,10%</td><td>2027</td><td>250.000.000.000</td><td>250.000.000.000</td></tr><tr><td>Chi phí phát hành</td><td></td><td></td><td></td><td>(190.805.550)</td><td>(311.305.554)</td></tr><tr><td>2024</td><td>Lô 1</td><td>6,80%</td><td>2028</td><td>355.700.000.000</td><td>355.700.000.000</td></tr><tr><td>2024</td><td>Lô 2</td><td>6,90%</td><td>2027</td><td>300.000.000.000</td><td>300.000.000.000</td></tr><tr><td>Chi phí phát hành</td><td></td><td></td><td></td><td>(227.637.761)</td><td>(333.137.765)</td></tr><tr><td>2025</td><td>Lô 1</td><td>7,00%</td><td>2027</td><td>500.000.000.000</td><td>-</td></tr><tr><td colspan="4">Trái phiếu phát hành dài hạn (*)</td><td>1.561.581.556.689</td><td>1.061.355.556.681</td></tr></table>
+
+(*) Trái phiếu không chuyển đổi, không kèm chứng quyền, không có tài sản bảo đảm.
+
+59
+
+11. ☆ ⋯ U. A.
+
+===== PAGE 61 =====
+Công ty Cổ phần Chứng khoán MB
+Thuyết minh báo cáo tài chính cho năm kết thúc ngày 31 tháng 12 năm 2025 (tiếp theo)
+
+Mẫu B09 - CTCK
+(Ban hành theo Thông tư số 334/2016/TT-BTC ngày 27/12/2016 của Bộ Tài chính)
+
+30. Vốn chủ sở hữu
+
+(a) Tình hình tăng giảm nguồn vốn chủ sở hữu
+
+<table><tr><td></td><td>Vốn góp của chủ sở hữu VND</td><td>Thặng dư vốn cổ phần VND</td><td>Cổ phiếu quỹ VND</td><td>Quỹ dự phòng tài chính và rủi ro nghiệp vụ VND</td><td>Quỹ khác thuộc vốn chủ sở hữu VND</td><td>Lợi nhuận chưa phân phối VND</td><td>Tổng cộng VND</td></tr><tr><td>Số dư tại ngày 1/1/2024</td><td>4.376.699.930.000</td><td>-</td><td>(753.511.600)</td><td>24.516.764.528</td><td>1.625.982.305</td><td>636.107.333.361</td><td>5.038.196.498.594</td></tr><tr><td>Lợi nhuận sau thuế</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>743.553.182.565</td><td>743.553.182.565</td></tr><tr><td>Bán cổ phiếu quỹ</td><td>-</td><td>-</td><td>9.901.273</td><td>-</td><td>-</td><td>-</td><td>9.901.273</td></tr><tr><td>Chia cổ tức bằng tiền</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>(525.167.942.400)</td><td>(525.167.942.400)</td></tr><tr><td>Phát hành cổ phiếu cho cổ đông hiện hữu</td><td>1.094.099.880.000</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>1.094.099.880.000</td></tr><tr><td>Phát hành cổ phiếu cho nhà đầu tư chứng khoán chuyên nghiệp</td><td>257.330.000.000</td><td>335.558.320.000</td><td>-</td><td>-</td><td>-</td><td>-</td><td>592.888.320.000</td></tr><tr><td>Trích quỹ khen thưởng, phúc lợi</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>(35.040.983.420)</td><td>(35.040.983.420)</td></tr><tr><td>Số dư tại ngày 31/12/2024</td><td>5.728.129.810.000</td><td>335.558.320.000</td><td>(743.610.327)</td><td>24.516.764.528</td><td>1.625.982.305</td><td>819.451.590.106</td><td>6.908.538.856.612</td></tr><tr><td>Lợi nhuận sau thuế</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>1.130.872.997.059</td><td>1.130.872.997.059</td></tr><tr><td>Chia cổ tức bằng tiền</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>(687.339.528.000)</td><td>(687.339.528.000)</td></tr><tr><td>Phát hành cổ phiếu cho cổ đông hiện hữu (*)</td><td>687.339.530.000</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>687.339.530.000</td></tr><tr><td>Phát hành cổ phiếu đề tăng vốn cổ phần từ nguồn vốn chủ sở hữu (*)</td><td>171.798.530.000</td><td>(171.798.530.000)</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>Trích quỹ khen thưởng, phúc lợi (**)</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>(44.613.190.954)</td><td>(44.613.190.954)</td></tr><tr><td>Số dư tại ngày 31/12/2025</td><td>6.587.267.870.000</td><td>163.759.790.000</td><td>(743.610.327)</td><td>24.516.764.528</td><td>1.625.982.305</td><td>1.218.371.868.211</td><td>7.994.798.664.717</td></tr></table>
+
+Công ty đã thực hiện phát hành cổ phiếu đề tăng vốn cổ phần từ thắng dư vốn cổ phần và phát hành cổ phiếu cho cổ đông hiện hữu theo Nghị quyết số 01 của Đại hội đồng Cổ đông ngày 15 tháng 4 năm 2025 (“Nghị quyết 01”). Tỷ lệ thực hiện quyền là 100:3. Cổ đông sở hữu 1 cổ phiếu tương ứng với 1 quyền, 100 quyền nhận được thêm 3 cổ phiếu mới.
+
+Theo Nghị quyết số 01 của Đại hội đồng Cổ đông ngày 15 tháng 4 năm 2025, Công ty đã thực hiện trích lập quỹ khen thưởng, phúc lợi từ lợi nhuận năm 2024 với số tiền là 44.613.190.954 VND (2024: 35.040.983.420 VND).
+
+(*)
+
+( \( ^{*} \)  \( ^{*} \) )
+
+60
+
+===== PAGE 62 =====
+Công ty Cổ phần Chứng khoán MB
+
+Thuyết minh báo cáo tài chính cho năm kết thúc ngày 31 tháng 12 năm 2025 (tiếp theo)
+
+Mẫu B09 - CTCK
+
+(Ban hành theo Thông tư số 334/2016/TT-BTC
+
+ngày 27/12/2016 của Bộ Tài chính)
+
+(b) Cổ phiếu
+
+<table><tr><td></td><td>31/12/2025</td><td>31/12/2024</td></tr><tr><td>Số lượng cổ phiếu được phép phát hành</td><td>658.726.787</td><td>572.812.981</td></tr><tr><td>Số lượng cổ phiếu đã phát hành</td><td>658.726.787</td><td>572.812.981</td></tr><tr><td>Số lượng cổ phiếu đã phát hành và được góp vốn đầy đủ</td><td>658.726.787</td><td>572.812.981</td></tr><tr><td>Cổ phiếu phổ thông</td><td>658.726.787</td><td>572.812.981</td></tr><tr><td>Số lượng cổ phiếu quỹ</td><td>(30.041)</td><td>(30.041)</td></tr><tr><td>Cổ phiếu quỹ do Công ty nấm giữ</td><td>(30.041)</td><td>(30.041)</td></tr><tr><td>Cổ phiếu phổ thông</td><td>(30.041)</td><td>(30.041)</td></tr><tr><td>Số lượng cổ phiếu đang lưu hành</td><td>658.696.746</td><td>572.782.940</td></tr><tr><td>Cổ phiếu phổ thông</td><td>658.696.746</td><td>572.782.940</td></tr></table>
+
+31. Các chỉ tiêu ngoài Báo cáo tình hình tài chính
+
+(a) Chứng chỉ có giá nhận giữ hộ
+
+<table><tr><td></td><td>31/12/2025VND</td><td>31/12/2024VND</td></tr><tr><td>Vật tư, chứng chỉ có giá nhận giữ hộ</td><td>9.883.660.000</td><td>9.883.660.000</td></tr></table>
+
+(b) Nợ khó đòi đã xử lý
+
+<table><tr><td></td><td>31/12/2025VND</td><td>31/12/2024VND</td></tr><tr><td>Nợ khó đòi từ các hợp đồng có cam kết mua bán lại</td><td>41.263.103.188</td><td>41.316.603.188</td></tr><tr><td>Nợ khó đòi cho dịch vụ tài chính niêm yết</td><td>143.589.846.134</td><td>144.197.266.707</td></tr><tr><td>Nợ khó đòi cho dịch vụ tài chính khác</td><td>167.321.023.273</td><td>168.105.846.645</td></tr><tr><td>Nợ khó đòi đã xử lý khác</td><td>169.848.246.845</td><td>170.151.343.057</td></tr><tr><td></td><td>522.022.219.440</td><td>523.771.059.597</td></tr></table>
+
+61
+
+ii 、i D v ( ) i < 0
+
+===== PAGE 63 =====
+Công ty Cổ phần Chứng khoán MB
+
+Thuyết minh báo cáo tài chính cho năm kết thúc ngày 31 tháng 12 năm 2025 (tiếp theo)
+
+Mẫu B09 - CTCK
+
+(Ban hành theo Thông tư số 334/2016/TT-BTC
+
+ngày 27/12/2016 của Bộ Tài chính)
+
+(c) Ngoại tệ các loại
+
+<table><tr><td></td><td>31/12/2025VND</td><td>31/12/2024VND</td></tr><tr><td colspan="3">Ngoại tệ bằng USD</td></tr><tr><td>Nguyên tệ</td><td>88</td><td>88</td></tr><tr><td>Giá trị quy đổi</td><td>2.321.176</td><td>2.248.488</td></tr><tr><td colspan="3">Ngoại tệ bằng JPY</td></tr><tr><td>Nguyên tệ</td><td>780</td><td>780</td></tr><tr><td>Giá trị quy đổi</td><td>134.410</td><td>129.574</td></tr></table>
+
+(d) Tài sản tài chính niêm yết/đăng ký giao dịch tại VSDC của công ty chứng khoán
+
+<table><tr><td></td><td>31/12/2025Mệnh giáVND</td><td>31/12/2024Mệnh giáVND</td></tr><tr><td>Tài sản tài chính giao dịch tự do chuyển nhượng</td><td>1.995.005.220.000</td><td>2.025.228.020.000</td></tr><tr><td>Tài sản tài chính ký quỹ đảm bảo khoản vay</td><td>13.063.050.000</td><td>13.063.050.000</td></tr><tr><td>Tài sản tài chính phong tỏa, tạm giữ</td><td>580.000.000.000</td><td>-</td></tr><tr><td>Tài sản tài chính chờ thanh toán</td><td>751.270.000.000</td><td>1.000.068.000.000</td></tr><tr><td></td><td>3.339.338.270.000</td><td>3.038.359.070.000</td></tr></table>
+
+(e) Tài sản tài chính chưa lưu ký tại VSDC của công ty chứng khoán
+
+<table><tr><td></td><td>31/12/2025VND</td><td>31/12/2024VND</td></tr><tr><td>Tài sản tài chính chưa lưu ký tại VSDC của công ty chứng khoán</td><td>60.545.580.000</td><td>60.545.580.000</td></tr></table>
+
+(f) Tài sản tài chính niêm yết/đăng ký giao dịch VSDC của nhà đầu tư
+
+<table><tr><td></td><td>31/12/2025VND</td><td>31/12/2024VND</td></tr><tr><td>Tài sân tài chính giao dịch tự do chuyển nhượng</td><td>36.884.301.110.000</td><td>30.428.360.868.000</td></tr><tr><td>Tài sân tài chính hạn chế chuyển nhượng</td><td>3.287.799.480.000</td><td>737.526.900.000</td></tr><tr><td>Tài sân tài chính giao dịch cảm cố</td><td>20.635.836.200.000</td><td>17.289.632.620.000</td></tr><tr><td>Tài sân tài chính phong tỏa, tạm giữ</td><td>3.571.263.730.000</td><td>4.040.258.200.000</td></tr><tr><td>Tài sân tài chính chờ thanh toán</td><td>703.227.820.000</td><td>575.168.430.000</td></tr><tr><td></td><td>65.082.428.340.000</td><td>53.070.947.018.000</td></tr></table>
+
+62
+
+||t| 12 z z 1=11
+
+===== PAGE 64 =====
+Công ty Cổ phần Chứng khoán MB
+
+Thuyết minh báo cáo tài chính cho năm kết thúc ngày 31 tháng 12 năm 2025 (tiếp theo)
+
+Mẫu B09 - CTCK
+
+(Ban hành theo Thông tư số 334/2016/TT-BTC
+
+ngày 27/12/2016 của Bộ Tài chính)
+
+(g) Tài sản tài chính đã lưu ký tại VSDC và chưa giao dịch của Nhà đầu tư
+
+<table><tr><td></td><td>31/12/2025VND</td><td>31/12/2024VND</td></tr><tr><td>Tài sân tài chính đã lưu ký tại VSDC và chưa giao dịch, tự do chuyển nhượng</td><td>102.120.490.000</td><td>1.443.755.430.000</td></tr><tr><td>Tài sân tài chính đã lưu ký tại VSDC và chưa giao dịch, hạn chế chuyển nhượng</td><td>1.504.275.510.000</td><td>2.369.120.180.000</td></tr><tr><td></td><td>1.606.396.000.000</td><td>3.812.875.610.000</td></tr></table>
+
+(h) Tài sản tài chính chờ về của Nhà đầu tư
+
+<table><tr><td></td><td>31/12/2025VND</td><td>31/12/2024VND</td></tr><tr><td>Tài sản tài chính chờ về của Nhà đầu tư trong nước</td><td>638.055.820.000</td><td>506.403.860.000</td></tr><tr><td>Tài sản tài chính chờ về của Nhà đầu tư nước ngoài</td><td>203.000.000</td><td>205.000.000</td></tr><tr><td></td><td>638.258.820.000</td><td>506.608.860.000</td></tr></table>
+
+(i) Tài sản tài chính chưa lưu ký tại VSDC của Nhà đầu tư
+
+<table><tr><td></td><td>31/12/2025Số lượngchứng khoán</td><td>31/12/2024Số lượngchứng khoán</td></tr><tr><td>Tài sản tài chính chưa lưu ký tại VSDC của Nhà đầu tư trong nước</td><td>855.440.000</td><td>858.240.000</td></tr></table>
+
+63
+
+// 101 "才" 利
+
+===== PAGE 65 =====
+Công ty Cổ phần Chứng khoán MB
+
+Thuyết minh báo cáo tài chính cho năm kết thúc ngày 31 tháng 12 năm 2025 (tiếp theo)
+
+Mẫu B09 - CTCK
+
+(Ban hành theo Thông tư số 334/2016/TT-BTC
+
+ngày 27/12/2016 của Bộ Tài chính)
+
+(j) Tiền gửi của Nhà đầu tư
+
+<table><tr><td></td><td>31/12/2025VND</td><td>31/12/2024VND</td></tr><tr><td>Tiền gửi của Nhà đầu tư về giao dịch chứng khoán theo phương thức công ty chứng khoán quản lý</td><td>4.249.811.256.637</td><td>2.910.908.869.249</td></tr><tr><td>Tiền gửi của Nhà đầu tư trong nước về giao dịch chứng khoán theo phương thức công ty chứng khoán quản lý</td><td>4.096.191.819.965</td><td>2.749.604.003.759</td></tr><tr><td>Tiền gửi của Nhà đầu tư nước ngoài về giao dịch chứng khoán theo phương thức công ty chứng khoán quản lý</td><td>58.386.932.677</td><td>42.126.099.377</td></tr><tr><td>Tiền gửi ký quỹ của Nhà đầu tư để theo dõi tiền gửi ký quỹ của Nhà đầu tư</td><td>95.232.503.995</td><td>119.178.766.113</td></tr><tr><td>Tiền gửi ký quỹ của Nhà đầu tư tại VSDC</td><td>182.797.580.852</td><td>270.501.223.230</td></tr><tr><td>Tiền gửi tổng hợp giao dịch chứng khoán của khách hàng</td><td>101.605.089.728</td><td>171.589.439.729</td></tr><tr><td></td><td>4.534.213.927.217</td><td>3.352.999.532.208</td></tr></table>
+
+(k) Tiền gửi của Tổ chức phát hành chứng khoán
+
+<table><tr><td></td><td>31/12/2025VND</td><td>31/12/2024VND</td></tr><tr><td>Tiền gửi bán chứng khoán bảo lãnh, đại lýphát hành</td><td>98.438.803.364</td><td>5.807.238.364</td></tr><tr><td>Tiền gửi thanh toán gốc, tiền lãi và cổ tức củaTổ chức phát hành</td><td>125.518.282</td><td>125.518.282</td></tr><tr><td></td><td>98.564.321.646</td><td>5.932.756.646</td></tr></table>
+
+(I) Phải trả của Nhà đầu tư về tiền gửi giao dịch chứng khoán theo phương thức công ty chứng khoán quản lý
+
+<table><tr><td></td><td>31/12/2025VND</td><td>31/12/2024VND</td></tr><tr><td>Phải trả Nhà đầu tư về tiền gửi giao dịch chứng khoán theo phương thức công ty chứng khoán quản lý</td><td></td><td></td></tr><tr><td>Của Nhà đầu tư trong nước</td><td>4.485.760.517.620</td><td>3.307.745.085.493</td></tr><tr><td>Của Nhà đầu tư nước ngoài</td><td>48.453.409.597</td><td>45.254.446.715</td></tr><tr><td></td><td>4.534.213.927.217</td><td>3.352.999.532.208</td></tr></table>
+
+64
+
+例7  \( \neq \)   \( \neq \)
+
+===== PAGE 66 =====
+Công ty Cổ phần Chứng khoán MB
+
+Thuyết minh báo cáo tài chính cho năm kết thúc ngày 31 tháng 12 năm 2025 (tiếp theo)
+
+Mẫu B09 - CTCK
+
+(Ban hành theo Thông tư số 334/2016/TT-BTC
+
+ngày 27/12/2016 của Bộ Tài chính)
+
+(m) Phải trả của Tổ chức phát hành chứng khoán
+
+<table><tr><td></td><td>31/12/2025VND</td><td>31/12/2024VND</td></tr><tr><td>Phải trả tổ chức phát hành chứng khoán về tiền bán cổ phiếu của Công ty Cổ phần chứng khoán SSI</td><td>71.131.575.000</td><td>-</td></tr><tr><td>Phải trả tổ chức phát hành chứng khoán về tiền bán cổ phiếu của Ngân hàng TMCP Thịnh vượng và Phát triển</td><td>18.603.050.000</td><td>-</td></tr><tr><td>Phải trả tổ chức phát hành chứng khoán về tiền bán cổ phiếu của Tổng Công ty Điện lực Dầu khí Việt Nam</td><td>3.813.800.000</td><td>-</td></tr><tr><td>Ngân hàng Thương mại Cổ phần Quân đội</td><td>10.953.000</td><td>10.953.000</td></tr><tr><td>Công ty Cổ phần Du lịch Kim Liên</td><td>488.085</td><td>488.085</td></tr><tr><td>Phải trả tổ chức phát hành chứng khoán khác</td><td>4.878.937.279</td><td>5.795.797.279</td></tr><tr><td></td><td>98.438.803.364</td><td>5.807.238.364</td></tr></table>
+
+(n) Phải trả cổ tức, gốc và lãi trái phiếu
+
+<table><tr><td></td><td>31/12/2025VND</td><td>31/12/2024VND</td></tr><tr><td>Phải trả hộ cổ tức, góc và lãi trái phiếu cho Nhà đầu tư</td><td>125.518.282</td><td>125.518.282</td></tr></table>
+
+65
+
+===== PAGE 67 =====
+Công ty Cổ phần Chứng khoán MB
+Thuyết minh báo cáo tài chính cho năm kết thúc ngày 31 tháng 12 năm 2025 (tiếp theo)
+
+Mẫu B09 - CTCK
+(Ban hành theo Thông tư số 334/2016/TT-BTC ngày 27/12/2016 của Bộ Tài chính)
+
+Lãi từ bán các tài sản tài chính được ghi nhận theo giá trị hợp lý thông qua lãi/(lỗ)
+Cho kết thúc ngày 31 tháng 12 năm 2025
+
+<table><tr><td></td><td>Số lượng bán Đơn vị</td><td>Tổng giá trị bán VND</td><td>Tổng giá vốn VND</td><td>Lãi bán chứng khoán trong năm VND</td></tr><tr><td>Cổ phiếu niêm yết</td><td>40.557.593</td><td>1.031.927.220.600</td><td>869.499.647.047</td><td>162.427.573.553</td></tr><tr><td>Chứng chỉ tiền gửi</td><td>3.086.821.790</td><td>321.548.966.209.128</td><td>321.112.169.221.729</td><td>436.796.987.399</td></tr><tr><td>Trái phiếu niêm yết</td><td>200.600.426</td><td>22.969.586.486.010</td><td>22.945.197.443.218</td><td>24.389.042.792</td></tr><tr><td>Trái phiếu chưa niêm yết</td><td>34.845</td><td>4.420.378.908.010</td><td>4.368.842.004.075</td><td>51.536.903.935</td></tr><tr><td>Chứng quyền có bảo đảm</td><td>19.352.400</td><td>21.695.089.000</td><td>25.450.865.160</td><td>3.755.776.160</td></tr><tr><td>Đáo hạn chứng quyền</td><td>3.352.300</td><td>-</td><td>-</td><td>6.744.487.100</td></tr><tr><td>Chứng chỉ quỹ</td><td>1.280.000</td><td>20.203.707.800</td><td>16.327.842.129</td><td>3.875.865.671</td></tr><tr><td>Hợp đồng tương lai</td><td>7</td><td>-</td><td>-</td><td>136.170.000</td></tr><tr><td></td><td></td><td>350.012.757.620.548</td><td>349.337.487.023.358</td><td>689.662.806.610</td></tr></table>
+
+66
+
+M SD
+
+[Non-Text]
+
+32.
+
+===== PAGE 68 =====
+Công ty Cổ phần Chứng khoán MB
+Thuyết minh báo cáo tài chính cho năm kết thúc ngày 31 tháng 12 năm 2025 (tiếp theo)
+
+Mẫu B09 - CTCK
+(Ban hành theo Thông tư số 334/2016/TT-BTC ngày 27/12/2016 của Bộ Tài chính)
+
+Cho năm kết thúc ngày 31 tháng 12 năm 2024
+
+<table><tr><td></td><td>Số lượng bán Đơn vị</td><td>Tổng giá trị bán VND</td><td>Tổng giá vốn VND</td><td>Lãi bán chứng khoán trong năm VND</td></tr><tr><td>Cổ phiếu niêm yết</td><td>36.642.015</td><td>890.171.230.750</td><td>832.243.113.512</td><td>57.928.117.238</td></tr><tr><td>Chứng chỉ tiền gửi</td><td>584.184.800</td><td>69.178.095.341.109</td><td>68.279.875.985.069</td><td>898.219.356.040</td></tr><tr><td>Trái phiếu niêm yết</td><td>58.899.000</td><td>6.382.619.221.000</td><td>6.380.483.644.327</td><td>2.135.576.673</td></tr><tr><td>Trái phiếu chưa niêm yết</td><td>9.695</td><td>384.042.652.455</td><td>376.619.254.216</td><td>7.423.398.239</td></tr><tr><td>Chứng quyền có bảo đảm</td><td>3.281.100</td><td>2.439.900.910</td><td>1.900.369.000</td><td>539.531.910</td></tr><tr><td>Đáo hạn chứng quyền</td><td>4.685.600</td><td>-</td><td>-</td><td>670.544.081</td></tr><tr><td>Chứng chỉ quỹ chưa niêm yết</td><td>2.070.000</td><td>30.164.970.000</td><td>26.405.182.194</td><td>3.759.787.806</td></tr><tr><td></td><td></td><td>76.867.533.316.224</td><td>75.897.527.548.318</td><td>970.676.311.987</td></tr></table>
+
+67
+
+\( \left( {10}\right)  = \frac{7}{\left( {10}\right) } \)
+
+===== PAGE 69 =====
+Công ty Cổ phần Chứng khoán MB
+Thuyết minh báo cáo tài chính cho năm kết thúc ngày 31 tháng 12 năm 2025 (tiếp theo)
+
+Mẫu B09 - CTCK
+(Ban hành theo Thông tư số 334/2016/TT-BTC ngày 27/12/2016 của Bộ Tài chính)
+
+Lỗ từ bán các tài sản tài chính FVTPL
+Cho kết thúc ngày 31 tháng 12 năm 2025
+
+<table><tr><td></td><td>Số lượng bán Đơn vị</td><td>Tổng giá trị bán VND</td><td>Tổng giá vốn VND</td><td>Lỗ bán chứng khoán trong năm VND</td></tr><tr><td>Cổ phiếu niêm yết</td><td>15.648.537</td><td>399.981.564.800</td><td>431.790.770.167</td><td>31.809.205.367</td></tr><tr><td>Cổ phiếu chưa niêm yết</td><td>1.710.000</td><td>18.810.000.000</td><td>46.768.500.000</td><td>27.958.500.000</td></tr><tr><td>Chứng chỉ tiền gửi</td><td>1.351.594.924</td><td>136.246.128.799.783</td><td>136.512.654.328.715</td><td>266.525.528.932</td></tr><tr><td>Trái phiếu niêm yết</td><td>188.535.000</td><td>20.387.005.155.000</td><td>20.392.529.796.782</td><td>5.524.641.782</td></tr><tr><td>Trái phiếu chưa niêm yết</td><td>6.519.074</td><td>707.195.729.588</td><td>709.630.409.778</td><td>2.434.680.190</td></tr><tr><td>Chứng quyền có bảo đảm</td><td>26.403.100</td><td>41.141.599.000</td><td>35.537.204.467</td><td>5.604.394.533</td></tr><tr><td>Đáo hạn chứng quyền</td><td>221.800</td><td>-</td><td>-</td><td>1.481.493.296</td></tr><tr><td>Hợp đồng tương lai</td><td>7</td><td>-</td><td>-</td><td>194.580.000</td></tr><tr><td></td><td></td><td>157.800.262.848.171</td><td>158.128.911.009.909</td><td>341.533.024.100</td></tr></table>
+
+33.
+
+68
+
+11.7 2-6,1911
+
+===== PAGE 70 =====
+Công ty Cổ phần Chứng khoán MB
+Thuyết minh báo cáo tài chính cho năm kết thúc ngày 31 tháng 12 năm 2025 (tiếp theo)
+
+<table><tr><td></td><td>Số lượng bán Đơn vị</td><td>Tổng giá trị bán VND</td><td>Tổng giá vốn VND</td><td>Lỗ bán chứng khoán trong năm VND</td></tr><tr><td>Cổ phiếu niêm yết</td><td>4.199.226</td><td>147.461.018.461</td><td>152.967.957.535</td><td>5.506.939.074</td></tr><tr><td>Chứng chỉ tiền gửi</td><td>522.486.317</td><td>52.128.948.808.579</td><td>52.912.622.243.666</td><td>783.673.435.087</td></tr><tr><td>Trái phiếu niêm yết</td><td>134.000.000</td><td>15.056.824.510.000</td><td>15.061.672.182.673</td><td>4.847.672.673</td></tr><tr><td>Trái phiếu chưa niêm yết</td><td>26</td><td>2.628.725.480</td><td>2.664.210.603</td><td>35.485.123</td></tr><tr><td>Chứng quyền có bảo đảm khác</td><td>1.103.000</td><td>1.323.844.802</td><td>1.399.879.000</td><td>76.034.198</td></tr><tr><td>Đáo hạn chứng quyền</td><td>231.400</td><td>-</td><td>-</td><td>6.929.249</td></tr><tr><td></td><td></td><td>67.337.186.907.322</td><td>68.131.326.473.477</td><td>794.146.495.404</td></tr></table>
+
+69
+
+110:27 王 121
+
+===== PAGE 71 =====
+Công ty Cổ phần Chứng khoán MB
+Thuyết minh báo cáo tài chính cho năm kết thúc ngày 31 tháng 12 năm 2025 (tiếp theo)
+
+<table><tr><td></td><td>Giá gốc VND</td><td>Giá trị thị trường/ Giá trị hợp lý VND</td><td>Chênh lệch đánh giá lại cuối năm VND</td><td>Chênh lệch đánh giá lại đầu năm VND</td><td>Chênh lệch đánh giá lại năm nay VND</td><td>Chênh lệch tăng năm nay VND</td><td>Chênh lệch giảm năm nay VND</td></tr><tr><td>Cổ phiếu niêm yết</td><td>170.420.917.644</td><td>148.091.735.391</td><td>(22.329.182.253)</td><td>10.224.284.068</td><td>(32.553.466.321)</td><td>(4.777.443.262)</td><td>(27.776.023.059)</td></tr><tr><td>Trái phiếu niêm yết</td><td>1.029.212.500.000</td><td>1.029.212.500.000</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>Chứng chỉ tiền gửi</td><td>1.882.549.216.342</td><td>1.882.549.216.342</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>Chứng chỉ quỹ chưa niêm yết</td><td>35.164.108.659</td><td>44.629.691.000</td><td>9.465.582.341</td><td>9.651.582.212</td><td>(185.999.871)</td><td>(185.999.871)</td><td>-</td></tr><tr><td></td><td>3.117.346.742.645</td><td>3.104.483.142.733</td><td>(12.863.599.912)</td><td>19.875.866.280</td><td>(32.739.466.192)</td><td>(4.963.443.133)</td><td>(27.776.023.059)</td></tr></table>
+
+34.
+
+70
+
+11.21 0 - 7 必儿
+
+===== PAGE 72 =====
+Công ty Cổ phần Chứng khoán MB
+Thuyết minh báo cáo tài chính cho năm kết thúc ngày 31 tháng 12 năm 2025 (tiếp theo)
+
+<table><tr><td></td><td>Giá gốc VND</td><td>Giá trị thị trường/ Giá trị hợp lý VND</td><td>Chênh lệch đánh giá lại cuối năm VND</td><td>Chênh lệch đánh giá lại đầu năm VND</td><td>Chênh lệch đánh giá lại năm nay VND</td><td>Chênh lệch tăng năm nay VND</td><td>Chênh lệch giảm năm nay VND</td></tr><tr><td>Cổ phiếu niêm yết</td><td>157.455.739.208</td><td>167.680.023.276</td><td>10.224.284.068</td><td>2.237.103.382</td><td>7.987.180.686</td><td>7.951.188.834</td><td>35.991.852</td></tr><tr><td>Trái phiếu niêm yết</td><td>999.786.000.000</td><td>999.786.000.000</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>Chứng chỉ tiền gửi</td><td>746.569.135.567</td><td>746.569.135.567</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>Chứng chỉ quỹ chưa niêm yết</td><td>50.131.577.788</td><td>59.783.160.000</td><td>9.651.582.212</td><td>7.787.240.018</td><td>1.864.342.194</td><td>1.864.342.194</td><td>-</td></tr><tr><td></td><td>1.953.942.452.563</td><td>1.973.818.318.843</td><td>19.875.866.280</td><td>10.024.343.400</td><td>9.851.522.880</td><td>9.815.531.028</td><td>35.991.852</td></tr></table>
+
+71
+
+\( \therefore m : x = 1 \) 或 \( {3x} + {4y} + 1 = 0 \)
+
+===== PAGE 73 =====
+Công ty Cổ phần Chứng khoán MB
+
+Thuyết minh báo cáo tài chính cho năm kết thúc ngày 31 tháng 12 năm 2025 (tiếp theo)
+
+Mẫu B09 - CTCK
+
+(Ban hành theo Thông tư số 334/2016/TT-BTC
+
+ngày 27/12/2016 của Bộ Tài chính)
+
+35. Lãi từ các tài sản tài chính
+
+(a) Cổ tức, tiền lãi phát sinh từ tài sản tài chính FVTPL
+
+<table><tr><td></td><td>Năm 2025 VND</td><td>Năm 2024 VND</td></tr><tr><td>Cổ tức</td><td>16.255.966.800</td><td>2.708.649.200</td></tr></table>
+
+(b) Lãi từ các khoản đầu tư nắm giữ đến ngày đáo hạn
+
+<table><tr><td></td><td>Năm 2025VND</td><td>Năm 2024VND</td></tr><tr><td>Thu nhập lãi tiền gửi có kỳ hạn</td><td>313.358.792.405</td><td>146.315.985.194</td></tr><tr><td>Thu nhập lãi chứng chỉ tiền gửi</td><td>18.626.543.858</td><td>35.403.379.724</td></tr><tr><td></td><td>331.985.336.263</td><td>181.719.364.918</td></tr></table>
+
+(c) Lãi từ các khoản cho vay và phải thu
+
+<table><tr><td></td><td>Năm 2025VND</td><td>Năm 2024VND</td></tr><tr><td>Thu nhập lãi cho vay giao dịch ký quỹ</td><td>1.341.171.028.794</td><td>1.009.283.368.263</td></tr><tr><td>Thu nhập lãi ứng trước tiền bán chứng khoán của khách hàng</td><td>81.945.811.148</td><td>46.847.777.448</td></tr><tr><td></td><td>1.423.116.839.942</td><td>1.056.131.145.711</td></tr></table>
+
+72
+
+M.S.D.N.
+
+===== PAGE 74 =====
+Công ty Cổ phần Chứng khoán MB
+
+Thuyết minh báo cáo tài chính cho năm kết thúc ngày 31 tháng 12 năm 2025 (tiếp theo)
+
+Mẫu B09 - CTCK
+
+(Ban hành theo Thông tư số 334/2016/TT-BTC
+
+ngày 27/12/2016 của Bộ Tài chính)
+
+(d) Lãi từ các tài sản tài chính sẵn sàng để bán
+
+<table><tr><td></td><td>Năm 2025VND</td><td>Năm 2024VND</td></tr><tr><td>Thu nhập từ cổ tức</td><td>1.586.831.013</td><td>5.752.396.232</td></tr><tr><td>Thu nhập lãi trái phiếu và chứng chỉ tiền gửi</td><td>128.194.647.119</td><td>169.136.885.182</td></tr><tr><td></td><td>129.781.478.132</td><td>174.889.281.414</td></tr></table>
+
+36. Doanh thu nghiệp vụ môi giới chứng khoán
+
+<table><tr><td></td><td>Năm 2025 VND</td><td>Năm 2024 VND</td></tr><tr><td>Doanh thu phí môi giới chứng khoán</td><td>901.297.448.803</td><td>609.443.022.042</td></tr><tr><td>Doanh thu phí môi giới chứng khoán phải sinh</td><td>22.169.009.600</td><td>18.711.549.700</td></tr><tr><td></td><td>923.466.458.403</td><td>628.154.571.742</td></tr></table>
+
+37. Doanh thu hoạt động tư vấn tài chính
+
+<table><tr><td></td><td>Năm 2025 VND</td><td>Năm 2024 VND</td></tr><tr><td>Doanh thu hoạt động tư vấn tài chính</td><td>5.957.006.703</td><td>4.185.000.000</td></tr><tr><td>Doanh thu thu xếp phát hành trái phiếu</td><td>3.989.281.600</td><td>21.412.143.800</td></tr><tr><td></td><td>9.946.288.303</td><td>25.597.143.800</td></tr></table>
+
+73
+
+===== PAGE 75 =====
+Công ty Cổ phần Chứng khoán MB
+
+Thuyết minh báo cáo tài chính cho năm kết thúc ngày 31 tháng 12 năm 2025 (tiếp theo)
+
+Mẫu B09 - CTCK
+
+(Ban hành theo Thông tư số 334/2016/TT-BTC
+
+ngày 27/12/2016 của Bộ Tài chính)
+
+38. Thu nhập hoạt động khác
+
+<table><tr><td></td><td>Năm 2025VND</td><td>Năm 2024VND</td></tr><tr><td>Thu nhập phí chuyển nhượng</td><td>138.154.345</td><td>267.672.566</td></tr><tr><td>Thu nhập từ hợp đồng hợp tác cho vay thanh toán tiền mua chứng khoán đã khớp lệnh và/hoặc cho vay ứng trước tiền bán</td><td>49.442.461.338</td><td>34.722.025.948</td></tr><tr><td>Doanh thu dịch vụ khác</td><td>10.126.569.145</td><td>6.635.642.687</td></tr><tr><td></td><td>59.707.184.828</td><td>41.625.341.201</td></tr></table>
+
+39. (Hoàn nhập)/chi phí dự phòng tài sản tài chính, xử lý tổn thất các khoản phải thu khó đòi và lỗ suy giảm tài sản tài chính và chi phí đi vay
+
+<table><tr><td></td><td>Năm 2025VND</td><td>Năm 2024VND</td></tr><tr><td>(Hoàn nhập)/chi phí dự phòng phải thu và dự thu khó đòi về cổ tức, tiền lãi từ các tài sản tài chính AFS</td><td>(35.296.936.006)</td><td>27.774.407.522</td></tr><tr><td>Dự phòng suy giảm giá trị các tài sản tài chính</td><td>(70.959.827.357)</td><td>15.845.872.480</td></tr><tr><td>Dự phòng giảm giá các khoản cho vay</td><td>774.281.629</td><td>-</td></tr><tr><td></td><td>(105.482.481.734)</td><td>43.620.280.002</td></tr></table>
+
+74
+
+// 1 1 2 3 4 5
+
+===== PAGE 76 =====
+Công ty Cổ phần Chứng khoán MB
+
+Thuyết minh báo cáo tài chính cho năm kết thúc ngày 31 tháng 12 năm 2025 (tiếp theo)
+
+Mẫu B09 - CTCK
+
+(Ban hành theo Thông tư số 334/2016/TT-BTC
+
+ngày 27/12/2016 của Bộ Tài chính)
+
+40. Chi phí hoạt động tự doanh
+
+<table><tr><td></td><td>Năm 2025 VND</td><td>Năm 2024 VND</td></tr><tr><td>Chi phí tiền lương và chi phí khác cho nhân viên</td><td>20.406.573.482</td><td>7.005.618.678</td></tr><tr><td>Chi phí dịch vụ mua ngoài</td><td>2.177.341.944</td><td>1.853.664.964</td></tr><tr><td>Chi phí khấu hao tài sản cố định</td><td>3.661.284.393</td><td>4.543.404.752</td></tr><tr><td>Chi phí khác</td><td>4.299.410.462</td><td>2.229.758.865</td></tr><tr><td></td><td>30.544.610.281</td><td>15.632.447.259</td></tr></table>
+
+41. Chi phí nghiệp vụ môi giới chứng khoán
+
+<table><tr><td></td><td>Năm 2025VND</td><td>Năm 2024VND</td></tr><tr><td>Phí giao dịch chứng khoán môi giới</td><td>225.402.733.479</td><td>145.710.823.602</td></tr><tr><td>Chi phí tiền lương và các chi phí khác cho nhân viên</td><td>231.705.936.248</td><td>177.298.339.694</td></tr><tr><td>Chi phí dịch vụ mua ngoài</td><td>52.186.204.972</td><td>49.417.710.573</td></tr><tr><td>Chi phí lương kinh doanh cộng tác viên kinh doanh và các khoản chi khác</td><td>256.699.611.685</td><td>145.015.088.331</td></tr><tr><td>Chi phí sửa lỗi giao dịch, lỗi khác hoạt động môi giới</td><td>112.898.633</td><td>14.644.790</td></tr><tr><td></td><td>766.107.385.017</td><td>517.456.606.990</td></tr></table>
+
+42. Chi phí các hoạt động khác
+
+<table><tr><td></td><td>Năm 2025VND</td><td>Năm 2024VND</td></tr><tr><td>Chi phí dự phòng phải thu khó đòi về cung cấp dịch vụ kinh doanh chứng khoán</td><td>775.900.012</td><td>211.599.987</td></tr></table>
+
+75
+
+11±1 12 ≦ = 1≈1
+
+===== PAGE 77 =====
+Công ty Cổ phần Chứng khoán MB
+
+Thuyết minh báo cáo tài chính cho năm kết thúc ngày 31 tháng 12 năm 2025 (tiếp theo)
+
+Mẫu B09 - CTCK
+
+(Ban hành theo Thông tư số 334/2016/TT-BTC
+
+ngày 27/12/2016 của Bộ Tài chính)
+
+43. Chi phí lãi vay, lãi trái phiếu phát hành
+
+<table><tr><td></td><td>Năm 2025 VND</td><td>Năm 2024 VND</td></tr><tr><td>Chi phí lãi vay</td><td>749.689.794.539</td><td>468.655.656.501</td></tr><tr><td>Chi phí lãi trái phiếu phát hành</td><td>85.190.581.377</td><td>59.497.407.040</td></tr><tr><td>Chi phí hoa hồng bán trái phiếu và huy động vốn</td><td>9.473.605.827</td><td>13.094.810.906</td></tr><tr><td></td><td>844.353.981.743</td><td>541.247.874.447</td></tr></table>
+
+44. Chi phí quản lý công ty chứng khoán
+
+<table><tr><td></td><td>Năm 2025VND</td><td>Năm 2024VND</td></tr><tr><td>Lương và các khoản phúc lợi</td><td>196.569.901.110</td><td>155.469.741.557</td></tr><tr><td>Bảo hiểm xã hội, bảo hiểm y tế, kinh phí công đoàn,bảo hiểm thất nghiệp</td><td>4.381.990.000</td><td>3.746.172.500</td></tr><tr><td>Chi phí công cụ, dụng cụ</td><td>1.350.552.566</td><td>2.187.232.889</td></tr><tr><td>Chi phí khấu hao tài sản cố định</td><td>8.520.872.608</td><td>12.609.079.972</td></tr><tr><td>Chi phí thuế, phí, lệ phí</td><td>60.519.435</td><td>83.209.740</td></tr><tr><td>Chi phí dịch vụ mua ngoài</td><td>30.587.367.664</td><td>26.246.234.914</td></tr><tr><td>Chi phí dự phòng</td><td>-</td><td>95.000.000</td></tr><tr><td>Chi phí khác</td><td>39.262.954.255</td><td>39.261.768.938</td></tr><tr><td></td><td>280.734.157.638</td><td>239.698.440.510</td></tr></table>
+
+45. Thu nhập khác
+
+<table><tr><td></td><td>Năm 2025VND</td><td>Năm 2024VND</td></tr><tr><td>Thu các khoản nợ khó đòi đã xử lý, xoá số</td><td>1.748.840.157</td><td>4.057.148.560</td></tr><tr><td>Thu tiền được phạt vi phạm hợp đồng</td><td>200.000.000</td><td>-</td></tr><tr><td>Thu về nhượng bán, thanh lý tài sản cố định</td><td>305.076.625</td><td>386.818.182</td></tr><tr><td>Thu lãi phạt do chậm thanh toán lãi trái phiếu</td><td>13.154.763.840</td><td>-</td></tr><tr><td>Truy thu hoa hồng môi giới</td><td>2.973.266.119</td><td>-</td></tr><tr><td>Thu nhập khác</td><td>500.318.695</td><td>416.661.661</td></tr><tr><td></td><td>18.882.265.436</td><td>4.860.628.403</td></tr></table>
+
+76
+
+11. 工 一 公
+
+===== PAGE 78 =====
+Công ty Cổ phần Chứng khoán MB
+
+Thuyết minh báo cáo tài chính cho năm kết thúc ngày 31 tháng 12 năm 2025 (tiếp theo)
+
+Mẫu B09 - CTCK
+
+(Ban hành theo Thông tư số 334/2016/TT-BTC
+
+ngày 27/12/2016 của Bộ Tài chính)
+
+46. Thuế thu nhập doanh nghiệp
+
+(a) Ghi nhận trong Báo cáo kết quả hoạt động
+
+<table><tr><td></td><td>Năm 2025 VND</td><td>Năm 2024 VND</td></tr><tr><td>Chi phí thuế TNDN hiện hành</td><td>275.779.864.165</td><td>188.516.830.206</td></tr><tr><td>Năm hiện hành</td><td>275.779.864.165</td><td>188.516.830.206</td></tr><tr><td>Chi phí/(lợi ích) thuế TNDN hoãn lại</td><td></td><td></td></tr><tr><td>Phát sinh/(hoàn nhập) các chênh lệch tạm thời</td><td>8.353.470.484</td><td>(1.425.961.836)</td></tr><tr><td></td><td>284.133.334.649</td><td>187.090.868.370</td></tr></table>
+
+(b) Đối chiếu thuế suất thực tế
+
+<table><tr><td></td><td>Năm 2025VND</td><td>Năm 2024VND</td></tr><tr><td>Lợi nhuận kế toán trước thuế</td><td>1.415.006.331.708</td><td>930.644.050.935</td></tr><tr><td colspan="3">Điều chỉnh cho các khoản</td></tr><tr><td>Chi phí không được khấu trừ thuế</td><td>23.503.139.348</td><td>13.325.158.296</td></tr><tr><td>Thu nhập từ cổ tức</td><td>(17.842.797.813)</td><td>(8.461.045.432)</td></tr><tr><td>Điều chỉnh khác</td><td>-</td><td>(53.821.950)</td></tr><tr><td>Thu nhập tính thuế thu nhập doanh nghiệp</td><td>1.420.666.673.243</td><td>935.454.341.849</td></tr><tr><td>Chi phí thuế TNDN ước tính trong năm</td><td>284.133.334.649</td><td>187.090.868.370</td></tr><tr><td>Chi phí thuế thu nhập doanh nghiệp</td><td>284.133.334.649</td><td>187.090.868.370</td></tr></table>
+
+(c) Thuế suất áp dụng
+
+Công ty có nghĩa vụ phải nộp cho Nhà nước thuế thu nhập theo mức thuế suất bằng 20% trên lợi nhuận tính thuế. Việc tính thuế thu nhập doanh nghiệp phụ thuộc vào sự xem xét và chấp thuận của cơ quan thuế.
+
+77
+
+===== PAGE 79 =====
+Công ty Cổ phần Chứng khoán MB
+
+Thuyết minh báo cáo tài chính cho năm kết thúc ngày 31 tháng 12 năm 2025 (tiếp theo)
+
+Mẫu B09 - CTCK
+
+(Ban hành theo Thông tư số 334/2016/TT-BTC
+
+ngày 27/12/2016 của Bộ Tài chính)
+
+47. Lãi trên cổ phiếu
+
+Lãi cơ bản trên cổ phiếu
+
+Việc tính toán lãi cơ bản trên cổ phiếu cho năm kết thúc ngày 31 tháng 12 năm 2025 được dựa trên số lợi nhuận thuộc về cổ đông phổ thông và số lượng cổ phiếu phổ thông bình quân gia quyền, chỉ tiết như sau:
+
+(a) Lợi nhuận đề tính lãi cơ bản trên cổ phiếu
+
+<table><tr><td></td><td>Năm 2025 VND</td><td>Năm 2024 VND</td></tr><tr><td>Lợi nhuận thuần trong năm</td><td>1.130.872.997.059</td><td>743.553.182.565</td></tr><tr><td>Số phân bổ vào quỹ khen thưởng, phúc lợi (*)</td><td>(67.852.379.824)</td><td>(44.613.190.954)</td></tr><tr><td>Lợi nhuận thuần thuộc về cổ đông phổ thông</td><td>1.063.020.617.235</td><td>698.939.991.611</td></tr></table>
+
+(*) Tại ngày 31 tháng 12 năm 2025, Công ty ước tính rằng số phân bổ vào quỹ khen thưởng, phúc lợi từ lợi nhuận của năm hiện hành bằng 6% lợi nhuận sau thuế năm 2025.
+
+78
+
+===== PAGE 80 =====
+Công ty Cổ phần Chứng khoán MB
+
+Thuyết minh báo cáo tài chính cho năm kết thúc ngày 31 tháng 12 năm 2025 (tiếp theo)
+
+Mẫu B09 - CTCK
+
+(Ban hành theo Thông tư số 334/2016/TT-BTC
+
+ngày 27/12/2016 của Bộ Tài chính)
+
+(b) Số cổ phiếu phổ thông bình quân gia quyền
+
+<table><tr><td rowspan="2"></td><td>Năm 2025</td><td>Năm 2024(Điều chỉnh lại)</td><td>Năm 2024(Theo báo cáotrước đây)</td></tr><tr><td>Số cổ phiếu</td><td>Số cổ phiếu</td><td>Số cổ phiếu</td></tr><tr><td>Số cổ phiếu phổ thông đã phát hành năm trước mang sang</td><td>572.782.940</td><td>437.639.552</td><td>437.639.552</td></tr><tr><td>Ảnh hưởng thực hiện bán cổ phiếu quỹ làm tăng cổ phiếu có quyền biểu quyết</td><td>-</td><td>298</td><td>298</td></tr><tr><td>Ảnh hưởng của việc phát hành cổ phiếu ra công chúng cho cổ đông hiện hữu trong năm 2024</td><td>-</td><td>80.071.253</td><td>80.071.253</td></tr><tr><td>Ảnh hưởng của việc phát hành cổ phiếu riêng lẻ cho nhà đầu tư chứng khoán chuyên nghiệp trong năm 2024</td><td>-</td><td>1.617.101</td><td>1.617.101</td></tr><tr><td>Ảnh hưởng của việc phát hành cổ phiếu ra công chúng cho cổ đông hiện hữu năm 2025 (*)</td><td>60.999.404</td><td>60.999.404</td><td>-</td></tr><tr><td>Ảnh hưởng của việc phát hành cổ phiếu ra công chúng cho cổ đông hiện hữu từ nguồn vốn thẳng dư vốn cổ phần trong năm 2025 (**)</td><td>17.179.853</td><td>17.179.853</td><td>-</td></tr><tr><td>Số bình quân gia quyền của cổ phiếu phổ thông trong năm</td><td>650.962.197</td><td>597.507.461</td><td>519.328.204</td></tr></table>
+
+(*) Trong năm 2025, Công ty đã phát hành 68.733.953 cổ phiếu phổ thông cho các cổ đông hiện hữu của Công ty với giá là 10.000 VND/cổ phiếu, thấp hơn giá thị trường của cổ phiếu đang lưu hành. Đây được coi là có yếu tố thường trong việc phát hành cổ phiếu, công ty thực hiện điều chỉnh số lượng cổ phiếu bình quân gia quyền từ ảnh hưởng của sự kiện trên.
+
+(**) Theo chuẩn mục Kế toán Việt Nam số 30 – Lãi trên cổ phiếu, số lượng bình quân gia quyền cổ phiếu phổ thông đang lưu hành trong kỳ hiện tại và tất cả các kỳ trình bày phải được điều chỉnh cho các sự kiện tạo ra sự thay đổi về số lượng cổ phiếu phổ thông mà không dẫn đến thay đổi về nguồn. Công ty thực hiện điều chỉnh số lượng cổ phiếu bình quân gia quyền từ ảnh hưởng của sự kiện trên.
+
+79
+
+===== PAGE 81 =====
+Công ty Cổ phần Chứng khoán MB
+
+Thuyết minh báo cáo tài chính cho năm kết thúc ngày 31 tháng 12 năm 2025 (tiếp theo)
+
+Mẫu B09 - CTCK
+
+(Ban hành theo Thông tư số 334/2016/TT-BTC
+
+ngày 27/12/2016 của Bộ Tài chính)
+
+(c) Lãi cơ bản trên cổ phiếu
+
+<table><tr><td></td><td>Năm 2025</td><td>Năm 2024(Điều chỉnh lại)</td><td>Năm 2024(Theo báo cáotrước đây)</td></tr><tr><td>Lãi cơ bản trên cổ phiếu(VND/cổ phiếu)</td><td>1.633</td><td>1.170</td><td>1.346</td></tr></table>
+
+(d) Điều chỉnh lại số cổ phiếu bình quân gia quyền và lãi cơ bản trên cổ phiếu cho năm 2024
+
+Trong năm 2025, Công ty đã phát hành 68.733.953 cổ phiếu phổ thông cho các cổ đông hiện hữu của Công ty với giá là 10.000 VND/cổ phiếu, thấp hơn giá thị trường của cổ phiếu đang lưu hành. Do đó, đây được coi là có yếu tố thường trong việc phát hành cổ phiếu. Bên cạnh đó, trong năm 2025, Công ty cũng đã phát hành 17.179.853 cổ phiếu để tăng vốn cổ phần từ thẳng dư vốn cổ phần.
+
+Theo đó, số lượng cổ phiếu phổ thông bình quân gia quyền của năm 2024 cũng được điều chỉnh tương ứng để tính toán lãi cơ bản trên cổ phiếu cho năm 2024.
+
+Lãi cơ bản trên cổ phiếu cho năm 2024 được điều chỉnh lại như sau:
+
+<table><tr><td></td><td>Số cổ phiếu phổ thông bình quân gia quyền</td><td>Lãi cơ bản trên cổ phiếu VND</td></tr><tr><td>Số báo cáo trước đây</td><td>519.328.204</td><td>1.346</td></tr><tr><td>Ảnh hưởng của việc phát hành cổ phiếu ra công chúng cho cổ đông hiện hữu năm 2025 (*)</td><td>60.999.404</td><td>(133)</td></tr><tr><td>Ảnh hưởng của việc phát hành cổ phiếu ra công chúng cho cổ đông hiện hữu từ nguồn vốn thăng dư vốn cổ phần trong năm 2025 (**)</td><td>17.179.853</td><td>(43)</td></tr><tr><td></td><td>597.507.461</td><td>1.170</td></tr></table>
+
+80
+
+===== PAGE 82 =====
+Công ty Cổ phần Chứng khoán MB
+
+Thuyết minh báo cáo tài chính cho năm kết thúc ngày 31 tháng 12 năm 2025 (tiếp theo)
+
+Mẫu B09 - CTCK
+
+(Ban hành theo Thông tư số 334/2016/TT-BTC
+
+ngày 27/12/2016 của Bộ Tài chính)
+
+48. Các giao dịch chủ yếu với các bên liên quan
+
+Trong quá trình hoạt động kinh doanh, Công ty có thực hiện các giao dịch với các bên liên quan như sau:
+
+<table><tr><td>Danh sách bên liên quan</td><td>Mối quan hệ</td></tr><tr><td>Ngân hàng TMCP Quân độiCông ty Cổ phần Quản lý Quỹ đầu tư MBCông ty TNHH Quản lý nợ và Khai thác tài sản</td><td>Ngân hàng mẹCông ty có cùng Ngân hàng mẹ</td></tr><tr><td>Ngân hàng TMCP Quân độiCông ty TNHH Bảo hiểm Nhân thọ MB AgeasTổng Công ty Cổ phần Bảo hiểm Quân độiCông ty Tài chính TNHH MB Shinsei</td><td>Công ty có cùng Ngân hàng mẹCông ty có cùng Ngân hàng mẹCông ty có cùng Ngân hàng mẹ</td></tr><tr><td>Ngân hàng TNHH MTV Việt Nam Hiện ĐạiHội đồng Quản trị, Ban Tổng Giám đốc và Ban Kiểm soát</td><td>Công ty có cùng Ngân hàng mẹ</td></tr></table>
+
+Số dư với các bên liên quan tại ngày 31 tháng 12 năm 2025 và ngày 31 tháng 12 năm 2024, và giá trị các giao dịch cho năm kết thúc ngày 31 tháng 12 năm 2025 và cho năm kết thúc ngày 31 tháng 12 năm 2025 như sau:
+
+<table><tr><td rowspan="2"></td><td>31/12/2025VND</td><td>31/12/2024VND</td></tr><tr><td colspan="2">Phải thu/(Phải trả)</td></tr><tr><td colspan="3">Ngân hàng TMCP Quân đội</td></tr><tr><td>Tiền gửi thanh toán</td><td>2.406.545.833.877</td><td>1.636.801.278.124</td></tr><tr><td>Tiền gửi có kỳ hạn</td><td>605.000.000.000</td><td>757.000.000.000</td></tr><tr><td>Lãi dự thu tiền gửi</td><td>3.999.643.839</td><td>3.223.553.428</td></tr><tr><td>Tiền gửi giao dịch của Nhà đầu tư</td><td>654.885.710.639</td><td>242.856.386.672</td></tr><tr><td>Phải thu phí quản lý tài sản trên tài khoản giao dịch chứng khoán của khách hàng</td><td>91.132.325</td><td>91.132.325</td></tr><tr><td>Phải trả liên quan đến hợp đồng hợp tác cho vay thanh toán tiền mua chứng khoán đã khớp lệnh và/hoặc cho vay ứng trước tiền bán</td><td>(1.866.327.728)</td><td>(1.030.637.741)</td></tr><tr><td>Doanh thu ghi nhận trước tiền quản lý cổ đông</td><td>-</td><td>(45.161.291)</td></tr><tr><td colspan="3">Công ty TNHH Quản lý nợ và Khai thác tài sản Ngân hàng TMCP Quân đội</td></tr><tr><td>Đặt cọc thuê văn phòng</td><td>1.981.830.756</td><td>1.951.096.628</td></tr><tr><td>Phải trả chi phí dịch vụ và thuê văn phòng</td><td>(9.479.861)</td><td>-</td></tr><tr><td colspan="3">Tổng Công ty Cổ phần Bảo hiểm Quân đội</td></tr><tr><td>Phải trả phí tư vấn</td><td>-</td><td>(100.000.000)</td></tr><tr><td colspan="3">Công ty TNHH Bảo hiểm Nhân thọ MB Ageas</td></tr><tr><td>Phải thu hoạt động môi giới chứng khoán</td><td>-</td><td>9.977.300</td></tr><tr><td>Trả trước phí bảo hiểm nhân thọ</td><td>1.820.000.000</td><td>-</td></tr><tr><td colspan="3">Công ty Tài chính TNHH MB Shinsei</td></tr><tr><td>Phải trả tiền vay</td><td>-</td><td>(133.000.000.000)</td></tr><tr><td>Lãi dự trả tiền vay</td><td>-</td><td>(2.960.616.439)</td></tr><tr><td>Phải trả khác</td><td>(25.000.013)</td><td>(52.272.737)</td></tr></table>
+
+81
+
+// モノ 天 0/601
+
+===== PAGE 83 =====
+Công ty Cổ phần Chứng khoán MB
+
+Thuyết minh báo cáo tài chính cho năm kết thúc ngày 31 tháng 12 năm 2025 (tiếp theo)
+
+<table><tr><td rowspan="3"></td><td colspan="2">Mẫu B09 - CTCK(Ban hành theo Thông tư số 334/2016/TT-BTC ngày 27/12/2016 của Bộ Tài chính)</td></tr><tr><td>31/12/2025VND</td><td>31/12/2024VND</td></tr><tr><td colspan="2">Phải thu/(Phải trả)</td></tr><tr><td colspan="3">Công ty Cổ phần Quản lý Quỹ đầu tư MB</td></tr><tr><td>Phải thu phí duy trì tài khoản</td><td>7.203.729</td><td>42.427</td></tr><tr><td>Phải thu hoạt động môi giới chứng khoán</td><td>670.600</td><td>753.100</td></tr><tr><td colspan="3">Ngân hàng TNHH MTV Việt Nam Hiện Đại</td></tr><tr><td>Tiền gửi thanh toán của công ty</td><td>19.809.801</td><td>20.331.599</td></tr><tr><td>Tiền gửi giao dịch của Nhà đầu tư</td><td>446.314.946</td><td>50.337.068.900</td></tr><tr><td>Phải trả tiền vay</td><td>-</td><td>(50.000.000.000)</td></tr><tr><td>Lãi dự trả tiền vay</td><td>-</td><td>(23.013.699)</td></tr></table>
+
+<table><tr><td rowspan="2"></td><td>Năm 2025VND</td><td>Năm 2024VND</td></tr><tr><td colspan="2">Giao dịch</td></tr><tr><td colspan="3">Ngân hàng TMCP Quân đội</td></tr><tr><td>Thu lãi tiền gửi không kỳ hạn và có kỳ hạn</td><td>37.337.462.819</td><td>38.897.109.037</td></tr><tr><td>Thu nhập phí quản lý cổ đông</td><td>617.888.564</td><td>604.838.709</td></tr><tr><td>Thu nhập từ hợp đồng hợp tác cho vay thanh toán tiền mua chứng khoán đã khớp lệnh và/hoặc cho vay ứng trước tiền bán</td><td>49.442.461.338</td><td>34.722.025.948</td></tr><tr><td>Thu nhập phí giao dịch</td><td>1.563.950.705</td><td>1.220.298.286</td></tr><tr><td>Thu nhập phí tư vấn phát hành trái phiếu</td><td>1.099.281.600</td><td>1.827.276.800</td></tr><tr><td>Trả cổ tức bằng tiền</td><td>(524.828.683.200)</td><td>(418.754.654.400)</td></tr><tr><td colspan="3">Công ty TNHH Quản lý nợ và Khai thác tài sản Ngân hàng TMCP Quân đội</td></tr><tr><td>Chi phí tiền điện và thuê văn phòng</td><td>(24.548.797.935)</td><td>(24.085.386.433)</td></tr><tr><td colspan="3">Công ty Tài chính TNHH MB Shinsei</td></tr><tr><td>Thu nhập phí đại lý lưu ký và thanh toán trái phiếu</td><td>27.272.724</td><td>27.272.724</td></tr><tr><td>Chi phí lãi chứng chỉ tiền gửi</td><td>-</td><td>(113.013.699)</td></tr><tr><td>Chi phí lãi vay</td><td>(331.589.040)</td><td>(3.029.657.535)</td></tr><tr><td colspan="3">Công ty Cổ phần Quản lý Quỹ đầu tư MB</td></tr><tr><td>Thu nhập phí dịch vụ lưu ký, phí duy trì tài khoản và phí chuyển khoản giao dịch chứng khoán</td><td>459.442.225</td><td>317.447.107</td></tr><tr><td>Thu nhập phí phân phối chứng chỉ quỹ</td><td>55.946.704</td><td>-</td></tr><tr><td>Thu nhập phí duy trì tài khoản</td><td>4.607.742</td><td>147.657</td></tr><tr><td colspan="3">Tổng Công ty Cổ phần Bảo hiểm Quân đội</td></tr><tr><td>Doanh thu hoạt động tư vấn tài chính</td><td>230.000.000</td><td>-</td></tr><tr><td>Chi phí bảo hiểm sức khoẻ và bảo hiểm xe</td><td>(1.815.262.833)</td><td>(1.751.123.494)</td></tr></table>
+
+82
+
+11. 2. 3. 4. 5. 6. 7. 8. 9. 10. 11
+
+===== PAGE 84 =====
+Công ty Cổ phần Chứng khoán MB
+
+Thuyết minh báo cáo tài chính cho năm kết thúc ngày 31 tháng 12 năm 2025 (tiếp theo)
+
+Mẫu B09 - CTCK
+
+(Ban hành theo Thông tư số 334/2016/TT-BTC
+
+ngày 27/12/2016 của Bộ Tài chính)
+
+<table><tr><td>Năm 2025VND</td><td>Năm 2024VND</td></tr></table>
+
+Giao dịch
+
+Thù lao và tiền lương của người quản lý chủ chốt
+
+<table><tr><td colspan="3">Thành viên Hội đồng Quản trị</td></tr><tr><td>Thù lao</td><td>1.884.000.000</td><td>1.884.000.000</td></tr><tr><td>Ông Lê Viết Hải – Chủ tịch</td><td>780.000.000</td><td>780.000.000</td></tr><tr><td>Ông Phan Phương Anh – Phó chủ tịch</td><td>312.000.000</td><td>312.000.000</td></tr><tr><td>Ông Phạm Thế Anh – Thành viên HĐQT độc lập</td><td>360.000.000</td><td>360.000.000</td></tr><tr><td>Bà Nguyễn Minh Hằng – Thành viên</td><td>216.000.000</td><td>216.000.000</td></tr><tr><td>Ông Phạm Xuân Thanh – Thành viên</td><td>216.000.000</td><td>216.000.000</td></tr><tr><td colspan="3">Tổng Giám đốc và các Thành viên</td></tr><tr><td colspan="3">Ban điều hành</td></tr><tr><td>Tiền lương</td><td>9.042.900.908</td><td>8.621.150.455</td></tr><tr><td colspan="3">Ban Kiểm soát</td></tr><tr><td>Tiền lương</td><td>1.368.000.000</td><td>1.368.000.000</td></tr></table>
+
+49. Cam kết thuê hoạt động
+
+<table><tr><td></td><td>31/12/2025VND</td><td>31/12/2024VND</td></tr><tr><td>Đến 1 năm</td><td>22.448.964.744</td><td>22.422.348.443</td></tr><tr><td>Từ 1 đến 5 năm</td><td>11.933.072.482</td><td>15.663.879.343</td></tr><tr><td></td><td>34.382.037.226</td><td>38.086.227.786</td></tr></table>
+
+50. Sự kiện sau ngày kết thúc kỳ kế toán năm
+
+Sau ngày kết thúc kỳ kế toán năm, Công ty đã hoàn thành việc phát hành cổ phiếu theo chương trình lựa chọn cho người lao động. Theo Báo cáo kết quả phát hành số 31/MBS-BC ngày 26 tháng 1 năm 2026 của Công ty và Công văn số 972/UBCK/QLKD ngày 29 tháng 1 năm 2026 của Ủy ban Chứng khoán Nhà nước về tài liệu báo cáo kết quả phát hành cổ phiếu theo chương trình lựa chọn cho người lao động của Công ty, số lượng cổ phiếu Công ty thực hiện phát hành thêm theo chương trình lựa chọn cho người lao động là 8.592.194 cổ phiếu.
+
+Ngoài sự kiện trên, cho đến ngày lập báo cáo tài chính này, không có sự kiện nào phát sinh sau ngày 31 tháng 12 năm 2025 yêu cầu phải được điều chỉnh hay trình bày trong báo cáo tài chính của Công ty.
+
+83
+
+111 1237 10
+
+===== PAGE 85 =====
+Công ty Cổ phần Chứng khoán MB
+
+Thuyết minh báo cáo tài chính cho năm kết thúc ngày 31 tháng 12 năm 2025 (tiếp theo)
+
+Mẫu B09 - CTCK
+
+(Ban hành theo Thông tư số 334/2016/TT-BTC
+
+ngày 27/12/2016 của Bộ Tài chính)
+
+51. Phê duyệt báo cáo tài chính
+
+Báo cáo tài chính được Ban Tổng Giám đốc Công ty phê duyệt vào ngày
+
+Người lập:
+
+Tạ Duy Chung
+Kế toán tổng hợp
+
+23-02-2026
+
+Người kiểm soát:
+
+Nguyễn Văn Học
+Kế toán trường
+
+Phạm Thị Kim Ngân
+Phó Tổng Giám đốc
+
+Phan Phương Anh
+Tổng Giám đốc
+
+84

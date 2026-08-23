@@ -1,0 +1,1393 @@
+===== PAGE 1 =====
+Công ty Cổ phần Nhựa An Phát Xanh
+
+Báo cáo tài chính riêng
+
+Cho năm tài chính kết thúc ngày 31 tháng 12 năm 2020
+
+===== PAGE 2 =====
+Công ty Cổ phần Nhựa An Phát Xanh
+
+MỤC LỤC
+
+<table><tr><td></td><td>Trang</td></tr><tr><td>Thông tin chung</td><td>1 - 2</td></tr><tr><td>Báo cáo của Ban Tổng Giám đốc</td><td>3 - 4</td></tr><tr><td>Báo cáo kiểm toán đốc lập</td><td>5 - 6</td></tr><tr><td>Bàng cân đối kế toán riêng</td><td>7 - 8</td></tr><tr><td>Báo cáo kết quả hoạt động kinh doanh riêng</td><td>9</td></tr><tr><td>Báo cáo lưu chuyển tiền tệ riêng</td><td>10 - 11</td></tr><tr><td>Thuyết minh báo cáo tài chính riêng</td><td>12 - 49</td></tr></table>
+
+===== PAGE 3 =====
+Công ty Cổ phần Nhựa An Phát Xanh
+
+THÔNG TIN CHUNG
+
+CÔNG TY
+
+Công ty Cổ phần Nhưa An Phát Xanh ("Công ty") là một công ty cổ phần được thành lập theo Luật Doanh nghiệp Việt Nam theo Giấy Chứng nhận Đăng ký Doanh nghiệp số 0403000550 do Sở Kế hoạch và Đầu tư tính Hải Dương cấp ngày 9 tháng 3 năm 2007, và theo các Giấy Chứng nhận Đăng ký Doanh nghiệp điều chỉnh sau đó, với lần điều chỉnh gần nhất là lần thứ 30 ngày 5 tháng 11 năm 2020.
+
+Cổ phiếu của Công ty được niêm yết và giao dịch chính thức trên Sở Giao dịch Chứng Khoán Thành phố Hồ Chí Minh (HOSE) với mã chứng khoán là AAA từ tháng 11 năm 2016.
+
+Hoạt động chính trong năm hiện tại của Công ty là sản xuất, kinh doanh các sản phẩm nhựa (PP, PE), bao bi nhựa các loại, và mua bán máy móc, vật tư, nguyên liệu sản phẩm nhựa.
+
+Công ty có trụ sở chính tại Lô CN11+CN12, cum Công nghiệp An Đồng, thị trân Nam Sách, huyện Nam Sách, tỉnh Hải Dương, Việt Nam và Văn phòng đai diện tại Hà Nội: Số B9, ngách 6/106, đường Hoàng Quốc Việt, phường Nghĩa Đỏ, quận Cầu Giấy, thành phố Hà Nội, Việt Nam.
+
+HỘI ĐỒNG QUẢN TRỊ
+
+Các thành viên Hội đồng Quản trị trong năm và vào ngày lập bảo cáo này như sau;
+
+<table><tr><td>Ông Phạm Ảnh Dương</td><td>Chủ tịch</td></tr><tr><td>Ông Nguyễn Lê Trung</td><td>Thành viên</td></tr><tr><td>Ông Phạm Hoàng Việt</td><td>Thành viên</td></tr><tr><td>Bà Hòa Thị Thu Hà</td><td>Thành viên</td></tr><tr><td>Ông Đình Xuân Cường</td><td>Thành viên</td></tr></table>
+
+BAN TỔNG GIÁM ĐỐC
+
+Các thành viên Ban Tổng Giám đốc trong năm và vào ngày lập báo cáo này như sau.
+
+<table><tr><td>Ông Nguyễn Lê Trung</td><td>Tổng Giám đốc</td><td></td></tr><tr><td>Bà Hòa Thị Thu Hà</td><td>Phó Tổng Giám đốc</td><td></td></tr><tr><td>Bà Trần Thị Thoân</td><td>Phó Tổng Giám đốc</td><td></td></tr><tr><td>Ông Ngô Văn Thụ</td><td>Phó Tổng Giám đốc</td><td></td></tr><tr><td>Bà Lâm Thị Hiền</td><td>Phó Tổng Giám đốc</td><td>Bố nhiễm ngày 3 tháng 10 năm 2020</td></tr><tr><td>Bà Đặng Thị Quỳnh Phương</td><td>Phó Tổng Giám đốc</td><td>Miễn nhiễm ngày 18 tháng 8 năm 2020</td></tr></table>
+
+BAN KIÊM SOÁT
+
+Các thành viên Ban Kiểm soát trong năm và vào ngày lập báo cáo này như sau:
+
+<table><tr><td>Bà Nguyễn Thị Giang</td><td>Trường ban</td></tr><tr><td>Bà Nguyễn Thị Phương</td><td>Thành viên</td></tr><tr><td>Bà Văn Thị Lan Anh</td><td>Thành viên</td></tr></table>
+
+1
+
+===== PAGE 4 =====
+Công ty Cổ phần Nhựa An Phát Xanh
+
+THÔNG TIN CHUNG (tiếp theo)
+
+NGƯỜI ĐẠI DIỆN THEO PHÁP LUẬT
+
+Người đại diện theo pháp luật của Công ty trong năm và vào ngày lập báo cáo này là Ông Phạm Ánh Dương, Chủ tịch Hội đồng Quản trị.
+
+Ông Nguyễn Lê Trung, Tổng Giảm đốc, được người đại diện theo pháp luật ủy quyền kỳ bảo cáo tài chính theo Giấy ủy quyền số 0305/2019/UQ ngày 3 tháng 5 năm 2019.
+
+KIÊM TOÁN VIÊN
+
+Công ty Trách nhiệm Hữu hạn Ernst & Young Việt Nam là công ty kiểm toán cho Công ty.
+
+2
+
+===== PAGE 5 =====
+Công ty Cổ phần Nhựa An Phát Xanh
+
+BẢO CÁO CỦA BAN TỔNG GIẢM ĐỐC
+
+Ban Tổng Giám đốc Công ty Cổ phần Nhưa An Phát Xanh ("Công ty") trình bày báo cáo này và báo cáo tài chính riêng của Công ty cho năm tài chính kết thúc ngày 31 tháng 12 năm 2020.
+
+TRÁCH NHIỆM CỦA BAN TỔNG GIÁM ĐỐC ĐỐI VỚI BẢO CẢO TÀI CHÍNH RIÊNG
+
+Ban Tổng Giám đốc chịu trách nhiệm đảm bảo bảo cáo tài chính riêng cho từng năm tài chính của Công ty phân ảnh trung thực và hợp lý tính hình tài chính riêng, kết quả hoạt động kinh doanh riêng và tính hình lưu chuyển tiền tệ riêng của Công ty trong năm. Trong quá trình lập bảo cáo tài chính riêng này, Ban Tổng Giám đốc cần phải:
+
+lựa chọn các chính sách kê toán thích hợp và áp dụng các chính sách này một cách nhất quản;
+
+- thực hiện các đánh giá và ước tính một cách hợp lý và thân trọng;
+
+nếu rõ các chuẩn mục kế toán áp dung cho Công ty có được tuân thủ hay không và tất cả những sai lệch trọng yếu so với những chuẩn mục này đã được trình bày và giải thích trong báo cáo tài chính riêng; và
+
+lập bảo cáo tài chính riêng trên cơ sở nguyên tắc hoạt động liên tục trừ trường hợp không thể cho ràng Công ty sẽ tiếp tục hoạt động.
+
+Ban Tổng Giám đốc chịu trách nhiệm đảm bảo việc các số sách kế toán thích hợp được lưu giữ để phản ảnh tính hình tài chính riêng của Công ty, với mức độ chính xác hợp lý, tại bất kỳ thời điểm nào và đảm bảo rằng các số sách kế toán tuân thủ với chế độ kế toán đã được áp dụng. Ban Tổng Giám đốc cứng chịu trách nhiệm về việc quản lý các tài sản của Công ty và do đó phải thực hiện các biện pháp thích hợp để ngân chắn và phát hiện các hành vi gian lập và những vi phạm khác.
+
+Ban Tổng Giám đốc cam kết đã tuân thủ những yêu cầu nếu trên trong việc lập báo cáo tài chính riêng kèm theo.
+
+CÔNG BÓ CỦA BAN TỔNG GIÁM ĐỐC
+
+Theo ý kiến của Ban Tổng Giám đốc, báo cáo tài chính riêng kèm theo phân ảnh trung thực và hợp lý tính hình tài chính riêng của Công ty vào ngày 31 tháng 12 năm 2020, kết quả hoạt động kinh doanh riêng và tính hình lưu chuyển tiền tệ riêng nom năm tài chính kết thúc cũng ngày, phù hợp với các Chuẩn mực kế toán Việt Nam, Chế đồ kế toàn doanh nghiệp Việt Nam và các quy định pháp lý có liên quan đến việc lập và trình bày bảo cáo tài chính riêng.
+
+Công ty có các công ty con như được trình bày trong bảo cáo tài chính riêng. Công ty đã lập bảo cáo tài chính riêng này nhằm đáp ứng các yêu cầu về công bố thông tin, cụ thể là theo quy định tai Thông tư số 96/2020/TT-BTC - Hương dẫn về việc công bố thông tin trên thị trường chứng khoán. Công theo quy định tại các văn bản này, Công ty cũng đã lập bảo cáo tài chính hợp nhất của Công ty và các công ty con cho năm tài chính kết thúc ngày 31 tháng 12 năm 2020 đề ngày 26 tháng 3 năm 2021.
+
+3
+
+===== PAGE 6 =====
+Công ty Cổ phần Nhựa An Phát Xanh
+
+BẢO CẢO CỦA BAN TỔNG GIÁM ĐỐC (tiếp theo)
+
+CÔNG BỔ CỦA BAN TỔNG GIÁM ĐỐC (tiếp theo)
+
+Người sử dụng báo cáo tài chính riêng nên đọc báo cáo này cũng với báo cáo tài chính hợp nhất nơi trên để có được các thông tin đầy đủ về tinh hình tài chính hợp nhất, kết quả hoạt động kinh doanh hợp nhất và tinh hình lưu chuyển tiền tệ hợp nhất của Công ty và các công ty con.
+
+Hải Dương, Việt Nam
+
+Ngày 26 tháng 3 năm 2021
+
+4
+
+===== PAGE 7 =====
+-
+
+EY
+
+Building a better working world
+
+Ernst & Young Vietnam Limited Tel: +84 24 3831 5100
+8th Floor, CornerStone Building Fax: +84 24 3831 5090
+16 Pian Chu Trinh Street ey.com
+
+Hanoi, S.R. of Vietnam
+
+Số tham chiếu: 61515943/21893678
+
+BÁO CÁO KIÊM TOÁN ĐỘC LẬP
+
+Kinh gửi: Các cổ đông của Công ty Cổ phần Nhựa An Phát Xanh
+
+Chúng tối đã kiểm toán báo cáo tài chính riêng kèm theo của Công ty Cổ phần Nhưa An Phát Xanh ("Công ty") được lập ngày 26 tháng 3 năm 2021 và được trình bày từ trang 7 đến trang 49, bao gồm bảng cân đối kế toán riêng vào ngày 31 tháng 12 năm 2020, báo cáo kết quả hoạt động kinh doanh riêng và báo cáo lưu chuyển tiên tệ riêng cho năm tài chính kết thúc cùng ngày và các thuyết minh bảo cáo tài chính riêng kèm theo.
+
+Trách nhiệm của Ban Tổng Giám đốc Công ty
+
+Ban Tổng Giám đốc Công ty chịu trách nhiệm về việc lập và trình bày trung thực và hợp lý báo cáo tài chính riêng theo các Chuẩn mực kể toán Việt Nam, Chế độ kê toán doanh nghiệp Việt Nam và các quy định pháp lý có liên quan đến việc lập và trình bày báo cáo tài chính riêng và chịu trách nhiệm về kiểm soát nội bộ mà Ban Tổng Giám đốc Công ty xác định là cần thiết để đảm bảo việc lập và trình bày báo cáo tài chính riêng không có sai sốt trọng yêu do gian lần hoặc nhằm lăn.
+
+Trách nhiệm của Kiểm toán viên
+
+Trách nhiệm của chúng tôi là đưa ra ý kiến về báo cáo tài chính riêng dựa trên kết quả của cuộc kiểm toán. Chủng tôi đã tiến hành kiểm toàn theo các Chuẩn mực kiểm toán Việt Nam. Các chuẩn mục này yêu cầu chúng tôi tuân thủ chuẩn mục và các quy định về đạo đức nghề nghiệp, lập kê hoạch và thực hiện cuộc kiểm toán để đạt được sự đảm bảo hợp lý về việc liệu báo cáo tài chính riêng của Công ty có còn sai sót trong yếu hay không.
+
+Công việc kiểm toán bao gồm thực hiện các thủ tục nhằm thu thập các bằng chứng kiểm toàn về các số liệu và thuyết minh trên báo cáo tài chính riêng. Các thủ tục kiểm toán được lựa chọn dựa trên xét đoạn của kiểm toàn viên, bao gồm đánh giá rủi ro có sai sốt trong yếu trong báo cáo tài chính do gian lập hoặc nhằm lẫn. Khi thực hiện đánh giá các rủi ro này, kiểm toàn viên đã xem xét kiểm soát nội bộ của Công ty liên quan đến việc lập và trình bày báo cáo tài chính riêng trung thực, hợp lý nhằm thiết kế các thủ tục kiểm toàn phù hợp với tính hình thực tế, tuy nhiên không nhằm mục đích đưa ra ý kiến về hiệu quả của kiểm soát nội bộ của Công ty. Công việc kiểm toàn cũng bao gồm đánh giá tính thích hợp của các chính sách kế toán được áp dụng và tính hợp lý của các ước tính kế toán của Ban Tổng Giám đốc Công ty cũng như đánh giá việc trình bày tổng thể bảo cáo tài chính riêng.
+
+Chủng tối tin tương rằng các bằng chứng kiểm toán mà chúng tối đã thu thập được là đầy đủ và thích hợp để làm cơ sở cho ý kiến kiểm toán của chúng tối.
+
+A member Term of Ernst & Young Glider, 2018
+
+5
+
+===== PAGE 8 =====
+-
+
+EY
+
+Building a better working world
+
+Y kiến của Kiểm toán viên
+
+Theo ý kiến của chúng tôi, bảo cáo tài chính riêng đã phân ảnh trung thực và hợp lý, trên các khía canh trọng yêu, tính hình tài chính riêng của Công ty tai ngày 31 tháng 12 năm 2020, cũng như kết quả hoạt động kinh doanh riêng và tính hình lưu chuyển tiền tệ riêng cho năm tài chính kết thúc cùng ngày, phù hợp với các Chuẩn mucus kê toán Việt Nam, Chế độ kế toán doanh nghiệp Việt Nam và các quy định pháp lý có liên quan đến việc lập và trình bày bảo cáo tài chính riêng.
+
+Công ty Trách nhiệm Hữu hạn Ernst & Young Việt Nam
+
+Phùng Mạnh Phú
+
+Pho Tóng Giám đốc
+
+Số Giấy CNEKHN kiểm toán: 2598-2018-004-1
+
+Nguyễn Thu Hằng
+
+Kiểm toán viên
+
+Số Giấy CNDKHN kiểm toán: 3342-2020-004-01
+
+Hà Nội, Việt Nam
+
+Ngày 26 tháng 3 năm 2021
+
+A member firm of Ernst & Young (Global Limited)
+
+6
+
+===== PAGE 9 =====
+Công ty Cổ phần Nhựa An Phát Xanh
+
+B01-DN
+
+BÁNG CÁN Đ<|box_end|><|ref_start|> KÊ TOÁN RIÊNG
+
+ngày 31 tháng 12 năm 2020
+
+Don vi hnh: VND
+
+<table><tr><td>Mês số</td><td>TÀI SẢN</td><td>Thuyết minh</td><td>Số cuối năm</td><td>Số đầu năm</td></tr><tr><td>100</td><td>A. TẢI SẢN NGĂN HẠN</td><td></td><td>2.706.717.930.705</td><td>2.648.630.224.106</td></tr><tr><td>110</td><td>I. Tiến và các khoản tương đương đến</td><td rowspan="3">4</td><td>816.523.338.816</td><td>85.809.419.198</td></tr><tr><td>111</td><td>1. Tiến</td><td>179.620.574.162</td><td>80.809.419.198</td></tr><tr><td>112</td><td>2. Các khoản tương đương Bihar</td><td>438.902.765.634</td><td>5.000.000.000</td></tr><tr><td>120</td><td>II. Đầu tư tài chính ngắn hạn</td><td rowspan="2">6</td><td>301.600.000.000</td><td>676.994.753.425</td></tr><tr><td>123</td><td>1. Đầu tư năm giver đến ngày đào hạn</td><td>301.600.000.000</td><td>676.994.753.425</td></tr><tr><td>130</td><td>III. Các khoản phải thu ngắn hạn</td><td></td><td>1.328.600.071.002</td><td>1.138.540.133.675</td></tr><tr><td>131</td><td>1. Phải thu ngắn hạn của khách hàng</td><td>6.1</td><td>483.117.365.403</td><td>707.525.756.273</td></tr><tr><td>132</td><td>2. Trả trước cho người bán ngắn hạn</td><td>6.2</td><td>120.096.382.847</td><td>125.065.137.399</td></tr><tr><td>135</td><td>3. Phải thu về cho vay ngắn hạn</td><td>7</td><td>97.177.390.581</td><td>121.588.000.000</td></tr><tr><td>136</td><td>4. Phải thu ngắn hạn khác</td><td>8</td><td>628.208.672.191</td><td>164.261.240.003</td></tr><tr><td>140</td><td>IV. Hàng tồn kho</td><td rowspan="2">9</td><td>417.238.832.395</td><td>702.743.146.437</td></tr><tr><td>141</td><td>1. Hàng lớn kho</td><td>417.238.832.395</td><td>702.743.146.437</td></tr><tr><td>150</td><td>V. Tài sản ngắn hạn khác</td><td></td><td>41.755.747.492</td><td>45.442.771.370</td></tr><tr><td>151</td><td>1. Chỉ phí trả trước ngắn hạn</td><td rowspan="2">14</td><td>20.272.921.672</td><td>20.311.213.763</td></tr><tr><td>152</td><td>2. Thuế GTGT được khấu từ</td><td>21.462.625.620</td><td>25.131.657.607</td></tr><tr><td>200</td><td>III. TẢI SẢN DẢI HẠN</td><td></td><td>3.575.743.722.599</td><td>3.317.919.838.246</td></tr><tr><td>210</td><td>I. Các khoản phải thu Delhi hạn</td><td></td><td>50.987.169.081</td><td>417.409.868.081</td></tr><tr><td>211</td><td>1. Phải thu khách hàng dài hạn</td><td>8.1</td><td>35.000.000.000</td><td>-</td></tr><tr><td>216</td><td>2. Phải thu dài hạn khác</td><td>8</td><td>15.987.169.081</td><td>417.409.868.081</td></tr><tr><td>220</td><td>II. Tài sản cố định</td><td></td><td>1.457.931.612.105</td><td>1.638.837.844.031</td></tr><tr><td>221</td><td>1. Tài sản cố định hữu hình</td><td>10</td><td>1.381.899.625.855</td><td>1.570.516.806.521</td></tr><tr><td>222</td><td>Nguyễn giá</td><td></td><td>2.428.695.897.783</td><td>2.421.579.112.063</td></tr><tr><td>223</td><td>Giai trị khẩu hao lây kế</td><td></td><td>(1.035.798.271.933)</td><td>(851.062.305.562)</td></tr><tr><td>227</td><td>3. Tài sản cố định vô hành</td><td>11</td><td>66.031.986.250</td><td>66.321.037.510</td></tr><tr><td>228</td><td>Nguyễn giá</td><td></td><td>78.688.750.029</td><td>78.371.572.029</td></tr><tr><td>229</td><td>Giai trị hao mòn lây kế</td><td></td><td>(12.658.763.779)</td><td>(10.050.634.819)</td></tr><tr><td>240</td><td>IV. Tài sản đó dạng dài hạn</td><td></td><td>214.308.114.314</td><td>131.792.632.650</td></tr><tr><td>242</td><td>1. Chỉ phí xây dựng cơ bản dở dang</td><td>12</td><td>214.308.114.314</td><td>131.792.632.650</td></tr><tr><td>250</td><td>IV. Đầu tư tài chính dài hạn</td><td>13</td><td>1.839.372.132.584</td><td>1.107.491.282.000</td></tr><tr><td>251</td><td>1. Đầu tư vào công ty con</td><td></td><td>1.465.294.519.238</td><td>1.107.491.282.000</td></tr><tr><td>252</td><td>2. Đầu tư vào công ty bên doanh, Mên kék</td><td></td><td>360.055.546.231</td><td>-</td></tr><tr><td>253</td><td>3. Đầu tư góp vốn vào đơn vị khác</td><td></td><td>17.353.094.158</td><td>-</td></tr><tr><td>254</td><td>4. Dự phòng đầu tư tài chính dài hạn</td><td></td><td>(3.331.027.043)</td><td>-</td></tr><tr><td>260</td><td>V. Tài sản đầu hạn khác</td><td></td><td>13.144.694.475</td><td>22.388.240.483</td></tr><tr><td>261</td><td>1. Chỉ phí trả trước dài hạn</td><td>14</td><td>13.144.694.475</td><td>22.388.240.483</td></tr><tr><td>270</td><td>TỔNG CỘNG TẢI SẢN</td><td></td><td>6.281.461.653.264</td><td>5.967.480.062.350</td></tr></table>
+
+\( \therefore m = \frac{3}{11} \)
+
+\( ^{*} \)
+
+===== PAGE 10 =====
+Công ty Cổ phần Nhựa An Phát Xanh
+
+B01-DN
+
+BẢNG CẦN ĐỘI KẾ TOÁN RIÊNG (tiếp theo)
+
+ngày 31 tháng 12 năm 2020
+
+Đơn vị tính: VND
+
+<table><tr><td>Mã số</td><td>NGUỒN VỐN</td><td>Thuyết minh</td><td>Số cuối năm</td><td>Số đầu năm</td></tr><tr><td>300</td><td>C. NỘ PHẢI TRẢ</td><td></td><td>2.984.792.771.044</td><td>3.280.730.318.692</td></tr><tr><td>310</td><td>I. Nợ ngắn hạn</td><td></td><td>2.689.123.721.510</td><td>2.423.530.413.550</td></tr><tr><td>311</td><td>1. Phải trả người bán ngắn hạn</td><td>15.1</td><td>415.102.492.838</td><td>503.135.771.188</td></tr><tr><td>312</td><td>2. Người mua trả tiền trước ngắn hạn</td><td>15.2</td><td>49.535.070.294</td><td>29.347.910.167</td></tr><tr><td>313</td><td>3. Thuế và các khoản phải nộp Nhà nước</td><td>16</td><td>13.812.745.067</td><td>15.621.923.090</td></tr><tr><td>314</td><td>4. Phải trả người lao động</td><td></td><td>17.593.718.131</td><td>16.301.590.318</td></tr><tr><td>315</td><td>5. Chỉ phí phải trả ngắn hạn</td><td>17</td><td>6.212.831.306</td><td>5.019.286.713</td></tr><tr><td>319</td><td>6. Phải trả ngắn hạn khác</td><td>18</td><td>5.065.238.775</td><td>4.334.645.023</td></tr><tr><td>320</td><td>7. Vay ngắn hạn</td><td>19</td><td>2.181.799.035.431</td><td>1.849.196.389.367</td></tr><tr><td>322</td><td>8. Quỹ khen thưởng, phúc lợi</td><td>20</td><td>2.589.668</td><td>572.897.684</td></tr><tr><td>330</td><td>II. Nợ dài hạn</td><td></td><td>295.669.049.534</td><td>857.199.905.142</td></tr><tr><td>331</td><td>1. Phải trả người bán dài hạn</td><td>15.1</td><td>37.686.214.789</td><td></td></tr><tr><td>338</td><td>2. Vay dài hạn</td><td>19</td><td>257.982.834.745</td><td>857.199.905.142</td></tr><tr><td>400</td><td>D. VỐN CHỦ SỞ HỮU</td><td></td><td>3.296.668.882.220</td><td>2.686.719.743.658</td></tr><tr><td>410</td><td>I. Vốn chủ sở hữu</td><td>21</td><td>3.296.668.882.220</td><td>2.686.719.743.658</td></tr><tr><td>411</td><td>1. Vốn cổ phần đã phát hành</td><td></td><td>2.217.599.740.000</td><td>1.711.999.760.000</td></tr><tr><td>411a</td><td>- Cổ phiếu phổ thông có quyền biểu quyết</td><td></td><td>2.217.599.740.000</td><td>1.711.999.760.000</td></tr><tr><td>412</td><td>2. Thắng dư vốn cổ phần</td><td></td><td>692.089.189.329</td><td>532.127.689.329</td></tr><tr><td>418</td><td>3. Quỹ đầu tư phát triển</td><td></td><td>72.330.911.673</td><td>60.698.973.459</td></tr><tr><td>420</td><td>4. Quỹ khác thuộc vốn chủ sở hữu</td><td></td><td>11.612.477.781</td><td>11.612.477.781</td></tr><tr><td>421</td><td>5. Lợi nhuận sau thuế chưa phân phối</td><td></td><td>303.036.563.437</td><td>370.280.843.089</td></tr><tr><td>421a</td><td>- Lợi nhuận sau thuế chưa phân phối đến cuối năm trước</td><td></td><td>114.879.509.874</td><td>137.642.078.798</td></tr><tr><td>421b</td><td>- Lợi nhuận sau thuế chưa phân phối năm nay</td><td></td><td>188.157.053.563</td><td>232.638.764.291</td></tr><tr><td>440</td><td>TỔNG CỘNG NGUỒN VỐN</td><td></td><td>6.281.461.653.264</td><td>5.967.450.062.350</td></tr></table>
+
+Đỗ Hoài Linh
+
+Người lập
+
+Nguyễn Thị Thủy Văn
+
+Kế toán trường
+
+Nguyén Lè Trung
+
+Tổng Giám đốc
+
+Hải Dương, Việt Nam
+
+Ngày 26 tháng 3 năm 2021
+
+8
+
+===== PAGE 11 =====
+Công ty Cổ phần Nhựa An Phát Xanh
+
+B02-DN
+
+BẢO CẢO KẾT QUẢ HOẠT ĐỒNG KINH DOANH RIÊNG
+
+cho năm tài chính kết thúc ngày 31 tháng 12 năm 2020
+
+Don v'tinh: VND
+
+<table><tr><td>Mã số</td><td>CHÍ TIÊU</td><td>Thuyết minh</td><td>Năm nay</td><td>Năm trước</td></tr><tr><td>01</td><td>1. Doanh thu bán hàng và cung cấp dịch vụ</td><td>23.1</td><td>4.420.544.498.130</td><td>5.832.863.518.626</td></tr><tr><td>02</td><td>2. Các khoản glâm trừ doanh thu</td><td>23.1</td><td>(203.518.176)</td><td>(9.506.265.699)</td></tr><tr><td>10</td><td>3. Doanh thu thuần về bản hàng và cung cấp dịch vụ</td><td>23.1</td><td>4.420.340.979.954</td><td>5.823.357.252.927</td></tr><tr><td>11</td><td>4. Giá vốn hàng bản và dịch vụ cung cấp</td><td>24</td><td>(3.967.631.838.667)</td><td>(5.316.433.613.535)</td></tr><tr><td>20</td><td>5. Lợi nhuận gộp về bản hàng và cung cấp dịch vụ</td><td></td><td>452.709.141.287</td><td>506.923.639.392</td></tr><tr><td>21</td><td>6. Doanh thu hoạt động tài chính</td><td>23.2</td><td>92.151.767.196</td><td>150.911.134.533</td></tr><tr><td>22</td><td rowspan="2">7. Chi phí tài chính Trong đó: Chi phí lãi vay (không bao gồm chi phí phát hành trái phiếu)</td><td rowspan="2">25</td><td>(153.452.557.050)</td><td>(188.736.761.790)</td></tr><tr><td>23</td><td>(132.516.357.430)</td><td>(157.825.747.640)</td></tr><tr><td>25</td><td>8. Chi phí bán hàng</td><td>26</td><td>(112.060.271.152)</td><td>(117.181.308.381)</td></tr><tr><td>26</td><td>9. Chi phí quản lý doanh nghiệp</td><td>26</td><td>(65.776.675.097)</td><td>(83.373.762.943)</td></tr><tr><td>30</td><td>10. Lợi nhuận thuần từ hoạt động kinh doanh</td><td></td><td>213.571.405.184</td><td>268.542.940.811</td></tr><tr><td>31</td><td>11. Thu nhập khác</td><td></td><td>3.420.207.422</td><td>3.506.377.679</td></tr><tr><td>32</td><td>12. Chi phí khác</td><td></td><td>(3.827.712.030)</td><td>(235.808.673)</td></tr><tr><td>40</td><td>13. (Lỗ) lợi nhuận khác</td><td></td><td>(407.504.608)</td><td>3.270.569.006</td></tr><tr><td>50</td><td>14. Tổng lợi nhuận kế toàn trước thuế</td><td></td><td>213.163.900.576</td><td>271.813.509.817</td></tr><tr><td>51</td><td>15. Chi phí thuế TNDN hiện hành</td><td>28.1</td><td>(25.006.847.013)</td><td>(39.174.745.526)</td></tr><tr><td>60</td><td>16. Lợi nhuận sau thuế TNDN</td><td></td><td>188.157.053.563</td><td>232.638.764.291</td></tr></table>
+
+Đõ Hoai Linh
+
+Người lap
+
+Nguyễn Thị Thủy Văn
+
+Kế toán trường
+
+Nguyeh Lê Trung
+
+Tóng Giám đốc
+
+Hải Dương, Việt Nam
+
+Ngay 26 tháng 3 năm 2021
+
+9
+
+===== PAGE 12 =====
+Công ty Cổ phần Nhựa An Phát Xanh
+
+B03-DN
+
+BÁO CẢO LU'U CHUYÊN TIÊN TẾ RIÊNG
+
+cho năm tài chính kết thúc ngày 31 tháng 12 năm 2020
+
+Đơn vị tính: VND
+
+<table><tr><td>Mã số</td><td>CHỈ TIỀU</td><td>Thuyết minh</td><td>Năm nay</td><td>Năm trước</td></tr><tr><td></td><td>I. LUFU CHUYÊN TIÊN TỪ HOẠT ĐỘNG KINH DOANH</td><td></td><td></td><td></td></tr><tr><td>01</td><td>Lợi nhuận kế toán trước thuế Điều chính cho các khoản:</td><td></td><td>213.163.900.576</td><td>271.813.509.817</td></tr><tr><td>02</td><td>Khấu hao và hao mòn tài sản cố định</td><td></td><td>196.735.573.019</td><td>204.221.743.310</td></tr><tr><td>03</td><td>Dự phòng</td><td></td><td>3.331.027.043</td><td>-</td></tr><tr><td>04</td><td>(Lãi)/lỗ chênh lệch tỷ giả hối đoai do đánh giá lại các khoản mục tiên tế có gốc ngoại tệ</td><td></td><td>(329.144.974)</td><td>5.556.477.890</td></tr><tr><td>05</td><td>Lãi từ hoạt động đầu tư</td><td></td><td>(67.118.322.495)</td><td>(118.202.816.509)</td></tr><tr><td>06</td><td>Chi phí lãi vay (bao gồm chi phí phát hành trái phiếu)</td><td>25</td><td>137.191.721.062</td><td>162.501.111.272</td></tr><tr><td>08</td><td>Lãi từ hoạt động kinh doanh trước thay đổi vốn lưu động</td><td></td><td>482.974.754.231</td><td>525.890.025.780</td></tr><tr><td>09</td><td>Giảm/(tăng) các khoản phải thu</td><td></td><td>166.357.628.811</td><td>(4.763.414.760)</td></tr><tr><td>10</td><td>Giảm/(tăng) hàng tôn kho</td><td></td><td>285.504.314.042</td><td>(121.628.662.535)</td></tr><tr><td>11</td><td>(Giảm)/tăng các khoản phải trả</td><td></td><td>(34.792.735.204)</td><td>52.899.540.255</td></tr><tr><td>12</td><td>Giảm chi phí trả trước</td><td></td><td>9.281.837.899</td><td>9.545.254.393</td></tr><tr><td>14</td><td>Tiền lãi vay đã trả</td><td></td><td>(131.289.596.398)</td><td>(159.184.274.799)</td></tr><tr><td>15</td><td>Thuế thu nhập doanh nghiệp đã nộp</td><td>16</td><td>(33.886.870.362)</td><td>(34.799.592.814)</td></tr><tr><td>17</td><td>Tiền chi khác cho hoạt động kinh doanh</td><td>20</td><td>(33.139.735.017)</td><td>(33.613.832.680)</td></tr><tr><td>20</td><td>Lưu chuyển tiền thuần từ hoạt động kinh doanh</td><td></td><td>711.009.598.002</td><td>234.345.042.840</td></tr><tr><td></td><td>II. LUFU CHUYÊN TIÊN TỪ HOẠT ĐỘNG ĐẦU TƯ</td><td></td><td></td><td></td></tr><tr><td>21</td><td>Tiền chi để mua sầm, xảy dụng tài sản cố định (TSCĐ) và các tài sản dài hạn khác</td><td></td><td>(59.962.007.977)</td><td>(148.896.806.009)</td></tr><tr><td>22</td><td>Tiền thu do thanh lý, nhượng bán TSCĐ và các tài sản dài hạn khác</td><td></td><td>3.586.363.637</td><td>338.656.000</td></tr><tr><td>23</td><td>Tiền chi cho vay, mua các công cụ nợ của đơn vị khác</td><td></td><td>(1.219.232.004.701)</td><td>(1.009.910.253.425)</td></tr><tr><td>24</td><td>Tiền thu hồi cho vay, bán lại công cụ nợ của đơn vị khác</td><td></td><td>1.619.137.367.565</td><td>823.790.500.000</td></tr><tr><td>25</td><td>Tiền chi đầu tư góp vốn vào đơn vị khác</td><td></td><td>(844.063.407.627)</td><td>(112.250.680.000)</td></tr><tr><td>26</td><td>Tiền thu hồi đầu tư góp vốn vào đơn vị khác</td><td></td><td>60.772.780.000</td><td>-</td></tr><tr><td>27</td><td>Tiền thu lãi cho vay, cổ tức và lợi nhuận được chia</td><td></td><td>76.967.792.842</td><td>44.417.705.654</td></tr><tr><td>30</td><td>Lưu chuyển tiền thuần sử dụng vào hoạt động đầu tư</td><td></td><td>(362.793.116.261)</td><td>(402.510.877.780)</td></tr></table>
+
+10
+
+===== PAGE 13 =====
+Công ty Cổ phần Nhựa An Phát Xanh
+
+B03-DN
+
+BẢO CẢO LƯU CHUYÊN TIẾN TỆ RIÊNG (tiếp theo)
+
+cho năm tài chính kết thúc ngày 31 tháng 12 năm 2020
+
+Đơn vị tính: VND
+
+<table><tr><td>Mã số</td><td>CHỈ TIÊU</td><td>Thuyết minh</td><td>Năm nay</td><td>Năm trước</td></tr><tr><td></td><td>III. LU&#x27;U CHUYÊN TIÊN TỪ HOẠT ĐỒNG TÀI CHÍNH</td><td></td><td></td><td></td></tr><tr><td>31</td><td>Tiền thu từ phát hành cổ phiếu</td><td>21.1</td><td>559.961.500.000</td><td>-</td></tr><tr><td>33</td><td>Tiền thu từ đi vay</td><td></td><td>4.058.460.962.585</td><td>5.017.649.328.636</td></tr><tr><td>34</td><td>Tiền trả nợ gốc vay</td><td></td><td>(4.330.240.901.938)</td><td>(5.169.071.091.992)</td></tr><tr><td>36</td><td>Cổ tức đã trả cho chủ sở hữu</td><td></td><td>(105.571.913.000)</td><td>(85.571.913.000)</td></tr><tr><td>40</td><td>Lưu chuyển tiền thuần tử/(sử dụng vào) hoạt động tài chính</td><td></td><td>182.609.647.647</td><td>(236.993.676.356)</td></tr><tr><td>50</td><td>Tăng/(giảm) tiền thuần trong năm</td><td></td><td>530.826.129.388</td><td>(405.159.511.296)</td></tr><tr><td>60</td><td>Tiền và tương đương tiền đầu năm</td><td></td><td>85.809.419.198</td><td>491.191.059.270</td></tr><tr><td>61</td><td>Ảnh hưởng của thay đổi tỷ giả hối đoái quy đổi ngoại tệ</td><td></td><td>(112.208.770)</td><td>(222.128.776)</td></tr><tr><td>70</td><td>Tiền và tương đương tiền cuối năm</td><td>4</td><td>616.523.339.816</td><td>85.809.419.198</td></tr></table>
+
+Đỗ Hoài Linh
+
+Người lập
+
+Nguyễn Thị Thủy Văn
+
+Kế toán trường
+
+Nguyen Lê Trung
+
+Tổng Giám đốc
+
+Hải Dương, Việt Nam
+
+Ngày 26 tháng 3 năm 2021
+
+11
+
+===== PAGE 14 =====
+Công ty Cổ phần Nhựa An Phát Xanh
+
+B09-DN
+
+THUYÊT MINH BẢO CẢO TÀI CHÍNH RIÊNG
+
+váo ngày 31 tháng 12 năm 2020 và cho năm tài chính kết thúc cũng ngày
+
+1. THÔNG TIN VÊ CÔNG TY
+
+Công ty Cổ phần Nhựa An Phát Xanh ("Công ty") là một công ty cổ phần được thành lập theo Luật Doanh nghiệp Việt Nam theo Giấy Chứng nhận Đăng ký Doanh nghiệp số 0403000550 do Sở Kế hoạch và Đầu tư tỉnh Hải Dương cấp ngày 9 tháng 3 năm 2007, và theo các Giấy Chứng nhận Đăng ký Doanh nghiệp điều chỉnh sau đó, với lần điều chỉnh gần nhất lá lần thứ 30 ngày 5 tháng 11 năm 2020.
+
+Cổ phiếu của Công ty được niêm yết và giao dịch chính thức trên Sở Giao dịch Chứng khoán Thành phố Hồ Chí Minh (HOSE) với mã chủng khoán là AAA từ tháng 11 năm 2016.
+
+Hoạt động chính trong nằm hiện tại của Công ty là sản xuất, kinh doanh các sản phẩm nhựa (PP, PE), bao bì nhựa các loại, và mua bán máy móc, vật tư, nguyên liệu sản phẩm nhựa.
+
+Chu kỳ hoạt động sản xuất kinh doanh thông thường của Công ty là 12 tháng.
+
+Công ty có trụ sở chính tai Lô CN11+CN12, cụm Công nghiệp An Đồng, thị trân Nam Sách, huyện Nam Sách, tính Hải Dương, Việt Nam và Văn phòng đai diện tai Hà Nội: Số B9, ngách 6/106, đường Hoàng Quốc Việt, phương Nghĩa Đô, quận Cầu Giấy, thành phố Hà Nội, Việt Nam.
+
+Tổng số nhân viên của Công ty tai ngày 31 tháng 12 năm 2020 là 1.768 (ngày 31 tháng 12 năm 2019 là 1.860 người).
+
+Cơ cấu tổ chức
+
+Tại ngày 31 tháng 12 năm 2020, Công ty có 7 công ty con (ngày 31 tháng 12 năm 2019: 6 công ty con) với chi tiết như sau:
+
+<table><tr><td>STT</td><td>Công ty</td><td>Địa chỉ</td><td>Tỷ lệ lợi ích (%)</td><td>Tỷ lệ biểu quyết (%)</td><td>Hoạt động chính</td></tr><tr><td>1</td><td>Công ty Cổ phần An Tiến Industries (&quot;Hill&quot; hoặc &quot;Công ty An Tiến&quot;)</td><td>Khu công nghiệp phía Nam, Xã Văn Tiến, Thành phố Yên Bái, Tỉnh Yên Bái</td><td>63,54</td><td>63,54</td><td>Sản xuất sản phẩm từ nhựa plastic, sản xuất phụ gia và bột đã</td></tr><tr><td>2</td><td>Công ty TNHH Khu công nghiệp Kỹ thuật cao An Phát (&quot;Công ty An Phát Complex&quot;)</td><td>Khu công nghiệp kỹ thuật cao An Phát, km 47, quốc lộ 5, Phường Việt Hòa, Thành phố Hải Dương, Tỉnh Hải Dương.</td><td>100</td><td>100</td><td>Phát triển hạ tầng khu công nghiệp</td></tr><tr><td>3</td><td>An Thanh Bicsol Singapore PTE. Ltd. (&quot;Công ty An Thành Singapore&quot;) (i)</td><td>Số 8, Temasek Boulevard # 44-00 Suntec Tower Three, Singapore</td><td>63,54</td><td>100</td><td>Kinh doanh hạt nhựa</td></tr><tr><td>4</td><td>Công ty Cổ phần An Thành Bicsol (&quot;Công ty An Thành&quot;) (i)</td><td>Khu công nghiệp kỹ thuật cao An Phát, km 47, quốc lộ 5, Phường Việt Hòa, Thành phố Hải Dương, Tỉnh Hải Dương.</td><td>74,12</td><td>99,37</td><td>Bán buôn chuyên doanh hạt nhựa PP, PE, PS, PVS, ABS...</td></tr><tr><td>5</td><td>Công ty Cổ phần Liên vân An Tín (&quot;Công ty An Tín&quot;) (i)</td><td>Số 64,22 Dương Pham Hùng, Phường Tư Minh, Thành phố Hải Dương, tỉnh Hải Dương.</td><td>44,48</td><td>70</td><td>Vên tài hàng hóa bằng đường bộ, đường ven biến và viễn dương</td></tr><tr><td>6</td><td>Công ty Cổ phần Khu công nghiệp Kỹ thuật cao An Phát 1 (&quot;Công ty An Phát Complex 1&quot;) (ii)</td><td>Khu công nghiệp kỹ thuật cao An Phát, km 47, quốc lộ 5, phường Việt Hòa, thành phố Hải Dương, tỉnh Hải Dương</td><td>89,33</td><td>89,33</td><td>Phát triển và kinh doanh hạ tầng Khu công nghiệp</td></tr><tr><td>7</td><td>Công ty Cổ phần Nhưa Bao bi An Vinh (&quot;Công ty An Vinh&quot;) (iii)</td><td>Lô CN11+CN12, cum CN An Đồng, Nam Sách, Hải Dương</td><td>56,51</td><td>56,51</td><td>Sản xuất, kinh doanh các sản phẩm nhựa</td></tr></table>
+
+12
+
+===== PAGE 15 =====
+Công ty Cổ phần Nhựa An Phát Xanh
+
+B09-DN
+
+THUYẾT MINH BẢO CẢO TÀI CHÍNH RIÊNG (tiếp theo)
+
+vào ngày 31 tháng 12 năm 2020 và cho năm tài chính kết thúc cứng ngày
+
+1. THÔNG TIN VÊ CÔNG TY (tiếp theo)
+
+(i) Công ty An Tiến (công ty con do Công ty sở hữu 63,54% vốn) nằm giữ 100% vốn chủ sở hữu trong Công ty An Thành Singapore, và 69,26% vốn chủ sở hữu trong Công ty An Thành, và 70% vốn chủ sở hữu trong Công ty An Tín.
+
+(ii) Công ty An Phát Complex (công ty con do Công ty sở hữu 100% vốn) nằm giữ 89,33% vốn chủ sở hữu trong Công ty An Phát Complex 1 (ngày 31 tháng 12 năm 2019: 90%).
+
+(iii) Vào ngày 15 tháng 7 năm 2020, Công ty đã hoàn thành việc mua 24.300.000 có phần của Công ty An Vinh, tương ứng với 56,51% vốn chủ sở hữu, với tổng giả phí là 243.000.000.000 VND. Theo đó, từ ngày này, Công ty An Vinh là công ty con của Công ty.
+
+2. CƠ SỞ TRÌNH BÀY
+
+2.1 Mục đích lập báo cáo tài chính riêng
+
+Công ty có các công ty con như được trình bày tại Thuyết minh số 1 và Thuyết minh số 13. Công ty đã lập bảo cáo tài chính riêng này nhằm đáp ứng các yêu cầu về công bố thông tin, cụ thể là theo quy định tại Thông tư số 96/2020/TT-BTC – Hướng dẫn về việc công bố thông tin trên thị trường chứng khoản. Công theo quy định tại các văn bản này. Công ty cũng đã lập bảo cáo tài chính hợp nhất của Công ty và các công ty con cho năm tài chính kết thúc cứng ngày đề ngày 26 tháng 3 năm 2021.
+
+Người sử dụng bảo cáo tài chính riêng nên đọc báo cáo này cũng với bảo cáo tài chính hợp nhất nói trên để có được các thông tin đầy đủ về tính hình tài chính hợp nhất, kết quả hoạt động kinh doanh hợp nhất và tính hình lưu chuyển tiền tế hợp nhất của Công ty và các công ty con.
+
+2.2 Chuẩn mực và Chế độ kế toán áp dụng
+
+Báo cáo tài chính riêng của Công ty được trình bày bằng đồng Việt Nam (“VND”) và được lập phú hợp với Chế độ kê toán doanh nghiệp Việt Nam và các Chuẩn mực kê toán Việt Nam do Bộ Tài chính ban hành theo:
+
+▶ Quyết định số 149/2001/QĐ-BTC ngày 31 tháng 12 năm 2001 về việc ban hành bón Chuẩn mực kế toán Việt Nam (Đợt 1);
+
+▶ Quyết định số 165/2002/QĐ-BTC ngày 31 tháng 12 năm 2002 về việc ban hành sâu Chuẩn mực kế toán Việt Nam (Đợt 2);
+
+▶ Quyết định số 234/2003/QĐ-BTC ngày 30 tháng 12 năm 2003 về việc ban hành sâu Chuẩn mục kể toán Việt Nam (Đợt 3);
+
+▶ Quyết định số 12/2005/QĐ-BTC ngày 15 tháng 2 năm 2005 về việc ban hành sâu Chuẩn mực kế toán Việt Nam (Đort 4); và
+
+▶ Quyết định số 100/2005/QĐ-BTC ngày 28 tháng 12 năm 2005 về việc ban hành bớn Chuẩn mực kế toán Việt Nam (Đợt 5).
+
+Theo đó, báo cáo tài chính riêng được trình bày kèm theo và việc sử dụng các bảo cáo này không đánh cho các đối tượng không được cung cấp các thông tin về các thủ tục và nguyên tắc và thông lẻ kế toán tài Việt Nam và hơn nữa không được chủ định trình bày tính hình tài chính riêng, kết quả hoạt động kinh doanh riêng và lưu chuyển tiền tề riêng theo các nguyên tắc và thông lẻ kế toán được chấp nhận rộng rãi ở các nước và lãnh thổ khác ngoài Việt Nam.
+
+2.3 Hinh thức số kế toán áp dụng
+
+Hính thức số kế toán được áp dụng của Công ty là Nhật kỳ chung.
+
+13
+
+===== PAGE 16 =====
+Công ty Cổ phần Nhựa An Phát Xanh
+
+B09-DN
+
+THUYÊT MINH BẢO CẢO TẢI CHÍNH RIÊNG (tiếp theo)
+
+váo ngày 31 tháng 12 năm 2020 và cho năm tài chính kết thúc cứng ngáy
+
+2. CƠ SỞ TRÌNH BÀY (tiếp theo)
+
+2.4 Ký kế toán năm
+
+Ký kế toán năm của Công ty áp dụng cho việc lập bảo cáo tài chính bắt đầu từ ngày 1 tháng 1 và kết thúc ngày 31 tháng 12.
+
+2.5 Đơn vị tiền tệ trong kế toán
+
+Báo cáo tài chính riêng được lập bảng đơn vị tiền tệ của Công ty là VND.
+
+3. TÓM TẮT CÁC CHÍNH SÁCH KẾ TOÁN CHỦ YỀU
+
+3.1 Tiền và các khoản tương đương tiền
+
+Tiền và các khoản tương đương tiền bao gồm tiền mặt tại quỹ, tiền gửi ngân hàng và các khoản đầu tư ngắn hạn có thời hạn gốc không quá ba tháng, có tính thanh khoản cao, có khả năng chuyển đổi dễ dàng thành các lương tiền xác định và không có nhiều rủi ro trong chuyển đổi thành tiên.
+
+3.2 Hàng tồn kho
+
+Hàng tồn kho được ghi nhận theo giả thấp hơn giữa giả gốc và giá trị thuần có thể thực hiện được. Giá gốc hàng tồn kho bao gồm chi phí mua và các chi phí liên quan trực tiếp khác phát sinh để có được hàng tồn kho ở địa điểm và trạng thái hiện tai. Giá trị thuần có thể thực hiện được là giả bản ước tính của hàng tồn kho trong điều kiện kinh doanh bình thường trừ chi phí ước tính để hoàn thành và chi phí bản hàng ước tính.
+
+Công ty áp dung phương pháp kê khai thường xuyên để hạch toán hàng tồn kho với giá trị được xác định như sau:
+
+Nguyên liệu, vất liệu, hàng hóa, công cụ dụng cụ
+
+- Chi phí mua theo phương pháp bình quân gia quyền
+
+Thành phẩm và chi phí sản xuất, kinh doanh dở dang
+
+Chi phí nhân công trực tiếp công chi phí sản xuất chung có liên quan được phản bổ dưa trên mức độ hoạt động bình thường theo phương pháp giá bình quân gia quyền.
+
+Dự phòng giảm giả hàng tổn kho
+
+Dư phòng giảm giá hàng tồn kho được trích lập cho phần giả trị dự kiến bị tổn thất do các khoản suy giảm trong giả trị (do giảm giả, hư hỏng, kém phẩm chất v.v.) có thể xây ra đối với nguyên vật liệu và hàng hóa tồn kho thuộc quyền sở hữu của Công ty dựa trên bằng chứng hợp lý về sự suy giảm giả trị tai ngày kết thúc kỳ kế toán.
+
+Số tăng hoặc giảm khoản dự phòng giảm giá hàng tổn kho được hạch toán vào giá vốn hàng bán trên báo cáo kết quả hoạt động kinh doanh riêng.
+
+3.3 Các khoản phải thu
+
+Các khoản phải thu được trình bày trên báo cáo tài chính riêng theo giá trị ghi số các khoản phải thu từ khách hàng và phải thu khác sau khi cần trừ các khoản dự phòng được lập cho các khoản phải thu khó đòi.
+
+Dư phòng nợ phải thu khó đòi thể hiện phần giá trị của các khoản phải thu mà Công ty dự kiến không có khả năng thu hồi tại ngày kết thúc ký kế toán. Tăng hoặc giảm số dư tài khoản dự phòng được hach toán vào chi phí quản lý doanh nghiệp trên báo cáo kết quả hoạt động kinh doanh riêng.
+
+14
+
+===== PAGE 17 =====
+Công ty Cổ phần Nhựa An Phát Xanh
+
+B09-DN
+
+THUYÊT MINH BÁO CẢO TÀI CHÍNH RIÊNG (tiếp theo)
+
+vào ngày 31 tháng 12 năm 2020 và cho năm tài chính kết thúc cũng ngày
+
+3. TÔM TẮT CÁC CHÍNH SÁCH KÊ TOÁN CHỦ YỀU (tiếp theo)
+
+3.4 Tài sản cố định hữu hình
+
+Tài sản có định hữu hình được thể hiện theo nguyên giả trừ đi giả trị khấu hao lũy kê.
+
+Nguyên giá tài sản cố định bao gồm giả mua và những chi phí có liên quan trực tiếp đến việc đưa tài sản vào sản sàng hoạt động như dự kiến.
+
+Các chỉ phí mua sám, nâng cấp và đổi mới tài sản cố định được ghi tàng nguyên giá của tài sản và chỉ phí bảo trì, sửa chữa được hạch toán vào báo cáo kết quả hoạt động kinh doanh riêng khi phát sinh.
+
+Khi tài sản cố định hữu hình được bản hay thanh lý, các khoản lãi hoặc lỗ phát sinh do thanh lý tài sản (là phần chênh lệch giữa tiền thu thuần từ việc bản tài sản với giá trị còn lại của tài sản) được hạch toán vào báo cáo kết quả hoạt động kinh doanh riêng.
+
+3.5 Tài sản cố định vô hình
+
+Tài sản có định vô hình được ghi nhận theo nguyên giả trừ đi giá trị hao mòn lũy kê,
+
+Nguyên giá tài sản cố định vô hình bao gồm giả mua và những chi phí có liên quan trực tiếp đến việc đưa tài sản vào sử dụng như dự kiến. Các chỉ phí nâng cấp và đổi mới tài sản cố định vô hình được ghi tăng nguyên giả của tài sản và các chỉ phí khác được hạch toán vào báo cáo kết quả hoạt động kinh doanh riêng khi phát sinh.
+
+Khi tài sản cố định vô hình được bán hay thanh lý, các khoản lãi hoặc lỗ phát sinh do thanh lý tài sản (là phần chênh lệch giữa tiên thu thuần từ việc bán tài sản với giá trị còn lại của tài sản) được hạch toán vào báo cáo kết quả hoạt động kinh doanh riêng.
+
+3.6 Thuē tài sản
+
+Việc xác định một thỏa thuận có phải là thỏa thuận thuê tài sản hay không dưa trên bản chất của thỏa thuận đó tai thời điểm khởi đầu: liệu việc thực hiện thỏa thuận này có phụ thuộc vào việc sử dụng một tài sản nhất định và thỏa thuận có bao gồm điều khoản về quyền sử dụng tài sản hay không.
+
+Thỏa thuận thuê tài sản được phân loại là thuê tài chính nếu theo hợp đồng thuê tài sản bên cho thuê chuyển giao phân lớn rủi ro và lợi ích gắn liền với quyền sở hữu tài sản cho bên đi thuê. Tất cả các thỏa thuận thuê tài sản khác được phân loại là thuê hoạt động.
+
+Trong trường hợp Công ty là bên đi thuê
+
+Các khoản tiền thuê theo hợp đồng thuê hoạt động được hạch toán vào báo cáo kết quả hoạt động kinh doanh riêng theo phương pháp đường thẳng trong thời hạn của hợp đồng thuê.
+
+Trong trường hợp Công ty là bên cho thuê
+
+Tài sản theo hợp đồng cho thuê hoạt động được ghi nhận là bất động sản đầu tư trên bảng cán đối kế toán.
+
+Thu nhập từ tiền cho thuê hoạt động được hạch toán vào bảo cáo kết quả hoạt động kinh doanh theo phương pháp đường thẳng trong thời gian cho thuê.
+
+15
+
+===== PAGE 18 =====
+Công ty Cổ phần Nhựa An Phát Xanh
+
+B09-DN
+
+THUYÊT MINH BÁO CÁO TÀI CHÍNH RIÊNG (tiếp theo)
+
+vào ngày 31 tháng 12 năm 2020 và cho năm tài chính kết thúc cứng ngày
+
+3. TÓM TẮT CÁC CHÍNH SÁCH KÊ TOẠN CHÚ YỀU (tiếp theo)
+
+3.7 Khâu hao và hao mòn
+
+Khấu hao tài sản cố định hữu hình và hao món tài sản cố định vô hình được trích theo phương pháp khấu hao đường thẳng trong suốt thời gian hữu dụng ước tỉnh của các tài sản như sau:
+
+<table><tr><td>Nhà cửa, vật kiến trúc</td><td>3 - 50 năm</td></tr><tr><td>Máy móc, thiết bị</td><td>5 - 12 năm</td></tr><tr><td>Phương tiện vận tải, truyền dẫn</td><td>3 - 15 năm</td></tr><tr><td>Thiết bị văn phòng</td><td>3 - 10 năm</td></tr><tr><td>Cây lâu năm, sức vật làm việc và cho sản phẩm</td><td>5 - 25 năm</td></tr><tr><td>Tài sản cố định hữu hình khác</td><td>4 - 12 năm</td></tr><tr><td>Quyền sử dụng đất</td><td>18 - 47 năm</td></tr><tr><td>Phần mềm máy tính</td><td>3 - 6 năm</td></tr></table>
+
+3.8 Chi phi di vay
+
+Chi phi đi vay bao gồm lãi tiền vay và các chi phi khác phát sinh liên quan trực tiếp đến các khoản vay của doanh nghiệp. Chi phi đi vay được hạch toán như chi phi phát sinh trong năm.
+
+3.9 Chi phí trả trước
+
+Chi phí trả trước bao gồm các chi phí trả trước ngắn hạn hoặc chi phí trả trước dài hạn trên bảng cân đối kế toán riêng và được phân bổ trong khoảng thời gian trả trước hoặc thời gian các lợi ích kinh tế tương ứng được tạo ra từ các chi phí này.
+
+Các loại chi phí sau đây được hạch toán vào chi phí trả trước dài hạn để phân bổ dàn vào báo cáo kết quả hoạt động kinh doanh riêng:
+
+Công cụ, dụng cụ xuất dùng trong nhiều năm với giả trị lớn;
+
+▶ Chi phí sửa chữa tài sản có định phát sinh lớn; và
+
+▶ Các chỉ phí khác.
+
+3.10 Hợp đồng hợp tác kinh doanh ("BCC")
+
+Trường hợp BCC chia loi nhuận sau thuế do một bên kiểm soát:
+
+Các khoản đầu tư góp vốn vào BCC được ghi nhận là khoản phải thu trên bằng cân đối kế toán riêng. Nếu Công ty kiểm soát BCC, Công ty sẽ hach toán toàn bộ doanh thu/chỉ phí trên bảo cáo kết quả hoạt động kinh doanh riêng, đồng thời ghi nhận toàn bộ lợi nhuận sau thuế của BCC vào chỉ tiêu "Lợi nhuận sau thuế chưa phân phối" của Bảng cân đối kế toán riêng. Lợi nhuận sau thuế chia cho bên không kiểm soát sẽ được giảm trừ vào chỉ tiêu "Lợi nhuận sau thuế chưa phân phối" của bằng cân đối kế toán riêng.
+
+Nếu Công ty không kiểm soát BCC, Công ty ghi nhận phần lợi nhuận mà Công ty được chia từ BCC vào khoản mục "Doanh thu hoạt động tài chính" trên báo cáo kết quả hoạt động kinh doanh riêng.
+
+16
+
+===== PAGE 19 =====
+Công ty Cổ phần Nhựa An Phát Xanh
+
+B09-DN
+
+THUYÊT MINH BẢO CẢO TÀI CHÍNH RIÊNG (tiếp theo)
+
+vào ngày 31 tháng 12 năm 2020 và cho năm tài chính kết thúc cứng ngày
+
+3. TÔM TẮT CÁC CHÍNH SÁCH KẾ TOẢN CHỦ YỀU (tiếp theo)
+
+3.11 Các khoản đầu tư
+
+Đầu tư vào công ty con
+
+Các khoản đầu tư vào công ty con mà trong đó Công ty nằm quyền kiểm soát được trình bày theo phương pháp giả gốc.
+
+Các khoản phân phối mà công ty mẹ nhận được từ số lợi nhuận lũy kế của các công ty con sau ngày Công ty nằm quyền kiểm soát được ghi vào kết quả hoạt động kinh doanh riêng. Các khoản phân phối khác được xem như phần thu hồi của các khoản đầu tư và được trừ vào giả trị đầu tư.
+
+Đầu tư vào các công ty liên kết
+
+Các khoản đầu tư vào các công ty liên kết mà trong đó Công ty có ảnh hưởng đáng kể được trình bày theo phương pháp giá gốc.
+
+Các khoản phân phối từ lợi nhuận thuần lũy kể của các công ty liên kết sau ngày Công ty có ảnh hưởng đáng kể được ghi nhận vào bảo cáo kết quả hoạt động kinh doanh riêng của Công ty. Các khoản phân phối khác được xem như phân thu hồi các khoản đầu tư và được trừ vào giá trị đầu tư.
+
+Chủng khoán kinh doanh và đầu tư góp vốn vào đơn vị khác
+
+Chủng khoản kinh doanh và đầu tư góp vốn vào đơn vị khác được ghi nhận theo giá gốc.
+
+Đầu tư nằm giữ đến ngày đáo hạn
+
+Các khoản đầu tư nằm giữ đến ngày đảo han được ghi nhận theo giá gốc. Sau khi nhận ban đầu, các khoản đầu tư này được ghi nhận theo giá trị có thể thu hồi. Các khoản suy giảm giá trị của khoản đầu tư nếu phát sinh được hạch toán vào chi phí tài chính trong bảo cáo kết quả hoạt động kinh doanh riêng và giảm trừ trực tiếp giả trị đầu tư.
+
+Dự phòng giảm giá trị các khoản đầu tư
+
+Dự phòng cho việc giảm giả trị của các khoản đầu tư được lập khi có bằng chứng chắc chắn cho thấy có sự suy giảm giả trị của các khoản đầu tư này vào ngày kết thúc kỳ kể toàn.
+
+Tăng hoặc giảm số dư dư phòng được hạch toán vào chi phí tài chính trong bảo cáo kết quả hoạt động kinh doanh riêng.
+
+3.12 Các khoản phải trả và chỉ phí trích trước
+
+Các khoản phải trả và chi phí trích trước được ghi nhận cho số tiền phải trả trong tương lai liên quan đến hàng hóa và dịch vụ đã nhận được không phụ thuộc vào việc Công ty đã nhận được hóa đơn của nhà cung cấp hay chưa.
+
+3.13 Người mua trả tiền trước
+
+Các khoản tiên khách hàng ứng trước để mua hàng hóa hoặc dịch vụ trong tương lai mà chưa đủ điều kiện để được ghi nhận là doanh thu trong năm được phản ánh trong tài khoản "Người mua trả tiền trước" trong phần nợ phải trả trên bảng cân đối kế toán riêng.
+
+17
+
+===== PAGE 20 =====
+Công ty Cổ phần Nhựa An Phát Xanh
+
+B09-DN
+
+THUYÊT MINH BÁO CÁO TÀI CHÍNH RIÊNG (tiếp theo)
+
+vào ngày 31 tháng 12 năm 2020 và cho năm tài chính kết thúc cùng ngày
+
+3. TÔM TẮT CÁC CHÍNH SÁCH KẾ TOÁN CHỦ YỀU (tiếp theo)
+
+3.14 Các nghiệp vụ bằng ngoại tệ
+
+Các nghiệp vụ phát sinh bằng các đơn vị tiên tệ khác với đơn vị tiên tệ kế toán của Công ty (VND) được hạch toán theo tỷ giá giao dịch thực tế vào ngày phát sinh nghiệp vụ theo nguyên tác sau.
+
+Nghiệp vụ làm phát sinh các khoản phải thu được hach toán theo tỷ giá mua của ngân hàng thương mại nơi Công ty chỉ định khách hàng thanh toàn;
+
+Nghiệp vụ làm phát sinh các khoản phải trả được hach toán theo tỷ giá bán của ngân hàng thương mại nơi Công ty dự kiến giao dịch; và
+
+Giao dịch mua sắm tải sản hoặc các khoản chi phí được thanh toán ngay bằng ngoại tệ (không qua các tải khoản phải trả) được hach toán theo tỷ giá mua của ngân hàng thương mại nơi Công ty thực hiện thanh toán.
+
+Tại ngày kết thúc ký kể toán, các khoản mục tiền tệ cổ gốc ngoại tệ được đánh giá lại theo tỷ giá giao dịch thực tế tại ngày của bằng cân đối kế toán riêng theo nguyên tắc sau:
+
+Các khoản mục tiên tế được phân loại là tài sản được đánh giá lại theo tỷ giá mua của ngân hàng thương mại nơi Công ty thương xuyên có giao dịch; và
+
+Các khoản mục tiền tệ được phân loại là nợ phải trả được đánh giá lại theo tỷ giả bán của ngân hàng thương mại nơi Công ty thường xuyên có giao dịch.
+
+Tất cả các khoản chênh lệch tỷ giả phát sinh được hạch toán vào báo cáo kết quả hoạt động kinh doanh riêng.
+
+3.15 Phân chia lợi nhuận
+
+Lợi nhuận thuần sau thuế thu nhập doanh nghiệp có thể được chia cho các cổ đông sau khi được đại hội đồng cổ đông phê duyệt và sau khi đã trich lập các quỹ dự phòng theo Điều lệ của Công ty và các quy định của pháp luật Việt Nam.
+
+Công ty trích lập các quỹ dự phòng sau từ lợi nhuận thuần sau thuế thu nhập doanh nghiệp của Công ty theo đề nghị của Hội đồng Quản trị và được các cổ đông phê duyệt tại đại hội đồng cổ đông thường niên.
+
+Quỹ đều tư phát triển
+
+Quỹ này được trích lập nhằm phục vụ việc mở rộng hoạt động hoặc đầu tư chiều sâu của Công ty.
+
+Quỹ khen thưởng, phúc lợi
+
+Quỹ này được trích lập để khen thưởng, khuyến khích vật chất, đem lại lợi ích chung và nâng cao phúc lợi cho công nhân viên, và được trình bày như một khoản phải trả trên bằng cán đổi kế toán riêng.
+
+Quỹ khác thuộc vốn chủ sở hữu
+
+Các quỹ được trích lập theo các Nghị quyết Đại hội đồng cổ đông trong các năm tài chính nhằm mục đích dự trữ bổ sung vốn điều lệ.
+
+18
+
+===== PAGE 21 =====
+Công ty Cổ phần Nhựa An Phát Xanh
+
+B09-DN
+
+THUYÊT MINH BẢO CẢO TÀI CHÍNH RIÊNG (tiếp theo)
+
+vào ngày 31 tháng 12 năm 2020 và cho năm tài chính kết thúc cứng ngày
+
+3. TÓM TẮT CÁC CHÍNH SÁCH KÊ TOẠN CHỦ YẾU (tiếp theo)
+
+3.16 Ghi nhận doanh thu
+
+Doanh thu được ghi nhận khi Công ty có khả năng nhận được các lợi ích kinh tế có thể xác định được một cách chắc chắn. Doanh thu được xác định theo giá trị hợp lý của các khoản đã thu hoặc sẽ thu được sau khi trừ đi các khoản chiết khấu thương mại, giảm giả hàng bán và hàng bán bị trả lại. Các điều kiện ghi nhận cụ thể sau đây cũng phải được đáp ứng khi ghi nhận doanh thu:
+
+Doanh thu bán hàng
+
+Doanh thu bán hàng được ghi nhận khi các rủi ro trọng yếu và các quyền sở hữu hàng hóa đã được chuyển sang người mua, thường là trùng với thời điểm chuyển giao hàng hóa.
+
+Doanh thu cung cấp dịch vụ
+
+Khi có thể xác định được kết quả hợp đồng một cách chắc chắn, doanh thu từ cung cấp dịch vụ sẽ được ghi nhận dựa trên mức độ hoàn thành công việc. Mức độ hoàn thành công việc được xác định dựa theo khởi lượng dịch vụ đã được thực hiện.
+
+Nếu không thể xác định được kết quả hợp đồng một cách chắc chắn, doanh thu sẽ chỉ được ghi nhận ở mức có thể thu hồi được của các chi phí đã được ghi nhận.
+
+Tiền lãi
+
+Doanh thu được ghi nhận khi tiền lãi phát sinh trên cơ sở dồn tịch (có tính đến lợi tức mà tài sản đem lại) trừ khi khả năng thu hồi tiền lãi không chắc chắn.
+
+Cổ tức
+
+Doanh thu được ghi nhận khi quyền được nhận khoản thanh toàn cổ tức của Công ty được xác lập.
+
+3.17 Thuế
+
+Thuế thu nhập hiện hành
+
+Tài sán thuế thu nhập và thuế thu nhập phải nộp cho năm hiện hành và các năm trước được xác định bằng số tiền dự kiến được thu hồi từ hoặc phải nộp cho cơ quan thuế, dựa trên các mức thuế suất và các luật thuế có hiệu lực đến ngày kết thúc năm kế toán.
+
+Thuế thu nhập hiện hành được ghi nhận vào báo cáo kết quả hoạt động kinh doanh riêng ngoại trừ trường hợp thuế thu nhập phát sinh liên quan đến một khoản mục được ghi tháng vào vốn chủ sở hữu, trong trường hợp này, thuế thu nhập hiện hành cũng được ghi nhận trực tiếp vào vốn chủ sở hữu.
+
+Công ty chỉ được bù trừ các tài sản thuế thu nhập hiện hành và thuế thu nhập hiện hành phải trả khi Công ty có quyền hợp pháp được bù trừ giữa tài sản thuế thu nhập hiện hành với thuế thu nhập hiện hành phải nộp và Công ty dự định thanh toán thuế thu nhập hiện hành phải nộp và tài sản thuế thu nhập hiện hành trên cơ sở thuần.
+
+Thuế thu nhập hoãn lại
+
+Thuế thu nhập hoãn lại được xác định cho các khoản chênh lệch tạm thời tai ngày kết thúc kỳ kế toán giữa cơ sở tính thuế thu nhập của các tài sản và nợ phải trả và giá trị ghi số của các khoản mục này trong báo cáo tài chính riêng.
+
+19
+
+===== PAGE 22 =====
+Công ty Cổ phần Nhựa An Phát Xanh
+
+B09-DN
+
+THUYẾT MINH BẢO CẢO TÀI CHÍNH RIÊNG (tiếp theo)
+
+vào ngày 31 tháng 12 năm 2020 và cho năm tài chính kết thúc cùng ngày
+
+3. TÔM TẮT CÁC CHÍNH SÁCH KẾ TOÁN CHỦ YỀU (tiếp theo)
+
+3.17 Thuế (tiếp theo)
+
+Thuế thu nhập hoãn lại (tiếp theo)
+
+Thuế thu nhập hoãn lai phải trả được ghi nhận cho tất cả các khoản chênh lệch tạm thời chịu thuế, ngoại trừ:
+
+Thuế thu nhập hoãn lại phải trả phát sinh từ ghi nhận ban đầu của một tài sản hay nợ phải trả từ một giao dịch mà giao dịch này không có ảnh hưởng đến lợi nhuận kế toán và lợi nhuận tính thuế thu nhập (hoặc lỗ tính thuế) tại thời điểm phát sinh giao dịch; và
+
+Các chênh lệch tạm thời chịu thuế gắn liền với các khoản đầu tư vào các công ty con, công ty liên kết và khoản vốn góp liên doanh khi doanh nghiệp có khả năng kiểm soát thời gian hoàn nhập khoản chênh lên tạm thời và chắc chắn khoản chênh lệch tạm thời sẽ không được hoàn nhập trong tương lai có thể dư đoán.
+
+Tài sản thuế thu nhập hoãn lại cần được ghi nhận cho tất cả các chênh lệch tạm thời được khấu trừ, giá trị được khấu trừ chuyển sang các kỳ sau của các khoản lỗ tính thuế và các khoản ưu đãi thuế chưa sử dụng, khi chắc chắn trong tương lai sẽ có lợi nhuận tính thuế để sử dụng những chênh lệch tạm thời được khấu trừ, các khoản lỗ tính thuế và các ưu đãi thuế chưa sử dụng này, ngoại trừ:
+
+Tài sản thuế hoãn lại phát sinh từ ghi nhận ban đầu của một tài sản hoặc nợ phải trả từ một giao dịch mà giao dịch này không có ảnh hưởng đến lợi nhuận kế toán và lợi nhuận tỉnh thuế thu nhập (hoặc lỗ tỉnh thuế) tại thời điểm phát sinh giao dịch; và
+
+Đối với các chênh lệch tạm thời được khấu trừ phát sinh từ các khoản đầu tư vào công ty con, công ty liên kết và khoản vốn góp liên doanh, tài sản thuế thu nhập hoãn lại được ghi nhân khi chắc chắn là chênh lệnh tạm thời sẽ được hoàn nhập trong tương lai có thể dự đoạn được và có lợi nhuận chịu thuế để sử dụng được khoản chênh lệch tạm thời đó.
+
+Giá trị ghi số của tài sản thuế thu nhập doanh nghiệp hoãn lai phải được xem xét lại vào ngày kết thúc ký kế toán và phải giảm giá trị ghi số của tài sản thuế thu nhập hoãn lai đến mức bảo đảm chắc chắn có đủ lợi nhuận tỉnh thuế cho phép lợi ích của một phần hoặc toàn bộ tài sản thuế thu nhập hoãn lai được sử dụng. Các tài sản thuế thu nhập doanh nghiệp hoãn lai chưa được ghi nhận trước đầy được xem xét lai vào ngày kết thúc ký kế toán và được ghi nhận khi chắc chắn có đủ lợi nhuận tỉnh thuế trong tương lai để có thể sử dụng các tài sản thuế thu nhập hoãn lai chưa ghi nhận này.
+
+Tài sản thuế thu nhập hoãn lại và thuế thu nhập hoãn lại phải trả được xác định theo thuế suất dự tính sẽ áp dụng cho kỳ tài chính khi tài sản được thu hồi hay nợ phải trả được thanh toán, dựa trên các mức thuế suất và luật thuế có hiệu lực vào ngày kết thúc ký kế toán.
+
+Thuế thu nhập hoãn lai được ghi nhận vào báo cáo kết quả hoạt động kinh doanh riêng ngoại trữ trưởng hợp thuế thu nhập phát sinh liên quan đến một khoản mục được ghi tháng vào vốn chủ sở hữu, trong trường hợp này, thuế thu nhập hoãn lai cũng được ghi nhận trực tiếp vào vốn chủ sở hữu.
+
+Công ty chỉ được bù trừ các tài sản thuế thu nhập hoãn lại và thuế thu nhập hoãn lại phải trả khi Công ty cỏ quyền hợp pháp được bù trừ giữa tài sản thuế thu nhập hiện hành với thuế thu nhập hiện hành phải nộp và các tài sản thuế thu nhập hoãn lại và thuế thu nhập hoãn lại phải trả này liên quan tới thuế thu nhập doanh nghiệp được quản lý bởi cùng một cơ quan thuế:
+
+20
+
+===== PAGE 23 =====
+Công ty Cổ phần Nhựa An Phát Xanh
+
+B09-DN
+
+THUYÊT MINH BẢO CẢO TÀI CHÍNH RIÊNG (tiếp theo)
+
+vào ngày 31 tháng 12 năm 2020 và cho năm tài chính kết thúc cũng ngày
+
+3. TỔM TẮT CẮC CHÍNH SÁCH KẾ TOÁN CHỦ YỀU (tiếp theo)
+
+3.17 Thuế (tiếp theo)
+
+Thuế thu nhập hoãn lại (tiếp theo)
+
+đối với cùng một đơn vị chịu thuế; hoặc
+
+Công ty dự định thanh toán thuế thu nhập hiện hành phải trả và tài sản thuế thu nhập hiện hành trên cơ sở thuần hoặc thu hồi tài sản đồng thời với việc thanh toán nợ phải trả trong từng kỳ tương lai khi các khoản trọng yếu của thuế thu nhập hoãn lại phải trả hoặc tài sản thuế thu nhập hoãn lai được thanh toán hoặc thu hồi.
+
+3.18 Thông tin theo bộ phận
+
+Hoạt động kinh doanh nguyên liệu sản phẩm nhựa, bao bi nhựa các loại là hoạt động chủ yếu tạo ra doanh thu và lợi nhuận cho Công ty, trong khi các khoản kinh doanh khác chiếm tỷ trọng nhỏ trong tổng doanh thu của Công ty. Do vảy, Ban Tổng Giám đốc của Công ty giả định răng Công ty hoạt động trong một bộ phận kinh doanh duy nhất là kinh doanh nguyên liệu sản phẩm nhựa, bao bi nhựa các loại. Ban Tổng Giám đốc xác định bộ phận theo khu vực địa lý của Công ty dựa theo địa điểm của các tài sản của Công ty là ở Việt Nam. Do đó, Công ty không trình bày báo cáo bộ phận chỉ tiết theo khu vực địa lý.
+
+3.19 Các bên liên quan
+
+Các bên được coi là bên liên quan của Công ty nếu một bên có khả năng, trực tiếp hoặc giản tiếp, kiểm soát bên kia hoặc gây ảnh hưởng đáng kể tối bên kia trong việc ra các quyết định tài chính và hoạt động, hoặc khi Công ty và bên kia cũng chịu sự kiểm soát chung hoặc ảnh hưởng đáng kể chung. Các bên liên quan có thể là các công ty hoặc các cá nhân, bao gồm các thành viên gia đình thân cận của các cá nhân được coi là liên quan.
+
+4. TIÊN VÀ CÁC KHOÀN TƯƠNG ĐƯƠNG TIÊN
+
+<table><tr><td rowspan="2"></td><td rowspan="2">Số cuối năm</td><td>Đơn vị tính; VND</td></tr><tr><td>Số đầu năm</td></tr><tr><td>Tiền mặt</td><td>593.190.456</td><td>10.026.251.923</td></tr><tr><td>Tiền gửi ngân hàng</td><td>179.027.383.726</td><td>70.783.167.275</td></tr><tr><td>Các khoản tương đương tiền (*)</td><td>436.902.765.634</td><td>5.000.000.000</td></tr><tr><td>TỔNG CỘNG</td><td>616.523.339.816</td><td>85.809.419.198</td></tr></table>
+
+(*) Là khoản tiền gửi bằng VND và USD tai các ngân hàng thương mại có kỳ hạn 3 tháng, với lãi suất từ 3,2% đến 4,2%/năm với tiền gửi bằng VND (ngày 31 tháng 12 năm 2019: 4,8%/năm) và 0% với tiền gửi bằng USD.
+
+Một số khoản tiền gửi của Công ty với tổng giả trị là 26,2 tỷ VND đã được sử dụng làm tài sản thế chấp cho các khoản vay của Công ty như được trình bày tại Thuyết minh số 19.
+
+21
+
+===== PAGE 24 =====
+Công ty Cổ phần Nhựa An Phát Xanh
+
+B09-DN
+
+THUYÊT MINH BẢO CẢO TÀI CHÍNH RIÊNG (tiếp theo)
+
+vào ngày 31 tháng 12 năm 2020 và cho năm tài chính kết thúc cùng ngày
+
+5. ĐẦU TƯ TẢI CHÍNH NGÁN HẠN
+
+<table><tr><td rowspan="2"></td><td colspan="3">Số cuối năm</td><td colspan="3">Số đầu năm</td></tr><tr><td>Giá gốc</td><td>Giá trị ghi số</td><td>Dự phòng</td><td>Giá gốc</td><td>Giá trị ghi số</td><td>Dự phòng</td></tr><tr><td>Tiền gửicá ký hạn (*)</td><td>281.600.000.000</td><td>281.600.000.000</td><td>-</td><td>570.073.753.425</td><td>570.073.753.425</td><td>-</td></tr><tr><td>Trải phiếu (**)</td><td>20.000.000.000</td><td>20.000.000.000</td><td>-</td><td>106.921.000.000</td><td>106.921.000.000</td><td>-</td></tr><tr><td>TỔNG CỘNG</td><td>301.600.000.000</td><td>301.600.000.000</td><td>-</td><td>676.994.753.425</td><td>676.994.753.425</td><td>-</td></tr></table>
+
+(*) Đầy là các khoản tiền gửi bằng VND tại các Ngân hàng thương mại có thời hạn từ 6 đến 12 tháng và hướng lãi suất từ 5,5%/năm đến 6,95%/năm (ngày 31 tháng 12 năm 2019: từ 5%/năm đến 7,9%/năm).
+
+Một số khoản tiền gửi của Công ty với tổng giá trị 5 tỷ VND đã được sử dụng làm tài sản thể chấp cho các khoản vay như được trình bày tại Thuyết minh số 19.
+
+(**) Đây là các khoản trái phiếu phát hành không có tái sản đảm bảo của Công ty Cổ phần An Phát Finance đã được cam kết mua lại và có thông tin chỉ tiết như sau:
+
+<table><tr><td>STT</td><td>Trái phiếu</td><td>Ngày mua lại</td><td>Số tiền theo mệnh giá (VND)</td><td>Số tiền mua lại (VND)</td></tr><tr><td>1</td><td>Công ty Cổ phần An Phát Finance</td><td>Ngày 16 tháng 2 năm 2021</td><td>20.000.000.000</td><td>20.906.520.548</td></tr><tr><td></td><td>TỔNG CỘNG</td><td></td><td>20.000.000.000</td><td>20.906.520.548</td></tr></table>
+
+6. PHẢI THU KHÁCH HÀNG VÀ TRẢ TRƯỚC CHO NGƯỜI BÁN
+
+6.1 Phái thu khách hàng
+
+<table><tr><td rowspan="2"></td><td rowspan="2">Số cuối năm</td><td>Đơn vị tính: VND</td></tr><tr><td>Số đầu năm</td></tr><tr><td colspan="3">Ngắn hạn</td></tr><tr><td>Phải thu từ các bên khác</td><td>230.455.908.824</td><td>316.029.232.439</td></tr><tr><td>Phải thu từ các bên liên quan(Thuyết minh số 29)</td><td>252.661.456.579</td><td>391.496.523.834</td></tr><tr><td>TỔNG CỘNG</td><td>483.117.365.403</td><td>707.525.756.273</td></tr><tr><td>Dư phòng phải thu ngắn hạn khó đòi</td><td>-</td><td>-</td></tr><tr><td colspan="3">Dải hạn</td></tr><tr><td>Phải thu từ các bên liên quan (*) (Thuyết minh số 29)</td><td>35.000.000.000</td><td>-</td></tr><tr><td>TỔNG CỘNG</td><td>35.000.000.000</td><td>-</td></tr></table>
+
+(*) Đây là các khoản phải thu khách hàng dài hạn từ Công ty Cổ phần Vật liệu Xây dựng Công nghệ cao An Cường ("Công ty An Cường") với kỳ hạn trả là 15 tháng.
+
+22
+
+===== PAGE 25 =====
+Công ty Cổ phần Nhựa An Phát Xanh
+
+B09-DN
+
+THUYÊT MINH BẢO CẢO TÀI CHÍNH RIÊNG (tiếp theo)
+
+vào ngày 31 tháng 12 năm 2020 và cho năm tài chính kết thúc cũng ngày
+
+6. PHẢI THU KHẢCH HẢNG VÀ TRẢ TRƯỚC CHO NGƯỜI BẢN (tiếp theo)
+
+6.2 Trả trước cho người bán ngắn hạn
+
+<table><tr><td rowspan="2"></td><td rowspan="2">Số cuối năm</td><td>Đơn vị tính: VND</td></tr><tr><td>Số đầu năm</td></tr><tr><td>Đối tác doanh nghiệp số 2</td><td>18.743.465.070</td><td>-</td></tr><tr><td>Công ty TNHH GC Marketing Solutions Việt Nam</td><td>15.290.055.000</td><td>-</td></tr><tr><td>Trả trước cho các bên khác</td><td>45.629.850.796</td><td>89.877.868.785</td></tr><tr><td>Trả trước cho các bên liên quan (Thuyết minh số 29)</td><td>40.433.011.981</td><td>35.187.268.614</td></tr><tr><td>TỔNG CỘNG</td><td>120.096.382.847</td><td>125.065.137.399</td></tr></table>
+
+7. PHẢI THU VỀ CHO VAY NGÁN HẠN
+
+<table><tr><td rowspan="2"></td><td rowspan="2">Số cuối năm</td><td>Đơn vị tính: VND</td></tr><tr><td>Số đầu năm</td></tr><tr><td>Công ty An Phát Complex (i)</td><td>79.660.000.000</td><td>-</td></tr><tr><td>Đối tác doanh nghiệp 1</td><td>-</td><td>70.078.000.000</td></tr><tr><td>Đối tượng khác (ii)</td><td>17.517.390.561</td><td>51.610.000.000</td></tr><tr><td>TỔNG CỘNG</td><td>97.177.390.561</td><td>121.688.000.000</td></tr><tr><td colspan="3">Trong đó:</td></tr><tr><td>Phải thu về cho vay ngắn hạn khác</td><td>17.517.390.561</td><td>121.688.000.000</td></tr><tr><td>Phải thu về cho vay ngắn hạn từ các bên liên quan (Thuyết minh số 29)</td><td>79.660.000.000</td><td>-</td></tr></table>
+
+(i) Đầy là các khoản cho Công ty An Phát Complex vay không có tài sản đảm bảo theo các Hợp đồng vay đảo hạn trong 6 tháng, và hưởng lãi suất 6,5%/năm.
+
+(ii) Đây là các khoản cho cán bộ công nhân viên vay không có tài sản đảm bảo theo các Hợp đồng vay đảo hạn từ 3 đến 12 tháng, và hướng lãi suất từ 6,5% đến 10%/năm.
+
+23
+
+===== PAGE 26 =====
+Công ty Cổ phần Nhựa An Phát Xanh
+
+B09-DN
+
+THUYÊT MINH BÁO CẢO TÀI CHÍNH RIÊNG (tiếp theo)
+
+vào ngày 31 tháng 12 năm 2020 và cho năm tài chính kết thúc cứng ngày
+
+8. PHẢI THU KHẮC
+
+<table><tr><td rowspan="3"></td><td colspan="2">Số cuối năm</td><td colspan="2">Đơn vị tính: VND</td></tr><tr><td colspan="2"></td><td colspan="2">Số đầu năm</td></tr><tr><td>Già trị</td><td>Dự phòng</td><td>Già trị</td><td>Dự phòng</td></tr><tr><td colspan="5">Ngắn hạn</td></tr><tr><td>Phải thu về góp vốn hợp tác kinh doanh (*)</td><td>400.000.000.000</td><td></td><td></td><td></td></tr><tr><td>Đặt cọc mua cổ phần (**)</td><td>115.829.400.000</td><td></td><td>67.750.680.000</td><td></td></tr><tr><td>Phải thu lợi nhuận được chia tử hợp đồng hợp tác kinh doanh (**)</td><td>53.121.899.780</td><td></td><td>47.510.351.300</td><td></td></tr><tr><td>Tạm ứng</td><td>26.087.980.951</td><td></td><td>9.900.490.150</td><td></td></tr><tr><td>Lãi dự thu</td><td>16.635.029.574</td><td></td><td>32.660.600.815</td><td></td></tr><tr><td>Ký cược, ký quỹ</td><td>11.295.030.995</td><td></td><td>10.531.072.637</td><td></td></tr><tr><td>Phải thu khác</td><td>5.239.530.891</td><td></td><td>15.908.045.101</td><td></td></tr><tr><td>TỔNG CỘNG</td><td>628.208.872.191</td><td></td><td>184.261.240.003</td><td></td></tr><tr><td colspan="5">Trong đó:</td></tr><tr><td>Phải thu ngắn hạn khác</td><td>44.160.608.623</td><td></td><td>120.853.513.703</td><td></td></tr><tr><td>Phải thu ngắn hạn khác từ các bên liên quan (Thuyết minh số 29)</td><td>584.048.263.568</td><td></td><td>63.407.726.300</td><td></td></tr><tr><td colspan="5">Dải hạn</td></tr><tr><td>Phải thu về góp vốn hợp tác kinh doanh (*)</td><td></td><td></td><td>400.000.000.000</td><td></td></tr><tr><td>Phải thu khác (***)</td><td>15.987.169.081</td><td></td><td>17.409.869.081</td><td></td></tr><tr><td>TỔNG CỘNG</td><td>15.987.169.081</td><td></td><td>417.409.869.081</td><td></td></tr><tr><td colspan="5">Trong đó:</td></tr><tr><td>Phải thu dài hạn khác</td><td>15.987.169.081</td><td></td><td>17.409.869.081</td><td></td></tr><tr><td>Phải thu dài hạn khác từ các bên liên quan (Thuyết minh số 29)</td><td></td><td></td><td>400.000.000.000</td><td></td></tr></table>
+
+(*) Ngày 11 tháng 10 năm 2018, Công ty và Công ty An Phát Complex kỳ hợp đồng hợp tác kinh doanh số 10.11.02/2018/HD-AAA-APC để đầu tư và phát triển Dự án "Khu Công nghiệp Kỹ thuật cao An Phát". Theo đó, Công ty đã góp vốn 400 tỷ VND vào Dự án này và sẽ được hưởng lợi nhuận kể từ ngày Dự án bắt đầu đi vào kinh doanh, khai thác. Mức lợi nhuận mà Công ty được hưởng sẽ được thực hiện hàng quý trên tỷ lệ 400/2.100 tổng lợi nhuận sau thuế. Trong năm, Công ty đã nhận được biển bản quyết toán lợi nhuận của năm 2020 và được chia lợi nhuận với số tiến là 5.611.548.480 VND. Theo đó, Công ty đã hạch toán khoản phải thu ngắn hạn và doanh thu hoạt động tài chính cho khoản lợi nhuận được chia này.
+
+Tại ngày 30 tháng 9 năm 2020, Công ty và Công ty An Phát Complex đã ký phụ lực hợp đồng hợp tác kinh doanh chính sửa thời gian hợp tác từ 4 năm xuống thành 3 năm và sẽ đến hạn vào tháng 10 năm 2021. Theo đó, khoản phải thu về góp vốn hợp tác kinh doanh đã được phân loại lại từ phải thu dài hạn khác thanh phải thu ngắn hạn khác.
+
+(**) Đầy là khoản đặt cọc cho Công ty An Phat International Inc theo thỏa thuận phát hành cổ phần của Công ty An Phat International Inc cho mục đích mua 30.000.000 cổ phần dự kiến phát hành thêm của công ty này.
+
+(***) Chủ yếu là số dư tiên bởi thường đất, hỗ trợ đất sẽ được trừ vào tiên thuê đất phải nộp hàng năm của dự án Nhà máy sản xuất hạt nhựa và bao bi số 6 ("Nhà máy số 6") từ tháng 6 năm 2017 đến tháng 12 năm 2043.
+
+24
+
+===== PAGE 27 =====
+Công ty Cổ phần Nhựa An Phát Xanh
+
+B09-DN
+
+THUYÊT MINH BẢO CẢO TẢI CHÍNH RIÊNG (tiếp theo)
+
+vào ngày 31 tháng 12 năm 2020 và cho năm tài chính kết thúc cứng ngày
+
+9. HÀNG TÔN KHO
+
+Đơn vị tính: VND
+
+<table><tr><td rowspan="2"></td><td colspan="2">Số cuối năm</td><td colspan="2">Số đầu năm</td></tr><tr><td>Giá gốc</td><td>Dự phòng</td><td>Giá gốc</td><td>Dự phòng</td></tr><tr><td>Hàng mua đang đi đường</td><td>45.856.700.000</td><td>-</td><td>119.391.661.231</td><td>-</td></tr><tr><td>Nguyén vật liệu</td><td>214.865.233.766</td><td>-</td><td>342.019.753.759</td><td>-</td></tr><tr><td>Công cụ, dụng cụ</td><td>17.774.746.479</td><td>-</td><td>25.160.308.492</td><td>-</td></tr><tr><td>Chi phí sản xuất kinh doanh dở dang</td><td>4.970.734.580</td><td>-</td><td>3.885.298.029</td><td>-</td></tr><tr><td>Thành phẩm</td><td>133.771.417.570</td><td>-</td><td>127.158.568.771</td><td>-</td></tr><tr><td>Hàng hóa</td><td>-</td><td>-</td><td>85.127.556.155</td><td>-</td></tr><tr><td>TỔNG CỘNG</td><td>417.238.832.395</td><td>-</td><td>702.743.146.437</td><td>-</td></tr></table>
+
+Một số hàng tồn kho của Công ty với giá trị 417 tỷ VND đã được sử dụng làm tài sản thể chấp cho các khoản vay như được trình bày tại Thuyết minh số 19.
+
+25
+
+===== PAGE 28 =====
+Công ty Cổ phần Nhựa An Phát Xanh
+
+THUYÊT MINH BẢO CÁO TÀI CHÍNH RIÊNG (tiếp theo)
+
+vào ngày 31 tháng 12 năm 2020 và cho năm tài chính kết thúc cũng ngày
+
+10. TÀI SẢN CÓ ĐỊNH HỮU HÌNH
+
+<table><tr><td></td><td>Nhà cửa,vật kiến trúc</td><td>Máy móc,thiết bị</td><td>Phương tiệnvận tải, truyền dẫn</td><td>Thiết bịvăn phòng</td><td>Cây lâu năm, sùcvật làm việc vàcho sản phẩm</td><td>Tài sản cố địnhhửu hình khác</td><td>Tổng cộng</td></tr><tr><td colspan="8">Nguyên giá:</td></tr><tr><td>Số đầu năm- Mua trong năm- Thanh lý, nhượng bán</td><td>558.484.692.255</td><td>1.642.083.684.52314.616.388.315</td><td>176.796.767.3252.694.153.637(11.553.552.247)</td><td>6.039.801.7341.359.796.000</td><td>13.615.020.000</td><td>24.559.146.246</td><td>2.421.579.112.08318.670.337.952(11.553.552.247)</td></tr><tr><td>Số cuối năm</td><td>558.484.692.255</td><td>1.656.700.072.838</td><td>167.937.368.715</td><td>7.399.597.734</td><td>13.615.020.000</td><td>24.559.146.246</td><td>2.428.695.897.788</td></tr><tr><td>Trong đó:Dã khấu hao hết</td><td>7.221.691.070</td><td>177.323.393.496</td><td>19.381.370.455</td><td>304.350.659</td><td>865.970.000</td><td>1.440.454.545</td><td>206.537.230.225</td></tr><tr><td colspan="8">Giả trị khấu hao lũy kế:</td></tr><tr><td>Số đầu năm- Khấu hao trong năm- Thanh lý, nhượng bán</td><td>111.138.836.36327.489.643.957</td><td>643.453.863.051143.142.947.205</td><td>76.047.540.07819.328.715.488(8.395.377.388)</td><td>2.863.713.7001.049.666.214</td><td>6.581.064.568664.129.779</td><td>10.977.287.8022.454.241.116</td><td>851.062.305.562194.129.343.759(8.395.377.388)</td></tr><tr><td>Số cuối năm</td><td>138.628.480.320</td><td>786.596.810.256</td><td>86.980.878.178</td><td>3.913.379.914</td><td>7.245.194.347</td><td>13.431.528.918</td><td>1.036.796.271.933</td></tr><tr><td colspan="8">Giả trị còn lại:</td></tr><tr><td>Số đầu năm</td><td>447.345.855.892</td><td>998.629.821.472</td><td>100.749.227.247</td><td>3.176.088.034</td><td>7.033.955.432</td><td>13.581.858.444</td><td>1.570.516.806.521</td></tr><tr><td>Số cuối năm</td><td>419.856.211.935</td><td>870.103.262.582</td><td>80.956.490.537</td><td>3.486.217.820</td><td>6.369.825.653</td><td>11.127.617.328</td><td>1.391.899.625.855</td></tr></table>
+
+B09-DN
+
+26
+
+\( h_{2} \)  王小
+
+===== PAGE 29 =====
+Công ty Cổ phần Nhựa An Phát Xanh
+
+B09-DN
+
+THUYÊT MINH BẢO CẢO TÀI CHÍNH RIÊNG (tiếp theo)
+
+vào ngày 31 tháng 12 năm 2020 và cho năm tài chính kết thúc cứng ngày
+
+11. TÀI SẢN CÓ ĐỊNH VÔ HÌNH
+
+<table><tr><td></td><td>Quyền sử dụng đất</td><td>Phần mềm máy tính</td><td>Đơn vị tính: VNDTổng cộng</td></tr><tr><td colspan="4">Nguyên giả:</td></tr><tr><td>Số đầu năm</td><td>78.087.072.029</td><td>284.500.000</td><td>78.371.572.029</td></tr><tr><td>- Mua trong năm</td><td>-</td><td>317.178.000</td><td>317.178.000</td></tr><tr><td>Số cuối năm</td><td>78.087.072.029</td><td>601.678.000</td><td>78.688.750.029</td></tr><tr><td colspan="4">Giả trị hao mòn lùy kế:</td></tr><tr><td>Số đầu năm</td><td>9.815.727.634</td><td>234.806.885</td><td>10.050.534.519</td></tr><tr><td>- Hao mòn trong năm</td><td>2.532.803.640</td><td>73.425.620</td><td>2.606.229.260</td></tr><tr><td>Số cuối năm</td><td>12.348.531.274</td><td>308.232.505</td><td>12.656.763.779</td></tr><tr><td colspan="4">Giả trị còn lại:</td></tr><tr><td>Số đầu năm</td><td>68.271.344.395</td><td>49.693.115</td><td>68.321.037.510</td></tr><tr><td>Số cuối năm</td><td>65.738.540.755</td><td>293.445.495</td><td>66.031.986.250</td></tr></table>
+
+Toán bộ tài sản cố định vô hình của Công ty với giả trị là 65,7 tỷ VND đã được sử dụng làm tài sản thể chấp cho các khoản vay như được trình bày tại Thuyết minh số 19.
+
+12. CHI PHÍ XÃY DỰNG CƠ BÁN DỞ DANG
+
+<table><tr><td></td><td>Số cuối năm</td><td>Đơn vị tính: VND Số đầu năm</td></tr><tr><td>Dư án đầu tư Nhà máy sản xuất hạt nhựa và bao bì vi sinh phân hủy hoàn toàn (Nhà máy số 8)</td><td>213.384.210.314</td><td>131.792.632.650</td></tr><tr><td>Mua sắm TSCĐ</td><td>923.904.000</td><td>-</td></tr><tr><td>TỔNG CỘNG</td><td>214.308.114.314</td><td>131.792.632.650</td></tr></table>
+
+27
+
+===== PAGE 30 =====
+Công ty Cổ phần Nhựa An Phát Xanh
+
+THUYÊT MINH BẢO CẢO TÀI CHÍNH RIÊNG (tiếp theo)
+
+vào ngày 31 tháng 12 năm 2020 và cho năm tài chính kết thúc cứng ngày
+
+13. ĐẦU TƯ TÀI CHÍNH DÀI HẠN
+
+<table><tr><td rowspan="2"></td><td colspan="5">Số cuối năm</td><td colspan="4">Số đầu năm</td></tr><tr><td>Tỷ lệ vốn năm gió (%)</td><td>Tỷ lệ biểu quyết (%)</td><td>Giá gốc</td><td>Dự phòng</td><td>Giá trị hợp lý</td><td>Tỷ lệ vốn năm giữ (%)</td><td>Tỷ lệ biểu quyết (%)</td><td>Giá gốc</td><td>Dự phòng</td></tr><tr><td>Đầu tư vào công ty conCông ty An Tiên (i)Công ty An Phát Complex(**)Công ty An Thành (**) (ii)Công ty An Vinh (**) (iv)</td><td>63,54100,0074,1256,51</td><td>63,54100,0099,3756,51</td><td>245.094.519.238910.000.000.00067.200.000.000243.000.000.0001.465.294.519.238</td><td>-</td><td>354.109.366.200910.000.000.00067.200.000.000240.147.067.115(2.852.932.885)1.571.456.433.315</td><td>50,99100,0035,31-</td><td>50,99100,0069,26-</td><td>197.491.252.000910.000.000.000-</td><td>-136.320.000.000910.000.000.000-1.046.320.000.000</td></tr><tr><td>Đầu tư vào công ty liên kếtCông ty Nhựa Hà Nội (iii)</td><td>20,24</td><td>20,24</td><td>360.055.546.231360.055.546.231</td><td>-</td><td>418.971.397.600418.971.397.600</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>Đầu tư góp vốn vào đơn vị khácCông ty Cổ phần Nhựa Bao bi Vinh (v)</td><td>10</td><td>10</td><td>17.353.094.15817.353.094.158</td><td>(478.094.158)(478.094.158)</td><td>16.875.000.00016.875.000.000</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>TỔNG CỘNG</td><td></td><td></td><td>1.842.703.159.627</td><td>(3.331.027.043)</td><td>2.007.302.830.915</td><td></td><td></td><td>1.107.491.252.000</td><td>-1.046.320.000.000</td></tr></table>
+
+B09-DN
+
+28
+
+===== PAGE 31 =====
+Công ty Cổ phần Nhựa An Phát Xanh
+
+THUYẾT MINH BẢO CẢO TÀI CHÍNH RIÊNG (tiếp theo)
+
+vào ngày 31 tháng 12 năm 2020 và cho năm tài chính kết thúc cùng ngày
+
+13. ĐẦU TƯ TÀI CHÍNH ĐÀI HẠN (tiếp theo)
+
+(ii) Trong tháng 6 năm 2020, Công ty đã nhân chuyển nhượng 26,03% vốn cổ phần của Công ty An Thành với tổng giá phí là 58.100.000.000 VND từ Công ty Cổ phần Tập đoàn An Phát Holdings ("Công ty An Phát Holdings"), công ty mẹ. Công trong tháng 6 năm 2020, Công ty đã nhận chuyển nhượng 4,08% vốn cổ phần của Công ty An Thành với tổng giá phí là 9.100.000.000 VND từ một bên thứ ba. Theo đó, tỷ lệ vốn năm giữ trực tiếp của Công ty tai Công ty An Thành tai ngày 31 tháng 12 năm 2020 là 30,11%, đồng thời, Công ty nằm giữ giản tiếp 44,01% tỷ lệ lời ích tại Công ty An Thành thông qua Công ty An Tiến.
+
+(iii) Tử tháng 9 đến tháng 11 năm 2020, Công ty đã thực hiện mua tổng cộng là 7.367.257 cổ phiếu của Công ty Nhưa Hà Nội.
+
+Giá trị hợp lý của khoản đầu tư góp vốn vào Công ty Nhựa Hà Nội (mã chứng khoản giao dịch: NHH) được xác định theo giả đồng cửa phiên giao dịch ngày 31 tháng 12 năm 2020 trên HOSE.
+
+(iv) Trong tháng 6 năm 2020, Công ty An Vinh đã phát hành thêm 3.000.000 cổ phần cho Công ty với tổng giả phí là 30.000.000.000 VND. Ngày 1 tháng 7 năm 2020, Công ty nhận chuyển nhượng 21.300.000 cổ phần với tổng giả phí là 213.000.000.000 VND. Theo đó, tỷ lệ vốn năm giữ của Công ty tại Công ty An Vinh tai ngày 31 tháng 12 năm 2020 là 56,51%.
+
+(v) Trong tháng 6 năm 2020, Công ty đã mua 745.184 cổ phiếu của Công ty Cổ phần Nhựa Bao bi Vinh trên sản chứng khoán HNX với tổng giá phí là 18.551.385.400 VND. Ngày 10 tháng 7 năm 2020, Công ty mua bổ sung 4.816 cổ phiếu trên sản chứng khoán HNX với giá 95,982,158 VND. Theo đó, tỷ lệ vốn năm giữ trực tiếp của Công ty tại Công ty Cổ phần Nhựa Bao bi Vinh tại ngày 31 tháng 12 năm 2020 la 10%.
+
+Giá trị hợp lý của khoản đầu tư góp vốn vào Công ty Cổ phần Nhựa Bao bì Vinh (mã chứng khoán giao dịch: VBC) được xác định theo giá đóng cửa phiên giao dịch ngày 31 tháng 12 năm 2020 trên Sở giao dịch chứng khoán Hà Nội.
+
+(**) Do cổ phiếu của các công ty này chưa được niêm yết trên thị trường chứng khoán và Công ty đang trong quả trình thu thập các thông tin cần thiết để xác định giá trị hợp lý nên Công ty đang trình bày giá trị hợp lý của khoản đầu tư theo giá trị ghi sở.
+
+B09-DN
+
+29
+
+===== PAGE 32 =====
+Công ty Cổ phần Nhựa An Phát Xanh
+
+B09-DN
+
+THUYÊT MINH BẢO CẢO TÀI CHÍNH RIÊNG (tiếp theo)
+
+vào ngày 31 tháng 12 năm 2020 và cho năm tài chính kết thúc cùng ngày
+
+14. CHI PHÍ TRÀ TRƯỚC
+
+<table><tr><td rowspan="2"></td><td rowspan="2">Số cuối năm</td><td>Đơn vị tính: VND</td></tr><tr><td>Số đầu năm</td></tr><tr><td colspan="3">Ngắn hạn</td></tr><tr><td>Công cụ, dụng cụ xuất dùng</td><td>18.947.351.357</td><td>14.910.220.500</td></tr><tr><td>Chi phí trả trước khác</td><td>1.325.570.515</td><td>5.400.993.263</td></tr><tr><td>TỔNG CỘNG</td><td>20.272.921.872</td><td>20.311.213.763</td></tr><tr><td colspan="3">Dải hạn</td></tr><tr><td>Công cụ, dụng cụ xuất dùng</td><td>9.159.941.176</td><td>14.522.567.021</td></tr><tr><td>Chi phí sửa chữa</td><td>3.888.413.468</td><td>4.377.274.350</td></tr><tr><td>Chi phí tư vấn phát triển thị trường</td><td>-</td><td>3.225.750.000</td></tr><tr><td>Chi phí trả trước khác</td><td>96.339.831</td><td>262.649.112</td></tr><tr><td>TỔNG CỘNG</td><td>13.144.694.475</td><td>22.388.240.483</td></tr></table>
+
+15. PHẢI TRẢ NGƯỜI BÁN VÀ NGƯỜI MUA TRẢ TIÊN TRƯỚC
+
+15.1 Phải trả người bán
+
+<table><tr><td rowspan="2"></td><td colspan="2">Số cuối năm</td><td colspan="2">Số đầu năm</td></tr><tr><td>Giá trị</td><td>Số có khả năng trả nợ</td><td>Giá trị</td><td>Số có khả năng trả nợ</td></tr><tr><td colspan="5">Ngắn hạn</td></tr><tr><td>Phải trả người bán</td><td>399.504.634.070</td><td>399.504.634.070</td><td>495.460.772.615</td><td>495.460.772.615</td></tr><tr><td>Đối tác doanh nghiệp 4</td><td>110.290.122.848</td><td>110.290.122.848</td><td>175.376.050.090</td><td>175.376.050.090</td></tr><tr><td>Đối tác doanh nghiệp 5</td><td>93.361.094.382</td><td>93.361.094.382</td><td>62.985.181.781</td><td>62.985.181.781</td></tr><tr><td>Đối tác doanh nghiệp 6</td><td>40.298.804.932</td><td>40.298.804.932</td><td>66.354.855.891</td><td>66.354.855.891</td></tr><tr><td>Khác</td><td>155.554.611.908</td><td>155.554.611.908</td><td>190.744.684.853</td><td>190.744.684.853</td></tr><tr><td>Phải trả cho các bên liên quan (Thuyết minh số 29)</td><td>15.597.858.768</td><td>15.597.858.768</td><td>7.674.998.573</td><td>7.674.998.573</td></tr><tr><td>TỔNG CỘNG</td><td>415.102.492.838</td><td>415.102.492.838</td><td>503.135.771.188</td><td>503.135.771.188</td></tr><tr><td colspan="5">Dải hạn</td></tr><tr><td>Phải trả cho bên khác</td><td>14.893.277.977</td><td>14.893.277.977</td><td>-</td><td>-</td></tr><tr><td>Phải trả cho các bên liên quan (Thuyết minh số 29)</td><td>22.792.936.812</td><td>22.792.936.812</td><td>-</td><td>-</td></tr><tr><td>TỔNG CỘNG</td><td>37.686.214.789</td><td>37.686.214.789</td><td>-</td><td>-</td></tr></table>
+
+15.2 Người mua trả tiền trước ngắn hạn
+
+<table><tr><td rowspan="3"></td><td rowspan="2" colspan="2">Số cuối năm</td><td colspan="2">Đơn vị tính: VND</td></tr><tr><td colspan="2">Số đầu năm</td></tr><tr><td>Giá trị</td><td>Số có khả năngtrả nợ</td><td>Giá trị</td><td>Số có khả năngtrả nợ</td></tr><tr><td>Người mua trả tiền trước</td><td>29.420.301.344</td><td>29.420.301.344</td><td>29.347.910.167</td><td>29.347.910.167</td></tr><tr><td>Trả trước từ bên liên quan(Thuyết minh số 29)</td><td>20.114.768.950</td><td>20.114.768.950</td><td>-</td><td>-</td></tr><tr><td>TỔNG CỘNG</td><td>49.535.070.294</td><td>49.535.070.294</td><td>29.347.910.167</td><td>29.347.910.167</td></tr></table>
+
+30
+
+===== PAGE 33 =====
+Công ty Cổ phần Nhựa An Phát Xanh
+
+B09-DN
+
+THUYẾT MINH BẢO CẢO TÀI CHÍNH RIÊNG (tiếp theo)
+
+vào ngày 31 tháng 12 năm 2020 và cho năm tài chính kết thúc cùng ngày
+
+16. THUÊ VÀ CÁC KHOẢN PHẢI NỘP NHÀ NƯỚC
+
+<table><tr><td></td><td>Số đầu năm</td><td>Số phải nộp trong năm</td><td>Số đã nộp trong năm</td><td>Đơn vị tính: VND</td></tr><tr><td>Thuế thu nhập doanh nghiệp</td><td>15.474.745.526</td><td>25.006.847.013</td><td>(33.886.870.362)</td><td>6.594.722.177</td></tr><tr><td>Thuế giả trị gia tăng</td><td>-</td><td>27.681.576.441</td><td>(22.404.426.796)</td><td>5.277.149.645</td></tr><tr><td>Thuế thu nhập cả nhân</td><td>36.862.564</td><td>2.836.438.239</td><td>(2.811.366.492)</td><td>61.934.311</td></tr><tr><td>Thuế xuất nhập khẩu</td><td>-</td><td>1.286.896.676</td><td>(1.286.896.676)</td><td>-</td></tr><tr><td>Các loại thuế khác</td><td>110.315.000</td><td>2.602.383.708</td><td>(833.759.774)</td><td>1.878.938.934</td></tr><tr><td>TỔNG CỘNG</td><td>15.621.923.090</td><td>59.414.142.077</td><td>(61.223.320.100)</td><td>13.812.745.067</td></tr></table>
+
+17. CHI PHÍ PHÁI TRÁ NGĂN HẠN
+
+<table><tr><td rowspan="2"></td><td rowspan="2">Số cuối năm</td><td>Đơn vị tính: VND</td></tr><tr><td>Số đầu năm</td></tr><tr><td>Chi phí lãi vay và trái phiếu phải trả</td><td>6.212.831.306</td><td>5.019.286.713</td></tr><tr><td>TỔNG CỘNG</td><td>6.212.831.306</td><td>5.019.286.713</td></tr></table>
+
+18. PHẢI TRẢ NGÁN HẠN KHÁC
+
+<table><tr><td rowspan="2"></td><td colspan="2">Don vị tính: VND</td></tr><tr><td>Số cuối năm</td><td>Số đầu năm</td></tr><tr><td>Đặt cọc</td><td>615.042.580</td><td>615.042.580</td></tr><tr><td>Kinh phí công đoàn</td><td>289.796.650</td><td>746.103.358</td></tr><tr><td>Phải trả bên liên quan (Thuyết minh số 29)</td><td>3.226.264.797</td><td>1.953.485.855</td></tr><tr><td>Phải trả khác</td><td>934.134.748</td><td>1.020.013.230</td></tr><tr><td>TỔNG CỘNG</td><td>5.065.238.775</td><td>4.334.645.023</td></tr></table>
+
+31
+
+===== PAGE 34 =====
+Công ty Cổ phần Nhựa An Phát Xanh
+
+B09-DN
+
+THUYẾT MINH BẢO CẢO TẢI CHÍNH RIÊNG (tiếp theo)
+vào ngày 31 tháng 12 năm 2020 và cho năm tài chính kết thúc cùng ngày
+
+19. VAY VÀ NỘ
+
+<table><tr><td rowspan="2"></td><td rowspan="2">Thuyết minh</td><td colspan="2">Số đầu năm</td><td colspan="2">Số phát sinh trong năm</td><td rowspan="2">Chếnh lệch tỷ giá</td><td colspan="2">Số cuối năm</td></tr><tr><td>Giế trị</td><td>Số có khá năng trả nợ</td><td>Tăng</td><td>Giảm</td><td>Giế trị</td><td>Số có khá năng trả nợ</td></tr><tr><td colspan="9">Vay ngân hạn</td></tr><tr><td>Vay ngân hàng</td><td>19.1</td><td>1.849.196.389.367</td><td>1.849.196.389.367</td><td>4.015.358.368.806</td><td>(4.159.696.673.260)</td><td>482.101.420</td><td>1.705.340.186.333</td><td>1.705.340.186.333</td></tr><tr><td>Vay dài hạn đến hạn trả</td><td>19.2</td><td></td><td></td><td>30.329.985.471</td><td></td><td></td><td>30.329.985.471</td><td>30.329.985.471</td></tr><tr><td>Vay bên liên quan</td><td></td><td></td><td></td><td>10.000.000.000</td><td>(10.000.000.000)</td><td></td><td></td><td></td></tr><tr><td>Vay bên khác</td><td></td><td></td><td></td><td>21.460.142.000</td><td>(21.460.142.000)</td><td></td><td></td><td></td></tr><tr><td>Trải phiếu phát hành đến hạn trả</td><td>19.5</td><td></td><td></td><td>446.128.863.627</td><td></td><td></td><td>446.128.863.627</td><td>446.128.863.627</td></tr><tr><td>TỔNG CỘNG</td><td></td><td>1.849.196.389.367</td><td>1.849.196.389.367</td><td>4.523.277.359.904</td><td>(4.191.156.815.260)</td><td>482.101.420</td><td>2.181.799.035.431</td><td>2.181.799.035.431</td></tr><tr><td colspan="9">Vay dài hạn</td></tr><tr><td>Vay ngân hàng</td><td>19.2</td><td>365.746.405.147</td><td>365.746.405.147</td><td>9.702.593.779</td><td>(150.874.214.149)</td><td>8.049.968</td><td>224.582.834.745</td><td>224.582.834.745</td></tr><tr><td>Vay bên liên quan</td><td>19.3</td><td></td><td></td><td>17.200.000.000</td><td></td><td></td><td>17.200.000.000</td><td>17.200.000.000</td></tr><tr><td>Vay ca nhân</td><td>19.4</td><td></td><td></td><td>16.200.000.000</td><td></td><td></td><td>16.200.000.000</td><td>16.200.000.000</td></tr><tr><td>Trải phiếu phát hành</td><td>19.5</td><td>491.453.499.995</td><td>491.453.499.995</td><td>4.675.363.632</td><td>(496.128.863.627)</td><td></td><td></td><td></td></tr><tr><td>TỔNG CỘNG</td><td></td><td>857.199.905.142</td><td>857.199.905.142</td><td>47.777.957.411</td><td>(647.003.077.776)</td><td>8.049.968</td><td>257.982.834.745</td><td>257.982.834.745</td></tr><tr><td>TỔNG CỘNG</td><td></td><td>2.706.396.294.509</td><td>2.706.396.294.509</td><td>4.571.055.317.315</td><td>(4.838.159.893.036)</td><td>490.151.388</td><td>2.439.781.870.176</td><td>2.439.781.870.176</td></tr></table>
+
+32
+
+===== PAGE 35 =====
+Công ty Cổ phần Nhựa An Phát Xanh
+
+B09-DN
+
+THUYÊT MINH BẢO CẢO TẢI CHÍNH RIÊNG (tiếp theo)
+
+vào ngày 31 tháng 12 năm 2020 và cho năm tái chính kết thúc cứng ngày
+
+19. VAY VÀ NỘ (tiếp theo)
+
+19.1 Vay ngân hàng ngân hạn
+
+<table><tr><td>Các khoản vay</td><td>Số cuối năm (VND)</td><td>Ký hạn trả gốc và lãi</td><td>Lãi suất năm</td></tr><tr><td>Các khoản vay ngân hàng bằng VND</td><td>585.871.557.020</td><td>Thời hạn vay theo từng khế ước nhận nợ, tối đa 6 tháng. Lãi vay trả vào ngày 20 đến 28 hàng tháng.</td><td>4,2% - 5,6%</td></tr><tr><td>Các khoản vay ngân hàng bằng USD</td><td>1.119.468.629.313</td><td>Thời hạn vay theo từng khế ước nhận nợ, tối đa 6 tháng. Lãi vay trả vào ngày 20 đến 28 hàng tháng hoặc trả vào cuối kỳ</td><td>1,5% - 2,7%</td></tr><tr><td>TỔNG CỘNG</td><td>1.705.340.186.333</td><td></td><td></td></tr><tr><td>Trong đó:Vay có tài sản đảm bảoVay tin chấp</td><td>1.705.340.186.333</td><td></td><td></td></tr></table>
+
+Các khoản vay có tài sản đảm bảo được thể chấp bằng các khoản mục sau như đã được thuyết minh tại các khoản mục tương ứng:
+
+một số chứng chỉ tiền gửi tại các ngân hàng thương mại;
+
+▶ hàng tồn kho tại các nhà máy theo các hợp đồng thế chấp; và
+
+▶ một số phương tiện vận tải; máy móc thiết bị, nhà cửa vật kiến trúc và một số tái sản khác.
+
+19.2 Vay ngân hàng dài hạn
+
+<table><tr><td>Các khoản vay</td><td>Số cuối năm (VND)</td><td>Kỳ hạn trả gốc và lãi</td><td>Lãi suất năm</td></tr><tr><td>Các khoản vay ngân hàng bằng VND</td><td>247.302.014.616</td><td>Gốc vay được trả lần cuối từ tháng 9 năm 2025. Lãi vay trả hàng tháng.</td><td>8% - 10,5%</td></tr><tr><td>Các khoản vay ngân hàng bằng USD</td><td>7.610.805.600</td><td>Gốc vay được trả lần cuối gần nhất vào tháng 12 năm 2021. Lãi vay trả hàng tháng.</td><td>5,5%</td></tr><tr><td>TỔNG CỘNG</td><td>254.912.820.216</td><td></td><td></td></tr><tr><td colspan="4">Trong đó:</td></tr><tr><td>Vay có tài sản đảm bảo</td><td>254.912.820.216</td><td></td><td></td></tr><tr><td>Vay tín chấp</td><td>-</td><td></td><td></td></tr><tr><td colspan="4">Trong đó:</td></tr><tr><td>Vay dài hạn đến hạn trả</td><td>30.329.985.471</td><td></td><td></td></tr><tr><td>Vay dài hạn</td><td>224.582.834.745</td><td></td><td></td></tr></table>
+
+Các khoản vay có tài sản đảm bảo được thể chấp bằng các khoản mục sau như đã được thuyết minh tại các khoản mục tương ứng:
+
+▶ hàng tồn kho tai các nhà máy theo các hợp đồng thể chấp;
+
+một số phương tiện vận tải; máy móc thiết bị, nhà cửa vật kiến trúc; và
+
+một số tài sản khác gần liên với đất.
+
+33
+
+===== PAGE 36 =====
+Công ty Cổ phần Nhựa An Phát Xanh
+
+B09-DN
+
+THUYÊT MINH BẢO CẢO TẢI CHÍNH RIÊNG (tiếp theo)
+
+vào ngày 31 tháng 12 năm 2020 và cho năm tài chính kết thúc cũng ngày
+
+19. VAY VÀ NỘ (tiếp theo)
+
+19.3 Các khoản vay từ bên liên quan
+
+<table><tr><td>Các khoản vay</td><td>Số cuối năm(VND)</td><td>Kỳ hạn trả gốc và lãi</td><td>Lãi suất năm</td></tr><tr><td>Công ty An Tín</td><td>10.000.000.000</td><td>Trà gốc và lãi vào ngày đáo hạn 18 tháng 12 năm 2022.</td><td>7%</td></tr><tr><td>Công ty An Phát Complex 1</td><td>7.200.000.000</td><td>Trà gốc và lãi vào ngày đáo hạn 24 tháng 12 năm 2022.</td><td>7,5%</td></tr></table>
+
+<table><tr><td>TỔNG CỘNG</td><td>17.200.000.000</td></tr><tr><td colspan="2">Trong đó:</td></tr><tr><td>Vay có tài sản đảm bảo</td><td>-</td></tr><tr><td>Vay tín chấp</td><td>17.200.000.000</td></tr><tr><td colspan="2">Trong đó:</td></tr><tr><td>Vay dài hạn đến hạn trả</td><td>-</td></tr><tr><td>Vay dài hạn</td><td>17.200.000.000</td></tr></table>
+
+19.4 Vay cá nhân
+
+<table><tr><td></td><td>Số cuối năm(VND)</td><td>Kỳ hạn trả gốc và lãi</td><td>Lãi suất năm</td></tr><tr><td>Các khoản vayVay cá nhân</td><td>16.200.000.000</td><td>Trả gốc và lãi vào ngày đảo han 23 tháng 12 năm 2022.</td><td>7%</td></tr></table>
+
+<table><tr><td>TỔNG CỘNG</td><td>16.200.000.000</td></tr><tr><td>Trong đó:</td><td></td></tr><tr><td>Vay có tài sản đảm bảo</td><td>-</td></tr><tr><td>Vay tín chấp</td><td>16.200.000.000</td></tr><tr><td>Trong đó:</td><td></td></tr><tr><td>Vay dài hạn đến hạn trả</td><td>-</td></tr><tr><td>Vay dài hạn</td><td>16.200.000.000</td></tr></table>
+
+34
+
+===== PAGE 37 =====
+Công ty Cổ phần Nhựa An Phát Xanh
+
+THUYÊT MINH BẢO CẢO TÀI CHÍNH RIÊNG (tiếp theo)
+vào ngày 31 tháng 12 năm 2020 và cho năm tài chính kết thúc cùng ngày
+
+19. VAY VÀ NỘ (tiếp theo)
+19.5 Trải phiếu
+
+<table><tr><td>Bên cho vay</td><td>Số cuối năm VND</td><td>Kỳ hạn trả gốc</td><td>Hình thức đảm bảo</td></tr><tr><td>Ngân hàng TMCP Công thương Việt Nam – Chi nhánh Hải Dương</td><td>49.775.000.000</td><td>Trải phiếu phát hành vào tháng 9 năm 2016, có kỳ hạn 5 năm. Tiền gốc thanh toán bất đầu từ năm thứ 3, mỗi kỳ thanh toán 50 tỷ VND. Lãi suất 7,8%.</td><td>Tại sản đảm bảo là toàn bộ Nhà máy số 6 mở rộng tại cụm công nghiệp An Đồng – Hải Dương bao gồm quyền sử dụng đất, tài sản hình thanh trên đất, máy móc thiết bị và nhà xuống.</td></tr><tr><td>Công ty TNHH Chứng khoán Shinhan Việt Nam (*)</td><td>99.088.465.907</td><td>Hợp đồng đặt mua 100 trải phiếu, tương đương 100 tỷ VND. Ngày phát hành trải phiếu là 8 tháng 11 năm 2018. Trải phiếu có kỳ hạn 3 năm. Lãi suất 6,7%.</td><td rowspan="4">Tại sản đảm bảo là các tài sản theo các hợp đồng cảm có có phần liên quan. Cụ thể, Công ty An Phát Holdings, công ty mẹ của Công ty đã cảm có có phần đang lưu hành của Công ty và Công ty cũng cảm có có phần đang lưu hành tại Công ty An Tiến cho các bên nhận đảm bảo.</td></tr><tr><td>Ngân hàng Shinhan Việt Nam – Chi nhánh Hà Nội (*)</td><td>99.088.465.907</td><td>Hợp đồng đặt mua 100 trải phiếu, tương đương 100 tỷ VND. Ngày phát hành trải phiếu là 8 tháng 11 năm 2018. Trải phiếu có kỳ hạn 3 năm. Lãi suất 6,7%.</td></tr><tr><td>Ngân hàng TNHH MTV Woori Việt Nam (*)</td><td>99.088.465.907</td><td>Hợp đồng đặt mua 100 trải phiếu, tương đương 100 tỷ VND. Ngày phát hành trải phiếu là 8 tháng 11 năm 2018. Trải phiếu có kỳ hạn 3 năm. Lãi suất 6,7%.</td></tr><tr><td>Ngân hàng Keb Hana – Chi nhánh TP Hồ Chí Minh</td><td>99.088.465.906</td><td>Hợp đồng đặt mua 100 trải phiếu, tương đương 100 tỷ VND. Ngày phát hành trải phiếu là 8 tháng 11 năm 2018. Trải phiếu có kỳ hạn 3 năm. Lãi suất 6,7%.</td></tr><tr><td>TỔNG CỘNG</td><td>446.128.863.627</td><td></td><td></td></tr><tr><td>Trong đó:- Trải phiếu phát hành đến hạn trả- Trải phiếu phải trả dài hạn</td><td>446.128.863.627-</td><td></td><td></td></tr></table>
+
+B09-DN
+
+35
+
+===== PAGE 38 =====
+Công ty Cổ phần Nhựa An Phát Xanh
+
+B09-DN
+
+THUYÊT MINH BÁO CÁO TÀI CHÍNH RIÊNG (tiếp theo)
+
+vào ngày 31 tháng 12 năm 2020 và cho năm tài chính kết thúc cứng ngày
+
+20. QUỸ KHEN THƯỜNG, PHÚC LỢI
+
+<table><tr><td rowspan="2"></td><td colspan="2">Don vị tính: VND</td></tr><tr><td>Năm nay</td><td>Năm trước</td></tr><tr><td>Số đầu năm</td><td>572.897.684</td><td>4.313.307</td></tr><tr><td>Trích quỹ trong năm (*)</td><td>32.569.427.001</td><td>34.182.417.057</td></tr><tr><td>Sử dụng trong năm</td><td>(33.139.735.017)</td><td>(33.613.832.680)</td></tr><tr><td>Số cuối năm</td><td>2.589.668</td><td>572.897.684</td></tr></table>
+
+(*) Trích quỹ trong năm bao gồm trích Quỹ khen thưởng, phúc lợi và Quỹ phục vụ công tác điều hành, công đồng theo phê duyệt của Đại hội đồng cổ đông như trình bày tai Thuyết minh số 21.1.
+
+36
+
+===== PAGE 39 =====
+Công ty Cổ phần Nhựa An Phát Xanh
+
+THUYẾT MINH BẢO CẢO TÀI CHÍNH RIÊNG (tiếp theo)
+vào ngày 31 tháng 12 năm 2020 và cho năm tài chính kết thúc cũng ngày
+
+21. VÔN CHỦ SỞ HỮU
+
+21.1 Tỉnh hình tăng, giảm nguồn vốn chủ sở hữu
+
+<table><tr><td></td><td>Vốn cổ phần đã phát hành</td><td>Thặng dư vốn cổ phần</td><td>Quỹ đầu tư phát triển</td><td>Quỹ khác thuộc vốn chủ sở hữu</td><td>Lợi nhuận sau thuế chưa phân phối</td><td>Đơn vị tính: VND Tổng cộng</td></tr><tr><td colspan="7">Năm trước</td></tr><tr><td>Số đầu năm</td><td>1.711.999.760.000</td><td>532.127.689.329</td><td>52.153.369.195</td><td>11.612.477.781</td><td>265.970.088.120</td><td>2.573.863.384.425</td></tr><tr><td>- Lợi nhuận thuần trong năm</td><td>-</td><td>-</td><td>-</td><td>-</td><td>232.638.764.291</td><td>232.638.764.291</td></tr><tr><td>- Chia cổ tức</td><td>-</td><td>-</td><td>-</td><td>-</td><td>(85.599.988.000)</td><td>(85.599.988.000)</td></tr><tr><td>- Trich quỹ đầu tư phát triển</td><td>-</td><td>-</td><td>8.545.604.264</td><td>-</td><td>(8.545.604.264)</td><td>-</td></tr><tr><td>- Trich quỹ khen thưởng, phúc lợi</td><td>-</td><td>-</td><td>-</td><td>-</td><td>(34.182.417.057)</td><td>(34.182.417.057)</td></tr><tr><td>- Giám khác</td><td>-</td><td>-</td><td>-</td><td>-</td><td>(1)</td><td>(1)</td></tr><tr><td>Số cuối năm</td><td>1.711.999.760.000</td><td>532.127.689.329</td><td>60.698.973.459</td><td>11.612.477.781</td><td>370.280.843.089</td><td>2.686.719.743.658</td></tr><tr><td colspan="7">Năm nay</td></tr><tr><td>Số đầu năm</td><td>1.711.999.760.000</td><td>532.127.689.329</td><td>60.698.973.459</td><td>11.612.477.781</td><td>370.280.843.089</td><td>2.686.719.743.658</td></tr><tr><td>- Lợi nhuận thuần trong năm</td><td>-</td><td>-</td><td>-</td><td>-</td><td>188.157.053.563</td><td>188.157.053.563</td></tr><tr><td>- Tăng vốn (*)</td><td>400.000.000.000</td><td>159.961.500.000</td><td>-</td><td>-</td><td>-</td><td>559.961.500.000</td></tr><tr><td>- Chia cổ tức bằng cổ phiếu (**)</td><td>105.599.980.000</td><td>-</td><td>-</td><td>-</td><td>(105.599.980.000)</td><td>-</td></tr><tr><td>- Chia cổ tức bằng tiền (**)</td><td>-</td><td>-</td><td>-</td><td>-</td><td>(105.599.988.000)</td><td>(105.599.988.000)</td></tr><tr><td>- Trich quỹ khen thưởng, phúc lợi (***)</td><td>-</td><td>-</td><td>-</td><td>-</td><td>(32.569.427.001)</td><td>(32.569.427.001)</td></tr><tr><td>- Trich quỹ đầu tư phát triển (***)</td><td>-</td><td>-</td><td>11.631.938.214</td><td>-</td><td>(11.631.938.214)</td><td>-</td></tr><tr><td>Số cuối năm</td><td>2.217.599.740.000</td><td>692.089.189.329</td><td>72.330.911.673</td><td>11.612.477.781</td><td>303.036.563.437</td><td>3.296.668.882.220</td></tr></table>
+
+B09-DN
+
+37
+
+===== PAGE 40 =====
+Công ty Cổ phần Nhựa An Phát Xanh
+
+B09-DN
+
+THUYẾT MINH BẢO CẢO TÀI CHÍNH RIÊNG (tiếp theo)
+
+vào ngày 31 tháng 12 năm 2020 và cho năm tài chính kết thúc cùng ngày
+
+21. VÔN CHỦ SỞ HỮU (tiếp theo)
+
+21.2 Các giao dịch về vốn với các chủ sở hữu và phân phối cổ tức, lợi nhuận
+
+<table><tr><td></td><td>Năm nay</td><td>Đơn vị tính: VNDNăm trước</td></tr><tr><td colspan="3">Vốn đầu tư đã góp của chủ sở hữu</td></tr><tr><td>Số đầu năm</td><td>1.711.999.760.000</td><td>1.711.999.760.000</td></tr><tr><td>Vốn góp tăng trong năm</td><td>505.599.980.000</td><td>-</td></tr><tr><td>Số cuối năm</td><td>2.217.599.740.000</td><td>1.711.999.760.000</td></tr><tr><td>Có tức đã công bố</td><td>211.199.968.000</td><td>85.599.988.000</td></tr></table>
+
+21.3 Cổ tức
+
+<table><tr><td rowspan="2"></td><td rowspan="2">Năm nay</td><td>Đơn vị tính: VND</td></tr><tr><td>Năm trước</td></tr><tr><td colspan="3">Cổ tức đã công bố trong năm</td></tr><tr><td>Cổ tức trên cổ phiếu phổ thông</td><td>211.199.968.000</td><td>85.599.988.000</td></tr><tr><td>Cổ tức cho năm 2019: VND 500/cổ phiếu</td><td>105.599.988.000</td><td>-</td></tr><tr><td>Cổ tức cho năm 2019: Trả cổ tức bằng cổ phiếu theo tỷ lệ 100:5</td><td>105.599.980.000</td><td>-</td></tr><tr><td>Cổ tức cho năm 2018: VND 500/cổ phiếu</td><td>-</td><td>85.599.988.000</td></tr><tr><td>Cổ tức đã trả trong năm</td><td>105.571.913.000</td><td>85.571.913.000</td></tr><tr><td>Cổ tức trên cổ phiếu ưu đãi</td><td>-</td><td>-</td></tr></table>
+
+21.4 Cổ phiếu
+
+<table><tr><td rowspan="2"></td><td colspan="2">Số cuối năm</td><td colspan="2">Số đầu năm</td></tr><tr><td>Số lượng</td><td>Giá trị (VND)</td><td>Số lượng</td><td>Giá trị (VND)</td></tr><tr><td>Cổ phiếu đăng ký phát hành</td><td>221.759.974</td><td>2.217.599.740.000</td><td>171.199.976</td><td>1.711.999.760.000</td></tr><tr><td>Cổ phiếu đã bán ra công chủng</td><td>221.759.974</td><td>2.217.599.740.000</td><td>171.199.976</td><td>1.711.999.760.000</td></tr><tr><td>Cổ phiếu phổ thông</td><td>221.759.974</td><td>2.217.599.740.000</td><td>171.199.976</td><td>1.711.999.760.000</td></tr><tr><td>Cổ phiếu đang lưu hành</td><td>221.759.974</td><td>2.217.599.740.000</td><td>171.199.976</td><td>1.711.999.760.000</td></tr><tr><td>Cổ phiếu phổ thông</td><td>221.759.974</td><td>2.217.599.740.000</td><td>171.199.976</td><td>1.711.999.760.000</td></tr></table>
+
+Mệnh giả cổ phiếu đang lưu hành: 10.000 VND/cổ phiếu (ngày 31 tháng 12 năm 2019: 10.000 VND/cổ phiếu).
+
+22. CÁC KHOÁN MỤC NGOÀI BẢNG CÂN ĐỐI KẾ TOÁN
+
+<table><tr><td></td><td>Số cuối năm</td><td>Số đầu năm</td></tr><tr><td>Ngoai tệ các loại</td><td></td><td></td></tr><tr><td>Đồ la Mỹ – USD</td><td>7.151.658,36</td><td>1.928.380,40</td></tr><tr><td>Đồng Euro – EUR</td><td>4.537,86</td><td>83.132,22</td></tr><tr><td>Băng Anh – GBP</td><td>101,89</td><td>101,89</td></tr><tr><td>Yên Nhật – JPY</td><td>-</td><td>366.000,00</td></tr></table>
+
+38
+
+===== PAGE 41 =====
+Công ty Cổ phần Nhựa An Phát Xanh
+
+B09-DN
+
+THUYẾT MINH BẢO CẢO TÀI CHÍNH RIÊNG (tiếp theo)
+
+vào ngày 31 tháng 12 năm 2020 và cho năm tài chính kết thúc cứng ngày
+
+23. DOANH THU
+
+23.1 Doanh thu bán hàng và cung cấp dịch vụ
+
+<table><tr><td rowspan="2"></td><td rowspan="2">Năm nay</td><td>Đơn vị tính: VND</td></tr><tr><td>Năm trước</td></tr><tr><td>Tổng doanh thu</td><td>4.420.544.498.130</td><td>5.832.863.518.626</td></tr><tr><td>Trong đó:</td><td></td><td></td></tr><tr><td>Doanh thu bán thành phẩm</td><td>3.224.670.283.000</td><td>3.452.887.983.487</td></tr><tr><td>Doanh thu bán hàng hóa</td><td>1.171.928.754.274</td><td>2.372.971.282.106</td></tr><tr><td>Doanh thu cung cấp dịch vụ</td><td>23.945.460.856</td><td>7.004.253.033</td></tr><tr><td>Các khoản giảm trừ doanh thu</td><td>(203.518.176)</td><td>(9.506.265.699)</td></tr><tr><td>Trong đó:</td><td></td><td></td></tr><tr><td>Giảm giá hàng bán</td><td>(180.209.676)</td><td>(5.650.727.849)</td></tr><tr><td>Hàng bán bị trả lại</td><td>(23.308.500)</td><td>(3.855.537.850)</td></tr><tr><td>Doanh thu thuần</td><td>4.420.340.979.954</td><td>5.823.357.252.927</td></tr><tr><td>Trong đó:</td><td></td><td></td></tr><tr><td>Doanh thu từ bên khác</td><td>3.314.937.065.787</td><td>4.200.120.117.774</td></tr><tr><td>Doanh thu từ bên liên quan</td><td>1.105.403.914.167</td><td>1.623.237.135.153</td></tr></table>
+
+23.2 Doanh thu hoạt động tài chính
+
+<table><tr><td rowspan="2"></td><td rowspan="2">Năm nay</td><td>Đơn vị tính: VND</td></tr><tr><td>Năm trước</td></tr><tr><td>Lãi tiền gửi, tiền cho vay</td><td>56.142.221.601</td><td>70.353.809.209</td></tr><tr><td>Doanh thu về góp vốn hợp tác kinh doanh (*)</td><td>5.611.548.480</td><td>47.510.351.300</td></tr><tr><td>Cổ tức</td><td>4.800.000.000</td><td>-</td></tr><tr><td>Lãi chênh lệch tỷ giá</td><td>25.597.997.115</td><td>33.046.974.024</td></tr><tr><td>TỔNG CỘNG</td><td>92.151.767.196</td><td>150.911.134.533</td></tr></table>
+
+(*) Như được trình bày tại Thuyết minh số 8, ngày 11 tháng 10 năm 2018. Công ty và Công ty An Phát Complex ký hợp đồng hợp tác kinh doanh số 10.11.02/2018/HD-AAA-APC để đầu tư và phát triển Dự án "Khu Công nghiệp Kỹ thuật cao An Phát". Theo đó, Công ty đã góp vốn 400 tỷ VND vào Dự án này và sẽ được hưởng lợi nhuận kế từ ngày Dự án bắt đầu đi vào kinh doanh, khai thác. Mức lợi nhuận mà Công ty được hưởng sẽ được thực hiện hàng quỹ trên tỷ lệ 400/2.100 tổng lợi nhuận sau thuế. Trong năm, Công ty đã nhận được biên bản quyết toán lợi nhuận của năm 2020 và được chia lợi nhuận với số tiền là 5.611.548.480 VND. Theo đó, Công ty đã hạch toán khoản phải thu ngắn hạn và doanh thu hoạt động tài chính cho khoản lợi nhuận được chia này.
+
+24. GIÁ VÔN HÀNG BẢN VÀ DỊCH VỤ CUNG CÁP
+
+<table><tr><td rowspan="2"></td><td rowspan="2">Năm nay</td><td>Đơn vị tính: VND</td></tr><tr><td>Năm trước</td></tr><tr><td>Giá vốn bán thành phẩm</td><td>2.805.488.877.193</td><td>2.962.487.058.000</td></tr><tr><td>Giá vốn bán hàng hóa</td><td>1.162.142.961.474</td><td>2.353.946.555.535</td></tr><tr><td>TỔNG CỘNG</td><td>3.967.631.838.667</td><td>5.316.433.613.535</td></tr></table>
+
+39
+
+===== PAGE 42 =====
+Công ty Cổ phần Nhựa An Phát Xanh
+
+B09-DN
+
+THUYÊT MINH BẢO CẢO TÀI CHÍNH RIÊNG (tiếp theo)
+
+vào ngày 31 tháng 12 năm 2020 và cho năm tài chính kết thúc cứng ngày
+
+25. CHI PHÍ TÀI CHÍNH
+
+<table><tr><td></td><td>Năm nay</td><td>Đơn vị tính: VND</td></tr><tr><td>Chi phí lãi vay</td><td>132.516.357.430</td><td>157.825.747.640</td></tr><tr><td>Chi phí phát hành trái phiếu</td><td>4.675.363.632</td><td>4.675.363.632</td></tr><tr><td>Lỗ chênh lệch tỷ giả</td><td>12.927.669.891</td><td>26.235.650.518</td></tr><tr><td>Dự phòng đầu tư tài chính</td><td>3.331.027.043</td><td>-</td></tr><tr><td>Chi phí khác</td><td>2.139.054</td><td>-</td></tr><tr><td>TỔNG CỘNG</td><td>153.452.557.050</td><td>188.736.761.790</td></tr></table>
+
+26. CHI PHÍ BÁN HÀNG VÀ CHI PHÍ QUẢN LÝ DOANH NGHIỆP
+
+<table><tr><td></td><td>Năm nay</td><td>Đơn vị tính: VND</td></tr><tr><td colspan="3">Chi phí bản hàng</td></tr><tr><td>Chi phí nhân viên bản hàng</td><td>5.216.651.818</td><td>6.082.969.225</td></tr><tr><td>Chi phí khấu hao tài sản cố định</td><td>12.689.268.683</td><td>12.899.661.891</td></tr><tr><td>Chi phí dịch vụ mua ngoài</td><td>87.071.117.960</td><td>86.410.849.460</td></tr><tr><td>Chi phí khác</td><td>7.083.232.691</td><td>11.787.827.805</td></tr><tr><td>TỔNG CỘNG</td><td>112.060.271.152</td><td>117.181.308.381</td></tr><tr><td colspan="3">Chi phí quản lý doanh nghiệp</td></tr><tr><td>Chi phí nhân viên quản lý</td><td>19.667.272.293</td><td>20.085.949.786</td></tr><tr><td>Chi phí khấu hao tài sản cố định</td><td>16.204.412.318</td><td>16.798.924.087</td></tr><tr><td>Chi phí dịch vụ mua ngoài</td><td>21.224.916.106</td><td>39.409.238.921</td></tr><tr><td>Chi phí nguyên vật liệu</td><td>719.078.756</td><td>777.210.900</td></tr><tr><td>Chi phí khác</td><td>7.960.995.624</td><td>6.302.439.249</td></tr><tr><td>TỔNG CỘNG</td><td>65.776.675.097</td><td>83.373.762.943</td></tr></table>
+
+27. CHI PHÍ SẢN XUÁT, KINH DOANH THEO YỀU TỔ
+
+<table><tr><td rowspan="2"></td><td rowspan="2">Năm nay</td><td>Đơn vị tính: VND</td></tr><tr><td>Năm trước</td></tr><tr><td>Chi phí nguyên vật liệu</td><td>2.218.669.697.414</td><td>2.383.543.218.394</td></tr><tr><td>Chi phí nhân công</td><td>256.386.139.806</td><td>251.563.662.740</td></tr><tr><td>Chi phí khấu hao tài sản cố định</td><td>196.735.573.019</td><td>204.221.743.310</td></tr><tr><td>Chi phí dịch vụ mua ngoài</td><td>304.179.461.128</td><td>301.459.250.430</td></tr><tr><td>Chi phí khác</td><td>15.053.237.425</td><td>17.627.948.210</td></tr><tr><td>TỔNG CỘNG</td><td>2.991.024.108.792</td><td>3.158.415.823.084</td></tr></table>
+
+28. THUÊ THU NHẬP DOANH NGHIỆP
+
+Thuế suất thuế thu nhập doanh nghiệp ("thuế TNDN") áp dụng cho Công ty là 20% lợi nhuận chịu thuế trừ những trường hợp sau:
+
+Công ty được miễn thuế 2 năm kể từ năm đầu tiên có thu nhập chịu thuế (từ năm 2016 đến năm 2017) và được giảm 50% số thuế phải nộp trong 4 năm tiếp theo (từ năm 2018 đến năm 2021) đối với lợi nhuận từ hoạt động sản xuất kinh doanh của Nhà máy số 5. Thuế suất thuế TNDN trong năm 2020 cho hoạt động này là 10%.
+
+40
+
+===== PAGE 43 =====
+Công ty Cổ phần Nhựa An Phát Xanh
+
+B09-DN
+
+THUYẾT MINH BẢO CẢO TẢI CHÍNH RIÊNG (tiếp theo)
+
+vào ngày 31 tháng 12 năm 2020 và cho năm tài chính kết thúc cũng ngày
+
+28. THUÊ THU NHẬP DOANH NGHIỆP (tiếp theo)
+
+Các báo cáo thuế của Công ty sẽ chịu sự kiểm tra của cơ quan thuế. Do việc áp dụng luật và các quy định về thuế có thể được giải thích theo nhiều cách khác nhau, số thuế được trình bay trên báo cáo tài chính riêng có thể sẽ bị thay đổi theo quyết định cuối cùng của cơ quan thuế.
+
+28.1 Chi phi thuế TNDN
+
+<table><tr><td rowspan="2"></td><td rowspan="2">Năm nay</td><td>Đơn vị tính: VND</td></tr><tr><td>Năm trước</td></tr><tr><td>Chi phí thuế TNDN hiện hành</td><td>30.881.041.144</td><td>39.174.745.526</td></tr><tr><td>Thuế TNDN trích thiếu từ các năm trước</td><td>398.908.502</td><td>-</td></tr><tr><td>Điều chỉnh thuế TNDN trích thừa từ năm trước (*)</td><td>(6.273.102.633)</td><td>-</td></tr><tr><td>TỔNG CỘNG</td><td>25.006.847.013</td><td>39.174.745.526</td></tr></table>
+
+Dưới đây là đối chiếu chi phí thuế TNDN và kết quả của lợi nhuận kế toàn trước thuế nhân với thuế suất thuế TNDN:
+
+<table><tr><td rowspan="2"></td><td rowspan="2">Năm nay</td><td>Đơn vị tính: VND</td></tr><tr><td>Năm trước</td></tr><tr><td>Tổng lợi nhuận kế toán trước thuế</td><td>213.163.900.576</td><td>271.813.509.817</td></tr><tr><td>Thu nhập chịu mức thuế suất 20%</td><td>98.935.358.376</td><td>95.434.758.194</td></tr><tr><td>Thu nhập chịu mức thuế suất ưu đãi 10%</td><td>103.816.993.720</td><td>128.868.400.323</td></tr><tr><td>Thu nhập không chịu thuế</td><td>10.411.548.480</td><td>47.510.351.300</td></tr><tr><td>Thuế TNDN theo các mức thuế suất áp dụng cho Công ty</td><td>30.168.771.047</td><td>31.973.791.671</td></tr><tr><td>Trong đó:</td><td></td><td></td></tr><tr><td>Thuế suất thuế TNDN 20%</td><td>10.381.699.372</td><td>19.086.951.639</td></tr><tr><td>Thuế suất thuế TNDN 10%</td><td>19.787.071.675</td><td>12.886.840.032</td></tr><tr><td>Các khoản điều chỉnh tăng</td><td></td><td></td></tr><tr><td>Thuế thu nhập doanh nghiệp trích thiếu tử các năm trước</td><td>398.908.502</td><td>-</td></tr><tr><td>Điều chính thuế TNDN trích thừa tử năm trước (*)</td><td>(6.273.102.633)</td><td>-</td></tr><tr><td>Chi phí phạt thuế</td><td>764.399.594</td><td>-</td></tr><tr><td>Chi phí lãi vay không được khấu trừ Doanh thu của hàng đã xuất hóa đơn nhưng chưa đủ điều kiện ghi nhận doanh thu</td><td>(315.542.610)</td><td>6.273.102.633</td></tr><tr><td>Chi phí không được khấu trừ khác</td><td>263.413.113</td><td>342.148.122</td></tr><tr><td>Chi phí thuế TNDN</td><td>25.006.847.013</td><td>39.174.745.526</td></tr></table>
+
+(*) Trong năm, Công ty đã tính toán và điều chỉnh lại chi phí lãi vay không được khấu trừ trong năm 2019 theo quy định của Nghị định số 132/2020/NĐ-CP do Chính phủ ban hành ngày 5 tháng 11 năm 2020 sửa đổi, bổ sung khoản 3 điều 8 Nghị định 20/2017/NĐ-CP ngày 24 tháng 2 năm 2017 và Nghị định số 68/2020/NĐ-CP ngày 24 tháng 6 năm 2020. Theo đó chi phí thuế TNDN của năm 2019 được điều chỉnh giảm với số tiền là 6.273.102.633 VND.
+
+41
+
+===== PAGE 44 =====
+Công ty Cổ phần Nhựa An Phát Xanh
+
+B09-DN
+
+THUYẾT MINH BẢO CẢO TẢI CHÍNH RIÊNG (tiếp theo)
+
+vào ngày 31 tháng 12 năm 2020 và cho năm tài chính kết thúc cùng ngày
+
+28. THUÊ THU NHẬP DOANH NGHIỆP (tiếp theo)
+
+28.2 Thuế TNDN hiện hành
+
+Thuế TNDN hiện hành phải trả được xác định dựa trên thu nhập chịu thuế của năm hiện tai. Thu nhập chịu thuế của Công ty khác với thu nhập được báo cáo trong báo cáo kết quả hoạt động kinh doanh riêng vi thu nhập chịu thuế không bao gồm các khoản mục thu nhập chịu thuế hay chi phí được khấu trừ cho mục đích tỉnh thuế trong các năm khác và công không bao gồm các khoản mục không phải chịu thuế hay không được khấu trừ cho mục đích tỉnh thuế. Thuế TNDN hiện hành phải trả của Công ty được tỉnh theo thuế suất đã ban hành đến ngày kết thúc năm kế toán.
+
+42
+
+===== PAGE 45 =====
+Công ty Cổ phần Nhựa An Phát Xanh
+
+THUYẾT MINH BẢO CẢO TÀI CHÍNH RIÊNG (tiếp theo)
+
+vao ngay 31 tháng 12 năm 2020 và cho năm tài chính kết thúc cùng ngày
+
+29. NGHIỆP VỤ VỚI CÁC BÊN LIÊN QUAN
+
+Những giao dịch trọng yếu của Công ty với các bên liên quan trong năm tài chính kết thúc ngày 31 tháng 12 năm 2020 bao gồm:
+
+<table><tr><td colspan="11">Đơn vị tính: VND</td><td></td><td></td></tr><tr><td>Bên sìn guan</td><td>Mô quan hé</td><td>Đoàn thu bán hàng và cung cấp dịch vy</td><td>Mua hàng hód dịch vy</td><td>Đoàn thu đã chính</td><td>Cho way</td><td>Thu kém và cho way</td><td>B&amp;I cpc</td><td>Lợi nhuận hợp đồng hợp tác đơn dịch</td><td>Nhân gásv vda</td><td>Trá cód risco</td><td>Chuyên muong pá plan</td><td>Chỉ nổ và tần ứng</td></tr><tr><td>Công ty An Thanh</td><td>Công ty con</td><td>857.224.828.817</td><td>115.281.271.462</td><td>4.600.000.000</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Công ty An Thanh Singapore</td><td>Công ty con</td><td>80.989.330.483</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Công ty An Vinh</td><td>Công ty con (vill tv ngày 10 tháng 7 năm 2020)</td><td>55.790.724.213</td><td>3.748.042.537</td><td>642.719.726</td><td></td><td></td><td>50.000.000.000</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Công ty An Ték</td><td>Công ty con</td><td>52.128.992.732</td><td>72.367.966.960</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>An Phát International Inc</td><td>Công ty công (kinh đạo chủ chất)</td><td>36.793.269.521</td><td>32.347.442.208</td><td></td><td></td><td></td><td></td><td>105.651.500.000</td><td></td><td></td><td></td><td></td></tr><tr><td>Công ty Cố prân Sân xuất Tông hợp Sunrise Việt Nam (&quot;Công ty Sunrise&quot;)</td><td>Công ty kên sít</td><td>9.031.079.479</td><td>37.712.138.270</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Công ty An Tin</td><td>Công ty con</td><td>1.059.973.544</td><td>62.886.094.156</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Công ty An Phát Holdings</td><td>Công ty me</td><td>1.907.478.171</td><td>6.900.000</td><td></td><td></td><td></td><td></td><td></td><td>420.000.000.000</td><td>56.152.825.000</td><td>58.100.000.000</td><td></td></tr><tr><td>Công ty TNHH An Trung Industries (&quot;Công ty An Trung&quot;)</td><td>Công ty công Tạp doàn</td><td>124.196.872</td><td>128.925.920</td><td></td><td>7.300.000.000</td><td>7.300.000.000</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Công ty An Phát Complex</td><td>Công ty con</td><td>289.090.909</td><td></td><td>10.906.398.617</td><td>372.300.000.000</td><td>292.640.000.000</td><td></td><td></td><td>5.611.548.480</td><td></td><td></td><td></td></tr><tr><td>Công ty TNHH Inh Hến ithư ở ở Ventasi An Phát</td><td>Công ty công Tạp doàn</td><td>64.561.907</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Công ty TNHH MTV Co-khi chính sào và chế tạo chuyên mâu Việt Nam</td><td>Công ty công Tạp doàn</td><td>387.500</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Công ty Ankor Bioplastics Co., Ltd.</td><td>Công ty công (kinh đạo chủ chất)</td><td></td><td>4.861.799.515</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Pham Anh Dương</td><td>Chú tích Hồ động Oudin tri</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>7.617.674.639</td></tr></table>
+
+B09-DN
+
+43
+
+===== PAGE 46 =====
+Công ty Cổ phần Nhựa An Phát Xanh
+
+B09-DN
+
+THUYÊT MINH BÁO CÁO TÀI CHÍNH RIÊNG (tiếp theo)
+
+vào ngày 31 tháng 12 năm 2020 và cho năm tài chính kết thúc cứng ngày
+
+29. NGHIỆP VỤ VỚI CÁC BÊN LIÊN QUAN (tiếp theo)
+
+Những giao dịch trọng yếu của Công ty với các bên liên quan trong năm tài chính kết thúc ngày 31 tháng 12 năm 2019 bao gồm:
+
+<table><tr><td>Bên liên quan</td><td>Môi quan hệ</td><td>Doanh thu bán hàng và cung cấp dịch vụ</td><td>Mua hàng hóa dịch vụ</td><td>Lợi nhuận hợp đồng hợp tác kinh doanh</td><td>Góp vốn hợp đồng hợp tác kinh doanh</td><td>Cho vay</td><td>Thu tiến cho vay</td><td>Chỉ cổ tức</td><td>Đơn vị tính: VND</td></tr><tr><td>Công ty An Thành</td><td>Công ty con</td><td>1.385.244.104.922</td><td>155.374.206.586</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Công ty An Tiến</td><td>Công ty con</td><td>128.677.992.558</td><td>108.986.193.718</td><td></td><td></td><td></td><td>7.000.000.000</td><td></td><td></td></tr><tr><td>Công ty An Thành Singapore</td><td>Công ty con</td><td>78.738.874.746</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Công ty An Trung</td><td>Công ty cùng Tập đoàn</td><td>23.804.528.151</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Công ty An Tin</td><td>Công ty con</td><td></td><td>60.612.082.851</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Công ty An Phat Complex</td><td>Công ty con</td><td></td><td></td><td>47.510.351.300</td><td>44.500.000.000</td><td></td><td></td><td></td><td></td></tr><tr><td>Công ty An Phat Holdings</td><td>Công ty mẹ</td><td></td><td></td><td></td><td></td><td>7.000.000.000</td><td>38.050.000.000</td><td>39.908.570.000</td><td></td></tr><tr><td>Ông Phạm Ánh Dương</td><td>Chữ tịch Hội đồng Quản trị</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>11.738.801.376</td></tr></table>
+
+Các điều kiện và điều khoản của các giao dịch với các bên liên quan
+
+Công ty mua và bản hàng hóa, dịch vụ với các bên liên quan trên cơ sở thỏa thuận theo hợp đồng.
+
+Ngoại trừ khoản phải thu về cho vay và đi vay có lãi suất, số dư các khoản phải thu, phải trả, tai ngày 31 tháng 12 năm 2020 không cần bảo đảm, không có lãi suất và sẽ được thanh toán bằng tiền. Cho năm tài chính kết thúc ngày 31 tháng 12 năm 2020, Công ty chưa trich lập bắt cứ một khoản dự phòng nợ phải thu khó đòi liên quan đến số Biên các bên liên quan còn nợ Công ty do các khoản này còn trong han thanh toán (tại ngày 31 tháng 12 năm 2019: 0 VND). Việc đánh giá này được thực hiện cho mỗi năm thông qua việc kiểm tra tỉnh hình tài chính của bên liên quan và thị trường mà bên liên quan đó hoạt động.
+
+44
+
+===== PAGE 47 =====
+Công ty Cổ phần Nhựa An Phát Xanh
+
+B09-DN
+
+THUYÊT MINH BẢO CẢO TÀI CHÍNH RIÊNG (tiếp theo)
+
+váo ngày 31 tháng 12 năm 2020 và cho năm tài chính kết thúc cứng ngày
+
+29. NGHIỆP VỤ VỚI CÁC BÊN LIÊN QUAN (tiếp theo)
+
+Vào ngày kết thúc ký kế toán năm, các khoản phải thu và phải trả với các bên liên quan như sau;
+
+<table><tr><td rowspan="2">Bên liên quan</td><td rowspan="2">Môi quan hệ</td><td rowspan="2">Nội dung nghiệp vụ</td><td colspan="2">Đơn vị tính: VND</td></tr><tr><td>Số cuối năm</td><td>Số đầu năm</td></tr><tr><td colspan="5">Phải thu ngắn hạn của khách hàng (Thuyết minh số 6.1)</td></tr><tr><td>Công ty An Thành</td><td>Công ty con</td><td>Bản hàng hóa</td><td>151.053.301.088</td><td>331.620.591.386</td></tr><tr><td>Công ty An Cường</td><td>Công ty cùng Tập đoàn (kể từ ngày 31 tháng 12 năm 2020)</td><td>Bản hàng hóa</td><td>41.430.372.941</td><td>-</td></tr><tr><td>Công ty An Vinh</td><td>Công ty con (kể từ ngày 15 tháng 7 năm 2020)</td><td>Bản hàng hóa</td><td>25.979.674.225</td><td>-</td></tr><tr><td>Công ty An Thành Singapore</td><td>Công ty con</td><td>Bản hàng hóa</td><td>25.149.164.739</td><td>32.573.619.515</td></tr><tr><td>An Phát International Inc</td><td>Công ty cùng lãnh đạo chủ chốt</td><td>Bản hàng hóa</td><td>7.272.739.196</td><td>-</td></tr><tr><td>Công ty An Phát Holdings</td><td>Công ty me</td><td>Dịch vụ cho thuê xe</td><td>1.414.225.988</td><td>357.000.000</td></tr><tr><td>Công ty Sunrise</td><td>Công ty liên kết</td><td>Bản hàng hóa và cho thuê kho</td><td>279.740.492</td><td>575.278.326</td></tr><tr><td>Công ty An Trung</td><td>Công ty cùng Tập đoàn</td><td>Dịch vụ cho thuê xe</td><td>82.237.910</td><td>25.238.310.000</td></tr><tr><td>Công ty An Tiến</td><td>Công ty con</td><td>Bản hàng hóa</td><td>-</td><td>1.125.062.046</td></tr><tr><td>Công ty TNHH lĩnh kiện nhựa ô tô Vinfast An Phát</td><td>Công ty cùng Tập đoàn</td><td>Dịch vụ cho thuê xe</td><td>-</td><td>6.662.561</td></tr><tr><td></td><td></td><td></td><td>252.661.456.579</td><td>391.496.523.834</td></tr><tr><td colspan="5">Phải thu dài hạn của khách hàng (Thuyết minh số 6.1)</td></tr><tr><td>Công ty An Cường</td><td>Công ty cùng Tập đoàn (kể từ ngày 31 tháng 12 năm 2020)</td><td>Bản hàng hóa</td><td>35.000.000.000</td><td>-</td></tr><tr><td></td><td></td><td></td><td>35.000.000.000</td><td>-</td></tr><tr><td colspan="5">Trả trước cho người bán ngắn hạn (Thuyết minh số 6.2)</td></tr><tr><td>Công ty An Thành Singapore</td><td>Công ty con</td><td>Bản hàng hóa</td><td>16.304.506.611</td><td>5.420.411.404</td></tr><tr><td>An Phát International Inc</td><td>Công ty cùng lãnh đạo chủ chốt</td><td>Bản hàng hóa</td><td>14.851.991.594</td><td>-</td></tr><tr><td>Công ty An Trung</td><td>Công ty cùng Tập đoàn</td><td>Bản hàng hóa</td><td>6.823.799.288</td><td>-</td></tr><tr><td>Ankor Bioplastics Co.Ltd</td><td>Công ty có cùng lãnh đạo chủ chốt</td><td>Mua hàng hóa</td><td>2.452.714.488</td><td>-</td></tr><tr><td>Công ty An Tiến</td><td>Công ty con</td><td>Mua hàng hóa</td><td>-</td><td>29.766.857.210</td></tr><tr><td></td><td></td><td></td><td>40.433.011.981</td><td>35.187.268.614</td></tr><tr><td colspan="5">Phải thu về cho vay ngắn hạn (Thuyết minh số 7)</td></tr><tr><td>Công ty An Phát Complex</td><td>Công ty con</td><td>Cho vay</td><td>79.660.000.000</td><td>-</td></tr><tr><td></td><td></td><td></td><td>79.660.000.000</td><td>-</td></tr></table>
+
+45
+
+===== PAGE 48 =====
+Công ty Cổ phần Nhựa An Phát Xanh
+
+B09-DN
+
+THUYẾT MINH BẢO CẢO TÀI CHÍNH RIÊNG (tiếp theo)
+
+vào ngày 31 tháng 12 năm 2020 và cho năm tài chính kết thúc cùng ngày
+
+29. NGHIỆP VỤ VỚI CÁC BÊN LIÊN QUAN (tiếp theo)
+
+Vào ngày kết thúc ký kế toán năm, các khoản phải thu và phải trả với các bên liên quan như sau: (tiếp theo)
+
+<table><tr><td rowspan="2">Bên liên quan</td><td rowspan="2">Môi quan hệ</td><td rowspan="2">Nội dung nghiệp vụ</td><td colspan="2">Đơn vị tính: VND</td></tr><tr><td>Số cuối năm</td><td>Số đầu năm</td></tr><tr><td colspan="5">Phải thu ngắn hạn khác (Thuyết minh số 8)</td></tr><tr><td rowspan="3">Công ty An Phát Complex</td><td rowspan="3">Công ty con</td><td>Phải thu về Hợp đồng hợp tác kinh doanh</td><td>400.000.000.000</td><td>-</td></tr><tr><td>Phải thu lợi nhuận được chia từ Hợp đồng hợp tác kinh doanh</td><td>53.121.899.780</td><td>47.510.351.300</td></tr><tr><td>Lãi dự thu</td><td>5.294.850.137</td><td>-</td></tr><tr><td>An Phát International Inc</td><td>Công ty cùng lãnh đạo chủ chốt</td><td>Bặt cọc mua cổ phần</td><td>115.829.400.000</td><td>-</td></tr><tr><td>Công ty An Cường</td><td>Công ty cùng Tập đoàn (kể từ ngày 31 tháng 12 năm 2020)</td><td>Lãi dự thu</td><td>3.997.802.860</td><td>-</td></tr><tr><td>Công ty An Trung</td><td>Công ty cùng Tập đoàn</td><td>Phải thu khác</td><td>-</td><td>12.849.375.000</td></tr><tr><td>Ông Phạm Ánh Dương</td><td>Chủ tịch HDQT</td><td>Phải thu từ chỉ trả hộ và tạm ứng</td><td>4.467.092.885</td><td>-</td></tr><tr><td>Ông Phạm Hoàng Việt</td><td>Phó chủ tịch HDQT</td><td>Phải thu từ chỉ trả hộ và tạm ứng</td><td>885.639.730</td><td>-</td></tr><tr><td>Ông Nguyễn Lê Trung</td><td>Tổng Giám đốc</td><td>Phải thu từ chỉ trả hộ và tạm ứng</td><td>451.578.176</td><td>-</td></tr><tr><td>Bà Nguyễn Thị Tiên</td><td>Thành viên chủ chốt</td><td>Phải thu từ chỉ trả hộ và tạm ứng</td><td>-</td><td>3.048.000.000</td></tr><tr><td></td><td></td><td></td><td>584.048.263.568</td><td>63.407.726.300</td></tr><tr><td colspan="5">Phải thu dài hạn khác (Thuyết minh số 8)</td></tr><tr><td>Công ty An Phát Complex</td><td>Công ty con</td><td>Phải thu về Hợp đồng hợp tác kinh doanh</td><td>-</td><td>400.000.000.000</td></tr><tr><td></td><td></td><td></td><td>-</td><td>400.000.000.000</td></tr></table>
+
+46
+
+===== PAGE 49 =====
+Công ty Cổ phần Nhựa An Phát Xanh
+
+B09-DN
+
+THUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG (tiếp theo)
+
+vào ngày 31 tháng 12 năm 2020 và cho năm tài chính kết thúc cứng ngày
+
+29. NGHIỆP VỤ VỚI CÁC BÊN LIÊN QUAN (tiếp theo)
+
+Vào ngày kết thúc ký kế toán năm, các khoản phải thu và phải trả với các bên liên quan như sau: (tiếp theo)
+
+<table><tr><td rowspan="2">Bên liên quan</td><td rowspan="2">Môi quan hệ</td><td rowspan="2">Nội dung nghiệp vụ</td><td colspan="2">Đơn vị tính: VND</td></tr><tr><td>Số cuối năm</td><td>Số đầu năm</td></tr><tr><td colspan="5">Phải trả người bán ngắn hạn (Thuyết minh số 15.1)</td></tr><tr><td>Công ty An Thành</td><td>Công ty con</td><td>Mua hàng hóa</td><td>12.975.324.590</td><td>-</td></tr><tr><td>Công ty An Tiến</td><td>Công ty con</td><td>Mua hàng hóa</td><td>2.142.773.448</td><td>-</td></tr><tr><td>Công ty An Vinh</td><td>Công ty con (kể từ ngày 15 tháng 7 năm 2020)</td><td>Mua hàng hóa</td><td>449.515.660</td><td></td></tr><tr><td>Công ty An Cường</td><td>Công ty cũng Tập đoàn (kể từ ngày 31 tháng 12 năm 2020)</td><td>Mua hàng hóa</td><td>30.245.070</td><td></td></tr><tr><td>Công ty An Tín</td><td>Công ty con</td><td>Mua dịch vụvận tải</td><td>-</td><td>5.003.301.686</td></tr><tr><td>Công ty Sunrise</td><td>Công ty liên kết</td><td>Mua hàng hóa</td><td>-</td><td>1.654.926.592</td></tr><tr><td>Công ty An Trung</td><td>Công ty cũng tập đoàn</td><td>Mua hàng hóa</td><td>-</td><td>1.016.770.295</td></tr><tr><td colspan="3"></td><td>15.597.858.768</td><td>7.674.998.573</td></tr><tr><td colspan="5">Phải trả người bán dài hạn (Thuyết minh số 15.1)</td></tr><tr><td>Công ty An Tín</td><td>Công ty con</td><td>Mua dịch vụvận tải</td><td>12.432.218.345</td><td>-</td></tr><tr><td>Công ty Sunrise</td><td>Công ty liên kết</td><td>Mua hàng hóa</td><td>10.360.718.467</td><td>-</td></tr><tr><td colspan="3"></td><td>22.792.936.812</td><td>-</td></tr><tr><td colspan="5">Người mua trả tiến trước ngắn hạn (Thuyết minh số 15.2)</td></tr><tr><td>Công ty An Tiến</td><td>Công ty con</td><td>Bán hàng hóa</td><td>20.114.768.950</td><td>-</td></tr><tr><td colspan="3"></td><td>20.114.768.950</td><td>-</td></tr><tr><td colspan="5">Phải trả ngắn hạn khác (Thuyết minh số 18)</td></tr><tr><td>Công ty An Tín</td><td>Công ty con</td><td>Mua dịch vụ</td><td>3.217.979.865</td><td>1.953.485.855</td></tr><tr><td>Công ty An Phát Complex 1</td><td>Công ty con</td><td>Phải trả lãi vay</td><td>8.284.932</td><td>-</td></tr><tr><td colspan="3"></td><td>3.226.264.797</td><td>1.953.485.855</td></tr><tr><td colspan="5">Vay dài hạn (Thuyết minh số 19)</td></tr><tr><td>Công ty An Tín</td><td>Công ty con</td><td>Vay dài hạn</td><td>10.000.000.000</td><td>-</td></tr><tr><td>Công ty An Phát Complex 1</td><td>Công ty con</td><td>Vay dài hạn</td><td>7.200.000.000</td><td>-</td></tr><tr><td colspan="3"></td><td>17.200.000.000</td><td>-</td></tr></table>
+
+47
+
+===== PAGE 50 =====
+Công ty Cổ phần Nhựa An Phát Xanh
+
+B09-DN
+
+THUYÊT MINH BẢO CẢO TÀI CHÌNH RIÊNG (tiếp theo)
+
+vào ngày 31 tháng 12 năm 2020 và cho năm tài chính kết thúc cứng ngày
+
+29. NGHIỆP VỤ VỐI CÁC BÊN LIÊN QUAN (tiếp theo)
+
+Các giao dịch với các bên liên quan khác
+
+Thu nhập của các thành viên của Hội đồng Quản trị (HĐQT), Ban Tổng Giám đốc và thủ lao Ban Kiểm soát trong năm:
+
+<table><tr><td rowspan="2">Tên</td><td rowspan="2">Chức vụ</td><td colspan="2">Đơn vị tính: VND</td></tr><tr><td>Năm nay</td><td>Năm trước</td></tr><tr><td>Ông Phạm Ảnh Dương</td><td>Chủ tịch</td><td>180.000.000</td><td>180.000.000</td></tr><tr><td>Ông Nguyễn Lê Trung</td><td>Phó Chủ tịch HBQT/Tổng Giảm đốc</td><td>704.460.038</td><td>599.966.078</td></tr><tr><td>Ông Phạm Hoàng Việt</td><td>Thành viên HBQT</td><td>120.000.000</td><td>120.000.000</td></tr><tr><td>Bà Hòa Thị Thu Hà</td><td>Thành viên HBQT/Phó Tổng Giảm đốc</td><td>514.547.076</td><td>430.035.845</td></tr><tr><td>Bà Trần Thị Thoàn</td><td>Phó Tổng Giảm đốc</td><td>589.073.038</td><td>483.202.001</td></tr><tr><td>Bà Bặng Thị Quỳnh Phương</td><td>Phó Tổng Giảm đốc</td><td>308.477.385</td><td>347.945.538</td></tr><tr><td>Bà Lâm Thị Hiền</td><td>Phó Tổng Giảm đốc</td><td>175.480.654</td><td>-</td></tr><tr><td>Ông Ngô Văn Thụ</td><td>Phó Tổng Giảm đốc</td><td>410.839.981</td><td>112.283.346</td></tr><tr><td>Bà Nguyễn Thị Giang</td><td>Trường Ban Kiểm soát</td><td>120.000.000</td><td>120.000.000</td></tr><tr><td>Bà Văn Thị Lan Anh</td><td>Thành viên Ban Kiểm soát</td><td>72.000.000</td><td>72.000.000</td></tr><tr><td>Bà Nguyễn Thị Phương</td><td>Thành viên Ban Kiểm soát</td><td>72.000.000</td><td>72.000.000</td></tr><tr><td>TỔNG CỘNG</td><td></td><td>3.266.878.172</td><td>2.537.432.808</td></tr></table>
+
+30. CÁC CAM KÊT
+
+Cam kết về thuê hoạt động
+
+Công ty thuê đất theo các hợp đồng thuê hoạt động. Tại ngày lập báo cáo tài chính riêng, cam kết về tiền thuê tối thiểu phải trả trong tương lai của Công ty theo các hợp đồng thuê hoạt động như sau:
+
+<table><tr><td rowspan="2"></td><td rowspan="2">Số cuối năm</td><td>Đơn vị tính: VND</td></tr><tr><td>Số đầu năm</td></tr><tr><td>Đến 1 năm</td><td>1.410.239.048</td><td>1.904.629.941</td></tr><tr><td>Từ 1 – 5 năm</td><td>5.640.956.192</td><td>9.523.149.703</td></tr><tr><td>Trên 5 năm</td><td>52.518.483.756</td><td>61.718.130.265</td></tr><tr><td>TỔNG CỘNG</td><td>59.569.678.996</td><td>73.145.909.909</td></tr></table>
+
+Cam kết cho thuê hoạt động
+
+Công ty hiện đang cho thuê nhà kho theo hợp đồng thuê hoạt động. Vào ngày kết thúc ký kế toán, các khoản tiền thuê phải thu trong tương lai theo hợp đồng thuê hoạt động được trình bày như sau:
+
+<table><tr><td rowspan="2"></td><td rowspan="2">Số cuối năm</td><td>Đơn vị tính: VND</td></tr><tr><td>Số đầu năm</td></tr><tr><td>Đến 1 năm</td><td>13.195.878.176</td><td>7.997.880.000</td></tr><tr><td>Từ 1 – 5 năm</td><td>42.785.505.204</td><td>29.028.160.000</td></tr><tr><td>TỔNG CỘNG</td><td>55.981.383.380</td><td>37.026.040.000</td></tr></table>
+
+48
+
+===== PAGE 51 =====
+Công ty Cổ phần Nhựa An Phát Xanh
+
+B09-DN
+
+THUYẾT MINH BẢO CÁO TẢI CHÍNH RIÊNG (tiếp theo)
+
+vào ngày 31 tháng 12 năm 2020 và cho năm tài chính kết thúc cùng ngày
+
+30. CÁC CAM KẾT (tiếp theo)
+
+Cam kết khác
+
+Công ty và Công ty An Cường đã ký kết thỏa thuân nhân cấp phép bản quyền một số sản phẩm văn sản với một đối tác doanh nghiệp (bên cấp phép). Theo đó, Công ty đảm bảo vỏ điều kiện cho bên cấp phép việc thanh toán số tiền bản quyền hàng ký trong trường hợp Công ty An Cường không hoàn thành nghĩa vụ trong thời hạn hoặc không trả bắt ký khoản tiền chưa thanh toán nào khác.
+
+Các khoản bảo đảm theo hợp đồng thế chấp tài sản với các ngân hàng thương mại
+
+Công ty An Thành, một công ty con của Công ty đã kỹ Hop đồng thế chấp tài sản cho một số khoản vay với số dư khoản vay tại ngày 31 tháng 12 năm 2020 là 28,8 tỷ VND tai các ngân hàng thương mai với điều khoản cam kết bảo lãnh từ Công ty. Theo đó, Công ty cam kết bảo lãnh cho các khoản vay này theo các Hop đồng thế chấp nếu trên.
+
+Công ty cũng cam kết liên đối bảo lãnh vô điều kiện và không hủy ngang cho tất cả và bất kỳ nghĩa vụ nào của Công ty An Phát Complex phát sinh theo Hợp đồng tin dụng hợp vốn, trong đó bên cho vay là Ngân hàng Industrial and Commercial Bank of China Limited – Chi nhánh Thành Phổ Hà Nội và Ngân hàng Keb Hana – Chi nhánh Thành phố Hồ Chí Minh.
+
+31. CÁC SỰ KIỆN PHÁT SINH SAU NGÀY KẾT THỨC KỸ KẾ TOẠN NĂM
+
+Theo Nghị Quyết số 050201/2021/NQ-ĐHĐCĐ ngày 5 tháng 2 năm 2021, Đai hỏi đồng Cổ đông bất thường đã thông qua việc đăng ký phát hành thêm 75.000.000 cổ phiếu ra công chúng. Ngày 22 tháng 3 năm 2021, theo Giấy Chứng nhận số 28/GCN-UBCK, Ủy ban Chứng khoán Nhà nước đã phê duyệt việc đăng ký chào bản cổ phiếu này.
+
+Không có sự kiện nào khác phát sinh sau ngày kết thúc ký kế toán năm yêu cầu phải được điều chỉnh hay trình bày trong báo cáo tài chính riêng của Công lymph.
+
+Đỗ Hoài Linh
+Người lập
+
+Nguyễn Thị Thủy Vân
+Kế toán trưởng
+
+Nguyễn Lê Trung
+Tổng Giám đốc
+
+Hải Dương, Việt Nam
+
+Ngày 26 tháng 3 năm 2021
+
+49

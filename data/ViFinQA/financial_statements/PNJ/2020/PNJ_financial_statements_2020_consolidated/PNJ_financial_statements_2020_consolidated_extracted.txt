@@ -1,0 +1,988 @@
+===== PAGE 1 =====
+CÔNG TY CỔ PHẦN VÀNG BẠC ĐÁ QUÝ PHÚ NHUẠN
+
+BÁO CÁO TÀI CHÍNH HỢP NHẤT
+
+CHO NĂM TÀI CHÍNH KẾT THỨC NGÀY 31 THÁNG 12 NĂM 2020
+
+===== PAGE 2 =====
+CÔNG TY CÓ PHẦN VÀNG BẠC ĐÁ QUÝ PHÚ NHUẬN
+
+BÁO CÁO TÀI CHÍNH HỢP NHẤT
+
+CHO NĂM TÀI CHÍNH KẾT THỨC NGÀY 31 THÁNG 12 NĂM 2020
+
+NỘI DUNG
+
+TRANG
+
+Thông tin về doanh nghiệp 1
+
+Báo cáo của Ban Điều hành 2
+
+Báo cáo kiểm toán độc lập 3
+
+Bảng cân đối kế toán hợp nhất (Mẫu số B 01 – DN/HN) 5
+
+Báo cáo kết quả hoạt động kinh doanh hợp nhất (Mẫu số B 02 – DN/HN) 7
+
+Báo cáo lưu chuyển tiền tệ hợp nhất (Mẫu số B 03 – DN/HN) 8
+
+Thuyết minh báo cáo tài chính hợp nhất (Mẫu số B 09 – DN/HN) 9
+
+===== PAGE 3 =====
+CÔNG TY CỔ PHẦN VÀNG BẠC ĐÁ QUÝ PHÚ NHUẬN
+
+THÔNG TIN VỀ DOANH NGHIỆP
+
+<table><tr><td>Giấy chứng nhận đăng ký doanh nghiệp</td><td colspan="2">Số 0300521758 do Sở Kế hoạch và Đầu tư Thành phố Hồ Chí Minh cấp lần đầu ngày 2 tháng 1 năm 2004 và Giấy chứng nhận đăng ký doanh nghiệp thay đổi gần nhất lần thứ 30 ngày 31 tháng 12 năm 2019.</td></tr><tr><td>Hội đồng Quản trị</td><td>Bà Cao Thị Ngọc DungÔng Lê Trí ThôngÔng Lê Hữu HạnhÔng Lê Quang PhúcHuỳnh Thị Xuân LiênBà Đăng Thị LảiBà Tiêu Yến TrinhBà Trần Phương Ngọc ThảoÔng Nguyễn Tuấn HảiBà Phạm Vũ Thanh Giang</td><td>Chủ tịchPhó Chủ tịchThành viênThành viênThành viênThành viên(bổ nhiệm ngày 10/6/2020)Thành viên(bổ nhiệm ngày 10/6/2020)Thành viên(bổ nhiệm ngày 10/6/2020)Thành viên(đến ngày 10 tháng 8 năm 2020 Hội đồng Quản trị phân công Ông Lê Trí Thông quản lý và điều hành Khối khách hàng &amp; bán lẻ và Khối cung ứng)Trường banThành viênThành viên</td></tr><tr><td>Ban Kiểm soát</td><td>Ông Nguyễn Thành ĐưBà Nguyễn Ngọc HuệÔng Lê Anh Đức</td><td>Tổng Giám đốc(Từ ngày 10 tháng 8 năm 2020 Hội đồng Quản trị phân công Ông Lê Trí Thông quản lý và điều hành Khối khách hàng &amp; bán lẻ và Khối cung ứng)</td></tr><tr><td>Ban Điều hành</td><td>Bà Đăng Thị LàiBà Trần Thị Thu HàÔng Phan Nguyễn Hoài AnhÔng Nguyễn Hoàng ChâuÔng Đào Trung KiênÔng Đăng Hải AnhÔng Nguyễn Ngọc TrânÔng Nguyễn Anh HùngÔng Dương Quang Hải</td><td>Giám đốc Vận hành kiểm Giám đốc khối Tài chính – Vận hànhGiám đốc khối Bán lẻ(đến ngày 10 tháng 8 năm 2020)Quyền Giám đốc khối Marketing Giám đốc khối Cung ứng(đến ngày 10 tháng 8 năm 2020)Giám đốc khối Chiến lượcGiám đốc khối Công nghệ thông tin(đến ngày 20 tháng 8 năm 2020)Giám đốc khối Công nghệ thông tin(đến ngày 20 tháng 8 năm 2020)Giám đốc khối Nguồn nhân lựcKế toán trường</td></tr><tr><td>Người đại diện theo pháp luật</td><td>Ông Lê Trí Thông</td><td>Tổng Giám đốc</td></tr><tr><td>Trụ sở chính</td><td colspan="2">170E Phan Đăng Lưu, Phường 3, Quận Phú Nhuận Thành phố Hồ Chí Minh, Việt Nam</td></tr><tr><td>Kiểm toán viên</td><td colspan="2">Công ty TNHH PwC (Việt Nam)</td></tr></table>
+
+1
+
+===== PAGE 4 =====
+CÔNG TY CỔ PHẦN VÀNG BẠC ĐÁ QUÝ PHÚ NHUẬN
+
+TRÁCH NHIỆM CỦA BAN ĐIỀU HÀNH CÔNG TY ĐỐI VỚI BÁO CÁO TÀI CHÍNH HỢP NHẤT
+
+Ban Điều hành Công ty Cổ phần Vàng bạc Đá quý Phú Nhuận ("Công ty") chịu trách nhiệm lập báo cáo tài chính hợp nhất của Công ty và các công ty con (gọi chung là "Tập đoàn") thể hiện trung thực và hợp lý tính hình tài chính hợp nhất của Tập đoàn tại ngày 31 tháng 12 năm 2020, cũng như kết quả hoạt động kinh doanh hợp nhất và tinh hình lưu chuyển tiền tệ hợp nhất của năm tài chính kết thúc cũng ngày nếu trên. Trong việc soan lập báo cáo tài chính hợp nhất này, Ban Điều hành được yêu cầu phải:
+
+- chon lưa các chính sách kế toán phù hợp và áp dụng một cách nhất quán;
+
+- thực hiện các xét đoán và ước tính một cách hợp lý và thận trọng; và
+
+- soạn lập báo cáo tài chính hợp nhất trên cơ sở đơn vị hoạt động liên tục trừ khi giả định đơn vị hoạt động liên tục là không phù hợp.
+
+Ban Điều hành của Công ty chịu trách nhiệm bảo đảm rằng các số sách kế toán đúng dẫn đã được thiết lập và duy trì để thể hiện tình hình tài chính hợp nhất của Tập đoàn với độ chính xác hợp lý tại mọi thời điểm và đề làm cơ sở soạn lập báo cáo tài chính hợp nhất tuân thủ theo chế độ kế toán được trình bày ở Thuyết minh số 2 của báo cáo tài chính hợp nhất. Ban Điều hành của Công ty cũng chịu trách nhiệm đối với việc bảo vệ các tài sản của Tập đoàn và thực hiện các biện pháp hợp lý để phòng ngừa và phát hiện các gian lân hoặc nhằm lân.
+
+PHÊ CHUÀN BÁO CÁO TÀI CHÍNH HỢP NHẤT
+
+Theo đây, chúng tôi phê chuẩn báo cáo tài chính hợp nhất đinh kèm từ trang 5 đến trang 41. Báo cáo tài chính hợp nhất này phần ánh trung thực và hợp lý tính hình tài chính hợp nhất của Tập đoàn tại ngày 31 tháng 12 năm 2020, cũng như kết quả hoạt động kinh doanh hợp nhất và tinh hình lưu chuyển tiền tệ hợp nhất của năm tài chính kết thúc vào ngày nếu trên phù hợp với các Chuẩn mực Kế toán Việt Nam, Chế độ Kế toán Doanh nghiệp Việt Nam và các qui định pháp lý có liên quan đến việc lập và trình bày báo cáo tài chính hợp nhất.
+
+Lê Trí Thông
+
+Tổng Giám đốc
+
+Thành phố Hồ Chí Minh, nước CHXHCN Việt Nam
+
+Ngày 15 tháng 3 năm 2021
+
+2
+
+===== PAGE 5 =====
+pwc
+
+BÁO CÁO KIÊM TOÁN ĐỘC LẬP
+GỦI CÁC CỔ ĐÔNG CỦA CÔNG TY CỔ PHẦN VÀNG BẠC ĐÁ QUÝ PHÚ NHUẬN
+
+Chứng tối đã kiểm toán báo cáo tài chính hợp nhất kèm theo của Công ty Cổ phần Vàng bạc Đá quý Phú Nhuận (“Công ty”) và các công ty con (gọi chung là “Tập đoàn”) được lập ngày 31 tháng 12 năm 2020, và được Ban Điều hành Công ty phê chuẩn ngày 15 tháng 3 năm 2021. Báo cáo tài chính hợp nhất này bao gồm: bằng cân đối kế toán hợp nhất tại ngày 31 tháng 12 năm 2020, báo cáo kết quả hoạt động kinh doanh hợp nhất và báo cáo lưu chuyển tiền tệ hợp nhất cho năm tài chính kết thúc cứng ngày nếu trên, và thuyết minh báo cáo tài chính hợp nhất bao gồm các chính sách kế toán chủ yếu từ trang 5 đến trang 41.
+
+Trách nhiệm của Ban Điều hành
+
+Ban Điều hành Công ty chịu trách nhiệm về việc lập và trình bày trung thực và hợp lý báo cáo tài chính hợp nhất của Tập đoàn theo các Chuẩn mực Kế toán Việt Nam, Chế độ Kế toán Doanh nghiệp Việt Nam và các qui định pháp lý có liên quan đến việc lập và trình bày báo cáo tài chính hợp nhất và chịu trách nhiệm về kiểm soát nội bộ mà Ban Điều hành xác định là cần thiết để đảm bảo cho việc lập và trình bày báo cáo tài chính hợp nhất không có sai sót trọng yếu do gian lận hoặc nhằm lẫn.
+
+Trách nhiệm của Kiểm toán viên
+
+Trách nhiệm của chúng tôi là đưa ra ý kiến về báo cáo tài chính hợp nhất này dựa trên kết quả cuộc kiểm toán. Chứng tôi đã tiến hành kiểm toán theo các Chuẩn mục Kiểm toán Việt Nam. Các chuẩn mục này yêu cầu chúng tôi tuân thủ chuẩn mục và các quy định về đạo đức nghề nghiệp và lập kế hoạch và thực hiện cuộc kiểm toán để đạt được sự đảm bảo hợp lý về việc liệu báo cáo tài chính hợp nhất của Tập đoàn có còn sai sót trọng yếu hay không.
+
+Công việc kiểm toán bao gồm thực hiện các thủ tục nhằm thu thập các bằng chứng kiểm toán về các số liệu và thuyết minh trên báo cáo tài chính hợp nhất. Các thủ tục kiểm toán được lựa chọn dựa trên xét đoán của kiểm toán viên, bao gồm đánh giá rủi ro có sai sót trọng yếu trong báo cáo tài chính hợp nhất do gian lập hoặc nhằm lẫn. Khi thực hiện đánh giá các rủi ro này, kiểm toán viên đã xem xét kiểm soát nội bộ của Tập đoàn liên quan đến việc lập và trình bày báo cáo tài chính hợp nhất trung thực và hợp lý nhằm thiết kế các thủ tục kiểm toán phù hợp với tính hình thực tế, tuy nhiên không nhằm mục đích đưa ra ý kiến về hiệu quả của kiểm soát nội bộ của Tập đoàn. Công việc kiểm toán cũng bao gồm việc đánh giá tính thích hợp của các chính sách kế toán được áp dụng và tính hợp lý của các ước tính kế toán của Ban Điều hành cũng như đánh giá việc trình bày tổng thể báo cáo tài chính hợp nhất.
+
+Chúng tôi tin tưởng rằng các bằng chứng kiểm toán mà chúng tôi đã thu thập được là đầy đủ và thích hợp để làm cơ sở cho ý kiến kiểm toán của chúng tôi.
+
+3
+
+Công ty TNHH PwC (Việt Nam)
+Lâu 8, Saigon Tower, 29 Lê Duẩn, Quán 1, TP. Hồ Chí Minh, Việt Nam
+ĐT: +84 (28)38230796, www.piec.com/vn
+
+===== PAGE 6 =====
+pwc
+
+Ý kiến của Kiểm toán viên
+
+Theo ý kiến của chúng tôi, báo cáo tài chính hợp nhất đã phần ánh trung thực và hợp lý, trên các khía cạnh trọng yếu tính hình tài chính hợp nhất của Tập đoàn tại ngày 31 tháng 12 năm 2020, cũng như kết quả hoạt động kinh doanh hợp nhất và tính hình lưu chuyển tiền tệ hợp nhất cho năm tài chính kết thúc cùng ngày nếu trên phù hợp với các Chuẩn mục Kế toán Việt Nam, Chế độ Kế toán Doanh nghiệp Việt Nam và các quy định pháp lý có liên quan đến việc lập và trình bày báo cáo tài chính hợp nhất.
+
+Thay mặt và đại diện cho Công ty TNHH PwC (Việt Nam)
+
+Mai Việt Hùng Trần
+
+Số Giấy CN ĐKHN kiểm toán:
+
+0048-2018-006-1
+
+Chữ ký được ủy quyền
+
+Số hiệu báo cáo kiểm toán: HCM10119
+
+TP. Hồ Chí Minh, ngày 15 tháng 3 năm 2021
+
+Nguyễn Vũ Anh Tuân
+
+Số Giấy CN ĐKHN kiểm toán.
+
+3631-2021-006-1
+
+4
+
+===== PAGE 7 =====
+CÔNG TY CỔ PHẦN VÀNG BẠC ĐÁ QUÝ PHÚ NHUẬN
+
+Mẫu số B 01 – DN/HN
+
+BẢNG CẦN ĐỐI KẾ TOÁN HỢP NHẤT
+
+<table><tr><td rowspan="2">Mã số</td><td rowspan="2">TÀI SẢN</td><td rowspan="2">Thuyết minh</td><td colspan="2">Tại ngày 31 tháng 12 năm</td></tr><tr><td>2020 VND</td><td>2019 VND</td></tr><tr><td>100</td><td>TÀI SẢN NGĂN HẠN</td><td></td><td>7.143.929.036.497</td><td>7.333.364.485.251</td></tr><tr><td>110</td><td>Tiền</td><td></td><td>422.234.781.061</td><td>95.224.439.008</td></tr><tr><td>111</td><td>Tiền</td><td>3</td><td>422.234.781.061</td><td>95.224.439.008</td></tr><tr><td>130</td><td>Các khoản phải thu ngắn hạn</td><td></td><td>98.997.286.429</td><td>129.688.313.476</td></tr><tr><td>131</td><td>Phải thu ngắn hạn của khách hàng</td><td>4</td><td>67.591.685.619</td><td>48.292.876.716</td></tr><tr><td>132</td><td>Trả trước cho người bán ngắn hạn</td><td>5</td><td>20.218.946.599</td><td>74.867.455.343</td></tr><tr><td>136</td><td>Phải thu ngắn hạn khác</td><td>6(a)</td><td>12.261.206.010</td><td>5.287.941.028</td></tr><tr><td>137</td><td>Dự phòng phải thu ngắn hạn khó đòi</td><td></td><td>(1.202.878.846)</td><td>-</td></tr><tr><td>139</td><td>Tài sản thiếu chờ xử lý</td><td></td><td>128.327.047</td><td>1.240.040.389</td></tr><tr><td>140</td><td>Hàng tồn kho</td><td></td><td>6.545.905.987.056</td><td>7.030.420.371.216</td></tr><tr><td>141</td><td>Hàng tồn kho</td><td>7</td><td>6.545.905.987.056</td><td>7.030.420.371.216</td></tr><tr><td>150</td><td>Tài sản ngắn hạn khác</td><td></td><td>76.790.981.951</td><td>78.031.361.551</td></tr><tr><td>151</td><td>Chi phí trả trước ngắn hạn</td><td>8(a)</td><td>66.112.866.470</td><td>71.633.378.895</td></tr><tr><td>152</td><td>Thuế Giá trị gia tăng (&quot;GTGT&quot;) được khấu trừ</td><td></td><td>10.670.276.957</td><td>6.306.692.920</td></tr><tr><td>153</td><td>Thuế và các khoản khác phải thu Nhà nước</td><td></td><td>7.838.524</td><td>91.289.736</td></tr><tr><td>200</td><td>TÀI SẢN DÀI HẠN</td><td></td><td>1.339.217.061.954</td><td>1.269.599.936.565</td></tr><tr><td>210</td><td>Khoản phải thu dài hạn</td><td></td><td>77.310.617.360</td><td>70.721.623.109</td></tr><tr><td>216</td><td>Phải thu dài hạn khác</td><td>6(b)</td><td>77.310.617.360</td><td>70.721.623.109</td></tr><tr><td>220</td><td>Tài sản cố định</td><td></td><td>931.617.117.533</td><td>923.870.354.474</td></tr><tr><td>221</td><td>Tài sản cố định hữu hình</td><td>9(a)</td><td>281.244.232.172</td><td>263.827.234.353</td></tr><tr><td>222</td><td>Nguyên giá</td><td></td><td>600.464.186.725</td><td>534.818.699.342</td></tr><tr><td>223</td><td>Giá trị khấu hao lũy kế</td><td></td><td>(319.219.954.553)</td><td>(270.991.464.989)</td></tr><tr><td>227</td><td>Tài sản cố định vô hình</td><td>9(b)</td><td>650.372.885.361</td><td>660.043.120.121</td></tr><tr><td>228</td><td>Nguyên giá</td><td></td><td>683.791.142.309</td><td>679.619.883.005</td></tr><tr><td>229</td><td>Giá trị khấu hao lũy kế</td><td></td><td>(33.418.256.948)</td><td>(19.576.762.884)</td></tr><tr><td>240</td><td>Tài sản dở dang dài hạn</td><td></td><td>33.003.867.003</td><td>28.457.398.434</td></tr><tr><td>242</td><td>Chỉ phí xây dựng cơ bản dở dang</td><td>10</td><td>33.003.867.003</td><td>28.457.398.434</td></tr><tr><td>250</td><td>Đầu tư tài chính dài hạn</td><td>11</td><td>-</td><td>-</td></tr><tr><td>253</td><td>Đầu tư góp vốn vào đơn vị khác</td><td></td><td>395.271.613.400</td><td>395.271.613.400</td></tr><tr><td>254</td><td>Dự phòng đầu tư tài chính dài hạn</td><td></td><td>(395.271.613.400)</td><td>(395.271.613.400)</td></tr><tr><td>260</td><td>Tài sản dài hạn khác</td><td></td><td>297.285.460.058</td><td>246.550.560.548</td></tr><tr><td>261</td><td>Chỉ phí trả trước dài hạn</td><td>8(b)</td><td>206.301.766.031</td><td>158.318.980.481</td></tr><tr><td>262</td><td>Tài sản thuế thu nhập hoãn lại</td><td>21</td><td>90.983.694.027</td><td>88.231.580.067</td></tr><tr><td>270</td><td>TỔNG TÀI SẢN</td><td></td><td>8.483.146.098.451</td><td>8.602.964.421.816</td></tr></table>
+
+Các thuyết minh từ trang 9 đến trang 41 là một phần cấu thành báo cáo tài chính hợp nhất này.
+
+5
+
+===== PAGE 8 =====
+CÔNG TY CỔ PHẦN VÀNG BẠC ĐÁ QUÝ PHÚ NHUẬN
+
+Mẫu số B 01 – DN/HN
+
+BÀNG CÂN Đ<|box_end|><|ref_start|> KẾ TOÁN HỢP NHẤT (tiếp theo)
+
+<table><tr><td rowspan="2">Mã số</td><td rowspan="2">NGUỒN VỐN</td><td rowspan="2">Thuyết minh</td><td colspan="2">Tại ngày 31 tháng 12 năm</td></tr><tr><td>2020VND</td><td>2019VND</td></tr><tr><td>300</td><td>NỘ PHẢI TRÀ</td><td></td><td>3.241.284.233.443</td><td>4.025.698.610.469</td></tr><tr><td>310</td><td>Nợ ngắn hạn</td><td></td><td>3.231.907.356.443</td><td>4.017.860.824.469</td></tr><tr><td>311</td><td>Phải trả người bán ngắn hạn</td><td>12</td><td>481.588.464.720</td><td>690.808.185.195</td></tr><tr><td>312</td><td>Người mua trả tiền trước ngắn hạn</td><td>13</td><td>157.182.968.364</td><td>95.353.052.369</td></tr><tr><td>313</td><td>Thuế và các khoản phải nộp Nhà nước</td><td>14</td><td>214.710.310.923</td><td>192.682.671.178</td></tr><tr><td>314</td><td>Phải trả người lao động</td><td>15</td><td>290.765.645.610</td><td>222.296.091.737</td></tr><tr><td>315</td><td>Chỉ phí phải trả ngắn hạn</td><td>16</td><td>55.520.256.916</td><td>45.877.630.688</td></tr><tr><td>319</td><td>Phải trả ngắn hạn khác</td><td>17</td><td>76.978.636.900</td><td>69.257.739.996</td></tr><tr><td>320</td><td>Vay ngắn hạn</td><td>18(a)</td><td>1.839.275.064.065</td><td>2.610.902.622.222</td></tr><tr><td>322</td><td>Quỹ khen thưởng, phúc lợi</td><td>19</td><td>115.886.008.945</td><td>90.682.831.084</td></tr><tr><td>330</td><td>Nợ dài hạn</td><td></td><td>9.376.877.000</td><td>7.837.786.000</td></tr><tr><td>337</td><td>Phải trả dài hạn khác</td><td></td><td>526.168.000</td><td>476.006.000</td></tr><tr><td>338</td><td>Vay dài hạn</td><td>18(b)</td><td>-</td><td>3.700.000.000</td></tr><tr><td>342</td><td>Dự phòng phải trả dài hạn</td><td>20</td><td>8.850.709.000</td><td>3.661.780.000</td></tr><tr><td>400</td><td>VỐN CHỦ SỞ HỮU</td><td></td><td>5.241.861.865.008</td><td>4.577.265.811.347</td></tr><tr><td>410</td><td>Vốn chủ sở hữu</td><td></td><td>5.241.861.865.008</td><td>4.577.265.811.347</td></tr><tr><td>411</td><td>Vốn góp của chủ sở hữu</td><td>22, 23</td><td>2.276.123.620.000</td><td>2.252.935.850.000</td></tr><tr><td>411a</td><td>- Cổ phiếu phổ thông có quyền biểu quyết</td><td></td><td>2.276.123.620.000</td><td>2.252.935.850.000</td></tr><tr><td>412</td><td>Thặng dư vốn cổ phần</td><td>23</td><td>991.261.882.458</td><td>968.074.112.458</td></tr><tr><td>415</td><td>Cổ phiếu quỹ</td><td>23</td><td>(3.384.090.000)</td><td>(2.101.090.000)</td></tr><tr><td>418</td><td>Quỹ đầu tư phát triển</td><td>23</td><td>372.779.556.918</td><td>313.083.556.918</td></tr><tr><td>421</td><td>Lợi nhuận sau thuế (&quot;LNST&quot;) chưa phân phối</td><td>23</td><td>1.605.080.895.632</td><td>1.045.273.381.971</td></tr><tr><td>421a</td><td>- LNST chưa phân phối lũy kế của các năm trước</td><td></td><td>670.845.205.971</td><td>29.482.225.528</td></tr><tr><td>421b</td><td>- LNST chưa phân phối của năm nay</td><td></td><td>934.235.689.661</td><td>1.015.791.156.443</td></tr><tr><td>440</td><td>TỔNG NGUỒN VỐN</td><td></td><td>8.483.146.098.451</td><td>8.602.964.421.816</td></tr></table>
+
+Nguyễn Thành Đạt
+Người lập
+
+Dương Quang Hải
+Kế toán trường
+
+Lê Trí Thông
+Tổng Giám đốc
+Ngày 15 tháng 3 năm 2021
+
+Các thuyết minh từ trang 9 đến trang 41 là một phần cấu thành báo cáo tài chính hợp nhất này.
+
+6
+
+===== PAGE 9 =====
+CÔNG TY CÔ PHẦN VÀNG BẠC ĐÁ QUÝ PHÚ NHUẬN
+
+Mẫu số B 02 – DN/HN
+
+BÁO CÁO KẾT QUÀ HOẠT ĐỘNG KINH DOANH HỢP NHẤT
+
+<table><tr><td rowspan="2">Mãsố</td><td rowspan="2"></td><td rowspan="2">Thuyếtminh</td><td colspan="2">Năm tài chính kết thúcngày 31 tháng 12 năm</td></tr><tr><td>2020VND</td><td>2019VND</td></tr><tr><td>01</td><td>Doanh thu bán hàng và cung cấp dịch vụ</td><td></td><td>17.681.913.026.177</td><td>17.144.251.446.632</td></tr><tr><td>02</td><td>Các khoản giảm trừ doanh thu</td><td></td><td>(171.124.375.178)</td><td>(143.570.366.109)</td></tr><tr><td>10</td><td>Doanh thu thuần về bán hàng vàcung cấp dịch vụ</td><td>27</td><td>17.510.788.650.999</td><td>17.000.681.080.523</td></tr><tr><td>11</td><td>Giá vốn hàng bán và dịch vụ cung cấp</td><td>28</td><td>(14.076.055.770.112)</td><td>(13.539.967.588.262)</td></tr><tr><td>20</td><td>Lợi nhuận gộp về bán hàng và cung cấpdịch vụ</td><td></td><td>3.434.732.880.887</td><td>3.460.713.492.261</td></tr><tr><td>21</td><td>Doanh thu hoạt động tài chính</td><td>29</td><td>2.368.958.316</td><td>16.820.020.734</td></tr><tr><td>22</td><td>Chi phí tài chính</td><td>30</td><td>(161.541.087.492)</td><td>(133.678.118.497)</td></tr><tr><td>23</td><td>- Trong đó: Chi phí lãi vay</td><td></td><td>(154.416.694.276)</td><td>(115.367.610.418)</td></tr><tr><td>25</td><td>Chi phí bán hàng</td><td>31</td><td>(1.420.855.653.447)</td><td>(1.361.807.553.507)</td></tr><tr><td>26</td><td>Chi phí quản lý doanh nghiệp</td><td>32</td><td>(505.572.794.605)</td><td>(475.831.697.930)</td></tr><tr><td>30</td><td>Lợi nhuận thuần từ hoạt động kinh doanh</td><td></td><td>1.349.132.303.659</td><td>1.506.216.143.061</td></tr><tr><td>31</td><td>Thu nhập khác</td><td></td><td>5.485.848.150</td><td>4.760.923.089</td></tr><tr><td>32</td><td>Chi phí khác</td><td></td><td>(8.637.683.094)</td><td>(4.264.680.599)</td></tr><tr><td>40</td><td>(Lỗ)/lợi nhuận khác</td><td></td><td>(3.151.834.944)</td><td>496.242.490</td></tr><tr><td>50</td><td>Tổng lợi nhuận kế toán trước thuế</td><td></td><td>1.345.980.468.715</td><td>1.506.712.385.551</td></tr><tr><td>51</td><td>Chi phí thuế thu nhập doanh nghiệp(&quot;TNDN&quot;) hiện hành</td><td>33</td><td>(279.422.477.414)</td><td>(315.667.183.537)</td></tr><tr><td>52</td><td>Thu nhập thuế TNDN hoãn lại</td><td>33</td><td>2.752.113.960</td><td>2.879.755.229</td></tr><tr><td>60</td><td>Lợi nhuận sau thuế TNDN</td><td></td><td>1.069.310.105.261</td><td>1.193.924.957.243</td></tr><tr><td>61</td><td>Phân bổ cho:Lợi nhuận sau thuế của công ty mẹ</td><td></td><td>1.069.310.105.261</td><td>1.193.924.957.243</td></tr><tr><td>70</td><td>Lãi cơ bản trên cổ phiếu</td><td>25(a)</td><td>4.308</td><td>4.896</td></tr><tr><td>71</td><td>Lãi suy giảm trên cổ phiếu</td><td>25(b)</td><td>4.308</td><td>4.896</td></tr><tr><td colspan="5"><img src="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDL/2wBDAQkJCQwLDBgNDRgyIRwhMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjL/wAARCACDAJkDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwD3+iiigAPSm049KbQAZpAwzjPNBGSKytX1VdLSNmH+skC5+pppXdhN2NfIzjNJnPSo43DhHHRhmpAMDFIYU6m06gAoPSiigBtFOpD1oASkyPWlPSmngcUALketB6VnX+q2thHmaQZ/ujqa5+a71bW5CtkpgtzxuPXFXGDe+hlKqlodL/aVkbr7L9pi8/8A557uat1z2leF7ewvFuy7vcgcs1b+X9BUyST0NE7rUmooopDA9KbTj0ptACNXL+N1xoayY+ZJFI/OunbrXO+NE3eHJOOQVNVD40RP4TX035tPtmzzsX+VXaoaQwbS7U5/5Zr/ACq+KUviY47BTqbTqRQhNGaD1pKAFzSE0ZGcd6ZJIiK248AZNADZZkhiaRmG0DrWB/bFzqkz2+nIE28M7jIP0qvfXM2t3BsrMn7ODhnXpit7TtPj0+3SKIdOpPU1pZQV3uY3c3ZGda+HohKJ7smaX36CtxIUjUBRtA7CnDIJ4pxqJNy3NFGK2G4560baWikUOoopCaAFPSm0uaSgBrEDNYni1N2gz/7IzW23Q1jeJz/xIbnPdSKqHxET+Em0CQSaLakf3BWoKydAHl6LAAOiDitIP1A6gdKUviYQ+FXJadUeeMmnBiRxSLFPWkqGe4SBPMkdVUetZul6/b6tczQwdYThyaaTauTzJOxqsxB5wFx96ua1C6l1e4NjaEqinDyD+VTa5fSvtsLZsyyH5j6CtLTNOjsrcKB8x5Ynuate6rsn4nZDtP06KwgWOMDgct61epMUtZ3b1ZaVthRS0gpaBhRRRQAUh60tIetACUUUUANfpWF4rOdIaNTguwUVvEZI9q5XxbOqyWcJbClwT9OKunFuWhnUdosuvqEej6FC7kBwgUA9zisrwpqV9qOr3z3Bwo4Cnt0pllC+u3zXMoItbchY0PRiB1qXwkmLrU5+mZefyFauyTvuYptyRu6xq8Wk2T3EmOOg9TTtJ1H+07FLnG0N0zXK+IHbVZ7pB/x728Zc/UAn+lXtHuRpfhGOWQ5YZZR655FL2a5F3KVR84a5K2rXgsY2IiiBeQr29jVDw0YdOtdQvT8qu+1Se5HStCzt2sdCuL2f/WyAsxPvxWLpEbak0VgmfLibzJD6/wCcVpHWLtsjOWsrvc6PQrNpWk1CcEu5+TPpXRrwMVHDEsUaIgwq1IDkmuWUuZnTCPKhaKKKRYopc02igB1FFFABSYpaKAExSU49KbmgBjHBx68V59r3max4ojsYTkRDDGu11a+TT7GWd2A2r8ufWsDwhaeakupzofNnJIJ9K2pNwTmY1LSaibIhXS9KIVQPLjzkVgadONK8OtcOcvcMSvqc8Vr+Jbgw6Y4BwH+Uj2rn9MU6xqMMSAmzsxj2Y/5NVBO3MyZ6SSRYltJLTwtO8pxNMcufrVKxJ1q7srO35s7dQZfdv85rsb/TkvrF7ZjgEYBqHQ9Et9GtjDCPmblmqY1Fyt9Q9m7mf4uZ4tDCRIzbjt2rS+EtJaw01ZZh++kwT64ronjR8B1DAdAaXaB0GMVCqvl5TT2a5uZj8YGKTocYoyKq3Wo2toMyzKpxnBNSot7Ftpbls8DNM3HODxkcVz03ipGJW2gec9tgzmqvneJNTjdYo47VCOC3UfpVezfUj2l9jrFbI604Vn6VbXFraJHczGWX+Jq0TUs0XmLRRRSAKKKQmgBT0pnelJ4qjqd4thZTXLn5VXoKErsTdlc5LxbfPqOoW2lW3zAsC5HYV19laLZWUdunAQAZrmfCWnGeWXVJwS8zfLnsK7AAD5f51rVaVoozhH7Rm6xpSavYNayMVz0YUuj6RBpFqIIR06k9zWgABwCaY8scYzJIAB3JrNSbVkW1Faslz2Io+UDPSse78Q28L7YlaVug2c1Qd9X1Rv3Y8mM+o5qlTvuQ6i2RvXOoW1spM0yrxWU3iKOQlbOB5T60kHhuLIe6d5n/ANo5FbNvZwWy4iiVPoKfuR8wtORzrwa1qbZZ/Ij9O9XLbw3boN1wzTP/ALRrcxQEBOTyan2j6aFKC6laKztoABHEqfQVaUADgUuKMVOvUpJLYTnvRS4oxQMWikzRmgBc0h60lGaAEOMVWurVLy3MUqAoeoqdmHc4qpeana2S7ppVXHqetNJvYmTVtSaGFLWFYo1CoowAKS5vILSMvPIqL6k1zkuv3eoOYtLgYg8GVxxUtn4bkkfztQuHlkPJXPy1fJbWTM3Ub0ghZPEUlzL5OnwtJn+MDIpY9Gvbw7724OP+eanjFbcFnBbjbDGqkegqwKOdLSIKnfWRRtNKt7Nf3cSqfXrV4Aehp/akqG29zVRS2AcUtApaQxtKKWigAooooAKD0ooPSgBtFFFADS3HFZmpa7Y6ZGXnmXIH3VOT+VN1u3v7m2EdjIIyfvMTzWbp/g+zhcT3W66n6lpGyB+FXGMd5EScr2RSGu6vrbH+zLTy4TwJJRj8e1WrPwiskwudVma6l67WPyiukWKOJQkaKFHYcCpsDGMU3Ue0VYlUluyKG2iijCRrsQdFHSpdvoSKFOOppcj1rPctabBgUYpcikyPWgoWl4puR60m4etAD+lGaaGHrRketAD80maZuHrSgg96AHZpc03NJuoC4/NITxTc0ZoAWik3L6ijcvrQB80J4h1c9dQn/wC+qe2v6t/z/wA//fVFFMlEX9u6qXAN/Pgn+9Vr+1tQ/wCf2f8A77NFFBQ1tW1DP/H7P/32aT+1tQ/5/J/++zRRQA7+1dQ/5/J/++zSrquoY/4/J/8Avs0UUgHf2rfnj7ZN/wB9mn/b7z/n6m/77NFFAB9uuz/y9Tf9/DS/brv/AJ+pv+/hoopASpe3R63M3/fw1aimmkUlp5if+ujf40UUxMkLSY/103/f1v8AGmb5P+e03/f1v8aKKYgDyf8APab/AL+t/jS7pCcGab/v63+NFFIQvl/9NJv+/rf40eX/ANNJv+/rf40UUAf/2Q=="/></td></tr><tr><td colspan="2">Nguyễn Thành ĐạtNgười lập</td><td>Dương Quang HảiKế toán trưởng</td><td colspan="2">Lê Trí ThôngTổng Giám đốcNgày 15 tháng 3 năm 2021</td></tr></table>
+
+Các thuyết minh từ trang 9 đến trang 41 là một phần cấu thành báo cáo tài chính hợp nhất này.
+
+7
+
+===== PAGE 10 =====
+CÔNG TY CỔ PHẦN VÀNG BẠC ĐÁ QUÝ PHÚ NHUẬN
+
+Mẫu số B 03 – DN/HN
+
+BÁO CÁO LƯU CHUYÊN TIÊN TỆ HỢP NHẤT
+
+(Theo phương pháp gián tiếp)
+
+<table><tr><td rowspan="2">Mã số</td><td rowspan="2"></td><td rowspan="2">Thuyết minh</td><td colspan="2">Năm tài chính kết thúc ngày 31 tháng 12 năm</td></tr><tr><td>2020 VND</td><td>2019 VND</td></tr><tr><td></td><td colspan="4">LU&#x27;U CHUYÊN TIÊN TỪ HOẠT ĐỘNG KINH DOANH</td></tr><tr><td>01</td><td colspan="2">Lợi nhuận kế toán trước thuế Điều chỉnh cho các khoản:</td><td>1.345.980.468.715</td><td>1.506.712.385.551</td></tr><tr><td>02</td><td colspan="2">Khẩu hao tài sản cố định (&quot;TSCĐ&quot;)</td><td>72.154.867.041</td><td>61.066.130.585</td></tr><tr><td>03</td><td colspan="2">Các khoản dự phòng/(hoản nhập dự phòng)</td><td>6.391.807.846</td><td>(3.414.537.000)</td></tr><tr><td>04</td><td colspan="2">Lỗ/(lãi) chênh lệch tỷ giá hồi đoái do đánh giá lại các khoản mục tiền tệ có gốc ngoại tệ</td><td>177.425.063</td><td>(1.242.529.054)</td></tr><tr><td>05</td><td colspan="2">Lỗ/(lãi) từ hoạt động đầu tư</td><td>1.237.319.162</td><td>(1.456.968.019)</td></tr><tr><td>06</td><td colspan="2">Chi phí lãi vay</td><td>154.416.694.276</td><td>115.367.610.418</td></tr><tr><td>08</td><td colspan="2">Lợi nhuận từ hoạt động kinh doanh trước những thay đổi vốn lưu động</td><td>1.580.358.582.103</td><td>1.677.032.092.481</td></tr><tr><td>09</td><td colspan="2">Giảm các khoản phải thu</td><td>17.322.807.863</td><td>12.888.586.942</td></tr><tr><td>10</td><td colspan="2">Giảm/(tăng) hàng tồn kho</td><td>484.514.384.160</td><td>(2.062.274.428.226)</td></tr><tr><td>11</td><td colspan="2">(Giảm)/tăng các khoản phải trả</td><td>(99.651.505.808)</td><td>199.226.464.534</td></tr><tr><td>12</td><td colspan="2">Tăng chi phí trả trước</td><td>(42.462.273.125)</td><td>(62.082.212.310)</td></tr><tr><td>14</td><td colspan="2">Tiền lãi vay đã trả</td><td>(155.543.069.575)</td><td>(114.016.876.155)</td></tr><tr><td>15</td><td colspan="2">Thuế TNDN đã nộp</td><td>(253.134.374.354)</td><td>(291.572.199.831)</td></tr><tr><td>17</td><td colspan="2">Tiền chi khác từ hoạt động kinh doanh</td><td>(34.492.822.139)</td><td>(20.293.123.341)</td></tr><tr><td>20</td><td colspan="2">Lưu chuyển tiền thuần từ hoạt động kinh doanh</td><td>1.496.911.729.125</td><td>(661.091.695.906)</td></tr><tr><td></td><td colspan="4">LU&#x27;U CHUYÊN TIÊN TỪ HOẠT ĐỘNG ĐẦU TƯ</td></tr><tr><td>21</td><td colspan="2">Tiền chi để mua sám, xây dựng TSCĐ và các tài sản dài hạn khác</td><td>(85.433.646.180)</td><td>(223.765.922.597)</td></tr><tr><td>22</td><td colspan="2">Tiền thu từ thanh lý, nhượng bán TSCĐ</td><td>792.669.960</td><td>1.774.979.478</td></tr><tr><td>27</td><td colspan="2">Tiền thu từ lãi tiền gửi</td><td>251.771.651</td><td>163.983.543</td></tr><tr><td>30</td><td colspan="2">Lưu chuyển tiền thuần từ hoạt động đầu tư</td><td>(84.389.204.569)</td><td>(221.826.959.576)</td></tr><tr><td></td><td colspan="4">LU&#x27;U CHUYÊN TIÊN TỪ HOẠT ĐỘNG TẢI CHÍNH</td></tr><tr><td>31</td><td colspan="2">Tiền thu từ phát hành cổ phiếu</td><td>46.375.540.000</td><td>68.932.500.000</td></tr><tr><td>32</td><td colspan="2">Tiền mua lại cổ phiếu đã phát hành</td><td>(1.283.000.000)</td><td>(2.094.000.000)</td></tr><tr><td>33</td><td colspan="2">Tiền thu từ đi vay</td><td>7.432.783.338.336</td><td>5.435.682.129.077</td></tr><tr><td>34</td><td colspan="2">Tiền chi trả nợ gốc vay</td><td>(8.208.110.896.493)</td><td>(4.387.362.004.881)</td></tr><tr><td>36</td><td colspan="2">Tiền chi trả cổ tức</td><td>(355.099.739.283)</td><td>(343.875.424.770)</td></tr><tr><td>40</td><td colspan="2">Lưu chuyển thuần từ hoạt động tài chính</td><td>(1.085.334.757.440)</td><td>771.283.199.426</td></tr><tr><td>50</td><td colspan="2">Lưu chuyển tiền thuần trong năm</td><td>327.187.767.116</td><td>(111.635.456.056)</td></tr><tr><td>60</td><td>Tiền đầu năm</td><td>3</td><td>95.224.439.008</td><td>206.721.179.629</td></tr><tr><td>61</td><td colspan="2">Ảnh hưởng của thay đổi tỷ giá hồi đoái quy đổi ngoại tệ</td><td>(177.425.063)</td><td>138.715.435</td></tr><tr><td>70</td><td>Tiền cuối năm</td><td>3</td><td>422.234.781.061</td><td>95.224.439.008</td></tr></table>
+
+Nguyễn Thành Đạt
+Người lập
+
+Dương Quang Hải
+Kế toán trường
+
+Lê Trí Thông
+Tổng Giám đốc
+Ngày 15 tháng 3 năm 2021
+
+Các thuyết minh từ trang 9 đến trang 41 là một phần cấu thành báo cáo tài chính hợp nhất này.
+
+8
+
+===== PAGE 11 =====
+CÔNG TY CỔ PHẦN VÀNG BẠC ĐÁ QUÝ PHÚ NHUẬN
+
+Mẫu số B 09 – DN/HN
+
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT
+CHO NĂM TÀI CHÍNH KẾT THỨC NGÀY 31 THÁNG 12 NĂM 2020
+
+1 ĐẶC ĐIỂM HOẠT ĐỘNG CỦA TẬP ĐOÀN
+
+Công ty Cổ phần Vàng bạc Đá quý Phú Nhuận ("Công ty") là một công ty cổ phần được thành lập tại nước CHXHCN Việt Nam theo Giấy chứng nhận đăng ký doanh nghiệp số 0300521758 do Sở Kế hoạch và Đầu tư Thành phố Hồ Chí Minh cấp lần đầu ngày 2 tháng 1 năm 2004 và Giấy chứng nhận đăng ký doanh nghiệp điều chỉnh mới nhất lần thứ 30 ngày 31 tháng 12 năm 2019.
+
+Ngày 23 tháng 3 năm 2009, cổ phiếu của Công ty được niêm yết tại Sở Giao dịch Chứng khoán Thành phố Hồ Chí Minh theo Quyết định số 129/UBCK-ĐKNY do Tổng Giám đốc Sở Giao dịch Chứng khoán Thành phố Hồ Chí Minh ký ngày 26 tháng 12 năm 2008.
+
+Hoạt động chính của Công ty là kinh doanh vàng, bạc, nữ trang và đá quý, xuất nhập khẩu nữ trang bằng vàng, bạc và đá quý.
+
+Chu kỳ sản xuất kinh doanh thông thường của Công ty và các công ty con ("Tập đoàn") là 12 tháng.
+
+Tại ngày 31 tháng 12 năm 2020, Công ty có 4 công ty con, chi tiết như sau:
+
+<table><tr><td rowspan="2"></td><td rowspan="2">Nơi thành lập, đăng ký hoạt động</td><td colspan="2">31.12.2020</td><td colspan="2">31.12.2019</td><td rowspan="2">Hoạt động chính</td></tr><tr><td>Tỷ lệ sở hữu %</td><td>Tỷ lệ biểu quyết nắm giữ %</td><td>Tỷ lệ sở hữu %</td><td>Tỷ lệ biểu quyết nắm giữ %</td></tr><tr><td>Công ty TNHH MTV Thời trang CAO</td><td>Thành phố Hồ Chí Minh</td><td>100</td><td>100</td><td>100</td><td>100</td><td>Kinh doanh trang sức</td></tr><tr><td>Công ty TNHH MTV Giám định PNJ</td><td>Thành phố Hồ Chí Minh</td><td>100</td><td>100</td><td>100</td><td>100</td><td>Tư vấn và giám định vàng, bạc và đá quỹ</td></tr><tr><td>Công ty TNHH MTV Chế tác và Kinh doanh Trang sức PNJ</td><td>Thành phố Hồ Chí Minh</td><td>100</td><td>100</td><td>100</td><td>100</td><td>Chế tác và kinh doanh trang sức</td></tr><tr><td>Công ty TNHH MTV Kỹ nguyên Khách hàng</td><td>Thành phố Hồ Chí Minh</td><td>100</td><td>100</td><td>100</td><td>100</td><td>Bán lẻ hàng hóa</td></tr></table>
+
+Ngoài ra, tại ngày 31 tháng 12 năm 2020, Tập đoàn có 56 chi nhánh (ngày 31 tháng 12 năm 2019: 53 chi nhánh) tại các Tĩnh và Thành phố khác nhau ở Việt Nam.
+
+Tại ngày 31 tháng 12 năm 2020, Tập đoàn có 6.191 nhân viên (tại ngày 31 tháng 12 năm 2019: 6.570 nhân viên).
+
+9
+
+===== PAGE 12 =====
+CÔNG TY CỔ PHẦN VÀNG BẠC ĐÁ QUÝ PHÚ NHUẬN
+
+Mẫu số B 09 – DN/HN
+
+2 CÁC CHÍNH SÁCH KÉ TOÁN CHỦ YẾU
+
+2.1 Cơ sở của việc soạn lập báo cáo tài chính hợp nhất
+
+Báo cáo tài chính hợp nhất đã được lập theo các Chuẩn mực Kế toán Việt Nam, Chế độ Kế toán Doanh nghiệp Việt Nam và các quy định pháp lý có liên quan đến việc lập và trình bày báo cáo tài chính hợp nhất. Báo cáo tài chính hợp nhất được lập theo nguyên tắc giá gốc.
+
+Báo cáo tài chính hợp nhất kèm theo không nhằm mục đích trình bày tỉnh hình tài chính hợp nhất, kết quả kinh doanh hợp nhất và tỉnh hình lưu chuyển tiền tệ hợp nhất theo các nguyên tắc và thông lệ kế toán thường được chấp nhận ở các nước và các thể chế khác ngoài nước Việt Nam. Các nguyên tắc và thông lệ kế toán sử dụng tại nước Việt Nam có thể khác với các nguyên tắc và thông lệ kế toán tại các nước và các thể chế khác.
+
+2.2 Năm tài chính
+
+Năm tài chính của Tập đoàn bắt đầu từ ngày 1 tháng 1 đến ngày 31 tháng 12.
+
+2.3 Đơn vị tiền tệ sử dụng trong kế toán
+
+Tập đoàn sử dụng đơn vị tiền tệ trong kế toán và trình bày trên báo cáo tài chính hợp nhất là Đồng Việt Nam ("VND" hoặc "Đồng"). Đơn vị tiền tệ sử dụng trong kế toán của Tập đoàn được xác định đưa vào đơn vị tiền tệ chủ yếu sử dụng trong các giao dịch bán hàng, cung cấp dịch vụ, có ảnh hưởng lớn đến giá bán hàng hóa, cung cấp dịch vụ; đơn vị tiền tệ dùng để niêm yết giá bán và nhận thanh toán; đơn vị tiền tệ sử dụng chủ yếu trong việc mua hàng hóa, dịch vụ; có ảnh hưởng lớn đến chi phí nhân công, nguyên vật liệu và các chi phí sản xuất kinh doanh khác, và thông thường dùng để thanh toán cho các chi phí đó.
+
+Ngoài ra, Tập đoàn còn sử dụng đơn vị tiền tệ trong kế toán để huy động các nguồn lực tài chính (như phát hành cổ phiếu, trái phiếu) và/hoặc thường xuyên thu được đơn vị tiền tệ này từ các hoạt động kinh doanh và tích trữ lại.
+
+2.4 Các loại tỷ giá hối đoái áp dụng trong kế toán
+
+Các nghiệp vụ phát sinh bằng ngoại tệ được quy đổi theo tỷ giá giao dịch thực tế áp dụng tại ngày phát sinh nghiệp vụ. Chênh lệch tỷ giá phát sinh từ các nghiệp vụ này được ghi nhận là thu nhập hoặc chi phí trong báo cáo kết quả hoạt động kinh doanh hợp nhất.
+
+Tài sản và nợ phải trả bằng tiền tệ có gốc ngoại tệ tại ngày của bảng cân đối kế toán hợp nhất lần lượt được quy đổi theo tỷ giá mua và tỷ giá bán ngoại tệ của ngân hàng thương mại nơi Tập đoàn thường xuyên có giao dịch áp dụng tại ngày bảng cân đối kế toán hợp nhất. Các khoản ngoại tệ gửi ngân hàng tại ngày của bảng cân đối kế toán hợp nhất được quy đổi theo tỷ giá mua của chính ngân hàng thương mại nơi Công ty mở tài khoản ngoại tệ. Chênh lệch tỷ giá phát sinh từ việc quy đổi này được ghi nhận là thu nhập hoặc chỉ phí trong báo cáo kết quả hoạt động kinh doanh hợp nhất.
+
+10
+
+===== PAGE 13 =====
+CÔNG TY CỔ PHẦN VÀNG BẠC ĐÁ QUÝ PHÚ NHUẬN
+
+Mẫu số B 09 – DN/HN
+
+2 CÁC CHÍNH SÁCH KÊ TOÁN CHỦ YẾU (tiếp theo)
+
+2.5 Cơ sở hợp nhất báo cáo tài chính
+
+Công ty con
+
+Công ty con là những doanh nghiệp mả Tập đoàn có quyền chi phối các chính sách tài chính và hoạt động của doanh nghiệp nhằm thu được lợi ích kinh tế từ các hoạt động của doanh nghiệp đó, thường đi kèm là việc nằm giữ hơn một nửa quyền biểu quyết. Sự tồn tại và tính hữu hiệu của quyền biểu quyết tiềm tàng đang được thực thi hoặc được chuyển đổi sẽ được xem xét khi đánh giá liệu Tập đoàn có quyền kiểm soát doanh nghiệp hay không. Công ty con được hợp nhất toàn bộ kể từ ngày quyền kiểm soát đã chuyển giao cho Tập đoàn. Việc hợp nhất chấm dứt kể từ lúc quyền kiểm soát không còn.
+
+Giao dịch, công nợ và các khoản lãi, các khoản lỗ chưa thực hiện phát sinh giữa các công ty trong cùng Tập đoàn được loại trừ khi hợp nhất.
+
+Chính sách kế toán của công ty con cũng thay đổi nếu cần thiết để đảm bảo sự nhất quán với chính sách kế toán đang được Tập đoàn áp dụng.
+
+Báo cáo tài chính của các công ty con trong Tập đoàn sử dụng để hợp nhất phải được lập cho cùng một năm tài chính. Nếu ngày kết thúc năm tài chính khác nhau, thời gian chênh lệch không vượt quá 3 tháng. Báo cáo tài chính sử dụng để hợp nhất phải được điều chỉnh cho ảnh hưởng của những giao dịch và sự kiện quan trọng xảy ra giữa ngày kết thúc năm tài chính của các công ty và ngày kết thúc năm tài chính của Tập đoàn. Độ dài của kỳ báo cáo và sự khác nhau về thời điểm lập báo cáo tài chính phải được thống nhất qua các kỳ.
+
+2.6 Tiền
+
+Tiền bao gồm tiền mặt tại quỹ, tiền gửi ngân hàng và tiền đang chuyển.
+
+2.7 Các khoản phải thu
+
+Các khoản phải thu thể hiện giá trị ghi sổ của các khoản phải thu khách hàng gồm các khoản phải thu mang tính chất thương mại phát sinh từ giao dịch bán hàng hóa, cung cấp dịch vụ; và các khoản phải thu khác không có tính thương mại, không liên quan đến giao dịch bán hàng hóa và cung cấp dịch vụ. Dự phòng các khoản phải thu khó đòi được lập cho từng khoản phải thu căn cứ vào thời gian quá hạn trả nợ gốc theo cam kết nợ ban đầu (không tính đến việc gia hạn nợ giữa các bên), hoặc căn cứ vào mức tổn thất dự kiến có thể xảy ra. Các khoản nợ phải thu được xác định là không thể thu hồi sẽ được xóa sổ.
+
+Các khoản nợ phải thu được phân loại ngắn hạn và dài hạn trên bằng cân đối kế toán hợp nhất căn cứ theo kỳ hạn còn lại của các khoản phải thu tại ngày của bằng cân đối kế toán hợp nhất đến ngày tới hạn thu hồi.
+
+11
+
+===== PAGE 14 =====
+CÔNG TY CÓ PHẦN VÀNG BẠC ĐÁ QUÝ PHÚ NHUẬN
+
+Mẫu số B 09 – DN/HN
+
+2 CÁC CHÍNH SÁCH KÊ TOÁN CHỦ YẾU (tiếp theo)
+
+2.8 Hàng tồn kho
+
+Hàng tồn kho được thể hiện theo giá thấp hơn giữa giá gốc và giá trị thuần có thể thực hiện được. Giá gốc được xác định trên cơ sở bình quân gia quyền và bao gồm tất cả các chi phí mua, chi phí chế biến và các chi phí khác có được hàng tồn kho ở địa điểm và trạng thái hiện tại. Trong trường hợp các sản phẩm được sản xuất, giá gốc bao gồm tất cả các chi phí trực tiếp và chi phí sản xuất chung dựa trên mức độ hoạt động bình thường. Giá trị thuần có thể thực hiện được là giả bán ước tính của hàng tồn kho trong năm kinh doanh bình thường trừ chi phí ước tính để hoàn thành sản phẩm và chi phí ước tính cần thiết cho việc tiêu thụ.
+
+Tập đoàn áp dụng phương pháp kê khai thường xuyên để hạch toán hàng tồn kho.
+
+Dự phòng được lập cho hàng tồn kho bị lỗi thời, chậm lưu chuyển và bị hồng. Chênh lệch giữa khoản dự phòng phải lập ở cuối kỳ kế toán này và khoản dự phòng đã lập ở cuối kỳ kế toán trước được ghi nhận tăng hoặc giảm giá vốn hàng bán trong năm.
+
+2.9 Đầu tư góp vốn vào đơn vị khác
+
+Đầu tư góp vốn vào đơn vị khác là các khoản đầu tư vào công cụ vốn của đơn vị khác nhưng không có quyền kiểm soát hoặc đồng kiểm soát, không có ảnh hưởng đáng kể đối với bên được đầu tư. Các khoản đầu tư này được ghi nhận ban đầu theo giá gốc. Sau đó, Ban Điều hành thực hiện việc rà soát đối với tất cả các khoản đầu tư để ghi nhận dự phòng vào cuối kỳ kế toán.
+
+Dự phòng giảm giá đầu tư góp vốn vào đơn vị khác được lập vào cuối kỳ kế toán khi có sự giảm giá trị của các khoản đầu tư. Đối với khoản đầu tư vào cổ phiếu niêm yết hoặc giá trị hợp lý khoản đầu tư được xác định tin cậy mà Tập đoàn nấm giữ lâu dài, dự phòng được lập khi giá gốc cao hơn giá trị thị trường. Đối với các khoản đầu tư khác, dự phòng giảm giá đầu tư được lập khi công ty nhận đầu tư bị lỗ, ngoại trừ khoản lỗ mà Ban Điều hành đã dự đoán từ khi đầu tư. Chênh lệch giữa khoản dự phòng lập ở cuối kỳ kế toán này và khoản dự phòng đã lập ở cuối kỳ kế toán trước được ghi nhận tăng hoặc giảm chỉ phí tài chính trong năm. Khoản dự phòng được hoàn nhập không vượt quá giá trị ghi số ban đầu.
+
+2.10 Tài sản cố định ("TSCĐ")
+
+TSCĐ hữu hình và TSCĐ vô hình
+
+TSCĐ được phần ánh theo nguyên giá trừ khấu hao lũy kế. Nguyên giá bao gồm các chi phí liên quan trực tiếp đến việc có được TSCĐ ở trang thái sản sàng sử dụng. Các chi phí phát sinh sau ghi nhận ban đầu chỉ được ghi tăng nguyên giá TSCĐ nếu các chi phí này chắc chắn làm tăng lợi ích kinh tế trong tương lai do sử dụng tài sản đó. Các chi phí phát sinh không thỏa mãn điều kiện trên được ghi nhận là chi phí sản xuất kinh doanh trong năm.
+
+12
+
+===== PAGE 15 =====
+CÔNG TY CỔ PHẦN VÀNG BẠC ĐÁ QUÝ PHÚ NHUẬN
+
+Mẫu số B 09 – DN/HN
+
+2 CÁC CHÍNH SÁCH KẾ TOÁN CHỦ YẾU (tiếp theo)
+
+2.10 TSCĐ (tiếp theo)
+
+Khâu hao
+
+TSCĐ được khấu hao theo phương pháp đường thẳng để trừ dần nguyên giá tài sản qua suốt thời gian hữu dụng ước tính. Thời gian hữu dụng ước tính của các nhóm tài sản như sau:
+
+<table><tr><td>Nhà cửa, vật kiến trúc</td><td>5 - 25 năm</td></tr><tr><td>Máy móc, thiết bị</td><td>3 - 15 năm</td></tr><tr><td>Phương tiện vận tải</td><td>5 - 10 năm</td></tr><tr><td>Thiết bị quản lý</td><td>3 - 10 năm</td></tr><tr><td>Phần mềm</td><td>3 - 5 năm</td></tr></table>
+
+Quyền sử dụng đất không thời hạn được ghi nhận theo giá gốc và không khấu hao.
+
+Thanh lý
+
+Lãi hoặc lỗ phát sinh do thanh lý, nhượng bán TSCĐ được xác định bằng số chênh lệch giữa số tiền thu thuần do thanh lý với giá trị còn lại của tài sản và được ghi nhận là thu nhập hoặc chỉ phí trong báo cáo kết quả hoạt động kinh doanh hợp nhất.
+
+Chi phí xây dựng cơ bản dở dang
+
+Chi phí xây dựng cơ bản dở dang thể hiện giá trị của các tài sản trong quá trình xây dựng phục vụ mục đích sản xuất, cho thuê hoặc quản trị, hoặc cho bất kì mục đích nào khác, được ghi nhận theo giá gốc bao gồm toàn bộ chỉ phí cần thiết để xây dựng mới hoặc sửa chữa, cải tạo, mở rộng hay trang bị lại kỹ thuật công trình như chỉ phí xây dựng; chỉ phí thiết bị; chỉ phí quản lý dự án; chỉ phí tư vấn đầu tư xây dựng; và chỉ phí vay được vốn hóa đối với tài sản dữ điều kiện phù hợp với chính sách kế toán của Tập đoàn. Khấu hao của những tài sản này, cũng giống như các loại TSCĐ khác, sẽ bất đầu được trích khi tài sản đã sẵn sàng cho mục đích sử dụng.
+
+2.11 Thuê tài sản hoạt động
+
+Thuê hoạt động là loại hình thuê TSCĐ mà phần lớn rủi ro và lợi ích gắn liền với quyền sở hữu của tài sản thuộc về bên cho thuê. Khoản thanh toán dưới hình thức thuê hoạt động được hạch toán vào báo cáo kết quả hoạt động kinh doanh hợp nhất theo phương pháp đường thẳng dựa trên thời hạn thuê hoạt động.
+
+2.12 Chi phí trả trước
+
+Chi phí trả trước bao gồm các chi phí trả trước ngắn hạn và chi phí trả trước dài hạn trên bằng cân đối kế toán hợp nhất. Các khoản chi phí trả trước này được ghi nhận theo giá gốc và được phân bổ theo phương pháp đường thẳng dựa trên thời gian hữu dụng ước tính.
+
+13
+
+===== PAGE 16 =====
+CÔNG TY CỔ PHẦN VÀNG BẠC ĐÁ QUÝ PHÚ NHUẬN
+
+Mẫu số B 09 - DN/HN
+
+2 CÁC CHÍNH SÁCH KẾ TOÁN CHỦ YÊU (tiếp theo)
+
+2.13 Nợ phải trả
+
+Các khoản nợ phải trả được phân loại dựa vào tính chất bao gồm:
+
+- Phải trả người bán gồm các khoản phải trả mang tính chất thương mại phát sinh từ giao dịch mua hàng hóa và dịch vụ; và
+
+- Phải trả khác gồm các khoản phải trả không có tính thương mại, không liên quan đến giao dịch mua hàng hóa và dịch vụ.
+
+Các khoản nợ phải trả được phân loại ngắn hạn và dài hạn trên bằng cân đối kế toán hợp nhất căn cứ theo kỳ hạn còn lại của các khoản phải trả tại ngày của bằng cân đối kế toán hợp nhất đến ngày tới hạn thanh toán.
+
+2.14 Vay
+
+Vay bao gồm các khoản tiền vay từ các ngân hàng và cá nhân.
+
+Các khoản vay được phân loại ngắn hạn và dài hạn trên bằng cân đối kế toán hợp nhất căn cứ theo kỳ hạn còn lại của các khoản vay tại ngày của bằng cân đối kế toán hợp nhất đến ngày tới hạn thanh toán.
+
+Chi phí đi vay liên quan trực tiếp đối với hoạt động xây dựng hoặc sản xuất bất kỳ tài sản đủ tiêu chuẩn sẽ được vốn hóa trong thời gian mà các tài sản này được hoàn thành và chuẩn bị đưa vào sử dụng. Đối với các khoản vay chung trong đó có sử dụng vốn cho mục đích đầu tư xây dựng hoặc sản xuất bất kỳ tài sản đủ tiêu chuẩn thì Tập đoàn xác định chi phí đi vay được vốn hóa theo tỷ lệ vốn hóa đối với chi phí lũy kế bình quân gia quyền phát sinh cho việc đầu tư xây dựng cơ bản hoặc sản xuất tài sản đủ tiêu chuẩn đó. Tỷ lệ vốn hóa được tính theo tỷ lệ lãi suất bình quân gia quyền của các khoản vay chưa trả trong năm, trừ các khoản vay riêng biệt phục vụ cho mục đích hình thành một tài sản cụ thể. Chi phí đi vay khác được ghi nhận trong báo cáo kết quả hoạt động kinh doanh hợp nhất khi phát sinh.
+
+2.15 Chi phí phải trả
+
+Bao gồm các khoản phải trả cho hàng hóa, dịch vụ đã nhân được từ người bán trong năm báo cáo nhưng thực tế chưa chỉ trả do chưa có hóa đơn hoặc chưa đủ hồ sơ, tài liệu kế toán, được ghi nhận vào chi phí sản xuất kinh doanh của kỳ báo cáo.
+
+14
+
+===== PAGE 17 =====
+CÔNG TY CÔ PHẦN VÀNG BẠC ĐÁ QUÝ PHÚ NHUẠN
+
+Mẫu số B 09 – DN/HN
+
+2 CÁC CHÍNH SÁCH KÊ TOÁN CHỦ YỀU (tiếp theo)
+
+2.16 Các khoản dự phòng
+
+Các khoản dự phòng được ghi nhận khi Tập đoàn có nghĩa vụ nợ hiện tại, pháp lý hoặc liên đối, phát sinh từ các sự kiện đã xảy ra; sự giảm sút những lợi ích kinh tế có thể xảy ra dẫn đến việc yêu cầu phải thanh toán nghĩa vụ nợ; và giá trị của nghĩa vụ nợ đó được ước tính một cách đáng tin cây. Dự phòng không được ghi nhận cho các khoản lỗ hoạt động trong tương lai.
+
+Dự phòng được tính trên cơ sở các khoản chi phí dự tính phải thanh toán nghĩa vụ nợ. Nếu ảnh hưởng về giá trị thời gian của tiền là trong yếu thì dự phòng được tính trên cơ sở giá trị hiện tại với tỷ lệ chiết khấu trước thuế và phần ảnh những đánh giá trên thi trường hiện tại về giá trị thời gian của tiền và rủi ro cụ thể của khoản nợ đó. Giá trị tăng lên do ảnh hưởng của yếu tố thời gian được ghi nhận là chi phí tài chính. Chênh lệch giữa khoản dự phòng lập ở cuối kỳ kế toán này và khoản dự phòng đã lập chưa sử dụng ở cuối kỳ kế toán trước được ghi nhận tăng hoặc giảm chi phí sản xuất kinh doanh trong năm.
+
+2.17 Dụ phòng trợ cấp thời việc
+
+Theo Luật Lao động Việt Nam, người lao động của Tập đoàn đã làm việc thường xuyên đủ 12 tháng trở lên được hưởng khoản trợ cấp thời việc. Thời gian làm việc để tính trợ cấp thời việc là tổng thời gian người lao động đã làm việc thực tế cho Công ty trừ đi thời gian người lao động đã tham gia bảo hiểm thất nghiệp theo quy định của pháp luật và thời gian làm việc đã được Tập đoàn chỉ trả trợ cấp thời việc.
+
+Trợ cấp thời việc của người lao động được trích trước cuối mỗi kỷ báo cáo theo tỷ lệ bằng một nửa mức lương bình quân tháng cho mỗi nằm làm việc. Mức lương bình quân tháng để tính trợ cấp thời việc dựa trên mức lương bình quân theo hợp đồng lao động của sâu tháng gần nhất tính đến trước ngày lập bảng cân đối kế toán hợp nhất này.
+
+Khoản trích trước này được sử dụng để trả một lần khi người lao động chấm dứt hợp đồng lao động theo quy định hiện hành.
+
+2.18 Vốn chủ sở hữu
+
+Vốn góp của chủ sở hữu được ghi nhận theo số thực tế đã góp của các cổ đông và được phần ánh theo mệnh giá của cổ phiếu.
+
+Thăng dư vốn cổ phần là khoản chênh lệch giữa vốn góp theo mệnh giá cổ phiếu với giá thực tế phát hành cổ phiếu; chênh lệch giữa giá mua lại cổ phiếu quỹ và giá tái phát hành cổ phiếu quỹ.
+
+Cổ phiếu quỹ là cổ phiếu do Công ty phát hành và được mua lại bởi chính Công ty, nhưng chưa bị hủy bỏ và sẽ được tái phát hành trở lại trong khoảng thời gian theo quy định của pháp luật về chứng khoán.
+
+LNST chưa phân phối của Tập đoàn phần ánh kết quả kinh doanh lãi lũy kế sau thuế TNDN của Tập đoàn tại thời điểm báo cáo.
+
+15
+
+===== PAGE 18 =====
+CÔNG TY CÓ PHẦN VÀNG BẠC ĐÁ QUÝ PHÚ NHUẬN
+
+Mẫu số B 09 – DN/HN
+
+2 CÁC CHÍNH SÁCH KẾ TOÁN CHỦ YẾU (tiếp theo)
+
+2.19 Phân chia lợi nhuận
+
+Cổ tức của Tập đoàn được ghi nhận là một khoản phải trả trong các báo cáo tài chính hợp nhất của năm tài chính mà cổ tức được thông qua tại Đại hội đồng Cổ đông.
+
+LNST TNDN có thể được chia cho các cổ đông sau khi được Đại hội đồng Cổ đông phê chuẩn và sau khi đã trích lập các quỹ dự phòng theo điều lệ của Tập đoàn và các quy định của pháp luật Việt Nam.
+
+Tập đoàn trích lập các quỹ dự phòng sau:
+
+(a) Quỹ đầu tư phát triển
+
+Quỹ đầu tư phát triển được trích lập từ LNST của Tập đoàn và được các cổ đông phê chuẩn tại Đại hội Đồng Cổ đông. Quỹ này được trích lập nhằm phục vụ cho việc mở rộng hoạt động hoặc đầu tư chiều sâu của Tập đoàn.
+
+(b) Quỹ khen thưởng, phúc lợi
+
+Quỹ khen thưởng, phúc lợi được trích lập từ LNST của Tập đoàn và được các cổ đông phê chuẩn tại Đại hội Đồng Cổ đông. Quỹ này được trình bày là một khoản phải trả trên bằng cân đối kế toán hợp nhất. Quỹ này được trích lập nhằm khen thưởng và khuyến khích vật chất, đem lại lợi ích chung và nâng cao phúc lợi cho cán bộ, công nhân viên.
+
+2.20 Ghi nhận doanh thu
+
+(a) Doanh thu bán hàng
+
+Doanh thu bán hàng được ghi nhận trong báo cáo kết quả hoạt động kinh doanh hợp nhất khi đồng thời thỏa mãn tất cả năm (5) điều kiện sau:
+
+- Tập đoàn đã chuyển giao phần lớn rủi ro và lợi ích gắn liền với quyền sở hữu sản phẩm hoặc hàng hóa cho người mua;
+
+- Tập đoàn không còn nằm giữ quyền quản lý sản phẩm hoặc hàng hóa như người sở hữu sản phẩm hoặc hàng hóa hoặc quyền kiểm soát sản phẩm hoặc hàng hóa;
+
+- Doanh thu được xác định tương đối chắc chấn;
+
+- Tập đoàn sẽ thu được lợi ích kinh tế từ giao dịch bán hàng; và
+
+- Xác định được chi phí liên quan đến giao dịch bán hàng.
+
+Doanh thu không được ghi nhận khi có yếu tố không chắc chắn mang tính trọng yếu về khả năng thu được tiền bán hàng hoặc khả năng hàng bán bị trả lại.
+
+Doanh thu được ghi nhận phù hợp với "bản chất hơn hình thức" và được phân bổ theo nghĩa vụ cung ứng sản phẩm hoặc hàng hóa. Trường hợp Tập đoàn dùng sản phẩm, hàng hóa để khuyến mãi cho khách hàng kèm theo điều kiện mua hàng của Tập đoàn thì Tập đoàn phân bổ số tiền thu được để tính doanh thu cho cả hàng khuyến mãi và giá trị hàng khuyến mãi được tính vào giá vốn hàng bán.
+
+16
+
+===== PAGE 19 =====
+CÔNG TY CỔ PHẦN VÀNG BẠC ĐÁ QUÝ PHÚ NHUẬN
+
+Mẫu số B 09 – DN/HN
+
+2 CÁC CHÍNH SÁCH KẾ TOÁN CHỦ YÉU (tiếp theo)
+
+2.20 Ghi nhận doanh thu (tiếp theo)
+
+(b) Doanh thu cung cấp dịch vụ
+
+Doanh thu cung cấp dịch vụ được ghi nhận trong báo cáo kết quả hoạt động kinh doanh hợp nhất khi dịch vụ đã được cung cấp, bằng cách tính mức độ hoàn thành của từng giao dịch, dựa trên cơ sở đánh giá tỉ lệ dịch vụ đã cung cấp so với tổng khối lượng dịch vụ phải cung cấp. Doanh thu cung cấp dịch vụ chỉ được ghi nhận khi đồng thời thỏa mãn bốn (4) điều kiện sau:
+
+- Doanh thu được xác định tương đối chắc chắn;
+
+• Có khả năng thu được lợi ích kinh tế từ giao dịch cung cấp dịch vụ đó;
+
+- Xác định được phần công việc đã hoàn thành tại ngày của bằng cân đối kế toán hợp nhất; và
+
+- Xác định được chi phí phát sinh cho giao dịch và chi phí để hoàn thành giao dịch cung cấp dịch vụ đó.
+
+(c) Thu nhập lãi
+
+Thu nhập lãi được ghi nhận khi được hưởng.
+
+(d) Thu nhập từ cổ tức
+
+Thu nhập từ cổ tức được ghi nhận khi Tập đoàn xác lập quyền nhận cổ tức từ các đơn vị đầu tư.
+
+2.21 Các khoản giảm trừ doanh thu
+
+Các khoản giảm trừ doanh thu bao gồm giảm giá hàng bán và hàng bán bị trả lại. Các khoản giảm trừ doanh thu phát sinh cùng kỳ tiêu thụ sản phẩm, hàng hóa, dịch vụ được ghi nhận điều chỉnh giảm doanh thu kỳ phát sinh.
+
+Các khoản giảm trừ doanh thu đối với sản phẩm, hàng hóa, dịch vụ tiêu thụ trong năm, phát sinh sau ngày của bằng cân đối kế toán hợp nhất nhưng trước thời điểm phát hành báo cáo tài chính hợp nhất được ghi nhận điều chỉnh giảm doanh thu của năm lập báo cáo.
+
+2.22 Giá vốn hàng bán và dịch vụ cung cấp
+
+Giá vốn hàng bán và dịch vụ cung cấp là tổng chi phí phát sinh của thành phẩm, hàng hóa, vật tư xuất bán và dịch vụ cung cấp cho khách hàng trong năm, được ghi nhận theo nguyên tắc phù hợp với doanh thu và nguyên tắc thận trọng.
+
+2.23 Chi phí tài chính
+
+Chi phí tài chính phần ánh những khoản chi phí hoạt động tài chính phát sinh trong năm chủ yếu bao gồm các khoản chi phí hoặc các khoản lỗ liên quan đến các hoạt động đầu tư tài chính, chi phí đi vay vốn và lỗ tỷ giá hối đoái.
+
+17
+
+===== PAGE 20 =====
+CÔNG TY CÔ PHẦN VÀNG BẠC ĐÁ QUÝ PHÚ NHUẬN
+
+Mẫu số B 09 – DN/HN
+
+2 CÁC CHÍNH SÁCH KÊ TOÁN CHỦ YẾU (tiếp theo)
+
+2.24 Chi phí bán hàng
+
+Chi phí bán hàng chủ yếu phần ánh các chi phí thực tế phát sinh trong quá trình bán sản phẩm, hàng hóa, cung cấp dịch vụ, chủ yếu bao gồm các chi phí chào hàng, giới thiệu sản phẩm, quảng cáo sản phẩm, phí bảo hành, duy trì, đóng gói và vận chuyển.
+
+2.25 Chi phí quản lý doanh nghiệp
+
+Chi phí quản lý doanh nghiệp phần ánh các chi phí quản lý chung của Tập đoàn chủ yếu bao gồm các chi phí về lương nhân viên bộ phân quản lý; bảo hiểm xã hội, bảo hiểm y tế, kinh phí công đoàn, chi phí vật liệu văn phòng, công cụ lao động, khấu hao TSCĐ dùng cho quản lý doanh nghiệp; thuê đất, dịch vụ mua ngoài; và chi phí khác.
+
+2.26 Thuế TNDN hiện hành và thuế TNDN hoãn lại
+
+Thuế TNDN bao gồm toàn bộ số thuế TNDN tính trên thu nhập chịu thuế TNDN, kể cả các khoản thu nhập nhận được từ hoạt động sản xuất, kinh doanh hàng hóa dịch vụ tại nước ngoài mà Việt Nam chưa ký hiệp định về tránh đánh thuế hai lần. Chỉ phí thuế TNDN bao gồm chỉ phí thuế TNDN hiện hành và chỉ phí thuế TNDN hoãn lại.
+
+Thuế TNDN hiện hành là số thuế TNDN phải nộp hoặc thu hồi được tính trên thu nhập chịu thuế và thuế suất thuế TNDN của năm hiện hành. Thuế TNDN hiện hành và thuế TNDN hoãn lại được ghi nhận là thu nhập hay chí phí khi xác định lợi nhuận hoặc lỗ của kỳ phát sinh, ngoại trừ trường hợp thuế thu nhập phát sinh từ một giao dịch hoặc sự kiện được ghi nhận trực tiếp vào vốn chủ sở hữu trong cùng kỳ hay một kỳ khác.
+
+Thuế TNDN hoãn lại được tính đầy đủ, sử dụng phương thức công nợ, tính trên các khoản chênh lệch tạm thời giữa giá trị ghi số của các khoản mục tài sản và nợ phải trả trên báo cáo tài chính và cơ sở tính thuế TNDN của các khoản mục này. Thuế TNDN hoãn lại không được ghi nhận khi nợ thuế thu nhập hoãn lại phải trả phát sinh từ ghi nhận ban đầu của một tài sản hay nợ phải trả của một giao dịch mà giao dịch này không phải là giao dịch sáp nhập doanh nghiệp, không có ảnh hưởng đến lợi nhuận kế toán hoặc lợi nhuận/lỗ tính thuế thu nhập tại thời điểm phát sinh giao dịch. Thuế TNDN hoãn lại được tính theo thuế suất dự tính được áp dụng trong niên độ mà tài sản được thu hồi hoặc khoản nợ phải trả được thanh toán dựa trên thuế suất đã ban hành hoặc xem như có hiệu lực tại ngày của bằng cân đối kế toán hợp nhất.
+
+Tài sản thuế TNDN hoãn lại được ghi nhận khi có khả năng sẽ có lợi nhuận tính thuế trong tương lai để sử dụng những chênh lệch tạm thời được khấu trừ.
+
+18
+
+===== PAGE 21 =====
+CÔNG TY CỔ PHẦN VÀNG BẠC ĐÁ QUÝ PHÚ NHUẬN
+
+Mẫu số B 09 – DN/HN
+
+2 CÁC CHÍNH SÁCH KẾ TOÁN CHỦ YÉU (tiếp theo)
+
+2.27 Các bên liên quan
+
+Các doanh nghiệp, các cá nhân, trực tiếp hay gián tiếp qua một hoặc nhiều trung gian, có quyền kiểm soát Tập đoàn hoặc chịu sự kiểm soát của Tập đoàn, hoặc cũng chung sự kiểm soát với Tập đoàn, bao gồm cả công ty mẹ, công ty con và công ty liên kết là các bên liên quan. Các bên liên kết, các cá nhân trực tiếp hoặc giản tiếp nấm quyền biểu quyết của Tập đoàn mà có ảnh hưởng đáng kể đối với Tập đoàn, những cá nhân quản lý chủ chốt bao gồm Ban Điều hành, những thành viên mật thiết trong gia đình của các cá nhân này hoặc các bên liên kết này hoặc những công ty liên kết với các cá nhân này cũng được coi là bên liên quan.
+
+Trong việc xem xét từng mối quan hệ của các bên liên quan, Tập đoàn căn cứ vào bản chất của mối quan hệ chữ không chỉ hình thức pháp lý của các quan hệ đó.
+
+2.28 Uốc tính kế toán
+
+Việc lập báo cáo tài chính hợp nhất tuân thủ theo các Chuẩn mực Kế toán Việt Nam, Chế độ Kế toán Doanh nghiệp Việt Nam và các quy định pháp lý có liên quan đến lập và trình bày báo cáo tài chính hợp nhất yêu cầu Ban Điều hành phải có những ước tính và giả định ảnh hưởng đến số liệu về công nợ, tài sản và việc trình bày các khoản công nợ và tài sản tiêm tàng tại ngày kết thúc niên độ kế toán cũng như các số liệu về doanh thu và chi phí trong suốt năm tài chính. Mặc dù các ước tính kế toán được lập bằng tất cả sự hiểu biết của Ban Điều hành, số thực tế phát sinh có thể khác với các ước tính.
+
+Các ước tính và giả định có ảnh hưởng trọng yếu trong báo cáo tài chính hợp nhất bao gồm:
+
+• Thời gian hữu dụng ước tính của TSCĐ (Thuyết minh 9);
+
+• Khoản dự phòng đầu tư tài chính dài hạn (Thuyết minh 11);
+
+• Ghi nhận tài sản thuế thu nhập hoãn lại (Thuyết minh 21); và
+
+• Dự phòng phải trả dài hạn (Thuyết minh 20).
+
+Các ước tính và giả định thường xuyên được đánh giá dựa trên kinh nghiệm trong quá khứ và các yếu tố khác, bao gồm các giả định trong tương lai có ảnh hưởng trọng yếu tới báo cáo tài chính hợp nhất của Tập đoàn và được Ban Điều hành đánh giá là hợp lý.
+
+2.29 Báo cáo bộ phận
+
+Một bộ phận là một hợp phần có thể xác định riêng biệt của Tập đoàn tham gia vào việc bán hàng hóa hoặc cung cấp dịch vụ liên quan (bộ phận chia theo hoạt động kinh doanh), hoặc bán hàng hóa hoặc cung cấp dịch vụ trong một môi trường kinh tế cụ thể (bộ phận chia theo khu vực địa lý). Mỗi bộ phận này chịu rủi ro và thu được lợi ích khác biệt với các bộ phận khác. Mẫu báo cáo bộ phận cơ bản của Tập đoàn là dựa theo bộ phận chia theo hoạt động kinh doanh/khu vực địa lý.
+
+Thông tin bộ phận được lập và trình bày phù hợp với chính sách kế toán áp dụng cho việc lập và trình bày báo cáo tài chính hợp nhất của Tập đoàn nhằm mục đích để giúp người sử dụng báo cáo tài chính hiểu rõ và đánh giá được tinh hình hoạt động của Tập đoàn một cách toàn diện.
+
+19
+
+===== PAGE 22 =====
+CÔNG TY CỔ PHẦN VÀNG BẠC ĐÁ QUÝ PHÚ NHUẬN
+
+Mẫu số B 09 - DN/HN
+
+3 TIÊN
+
+<table><tr><td></td><td>2020VND</td><td>2019VND</td></tr><tr><td>Tiền mặt</td><td>113.043.139.318</td><td>54.073.143.734</td></tr><tr><td>Tiền gửi ngân hàng</td><td>286.111.163.400</td><td>26.186.708.725</td></tr><tr><td>Tiền đang chuyển</td><td>23.080.478.343</td><td>14.964.586.549</td></tr><tr><td></td><td>422.234.781.061</td><td>95.224.439.008</td></tr></table>
+
+4 PHÀI THU NGÂN HẠN CỦA KHÁCH HÀNG
+
+<table><tr><td></td><td>2020VND</td><td>2019VND</td></tr><tr><td>FH Trautz Gmbh</td><td>6.165.618.167</td><td>6.700.060.929</td></tr><tr><td>DC&amp;D Co.</td><td>6.758.326.847</td><td>2.524.617.369</td></tr><tr><td>Công ty TNHH Aeon Việt Nam- Chi nhánh Bình Dương</td><td>5.965.409.829</td><td>3.770.153.502</td></tr><tr><td>Công ty TNHH Aeon Việt Nam</td><td>4.699.946.682</td><td>3.134.551.256</td></tr><tr><td>Công ty TNHH Aeon Việt Nam- Chi nhánh Bình Tân</td><td>4.658.692.785</td><td>3.035.969.672</td></tr><tr><td>Khác</td><td>39.343.691.309</td><td>29.127.523.988</td></tr><tr><td></td><td>67.591.685.619</td><td>48.292.876.716</td></tr></table>
+
+Tại ngày 31 tháng 12 năm 2020, số dư khoản phải thu ngắn hạn của khách hàng đã quá hạn thanh toán, khó có khả năng thu hồi và đã lập dự phòng phải thu ngắn hạn khó đòi là 1.202.878.846 Đồng.
+
+5 TRÀ TRƯỚC CHO NGƯỜI BÁN NGÂN HẠN
+
+<table><tr><td></td><td>2020VND</td><td>2019VND</td></tr><tr><td>Công ty TNHH Thương mại Dịch vụ Hồng Chí Việt Nam</td><td>669.139.800</td><td>7.656.607.870</td></tr><tr><td>Công ty Cổ phần IBC</td><td>-</td><td>7.077.840.000</td></tr><tr><td>Công ty Cổ phần Xây dựng và Trang trí Nội thất Cao tốc</td><td>-</td><td>7.115.103.418</td></tr><tr><td>Công ty TNHH MTV Sản xuất Thương mại Dịch vụ Khải Phát</td><td>-</td><td>6.268.883.940</td></tr><tr><td>Công ty Cổ phần Xây dựng Địa ốc Gia Khang</td><td>3.035.860.000</td><td>5.340.173.000</td></tr><tr><td>Công ty Cổ phần Mirum</td><td>667.445.000</td><td>-</td></tr><tr><td>Công ty Cổ phần Retail Design Việt Nam</td><td>366.371.940</td><td>-</td></tr><tr><td>Khác</td><td>15.311.610.064</td><td>41.408.847.115</td></tr><tr><td></td><td>20.050.426.804</td><td>74.867.455.343</td></tr></table>
+
+20
+
+===== PAGE 23 =====
+CÔNG TY CỔ PHẦN VÀNG BẠC ĐÁ QUÝ PHÚ NHUẬN
+
+Mẫu số B 09 – DN/HN
+
+6 PHẢI THU KHÁC
+
+(a) Ngắn hạn
+
+<table><tr><td rowspan="363" colspan="2"></td><td rowspan="363">2020VND</td><td rowspan="363">2019VND</td></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr></table>
+
+Tại ngày 31 tháng 12 năm 2020, giá trị hàng tồn kho của Tập đoàn là 2.996.916.000.000 Đồng (ngày 31 tháng 12 năm 2019: 1.906.047.683.991 Đồng) đã được dùng để làm tài sản thể chấp cho các khoản vay ngắn hạn ngân hàng thương mại (Thuyết minh 18(a)).
+
+21
+
+===== PAGE 24 =====
+CÔNG TY CỔ PHẦN VÀNG BẠC ĐÁ QUÝ PHÚ NHUẬN
+
+Mẫu số B 09 – DN/HN
+
+8 CHI PHÍ TRÀ TRƯỚC
+
+(a) Ngắn hạn
+
+<table><tr><td></td><td>2020VND</td><td>2019VND</td></tr><tr><td>Công cụ, dụng cụ</td><td>10.320.459.979</td><td>18.831.589.613</td></tr><tr><td>Chi phí thuê hoạt động</td><td>30.263.584.357</td><td>29.117.340.897</td></tr><tr><td>Chi phí công nghệ thông tin</td><td>12.490.883.142</td><td>8.345.505.585</td></tr><tr><td>Chi phí đồng phục nhân viên</td><td>-</td><td>7.490.805.371</td></tr><tr><td>Chi phí thuê bằng quảng cáo</td><td>-</td><td>515.780.770</td></tr><tr><td>Chi phí sửa chữa, bảo trì</td><td>5.572.063.499</td><td>4.120.310.721</td></tr><tr><td>Khác</td><td>7.465.875.493</td><td>3.212.045.938</td></tr><tr><td></td><td>66.112.866.470</td><td>71.633.378.895</td></tr></table>
+
+(b) Dài hạn
+
+<table><tr><td></td><td>2020VND</td><td>2019VND</td></tr><tr><td>Công cụ, dụng cụ</td><td>91.055.979.728</td><td>78.917.021.001</td></tr><tr><td>Chi phí cải tạo văn phòng và cửa hàng</td><td>80.669.317.259</td><td>65.357.101.566</td></tr><tr><td>Chi phí thuê cửa hàng</td><td>13.759.093.930</td><td>9.616.517.091</td></tr><tr><td>Chi phí thuê bằng quảng cáo</td><td>-</td><td>1.950.362.470</td></tr><tr><td>Chi phí sửa chữa, bảo trì</td><td>18.248.358.470</td><td>-</td></tr><tr><td>Khác</td><td>2.569.016.644</td><td>2.477.978.353</td></tr><tr><td></td><td>206.301.766.031</td><td>158.318.980.481</td></tr></table>
+
+22
+
+===== PAGE 25 =====
+CÔNG TY CỔ PHẦN VÀNG BẠC ĐÁ QUÝ PHÚ NHUẬN
+
+<table><tr><td></td><td>Nhà cửa,vật kiến trúcVND</td><td>Máy mócthiết bịVND</td><td>Phương tiệnvận tàiVND</td><td>Thiết bịquản lýVND</td><td>Tổng cộngVND</td></tr><tr><td colspan="6">Nguyên giá</td></tr><tr><td>Tại ngày 1 tháng 1 năm 2020</td><td>148.336.281.191</td><td>246.779.952.344</td><td>35.721.529.707</td><td>103.980.936.100</td><td>534.818.699.342</td></tr><tr><td>Mua trong năm</td><td>8.774.948.708</td><td>53.292.474.412</td><td>753.590.000</td><td>11.862.308.047</td><td>74.683.321.167</td></tr><tr><td>Chuyển từ chi phí xây dựng cơ bản dở dang(Thuyết minh 10)</td><td>-</td><td>-</td><td>-</td><td>1.143.927.180</td><td>1.143.927.180</td></tr><tr><td>Thanh lý, nhượng bán</td><td>-</td><td>(9.832.689.336)</td><td>-</td><td>(349.071.628)</td><td>(10.181.760.964)</td></tr><tr><td>Tại ngày 31 tháng 12 năm 2020</td><td>157.111.229.899</td><td>290.239.737.420</td><td>36.475.119.707</td><td>116.638.099.699</td><td>600.464.186.725</td></tr><tr><td colspan="6">Khấu hao lũy kế</td></tr><tr><td>Tại ngày 1 tháng 1 năm 2020</td><td>44.009.455.073</td><td>164.055.774.011</td><td>19.227.447.153</td><td>43.698.788.752</td><td>270.991.464.989</td></tr><tr><td>Khấu hao trong năm</td><td>7.398.762.243</td><td>30.645.705.981</td><td>4.205.978.061</td><td>15.966.926.692</td><td>58.217.372.977</td></tr><tr><td>Thanh lý, nhượng bán</td><td>-</td><td>(9.688.489.562)</td><td>-</td><td>(300.393.851)</td><td>(9.988.883.413)</td></tr><tr><td>Tại ngày 31 tháng 12 năm 2020</td><td>51.408.217.316</td><td>185.012.990.430</td><td>23.433.425.214</td><td>59.365.321.593</td><td>319.219.954.553</td></tr><tr><td colspan="6">Giá trị còn lại</td></tr><tr><td>Tại ngày 1 tháng 1 năm 2020</td><td>104.326.826.118</td><td>82.724.178.333</td><td>16.494.082.554</td><td>60.282.147.348</td><td>263.827.234.353</td></tr><tr><td>Tại ngày 31 tháng 12 năm 2020</td><td>105.703.012.583</td><td>105.226.746.990</td><td>13.041.694.493</td><td>57.272.778.106</td><td>281.244.232.172</td></tr></table>
+
+23
+
+===== PAGE 26 =====
+CÔNG TY CỔ PHẦN VÀNG BẠC ĐÁ QUÝ PHÚ NHUẬN
+
+Mẫu số B 09 – DN/HN
+
+9 TSCĐ (tiếp theo)
+
+(b) TSCĐ vô hình
+
+<table><tr><td></td><td>Quyền sử dụng đất VND</td><td>Phần mềm VND</td><td>Tổng cộng VND</td></tr><tr><td colspan="4">Nguyên giá</td></tr><tr><td>Tại ngày 1 tháng 1 năm 2020</td><td>542.687.586.739</td><td>136.932.296.266</td><td>679.619.883.005</td></tr><tr><td>Mua trong năm</td><td>41.690.203</td><td>4.225.569.101</td><td>4.267.259.304</td></tr><tr><td>Thanh lý, nhượng bán</td><td>-</td><td>(96.000.000)</td><td>(96.000.000)</td></tr><tr><td>Tại ngày 31 tháng 12 năm 2020</td><td>542.729.276.942</td><td>141.061.865.367</td><td>683.791.142.309</td></tr><tr><td colspan="4">Khấu hao lũy kế</td></tr><tr><td>Tại ngày 1 tháng 1 năm 2020</td><td>-</td><td>19.576.762.884</td><td>19.576.762.884</td></tr><tr><td>Khấu hao trong năm</td><td>-</td><td>13.937.494.064</td><td>13.937.494.064</td></tr><tr><td>Thanh lý, nhượng bán</td><td>-</td><td>(96.000.000)</td><td>(96.000.000)</td></tr><tr><td>Tại ngày 31 tháng 12 năm 2020</td><td>-</td><td>33.418.256.948</td><td>33.418.256.948</td></tr><tr><td colspan="4">Giá trị còn lại</td></tr><tr><td>Tại ngày 1 tháng 1 năm 2020</td><td>542.687.586.739</td><td>117.355.533.382</td><td>660.043.120.121</td></tr><tr><td>Tại ngày 31 tháng 12 năm 2020</td><td>542.729.276.942</td><td>107.643.608.419</td><td>650.372.885.361</td></tr></table>
+
+Tại ngày 31 tháng 12 năm 2020, giá trị quyền sử dụng đất của Tập đoàn trị giá 49.837.617.572 Đồng (ngày 31 tháng 12 năm 2019: 49.837.617.572 Đồng) đã được dùng để làm tài sản thế chấp cho các khoản vay ngân hàng thương mại (Thuyết minh 18).
+
+Nguyên giá của phần mềm đã khấu hao hết nhưng vẫn còn sử dụng tài ngày 31 tháng 12 năm 2020 là 6.982.250.583 Đồng (tại ngày 31 tháng 12 năm 2019: 7.078.250.583 Đồng).
+
+10 CHI PHÍ XÂY DỰNG CƠ BẢN DỒ DANG
+
+<table><tr><td></td><td>2020VND</td><td>2019VND</td></tr><tr><td>Quyền sử dụng đất tại Dĩ An - Bình Dương</td><td>26.137.767.250</td><td>26.137.767.250</td></tr><tr><td>Dự án lắp đặt hệ thống PCCC Nhà máyLong Hậu</td><td>2.574.172.400</td><td>-</td></tr><tr><td>Phần mềm quản lý nhân sự</td><td>1.990.919.100</td><td>-</td></tr><tr><td>Khác</td><td>2.301.008.253</td><td>2.319.631.184</td></tr><tr><td></td><td>33.003.867.003</td><td>28.457.398.434</td></tr></table>
+
+24
+
+===== PAGE 27 =====
+CÔNG TY CÓ PHẦN VÀNG BẠC ĐÁ QUÝ PHÚ NHUẬN
+
+Mẫu số B 09 - DN/HN
+
+10 CHI PHÍ XÂY DỰNG CƠ BẢN DỞ DANG (tiếp theo)
+
+Biến động chi phí xây dựng cơ bản dở dang trong năm như sau:
+
+<table><tr><td></td><td>2020VND</td><td>2019VND</td></tr><tr><td>Số dư đầu năm</td><td>28.457.398.434</td><td>70.822.681.154</td></tr><tr><td>Tăng</td><td>6.483.065.709</td><td>149.056.772.192</td></tr><tr><td>Chuyển sang TSCĐ hữu hình</td><td>(1.143.927.180)</td><td>(36.146.625.463)</td></tr><tr><td>Chuyển sang TSCĐ vô hình</td><td>-</td><td>(155.275.429.449)</td></tr><tr><td>Khác</td><td>(792.669.960)</td><td>-</td></tr><tr><td>Số dư cuối năm</td><td>33.003.867.003</td><td>28.457.398.434</td></tr></table>
+
+11 ĐẦU TƯ TÀI CHÍNH DÀI HẠN
+
+<table><tr><td rowspan="2"></td><td colspan="2">2020</td><td colspan="2">2019</td></tr><tr><td>Giá gốc VND</td><td>Dự phòng VND</td><td>Giá gốc VND</td><td>Dự phòng VND</td></tr><tr><td>Ngân hàng TMCP Đông A (*)</td><td>395.271.613.400</td><td>(395.271.613.400)</td><td>395.271.613.400</td><td>(395.271.613.400)</td></tr></table>
+
+(*) Tại ngày 31 tháng 12 năm 2020 và ngày 31 tháng 12 năm 2019, Ngân hàng Thương mại Cổ phần ("TMCP") Đông Á văn nằm trong diện kiểm soát đặc biệt của Ngân hàng Nhà nước và cổ phiếu của Ngân hàng này không được phép chuyển nhượng. Do đó Ban Điều hành đã trích lập dự phòng toàn bộ giá trị khoản đầu từ vào Ngân hàng TMCP Đông Á tại ngày kết thúc năm tài chính.
+
+Tại ngày 31 tháng 12 năm 2020 và ngày 31 tháng 12 năm 2019, Công ty chưa xác định được giá trị hợp lý của khoản đầu tư tài chính này để thuyết minh trên báo cáo tài chính hợp nhất, vì khoản đầu tư này chưa niêm yết trên thị trường.
+
+12 PHÀI TRÀ NGƯỜI BÁN NGẮN HẠN
+
+<table><tr><td></td><td>2020VND</td><td>2019VND</td></tr><tr><td>Finesse Impex Limited</td><td>185.106.975.192</td><td>264.376.245.789</td></tr><tr><td>Công ty TNHH Forte Jewellery (HK)</td><td>126.662.589.601</td><td>154.975.866.651</td></tr><tr><td>Công ty TNHH Quang Vĩnh Nguyễn</td><td>912.591.777</td><td>12.140.499.777</td></tr><tr><td>Công ty TNHH Fu Sheng</td><td>1.667.935.368</td><td>-</td></tr><tr><td>Khác</td><td>167.238.372.782</td><td>259.315.572.978</td></tr><tr><td></td><td>481.588.464.720</td><td>690.808.185.195</td></tr></table>
+
+Tại ngày 31 tháng 12 năm 2020 và 31 tháng 12 năm 2019, Tập đoàn không có khoản phải trả người bán ngắn hạn nào bị quá hạn thanh toán.
+
+25
+
+===== PAGE 28 =====
+CÔNG TY CỔ PHẦN VÀNG BẠC ĐÁ QUÝ PHÚ NHUẬN
+
+Mẫu số B 09 – DN/HN
+
+13 NGƯỜI MUA TRÀ TIỀN TRƯỚC NGẮN HẠN
+
+<table><tr><td></td><td>2020VND</td><td>2019VND</td></tr><tr><td>Công ty Cổ phần Dược Hậu Giang</td><td>42.864.000.000</td><td>-</td></tr><tr><td>Công ty Cổ phần Pin Ắc quy Miền Nam</td><td>-</td><td>7.332.500</td></tr><tr><td>Khác</td><td>114.318.968.364</td><td>95.345.719.869</td></tr><tr><td></td><td>157.182.968.364</td><td>95.353.052.369</td></tr></table>
+
+14 THUẾ VÀ CÁC KHOÀN PHẢI NỘP NHÀ NƯỚC
+
+<table><tr><td></td><td>2020VND</td><td>2019VND</td></tr><tr><td>Thuế giá trị gia tăng (&quot;VAT&quot;)</td><td>47.328.341.499</td><td>52.394.562.292</td></tr><tr><td>Thuế TNDN (&quot;BIT&quot;)</td><td>154.678.620.526</td><td>128.390.517.466</td></tr><tr><td>Thuế thu nhập cá nhân (&quot;PIT&quot;)</td><td>8.133.718.365</td><td>7.327.960.887</td></tr><tr><td>Khác</td><td>4.569.630.533</td><td>4.569.630.533</td></tr><tr><td></td><td>214.710.310.923</td><td>192.682.671.178</td></tr></table>
+
+Biến động về thuế và các khoản phải nộp Nhà Nước trong năm như sau:
+
+<table><tr><td></td><td>Tại ngày1.1.2020VND</td><td>Số (phải thu)/phải nộptrong nămVND</td><td>Số đã thực nộptrong nămVND</td><td>Cán trừtrong nămVND</td><td>Tại ngày31.12.2020VND</td></tr><tr><td>VAT</td><td>52.394.562.292</td><td>397.778.470.052</td><td>(395.281.749.600)</td><td>(7.562.941.245)</td><td>47.328.341.499</td></tr><tr><td>BIT</td><td>128.390.517.466</td><td>279.422.477.414</td><td>(253.134.374.354)</td><td>-</td><td>154.678.620.526</td></tr><tr><td>PIT</td><td>7.327.960.887</td><td>68.192.663.155</td><td>(67.386.905.677)</td><td>-</td><td>8.133.718.365</td></tr><tr><td>Khác</td><td>4.569.630.533</td><td>1.769.679.870</td><td>(1.769.679.870)</td><td>-</td><td>4.569.630.533</td></tr><tr><td></td><td>192.682.671.178</td><td>747.163.290.491</td><td>(717.572.709.501)</td><td>(7.562.941.245)</td><td>214.710.310.923</td></tr></table>
+
+15 PHÀI TRÀ NGƯỜI LAO ĐỘNG
+
+Số dư phải trả người lao động thể hiện khoản trích trước lương tháng 13 và các khoản thường thành tích phải trả cho cán bộ công nhân viên.
+
+26
+
+===== PAGE 29 =====
+CÔNG TY CỔ PHẦN VÀNG BẠC ĐÁ QUÝ PHÚ NHUẬN
+
+Mẫu số B 09 – DN/HN
+
+16 CHI PHÍ PHÀI TRÀ NGÂN HẠN
+
+<table><tr><td></td><td>2020VND</td><td>2019VND</td></tr><tr><td>Chi phí quảng cáo và tiếp thị</td><td>40.969.790.347</td><td>33.745.133.406</td></tr><tr><td>Chi phí lãi vay</td><td>3.432.101.976</td><td>4.558.477.275</td></tr><tr><td>Chi phí khác</td><td>11.118.364.593</td><td>7.574.020.007</td></tr><tr><td></td><td>55.520.256.916</td><td>45.877.630.688</td></tr></table>
+
+17 PHÀI TRẢ NGẮN HẠN KHÁC
+
+<table><tr><td></td><td>2020VND</td><td>2019VND</td></tr><tr><td>Thường Hội đồng Quản trị và Ban Điều hành</td><td>21.039.066.145</td><td>20.528.793.837</td></tr><tr><td>Cổ tức phải trả (Thuyết minh 24)</td><td>11.167.693.692</td><td>6.004.841.375</td></tr><tr><td>Kinh phí công đoàn</td><td>5.302.327.162</td><td>10.616.635.500</td></tr><tr><td>Nguyên vật liệu mượn gia công ngoài</td><td>5.035.237.406</td><td>11.149.343.956</td></tr><tr><td>Khác</td><td>34.434.312.495</td><td>20.958.125.328</td></tr><tr><td></td><td>76.978.636.900</td><td>69.257.739.996</td></tr></table>
+
+27
+
+===== PAGE 30 =====
+CÔNG TY CÓ PHẦN VÀNG BẠC ĐÁ QUÝ PHÚ NHUẬN
+
+<table><tr><td>Tại ngày1.1.2020VND</td><td>TăngVND</td><td>GiảmVND</td><td>Tại ngày31.12.2020VND</td></tr><tr><td>300.000.000.000</td><td>953.230.965.374</td><td>(938.000.000.000)</td><td>315.230.965.374</td></tr><tr><td>898.993.052.515</td><td>1.575.154.625.156</td><td>(2.029.667.126.278)</td><td>444.480.551.393</td></tr><tr><td>200.000.000.000</td><td>1.060.447.479.845</td><td>(1.025.576.039.245)</td><td>234.871.440.600</td></tr><tr><td>-</td><td>295.383.613.627</td><td>(150.977.623.867)</td><td>144.405.989.760</td></tr><tr><td>-</td><td>375.730.954.296</td><td>(210.294.107.985)</td><td>165.436.846.311</td></tr><tr><td>92.799.546.320</td><td>280.828.894.723</td><td>(301.291.056.397)</td><td>72.337.384.646</td></tr><tr><td>-</td><td>68.348.957.900</td><td>-</td><td>68.348.957.900</td></tr><tr><td>97.000.000.000</td><td>242.097.049.000</td><td>(274.097.049.000)</td><td>65.000.000.000</td></tr><tr><td>490.427.204.477</td><td>775.197.642.171</td><td>(1.154.376.874.648)</td><td>111.247.972.000</td></tr><tr><td>99.971.329.000</td><td>158.907.793.895</td><td>(211.540.894.614)</td><td>47.338.228.281</td></tr><tr><td>-</td><td>262.100.000.000</td><td>(217.300.000.000)</td><td>44.800.000.000</td></tr><tr><td>3.700.000.000</td><td>3.700.000.000</td><td>(3.700.000.000)</td><td>3.700.000.000</td></tr><tr><td>298.893.399.480</td><td>1.248.892.181.869</td><td>(1.547.785.581.349)</td><td>-</td></tr><tr><td>-</td><td>62.312.992.680</td><td>(62.312.992.680)</td><td>-</td></tr><tr><td>129.118.090.430</td><td>74.150.187.800</td><td>(81.191.550.430)</td><td>122.076.727.800</td></tr><tr><td>2.610.902.622.222</td><td>7.436.483.338.336</td><td>(8.208.110.896.493)</td><td>1.839.275.064.065</td></tr></table>
+
+18 CÁC KHOÀN VAY
+(a) Ngắn hạn
+
+<table><tr><td>Vay ngân hàng (*)</td></tr><tr><td>Ngân hàng TMCP Đầu tư và Phát triển Việt Nam</td></tr><tr><td>Ngân hàng TMCP Công thương Việt Nam</td></tr><tr><td>Ngân hàng TMCP Đông Nam Ả</td></tr><tr><td>Ngân hàng TMCP Quốc tế Việt Nam</td></tr><tr><td>Ngân hàng TNHH MTV HSBC (Việt Nam)</td></tr><tr><td>Ngân hàng TNHH CTBC - Chi nhánh Hồ Chí Minh</td></tr><tr><td>Ngân hàng TMCP Phát triển TP. Hồ Chí Minh</td></tr><tr><td>Ngân hàng TNHH Shinhan Việt Nam</td></tr><tr><td>Ngân hàng TMCP Ngoại thương Việt Nam</td></tr><tr><td>Ngân hàng TMCP Quân đội</td></tr><tr><td>China Construction Bank Corporation - Chi nhánh Hồ Chí Minh</td></tr><tr><td>Ngân hàng Nông nghiệp và Phát triển Nông thôn(Thuyết minh 18(b))</td></tr><tr><td>Ngân hàng TMCP Xăng dầu Petrolimex</td></tr><tr><td>Ngân hàng TMCP Phương Đông</td></tr><tr><td>Vay cá nhân (**)</td></tr></table>
+
+28
+
+===== PAGE 31 =====
+CÔNG TY CỔ PHẦN VÀNG BẠC ĐÁ QUÝ PHÚ NHUẬN
+
+<table><tr><td>Ngân hàng</td><td>Tại ngày31.12.2020VND</td><td>Ngày đáo hạn</td><td>Lãi suất/năm</td><td>Hình thức đảm bảo</td></tr><tr><td>Ngân hàng TMCP Đầu tư và Phát triển Việt Nam</td><td>315.230.965.374</td><td>Từ ngày 14 tháng 4 năm 2021đến ngày 30 tháng 6 năm 2021</td><td>5,8%</td><td>Hàng tồn kho</td></tr><tr><td>Ngân hàng TMCP Công thương Việt Nam</td><td>444.480.551.393</td><td>Từ ngày 2 tháng 5 năm 2021đến ngày 17 tháng 6 năm 2021</td><td>5,7%</td><td>Hàng tồn kho</td></tr><tr><td>Ngân hàng TMCP Đông Nam Á</td><td>234.871.440.600</td><td>Từ ngày 1 tháng 2 năm 2021đến ngày 17 tháng 2 năm 2021</td><td>5,9%</td><td>Tín chấp</td></tr><tr><td>Ngân hàng TMCP Quốc tế Việt Nam</td><td>144.405.989.760</td><td>Từ ngày 4 tháng 4 năm 2021đến ngày 17 tháng 5 năm 2021</td><td>5,6%</td><td>Tín chấp</td></tr><tr><td>Ngân hàng TNHH MTV HSBC (Việt Nam)</td><td>165.436.846.311</td><td>Đến ngày 18 tháng 6 năm 2021</td><td>4,6%</td><td>Quyền sử dụng đất, nhà cửa và hàng tồn kho</td></tr><tr><td>Ngân hàng TNHH CTBC - Chi nhánh Hồ Chí Minh</td><td>72.337.384.646</td><td>Từ ngày 26 tháng 4 năm 2021đến ngày 24 tháng 6 năm 2021</td><td>4,9%</td><td>Hàng tồn kho</td></tr><tr><td>Ngân hàng TMCP Phát triển TP. Hồ Chí Minh</td><td>68.348.957.900</td><td>Từ ngày 13 tháng 1 năm 2021đến ngày 20 tháng 1 năm 2021</td><td>6,2%</td><td>Tín chấp</td></tr><tr><td>Ngân hàng TNHH Shinhan Việt Nam</td><td>65.000.000.000</td><td>Từ ngày 28 tháng 4 năm 2021đến ngày 3 tháng 5 năm 2021</td><td>5,0%</td><td>Tín chấp</td></tr><tr><td>Ngân hàng TMCP Ngoại thương Việt Nam</td><td>111.247.972.000</td><td>Từ ngày 22 tháng 6 năm 2021đến ngày 30 tháng 6 năm 2021</td><td>5,2%</td><td>Quyền sử dụng đất, nhà cửa và hàng tồn kho</td></tr><tr><td>Ngân hàng TMCP Quân đội</td><td>47.338.228.281</td><td>Từ ngày 30 tháng 3 năm 2021đến ngày 15 tháng 5 năm 2021</td><td>4,7%</td><td>Tín chấp</td></tr><tr><td>China Construction Bank Corporation- Chi nhánh Hồ Chí Minh</td><td>44.800.000.000</td><td>Từ ngày 19 tháng 5 năm 2021đến ngày 27 tháng 5 năm 2021</td><td>5,5%</td><td>Tín chấp</td></tr><tr><td></td><td>1.713.498.336.265</td><td></td><td></td><td></td></tr></table>
+
+29
+
+===== PAGE 32 =====
+CÔNG TY CÓ PHẦN VÀNG BẠC ĐÁ QUÝ PHÚ NHUẬN
+
+Mẫu số B 09 – DN/HN
+
+18 CÁC KHOÀN VAY (tiếp theo)
+(a) Ngắn hạn (tiếp theo)
+
+(**) Khoản vay cá nhân thể hiện các khoản vay tín chấp từ cán bộ công nhân viên của Tập đoàn. Các khoản vay này có thời hạn vay 12 tháng và chịu lãi suất 2,5% - 8%/năm.
+
+Các quyền sử dụng đất tại số 52A-52B Đường Nguyễn Văn Trỗi, Quận Phú Nhuận, Thành phố Hồ Chí Minh; số 195A Đường Phan Đăng Lưu, Quận Phú Nhuận, Thành phố Hồ Chí Minh; số 577 Đường Nguyễn Kiệm, Quận Phú Nhuận, Thành phố Hồ Chí Minh và số 174 Đường Lê Thánh Tôn, Quận 1, Thành phố Hồ Chí Minh với giá trị ghi số tổng cộng là 63.592.666.838 Đồng đang được lưu giữ tại Ngân hàng TMCP Đông À tại ngày lập báo cáo tài chính hợp nhất này để thế chấp các khoản vay từ ngân hàng này.
+
+(b) Dài hạn
+
+<table><tr><td></td><td>Tại ngày1.1.2020VND</td><td>TăngVND</td><td>GiảmVND</td><td>Tại ngày31.12.2020VND</td></tr><tr><td>Vay ngân hàng (*)</td><td>3.700.000.000</td><td>-</td><td>(3.700.000.000)</td><td>-</td></tr></table>
+
+30
+
+===== PAGE 33 =====
+CÔNG TY CÓ PHẦN VÀNG BẠC ĐÁ QUÝ PHÚ NHUẬN
+
+Mẫu số B 09 – DN/HN
+
+19 QUỸ KHEN THƯỜNG, PHÚC LỢI
+
+<table><tr><td></td><td>2020VND</td><td>2019VND</td></tr><tr><td>Số dư đầu năm</td><td>90.682.831.084</td><td>62.979.954.425</td></tr><tr><td>Trích thêm trong năm (Thuyết minh 23)</td><td>59.696.000.000</td><td>47.996.000.000</td></tr><tr><td>Sử dụng trong năm</td><td>(34.492.822.139)</td><td>(20.293.123.341)</td></tr><tr><td>Số dư cuối năm</td><td>115.886.008.945</td><td>90.682.831.084</td></tr></table>
+
+20 DỰ PHÒNG PHẢI TRẢ DÀI HẠN
+
+Số dư thể hiện khoản dự phòng trợ cấp thời việc phải trả cho cán bộ công nhân viên.
+
+21 TÀI SẢN THUẾ TNDN HOÃN LẠI
+
+Tài sản thuế TNDN hoãn lại và thuế TNDN hoãn lại phải trả được bù trừ khi Tập đoàn có quyền hợp pháp được bù trừ giữa tài sản thuế TNDN hiện hành với thuế TNDN hiện hành phải trả và khi thuế TNDN hoãn lại có liên quan đến cùng một cơ quan thuế. Chi tiết như sau:
+
+<table><tr><td></td><td>2020VND</td><td>2019VND</td></tr><tr><td>Tài sản thuế thu nhập hoãn lại:Tài sản thuế TNDN hoãn lại được thu hồi sau 12 tháng</td><td>82.009.418.884</td><td>79.740.521.880</td></tr><tr><td>Tài sản thuế TNDN hoãn lại được thu hồi trong vòng 12 tháng</td><td>8.974.275.143</td><td>8.491.058.187</td></tr><tr><td></td><td>90.983.694.027</td><td>88.231.580.067</td></tr></table>
+
+Biến động gộp của thuế TNDN hoãn lại được tính bù trừ các số dư liên quan đến cùng một cơ quan thuế như sau:
+
+<table><tr><td></td><td>2020VND</td><td>2019VND</td></tr><tr><td>Số dư đầu năm</td><td>88.231.580.067</td><td>85.351.824.838</td></tr><tr><td>Ghi nhận vào báo cáo kết quả hoạt động kinh doanh hợp nhất (Thuyết minh 33)</td><td>2.752.113.960</td><td>2.879.755.229</td></tr><tr><td>Số dư cuối năm</td><td>90.983.694.027</td><td>88.231.580.067</td></tr></table>
+
+31
+
+===== PAGE 34 =====
+CÔNG TY CỔ PHẦN VÀNG BẠC ĐÁ QUÝ PHÚ NHUẬN
+
+Mẫu số B 09 – DN/HN
+
+21 TÀI SẢN THUẾ TNDN HOÃN LẠI (tiếp theo)
+
+Chi tiết tài sản thuế TNDN hoãn lại:
+
+Tài sản thuế TNDN hoãn lại chủ yếu phát sinh từ các khoản chênh lệch tạm thời được khấu trừ liên quan đến chi phí phải trả, khoản dự phòng đầu tư tài chính dài hạn và dự phòng trợ cấp thời việc.
+
+<table><tr><td></td><td>2020VND</td><td>2019VND</td></tr><tr><td>Các khoản chênh lệch tạm thời được khấu trừ</td><td>90.983.694.027</td><td>88.231.580.067</td></tr></table>
+
+Thuế suất thuế TNDN sử dụng để xác định giá trị tài sản thuế TNDN hoãn lãi là 20%.
+
+Tài sản thuế TNDN hoãn lại được ghi nhận dựa trên khả năng thu được thu nhập chịu thuế trong tương lai để cần trừ các khoản chênh lệch tạm thời đã phát sinh này.
+
+22 VỐN GÓP CỦA CHỦ SỞ HỮU
+
+(a) Số lượng cổ phiếu phổ thông
+
+<table><tr><td></td><td>2020</td><td>2019</td></tr><tr><td>Số lượng cổ phiếu đăng ký</td><td>227.612.362</td><td>225.293.585</td></tr><tr><td>Số lượng cổ phiếu đã phát hành</td><td>227.612.362</td><td>225.293.585</td></tr><tr><td>Số lượng cổ phiếu đã mua lại</td><td>(169.559)</td><td>(105.409)</td></tr><tr><td>Số lượng cổ phiếu đang lưu hành</td><td>227.442.803</td><td>225.188.176</td></tr></table>
+
+(b) Chi tiết vốn góp của chủ sở hữu
+
+<table><tr><td rowspan="2"></td><td colspan="2">2020</td><td colspan="2">2019</td></tr><tr><td>Cổ phiếu phổ thông</td><td>%</td><td>Cổ phiếu phổ thông</td><td>%</td></tr><tr><td>Bà Cao Thị Ngọc Dung</td><td>205.840.180.000</td><td>9,04</td><td>203.264.180.000</td><td>9,03</td></tr><tr><td>Công ty Cổ phần Quản lý Quỹ VinaCapital (*)</td><td>156.537.510.000</td><td>6,88</td><td>181.331.380.000</td><td>8,05</td></tr><tr><td>Bà Trương Ngọc Phương (**)</td><td>208.209.430.000</td><td>9,15</td><td>155.997.900.000</td><td>6,93</td></tr><tr><td>Phần vốn của các đối tượng khác</td><td>1.705.536.500.000</td><td>74,99</td><td>1.712.342.390.000</td><td>76,04</td></tr><tr><td>Cổ phiếu quỹ</td><td>(1.695.590.000)</td><td>(0)</td><td>(1.054.090.000)</td><td>(0)</td></tr><tr><td>Số lượng cổ phiếu đã phát hành</td><td>2.274.428.030.000</td><td>100</td><td>2.251.881.760.000</td><td>100</td></tr></table>
+
+(*) Tại ngày 31 tháng 12 năm 2020 và ngày 31 tháng 12 năm 2019, Công ty Cổ phần Quản lý Quỹ Vina Captial là đại diện vốn cho một nhóm nhà đầu tư.
+
+(**) Tại ngày 31 tháng 12 năm 2020 và ngày 31 tháng 12 năm 2019, Bà Trương Ngọc Phương là đại diện vốn cho một nhóm nhà đầu tư nước ngoài.
+
+32
+
+===== PAGE 35 =====
+CÔNG TY CỔ PHẦN VÀNG BẠC ĐÁ QUÝ PHÚ NHUẬN
+
+Mẫu số B 09 – DN/HN
+
+22 VÔN GÓP CỦA CHỦ SỞ HỮU (tiếp theo)
+
+(c) Tỉnh hình biến động của vốn cổ phần
+
+<table><tr><td></td><td>Số cổ phiếu</td><td>Cổ phiếu phổ thông VND</td></tr><tr><td>Tại ngày 1 tháng 1 năm 2019</td><td>167.002.273</td><td>1.670.022.730.000</td></tr><tr><td>Cổ phiếu mới phát hành</td><td>58.290.603</td><td>582.906.030.000</td></tr><tr><td>Cổ phiếu quỹ</td><td>(104.700)</td><td>(1.047.000.000)</td></tr><tr><td>Tại ngày 31 tháng 12 năm 2019</td><td>225.188.176</td><td>2.251.881.760.000</td></tr><tr><td>Cổ phiếu mới phát hành</td><td>2.318.777</td><td>23.187.770.000</td></tr><tr><td>Cổ phiếu quỹ</td><td>(64.150)</td><td>(641.500.000)</td></tr><tr><td>Tại ngày 31 tháng 12 năm 2020</td><td>227.442.803</td><td>2.274.428.030.000</td></tr></table>
+
+Mệnh giá cổ phiếu: 10.000 Đồng trên một cổ phiếu.
+
+33
+
+===== PAGE 36 =====
+CÔNG TY CÓ PHẦN VÀNG BẠC ĐÁ QUÝ PHÚ NHUẬN
+
+Mẫu số B 09 – DN/HN
+
+23 TÌNH HÌNH TĂNG GIÀM NGUỒN VỐN CHỦ SỞ HỮU
+
+<table><tr><td></td><td>Vốn góp của chủ sở hữu VND</td><td>Thặng dư vốn cổ phần VND</td><td>Cổ phiếu quỹ VND</td><td>Quỹ đầu tư phát triển VND</td><td>LNST chưa nhân phối VND</td><td>Tổng cộng VND</td></tr><tr><td>Tại ngày 1 tháng 1 năm 2019</td><td>1.670.029.820.000</td><td>925.397.862.458</td><td>(7.090.000)</td><td>265.087.556.918</td><td>884.565.278.528</td><td>3.745.073.427.904</td></tr><tr><td>Chia cổ tức bằng cổ phiếu (Thuyết minh 24)</td><td>556.649.780.000</td><td>-</td><td>-</td><td>-</td><td>(556.649.780.000)</td><td>-</td></tr><tr><td>Phát hành cổ phiếu theo chương trình lựa chọn cho người lao động</td><td>26.256.250.000</td><td>42.676.250.000</td><td>-</td><td>-</td><td>-</td><td>68.932.500.000</td></tr><tr><td>Lợi nhuận thuần trong năm</td><td>-</td><td>-</td><td>-</td><td>-</td><td>1.193.924.957.243</td><td>1.193.924.957.243</td></tr><tr><td>Chia cổ tức</td><td>-</td><td>-</td><td>-</td><td>-</td><td>(345.136.073.800)</td><td>(345.136.073.800)</td></tr><tr><td>Mua cổ phiếu quỹ</td><td>-</td><td>-</td><td>(2.094.000.000)</td><td>-</td><td>-</td><td>(2.094.000.000)</td></tr><tr><td>Trích quỹ khen thưởng, phúc lợi (Thuyết minh 19)</td><td>-</td><td>-</td><td>-</td><td>-</td><td>(47.996.000.000)</td><td>(47.996.000.000)</td></tr><tr><td>Trích quỹ đầu tư phát triển</td><td>-</td><td>-</td><td>-</td><td>47.996.000.000</td><td>(47.996.000.000)</td><td>-</td></tr><tr><td>Trích thưởng HĐQT và Ban Điều hành</td><td>-</td><td>-</td><td>-</td><td>-</td><td>(35.439.000.000)</td><td>(35.439.000.000)</td></tr><tr><td>Tại ngày 31 tháng 12 năm 2019</td><td>2.252.935.850.000</td><td>968.074.112.458</td><td>(2.101.090.000)</td><td>313.083.556.918</td><td>1.045.273.381.971</td><td>4.577.265.811.347</td></tr><tr><td>Phát hành cổ phiếu theo chương trình lựa chọn cho người lao động (*)</td><td>23.187.770.000</td><td>23.187.770.000</td><td>-</td><td>-</td><td>-</td><td>46.375.540.000</td></tr><tr><td>Lợi nhuận thuần trong năm</td><td>-</td><td>-</td><td>-</td><td>-</td><td>1.069.310.105.261</td><td>1.069.310.105.261</td></tr><tr><td>Chi trả cổ tức (**)</td><td>-</td><td>-</td><td>-</td><td>-</td><td>(360.262.591.600)</td><td>(360.262.591.600)</td></tr><tr><td>Mua cổ phiếu quỹ</td><td>-</td><td>-</td><td>(1.283.000.000)</td><td>-</td><td>-</td><td>(1.283.000.000)</td></tr><tr><td>Trích quỹ khen thưởng, phúc lợi (Thuyết minh 20) (***)</td><td>-</td><td>-</td><td>-</td><td>-</td><td>(59.696.000.000)</td><td>(59.696.000.000)</td></tr><tr><td>Trích quỹ đầu tư phát triển (***)</td><td>-</td><td>-</td><td>-</td><td>59.696.000.000</td><td>(59.696.000.000)</td><td>-</td></tr><tr><td>Trích thưởng HĐQT và Ban Điều hành (***)</td><td>-</td><td>-</td><td>-</td><td>-</td><td>(29.848.000.000)</td><td>(29.848.000.000)</td></tr><tr><td>Tại ngày 31 tháng 12 năm 2020</td><td>2.276.123.620.000</td><td>991.261.882.458</td><td>(3.384.090.000)</td><td>372.779.556.918</td><td>1.605.080.895.632</td><td>5.241.861.865.008</td></tr></table>
+
+34
+
+===== PAGE 37 =====
+CÔNG TY CỔ PHẦN VÀNG BẠC ĐÁ QUÝ PHÚ NHUẬN
+
+Mẫu số B 09 – DN/HN
+
+23 TÌNH HÌNH TĂNG GIÀM NGUÒN VỐN CHỦ SỞ HỮU
+
+(*) Theo Nghị quyết Đại hội đồng Cổ đông thường niên số 337/2020/NQ-ĐHĐCD-CTY ngày 10 tháng 6 năm 2020 và Nghị quyết Hội đồng Quản trị số 526/2020/NQ-HĐQT-CTY ngày 26 tháng 10 năm 2020, Công ty đã phát hành thêm 2,318.777 cổ phiếu cho các thành viên Hội đồng Quản trị, thành viên Ban Điều hành, lãnh đạo chủ chốt, cán bộ cấp trung và các nhân viên chủ chốt khác của Công ty và các công ty con đã có đóng góp tích cực trong việc hoàn thành vượt mức kế hoạch kinh doanh năm 2019 với giá phát hành 20.000 Đồng/cổ phiếu
+
+(**) Trong năm, Công ty đã tạm ứng cổ tức đợt 2 năm 2019 với số tiền 225.188.176.000 Đồng cho các cổ đông theo Nghị quyết Hội đồng Quản trị số 197/2020/NQ-HĐQT-CTY ngày 16 tháng 3 năm 2020. Ngoài ra, Công ty đã thực hiện tạm ứng cổ tức đợt 1 năm 2020 với tỷ lệ thanh toán: 6%/cổ phiếu (mỗi cổ phiếu được nhận 600 Đồng) tương đương 135.074.415.600 Đồng theo Nghị quyết Hội đồng Quản trị số 558/NQ-HĐQT-CTY ngày 12 tháng 11 năm 2020.
+
+(***) Theo Nghị quyết Đại hội Đồng Cổ đông số 337/2020/NQ-ĐHĐCD-CTY ngày 10 tháng 6 năm 2020, Đại hội đồng Cổ đông đã thông qua phương án phân chia lợi nhuận thuần cho năm tài chính kết thúc ngày 31 tháng 12 năm 2019 như sau:
+
+- Chia cổ tức bằng tiền: 403.321.976.800 Đồng;
+
+- Trích quỹ đầu tư phát triển: 59.696.000.000 Đông;
+
+- Trích quỹ khen thưởng, phúc lợi: 59.696.000.000 Đồng; và
+
+- Trích quỹ khen thưởng Hội đồng Quản trị và Ban Điều hành: 29.848.000.000 Đồng.
+
+24 CÔ TÚC
+
+<table><tr><td></td><td>2020VND</td><td>2019VND</td></tr><tr><td>Số dư đầu năm</td><td>6.004.841.375</td><td>4.744.192.345</td></tr><tr><td>Cổ tức phải trả trong năm</td><td>360.262.591.600</td><td>901.785.853.800</td></tr><tr><td>Cổ tức đã chi trả bằng cổ phiếu(Thuyết minh 23)</td><td></td><td>(556.649.780.000)</td></tr><tr><td>Cổ tức đã chi trả bằng tiền</td><td>(355.099.739.283)</td><td>(343.875.424.770)</td></tr><tr><td>Số dư cuối năm</td><td>11.167.693.692</td><td>6.004.841.375</td></tr></table>
+
+35
+
+===== PAGE 38 =====
+CÔNG TY CỔ PHẦN VÀNG BẠC ĐÁ QUÝ PHÚ NHUẬN
+
+Mẫu số B 09 – DN/HN
+
+25 LÃI CƠ BẢN TRÊN CỔ PHIỂU
+
+(a) Lãi cơ bản trên cổ phiếu
+
+Lãi cơ bản trên cổ phiếu được tính bằng hiệu của số lợi nhuận thuần phân bổ cho các cổ đông và số trích quỹ khen thưởng, phúc lợi, quỹ khen thưởng Hội đồng Quản trị và Ban Điều hành chia cho số lượng bình quân gia quyền của số cổ phiếu phổ thông đang lưu hành trong năm, không bao gồm các cổ phiếu phổ thông được Công ty mua lại và giữ làm cổ phiếu quỹ. Chi tiết như sau:
+
+<table><tr><td></td><td>2020VND</td><td>2019VND</td></tr><tr><td>Lợi nhuận thuần phân bổ cho các cổ đông (VND)</td><td>1.069.310.105.261</td><td>1.193.924.957.243</td></tr><tr><td>Điều chỉnh giảm số trích quỹ khen thưởng, phúc lợi, quỹ khen thưởng Hội đồng Quản trị và Ban Điều hành (VND) (Thuyết minh 23)</td><td>(89.544.000.000)</td><td>(83.435.000.000)</td></tr><tr><td></td><td>979.766.105.261</td><td>1.110.489.957.243</td></tr><tr><td>Bình quân số cổ phiếu phổ thông đang lưu hành (cổ phiếu)</td><td>227.442.803</td><td>226.830.176</td></tr><tr><td>Lãi cơ bản trên mỗi cổ phiếu (VND)</td><td>4.308</td><td>4.896</td></tr></table>
+
+(b) Lãi suy giảm trên cổ phiếu
+
+Lãi suy giảm trên cổ phiếu được tính bằng hiệu của số lợi nhuận hoặc lỗ phân bổ cho các cổ đông và số trích quỹ khen thưởng, phúc lợi, quỹ khen thưởng Hội đồng Quản trị và Ban Điều hành chia cho tổng của số bình quân gia quyền cổ phiếu phổ thông đang lưu hành trong năm và số lượng cổ phiếu phổ thông dự kiến được phát hành thêm trong năm.
+
+Công ty không có cổ phiếu phổ thông tiêm năng có tác động suy giảm trong năm và đến ngày lập báo cáo tài chính hợp nhất này. Do đó lãi suy giảm trên cổ phiếu bằng với lãi cơ bản trên cổ phiếu.
+
+36
+
+===== PAGE 39 =====
+CÔNG TY CỔ PHẦN VÀNG BẠC ĐÁ QUÝ PHÚ NHUẬN
+
+Mẫu số B 09 - DN/HN
+
+26 CÁC KHOÀN MỤC NGOÀI BÀNG CÂN ĐỐI KẾ TOÁN HỢP NHẤT
+
+(a) Khoản mục tiền đã bao gồm số ngoại tệ như sau:
+
+<table><tr><td></td><td>2020</td><td>2019</td></tr><tr><td>Đô la Mỹ - USD</td><td>1.464.450</td><td>92.878</td></tr><tr><td>Euro - EUR</td><td>3.724</td><td>5.901</td></tr><tr><td>Bảng Anh - GBP</td><td>1.625</td><td>1.625</td></tr><tr><td>Đô la Hồng Kông - HKD</td><td>-</td><td>970</td></tr><tr><td>Đô la Úc - AUD</td><td>1.002</td><td>27.330</td></tr><tr><td>Đô la Singapore - SGD</td><td>-</td><td>174</td></tr></table>
+
+(b) Các khoản thanh toán tiền thuê tối thiểu trong tương lai theo hợp đồng thuê hoạt động không hủy ngang là 1.316.720.121.669 Đồng và 1.284.911.526.029 Đồng tương ứng cho năm tài chính kết thúc ngày 31 tháng 12 năm 2020 và 31 tháng 12 năm 2019 (Thuyết minh 35).
+
+27 DOANH THU THUẦN VỀ BÁN HÀNG VÀ CUNG CÁP DỊCH VỤ
+
+<table><tr><td></td><td>2020VND</td><td>2019VND</td></tr><tr><td colspan="3">Doanh thu</td></tr><tr><td>Doanh thu bán vàng, bạc và đồ trang sức</td><td>17.487.379.140.948</td><td>17.021.086.914.743</td></tr><tr><td>Doanh thu bán phụ kiện</td><td>153.937.831.108</td><td>74.094.543.466</td></tr><tr><td>Doanh thu dịch vụ</td><td>40.596.054.121</td><td>49.069.988.423</td></tr><tr><td></td><td>17.681.913.026.177</td><td>17.144.251.446.632</td></tr><tr><td colspan="3">Các khoản giảm trừ</td></tr><tr><td>Hàng bán bị trả lại</td><td>(171.123.340.972)</td><td>(138.747.009.690)</td></tr><tr><td>Giảm giá hàng bán</td><td>(1.034.206)</td><td>(4.823.356.419)</td></tr><tr><td></td><td>(171.124.375.178)</td><td>(143.570.366.109)</td></tr><tr><td>Doanh thu thuần về bán hàng và cung cấp dịch vụ</td><td>17.510.788.650.999</td><td>17.000.681.080.523</td></tr></table>
+
+28 GIÁ VÓN HÀNG BÁN VÀ DỊCH VỤ CUNG CẤP
+
+<table><tr><td></td><td>2020VND</td><td>2019VND</td></tr><tr><td>Giá vốn bán vàng, bạc và đồ trang sức</td><td>14.017.473.506.356</td><td>13.477.510.306.465</td></tr><tr><td>Giá vốn bán phụ kiện</td><td>49.331.825.580</td><td>52.048.357.537</td></tr><tr><td>Giá vốn dịch vụ</td><td>9.250.438.176</td><td>10.408.924.260</td></tr><tr><td></td><td>14.076.055.770.112</td><td>13.539.967.588.262</td></tr></table>
+
+37
+
+===== PAGE 40 =====
+CÔNG TY CÓ PHẦN VÀNG BẠC ĐÁ QUÝ PHÚ NHUẬN
+
+Mẫu số B 09 – DN/HN
+
+29 DOANH THU HOẠT ĐỘNG TÀI CHÍNH
+
+<table><tr><td rowspan="2" colspan="2"></td><td rowspan="2">2020VND</td><td rowspan="2">2019VND</td></tr><tr></tr><tr><td>Lãi tiền gửi</td><td>251.771.651</td><td>163.983.543</td><td></td></tr><tr><td>Lãi chênh lệch tỷ giá hối đoái đã thực hiện</td><td>2.117.186.665</td><td>15.227.671.175</td><td></td></tr><tr><td>Lãi thuần do đánh giá lại các khoản cógốc ngoại tệ cuối năm</td><td>-</td><td>1.242.529.054</td><td></td></tr><tr><td>Khác</td><td>-</td><td>185.836.962</td><td></td></tr><tr><td></td><td>2.368.958.316</td><td>16.820.020.734</td><td></td></tr><tr><td>30</td><td colspan="3">CHI PHÍ TÀI CHÍNH</td></tr><tr><td colspan="2"></td><td>2020VND</td><td>2019VND</td></tr><tr><td>Lãi tiền vay</td><td>154.416.694.276</td><td>115.367.610.418</td><td></td></tr><tr><td>Lỗ chênh lệch tỷ giá hối đoái đã thực hiện</td><td>3.510.464.614</td><td>16.957.712.435</td><td></td></tr><tr><td>Lỗ thuần do đánh giá lại các khoản cógốc ngoại tệ cuối năm</td><td>177.425.063</td><td>-</td><td></td></tr><tr><td>Khác</td><td>3.436.503.539</td><td>1.352.795.644</td><td></td></tr><tr><td></td><td>161.541.087.492</td><td>133.678.118.497</td><td></td></tr><tr><td>31</td><td colspan="3">CHI PHÍ BÁN HÀNG</td></tr><tr><td colspan="2"></td><td>2020VND</td><td>2019VND</td></tr><tr><td>Chi phí nhân viên</td><td>686.547.472.373</td><td>653.073.707.061</td><td></td></tr><tr><td>Chi phí thuê</td><td>258.343.539.717</td><td>243.219.168.957</td><td></td></tr><tr><td>Chi phí quảng cáo, tiếp thị</td><td>146.040.903.385</td><td>146.451.795.516</td><td></td></tr><tr><td>Công cụ, dụng cụ</td><td>106.063.237.322</td><td>112.174.354.037</td><td></td></tr><tr><td>Chi phí khấu hao</td><td>15.627.150.063</td><td>11.750.396.311</td><td></td></tr><tr><td>Chi phí dịch vụ mua ngoài</td><td>120.084.763.960</td><td>112.132.295.311</td><td></td></tr><tr><td>Khác</td><td>88.148.586.627</td><td>83.005.836.314</td><td></td></tr><tr><td></td><td>1.420.855.653.447</td><td>1.361.807.553.507</td><td></td></tr></table>
+
+38
+
+===== PAGE 41 =====
+CÔNG TY CỔ PHẦN VÀNG BẠC ĐÁ QUÝ PHÚ NHUẬN
+
+Mẫu số B 09 - DN/HN
+
+32 CHI PHÍ QUẢN LÝ DOANH NGHIỆP
+
+<table><tr><td></td><td>2020VND</td><td>2019VND</td></tr><tr><td>Chi phí nhân viên</td><td>365.513.573.695</td><td>332.507.725.623</td></tr><tr><td>Công cụ, dụng cụ</td><td>12.944.672.439</td><td>15.703.473.853</td></tr><tr><td>Chi phí khấu hao</td><td>29.840.270.105</td><td>25.057.807.877</td></tr><tr><td>Thuế, phí và lệ phí</td><td>1.063.819.767</td><td>608.762.839</td></tr><tr><td>Chi phí dịch vụ mua ngoài</td><td>46.497.230.253</td><td>45.740.979.104</td></tr><tr><td>Khác</td><td>49.713.228.346</td><td>56.212.948.634</td></tr><tr><td></td><td>505.572.794.605</td><td>475.831.697.930</td></tr></table>
+
+33 THUÉ TNDN
+
+Số thuế TNDN tính trên lợi nhuận kế toán trước thuế của Tập đoàn khác với số thuế khi được tính theo thuế suất áp dụng như sau:
+
+<table><tr><td></td><td>2020VND</td><td>2019VND</td></tr><tr><td>Lợi nhuận kế toán trước thuế</td><td>1.345.980.468.715</td><td>1.506.712.385.551</td></tr><tr><td>Trong đó:</td><td></td><td></td></tr><tr><td>- Lợi nhuận kế toán trước thuế</td><td>1.357.382.622.984</td><td>1.562.785.325.757</td></tr><tr><td>- Lỗ kế toán trước thuế</td><td>(11.402.154.269)</td><td>(56.072.940.206)</td></tr><tr><td>Thuế tính ở thuế suất 20%</td><td>271.476.524.597</td><td>312.557.065.151</td></tr><tr><td>Điều chỉnh:</td><td></td><td></td></tr><tr><td>Chi phí không được khấu trừ</td><td>10.572.971.477</td><td>2.050.518.127</td></tr><tr><td>Khác</td><td>(5.379.132.620)</td><td>(1.820.154.970)</td></tr><tr><td>Chi phí thuế TNDN (*)</td><td>276.670.363.454</td><td>312.787.428.308</td></tr><tr><td>Chi phí/(thu nhập) thuế TNDN ghi nhận trong báo cáo kết quả hoạt động kinh doanh hợp nhất:</td><td></td><td></td></tr><tr><td>Thuế TNDN - hiện hành</td><td>279.422.477.414</td><td>315.667.183.537</td></tr><tr><td>Thuế TNDN - hoãn lại (Thuyết minh 21)</td><td>(2.752.113.960)</td><td>(2.879.755.229)</td></tr><tr><td></td><td>276.670.363.454</td><td>312.787.428.308</td></tr></table>
+
+(*) Chi phí thuế TNDN cho năm tài chính được ước tính dựa vào thu nhập chịu thuế và có thể có những điều chỉnh tùy thuộc vào sự kiểm tra của cơ quan thuế.
+
+39
+
+===== PAGE 42 =====
+CÔNG TY CỔ PHẦN VÀNG BẠC ĐÁ QUÝ PHÚ NHUẬN
+
+Mẫu số B 09 – DN/HN
+
+34 CHI PHÍ SẢN XUẤT KINH DOANH THEO YỀU TỔ
+
+Chi phí sản xuất kinh doanh theo yếu tố thể hiện các chi phí phát sinh từ hoạt động của Tập đoàn trong năm, không bao gồm giá mua hàng hóa phát sinh trong hoạt động thương mại. Chi tiết được trình bày như sau:
+
+<table><tr><td></td><td>2020VND</td><td>2019VND</td></tr><tr><td>Chi phí nguyên liệu, vật liệu</td><td>16.444.008.915.822</td><td>11.326.214.866.824</td></tr><tr><td>Chi phí nhân viên</td><td>1.495.853.797.605</td><td>1.203.404.487.813</td></tr><tr><td>Công cụ, dụng cụ</td><td>116.343.456.871</td><td>130.348.291.206</td></tr><tr><td>Chi phí khấu hao</td><td>97.947.867.897</td><td>61.066.130.585</td></tr><tr><td>Chi phí dịch vụ mua ngoài</td><td>618.849.764.368</td><td>574.223.574.865</td></tr><tr><td>Khác</td><td>350.001.532.760</td><td>372.676.932.560</td></tr><tr><td></td><td>19.123.005.335.323</td><td>13.667.934.283.853</td></tr></table>
+
+35 THUYẾT MINH VỀ CÁC BÊN LIÊN QUAN
+
+Giao dịch với các bên liên quan
+
+Trong năm, nghiệp vụ chủ yếu sau đây được thực hiện với các bên liên quan:
+
+<table><tr><td></td><td>2020VND</td><td>2019VND</td></tr><tr><td colspan="3">Các khoản chỉ cho các nhân sự quản lý chủ chốt</td></tr><tr><td>Lương và các quyền lợi gộp khácTrong đó:Các thành viên Hội đồng Quản trịCác thành viên Ban Điều hànhKhác</td><td>54.932.689.16713.327.809.09431.098.221.21810.506.658.855</td><td>62.508.652.91715.947.602.13037.211.071.6379.349.979.150</td></tr></table>
+
+36 CAM KÊT THUÊ HOẠT ĐỘNG
+
+Các hợp đồng thuê cửa hàng hoạt động không hủy ngang, Tập đoàn phải trả mức tối thiểu trong tương lai như sau:
+
+<table><tr><td></td><td>2020VND</td><td>2019VND</td></tr><tr><td>Dưới 1 năm</td><td>230.896.342.548</td><td>230.886.854.351</td></tr><tr><td>Từ 1 đến 5 năm</td><td>727.906.892.402</td><td>659.220.215.715</td></tr><tr><td>Trên 5 năm</td><td>357.916.886.719</td><td>394.804.455.963</td></tr><tr><td>Tổng cộng các khoản thanh toán tối thiểu</td><td>1.316.720.121.669</td><td>1.284.911.526.029</td></tr></table>
+
+40
+
+===== PAGE 43 =====
+CÔNG TY CỔ PHẦN VÀNG BẠC ĐÁ QUÝ PHÚ NHUẬN
+
+Mẫu số B 09 – DN/HN
+
+37 BÁO CÁO BỘ PHẦN
+
+Báo cáo bộ phận theo khu vực địa lý
+
+Tập đoàn thực hiện toàn bộ hoạt động kinh doanh vàng, bạc, nữ trang, đá quý và cung cấp dịch vụ chỉ trên lãnh thổ Việt Nam. Ví vậy, Tập đoàn không trình bày báo cáo bộ phân theo khu vực địa lý.
+
+Báo cáo bộ phận theo lĩnh vực kinh doanh
+
+Hoạt động kinh doanh vàng, bạc, nữ trang và đá quý là hoạt động chủ yếu tạo ra doanh thu và lợi nhuận cho Tập đoàn, trong khi các khoản doanh thu khác chiếm tỷ trọng không trọng yếu trong tổng doanh thu của Tập đoàn, do vậy Ban Điều hành cho rằng Tập đoàn hoạt động trong một bộ phận kinh doanh duy nhất.
+
+38 ẢNH HƯỜNG CỦA COVID-19
+
+Sự bùng phát của dịch bệnh Covid-19 từ đầu năm 2020 là một tỉnh huống đầy khó khăn và thách thức cho tất cả các ngành nghề kinh doanh. Do đó, Tập đoàn đã thực hiện đánh giá sơ bộ ảnh hưởng của vấn đề này đối với hoạt động kinh doanh của Tập đoàn như là đánh giá khả năng thu hồi tài sản, đánh giá cách ghi nhận tài sản và nợ phải trả, cũng như đánh giá các điều kiện cho vay của các hợp đồng tin dụng của Tập đoàn... Tại ngày phê chuẩn báo cáo tài chính hợp nhất này, Ban Điều hành chưa thể ước tính được một cách đáng tin cây ảnh hưởng của Covid-19 đến kết quả tài chính trong năm kế toán tiếp theo của Tập đoàn. Ban Điều hành sẽ tiếp tục theo dõi và đưa ra những biện pháp phù hợp để giảm thiểu rủi ro có thể phát sinh.
+
+Báo cáo tài chính hợp nhất đã được Ban Điều hành phê chuẩn ngày 15 tháng 3 năm 2021.
+
+41

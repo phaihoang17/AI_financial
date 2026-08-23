@@ -1,0 +1,2357 @@
+===== PAGE 1 =====
+CÔNG TY CP CONTAINER VIỆT NAM
+
+Số: 48/2024/VSC
+
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+
+Độc lập - Tự do - Hạnh phúc
+
+Hải Phòng, ngày 29 tháng 03 năm 2024
+
+Kính gửi: - ỦY BAN CHỨNG KHOÁN NHÀ NƯỚC
+- SỞ GIAO ĐỊCH CHỨNG KHOÁN TP. HỒ CHÍ MINH
+
+Căn cứ vào các quy định công bố thông tin của tổ chức niêm yết trên thị trường chứng khoán, Công ty Cổ phần Container Việt Nam (mã chứng khoán: VSC) xin giải trình về việc Lợi nhuận sau thuế thu nhập doanh nghiệp tại Báo cáo kết quả hoạt động kinh doanh năm 2023 so với báo cáo cùng kỳ năm trước có biển động từ 10% trở lên trên Báo cáo tài chính hợp nhất sau kiểm toán như sau:
+
+Đơn vị tính: đồng
+
+<table><tr><td>Stt</td><td>Chỉ tiêu</td><td>Năm 2023</td><td>Năm 2022</td><td>Chênh lệch giảm</td><td>Tỷ lệ giảm</td></tr><tr><td>1</td><td>Lợi nhuận sau thuế TNDN</td><td>199.022.025.920</td><td>393.139.126.743</td><td>194.117.100.823</td><td>49,3%</td></tr></table>
+
+Nguyên nhân chủ yếu:
+
+- Chi phí tài chính (Chi phí lãi vay): Trong năm 2023, thực hiện chủ trương đầu tư của Đại hội đồng cổ đông phê duyệt, Tập đoàn đã ghi nhận khoản Chi phí lãi vay ngân hàng tăng 170 tỷ đồng phát sinh từ việc vay vốn ngân hàng để đầu tư các dự án.
+
+- Chi phí bán hàng: Tập đoàn ghi nhận việc chi phí bán hàng tăng 14 tỷ đồng so với năm 2022 do doanh thu bán hàng và cung cấp dịch vụ tăng 8,6% so với cùng kỳ.
+
+- Chi phí quản lý doanh nghiệp: Tập đoàn ghi nhận việc chi phí quản lý doanh nghiệp tăng 27 tỷ đồng so với năm 2022 do Tập đoàn bắt đầu triển khai các dự án tư vấn chuyển đổi số, tư vấn tái cấu trúc doanh nghiệp trong năm 2023.
+
+Đây là các nguyên nhân chính khiến lợi nhuận sau thuế năm 2023 giảm 194.117.100.823 đồng, tương ứng với giảm 49,3% so với năm 2022.
+
+Trân trọng.
+
+Nơi nhận:
+
+- Nhu trên
+
+- Luu VT, TCKT
+
+TỔNG GIÁM ĐỐC
+
+===== PAGE 2 =====
+CÔNG TY CỔ PHẦN CONTAINER VIỆT NAM
+
+BÁO CÁO TÀI CHÍNH HỢP NHẤT
+
+CHO NĂM TÀI CHÍNH KẾT THỨC NGÀY 31 THÁNG 12 NĂM 2023
+
+===== PAGE 3 =====
+「
+「
+「
+「
+「
+「
+「
+「
+「
+」
+」
+」
+」
+」
+」
+」
+
+CÔNG TY CỔ PHẦN CONTAINER VIỆT NAM
+
+BÁO CÁO TÀI CHÍNH HỢP NHẤT
+
+CHO NĂM TÀI CHÍNH KẾT THỨC NGÀY 31 THÁNG 12 NĂM 2023
+
+NỘI DUNG
+
+TRANG
+
+Thông tin về doanh nghiệp 1
+
+Báo cáo của Ban Giám đốc 2
+
+Báo cáo kiểm toán độc lập 3
+
+Bảng cân đối kế toán hợp nhất (Mẫu số B 01 – DN/HN) 5
+
+Báo cáo kết quả hoạt động kinh doanh hợp nhất (Mẫu số B 02 – DN/HN) 7
+
+Báo cáo lưu chuyển tiền tệ hợp nhất (Mẫu số B 03 – DN/HN) 8
+
+Thuyết minh báo cáo tài chính hợp nhất (Mẫu số B 09 – DN/HN) 10
+
+===== PAGE 4 =====
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+47
+48
+49
+50
+51
+52
+53
+54
+55
+56
+57
+58
+59
+60
+61
+62
+63
+64
+65
+66
+67
+68
+69
+70
+71
+72
+73
+74
+75
+76
+77
+78
+79
+80
+81
+82
+83
+84
+85
+86
+87
+88
+89
+90
+
+CÔNG TY CỔ PHẦN CONTAINER VIỆT NAM
+
+THÔNG TIN VỀ DOANH NGHIỆP
+
+Giấy Chứng nhận
+
+Đăng ký Doanh nghiệp Sô 0200453688 để ngày 1 tháng 4 năm 2002
+
+<table><tr><td></td><td colspan="2">Giấy Chứng nhận Đăng ký Doanh nghiệp số 0200453688 và các thay đổi Giấy Chứng nhận Đăng ký Doanh nghiệp do Sở Kế hoạch và Đầu tư Thành phố Hải Phòng cấp. Giấy Chứng nhận Đăng ký Doanh nghiệp thay đổi gần nhất (lần thứ hai mươi sáu) được cấp ngày 28 tháng 2 năm 2024.</td></tr><tr><td>Hội đồng Quản trị</td><td>Ông Bùi Minh HưngÔng Nguyễn Việt HòaÔng Văn Trần HoànÔng Tạ Công ThôngÔng Cáp Trọng CườngÔng Nguyễn Đức DũngÔng Nguyễn Việt Trung</td><td>Chủ tịch (từ ngày 10/3/2023)Chủ tịch (cho đến ngày 10/3/2023)Thành viênThành viênThành viênThành viênThành viên(cho đến ngày 10/3/2023)</td></tr><tr><td>Ban Giám đốc</td><td>Ông Tạ Công ThôngÔng Cáp Trọng CườngÔng Bùi Minh HưngÔng Nguyễn Thế TrọngBà Trương Anh ThưÔng Phan Văn Hưng</td><td>Tổng Giám đốc(từ ngày 28/2/2024)Giám đốc Marketing(cho đến ngày 28/2/2024)Tổng Giám đốc(từ ngày 10/3/2023 cho đến ngày 28/2/2024)Giám đốc khai thác(cho đến ngày 10/3/2023)Tổng Giám đốc(cho đến ngày 10/3/2023)Giám đốc kỹ thuậtGiám đốc tài chính(từ ngày 1/3/2024)Giám đốc tài chính(cho đến ngày 1/3/2024)</td></tr><tr><td>Ban Kiểm soát</td><td>Ông Trương Lý Thế AnhBà Nguyễn Thị Kim NhãBà Ngô Thị Thủy LươngBà Nghiêm Thị Thủy DươngBà Nguyễn Thị Minh Lan</td><td>Trưởng ban (từ ngày 10/3/2023)Trưởng ban (cho đến ngày 10/3/2023)Thành viên (từ ngày 10/3/2023)Thành viênThành viên(cho đến ngày 10/3/2023)</td></tr><tr><td>Người đại diện theo pháp luật</td><td>Ông Tạ Công ThôngÔng Cáp Trọng CườngÔng Bùi Minh Hưng</td><td>Tổng Giám đốc (từ ngày 28/2/2024)Tổng Giám đốc(từ ngày 13/3/2023 cho đến ngày 28/2/2024)Tổng Giám đốc(cho đến ngày 13/3/2023)</td></tr><tr><td>Trụ sở chính</td><td colspan="2">Số 11 Võ Thị Sáu, Phường Máy Tơ, Quận Ngô Quyền, Thành phố Hải Phòng, Việt Nam</td></tr><tr><td>Công ty kiểm toán</td><td colspan="2">Chi nhánh Công ty TNHH PwC (Việt Nam) tại Hà Nội</td></tr></table>
+
+1
+
+===== PAGE 5 =====
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+47
+48
+49
+50
+51
+52
+53
+54
+55
+56
+57
+58
+59
+60
+61
+62
+63
+64
+65
+66
+67
+68
+69
+70
+71
+72
+73
+74
+75
+76
+77
+78
+79
+80
+81
+82
+83
+84
+85
+86
+87
+88
+89
+90
+
+CÔNG TY CỔ PHẦN CONTAINER VIỆT NAM
+
+BÁO CÁO CỦA BAN GIÁM ĐỐC
+
+Trách nhiệm của Ban Giám đốc Công ty đối với báo cáo tài chính hợp nhất
+
+Ban Giám đốc của Công ty Cổ phần Container Việt Nam ("Công ty") chịu trách nhiệm lập báo cáo tài chính hợp nhất thể hiện trung thực và hợp lý tình hình tài chính hợp nhất của Công ty và các công ty con (gọi chung là "Tập đoàn") tại ngày 31 tháng 12 năm 2023, cũng như kết quả hoạt động kinh doanh hợp nhất và tình hình lưu chuyển tiền tệ hợp nhất của năm tài chính kết thúc vào ngày nếu trên. Trong việc lập báo cáo tài chính hợp nhất này, Ban Giám đốc được yêu cầu phải:
+
+- chọn lựa các chính sách kế toán phù hợp và áp dụng một cách nhất quán;
+
+- thực hiện các xét đoán và ước tính một cách hợp lý và thận trọng; và
+
+- lập báo cáo tài chính hợp nhất trên cơ sở Tập đoàn hoạt động liên tục trừ khi giả định Tập đoàn hoạt động liên tục là không phù hợp.
+
+Ban Giám đốc của Công ty chịu trách nhiệm bảo đảm rằng các số sách kế toán đúng dẫn đã được thiết lập và duy trì để thể hiện tình hình tài chính hợp nhất của Tập đoàn với độ chính xác hợp lý tại mọi thời điểm và để làm cơ sở lập báo cáo tài chính hợp nhất tuân thủ theo chế độ kế toán được trình bày ở Thuyết minh 2 của báo cáo tài chính hợp nhất. Ban Giám đốc của Công ty cũng chịu trách nhiệm đối với việc bảo vệ các tài sản của Tập đoàn và thực hiện các biện pháp hợp lý để ngăn ngừa và phát hiện các gian lận hoặc nhằm lẫn.
+
+Phê chuẩn báo cáo tài chính hợp nhất
+
+Theo đây, chúng tôi phê chuẩn báo cáo tài chính hợp nhất đính kèm từ trang 5 đến trang 62. Báo cáo tài chính hợp nhất này phần ánh trung thực và hợp lý tình hình tài chính hợp nhất của Tập đoàn tại ngày 31 tháng 12 năm 2023 cũng như kết quả hoạt động kinh doanh hợp nhất và tình hình lưu chuyển tiền tệ hợp nhất cho năm tài chính kết thúc cùng ngày nếu trên, phù hợp với các Chuẩn mực Kế toán Việt Nam, Chế độ Kế toán Doanh nghiệp Việt Nam và các quy định pháp lý có liên quan đến việc lập và trình bày báo cáo tài chính hợp nhất.
+
+Thay mặt Ban Giám đốc
+
+Tạ Công Thông
+
+Tổng Giám đốc/
+
+Người đại diện theo pháp luật
+
+Hải Phòng, nước CHXHCN Việt Nam
+
+Ngày 29 tháng 3 năm 2024
+
+2
+
+===== PAGE 6 =====
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+47
+48
+49
+50
+51
+52
+53
+54
+55
+56
+57
+58
+59
+60
+61
+62
+63
+64
+65
+66
+67
+68
+69
+70
+71
+72
+73
+74
+75
+76
+77
+78
+79
+80
+81
+82
+83
+84
+85
+86
+87
+88
+89
+90
+
+pwc
+
+BÁO CÁO KIÊM TOÁN ĐỘC LẬP
+
+GỦI CÁC CỔ ĐÔNG CỦA CÔNG TY CỔ PHẦN CONTAINER VIỆT NAM
+
+Chúng tối đã kiểm toán báo cáo tài chính hợp nhất kèm theo của Công ty Cổ phần Container Việt Nam ("Công ty") và các công ty con (gọi chung là "Tập đoàn") được lập ngày 31 tháng 12 năm 2023 và được Ban Giám đốc của Công ty phê chuẩn ngày 29 tháng 3 năm 2024. Báo cáo tài chính hợp nhất này bao gồm: bằng cân đối kế toán hợp nhất tại ngày 31 tháng 12 năm 2023, báo cáo kết quả hoạt động kinh doanh hợp nhất và báo cáo lưu chuyển tiền tệ hợp nhất cho năm tài chính kết thúc cùng ngày nếu trên, và thuyết minh báo cáo tài chính hợp nhất bao gồm các chính sách kế toán chủ yếu từ trang 5 đến trang 62.
+
+Trách nhiệm của Ban Giám đốc
+
+Ban Giám đốc của Công ty chịu trách nhiệm về việc lập và trình bày trung thực và hợp lý báo cáo tài chính hợp nhất của Tập đoàn theo các Chuẩn mực Kế toán Việt Nam, Chế độ Kế toán Doanh nghiệp Việt Nam và các quy định pháp lý có liên quan đến việc lập và trình bày báo cáo tài chính hợp nhất và chịu trách nhiệm về kiểm soát nội bộ mà Ban Giám đốc xác định là cần thiết để đảm bảo cho việc lập và trình bày báo cáo tài chính hợp nhất không có sai sót trọng yếu do gian lận hoặc nhằm lẫn.
+
+Trách nhiệm của Kiểm toán viên
+
+Trách nhiệm của chúng tôi là đưa ra ý kiến về báo cáo tài chính hợp nhất này dựa trên kết quả cuộc kiểm toán. Chứng tôi đã tiến hành kiểm toán theo các Chuẩn mực Kiểm toán Việt Nam. Các chuẩn mực này yêu cầu chúng tôi tuân thủ chuẩn mực và các quy định về đạo đức nghề nghiệp và lập kế hoạch và thực hiện cuộc kiểm toán để đạt được sự đảm bảo hợp lý về việc liệu báo cáo tài chính hợp nhất của Công ty có còn sai sót trọng yếu hay không.
+
+Công việc kiểm toán bao gồm thực hiện các thủ tục nhằm thu thập các bằng chứng kiểm toán về các số liệu và thuyết minh trên báo cáo tài chính hợp nhất. Các thủ tục kiểm toán được lựa chọn dựa trên xét đoán của kiểm toán viên, bao gồm đánh giá rủi ro có sai sót trọng yếu trong báo cáo tài chính hợp nhất do gian lân hoặc nhằm lẫn. Khi thực hiện đánh giá các rủi ro này, kiểm toán viên đã xem xét kiểm soát nội bộ của Tập đoàn liên quan đến việc lập và trình bày báo cáo tài chính hợp nhất trung thực và hợp lý nhằm thiết kế các thủ tục kiểm toán phù hợp với tỉnh hình thực tế, tuy nhiên không nhằm mục đích đưa ra ý kiến về hiệu quả của kiểm soát nội bộ của Tập đoàn. Công việc kiểm toán cũng bao gồm việc đánh giá tính thích hợp của các chính sách kế toán được áp dụng và tính hợp lý của các ước tính kế toán của Ban Giám đốc của Công ty, cũng như đánh giá việc trình bày tổng thể báo cáo tài chính hợp nhất.
+
+Chúng tôi tin tưởng rằng các bằng chứng kiểm toán mà chúng tôi đã thu thập được là đầy đủ và thích hợp để làm cơ sở cho ý kiến kiểm toán của chúng tôi.
+
+Chi nhánh Công ty TNHH PwC (Việt Nam) tại Hà Nội
+
+Tầng 16, Keangnam Hanoi Landmark Tower, Lô E6, Khu Đô thị Cầu Giấy, Phường Mễ Trì, Quận Nam Từ Liêm, Hà Nội, Việt Nam
+
+DT: +84 24 3946 2246, www.pwc.com/vn
+
+3
+
+===== PAGE 7 =====
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+
+The image is too blurry to recognize any text content.
+
+pwc
+
+Ý kiến của Kiểm toán viên
+
+Theo ý kiến của chúng tôi, báo cáo tài chính hợp nhất đã phần ánh trung thực và hợp lý, trên các khía cạnh trong yếu, tỉnh hình tài chính hợp nhất của Tập đoàn tại ngày 31 tháng 12 năm 2023, cũng như kết quả hoạt động kinh doanh hợp nhất và tỉnh hình lưu chuyển tiền tệ hợp nhất của Tập đoàn cho năm tài chính kết thúc cùng ngày nếu trên, phù hợp với các Chuẩn mực Kế toán Việt Nam, Chế độ Kế toán Doanh nghiệp Việt Nam và các quy định pháp lý có liên quan đến việc lập và trình bày báo cáo tài chính hợp nhất.
+
+Thay mặt và đại diện cho Chi nhánh Công ty TNHH PwC (Việt Nam) tại Hà Nội
+
+Trần Hồng Kiên
+
+Số Giấy CN ĐKHN kiểm toán:
+
+0298-2023-006-1
+
+Chữ ký được ủy quyền
+
+Đăng Thái Sơn
+
+Số Giấy CN ĐKHN kiểm toán:
+
+4668-2023-006-1
+
+Số hiệu báo cáo kiểm toán: HAN 3726
+
+Hà Nội, ngày 29 tháng 3 năm 2024
+
+4
+
+===== PAGE 8 =====
+- - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+CÔNG TY CỔ PHẦN CONTAINER VIỆT NAM
+
+Mẫu số B 01 – DN/HN
+
+BÀNG CÂN ĐỐI KẾ TOÁN HỢP NHẤT
+
+<table><tr><td rowspan="2">Mã số</td><td rowspan="2">TÀI SẢN</td><td rowspan="2">Thuyết minh</td><td colspan="2">Tại ngày 31 tháng 12 năm</td></tr><tr><td>2023 VND</td><td>2022 VND</td></tr><tr><td>100</td><td>TÀI SẢN NGẮN HẠN</td><td></td><td>1.346.116.796.163</td><td>1.305.795.538.303</td></tr><tr><td>110</td><td>Tiền và các khoản tương đương tiền</td><td>3</td><td>370.506.274.358</td><td>360.383.344.706</td></tr><tr><td>111</td><td>Tiền</td><td></td><td>135.606.274.358</td><td>80.590.591.281</td></tr><tr><td>112</td><td>Các khoản tương đương tiền</td><td></td><td>234.900.000.000</td><td>279.792.753.425</td></tr><tr><td>120</td><td>Đầu tư tài chính ngắn hạn</td><td></td><td>425.016.299.943</td><td>239.367.439.500</td></tr><tr><td>123</td><td>Đầu tư nằm giữ đến ngày đáo hạn</td><td>10(a)</td><td>425.016.299.943</td><td>239.367.439.500</td></tr><tr><td>130</td><td>Các khoản phải thu ngắn hạn</td><td></td><td>464.364.981.166</td><td>560.183.580.705</td></tr><tr><td>131</td><td>Phải thu ngắn hạn của khách hàng</td><td>4</td><td>205.263.011.710</td><td>188.497.724.901</td></tr><tr><td>132</td><td>Trả trước cho người bán ngắn hạn</td><td>5</td><td>13.578.690.375</td><td>8.315.243.630</td></tr><tr><td>136</td><td>Phải thu ngắn hạn khác</td><td>6(a)</td><td>247.560.452.918</td><td>364.380.471.256</td></tr><tr><td>137</td><td>Dự phòng phải thu ngắn hạn khó đòi</td><td>4</td><td>(2.037.173.837)</td><td>(1.009.859.082)</td></tr><tr><td>140</td><td>Hàng tồn kho</td><td></td><td>29.065.056.002</td><td>28.028.085.828</td></tr><tr><td>141</td><td>Hàng tồn kho</td><td>7</td><td>29.065.056.002</td><td>28.028.085.828</td></tr><tr><td>150</td><td>Tài sản ngắn hạn khác</td><td></td><td>57.164.184.694</td><td>117.833.087.564</td></tr><tr><td>151</td><td>Chi phí trả trước ngắn hạn</td><td>8(a)</td><td>20.161.906.312</td><td>43.834.422.724</td></tr><tr><td>152</td><td>Thuế giá trị gia tăng (&quot;GTGT&quot;) được khấu trừ</td><td>13(a)</td><td>35.389.709.327</td><td>72.728.817.007</td></tr><tr><td>153</td><td>Thuế và các khoản khác phải thu Nhà nước</td><td>13(b)</td><td>1.612.569.055</td><td>1.269.847.833</td></tr><tr><td>200</td><td>TÀI SẢN DÀI HẠN</td><td></td><td>3.844.809.057.925</td><td>3.061.014.785.790</td></tr><tr><td>210</td><td>Các khoản phải thu dài hạn</td><td></td><td>827.203.931.552</td><td>827.194.723.552</td></tr><tr><td>216</td><td>Phải thu dài hạn khác</td><td>6(b)</td><td>827.203.931.552</td><td>827.194.723.552</td></tr><tr><td>220</td><td>Tài sản cố định</td><td></td><td>643.931.552.904</td><td>814.375.685.400</td></tr><tr><td>221</td><td>Tài sản cố định hữu hình</td><td>9(a)</td><td>632.776.216.056</td><td>808.495.656.154</td></tr><tr><td>222</td><td>Nguyên giá</td><td></td><td>2.556.974.350.993</td><td>2.545.081.398.487</td></tr><tr><td>223</td><td>Giá trị khấu hao lũy kế</td><td></td><td>(1.924.198.134.937)</td><td>(1.736.585.742.333)</td></tr><tr><td>224</td><td>Tài sản cố định thuê tài chính</td><td></td><td>5.043.501.523</td><td>-</td></tr><tr><td>225</td><td>Nguyên giá</td><td></td><td>5.187.601.567</td><td>-</td></tr><tr><td>226</td><td>Giá trị khấu hao lũy kế</td><td></td><td>(144.100.044)</td><td>-</td></tr><tr><td>227</td><td>Tài sản cố định vô hình</td><td>9(b)</td><td>6.111.835.325</td><td>5.880.029.246</td></tr><tr><td>228</td><td>Nguyên giá</td><td></td><td>22.239.958.750</td><td>21.654.078.750</td></tr><tr><td>229</td><td>Giá trị khấu hao lũy kế</td><td></td><td>(16.128.123.425)</td><td>(15.774.049.504)</td></tr><tr><td>240</td><td>Tài sản dở dang dài hạn</td><td></td><td>-</td><td>11.928.306.000</td></tr><tr><td>242</td><td>Chi phí xây dựng cơ bản dở dang</td><td></td><td>-</td><td>11.928.306.000</td></tr><tr><td>250</td><td>Đầu tư tài chính dài hạn</td><td></td><td>1.470.217.463.204</td><td>486.680.522.471</td></tr><tr><td>252</td><td>Đầu tư vào công ty liên kết</td><td>10(b)</td><td>1.470.062.463.204</td><td>486.525.522.471</td></tr><tr><td>253</td><td>Đầu tư góp vốn vào đơn vị khác</td><td>10(c)</td><td>155.000.000</td><td>155.000.000</td></tr><tr><td>260</td><td>Tài sản dài hạn khác</td><td></td><td>903.456.110.265</td><td>920.835.548.367</td></tr><tr><td>261</td><td>Chi phí trả trước dài hạn</td><td>8(b)</td><td>898.439.930.657</td><td>916.126.213.608</td></tr><tr><td>262</td><td>Tài sản thuế thu nhập hoãn lại</td><td></td><td>18.611.932</td><td>108.305.270</td></tr><tr><td>263</td><td>Thiết bị, vật tư, phụ tùng thay thế dài hạn</td><td></td><td>428.200.000</td><td>428.200.000</td></tr><tr><td>269</td><td>Lợi thế thương mại</td><td>11</td><td>4.569.367.676</td><td>4.172.829.489</td></tr><tr><td>270</td><td>TỔNG TÀI SẢN</td><td></td><td>5.190.925.854.088</td><td>4.366.810.324.093</td></tr></table>
+
+Các thuyết minh từ trang 10 đến trang 62 là một phần cấu thành báo cáo tài chính hợp nhất này.
+
+5
+
+===== PAGE 9 =====
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+CÔNG TY CÓ PHẦN CONTAINER VIỆT NAM
+
+Mẫu số B 01 – DN/HN
+
+BÀNG CÂN ĐỐI KẾ TOÁN HỢP NHẤT (tiếp theo)
+
+<table><tr><td rowspan="2">Mã số</td><td rowspan="2">NGUỒN VỐN</td><td rowspan="2">Thuyết minh</td><td colspan="2">Tại ngày 31 tháng 12 năm</td></tr><tr><td>2023 VND</td><td>2022 VND</td></tr><tr><td>300</td><td>NỘ PHẢI TRẢ</td><td></td><td>1.896.618.956.700</td><td>1.165.609.976.787</td></tr><tr><td>310</td><td>Nợ ngắn hạn</td><td></td><td>403.171.566.331</td><td>433.716.636.921</td></tr><tr><td>311</td><td>Phải trả người bán ngắn hạn</td><td>12</td><td>109.858.794.952</td><td>75.774.962.071</td></tr><tr><td>312</td><td>Người mua trả tiền trước ngắn hạn</td><td></td><td>2.967.706.530</td><td>1.742.927.438</td></tr><tr><td>313</td><td>Thuế và các khoản phải nộp Nhà nước</td><td>13(c)</td><td>29.317.673.914</td><td>24.409.235.577</td></tr><tr><td>314</td><td>Phải trả người lao động</td><td>14</td><td>55.092.480.977</td><td>44.359.416.695</td></tr><tr><td>315</td><td>Chi phí phải trả ngắn hạn</td><td>15(a)</td><td>58.870.360.556</td><td>18.674.422.598</td></tr><tr><td>319</td><td>Phải trả ngắn hạn khác</td><td>16</td><td>14.271.499.464</td><td>55.625.319.941</td></tr><tr><td>320</td><td>Vay và nợ thuê tài chính ngắn hạn</td><td>17(a)</td><td>118.835.910.443</td><td>208.400.000.000</td></tr><tr><td>322</td><td>Quỹ khen thưởng, phúc lợi</td><td>18</td><td>13.957.139.495</td><td>4.730.352.601</td></tr><tr><td>330</td><td>Nợ dài hạn</td><td></td><td>1.493.447.390.369</td><td>731.893.339.866</td></tr><tr><td>333</td><td>Chi phí phải trả dài hạn</td><td>15(b)</td><td>8.502.467.705</td><td>-</td></tr><tr><td>337</td><td>Phải trả dài hạn khác</td><td></td><td>1.607.000.000</td><td>30.000.000</td></tr><tr><td>338</td><td>Vay và nợ thuê tài chính dài hạn</td><td>17(b)</td><td>1.449.749.013.010</td><td>700.000.000.000</td></tr><tr><td>341</td><td>Thuế thu nhập hoãn lại phải trả</td><td>19</td><td>30.412.872.712</td><td>30.858.278.235</td></tr><tr><td>342</td><td>Dự phòng phải trả dài hạn</td><td></td><td>3.176.036.942</td><td>1.005.061.631</td></tr><tr><td>400</td><td>VỐN CHỦ SỞ HỮU</td><td></td><td>3.294.306.897.388</td><td>3.201.200.347.306</td></tr><tr><td>410</td><td>Vốn chủ sở hữu</td><td></td><td>3.294.306.897.388</td><td>3.201.200.347.306</td></tr><tr><td>411</td><td>Vốn góp của chủ sở hữu</td><td>20, 21</td><td>1.333.956.420.000</td><td>1.212.693.970.000</td></tr><tr><td>411a</td><td>- Cổ phiếu phố thông có quyền biểu quyết</td><td></td><td>1.333.956.420.000</td><td>1.212.693.970.000</td></tr><tr><td>412</td><td>Thặng dư vốn cổ phần</td><td>21</td><td>39.403.521.246</td><td>39.403.521.246</td></tr><tr><td>414</td><td>Vốn khác của chủ sở hữu</td><td>21</td><td>1.382.700.000</td><td>-</td></tr><tr><td>418</td><td>Quỹ đầu tư phát triển</td><td>21</td><td>886.626.243.776</td><td>875.542.995.447</td></tr><tr><td>420</td><td>Quỹ khác thuộc vốn chủ sở hữu</td><td>21</td><td>-</td><td>1.382.700.000</td></tr><tr><td>421</td><td>Lợi nhuận sau thuế (&quot;LNST&quot;) chưa phân phối</td><td>21</td><td>620.034.996.643</td><td>664.028.970.953</td></tr><tr><td>421a</td><td>- LNST chưa phân phố lũy kế của các năm trước</td><td></td><td>496.411.636.986</td><td>546.685.315.357</td></tr><tr><td>421b</td><td>- LNST chưa phân phối của năm nay</td><td></td><td>123.623.359.657</td><td>117.343.655.596</td></tr><tr><td>429</td><td>Lợi ích cổ đông không kiểm soát</td><td>21</td><td>412.903.015.723</td><td>408.148.189.660</td></tr><tr><td>440</td><td>TỔNG NGUỒN VỐN</td><td></td><td>5.190.925.854.088</td><td>4.366.810.324.093</td></tr></table>
+
+Phạm Thị Thúy Ngọc
+Người lập
+
+Phạm Thanh Tuân
+Kế toán trường
+
+Tạ Công Thông
+
+Tổng Giám đốc/
+
+Người đại diện theo pháp luật
+
+Ngày 29 tháng 3 năm 2024
+
+Các thuyết minh từ trang 10 đến trang 62 là một phần cấu thành báo cáo tài chính hợp nhất này.
+
+6
+
+===== PAGE 10 =====
+「
+「
+「
+「
+「
+「
+「
+「
+「
+」
+」
+」
+」
+」
+」
+」
+
+CÔNG TY CÓ PHẦN CONTAINER VIỆT NAM
+
+Mẫu số B 02 – DN/HN
+
+BÁO CÁO KẾT QUẢ HOẠT ĐỘNG KINH DOANH HỢP NHẤT
+
+<table><tr><td rowspan="2">Mã số</td><td rowspan="2"></td><td rowspan="2">Thuyết minh</td><td colspan="2">Năm tài chính kết thúc ngày 31 tháng 12 năm</td></tr><tr><td>2023 VND</td><td>2022 VND</td></tr><tr><td>01</td><td>Doanh thu cung cấp dịch vụ</td><td></td><td>2.180.945.411.694</td><td>2.007.397.494.749</td></tr><tr><td>02</td><td>Các khoản giảm trừ doanh thu</td><td></td><td>-</td><td>-</td></tr><tr><td>10</td><td>Doanh thu thuần về cung cấp dịch vụ</td><td>24</td><td>2.180.945.411.694</td><td>2.007.397.494.749</td></tr><tr><td>11</td><td>Giá vốn dịch vụ cung cấp</td><td>25</td><td>(1.526.506.042.396)</td><td>(1.348.668.597.428)</td></tr><tr><td>20</td><td>Lợi nhuận gộp về cung cấp dịch vụ</td><td></td><td>654.439.369.298</td><td>658.728.897.321</td></tr><tr><td>21</td><td>Doanh thu hoạt động tài chính</td><td>26</td><td>31.124.814.810</td><td>34.600.874.362</td></tr><tr><td>22</td><td>Chi phí tài chính</td><td>27</td><td>(172.619.631.145)</td><td>(5.019.819.879)</td></tr><tr><td>23</td><td>- Trong đó: Chi phí lãi vay</td><td></td><td>(170.446.855.907)</td><td>(1.104.887.671)</td></tr><tr><td>24</td><td>Phần lỗ trong công ty liên kết</td><td>10(b)</td><td>(17.959.975.663)</td><td>(19.722.583.786)</td></tr><tr><td>25</td><td>Chi phí bán hàng</td><td>28</td><td>(94.066.467.806)</td><td>(79.193.978.606)</td></tr><tr><td>26</td><td>Chi phí quản lý doanh nghiệp</td><td>29</td><td>(132.883.063.453)</td><td>(105.390.698.465)</td></tr><tr><td>30</td><td>Lợi nhuận thuần từ hoạt động kinh doanh</td><td></td><td>268.035.046.041</td><td>484.002.690.947</td></tr><tr><td>31</td><td>Thu nhập khác</td><td>30</td><td>3.887.437.970</td><td>1.255.173.608</td></tr><tr><td>32</td><td>Chi phí khác</td><td>31</td><td>(6.791.896.532)</td><td>(8.345.134.523)</td></tr><tr><td>40</td><td>Lỗ khác</td><td></td><td>(2.904.458.562)</td><td>(7.089.960.915)</td></tr><tr><td>50</td><td>Tổng lợi nhuận kế toán trước thuế</td><td></td><td>265.130.587.479</td><td>476.912.730.032</td></tr><tr><td>51</td><td>Chi phí thuế thu nhập doanh nghiệp (“TNDN”) hiện hành</td><td>32</td><td>(66.464.273.744)</td><td>(83.968.553.635)</td></tr><tr><td>52</td><td>Chi phí thuế TNDN hoãn lại</td><td>32</td><td>355.712.185</td><td>194.950.346</td></tr><tr><td>60</td><td>Lợi nhuận sau thuế TNDN</td><td></td><td>199.022.025.920</td><td>393.139.126.743</td></tr><tr><td></td><td>Phân bổ cho:</td><td></td><td></td><td></td></tr><tr><td>61</td><td>Cổ đông của Công ty</td><td></td><td>123.623.359.657</td><td>314.293.593.407</td></tr><tr><td>62</td><td>Cổ đông không kiểm soát</td><td></td><td>75.398.666.263</td><td>78.845.533.336</td></tr><tr><td>70</td><td>Lãi cơ bản trên cổ phiếu</td><td>22(a)</td><td>844</td><td>2.222</td></tr><tr><td>71</td><td>Lãi suy giảm trên cổ phiếu</td><td>22(b)</td><td>844</td><td>2.222</td></tr></table>
+
+Phạm Thị Thúy Ngọc
+Người lập
+
+Phạm Thanh Tuân
+Kế toán trường
+
+Tạ Công Thông
+Tổng Giám đốc/
+Người đại diện theo pháp luật
+Ngày 29 tháng 3 năm 2024
+
+Các thuyết minh từ trang 10 đến trang 62 là một phần cấu thành báo cáo tài chính hợp nhất này.
+
+7
+
+===== PAGE 11 =====
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+CÔNG TY CÓ PHẦN CONTAINER VIỆT NAM
+
+Mẫu số B 03 – DN/HN
+
+BÁO CÁO LƯU CHUYÊN TIỀN TỆ HỢP NHẤT (Theo phương pháp gián tiếp)
+
+<table><tr><td rowspan="2">Mã số</td><td rowspan="2">Thuyết minh</td><td colspan="2">Năm tài chính kết thúc ngày 31 tháng 12 năm</td></tr><tr><td>2023 VND</td><td>2022 VND</td></tr><tr><td colspan="4">LU&#x27;U CHUYÊN TIÊN TỪ HOẠT ĐỘNG KINH DOANH</td></tr><tr><td>01</td><td>Lợi nhuận kế toán trước thuế Điều chỉnh cho các khoản:</td><td>265.130.587.479</td><td>476.912.730.032</td></tr><tr><td>02</td><td>Khấu hao tài sản cố định (&quot;TSCĐ&quot;)</td><td>193.367.525.445</td><td>201.526.522.056</td></tr><tr><td>03</td><td>Các khoản dự phòng</td><td>3.198.290.066</td><td>(139.225.749)</td></tr><tr><td>04</td><td>Lãi chênh lệch tỷ giá hối đoái do đánh giá lại các khoản mục tiền tệ có gốc ngoại tệ</td><td>(415.157.851)</td><td>(154.840.841)</td></tr><tr><td>05</td><td>Lãi từ hoạt động đầu tư</td><td>(13.136.829.741)</td><td>(14.146.613.917)</td></tr><tr><td>06</td><td>Chi phí lãi vay và các chi phí đi vay khác</td><td>170.446.855.907</td><td>1.104.887.671</td></tr><tr><td>08</td><td>Lợi nhuận từ hoạt động kinh doanh trước những thay đổi vốn lưu động</td><td>618.591.271.305</td><td>665.103.459.252</td></tr><tr><td>09</td><td>(Tăng)/giảm các khoản phải thu</td><td>(4.835.515)</td><td>15.582.644.924</td></tr><tr><td>10</td><td>Tăng hàng tồn kho</td><td>(1.036.970.174)</td><td>(3.143.075.771)</td></tr><tr><td>11</td><td>Tăng/(giảm) các khoản phải trả</td><td>74.187.947.332</td><td>(90.875.177.898)</td></tr><tr><td>12</td><td>Giảm chi phí trả trước</td><td>41.862.850.975</td><td>420.820.031</td></tr><tr><td>14</td><td>Tiền lãi vay và các chi phí đi vay khác đã trả</td><td>(2.450.000.000)</td><td>-</td></tr><tr><td>15</td><td>Thuế TNDN đã nộp</td><td>(62.414.431.030)</td><td>(84.803.675.087)</td></tr><tr><td>17</td><td>Tiền chi khác từ hoạt động kinh doanh (*)</td><td>(26.299.593.744)</td><td>(30.099.887.900)</td></tr><tr><td>20</td><td>Lưu chuyển tiền thuần từ hoạt động kinh doanh</td><td>642.436.239.149</td><td>472.185.107.551</td></tr><tr><td colspan="4">LU&#x27;U CHUYÊN TIÊN TỪ HOẠT ĐỘNG ĐẦU TỪ</td></tr><tr><td>21</td><td>Tiền chi để mua sắm, xây dựng TSCĐ và các tài sản dài hạn khác</td><td>(5.376.972.837)</td><td>(137.803.313.599)</td></tr><tr><td>22</td><td>Tiền thu từ thanh lý, nhượng bán TSCĐ và tài sản dài hạn khác</td><td>464.804.091</td><td>1.698.016.484</td></tr><tr><td>23</td><td>Tiền chi mua các công cụ nợ của đơn vị khác</td><td>(601.185.299.943)</td><td>(483.667.439.500)</td></tr><tr><td>24</td><td>Tiền bán lại các công cụ nợ của đơn vị khác</td><td>415.536.439.500</td><td>343.318.900.000</td></tr><tr><td>25</td><td>Tiền chi đầu tư góp vốn vào đơn vị khác</td><td>(998.900.589.799)</td><td>(1.622.277.150.154)</td></tr><tr><td>26</td><td>Tiền thu hồi đầu tư góp vốn vào đơn vị khác</td><td>90.000.000.000</td><td>-</td></tr><tr><td>27</td><td>Tiền thu lãi cho vay, cổ tức và lợi nhuận được chia</td><td>32.590.197.171</td><td>23.749.796.156</td></tr><tr><td>30</td><td>Lưu chuyển tiền thuần từ hoạt động đầu tư</td><td>(1.066.871.421.817)</td><td>(1.874.981.190.613)</td></tr></table>
+
+Các thuyết minh từ trang 10 đến trang 62 là một phần cấu thành báo cáo tài chính hợp nhất này.
+
+8
+
+===== PAGE 12 =====
+____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____
+
+CÔNG TY CỔ PHẦN CONTAINER VIỆT NAM
+
+Mẫu số B 03 – DN/HN
+
+BÁO CÁO LƯU CHUYÊN TIỀN TỆ HỢP NHẤT (Theo phương pháp gián tiếp) (tiếp theo)
+
+<table><tr><td rowspan="2">Mã số</td><td rowspan="2"></td><td rowspan="2">Thuyết minh</td><td colspan="2">Năm tài chính kết thúc ngày 31 tháng 12 năm</td></tr><tr><td>2023 VND</td><td>2022 VND</td></tr><tr><td></td><td colspan="4">LUFU CHUYÊN TIÊN TỪ HOẠT ĐỘNG TÀI CHÍNH</td></tr><tr><td>31</td><td>Tiền thu từ phát hành cổ phiếu, nhận vốn góp của chủ sở hữu</td><td></td><td>-</td><td>5.436.050.000</td></tr><tr><td>33</td><td>Tiền thu từ đi vay</td><td></td><td>886.600.000.000</td><td>908.400.000.000</td></tr><tr><td>34</td><td>Tiền chi trả nợ gốc vay</td><td></td><td>(381.500.000.000)</td><td>-</td></tr><tr><td>35</td><td>Tiền chi trả nợ gốc thuê tài chính</td><td></td><td>(567.950.331)</td><td>-</td></tr><tr><td>36</td><td>Tiền cổ tức, lợi nhuận đã trả cho chủ sở hữu bên ngoài Tập đoàn</td><td></td><td>(70.389.095.200)</td><td>(164.405.647.000)</td></tr><tr><td>40</td><td>Lưu chuyển tiền thuần từ hoạt động tài chính</td><td></td><td>434.142.954.469</td><td>749.430.403.000</td></tr><tr><td>50</td><td>Lưu chuyển tiền thuần trong năm</td><td></td><td>9.707.771.801</td><td>(653.365.680.062)</td></tr><tr><td>60</td><td>Tiền và tương đương tiền đầu năm</td><td>3</td><td>360.383.344.706</td><td>1.013.594.183.927</td></tr><tr><td>61</td><td>Ảnh hưởng của thay đổi tỷ giá hối đoái quy đổi ngoại tệ</td><td></td><td>415.157.851</td><td>154.840.841</td></tr><tr><td>70</td><td>Tiền và tương đương tiền cuối năm</td><td>3</td><td>370.506.274.358</td><td>360.383.344.706</td></tr></table>
+
+(*) Tiền chi khác từ hoạt động kinh doanh bao gồm chỉ trả thường cho Hội đồng Quản trị và chỉ quỹ khen thường phúc lợi.
+
+Các thông tin liên quan tới báo cáo lưu chuyển tiền tệ được được trình bày tại Thuyết minh 34.
+
+Các thuyết minh từ trang 10 đến trang 62 là một phần cấu thành báo cáo tài chính hợp nhất này.
+
+9
+
+===== PAGE 13 =====
+- - - - - - - - - - - - - - - - - - - - - - - - - -
+
+CÔNG TY CỔ PHẦN CONTAINER VIỆT NAM
+
+Mẫu số B 09 – DN/HN
+
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT
+
+CHO NĂM TÀI CHÍNH KẾT THỨC NGÀY 31 THÁNG 12 NĂM 2023
+
+1 ĐẶC ĐIỂM HOẠT ĐỘNG CỦA CÔNG TY
+
+Công ty Cổ phần Container Việt Nam ("Công ty") là một công ty cổ phần được thành lập tại nước CHXHCN Việt Nam theo Giấy Chứng nhận Đăng ký Doanh nghiệp số 0200453688 đề ngày 1 tháng 4 năm 2002 và các thay đổi Giấy Chứng nhận Đăng ký Doanh nghiệp do Sở Kế hoạch và Đầu tư Thành phố Hải Phòng cấp.
+
+Cổ phiếu của Công ty được niêm yết tại Sở Giao dịch Chứng khoán Thành phố Hồ Chí Minh với mã giao dịch cổ phiếu là VSC.
+
+Ngành nghề kinh doanh của Công ty bao gồm:
+
+• Kinh doanh kho bãi và lưu giữ hàng hóa;
+
+• Vận tải hàng hóa ven biển và viễn dương;
+
+• Vận tải hàng hóa đường thủy nội địa;
+
+• Sửa chữa máy móc, thiết bị;
+
+• Bảo dưỡng sửa chữa ô tô và xe có động cơ khác;
+
+- Bán lẻ nhiên liệu động cơ trong các cửa hàng chuyên doanh;
+
+- Hoạt động dịch vụ hỗ trợ trực tiếp cho vận tải đường thủy;
+
+- Hoạt động dịch vụ hỗ trợ khác liên quan đến vận tải;
+
+• Vận tải hàng hóa bằng đường bộ;
+
+- Hoạt động dịch vụ hỗ trợ trực tiếp cho vận tải đường sắt và đường bộ;
+
+• Bốc xếp hàng hóa;
+
+• Cho thuê xe có động cơ; và
+
+• Cho thuê máy móc thiết bị và đồ dùng hữu hình khác.
+
+Chu kỳ sản xuất kinh doanh thông thường của Công ty là 12 tháng.
+
+Tại ngày 31 tháng 12 năm 2023, Công ty có 2 chi nhánh trực thuộc hạch toán phụ thuộc. Chi tiết như sau:
+
+- Chi nhánh Công ty Cổ phần Container Việt Nam – Xí nghiệp cảng Viconship Địa chỉ: Số 1, Đường Ngô Quyền, Phường Đông Hải, Quận Hải An, Thành phố Hải Phòng.
+
+- Chi nhánh Công ty Cổ phần Container Việt Nam
+Địa chỉ: Số 2F Đường số 4(F), Cư xá Ngân Hàng, Phường Tân Thuận Tây, Quận 7, Thành phố Hồ Chí Minh.
+
+Theo Nghị quyết số 13/2023/NQ-HĐQT đề ngày 26 tháng 7 năm 2023, Hội đồng Quản trị của Công ty đã thông qua chủ trương chấm dứt hoạt động của Chi nhánh Công ty Cổ phần Container Việt Nam tại Quảng Ninh. Ngày 24 tháng 8 năm 2023, Công ty đã nhân được Thông báo số 18702/23 của Sở Kế hoạch và Đầu tư Tĩnh Quảng Ninh về việc chấm dứt hoạt động của chi nhánh này.
+
+Tại ngày 31 tháng 12 năm 2023, Tập đoàn có 1.193 nhân viên (tại ngày 31 tháng 12 năm 2022: 1.233 nhân viên).
+
+10
+
+===== PAGE 14 =====
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+CÔNG TY CỔ PHẦN CONTAINER VIỆT NAM
+
+Mẫu số B 09 – DN/HN
+
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT
+
+CHO NĂM TÀI CHÍNH KẾT THÚC NGÀY 31 THÁNG 12 NĂM 2023
+
+1 ĐẶC ĐIỀM HOẠT ĐỘNG CỦA CÔNG TY (TIẾP THEO)
+
+Tại ngày 31 tháng 12 năm 2023, Công ty có 7 công ty con nằm giữ trực tiếp, 2 công ty con nằm giữ gián tiếp qua các công ty con khác và 5 công ty liên kết (Thuyết minh 10(b) và Thuyết minh 10(c)) như sau:
+
+<table><tr><td rowspan="2"></td><td rowspan="2">Nơi thànhlập, đăng kýhoạt động</td><td colspan="2">31/12/2023</td><td colspan="2">31/12/2022</td></tr><tr><td>Tỷ lệsở hữu</td><td>Tỷ lệquyền biểuquyết</td><td>Tỷ lệsở hữu</td><td>Tỷ lệquyền biểuquyết</td></tr><tr><td colspan="6">Công ty con trực tiếp</td></tr><tr><td>1) Công ty Cổ phầnCảng Xanh VIP</td><td>Hải Phòng</td><td>74%</td><td>74%</td><td>74%</td><td>74%</td></tr><tr><td>2) Công ty Cổ phần Đầu tưDịch vụ và Phát triển Xanh</td><td>Hải Phòng</td><td>66%</td><td>66%</td><td>66%</td><td>66%</td></tr><tr><td>3) Công ty Cổ phần ContainerMiền Trung</td><td>Đà Nẵng</td><td>65%</td><td>65%</td><td>65%</td><td>65%</td></tr><tr><td>4) Công ty TNHH Một thànhviên Vận tải biển Ngõi SaoXanh</td><td>Hải Phòng</td><td>100%</td><td>100%</td><td>100%</td><td>100%</td></tr><tr><td>5) Công ty TNHH Một thànhviên Trung tâm LogisticsXanh</td><td>Hải Phòng</td><td>100%</td><td>100%</td><td>100%</td><td>100%</td></tr><tr><td>6) Công ty TNHH Một thànhviên Dịch vụ Cảng Xanh</td><td>Hải Phòng</td><td>100%</td><td>100%</td><td>100%</td><td>100%</td></tr><tr><td>7) Công ty TNHH Một thànhviên Viconship Hồ Chí Minh</td><td>Hồ Chí Minh</td><td>100%</td><td>100%</td><td>100%</td><td>100%</td></tr><tr><td colspan="6">Công ty con gián tiếp</td></tr><tr><td>1) Công ty Cổ phần Cảng cạnQuảng Bình – Đình Vũ</td><td>Hải Phòng</td><td>100%</td><td>100%</td><td>100%</td><td>100%</td></tr><tr><td>2) Công ty Cổ phần ContainerQui Nhơn</td><td>Quy Nhơn,Bình Định</td><td>54,6%</td><td>65%</td><td>54,6%</td><td>65%</td></tr><tr><td colspan="6">Công ty liên kết</td></tr><tr><td>1) Công ty Cổ phần LogisticsCảng Đà Nẵng</td><td>Đà Nẵng</td><td>31%</td><td>31%</td><td>31%</td><td>31%</td></tr><tr><td>2) Công ty Cổ phần CảngDịch vụ Dầu khí Đình Vũ</td><td>Hải Phòng</td><td>22%</td><td>22%</td><td>22%</td><td>22%</td></tr><tr><td>3) Công ty TNHH TuyếnContainer T.S Hà Nội</td><td>Hải Phòng</td><td>30%</td><td>30%</td><td>30%</td><td>30%</td></tr><tr><td>4) Công ty Cổ phần CảngVIMC Đình Vũ</td><td>Hải Phòng</td><td>36%</td><td>36%</td><td>36%</td><td>36%</td></tr><tr><td>5) Công ty TNHH CảngNam Hải Đình Vũ</td><td>Hải Phòng</td><td>35%</td><td>35%</td><td>-</td><td>-</td></tr></table>
+
+11
+
+===== PAGE 15 =====
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+CÔNG TY CỔ PHẦN CONTAINER VIỆT NAM
+
+Mẫu số B 09 – DN/HN
+
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT
+CHO NĂM TÀI CHÍNH KẾT THỨC NGÀY 31 THÁNG 12 NĂM 2023
+
+2 CÁC CHÍNH SÁCH KẾ TOÁN CHỦ YẾU
+
+2.1 Co sò cùa việc lập báo cáo tài chính hợp nhất
+
+Báo cáo tài chính hợp nhất đã được lập theo các Chuẩn mục Kế toán Việt Nam, Chế độ Kế toán Doanh nghiệp Việt Nam và các quy định pháp lý có liên quan đến việc lập và trình bày báo cáo tài chính hợp nhất. Báo cáo tài chính hợp nhất được lập theo nguyên tắc giả gốc ngoại trừ các khoản đầu tư vào công ty liên kết và hợp nhất kinh doanh như được trình bày tại Thuyết minh 2.5.
+
+Báo cáo tài chính hợp nhất kèm theo không nhằm mục đích trình bày tỉnh hình tài chính, kết quả hoạt động kinh doanh hợp nhất và tỉnh hình lưu chuyển tiền tệ hợp nhất theo các nguyên tắc và thông lệ kế toán thường được chấp nhận ở các nước và các thể chế khác ngoài nước Việt Nam. Các nguyên tắc và thông lệ kế toán sử dụng tại nước Việt Nam có thể khác với các nguyên tắc và thông lệ kế toán tại các nước và các thể chế khác.
+
+2.2 Năm tài chính
+
+Năm tài chính của Tập đoàn bắt đầu từ ngày 1 tháng 1 đến ngày 31 tháng 12.
+
+2.3 Đơn vị tiền tệ sử dụng trong kế toán
+
+Tập đoàn sử dụng đơn vị tiền tệ trong kế toán và trình bày trên báo cáo tài chính hợp nhất là Đồng Việt Nam (“VND” hoặc “Đồng”).
+
+2.4 Các loại tỷ giá hối đoái áp dụng trong kế toán
+
+Các nghiệp vụ phát sinh bằng ngoại tệ được quy đổi theo tỷ giá giao dịch thực tế áp dụng tại ngày phát sinh nghiệp vụ. Chênh lệch tỷ giá phát sinh từ các nghiệp vụ này được ghi nhận là thu nhập hoặc chỉ phí trong báo cáo kết quả hoạt động kinh doanh hợp nhất.
+
+Tài sản và nợ phải trả bằng tiền tệ có gốc ngoại tệ tại ngày của bằng cân đối kế toán hợp nhất lần lượt được quy đối theo tỷ giá mua và tỷ giá bán ngoại tệ của ngân hàng thương mại nơi Tập đoàn thương xuyên có giao dịch áp dụng tại ngày bằng cân đối kế toán hợp nhất. Các khoản ngoại tệ gửi ngân hàng tại ngày của bằng cân đối kế toán hợp nhất được quy đối theo tỷ giá mua của chính ngân hàng thương mại nơi Công ty hoặc các công ty con mở tài khoản ngoại tệ. Chênh lệch tỷ giá phát sinh từ việc quy đối này được ghi nhận là thu nhập hoặc chỉ phí trong báo cáo kết quả hoạt động kinh doanh hợp nhất.
+
+2.5 Co sò hợp nhất báo cáo tài chính
+
+Công ty con
+
+Công ty con là những doanh nghiệp mà Tập đoàn có quyền chỉ phối các chính sách tài chính và hoạt động của doanh nghiệp nhằm thu được lợi ích kinh tế từ các hoạt động của doanh nghiệp đó, thường đi kèm là việc nằm giữ hơn một nửa quyền biểu quyết. Sự tồn tai và tính hữu hiệu của quyền biểu quyết tiêm tàng đang được thực thi hoặc được chuyển đổi sẽ được xem xét khi đánh giá liệu Tập đoàn có quyền kiểm soát doanh nghiệp hay không. Công ty con được hợp nhất toàn bộ kể từ ngày quyền kiểm soát đã chuyển giao cho Tập đoàn. Việc hợp nhất chấm dứt kể từ lúc quyền kiểm soát không còn.
+
+12
+
+===== PAGE 16 =====
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+CÔNG TY CỔ PHẦN CONTAINER VIỆT NAM
+
+Mẫu số B 09 – DN/HN
+
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT
+
+CHO NĂM TÀI CHÍNH KẾT THỨC NGÀY 31 THÁNG 12 NĂM 2023
+
+2 CÁC CHÍNH SÁCH KÉ TOÁN CHỦ YẾU (TIẾP THEO)
+
+2.5 Cơ sở hợp nhất báo cáo tài chính (tiếp theo)
+
+Công ty con (tiếp theo)
+
+Phương pháp kế toán mua được Tập đoàn sử dụng để hạch toán việc mua công ty con. Chi phí mua được ghi nhận theo giá trị hợp lý của các tài sản đem trao đổi, công cụ vốn được phát hành và các khoản nợ phải trả đã phát sinh hoặc đã thừa nhận tại ngày diễn ra việc trao đổi, công với các chi phí liên quan trực tiếp đến việc mua. Các tài sản xác định được, nợ phải trả và những khoản nợ tiềm tàng đã được thừa nhận khi hợp nhất kinh doanh được xác định trước hết theo giá trị hợp lý tại ngày mua không kể đến lợi ích của cổ đông không kiểm soát. Khoản vượt trội giữa chi phí mua so với phần sở hữu của bên mua trong giá trị tài sản thuần được xem là lợi thế thương mại. Nếu phần sở hữu của bên mua trong giá trị hợp lý tài sản thuần lớn hơn chi phí mua, phần chênh lệch được ghi nhận ngay vào báo cáo kết quả hoạt động kinh doanh hợp nhất.
+
+Giao dịch, công nợ và các khoản lãi, các khoản lỗ chưa thực hiện phát sinh giữa các công ty trong cùng Tập đoàn được loại trừ khi hợp nhất.
+
+Chính sách kế toán của công ty con cũng thay đổi nếu cần thiết để đảm bảo sự nhất quán với chính sách kế toán đang được Công ty áp dụng.
+
+Báo cáo tài chính của các công ty trọng Tập đoàn sử dụng để hợp nhất phải được lập cho cùng một kỳ kế toán. Nếu ngày kết thúc kỳ kế toán khác nhau, thời gian chênh lệch không vượt quá 3 tháng. Báo cáo tài chính sử dụng để hợp nhất phải được điều chỉnh cho ảnh hưởng của những giao dịch và sự kiện quan trọng xảy ra giữa ngày kết thúc kỳ kế toán của các công ty con và ngày kết thúc kỳ kế toán của Công ty. Độ dài của kỳ báo cáo và sự khác nhau về thời điểm lập báo cáo tài chính phải được thống nhất qua các năm.
+
+Nghiệp vụ và lợi ích của cổ đông không kiểm soát
+
+Tập đoàn áp dụng chính sách cho các nghiệp vụ đối với cổ đông không kiểm soát giống như nghiệp vụ với các bên không thuộc Tập đoàn.
+
+Lợi ích cổ đông không kiểm soát được xác định theo tỷ lệ phần sở hữu của cổ đông không kiểm soát trong tài sản thuần của đơn vị bị mua lại tại ngày mua.
+
+Những giao dịch làm thay đổi tỷ lệ sở hữu của Tập đoàn trong công ty con mà không dẫn đến mất quyền kiểm soát được kế toán tương tự như các giao dịch vốn chủ sở hữu. Chênh lệch giữa giá trị thay đổi phần sở hữu của Tập đoàn trong tài sản thuần của công ty con và số chỉ hoặc thu từ việc thoái vốn tại công ty con được ghi nhận vào LNST chưa phân phối thuộc vốn chủ sở hữu.
+
+Những giao dịch làm thay đổi tỷ lệ sở hữu của Tập đoàn trong công ty con dẫn đến việc mất quyền kiểm soát đối với công ty con, thì chênh lệch giữa giá trị thay đổi phần sở hữu của Tập đoàn trong tài sản thuần của công ty con và số chỉ hoặc thu từ việc thoái vốn tại công ty con được ghi nhận vào Báo cáo kết quả hoạt động kinh doanh hợp nhất. Phần sở hữu còn lại trong công ty này sẽ được hạch toán như một khoản đầu tư tài chính thông thường hoặc kể toán theo phương pháp vốn chủ sở hữu kể từ khi công ty mẹ không còn nằm quyền kiểm soát công ty con.
+
+13
+
+===== PAGE 17 =====
+「
+「
+「
+「
+「
+「
+「
+「
+」
+」
+」
+」
+」
+」
+」
+」
+
+CÔNG TY CỔ PHẦN CONTAINER VIỆT NAM
+
+Mẫu số B 09 – DN/HN
+
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT
+
+CHO NĂM TÀI CHÍNH KẾT THỨC NGÀY 31 THÁNG 12 NĂM 2023
+
+2 CÁC CHÍNH SÁCH KÉ TOÁN CHỦ YÊU (TIẾP THEO)
+
+2.5 Cơ sở hợp nhất báo cáo tài chính (tiếp theo)
+
+Công ty liên kết
+
+Công ty liên kết là tất cả các công ty trong đó Tập đoàn có ảnh hưởng đáng kể nhưng không phải kiểm soát, thường được thể hiện thông qua việc nằm giữ từ 20% đến 50% quyền biểu quyết ở công ty đó. Các khoản đầu tư vào các công ty liên kết được hạch toán theo phương pháp vốn chủ sở hữu và được ghi nhận ban đầu theo giá gốc. Khoản đầu tư của Tập đoàn vào công ty liên kết bao gồm lợi thế thương mại phát sinh khi đầu tư, trừ đi những khoản giảm giá tài sản lũy kế.
+
+Lợi nhuận của Tập đoàn được chia sau khi đầu tư vào các công ty liên kết sẽ được ghi nhận vào báo cáo kết quả hoạt động kinh doanh hợp nhất. Các khoản thay đổi lũy kế sau khi đầu tư vào các công ty liên kết được điều chỉnh vào giá trị ghi số của khoản đầu tư. Khi phần lỗ trong công ty liên kết bằng hoặc vượt quá lợi ích của Tập đoàn trong các công ty liên kết, Tập đoàn sẽ không ghi nhận khoản lỗ vượt đó trừ khi đã phát sinh nghĩa vụ hoặc đã thanh toán hộ cho các công ty liên kết.
+
+Các chính sách kế toán của các công ty liên kết được thay đổi khi cần thiết để đảm bảo sự nhất quán với chính sách kế toán mà Tập đoàn áp dụng.
+
+Các khoản lãi hay lỗ chưa thực hiện từ các giao dịch nội bộ giữa Tập đoàn với các công ty liên kết sẽ được loại trừ tới mức tương ứng với phần lợi ích của Tập đoàn trong các công ty liên kết theo quy định kế toán hiện hành.
+
+2.6 Lợi thế thương mại
+
+Lợi thế thương mại là phần phụ trội giữa mức giá phí hợp nhất kinh doanh so với phần lợi ích của Tập đoàn trong tổng giá trị hợp lý của tài sản thuần của công ty con hay công ty liên kết tại ngày thực hiện nghiệp vụ đầu tư. Lợi thế thương mại có được từ việc mua công ty con được coi là một loại tài sản, được tính khấu hao theo phương pháp đường thẳng trên thời gian hữu dụng ước tính của lợi thế thương mại đó nhưng không quá 10 năm.
+
+Lợi thế thương mại có được từ việc mua khoản đầu tư vào công ty liên kết được tính vào giá trị ghi số của khoản đầu tư tại thời điểm mua. Tập đoàn không phân bổ dần khoản lợi thế thương mại này.
+
+Khi bán khoản đầu tư vào công ty con hoặc công ty liên kết, giá trị còn lại của khoản lợi thế thương mại chưa khấu hao hết được tính vào khoản lãi/lỗ do nghiệp vụ nhượng bán công ty tương ứng.
+
+Lợi thế thương mại được ghi nhận theo giá gốc trừ khấu hao lũy kế, và được đánh giá tổn thất lợi thế thương mại định kỳ hàng năm. Nếu có bằng chứng cho thấy phần giá trị lợi thế thương mại bị tổn thất lớn hơn số phân bổ hàng năm thì phân bổ theo số lợi thế thương mại bị tổn thất ngay trong năm phát sinh.
+
+2.7 Tiền và các khoản tương đương tiền
+
+Tiền và các khoản tương đương tiền bao gồm tiền mặt tai quỹ, tiền gửi ngân hàng không kỳ hạn, tiền đang chuyển và các khoản đầu tư ngắn hạn khác có thời hạn đáo hạn ban đầu không quá ba tháng.
+
+14
+
+===== PAGE 18 =====
+____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____
+
+CÔNG TY CỔ PHẦN CONTAINER VIỆT NAM
+
+Mẫu số B 09 – DN/HN
+
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT
+
+CHO NĂM TÀI CHÍNH KẾT THỨC NGÀY 31 THÁNG 12 NĂM 2023
+
+2 CÁC CHÍNH SÁCH KẾ TOÁN CHỦ YẾU (TIẾP THEO)
+
+2.8 Các khoản phải thu
+
+Các khoản phải thu thể hiện giá trị ghi sổ của các khoản phải thu khách hàng gồm các khoản phải thu mang tính chất thương mại phát sinh từ giao dịch bán hàng hóa và cung cấp dịch vụ; và các khoản phải thu khác không có tính thương mại, không liên quan đến giao dịch bán hàng hóa và cung cấp dịch vụ. Dự phòng các khoản phải thu khó đòi được lập cho từng khoản phải thu căn cứ vào thời gian quá hạn trả nợ gốc theo cam kết nợ ban đầu (không tính đến việc gia hạn nợ giữa các bên), hoặc căn cứ vào mức tổn thất dự kiến có thể xảy ra. Các khoản phải thu được xác định là không thể thu hồi sẽ được xóa sổ.
+
+Các khoản phải thu được phân loại ngắn hạn và dài hạn trên bằng cân đối kế toán hợp nhất căn cứ theo kỳ hạn còn lại của các khoản phải thu tại ngày của bằng cân đối kế toán hợp nhất tới ngày đến hạn thu hồi.
+
+2.9 Hàng tồn kho
+
+Hàng tồn kho được thể hiện theo giá thấp hơn giữa giá gốc và giá trị thuần có thể thực hiện được. Giá gốc được xác định trên cơ sở nhập trước xuất trước và bao gồm tất cả các chi phí mua, chi phí chế biến và các chi phí khác có được hàng tồn kho ở địa điểm và trạng thái hiện tại. Trong trường hợp các sản phẩm được sản xuất, giá gốc bao gồm tất cả chi phí trực tiếp và chi phí sản xuất chung dựa trên mức độ hoạt động bình thường. Giá trị thuần có thể thực hiện được là giá bán ước tính của hàng tồn kho trong kỳ kinh doanh bình thường trừ chi phí ước tính để hoàn thành sản phẩm và chi phí ước tính cần thiết cho việc tiêu thụ.
+
+Tập đoàn áp dụng phương pháp kê khai thường xuyên để hạch toán hàng tồn kho.
+
+Dự phòng được lập cho hàng tồn kho bị lỗi thời, chậm lưu chuyển và bị hồng. Chênh lệch giữa khoản dự phòng phải lập ở cuối kỳ kế toán này và khoản dự phòng đã lập ở cuối kỳ kế toán trước được ghi nhận tăng hoặc giảm giá vốn hàng bán trong năm.
+
+2.10 Đầu tư tài chính
+
+(a) Đầu tư nấm giữ đến ngày đáo hạn
+
+Các khoản đầu tư nằm giữ đến ngày đáo hạn là các khoản đầu tư mà Tập đoàn có ý định và có khả năng giữ đến ngày đáo hạn.
+
+Các khoản đầu tư nắm giữ đến ngày đáo hạn bao gồm các khoản tiền gửi ngân hàng với mục đích thu lãi hàng kỳ. Các khoản đầu tư này ban đầu được ghi nhận theo giá gốc. Sau đó, Tập đoàn thực hiện việc rà soát đối với các khoản đầu tư để ghi nhận dự phòng vào cuối năm kế toán.
+
+Dự phòng giảm giá đầu tư nằm giữ đến ngày đáo hạn được lập trên cơ sở có bằng chứng chắc chắn cho thấy một phần hoặc toàn bộ khoản đầu tư có thể không thu hồi được. Chênh lệch giữa khoản dự phòng lập ở cuối năm kế toán này và khoản dự phòng đã lập ở cuối năm kế toán trước được ghi nhận tăng hoặc giảm chi phí tài chính trong năm tài chính. Khoản dự phòng được hoàn nhập không vượt quá giá trị ghi sở ban đầu.
+
+Các khoản đầu tư nắm giữ đến ngày đáo hạn được phân loại ngắn hạn và dài hạn trên bằng cân đối kế toán hợp nhất căn cứ theo kỳ hạn còn lại của các khoản đầu tư nằm giữ đến ngày đáo hạn tại ngày của bằng cân đối kế toán hợp nhất đến ngày đáo hạn.
+
+15
+
+===== PAGE 19 =====
+- - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+CÔNG TY CỔ PHẦN CONTAINER VIỆT NAM
+
+Mẫu số B 09 – DN/HN
+
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT
+
+CHO NĂM TÀI CHÍNH KẾT THỨC NGÀY 31 THÁNG 12 NĂM 2023
+
+2 CÁC CHÍNH SÁCH KÊ TOÁN CHỦ YẾU (TIÊP THEO)
+
+2.10 Đầu tư tài chính (tiếp theo)
+
+(b) Đầu tư vào công ty liên kết
+
+Đầu tư vào công ty liên kết được trình bày theo phương pháp vốn chủ sở hữu trong báo cáo tài chính hợp nhất (Thuyết minh 2.5).
+
+(c) Đầu tư góp vốn vào đơn vị khác
+
+Đầu tư góp vốn vào đơn vị khác là các khoản đầu tư vào công cụ vốn của đơn vị khác nhưng không có quyền kiểm soát hoặc đồng kiểm soát, không có ảnh hưởng đáng kể đối với bên được đầu tư. Các khoản đầu tư này được ghi nhận ban đầu theo giá gốc. Sau đó, Tập đoàn thực hiện việc rà soát đối với tất cả các khoản đầu tư để ghi nhận dự phòng vào cuối năm tài chính.
+
+Dự phòng giảm giá đầu tư vào góp vốn vào đơn vị khác được lập vào cuối năm tài chính khi có sự giảm giá trị của các khoản đầu tư. Dự phòng giảm giá đầu tư đầu tư góp vốn vào đơn vị khác được tính dựa trên giá trị thị trường nếu giá trị thị trường được xác định một cách tin cây. Nếu giá trị thị trường không thể được xác định một cách tin cây, dự phòng giảm giá đầu tư đầu tư góp vốn vào đơn vị khác được tính dựa trên khoản lỗ của bên được đầu tư.
+
+Chênh lệch giữa khoản dự phòng lập ở cuối năm tài chính này và khoản dự phòng đã lập ở cuối năm tài chính trước được ghi nhận tăng hoặc giảm chi phí tài chính trong năm tài chính. Khoản dự phòng được hoàn nhập không vượt quá giá trị ghi sổ ban đầu.
+
+2.11 Tài sản cố định ("TSCĐ")
+
+TSCĐ hữu hình và TSCĐ vô hình
+
+TSCĐ được phần ánh theo nguyên giá trừ khấu hao lũy kế. Nguyên giá bao gồm các chi phí liên quan trực tiếp đến việc có được TSCĐ ở trạng thái sản sàng sử dụng. Các chi phí phát sinh sau ghi nhận ban đầu chỉ được ghi tăng nguyên giá TSCĐ nếu các chi phí này chắc chắn làm tăng lợi ích kinh tế trong tương lai do sử dụng tài sản đó. Các chi phí phát sinh không thỏa mãn điều kiện trên được ghi nhận là chi phí sản xuất, kinh doanh trong năm tài chính.
+
+Khâu hao
+
+TSCĐ được khấu hao theo phương pháp đường thẳng để giảm dần giá trị phải khấu hao trong suốt thời gian hữu dụng ước tính. Giá trị phải khấu hao là nguyên giá của TSCĐ ghi trên báo cáo tài chính trừ đi (-) giá trị thanh lý ước tính của tài sản đó. Thời gian hữu dụng ước tính của các loại tài sản như sau:
+
+<table><tr><td>Nhà cửa, vật kiến trúc</td><td>5 – 25 năm</td></tr><tr><td>Máy móc, thiết bị</td><td>3 – 7 năm</td></tr><tr><td>Phương tiện vận tải</td><td>3 – 10 năm</td></tr><tr><td>Thiết bị quản lý</td><td>3 – 5 năm</td></tr><tr><td>Phần mềm máy tính</td><td>3 – 5 năm</td></tr></table>
+
+Quyền sử dụng đất bao gồm quyền sử dụng đất nhận chuyển nhượng hợp pháp. Quyền sử dụng đất không có thời hạn được ghi nhận theo nguyên giá và không khấu hao.
+
+16
+
+===== PAGE 20 =====
+- - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+CÔNG TY CỔ PHẦN CONTAINER VIỆT NAM
+
+Mẫu số B 09 – DN/HN
+
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT
+
+CHO NĂM TÀI CHÍNH KẾT THỨC NGÀY 31 THÁNG 12 NĂM 2023
+
+2 CÁC CHÍNH SÁCH KẾ TOÁN CHỦ YẾU (TIẾP THEO)
+
+2.11 Tài sản cố định ("TSCĐ") (tiếp theo)
+
+Chi phí xây dựng cơ bản đồ dang
+
+Chi phí xây dựng cơ bản dở dang thể hiện giá trị của các tài sản trong quá trình lắp đặt hoặc xây dựng phục vụ mục đích sản xuất, cho thuê hoặc quản trị, hoặc cho bắt kì mục đích nào khác, được ghi nhận theo giá gốc, bao gồm toàn bộ chi phí cần thiết để xây dựng mới hoặc sửa chữa, cải tạo, mở rộng hay trang bị lại kỹ thuật công trình như chi phí xây dựng; chi phí thiết bị; chi phí bởi thường, hỗ trợ và tái định cư; chi phí quản lý dự án; chi phí tư vấn đầu tư xây dựng; và chi phí vay được vốn hóa đối với tài sản đủ điều kiện phù hợp với chính sách kế toán của Công ty. Khấu hao của những tài sản này, cũng giống như các loại TSCĐ khác, sẽ bắt đầu được trích khi tài sản đã sản sàng cho mục đích sử dụng.
+
+2.12 Thuê tài sản
+
+Việc thuê tài sản mà bên cho thuê chuyển giao quyền sở hữu vào cuối thời hạn thuê và chuyển giao phần lớn rủi ro và lợi ích gắn với quyền sở hữu tài sản cho bên thuê thì được hạch toán là thuê tài chính. Thuê tài chính được ghi nhận là tài sản tại thời điểm khởi đầu việc thuê tài sản với giá trị thấp hơn giữa giá trị hợp lý của tài sản cho thuê và giá trị hiện tại thuần của các khoản thanh toán tiền thuê tối thiểu.
+
+Khoản thanh toán tiền thuê tài chính được chia ra thành chi phí tài chính và khoản phải trả nợ gốc để duy trì một tỉ lệ lãi suất cố định trên số dư nợ thuê tài chính. Khoản phải trả nợ gốc không bao gồm chi phí tài chính, được hạch toán là nợ dài hạn.
+
+Chi phí tài chính được hạch toán vào báo cáo kết quả hoạt động kinh doanh hợp nhất trong suốt thời hạn của hợp đồng thuê. TSCĐ thuê tài chính được khấu hao theo phương pháp đường thẳng trong thời gian ngắn hơn giữa thời gian sử dụng ước tính của tài sản và thời gian thuê. Tuy nhiên nếu có sự chắc chắn hợp lý ràng bên thuê sẽ có quyền sở hữu ở cuối thời hạn thuê thì khấu hao sẽ được dựa trên thời gian sử dụng ước tính của tài sản.
+
+Thuê hoạt động là loại hình thuê TSCĐ mà phần lớn rủi ro và lợi ích gắn liền với quyền sở hữu của tài sản thuộc về bên cho thuê. Khoản thanh toán dưới hình thức thuê hoạt động được hạch toán vào báo cáo kết quả hoạt động kinh doanh hợp nhất theo phương pháp đường thẳng dựa trên thời hạn thuê hoạt động.
+
+2.13 Chi phí trả trước
+
+Chi phí trả trước bao gồm các chi phí trả trước ngắn hạn hoặc chi phí trả trước dài hạn trên bằng cân đối kế toán hợp nhất. Chi phí trả trước ngắn hạn phân ánh số tiền trả trước để được cung cấp dịch vụ hoặc các công cụ, dụng cụ không thỏa mãn điều kiện ghi nhận TSCĐ trong khoảng thời gian không quá 12 tháng hoặc một chu kỳ sản xuất kinh doanh kể từ ngày trả trước. Chi phí trả trước dài hạn phân ánh số tiền trả trước để được cung cấp dịch vụ hoặc các công cụ, dụng cụ không thỏa mãn điều kiện ghi nhận TSCĐ có thời hạn trên 12 tháng hoặc hơn một chu kỳ sản xuất kinh doanh kể từ ngày trả trước. Các khoản chi phí trả trước này được ghi nhận theo giá gốc và được phân bổ theo phương pháp đường thẳng dựa trên thời gian hữu dụng ước tính.
+
+17
+
+===== PAGE 21 =====
+- - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+CÔNG TY CÓ PHẦN CONTAINER VIỆT NAM
+
+Mẫu số B 09 – DN/HN
+
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT
+
+CHO NĂM TÀI CHÍNH KẾT THỨC NGÀY 31 THÁNG 12 NĂM 2023
+
+2 CÁC CHÍNH SÁCH KÊ TOÁN CHỦ YÉU (TIẾP THEO)
+
+2.13 Chi phí trả trước (tiếp theo)
+
+Tiền thuê đất trả trước cho các hợp đồng thuê đất không được ghi nhận vào tài sản vô hình theo chính sách kế toán số 2.11 thì ghi nhận vào chi phí trả trước và được phân bổ theo phương pháp đường thẳng theo thời hạn thuê trả trước.
+
+2.14 Nợ phải trả
+
+Các khoản nợ phải trả được phân loại dựa vào tính chất bao gồm:
+
+- Phải trả người bán gồm các khoản phải trả mang tính chất thương mại phát sinh từ giao dịch mua hàng hóa và dịch vụ; và
+
+- Phải trả khác gồm các khoản phải trả không có tính chất thương mại và không liên quan đến giao dịch mua hàng hóa và dịch vụ.
+
+Các khoản nợ phải trả được phân loại ngắn hạn và dài hạn trên bằng cân đối kế toán hợp nhất căn cứ theo kỳ hạn còn lại của các khoản phải trả tại ngày của bằng cân đối kế toán hợp nhất tới ngày đến hạn thanh toán.
+
+2.15 Vay và nợ thuê tài chính
+
+Vay và nợ thuê tài chính bao gồm các khoản tiền vay từ các ngân hàng, tổ chức tài chính, công ty tài chính, và các đối tượng khác.
+
+Các khoản vay và nợ thuê tài chính được phân loại ngắn hạn và dài hạn trên bằng cân đối kế toán hợp nhất cần cứ theo kỳ hạn còn lại của các khoản vay và nợ thuê tài chính tại ngày của bằng cân đối kế toán hợp nhất tới ngày đến hạn thanh toán.
+
+Chi phí đi vay liên quan trực tiếp đối với hoạt động xây dựng hoặc sản xuất bất kỳ tài sản đủ tiêu chuẩn sẽ được vốn hóa trong thời gian mà các tài sản này được hoàn thành và chuẩn bị đưa vào sử dụng. Đối với các khoản vay chung trong đó có sử dụng vốn cho mục đích đầu tư xây dựng hoặc sản xuất bất kỳ tài sản đủ tiêu chuẩn thì Công ty xác định chi phí đi vay được vốn hóa theo tỷ lệ vốn hóa đối với chi phí lũy kế bình quân gia quyền phát sinh cho việc đầu tư xây dựng cơ bản hoặc sản xuất tài sản đủ tiêu chuẩn đó. Tỷ lệ vốn hóa được tính theo tỷ lệ lãi suất bình quân gia quyền của các khoản vay chưa trả trong năm tài chính, trừ các khoản vay riêng biệt phục vụ cho mục đích hình thành một tài sản cư thể. Chi phí đi vay khác được ghi nhận trong báo cáo kết quả hoạt động kinh doanh hợp nhất khi phát sinh.
+
+2.16 Chi phí phải trả
+
+Chi phí phải trả bao gồm các khoản phải trả cho hàng hóa, dịch vụ đã nhận được từ người bán trong năm tài chính báo cáo nhưng thực tế chưa chi trả do chưa có hóa đơn hoặc chưa đủ hồ sơ, tài liệu kế toán, được ghi nhận vào chi phí sản xuất kinh doanh của nằm tài chính.
+
+18
+
+===== PAGE 22 =====
+- - - - - - - - - - - - - - - - - - - - - - - - - -
+
+CÔNG TY CỔ PHẦN CONTAINER VIỆT NAM
+
+Mẫu số B 09 – DN/HN
+
+THUYẾT MINH BẢO CÁO TÀI CHÍNH HỢP NHẤT
+
+CHO NĂM TÀI CHÍNH KẾT THỨC NGÀY 31 THÁNG 12 NĂM 2023
+
+2 CÁC CHÍNH SÁCH KẾ TOÁN CHỦ YỀU (TIÊP THEO)
+
+2.17 Các khoản dự phòng
+
+Các khoản dự phòng được ghi nhận khi Tập đoàn có nghĩa vụ nợ hiện tại, pháp lý hoặc liên đối, phát sinh từ các sự kiện đã xảy ra; việc thanh toán nghĩa vụ nợ có thể sẽ dẫn đến sự giảm sút về những lợi ích kinh tế và giá trị của nghĩa vụ nợ đó được ước tính một cách đáng tin cây. Dự phòng không được ghi nhận cho các khoản lỗ hoạt động trong tương lai.
+
+Dự phòng được tính trên cơ sở các khoản chi phí dự tính phải thanh toán nghĩa vụ nợ. Nếu ảnh hưởng về giá trị thời gian của tiền là trọng yếu thì dự phòng được tính trên cơ sở giá trị hiện tại với tỷ lệ chiết khấu trước thuế và phần ảnh những đánh giá trên thị trường hiện tại về giá trị thời gian của tiền và rủi ro cụ thể của khoản nợ đó. Giá trị tăng lên do ảnh hưởng của yếu tố thời gian được ghi nhận là chi phí tài chính. Chênh lệch giữa khoản dự phòng lập ở cuối kỳ kế toán này và khoản dự phòng đã lập chưa sử dụng ở cuối kỳ kế toán trước được ghi nhận tăng hoặc giảm chi phí sản xuất kinh doanh trong năm tài chính.
+
+2.18 Dự phòng trợ cấp thời việc
+
+Theo Luật Lao động Việt Nam, người lao động của Tập đoàn đã làm việc thường xuyên đủ 12 tháng trở lên được hưởng khoản trợ cấp thời việc. Thời gian làm việc để tính trợ cấp thời việc là tổng thời gian người lao động đã làm việc thực tế cho Tập đoàn trừ đi thời gian người lao động đã tham gia bảo hiểm thất nghiệp theo quy định của pháp luật và thời gian làm việc đã được Tập đoàn chi trả trợ cấp thời việc.
+
+Trợ cấp thời việc của người lao động được trích trước cuối mỗi năm tài chính theo tỷ lệ bằng một nửa mức lương bình quân tháng cho mỗi năm làm việc. Mức lương bình quân tháng để tính trợ cấp thời việc dựa trên mức lương bình quân tháng để tính trợ cấp thời việc dựa trên mức lương bình quân theo hợp đồng lao động của sau tháng gần nhất tính đến trước ngày kết thúc năm tài chính này.
+
+Khoản trích trước này được sử dụng để trả một lần khi người lao động chấm dứt hợp đồng lao động theo quy định hiện hành.
+
+2.19 Vốn chủ sở hữu
+
+Vốn góp chủ sở hữu được ghi nhận theo số thực tế góp của các cổ đông và được phần ánh theo mệnh giá của cổ phiếu.
+
+Thăng dư vốn cổ phần là khoản chênh lệch giữa vốn góp theo mệnh giá cổ phiếu với giá thực tế phát hành cổ phiếu; chênh lệch giữa giá mua lại cổ phiếu quỹ và giá tái phát hành cổ phiếu quỹ.
+
+LNST chưa phân phối phần ánh kết quả kinh doanh (lãi hoặc lỗ) sau thuế TNDN của Tập đoàn tại thời điểm báo cáo.
+
+19
+
+===== PAGE 23 =====
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+
+CÔNG TY CỔ PHẦN CONTAINER VIỆT NAM
+
+Mẫu số B 09 – DN/HN
+
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT
+
+CHO NĂM TÀI CHÍNH KẾT THỨC NGÀY 31 THÁNG 12 NĂM 2023
+
+2 CÁC CHÍNH SÁCH KÉ TOÁN CHỦ YẾU (TIÊP THEO)
+
+2.20 Phân chia lợi nhuận
+
+Cổ tức của Tập đoàn được ghi nhận là một khoản phải trả trong báo cáo tài chính của năm tài chính mà cổ tức được thông qua tại Đại hội đồng Cổ đông.
+
+LNST TNDN có thể được chia cho các cổ đông sau khi được Đại hội đồng Cổ đông phê duyệt và sau khi đã trích lập các quỹ theo điều lệ của Tập đoàn và các quy định của pháp luật Việt Nam.
+
+Tập đoàn trích lập các quỹ sau:
+
+(a) Quỹ đầu tư phát triển
+
+Quỹ đầu tư phát triển được trích lập từ LNST TNDN của Tập đoàn và được các cổ đông phê duyệt tại Đại hội đồng Cổ đông. Quỹ được sử dụng để mở rộng kinh doanh trong tương lai.
+
+(b) Quỹ khen thưởng, phúc lợi
+
+Quỹ khen thưởng, phúc lợi được trích lập từ LNST TNDN của Tập đoàn và được các cổ đông phê duyệt tại Đại hội đồng Cổ đông. Quỹ được trình bày là một khoản phải trả trên bằng cân đối kế toán hợp nhất. Quỹ được sử dụng để chi trả các khoản khen thưởng và phúc lợi cho các nhân viên, thưởng cho ban quản lý điều hành của Tập đoàn theo chính sách khen thưởng và phúc lợi của Tập đoàn.
+
+2.21 Ghi nhận doanh thu
+
+(a) Doanh thu bán hàng
+
+Doanh thu bán hàng được ghi nhận trong báo cáo kết quả hoạt động kinh doanh hợp nhất khi đồng thời thỏa mãn tất cả năm (5) điều kiện sau:
+
+- Tập đoàn đã chuyển giao phần lớn rủi ro và lợi ích gắn liền với quyền sở hữu sản phẩm hoặc hàng hóa cho người mua;
+
+- Tập đoàn không còn nấm giữ quyền quản lý sản phẩm hoặc hàng hóa như người sở hữu sản phẩm hoặc hàng hóa, hoặc quyền kiểm soát sản phẩm hoặc hàng hóa;
+
+- Doanh thu được xác định tương đối chắc chắn;
+
+- Tập đoàn sẽ thu được lợi ích kinh tế từ giao dịch bán hàng; và
+
+- Xác định được chi phí liên quan đến giao dịch bán hàng.
+
+Doanh thu không được ghi nhận khi có yếu tố không chắc chắn mang tính trọng yếu về khả năng thu được tiền bán hàng hoặc khả năng hàng bán bị trả lại.
+
+Doanh thu được ghi nhận phù hợp với bản chất hơn hình thức và được phân bổ theo nghĩa vụ cung ứng sản phẩm hoặc hàng hóa. Trường hợp Tập đoàn dùng sản phẩm, hàng hóa để khuyến mãi cho khách hàng kèm theo điều kiện mua hàng của Tập đoàn thì Tập đoàn phân bổ số tiền thu được để tính doanh thu cho cả hàng khuyến mãi và giá trị hàng khuyến mãi được tính vào giá vốn hàng bán trong báo cáo kết quả hoạt động kinh doanh hợp nhất.
+
+20
+
+===== PAGE 24 =====
+- - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+CÔNG TY CỔ PHẦN CONTAINER VIỆT NAM
+
+Mẫu số B 09 – DN/HN
+
+THUYÊT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT
+
+CHO NĂM TÀI CHÍNH KẾT THỨC NGÀY 31 THÁNG 12 NĂM 2023
+
+2 CÁC CHÍNH SÁCH KÊ TOÁN CHỦ YẾU (TIẾP THEO)
+
+2.21 Ghi nhận doanh thu (tiếp theo)
+
+(b) Doanh thu cung cấp dịch vụ
+
+Doanh thu cung cấp dịch vụ được ghi nhận trong báo cáo kết quả hoạt động kinh doanh hợp nhất khi dịch vụ đã được cung cấp, bằng cách tính mức độ hoàn thành của từng giao dịch, dựa trên cơ sở đánh giá tỉ lệ dịch vụ đã cung cấp so với tổng khối lượng dịch vụ phải cung cấp.
+
+Doanh thu cung cấp dịch vụ chỉ được ghi nhận khi đồng thời thỏa mãn bốn (4) điều kiện sau:
+
+- Doanh thu được xác định tương đối chắc chắn;
+
+• Có khả năng thu được lợi ích kinh tế từ giao dịch cung cấp dịch vụ đó;
+
+- Xác định được phần công việc đã hoàn thành tại ngày của bằng cân đối kế toán hợp nhất; và
+
+- Xác định được chi phí phát sinh cho giao dịch và chi phí để hoàn thành giao dịch cung cấp dịch vụ đó.
+
+(c) Thu nhập lãi
+
+Tiền lãi được ghi nhận trên cơ sở thời gian và lãi suất thực tế từng năm khi thỏa mãn đồng thời hai điều kiện:
+
+• Có khả năng thu được lợi ích kinh tế từ giao dịch đó; và
+
+- Doanh thu được xác định tương đối chắc chắn.
+
+(d) Thu nhập từ cổ tức
+
+Thu nhập từ cổ tức được ghi nhận khi Tập đoàn xác lập quyền nhận cổ tức từ các đơn vị đầu tư.
+
+2.22 Giá vốn hàng bán và dịch vụ cung cấp
+
+Giá vốn hàng bán và dịch vụ cung cấp là tổng chi phí phát sinh của thành phẩm, hàng hóa, vật tư xuất bán và dịch vụ cung cấp cho khách hàng trong năm tài chính, được ghi nhận theo nguyên tắc phù hợp với doanh thu và nguyên tắc thận trọng.
+
+2.23 Chi phí tài chính
+
+Chi phí tài chính phần ánh những khoản chi phí hoạt động tài chính phát sinh trong năm tài chính chủ yếu bao gồm các khoản chi phí hoặc các khoản lỗ liên quan đến các hoạt động đầu tư tài chính, khoản lỗ phát sinh khi bán ngoại tệ, lỗ tỷ giá hối đoái và chi phí đi vay vốn.
+
+2.24 Chi phí bán hàng
+
+Chi phí bán hàng phần ánh các chi phí thực tế phát sinh trong quá trình bán sản phẩm, hàng hoá, cung cấp dịch vụ.
+
+21
+
+===== PAGE 25 =====
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+CÔNG TY CỔ PHẦN CONTAINER VIỆT NAM
+
+Mẫu số B 09 – DN/HN
+
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT
+CHO NĂM TÀI CHÍNH KẾT THỨC NGÀY 31 THÁNG 12 NĂM 2023
+
+2 CÁC CHÍNH SÁCH KÉ TOÁN CHỦ YÊU (TIẾP THEO)
+
+2.25 Chi phí quản lý doanh nghiệp
+
+Chi phí quản lý doanh nghiệp phần ánh các chi phí thực tế phát sinh trong quá trình quản lý chung của Tập đoàn.
+
+2.26 Thuế thu nhập doanh nghiệp hiện hành và thuế thu nhập doanh nghiệp hoãn lại
+
+Thuế TNDN bao gồm toàn bộ số thuế TNDN tính trên thu nhập chịu thuế TNDN. Chi phí thuế TNDN bao gồm chi phí thuế TNDN hiện hành và chi phí thuế TNDN hoãn lại.
+
+Thuế TNDN hiện hành là số thuế TNDN phải nộp hoặc thu hồi được tính trên thu nhập chịu thuế và thuế suất thuế TNDN của năm tài chính hiện hành. Thuế TNDN hiện hành và thuế TNDN hoãn lại được ghi nhận là thu nhập hay chi phí khi xác định lợi nhuận hoặc lỗ của năm tài chính phát sinh, ngoại trừ trường hợp thuế TNDN phát sinh từ một giao dịch hoặc sự kiện được ghi nhận trực tiếp vào vốn chủ sở hữu trong cùng năm tài chính hay một năm tài chính khác.
+
+Thuế TNDN hoãn lại, sử dụng phương pháp công nợ, được tính đầy đủ dựa trên các khoản chênh lệch tạm thời giữa giá trị ghi số của các khoản mục tài sản và nợ phải trả trên báo cáo tài chính hợp nhất và cơ sở tính thuế TNDN của các khoản mục này. Thuế TNDN hoãn lại không được ghi nhận khi nợ thuế TNDN hoãn lại phải trả phát sinh từ ghi nhận ban đầu của một tài sản hay nợ phải trả của một giao dịch mà giao dịch này không phải là giao dịch sáp nhập doanh nghiệp, không có ảnh hưởng đến lợi nhuận kế toán hoặc lợi nhuận/lỗ tính thuế TNDN tại thời điểm phát sinh giao dịch. Thuế TNDN hoãn lại được tính theo thuế suất dự tính được áp dụng trong niên độ mà tài sản được thu hồi hoặc khoản nợ phải trả được thanh toán dựa trên thuế suất đã ban hành hoặc xem như có hiệu lực tại ngày của bằng cân đối kế toán hợp nhất.
+
+Tài sản thuế TNDN hoãn lại được ghi nhận khi có khả năng sẽ có lợi nhuận tính thuế TNDN trong tương lai để sử dụng những chênh lệch tạm thời được khấu trừ.
+
+2.27 Các bên liên quan
+
+Các doanh nghiệp, các cá nhân, trực tiếp hay gián tiếp qua một hoặc nhiều trung gian, có quyền kiểm soát Tập đoàn hoặc chịu sự kiểm soát của Tập đoàn, hoặc cùng chung sự kiểm soát với Tập đoàn, bao gồm cả công ty mẹ, công ty con và công ty liên kết là các bên liên quan. Các bên liên kết, các cá nhân trực tiếp hoặc gián tiếp nằm quyền biểu quyết của Tập đoàn mà có ảnh hưởng đáng kể đối với Tập đoàn, những cá nhân quản lý chủ chốt bao gồm Ban Giám đốc Tập đoàn, những thành viên mật thiết trong gia đình của các cá nhân này hoặc các bên liên kết này hoặc những công ty liên kết với các cá nhân này cũng được coi là bên liên quan.
+
+Trong việc xem xét từng mối quan hệ của các bên liên quan, Tập đoàn căn cứ vào bản chất của mối quan hệ chữ không chỉ hình thức pháp lý của các quan hệ đó.
+
+22
+
+===== PAGE 26 =====
+- - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+CÔNG TY CÓ PHẦN CONTAINER VIỆT NAM
+
+Mẫu số B 09 – DN/HN
+
+THUYÊT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT
+CHO NĂM TÀI CHÍNH KẾT THỨC NGÀY 31 THÁNG 12 NĂM 2023
+
+2 CÁC CHÍNH SÁCH KÉ TOÁN CHỦ YẾU (TIẾP THEO)
+
+2.28 Báo cáo bộ phận
+
+Một bộ phận là một hợp phần có thể xác định riêng biệt của Tập đoàn tham gia vào việc bán hàng hoặc cung cấp dịch vụ liên quan (bộ phận chia theo hoạt động kinh doanh), hoặc bán hàng hoặc cung cấp dịch vụ trong một môi trường kinh tế cụ thể (bộ phận chia theo khu vực địa lý). Mỗi bộ phận này chịu rủi ro và thu được lợi ích khác biệt với các bộ phận khác. Báo cáo bộ phận cơ bản của Tập đoàn là dựa theo bộ phận chia theo hoạt động kinh doanh.
+
+Đối với báo cáo bộ phận theo khu vực địa lý, Tập đoàn chỉ hoạt động trong phạm vi lãnh thổ Việt Nam. Do vậy, Tập đoàn không có bộ phận theo khu vực địa lý nào khác ngoài lãnh thổ Việt Nam.
+
+2.29 U'óc tính kế toán trọng yếu
+
+Việc lập báo cáo tài chính hợp nhất tuân thủ theo các Chuẩn mực Kế toán Việt Nam, Chế độ Kế toán Doanh nghiệp Việt Nam và các quy định pháp lý có liên quan đến việc lập và trình bày báo cáo tài chính hợp nhất yêu cầu Ban Giám đốc phải có những ước tính và giả định ảnh hưởng đến số liệu về tài sản, nợ phải trả và việc trình bày các khoản nợ và tài sản tiềm tàng tại ngày kết thúc năm tài chính cũng như các số liệu về doanh thu và chi phí trong suốt năm tài chính.
+
+Các ước tính và giả định có ảnh hưởng trọng yếu trong báo cáo tài chính hợp nhất bao gồm:
+
+• Dự phòng các khoản phải thu khó đòi (Thuyết minh 2.8 và Thuyết minh 4);
+
+• Thời gian hữu dụng ước tính của TSCĐ (Thuyết minh 2.11 và Thuyết minh 9); và
+
+- Dự phòng suy giảm giá trị các khoản đầu tư tài chính (Thuyết minh 2.10 và Thuyết minh 10).
+
+Các ước tính và giả định thường xuyên được đánh giá dựa trên kinh nghiệm trong quá khú và các yếu tố khác, bao gồm các giả định trong tương lai có ảnh hưởng trọng yếu tới báo cáo tài chính hợp nhất của Tập đoàn và được Ban Giám đốc đánh giá là hợp lý.
+
+3 TIÊN VÀ CÁC KHOÀN TƯƠNG ĐƯƠNG TIÊN
+
+<table><tr><td></td><td>31/12/2023VND</td><td>31/12/2022VND</td></tr><tr><td>Tiền mặt</td><td>2.716.321.651</td><td>1.920.102.424</td></tr><tr><td>Tiền gửi ngân hàng</td><td>132.889.952.707</td><td>78.670.488.857</td></tr><tr><td>Các khoản tương đương tiền (*)</td><td>234.900.000.000</td><td>279.792.753.425</td></tr><tr><td></td><td>370.506.274.358</td><td>360.383.344.706</td></tr></table>
+
+(*) Các khoản tương đương tiền là tiền gửi có kỳ hạn tại các ngân hàng thương mại có kỳ hạn ban đầu dưới hoặc bằng 3 tháng với lãi suất từ 2%/năm đến 4,3%/năm (năm 2022: lãi suất từ 4,8%/năm đến 6%/năm).
+
+23
+
+===== PAGE 27 =====
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+CÔNG TY CỔ PHẦN CONTAINER VIỆT NAM
+
+Mẫu số B 09 – DN/HN
+
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT
+CHO NĂM TÀI CHÍNH KẾT THỨC NGÀY 31 THÁNG 12 NĂM 2023
+
+4 PHÀI THU NGÂN HẠN CỦA KHÁCH HÀNG
+
+<table><tr><td></td><td>31/12/2023VND</td><td>31/12/2022VND</td></tr><tr><td rowspan="3">Bên thú baTrong đó:- Công ty Maersk Line A/S- Khác (*)</td><td>166.806.254.862</td><td>160.200.935.462</td></tr><tr><td>29.370.750.653</td><td>25.371.125.977</td></tr><tr><td>137.435.504.209</td><td>134.829.809.485</td></tr><tr><td rowspan="2">Bên liên quan (Thuyết minh 35(b))</td><td>38.456.756.848</td><td>28.296.789.439</td></tr><tr><td>205.263.011.710</td><td>188.497.724.901</td></tr><tr><td>Dự phòng phải thu khó đòi</td><td>(2.037.173.837)</td><td>(1.009.859.082)</td></tr></table>
+
+(*) Tại ngày 31 tháng 12 năm 2023 và ngày 31 tháng 12 năm 2022, không có bên thứ ba nào khác có số dư chiếm hơn 10% trên tổng số dư các khoản phải thu ngắn hạn.
+
+5 TRÀ TRƯỚC CHO NGƯỜI BÁN NGÂN HẠN
+
+<table><tr><td></td><td>31/12/2023VND</td><td>31/12/2022VND</td></tr><tr><td rowspan="3">Bên thứ baTrong đó:- Công ty TNHH Thương mại, Vận tảiQuốc tế Vitra- Khác</td><td>13.578.690.375</td><td>8.315.243.630</td></tr><tr><td>6.814.940.000</td><td>-</td></tr><tr><td>6.763.750.375</td><td>8.315.243.630</td></tr><tr><td></td><td>13.578.690.375</td><td>8.315.243.630</td></tr></table>
+
+24
+
+===== PAGE 28 =====
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+CÔNG TY CỔ PHẦN CONTAINER VIỆT NAM
+
+Mẫu số B 09 – DN/HN
+
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT
+CHO NĂM TÀI CHÍNH KẾT THỨC NGÀY 31 THÁNG 12 NĂM 2023
+
+6 PHÀI THU KHÁC
+
+(a) Ngắn hạn
+
+<table><tr><td></td><td>31/12/2023VND</td><td>31/12/2022VND</td></tr><tr><td>Đặt cọc khoản đầu tư:Trong đó:- Đặt cọc cho các cá nhân (i)- Đặt cọc cho Gemadept (ii)- Đặt cọc cho Công ty TNHH Đoàn Huy và Công ty TNHH Huy Hoàng để mua cổ phần (iii)</td><td>161.000.000.000-161.000.000.000</td><td>340.000.000.00040.000.000.000300.000.000.000-</td></tr><tr><td>Phải thu liên quan đến việc điều chỉnh giá chuyển nhượng Công ty TNHH Cảng Nam Hải Đình Vũ (&quot;Cảng Nam Hải Đình Vũ&quot;) (iv)</td><td>45.183.083.604</td><td>-</td></tr><tr><td>Chi hộ trả hộ (v)</td><td>10.834.274.591</td><td>7.349.623.692</td></tr><tr><td>Tiền góc đầu tư hợp tác kinh doanh đến hạn được hoàn trả (vi)</td><td>10.000.000.000</td><td>-</td></tr><tr><td>Phải thu lãi tiền gửi ngân hàng</td><td>5.717.297.133</td><td>4.230.577.696</td></tr><tr><td>Phải thu khác</td><td>14.825.797.590</td><td>12.800.269.868</td></tr><tr><td></td><td>247.560.452.918</td><td>364.380.471.256</td></tr></table>
+
+(i) Khoản đặt cọc với số tiền 40.000.000.000 đồng liên quan đến khoản tiền ứng trước cho các cá nhân đề Công ty Cổ phần Đầu tư Dịch vụ và Phát triển Xanh, là công ty con của Tập đoàn, mua cổ phần của một công ty mục tiêu theo Nghị quyết số 10/2022/NQ-HĐQT đề ngày 31 tháng 10 năm 2022. Công ty con này đã quyết định không tiếp tục mua cổ phần của công ty mục tiêu và đã thu hồi lại toàn bộ số tiền đặt cọc nếu trên vào ngày 21 tháng 7 năm 2023.
+
+(ii) Số dư 300 tỷ đồng tại ngày 31 tháng 12 năm 2022 là số tiền mà Công ty đã đặt cọc cho Công ty Cổ phần Gemadept ("Gemadept") để mua lại một phần vốn góp của Gemadept tại Công ty TNHH Cảng Nam Hải Đình Vũ ("Cảng Nam Hải Đình Vũ"). Trong năm 2023, Công ty đã mua lại 35% vốn góp tại đơn vị này, chi tiết khoản đầu tư được trình bày tại thuyết minh 10(b).
+
+(iii) Số dư 161 tỷ đồng tại ngày 31 tháng 12 năm 2023 thể hiện số tiền Công ty đặt cọc cho Công ty TNHH Thương mại Kim khí Xuất nhập khẩu Huy Hoàng ("công ty TNHH Huy Hoàng") theo hợp đồng đặt cọc số 02/2023/HĐĐC/HH-VSC đề ngày 6 tháng 4 năm 2023 và Công ty TNHH Thương mại và Đầu tư Đoàn Huy ("công ty TNHH Đoàn Huy") theo hợp đồng đặt cọc số 03/2023/HĐĐC/ĐH-VSC đề ngày 21 tháng 12 năm 2023 để mua phần vốn góp của 2 công ty này tại Cảng Nam Hải Đình Vũ (Thuyết minh 10(b)).
+
+Theo điều khoản của các hợp đồng đặt cọc nói trên, Công ty được mua đến mức tối đa toàn bộ phần vốn góp của công ty TNHH Đoàn Huy và công ty TNHH Huy Hoàng tại Cảng Nam Hải Đình Vũ với tổng số tỷ lệ phần vốn góp là 64,99%. Thời hạn hiệu lực của số tiền đặt cọc là 12 tháng kể từ ngày hợp đồng đặt cọc. Giá chuyển nhượng sẽ được các bên thương thảo, căn cứ vào các điều kiện đã được thống nhất trong các hợp đồng đặt cọc và phụ lực hợp đồng nếu trên.
+
+25
+
+===== PAGE 29 =====
+____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____
+
+CÔNG TY CỔ PHẦN CONTAINER VIỆT NAM
+
+Mẫu số B 09 – DN/HN
+
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT
+CHO NĂM TÀI CHÍNH KẾT THỨC NGÀY 31 THÁNG 12 NĂM 2023
+
+6 PHÀI THU KHÁC (TIẾP THEO)
+
+(a) Ngắn hạn (tiếp theo)
+
+(iv) Số dư 45.183.083.604 đồng tại ngày 31 tháng 12 năm 2023 là khoản chênh lệch giữa số tiền Công ty đã thực trả cho Bên chuyển nhượng là 1.050.000.000.000 Đồng và giá trị chuyển nhượng sau điều chỉnh thể hiện trên hóa đơn của Bên chuyển nhượng phát hành cho Công ty là 1.004.816.916.396 Đồng, liên quan tới khoản đầu tư 35% của Công ty vào Cảng Nam Hải Đình Vũ (Thuyết minh 10(b)).
+
+(v) Khoản thu hộ trả hộ chủ yếu gồm tiền thanh toán hộ hăng tàu cho Hải quan của Công ty TNHH MTV Dịch vụ Cảng Xanh liên quan đến hoạt động kiểm hóa, hoa tiêu và cảng vụ của hăng tàu. Khoản tiền này sẽ được trả lại bởi hăng tàu khi hăng tàu nhận được hàng.
+
+(vi) Đây là số tiền góp vốn gốc của Công ty TNHH MTV Trung tâm Logistics Xanh và Công ty TNHH MTV Dịch vụ Cảng Xanh, công ty con của Tập đoàn, sẽ được hoàn trả trong năm 2024 liên quan đến hợp đồng hợp tác kinh doanh và đầu tư cho dự án khách sạn Hyatt Place Hải Phòng (Thuyết minh 6(b)).
+
+(b) Dài hạn
+
+<table><tr><td></td><td>31/12/2023VND</td><td>31/12/2022VND</td></tr><tr><td>Hợp đồng hợp tác kinh doanh và đầu tư (*)</td><td>813.600.000.000</td><td>823.600.000.000</td></tr><tr><td>Phải thu khác</td><td>13.603.931.552</td><td>3.594.723.552</td></tr><tr><td></td><td>827.203.931.552</td><td>827.194.723.552</td></tr></table>
+
+(*) Số dư liên quan đến hợp đồng hợp tác đầu tư và kinh doanh ("Hợp đồng HTKD") đề ngày 21 tháng 12 năm 2022 giữa Công ty Cổ phần Tập đoàn T&D Group ("T&D Group") và Công ty TNHH MTV Trung tâm Logistics Xanh và Công ty TNHH MTV Dịch vụ Câng Xanh, là các công ty con của Tập đoàn để thực hiện việc hợp tác đầu tư, triển khai kinh doanh dự án khách sạn Hyatt Place Hải Phòng theo Quyết định Chấp thuận chủ trương đầu tư động thời chấp thuận Nhà đầu tư số 1045/QĐ-UBND ban hành bởi Ủy Ban Nhân Dân Hải Phòng đề ngày 4 tháng 4 năm 2022. Dự án khách sạn này đã khởi công và dự kiến sẽ bắt đầu hoạt động từ năm 2024.
+
+Tổng vốn đầu tư của toàn bộ dự án là 1.423.600.000.000 Đồng, trong đó các công ty con của Công ty góp 823,6 tỷ Đồng (mỗi công ty thực góp 411,8 tỷ Đồng) và T&D Group góp 600 tỷ Đồng. Tiền góp vốn gốc của các công ty con được chuyển cho T&D Group để thực hiện dự án đầu tư và được hoàn trả bởi T&D Group từ năm 2024 trở đi, cụ thể như sau:
+
+- Tử năm 2024: thanh toán tối thiểu 5 tỷ Đồng/năm
+
+- Tù năm 2028: thanh toán tối thiểu 15 tỷ Đồng/năm
+
+- Từ năm 2035: thanh toán tối thiểu 34,25 tỷ Đồng/năm
+
+Khoản tiền góp vốn vào Hợp đồng HTKD của hai công ty con này được phân loại vào phải thu dài hạn đến hạn trả và phải thu dài hạn căn cứ vào thời gian thu hồi số tiền góp vốn gốc của Công ty con tính từ ngày bằng cân đối kế toán hợp nhất.
+
+Ngoài ra, mỗi công ty con được hưởng việc phân chia lợi nhuận hàng năm tương ứng với 45% dòng tiền từ lợi nhuận sau thuế và khấu hao của dự án từ T&D Group cho giai đoạn 8 năm đầu tiên. Các năm còn lại lợi nhuận sẽ được phân chia theo tỷ lệ góp vốn ban đầu cho tới khi T&D hoàn trả hết toàn bộ phần vốn đã đầu tư của các công ty con như đã nếu trên.
+
+26
+
+===== PAGE 30 =====
+- - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+CÔNG TY CỔ PHẦN CONTAINER VIỆT NAM
+
+Mẫu số B 09 – DN/HN
+
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT
+
+CHO NĂM TÀI CHÍNH KẾT THỨC NGÀY 31 THÁNG 12 NĂM 2023
+
+7 HÀNG TÔN KHO
+
+<table><tr><td rowspan="2"></td><td colspan="2">31/12/2023</td><td colspan="2">31/12/2022</td></tr><tr><td>Giá gốc VND</td><td>Dự phòng VND</td><td>Giá gốc VND</td><td>Dự phòng VND</td></tr><tr><td>Nguyên vật liệu</td><td>3.078.477.109</td><td>-</td><td>1.213.108.434</td><td>-</td></tr><tr><td>Công cụ, dụng cụ</td><td>25.921.243.401</td><td>-</td><td>26.814.977.394</td><td>-</td></tr><tr><td>Hàng hóa</td><td>65.335.492</td><td>-</td><td>-</td><td>-</td></tr><tr><td></td><td>29.065.056.002</td><td>-</td><td>28.028.085.828</td><td>-</td></tr></table>
+
+8 CHI PHÍ TRÀ TRƯỚC
+
+(a) Ngắn hạn
+
+<table><tr><td></td><td>31/12/2023VND</td><td>31/12/2022VND</td></tr><tr><td>Công cụ, dụng cụ</td><td>8.219.107.359</td><td>6.759.652.883</td></tr><tr><td>Chi phí thuê đất</td><td>3.338.181.816</td><td>3.338.181.816</td></tr><tr><td>Chi phí bảo hiểm trả trước</td><td>1.764.070.849</td><td>4.779.110.666</td></tr><tr><td>Chi phí sửa chữa (*)</td><td>-</td><td>24.706.892.981</td></tr><tr><td>Chi phí trả trước ngắn hạn khác</td><td>6.840.546.288</td><td>4.250.584.378</td></tr><tr><td></td><td>20.161.906.312</td><td>43.834.422.724</td></tr></table>
+
+(*) Chi phí sửa chữa chủ yếu liên quan tới chi phí sửa chữa cần cấu, nao vét duy tu khu nước trước bền và vùng quay tàu của Công ty Cổ phần Cảng xanh VIP – Công ty con của Công ty, được phân bổ trong vòng một năm.
+
+(b) Dài hạn
+
+<table><tr><td></td><td>31/12/2023VND</td><td>31/12/2022VND</td></tr><tr><td>Chi phí cơ sở hạ tầng trả trước (*)</td><td>684.529.342.852</td><td>703.652.363.924</td></tr><tr><td>Chi phí đất trả trước (**)</td><td>188.313.611.064</td><td>194.916.424.912</td></tr><tr><td>Chi phí thiết kế và sửa chữa văn phòng</td><td>10.721.912.362</td><td>-</td></tr><tr><td>Công cụ, dụng cụ</td><td>9.614.517.983</td><td>9.513.578.972</td></tr><tr><td>Chi phí sửa chữa</td><td>2.827.853.696</td><td>2.139.623.290</td></tr><tr><td>Chi phí trả trước dài hạn khác</td><td>2.432.692.700</td><td>5.904.222.510</td></tr><tr><td></td><td>898.439.930.657</td><td>916.126.213.608</td></tr></table>
+
+27
+
+===== PAGE 31 =====
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+CÔNG TY CỔ PHẦN CONTAINER VIỆT NAM
+
+Mẫu số B 09 – DN/HN
+
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT
+CHO NĂM TÀI CHÍNH KẾT THỨC NGÀY 31 THÁNG 12 NĂM 2023
+
+8 CHI PHÍ TRÀ TRƯỚC (TIẾP THEO)
+
+(b) Dài hạn (tiếp theo)
+
+(*) Chi phí cơ sở hạ tầng trả trước được phân bổ vào báo cáo kết quả hoạt động kinh doanh hợp nhất theo phương pháp đường thẳng trong suốt thời gian thuê bao gồm:
+
+- Tiền thuê cơ sở hạ tầng tại Khu Kinh tế Đình Vũ – Cát Hải, Phường Đông Hải 2, Quận Hải An, Thành phố Hải Phòng của Công ty Cổ phần Cảng xanh VIP cho giai đoạn từ ngày 5 tháng 11 năm 2014 đến ngày 16 tháng 10 năm 2052 theo Hợp đồng đề ngày 5 tháng 11 năm 2014 giữa Công ty Cổ phần Cảng Xanh VIP – công ty con của Công ty và Công ty Cổ phần Vận tải Xăng dầu VIPCO.
+
+- Tiền thuê cơ sở hạ tầng tại Khu công nghiệp Đình Vũ, Thành phố Hải Phòng của Công ty Cổ phần Cảng cạn Quảng Bình – Đình Vũ cho giai đoạn từ ngày 12 tháng 10 năm 2015 và từ ngày 2 tháng 4 năm 2016 đến ngày 23 tháng 6 năm 2058 theo các hợp đồng thuê đất để ngày 12 tháng 10 năm 2015 và ngày 2 tháng 4 năm 2016 với Công ty Cổ phần Khu công nghiệp Đình Vũ.
+
+Tại ngày 31 tháng 12 năm 2023, quyền sử dụng đất và quyền tài sản của Công ty Cổ phần Cảng cạn Quảng Bình – Đình Vũ đã được dùng để làm tài sản thế chấp cho khoản vay dài hạn từ ngân hàng (Thuyết minh 17(***) (i)). Tổng nguyên giá của các tài sản này là 434.546.208.000 Đồng.
+
+(**) Số dư thể hiện tiền thuê đất đã trả trước được phân bổ vào báo cáo kết quả hoạt động kinh doanh hợp nhất theo phương pháp đường thẳng trong suốt thời gian thuê bao gồm:
+
+- Tiền thuê lô đất CC2 tại Khu Công nghiệp Minh Phương, Đình Vũ của Công ty Cổ phần Đầu tư Dịch vụ và Phát triển Xanh cho giai đoạn từ ngày 25 tháng 1 năm 2017 đến ngày 30 tháng 6 năm 2057 theo Hợp đồng thuê lại đất số 61/2017/HĐTĐ-MP đề ngày 25 tháng 1 năm 2017 ký giữa Công ty Cổ phần Đầu tư Dịch vụ và Phát triển Xanh – công ty con của Công ty và Công ty Cổ phần Đầu tư bất động sản Minh Phương.
+
+- Tiền thuê hai lô đất CN3.2G và CN3.2I tại Khu Công nghiệp Đình Vũ của Công ty TNHH Một thành viên Trung tâm Logistics Xanh cho giai đoạn từ ngày 12 tháng 6 năm 2012 và từ ngày 20 tháng 12 năm 2012 đến ngày 2 tháng 4 năm 2047 theo hai Hợp đồng thuê lại đất số DVIZJSC.009.2012.LLC.MKG đề ngày 12 tháng 6 năm 2012 và số DVIZJSC.035.2012.LLC.MKG đề ngày 20 tháng 12 năm 2012 ký giữa Công ty TNHH Một thành viên Trung tâm Logistics Xanh – công ty con của Công ty và Công ty Cổ phần Khu Công nghiệp Đình Vũ.
+
+Tai ngày 31 tháng 12 năm 2023, quyền sử dụng đất và quyền tài sản của Công ty TNHH Một thành viên Trung tâm Logistics Xanh đã được dùng để làm tài sản thế chấp cho khoản vay dài hạn từ ngân hàng (Thuyết minh 17(***) (i)). Tổng nguyên giá của các tài sản này là 12.119.813.200 Đồng.
+
+28
+
+\( \therefore {a}_{1} =  - 1 \)
+
+===== PAGE 32 =====
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+
+CÔNG TY CỔ PHẦN CONTAINER VIỆT NAM
+
+Mẫu số B 09 – DN/HN
+
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT
+CHO NĂM TÀI CHÍNH KẾT THỨC NGÀY 31 THÁNG 12 NĂM 2023
+
+8 CHI PHÍ TRÀ TRƯỚC (TIẾP THEO)
+
+(b) Dài hạn (tiếp theo)
+
+Biến động về chi phí trả trước dài hạn trong năm như sau:
+
+<table><tr><td></td><td>31/12/2023VND</td><td>31/12/2022VND</td></tr><tr><td>Số dư đầu năm</td><td>916.126.213.608</td><td>501.802.196.160</td></tr><tr><td>Tăng trong năm</td><td>28.877.598.539</td><td>16.659.012.203</td></tr><tr><td>Tăng do hợp nhất trong năm (*)</td><td>-</td><td>434.546.208.000</td></tr><tr><td>Phân bổ trong năm</td><td>(46.563.881.490)</td><td>(36.881.202.755)</td></tr><tr><td>Số dư cuối năm</td><td>898.439.930.657</td><td>916.126.213.608</td></tr></table>
+
+(*) Tăng do hợp nhất trong năm 2022 thể hiện phần giá trị hợp lý của khoản chi phí cơ sở hạ tầng trả trước liên quan đến 184.992 m2 đất của Công ty Cổ phần Cảng cạn Quảng Bình – Đình Vũ ("ICD Quảng Bình") phát sinh từ giao dịch hợp nhất kinh doanh trong năm tài chính kết thúc ngày 31 tháng 12 năm 2022.
+
+29
+
+===== PAGE 33 =====
+CÔNG TY CỔ PHẦN CONTAINER VIỆT NAM
+
+Mẫu số B 09 – DN/HN
+
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT
+CHO NĂM TÀI CHÍNH KẾT THỨC NGÀY 31 THÁNG 12 NĂM 2023
+
+9 TÀI SẢN CỔ ĐỊNH
+
+(a) Tài sản cố định hữu hình
+
+<table><tr><td></td><td>Nhà cửa,vật kiến trúcVND</td><td>Máy móc,thiết bịVND</td><td>Phương tiệnvận tảiVND</td><td>Thiết bịquản lýVND</td><td>Tổng cộngVND</td></tr><tr><td colspan="6">Nguyên giá</td></tr><tr><td>Tại ngày 1 tháng 1 năm 2023</td><td>952.119.888.214</td><td>94.593.530.586</td><td>1.479.557.575.233</td><td>18.810.404.454</td><td>2.545.081.398.487</td></tr><tr><td>Chuyển từ chi phí xây dựng cơ bảnđở dang (*)</td><td>349.730.000</td><td>-</td><td>16.881.217.818</td><td>-</td><td>17.230.947.818</td></tr><tr><td>Mua trong năm (*)</td><td>-</td><td>239.348.195</td><td>-</td><td>84.090.909</td><td>323.439.104</td></tr><tr><td>Thanh lý, nhượng bán</td><td>-</td><td>(208.968.000)</td><td>(5.191.113.886)</td><td>(261.352.530)</td><td>(5.661.434.416)</td></tr><tr><td>Tại ngày 31 tháng 12 năm 2023</td><td>952.469.618.214</td><td>94.623.910.781</td><td>1.491.247.679.165</td><td>18.633.142.833</td><td>2.556.974.350.993</td></tr><tr><td colspan="6">Giá trị khấu hao lũy kế</td></tr><tr><td>Tại ngày 1 tháng 1 năm 2023</td><td>(565.384.704.050)</td><td>(75.386.926.506)</td><td>(1.079.159.689.615)</td><td>(16.654.422.162)</td><td>(1.736.585.742.333)</td></tr><tr><td>Khấu hao trong năm</td><td>(55.820.642.272)</td><td>(5.149.379.124)</td><td>(130.975.388.154)</td><td>(1.068.041.974)</td><td>(193.013.451.524)</td></tr><tr><td>Thanh lý, nhượng bán</td><td>-</td><td>208.968.000</td><td>4.930.738.390</td><td>261.352.530</td><td>5.401.058.920</td></tr><tr><td>Tại ngày 31 tháng 12 năm 2023</td><td>(621.205.346.322)</td><td>(80.327.337.630)</td><td>(1.205.204.339.379)</td><td>(17.461.111.606)</td><td>(1.924.198.134.937)</td></tr><tr><td colspan="6">Giá trị còn lại</td></tr><tr><td>Tại ngày 1 tháng 1 năm 2023</td><td>386.735.184.164</td><td>19.206.604.080</td><td>400.397.885.618</td><td>2.155.982.292</td><td>808.495.656.154</td></tr><tr><td>Tại ngày 31 tháng 12 năm 2023</td><td>331.264.271.892</td><td>14.296.573.151</td><td>286.043.339.786</td><td>1.172.031.227</td><td>632.776.216.056</td></tr></table>
+
+(*) Tài sản cố định hữu hình tăng mới trong năm chủ yếu liên quan đến các phương tiện vận tải bao gồm xe ô tô, xe nâng và xe đầu kéo.
+
+Nguyên giá tài sản cố định hữu hình của Tập đoàn tại ngày 31 tháng 12 năm 2023 đã khấu hao hết nhưng còn sử dụng là 1.017.940.134.004 Đồng (tại ngày 31 tháng 12 năm 2022: 573.744.799.162 Đồng).
+
+Tại ngày 31 tháng 12 năm 2023, một số tài sản cố định là nhà cửa, vật kiến trúc của Tập đoàn đã được dùng để làm tài sản thế chấp cho khoản vay dài hạn từ ngân hàng (Thuyết minh 17(***) (i)). Tổng nguyên giá của các tài sản này là 79.307.171.683 Đồng.
+
+30
+
+===== PAGE 34 =====
+- - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+CÔNG TY CỔ PHẦN CONTAINER VIỆT NAM
+
+Mẫu số B 09 – DN/HN
+
+THUYÊT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT
+
+CHO NĂM TÀI CHÍNH KẾT THỨC NGÀY 31 THÁNG 12 NĂM 2023
+
+9 TÀI SẢN CỔ ĐỊNH (TIẾP THEO)
+
+(b) Tài sản cố định vô hình
+
+<table><tr><td></td><td>Quyền sử dụng đất VND</td><td>Phần mềm máy tính VND</td><td>Tổng cộng VND</td></tr><tr><td colspan="4">Nguyên giá</td></tr><tr><td>Tại ngày 1 tháng 1 năm 2023</td><td>5.417.853.001</td><td>16.236.225.749</td><td>21.654.078.750</td></tr><tr><td>Mua trong năm</td><td>-</td><td>585.880.000</td><td>585.880.000</td></tr><tr><td>Tại ngày 31 tháng 12 năm 2023</td><td>5.417.853.001</td><td>16.822.105.749</td><td>22.239.958.750</td></tr><tr><td colspan="4">Giá trị khấu hao lũy kế</td></tr><tr><td>Tại ngày 1 tháng 1 năm 2023</td><td>-</td><td>(15.774.049.504)</td><td>(15.774.049.504)</td></tr><tr><td>Khấu hao trong năm</td><td>-</td><td>(354.073.921)</td><td>(354.073.921)</td></tr><tr><td>Tại ngày 31 tháng 12 năm 2023</td><td>-</td><td>(16.128.123.425)</td><td>(16.128.123.425)</td></tr><tr><td colspan="4">Giá trị còn lại</td></tr><tr><td>Tại ngày 1 tháng 1 năm 2023</td><td>5.417.853.001</td><td>462.176.245</td><td>5.880.029.246</td></tr><tr><td>Tại ngày 31 tháng 12 năm 2023</td><td>5.417.853.001</td><td>693.982.324</td><td>6.111.835.325</td></tr></table>
+
+Nguyên giá tài sản cố định vô hình của Tập đoàn tại ngày 31 tháng 12 năm 2023 đã khấu hao hết nhưng còn sử dụng là 15.873.315.749 Đồng (tại ngày 31 tháng 12 năm 2022: 13.617.933.290 Đồng).
+
+31
+
+===== PAGE 35 =====
+CÔNG TY CỔ PHẦN CONTAINER VIỆT NAM
+
+Mẫu số B 09 – DN/HN
+
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT
+CHO NĂM TÀI CHÍNH KẾT THỨC NGÀY 31 THÁNG 12 NĂM 2023
+
+10 ĐẦU TƯ TÀI CHÍNH
+
+(a) Đầu tư nấm giữ đến ngày đáo hạn
+
+<table><tr><td rowspan="2"></td><td colspan="3">31/12/2023</td><td colspan="3">31/12/2022</td></tr><tr><td>Giá gốc VND</td><td>Giá trị hợp lý VND</td><td>Dự phòng VND</td><td>Giá gốc VND</td><td>Giá trị hợp lý VND</td><td>Dự phòng VND</td></tr><tr><td>Ngắn hạn</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Tiền gửi có kỳ hạn (*)</td><td>425.016.299.943</td><td>425.016.299.943</td><td>-</td><td>239.367.439.500</td><td>239.367.439.500</td><td>-</td></tr></table>
+
+(*) Các khoản tiền gửi có kỳ hạn tại các ngân hàng thương mại bằng VND với kỳ hạn gốc trên 3 tháng kể từ ngày gửi và kỳ hạn còn lại dưới 12 tháng kể từ ngày kết thúc năm kế toán và hưởng lãi suất từ 4% đến 7,9%/năm (tại ngày 31/12/2022: từ 5,2% đến 9,9%/năm).
+
+(b) Đầu tư vào công ty liên kết
+
+<table><tr><td rowspan="2"></td><td colspan="3">31/12/2023</td><td colspan="3">31/12/2022</td></tr><tr><td>Giá trị ghi sổ VND</td><td>Giá trị hợp lý (***) VND</td><td>Dự phòng VND</td><td>Giá trị ghi sổ VND</td><td>Giá trị hợp lý (***) VND</td><td>Dự phòng VND</td></tr><tr><td>Công ty Cổ phần Logistics Cảng Đà Nẵng</td><td>16.645.506.702</td><td>39.960.000.000</td><td>-</td><td>17.630.158.454</td><td>24.242.400.000</td><td>-</td></tr><tr><td>Công ty Cổ phần Dịch vụ Dầu khí Đình Vũ</td><td>93.417.959.832</td><td>70.561.600.000</td><td>-</td><td>91.503.098.817</td><td>61.741.400.000</td><td>-</td></tr><tr><td>Công ty TNHH Tuyến Container T.S. Hà Nội</td><td>4.581.186.174</td><td>(***)</td><td>-</td><td>4.581.186.174</td><td>(***)</td><td>-</td></tr><tr><td>Công ty Cổ phần Cảng VIMC Đình Vũ</td><td>357.408.811.200</td><td>(***)</td><td>-</td><td>372.811.079.026</td><td>(***)</td><td>-</td></tr><tr><td>Công ty TNHH Cảng Nam Hải Đình Vũ</td><td>998.008.999.296</td><td>(***)</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td></td><td>1.470.062.463.204</td><td>(***)</td><td>-</td><td>486.525.522.471</td><td>(***)</td><td>-</td></tr></table>
+
+32
+
+===== PAGE 36 =====
+CÔNG TY CỔ PHẦN CONTAINER VIỆT NAM
+
+Mẫu số B 09 – DN/HN
+
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẮT
+CHO NĂM TÀI CHÍNH KẾT THỨC NGÀY 31 THÁNG 12 NĂM 2023
+
+10 ĐẦU TƯ TÀI CHÍNH (TIẾP THEO)
+
+(b) Đầu tư vào công ty liên kết (tiếp theo)
+
+<table><tr><td></td><td>Công ty Cổ phần Logistics Cảng Đà Nẵng VND</td><td>Công ty Cổ phần Dịch vụ Dầu khí Đình Vũ VND</td><td>Công ty TNHH Tuyến Container T.S. Hà Nội VND</td><td>Công ty Cổ phần Cảng VIMC Đình Vũ VND</td><td>Công ty TNHH Cảng Nam Hải Đình Vũ VND</td><td>Tổng cộng VND</td></tr><tr><td>Số dư tại 1 tháng 1 năm 2023</td><td>17.630.158.454</td><td>91.503.098.817</td><td>4.581.186.174</td><td>372.811.079.026</td><td>-</td><td>486.525.522.471</td></tr><tr><td>Tăng do đầu tư trong năm (**)</td><td>-</td><td>-</td><td>-</td><td>-</td><td>1.004.816.916.396</td><td>1.004.816.916.396</td></tr><tr><td>Chia sẻ lợi nhuận/(lỗ) từ công ty liên kết</td><td>2.335.348.248</td><td>1.914.861.015</td><td>-</td><td>(15.402.267.826)</td><td>(6.807.917.100)</td><td>(17.959.975.663)</td></tr><tr><td>Cổ tức đã nhận</td><td>(3.320.000.000)</td><td>-</td><td>-</td><td>-</td><td>-</td><td>(3.320.000.000)</td></tr><tr><td>Số dư tại 31 tháng 12 năm 2023</td><td>16.645.506.702</td><td>93.417.959.832</td><td>4.581.186.174</td><td>357.408.811.200</td><td>998.008.999.296</td><td>1.470.062.463.204</td></tr></table>
+
+(**) Trong năm 2023, Công ty và hai công ty khác là công ty Đoàn Huy và công ty Huy Hoàng đã ký kết Hợp đồng chuyển nhượng phần vốn góp để mua toàn bộ Cảng Nam Hải Đình Vũ từ Công ty Cổ phần Gemadept và các chủ sở hữu là các cá nhân. Giá trị chuyển nhượng sau điều chỉnh thể hiện trên hóa đơn của Bên chuyển nhượng phát hành cho Công ty là 1.004.816.916.396 Đồng, tương ứng với 35% tỷ lệ cổ phần của Công ty tại Cảng Nam Hải Đình Vũ. Giá trị chuyển nhượng cổ phần được tham khảo từ giá trị doanh nghiệp theo biên bản định giá của một công ty định giá độc lập.
+
+Tại ngày 31 tháng 12 năm 2023, khoản đầu tư vào công ty TNHH Cảng Nam Hải Đình Vũ đang được sử dụng để thế chấp cho các khoản vay ngân hàng của công ty mẹ (Thuyết minh 17).
+
+33
+
+===== PAGE 37 =====
+CÔNG TY CỔ PHẦN CONTAINER VIỆT NAM
+
+Mẫu số B 09 – DN/HN
+
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT
+CHO NĂM TÀI CHÍNH KẾT THỨC NGÀY 31 THÁNG 12 NĂM 2023
+
+10 ĐẦU TƯ TÀI CHÍNH (TIẾP THEO)
+
+(c) Đầu tư góp vốn vào đơn vị khác
+
+<table><tr><td rowspan="2"></td><td colspan="3">31/12/2023</td><td colspan="3">31/12/2022</td></tr><tr><td>Giá gốc VND</td><td>Giá trị hợp lý (***) VND</td><td>Dự phòng VND</td><td>Giá gốc VND</td><td>Giá trị hợp lý (***) VND</td><td>Dự phòng VND</td></tr><tr><td>Công ty TNHH MSC Việt Nam</td><td>155.000.000</td><td>(***)</td><td>-</td><td>155.000.000</td><td>(***)</td><td>-</td></tr></table>
+
+(***) Thuyết minh giá trị hợp lý của các khoản đầu tư tài chính của Tập đoàn trên báo cáo tài chính hợp nhất:
+
+Đối với các đơn vị đầu tư là các công ty có cổ phiếu niêm yết trên các sở giao dịch chứng khoán, cổ phiếu của công ty đại chúng đăng ký giao dịch trên thị trường giao dịch cổ phiếu của công ty đại chúng chưa niêm yết ("UPCoM"), giá trị hợp lý được tính dựa trên giá đóng cửa của ngày có giao dịch gần nhất trước ngày kết thúc kỳ báo cáo hợp nhất.
+
+- Đối với các khoản đầu tư còn lại, Tập đoàn chưa xác định giá trị hợp lý cửa các khoản đầu tư này để thuyết minh trong báo cáo tài chính hợp nhất do không có giá niêm yết trên thị trường cho các khoản đầu tư này và các Chuẩn mực Kế toán Việt Nam, Chế độ Kế toán Doanh nghiệp Việt Nam và các quy định pháp lý có liên quan đến việc lập và trình bày báo cáo tài chính hợp nhất không có hướng dẫn chi tiết về cách tính giá trị hợp lý. Giá trị hợp lý cửa các khoản đầu tư này có thể khác với giá trị ghi sổ.
+
+34
+
+===== PAGE 38 =====
+「
+「
+「
+「
+「
+「
+「
+「
+「
+「
+「
+「
+「
+「
+「
+「
+「
+
+CÔNG TY CỔ PHẦN CONTAINER VIỆT NAM
+
+Mẫu số B 09 – DN/HN
+
+THUYÊT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT
+
+CHO NĂM TÀI CHÍNH KẾT THỨC NGÀY 31 THÁNG 12 NĂM 2023
+
+11 LỘI THẾ THƯƠNG MẠI
+
+<table><tr><td></td><td>Công ty Cổ phầnCảng cạn Quảng BìnhVND</td></tr><tr><td colspan="2">Nguyên giá</td></tr><tr><td>Tại ngày 1 tháng 1 năm 2023</td><td>4.394.353.039</td></tr><tr><td>Tăng sau quyết toán giá trị chuyển nhượng</td><td>900.589.799</td></tr><tr><td>Tại ngày 31 tháng 12 năm 2023</td><td>5.294.942.838</td></tr><tr><td colspan="2">Giá trị khấu hao lũy kế</td></tr><tr><td>Tại ngày 1 tháng 1 năm 2023</td><td>(221.523.550)</td></tr><tr><td>Khấu hao trong năm</td><td>(504.051.612)</td></tr><tr><td>Tại ngày 31 tháng 12 năm 2023</td><td>(725.575.162)</td></tr><tr><td colspan="2">Giá trị còn lại</td></tr><tr><td>Tại ngày 1 tháng 1 năm 2023</td><td>4.172.829.489</td></tr><tr><td>Tại ngày 31 tháng 12 năm 2023</td><td>4.569.367.676</td></tr></table>
+
+12 PHÀI TRÀ NGƯỜI BÁN NGĂN HẠN
+
+<table><tr><td></td><td>31/12/2023VND</td><td>31/12/2022VND</td></tr><tr><td>Bên thứ ba</td><td>88.911.486.929</td><td>73.191.861.351</td></tr><tr><td>Trong đó:</td><td></td><td></td></tr><tr><td>- Công ty TNHH Xây dựng Chấn Nam</td><td>14.458.563.712</td><td>-</td></tr><tr><td>- Khác (*)</td><td>74.452.923.217</td><td>73.191.861.351</td></tr><tr><td>Bên liên quan (Thuyết minh 35(b))</td><td>20.947.308.023</td><td>2.583.100.720</td></tr><tr><td></td><td>109.858.794.952</td><td>75.774.962.071</td></tr></table>
+
+(*) Tại ngày 31 tháng 12 năm 2023 và ngày 31 tháng 12 năm 2022, không có bên thứ ba nào khác có số dư chiếm hơn 10% trên tổng số dư các khoản phải trả ngắn hạn.
+
+35
+
+===== PAGE 39 =====
+CÔNG TY CỔ PHẦN CONTAINER VIỆT NAM
+
+Mẫu số B 09 – DN/HN
+
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT
+CHO NĂM TÀI CHÍNH KẾT THỨC NGÀY 31 THÁNG 12 NĂM 2023
+
+13 THUẾ VÀ CÁC KHOÀN PHÀI THU/PHÀI NỘP NHÀ NƯỚC
+
+Biến động về thuế và các khoản phải thu/phải nộp Nhà nước trong năm như sau:
+
+<table><tr><td colspan="2"></td><td>Tại ngày1/1/2023VND</td><td>Số phát sinhtăng trong nămVND</td><td>Số thực thutrong năm (*)VND</td><td>Cán trừVND</td><td>Phân loại lạiVND</td><td>Tại ngày31/12/2023VND</td></tr><tr><td>(a)</td><td>Thuế GTGT được khấu trừThuế GTGT được khấu trừ</td><td>72.728.817.007</td><td>117.395.601.662</td><td>(24.996.007.100)</td><td>(129.738.702.242)</td><td>-</td><td>35.389.709.327</td></tr><tr><td rowspan="3">(b)</td><td rowspan="3">Thuế và các khoản khác phải thu Nhà nướcThuế thu nhập cá nhânThuế TNDNThuế khác</td><td>26.533.5911.238.620.2414.694.001</td><td>----</td><td>----</td><td>(4.694.001)</td><td>64.402.229283.012.994</td><td>90.935.8201.521.633.235</td></tr><tr><td>1.269.847.833</td><td>----</td><td>----</td><td>(4.694.001)</td><td>347.415.223</td><td>1.612.569.055</td></tr><tr><td>Tại ngày1/1/2023VND</td><td>Số phát sinhtăng trong nămVND</td><td>Số thực nộptrong nămVND</td><td>Cán trừVND</td><td>Phân loại lạiVND</td><td>Tại ngày31/12/2023VND</td></tr><tr><td rowspan="3">(c)</td><td rowspan="3">Phải nộpThuế GTGT đầu raThuế thu nhập cá nhânThuế TNDNThuế và các khoản phàinộp Nhà nước khác</td><td>2.036.390.4484.710.997.49317.661.847.636</td><td>166.938.458.79413.132.302.93966.464.273.744</td><td>(35.297.699.838)(14.523.750.590)(62.414.431.030)</td><td>(129.738.702.242)-</td><td>64.402.229283.012.994</td><td>3.938.447.1623.383.952.07121.994.703.344</td></tr><tr><td>-</td><td>9.108.285.403</td><td>(9.103.020.065)</td><td>(4.694.001)</td><td>-</td><td>571.337</td></tr><tr><td>24.409.235.577</td><td>255.643.320.880</td><td>(121.338.901.523)</td><td>(129.743.396.243)</td><td>347.415.223</td><td>29.317.673.914</td></tr></table>
+
+(*) Thực thu trong năm liên quan đến số tiền thuế GTGT hoàn trả cho Công ty Cổ phần Cảng Xanh VIP, công ty con của Tập đoàn với tổng số tiền là 24.996.007.100 Đồng, căn cứ theo Quyết định 1273/QĐ-CTHPH-KDT đề ngày 29 tháng 8 năm 2023, Cục thuế Thành phố Hải Phòng quyết định.
+
+36
+
+===== PAGE 40 =====
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+CÔNG TY CÓ PHẦN CONTAINER VIỆT NAM
+
+Mẫu số B 09 – DN/HN
+
+THUYÊT MINH BÁO CÁO TÀI CHÍNH HỢP NHẮT
+
+CHO NĂM TÀI CHÍNH KẾT THỨC NGÀY 31 THÁNG 12 NĂM 2023
+
+14 PHÀI TRÀ NGƯỜI LAO ĐỘNG
+
+<table><tr><td></td><td>31/12/2023VND</td><td>31/12/2022VND</td></tr><tr><td>Chi phí lương phải trả</td><td>27.295.972.188</td><td>20.461.886.829</td></tr><tr><td>Chi phí thường phải trả (*)</td><td>27.796.508.789</td><td>23.897.529.866</td></tr><tr><td></td><td>55.092.480.977</td><td>44.359.416.695</td></tr></table>
+
+(*) Tại ngày 31 tháng 12 năm 2023, các công ty trong Tập đoàn trích thường dựa trên các quy định của thỏa ước lao động tập thể.
+
+15 CHI PHÍ PHÀI TRÀ
+
+(a) Ngắn hạn
+
+<table><tr><td></td><td>31/12/2023VND</td><td>31/12/2022VND</td></tr><tr><td>Chi phí thường năng suất cho nhân viên dự trả (*)</td><td>37.618.458.497</td><td>11.330.793.775</td></tr><tr><td>Chi phí hoa hồng</td><td>7.763.454.399</td><td>2.088.721.330</td></tr><tr><td>Chi phí bồi thường bảo hiểm (**)</td><td>5.000.000.000</td><td>-</td></tr><tr><td>Chi phí lãi vay phải trả</td><td>5.793.967.601</td><td>-</td></tr><tr><td>Chi phí phải trả ngắn hạn khác</td><td>2.694.480.059</td><td>5.254.907.493</td></tr><tr><td></td><td>58.870.360.556</td><td>18.674.422.598</td></tr></table>
+
+(*) Tại ngày 31 tháng 12 năm 2023, các công ty trong Tập đoàn chưa ban hành quyết định thường năng suất cho năm tài chính kết thúc ngày 31 tháng 12 năm 2023. Do đó, khoản thường năng suất được ước tính cho năm 2023 và ghi nhận vào chỉ phí phải trả ngắn hạn.
+
+(**) Trong năm, một công ty con của Tập đoàn, đã gây ra tổn thất trong quá trình bốc xếp. Tại ngày của báo cáo tài chính, chi phí bồi thường tổn thất ước tính là 5.000.000.000 đồng (Thuyết minh 31).
+
+(b) Dài hạn
+
+<table><tr><td></td><td>31/12/2023VND</td><td>31/12/2022VND</td></tr><tr><td>Chi phí lãi vay phải trả (*)</td><td>8.502.467.705</td><td>-</td></tr></table>
+
+(*) Khoản lãi vay phát sinh từ khoản vay tại Ngân hàng Thương mại Cổ phần Bảo Việt - Chi nhánh Hải Phòng theo hợp đồng tín dụng số 0097-2023-HĐTD1-BVB021 đề ngày 15 tháng 5 năm 2023. Theo đó, lãi vay được ân hạn trong vòng 21 tháng kể từ thời điểm giải ngân khoản vay và sẽ được nhập gốc trong năm 2024 và thanh toán theo các điều khoản của khoản nợ gốc trong hợp đồng vay (Thuyết minh 17(***(ii)).
+
+37
+
+===== PAGE 41 =====
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+
+CÔNG TY CỔ PHẦN CONTAINER VIỆT NAM
+
+Mẫu số B 09 – DN/HN
+
+THUYẾT MINH BẢO CÁO TÀI CHÍNH HỢP NHẤT
+
+CHO NĂM TÀI CHÍNH KẾT THỨC NGÀY 31 THÁNG 12 NĂM 2023
+
+16 PHÀI TRÀ NGÂN HẠN KHÁC
+
+<table><tr><td></td><td>31/12/2023VND</td><td>31/12/2022VND</td></tr><tr><td>Phải trả liên quan đến đầu tư vào công ty con (*)</td><td>-</td><td>37.000.000.000</td></tr><tr><td>Khác</td><td>14.271.499.464</td><td>18.625.319.941</td></tr><tr><td></td><td>14.271.499.464</td><td>55.625.319.941</td></tr></table>
+
+(*) Tại ngày 31 tháng 12 năm 2022, số dư thể hiện khoản phải trả của Công ty liên quan tới việc đầu tư vào Công ty Cổ phần Cảng cạn Quảng Bình. Khoản phải trả này đã được thanh toán thành hai lần vào các ngày 17 tháng 5 năm 2023 và 30 tháng 6 năm 2023 sau khi các thủ tục chuyển nhượng đã hoàn tất.
+
+38
+
+===== PAGE 42 =====
+CÔNG TY CỔ PHẦN CONTAINER VIỆT NAM
+
+Mẫu số B 09 – DN/HN
+
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT
+CHO NĂM TÀI CHÍNH KẾT THỨC NGÀY 31 THÁNG 12 NĂM 2023
+
+17 VAY VÀ NỘ THUÊ TÀI CHÍNH
+
+Biến động của khoản vay trong năm như sau:
+
+<table><tr><td colspan="2"></td><td>Tại ngày1/1/2023VND</td><td>Tăng trong nămVND</td><td>Thanh toántrong nămVND</td><td>Lãi nhập gốcVND(Thuyết minh 34)</td><td>Nợ ngắn hạnđến hạn trảVND</td><td>Tại ngày31/12/2023VND</td></tr><tr><td rowspan="8">(a)</td><td colspan="7">Vay ngắn hạn</td></tr><tr><td>Vay ngân hàng (*)</td><td>36.600.000.000</td><td>36.600.000.000</td><td>(73.200.000.000)</td><td>-</td><td>5.163.395.096</td><td>5.163.395.096</td></tr><tr><td>Vay bên thứ ba</td><td>171.800.000.000</td><td>150.000.000.000</td><td>(211.800.000.000)</td><td>2.685.573.439</td><td>-</td><td>112.685.573.439</td></tr><tr><td colspan="7">Trong đó:</td></tr><tr><td>- Vay từ Đoàn Huy</td><td>171.800.000.000</td><td>-</td><td>(171.800.000.000)</td><td>-</td><td>-</td><td>-</td></tr><tr><td>- Vay từ Gemadept (**)</td><td>-</td><td>150.000.000.000</td><td>(40.000.000.000)</td><td>2.685.573.439</td><td>-</td><td>112.685.573.439</td></tr><tr><td>Thuê tài chính (****)</td><td>-</td><td>-</td><td>-</td><td>-</td><td>986.941.908</td><td>986.941.908</td></tr><tr><td></td><td>208.400.000.000</td><td>186.600.000.000</td><td>(285.000.000.000)</td><td>2.685.573.439</td><td>6.150.337.004</td><td>118.835.910.443</td></tr><tr><td rowspan="7">(b)</td><td colspan="7">Vay dài hạn</td></tr><tr><td>Vay ngân hàng (***)</td><td>700.000.000.000</td><td>700.000.000.000</td><td>(96.500.000.000)</td><td>147.718.205.479</td><td>(5.163.395.096)</td><td>1.446.054.810.383</td></tr><tr><td colspan="7">Trong đó:</td></tr><tr><td>- Khoản vay của công ty con (i)</td><td>700.000.000.000</td><td>-</td><td>(96.500.000.000)</td><td>98.104.506.849</td><td>(5.163.395.096)</td><td>696.441.111.753</td></tr><tr><td>- Khoản vay của công ty mẹ (ii)</td><td>-</td><td>700.000.000.000</td><td>-</td><td>49.613.698.630</td><td>-</td><td>749.613.698.630</td></tr><tr><td>Thuê tài chính (****)</td><td>-</td><td>5.249.094.866</td><td>(567.950.331)</td><td>-</td><td>(986.941.908)</td><td>3.694.202.627</td></tr><tr><td></td><td>700.000.000.000</td><td>705.249.094.866</td><td>(97.067.950.331)</td><td>147.718.205.479</td><td>(6.150.337.004)</td><td>1.449.749.013.010</td></tr></table>
+
+39
+
+===== PAGE 43 =====
+- - - - - - - - - - - - - - - - - - - - - - - - -
+
+CÔNG TY CỔ PHẦN CONTAINER VIỆT NAM
+
+Mẫu số B 09 – DN/HN
+
+THUYẾT MINH BẢO CẢO TÀI CHÍNH HỢP NHẤT
+
+CHO NĂM TÀI CHÍNH KẾT THỨC NGÀY 31 THÁNG 12 NĂM 2023
+
+17 VAY VÀ NỘ THUÊ TÀI CHÍNH (TIẾP THEO)
+
+(*) Số dư khoản vay ngắn hạn của Tập đoàn với ngân hàng tại ngày 31 tháng 12 năm 2023 thể hiện các khoản vay như sau:
+
+Khoản vay dài hạn đến hạn trả với số tiền là 5.163.395.096 Đồng của Công ty TNHH MTV Trung tâm Logistics Xanh và Công ty TNHH MTV Cảng Xanh – công ty con của Tập đoàn với Ngân hàng Thương mại Cổ phần Bảo Việt theo các khế ước nhận nợ số 1183.03-2023-KUNN1-BVB201 đề ngày 26 tháng 6 năm 2023 và số 1183.03-2023-KUNN1-BVB201 đề ngày 25 tháng 12 năm 2023 và hợp đồng tín dụng số 1182-2022-HĐTD1-BVB021 và hợp đồng số 1183-2022-HĐTD1-BVB021 tương ứng, cùng các phụ lục đi kèm đề ngày 28 tháng 12 năm 2022 (Thuyết minh 17(***)).
+
+(**) Số dư khoản vay ngắn hạn của Tập đoàn từ bên thứ ba tại ngày 31 tháng 12 năm 2023 thể hiện các khoản vay như sau:
+
+Khoản vay ngắn hạn không có tài sản đảm bảo tử Công ty Cổ phần Gemadept ("Gemadept") theo hợp đồng vay vốn số 01/HDVV/GMD-VSC để ngày 29 tháng 5 năm 2023. Thời hạn vay của khoản vay là 1 tháng tính từ ngày giải ngân khoản vay là ngày 30 tháng 5 năm 2023. Khoản vay có thể được gia hạn theo thỏa thuận của các bên và thời gian gia hạn mỗi lần là một tháng và tổng thời gian gia hạn tối đa là hai tháng kể từ ngày đến hạn đầu tiên. Đầy là khoản tiền Công ty vay để thanh toán cho việc mua phần vốn góp tại Cảng Nam Hải Đình Vũ (Thuyết minh 10(b)). Lãi vay áp dụng cho khoản vay trong thời hạn vay vốn là 7,5%/năm. Lãi vay và gốc vay được trả một lần vào cuối kỳ. Đến ngày báo cáo tài chính hợp nhất này, khoản vay này đã đến hạn thanh toán nhưng Gemadept chưa gửi yêu cầu thanh toán do Công ty và Gemadept vẫn đang trong quá trình trao đổi để gia hạn khoản vay này.
+
+(***) Số dư khoản vay dài hạn của Tập đoàn với ngân hàng tại ngày 31 tháng 12 năm 2023 thể hiện các vay như sau:
+
+(i) Khoản vay và lãi vay từ Ngân hàng Thương mại Cổ phần Bảo Việt - Chi nhánh Hải Phòng của Công ty TNHH MTV Trung tâm Logistics Xanh và Công ty TNHH MTV Cảng Xanh, các công ty con của Tập đoàn, với tổng số tiền gốc ban đầu là 700.000.000.000 Đồng theo hợp đồng tín dụng tương ứng số 1182-2022-HĐTD1-BVB021 và hợp đồng số 1183-2022-HĐTD1-BVB021 đề ngày 28 tháng 12 năm 2022. Đồng thời, căn cứ các khế ước nhận nợ số 1183.03-2023-KUNN1-BVB201 đề ngày 26 tháng 6 năm 2023 và số 1183.03-2023-KUNN1-BVB201 đề ngày 25 tháng 12 năm 2023 của từng công ty con, số tiền lãi vay được ăn hạn đã được nhập vào gốc vay là 104.077.641.603 Đồng. Thời hạn vay của khoản vay là 240 tháng tính từ ngày giải ngân khoản vay. Mục đích của khoản vay để góp vốn thực hiện Dự án Khách sạn Hyatt Place Hải Phòng (Thuyết minh 6(b)).
+
+Lãi suất cho vay được quy định theo từng thời kỳ theo quy định của ngân hàng. Gốc vay được ân hạn 12 tháng từ ngày giải ngân đầu tiên và kỳ trả gốc đầu tiên là tháng thứ 15 từ ngày giải ngân. Lãi vay được ân hạn 12 tháng từ ngày giải ngân đầu tiên và sẽ nhập gốc trong thời gian ân hạn vào tháng thứ 6 và tháng thứ 12 kể từ ngày giải ngân. Sau thời gian ân hạn lãi, lãi vay được trả định kỳ hàng tháng theo dư nợ thực tế.
+
+Tại ngày 31 tháng 12 năm 2023, Tập đoàn đã phân loại lại số dư vay dài hạn đến hạn trả trong 12 tháng tiếp theo kể từ ngày bằng cân đối kế toán là 5.163.395.096 đồng.
+
+40
+
+===== PAGE 44 =====
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+47
+48
+49
+50
+51
+52
+53
+54
+55
+56
+57
+58
+59
+60
+61
+62
+63
+64
+65
+66
+67
+68
+69
+70
+71
+72
+73
+74
+75
+76
+77
+78
+79
+80
+
+CÔNG TY CỔ PHẦN CONTAINER VIỆT NAM
+
+Mẫu số B 09 – DN/HN
+
+THUYÊT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT
+
+CHO NĂM TÀI CHÍNH KẾT THỨC NGÀY 31 THÁNG 12 NĂM 2023
+
+17 VAY VÀ NỘ THUÊ TÀI CHÍNH (TIẾP THEO)
+
+(***) Số dư khoản vay dài hạn của Tập đoàn với ngân hàng tại ngày 31 tháng 12 năm 2023 thể hiện các vay như sau: (tiếp theo)
+
+(ii) Khoản vay và lãi vay từ Ngân hàng Thương mại Cổ phần Bảo Việt - Chỉ nhánh Hải Phòng của Công ty với số tiền là 700.000.000.000 Đồng theo hợp đồng tín dụng số 0097-2023-HĐTD1-BVB021 đề ngày 15 tháng 5 năm 2023. Thời hạn vay của khoản vay là 180 tháng tính từ ngày giải ngân khoản vay. Mục đích của khoản vay là thanh toán tiền mua phần vốn góp tại Cảng Nam Hải Đình Vũ theo hợp đồng chuyển nhượng vốn góp số GMD/VSC/SPA ngày 19 tháng 4 năm 2023 giữa Công ty và Công ty Cổ phần Gemadept và các phụ lục khác kèm theo.
+
+Theo khế ước nhận nợ số 0097.01-2023-KUNN1-BVB021 ký với Ngân hàng Thương mại Cổ phần Bảo Việt - Chi nhánh Hải Phòng đề ngày 15 tháng 5 năm 2023, gốc vay của khoản vay được âm hạn trong vòng 21 tháng kể từ ngày giải ngân đầu tiên và sau đó Công ty sẽ phải hoàn trả gốc trong 53 phân kỳ, mỗi phân kỳ là 3 tháng/lần. 52 phân kỳ đầu tiên trả 13,2 tỷ đồng và phân kỳ cuối cùng trả 13,6 tỷ đồng.
+
+Cũng theo khế ước nhân nợ này, lãi vay của khoản vay là 14%/năm cho 6 tháng đầu tiên sau đó được điều chỉnh bằng lãi vay cơ sở bằng VND dành cho khách hàng doanh nghiệp kỳ hạn 13 tháng theo quy định của Ngân hàng tại thời điểm điều chỉnh + 4%/năm. Lãi vay được ăn hạn trong vòng 21 tháng kể từ ngày giải ngân và sẽ nhập gốc trong thời gian ăn hạn vào tháng thứ 6, 12, 18, 21 kể từ ngày giải ngân. Sau thời gian ăn hạn lãi, lãi vay được trả hàng tháng vào ngày 25 trong suốt thời gian còn lại của khoản vay.
+
+Căn cứ khế ước nhận nợ số 0097.02-2023-KUNN1-BVB021 ký với Ngân hàng Thương mại Cổ phần Bảo Việt - Chi nhánh Hải Phòng đề ngày 25 tháng 11 năm 2023, số tiền lãi vay được ăn hạn đã được nhập vào gốc vay là 49.613.698.630 Đồng.
+
+Tập đoàn đã sử dụng các tài sản sau để thế chấp cho các khoản vay dài hạn của Tập đoàn với Ngân hàng Thương mại Cổ phần Bảo Việt – Chi nhánh Hải Phòng như sau:
+
+- Toàn bộ quyền sử dụng đất và quyền tài sản của Công ty Cổ phần Container Việt Nam đang được Công ty TNHH Một thành viên Vận tải biển Ngôi Sao Xanh và Công ty TNHH Một Thành Viên Dịch vụ Cảng Xanh sử dụng (Thuyết minh 9(a));
+
+- Phần vốn góp của Công ty tại Công ty CP Cảng Xanh VIP, Công ty TNHH Một Thành Viên Trung tâm Logistics Xanh, và Công ty TNHH Một Thành Viên Dịch vụ Cảng Xanh;
+
+- Toàn bộ quyền sử dụng đất và quyền tài sản trên đất của các công ty con trong Tập đoàn:
+
+- Công ty Cổ phần Cảng cạn Quảng Bình – Đình Vũ và (Thuyết minh 8(b) và 9(a))
+- Công ty TNHH Một thành viên Trung tâm Logistics Xanh (Thuyết minh 8(b));
+
+100% cổ phần/chứng khoán chưa lưu ký của các công ty con trong Tập đoàn tại Công ty Cổ phần Cảng cạn Quảng Bình – Đình Vũ;
+
+• Quyền khai thác cảng biển của Công ty TNHH MTV Dịch vụ Cảng Xanh; và
+
+- Quyền tài sản và phần vốn góp của Công ty tại Công ty TNHH Cắng Nam Hải Đình Vũ (Thuyết minh 10(b)).
+
+41
+
+===== PAGE 45 =====
+CÔNG TY CỔ PHẦN CONTAINER VIỆT NAM
+
+Mẫu số B 09 – DN/HN
+
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT
+CHO NĂM TÀI CHÍNH KẾT THỨC NGÀY 31 THÁNG 12 NĂM 2023
+
+17 VAY VÀ NỘ THUÊ TÀI CHÍNH (TIẾP THEO)
+
+(****) Chi tiết số dư khoản nợ thuê tài chính của Tập đoàn với bên thứ ba tại ngày 31 tháng 12 năm 2023 được thể hiện như sau:
+
+<table><tr><td rowspan="2"></td><td colspan="3">31/12/2023</td><td colspan="3">31/12/2022</td></tr><tr><td>Tổng nợ thuê tài chính VND</td><td>Chi phí lãi thuê VND</td><td>Nợ gốc VND</td><td>Tổng nợ thuê tài chính VND</td><td>Chi phí lãi thuê VND</td><td>Nợ gốc VND</td></tr><tr><td>Dưới 1 năm</td><td>986.941.908</td><td>-</td><td>986.941.908</td><td>-</td><td>-</td><td>-</td></tr><tr><td>Từ 1 đến 5 năm</td><td>3.694.202.627</td><td>-</td><td>3.694.202.627</td><td>-</td><td>-</td><td>-</td></tr><tr><td></td><td>4.681.144.535</td><td>-</td><td>4.681.144.535</td><td>-</td><td>-</td><td>-</td></tr></table>
+
+Số dư tại ngày 31 tháng 12 năm 2023 liên quan tới tài sản cố định thuê tài chính của Công ty TNHH Một thành viên Viconship Hồ Chí Minh – công ty con của Tập đoàn theo hợp đồng thuê số B230817101 đề ngày 7 tháng 9 năm 2023 với Công ty cho thuê tài chính TNHH MTV Quốc tế Chailease. Theo đó, công ty con thuê 3 xe đầu kéo với thời hạn thuê là 60 tháng.
+
+42
+
+===== PAGE 46 =====
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+CÔNG TY CÓ PHẦN CONTAINER VIỆT NAM
+
+Mẫu số B 09 – DN/HN
+
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT
+
+CHO NĂM TÀI CHÍNH KẾT THỨC NGÀY 31 THÁNG 12 NĂM 2023
+
+18 QUỸ KHEN THƯỜNG, PHÚC LỢI
+
+Quỹ này được trích lập từ lợi nhuận chưa phân phối theo sự phê duyệt của các cổ đông tại cuộc họp Đại Hội đồng Cổ đông. Quỹ được sử dụng để chi trả các khoản khen thưởng và phúc lợi cho các nhân viên của Công ty theo chính sách khen thưởng và phúc lợi của Công ty. Biến động của quỹ khen thưởng, phúc lợi trong năm như sau:
+
+<table><tr><td></td><td>2023VND</td><td>2022VND</td></tr><tr><td>Số dư đầu năm</td><td>4.730.352.601</td><td>5.733.190.501</td></tr><tr><td>Trích lập trong năm (Thuyết minh 21)</td><td>28.000.000.000</td><td>23.000.000.000</td></tr><tr><td>Sử dụng trong năm</td><td>(18.773.213.106)</td><td>(24.002.837.900)</td></tr><tr><td>Số dư cuối năm</td><td>13.957.139.495</td><td>4.730.352.601</td></tr></table>
+
+19 THUẾ TNDN HOÃN LẠI PHẢI TRÀ
+
+<table><tr><td></td><td>31/12/2023VND</td><td>31/12/2022VND</td></tr><tr><td>Thuế TNDN hoãn lại phải trả sau 12 tháng (*)</td><td>30.412.872.712</td><td>30.858.278.235</td></tr></table>
+
+(*) Chi tiết thuế TNDN hoãn lại phải trả như sau:
+
+<table><tr><td></td><td>31/12/2023VND</td><td>31/12/2022VND</td></tr><tr><td>Chênh lệch tạm thời chịu thuế:Chênh lệch đánh giá lại tài sản do hợp nhất kinh doanh</td><td>152.064.363.560</td><td>154.291.391.175</td></tr><tr><td>Tính ở thuế suất 20%:Thuế TNDN hoãn lại phải trả sau 12 tháng</td><td>30.412.872.712</td><td>30.858.278.235</td></tr></table>
+
+20 VỐN GÓP CỦA CHỦ SỞ HỮU
+
+(a) Số lượng cổ phiếu
+
+<table><tr><td></td><td>31/12/2023Cổ phiếu phổ thông</td><td>31/12/2022Cổ phiếu phổ thông</td></tr><tr><td>Số lượng cổ phiếu đã đăng ký</td><td>133.395.642</td><td>121.269.397</td></tr><tr><td>Số lượng cổ phiếu đã phát hành</td><td>133.395.642</td><td>121.269.397</td></tr><tr><td>Số lượng cổ phiếu đang lưu hành</td><td>133.395.642</td><td>121.269.397</td></tr></table>
+
+Mệnh giá cổ phiếu: 10.000 Đồng trên một cổ phiếu.
+
+(b) Chi tiết góp vốn của chủ sở hữu
+
+Cổ đông của Công ty là các cổ đông tổ chức và cá nhân. Mỗi một cổ đông tổ chức và cá nhân đều sở hữu dưới 5% số cổ phiếu có quyền biểu quyết của Công ty.
+
+43
+
+===== PAGE 47 =====
+CÔNG TY CỔ PHẦN CONTAINER VIỆT NAM
+
+Mẫu số B 09 – DN/HN
+
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT
+CHO NĂM TÀI CHÍNH KẾT THỨC NGÀY 31 THÁNG 12 NĂM 2023
+
+21 TÌNH HÌNH TĂNG GIÀM NGUỒN VỐN CHỦ SỞ HỮU
+
+<table><tr><td></td><td>Vốn góp của chủ sở hữu (***) VND</td><td>Thăng dư vốn cổ phần VND</td><td>Vốn khác của chủ sở hữu VND</td><td>Quỹ đầu tư phát triển VND</td><td>Quỹ khác VND</td><td>LNST chưa phân phối VND</td><td>Lợi ích cổ đông không kiểm soát VND</td><td>Tổng cộng VND</td></tr><tr><td>Tại ngày 1 tháng 1 năm 2022</td><td>551.227.980.000</td><td>36.141.891.246</td><td>-</td><td>826.088.451.117</td><td>-</td><td>659.965.436.905</td><td>373.650.548.295</td><td>2.447.074.307.563</td></tr><tr><td>Lợi nhuận thuần trong năm</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>314.293.593.407</td><td>78.845.533.336</td><td>393.139.126.743</td></tr><tr><td>Trích lập Quỹ đầu tư phát triển</td><td>-</td><td>-</td><td>-</td><td>49.454.544.330</td><td>-</td><td>(49.454.544.330)</td><td>-</td><td>-</td></tr><tr><td>Trích lập Quỹ khác</td><td>-</td><td>-</td><td>-</td><td>-</td><td>1.382.700.000</td><td>(1.382.700.000)</td><td>-</td><td>-</td></tr><tr><td>Trích lập Quỹ khen thưởng, phúc lợi</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>(23.000.000.000)</td><td>-</td><td>(23.000.000.000)</td></tr><tr><td>Thường Hội đồng Quản trị và Ban Kiểm soát</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>(5.345.000.000)</td><td>-</td><td>(5.345.000.000)</td></tr><tr><td>Góp vốn bằng tiền</td><td>551.227.980.000</td><td>3.261.630.000</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>554.489.610.000</td></tr><tr><td>Chia cổ tức cho cổ đông không kiểm soát</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>(43.136.250.000)</td><td>(43.136.250.000)</td></tr><tr><td>Chia cổ tức bằng cổ phiếu năm 2021</td><td>110.238.010.000</td><td>-</td><td>-</td><td>-</td><td>-</td><td>(110.238.010.000)</td><td>-</td><td>-</td></tr><tr><td>Tạm ứng cổ tức năm 2022</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>(121.269.397.000)</td><td>-</td><td>(121.269.397.000)</td></tr><tr><td>Khác</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>459.591.971</td><td>(1.211.641.971)</td><td>(752.050.000)</td></tr><tr><td>Tại ngày 31 tháng 12 năm 2022</td><td>1.212.693.970.000</td><td>39.403.521.246</td><td>-</td><td>875.542.995.447</td><td>1.382.700.000</td><td>664.028.970.953</td><td>408.148.189.660</td><td>3.201.200.347.306</td></tr><tr><td>Trích lập Quỹ đầu tư phát triển</td><td>-</td><td>-</td><td>-</td><td>11.083.248.329</td><td>-</td><td>(11.083.248.329)</td><td>-</td><td>-</td></tr><tr><td>Trích lập Quỹ khen thưởng, phúc lợi (Thuyết minh 18) (*)</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>(28.000.000.000)</td><td>-</td><td>(28.000.000.000)</td></tr><tr><td>Thường Hội đồng Quản trị và Ban Kiểm soát (*)</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>(7.271.635.638)</td><td>-</td><td>(7.271.635.638)</td></tr><tr><td>Chia cổ tức bằng cổ phiếu năm 2022 (**)</td><td>121.262.450.000</td><td>-</td><td>-</td><td>-</td><td>-</td><td>(121.262.450.000)</td><td>-</td><td>-</td></tr><tr><td>Chia cổ tức cho cổ đông không kiểm soát (***)</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>(54.164.095.200)</td><td>(54.164.095.200)</td></tr><tr><td>Lợi nhuận thuần trong năm</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>123.623.359.657</td><td>75.398.666.263</td><td>199.022.025.920</td></tr><tr><td>Ứng trước cổ tức năm nay cho cổ đông không kiểm soát (****)</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>(16.225.000.000)</td><td>(16.225.000.000)</td></tr><tr><td>Khác</td><td>-</td><td>-</td><td>1.382.700.000</td><td>-</td><td>(1.382.700.000)</td><td>-</td><td>(254.745.000)</td><td>(254.745.000)</td></tr><tr><td>Tại ngày 31 tháng 12 năm 2023</td><td>1.333.956.420.000</td><td>39.403.521.246</td><td>1.382.700.000</td><td>886.626.243.776</td><td>-</td><td>620.034.996.643</td><td>412.903.015.723</td><td>3.294.306.897.388</td></tr></table>
+
+(*) Theo Nghị quyết số 01/2023/NQ-ĐHĐCD đề ngày 10 tháng 3 năm 2023, Đại hội đồng Cổ đông của Công ty đã phê duyệt việc tạm ứng cổ tức (đã thực hiện trong năm 2022) và việc chia cổ tức bằng cổ phiếu (thực hiện trong năm 2023) từ nguồn lợi nhuận của năm 2022, đồng thời, trích lập Quỹ khen thưởng, phúc lợi, thưởng Hội đồng Quản trị và Ban Kiểm soát.
+
+44
+
+===== PAGE 48 =====
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+CÔNG TY CỔ PHẦN CONTAINER VIỆT NAM
+
+Mẫu số B 09 – DN/HN
+
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT
+
+CHO NĂM TÀI CHÍNH KẾT THỨC NGÀY 31 THÁNG 12 NĂM 2023
+
+21 TÌNH HÌNH TĂNG GIÀM NGUỒN VỐN CHỦ SỞ HỮU (TIẾP THEO)
+
+(**) Ngày 14 tháng 6 năm 2023, Hội đồng Quản trị của Công ty đã ban hành Nghị quyết số 08/2023/NQ-HĐQT đưa ra phương án trả cổ tức bằng cổ phiếu với tỷ lệ 10:1 (cổ đông sở hữu 10 cổ phiếu được nhận 1 cổ phiếu mới), trong đó, ngày đăng ký cuối cùng của các cổ đông là ngày 22 tháng 8 năm 2023.
+
+Ngày 28 tháng 8 năm 2023, Hội đồng Quản trị của Công ty đã ban hành Nghi quyết số 18/2023/NQ-HĐQT thông qua kết quả phát hành 12.126.245 cổ phiếu để trả cổ tức cho các cổ đông của Công ty, nâng tổng số cổ phiếu có quyền biểu quyết đang lưu hành lên 133.395.642 cổ phiếu, đồng thời thông qua việc tăng vốn điều lệ của Công ty lên 1.333.956.420.000 Đồng. Cứng trong ngày này, Công ty đã thực hiện báo cáo kết quả đợt phát hành cổ phiếu để trả cổ tức đến UBCK và được UBCK chấp thuận phát hành thành công qua Công văn số 5977/UBCK-QLCB để ngày 30 tháng 8 năm 2023.
+
+Sau đó, ngày 7 tháng 9 năm 2023, Sở Kế hoạch và Đầu tư thành phố Hải Phòng đã cấp giấy Chứng nhận đăng ký doanh nghiệp sửa đổi lần thứ 25, trong đó điều chỉnh tăng vốn chủ sở hữu lên 1.333.956.420.000 Đồng.
+
+(***) Theo Nghị quyết Đại hội đồng Cổ đông số 01/2023/NQ-ĐHĐCĐ đề ngày 3 tháng 3 năm 2023 và Nghị quyết Hội đồng Quản trị số 02/2023/NQ-HĐQT đề ngày 13 tháng 3 năm 2023, Công ty Cổ phần Cảng Xanh VIP – Công ty con, đã phân phối 189.750.000.000 Đồng Việt Nam từ lợi nhuận sau thuế chưa phân phối tại ngày 31 tháng 12 năm 2022 để trả cổ tức cho các cổ đông, trong đó, phần cổ tức trả cho Công ty là 141.075.000.000 Đồng Việt Nam và cho các cổ đông không kiểm soát là 48.675.000.000 Đồng Việt Nam.
+
+Căn cứ theo Nghị quyết Đại hội đồng Cổ đông thường niên số 01/2023/NQ-ĐHĐCD để ngày 7 tháng 4 năm 2023, Công ty Cổ phần Đầu tư Dịch vụ và Phát triển Xanh phân phối 12.120.000.000 Đồng từ LNST chưa phân phối tại ngày 31 tháng 12 năm 2022 để trả cổ tức cho các cổ đông, trong đó, phần cổ tức trả cho Công ty là 8.040.000.000 Đồng Việt Nam và cho các cổ đông không kiểm soát là 4.080.000.000 Đồng Việt Nam.
+
+Căn cứ theo Nghị quyết Hội đồng quản trị số 04/2023/NQ-HĐQT đề ngày 12 tháng 6 năm 2023, Công ty Cổ phần Container Miền Trung phân phối 4.025.995.200 Đồng từ LNST chưa phân phối tại ngày 31 tháng 12 năm 2022 để trả cổ tức cho các cổ đông, trong đó, phần cổ tức trả cho Công ty là 2.616.900.000 Đồng Việt Nam và cho các cổ đông không kiểm soát là 1.409.095.200 Đồng Việt Nam.
+
+(****) Theo Nghị quyết Đại hội đồng Cổ đông số 01/2023/NQ-ĐHĐCĐ đề ngày 3 tháng 3 năm 2023 và Nghị quyết Hội đồng Quản trị số 04/2023/NQ-HĐQT đề ngày 16 tháng 5 năm 2023, Công ty Cổ phần Cảng Xanh VIP – Công ty con, đã tạm ứng 63.250.000.000 Đồng Việt Nam từ lợi nhuận sau thuế chưa phân phối tại ngày 31 tháng 12 năm 2022 để trả cổ tức cho các cổ đông, trong đó, phần cổ tức tạm ứng cho Công ty là 47.025.000.000 Đồng Việt Nam và cho các cổ đông không kiểm soát là 16.225.000.000 Đồng Việt Nam.
+
+45
+
+1.2 ± -0 ± 1cm
+
+===== PAGE 49 =====
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+CÔNG TY CỔ PHẦN CONTAINER VIỆT NAM
+
+Mẫu số B 09 - DN/HN
+
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT
+
+CHO NĂM TÀI CHÍNH KẾT THỨC NGÀY 31 THÁNG 12 NĂM 2023
+
+21 TÌNH HÌNH TĂNG GIÀM NGUỒN VỐN CHỦ SỞ HỮU (TIẾP THEO)
+
+(* * * *) Căn cứ Nghị quyết số 01/2023/NQ-ĐHĐCĐ đề ngày 10 tháng 3 năm 2023, Nghị quyết số 08/2023/NQ-HĐQT đề ngày 14 tháng 6 năm 2023, Nghị quyết số 12/2023/NQ-HĐQT đề ngày 13 tháng 7 năm 2023, và Nghị quyết số 02/2023/NQ-ĐHĐCĐ đề ngày 10 tháng 8 năm 2023, Công ty đã thông qua phương án phát hành thêm cổ phiếu cho cổ đông hiện hữu để tăng vốn điều lệ với tỷ lệ 1:1. Tổng số tiền dự kiến thu được từ việc phát hành này là 1.333.963.360.000 đồng. Mục đích của đợt chào bán là nhận chuyển nhượng thêm tối đa 44% vốn điều lệ của Công ty TNHH Cảng Nam Hải Đình Vũ ("Công ty Mục tiêu") từ các thành viên góp vốn hiện hữu của Công ty Mục tiêu trong năm 2024 với tổng số tiền 1.320.000.000.000, phần còn lại được bổ sung vào vốn lưu động. Thời gian dự kiến chào bán là trong năm 2024.
+
+Ngày 29 tháng 12 năm 2023, Công ty đã nhận được chấp thuận của Ủy ban chứng khoán về việc chào bán cổ phiếu ra công chúng theo Giấy chứng nhận đăng ký chào bán số 443/GCN-UBCK. Thời gian chào bán trong vòng 90 ngày kể từ ngày Giấy chứng nhận đăng ký chào bán có hiệu lực (Thuyết minh 40).
+
+22 LÃI TRÊN CỔ PHIÉU
+
+(a) Lãi cơ bản trên cổ phiếu
+
+Lãi cơ bản trên cổ phiếu được tính bằng hiệu của số lợi nhuận thuần phân bổ cho các cổ đông và số trích quỹ khen thưởng, phúc lợi và cổ tức của cổ phiếu ưu đãi chia cho số lượng bình quân gia quyền của số cổ phiếu phổ thông đang lưu hành trong năm, điều chỉnh cho cổ phiếu thưởng phát hành trong năm trừ đi cổ phiếu quỹ. Chi tiết như sau:
+
+<table><tr><td></td><td>2023</td><td>2022 (*)</td></tr><tr><td>Lợi nhuận thuần phân bổ cho các cổ đông (VND)</td><td>123.623.359.657</td><td>314.293.593.407</td></tr><tr><td>Điều chỉnh giảm lợi nhuận do trích quỹ khen thưởng, phúc lợi (VND)</td><td>(11.013.441.390)</td><td>(28.000.000.000)</td></tr><tr><td></td><td>112.609.918.267</td><td>286.293.593.407</td></tr><tr><td>Bình quân số cổ phiếu phổ thông đang lưu hành (cổ phiếu)</td><td>133.395.642</td><td>128.461.830</td></tr><tr><td>Lãi cơ bản trên mỗi cổ phiếu (VND)</td><td>844</td><td>2.222</td></tr></table>
+
+46
+
+===== PAGE 50 =====
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+CÔNG TY CỔ PHẦN CONTAINER VIỆT NAM
+
+Mẫu số B 09 – DN/HN
+
+THUYÊT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT
+
+CHO NĂM TÀI CHÍNH KẾT THỨC NGÀY 31 THÁNG 12 NĂM 2023
+
+22 LÃI TRÊN CỔ PHIÉU(TIẾP THEO)
+
+(a) Lãi cơ bản trên cổ phiếu (tiếp theo)
+
+Tại ngày lập báo cáo tài chính hợp nhất này, Tập đoàn dự kiến trích quỹ khen thưởng phúc lợi cho năm tài chính kết thúc ngày 31 tháng 12 năm 2023 với số tiền là 11.013.441.390. Do đó, lãi cơ bản trên cổ phiếu của Tập đoàn được tính toán dựa trên ước tính này. Số thực tế phân phối cho quỹ khen thưởng phúc lợi cho năm tài chính chính kết thúc ngày 31 tháng 12 năm 2023 sẽ được phê chuẩn trong Đại hội đồng Cổ đông tổ chức năm 2024 và có thể có sự khác biệt với số liệu nếu trên.
+
+(*) Lãi cơ bản trên cổ phiếu cho năm tài chính kết thúc ngày 31 tháng 12 năm 2022 đã được tính lại theo hướng dẫn của Thông tư 200/2014/TT-BTC như sau:
+
+<table><tr><td></td><td>Số liệu báo cáo trước đây</td><td>Điều chỉnh lại</td><td>Số liệu tính toán lại</td></tr><tr><td>Lợi nhuận thuần phân bổ cho các cổ đông (VND)</td><td>314.293.593.407</td><td>-</td><td>314.293.593.407</td></tr><tr><td>Điều chỉnh giảm số trích quỹ khen thưởng, phúc lợi (VND)</td><td>(28.000.000.000)</td><td>-</td><td>(28.000.000.000)</td></tr><tr><td>Lợi nhuận để tính lãi cơ bản trên cổ phiếu (VND)</td><td>286.293.593.407</td><td>-</td><td>286.293.593.407</td></tr><tr><td>Bình quân số cổ phiếu phổ thông đang lưu hành (cổ phiếu) (**)</td><td>116.784.091</td><td>12.043.207</td><td>128.827.298</td></tr><tr><td>Lãi cơ bản trên cổ phiếu (VND/1 cổ phiếu)</td><td>2.451</td><td>(229)</td><td>2.222</td></tr></table>
+
+(**) Theo hướng dẫn tại Chuẩn mực kế toán Việt Nam số 30 – Lãi cơ bản trên cổ phiếu, lãi cơ bản trên cổ phiếu và lãi suy giảm trên cổ phiếu cho tất cả các kỳ báo cáo sẽ được điều chỉnh hỏi tố nếu số lượng cổ phiếu phổ thông hoặc cổ phiếu phổ thông tiêm năng đang lưu hành tăng lên do vốn hoá, phát hành cổ phiếu thường, tách cổ phiếu hoặc giảm đi do gộp cổ phiếu. Nếu những thay đổi đó xảy ra sau ngày kết thúc kỳ kế toán năm nhưng trước ngày phát hành báo cáo tài chính, số liệu được tính trên mỗi cổ phiếu của kỳ báo cáo hiện tại và mỗi kỳ báo cáo trước đó trên báo cáo tài chính được tính lại dựa trên số lượng cổ phiếu mới.
+
+Do đó, số lượng cổ phiếu đề tỉnh lãi cơ bản trên cổ phiếu cho năm tài chính kết thúc ngày 31 tháng 12 năm 2023 và số liệu so sánh của năm tài chính 2022 được xác định bằng tổng của:
+
+- Số bình quân gia quyền của số cổ phiếu phổ thông lưu hành trong kỳ;
+
+- Số bình quân gia quyền của cổ phiếu phổ thông phát hành để trả cổ tức năm 2022 theo Nghị quyết số 08/2023/NQ-HĐQT đề ngày 14 tháng 6 năm 2023 và được UBCKNN chấp thuận phát hành thành công qua Công văn số 5166/UBCK-QLCB đề ngày 3 tháng 8 năm 2023 với giả định các cổ phiếu này được coi như đã lưu hành từ ngày 1 tháng 1 năm 2022.
+
+(b) Lãi suy giảm trên cổ phiếu
+
+Công ty không có cổ phiếu phổ thông tiềm tàng có tác động suy giảm trong năm và đến ngày lập báo cáo tài chính hợp nhất này. Do đó, lãi suy giảm trên cổ phiếu bằng với lãi cơ bản trên cổ phiếu.
+
+47
+
+===== PAGE 51 =====
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+CÔNG TY CỔ PHẦN CONTAINER VIỆT NAM
+
+Mẫu số B 09 – DN/HN
+
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT
+
+CHO NĂM TÀI CHÍNH KẾT THỨC NGÀY 31 THÁNG 12 NĂM 2023
+
+23 CÁC KHOÀN MỤC NGOÀI BÀNG CÂN ĐỐI KẾ TOÁN
+
+Tại ngày 31 tháng 12 năm 2023, khoản mục tiền và các khoản tương đương tiền đã bao gồm số ngoại tệ 2.028.803,680 Đô la Mỹ, tương ứng với 48.853.603.450 Đồng và 7,67 Euro, tương ứng với 191.251 Đồng (tại ngày 31 tháng 12 năm 2022: 303.873,28 Đô la Mỹ, tương ứng với 7.113.673.485 Đồng và 7,67 Euro, tương ứng 189.587 Đồng).
+
+24 DOANH THU THUẦN VỀ CUNG CẤP ĐỊCH VỤ
+
+<table><tr><td></td><td>2023VND</td><td>2022VND</td></tr><tr><td colspan="3">Doanh thu về cung cấp dịch vụ</td></tr><tr><td>Doanh thu bốc dỡ container</td><td>1.048.833.291.855</td><td>974.514.896.630</td></tr><tr><td>Doanh thu lưu bãi, chạy lạnh, kiểm hóa, kiểm dịch</td><td>270.288.395.868</td><td>246.308.394.828</td></tr><tr><td>Doanh thu dịch vụ vận chuyển</td><td>339.470.619.876</td><td>358.469.461.517</td></tr><tr><td>Doanh thu cung cấp dịch vụ khác</td><td>522.353.104.095</td><td>428.104.741.774</td></tr><tr><td></td><td>2.180.945.411.694</td><td>2.007.397.494.749</td></tr><tr><td>Các khoản giảm trừ doanh thu</td><td>-</td><td>-</td></tr><tr><td>Doanh thu thuần về cung cấp dịch vụ</td><td>2.180.945.411.694</td><td>2.007.397.494.749</td></tr></table>
+
+25 GIÁ VỐN DỊCH VỤ CUNG CẢP
+
+<table><tr><td></td><td>2023VND</td><td>2022VND</td></tr><tr><td>Chi phí nhân viên</td><td>282.681.808.953</td><td>247.812.527.575</td></tr><tr><td>Chi phí mua nguyên vật liệu</td><td>174.833.279.599</td><td>209.840.341.607</td></tr><tr><td>Chi phí khấu hao</td><td>190.412.323.663</td><td>199.070.088.254</td></tr><tr><td>Chi phí dịch vụ mua ngoài</td><td>701.530.000.692</td><td>515.185.819.128</td></tr><tr><td>Chi nhà thầu phụ của các cảng, các bãi</td><td>75.741.638.899</td><td>20.636.599.328</td></tr><tr><td>Chi phí công cụ, dụng cụ</td><td>39.726.685.692</td><td>49.164.310.269</td></tr><tr><td>Khác</td><td>61.580.304.898</td><td>106.958.911.267</td></tr><tr><td></td><td>1.526.506.042.396</td><td>1.348.668.597.428</td></tr></table>
+
+26 DOANH THU HOẠT ĐỘNG TÀI CHÍNH
+
+<table><tr><td></td><td>2023VND</td><td>2022VND</td></tr><tr><td>Lãi tiền gửi ngân hàng</td><td>28.617.412.106</td><td>27.353.187.905</td></tr><tr><td>Doanh thu hoạt động tài chính khác</td><td>2.507.402.704</td><td>7.247.686.457</td></tr><tr><td></td><td>31.124.814.810</td><td>34.600.874.362</td></tr></table>
+
+48
+
+===== PAGE 52 =====
+「
+「
+「
+「
+「
+「
+「
+「
+「
+「
+「
+「
+「
+「
+「
+「
+
+CÔNG TY CỔ PHẦN CONTAINER VIỆT NAM
+
+Mẫu số B 09 – DN/HN
+
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT
+
+CHO NĂM TÀI CHÍNH KẾT THỨC NGÀY 31 THÁNG 12 NĂM 2023
+
+27 CHI PHÍ TÀI CHÍNH
+
+<table><tr><td rowspan="3" colspan="2"></td><td>2023VND</td><td>2022VND</td></tr><tr><td rowspan="2">Chi phí lãi vayLỗ chênh lệch tỷ giá hối đoái đã thực hiện</td><td>170.446.855.9072.172.775.238</td></tr><tr><td>172.619.631.145</td></tr><tr><td rowspan="6">28</td><td rowspan="2">CHI PHÍ BÁN HÀNG</td><td></td><td></td></tr><tr><td>2023VND</td><td>2022VND</td></tr><tr><td>Chi phí nhân viên</td><td>6.133.066.245</td><td>7.969.123.267</td></tr><tr><td>Chi phí liên quan đến hàng tàu</td><td>71.556.476.807</td><td>57.549.251.837</td></tr><tr><td>Khác</td><td>16.376.924.754</td><td>13.675.603.502</td></tr><tr><td></td><td>94.066.467.806</td><td>79.193.978.606</td></tr><tr><td rowspan="7">29</td><td rowspan="2">CHI PHÍ QUẢN LÝ DOANH NGHIỆP</td><td></td><td></td></tr><tr><td>2023VND</td><td>2022VND</td></tr><tr><td>Chi phí nhân viên</td><td>80.095.374.624</td><td>55.600.627.978</td></tr><tr><td>Chi phí khấu hao</td><td>2.955.201.782</td><td>2.456.433.802</td></tr><tr><td>Chi phí dịch vụ mua ngoài</td><td>30.846.730.271</td><td>26.744.285.287</td></tr><tr><td>Khác</td><td>18.985.756.776</td><td>20.589.351.398</td></tr><tr><td></td><td>132.883.063.453</td><td>105.390.698.465</td></tr><tr><td rowspan="5">30</td><td rowspan="2">THU NHẬP KHÁC</td><td></td><td></td></tr><tr><td>2023VND</td><td>2022VND</td></tr><tr><td>Lãi từ thanh lý tài sản cố định</td><td>773.971.498</td><td>1.096.850.030</td></tr><tr><td>Khác</td><td>3.113.466.472</td><td>158.323.578</td></tr><tr><td></td><td>3.887.437.970</td><td>1.255.173.608</td></tr></table>
+
+49
+
+===== PAGE 53 =====
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+CÔNG TY CỔ PHẦN CONTAINER VIỆT NAM
+
+Mẫu số B 09 – DN/HN
+
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT
+
+CHO NĂM TÀI CHÍNH KẾT THỨC NGÀY 31 THÁNG 12 NĂM 2023
+
+31 CHI PHÍ KHÁC
+
+<table><tr><td></td><td>2023VND</td><td>2022VND</td></tr><tr><td>Chi phí bồi thường (Thuyết minh 15(a))</td><td>5.000.000.000</td><td>-</td></tr><tr><td>Lỗ từ thanh lý tài sản cố định</td><td>-</td><td>1.828.526.689</td></tr><tr><td>Khác</td><td>1.791.896.532</td><td>6.516.607.834</td></tr><tr><td></td><td>6.791.896.532</td><td>8.345.134.523</td></tr></table>
+
+32 THUÊ TNDN
+
+Theo Giấy chứng nhận Đầu tư, Công ty TNHH Một thành viên Trung tâm Logistics Xanh ("GLC"), Công ty Cổ phần Cảng Xanh VIP ("VGP") và Công ty Cổ phần Đầu tư Dịch vụ và Phát triển Xanh ("GIC") là các công ty con của Công ty, có nghĩa vụ phải nộp Ngân sách Nhà nước thuế thu nhập theo mức thuế suất là 10% trên lợi nhuận tính thuế trong 15 năm từ năm đầu tiên có doanh thu từ hoạt động được hưởng ưu đãi thuế, được miễn thuế thu nhập trên lợi nhuận tính thuế trong 4 năm kể từ năm đầu tiên có lợi nhuận chịu thuế và giảm 50% thuế thu nhập trong 9 năm tiếp theo. Các ưu đãi thuế trên chỉ được áp dụng cho các hoạt động kinh doanh chính đáp ứng điều kiện ưu đãi đầu tư ghi trong Giấy chứng nhận Đầu tư lần đầu của các đơn vị này. Thu nhập từ các hoạt động kinh doanh khác chịu thuế suất thông thường là 20%. Chi tiết ưu đãi thuế theo các năm được trình bày ở bằng dưới đây:
+
+U'u đãi thuế theo các năm
+
+<table><tr><td>Công ty con</td><td>Miễn thuế TNDN</td><td>Giảm 50% thuế TNDN</td><td>Thuế suất 10%</td><td>Thuế suất 20%</td></tr><tr><td>Công ty TNHH Một thành viên Trung tâm Logistics Xanh (GLC)</td><td>2013 - 2016</td><td>2017 - 2025</td><td>2026 - 2027</td><td>Từ năm 2028 trở đi</td></tr><tr><td>Công ty Cổ phần Cảng Xanh VIP (VGR)</td><td>2016 - 2019</td><td>2020 - 2028</td><td>2029 - 2030</td><td>Từ năm 2031 trở đi</td></tr><tr><td>Công ty Cổ phần Đầu tư Dịch vụ và Phát triển Xanh (GIC)</td><td>2017 - 2020</td><td>2021 - 2029</td><td>2030 - 2031</td><td>Từ năm 2032 trở đi</td></tr></table>
+
+Các khoản thu nhập còn lại có nghĩa vụ nộp cho Nhà nước thuế thu nhập theo mức thuế suất thuế thu nhập thông thường bằng 20% trên lợi nhuận tính thuế.
+
+50
+
+===== PAGE 54 =====
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+CÔNG TY CỔ PHẦN CONTAINER VIỆT NAM
+
+Mẫu số B 09 – DN/HN
+
+THUYÊT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT
+
+CHO NĂM TÀI CHÍNH KẾT THỨC NGÀY 31 THÁNG 12 NĂM 2023
+
+32 THUÉ TNDN (TIÉP THEO)
+
+Số thuế TNDN trên lợi nhuận kế toán trước thuế của Tập đoàn khác với số thuế TNDN khi được tính theo thuế suất phổ thông áp dụng 20% như sau:
+
+<table><tr><td></td><td>2023VND</td><td>2022VND</td></tr><tr><td>Lợi nhuận kế toán trước thuế</td><td>265.130.587.479</td><td>476.912.730.032</td></tr><tr><td>Thuế tính ở thuế suất 20%Điều chỉnh:</td><td>53.026.117.493</td><td>95.382.546.006</td></tr><tr><td>Chi phí không được khấu trừ</td><td>22.026.275.557</td><td>14.899.756.352</td></tr><tr><td>Chi phí lãi vay không được khấu trừ (*)</td><td>10.269.501.118</td><td>-</td></tr><tr><td>Lỗ của công ty liên kết</td><td>4.442.036.985</td><td>3.944.516.757</td></tr><tr><td>Chênh lệch tạm thời không ghi nhận thuếTNDN hoãn lại</td><td>1.184.664.327</td><td>-</td></tr><tr><td>Ảnh hưởng của các ưu đãi thuế, giảm thuế</td><td>(44.917.833.720)</td><td>(39.023.032.997)</td></tr><tr><td>Dự phòng thiếu của các năm trước</td><td>4.979.031</td><td>5.558.338.356</td></tr><tr><td>Điều chỉnh khác</td><td>(97.097.194)</td><td>(142.270.543)</td></tr><tr><td>Lỗ tính thuế mà không ghi nhận tài sản thuếTNDN hoãn lại</td><td>20.169.917.962</td><td>3.153.749.358</td></tr><tr><td>Chi phí thuế TNDN (**)</td><td>66.108.561.559</td><td>83.773.603.289</td></tr><tr><td>Chi phí thuế TNDN ghi nhận trong báo cáokết quả hoạt động kinh doanh hợp nhất:</td><td></td><td></td></tr><tr><td>Thuế TNDN – hiện hành</td><td>66.464.273.744</td><td>83.968.553.635</td></tr><tr><td>Thuế TNDN – hoãn lại</td><td>(355.712.185)</td><td>(194.950.346)</td></tr><tr><td></td><td>66.108.561.559</td><td>83.773.603.289</td></tr></table>
+
+(*) Chi phí lãi vay không được trừ do vượt quá mức trần được quy định tại Nghị định 132/2020/NĐ-CP đề ngày 5 tháng 11 năm 2020 áp dụng đối với doanh nghiệp có giao dịch liên kết.
+
+Ngoài ra, theo quy định của Nghị định 132, phần chi phí lãi vay vượt trần chưa được khấu trừ thuế TNDN được chuyển sang kỳ tính thuế tiếp theo để bù trừ với thu nhập chịu thuế trong tương lai trong vòng 5 năm liên tiếp kể từ năm ngay sau năm phát sinh khoản chi phí đó. Số chỉ phí lãi vay thực tế được chuyển qua các năm sau cho mục đích thuế sẽ phụ thuộc vào việc kiểm tra và chấp thuận của cơ quan thuế và có thể chênh lệch so với số liệu được trình bày trong báo cáo tài chính hợp nhất. Các khoản chỉ phí lãi vay vượt trần ước tính có thể bù trừ vào thu nhập chịu thuế trong tương lai của các công ty con trong Tập đoàn như sau:
+
+<table><tr><td>Năm phát sinh chi phí</td><td>Tình trạng kiểm tra của các cơ quan thuế</td><td>Số chi phí lãi vay vượt trần VND</td><td>Số chi phí lãi vay vượt trần đã được sử dụng VND</td><td>Số chi phí lãi vay còn được chuyển sang các kỳ tính thuế sau VND</td></tr><tr><td>2023</td><td>Chưa thanh tra</td><td>(51.347.505.590)</td><td>-</td><td>(51.347.505.590)</td></tr></table>
+
+51
+
+===== PAGE 55 =====
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+CÔNG TY CỔ PHẦN CONTAINER VIỆT NAM
+
+Mẫu số B 09 – DN/HN
+
+THUYẾT MINH BẢO CẢO TÀI CHÍNH HỢP NHẤT
+
+CHO NĂM TÀI CHÍNH KẾT THỨC NGÀY 31 THÁNG 12 NĂM 2023
+
+32 THUÊ TNDN (TIÉP THEO)
+
+(**) Chi phí thuế TNDN cho năm tài chính được ước tính dựa vào thu nhập chịu thuế và có thể có những điều chỉnh tùy thuộc vào sự kiểm tra của cơ quan thuế.
+
+Các khoản lỗ tính thuế của các công ty con trong Tập đoàn có thể được chuyển sang để bù trừ với thu nhập chịu thuế trong tương lai trong vòng 5 năm liên tiếp kể từ năm ngay sau năm phát sinh lỗ. Số lỗ thực tế được chuyển qua các năm sau cho mục đích thuế sẽ phụ thuộc vào việc kiểm tra và chấp thuận của cơ quan thuế và có thể chênh lệch so với số liệu được trình bày trong báo cáo tài chính hợp nhất. Các khoản lỗ ước tính có thể bù trừ vào thu nhập chịu thuế trong tương lai của các công ty con trong Tập đoàn như sau:
+
+<table><tr><td>Năm phát sinh lỗ</td><td>Tình trạng kiểm tra của các cơ quan thuế</td><td>Số lỗ phát sinh VND</td><td>Số lỗ tính thuế đã được sử dụng VND</td><td>Số lỗ còn được chuyển sang các kỳ tính thuế sau VND</td></tr><tr><td>2022</td><td>Chưa thanh tra</td><td>(15.768.746.790)</td><td>-</td><td>(15.768.746.790)</td></tr><tr><td>2023</td><td>Chưa thanh tra</td><td>(100.849.589.810)</td><td>-</td><td>(100.849.589.810)</td></tr></table>
+
+Tập đoàn không ghi nhận tài sản thuế thu nhập hoãn lại đối với các khoản lỗ tính thuế trên vi khả năng của Công ty và các công ty con của Tập đoàn có thu nhập chịu thuế trong tương lai để bù trừ với những khoản lỗ tính thuế này được đánh giá là không chắc chắn.
+
+33 CHI PHÍ SÀN XUẤT KINH DOANH THEO YỀU TỐ
+
+Chi phí sản xuất kinh doanh theo yếu tố thể hiện các chi phí phát sinh trong năm, nhưng không bao gồm giá mua hàng hóa liên quan tới hoạt động thương mại. Chi tiết được trình bày như sau:
+
+<table><tr><td></td><td>2023VND</td><td>2022VND</td></tr><tr><td>Chi phí nguyên liệu, vật liệu</td><td>174.833.279.599</td><td>209.840.341.607</td></tr><tr><td>Chi phí nhân viên</td><td>368.910.249.822</td><td>311.382.278.820</td></tr><tr><td>Chi phí khấu hao</td><td>193.367.525.445</td><td>201.526.522.056</td></tr><tr><td>Chi phí dịch vụ mua ngoài</td><td>646.819.884.963</td><td>467.473.695.972</td></tr><tr><td>Chi phí bốc dỗ, đóng hàng</td><td>85.556.846.000</td><td>74.456.408.443</td></tr><tr><td>Chi nhà thầu phụ của các cảng, các bãi</td><td>75.741.638.899</td><td>20.636.599.328</td></tr><tr><td>Chi phí hoa hồng</td><td>71.556.476.807</td><td>57.549.251.837</td></tr><tr><td>Chi phí công cụ, dụng cụ</td><td>39.726.685.692</td><td>49.164.310.269</td></tr><tr><td>Khác</td><td>96.942.986.428</td><td>141.223.866.167</td></tr><tr><td></td><td>1.753.455.573.655</td><td>1.533.253.274.499</td></tr></table>
+
+52
+
+===== PAGE 56 =====
+- - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+CÔNG TY CỔ PHẦN CONTAINER VIỆT NAM
+
+Mẫu số B 09 – DN/HN
+
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT
+
+CHO NĂM TÀI CHÍNH KẾT THỨC NGÀY 31 THÁNG 12 NĂM 2023
+
+34 CÁC GIAO DỊCH KHÔNG BẢNG TIỀN ẢNH HƯỜNG ĐẾN BẢO CÁO LƯU CHUYỀN TIỀN TỆ
+
+<table><tr><td></td><td>2023VND</td><td>2022VND</td></tr><tr><td>Chia cổ tức bằng cổ phiếu</td><td>121.262.450.000</td><td>110.238.010.000</td></tr><tr><td>Mua sắm TSCĐ nhưng chưa thanh toán</td><td>5.376.972.837</td><td>-</td></tr><tr><td>Thuê tài chính tăng trong năm</td><td>5.249.094.866</td><td>-</td></tr><tr><td>Lãi nhập gốc vay trong năm (Thuyết minh 17)</td><td>150.403.778.918</td><td>-</td></tr><tr><td>Trong đó:</td><td></td><td></td></tr><tr><td>- Vay ngắn hạn</td><td>2.685.573.439</td><td>-</td></tr><tr><td>- Vay dài hạn</td><td>147.718.205.479</td><td>-</td></tr></table>
+
+35 THUYẾT MINH VỀ CÁC BÊN LIÊN QUAN
+
+Thông tin về các công ty con và công ty liên kết được trình bày trong Thuyết minh 1.
+
+Chi tiết của các bên liên quan chính và mối quan hệ sau:
+
+<table><tr><td>Tên</td><td>Mối quan hệ</td></tr><tr><td>Công ty Cổ phần Logistics Cảng Đà Nẵng</td><td>Công ty liên kết</td></tr><tr><td>Công ty Cổ phần Cảng dịch vụ Dầu khí Đình Vũ</td><td>Công ty liên kết</td></tr><tr><td>Công ty TNHH Tuyến Container T.S. Hà Nội</td><td>Công ty liên kết</td></tr><tr><td>Công ty Cổ phần Cảng VIMC Đình Vũ</td><td>Công ty liên kết</td></tr><tr><td>Công ty TNHH Cảng Nam Hải Đình Vũ</td><td>Công ty liên kết(trở thành bên liên quantừ ngày 31/5/2023)</td></tr><tr><td>Công ty TNHH Đại lý Vận tải Evergreen (Việt Nam)</td><td>Công ty liên quan khác</td></tr><tr><td>Hội đồng quản trị/Ban Kiểm soát/Ban Giám đốc/Kế toán trường</td><td>Nhân sự quản lý chủ chốt</td></tr></table>
+
+(a) Giao dịch với các bên liên quan
+
+Các giao dịch chủ yếu với các bên liên quan phát sinh trong năm gồm:
+
+<table><tr><td></td><td>2023VND</td><td>2022VND</td></tr><tr><td colspan="3">Cung cấp dịch vụ</td></tr><tr><td>Công ty Cổ phần Logistics Cảng Đà Nẵng</td><td>547.058.667</td><td>-</td></tr><tr><td>Công ty Cổ phần Cảng dịch vụ Dầu khí Đình Vũ</td><td>3.165.341.680</td><td>2.971.028.900</td></tr><tr><td>Công ty TNHH Tuyến Container T.S. Hà Nội</td><td>42.445.080.884</td><td>27.860.220.523</td></tr><tr><td>Công ty TNHH Cảng Nam Hải Đình Vũ</td><td>6.052.305.700</td><td>-</td></tr><tr><td>Công ty TNHH Đại lý Vận tải Evergreen (Việt Nam)</td><td>270.180.651.048</td><td>255.748.021.821</td></tr><tr><td></td><td>322.390.437.979</td><td>286.579.271.244</td></tr></table>
+
+53
+
+===== PAGE 57 =====
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+CÔNG TY CỔ PHẦN CONTAINER VIỆT NAM
+
+Mẫu số B 09 – DN/HN
+
+THUYÊT MINH BÁO CÁO TÀI CHÍNH HỢP NHẮT
+
+CHO NĂM TÀI CHÍNH KẾT THỨC NGÀY 31 THÁNG 12 NĂM 2023
+
+35 THUYẾT MINH VỀ CÁC BÊN LIÊN QUAN (TIÉP THEO)
+
+(a) Giao dịch với các bên liên quan (tiếp theo)
+
+<table><tr><td rowspan="2"></td><td>2023</td><td>2022</td></tr><tr><td>VND</td><td>VND</td></tr></table>
+
+(ii) Mua dịch vụ
+
+<table><tr><td>Công ty Cổ phần Logistics Cảng Đà Nẵng</td><td>122.313.317</td><td></td></tr><tr><td>Công ty Cổ phần Cảng dịch vụ Dầu khí Đình Vũ</td><td>14.688.162.938</td><td>15.652.983.873</td></tr><tr><td>Công ty TNHH Tuyến Container T.S. Hà Nội</td><td>43.204.443</td><td>70.830.300</td></tr><tr><td>Công ty TNHH Cảng Nam Hải Đình Vũ</td><td>69.948.362.473</td><td></td></tr><tr><td>Công ty TNHH Đại lý Vận tải Evergreen (Việt Nam)</td><td>4.923.389.794</td><td></td></tr></table>
+
+(iii) Chi phí hoa hồng
+
+<table><tr><td>Công ty TNHH Đại lý Vận tải Evergreen (Việt Nam)</td><td>18.836.790.500 12.504.360.000</td></tr></table>
+
+(iv) Lương, thường cho các nhân sự quản lý chủ chốt
+
+Các khoản chi cho các nhận sự quản lý chủ chốt bao gồm lương, thường, các khoản nhận được từ quỹ khen thưởng phúc lợi và thường ban điều hành từ lợi nhuận để lại của Công ty.
+
+Hội đồng quản trị
+
+<table><tr><td>Ông Bùi Minh Hung</td><td>Chủ tịch(từ ngày 10/3/2023)</td><td>3.931.602.000</td><td>1.743.083.874</td></tr><tr><td>Ông Nguyễn Việt Hoà</td><td>Chủ tịch(cho đến ngày 10/3/2023)</td><td>733.854.000</td><td>2.429.589.000</td></tr><tr><td>Ông Văn Trần Hoàn</td><td>Thành viên</td><td>440.000.000</td><td>450.000.000</td></tr><tr><td>Ông Tạ Công Thông</td><td>Thành viên</td><td>3.087.152.099</td><td>2.962.138.000</td></tr><tr><td>Ông Cáp Trọng Cường</td><td>Thành viên</td><td>3.668.607.756</td><td>1.737.370.917</td></tr><tr><td>Ông Nguyễn Đức Dũng</td><td>Thành viên</td><td>2.091.100.000</td><td>-</td></tr><tr><td>Ông Nguyễn Việt Trung</td><td>Thành viên(cho đến ngày 10/3/2023)</td><td>840.000.000</td><td>1.148.141.735</td></tr><tr><td>Ông Dương Tiến Dũng</td><td>Thành viên(cho đến ngày 9/9/2022)</td><td>315.000.000</td><td>2.724.981.000</td></tr><tr><td>Ông Trần Quang Tiến</td><td>Thành viên(cho đến ngày 9/9/2022)</td><td>-</td><td>300.000.000</td></tr><tr><td>Ông Nguyễn Hoàng Anh</td><td>Thành viên(cho đến ngày 9/3/2022)</td><td>-</td><td>500.000.000</td></tr><tr><td></td><td></td><td>15.107.315.855</td><td>13.995.304.526</td></tr><tr><td colspan="4">Ban Kiểm soát</td></tr><tr><td>Ông Trương Lý Thế Anh</td><td>Trường ban(từ ngày 10/3/2023)</td><td>800.651.000</td><td>-</td></tr><tr><td>Bà Nguyễn Thị Kim Nhã</td><td>Trường ban(cho đến ngày 10/3/2023)</td><td>189.854.000</td><td>338.040.000</td></tr><tr><td>Bà Ngô Thị Thủy Lương</td><td>Thành viên(từ ngày 10/3/2023)</td><td>413.913.256</td><td>-</td></tr><tr><td>Bà Nghiêm Thị Thuỷ Dương</td><td>Thành viên</td><td>1.059.263.372</td><td>763.786.544</td></tr><tr><td>Bà Nguyễn Thị Minh Lan</td><td>Thành viên(cho đến ngày 10/3/2023)</td><td>326.764.638</td><td>125.000.000</td></tr><tr><td></td><td></td><td>2.790.446.266</td><td>1.226.826.544</td></tr></table>
+
+54
+
+\( H_{a} \star M.S.C. \)
+
+===== PAGE 58 =====
+- - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+CÔNG TY CỔ PHẦN CONTAINER VIỆT NAM
+
+Mẫu số B 09 – DN/HN
+
+THUYÊT MINH BẢO CÁO TÀI CHÍNH HỢP NHẤT
+
+CHO NĂM TÀI CHÍNH KẾT THỨC NGÀY 31 THÁNG 12 NĂM 2023
+
+35 THUYẾT MINH VỀ CÁC BÊN LIÊN QUAN (TIẾP THEO)
+
+(a) Giao dịch với các bên liên quan (tiếp theo)
+
+<table><tr><td>2023</td><td>2022</td></tr><tr><td>VND</td><td>VND</td></tr></table>
+
+(iv) Lương, thường cho các nhân sự quản lý chủ chốt (tiếp theo)
+
+Ban Giám đốc
+
+<table><tr><td rowspan="2">Ông Tạ Công Thông</td><td>Tổng Giám đốc(từ ngày 28/2/2024)</td><td></td><td></td></tr><tr><td>Giám đốc Marketing(cho đến ngày28/2/2024)</td><td>Như trên</td><td>Như trên</td></tr><tr><td rowspan="2">Ông Cáp Trọng Cường</td><td>Tổng Giám đốc(từ ngày 10/3/2023cho đến ngày 28/2/2024)</td><td></td><td></td></tr><tr><td>Giám đốc khai thác(cho đến ngày 10/3/2023)</td><td>Như trên</td><td>Như trên</td></tr><tr><td>Ông Bùi Minh Hưng</td><td>Tổng Giám đốc(cho đến ngày 10/3/2023)</td><td>Như trên</td><td>Như trên</td></tr><tr><td>Ông Nguyễn Thế TrọngBà Trương Anh Thư</td><td>Giám đốc kỹ thuậtGiám đốc tài chính(từ ngày 1/3/2024)</td><td>2.614.933.107-</td><td>2.465.938.000-</td></tr><tr><td>Ông Phan Văn Hưng</td><td>Giám đốc tài chính(cho đến ngày 1/3/2024)</td><td>2.316.407.000</td><td>204.000.000</td></tr><tr><td>Kế toán trưởngPhạm Thanh Tuân</td><td>Kế toán trưởng(từ ngày 1/3/2024)</td><td>-</td><td>-</td></tr><tr><td>Ông Lê Thế Trung</td><td>Kế toán trưởng(cho đến ngày 1/3/2024)</td><td>3.260.954.000</td><td>2.952.261.000</td></tr></table>
+
+55
+
+[Unreadable]
+
+===== PAGE 59 =====
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+CÔNG TY CỔ PHẦN CONTAINER VIỆT NAM
+
+Mẫu số B 09 – DN/HN
+
+THUYẾT MINH BẢO CÁO TÀI CHÍNH HỢP NHẤT
+
+CHO NĂM TÀI CHÍNH KẾT THỨC NGÀY 31 THÁNG 12 NĂM 2023
+
+35 THUYẾT MINH VỀ CÁC BÊN LIÊN QUAN (TIÉP THEO)
+
+(b) Số dư với các bên liên quan
+
+<table><tr><td colspan="2"></td><td>31/12/2023VND</td><td>31/12/2022VND</td></tr><tr><td rowspan="8">(i)</td><td>Phải thu ngắn hạn của khách hàng (Thuyết minh 4)</td><td></td><td></td></tr><tr><td>Công ty Cổ phần Logistics Cảng Đà Nẵng</td><td>45.752.120</td><td>62.795.180</td></tr><tr><td>Công ty Cổ phần Cảng dịch vụ Dầu khí Đình Vũ</td><td>6.442.200</td><td>54.554.040</td></tr><tr><td>Công ty TNHH Tuyến Container T.S. Hà Nội</td><td>12.440.338.274</td><td>5.240.297.586</td></tr><tr><td>Công ty TNHH Cảng Nam Hải Đình Vũ</td><td>1.269.376.920</td><td>-</td></tr><tr><td>Công ty TNHH Đại lý Vận tải Evergreen (Việt Nam)</td><td>24.694.847.334</td><td>22.889.142.633</td></tr><tr><td>Nguyễn Việt Trung</td><td>-</td><td>50.000.000</td></tr><tr><td></td><td>38.456.756.848</td><td>28.296.789.439</td></tr><tr><td rowspan="6">(ii)</td><td>Phải trả người bán ngắn hạn (Thuyết minh 12)</td><td></td><td></td></tr><tr><td>Công ty Cổ phần Cảng Logistics Đà Nẵng</td><td>39.586.600</td><td>43.878.784</td></tr><tr><td>Công ty Cổ phần Cảng dịch vụ Dầu khí Đình Vũ</td><td>1.849.819.072</td><td>2.539.221.936</td></tr><tr><td>Công ty TNHH Cảng Nam Hải Đình Vũ</td><td>16.691.202.661</td><td>-</td></tr><tr><td>Công ty TNHH Đại lý Vận tải Evergreen (Việt Nam)</td><td>2.366.699.690</td><td>-</td></tr><tr><td></td><td>20.947.308.023</td><td>2.583.100.720</td></tr></table>
+
+56
+
+1.2 = -0.1
+
+===== PAGE 60 =====
+CÔNG TY CỔ PHẦN CONTAINER VIỆT NAM
+
+Mẫu số B 09 – DN/HN
+
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT
+CHO NĂM TÀI CHÍNH KẾT THỨC NGÀY 31 THÁNG 12 NĂM 2023
+
+36 BÁO CÁO BỘ PHÂN
+
+Doanh thu và chi phí theo lĩnh vực kinh doanh chính của Tập đoàn như sau:
+
+Năm tài chính kết thúc ngày 31 tháng 12 năm 2023
+
+<table><tr><td></td><td>Hoạt độngbốc dỡ containerVND</td><td>Hoạt động chạy lạnh,kiềm dịch, lưu kho, lưu bãiVND</td><td>Hoạt độngvận chuyểnVND</td><td>KhácVND</td><td>Tổng cộngVND</td></tr><tr><td>Tổng doanh thu của bộ phận</td><td>1.048.833.291.855(843.250.166.454)</td><td>270.288.395.868(217.308.829.321)</td><td>339.470.619.876(272.930.559.069)</td><td>522.353.104.095(419.966.018.811)</td><td>2.180.945.411.694(1.753.455.573.655)</td></tr><tr><td>Tổng chí phí phân bổ</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Tổng cộng</td><td>205.583.125.401</td><td>52.979.566.547</td><td>66.540.060.807</td><td>102.387.085.284</td><td>427.489.838.039</td></tr><tr><td>Chi phí thuần về hoạt động tài chính</td><td></td><td></td><td></td><td></td><td>(141.494.816.335)</td></tr><tr><td>Thu nhập khác</td><td></td><td></td><td></td><td></td><td>3.887.437.970</td></tr><tr><td>Chi phí khác</td><td></td><td></td><td></td><td></td><td>(6.791.896.532)</td></tr><tr><td>Phần lỗ trong công ty liên kết</td><td></td><td></td><td></td><td></td><td>(17.959.975.663)</td></tr><tr><td>Thuế TNDN</td><td></td><td></td><td></td><td></td><td>(66.108.561.559)</td></tr><tr><td>Lợi nhuận thuần sau thuế TNDN</td><td></td><td></td><td></td><td></td><td>199.022.025.920</td></tr></table>
+
+57
+
+===== PAGE 61 =====
+CÔNG TY CỔ PHẦN CONTAINER VIỆT NAM
+
+Mẫu số B 09 – DN/HN
+
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT
+CHO NĂM TÀI CHÍNH KẾT THỨC NGÀY 31 THÁNG 12 NĂM 2023
+
+36 BÁO CÁO BỘ PHẠN (TIẾP THEO)
+
+Doanh thu và chi phí theo lĩnh vực kinh doanh chính của Tập đoàn như sau:
+
+Năm tài chính kết thúc ngày 31 tháng 12 năm 2022
+
+<table><tr><td></td><td>Hoạt độngbốc dỡ containerVND</td><td>Hoạt động chạy lạnh, kiểm dịch, lưu kho, lưu bãi VND</td><td>Hoạt độngvận chuyểnVND</td><td>KhácVND</td><td>Tổng cộngVND</td></tr><tr><td>Tổng thu nhập của bộ phận</td><td>974.514.896.630(744.335.967.448)</td><td>143.274.511.568(109.433.290.910)</td><td>461.503.344.777(352.496.960.080)</td><td>428.104.741.774(326.987.056.061)</td><td>2.007.397.494.749(1.533.253.274.499)</td></tr><tr><td>Tổng chỉ phí phân bổ</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Tổng cộng</td><td>230.178.929.182</td><td>33.841.220.658</td><td>109.006.384.697</td><td>101.117.685.713</td><td>474.144.220.250</td></tr><tr><td>Doanh thu thuần về hoạt động tài chính</td><td></td><td></td><td></td><td></td><td rowspan="2">29.581.054.483(7.089.960.915)</td></tr><tr><td>Chi phí khác</td><td></td><td></td><td></td><td></td></tr><tr><td>Phân chia lợi nhuận của công ty liên kết</td><td></td><td></td><td></td><td></td><td>(19.722.583.786)</td></tr><tr><td>Thuế TNDN</td><td></td><td></td><td></td><td></td><td>(83.773.603.289)</td></tr><tr><td>Lợi nhuận thuần sau thuế TNDN</td><td></td><td></td><td></td><td></td><td>393.139.126.743</td></tr></table>
+
+58
+
+===== PAGE 62 =====
+CÔNG TY CỔ PHẦN CONTAINER VIỆT NAM
+
+Mẫu số B 09 – DN/HN
+
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT
+CHO NĂM TÀI CHÍNH KẾT THỨC NGÀY 31 THÁNG 12 NĂM 2023
+
+36 BÁO CÁO BỘ PHÂN (TIẾP THEO)
+
+Tài sản và nợ phải trả theo lĩnh vực kinh doanh chính của Tập đoàn như sau:
+
+Tại ngày 31/12/2023
+
+<table><tr><td></td><td>Hoạt độngbốc độ containerVND</td><td>Hoạt động chạy lạnh, kiểm dịch, lưu kho, lưu bãiVND</td><td>Hoạt độngvận chuyểnVND</td><td>KhácVND</td><td>Tổng cộngVND</td></tr><tr><td>Tài sản của bộ phận</td><td>408.384.146.551</td><td>105.242.174.068</td><td>132.179.651.861</td><td>203.388.592.134</td><td>849.194.564.614</td></tr><tr><td>Tài sản không phân bổ</td><td></td><td></td><td></td><td></td><td>4.341.731.289.474</td></tr><tr><td>Tổng tài sản</td><td></td><td></td><td></td><td></td><td>5.190.925.854.088</td></tr><tr><td>Nợ phải trả của bộ phận</td><td>52.831.932.854</td><td>13.614.993.434</td><td>17.099.847.168</td><td>26.312.021.496</td><td>109.858.794.952</td></tr><tr><td>Các khoản nợ không phân bổ</td><td></td><td></td><td></td><td></td><td>1.786.760.161.748</td></tr><tr><td>Tổng nợ phải trả</td><td></td><td></td><td></td><td></td><td>1.896.618.956.700</td></tr></table>
+
+Tại ngày 31/12/2022
+
+<table><tr><td></td><td>Hoạt độngbốc độ containerVND</td><td>Hoạt động chạy lạnh,kiềm dịch, lưu kho, lưu bãiVND</td><td>Hoạt độngvận chuyểnVND</td><td>KhácVND</td><td>Tổng cộngVND</td></tr><tr><td>Tài sản của bộ phận</td><td>486.856.778.654</td><td>71.578.348.783</td><td>230.561.926.301</td><td>213.876.356.563</td><td>1.002.873.410.301</td></tr><tr><td>Tài sản không phân bổ</td><td></td><td></td><td></td><td></td><td>3.363.936.913.792</td></tr><tr><td>Tổng tài sản</td><td></td><td></td><td></td><td></td><td>4.366.810.324.093</td></tr><tr><td>Nợ phải trả của bộ phận</td><td>36.785.853.087</td><td>5.408.306.381</td><td>17.420.764.217</td><td>16.160.038.386</td><td>75.774.962.071</td></tr><tr><td>Các khoản nợ không phân bổ</td><td></td><td></td><td></td><td></td><td>1.089.835.014.716</td></tr><tr><td>Tổng nợ phải trả</td><td></td><td></td><td></td><td></td><td>1.165.609.976.787</td></tr></table>
+
+59
+
+===== PAGE 63 =====
+- - - - - - - - - - - - - - - - - - - - - - - - - -
+
+CÔNG TY CỔ PHẦN CONTAINER VIỆT NAM
+
+Mẫu số B 09 – DN/HN
+
+THUYÊT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT
+
+CHO NĂM TÀI CHÍNH KẾT THỨC NGÀY 31 THÁNG 12 NĂM 2023
+
+37 NỘ TIỂM TÀNG
+
+Chi phí khởi phục và hoàn trả mặt bằng lô đất thuê
+
+Tại ngày 31 tháng 12 năm 2023, Tập đoàn đã ký các hợp đồng thuê đất và đã thực hiện xây dựng công trình và hạ tầng trên các lỗ đất thuê này. Một số các hợp đồng này quy định việc giải quyết tài sản gắn liền với đất sau khi kết thúc hợp đồng thuê đất được thực hiện theo quy định của pháp luật. Cần cứ theo các quy định hiện hành, Tập đoàn có thể có nghĩa vụ trong tương lai liên quan đến việc tháo dỡ, di đời các tài sản của Tập đoàn ra khởi khu đất và phục hồi khu đất về trạng thái ban đầu.
+
+Theo đánh giá của Ban Giám đốc, nghĩa vụ này chỉ có thể xác định được chắc chắn tùy thuộc vào các sự kiện có thể phát sinh trong tương lai, ví dụ như các thỏa thuận bổ sung với bên cho thuê đất hoặc khi cơ quan chức năng ban hành bổ sung các văn bản pháp luật làm rõ nghĩa vụ của bên đi thuê khi hợp đồng thuê đất không có điều khoản hoàn nguyên.
+
+Ban Giám đốc của Công ty đánh giá rằng khi hợp đồng thuê đất không quy định cụ thể về nghĩa vụ khởi phục và hoàn trả mặt bằng, việc xác định các nghĩa vụ này được coi là không chắc chắn. Do đó, Ban Giám đốc chưa ghi nhận khoản dự phòng hoàn nguyên này vào báo cáo tài chính hợp nhất của Tập đoàn cho kỳ kế toán kết thúc ngày 31 tháng 12 năm 2023.
+
+38 CÁC CAM KẾT THUÊ HOẠT ĐỘNG
+
+Tập đoàn phải trả mức tối thiểu cho các hợp đồng thuê hoạt động không hủy ngang trong tương lai như sau:
+
+<table><tr><td></td><td>31/12/2023VND</td><td>31/12/2022VND</td></tr><tr><td>Dưới 1 năm</td><td>7.655.647.976</td><td>5.902.410.000</td></tr><tr><td>Từ 1 đến 5 năm</td><td>30.005.337.301</td><td>31.917.314.000</td></tr><tr><td>Trên 5 năm</td><td>55.619.596.388</td><td>45.612.188.259</td></tr><tr><td>Tổng cộng các khoản thanh toán tối thiểu</td><td>93.280.581.665</td><td>83.431.912.259</td></tr></table>
+
+39 CAM KẾT KHÁC
+
+Bảo lãnh bằng tài sản cho các bên thứ ba:
+
+Tại ngày 31 tháng 12 năm 2023, Công ty sử dụng phần vốn góp 15.765.000 cổ phần tại Công ty CP Cảng Xanh VIP (Mã chứng khoán: VGR) để bảo lãnh cho các bên khác vay tiền để tham gia vào hợp đồng nhận chuyển quyền sở hữu Công ty TNHH Cảng Nam Hải Đình Vũ (Thuyết minh 17).
+
+Bảo lãnh thanh toán cho công ty liên kết:
+
+Tại ngày 31 tháng 12 năm 2023, Công ty đã phát hành thư bảo lãnh thanh toán cho khoản vay của Công ty TNHH Cảng Nam Hải Đình Vũ – công ty liên kết của Công ty.
+
+60
+
+===== PAGE 64 =====
+- - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+CÔNG TY CỔ PHẦN CONTAINER VIỆT NAM
+
+Mẫu số B 09 – DN/HN
+
+THUYÊT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT
+
+CHO NĂM TÀI CHÍNH KẾT THỨC NGÀY 31 THÁNG 12 NĂM 2023
+
+40 SỰ KIỆN PHÁT SINH SAU NGÀY BÁO CÁO
+
+(a) Công ty trở thành cổ đông lớn của Công ty CP Vận tải và Xếp dỡ Hải An
+
+Ngày 30 tháng 1 năm 2024, Công ty đã mua 2.150.500 cổ phiếu của Công ty Cổ phần Vận tải và Xếp dỡ Hải An, nâng tỉ lệ cổ phiếu nằm giữ tại công ty này từ 3.128.000 cổ phiếu lên 5.278.500 cổ phiếu, tương đương với tỷ lệ sở hữu là 5% cổ phần. Cũng từ ngày này, Công ty trở thành cổ đông lớn của Công ty Cổ phần Vận tải và Xếp dỡ Hải An.
+
+(b) Tiền khai chào bán thêm cổ phiếu ra công chúng (Thuyết minh 21)
+
+Ngày 4 tháng 1 năm 2024, Hội đồng Quản trị của Công ty đã ban hành Nghị quyết số 0104/2024/NQ-HĐQT đưa ra phương án phát hành cổ phiếu cho cổ đông hiện hữu, tỷ lệ 1:1, với giá phát hành 10.000 Đồng/cổ phiếu. Tổng số cổ phiếu dự kiến phát hành là 133.395.642 cổ phiếu. Theo đó, thời gian chuyển nhượng quyền mua, đăng ký đặt mua và nộp tiền mua cổ phiếu bắt đầu từ ngày 26 tháng 1 năm 2024 đến ngày 18 tháng 3 năm 2024. Ngày đăng ký cuối cùng để lập danh sách người sở hữu cho cổ phiếu của Công ty là ngày 18 tháng 1 năm 2024.
+
+Ngày 22 tháng 2 năm 2024, Hội đồng Quản trị của Công ty đã ban hành Nghị quyết số 0222/2024/ND-HĐQT thông qua việc triển khai thực hiện thủ tục xin phép Ủy ban Chứng khoán Nhà nước gia hạn Giấy chứng nhận đăng ký chào bán cổ phiếu ra công chúng số 443/GCN-UBCK đề ngày 29 tháng 12 năm 2023 thêm 30 ngày kể từ ngày 28 tháng 3 năm 2024.
+
+(c) Miễn nhiệm và bổ nhiệm chức vụ Tổng Giám đốc
+
+Ngày 20 tháng 2 năm 2024, Hội đồng Quản trị của Công ty đã ban hành Nghị quyết số 0220/2024/ND-HĐQT thông qua việc bổ nhiệm ông Tạ Công Thông giữ chức vụ Tổng Giám đốc của Công ty thay thế cho ông Cáp Trọng Cường kể từ ngày 28 tháng 2 năm 2024, đồng thời, miễn nhiệm chức vụ Giám đốc Marketing của Công ty đối với ông Tạ Công Thông.
+
+(d) Miễn nhiệm và bổ nhiệm chức vụ Giám đốc tài chính và Kế toán trường
+
+Ngày 27 tháng 2 năm 2024, Hội đồng Quản trị của Công ty đã ban hành Nghị quyết số 0227/2024/NQ-HĐQT thông qua việc bổ nhiệm bà Trương Anh Thư giữ chức vụ Giám đốc tài chính của Công ty thay thế cho ông Phan Văn Hưng, ông Phạm Thanh Tuấn giữ chức vụ Kế toán trường của Công ty thay thế cho ông Lê Thế Trung kể từ ngày 1 tháng 3 năm 2024. Đồng thời, bổ nhiệm ông Phan Văn Hưng giữ chức vụ Giám đốc Nội chính và ông Lê Thế Trung giữ chức vụ Chánh Văn phòng Hội đồng quản trị của Công ty.
+
+61
+
+===== PAGE 65 =====
+「
+「
+「
+「
+「
+「
+「
+「
+「
+」
+」
+」
+」
+」
+」
+」
+」
+
+CÔNG TY CÓ PHẦN CONTAINER VIỆT NAM
+
+Mẫu số B 09 – DN/HN
+
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT
+
+CHO NĂM TÀI CHÍNH KẾT THỨC NGÀY 31 THÁNG 12 NĂM 2023
+
+40 SỰ KIỆN PHÁT SINH SAU NGÀY BÁO CÁO (TIẾP THEO)
+
+(e) Nhận đơn từ nhiệm của thành viên Hội đồng Quản trị và thành viên Ban Kiểm soát
+
+Căn cứ Nghị quyết Hội đồng Quản trị số 0326/2024/NQ-HĐQT đề ngày 26 tháng 3 năm 2024, Hội đồng Quản trị đã tiếp nhận và chấp thuận đơn từ nhiệm của các thành viên Hội đồng Quản trị bao gồm ông Văn Trần Hoàn, ông Cáp Trọng Cường và ông Tạ Công Thông. Việc từ nhiệm này sẽ được trình và chấp thuận căn cứ quyết định của Đại hội đồng Cổ đông gần nhất của Công ty.
+
+Căn cứ Biên bản hợp Ban Kiểm soát số 01/2024/BB-BKS đề ngày 26 tháng 3 năm 2024, Ban Kiểm soát đã tiếp nhận và chấp thuận đơn từ nhiệm của các thành viên Ban Kiểm soát bao gồm ông Trường Lý Thế Anh, bà Ngô Thị Thủy Lương. Việc từ nhiệm này sẽ được trình và chấp thuận căn cứ quyết định của Đại hội đồng Cổ đông gần nhất của Công ty.
+
+Báo cáo tài chính hợp nhất đã được Ban Giám đốc của Công ty phê chuẩn ngày 29 tháng 3 năm 2024.
+
+Phạm Thị Thúy Ngọc
+Người lập
+
+Phạm Thanh Tuân
+Kế toán trường
+
+Tạ Công Thông
+
+Tổng Giám đốc/
+
+Người đại diện theo pháp luật
+
+62

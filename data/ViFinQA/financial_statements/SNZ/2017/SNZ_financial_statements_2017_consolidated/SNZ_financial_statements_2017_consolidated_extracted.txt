@@ -1,0 +1,2366 @@
+===== PAGE 1 =====
+UBND TÌNH ĐỒNG NAI
+TỔNG CÔNG TY SONADEZI
+
+Số: 149 /SNZ-QTTH
+
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+Độc lập – Tự do – Hạnh phúc
+
+Đồng Nai, ngày 30 tháng 03 năm 2018
+
+CÔNG BỐ THÔNG TIN TRÊN CỔNG THÔNG TIN ĐIỆN TỪ CỦA ỦY BAN CHỨNG KHOÁN NHÀ NƯỚC
+
+Kính gửi: - Ủy ban Chứng khoán Nhà nước;
+
+- Sở Giao dịch Chứng khoán Hà Nội.
+
+- Tên tổ chức: TỔNG CÔNG TY CỔ PHẦN PHÁT TRIỂN KHU CÔNG NGHIỆP
+
+- Tên viết tất: TỔNG CÔNG TY SONADEZI
+
+- Mã chứng khoán: SNZ
+
+- Mã số doanh nghiệp: 3600335363
+
+- Địa chỉ trụ sở chính: Số 1, đường 1, KCN Biên Hoà 1, phường An Bình, TP. Biên Hoà, tỉnh Đồng Nai
+
+- Điện thoại: (0251) 8860561
+
+Fax: (0251) 8860573
+
+- Người thực hiện công bố thông tin: ông Phạm Trần Hòa Hiệp – Người CBTT
+
+- Loại thông tin công bố:
+
+☑ định kỳ
+
+□ bất thường
+
+□ 24h
+
+□ theo yêu cầu
+
+Nội dung thông tin công bố:
+
+- Công bố thông tin BCTC hợp nhất năm 2017 đã được kiểm toán.
+
+- Giải trình một số nội dung tại BCTC hợp nhất năm 2017 đã được kiểm toán.
+
+Thông tin này đã được công bố trên trang thông tin điện tử của Tổng công ty Sonadezi vào ngày 30/3/2018 tại đường dẫn: http://news.sonadezi.com.vn/fpt.php.
+
+Tài liệu đính kèm: Báo cáo tài chính hợp nhất năm 2017 đã kiểm toán; văn bản giải trình số 147/SNZ-KT ngày 30/3/2018.
+
+Tôi cam kết các thông tin công bố trên đây là đúng sự thật và hoàn toàn chịu trách nhiệm trước pháp luật về nội dung các thông tin đã công bố.
+
+Trân trọng.
+
+Nơi nhận:
+
+- Như trên;
+
+- Luru: VT, QTTH.
+
+Phạm Trần Hòa Hiệp
+
+===== PAGE 2 =====
+The Ground Truth image displays a single, solid horizontal line. According to Rule 2 (UNDERSCORE & LINE RULES), if the GT contains lines used for stylistic emphasis or as background (like ruled paper), the OCR result must ignore them. The provided OCR content is "____", which consists of four underscores. This is incorrect because underscores are not equivalent to a solid line and are not permitted under the “Stylistic/Background Lines (Ignore)” rule. Outputting underscores for a stylistic line violates the rule and constitutes an error. Therefore, the OCR result is inconsistent with the Ground Truth.
+
+RSM
+
+TỔNG CÔNG TY CỔ PHẦN
+PHÁT TRIỂN KHU CÔNG NGHIỆP
+VÀ CÁC CÔNG TY CON
+
+BÁO CÁO TÀI CHÍNH HỢP NHẤT ĐÃ ĐƯỢC KIỂM TOÁN
+
+Cho năm tài chính kết thúc ngày 31 tháng 12 năm 2017
+
+===== PAGE 3 =====
+TỔNG CÔNG TY CỔ PHẦN PHÁT TRIỂN
+
+KHU CÔNG NGHIỆP VÀ CÁC CÔNG TY CON
+
+Địa chỉ: Số 1, Đường 1, Khu công nghiệp Biên Hóa 1,
+
+Phường An Bình, Thành phố Biên Hòa, Tỉnh Đồng Nai
+
+MỤC LỤC
+
+<table><tr><td></td><td>Trang</td></tr><tr><td>BẢO CẢO CỦA BAN TỔNG GIÁM ĐỐC</td><td>01 - 02</td></tr><tr><td>BẢO CẢO KIỂM TOÁN ĐỘC LẬP</td><td>03 - 04</td></tr><tr><td>BẢO CẢO TÀI CHÍNH HỢP NHẤT ĐÃ ĐƯỢC KIỂM TOÁN</td><td></td></tr><tr><td>Bàng cân đối kế toán hợp nhất</td><td>05 - 08</td></tr><tr><td>Bảo cáo kết quả hoạt động kinh doanh hợp nhất</td><td>09</td></tr><tr><td>Bảo cáo lưu chuyển tiền tệ hợp nhất</td><td>10 - 11</td></tr><tr><td>Thuyết minh báo cáo tài chính hợp nhất</td><td>12 - 63</td></tr></table>
+
+\( \left\| \frac{23}{32} \right| \) CO \( ^{-1} \)  TO (SM) / T
+
+===== PAGE 4 =====
+TỔNG CÔNG TY CÓ PHẦN PHÁT TRIỂN
+KHU CÔNG NGHIỆP VÀ CÁC CÔNG TY CON
+
+Đia chỉ: Số 1, Đường 1, KCN Biên Hòa 1, P. An Bình
+
+Thành phố Biên Hòa, Tỉnh Đồng Nai
+
+BÁO CÁO CỦA BAN TỔNG GIÁM ĐỐC
+
+Cho năm tài chính kết thúc ngày 31/12/2017
+
+BÁO CÁO CỦA BAN TỔNG GIÁM ĐỐC
+
+Ban Tổng Giám đốc Tổng Công ty Cổ phần Phát triển Khu Công nghiệp (dưới đây gọi tất là "Tổng Công ty") để trình bảo cáo này cùng với các báo cáo tài chính hợp nhất định kèm đã được kiểm toán của Tổng Công ty và các công ty con (dưới đây cùng với Tổng Công ty gọi chung là Tập đoàn) cho năm tài chính kết thúc ngày 31 tháng 12 năm 2017.
+
+THÀNH VIÊN HỘI ĐÔNG QUẢN TRỊ, BAN KIỂM SOÁT VÀ BAN TỔNG GIÁM ĐỐC
+
+Danh sách các thành viên Hội đồng quản trị trong năm và vào ngày lập bảo cáo này của Tổng Công ty bao gồm:
+
+<table><tr><td>Tên</td><td>Chức vụ</td></tr><tr><td>Bà Đỗ Thị Thu Hằng</td><td>Chủ tịch</td></tr><tr><td>Ông Phan Đình Thám</td><td>Thành viên</td></tr><tr><td>Ông Trần Thanh Hải</td><td>Thành viên</td></tr><tr><td>Bà Nguyễn Thị Hạnh</td><td>Thành viên</td></tr><tr><td>Ông Nguyễn Văn Tuán</td><td>Thành viên</td></tr><tr><td>Ông Phạm Quốc Chí</td><td>Thành viên</td></tr><tr><td>Ông Đình Ngọc Thuận</td><td>Thành viên</td></tr></table>
+
+Danh sách các thành viên Ban Kiểm soát trong năm và vào ngày lập báo cáo này của Tổng Công ty bao gồm:
+
+<table><tr><td>Tên</td><td>Chức vụ</td></tr><tr><td>Ông Trần Ngọc Tòng</td><td>Trường Ban kiểm soát</td></tr><tr><td>Bà Phạm Thị Cẩm Hà</td><td>Kiểm soát viên</td></tr><tr><td>Bà Đàng Lê Bích Phương</td><td>Kiểm soát viên</td></tr></table>
+
+Danh sách các thành viên Ban Tổng Giám đốc trong năm và vào ngày lập báo cáo này của Tổng Công ty bao gồm:
+
+<table><tr><td>Tên</td><td>Chức vụ</td></tr><tr><td>Ông Phan Đình Thám</td><td>Tổng Giám đốc</td></tr><tr><td>Ông Nguyễn Long Bôn</td><td>Phó Tổng Giám đốc</td></tr><tr><td>Ông Chu Thanh Sơn</td><td>Phó Tổng Giám đốc</td></tr><tr><td>Bà Trần Thị Thu</td><td>Phó Tổng Giám đốc (miễn nhiệm ngày 01/04/2017)</td></tr><tr><td>Ông Trần Thanh Hải</td><td>Phó Tổng Giám đốc</td></tr><tr><td>Bà Nguyễn Thị Hạnh</td><td>Phó Tổng Giám đốc (bổ nhiệm từ tháng 04/2017)</td></tr></table>
+
+TRÁCH NHIỆM CỦA BAN TỔNG GIÁM ĐỐC
+
+Ban Tổng Giám đốc Tổng Công ty có trách nhiệm lập báo cáo tài chính hợp nhất hàng năm phản ảnh một cách trung thực và hợp lý tinh hình tài chính hợp nhất cũng như kết quả kinh doanh hợp nhất và tinh hình lưu chuyển tiền tệ hợp nhất của Tập đoàn trong năm. Trong việc lập báo cáo tài chính hợp nhất này, Ban Tổng Giám đốc được yêu cầu phải:
+
+- Lựa chọn các chính sách kế toán thích hợp và áp dụng các chính sách đó một cách nhất quản;
+
+Đưa ra các xét đoán và ước tính một cách hợp lý và thân trọng;
+
+- Nếu rõ Chuẩn mục kế toán áp dụng cho Tập đoàn có được tuân thủ hay không, có những áp dụng sai lệch trọng yếu cần được công bố và giải thích trong báo cáo tài chính hợp nhất hay không;
+
+- Lập báo cáo tài chính hợp nhất trên cơ sở hoạt động liên tục trừ trường hợp không thể giả định răng
+Tập đoàn sẽ tiếp tục hoạt động liên tục; và
+
+- Thiết kê và duy trì hệ thống kiểm soát nội bộ một cách hữu hiệu cho mục đích lập và trình bày bảo cáo tài chính hợp nhất hợp lý nhằm hạn chế sai sốt và gian lân.
+
+Ban Tổng Giám đốc xác nhận răng Tập đoàn đã tuân thủ các yêu cầu nếu trên khi lập báo cáo tài chính hợp nhất.
+
+1
+
+\( \left( \frac{1}{2} \right) \)  \( \frac{1}{2} \)  \( \frac{1}{2} \)  \( \frac{1}{2} \)
+
+===== PAGE 5 =====
+TỔNG CÔNG TY CỔ PHẦN PHÁT TRIỂN
+KHU CÔNG NGHIỆP VÀ CÁC CÔNG TY CON
+
+Địa chỉ: Số 1, Đường 1, KCN Biên Hòa 1, P. An Bình, Thành phố Biên Hòa, Tỉnh Đồng Nai
+
+BÁO CÁO CỦA BAN TỔNG GIÁM ĐỐC
+
+Cho năm tài chính kết thúc ngày 31/12/2017
+
+BÁO CÁO CỦA BAN TỔNG GIẢM ĐỐC (TIẾP THEO)
+
+Ban Tổng Giám đốc Tập đoàn chịu trách nhiệm đảm bảo ràng các số sách kế toán được ghi chép phù hợp và lưu giữ đầy đủ để phản ánh một cách hợp lý tính hình tại chính hợp nhất của Tập đoàn tại bất ký thời điểm nào và báo cáo tài chính hợp nhất được lập tuân thủ các Chuẩn mực kế toán Việt Nam và Chế độ kế toán doanh nghiệp Việt Nam cũng như các quy định hiện hành khác về kế toán tại Việt Nam. Ban Tổng Giám đốc Tập đoàn cũng chịu trách nhiệm đảm bảo an toàn tài sản của Tập đoàn và thực hiện những biện pháp thích hợp để ngăn chắn và phát hiện các hành vi gian lân và vi phạm khác.
+
+KIÊM TOÁN VIÊN
+
+Báo cáo tài chính hợp nhất kèm theo được kiểm toán bởi Công ty TNHH Kiểm toàn & Tư Ván RSM Việt Nam, thành viên RSM Quốc tế.
+
+CÔNG BÓ BÁO CÁO TÀI CHÍNH
+
+Ban Tổng Giám đốc Tập đoàn công bố rằng, ngoại trừ ảnh hưởng của vấn đề được neu ở báo cáo kiểm toán kèm theo, báo cáo tài chính hợp nhất kèm theo phân ảnh trung thực và hợp lý, trên các khía cạnh trong yếu, tỉnh hình tài chính hợp nhất của Tập đoàn vào ngày 31 tháng 12 năm 2017, kết quả hoạt động kinh doanh hợp nhất và tỉnh hình lưu chuyển tiền tệ hợp nhất của năm tài chính kết thúc cùng ngày, phủ hợp với các Chuẩn mục kể toán Việt Nam, Chế độ kể toán doanh nghiệp Việt Nam và các quy định hiện hành có liên quan tại Việt Nam.
+
+Thay mặt và đại diện cho Ban Tổng Giám đốc
+
+Phan Đình Thám
+
+Tổng Giám đốc
+
+Đồng Nai, ngày 30 tháng 03 năm 2018
+
+2
+
+YUVANAM
+
+===== PAGE 6 =====
+RSM
+
+RSM Vietnam
+
+Lâu S, Toanhà Sai Gôn 3
+
+140 Nguyen Văn Thu, Phường Đa Kao
+
+Quân 1, Tp. Hồ Chí Minh, Việt Nam
+
+T +848 3827 5026
+
+F +849 3827 5027
+
+WWW.FSM.com.vn
+
+Sô: 18.106HN/BCKT-RSM HCM
+
+BÁO CÁO KIỂM TOÁN ĐỘC LẬP
+
+Kính gửi: Các thành viên Hội đồng quản trị
+Các thành viên Ban Tổng Giám đốc
+
+TỔNG CÔNG TY CỔ PHẦN PHÁT TRIỂN KHU CÔNG NGHIỆP
+
+Báo cáo kiểm toán về báo cáo tài chính hợp nhất
+
+Chủng tối đã kiểm toán báo cáo tài chính hợp nhất kèm theo của Tổng Công ty Cổ phần Phát triển Khu Công nghiệp (dưới đây gọi tất là "Tổng Công ty") và các công ty con (cùng với Tổng Công ty dưới đây gọi chung là "Tập đoàn"), được lập ngày 30 tháng 03 năm 2018 từ trang 05 đến trang 63, bao gồm Bảng cần đối kế toán hợp nhất tại ngày 31 tháng 12 năm 2017, Báo cáo kết quả kinh doanh hợp nhất, Báo cáo lưu chuyển tiền tệ hợp nhất cho năm tài chính kết thúc cùng ngày và Bản thuyết minh báo cáo tài chính hợp nhất. Báo cáo tài chính hợp nhất kèm theo không phân ảnh tỉnh hình tài chính hợp nhất, kết quả hoạt động kinh doanh hợp nhất và tỉnh hình lưu chuyển tiền tệ hợp nhất theo các nguyên tắc và thông lệ kế toán được chấp nhận chung tại các nước khác ngoài Việt Nam.
+
+Trách nhiệm của Ban Tổng Giám đốc
+
+Ban Tổng Giám đốc Tập đoàn chịu trách nhiệm về việc lập và trình bày trung thực hợp lý báo cáo tải chính hợp nhất của Tập đoàn theo các Chuẩn mực kế toán Việt Nam, Chế độ kế toán doanh nghiệp Việt Nam và các quy định pháp lý có liên quan đến việc lập và trình bày báo cáo tải chính hợp nhất và chịu trách nhiệm về kiểm soát nội bộ mà Ban Tổng Giám đốc xác định là cần thiết để đảm bảo cho việc lập và trình bày báo cáo tải chính hợp nhất không có sai sốt trọng yêu do gian lân hoặc nhằm lấn.
+
+Trách nhiệm của Kiểm toán viên
+
+Trách nhiệm của chúng tôi là đưa ra ý kiến về báo cáo tài chính hợp nhất dựa trên kết quả của cuộc kiểm toán. Chủng tối đã tiến hành kiểm toán theo các Chuẩn mực kiểm toán Việt Nam. Các chuẩn mực này yêu cầu chúng tôi tuân thủ chuẩn mực và các quy định về đạo đức nghề nghiệp, lập kế hoạch và thực hiện cuộc kiểm toán để đạt được sự đảm bảo hợp lý về việc liệu bảo cáo tài chính hợp nhất của Tập đoàn có còn sai sót trọng yếu hay không.
+
+Công việc kiểm toán bao gồm thực hiện các thủ tục nhằm thu thập các bằng chứng kiểm toán về các số liệu và thuyết minh trên báo cáo tài chính hợp nhất. Các thủ tục kiểm toán được lựa chọn dựa trên xét đoạn của kiểm toán viên, bao gồm đánh giá rủi ro có sai sost trọng yếu trong báo cáo tài chính hợp nhất do gian lận hoặc nhằm lẫn. Khi thực hiện đánh giá các rủi ro này, kiểm toán viên đã xem xét kiểm soát nội bộ của Tập đoàn liên quan đến việc lập và trình bày báo cáo tài chính hợp nhất trung thực, hợp lý nhằm thiết kế các thủ tục kiểm toán phù hợp với tỉnh hình thực tế, tuy nhiên không nhằm mục đích đưa ra ý kiến về hiệu quả của kiểm soát nội bộ của Tập đoàn. Công việc kiểm toán cũngng bao gồm đánh giá tỉnh thích hợp của các chính sách kế toán được áp dụng và tỉnh hợp lý của các ước tỉnh kê toán của Ban Tổng Giám đốc cũng như đánh giá việc trình bày tổng thể báo cáo tài chính hợp nhất.
+
+Chủng tối tin tưởng rằng các bằng chứng kiểm toán mã chúng tối đã thu thập được là đầy đủ và thích hợp làm cơ sở cho ý kiến kiểm toán ngoại trừ của chúng tối.
+
+THE POWER OF BEING UNDERSTOOD
+AUDIT | TAX | CONSULTING
+
+RSM Vietnam is a member of the RSM network, and trades as RSM. RSM is the trading name used by the members of the RSM network. Each member of the RSM network is an independent accounting and consulting firm which practices in its own right. The RSM network is not itself a separate legal entity in any jurisdiction
+
+3
+
+===== PAGE 7 =====
+RSM
+
+BẢO CÁO KIỂM TOÁN ĐỘC LẬP (TIẾP THEO)
+
+Cơ sở của ý kiến kiểm toán ngoại trừ
+
+Nhu thuyết minh số 4.20 và thuyết minh số 4.21, đến ngày 31/12/2017, phần công việc đã hoàn thành của một số công trình xây dựng theo biên bản nghiệm thu từng đợt với chủ đầu tư có tổng giá trị là 104,247 tỷ đồng và chi phí liên quan đến phần công việc đã hoàn thành này chưa được Tập đoàn ghi nhận vào báo cáo kết quả kinh doanh hợp nhất. Việc ghi nhận doanh thu và chi phí liên quan đến phần công việc đã hoàn thành như trên là chưa phù hợp với Chuẩn mực kế toán Việt Nam số 15 "Doanh thu hợp đồng xây dựng". Với những bằng chứng kiểm toán ma chúng tối thu thập được, chúng tối không thể ước tính được chi phí liên quan đến phần công việc đã hoàn thành của công trình và do đó, chúng tối không thể xác định được ảnh hưởng của vấn đề nếu trên đối với kết quả kinh doanh hợp nhất của năm 2017.
+
+Ý kiến kiểm toán ngoại trừ
+
+Theo ý kiến chúng tối, ngoại trừ ảnh hưởng của vấn đề nếu tại đoạn "Cơ sở của ý kiến kiểm toán ngoại trừ", báo cáo tài chính hợp nhất đinh kèm đã phần ảnh trung thực và hợp lý trên các khía cạnh trong yếu tính hình tài chính tài chính hợp nhất của Tổng Công ty Cổ phần Phát triển Khu Công nghiệp và các công ty con tại ngày 31 tháng 12 năm 2017 cũng như kết quả hoạt động kinh doanh hợp nhất và tính hình lưu chuyển tiền tệ hợp nhất của năm tài chính kết thúc cùng ngày, phù hợp với các Chuẩn mục kế toán Việt Nam, Chế độ kế toán doanh nghiệp Việt Nam và các quy định pháp lý có liên quan đến việc lập và trình bày bảo cáo tài chính hợp nhất.
+
+Vân đề cần nhân mạnh
+
+Mặc đủ không đưa ra ý kiến ngoại trừ, chúng tôi lưu ý người đọc đến Thuyết minh 3.13, 4.14 và 4.17 trong Bản thuyết minh báo cáo tài chính hợp nhất, trong đó trình bày việc trong năm 2017 Tổng Công ty Cổ phần Phát triển Khu Công nghiệp và Sở Tài nguyên và Môi trường tỉnh Đồng Nai đã ký lại hợp đồng thuê đất số 82/HĐTĐ ngày 27/10/2017 nhằm xác định lại đơn giá thuê đất Khu công nghiệp Biên Hòa 1 từ ngày 01/01/2016 đến ngày 01/01/2020 là 7.858 đồng/m2/năm thay thế cho đơn giá 800 đồng/m2/năm được quy định tại Hợp đồng thuê đất số 583/HĐTĐ ngày 22/1/2003. Tổng Công ty đã nộp tiền thuê đất bổ sung theo đơn giả mới quy định tại Hợp đồng thuê đất số 82/HĐTĐ và ghi nhận giá vốn tương ứng đối với phần diện tích đã được ký lại phụ lực thuê đất theo đơn giả mới với khách hàng thuê Khu công nghiệp. Doanh thu và chi phí của phần chênh lệch giữa đơn giá cũ và đơn giả mới tương ứng đối với phần diện tích còn lại sẽ được ghi nhận khi phụ lực hợp đồng thuê đất với khách hàng được ký kết. Y kiến kiểm toán ngoại trừ của chúng tôi không liên quan đến vấn đề này.
+
+KT. TỔNG GIÁM ĐỐC
+
+Lục Thị Vân
+
+Phó Tổng Giám đốc
+
+Số Giấy CN Đăng ký hành nghề kiểm toán:
+
+0172-2018-026-1
+
+Huỳnh Thị Ngọc Trình
+
+Kiểm toán viên
+
+Số Giấy CN Đăng ký hành nghề kiểm toán:
+
+2124-2018-026-1
+
+Công ty TNHH Kiểm toán & Tư vấn RSM Việt Nam
+
+TP. Hồ Chí Minh, ngày 30 tháng 03 năm 2018
+
+4
+
+CO
+
+===== PAGE 8 =====
+TỔNG CÔNG TY CÓ PHẦN PHÁT TRIỂN
+
+KHU CÔNG NGHIỆP VÀ CÁC CÔNG TY CON
+
+Địa chỉ: Số 1, Đường 1, KCN Biên Hòa 1, Phường An Bình,
+
+Thành phố Biên Hòa, Tỉnh Đông Nai
+
+BÁO CÁO TÀI CHÍNH HỢP NHẤT
+
+Cho năm tài chính kết thúc ngày 31/12/2017
+
+Mẫu số B 01 - DN/HN
+
+BẢNG CÂN ĐỐI KẾ TOÁN HỢP NHẮT
+
+Tại ngày 31 tháng 12 năm 2017
+
+Đơn vị tinh: VND
+
+<table><tr><td>TÀI SẢN</td><td>Mã số</td><td>TM</td><td>Tại ngày 31/12/2017</td><td>Tại ngày 01/01/2017 (Xem TM số 12)</td></tr><tr><td>A. TÀI SẢN NGĂN HẠN</td><td>100</td><td></td><td>5.370.950.629.688</td><td>5.159.636.642.388</td></tr><tr><td>I. Tiền và các khoản tương đương tiền</td><td>110</td><td>(4.1)</td><td>1.021.899.574.185</td><td>1.438.386.955.458</td></tr><tr><td>1. Tiền</td><td>111</td><td></td><td>407.012.155.621</td><td>278.684.223.266</td></tr><tr><td>2. Các khoản tương đương tiền</td><td>112</td><td></td><td>614.887.418.564</td><td>1.159.702.732.192</td></tr><tr><td>II. Đầu tư tài chính ngắn hạn</td><td>120</td><td></td><td>1.875.665.000.000</td><td>1.256.220.000.000</td></tr><tr><td>1. Đầu tư nằm giữ đến ngày đáo hạn</td><td>123</td><td>(4.2)</td><td>1.875.665.000.000</td><td>1.256.220.000.000</td></tr><tr><td>III. Các khoản phải thu ngắn hạn</td><td>130</td><td></td><td>1.490.605.257.962</td><td>1.401.614.988.370</td></tr><tr><td>1. Phải thu ngắn hạn của khách hàng</td><td>131</td><td>(4.3)</td><td>646.199.187.390</td><td>659.818.633.779</td></tr><tr><td>2. Trả trước cho người bán ngắn hạn</td><td>132</td><td>(4.4)</td><td>748.774.244.740</td><td>650.024.873.451</td></tr><tr><td>3. Phải thu về cho vay ngắn hạn</td><td>135</td><td>(4.5)</td><td>15.000.000.000</td><td>20.000.000.000</td></tr><tr><td>4. Phải thu ngắn hạn khác</td><td>136</td><td>(4.6)</td><td>115.379.443.458</td><td>97.566.017.845</td></tr><tr><td>5. Dự phòng phải thu ngắn hạn khó đòi</td><td>137</td><td>(4.7)</td><td>(34.747.617.626)</td><td>(25.794.536.705)</td></tr><tr><td>IV. Hàng tồn kho</td><td>140</td><td></td><td>831.321.876.810</td><td>979.884.051.358</td></tr><tr><td>1. Hàng tồn kho</td><td>141</td><td>(4.8)</td><td>831.321.876.810</td><td>979.884.051.358</td></tr><tr><td>V. Tài sản ngắn hạn khác</td><td>150</td><td></td><td>151.458.920.731</td><td>83.530.647.202</td></tr><tr><td>1. Chi phí trả trước ngắn hạn</td><td>151</td><td>(4.14)</td><td>31.893.141.841</td><td>4.235.606.567</td></tr><tr><td>2. Thuế GTGT được khấu trừ</td><td>152</td><td></td><td>53.106.311.567</td><td>33.126.558.744</td></tr><tr><td>3. Thuế và các khoản khác phải thu Nhà nước</td><td>153</td><td>(4.17)</td><td>65.758.672.780</td><td>45.416.838.809</td></tr><tr><td>4. Tài sản ngắn hạn khác</td><td>155</td><td></td><td>700.794.543</td><td>751.643.082</td></tr></table>
+
+(Xem tiếp trang sau)
+
+Các thuyết minh đính kèm là một bộ phận không tách rời của báo cáo tài chính hợp nhất
+
+5
+
+236 ON TN TCAH MVI T.P
+
+===== PAGE 9 =====
+TỔNG CÔNG TY CỔ PHẦN PHÁT TRIỂN
+
+KHU CÔNG NGHIỆP VÀ CÁC CÔNG TY CON
+
+Địa chỉ: Số 1, Đường 1, KCN Biên Hòa 1, Phường An Bình,
+
+Thành phố Biên Hòa, Tỉnh Đồng Nai
+
+BÁO CÁO TÀI CHÍNH HỢP NHẤT
+
+Cho năm tài chính kết thúc ngày 31/12/2017
+
+Mẫu số B 01 - DN/HN
+
+BẢNG CÂN ĐỐI KẾ TOÁN HỢP NHẤT
+
+Tại ngày 31 tháng 12 năm 2017
+
+Đơn vị tính: VND
+
+<table><tr><td>TÀI SẢN</td><td>Mã số</td><td>TM</td><td>Tại ngày 31/12/2017</td><td>Tại ngày 01/01/2017 (Xem TM số 12)</td></tr><tr><td>B. TÀI SẢN DÀI HẠN</td><td>200</td><td></td><td>10.470.068.981.821</td><td>9.376.006.870.326</td></tr><tr><td>I. Các khoản phải thu dài hạn</td><td>210</td><td></td><td>100.588.647.131</td><td>105.566.105.808</td></tr><tr><td>1. Phải thu dài hạn của khách hàng</td><td>211</td><td>(4.3)</td><td>2.920.351.920</td><td>7.947.401.920</td></tr><tr><td>2. Trả trước cho người bán dài hạn</td><td>212</td><td></td><td>200.000.000</td><td></td></tr><tr><td>3. Phải thu dài hạn khác</td><td>216</td><td>(4.6)</td><td>104.570.689.111</td><td>104.731.897.788</td></tr><tr><td>4. Dự phòng phải thu dài hạn khó đòi</td><td>219</td><td>(4.7)</td><td>(7.102.393.900)</td><td>(7.113.193.900)</td></tr><tr><td>II. Tài sản cố định</td><td>220</td><td></td><td>4.170.233.396.427</td><td>3.963.155.799.605</td></tr><tr><td>1. Tài sản cố định hữu hình</td><td>221</td><td>(4.9)</td><td>3.771.624.830.144</td><td>3.554.694.702.699</td></tr><tr><td>Nguyên giá</td><td>222</td><td></td><td>6.454.083.733.690</td><td>5.945.187.465.523</td></tr><tr><td>Giá trị hao mòn lũy kế</td><td>223</td><td></td><td>(2.682.458.903.546)</td><td>(2.390.492.762.824)</td></tr><tr><td>2. Tài sản cố định vô hình</td><td>227</td><td>(4.10)</td><td>398.608.566.283</td><td>408.461.096.906</td></tr><tr><td>Nguyên giá</td><td>228</td><td></td><td>496.340.553.819</td><td>495.975.499.444</td></tr><tr><td>Giá trị hao mòn lũy kế</td><td>229</td><td></td><td>(97.731.987.536)</td><td>(87.514.402.538)</td></tr><tr><td>III. Bất động sản đầu tư</td><td>230</td><td>(4.11)</td><td>1.898.102.124.573</td><td>1.782.810.070.358</td></tr><tr><td>Nguyên giá</td><td>231</td><td></td><td>2.899.694.433.376</td><td>2.691.428.722.466</td></tr><tr><td>Giá trị hao mòn lũy kế</td><td>232</td><td></td><td>(1.001.592.308.803)</td><td>(908.618.652.108)</td></tr><tr><td>IV. Tài sản dở dang dài hạn</td><td>240</td><td></td><td>3.007.173.063.544</td><td>2.375.365.020.543</td></tr><tr><td>1. Chi phí sản xuất, kinh doanh dở dang dài hạn</td><td>241</td><td>(4.12)</td><td>354.985.313.925</td><td>250.960.049.169</td></tr><tr><td>2. Chi phí xây dựng cơ bản dở dang</td><td>242</td><td>(4.13)</td><td>2.652.187.749.619</td><td>2.124.404.971.374</td></tr><tr><td>V. Đầu tư tài chính dài hạn</td><td>250</td><td>(4.2)</td><td>633.514.261.898</td><td>549.434.958.349</td></tr><tr><td>1. Đầu tư vào công ty liên doanh, liên kết</td><td>252</td><td></td><td>359.716.342.318</td><td>313.683.925.078</td></tr><tr><td>2. Đầu tư góp vốn vào đơn vị khác</td><td>253</td><td></td><td>227.349.953.280</td><td>198.412.703.641</td></tr><tr><td>3. Dự phòng đầu tư tài chính dài hạn</td><td>254</td><td></td><td>(3.552.033.700)</td><td>(4.161.670.370)</td></tr><tr><td>4. Đầu tư nấm giữ đến ngày đào hạn</td><td>255</td><td></td><td>50.000.000.000</td><td>41.500.000.000</td></tr><tr><td>VI. Tài sản dài hạn khác</td><td>260</td><td></td><td>660.457.488.248</td><td>599.674.915.663</td></tr><tr><td>1. Chi phí trả trước dài hạn</td><td>261</td><td>(4.14)</td><td>635.694.791.772</td><td>570.906.981.623</td></tr><tr><td>2. Tài sản thuê thu nhập hoãn lại</td><td>262</td><td>(5.10)</td><td>24.762.696.476</td><td>28.767.934.040</td></tr><tr><td>TỔNG CỘNG TÀI SẢN</td><td>270</td><td></td><td>15.841.019.611.509</td><td>14.535.643.512.714</td></tr></table>
+
+(Xem tiếp trang sau)
+
+Các thuyết minh đính kèm là một bộ phận không tách rời của báo cáo tài chính hợp nhất
+
+6
+
+187 T H 4TN 10
+
+===== PAGE 10 =====
+TỔNG CÔNG TY CÓ PHẦN PHÁT TRIỂN
+
+KHU CỔNG NGHIỆP VÀ CÁC CỔNG TY CON
+
+Địa chỉ: Số 1, Đường 1, KCN Biên Hòa 1, Phương An Bình,
+
+Thanh phô Biên Hòa, Tỉnh Đông Nai
+
+BÁO CÁO TÀI CHÍNH HỢP NHẤT
+
+Cho năm tài chính kết thúc ngày 31/12/2017
+
+Mẫu số B 01 - DN/HN
+
+BẢNG CÂN ĐỐI KẾ TOÁN HỢP NHẮT
+
+Tại ngày 31 tháng 12 năm 2017
+
+Đơn vị tinh: VND
+
+<table><tr><td>NGUỒN VỐN</td><td>Mã số</td><td>TM</td><td>Tại ngày 31/12/2017</td><td>Tại ngày 01/01/2017 (Xem TM số 12)</td></tr><tr><td>C. NỘ PHẢI TRẢ</td><td>300</td><td></td><td>9.118.316.718.010</td><td>8.250.120.000.710</td></tr><tr><td>I. Nợ ngắn hạn</td><td>310</td><td></td><td>2.727.067.949.062</td><td>2.485.505.220.287</td></tr><tr><td>1. Nợ phải trả người bán ngắn hạn</td><td>311</td><td>(4.15)</td><td>513.485.274.824</td><td>338.131.393.796</td></tr><tr><td>2. Người mua trả tiền trước ngắn hạn</td><td>312</td><td>(4.16)</td><td>256.908.083.040</td><td>388.728.396.713</td></tr><tr><td>3. Thuế và các khoản phải nộp Nhà nước</td><td>313</td><td>(4.17)</td><td>36.544.653.125</td><td>241.102.391.831</td></tr><tr><td>4. Phải trả người lao động</td><td>314</td><td>(4.18)</td><td>102.745.592.257</td><td>96.606.081.587</td></tr><tr><td>5. Chỉ phí phải trả ngắn hạn</td><td>315</td><td>(4.19)</td><td>116.289.655.113</td><td>118.799.103.506</td></tr><tr><td>6. Phải trả theo tiến độ kế hoạch HĐXD</td><td>317</td><td></td><td></td><td>10.112.000.000</td></tr><tr><td>7. Doanh thu chưa thực hiện ngắn hạn</td><td>318</td><td>(4.20)</td><td>113.921.423.168</td><td>118.570.403.875</td></tr><tr><td>8. Phải trả ngắn hạn khác</td><td>319</td><td>(4.21)</td><td>318.334.948.951</td><td>315.153.785.999</td></tr><tr><td>9. Vay và nợ thuê tài chính ngắn hạn</td><td>320</td><td>(4.22)</td><td>1.131.856.513.601</td><td>743.465.743.511</td></tr><tr><td>10. Dự phòng phải trả ngắn hạn</td><td>321</td><td>(4.23)</td><td>14.051.992.980</td><td>7.924.000.000</td></tr><tr><td>11. Quỹ khen thưởng, phúc lợi</td><td>322</td><td>(4.24)</td><td>122.929.812.003</td><td>106.911.919.469</td></tr><tr><td>II. Nợ dài hạn</td><td>330</td><td></td><td>6.391.248.768.948</td><td>5.764.614.780.423</td></tr><tr><td>1. Phải trả người bán dài hạn</td><td>331</td><td></td><td></td><td>17.516.875.308</td></tr><tr><td>2. Người mua trả tiền trước dài hạn</td><td>332</td><td>(4.16)</td><td>8.026.078.158</td><td>11.124.122.555</td></tr><tr><td>3. Chỉ phí phải trả dài hạn</td><td>333</td><td>(4.19)</td><td>280.082.300.410</td><td>202.185.803.690</td></tr><tr><td>4. Doanh thu chưa thực hiện dài hạn</td><td>336</td><td>(4.20)</td><td>3.261.041.237.181</td><td>2.902.609.037.937</td></tr><tr><td>5. Phải trả dài hạn khác</td><td>337</td><td>(4.21)</td><td>344.638.611.025</td><td>192.374.771.509</td></tr><tr><td>6. Vay và nợ thuê tài chính dài hạn</td><td>338</td><td>(4.22)</td><td>2.495.748.597.365</td><td>2.438.539.234.017</td></tr><tr><td>7. Dự phòng phải trả dài hạn</td><td>342</td><td></td><td>1.711.944.809</td><td>264.935.407</td></tr></table>
+
+(Xem tiếp trang sau)
+
+Các thuyết minh đình kèm là một bộ phận không tách rời của báo cáo tài chính hợp nhất
+
+7
+
+C.T.1 VAN M MIN
+
+===== PAGE 11 =====
+TỔNG CỔNG TY CÓ PHẦN PHÁT TRIỂN
+
+KHU CÔNG NGHIỆP VÀ CÁC CÔNG TY CON
+
+Địa chỉ: Số 1, Đường 1, KCN Biên Hòa 1, Phường An Bình,
+
+Thành phố Biên Hòa, Tỉnh Đông Nai
+
+BÁO CÁO TÀI CHÍNH HỢP NHẤT
+
+Cho năm tài chính kết thúc ngày 31/12/2017
+
+Mẫu số B 01 - DN/HN
+
+BẢNG CẦN ĐỐI KẾ TOÁN HỢP NHẤT
+
+Tại ngày 31 tháng 12 năm 2017
+
+Đơn vị tính: VND
+
+<table><tr><td>NGUỒN VỐN</td><td>Mã số</td><td>TM</td><td>Tại ngày 31/12/2017</td><td>Tại ngày 01/01/2017 (Xem TM số 12)</td></tr><tr><td>D. VỐN CHỦ SỞ HỮU</td><td>400</td><td></td><td>6.722.702.893.499</td><td>6.285.523.512.004</td></tr><tr><td>I. Vốn chủ sở hữu</td><td>410</td><td>(4.25.1)</td><td>6.627.772.487.881</td><td>6.188.315.232.060</td></tr><tr><td>1. Vốn đầu tư của chủ sở hữu</td><td>411</td><td></td><td>3.765.000.000.000</td><td>3.083.219.736.832</td></tr><tr><td>Cổ phiếu phổ thông có quyền biểu quyết</td><td>411a</td><td></td><td>3.765.000.000.000</td><td></td></tr><tr><td>2. Thắng dư vốn cổ phần</td><td>412</td><td></td><td>105.704.219.146</td><td>105.704.219.146</td></tr><tr><td>3. Vốn khác của chủ sở hữu</td><td>414</td><td></td><td>88.958.706.002</td><td>75.026.553.001</td></tr><tr><td>4. Chênh lệch dành giả lại tài sản</td><td>416</td><td></td><td>(633.930.931.829)</td><td>41.353.676.315</td></tr><tr><td>5. Quỹ đầu tư phát triển</td><td>418</td><td></td><td>346.929.067.083</td><td>332.932.009.436</td></tr><tr><td>6. Quỹ hỗ trợ sắp xếp doanh nghiệp</td><td>419</td><td></td><td></td><td>50.818.271.758</td></tr><tr><td>7. Quỹ khác thuộc vốn chủ sở hữu</td><td>420</td><td></td><td>19.426.615.585</td><td>21.034.029.763</td></tr><tr><td>8. Lợi nhuận sau thuế chưa phân phối</td><td>421</td><td></td><td>719.882.546.073</td><td>576.999.501.003</td></tr><tr><td>LNST chưa phân phối lũy kế đến CK trước</td><td>421a</td><td></td><td>215.089.061.671</td><td>156.407.759.268</td></tr><tr><td>LNST chưa phân phối kỳ này</td><td>421b</td><td></td><td>504.793.484.402</td><td>420.591.741.735</td></tr><tr><td>9. Nguồn vốn đầu tư XDCB</td><td>422</td><td></td><td>3.056.212.501</td><td>3.056.212.501</td></tr><tr><td>10. Lợi ích cổ đông không kiểm soát</td><td>429</td><td></td><td>2.212.746.053.320</td><td>1.898.171.022.305</td></tr><tr><td>II. Nguồn kinh phí, quỹ khác</td><td>430</td><td></td><td>94.930.405.618</td><td>97.208.279.944</td></tr><tr><td>1. Nguồn kinh phí</td><td>431</td><td></td><td>530.000.482</td><td>1.226.469.439</td></tr><tr><td>2. Nguồn kinh phí đã hình thành TSCĐ</td><td>432</td><td></td><td>94.400.405.136</td><td>95.981.810.505</td></tr><tr><td>TỔNG CỘNG NGUỒN VỐN</td><td>440</td><td></td><td>15.841.019.611.509</td><td>14.535.643.512.714</td></tr></table>
+
+Phan Đình Thám
+
+Tổng Giám đốc
+
+Đồng Nai, ngày 30 tháng 03 năm 2018
+
+Phan Thùy Doan
+
+Kế toán trường
+
+Nguyễn Thị Quyên
+
+Người lập
+
+Các thuyết minh đính kèm là một bộ phận không tách rời của bảo cáo tài chính hợp nhất
+
+8
+
+===== PAGE 12 =====
+TỔNG CỔNG TY CỔ PHẦN PHẠT TRIỂN
+
+KHU CÔNG NGHIỆP VÀ CẮC CÔNG TY CON
+
+Địa chỉ: Số 1, Đường 1, KCN Biên Hòa 1, Phường An Bình,
+
+Thành phố Biên Hòa, Tỉnh Đồng Nai
+
+BÁO CÁO TÀI CHÍNH HỢP NHẤT
+
+Cho năm tài chính kết thúc ngày 31/12/2017
+
+Mẫu số B 02 - DN/HN
+
+BÁO CÁO KẾT QUẢ HOẠT ĐỘNG KINH DOANH HỢP NHẤT
+
+Cho năm tài chính kết thúc ngày 31 tháng 12 năm 2017
+
+Đơn vị tính: VND
+
+<table><tr><td>CHỈ TIỀU</td><td>Mã số</td><td>TM</td><td>Từ 01/01/2017 đến 31/12/2017</td><td>Từ 01/02/2016 đến 31/12/2016 (Xem TM số 12)</td></tr><tr><td>1. Doanh thu bán hàng và cung cấp dịch vụ</td><td>01</td><td></td><td>3.788.546.436.677</td><td>3.648.925.532.035</td></tr><tr><td>2. Các khoản giảm trừ doanh thu</td><td>02</td><td></td><td>1.128.096.195</td><td>5.185.428.006</td></tr><tr><td>3. Doanh thu thuần về bán hàng và cung cấp dịch vụ</td><td>10</td><td>(5.1)</td><td>3.787.418.340.482</td><td>3.643.740.104.029</td></tr><tr><td>4. Giá vốn hàng bán</td><td>11</td><td>(5.2)</td><td>2.628.249.985.157</td><td>2.507.048.838.453</td></tr><tr><td>5. Lợi nhuận gộp về bán hàng và cung cấp dịch vụ</td><td>20</td><td></td><td>1.159.168.355.325</td><td>1.136.691.265.576</td></tr><tr><td>6. Doanh thu hoạt động tài chính</td><td>21</td><td>(5.3)</td><td>187.386.621.017</td><td>134.096.155.417</td></tr><tr><td>7. Chi phí tài chính</td><td>22</td><td>(5.4)</td><td>206.678.901.559</td><td>176.112.630.044</td></tr><tr><td>Trong đó, chi phí lãi vay</td><td>23</td><td></td><td>104.092.727.137</td><td>121.515.953.358</td></tr><tr><td>8. Phần lãi hoặc lỗ trong công ty liên kết</td><td>24</td><td></td><td>14.454.899.541</td><td>9.450.039.981</td></tr><tr><td>9. Chi phí bán hàng</td><td>25</td><td>(5.5)</td><td>138.041.890.134</td><td>112.042.551.983</td></tr><tr><td>10. Chi phí quản lý doanh nghiệp</td><td>26</td><td>(5.6)</td><td>349.261.684.589</td><td>298.910.223.167</td></tr><tr><td>11. Lợi nhuận thuần từ hoạt động kinh doanh</td><td>30</td><td></td><td>667.027.399.601</td><td>693.172.055.780</td></tr><tr><td>12. Thu nhập khác</td><td>31</td><td>(5.7)</td><td>62.092.741.142</td><td>35.020.378.070</td></tr><tr><td>13. Chi phí khác</td><td>32</td><td></td><td>8.658.154.727</td><td>17.864.031.361</td></tr><tr><td>14. Lợi nhuận khác</td><td>40</td><td></td><td>53.434.586.415</td><td>17.156.346.709</td></tr><tr><td>15. Tổng lợi nhuận kế toán trước thuế</td><td>50</td><td></td><td>720.461.986.016</td><td>710.328.402.489</td></tr><tr><td>16. Chi phí thuế TNDN hiện hành</td><td>51</td><td>(5.9)</td><td>125.326.732.292</td><td>107.026.247.861</td></tr><tr><td>17. Chi phí thuế TNDN hoãn lại</td><td>52</td><td>(5.10)</td><td>4.005.237.564</td><td>(335.677.205)</td></tr><tr><td>18. Lợi nhuận sau thuế thu nhập doanh nghiệp</td><td>60</td><td></td><td>591.130.016.160</td><td>603.637.831.833</td></tr><tr><td>19. Lợi nhuận sau thuế của công ty mẹ</td><td>61</td><td></td><td>346.764.330.680</td><td>397.278.166.818</td></tr><tr><td>20. Lợi nhuận sau thuế của cổ đông không kiểm soát</td><td>62</td><td></td><td>244.365.685.480</td><td>206.359.665.015</td></tr><tr><td>21. Lãi cơ bản trên cổ phiếu</td><td>70</td><td>(4.25.2)</td><td>921</td><td></td></tr><tr><td>22. Lãi suy giảm trên cổ phiếu</td><td>71</td><td>(4.25.2)</td><td>921</td><td></td></tr></table>
+
+Phan Đình Thám
+
+Tổng Giám đốc
+
+Đồng Nai, ngày 30 tháng 03 năm 2018
+
+Phan Thùy Doan
+
+Kế toán trường
+
+Nguyễn Thị Quyên
+
+Người lập
+
+Các thuyết minh dính kèm là một bộ phận không tách rời của bảo cáo tài chính hợp nhất
+
+9
+
+《图 0 意要人》
+
+===== PAGE 13 =====
+TỔNG CỔNG TY CỔ PHẠN PHẠT TRIỂN
+KHU CỔNG NGHIỆP VÀ CÁC CỔNG TY CON
+
+Địa chỉ: Số 1, Đường 1, KCN Biên Hòa 1, Phường An Bình, Thành phố Biên Hòa, Tỉnh Đồng Nai
+
+BÁO CÁO TÀI CHÍNH HỢP NHẤT
+
+Cho năm tài chính kết thúc ngày 31/12/2017
+
+Mẫu số B 03 - DN/HN
+
+BÁO CÁO LƯU CHUYẾN TIỀN TỆ HỢP NHẤT
+
+(Theo phương pháp gián tiếp)
+
+Cho năm tài chính kết thúc ngày 31 tháng 12 năm 2017
+
+Đơn vị tính: VND
+
+<table><tr><td>CHỈ TIỀU</td><td>Mã số</td><td>TM</td><td>Từ 01/01/2017đến 31/12/2017</td><td>Từ 01/02/2016đến 31/12/2016(Xem TM số 12)</td></tr><tr><td colspan="5">I. LƯU CHUYẾN TIÊN TỪ HOẠT ĐỘNG KINH DOANH</td></tr><tr><td>Lợi nhuận trước thuế</td><td>01</td><td></td><td>720.461.986.016</td><td>710.328.402.489</td></tr><tr><td>2. Điều chỉnh cho các khoản</td><td></td><td></td><td></td><td></td></tr><tr><td>Khấu hao TSCĐ và BĐSDĐT</td><td>02</td><td>(5.8)</td><td>442.942.579.231</td><td>391.321.907.155</td></tr><tr><td>Các khoản dự phòng</td><td>03</td><td></td><td>15.806.149.824</td><td>(1.249.798.319)</td></tr><tr><td>Lãi, lỗ chênh lệch tỷ giả hối đoái do đánh giá</td><td></td><td></td><td></td><td></td></tr><tr><td>lai các khoản mục tiền tệ cỏ gốc ngoại tệ</td><td>04</td><td></td><td>96.343.856.638</td><td>42.429.451.733</td></tr><tr><td>Lãi, lỗ từ hoạt động đầu tư</td><td>05</td><td></td><td>(194.940.844.087)</td><td>(174.477.259.820)</td></tr><tr><td>Chi phí lãi vay</td><td>06</td><td></td><td>104.092.727.137</td><td>121.515.953.358</td></tr><tr><td>3. Lợi nhuận từ hoạt động kinh doanh trước những thay đối vốn lưu động</td><td>08</td><td></td><td>1.184.706.454.759</td><td>1.089.868.656.596</td></tr><tr><td>Tăng, giảm các khoản phải thu</td><td>09</td><td></td><td>(190.372.674.610)</td><td>362.348.299.734</td></tr><tr><td>Tăng, giảm hàng tồn kho</td><td>10</td><td></td><td>(26.222.530.049)</td><td>47.260.942.934</td></tr><tr><td>Tăng, giảm các khoản phải trả (không kể lãi vay phải trả, thuế thu nhập doanh nghiệp phải nộp)</td><td>11</td><td></td><td>(61.219.884.870)</td><td>620.432.867.515</td></tr><tr><td>Tăng giảm chi phí trả trước</td><td>12</td><td></td><td>78.796.507.541</td><td>(18.663.466.768)</td></tr><tr><td>Tiền lãi vay đã trả</td><td>14</td><td></td><td>(103.633.306.073)</td><td>(109.301.929.457)</td></tr><tr><td>Tiền thuế thu nhập doanh nghiệp đã nộp</td><td>15</td><td></td><td>(176.341.298.651)</td><td>(116.448.050.189)</td></tr><tr><td>Tiền thu khác từ hoạt động kinh doanh</td><td>16</td><td></td><td>21.377.723.791</td><td>20.876.696.877</td></tr><tr><td>Tiền chi khác cho hoạt động kinh doanh</td><td>17</td><td></td><td>(148.206.860.311)</td><td>(72.465.726.426)</td></tr><tr><td>Lưu chuyển tiền thuần từ hoạt động kinh doanh</td><td>20</td><td></td><td>578.884.131.527</td><td>1.823.908.290.816</td></tr><tr><td colspan="5">II. LƯU CHUYẾN TIÊN TỪ HOẠT ĐỘNG ĐẦU TƯ</td></tr><tr><td>1. Tiền chi để mua sắm, xây dựng TSCĐ và các tài sản dài hạn khác</td><td>21</td><td></td><td>(1.107.567.484.090)</td><td>(1.341.007.548.529)</td></tr><tr><td>2. Tiền thu từ thanh lý, nhượng bán TSCĐ và các tài sản dài hạn khác</td><td>22</td><td></td><td>20.671.048.500</td><td>92.583.112.180</td></tr><tr><td>3. Tiền chi cho vay, mua các công cụ nợ của các đơn vị khác</td><td>23</td><td></td><td>(2.132.975.000.000)</td><td>(1.690.747.000.000)</td></tr><tr><td>4. Tiền thu hồi cho vay, bán lại các công cụ nợ của đơn vị khác</td><td>24</td><td></td><td>1.501.530.000.000</td><td>763.973.726.000</td></tr><tr><td>5. Tiền chi đầu tư góp vốn vào đơn vị khác</td><td>25</td><td></td><td>(100.061.189.000)</td><td></td></tr><tr><td>6. Tiền thu hồi đầu tư góp vốn vào đơn vị khác</td><td>26</td><td></td><td>351.264.236.202</td><td>42.702.844.800</td></tr><tr><td>7. Tiền thu lãi cho vay, cổ tức và lợi nhuận được chia</td><td>27</td><td></td><td>150.891.326.899</td><td>158.508.377.555</td></tr><tr><td>Lưu chuyển tiền thuần từ hoạt động đầu tư</td><td>30</td><td></td><td>(1.316.247.061.489)</td><td>(1.973.986.487.994)</td></tr></table>
+
+(Xem tiếp trang sau)
+
+Các thuyết minh đình kèm là một bộ phận không tách rời của bảo cáo tài chính hợp nhất
+
+10
+
+||| 91 | |NC TNH CAN VIE | |PH
+
+===== PAGE 14 =====
+TỔNG CỔNG TY CỔ PHẦN PHÁT TRIỂN
+
+KHU CÔNG NGHIỆP VÀ CÁC CÔNG TY CON
+
+Địa chỉ: Số 1, Đường 1, KCN Biên Hòa 1, Phường An Bình,
+
+Thành phố Biên Hòa, Tỉnh Đông Nai
+
+BÁO CÁO TÀI CHÍNH HỢP NHẤT
+
+Cho năm tài chính kết thúc ngày 31/12/2017
+
+Mẫu số B 03 - DN/HN
+
+BÁO CÁO LƯU CHUYÊN TIỀN TỆ HỢP NHẤT
+
+(Theo phương pháp gián tiếp)
+
+Cho năm tài chính kết thúc ngày 31 tháng 12 năm 2017
+
+Đơn vị tính: VND
+
+<table><tr><td>CHỈ TIỀU</td><td>Mã số</td><td>TM</td><td>Từ 01/01/2017 đến 31/12/2017</td><td>Từ 01/02/2016 đến 31/12/2016 (Xem TM số 12)</td></tr><tr><td colspan="5">III. LƯU CHUYÊN TIÊN TỪ HOẠT ĐỘNG TÀI CHÍNH</td></tr><tr><td>1. Tiền thu từ đi vay</td><td>33</td><td>(6.1)</td><td>1.706.861.437.200</td><td>1.605.750.360.388</td></tr><tr><td>2. Tiền trả nợ gốc vay</td><td>34</td><td>(6.2)</td><td>(1.261.180.754.471)</td><td>(1.829.470.918.474)</td></tr><tr><td>3. Cổ tức, lợi nhuận đã trả cho chủ sở hữu</td><td>36</td><td></td><td>(124.830.380.157)</td><td>(278.304.142.204)</td></tr><tr><td>Lưu chuyển tiền thuần từ hoạt động tài chính</td><td>40</td><td></td><td>320.850.302.572</td><td>(502.024.700.290)</td></tr><tr><td>LƯU CHUYÊN TIÊN THUẦN TRONG NĂM</td><td>50</td><td></td><td>(416.512.627.390)</td><td>(652.102.897.468)</td></tr><tr><td>Tiền và tương đương tiền đầu năm</td><td>60</td><td></td><td>1.438.386.955.458</td><td>2.090.444.779.968</td></tr><tr><td>Ảnh hưởng của thay đổi tỷ giá hối đoái quy đối ngoại tệ</td><td>61</td><td></td><td>25.246.117</td><td>45.072.958</td></tr><tr><td>TIÊN VÀ TƯƠNG ĐƯƠNG TIÊN CUỐI NĂM</td><td>70</td><td>(4.1)</td><td>1.021.899.574.185</td><td>1.438.386.955.458</td></tr></table>
+
+Phan Đình Thám
+
+Tổng Giám đốc
+
+Đồng Nai, ngày 30 tháng 03 năm 2018
+
+Phan Thùy Doan
+Kế toán trường
+
+Nguyên Thị Quyên
+Người lập
+
+Các thuyết minh đình kèm là một bộ phận không tách rời của bảo cáo tài chính hợp nhất
+
+11
+
+\( \left\| \frac{1}{2} \right\| = \frac{1}{2} \)
+
+===== PAGE 15 =====
+TỔNG CÔNG TY CÓ PHẦN PHÁT TRIỂN
+
+KHU CÔNG NGHIỆP VÀ CÁC CÔNG TY CON
+
+Địa chỉ: Số 1, Đường 1, KCN Biên Hòa 1,
+
+Phường An Bình, Thành phố Biên Hòa, Tỉnh Đồng Nai
+
+BÁO CÁO TÀI CHÍNH HỢP NHẤT
+
+Cho năm tài chính kết thúc ngày 31/12/2017
+
+Mẫu số B 09 - DN/HN
+
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT
+
+1. ĐẶC ĐIỂM HOẠT ĐỘNG CỦA DOANH NGHIỆP
+
+1.1. Hình thức sở hữu vốn
+
+Tổng Công ty Cổ phần Phát triển Khu công nghiệp (dưới đây gọi tất là "Tổng Công ty") hoạt động theo Giấy chứng nhận đăng ký kính doanh lần đầu số 3600335363 ngày 01 tháng 07 năm 2010 do Sở Kế hoạch và Đầu tư tỉnh Đồng Nai cấp và các Giấy phép thay đổi sau đó với lần thay đổi gần đây nhất là vào ngày 01 tháng 02 năm 2016 với hình thức công ty có phần.
+
+Tiền thân của Tổng Công ty là Công ty Phát triển Khu công nghiệp Biên Hòa - Doanh nghiệp Nhà nước được thành lập theo Quyết định số 1713/QĐUBT ngày 15 tháng 12 năm 1990 và đăng ký lai theo Quyết định số 2271/QĐ-UBT ngày 17 tháng 12 năm 1992 của Ủy ban Nhân dân tỉnh Đồng Nai. Ngày 29 tháng 06 năm 2005, Tổng Công ty chuyển sang hoạt động theo mô hình công ty mẹ, công ty con theo Quyết định số 2335/QĐ-UBT của Ủy ban Nhân dân Tỉnh Đồng Nai.
+
+Ngày 13 tháng 11 năm 2017, Sở giao dịch Chứng khoán Hà Nội đã ban hành Quyết định số 925/QĐ - SGDHN chấp thuận đăng ký giao dịch cổ phiếu của Tổng Công ty với mã chứng khoán SNZ.
+
+Vốn điều lệ theo Giấy chứng nhận đăng ký kinh doanh là 3.765.000.000.000 VND, được chi tiết như sau:
+
+<table><tr><td></td><td>VND</td><td>Tỷ lệ</td></tr><tr><td>Nhà nước</td><td>3.747.567.000.000</td><td>99,54%</td></tr><tr><td>Vốn góp của các cổ đông khác</td><td>17.433.000.000</td><td>0,46%</td></tr><tr><td>Cộng</td><td>3.765.000.000.000</td><td>100,00%</td></tr></table>
+
+Trụ sở chính đăng ký hoạt động kinh doanh của Tổng Công ty được đặt tại Số 1, Đường 1, Khu công nghiệp Biên Hòa 1, Phương An Bình, Thành phố Biên Hòa, Tĩnh Đồng Nai.
+
+Công ty có đầu tư vào các công ty con như được trình bày tại mục 1.6 dưới đây (cùng với Tổng Công ty dưới đây gọi chung là "Tập đoàn").
+
+Tổng số nhân viên của Tổng Công ty tại ngày 31 tháng 12 năm 2017 là 50 (01/01/2017: 138 người).
+
+1.2. Lĩnh vực kinh doanh
+
+Kinh doanh cơ sở hạ tầng khu công nghiệp; Kinh doanh bất động sản; Thi công xây dựng các công trình.
+
+1.3. Ngành nghề kinh doanh
+
+Theo Giấy chứng nhận đăng ký kinh doanh, ngành nghề kinh doanh chính của Tập đoàn là:
+
+Đầu tư phát triển đồ thị công nghiệp, khu công nghiệp, khu dân cư;
+
+Dich vụ du lịch;
+
+- Dịch vụ quản lý môi trường;
+
+- Đầu tư chính vào doanh nghiệp khác;
+
+Cho thuê nhà ở;
+
+- Mua, bán, cho thuê kho bãi và nhà xưởng;
+
+- Xây dựng nhà các loại;
+
+Kinh doanh bất động sản, quyền sử dụng đất thuộc chủ sở hữu, chủ sử dụng hoặc đi thuê.
+
+12
+
+===== PAGE 16 =====
+TỔNG CÔNG TY CỔ PHẦN PHÁT TRIỂN
+
+KHU CÔNG NGHIỆP VÀ CÁC CÔNG TY CON
+
+Địa chỉ: Số 1, Đường 1, KCN Biên Hòa 1,
+
+Phường An Bình, Thành phố Biên Hòa, Tỉnh Đồng Nai
+
+BÁO CÁO TÀI CHÍNH HỢP NHẤT
+
+Cho năm tài chính kết thúc ngày 31/12/2017
+
+THUYẾT MINH BẢO CẢO TÀI CHÍNH HỢP NHẤT (TIẾP THEO)
+
+1.4. Chu kỳ sản xuất, kinh doanh thông thường
+
+Đối với các công ty con hoạt động trong lĩnh vực dịch vụ, bản hàng thí chu kỳ sản xuất kinh doanh thông thường là 12 tháng.
+
+Đổi với Tổng công ty và các công ty con còn lại thì chu ký sản xuất kinh doanh thông thường được tính từ thời điểm mua nguyên vật liệu để tham gia vào một quy trình sản xuất đến khi chuyển đổi thành tiền hoặc tài sản để chuyển đổi thành tiên.
+
+1.5. Cấu trúc Tập đoàn
+
+Trong năm 2017, Tổng Công ty đã thoái vốn đầu tư tại Công ty Cổ phần Công trình Giao thông Đồng Nai với tỷ lệ vốn góp từ 63,73% xuống còn 10%. Đến ngày 31/12/2017, Tập đoàn được cấu trúc theo hình thực sở hữu đa cấp gồm công ty mẹ, 10 công ty con trực tiếp và 03 công ty con gián tiếp.
+
+(Xem tiếp trang sau)
+
+13
+
+===== PAGE 17 =====
+TỔNG CÔNG TY CỔ PHẦN PHÁT TRIỂN
+KHU CÔNG NGHIỆP VÀ CÁC CÔNG TY CON
+
+<table><tr><td>STT</td><td>Tên công ty con</td><td>Địa chỉ</td><td>Ngành nghề chính</td><td>Tỷ lệ quyền biểu quyết</td><td>Tỷ lệ vốn góp trực tiếp</td><td>Tỷ lệ lợi ích</td></tr><tr><td>1.</td><td>Công ty Cổ phần Cấp nước Đồng Nai</td><td>48 Cách Mạng Thắng Tám, P.Quyết Thắng, TP.Biên Hòa, Tĩnh Đồng Nai</td><td>Khai thác nước sạch</td><td>63,99%</td><td>63,99%</td><td>63,99%</td></tr><tr><td>2.</td><td>Công ty Cổ phần Phát triển Đô thị Công nghiệp Số 2</td><td>H22 Võ Thị Sáu, P.Thống Nhất, TP.Biên Hòa, Tĩnh Đồng Nai</td><td>Đầu tư xây dựng, kinh doanh bất động sản, cho thuê Khu công nghiệp</td><td>57,70%</td><td>57,70%</td><td>57,94%</td></tr><tr><td>3.</td><td>Công ty Cổ phần Đầu tư xây dựng và Vật liệu Đồng Nai</td><td>138 Nguyễn Ái Quốc, P.Trăng Dải, TP.Biên Hòa, Tĩnh Đồng Nai</td><td>Sản xuất công nghiệp và dịch vụ</td><td>52,29%</td><td>52,29%</td><td>52,29%</td></tr><tr><td>4.</td><td>Công ty Cổ phần Kinh doanh nhà Đồng Nai</td><td>121 Phan Chu Trinh, P.Quang Vinh, TP.Biên Hòa, Tĩnh Đồng Nai</td><td>Kinh doanh nhà và hạ tầng, xây dựng</td><td>75,37%</td><td>75,37%</td><td>75,37%</td></tr><tr><td>5.</td><td>Công ty Cổ phần Căng Đồng Nai</td><td>1B-D3 Khu phố Bình Dương, P.Long Bình Tân, TP.Biên Hòa, Tĩnh Đồng Nai</td><td>Kinh doanh dịch vụ căng biển</td><td>51,00%</td><td>51,00%</td><td>51,00%</td></tr><tr><td>6.</td><td>Công ty Cổ phần Sonadezi Long Thành</td><td>Đường 5, KCN Long Thành, Xã Tam An, Huyện Long Thành, Tĩnh Đồng Nai</td><td>Đầu tư xây dựng, kinh doanh bất động sản, cho thuê Khu công nghiệp</td><td>51,19%</td><td>51,19%</td><td>51,19%</td></tr><tr><td>7.</td><td>Công ty Cổ phần Sonadezi Long Bình</td><td>Số 1, đường 3A, KCN Biên Hòa 2, TP.Biên Hòa, Tĩnh Đồng Nai</td><td>Đầu tư xây dựng, kinh doanh bất động sản, cho thuê Khu công nghiệp</td><td>96,25%</td><td>79,00%</td><td>87,57%</td></tr><tr><td>8.</td><td>Công ty Cổ phần Khu công nghiệp Đình Quản</td><td>KCN Đình Quản, Xã La Ngà, Huyện Đình Quản, Tĩnh Đồng Nai</td><td>Kinh doanh cơ sở hạ tầng Khu công nghiệp</td><td>80,85%</td><td>80,85%</td><td>80,85%</td></tr><tr><td>9.</td><td>Công ty Cổ phần Môi trường Sonadezi</td><td>12 Huỳnh Văn Nghệ, P.Bửu Long, TP.Biên Hòa, Tĩnh Đồng Nai.</td><td>Dịch vụ đô thị môi trường</td><td>64,04%</td><td>64,04%</td><td>64,04%</td></tr><tr><td>10.</td><td>Công ty Cổ phần Sonadezi Giang Điền</td><td>Số 1, Đường 1, KCN Biên Hòa 1, Phường An Bình, TP. Biên Hòa</td><td>Đầu tư xây dựng, kinh doanh bất động sản, cho thuê Khu công nghiệp</td><td>51,00%</td><td>51,00%</td><td>51,00%</td></tr></table>
+
+14
+
+2036 C1 EMT RSV/1
+
+===== PAGE 18 =====
+TỔNG CÔNG TY CÓ PHẦN PHÁT TRIỂN
+KHU CÔNG NGHIỆP VÀ CÁC CÔNG TY CON
+
+Địa chỉ: Số 1, Đường 1, KCN Biên Hòa 1,
+Phường An Bình, Thành phố Biên Hòa, Tỉnh Đồng Nai
+
+BẢO CẢO TÀI CHÍNH HỢP NHẤT
+Cho năm tài chính kết thúc ngày 31/12/2017
+
+THUYẾT MINH BẢO CẢO TÀI CHÍNH HỢP NHẤT (TIẾP THEO)
+
+1.6. Các công ty con được hợp nhất (tiếp theo)
+
+Các công ty con gián tiếp:
+
+<table><tr><td>STT</td><td>Tên công ty con</td><td>Địa chỉ</td><td>Ngành nghề chính</td><td>Tỷ lệ quyền biểu quyết</td><td>Tỷ lệ vốn góp trực tiếp</td><td>Tỷ lệ lợi ích</td></tr><tr><td>1.</td><td>Công ty Cổ phần Sonadezi An Bình</td><td>Số 113-116 Lô C2, Đường 9, Khu dân cư An Bình, Thành phố Biên Hòa, Tĩnh Đồng Nai</td><td>Đầu tư xây dựng, kinh doanh bất động sản, cho thuê Khu công nghiệp, xây dựng công trình</td><td>60,44%</td><td>37,95%</td><td>49,46%</td></tr><tr><td>2.</td><td>Công ty Cổ phần Dịch vụ Sonadezi</td><td>Tầng 8, Tòa nhà Sonadezi, số 1, đường 1, KCN Biên Hòa 1, P.An Bình, TP. Biên Hòa, Tĩnh Đồng Nai</td><td>Xử lý nước thải, chất thải nguy hại và không nguy hại</td><td>49,00%</td><td>20%</td><td>36,77%</td></tr><tr><td>3.</td><td>Công ty Cổ phần Sonadezi Châu Đức</td><td>Tầng 9, Tòa nhà Sonadezi, Số 1, đường 1, KCN Biên Hòa 1, P.An Bình, TP. Biên Hòa, Tĩnh Đồng Nai</td><td>Đầu tư hạ tầng khu công nghiệp, cụm công nghiệp, khu dân cư</td><td>59,12%</td><td>46,84%</td><td>53,30%</td></tr><tr><td colspan="7">1.7. Các công ty liên kết quan trọng được phản ảnh trong báo cáo tài chính hợp nhất theo phương pháp vốn chủ sở hữu</td></tr><tr><td>STT</td><td>Tên công ty</td><td>Địa chỉ</td><td>Ngành nghề chính</td><td>Tỷ lệ quyền biểu quyết</td><td>Tỷ lệ vốn góp</td><td>Tỷ lệ lợi ích</td></tr><tr><td></td><td colspan="6">Các Công ty liên kết trực tiếp</td></tr><tr><td>1.</td><td>Công ty Cổ phần Xây dựng Đồng Nai</td><td>9 Huỳnh Văn Nghệ, P.Bửu Long, TP.Biên Hòa, Tĩnh Đồng Nai</td><td>Xây dựng công trình</td><td>40,00%</td><td>40,00%</td><td>40,00%</td></tr><tr><td>2.</td><td>Công ty Cổ phần Sơn Đồng Nai</td><td>Đường 7, KCN Biên Hòa 1, P.An Bình, TP.Biên Hòa, Tĩnh Đồng Nai</td><td>Sản xuất kinh doanh sản phẩm về son, keo</td><td>30,00%</td><td>30,00%</td><td>30,00%</td></tr><tr><td>3.</td><td>Công ty Cổ phần Xây dựng Dân dụng Công nghiệp Số 1- Đồng Nai</td><td>15 Đồng Khởi, P.Tân Tiến, TP.Biên Hòa, Tĩnh Đồng Nai</td><td>Xây dựng công trình và sản xuất gạch ngơi</td><td>30,00%</td><td>30,00%</td><td>30,00%</td></tr><tr><td>4.</td><td>Trường Cao đẳng Công nghệ và Quản trị Sonadezi</td><td>Số 1, Đường 6A, Khu công nghiệp Biên Hòa 2, Thành phố Biên Hòa, Tĩnh Đồng Nai</td><td>Giáo dục - Đảo tạo - Dịch vụ</td><td>40,00%</td><td>40,00%</td><td>40,00%</td></tr></table>
+
+15
+
+||T| NC TIN AN VEN |E||
+
+===== PAGE 19 =====
+TỔNG CÔNG TY CỔ PHẦN PHÁT TRIẾN
+KHU CÔNG NGHIỆP VÀ CÁC CÔNG TY CON
+Địa chỉ: Số 1, Đường 1, KCN Biên Hòa 1,
+Phường An Bình, Thành phố Biên Hòa, Tỉnh Đồ
+
+BÁO CẢO TÀI CHÍNH HỢP NHẤT
+Cho năm tài chính kết thúc ngày 31/12/2017
+
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (TIẾP THEO)
+
+1.7. Các công ty liên kết được phản ánh trong báo cáo tài chính hợp nhất theo phương pháp vốn chủ sở hữu (tiếp theo)
+
+<table><tr><td>STT</td><td>Tên công ty</td><td>Địa chỉ</td><td>Ngành nghề chính</td><td>Tỷ lệ quyền biểu quyết</td><td>Tỷ lệ vốn góp</td><td>Tỷ lệ lợi ích</td></tr><tr><td></td><td colspan="6">Các Công ty liên kết trực tiếp (tiếp theo)</td></tr><tr><td>5.</td><td>Công ty Cổ phần Bến xe và Dịch vụ Vận tải Đồng Nai</td><td>Xa lô Hà Nội, Khu phố 2, P.Bình Đa, TP. Biên Hoà,Tỉnh Đồng Nai</td><td>Khai thác bền xe, dịch vụ hành khách</td><td>36,00%</td><td>36,00%</td><td>36,00%</td></tr><tr><td>6.</td><td>Công ty Cổ phần Đầu tư quốc lộ 91 Cần Thơ - An Giang</td><td>Số 315, Đường Võ Nguyên Giáp, Xã Phước Tân, TP. Biên Hòa, Tỉnh Đồng Nai</td><td>Xây dựng công trình giao thông, đầu tư xây dựng công trình giao thông (theo phương thức hợp đồng Xây dựng – Kinh doanh – Chuyển giao(BOT))</td><td>39,72%</td><td>39,72%</td><td>39,72%</td></tr><tr><td>7.</td><td>Công ty Cổ phần Bông đá Đồng Nai (*)</td><td>Khuôn viên sân vận động Đồng Nai, đường Đồng Khởi, P.Tân Hiệp, TP.Biên Hoà, Tỉnh Đồng Nai</td><td>Hoạt động của các câu lạc bộ thể thao</td><td>25,00%</td><td>25,00%</td><td>25,00%</td></tr><tr><td></td><td colspan="6">Các Công ty liên kết gián tiếp</td></tr><tr><td>1.</td><td>Công ty TNHH Berjaya D2D</td><td>H22, Đường Võ Thị Sáu, Phường Thông Nhất, Thành phố Biên Hòa, Tỉnh Đồng Nai</td><td>Đầu tư và phát triển bất động sản. Đầu tư và phát triển các khu nghỉ mát, khách sạn, khu du lịch &amp; giải trí</td><td>25,00%</td><td>25,00%</td><td>14,49%</td></tr><tr><td>2.</td><td>Công ty Cổ phần Dịch vụ Cảng Đồng Nai</td><td>Khu phố Bình Dương, Phường Long Bình Tân, Thành phố Biên Hòa, Tỉnh Đồng Nai</td><td>Khai thác cảng, kỹ thuật,cung ứng, logistic</td><td>45,00%</td><td>45,00%</td><td>22,95%</td></tr><tr><td>3.</td><td>Công ty Cổ phần Cấp nước Gia Tân</td><td>Số 48, Cách Mạng Tháng Tâm, Phường Quyết Thắng, Thành phố Biên Hoà, Tỉnh Đồng Nai</td><td>Khai thác, xử lý và cung cấp nước</td><td>25,00%</td><td>25,00%</td><td>16,00%</td></tr><tr><td>4.</td><td>Công ty Cổ phần Dịch Vụ và Xây dựng Cấp Nước Đồng Nai</td><td>Số 52, Cách Mạng Tháng Tâm, Phường Quyết Thắng, Thành phố Biên Hòa, Tỉnh Đồng Nai</td><td>Lắp đặt ống cấp thoát nước; thiết kế công trình dân dụng; khai thác nước phục vụ công nghiệp</td><td>36,00%</td><td>36,00%</td><td>23,04%</td></tr><tr><td>5.</td><td>Công ty Cổ phần Cảng Long Thành</td><td>Xã Phước Thái, Huyện Long Thành, Tỉnh Đồng Nai</td><td>Hoạt động dịch vụ hỗ trợ khác liên quan đến vận tải</td><td>30,00%</td><td>30,00%</td><td>15,30%</td></tr><tr><td>6.</td><td>Công ty Cổ phần BOT 319 Cường Thuận CTI</td><td>Số 168, Khu phố 11, Phường An Bình, Thành phố Biên Hoà, Tỉnh Đồng Nai</td><td>Xây dựng công trình đường sắt và đường bộ</td><td>30,00%</td><td>30,00%</td><td>20,74%</td></tr><tr><td>7.</td><td>Công ty Cổ phần Xây Lắp Sonacons</td><td>Số 3, Đường 3, KCN Biên Hòa 1, Phường An Bình, TP Biên Hòa, Đồng Nai</td><td>Xây dựng công trình</td><td>30,00%</td><td>30,00%</td><td>14,84%</td></tr></table>
+
+16
+
+1
+
+===== PAGE 20 =====
+TỔNG CÔNG TY CỔ PHẦN PHÁT TRIỂN
+KHU CÔNG NGHIỆP VÀ CÁC CÔNG TY CON
+
+Dia chỉ: Số 1, Đường 1, KCN Biên Hòa 1.
+
+Phường An Bình, Thành phố Biên Hòa, Tỉnh Đồng Nai
+
+BÁO CÁO TÀI CHÍNH HỢP NHẤT
+
+Cho năm tài chính kết thúc ngày 31/12/2017
+
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (TIẾP THEO)
+
+2. CO'SO LẬP BÁO CÁO TÀI CHÍNH
+
+2.1. Chuẩn mực và Chế độ kế toán áp dụng
+
+Bảo cáo tài chính hợp nhất kèm theo được trình bày bằng Đồng Việt Nam ("VND") phù hợp với Chế độ Kế toán Doanh nghiệp Việt Nam và Chuẩn mục Kế toán Việt Nam.
+
+Báo cáo tài chính hợp nhất kèm theo không nhằm phần ảnh tỉnh hình tài chính hợp nhất, kết quả hoạt động kinh doanh hợp nhất và tỉnh hình lưu chuyển tiền tệ hợp nhất theo các nguyên tắc và thông lệ kế toán được chấp nhận chung tại các nước khác ngoài Việt Nam.
+
+2.2. Kỳ kế toán năm
+
+Kỳ kể toán năm của Tập đoàn bắt đầu từ ngày 01 tháng 01 và kết thúc ngày 31 tháng 12.
+
+2.3. Đơn vị tiền tệ trong kế toán
+
+Đơn vị tiền tệ sử dụng trong ghi chép kế toán là VND.
+
+2.4. Co sở hợp nhất
+
+Báo cáo tài chính hợp nhất là báo cáo tài chính của Tập đoàn mà trong đó tài sản, nợ, nguồn vốn, doanh thu, chi phí và đóng tiên của công ty mẹ và các công ty con được trình bày như một doanh nghiệp độc lập không tính đến ranh giới pháp lý của các công ty riêng biết. Các báo cáo tài chính của các công ty con đã được lập cho cùng năm tài chính với công ty mẹ theo các chính sách kế toán thống nhất với các chính sách kế toán của công ty mẹ. Các bút toán điều chỉnh đã được thực hiện đối với bất kỳ chính sách kế toán nào có điểm khác biệt nhằm đảm bảo tính thống nhất giữa các công ty con và công ty mẹ.
+
+Các công ty con được hợp nhất toàn bộ kể từ ngày mua là ngày Tập đoàn thực sự nằm quyền kiểm soát công ty con và tiếp tục được hợp nhất cho đến ngày Tập đoàn thực sự chấm dứt quyền kiểm soát đối với công ty con, trừ trường quyền kiểm soát của Tập đoàn chỉ là tam thời khi công ty con chỉ được mua và nằm giữ cho mục đích bán lai trong thời gian không quả 12 tháng.
+
+Phương pháp kế toán trong giao dịch hợp nhất kinh doanh qua nhiều giai đoạn
+
+Nếu trước ngày đạt được quyền kiểm soát, công ty mẹ không có ảnh hưởng đáng kể và hạch toán khoản đầu tư theo phương pháp giá gốc thì khi đạt được quyền kiểm soát, khoản đầu tư trước đây được đánh giá lại theo giá trị hợp lý tại ngày kiểm soát công ty con, Khoản chênh lệch giữa giả đánh giá lại và giá gốc của khoản đầu tư được ghi nhận vào báo cáo kết quả kinh doanh hợp nhất
+
+Nếu trước ngày đạt được quyền kiểm soát, công ty mẹ có ảnh hưởng đáng kể và hạch toán khoản đầu tư theo phương pháp vốn chủ sở hữu thì khi đạt được quyền kiểm soát, khoản đầu tư trước đây được đánh giá lại theo giá trị hợp lý tại ngày kiểm soát công ty con. Khoản chênh lệch giữa giá đánh giá lại và giá trị của khoản đầu tư theo phương pháp vốn chủ sở hữu được ghi nhận vào báo cáo kết quả kinh doanh hợp nhất. Phần chênh lệch giữa giá trị khoản đầu tư theo phương pháp vốn chủ sở hữu và giá gốc khoản đầu tư được ghi nhận trực tiếp vào các chỉ tiêu thuộc nguồn vốn chủ sở hữu trên bảng cân đối hợp nhất.
+
+Phương pháp ghi nhận lợi ích của cổ đông không kiểm soát
+
+Lợi ích của cổ đông không kiểm soát trong thu nhập thuần và tài sản thuần của công ty con được trình bày riêng biết trên báo cáo kết quả kinh doanh hợp nhất và bằng cân đối kế toán hợp nhất.
+
+Các khoản lỗ phát sinh tại công ty con được phân bổ tương ứng với phần sở hữu của cổ đông không kiểm soát, kể cả trường hợp số lỗ đó lớn hơn phần sở hữu của cổ đông không kiểm soát trong tài sản thuần của công ty con.
+
+17
+
+\(\| \mathcal{B} / \mathbb{I}_{+}\| \equiv \| \mathcal{C}\|\)
+
+===== PAGE 21 =====
+TỔNG CÔNG TY CÓ PHẦN PHÁT TRIỂN
+
+KHU CÔNG NGHIỆP VÀ CÁC CÔNG TY CON
+
+Địa chỉ: Số 1, Đường 1, KCN Biên Hòa 1,
+
+Phường An Bình, Thành phố Biên Hòa, Tỉnh Đồng Nai
+
+BÁO CÁO TÀI CHÍNH HỢP NHẤT
+
+Cho năm tài chính kết thúc ngày 31/12/2017
+
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (TIẾP THEO)
+
+Phương pháp kế toán ghi nhận lãi, lỗ khi có sự thay đổi tỷ lệ sở hữu tại công ty con
+
+Các thay đổi về tỷ lệ sở hữu của Tập đoàn trong công ty con không đưa đến việc mất kiểm soát của Tập đoàn được hach toán là giao dịch về vốn. Giá trị ghi số của Tập đoàn và lợi ích của cổ đông không kiểm soát được điều chỉnh để phân ánh sự thay đổi về tỷ lệ sở hữu tương ứng trong công ty con đó. Chênh lệch do điều chỉnh lợi ích của cổ đông không kiểm soát và giá trị hợp lý của khoản thanh toán được ghi nhận trực tiếp vào lợi nhuận sau thuế chưa phân phối của bằng cân đối kế toán hợp nhất.
+
+Ngay khi mất quyền kiểm soát công ty con, lãi lỗ của Tập đoàn được xác định là chênh lệch giữa số thu từ việc thoại vốn với giá trị tài sản thuần chuyển nhượng tại thời điểm mất quyền kiểm soát công với giá trị lợi thế thương mai chưa phân bổ hết được ghi nhận vào báo cáo kết quả kinh doanh hợp nhất.
+
+Phương pháp loại trừ giao dịch nội bộ
+
+Tất cả các số dư và các giao dịch nội bộ, kể cả các khoản lãi chưa thực hiện phát sinh từ các giao dịch nội bộ được loại trừ hoàn toàn khi hợp nhất. Các khoản lỗ chưa thực hiện cũng được loại trừ trên báo cáo tài chính hợp nhất, trừ trường hợp chi phí gây ra khoản lỗ đó không thể thu hồi.
+
+Phương pháp xác định lợi thế thương mại hoặc lãi từ giao dịch mua rè
+
+Tại thời điểm nằm quyền kiểm soát công ty con, lợi thể thương mại hoặc lãi từ giao dịch mua rẻ được xác định là khoản chênh lệch giữa giá phí khoản đầu tư và giá trị hợp lý của tài sản thuần có thể xác định của công ty con tại ngày mua do công ty mẹ nắm giữ. Lợi thể thương mại được trình bày thành một khoản mục riêng biết trên báo cáo tài chính hợp nhất và được phân bổ dần đều không quá 10 năm vào chi phí trong kết quả kinh doanh hợp nhất. Lãi từ giao dịch mua rẻ được ghi nhận là thu nhập khác khi phát sinh.
+
+3. CÁC CHÍNH SÁCH KÉ TOÁN CHỦ YẾU ĐƯỢC ÁP DỤNG
+
+3.1. Ngoai tê
+
+- Tỷ giá áp dung trong kế toán là tỷ giá của Ngân hàng các công ty trong Tập đoàn đang giao dịch;
+
+Tỷ giá áp dụng khi ghi nhận và đánh giá lại tài sản là tỷ giá mua ngoại tệ;
+
+Tỷ giá áp dụng khi ghi nhận và đánh giá lại nợ phải trả là tỷ giá bản ngoại tệ;
+
+- Các loại tỷ giá áp dụng trong giao dịch khác là tỷ giá mua/bán ngoại tệ.
+
+Các nghiệp vụ phát sinh bằng ngoại tệ được hạch toán theo tỷ giá hỏi đoái giao dịch thực tế vào ngày phát sinh nghiệp vụ. Các khoản chênh lệch tỷ giá phát sinh trong quá trình thanh toán được ghi nhận trong bảo cáo kết quả hoạt động kinh doanh trong kỳ. Số dư các khoản mục tiên, nợ phải thu, nợ phải trả có gốc ngoại tệ, ngoại trừ số dư các khoản trả trước cho người bán bằng ngoại tệ, số dư chi phí trả trước bằng ngoại tệ và số dư doanh thu nhận trước bằng ngoại tệ, được chuyển đổi sang đồng tiền hạch toán theo tỷ giá hỏi đoái giao dịch thực tế vào ngày lập bảng cân đối kế toán hợp nhất. Chênh lệch tỷ giá hỏi đoái phát sinh do đánh giá lại số dư ngoại tệ cuối kỳ sau khi bù trừ tăng giảm được hạch toán vào kết quả kinh doanh hợp nhất trong kỳ.
+
+3.2. Các ước tính kế toán
+
+Việc lập báo cáo tài chính hợp nhất yêu cầu Ban Tổng Giám đốc phải có những ước tính và giả định có ảnh hưởng đến các số liệu về tài sản, nợ phải trả và việc trình bày các tài sản và nợ tiêm tàng tại ngày 31 tháng 12 năm 2017 cũng như các khoản doanh thu, chi phí cho năm tài chính kết thúc vào ngày 31 tháng 12 năm 2017. Mặc đủ các ước tính kê toán được lập bảng tất cả sự hiểu biết của Ban Tổng Giám đốc, số thực tế phát sinh có thể khác với các ước tính, giả định đặt ra.
+
+18
+
+C.T.1 VÄN H NIN
+
+===== PAGE 22 =====
+TỔNG CÔNG TY CÓ PHẦN PHÁT TRIỂN
+
+KHU CÔNG NGHIỆP VÀ CÁC CÔNG TY CON
+
+Địa chỉ: Số 1, Đường 1, KCN Biên Hòa 1,
+
+Phường An Bình, Thành phố Biển Hòa, Tỉnh Đồng Nai
+
+BÁO CÁO TÀI CHÍNH HỢP NHẤT
+
+Cho năm tài chính kết thúc ngày 31/12/2017
+
+THUYẾT MINH BẢO CẢO TÀI CHÍNH HỢP NHẤT (TIẾP THEO)
+
+3.3. Tiền và các khoản tương đương tiền
+
+Tiền và các khoản tương đương tiền bao gồm tiền mặt tại quỹ, tiền gửi ngân hàng, tiền đang chuyển, các khoản đầu tư ngắn hạn có thời hạn thu hồi không quá 03 tháng kể từ ngày đầu tư, có tính thanh khoản cao, có khả năng chuyển đổi dễ dàng thành một lượng tiền xác định và không có rủi ro trong việc chuyển đổi thành tiền tại thời điểm báo cáo.
+
+Các khoản tương đương tiền được xác định phù hợp với Chuẩn mực kế toán số 24 – Báo cáo lưu chuyển tiền tệ.
+
+3.4. Đầu tư tài chính
+
+Đầu tư nằm giữ đến ngày đáo hạn
+
+Đầu tư nấm giữ đến ngày đào hạn gồm các khoản tiền gửi có kỳ hạn.
+
+Các khoản đầu tư vốn vào đơn vị khác
+
+Đầu tư vào công ty liên kết
+
+Khoản đầu tư được phân loại là đầu tư vào công ty liên kết khi Tập đoàn nằm giữ trực tiếp hoặc giản tiếp từ 20% đến dưới 50% quyền biểu quyết của bên nhận đầu tư mà không có thỏa thuận khác.
+
+Các khoản đầu tư vào công ty liên kết được ghi nhận theo phương pháp vốn chủ sở hữu. Theo phương pháp vốn chủ sở hữu, khoản đầu tư vào công ty liên kết ban đầu được ghi nhận theo giá gốc. Trường hợp đầu tư bằng tài sản phi tiền tệ, giá phí của các khoản đầu tư được ghi nhận theo giá trị hợp lý của tài sản phi tiền tệ tại thời điểm phát sinh. Sau đó, giá trị của khoản đầu tư được điều chỉnh tăng giảm tương ứng với phần sở hữu của Tập đoàn trong lãi lỗ của công ty liên kết sau ngày mua.
+
+Các khoản phân phối từ công ty liên kết sau ngày mua được ghi giảm giả trị của khoản đầu tư.
+
+Đầu tư khác
+
+Khoản đầu tư được phân loại là đầu tư khác là các khoản đầu tư ngoài các khoản đầu tư vào công ty con, đầu tư vào công ty liên doanh và đầu tư vào công ty liên kết.
+
+Các khoản đầu tư khác được phần ảnh theo giá gốc, bao gồm giá mua và các chi phí liên quan trực tiếp đến việc đầu tư (nếu có). Trường hợp đầu tư bằng tài sản phi tiền tệ, giá phí của các khoản đầu tư được ghi nhận theo giá trị hợp lý của tài sản phi tiền tệ tại thời điểm phát sinh.
+
+Phương pháp lập dự phòng tổn thất đầu tư tài chính
+
+Đối với các khoản đầu tư tài chính dài hạn
+
+Dự phòng tổn thất đầu tư tài chính dài hạn được trích lập phù hợp với hướng dẫn tại Thông tư số 228/2009/TT-BTC ngày 7/12/2009 (Thông tư 228) và Thông tư số 89/2013/TT-BTC ngày 28 tháng 06 năm 2013 sửa đổi, bổ sung Thông tư 228 của Bộ Tài chính. Theo đó, Tập đoàn được yêu cầu trích lập dự phòng tổn thất đầu tư tài chính dài hạn nếu tố chức kinh tế mà Tập đoàn đang đầu tư bị bổ với mức trích tối đa cho mỗi khoản đầu tư bằng số vốn đã đầu tư.
+
+Đối với các khoản đầu tư khác
+
+Dư phòng giảm giả các khoản đầu tư khác được lập khi giá trị thuần có thể thực hiện được của các khoản đầu tư này giảm xuống thấp hơn giá gốc, việc trích lập phù hợp với hướng dẫn tại Thông tư số 228/2009/TT-BTC ngày 07/12/2009 (Thông tư số 89/2013/TT-BTC ngày 28 tháng 06 năm 2013 sửa đổi, bổ sung Thông tư 228 của Bộ Tài chính.
+
+19
+
+===== PAGE 23 =====
+TỔNG CÔNG TY CỔ PHẦN PHÁT TRIỂN
+
+KHU CÔNG NGHIỆP VÀ CÁC CÔNG TY CON
+
+Địa chỉ: Số 1, Đường 1, KCN Biên Hòa 1,
+
+Phường An Bình, Thành phố Biên Hòa, Tỉnh Đồng Nai
+
+BÁO CÁO TÀI CHÍNH HỢP NHẤT
+
+Cho năm tài chính kết thúc ngày 31/12/2017
+
+THUYẾT MINH BẢO CÁO TÀI CHÍNH HỢP NHẤT (TIẾP THEO)
+
+3.5. Nợ phải thu
+
+Nguyên tắc ghi nhận
+
+Các khoản phải thu được trình bày theo giá trị ghi số các khoản phải thu của khách hàng và các khoản phải thu khác sau khi trừ đi các khoản dự phòng được lập cho các khoản phải thu khó đòi.
+
+Nguyên tắc dự phòng phải thu khó đòi
+
+Dự phòng phải thu khó đòi là giá trị dự kiến tổn thất do khách hàng không thanh toán cho các khoản phải thu tại ngày kết thúc ký kế toán.
+
+Tăng hoặc giảm số dư tài khoản dự phòng được hach toán vào chi phí quản lý doanh nghiệp trên báo cáo kết quả hoạt động kinh doanh hợp nhất.
+
+3.6. Hàng tồn kho
+
+Bất động sản khu công nghiệp và khu đô thị được xây dựng để bán trong quá trình hoạt động bình thường của Tập đoàn, không phải để cho thuê hoặc chờ tăng giá, được ghi nhận là hàng tồn kho theo giá thấp hơn giữa giả thành để đưa mỗi sản phẩm đến vị trí và điều kiện hiện tại và giá trị thuần có thể thực hiện được.
+
+Giá thành của bất động sản xây dựng để bản bao gồm chi phí đến bù, giải phóng mắt bằng, chi phí làm đường và xây dựng hệ thống thoát nước, chi phí trồng cây xanh và các cơ sở hạ tầng khác, chi phí xây dựng trả cho nhà thầu, chi phí tư vấn thiết kế và các chi phí liên quan khác.
+
+Giá trị thuần có thể thực hiện được được xác định bằng giả bán ước tính trừ các chi phí ước tính để hoàn thành sản phẩm cũng chỉ phí tiếp thị, bán hàng và phân phối phát sinh.
+
+Giá gốc của hàng tồn kho được xác định theo phương pháp bình quân gia quyền và được hach toàn theo phương pháp kê khai thường xuyên.
+
+Cuối năm tài chính, khi giá trị thuần có thể thực hiện được của hàng tồn kho nhỏ hơn giá gốc thì phải lập dự phòng giảm giả hàng tồn kho.
+
+Số dư phòng giảm giá hàng tồn kho được lập là số chênh lệch giữa giá gốc của hàng tồn kho lớn hơn giá trị thuần có thể thực hiện được của hàng tồn kho.
+
+Số tăng hoặc giảm dự phòng giảm giá hàng tồn kho được hạch toán vào giá vốn hàng bán trên báo cáo kết quả hoạt động kinh doanh hợp nhất.
+
+3.7. Tài sản cố định hữu hình
+
+Tài sản cố định hữu hình được thể hiện theo nguyên giá trừ đi giá trị hao mòn lũy kế.
+
+Nguyên tắc ghi nhận và xác định giá trị ban đầu
+
+Nguyễn giá tài sản cố định hữu hình bao gồm giá mua và toàn bộ các chi phí liên quan khác liên quan trực tiếp đến việc đưa tài sản vào trạng thải sản sáng sử dụng. Trường hợp mua tài sản cố định được kèm thêm thiết bị, phụ tùng thay thế thì xác định và ghi nhận riêng thiết bị, phụ tùng thay thế theo giá trị hợp lý và được trừ (-) khởi nguyên giá tài sản cố định hữu hình.
+
+Nguyên giá tài sản cố định hữu hình do các nhà thầu xây dựng bao gồm giá trị công trình hoàn thành bản giao, các chi phí liên quan trực tiếp khác và thuế trước ba (nếu có).
+
+20
+
+\( \left\| \frac{0.5}{0.1} \right\| \)
+
+===== PAGE 24 =====
+TỔNG CÔNG TY CÓ PHẦN PHÁT TRIỂN
+
+KHU CÔNG NGHIỆP VÀ CÁC CÔNG TY CON
+
+Địa chỉ: Số 1, Đường 1, KCN Biên Hòa 1,
+
+Phường An Bình, Thành phố Biên Hòa, Tỉnh Đồng Nai
+
+BÁO CÁO TÀI CHÍNH HỢP NHẤT
+
+Cho năm tài chính kết thúc ngày 31/12/2017
+
+THUYẾT MINH BẢO CÁO TÀI CHÍNH HỢP NHẤT (TIẾP THEO)
+
+Phương pháp khấu hao
+
+Nguyên giá tài sản có định hữu hình được khấu hao theo phương pháp đường thẳng trong suốt thời gian hữu dụng dự tính của tài sản.
+
+Thời gian khấu hao ước tính cho một số nhóm tài sản như sau:
+
++ Nhà cửa, vật kiến trúc 05 - 49 năm
+
++ Máy móc thiết bị 03 - 19 năm
+
++ Phương tiện vận tải truyền dân 06 - 25 năm
+
++ Thiết bị, dụng cụ quản lý 03 - 10 năm
+
+3.8. Tài sản cố định vô hình
+
+Tài sản cố định vô hình được thể hiện theo nguyên giá trừ đi giá trị hao mòn lũy kế.
+
+Nguyên tắc ghi nhận và xác định giá trị ban đầu
+
+Nguyên giá là toàn bộ các chi phí mà doanh nghiệp bổ ra để có được tài sản cố định vô hình tỉnh đến thời điểm đưa tài sản đó vào trạng thái sử dụng theo dự tính.
+
+Nguyên tắc kế toán các tài sản cố định vô hình
+
+Quyền sử dụng đất
+
+Quyền sử dụng đất được trình bày theo nguyên giá trừ giá trị hao mòn lũy kế, bao gồm:
+
+<table><tr><td>STT</td><td>Địa điểm</td><td>Thời gian khấu hao</td></tr><tr><td>1.</td><td>Quyền sử dụng đất tại Xí nghiệp nước Biên Hòa, Phường Quyết Thắng, Thành phố Biên Hòa, Tĩnh Đồng Nai</td><td>Không thời hạn</td></tr><tr><td>2.</td><td>Quyền sử dụng đất tại Xí nghiệp nước Tân Định, Huyện Tân Phú, Tĩnh Đồng Nai</td><td>Không thời hạn</td></tr><tr><td>3.</td><td>Quyền sử dụng đất tại thừa số 140, tờ bản đồ số 5, Áp 1 Xã Sông Ray, Huyện Cẩm Mỹ, Tĩnh Đồng Nai</td><td>Không thời hạn</td></tr><tr><td>4.</td><td>Quyền sử dụng đất tại Công ty Cổ phần Cáng Đồng Nai</td><td>15 năm</td></tr><tr><td>5.</td><td>Quyền sử dụng đất 918m2 tại H22 Đường Võ Thị Sáu, Phường Thống Nhất, Thành phố Biên Hòa, Tĩnh Đồng Nai</td><td>6 năm</td></tr><tr><td>6.</td><td>Quyền sử dụng đất 144m2 bổ sung tại H22 Đường Võ Thị Sáu, Phường Thống Nhất, Thành phố Biên Hòa, Tĩnh Đồng Nai</td><td>22 năm</td></tr></table>
+
+Phân mềm máy vi tính
+
+Phần mềm máy vi tỉnh không phải là cấu phần không thể thiếu của phần cứng thi được ghi nhận như tài sản cố định vô hình và được khấu hao theo thời gian sử dụng hữu ích (03 – 05 năm).
+
+3.9. Cho thuê tài sản
+
+Cho thuê hoạt động
+
+Tài sản cho thuê hoạt động được ghi nhận trên bảng cân đối kế toán hợp nhất theo cách phân loại tài sản của Tập đoàn.
+
+Chi phí trực tiếp ban đầu đề tạo ra doanh thu từ nghiệp vụ cho thuê hoạt động được phân bổ dẫn vào chi phí trong suốt thời hạn cho thuê theo thời hạn của hợp đồng thuê. Doanh thu cho thuê hoạt động được hạch toán vào bảo cáo kết quả hoạt động kinh doanh hợp nhất trong ký theo phương pháp phân bổ số tiền cho thuê nhận trước phù hợp với thời gian cho thuê.
+
+21
+
+||36| 0.1 = 10^4 M / 17||
+
+===== PAGE 25 =====
+TỔNG CÔNG TY CỔ PHẦN PHÁT TRIỂN
+
+KHU CÔNG NGHIỆP VÀ CÁC CÔNG TY CON
+
+Địa chỉ: Số 1, Đường 1, KCN Biên Hòa 1,
+
+Phường An Bình, Thành phố Biên Hòa, Tỉnh Đồng Nai
+
+BÁO CÁO TÀI CHÍNH HỢP NHẤT
+
+Cho năm tài chính kết thúc ngày 31/12/2017
+
+THUYẾT MINH BẢO CẢO TÀI CHÍNH HỢP NHẤT (TIẾP THEO)
+
+Trường hợp thời gian cho thuê chiểm trên 90% thời gian sử dụng hữu ích của tài sản, Tập đoàn có thể lựa chọn phương pháp ghi nhận doanh thu một lần đối với toàn bộ số tiền cho thuê nhận khi thỏa mãn đồng thời các điều kiện:
+
+Bên đi thuê không có quyền hủy ngang hợp đồng thuê và doanh nghiệp cho thuê không có nghĩa vụ phải trả lại số tiền đã nhận trước trong moi trường hợp và dưới moi hình thức.
+
+Số tiền nhận trước từ việc cho thuê không nhỏ hơn 90% tổng số tiền cho thuê dự kiến thu được theo hợp đồng trong suốt thời hạn cho thuê và bên đi thuê phải thanh toán toàn bộ số tiền thuê trong vòng 12 tháng kể từ thời điểm khởi đầu thuê tài sản;
+
++ Hâu như toàn bộ rủi ro và lợi ích gắn liền với quyền sở hữu tài sản thuê đã chuyển giao cho bên đi thuê;
+
+Doanh nghiệp cho thuê phải ước tính được tương đối đầy đủ giá vốn của hoạt động cho thuê.
+
+Khâu hao tài sản cho thuê hoạt động được thực hiện trên cơ sở nhất quán với chính sách khẩu hao của bên cho thuê áp dụng đối với những tài sản tương tự.
+
+3.10. Bất động sản đầu tư
+
+Bất động sản đầu tư được thể hiện theo nguyên giá trừ đi giá trị hao mòn lũy kế. Đối với bất động sản đầu tư nằm giữ chờ tăng giá, Tập đoàn không trích khấu hao mà xác định tổn thất do giảm giá trị.
+
+Nguyên tắc ghi nhận bất động sản đầu tư
+
+Nguyên giả bất động sản đầu tư là toàn bộ các chi phí bằng tiền hoặc tương đương tiền mà doanh nghiệp phải bổ ra hoặc giá trị hợp lý của các khoản đưa ra để trao đối nhằm có được bất động sản đầu tư tính đến thời điểm mua hoặc xây dựng hình thành bất động sản đầu tư đó. Nguyên giả của bất động sản đầu tư bao gồm cả các chi phí giao dịch liên quan trực tiếp ban đầu.
+
+Phương pháp khấu hao bất động sản đầu tư
+
+Bất động sản đầu tư được khấu hao theo phương pháp đường thẳng. Bất động sản đầu tư nằm giữ chờ tăng giá không trích khấu hao mà xác định tổn thất do giảm giá trị.
+
+Thời gian khấu hao ước tỉnh cho một số nhóm bất động sản như sau:
+
+Nhà cửa, vật kiến trúc
+
+06 - 45 năm
+
+■ Quyền sử dụng đất
+
+36 - 47 năm
+
+- Chi phí đèn bù
+
+08 - 46 năm
+
+3.11. Chi phí xây dựng dở dang
+
+Các tài sản đang trong quá trình xây dựng phục vụ mục đích cho thuê, quản lý hoặc cho các mục đích khác được ghi nhận theo giá gốc. Chi phí này bao gồm các chi phí cần thiết để hình thành tài sản bao gồm chi phí xây lắp, thiết bị, chi phí khác và chi phí lãi vay có liên quan phù hợp với chính sách kế toán của Tập đoàn.
+
+Các chỉ phí này sẽ được chuyển sang là nguyên giá tài sản cố định theo giá tạm tính (nếu chưa có quyết toán được phê duyệt) khi các tài sản được bản giao đưa vào sử dụng.
+
+Theo quy định về quản lý đầu tư và xây dựng của Nhà nước, tùy theo phân cấp quản lý, giá trị quyết toán các công trình xây dựng cơ bản hoàn thành cần được các cơ quan có thẩm quyền phê duyệt. Do đó, giá trị cuối cứng về giá trị các công trình xây dựng cơ bản có thể thay đổi và phụ thuộc vào quyết toán được phê duyệt bởi các cơ quan có thẩm quyền.
+
+22
+
+1781 G T HH 181 ETN 190
+
+===== PAGE 26 =====
+TỔNG CÔNG TY CÓ PHẦN PHÁT TRIỂN
+
+KHU CÔNG NGHIỆP VÀ CÁC CÔNG TY CON
+
+Địa chỉ: Số 1, Đường 1, KCN Biên Hòa 1,
+
+Phuống An Bình, Thành phố Biên Hòa, Tỉnh Đồng Nai
+
+BÁO CÁO TÀI CHÍNH HỢP NHẤT
+
+Cho năm tài chính kết thúc ngày 31/12/2017
+
+THUYẾT MINH BẢO CÁO TÀI CHÍNH HỢP NHẤT (TIẾP THEO)
+
+3.12. Hợp đồng hợp tác kinh doanh (BCC)
+
+Nguyên tắc ghi nhận vốn góp theo hình thức hoạt động kinh doanh đồng kiểm soát
+
+Bên góp vốn ghi nhận tài sản đóng góp cho hoạt động của BCC là khoản nợ phải thu khác; Bên nhận góp vốn ghi nhận tài sản các bên góp cho hoạt động của BCC là khoản nợ phải trả khác.
+
+Nguyên tắc phân chia doanh thu, chi phí, sản phẩm của hợp đồng
+
+Căn cứ kết quả sản xuất kinh doanh của Ban Quản lý dự án, các bên hợp doanh sẽ quyết định phân chia kết quả kinh doanh cho từng bên theo tỷ lệ vốn góp.
+
+3.13. Chi phí trả trước
+
+Chi phí trả trước được phân loại là chi phí trả trước ngắn hạn và chi phí trả trước dài han theo kỳ han gốc và chủ yếu là chi phí liên quan đến giá vốn công cụ, dụng cụ; tiền thuê đất trả trước; chi phí bồi thường, hỗ trợ tái định cư; lợi thế kinh doanh và chi phí trả trước khác. Các khoản này được phân bổ trong thời gian trả trước của chi phí hoặc trong khoản thời gian mà lợi ích kinh tế được dự kiến tạo ra.
+
+Các loại chi phí sau đây được hạch toán vào chi phí trả trước để phân bổ đàn vào kết quả hoạt động kinh doanh:
+
+Công cụ, dụng cụ được phân bổ dàn không quá 03 năm vào kết quả hoạt động kinh doanh;
+
+■ Tiền thuê đất Khu công nghiệp Giang Điền đã trả một lần cho suốt thời gian thuê được Tập đoàn phân bổ theo thời hạn thuê trên hợp đồng;
+
+- Tiền thuê đất truy thu từ tháng 02/2016 đến 31/12/2017 tại Khu công nghiệp Biên Hòa 1 được phân bổ theo diện tích đã được khách hàng chấp nhận ký lại phụ lực hợp đồng thay đổi đơn giá thuê đất – Xem thêm mục 4.14.
+
+Lợi thế kinh doanh khi cổ phần hóa doanh nghiệp Nhà nước được phân bổ 3 năm;
+
+Chi phí trả trước khác chủ yếu là các chi phí phát sinh chung trong khu công nghiệp như chi phí tư vấn, chi phí sửa chữa, đo vệ, hồ sơ quy hoạch, thuê pano,... được phân bổ dân không quá 03 năm vào kết quả hoạt động kinh doanh. Riêng chi phí đó mìn được phân bổ theo thời gian hoạt động của khu công nghiệp.
+
+3.14. Nợ phải trả
+
+Nợ phải trả được phân loại là phải trả người bán, phải trả nội bộ và phải trả khác theo nguyên tắc: Phải trả người bán là khoản phải trả có tỉnh chất thương mại phát sinh từ giao dịch mua bán hàng hóa, dịch vụ, tài sản và người bán là đơn vị độc lập với người mua; Phải trả nội bộ là các khoản phải trả giữa đơn vị cấp trên và đơn vị cấp dưới trực thuộc không có tư các pháp nhân hạch toán phụ thuộc; Các khoản phải trả còn lại được phân loại là phải trả khác:
+
+Các khoản nợ phải trả được theo dõi theo ký hạn gốc, ký hạn còn lại tại thời điểm báo cáo và theo từng đối tượng.
+
+Nợ phải trả được ghi nhận không thấp hơn nghĩa vụ phải thanh toán.
+
+3.15. Chi phí di vay
+
+Nguyên tắc vốn hóa chi phí đi vay
+
+Chỉ phí đi vay liên quan trực tiếp đến việc mua, đầu tư xây dựng hoặc sản xuất những tài sản cần một thời gian tương đối dài để hoàn thành đưa vào sử dụng hoặc kinh doanh được vốn hóa vào nguyên giá tài sản cho đến khi tài sản đó được đưa vào sử dụng hoặc kinh doanh:
+
+B
+
+23
+
+\( \left\| C^{2} \right\|_{Y} \) \( \left\| \overline{V}\overline{A}\overline{M} \right\|_{W}^{2} \)
+
+===== PAGE 27 =====
+TỔNG CÔNG TY CÓ PHẦN PHÁT TRIỂN
+
+KHU CÔNG NGHIỆP VÀ CÁC CÔNG TY CON
+
+Địa chỉ: Số 1, Đường 1, KCN Biên Hòa 1,
+
+Phường An Bình, Thành phố Biên Hòa, Tỉnh Đồng Nai
+
+BÁO CÁO TÀI CHÍNH HỢP NHẤT
+
+Cho năm tài chính kết thúc ngày 31/12/2017
+
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (TIẾP THEO)
+
+Các khoản thu nhập phát sinh từ việc đầu tư tạm thời các khoản vay được ghi giảm nguyên giá tài sản có liên quan.
+
+Tất cả các chỉ phí lãi vay khác được ghi nhận vào báo cáo kết quả hoạt động kinh doanh khi phát sinh.
+
+3.16. Chi phí phải trả
+
+Các khoản chi phí phải trả được ghĩ nhận cho giá trị phải trả trong tương lai liên quan đến hàng hóa, dịch vụ nhưng thực tế chưa chi trả do chưa có hóa đơn hoặc chưa đủ hồ sơ, tài liệu kể toán, được ghi nhận vào chi phí sản xuất kinh doanh của kỳ báo cáo như chi phí hạ tầng trích trước cho hoạt động kinh doanh nhà, chuyển quyền sử dụng đất; chi phí đầu tư hạ tầng trích trước cho hoạt động kinh doanh hạ tầng, chuyển quyền sử dụng mặt bằng công nghiệp và các khoản chi phí khác.
+
+Chỉ phí hạ tầng trích trước cho hoạt động kinh doanh nhà, chuyển quyền sử dụng đất được ghi nhận trên diện tích đất đã chuyển nhượng cho khách hàng cần cứ vào dự toán bảo cáo đầu tư đo Tập đoàn lập và điều chỉnh theo chỉ phí thực tế phát sinh.
+
+Chi phí đầu tư hạ tầng trích trước cho hoạt động kinh doanh hạ tầng và chuyển quyền sử dụng mặt bằng công nghiệp được ghi nhận trên phần diện tích đất cho khách hàng thuê tính theo tỷ lệ doanh thu phí mật bằng công nghiệp ghi nhận trong năm nhân với suất đầu tư hạ tầng.
+
+3.17. Dự phòng phải trả
+
+Một khoản dự phòng được ghi nhận nếu, do kết quả của một sự kiện trong quá khử, Tập đoàn có nghĩa vụ pháp lý hiện tài hoặc liên đối có thể ước tính một cách đáng tin cây, và chắc chắn sẽ làm giảm sút các lợi ích kinh tế trong tương lai để thành toán các khoản nợ phải trả do nghĩa vụ đó. Dự phòng không được ghi nhận cho các khoản lỗ hoạt động trong tương lai.
+
+Dự phòng được tính trên cơ sở các khoản chỉ phí dự tính phải thanh toán nghĩa vụ nợ. Nếu ảnh hưởng về giá trị thời gian của tiền là trọng yếu thị dự phòng được tính trên cơ sở giá trị hiện tại với tỷ lệ chiết khấu trước thuế và phân ảnh những đánh giá trên thị trường hiện tại về giá trị thời gian của tiền và rủi ro cụ thể của khoản nợ đó. Giá trị tăng lên do ảnh hưởng của yếu tố thời gian được ghi nhận là chỉ phí đi vay.
+
+3.18. Doanh thu chưa thực hiện
+
+Doanh thu chưa thực hiện bao gồm doanh thu nhận trước số tiền của khách hàng đã trả trước cho một hoặc nhiều kỳ kế toán về cho thuê văn phòng, cho thuê đất và phí sử dụng mặt bằng công nghiệp.
+
+Hàng ký tính, xác định và kết chuyển doanh thu chưa thực hiện vào doanh thu trong ký phủ hợp với thời gian thuê tài sản.
+
+3.19. Vốn chủ sở hữu
+
+Vốn đầu tư của chủ sở hữu
+
+Vốn đầu tư của chủ sở hữu được ghi nhận theo số vốn thực góp của chủ sở hữu.
+
+Quỹ dự trữ
+
+Các quỹ dự trữ từ lợi nhuận sau thuế được trích lập theo quy định trong Điều lệ của các công ty trong Tập đoàn.
+
+24
+
+===== PAGE 28 =====
+TỔNG CÔNG TY CÓ PHẦN PHÁT TRIỂN
+
+KHU CÔNG NGHIỆP VÀ CÁC CÔNG TY CON
+
+Địa chỉ: Số 1, Đường 1, KCN Biên Hòa 1,
+
+Phường An Bình, Thành phố Biên Hòa, Tỉnh Đồng Nai
+
+BÁO CÁO TÀI CHÍNH HỢP NHẤT
+
+Cho năm tài chính kết thúc ngày 31/12/2017
+
+THUYẾT MINH BẢO CẢO TÀI CHÍNH HỢP NHẤT (TIẾP THEO)
+
+Phân phối lợi nhuận
+
+Lợi nhuận thuần sau thuế thu nhập doanh nghiệp có thể được phân phối cho các cổ đông sau khi được Đại hội cổ đông thông qua và sau khi đã trích lập các quỹ dự phòng theo Điều lệ và các quy định của pháp luật Việt Nam.
+
+3.20. Chênh lệch đánh giá lại tài sản
+
+Cho mục đích xác định giá trị doanh nghiệp khi cổ phần hóa, Tập đoàn đã thực hiện đánh giá lại giá trị của các khoản đầu tư vào công ty con và công ty liên kết theo Biên bản định giá và cần cứ trên Hồ sơ Quyết toán Cổ phần hóa đã được các cơ quan Nhà nước có thẩm quyền phê duyệt, Tập đoàn đã thực hiện ghi nhận tăng giá gốc của khoản đầu tư này trong Bảng cần đối kế toán hợp nhất với số tiền là 633.930.931.829 VND (trong đó điều chỉnh đánh giá lại giá trị các khoản đầu tư vào công ty con là 613.160.305.878 VND và điều chỉnh đánh giá lại giá trị các khoản đầu tư vào công ty liên kết là 20.770.625.95 VND), trong khi phần vốn chủ sở hữu của các đơn vị nhận đầu tư này của Tập đoàn không được định giá lại.
+
+Cho mục đích lập báo cáo tài chính hợp nhất, phần chênh lệch giữa giá trị của các khoản đầu tư vào công ty con và công ty liên kết được định giá lai và giá trị vốn chủ sở hữu tại các công ty nhận đầu tư được ghi nhận như một khoản giảm trừ vào chỉ tiêu “Chênh lệch đánh giá lai tài sản” trên Bảng cân đối kế toán hợp nhất của Tập đoàn.
+
+3.21. Doanh thu, thu nhập khác
+
+Doanh thu cung cấp dịch vụ
+
+Doanh thu cung cấp dịch vụ được ghi nhận khi kết quả của giao dịch đó được xác định một cách đáng tin cây. Trường hợp giao dịch về cung cấp dịch vụ liên quan đến nhiều kỳ thì doanh thu được ghi nhận trong kỳ theo kết quả phần công việc hoàn thành vào ngày lập bằng cân đối kế toán hợp nhất của kỳ đó.
+
+Doanh thu cho thuê tài sản hoạt động
+
+Doanh thu từ tiền cho thuê tài sản hoạt động được trình bày ở thuyết minh mục 3.9.
+
+Doanh thu bán lô đất đã xây dựng cơ sở hạ tầng
+
+Doanh thu bản lô đất đã xây dựng cơ sở hạ tầng được ghi nhận khi đã hoàn thành cơ bản công tác xây dựng cơ sở hạ tầng và lô đất đã được bản giao cho khách hàng.
+
+Doanh thu hợp đồng xây dựng
+
+Doanh thu từ hợp đồng xây dựng được ghi nhận theo chính sách kế toán về hợp đồng xây dựng như trình bày dưới đây.
+
+Lãi tiền gửi
+
+Lãi tiền gửi được ghi nhận trên cơ sở dồn tích, được xác định trên số dư các tài khoản tiền gửi và lãi suất áp dụng.
+
+Thu nhập đầu tư vào công ty liên doanh, liên kết
+
+Kết quả kinh doanh của công ty liên doanh, liên kết được ghi nhận vào báo cáo kết quả kinh doanh hợp nhất tương ứng với tỷ lệ sở hữu của Tập đoàn trong công ty liên doanh liên kết.
+
+25
+
+雪
+
+===== PAGE 29 =====
+TỔNG CÔNG TY CÓ PHẦN PHÁT TRIỂN
+
+KHU CÔNG NGHIỆP VÀ CÁC CÔNG TY CON
+
+Địa chỉ: Số 1, Đường 1, KCN Biên Hòa 1,
+
+Phường An Bình, Thành phố Biên Hòa, Tỉnh Đồng Nai
+
+BÁO CÁO TÀI CHÍNH HỢP NHẤT
+
+Cho năm tài chính kết thúc ngày 31/12/2017
+
+THUYẾT MINH BẢO CẢO TÀI CHÍNH HỢP NHẤT (TIẾP THEO)
+
+Thanh lý, nhượng bán các khoản đầu tư
+
+Doanh thu từ bản các khoản đầu tư ngắn hạn và dài hạn được ghi nhận vào báo cáo kết quả hoạt động kinh doanh hợp nhất khi phần lớn润滑 rủi ro và lợi ích gắn liền với quyền sở hữu được chuyển giao cho người mua. Phần lớn润滑 ro và lợi ích gắn liền với quyền sở hữu chỉ được chuyển giao cho người mua khi hoàn thành giao dịch (đối với chứng khoán đã niêm yết) hoặc khi hoàn thành hợp đồng chuyển nhượng tài sản (đối với chứng khoán chưa niêm yết).
+
+3.22. Các khoản giảm trừ doanh thu
+
+Các khoản giảm trừ doanh thu gồm: Chiết khấu thương mại, giảm giá hàng bán và hàng bán bị trả lại.
+
+Các khoản giảm trừ doanh thu phát sinh cũng ký tiêu thu sản phẩm, hàng hóa dịch vụ được điều chỉnh giảm doanh thu của ký phát sinh; Các khoản giảm trừ doanh thu phát sinh vào ký sau nhưng trước thời điểm phát hành báo cáo tài chính hợp nhất thì được điều chỉnh giảm doanh thu của ký lập báo cáo; Các khoản giảm trừ doanh thu phát sinh vào ký sau và sau thời điểm phát hành báo cáo tài chính hợp nhất thì được điều chỉnh giảm doanh thu của ký phát sinh khoản giảm trừ.
+
+3.23. Hợp đồng xây dựng
+
+Khi kết quả thực hiện hợp đồng xây dựng có thể được ước tính một cách đáng tin cây, doanh thu và chi phí liên quan đến hợp đồng được ghi nhận tương ứng với phần công việc đã hoàn thành tại ngày kết thúc niên độ kế toán theo tỷ lệ phần trăm giữa chi phí phát sinh của phần công việc đã hoàn thành tại thời điểm kết thúc năm tài chính so với tổng chi phí dự toán của hợp đồng, ngoại trừ trường hợp chi phí này không tương đương với phần khối lượng xây lắp đã hoàn thành. Khoản chi phí này có thể bao gồm các chi phí phụ thêm, các khoản bởi thường và chi thường thực hiện hợp đồng theo thỏa thuận với khách hàng.
+
+Khi kết quả thực hiện hợp đồng xây dựng không thể ước tính được một cách đáng tin cây thi không một khoản lợi nhuận nào được ghi nhận, kể cả khi tổng chỉ phí thực hiện hợp đồng có thể vượt quá tổng doanh thu của hợp đồng.
+
+3.24. Giá vốn hàng bán
+
+Giá vốn hàng bán và cung cấp dịch vụ là tổng chi phí phát sinh của dịch vụ, bất động sản đầu tư, giả thành sản xuất của sản phẩm bán ra trong ký theo nguyên tắc phủ hợp với doanh thu. Các khoản chi phí vượt trên mức bình thường của hàng tồn kho được ghi nhận ngay vào giả vốn hàng bán.
+
+3.25. Chi phí tài chính
+
+Chi phí tài chính phần ánh những khoản chi phí phát sinh trong kỳ chủ yếu bao gồm chi phí đi vay vốn, chi phí dự phòng tổn thất đầu tư vào đơn vị khác.
+
+3.26. Chi phí quản lý doanh nghiệp
+
+Chi phí quản lý doanh nghiệp phần ánh các chi phí quản lý chung của doanh nghiệp gồm các chi phí về lương nhân viên bộ phận quản lý doanh nghiệp (tiền lương, tiền công, các khoản phụ cấp,...); bảo hiểm xã hội, bảo hiểm y tế, kinh phí công đoàn, bảo hiểm thất nghiệp của nhân viên quản lý doanh nghiệp; chi phí vật liệu văn phòng, công cụ lao động, khấu hao TSCĐ dùng cho quản lý doanh nghiệp; tiền thuê đất, thuê môn bài; khoản lập dự phòng phải thu khó đòi; dịch vụ mua ngoài (điện, nước, điện thoại, fax, bảo hiểm tài sản, cháy nổ...); chi phí bằng tiền khác (tiếp khách, hội nghị khách hàng).
+
+26
+
+239 ON TN TOAI WI TP
+
+===== PAGE 30 =====
+TỔNG CÔNG TY CÓ PHẦN PHÁT TRIỂN
+
+KHU CÔNG NGHIỆP VÀ CÁC CÔNG TY CON
+
+Địa chỉ: Số 1, Đường 1, KCN Biên Hòa 1,
+
+Phường An Bình, Thành phố Biên Hòa, Tỉnh Đồng Nai
+
+BÁO CÁO TÀI CHÍNH HỢP NHẤT
+
+Cho năm tài chính kết thúc ngày 31/12/2017
+
+THUYÊT MINH BẢO CÁO TÀI CHÍNH HỢP NHẤT (TIẾP THEO)
+
+3.27. Thuê
+
+Thuế thu nhập doanh nghiệp
+
+Chi phí thuế thu nhập doanh nghiệp (TNDN) hiện hành
+
+Chi phí thuế TNDN hiện hành được xác định trên cơ sở thu nhập tỉnh thuế và thuế suất thuế TNDN trong năm hiện hành.
+
+Thuế giá trị gia tăng
+
+Thuế giá trị gia tăng của các hàng hóa và dịch vụ do Tập đoàn cung cấp được tính theo các mức thuế như sau:
+
+Cho thuê đất, phí hạ tầng, xử lý chất thải đối với các doanh nghiệp chế xuất 0%
+
+Cung cấp nước sạch sản xuất 5%
+
+- Hoạt động cho thuê lai đất, cho thuê nhà xưởng, cho thuê văn phòng, các hoạt động khác 10%
+
+Các loại thuế khác
+
+Áp dụng theo các luật thuế hiện hành tại Việt Nam.
+
+Các báo cáo thuế của Tập đoàn sẽ chịu sự kiểm tra của cơ quan thuế. Do việc áp dụng luật và các qui định về thuế đối với nhiều loại giao dịch khác nhau có thể được giải thích theo nhiều cách khác nhau, dẫn đến số thuế được trình bày trên báo cáo tài chính hợp nhất có thể bị thay đổi theo quyết định cuối cùng của cơ quan thuế đối với báo cáo thuế của các công ty trong Tập đoàn.
+
+3.28. Lãi cơ bản trên cổ phiếu
+
+Lãi cơ bản trên cổ phiếu được tính bằng cách chia lợi nhuận hợp nhất sau thuế của Tập đoàn sau khi trích quỹ khen thưởng, phúc lợi cho tổng số bình quân số cổ phiếu phổ thông lưu hành trong kỳ, không bao gồm số cổ phiếu được Tập đoàn mua lại và giữ làm cổ phiếu ngân quỹ.
+
+3.29. Lãi suy giảm trên cổ phiếu
+
+Lãi suy giảm trên cổ phiếu được tính bằng cách chia lợi nhuận hợp nhất sau thuế của Tập đoàn sau khi trích quỹ khen thưởng, phúc lợi cho tổng số bình quân số cổ phiếu phổ thông lưu hành trong kỹ và tổng số cổ phiếu phổ thông dư kiến được phát hành thêm, không bao gồm số cổ phiếu được Tập đoàn mua lại và giữ làm cổ phiếu ngân quỹ.
+
+3.30. Các bên liên quan
+
+Các bên liên quan là các doanh nghiệp, các cá nhân, trực tiếp hay gián tiếp qua một hoặc nhiều trung gian, có quyền kiểm soát Tập đoàn hoặc chịu sự kiểm soát của Tập đoàn, hoặc cũng chung sự kiểm soát với Tập đoàn. Công ty liên kết, các cá nhân trực tiếp hoặc giản tiếp năm quyền biểu quyết của Tập đoàn dẫn đến có ảnh hưởng đáng kể đối với Tập đoàn, những nhân sự quản lý chủ chốt bao gồm các giám đốc, các cán bộ điều hành của Tập đoàn, những thành viên mặt thiết gia đình của các cá nhân này hoặc các công ty liên kết với các cá nhân này cũng được coi là các bên liên quan.
+
+(Xem tiếp trang sau)
+
+27
+
+\( \left\| \frac{1}{2} \right\|_{L^{\prime}}^{2} \)  \( \mathrm{G} \)   \( \mathrm{T} \)   \( \mathrm{H} \)   \( \mathrm{A} \)   \( \mathrm{T} \)   \( \mathrm{N} \)   \( \mathrm{H} \)   \( \mathrm{O} \)
+
+===== PAGE 31 =====
+TỔNG CÔNG TY CỔ PHẦN PHÁT TRIỂN
+
+KHU CÔNG NGHIỆP VÀ CÁC CÔNG TY CON
+
+Địa chỉ: Số 1, Đường 1, KCN Biên Hòa 1,
+
+Phường An Bình, Thành phố Biên Hòa, Tỉnh Đồng Nai
+
+BÁO CÁO TÀI CHÍNH HỢP NHẤT
+
+Cho năm tài chính kết thúc ngày 31/12/2017
+
+THUYẾT MINH BẢO CÁO TÀI CHÍNH HỢP NHẤT (TIẾP THEO)
+
+4. THÔNG TIN BÔ SUNG CHO CÁC KHOÁN MỤC TRÌNH BÀY TRÊN BẢNG CÂN ĐỐI KẾ TOÁN HỢP NHẤT
+
+4.1. Tiền và các khoản tương đương tiền
+
+<table><tr><td></td><td>Tại ngày31/12/2017VND</td><td>Tại ngày01/01/2017VND</td></tr><tr><td>Tiền mặt</td><td>6.268.251.341</td><td>6.524.645.657</td></tr><tr><td>Tiền gửi ngân hàng không kỳ hạn</td><td>400.743.904.280</td><td>272.159.577.609</td></tr><tr><td>Các khoản tương đương tiền</td><td>614.887.418.564</td><td>1.159.702.732.192</td></tr><tr><td>Cộng</td><td>1.021.899.574.185</td><td>1.438.386.955.458</td></tr></table>
+
+Tương đương tiền là khoản tiền gửi ngân hàng có kỳ hạn không quá 3 tháng.
+
+4.2. Các khoản đầu tư tài chính
+
+Đầu tư nằm giữ đến ngày đáo hạn ngắn hạn là các khoản tiền gửi tiết kiệm có kỳ hạn dưới 12 tháng tại các Ngân hàng.
+
+Đầu tư tài chính dài hạn được chỉ tiết như sau:
+
+<table><tr><td></td><td>Tại ngày31/12/2017VND</td><td>Tại ngày01/01/2017VND</td></tr><tr><td>Đầu tư vào Công ty liên doanh, liên kết</td><td>359.716.342.318</td><td>313.683.925.078</td></tr><tr><td>Đầu tư dài hạn khác</td><td>227.349.953.280</td><td>198.412.703.641</td></tr><tr><td>Đầu tư nằm giữ đến ngày đào hạn dài hạn (*)</td><td>50.000.000.000</td><td>41.500.000.000</td></tr><tr><td>Dự phòng đầu tư dài hạn</td><td>(3.552.033.700)</td><td>(4.161.670.370)</td></tr><tr><td>Cộng</td><td>633.514.261.898</td><td>549.434.958.349</td></tr></table>
+
+(*) Đầu tư nắm giữ đến ngày đảo hạn dài hạn là các khoản tiền gửi tiết kiệm có kỳ hạn trên 12 tháng tại các Ngân hàng.
+
+Các khoản tiền gửi có ký hạn của một số Công ty con được dùng để đảm bảo cho các khoản vay ngắn hạn và dài hạn - Xem thêm mục 4.22.
+
+(Xem tiếp trang sau)
+
+28
+
+C.T. Y VAN M
+
+===== PAGE 32 =====
+TỔNG CỔNG TY CỔ PHẦN PHẠT TRIỂN
+
+KHU CÔNG NGHIỆP VÀ CÁC CÔNG TY CON
+
+BÁO CÁO TÀI CHÍNH HỢP NHẤT
+Cho năm tài chính kết thúc ngày 31/12/2017
+
+THUYẾT MINH BẢO CẢO TÀI CHÍNH HỢP NHẮT (TIỂP THEO)
+
+4.2. Các khoản đầu tư tài chính (tiếp theo)
+
+<table><tr><td rowspan="2"></td><td colspan="3">Tại ngày 31/12/2017</td><td colspan="3">Tại ngày 01/01/2017</td></tr><tr><td>Tỷ lệlợi ích</td><td>Vốn góp theophương phápgiá gốc</td><td>Vốn góp theophương pháp vốnchủ sở hữu</td><td>Tỷ lệlợi ích</td><td>Vốn góp theophương phápgiá gốc</td><td>Vốn góp theophương pháp vốnchủ sở hữu</td></tr><tr><td colspan="7">Đầu tư vào Công ty liên doanh, liên kết:</td></tr><tr><td>Công ty Cổ phần Đầu tư quốc lộ 91 Cần Thơ - An Giang</td><td>39,72%</td><td>112.000.000.000</td><td>111.695.865.261</td><td>39,72%</td><td>112.000.000.000</td><td>110.477.639.983</td></tr><tr><td>Công ty TNHH Berjaya D2D</td><td>14,49%</td><td>83.676.726.251</td><td>80.217.839.481</td><td>14,49%</td><td>83.676.726.251</td><td>76.816.000.958</td></tr><tr><td>Công ty CP BOT 319 Cường Thuận CTI (*)</td><td>20,74%</td><td>42.000.000.000</td><td>42.000.000.000</td><td></td><td>-</td><td>-</td></tr><tr><td>Trường Cao đẳng Công nghệ và Quản trị Sonadezi</td><td>40,00%</td><td>33.436.575.595</td><td>32.549.560.030</td><td>40,00%</td><td>33.436.575.595</td><td>32.405.316.909</td></tr><tr><td>Công ty Cổ phần Vận tải Thủy bộ Vĩnh Phú</td><td></td><td>-</td><td>-</td><td>37,12%</td><td>21.838.570.523</td><td>22.141.565.812</td></tr><tr><td>Công ty Cổ phần Dịch vụ Căng Đồng Nai</td><td>22,95%</td><td>13.500.000.000</td><td>14.078.733.955</td><td>22,95%</td><td>13.500.000.000</td><td>13.500.000.000</td></tr><tr><td>Công ty Cổ phần Cấp nước Gia Tân</td><td>16,00%</td><td>15.000.000.000</td><td>14.958.882.119</td><td>16,00%</td><td>-</td><td>-</td></tr><tr><td>Công ty Cổ phần Xây dựng Đồng Nai</td><td>40,00%</td><td>12.662.870.951</td><td>13.962.967.046</td><td>40,00%</td><td>12.829.995.458</td><td>13.994.105.105</td></tr><tr><td>Công ty Cổ phần Sơn Đồng Nai</td><td>30,00%</td><td>10.295.294.400</td><td>10.036.879.754</td><td>30,00%</td><td>10.295.294.400</td><td>9.277.643.686</td></tr><tr><td>Công ty Cổ phần Bến xe và dịch vụ vận tải Đồng Nai</td><td>36,00%</td><td>8.045.519.909</td><td>8.619.954.887</td><td>36,00%</td><td>8.045.519.909</td><td>9.115.427.573</td></tr><tr><td>Công ty Cổ phần Dịch Vụ và Xây dựng Cấp Nước Đồng Nai</td><td>23,04%</td><td>7.800.368.003</td><td>14.465.223.919</td><td>23,04%</td><td>7.800.368.003</td><td>11.868.979.931</td></tr><tr><td>Công ty Cổ phần Xây dựng dân dụng công nghiệp số 1</td><td>30,00%</td><td>7.489.690.056</td><td>8.541.401.586</td><td>30,00%</td><td>7.489.690.056</td><td>8.822.245.121</td></tr><tr><td>Công ty Cổ phần Xây Lắp Sonacons</td><td>14,84%</td><td>3.600.000.000</td><td>4.325.574.397</td><td>14,84%</td><td>3.600.000.000</td><td>3.600.000.000</td></tr><tr><td>Công ty Cổ phần Cảng Long Thành</td><td>15,30%</td><td>1.665.000.000</td><td>4.263.459.883</td><td>15,30%</td><td>1.665.000.000</td><td>1.665.000.000</td></tr><tr><td>Cộng</td><td></td><td>351.172.045.165</td><td>359.716.342.318</td><td></td><td>316.177.740.195</td><td>313.683.925.078</td></tr></table>
+
+(*) Công ty liên kết chưa phát sinh hoạt động kinh doanh để hợp nhất theo phương pháp vốn chủ sở hữu
+
+(Xem tiếp trang sau)
+
+29
+
+===== PAGE 33 =====
+30
+
+TỔNG CỔNG TY CỔ PHẦN PHẠT TRIỂN
+
+KHU CÔNG NGHIỆP VÀ CÁC CÔNG TY CON
+
+Địa chỉ: Số 1, Đường 1, KCN Biên Hòa 1, Phường An Bình,
+
+Thành phố Biên Hòa, Tỉnh Đông Nai
+
+BÁO CÁO TÀI CHÍNH HỢP NHẤT
+
+Cho năm tài chính kết thúc ngày 31/12/2017
+
+THUYẾT MINH BẢO CÁO TÀI CHÍNH HỢP NHẤT (TIẾP THEO)
+
+4.2. Các khoản đầu tư tài chính (tiếp theo)
+
+<table><tr><td rowspan="2"></td><td colspan="3">Tại ngày 31/12/2017</td><td colspan="3">Tại ngày 01/01/2017</td></tr><tr><td>Giá trị ghi số</td><td>Giá trị hợp lý</td><td>Dự phòng</td><td>Giá trị ghi số</td><td>Giá trị hợp lý</td><td>Dự phòng</td></tr><tr><td colspan="7">Đầu tư vào đơn vị khác:</td></tr><tr><td>Công ty Cổ phần đầu khí đầu tư khai thác Cảng</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Phước An</td><td>71.446.310.986</td><td></td><td>(570.422.308)</td><td>71.446.310.986</td><td></td><td>-</td></tr><tr><td>Công ty Cổ phần Amata</td><td>41.550.395.294</td><td></td><td>-</td><td>41.550.395.294</td><td></td><td>-</td></tr><tr><td>Ngân hàng TMCP Phát triển thành phố Hồ Chí Minh</td><td>-</td><td></td><td>-</td><td>45.971.260.481</td><td></td><td>-</td></tr><tr><td>Công ty CP Cấp nước Châu Đức</td><td>15.000.000.000</td><td></td><td>-</td><td>12.000.000.000</td><td></td><td>-</td></tr><tr><td>Công ty TNHH Xăng dầu Vĩnh Phú</td><td>500.000.000</td><td></td><td></td><td>2.000.000.000</td><td></td><td></td></tr><tr><td>Công ty Cổ phần Cấu Kiện Bê Tống Nhon Trạch 2</td><td>11.250.000.000</td><td></td><td>(2.981.611.392)</td><td>11.250.000.000</td><td></td><td>(4.161.670.370)</td></tr><tr><td>Công ty Cổ phần Địa Оc Thảo Điền</td><td>10.000.000.000</td><td></td><td>-</td><td>10.000.000.000</td><td></td><td>-</td></tr><tr><td>Công ty Cổ phần Đầu tư và Xây dựng Cầu Đồng Nai (BOT Cầu Đồng Nai)</td><td>73.528.689.000</td><td></td><td>-</td><td>1.012.500.000</td><td></td><td>-</td></tr><tr><td>Nền nhà tại Khu Thiên Hà</td><td>1.308.580.000</td><td></td><td>-</td><td>1.308.580.000</td><td></td><td>-</td></tr><tr><td>Công ty Cổ phần Cấp Nước Long Khánh</td><td>1.054.088.000</td><td></td><td>-</td><td>1.054.088.000</td><td></td><td>-</td></tr><tr><td>Công ty Cổ phần Công trình Giao thông Đồng Nai</td><td>1.711.890.000</td><td>2.580.240.000</td><td>-</td><td>-</td><td></td><td>-</td></tr><tr><td>Đầu tư dài hạn khác</td><td>-</td><td></td><td>-</td><td>819.568.880</td><td></td><td>-</td></tr><tr><td>Cộng</td><td>227.349.953.280</td><td></td><td>(3.552.033.700)</td><td>198.412.703.641</td><td></td><td>(4.161.670.370)</td></tr></table>
+
+Tại ngày bảo cáo, Tập đoàn chưa xác định được giá trị hợp lý của các khoản đầu tư vào các đơn vị khác (ngoại trừ Công ty Cổ phần Công trình Giao thông Đồng Nai) để thuyết minh trong bảo cáo tài chính hợp nhất do không có giá niêm yết trên thị trường và Chuẩn mực Kế toán Việt Nam, Chế độ Kế toán Doanh nghiệp Việt Nam hiện chưa có hướng dẫn về cách tỉnh giá trị hợp lý sử dụng các kỹ thuật định giá. Giá trị hợp lý của các khoản đầu tư này có thể khác giá trị ghi số.
+
+===== PAGE 34 =====
+TỔNG CÔNG TY CÓ PHẦN PHÁT TRIỂN
+
+KHU CÔNG NGHIỆP VÀ CÁC CÔNG TY CON
+
+Địa chỉ: Số 1, Đường 1, KCN Biên Hòa 1,
+
+Phường An Bình, Thành phố Biên Hòa, Tỉnh Đồng Nai
+
+BÁO CÁO TÀI CHÍNH HỢP NHẤT
+
+Cho năm tài chính kết thúc ngày 31/12/2017
+
+THUYẾT MINH BẢO CÁO TÀI CHÍNH HỢP NHẤT (TIẾP THEO)
+
+4.3. Phải thu của khách hàng
+
+<table><tr><td></td><td>Tại ngày31/12/2017VND</td><td>Tại ngày01/01/2017VND</td></tr><tr><td colspan="3">Ngắn hạn:</td></tr><tr><td>Phải thu từ khách hàng:Sở Giao thông Vận tải Đồng Nai liên quan đếndoanh thu xây dựng Cầu Hòa An</td><td>35.651.261.000</td><td>14.960.961.000</td></tr><tr><td>Phòng Quản lý đô thị Biên Hòa</td><td>159.318.145.814</td><td>166.569.671.472</td></tr><tr><td>Phải thu các đối tượng khác</td><td>432.777.159.842</td><td>449.971.957.705</td></tr><tr><td>Phải thu khách hàng là các bên có liên quan - Xemthêm mục 8</td><td>18.452.620.734</td><td>28.316.043.602</td></tr><tr><td>Cộng</td><td>646.199.187.390</td><td>659.818.633.779</td></tr><tr><td colspan="3">Dải hạn:</td></tr><tr><td>Phải thu từ khách hàng:Phải thu từ hoạt động kinh doanh nhà - Khu đầncư An Bình</td><td>1.950.700.000</td><td>6.866.950.000</td></tr><tr><td>Các đối tượng khác</td><td>969.651.920</td><td>1.080.451.920</td></tr><tr><td>Cộng</td><td>2.920.351.920</td><td>7.947.401.920</td></tr></table>
+
+4.4. Trả trước cho người bán ngắn hạn
+
+<table><tr><td></td><td>Tại ngày31/12/2017VND</td><td>Tại ngày01/01/2017VND</td></tr><tr><td>Trung tâm Phát triển Quỹ đất TP.Biên Hòa tiền đến bù đất Khu công nghiệp Giang Điền</td><td>245.920.822.338</td><td>210.947.905.301</td></tr><tr><td>Nhà thầu Kumho Industrial</td><td>178.453.969.616</td><td>126.341.637.114</td></tr><tr><td>Trung tâm quỹ đất Huyện Vĩnh Cửu</td><td>161.553.863.618</td><td>132.524.552.843</td></tr><tr><td>Trung tâm Phát triển Quỹ đất huyện Trắng Bom</td><td>67.842.933.147</td><td>-</td></tr><tr><td>Các đối tượng khác</td><td>88.995.327.021</td><td>178.067.617.193</td></tr><tr><td>Trả trước cho người bán là các bên có liên quan - Xem thêm mục 8</td><td>6.007.329.000</td><td>2.143.161.000</td></tr><tr><td>Cộng</td><td>748.774.244.740</td><td>650.024.873.451</td></tr></table>
+
+4.5. Phải thu về cho vay ngắn hạn
+
+Là khoản cho vay tin chấp đối với Công ty Cổ phần Dịch vụ và Xây Dương Cấp nước Đồng Nai – Xem thêm mục 8. Khoản cho vay này có thời hạn 03 tháng từ ngày 01 tháng 10 năm 2017 đến ngày 31 tháng 12 năm 2017 và lãi suất là 7%/năm.
+
+31
+
+2361 ONC TNI TOAN AVIH
+
+===== PAGE 35 =====
+TỔNG CÔNG TY CÓ PHẦN PHÁT TRIỂN
+
+KHU CÔNG NGHIỆP VÀ CÁC CÔNG TY CON
+
+Địa chỉ: Số 1, Đường 1, KCN Biên Hòa 1,
+
+Phường An Bình, Thành phố Biên Hòa, Tỉnh Đồng Nai
+
+BÁO CÁO TÀI CHÍNH HỢP NHẤT
+
+Cho năm tài chính kết thúc ngày 31/12/2017
+
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (TIẾP THEO)
+
+4.6. Phải thu khác
+
+<table><tr><td rowspan="2"></td><td colspan="2">Tại ngày 31/12/2017VND</td><td colspan="2">Tại ngày 01/01/2017VND</td></tr><tr><td>Giá trị</td><td>Dự phòng</td><td>Giá trị</td><td>Dự phòng</td></tr><tr><td colspan="5">Ngắn hạn:</td></tr><tr><td>Dự thu lãi tiền gửi</td><td>41.497.096.166</td><td>-</td><td>15.336.246.420</td><td>-</td></tr><tr><td>Khoản tiền bồi thường về việc &quot;Phế duyệt bồi thường, hỗ trợ thuộc dự án cụm công nghiệp Long Phước 1 tại xã Long Phước, huyện Long Thành&quot;</td><td>37.351.123.820</td><td>-</td><td>-</td><td>-</td></tr><tr><td>Phải thu về hoạt động bán nhà sở hữu Nhà Nước</td><td>4.462.884.490</td><td>-</td><td>10.075.873.224</td><td>-</td></tr><tr><td>Ứng tiền đến bù mỏ đá Tân Cang cho Trung tâm phát triển quỹ đất thành phố Biên Hòa</td><td>-</td><td>-</td><td>23.304.586.000</td><td>-</td></tr><tr><td>Ứng trước tiền bồi thường đất cho dân có đất trong vùng quy hoạch khu công nghiệp</td><td>-</td><td>-</td><td>13.756.633.666</td><td>-</td></tr><tr><td>Phải thu khác</td><td>32.068.338.982</td><td>-</td><td>35.086.918.535</td><td>957.480.024</td></tr><tr><td>Phải thu khác từ các bên có liên quan - Xem thêm mục 8</td><td>-</td><td>-</td><td>5.760.000</td><td>-</td></tr><tr><td>Cộng</td><td>115.379.443.458</td><td>-</td><td>97.566.017.845</td><td>957.480.024</td></tr><tr><td colspan="5">Dải hạn:</td></tr><tr><td>Đầu tư hợp tác kinh doanh với Công ty ICD Tân Cảng Long Bình (*)</td><td>91.470.000.000</td><td>-</td><td>91.470.000.000</td><td>-</td></tr><tr><td>Ký quỹ, ký cược</td><td>6.072.033.661</td><td>-</td><td>6.515.346.328</td><td>-</td></tr><tr><td>Phải thu khác</td><td>7.028.655.450</td><td>6.476.078.400</td><td>6.746.551.460</td><td>6.476.078.400</td></tr><tr><td>Cộng</td><td>104.570.689.111</td><td>6.476.078.400</td><td>104.731.897.788</td><td>6.476.078.400</td></tr></table>
+
+(*) Góp vốn hợp tác kinh doanh ICD Tân Cảng Long Bình theo Hợp đồng hợp tác kinh doanh số 485/HD-ICDLB-SZB ngày 21 tháng 9 năm 2013, Phụ lục số 485/HD-ICDLB-SZB/PL1 ngày 08 tháng 05 năm 2014 và Phụ lục số 485/HD-ICDLB-SZB/PL2 ngày 15 tháng 06 năm 2015, giữa Công ty con - Công ty Cổ phần Sonadezi Long Bình với Công ty Cổ phần ICD Tân Cảng Long Bình để thực hiện dự án đầu tư, xây dựng kho tại khu đất ICD Tân Cảng Long Bình và thực hiện các hoạt động kinh doanh dịch vụ kho và các giá trị gia tăng liên quan đến dịch vụ kho với thời gian thực hiện dự án là 45 năm kể từ ngày 21 tháng 9 năm 2013. Tổng mức đầu tư của dự án là 323.409.000.000 đồng, trong đó vốn tư có của dự án là 186.673.000.000 đồng, Công ty Cổ phần Sonadezi Long Bình đã góp đủ 49% vốn tư có của dự án.
+
+32
+
+===== PAGE 36 =====
+TỔNG CÔNG TY CỔ PHẦN PHÁT TRIẾN
+KHU CÔNG NGHIỆP VÀ CÁC CÔNG TY CON
+
+Địa chỉ: Số 1, Đường 1, KCN Biên Hòa 1,
+Phường An Bình, Thành phố Biên Hòa, Tỉnh Đồng Nai
+
+BẢO CẢO TÀI CHÍNH HỢP NHẤT
+Cho năm tái chính kết thúc ngày 31/12/2017
+
+THUYẾT MINH BẢO CẢO TÀI CHÍNH HỢP NHẤT (TIẾP THEO)
+
+4.7. No xâu
+
+<table><tr><td rowspan="2"></td><td colspan="3">Tại ngày 31/12/2017VND</td><td colspan="3">Tại ngày 01/01/2017VND</td></tr><tr><td>Giá gốc</td><td colspan="2">Giá trị có thể thu hồi</td><td>Giá gốc</td><td colspan="2">Giá trị có thể thu hồi</td></tr><tr><td>Tổng giá trị các khoản phải thu, cho vay quá hạn thanh toán hoặc chưa quá hạn nhưng khó có khả năng thu hồi</td><td>44.162.327.927</td><td colspan="2">2.312.316.401</td><td>41.664.794.112</td><td colspan="2">8.757.063.507</td></tr><tr><td colspan="7">Thời gian quá hạn và giá trị các khoản nợ phải thu, cho vay quá hạn theo từng đối tượng được chi tiết như sau:</td></tr><tr><td rowspan="2"></td><td colspan="3">Tại ngày 31/12/2017VND</td><td colspan="3">Tại ngày 01/01/2017VND</td></tr><tr><td>Giá gốc</td><td>Giá trị có thể thu hồi</td><td>Thời gian quá hạn</td><td>Giá gốc</td><td>Giá trị có thể thu hồi</td><td>Thời gian quá hạn</td></tr><tr><td>Công ty CP Năng lượng Mai Linh</td><td>16.068.397.014</td><td>-</td><td>Từ 02 - 03 năm</td><td>16.068.397.014</td><td>4.820.519.104</td><td>Từ 01 - 02 năm</td></tr><tr><td>Công ty Cổ phần Cấu kiện Bê tông Nhơn Trạch 2</td><td>6.226.773.400</td><td>-</td><td>Trên 03 năm</td><td>6.226.773.400</td><td>-</td><td>Trên 03 năm</td></tr><tr><td>Công ty TNHH Vạn Phúc</td><td>2.271.119.074</td><td>-</td><td>Trên 03 năm</td><td>2.271.119.074</td><td>-</td><td>Trên 03 năm</td></tr><tr><td>Công ty TNHH Xây dựng Thành Phố</td><td>244.951.524</td><td>-</td><td>Trên 03 năm</td><td>244.951.524</td><td>-</td><td>Trên 03 năm</td></tr><tr><td>Công ty TNHH Tam Lộc Phát</td><td>231.036.671</td><td>-</td><td>Trên 04 năm</td><td>231.036.671</td><td>-</td><td>Trên 04 năm</td></tr><tr><td>Các đối tương khác</td><td>19.120.050.244</td><td>2.312.316.401</td><td>Trên 01 năm</td><td>16.622.516.429</td><td>3.936.544.403</td><td>Trên 01 năm</td></tr><tr><td>Cộng</td><td>44.162.327.927</td><td>2.312.316.401</td><td></td><td>41.664.794.112</td><td>8.757.063.507</td><td></td></tr></table>
+
+33
+
+心
+
+===== PAGE 37 =====
+TỔNG CÔNG TY CỔ PHẦN PHÁT TRIỂN
+
+KHU CÔNG NGHIỆP VÀ CÁC CÔNG TY CON
+
+Địa chỉ: Số 1, Đường 1, KCN Biên Hòa 1,
+
+Phường An Bình, Thành phố Biên Hòa, Tỉnh Đồng Nai
+
+BÁO CÁO TÀI CHÍNH HỢP NHẤT
+
+Cho năm tài chính kết thúc ngày 31/12/2017
+
+THUYẾT MINH BẢO CÁO TÀI CHÍNH HỢP NHẤT (TIẾP THEO)
+
+4.8. Hàng tồn kho
+
+<table><tr><td rowspan="2"></td><td colspan="2">Tại ngày 31/12/2017VND</td><td colspan="2">Tại ngày 01/01/2017VND</td></tr><tr><td>Giá gốc</td><td>Dự phòng</td><td>Giá gốc</td><td>Dự phòng</td></tr><tr><td>Nguyên liệu, vật liệu</td><td>53.667.798.655</td><td>-</td><td>48.234.070.709</td><td>-</td></tr><tr><td>Công cụ, dụng cụ</td><td>2.540.662.513</td><td>-</td><td>1.931.256.453</td><td>-</td></tr><tr><td>Chi phí sản xuất kinh doanhđở dang:</td><td>733.239.935.635</td><td>-</td><td>872.479.674.338</td><td>-</td></tr><tr><td>Dự án Khu dân cư đường VõThị Sáu - Giai đoạn 2</td><td>139.371.131.000</td><td>-</td><td>264.702.850.478</td><td>-</td></tr><tr><td>Dự án Khu dân cư xã LộcAn, huyện Long Thành</td><td>242.996.008.337</td><td>-</td><td>112.289.344.556</td><td></td></tr><tr><td>Dự án Cầu Hóa An</td><td></td><td>-</td><td>7.571.865.772</td><td>-</td></tr><tr><td>Dự án KDC Tràng Bom</td><td>21.757.060.896</td><td>-</td><td>36.811.800.001</td><td>-</td></tr><tr><td>Dự án Đền thở liệt sỹ thị xãLong Khánh</td><td>-</td><td>-</td><td>46.305.054.212</td><td>-</td></tr><tr><td>Dự án Khu S3-S4 An Hòa</td><td>-</td><td>-</td><td>45.066.489.093</td><td>-</td></tr><tr><td>Các dự án khác</td><td>329.115.735.402</td><td>-</td><td>359.732.270.226</td><td>-</td></tr><tr><td>Thành phẩm</td><td>40.244.295.535</td><td>-</td><td>4.167.165.619</td><td>-</td></tr><tr><td>Hàng hóa</td><td>1.629.184.472</td><td>-</td><td>1.479.374.990</td><td>-</td></tr><tr><td>Hàng hóa bất động sản</td><td>-</td><td>-</td><td>51.592.509.249</td><td>-</td></tr><tr><td>Cộng</td><td>831.321.876.810</td><td>-</td><td>979.884.051.358</td><td>-</td></tr></table>
+
+(Xem tiếp trang sau)
+
+34
+
+===== PAGE 38 =====
+35
+
+TỔNG CÔNG TY CO PHẠN PHAT TRIÊN
+KHU CỔNG NGHIỆP VÀ CÁC CÔNG TY CON
+Địa chỉ: Số 1, Đường 1, KCN Biên Hòa 1, Phước
+Thành phố Biên Hòa, Tỉnh Đồng Nai
+
+BẢO CẢO TẢI CHÍNH HỢP NHẤT
+Cho năm tài chính kết thúc ngày 31/12/2017
+
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (TIẾP THEO)
+
+4.9. Tăng, giảm tài sản cố định hữu hình
+
+<table><tr><td>Khoản mục</td><td>Nhà cửa,vật kiến trúcVND</td><td>Máy móc, thiết bịVND</td><td>Phương tiện vận tải, truyền dẫnVND</td><td>Thiết bị công cụquản lýVND</td><td>TSCĐ hữu hìnhkhắcVND</td><td>CộngVND</td></tr><tr><td colspan="7">Nguyên giá:</td></tr><tr><td>Tại ngày 01/01/2017</td><td>2.357.365.821.150</td><td>1.057.526.685.588</td><td>2.334.365.766.322</td><td>73.230.992.414</td><td>122.698.200.049</td><td>5.945.187.465.523</td></tr><tr><td>Đầu tư XDCB hoàn thành</td><td>176.043.729.978</td><td>101.455.842.182</td><td>205.944.157.010</td><td>-</td><td>864.933.523</td><td>484.308.662.693</td></tr><tr><td>Mua trong năm</td><td>10.336.040.059</td><td>10.433.225.116</td><td>54.596.126.995</td><td>3.281.765.728</td><td>2.016.549.227</td><td>80.663.707.125</td></tr><tr><td>Tăng do đánh giá lại tài sản</td><td>607.449.300</td><td>-</td><td>-</td><td>-</td><td>-</td><td>607.449.300</td></tr><tr><td>Tăng khác</td><td>19.821.239.711</td><td>253.985.344</td><td>2.531.235.043</td><td>45.000.000</td><td>34.207.110</td><td>22.685.667.208</td></tr><tr><td>Chuyển sang BDS đầu tư</td><td>(1.269.760.507)</td><td>-</td><td>-</td><td>-</td><td>-</td><td>(1.269.760.507)</td></tr><tr><td>Thanh lý, nhượng bán</td><td>(3.258.263.509)</td><td>(1.698.753.553)</td><td>(9.224.055.694)</td><td>(31.181.280)</td><td>-</td><td>(14.212.254.036)</td></tr><tr><td>Giảm do thoái vốn công ty con</td><td>(27.872.866.312)</td><td>(17.285.458.672)</td><td>(15.516.930.147)</td><td>(116.694.625)</td><td>-</td><td>(60.791.949.756)</td></tr><tr><td>Giảm khác</td><td>-</td><td>-</td><td>(1.479.641.381)</td><td>-</td><td>(1.615.612.479)</td><td>(3.095.253.860)</td></tr><tr><td>Tại ngày 31/12/2017</td><td>2.531.773.389.870</td><td>1.150.685.526.005</td><td>2.571.216.658.148</td><td>76.409.882.237</td><td>123.998.277.430</td><td>6.454.083.733.690</td></tr><tr><td colspan="7">Giá trị hao mòn lũy kế:</td></tr><tr><td>Tại ngày 01/01/2017</td><td>982.781.661.288</td><td>440.940.592.465</td><td>927.218.167.902</td><td>29.144.199.266</td><td>10.408.141.903</td><td>2.390.492.762.824</td></tr><tr><td>Khấu hao trong năm</td><td>136.610.097.526</td><td>79.553.955.818</td><td>109.062.383.483</td><td>7.311.382.236</td><td>3.556.692.296</td><td>336.094.511.359</td></tr><tr><td>Tăng khác</td><td>1.900.912.210</td><td>6.047.270</td><td>482.081.388</td><td>45.000.000</td><td>-</td><td>2.434.040.868</td></tr><tr><td>Chuyển sang BDS đầu tư</td><td>(159.982.478)</td><td>-</td><td>-</td><td>-</td><td>-</td><td>(159.982.478)</td></tr><tr><td>Thanh lý, nhượng bán</td><td>(2.860.827.279)</td><td>(1.430.836.861)</td><td>(9.638.309.251)</td><td>(31.181.280)</td><td>-</td><td>(13.961.154.671)</td></tr><tr><td>Giảm do thoái vốn công ty con</td><td>(6.562.733.803)</td><td>(8.885.687.903)</td><td>(7.145.828.885)</td><td>(116.694.625)</td><td>-</td><td>(22.710.945.216)</td></tr><tr><td>Giảm do đánh giá lại tài sản</td><td>(8.065.315.084)</td><td>-</td><td>(346.889.653)</td><td>(447.070.403)</td><td>-</td><td>(8.859.275.140)</td></tr><tr><td>Giảm khác</td><td>-</td><td>-</td><td>(871.054.000)</td><td>-</td><td>-</td><td>(871.054.000)</td></tr><tr><td>Tại ngày 31/12/2017</td><td>1.103.643.812.380</td><td>510.184.070.789</td><td>1.018.760.550.984</td><td>35.905.635.194</td><td>13.964.834.199</td><td>2.682.458.903.546</td></tr><tr><td colspan="7">Giá trị còn lại:</td></tr><tr><td>Tại ngày 01/01/2017</td><td>1.374.584.159.862</td><td>616.586.093.123</td><td>1.407.147.598.420</td><td>44.086.793.148</td><td>112.290.058.146</td><td>3.554.694.702.699</td></tr><tr><td>Tại ngày 31/12/2017</td><td>1.428.129.577.490</td><td>640.501.455.216</td><td>1.552.456.107.164</td><td>40.504.247.043</td><td>110.033.443.231</td><td>3.771.624.830.144</td></tr></table>
+
+Nguyên giả của TSCĐ hữu hình cuối kỳ đã khấu hao hết nhưng vẫn còn sử dụng là 600.010.133.866 đồng.
+
+Một phần nhà xưởng, máy móc thiết bị của các Công ty con được dùng để thế chấp cho các khoản vay ngắn hạn và dài hạn - Xem thêm mục 4.22.
+
+||| | | ||
+
+===== PAGE 39 =====
+TỔNG CỔNG TY CỔ PHẦN PHẤT TRIÊN
+
+KHU CÔNG NGHIỆP VÀ CÁC CÔNG TY CON
+
+Địa chỉ: Sô 1, Đường 1, KCN Biên Hòa 1, Phường An Bình,
+
+Thành phố Biên Hòa, Tỉnh Đông Nai
+
+BÁO CÁO TÀI CHÍNH HỢP NHẤT
+
+Cho năm tài chính kết thúc ngày 31/12/2017
+
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (TIẾP THEO)
+
+4.10. Tăng, giảm tài sản cố định vô hình
+
+<table><tr><td>Khoản mục</td><td>Quyền sử dụng đất VND</td><td>Phần mềm máy tính VND</td><td>Khác VND</td><td>Cộng VND</td></tr><tr><td colspan="5">Nguyên giá:</td></tr><tr><td>Tại ngày 01/01/2017</td><td>471.111.784.167</td><td>10.134.552.541</td><td>14.729.162.736</td><td>495.975.499.444</td></tr><tr><td>Đầu tư XDCB hoàn thành</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>Mua trong năm</td><td>2.121.595.384</td><td>1.010.743.000</td><td>314.965.700</td><td>3.447.304.084</td></tr><tr><td>Giảm do thoái vốn Công ty con</td><td>-</td><td>-</td><td>(3.082.249.709)</td><td>(3.082.249.709)</td></tr><tr><td>Tại ngày 31/12/2017</td><td>473.233.379.551</td><td>11.145.295.541</td><td>11.961.878.727</td><td>496.340.553.819</td></tr><tr><td colspan="5">Giá trị hao mòn lũy kế:</td></tr><tr><td>Tại ngày 01/01/2017</td><td>76.624.679.691</td><td>7.156.117.433</td><td>3.733.605.414</td><td>87.514.402.538</td></tr><tr><td>Khấu hao trong năm</td><td>9.449.072.044</td><td>994.948.862</td><td>341.346.930</td><td>10.785.367.836</td></tr><tr><td>Giảm do thoái vốn Công ty con</td><td>-</td><td>-</td><td>(567.782.838)</td><td>(567.782.838)</td></tr><tr><td>Tại ngày 31/12/2017</td><td>86.073.751.735</td><td>8.151.066.295</td><td>3.507.169.506</td><td>97.731.987.536</td></tr><tr><td colspan="5">Giá trị còn lại:</td></tr><tr><td>Tại ngày 01/01/2017</td><td>394.487.104.476</td><td>2.978.435.108</td><td>10.995.557.322</td><td>408.461.096.906</td></tr><tr><td>Tại ngày 31/12/2017</td><td>387.159.627.816</td><td>2.994.229.246</td><td>8.454.709.221</td><td>398.608.566.283</td></tr></table>
+
+Nguyên giả của TSCĐ vô hình cuối kỳ đã khấu hao hết nhưng văn còn sử dụng là 39.477.229.575 đồng.
+
+Một số quyền sử dụng đất của các Công ty con được dùng để thể chấp cho các khoản vay ngắn hạn và dài hạn - Xem thêm mục 4.22.
+
+(Xem tiếp trang sau)
+
+36
+
+||| |
+
+===== PAGE 40 =====
+TỔNG CỔNG TY CỔ PHẦN PHẠT TRIỂN
+
+KHU CÔNG NGHIỆP VÀ CÁC CÔNG TY CON
+Địa chỉ: Số 1, Đường 1, KCN Biên Hòa 1, Phường An Bình,
+Thành phố Biên Hòa, Tỉnh Đồng Nai
+
+BÁO CẢO TÀI CHÍNH HỢP NHẤT
+Cho năm tài chính kết thúc ngày 31/12/2017
+
+THUYẾT MINH BẢO CẢO TÀI CHÍNH HỢP NHẤT (TIẾP THEO)
+
+4.11. Tăng, giảm bất động sản đầu tư
+
+<table><tr><td>Khoản mục</td><td>Chi phí đến bù,giải tốVND</td><td>Cơ sở hạ tầngVND</td><td>Nhà cửa,vật kiến trúcVND</td><td>Máy móc,thiết bịVND</td><td>Phương tiện vậntài, truyền dẫnVND</td><td>BDS đầu tưkhắcVND</td><td>CộngVND</td></tr><tr><td>Nguyên giá:</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Tại ngày 01/01/2017</td><td>842.040.033.897</td><td>698.600.878.938</td><td>1.115.604.781.331</td><td>3.478.149.217</td><td>28.109.554.481</td><td>3.595.324.602</td><td>2.691.428.722.466</td></tr><tr><td>Đầu tư XDCB hoàn thành</td><td>-</td><td>49.965.790.999</td><td>122.111.602.784</td><td>-</td><td>-</td><td>-</td><td>172.077.393.783</td></tr><tr><td>Mua trong năm</td><td>-</td><td>23.240.078.808</td><td>-</td><td>-</td><td>642.845.306</td><td>-</td><td>23.882.924.114</td></tr><tr><td>Tăng do đánh giá lại tài sản</td><td>-</td><td>5.099.032.508</td><td>5.147.084.316</td><td>-</td><td>-</td><td>-</td><td>10.246.116.824</td></tr><tr><td>Tăng khác</td><td>975.000.000</td><td>-</td><td>9.432.125.009</td><td>-</td><td>-</td><td>-</td><td>10.407.125.009</td></tr><tr><td>Thanh lý, nhượng bán</td><td>-</td><td>-</td><td>(59.175.149)</td><td>-</td><td>-</td><td>-</td><td>(59.175.149)</td></tr><tr><td>Giảm do thoái vốn công ty con</td><td>-</td><td>-</td><td>(8.162.364.502)</td><td>-</td><td>-</td><td>-</td><td>(8.162.364.502)</td></tr><tr><td>Giảm khác</td><td>-</td><td>-</td><td>(126.309.169)</td><td>-</td><td>-</td><td>-</td><td>(126.309.169)</td></tr><tr><td>Tại ngày 31/12/2017</td><td>843.015.033.897</td><td>776.905.781.253</td><td>1.243.947.744.620</td><td>3.478.149.217</td><td>28.752.399.787</td><td>3.595.324.602</td><td>2.899.694.433.376</td></tr><tr><td>Giá trị hao mòn lũy kế:</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Tại ngày 01/01/2017</td><td>279.798.192.765</td><td>294.410.737.518</td><td>304.260.067.190</td><td>2.704.463.636</td><td>24.058.188.389</td><td>3.387.002.610</td><td>908.618.652.108</td></tr><tr><td>Khấu hao trong năm</td><td>13.467.238.017</td><td>40.022.953.806</td><td>60.655.730.695</td><td>468.765.029</td><td>1.620.356.004</td><td>54.995.448</td><td>116.290.038.999</td></tr><tr><td>Tăng khác</td><td>975.000.000</td><td>-</td><td>772.895.720</td><td>-</td><td>-</td><td>-</td><td>1.747.895.720</td></tr><tr><td>Giảm do thoái vốn công ty con</td><td>-</td><td>-</td><td>(347.636.396)</td><td>-</td><td>-</td><td>-</td><td>(347.636.396)</td></tr><tr><td>Giảm do đánh giá lại tài sản</td><td>-</td><td>(9.649.508.731)</td><td>(14.314.011.187)</td><td>-</td><td>-</td><td>-</td><td>(23.963.519.918)</td></tr><tr><td>Giảm khác</td><td>-</td><td>-</td><td>(753.121.710)</td><td>-</td><td>-</td><td>-</td><td>(753.121.710)</td></tr><tr><td>Tại ngày 31/12/2017</td><td>294.240.430.782</td><td>324.784.182.593</td><td>350.273.924.312</td><td>3.173.228.665</td><td>25.678.544.393</td><td>3.441.998.058</td><td>1.001.592.308.803</td></tr><tr><td>Giá trị còn lại:</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Tại ngày 01/01/2017</td><td>562.241.841.132</td><td>404.190.141.420</td><td>811.344.714.141</td><td>773.685.581</td><td>4.051.366.092</td><td>208.321.992</td><td>1.782.810.070.358</td></tr><tr><td>Tại ngày 31/12/2017</td><td>548.774.603.115</td><td>452.121.598.660</td><td>893.673.820.308</td><td>304.920.552</td><td>3.073.855.394</td><td>153.326.544</td><td>1.898.102.124.573</td></tr></table>
+
+Tại ngày bảo cáo, Tập đoàn chưa xác định giá trị hợp lý của bất động sản đầu tư để thuyết minh trong báo cáo tài chính hợp nhất do Chuẩn mực Kế toán Việt Nam, Chế độ Kế toán Doanh nghiệp Việt Nam hiện chưa có hướng dẫn về cách tính giá trị hợp lý sử dụng các kỹ thuật định giá. Giá trị hợp lý của các bất động sản đầu tư này có thể khác với giả trị ghi sở
+
+37
+
+||g/ + H T N 50 ||
+
+===== PAGE 41 =====
+TỔNG CÔNG TY CỔ PHẦN PHÁT TRIỂN
+
+KHU CÔNG NGHIỆP VÀ CÁC CÔNG TY CON
+
+Địa chỉ: Số 1, Đường 1, KCN Biên Hòa 1,
+
+Phường An Bình, Thành phố Biên Hòa, Tỉnh Đồng Nai
+
+BÁO CÁO TÀI CHÍNH HỢP NHẤT
+
+Cho năm tài chính kết thúc ngày 31/12/2017
+
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (TIẾP THEO)
+
+4.12. Chi phí sản xuất, kinh doanh dở dang dài hạn
+
+<table><tr><td rowspan="2"></td><td colspan="2">Tại ngày 31/12/2017VND</td><td colspan="2">Tại ngày 01/01/2017VND</td></tr><tr><td>Giá gốc</td><td>Giá trịcó thể thu hồi</td><td>Giá gốc</td><td>Giá trịCó thể thu hồi</td></tr><tr><td>Khu quy hoạch PhươngBửu Long - Khu 2</td><td>236.260.992.908</td><td>236.260.992.908</td><td>227.365.408.772</td><td>227.365.408.772</td></tr><tr><td>Khu quy hoạch PhươngBửu Long - Khu 3</td><td>102.923.746.282</td><td>102.923.746.282</td><td>-</td><td>-</td></tr><tr><td>Các dự án khác</td><td>15.800.574.735</td><td>15.800.574.735</td><td>23.594.640.397</td><td>23.594.640.397</td></tr><tr><td>Cộng</td><td>354.985.313.925</td><td>354.985.313.925</td><td>250.960.049.169</td><td>250.960.049.169</td></tr></table>
+
+4.13. Chi phí xây dựng cơ bản dở dang
+
+<table><tr><td></td><td>Tại ngày31/12/2017VND</td><td>Tại ngày01/01/2017VND</td></tr><tr><td colspan="3">Xây dựng cơ bản dở dang:</td></tr><tr><td>Chỉ phí đến bù giải phóng mặt bằng và chi phí đầu tư hạ tầng Khu công nghiệp Châu Đức</td><td>1.407.533.222.354</td><td>1.037.210.597.542</td></tr><tr><td>Dự án cấp nước Thiện Tân giai đoạn 2</td><td>413.748.045.635</td><td>223.564.308.375</td></tr><tr><td>Công trình khu công nghiệp Suối Tre</td><td>181.632.703.902</td><td>141.517.754.211</td></tr><tr><td>Công trình khu công nghiệp Giang Điền</td><td>110.855.614.358</td><td>67.620.305.812</td></tr><tr><td>Chỉ phí mở rộng Cảng Đồng Nai giai đoạn 2</td><td>108.890.902.525</td><td>77.744.433.061</td></tr><tr><td>Dự án BOT - đường 768</td><td>2.699.948.175</td><td>274.303.078.617</td></tr><tr><td>Chỉ phí xây dựng dở dang khác</td><td>426.827.312.670</td><td>302.444.493.756</td></tr><tr><td>Cộng</td><td>2.652.187.749.619</td><td>2.124.404.971.374</td></tr></table>
+
+(Xem tiếp trang sau)
+
+38
+
+C.T.10 VAN M
+
+===== PAGE 42 =====
+TỔNG CÔNG TY CỔ PHẦN PHÁT TRIỂN
+
+KHU CÔNG NGHIỆP VÀ CÁC CÔNG TY CON
+
+Địa chỉ: Số 1, Đường 1, KCN Biên Hòa 1,
+
+Phường An Bình, Thành phố Biên Hòa, Tỉnh Đông Nai
+
+BÁO CÁO TÀI CHÍNH HỢP NHẤT
+
+Cho năm tài chính kết thúc ngày 31/12/2017
+
+THUYẾT MINH BẢO CÁO TÀI CHÍNH HỢP NHẤT (TIẾP THEO)
+
+4.14. Chi phí trả trước
+
+<table><tr><td></td><td>Tại ngày31/12/2017VND</td><td>Tại ngày01/01/2017VND</td></tr><tr><td colspan="3">Ngắn hạn:</td></tr><tr><td>Tiền thuê đất tại Khu Công nghiệp Biên Hòa 1 - Xem thêm mục 3.13</td><td>25.389.111.706</td><td></td></tr><tr><td>Công cụ dụng cụ</td><td>1.084.165.050</td><td>187.033.184</td></tr><tr><td>Các khoản khác</td><td>5.419.865.085</td><td>4.048.573.383</td></tr><tr><td>Cộng</td><td>31.893.141.841</td><td>4.235.606.567</td></tr><tr><td colspan="3">Dải hạn:</td></tr><tr><td>Tiền thuê đất trả trước một lần cho thời gian thuê (*)</td><td>257.457.524.791</td><td>279.527.865.572</td></tr><tr><td>Chi phí trả trước kinh doanh đất</td><td>48.717.831.963</td><td>25.805.721.649</td></tr><tr><td>Công cụ, dụng cụ, chi phí khác chờ phân bổ</td><td>8.920.704.132</td><td>6.914.546.627</td></tr><tr><td>Lợi thể kinh doanh khi xác định giá trị doanh nghiệp</td><td>7.135.302.875</td><td>15.291.143.269</td></tr><tr><td>Trả trước tiền đến bù giải phóng mặt bằng KCN Thạnh Phú</td><td>58.336.986.568</td><td></td></tr><tr><td>Chi phí trả trước dài hạn khác</td><td>255.126.441.443</td><td>243.367.704.506</td></tr><tr><td>Cộng</td><td>635.694.791.772</td><td>570.906.981.623</td></tr></table>
+
+(*) Trong đó, tiền thuê đất trả trước một lần cho thời gian thuê cho phần diện tích đất 1.532.343 m² tại Khu công nghiệp Giang Điền với số tiền là 141.768.203.785 đồng, được miễn từ 16/06/2016 đến 16/06/2027.
+
+(Xem tiếp trang sau)
+
+39
+
+===== PAGE 43 =====
+TỔNG CÔNG TY CÓ PHẦN PHÁT TRIỂN
+KHU CÔNG NGHIỆP VÀ CÁC CÔNG TY CON
+
+Địa chỉ: Số 1, Đường 1, KCN Biên Hòa 1,
+Phường An Bình, Thành phố Biên Hòa, Tỉnh Đồng Nai
+
+BÁO CÁO TÀI CHÍNH HỢP NHẤT
+
+Cho năm tài chính kết thúc ngày 31/12/2017
+
+THUYẾT MINH BẢO CÁO TÀI CHÍNH HỢP NHẤT (TIỂP THEO)
+
+4.15. Phải trả người bán ngắn hạn
+
+<table><tr><td rowspan="2"></td><td colspan="2">Tại ngày 31/12/2017VND</td><td colspan="2">Tại ngày 01/01/2017VND</td></tr><tr><td>Giá trị</td><td>Số có khả năngtrả nợ</td><td>Giá trị</td><td>Số có khảnăng trả nợ</td></tr><tr><td rowspan="6">Phải trả cho người bán:Tổng Công ty XâyDụng Số 1 - Công tyCổ phầnCông ty Cổ phần Đầutur Phát triển CườngThuận IDICO</td><td>32.455.000.000</td><td>32.455.000.000</td><td>22.329.659.030</td><td>22.329.659.030</td></tr><tr><td>-</td><td>-</td><td>14.030.707.964</td><td>14.030.707.964</td></tr><tr><td rowspan="2">Hội đồng bồi thườngHuyện Châu ĐứcCông ty TNHH Dịch vụhàng hải HPS Marine</td><td>137.945.755.415</td><td>137.945.755.415</td><td>-</td></tr><tr><td>21.548.569.000</td><td>21.548.569.000</td><td>-</td></tr><tr><td rowspan="2">Phải trả cho các đốitương khácPhải trả cho các bên liênquan - Xem thêm mục 8</td><td>285.999.599.133</td><td>285.999.599.133</td><td>275.861.061.515</td></tr><tr><td>35.536.351.276</td><td>35.536.351.276</td><td>25.909.965.287</td></tr><tr><td>Cộng</td><td>513.485.274.824</td><td>513.485.274.824</td><td>338.131.393.796</td><td>338.131.393.796</td></tr></table>
+
+4.16. Người mua trả tiền trước
+
+<table><tr><td></td><td>Tại ngày31/12/2017VND</td><td>Tại ngày01/01/2017VND</td></tr><tr><td>Ngắn hạn:Khách hàng trả trước tiền mua nhà và đất</td><td>204.724.760.804</td><td>283.560.611.371</td></tr><tr><td>Đối tượng khác</td><td>52.183.322.236</td><td>105.167.785.342</td></tr><tr><td>Cộng</td><td>256.908.083.040</td><td>388.728.396.713</td></tr><tr><td>Dải hạn:Đối tượng khác</td><td>8.026.078.158</td><td>11.124.122.555</td></tr><tr><td>Cộng</td><td>8.026.078.158</td><td>11.124.122.555</td></tr></table>
+
+(Xem tiếp trang sau)
+
+40
+
+[图]
+
+===== PAGE 44 =====
+TỔNG CÔNG TY CỔ PHẦN PHÁT TRIỂN
+KHU CÔNG NGHIỆP VÀ CÁC CÔNG TY CON
+
+Địa chỉ: Số 1, Đường 1, KCN Biên Hòa 1, Phương An Bình, Thành phố Biên Hòa, Tỉnh Đồ
+
+BÁO CÁO TÀI CHÍNH HỢP NHẤT
+Cho năm tài chính kết thúc ngày 31/12/2017
+
+THUYẾT MINH BẢO CẢO TÀI CHÍNH HỢP NHẤT (TIẾP THEO)
+
+4.17. Thuế và các khoản phải thu/phải nộp Nhà nước
+
+<table><tr><td rowspan="2"></td><td colspan="2">Tại ngày 01/01/2017VND</td><td colspan="3">Trong nămVND</td><td colspan="2">Tại ngày 31/12/2017VND</td></tr><tr><td>Phải thu</td><td>Phải nộp</td><td>Phải nộp</td><td>Đã nộp</td><td>Tăng/giảm dothoàivốn</td><td>Phải thu</td><td>Phải nộp</td></tr><tr><td>Thuế giá trị gia tăng</td><td>7.318.874.538</td><td>14.633.028.294</td><td>209.106.378.005</td><td>(211.353.131.035)</td><td>(258.327.049)</td><td>571.422.296</td><td>5.897.150.071</td></tr><tr><td>Thuế thu nhập doanh nghiệp</td><td>9.217.955.993</td><td>30.491.767.274</td><td>124.381.675.345</td><td>(176.341.298.651)</td><td>886.756.667</td><td>40.259.541.624</td><td>8.686.972.932</td></tr><tr><td>Thuế thu nhập cá nhân</td><td>-</td><td>2.637.966.591</td><td>23.054.297.994</td><td>(21.324.171.105)</td><td>8.137.118</td><td>-</td><td>4.359.956.362</td></tr><tr><td>Thuế tiêu thụ đặc biệt</td><td>-</td><td>29.385.606</td><td>361.627.269</td><td>(355.352.271)</td><td>-</td><td>-</td><td>35.660.604</td></tr><tr><td>Thuế tài nguyên</td><td>-</td><td>1.284.465.552</td><td>18.699.644.218</td><td>(18.794.965.876)</td><td>-</td><td>-</td><td>1.189.143.894</td></tr><tr><td>Tiền thuê đất, thuế nhà đất</td><td>28.879.975.535</td><td>107.877.854.326</td><td>336.892.592.963</td><td>(438.646.057.806)</td><td>1.713.132.650</td><td>24.918.523.348</td><td>449.804.646</td></tr><tr><td>Phí, lệ phi</td><td>-</td><td>35.501.609.572</td><td>40.844.004.479</td><td>(64.078.680.828)</td><td>3.506</td><td>-</td><td>12.266.929.717</td></tr><tr><td>Thuế khác</td><td>32.743</td><td>48.646.314.616</td><td>2.581.509.769</td><td>(47.577.942.255)</td><td>-</td><td>9.185.512</td><td>3.659.034.899</td></tr><tr><td>Cộng</td><td>45.416.838.809</td><td>241.102.391.831</td><td>755.921.730.042</td><td>(978.471.599.827)</td><td>2.349.702.892</td><td>65.758.672.780</td><td>36.544.653.125</td></tr><tr><td colspan="8">(Xem tiếp trang sau)</td></tr></table>
+
+41
+
+1951 1961
+
+===== PAGE 45 =====
+TỔNG CÔNG TY CỔ PHẦN PHÁT TRIỂN
+
+KHU CÔNG NGHIỆP VÀ CÁC CÔNG TY CON
+
+Địa chỉ: Số 1, Đường 1, KCN Biên Hòa 1,
+
+Phường An Bình, Thành phố Biên Hòa, Tỉnh Đồng Nai
+
+BÁO CÁO TÀI CHÍNH HỢP NHẤT
+
+Cho năm tài chính kết thúc ngày 31/12/2017
+
+THUYÊT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (TIẾP THEO)
+
+4.18. Phải trả người lao động
+
+Là quỹ lương còn phải trả cho người lao động.
+
+4.19. Chi phí phải trả
+
+<table><tr><td></td><td>Tại ngày31/12/2017VND</td><td>Tại ngày01/01/2017VND</td></tr><tr><td colspan="3">Ngắn hạn:</td></tr><tr><td>Chi phí hạ tầng trích trước hoạt động chuyển quyền sử dụng đất khu dân cư An Bình</td><td>18.694.341.109</td><td>19.513.246.034</td></tr><tr><td>Trích trước khoản chi phí đến bù và xây dựng hạ tầng khu quy hoạch nhà ở phường Tân Phong</td><td>19.405.255.264</td><td>19.405.255.263</td></tr><tr><td>Chi phí đầu tư hạ tầng tỉnh theo suất đầu tư Khu công nghiệp Giang Điền</td><td>18.073.650.159</td><td>30.589.520.088</td></tr><tr><td>Chi phí phải trả khác</td><td>60.116.408.581</td><td>49.291.082.121</td></tr><tr><td>Cộng</td><td>116.289.655.113</td><td>118.799.103.506</td></tr><tr><td colspan="3">Dài hạn:</td></tr><tr><td>Chi phí trích trước tạm tính giả vốn kinh doanh Khu công nghiệp</td><td>271.210.474.819</td><td>202.185.803.690</td></tr><tr><td>Chi phí phải trả khác</td><td>8.871.825.591</td><td>-</td></tr><tr><td>Cộng</td><td>280.082.300.410</td><td>202.185.803.690</td></tr></table>
+
+4.20. Doanh thu chưa thực hiện
+
+<table><tr><td></td><td>Tại ngày31/12/2017VND</td><td>Tại ngày01/01/2017VND</td></tr><tr><td colspan="3">Ngắn hạn:</td></tr><tr><td>Doanh thu nhận trước cho thuê đất hạ tầng khu công nghiệp</td><td>109.088.421.163</td><td>113.335.240.843</td></tr><tr><td>Các doanh thu chưa thực hiện khác</td><td>4.833.002.005</td><td>5.235.163.032</td></tr><tr><td>Cộng</td><td>113.921.423.168</td><td>118.570.403.875</td></tr><tr><td colspan="3">Dải hạn:</td></tr><tr><td>Doanh thu nhận trước cho thuê đất hạ tầng khu công nghiệp</td><td>2.761.190.771.640</td><td>2.392.931.278.680</td></tr><tr><td>Doanh thu chưa thực hiện kinh doanh nhà và hạ tầng</td><td>389.499.895.969</td><td>256.561.136.283</td></tr><tr><td>Doanh thu chưa thực hiện tử hoạt động xây dựng đã xuất hóa đơn</td><td>51.450.811.817</td><td>110.526.564.549</td></tr><tr><td>Các doanh thu chưa thực hiện khác</td><td>58.899.757.755</td><td>142.590.058.425</td></tr><tr><td>Cộng</td><td>3.261.041.237.181</td><td>2.902.609.037.937</td></tr></table>
+
+42
+
+\( \left\| \frac{1}{89} \right/ \)  T H N M \( \left| \frac{5}{6} \right| \)
+
+===== PAGE 46 =====
+TỔNG CÔNG TY CÓ PHẦN PHÁT TRIỂN
+
+KHU CÔNG NGHIỆP VÀ CÁC CÔNG TY CON
+
+Địa chỉ: Số 1, Đường 1, KCN Biên Hòa 1,
+
+Phường An Bình, Thành phố Biên Hòa, Tỉnh Đồng Nai
+
+BÁO CÁO TÀI CHÍNH HỢP NHẤT
+
+Cho năm tài chính kết thúc ngày 31/12/2017
+
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (TIẾP THEO)
+
+4.21. Phải trả khác
+
+<table><tr><td></td><td>Tại ngày31/12/2017VND</td><td>Tại ngày01/01/2017VND</td></tr><tr><td colspan="3">Ngắn hạn:</td></tr><tr><td>Kinh phí công đoàn, Bảo hiểm xã hội,Bảo hiểm y tế, Bảo hiểm thất nghiệp</td><td>2.331.971.193</td><td>2.795.719.748</td></tr><tr><td>Nhận ký quỹ, ký cược ngắn hạn</td><td>63.088.580.390</td><td>38.692.945.114</td></tr><tr><td>Cổ tức, lợi nhuận phải trả</td><td>17.129.685.550</td><td>5.438.803.694</td></tr><tr><td>Phải trả chi phí đến bù giải tỏa</td><td>7.854.195.000</td><td>9.449.880.000</td></tr><tr><td>Phải trả ngân sách Nhà nước</td><td>47.783.417.263</td><td>81.520.188.432</td></tr><tr><td>Giá trị công trình xây dựng đã xuất hóa đơn</td><td>52.796.069.623</td><td>77.421.009.919</td></tr><tr><td>Các khoản phải trả, phải nộp khác</td><td>127.351.029.932</td><td>99.835.239.092</td></tr><tr><td>Cộng</td><td>318.334.948.951</td><td>315.153.785.999</td></tr><tr><td colspan="3">Dài hạn:</td></tr><tr><td>Nhận ký quỹ, ký cược dài hạn</td><td>73.370.561.124</td><td>53.707.007.923</td></tr><tr><td>Phải trả nhà thầu Kumho - Dự án Thiện Tân giai đoạn 2</td><td>225.344.268.369</td><td>83.060.626.695</td></tr><tr><td>Phải trả Công ty Cổ phần Kinh doanh Khí hóa lông Miền Nam tiền hỗ trợ giải phóng mặt bằng</td><td>16.530.632.897</td><td>-</td></tr><tr><td>Các khoản phải trả, phải nộp khác</td><td>29.393.148.635</td><td>55.607.136.891</td></tr><tr><td>Cộng</td><td>344.638.611.025</td><td>192.374.771.509</td></tr></table>
+
+4.22. Vay và nợ thuê tài chính
+
+Các khoản vay được chi tiết như sau:
+
+<table><tr><td rowspan="2"></td><td colspan="2">Tại ngày 01/01/2017Triệu đồng</td><td colspan="2">Trong nămTriệu đồng</td><td colspan="2">Tại ngày 31/12/2017Triệu đồng</td></tr><tr><td>Giá trị</td><td>Số có khả năng trả nợ</td><td>Tăng</td><td>Giảm</td><td>Giá trị</td><td>Số có khả năng trả nợ</td></tr><tr><td>Vay ngắn hạn</td><td>743.466</td><td>743.466</td><td>1.313.105</td><td>924.715</td><td>1.131.856</td><td>1.131.856</td></tr><tr><td>Vay dài hạn</td><td>2.438.539</td><td>2.438.539</td><td>495.555</td><td>438.345</td><td>2.495.749</td><td>2.495.749</td></tr><tr><td>Cộng</td><td>3.182.005</td><td>3.182.005</td><td>1.808.660</td><td>1.363.060</td><td>3.627.605</td><td>3.627.605</td></tr></table>
+
+Vay ngắn hạn và dài hạn là các khoản vay tại các ngân hàng với lãi suất từ 5%/năm đến 11,5%/năm và được đảm bảo bằng tài sản của các Công ty con, chi tiết như sau:
+
+■ Thế chấp tài sản của Công ty Cổ phần Cấp nước Đồng Nai gồm:
+
++ Một phần Nhà máy nước Thiên Tân theo Hợp đồng thể chấp số 11.52.11/HĐTC-CN-TT1 ngày 10/07/2011;
+
++ Hệ thống cấp nước Thạnh Phú theo Hợp đồng thể chấp số 11.52.11/HĐTC-CN-TP ngày 10/07/2011;
+
++ Quyền sử dụng đất tại Phương Quyết Thắng, TP. Biên Hòa, Tỉnh Đồng Nai theo Giấy chứng nhận Quyền sử dụng đất số 0934404 do UBND Tỉnh Đồng Nai cấp ngày 14/03/2000;
+
+43
+
+C.T.I. VAN W.W.
+
+===== PAGE 47 =====
+TỔNG CÔNG TY CỔ PHẦN PHÁT TRIỂN
+KHU CÔNG NGHIỆP VÀ CÁC CÔNG TY CON
+
+Địa chỉ: Số 1, Đường 1, KCN Biên Hòa 1,
+Phường An Bình, Thành phố Biên Hòa, Tỉnh Đồng Nai
+
+BÁO CÁO TÀI CHÍNH HỢP NHẤT
+
+Cho năm tài chính kết thúc ngày 31/12/2017
+
+THUYẾT MINH BẢO CÁO TÀI CHÍNH HỢP NHẤT (TIẾP THEO)
+
++ Quyền sở hữu nhà ở và quyền sử dụng đất ở số 747312604100101 do Sở Xây Dương cấp ngày 23/4/2009 theo Hợp đồng thể chấp số 14.31.300039704/HĐTC-BĐS-DOWACO ngày 14/08/2014;
+
++ Một phần nhà máy nước Nhơn Trạch Giai đoạn 2 hình thành từ tương lai;
+
++ Tuyên ống cấp nước công suất 3.100 m3/ngày đêm tại khu phố 3,4 phường Tràng Dải, Thành phố Biên Hòa;
+
++ Toàn bộ tài sản thuộc dự án đầu tư thiết bị máy born ly tâm trục đúng Q = 1.000m3/h cho trạm born nước thô Xí nghiệp nước Biên Hòa;
+
++ Tuyên ống chuyển tải cấp nước công suất 6.800m3/ngày đêm cho Khu dân cư Khu phố 9, 11, Phường Tân Phong, TP Biên Hoà, Tĩnh Đồng Nai;
+
++ 02 máy bơm dự phòng cho Xí nghiệp nước Thiên Tân;
+
++ 09 máy bơm cho Xí nghiệp nước Biên Hoà, Vĩnh An, Xuân Lộc;
+
++ Nhà làm việc Xí nghiệp nước Xuân Lộc tại Thị trấn Gia Ray, Huyện Xuân Lộc, Tỉnh Đồng Nai;
+
++ Hệ thống cấp nước thị trấn Định Quán và hệ thống cấp nước Phương Tân Biên, TP Biên Hoà;
+
++ Dự án công trình hệ thống cấp nước Phương Tân Phong, Thành phố Biên Hòa, Tính Đồng Nai, công suất 7.000m3/ngày, thuộc loại công trình hạ tầng kỹ thuật, công trình cấp III;
+
++ Tài sản hình thành trong tương lai của dự án Hệ thống cấp nước Nhơn Trạch;
+
++ Tài sản hình thành trong tương lai của dự án Hệ thống cấp nước Thiên Tân Giai đoạn 2.
+
+■ Thế chấp tài sản của Công ty Cổ phần Cảng Đồng Nai gồm:
+
++ Bến tàu 30.000 DWT;
+
++ Câu cảng LBT bên 2.000 tấn;
+
++ Câu cảng LBT bến 5.000 tấn;
+
++ Câu nói 2 khu vực;
+
++ Nâng cấp bên 2.000 lên 5.000 DWT;
+
++ 2 cấu Libebherr;
+
++ 01 xe Toyota Altis 60V 9433;
+
++ 01 xe Inova 60S-4612;
+
++ 01 máy đào bánh xích 60XA-0660;
+
++ 01 máy đào bánh xích 60XA-0659;
+
++ 01 trạm cân 80T-GDB;
+
++ 01 xe nâng container 45 tấn hiệu Kalmar Reachstacker;
+
+Toàn bộ công trình xây dựng trên đất và tài sản đầu tư trên đất, khoản tiền bảo hiểm đối với tài sản của dự án nâng cấp mở rộng cầu cảng số 2 (bến sä lan 3.000 DWT) tại Phương Long Bình Tân, Đồng Nai (Theo hợp đồng thể chấp số 094/14/VCB.BH);
+
++ Chân để trụ cầu thuộc công trình bên sà lan 3.000 DWT tại phường Long Bình Tân;
+
++ 01 câu bờ cố định 40T/30M-Macgregor GL4030-2;
+
++ Công trình đồng bộ - nhà kho CFS diện tích 5.250m2 (thuộc dự án mở rộng Cảng Đồng Nai giai đoạn 2 tại Phương Long Bình Tân, Biên Hòa, Đồng Nai);
+
++ Quyền sử dụng đất hình thành trong tương lai từ dự án mở rộng Cảng Đồng Nai giai đoạn 2B tại Phường Long Bình Tân, Thành phố Biên Hòa, Tĩnh Đồng Nai với diện tích 55.288m2 (Hợp đồng thể chấp tài sản số 0145/2015/BD);
+
++ Thừa đất số 575/TLBV dự án đầu tư mở rộng Cảng Đồng Nai tại Phường Long Bình Tân, diện tích 91.843m2 (Hợp đồng thể chấp tài sản số 197/2014/BĐ);
+
++ Tất cả các khoản lợi thu được từ việc kinh doanh, khai thác giá trị quyền sử dụng đất hoặc hạ tầng kỹ thuật trên đất, các khoản lợi thu được từ việc kinh doanh, khai thác bãi hoặc hạ tầng kỹ thuật trên bãi, quyền nhận tiền từ hợp đồng, quyền đổi nợ, quyền được nhận số tiền bảo hiểm, quyền nhận các khoản tiền bởi thường phạt vi phạm,... và tất cả các quyền và lợi ích phát sinh từ hợp đồng thuê quyền sử dụng đất 157.544,4 m2 tại xã Phước Thái, huyện
+
+44
+
+===== PAGE 48 =====
+TỔNG CÔNG TY CỔ PHẦN PHÁT TRIỂN
+KHU CÔNG NGHIỆP VÀ CÁC CÔNG TY CON
+
+Địa chỉ: Số 1, Đường 1, KCN Biên Hòa 1,
+Phường An Bình, Thành phố Biên Hòa, Tỉnh Đồng Nai
+
+BÁO CÁO TÀI CHÍNH HỢP NHẤT
+
+Cho năm tài chính kết thúc ngày 31/12/2017
+
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (TIẾP THEO)
+
+Long Thành, tỉnh Đồng Nai và bãi cấp phối sỏi đỏ 7,15ha và 2,17ha thuộc dự án Cảng Gò Dầu B giai đoạn 2 tại Xã Phước Thái, Huyện Long Thành, Tỉnh Đồng Nai (Hợp đồng thế chấp tài sản số 01/CĐN/2015/HĐTC);
+
++ Tát cả các khoản lợi từ việc kinh doanh, khai thác đất, bãi, hạ tầng kỹ thuật trên đất, bãi quyền nhận tiền từ hợp đồng, quyền đổi nợ, quyền được nhận số tiền bảo hiểm, quyền nhận các khoản tiền bởi thường phát vi phạm và tất cả các quyền và lợi ích phát sinh từ hợp đồng thuê bãi cấp phối sở đó 2,7 ha và 4 ha thuộc dự án Cảng Gò Dầu B giai đoạn 2 tại Xã Phước Thái, Huyện Long Thành, Tĩnh Đồng Nai (Hợp đồng thể chấp tài sản số 01/CĐN/2017/HĐTC).
+
+■ Thế chấp tài sản của Công ty Cổ phần Đầu tư Xây dựng và Vật liệu Đồng Nai gồm:
+
++ Mỏ đá Tân Cang, xe và máy móc thiết bị.
+
+■ Thế chấp tài sản của Công ty Cổ phần Dịch vụ Sonadezi gồm:
+
++ Quyền sử dụng đất diện tích 190.261 m2, quyền sở hữu nhà ở và tài sản khác gắn liền với đất theo Hợp đồng thế chấp số 33/2014/HĐTC-QBVMT ngày 16 tháng 12 năm 2014;
+
++ Tài sản thuộc dự án đầu tư xây dựng khu xử lý chất thải Quang Trung theo Hợp đồng thể chấp số 35/HĐTC-TD ngày 28 tháng 09 năm 2015;
+
++ Tài sản hình thành từ vốn vay và vốn tự có của Giai đoạn 1 Tiểu dự án Khu xử lý chất thải thuộc dự án Quang Trung theo Hợp đồng thể chấp số 171/2014/5873469 ngày 10 tháng 04 năm 2014;
+
++ 804.290 cổ phiếu Công ty CP Sonadezi Long Bình theo Hợp đồng thể chấp số 124/2016/HDDBDD01 và 02 ngày 09 tháng 03 năm 2016.
+
+■ Thế chấp tài sản của Công ty Cổ phần Sonadezi Châu Đức gồm;
+
++ Quyền thu phí từ tháng 08/2011 đến 31/12/2045 của trạm thu phí 2a và 2b trên đường Đồng Khởi và trạm thu phí 4a trên đường vào nhà máy nước Thiện Tân của dự án BOT, quyền thu phí tại trạm số 1 và trạm thu phí số 3 thuộc dự án Đường BOT - đường 768;
+
++ Một phần quyền sử dụng đất và tài sản hình thành trong tương lai của các thừa đất tại xã Nghĩa Thành và xã Suối Nghệ, huyện Châu Đức và xã sông Xoài, xã Châu Pha, huyện Tân Thành, tỉnh Bà Rịa - Vũng Tàu mà đơn vị được giao để thực hiện "Dự án KCN Châu Đức" theo Biên bản định giá 0102/BBĐG ngày 04 tháng 01 năm 2017 giữa Công ty và Ngân hàng thương mại có phần Đầu tư và phát triển Việt Nam – chi nhánh Đồng Nai và Ngân hàng TMCP Công thương Việt Nam.
+
+■ Thế chấp tài sản của Công ty Cổ phần Sonadezi An Bình gồm:
+
++ Hợp đồng tiền gửi có kỳ hạn và cổ phần các khoản đầu tư tài chính;
+
++ Tài sản cố định và bất động sản đầu tư của Công ty.
+
+4.23. Dự phòng phải trả
+
+Là khoản trích quỹ dự phòng tiền lương.
+
+4.24. Quỹ khen thưởng phúc lợi
+
+<table><tr><td></td><td>Từ 01/01/2017đến 31/12/2017VND</td><td>Từ 01/02/2016đến 31/12/2016VND</td></tr><tr><td>Số dư đầu năm</td><td>106.911.919.469</td><td>85.673.078.131</td></tr><tr><td>Trích quỹ</td><td>79.730.589.310</td><td>80.690.007.932</td></tr><tr><td>Giảm khác</td><td>-</td><td>(88.271.718)</td></tr><tr><td>Sử dụng quỹ</td><td>(63.712.696.776)</td><td>(59.362.894.876)</td></tr><tr><td>Số dư cuối năm</td><td>122.929.812.003</td><td>106.911.919.469</td></tr></table>
+
+45
+
+1130-105/11
+
+===== PAGE 49 =====
+TỔNG CỔNG TY CỔ PHẦN PHẤT TRIỂN
+
+KHU CÔNG NGHIỆP VÀ CÁC CÔNG TY CON
+
+<table><tr><td>Dia chỉ: Số 1, Đường 1, KCN Biên Hòa 1, Phường An Bình, Thánh phố Biên Hòa, Tính Đồng Nai</td></tr></table>
+
+<table><tr><td>BÁO CÁO TÀI CHÍNH HỢP NHẤTCho năm tài chính kết thúc ngày 31/12/2017</td></tr></table>
+
+THUYẾT MINH BẢO CẢO TÀI CHÍNH HỢP NHẤT (TIẾP THEO)
+
+4.25. Vốn chủ sở hữu
+
+4.25.1. Bàng đối chiếu biển động của vốn chủ sở hữu
+
+<table><tr><td rowspan="2"></td><td colspan="12">Các khoản mục thuộc vốn chủ sở hữu</td></tr><tr><td>Vốn góp của chủ sở hữu</td><td>Thặng dư vốn chủ sở hữu</td><td>Vốn khác thuộc VCSH</td><td>Chênh lệch đánh giá lại tài sản (*)</td><td>Chênh lệch tỷ giá hối đoái</td><td>Quỹ đầu tư phát triển</td><td>Quỹ khác thuộc vốn chủ sở hữu</td><td>Quỹ sắp xếp doanh nghiệp</td><td>Lợi nhuận sau thuế chưa phân phối</td><td>Nguồn vốn đầu tư XDCB</td><td>Lợi ích cổ đông không kiểm soát</td><td>Cộng</td></tr><tr><td>Tại ngày 01/02/2016</td><td>3.011.184</td><td>105.369</td><td>66.638</td><td>67.678</td><td>115</td><td>299.690</td><td>18.443</td><td>132.933</td><td>402.765</td><td>2.969</td><td>1.805.713</td><td>5.913.497</td></tr><tr><td>Tăng vốn năm trước</td><td>-</td><td>-</td><td>8.389</td><td>-</td><td>-</td><td>(8.389)</td><td>-</td><td>6.200</td><td>-</td><td>-</td><td>-</td><td>6.200</td></tr><tr><td>Ngân sách nhà nước cấp bổ sung trong năm</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>Tăng vốn trong năm</td><td>72.406</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>(72.864)</td><td>-</td><td>-</td><td>-</td><td>(458)</td></tr><tr><td>Giảm vốn chuyển tăng quỹ hỗ trợ sắp xếp doanh nghiệp</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>Lãi trong năm trước</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>397.278</td><td>-</td><td>206.360</td><td>603.638</td></tr><tr><td>Tăng khác</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>Nộp tiền thu từ cổ phần hóa</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>(16.089)</td><td>-</td><td>-</td><td>-</td><td>(16.089)</td></tr><tr><td>Trích lập quỹ thuộc nguồn vốn</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>44.780</td><td>2.591</td><td>-</td><td>(47.371)</td><td>-</td><td>-</td><td>-</td></tr><tr><td>Trích lập quỹ KTPL, Ban điều hành</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>(58.101)</td><td>-</td><td>(22.589)</td><td>(80.690)</td></tr><tr><td>Nộp lợi nhuận về ngân sách nhà nước</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>(127.470)</td><td>-</td><td>-</td><td>(127.470)</td></tr><tr><td>Điều chính cổ tức của năm 2015 theo Nghị quyết ĐHCD các Công ty đầu tư</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>33.955</td><td>-</td><td>-</td><td>33.955</td></tr><tr><td>Đánh giá lại các khoản đầu tư</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>(22.059)</td><td>-</td><td>-</td><td>(22.059)</td></tr><tr><td>Chia tổ tức</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>(91.244)</td><td>(91.244)</td></tr><tr><td>Tăng từ cty liên kết</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>298</td><td>-</td><td>-</td><td>298</td></tr><tr><td>Trích quỹ khác</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>(738)</td><td>-</td><td>(709)</td><td>(1.447)</td></tr><tr><td>Lãi nội bộ đã thực hiện</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>5.462</td><td>-</td><td>5.013</td><td>10.475</td></tr><tr><td>Tăng/giám khác</td><td>(370)</td><td>335</td><td>-</td><td>(26.324)</td><td>(115)</td><td>(3.149)</td><td>-</td><td>638</td><td>(7.020)</td><td>87</td><td>(4.373)</td><td>(40.291)</td></tr><tr><td>Tại ngày 01/01/2017</td><td>3.083.220</td><td>105.704</td><td>75.027</td><td>41.354</td><td>-</td><td>332.932</td><td>21.034</td><td>50.818</td><td>576.999</td><td>3.056</td><td>1.898.171</td><td>6.188.315</td></tr></table>
+
+46
+
+171 IG H4 N8 I1. 14
+
+===== PAGE 50 =====
+TỔNG CỔNG TY CỔ PHẦN PHÁT TRIỂN
+
+KHU CÔNG NGHIỆP VÀ CÁC CÔNG TY CON
+
+Địa chỉ: Số 1, Đường 1, KCN Biên Hòa 1, Phường An Bình,
+
+Thành phố Biên Hòa, Tỉnh Đồng Nai
+
+BÁO CÁO TÀI CHÍNH HỢP NHẤT
+Cho năm tài chính kết thúc ngày 31/12/2017
+
+THUYÊT MINH BẢO CẢO TÀI CHÍNH HỢP NHẤT (TIẾP THEO)
+
+4.25.1. Bảng đối chiếu biến động của vốn chú sở hữu (tiếp theo)
+
+<table><tr><td rowspan="2"></td><td colspan="12">Các khoản mục thuộc vốn chủ sở hữu</td></tr><tr><td>Vốn góp của chủ sở hữu</td><td>Thặng dư vốn chủ sở hữu</td><td>Vốn khác thuộc VCSH</td><td>Chênh lệch đánh giá lại tài sản (*)</td><td>Chênh lệch tỷ giá hối đoái</td><td>Quỹ đầu tư phát triển</td><td>Quỹ khác thuộc vốn chủ sở hữu</td><td>Quỹ sắp xếp doanh nghiệp</td><td>Lợi nhuận sau thuế chưa phân phối</td><td>Nguồn vốn đầu tư XDCB</td><td>Lợi ích cổ đông không kiểm soát</td><td>Cộng</td></tr><tr><td>Tại ngày 01/01/2017</td><td>3.083.220</td><td>105.704</td><td>75.027</td><td>41.354</td><td>-</td><td>332.932</td><td>21.034</td><td>50.818</td><td>576.999</td><td>3.056</td><td>1.898.171</td><td>6.188.315</td></tr><tr><td>Lợi nhuận trong năm</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>346.764</td><td>-</td><td>244.366</td><td>591.130</td></tr><tr><td>Trích lập quỹ thuộc nguồn vốn</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>54.902</td><td>-</td><td>-</td><td>(54.902)</td><td>-</td><td>-</td><td>-</td></tr><tr><td>Trích lập quỹ KTPL, Ban điều hành</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>(50.832)</td><td>-</td><td>(28.899)</td><td>(79.731)</td></tr><tr><td>Chia tổ tức</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>(120.726)</td><td>(120.726)</td></tr><tr><td>Tăng từ liên kết</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>2.445</td><td>-</td><td>-</td><td>2.445</td></tr><tr><td>Tăng/Giảm do mất quyền kiểm soát Công ty con</td><td>-</td><td>-</td><td>-</td><td>5.554</td><td>-</td><td>(15.538)</td><td>-</td><td>-</td><td>-</td><td>-</td><td>(26.536)</td><td>(36.520)</td></tr><tr><td>Tăng vốn trong năm</td><td>699.425</td><td>-</td><td>8.388</td><td>(680.839)</td><td>-</td><td>(25.367)</td><td>-</td><td>-</td><td>-</td><td>-</td><td>246.000</td><td>247.607</td></tr><tr><td>Tăng/giảm khác</td><td>-</td><td>-</td><td>5.544</td><td>-</td><td>-</td><td>-</td><td>(1.607)</td><td>5.929</td><td>662</td><td>-</td><td>370</td><td>10.898</td></tr><tr><td>Lợi nhuận thuộc giai đoạn Nhà nước còn phải nộp về Quỹ hỗ trợ sắp xếp doanh nghiệp</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>8.642</td><td>-</td><td>-</td><td>-</td><td>8.642</td></tr><tr><td>Phân vốn Nhà nước nộp về Quỹ hỗ trợ sắp xếp doanh nghiệp</td><td>(17.645)</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>(17.645)</td></tr><tr><td>Nộp về cho Ngân sách Nhà nước</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>(65.389)</td><td>(8.735)</td><td>-</td><td>-</td><td>(74.124)</td></tr><tr><td>Tiền thuê đất KCN Biên Hòa 1 điều chỉnh theo Biên bản bản giao vốn ngày 31/3/2017</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>(280.223)</td><td>-</td><td>-</td><td>(280.223)</td></tr><tr><td>Cán trừ tiền thuê đất phải nộp vào lợi nhuận 2015 đã nộp thừa</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>187.704</td><td>-</td><td>-</td><td>187.704</td></tr><tr><td>Tại ngày 31/12/2017</td><td>3.765.000</td><td>105.704</td><td>88.959</td><td>(633.931)</td><td>-</td><td>346.929</td><td>19.427</td><td>-</td><td>719.882</td><td>3.056</td><td>2.212.746</td><td>6.627.772</td></tr></table>
+
+(Xem tiếp trang sau)
+
+47
+
+10% 1.75 M\( ^{3} \)
+
+===== PAGE 51 =====
+TỔNG CÔNG TY CỔ PHẦN PHÁT TRIỂN
+
+KHU CÔNG NGHIỆP VÀ CÁC CÔNG TY CON
+
+Địa chỉ: Số 1, Đường 1, KCN Biên Hòa 1,
+
+Phường An Bình, Thành phố Biên Hòa, Tính Đồng Nai
+
+BÁO CÁO TÀI CHÍNH HỢP NHẤT
+
+Cho năm tài chính kết thúc ngày 31/12/2017
+
+THUYẾT MINH BẢO CẢO TÀI CHÍNH HỢP NHẤT (TIẾP THEO)
+
+4.25 Vốn chủ sở hữu
+
+4.25.1 Bảng đối chiếu biến động của vốn chủ sở hữu (tiếp theo)
+
+(*) Tại thời điểm 31/12/2017, chỉ tiêu "Chênh lệch đánh giá lại tài sản" trên Bảng cân đối kế toán hợp nhất của Tập đoàn bao gồm các khoản sau:
+
+- Chênh lệch đánh giá lại tài sản của công ty con - Công ty Cổ phần Cáp Nước Đồng Nai: 64.235.766.100 VND;
+
+Khoản điều chỉnh hợp nhất cho khoản chênh lệch giữa giá trị của các khoản đầu tư vào công ty con và công ty liên kết được định giá lại theo Biên bản định giá của Công ty TNHH Thẩm định giá Đất Việt và giá trị vốn chủ sở hữu tại các công ty nhận đầu tư với số tiền là 569.695.165.729 VND (trong đó điều chỉnh đánh giá lại giá trị các khoản đầu tư vào công ty con là 548.924.539.778 VND và điều chỉnh đánh giá lại giá trị các khoản đầu tư vào công ty liên kết là 20.770.625.951 VND) (thuyết minh 3.20). Chi tiết số liệu đánh giá lại công ty con và công ty liên kết bao gồm:
+
+<table><tr><td>STT</td><td>Tên công ty</td><td>Giá trị đánh giá lại VND</td></tr><tr><td></td><td colspan="2">Công ty con</td></tr><tr><td>1.</td><td>Công ty Cổ phần Cáp nước Đồng Nai</td><td>9.951.757.800</td></tr><tr><td>2.</td><td>Công ty Cổ phần Cáng Đồng Nai</td><td>151.139.520.000</td></tr><tr><td>3.</td><td>Công ty Cổ phần Đầu tư xây dựng và Vật liệu Đồng Nai</td><td>7.527.007.879</td></tr><tr><td>4.</td><td>Công ty Cổ phần kinh doanh nhà Đồng Nai</td><td>22.283.456.432</td></tr><tr><td>5.</td><td>Công ty Cổ phần phát triển đô thị công nghiệp số 2</td><td>141.384.600.000</td></tr><tr><td>6.</td><td>Công ty Cổ phần Sonadezi Long Thành</td><td>126.526.600.000</td></tr><tr><td>7.</td><td>Công ty Cổ phần Sonadezi Long Bình</td><td>59.921.548.659</td></tr><tr><td>8.</td><td>Công ty Cổ phần Sonadezi An Bình</td><td>16.815.054.500</td></tr><tr><td>9.</td><td>Công ty Cổ phần Dịch vụ Sonadezi</td><td>11.000.000.000</td></tr><tr><td>10.</td><td>Công ty Cổ phần Sonadezi Châu Đức</td><td>2.374.994.508</td></tr><tr><td></td><td>Cộng</td><td>548.924.539.778</td></tr><tr><td></td><td colspan="2">Công ty liên kết</td></tr><tr><td>1.</td><td>Công ty Cổ phần Xây dựng Đồng Nai</td><td>7.862.370.888</td></tr><tr><td>2.</td><td>Công ty Cổ phần Sơn Đồng Nai</td><td>8.341.516.800</td></tr><tr><td>3.</td><td>Công ty Cổ phần Xây dựng dân dụng công nghiệp số 1- Đồng Nai</td><td>2.822.890.437</td></tr><tr><td>4.</td><td>Công ty Cổ phần Bến xe và Dịch vụ Vận tải Đồng Nai</td><td>1.743.847.826</td></tr><tr><td></td><td>Cộng</td><td>20.770.625.951</td></tr><tr><td></td><td>Tổng cộng</td><td>569.695.165.729</td></tr></table>
+
+(Xem tiếp trang sau)
+
+48
+
+\( \left( {1,2,\cdots ,N}\right) \)
+
+===== PAGE 52 =====
+TỔNG CÔNG TY CỔ PHẦN PHÁT TRIỂN
+
+KHU CÔNG NGHIỆP VÀ CÁC CÔNG TY CON
+
+Địa chỉ: Số 1, Đường 1, KCN Biên Hòa 1,
+
+Phường An Bình, Thành phố Biên Hòa, Tỉnh Đồng Nai
+
+BÁO CÁO TÀI CHÍNH HỢP NHẤT
+
+Cho năm tài chính kết thúc ngày 31/12/2017
+
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (TIẾP THEO)
+
+4.25.2. Lãi cơ bản và lãi suy giảm trên cổ phiếu
+
+Việc tính toán lãi cơ bản và lãi suy giảm trên cổ phiếu cho năm tài chính từ ngày 01/01/2017 đến ngày 31/12/2017 được dựa trên số lợi nhuận thuộc về cổ đông phổ thông là 346.764.330.680 VND và số lượng cổ phiếu phổ thông bình quân gia quyền là 376.500.000 cổ phiếu.
+
+<table><tr><td></td><td>Từ 01/01/2017đến 31/12/2017VND</td></tr><tr><td>Lợi nhuận thuần hợp nhất thuộc về các cổ đôngTrích quỹ khen thưởng phúc lợi (*)</td><td>346.764.330.680-</td></tr><tr><td>Lợi nhuận để tính lãi cơ bản và lãi suy giảm trên cổ phiếuSố lượng cổ phiếu phổ thông bình quân lưu hành trong năm</td><td>346.764.330.680376.500.000</td></tr><tr><td>Lãi cơ bản và lãi suy giảm trên cổ phiếu</td><td>921</td></tr></table>
+
+(*) Tại ngày 31/12/2017, Tập đoàn chưa ước tính được một cách đáng tin cây số lợi nhuận cho năm tài chính từ ngày 01/01/2017 đến ngày 31/12/2017 có thể được phân bổ vào quỹ khen thưởng, phúc lợi do Đại hội cổ đông chưa quyết định tỷ lệ trích vào quỹ này cho năm 2017. Nếu Tập đoàn trích quỹ khen thưởng, phúc lợi cho năm tài chính từ ngày 01/01/2017 đến ngày 31/12/2017 từ lợi nhuận thuần thuộc về cổ đông phổ thông thì lãi cơ bản trên cổ phiếu và lãi suy giảm trên cổ phiếu sẽ giảm đi.
+
+(Xem tiếp trang sau)
+
+49
+
+===== PAGE 53 =====
+TỔNG CÔNG TY CÓ PHẦN PHÁT TRIỂN
+
+KHU CÔNG NGHIỆP VÀ CÁC CÔNG TY CON
+
+Địa chỉ: Số 1, Đường 1, KCN Biên Hòa 1,
+
+Phường An Bình, Thành phố Biên Hòa, Tỉnh Đồng Nai
+
+BÁO CÁO TÀI CHÍNH HỢP NHẤT
+
+Cho năm tài chính kết thúc ngày 31/12/2017
+
+THUYẾT MINH BẢO CẢO TÀI CHÍNH HỢP NHẤT (TIẾP THEO)
+
+5. THÔNG TIN BÓ SUNG CHO CÁC KHOÀN MỤC TRÌNH BÀY TRÊN BẢO CẢO KẾT QUẢ KINH DOANH HỢP NHẤT
+
+5.1. Doanh thu thuần bán hàng và cung cấp dịch vụ
+
+<table><tr><td></td><td>Từ 01/01/2017đến 31/12/2017VND</td><td>Từ 01/02/2016đến 31/12/2016VND</td></tr><tr><td colspan="3">Doanh thu:</td></tr><tr><td>Doanh thu bán hàng</td><td>1.269.476.156.584</td><td>851.210.659.920</td></tr><tr><td>Doanh thu cung cấp dịch vụ</td><td>1.304.537.820.863</td><td>1.067.915.150.092</td></tr><tr><td>Doanh thu xây lắp</td><td>169.640.825.852</td><td>375.260.320.401</td></tr><tr><td>Doanh thu kinh doanh bắt động sản</td><td>191.063.068.035</td><td>146.484.299.493</td></tr><tr><td>Doanh thu cho thuê đất và cơ sở hạ tầng</td><td>597.465.315.199</td><td>394.344.669.977</td></tr><tr><td colspan="3">Khu công nghiệp</td></tr><tr><td>Doanh thu kinh doanh nhà và hạ tầng</td><td>108.528.513.681</td><td>168.322.837.087</td></tr><tr><td>Doanh thu khác</td><td>95.343.459.536</td><td>500.720.170.603</td></tr><tr><td>Các khoản giảm trừ doanh thu</td><td>(1.128.096.195)</td><td>(5.185.428.006)</td></tr><tr><td>Cộng</td><td>3.734.927.063.555</td><td>3.499.072.679.567</td></tr><tr><td>Doanh thu cho thuê tài sản ghi nhận theo tổng số tiền nhận trước trong năm (*)</td><td>52.491.276.927</td><td>144.667.424.462</td></tr><tr><td>Tổng cộng</td><td>3.787.418.340.482</td><td>3.643.740.104.029</td></tr></table>
+
+(*) Nếu tổng số tiền thuê nhận trước nếu trên được hạch toán vào doanh thu theo phương pháp phân bổ theo thời gian thuê thi sẽ chênh lệch so với doanh thu ghi nhận theo tổng số tiền nhận trước là 34,2 tỷ đồng, đồng thời sẽ làm cho lợi nhuận gộp trong những năm sau sẽ tăng lên mỗi năm khoảng 3,3 tỷ đồng.
+
+5.2. Giá vốn hàng bán
+
+<table><tr><td></td><td>Từ 01/01/2017đến 31/12/2017VND</td><td>Từ 01/02/2016đến 31/12/2016VND</td></tr><tr><td colspan="3">Giá vốn:</td></tr><tr><td>Giá vốn của hàng hóa đã bán</td><td>866.902.022.814</td><td>636.433.212.175</td></tr><tr><td>Giá vốn của dịch vụ đã cung cấp</td><td>979.104.922.738</td><td>863.548.028.200</td></tr><tr><td>Giá vốn xây lắp</td><td>173.397.382.286</td><td>418.079.537.213</td></tr><tr><td>Chi phí kinh doanh bất động sản</td><td>137.132.229.995</td><td>87.661.132.098</td></tr><tr><td>Giá vốn cho thuê đất và cơ sở hạ tầng</td><td>314.737.727.070</td><td>207.177.527.973</td></tr><tr><td colspan="3">Khu công nghiệp</td></tr><tr><td>Giá vốn kinh doanh nhà và hạ tầng</td><td>86.211.650.043</td><td>124.075.116.163</td></tr><tr><td>Giá vốn khác</td><td>70.764.050.211</td><td>170.074.284.631</td></tr><tr><td>Cộng</td><td>2.628.249.985.157</td><td>2.507.048.838.453</td></tr></table>
+
+50
+
+||2| C = M / 7
+
+===== PAGE 54 =====
+TỔNG CÔNG TY CÓ PHẦN PHÁT TRIỂN
+
+KHU CÔNG NGHIỆP VÀ CÁC CÔNG TY CON
+
+Địa chỉ: Số 1, Đường 1, KCN Biên Hòa 1,
+
+Phường An Bình, Thành phố Biên Hòa, Tỉnh Đồng Nai
+
+BÁO CẢO TÀI CHÍNH HỢP NHẤT
+
+Cho năm tài chính kết thúc ngày 31/12/2017
+
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (TIẾP THEO)
+
+5.3. Doanh thu hoạt động tài chính
+
+<table><tr><td></td><td>Từ 01/01/2017đến 31/12/2017VND</td><td>Từ 01/02/2016đến 31/12/2016VND</td></tr><tr><td>Lãi tiền gửi, tiền cho vay</td><td>149.947.734.326</td><td>110.489.262.888</td></tr><tr><td>Cố tức, lợi nhuận được chia</td><td>12.807.721.163</td><td>13.053.195.770</td></tr><tr><td>Lãi chênh lệch tỷ giả đã thực hiện</td><td>28.691.613</td><td>3.656.264.407</td></tr><tr><td>Lãi bán các khoản đầu tư</td><td>20.861.761.027</td><td>376.768.400</td></tr><tr><td>Khác</td><td>3.740.712.888</td><td>6.520.663.952</td></tr><tr><td>Cộng</td><td>187.386.621.017</td><td>134.096.155.417</td></tr><tr><td colspan="3">Chi phí tài chính</td></tr><tr><td></td><td>Từ 01/01/2017đến 31/12/2017VND</td><td>Từ 01/02/2016đến 31/12/2016VND</td></tr><tr><td>Chi phí lãi vay</td><td>104.092.727.137</td><td>121.515.953.358</td></tr><tr><td>Lỗ chênh lệch tỷ giả</td><td>98.862.544.103</td><td>54.246.794.748</td></tr><tr><td>Chi phí tài chính khác</td><td>3.723.630.319</td><td>349.881.938</td></tr><tr><td>Cộng</td><td>206.678.901.559</td><td>176.112.630.044</td></tr><tr><td colspan="3">Chi phí bán hàng</td></tr><tr><td></td><td>Từ 01/01/2017đến 31/12/2017VND</td><td>Từ 01/02/2016đến 31/12/2016VND</td></tr><tr><td>Chi phí nhân viên</td><td>24.947.679.487</td><td>21.836.237.268</td></tr><tr><td>Chi phí nguyên liệu, vật liệu</td><td>41.562.295.122</td><td>29.922.413.992</td></tr><tr><td>Chi phí hoa hồng</td><td>8.087.748.012</td><td>6.140.375.458</td></tr><tr><td>Chi phí vận chuyển</td><td>2.344.919.080</td><td>1.044.132.200</td></tr><tr><td>Chi phí khác bằng tiền</td><td>61.099.248.433</td><td>53.099.393.065</td></tr><tr><td>Cộng</td><td>138.041.890.134</td><td>112.042.551.983</td></tr></table>
+
+(Xem tiếp trang sau)
+
+51
+
+||| |NG| |NH| |AN| |HE| |PH|
+
+===== PAGE 55 =====
+TỔNG CÔNG TY CÓ PHẦN PHÁT TRIỂN
+
+KHU CÔNG NGHIỆP VÀ CÁC CÔNG TY CON
+
+Địa chỉ: Số 1, Đường 1, KCN Biên Hòa 1,
+
+Phường An Bình, Thành phố Biên Hòa, Tỉnh Đồng Nai
+
+BÁO CÁO TÀI CHÍNH HỢP NHẤT
+
+Cho năm tài chính kết thúc ngày 31/12/2017
+
+THUYẾT MINH BẢO CÁO TÀI CHÍNH HỢP NHẤT (TIẾP THEO)
+
+5.6. Chi phí quản lý doanh nghiệp
+
+<table><tr><td></td><td>Từ 01/01/2017đến 31/12/2017VND</td><td>Từ 01/02/2016đến 31/12/2016VND</td></tr><tr><td>Chi phí nhân viên quản lý</td><td>183.674.277.541</td><td>167.270.350.544</td></tr><tr><td>Chi phí nguyên liệu, vật liệu</td><td>3.312.997.818</td><td>3.476.431.574</td></tr><tr><td>Chi phí đồ dùng văn phòng</td><td>3.154.764.593</td><td>3.973.079.728</td></tr><tr><td>Chi phí khấu hao tài sản cố định</td><td>11.853.163.659</td><td>13.949.034.195</td></tr><tr><td>Thuế, phí, lệ phí</td><td>8.073.212.583</td><td>7.764.242.262</td></tr><tr><td>Chi phí dự phòng</td><td>13.491.707.207</td><td>947.677.433</td></tr><tr><td>Chi phí dịch vụ mua ngoài</td><td>32.346.450.472</td><td>26.895.512.916</td></tr><tr><td>Chi phí khác bằng tiền</td><td>93.355.110.716</td><td>74.633.894.515</td></tr><tr><td>Cộng</td><td>349.261.684.589</td><td>298.910.223.167</td></tr></table>
+
+5.7. Thu nhập khác
+
+<table><tr><td></td><td>Từ 01/01/2017đến 31/12/2017VND</td><td>Từ 01/02/2016đến 31/12/2016VND</td></tr><tr><td>Lãi do đánh giá lại tài sản</td><td>44.546.065.278</td><td>-</td></tr><tr><td>Thu tiền phạt do vi phạm hợp đồng kinh tế</td><td>126.235.000</td><td>3.490.549.450</td></tr><tr><td>Thu nhập từ thanh lý tài sản cố định</td><td>500.350.001</td><td>2.945.635.816</td></tr><tr><td>Thu nhập khác</td><td>16.920.090.863</td><td>28.584.192.804</td></tr><tr><td>Cộng</td><td>62.092.741.142</td><td>35.020.378.070</td></tr></table>
+
+5.8. Chi phí sản xuất kinh doanh theo yếu tố
+
+<table><tr><td></td><td>Từ 01/01/2017đến 31/12/2017VND</td><td>Từ 01/02/2016đến 31/12/2016VND</td></tr><tr><td>Chi phí nguyên liệu, vật liệu</td><td>540.322.709.089</td><td>691.750.720.006</td></tr><tr><td>Chi phí nhân công</td><td>620.809.914.139</td><td>660.068.074.370</td></tr><tr><td>Chi phí khấu hao tài sản cố định</td><td>442.942.579.231</td><td>391.321.907.155</td></tr><tr><td>Chi phí dự phòng</td><td>15.806.149.824</td><td>(1.249.798.319)</td></tr><tr><td>Chi phí dịch vụ mua ngoài</td><td>690.270.040.499</td><td>786.971.919.139</td></tr><tr><td>Chi phí khác bằng tiền</td><td>839.366.644.943</td><td>733.968.289.691</td></tr><tr><td>Cộng</td><td>3.149.518.037.725</td><td>3.262.831.112.042</td></tr></table>
+
+(Xem tiếp trang sau)
+
+52
+
+197 12 M
+
+===== PAGE 56 =====
+TỔNG CÔNG TY CÓ PHẦN PHÁT TRIỂN
+
+KHU CÔNG NGHIỆP VÀ CÁC CÔNG TY CON
+
+Địa chỉ: Số 1, Đường 1, KCN Biên Hòa 1,
+
+Phường An Bình, Thành phố Biên Hòa, Tỉnh Đồng Nai
+
+BÁO CÁO TÀI CHÍNH HỢP NHẤT
+
+Cho năm tài chính kết thúc ngày 31/12/2017
+
+THUYẾT MINH BẢO CẢO TÀI CHÍNH HỢP NHẤT (TIẾP THEO)
+
+5.9. Chi phí thuế thu nhập doanh nghiệp hiện hành
+
+<table><tr><td></td><td>Từ 01/01/2017đến 31/12/2017VND</td><td>Từ 01/02/2016đến 31/12/2016VND</td></tr><tr><td>Chi phí thuế TNDN tỉnh trên thu nhập chịu thuế năm hiện hành của Tập đoàn</td><td>125.326.732.292</td><td>107.026.247.861</td></tr></table>
+
+Chi phi thuế TNDN hiện hành được hợp nhất từ chi phí thuế TNDN của các công ty trong Tập đoàn với thuế suất TNDN là 20% đối với tất cả các công ty trong Tập đoàn (trừ hoạt động thu gom và xử lý chất thải, nước thải của Công ty Cổ phần Dịch vụ Sonadezi với thuế suất thuế TNDN là 10%).
+
+<table><tr><td></td><td>Từ 01/01/2017đến 31/12/2017VND</td><td>Từ 01/02/2016đến 31/12/2016VND</td></tr><tr><td colspan="3">Chi phí thuế TNDN tính trên thu nhập chịu thuế năm hiện hành</td></tr><tr><td>Tổng Công ty Cổ phần phát triển khu công nghiệp</td><td>12.057.696.579</td><td>968.053.013</td></tr><tr><td>Công ty Cổ phần Sonadezi Giang Điền</td><td>7.114.000.611</td><td>-</td></tr><tr><td>Công ty Cổ phần Cấp nước Đồng Nai</td><td>11.458.910.219</td><td>17.540.014.868</td></tr><tr><td>Công ty Cổ phần Môi trường Sonadezi</td><td>6.689.272.998</td><td>6.171.582.570</td></tr><tr><td>Công ty Cổ phần Cắng Đồng Nai</td><td>8.521.405.033</td><td>3.723.901.102</td></tr><tr><td>Công ty Cổ phần Công trình Giao thông Đồng Nai</td><td>-</td><td>2.793.529</td></tr><tr><td>Công ty Cổ phần Đầu tư Xây dựng và Vật liệu Đồng Nai</td><td>1.870.351.160</td><td>1.110.434.535</td></tr><tr><td>Công ty Cổ phần Kinh doanh nhà Đồng Nai</td><td>1.011.111.236</td><td>4.735.652.183</td></tr><tr><td>Công ty Cổ phần Phát triển Đỏ thị Công nghiệp số 2</td><td>18.851.586.383</td><td>15.632.086.576</td></tr><tr><td>Công ty Cổ phần Sonadezi Long Thành</td><td>16.458.214.430</td><td>20.426.761.648</td></tr><tr><td>Công ty Cổ phần Sonadezi Long Bình</td><td>26.851.944.916</td><td>29.422.655.385</td></tr><tr><td>Công ty Cổ phần Dịch vụ Sonadezi</td><td>1.279.925.766</td><td>956.277.059</td></tr><tr><td>Công ty Cổ phần Sonadezi Châu Đức</td><td>10.335.185.554</td><td>4.957.621.603</td></tr><tr><td>Công ty Cổ phần Sonadezi An Bình</td><td>2.827.127.407</td><td>1.378.413.790</td></tr><tr><td>Tổng chi phí thuế TNDN hiện hành</td><td>125.326.732.292</td><td>107.026.247.861</td></tr></table>
+
+5.10. Chi phí thuế thu nhập doanh nghiệp hoãn lại
+
+Tài sản thuế TNDN hoãn lại của Tập đoàn được trình bày như sau:
+
+<table><tr><td></td><td>Tại ngày31/12/2017VND</td><td>Tại ngày01/01/2017VND</td></tr><tr><td>Tải sản thuế hoãn lại</td><td>24.762.696.476</td><td>28.767.934.040</td></tr><tr><td>Cộng</td><td>24.762.696.476</td><td>28.767.934.040</td></tr></table>
+
+53
+
+\( \therefore {SA} = {BN} + {SA} - {BN} + {SA} \)
+
+===== PAGE 57 =====
+TỔNG CÔNG TY CÓ PHẦN PHÁT TRIỂN
+
+KHU CÔNG NGHIỆP VÀ CÁC CÔNG TY CON
+
+Địa chỉ: Số 1, Đường 1, KCN Biên Hòa 1,
+
+Phường An Bình, Thành phố Biên Hòa, Tỉnh Đồng Nai
+
+BÁO CÁO TÀI CHÍNH HỢP NHẤT
+
+Cho năm tài chính kết thúc ngày 31/12/2017
+
+THUYẾT MINH BẢO CẢO TÀI CHÍNH HỢP NHẤT (TIẾP THEO)
+
+Tài sản thuế TNDN hoãn lại của Tập đoàn và những biển động trong năm và năm trước được trình bày như sau:
+
+<table><tr><td></td><td>Khâu haoTSCDVND</td><td>Chi phí trichtrướcVND</td><td>Lãi nội bộVND</td><td>KhắcVND</td><td>CộngVND</td></tr><tr><td>Tai ngày 01/01/2016Hạch toán là chi phí (thu nhập) trong kết quả kinh doanh năm trước</td><td>124.369.677</td><td>4.178.482.2531.908.421.000</td><td>25.751.691.151(3.195.030.041)</td><td>(1.497.916.569)1.497.916.569</td><td>28.432.256.835335.677.205</td></tr><tr><td>Tai ngày 01/01/2017Hạch toán là chi phí (thu nhập) trong kết quả kinh doanh năm nay</td><td>124.369.677167.808.164</td><td>6.086.903.253(134.055.800)</td><td>22.556.661.110(4.038.989.928)</td><td>-</td><td>28.767.934.040(4.005.237.564)</td></tr><tr><td>Tại ngày 31/12/2017</td><td>292.177.841</td><td>5.952.847.453</td><td>18.517.671.182</td><td>-</td><td>24.762.696.476</td></tr></table>
+
+6. THÔNG TIN BÓ SUNG CHO CÁC KHOÀN MỤC TRÌNH BÀY TRÊN BÁO CÁO LƯU CHUYẾN TIÊN TỆ HỢP NHẤT
+
+6.1. Số tiền đi vay thực thu trong năm
+
+<table><tr><td></td><td>Từ 01/01/2017đến 31/12/2017VND</td><td>Từ 01/02/2016đến 31/12/2016VND</td></tr></table>
+
+Tiền thu từ đi vay theo khế ước thông thường
+
+1.706.861.437.200
+
+1.605.750.360.388
+
+6.2. Số tiền đã thực trả gốc vay trong năm
+
+Tiền thu từ đi vay theo khế ước thông thường
+
+<table><tr><td>Từ 01/01/2017đến 31/12/2017VND</td><td>Từ 01/02/2016đến 31/12/2016VND</td></tr></table>
+
+(1.261.180.754.471)
+
+(1.829.470.918.474)
+
+54
+
+===== PAGE 58 =====
+TỔNG CÔNG TY CỔ PHẦN PHẦT TRIỂN
+KHU CÔNG NGHIỆP VÀ CÁC CÔNG TY CON
+Địa chỉ: Số 1, Đường 1, KCN Biên Hòa 1
+Phường An Bình, TP. Biên Hòa, Tỉnh Đồng Nai
+
+BÁO CẢO TÀI CHÍNH HỢP NHẤT
+Cho năm tài chính kết thúc ngày 31/12/2017
+
+THUYẾT MINH BẢO CẢO TÀI CHÍNH HỢP NHẤT (TIỂP THEO)
+
+7. BẢO CẢO BỘ PHẦN
+
+Nhàm phục vụ mục đích quản lý, Tập đoàn có quy mô hoạt động trên toàn quốc phân chia hoạt động của minh thành các bộ phận chính yếu theo lĩnh vực sản xuất kinh doanh như sau:
+- Lĩnh vực bản hàng;
+- Lĩnh vực cung cấp dịch vụ;
+- Lĩnh vực cho thuê khu công nghiệp;
+- Các lĩnh vực khác.
+
+Cho năm tài chính từ ngày 01/01/2017 đến ngày 31/12/2017
+
+<table><tr><td rowspan="2"></td><td colspan="2">Bán hàng</td><td colspan="2">Cung cấp dịch vụ</td><td colspan="2">Cho thuê khu côngnghiệp</td><td colspan="2">Hoạt động khác</td><td colspan="2">Loại trừ</td><td colspan="2">Đơn vị tỉnh: Triệu đồngTổng công</td></tr><tr><td>Năm nay</td><td>Năm trước</td><td>Năm nay</td><td>Năm trước</td><td>Năm nay</td><td>Năm trước</td><td>Năm nay</td><td>Năm trước</td><td>Năm nay</td><td>Năm trước</td><td>Năm nay</td><td>Năm trước</td></tr><tr><td>Doanh thu</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Từ khách hàngbên ngoài</td><td>1.269.476</td><td>851.211</td><td>1.304.537</td><td>1.067.915</td><td>649.957</td><td>432.303</td><td>563.448</td><td>1.292.311</td><td>-</td><td>-</td><td>3.787.418</td><td>3.643.740</td></tr><tr><td>Giữa các bộ phận</td><td>137.270</td><td>124.595</td><td>43.945</td><td>37.727</td><td>8.155</td><td>3.879</td><td>55.760</td><td>71.435</td><td>(245.130)</td><td>(237.636)</td><td>-</td><td>-</td></tr><tr><td>Cộng</td><td>1.406.746</td><td>975.806</td><td>1.348.482</td><td>1.105.642</td><td>658.112</td><td>436.182</td><td>619.208</td><td>1.363.746</td><td>(245.130)</td><td>(237.636)</td><td>3.787.418</td><td>3.643.740</td></tr></table>
+
+(Xem tiếp trang sau)
+
+55
+
+《》/MEN 10 CO \( ^{32} \)
+
+===== PAGE 59 =====
+TỔNG CÔNG TY CỔ PHẦN PHÁT TRIỂN
+
+KHU CÔNG NGHIỆP VÀ CÁC CÔNG TY CON
+
+BAO CAO TAI CHINH HỢP NHAT
+Cho năm tài chính kết thúc ngày 31/12/2017
+
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (TIẾP THEO)
+
+7. BÁO CÁO BỘ PHẠN (TIẾP THEO)
+
+Bán hàng
+
+<table><tr><td></td><td>Năm nay</td><td>Năm trước</td><td>Năm nay</td><td>Năm trước</td><td>Năm nay</td><td>Năm trước</td><td>Năm nay</td><td>Năm trước</td><td>Năm nay</td><td>Năm trước</td></tr><tr><td colspan="11">Kết quả hoạt động kinh doanh</td></tr><tr><td>Kết quả của bộ phận</td><td>402.574</td><td>213.789</td><td>325.432</td><td>205.355</td><td>335.219</td><td>225.125</td><td>95.943</td><td>492.422</td><td>1.159.168</td><td>1.136.691</td></tr><tr><td>Chi phí không phân bổ</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>(487.304)</td><td>(410.953)</td></tr><tr><td>Phần lãi hoặc lỗ trong công ty liên kết</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>14.455</td><td>9.450</td></tr><tr><td>Thu nhập khác không phân bổ</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>53.435</td><td>17.156</td></tr><tr><td>Lợi nhuận trước thuế, thu nhập tài chính và chi phí tài chính</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>739.754</td><td>752.344</td></tr><tr><td>Thu nhập tài chính</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>187.387</td><td>134.096</td></tr><tr><td>Chi phí tài chính</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>(206.679)</td><td>(176.113)</td></tr><tr><td>Lợi nhuận trước thuế</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>720.462</td><td>710.327</td></tr><tr><td>Thuế thu nhập doanh nghiệp</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>(125.327)</td><td>(107.026)</td></tr><tr><td>Chi phí thuế TNDN hoãn lại</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>(4.005)</td><td>336</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>591.130</td><td>603.637</td></tr></table>
+
+56
+
+111 2023.10
+
+===== PAGE 60 =====
+TỔNG CÔNG TY CỔ PHẦN PHÁT TRIỂN
+
+KHU CÔNG NGHIỆP VÀ CẮC CÔNG TY CON
+
+Đia chỉ: Số 1, Đường 1, KCN Biên Hòa 1
+
+Phường An Bình, TP. Biên Hòa, Tỉnh Đồng Nai
+
+BÁO CẢO TÀI CHÍNH HỢP NHẤT
+Cho năm tài chính kết thúc ngày 31/12/2017
+
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (TIẾP THEO)
+
+7. BÁO CÁO BỘ PHẠN (TIẾP THEO)
+
+Các thông tin khác
+
+<table><tr><td colspan="11">Các thông tin khác</td></tr><tr><td rowspan="2"></td><td colspan="2">Bán hàng</td><td colspan="2">Cung cấp dịch vụ</td><td colspan="2">Cho thuê khu côngnghiệp</td><td colspan="2">Hoạt động khác</td><td colspan="2">Đơn vị tính: Triệu đồngTổng công</td></tr><tr><td>Tại ngày31/12/2017</td><td>Tại ngày01/01/2017</td><td>Tại ngày31/12/2017</td><td>Tại ngày01/01/2017</td><td>Tại ngày31/12/2017</td><td>Tại ngày01/01/2017</td><td>Tại ngày31/12/2017</td><td>Tại ngày01/01/2017</td><td>Tại ngày31/12/2017</td><td>Tại ngày01/01/2017</td></tr><tr><td>Tải sản của bộphân</td><td>-</td><td>-</td><td>-</td><td>-</td><td>1.952.408</td><td>1.780.457</td><td>-</td><td>-</td><td>1.952.408</td><td>1.780.457</td></tr><tr><td>Tải sản khôngphân bổ</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>13.888.612</td><td>12.755.186</td></tr><tr><td>Tổng tài sản</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>15.841.020</td><td>14.535.643</td></tr><tr><td rowspan="2"></td><td colspan="2">Bán hàng</td><td colspan="2">Cung cấp dịch vụ</td><td colspan="2">Cho thuê khu côngnghiệp</td><td colspan="2">Hoạt động khác</td><td colspan="2">Đơn vị tính: Triệu đồngTổng công</td></tr><tr><td>Tại ngày31/12/2017</td><td>Tại ngày01/01/2017</td><td>Tại ngày31/12/2017</td><td>Tại ngày01/01/2017</td><td>Tại ngày31/12/2017</td><td>Tại ngày01/01/2017</td><td>Tại ngày31/12/2017</td><td>Tại ngày01/01/2017</td><td>Tại ngày31/12/2017</td><td>Tại ngày01/01/2017</td></tr><tr><td>Nợ phải trả khôngphân bổ</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>9.118.317</td><td>8.250.120</td></tr><tr><td rowspan="2"></td><td colspan="2">Bán hàng</td><td colspan="2">Cung cấp dịch vụ</td><td colspan="2">Cho thuê khu côngnghiệp</td><td colspan="2">Hoạt động khác</td><td colspan="2">Đơn vị tính: Triệu đồngTổng công</td></tr><tr><td>Năm nay</td><td>Năm trước</td><td>Năm nay</td><td>Năm trước</td><td>Năm nay</td><td>Năm trước</td><td>Năm nay</td><td>Năm trước</td><td>Năm nay</td><td>Năm trước</td></tr><tr><td>Chi phí mua sảmtài sản</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>1.107.567</td><td>1.341.008</td></tr><tr><td>Chi phí khấu hao</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>442.943</td><td>391.322</td></tr></table>
+
+Tập đoàn không có báo cáo bộ phận theo khu vực địa lý vi hoạt động của Tập đoàn hoàn toàn tại Việt Nam, do đỏ không có sự khác nhau về rủi ro và lợi ích kinh tế theo khu vực đại lý cần thiết phải thuyết minh.
+
+57
+
+||| |
+
+===== PAGE 61 =====
+TỔNG CÔNG TY CÓ PHẦN PHÁT TRIỂN
+
+KHU CÔNG NGHIỆP VÀ CÁC CÔNG TY CON
+
+Địa chỉ: Số 1, Đường 1, KCN Biên Hòa 1,
+
+Phường An Bình, Thành phố Biên Hòa, Tỉnh Đồng Nai
+
+BÁO CÁO TÀI CHÍNH HỢP NHẤT
+
+Cho năm tài chính kết thúc ngày 31/12/2017
+
+THUYẾT MINH BẢO CÁO TÀI CHÍNH HỢP NHẤT (TIẾP THEO)
+
+8. THÔNG TIN VỀ CÁC BÊN LIÊN QUAN
+
+<table><tr><td colspan="2">Danh sách các bên liên quan</td><td>Môi quan hệ</td></tr><tr><td>1.</td><td>Công ty Cổ phần Sơn Đồng Nai</td><td>Công ty liên kết</td></tr><tr><td>2.</td><td>Công ty Cổ phần Xây dựng Dân dụng Công nghiệp số 1 Đồng Nai</td><td>Công ty liên kết</td></tr><tr><td>3.</td><td>Công ty Cổ phần Vận tải Thủy bổ Vĩnh Phú</td><td>Công ty liên kết đến ngày 18/07/2017</td></tr><tr><td>4.</td><td>Công ty Cổ phần Bến xe và Dịch vụ Vận tải Đồng Nai</td><td>Công ty liên kết</td></tr><tr><td>5.</td><td>Công ty Cổ phần Dịch vụ Cáng Đồng Nai</td><td>Công ty liên kết</td></tr><tr><td>6.</td><td>Công ty TNHH Berjaya D2D</td><td>Công ty liên kết</td></tr><tr><td>7.</td><td>Công ty Cổ phần Cảng Long Thành</td><td>Công ty liên kết</td></tr><tr><td>8.</td><td>Công ty Cổ phần Xây dựng Đồng Nai</td><td>Công ty liên kết</td></tr><tr><td>9.</td><td>Công ty Cổ phần Dịch vụ và Xây dựng Cấp nước Đồng Nai</td><td>Công ty liên kết</td></tr><tr><td>10.</td><td>Trường Cao đẳng Công nghệ và Quản trị Sonadezi</td><td>Công ty liên kết</td></tr><tr><td>11.</td><td>Công ty Cổ phần Cấp nước Gia Tân</td><td>Công ty liên kết</td></tr><tr><td>12.</td><td>Công ty Cổ phần Đầu tư Quốc lộ 91 Cần Thơ - An Giang</td><td>Công ty liên kết</td></tr><tr><td>13.</td><td>Công ty Cổ phần Xây lắp Sonacons</td><td>Công ty liên kết</td></tr><tr><td>14.</td><td>Hội đồng quản trị và Ban Tổng Giám đốc Tổng Công ty</td><td>Nhân sự quản lý chủ chốt</td></tr></table>
+
+Giao dịch nội bộ giữa các công ty trong Tập đoàn đã được loại trừ toàn bộ trong quá trình hợp nhất.
+
+Tại ngày lập bằng cân đối kế toán, số dư phải thu (phải trả) với các bên liên quan như sau:
+
+<table><tr><td></td><td>Tại ngày31/12/2017VND</td><td>Tại ngày01/01/2017VND</td></tr><tr><td>Phải thu ngắn hạn của khách hàng:Công ty Cổ phần Dịch vụ và Xây dựng Cấp nước ĐồngNai</td><td>13.803.337.692</td><td>22.734.513.275</td></tr><tr><td>Công ty Cổ phần Xây lắp Sonacons</td><td>4.011.617.783</td><td>4.886.238.540</td></tr><tr><td>Trường Cao đẳng Công nghệ và Quản trị Sonadezi</td><td>38.326.050</td><td>52.176.075</td></tr><tr><td>Công ty Cổ phần Dịch vụ Cảng Đông Nai</td><td>-</td><td>88.153.461</td></tr><tr><td>Công ty Cổ phần Cảng Long Thành</td><td>4.102.708</td><td>-</td></tr><tr><td>Công ty Cổ phần Xây dựng Dân dụng Công nghiệp số1 Đồng Nai</td><td>595.236.501</td><td>554.962.251</td></tr><tr><td>Cộng - Xem thêm mục 4.3</td><td>18.452.620.734</td><td>28.316.043.602</td></tr><tr><td></td><td>Tại ngày31/12/2017VND</td><td>Tại ngày01/01/2017VND</td></tr><tr><td>Trả trước cho người bán ngắn hạn:Công ty Cổ phần Xây dựng Đồng Nai</td><td>3.287.000.000</td><td>2.143.161.000</td></tr><tr><td>Công ty Cổ phần Xây dựng Dân dụng Công Nghiệp số 1 Đồng Nai</td><td>2.720.329.000</td><td></td></tr><tr><td>Cộng - Xem thêm mục 4.4</td><td>6.007.329.000</td><td>2.143.161.000</td></tr></table>
+
+58
+
+VAN
+
+===== PAGE 62 =====
+TỔNG CÔNG TY CỔ PHẦN PHÁT TRIỂN
+
+KHU CÔNG NGHIỆP VÀ CÁC CÔNG TY CON
+
+Địa chỉ: Số 1, Đường 1, KCN Biên Hòa 1,
+
+Phường An Bình, Thành phố Biên Hòa, Tỉnh Đồng Nai
+
+BÁO CÁO TÀI CHÍNH HỢP NHẤT
+
+Cho năm tài chính kết thúc ngày 31/12/2017
+
+THUYẾT MINH BẢO CẢO TÀI CHÍNH HỢP NHẤT (TIẾP THEO)
+
+8. THÔNG TIN VỀ CÁC BÊN LIÊN QUAN (TIÉP THEO)
+
+<table><tr><td></td><td>Tại ngày31/12/2017VND</td><td>Tại ngày01/01/2017VND</td></tr><tr><td>Phải thu về cho vay ngắn hạn - Xem thêm mục 4.5:Công ty Cổ phần Dịch vụ và Xây dựng Cấp nước Đồng Nai</td><td>15.000.000.000</td><td>20.000.000.000</td></tr><tr><td></td><td>Tại ngày31/12/2017VND</td><td>Tại ngày01/01/2017VND</td></tr><tr><td>Phải thu ngắn hạn khác - Xem thêm mục 4.6:Công ty Cổ phần Xây dựng Dân dụng Công nghiệp Số 1 Đồng Nai</td><td>-</td><td>5.760.000</td></tr><tr><td></td><td>Tại ngày31/12/2017VND</td><td>Tại ngày01/01/2017VND</td></tr><tr><td>Phải trả người bán ngắn hạn:Công ty Cổ phần Dịch vụ Cảng Đồng NaiCông ty Cổ phần Dịch vụ và Xây dựng Cấp nước Đồng NaiCông ty Cổ phần Xây dựng Đồng NaiCông ty Cổ phần Cảng Long ThànhCông ty Cổ phần Xây dựng Dân dụng Công Nghiệp số 1 Đồng NaiCông ty Cổ phần Xây lặp Sonacons</td><td>8.981.166.05120.331.006.5001.490.087.000-4.734.091.725</td><td>4.928.956.20410.756.312.943-71.504.4303.267.750.4716.885.441.239</td></tr><tr><td>Cộng - Xem thêm mục 4.15</td><td>35.536.351.276</td><td>25.909.965.287</td></tr></table>
+
+Thu nhập của nhân sự quản lý chủ chốt được hưởng trong năm như sau:
+
+<table><tr><td></td><td>Từ 01/01/2017đến 31/12/2017VND</td><td>Từ 01/02/2016đến 31/12/2016VND</td></tr><tr><td>Thu nhập của nhân sự quản lý chủ chốt</td><td>6.827.837.715</td><td>6.756.334.561</td></tr></table>
+
+9. THU NHẬP CỦA BAN KIỂM SOÁT
+
+<table><tr><td></td><td>Từ 01/01/2017đến 31/12/2017VND</td><td>Từ 01/02/2016đến 31/12/2016VND</td></tr><tr><td>Thu nhập và thủ lao</td><td>813.746.248</td><td>665.865.375</td></tr></table>
+
+59
+
+===== PAGE 63 =====
+TỔNG CÔNG TY CỔ PHẦN PHÁT TRIỂN
+
+KHU CÔNG NGHIỆP VÀ CÁC CÔNG TY CON
+
+Địa chỉ: Số 1, Đường 1, KCN Biên Hòa 1,
+
+Phường An Bình, Thành phố Biên Hòa, Tỉnh Đồng Nai
+
+BÁO CÁO TÀI CHÍNH HỢP NHẤT
+
+Cho năm tài chính kết thúc ngày 31/12/2017
+
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (TIẾP THEO)
+
+10. CAM KẾT THEO CÁC HỢP ĐÔNG THUÊ HOẠT ĐỘNG
+
+Đối với bên cho thuê
+
+Tập đoàn cho thuê văn phòng, nhà xưởng, cho thuê các Khu công nghiệp theo các hợp đồng thuê hoạt động. Các hợp đồng cho thuê có kỳ hạn trung bình như sau:
+
+Kỳ hạn trung bình
+
+<table><tr><td>Cho thuê văn phòng</td><td>03 năm</td></tr><tr><td>Cho thuê khu công nghiệp</td><td>45 năm</td></tr><tr><td>Cho thuê nhà xưởng</td><td>05 năm</td></tr></table>
+
+Khoản tiền cho thuê cố định mỗi kỳ ghi nhận trong năm được chi tiết như sau:
+
+<table><tr><td></td><td>Từ 01/01/2017đến 31/12/2017VND</td><td>Từ 01/02/2016đến 31/12/2016VND</td></tr><tr><td>Doanh thu cho thuê văn phòng</td><td>30.406.324.577</td><td>22.812.358.862</td></tr><tr><td>Doanh thu cho thuê khu công nghiệp</td><td>329.550.125.966</td><td>254.178.338.940</td></tr><tr><td>Doanh thu cho thuê nhà xưởng</td><td>112.515.540.822</td><td>85.235.983.161</td></tr><tr><td>Cộng</td><td>472.471.991.365</td><td>362.226.680.963</td></tr></table>
+
+Tại ngày 31/12/2017, Công ty có các khoản thanh toán tiền thuê tối thiểu trong tương lai của các hợp đồng thuê hoạt động không huỷ ngang theo các thời hạn:
+
+<table><tr><td></td><td>Tại ngày31/12/2017VND</td><td>Tại ngày01/01/2017VND</td></tr><tr><td>Từ 1 năm trở xuống</td><td>378.918.853.419</td><td>353.612.307.037</td></tr><tr><td>Trên 1 năm đến 5 năm</td><td>1.019.855.693.278</td><td>1.143.675.490.498</td></tr><tr><td>Trên 5 năm</td><td>5.757.964.260.065</td><td>6.190.424.174.329</td></tr><tr><td>Cộng</td><td>7.156.738.806.762</td><td>7.687.711.971.864</td></tr></table>
+
+11. CAM KẾT VỐN
+
+Các cam kết về chi tiêu tạo lập tài sản cố định đã ký hợp đồng tại ngày lập bảng cân đối kế toán nhưng chưa được hạch toán vào báo cáo tài chính như sau:
+
+<table><tr><td></td><td>Tại ngày31/12/2017VND</td><td>Tại ngày01/01/2017VND</td></tr><tr><td>Công trình xây dựng khu xử lý chất thải tại Xã Vĩnh Tân,Huyện Vĩnh Cửu, Tỉnh Đồng Nai</td><td>35.165.041.492</td><td>35.165.041.492</td></tr></table>
+
+60
+
+图 8
+
+===== PAGE 64 =====
+TỔNG CÔNG TY CỔ PHẦN PHÁT TRIỂN
+
+KHU CÔNG NGHIỆP VÀ CÁC CÔNG TY CON
+
+Địa chỉ: Số 1, Đường 1, KCN Biên Hòa 1,
+
+Phường An Bình, Thành phố Biên Hòa, Tỉnh Đồng Nai
+
+BÁO CÁO TÀI CHÍNH HỢP NHẤT
+
+Cho năm tài chính kết thúc ngày 31/12/2017
+
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (TIẾP THEO)
+
+12. SÓ LIỆU SO SÁNH
+
+Ngày 01 tháng 02 năm 2016 Tổng Công ty chính thức chuyển đổi từ Tổng Công ty Phát triển Khu công nghiệp (Doanh nghiệp Nhà nước) thành Tổng Công ty Cổ phần Phát triển Khu công nghiệp, báo cáo tài chính hợp nhất này được lập cho ký kế toán từ ngày 01/01/2017 đến ngày 31/12/2017. Những thông tin ký trước trên báo cáo kết quả kinh doanh và báo cáo lưu chuyển tiền tệ được trình bay tương ứng với số liệu của báo cáo tài chính hợp nhất cho giai đoạn từ ngày 01/02/2016 đến ngày 31/12/2016. Do đó, các số liệu này không có tỉnh so sánh.
+
+Ngoài ra, một vài số liệu so sánh đã được điều chỉnh hồi tố theo Thông báo kết quả Kiểm toán số 396/KTNN-TH ngày 30 tháng 08 năm 2017 của Kiểm toán Nhà nước như được trình bày dưới đây.
+
+Bàng cân đối kế toán hợp nhất (Trich):
+
+<table><tr><td></td><td>Tại ngày01/01/2017VND(Được báo cáo lại)</td><td>Tại ngày01/01/2017VND(Đã được báo cáo trước đây)</td></tr><tr><td>Phải thu ngắn hạn khác</td><td>97.566.017.845</td><td>96.004.909.092</td></tr><tr><td>Hàng tồn kho</td><td>979.884.051.358</td><td>1.000.282.316.467</td></tr><tr><td>Thuế và các khoản khác phải thu Nhà nước</td><td>45.416.838.809</td><td>45.298.716.473</td></tr><tr><td>TSCĐ hữu hình</td><td>3.554.694.702.699</td><td>3.877.872.636.891</td></tr><tr><td>+ Nguyên giá</td><td>5.945.187.465.523</td><td>6.288.068.871.314</td></tr><tr><td>+ Giá trị hao mòn lũy kế</td><td>(2.390.492.762.824)</td><td>(2.410.196.234.423)</td></tr><tr><td>TSCĐ vô hình</td><td>408.461.096.906</td><td>80.884.761.537</td></tr><tr><td>+ Nguyên giá</td><td>495.975.499.444</td><td>153.094.093.653</td></tr><tr><td>+ Giá trị hao mòn lũy kế</td><td>(87.514.402.538)</td><td>(72.209.332.116)</td></tr><tr><td>Bất động sản đầu tư</td><td>1.782.810.070.358</td><td>1.779.721.600.262</td></tr><tr><td>+ Nguyên giá</td><td>2.691.428.722.466</td><td>2.689.076.418.153</td></tr><tr><td>+ Giá trị hao mòn lũy kế</td><td>(908.618.652.108)</td><td>(909.354.817.891)</td></tr><tr><td>Chi phí xây dựng cơ bản dở dang</td><td>2.124.404.971.374</td><td>2.124.073.103.160</td></tr><tr><td>Chi phí trả trước dài hạn</td><td>570.906.981.623</td><td>460.543.304.530</td></tr><tr><td>Thuế và các khoản phải nộp Nhà nước</td><td>241.102.391.831</td><td>71.237.334.689</td></tr><tr><td>Phải trả người lao động</td><td>96.606.081.587</td><td>94.340.081.587</td></tr><tr><td>Chi phí phải trả ngắn hạn</td><td>118.799.103.506</td><td>137.396.164.572</td></tr><tr><td>Phải trả ngắn hạn khác</td><td>315.153.785.999</td><td>327.151.989.799</td></tr><tr><td>Quỹ khen thưởng, phúc lợi</td><td>106.911.919.469</td><td>107.007.538.292</td></tr><tr><td>Doanh thu chưa thực hiện dài hạn</td><td>2.902.609.037.937</td><td>2.926.452.896.842</td></tr><tr><td>Phải trả dài hạn khác</td><td>192.374.771.509</td><td>230.036.394.809</td></tr><tr><td>Cổ phiếu quỹ</td><td></td><td>(13.654.958.885)</td></tr><tr><td>Lợi nhuận sau thuế chưa phân phối:</td><td>576.999.501.003</td><td>564.103.974.144</td></tr><tr><td>+ LNST chưa phân phối kỳ trước</td><td>156.407.759.268</td><td>160.118.147.392</td></tr><tr><td>+ LNST chưa phân phối kỳ này</td><td>420.591.741.735</td><td>403.985.826.752</td></tr><tr><td>Lợi ích cổ đông không kiểm soát</td><td>1.898.171.022.305</td><td>1.893.136.626.295</td></tr><tr><td>Nguồn kinh phí</td><td>1.226.469.439</td><td>13.282.659.882</td></tr></table>
+
+61
+
+178 4G 4HH 4N 4T 4H
+
+===== PAGE 65 =====
+TỔNG CÔNG TY CỔ PHẦN PHÁT TRIỂN
+
+KHU CÔNG NGHIỆP VÀ CÁC CÔNG TY CON
+
+Địa chỉ: Số 1, Đường 1, KCN Biên Hòa 1,
+
+Phường An Bình, Thành phố Biên Hòa, Tỉnh Đồng Nai
+
+BÁO CÁO TÀI CHÍNH HỢP NHẤT
+
+Cho năm tài chính kết thúc ngày 31/12/2017
+
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (TIỂP THEO)
+
+Bảng cân đối kế toán hợp nhất (Trich):
+
+<table><tr><td></td><td>Tại ngày01/02/2016VND(Được báo cáo lại)</td><td>Tại ngày01/02/2016VND(Đã được báo cáo trước đây)</td></tr><tr><td>Phải thu ngắn hạn của khách hàng</td><td>637.443.835.261</td><td>633.057.561.397</td></tr><tr><td>Phải thu ngắn hạn khác</td><td>232.001.986.539</td><td>229.175.597.650</td></tr><tr><td>TSCĐ hữu hình</td><td>3.280.693.381.404</td><td>3.613.638.868.635</td></tr><tr><td>+ Nguyên giá</td><td>5.420.923.943.047</td><td>5.763.805.348.838</td></tr><tr><td>+ Giá trị hao món lũy kế</td><td>(2.140.230.561.643)</td><td>(2.150.166.480.203)</td></tr><tr><td>TSCĐ vô hình</td><td>434.535.401.514</td><td>100.214.071.910</td></tr><tr><td>+ Nguyên giá</td><td>513.046.432.666</td><td>170.165.026.875</td></tr><tr><td>+ Giá trị hao môn lũy kế</td><td>(78.511.031.152)</td><td>(69.950.954.965)</td></tr><tr><td>Chi phí xây dựng cơ bản dở dang</td><td>2.158.883.983.786</td><td>2.158.519.427.166</td></tr><tr><td>Chi phí trả trước dài hạn</td><td>213.660.679.953</td><td>212.858.797.437</td></tr><tr><td>Thuế và các khoản phải nộp Nhà nước</td><td>74.375.604.611</td><td>73.135.455.886</td></tr><tr><td>Chi phí phải trả ngắn hạn</td><td>105.367.872.578</td><td>106.688.407.255</td></tr><tr><td>Cổ phiếu quỹ</td><td></td><td>(13.654.958.885)</td></tr><tr><td>Lợi nhuận sau thuế chưa phân phối</td><td>402.764.857.667</td><td>406.980.839.009</td></tr><tr><td>+ LNST chưa phân phối kỳ trước</td><td>(249.908.777.116)</td><td>(249.908.777.116)</td></tr><tr><td>+ LNST chưa phân phối kỳ này</td><td>652.673.634.783</td><td>656.889.616.125</td></tr><tr><td>Lợi ích cổ đông không kiểm soát</td><td>1.805.712.923.901</td><td>1.805.316.571.230</td></tr><tr><td colspan="3">Kết quả hoạt động kinh doanh hợp nhất (Trích):</td></tr><tr><td></td><td>Từ ngày 01/02/2016đến 31/12/2016VND(Được báo cáo lại)</td><td>Từ ngày 01/02/2016đến 31/12/2016VND(Đã được báo cáo trước đây)</td></tr><tr><td>Doanh thu thuần bán hàng và cung cấp dịch vụ</td><td>3.648.925.532.035</td><td>3.629.467.946.994</td></tr><tr><td>Giá vốn hàng bán</td><td>2.507.048.838.453</td><td>2.511.936.303.078</td></tr><tr><td>Doanh thu hoạt động tài chính</td><td>134.096.155.417</td><td>135.361.435.553</td></tr><tr><td>Chi phí quản lý doanh nghiệp</td><td>298.910.223.167</td><td>296.958.504.891</td></tr><tr><td>Thu nhập khác</td><td>35.020.378.070</td><td>29.845.639.752</td></tr><tr><td>Chi phí khác</td><td>17.864.031.361</td><td>17.233.679.056</td></tr><tr><td>Chi phí thuê TNDN hiện hành</td><td>107.026.247.861</td><td>103.103.362.135</td></tr><tr><td colspan="3">Bảo cáo lưu chuyển tiền tệ hợp nhất (Trích):</td></tr><tr><td></td><td>Từ ngày 01/02/2016đến 31/12/2016VND(Được báo cáo lại)</td><td>Từ ngày 01/02/2016đến 31/12/2016VND(Đã được báo cáo trước đây)</td></tr><tr><td>Chỉ tiêu lợi nhuận trước thuế</td><td>710.328.402.489</td><td>684.655.965.222</td></tr><tr><td>Chỉ tiêu khấu hao TSCĐ và BĐSDĐT</td><td>391.321.907.155</td><td>395.080.631.742</td></tr><tr><td>Chỉ tiêu tăng, giảm các khoản phải thu</td><td>362.348.299.734</td><td>361.083.019.598</td></tr><tr><td>Chỉ tiêu tăng, giảm hàng tồn kho</td><td>47.260.942.934</td><td>40.433.167.299</td></tr><tr><td>Chỉ tiêu tăng, giảm các khoản phải trả</td><td>620.432.867.515</td><td>751.884.882.131</td></tr><tr><td>Chỉ tiêu tăng, giảm chi phí trả trước</td><td>(18.663.466.768)</td><td>(120.108.712.933)</td></tr></table>
+
+62
+
+11c/2 5743
+
+===== PAGE 66 =====
+TỔNG CÔNG TY CÓ PHẦN PHÁT TRIỂN
+
+KHU CÔNG NGHIỆP VÀ CÁC CÔNG TY CON
+
+Địa chỉ: Số 1, Đường 1, KCN Biên Hòa 1,
+
+Phường An Bình, Thành phố Biên Hòa, Tỉnh Đồng Nai
+
+BÁO CÁO TÀI CHÍNH HỢP NHẤT
+
+Cho năm tài chính kết thúc ngày 31/12/2017
+
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (TIẾP THEO)
+
+13. CÁC SỰ KIỆN SAU NGÀY KẾT THỨC KỸ KẾ TOÁN
+
+Không có các sự kiện quan trọng xảy ra sau ngày kết thúc ký kế toán đến ngày phát hành báo cáo tài chính hợp nhất.
+
+Phan Đình Thám
+
+Tổng Giám đốc
+
+Đồng Nai, ngày 30 tháng 03 năm 2018
+
+Phan Thùy Đoan
+
+Kế toán trường
+
+Nguyễn Thị Quyên
+
+Người lập
+
+63
