@@ -176,7 +176,7 @@ It must produce structured fields for:
 - period kind (`NAM`, `QUY`, `LUY_KE`),
 - statement scope (`HOP_NHAT`, `RIENG`),
 - metric(s),
-- operation (`none`, `ratio`, `growth`, `aggregate`, `compare`),
+- operation (`none`, `ratio`, `growth`, `aggregate`, `compare`, `unknown`),
 - ambiguity/missing information,
 - confidence.
 
@@ -189,6 +189,14 @@ Example:
 ```
 
 When a value is inferred rather than explicitly stated, the structured output should retain that fact where relevant.
+
+`unknown` is a canonical operation value. It represents an empty request or an
+operation conflict that the deterministic v1 detector cannot resolve safely;
+it is distinct from `none`, which means that no operation indicator was found.
+
+Requested output scale parsing v1 recognizes only `THOUSAND`, `MILLION`,
+`BILLION`, and `PERCENT` from explicit supported question wording. Currency and
+unit parsing remain deferred, so `requested_unit` remains `null` in v1.
 
 ## 8. Planning Requirements
 
@@ -310,6 +318,7 @@ The system should preserve:
 Scale may come from:
 
 - table headers,
+- table captions,
 - row/column labels,
 - surrounding narrative,
 - explicit question wording.

@@ -1,0 +1,8 @@
+===== PAGE 7 =====
+NGÂN HÀNG THƯƠNG MẠI CỔ PHẦN Á CHÂU
+
+BẢNG CÂN ĐỐI KẾ TOÁN HỢP NHẤT
+
+<table><tr><td rowspan="2" colspan="2"></td><td rowspan="2">Thuyết minh</td><td colspan="2">Tại ngày</td></tr><tr><td>31.12.2017 Triệu VND</td><td>31.12.2016 Triệu VND</td></tr><tr><td>A</td><td>TÀI SẢN</td><td></td><td></td><td></td></tr><tr><td>I</td><td>Tiền mặt, vàng bạc, đá quý</td><td>4</td><td>4.851.710</td><td>3.541.388</td></tr></table>
+
+Các thuyết minh là một phần cấu thành các báo cáo tài chính hợp nhất này.

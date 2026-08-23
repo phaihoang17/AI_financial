@@ -1,0 +1,8 @@
+===== PAGE 3 =====
+BÁO CÁO TÀI CHÍNH
+
+Đơn vị: triệu đồng
+
+<table><tr><td rowspan="two">CHỈ TIÊU<td>2024</td></tr><tr><td>Doanh thu</td><td>12.34.567</td></tr>
+
+Đoạn văn sau bảng phải được giữ lại dù bảng không thể phục hồi chắc chắn.

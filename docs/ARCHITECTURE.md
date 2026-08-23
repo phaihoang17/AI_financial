@@ -73,6 +73,266 @@ Index metadata should include, when available:
 - row/column/header paths,
 - raw unit/scale hints.
 
+## 2.1 Canonical M2A Contracts
+
+M2A consumes the corpus as strict UTF-8 raw OCR text with
+`===== PAGE N =====` markers and inline HTML tables. The normalized-table
+dataset referenced by ViFinQA is not available and is not an input contract.
+
+Common contracts:
+
+```yaml
+SourceSpan: {start: integer, end: integer}  # zero-based, end-exclusive code points
+ParseIssue:
+  code: string
+  severity: WARNING | ERROR | FATAL
+  source_span: SourceSpan | null
+  message: string
+
+HeaderPathEntry:
+  header_id: string
+  label: string
+```
+
+Raw source contracts:
+
+```yaml
+ReportSource:
+  schema_version: m2a.v1
+  corpus_id: string
+  report_id: string
+  source_ref: string
+  ticker: string
+  company_name: string | null
+  report_year: integer
+  document_name: string
+  statement_scope: HOP_NHAT | RIENG | null
+  raw_text: string
+  content_sha256: string
+
+ParsedDocument:
+  report_id: string
+  content_sha256: string
+  pages: [Page]
+  issues: [ParseIssue]
+
+Page:
+  page_id: string
+  report_id: string
+  page_index: integer
+  page_number: integer
+  source_span: SourceSpan
+  content_span: SourceSpan
+  raw_text: string
+  tables: [SourceTable]
+  issues: [ParseIssue]
+
+SourceTable:
+  table_id: string
+  report_id: string
+  page_id: string
+  table_index: integer
+  source_span: SourceSpan
+  raw_html: string
+  parse_status: VALID | RECOVERED | UNPARSEABLE
+  inline_caption_span: SourceSpan | null
+  inline_caption_text: string | null
+  cells: [SourceCell]
+  issues: [ParseIssue]
+
+SourceCell:
+  cell_id: string
+  table_id: string
+  source_row_index: integer
+  source_cell_index: integer
+  source_span: SourceSpan
+  raw_html: string
+  raw_inner_html: string
+  extracted_text: string
+  rowspan: integer
+  colspan: integer
+```
+
+The bundled corpus currently contains 1,973 report files. Every file has the
+four-level relative layout `TICKER/YEAR/DOCUMENT/FILE`; all ticker directories
+are non-empty uppercase identifiers present in `code_stock.csv`, and all year
+directories contain a four-digit year from 2015 through 2025. Therefore
+`ReportSource.ticker` and `ReportSource.report_year` are required for this corpus.
+They are copied only from these path segments and must never be inferred from
+OCR text or fabricated.
+
+Normalized table contracts:
+
+```yaml
+MergedCellAnchor:
+  source_cell_id: string
+  anchor_row: integer
+  anchor_column: integer
+  rowspan: integer
+  colspan: integer
+
+LogicalTableGrid:
+  row_count: integer
+  column_count: integer
+  anchors: [MergedCellAnchor]
+  slots: [[string | null]]  # source_cell_id of the anchor
+
+HeaderNode:
+  header_id: string
+  axis: ROW | COLUMN
+  label: string
+  source_cell_ids: [string]
+  parent_header_id: string | null
+  depth: integer
+  resolution: EXPLICIT | INFERRED | AMBIGUOUS
+
+HeaderHierarchy:
+  nodes: [HeaderNode]
+
+NumericParseResult:
+  status: PARSED | MISSING | NOT_NUMERIC | AMBIGUOUS | MALFORMED
+  raw_text: string
+  normalized_lexeme: string | null
+  decimal_value: string | null
+  percent_literal: boolean
+
+NormalizedCell:
+  normalized_cell_id: string
+  source_cell_id: string
+  table_id: string
+  anchor_row: integer
+  anchor_column: integer
+  rowspan: integer
+  colspan: integer
+  normalized_text: string
+  role: DATA | ROW_HEADER | COLUMN_HEADER | CORNER | UNKNOWN
+  numeric: NumericParseResult
+  row_path: [HeaderPathEntry]
+  column_path: [HeaderPathEntry]
+  issues: [ParseIssue]
+
+NormalizedTable:
+  normalized_table_id: string
+  source_table_id: string
+  report_id: string
+  page_id: string
+  normalization_version: m2a-normalization-v1
+  grid: LogicalTableGrid
+  header_hierarchy: HeaderHierarchy
+  cells: [NormalizedCell]
+  period_labels: [string]
+  issues: [ParseIssue]
+```
+
+Each normalized cell represents one source/anchor cell. Covered grid positions
+reference that anchor; merged values are never copied into independent cells.
+Header paths remain ordered `HeaderPathEntry` values so both `header_id` and
+label provenance survive serialization.
+
+Text, association, and hint contracts:
+
+```yaml
+Paragraph:
+  paragraph_id: string
+  report_id: string
+  page_id: string
+  paragraph_index: integer
+  source_span: SourceSpan
+  raw_text: string
+  normalized_text: string
+  section_ref: string | null
+  kind: HEADING | BODY | LIST | OTHER
+
+TableTextLink:
+  link_id: string
+  table_id: string
+  paragraph_id: string
+  relation: CAPTION | EXPLICIT_REFERENCE | NOTE | ADJACENT_CONTEXT
+  basis: UNIQUE_TEXT_REFERENCE | IMMEDIATE_BEFORE | IMMEDIATE_AFTER
+  evidence_span: SourceSpan
+  issues: [ParseIssue]
+
+ScaleUnitHint:
+  hint_id: string
+  report_id: string
+  page_id: string
+  table_id: string | null
+  source_kind: HEADER | CELL | CAPTION | TEXT
+  source_ref: string
+  source_span: SourceSpan
+  raw_hint_text: string
+  normalized_hint_text: string
+  scale_candidate: THOUSAND | MILLION | BILLION | PERCENT | null
+  unit_candidate: string | null
+  status: EXTRACTED | AMBIGUOUS
+```
+
+M2A extracts scale/unit hints but never resolves a final scale. It never emits a
+`QUESTION` hint; question-derived scale remains TASK-017/TASK-054. Captions are
+first-class provenance and are not collapsed into general narrative `TEXT`.
+
+Model-independent representation contract:
+
+```yaml
+RetrievalRepresentation:
+  representation_id: string
+  representation_version: m2a-representation-v1
+  source_type: TABLE | TEXT
+  granularity: TABLE | PARAGRAPH
+  source_ref: string
+  report_id: string
+  page_ids: [string]
+  table_id: string | null
+  paragraph_id: string | null
+  ticker: string
+  company_name: string | null
+  report_year: integer
+  statement_scope: HOP_NHAT | RIENG | null
+  period_labels: [string]
+  content: string
+  row_paths: [[HeaderPathEntry]]
+  column_paths: [[HeaderPathEntry]]
+  linked_source_ids: [string]
+  scale_unit_hint_ids: [string]
+```
+
+V1 emits one representation per normalized table and one per paragraph. It does
+not combine sources, truncate content, perform retrieval/search, generate
+embeddings, or define vector storage.
+
+### M2A Normalization and Failure Invariants
+
+- Raw source strings and HTML are immutable; derived normalized strings are
+  stored separately. All spans address `ReportSource.raw_text` by zero-based,
+  end-exclusive Unicode code-point offsets.
+- Derived normalization uses Unicode NFKC, decodes standard HTML character
+  references, converts whitespace separators to ASCII spaces, collapses inline
+  whitespace, and trims it. It preserves Vietnamese diacritics and stored case.
+- Numeric v1 accepts plain integers, period/space-grouped integers, comma
+  decimals, period-grouped comma decimals, optional signs/accounting
+  parentheses, and optional trailing percent. Comma is decimal; period is
+  grouping only. Unsupported or ambiguous forms are not guessed. Parsing never
+  performs scale/unit conversion. Parsed values serialize as canonical decimal
+  strings, not floats.
+- Missing span attributes default to one. Explicit invalid spans, overlapping
+  anchors, or HTML without uniquely recoverable cell spans produce issues and no
+  guessed grid. Unparseable tables retain raw HTML and expose no parsed cells.
+- Paragraphs are page-local blocks outside table spans, separated by blank lines
+  or table/page boundaries. Wrapped nonblank lines remain one paragraph.
+- Table-text links require an inline caption, a unique explicit reference, or
+- Table-text links connect a source table to an actual paragraph and require a
+  unique explicit reference or unique immediate adjacency. An inline HTML
+  caption remains on `SourceTable` and never creates a synthetic paragraph or
+  `TableTextLink`. Ambiguous candidates remain unlinked; same-section proximity
+  alone is insufficient.
+- Serialization is UTF-8 canonical JSON with explicit nulls, enum strings,
+  ordered lists, sorted object keys, compact separators, no NaN/Infinity, and
+  lossless raw-string round trips.
+- IDs use full, untruncated, type-prefixed SHA-256 values. Report identity uses
+  corpus ID plus relative source path; child identities also include source
+  content hash and source coordinates. Derived IDs include their contract
+  version.
+
 ## 3. Online Query Pipeline
 
 ```text
@@ -265,6 +525,282 @@ Examples:
 
 LLM assistance can be used for linguistic ambiguity, but the structured result must still pass deterministic validation.
 
+### Canonical Company Resolver Contracts
+
+```yaml
+CompanyAlias:
+  alias: string
+  name: string
+  ticker: string
+
+CompanyCandidate:
+  name: string
+  ticker: string
+
+CompanyResolution:
+  status: RESOLVED | UNRESOLVED | AMBIGUOUS
+  company: CompanyUnderstanding
+  candidates: [CompanyCandidate]
+```
+
+`CompanyUnderstanding` is the canonical nested `QueryUnderstanding.company` contract.
+
+Company resolver invariants:
+
+- normalization v1 trims leading/trailing whitespace and compares aliases and tickers case-insensitively,
+- normalization v1 does not use fuzzy matching, typo correction, substring guessing, or an LLM,
+- `RESOLVED` requires exactly one candidate; `company` matches it and has confidence `1.0`,
+- `UNRESOLVED` requires no candidates; `company.name` and `company.ticker` are `null` and confidence is `0.0`,
+- `AMBIGUOUS` requires at least two distinct canonical-company candidates; `company.name` and `company.ticker` are `null` and confidence is `0.0`,
+- the raw input is preserved in `company.raw`.
+
+The authoritative alias dataset and its storage mechanism remain TBD.
+
+### Canonical Temporal Parser Contracts
+
+```yaml
+TemporalParserInput:
+  text: string
+
+TemporalResolution:
+  raw: string
+  period: PeriodUnderstanding | null
+  confidence: float
+
+TemporalParseResult:
+  resolutions: [TemporalResolution]
+```
+
+`PeriodUnderstanding` remains the canonical nested `QueryUnderstanding.periods` item.
+
+Normalized period values:
+
+- year: `YYYY` with kind `NAM`,
+- quarter: `YYYY-QN` with kind `QUY`, where `N` is `1..4`,
+- cumulative: `YYYY-NM` with kind `LUY_KE`, where `N` is `1..12` cumulative months (for example, `2015-9M`).
+
+Temporal parser v1 supports:
+
+- `năm YYYY`,
+- `quý N/YYYY`,
+- `quý N năm YYYY`,
+- `lũy kế N tháng năm YYYY`,
+- `lũy kế N tháng/YYYY`.
+
+Multiple expressions are returned in source order, with the longest non-overlapping expression taking precedence. The exact matched source text is preserved in `raw` and `period.raw`. Incomplete expressions, cumulative expressions without an explicit year, and invalid quarter/month values produce `period: null` with confidence `0.0`. Complete supported expressions produce confidence `1.0`. The parser never obtains a missing year or quarter from nearby text and does not use an LLM.
+
+Additional temporal forms and contextual year association remain TBD.
+
+### Canonical Statement-Scope Resolver Contracts
+
+```yaml
+StatementScopeResolverInput:
+  text: string
+  context_scope: HOP_NHAT | RIENG | null
+
+StatementScopeResolution:
+  status: RESOLVED | UNRESOLVED | AMBIGUOUS
+  statement_scope: StatementScopeUnderstanding
+```
+
+Statement-scope resolver v1 uses Unicode NFKC normalization, trims and collapses whitespace, compares case-insensitively, and matches complete token phrases.
+
+Explicit `HOP_NHAT` indicators:
+
+- `hợp nhất`,
+- `báo cáo tài chính hợp nhất`,
+- `BCTC hợp nhất`.
+
+Explicit `RIENG` indicators:
+
+- `riêng`,
+- `riêng lẻ`,
+- `báo cáo tài chính riêng`,
+- `BCTC riêng`,
+- `công ty mẹ`.
+
+Resolver invariants:
+
+- multiple indicators for the same scope remain `RESOLVED`,
+- `AMBIGUOUS` occurs only when both scope classes are matched explicitly,
+- one explicit scope overrides `context_scope` and sets `inferred: false`,
+- `context_scope` accepts only an already-structured `HOP_NHAT`, `RIENG`, or `null` value and is used only when no explicit indicator matches,
+- a context-derived result sets `inferred: true`,
+- unresolved and ambiguous results keep the scope value `null` and confidence `0.0`,
+- a resolved result has confidence `1.0`,
+- there is no hidden default and no LLM behavior.
+
+Aggregated and unlabeled reports do not produce an inferred scope. Their mapping remains a deferred design decision.
+
+### Canonical Financial-Metric Resolver Contracts
+
+```yaml
+CanonicalMetric:
+  canonical: string
+
+MetricSynonym:
+  synonym: string
+  canonical: string
+
+MetricResolution:
+  status: RESOLVED | UNRESOLVED | AMBIGUOUS
+  raw: string
+  metric: MetricUnderstanding | null
+  candidates: [CanonicalMetric]
+  confidence: float
+```
+
+Metric normalization v1 applies Unicode NFKC normalization, trims leading/trailing whitespace, collapses internal whitespace, and compares complete strings case-insensitively. It preserves diacritics and does not use fuzzy matching, typo correction, substring guessing, or an LLM.
+
+The initial registry is limited to the documented example:
+
+```text
+LNST <- LNST | lãi ròng | lợi nhuận sau thuế
+```
+
+Metric resolver invariants:
+
+- candidates are deduplicated by canonical metric,
+- multiple matching synonyms for one canonical metric remain `RESOLVED`,
+- one normalized synonym mapped to multiple distinct canonical metrics produces `AMBIGUOUS`,
+- `RESOLVED` requires exactly one candidate, `metric.raw == raw`, a matching `metric.canonical`, and result/metric confidence `1.0`,
+- `UNRESOLVED` requires no candidates, a null metric, and confidence `0.0`,
+- `AMBIGUOUS` requires at least two distinct candidates, a null metric, and confidence `0.0`.
+
+The authoritative metric vocabulary, synonym source, and storage mechanism remain TBD.
+
+### Canonical Operation Detector Contracts
+
+```yaml
+OperationDetectorInput:
+  text: string
+
+OperationDetection:
+  operation: none | ratio | growth | aggregate | compare | unknown
+```
+
+Operation detection v1 applies Unicode NFKC normalization, trims and collapses
+whitespace, compares case-insensitively, and matches only complete token phrases
+or the exact documented period structure. It does not use fuzzy matching, typo
+correction, substring guessing, or an LLM.
+
+The initial indicator vocabulary is deliberately limited to:
+
+- `ratio`: `ROE`, `tỷ lệ`, `tỷ suất`,
+- `growth`: `tăng bao nhiêu %`,
+- `aggregate`: `trung bình`,
+- `compare`: `so sánh`, `so với`, and `từ YYYY sang YYYY`.
+
+Detector invariants:
+
+- empty or whitespace-only input produces `unknown`,
+- non-empty input with no indicator produces `none`,
+- multiple indicators for the same operation remain that operation,
+- the documented `tăng bao nhiêu % từ YYYY sang YYYY` growth form produces
+  `growth` even though its period structure also matches `compare`,
+- every other conflict across distinct operations produces `unknown`.
+
+Additional operation indicators remain TBD and require measured examples before
+the registry is expanded.
+
+### Canonical Requested Scale/Unit Parser Contracts
+
+```yaml
+RequestedScaleUnitParserInput:
+  text: string
+
+RequestedScaleUnit:
+  requested_scale: THOUSAND | MILLION | BILLION | PERCENT | null
+  requested_unit: string | null
+```
+
+Requested scale/unit parsing v1 applies Unicode NFKC normalization, casefolding,
+leading/trailing whitespace trimming, and internal whitespace collapsing. It
+matches complete tokens or phrases only and does not use fuzzy matching, typo
+correction, substring guessing, or an LLM.
+
+The complete v1 mapping is:
+
+- `nghìn` or `ngàn` -> `THOUSAND`,
+- `triệu` -> `MILLION`,
+- `tỷ` -> `BILLION`,
+- `%` or `phần trăm` -> `PERCENT`.
+
+Parser invariants:
+
+- empty input and input without an explicit supported expression produce both
+  fields as `null`,
+- repeated indicators for one canonical scale remain resolved to that scale,
+- indicators for multiple distinct scales produce both fields as `null`,
+- `requested_unit` is always `null` in v1,
+- VND, đồng, USD, and all other currency/unit expressions are not parsed,
+- the result populates the existing `QueryUnderstanding.requested_scale` and
+  `QueryUnderstanding.requested_unit` fields without changing that contract.
+
+This parser captures only the user's explicit requested output scale. Evidence
+scale resolution and provenance remain TASK-054 responsibilities, and the
+canonical `EvidenceItem.scale` contract is unchanged.
+
+### Canonical Planning-Gate Contract
+
+```yaml
+FindingName: COMPANY | PERIOD | METRIC
+
+PlanningGate:
+  allowed: boolean
+  missing_information: [FindingName]
+  ambiguities: [FindingName]
+```
+
+Company, every requested period, and every requested metric are hard-required.
+An unresolved finding is added to `missing_information`; an ambiguous finding is
+added to `ambiguities`. Findings are deduplicated and ordered as `COMPANY`,
+`PERIOD`, `METRIC`. `operation: unknown` blocks planning without adding a finding,
+while `operation: none` is valid. The gate consumes resolver outputs without
+modifying them. Statement-scope eligibility is deferred.
+
+`PlanningGate.allowed: true` means only that these v1 hard requirements and the
+operation gate passed. It does not guarantee that the canonical `Plan` can already
+be built.
+
+### Canonical NLU Evaluation Contracts
+
+```yaml
+NLUEvaluationField:
+  COMPANY
+  | PERIODS
+  | STATEMENT_SCOPE
+  | METRICS
+  | OPERATION
+  | MISSING_INFORMATION
+  | AMBIGUITIES
+
+NLUFieldComparison:
+  field: NLUEvaluationField
+  matches: boolean
+
+NLUEvaluationCase:
+  case_id: string
+  question: string
+  expected: QueryUnderstanding
+
+NLUEvaluationResult:
+  case: NLUEvaluationCase
+  actual: QueryUnderstanding
+  field_comparisons: [NLUFieldComparison]
+```
+
+`NLUEvaluationCase.question` must equal `expected.raw_question`.
+`actual.raw_question` is neither required to equal the case question nor scored,
+and it must not invalidate an otherwise valid evaluation result. The overall
+`QueryUnderstanding.confidence`, `requested_scale`, and `requested_unit` fields
+are also outside the v1 scored semantic fields.
+
+The seven approved fields are compared exactly and structurally, with one
+comparison per field in the canonical order shown above. The evaluator performs
+no normalization and uses no LLM judge. V1 provides only a small approved fixture
+set; thresholds and aggregate scoring remain TBD.
+
 ### Exit Conditions
 
 If required identity cannot be safely resolved:
@@ -437,7 +973,7 @@ EvidenceItem:
 
   unit: string | null
   scale: RAW | THOUSAND | MILLION | BILLION | PERCENT | OTHER | null
-  scale_source: HEADER | CELL | TEXT | QUESTION | null
+  scale_source: HEADER | CELL | CAPTION | TEXT | QUESTION | null
 
   retrieval_score: float | null
   rerank_score: float | null
@@ -630,6 +1166,36 @@ Logical checks:
 
 Independent verification checks may be parallelized.
 
+### Canonical Verification Result
+
+```yaml
+VerificationResult:
+  passed: boolean
+  failure_category:
+    GROUNDING
+    | INSUFFICIENT_EVIDENCE
+    | NUMERIC
+    | SCALE_UNIT
+    | FINANCIAL_LOGIC
+    | null
+  failure_reason: string | null
+```
+
+Pass/fail invariants:
+
+- `passed: true` requires `failure_category` and `failure_reason` to be `null`.
+- `passed: false` requires a non-null `failure_category` and a non-empty `failure_reason`.
+
+Failure categories:
+
+- `GROUNDING`: company, report, statement scope, period, table, row, column, or header-path grounding failure.
+- `INSUFFICIENT_EVIDENCE`: required table and/or text evidence is missing.
+- `NUMERIC`: numeric parsing, sign, missing/NaN, divide-by-zero, conversion, or result-sanity failure.
+- `SCALE_UNIT`: scale, unit, or scale/unit-provenance failure.
+- `FINANCIAL_LOGIC`: formula, required-period, or accounting-consistency failure.
+
+Execution and runtime failures belong to `ExecutionResult`, not `VerificationResult`.
+
 ## 4.12 Answer Builder
 
 ### Responsibility
@@ -745,6 +1311,73 @@ This observability contract is proposed for debugging/evaluation; exact logging/
 ## 10. Evaluation Boundaries
 
 Evaluate stages separately so failures are attributable.
+
+### Canonical Evaluation Result
+
+```yaml
+EvaluationResult:
+  mode:
+    NLU
+    | SUPERVISOR
+    | RETRIEVAL
+    | ORACLE_EVIDENCE
+    | RETRIEVED_EVIDENCE_E2E
+
+  passed: boolean
+
+  failure_stage:
+    NLU
+    | SUPERVISOR
+    | RETRIEVAL
+    | EVIDENCE
+    | PROGRAMMER
+    | SANDBOX
+    | VERIFICATION
+    | null
+
+  failure_reason: string | null
+```
+
+Pass/fail invariants:
+
+- `passed: true` requires `failure_stage` and `failure_reason` to be `null`.
+- `passed: false` requires a non-null `failure_stage` and a non-empty `failure_reason`.
+
+### Canonical Reasoning Evaluation Result
+
+```yaml
+ReasoningEvaluationResult:
+  execution_correct: boolean
+  trace_comparison: EXACT | NORMALIZED_EQUIVALENT | DIFFERENT
+  answer_correct: boolean
+```
+
+The three correctness outcomes are independent. This contract does not define a Program schema or an Answer schema.
+
+Minimal equivalence-hook interface:
+
+```text
+TraceEquivalenceHook(expected_trace: opaque, actual_trace: opaque) -> boolean
+```
+
+Exact equality is checked first. The hook is called only when traces differ: `true` produces `NORMALIZED_EQUIVALENT`; `false` produces `DIFFERENT`. Hook implementations must be deterministic.
+
+### Canonical Evaluation Slice
+
+```yaml
+EvaluationSlice:
+  evidence_source: TABLE | TEXT | HYBRID
+  reasoning_depth: ONE_STEP | TWO_STEP | THREE_PLUS_STEPS
+  scale_unit_sensitive: boolean
+
+SlicedEvaluationResult:
+  result: EvaluationResult
+  slice: EvaluationSlice
+```
+
+`EvaluationSlice` attaches to `EvaluationResult` through `SlicedEvaluationResult`; the canonical `EvaluationResult` remains unchanged. `HYBRID` is an evaluation-only classification and is not an `EvidenceItem.source_type`.
+
+Thresholds, aggregate metrics/reporting, per-case identifiers and metadata beyond `EvaluationSlice`, and aggregation are deferred.
 
 ### NLU / Planning
 

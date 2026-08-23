@@ -37,7 +37,9 @@ Goal: establish the interfaces and evaluation boundaries before building agents.
 - [ ] **TASK-003 — Define evidence contract**
   - Preserve report/table/period/scope and hierarchical row/column metadata where available.
   - Acceptance:
-    - every selected value can be traced back to source metadata.
+    - every selected value can be traced back to source metadata,
+    - scale provenance accepts `HEADER`, `CELL`, `CAPTION`, `TEXT`, and `QUESTION`,
+    - caption provenance round-trips without being collapsed into `TEXT`.
 
 - [ ] **TASK-004 — Define execution and verification result schemas**
   - Acceptance:
@@ -46,28 +48,36 @@ Goal: establish the interfaces and evaluation boundaries before building agents.
 
 - [ ] **TASK-005 — Build evaluation harness skeleton**
   - Separate stage-level and end-to-end evaluation.
+  - Implement the canonical `EvaluationResult` contract defined in `docs/ARCHITECTURE.md`.
   - Modes:
     - NLU,
     - Supervisor,
     - Retrieval,
     - Oracle Evidence,
     - Retrieved Evidence E2E.
+  - Thresholds, aggregate metrics/reporting, per-case metadata beyond TASK-007 slices, and aggregation are deferred.
 
 ---
 
 
 - [ ] **TASK-006 — Add reasoning-trace evaluation contracts**
+  - Implement the canonical `ReasoningEvaluationResult` and `TraceEquivalenceHook` contracts defined in `docs/ARCHITECTURE.md`.
   - execution accuracy,
   - program/trace accuracy,
   - answer accuracy,
   - normalized equivalence hooks for semantically equivalent programs.
+  - Do not define Program or Answer schemas, thresholds, or aggregate metrics.
 
 - [ ] **TASK-007 — Add evaluation slices**
+  - Implement the canonical `EvaluationSlice` and `SlicedEvaluationResult` contracts defined in `docs/ARCHITECTURE.md`.
   - `TABLE`,
   - `TEXT`,
   - `HYBRID`,
   - reasoning depth `1 / 2 / 3+`,
   - scale/unit-sensitive cases.
+  - `HYBRID` is an evaluation-only classification.
+
+`TASK-008` and `TASK-009` are intentionally unused/reserved. The roadmap continues from `TASK-007` to `TASK-010`.
 
 # M1 — NLU / Understanding
 
@@ -75,46 +85,75 @@ Goal: turn Vietnamese questions into validated structured semantics.
 
 - [ ] **TASK-010 — Company/ticker resolver**
   - Support canonical resolution from aliases/tickers when uniquely known.
+  - Implement the canonical company resolver contracts and normalization v1 defined in `docs/ARCHITECTURE.md`.
+  - Do not use fuzzy matching, typo correction, substring guessing, or an LLM.
+  - The authoritative alias dataset and storage mechanism remain TBD.
   - Acceptance:
     - deterministic tests for aliases,
     - ambiguous alias does not silently select a ticker.
 
 - [ ] **TASK-011 — Temporal parser**
   - Parse year, quarter, and cumulative-period expressions.
+  - Implement the canonical deterministic v1 contracts and normalized values defined in `docs/ARCHITECTURE.md`.
+  - Preserve exact matched text; incomplete/invalid expressions remain unresolved without nearby-text inference or an LLM.
   - Acceptance:
     - examples such as `năm 2015`, `quý 3/2015`, `lũy kế 9 tháng`.
 
 - [ ] **TASK-012 — Statement-scope resolver**
   - Resolve consolidated vs. standalone/company-parent scope.
+  - Implement the canonical deterministic v1 contract and indicators defined in `docs/ARCHITECTURE.md`.
+  - Do not default or infer scope for aggregated/unlabeled reports and do not use an LLM.
   - Acceptance:
     - explicit and inferred scope are distinguishable.
 
 - [ ] **TASK-013 — Financial metric normalization**
   - Canonicalize Vietnamese synonyms.
+  - Implement the canonical deterministic v1 metric contracts and exact normalization rules defined in `docs/ARCHITECTURE.md`.
+  - Do not expand the initial registry beyond documented examples or use fuzzy/substring/LLM matching.
   - Example: `lãi ròng` / `LNST` / `lợi nhuận sau thuế`.
 
 - [ ] **TASK-014 — Operation detector**
   - Output: `none | ratio | growth | aggregate | compare | unknown`.
+  - Implement the canonical deterministic v1 contracts, minimal indicator
+    vocabulary, conflict handling, and documented growth override in
+    `docs/ARCHITECTURE.md`.
+  - Do not use fuzzy matching, typo correction, substring guessing, or an LLM.
 
 - [ ] **TASK-015 — Ambiguity and missing-information detector**
+  - Implement the canonical `FindingName` and `PlanningGate` contracts in
+    `docs/ARCHITECTURE.md` exactly.
+  - Company, requested periods, and requested metrics are hard-required;
+    statement-scope eligibility remains deferred.
   - Acceptance:
     - unresolved company/period/metric is surfaced,
     - no downstream plan when hard-required identity is missing.
 
 - [ ] **TASK-016 — NLU evaluation set**
-  - Measure field-level accuracy and ambiguity behavior.
-  - Target thresholds: `TBD`.
+  - Implement the canonical case/result/field-comparison contracts in
+    `docs/ARCHITECTURE.md`.
+  - Use exact structural comparison for the seven approved semantic fields.
+  - Keep `raw_question`, overall confidence, requested scale, and requested unit
+    outside v1 scoring.
+  - Use a small approved fixture set only; no evaluator normalization or LLM judge.
+  - Thresholds and aggregate scoring: `TBD`.
 
 ---
 
 - [ ] **TASK-017 — Requested scale/unit parser**
-  - Parse explicit `%`, `triệu`, `tỷ`, `nghìn`, and other requested output-unit expressions.
+  - Implement the canonical deterministic `RequestedScaleUnit` contract and v1
+    mappings defined in `docs/ARCHITECTURE.md`.
+  - Parse only explicit `nghìn`, `ngàn`, `triệu`, `tỷ`, `%`, and `phần trăm`
+    expressions into the existing `QueryUnderstanding` fields.
+  - Keep `requested_unit` null; currency/unit vocabulary remains TBD.
+  - Do not perform evidence-scale resolution or change `EvidenceItem.scale`.
+  - Do not use fuzzy matching, typo correction, substring guessing, or an LLM.
 
 # M2 — Financial Evidence Normalization and Hierarchy
 
 Goal: make OCR-derived financial tables retrievable without losing structural meaning.
 
 - [ ] **TASK-020 — Parse/extract table structures**
+  - Implement the canonical M2A source and normalized contracts in `docs/ARCHITECTURE.md` before parser behavior.
 - [ ] **TASK-021 — Normalize whitespace and table cells**
 - [ ] **TASK-022 — Expand/represent merged cells safely**
 - [ ] **TASK-023 — Normalize headers while preserving hierarchy**
@@ -124,6 +163,7 @@ Goal: make OCR-derived financial tables retrievable without losing structural me
 
 - [ ] **TASK-027 — Build retrieval representation builder**
   - Include company, period, statement scope, table identity, schema/header hierarchy.
+  - Use structured `row_paths` and `column_paths` containing `HeaderPathEntry`; do not flatten paths to strings.
 
 - [ ] **TASK-028 — Build BGE-M3 embedding indexer**
   - Generate dense vectors for report/table representations.
@@ -138,7 +178,9 @@ Goal: make OCR-derived financial tables retrievable without losing structural me
   - Store table <-> paragraph relations when recoverable.
 
 - [ ] **TASK-02C — Extract scale/unit hints**
-  - Preserve scale/unit clues from headers, captions, paragraphs, and question context.
+  - Preserve offline scale/unit clues from headers, captions, and paragraphs.
+  - Offline M2A emits `HEADER`, `CELL`, `CAPTION`, or `TEXT` hints only and does not resolve final scale.
+  - Question-derived scale remains TASK-017/TASK-054.
 
 Acceptance for M2:
 

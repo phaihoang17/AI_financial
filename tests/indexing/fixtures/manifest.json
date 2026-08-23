@@ -1,0 +1,19 @@
+{
+  "fixtures": [
+    {
+      "file": "basic_inline_table_ocr.txt",
+      "origin": "curated corpus-shape fixture",
+      "features": ["page markers", "inline HTML table", "narrative text", "period grouping"]
+    },
+    {
+      "file": "merged_header_ocr.txt",
+      "origin": "curated excerpt based on ACB/2017 consolidated page 7",
+      "features": ["rowspan", "colspan", "multi-level header", "scale in header"]
+    },
+    {
+      "file": "malformed_inline_table_ocr.txt",
+      "origin": "contract edge-case fixture",
+      "features": ["invalid rowspan", "unclosed table", "malformed numeric grouping", "post-table narrative"]
+    }
+  ]
+}

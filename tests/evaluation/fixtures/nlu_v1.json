@@ -1,0 +1,89 @@
+[
+  {
+    "case_id": "lookup-resolved",
+    "question": "LNST của AAA năm 2015?",
+    "expected": {
+      "raw_question": "LNST của AAA năm 2015?",
+      "company": {
+        "raw": "AAA",
+        "name": "An Phát",
+        "ticker": "AAA",
+        "confidence": 1.0
+      },
+      "periods": [
+        {"value": "2015", "kind": "NAM", "raw": "năm 2015"}
+      ],
+      "statement_scope": {
+        "value": null,
+        "inferred": false,
+        "confidence": 0.0
+      },
+      "metrics": [
+        {"raw": "LNST", "canonical": "LNST", "confidence": 1.0}
+      ],
+      "operation": "none",
+      "requested_scale": null,
+      "requested_unit": null,
+      "missing_information": [],
+      "ambiguities": [],
+      "confidence": 1.0
+    }
+  },
+  {
+    "case_id": "growth-resolved",
+    "question": "LNST tăng bao nhiêu % từ 2014 sang 2015?",
+    "expected": {
+      "raw_question": "LNST tăng bao nhiêu % từ 2014 sang 2015?",
+      "company": {
+        "raw": null,
+        "name": null,
+        "ticker": null,
+        "confidence": 0.0
+      },
+      "periods": [
+        {"value": "2014", "kind": "NAM", "raw": "2014"},
+        {"value": "2015", "kind": "NAM", "raw": "2015"}
+      ],
+      "statement_scope": {
+        "value": null,
+        "inferred": false,
+        "confidence": 0.0
+      },
+      "metrics": [
+        {"raw": "LNST", "canonical": "LNST", "confidence": 1.0}
+      ],
+      "operation": "growth",
+      "requested_scale": null,
+      "requested_unit": "%",
+      "missing_information": ["company"],
+      "ambiguities": [],
+      "confidence": 0.8
+    }
+  },
+  {
+    "case_id": "hard-identities-missing",
+    "question": "Cho tôi số liệu",
+    "expected": {
+      "raw_question": "Cho tôi số liệu",
+      "company": {
+        "raw": null,
+        "name": null,
+        "ticker": null,
+        "confidence": 0.0
+      },
+      "periods": [],
+      "statement_scope": {
+        "value": null,
+        "inferred": false,
+        "confidence": 0.0
+      },
+      "metrics": [],
+      "operation": "none",
+      "requested_scale": null,
+      "requested_unit": null,
+      "missing_information": ["company", "period", "metric"],
+      "ambiguities": [],
+      "confidence": 0.0
+    }
+  }
+]

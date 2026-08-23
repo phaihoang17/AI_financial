@@ -571,6 +571,58 @@ FinQA reports materially different performance across evidence sources and incre
 Aggregate accuracy alone is insufficient for release decisions.
 
 
+## ADR-027 — Use a minimal verification-result failure taxonomy
+
+**Status:** Accepted
+
+### Decision
+
+Use the following failure categories in `VerificationResult`:
+
+- `GROUNDING`,
+- `INSUFFICIENT_EVIDENCE`,
+- `NUMERIC`,
+- `SCALE_UNIT`,
+- `FINANCIAL_LOGIC`.
+
+`SCALE_UNIT` remains a dedicated category. Execution and runtime failures belong to `ExecutionResult`, not `VerificationResult`.
+
+### Rationale
+
+The category set covers the existing grounding, evidence, numerical, scale/unit, and financial-logic verification requirements without adding verifier behavior or duplicating execution failures.
+
+### Consequences
+
+- Multiple-failure prioritization is deferred.
+- A controlled vocabulary of detailed reason codes is deferred; `failure_reason` remains a required diagnostic string when verification fails.
+
+
+## ADR-028 — Preserve raw OCR identity and structured hierarchy through M2A
+
+**Status:** Accepted
+
+### Decision
+
+Use the canonical M2A contracts in `docs/ARCHITECTURE.md`. Preserve immutable
+raw OCR/HTML, source spans, merged-cell anchors, and structured header paths.
+Treat `CAPTION` as scale/unit provenance distinct from general narrative `TEXT`.
+
+For the bundled ViFinQA corpus, ticker and report year are required because all
+1,973 report paths provide validated `TICKER/YEAR` segments. These values must be
+copied only from path metadata and never inferred from OCR text.
+
+### Consequences
+
+- Every normalized value remains traceable to report/page/table/source cell.
+- Ambiguous numeric, hierarchy, and table-text relationships are not guessed.
+- M2A representations remain model- and storage-independent.
+- `ScaleSource` is `HEADER | CELL | CAPTION | TEXT | QUESTION`; offline M2A never
+  emits `QUESTION`.
+- Inline HTML captions remain fields of `SourceTable`; `TableTextLink` connects
+  only real `SourceTable` and `Paragraph` records and never synthesizes caption
+  paragraphs.
+
+
 ## Deferred Decisions
 
 The provided source materials do not fully specify the following. Do not silently treat them as final:
@@ -579,7 +631,11 @@ The provided source materials do not fully specify the following. Do not silentl
 - exact repository package structure,
 - exact database/vector-store choice,
 - exact model provider,
+- exact generated Program schema,
 - exact answer/citation JSON schema,
+- authoritative company-alias dataset and storage mechanism,
+- authoritative financial-metric vocabulary, synonym source, and storage mechanism,
+- requested currency/unit vocabulary beyond TASK-017 v1 scale expressions,
 - exact production accuracy/latency/cost thresholds,
 - exact sandbox technology,
 - exact deployment topology,
