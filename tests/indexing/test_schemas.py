@@ -182,6 +182,48 @@ def normalized_cell_payload():
 
 
 def normalized_table_payload():
+    corner_cell = {
+        "normalized_cell_id": "ncell_1",
+        "source_cell_id": "cell_1",
+        "table_id": "table_1",
+        "anchor_row": 0,
+        "anchor_column": 0,
+        "rowspan": 2,
+        "colspan": 1,
+        "normalized_text": "CHỈ TIÊU",
+        "role": "CORNER",
+        "numeric": {
+            "status": "NOT_NUMERIC",
+            "raw_text": "CHỈ TIÊU",
+            "normalized_lexeme": None,
+            "decimal_value": None,
+            "percent_literal": False,
+        },
+        "row_path": [],
+        "column_path": [],
+        "issues": [],
+    }
+    parent_header_cell = {
+        "normalized_cell_id": "ncell_2",
+        "source_cell_id": "cell_2",
+        "table_id": "table_1",
+        "anchor_row": 0,
+        "anchor_column": 1,
+        "rowspan": 1,
+        "colspan": 1,
+        "normalized_text": "Tại ngày",
+        "role": "COLUMN_HEADER",
+        "numeric": {
+            "status": "NOT_NUMERIC",
+            "raw_text": "Tại ngày",
+            "normalized_lexeme": None,
+            "decimal_value": None,
+            "percent_literal": False,
+        },
+        "row_path": [],
+        "column_path": [{"header_id": "header_period", "label": "Tại ngày"}],
+        "issues": [],
+    }
     return {
         "normalized_table_id": "ntable_1",
         "source_table_id": "table_1",
@@ -190,7 +232,7 @@ def normalized_table_payload():
         "normalization_version": NORMALIZATION_VERSION,
         "grid": grid_payload(),
         "header_hierarchy": header_hierarchy_payload(),
-        "cells": [normalized_cell_payload()],
+        "cells": [normalized_cell_payload(), corner_cell, parent_header_cell],
         "period_labels": ["2024"],
         "issues": [],
     }
@@ -212,7 +254,7 @@ def table_representation_payload():
         "report_year": 2024,
         "statement_scope": "HOP_NHAT",
         "period_labels": ["2024"],
-        "content": "Tại ngày > 2024 | 1.250,75",
+        "content": '{"ticker":"AAA","company_name":"CTCP Nhựa An Phát Xanh","report_year":2024,"statement_scope":"HOP_NHAT","period_labels":["2024"],"cells":[{"row_path":[],"column_path":["Tại ngày","2024"],"text":"1.250,75"}]}',
         "row_paths": [],
         "column_paths": [
             [

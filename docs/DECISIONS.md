@@ -361,6 +361,59 @@ Shared weights must not blur responsibility boundaries.
 
 ---
 
+## ADR-018 — Keep embedding chunking outside M2A
+
+**Status:** Accepted
+
+### Decision
+
+Preserve the M2A `RetrievalRepresentation` contract. Derive M2B
+`EmbeddingChunk` values only at the embedding boundary. Tables are chunked
+deterministically by logical rows and consecutive anchor-column groups. If an
+individual source cell still exceeds the 7,168-token target, fragment only that
+cell with the pinned BGE-M3 tokenizer. `CellFragment` retains the source cell ID,
+ordered fragment indexes, exact text, and token count.
+
+Fragments are lossless: concatenating them reproduces the complete normalized
+cell text. No truncation, semantic splitting, LLM, or modification of M2A
+`NormalizedCell`/`RetrievalRepresentation` is permitted.
+
+### Consequences
+
+The complete corpus can be embedded without omitting oversized cells. Chunk IDs
+include the fragmentation algorithm version and chunking configuration
+fingerprint, separately from the embedding model fingerprint.
+
+---
+
+## ADR-019 — Complete M2B artifacts use immutable FAISS shards and SQLite
+
+**Status:** Accepted
+
+### Decision
+
+Persist all successful M2B embeddings as normalized float32 `IndexFlatIP` FAISS
+shards, capped at 100,000 vectors per shard, with SQLite mapping from embedding
+ID to chunk ID to the original M2A representation and provenance. Publish only
+after every chunk and shard passes validation and SHA-256 checks. Staging is
+resumable; published artifacts are immutable. A missing or incompatible shard,
+metadata database, model fingerprint, or schema version rejects loading.
+
+The implementation uses a streaming builder: M2 JSONL is validated and hashed
+before embedding, batches are committed to SQLite independently, and a
+checkpoint is committed for each completed FAISS shard. A resumed build may
+reuse only checkpointed shards whose FAISS bytes, IDs, counts, SQLite rows, and
+fingerprints validate; an incomplete shard is replayed and its uncheckpointed
+SQLite rows are removed first. The current pointer is updated only after the
+fully validated immutable build directory is published.
+
+### Consequences
+
+The 8 GiB development Mac is limited to small integration artifacts. Full
+corpus builds require an approved higher-memory build machine; M3 owns search.
+
+---
+
 ## ADR-017 — Narrative model is optional for v1
 
 **Status:** Accepted
@@ -621,6 +674,22 @@ copied only from path metadata and never inferred from OCR text.
 - Inline HTML captions remain fields of `SourceTable`; `TableTextLink` connects
   only real `SourceTable` and `Paragraph` records and never synthesizes caption
   paragraphs.
+- Header inference v1 uses only deterministic top-band, left-prefix, numeric
+  data-column, and merged-span structure. Non-unique structures remain
+  `UNKNOWN`/`AMBIGUOUS` with empty paths; no financial vocabulary or LLM is
+  permitted.
+- Offline period labels use only the approved exact standalone grammar and
+  normalize to TASK-011 `YYYY`/`YYYY-Qn` values. Context never supplies a
+  missing period component.
+- Table-text linking v1 is one-to-one, same-page, whitespace-only immediate
+  adjacency and emits only `ADJACENT_CONTEXT`. Semantic caption, note, and
+  explicit-reference recognition are deferred.
+- Scale hint extraction uses only the approved six expressions with exact
+  source spans and canonical source-reference mappings. Units remain null;
+  conflicting table-associated scales remain separate `AMBIGUOUS` hints.
+- Retrieval representation content is fixed-order compact JSON without IDs.
+  Structured header paths retain IDs and labels, use row-major first-occurrence
+  deduplication, and remain model- and storage-independent.
 
 
 ## Deferred Decisions

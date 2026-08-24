@@ -5,6 +5,7 @@ from __future__ import annotations
 from dataclasses import dataclass, fields, is_dataclass
 from enum import Enum
 from hashlib import sha256
+import json
 import re
 from typing import Any, Dict, List, Mapping, Optional, Set, Type, TypeVar
 
@@ -555,6 +556,14 @@ class LogicalTableGrid(SerializableContract):
         for row in self.slots:
             if any(item is not None and item not in anchor_set for item in row):
                 raise SchemaValidationError("every non-null slot must reference an anchor")
+        expected_slots = {
+            anchor.source_cell_id: {
+                (row_index, column_index)
+                for row_index in range(anchor.anchor_row, anchor.anchor_row + anchor.rowspan)
+                for column_index in range(anchor.anchor_column, anchor.anchor_column + anchor.colspan)
+            }
+            for anchor in self.anchors
+        }
         for anchor in self.anchors:
             if anchor.anchor_row + anchor.rowspan > self.row_count or anchor.anchor_column + anchor.colspan > self.column_count:
                 raise SchemaValidationError("anchor span must fit inside the grid")
@@ -562,6 +571,15 @@ class LogicalTableGrid(SerializableContract):
                 for column_index in range(anchor.anchor_column, anchor.anchor_column + anchor.colspan):
                     if self.slots[row_index][column_index] != anchor.source_cell_id:
                         raise SchemaValidationError("every covered slot must reference its anchor")
+        actual_slots = {anchor_id: set() for anchor_id in anchor_set}
+        for row_index, row in enumerate(self.slots):
+            for column_index, anchor_id in enumerate(row):
+                if anchor_id is not None:
+                    actual_slots[anchor_id].add((row_index, column_index))
+        if actual_slots != expected_slots:
+            raise SchemaValidationError(
+                "an anchor may appear only in the slots covered by its span"
+            )
 
     @classmethod
     def from_dict(cls, value: Any, path: str = "LogicalTableGrid") -> LogicalTableGrid:
@@ -742,6 +760,70 @@ class NormalizedTable(SerializableContract):
         source_cell_ids = [cell.source_cell_id for cell in self.cells]
         if len(source_cell_ids) != len(set(source_cell_ids)):
             raise SchemaValidationError("normalized cells must reference unique source cells")
+        normalized_cell_ids = [cell.normalized_cell_id for cell in self.cells]
+        if len(normalized_cell_ids) != len(set(normalized_cell_ids)):
+            raise SchemaValidationError("normalized_cell_id values must be unique")
+        anchors = {anchor.source_cell_id: anchor for anchor in self.grid.anchors}
+        if set(source_cell_ids) != set(anchors):
+            raise SchemaValidationError(
+                "normalized cells must match grid anchors exactly"
+            )
+        for cell in self.cells:
+            anchor = anchors[cell.source_cell_id]
+            if (
+                cell.anchor_row,
+                cell.anchor_column,
+                cell.rowspan,
+                cell.colspan,
+            ) != (
+                anchor.anchor_row,
+                anchor.anchor_column,
+                anchor.rowspan,
+                anchor.colspan,
+            ):
+                raise SchemaValidationError(
+                    "normalized cell coordinates and spans must match its anchor"
+                )
+        header_nodes = {node.header_id: node for node in self.header_hierarchy.nodes}
+        anchor_ids = set(anchors)
+        if any(
+            source_cell_id not in anchor_ids
+            for node in self.header_hierarchy.nodes
+            for source_cell_id in node.source_cell_ids
+        ):
+            raise SchemaValidationError(
+                "header source cells must reference grid anchors"
+            )
+        for cell in self.cells:
+            for path_name, path_entries in (
+                ("row_path", cell.row_path),
+                ("column_path", cell.column_path),
+            ):
+                expected_axis = (
+                    HeaderAxis.ROW if path_name == "row_path" else HeaderAxis.COLUMN
+                )
+                prior_node = None
+                for entry in path_entries:
+                    node = header_nodes.get(entry.header_id)
+                    if (
+                        node is None
+                        or node.label != entry.label
+                        or node.axis is not expected_axis
+                        or node.resolution is HeaderResolution.AMBIGUOUS
+                    ):
+                        raise SchemaValidationError(
+                            f"{path_name} entries must reference matching header nodes"
+                        )
+                    if prior_node is None:
+                        if node.parent_header_id is not None:
+                            raise SchemaValidationError(
+                                f"{path_name} must begin at a header root"
+                            )
+                    elif node.parent_header_id != prior_node.header_id:
+                        raise SchemaValidationError(
+                            f"{path_name} must follow root-to-leaf parent edges"
+                        )
+                    prior_node = node
 
     @classmethod
     def from_dict(cls, value: Any, path: str = "NormalizedTable") -> NormalizedTable:
@@ -946,6 +1028,65 @@ class RetrievalRepresentation(SerializableContract):
                 raise SchemaValidationError("TEXT representations require PARAGRAPH granularity and only paragraph_id")
             if self.row_paths or self.column_paths:
                 raise SchemaValidationError("TEXT representations must not contain table header paths")
+        self._validate_content()
+
+    def _validate_content(self) -> None:
+        try:
+            payload = json.loads(self.content)
+        except (TypeError, ValueError) as error:
+            raise SchemaValidationError("content must be canonical JSON") from error
+        if not isinstance(payload, dict):
+            raise SchemaValidationError("content must encode an object")
+        canonical = json.dumps(
+            payload, ensure_ascii=False, separators=(",", ":")
+        )
+        if canonical != self.content:
+            raise SchemaValidationError("content must use compact canonical JSON")
+        scope = None if self.statement_scope is None else self.statement_scope.value
+        if self.source_type is EvidenceSource.TABLE:
+            expected_keys = [
+                "ticker", "company_name", "report_year", "statement_scope",
+                "period_labels", "cells",
+            ]
+            if list(payload) != expected_keys:
+                raise SchemaValidationError("TABLE content fields or order are invalid")
+            if (
+                payload["ticker"] != self.ticker
+                or payload["company_name"] != self.company_name
+                or payload["report_year"] != self.report_year
+                or payload["statement_scope"] != scope
+                or payload["period_labels"] != self.period_labels
+                or not isinstance(payload["cells"], list)
+            ):
+                raise SchemaValidationError("TABLE content metadata must match representation")
+            for cell in payload["cells"]:
+                if not isinstance(cell, dict) or list(cell) != ["row_path", "column_path", "text"]:
+                    raise SchemaValidationError("TABLE content cells have invalid fields")
+                if (
+                    not isinstance(cell["row_path"], list)
+                    or not all(isinstance(item, str) for item in cell["row_path"])
+                    or not isinstance(cell["column_path"], list)
+                    or not all(isinstance(item, str) for item in cell["column_path"])
+                    or not isinstance(cell["text"], str)
+                ):
+                    raise SchemaValidationError("TABLE content cell values are invalid")
+        else:
+            expected_keys = [
+                "ticker", "company_name", "report_year", "statement_scope",
+                "section_ref", "kind", "text",
+            ]
+            if list(payload) != expected_keys:
+                raise SchemaValidationError("TEXT content fields or order are invalid")
+            if (
+                payload["ticker"] != self.ticker
+                or payload["company_name"] != self.company_name
+                or payload["report_year"] != self.report_year
+                or payload["statement_scope"] != scope
+                or not isinstance(payload["section_ref"], (str, type(None)))
+                or not isinstance(payload["kind"], str)
+                or not isinstance(payload["text"], str)
+            ):
+                raise SchemaValidationError("TEXT content values are invalid")
 
     @classmethod
     def from_dict(cls, value: Any, path: str = "RetrievalRepresentation") -> RetrievalRepresentation:

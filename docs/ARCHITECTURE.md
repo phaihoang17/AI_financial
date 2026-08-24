@@ -229,6 +229,39 @@ reference that anchor; merged values are never copied into independent cells.
 Header paths remain ordered `HeaderPathEntry` values so both `header_id` and
 label provenance survive serialization.
 
+Header inference v1 is structural and conservative:
+
+- A body row is structurally recoverable only when a contiguous, nonblank,
+  non-numeric prefix on the left precedes one or more numeric data cells. An
+  explicit period label is not treated as a data value when finding this
+  boundary. The row-header width must agree across all recovered body rows;
+  otherwise roles, hierarchy, and paths remain unresolved.
+- Candidate column-header rows are the contiguous rows at the top of the table
+  before the first recovered body row. A nonblank cell is a column-header
+  candidate only when it overlaps a recovered data column and either spans
+  multiple columns, contains non-numeric text, or is an exact v1 period label.
+- Row-header candidates are the recovered non-numeric left prefix cells.
+  Corner cells lie wholly inside the deterministic intersection of the top
+  header band and the recovered row-header region. Blank cells never produce
+  `HeaderNode` values and remain unchanged in the grid.
+- For `COLUMN`, containment is evaluated over column spans and candidate
+  parents must be on the nearest preceding candidate header row. For `ROW`,
+  containment is evaluated over row spans and candidate parents must be in the
+  nearest preceding candidate header column. One containing parent creates the
+  edge, more than one creates `AMBIGUOUS`, and no parent creates a root. A
+  merged span gives `EXPLICIT`; uniquely recoverable positional structure gives
+  `INFERRED`.
+- Header paths are emitted root-to-leaf only when every node in the path is
+  uniquely recoverable. Ambiguous or unresolved paths are empty. No financial
+  vocabulary, fuzzy heuristic, LLM, cross-page merge, or fabricated parent is
+  used.
+
+Period-label grammar v1 accepts only exact standalone `YYYY`, `Q1/YYYY` through
+`Q4/YYYY`, `Quý 1/YYYY` through `Quý 4/YYYY`, and `Quý 1 năm YYYY` through
+`Quý 4 năm YYYY` forms. Values normalize to TASK-011 conventions (`YYYY` or
+`YYYY-Qn`). Missing/contextual years, relative periods, and unlabeled date
+columns are not inferred. Structurally recovered labels remain in source order.
+
 Text, association, and hint contracts:
 
 ```yaml
@@ -271,6 +304,25 @@ M2A extracts scale/unit hints but never resolves a final scale. It never emits a
 `QUESTION` hint; question-derived scale remains TASK-017/TASK-054. Captions are
 first-class provenance and are not collapsed into general narrative `TEXT`.
 
+Table-text linking v1 emits only exact same-page immediate adjacency. A
+candidate requires a whitespace-only raw-source gap between the paragraph and
+table. Candidates are built in both directions first; a link is emitted only
+when both the table and paragraph have exactly one candidate. Its relation is
+`ADJACENT_CONTEXT`, its basis is `IMMEDIATE_BEFORE` or `IMMEDIATE_AFTER`, and
+its evidence span is the real paragraph span. Caption, note, and explicit-
+reference paragraph recognition are deferred. Inline HTML captions never
+create paragraphs or links.
+
+Scale/unit hint extraction v1 recognizes complete occurrences of only `nghìn`,
+`ngàn`, `triệu`, `tỷ`, `phần trăm`, and `%` after Unicode NFKC normalization.
+It emits one hint per exact source occurrence and never parses currency or
+units (`unit_candidate` is always null). `HEADER` and `CELL` use
+`SourceCell.cell_id` as `source_ref`; `CAPTION` uses `SourceTable.table_id`; and
+`TEXT` uses `Paragraph.paragraph_id`. `HEADER` is limited to cells participating
+in `HeaderHierarchy`. A text hint receives `table_id` only through one
+deterministic v1 link. When one table has distinct scale candidates, every
+associated hint is retained and marked `AMBIGUOUS`; no final scale is selected.
+
 Model-independent representation contract:
 
 ```yaml
@@ -300,6 +352,110 @@ V1 emits one representation per normalized table and one per paragraph. It does
 not combine sources, truncate content, perform retrieval/search, generate
 embeddings, or define vector storage.
 
+Representation `content` is compact deterministic JSON with UTF-8 characters
+preserved (`ensure_ascii=false`) and the field order below. Internal IDs stay in
+structured metadata and never appear inside `content`.
+
+Table content fields are `ticker`, `company_name`, `report_year`,
+`statement_scope`, `period_labels`, and `cells`, in that order. Cells are sorted
+by anchor row/column and contain `row_path`, `column_path`, and `text`, in that
+order. Content paths contain labels only; text is `NormalizedCell.normalized_text`.
+Duplicate cells are preserved and no numeric conversion, HTML, or truncation is
+applied.
+
+Text content fields are `ticker`, `company_name`, `report_year`,
+`statement_scope`, `section_ref`, `kind`, and `text`, in that order. Text is
+`Paragraph.normalized_text`.
+
+Structured representation paths retain `HeaderPathEntry` values. They are
+deduplicated by the full ordered `(header_id, label)` sequence while preserving
+first occurrence in normalized-cell row-major order; empty paths are omitted.
+Table representations link paragraph IDs, text representations link table IDs,
+and both preserve deterministic source order. Hint IDs include only hints
+traceable to that representation.
+
+### M2B Embedding boundary and persistence
+
+M2A representations remain unchanged: one `TABLE` representation is emitted per
+`NormalizedTable`, and one `TEXT` representation per `Paragraph`. M2B derives
+one or more embedding-only chunks without changing M2A objects:
+
+```yaml
+CellFragment:
+  source_cell_id: string
+  fragment_index: integer
+  fragment_count: integer
+  text: string
+  content_token_count: integer
+
+EmbeddingChunk:
+  schema_version: m2b-embedding-chunk-v1
+  chunk_id: string
+  representation_id: string
+  source_type: TABLE | TEXT
+  chunk_index: integer
+  chunk_count: integer
+  primary_source_cell_ids: [string]
+  context_source_cell_ids: [string]
+  anchor_row_start: integer | null
+  anchor_row_end: integer | null
+  anchor_column_start: integer | null
+  anchor_column_end: integer | null
+  content: string
+  content_token_count: integer
+  chunking_config_fingerprint: string
+  cell_fragment: CellFragment | null
+```
+
+Chunks use the pinned `BAAI/bge-m3` tokenizer revision
+`5617a9f61b028005a4858fdac845db406aefb181`. Final chunk content is counted with
+special tokens and no truncation. The target is 7,168 tokens; 8,192 is a
+defensive hard ceiling. Tables are packed by complete logical rows, then by
+consecutive anchor-column groups. Structural header context may repeat; DATA
+values may repeat only as ordered fragments of the same oversized source cell.
+Fragment text concatenates exactly to the original normalized cell text;
+`CellFragment.content_token_count` counts fragment text without wrapper special
+tokens, while `EmbeddingChunk.content_token_count` counts final serialized
+content with special tokens.
+
+Document embeddings are 1024-dimensional, float32, L2-normalized dense vectors.
+TASK-029 persists immutable `IndexFlatIP` FAISS shards (100,000 vectors per
+shard), SQLite provenance metadata, and a final manifest with schema,
+configuration, counts, and SHA-256 file hashes. No search behavior is defined
+by M2B.
+
+The approved streaming builder consumes only the committed M2 corpus artifact
+and processes one JSONL record at a time in bounded embedding batches. It keeps
+only the current FAISS shard in the FAISS process, commits SQLite rows per
+embedding batch, and records per-shard checkpoints with input progress, last
+chunk, vector/SQLite counts, model/chunking fingerprints, and FAISS SHA-256.
+Resume validates all completed checkpoints, reuses only valid completed shards,
+deletes rows from the incomplete shard, and rebuilds that shard from the first
+uncommitted input record. It publishes under
+`artifacts/m2-vector-index-v1/artifacts/<build-id>/` only after the complete
+input count, FAISS/SQLite mapping, hashes, and SQLite integrity check pass; the
+top-level `manifest.json` and `CURRENT` pointer are written only after that
+immutable directory is in place. The pinned embedding configuration is
+`BAAI/bge-m3@5617a9f61b028005a4858fdac845db406aefb181`, fingerprint
+`ebf2adc2a61d75a65db3829163a003e729095310360b9b162b570b34579585b3`, dense
+document pooling, dimension 1024, float32, L2 normalization, and no
+truncation.
+
+Before embedding or retrieval deployment, the complete M2 output may be
+materialized as the immutable `m2-corpus-artifact-v1`: canonical UTF-8 JSONL
+shards containing each `EmbeddingChunk`, its full parent
+`RetrievalRepresentation`, report provenance, and source-cell coverage. The
+artifact uses deterministic report/representation/chunk order, configurable
+record/byte shard bounds, per-shard SHA-256 hashes, the pinned tokenizer
+revision, and a committed top-level manifest. It contains no vectors, FAISS
+index, BM25 index, or search behavior.
+
+M2 implementation is complete. The full-corpus TASK-028A audit passed with no
+omitted representations or cells and no chunks above the target. TASK-028B and
+TASK-029 are implemented, but the production full-corpus artifact remains an
+operational build on an approved higher-capacity machine; it is not present on
+the 8 GiB development host.
+
 ### M2A Normalization and Failure Invariants
 
 - Raw source strings and HTML are immutable; derived normalized strings are
@@ -319,12 +475,10 @@ embeddings, or define vector storage.
   guessed grid. Unparseable tables retain raw HTML and expose no parsed cells.
 - Paragraphs are page-local blocks outside table spans, separated by blank lines
   or table/page boundaries. Wrapped nonblank lines remain one paragraph.
-- Table-text links require an inline caption, a unique explicit reference, or
-- Table-text links connect a source table to an actual paragraph and require a
-  unique explicit reference or unique immediate adjacency. An inline HTML
-  caption remains on `SourceTable` and never creates a synthetic paragraph or
-  `TableTextLink`. Ambiguous candidates remain unlinked; same-section proximity
-  alone is insufficient.
+- Table-text links connect a source table to an actual paragraph only through
+  unique v1 immediate adjacency. Inline HTML captions remain on `SourceTable`
+  and never create a synthetic paragraph or `TableTextLink`. Ambiguous
+  candidates remain unlinked; proximity and semantic matching are not used.
 - Serialization is UTF-8 canonical JSON with explicit nulls, enum strings,
   ordered lists, sorted object keys, compact separators, no NaN/Infinity, and
   lossless raw-string round trips.

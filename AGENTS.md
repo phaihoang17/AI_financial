@@ -298,9 +298,6 @@ Plan:
   derived_target: string | null
   formula_id: string | null
   tables_needed: [string]
-  evidence_sources: [TABLE | TEXT]
-  reasoning_mode: DIRECT | PROGRAM | TABLE_TRANSFORM
-  requires_scale_resolution: boolean
   model_tier: CHEAP | STRONG
   verify_profile: LIGHT | STRICT
   max_retries: integer
@@ -448,7 +445,7 @@ A task is complete only when:
 
 This policy is grounded in the provided project materials:
 
-- the canonical Supervisor/Plan contract in `docs/ARCHITECTURE.md` and routing decisions in `docs/DECISIONS.md`
+- `supervisor_routing.md`
 - `2026 R2AI Stage2 Finance Tabular QA` materials
 - `2026 AIGuru Finance Tabular QA` materials
 
@@ -463,3 +460,24 @@ Additional research basis added in v3:
 - Chain-of-Table (arXiv:2401.04398): bounded dynamic table operations with intermediate table state.
 - Multi-Agent Financial Document Processing benchmark (arXiv:2603.22651): hierarchical vs. sequential/parallel/reflexive tradeoffs, semantic caching, routing, retry, latency/cost/failure taxonomy.
 - FinAcumen (arXiv:2606.17642): selective experience memory, relevance gating, strategies vs. caution rules, deterministic financial tools.
+
+## Communication Style
+
+When explaining anything to the user:
+
+- Keep explanations short and easy to understand.
+- Prefer simple language over academic language.
+- Explain one idea at a time.
+- Use short bullet points when helpful.
+- Give the answer first, then only the necessary explanation.
+- Avoid long background explanations unless explicitly requested.
+- Avoid repeating the same idea.
+- Use concrete examples for difficult concepts.
+- For complex topics, break them into small steps.
+- If a response can be explained in 5 lines, do not use 20 lines.
+
+Default format:
+
+1. What it is.
+2. Why it matters.
+3. What to do next.

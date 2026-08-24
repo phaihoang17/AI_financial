@@ -152,32 +152,37 @@ Goal: turn Vietnamese questions into validated structured semantics.
 
 Goal: make OCR-derived financial tables retrievable without losing structural meaning.
 
-- [ ] **TASK-020 — Parse/extract table structures**
+- [x] **TASK-020 — Parse/extract table structures**
   - Implement the canonical M2A source and normalized contracts in `docs/ARCHITECTURE.md` before parser behavior.
-- [ ] **TASK-021 — Normalize whitespace and table cells**
-- [ ] **TASK-022 — Expand/represent merged cells safely**
-- [ ] **TASK-023 — Normalize headers while preserving hierarchy**
-- [ ] **TASK-024 — Normalize numeric strings without losing raw value**
-- [ ] **TASK-025 — Attach row/column/header-path metadata**
-- [ ] **TASK-026 — Table normalization regression tests**
+- [x] **TASK-021 — Normalize whitespace and table cells**
+- [x] **TASK-022 — Expand/represent merged cells safely**
+- [x] **TASK-023 — Normalize headers while preserving hierarchy**
+- [x] **TASK-024 — Normalize numeric strings without losing raw value**
+- [x] **TASK-025 — Attach row/column/header-path metadata**
+- [x] **TASK-026 — Table normalization regression tests**
 
-- [ ] **TASK-027 — Build retrieval representation builder**
+- [x] **TASK-027 — Build retrieval representation builder**
   - Include company, period, statement scope, table identity, schema/header hierarchy.
   - Use structured `row_paths` and `column_paths` containing `HeaderPathEntry`; do not flatten paths to strings.
 
-- [ ] **TASK-028 — Build BGE-M3 embedding indexer**
-  - Generate dense vectors for report/table representations.
+- [x] **TASK-028 — Build BGE-M3 embedding indexer**
+  - [x] **TASK-028A — Derive lossless embedding chunks**
+    - Fragment only oversized individual source cells at the embedding boundary.
+    - Preserve exact source-cell text and provenance; never truncate or modify M2A.
+  - [x] **TASK-028B — Generate document embeddings**
+    - Use the pinned BGE-M3 model/tokenizer configuration over every emitted chunk.
 
-- [ ] **TASK-029 — Build vector index + metadata persistence**
-  - Persist BGE-M3 vectors with traceable retrieval metadata.
+- [x] **TASK-029 — Build vector index + metadata persistence**
+  - Persist complete BGE-M3 vectors with traceable retrieval metadata in immutable
+    FAISS shards plus SQLite and a committed manifest.
 
-- [ ] **TASK-02A — Extract narrative paragraphs**
+- [x] **TASK-02A — Extract narrative paragraphs**
   - Preserve report/page/section identity.
 
-- [ ] **TASK-02B — Link associated text to tables**
+- [x] **TASK-02B — Link associated text to tables**
   - Store table <-> paragraph relations when recoverable.
 
-- [ ] **TASK-02C — Extract scale/unit hints**
+- [x] **TASK-02C — Extract scale/unit hints**
   - Preserve offline scale/unit clues from headers, captions, and paragraphs.
   - Offline M2A emits `HEADER`, `CELL`, `CAPTION`, or `TEXT` hints only and does not resolve final scale.
   - Question-derived scale remains TASK-017/TASK-054.
@@ -187,6 +192,33 @@ Acceptance for M2:
 - hierarchical paths remain recoverable,
 - period/header identity remains explicit,
 - raw and normalized numeric values can be audited.
+
+M2 implementation is complete. TASK-028A passed the full-corpus chunk audit
+(zero omitted representations/cells and zero over-budget chunks); TASK-028B and
+TASK-029 implementations are complete. The production full-corpus embedding /
+index artifact has not been built on the 8 GiB development host. Building that
+artifact on the approved production machine is an operational/deployment run,
+not missing indexing functionality.
+
+The streaming TASK-028B/TASK-029 CLI is:
+
+```bash
+python -m src.indexing.embedding_artifact_builder \
+  --input-artifact <m2-corpus-artifact> \
+  --output-root <output-root> \
+  --device <cpu|cuda|mps> \
+  --batch-size <N> \
+  --max-vectors-per-shard 100000 \
+  --resume
+```
+
+It has been validated only with small CPU integration artifacts. Do not run
+the full-corpus command on the 8 GiB development host.
+
+The deterministic full-corpus `m2-corpus-artifact-v1` containing all emitted
+TABLE/TEXT `EmbeddingChunk` records is materialized separately from production
+embedding/index deployment. It contains no vectors, FAISS index, BM25 index, or
+retrieval behavior.
 
 ---
 
