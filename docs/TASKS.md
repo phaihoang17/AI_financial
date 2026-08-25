@@ -226,42 +226,57 @@ retrieval behavior.
 
 Goal: address the primary failure bottleneck with an explicit hybrid retrieval stack.
 
-- [ ] **TASK-030 — Report-level metadata filter / retriever**
+Batch 2 implementation is complete for persisted lexical retrieval, compatible
+dense query embedding, and exact metadata-filtered FAISS search. Production-scale
+vector validation remains `GPU_PRODUCTION_VALIDATION_PENDING`.
+
+Batch 2.5 is complete as an additive provenance and retrieval-eligibility
+increment. It leaves the canonical M2 corpus unchanged while materializing an
+exactly bound `m2-provenance-sidecar-v1` for full scale/unit hints and
+table--text links. It also applies non-empty TABLE/TEXT source eligibility in
+BM25 and vector pre-top-k filtering.
+
+- [x] **Batch 2.5 — M2 provenance sidecar + source-type eligibility**
+  - Persist and validate complete `ScaleUnitHint` and `TableTextLink` records.
+  - Require every materialized M2 hint/link reference to resolve.
+  - Keep TABLE/TEXT retrieval eligibility independent from report metadata.
+
+- [x] **TASK-030 — Report-level metadata filter / retriever**
   - Filter by company, period, and statement scope.
 
-- [ ] **TASK-031 — BM25 index + search**
+- [x] **TASK-031 — BM25 index + search**
   - Cover ticker, report labels, financial metrics, and table terminology.
 
-- [ ] **TASK-032 — BGE-M3 query embedder**
+- [x] **TASK-032 — BGE-M3 query embedder**
   - Use the same embedding configuration as offline indexing.
 
-- [ ] **TASK-033 — Vector search**
+- [x] **TASK-033 — Vector search**
   - Search the BGE-M3 vector index and preserve candidate metadata.
 
-- [ ] **TASK-034 — Hybrid fusion with RRF**
+- [x] **TASK-034 — Hybrid fusion with RRF**
   - Merge BM25 and dense candidate lists deterministically.
 
-- [ ] **TASK-035 — BGE-reranker-v2-m3 integration**
+- [x] **TASK-035 — BGE-reranker-v2-m3 integration**
   - Rerank fused candidates before evidence selection.
 
-- [ ] **TASK-036 — Hybrid Retrieval Query Builder**
+- [x] **TASK-036 — Hybrid Retrieval Query Builder**
   - Build table and/or text retrieval queries from `QueryUnderstanding + Plan`.
   - Preserve requested evidence source type.
 
-- [ ] **TASK-037 — Multi-table retrieval**
+- [x] **TASK-037 — Multi-table retrieval**
   - Support independent/parallel retrieval for plans requiring multiple tables.
 
-- [ ] **TASK-038 — Evidence/cell locator**
+- [x] **TASK-038 — Evidence/cell locator**
   - Ground target metrics to row/column/header path.
 
-- [ ] **TASK-039 — Evidence Builder**
+- [x] **TASK-039 — Evidence Builder**
   - Convert selected retrieval results to canonical evidence objects.
 
-- [ ] **TASK-03A — Retrieval evaluation**
+- [x] **TASK-03A — Retrieval evaluation**
   - Evaluate BM25, dense retrieval, fusion, reranker, and final evidence selection separately.
   - Thresholds: `TBD`.
 
-- [ ] **TASK-03B — Retrieval failure taxonomy logging**
+- [x] **TASK-03B — Retrieval failure taxonomy logging**
   - wrong company,
   - wrong period,
   - wrong scope,
@@ -269,46 +284,46 @@ Goal: address the primary failure bottleneck with an explicit hybrid retrieval s
   - wrong row/column,
   - insufficient evidence.
 
-- [ ] **TASK-03C — Index/model version checks**
+- [x] **TASK-03C — Index/model version checks**
   - Detect incompatible BM25/vector/embedding/reranker versions before serving.
 
-- [ ] **TASK-03D — Narrative-text retrieval**
+- [x] **TASK-03D — Narrative-text retrieval**
   - Retrieve associated paragraphs/text spans, not only tables.
 
-- [ ] **TASK-03E — Hybrid evidence completeness**
+- [x] **TASK-03E — Hybrid evidence completeness**
   - Verify that required table + text evidence is present before reasoning.
 
-- [ ] **TASK-03F — Scale/unit evidence retrieval**
+- [x] **TASK-03F — Scale/unit evidence retrieval**
   - Retrieve header/paragraph clues needed to interpret numeric magnitude.
 
 # M4 — Supervisor / Planner
 
 Goal: transform validated `QueryUnderstanding` into a deterministic execution `Plan`.
 
-- [ ] **TASK-040 — Question-type classifier**
+- [x] **TASK-040 — Question-type classifier**
   - `LOOKUP | DERIVED_RATIO | MULTI_PERIOD | AGGREGATE`.
 
-- [ ] **TASK-041 — Required-table planner**
+- [x] **TASK-041 — Required-table planner**
   - Produce `tables_needed` and `target_metrics`.
 
-- [ ] **TASK-042 — Required-period planner**
+- [x] **TASK-042 — Required-period planner**
   - Include implicit periods required by formulas (e.g. average-equity pattern).
 
-- [ ] **TASK-043 — Formula/derived-target planner**
+- [x] **TASK-043 — Formula/derived-target planner**
 
-- [ ] **TASK-044 — Early-abstain policy**
+- [x] **TASK-044 — Early-abstain policy**
   - unresolved company,
   - unsafe missing period/scope,
   - ungroundable metric,
   - unsupported operation.
 
-- [ ] **TASK-045 — Model-tier routing**
+- [x] **TASK-045 — Model-tier routing**
   - `CHEAP` vs. `STRONG`.
 
-- [ ] **TASK-046 — Verification-profile routing**
+- [x] **TASK-046 — Verification-profile routing**
   - `LIGHT` vs. `STRICT`.
 
-- [ ] **TASK-047 — Supervisor evaluation**
+- [x] **TASK-047 — Supervisor evaluation**
   - question class,
   - required tables,
   - required periods,
@@ -318,69 +333,118 @@ Goal: transform validated `QueryUnderstanding` into a deterministic execution `P
 
 ---
 
-- [ ] **TASK-048 — Evidence-source planner**
+- [x] **TASK-048 — Evidence-source planner**
   - output `TABLE`, `TEXT`, or both.
 
-- [ ] **TASK-049 — Reasoning-mode and complexity router**
+- [x] **TASK-049 — Reasoning-mode and complexity router**
   - `DIRECT | PROGRAM | TABLE_TRANSFORM`.
-  - `TABLE_TRANSFORM` must be opt-in based on measured complexity/failure criteria.
+  - `TABLE_TRANSFORM` is disabled in M4 v1; future opt-in requires measured
+    complexity/failure criteria.
+
+**M4_IMPLEMENTATION_COMPLETE**
+
+The remaining `GPU_PRODUCTION_VALIDATION_PENDING` status belongs to the
+production-scale M3 vector artifact and is not missing M4 implementation.
 
 # M5 — Schema Linking, Scale/Unit, and Numeric Masking
 
 Goal: bind language to table structure and remove literal-number dependence from program generation.
 
-- [ ] **TASK-050 — Schema linker**
+- [x] **TASK-050 — Schema linker**
   - Map canonical metrics to actual row/header paths.
 
-- [ ] **TASK-051 — Numeric masking**
+- [x] **TASK-051 — Numeric masking**
   - Replace grounded literal values with symbolic placeholders.
 
-- [ ] **TASK-052 — Deterministic value binder**
+- [x] **TASK-052 — Deterministic value binder**
   - Bind placeholders back to grounded values only at execution time.
 
-- [ ] **TASK-053 — Anti-hardcode tests**
+- [x] **TASK-053 — Anti-hardcode tests**
   - Ensure generated programs do not depend on copied gold answer values.
+  - Complete against real M6 generated Programs: BindingMap-value mutation,
+    financial-value leakage, placeholder mutation, required-evidence coverage,
+    formula-registry enforcement, and generated-constant rejection.
 
 ---
 
-- [ ] **TASK-054 — Scale/unit resolver**
-  - Resolve scale from header/cell/text/question and retain provenance.
+- [x] **TASK-054 — Scale/unit resolver**
+  - Resolve document scale from header/cell/text hints, keep the question's
+    requested output scale separate, and retain provenance.
 
-- [ ] **TASK-055 — Scale/unit regression tests**
+M5 Batch 1 is deterministic and operates only on already-grounded M3 evidence:
+`Plan + Evidence -> ScaleUnitResolution -> SchemaLinkResult`. It does not
+change `EvidenceItem`, convert `CanonicalDecimal`, widen retrieval, or use an
+LLM.
+
+M5 Batch 2 extends that boundary with value-free `MaskedEvidenceBundle` for the
+future Programmer and a separate execution-only `BindingMap`. It preserves
+`CanonicalDecimal` strings and performs no scale/unit conversion. M6 Batch 1
+now provides the Program contract, and M6 Batch 2 completes TASK-053 against
+real generated Programs without execution.
+
+- [x] **TASK-055 — Scale/unit regression tests**
   - million vs. billion,
   - raw vs. thousand,
   - percent,
   - mixed-source scale clues.
 
+TASK-055 covers every canonical source scale, direct and linked hint sources,
+the complete precedence order, conflicts/unresolved results, percent literals,
+source/request separation, numeric immutability, provenance, determinism, and
+the required-scale masking gate.
+
 # M6 — Programmer / Text-to-Pandas
 
 Goal: generate reproducible Python/Pandas programs from `Plan + Evidence`.
 
-- [ ] **TASK-060 — Programmer input/output contract**
+- [x] **TASK-060 — Programmer input/output contract**
 
-- [ ] **TASK-061 — LOOKUP program generation**
+- [x] **TASK-061 — LOOKUP program generation**
 
-- [ ] **TASK-062 — DERIVED_RATIO program generation**
+- [x] **TASK-062 — DERIVED_RATIO handling**
+  - Deterministically reject because no ratio formula is registered; do not
+    invent a formula.
 
-- [ ] **TASK-063 — MULTI_PERIOD program generation**
+- [x] **TASK-063 — MULTI_PERIOD program generation**
 
-- [ ] **TASK-064 — AGGREGATE program generation**
+- [x] **TASK-064 — AGGREGATE program generation**
 
-- [ ] **TASK-065 — Vietnamese numeric parsing utilities**
+- [x] **TASK-065 — Vietnamese numeric parsing utilities**
+  - Reuse the M2 parser through a typed CanonicalDecimal adapter; add no grammar.
 
-- [ ] **TASK-066 — Unit conversion utilities**
+- [x] **TASK-066 — Unit conversion utilities**
+  - Decimal-only magnitude conversion with typed scale/unit failures.
 
 - [ ] **TASK-067 — Oracle-evidence reasoning evaluation**
+  - Status: `IMPLEMENTABLE_NOW` after M7 Batch 2.
   - Run Programmer with gold/oracle evidence so reasoning quality is measured independently from retrieval.
   - Target thresholds: `TBD`.
 
 ---
 
-- [ ] **TASK-068 — Program grammar/schema validator**
+- [x] **TASK-068 — Program grammar/schema validator**
   - Reject structurally invalid programs before sandbox execution.
 
-- [ ] **TASK-069 — Program/trace evaluation**
+- [x] **TASK-069 — Program/trace evaluation**
   - Compare reasoning trace separately from execution result.
+
+M6 Batch 1 defines the
+value-free `m6-program-v1` symbolic DSL, deterministic Program identity and
+serialization, versioned FormulaImplementation metadata for `GROWTH_RATE` and
+`AVERAGE`, and typed pre-execution validation. It performs no model inference,
+numeric parsing/conversion, formula execution, or sandbox execution.
+
+M6 Batch 2 completes TASK-061 through TASK-064 and TASK-053. The deterministic
+Programmer emits only IDENTITY lookup, COLLECT comparison, registered
+GROWTH_RATE, and registered AVERAGE shapes; rejects ratios; preserves Plan
+requirement order; and validates every Program through TASK-068. It still
+performs no model inference, BindingMap access, numeric parsing/conversion,
+formula execution, or sandbox execution.
+
+M6 Batch 3 completes TASK-065, TASK-066, and TASK-069. It reuses the M2 parser,
+adds exact Decimal-only scale conversion that returns CanonicalDecimal strings,
+and evaluates Program structure independently of execution. TASK-067 remains
+unimplemented; M7 Batch 2 has since removed its execution-boundary blocker.
 
 # M6B — Complex Table Reasoning Fallback
 
@@ -405,24 +469,41 @@ Goal: evaluate a bounded Chain-of-Table-inspired path for difficult table struct
 
 # M7 — Sandboxed Execution
 
-Goal: execute generated code safely outside the host application process.
+Goal: execute validated symbolic Programs safely outside the host application
+process without arbitrary Python execution.
 
-- [ ] **TASK-070 — Static program policy / allowlist**
+- [x] **TASK-070 — Static program policy / allowlist**
   - Treat as pre-filter, not the only security boundary.
 
-- [ ] **TASK-071 — Isolated execution process**
+- [x] **TASK-071 — Trusted DSL interpreter + isolated execution process**
 
 - [ ] **TASK-072 — Resource limits**
   - time,
   - memory,
   - filesystem/network policy as appropriate.
 
-- [ ] **TASK-073 — ExecutionResult contract implementation**
+- [x] **TASK-073 — ExecutionResult contract implementation**
 
 - [ ] **TASK-074 — Sandbox abuse/security tests**
 
 - [ ] **TASK-075 — Infrastructure ADR for final sandbox technology**
   - Container / gVisor-like / MicroVM decision based on deployment constraints.
+
+M7 Batch 1 completed TASK-070 and TASK-073. It defines the versioned execution
+request/result boundary, typed failure stages, Decimal precision/serialization,
+exact Program--MaskedEvidence--BindingMap bijection, TASK-068 revalidation, and
+bounded static DSL policy. It performs no Program or formula execution, process
+isolation, runtime resource limiting, abuse testing, or sandbox-technology
+selection.
+
+M7 Batch 2 completes TASK-071. The parent validates TASK-070, sends bounded
+canonical JSON to a fixed separate worker, and validates the typed result. The
+worker independently revalidates, binds `CanonicalDecimal` values, and
+interprets only `IDENTITY`, `COLLECT`, `GROWTH_RATE`, and `AVERAGE` through the
+built-in DSL/FormulaRegistry boundary. It never compiles model output to Python
+source. TASK-067 is now `IMPLEMENTABLE_NOW` but remains unimplemented.
+TASK-072, TASK-074, and TASK-075 remain pending;
+`GPU_PRODUCTION_VALIDATION_PENDING` is unchanged.
 
 ---
 

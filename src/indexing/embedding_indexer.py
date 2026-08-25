@@ -86,6 +86,23 @@ class TransformersBGEEncoder:
         self.tokenizer = tokenizer
         self.device = device
 
+    def count_tokens(self, texts: Sequence[str], *, max_length: int) -> List[int]:
+        """Count full tokenized inputs before the no-truncation encode path."""
+
+        counts: List[int] = []
+        for text in texts:
+            encoded = self.tokenizer(
+                text,
+                truncation=False,
+                add_special_tokens=True,
+                return_attention_mask=False,
+            )
+            input_ids = encoded.get("input_ids")
+            if not isinstance(input_ids, list):
+                raise EmbeddingError("EMBEDDING_INPUT_INVALID", "tokenizer did not return input IDs")
+            counts.append(len(input_ids))
+        return counts
+
     def encode(self, texts: Sequence[str], *, batch_size: int, max_length: int) -> Any:
         try:
             import torch

@@ -414,6 +414,148 @@ corpus builds require an approved higher-memory build machine; M3 owns search.
 
 ---
 
+## ADR-020 — Use exact pre-filtered FAISS FlatIP search in M3 v1
+
+**Status:** Accepted
+
+### Decision
+
+TASK-033 uses TASK-030's exact SQLite metadata constraints to select eligible
+vector IDs before each FAISS search.  For each validated shard, it builds a
+temporary `IndexIDMap2(IndexFlatIP(1024))` containing only those eligible
+normalized vectors, then takes deterministic shard and global top-k results.
+
+### Rationale
+
+The persisted FlatIP index does not apply report metadata constraints natively.
+Pre-filtering preserves the approved company, year, and scope semantics without
+oversampling, silently returning fewer results, or admitting ineligible
+vectors.
+
+### Consequences
+
+Filtered search is exact but has a bounded per-shard temporary-vector cost.
+All shards must validate and be searched; no partial or best-effort serving is
+allowed.  Production full-corpus latency validation remains
+`GPU_PRODUCTION_VALIDATION_PENDING`.
+
+---
+
+## ADR-021 — Preserve M2A provenance in an immutable additive sidecar
+
+**Status:** Accepted
+
+### Decision
+
+Keep the canonical materialized M2 corpus immutable and publish complete
+`ScaleUnitHint` and `TableTextLink` objects in a separate
+`m2-provenance-sidecar-v1` SQLite artifact.  Bind the sidecar to one exact M2
+corpus identity and reject publication unless all representation hint IDs and
+listed source links resolve.  Expose read-only indexed provenance lookup APIs.
+
+Apply TABLE/TEXT source eligibility as a separate, non-empty pre-top-k filter
+in both BM25 SQLite FTS and vector SQLite ID selection.  It is independent of
+TASK-030 report metadata eligibility and defaults to the request's evidence
+sources.
+
+### Consequences
+
+Scale/unit and table--narrative provenance remain available for later evidence
+work without mutating, rebuilding, or duplicating the canonical M2 corpus.
+Source-specific retrieval can safely issue TABLE and TEXT searches separately;
+no backend may widen an empty or restrictive source filter.
+
+---
+
+## ADR-022 — Use deterministic RRF and a pinned cross-encoder before evidence building
+
+**Status:** Accepted
+
+### Decision
+
+Fuse BM25 and vector ranked lists with unweighted RRF (`k=60`) only after each
+backend's exact metadata and source-type filters.  Then rerank the fused list
+with raw first-logit scores from the pinned `BAAI/bge-reranker-v2-m3` revision.
+Reject invalid ranks, incompatible duplicate provenance, and pairs over 8,192
+tokens instead of normalizing, truncating, or partially reranking.
+
+Expose deterministic TABLE multi-subqueries and a TEXT narrative view as
+retrieval outputs, not EvidenceItem objects.  Use the immutable provenance
+sidecar only for persisted associations and scale/unit hints.  Preserve
+conflicts and partial retrieval state for the later evidence and verification
+stages.
+
+### Consequences
+
+Batch 3 can combine lexical and dense retrieval without introducing an LLM or
+weakening grounding.  TASK-038, TASK-039, and TASK-03E remain responsible for
+cell location, evidence construction, and hybrid completeness rather than
+being bypassed by retrieval orchestration.
+
+---
+
+## ADR-023 — Preserve parsed numeric values as canonical decimal strings
+
+**Status:** Accepted
+
+### Decision
+
+`EvidenceItem.normalized_value` is `CanonicalDecimal | null`: the exact
+validated decimal string produced by `NumericParseResult.decimal_value`.
+Evidence and retrieval never cast it to `int`, `float`, or a percentage ratio.
+The later arithmetic boundary may explicitly construct `decimal.Decimal` from
+that string inside the approved execution path.
+
+### Consequences
+
+JSON evidence remains lossless for large and fractional financial values.
+Scale/unit resolution and percent-literal interpretation remain deferred; no
+binary-float conversion becomes part of the canonical evidence contract.
+
+---
+
+## ADR-024 — Evidence is source-located before it is considered complete
+
+**Status:** Accepted
+
+### Decision
+
+Locate TABLE evidence only from source cells covered by the retrieved M2 chunk,
+then build EvidenceItem from the exact source-backed cell or paragraph.
+Completeness checks source types and exact metric/period grounding separately;
+they do not calculate values, resolve scales, or fabricate evidence.
+
+### Consequences
+
+Retrieval results cannot widen into arbitrary parent-table cells. Later schema
+linking, scale resolution, verification, and calculation receive a traceable
+evidence boundary rather than an inferred answer.
+
+---
+
+## ADR-025 — Evaluate retrieval boundaries and log typed earliest failures
+
+**Status:** Accepted
+
+### Decision
+
+M3 evaluation records BM25, vector, RRF, reranker, multi-table, evidence
+grounding, and TASK-03E hybrid-completeness results separately. Fixture cases
+use deterministic retrieval-contract IDs and run without CUDA; full-corpus
+vector evaluation remains `GPU_PRODUCTION_VALIDATION_PENDING`. Failures use a
+typed event with deterministic identity, preserved underlying code, optional
+artifact/model fingerprints, and no stack trace payload. Attribution selects
+the earliest boundary that cannot recover the required evidence.
+
+### Consequences
+
+Aggregate metrics cannot hide a downstream reranker/evidence failure or an
+upstream recall miss. The taxonomy is observational only: it adds no retry or
+retrieval behavior. Thresholds remain TBD until full-corpus evaluation data is
+available.
+
+---
+
 ## ADR-017 — Narrative model is optional for v1
 
 **Status:** Accepted
@@ -692,6 +834,336 @@ copied only from path metadata and never inferred from OCR text.
   deduplication, and remain model- and storage-independent.
 
 
+## ADR-029 — Use deterministic, registry-bounded M4 v1 planning
+
+**Status:** Accepted
+
+### Decision
+
+M4 Batch 1 consumes `QueryUnderstanding + PlanningGate` without an LLM and
+returns `SupervisorResult`: either one executable Plan or a typed abstention.
+Plans carry stable ordered `RetrievalRequirement` values. The only initial
+formula definitions are `GROWTH_RATE` and `AVERAGE`; the only initial metric
+table mapping is `LNST -> INCOME_STATEMENT`. Requested period kinds must be
+homogeneous, dates are never inferred, and ratios abstain until a
+metric-specific formula is approved.
+
+### Consequences
+
+The Supervisor cannot fabricate missing identity, table, period, metric, or
+formula information. It does not retrieve or calculate. Explicit Plan
+requirements are documented for later M3 integration, but M3 behavior does not
+change in this batch. `TABLE_TRANSFORM` remains disabled.
+
+---
+
+## ADR-030 — Route M4 v1 plans from deterministic structure only
+
+**Status:** Accepted
+
+### Decision
+
+Route reasoning mode from question type and registered formula metadata, then
+route model tier from reasoning mode (`DIRECT -> CHEAP`, `PROGRAM -> STRONG`).
+Use `LIGHT` verification only for a formula-free direct lookup with exactly one
+required retrieval requirement; use `STRICT` otherwise.
+
+Select requirement sources by formula metadata, then explicit requirement
+source types, then the approved evidence policy. The v1 numeric policy and both
+registered formulas require only `TABLE`. Derive final `Plan.evidence_sources`
+exactly from the ordered requirements. Keep `TABLE_TRANSFORM` disabled.
+
+### Consequences
+
+- Formula-free multi-period comparison is `DIRECT + CHEAP + STRICT`.
+- Growth, average, and future registered ratios are `PROGRAM + STRONG + STRICT`
+  unless an approved formula contract changes their reasoning mode.
+- Confidence, retrieval scores/results, table size, token count, free-form
+  wording, and LLM planning cannot affect these routes.
+- A future formula-level model requirement may only upgrade to `STRONG`; it
+  cannot downgrade a `STRONG` route.
+- Batch 1 retry budgets and scale-resolution flag behavior remain unchanged.
+- TASK-047 evaluates these routes independently, and retrieval behavior remains
+  unchanged.
+
+---
+
+## ADR-031 — Evaluate Supervisor output by exact structure before retrieval
+
+**Status:** Accepted
+
+### Decision
+
+Evaluate the deterministic Supervisor directly from fixture
+`QueryUnderstanding + PlanningGate` inputs. Compare the 12 approved planning
+fields exactly and in canonical order. Ordered lists are order-sensitive, and
+retrieval requirements compare all payload fields while ignoring only their
+derived `requirement_id`.
+
+An abstention is correct only when the actual result abstains with a null plan
+and the exact expected typed reason. Report exact-match rate, per-field
+accuracy, and abstain precision/recall without a production threshold.
+
+### Consequences
+
+- Supervisor quality is measured independently from M3 retrieval and later
+  execution/answer stages.
+- The 14-case v1 fixture is deterministic, CPU-only, and uses no backend or LLM.
+- Safety tests ensure planning cannot invent company, ticker, metric, period,
+  scope, table mapping, or formula.
+- A successful Plan is checked at the M3 query-builder boundary; an abstaining
+  result cannot cross because its plan is null.
+- M4 implementation is complete. Production-scale M3 vector validation remains
+  `GPU_PRODUCTION_VALIDATION_PENDING`.
+
+---
+
+## ADR-032 — Resolve scale and link schema only inside grounded evidence
+
+**Status:** Accepted
+
+### Decision
+
+M5 Batch 1 runs deterministic scale/unit resolution before schema linking. The
+scale resolver keeps document source scale/unit separate from the user's
+requested output scale/unit, applies the approved direct-cell through linked
+precedence, retains every considered hint ID, and performs no numeric
+conversion. The schema linker consumes ordered Supervisor retrieval
+requirements and structured M3 `CellLocation` paths, using only the existing
+metric registry and exact canonical periods.
+
+Both stages operate exclusively on supplied, already-retrieved M3 evidence.
+They do not widen a candidate into other table cells, flatten structured paths,
+mutate `EvidenceItem`, or use fuzzy/semantic/LLM matching.
+
+### Consequences
+
+- `CanonicalDecimal` and all M2/M3 raw provenance remain unchanged.
+- Missing scale is unresolved rather than defaulted to `RAW`.
+- Conflicts at the highest available scale-hint precedence are ambiguous.
+- One exact metric/period location resolves; multiple are ambiguous; none is
+  unresolved.
+- Numeric masking and deterministic binding are specified by ADR-033 below.
+  TASK-055 regression coverage is complete; ADR-034 later unblocks TASK-053
+  without marking it complete.
+
+---
+
+## ADR-033 — Separate programmer masking from execution value binding
+
+**Status:** Accepted
+
+### Decision
+
+M5 Batch 2 exposes only `MaskedEvidenceBundle` to the future Programmer. Each
+placeholder is deterministically derived from `evidence_id` and the fixed
+`m5-numeric-masking-v1` contract version using the full SHA-256. Masking accepts
+only resolved schema links, exact M3 evidence/location chains, canonical numeric
+values, and—when the Plan requires it—resolved scale/unit results.
+
+Keep numeric values in a separate execution-only `BindingMap`. The binder maps
+each exact placeholder back to the original `EvidenceItem.normalized_value`,
+copies scale/unit resolution metadata, and accepts no program or code source.
+It performs neither float conversion nor scale/unit conversion.
+
+### Consequences
+
+- Programmer-facing evidence cannot leak `raw_value` or `normalized_value`.
+- `CanonicalDecimal` remains a canonical JSON string through binding.
+- Missing, ambiguous, unresolved, conflicting, or non-numeric inputs fail with
+  typed masking/binding errors rather than guesses.
+- The original EvidenceItem and its M2/M3 provenance remain unchanged.
+- TASK-055 scale/unit regression is complete. ADR-034 later unblocks TASK-053
+  anti-hardcode work; this M5 decision itself introduces no M6 Programmer or
+  Sandbox behavior.
+
+---
+
+## ADR-034 — Use a value-free symbolic M6 Program DSL and versioned formula implementations
+
+**Status:** Accepted
+
+### Decision
+
+M6 Batch 1 defines `ProgrammerInput` as exactly `Plan`,
+`MaskedEvidenceBundle`, and the FormulaRegistry fingerprint. `BindingMap`
+remains execution-only and cannot enter this boundary. The canonical
+`m6-program-v1` Program contains only symbolic inputs and the three allowlisted
+operations `IDENTITY`, `COLLECT`, and `APPLY_REGISTERED_FORMULA`.
+
+Validate exact schema, Plan consistency, registered formula use and ordered
+arity, placeholder membership, required-evidence dependency coverage, unique
+IDs, topological references, valid output, deterministic identity, and
+canonical serialization before later execution. Reject literals and arbitrary
+code/calls/imports/attributes/files/network/eval/exec with typed failures.
+
+Keep one existing FormulaRegistry and add matching versioned
+`m6-formula-implementation-v1` metadata. `GROWTH_RATE` is ordered
+`previous,current` with percent-growth semantics and approved constant `100`;
+`AVERAGE` is a variadic arithmetic mean with at least two values. No ratio
+formula is added.
+
+### Consequences
+
+- Program IDs depend only on symbolic Program content and are independent of
+  execution binding values.
+- Numeric constants cannot enter Program; approved constants exist only in a
+  registered `FormulaImplementation`.
+- `CanonicalDecimal` remains a string; M6 performs no arithmetic, parsing,
+  conversion, model inference, or execution.
+- At the Batch 1 boundary, TASK-053 was unblocked but not completed; ADR-035
+  records its later Batch 2 completion.
+- At the Batch 1 boundary, TASK-061 through TASK-067 and TASK-069 remained
+  deferred; ADR-035 completes only TASK-061 through TASK-064.
+
+---
+
+## ADR-035 — Generate only the four approved M6 v1 symbolic Program shapes
+
+**Status:** Accepted
+
+### Decision
+
+M6 Batch 2 uses one deterministic Programmer function whose only input is
+`ProgrammerInput`. Revalidate the nested Plan and MaskedEvidenceBundle, map one
+masked item to every required retrieval requirement, and construct Program
+inputs in Plan requirement order.
+
+Generate only:
+
+- `LOOKUP -> IDENTITY`,
+- formula-free `MULTI_PERIOD -> COLLECT`,
+- `GROWTH_RATE -> APPLY_REGISTERED_FORMULA`,
+- `AVERAGE -> APPLY_REGISTERED_FORMULA`.
+
+Reject `DERIVED_RATIO` until a ratio formula is registered; never infer or
+author a formula. Reject missing/ambiguous required evidence, unknown
+requirements, invalid placeholders, and unsupported formulas with typed
+Programmer failures. Pass every constructed Program through ADR-034/TASK-068
+validation before returning `GENERATED`, and propagate validator failure codes
+through `ProgrammerResult.REJECTED`.
+
+### Consequences
+
+- Masked bundle arrival order cannot change operand order or Program identity.
+- BindingMap, raw/normalized values, numeric literals, arbitrary code, and
+  model inference are absent from generation.
+- TASK-053 is complete against real generated Programs, including value,
+  placeholder, evidence-coverage, formula-registry, and constant mutations.
+- TASK-065, TASK-066, TASK-067, and TASK-069 remain pending and no execution is
+  introduced.
+
+---
+
+## ADR-036 — Reuse M2 parsing and evaluate M6 structure without execution
+
+**Status:** Accepted
+
+### Decision
+
+M6 Batch 3 adds no numeric grammar. Adapt the existing M2
+`NumericParseResult` into `CanonicalDecimal` and preserve every unsuccessful M2
+status as the typed boundary failure. Convert only approved magnitude scales
+with `decimal.Decimal`, serialize back to `CanonicalDecimal`, treat percent as
+a separate identity-only semantic scale, and reject unresolved scales or
+different units rather than guessing.
+
+Evaluate Programs by exact equality first and an optional deterministic
+`TraceEquivalenceHook` second. The approved normalized hook ignores only
+Program and graph-node IDs while preserving ordered grounded inputs,
+operations, formulas, references, and output structure. Package trace results
+with the existing `ReasoningEvaluationResult`; execution and answer scores
+remain independently supplied and are not computed in this batch.
+
+### Consequences
+
+- M2 remains the single Vietnamese numeric grammar and parser.
+- Binary float, rounding, FX conversion, formula execution, sandbox execution,
+  and model inference remain outside Batch 3.
+- Scale conversion is deterministic shared infrastructure and does not mutate
+  `EvidenceItem`, `ValueBinding`, or `BindingMap`.
+- TASK-065, TASK-066, and TASK-069 are complete.
+- TASK-067 remains `BLOCKED_BY_M7_EXECUTION_BOUNDARY`; no oracle execution
+  scoring is invented before M7.
+
+---
+
+## ADR-037 — Admit only validated DSL and use Decimal-safe M7 execution contracts
+
+**Status:** Accepted
+
+### Decision
+
+M7 Batch 1 replaces the old float-permitting `ExecutionResult` with versioned
+`SandboxExecutionRequest`, `ExecutionDatum`, `ExecutionOutput`,
+`ExecutionFailure`, and `ExecutionResult` contracts. Execution values are
+`CanonicalDecimal` strings with scale/unit metadata; binary float is forbidden.
+Success/failure and scalar/ordered-output shapes are exact invariants.
+
+Before future dispatch, TASK-070 reruns TASK-068 against the supplied
+`ProgrammerInput`, accepts only the three `m6-program-v1` operations, enforces
+bounded structural size/depth, and requires an exact bijection across Program
+inputs, masked evidence, and execution-only `BindingMap`. Existing M6 failure
+codes are retained under typed execution failure stages.
+
+Use a fresh Decimal context with precision 50, `ROUND_HALF_EVEN`, trapped
+`DivisionByZero`, `InvalidOperation`, and `Overflow`, and allowed
+`Inexact`/`Rounded`. Serialize finite results in fixed-point form without
+unnecessary fractional zeroes or negative zero. Never convert through float or
+quantize currency in M7.
+
+TASK-071 owns the trusted DSL interpreter and isolated worker. It must lower
+validated Programs to internal instructions only; it may not compile or run
+model-generated Python source. Formula and scale/unit runtime semantics are
+fixed in `docs/ARCHITECTURE.md`, but no formula execution is implemented in
+Batch 1.
+
+### Consequences
+
+- TASK-070 and TASK-073 are complete.
+- TASK-071, TASK-072, TASK-074, and TASK-075 remain deferred.
+- Static policy remains a pre-filter and is not the production isolation
+  boundary.
+- TASK-067 remains `BLOCKED_BY_M7_EXECUTION_BOUNDARY` until the TASK-071
+  interpreter/process boundary exists.
+- `GPU_PRODUCTION_VALIDATION_PENDING` is unchanged.
+
+---
+
+## ADR-038 — Interpret the M6 DSL in one fixed isolated worker process
+
+**Status:** Accepted
+
+### Decision
+
+M7 Batch 2 executes a `SandboxExecutionRequest` only after parent-side TASK-070
+validation. The parent sends bounded canonical JSON to one fixed Python module
+without a shell and with a minimal environment. The worker independently reruns
+TASK-070/TASK-068, binds the execution-only `BindingMap`, and interprets Program
+steps in order using Decimal arithmetic.
+
+The trusted interpreter implements only `IDENTITY`, `COLLECT`, and
+`APPLY_REGISTERED_FORMULA`. Formula dispatch is limited to the registered
+`GROWTH_RATE` and `AVERAGE` implementation kinds. It does not compile or execute
+Program text, arbitrary Python, imports, callables, filesystem/network actions,
+subprocesses, or model output.
+
+Parent and worker exchange canonical UTF-8 JSON bounded to 1,048,576 bytes in
+each direction; pickle is not permitted. Worker crashes, malformed protocol,
+and invalid or mismatched results become typed `INFRASTRUCTURE` failures without
+including binding values or worker stderr.
+
+### Consequences
+
+- TASK-071 is complete and TASK-067 is now implementable, but TASK-067 remains
+  unimplemented.
+- Process separation is not the final production sandbox boundary.
+- Runtime resource enforcement remains TASK-072, abuse testing remains
+  TASK-074, and final sandbox-technology selection remains TASK-075.
+- `GPU_PRODUCTION_VALIDATION_PENDING` is unchanged.
+
+---
+
 ## Deferred Decisions
 
 The provided source materials do not fully specify the following. Do not silently treat them as final:
@@ -700,7 +1172,6 @@ The provided source materials do not fully specify the following. Do not silentl
 - exact repository package structure,
 - exact database/vector-store choice,
 - exact model provider,
-- exact generated Program schema,
 - exact answer/citation JSON schema,
 - authoritative company-alias dataset and storage mechanism,
 - authoritative financial-metric vocabulary, synonym source, and storage mechanism,

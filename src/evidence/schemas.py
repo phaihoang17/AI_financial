@@ -5,6 +5,7 @@ from __future__ import annotations
 from dataclasses import dataclass
 from enum import Enum
 import math
+import re
 from typing import Any, Dict, List, Optional, Union
 
 from src.supervisor.schemas import EvidenceSource
@@ -42,6 +43,17 @@ Number = Union[int, float]
 RawValue = Union[str, int, float]
 
 
+class CanonicalDecimal(str):
+    """Validated JSON-string decimal emitted unchanged by M2 numeric parsing."""
+
+    _PATTERN = re.compile(r"-?(?:0|[1-9]\d*)(?:\.\d+)?\Z")
+
+    def __new__(cls, value: str) -> "CanonicalDecimal":
+        if not isinstance(value, str) or not cls._PATTERN.fullmatch(value):
+            raise SchemaValidationError("normalized_value must be a canonical decimal string")
+        return str.__new__(cls, value)
+
+
 def _require_optional_number(value: Any, path: str) -> Optional[Number]:
     if value is None:
         return None
@@ -55,6 +67,14 @@ def _require_optional_number(value: Any, path: str) -> Optional[Number]:
 def _require_optional_float(value: Any, path: str) -> Optional[float]:
     number = _require_optional_number(value, path)
     return None if number is None else float(number)
+
+
+def _require_optional_canonical_decimal(value: Any) -> Optional[CanonicalDecimal]:
+    if value is None:
+        return None
+    if not isinstance(value, str):
+        raise SchemaValidationError("normalized_value must be a canonical decimal string or null")
+    return CanonicalDecimal(value)
 
 
 def _require_raw_value(value: Any) -> Optional[RawValue]:
@@ -81,7 +101,7 @@ class EvidenceItem:
     column_path: List[str]
     text_span: Optional[str]
     raw_value: Optional[RawValue]
-    normalized_value: Optional[Number]
+    normalized_value: Optional[CanonicalDecimal]
     unit: Optional[str]
     scale: Optional[Scale]
     scale_source: Optional[ScaleSource]
@@ -113,9 +133,7 @@ class EvidenceItem:
         self.column_path = _require_string_list(self.column_path, "column_path")
         self.text_span = _require_optional_string(self.text_span, "text_span")
         self.raw_value = _require_raw_value(self.raw_value)
-        self.normalized_value = _require_optional_number(
-            self.normalized_value, "normalized_value"
-        )
+        self.normalized_value = _require_optional_canonical_decimal(self.normalized_value)
         self.unit = _require_optional_string(self.unit, "unit")
         if self.scale is not None:
             self.scale = _require_enum(self.scale, Scale, "scale")

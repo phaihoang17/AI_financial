@@ -1,21 +1,25 @@
 import copy
 import unittest
 
-from src.supervisor.schemas import Plan
+from src.supervisor.schemas import EvidenceSource, Plan, RetrievalRequirement, TableClass
 from src.understanding.schemas import SchemaValidationError
 
 
 def lookup_plan():
+    requirement = RetrievalRequirement.create(
+        EvidenceSource.TABLE, TableClass.INCOME_STATEMENT, "LNST", "2015"
+    )
     return {
         "question_type": "LOOKUP",
         "company": {"name": "Công ty Cổ phần Nhựa An Phát Xanh", "ticker": "AAA"},
         "periods": ["2015"],
         "period_kind": "NAM",
         "statement_scope": "HOP_NHAT",
-        "target_metrics": ["Lợi nhuận sau thuế"],
+        "target_metrics": ["LNST"],
         "derived_target": None,
         "formula_id": None,
-        "tables_needed": ["KQKD"],
+        "tables_needed": ["INCOME_STATEMENT"],
+        "retrieval_requirements": [requirement.to_dict()],
         "evidence_sources": ["TABLE"],
         "reasoning_mode": "DIRECT",
         "requires_scale_resolution": True,
@@ -28,15 +32,23 @@ def lookup_plan():
     }
 
 
-def roe_plan():
+def growth_plan():
     payload = lookup_plan()
+    requirements = [
+        RetrievalRequirement.create(
+            EvidenceSource.TABLE, TableClass.INCOME_STATEMENT, "LNST", period
+        ).to_dict()
+        for period in ("2014", "2015")
+    ]
     payload.update(
         {
-            "question_type": "DERIVED_RATIO",
+            "question_type": "MULTI_PERIOD",
             "periods": ["2014", "2015"],
-            "target_metrics": ["Lợi nhuận sau thuế", "Vốn chủ sở hữu"],
-            "derived_target": "ROE",
-            "tables_needed": ["KQKD", "CDKT"],
+            "target_metrics": ["LNST"],
+            "derived_target": "GROWTH",
+            "formula_id": "GROWTH_RATE",
+            "tables_needed": ["INCOME_STATEMENT"],
+            "retrieval_requirements": requirements,
             "reasoning_mode": "PROGRAM",
             "model_tier": "STRONG",
             "verify_profile": "STRICT",
@@ -54,29 +66,17 @@ class PlanSchemaTests(unittest.TestCase):
 
         self.assertEqual(plan.to_dict(), payload)
 
-    def test_valid_derived_ratio_and_roe_serialization(self):
-        payload = roe_plan()
+    def test_valid_growth_serialization(self):
+        payload = growth_plan()
 
         plan = Plan.from_dict(payload)
 
         self.assertEqual(plan.to_dict(), payload)
         self.assertEqual(plan.periods, ["2014", "2015"])
-        self.assertEqual(plan.tables_needed, ["KQKD", "CDKT"])
+        self.assertEqual(plan.tables_needed, [TableClass.INCOME_STATEMENT])
 
     def test_valid_multi_period_plan(self):
-        payload = lookup_plan()
-        payload.update(
-            {
-                "question_type": "MULTI_PERIOD",
-                "periods": ["2014", "2015"],
-                "derived_target": "GROWTH",
-                "formula_id": "GROWTH_RATE",
-                "reasoning_mode": "PROGRAM",
-                "model_tier": "STRONG",
-                "verify_profile": "STRICT",
-                "max_retries": 2,
-            }
-        )
+        payload = growth_plan()
 
         plan = Plan.from_dict(payload)
 
@@ -84,6 +84,12 @@ class PlanSchemaTests(unittest.TestCase):
 
     def test_valid_aggregate_plan(self):
         payload = lookup_plan()
+        requirements = [
+            RetrievalRequirement.create(
+                EvidenceSource.TABLE, TableClass.INCOME_STATEMENT, "LNST", period
+            ).to_dict()
+            for period in ("2013", "2014", "2015")
+        ]
         payload.update(
             {
                 "question_type": "AGGREGATE",
@@ -94,6 +100,7 @@ class PlanSchemaTests(unittest.TestCase):
                 "model_tier": "STRONG",
                 "verify_profile": "STRICT",
                 "max_retries": 2,
+                "retrieval_requirements": requirements,
             }
         )
 
@@ -164,16 +171,14 @@ class PlanSchemaTests(unittest.TestCase):
         self.assertIsNone(plan.formula_id)
         self.assertIsNone(plan.abstain_reason)
 
-    def test_table_text_and_hybrid_evidence_sources(self):
-        for evidence_sources in (["TABLE"], ["TEXT"], ["TABLE", "TEXT"]):
-            with self.subTest(evidence_sources=evidence_sources):
-                payload = lookup_plan()
-                payload["evidence_sources"] = evidence_sources
-                plan = Plan.from_dict(payload)
-                self.assertEqual(plan.to_dict()["evidence_sources"], evidence_sources)
+    def test_evidence_sources_must_be_derived_from_requirements(self):
+        payload = lookup_plan()
+        payload["evidence_sources"] = ["TEXT"]
+        with self.assertRaises(SchemaValidationError):
+            Plan.from_dict(payload)
 
     def test_serialization_round_trip(self):
-        payload = roe_plan()
+        payload = growth_plan()
 
         first = Plan.from_dict(copy.deepcopy(payload))
         second = Plan.from_dict(first.to_dict())

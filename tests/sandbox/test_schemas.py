@@ -1,104 +1,213 @@
 import copy
 from dataclasses import fields
-import math
 import unittest
 
-from src.sandbox.schemas import ExecutionResult
+from src.evidence.m5_schemas import BindingMap, ValueBinding
+from src.evidence.schemas import CanonicalDecimal, Scale
+from src.programmer.schemas import ProgramOutputKind
+from src.sandbox.schemas import (
+    EXECUTION_LIMITS_PROFILE_ID,
+    EXECUTION_REQUEST_SCHEMA_VERSION,
+    EXECUTION_RESULT_SCHEMA_VERSION,
+    ExecutionDatum,
+    ExecutionFailure,
+    ExecutionFailureStage,
+    ExecutionOutput,
+    ExecutionResult,
+    SandboxExecutionRequest,
+)
 from src.understanding.schemas import SchemaValidationError
+from tests.programmer.helpers import growth_programmer_input, valid_growth_program
 
 
-CANONICAL_FIELDS = [
-    "success",
-    "result",
-    "error_type",
-    "error_message",
-    "execution_ms",
-]
+def binding_map_for(program):
+    bindings = [
+        ValueBinding(
+            placeholder=item.placeholder,
+            evidence_id=item.evidence_id,
+            value=CanonicalDecimal(str(index + 1)),
+            source_scale=Scale.MILLION,
+            source_unit=None,
+            requested_output_scale=None,
+            requested_output_unit=None,
+        )
+        for index, item in enumerate(program.inputs)
+    ]
+    return BindingMap(bindings=sorted(bindings, key=lambda item: item.placeholder))
 
 
-def successful_result():
-    return {
-        "success": True,
-        "result": 12.5,
-        "error_type": None,
-        "error_message": None,
-        "execution_ms": 14,
-    }
+def execution_request():
+    programmer_input = growth_programmer_input()
+    program = valid_growth_program(programmer_input)
+    return SandboxExecutionRequest(
+        schema_version=EXECUTION_REQUEST_SCHEMA_VERSION,
+        program=program,
+        programmer_input=programmer_input,
+        binding_map=binding_map_for(program),
+        limits_profile_id=EXECUTION_LIMITS_PROFILE_ID,
+    )
+
+
+def datum(value="12.5", scale=Scale.MILLION, unit="VND"):
+    return ExecutionDatum(
+        value=CanonicalDecimal(value),
+        scale=scale,
+        unit=unit,
+    )
+
+
+class SandboxExecutionRequestTests(unittest.TestCase):
+    def test_request_has_exact_contract_and_round_trips(self):
+        request = execution_request()
+        self.assertEqual(
+            [field.name for field in fields(SandboxExecutionRequest)],
+            [
+                "schema_version",
+                "program",
+                "programmer_input",
+                "binding_map",
+                "limits_profile_id",
+            ],
+        )
+        self.assertEqual(
+            SandboxExecutionRequest.from_dict(request.to_dict()).to_dict(),
+            request.to_dict(),
+        )
+
+    def test_request_rejects_wrong_versions_and_unknown_fields(self):
+        payload = execution_request().to_dict()
+        payload["schema_version"] = "wrong"
+        with self.assertRaises(SchemaValidationError):
+            SandboxExecutionRequest.from_dict(payload)
+
+        payload = execution_request().to_dict()
+        payload["extra"] = None
+        with self.assertRaises(SchemaValidationError):
+            SandboxExecutionRequest.from_dict(payload)
 
 
 class ExecutionResultSchemaTests(unittest.TestCase):
-    def test_field_names_match_canonical_contract(self):
-        self.assertEqual([field.name for field in fields(ExecutionResult)], CANONICAL_FIELDS)
+    def test_failure_stage_enum_is_exact(self):
+        self.assertEqual(
+            [stage.value for stage in ExecutionFailureStage],
+            [
+                "POLICY",
+                "VALIDATION",
+                "BINDING",
+                "CONVERSION",
+                "ARITHMETIC",
+                "RESOURCE",
+                "SECURITY",
+                "INFRASTRUCTURE",
+            ],
+        )
 
-    def test_successful_numeric_string_and_null_results(self):
-        for result in (12.5, 12, "12.5", None):
-            with self.subTest(result=result):
-                payload = successful_result()
-                payload["result"] = result
-                execution = ExecutionResult.from_dict(payload)
-                self.assertEqual(execution.to_dict(), payload)
-
-    def test_failed_execution_with_error_details(self):
+    def test_successful_scalar_result_round_trips(self):
         payload = {
+            "schema_version": EXECUTION_RESULT_SCHEMA_VERSION,
+            "program_id": "program-id",
+            "success": True,
+            "output": {
+                "kind": "SCALAR",
+                "values": [
+                    {"value": "12.5", "scale": "MILLION", "unit": "VND"}
+                ],
+            },
+            "failure": None,
+            "execution_ms": 14,
+        }
+        result = ExecutionResult.from_dict(copy.deepcopy(payload))
+        self.assertEqual(result.to_dict(), payload)
+        self.assertIsInstance(result.output.values[0].value, CanonicalDecimal)
+        self.assertNotIsInstance(result.output.values[0].value, float)
+
+    def test_failed_result_round_trips_with_typed_stage(self):
+        payload = {
+            "schema_version": EXECUTION_RESULT_SCHEMA_VERSION,
+            "program_id": "program-id",
             "success": False,
-            "result": None,
-            "error_type": "SYNTAX_ERROR",
-            "error_message": "invalid syntax",
+            "output": None,
+            "failure": {
+                "stage": "VALIDATION",
+                "code": "FORBIDDEN_OPERATION",
+                "message": "operation is not allowlisted",
+            },
             "execution_ms": 3,
         }
+        result = ExecutionResult.from_dict(payload)
+        self.assertEqual(result.to_dict(), payload)
+        self.assertIs(result.failure.stage, ExecutionFailureStage.VALIDATION)
 
-        execution = ExecutionResult.from_dict(payload)
-
-        self.assertEqual(execution.to_dict(), payload)
-
-    def test_boolean_result_is_rejected(self):
-        payload = successful_result()
-        payload["result"] = True
-
-        with self.assertRaises(SchemaValidationError):
-            ExecutionResult.from_dict(payload)
-
-    def test_non_finite_numeric_results_are_rejected(self):
-        for result in (math.nan, math.inf, -math.inf):
-            with self.subTest(result=result):
-                payload = successful_result()
-                payload["result"] = result
+    def test_success_and_failure_invariants(self):
+        output = ExecutionOutput(ProgramOutputKind.SCALAR, [datum()])
+        failure = ExecutionFailure(
+            ExecutionFailureStage.POLICY, "INVALID_REQUEST", "invalid"
+        )
+        invalid = (
+            (True, None, None),
+            (True, output, failure),
+            (False, output, failure),
+            (False, None, None),
+        )
+        for success, current_output, current_failure in invalid:
+            with self.subTest(success=success, output=current_output):
                 with self.assertRaises(SchemaValidationError):
-                    ExecutionResult.from_dict(payload)
+                    ExecutionResult(
+                        EXECUTION_RESULT_SCHEMA_VERSION,
+                        "program-id",
+                        success,
+                        current_output,
+                        current_failure,
+                        0,
+                    )
 
-    def test_execution_ms_must_be_non_negative_integer(self):
+    def test_scalar_and_ordered_output_invariants(self):
+        with self.assertRaises(SchemaValidationError):
+            ExecutionOutput(ProgramOutputKind.SCALAR, [])
+        with self.assertRaises(SchemaValidationError):
+            ExecutionOutput(ProgramOutputKind.SCALAR, [datum(), datum("2")])
+        with self.assertRaises(SchemaValidationError):
+            ExecutionOutput(ProgramOutputKind.ORDERED_VALUES, [])
+        ordered = ExecutionOutput(
+            ProgramOutputKind.ORDERED_VALUES,
+            [datum("1"), datum("2")],
+        )
+        self.assertEqual([item.value for item in ordered.values], ["1", "2"])
+
+    def test_float_values_are_rejected_everywhere_in_execution_output(self):
+        with self.assertRaises(SchemaValidationError):
+            ExecutionDatum(12.5, Scale.RAW, None)  # type: ignore[arg-type]
+        with self.assertRaises(SchemaValidationError):
+            ExecutionDatum.from_dict(
+                {"value": 12.5, "scale": "RAW", "unit": None}
+            )
+
+    def test_execution_ms_and_exact_schema_are_enforced(self):
         for execution_ms in (-1, 1.5, True, "14"):
             with self.subTest(execution_ms=execution_ms):
-                payload = successful_result()
-                payload["execution_ms"] = execution_ms
                 with self.assertRaises(SchemaValidationError):
-                    ExecutionResult.from_dict(payload)
-
-    def test_invalid_success_type_is_rejected(self):
-        payload = successful_result()
-        payload["success"] = 1
-
+                    ExecutionResult(
+                        EXECUTION_RESULT_SCHEMA_VERSION,
+                        "program-id",
+                        True,
+                        ExecutionOutput(ProgramOutputKind.SCALAR, [datum()]),
+                        None,
+                        execution_ms,  # type: ignore[arg-type]
+                    )
+        payload = {
+            "schema_version": EXECUTION_RESULT_SCHEMA_VERSION,
+            "program_id": "program-id",
+            "success": True,
+            "output": {
+                "kind": "SCALAR",
+                "values": [{"value": "1", "scale": None, "unit": None}],
+            },
+            "failure": None,
+            "execution_ms": 0,
+            "result": 1.0,
+        }
         with self.assertRaises(SchemaValidationError):
             ExecutionResult.from_dict(payload)
-
-    def test_missing_and_unknown_fields_are_rejected(self):
-        missing = successful_result()
-        del missing["result"]
-        with self.assertRaises(SchemaValidationError):
-            ExecutionResult.from_dict(missing)
-
-        unknown = successful_result()
-        unknown["extra"] = "not allowed"
-        with self.assertRaises(SchemaValidationError):
-            ExecutionResult.from_dict(unknown)
-
-    def test_serialization_round_trip(self):
-        payload = successful_result()
-
-        first = ExecutionResult.from_dict(copy.deepcopy(payload))
-        second = ExecutionResult.from_dict(first.to_dict())
-
-        self.assertEqual(second.to_dict(), payload)
 
 
 if __name__ == "__main__":

@@ -568,7 +568,7 @@ User Question
             |
             v
 +------------------------+
-| Sandboxed Python       |
+| Sandboxed DSL          |
 +-----------+------------+
             |
             v
@@ -986,7 +986,14 @@ Plan:
   target_metrics: [string]
   derived_target: string | null
   formula_id: string | null
-  tables_needed: [string]
+  tables_needed: [BALANCE_SHEET | INCOME_STATEMENT | CASH_FLOW_STATEMENT | NOTES]
+  retrieval_requirements:
+    - requirement_id: string
+      source_type: TABLE | TEXT
+      table_class: BALANCE_SHEET | INCOME_STATEMENT | CASH_FLOW_STATEMENT | NOTES | null
+      metric: string | null
+      period: string | null
+      required: boolean
   evidence_sources: [TABLE | TEXT]
   reasoning_mode: DIRECT | PROGRAM | TABLE_TRANSFORM
   requires_scale_resolution: boolean
@@ -996,6 +1003,173 @@ Plan:
   confidence: float
   abstain: boolean
   abstain_reason: string | null
+```
+
+`Plan` is executable and therefore always keeps `abstain: false` and
+`abstain_reason: null`. Early refusal is represented outside it:
+
+```yaml
+SupervisorResult:
+  planning_gate: PlanningGate
+  plan: Plan | null
+  abstain: boolean
+  abstain_reason: PLANNING_GATE_BLOCKED | UNKNOWN_OPERATION
+    | UNSUPPORTED_QUESTION_TYPE | UNSUPPORTED_RATIO | MISSING_FORMULA
+    | MISSING_TABLE_MAPPING | MISSING_STATEMENT_SCOPE
+    | INVALID_PERIOD_REQUIREMENT | MIXED_PERIOD_KIND_UNSUPPORTED | INVALID_PLAN
+    | null
+  input_fingerprint: string
+```
+
+A blocked gate cannot produce a Plan. Requirement IDs are deterministic over
+the requirement payload; exact duplicates are rejected. `tables_needed`,
+`target_metrics`, `periods`, and `evidence_sources` are derived from ordered
+requirements rather than independently authored.
+
+M4 v1 uses homogeneous requested period kinds and never invents a prior year,
+quarter, or cumulative period. Explicit requirements are additive in M4 Batch
+1; M3 behavior remains unchanged until a separately approved integration uses
+them instead of metric-by-period Cartesian expansion.
+
+### Canonical M4 v1 Registries
+
+```yaml
+TableClass: BALANCE_SHEET | INCOME_STATEMENT | CASH_FLOW_STATEMENT | NOTES
+
+MetricTableMapping:
+  metric: string
+  table_class: TableClass
+
+FormulaDefinition:
+  formula_id: string
+  operation: ratio | growth | aggregate
+  question_type: DERIVED_RATIO | MULTI_PERIOD | AGGREGATE
+  derived_target: string
+  required_metrics: [string]
+  period_rule: SINGLE | EXACT_TWO | AT_LEAST_TWO
+  reasoning_mode: PROGRAM
+  evidence_sources: [TABLE | TEXT]
+```
+
+The M4 v1 metric-table registry contains only `LNST -> INCOME_STATEMENT`.
+The formula registry contains `GROWTH_RATE` (exactly two requested periods) and
+`AVERAGE` (at least two requested periods). Their empty `required_metrics`
+lists mean they operate on the single requested target metric; they do not
+invent operands. No ratio formula is registered.
+
+### Canonical M4 v1 deterministic routing
+
+Reasoning mode is selected before model tier:
+
+- formula-free `LOOKUP` -> `DIRECT`,
+- formula-free `MULTI_PERIOD` comparison -> `DIRECT`,
+- `GROWTH_RATE` and `AVERAGE` -> `PROGRAM`,
+- a registered ratio uses `FormulaDefinition.reasoning_mode`, currently
+  `PROGRAM`.
+
+`TABLE_TRANSFORM` is disabled and no M4 v1 path may emit it. Model-tier routing
+is `DIRECT -> CHEAP` and `PROGRAM -> STRONG`. A future explicit registry
+requirement may upgrade `CHEAP` to `STRONG`, but it may never downgrade a
+required `STRONG` tier.
+
+Verification is `LIGHT` only when the plan is a formula-free direct `LOOKUP`
+with exactly one required `RetrievalRequirement`. `PROGRAM`, any formula,
+`DERIVED_RATIO`, `MULTI_PERIOD`, `AGGREGATE`, or more than one required
+requirement routes to `STRICT`.
+
+Evidence-source precedence is formula metadata, then explicit requirement
+source types, then the approved evidence-policy registry. The v1 numeric
+financial-metric policy is `TABLE`; `GROWTH_RATE` and `AVERAGE` also require
+only `TABLE`. `Plan.evidence_sources` is the ordered deduplicated source set
+derived exactly from `Plan.retrieval_requirements`, so no unsupported source is
+added. No generic narrative policy is approved in M4 v1.
+
+These routers are pure deterministic functions. They do not use confidence,
+retrieval results or scores, free-form wording, table size, token count, or an
+LLM. `requires_scale_resolution` remains true when `TABLE` is required or the
+question has a non-null requested scale or requested unit.
+
+### Canonical Supervisor Evaluation Contracts
+
+TASK-047 evaluates `QueryUnderstanding + PlanningGate -> SupervisorResult`
+without invoking retrieval, execution, verification, final-answer generation,
+an LLM, or a GPU.
+
+```yaml
+ExpectedRetrievalRequirement:
+  source_type: TABLE | TEXT
+  table_class: BALANCE_SHEET | INCOME_STATEMENT | CASH_FLOW_STATEMENT | NOTES | null
+  metric: string | null
+  period: string | null
+  required: boolean
+
+SupervisorField:
+  abstain
+  | question_type
+  | reasoning_mode
+  | formula_id
+  | target_metrics
+  | periods
+  | tables_needed
+  | evidence_sources
+  | retrieval_requirements
+  | requires_scale_resolution
+  | model_tier
+  | verify_profile
+
+SupervisorEvaluationCase:
+  case_id: string
+  version: positive integer
+  query_understanding: QueryUnderstanding
+  planning_gate: PlanningGate
+  expected:
+    abstain: boolean
+    abstain_reason: SupervisorAbstainReason | null
+    question_type: QuestionType | null
+    reasoning_mode: ReasoningMode | null
+    formula_id: string | null
+    target_metrics: [string]
+    periods: [string]
+    tables_needed: [TableClass]
+    evidence_sources: [EvidenceSource]
+    retrieval_requirements: [ExpectedRetrievalRequirement]
+    requires_scale_resolution: boolean | null
+    model_tier: ModelTier | null
+    verify_profile: VerifyProfile | null
+
+SupervisorFieldComparison:
+  field: SupervisorField
+  matches: boolean
+
+SupervisorEvaluationCaseResult:
+  case: SupervisorEvaluationCase
+  actual: SupervisorResult
+  field_comparisons: [SupervisorFieldComparison]
+  passed: boolean
+```
+
+Comparisons are exact and structural. Ordered lists are order-sensitive. The
+evaluator performs no normalization, fuzzy matching, synonym expansion, or
+LLM judging. `ExpectedRetrievalRequirement` deliberately omits the derived
+`requirement_id`; all remaining requirement fields compare exactly in order.
+
+For an expected abstention, the `abstain` comparison passes only when actual
+`abstain` is true, actual `plan` is null, and the typed `abstain_reason` matches.
+Plan fields in an abstention expectation are null or empty and compare against
+the absent actual plan.
+
+The aggregate fixture report contains case, pass, and failure counts; exact-
+match rate; per-field accuracy for all 12 fields; and abstain precision/recall.
+No production threshold is defined. The approved v1 fixture set contains 14
+deterministic cases covering valid lookup/compare/formula routes and every
+requested early-abstain boundary. It uses only the current `LNST` table mapping
+and the registered `GROWTH_RATE` and `AVERAGE` formulas; unsupported inputs are
+present only to verify abstention.
+
+The CPU-only command is:
+
+```bash
+python -m src.evaluation.run_supervisor_eval --mode fixture
 ```
 
 ### Question Classification
@@ -1019,24 +1193,24 @@ The Supervisor plans at least:
 - model tier,
 - verification strictness.
 
-### Example: ROE
+### Example: Growth
 
 ```yaml
-question_type: DERIVED_RATIO
+question_type: MULTI_PERIOD
 company: AAA
 periods: [2014, 2015]
 target_metrics:
-  - Lợi nhuận sau thuế
-  - Vốn chủ sở hữu
-derived_target: ROE
+  - LNST
+derived_target: GROWTH
+formula_id: GROWTH_RATE
 tables_needed:
-  - KQKD
-  - CDKT
+  - INCOME_STATEMENT
 model_tier: STRONG
 verify_profile: STRICT
 ```
 
-The earlier period is needed for average equity in the example design.
+Ratio planning abstains in M4 v1 because no metric-specific ratio formula is
+registered. The Supervisor never authors formulas or performs this arithmetic.
 
 ## 4.3 Retrieval Layer
 
@@ -1063,6 +1237,154 @@ BGE-reranker-v2-m3
         |
  TABLE/TEXT candidates
 ```
+
+### Batch-1 retrieval contracts and gate
+
+`RetrievalQuery` is built deterministically from the approved `Plan` and
+`QueryUnderstanding`. It preserves the raw question, resolved company,
+periods, scope, canonical metrics, requested source types, canonical
+`eligible_source_types`, and requested scale/unit. Its query-text list contains
+the raw question plus exact canonical field values only; it never paraphrases
+or adds aliases.
+
+`RetrievalCandidate` is the common contract for sparse search, dense search,
+fusion, reranking, multi-table retrieval, and evidence building. It preserves
+chunk-to-representation-to-report/table-or-paragraph provenance, page IDs, and
+hierarchical header paths. Its identity is derived from source type plus
+`chunk_id` (or `representation_id` when no chunk exists), not a score or rank.
+BM25, vector, RRF, and reranker scores remain separate fields. Every scored
+stage orders by its own score descending, then `candidate_id` ascending.
+
+Before a retrieval backend is opened, the compatibility gate validates the
+committed M2 corpus and M2B artifact metadata exactly: schema versions,
+chunking and embedding fingerprints, model/revision, vector configuration,
+FAISS metric/index version, and SQLite metadata version. Any mismatch or
+missing required metadata is a typed hard failure. Compatible fixture and
+smoke artifacts are valid for integration tests; production-scale vector
+validation remains GPU-dependent.
+
+The report-level metadata filter applies only resolved ticker, explicit
+statement scope, and report year derived from canonical period strings. It is
+exact, preserves candidate order, and returns an empty result rather than
+relaxing filters.
+
+### Batch-2.5 provenance sidecar and source eligibility
+
+The canonical M2 corpus remains unchanged.  Batch 2.5 publishes the additive,
+immutable `m2-provenance-sidecar-v1` artifact, whose manifest records the exact
+M2 corpus identity, schema versions, counts, and hashes.  Its SQLite database
+persists the complete M2A `ScaleUnitHint` and `TableTextLink` contracts,
+including canonical JSON and indexed source/table/paragraph references.  The
+sidecar builder rejects a publish unless every `scale_unit_hint_id` and every
+listed TABLE--TEXT link in the materialized M2 representations resolves in the
+sidecar.  Read-only lookup APIs support lookup by hint ID, source reference,
+table ID, and paragraph ID.
+
+Source eligibility is a separate retrieval constraint from TASK-030's exact
+report metadata filter.  Each BM25 or vector request resolves a non-empty,
+first-occurrence-preserving set of `TABLE` and/or `TEXT` source types (defaulting
+to the query's requested evidence sources).  BM25 applies it in its SQLite FTS
+query and vector search applies it in its SQLite vector-ID selection, both
+before native per-query top-k selection.  Neither backend relaxes this filter.
+
+### Batch-2 lexical and dense search contracts
+
+TASK-031 indexes each `EmbeddingChunk` as one independent `RetrievalCandidate`
+source in a persisted SQLite FTS5 artifact.  TABLE and TEXT chunks remain
+separate entries.  The v1 FTS tokenizer is SQLite `unicode61` with
+`remove_diacritics 0`: it performs deterministic Unicode tokenization,
+preserves Vietnamese diacritics, and permits deterministic case-insensitive
+matching without stemming, fuzzy matching, word segmentation, synonym
+expansion, or LLM processing.  The published index manifest has schema version
+`m3-bm25-index-v1`, a corpus fingerprint, a deterministic logical index
+fingerprint, and SQLite file hash.  BM25's native lower-is-better score is
+negated so public `bm25_score` has canonical higher-is-better semantics.
+Every deterministic query text is searched independently; duplicate candidates
+retain their highest BM25 score, then final results sort by score descending and
+`candidate_id` ascending.  Empty tokenized query text returns no candidates.
+
+TASK-032 creates one dense-only `QueryEmbedding` for each
+`RetrievalQuery.query_texts` item, preserving source order and its zero-based
+query-text index.  It uses the same pinned BGE-M3 model, revision, tokenizer,
+pooling, 1024-dimensional float32 vector representation, L2 normalization,
+and approved M2B embedding fingerprint as document embeddings.  Input over the
+approved model limit is a typed failure; query embedding never truncates,
+retrieves, or creates document embeddings.
+
+TASK-033 validates the complete M2 corpus and M2B vector artifact through the
+TASK-03C gate before serving.  It applies TASK-030's exact metadata constraints
+and source eligibility once to SQLite metadata to identify eligible IDs, groups
+them deterministically by shard, and constructs an exact temporary
+`IndexIDMap2(IndexFlatIP(1024))`
+over only those vectors for each query embedding.  This gives exact filtered
+inner-product (cosine-equivalent) search without oversampling, automatic filter
+relaxation, or partial-shard tolerance.  All compatible shards must validate
+and participate; a missing, corrupt, or incompatible shard is a typed hard
+failure.  Results merge duplicate candidates by their best `vector_score`,
+retain per-query provenance for diagnostics, and sort by score descending then
+`candidate_id` ascending.  RRF is deliberately not part of this stage.
+
+### Batch-3 fusion, reranking, and retrieval views
+
+TASK-034 accepts independently canonical BM25 and vector ranked lists.  It
+validates one-based contiguous backend ranks and unique candidate IDs, merges
+only provenance-compatible duplicates, and computes unweighted reciprocal rank
+fusion as `sum(1 / (60 + rank_i))`.  It preserves both backend score fields,
+sets only `rrf_score`, and applies top-k only after complete fusion.  RRF output
+orders by `rrf_score` descending then `candidate_id` ascending.
+
+TASK-035 reranks TASK-034 output with the exact
+`BAAI/bge-reranker-v2-m3` revision
+`953dc6f6f85a1b2dbfca4c34a2796e7dde08d41e`, using
+`XLMRobertaTokenizerFast`.  Its configuration fingerprint covers model,
+revision, tokenizer, 8,192-token pair maximum, no-truncation policy, and raw
+`logits[:, 0]` scoring.  Each pair is the raw user question and candidate
+content; oversized pairs fail with `RERANKER_INPUT_TOO_LONG`.  No sigmoid,
+softmax, score normalization, or partial rerank is permitted.  Output preserves
+prior scores and orders by rerank score, RRF score, then candidate ID.
+
+TASK-037 decomposes multi-table requests deterministically.  It creates a
+TABLE-only required subquery for every metric--period pair (metric outer,
+period inner), or one per present dimension when one dimension is absent.  Each
+subquery runs metadata filtering, BM25, vector retrieval, RRF, and reranking
+independently.  A zero-result or typed backend failure remains visible in
+`missing_subquery_ids`; successful subqueries are retained and the result is
+never marked complete incorrectly.
+
+TASK-03D is the parallel TEXT-only view of the same pipeline.  It preserves
+TEXT/paragraph provenance and reranker order.  Linked table IDs are exposed
+only from persisted `TableTextLink` records in the M2 provenance sidecar;
+unlinked paragraphs remain valid and receive no synthetic association.
+
+TASK-03F enriches retrieved candidates with persisted scale/unit hints without
+selecting a scale or converting a number.  TABLE-direct hints must originate in
+the chunk's primary/context source-cell IDs or its exact table caption; TEXT-
+direct hints must originate in its paragraph ID.  Linked hints require a
+persisted table--text link and retain `LINKED`, rather than being relabelled
+`DIRECT`.  Conflicting hints and requested-scale mismatches remain present in
+deterministic span/ID order for later verification.
+
+### Batch-4 exact evidence boundary
+
+TASK-038 resolves TABLE candidates only through their committed M2 chunk's
+primary/context source-cell IDs. It reconstructs the source-backed normalized
+cell, source cell, table, page, and report chain, never searching another cell
+in the parent table. Exact normalized row/column labels may match a canonical
+metric; period labels must match an existing canonical period exactly. TEXT
+candidates intentionally produce no `CellLocation`.
+
+TASK-039 builds `EvidenceItem` values only from those exact locations or an
+exact paragraph. `normalized_value` is `CanonicalDecimal | null`, the lossless
+JSON decimal string from `NumericParseResult.decimal_value`; it is never cast
+to binary float, scaled, or divided for percentages at this boundary. TEXT
+table associations are accepted only when supplied from a persisted
+`TableTextLink` result.
+
+TASK-03E checks requirement presence rather than answer correctness. Required
+TABLE metric/period combinations and explicitly requested TEXT evidence are
+checked independently. Structural or unresolved cell locations cannot satisfy
+an exact TABLE requirement; missing requirements preserve valid evidence and
+do not trigger filter relaxation or abstention here.
 
 ### Hybrid evidence policy
 
@@ -1123,7 +1445,7 @@ EvidenceItem:
   text_span: string | null
 
   raw_value: string | number | null
-  normalized_value: number | null
+  normalized_value: CanonicalDecimal | null  # canonical JSON decimal string
 
   unit: string | null
   scale: RAW | THOUSAND | MILLION | BILLION | PERCENT | OTHER | null
@@ -1135,6 +1457,12 @@ EvidenceItem:
 
 ### Constraint
 
+`CanonicalDecimal` is exactly the validated canonical decimal string emitted by
+`NumericParseResult.decimal_value`; Evidence/retrieval do not cast it to a
+binary float or change percent literals. The later arithmetic execution layer
+may construct `decimal.Decimal(CanonicalDecimal)` inside its approved sandbox.
+Scale/unit resolution remains a separate later stage.
+
 Do not pass a large unstructured top-k dump to the Programmer when a smaller grounded bundle can be built first.
 
 A hybrid bundle may contain both a table cell/row and a narrative span when the calculation requires both.
@@ -1145,14 +1473,50 @@ A hybrid bundle may contain both a table cell/row and a narrative span when the 
 
 Resolve numeric magnitude and units before program execution.
 
-Scale/unit may be stated in:
+Document source scale/unit may be stated in:
 
 - a table header,
 - a row/column label,
-- an associated paragraph,
-- the user question.
+- an associated paragraph.
+
+The user question may instead state the requested output scale/unit. It does
+not redefine the document source scale/unit.
 
 The resolved value must retain provenance so Verification can audit the decision.
+
+### Canonical Batch 1 contract
+
+```yaml
+ScaleUnitResolution:
+  evidence_id: string
+  status: RESOLVED | UNRESOLVED | AMBIGUOUS
+  source_scale: RAW | THOUSAND | MILLION | BILLION | PERCENT | null
+  source_unit: string | null
+  requested_output_scale: THOUSAND | MILLION | BILLION | PERCENT | null
+  requested_output_unit: string | null
+  winning_hint_ids: [string]
+  considered_hint_ids: [string]
+```
+
+`source_scale` describes the document evidence. `requested_output_scale` is
+copied from `QueryUnderstanding.requested_scale`; neither value overwrites the
+other. TASK-054 performs no numeric conversion and leaves `CanonicalDecimal`
+unchanged.
+
+Source precedence v1 is direct cell, direct header, direct caption, direct
+text, then linked hints. At the highest level with a usable clue, one unique
+scale/unit resolves, conflicting values are ambiguous, and no usable clue is
+unresolved. Missing scale never defaults to `RAW`. A percent literal in the
+exact numeric cell is a direct-cell `PERCENT` clue. All candidate-scoped hint
+IDs remain in `considered_hint_ids`; only a resolved highest-precedence set is
+listed in `winning_hint_ids`.
+
+TASK-055 regression coverage fixes this behavior across `RAW`, `THOUSAND`,
+`MILLION`, `BILLION`, and `PERCENT`; all direct/linked hint sources; the full
+precedence chain; conflict and missing-hint outcomes; source/request
+separation; value immutability; provenance; deterministic repetition; and the
+required-scale numeric-masking gate. It changes no TASK-054 contract or
+production behavior.
 
 ## 4.6 Schema Linking
 
@@ -1167,6 +1531,43 @@ Examples:
 ```
 
 Schema linking should preserve hierarchical context when a label alone is ambiguous.
+
+### Canonical Batch 1 contract
+
+```yaml
+SchemaLinkResult:
+  requirement_id: string
+  evidence_id: string
+  status: RESOLVED | UNRESOLVED | AMBIGUOUS
+  metric: string | null
+  period: string | null
+  row_path: [HeaderPathEntry]
+  column_path: [HeaderPathEntry]
+  matched_source_cell_id: string | null
+  match_basis: EXACT_METRIC_PATH | EXACT_PERIOD_PATH |
+               EXACT_METRIC_AND_PERIOD | STRUCTURAL | NONE
+```
+
+The linker consumes ordered `Plan.retrieval_requirements` and only the supplied
+`EvidenceItem -> CellLocation` boundary. Metric labels use the existing
+canonical metric registry; periods require exact canonical string equality.
+There is no new synonym registry and no fuzzy, semantic, or LLM fallback.
+Exactly one valid location resolves, multiple valid locations are ambiguous,
+and no valid location is unresolved. Result paths retain the structured
+`HeaderPathEntry` hierarchy; existing flattened `EvidenceItem` path fields are
+not changed.
+
+Batch 1 stage order is:
+
+```text
+Plan + Evidence
+  -> scale/unit resolution
+  -> schema linking
+  -> later numeric masking/binding
+```
+
+These stages never scan outside already-retrieved M3 evidence and never mutate
+raw M2/M3 provenance.
 
 ## 4.7 Numeric Masking / De-lexicalization
 
@@ -1187,10 +1588,70 @@ real values
 Example concept:
 
 ```text
-[NUM_0], [NUM_1]
+val_<full_sha256>
 ```
 
-The LLM generates the symbolic relationship rather than memorizing the literal values.
+### Canonical Batch 2 contracts
+
+```yaml
+MaskedEvidence:
+  placeholder: string
+  evidence_id: string
+  requirement_id: string
+  metric: string | null
+  period: string | null
+  row_path: [HeaderPathEntry]
+  column_path: [HeaderPathEntry]
+
+MaskedEvidenceBundle:
+  items: [MaskedEvidence]
+
+ValueBinding:
+  placeholder: string
+  evidence_id: string
+  value: CanonicalDecimal
+  source_scale: RAW | THOUSAND | MILLION | BILLION | PERCENT | null
+  source_unit: string | null
+  requested_output_scale: THOUSAND | MILLION | BILLION | PERCENT | null
+  requested_output_unit: string | null
+
+BindingMap:
+  bindings: [ValueBinding]
+```
+
+The masking contract version is `m5-numeric-masking-v1`. A placeholder is
+`val_` followed by the full lowercase SHA-256 of canonical JSON containing only
+that contract version and `evidence_id`. Reuse of one evidence ID therefore
+reuses one placeholder; different evidence IDs do not share placeholders.
+
+Only a resolved `SchemaLinkResult` backed by an exact supplied
+`EvidenceItem -> CellLocation` chain and a `CanonicalDecimal` can be masked.
+Required ambiguous, unresolved, missing, or non-numeric evidence is a typed
+failure. When `Plan.requires_scale_resolution` is true, scale resolution must
+also be present and `RESOLVED`; missing scale never silently becomes `RAW`.
+
+`MaskedEvidenceBundle` is the only programmer-facing numeric evidence contract.
+It contains neither `raw_value` nor `normalized_value`. `BindingMap` is
+execution-only and is built from the approved mask plus the original exact
+grounded evidence. It preserves `CanonicalDecimal` as a string and copies
+resolved scale/unit metadata without conversion. It accepts no program or code
+source and performs no source substitution. A later Sandbox may explicitly
+construct `decimal.Decimal` at its approved arithmetic boundary.
+
+The complete Batch 2 boundary is:
+
+```text
+Plan
+  -> ScaleUnitResolution
+  -> SchemaLinkResult
+  -> MaskedEvidenceBundle       # Programmer-facing, no values
+  -> BindingMap                 # execution-only
+  -> later Sandbox
+```
+
+Every binding retains the auditable chain `placeholder -> evidence_id -> exact
+EvidenceItem -> CellLocation -> source provenance`. Original `EvidenceItem` and
+M2/M3 values/provenance are never mutated.
 
 ## 4.8 Complex Table Reasoning Fallback
 
@@ -1217,49 +1678,228 @@ At each step:
 
 This is an optional targeted mode selected by `Plan.reasoning_mode = TABLE_TRANSFORM`; it is not the default path and is not an unbounded reflection loop.
 
-## 4.9 Programmer / Pandas Coder
+## 4.9 Programmer / Symbolic Program Generator
 
 ### Responsibility
 
-Generate constrained executable logic from:
+Generate constrained symbolic logic from:
 
 ```text
-Plan + Evidence + Schema
+Plan + MaskedEvidenceBundle + FormulaRegistry fingerprint
 ```
 
 The Programmer should not independently perform open-ended retrieval.
 
-### Program Contract
+### Canonical M6 Batch 1 contracts
 
-The exact code contract must be finalized during implementation.
+```yaml
+ProgrammerInput:
+  plan: Plan
+  masked_evidence: MaskedEvidenceBundle
+  formula_registry_fingerprint: string
 
-Required properties:
+ProgrammerResult:
+  status: GENERATED | REJECTED
+  program: Program | null
+  failure_code: string | null
+  failure_message: string | null
 
-- use Python/Pandas or a constrained financial reasoning DSL that compiles to Python/Pandas,
-- operate only over provided grounded evidence,
-- preserve row/column/evidence identifiers,
-- avoid intermediate rounding where not required,
-- expose intermediate references for multi-step reasoning,
-- assign the final numerical result to a known output variable,
-- validate grammar/schema before sandbox execution.
+Program:
+  schema_version: m6-program-v1
+  program_id: string
+  formula_registry_fingerprint: string
+  question_type: LOOKUP | DERIVED_RATIO | MULTI_PERIOD | AGGREGATE
+  formula_id: string | null
+  inputs: [ProgramInput]
+  steps: [ProgramStep]
+  output_ref: string
+  output_kind: SCALAR | ORDERED_VALUES
+
+ProgramInput:
+  input_id: string
+  placeholder: string
+  evidence_id: string
+  requirement_id: string
+
+ProgramStep:
+  step_id: string
+  operation: IDENTITY | COLLECT | APPLY_REGISTERED_FORMULA
+  input_refs: [string]
+  formula_id: string | null
+```
+
+The only M6 v1 DSL forms are `IDENTITY(ref)`, `COLLECT(ref+)`, and
+`APPLY_REGISTERED_FORMULA(formula_id, ref+)`. References address Program input
+IDs or earlier step IDs in one shared namespace. No numeric literal, source
+code, import, arbitrary arithmetic, arbitrary call, attribute access,
+filesystem/network operation, `eval`, or `exec` is representable.
+
+`ProgrammerInput` has an exact schema and cannot contain `BindingMap`.
+`ProgramInput` binds only a M5 placeholder and its evidence/requirement
+identities. Every required masked evidence item must be declared and must be in
+the dependency closure of the single `output_ref`. Unknown placeholders,
+duplicate IDs/bindings, non-topological references, and invalid outputs are
+typed validation failures.
+
+Program IDs are the full lowercase SHA-256 of canonical JSON over all symbolic
+Program fields except `program_id`. Canonical serialization uses UTF-8 JSON,
+sorted object keys, compact separators, explicit nulls, ordered lists, and no
+NaN/Infinity. Neither Program identity nor serialization accepts or depends on
+`BindingMap` values.
+
+### Formula implementation boundary
+
+```yaml
+FormulaImplementation:
+  schema_version: m6-formula-implementation-v1
+  formula_id: string
+  implementation_kind: PERCENT_GROWTH | ARITHMETIC_MEAN
+  input_order: [string]
+  min_arity: positive integer
+  max_arity: positive integer | null
+  constants: [CanonicalDecimal]
+```
+
+The existing FormulaRegistry remains the single source of truth. Its
+fingerprint covers each ordered `FormulaDefinition` and matching
+`FormulaImplementation`. Definitions and implementations must have exactly the
+same unique formula IDs.
+
+Approved v1 implementations are:
+
+- `GROWTH_RATE`: `PERCENT_GROWTH`, ordered inputs `previous, current`, exact
+  arity two, semantics `(current - previous) / previous * 100`, and the only
+  approved constant `100`.
+- `AVERAGE`: `ARITHMETIC_MEAN`, ordered variadic `values`, minimum arity two,
+  and arithmetic-mean semantics.
+
+Constants may exist only in approved `FormulaImplementation` metadata, never
+in Program. No ratio implementation is registered. Batch 1 defines and
+validates these contracts but performs no model inference, formula execution,
+numeric parsing, scale conversion, or sandbox execution.
+
+### M6 v1 validation boundary
+
+Before later sandbox execution, validation checks exact schema,
+Plan/question/formula consistency, registry fingerprint and registration,
+formula arity and Plan requirement order, placeholder membership, complete
+required-evidence consumption, unique IDs/bindings, topological references,
+operation allowlisting, one valid output, canonical Program identity, and
+deterministic serialization. Failures use `ProgramValidationFailureCode`.
+
+`CanonicalDecimal` remains a string through M5 and the Program boundary.
+TASK-066 conversion infrastructure may construct `decimal.Decimal` internally
+and must serialize its result back to `CanonicalDecimal`; it does not execute a
+Program or mutate a binding. M7 remains the first approved Program-execution
+boundary. Binary float is not part of either contract. TASK-065 reuses the M2
+numeric parser rather than creating a second Vietnamese-number parser.
+
+### Canonical M6 Batch 2 generation
+
+M6 Batch 2 is a deterministic symbolic generator. Its complete input is one
+`ProgrammerInput`; it has no `BindingMap`, model, retrieval, raw evidence,
+numeric parser, scale converter, or execution dependency. It first revalidates
+the nested `Plan + MaskedEvidenceBundle`, maps exactly one masked item for each
+required retrieval requirement, and orders Program inputs by
+`Plan.retrieval_requirements` rather than bundle arrival order.
+
+The complete v1 generation table is:
+
+| Plan shape | Program step | Output kind |
+|---|---|---|
+| `LOOKUP`, `formula_id=null` | `IDENTITY(input)` | `SCALAR` |
+| `MULTI_PERIOD`, `formula_id=null` | `COLLECT(inputs)` | `ORDERED_VALUES` |
+| `MULTI_PERIOD`, `GROWTH_RATE` | `APPLY_REGISTERED_FORMULA(GROWTH_RATE, inputs)` | `SCALAR` |
+| `AGGREGATE`, `AVERAGE` | `APPLY_REGISTERED_FORMULA(AVERAGE, inputs)` | `SCALAR` |
+
+`DERIVED_RATIO` is rejected with `UNSUPPORTED_DERIVED_RATIO` because no ratio
+formula is registered. The Programmer never authors or infers a replacement.
+Missing required evidence, multiple candidates for one required requirement,
+unknown requirements, invalid nested placeholders, unsupported shapes, and
+unsupported formulas return typed `ProgrammerResult.REJECTED` outcomes.
+
+Every constructed Program is passed through the TASK-068 validator before a
+`GENERATED` result is returned. A validator failure is returned as `REJECTED`
+with the exact typed `ProgramValidationFailureCode`. Program inputs and IDs are
+therefore derived only from approved symbolic placeholder/evidence/requirement
+identities; financial values and numeric constants cannot affect generation.
+
+TASK-053 tests this boundary against real generated Programs and real M5
+masking output. They mutate binding values, placeholders, evidence coverage,
+formula IDs, and symbolic references. The tests establish that BindingMap
+values cannot change Program serialization or identity, all required evidence
+must reach the output, and the growth constant `100` exists only in the
+approved `FormulaImplementation` metadata.
+
+### Canonical M6 Batch 3 numeric and trace boundaries
+
+TASK-065 exposes only an adapter over the existing M2
+`parse_numeric_string -> NumericParseResult` contract. A `PARSED` result is
+wrapped as the existing string subtype `CanonicalDecimal`. `MISSING`,
+`NOT_NUMERIC`, `AMBIGUOUS`, and `MALFORMED` are raised as
+`NumericBoundaryError` with the unchanged `NumericParseStatus` as its typed
+code. The adapter adds no numeric grammar and performs no float conversion.
+
+TASK-066 returns this exact result contract:
+
+```yaml
+ScaleConversionResult:
+  status: SUCCESS | REJECTED
+  canonical_value: CanonicalDecimal | null
+  output_scale: RAW | THOUSAND | MILLION | BILLION | PERCENT | OTHER | null
+  output_unit: string | null
+  failure_code: INVALID_INPUT | SOURCE_SCALE_REQUIRED |
+                UNSUPPORTED_SCALE_CONVERSION |
+                UNSUPPORTED_UNIT_CONVERSION | null
+  failure_message: string | null
+```
+
+Magnitude conversion uses `decimal.Decimal` only and computes
+`value * source_factor / requested_factor` with factors `1`, `1000`,
+`1000000`, and `1000000000`. It serializes exactly back to
+`CanonicalDecimal` without rounding. A null requested scale preserves the
+source value and scale. Requested conversion requires a resolved source scale.
+`PERCENT -> PERCENT` is identity; percent/magnitude conversion is rejected.
+Units are either preserved or required to match exactly; currency/FX
+conversion is not supported. The utility receives scalar contract fields and
+does not mutate `EvidenceItem`, `ValueBinding`, or `BindingMap`.
+
+TASK-069 compares Programs independently of execution. Exact `Program`
+equality yields `EXACT`. A caller may then supply the deterministic
+`normalized_program_equivalence` `TraceEquivalenceHook`, which ignores only
+`program_id`, `ProgramInput.input_id`, and `ProgramStep.step_id` while
+normalizing their references. It retains schema/fingerprint, question type,
+top-level and step formula IDs, ordered placeholder/evidence/requirement
+inputs, ordered operations and input references, output reference topology,
+and output kind. Any difference in operand order, grounding, formula,
+operation, or output is `DIFFERENT`. `evaluate_program_trace` packages that
+comparison in the existing `ReasoningEvaluationResult`, but requires
+execution and answer correctness to be supplied by their independent future
+evaluators; it does not derive either outcome.
+
+TASK-067 remains `BLOCKED_BY_M7_EXECUTION_BOUNDARY`. Batch 3 defines no oracle
+execution fixture scoring, formula execution, sandbox execution, or model
+inference.
 
 FinQA-style evaluation suggests reporting both program/trace correctness and final execution correctness.
 
 ### Failure Types
 
-- syntax error,
-- missing key/column,
-- wrong evidence reference,
-- invalid numeric parse,
-- unsupported operation.
+- invalid schema or forbidden code/literal,
+- wrong evidence or placeholder reference,
+- missing required evidence,
+- invalid topological reference or output,
+- formula registration, arity, or ordering mismatch,
+- non-canonical identity or serialization.
 
 These failures should be classified for targeted retry.
 
-## 4.10 Sandboxed Python Executor
+## 4.10 Sandboxed DSL Executor
 
 ### Responsibility
 
-Execute generated programs safely and deterministically.
+Execute only validated symbolic Programs safely and deterministically. M7 never
+executes arbitrary Python or compiles model output to Python source.
 
 ### Security Boundary
 
@@ -1273,16 +1913,118 @@ Production execution should support process/OS isolation such as:
 
 The final deployment choice is an infrastructure decision.
 
-### Proposed Execution Result
+### Canonical M7 Batch 1 contracts
 
 ```yaml
+SandboxExecutionRequest:
+  schema_version: m7-execution-request-v1
+  program: Program
+  programmer_input: ProgrammerInput
+  binding_map: BindingMap
+  limits_profile_id: m7-limits-v1
+
+ExecutionDatum:
+  value: CanonicalDecimal
+  scale: RAW | THOUSAND | MILLION | BILLION | PERCENT | null
+  unit: string | null
+
+ExecutionOutput:
+  kind: SCALAR | ORDERED_VALUES
+  values: [ExecutionDatum]
+
+ExecutionFailure:
+  stage: POLICY | VALIDATION | BINDING | CONVERSION | ARITHMETIC |
+         RESOURCE | SECURITY | INFRASTRUCTURE
+  code: string
+  message: string
+
 ExecutionResult:
+  schema_version: m7-execution-result-v1
+  program_id: string
   success: boolean
-  result: number | string | null
-  error_type: string | null
-  error_message: string | null
+  output: ExecutionOutput | null
+  failure: ExecutionFailure | null
   execution_ms: integer
 ```
+
+Success requires a non-null output and null failure. Failure requires null
+output and a typed non-null failure. `SCALAR` contains exactly one datum;
+`ORDERED_VALUES` contains one or more ordered data. Execution values are always
+`CanonicalDecimal`; binary float is forbidden.
+
+TASK-070 accepts only `m6-program-v1`, reruns TASK-068 validation, and enforces
+the exact operation allowlist (`IDENTITY`, `COLLECT`,
+`APPLY_REGISTERED_FORMULA`). It also enforces an exact placeholder/evidence
+bijection across Program inputs, `MaskedEvidenceBundle`, and execution-only
+`BindingMap`. Missing, extra, duplicate, unknown, or evidence-mismatched
+bindings fail deterministically. Policy constants cap Programs at 256 inputs,
+256 steps, 256 references per step, and dependency depth 64. This policy is a
+pre-dispatch filter, not an OS security boundary.
+
+The canonical arithmetic context has precision 50, `ROUND_HALF_EVEN`, and
+traps `DivisionByZero`, `InvalidOperation`, and `Overflow`; `Inexact` and
+`Rounded` remain allowed. Serialization uses fixed-point notation, removes
+unnecessary fractional zeroes, normalizes negative zero to `0`, and validates
+the result as `CanonicalDecimal`. M7 does not quantize currency values.
+
+### Canonical M7 Batch 2 runtime semantics
+
+TASK-071 owns both the trusted DSL interpreter and isolated worker process. It
+lowers validated Programs to internal instructions only and never compiles a
+Program or model output to Python source.
+
+- `GROWTH_RATE` consumes ordered `previous,current` values, normalizes
+  magnitude operands to `RAW`, requires compatible units, computes
+  `(current - previous) / previous * Decimal("100")`, rejects zero previous,
+  and emits `PERCENT`.
+- `AVERAGE` preserves Plan order and compatible units. It uses a common
+  explicitly agreed requested magnitude scale, otherwise `RAW`, converts
+  operands before arithmetic, and computes the Decimal arithmetic mean.
+- `IDENTITY` and `COLLECT` apply an approved requested-output conversion when
+  present, otherwise preserve source value and scale.
+- Percent and magnitude scales cannot mix. Units must be identical or all
+  null; null/non-null mixtures and different non-null units are rejected. No
+  unit/FX conversion or ratio fallback is permitted.
+
+Batch 1 defines contracts, Decimal policy, and static admission only. It does
+not interpret formulas, execute a Program, create a worker, impose runtime
+resource limits, perform sandbox-abuse testing, or select production sandbox
+technology.
+
+TASK-071 implements this exact flow:
+
+```text
+SandboxExecutionRequest
+  -> parent TASK-070 validation
+  -> bounded canonical JSON
+  -> separate trusted worker process
+  -> worker TASK-070/TASK-068 revalidation
+  -> BindingMap-to-Decimal binding
+  -> ordered DSL interpretation
+  -> canonical ExecutionResult
+  -> parent protocol/result validation
+```
+
+The interpreter evaluates Program steps in validated order and resolves only
+prior Program input/step references. `IDENTITY` returns one converted scalar;
+`COLLECT` preserves input order and converts every scalar independently;
+`APPLY_REGISTERED_FORMULA` dispatches only by the built-in
+`FormulaImplementationKind`. There is no callable, source-code, generated
+import, `eval`, `exec`, filesystem, network, subprocess, or model surface in
+the DSL.
+
+Parent and worker exchange canonical UTF-8 JSON only, bounded to 1,048,576
+bytes in each direction. Pickle is forbidden. The parent launches one fixed
+module without a shell and supplies only `PYTHONIOENCODING` and
+`PYTHONDONTWRITEBYTECODE`; worker stderr and request values are never copied
+into `ExecutionResult`. A non-zero exit, malformed/non-canonical response, or
+invalid/mismatched result maps to a typed `INFRASTRUCTURE` failure.
+
+Batch 2 uses process separation but does not claim the hard resource or final
+OS isolation boundary. Time/memory/filesystem/network enforcement belongs to
+TASK-072, abuse testing to TASK-074, and sandbox technology selection to
+TASK-075. With the deterministic execution boundary available, TASK-067 is
+unblocked but remains unimplemented.
 
 ## 4.11 Verification Layer
 
@@ -1391,14 +2133,18 @@ Held-out evaluation/test must not write new memory entries.
 
 ## 5. Routing Policy
 
-Current policy from the Supervisor design:
+Current deterministic M4 v1 policy:
 
-| Question type | Model tier | Verify profile | Retry budget |
-|---|---|---|---|
-| `LOOKUP` | `CHEAP` | `LIGHT` | 1 |
-| `DERIVED_RATIO` | `STRONG` | `STRICT` | 2 |
-| `MULTI_PERIOD` | `STRONG` | `STRICT` | 2 |
-| `AGGREGATE` | `STRONG` | `STRICT` | 2 |
+| Planned shape | Reasoning mode | Model tier | Verify profile | Retry budget |
+|---|---|---|---|---|
+| Single formula-free `LOOKUP` requirement | `DIRECT` | `CHEAP` | `LIGHT` | 1 |
+| Formula-free `MULTI_PERIOD` comparison | `DIRECT` | `CHEAP` | `STRICT` | 2 |
+| Registered `DERIVED_RATIO` | registry (`PROGRAM` v1) | `STRONG` | `STRICT` | 2 |
+| `GROWTH_RATE` | `PROGRAM` | `STRONG` | `STRICT` | 2 |
+| `AVERAGE` | `PROGRAM` | `STRONG` | `STRICT` | 2 |
+
+Retry budgets remain question-type based and are unchanged from Batch 1.
+Routing uses no confidence or retrieval-score threshold.
 
 A cheap-tier failure should escalate to the strong tier before final abstain where the routing policy allows it.
 
@@ -1531,7 +2277,18 @@ SlicedEvaluationResult:
 
 `EvaluationSlice` attaches to `EvaluationResult` through `SlicedEvaluationResult`; the canonical `EvaluationResult` remains unchanged. `HYBRID` is an evaluation-only classification and is not an `EvidenceItem.source_type`.
 
-Thresholds, aggregate metrics/reporting, per-case identifiers and metadata beyond `EvaluationSlice`, and aggregation are deferred.
+Thresholds and full-corpus acceptance criteria remain deferred.
+
+### M3 Retrieval Evaluation
+
+`RetrievalEvaluationCase` records exact fixture report/table/paragraph/source-cell
+expectations where available. It separately reports Recall@K for BM25, vector,
+RRF, and reranker, MRR, multi-table completeness, exact `EvidenceItem`
+grounding, and the direct TASK-03E hybrid-completeness result. `FIXTURE` runs
+deterministically on CPU; `FULL_CORPUS` is reserved and remains
+`GPU_PRODUCTION_VALIDATION_PENDING` until the production vector artifact is
+available. A `RetrievalFailureEvent` is diagnostic-only and attributes the
+earliest unrecoverable typed retrieval boundary without changing execution.
 
 ### NLU / Planning
 
@@ -1541,6 +2298,10 @@ Thresholds, aggregate metrics/reporting, per-case identifiers and metadata beyon
 - required periods/tables,
 - abstain/clarification,
 - routing/confidence calibration.
+
+TASK-047 implements exact Supervisor planning evaluation for the approved
+fields above. It intentionally does not score retrieval, execution,
+verification, or answer correctness. Aggregate thresholds remain TBD.
 
 ### Retrieval
 

@@ -297,14 +297,23 @@ Plan:
   target_metrics: [string]
   derived_target: string | null
   formula_id: string | null
-  tables_needed: [string]
+  tables_needed: [BALANCE_SHEET | INCOME_STATEMENT | CASH_FLOW_STATEMENT | NOTES]
+  retrieval_requirements:
+    - { requirement_id, source_type, table_class, metric, period, required }
+  evidence_sources: [TABLE | TEXT]
+  reasoning_mode: DIRECT | PROGRAM | TABLE_TRANSFORM
+  requires_scale_resolution: boolean
   model_tier: CHEAP | STRONG
   verify_profile: LIGHT | STRICT
   max_retries: integer
   confidence: float
   abstain: boolean
-  abstain_reason: string | null
+  abstain_reason: null
 ```
+
+Early abstention is represented by the canonical `SupervisorResult`, whose
+`plan` is null and whose typed `abstain_reason` is non-null. A blocked
+`PlanningGate` must never produce a `Plan`.
 
 Changing this contract is an architecture change. Update `docs/ARCHITECTURE.md` and `docs/DECISIONS.md` before or together with the code change.
 
@@ -312,9 +321,14 @@ Changing this contract is an architecture change. Update `docs/ARCHITECTURE.md` 
 
 Current routing policy:
 
-- simple single-table, single-period lookup -> `CHEAP` + `LIGHT` verification,
-- derived ratios, multi-period reasoning, joins, and aggregates -> `STRONG` + `STRICT` verification,
+- `DIRECT` reasoning -> `CHEAP`,
+- `PROGRAM` reasoning -> `STRONG`,
+- `LIGHT` verification only for a formula-free `LOOKUP` with exactly one
+  required retrieval requirement; all other supported plans -> `STRICT`,
 - if a cheap-tier attempt fails verification, escalate before final abstain.
+
+`TABLE_TRANSFORM` is disabled in M4 v1. Routing is deterministic and does not
+use confidence, retrieval scores, table size, token count, or an LLM.
 
 Model names are deployment choices. Do not hardwire a provider/model into business logic unless the task explicitly requires it.
 
@@ -429,6 +443,15 @@ At minimum, the project should eventually have:
 
 Do not invent command names if the repository does not contain them yet.
 When concrete commands are added to the repo, update this section.
+
+Current deterministic Supervisor fixture evaluation:
+
+```bash
+python -m src.evaluation.run_supervisor_eval --mode fixture
+```
+
+This command evaluates planning only. It uses no retrieval backend, GPU, or
+LLM and defines no production threshold.
 
 ## Definition of Done
 

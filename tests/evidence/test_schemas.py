@@ -2,7 +2,8 @@ import copy
 from dataclasses import fields
 import unittest
 
-from src.evidence.schemas import EvidenceItem
+from src.evidence.schemas import CanonicalDecimal, EvidenceItem
+from src.indexing.numeric_parser import parse_numeric_string
 from src.understanding.schemas import SchemaValidationError
 
 
@@ -48,7 +49,7 @@ def table_evidence():
         "column_path": ["Năm tài chính", "2015"],
         "text_span": None,
         "raw_value": "12.500.000",
-        "normalized_value": 12500000,
+        "normalized_value": "12500000",
         "unit": "VND",
         "scale": "RAW",
         "scale_source": "HEADER",
@@ -123,7 +124,8 @@ class EvidenceItemSchemaTests(unittest.TestCase):
         evidence = EvidenceItem.from_dict(payload)
 
         self.assertEqual(evidence.raw_value, "12.500.000")
-        self.assertEqual(evidence.normalized_value, 12500000)
+        self.assertEqual(evidence.normalized_value, "12500000")
+        self.assertIsInstance(evidence.normalized_value, CanonicalDecimal)
 
     def test_raw_value_accepts_string_number_and_null(self):
         for raw_value in ("1.250", 1250, 12.5, None):
@@ -225,7 +227,7 @@ class EvidenceItemSchemaTests(unittest.TestCase):
         invalid_cases = [
             ("row_path", ["Assets", 1]),
             ("column_path", "2015"),
-            ("normalized_value", "12500000"),
+            ("normalized_value", 12500000),
             ("retrieval_score", "high"),
         ]
         for field_name, invalid_value in invalid_cases:
@@ -242,6 +244,23 @@ class EvidenceItemSchemaTests(unittest.TestCase):
         second = EvidenceItem.from_dict(first.to_dict())
 
         self.assertEqual(second.to_dict(), payload)
+
+    def test_canonical_decimal_lossless_boundary_and_rejections(self):
+        for value in ("1250.75", "-1250.75", "1250", "0", "-0.5"):
+            with self.subTest(value=value):
+                payload = table_evidence()
+                payload["normalized_value"] = value
+                self.assertEqual(EvidenceItem.from_dict(payload).to_dict()["normalized_value"], value)
+        parsed = parse_numeric_string("1.250,75")
+        payload = table_evidence()
+        payload["normalized_value"] = parsed.decimal_value
+        self.assertEqual(EvidenceItem.from_dict(payload).normalized_value, parsed.decimal_value)
+        for invalid in (1250, 1250.0, True, "01", "1.0.0", "1e3"):
+            with self.subTest(invalid=invalid):
+                payload = table_evidence()
+                payload["normalized_value"] = invalid
+                with self.assertRaises(SchemaValidationError):
+                    EvidenceItem.from_dict(payload)
 
 
 if __name__ == "__main__":

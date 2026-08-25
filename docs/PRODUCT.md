@@ -245,7 +245,9 @@ Retrieval quality is a product-critical metric. Evaluation must separately measu
 For numerical questions:
 
 - use grounded evidence,
-- prefer executable Python/Pandas reasoning where appropriate,
+- execute only the validated symbolic Program DSL through trusted deterministic
+  runtime code,
+- never execute arbitrary model-generated Python or Python source,
 - do not rely on free-form arithmetic alone,
 - avoid copying answer values into generated code,
 - support symbolic numeric masking / deterministic binding where feasible,
