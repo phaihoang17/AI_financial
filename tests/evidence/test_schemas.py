@@ -29,6 +29,11 @@ CANONICAL_FIELDS = [
     "scale_source",
     "retrieval_score",
     "rerank_score",
+    "ticker",
+    "company_name",
+    "report_year",
+    "paragraph_ref",
+    "provenance_link_ids",
 ]
 
 
@@ -55,6 +60,11 @@ def table_evidence():
         "scale_source": "HEADER",
         "retrieval_score": 0.81,
         "rerank_score": 0.93,
+        "ticker": "AAA",
+        "company_name": "Công ty AAA",
+        "report_year": 2015,
+        "paragraph_ref": None,
+        "provenance_link_ids": [],
     }
 
 
@@ -76,6 +86,8 @@ def text_evidence():
             "unit": "VND",
             "scale": "MILLION",
             "scale_source": "TEXT",
+            "paragraph_ref": "paragraph-1",
+            "provenance_link_ids": ["link-1"],
         }
     )
     return payload

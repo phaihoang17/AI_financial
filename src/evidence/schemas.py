@@ -2,7 +2,7 @@
 
 from __future__ import annotations
 
-from dataclasses import dataclass
+from dataclasses import dataclass, field
 from enum import Enum
 import math
 import re
@@ -107,6 +107,11 @@ class EvidenceItem:
     scale_source: Optional[ScaleSource]
     retrieval_score: Optional[float]
     rerank_score: Optional[float]
+    ticker: Optional[str] = None
+    company_name: Optional[str] = None
+    report_year: Optional[int] = None
+    paragraph_ref: Optional[str] = None
+    provenance_link_ids: List[str] = field(default_factory=list)
 
     def __post_init__(self) -> None:
         self.evidence_id = _require_string(self.evidence_id, "evidence_id")
@@ -147,6 +152,24 @@ class EvidenceItem:
         self.rerank_score = _require_optional_float(
             self.rerank_score, "rerank_score"
         )
+        self.ticker = _require_optional_string(self.ticker, "ticker")
+        self.company_name = _require_optional_string(
+            self.company_name, "company_name"
+        )
+        if self.report_year is not None and (
+            isinstance(self.report_year, bool)
+            or not isinstance(self.report_year, int)
+            or not 1000 <= self.report_year <= 9999
+        ):
+            raise SchemaValidationError("report_year must be a four-digit integer or null")
+        self.paragraph_ref = _require_optional_string(
+            self.paragraph_ref, "paragraph_ref"
+        )
+        self.provenance_link_ids = _require_string_list(
+            self.provenance_link_ids, "provenance_link_ids"
+        )
+        if len(self.provenance_link_ids) != len(set(self.provenance_link_ids)):
+            raise SchemaValidationError("provenance_link_ids must not contain duplicates")
 
     @classmethod
     def from_dict(cls, value: Any) -> EvidenceItem:
@@ -175,6 +198,11 @@ class EvidenceItem:
                 "scale_source",
                 "retrieval_score",
                 "rerank_score",
+                "ticker",
+                "company_name",
+                "report_year",
+                "paragraph_ref",
+                "provenance_link_ids",
             },
             "EvidenceItem",
         )
@@ -216,6 +244,11 @@ class EvidenceItem:
             ),
             retrieval_score=data["retrieval_score"],
             rerank_score=data["rerank_score"],
+            ticker=data["ticker"],
+            company_name=data["company_name"],
+            report_year=data["report_year"],
+            paragraph_ref=data["paragraph_ref"],
+            provenance_link_ids=data["provenance_link_ids"],
         )
 
     def to_dict(self) -> Dict[str, Any]:
@@ -245,4 +278,9 @@ class EvidenceItem:
             ),
             "retrieval_score": self.retrieval_score,
             "rerank_score": self.rerank_score,
+            "ticker": self.ticker,
+            "company_name": self.company_name,
+            "report_year": self.report_year,
+            "paragraph_ref": self.paragraph_ref,
+            "provenance_link_ids": list(self.provenance_link_ids),
         }

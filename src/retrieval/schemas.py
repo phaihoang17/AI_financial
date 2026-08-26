@@ -724,6 +724,47 @@ class RetrievedScaleUnitHint:
             "association": self.association.value,
         }
 
+    @classmethod
+    def from_dict(cls, value: Any) -> "RetrievedScaleUnitHint":
+        data = _require_mapping(value, "RetrievedScaleUnitHint")
+        _require_exact_keys(
+            data,
+            {
+                "hint_id",
+                "candidate_id",
+                "source_kind",
+                "source_ref",
+                "source_span",
+                "raw_hint_text",
+                "scale_candidate",
+                "unit_candidate",
+                "status",
+                "association",
+            },
+            "RetrievedScaleUnitHint",
+        )
+        raw_scale = data["scale_candidate"]
+        return cls(
+            hint_id=data["hint_id"],
+            candidate_id=data["candidate_id"],
+            source_kind=_parse_enum(
+                data["source_kind"], ScaleHintSource, "source_kind"
+            ),
+            source_ref=data["source_ref"],
+            source_span=SourceSpan.from_dict(data["source_span"]),
+            raw_hint_text=data["raw_hint_text"],
+            scale_candidate=(
+                None
+                if raw_scale is None
+                else _parse_enum(raw_scale, Scale, "scale_candidate")
+            ),
+            unit_candidate=data["unit_candidate"],
+            status=_parse_enum(data["status"], ScaleHintStatus, "status"),
+            association=_parse_enum(
+                data["association"], HintAssociation, "association"
+            ),
+        )
+
 
 @dataclass
 class RetrievalObservation:

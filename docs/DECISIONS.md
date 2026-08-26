@@ -772,7 +772,8 @@ Aggregate accuracy alone is insufficient for release decisions.
 
 ### Decision
 
-Use the following failure categories in `VerificationResult`:
+Use the following failure categories in the verification aggregate contract
+(named `VerificationReport` by ADR-041):
 
 - `GROUNDING`,
 - `INSUFFICIENT_EVIDENCE`,
@@ -780,7 +781,8 @@ Use the following failure categories in `VerificationResult`:
 - `SCALE_UNIT`,
 - `FINANCIAL_LOGIC`.
 
-`SCALE_UNIT` remains a dedicated category. Execution and runtime failures belong to `ExecutionResult`, not `VerificationResult`.
+`SCALE_UNIT` remains a dedicated category. Execution and runtime failures belong
+to `ExecutionResult`, not `VerificationReport`.
 
 ### Rationale
 
@@ -788,8 +790,8 @@ The category set covers the existing grounding, evidence, numerical, scale/unit,
 
 ### Consequences
 
-- Multiple-failure prioritization is deferred.
-- A controlled vocabulary of detailed reason codes is deferred; `failure_reason` remains a required diagnostic string when verification fails.
+- Multiple-failure prioritization and per-check typed reasons were later fixed by
+  ADR-041; this ADR's category set remains unchanged.
 
 
 ## ADR-028 — Preserve raw OCR identity and structured hierarchy through M2A
@@ -1155,8 +1157,8 @@ including binding values or worker stderr.
 
 ### Consequences
 
-- TASK-071 is complete and TASK-067 is now implementable, but TASK-067 remains
-  unimplemented.
+- TASK-071 is complete and made TASK-067 implementable; TASK-067 was later
+  completed under ADR-040.
 - Process separation is not the final production sandbox boundary.
 - Runtime resource enforcement remains TASK-072, abuse testing remains
   TASK-074, and final sandbox-technology selection remains TASK-075.
@@ -1164,15 +1166,647 @@ including binding values or worker stderr.
 
 ---
 
+## ADR-039 — Fail closed under one versioned M7 runtime-limits profile
+
+**Status:** Accepted
+
+### Decision
+
+Bind every TASK-071 dispatch to the exact `m7-limits-v1` values documented in
+`docs/ARCHITECTURE.md`. The parent owns wall-clock, RSS, request-size, and
+response-size enforcement and kills the worker process group on wall or memory
+violation. The worker owns CPU, process-count, descriptor, file-size, and core-
+file rlimits. Missing RSS monitoring or required Darwin sandbox support fails
+closed.
+
+Run the worker in a fresh non-writable working directory with an exact minimal
+environment, then clear that environment after startup validation. Deny runtime
+filesystem reads/writes, network access, and process spawning through the
+trusted worker audit boundary. On Darwin, also deny network, filesystem writes,
+and process forks with the host sandbox policy. Never return partial output as a
+success after any limit or security violation.
+
+TASK-074 validates these controls through fixed test-only probes and direct
+protocol/policy mutations. The probes cannot be selected by the production
+execution request and do not add arbitrary Python or a new DSL operation.
+
+### Consequences
+
+- TASK-072 and TASK-074 are complete.
+- TASK-075 remains pending: this decision does not select final production
+  container, syscall isolation, or microVM infrastructure.
+- Non-Darwin native filesystem/network isolation, RSS-monitor deployment
+  dependency, and production concurrency/load calibration remain residual
+  evidence for TASK-075.
+- TASK-067 was implementable at this boundary and was later completed under
+  ADR-040.
+- `GPU_PRODUCTION_VALIDATION_PENDING` is unchanged.
+
+---
+
+## ADR-040 — Evaluate M6 reasoning with oracle evidence through the real M7 worker
+
+**Status:** Accepted
+
+### Decision
+
+TASK-067 supplies exact grounded oracle evidence directly to the existing M5
+masking and binding functions, then runs the existing M6 generator and M7
+isolated executor. Retrieval is outside this evaluation boundary, so a failed
+case measures reasoning/program/runtime behavior rather than retrieval quality.
+No GPU or LLM participates.
+
+Score execution, trace, and answer independently. Compare successful
+`ExecutionOutput` contracts exactly, including `CanonicalDecimal` fixed-point
+strings, output kind/order, scale, and unit. Compare Programs using TASK-069:
+exact first, then the approved graph-ID-only normalization. For expected
+failures, require the exact failure stage/code and prohibit an emitted answer.
+Attribute the earliest failure to program generation, validation, binding,
+conversion, arithmetic, or sandbox/infrastructure.
+
+The versioned `m6-oracle-reasoning-eval-v1` report intentionally omits worker
+elapsed time so repeated fixture and CLI runs serialize identically. Its seven
+fixtures cover lookup, direct multi-period comparison, growth, average,
+unsupported ratio, division by zero, and scale conversion.
+
+### Consequences
+
+- TASK-067 is complete and the M6 implementation milestone is complete.
+- The oracle evaluation says nothing about retrieval accuracy; retrieved-
+  evidence end-to-end evaluation remains a separate boundary under ADR-013.
+- The evaluator introduces no new DSL form, formula, retrieval path, model
+  call, or production execution behavior.
+- TASK-075 remains the only pending M7 deployment decision and is not started
+  by this work.
+- `GPU_PRODUCTION_VALIDATION_PENDING` is unchanged.
+
+---
+
+## ADR-041 — Verify exact grounding and hybrid support before later M8 checks
+
+**Status:** Accepted
+
+### Decision
+
+M8 Batch 1 replaces the minimal aggregate verification result with
+`VerificationRequest`, per-check `VerificationCheckResult`, and
+`VerificationReport`. Preserve every failed check, then select the aggregate
+failure by the fixed order `GROUNDING`, `INSUFFICIENT_EVIDENCE`, `NUMERIC`,
+`SCALE_UNIT`, `FINANCIAL_LOGIC`.
+
+TASK-080 checks each required TABLE requirement through the exact
+`Plan -> SchemaLinkResult -> CellLocation -> EvidenceItem -> source provenance`
+chain. TEXT checks require exact paragraph/report provenance and persisted link
+IDs where an associated table is used. Verification never performs fuzzy or
+semantic matching, widens evidence, or infers absent metadata. Actual table
+class is an optional provenance field; if absent, emit
+`TABLE_CLASS_UNAVAILABLE` rather than deriving it from the expected metric or
+metric-table registry.
+
+TASK-08B recomputes coverage for every required Plan retrieval requirement and
+requires agreement with `EvidenceCompletenessResult`. TABLE and TEXT source
+types are not interchangeable, exact metric/period requirements reject
+structural/unresolved links, and missing requirement IDs remain in failed check
+subjects.
+
+If execution failed, Verification returns no report and leaves the existing
+typed `ExecutionResult` failure unchanged.
+
+### Consequences
+
+- TASK-080 and TASK-08B are complete.
+- Existing immutable candidate/report and paragraph/link provenance is carried
+  into the downstream evidence/location boundary; no verifier-derived metadata
+  becomes a source of truth.
+- TASK-081 through TASK-089 and TASK-08A remain deferred to M8 Batch 2.
+- No LLM, retry, retrieval rerun, escalation, or abstention behavior is added.
+- `GPU_PRODUCTION_VALIDATION_PENDING` is unchanged.
+
+---
+
+## ADR-042 — Verify numeric shape, approved scale provenance, and registered financial logic independently
+
+**Status:** Accepted
+
+### Decision
+
+M8 Batch 2 extends `VerificationRequest` with the exact `Program`, approved
+`ScaleUnitResolution` values, and execution-only `BindingMap`. These are the
+existing immutable upstream contracts needed to verify a successful execution;
+Verification does not recreate them.
+
+TASK-081 checks Program/result identity, output kind and count, ordered collect
+values, `CanonicalDecimal` values, and structural scale/unit fields. It never
+recomputes registered formula results, and unit incompatibility is left to the
+`SCALE_UNIT` category.
+
+TASK-08A checks the exact `EvidenceItem -> ScaleUnitResolution -> BindingMap ->
+ExecutionResult` metadata chain. Approved source and requested scale/unit
+metadata cannot change, absent scale cannot default to `RAW`, hint decisions
+remain traceable, unsupported unit conversion is rejected, and PERCENT cannot
+mix with magnitude scales. Existing deterministic conversion policy may be
+applied to verify expected output metadata, but scale is never resolved again.
+
+TASK-082 checks only Plan, Program, and registered formula definition and
+implementation metadata. Successful symbolic shapes are limited to LOOKUP with
+IDENTITY, formula-free multi-period comparison with COLLECT, GROWTH_RATE, and
+AVERAGE. An unsupported ratio or unregistered formula cannot verify.
+
+All three check families append to the existing report after grounding and
+evidence support. Every failure is preserved and aggregate precedence remains
+`GROUNDING`, `INSUFFICIENT_EVIDENCE`, `NUMERIC`, `SCALE_UNIT`, then
+`FINANCIAL_LOGIC`.
+
+### Consequences
+
+- TASK-081, TASK-08A, and TASK-082 are complete.
+- TASK-083 through TASK-089 remain deferred to M8 Batch 3.
+- No LLM, retry, retrieval rerun, escalation, or abstention behavior is added.
+- `GPU_PRODUCTION_VALIDATION_PENDING` is unchanged.
+
+---
+
+## ADR-043 — Select deterministic verification check sets without downgrade
+
+**Status:** Accepted
+
+### Decision
+
+TASK-083 defines LIGHT as a narrow optimization for a formula-free DIRECT
+LOOKUP with exactly one required retrieval requirement. LIGHT runs TASK-080,
+TASK-08B, TASK-081, and TASK-08A only when scale resolution is required. It
+does not run TASK-082.
+
+TASK-084 defines STRICT as the complete applicable deterministic matrix:
+TASK-080, TASK-08B, TASK-081, conditional TASK-08A, and TASK-082. STRICT is
+required for PROGRAM reasoning, any formula, derived ratio, multi-period,
+aggregate, or multiple required retrieval requirements.
+
+Verification emits typed profile-policy checks in the existing
+`FINANCIAL_LOGIC` Plan/Program consistency category. Request/Plan profile
+mismatch is `VERIFY_PROFILE_MISMATCH`; invalid LIGHT dimensions use typed
+`LIGHT_*` reasons. The effective check set is STRICT whenever either declared
+profile is STRICT or the Plan/Program shape requires STRICT. Therefore corrupt
+or stale profile metadata can never silently reduce verification.
+
+Failed `ExecutionResult` values bypass before profile policy. Verification does
+not mutate Plan, Program, Evidence, or ExecutionResult, and repeated calls over
+the same request produce identical reports.
+
+### Consequences
+
+- TASK-083 and TASK-084 are complete.
+- Existing `VerificationReport`, failure categories, and precedence are
+  unchanged.
+- TASK-085 through TASK-089 remain deferred to M8 Batch 4.
+- No LLM, retry, retrieval rerun, escalation, or abstention behavior is added.
+- `GPU_PRODUCTION_VALIDATION_PENDING` is unchanged.
+
+---
+
+## ADR-044 — Emit bounded reason-specific retry directives without rerunning stages
+
+**Status:** Accepted
+
+### Decision
+
+M8 Batch 4 adds immutable `RetryState` and `RetryDirective` contracts and a
+pure deterministic directive engine. The engine maps every existing verifier
+`(failure_category, reason_code)` pair explicitly to retrieval retry,
+Programmer retry, or permanent abstention. It does not fall back to category-
+only routing for an unregistered code.
+
+`Plan.max_retries` is the total rerun allowance after the initial attempt.
+Retrieval retry, Programmer retry, and CHEAP-to-STRONG escalation each consume
+one retry; PASS and ABSTAIN consume none. STRONG escalation is allowed once,
+only from CHEAP, only for explicitly Programmer-repairable failures, and only
+with remaining budget. No path can downgrade or emit a retry from a terminal
+state.
+
+Retrieval directives retain the original Plan, metadata filters, and evidence
+requirements. Programmer directives retain Plan and Evidence, do not expose
+`BindingMap` values, and keep M6 validation mandatory. M8 performs no rerun or
+model invocation; M9 owns execution of directives.
+
+### Consequences
+
+- TASK-085 through TASK-089 are complete, so the M8 implementation milestone is
+  complete.
+- Missing/ambiguous evidence clues retry retrieval; permanent provenance/schema
+  failures abstain.
+- Repairable Program/output-shape failures retry the Programmer and may trigger
+  the single CHEAP-to-STRONG transition; unsupported formulas, conversions,
+  and Plan/profile policy failures abstain.
+- Failed `ExecutionResult` values remain typed M7 failures and are never
+  reclassified as Verification failures.
+- M9 must persist `RetryState`, perform the selected rerun, carry immutable
+  contracts forward, and terminate on PASS/ABSTAIN.
+- `GPU_PRODUCTION_VALIDATION_PENDING` is unchanged.
+
+---
+
+## ADR-045 — Persist immutable M9 orchestration contracts and keep graph nodes thin
+
+**Status:** Accepted
+
+### Decision
+
+M9 Batch 1 introduces the versioned `m9-orchestration-state-v1` contract,
+immutable attempt history, deterministic Plan and retrieval-policy
+fingerprints, terminal response schemas, typed execution-failure directives,
+and inert stage ports. It implements TASK-090 contracts only and performs no
+orchestration graph or stage execution.
+
+`SupervisorResult.plan` is the sole Plan source of truth. The retrieval-policy
+fingerprint binds its exact requirements and filters, eligible source types,
+`top_k`, and artifact versions. Previous attempts cannot be changed, the last
+attempt is current, and the attempt index equals shared retries used. Terminal
+state cannot transition.
+
+`BindingMap` stays outside checkpoint state. M9 persists only an opaque
+process-local `binding_ref`; Programmer cannot resolve it, while Sandbox and
+Verification integration may. A resume that loses the handle must rebuild it
+from the deterministic EVIDENCE stage. Numeric bindings are never serialized
+into graph state.
+
+Execution failures preserve their original M7 stage/code and use a separate
+`ExecutionDirective`. They never produce a `VerificationReport`, consume the
+same `Plan.max_retries` budget for every rerun, do not cause automatic model
+escalation, and reject unknown classifications. Batch 1 validates directive
+shape and transitions but does not choose or run a route.
+
+M9 graph execution will use LangGraph for control flow and checkpoint
+coordination only. The locally inspected installation is `langgraph==1.2.10`,
+which is pinned in `requirements-orchestration.txt`. Batch 1 has no LangGraph
+runtime import. Financial formulas, grounding, retrieval policy, validation,
+execution policy, and verification remain existing deterministic functions;
+they do not move into graph nodes.
+
+Real `CellLocation.table_class` provenance is currently unavailable from the
+source-backed location path. M9 must not infer it from Plan or metric mappings.
+Providing source-backed provenance remains an upstream requirement.
+
+### Consequences
+
+- TASK-090 is complete; TASK-091 through TASK-099 remain pending.
+- Batch 1 is CPU-testable and requires no graph run, model call, retrieval
+  backend, or production GPU artifact.
+- TASK-075 remains deferred.
+- `GPU_PRODUCTION_VALIDATION_PENDING` is unchanged.
+
+---
+
+## ADR-046 — Execute M9 Batch 2 as a no-retry injected straight-through graph
+
+**Status:** Accepted
+
+### Decision
+
+Implement TASK-091 through TASK-094 with `langgraph==1.2.10` using the fixed
+node sequence `nlu -> supervisor -> retrieval -> evidence -> programmer ->
+sandbox -> verification`. Graph nodes only deserialize/project state, invoke a
+stage transition, and select continue/stop. All stage dependencies that can
+perform external work are injected.
+
+The graph creates exactly one attempt at index zero. It freezes Plan and
+retrieval-policy fingerprints before retrieval, rejects unsupported M3
+requirement shapes without widening, and preserves the native typed artifact
+at each stop. The evidence stage requires source-backed `table_class`, stores
+`BindingMap` only in `BindingStorePort`, and checkpoints only `binding_ref`.
+Program validation, sandbox execution contracts, and M8 verification are
+reused unchanged.
+
+### Consequences
+
+- TASK-091 through TASK-094 are complete.
+- Batch 2 has no retry loop, directive execution, final response, answer
+  construction, abstain routing, or E2E evaluator.
+- Failed execution never creates a VerificationReport; failed verification
+  never creates a retry directive.
+- Fixture adapters may supply real source-backed `table_class`; the production
+  source path still cannot, so that path remains blocked upstream.
+- TASK-075 remains deferred and `GPU_PRODUCTION_VALIDATION_PENDING` is
+  unchanged.
+
+---
+
+## ADR-047 — Execute bounded typed retries and build answers only from verified output
+
+**Status:** Accepted
+
+### Decision
+
+M9 Batch 3 executes existing M8 `RetryDirective` values and deterministic M9
+`ExecutionDirective` values in the LangGraph control layer. Both use the same
+`RetryState` and `Plan.max_retries` allowance. Every retrieval, Programmer,
+Sandbox, and strong-tier rerun consumes exactly one retry; PASS and ABSTAIN
+consume none. Terminal or exhausted state cannot emit another rerun.
+
+Project new attempts from immutable completed attempts according to the entry
+stage. Retrieval retries keep only the frozen retrieval query. Programmer
+retries and strong escalation keep retrieval/evidence/M5 artifacts and the
+opaque `binding_ref`. Sandbox retries additionally keep `ProgrammerResult` and
+therefore never regenerate Program. Strong escalation is one-way and occurs at
+most once.
+
+Classify each failed `ExecutionResult` from its exact native M7 stage/code.
+Unknown pairs fail closed without a fallback directive. Security and permanent
+contract/binding/conversion/arithmetic/protocol failures abstain immediately;
+only explicitly repairable Program/shape, source-scale, resource, and worker
+failures rerun their targeted stage. The original execution failure remains
+unchanged and never creates verification artifacts.
+
+PlanningGate clarification uses only existing missing/ambiguity findings.
+Other early and final failures produce ABSTAIN with the typed originating stage,
+reason code, terminal retry state, and no answer. Full aggregated TASK-099
+failure reporting is not part of this decision.
+
+Build PASS only after successful execution, passed verification, and the M8
+PASS directive. Copy `ExecutionOutput` exactly and cite only evidence reachable
+from the Program output, ordered by Plan requirement and evidence ID. The
+Answer Builder cannot access `BindingMap` and performs no arithmetic,
+conversion, or formula recomputation.
+
+### Consequences
+
+- TASK-095, TASK-096, and TASK-097 are complete.
+- Retry loops are bounded by construction and terminal state rejects later
+  transitions.
+- Checkpoints still contain only `binding_ref`, never bound values.
+- TASK-098 and TASK-099 remain pending.
+- Production source-backed `table_class` remains unavailable and is never
+  inferred by M9.
+- TASK-075 remains deferred and `GPU_PRODUCTION_VALIDATION_PENDING` is
+  unchanged.
+
+---
+
+## ADR-048 — Evaluate the injected M9 terminal path and attribute only unrecovered failures
+
+**Status:** Accepted
+
+### Decision
+
+Complete TASK-098 with a deterministic CPU fixture evaluator that runs the
+retrieved-evidence M9 graph through injected stage adapters. Score NLU, Plan,
+evidence completeness, exact Program trace, exact Decimal execution output,
+verification, terminal status, final answer, retries, and strong escalation as
+independent fields. Aggregate conditional terminal-status accuracies, retry
+success and distribution, escalation count, and terminal stage/code counts.
+
+Complete TASK-099 by deriving terminal attribution only when bounded routing
+stops with CLARIFICATION or ABSTAIN. Earlier attempt failures that successfully
+route to a later attempt are recovered history, not terminal attribution.
+Preserve the exact typed code and terminal attempt index together with relevant
+requirement, evidence, and Program IDs available in the terminal attempt.
+Unknown native codes remain native codes rather than being replaced by generic
+classification text. PASS has no attribution.
+
+Advance the M9 checkpoint contract to `m9-orchestration-state-v2` because the
+serialized `FailureAttribution` gains identifier lists. Keep the evaluation
+fixture-only and explicitly report production TABLE E2E as
+`BLOCKED / PRODUCTION_TABLE_CLASS_PROVENANCE_PENDING`. Fixtures may supply real
+source-backed `table_class`; no Plan-derived inference is permitted.
+
+### Consequences
+
+- TASK-098 and TASK-099 are complete; M9 implementation tasks are complete.
+- The fixture CLI requires no network, LLM, GPU, or production vector artifact.
+- Production retrieved-evidence TABLE validation remains blocked upstream.
+- Orchestration naming cleanup may now be planned as a separate compatibility
+  change, but is not part of Batch 4.
+- TASK-075 remains deferred. `GPU_PRODUCTION_VALIDATION_PENDING` and
+  `PRODUCTION_TABLE_CLASS_PROVENANCE_PENDING` remain active.
+
+---
+
+## ADR-049 — Serve models as separate vLLM processes behind one OpenAI-compatible client boundary
+
+**Status:** Accepted (design only; no models deployed)
+
+### Context
+
+M10 optimization needs a production serving architecture for four model roles:
+
+- **Qwen3-8B (CHEAP tier)** — shared by NLU, Supervisor, and the optional
+  semantic Verifier. One set of weights, three prompts/contracts (ADR-016).
+- **Qwen2.5-Coder-14B-Instruct (STRONG tier)** — the Programmer.
+- **BGE-M3** — online query embedding (must stay byte-compatible with the
+  offline index, ADR-015/019, TASK-03C).
+- **BGE-reranker-v2-m3** — cross-encoder reranking (ADR-014/022).
+
+Generative decoder LLMs and encoder (pooling / scoring) models have opposite
+runtime shapes: autoregressive decode with a growing KV cache vs. a single
+forward pass with no KV cache. Serving choice must respect that, keep retrieval
+model versions pinned to the index, and preserve failure attribution.
+
+### Decision
+
+Use **vLLM** as the primary production serving engine, running **one process
+per model**, each behind vLLM's OpenAI-compatible HTTP API. The application
+talks to every model through **one thin internal serving-client contract**
+(base URL + model id + task), so provider/engine stays a deployment choice and
+never leaks into business logic (per the AGENTS.md routing rules).
+
+Processes:
+
+1. `qwen3-8b` (vLLM, generate) — CHEAP tier; **shared** by NLU, Supervisor, and
+   optional Verifier. Roles are separated only at the prompt/schema layer, never
+   by duplicating weights (ADR-016). Guided/structured decoding enforces the
+   JSON schemas.
+2. `qwen-coder-14b` (vLLM, generate) — STRONG tier; Programmer. Guided decoding
+   constrains output toward the `m6-program-v1` DSL shape (validation in
+   TASK-068 remains the authority; guided decoding is only a prefilter).
+3. `bge-m3` (encoder / embedding) — online query embedding, config-pinned to the
+   offline BGE-M3 fingerprint.
+4. `bge-reranker-v2-m3` (encoder / scoring) — fused-candidate reranking.
+
+Separate processes are the default because they give **independent batching,
+independent scaling, per-model version pinning, and hard failure isolation**:
+a Programmer OOM cannot take down retrieval embedding, and Qwen can be upgraded
+without touching index-compatible BGE-M3.
+
+CHEAP vs. STRONG routing stays exactly as `Plan.model_tier` (deterministic,
+ADR-010/030): CHEAP requests hit the `qwen3-8b` endpoint, STRONG requests hit
+`qwen-coder-14b`. Serving adds no routing logic.
+
+### Rejected alternatives
+
+- **SGLang (primary).** Technically strong; RadixAttention prefix reuse is
+  attractive for the shared, system-prompt-heavy NLU/Supervisor traffic.
+  Rejected as *primary* only for operational maturity: vLLM has wider
+  deployment familiarity, first-class Prometheus metrics, and native
+  embedding + scoring endpoints, so one engine covers generate/embed/rerank.
+  Retained as the documented alternative to revisit **if measured** prefix-cache
+  reuse becomes the dominant latency lever.
+- **llama.cpp (production GPU).** Rejected for production GPU throughput —
+  weaker continuous batching and multi-request concurrency than vLLM/SGLang.
+  Retained for CPU-only local development / CI (matches the repo's current
+  CPU-only posture) and as a low-VRAM GGUF-quantized emergency fallback. Its
+  GBNF grammar is a nice-to-have; vLLM/SGLang guided decoding already covers
+  constrained output.
+- **One shared process for all four models.** Rejected: couples batching,
+  memory (KV-cache vs. no-cache), version lifecycles, and failure domains, and
+  breaks retrieval index-version isolation.
+- **Separate process per Qwen *role* (NLU proc + Supervisor proc).** Rejected:
+  duplicates ~16 GB of Qwen3-8B weights in GPU memory for no benefit; ADR-016
+  already mandates shared weights with separate prompts.
+
+### Evaluated dimensions (summary)
+
+- **GPU memory (bf16 est.):** Qwen3-8B ≈ 16 GB weights + KV cache;
+  Qwen2.5-Coder-14B ≈ 28 GB (needs a ≥40 GB GPU, or ≈8–10 GB with 4-bit
+  AWQ/GPTQ to fit 24 GB); BGE-M3 ≈ 1–2 GB; BGE-reranker-v2-m3 ≈ 1–2 GB. Encoders
+  are small enough to co-reside on spare CHEAP-GPU memory.
+- **Batching:** vLLM continuous batching + PagedAttention for the generative
+  models; dynamic request batching for the encoder pooling/scoring servers.
+- **Concurrency:** per-process request queues; CHEAP and STRONG scale
+  independently to their own QPS profiles.
+- **Latency:** structured/guided decoding on Qwen; encoders are single-pass and
+  low-latency. Per-stage latency is already tracked by the M10 metrics list.
+- **Throughput:** generation throughput is the constraint; encoders are cheap.
+  STRONG (14B) is the throughput floor and scales first under load.
+- **Model sharing:** exactly one shared point — Qwen3-8B weights across
+  NLU/Supervisor/Verifier. Everything else is isolated.
+- **Observability:** each server exposes Prometheus metrics (queue time, batch
+  size, tokens/s, TTFT, KV-cache utilization); the app records the
+  `docs/ARCHITECTURE.md` §9 execution trace plus model/index version
+  fingerprints (TASK-03C).
+- **Deployment complexity:** one engine (vLLM) for all four roles keeps the
+  operational surface small; four processes are supervised independently.
+- **Failure isolation:** process-per-model gives independent restart/OOM
+  domains; a crash in one role degrades only that role's stage.
+
+### Expected GPU requirements & topology
+
+- **Minimum viable (single node):** 1× 80 GB GPU (A100/H100) hosting all four
+  processes with capped `gpu_memory_utilization` per process.
+- **Recommended production (two GPUs):** GPU-A (≥40 GB) for STRONG
+  `qwen-coder-14b`; GPU-B (24 GB, e.g. L4/A10/RTX 4090) for CHEAP `qwen3-8b`
+  with BGE-M3 + reranker co-resident in its spare memory. Encoders may fall back
+  to CPU for dev, but GPU is preferred for online latency.
+
+### Consequences
+
+- TASK-107 is complete as a decision. **No model is deployed** by this ADR.
+- The concrete serving client and per-model servers are **TASK-108 (shared
+  Qwen3-8B role serving)** and **TASK-109 (retrieval model serving)** — not
+  started here.
+- The thin OpenAI-compatible serving-client contract is specified but not
+  implemented; provider/model names remain configurable, never hardwired.
+- TASK-075 remains deferred; `PRODUCTION_TABLE_CLASS_PROVENANCE_PENDING` and
+  `GPU_PRODUCTION_VALIDATION_PENDING` remain active — this ADR runs no GPU and
+  validates no production latency/throughput.
+
+---
+
+## ADR-050 — Implement the ADR-049 serving boundary as an injected, contract-reusing client
+
+**Status:** Accepted (no models deployed)
+
+### Decision
+
+M10 Batch 4 implements ADR-049 in a new `src/serving/` package (TASK-108,
+TASK-109). It adds serving *integration* only; it introduces no new routing,
+arithmetic, ranking, or model weights.
+
+- **`ServingEndpoint` / `ServingTopology` (TASK-108).** One immutable endpoint
+  per served model, validated for task and for distinct base URLs (one process
+  per model = failure isolation). `endpoint_for_role` resolves NLU, Supervisor,
+  and the optional Verifier to the **single shared Qwen3-8B** endpoint and the
+  Programmer to the separate STRONG endpoint (ADR-016). `endpoint_for_tier`
+  maps an already-decided `Plan.model_tier` (CHEAP→shared, STRONG→strong) to its
+  endpoint — it consumes the deterministic M4 route (ADR-010/030) and never
+  re-classifies a plan. Model ids are configurable defaults; base URLs come from
+  deployment config/env, never hardwired.
+- **`OpenAICompatibleClient` (thin boundary).** One client bound to one
+  endpoint over an injected `Transport` (`generate`, `embed`, `score`,
+  `count_tokens`, `count_pair_tokens`). Task mismatch, protocol, and transport
+  failures are typed `ServingError`s. The stdlib `HttpTransport` is the only
+  production-network code and is exercised only against a live server.
+- **`ServingQueryEncoder` (TASK-109).** Satisfies the existing `QueryEncoder`
+  protocol and feeds `embed_query_texts` unchanged, so L2 normalization, the
+  1024-dim/float32 checks, and the `APPROVED_EMBEDDING_FINGERPRINT` gate remain
+  the compatibility authority for index-safe query vectors.
+- **`ServingBGEReranker` (TASK-109).** Subclasses the pinned `BGEReranker` and
+  replaces only inference/pair-token-counting with remote `/score` and
+  `/tokenize` calls. The `RERANKER_CONFIG_FINGERPRINT`, the
+  `RERANKER_MAX_PAIR_TOKENS` guard, and the deterministic ranking/tie-break/
+  `top_k` logic in `rerank_candidates` are reused, not duplicated.
+
+### Consequences
+
+- TASK-108 and TASK-109 are complete as CPU-only, network-free integrations
+  tested through an injected transport (no torch, no GPU, no live server).
+- Deterministic `ModelTier` routing is unchanged and remains the single source
+  of truth; serving only *consumes* it.
+- Retrieval serving stays byte-compatible with the offline index via the
+  existing embedding/reranker contracts; the serving layer adds no new
+  normalization or scoring math.
+- Live-GPU throughput/latency/index-parity validation and the `HttpTransport`
+  path remain `GPU_PRODUCTION_VALIDATION_PENDING`; no model is deployed.
+- TASK-075 remains deferred and `PRODUCTION_TABLE_CLASS_PROVENANCE_PENDING`
+  remains active. The next M10 batch owns cost/token dashboards, throughput/load
+  tests, and coordination-failure logging (TASK-110–112).
+
+---
+
+## ADR-051 — Measure retry gain, parallelize retrieval identically, and cache only verified answers
+
+**Status:** Accepted (CPU structure; production measurement pending)
+
+### Decision
+
+M10 Batch 5 implements TASK-102, TASK-103, and TASK-105 without adding a second
+routing source of truth, weakening grounding, or fabricating measurements.
+
+- **TASK-102 — retry/escalation measurement.** `retry_metrics.py` observes the
+  terminal M9 `RetrievedEvidenceE2ECaseResult` values and reports retry rate,
+  escalation rate, and quality recovered by retry/escalation (PASS rate among
+  retried/escalated cases), plus an optional `Plan.confidence` bucketing for
+  future gate calibration. Retry and CHEAP→STRONG escalation routing remain
+  solely in the deterministic M8 `build_retry_directive` (ADR-030/ADR-044);
+  confidence is observational and never gates a directive.
+- **TASK-103 — parallel retrieval.** `retrieval/parallel.py` executes independent
+  TABLE subqueries (and independent TABLE/TEXT source runs) concurrently while
+  reusing the exact Batch 3 decomposition, per-subquery request construction,
+  backend→RRF→reranker sequence, and partial-state merge. Results are always
+  reassembled in deterministic subquery order, so requirements, filters, ranking
+  semantics, provenance, and merge behavior are byte-identical to the sequential
+  path (ADR-020/ADR-022 preserved).
+- **TASK-105 — semantic cache experiment.** `orchestration/semantic_cache.py`
+  is an optional, default-disabled, versioned, fingerprint-invalidatable cache
+  that stores **only verified PASS answers**, so it can neither hold nor return
+  an unverified answer and never bypasses verification (ADR-009/ADR-024). Key
+  policies are NONE / QUERY / FIELD / ADAPTIVE; ADAPTIVE caches only stable
+  standardized inputs. `evaluation/cache_experiment.py` compares the policies and
+  monitors the correctness delta against the real fixtures (zero regressions).
+
+### Consequences
+
+- TASK-102, TASK-103, and TASK-105 are complete as deterministic CPU-only work
+  with focused tests; `python -m pytest` stays green and `git diff --check` is
+  clean.
+- Real retry-rate/quality-gain over production models and traffic, and
+  embedding-similarity ("semantic") cache hit-rate/quality, remain
+  `GPU_PRODUCTION_VALIDATION_PENDING`; no such numbers are asserted here.
+- New CLIs `run_retry_metrics_eval` and `run_cache_experiment` join the existing
+  deterministic fixture evaluations.
+- TASK-104 (parallel verifier checks) remains open; the next M10 batch owns
+  TASK-104, TASK-106, and the TASK-110–112 dashboards/load/coordination work.
+- TASK-075 remains deferred; `PRODUCTION_TABLE_CLASS_PROVENANCE_PENDING` and
+  `GPU_PRODUCTION_VALIDATION_PENDING` remain active.
+
+---
+
 ## Deferred Decisions
 
 The provided source materials do not fully specify the following. Do not silently treat them as final:
 
-- exact application framework,
+- exact application frameworks outside the accepted M9 LangGraph boundary,
 - exact repository package structure,
 - exact database/vector-store choice,
 - exact model provider,
-- exact answer/citation JSON schema,
 - authoritative company-alias dataset and storage mechanism,
 - authoritative financial-metric vocabulary, synonym source, and storage mechanism,
 - requested currency/unit vocabulary beyond TASK-017 v1 scale expressions,

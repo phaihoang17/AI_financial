@@ -40,6 +40,7 @@ def security_failure(code: SecurityFailureCode, message: str) -> ExecutionFailur
 
 def expected_worker_environment(project_root: Path) -> dict[str, str]:
     return {
+        "LC_CTYPE": "C.UTF-8",
         "PYTHONHASHSEED": "0",
         "PYTHONIOENCODING": "utf-8",
         "PYTHONNOUSERSITE": "1",

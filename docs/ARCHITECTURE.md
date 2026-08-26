@@ -1453,6 +1453,12 @@ EvidenceItem:
 
   retrieval_score: float | null
   rerank_score: float | null
+
+  ticker: string | null
+  company_name: string | null
+  report_year: integer | null
+  paragraph_ref: string | null
+  provenance_link_ids: [string]
 ```
 
 ### Constraint
@@ -1466,6 +1472,13 @@ Scale/unit resolution remains a separate later stage.
 Do not pass a large unstructured top-k dump to the Programmer when a smaller grounded bundle can be built first.
 
 A hybrid bundle may contain both a table cell/row and a narrative span when the calculation requires both.
+
+M8 Batch 1 extends `EvidenceItem` only with immutable M3 provenance already
+present at evidence construction time. `ticker`, `company_name`, and
+`report_year` copy candidate/report provenance; `paragraph_ref` preserves the
+exact TEXT paragraph identity; and `provenance_link_ids` preserves persisted
+`TableTextLink` identities when `associated_table_ref` is used. None of these
+fields may be inferred by Verification.
 
 ## 4.5 Scale / Unit Resolver
 
@@ -1877,9 +1890,73 @@ comparison in the existing `ReasoningEvaluationResult`, but requires
 execution and answer correctness to be supplied by their independent future
 evaluators; it does not derive either outcome.
 
-TASK-067 remains `BLOCKED_BY_M7_EXECUTION_BOUNDARY`. Batch 3 defines no oracle
-execution fixture scoring, formula execution, sandbox execution, or model
-inference.
+At the M6 Batch 3 boundary, TASK-067 remained
+`BLOCKED_BY_M7_EXECUTION_BOUNDARY`; M7 Batch 2 later removed that blocker.
+M6 Batch 3 itself defines no oracle execution fixture scoring, formula
+execution, sandbox execution, or model inference.
+
+### Canonical M6 Batch 4 oracle reasoning evaluation
+
+TASK-067 evaluates reasoning independently of retrieval through this fixed
+boundary:
+
+```text
+Oracle Evidence
+  -> M5 MaskedEvidenceBundle + BindingMap
+  -> M6 Program generation
+  -> M7 isolated execution
+  -> ReasoningEvaluationResult
+```
+
+Oracle evidence is supplied as exact existing `EvidenceItem`, `CellLocation`,
+`SchemaLinkResult`, and `ScaleUnitResolution` contracts. The evaluator does not
+construct a retrieval query, call a retrieval backend, or search the corpus.
+It uses the production masking, binding, generation, validation, and isolated
+execution functions rather than evaluation-only arithmetic.
+
+The versioned report contract is `m6-oracle-reasoning-eval-v1`:
+
+```yaml
+OracleReasoningCaseResult:
+  case_id: string
+  reasoning_result: ReasoningEvaluationResult
+  actual_program_id: string | null
+  execution_success: boolean
+  actual_output: ExecutionOutput | null
+  failure_stage: PROGRAM_GENERATION | VALIDATION | BINDING | CONVERSION |
+                 ARITHMETIC | SANDBOX_INFRASTRUCTURE | null
+  failure_code: string | null
+  passed: boolean
+
+OracleReasoningReport:
+  schema_version: m6-oracle-reasoning-eval-v1
+  case_count: integer
+  passed_count: integer
+  failed_count: integer
+  execution_accuracy: number
+  trace_accuracy: number
+  answer_accuracy: number
+  trace_distribution: mapping
+  failure_distribution: mapping
+  case_results: [OracleReasoningCaseResult]
+```
+
+Execution comparison is exact `ExecutionOutput.to_dict()` equality. Therefore
+`CanonicalDecimal` serialization, scalar/ordered kind, ordered value position,
+scale, and unit must all match; no float conversion or tolerance exists. Trace
+comparison uses TASK-069 exact comparison followed only by graph-ID-normalized
+equivalence. Expected failures pass execution scoring only when both attributed
+stage and code match, and pass answer scoring only when no output was emitted.
+The deterministic CPU-only entry point is:
+
+```bash
+python -m src.evaluation.run_reasoning_eval --mode oracle
+```
+
+The canonical fixture set covers lookup, direct multi-period comparison,
+growth rate with magnitude normalization, average, unsupported ratio,
+division by zero, and explicit scale conversion. TASK-067 completes the M6
+implementation boundary; it adds no production DSL operation or model call.
 
 FinQA-style evaluation suggests reporting both program/trace correctness and final execution correctness.
 
@@ -2015,16 +2092,61 @@ the DSL.
 
 Parent and worker exchange canonical UTF-8 JSON only, bounded to 1,048,576
 bytes in each direction. Pickle is forbidden. The parent launches one fixed
-module without a shell and supplies only `PYTHONIOENCODING` and
-`PYTHONDONTWRITEBYTECODE`; worker stderr and request values are never copied
+module without a shell and a bounded startup environment; the exact Batch 3
+environment is defined below. Worker stderr and request values are never copied
 into `ExecutionResult`. A non-zero exit, malformed/non-canonical response, or
 invalid/mismatched result maps to a typed `INFRASTRUCTURE` failure.
 
 Batch 2 uses process separation but does not claim the hard resource or final
 OS isolation boundary. Time/memory/filesystem/network enforcement belongs to
 TASK-072, abuse testing to TASK-074, and sandbox technology selection to
-TASK-075. With the deterministic execution boundary available, TASK-067 is
-unblocked but remains unimplemented.
+TASK-075. M7 Batch 3 completed TASK-072/TASK-074, and the deterministic
+execution boundary is consumed by the completed TASK-067 oracle evaluator.
+
+### Canonical M7 Batch 3 limits and security enforcement
+
+TASK-072 binds `m7-limits-v1` to one exact runtime profile:
+
+| Limit | Value |
+|---|---:|
+| Wall clock | 1,500 ms |
+| CPU | 1 second soft / 2 seconds hard |
+| Resident memory | 256 MiB |
+| Processes | 1 |
+| Open file descriptors | 32 |
+| Created file size | 0 bytes |
+| Canonical request JSON | 1,048,576 bytes |
+| Canonical response JSON | 1,048,576 bytes |
+
+The parent starts the fixed worker without a shell, in a new process session and
+a fresh non-writable working directory. It passes only the six fixed locale and
+Python-startup variables required by the worker, monitors RSS, and kills the
+complete worker process group on wall-clock or memory violation. An unavailable
+RSS monitor fails closed. On Darwin, an additive `sandbox-exec` policy denies
+network, filesystem writes, and process forks; its absence is a typed security
+setup failure rather than an unisolated fallback.
+
+After bounded protocol decoding, the worker verifies the exact environment,
+installs CPU/process/file-descriptor/file-size/core rlimits, preloads and reruns
+the deterministic validator, clears its environment, and installs audit denials
+for all later filesystem reads/writes, socket operations, and process spawning.
+Linux additionally applies `RLIMIT_AS`; Darwin RSS is enforced by the parent
+because Darwin reserves an address region too large for a useful `RLIMIT_AS`
+cap. A limit or security violation always produces a failure-only
+`ExecutionResult`; oversized output is replaced by a small typed failure and
+cannot return a partial success.
+
+TASK-074 exercises the actual parent, protocol, policy, worker-limit, and worker
+guard boundaries with fixed test-only probes. It covers wall/CPU/memory pressure,
+both protocol size bounds, malformed/injected protocol, crash/corrupt result,
+filesystem, network, process spawn, environment inheritance, invalid Program
+shape, and unknown formula. No probe is selectable from `SandboxExecutionRequest`
+and the production DSL remains unchanged.
+
+Batch 3 is not TASK-075. The Darwin policy and Python audit guard are current
+defense-in-depth for the trusted interpreter, not a final container/gVisor-like/
+microVM selection. Native non-Darwin filesystem/network isolation and production
+load calibration remain evidence required for TASK-075.
 
 ## 4.11 Verification Layer
 
@@ -2062,47 +2184,550 @@ Logical checks:
 
 Independent verification checks may be parallelized.
 
-### Canonical Verification Result
+### Canonical M8 verification contracts
 
 ```yaml
-VerificationResult:
+VerificationRequest:
+  plan: Plan
+  program: Program
+  evidence_items: [EvidenceItem]
+  cell_locations: [CellLocation]
+  schema_links: [SchemaLinkResult]
+  scale_unit_resolutions: [ScaleUnitResolution]
+  binding_map: BindingMap
+  evidence_completeness: EvidenceCompletenessResult
+  execution_result: ExecutionResult
+  verify_profile: LIGHT | STRICT
+
+VerificationCheckResult:
+  check_id: string
+  category: GROUNDING | INSUFFICIENT_EVIDENCE | NUMERIC |
+            SCALE_UNIT | FINANCIAL_LOGIC
   passed: boolean
-  failure_category:
-    GROUNDING
-    | INSUFFICIENT_EVIDENCE
-    | NUMERIC
-    | SCALE_UNIT
-    | FINANCIAL_LOGIC
-    | null
+  reason_code: string | null
+  subject_ids: [string]
+
+VerificationReport:
+  passed: boolean
+  checks: [VerificationCheckResult]
+  failure_category: GROUNDING | INSUFFICIENT_EVIDENCE | NUMERIC |
+                    SCALE_UNIT | FINANCIAL_LOGIC | null
   failure_reason: string | null
 ```
 
-Pass/fail invariants:
+Every applicable check is retained. A passing check has a null `reason_code`;
+a failed check has a non-empty typed reason. Aggregate failure precedence is:
 
-- `passed: true` requires `failure_category` and `failure_reason` to be `null`.
-- `passed: false` requires a non-null `failure_category` and a non-empty `failure_reason`.
+1. `GROUNDING`,
+2. `INSUFFICIENT_EVIDENCE`,
+3. `NUMERIC`,
+4. `SCALE_UNIT`,
+5. `FINANCIAL_LOGIC`.
 
-Failure categories:
+`failure_category` and `failure_reason` are taken from the first failed category
+by this order and its first failed check in deterministic check order. A pass
+requires all checks to pass and both aggregate failure fields to be null.
+
+If `ExecutionResult.success` is false, Verification is `BYPASSED`: the verifier
+returns no `VerificationReport` and leaves the typed execution failure unchanged.
+Batch 1 does not classify runtime failures, call an LLM, retry, rerun retrieval,
+escalate a model, or decide abstention.
+
+### TASK-080 grounding behavior
+
+Every required TABLE requirement is checked through the exact chain:
+
+```text
+Plan requirement
+  -> RESOLVED exact SchemaLinkResult
+  -> exact CellLocation/source cell
+  -> exact EvidenceItem
+  -> immutable report/page/table/cell/path provenance
+```
+
+Company/ticker, report/year, statement scope, period, metric, table identity,
+source cell, and structured/flattened row and column paths are compared exactly.
+No fuzzy, semantic, or widened match is allowed. `CellLocation` carries copied
+candidate `ticker`, `company_name`, `report_year`, and `statement_scope`
+provenance plus optional actual `table_class` provenance. Table class is never
+derived from the Plan metric or registry expectation. A null actual class emits
+`TABLE_CLASS_UNAVAILABLE`; a different actual class emits
+`TABLE_CLASS_MISMATCH`.
+
+TEXT grounding requires exact non-empty report/page/paragraph/text provenance.
+When `associated_table_ref` is used, persisted `provenance_link_ids` are
+required. Missing canonical provenance produces a typed grounding failure; the
+verifier never fills it in.
+
+### TASK-08B evidence-support behavior
+
+Coverage is evaluated from ordered, required `Plan.retrieval_requirements` and
+must agree with `EvidenceCompletenessResult`. TABLE requirements accept only
+TABLE evidence with one resolved exact schema link and exact metric/period.
+TEXT requirements accept only TEXT paragraph evidence with exact metric/period
+when those fields are required. `STRUCTURAL` and `NONE` links never satisfy an
+exact requirement, and associated/linked evidence never changes its canonical
+source type. Every missing requirement emits a failed
+`INSUFFICIENT_EVIDENCE` check whose `subject_ids` retains its exact
+`requirement_id`.
+
+### TASK-081 numeric-output behavior
+
+Successful `ExecutionResult` output is checked against the exact `Program`.
+The program identity and output kind must match; `SCALAR` has exactly one
+`CanonicalDecimal`; `ORDERED_VALUES` has the exact output-step count and retains
+the input-reference order. Every datum must use a `CanonicalDecimal` rather
+than a float and must carry structurally valid scale/unit metadata. Formula
+values are not recomputed. Unit compatibility is not classified as `NUMERIC`.
+
+### TASK-08A scale/unit-provenance behavior
+
+For every Program input the verifier follows the immutable chain:
+
+```text
+EvidenceItem
+  -> approved ScaleUnitResolution
+  -> execution-only BindingMap
+  -> ExecutionResult metadata
+```
+
+Source and requested scale/unit metadata must remain identical across the
+approved resolution and binding. Evidence scale/unit metadata, when present,
+must agree with the approved resolution. Winning hint IDs must remain within
+the considered IDs; a hint-free PERCENT resolution is accepted only when the
+canonical source cell records a percent literal. Missing source scale cannot
+be replaced by `RAW`. The verifier applies the already-approved deterministic
+conversion policy only to check output metadata; it never resolves scale again.
+Unsupported unit conversion and any PERCENT/magnitude mix fail as
+`SCALE_UNIT`.
+
+### TASK-082 financial-logic behavior
+
+Financial verification reads only `Plan`, symbolic `Program`, and the immutable
+FormulaRegistry/FormulaImplementation contracts. It checks question type,
+formula identity and registry fingerprint, reasoning mode, output operation and
+kind, ordered inputs, required metric/period order, formula arity/period rule,
+and registry operation. The only successful shapes are:
+
+- `LOOKUP -> IDENTITY`,
+- formula-free `MULTI_PERIOD -> COLLECT`,
+- `GROWTH_RATE -> APPLY_REGISTERED_FORMULA(GROWTH_RATE)`,
+- `AVERAGE -> APPLY_REGISTERED_FORMULA(AVERAGE)`.
+
+No ratio formula is registered, so `DERIVED_RATIO` cannot verify successfully.
+The verifier does not invent or recompute a financial formula.
+
+Batch 2 implements TASK-081, TASK-08A, and TASK-082 only. TASK-083 through
+TASK-089 remain deferred. No LLM, retry, retrieval rerun, escalation, or
+abstention decision is added.
+
+### TASK-083 LIGHT profile
+
+LIGHT is valid only when both the Plan and Program describe a formula-free
+`LOOKUP`, the Plan uses `DIRECT` reasoning, and exactly one required retrieval
+requirement exists with no additional retrieval requirements. Its deterministic
+check matrix is:
+
+| Check family | LIGHT |
+|---|---|
+| Profile policy | Always |
+| TASK-080 grounding | Run |
+| TASK-08B evidence support | Run |
+| TASK-081 numeric | Run |
+| TASK-08A scale/unit | Run only when `requires_scale_resolution=true` |
+| TASK-082 financial logic | Do not run |
+
+Invalid LIGHT declarations emit typed `LIGHT_*` failures. They never reduce
+the check set: if the Plan or Program requires STRICT, the verifier runs the
+STRICT matrix while retaining every profile-policy failure.
+
+### TASK-084 STRICT profile
+
+STRICT runs grounding, evidence support, numeric, applicable scale/unit, and
+financial-logic verification. STRICT is mandatory for PROGRAM reasoning, a
+non-null formula, `DERIVED_RATIO`, `MULTI_PERIOD`, `AGGREGATE`, or any Plan with
+more than one required retrieval requirement. An explicitly requested or
+Plan-selected STRICT profile is never downgraded.
+
+`VerificationRequest.verify_profile` must equal `Plan.verify_profile`. A
+mismatch remains constructible only so Verification can emit the typed
+`VERIFY_PROFILE_MISMATCH` check in the existing `FINANCIAL_LOGIC` Plan/Program
+consistency category. A mismatch always selects the stronger STRICT matrix.
+Failed execution bypass occurs before profile selection and leaves the
+`ExecutionResult` untouched. Profile selection and all verifier families are
+read-only over Plan, Program, Evidence, and ExecutionResult.
+
+Batch 3 implements TASK-083 and TASK-084 only. TASK-085 through TASK-089 remain
+deferred. No LLM, retry, retrieval rerun, escalation, or abstention decision is
+added.
+
+### Canonical M8 Batch 4 retry-directive contracts
+
+M8 classifies a completed `VerificationReport` and emits one directive for M9.
+It does not perform the directed work.
+
+```yaml
+RetryAction:
+  PASS | RETRY_RETRIEVAL | RETRY_PROGRAMMER | ESCALATE_STRONG | ABSTAIN
+
+RetryState:
+  retries_used: integer
+  max_retries: integer
+  current_model_tier: CHEAP | STRONG
+  strong_escalated: boolean
+  terminal: boolean
+
+RetryDirective:
+  action: RetryAction
+  failure_category: VerificationFailureCategory | null
+  reason_code: string | null
+  next_state: RetryState
+  reason: string
+```
+
+`RetryState.initial(plan)` copies `Plan.max_retries` and `Plan.model_tier`.
+`retries_used` counts reruns after the initial attempt. Each
+`RETRY_RETRIEVAL`, `RETRY_PROGRAMMER`, or `ESCALATE_STRONG` directive increments
+it exactly once. `PASS` and `ABSTAIN` do not. Consuming the final available
+retry leaves the state non-terminal so M9 may evaluate that final attempt; a
+subsequent failure emits terminal `ABSTAIN`. A terminal failure state cannot
+emit another retry.
+
+Failure classification is an explicit `(category, reason_code)` mapping rather
+than a category-only fallback:
+
+- missing evidence and repairable grounding mismatches -> `RETRY_RETRIEVAL`,
+- unavailable canonical provenance/source schema -> `ABSTAIN`,
+- repairable numeric output-shape or symbolic-Program failures ->
+  `RETRY_PROGRAMMER`,
+- invalid immutable execution-output contracts -> `ABSTAIN`,
+- missing/ambiguous scale clues -> `RETRY_RETRIEVAL`,
+- unsupported scale/unit conversion or policy -> `ABSTAIN`,
+- unsupported/unregistered financial logic and invalid Plan/profile policy ->
+  `ABSTAIN`.
+
+Every reason code emitted by TASK-080, TASK-08B, TASK-081, TASK-08A, TASK-082,
+TASK-083, and TASK-084 is registered explicitly. An unregistered or category-
+mismatched code is a classification error; it is not silently routed by
+category.
+
+CHEAP-to-STRONG escalation is permitted only for explicitly marked
+Programmer-repairable numeric or financial-logic failures, only from CHEAP,
+only before a prior strong escalation, and only while budget remains. It
+consumes one retry. Retrieval failures never escalate, and STRONG never
+downgrades to CHEAP.
+
+Retrieval directives preserve the original immutable Plan, exact metadata
+filters, and retrieval requirements. Programmer directives preserve Plan and
+Evidence, expose no `BindingMap` values, and require the regenerated Program to
+pass M6 validation. These are directive requirements for M9; M8 invokes no
+retrieval backend, Programmer, model, or LLM. Failed `ExecutionResult` values
+continue to bypass Verification and this classifier unchanged.
+
+Batch 4 completes TASK-085 through TASK-089 and the M8 implementation boundary.
+Actual reruns, orchestration state transitions around attempts, and final
+abstain/answer handling remain M9 responsibilities.
+`GPU_PRODUCTION_VALIDATION_PENDING` is unchanged.
+
+Failure categories remain:
 
 - `GROUNDING`: company, report, statement scope, period, table, row, column, or header-path grounding failure.
 - `INSUFFICIENT_EVIDENCE`: required table and/or text evidence is missing.
 - `NUMERIC`: numeric parsing, sign, missing/NaN, divide-by-zero, conversion, or result-sanity failure.
 - `SCALE_UNIT`: scale, unit, or scale/unit-provenance failure.
-- `FINANCIAL_LOGIC`: formula, required-period, or accounting-consistency failure.
+- `FINANCIAL_LOGIC`: verification-profile, formula, required-period, or accounting-consistency failure.
 
-Execution and runtime failures belong to `ExecutionResult`, not `VerificationResult`.
+Execution and runtime failures belong to `ExecutionResult`, not
+`VerificationReport`.
 
-## 4.12 Answer Builder
+## 4.12 M9 end-to-end orchestration contracts
+
+M9 Batch 1 defines contracts only. It performs no stage calls and contains no
+graph execution.
+
+```yaml
+M9State:
+  schema_version: "m9-orchestration-state-v2"
+  request_id: string
+  raw_question: string
+  phase: M9Phase
+  outcome: PASS | CLARIFICATION | ABSTAIN | null
+  query_understanding: QueryUnderstanding | null
+  planning_gate: PlanningGate | null
+  supervisor_result: SupervisorResult | null
+  plan_fingerprint: sha256 | null
+  retrieval_policy_fingerprint: sha256 | null
+  retry_state: RetryState | null
+  attempts: [AttemptRecord]
+  final_response: FinalResponse | null
+  failure_attribution: FailureAttribution | null
+
+FailureAttribution:
+  stage: NLU | SUPERVISOR | RETRIEVAL | EVIDENCE | PROGRAMMER | SANDBOX | VERIFICATION
+  code: string
+  reason: string
+  attempt_index: integer | null
+  requirement_ids: [string]
+  evidence_ids: [string]
+  program_ids: [string]
+
+AttemptRecord:
+  attempt_index: integer
+  entry_stage: RETRIEVAL | PROGRAMMER | SANDBOX
+  model_tier: CHEAP | STRONG
+  retrieval_query: RetrievalQuery | null
+  retrieval_candidates: [RetrievalCandidate]
+  scale_hints_by_candidate: {candidate_id: [RetrievedScaleUnitHint]}
+  cell_locations: [CellLocation]
+  evidence_items: [EvidenceItem]
+  evidence_completeness: EvidenceCompletenessResult | null
+  scale_unit_resolutions: [ScaleUnitResolution]
+  schema_links: [SchemaLinkResult]
+  masked_evidence: MaskedEvidenceBundle | null
+  binding_ref: string | null
+  programmer_input: ProgrammerInput | null
+  programmer_result: ProgrammerResult | null
+  execution_result: ExecutionResult | null
+  verification_report: VerificationReport | null
+  retry_directive: RetryDirective | null
+  execution_directive: ExecutionDirective | null
+```
+
+`SupervisorResult.plan` is the sole Plan source of truth. Its deterministic
+fingerprint is checked whenever state is serialized. The retrieval-policy
+fingerprint covers the exact Plan fingerprint, retrieval requirements, query
+filters and eligible source types, `top_k`, and retrieval artifact versions.
+These inputs cannot change between attempts; retries may replace artifacts but
+cannot widen retrieval policy. Attempt indexes are contiguous, the last attempt
+is current, and its index equals `RetryState.retries_used`. Prior attempts are
+copied into immutable records and guarded by content fingerprints. Terminal
+state rejects every later transition.
+
+`BindingMap` is execution-only and is not a field of `M9State` or
+`AttemptRecord`. State stores only an opaque process-local `binding_ref` and
+never serializes bound numeric values. Programmer receives only
+`ProgrammerInput` and `ModelTier` and cannot resolve that handle. Sandbox and
+Verification integration code may resolve it. If checkpoint resume occurs in a
+process without the handle, M9 must re-enter the deterministic EVIDENCE stage
+to rebuild masking and binding before any downstream work.
+
+Execution failures remain separate from M8 verification directives:
+
+```yaml
+ExecutionAction:
+  RETRY_RETRIEVAL | RETRY_PROGRAMMER | RETRY_SANDBOX | ABSTAIN
+
+ExecutionDirective:
+  action: ExecutionAction
+  execution_failure_stage: ExecutionFailureStage
+  execution_failure_code: string
+  next_retry_state: RetryState
+  reason: string
+```
+
+The directive preserves the original M7 failure stage and code. A failed
+`ExecutionResult` cannot carry a `VerificationReport` or M8 `RetryDirective`.
+Every execution retry consumes the same `Plan.max_retries` budget, never
+changes model tier automatically, and cannot start from terminal or exhausted
+state. `RETRY_SANDBOX` means only Sandbox is rerun. Unknown stage/code pairs are
+terminal classification errors. Batch 1 validates these transitions but does
+not select or execute them.
+
+```yaml
+FinalResponse:
+  status: PASS | CLARIFICATION | ABSTAIN
+  answer: FinalAnswer | null
+  reason_code: string | null
+  message: string
+  retry_state: RetryState | null
+  failure_attribution: FailureAttribution | null
+
+FinalAnswer:
+  question_type: QuestionType
+  target_metrics: [string]
+  derived_target: string | null
+  formula_id: string | null
+  output: ExecutionOutput
+  evidence: [AnswerEvidenceReference]
+```
+
+PASS state validation requires successful execution, a passed
+`VerificationReport`, and M8 `PASS`. `FinalAnswer.output` must copy the verified
+execution output exactly; answer construction cannot recalculate it.
+
+The Batch 1 stage ports are typed and inert:
+
+- NLU: raw question -> validated `QueryUnderstanding` and `PlanningGate`.
+- Retrieval: immutable `RetrievalStageRequest` -> `RetrievalArtifacts`.
+- Programmer: (`ProgrammerInput`, `ModelTier`) -> `ProgrammerResult`.
+- Sandbox: `SandboxExecutionRequest` -> `ExecutionResult`.
+
+M9 will use LangGraph for control-flow and checkpoint coordination only. The
+locally verified version is pinned as `langgraph==1.2.10` in
+`requirements-orchestration.txt`. Financial/business rules stay in existing
+pure deterministic functions, not graph nodes. Batch 1 imports no LangGraph
+module and is testable without constructing or running a graph.
+
+Real source-backed `CellLocation.table_class` provenance is currently
+unavailable. This remains an upstream requirement. M9 must preserve a supplied
+value or absence exactly and must not infer it from Plan or metric mappings.
+
+TASK-075 remains deferred. `GPU_PRODUCTION_VALIDATION_PENDING` is unchanged.
+
+### M9 Batch 2 straight-through graph
+
+Batch 2 implements TASK-091 through TASK-094 as one no-retry LangGraph flow:
+
+```text
+nlu -> supervisor -> retrieval -> evidence -> programmer -> sandbox
+    -> verification -> stop
+```
+
+Each node projects a complete serialized `M9State` and a small serializable
+control envelope. LangGraph owns sequencing, projection, conditional stop, and
+checkpoint coordination only. The stage work remains in the existing
+deterministic Supervisor, M3/M5 evidence functions, M6 validator, M7 contracts,
+and M8 verifier or behind injected stage ports.
+
+The initial executable attempt is always `attempt_index=0`, enters at
+`RETRIEVAL`, and uses `Plan.model_tier`. `SupervisorResult.plan` remains the
+only Plan source; its fingerprint is established in the Supervisor transition.
+The retrieval request freezes the exact Plan-derived query, source eligibility,
+`top_k`, artifact versions, Plan fingerprint, and retrieval-policy fingerprint.
+Only the M3 v1 Cartesian TABLE requirement shape and its optional single TEXT
+requirement are accepted. Unsupported shapes stop with a typed orchestration
+failure before backend retrieval.
+
+The evidence transition runs the approved deterministic sequence:
+
+```text
+cell location -> EvidenceItem build -> completeness -> source table_class guard
+-> scale/unit resolution -> schema linking -> masking -> value binding
+-> ProgrammerInput
+```
+
+`CellLocation.table_class` must be supplied by the source/fixture adapter. A
+missing or mismatched value stops the run; M9 never derives it from Plan.
+`BindingMap` is placed only in `BindingStorePort`; the checkpointed attempt
+contains only `binding_ref`. Programmer receives only `ProgrammerInput` and
+`ModelTier`.
+
+Generated Programs are revalidated before sandbox request construction. A
+failed `ExecutionResult` is stored unchanged and produces no
+`VerificationReport`. Successful execution is passed to the existing M8
+verifier. A failed VerificationReport is stored unchanged. Batch 2 stops at
+the first native typed failure or at one successful VerificationReport and
+does not emit retry/execution directives, a final response, or answer data.
+
+TASK-075 remains deferred. `GPU_PRODUCTION_VALIDATION_PENDING` is unchanged.
+
+### M9 Batch 3 bounded retry and terminal graph
+
+Batch 3 completes TASK-095 through TASK-097 and extends the Batch 2 graph with
+bounded directive execution and one terminal response:
+
+```text
+nlu -> supervisor -> retrieval -> evidence -> programmer -> sandbox
+    -> verification -> answer -> terminal
+```
+
+Explicit M8 `RetryDirective` and M9 `ExecutionDirective` transitions may route
+back to retrieval, Programmer, or Sandbox. All actions share the single
+`RetryState` initialized from `Plan.max_retries`. Every retrieval, Programmer,
+Sandbox, or CHEAP-to-STRONG rerun consumes exactly one retry; PASS and ABSTAIN
+consume none. The final permitted retry creates a non-terminal attempt, and a
+later repairable failure terminates when the budget is exhausted.
+
+Retry projection is stage-specific. Retrieval retry preserves the canonical
+understanding, Supervisor result, Plan, and both policy fingerprints, but
+starts the new attempt with only the frozen retrieval query. Programmer retry
+also preserves the current retrieval/evidence/M5 artifacts and `binding_ref`,
+while clearing Programmer and downstream results. Strong escalation uses that
+same projection, changes the attempt tier to STRONG exactly once, and never
+downgrades. Sandbox retry additionally preserves `ProgrammerResult` and reruns
+only Sandbox, so Program generation is not repeated.
+
+Native failed `ExecutionResult` values are classified by their exact M7
+stage/code. Repairable policy/validation/formula-shape failures rerun the
+Programmer; `SOURCE_SCALE_REQUIRED` reruns retrieval; eligible resource and
+worker-start/crash failures rerun Sandbox. Binding, security, contract,
+unsupported conversion, divide-by-zero, Decimal, malformed protocol/result,
+and other explicitly permanent failures abstain. Unknown pairs fail closed as
+a terminal classification failure. The original `ExecutionFailure` remains in
+the attempt, and failed execution never creates a `VerificationReport`.
+
+A blocked PlanningGate emits CLARIFICATION only for its existing actionable
+missing/ambiguity findings; all other early stops emit ABSTAIN. No downstream
+port is called after either outcome. Every non-PASS terminal response contains
+the originating typed stage, reason code, terminal retry state when one exists,
+and no answer.
+
+The Answer Builder runs only after successful execution, a passed M8 report,
+and M8 PASS. It copies `ExecutionOutput` without arithmetic or conversion and
+selects citations only from the Program output dependency closure. Citations
+follow Plan requirement order with evidence ID as the deterministic tie-break.
+The builder accepts no `BindingMap`. The graph still checkpoints only
+`binding_ref`, rejects transitions after terminal state, and uses injected
+ports without a production LLM, GPU, vector artifact, or network dependency.
+
+At the Batch 3 boundary, TASK-098 and TASK-099 remained pending. Source-backed production
+`CellLocation.table_class` remains unavailable; fixture adapters may supply it
+explicitly, and M9 never infers it. TASK-075 remains deferred and
+`GPU_PRODUCTION_VALIDATION_PENDING` is unchanged.
+
+### M9 Batch 4 retrieved-evidence evaluation and terminal attribution
+
+Batch 4 completes TASK-098 and TASK-099 without adding production adapters.
+The deterministic fixture evaluator invokes a fresh injected M9 graph for each
+case and compares NLU, Plan, final-attempt evidence completeness, Program trace,
+execution, verification, terminal status, answer, retries used, and strong
+escalation independently. `ExecutionOutput` comparison is exact canonical JSON;
+there is no Decimal tolerance.
+
+The fixture matrix covers LOOKUP, comparison, GROWTH_RATE, AVERAGE,
+clarification, targeted retrieval/Programmer/Sandbox recovery, strong
+escalation, permanent verification and security abstention, and retry-budget
+exhaustion. Its CPU-only entry point is:
+
+```bash
+python -m src.evaluation.run_e2e_eval --mode fixture
+```
+
+The report includes total/pass/fail cases, conditional PASS/CLARIFICATION/
+ABSTAIN accuracy, every independent stage metric, retry success rate,
+`retries_used` distribution, strong escalation count, and terminal failure
+distribution by exact stage/code. It also carries the explicit production
+status `BLOCKED / PRODUCTION_TABLE_CLASS_PROVENANCE_PENDING`. Fixture locations
+provide genuine source-backed `table_class`; neither the evaluator nor M9
+derives it from Plan.
+
+Terminal attribution is the first typed failure that remains unrecovered when
+bounded routing terminates. Failures in earlier attempts that lead to a
+successful retry stay in immutable attempt history and do not populate the
+terminal attribution. The terminal record preserves the original code,
+terminal attempt index and retry state, plus relevant requirement, evidence,
+and Program identifiers when they exist. Native unknown execution or verifier
+codes remain the terminal code even when their classification itself fails.
+PASS has no failure attribution.
+
+The M9 checkpoint schema advances to `m9-orchestration-state-v2` for the added
+attribution identifier fields. Deserialization accepts v1 checkpoints and
+migrates absent identifier lists to empty v2 lists. TASK-090 through TASK-099 are now implemented,
+but real production TABLE E2E remains blocked on upstream source-backed
+`table_class`. TASK-075 remains deferred; `GPU_PRODUCTION_VALIDATION_PENDING`
+and `PRODUCTION_TABLE_CLASS_PROVENANCE_PENDING` remain active.
+
+## 4.13 Answer Builder
 
 ### Responsibility
 
-Build the user-facing answer from verified output.
+Build the user-facing answer from verified output. M9 Batch 3 uses the
+`FinalAnswer` and `AnswerEvidenceReference` contracts defined in section 4.12.
+The builder copies the exact verified `ExecutionOutput` and cites only evidence
+in the Program output dependency closure; it performs no arithmetic, scale
+conversion, formula recomputation, or binding lookup.
 
-It should not silently change the computed value or invent missing evidence.
-
-The exact answer schema/citation format is not specified in the provided sources and must be defined by the implementation/product layer.
-
-## 4.13 Optional Experience Memory
+## 4.14 Optional Experience Memory
 
 Experience memory is deferred until the non-memory baseline is stable.
 
@@ -2191,6 +2816,51 @@ Logical roles have different model requirements:
 - Critic/Verifier: small/fast model only where deterministic checks are insufficient.
 
 Do not assume every component requires a large LLM.
+
+## 8.1 Model Serving Topology (M10 / TASK-107, ADR-049)
+
+Design only — no models are deployed. The production serving engine is **vLLM**,
+run as **one process per model** behind vLLM's OpenAI-compatible API. The
+application reaches every model through **one thin serving-client contract**
+(base URL + model id + task), so the engine/provider stays a deployment choice.
+
+```text
+        application (deterministic pipeline)
+                     |
+     +-------- serving-client contract --------+
+     |            |              |             |
+     v            v              v             v
+ qwen3-8b   qwen-coder-14b    bge-m3     bge-reranker-v2-m3
+ (CHEAP)     (STRONG)        (embed)        (rerank/score)
+ NLU+Sup+    Programmer      query          fused-candidate
+ Verifier                    embedding      reranking
+   |            |
+   +--- vLLM generate ---+   +----- encoder (single-pass) -----+
+```
+
+Rules:
+
+- **Shared weights, separate roles:** one `qwen3-8b` process serves NLU,
+  Supervisor, and the optional Verifier (ADR-016); roles differ only by
+  prompt/schema, never by duplicated weights.
+- **CHEAP/STRONG routing is unchanged:** `Plan.model_tier` (deterministic)
+  selects the `qwen3-8b` vs. `qwen-coder-14b` endpoint. Serving adds no routing.
+- **Retrieval models are version-pinned** to the offline BGE-M3 index
+  (ADR-015/019, TASK-03C); decoupling them from Qwen lets each upgrade
+  independently.
+- **Separate processes** give independent batching, scaling, restart, and OOM
+  domains (failure isolation).
+- **Guided/structured decoding** on Qwen is a prefilter only; TASK-068 program
+  validation and the NLU/Plan schemas remain the authority.
+
+Expected GPU (bf16 est.): Qwen3-8B ≈ 16 GB + KV; Qwen2.5-Coder-14B ≈ 28 GB
+(≥40 GB GPU, or ≈8–10 GB at 4-bit); BGE-M3 and reranker ≈ 1–2 GB each.
+Recommended topology: GPU-A (≥40 GB) for STRONG, GPU-B (24 GB) for CHEAP with
+both encoders co-resident; single-node fallback is one 80 GB GPU for all four.
+
+Implementation lives in TASK-108 (shared Qwen3-8B role serving) and TASK-109
+(retrieval model serving); neither is started by TASK-107.
+`GPU_PRODUCTION_VALIDATION_PENDING` remains active.
 
 ## 9. Observability
 

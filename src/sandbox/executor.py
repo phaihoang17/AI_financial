@@ -40,7 +40,6 @@ from src.sandbox.security import (
     WorkerSecurityViolation,
     darwin_sandbox_profile,
     expected_worker_environment,
-    security_failure,
 )
 from src.understanding.schemas import SchemaValidationError
 
@@ -57,8 +56,8 @@ class ExecutionInfrastructureFailureCode(str, Enum):
     INVALID_WORKER_RESULT = "INVALID_WORKER_RESULT"
 
 
-def _worker_module_name() -> str:
-    return "src.sandbox.worker"
+def _worker_python_command() -> list[str]:
+    return [sys.executable, "-m", "src.sandbox.worker"]
 
 
 def _elapsed_ms(start_ns: int) -> int:
@@ -89,8 +88,8 @@ def _kill_worker_group(process: subprocess.Popen[bytes]) -> None:
         return
 
 
-def _worker_command(module_name: str) -> list[str]:
-    command = [sys.executable, "-m", module_name]
+def _worker_command(python_command: list[str]) -> list[str]:
+    command = list(python_command)
     if platform.system() != "Darwin":
         return command
     sandbox_executable = Path("/usr/bin/sandbox-exec")
@@ -162,8 +161,7 @@ def _invoke_worker(payload: bytes) -> subprocess.CompletedProcess[bytes]:
         )
 
     project_root = Path(__file__).resolve().parents[2]
-    module_name = _worker_module_name()
-    command = _worker_command(module_name)
+    command = _worker_command(_worker_python_command())
     violation: list[WorkerResourceViolation] = []
     stop = threading.Event()
     with tempfile.TemporaryDirectory(prefix="m7-worker-") as isolated_cwd:
@@ -233,11 +231,20 @@ def execute_sandboxed(
         payload = encode_canonical_json(
             request.to_dict(), max_bytes=MAX_PROTOCOL_REQUEST_BYTES
         )
-    except ProtocolError:
+    except ProtocolError as error:
+        if error.code.value == "PAYLOAD_TOO_LARGE":
+            return failure_result(
+                request.program.program_id,
+                resource_failure(
+                    ResourceLimitFailureCode.REQUEST_SIZE_LIMIT,
+                    "execution request exceeds the canonical request limit",
+                ),
+                execution_ms=_elapsed_ms(start_ns),
+            )
         return _infrastructure_failure(
             request,
             ExecutionInfrastructureFailureCode.MALFORMED_WORKER_PROTOCOL,
-            "execution request exceeds the canonical protocol boundary",
+            "execution request cannot cross the canonical protocol boundary",
             start_ns,
         )
 

@@ -1,0 +1,3 @@
+# Locally verified for the M9 Batch 2 graph layer on 2026-08-26.
+# Batch 1 contracts remain graph-runtime independent; Batch 2 uses this pin.
+langgraph==1.2.10

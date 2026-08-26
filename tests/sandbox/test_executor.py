@@ -1,11 +1,15 @@
 import subprocess
+import sys
 import unittest
 from unittest.mock import patch
+from pathlib import Path
 
 from src.evidence.schemas import Scale
 from src.sandbox.executor import (
     ExecutionInfrastructureFailureCode,
     _invoke_worker,
+    _worker_command,
+    _worker_python_command,
     execute_sandboxed,
 )
 from src.sandbox.protocol import (
@@ -15,6 +19,7 @@ from src.sandbox.protocol import (
     encode_canonical_json,
 )
 from src.sandbox.schemas import ExecutionFailureStage, ExecutionResult
+from src.sandbox.security import expected_worker_environment
 from src.understanding.requested_scale_unit_parser import RequestedScale
 from tests.programmer.helpers import (
     average_programmer_input,
@@ -138,22 +143,24 @@ class IsolatedExecutorTests(unittest.TestCase):
         )
 
     def test_worker_uses_fixed_module_no_shell_and_minimal_environment(self):
-        completed = subprocess.CompletedProcess(
-            args=["worker"], returncode=1, stdout=b"", stderr=b""
-        )
-        with patch("src.sandbox.executor.subprocess.run", return_value=completed) as run:
-            _invoke_worker(b"{}")
-        args, kwargs = run.call_args
-        self.assertEqual(args[0][1:], ["-m", "src.sandbox.worker"])
-        self.assertNotIn("shell", kwargs)
-        self.assertIs(kwargs["stderr"], subprocess.DEVNULL)
+        python_command = _worker_python_command()
         self.assertEqual(
-            kwargs["env"],
-            {
-                "PYTHONIOENCODING": "utf-8",
-                "PYTHONDONTWRITEBYTECODE": "1",
-            },
+            python_command,
+            [sys.executable, "-m", "src.sandbox.worker"],
         )
+        command = _worker_command(python_command)
+        self.assertNotIn("-c", command)
+        self.assertNotIn("shell", command)
+        project_root = Path(__file__).resolve().parents[2]
+        environment = expected_worker_environment(project_root)
+        self.assertEqual(set(environment), {
+            "LC_CTYPE",
+            "PYTHONHASHSEED",
+            "PYTHONIOENCODING",
+            "PYTHONNOUSERSITE",
+            "PYTHONPATH",
+            "PYTHONDONTWRITEBYTECODE",
+        })
 
 
 if __name__ == "__main__":
