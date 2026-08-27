@@ -82,6 +82,34 @@ def _infrastructure_failure(
     )
 
 
+# Only the last slice of worker stderr is retained by the parent, and solely to
+# classify how the worker died. 8 KiB comfortably covers a CPython traceback.
+_WORKER_STDERR_TAIL_BYTES = 8192
+
+
+def _worker_exited_on_memory_error(stderr: bytes) -> bool:
+    """True only when the worker terminated on an unhandled ``MemoryError``.
+
+    On Linux the worker also runs under an ``RLIMIT_AS`` hard cap
+    (``src/sandbox/limits.py``). When an allocation crosses it the interpreter
+    raises ``MemoryError``; if nothing in the worker catches it, CPython prints a
+    traceback whose final line is the bare exception and exits non-zero. Matching
+    exactly that signature keeps the mapping narrow — any other non-zero exit
+    still falls through to ``WORKER_CRASHED``.
+    """
+    if not stderr:
+        return False
+    lines = [
+        line.strip()
+        for line in stderr.decode("utf-8", "replace").splitlines()
+        if line.strip()
+    ]
+    if not lines:
+        return False
+    last = lines[-1]
+    return last == "MemoryError" or last.startswith("MemoryError:")
+
+
 def _kill_worker_group(process: subprocess.Popen[bytes]) -> None:
     try:
         os.killpg(process.pid, signal.SIGKILL)
@@ -185,14 +213,14 @@ def _invoke_worker(payload: bytes) -> subprocess.CompletedProcess[bytes]:
                 command,
                 stdin=subprocess.PIPE,
                 stdout=subprocess.PIPE,
-                stderr=subprocess.DEVNULL,
+                stderr=subprocess.PIPE,
                 cwd=isolated_cwd,
                 env=expected_worker_environment(project_root),
                 start_new_session=True,
             )
             monitor = _start_memory_monitor(process, violation, stop)
             try:
-                stdout, _ = process.communicate(
+                stdout, stderr = process.communicate(
                     input=payload,
                     timeout=M7_LIMITS_V1.wall_clock_timeout_ms / 1000,
                 )
@@ -220,7 +248,7 @@ def _invoke_worker(payload: bytes) -> subprocess.CompletedProcess[bytes]:
         args=command,
         returncode=process.returncode,
         stdout=stdout,
-        stderr=b"",
+        stderr=(stderr or b"")[-_WORKER_STDERR_TAIL_BYTES:],
     )
 
 
@@ -299,6 +327,15 @@ def execute_sandboxed(
                 resource_failure(
                     ResourceLimitFailureCode.FILE_SIZE_LIMIT,
                     "worker exceeded the file-size limit",
+                ),
+                execution_ms=_elapsed_ms(start_ns),
+            )
+        if _worker_exited_on_memory_error(completed.stderr):
+            return failure_result(
+                request.program.program_id,
+                resource_failure(
+                    ResourceLimitFailureCode.MEMORY_LIMIT,
+                    "worker exhausted its memory budget",
                 ),
                 execution_ms=_elapsed_ms(start_ns),
             )

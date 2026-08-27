@@ -12,6 +12,7 @@ from src.sandbox.executor import (
     _worker_python_command,
     execute_sandboxed,
 )
+from src.sandbox.limits import ResourceLimitFailureCode
 from src.sandbox.protocol import (
     MAX_PROTOCOL_REQUEST_BYTES,
     MAX_PROTOCOL_RESPONSE_BYTES,
@@ -115,6 +116,50 @@ class IsolatedExecutorTests(unittest.TestCase):
             ExecutionInfrastructureFailureCode.WORKER_CRASHED.value,
         )
         self.assertNotIn("secret", result.failure.message)
+
+    def test_unhandled_memory_error_exit_maps_to_memory_limit(self):
+        # Linux runs the worker under an RLIMIT_AS hard cap; crossing it raises
+        # MemoryError, and a probe that does not catch it exits non-zero with a
+        # CPython traceback whose last line is the bare exception. That must be
+        # classified as RESOURCE / MEMORY_LIMIT, not INFRASTRUCTURE.
+        stderr = (
+            b"Traceback (most recent call last):\n"
+            b'  File "<frozen runpy>", line 198, in _run_module_as_main\n'
+            b'  File "tests/sandbox/rss_probe.py", line 33, in main\n'
+            b"    blocks.append(bytearray(_NONZERO_FILL))\n"
+            b"MemoryError\n"
+        )
+        completed = subprocess.CompletedProcess(
+            args=["worker"], returncode=1, stdout=b"", stderr=stderr
+        )
+        with patch("src.sandbox.executor._invoke_worker", return_value=completed):
+            result = execute_sandboxed(self.current_request())
+        self.assertFalse(result.success)
+        self.assertIs(result.failure.stage, ExecutionFailureStage.RESOURCE)
+        self.assertEqual(
+            result.failure.code,
+            ResourceLimitFailureCode.MEMORY_LIMIT.value,
+        )
+
+    def test_non_memory_error_crash_is_still_worker_crashed(self):
+        # The MemoryError mapping must stay narrow: an unrelated traceback on the
+        # same exit code keeps the generic WORKER_CRASHED classification.
+        stderr = (
+            b"Traceback (most recent call last):\n"
+            b'  File "prog.py", line 1, in <module>\n'
+            b"ValueError: boom\n"
+        )
+        completed = subprocess.CompletedProcess(
+            args=["worker"], returncode=1, stdout=b"", stderr=stderr
+        )
+        with patch("src.sandbox.executor._invoke_worker", return_value=completed):
+            result = execute_sandboxed(self.current_request())
+        self.assertIs(result.failure.stage, ExecutionFailureStage.INFRASTRUCTURE)
+        self.assertEqual(
+            result.failure.code,
+            ExecutionInfrastructureFailureCode.WORKER_CRASHED.value,
+        )
+        self.assertNotIn("boom", result.failure.message)
 
     def test_protocol_corruption_is_typed(self):
         completed = subprocess.CompletedProcess(
