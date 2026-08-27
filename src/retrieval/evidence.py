@@ -148,9 +148,22 @@ class _Resolved:
 
 class EvidenceProvenanceRepository:
     """Reconstruct only exact selected M2 records and their raw source objects."""
-    def __init__(self, corpus_artifact_root: str | Path, raw_corpus_root: str | Path, *, sidecar=None):
+    def __init__(self, corpus_artifact_root: str | Path, raw_corpus_root: str | Path, *, sidecar=None, table_class_sidecar=None):
         self.corpus = _validate_input_manifest(corpus_artifact_root, verify_hashes=True)
-        self.raw_root = Path(raw_corpus_root); self.sidecar = sidecar; self._cache: Dict[str, _Resolved] = {}
+        self.raw_root = Path(raw_corpus_root); self.sidecar = sidecar
+        self.table_class_sidecar = table_class_sidecar; self._cache: Dict[str, _Resolved] = {}
+        self._table_class_cache: Dict[str, Optional[TableClass]] = {}
+
+    def table_class_for(self, candidate: RetrievalCandidate) -> Optional[TableClass]:
+        """Exact source-backed TableClass from the sidecar, else None (no fallback)."""
+        if self.table_class_sidecar is None:
+            return None
+        if candidate.candidate_id not in self._table_class_cache:
+            page_id = candidate.page_ids[0] if candidate.page_ids else ""
+            self._table_class_cache[candidate.candidate_id] = self.table_class_sidecar.table_class_for(
+                candidate.report_id, page_id, candidate.table_id or ""
+            )
+        return self._table_class_cache[candidate.candidate_id]
 
     def _source(self, report_id: str):
         item = next((item for item in self.corpus.manifest["reports"] if item["report_id"] == report_id), None)
@@ -185,7 +198,7 @@ def locate_cells(query: RetrievalQuery, candidates: Sequence[RetrievalCandidate]
             metric=next((m for m in query.target_metrics if _norm(m) in {_norm(x) for x in labels_row+labels_col}),None)
             period=next((p for p in query.periods if p in labels_row+labels_col),None)
             basis=MatchBasis.EXACT_ROW_PATH if metric and any(_norm(metric)==_norm(x) for x in labels_row) else MatchBasis.EXACT_COLUMN_PATH if metric else MatchBasis.EXACT_PERIOD_LABEL if period else MatchBasis.STRUCTURAL if labels_row or labels_col else MatchBasis.NONE
-            locations.append(CellLocation(_id({"candidate":candidate.candidate_id,"cell":source_id}),candidate.candidate_id,candidate.representation_id,candidate.chunk_id or "",candidate.report_id,candidate.page_ids[0],candidate.table_id or "",source_id,cell.anchor_row,cell.anchor_column,list(cell.row_path),list(cell.column_path),cell.normalized_text,cell.numeric,role,metric,period,basis,candidate.ticker,candidate.company_name,candidate.report_year,candidate.statement_scope,None))
+            locations.append(CellLocation(_id({"candidate":candidate.candidate_id,"cell":source_id}),candidate.candidate_id,candidate.representation_id,candidate.chunk_id or "",candidate.report_id,candidate.page_ids[0],candidate.table_id or "",source_id,cell.anchor_row,cell.anchor_column,list(cell.row_path),list(cell.column_path),cell.normalized_text,cell.numeric,role,metric,period,basis,candidate.ticker,candidate.company_name,candidate.report_year,candidate.statement_scope,repository.table_class_for(candidate)))
     return locations
 
 def build_evidence_items(locations: Sequence[CellLocation], candidates: Sequence[RetrievalCandidate], repository: EvidenceProvenanceRepository, *, linked_table_ids_by_candidate: Optional[Mapping[str, Sequence[str]]]=None) -> List[EvidenceItem]:

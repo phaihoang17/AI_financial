@@ -1287,6 +1287,48 @@ to the query's requested evidence sources).  BM25 applies it in its SQLite FTS
 query and vector search applies it in its SQLite vector-ID selection, both
 before native per-query top-k selection.  Neither backend relaxes this filter.
 
+### Batch-2.6 TableClass sidecar and Batch-2.7 production provenance audit
+
+The canonical M2 corpus remains unchanged. The additive immutable
+`m2-table-class-sidecar-v1` stores at most one conservative source-backed
+`TableClassHint` for an exact `(report_id, page_id, table_id)`. Classification
+uses only the pinned same-page preceding-context registry described by ADR-053.
+It does not use a metric, table content, fuzzy matching, an LLM, or the
+Supervisor's expected table mapping. Missing or conflicting source support
+produces no hint and remains `CellLocation.table_class = null`.
+
+`src.indexing.table_class_provenance_audit` is the deterministic production
+audit boundary. Its primary compatibility inputs are the committed canonical M2
+corpus artifact and the matching TableClass sidecar artifact. It also requires
+the exact raw corpus root because M2 chunk records intentionally do not contain
+raw report text; source-span slicing and the production
+`EvidenceProvenanceRepository -> locate_cells` reconstruction cannot otherwise
+be audited.
+
+The versioned `m2-table-class-provenance-audit-v1` report contains at least:
+
+- exact corpus artifact ID, corpus fingerprint, corpus-manifest SHA-256,
+  sidecar schema/build identity, and registry fingerprint compatibility;
+- report, table, classified-table, coverage, and per-`TableClass` counts;
+- unmatched and source-conflicting tables, orphan hints, duplicate/conflicting
+  table-ID mappings, invalid source spans, and exact source-span round-trip
+  failures;
+- exact persisted-hint versus replayed source-classifier differences;
+- production evidence-path checks proving that `locate_cells` copies the exact
+  sidecar class for one representative table of every class present, and keeps
+  an unmatched table's class null when one is available.
+
+The audit is `PASS` only when all artifacts and raw reports validate exactly,
+all parseable source tables agree with the canonical corpus table inventory,
+every persisted hint is the exact deterministic source-supported hint, all
+mapping/span/round-trip checks are clean, at least one source-backed
+classification exists, and every evidence-path check passes. Classification
+coverage has no minimum threshold: unmatched and ambiguous/conflicting source
+tables are reported but do not block and must remain null. A `PASS` is eligible
+to clear `PRODUCTION_TABLE_CLASS_PROVENANCE_PENDING` only when the operator has
+run it on the approved canonical full M2 production corpus and its matching raw
+source and sidecar. Fixture PASS results never clear the production flag.
+
 ### Batch-2 lexical and dense search contracts
 
 TASK-031 indexes each `EmbeddingChunk` as one independent `RetrievalCandidate`

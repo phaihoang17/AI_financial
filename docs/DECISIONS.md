@@ -1799,6 +1799,155 @@ routing source of truth, weakening grounding, or fabricating measurements.
 
 ---
 
+## ADR-052 — Measure latency, cost/tokens, and load as source-labeled telemetry outside the deterministic contracts
+
+**Status:** Accepted (CPU structure; production measurement pending)
+
+### Decision
+
+M10 Batch 6 implements TASK-106, TASK-110, and TASK-111 as a telemetry layer that
+is deliberately separate from the deterministic M9/evaluation contracts. ADR-040
+keeps wall-clock out of checkpoints/reports so fixtures serialize identically;
+therefore latency/token/load telemetry lives in `src/evaluation/` and never
+enters a checkpoint, report, or answer. Every telemetry report carries a
+`MeasurementSource` (`CPU_FIXTURE` vs. `LIVE`) so a CPU number can never be read
+as a live production number.
+
+- **TASK-106 — latency.** `telemetry.py` provides a deterministic nearest-rank
+  `Distribution` (p50/p95/p99/min/max/mean), a monotonic `Stopwatch`, and the
+  source enum. `latency.py` adds `profile_stages` (per-stage + total) and
+  `measure_e2e_latency` (real CPU end-to-end over fixtures). Per-stage *model*
+  latency needs live serving and is reported `LIVE_PENDING`.
+- **TASK-110 — cost/tokens.** `cost_dashboard.py` defines versioned
+  `ModelInvocation` and `TokenPrice` contracts and `build_cost_dashboard`
+  aggregating tokens/query, cost/query, real priced escalation cost, per-model
+  breakdown, and cache hit rate. Prices are caller-supplied (ADR-049); with no
+  live invocation, token/cost are `LIVE_PENDING` — never fabricated.
+- **TASK-111 — load.** `load_test.py` runs a bounded (`MAX_CONCURRENCY`,
+  `MAX_TOTAL_REQUESTS`) concurrent harness measuring throughput, latency
+  distribution, and error/timeout counts with real CPU concurrency. Production
+  accuracy/timeout degradation with live models is `LIVE_PENDING`.
+
+### Consequences
+
+- TASK-106, TASK-110, and TASK-111 are complete as deterministic CPU-only work
+  with focused tests; the suite stays green and `git diff --check` is clean.
+- New CLIs `run_latency_eval`, `run_cost_dashboard`, `run_load_test` join the
+  existing fixture evaluations; all CPU-only.
+- No GPU/model latency, token, or cost value is asserted; every model-dependent
+  number stays `LIVE_PENDING` behind `GPU_PRODUCTION_VALIDATION_PENDING`.
+- TASK-104 (parallel verifier checks) is the only remaining M10 implementation
+  task; the remaining M10 work is otherwise the live GPU production-validation
+  run, which is not started here.
+- TASK-075 remains deferred; `PRODUCTION_TABLE_CLASS_PROVENANCE_PENDING` and
+  `GPU_PRODUCTION_VALIDATION_PENDING` remain active.
+
+---
+
+## ADR-053 — Source back `CellLocation.table_class` from an additive TableClass sidecar
+
+**Status:** Accepted (CPU structure; production real-corpus audit pending)
+
+### Context
+
+`CellLocation.table_class` existed in the contract but `locate_cells` always
+emitted `None`, so every real TABLE plan failed M8/M9 with
+`TABLE_CLASS_UNAVAILABLE` and production TABLE E2E stayed blocked by
+`PRODUCTION_TABLE_CLASS_PROVENANCE_PENDING`. ADR-041/ADR-045/ADR-046 already
+forbid deriving actual table class from the expected metric or the
+`MetricTableMapping` registry: that registry is Supervisor expected-table
+routing, not evidence provenance.
+
+### Decision
+
+Add an immutable, additive sibling artifact `m2-table-class-sidecar-v1`
+(`src/indexing/table_class_sidecar.py`). It re-runs only the deterministic M2A
+document parse over the approved raw reports and records at most one
+`TableClassHint` per parsed table:
+
+- `hint_id`, `report_id`, `page_id`, `table_id`, `table_class`,
+  `registry_entry_id`, `matched_source_span`, `matched_text`.
+
+Classification is conservative and deterministic:
+
+- same-page evidence only — the context window is the fixed
+  `PRECEDING_CONTEXT_WINDOW_CHARS` before the table, clamped to the page content
+  span and to the end of the previous table on that page;
+- Unicode NFKC normalization; spans are taken only from an offset-preserving
+  normalization, else from the raw window, and every recorded span must
+  round-trip and re-match after NFKC + case folding;
+- literal, case-insensitive matching against the pinned
+  `m2-table-class-registry-v1` (statement-form codes `B01-DN` / `B01-DN/HN`,
+  `B02-DN`, `B03-DN`, `B09-DN` and the four canonical Vietnamese statement
+  titles), with a small bounded run of non-alphanumeric formatting slack
+  between literal tokens and word-boundary guards;
+- no fuzzy matching, no semantic/LLM classification, and no use of metric
+  mappings;
+- a window that matches more than one distinct `TableClass`, or matches
+  nothing, yields **no** hint.
+
+The canonical M2 corpus is never rebuilt or mutated. The sidecar binds to one
+exact corpus identity and to the registry fingerprint; `TableClassSidecar`
+validates on construction and a corrupt or incompatible sidecar raises
+`TableClassSidecarError` (fail closed) rather than degrading to a heuristic.
+
+`EvidenceProvenanceRepository` gains an optional `table_class_sidecar`.
+`locate_cells` sets `CellLocation.table_class` from an exact
+`(report_id, page_id, table_id)` sidecar lookup: a missing hint stays `None`,
+and there is no metric-based or heuristic fallback. M8 grounding and M9 evidence
+logic are unchanged.
+
+### Consequences
+
+- Real source-backed `table_class` can now flow into M8/M9 for reports whose
+  statement code or title is recognised in the same-page preceding context.
+- Behaviour is unchanged when no sidecar is supplied or no hint exists
+  (`table_class` stays `None`).
+- `PRODUCTION_TABLE_CLASS_PROVENANCE_PENDING` is **not** cleared: it requires a
+  real full-corpus source-backed integration audit, which the CPU-only
+  development host cannot run.
+- TASK-075 remains deferred and `GPU_PRODUCTION_VALIDATION_PENDING` is unchanged.
+
+---
+
+## ADR-054 — Clear TableClass production provenance only through an exact real-corpus audit
+
+**Status:** Accepted (audit tooling complete; production run pending)
+
+### Decision
+
+Add `src.indexing.table_class_provenance_audit` as the sole deterministic audit
+for `PRODUCTION_TABLE_CLASS_PROVENANCE_PENDING`. It validates the exact canonical
+M2 corpus and TableClass sidecar compatibility before reading audit data, then
+replays ADR-053's existing source-only classifier over the exact raw reports.
+The raw corpus root is required because the immutable M2 chunk artifact stores
+source identity and hashes, not complete raw report text.
+
+The audit compares the parsed source-table inventory, canonical M2 TABLE
+inventory, and persisted sidecar mappings exactly. It reports coverage and all
+required integrity diagnostics, validates source spans by exact raw-text slice,
+and exercises the production `EvidenceProvenanceRepository -> locate_cells`
+path for every `TableClass` represented by the sidecar. When an unmatched table
+exists, it also proves that the production path preserves `None`.
+
+PASS requires exact compatibility and zero artifact, mapping, orphan, span,
+round-trip, source-replay, or evidence-path failures, plus at least one genuine
+source-backed classification. It deliberately defines no minimum coverage and
+does not make unmatched or source-ambiguous tables blocking. No alternate
+metric/content/fuzzy/LLM classifier is introduced.
+
+### Consequences
+
+- Fixture tests can prove audit behavior but cannot clear the production flag.
+- `PRODUCTION_TABLE_CLASS_PROVENANCE_PENDING` remains active until the CLI is
+  run against the approved canonical full M2 corpus, exact raw source, and
+  matching sidecar and returns `status: PASS` with exit code zero.
+- A compatibility mismatch or corruption returns `status: BLOCKED` and a
+  non-zero exit; the audit never degrades to a partial or heuristic result.
+- TASK-075 and `GPU_PRODUCTION_VALIDATION_PENDING` are unchanged.
+
+---
+
 ## Deferred Decisions
 
 The provided source materials do not fully specify the following. Do not silently treat them as final:

@@ -241,6 +241,43 @@ BM25 and vector pre-top-k filtering.
   - Require every materialized M2 hint/link reference to resolve.
   - Keep TABLE/TEXT retrieval eligibility independent from report metadata.
 
+Batch 2.6 is complete as a second additive increment (ADR-053). It materializes
+an exactly bound, immutable `m2-table-class-sidecar-v1` of conservative
+source-backed `TableClassHint` records (same-page preceding context, NFKC,
+literal case-insensitive statement code/title matching, no fuzzy/semantic/LLM,
+no metric-mapping inference; ambiguous or unmatched tables get no hint). It
+leaves the canonical M2 corpus unchanged. `EvidenceProvenanceRepository` /
+`locate_cells` now fill `CellLocation.table_class` from an exact
+`(report_id, page_id, table_id)` sidecar lookup, failing closed on a corrupt or
+incompatible sidecar and staying `None` on a missing hint.
+`PRODUCTION_TABLE_CLASS_PROVENANCE_PENDING` stays active until a real full-corpus
+source-backed integration audit passes.
+
+- [x] **Batch 2.6 — Additive source-backed TableClass provenance sidecar**
+  - Build/validate `m2-table-class-sidecar-v1` bound to one M2 corpus + registry.
+  - Wire exact `CellLocation.table_class` lookup; no heuristic/metric fallback.
+
+Batch 2.7 adds the deterministic production audit from ADR-054. The tooling and
+fixture tests are complete, but the operational full-corpus run is not performed
+on this development host and the production flag remains active.
+
+- [x] **Batch 2.7 — TableClass real-corpus provenance audit tooling**
+  - Validate exact corpus/sidecar/source compatibility and integrity.
+  - Report classification coverage, per-class counts, unmatched/conflicting
+    tables, orphan/duplicate mappings, source-span failures, and exact source
+    replay differences.
+  - Exercise the real `EvidenceProvenanceRepository -> locate_cells` path.
+- [ ] **Run Batch 2.7 on the approved canonical full M2 production corpus**
+  - Clear `PRODUCTION_TABLE_CLASS_PROVENANCE_PENDING` only after exit code zero
+    and JSON `status: PASS` from the exact command below.
+
+```bash
+python -m src.indexing.table_class_provenance_audit \
+  --corpus-artifact <canonical-full-m2-corpus-artifact> \
+  --table-class-sidecar <matching-table-class-sidecar-artifact> \
+  --raw-corpus-root <exact-raw-corpus-root>
+```
+
 - [x] **TASK-030 — Report-level metadata filter / retriever**
   - Filter by company, period, and statement scope.
 
@@ -707,7 +744,7 @@ Do this only after the correctness baseline is measurable.
   - compare no-cache vs. field/query-level vs. adaptive policy,
   - monitor correctness delta.
 
-- [ ] **TASK-106 — End-to-end latency distribution**
+- [x] **TASK-106 — End-to-end latency distribution**
   - p50,
   - p95,
   - p99,
@@ -724,13 +761,13 @@ Do this only after the correctness baseline is measurable.
   - BGE-reranker-v2-m3 serving,
   - model/index version tracking.
 
-- [ ] **TASK-110 — Cost/token dashboard**
+- [x] **TASK-110 — Cost/token dashboard**
   - cost/query,
   - tokens/query,
   - escalation cost,
   - cache hit rate.
 
-- [ ] **TASK-111 — Throughput/load test**
+- [x] **TASK-111 — Throughput/load test**
   - measure accuracy/timeout degradation at target concurrency and document volume.
 
 - [ ] **TASK-112 — Coordination-failure logging**
@@ -738,6 +775,33 @@ Do this only after the correctness baseline is measurable.
   - stale state,
   - retry loops,
   - message/schema corruption.
+
+M10 Batch 6 completes TASK-106, TASK-110, and TASK-111 (ADR-052) as versioned
+measurement/telemetry layers held separate from the deterministic pipeline
+contracts (ADR-040), each carrying a `MeasurementSource` so CPU fixture numbers
+can never be mistaken for live production numbers.
+
+TASK-106 adds `src/evaluation/telemetry.py` (shared `Distribution` p50/p95/p99,
+`Stopwatch`, `MeasurementSource`) and `src/evaluation/latency.py`:
+`profile_stages` times an ordered stage set + total, and `measure_e2e_latency`
+records real CPU end-to-end wall-clock over the fixtures. Per-stage live-model
+latency is reported `LIVE_PENDING`.
+
+TASK-110 adds `src/evaluation/cost_dashboard.py`: versioned `ModelInvocation` /
+`TokenPrice` contracts and `build_cost_dashboard` aggregating tokens/query,
+cost/query, real priced escalation cost, per-model breakdown, and cache hit
+rate. Prices are always caller-supplied; with no live invocation the token/cost
+fields are `LIVE_PENDING` rather than fabricated.
+
+TASK-111 adds `src/evaluation/load_test.py`: a bounded (`MAX_CONCURRENCY`,
+`MAX_TOTAL_REQUESTS`) `run_load_test` measuring throughput, latency
+distribution, and error/timeout counts under real concurrency on CPU. Production
+accuracy/timeout degradation with live models is `LIVE_PENDING`.
+
+New CLIs `run_latency_eval`, `run_cost_dashboard`, and `run_load_test` run
+CPU-only. No GPU/model latency, token, or cost number is fabricated. TASK-104
+remains open. TASK-075 remains deferred and
+`PRODUCTION_TABLE_CLASS_PROVENANCE_PENDING` remains active.
 
 M10 Batch 5 completes TASK-102, TASK-103, and TASK-105 (ADR-051) as CPU-only,
 deterministic increments that add no second routing source of truth.
