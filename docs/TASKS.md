@@ -204,16 +204,29 @@ The streaming TASK-028B/TASK-029 CLI is:
 
 ```bash
 python -m src.indexing.embedding_artifact_builder \
-  --input-artifact <m2-corpus-artifact> \
+  --input-artifact <exact committed m2 corpus artifact directory> \
   --output-root <output-root> \
-  --device <cpu|cuda|mps> \
+  --device cuda \
   --batch-size <N> \
   --max-vectors-per-shard 100000 \
   --resume
 ```
 
+`--input-artifact` must be the **exact committed corpus artifact directory**
+(the one whose `manifest.json` has `artifact_status: COMMITTED` and the
+committed `artifact_id`). A family root is accepted only if it contains a
+`CURRENT` file that resolves to that committed id (`_resolve_input_artifact`);
+do not point it at a generic artifact-family path that has no `CURRENT`
+pointer. The published output root is `m2-vector-index-v1`. On success the
+builder prints `validate_published_artifact(...)` with the `artifact_id`; the
+published `manifest.json` `vector_count` MUST be **1,743,311** (one vector per
+canonical `EmbeddingChunk`), never 146,246 (source tables).
+
 It has been validated only with small CPU integration artifacts. Do not run
-the full-corpus command on the 8 GiB development host.
+the full-corpus command on the 8 GiB development host. After the build, run
+`python -m src.evaluation.run_retrieval_production_validation` (ADR-057) to
+validate corpus/index/BM25 compatibility, the exact vector count, shard/SQLite
+integrity, and the LIVE BGE-M3 / BGE-reranker serving parity.
 
 The deterministic full-corpus `m2-corpus-artifact-v1` containing all emitted
 TABLE/TEXT `EmbeddingChunk` records is materialized separately from production
@@ -797,7 +810,12 @@ Do this only after the correctness baseline is measurable.
 
 - [x] **TASK-103 — Parallelize independent multi-table / multi-source retrieval**
 
-- [ ] **TASK-104 — Parallelize independent verifier checks**
+- [x] **TASK-104 — Parallelize independent verifier checks**
+  - `src/verification/verifier.py` `verify(request, parallel=True)` runs the
+    independent check groups on a thread pool and reassembles them in the fixed
+    order, so the `VerificationReport` (checks, order, failure precedence) is
+    byte-identical to the default sequential path
+    (`tests/verification/test_parallel_verifier.py`). CPU-only; no model.
 
 - [x] **TASK-105 — Semantic cache experiment**
   - cache only sufficiently similar, stable inputs,
@@ -816,10 +834,22 @@ Do this only after the correctness baseline is measurable.
 - [x] **TASK-108 — Shared Qwen3-8B role serving**
   - separate NLU/Supervisor prompts and contracts on one service where feasible.
 
-- [x] **TASK-109 — Retrieval model serving**
+- [x] **TASK-109 — Retrieval model serving** (implemented; live-serving evidence
+  still `GPU_PRODUCTION_VALIDATION_PENDING`)
   - BGE-M3 batching,
   - BGE-reranker-v2-m3 serving,
   - model/index version tracking.
+  - `src/serving/` adapters are implemented CPU-only over an injected transport.
+    Real live-serving evidence comes only from
+    `src/serving/live_probe.py` +
+    `python -m src.evaluation.run_retrieval_production_validation`
+    (ADR-057), which calls the deployed BGE-M3 / BGE-reranker endpoints and
+    checks dimension (1024), finite output, and parity against the pinned local
+    implementation. `Qwen3-8B` is **not** on the active online *retrieval* path
+    and is not required for this clearance.
+  - The vector-index acceptance count is **1,743,311 vectors** (one per canonical
+    M2 `EmbeddingChunk`). It is not 146,246 (that is the source-table count) and
+    not the representation count.
 
 - [x] **TASK-110 — Cost/token dashboard**
   - cost/query,
@@ -830,11 +860,31 @@ Do this only after the correctness baseline is measurable.
 - [x] **TASK-111 — Throughput/load test**
   - measure accuracy/timeout degradation at target concurrency and document volume.
 
-- [ ] **TASK-112 — Coordination-failure logging**
+- [x] **TASK-112 — Coordination-failure logging**
   - conflicting worker state,
   - stale state,
   - retry loops,
   - message/schema corruption.
+  - `src/orchestration/coordination_log.py` is a pure read-only observer
+    (`tests/orchestration/test_coordination_log.py`, ADR-056). It keeps the
+    existing `ATTEMPT_RECORDED` / `MODEL_TIER_ESCALATION` /
+    `RETRY_BUDGET_CONSUMED` / `RETRY_BUDGET_EXHAUSTED` / `TERMINAL_FAILURE`
+    events (retry-loop bullet) and adds three typed detectors, each only over an
+    invariant M9's own contracts do not already enforce:
+    - `CONFLICTING_WORKER_STATE` — a non-`PASS` terminal outcome whose final
+      `AttemptRecord` still carries an M8 `RetryDirective` with `action == PASS`
+      (`M9State._validate_pass` only constrains the `PASS` direction), or a
+      `CLARIFICATION` terminal outcome with a non-empty attempt history.
+    - `STALE_WORKER_STATE` — `FailureAttribution.attempt_index` does not equal
+      the current `attempts[-1].attempt_index` (or is set with no attempts),
+      i.e. attribution never advanced with the run.
+    - `MESSAGE_SCHEMA_CORRUPTION` — `scan_coordination_payload` runs a raw
+      checkpoint dict through the existing `M9State.from_dict` fail-closed edge
+      and, on `SchemaValidationError`, records only the boundary name and the
+      exception class name (no payload body, no message).
+    Detection is deterministic and fail-closed (a valid state emits none of the
+    three); events carry only stable diagnostic scalars — no `binding_ref`,
+    evidence, output value, prompt, or secret.
 
 M10 Batch 6 completes TASK-106, TASK-110, and TASK-111 (ADR-052) as versioned
 measurement/telemetry layers held separate from the deterministic pipeline
@@ -860,8 +910,8 @@ accuracy/timeout degradation with live models is `LIVE_PENDING`.
 
 New CLIs `run_latency_eval`, `run_cost_dashboard`, and `run_load_test` run
 CPU-only. No GPU/model latency, token, or cost number is fabricated. TASK-104
-remains open. At this batch boundary TASK-075 remained deferred; it was later
-completed by M7 Batch 4, and
+was later completed (M10 Batch 7). At this batch boundary TASK-075 remained
+deferred; it was later completed by M7 Batch 4, and
 `PRODUCTION_TABLE_CLASS_PROVENANCE_PENDING` remains active.
 
 M10 Batch 5 completes TASK-102, TASK-103, and TASK-105 (ADR-051) as CPU-only,
@@ -890,10 +940,97 @@ fixtures (zero regressions).
 
 Measurements are the CPU fixture structure only; retry-rate/quality-gain over
 real models, and embedding-similarity ("semantic") cache hit-rate/quality, are
-`GPU_PRODUCTION_VALIDATION_PENDING`. TASK-104 remains open. At this batch
-boundary TASK-075 remained deferred and was later completed by M7 Batch 4;
-deferred and `PRODUCTION_TABLE_CLASS_PROVENANCE_PENDING` remains active.
+`GPU_PRODUCTION_VALIDATION_PENDING`. TASK-104 was later completed (M10 Batch 7).
+At this batch boundary TASK-075 remained deferred and was later completed by
+M7 Batch 4; `PRODUCTION_TABLE_CLASS_PROVENANCE_PENDING` remains active.
 
+M10 Batch 7 records the current audited state of the remaining M10 items. It
+adds no pipeline behavior.
+
+TASK-104 is complete and CPU-only (see the checklist entry above); the stale
+"TASK-104 remains open" lines in the Batch 5/6 notes are corrected accordingly.
+
+TASK-112 is complete and CPU-only (ADR-056): the coordination-failure observer
+now emits distinct typed detectors for conflicting worker state, stale
+worker/state observation, and message/schema corruption, in addition to the
+existing attempt/escalation/retry-budget/terminal events. Every acceptance
+bullet is covered by `tests/orchestration/test_coordination_log.py`. It changes
+no M9 orchestration behavior.
+
+**No LLM is in the v1 active query path (verified in code, ADR-057).** The M9
+graph calls `supervise_batch1` and `verify` as deterministic functions and takes
+NLU / Programmer / Sandbox through injected ports whose only implementations are
+deterministic (`src/evaluation/e2e_fixtures.py`). `generate_program` is a pure
+symbolic-DSL builder and ignores model tier. `Plan.model_tier` /
+`RetryState.current_model_tier` / `ESCALATE_STRONG` only set recorded enum
+values — nothing consumes them to invoke a model. `src/serving/` (the Qwen
+topology + client) is imported by nothing on the active path. `torch` /
+`transformers` appear only in BGE-M3 / BGE-reranker code. So Qwen3-8B and
+Qwen2.5-Coder-14B are **not** required to validate the v1 query path, and
+`GPU_PRODUCTION_VALIDATION_PENDING` is canonically a **retrieval-model /
+production-vector-artifact blocker only** (ADR-020, ADR-025, ADR-031).
+
+TASK-100 and TASK-101 have CPU modules implemented and unit-tested but stay
+unchecked. Classified by what their current implementation can actually measure;
+no numeric threshold is invented for either:
+
+- **TASK-100** — `src/evaluation/baseline.py` + `run_baseline_eval` measure
+  STRONG-tier + STRICT-verification correctness over the deterministic
+  retrieved-evidence fixtures (3 cases, all PASS, `acceptance_thresholds = None`).
+  In v1 "STRONG tier" is a deterministic routing label, not a model, so this
+  task is **retrieval-gated, not Qwen-gated**: closing it needs the production
+  vector artifact built + retrieval production validation (ADR-057) PASS, and
+  real per-question gold answers to score real-corpus correctness against
+  (`BLOCKED_GOLD_DATA`, like retrieval quality). It is not a live-LLM task in the
+  current architecture.
+- **TASK-101** — `src/supervisor/cheap_routing.py` `activated_model_tier`
+  returns exactly the M4-routed `Plan.model_tier` for every plan; the switch is
+  not consumed by the graph. With no LLM, CHEAP vs STRONG resolves to the *same*
+  deterministic code path, so there is **no measurable quality/cost delta today**.
+  TASK-101's "activate CHEAP routing + measure the delta" only becomes meaningful
+  once model-backed NLU/Supervisor/Programmer ports are actually built and wired
+  into M9 — unbuilt, out-of-v1-scope work with no task. Current implementation
+  can only assert the routing decision is deterministic and non-lossy (already
+  proven). **Not GPU-gated in the current v1 architecture.**
+
+M10 Batch 8 fixes the GPU validation runbook and closes the missing executable
+retrieval-validation gap (ADR-057). It adds no pipeline behavior and modifies no
+retrieval semantics.
+
+- The vector-index acceptance count is corrected to **1,743,311 vectors** (one
+  per canonical M2 `EmbeddingChunk`); 146,246 is the source-table count and must
+  never be used as the vector count.
+- Qwen serving is **removed** from the required GPU validation runbook: it is not
+  on the active v1 path (see above).
+- `python -m src.evaluation.run_retrieval_eval --mode full-corpus` is CPU
+  regression only; it now exits non-zero with `status: NOT_RUN_HERE` and points
+  to the real runner instead of printing a pass-looking line.
+- New `src/evaluation/retrieval_production_validation.py` +
+  `run_retrieval_production_validation` runner: category 1
+  **ARTIFACT_SERVING** (corpus/index/BM25 compatibility, exact
+  `vector_count == canonical chunk_count`, anti-substitution guard for the table
+  count, shard + SQLite integrity, embedding fingerprint, and the two **LIVE**
+  serving probes + a deterministic retrieval-execution smoke); category 2
+  **RETRIEVAL_QUALITY** which is `BLOCKED_GOLD_DATA` because the public ViFinQA
+  `questions.jsonl` has no gold retrieval-evidence annotations — fixture
+  retrieval metrics are never substituted.
+- New `src/serving/live_probe.py`: real-endpoint probes for BGE-M3 (dim 1024,
+  finite floats, cosine ≥ 0.999 vs. the pinned CPU encoder) and BGE-reranker
+  (response shape/order, order parity vs. the pinned CPU reranker). The injected
+  `tests/serving` transports are not accepted as live evidence.
+- New `src/indexing/embedding_build_preflight.py` (`preflight_vector_build`):
+  read-only, no model load; resolves the committed corpus, computes the
+  deterministic `build_id`, and decides `FRESH` / `RESUME` / `ALREADY_PUBLISHED`
+  for a given `--output-root` + `--max-vectors-per-shard`.
+- New `src/indexing/embedding_batch_calibration.py`: runs the pinned BGE-M3
+  encoder over a bounded corpus sample (≤ 20,000 chunks) at batch sizes
+  8/16/32/64, records chunks/sec + peak VRAM + OOM, and recommends the largest
+  stable batch that is at least `--min-speedup`× faster than the prior. It never
+  calls the builder and never writes to an output root.
+- `GPU_PRODUCTION_VALIDATION_PENDING` stays active. It clears for retrieval only
+  when `run_retrieval_production_validation` returns `overall_status: PASS`
+  (`clears_gpu_pending: true`) on the real committed corpus/vector/BM25 artifacts
+  with both LIVE probes passing on GPU hardware. It does **not** wait on any LLM.
 M10 Batch 4 completes TASK-108 and TASK-109 (ADR-050) by implementing the
 ADR-049 serving boundary in `src/serving/`. `ServingTopology` resolves the four
 one-process-per-model endpoints: NLU/Supervisor/optional Verifier share the one

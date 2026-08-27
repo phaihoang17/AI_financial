@@ -1,0 +1,29 @@
+{
+  "embedding": {
+    "name": "bge-m3",
+    "base_url": "http://REPLACE_HOST:REPLACE_EMBED_PORT",
+    "model_id": "BAAI/bge-m3",
+    "task": "EMBED",
+    "timeout_s": 30.0
+  },
+  "reranker": {
+    "name": "bge-reranker-v2-m3",
+    "base_url": "http://REPLACE_HOST:REPLACE_RERANK_PORT",
+    "model_id": "BAAI/bge-reranker-v2-m3",
+    "task": "SCORE",
+    "timeout_s": 30.0
+  },
+  "sample": {
+    "embedding_texts": [
+      "Loi nhuan sau thue nam 2023",
+      "Tien va cac khoan tuong duong tien cuoi nam 2016",
+      "Cho vay khach hang ngan hang"
+    ],
+    "reranker_query": "Loi nhuan sau thue cua cong ty nam 2023",
+    "reranker_documents": [
+      "Bao cao ket qua hoat dong kinh doanh: Loi nhuan sau thue thu nhap doanh nghiep",
+      "Bang can doi ke toan: Tien va cac khoan tuong duong tien",
+      "Thuyet minh bao cao tai chinh: Chi phi lai vay"
+    ]
+  }
+}

@@ -1843,9 +1843,12 @@ as a live production number.
   existing fixture evaluations; all CPU-only.
 - No GPU/model latency, token, or cost value is asserted; every model-dependent
   number stays `LIVE_PENDING` behind `GPU_PRODUCTION_VALIDATION_PENDING`.
-- TASK-104 (parallel verifier checks) is the only remaining M10 implementation
-  task; the remaining M10 work is otherwise the live GPU production-validation
-  run, which is not started here.
+- At this decision boundary TASK-104 (parallel verifier checks) was the only
+  remaining M10 implementation task; it was later completed CPU-only
+  (`src/verification/verifier.py` `parallel=True`, M10 Batch 7). The remaining
+  M10 work is otherwise the live GPU production-validation run (including the
+  TASK-100 production correctness baseline and TASK-101 CHEAP-vs-STRONG quality
+  delta), which is not started here.
 - TASK-075 remained deferred at this decision boundary and was later completed
   by ADR-055; `PRODUCTION_TABLE_CLASS_PROVENANCE_PENDING` and
   `GPU_PRODUCTION_VALIDATION_PENDING` remain active.
@@ -2092,6 +2095,368 @@ Reference basis: the official
 [gVisor architecture and production guidance](https://gvisor.dev/docs/),
 [Firecracker production host guidance](https://github.com/firecracker-microvm/firecracker/blob/main/docs/prod-host-setup.md),
 and [Docker seccomp guidance](https://docs.docker.com/engine/security/seccomp/).
+
+---
+
+## ADR-056 — Observe coordination failures read-only over invariants M9 does not already enforce
+
+**Status:** Accepted (TASK-112 complete, CPU-only)
+
+### Context
+
+TASK-112 asks for logging of conflicting worker state, stale state, retry
+loops, and message/schema corruption. `src/orchestration/coordination_log.py`
+already emitted `ATTEMPT_RECORDED`, `MODEL_TIER_ESCALATION`,
+`RETRY_BUDGET_CONSUMED`, `RETRY_BUDGET_EXHAUSTED`, and `TERMINAL_FAILURE`,
+covering the retry-loop bullet. The remaining three categories were not
+represented. M9's `M9State` / `AttemptRecord` contracts are immutable and
+strictly validated on construction (ADR-045), so most contradictions cannot
+exist in a validated state — a naive detector would be dead code.
+
+### Decision
+
+Keep the observer pure and read-only (no state mutation, routing, retry,
+repair, budget, or answer change; never raises on a validated state) and add
+only detectors that key off an invariant M9's own validation does **not**
+enforce, plus one minimal raw-payload entry point. Events carry only stable
+diagnostic scalars — never `binding_ref`, evidence, execution output, prompts,
+or secrets.
+
+- **`CONFLICTING_WORKER_STATE`.** `M9State._validate_pass` constrains only the
+  `PASS` direction, so a terminal non-`PASS` outcome whose final `AttemptRecord`
+  still carries an M8 `RetryDirective` with `action == PASS` is representable and
+  contradictory. A `CLARIFICATION` terminal outcome with a non-empty attempt
+  history is likewise contradictory (clarification responses are built before
+  any executable attempt). Either fires the event, at most once.
+- **`STALE_WORKER_STATE`.** `build_failure_response` always stamps
+  `FailureAttribution.attempt_index` with `attempts[-1].attempt_index` (or
+  `None`), and `M9State` never re-checks that pointer against the attempt tuple.
+  An attribution pointing at a superseded / out-of-range / absent attempt is a
+  stale observation that never advanced with the run.
+- **`MESSAGE_SCHEMA_CORRUPTION`.** The dict passed between orchestration nodes is
+  the coordination message; `M9State.from_dict` is the fail-closed edge every
+  node already crosses. New `scan_coordination_payload(payload)` runs that edge
+  and, on `SchemaValidationError`, records one event with only the boundary name
+  and the exception class name — no payload body, no message. A payload that
+  parses is delegated to `build_coordination_log`. This function is not wired
+  into the graph; it is the smallest added observation contract and changes no
+  M9 behavior.
+
+Detection is deterministic and fail-closed: a valid state emits none of the
+three, each category appears at most once, and anything not provable from
+available state is not emitted.
+
+### Consequences
+
+- TASK-112 is complete; every acceptance bullet is covered by
+  `tests/orchestration/test_coordination_log.py` (conflicting/stale/corruption
+  detected, valid state emits none, no duplicates, deterministic ordering,
+  redaction, existing retry/terminal events unchanged).
+- No orchestration graph, contract, schema version, or routing decision
+  changes. The full suite stays green and `git diff --check` is clean.
+- Production coordination-failure *rate* over live traffic is still an
+  operational telemetry concern; this ADR only defines the deterministic
+  event vocabulary and detection rules.
+- `GPU_PRODUCTION_VALIDATION_PENDING` is unchanged;
+  `PRODUCTION_TABLE_CLASS_PROVENANCE_PENDING` was already cleared (ADR-054).
+
+---
+
+## ADR-057 — Validate production retrieval as separated artifact/serving vs. gold-gated quality; no LLM in the v1 path
+
+**Status:** Accepted (runner + preflight + calibration implemented CPU-only;
+production run `GPU_PRODUCTION_VALIDATION_PENDING`; supersedes the stale
+"requires live Qwen serving" language in earlier M10 batch notes and ADR-049/050
+consequences)
+
+### Context
+
+The GPU validation runbook carried production-blocking inaccuracies: it implied
+the vector acceptance count was the 146,246 source-table count (it is the
+**1,743,311** `EmbeddingChunk` count — a different quantity), it treated
+`Qwen3-8B` as part of the active online *retrieval* path (only `BAAI/bge-m3` and
+`BAAI/bge-reranker-v2-m3` are), it let the injected-transport `tests/serving`
+unit tests read as live-serving evidence, and
+`run_retrieval_eval --mode full-corpus` printed a pass-looking
+`GPU_PRODUCTION_VALIDATION_PENDING` line while being a stub. There was no
+executable full-corpus retrieval production validation.
+
+### Decision
+
+Add `src/evaluation/retrieval_production_validation.py` +
+`run_retrieval_production_validation` and `src/serving/live_probe.py`, and split
+production retrieval validation into two categories that never mix:
+
+1. **ARTIFACT_SERVING** — each check is `ARTIFACT` evidence (static file
+   inspection) or `LIVE` evidence (a real served-model call):
+   corpus/index/BM25 compatibility; **exact `vector_count` == canonical
+   `chunk_count` == 1,743,311** with an explicit
+   `TABLE_COUNT_SUBSTITUTED_FOR_VECTOR_COUNT` guard against the 146,246
+   source-table count and the representation count; embedding fingerprint; FAISS
+   shard sha256 + shard-count sum; SQLite `integrity_check`; a **LIVE** BGE-M3
+   probe (dim 1024, finite floats, cosine ≥ 0.999 vs. the pinned CPU encoder);
+   a **LIVE** BGE-reranker probe (shape/order, induced-ranking parity vs. the
+   pinned CPU reranker); and a **LIVE** deterministic retrieval-execution smoke
+   over the existing Backend→RRF→reranker stack (twice, byte-identical, no
+   crash/timeout). The runner changes no ranking semantics — it only *calls* the
+   existing stack. Tolerance rationale: production bf16/fp16 GPU inference vs.
+   fp32 CPU reference cannot be bit-exact, so directional agreement (cosine for
+   the index metric) and ranking parity (all `rerank_candidates` consumes) are
+   the gates.
+2. **RETRIEVAL_QUALITY** — Recall@k / MRR only when real per-question gold
+   retrieval-evidence annotations exist. The public ViFinQA `questions.jsonl`
+   has only `id` + `question`, so this is `BLOCKED_GOLD_DATA`. Fixture retrieval
+   metrics are never substituted.
+
+`run_retrieval_eval --mode full-corpus` now exits non-zero with
+`status: NOT_RUN_HERE` and points at the runner; fixture mode is labelled CPU
+regression only.
+
+Add `src/indexing/embedding_build_preflight.py` (`preflight_vector_build`) — a
+read-only, no-model check that computes the deterministic `build_id` and returns
+`FRESH` / `RESUME` / `ALREADY_PUBLISHED` for a given `--output-root` and
+`--max-vectors-per-shard` — and `src/indexing/embedding_batch_calibration.py` —
+a bounded-sample (≤ 20,000 chunks) BGE-M3 throughput/VRAM/OOM sweep over batch
+sizes 8/16/32/64 that recommends the largest stable batch beating the prior by
+`--min-speedup`× and never touches an output root.
+
+### Qwen is not in the v1 active path (verified in code)
+
+- No active v1 query path calls `Qwen3-8B` or `Qwen2.5-Coder-14B`. The M9 graph
+  (`src/orchestration/nodes.py`) calls `supervise_batch1` and `verify` as
+  deterministic functions; NLU / Programmer / Sandbox are injected ports whose
+  only implementations (`src/evaluation/e2e_fixtures.py`) are deterministic;
+  `generate_program` is a pure symbolic-DSL builder and takes no model tier.
+- `Plan.model_tier`, `RetryState.current_model_tier`, and the `ESCALATE_STRONG`
+  directive only set recorded enum values. Nothing consumes them to pick or call
+  a model. `src/serving/` (Qwen topology + `OpenAICompatibleClient`) is imported
+  by no active-path module. `torch` / `transformers` occur only in BGE-M3 /
+  BGE-reranker code.
+- `GPU_PRODUCTION_VALIDATION_PENDING` is canonically a retrieval-model /
+  production-vector-artifact blocker (ADR-020, ADR-025, ADR-031). The
+  LLM-serving language attached to it in ADR-049/050 and later batch notes
+  concerns `src/serving/` code that is not wired in; no canonical document
+  requires an LLM on the v1 critical path (AGENTS.md: "sole third-party runtime
+  dependency is langgraph").
+
+### What clears what
+
+- **TASK-109** clears when `run_retrieval_production_validation` returns
+  `overall_status: PASS` (`clears_gpu_pending: true`) on the real committed
+  corpus/vector/BM25 artifacts with both LIVE probes and the smoke passing on
+  GPU hardware. No LLM is involved.
+- **`GPU_PRODUCTION_VALIDATION_PENDING`** clears on the same condition. It has no
+  LLM-serving component in the current architecture. `RETRIEVAL_QUALITY` stays
+  independently `BLOCKED_GOLD_DATA` and does not gate the flag.
+- **TASK-100** is **retrieval-gated, not Qwen-gated**: it needs the production
+  vector artifact built + ADR-057 PASS, plus real per-question gold answers to
+  score real-corpus correctness (`BLOCKED_GOLD_DATA`). "STRONG tier" in v1 is a
+  deterministic routing label, not a model.
+- **TASK-101** is **not GPU-gated in the current v1 architecture**: with no LLM,
+  CHEAP and STRONG resolve to the same deterministic path, so there is no
+  quality/cost delta to measure. It is blocked on model-backed ports being built
+  and wired into M9 at all — unscheduled, out-of-v1-scope work.
+- No numeric threshold is invented for TASK-100 or TASK-101.
+
+### Consequences
+
+- The runner and probes are implemented CPU-only with focused tests
+  (`tests/evaluation/test_retrieval_production_validation.py`,
+  `tests/serving/test_live_probe.py`); the suite stays green and
+  `git diff --check` is clean.
+- No retrieval ranking, embedding, index, or serving-routing behavior changes;
+  no model is deployed.
+- **Known limitation:** the deterministic retrieval-execution smoke is a typed
+  input the runner *gates on* (`ran` + `byte_identical` + no crash/timeout), not
+  something the runner drives itself. Driving `Batch3Retriever` end to end needs
+  the retrieval stack wired into an online path (building a `RetrievalQuery` and
+  a `query_embedder`), which is a separate task; until then the operator
+  produces the smoke result from a real run over committed `RetrievalQuery`
+  fixtures (Qwen-free) and passes it in. The two LIVE model probes and every
+  artifact check are fully executable now.
+- The vector builder CLI is unchanged; `--input-artifact` takes the exact
+  committed corpus artifact directory (or a family root with a `CURRENT` pointer
+  resolving to the committed id).
+- `PRODUCTION_TABLE_CLASS_PROVENANCE_PENDING` was already cleared (ADR-054) and
+  is unaffected.
+
+### Published vector artifact path (resolved from the builder)
+
+`--output-root` is used verbatim as the family root. On success the builder
+`os.replace`s staging into `<output-root>/artifacts/<build_id>/` (immutable,
+`artifact_status: COMMITTED`) and writes `<output-root>/manifest.json` (pointer,
+carries `artifact_directory: "artifacts/<build_id>"`) and `<output-root>/CURRENT`
+(the `build_id`). There is **no** `m2-vector-index-v1` subdirectory
+(`OUTPUT_ARTIFACT_ROOT_NAME` is dead code).
+`run_retrieval_production_validation --vector-artifact` and `VectorSearcher` take
+the **`<output-root>` family root**, never the inner `artifacts/<build_id>`.
+
+Resolve + verify after a build:
+
+```bash
+test -f "$OUT/manifest.json" && test -f "$OUT/CURRENT" || echo "NOT PUBLISHED"
+BUILD_ID="$(cat "$OUT/CURRENT")"
+ART="$OUT/artifacts/$BUILD_ID"
+python - <<'PY'
+import json, os
+out = os.environ["OUT"]
+top = json.load(open(f"{out}/manifest.json"))
+inner = json.load(open(f"{out}/artifacts/{open(f'{out}/CURRENT').read().strip()}/manifest.json"))
+assert top["artifact_directory"] == f"artifacts/{open(f'{out}/CURRENT').read().strip()}"
+assert inner["artifact_status"] == "COMMITTED", inner["artifact_status"]
+print("vector_count        :", inner["vector_count"])
+print("embedding_fingerprint:", inner["embedding_fingerprint"])
+PY
+```
+
+`vector_count` MUST print `1743311`; `embedding_fingerprint` MUST print
+`ebf2adc2a61d75a65db3829163a003e729095310360b9b162b570b34579585b3`.
+
+### FINAL 1× RTX 5090 runbook (retrieval only; no Qwen)
+
+Machine-specific placeholders only: `$CORPUS` = path to the committed M2 corpus
+artifact directory (its `manifest.json` has `artifact_status: COMMITTED`,
+`artifact_id 4f39603a89e213129de6c57e1234456e88086832c8b61bd9821770d76a6dc78e`,
+`source_inventory_sha256
+9ea9e073a8aff69e48ae9b258a2bd657cd5194a52de9742e89f5bdb8d17f61c9`,
+`chunk_count 1743311`); `$BM25` = path to the committed `m3-bm25-index-v1`
+directory bound to `$CORPUS`; `$OUT` = chosen vector output root; `$GPU` = CUDA
+device index; host/ports live in `deploy/serving/retrieval-endpoints.json`.
+
+**A. Environment / dependencies**
+
+```bash
+python -m venv .venv && . .venv/bin/activate
+pip install -r requirements-orchestration.txt          # langgraph==1.2.10
+pip install "faiss-cpu>=1.8" torch --index-url <cuda wheel index>   # + faiss-gpu if used
+pip install "transformers>=4.44" huggingface_hub
+export HF_HOME="$HOME/.cache/huggingface"
+python -c "import faiss, torch, transformers; print('cuda', torch.cuda.is_available())"
+```
+
+**B. Artifact restore** — place `$CORPUS` and `$BM25` on local disk (they are the
+immutable committed artifacts; do not rebuild). Pre-cache the pinned weights:
+
+```bash
+python -c "from src.indexing.embedding_indexer import load_bge_m3_encoder as L; L(device='cpu')"
+python -c "from src.retrieval.reranker import load_bge_reranker as L; L(device='cpu')"
+```
+
+BGE-M3 pin: `BAAI/bge-m3` @ `5617a9f61b028005a4858fdac845db406aefb181`.
+Reranker pin: `BAAI/bge-reranker-v2-m3`.
+
+**C. Preflight (read-only, no model):**
+
+```bash
+python -m src.indexing.embedding_build_preflight \
+  --input-artifact "$CORPUS" --output-root "$OUT" --max-vectors-per-shard 100000
+```
+
+`mode: FRESH` (no `staging_conflict`) → E · `mode: RESUME` → F ·
+`mode: ALREADY_PUBLISHED` → G · `staging_conflict: true` → delete the named
+`$OUT/.staging/<build_id>` deliberately, re-run C.
+
+**D. Batch calibration (never publishes; run before E/F):**
+
+```bash
+CUDA_VISIBLE_DEVICES=$GPU python -m src.indexing.embedding_batch_calibration \
+  --input-artifact "$CORPUS" --sample-size 2000 \
+  --batch-sizes 8,16,32,64 --device cuda --min-speedup 1.05
+```
+
+Take `recommendation.recommended_batch_size` → `$BS`.
+
+**E. FRESH build (only on preflight `FRESH`, no conflict — no `--resume`):**
+
+```bash
+CUDA_VISIBLE_DEVICES=$GPU python -m src.indexing.embedding_artifact_builder \
+  --input-artifact "$CORPUS" --output-root "$OUT" \
+  --device cuda --batch-size "$BS" --max-vectors-per-shard 100000
+```
+
+**F. RESUME build (only on preflight `RESUME`):**
+
+```bash
+CUDA_VISIBLE_DEVICES=$GPU python -m src.indexing.embedding_artifact_builder \
+  --input-artifact "$CORPUS" --output-root "$OUT" \
+  --device cuda --batch-size "$BS" --max-vectors-per-shard 100000 --resume
+```
+
+**G. Resolve exact committed vector artifact path** — run the "Resolve + verify
+after a build" block above with `OUT="$OUT"`. `--vector-artifact` for L is
+`"$OUT"` (the family root).
+
+**H. Start BGE-M3 endpoint** (example vLLM; any OpenAI-compatible `/v1/embeddings`
+server works):
+
+```bash
+CUDA_VISIBLE_DEVICES=$GPU python -m vllm.entrypoints.openai.api_server \
+  --model BAAI/bge-m3 --revision 5617a9f61b028005a4858fdac845db406aefb181 \
+  --task embed --port <EMBED_PORT>
+```
+
+**I. Start BGE-reranker endpoint** (`/score`):
+
+```bash
+CUDA_VISIBLE_DEVICES=$GPU python -m vllm.entrypoints.openai.api_server \
+  --model BAAI/bge-reranker-v2-m3 --task score --port <RERANK_PORT>
+```
+
+Then edit `deploy/serving/retrieval-endpoints.json`: set `embedding.base_url`
+and `reranker.base_url` to `http://<host>:<EMBED_PORT>` / `:<RERANK_PORT>`.
+
+**J. Live health checks:**
+
+```bash
+curl -fsS "http://<host>:<EMBED_PORT>/v1/models"
+curl -fsS "http://<host>:<RERANK_PORT>/v1/models"
+```
+
+**K. Deterministic retrieval smoke:**
+
+```bash
+CUDA_VISIBLE_DEVICES="" python -m src.evaluation.run_retrieval_execution_smoke \
+  --corpus-artifact "$CORPUS" --vector-artifact "$OUT" --bm25-artifact "$BM25" \
+  --queries deploy/retrieval/smoke-queries.jsonl --top-k 10 \
+  > smoke-result.json
+echo "smoke exit=$?"
+```
+
+Exit 0 ⇔ `ran && byte_identical && crashes==0 && timeouts==0`.
+
+**L. Retrieval production validation:**
+
+```bash
+python -m src.evaluation.run_retrieval_production_validation \
+  --corpus-artifact "$CORPUS" --vector-artifact "$OUT" --bm25-artifact "$BM25" \
+  --serving-config deploy/serving/retrieval-endpoints.json \
+  --retrieval-smoke smoke-result.json \
+  --operator-expected-vector-count 1743311
+echo "validation exit=$?"
+```
+
+**M. Exact PASS conditions** — L prints `overall_status: PASS`,
+`clears_gpu_pending: true`, `live_serving_status: PASS`, and every
+`artifact_serving_checks[*].status == PASS`:
+
+- `corpus_index_compatibility` PASS · `bm25_compatibility` PASS
+- `no_table_count_substitution` PASS · `canonical_corpus_chunk_count` PASS
+  (`chunk_count == 1743311`) · `vector_count_equals_canonical_chunk_count` PASS
+- `shard_and_sqlite_integrity` PASS (every shard sha256 ok, `sum(shard
+  vector_count) == 1743311`, SQLite `integrity_check` ok)
+- `embedding_fingerprint` PASS
+  (`== ebf2adc2a61d75a65db3829163a003e729095310360b9b162b570b34579585b3`)
+- `live_bge_m3_embedding_parity` PASS (dim 1024, finite, min cosine ≥ 0.999)
+- `live_bge_reranker_parity` PASS (shape + order parity)
+- `deterministic_retrieval_execution` PASS (from K: `byte_identical`, 0 crashes,
+  0 timeouts)
+
+On that result: **TASK-109 clears** and the retrieval portion of
+`GPU_PRODUCTION_VALIDATION_PENDING` clears. `RETRIEVAL_QUALITY` stays
+`BLOCKED_GOLD_DATA` and does not gate the flag. There is no LLM-serving sub-gate.
+**TASK-100** additionally needs real per-question gold answers (still
+`BLOCKED_GOLD_DATA`); **TASK-101** is not GPU-gated in current v1 (no LLM ⇒ no
+CHEAP-vs-STRONG delta) and stays blocked on model-backed ports being built.
 
 ---
 

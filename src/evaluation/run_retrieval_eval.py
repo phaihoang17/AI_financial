@@ -45,6 +45,18 @@ def fixture_cases():
 def main(argv=None) -> int:
     parser=argparse.ArgumentParser(); parser.add_argument("--mode",choices=("fixture","full-corpus"),default="fixture"); args=parser.parse_args(argv)
     if args.mode == "full-corpus":
-        print(json.dumps({"mode":"FULL_CORPUS","status":"GPU_PRODUCTION_VALIDATION_PENDING"},sort_keys=True)); return 0
+        # This CLI is CPU regression only. Real full-corpus retrieval production
+        # validation (artifact/serving correctness + LIVE model probes) lives in
+        # a dedicated runner and cannot be produced here. Exit non-zero so this
+        # branch is never mistaken for a passing production gate.
+        print(json.dumps({
+            "mode":"FULL_CORPUS",
+            "status":"NOT_RUN_HERE",
+            "evidence_class":"NONE",
+            "blocker":"GPU_PRODUCTION_VALIDATION_PENDING",
+            "note":"fixture mode is CPU regression only; it proves no production retrieval behavior",
+            "use":"python -m src.evaluation.run_retrieval_production_validation --corpus-artifact <m2 corpus dir> --vector-artifact <builder --output-root> --bm25-artifact <m3-bm25-index-v1 dir> --serving-config deploy/serving/retrieval-endpoints.json --retrieval-smoke smoke-result.json",
+        },sort_keys=True))
+        return 2
     print(json.dumps(evaluate_cases(RetrievalEvaluationMode.FIXTURE,fixture_cases()).to_dict(),ensure_ascii=False,sort_keys=True)); return 0
 if __name__ == "__main__": raise SystemExit(main())

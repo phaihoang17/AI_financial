@@ -1,14 +1,26 @@
 from __future__ import annotations
 
 import json
+from dataclasses import replace
 
 from src.evaluation.e2e_fixtures import e2e_fixture_cases
+from src.evaluation.harness import EvaluationFailureStage
 from src.orchestration.coordination_log import (
     COORDINATION_LOG_SCHEMA_VERSION,
     CoordinationEventType,
     build_coordination_log,
     coordination_log_to_dict,
+    coordination_payload_scan_to_dict,
+    scan_coordination_payload,
 )
+from src.orchestration.schemas import (
+    FailureAttribution,
+    FinalResponse,
+    FinalResponseStatus,
+    M9Phase,
+    terminal_retry_state,
+)
+from src.verification.schemas import RetryAction
 
 
 def _run(case_id: str):
@@ -98,3 +110,197 @@ def test_every_fixture_state_produces_a_valid_serializable_log():
         ).state
         payload = coordination_log_to_dict(state)
         assert json.loads(json.dumps(payload, sort_keys=True)) == payload
+
+
+# --- TASK-112 coordination-failure categories -------------------------------
+
+_COORDINATION_FAILURE_TYPES = frozenset(
+    {
+        CoordinationEventType.CONFLICTING_WORKER_STATE,
+        CoordinationEventType.STALE_WORKER_STATE,
+        CoordinationEventType.MESSAGE_SCHEMA_CORRUPTION,
+    }
+)
+
+
+def _conflicting_state():
+    """Terminal ABSTAIN whose final attempt still carries an M8 PASS directive."""
+    passed = _run("growth-rate")
+    last = passed.attempts[-1]
+    assert last.retry_directive is not None
+    assert last.retry_directive.action is RetryAction.PASS
+
+    terminal_retry = terminal_retry_state(passed.retry_state)
+    attribution = FailureAttribution(
+        EvaluationFailureStage.VERIFICATION,
+        "COORDINATION_TEST_ABSTAIN",
+        "fixture-built conflicting terminal",
+        last.attempt_index,
+    )
+    response = FinalResponse(
+        status=FinalResponseStatus.ABSTAIN,
+        answer=None,
+        reason_code="COORDINATION_TEST_ABSTAIN",
+        message="fixture-built conflicting terminal",
+        retry_state=terminal_retry,
+        failure_attribution=attribution,
+    )
+    return replace(
+        passed,
+        phase=M9Phase.TERMINAL,
+        outcome=FinalResponseStatus.ABSTAIN,
+        retry_state=terminal_retry,
+        final_response=response,
+        failure_attribution=attribution,
+    )
+
+
+def _stale_state():
+    """Terminal ABSTAIN whose attribution points at a superseded attempt."""
+    base = _run("retry-exhausted")
+    assert len(base.attempts) == 2
+    assert base.failure_attribution.attempt_index == 1
+
+    stale_attribution = replace(base.failure_attribution, attempt_index=0)
+    stale_response = replace(
+        base.final_response, failure_attribution=stale_attribution
+    )
+    return replace(
+        base,
+        failure_attribution=stale_attribution,
+        final_response=stale_response,
+    )
+
+
+def test_conflicting_worker_state_detected():
+    events = build_coordination_log(_conflicting_state())
+    conflicting = [
+        e
+        for e in events
+        if e.event_type is CoordinationEventType.CONFLICTING_WORKER_STATE
+    ]
+    assert len(conflicting) == 1
+    assert conflicting[0].detail == {
+        "signal": "M8_PASS_DIRECTIVE_WITH_NON_PASS_TERMINAL",
+        "outcome": "ABSTAIN",
+        "attempt_count": 1,
+    }
+    assert conflicting[0].attempt_index == 0
+
+
+def test_conflicting_state_preserves_existing_events():
+    assert [e.event_type for e in build_coordination_log(_conflicting_state())] == [
+        CoordinationEventType.ATTEMPT_RECORDED,
+        CoordinationEventType.TERMINAL_FAILURE,
+        CoordinationEventType.CONFLICTING_WORKER_STATE,
+    ]
+
+
+def test_stale_worker_state_detected():
+    events = build_coordination_log(_stale_state())
+    stale = [
+        e for e in events if e.event_type is CoordinationEventType.STALE_WORKER_STATE
+    ]
+    assert len(stale) == 1
+    assert stale[0].detail == {
+        "signal": "FAILURE_ATTRIBUTION_ATTEMPT_STALE",
+        "attributed_attempt_index": 0,
+        "current_attempt_index": 1,
+        "attempt_count": 2,
+    }
+    assert stale[0].attempt_index == 1
+
+
+def test_stale_state_preserves_existing_events():
+    assert [e.event_type for e in build_coordination_log(_stale_state())] == [
+        CoordinationEventType.ATTEMPT_RECORDED,
+        CoordinationEventType.ATTEMPT_RECORDED,
+        CoordinationEventType.MODEL_TIER_ESCALATION,
+        CoordinationEventType.RETRY_BUDGET_CONSUMED,
+        CoordinationEventType.TERMINAL_FAILURE,
+        CoordinationEventType.RETRY_BUDGET_EXHAUSTED,
+        CoordinationEventType.STALE_WORKER_STATE,
+    ]
+
+
+def test_message_schema_corruption_detected_for_invalid_enum():
+    payload = dict(_run("lookup").to_dict())
+    payload["phase"] = "NOT_A_PHASE"
+    events = scan_coordination_payload(payload)
+    assert [e.event_type for e in events] == [
+        CoordinationEventType.MESSAGE_SCHEMA_CORRUPTION
+    ]
+    assert events[0].attempt_index is None
+    assert events[0].detail == {
+        "signal": "CHECKPOINT_CONTRACT_INVALID",
+        "boundary": "M9State.from_dict",
+        "error_type": "SchemaValidationError",
+    }
+
+
+def test_message_schema_corruption_detected_for_missing_field_and_non_mapping():
+    payload = dict(_run("lookup").to_dict())
+    del payload["attempts"]
+    for corrupt in (payload, [], "not-a-checkpoint", None):
+        events = scan_coordination_payload(corrupt)
+        assert [e.event_type for e in events] == [
+            CoordinationEventType.MESSAGE_SCHEMA_CORRUPTION
+        ]
+
+
+def test_valid_payload_scan_delegates_to_build_log():
+    state = _run("retry-exhausted")
+    assert scan_coordination_payload(state.to_dict()) == build_coordination_log(state)
+    assert coordination_payload_scan_to_dict(state.to_dict()) == coordination_log_to_dict(
+        state
+    )
+
+
+def test_valid_states_emit_no_coordination_failure_events():
+    for case in e2e_fixture_cases():
+        state = case.graph_factory().run(
+            request_id=f"coord-clean-{case.case_id}",
+            raw_question=case.raw_question,
+        ).state
+        assert _COORDINATION_FAILURE_TYPES.isdisjoint(_types(state))
+        # A round-tripped valid checkpoint is never flagged as corrupt.
+        assert _COORDINATION_FAILURE_TYPES.isdisjoint(
+            e.event_type for e in scan_coordination_payload(state.to_dict())
+        )
+
+
+def test_coordination_failure_events_are_deterministic_and_single():
+    for state in (_conflicting_state(), _stale_state()):
+        first = [e.to_dict() for e in build_coordination_log(state)]
+        second = [e.to_dict() for e in build_coordination_log(state)]
+        assert first == second
+        failure_events = [
+            e["event_type"]
+            for e in first
+            if e["event_type"]
+            in {t.value for t in _COORDINATION_FAILURE_TYPES}
+        ]
+        assert len(failure_events) == 1
+
+
+def test_coordination_failure_events_redact_state_secrets():
+    passing = _run("growth-rate")
+    secrets = []
+    for attempt in passing.attempts:
+        if attempt.binding_ref is not None:
+            secrets.append(attempt.binding_ref)
+        if attempt.execution_result is not None and attempt.execution_result.output:
+            for datum in attempt.execution_result.output.values:
+                secrets.append(str(datum.value))
+    assert secrets
+
+    for state in (_conflicting_state(), _stale_state()):
+        serialized = json.dumps(coordination_log_to_dict(state), sort_keys=True)
+        for secret in secrets:
+            assert secret not in serialized
+        for event in build_coordination_log(state):
+            if event.event_type not in _COORDINATION_FAILURE_TYPES:
+                continue
+            for key, value in event.detail.items():
+                assert isinstance(key, str)
+                assert isinstance(value, (str, int, bool, type(None)))
