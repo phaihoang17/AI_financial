@@ -250,16 +250,16 @@ leaves the canonical M2 corpus unchanged. `EvidenceProvenanceRepository` /
 `locate_cells` now fill `CellLocation.table_class` from an exact
 `(report_id, page_id, table_id)` sidecar lookup, failing closed on a corrupt or
 incompatible sidecar and staying `None` on a missing hint.
-`PRODUCTION_TABLE_CLASS_PROVENANCE_PENDING` stays active until a real full-corpus
-source-backed integration audit passes.
+`PRODUCTION_TABLE_CLASS_PROVENANCE_PENDING` was cleared once the real full-corpus
+source-backed integration audit passed (see Batch 2.7 below).
 
 - [x] **Batch 2.6 — Additive source-backed TableClass provenance sidecar**
   - Build/validate `m2-table-class-sidecar-v1` bound to one M2 corpus + registry.
   - Wire exact `CellLocation.table_class` lookup; no heuristic/metric fallback.
 
-Batch 2.7 adds the deterministic production audit from ADR-054. The tooling and
-fixture tests are complete, but the operational full-corpus run is not performed
-on this development host and the production flag remains active.
+Batch 2.7 adds the deterministic production audit from ADR-054. The tooling,
+fixture tests, and the operational full-corpus run are all complete;
+`PRODUCTION_TABLE_CLASS_PROVENANCE_PENDING` is cleared.
 
 - [x] **Batch 2.7 — TableClass real-corpus provenance audit tooling**
   - Validate exact corpus/sidecar/source compatibility and integrity.
@@ -267,9 +267,10 @@ on this development host and the production flag remains active.
     tables, orphan/duplicate mappings, source-span failures, and exact source
     replay differences.
   - Exercise the real `EvidenceProvenanceRepository -> locate_cells` path.
-- [ ] **Run Batch 2.7 on the approved canonical full M2 production corpus**
-  - Clear `PRODUCTION_TABLE_CLASS_PROVENANCE_PENDING` only after exit code zero
-    and JSON `status: PASS` from the exact command below.
+- [x] **Run Batch 2.7 on the approved canonical full M2 production corpus**
+  - `PRODUCTION_TABLE_CLASS_PROVENANCE_PENDING` cleared: the audit CLI below
+    returned exit code zero and JSON `status: PASS` with `blockers: []` on the
+    approved canonical inputs.
 
 ```bash
 python -m src.indexing.table_class_provenance_audit \
@@ -277,6 +278,34 @@ python -m src.indexing.table_class_provenance_audit \
   --table-class-sidecar <matching-table-class-sidecar-artifact> \
   --raw-corpus-root <exact-raw-corpus-root>
 ```
+
+Production run evidence:
+
+- corpus artifact id
+  `4f39603a89e213129de6c57e1234456e88086832c8b61bd9821770d76a6dc78e`
+  (`corpus_id` `ViFinQA`, `artifact_status` `COMMITTED`), corpus fingerprint
+  `9ea9e073a8aff69e48ae9b258a2bd657cd5194a52de9742e89f5bdb8d17f61c9`,
+  corpus manifest sha256
+  `68de4553a91296fb9fe5bea82a5672b1013febea2769824ee8a71329f0448c97`
+- table-class sidecar artifact id
+  `86d718489f1c5aa455876cbb0bc28c72169ae610f753442f51adab714ad57de8`
+  (`m2-table-class-sidecar-v1`, registry `m2-table-class-registry-v1`,
+  registry fingerprint
+  `ea871c01ce8d0cf82d723217027afb369824515f42d68fbc1b63526a50f4a7c0`),
+  exactly bound to the corpus artifact above
+- raw corpus root `~/Documents/data/ViFinQA/financial_statements` (approved
+  canonical raw source)
+- result: `status: PASS`, `blockers: []`, exit code 0; 1973 reports,
+  146246 canonical tables, 0 unparseable; 54173 source-backed classifications
+  (coverage 0.3704) — BALANCE_SHEET 4789, INCOME_STATEMENT 2982,
+  CASH_FLOW_STATEMENT 2132, NOTES 44270
+- zero integrity/mapping failures: 0 orphan, 0 duplicate, 0 conflicting
+  mappings; 0 invalid source spans; 0 source-span round-trip failures;
+  0 source-supported hint mismatches; 0 corpus/source table mismatches
+- 92073 unmatched tables (90775 source-no-match + 1298 ambiguous/conflicting)
+  remain valid `None` cases; no minimum coverage threshold applies
+- production `locate_cells` evidence path: PASS for all four `TableClass`
+  values and for the unclassified-stays-`None` check
 
 - [x] **TASK-030 — Report-level metadata filter / retriever**
   - Filter by company, period, and statement scope.
@@ -529,8 +558,10 @@ process without arbitrary Python execution.
 
 - [x] **TASK-074 — Sandbox abuse/security tests**
 
-- [ ] **TASK-075 — Infrastructure ADR for final sandbox technology**
+- [x] **TASK-075 — Infrastructure ADR for final sandbox technology**
   - Container / gVisor-like / MicroVM decision based on deployment constraints.
+  - Selected v1: existing one-shot worker with fail-closed Linux NsJail
+    namespaces/seccomp/cgroup hardening (ADR-055).
 
 M7 Batch 1 completed TASK-070 and TASK-073. It defines the versioned execution
 request/result boundary, typed failure stages, Decimal precision/serialization,
@@ -555,9 +586,34 @@ wall-clock, RSS, request, and output bounds and terminates the worker process
 group on violation. The worker enforces CPU/process/descriptor/file-size limits,
 an exact cleared environment, and filesystem/network/process-spawn denials.
 Abuse tests cover every approved resource, protocol, policy, and capability
-boundary without adding an operation to the production DSL. TASK-075 remains
-pending; this batch does not select final production sandbox infrastructure.
+boundary without adding an operation to the production DSL. TASK-075 was later
+completed by M7 Batch 4; this batch itself did not select final production
+sandbox infrastructure.
 `GPU_PRODUCTION_VALIDATION_PENDING` is unchanged.
+
+M7 Batch 4 completes TASK-075 through ADR-055. It compares the existing
+process boundary, standard containers, gVisor, and MicroVM/Firecracker across
+security, startup, resources, operations, portability, observability, contract
+compatibility, and migration cost. Because M7 executes only a closed validated
+DSL and never arbitrary Python/user code, v1 keeps the one-worker-per-request
+process and adds a fail-closed Linux NsJail boundary rather than a heavier
+runtime.
+
+Production mode `linux-nsjail-v1` requires the fixed minimal read-only image
+layout plus root-owned, fingerprint-pinned NsJail config/seccomp policy. It adds
+user/mount/PID/network/IPC/UTS/cgroup namespaces, capability drop,
+`no_new_privs`, seccomp-bpf, and cgroup v2 outer limits while preserving every
+`m7-limits-v1` value and the existing parent/worker enforcement. Missing,
+tampered, unsupported, or non-Linux production setup fails as
+`SECURITY/ISOLATION_SETUP_FAILED` with no local fallback.
+
+Focused tests cover production-mode selection, fail-closed platform/config
+handling, exact profile fingerprints, required native controls, and executor
+command integration. `SandboxExecutionRequest`, `ExecutionResult`, the M9
+`SandboxStagePort`, Decimal/DSL behavior, and M8/M9 semantics are unchanged.
+Each production Linux image/host must still pass the real abuse probes and
+cold-start/target-concurrency calibration before rollout; this deployment gate
+does not reopen TASK-075 or clear `GPU_PRODUCTION_VALIDATION_PENDING`.
 
 ---
 
@@ -685,7 +741,8 @@ call, retry execution, answer construction, or E2E behavior. At the Batch 1
 boundary, TASK-091 through TASK-099 were pending. Source-backed
 `CellLocation.table_class` provenance is
 an upstream requirement; current real locations do not provide it, and M9 must
-not infer it from Plan or metric mappings. TASK-075 remains deferred and
+not infer it from Plan or metric mappings. At this batch boundary TASK-075
+remained deferred; it was later completed by M7 Batch 4, and
 `GPU_PRODUCTION_VALIDATION_PENDING` is unchanged.
 
 M9 Batch 2 completes TASK-091 through TASK-094 with the pinned LangGraph
@@ -695,7 +752,8 @@ failure, and otherwise stops after the M8 VerificationReport. It adds no retry
 execution, directive classification, final response, answer construction,
 abstain routing, or E2E evaluation. Fixture paths can supply source-backed
 `table_class`; the production source path remains blocked and M9 does not infer
-it. TASK-075 remains deferred and `GPU_PRODUCTION_VALIDATION_PENDING` is
+it. At this batch boundary TASK-075 remained deferred; it was later completed
+by M7 Batch 4. `GPU_PRODUCTION_VALIDATION_PENDING` is
 unchanged.
 
 M9 Batch 3 completes TASK-095 through TASK-097. The graph now executes existing
@@ -707,7 +765,8 @@ PlanningGate findings, all terminal failures emit typed abstention without an
 answer, and PASS copies verified output with only Program-used citations.
 Unknown execution failure codes fail closed and failed execution never creates
 a VerificationReport. TASK-098 and TASK-099 remain pending. Production
-source-backed `table_class` remains blocked upstream; TASK-075 remains deferred
+source-backed `table_class` remains blocked upstream. At this batch boundary
+TASK-075 remained deferred and was later completed by M7 Batch 4,
 and `GPU_PRODUCTION_VALIDATION_PENDING` is unchanged.
 
 M9 Batch 4 completes TASK-098 and TASK-099 with a deterministic CPU-only
@@ -720,7 +779,8 @@ absent on PASS. The checkpoint schema is `m9-orchestration-state-v2`.
 Production TABLE E2E remains explicitly blocked by
 `PRODUCTION_TABLE_CLASS_PROVENANCE_PENDING`; no `table_class` inference was
 added. M9 implementation tasks TASK-090 through TASK-099 are complete.
-TASK-075 remains deferred and `GPU_PRODUCTION_VALIDATION_PENDING` is unchanged.
+At this batch boundary TASK-075 remained deferred; it was later completed by
+M7 Batch 4. `GPU_PRODUCTION_VALIDATION_PENDING` is unchanged.
 
 ---
 
@@ -800,7 +860,8 @@ accuracy/timeout degradation with live models is `LIVE_PENDING`.
 
 New CLIs `run_latency_eval`, `run_cost_dashboard`, and `run_load_test` run
 CPU-only. No GPU/model latency, token, or cost number is fabricated. TASK-104
-remains open. TASK-075 remains deferred and
+remains open. At this batch boundary TASK-075 remained deferred; it was later
+completed by M7 Batch 4, and
 `PRODUCTION_TABLE_CLASS_PROVENANCE_PENDING` remains active.
 
 M10 Batch 5 completes TASK-102, TASK-103, and TASK-105 (ADR-051) as CPU-only,
@@ -829,7 +890,8 @@ fixtures (zero regressions).
 
 Measurements are the CPU fixture structure only; retry-rate/quality-gain over
 real models, and embedding-similarity ("semantic") cache hit-rate/quality, are
-`GPU_PRODUCTION_VALIDATION_PENDING`. TASK-104 remains open. TASK-075 remains
+`GPU_PRODUCTION_VALIDATION_PENDING`. TASK-104 remains open. At this batch
+boundary TASK-075 remained deferred and was later completed by M7 Batch 4;
 deferred and `PRODUCTION_TABLE_CLASS_PROVENANCE_PENDING` remains active.
 
 M10 Batch 4 completes TASK-108 and TASK-109 (ADR-050) by implementing the
@@ -845,7 +907,8 @@ unchanged) and `ServingBGEReranker` subclasses the pinned `BGEReranker` so
 is CPU-only and network-free through an injected transport; the production
 `HttpTransport` and live-GPU serving remain
 `GPU_PRODUCTION_VALIDATION_PENDING`. No model is deployed and no ModelTier
-routing changed. TASK-075 remains deferred;
+routing changed. At this batch boundary TASK-075 remained deferred and was
+later completed by M7 Batch 4;
 `PRODUCTION_TABLE_CLASS_PROVENANCE_PENDING` remains active.
 
 M10 Batch 3 completes TASK-107 as a docs-only decision (ADR-049). It selects
@@ -861,7 +924,8 @@ are the rejected alternatives.
 
 No model is deployed and no serving code is added; the servers and client are
 TASK-108/TASK-109 (next M10 batch), which are not started. `Plan.model_tier`
-routing is unchanged. TASK-075 remains deferred;
+routing is unchanged. At this batch boundary TASK-075 remained deferred and was
+later completed by M7 Batch 4;
 `PRODUCTION_TABLE_CLASS_PROVENANCE_PENDING` and
 `GPU_PRODUCTION_VALIDATION_PENDING` remain active.
 

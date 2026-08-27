@@ -29,6 +29,7 @@ from src.sandbox.protocol import (
     decode_canonical_json,
     encode_canonical_json,
 )
+from src.sandbox.production import production_worker_command
 from src.sandbox.schemas import (
     ExecutionFailure,
     ExecutionFailureStage,
@@ -90,6 +91,13 @@ def _kill_worker_group(process: subprocess.Popen[bytes]) -> None:
 
 def _worker_command(python_command: list[str]) -> list[str]:
     command = list(python_command)
+    project_root = Path(__file__).resolve().parents[2]
+    production_command = production_worker_command(
+        command,
+        project_root=project_root,
+    )
+    if production_command is not None:
+        return production_command
     if platform.system() != "Darwin":
         return command
     sandbox_executable = Path("/usr/bin/sandbox-exec")
@@ -122,7 +130,13 @@ def _start_memory_monitor(
             observed = psutil.Process(process.pid)
             while not stop.wait(0.01):
                 try:
-                    rss = observed.memory_info().rss
+                    processes = [observed, *observed.children(recursive=True)]
+                    rss = 0
+                    for current in processes:
+                        try:
+                            rss += current.memory_info().rss
+                        except (psutil.NoSuchProcess, psutil.ZombieProcess):
+                            continue
                 except (psutil.NoSuchProcess, psutil.ZombieProcess):
                     return
                 if rss > M7_LIMITS_V1.memory_bytes:

@@ -1123,7 +1123,8 @@ Batch 1.
 ### Consequences
 
 - TASK-070 and TASK-073 are complete.
-- TASK-071, TASK-072, TASK-074, and TASK-075 remain deferred.
+- At this decision boundary TASK-071, TASK-072, TASK-074, and TASK-075 remained
+  deferred; ADR-038, ADR-039, and ADR-055 later completed them.
 - Static policy remains a pre-filter and is not the production isolation
   boundary.
 - TASK-067 remains `BLOCKED_BY_M7_EXECUTION_BOUNDARY` until the TASK-071
@@ -1161,7 +1162,8 @@ including binding values or worker stderr.
   completed under ADR-040.
 - Process separation is not the final production sandbox boundary.
 - Runtime resource enforcement remains TASK-072, abuse testing remains
-  TASK-074, and final sandbox-technology selection remains TASK-075.
+  TASK-074, and final sandbox-technology selection remained TASK-075 until
+  ADR-055.
 - `GPU_PRODUCTION_VALIDATION_PENDING` is unchanged.
 
 ---
@@ -1193,11 +1195,11 @@ execution request and do not add arbitrary Python or a new DSL operation.
 ### Consequences
 
 - TASK-072 and TASK-074 are complete.
-- TASK-075 remains pending: this decision does not select final production
-  container, syscall isolation, or microVM infrastructure.
+- At this decision boundary TASK-075 remained pending; ADR-055 later selected
+  the final production infrastructure.
 - Non-Darwin native filesystem/network isolation, RSS-monitor deployment
-  dependency, and production concurrency/load calibration remain residual
-  evidence for TASK-075.
+  behavior, and production concurrency/load calibration remained residual
+  TASK-075 inputs; ADR-055 later fixes the native profile and rollout gate.
 - TASK-067 was implementable at this boundary and was later completed under
   ADR-040.
 - `GPU_PRODUCTION_VALIDATION_PENDING` is unchanged.
@@ -1236,8 +1238,8 @@ unsupported ratio, division by zero, and scale conversion.
   evidence end-to-end evaluation remains a separate boundary under ADR-013.
 - The evaluator introduces no new DSL form, formula, retrieval path, model
   call, or production execution behavior.
-- TASK-075 remains the only pending M7 deployment decision and is not started
-  by this work.
+- At this decision boundary TASK-075 remained the only pending M7 deployment
+  decision; ADR-055 later completed it.
 - `GPU_PRODUCTION_VALIDATION_PENDING` is unchanged.
 
 ---
@@ -1451,7 +1453,8 @@ Providing source-backed provenance remains an upstream requirement.
 - TASK-090 is complete; TASK-091 through TASK-099 remain pending.
 - Batch 1 is CPU-testable and requires no graph run, model call, retrieval
   backend, or production GPU artifact.
-- TASK-075 remains deferred.
+- TASK-075 remained deferred at this decision boundary and was later completed
+  by ADR-055.
 - `GPU_PRODUCTION_VALIDATION_PENDING` is unchanged.
 
 ---
@@ -1485,8 +1488,8 @@ reused unchanged.
   never creates a retry directive.
 - Fixture adapters may supply real source-backed `table_class`; the production
   source path still cannot, so that path remains blocked upstream.
-- TASK-075 remains deferred and `GPU_PRODUCTION_VALIDATION_PENDING` is
-  unchanged.
+- TASK-075 remained deferred at this decision boundary and was later completed
+  by ADR-055. `GPU_PRODUCTION_VALIDATION_PENDING` is unchanged.
 
 ---
 
@@ -1536,8 +1539,8 @@ conversion, or formula recomputation.
 - TASK-098 and TASK-099 remain pending.
 - Production source-backed `table_class` remains unavailable and is never
   inferred by M9.
-- TASK-075 remains deferred and `GPU_PRODUCTION_VALIDATION_PENDING` is
-  unchanged.
+- TASK-075 remained deferred at this decision boundary and was later completed
+  by ADR-055. `GPU_PRODUCTION_VALIDATION_PENDING` is unchanged.
 
 ---
 
@@ -1575,7 +1578,8 @@ source-backed `table_class`; no Plan-derived inference is permitted.
 - Production retrieved-evidence TABLE validation remains blocked upstream.
 - Orchestration naming cleanup may now be planned as a separate compatibility
   change, but is not part of Batch 4.
-- TASK-075 remains deferred. `GPU_PRODUCTION_VALIDATION_PENDING` and
+- TASK-075 remained deferred at this decision boundary and was later completed
+  by ADR-055. `GPU_PRODUCTION_VALIDATION_PENDING` and
   `PRODUCTION_TABLE_CLASS_PROVENANCE_PENDING` remain active.
 
 ---
@@ -1694,7 +1698,8 @@ ADR-010/030): CHEAP requests hit the `qwen3-8b` endpoint, STRONG requests hit
   started here.
 - The thin OpenAI-compatible serving-client contract is specified but not
   implemented; provider/model names remain configurable, never hardwired.
-- TASK-075 remains deferred; `PRODUCTION_TABLE_CLASS_PROVENANCE_PENDING` and
+- TASK-075 remained deferred at this decision boundary and was later completed
+  by ADR-055; `PRODUCTION_TABLE_CLASS_PROVENANCE_PENDING` and
   `GPU_PRODUCTION_VALIDATION_PENDING` remain active — this ADR runs no GPU and
   validates no production latency/throughput.
 
@@ -1745,8 +1750,9 @@ arithmetic, ranking, or model weights.
   normalization or scoring math.
 - Live-GPU throughput/latency/index-parity validation and the `HttpTransport`
   path remain `GPU_PRODUCTION_VALIDATION_PENDING`; no model is deployed.
-- TASK-075 remains deferred and `PRODUCTION_TABLE_CLASS_PROVENANCE_PENDING`
-  remains active. The next M10 batch owns cost/token dashboards, throughput/load
+- TASK-075 remained deferred at this decision boundary and was later completed
+  by ADR-055. `PRODUCTION_TABLE_CLASS_PROVENANCE_PENDING` remained active. The
+  next M10 batch owns cost/token dashboards, throughput/load
   tests, and coordination-failure logging (TASK-110–112).
 
 ---
@@ -1794,7 +1800,8 @@ routing source of truth, weakening grounding, or fabricating measurements.
   deterministic fixture evaluations.
 - TASK-104 (parallel verifier checks) remains open; the next M10 batch owns
   TASK-104, TASK-106, and the TASK-110–112 dashboards/load/coordination work.
-- TASK-075 remains deferred; `PRODUCTION_TABLE_CLASS_PROVENANCE_PENDING` and
+- TASK-075 remained deferred at this decision boundary and was later completed
+  by ADR-055; `PRODUCTION_TABLE_CLASS_PROVENANCE_PENDING` and
   `GPU_PRODUCTION_VALIDATION_PENDING` remain active.
 
 ---
@@ -1839,7 +1846,8 @@ as a live production number.
 - TASK-104 (parallel verifier checks) is the only remaining M10 implementation
   task; the remaining M10 work is otherwise the live GPU production-validation
   run, which is not started here.
-- TASK-075 remains deferred; `PRODUCTION_TABLE_CLASS_PROVENANCE_PENDING` and
+- TASK-075 remained deferred at this decision boundary and was later completed
+  by ADR-055; `PRODUCTION_TABLE_CLASS_PROVENANCE_PENDING` and
   `GPU_PRODUCTION_VALIDATION_PENDING` remain active.
 
 ---
@@ -1906,13 +1914,15 @@ logic are unchanged.
 - `PRODUCTION_TABLE_CLASS_PROVENANCE_PENDING` is **not** cleared: it requires a
   real full-corpus source-backed integration audit, which the CPU-only
   development host cannot run.
-- TASK-075 remains deferred and `GPU_PRODUCTION_VALIDATION_PENDING` is unchanged.
+- TASK-075 remained deferred at this decision boundary and was later completed
+  by ADR-055. `GPU_PRODUCTION_VALIDATION_PENDING` is unchanged.
 
 ---
 
 ## ADR-054 — Clear TableClass production provenance only through an exact real-corpus audit
 
-**Status:** Accepted (audit tooling complete; production run pending)
+**Status:** Accepted (audit tooling complete; production run PASSED —
+`PRODUCTION_TABLE_CLASS_PROVENANCE_PENDING` cleared)
 
 ### Decision
 
@@ -1939,12 +1949,149 @@ metric/content/fuzzy/LLM classifier is introduced.
 ### Consequences
 
 - Fixture tests can prove audit behavior but cannot clear the production flag.
-- `PRODUCTION_TABLE_CLASS_PROVENANCE_PENDING` remains active until the CLI is
-  run against the approved canonical full M2 corpus, exact raw source, and
-  matching sidecar and returns `status: PASS` with exit code zero.
 - A compatibility mismatch or corruption returns `status: BLOCKED` and a
   non-zero exit; the audit never degrades to a partial or heuristic result.
-- TASK-075 and `GPU_PRODUCTION_VALIDATION_PENDING` are unchanged.
+- TASK-075 was later completed by ADR-055.
+  `GPU_PRODUCTION_VALIDATION_PENDING` is unchanged.
+
+### Production run — flag cleared
+
+The audit CLI was run on the approved canonical inputs and returned exit code 0
+with `status: PASS`, `blockers: []`, so
+`PRODUCTION_TABLE_CLASS_PROVENANCE_PENDING` is **cleared**.
+
+- corpus artifact id
+  `4f39603a89e213129de6c57e1234456e88086832c8b61bd9821770d76a6dc78e`
+  (`corpus_id` `ViFinQA`, `artifact_status` `COMMITTED`); corpus fingerprint
+  `9ea9e073a8aff69e48ae9b258a2bd657cd5194a52de9742e89f5bdb8d17f61c9`; corpus
+  manifest sha256
+  `68de4553a91296fb9fe5bea82a5672b1013febea2769824ee8a71329f0448c97`
+- table-class sidecar artifact id
+  `86d718489f1c5aa455876cbb0bc28c72169ae610f753442f51adab714ad57de8`
+  (`m2-table-class-sidecar-v1`; registry `m2-table-class-registry-v1`; registry
+  fingerprint
+  `ea871c01ce8d0cf82d723217027afb369824515f42d68fbc1b63526a50f4a7c0`), exactly
+  bound to the corpus artifact above
+- raw corpus root `~/Documents/data/ViFinQA/financial_statements`
+- 1973 reports; 146246 canonical tables; 0 unparseable; 54173 source-backed
+  classifications (coverage 0.3704 — BALANCE_SHEET 4789, INCOME_STATEMENT 2982,
+  CASH_FLOW_STATEMENT 2132, NOTES 44270); 0 orphan / 0 duplicate / 0 conflicting
+  mappings; 0 invalid source spans; 0 source-span round-trip failures; 0
+  source-supported hint mismatches; 0 corpus/source table mismatches
+- production `EvidenceProvenanceRepository -> locate_cells` evidence path: PASS
+  for all four `TableClass` values and for the unclassified-stays-`None` check
+- the 92073 unmatched or ambiguous/conflicting tables remain valid `None`
+  cases; ADR-054 defines no minimum coverage and this run does not change that
+
+---
+
+## ADR-055 — Use the existing one-shot DSL worker with NsJail on Linux production
+
+**Status:** Accepted (TASK-075 complete)
+
+### Context
+
+M7 executes a closed deterministic DSL, not arbitrary generated Python or
+user-supplied code. The only operations are `IDENTITY`, `COLLECT`, and
+registered `GROWTH_RATE` / `AVERAGE` formula dispatch. Parent and worker both
+validate the request, and M7 already has exact Decimal, protocol, timeout,
+resource, and failure contracts.
+
+M7 Batch 3 still left one production decision open. Darwin had an additive host
+sandbox, while Linux needed a fail-closed native namespace/seccomp boundary.
+The selected technology must preserve the current one-worker-per-request
+lifecycle and the `SandboxExecutionRequest -> ExecutionResult` contract.
+
+### Decision
+
+Use the existing one-shot OS process with **NsJail** as the v1 Linux production
+isolation technology. NsJail supplies user/mount/PID/network/IPC/UTS/cgroup
+namespaces, seccomp-bpf, capability drop, `no_new_privs`, read-only mount
+construction, and cgroup v2 limits around the already-trusted worker. The
+existing parent RSS/wall monitor, worker rlimits, cleared environment, audit
+guard, Decimal policy, and 1 MiB canonical JSON protocol remain mandatory.
+
+Production is explicitly enabled with
+`M7_SANDBOX_ISOLATION=linux-nsjail-v1`. The launcher is Linux-only and never
+falls back. It requires the fixed `/opt/ai-financial` application layout,
+root-owned non-writable launcher/config/policy files, and exact approved config
+and seccomp-policy fingerprints. The canonical files are
+`deploy/sandbox/m7-nsjail.cfg` and
+`deploy/sandbox/m7-seccomp.policy`.
+
+The production jail exposes only read-only Python runtime and application-code
+mounts. It exposes no host root, report corpus, credentials, writable mount,
+`/proc`, network interface, or runtime socket. Trusted Python startup reads the
+runtime/code mounts; after worker preload and revalidation, the existing audit
+guard denies all later filesystem reads/writes, sockets, and process spawning.
+
+The exact `m7-limits-v1` contract does not change: 1,500 ms wall, CPU 1/2
+seconds soft/hard, RSS 256 MiB, one jailed process, 32 descriptors, zero-byte
+file creation, and 1 MiB request/response limits. NsJail/cgroup limits are
+additive outer stops and cannot relax those values.
+
+### Alternatives
+
+- **Standard container as the per-request sandbox:** rejected for v1 because it
+  adds container startup or a new pooled/service lifecycle. A hardened
+  container remains approved as packaging around the NsJail parent.
+- **gVisor:** stronger host-kernel isolation and OCI integration, but adds a new
+  runtime class and syscall/filesystem overhead intended for untrusted-code or
+  stronger multi-tenant boundaries. Deferred until the documented triggers.
+- **MicroVM / Firecracker:** strongest tenant boundary of the considered
+  options, but requires KVM, guest images/kernel patching, a jailer, transport,
+  pooling/capacity, and additional observability. It is disproportionate for a
+  closed DSL with no arbitrary-code surface.
+
+NsJail is a shared-kernel boundary, so it is not equivalent to gVisor or a VM.
+That residual risk is accepted only for the current closed, validated,
+non-callable DSL.
+
+### Failure and telemetry policy
+
+Setup/profile/fingerprint failures map to
+`SECURITY/ISOLATION_SETUP_FAILED`; existing worker audit denials remain typed
+`SECURITY`; exact resource violations remain `RESOURCE`; and unattributable
+abnormal jail/worker exits remain fail-closed `INFRASTRUCTURE`. No failure may
+carry partial output.
+
+Operational telemetry records isolation mode, policy fingerprints, startup and
+execution latency, exit/failure stage/code, and wall/RSS kills. It must not log
+bindings, request values, protocol payloads, worker stderr, corpus data, or
+secrets, and it does not enter deterministic contracts/checkpoints.
+
+Every production Linux image/host must pass the actual M7 abuse probes through
+the installed NsJail profile and a cold-start/target-concurrency latency run
+before rollout. This host conformance gate cannot weaken the 1,500 ms wall
+limit.
+
+### Migration triggers
+
+Re-evaluate gVisor first and MicroVM/Firecracker for a required VM-grade tenant
+boundary if arbitrary/user Python, third-party binaries, native extensions, or
+a broader callable DSL are introduced; mutually untrusted tenants share a
+host; compliance requires host-kernel separation; the seccomp/mount surface
+must broaden materially; a real escape/data exposure invalidates the threat
+model; or measured stronger-runtime cost/latency fits the product SLO.
+
+### Consequences
+
+- TASK-075 is complete; TASK-070 through TASK-075 now form the complete M7 v1
+  implementation/production-boundary decision.
+- `SandboxExecutionRequest`, `ExecutionResult`, M9 `SandboxStagePort`, DSL,
+  Decimal semantics, M8/M9 behavior, and all exact limits are unchanged.
+- Local Darwin behavior remains the existing `sandbox-exec` development/test
+  boundary. Local Linux without the explicit production mode remains
+  development-only and is not production-approved.
+- Linux host/image conformance and target-load measurements remain rollout
+  evidence; they are not GPU retrieval/model validation and do not clear
+  `GPU_PRODUCTION_VALIDATION_PENDING`.
+
+Reference basis: the official
+[NsJail documentation](https://github.com/google/nsjail),
+[gVisor architecture and production guidance](https://gvisor.dev/docs/),
+[Firecracker production host guidance](https://github.com/firecracker-microvm/firecracker/blob/main/docs/prod-host-setup.md),
+and [Docker seccomp guidance](https://docs.docker.com/engine/security/seccomp/).
 
 ---
 
@@ -1960,7 +2107,6 @@ The provided source materials do not fully specify the following. Do not silentl
 - authoritative financial-metric vocabulary, synonym source, and storage mechanism,
 - requested currency/unit vocabulary beyond TASK-017 v1 scale expressions,
 - exact production accuracy/latency/cost thresholds,
-- exact sandbox technology,
 - exact deployment topology,
 - handling of `aggregated`, generic, explanatory, and unlabeled reports through statement-scope mapping or abstention behavior.
 

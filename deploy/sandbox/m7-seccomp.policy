@@ -1,0 +1,60 @@
+# NsJail applies this defense-in-depth filter before the fixed Python worker is
+# executed. execve must remain available for that one initial transition. The
+# worker then clears its environment and installs the existing Python audit
+# guard, while the closed DSL exposes no callable or source-code surface.
+
+ERRNO(1) {
+  accept,
+  accept4,
+  bind,
+  connect,
+  getpeername,
+  getsockname,
+  getsockopt,
+  listen,
+  recvfrom,
+  recvmmsg,
+  recvmsg,
+  sendmmsg,
+  sendmsg,
+  sendto,
+  setsockopt,
+  shutdown,
+  socket,
+  socketpair
+}
+
+ERRNO(1) {
+  clone,
+  clone3,
+  execveat,
+  fork ON x86_64,
+  vfork ON x86_64
+}
+
+ERRNO(1) {
+  add_key,
+  bpf,
+  chroot,
+  delete_module,
+  finit_module,
+  init_module,
+  io_uring_setup,
+  kexec_load,
+  keyctl,
+  mount,
+  open_by_handle_at,
+  perf_event_open,
+  pivot_root,
+  ptrace,
+  reboot,
+  request_key,
+  setns,
+  swapoff,
+  swapon,
+  umount2,
+  unshare,
+  userfaultfd
+}
+
+DEFAULT ALLOW

@@ -1329,6 +1329,23 @@ to clear `PRODUCTION_TABLE_CLASS_PROVENANCE_PENDING` only when the operator has
 run it on the approved canonical full M2 production corpus and its matching raw
 source and sidecar. Fixture PASS results never clear the production flag.
 
+`PRODUCTION_TABLE_CLASS_PROVENANCE_PENDING` is now **cleared**. The audit CLI
+returned exit code 0 and `status: PASS` with `blockers: []` against the approved
+canonical inputs: committed M2 corpus artifact
+`4f39603a89e213129de6c57e1234456e88086832c8b61bd9821770d76a6dc78e`
+(`corpus_id` `ViFinQA`, corpus fingerprint
+`9ea9e073a8aff69e48ae9b258a2bd657cd5194a52de9742e89f5bdb8d17f61c9`),
+sidecar artifact
+`86d718489f1c5aa455876cbb0bc28c72169ae610f753442f51adab714ad57de8`
+(`m2-table-class-sidecar-v1`, registry fingerprint
+`ea871c01ce8d0cf82d723217027afb369824515f42d68fbc1b63526a50f4a7c0`), and raw
+corpus root `~/Documents/data/ViFinQA/financial_statements`. Run totals: 1973
+reports, 146246 canonical tables, 0 unparseable, 54173 source-backed
+classifications (coverage 0.3704; BALANCE_SHEET 4789, INCOME_STATEMENT 2982,
+CASH_FLOW_STATEMENT 2132, NOTES 44270), all integrity/mapping/span/round-trip
+counts zero, and every `locate_cells` evidence-path check PASS. The 92073
+unmatched or ambiguous/conflicting tables remain valid `null` cases.
+
 ### Batch-2 lexical and dense search contracts
 
 TASK-031 indexes each `EmbeddingChunk` as one independent `RetrievalCandidate`
@@ -2024,13 +2041,11 @@ executes arbitrary Python or compiles model output to Python source.
 
 Language-level restrictions are a first filter, not the primary isolation boundary.
 
-Production execution should support process/OS isolation such as:
-
-- container isolation,
-- stronger syscall isolation (e.g. gVisor-style),
-- microVM isolation for higher security requirements.
-
-The final deployment choice is an infrastructure decision.
+TASK-075 selects a one-shot Linux OS-process boundary hardened with NsJail for
+v1 production. Containers remain deployment packaging; gVisor and MicroVMs are
+explicit migration options rather than mandatory v1 layers. This choice is
+specific to the closed trusted DSL described below and does not approve
+arbitrary Python or user code.
 
 ### Canonical M7 Batch 1 contracts
 
@@ -2185,10 +2200,136 @@ filesystem, network, process spawn, environment inheritance, invalid Program
 shape, and unknown formula. No probe is selectable from `SandboxExecutionRequest`
 and the production DSL remains unchanged.
 
-Batch 3 is not TASK-075. The Darwin policy and Python audit guard are current
-defense-in-depth for the trusted interpreter, not a final container/gVisor-like/
-microVM selection. Native non-Darwin filesystem/network isolation and production
-load calibration remain evidence required for TASK-075.
+Batch 3 did not select the final production technology. TASK-075 is completed
+by the Batch 4 boundary below.
+
+### Canonical M7 Batch 4 production isolation (TASK-075)
+
+#### Options considered
+
+Every option would execute the same closed deterministic DSL; none would be
+permitted to execute arbitrary user code.
+
+| Option | Security boundary | Startup / resource behavior | Operations / portability | Contract and migration impact | v1 result |
+|---|---|---|---|---|---|
+| Existing one-shot process + Linux namespaces/rlimits/seccomp | Shared host kernel, but narrow syscall, mount, network, identity, process, and resource surfaces | Lowest additional startup cost; keeps current per-request process and exact M7 limits | Linux-specific policy; simple on a dedicated sandbox worker image; native process observability | No request/result or M9 port change; smallest migration | **Selected**, implemented with NsJail |
+| Standard container isolation | Shared host kernel; namespace/cgroup/seccomp strength depends on the runtime profile | Per-request container startup or a new pooled/service lifecycle; container defaults do not preserve exact limits automatically | Strong OCI portability, but requires image/runtime/network policy operations | Contracts can be adapted, but current local worker becomes a container/service adapter | Not selected as the per-request boundary; permitted as outer packaging |
+| gVisor (`runsc`) | Userspace application kernel substantially reduces direct host-kernel exposure | Container-like startup and resource model; syscall/file I/O carries additional overhead | OCI/Kubernetes integration, new runtime class and production tuning | Contracts stay representable, but lifecycle, telemetry, image, and runtime integration change | Deferred until the migration triggers below |
+| MicroVM / Firecracker | Guest-kernel and hardware-virtualization boundary; strongest tenant separation of these options | Guest boot/rootfs/KVM lifecycle and higher fixed resource/operational cost, despite optimized startup | Linux/KVM hosts and specialized image, jailer, patching, snapshot, and capacity operations | Requires a new VM transport/pool and the highest migration cost | Deferred; disproportionate while no arbitrary code runs |
+
+The deciding fact is that the worker interprets only `IDENTITY`, `COLLECT`,
+`GROWTH_RATE`, and `AVERAGE` after two deterministic validations. It has no
+source-code, callable, import, network, filesystem, subprocess, or model
+surface. A VM-strength boundary is therefore not justified for v1.
+
+#### v1 boundary and Linux controls
+
+The production path remains:
+
+```text
+application / M9 SandboxStagePort
+  -> parent validation
+  -> pinned NsJail one-shot launcher
+  -> one fixed src.sandbox.worker process
+  -> worker revalidation + deterministic DSL interpretation
+  -> bounded canonical ExecutionResult
+  -> process exit
+```
+
+Production enables this path only with
+`M7_SANDBOX_ISOLATION=linux-nsjail-v1`. It is Linux-only and fail-closed; an
+unknown mode, non-Linux host, missing/tampered launcher policy, unexpected
+project location, or unavailable NsJail binary produces
+`SECURITY/ISOLATION_SETUP_FAILED`. There is no fallback to the local worker.
+The production image installs the application at `/opt/ai-financial`, the
+root-owned NsJail config at `/etc/ai-financial/m7-nsjail.cfg`, and a pinned
+NsJail binary at `/usr/local/bin/nsjail`. The config and seccomp policy hashes
+are validated before every dispatch.
+
+The required native controls are:
+
+- one-shot mode with new user, mount, PID, network, IPC, UTS, and cgroup
+  namespaces;
+- an unprivileged mapped worker identity, all capabilities dropped, and
+  `no_new_privs` enabled;
+- no loopback or external interface and a seccomp-bpf policy denying socket,
+  connection, process-creation, namespace, mount, tracing, module, BPF,
+  `io_uring`, and related high-risk syscalls;
+- a minimal read-only mount set containing only the Python runtime and the
+  application code; no host root, corpus, credentials, `/proc`, writable
+  filesystem, or container-runtime socket;
+- cgroup v2 memory and PID ceilings as an outer hard stop, plus the parent RSS
+  monitor (aggregated over the NsJail supervisor and child tree) and worker
+  rlimits;
+- the existing cleared environment and post-startup audit guard, which denies
+  all later filesystem reads/writes, sockets, and process spawning.
+
+The exact `m7-limits-v1` values remain unchanged: wall clock 1,500 ms; CPU
+soft/hard 1/2 seconds; RSS 256 MiB; one jailed process; 32 descriptors; zero
+created-file bytes; and 1 MiB request/response limits. NsJail's integer
+two-second wall/CPU limits are additive outer stops; the parent and worker keep
+the exact canonical limits.
+
+The DSL therefore has no filesystem or network access. Read-only runtime and
+application files are visible only during trusted Python startup; they contain
+no report data or secrets. After preload/revalidation, the worker audit guard
+closes that remaining language-level read surface. The network namespace has no
+usable interface and seccomp denies socket operations independently.
+
+#### Lifecycle, timeout, and failure mapping
+
+One request always creates one worker and one fresh process session. The parent
+sends one canonical payload, monitors it, accepts at most one canonical result,
+kills the complete process group on wall/RSS violation, and reaps the worker.
+No worker pool, cross-request state, writable layer, or request-selected probe
+exists.
+
+Failure mapping remains inside the existing `ExecutionResult` contract:
+
+- policy/Program/binding/conversion/arithmetic failures retain their existing
+  stages and codes;
+- wall, CPU, RSS, process, descriptor, file-size, and protocol-size violations
+  remain `RESOURCE`;
+- production launcher/config setup and worker audit denials are `SECURITY`;
+- an abnormal NsJail/worker exit, malformed protocol, or invalid result that
+  cannot be attributed safely remains fail-closed `INFRASTRUCTURE`;
+- no limit or isolation failure may return a partial success.
+
+#### Logging and telemetry
+
+Production telemetry must record request/attempt identity, isolation mode,
+approved config/policy fingerprints, worker startup and total execution
+latency, exit/failure stage and code, wall/RSS kills, and aggregate success/
+failure counts. It must not log the `BindingMap`, request values, canonical
+payload, worker stderr, report data, or secrets. The metrics are observational
+and do not enter `SandboxExecutionRequest`, `ExecutionResult`, M9 checkpoints,
+or deterministic evaluation output.
+
+Before rollout on each Linux host/image, operations must run the focused M7
+abuse suite through the installed NsJail profile and calibrate cold-start plus
+target-concurrency p50/p95/p99 against the 1,500 ms wall limit. This is a
+deployment conformance gate; failure blocks rollout and triggers profile/image
+tuning without weakening the canonical limits.
+
+#### Migration triggers
+
+Re-evaluate gVisor first, and MicroVM/Firecracker when a VM-grade tenant
+boundary is required, if any of these become true:
+
+- arbitrary Python, user-authored code, third-party binaries, native
+  extensions, or a broader callable DSL is introduced;
+- mutually untrusted tenants share a sandbox host or a compliance/risk review
+  requires isolation from host-kernel vulnerabilities;
+- the required seccomp/mount policy must become materially broader;
+- a real escape, cross-request data exposure, or repeated sandbox-relevant
+  kernel/runtime vulnerability invalidates the v1 threat model;
+- measured gVisor/MicroVM latency and cost fit the product SLO and justify the
+  stronger boundary.
+
+Contract compatibility alone is not a migration blocker: the same bounded
+canonical request/result protocol can cross a container, gVisor, or MicroVM
+adapter. The migration cost is deployment lifecycle, image/rootfs management,
+transport, observability, and capacity—not M7 arithmetic or DSL semantics.
 
 ## 4.11 Verification Layer
 
@@ -2614,7 +2755,8 @@ Real source-backed `CellLocation.table_class` provenance is currently
 unavailable. This remains an upstream requirement. M9 must preserve a supplied
 value or absence exactly and must not infer it from Plan or metric mappings.
 
-TASK-075 remains deferred. `GPU_PRODUCTION_VALIDATION_PENDING` is unchanged.
+At this batch boundary TASK-075 remained deferred; it was later completed by
+ADR-055. `GPU_PRODUCTION_VALIDATION_PENDING` is unchanged.
 
 ### M9 Batch 2 straight-through graph
 
@@ -2661,7 +2803,8 @@ verifier. A failed VerificationReport is stored unchanged. Batch 2 stops at
 the first native typed failure or at one successful VerificationReport and
 does not emit retry/execution directives, a final response, or answer data.
 
-TASK-075 remains deferred. `GPU_PRODUCTION_VALIDATION_PENDING` is unchanged.
+At this batch boundary TASK-075 remained deferred; it was later completed by
+ADR-055. `GPU_PRODUCTION_VALIDATION_PENDING` is unchanged.
 
 ### M9 Batch 3 bounded retry and terminal graph
 
@@ -2714,7 +2857,8 @@ ports without a production LLM, GPU, vector artifact, or network dependency.
 
 At the Batch 3 boundary, TASK-098 and TASK-099 remained pending. Source-backed production
 `CellLocation.table_class` remains unavailable; fixture adapters may supply it
-explicitly, and M9 never infers it. TASK-075 remains deferred and
+explicitly, and M9 never infers it. At this batch boundary TASK-075 remained
+deferred; it was later completed by ADR-055, and
 `GPU_PRODUCTION_VALIDATION_PENDING` is unchanged.
 
 ### M9 Batch 4 retrieved-evidence evaluation and terminal attribution
@@ -2756,7 +2900,8 @@ The M9 checkpoint schema advances to `m9-orchestration-state-v2` for the added
 attribution identifier fields. Deserialization accepts v1 checkpoints and
 migrates absent identifier lists to empty v2 lists. TASK-090 through TASK-099 are now implemented,
 but real production TABLE E2E remains blocked on upstream source-backed
-`table_class`. TASK-075 remains deferred; `GPU_PRODUCTION_VALIDATION_PENDING`
+`table_class`. At this batch boundary TASK-075 remained deferred; it was later
+completed by ADR-055. `GPU_PRODUCTION_VALIDATION_PENDING`
 and `PRODUCTION_TABLE_CLASS_PROVENANCE_PENDING` remain active.
 
 ## 4.13 Answer Builder
