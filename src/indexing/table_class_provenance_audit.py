@@ -10,6 +10,7 @@ from __future__ import annotations
 
 import argparse
 from collections import Counter, defaultdict
+from concurrent.futures import ProcessPoolExecutor
 from dataclasses import dataclass
 import json
 from pathlib import Path
@@ -238,12 +239,132 @@ def _integration_audit(
     }
 
 
+@dataclass(frozen=True)
+class _ReportAuditTask:
+    """Serializable unit of per-report work handed to a (possibly remote) worker."""
+
+    raw_corpus_root: str
+    corpus_id: str
+    report: Dict[str, Any]
+    report_rows: Tuple[_StoredRow, ...]
+
+
+def _audit_report_source(task: _ReportAuditTask) -> Dict[str, Any]:
+    """Replay the deterministic source-only audit for exactly one report.
+
+    Runs in the parent (``--workers 1``) or in a ``ProcessPoolExecutor`` worker.
+    It reads only raw source text and the passed-in sidecar rows: it opens no
+    SQLite database, writes nothing, and mutates no artifact.  Hard failures
+    that the sequential audit would ``raise`` are returned as ``error`` so the
+    parent can re-raise them in deterministic manifest order.  The returned
+    payload is composed of plain str/int/list/dict values only.
+    """
+
+    registry_by_id = {entry.entry_id: entry for entry in TABLE_CLASS_REGISTRY}
+    result: Dict[str, Any] = {
+        "error": None,
+        "source_table_keys": [],
+        "expected_hints": [],
+        "ambiguous_conflict_keys": [],
+        "source_no_match_keys": [],
+        "unparseable_table_count": 0,
+        "invalid_spans": [],
+        "span_round_trip_failures": [],
+        "registry_source_failures": [],
+    }
+
+    try:
+        source = _source_from_inventory(
+            Path(task.raw_corpus_root), task.corpus_id, task.report
+        )
+        document = parse_document(source)
+    except ProvenanceSidecarError as error:
+        result["error"] = [error.code, str(error)]
+        return result
+    except SchemaValidationError:
+        result["error"] = ["SOURCE_PARSE_FAILED", str(task.report.get("source_ref"))]
+        return result
+
+    for page in document.pages:
+        for table in page.tables:
+            if table.parse_status is TableParseStatus.UNPARSEABLE:
+                result["unparseable_table_count"] += 1
+                continue
+            key = [source.report_id, page.page_id, table.table_id]
+            result["source_table_keys"].append(key)
+            start, end = _preceding_window_bounds(page, table)
+            matches = _match_entries(source.raw_text, start, end) if end > start else []
+            distinct_classes = {match.entry.table_class for match in matches}
+            if not matches:
+                result["source_no_match_keys"].append(key)
+            elif len(distinct_classes) > 1:
+                result["ambiguous_conflict_keys"].append(key)
+            else:
+                hint = classify_table(source.report_id, source.raw_text, page, table)
+                if hint is None:
+                    result["error"] = [
+                        "CLASSIFIER_AUDIT_INCONSISTENT",
+                        repr((source.report_id, page.page_id, table.table_id)),
+                    ]
+                    return result
+                result["expected_hints"].append([key, hint.to_dict()])
+
+    for row in task.report_rows:
+        label = str(row.hint_id)
+        if (
+            isinstance(row.span_start, bool)
+            or not isinstance(row.span_start, int)
+            or isinstance(row.span_end, bool)
+            or not isinstance(row.span_end, int)
+            or row.span_start < 0
+            or row.span_end <= row.span_start
+            or row.span_end > len(source.raw_text)
+        ):
+            result["invalid_spans"].append(label)
+            continue
+        raw_slice = source.raw_text[row.span_start : row.span_end]
+        if not isinstance(row.matched_text, str) or raw_slice != row.matched_text:
+            result["span_round_trip_failures"].append(label)
+        hint = row.hint
+        if hint is None:
+            continue
+        entry = registry_by_id.get(hint.registry_entry_id)
+        if (
+            entry is None
+            or entry.table_class is not hint.table_class
+            or entry.search(_nfkc(raw_slice)) is None
+        ):
+            result["registry_source_failures"].append(hint.hint_id)
+
+    return result
+
+
+def _run_report_audits(
+    tasks: Sequence[_ReportAuditTask], workers: int
+) -> List[Dict[str, Any]]:
+    """Fan ``_audit_report_source`` over ``tasks``, preserving input order."""
+
+    if workers <= 1 or len(tasks) <= 1:
+        return [_audit_report_source(task) for task in tasks]
+    with ProcessPoolExecutor(max_workers=min(workers, len(tasks))) as executor:
+        return list(executor.map(_audit_report_source, tasks))
+
+
 def audit_table_class_provenance(
     corpus_artifact_root: str | Path,
     table_class_sidecar_root: str | Path,
     raw_corpus_root: str | Path,
+    *,
+    workers: int = 1,
 ) -> Dict[str, Any]:
-    """Audit one exact corpus/sidecar/source triplet and return canonical JSON data."""
+    """Audit one exact corpus/sidecar/source triplet and return canonical JSON data.
+
+    ``workers`` only parallelises the per-report source replay across processes;
+    it never changes PASS/BLOCKED criteria, blocker codes, counts, or output.
+    """
+
+    if not isinstance(workers, int) or isinstance(workers, bool) or workers < 1:
+        raise ValueError("workers must be an integer >= 1")
 
     try:
         corpus = _validate_input_manifest(corpus_artifact_root, verify_hashes=True)
@@ -343,66 +464,37 @@ def audit_table_class_provenance(
     ambiguous_conflict_keys: List[TableKey] = []
     source_no_match_keys: List[TableKey] = []
     unparseable_table_count = 0
-    registry_by_id = {entry.entry_id: entry for entry in TABLE_CLASS_REGISTRY}
 
-    for report in corpus.manifest["reports"]:
-        try:
-            source = _source_from_inventory(Path(raw_corpus_root), corpus.corpus_id, report)
-            document = parse_document(source)
-        except ProvenanceSidecarError as error:
-            raise TableClassProvenanceAuditError(error.code, str(error)) from error
-        except SchemaValidationError as error:
-            raise TableClassProvenanceAuditError(
-                "SOURCE_PARSE_FAILED", str(report.get("source_ref"))
-            ) from error
-        for page in document.pages:
-            for table in page.tables:
-                if table.parse_status is TableParseStatus.UNPARSEABLE:
-                    unparseable_table_count += 1
-                    continue
-                key = (source.report_id, page.page_id, table.table_id)
-                source_table_keys.add(key)
-                start, end = _preceding_window_bounds(page, table)
-                matches = _match_entries(source.raw_text, start, end) if end > start else []
-                distinct_classes = {match.entry.table_class for match in matches}
-                if not matches:
-                    source_no_match_keys.append(key)
-                elif len(distinct_classes) > 1:
-                    ambiguous_conflict_keys.append(key)
-                else:
-                    hint = classify_table(source.report_id, source.raw_text, page, table)
-                    if hint is None:
-                        raise TableClassProvenanceAuditError(
-                            "CLASSIFIER_AUDIT_INCONSISTENT", repr(key)
-                        )
-                    expected_hints[key] = hint
-
-        for row in rows_by_report.get(source.report_id, []):
-            label = str(row.hint_id)
-            if (
-                isinstance(row.span_start, bool)
-                or not isinstance(row.span_start, int)
-                or isinstance(row.span_end, bool)
-                or not isinstance(row.span_end, int)
-                or row.span_start < 0
-                or row.span_end <= row.span_start
-                or row.span_end > len(source.raw_text)
-            ):
-                invalid_spans.append(label)
-                continue
-            raw_slice = source.raw_text[row.span_start : row.span_end]
-            if not isinstance(row.matched_text, str) or raw_slice != row.matched_text:
-                span_round_trip_failures.append(label)
-            hint = row.hint
-            if hint is None:
-                continue
-            entry = registry_by_id.get(hint.registry_entry_id)
-            if (
-                entry is None
-                or entry.table_class is not hint.table_class
-                or entry.search(_nfkc(raw_slice)) is None
-            ):
-                registry_source_failures.append(hint.hint_id)
+    tasks = [
+        _ReportAuditTask(
+            raw_corpus_root=str(raw_corpus_root),
+            corpus_id=corpus.corpus_id,
+            report=report,
+            report_rows=tuple(rows_by_report.get(report.get("report_id"), [])),
+        )
+        for report in corpus.manifest["reports"]
+    ]
+    # Per-report source replay is independent; the parent still owns aggregation,
+    # the SQLite/integration audit, final validation, and output.  Results are
+    # consumed in manifest order so a hard failure re-raises the same code the
+    # sequential audit would have raised first.
+    for report_result in _run_report_audits(tasks, workers):
+        if report_result["error"] is not None:
+            code, message = report_result["error"]
+            raise TableClassProvenanceAuditError(code, message)
+        source_table_keys.update(tuple(key) for key in report_result["source_table_keys"])
+        for key, hint_payload in report_result["expected_hints"]:
+            expected_hints[tuple(key)] = TableClassHint.from_dict(hint_payload)
+        ambiguous_conflict_keys.extend(
+            tuple(key) for key in report_result["ambiguous_conflict_keys"]
+        )
+        source_no_match_keys.extend(
+            tuple(key) for key in report_result["source_no_match_keys"]
+        )
+        unparseable_table_count += report_result["unparseable_table_count"]
+        invalid_spans.extend(report_result["invalid_spans"])
+        span_round_trip_failures.extend(report_result["span_round_trip_failures"])
+        registry_source_failures.extend(report_result["registry_source_failures"])
 
     stored_string_keys = {
         (row.report_id, row.page_id, row.table_id)
@@ -567,12 +659,24 @@ def main(argv: Optional[Sequence[str]] = None) -> int:
     parser.add_argument("--corpus-artifact", required=True)
     parser.add_argument("--table-class-sidecar", required=True)
     parser.add_argument("--raw-corpus-root", required=True)
+    parser.add_argument(
+        "--workers",
+        type=int,
+        default=1,
+        help=(
+            "Processes for the per-report source replay (default 1). "
+            "Higher values only speed up the audit; results are identical."
+        ),
+    )
     arguments = parser.parse_args(argv)
+    if arguments.workers < 1:
+        parser.error("--workers must be >= 1")
     try:
         report = audit_table_class_provenance(
             arguments.corpus_artifact,
             arguments.table_class_sidecar,
             arguments.raw_corpus_root,
+            workers=arguments.workers,
         )
     except TableClassProvenanceAuditError as error:
         print(json.dumps(_hard_failure_payload(error), ensure_ascii=False, sort_keys=True))

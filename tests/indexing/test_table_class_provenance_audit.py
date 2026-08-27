@@ -57,6 +57,42 @@ class TableClassProvenanceAuditTests(unittest.TestCase):
         build_table_class_sidecar(corpus, raw_root, sidecar)
         return raw_root, corpus, sidecar
 
+    def _build_many(self, root: Path, bodies: dict[str, str]):
+        """Build a corpus + sidecar spanning several reports (one per ticker)."""
+
+        raw_root = root / "financial_statements"
+        for ticker, body in bodies.items():
+            report = (
+                raw_root
+                / ticker
+                / "2024"
+                / f"{ticker}_financial_statements_2024_consolidated"
+            )
+            report.mkdir(parents=True)
+            (report / f"{ticker}_financial_statements_2024_consolidated_extracted.txt").write_text(
+                f"===== PAGE 1 =====\n{body}\n", encoding="utf-8"
+            )
+        metadata = root / "code_stock.csv"
+        metadata.write_text(
+            "Mã CK,Tên công ty\n"
+            + "".join(f"{ticker},{ticker} Company\n" for ticker in bodies),
+            encoding="utf-8",
+        )
+        with patch(
+            "src.indexing.corpus_artifact.load_bge_m3_tokenizer",
+            return_value=CharTokenizer(),
+        ):
+            corpus = build_corpus_artifact(
+                raw_root,
+                root / "m2-corpus",
+                company_metadata=metadata,
+                max_records_per_shard=2,
+                max_shard_bytes=100_000,
+            )
+        sidecar = root / "m2-table-class"
+        build_table_class_sidecar(corpus, raw_root, sidecar)
+        return raw_root, corpus, sidecar
+
     def _refresh_database_manifest(self, sidecar: Path, *, hint_count: int | None = None):
         manifest_path = sidecar / "manifest.json"
         manifest = json.loads(manifest_path.read_text(encoding="utf-8"))
@@ -244,6 +280,175 @@ class TableClassProvenanceAuditTests(unittest.TestCase):
         self.assertEqual(payload["status"], "BLOCKED")
         self.assertEqual(payload["production_flag_clearance"], "BLOCKED")
         self.assertEqual(payload["error"]["code"], "SIDECAR_CORPUS_MISMATCH")
+
+    def _many_corpus(self, root: Path):
+        return self._build_many(
+            root,
+            {
+                "AAA": f"BẢNG CÂN ĐỐI KẾ TOÁN\n{_TABLE}\nKhông có tiêu đề\n{_TABLE}",
+                "BBB": f"BÁO CÁO KẾT QUẢ HOẠT ĐỘNG KINH DOANH\n{_TABLE}",
+                "CCC": f"BÁO CÁO LƯU CHUYỂN TIỀN TỆ\n{_TABLE}",
+                "DDD": f"THUYẾT MINH BÁO CÁO TÀI CHÍNH\n{_TABLE}",
+                "EEE": f"BÁO CÁO KẾT QUẢ HOẠT ĐỘNG KINH DOANH\nMẫu số B02-DN\n"
+                f"BẢNG CÂN ĐỐI KẾ TOÁN\n{_TABLE}",
+            },
+        )
+
+    def test_workers_one_matches_current_behavior(self):
+        with tempfile.TemporaryDirectory() as temporary:
+            root = Path(temporary)
+            raw_root, corpus, sidecar = self._many_corpus(root)
+
+            default = audit_table_class_provenance(corpus, sidecar, raw_root)
+            explicit_one = audit_table_class_provenance(
+                corpus, sidecar, raw_root, workers=1
+            )
+
+        self.assertEqual(default["status"], "PASS")
+        self.assertEqual(default, explicit_one)
+
+    def test_workers_1_4_8_produce_identical_audit_results(self):
+        with tempfile.TemporaryDirectory() as temporary:
+            root = Path(temporary)
+            raw_root, corpus, sidecar = self._many_corpus(root)
+
+            reports = {
+                count: audit_table_class_provenance(
+                    corpus, sidecar, raw_root, workers=count
+                )
+                for count in (1, 2, 4, 8)
+            }
+
+        baseline = reports[1]
+        self.assertEqual(baseline["status"], "PASS")
+        self.assertEqual(baseline["total_reports"], 5)
+        self.assertGreater(baseline["total_classified_tables"], 1)
+        canonical = json.dumps(baseline, ensure_ascii=False, sort_keys=True)
+        for count, report in reports.items():
+            self.assertEqual(report, baseline, f"workers={count} diverged")
+            self.assertEqual(
+                json.dumps(report, ensure_ascii=False, sort_keys=True),
+                canonical,
+                f"workers={count} serialization diverged",
+            )
+
+    def test_parallel_preserves_deterministic_ordering_of_diagnostics(self):
+        with tempfile.TemporaryDirectory() as temporary:
+            root = Path(temporary)
+            raw_root, corpus, sidecar = self._many_corpus(root)
+
+            serial = audit_table_class_provenance(corpus, sidecar, raw_root, workers=1)
+            parallel_a = audit_table_class_provenance(corpus, sidecar, raw_root, workers=4)
+            parallel_b = audit_table_class_provenance(corpus, sidecar, raw_root, workers=4)
+
+        # Blocker precedence order is defined in the parent and must not shuffle.
+        self.assertEqual(parallel_a["blockers"], serial["blockers"])
+        self.assertEqual(parallel_a, parallel_b)
+
+        # Every ordered identity list is emitted sorted, independent of worker count.
+        identity_list_keys = (
+            "unmatched_tables",
+            "ambiguous_conflict_tables",
+            "orphan_sidecar_hints",
+            "source_supported_hint_mismatches",
+            "corpus_tables_missing_from_source",
+            "source_tables_missing_from_corpus",
+        )
+        for key in identity_list_keys:
+            self.assertEqual(parallel_a[key], serial[key], key)
+            tuples = [
+                (row["report_id"], row["page_id"], row["table_id"])
+                for row in parallel_a[key]
+            ]
+            self.assertEqual(tuples, sorted(tuples), key)
+
+        self.assertEqual(
+            parallel_a["production_evidence_path"]["representative_class_checks"],
+            serial["production_evidence_path"]["representative_class_checks"],
+        )
+
+    def test_cli_accepts_workers_and_output_is_worker_count_invariant(self):
+        with tempfile.TemporaryDirectory() as temporary:
+            root = Path(temporary)
+            raw_root, corpus, sidecar = self._many_corpus(root)
+            argv = [
+                "--corpus-artifact",
+                str(corpus),
+                "--table-class-sidecar",
+                str(sidecar),
+                "--raw-corpus-root",
+                str(raw_root),
+            ]
+
+            outputs = []
+            for workers in ("1", "4", "8"):
+                buffer = io.StringIO()
+                with contextlib.redirect_stdout(buffer):
+                    exit_code = main([*argv, "--workers", workers])
+                self.assertEqual(exit_code, 0)
+                outputs.append(buffer.getvalue())
+
+        self.assertEqual(outputs[0], outputs[1])
+        self.assertEqual(outputs[0], outputs[2])
+        self.assertEqual(json.loads(outputs[0])["status"], "PASS")
+
+    def test_cli_rejects_non_positive_workers(self):
+        for bad in ("0", "-3"):
+            with self.assertRaises(SystemExit):
+                main(
+                    [
+                        "--corpus-artifact",
+                        "x",
+                        "--table-class-sidecar",
+                        "y",
+                        "--raw-corpus-root",
+                        "z",
+                        "--workers",
+                        bad,
+                    ]
+                )
+
+    def test_function_rejects_non_positive_workers_before_touching_inputs(self):
+        for bad in (0, -1, True):
+            with self.assertRaises(ValueError):
+                audit_table_class_provenance("x", "y", "z", workers=bad)
+
+    def test_worker_typed_failure_propagates_identically_for_any_worker_count(self):
+        with tempfile.TemporaryDirectory() as temporary:
+            root = Path(temporary)
+            raw_root, corpus, sidecar = self._many_corpus(root)
+            # Mutate one raw source after indexing: the per-report replay (parent
+            # or worker) must fail closed with the same typed code either way.
+            victim = next(raw_root.glob("CCC/**/*_extracted.txt"))
+            victim.write_text(
+                victim.read_text(encoding="utf-8") + "\ntrailing drift\n",
+                encoding="utf-8",
+            )
+
+            codes = []
+            for workers in (1, 4):
+                with self.assertRaises(TableClassProvenanceAuditError) as raised:
+                    audit_table_class_provenance(
+                        corpus, sidecar, raw_root, workers=workers
+                    )
+                codes.append(raised.exception.code)
+
+        self.assertEqual(codes, ["SIDECAR_SOURCE_CHANGED", "SIDECAR_SOURCE_CHANGED"])
+
+    def test_unexpected_worker_error_surfaces_as_deterministic_process_failure(self):
+        with tempfile.TemporaryDirectory() as temporary:
+            root = Path(temporary)
+            raw_root, corpus, sidecar = self._many_corpus(root)
+
+            patched = patch(
+                "src.indexing.table_class_provenance_audit.parse_document",
+                side_effect=RuntimeError("boom"),
+            )
+            with patched, self.assertRaises(RuntimeError) as raised:
+                audit_table_class_provenance(corpus, sidecar, raw_root, workers=1)
+
+        self.assertNotIsInstance(raised.exception, TableClassProvenanceAuditError)
+        self.assertIn("boom", str(raised.exception))
 
 
 if __name__ == "__main__":
