@@ -2165,9 +2165,10 @@ available state is not emitted.
 ## ADR-057 — Validate production retrieval as separated artifact/serving vs. gold-gated quality; no LLM in the v1 path
 
 **Status:** Accepted (runner + preflight + calibration implemented CPU-only;
-production run `GPU_PRODUCTION_VALIDATION_PENDING`; supersedes the stale
-"requires live Qwen serving" language in earlier M10 batch notes and ADR-049/050
-consequences)
+**production run PASSED on 1× RTX 5090 — retrieval portion of
+`GPU_PRODUCTION_VALIDATION_PENDING` CLEARED**, see "Production run evidence"
+below; supersedes the stale "requires live Qwen serving" language in earlier M10
+batch notes and ADR-049/050 consequences)
 
 ### Context
 
@@ -2257,6 +2258,62 @@ sizes 8/16/32/64 that recommends the largest stable batch beating the prior by
   quality/cost delta to measure. It is blocked on model-backed ports being built
   and wired into M9 at all — unscheduled, out-of-v1-scope work.
 - No numeric threshold is invented for TASK-100 or TASK-101.
+
+### Production run evidence (M10 Batch 8, 1× RTX 5090)
+
+Executed end to end on an RTX 5090 (driver CUDA 13.0, torch cu128, `faiss-cpu`,
+`transformers 4.46.3`):
+
+- **Vector artifact** — family root
+  `artifacts/m2-vector-index-v1/full-corpus-rtx5090`, `CURRENT` →
+  `build_id 6e196ee45ef08dd1c85a2da647abdd36c9d4613b4de59cb2a381c9fd852a8069`.
+  `embedding_artifact_builder.validate_published_artifact` (existing validator,
+  `input_artifact` = the committed M2 corpus) = `integrity: PASS`,
+  `vector_count 1743311`, `chunk_count 1743311`, `shard_count 18`,
+  `sqlite_row_count 1743311`; `artifact_status COMMITTED`;
+  `embedding_fingerprint
+  ebf2adc2a61d75a65db3829163a003e729095310360b9b162b570b34579585b3`;
+  every FAISS shard sha256 + FAISS `ntotal` verified; SQLite `integrity_check ok`.
+- **BM25 artifact** — built with `src.retrieval.bm25.build_bm25_index` over the
+  canonical corpus
+  `4f39603a89e213129de6c57e1234456e88086832c8b61bd9821770d76a6dc78e`; family
+  root `artifacts/m3-bm25-index-v1/full-corpus-rtx5090`,
+  `build_id 35399789d6b5cb5cfb08168922dc5cce72b2003bf19827e83736a115493b4d51`,
+  `artifact_status COMMITTED`, `candidate_count 1743311`,
+  `corpus_fingerprint 9ea9e073a8aff69e48ae9b258a2bd657cd5194a52de9742e89f5bdb8d17f61c9`,
+  `bm25.sqlite sha256
+  9fcb552a2dbbebfdc98f2dcaf1d034809a86a5f1cabb6357f674a9de21a6523e`.
+  `validate_bm25_artifact_compatibility` + `BM25Index` load (SQLite
+  `integrity_check ok`, FTS rows 1743311) = PASS.
+- **LIVE serving** — pinned BGE-M3 (`5617a9f61b028005a4858fdac845db406aefb181`)
+  and BGE-reranker-v2-m3 (`953dc6f6f85a1b2dbfca4c34a2796e7dde08d41e`) loaded on
+  CUDA and exposed over an OpenAI-compatible HTTP server
+  (`deploy/serving/serve_retrieval_models.py`) that performs no model logic of
+  its own — it calls the repository's own `load_bge_m3_encoder` /
+  `load_bge_reranker`. This is the "any OpenAI-compatible server" of steps H/I.
+  For the run: `python deploy/serving/serve_retrieval_models.py --host 127.0.0.1
+  --embed-port 18100 --rerank-port 18101 --device cuda`, with
+  `deploy/serving/retrieval-endpoints.json` `base_url`s pointed at those two
+  ports for the validation only (the committed file keeps its `REPLACE_HOST`
+  placeholders — the endpoint is deployment-specific).
+  Probed through the production `HttpTransport` / `OpenAICompatibleClient`:
+  `live_bge_m3_embedding_parity` PASS (dim 1024, finite, min cosine
+  `0.9999999999990075` ≥ 0.999); `live_bge_reranker_parity` PASS (order parity
+  `true`, max score abs diff `1.9e-06`).
+- **Deterministic retrieval-execution smoke** —
+  `run_retrieval_execution_smoke` over `deploy/retrieval/smoke-queries.jsonl`
+  (4 Qwen-free `RetrievalQuery` rows) through the real `Batch3Retriever`
+  (BM25 + `VectorSearcher` + pinned CPU BGE-M3 query encoder + pinned CPU
+  BGE-reranker): `ran true`, `byte_identical true`, `crashes 0`, `timeouts 0`,
+  `sample_size 4` (exit 0).
+- **`run_retrieval_production_validation`** (`--operator-expected-vector-count
+  1743311`) → `overall_status PASS`, `artifact_status PASS`,
+  `live_serving_status PASS`, `clears_gpu_pending true` (exit 0); all 10
+  `artifact_serving_checks` PASS; `retrieval_quality_status BLOCKED_GOLD_DATA`.
+- **TASK-109 is COMPLETE**; the retrieval portion of
+  `GPU_PRODUCTION_VALIDATION_PENDING` is CLEARED. TASK-100 still needs real
+  per-question gold answers (`BLOCKED_GOLD_DATA`); TASK-101 stays blocked on
+  model-backed ports (no LLM ⇒ no CHEAP-vs-STRONG delta) — unchanged.
 
 ### Consequences
 

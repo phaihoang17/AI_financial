@@ -432,10 +432,12 @@ chunk, vector/SQLite counts, model/chunking fingerprints, and FAISS SHA-256.
 Resume validates all completed checkpoints, reuses only valid completed shards,
 deletes rows from the incomplete shard, and rebuilds that shard from the first
 uncommitted input record. It publishes under
-`artifacts/m2-vector-index-v1/artifacts/<build-id>/` only after the complete
-input count, FAISS/SQLite mapping, hashes, and SQLite integrity check pass; the
-top-level `manifest.json` and `CURRENT` pointer are written only after that
-immutable directory is in place. The pinned embedding configuration is
+`<--output-root>/artifacts/<build-id>/` (the builder uses `--output-root`
+verbatim as the family root; there is no extra `m2-vector-index-v1`
+subdirectory — ADR-057) only after the complete input count, FAISS/SQLite
+mapping, hashes, and SQLite integrity check pass; the top-level `manifest.json`
+and `CURRENT` pointer are written only after that immutable directory is in
+place. The pinned embedding configuration is
 `BAAI/bge-m3@5617a9f61b028005a4858fdac845db406aefb181`, fingerprint
 `ebf2adc2a61d75a65db3829163a003e729095310360b9b162b570b34579585b3`, dense
 document pooling, dimension 1024, float32, L2 normalization, and no
@@ -452,9 +454,14 @@ index, BM25 index, or search behavior.
 
 M2 implementation is complete. The full-corpus TASK-028A audit passed with no
 omitted representations or cells and no chunks above the target. TASK-028B and
-TASK-029 are implemented, but the production full-corpus artifact remains an
-operational build on an approved higher-capacity machine; it is not present on
-the 8 GiB development host.
+TASK-029 are implemented. The production full-corpus vector artifact has since
+been built on an RTX 5090 and committed at
+`artifacts/m2-vector-index-v1/full-corpus-rtx5090` (`CURRENT` → `build_id
+6e196ee4…52a8069`, `vector_count 1743311`, 18 FAISS shards,
+`embedding_fingerprint ebf2adc2…585b3`), and the matching production BM25 index
+at `artifacts/m3-bm25-index-v1/full-corpus-rtx5090` (`candidate_count 1743311`).
+Both pass `run_retrieval_production_validation` with live BGE-M3 / BGE-reranker
+serving (ADR-057; `overall_status PASS`, `clears_gpu_pending true`).
 
 ### M2A Normalization and Failure Invariants
 

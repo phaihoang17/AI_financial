@@ -834,8 +834,9 @@ Do this only after the correctness baseline is measurable.
 - [x] **TASK-108 — Shared Qwen3-8B role serving**
   - separate NLU/Supervisor prompts and contracts on one service where feasible.
 
-- [x] **TASK-109 — Retrieval model serving** (implemented; live-serving evidence
-  still `GPU_PRODUCTION_VALIDATION_PENDING`)
+- [x] **TASK-109 — Retrieval model serving** — **COMPLETE**; retrieval portion of
+  `GPU_PRODUCTION_VALIDATION_PENDING` **CLEARED** on 1× RTX 5090 (see run evidence
+  below)
   - BGE-M3 batching,
   - BGE-reranker-v2-m3 serving,
   - model/index version tracking.
@@ -850,6 +851,42 @@ Do this only after the correctness baseline is measurable.
   - The vector-index acceptance count is **1,743,311 vectors** (one per canonical
     M2 `EmbeddingChunk`). It is not 146,246 (that is the source-table count) and
     not the representation count.
+  - **Production run evidence (1× RTX 5090, retrieval only, no Qwen):**
+    - Canonical M2 corpus artifact
+      `4f39603a89e213129de6c57e1234456e88086832c8b61bd9821770d76a6dc78e`
+      (`source_inventory_sha256 9ea9e073…f61c9`, `chunk_count 1743311`).
+    - Committed vector family root
+      `artifacts/m2-vector-index-v1/full-corpus-rtx5090`; `CURRENT` →
+      `build_id 6e196ee45ef08dd1c85a2da647abdd36c9d4613b4de59cb2a381c9fd852a8069`,
+      `artifact_status COMMITTED`, `vector_count 1743311`, 18 FAISS shards
+      (Σ shard `vector_count` = 1743311), SQLite `integrity_check ok`,
+      `embedding_fingerprint
+      ebf2adc2a61d75a65db3829163a003e729095310360b9b162b570b34579585b3`.
+      Verified with `embedding_artifact_builder.validate_published_artifact`.
+    - Committed BM25 artifact
+      `artifacts/m3-bm25-index-v1/full-corpus-rtx5090`
+      (`build_id 35399789d6b5cb5cfb08168922dc5cce72b2003bf19827e83736a115493b4d51`,
+      `candidate_count 1743311`, `corpus_fingerprint 9ea9e073…f61c9`,
+      `bm25.sqlite sha256 9fcb552a2dbbebfdc98f2dcaf1d034809a86a5f1cabb6357f674a9de21a6523e`),
+      built with `src.retrieval.bm25.build_bm25_index`; `validate_bm25_artifact_compatibility`
+      + `BM25Index` load = PASS.
+    - LIVE BGE-M3 (`5617a9f61b028005a4858fdac845db406aefb181`) + BGE-reranker-v2-m3
+      (`953dc6f6f85a1b2dbfca4c34a2796e7dde08d41e`) served on CUDA over an
+      OpenAI-compatible HTTP endpoint
+      (`deploy/serving/serve_retrieval_models.py`, which wraps the pinned
+      `load_bge_m3_encoder` / `load_bge_reranker`); probes via the production
+      `HttpTransport`: embedding parity min cosine `0.9999999999990075` (dim 1024),
+      reranker order parity `true` (max score abs diff `1.9e-06`).
+    - Deterministic retrieval-execution smoke over
+      `deploy/retrieval/smoke-queries.jsonl` through the real `Batch3Retriever`
+      (BM25 + FAISS + pinned BGE-M3 query encoder + pinned BGE-reranker):
+      `ran true`, `byte_identical true`, `crashes 0`, `timeouts 0`,
+      `sample_size 4`.
+    - `python -m src.evaluation.run_retrieval_production_validation` →
+      `overall_status PASS`, `artifact_status PASS`, `live_serving_status PASS`,
+      `clears_gpu_pending true` (exit 0). All 10 `artifact_serving_checks` PASS.
+      `RETRIEVAL_QUALITY` stays `BLOCKED_GOLD_DATA` (no gold retrieval-evidence
+      annotations) and does not gate the flag.
 
 - [x] **TASK-110 — Cost/token dashboard**
   - cost/query,
@@ -1027,10 +1064,13 @@ retrieval semantics.
   8/16/32/64, records chunks/sec + peak VRAM + OOM, and recommends the largest
   stable batch that is at least `--min-speedup`× faster than the prior. It never
   calls the builder and never writes to an output root.
-- `GPU_PRODUCTION_VALIDATION_PENDING` stays active. It clears for retrieval only
-  when `run_retrieval_production_validation` returns `overall_status: PASS`
-  (`clears_gpu_pending: true`) on the real committed corpus/vector/BM25 artifacts
-  with both LIVE probes passing on GPU hardware. It does **not** wait on any LLM.
+- `GPU_PRODUCTION_VALIDATION_PENDING` — **retrieval portion CLEARED** (M10 Batch 8
+  run, 1× RTX 5090): `run_retrieval_production_validation` returned
+  `overall_status: PASS` / `clears_gpu_pending: true` on the real committed
+  corpus/vector/BM25 artifacts with both LIVE probes and the deterministic
+  retrieval-execution smoke passing. No LLM was involved. Evidence is recorded in
+  the TASK-109 entry above and in ADR-057. `RETRIEVAL_QUALITY` stays
+  independently `BLOCKED_GOLD_DATA`.
 M10 Batch 4 completes TASK-108 and TASK-109 (ADR-050) by implementing the
 ADR-049 serving boundary in `src/serving/`. `ServingTopology` resolves the four
 one-process-per-model endpoints: NLU/Supervisor/optional Verifier share the one
