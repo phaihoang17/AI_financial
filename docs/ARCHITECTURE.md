@@ -1481,6 +1481,16 @@ More context is not automatically better. FinQA-style retriever-generator result
 
 The exact `top_k` is an evaluated configuration, not a hardcoded constant.
 
+Candidate depth and answer depth are separate. BM25, vector search, and RRF run
+at `top_k * CANDIDATE_DEPTH_MULTIPLIER` (`src/retrieval/batch3.py`); only the
+cross-encoder reranker cuts back to `top_k`. Equal depth starves the reranker:
+RRF sums one reciprocal rank for a single-backend hit and two for a hit both
+backends returned, so a correct table found by only one backend is dropped
+before the most accurate stage ever scores it. Measured on the TASK-100 gold
+pilot (37 VERIFIED cases, production artifacts and served models), widening the
+candidate stages to 5x moved Recall@10 from 0.514 to 0.865 and MRR from 0.423 to
+0.585 with no case lost; 10x recovered nothing further and lowered MRR.
+
 ## 4.4 Evidence Builder
 
 ### Responsibility
