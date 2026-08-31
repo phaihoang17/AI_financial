@@ -33,6 +33,15 @@ from src.supervisor.schemas import EvidenceSource
 from src.understanding.schemas import StatementScope
 
 
+#: BM25 / vector / RRF run at ``top_k * CANDIDATE_DEPTH_MULTIPLIER`` so the
+#: reranker picks the final ``top_k`` from a wider fused pool. Measured on the
+#: TASK-100 gold pilot (37 VERIFIED cases, production artifacts + served
+#: BGE-M3 / BGE-reranker-v2-m3): Recall@10 0.514 -> 0.865, MRR 0.423 -> 0.585,
+#: 13 recovered, 0 lost. A depth of 10x recovered no further case and lowered
+#: MRR, so 5 is the smallest value that captures the gain.
+CANDIDATE_DEPTH_MULTIPLIER = 5
+
+
 class Batch3RetrievalError(RetrievalContractError):
     """A typed Batch 3 orchestration, decomposition, or enrichment failure."""
 
@@ -318,26 +327,56 @@ class Batch3Retriever:
         self._sidecar = sidecar
         self._chunk_lookup = chunk_lookup
 
+    @staticmethod
+    def _candidate_depth(top_k: int, candidate_top_k: Optional[int]) -> int:
+        """Resolve the BM25 / vector / RRF depth for a request.
+
+        The reranker is the most accurate stage, so it must choose the final
+        ``top_k`` from more than ``top_k`` fused candidates: at equal depth a
+        single-backend hit loses to any candidate both backends returned,
+        because RRF sums one reciprocal rank instead of two.
+        """
+
+        if isinstance(top_k, bool) or not isinstance(top_k, int) or top_k < 1:
+            raise Batch3RetrievalError("INVALID_TOP_K", "top_k must be a positive integer")
+        if candidate_top_k is None:
+            return top_k * CANDIDATE_DEPTH_MULTIPLIER
+        if (
+            isinstance(candidate_top_k, bool)
+            or not isinstance(candidate_top_k, int)
+            or candidate_top_k < top_k
+        ):
+            raise Batch3RetrievalError(
+                "INVALID_CANDIDATE_TOP_K", "candidate_top_k must be an integer >= top_k"
+            )
+        return candidate_top_k
+
     def retrieve(
         self,
         query: RetrievalQuery,
         *,
         top_k: int,
         eligible_source_types: Sequence[EvidenceSource],
+        candidate_top_k: Optional[int] = None,
     ) -> List[RetrievalCandidate]:
-        """Run the exact Backend -> RRF -> reranker sequence for one request."""
+        """Run the exact Backend -> RRF -> reranker sequence for one request.
 
+        Stage order, backends, and models are unchanged; only the candidate
+        depth handed to the reranker is widened (see ``_candidate_depth``).
+        """
+
+        depth = self._candidate_depth(top_k, candidate_top_k)
         bm25_candidates = self._bm25.search(
-            query, top_k=top_k, eligible_source_types=eligible_source_types
+            query, top_k=depth, eligible_source_types=eligible_source_types
         )
         embeddings = self._query_embedder(query)
         vector_candidates = self._vector.search(
             query,
             embeddings,
-            top_k=top_k,
+            top_k=depth,
             eligible_source_types=eligible_source_types,
         )
-        fused = fuse_rrf(bm25_candidates, vector_candidates, top_k=top_k)
+        fused = fuse_rrf(bm25_candidates, vector_candidates, top_k=depth)
         return rerank_candidates(
             query, fused, reranker=self._reranker, top_k=top_k
         )

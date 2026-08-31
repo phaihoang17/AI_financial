@@ -1,0 +1,5 @@
+[serve] loading pinned models on cuda ...
+[serve] cuda device: NVIDIA GeForce RTX 5090
+[serve] BAAI/bge-m3 on http://127.0.0.1:18100
+[serve] BAAI/bge-reranker-v2-m3 on http://127.0.0.1:18101
+[serve] ready

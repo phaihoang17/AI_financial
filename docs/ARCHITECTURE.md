@@ -432,10 +432,12 @@ chunk, vector/SQLite counts, model/chunking fingerprints, and FAISS SHA-256.
 Resume validates all completed checkpoints, reuses only valid completed shards,
 deletes rows from the incomplete shard, and rebuilds that shard from the first
 uncommitted input record. It publishes under
-`artifacts/m2-vector-index-v1/artifacts/<build-id>/` only after the complete
-input count, FAISS/SQLite mapping, hashes, and SQLite integrity check pass; the
-top-level `manifest.json` and `CURRENT` pointer are written only after that
-immutable directory is in place. The pinned embedding configuration is
+`<--output-root>/artifacts/<build-id>/` (the builder uses `--output-root`
+verbatim as the family root; there is no extra `m2-vector-index-v1`
+subdirectory — ADR-057) only after the complete input count, FAISS/SQLite
+mapping, hashes, and SQLite integrity check pass; the top-level `manifest.json`
+and `CURRENT` pointer are written only after that immutable directory is in
+place. The pinned embedding configuration is
 `BAAI/bge-m3@5617a9f61b028005a4858fdac845db406aefb181`, fingerprint
 `ebf2adc2a61d75a65db3829163a003e729095310360b9b162b570b34579585b3`, dense
 document pooling, dimension 1024, float32, L2 normalization, and no
@@ -452,9 +454,14 @@ index, BM25 index, or search behavior.
 
 M2 implementation is complete. The full-corpus TASK-028A audit passed with no
 omitted representations or cells and no chunks above the target. TASK-028B and
-TASK-029 are implemented, but the production full-corpus artifact remains an
-operational build on an approved higher-capacity machine; it is not present on
-the 8 GiB development host.
+TASK-029 are implemented. The production full-corpus vector artifact has since
+been built on an RTX 5090 and committed at
+`artifacts/m2-vector-index-v1/full-corpus-rtx5090` (`CURRENT` → `build_id
+6e196ee4…52a8069`, `vector_count 1743311`, 18 FAISS shards,
+`embedding_fingerprint ebf2adc2…585b3`), and the matching production BM25 index
+at `artifacts/m3-bm25-index-v1/full-corpus-rtx5090` (`candidate_count 1743311`).
+Both pass `run_retrieval_production_validation` with live BGE-M3 / BGE-reranker
+serving (ADR-057; `overall_status PASS`, `clears_gpu_pending true`).
 
 ### M2A Normalization and Failure Invariants
 
@@ -1473,6 +1480,16 @@ Guard against:
 More context is not automatically better. FinQA-style retriever-generator results motivate retrieving compact supporting facts rather than passing the whole document to the program generator.
 
 The exact `top_k` is an evaluated configuration, not a hardcoded constant.
+
+Candidate depth and answer depth are separate. BM25, vector search, and RRF run
+at `top_k * CANDIDATE_DEPTH_MULTIPLIER` (`src/retrieval/batch3.py`); only the
+cross-encoder reranker cuts back to `top_k`. Equal depth starves the reranker:
+RRF sums one reciprocal rank for a single-backend hit and two for a hit both
+backends returned, so a correct table found by only one backend is dropped
+before the most accurate stage ever scores it. Measured on the TASK-100 gold
+pilot (37 VERIFIED cases, production artifacts and served models), widening the
+candidate stages to 5x moved Recall@10 from 0.514 to 0.865 and MRR from 0.423 to
+0.585 with no case lost; 10x recovered nothing further and lowered MRR.
 
 ## 4.4 Evidence Builder
 

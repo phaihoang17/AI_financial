@@ -1,0 +1,7106 @@
+{
+  "classification": {
+    "counts": {
+      "UNSUPPORTED": 1012
+    },
+    "results": [
+      {
+        "question_id": "1",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "2",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "3",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "4",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "5",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "6",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "7",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "8",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "9",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "10",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "11",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "12",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "13",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "14",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "15",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "16",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "17",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "18",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "19",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "20",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "21",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "22",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "23",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "24",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "25",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "26",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "27",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "28",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "29",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "30",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "31",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "32",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "33",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "34",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "35",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "36",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "37",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "38",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "39",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "40",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "41",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "42",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "43",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "44",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "45",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "46",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "47",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "48",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "49",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "50",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "51",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "52",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "53",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "54",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "55",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "56",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "57",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "58",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "59",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "60",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "61",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "62",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "63",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "64",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "65",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "66",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "67",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "68",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "69",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "70",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "71",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "72",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "73",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "74",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "75",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "76",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "77",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "78",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "79",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "80",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "81",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "82",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "83",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "84",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "85",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "86",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "87",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "88",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "89",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "90",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "91",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "92",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "93",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "94",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "95",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "96",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "97",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "98",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "99",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "100",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "101",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "102",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "103",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "104",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "105",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "106",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "107",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "108",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "109",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "110",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "111",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "112",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "113",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "114",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "115",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "116",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "117",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "118",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "119",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "120",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "121",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "122",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "123",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "124",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "125",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "126",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "127",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "128",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "129",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "130",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "131",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "132",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "133",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "134",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "135",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "136",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "137",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "138",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "139",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "140",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "141",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "142",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "143",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "144",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "145",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "146",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "147",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "148",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "149",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "150",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "151",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "152",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "153",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "154",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "155",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "156",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "157",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "158",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "159",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "160",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "161",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "162",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "163",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "164",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "165",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "166",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "167",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "168",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "169",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "170",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "171",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "172",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "173",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "174",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "175",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "176",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "177",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "178",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "179",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "180",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "181",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "182",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "183",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "184",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "185",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "186",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "187",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "188",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "189",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "190",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "191",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "192",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "193",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "194",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "195",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "196",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "197",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "198",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "199",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "200",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "201",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "202",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "203",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "204",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "205",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "206",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "207",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "208",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "209",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "210",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "211",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "212",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "213",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "214",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "215",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "216",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "217",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "218",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "219",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "220",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "221",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "222",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "223",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "224",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "225",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "226",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "227",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "228",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "229",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "230",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "231",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "232",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "233",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "234",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "235",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "236",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "237",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "238",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "239",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "240",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "241",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "242",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "243",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "244",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "245",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "246",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "247",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "248",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "249",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "250",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "251",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "252",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "253",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "254",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "255",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "256",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "257",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "258",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "259",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "260",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "261",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "262",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "263",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "264",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "265",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "266",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "267",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "268",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "269",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "270",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "271",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "272",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "273",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "274",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "275",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "276",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "277",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "278",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "279",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "280",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "281",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "282",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "283",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "284",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "285",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "286",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "287",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "288",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "289",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "290",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "291",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "292",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "293",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "294",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "295",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "296",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "297",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "298",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "299",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "300",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "301",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "302",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "303",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "304",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "305",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "306",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "307",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "308",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "309",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "310",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "311",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "312",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "313",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "314",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "315",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "316",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "317",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "318",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "319",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "320",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "321",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "322",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "323",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "324",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "325",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "326",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "327",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "328",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "329",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "330",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "331",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "332",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "333",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "334",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "335",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "336",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "337",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "338",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "339",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "340",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "341",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "342",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "343",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "344",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "345",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "346",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "347",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "348",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "349",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "350",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "351",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "352",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "353",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "354",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "355",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "356",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "357",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "358",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "359",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "360",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "361",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "362",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "363",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "364",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "365",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "366",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "367",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "368",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "369",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "370",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "371",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "372",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "373",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "374",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "375",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "376",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "377",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "378",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "379",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "380",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "381",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "382",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "383",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "384",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "385",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "386",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "387",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "388",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "389",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "390",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "391",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "392",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "393",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "394",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "395",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "396",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "397",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "398",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "399",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "400",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "401",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "402",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "403",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "404",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "405",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "406",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "407",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "408",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "409",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "410",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "411",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "412",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "413",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "414",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "415",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "416",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "417",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "418",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "419",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "420",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "421",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "422",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "423",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "424",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "425",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "426",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "427",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "428",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "429",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "430",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "431",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "432",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "433",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "434",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "435",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "436",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "437",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "438",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "439",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "440",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "441",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "442",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "443",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "444",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "445",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "446",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "447",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "448",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "449",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "450",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "451",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "452",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "453",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "454",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "455",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "456",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "457",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "458",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "459",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "460",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "461",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "462",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "463",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "464",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "465",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "466",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "467",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "468",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "469",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "470",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "471",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "472",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "473",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "474",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "475",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "476",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "477",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "478",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "479",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "480",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "481",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "482",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "483",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "484",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "485",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "486",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "487",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "488",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "489",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "490",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "491",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "492",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "493",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "494",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "495",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "496",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "497",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "498",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "499",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "500",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "501",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "502",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "503",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "504",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "505",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "506",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "507",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "508",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "509",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "510",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "511",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "512",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "513",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "514",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "515",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "516",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "517",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "518",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "519",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "520",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "521",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "522",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "523",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "524",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "525",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "526",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "527",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "528",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "529",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "530",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "531",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "532",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "533",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "534",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "535",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "536",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "537",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "538",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "539",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "540",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "541",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "542",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "543",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "544",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "545",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "546",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "547",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "548",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "549",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "550",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "551",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "552",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "553",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "554",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "555",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "556",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "557",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "558",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "559",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "560",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "561",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "562",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "563",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "564",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "565",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "566",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "567",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "568",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "569",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "570",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "571",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "572",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "573",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "574",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "575",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "576",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "577",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "578",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "579",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "580",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "581",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "582",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "583",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "584",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "585",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "586",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "587",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "588",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "589",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "590",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "591",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "592",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "593",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "594",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "595",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "596",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "597",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "598",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "599",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "600",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "601",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "602",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "603",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "604",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "605",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "606",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "607",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "608",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "609",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "610",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "611",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "612",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "613",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "614",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "615",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "616",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "617",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "618",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "619",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "620",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "621",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "622",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "623",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "624",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "625",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "626",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "627",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "628",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "629",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "630",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "631",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "632",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "633",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "634",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "635",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "636",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "637",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "638",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "639",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "640",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "641",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "642",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "643",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "644",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "645",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "646",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "647",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "648",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "649",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "650",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "651",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "652",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "653",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "654",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "655",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "656",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "657",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "658",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "659",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "660",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "661",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "662",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "663",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "664",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "665",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "666",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "667",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "668",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "669",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "670",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "671",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "672",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "673",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "674",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "675",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "676",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "677",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "678",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "679",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "680",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "681",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "682",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "683",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "684",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "685",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "686",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "687",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "688",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "689",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "690",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "691",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "692",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "693",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "694",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "695",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "696",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "697",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "698",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "699",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "700",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "701",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "702",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "703",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "704",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "705",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "706",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "707",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "708",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "709",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "710",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "711",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "712",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "713",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "714",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "715",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "716",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "717",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "718",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "719",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "720",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "721",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "722",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "723",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "724",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "725",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "726",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "727",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "728",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "729",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "730",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "731",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "732",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "733",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "734",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "735",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "736",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "737",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "738",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "739",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "740",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "741",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "742",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "743",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "744",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "745",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "746",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "747",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "748",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "749",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "750",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "751",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "752",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "753",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "754",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "755",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "756",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "757",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "758",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "759",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "760",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "761",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "762",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "763",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "764",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "765",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "766",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "767",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "768",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "769",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "770",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "771",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "772",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "773",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "774",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "775",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "776",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "777",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "778",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "779",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "780",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "781",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "782",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "783",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "784",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "785",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "786",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "787",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "788",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "789",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "790",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "791",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "792",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "793",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "794",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "795",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "796",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "797",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "798",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "799",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "800",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "801",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "802",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "803",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "804",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "805",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "806",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "807",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "808",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "809",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "810",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "811",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "812",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "813",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "814",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "815",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "816",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "817",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "818",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "819",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "820",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "821",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "822",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "823",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "824",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "825",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "826",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "827",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "828",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "829",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "830",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "831",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "832",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "833",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "834",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "835",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "836",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "837",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "838",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "839",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "840",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "841",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "842",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "843",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "844",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "845",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "846",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "847",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "848",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "849",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "850",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "851",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "852",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "853",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "854",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "855",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "856",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "857",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "858",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "859",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "860",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "861",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "862",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "863",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "864",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "865",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "866",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "867",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "868",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "869",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "870",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "871",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "872",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "873",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "874",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "875",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "876",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "877",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "878",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "879",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "880",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "881",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "882",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "883",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "884",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "885",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "886",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "887",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "888",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "889",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "890",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "891",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "892",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "893",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "894",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "895",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "896",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "897",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "898",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "899",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "900",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "901",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "902",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "903",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "904",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "905",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "906",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "907",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "908",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "909",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "910",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "911",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "912",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "913",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "914",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "915",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "916",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "917",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "918",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "919",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "920",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "921",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "922",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "923",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "924",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "925",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "926",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "927",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "928",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "929",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "930",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "931",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "932",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "933",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "934",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "935",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "936",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "937",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "938",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "939",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "940",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "941",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "942",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "943",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "944",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "945",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "946",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "947",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "948",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "949",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "950",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "951",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "952",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "953",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "954",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "955",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "956",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "957",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "958",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "959",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "960",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "961",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "962",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "963",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "964",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "965",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "966",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "967",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "968",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "969",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "970",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "971",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "972",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "973",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "974",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "975",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "976",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "977",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "978",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "979",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "980",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "981",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "982",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "983",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "984",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "985",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "986",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "987",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "988",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "989",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "990",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "991",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "992",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "993",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "994",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "995",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "996",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "997",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "998",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "999",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "1000",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "1001",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "1002",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "1003",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "1004",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "1005",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "1006",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "1007",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "1008",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "1009",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "1010",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "1011",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      },
+      {
+        "question_id": "1012",
+        "reasons": [
+          "no company ticker"
+        ],
+        "status": "UNSUPPORTED"
+      }
+    ],
+    "total_questions": 1012
+  },
+  "corpus_reference_index": {
+    "chunk_count": 1743311,
+    "corpus_artifact_id": "4f39603a89e213129de6c57e1234456e88086832c8b61bd9821770d76a6dc78e",
+    "distinct_tickers": 100,
+    "paragraph_count": 1591389,
+    "report_count": 1973,
+    "representation_count": 1737635,
+    "schema_version": "m10-corpus-reference-index-v1",
+    "source_cell_count": 6212883,
+    "source_inventory_sha256": "9ea9e073a8aff69e48ae9b258a2bd657cd5194a52de9742e89f5bdb8d17f61c9",
+    "table_count": 146246
+  }
+}

@@ -834,8 +834,9 @@ Do this only after the correctness baseline is measurable.
 - [x] **TASK-108 — Shared Qwen3-8B role serving**
   - separate NLU/Supervisor prompts and contracts on one service where feasible.
 
-- [x] **TASK-109 — Retrieval model serving** (implemented; live-serving evidence
-  still `GPU_PRODUCTION_VALIDATION_PENDING`)
+- [x] **TASK-109 — Retrieval model serving** — **COMPLETE**; retrieval portion of
+  `GPU_PRODUCTION_VALIDATION_PENDING` **CLEARED** on 1× RTX 5090 (see run evidence
+  below)
   - BGE-M3 batching,
   - BGE-reranker-v2-m3 serving,
   - model/index version tracking.
@@ -850,6 +851,42 @@ Do this only after the correctness baseline is measurable.
   - The vector-index acceptance count is **1,743,311 vectors** (one per canonical
     M2 `EmbeddingChunk`). It is not 146,246 (that is the source-table count) and
     not the representation count.
+  - **Production run evidence (1× RTX 5090, retrieval only, no Qwen):**
+    - Canonical M2 corpus artifact
+      `4f39603a89e213129de6c57e1234456e88086832c8b61bd9821770d76a6dc78e`
+      (`source_inventory_sha256 9ea9e073…f61c9`, `chunk_count 1743311`).
+    - Committed vector family root
+      `artifacts/m2-vector-index-v1/full-corpus-rtx5090`; `CURRENT` →
+      `build_id 6e196ee45ef08dd1c85a2da647abdd36c9d4613b4de59cb2a381c9fd852a8069`,
+      `artifact_status COMMITTED`, `vector_count 1743311`, 18 FAISS shards
+      (Σ shard `vector_count` = 1743311), SQLite `integrity_check ok`,
+      `embedding_fingerprint
+      ebf2adc2a61d75a65db3829163a003e729095310360b9b162b570b34579585b3`.
+      Verified with `embedding_artifact_builder.validate_published_artifact`.
+    - Committed BM25 artifact
+      `artifacts/m3-bm25-index-v1/full-corpus-rtx5090`
+      (`build_id 35399789d6b5cb5cfb08168922dc5cce72b2003bf19827e83736a115493b4d51`,
+      `candidate_count 1743311`, `corpus_fingerprint 9ea9e073…f61c9`,
+      `bm25.sqlite sha256 9fcb552a2dbbebfdc98f2dcaf1d034809a86a5f1cabb6357f674a9de21a6523e`),
+      built with `src.retrieval.bm25.build_bm25_index`; `validate_bm25_artifact_compatibility`
+      + `BM25Index` load = PASS.
+    - LIVE BGE-M3 (`5617a9f61b028005a4858fdac845db406aefb181`) + BGE-reranker-v2-m3
+      (`953dc6f6f85a1b2dbfca4c34a2796e7dde08d41e`) served on CUDA over an
+      OpenAI-compatible HTTP endpoint
+      (`deploy/serving/serve_retrieval_models.py`, which wraps the pinned
+      `load_bge_m3_encoder` / `load_bge_reranker`); probes via the production
+      `HttpTransport`: embedding parity min cosine `0.9999999999990075` (dim 1024),
+      reranker order parity `true` (max score abs diff `1.9e-06`).
+    - Deterministic retrieval-execution smoke over
+      `deploy/retrieval/smoke-queries.jsonl` through the real `Batch3Retriever`
+      (BM25 + FAISS + pinned BGE-M3 query encoder + pinned BGE-reranker):
+      `ran true`, `byte_identical true`, `crashes 0`, `timeouts 0`,
+      `sample_size 4`.
+    - `python -m src.evaluation.run_retrieval_production_validation` →
+      `overall_status PASS`, `artifact_status PASS`, `live_serving_status PASS`,
+      `clears_gpu_pending true` (exit 0). All 10 `artifact_serving_checks` PASS.
+      `RETRIEVAL_QUALITY` stays `BLOCKED_GOLD_DATA` (no gold retrieval-evidence
+      annotations) and does not gate the flag.
 
 - [x] **TASK-110 — Cost/token dashboard**
   - cost/query,
@@ -982,7 +1019,11 @@ no numeric threshold is invented for either:
   vector artifact built + retrieval production validation (ADR-057) PASS, and
   real per-question gold answers to score real-corpus correctness against
   (`BLOCKED_GOLD_DATA`, like retrieval quality). It is not a live-LLM task in the
-  current architecture.
+  current architecture. **M10 Batch 9** built the gold schema + validator +
+  classifier (`m10-gold-retrieval-v1`, see that batch note) so the moment a
+  ViFinQA question/answer source is available the pilot can be produced and
+  scored; the source itself is still not on this instance, so `BLOCKED_GOLD_DATA`
+  stands and the box stays unchecked.
 - **TASK-101** — `src/supervisor/cheap_routing.py` `activated_model_tier`
   returns exactly the M4-routed `Plan.model_tier` for every plan; the switch is
   not consumed by the graph. With no LLM, CHEAP vs STRONG resolves to the *same*
@@ -1027,10 +1068,109 @@ retrieval semantics.
   8/16/32/64, records chunks/sec + peak VRAM + OOM, and recommends the largest
   stable batch that is at least `--min-speedup`× faster than the prior. It never
   calls the builder and never writes to an output root.
-- `GPU_PRODUCTION_VALIDATION_PENDING` stays active. It clears for retrieval only
-  when `run_retrieval_production_validation` returns `overall_status: PASS`
-  (`clears_gpu_pending: true`) on the real committed corpus/vector/BM25 artifacts
-  with both LIVE probes passing on GPU hardware. It does **not** wait on any LLM.
+- `GPU_PRODUCTION_VALIDATION_PENDING` — **retrieval portion CLEARED** (M10 Batch 8
+  run, 1× RTX 5090): `run_retrieval_production_validation` returned
+  `overall_status: PASS` / `clears_gpu_pending: true` on the real committed
+  corpus/vector/BM25 artifacts with both LIVE probes and the deterministic
+  retrieval-execution smoke passing. No LLM was involved. Evidence is recorded in
+  the TASK-109 entry above and in ADR-057. `RETRIEVAL_QUALITY` stays
+  independently `BLOCKED_GOLD_DATA`.
+
+M10 Batch 9 builds the gold evaluation dataset infrastructure to unblock
+**TASK-100** and **RETRIEVAL_QUALITY**. It adds no pipeline behavior, changes no
+retrieval architecture, runs no Qwen, and invents no annotation.
+
+Source audit (2026-08-31, canonical corpus artifact
+`4f39603a89e213129de6c57e1234456e88086832c8b61bd9821770d76a6dc78e`):
+
+- Present: 1973 reports, 146 246 tables, 1 591 389 paragraphs, 1 743 311
+  `EmbeddingChunk`s, 6 212 883 source cells, 100 distinct tickers — each with
+  full provenance (`report_id` / `table_id` / `paragraph_id` / `chunk_id` /
+  `source_cell_ids` + ticker / year / `statement_scope`). Cross-checked against
+  the corpus manifest totals (exact match).
+- Absent: the ViFinQA question/answer pairs. `~/Documents/data/ViFinQA` is the
+  offline-indexing raw root and is **not mounted on this instance**; the only
+  question-like inputs available are the 4
+  `deploy/retrieval/smoke-queries.jsonl` rows, which are forbidden as gold. So
+  there are **0 questions to annotate** and no gold answers.
+
+Gold schema `m10-gold-retrieval-v1` (`src/evaluation/gold_retrieval.py`
+`GoldRetrievalCase`, JSONL; also `gold/retrieval/SCHEMA.md`): `question_id`,
+`question`, `company{ticker,name}`, `period`, `period_kind`, `statement_scope`,
+`metric`, `operation`, `gold_report_id`, `gold_table_id`, `gold_paragraph_id`,
+`gold_chunk_ids[]`, `gold_source_cell_ids[]`,
+`gold_answer{value,unit,scale}`, `provenance{source,method,notes}`,
+`annotation_status` ∈ {`AUTO_DERIVABLE`, `NEEDS_MANUAL_ANNOTATION`,
+`UNSUPPORTED`, `VERIFIED`}. `provenance.method == BOOTSTRAP_UNVERIFIED` can never
+back a gold-bearing status; `gold_answer` is only scored when `VERIFIED`.
+
+Tooling (all CPU-only, deterministic, no model):
+
+- `src/evaluation/corpus_reference_index.py` — streams the committed corpus
+  shards once (~39 s, cached under `artifacts/gold/`) into existence sets +
+  minimal report metadata for referential-integrity checks.
+- `src/evaluation/gold_retrieval.py` — `validate_gold_cases` (schema,
+  duplicate `question_id`, duplicate evidence signature, missing-evidence,
+  bootstrap-not-gold, and every referenced report/table/paragraph/chunk/cell
+  must exist in the canonical corpus, table↔report ownership,
+  ticker/scope/period consistency); `classify_question`
+  (AUTO_DERIVABLE / NEEDS_MANUAL_ANNOTATION / UNSUPPORTED);
+  `compute_gold_retrieval_metrics` (Recall@k + MRR over gold-bearing cases only,
+  reusing `src/evaluation/retrieval.py` `recall_at_k` / `mrr`);
+  `score_answer_correctness` (VERIFIED `gold_answer` only).
+- `src/evaluation/run_gold_retrieval_validation.py` — CLI: build/load the corpus
+  index, classify a questions source, validate a gold file (exit non-zero on any
+  ERROR issue).
+- `gold/retrieval/pilot.jsonl` — **empty** (0 cases); `README.md` + `SCHEMA.md`
+  document the populate/validate/score flow.
+
+Counts:
+
+- TOTAL_QUESTIONS: 0 (no source)
+- AUTO_DERIVABLE: 0 · NEEDS_MANUAL_ANNOTATION: 0 · UNSUPPORTED: 0
+- PILOT_GOLD_SIZE: 0 · coverage: 0 / 1973 reports
+- RECALL_AT_K / MRR: not computed (no gold-bearing case)
+- ANSWER_CORRECTNESS: not computed (no VERIFIED `gold_answer`)
+
+Tests: `tests/evaluation/test_gold_retrieval.py` (18 cases) — schema round-trip,
+every validation rule, classification buckets, Recall@k/MRR bridge, answer
+scoring, and a synthetic-corpus index build. Focused suite
+`tests/evaluation/ tests/retrieval/` = 272 passed, 2 skipped.
+
+Remaining blocker: **`RETRIEVAL_QUALITY` and TASK-100 stay `BLOCKED_GOLD_DATA`**
+— the ViFinQA question/answer source must be made available on the production
+host, then run `run_gold_retrieval_validation --questions-source …` to bucket it,
+hand-annotate a 20–50 case `VERIFIED` pilot, validate it, and score Recall@k /
+MRR (and answer correctness where `gold_answer` is trustworthy) through the real
+`Batch3Retriever`. TASK-100 is not closed.
+
+M10 Batch 10 audits and confirms the public question source. HF dataset
+`HuuDong03uet/ViFinQA` was fetched to a temp dir (`/workspace/vifinqa_candidate`,
+not git) and its `financial_statements/` compared against the canonical corpus
+artifact `4f39603a…dc78e`: **1973/1973** report paths exact-match canonical
+`source_ref`; 100/100 tickers; years 2015–2025 with identical per-year counts;
+byte-size 25/25 on a random sample; and **sha256 8/8 BYTE-IDENTICAL** to
+canonical `report.content_sha256` (random reports across `HOP_NHAT`+`RIENG`,
+2018–2025). The 146 246 vs companion-repo 143 815 table count is a downstream
+M2-normalisation delta, not a source mismatch (raw `.txt` are byte-identical).
+Question references resolve inside the corpus envelope (811/811 `năm YYYY` in
+2015–2025; every real `(TICKER)` mention is a canonical ticker).
+**SOURCE_DECISION: CANONICAL_SOURCE_CONFIRMED.**
+
+The release ships `questions/questions.jsonl` = **1012 rows, `{id:int, question:str}`
+only** — no answers, no ticker/year fields, no gold evidence (matches this repo's
+own docs on the "public ViFinQA questions.jsonl"). Copied to `data/vifinqa/`
+(git-ignored) with `PROVENANCE.md`. `run_gold_retrieval_validation
+--questions-source data/vifinqa/questions.jsonl` →
+**TOTAL_QUESTIONS 1012 · AUTO_DERIVABLE 0 · NEEDS_MANUAL 0 · UNSUPPORTED 1012**
+— every row buckets `UNSUPPORTED` because `classify_question` needs a structured
+`company.ticker` and the raw questions carry free-text only. In substance these
+are all `NEEDS_MANUAL_ANNOTATION` (company/year/evidence must be bound by a human
+or a VN-text→ticker resolver via `code_stock.csv`); no such resolver was built
+here. `RETRIEVAL_QUALITY` / TASK-100 stay `BLOCKED_GOLD_DATA` — now blocked on
+manual gold annotation, not on source availability. No gold annotations were
+created.
+
 M10 Batch 4 completes TASK-108 and TASK-109 (ADR-050) by implementing the
 ADR-049 serving boundary in `src/serving/`. `ServingTopology` resolves the four
 one-process-per-model endpoints: NLU/Supervisor/optional Verifier share the one

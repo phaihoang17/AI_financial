@@ -1,0 +1,24 @@
+{
+  "corpus_reference_index": {
+    "chunk_count": 1743311,
+    "corpus_artifact_id": "4f39603a89e213129de6c57e1234456e88086832c8b61bd9821770d76a6dc78e",
+    "distinct_tickers": 100,
+    "paragraph_count": 1591389,
+    "report_count": 1973,
+    "representation_count": 1737635,
+    "schema_version": "m10-corpus-reference-index-v1",
+    "source_cell_count": 6212883,
+    "source_inventory_sha256": "9ea9e073a8aff69e48ae9b258a2bd657cd5194a52de9742e89f5bdb8d17f61c9",
+    "table_count": 146246
+  },
+  "gold_validation": {
+    "case_count": 0,
+    "error_count": 0,
+    "gold_bearing_count": 0,
+    "issues": [],
+    "ok": true,
+    "schema_version": "m10-gold-retrieval-v1",
+    "status_counts": {},
+    "warning_count": 0
+  }
+}

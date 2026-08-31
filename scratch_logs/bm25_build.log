@@ -1,0 +1,26 @@
+START bm25 build
+Traceback (most recent call last):
+  File "/workspace/AI_financial/src/retrieval/bm25.py", line 208, in build_bm25_index
+    connection.commit()
+sqlite3.OperationalError: disk I/O error
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/tmp/claude-0/-workspace-AI-financial/b00ae0cd-0b3c-419c-be34-6ad6349a9d6a/scratchpad/build_bm25.py", line 7, in <module>
+    m=build_bm25_index(CORPUS, OUT)
+      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/workspace/AI_financial/src/retrieval/bm25.py", line 242, in build_bm25_index
+    raise BM25IndexError("BM25_BUILD_FAILED", str(error)) from error
+src.retrieval.bm25.BM25IndexError: BM25_BUILD_FAILED: disk I/O error
+03ee9032e6043327d93",
+  "embedding_fingerprint": "ebf2adc2a61d75a65db3829163a003e729095310360b9b162b570b34579585b3",
+  "model_id": "BAAI/bge-m3",
+  "model_revision": "5617a9f61b028005a4858fdac845db406aefb181",
+  "candidate_count": 1743311,
+  "logical_index_fingerprint": "35399789d6b5cb5cfb08168922dc5cce72b2003bf19827e83736a115493b4d51",
+  "database": {
+    "file": "bm25.sqlite",
+    "sha256": "1b694c2d06f10fbfb7860fadefe277fef037882415138fff4b710e2db27c4cdb"
+  }
+}

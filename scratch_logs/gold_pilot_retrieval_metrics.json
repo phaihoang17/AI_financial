@@ -1,0 +1,615 @@
+{
+ "metrics": {
+  "schema_version": "m10-gold-retrieval-v1",
+  "evaluated_case_count": 37,
+  "skipped_case_count": 0,
+  "k_values": [
+   1,
+   5,
+   10
+  ],
+  "recall_at_k": {
+   "1": 0.35135135135135137,
+   "5": 0.5135135135135135,
+   "10": 0.5135135135135135
+  },
+  "mrr": 0.42342342342342343,
+  "mrr_hit_count": 19,
+  "per_case": [
+   {
+    "question_id": "vifinqa-1",
+    "candidate_count": 10,
+    "recall_at_k": {
+     "1": 1.0,
+     "5": 1.0,
+     "10": 1.0
+    },
+    "reciprocal_rank": 1.0
+   },
+   {
+    "question_id": "vifinqa-2",
+    "candidate_count": 10,
+    "recall_at_k": {
+     "1": 0.0,
+     "5": 0.0,
+     "10": 0.0
+    },
+    "reciprocal_rank": null
+   },
+   {
+    "question_id": "vifinqa-3",
+    "candidate_count": 10,
+    "recall_at_k": {
+     "1": 0.0,
+     "5": 0.0,
+     "10": 0.0
+    },
+    "reciprocal_rank": null
+   },
+   {
+    "question_id": "vifinqa-4",
+    "candidate_count": 10,
+    "recall_at_k": {
+     "1": 0.0,
+     "5": 0.0,
+     "10": 0.0
+    },
+    "reciprocal_rank": null
+   },
+   {
+    "question_id": "vifinqa-10",
+    "candidate_count": 10,
+    "recall_at_k": {
+     "1": 0.0,
+     "5": 0.0,
+     "10": 0.0
+    },
+    "reciprocal_rank": null
+   },
+   {
+    "question_id": "vifinqa-17",
+    "candidate_count": 10,
+    "recall_at_k": {
+     "1": 0.0,
+     "5": 0.0,
+     "10": 0.0
+    },
+    "reciprocal_rank": null
+   },
+   {
+    "question_id": "vifinqa-21",
+    "candidate_count": 10,
+    "recall_at_k": {
+     "1": 0.0,
+     "5": 0.0,
+     "10": 0.0
+    },
+    "reciprocal_rank": null
+   },
+   {
+    "question_id": "vifinqa-24",
+    "candidate_count": 10,
+    "recall_at_k": {
+     "1": 0.0,
+     "5": 0.0,
+     "10": 0.0
+    },
+    "reciprocal_rank": null
+   },
+   {
+    "question_id": "vifinqa-28",
+    "candidate_count": 10,
+    "recall_at_k": {
+     "1": 0.0,
+     "5": 0.0,
+     "10": 0.0
+    },
+    "reciprocal_rank": null
+   },
+   {
+    "question_id": "vifinqa-33",
+    "candidate_count": 10,
+    "recall_at_k": {
+     "1": 0.0,
+     "5": 0.0,
+     "10": 0.0
+    },
+    "reciprocal_rank": null
+   },
+   {
+    "question_id": "vifinqa-34",
+    "candidate_count": 10,
+    "recall_at_k": {
+     "1": 1.0,
+     "5": 1.0,
+     "10": 1.0
+    },
+    "reciprocal_rank": 1.0
+   },
+   {
+    "question_id": "vifinqa-36",
+    "candidate_count": 10,
+    "recall_at_k": {
+     "1": 1.0,
+     "5": 1.0,
+     "10": 1.0
+    },
+    "reciprocal_rank": 1.0
+   },
+   {
+    "question_id": "vifinqa-39",
+    "candidate_count": 10,
+    "recall_at_k": {
+     "1": 1.0,
+     "5": 1.0,
+     "10": 1.0
+    },
+    "reciprocal_rank": 1.0
+   },
+   {
+    "question_id": "vifinqa-41",
+    "candidate_count": 10,
+    "recall_at_k": {
+     "1": 1.0,
+     "5": 1.0,
+     "10": 1.0
+    },
+    "reciprocal_rank": 1.0
+   },
+   {
+    "question_id": "vifinqa-43",
+    "candidate_count": 10,
+    "recall_at_k": {
+     "1": 0.0,
+     "5": 0.0,
+     "10": 0.0
+    },
+    "reciprocal_rank": null
+   },
+   {
+    "question_id": "vifinqa-48",
+    "candidate_count": 10,
+    "recall_at_k": {
+     "1": 0.0,
+     "5": 0.0,
+     "10": 0.0
+    },
+    "reciprocal_rank": null
+   },
+   {
+    "question_id": "vifinqa-50",
+    "candidate_count": 10,
+    "recall_at_k": {
+     "1": 0.0,
+     "5": 0.0,
+     "10": 0.0
+    },
+    "reciprocal_rank": null
+   },
+   {
+    "question_id": "vifinqa-52",
+    "candidate_count": 10,
+    "recall_at_k": {
+     "1": 1.0,
+     "5": 1.0,
+     "10": 1.0
+    },
+    "reciprocal_rank": 1.0
+   },
+   {
+    "question_id": "vifinqa-60",
+    "candidate_count": 10,
+    "recall_at_k": {
+     "1": 1.0,
+     "5": 1.0,
+     "10": 1.0
+    },
+    "reciprocal_rank": 1.0
+   },
+   {
+    "question_id": "vifinqa-63",
+    "candidate_count": 10,
+    "recall_at_k": {
+     "1": 1.0,
+     "5": 1.0,
+     "10": 1.0
+    },
+    "reciprocal_rank": 1.0
+   },
+   {
+    "question_id": "vifinqa-65",
+    "candidate_count": 10,
+    "recall_at_k": {
+     "1": 0.0,
+     "5": 0.0,
+     "10": 0.0
+    },
+    "reciprocal_rank": null
+   },
+   {
+    "question_id": "vifinqa-68",
+    "candidate_count": 10,
+    "recall_at_k": {
+     "1": 0.0,
+     "5": 1.0,
+     "10": 1.0
+    },
+    "reciprocal_rank": 0.5
+   },
+   {
+    "question_id": "vifinqa-72",
+    "candidate_count": 10,
+    "recall_at_k": {
+     "1": 1.0,
+     "5": 1.0,
+     "10": 1.0
+    },
+    "reciprocal_rank": 1.0
+   },
+   {
+    "question_id": "vifinqa-74",
+    "candidate_count": 10,
+    "recall_at_k": {
+     "1": 0.0,
+     "5": 0.0,
+     "10": 0.0
+    },
+    "reciprocal_rank": null
+   },
+   {
+    "question_id": "vifinqa-76",
+    "candidate_count": 10,
+    "recall_at_k": {
+     "1": 1.0,
+     "5": 1.0,
+     "10": 1.0
+    },
+    "reciprocal_rank": 1.0
+   },
+   {
+    "question_id": "vifinqa-86",
+    "candidate_count": 10,
+    "recall_at_k": {
+     "1": 0.0,
+     "5": 1.0,
+     "10": 1.0
+    },
+    "reciprocal_rank": 0.3333333333333333
+   },
+   {
+    "question_id": "vifinqa-88",
+    "candidate_count": 10,
+    "recall_at_k": {
+     "1": 0.0,
+     "5": 0.0,
+     "10": 0.0
+    },
+    "reciprocal_rank": null
+   },
+   {
+    "question_id": "vifinqa-89",
+    "candidate_count": 10,
+    "recall_at_k": {
+     "1": 1.0,
+     "5": 1.0,
+     "10": 1.0
+    },
+    "reciprocal_rank": 1.0
+   },
+   {
+    "question_id": "vifinqa-90",
+    "candidate_count": 10,
+    "recall_at_k": {
+     "1": 0.0,
+     "5": 0.0,
+     "10": 0.0
+    },
+    "reciprocal_rank": null
+   },
+   {
+    "question_id": "vifinqa-95",
+    "candidate_count": 10,
+    "recall_at_k": {
+     "1": 0.0,
+     "5": 1.0,
+     "10": 1.0
+    },
+    "reciprocal_rank": 0.5
+   },
+   {
+    "question_id": "vifinqa-96",
+    "candidate_count": 10,
+    "recall_at_k": {
+     "1": 0.0,
+     "5": 1.0,
+     "10": 1.0
+    },
+    "reciprocal_rank": 0.5
+   },
+   {
+    "question_id": "vifinqa-101",
+    "candidate_count": 10,
+    "recall_at_k": {
+     "1": 0.0,
+     "5": 1.0,
+     "10": 1.0
+    },
+    "reciprocal_rank": 0.5
+   },
+   {
+    "question_id": "vifinqa-111",
+    "candidate_count": 10,
+    "recall_at_k": {
+     "1": 0.0,
+     "5": 0.0,
+     "10": 0.0
+    },
+    "reciprocal_rank": null
+   },
+   {
+    "question_id": "vifinqa-115",
+    "candidate_count": 10,
+    "recall_at_k": {
+     "1": 1.0,
+     "5": 1.0,
+     "10": 1.0
+    },
+    "reciprocal_rank": 1.0
+   },
+   {
+    "question_id": "vifinqa-121",
+    "candidate_count": 10,
+    "recall_at_k": {
+     "1": 0.0,
+     "5": 1.0,
+     "10": 1.0
+    },
+    "reciprocal_rank": 0.3333333333333333
+   },
+   {
+    "question_id": "vifinqa-140",
+    "candidate_count": 10,
+    "recall_at_k": {
+     "1": 1.0,
+     "5": 1.0,
+     "10": 1.0
+    },
+    "reciprocal_rank": 1.0
+   },
+   {
+    "question_id": "vifinqa-147",
+    "candidate_count": 10,
+    "recall_at_k": {
+     "1": 0.0,
+     "5": 0.0,
+     "10": 0.0
+    },
+    "reciprocal_rank": null
+   }
+  ]
+ },
+ "per": [
+  [
+   "vifinqa-1",
+   10,
+   1,
+   3.78
+  ],
+  [
+   "vifinqa-2",
+   10,
+   null,
+   1.61
+  ],
+  [
+   "vifinqa-3",
+   10,
+   null,
+   1.51
+  ],
+  [
+   "vifinqa-4",
+   10,
+   null,
+   2.74
+  ],
+  [
+   "vifinqa-10",
+   10,
+   null,
+   3.33
+  ],
+  [
+   "vifinqa-17",
+   10,
+   null,
+   3.54
+  ],
+  [
+   "vifinqa-21",
+   10,
+   null,
+   1.83
+  ],
+  [
+   "vifinqa-24",
+   10,
+   null,
+   1.85
+  ],
+  [
+   "vifinqa-28",
+   10,
+   null,
+   2.35
+  ],
+  [
+   "vifinqa-33",
+   10,
+   null,
+   3.34
+  ],
+  [
+   "vifinqa-34",
+   10,
+   1,
+   2.07
+  ],
+  [
+   "vifinqa-36",
+   10,
+   1,
+   1.98
+  ],
+  [
+   "vifinqa-39",
+   10,
+   1,
+   3.7
+  ],
+  [
+   "vifinqa-41",
+   10,
+   1,
+   3.58
+  ],
+  [
+   "vifinqa-43",
+   10,
+   null,
+   1.62
+  ],
+  [
+   "vifinqa-48",
+   10,
+   null,
+   2.06
+  ],
+  [
+   "vifinqa-50",
+   10,
+   null,
+   1.35
+  ],
+  [
+   "vifinqa-52",
+   10,
+   1,
+   1.89
+  ],
+  [
+   "vifinqa-60",
+   10,
+   1,
+   1.53
+  ],
+  [
+   "vifinqa-63",
+   10,
+   1,
+   2.78
+  ],
+  [
+   "vifinqa-65",
+   10,
+   null,
+   1.61
+  ],
+  [
+   "vifinqa-68",
+   10,
+   2,
+   2.76
+  ],
+  [
+   "vifinqa-72",
+   10,
+   1,
+   2.23
+  ],
+  [
+   "vifinqa-74",
+   10,
+   null,
+   1.56
+  ],
+  [
+   "vifinqa-76",
+   10,
+   1,
+   2.25
+  ],
+  [
+   "vifinqa-86",
+   10,
+   3,
+   2.44
+  ],
+  [
+   "vifinqa-88",
+   10,
+   null,
+   1.77
+  ],
+  [
+   "vifinqa-89",
+   10,
+   1,
+   1.62
+  ],
+  [
+   "vifinqa-90",
+   10,
+   null,
+   1.65
+  ],
+  [
+   "vifinqa-95",
+   10,
+   2,
+   2.77
+  ],
+  [
+   "vifinqa-96",
+   10,
+   2,
+   3.07
+  ],
+  [
+   "vifinqa-101",
+   10,
+   2,
+   3.48
+  ],
+  [
+   "vifinqa-111",
+   10,
+   null,
+   1.35
+  ],
+  [
+   "vifinqa-115",
+   10,
+   1,
+   2.46
+  ],
+  [
+   "vifinqa-121",
+   10,
+   3,
+   2.64
+  ],
+  [
+   "vifinqa-140",
+   10,
+   1,
+   1.64
+  ],
+  [
+   "vifinqa-147",
+   10,
+   null,
+   1.5
+  ]
+ ]
+}

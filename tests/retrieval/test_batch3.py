@@ -8,6 +8,7 @@ from src.evidence.schemas import Scale
 from src.indexing.provenance_sidecar import ProvenanceSidecar
 from src.indexing.schemas import ScaleHintSource, ScaleHintStatus, ScaleUnitHint, SourceSpan
 from src.retrieval.batch3 import (
+    CANDIDATE_DEPTH_MULTIPLIER,
     Batch3RetrievalError,
     Batch3Retriever,
     CorpusChunkLookup,
@@ -128,6 +129,7 @@ def constant_reranker():
 class FakeBackend:
     def __init__(self, *, fail_metric=None, no_result_metric=None):
         self.calls = []
+        self.top_ks = []
         self.fail_metric = fail_metric
         self.no_result_metric = no_result_metric
 
@@ -145,6 +147,7 @@ class FakeBackend:
 
     def search(self, query, *args, top_k, eligible_source_types):
         self.calls.append((query, list(eligible_source_types)))
+        self.top_ks.append(top_k)
         return self._candidate(query, eligible_source_types, vector=bool(args))
 
 
@@ -248,6 +251,45 @@ class Batch3PipelineTests(unittest.TestCase):
             FakeBackend(), FakeBackend(), lambda _: [], reranker=constant_reranker(), sidecar=FakeSidecar({})
         ).retrieve_narrative(make_query(metrics=(), periods=("2024",)), top_k=2)
         self.assertEqual(unlinked.linked_table_ids_by_candidate[unlinked.candidates[0].candidate_id], [])
+
+
+class CandidateDepthTests(unittest.TestCase):
+    def _service(self, backend):
+        return Batch3Retriever(backend, backend, lambda _: [], reranker=constant_reranker())
+
+    def test_backends_run_at_multiplied_depth_while_result_stays_top_k(self):
+        backend = FakeBackend()
+        result = self._service(backend).retrieve(
+            make_query(), top_k=4, eligible_source_types=[EvidenceSource.TABLE]
+        )
+
+        self.assertEqual(backend.top_ks, [4 * CANDIDATE_DEPTH_MULTIPLIER] * 2)
+        self.assertLessEqual(len(result), 4)
+
+    def test_explicit_candidate_top_k_overrides_the_multiplier(self):
+        backend = FakeBackend()
+        self._service(backend).retrieve(
+            make_query(),
+            top_k=2,
+            eligible_source_types=[EvidenceSource.TABLE],
+            candidate_top_k=7,
+        )
+
+        self.assertEqual(backend.top_ks, [7, 7])
+
+    def test_candidate_top_k_below_top_k_and_invalid_top_k_are_typed_errors(self):
+        service = self._service(FakeBackend())
+        with self.assertRaisesRegex(Batch3RetrievalError, "INVALID_CANDIDATE_TOP_K"):
+            service.retrieve(
+                make_query(),
+                top_k=5,
+                eligible_source_types=[EvidenceSource.TABLE],
+                candidate_top_k=4,
+            )
+        with self.assertRaisesRegex(Batch3RetrievalError, "INVALID_TOP_K"):
+            service.retrieve(
+                make_query(), top_k=0, eligible_source_types=[EvidenceSource.TABLE]
+            )
 
 
 class ScaleUnitHintRetrievalTests(unittest.TestCase):
