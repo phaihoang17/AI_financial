@@ -1,0 +1,1299 @@
+{
+ "trace": [
+  {
+   "qid": "vifinqa-1",
+   "question": "Lãi tiền gửi năm 2018 của công ty mẹ CTCP Hàng không Vietjet (VJC) là bao nhiêu triệu đồng?",
+   "gold_table_id": "table_4a7d82e976c51377b028aaa0385e5f91478935f74e7956bfb9dd16dddec0590d",
+   "report_id": "report_59189639487eaeb108a1a6d1b90b09ff9052c0ceebdbf5e6ade424eba7ea5881",
+   "ticker": "VJC",
+   "year": "2018",
+   "scope": "RIENG",
+   "metric": "Lãi tiền gửi",
+   "query_texts": [
+    "Lãi tiền gửi CTCP Hàng không Vietjet VJC 2018"
+   ],
+   "bm25_rank_deep": 1,
+   "bm25_n": 10,
+   "dense_rank_deep": 18,
+   "dense_n": 60,
+   "bm25_in_top10": 1,
+   "dense_in_top10": null,
+   "fused10_rank": 2,
+   "reranked10_rank": 1,
+   "top_fused_tables": [
+    "table_e28a00cbcda6b6e800bc9b842e80da8d18d8e7d9366c218eb75c0bc3ea543116",
+    "table_4a7d82e976c51377b028aaa0385e5f91478935f74e7956bfb9dd16dddec0590d",
+    "table_ca55ecd0ade47ac8e9958f9097e5b1b0dd9d372818bf88f2c543c66b6cf9ac52",
+    "table_35ef31b3ab265ad391ee7e36a78e9f6647069b6903aadda5235d1ffac007c7f5",
+    "table_d381f69b7b40995dcf5fd9d422b9d49b189db5aed91a24a8238619d9e611a056"
+   ],
+   "top_reranked_tables": [
+    "table_4a7d82e976c51377b028aaa0385e5f91478935f74e7956bfb9dd16dddec0590d",
+    "table_35ef31b3ab265ad391ee7e36a78e9f6647069b6903aadda5235d1ffac007c7f5",
+    "table_e87b872e9f3324db4379208b8e2298d34db418819a460bfb3ba0e866a9a7e079",
+    "table_ab7a391664ff21a62a797ec08a74906f21c706b4b74a967832c84e75c9fe523c",
+    "table_10458569de34e4bbe47300a3a514cb46c1ed8fe32016b84ec11c929f0c156423"
+   ]
+  },
+  {
+   "qid": "vifinqa-2",
+   "question": "Số dư cho vay khách hàng ngành Thương mại của công ty mẹ Ngân hàng TMCP Á Châu (ACB) cuối năm 2022 là bao nhiêu triệu đồng?",
+   "gold_table_id": "table_d37161645c32e3e1bb7279bbbe42708cb43b110d9da34518ff7508dd4a79e9ba",
+   "report_id": "report_6d4ff0392326e957fc73034e36ae244294c4e35dfbb3c231566da7ae7c181b56",
+   "ticker": "ACB",
+   "year": "2022",
+   "scope": "RIENG",
+   "metric": "Cho vay khách hàng - ngành Thương mại",
+   "query_texts": [
+    "Cho vay khách hàng - ngành Thương mại Ngân hàng TMCP Á Châu ACB 2022"
+   ],
+   "bm25_rank_deep": null,
+   "bm25_n": 0,
+   "dense_rank_deep": 81,
+   "dense_n": 125,
+   "bm25_in_top10": null,
+   "dense_in_top10": null,
+   "fused10_rank": null,
+   "reranked10_rank": null,
+   "top_fused_tables": [
+    "table_70fc310948b4e8241adf7aca360777439aab6ea4136b831da2a0f1b94dbba512",
+    "table_70bf3dc953784727b49887cb85f4ffa05b9b3caa934e4b5909e6c0bf9c275477",
+    "table_85e35a273bed25ed669b948fb198413737c2ea2f4dbc6e2a66fdeeb0832b8b11",
+    "table_2d1d03d9e28d7073e99ce8b885602cb78a481b9dcb79f06ba356b4421fd4b3d4",
+    "table_caf4752070d7b0bb5d2f181eae73a3bbb587c80f577e4485266a9948c8e48378"
+   ],
+   "top_reranked_tables": [
+    "table_3dcdbe65c882f557318cdb55c5c7ff68234fdbb4a664d4552b0f7a4a54e97e2b",
+    "table_2d1d03d9e28d7073e99ce8b885602cb78a481b9dcb79f06ba356b4421fd4b3d4",
+    "table_70bf3dc953784727b49887cb85f4ffa05b9b3caa934e4b5909e6c0bf9c275477",
+    "table_85e35a273bed25ed669b948fb198413737c2ea2f4dbc6e2a66fdeeb0832b8b11",
+    "table_60e2af178b58e5f03055ace8c4fe88d2bab6318fe91ed539d6f9687d9151b7b1"
+   ]
+  },
+  {
+   "qid": "vifinqa-3",
+   "question": "Chi phí dự phòng của Ngân hàng TMCP Sài Gòn Tài Lộc trong năm 2020 là bao nhiêu triệu đồng?",
+   "gold_table_id": "table_d339359551ac60cf85db56f83aebbb45a6f7c08ad745a1fc81f4066770dcfec8",
+   "report_id": "report_6981f4d0d4118422f389bf63b7d855783bf542724380c545c35ebcc1f5f8223f",
+   "ticker": "STB",
+   "year": "2020",
+   "scope": "HOP_NHAT",
+   "metric": "Chi phí dự phòng rủi ro tín dụng",
+   "query_texts": [
+    "Chi phí dự phòng rủi ro tín dụng Ngân hàng TMCP Sài Gòn Thương Tín STB 2020"
+   ],
+   "bm25_rank_deep": null,
+   "bm25_n": 0,
+   "dense_rank_deep": 107,
+   "dense_n": 121,
+   "bm25_in_top10": null,
+   "dense_in_top10": null,
+   "fused10_rank": null,
+   "reranked10_rank": null,
+   "top_fused_tables": [
+    "table_3f846d02b831f3b5e943b89e8e91073b69a6ccbb43d4a2f3da415772a161857d",
+    "table_5131805f172f8be2dc1e1ca706f4f149d5774e8fee471353b0815ad0dc2ae119",
+    "table_0ceda8e18698ebf1da8dead892676968f2ad42493b2133835e9bb1ebbf62eb5d",
+    "table_376f23f0eda62a6db8ee61425ad40ec4f82708b584a9b1376ac48d472b45fa40",
+    "table_6c22f7682733ebf514a99e0f2847b8c19c5361157f6b3ba77c14e9397b2a92f9"
+   ],
+   "top_reranked_tables": [
+    "table_94b771082dd4fd5069aa6ab2490c15c14d0e52f75b93271159ba57567ba83d49",
+    "table_4a6cea68b4a148862bc0ab2c3c6f120fb0bdec8cb5a6cb931bbb62a430ae66c0",
+    "table_ffdc5bc6cec6168af1f18e5ac1c71290cc546b5d4f4536bcb4bdb51c4f10cefe",
+    "table_6c22f7682733ebf514a99e0f2847b8c19c5361157f6b3ba77c14e9397b2a92f9",
+    "table_3dd5ccda5ff9c67932fd5cec1aff35b55c99c0737ce5bacf6811595fd4bc03b0"
+   ]
+  },
+  {
+   "qid": "vifinqa-4",
+   "question": "Lợi nhuận sau thuế của CTCP Chứng khoán FPT năm 2023 là bao nhiêu tỷ đồng?",
+   "gold_table_id": "table_d25370337e504e59ee032037abdbbe140c85b9db51d854a51510ce973ea91c19",
+   "report_id": "report_b086b093f6fdab67bf7c298fad602e257fcbcb778bfbb191dbac03442db80548",
+   "ticker": "FTS",
+   "year": "2023",
+   "scope": null,
+   "metric": "Lợi nhuận kế toán sau thuế TNDN",
+   "query_texts": [
+    "Lợi nhuận kế toán sau thuế TNDN CTCP Chứng khoán FPT FTS 2023"
+   ],
+   "bm25_rank_deep": null,
+   "bm25_n": 1,
+   "dense_rank_deep": 14,
+   "dense_n": 60,
+   "bm25_in_top10": null,
+   "dense_in_top10": null,
+   "fused10_rank": null,
+   "reranked10_rank": null,
+   "top_fused_tables": [
+    "table_a513360f03e5fd6ce145299a63333a5a7d6e8e8151ae09985981ead24e4a6d2d",
+    "table_9f6d695b0277f48bd8e3ffd77d58a19924c8e22f1558b28e453a825a3e7dbe3c",
+    "table_01428416bd20c5390960b0e040ab89790f0ada188757e694028122029484650e",
+    "table_525a41f229dcc9dac2203abd7089951712ffc8dd2162be4e6a62a6f5aaad8e2c",
+    "table_8be7e8218cec6e228575c97c15b517fb20b510d03847cfbd8cf9124cef7affc2"
+   ],
+   "top_reranked_tables": [
+    "table_9f6d695b0277f48bd8e3ffd77d58a19924c8e22f1558b28e453a825a3e7dbe3c",
+    "table_e0498b9ea0dccf4c7795a22142535ed42239d459d723f96c4cf7351c5dfaae70",
+    "table_f6bf03da1ace313c37f26d1a30b7c6df8dcc5d681e9785dbcec001a65d053df6",
+    "table_3b0932cc67d4668cee746f015e92c46011499f35f2c07e9897ad25be0c84c8a3",
+    "table_d9a707ed0c4240eb7321e8ee84722bda365b8402196df4dff46c202e1199f603"
+   ]
+  },
+  {
+   "qid": "vifinqa-10",
+   "question": "Chi phí tài chính của công ty mẹ CTCP Phát triển Sunshine Homes năm 2021 là bao nhiêu triệu đồng?",
+   "gold_table_id": "table_1ca44febc0a275bc508132bc6f5ce51b554ae7eb6c2ea1eadba3afcf11c513c9",
+   "report_id": "report_a67ff99e5949811359e88691123168543e105467e8d94c4877ce46ca5311a0ce",
+   "ticker": "SSH",
+   "year": "2021",
+   "scope": "RIENG",
+   "metric": "Chi phí tài chính",
+   "query_texts": [
+    "Chi phí tài chính CTCP Phát triển Sunshine Homes SSH 2021"
+   ],
+   "bm25_rank_deep": 6,
+   "bm25_n": 10,
+   "dense_rank_deep": 52,
+   "dense_n": 56,
+   "bm25_in_top10": 6,
+   "dense_in_top10": null,
+   "fused10_rank": null,
+   "reranked10_rank": null,
+   "top_fused_tables": [
+    "table_8a028fe8472e195058948e0deade8b928aba159134c95ed9ced648ab12ed78c6",
+    "table_d86e823c9513b62534c3458ca3b19fbb209f42632b688b4873d2d4ba6e4896fa",
+    "table_96615e7115eb09855737ad915e0677819febb1de675717ecc37e6c1bc3e788fb",
+    "table_5beca944f657d8187c5340612f2e3262052b17dc40de06b6bc37982b22d2e8f7",
+    "table_50195c3f1fef673acf4ba90a7135c96a1d28eec54860761323d2d4a143caa2cd"
+   ],
+   "top_reranked_tables": [
+    "table_5beca944f657d8187c5340612f2e3262052b17dc40de06b6bc37982b22d2e8f7",
+    "table_a3cdb60b17b7f6403c4452e14b54de4ed029f61267ffd58b0d7d8df64cb699b4",
+    "table_00dd701f942f5b7df5ed1a615491b3a962f4f20622b3fdb45a70c7460d663120",
+    "table_8a028fe8472e195058948e0deade8b928aba159134c95ed9ced648ab12ed78c6",
+    "table_134fdbceace6e6bd84d2ec60e4848d331ca964f5a6e589583d61bb8b8d1492b2"
+   ]
+  },
+  {
+   "qid": "vifinqa-17",
+   "question": "Lãi thuần từ hoạt động dịch vụ của Ngân hàng TMCP Sài Gòn - Hà Nội (SHB) năm 2018 là bao nhiêu triệu đồng?",
+   "gold_table_id": "table_3df53539c14980d8fad779da790ccf2ef3977ca0a26381307d61d224cf11469f",
+   "report_id": "report_6d93bc682da2842693c599009c1add29e28b2b80814fcbdc23141516e4209522",
+   "ticker": "SHB",
+   "year": "2018",
+   "scope": "HOP_NHAT",
+   "metric": "Lãi thuần từ hoạt động dịch vụ",
+   "query_texts": [
+    "Lãi thuần từ hoạt động dịch vụ Ngân hàng TMCP Sài Gòn - Hà Nội SHB 2018"
+   ],
+   "bm25_rank_deep": 8,
+   "bm25_n": 10,
+   "dense_rank_deep": 95,
+   "dense_n": 123,
+   "bm25_in_top10": 8,
+   "dense_in_top10": null,
+   "fused10_rank": null,
+   "reranked10_rank": null,
+   "top_fused_tables": [
+    "table_117513d7bcb721c4e6b38348a6469bcc4efd84af4f5d3c043a8de289c1761a5b",
+    "table_d846bf84cc19f27c60fc8b9c8da2f1beaa8dc6ba68053f4550e01762f87d42b2",
+    "table_3d05a162463c04c174a4ca8fae46ae0f1b13174be257e6282755bf1a54af6320",
+    "table_c2f994e692db9d1dab644e3ce6cdd77473a54e35063d599b7201abf0204a06a1",
+    "table_fd1ff91c50565639091f3a70322cc7e84dbc20b4bc6e59cc5c4c34ee08bb9a25"
+   ],
+   "top_reranked_tables": [
+    "table_3d05a162463c04c174a4ca8fae46ae0f1b13174be257e6282755bf1a54af6320",
+    "table_cab07ef96f0629d23d26237f56512a88d8739a7284a039862c559abbda79d746",
+    "table_0be0181bf75cc28c9b227d3933d907382627193bf157b62a3eff28a816158ec1",
+    "table_3adfc13c3d06f914e88ed890e8b0c0f87736938ea71926287a0612a538bf2951",
+    "table_117513d7bcb721c4e6b38348a6469bcc4efd84af4f5d3c043a8de289c1761a5b"
+   ]
+  },
+  {
+   "qid": "vifinqa-21",
+   "question": "Số dư thuế thu nhập doanh nghiệp phải trả của Ngân hàng TMCP Quốc tế Việt Nam (VIB) cuối năm 2020 là bao nhiêu triệu đồng?",
+   "gold_table_id": "table_a97cb5b7412b046e060aa9592a7c7b8bfce5cd6de5b5fcd97d48c194df1262fa",
+   "report_id": "report_c6fac16c29f033903dc858a0ace27553da504ddf2fc0ae17a55fb5c66522a6a1",
+   "ticker": "VIB",
+   "year": "2020",
+   "scope": "HOP_NHAT",
+   "metric": "Thuế thu nhập doanh nghiệp phải trả",
+   "query_texts": [
+    "Thuế thu nhập doanh nghiệp phải trả Ngân hàng TMCP Quốc tế Việt Nam VIB 2020"
+   ],
+   "bm25_rank_deep": null,
+   "bm25_n": 2,
+   "dense_rank_deep": 15,
+   "dense_n": 116,
+   "bm25_in_top10": null,
+   "dense_in_top10": null,
+   "fused10_rank": null,
+   "reranked10_rank": null,
+   "top_fused_tables": [
+    "table_efac00ba34544faba5f8136e5ac944153b3008c3fbd5e1c55abfbf959e48fb82",
+    "table_01abad626eeaa679e61104b1339726959cbe25fd0a053a383860eb4f763ca7c0",
+    "table_c43a8c9095b911d57fb8fd379f49823394e8b6ed5e60fe6f5475f4a68a2ae551",
+    "table_e9153ecb1c23dec6a4a6d3832529567d09dcce98c233a87535f251d4aa293f0e",
+    "table_9704486151e8c16de5855641170b9b9d98139d6a62d1d871f02b7e68be705d5d"
+   ],
+   "top_reranked_tables": [
+    "table_e7bd9c74fef3902bcc04d498f7255c22f0f7695360b3da1d3be820c2bfb42060",
+    "table_efac00ba34544faba5f8136e5ac944153b3008c3fbd5e1c55abfbf959e48fb82",
+    "table_e9153ecb1c23dec6a4a6d3832529567d09dcce98c233a87535f251d4aa293f0e",
+    "table_9704486151e8c16de5855641170b9b9d98139d6a62d1d871f02b7e68be705d5d",
+    "table_260a017d5b94feab51da3e4294e86d9e5bae56ec7bc946f8650d2bb691074dc2"
+   ]
+  },
+  {
+   "qid": "vifinqa-24",
+   "question": "Vay dài hạn với Công ty Cổ phần Hoàng Anh Gia Lai của công ty mẹ CTCP Nông nghiệp Quốc tế Hoàng Anh Gia Lai (HNG) cuối năm 2017 là bao nhiêu nghìn đồng?",
+   "gold_table_id": "table_c2ef9e787efcdbea19848ac4dc178995d64666695bd783625a6c35ce46bfddfa",
+   "report_id": "report_a13d1ef5222ce642c086dbde22992bb4f4ba5b348f07c5d43826c210e996811d",
+   "ticker": "HNG",
+   "year": "2017",
+   "scope": "RIENG",
+   "metric": "Vay dài hạn với CTCP Hoàng Anh Gia Lai",
+   "query_texts": [
+    "Vay dài hạn với CTCP Hoàng Anh Gia Lai CTCP Nông nghiệp Quốc tế Hoàng Anh Gia Lai HNG 2017"
+   ],
+   "bm25_rank_deep": null,
+   "bm25_n": 3,
+   "dense_rank_deep": 55,
+   "dense_n": 67,
+   "bm25_in_top10": null,
+   "dense_in_top10": null,
+   "fused10_rank": null,
+   "reranked10_rank": null,
+   "top_fused_tables": [
+    "table_02295e8480141492ae9b498efae0aef6da355bd7b6b5abb0dbc5deaa695cf77a",
+    "table_98f5bb3af1484676313e75628c1a792a8e8721f6eaba3ad0c5a34cfb1f9cf5f0",
+    "table_bb19043aa9e9802a79e9f46385a6cd0a662eb7102fdfc23c2963c6db64cb5847",
+    "table_c5fafc721039f7308f9b9d903bf4deacfd2c593898277bb397bb8c8b723b0175",
+    "table_b8da18c9ad8c75814f0386ae9d3c96cf7f49c57c98f657a6ca69af252806f366"
+   ],
+   "top_reranked_tables": [
+    "table_c5fafc721039f7308f9b9d903bf4deacfd2c593898277bb397bb8c8b723b0175",
+    "table_0ebe6f5eaeb4b2774d633335510511f644575988db56ffef1337215e281608d8",
+    "table_98f5bb3af1484676313e75628c1a792a8e8721f6eaba3ad0c5a34cfb1f9cf5f0",
+    "table_206713fc8de29643126ae0addb416618219883ac7ba2b09ee3026dd2e1f3034c",
+    "table_d41e517200da8b1af877cb62550e0a4b2106e41bec1fc0cee5515e07316c75e9"
+   ]
+  },
+  {
+   "qid": "vifinqa-28",
+   "question": "Tổng phải thu ngắn hạn khác của công ty mẹ CTCP Tập đoàn Đầu tư Địa ốc No Va đến ngày 31 tháng 12 năm 2016 là bao nhiêu nghìn tỷ đồng?",
+   "gold_table_id": "table_efb27f70b066a82f74c271a88a36bb872f42efe55a15ed5d84e387a7187260c6",
+   "report_id": "report_3297cf286dae6b3b5e18f2bc0f9aa853a25aee35be2bf38f68e4c2d6d7c9c90f",
+   "ticker": "NVL",
+   "year": "2016",
+   "scope": "RIENG",
+   "metric": "Phải thu ngắn hạn khác",
+   "query_texts": [
+    "Phải thu ngắn hạn khác CTCP Tập đoàn Đầu tư Địa ốc No Va NVL 2016"
+   ],
+   "bm25_rank_deep": 11,
+   "bm25_n": 21,
+   "dense_rank_deep": 94,
+   "dense_n": 100,
+   "bm25_in_top10": null,
+   "dense_in_top10": null,
+   "fused10_rank": null,
+   "reranked10_rank": null,
+   "top_fused_tables": [
+    "table_9b12a6afc512a8a6ced9a865ad24bf006662d1a88691d4feb65ca6c2082655c2",
+    "table_6aec408d4254a2e5e3385f4482ce9afe564bb8dbe61e8817f72e6e91630e3740",
+    "table_086cc85ddc73d2b24e91e6f4d5f8488502079996a3ae909fc3ce42bd3b083dc7",
+    "table_0b1c3d7c4f292ae46f20fc61e6b6faf0acb95cb7616fba4e491a31936be39be3",
+    "table_3322533104c8d15edd2d273083d75c09b85ef08211aa4e6236c92e559427c85e"
+   ],
+   "top_reranked_tables": [
+    "table_3322533104c8d15edd2d273083d75c09b85ef08211aa4e6236c92e559427c85e",
+    "table_0b1c3d7c4f292ae46f20fc61e6b6faf0acb95cb7616fba4e491a31936be39be3",
+    "table_ad4b882fbd2e494b9fe2ff4fb5d72db290e13763455c7f9e9d237dd46fea9207",
+    "table_1fef370717a590c68ade7e3f5ad2be50e510e9ac1728d0e91a6c7da0690061f0",
+    "table_6aec408d4254a2e5e3385f4482ce9afe564bb8dbe61e8817f72e6e91630e3740"
+   ]
+  },
+  {
+   "qid": "vifinqa-33",
+   "question": "Số dư dự phòng rủi ro cho vay khách hàng của Ngân hàng TMCP Quân đội là bao nhiêu triệu đồng vào cuối năm 2020?",
+   "gold_table_id": "table_9a5c00ba7c78826d2cd9b2285a5ea90413ead7b0441ab6b08d9b429cd66ac5e3",
+   "report_id": "report_bf30631b31f52ecedf11805b44ebd54430b11bb0010a571ec6f4f7e14048fd30",
+   "ticker": "MBB",
+   "year": "2020",
+   "scope": "HOP_NHAT",
+   "metric": "Dự phòng rủi ro cho vay khách hàng",
+   "query_texts": [
+    "Dự phòng rủi ro cho vay khách hàng Ngân hàng TMCP Quân đội MBB 2020"
+   ],
+   "bm25_rank_deep": 6,
+   "bm25_n": 11,
+   "dense_rank_deep": 107,
+   "dense_n": 113,
+   "bm25_in_top10": 6,
+   "dense_in_top10": null,
+   "fused10_rank": null,
+   "reranked10_rank": null,
+   "top_fused_tables": [
+    "table_7467113989fcc800cf6939dd98c421edace65107bdaa809536c485dacc02baac",
+    "table_220492359a9d5c54e5217f38615e913319ab8c205856c472eb2219dc59171092",
+    "table_f14482f7db158f9d66d74b6cec233dbad5bfdd67d46095d83be1274fc32803c6",
+    "table_2f98a63b85d0e373c0d2f5fe063073232255e706c154fa0d819785c4937817f6",
+    "table_b2256d5e4335dcc581fec871308cd8307f915fcbcd4fbdd36294159cf2d1a9bd"
+   ],
+   "top_reranked_tables": [
+    "table_b2256d5e4335dcc581fec871308cd8307f915fcbcd4fbdd36294159cf2d1a9bd",
+    "table_7467113989fcc800cf6939dd98c421edace65107bdaa809536c485dacc02baac",
+    "table_220492359a9d5c54e5217f38615e913319ab8c205856c472eb2219dc59171092",
+    "table_09c27b84c78b33135c8b21a2f3fd6551a6d84b6136d473cad90680c94abef70f",
+    "table_da72d24422355960f82e89df4286d0a79c25c5944bed064043e4332ca0fc739c"
+   ]
+  },
+  {
+   "qid": "vifinqa-34",
+   "question": "Thu nhập khác của công ty mẹ CTCP Tập đoàn Xây dựng Hòa Bình trong năm 2022 là bao nhiêu tỷ đồng?",
+   "gold_table_id": "table_fafa4ff43b8df1a3a9e59b5033f717c6ac74cd17ae91439f91c9e928b18b81e4",
+   "report_id": "report_dbf72c4341b792d04921c2b2def74e5f8a7b67865e18ea59f48cb27d4dda762e",
+   "ticker": "HBC",
+   "year": "2022",
+   "scope": "RIENG",
+   "metric": "Thu nhập khác",
+   "query_texts": [
+    "Thu nhập khác CTCP Tập đoàn Xây dựng Hòa Bình HBC 2022"
+   ],
+   "bm25_rank_deep": 3,
+   "bm25_n": 26,
+   "dense_rank_deep": 30,
+   "dense_n": 73,
+   "bm25_in_top10": 3,
+   "dense_in_top10": null,
+   "fused10_rank": 6,
+   "reranked10_rank": 1,
+   "top_fused_tables": [
+    "table_6458034722ec6a3a895ae3506fbbb290b5e7baa101e8b1bcdd72901e3a08f56c",
+    "table_5d90ab99f37165fc7ea047176ea9a77f068dd7b8d99f1ab8b15385d497aa3de8",
+    "table_d7e7790a9e598f4e03b451a01ad612b9ee4a0199ba46966c100feb4b509d2734",
+    "table_6e5ebed35212179c9073c089e5d313610408883cd50c3393415610b850fe3394",
+    "table_515e6bce6fdaab71537464a4507ccad1c5568b25fe0cc9cee6e64f217d72792f"
+   ],
+   "top_reranked_tables": [
+    "table_fafa4ff43b8df1a3a9e59b5033f717c6ac74cd17ae91439f91c9e928b18b81e4",
+    "table_e7f9a20133119d18f59fae14c06d2ca291f6294923eb6e8fa2fbb725f7984046",
+    "table_6e5ebed35212179c9073c089e5d313610408883cd50c3393415610b850fe3394",
+    "table_15a52362c36af9096dad08699991c213423cb166ec134268b263f3a2efacf05a",
+    "table_5d90ab99f37165fc7ea047176ea9a77f068dd7b8d99f1ab8b15385d497aa3de8"
+   ]
+  },
+  {
+   "qid": "vifinqa-36",
+   "question": "Giá trị còn lại của lợi thế thương mại (tổng cộng) của CTCP Vincom Retail (VRE) là bao nhiêu triệu đồng đến ngày 31/12/2016?",
+   "gold_table_id": "table_817621edb9ba9e6eb5eddecdc2a0428e76da76fb3d4e7c25b74742a090775856",
+   "report_id": "report_b0c4d2a71492474a59d71a6cb5f5c8455a2612b35208567fdbebc5be46d894f5",
+   "ticker": "VRE",
+   "year": "2016",
+   "scope": "HOP_NHAT",
+   "metric": "Lợi thế thương mại - giá trị còn lại (tổng cộng)",
+   "query_texts": [
+    "Lợi thế thương mại - giá trị còn lại (tổng cộng) CTCP Vincom Retail VRE 2016"
+   ],
+   "bm25_rank_deep": 1,
+   "bm25_n": 1,
+   "dense_rank_deep": 53,
+   "dense_n": 69,
+   "bm25_in_top10": 1,
+   "dense_in_top10": null,
+   "fused10_rank": 1,
+   "reranked10_rank": 1,
+   "top_fused_tables": [
+    "table_817621edb9ba9e6eb5eddecdc2a0428e76da76fb3d4e7c25b74742a090775856",
+    "table_18af4fcd151a4617a8bb7cc835938b175a63da5c8d7419248b7b054a7ce84fcf",
+    "table_9d29a52fbd918019c434d126786eedcb7f75b7d1799f2d7f4a974ee9a41fd850",
+    "table_de6d237e5726e86f51f61c196d866477d8e093363d0d6bbd509e032562e145dc",
+    "table_d2dc7dcaa8056beee7fceaf2b5f0cd42b7e3564cd0074c865e5cb7b6c5639cef"
+   ],
+   "top_reranked_tables": [
+    "table_817621edb9ba9e6eb5eddecdc2a0428e76da76fb3d4e7c25b74742a090775856",
+    "table_9d29a52fbd918019c434d126786eedcb7f75b7d1799f2d7f4a974ee9a41fd850",
+    "table_ba826b15c1267702060fd779128da052b2c7dbab0d173a08b85e89932dbae089",
+    "table_ff8183551e56d48203e1347799ff4ddceec2a08a80b04025b56f3266d898959b",
+    "table_65e143b7029a195fbc9b5b7a663d278e5c70537b83ebe421658d1eda0686a2a9"
+   ]
+  },
+  {
+   "qid": "vifinqa-39",
+   "question": "Số dư phải thu phí quản lý tập trung của công ty mẹ Tập đoàn Công nghiệp Cao su Việt Nam - CTCP cuối năm 2020 là bao nhiêu triệu đồng?",
+   "gold_table_id": "table_d7f91ec9f3ed28b7f8a02a1d862f0df56110b92ac83a956e23d123fd08ea6116",
+   "report_id": "report_17de34f431edda2bcf84aa8a510355d78d4174b01b0a3c525b7c99cf8936c8ac",
+   "ticker": "GVR",
+   "year": "2020",
+   "scope": "RIENG",
+   "metric": "Phải thu phí quản lý tập trung",
+   "query_texts": [
+    "Phải thu phí quản lý tập trung Tập đoàn Công nghiệp Cao su Việt Nam - CTCP GVR 2020"
+   ],
+   "bm25_rank_deep": 2,
+   "bm25_n": 3,
+   "dense_rank_deep": 69,
+   "dense_n": 79,
+   "bm25_in_top10": 2,
+   "dense_in_top10": null,
+   "fused10_rank": 3,
+   "reranked10_rank": 1,
+   "top_fused_tables": [
+    "table_9b7d49cbc5f415a765153e427b8c87a1d16036d531d3c61f606445851e365455",
+    "table_64600d8e32d0aef7a218b5a656e9d235ce269c248059572ae62979e60ebe8895",
+    "table_d7f91ec9f3ed28b7f8a02a1d862f0df56110b92ac83a956e23d123fd08ea6116",
+    "table_a02365b0c4d915c454f71800e197f977895ca89c2cba0b91f8b2fe08878d720e",
+    "table_49b6516e88a07c54e62265a8f4e58024e9bb4cf6fcfb5956dfad6fe9971a7716"
+   ],
+   "top_reranked_tables": [
+    "table_d7f91ec9f3ed28b7f8a02a1d862f0df56110b92ac83a956e23d123fd08ea6116",
+    "table_9b7d49cbc5f415a765153e427b8c87a1d16036d531d3c61f606445851e365455",
+    "table_c23e10ccfd403255697a05f0abf18da327f9a29bbf5d9aac874eb8a3f7638e4e",
+    "table_df550ee3207c1c2fcb25a10707884afb509f7fe972f212e8dd07fee0d8acce01",
+    "table_decb6946a1a19e46f63358c14e0be733fba59c9c34494acf7d4714d05bb19971"
+   ]
+  },
+  {
+   "qid": "vifinqa-41",
+   "question": "Giá gốc chứng khoán kinh doanh của CTCP Tập đoàn Đức Long Gia Lai cuối năm 2016 là bao nhiêu tỷ đồng?",
+   "gold_table_id": "table_888936df6e2d370461b9d1cd5141e17c2c0bd12e751e86995e812ba1dbb8a9cc",
+   "report_id": "report_e41578b762a9227b7744aaa44b89eb4278b0401ced672eb1fb2a552261c226bb",
+   "ticker": "DLG",
+   "year": "2016",
+   "scope": "HOP_NHAT",
+   "metric": "Chứng khoán kinh doanh - giá gốc",
+   "query_texts": [
+    "Chứng khoán kinh doanh - giá gốc CTCP Tập đoàn Đức Long Gia Lai DLG 2016"
+   ],
+   "bm25_rank_deep": 1,
+   "bm25_n": 4,
+   "dense_rank_deep": 16,
+   "dense_n": 81,
+   "bm25_in_top10": 1,
+   "dense_in_top10": null,
+   "fused10_rank": 1,
+   "reranked10_rank": 1,
+   "top_fused_tables": [
+    "table_888936df6e2d370461b9d1cd5141e17c2c0bd12e751e86995e812ba1dbb8a9cc",
+    "table_07370cd2c481c3cbb7e8c29bdf6cfb4c01864061b06d3a8146804540043d17e2",
+    "table_f9909987e1968be8b9f973ca7535b1e8ee196e58183df723b223202c2939be62",
+    "table_1cd7688b3de561e50ac58c9269038a9202a34458b02b898d07cf02f19fa1ba6e",
+    "table_b69e6fc7a589be6d12e606bc9a5dfbdd599e884805122ca78e9c696db71c690f"
+   ],
+   "top_reranked_tables": [
+    "table_888936df6e2d370461b9d1cd5141e17c2c0bd12e751e86995e812ba1dbb8a9cc",
+    "table_1cd7688b3de561e50ac58c9269038a9202a34458b02b898d07cf02f19fa1ba6e",
+    "table_b69e6fc7a589be6d12e606bc9a5dfbdd599e884805122ca78e9c696db71c690f",
+    "table_9e286450f273baaa237a9ecfce554c10c329e864a10e07c3c456496718cf45fe",
+    "table_3607ae43a4cad322d17c177fb1461e35e60d592b8e3c29755d31a608493807e1"
+   ]
+  },
+  {
+   "qid": "vifinqa-43",
+   "question": "Nguyên giá xây dựng Nhà ga Hành khách T2 - CHKQT Nội Bài của Tổng Công ty Cảng Hàng không Việt Nam - CTCP cuối năm 2022 là bao nhiêu tỷ đồng?",
+   "gold_table_id": "table_0c075e83b9e2f0c345eed4324e34e5d688b7f2e88eeee86cc7bb8a00dffc8cff",
+   "report_id": "report_3011844ef4705dbef206d06533b0c802f5c0488d1b2daf5594af0a96a810df0b",
+   "ticker": "ACV",
+   "year": "2022",
+   "scope": "HOP_NHAT",
+   "metric": "Chi phí XDCB dở dang - Nhà ga T2 CHKQT Nội Bài",
+   "query_texts": [
+    "Chi phí XDCB dở dang - Nhà ga T2 CHKQT Nội Bài Tổng Công ty Cảng Hàng không Việt Nam - CTCP ACV 2022"
+   ],
+   "bm25_rank_deep": null,
+   "bm25_n": 0,
+   "dense_rank_deep": 38,
+   "dense_n": 63,
+   "bm25_in_top10": null,
+   "dense_in_top10": null,
+   "fused10_rank": null,
+   "reranked10_rank": null,
+   "top_fused_tables": [
+    "table_124e2cb372dd3c09b279c7d1505a5681209a6e81b0d14bc9905f30217c163f0e",
+    "table_2c33e7f246fc91df89c6ccbad28f1fd06cf37b556fb5a18451031cfb716101d3",
+    "table_be3fbd1b3c0be847831d3a28b779a9b1b24bf7941b3371c22ea8873beefc43f5",
+    "table_cb057dceeb07519bbd2ba74f44c5c48b61c956d91f106ba9e96f503f389ac93c",
+    "table_e1dc6334b44c7ca3d2e08b1a513909d750d1537084d6ee585efe6178dedfe9bf"
+   ],
+   "top_reranked_tables": [
+    "table_5da4cfc22ff26b7d229ba05258a54f742a9fb8af94e8b913488857088738f8e1",
+    "table_cb057dceeb07519bbd2ba74f44c5c48b61c956d91f106ba9e96f503f389ac93c",
+    "table_0bf8a3dfcc2cdc2933b94341bd60aad117fb9bf9deeba400454ba849f4416c45",
+    "table_93d826d2cf2e036c445c0033b4fea6e96289c4f62c5a82e248f5caab7d5bb890",
+    "table_be3fbd1b3c0be847831d3a28b779a9b1b24bf7941b3371c22ea8873beefc43f5"
+   ]
+  },
+  {
+   "qid": "vifinqa-48",
+   "question": "Số dư cuối năm 2015 của Quỹ bình ổn giá xăng dầu tại Tập đoàn Xăng Dầu Việt Nam (PLX) là bao nhiêu tỷ đồng?",
+   "gold_table_id": "table_abc163331b8eb5283ba293a0b0d3df3a71cb61ac652bd1c4a750955ee1f8ee73",
+   "report_id": "report_742606d47b1460b293c1138d659b5bedac90c47ab79baf8f1e86992f6b1963f9",
+   "ticker": "PLX",
+   "year": "2015",
+   "scope": "HOP_NHAT",
+   "metric": "Quỹ bình ổn giá xăng dầu",
+   "query_texts": [
+    "Quỹ bình ổn giá xăng dầu Tập đoàn Xăng Dầu Việt Nam PLX 2015"
+   ],
+   "bm25_rank_deep": 7,
+   "bm25_n": 7,
+   "dense_rank_deep": 54,
+   "dense_n": 74,
+   "bm25_in_top10": 7,
+   "dense_in_top10": null,
+   "fused10_rank": null,
+   "reranked10_rank": null,
+   "top_fused_tables": [
+    "table_d7a402181c24b7a3cf3eed8108e932a78a8eac81e23ee3f34f1e187f34c1a449",
+    "table_1fa3e22c08538a91cc0f5b1e288d01eac397c338a0bdf7adf6e516694bfac76d",
+    "table_112531faa05dbc71dd4b622289ec226b37a862a772da7cc2761f20345fb9a096",
+    "table_90fa72b04b8c62abd7e6b754a32a1e436fa324ae8affa7f958f0c32bca954643",
+    "table_efac4ba5ebe6611d35745d868de7e2debd2d0bb5e8b24f2d301242060318d26c"
+   ],
+   "top_reranked_tables": [
+    "table_112531faa05dbc71dd4b622289ec226b37a862a772da7cc2761f20345fb9a096",
+    "table_d7a402181c24b7a3cf3eed8108e932a78a8eac81e23ee3f34f1e187f34c1a449",
+    "table_4893cc30587c839105714d8ea7671e49c77ab0d27e8a34afe3f6715679d17d3b",
+    "table_298d5ccf122b61a5a99b28ef8cd56689a79c02a87fe6b42b530c56cb30b85f8f",
+    "table_a73a84ca5405d0714134ecca786517e97df4ff9c16ab9b8dd01e787fdb0bb67e"
+   ]
+  },
+  {
+   "qid": "vifinqa-50",
+   "question": "Số dư trái phiếu đặc biệt do VAMC phát hành của công ty mẹ Ngân hàng TMCP An Bình (ABB) đến ngày 31/12/2023 là bao nhiêu triệu đồng?",
+   "gold_table_id": "table_a6d00c229ab9d1e9f56ac558f364fc020e1a2d319e0b7a006b2f2e09391ac7fe",
+   "report_id": "report_b01187382f94175d83e4d3287da51bb56a594bbdd44b197e56536d26a75fc93c",
+   "ticker": "ABB",
+   "year": "2023",
+   "scope": "RIENG",
+   "metric": "Trái phiếu đặc biệt do VAMC phát hành - mệnh giá",
+   "query_texts": [
+    "Trái phiếu đặc biệt do VAMC phát hành - mệnh giá Ngân hàng TMCP An Bình ABB 2023"
+   ],
+   "bm25_rank_deep": null,
+   "bm25_n": 0,
+   "dense_rank_deep": 45,
+   "dense_n": 114,
+   "bm25_in_top10": null,
+   "dense_in_top10": null,
+   "fused10_rank": null,
+   "reranked10_rank": null,
+   "top_fused_tables": [
+    "table_4b7e330964081262465bc7886ef23b6f2c78ff604129a3f5e27aa3623dcd7d47",
+    "table_7701338e567d427178e5a452be75466edf7ded96ec6a42767f31026677fbc3da",
+    "table_d23c1d7a0b860c86cbd137ff1c6368f71f7691ec032332494a79a19aeed370a8",
+    "table_a45631877a96347d1a5460b77426e0ead19f27c611e545af46c74b224a305da1",
+    "table_ce86265f61d5d4a9eeda66541c298c711780ba46546fc64d3c9579536f79ffe7"
+   ],
+   "top_reranked_tables": [
+    "table_4b7e330964081262465bc7886ef23b6f2c78ff604129a3f5e27aa3623dcd7d47",
+    "table_d23c1d7a0b860c86cbd137ff1c6368f71f7691ec032332494a79a19aeed370a8",
+    "table_2553d4a61be3e51969d7557b196c8839527ef778abf818f439e7fcd4c4866d6f",
+    "table_ce86265f61d5d4a9eeda66541c298c711780ba46546fc64d3c9579536f79ffe7",
+    "table_0e31410a4f06eaaed3d8e5255882ce452e71dab951534d5d81a2288765e0cd15"
+   ]
+  },
+  {
+   "qid": "vifinqa-52",
+   "question": "Số dư phải thu trong nghiệp vụ chuyển tiền nhanh của Ngân hàng TMCP Nam Á (NAB) đến ngày 31/12/2024 là bao nhiêu triệu đồng?",
+   "gold_table_id": "table_162f0ec68bf4f57413b214f1051b1fa4e8ef5753ae61877d28ead5784b9b4488",
+   "report_id": "report_6b4e215c0a102d15b329bee4463fe33990ef69803a7bbb987a5111013492ecc7",
+   "ticker": "NAB",
+   "year": "2024",
+   "scope": "HOP_NHAT",
+   "metric": "Phải thu trong nghiệp vụ chuyển tiền nhanh",
+   "query_texts": [
+    "Phải thu trong nghiệp vụ chuyển tiền nhanh Ngân hàng TMCP Nam Á NAB 2024"
+   ],
+   "bm25_rank_deep": 2,
+   "bm25_n": 2,
+   "dense_rank_deep": 53,
+   "dense_n": 127,
+   "bm25_in_top10": 2,
+   "dense_in_top10": null,
+   "fused10_rank": 4,
+   "reranked10_rank": 1,
+   "top_fused_tables": [
+    "table_538367567048f842dc142b8305eaa1b7701169df8d99806f101b4d0768859536",
+    "table_883da909c95c8c52feb32c4519abd2735b810d0dff3dffe407b68119cf82819d",
+    "table_26acf9253f546e6029311dc6c5f77e90db8c444dbe2580d99c9483435337829c",
+    "table_162f0ec68bf4f57413b214f1051b1fa4e8ef5753ae61877d28ead5784b9b4488",
+    "table_daf6a0e1ef2e890e3de1467b5e864dead35e708f45be1f436dfbf24e1a5dacd9"
+   ],
+   "top_reranked_tables": [
+    "table_162f0ec68bf4f57413b214f1051b1fa4e8ef5753ae61877d28ead5784b9b4488",
+    "table_883da909c95c8c52feb32c4519abd2735b810d0dff3dffe407b68119cf82819d",
+    "table_be69efbd6ee57041e1e0846101ad50cc90f8de826ddec27fe290a7fffdab479e",
+    "table_de11aa71ae685a89ef46142c1ea54c26eb2d89153a53b56cb562533b8006ec0b",
+    "table_87bf30e7edca7d5a78797bbbf5b7771f15af4977965a9be27398cf9ebef8d2d9"
+   ]
+  },
+  {
+   "qid": "vifinqa-60",
+   "question": "Lãi vay của công ty mẹ Tổng Công ty Lương thực Miền Nam - CTCP (VSF) năm 2022 là bao nhiêu triệu đồng?",
+   "gold_table_id": "table_76d5d36fcb0f46d7544464577686d61ec46cd1f3ef85d1a6c858b77fe7a6aa19",
+   "report_id": "report_0575ffe856ba11e5091ba38f11184015ccf94a79ab6f85bb236334ca9c6936cb",
+   "ticker": "VSF",
+   "year": "2022",
+   "scope": "RIENG",
+   "metric": "Lãi vay (chi phí lãi vay)",
+   "query_texts": [
+    "Lãi vay (chi phí lãi vay) Tổng Công ty Lương thực Miền Nam - CTCP VSF 2022"
+   ],
+   "bm25_rank_deep": 4,
+   "bm25_n": 10,
+   "dense_rank_deep": 16,
+   "dense_n": 64,
+   "bm25_in_top10": 4,
+   "dense_in_top10": null,
+   "fused10_rank": 7,
+   "reranked10_rank": 1,
+   "top_fused_tables": [
+    "table_0a74bfcfb587c97219bc598aced7c73fc4dad2156fd0dfee488f9bb59bda3f79",
+    "table_934abb407fdddfa8a172ea5fdf48dcc8abc4267c79221869800f6468affb891c",
+    "table_d63e1001bab4df6199595116deb5f6b256ec4b78e71dd41ca9065953f33f77b8",
+    "table_a1ca1f319edf75fa2b0fb9e62a713303cb55838aa02ab066bb78a91bb94ad408",
+    "table_adc709433602b6807b6d0be52404fcb0d6e5c60d2493f4b8f1104005e871753f"
+   ],
+   "top_reranked_tables": [
+    "table_76d5d36fcb0f46d7544464577686d61ec46cd1f3ef85d1a6c858b77fe7a6aa19",
+    "table_adc709433602b6807b6d0be52404fcb0d6e5c60d2493f4b8f1104005e871753f",
+    "table_a1ca1f319edf75fa2b0fb9e62a713303cb55838aa02ab066bb78a91bb94ad408",
+    "table_ef9baec70cd5f1c0079a921b4b75c813eb7372ee7689ecf6677d1ea88b4ed649",
+    "table_934abb407fdddfa8a172ea5fdf48dcc8abc4267c79221869800f6468affb891c"
+   ]
+  },
+  {
+   "qid": "vifinqa-63",
+   "question": "Lãi tiền gửi, tiền cho vay của công ty mẹ CTCP Tập đoàn Sao Mai (ASM) trong năm 2025 là bao nhiêu triệu đồng?",
+   "gold_table_id": "table_665bf1c2478edbb34d73b21408872ba4844bbf9adc7354f9d9a229abbc7f0707",
+   "report_id": "report_59d850bea5fbe8da9678198c8f3551b59119117d95f0770567933f58c8ba43e5",
+   "ticker": "ASM",
+   "year": "2025",
+   "scope": "RIENG",
+   "metric": "Lãi tiền gửi, tiền cho vay",
+   "query_texts": [
+    "Lãi tiền gửi, tiền cho vay CTCP Tập đoàn Sao Mai ASM 2025"
+   ],
+   "bm25_rank_deep": 1,
+   "bm25_n": 8,
+   "dense_rank_deep": 17,
+   "dense_n": 94,
+   "bm25_in_top10": 1,
+   "dense_in_top10": null,
+   "fused10_rank": 2,
+   "reranked10_rank": 1,
+   "top_fused_tables": [
+    "table_4d42a65da4a4048933fc9f8a4912dd5866a3bb5928904a9b9bd1ee03431cfb25",
+    "table_665bf1c2478edbb34d73b21408872ba4844bbf9adc7354f9d9a229abbc7f0707",
+    "table_e8020023676c71478ccc0fdf2608441072983da759bc639282ab66813e5eab8c",
+    "table_cc3477e9274e939db76f8f67445e47e40894610e46e9f73c64c98bf3f6c1deeb",
+    "table_403fe917f9e9ef16a1f8dcba921548ffe1135dbbca3548929dae0d934e103114"
+   ],
+   "top_reranked_tables": [
+    "table_665bf1c2478edbb34d73b21408872ba4844bbf9adc7354f9d9a229abbc7f0707",
+    "table_05bc944e5f30a8e6fb3dedc1b5f3de898865ce29941df1bdcb8b3f60373bf34b",
+    "table_91d2fa9678867a92e5cfbce50de858f74366f44f92731e4c60deb000fd34b655",
+    "table_10ef7cece79c5155f19098631b6fb0edc3856209cc64998e180b507f0454a99e",
+    "table_cc3477e9274e939db76f8f67445e47e40894610e46e9f73c64c98bf3f6c1deeb"
+   ]
+  },
+  {
+   "qid": "vifinqa-65",
+   "question": "Dư nợ cho vay ngành Thương mại, dịch vụ của Ngân hàng TMCP Ngoại thương Việt Nam đến ngày 31/12/2016 là bao nhiêu triệu đồng?",
+   "gold_table_id": "table_415e04530b3dacbf8fcf85cd4abc8feb5aa89bfb106cec2bb2692398928a43f0",
+   "report_id": "report_abad47ef5b951f0df2735b6f6b4f8810f6fa7db2b4e90b2947272cb74894630f",
+   "ticker": "VCB",
+   "year": "2016",
+   "scope": "HOP_NHAT",
+   "metric": "Dư nợ cho vay ngành Thương mại, dịch vụ",
+   "query_texts": [
+    "Dư nợ cho vay ngành Thương mại, dịch vụ Ngân hàng TMCP Ngoại thương Việt Nam VCB 2016"
+   ],
+   "bm25_rank_deep": null,
+   "bm25_n": 0,
+   "dense_rank_deep": 64,
+   "dense_n": 106,
+   "bm25_in_top10": null,
+   "dense_in_top10": null,
+   "fused10_rank": null,
+   "reranked10_rank": null,
+   "top_fused_tables": [
+    "table_a72e8d746b72d141a4ba122503cd00f8fcb1f2e8cebd500214b1521c85ff54e9",
+    "table_df95ea6422e7a13cd7b31ab00cfe734f4a23e8826bc2e9494b0279bc72fe4a8a",
+    "table_6e397de55574bded0d283a75fcf8a191da7a7d80090d1be6f15f5d32a77330eb",
+    "table_3af84bd2827188d077218ef8551d287bd50bd5c2e200903dc2df89a943faad08",
+    "table_f48646154290c9e9cb13e33ba1561b1f82d5a1e40a412f8381695af1411016e6"
+   ],
+   "top_reranked_tables": [
+    "table_2a883454c93fd01769c03808fd989cc82253f28ff18095748d230b711b08f568",
+    "table_3af84bd2827188d077218ef8551d287bd50bd5c2e200903dc2df89a943faad08",
+    "table_94e4dae875d6e0d2fcf5813b8facdb960a2e9584257437bcd57cbb8d32c7a398",
+    "table_a7056b2ba751bf72ac078fc3bb2ed0bacd51d869bf995637bb91ea55638ab3f7",
+    "table_6e397de55574bded0d283a75fcf8a191da7a7d80090d1be6f15f5d32a77330eb"
+   ]
+  },
+  {
+   "qid": "vifinqa-68",
+   "question": "Tổng lợi nhuận trước thuế của Ngân hàng TMCP Hàng hải Việt Nam năm 2023 là bao nhiêu triệu đồng?",
+   "gold_table_id": "table_226e219eb6191625b4802866acdba83a6148653f4ad3b0e1e7d1453a390f8c00",
+   "report_id": "report_06f874e5d1fe576d131f7ab8080241568a431be0290382aa911ac223635b8422",
+   "ticker": "MSB",
+   "year": "2023",
+   "scope": "HOP_NHAT",
+   "metric": "Tổng lợi nhuận trước thuế",
+   "query_texts": [
+    "Tổng lợi nhuận trước thuế Ngân hàng TMCP Hàng hải Việt Nam MSB 2023"
+   ],
+   "bm25_rank_deep": 4,
+   "bm25_n": 5,
+   "dense_rank_deep": 112,
+   "dense_n": 124,
+   "bm25_in_top10": 4,
+   "dense_in_top10": null,
+   "fused10_rank": 8,
+   "reranked10_rank": 2,
+   "top_fused_tables": [
+    "table_ea0cf10b45c27539a7be5bb8c447bb3a6314f386bff6b0efd042ba4e8fa09f6c",
+    "table_40118410f7768438261b90a6d2465ab68b461a003663383b59787c8ffb242280",
+    "table_66f6863562c58e1bb67e9262dc21300a82de2a28838a599da73a18e81469c249",
+    "table_1d6efc3722998d78fde2b7f75389c178f5272736721b85e23ad21bb4c1120a74",
+    "table_4267a89a68f0f8c0ae9ddd496dd82909736dae7549cd3b49ca178148d39ee5ad"
+   ],
+   "top_reranked_tables": [
+    "table_40118410f7768438261b90a6d2465ab68b461a003663383b59787c8ffb242280",
+    "table_226e219eb6191625b4802866acdba83a6148653f4ad3b0e1e7d1453a390f8c00",
+    "table_d7a2383b20fa0a06014d9842e59a0ed11aac299c50eeae3aa235d94950a4428c",
+    "table_66f6863562c58e1bb67e9262dc21300a82de2a28838a599da73a18e81469c249",
+    "table_4267a89a68f0f8c0ae9ddd496dd82909736dae7549cd3b49ca178148d39ee5ad"
+   ]
+  },
+  {
+   "qid": "vifinqa-72",
+   "question": "Số dư phải thu ngắn hạn khách hàng của CTCP Phát triển Bất động sản Văn Phú (VPI) cuối năm 2024 là bao nhiêu triệu đồng?",
+   "gold_table_id": "table_92d62cc86fad64c878cc87f0bcde0c489877cd2aa5e8160b9a7b8e966c632811",
+   "report_id": "report_5fab155bd0c04ce3a0f81d7b0457f973f50502a1fa93996129ef3eb7228d0fcd",
+   "ticker": "VPI",
+   "year": "2024",
+   "scope": "HOP_NHAT",
+   "metric": "Phải thu ngắn hạn của khách hàng",
+   "query_texts": [
+    "Phải thu ngắn hạn của khách hàng CTCP Phát triển Bất động sản Văn Phú VPI 2024"
+   ],
+   "bm25_rank_deep": 2,
+   "bm25_n": 2,
+   "dense_rank_deep": 74,
+   "dense_n": 81,
+   "bm25_in_top10": 2,
+   "dense_in_top10": null,
+   "fused10_rank": 4,
+   "reranked10_rank": 1,
+   "top_fused_tables": [
+    "table_f4a1caf791b13c6dd4c6ea7cbe140e6d8534c9998a7178bd07d71a99ff2e1485",
+    "table_2a0a62b353f6a590a568acb84325382011690333fab45389d913b1c2f4bb7ad2",
+    "table_0df075a2c42cbc2ad30539668c521e99f3f68c67825bdd55c9ab6fab5d96f347",
+    "table_92d62cc86fad64c878cc87f0bcde0c489877cd2aa5e8160b9a7b8e966c632811",
+    "table_449def47961224a46e3a03706537e74a3de8a52572a0042b3e3d07dd753d1cbf"
+   ],
+   "top_reranked_tables": [
+    "table_92d62cc86fad64c878cc87f0bcde0c489877cd2aa5e8160b9a7b8e966c632811",
+    "table_2a0a62b353f6a590a568acb84325382011690333fab45389d913b1c2f4bb7ad2",
+    "table_56c7b8b5dea96eb2c1b1103c2d4b920482a395053d064bbb8afacc511513e10e",
+    "table_33c8f41a6275bba8d5eba7a0f992ff2e890930796b2e1c5676e0dcbf1ce141ae",
+    "table_19613c701a80a937eb62b5f224067ce709a0391f41465b66c306f43d4d20eef1"
+   ]
+  },
+  {
+   "qid": "vifinqa-74",
+   "question": "Giá gốc khoản đầu tư tại CTCP Sài Gòn - Rạch Giá của công ty mẹ Ngân hàng TMCP Kiên Long (KLB) đến ngày 31/12/2017 là bao nhiêu triệu đồng?",
+   "gold_table_id": "table_b738bb76aecfab35ee673bf4f1ee5e37dadc36b332503c6bf7c4a096bd7359cc",
+   "report_id": "report_579002e46a79b59c60d426fff06fd5569d398232c120d4eb41e34b4b0671d730",
+   "ticker": "KLB",
+   "year": "2017",
+   "scope": "RIENG",
+   "metric": "Giá gốc đầu tư tại CTCP Sài Gòn - Rạch Giá",
+   "query_texts": [
+    "Giá gốc đầu tư tại CTCP Sài Gòn - Rạch Giá Ngân hàng TMCP Kiên Long KLB 2017"
+   ],
+   "bm25_rank_deep": null,
+   "bm25_n": 0,
+   "dense_rank_deep": 11,
+   "dense_n": 94,
+   "bm25_in_top10": null,
+   "dense_in_top10": null,
+   "fused10_rank": null,
+   "reranked10_rank": null,
+   "top_fused_tables": [
+    "table_5ff68d5d7095718875b1a128f31f2531c9bac317f1567bfa67fbe13a1d772925",
+    "table_4182843795860536e113b31a87808fac6d2a9448d6bf96881bf51ef8e779451d",
+    "table_174109926564ff751f27fac57901c7ecf047355f0a91e3952fa241ebc7b9d3c9",
+    "table_dce258610c327d0ee43118efb5c22e428cb658649fa37417600e12e3e48030e3",
+    "table_6c52a05ba894735c10f6f104315204b7f0ca9e295277dbb4d65492ad53ba89cf"
+   ],
+   "top_reranked_tables": [
+    "table_15c2f3f4d08cc3aed4ccd6593934310cac43e9ff2785fb390adf7e7158e9a101",
+    "table_c9492cd60ceb6d5ecb0aba6713a70c4702dbc3b649baa36ca699b2f14d5cda15",
+    "table_4182843795860536e113b31a87808fac6d2a9448d6bf96881bf51ef8e779451d",
+    "table_174109926564ff751f27fac57901c7ecf047355f0a91e3952fa241ebc7b9d3c9",
+    "table_5ff68d5d7095718875b1a128f31f2531c9bac317f1567bfa67fbe13a1d772925"
+   ]
+  },
+  {
+   "qid": "vifinqa-76",
+   "question": "Giá trị đầu tư vào công ty con của công ty mẹ CTCP Đầu tư Hạ tầng Giao thông Đèo Cả đến ngày 31/12/2024 là bao nhiêu tỷ đồng?",
+   "gold_table_id": "table_4b01a1bc19da05c0faab247141913e94aafd9c9350e841c4c2f411255bad9110",
+   "report_id": "report_34aba4fb587df1b9a651b4429a7f0760fc6450987adec6c0243a546bfc9284ff",
+   "ticker": "HHV",
+   "year": "2024",
+   "scope": "RIENG",
+   "metric": "Đầu tư vào công ty con - giá gốc",
+   "query_texts": [
+    "Đầu tư vào công ty con - giá gốc CTCP Đầu tư Hạ tầng Giao thông Đèo Cả HHV 2024"
+   ],
+   "bm25_rank_deep": 1,
+   "bm25_n": 1,
+   "dense_rank_deep": 51,
+   "dense_n": 89,
+   "bm25_in_top10": 1,
+   "dense_in_top10": null,
+   "fused10_rank": 1,
+   "reranked10_rank": 1,
+   "top_fused_tables": [
+    "table_4b01a1bc19da05c0faab247141913e94aafd9c9350e841c4c2f411255bad9110",
+    "table_3102bcd7a16626bfe275459fc6dd1aa786855ddae6f11e0455b74f6c9d7c05b9",
+    "table_bc90e9fbaa0f227d47c021ad30048b66ad4834c7043eb6674b95c49d921dbdfb",
+    "table_56e2bd469336fd5e206b1c1df90234a1b478e86db29a426a5713bfb4c30dc8dd",
+    "table_ab5dd8240cd8baa10a411ff5e259f11c687411b8415c8c79481bff3f1e5914e1"
+   ],
+   "top_reranked_tables": [
+    "table_4b01a1bc19da05c0faab247141913e94aafd9c9350e841c4c2f411255bad9110",
+    "table_a5c93d94bb5f008d4ab802e627cbc381cb140a7e00cb6441901f17d8ecabcf06",
+    "table_ab5dd8240cd8baa10a411ff5e259f11c687411b8415c8c79481bff3f1e5914e1",
+    "table_e14076360db82e66f15da151f60b5574bacd88a4a6c7bebedb5588c55646609a",
+    "table_68ca8bdb0789ec30af78f57dfe509c028ee7675d7c2aeb3a826019b573f76d27"
+   ]
+  },
+  {
+   "qid": "vifinqa-86",
+   "question": "Lợi nhuận sau thuế của Ngân hàng TMCP Sài Gòn Công Thương năm 2024 là bao nhiêu triệu đồng?",
+   "gold_table_id": "table_ec458ba5532e23a056d76104f27ebff1167715f594cbc15aacd76a2c3e022672",
+   "report_id": "report_764e6b00542341b8444e63d4f29a25bb493ac85e514bae1526856297d769100b",
+   "ticker": "SGB",
+   "year": "2024",
+   "scope": "HOP_NHAT",
+   "metric": "Lợi nhuận sau thuế TNDN",
+   "query_texts": [
+    "Lợi nhuận sau thuế TNDN Ngân hàng TMCP Sài Gòn Công Thương SGB 2024"
+   ],
+   "bm25_rank_deep": 3,
+   "bm25_n": 4,
+   "dense_rank_deep": 50,
+   "dense_n": 76,
+   "bm25_in_top10": 3,
+   "dense_in_top10": null,
+   "fused10_rank": 6,
+   "reranked10_rank": 3,
+   "top_fused_tables": [
+    "table_b7aabf5a277c887474874f7cac8bdfa111e550775db3b87d0fa4e725f9cdd963",
+    "table_383fb52591ca77635b26f60a3497200f470e8c647e2f947bccdf2e9ebe086b8a",
+    "table_f8875118d964b920d1258fa2ab4f6c70c192ec2c2ab4db92851cf5076b29ff97",
+    "table_7b90c9a2418a359fde4605b540102a415c1310f625d35ecf33bba763bd851f53",
+    "table_1191458a602f808c6eee6a148fc006ffe435b2b37a4059e0abe37616d07bbd3f"
+   ],
+   "top_reranked_tables": [
+    "table_3341560b0571fd964170a9c526eaddda4d3d01cbfe76d4d9233cf5002a02cc3f",
+    "table_7b90c9a2418a359fde4605b540102a415c1310f625d35ecf33bba763bd851f53",
+    "table_ec458ba5532e23a056d76104f27ebff1167715f594cbc15aacd76a2c3e022672",
+    "table_383fb52591ca77635b26f60a3497200f470e8c647e2f947bccdf2e9ebe086b8a",
+    "table_8c210c118db9080b551d88217aa85f5f0a3a2e9353cf611159f9e04b7cd6dee5"
+   ]
+  },
+  {
+   "qid": "vifinqa-88",
+   "question": "Tổng tài sản của Ngân hàng TMCP Quốc Dân cuối năm 2019 là bao nhiêu triệu đồng?",
+   "gold_table_id": "table_bbf4cef611cda8ce12ff0f97b390e7ad19a88eb75525f09506282620a8cd907f",
+   "report_id": "report_f2d86e939228091ab736718a612df3ae8929b433acae9ed87df49020fcb50766",
+   "ticker": "NVB",
+   "year": "2019",
+   "scope": "HOP_NHAT",
+   "metric": "Tổng tài sản",
+   "query_texts": [
+    "Tổng tài sản Ngân hàng TMCP Quốc Dân NVB 2019"
+   ],
+   "bm25_rank_deep": 13,
+   "bm25_n": 45,
+   "dense_rank_deep": 48,
+   "dense_n": 62,
+   "bm25_in_top10": null,
+   "dense_in_top10": null,
+   "fused10_rank": null,
+   "reranked10_rank": null,
+   "top_fused_tables": [
+    "table_6578c1398273723d0afaa6af89cc20d1f8f7b371a03513f0612b8f8dda3e7632",
+    "table_1ec1c076696944720739eefd8d0a1ce6e9f3d13852940210e8c424caec318ce5",
+    "table_c1623bd50310bcf6b9c34156b7fc65f9672a60e76f95dd220995bc5ad59d0ec0",
+    "table_468f97e0e98da374cc75f3e8d50bc84ac05fcc001b35a88028ee29831dd5a900",
+    "table_1615bfc0488a03e99b5d9611f895ecec5cc34554b851fb0441eb8006d8cf65a3"
+   ],
+   "top_reranked_tables": [
+    "table_1615bfc0488a03e99b5d9611f895ecec5cc34554b851fb0441eb8006d8cf65a3",
+    "table_c1623bd50310bcf6b9c34156b7fc65f9672a60e76f95dd220995bc5ad59d0ec0",
+    "table_1ec1c076696944720739eefd8d0a1ce6e9f3d13852940210e8c424caec318ce5",
+    "table_cd12ef661537230d4f2d0cac082a791b0589a09ba7b074a586b27e9931403144",
+    "table_cd656a1f1ba7046ff81133a0c1df7c7c839e75367f4165a956cf3896d7eb9a88"
+   ]
+  },
+  {
+   "qid": "vifinqa-89",
+   "question": "Chi phí thuế thu nhập hiện hành của CTCP Tập đoàn Masan năm 2018 là bao nhiêu triệu đồng?",
+   "gold_table_id": "table_6660a108c6c844bce74e903d6f43bb7314e7a66d420dfbdf891cc39f48ea43c6",
+   "report_id": "report_5c3897ed2f649108da0540bcc03c18d4bb8abbd14d05ee5400cbbc0a5b6eab07",
+   "ticker": "MSN",
+   "year": "2018",
+   "scope": "HOP_NHAT",
+   "metric": "Chi phí thuế thu nhập hiện hành",
+   "query_texts": [
+    "Chi phí thuế thu nhập hiện hành CTCP Tập đoàn Masan MSN 2018"
+   ],
+   "bm25_rank_deep": 1,
+   "bm25_n": 1,
+   "dense_rank_deep": 12,
+   "dense_n": 79,
+   "bm25_in_top10": 1,
+   "dense_in_top10": null,
+   "fused10_rank": 2,
+   "reranked10_rank": 1,
+   "top_fused_tables": [
+    "table_31009b470672b2de610d3f8d8e7220ea7c9f2989bdeedb10f83f4487f98829d4",
+    "table_6660a108c6c844bce74e903d6f43bb7314e7a66d420dfbdf891cc39f48ea43c6",
+    "table_f8df2995c91c958cdb5be41ee7702bf91d607ea92ab713fd3f04d1cae56dd935",
+    "table_cda99be8e3313d56f6205efcef668299d6b1ed461201352390abf38f90b10de8",
+    "table_08988c8c1a54d0e808ada61c84955b792e39a08be10a2f7bac46d85cea79efb8"
+   ],
+   "top_reranked_tables": [
+    "table_6660a108c6c844bce74e903d6f43bb7314e7a66d420dfbdf891cc39f48ea43c6",
+    "table_854b978d2f71f316436b769a7ac349d57a6e667976318382690b5335aec30896",
+    "table_ff68389debbe47de5ea6b8692569ff0c13b4c642f159d5603aad147546ac0218",
+    "table_6411859a809c30251343c4a985a36191d9375bbf5d151426a478db7bf64fd285",
+    "table_f8df2995c91c958cdb5be41ee7702bf91d607ea92ab713fd3f04d1cae56dd935"
+   ]
+  },
+  {
+   "qid": "vifinqa-90",
+   "question": "Chi phí khấu hao TSCĐ thuộc chi phí quản lý doanh nghiệp của Tập đoàn VINGROUP - CTCP (VIC) năm 2015 là bao nhiêu nghìn tỷ đồng?",
+   "gold_table_id": "table_ee018a11a27c04ee2fa1c998dae93138b1829b72319704fef018981c2a67cf7b",
+   "report_id": "report_2dd48c574e4cd09e602b5931e45d2652623a7607248d0a8950b0570378a1f008",
+   "ticker": "VIC",
+   "year": "2015",
+   "scope": "HOP_NHAT",
+   "metric": "Chi phí khấu hao TSCĐ trong chi phí QLDN",
+   "query_texts": [
+    "Chi phí khấu hao TSCĐ trong chi phí QLDN Tập đoàn VINGROUP - CTCP VIC 2015"
+   ],
+   "bm25_rank_deep": null,
+   "bm25_n": 0,
+   "dense_rank_deep": 47,
+   "dense_n": 113,
+   "bm25_in_top10": null,
+   "dense_in_top10": null,
+   "fused10_rank": null,
+   "reranked10_rank": null,
+   "top_fused_tables": [
+    "table_54d6a63fea13ce70956ac7042b935ec91ac46846e9618ea0070e90d8e5596eea",
+    "table_655b3148313885ff633434156026aa404e5c59f6f7e48cca430b3f5de1bb8029",
+    "table_715ed4881df129963e7f92a296357b0bd2989afdeaa7e3c85f92d0f9d0093755",
+    "table_e56b3ff5b00d85a6491b51349e3affd16962fe11dbf8e966c632934037b90dd7",
+    "table_dceaaf07eda0484d2551da6974949c2715662814ab78f89213c22b2581431333"
+   ],
+   "top_reranked_tables": [
+    "table_fbf88bd5f2462f43eb9d7442ff267d0f40e71e34b64aa1b5b55069d8d5c085e4",
+    "table_6908379e2f9ce5ccd23ef60cf4e7eb5fe26d33945fab2c96f2cd7e5c7afdfd60",
+    "table_655b3148313885ff633434156026aa404e5c59f6f7e48cca430b3f5de1bb8029",
+    "table_02714f25a9b773815de062a0677d2f4fae125337168bcce82af6d78db2d2bec7",
+    "table_7fcdac9fdcdca435150858ddd0b815c363bbf9d960053368df3755213397cf7a"
+   ]
+  },
+  {
+   "qid": "vifinqa-95",
+   "question": "Chi phí thuế hiện hành của CTCP Tập đoàn Hà Đô năm 2015 là bao nhiêu triệu đồng?",
+   "gold_table_id": "table_a85384278e1a392b44edcb13f5a5ba7778fe63ec92643c21a492566f527be108",
+   "report_id": "report_8a5f77489723d79788ebcc64bfccd6dd543ec228325beb9e4bb7f8f2e5fa064b",
+   "ticker": "HDG",
+   "year": "2015",
+   "scope": "HOP_NHAT",
+   "metric": "Chi phí thuế TNDN hiện hành",
+   "query_texts": [
+    "Chi phí thuế TNDN hiện hành CTCP Tập đoàn Hà Đô HDG 2015"
+   ],
+   "bm25_rank_deep": 1,
+   "bm25_n": 4,
+   "dense_rank_deep": 50,
+   "dense_n": 60,
+   "bm25_in_top10": 1,
+   "dense_in_top10": null,
+   "fused10_rank": 2,
+   "reranked10_rank": 2,
+   "top_fused_tables": [
+    "table_d0910a66c808193c43be9f8748142735a62e9a2fa872a2a27179ccb52c83024a",
+    "table_a85384278e1a392b44edcb13f5a5ba7778fe63ec92643c21a492566f527be108",
+    "table_c158c48c3c802f799c840b3b87e004f1b711bad2115a1f25f876c56989deac1f",
+    "table_4ca1b7815f6b99bc3f62060fc2e84c16eb4f436869b04e9bdb06c976333400ca",
+    "table_489eb28b8fe0c4e3351e0c2e82cdeb89719ce9f52f2fa7500f33e81cd758dbf3"
+   ],
+   "top_reranked_tables": [
+    "table_4ca1b7815f6b99bc3f62060fc2e84c16eb4f436869b04e9bdb06c976333400ca",
+    "table_a85384278e1a392b44edcb13f5a5ba7778fe63ec92643c21a492566f527be108",
+    "table_d4ee13e2039d94d8ea7f78f504107300d5684ad39e59ecfcabb9c13458a868a8",
+    "table_59d5a47a5bc197021424c922249154146bf9fa09b9f546b9373dfc3a619322cf",
+    "table_489eb28b8fe0c4e3351e0c2e82cdeb89719ce9f52f2fa7500f33e81cd758dbf3"
+   ]
+  },
+  {
+   "qid": "vifinqa-96",
+   "question": "Chi phí trả trước ngắn hạn khác của Tập đoàn Dệt May Việt Nam cuối năm 2025 là bao nhiêu triệu đồng?",
+   "gold_table_id": "table_8c436b49904a74ae6b74fc5fdf759bc5e354b80f9bc71dfbdbbaf99010521637",
+   "report_id": "report_6b69b0534a1af450867e914b367b76b03f3f7c7de5d8816f06b7f46ded1af490",
+   "ticker": "VGT",
+   "year": "2025",
+   "scope": "HOP_NHAT",
+   "metric": "Chi phí trả trước ngắn hạn khác",
+   "query_texts": [
+    "Chi phí trả trước ngắn hạn khác Tập đoàn Dệt May Việt Nam VGT 2025"
+   ],
+   "bm25_rank_deep": 1,
+   "bm25_n": 5,
+   "dense_rank_deep": 11,
+   "dense_n": 92,
+   "bm25_in_top10": 1,
+   "dense_in_top10": null,
+   "fused10_rank": 2,
+   "reranked10_rank": 2,
+   "top_fused_tables": [
+    "table_227a5c617dd4e7640a819714d6d1dd5dea548d7f5a2a7362314a63a4085d73b2",
+    "table_8c436b49904a74ae6b74fc5fdf759bc5e354b80f9bc71dfbdbbaf99010521637",
+    "table_5fabf89fdd77b99fa5bdcd5e8aab66a58a95dac4171aba746e94f110de1a2bdf",
+    "table_9d3a0c8a20b02c943d61b020fcbabf252d89c1bbee37e682de2c6d8c1bfe77e2",
+    "table_b32ed715cc436b0d1cab6499b8a3c3104a7cae8c0c988380ae7c0d9007f767a6"
+   ],
+   "top_reranked_tables": [
+    "table_ecb5025ea5fec53cd8a2a83c8d6654f86974c7eada4b0c4bd5b6c481d7e303a5",
+    "table_8c436b49904a74ae6b74fc5fdf759bc5e354b80f9bc71dfbdbbaf99010521637",
+    "table_9d3a0c8a20b02c943d61b020fcbabf252d89c1bbee37e682de2c6d8c1bfe77e2",
+    "table_73fbcfb93ef48c3988efb1b44f64b808a30c980e2923e38e8f7d6d3b1f968060",
+    "table_b32ed715cc436b0d1cab6499b8a3c3104a7cae8c0c988380ae7c0d9007f767a6"
+   ]
+  },
+  {
+   "qid": "vifinqa-101",
+   "question": "Số dư chi phí xây dựng cơ bản dở dang đến ngày 31/12/2017 của CTCP Thép Nam Kim là bao nhiêu trăm tỷ đồng?",
+   "gold_table_id": "table_24d7db0b83282474e192f7f4e137bea8719a3a799c7e72a159d72fc53632b4a7",
+   "report_id": "report_f601051ee9a3bb9ad1b5f408d85d8fc78d0a2f270a9a6de8bef2d9b90b76cc82",
+   "ticker": "NKG",
+   "year": "2017",
+   "scope": "HOP_NHAT",
+   "metric": "Chi phí xây dựng cơ bản dở dang",
+   "query_texts": [
+    "Chi phí xây dựng cơ bản dở dang CTCP Thép Nam Kim NKG 2017"
+   ],
+   "bm25_rank_deep": 1,
+   "bm25_n": 4,
+   "dense_rank_deep": 60,
+   "dense_n": 61,
+   "bm25_in_top10": 1,
+   "dense_in_top10": null,
+   "fused10_rank": 1,
+   "reranked10_rank": 2,
+   "top_fused_tables": [
+    "table_24d7db0b83282474e192f7f4e137bea8719a3a799c7e72a159d72fc53632b4a7",
+    "table_3e9616ae5209484fc58220a1a3578057104f5956bdc15a32b2485bec5639bdd7",
+    "table_2bf8c27af8fe89d86166f104da931d1a8e5e6fc04b26368de42f1153277d7a8a",
+    "table_dd71dc144a3d7ca5c1d58e370d4c02c42e922554b76679a6182dbb2706896d11",
+    "table_b5400c054240d9fbdc853dafab33b543ddedc3a740bd8a1a864d3b5c28b28dc5"
+   ],
+   "top_reranked_tables": [
+    "table_dd71dc144a3d7ca5c1d58e370d4c02c42e922554b76679a6182dbb2706896d11",
+    "table_24d7db0b83282474e192f7f4e137bea8719a3a799c7e72a159d72fc53632b4a7",
+    "table_e5353a5047682143b993b475de5ca894380a3e58362a66b1aededacd9f5d790c",
+    "table_eb1e399a147e303c9af319c82e1eaafe37651f50b8190a7d89da3c73b632fe8d",
+    "table_b5400c054240d9fbdc853dafab33b543ddedc3a740bd8a1a864d3b5c28b28dc5"
+   ]
+  },
+  {
+   "qid": "vifinqa-111",
+   "question": "Giá trị còn lại của tài sản cố định vô hình cuối năm 2025 của Tổng Công ty Viglacera - CTCP (VGC) là bao nhiêu tỷ đồng?",
+   "gold_table_id": "table_65c0d89176110fab1028a612c2c09a1c03d7aa2c778ff3608662ecd45312b6b5",
+   "report_id": "report_b2a642e60e0d9eca1f0309b1190e3f2b2fff73c67fd38ba1234d13d0dda0d2ce",
+   "ticker": "VGC",
+   "year": "2025",
+   "scope": "HOP_NHAT",
+   "metric": "Tài sản cố định vô hình - giá trị còn lại",
+   "query_texts": [
+    "Tài sản cố định vô hình - giá trị còn lại Tổng Công ty Viglacera - CTCP VGC 2025"
+   ],
+   "bm25_rank_deep": null,
+   "bm25_n": 0,
+   "dense_rank_deep": 81,
+   "dense_n": 89,
+   "bm25_in_top10": null,
+   "dense_in_top10": null,
+   "fused10_rank": null,
+   "reranked10_rank": null,
+   "top_fused_tables": [
+    "table_41678f4480c968601154eb14d8cf34a294f199809cd59f30b4332fd3c38edd23",
+    "table_3119b3cd85bef76873e0871698c772ccdf4eb6e18d3519debd9f522171cbb406",
+    "table_28f7f7ce7722b4d135356b7aff6690cd96f25eac3b770c0b7165737bf82740be",
+    "table_a5b7b769d338593dc58376c2d0c223a31212c822dfcb72cb797746b6ffa238d4",
+    "table_d12997b60c8721b13c1bdf516b5f4df1ed7f3aacc86fb7c119d993d9a6072bcb"
+   ],
+   "top_reranked_tables": [
+    "table_9d626909333bf231b82a6faf72c661c8f4753a9a8b97ec6fad47965b769f414c",
+    "table_5b28192e525e15a0e7fd3c734011e76ec02b88637a508d78b66c10a41e6958ea",
+    "table_3119b3cd85bef76873e0871698c772ccdf4eb6e18d3519debd9f522171cbb406",
+    "table_28f7f7ce7722b4d135356b7aff6690cd96f25eac3b770c0b7165737bf82740be",
+    "table_d12997b60c8721b13c1bdf516b5f4df1ed7f3aacc86fb7c119d993d9a6072bcb"
+   ]
+  },
+  {
+   "qid": "vifinqa-115",
+   "question": "Tổng chi phí hoạt động của công ty mẹ Ngân hàng TMCP Công Thương Việt Nam năm 2019 là bao nhiêu triệu đồng?",
+   "gold_table_id": "table_1e08ff9bcb1a98f0d2d13bd58f0117d38eee0e2426b42d7576070f970276d2d3",
+   "report_id": "report_d505d3fdd331afabe5684eb1dc793b5dfdb03e6886932af420752e15c4eb46b9",
+   "ticker": "CTG",
+   "year": "2019",
+   "scope": "RIENG",
+   "metric": "Tổng chi phí hoạt động",
+   "query_texts": [
+    "Tổng chi phí hoạt động Ngân hàng TMCP Công Thương Việt Nam CTG 2019"
+   ],
+   "bm25_rank_deep": 3,
+   "bm25_n": 7,
+   "dense_rank_deep": 70,
+   "dense_n": 84,
+   "bm25_in_top10": 3,
+   "dense_in_top10": null,
+   "fused10_rank": 6,
+   "reranked10_rank": 1,
+   "top_fused_tables": [
+    "table_c031c4d4ef987c0924dd863af793c367afef9fabc14dc4a8f040c8eff4b559d7",
+    "table_bb1fd884f316dfc693d85da47d0eca6fdba6d92460eb77579e4e3bc1b1995876",
+    "table_e8290edef0625f4c911575bd9b9d8cc757d71efe86d74325ac0c7cfcc8ddd424",
+    "table_f406992b03a24c68576ab1db567818e7135c74e0019c91c7455cc9111408641c",
+    "table_cc201dae25ac69735535c89140927bcd024391b145e457aa3f992dd0bc328385"
+   ],
+   "top_reranked_tables": [
+    "table_1e08ff9bcb1a98f0d2d13bd58f0117d38eee0e2426b42d7576070f970276d2d3",
+    "table_a18ec9366a22a6aed7e2773fc8ec6dd126ce28a82baf4e056d4fc41197414372",
+    "table_f406992b03a24c68576ab1db567818e7135c74e0019c91c7455cc9111408641c",
+    "table_85c9b0a8a66cbcab9e7b9b6dd5f81e859ccdf84ddab9c8068fed10cc67352ce0",
+    "table_c031c4d4ef987c0924dd863af793c367afef9fabc14dc4a8f040c8eff4b559d7"
+   ]
+  },
+  {
+   "qid": "vifinqa-121",
+   "question": "Thuế thu nhập doanh nghiệp của công ty mẹ CTCP Tập đoàn GELEX đầu năm 2017 là bao nhiêu triệu đồng?",
+   "gold_table_id": "table_a91a6599ed35c8f1cb8990983639ddcc7ab3a9f3c6f2be5039c158e9ab3558d7",
+   "report_id": "report_333246f51a4763cfcd0faf945c1a478a7ba2bdeece199440ec13eac1de3d5dc2",
+   "ticker": "GEX",
+   "year": "2017",
+   "scope": "RIENG",
+   "metric": "Thuế thu nhập doanh nghiệp phải nộp - số đầu năm",
+   "query_texts": [
+    "Thuế thu nhập doanh nghiệp phải nộp - số đầu năm CTCP Tập đoàn GELEX GEX 2017"
+   ],
+   "bm25_rank_deep": 2,
+   "bm25_n": 4,
+   "dense_rank_deep": 4,
+   "dense_n": 63,
+   "bm25_in_top10": 2,
+   "dense_in_top10": 4,
+   "fused10_rank": 1,
+   "reranked10_rank": 3,
+   "top_fused_tables": [
+    "table_a91a6599ed35c8f1cb8990983639ddcc7ab3a9f3c6f2be5039c158e9ab3558d7",
+    "table_08be70055c39d0ab1b4dc01d6ec87609d0db01823e1baa61537ac18c0fce97d8",
+    "table_ba554171eaa3efc6f367afe0b3275c70f248658f776b784006dc8bce36552359",
+    "table_cd04553cbf7c4b353b87e3b9cc7b0b198dbb547cd21fa23147ca749156134951",
+    "table_d48bd9c25c207502bac130b099ab591db7d0790fe692c9fe56c1f682de43f22f"
+   ],
+   "top_reranked_tables": [
+    "table_d48bd9c25c207502bac130b099ab591db7d0790fe692c9fe56c1f682de43f22f",
+    "table_0fab101491306084d706c14d092d3b46efe7d123fdbf79314aad7c2bf7a1597a",
+    "table_a91a6599ed35c8f1cb8990983639ddcc7ab3a9f3c6f2be5039c158e9ab3558d7",
+    "table_08be70055c39d0ab1b4dc01d6ec87609d0db01823e1baa61537ac18c0fce97d8",
+    "table_44fafb51c1d3beac6c1a74fa84fbe2751c11ac662e1cb3c62256c2a5f23934f3"
+   ]
+  },
+  {
+   "qid": "vifinqa-140",
+   "question": "Giá trị tài sản tài chính chịu lãi suất cố định của Công ty Cổ phần Tập đoàn Hòa Phát (HPG) ở cuối năm 2019 là bao nhiêu triệu đồng?",
+   "gold_table_id": "table_3ae805d9b5f31825c25ac82fcdffd226fac609c919402be37b2893084cbc6e66",
+   "report_id": "report_d288d8032c7e91c27cbc405cb45691d52a910a2ce84ec3f57d41220e146cee2a",
+   "ticker": "HPG",
+   "year": "2019",
+   "scope": "HOP_NHAT",
+   "metric": "Tài sản tài chính chịu lãi suất cố định - giá trị ghi sổ",
+   "query_texts": [
+    "Tài sản tài chính chịu lãi suất cố định - giá trị ghi sổ CTCP Tập đoàn Hòa Phát HPG 2019"
+   ],
+   "bm25_rank_deep": null,
+   "bm25_n": 0,
+   "dense_rank_deep": 6,
+   "dense_n": 77,
+   "bm25_in_top10": null,
+   "dense_in_top10": 6,
+   "fused10_rank": 6,
+   "reranked10_rank": 1,
+   "top_fused_tables": [
+    "table_243d079fec419ed879ba6f5ce8c0bbc0e3d823d59a523263add3e33e3030c0ad",
+    "table_24fc048e70d2492c39e523f7995a52566971c7fbe45abb60b715c50f538a1639",
+    "table_b6e8db1075e810e7631479e249d763d5c65301c87f72785f3e258fb64415dc0e",
+    "table_24270484fceddd61464ecb8a0a1da12feebad93ab317a1cef63b2f9abc6c5594",
+    "table_2bd4a28ebd28c10be60614ee93bc0470c6caf6aeccfb2f3a3832dccdf5c0caa7"
+   ],
+   "top_reranked_tables": [
+    "table_3ae805d9b5f31825c25ac82fcdffd226fac609c919402be37b2893084cbc6e66",
+    "table_24270484fceddd61464ecb8a0a1da12feebad93ab317a1cef63b2f9abc6c5594",
+    "table_97a8e00cbec61e05e5d3aea854d8205966523036cb8b21d0626ce8fe357d4f7c",
+    "table_24fc048e70d2492c39e523f7995a52566971c7fbe45abb60b715c50f538a1639",
+    "table_2bd4a28ebd28c10be60614ee93bc0470c6caf6aeccfb2f3a3832dccdf5c0caa7"
+   ]
+  },
+  {
+   "qid": "vifinqa-147",
+   "question": "Số tiền tạm ứng nhận từ khách hàng mua bất động sản của công ty mẹ CTCP Đầu tư Nam Long cuối năm 2025 là bao nhiêu trăm tỷ đồng?",
+   "gold_table_id": "table_c4c4f0869e633160fc6ed5f8b5835fb5257ed9f23839bfbebdf8fc223eb4b846",
+   "report_id": "report_4c210efd60cb505cb2f463dbc07154ea386b207758e7cbae1b72e015f1cf1f29",
+   "ticker": "NLG",
+   "year": "2025",
+   "scope": "RIENG",
+   "metric": "Nhận tạm ứng từ khách hàng mua BĐS",
+   "query_texts": [
+    "Nhận tạm ứng từ khách hàng mua BĐS CTCP Đầu tư Nam Long NLG 2025"
+   ],
+   "bm25_rank_deep": null,
+   "bm25_n": 0,
+   "dense_rank_deep": 13,
+   "dense_n": 145,
+   "bm25_in_top10": null,
+   "dense_in_top10": null,
+   "fused10_rank": null,
+   "reranked10_rank": null,
+   "top_fused_tables": [
+    "table_3c6f4ad797fbcf18a553ae7483d635185ed199a9d461df36e82087364547dde9",
+    "table_0742b96af4eca72703b41477cd4b94da3e47dd2335568fa5f74466c4f459d715",
+    "table_d216289647520d0b436e1f40992940650c7fcef6730414e97d8bb8effd93c3f6",
+    "table_9671b664bf6f34569aa02cf69d3bc09534cd65ccb5ee475c69cf223f74ab33d1",
+    "table_7f085a494593cd7ec5b806c4405da8e84e4f2c505844c646717bfdc9b2da9643"
+   ],
+   "top_reranked_tables": [
+    "table_d216289647520d0b436e1f40992940650c7fcef6730414e97d8bb8effd93c3f6",
+    "table_0742b96af4eca72703b41477cd4b94da3e47dd2335568fa5f74466c4f459d715",
+    "table_7f085a494593cd7ec5b806c4405da8e84e4f2c505844c646717bfdc9b2da9643",
+    "table_3c6f4ad797fbcf18a553ae7483d635185ed199a9d461df36e82087364547dde9",
+    "table_98d08306e749e2801c7f19afbc26034b9a138bac72c9fc5a5e7dfcacf0a2d1d6"
+   ]
+  }
+ ]
+}
