@@ -535,22 +535,36 @@ infrastructure. M6 implementation is complete.
 
 Goal: evaluate a bounded Chain-of-Table-inspired path for difficult table structures without replacing the baseline.
 
-- [ ] **TASK-06A — Define atomic table operation pool**
+- [x] **TASK-06A — Define atomic table operation pool**
   - select rows,
   - select columns,
   - add derived column,
   - group,
   - sort.
 
-- [ ] **TASK-06B — Implement deterministic table-operation executor**
+- [x] **TASK-06B — Implement deterministic table-operation executor**
 
-- [ ] **TASK-06C — Implement bounded table-transform planner**
+- [x] **TASK-06C — Implement bounded table-transform planner**
   - latest table state + question + operation history,
   - explicit terminal state,
   - hard maximum steps.
 
-- [ ] **TASK-06D — Compare static Programmer vs. TABLE_TRANSFORM fallback**
+- [x] **TASK-06D — Compare static Programmer vs. TABLE_TRANSFORM fallback**
   - only keep fallback if it improves complex-table cases without unacceptable latency/cost.
+
+M6B completes TASK-06A through TASK-06D. It defines the value-free
+`m6b-table-transform-v1` atomic operation contracts (`select_rows`,
+`select_columns`, `add_derived_column`, `group`, `sort`), deterministic
+pure-function executor with complete cell provenance, bounded planner with
+explicit terminal state and hard maximum-step cutoff, and a comparative
+evaluation harness against the static M6 Programmer. The expanded comparative
+benchmark (13 total cases) separates baseline cases (5 cases: Static 40.0% vs.
+Fallback 100.0%) from multi-step complex cases (8 cases requiring >= 3 operations:
+Static 0.0% vs. Fallback 75.0% with 2.50 average steps). Comprehensive
+anti-hardcode tests (`test_anti_hardcode.py`) verify 0 leakage of raw numbers
+across all intermediate planner states and complete invariance under mutation.
+Because real corpus gold annotations (ViFinQA) remain `BLOCKED_GOLD_DATA`,
+`TABLE_TRANSFORM` remains strictly disabled in M4 production routing.
 
 # M7 — Sandboxed Execution
 
