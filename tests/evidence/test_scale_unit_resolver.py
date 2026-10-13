@@ -34,14 +34,14 @@ class ScaleUnitResolverTests(unittest.TestCase):
             hint("header", location, ScaleHintSource.HEADER, Scale.THOUSAND, start=2),
             hint("caption", location, ScaleHintSource.CAPTION, Scale.MILLION, start=3),
             hint("text", location, ScaleHintSource.TEXT, Scale.BILLION, start=4),
-            hint("linked", location, ScaleHintSource.TEXT, Scale.RAW, association=HintAssociation.LINKED, start=5),
+            hint("linked", location, ScaleHintSource.TEXT, Scale.THOUSAND, association=HintAssociation.LINKED, start=5),
         ]
         expected = [
             Scale.PERCENT,
             Scale.THOUSAND,
             Scale.MILLION,
             Scale.BILLION,
-            Scale.RAW,
+            Scale.THOUSAND,
         ]
         for offset, scale in enumerate(expected):
             with self.subTest(offset=offset):
@@ -53,6 +53,24 @@ class ScaleUnitResolverTests(unittest.TestCase):
         result = resolve_scale_unit(understanding(), item, location, clues)
         self.assertEqual(result.winning_hint_ids, ["hint-cell"])
         self.assertEqual(set(result.considered_hint_ids), {clue.hint_id for clue in clues})
+
+    def test_raw_currency_never_outranks_a_magnitude(self):
+        item, location = grounded_cell()
+        raw = hint("vnd", location, ScaleHintSource.HEADER, Scale.RAW, unit="VND")
+        linked = dict(association=HintAssociation.LINKED, start=2)
+        for clues, status, scale in (
+            ([raw], ScaleUnitResolutionStatus.RESOLVED, Scale.RAW),
+            ([raw, hint("pct", location, ScaleHintSource.TEXT, Scale.PERCENT, **linked)],
+             ScaleUnitResolutionStatus.RESOLVED, Scale.RAW),
+            ([raw, hint("mil", location, ScaleHintSource.TEXT, Scale.MILLION, unit="VND", **linked)],
+             ScaleUnitResolutionStatus.AMBIGUOUS, None),
+            ([hint("cell", location, ScaleHintSource.CELL, Scale.THOUSAND), raw],
+             ScaleUnitResolutionStatus.AMBIGUOUS, None),
+        ):
+            with self.subTest(scales=[clue.scale_candidate.value for clue in clues]):
+                result = resolve_scale_unit(understanding(), item, location, clues)
+                self.assertIs(result.status, status)
+                self.assertIs(result.source_scale, scale)
 
     def test_same_level_conflict_is_ambiguous(self):
         item, location = grounded_cell()

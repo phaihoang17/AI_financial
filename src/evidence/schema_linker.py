@@ -11,13 +11,8 @@ from src.evidence.m5_schemas import (
     SchemaLinkStatus,
 )
 from src.evidence.schemas import EvidenceItem
-from src.retrieval.evidence import CellLocation
+from src.retrieval.evidence import CellLocation, label_names_metric, path_periods
 from src.supervisor.schemas import EvidenceSource, Plan, RetrievalRequirement
-from src.understanding.metric_normalizer import (
-    MetricResolutionStatus,
-    initial_metric_registry,
-    resolve_metric,
-)
 from src.understanding.schemas import SchemaValidationError
 
 
@@ -49,20 +44,20 @@ def _validate_grounded_pair(evidence: EvidenceItem, location: CellLocation) -> N
 def _metric_match(requirement: RetrievalRequirement, labels: Sequence[str]) -> Optional[str]:
     if requirement.metric is None:
         return None
-    registry = initial_metric_registry()
     for label in labels:
-        resolution = resolve_metric(label, registry)
-        if (
-            resolution.status is MetricResolutionStatus.RESOLVED
-            and resolution.metric is not None
-            and resolution.metric.canonical == requirement.metric
-        ):
-            return resolution.metric.canonical
+        if label_names_metric(label, requirement.metric):
+            return requirement.metric
     return None
 
 
-def _period_match(requirement: RetrievalRequirement, labels: Sequence[str]) -> Optional[str]:
-    if requirement.period is not None and requirement.period in labels:
+def _period_match(
+    requirement: RetrievalRequirement,
+    labels: Sequence[str],
+    report_year: Optional[int],
+) -> Optional[str]:
+    if requirement.period is not None and requirement.period in path_periods(
+        labels, report_year
+    ):
         return requirement.period
     return None
 
@@ -78,7 +73,7 @@ def _assess(
         *(entry.label for entry in location.column_path),
     ]
     metric = _metric_match(requirement, labels)
-    period = _period_match(requirement, labels)
+    period = _period_match(requirement, labels, location.report_year)
     if metric is not None and period is not None:
         basis = SchemaLinkMatchBasis.EXACT_METRIC_AND_PERIOD
     elif metric is not None:

@@ -1,0 +1,799 @@
+{
+  "evaluation_mode": "LIVE_BM25_ONLY",
+  "query_source": "ANNOTATED_COMPANY_PERIOD_SCOPE_METRIC",
+  "is_e2e": false,
+  "seconds": 128.289,
+  "metrics": {
+    "schema_version": "m10-gold-retrieval-v1",
+    "evaluated_case_count": 37,
+    "skipped_case_count": 0,
+    "k_values": [
+      1,
+      5,
+      10
+    ],
+    "recall_at_k": {
+      "1": 0.0,
+      "5": 0.02702702702702703,
+      "10": 0.05405405405405406
+    },
+    "mrr": 0.008108108108108109,
+    "mrr_hit_count": 2,
+    "per_case": [
+      {
+        "question_id": "vifinqa-1",
+        "candidate_count": 10,
+        "recall_at_k": {
+          "1": 0.0,
+          "5": 0.0,
+          "10": 0.0
+        },
+        "reciprocal_rank": null
+      },
+      {
+        "question_id": "vifinqa-2",
+        "candidate_count": 10,
+        "recall_at_k": {
+          "1": 0.0,
+          "5": 0.0,
+          "10": 0.0
+        },
+        "reciprocal_rank": null
+      },
+      {
+        "question_id": "vifinqa-3",
+        "candidate_count": 10,
+        "recall_at_k": {
+          "1": 0.0,
+          "5": 0.0,
+          "10": 0.0
+        },
+        "reciprocal_rank": null
+      },
+      {
+        "question_id": "vifinqa-4",
+        "candidate_count": 10,
+        "recall_at_k": {
+          "1": 0.0,
+          "5": 0.0,
+          "10": 0.0
+        },
+        "reciprocal_rank": null
+      },
+      {
+        "question_id": "vifinqa-10",
+        "candidate_count": 10,
+        "recall_at_k": {
+          "1": 0.0,
+          "5": 0.0,
+          "10": 0.0
+        },
+        "reciprocal_rank": null
+      },
+      {
+        "question_id": "vifinqa-17",
+        "candidate_count": 10,
+        "recall_at_k": {
+          "1": 0.0,
+          "5": 0.0,
+          "10": 0.0
+        },
+        "reciprocal_rank": null
+      },
+      {
+        "question_id": "vifinqa-21",
+        "candidate_count": 10,
+        "recall_at_k": {
+          "1": 0.0,
+          "5": 0.0,
+          "10": 0.0
+        },
+        "reciprocal_rank": null
+      },
+      {
+        "question_id": "vifinqa-24",
+        "candidate_count": 10,
+        "recall_at_k": {
+          "1": 0.0,
+          "5": 0.0,
+          "10": 0.0
+        },
+        "reciprocal_rank": null
+      },
+      {
+        "question_id": "vifinqa-28",
+        "candidate_count": 10,
+        "recall_at_k": {
+          "1": 0.0,
+          "5": 0.0,
+          "10": 0.0
+        },
+        "reciprocal_rank": null
+      },
+      {
+        "question_id": "vifinqa-33",
+        "candidate_count": 10,
+        "recall_at_k": {
+          "1": 0.0,
+          "5": 0.0,
+          "10": 0.0
+        },
+        "reciprocal_rank": null
+      },
+      {
+        "question_id": "vifinqa-34",
+        "candidate_count": 10,
+        "recall_at_k": {
+          "1": 0.0,
+          "5": 0.0,
+          "10": 0.0
+        },
+        "reciprocal_rank": null
+      },
+      {
+        "question_id": "vifinqa-36",
+        "candidate_count": 10,
+        "recall_at_k": {
+          "1": 0.0,
+          "5": 1.0,
+          "10": 1.0
+        },
+        "reciprocal_rank": 0.2
+      },
+      {
+        "question_id": "vifinqa-39",
+        "candidate_count": 10,
+        "recall_at_k": {
+          "1": 0.0,
+          "5": 0.0,
+          "10": 0.0
+        },
+        "reciprocal_rank": null
+      },
+      {
+        "question_id": "vifinqa-41",
+        "candidate_count": 10,
+        "recall_at_k": {
+          "1": 0.0,
+          "5": 0.0,
+          "10": 0.0
+        },
+        "reciprocal_rank": null
+      },
+      {
+        "question_id": "vifinqa-43",
+        "candidate_count": 0,
+        "recall_at_k": {
+          "1": 0.0,
+          "5": 0.0,
+          "10": 0.0
+        },
+        "reciprocal_rank": null
+      },
+      {
+        "question_id": "vifinqa-48",
+        "candidate_count": 10,
+        "recall_at_k": {
+          "1": 0.0,
+          "5": 0.0,
+          "10": 0.0
+        },
+        "reciprocal_rank": null
+      },
+      {
+        "question_id": "vifinqa-50",
+        "candidate_count": 10,
+        "recall_at_k": {
+          "1": 0.0,
+          "5": 0.0,
+          "10": 0.0
+        },
+        "reciprocal_rank": null
+      },
+      {
+        "question_id": "vifinqa-52",
+        "candidate_count": 10,
+        "recall_at_k": {
+          "1": 0.0,
+          "5": 0.0,
+          "10": 1.0
+        },
+        "reciprocal_rank": 0.1
+      },
+      {
+        "question_id": "vifinqa-60",
+        "candidate_count": 10,
+        "recall_at_k": {
+          "1": 0.0,
+          "5": 0.0,
+          "10": 0.0
+        },
+        "reciprocal_rank": null
+      },
+      {
+        "question_id": "vifinqa-63",
+        "candidate_count": 10,
+        "recall_at_k": {
+          "1": 0.0,
+          "5": 0.0,
+          "10": 0.0
+        },
+        "reciprocal_rank": null
+      },
+      {
+        "question_id": "vifinqa-65",
+        "candidate_count": 10,
+        "recall_at_k": {
+          "1": 0.0,
+          "5": 0.0,
+          "10": 0.0
+        },
+        "reciprocal_rank": null
+      },
+      {
+        "question_id": "vifinqa-68",
+        "candidate_count": 10,
+        "recall_at_k": {
+          "1": 0.0,
+          "5": 0.0,
+          "10": 0.0
+        },
+        "reciprocal_rank": null
+      },
+      {
+        "question_id": "vifinqa-72",
+        "candidate_count": 10,
+        "recall_at_k": {
+          "1": 0.0,
+          "5": 0.0,
+          "10": 0.0
+        },
+        "reciprocal_rank": null
+      },
+      {
+        "question_id": "vifinqa-74",
+        "candidate_count": 0,
+        "recall_at_k": {
+          "1": 0.0,
+          "5": 0.0,
+          "10": 0.0
+        },
+        "reciprocal_rank": null
+      },
+      {
+        "question_id": "vifinqa-76",
+        "candidate_count": 10,
+        "recall_at_k": {
+          "1": 0.0,
+          "5": 0.0,
+          "10": 0.0
+        },
+        "reciprocal_rank": null
+      },
+      {
+        "question_id": "vifinqa-86",
+        "candidate_count": 10,
+        "recall_at_k": {
+          "1": 0.0,
+          "5": 0.0,
+          "10": 0.0
+        },
+        "reciprocal_rank": null
+      },
+      {
+        "question_id": "vifinqa-88",
+        "candidate_count": 10,
+        "recall_at_k": {
+          "1": 0.0,
+          "5": 0.0,
+          "10": 0.0
+        },
+        "reciprocal_rank": null
+      },
+      {
+        "question_id": "vifinqa-89",
+        "candidate_count": 10,
+        "recall_at_k": {
+          "1": 0.0,
+          "5": 0.0,
+          "10": 0.0
+        },
+        "reciprocal_rank": null
+      },
+      {
+        "question_id": "vifinqa-90",
+        "candidate_count": 7,
+        "recall_at_k": {
+          "1": 0.0,
+          "5": 0.0,
+          "10": 0.0
+        },
+        "reciprocal_rank": null
+      },
+      {
+        "question_id": "vifinqa-95",
+        "candidate_count": 10,
+        "recall_at_k": {
+          "1": 0.0,
+          "5": 0.0,
+          "10": 0.0
+        },
+        "reciprocal_rank": null
+      },
+      {
+        "question_id": "vifinqa-96",
+        "candidate_count": 10,
+        "recall_at_k": {
+          "1": 0.0,
+          "5": 0.0,
+          "10": 0.0
+        },
+        "reciprocal_rank": null
+      },
+      {
+        "question_id": "vifinqa-101",
+        "candidate_count": 10,
+        "recall_at_k": {
+          "1": 0.0,
+          "5": 0.0,
+          "10": 0.0
+        },
+        "reciprocal_rank": null
+      },
+      {
+        "question_id": "vifinqa-111",
+        "candidate_count": 10,
+        "recall_at_k": {
+          "1": 0.0,
+          "5": 0.0,
+          "10": 0.0
+        },
+        "reciprocal_rank": null
+      },
+      {
+        "question_id": "vifinqa-115",
+        "candidate_count": 10,
+        "recall_at_k": {
+          "1": 0.0,
+          "5": 0.0,
+          "10": 0.0
+        },
+        "reciprocal_rank": null
+      },
+      {
+        "question_id": "vifinqa-121",
+        "candidate_count": 10,
+        "recall_at_k": {
+          "1": 0.0,
+          "5": 0.0,
+          "10": 0.0
+        },
+        "reciprocal_rank": null
+      },
+      {
+        "question_id": "vifinqa-140",
+        "candidate_count": 2,
+        "recall_at_k": {
+          "1": 0.0,
+          "5": 0.0,
+          "10": 0.0
+        },
+        "reciprocal_rank": null
+      },
+      {
+        "question_id": "vifinqa-147",
+        "candidate_count": 0,
+        "recall_at_k": {
+          "1": 0.0,
+          "5": 0.0,
+          "10": 0.0
+        },
+        "reciprocal_rank": null
+      }
+    ]
+  },
+  "candidate_ids": {
+    "vifinqa-1": [
+      "90c2407837f9fe3aa34526ef59e1db216cbe4f336b0651b4999db9965ad757f2",
+      "cc4c30a325d96eddea12c46e84e83053f14ff9dec6a49d3a57ea4fd0c8687756",
+      "9c1652e088ad2c11f046e5af08608e9230364c5fc17303dd8868b928f7795736",
+      "10a4e62022753394da5d8e1cbedc448c92186eb92a073a47e462c733c83b75ea",
+      "dc2c4f5b698c60997ea6765c85e1b6526dc9a174ab709ebd985a6402f8f00c02",
+      "3818b01af4d0f045982aac5892518226376b28aeae0a78271e5d99d3b4f21e98",
+      "20f36bb7bba229bc4626b09cc7884144cb29769388ff6a8654b655d883e80b7d",
+      "a96ef1db93e16ff88db1d5197ceb46f8e3e3a04e3cd9c13c3a821b33d012c2bc",
+      "24ac60a274260495c9fe239f99261d66a49db9da930724b1e09f84489fd608b4",
+      "3a40fe45548e267a11d922781c52aeadcc8afaf8e6dc5bc2e524d8610e18679a"
+    ],
+    "vifinqa-2": [
+      "e3f72a25490907a7380165b438972e95b16246366b7d4c8bf7d372917efa135b",
+      "49c1eb43df037e7269fefeb6406c297929ab6b363e3ca672d548b9364b64a3e3",
+      "b0ad297372e8a709a3e482e66716ebe80ee5678a0b7931592070e669c9a5c8e6",
+      "bf2875210e22d14d85d3c56588ed0113f3cf6ae8c87203f757c16cfc8e1a86f5",
+      "e8c2cee026ca302010f73d277bb9d7cb8ecec2856b3bc4ea5c1d52c5bb2a005b",
+      "93f753ec1925d8871ac71788b7c0eca23ef4fe17780c79341cfcea2c0f6d2af1",
+      "b52a8715004bb6f77c2f654973740fe6d42731a823e545eb0e644d9ca45d97a1",
+      "d1d5e7a80e8cd887e54dce94cfe5a1a0295f1943ac13bd322587dabf69d71c22",
+      "fefaa2e3ec9cce6c261d922dcfae5b59d2f07c0f01d2fa37cb44924aeae5b8bc",
+      "0dc2d4a019290a0aed30f833f1fb9adcc3f7116a378f40b6ffe9533eca58ec64"
+    ],
+    "vifinqa-3": [
+      "ae6e1891900f3e47d74d10d23aa57fdce47996fa2e2df8a424e30e55c05d8c04",
+      "57c3fab6c7da6a6ad1d43976ddaece74e9752221dd4ba4157dfa70f36f2d97e4",
+      "a42dd5e92b8a6d659b67b2cf80bc4eb7059f221fff58e851f083bf5fc82e465b",
+      "a6161b72746678030830e6b138138256cb56b18b6141bd165ddc6ba0b9e99d49",
+      "5cf9c65f030fc3b33b3cda4d8cf7751696d8f5c6584158d9f216f8ccdc584fd8",
+      "39fad936c1c3779a95ad7da782b4e6cc94ad1e9d11a883e21c5f69779a0ee33a",
+      "2c420130882e1c2fac85bb1532afc041e3ace1c1866cc033b5199df4d9a807b6",
+      "641039403d96be4cec57214ef18271b39429fcd17a20557ead28610f422d2104",
+      "9bbe3737131f5d172b1c4955030c884ae598a6fbaa86537fbea6be0df54aca38",
+      "fc30e31eb022947f721001543b6f920b99dfb3aad532f7e1da14898e56b3381c"
+    ],
+    "vifinqa-4": [
+      "239f854bf0157d6ea923e6ba1251a7bc82a1ce6751f7b88b63ac328b4410821c",
+      "2d7f9f35ab09dbd67bd17756c21bc27dfcae36a43b22a81dfa097271aef0f50b",
+      "61e329763b8a0e22d313fbd0ea4401e59531c90a113fc4e1b240836e32e9e69f",
+      "b6e4db749846566945bf78cf4e27efd2ccb3b81633d22f9b6a10cb91a1a8bec3",
+      "d0b185a1a174f6fb8bd4df551be271c236596b66547410e64eb402e7d630d5b9",
+      "f4f5be1fd1e9446312b8458e8304115411170939a090c6da974b2c38927ebc5c",
+      "5aad5a72149418f65626945e2b0ca8a96510512e809cb2713910525890c192f0",
+      "c998eb929da46898d933164336b61dcdad5df5f7eb097615a52a1e54275bb342",
+      "2eb68aa62cf46255a42222731a9096c1e224ce5564c6f5a426cce5dfc0e928dc",
+      "fa6051ce1a17fb0ed6eb1209df57552c0daedf5cd07db5d72f5174c35deec81c"
+    ],
+    "vifinqa-10": [
+      "b9b040907cf915f1bb0fa3fc03cd0bfb28852bad97aeb89040a23e9b24e8d2c2",
+      "f1c4ce0bf7724e991ea2ccc19f1e3505984d674ff9e182af0740ba6045d3b31c",
+      "29a0b4fa5512bdb99cc811e071b8561835a2a7dc583db72be856e1d304c99e7b",
+      "9be5392483b36a2af5c1bb5446321998f1aafed7c03fb6605f6a376a244c1dd4",
+      "6c6a12d5e05fccbb013da47562292b78f8b77d7ce503f4ee672a3e34a28c0544",
+      "48fb1e84437995aa5f2f258824e849af4433981624dfe75a347ba1a6b72e264c",
+      "23297cf027c8612ac254c3c74e466e84a00f87d6bee21ee464df34163b6cc55e",
+      "ff9286363c7fb18b6b4cc7b107b97df473095e2debc87bf34d91227936a21c12",
+      "8ec76bf1ddbe3b6e24a7152919dba4a351bc7184992352e9f5481af65035b40b",
+      "c6866223d27595ea8d8ae2a90d0d1561c08453d0beab4866a6b6aa7f9a628261"
+    ],
+    "vifinqa-17": [
+      "7f874f03987b9f6f607329ba2f405129f33e30d18dc7739362ca96f9d18f4fe1",
+      "4a88aee23481ffae374cbc3418bde8794d89274fe245057070a882735a45dbd1",
+      "d8c1c91a87790661b0b0ea8318cccef41a4d7f2fecbd8e0d01ab7f1ed430a732",
+      "9fa00b8a5575160f247b70219f539b968b679096962af689780377dd655ba59a",
+      "152e79bca5b73ce0cd360b9914dc12fcde248ffa8c694a20eb7e3fbf4e61b3e3",
+      "4b67f07e433941f63a5b59cf24a6172480b0da4b41a26b1b6ff7fc0977cd0676",
+      "aee6dc28585eb32d4852c1bf1c0699a9aae6046106bd6bd715224830f48dc973",
+      "563fe2bec3e7e6d3cf989546f44d271f5307666cb856f4fc3bba16881e230184",
+      "1afe6c1d34545c3244e3f1868e612670ba69d240226c20ebdeaa1613718bfe4d",
+      "5dd900347be65790a661f72c27edab564333cdb7122dccc2ccf5ac5c3f010cc9"
+    ],
+    "vifinqa-21": [
+      "21a39a21e8c281dfac7f4012f88108838bfa54fbce8b5a404fa6e064b924557a",
+      "fccf33ec978b45aa578afca6b251aaf1f6ca1f77d620264a82560d605e1231e6",
+      "07aeda07f145442f26c36dfb67c5092ba109404014f242cce01c268027990e6a",
+      "73354ef397e748304cb8c758af03bfcce2dc9e60bf5007af5933980017cf2794",
+      "e191b053fb5285670961bfd2c80078083d4b347ed204be38b7137b6c95bc42f0",
+      "6b6d82778ca4579811c8babf8bbca48d420f97f737232dbed9eaf5c094c3d55c",
+      "467844de07d1897532b41d80f14d9154551ab1c99a9bc3f3107da054a911bdae",
+      "ec4aa7c9089373fa86aab62a553beded5826678b7c7f20ed593c25c887406860",
+      "c010bb3dd54a9eef55e15fd8b7234d841981c2a5c04d2e54214177ca3d79f603",
+      "d42e4cb9197620cdbab47a9110bc6f592b47f9cb7985e337e5d5ec5589ec5af0"
+    ],
+    "vifinqa-24": [
+      "ea2af3d7fb7cebcc5bfd31c7e6e918a27e64faa200c85065f011b5eeddc4c9b1",
+      "8a3fa5038beeaaeb2c71084b8453f682d25a12e40f33af5081d9e46f1c5b6bc9",
+      "90c641fed1ea45bf761a9852dbba0ac62dffdda143fad387adc14fe870c32421",
+      "469f3cc81fb5523ccc47a0ab49fb4f8666c95f5e264a8347d4ddcdbdfcc4e035",
+      "1a18a9c7579ef3745a90227baadc478751bb620b2429b32de8e7c3d410147fbb",
+      "f0be655a008b1b4476698d6d6697699df0dc8cfba9119a9c81a263a7a20107f7",
+      "e164cd92d5c90b1312633cec0f10bc7cc0ed315c90158e36d7eb8448f97d5abc",
+      "07bf86184fe98a525f3640380f1cabc7452b2ab140ea86846edb8b0e28ec8818",
+      "fea6351aab3b1c6123be281af72e8b6ae2df7a3e68e78531a83b1796316b8a0c",
+      "4945b15119e94a5ba66d1f96541b9357aad6a8fd213d9de25330e5f7805173a1"
+    ],
+    "vifinqa-28": [
+      "4b7753482bea4b52fdd067105ef0d2087cca716ffd2dec6086f712eda331ecc2",
+      "f04a562ff56cea841327b57f539b3a43b4b290aeda53887b66764c57308d27dd",
+      "417fdc1e713b2693a07aa13b392865a69b221f345a4048a51c1fd992ba31beaf",
+      "bd504e2bc9d450fe4d54f9cd079efd1eb6d01bfac7a9bb0a071b263c8e355e23",
+      "f4d629e686e2208b2e0b6a630f9891aec2d24c4db7dca591ea689c48ef8f9739",
+      "c88cf915744ca0b58e4b59fa756609e93061f0a9afb549570d146b5790814684",
+      "7f69dc33e0ac1bdf22aba40ec0907bb1b7be6fa3dd38cbb269b8bfcb4da813f4",
+      "c0e9edf70b8a4b4b72dbad48e3581d857a7740b4864d2f98af96a57d72a2ab3b",
+      "602e4da49c9339457e0f8519bd05a34d7590d861b36d587424a82e0992d047a4",
+      "d55095d0133291b4fde067328b6d8b36daa9623e025746021099e93fae187fd3"
+    ],
+    "vifinqa-33": [
+      "67f0cf1276b25055a73b7130b478660ee1baee2264a816b2ee89839bf9c83fcd",
+      "31049653231a1d50417330091d742d03250de711db7d13c5b20e288600676bb5",
+      "46ab718427227df1edc9e7704185a3d1e5289386860d3a43d618792146ebdf0d",
+      "685d8b11caee890e813fc1ce9bea83b31cb4b98a8105647e4ca9a38c561b5b8b",
+      "7db39c78332ba5ae6f7375ebeb63f42bfd3e84e4024f62a914c5a7f6232491b5",
+      "3d5944fad77905311ad12a50971b6ea5f7c7a7d668d18c805558d3e748d8d577",
+      "5743ccd334d9b068c98138da03c678f65e788a1d981d0f81f63e2a7b1b75b14a",
+      "d4985f80ad3658e3fbabcdfa6d429a3449f2266e8437a41b40fedd8ed0caace3",
+      "8415819261b4f9f28c34d0c196fba2cbe1d1e3f1b935c9a59fa80e0c13916062",
+      "5ce0624c0da775414fee7db15ef2693722327be802b09cb0e073429514f3f002"
+    ],
+    "vifinqa-34": [
+      "24c3e7bb228ce77a6cf4627000bcace373794a9224680535373fda15c11ccba5",
+      "fa4b8a1a25ad8314c48d34bb1a1dee7f86f852194814225352cec85f91bb9e51",
+      "a94df9338f500f5da0745724105678a24ae2ab2d3946b9d5d71498017b0d730d",
+      "548a4a438c886f883824e34b2b21800fcc07ee13da48668ec36e1e38fe0b6af7",
+      "ede6eb9c73d9e1293009d4c9a4af2bc4bad9eba15d43af715d4f6f5d9d82d83e",
+      "67817bcc890fe00a124a684645da8321fa527f98ee6080744dc857d758421e85",
+      "e757aee427e40589f7fecc181a603243c29e19ff6c02c09450492175a3198e57",
+      "bb4991db0a021a0749fe4cdf715f7239152d7092b5b0253c3805ea42a078acda",
+      "2b0ceca222344fb432fda3521f4036a3a1c53419f53127e56871a53cc7f23431",
+      "fbea7ed119f1e357e7330e14747015d43df88f1af5948cf726416ac696cbe2ab"
+    ],
+    "vifinqa-36": [
+      "5f581bca779fa5a8c1a7c737c7f1757fc25c0606431d2fd031d0f29f74512f22",
+      "24406fc089400aed8109a7ebaa6168f6511000cb8ffd755fec02bb4dc4df7b70",
+      "426446fc99907768d57894ddf6c4dd6964e7eb0313f5c917615c4732766a3675",
+      "60946c3d072b1796843260b1f0f2415c76059f5a3602894cc06c091bec4ef154",
+      "6b1a951bd5bc2dde2239231b3c36859f4ff8ab184e6273874d73b22502b45ac9",
+      "d20c3a7982b64049c1bea8e0c1e60c48886e2dac48bd95a61072cdda89f2e88f",
+      "003145e51d7b132256a45f2a7fe0bb48b37ccb5c322dadbe80e08fe7caa4cafc",
+      "63116f6f1d7a8e676bdb029b57d889cb863ebef925aeb034238d8f0acdacb007",
+      "71eead4aa26d81f82ec516236309bfcf3e602a72641eb07a1f5ec0dd72fb30f7",
+      "cf8618846efe54e62e059d6fecd268ab06410101e55ec7197e982a41cbd45591"
+    ],
+    "vifinqa-39": [
+      "6244a0ff007e41ebbf5e802d0150a4032afd723fe772c2edbd02bac3d5e83878",
+      "f316ab4ba5fac0a0a8b61bd91502da440f0c9233d04e0084db4b1275048f5603",
+      "4cdc4e35971c7fc38e8c147d093931234f812b64d4868d1ef92eaca73b3a8514",
+      "a689919135f23da49161ac4276a24173d04cd0f3542c151136de8b1197fa77f4",
+      "d1cd1d8a8a0c8d12401c5d4f07f30fa6fa9cd03ab6169cfe4b98fa269be70acd",
+      "4b40a359df0fac1c4c37ee2c3fc580345db5fd0fd6d66b7ed4ac454d6f94cde0",
+      "902e18f0e7771925c67fc6e8fa5dde653a18d3eb96736fafb9a876ce7e7d2035",
+      "3c1da70affae4b2d4a1521b003d3ac0b9a6a987716a9e3b264a7c01696ad5017",
+      "1eed32308d036af5326dfdcd08326d15323eb18022f4ce10bcae4511ed0ad8ca",
+      "7abcfa85d4f892b2dca2160e9359235387488f981264e5412aa970ddabab813a"
+    ],
+    "vifinqa-41": [
+      "7245841c49389e267ead4c990f3d470f91bb7777a42620cc815e650ce23cd291",
+      "e4ddcce063756eea00e995972005bceaef522d534fd02ceef72c062f470838d3",
+      "d602344aeaa3818c42cfeb30178652039c99f56e33646e09eb1959282f881570",
+      "3eee2ccc3f527d1bbe9177b56ba8c5b38103c8885d7504828e17f881711e1008",
+      "d51f86f3a4e1bf6b321b9c75269acc24daa98b86c033cb996f9829560bb3bdce",
+      "5b1827752907b64d2a8c2cbe68618c2916a0b5030ec53e3c3653683056fa3af2",
+      "4c8d5aab55f1e25f45120fea3733b08616f2f1adbe650fc9883b5ff67356581d",
+      "5869dc88530119527835014d03646d66e82a8dfc7a415456e225b06bd04ab82c",
+      "e9d1c7ac7167e4797b32fe3c8a954ddc81b2b45b5eb1ee6851e67511bc18af86",
+      "940e0d75e0f9252401449b2207b790bf8927d61b5d96c5fd4e082ee098097843"
+    ],
+    "vifinqa-43": [],
+    "vifinqa-48": [
+      "e832edd5bb8aafe16e7c9d72b721d7e4d6d09446b4ed866937fb3e5d4ee31de9",
+      "d76de43a982880087ca0d4be7c2f6f3683bcf35b3edf723808bd4d6be4d3ae19",
+      "432cf83c49f9bdf94fbff1d37cb8455198d62bc245f7c6ef2b8ea762694a17dc",
+      "93429faa737e0fac07be5dcd6667ac3a88e671f83a53847224b05206aa0aed8a",
+      "6aad922f55bed756beb987bef5f924fbf81f5c50442c670d2a144241a5ae7df4",
+      "6a8441a6a2bd88398ff67f146bf3a7e926e09e40a0947ee418b41f2b89b6deb4",
+      "dda20902f0af9642f656fdb897b0efacfa70d41d8c9d447124e1de8574b01ef1",
+      "83994ecbc498265d4e2ce6da532c79e05e5d2af1f200d076e1793981eab96334",
+      "4659761031b162e3f8ad345e3b7529a37fad645a501f8b7dd2cb8487b50acfe7",
+      "144e8d037d6192995da27aa648e7855454bbdf8812bcad4202da621b55bb794a"
+    ],
+    "vifinqa-50": [
+      "004558bc44a38f32d1fcb6cbbad3c129bde5586b9ec0fe90105233c93a8abf40",
+      "2041176b7513f595aa5783f1798953b225f39fd41dbf6c015c7755dea9aaf8b0",
+      "a32890f77cda6d253cb0bfaaf73890e4097200ddb466ead118ca04552821bf9b",
+      "4a3e9b855fa5daf4156daac13fe0cd189bda9419552e295df6cfbf1e94e6b48f",
+      "15ebf20a48000e583665c9ee1fbb37e079d4f8783f5db08d150d607a1bdb14b6",
+      "204941ca11b5aeb3965643155de2ace0c611502a8cad9857089740d60cb64cd0",
+      "99fce924f01ded46c1ff14ebf0fa1af77a7b4868be6bcfaa27ecce6939154a6e",
+      "b518145dae05e15713ae5d8c4fc0a9efffb8fa7b2b2bf3da4e743065a7a1a617",
+      "0f5d244fccb36b38f577c60a166479201625a699cb66eb967d0a2e75fda96b64",
+      "f4260726c97ff8ea9e4f9235f69920f4df6bdbb6aeb9e6cb148d2970ef3ad77f"
+    ],
+    "vifinqa-52": [
+      "04f1c380066178197e9e7bfe12d2581064051a0052f0c7d5743b1a81dace66f2",
+      "73ac8ad58f980e6f9bba8afa6ac5784624eb5092ee6de086a504e877396304c7",
+      "c439a4403bcd359783aab1822221b0dca8a6946f49791027da9dd48cc2ab7522",
+      "0043b670afcae22ba255b04c5ef7bb7e1930b6e5c33243e2b384ae2eecbc34c6",
+      "53275f5c2decca5659d3aca66ae4c47df63400bf14030313c79df2583d81afe0",
+      "8d7e16e0cfd06492f5867b57127c35e0d4ff4b86ca043fdb198b9ff42e425a19",
+      "85964999b8c10afae6d04edd6efea86aa1c2c7200e2f44b1ecea62c05fcec28f",
+      "3d69a3f650aa6b3d3a7d4211a806d4c4fc6954af084357ce4c9de5a4bb71cd24",
+      "76b2a61c641062c5ecb4cfdd5115d722f778d8fd2dc9ceda1ac21d505b032425",
+      "fd638f52c57e896abb06836ff8ac5d902cc08d5dd94c58dd718c4d8d7e4787ee"
+    ],
+    "vifinqa-60": [
+      "b8079bba3205637925cf0fe378d4b70e78c14a946b7914726fe3e84d11d13d20",
+      "75e6c5f4f74e27ad1a9e6b826a9f55801f26da969f16d59245bfbed3de3b3da3",
+      "0e6c6bdf15b29228be6b19975d89857726cefff612c6dc49cb519af199b9369a",
+      "bd8accf17de1b9dd1b8439d1a5b9675412dcb77553f6684b48d05426a36847be",
+      "e3d20b1b5d72c501c6235545e7f608c59c67a5f1aa96581007bee7134e51868e",
+      "b5a148f83030e529e9a3e65be27c4c823b31b29b06474848989d42e877dcc244",
+      "06e898e405a6dcc291da9caf93b29aff04d6f97cc3f7df05c6b43169553cea3a",
+      "0e1eac5c34f9e5369b29859f70a5bc8252756bd58397fd0d66c5a303fb3eb44d",
+      "683399d4a8f3280009086bdabf662863414d86a8b84033ffba4b0ff7bc946906",
+      "9a18ecaa8035267c42ad0c11f30ffe3599c9cb47e1a316473cf641e45687e9c2"
+    ],
+    "vifinqa-63": [
+      "2037c6bd2dde41ed7488b51da382a1b0bf258ce0ffb59b1ab576e6d95260c3f3",
+      "3924bc9772d715509543c061001df34cf80343eb9c155fcd4e325c9f58a62856",
+      "68610cde178e4793227034c273c9175f4a4ad37a34125d6f723fa3fb8ab79e6b",
+      "876e0907dbe5fab48fc5714bd3ddde722ed67d7052c847a2d980952b5651eb84",
+      "9d0f8365c87abf004ab1f0ce6b82954ae19562351d6b82eb907998a174bd9f1f",
+      "a82fd41f47ae97da68ed585a0f18afe2643f5874d7e34bd062e110e54b301911",
+      "a697b03c6af99ecad200821be51bdd53ba15698fe87285d4841ab2f60672425c",
+      "10b59ae55acfc462969ff19e77074509f435aec7a97deddefe7e78c78fd454b8",
+      "32e58b88a55fd82e8c06ec8d59a78338a4883b3547cf5274e361cc9a4e94d3f7",
+      "443237fdbce00cd450124e910d3125ba03ac7483ab39a7cd7bde4c493cd757e3"
+    ],
+    "vifinqa-65": [
+      "b42aab1583dcefc519dfc78bcba70af3e88b9b6682e71204aba18d1907aa5d9f",
+      "00c804261e35b9e7f2db1cbf42837e2ca6e861b937a2ff1e882eeeddd4343886",
+      "3ce61b4ebcf32748ee0fa85ff23346996d69665dea5509544d0cf2bec0f9dc7d",
+      "037c92af681c00c703878de6f961a84b094e5d5999c74d845ebe0d7d28aaeb65",
+      "5ee6091355f90b7fa7dbf50891ce4661694c47857c01cbaa6e0eb22091be24aa",
+      "dfe0cf29b86d158b39837c574ec7ff701d21c58c4e17211af9e5b63d18520bd9",
+      "0dc2d4a019290a0aed30f833f1fb9adcc3f7116a378f40b6ffe9533eca58ec64",
+      "5f47893298776c6cd11a810c40ac8c3d2b72c2a36f79b7cc3596a2ad04a77e7e",
+      "fe2a497ca21d28f5fb334e56be98f92d7c7065c0d107475d6e966463a4169876",
+      "6a053df73019be9a9d6319d0c48422abbd67d6dbd60520e9bed77ee6483e50a2"
+    ],
+    "vifinqa-68": [
+      "c199e8164c64008d10ae220394a7218872919510c887d3f78a51ffb9d2f97a16",
+      "61e329763b8a0e22d313fbd0ea4401e59531c90a113fc4e1b240836e32e9e69f",
+      "b6e4db749846566945bf78cf4e27efd2ccb3b81633d22f9b6a10cb91a1a8bec3",
+      "a1b78f2f412b2d19469032195500544d697a3e0ee3250f248f21e9ecca1eb435",
+      "d026f4a6eab9b46cf6d31957376294e2bbd8b4a8ca9151a5ac441ec496da5355",
+      "fc23b9643c8ee185ff1daee7aa5d2e4010812eefb1b1427375c3f897706e68f0",
+      "239f854bf0157d6ea923e6ba1251a7bc82a1ce6751f7b88b63ac328b4410821c",
+      "2d7f9f35ab09dbd67bd17756c21bc27dfcae36a43b22a81dfa097271aef0f50b",
+      "5bc26deb1e9d9ca36d4f336afdb8a8329e282cf96fcf20479840d4d2c56af528",
+      "946783e5c4f7824748f1a69860023073800ce6cce9afbb30ce67f9f1a73f3786"
+    ],
+    "vifinqa-72": [
+      "f4d629e686e2208b2e0b6a630f9891aec2d24c4db7dca591ea689c48ef8f9739",
+      "90f5ad3df62795e08d03041a31ab1d2b3e5c5129d19560c30e87c9d1413edb08",
+      "37e1886207bd72a9fd9b18634a1ca6d31bb429935e7869a45bd93dae6cadd615",
+      "d3d57bef61a034ed626f5ba711993bab1f502d432adcef995ade382b02880f28",
+      "76d5dc7c6a92ae4fa989cdce2d3e92029e76b3fe3c216a8d90bef4458bffa0fe",
+      "20cbb1dfee7b10e17f445834b9a00ab7fc11a9674b5cef094dcd23eb6baeeaa4",
+      "e1788101337a4e980a6bd2e461b201c15fd9fdc0eb2e689fca0fa38cc57636ec",
+      "1c0ac7f013c1f46bf036363e68c120623806f6e302ffee7d993c8c3873ef02f4",
+      "0ad76321ffcaff8b04dd413caae06614c337dcb26142f9dddddd902f09f4e069",
+      "c0e9edf70b8a4b4b72dbad48e3581d857a7740b4864d2f98af96a57d72a2ab3b"
+    ],
+    "vifinqa-74": [],
+    "vifinqa-76": [
+      "43e6584e070713884f4aab443aa7732ed8a362fdcded4a472e6ab9f965748280",
+      "20a14ccff3cfe1d3afc422a25fb313d828658272117d17ebc641ced3a1332567",
+      "29070ecb186ff33b0db76d0009d4403ad1a68985b793650e238ddd1dbcfe1479",
+      "729d061f86984e40b7f159b310f8ff3567b5bbf04d01f93f5fe3d7ac74a9200d",
+      "e59248bd14289df60dc0e335ad4e2001b8e836ac28caae25122d0c115737fa4d",
+      "52b4bbbe96a4eb188fafb6e0386127e94c93364e480d7dbfb06539eb032b4f1e",
+      "73948f36b0efec4b81b16056e22a72ef73af2978ec9fbeef7416f3b7c837bcb4",
+      "dc3f1afa8df43baabf85b9342c5efb00504de43b30a85fc7d7cf76702bf803f4",
+      "02390450c85b47e6ae109a4c345f6c73eec3517f8d5284a5586fb876e2d08010",
+      "76b4e4cf95d2382802cd3c925798eaf7d225f5d04b5cd1dddeee7c7a3ab45633"
+    ],
+    "vifinqa-86": [
+      "79f7b554812bf49560064e1ea3be35763ca97926ab4fe666af0ffaf69628cb59",
+      "b425bed21c2bef9c5ba2ff214c3cfb2672a92ab8a32c8a5cfa67d13d92528af8",
+      "e27d3261f85accde013262ea72bc3810d35558e825f2134dfeeef18c5e1c669b",
+      "23744a1f67660acf736fbe244cce2d96e01ed81578ca341d8542243f5b0f961d",
+      "210ce55f97c69a9959b581b019bad785a4d0f9ef27db1d8f5f3ede3ab99b1482",
+      "a72576e157647da2834dff7700f1c060e766f6b4d8e89bfaae05705662df12d5",
+      "1baa91e3f7f757f3438e21c445c6e384aa661f8c07abe2216d7c4d4145d08f7e",
+      "4470a0adeb1dd26ae86918de4a2195f694b819d00e2781469f0d7de5f135f0b7",
+      "e586323dad27e55c12cb1aa2aeed5c1787e49638bd0208e1005f6296ca0d6a64",
+      "dd63d9d7027ce55a99a85f2cf1025489f2b6a2654e1e066250ac66396388d1d2"
+    ],
+    "vifinqa-88": [
+      "bbf9f55016147e38aa3895e2f9248b8dd0df8dd68e2c933c6f3f8d72b6881061",
+      "cc8c1160bbb11a8e0835ce6b07cf3bdf2a64a4cded03832a9d1fd43c567f7614",
+      "f4aeb0838b5169d9fdeab4b5a9257fea9ad177591adb64dcbaeacc78b341a85b",
+      "ff3a735c5fc24e866f95ab6dafa896e40d8306606f9ec77d8e5c87ad0005daf5",
+      "06409af10f00eb2bf6659a73569ff930d027b0c090ef1d773e5897dab5702f7d",
+      "25c5b14f57fe885576f7c45f2a43491a443d5e055f787ded3b1f63ba8d8fc48e",
+      "f18efa5671debc23bfe5f21f8c25799e42b3c9814cc5732be22856177c320d0d",
+      "09d823d19c9d23907956c2d5a24de8f5db8d319ae20cf2a9aeeeb4791d411de5",
+      "9fc87b8b68fd7f4df0c171d9514a1a4690a1ef7ea9c6bd24fb2746f638258b45",
+      "7c210ef60f0e0d8571127ded92bceaaaf65ce62288ad4564844d6159877c6ebb"
+    ],
+    "vifinqa-89": [
+      "175def8c59b3a4dcbb263f1778cb08d9ddae03a40e3cfc4f5ce53144174ca81b",
+      "0e120e68c6f7a298235f0ba5334f1ac909c696e5ce55ca831850343661335dc5",
+      "516cabfb4482cb7184d6ebacd102fb39f3633f2e9de0320a932dd633cce2cbf5",
+      "753755ee5c585d48cb9cd5611bbeb0d00261e8e4d8baa1bdd10d1299df493ce3",
+      "18347ae4e279f38341e3a2954e84b2f2779e27d91bf2ef00e59a6470ae12c2ae",
+      "f27fd25547a7dd5aef61a15231b098e7975dc0bc2c25b9bc5161c87e59019997",
+      "d84699cf112c8f017797b23c0cb22709cfad3bab7e87139c0dc1fa9cca0fe77b",
+      "a8e877488b60a0d3dd2720743bd0b4f479c19460a1873f7f4a787fa92caaef2e",
+      "3ea775dd2015a99e53c57acae0e95871a166fd31369207934b6f00f3ba8a7e09",
+      "1b5d0c322c3101d5bcb468aa1d1734271809fe13a0d87d6cb96914775dc037b8"
+    ],
+    "vifinqa-90": [
+      "ed60626b575ed39cde231494beb011b1c0d3d614e9e94ecb1bda9c0e152b5ac3",
+      "c7604e66bb74e4d3d890b0a38272245ad401e1c7abd905c5e486680c5f66bd27",
+      "54f672b181983c48d1dc0d7835167900330467e277042ca18d5693ffd25bd72e",
+      "7b19a364cd690375b3331083fb72da51dde1229a4ee676f424201ab01e15c0da",
+      "a640af941a8055373519bc0108cffce6e7cde2511ee81b9cb66cd7b636e12c5c",
+      "f6faaaa83c361c5bc869c9e7189c4d577ab76bf8e7f91c738fc09f02665dc18f",
+      "f6183539d196d5868905ea1924ac87367316983d20235bec41fa6f8acccb46f2"
+    ],
+    "vifinqa-95": [
+      "fc70d55ebfa6c9dd065718929472ef91e53509632bcfb692452a93115cd9226a",
+      "a0b94213cd9be890fa2228def7746de34e59d597f812057b691cf90dd4032aa0",
+      "cc8762bb70bbc125e785a7226349b2f11e5828ac582c0b7e3b6815363ac1f27b",
+      "db5ac26944b33c10f39f587475d5e7746b33a7a2a0d43efc4b39ff11ed1bec95",
+      "e7da609b759a652903b13eedd113c100825f71b6eff970108e0048565fa08a17",
+      "568fba5219f2cc60311c56c40e8a2732ef2fa638e1965d14ccb577eb94874029",
+      "84138a5f7bc1d2ac30646aad899d1ef498db4c73e067b91ddd9e319e5fd108e4",
+      "5274aeef9363d6a88a805aa0389c727aaf470a8f8eb7d362f9b3171e138edc88",
+      "ff93b5cf104415bb527a3053de172213239a1f94605e30197ea38ac6c3f209fe",
+      "91f83375f718ba15b72e5caf506bd35b7a76435d35e58435d85131f67dfc8145"
+    ],
+    "vifinqa-96": [
+      "e73576f52602a97876944af7b3342090f56fd4aa5abf7793bae0fd88f6c93a5d",
+      "d7f56840437a482f89be5045e8cf660514313ebde9f246cae89fa13e8c28adac",
+      "d0520bfafa155426322688e7c6ea750f60023d1dc496cccef046daf4e539f473",
+      "5f793a409a3006a4d3ed7e94a8e0a797136fdcac63d73b81cc0dcf65023bc2c5",
+      "84d247d8d5b986897926ccd36b9324eb6df46c97bf078825090633c676613793",
+      "0e5b2fb47b130eefdb4e4d6d3c2160f9625f5773b18e777a3541dffd23350442",
+      "830a7d24b4bbec7dd8e061a45d5adb70704adb9b44ed237eabc306f74203c533",
+      "ef0d327be5d4e411ca1b75be95c96d8798545d0e4ecd7c7e15ff4353fcbe0dfc",
+      "9228f5baebb03c3cb75b70390d04c3f50de536d52ebd269cd9b5654457c02db4",
+      "0446340582b8f489c0125cf4054b00bed62d18e72fb6799c7d0d401fbbfab8a8"
+    ],
+    "vifinqa-101": [
+      "298258c468b7c2f84986dd74dc124b545373d286cc39029cce11a88f0859107c",
+      "773ebee18d9fad73435a85c6e982f048af67853c13d3e07c36544c3df32dac4e",
+      "8b5989d97a565b846bb39b102c835d99dd7fa4e4082e150ab5d6d1dc4139566c",
+      "fb0c64fe3702774bc9f3b291ddb8559a70b4005b1a1c3a9fd18fb3f7ae639f3c",
+      "06c6da04cbcec749623400efcca8d958f0097051a44ec075449b150206b23c86",
+      "4d3d45b1d12e88968998e1f84307b444a748576b3aad0f866b1aae6e4753d1c4",
+      "ad7096f983c93de11c63a39248310f75d7f8dff95c706914afd177a77c9d1136",
+      "60c0a0aea54721fc08d83f8c07270ed3b00860b1a1275ec39d061bb548814897",
+      "a34215083a028e38f34158b33a236981ce0fb571fc2a9a8dd353dd8993892cf8",
+      "95c9016529095a0f21437c43a50656a2da592997cb58d3a7ee4b2b5b601a9c1b"
+    ],
+    "vifinqa-111": [
+      "c04d92efe0c359a4a111e49fa4c88bf75ed92d7f5e0cabc850f999f8bfc435b9",
+      "22bcf3528b50bc9bf330daad07d31c6741c0cdab630ff3661193774d6857c532",
+      "fc99b1ea4bfe0c6154439f013b4a364b19d1261fe976a8149181d9c2f16da13d",
+      "296084925d6efeaf4192504edeacefc703dc89fc0dbbbddf534e1a75c72e54b7",
+      "456789aee96a2360d89f53a849e2f5405618606a1ef371a64814f90a3dc5290b",
+      "7d057e65baaf2a722d275bcd6d8074f84b6c2a81af0293b83fce7ce2bdd85be1",
+      "50d3d33d29f0d448aff556acf866ac22aa9f3f5c6c81d4ade4fce684c4acdaa6",
+      "b6e9f1fe38632a1a21225b8e4b755c25c02e120870d778b8717f553b17cec374",
+      "a644675be229073887dd8ffab222b7ebba27a0282e180bc93038dd9000f5e4dc",
+      "1da7cfe27fd031a4ff2ba5ba84492f2f549ea3ab1ba2be86857744fe7f016843"
+    ],
+    "vifinqa-115": [
+      "fbbe3e7ea60ec2848c360f8abb9593bb4dac785841277318610b1f0dd0add359",
+      "7368cb6961fd1024d48d6e2781c9b070f04cfaedeff1f7346a0c225cb990a879",
+      "2be394db2d482714ce0f5d2db6ed2b36bbd96e90633c37dc9f78b6efa2e386d2",
+      "9407837a6b37cf5929877df3cd0cd04ac801a424a616a852645b89a6f23cbe72",
+      "925ba0a5a1e138dc91a0a9f417f97594d4cf3ec48fbb3bfad139f189301f7afd",
+      "48218abcf598b5cc4de464374e9813adcda28d4d4d30cf753396f1096d9ac8c2",
+      "e3ea87c7d90dcf70a7a8135ecfb3050dea8cc9f57b92362402a9eab004c674f6",
+      "63e5afc4a85572b40b52025f2fa129ea64ec6fa33609da425e6e65f5305f6be6",
+      "526c5a5c90e2dc260bd365d5c7c3b7a323ef1a50bb912f0b861bc53fa3cbbbb9",
+      "07d0cb47ab9f275533cfa4cd4fbaef3aa208337fb92e9672b6060db0a4294e20"
+    ],
+    "vifinqa-121": [
+      "58a3a27ac27220cfd7ccfe0b3bbc642ea270514c159444ee9d7e6044d0b664ae",
+      "842e1ff0b123a27b39d8a8c3e68b78a5da84683e0f30809d95aed465c9978e8f",
+      "2643c2dde1d35074795e13d0e3719c805dc23f1d6b9de94f71da992cba2244c5",
+      "9bbe8f6b9594a0aaea7e3d2c3c5bca3bc5fdfcd16ebe8999710d577f67b90368",
+      "f424c1c7b3c037c33ece37d8d52d8361b5e94e0c1d4a361039eec306a22b3f14",
+      "cec942681c1d7aef41b2a2811cc59de580a978bac4b5f4b98fbf4e4c523ecd55",
+      "f1fb8e5ec5384127a3e74dfad100601ce1b364ed6b1a69ff5eb7d904f249776c",
+      "209af4c0990c3cc0c9a41ea843b36e1b296008edf9bc66a26ae90b07e0ddef3d",
+      "362a5f5614619952d157a643fbb3773cb296f6fd795b02b081858ed2e6180b6c",
+      "d1e2a13e916772c67bc816a4ddd19620e490892a921d6062f0d9e5ab6a5661ce"
+    ],
+    "vifinqa-140": [
+      "203abb616c57191e6940a1f76173107f3e1468673318e154a1cdf4a14cc35d76",
+      "e4469a5065448bd3733cfc1d1e584f48294c0298b279cba2c8fd92b532e4d786"
+    ],
+    "vifinqa-147": []
+  },
+  "bm25_artifact_fingerprint": "5a639ffe5774ae27dc8bee57bbfe5dcbd2cce1950ef229127871981ac24ddbcd",
+  "bm25_artifact_id": "35399789d6b5cb5cfb08168922dc5cce72b2003bf19827e83736a115493b4d51"
+}

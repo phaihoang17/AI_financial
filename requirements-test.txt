@@ -1,0 +1,6 @@
+-r requirements-orchestration.txt
+# Verified on macOS Apple M1 with Python 3.11; real retrieval weights are optional.
+pytest==9.1.1
+numpy==2.4.6
+faiss-cpu==1.15.1
+psutil==7.2.2

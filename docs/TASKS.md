@@ -14,6 +14,17 @@ A task is `DONE` only when:
 
 Exact metric thresholds that are not specified by the provided materials are marked `TBD` rather than invented.
 
+Current execution host (2026-10-09): macOS, Apple M1, 8 GiB RAM; no RTX 5090 is
+currently used. GPU run evidence below is historical. Local CPU validation uses
+the Python 3.11 environment in `README.md` / `requirements-test.txt`. ADR-059
+fixes exact Darwin worker startup while preserving all sandbox controls.
+At that validation boundary, real-corpus TASK-100 remained open; local
+fixture/test success cannot close it. The bounded real-corpus pilot measured
+on 2026-10-10 is recorded in the TASK-100 entry below.
+Mac validation after the fix: 1035 tests passed, 4 real-model/artifact checks
+skipped, zero failures; Supervisor 14/14, oracle reasoning 7/7, E2E fixtures
+12/12 and baseline fixtures 3/3. Evidence: `scratch_logs/mac-validation.json`.
+
 ---
 
 # M0 — Project Contracts and Evaluation Skeleton
@@ -815,7 +826,102 @@ M7 Batch 4. `GPU_PRODUCTION_VALIDATION_PENDING` is unchanged.
 
 Do this only after the correctness baseline is measurable.
 
-- [ ] **TASK-100 — Establish strong-tier/strict-verification correctness baseline**
+- [x] **TASK-100 — Establish strong-tier/strict-verification correctness baseline**
+  - Fixture regression alone must never set `established=true` (ADR-058).
+  - Validate independent VERIFIED scalar gold against the canonical corpus;
+    require explicit answer scale and preserve unit.
+  - Score terminal real M9 runs under STRONG/STRICT, bound to passing ADR-057
+    corpus/vector/BM25 artifact/live validation. Missing runs and abstentions
+    remain incorrect; report value/unit/grounding and failures separately.
+  - Record achieved accuracy; acceptance thresholds remain TBD. A measured
+    baseline need not score 100%, but fixtures cannot close this task.
+  - Rework on 2026-10-09: fixture CLI is now explicitly regression-only;
+    `--mode production` scores recorded E2E exports (ADR-058), not live calls.
+    Follow-up on 2026-10-09: the exact 37-case LFS LOOKUP pilot was recovered;
+    source audit resolves 21 RAW, 15 MILLION and 1 THOUSAND answers, preserving
+    values/units/evidence ids (`gold/retrieval/pilot-scale-audit.json`). The complete
+    1,973-report raw source matches canonical ids/hashes/inventory. M2 corpus,
+    vector index and both sidecars are now present at the repository root.
+    Full-corpus BM25 was rebuilt in 342.702 seconds: 1,743,311 candidates,
+    artifact `35399789d6b5cb5cfb08168922dc5cce72b2003bf19827e83736a115493b4d51`
+    (`scratch_logs/task100-bm25-build.json`). The real BM25-only 37-case pilot
+    records Recall@10 2/37 and MRR 0.008108; this is annotated-query retrieval,
+    not E2E (`scratch_logs/task100-bm25-pilot.json`). A memory-bounded CPU
+    evaluator now reuses the pinned BGE/FAISS/RRF/reranker implementations:
+    `python -m src.evaluation.run_live_retrieval_eval`.
+    The user selected DeepSeek Flash API instead of Qwen servers (ADR-060).
+    API-backed NLU/Programmer and a real M9 export runner now exist:
+    `python -m src.evaluation.run_live_e2e_eval`; deployment instructions are in
+    `deploy/serving/README.md`. The user supplied the key in the ignored `.env`,
+    and a live probe succeeded with response
+    model `deepseek-flash` (`scratch_logs/task100-deepseek-probe.json`). Full vector
+    SQLite integrity_check passed in 505.284 seconds
+    (`scratch_logs/task100-vector-integrity.json`). The first raw-question M9 run
+    completed 37/37 pilot cases: 35 CLARIFICATION, 2 ABSTAIN, 0 answers (0% answer
+    accuracy); 28 MISSING_METRIC, 7 MISSING_PERIOD+MISSING_METRIC and 2
+    MISSING_STATEMENT_SCOPE. No request reached retrieval/Programmer/sandbox/
+    verification. Real terminal states and a failure summary are in
+    `scratch_logs/task100-live-e2e.json` and `scratch_logs/task100-live-e2e-summary.json`.
+    The current production CLI prerequisite check, supplied with these corpus/run
+    paths, stops at MISSING_RETRIEVAL_VALIDATION
+    (`scratch_logs/task100-baseline-current-gate.json`); it does not score the
+    pilot or replace ADR-057 validation.
+    Full annotated retrieval then completed in 4,338 seconds with no stage
+    errors: Recall@10 BM25 0.0541, vector 0, RRF 0.0270, reranked 0.0541;
+    reranked MRR 0.0297 (`scratch_logs/task100-live-retrieval.json`). Its low
+    score is measured retrieval quality, not an accepted TASK-100 baseline.
+    At that boundary the operational task remained open pending appropriate
+    STRONG/STRICT gold, matching terminal M9 runs and ADR-057 validation.
+  - Completed on 2026-10-10 for a bounded real-corpus pilot:
+    `gold/retrieval/strong-strict.jsonl` contains three newly authored,
+    independently VERIFIED AVERAGE/LNST questions (AAA consolidated, AAA
+    separate, FPT consolidated; 2022/2023). Original code-60 income-statement
+    cells, headers, VND units, source hashes and independent Decimal means are
+    recorded in `strong-strict-source-audit.json`; comparative 2022 amounts
+    also match the original 2022 reports. Gold validation reports no issues.
+    The NLU prompt now specifies canonical LNST synonyms and `aggregate` for
+    arithmetic mean; invalid `average` proposals remain rejected.
+    Real raw-question M9 completed all three under natural STRONG/STRICT
+    routing (`scratch_logs/task100-strong-live-e2e.json`). Production scoring,
+    bound to the matching historical ADR-057 artifact/live validation, reports
+    `MEASURED`, `established=true`, no blockers, and answer accuracy **0/3 (0%)**
+    (`scratch_logs/task100-strong-baseline.json`). Every case abstained at
+    Evidence with `EVIDENCE_LOCATION_AMBIGUOUS`; none reached Programmer,
+    sandbox or verification. Per-question inference took 310.098, 306.673 and
+    998.543 seconds; source reconstruction rescans corpus prefixes per candidate.
+    Tests: 48 focused tests; Supervisor 14/14, oracle 7/7, E2E fixtures 12/12,
+    baseline fixtures 3/3. This closes baseline measurement only: three curated
+    AVERAGE/LNST cases do not establish corpus-wide quality or a release
+    threshold. No fresh Mac HTTP endpoint parity is claimed; the reused ADR-057
+    report validates the same immutable corpus/vector/BM25 build IDs.
+  - Follow-up on 2026-10-10 (ADR-061, not a re-measured baseline): the
+    evidence join, BM25 metadata filter, registry subquery wording, VAS header
+    fallback and shared metric/period matching were fixed. Replaying the three
+    recorded questions through real Batch3 retrieval and the real Evidence node
+    ranks the LNST income-statement chunk first in all six subqueries and
+    resolves one exact schema link per period whose value equals gold. All three
+    now stop at `SCALE_RESOLUTION_NOT_RESOLVED`: persisted hints only cover
+    `nghìn/triệu/tỷ/%`, so raw-VND statements have no scale evidence. FPT 2022
+    links the 2023 report's comparative column (the 2022 report's label is
+    OCR-merged), which TASK-080 grounding will reject on report year.
+  - Follow-up on 2026-10-10 (ADR-062, not a re-measured baseline): the live
+    path derives scale/unit hints at query time from the raw report, adding
+    currency units (`Đơn vị tính: VND`, `2023 VND`) and a unit-declaration
+    link. Replaying the recorded real Batch3 candidates through the real
+    Evidence node, all three cases now resolve RAW/VND on the gold values and
+    reach the Programmer (`scratch_logs/task100-adr062-evidence-replay.json`).
+    Programmer, sandbox and verification were not run live in this follow-up.
+  - Re-index on 2026-10-10 (ADR-062): offline builds now use the same grammar.
+    Under `m2a-normalization-v2`/`m2a-representation-v2`, the corpus
+    `7c14b549…`, both sidecars and BM25 `91071533…` were rebuilt on CPU into
+    the ignored `reindex-adr062/`. Persisted v2 hints equal query-time hints,
+    and the pilot reaches the Programmer on them
+    (`scratch_logs/task100-adr062-v2-evidence-replay.json`).
+  - [ ] Vector index for v2 corpus `7c14b549…` (ADR-063): reuse v1 vectors
+    for the 99.6% unchanged chunks and embed only 7,300 changed table chunks
+    (about 25 h on this host's CPU, or a GPU host with `--device cuda`). Then
+    apply `reindex-adr062/version-bump.patch`, switch the live roots and rerun
+    ADR-057 validation and TASK-100.
 
 - [ ] **TASK-101 — Activate CHEAP routing for eligible simple cases**
 
@@ -1021,8 +1127,9 @@ Qwen2.5-Coder-14B are **not** required to validate the v1 query path, and
 `GPU_PRODUCTION_VALIDATION_PENDING` is canonically a **retrieval-model /
 production-vector-artifact blocker only** (ADR-020, ADR-025, ADR-031).
 
-TASK-100 and TASK-101 have CPU modules implemented and unit-tested but stay
-unchecked. Classified by what their current implementation can actually measure;
+At the M10 Batch 7 boundary, TASK-100 and TASK-101 had CPU modules implemented
+and unit-tested but remained unchecked (TASK-100's later pilot measurement is
+recorded above). Classified by what that implementation could actually measure;
 no numeric threshold is invented for either:
 
 - **TASK-100** — `src/evaluation/baseline.py` + `run_baseline_eval` measure

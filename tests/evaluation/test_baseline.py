@@ -10,10 +10,6 @@ from src.evaluation.baseline import (
     evaluate_strong_strict_baseline,
     strong_strict_baseline_cases,
 )
-from src.evaluation.e2e import (
-    PRODUCTION_TABLE_E2E_BLOCKER,
-    PRODUCTION_TABLE_E2E_STATUS,
-)
 from src.evaluation.e2e_fixtures import e2e_fixture_cases
 from src.evaluation.run_baseline_eval import main
 from src.supervisor.schemas import ModelTier, VerifyProfile
@@ -55,7 +51,7 @@ def test_baseline_report_establishes_correctness_reference():
 
     assert report.total_cases == 3
     assert report.failed_cases == 0
-    assert report.established is True
+    assert report.established is False
 
 
 def test_baseline_report_dict_carries_config_and_blockers():
@@ -68,9 +64,12 @@ def test_baseline_report_dict_carries_config_and_blockers():
     }
     # Thresholds remain TBD per docs/TASKS.md; none are invented.
     assert payload["acceptance_thresholds"] is BASELINE_ACCEPTANCE_THRESHOLDS is None
-    assert payload["established"] is True
-    assert payload["production_table_e2e_status"] == PRODUCTION_TABLE_E2E_STATUS
-    assert payload["production_table_e2e_blocker"] == PRODUCTION_TABLE_E2E_BLOCKER
+    assert payload["established"] is False
+    assert payload["fixture_passed"] is True
+    assert payload["measurement_source"] == "CPU_FIXTURE"
+    assert payload["status"] == "FIXTURE_ONLY"
+    assert payload["production_table_e2e_status"] == "NOT_EVALUATED"
+    assert payload["production_table_e2e_blocker"] is None
 
 
 def test_baseline_report_embeds_the_existing_e2e_report():

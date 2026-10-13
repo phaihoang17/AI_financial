@@ -1,0 +1,15 @@
+{
+  "status": "PASS",
+  "requested_model": "deepseek-v4-flash",
+  "response_model": "deepseek-flash",
+  "usage": {
+    "prompt_tokens": 37,
+    "completion_tokens": 5,
+    "total_tokens": 42,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 37
+  }
+}

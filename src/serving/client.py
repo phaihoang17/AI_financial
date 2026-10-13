@@ -158,17 +158,37 @@ def _read_count(response: Any) -> int:
 class HttpTransport:
     """Production stdlib JSON transport. Exercised only against a live server."""
 
+    def __init__(self, *, api_key: str | None = None) -> None:
+        if api_key is not None and (not api_key.strip() or "\n" in api_key or "\r" in api_key):
+            raise ServingError("SERVING_AUTH_INVALID", "API key must be a nonempty single line")
+        self._api_key = api_key
+
     def post_json(
         self, url: str, payload: Mapping[str, Any], *, timeout_s: float
     ) -> Any:  # pragma: no cover - requires a live server
         import json
         from urllib.error import HTTPError, URLError
-        from urllib.request import Request, urlopen
+        from urllib.parse import urlsplit
+        from urllib.request import HTTPRedirectHandler, Request, build_opener, urlopen
 
         data = json.dumps(dict(payload)).encode("utf-8")
-        request = Request(url, data=data, headers={"Content-Type": "application/json"})
+        headers = {"Content-Type": "application/json"}
+        send = urlopen
+        if self._api_key is not None:
+            parsed = urlsplit(url)
+            if parsed.scheme != "https" or parsed.username is not None or parsed.password is not None:
+                raise ServingError("SERVING_AUTH_INVALID", "Authenticated requests require HTTPS without URL credentials")
+            headers["Authorization"] = f"Bearer {self._api_key}"
+
+            class NoRedirect(HTTPRedirectHandler):
+                def redirect_request(self, req, fp, code, msg, response_headers, newurl):
+                    return None
+
+            # Keep bearer credentials on the explicitly configured endpoint.
+            send = build_opener(NoRedirect()).open
+        request = Request(url, data=data, headers=headers)
         try:
-            with urlopen(request, timeout=timeout_s) as response:
+            with send(request, timeout=timeout_s) as response:
                 return json.loads(response.read().decode("utf-8"))
         except HTTPError as error:
             raise ServingError("SERVING_TRANSPORT_FAILED", f"HTTP {error.code}") from error

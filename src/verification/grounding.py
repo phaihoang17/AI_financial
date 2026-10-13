@@ -8,6 +8,7 @@ from src.evidence.m5_schemas import (
     SchemaLinkMatchBasis,
     SchemaLinkStatus,
 )
+from src.retrieval.evidence import path_periods
 from src.supervisor.schemas import EvidenceSource, RetrievalRequirement
 from src.verification.schemas import (
     VerificationCheckResult,
@@ -213,10 +214,13 @@ def _table_checks(
                 and link.period == requirement.period
                 and evidence.period == requirement.period
                 and requirement.period
-                in [
-                    *(entry.label for entry in location.row_path),
-                    *(entry.label for entry in location.column_path),
-                ],
+                in path_periods(
+                    [
+                        *(entry.label for entry in location.row_path),
+                        *(entry.label for entry in location.column_path),
+                    ],
+                    location.report_year,
+                ),
                 "PERIOD_MISMATCH",
                 *common_subjects,
             ),

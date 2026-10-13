@@ -39,7 +39,7 @@ def security_failure(code: SecurityFailureCode, message: str) -> ExecutionFailur
 
 
 def expected_worker_environment(project_root: Path) -> dict[str, str]:
-    return {
+    environment = {
         "LC_CTYPE": "C.UTF-8",
         "PYTHONHASHSEED": "0",
         "PYTHONIOENCODING": "utf-8",
@@ -47,6 +47,10 @@ def expected_worker_environment(project_root: Path) -> dict[str, str]:
         "PYTHONPATH": str(project_root),
         "PYTHONDONTWRITEBYTECODE": "1",
     }
+    if sys.platform == "darwin":
+        # Pin CoreFoundation startup so it cannot add user-specific encoding settings.
+        environment["__CF_USER_TEXT_ENCODING"] = f"0x{os.getuid():X}:0:0"
+    return environment
 
 
 def validate_worker_environment(

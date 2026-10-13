@@ -453,6 +453,19 @@ python -m src.evaluation.run_supervisor_eval --mode fixture
 This command evaluates planning only. It uses no retrieval backend, GPU, or
 LLM and defines no production threshold.
 
+Current macOS CPU validation (Python 3.11; setup in `README.md`):
+
+```bash
+.venv/bin/python -m pytest -q
+.venv/bin/python -m src.evaluation.run_reasoning_eval --mode oracle
+.venv/bin/python -m src.evaluation.run_e2e_eval --mode fixture
+.venv/bin/python -m src.evaluation.run_baseline_eval --mode fixture
+```
+
+Real-model smoke tests remain opt-in. Historical RTX 5090 evidence does not
+describe the current Mac deployment. Do not build the full-corpus index on the
+8 GiB Mac or substitute fixture accuracy for the TASK-100 production baseline.
+
 ## Definition of Done
 
 A task is complete only when:

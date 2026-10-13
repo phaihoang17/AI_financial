@@ -10,8 +10,8 @@ already-deterministic M9 retrieved-evidence fixture cases whose ``Plan`` routes
 to ``ModelTier.STRONG`` with ``VerifyProfile.STRICT`` and records their
 correctness through the existing :func:`evaluate_e2e_cases` evaluator. No new
 metric is defined and no acceptance threshold is invented; numeric thresholds
-remain ``TBD`` exactly as ``docs/TASKS.md`` requires. The production TABLE and
-GPU validation blockers are carried through unchanged.
+remain ``TBD`` exactly as ``docs/TASKS.md`` requires. Fixture success is regression
+evidence only; production scoring lives in ``production_baseline``.
 """
 
 from __future__ import annotations
@@ -20,18 +20,17 @@ from dataclasses import dataclass
 from typing import Sequence
 
 from src.evaluation.e2e import (
-    PRODUCTION_TABLE_E2E_BLOCKER,
-    PRODUCTION_TABLE_E2E_STATUS,
     RetrievedEvidenceE2ECase,
     RetrievedEvidenceE2EReport,
     evaluate_e2e_cases,
 )
 from src.evaluation.e2e_fixtures import e2e_fixture_cases
+from src.evaluation.telemetry import MeasurementSource
 from src.supervisor.schemas import ModelTier, VerifyProfile
 from src.understanding.schemas import SchemaValidationError
 
 
-BASELINE_SCHEMA_VERSION = "m10-strong-strict-correctness-baseline-v1"
+BASELINE_SCHEMA_VERSION = "m10-strong-strict-correctness-baseline-v2"
 BASELINE_MODEL_TIER = ModelTier.STRONG
 BASELINE_VERIFY_PROFILE = VerifyProfile.STRICT
 
@@ -81,8 +80,8 @@ class StrongStrictBaselineReport:
 
     @property
     def established(self) -> bool:
-        """The baseline is measurable only when every selected case passes."""
-        return self.failed_cases == 0
+        """CPU fixtures cannot establish the real-corpus TASK-100 baseline."""
+        return False
 
     def to_dict(self) -> dict:
         return {
@@ -92,9 +91,12 @@ class StrongStrictBaselineReport:
                 "verify_profile": BASELINE_VERIFY_PROFILE.value,
             },
             "acceptance_thresholds": BASELINE_ACCEPTANCE_THRESHOLDS,
+            "measurement_source": MeasurementSource.CPU_FIXTURE.value,
+            "fixture_passed": self.failed_cases == 0,
+            "status": "FIXTURE_ONLY",
             "established": self.established,
-            "production_table_e2e_status": PRODUCTION_TABLE_E2E_STATUS,
-            "production_table_e2e_blocker": PRODUCTION_TABLE_E2E_BLOCKER,
+            "production_table_e2e_status": "NOT_EVALUATED",
+            "production_table_e2e_blocker": None,
             "e2e_report": self.e2e_report.to_dict(),
         }
 

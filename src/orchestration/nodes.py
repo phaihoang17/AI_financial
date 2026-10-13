@@ -380,6 +380,14 @@ def _locations_by_evidence(
                 OrchestrationFailureCode.EVIDENCE_LOCATION_MISSING,
                 f"TABLE evidence {item.evidence_id} has no exact CellLocation",
             )
+        if len(matches) > 1:
+            # Distinct source cells can share header paths (e.g. unlabeled
+            # columns). The M3 builder gives each TABLE item its location's id,
+            # so narrow by that exact identity; never widen.
+            matches = [
+                location for location in matches
+                if location.location_id == item.evidence_id
+            ] or matches
         if len(matches) != 1:
             raise OrchestrationFailure(
                 M9Phase.EVIDENCE,

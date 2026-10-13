@@ -1,0 +1,145 @@
+{
+ "stats": {
+  "reports": 1973,
+  "declaration_links": 6142,
+  "unit_TEXT_RAW": 6381,
+  "unit_CELL_RAW": 26941,
+  "unit_HEADER_RAW": 38726,
+  "tables_with_unit": 46012,
+  "unit_CELL_BILLION": 361,
+  "tables_raw_vs_scaled_units": 355,
+  "unit_CELL_MILLION": 5774,
+  "unit_HEADER_MILLION": 16538,
+  "unit_TEXT_MILLION": 2527,
+  "unit_HEADER_BILLION": 26,
+  "unit_TEXT_BILLION": 29,
+  "unit_HEADER_THOUSAND": 1749,
+  "unit_CELL_THOUSAND": 506,
+  "unit_TEXT_THOUSAND": 11,
+  "seconds": 492
+ },
+ "errors": [],
+ "error_count": 0,
+ "conflict_examples": [
+  [
+   "AAA/2019/AAA_financial_statements_2019_consolidated/AAA_financial_statements_2019_consolidated_extracted.txt",
+   "table_ba01260a6b152e20ee7405c8642cce7308aa2a7673c80a80ddebf786f2afb185",
+   [
+    "BILLION",
+    "RAW"
+   ]
+  ],
+  [
+   "AAA/2023/AAA_financial_statements_2023_separate/AAA_financial_statements_2023_separate_extracted.txt",
+   "table_bfd7f1a3d2ad7325b3df1e9a09f74da47a724028adeba627f196053f38b9318d",
+   [
+    "BILLION",
+    "RAW"
+   ]
+  ],
+  [
+   "AAA/2024/AAA_financial_statements_2024_separate/AAA_financial_statements_2024_separate_extracted.txt",
+   "table_7d4640ceb5b0e1e679541c1fcd9a2c23be78a6846735087d06a6f59f9f6d84be",
+   [
+    "BILLION",
+    "RAW"
+   ]
+  ],
+  [
+   "AAA/2024/AAA_financial_statements_2024_separate/AAA_financial_statements_2024_separate_extracted.txt",
+   "table_6a36c608fae42fc94b207f42414b2aa676dfb125d7d34c4833c4bbff5c380c30",
+   [
+    "BILLION",
+    "RAW"
+   ]
+  ],
+  [
+   "AAA/2025/AAA_financial_statements_2025_separate/AAA_financial_statements_2025_separate_extracted.txt",
+   "table_47990ee7d74b5394e5815f4a99ffa1e5782cec5323904ae20379227631468a29",
+   [
+    "BILLION",
+    "RAW"
+   ]
+  ],
+  [
+   "ACB/2016/ACB_financial_statements_2016_consolidated/ACB_financial_statements_2016_consolidated_extracted.txt",
+   "table_7d45795760dfca00f40335eb406021a98c82e6adf62e483b32ef91558b44011a",
+   [
+    "MILLION",
+    "RAW"
+   ]
+  ],
+  [
+   "ACB/2017/ACB_financial_statements_2017_consolidated/ACB_financial_statements_2017_consolidated_extracted.txt",
+   "table_e43abe16b11d65022584bb37d34d4e88fcf4f5d7643c8e16b5ceadaa3214ad88",
+   [
+    "MILLION",
+    "RAW"
+   ]
+  ],
+  [
+   "ACB/2018/ACB_financial_statements_2018_consolidated/ACB_financial_statements_2018_consolidated_extracted.txt",
+   "table_011c01662cac93410cdd85497631b2ee1442514e35e5780ffde0542679392252",
+   [
+    "MILLION",
+    "RAW"
+   ]
+  ],
+  [
+   "ACB/2018/ACB_financial_statements_2018_consolidated/ACB_financial_statements_2018_consolidated_extracted.txt",
+   "table_6946cfba2dd8fde1b8839e102e656a101ff26a609ca3e1446144377dfb6e7e78",
+   [
+    "MILLION",
+    "RAW"
+   ]
+  ],
+  [
+   "ACB/2018/ACB_financial_statements_2018_consolidated/ACB_financial_statements_2018_consolidated_extracted.txt",
+   "table_20ed2861c9fdb5c94a216ee90e6aab4fb0dd788336687ceae97e877678a9e895",
+   [
+    "MILLION",
+    "RAW"
+   ]
+  ],
+  [
+   "ACB/2018/ACB_financial_statements_2018_separate/ACB_financial_statements_2018_separate_extracted.txt",
+   "table_be2d5443e9af47337be9c7d735111bf327afd0800ac453d1581c17f9094a4c05",
+   [
+    "MILLION",
+    "RAW"
+   ]
+  ],
+  [
+   "ACB/2019/ACB_financial_statements_2019_consolidated/ACB_financial_statements_2019_consolidated_extracted.txt",
+   "table_d7bc8c0b88d09281a0980b2b12c4a3fef7a2c9eef51209e1103afe1dd83b8f79",
+   [
+    "MILLION",
+    "RAW"
+   ]
+  ],
+  [
+   "ACB/2019/ACB_financial_statements_2019_consolidated/ACB_financial_statements_2019_consolidated_extracted.txt",
+   "table_86c4c189ef25cc2baa446834b1d1df28cdd57abf5e3c28669976ebfd9d47e1fc",
+   [
+    "MILLION",
+    "RAW"
+   ]
+  ],
+  [
+   "ACB/2020/ACB_financial_statements_2020_consolidated/ACB_financial_statements_2020_consolidated_extracted.txt",
+   "table_a45def61f25663d4fc1fa5bb4026a58b1bad939d8ab637d152a771576d0af014",
+   [
+    "MILLION",
+    "RAW"
+   ]
+  ],
+  [
+   "ACB/2021/ACB_financial_statements_2021_consolidated/ACB_financial_statements_2021_consolidated_extracted.txt",
+   "table_af0abbc5d845381e4a703fa9b611455943a3a2918fbbf6ec0b83a278e8d85771",
+   [
+    "MILLION",
+    "RAW"
+   ]
+  ]
+ ]
+}

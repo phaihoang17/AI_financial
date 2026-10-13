@@ -11,12 +11,15 @@ from src.evidence.schemas import CanonicalDecimal, EvidenceItem
 from src.indexing.document_parser import parse_document
 from src.indexing.embedding_artifact_builder import _iter_input_records, _validate_input_manifest
 from src.indexing.grid_builder import build_logical_table_grid
+from src.indexing.header_inference import normalize_period_label
 from src.indexing.normalized_table_assembler import assemble_normalized_table
 from src.indexing.paragraph_extractor import extract_paragraphs
-from src.indexing.provenance_sidecar import _source_from_inventory
+from src.indexing.provenance_sidecar import ProvenanceSidecarError, _extract_report_provenance, _source_from_inventory
 from src.indexing.schemas import HeaderPathEntry, NormalizedCell, Paragraph, SourceCell
-from src.retrieval.schemas import RetrievalCandidate, RetrievalContractError, RetrievalQuery
+from src.retrieval.batch3 import ScaleUnitHintRetriever
+from src.retrieval.schemas import RetrievalCandidate, RetrievalContractError, RetrievalQuery, RetrievedScaleUnitHint
 from src.supervisor.schemas import EvidenceSource, Plan, TableClass
+from src.understanding.metric_normalizer import table_label_metric
 from src.understanding.schemas import SchemaValidationError, StatementScope
 
 
@@ -32,6 +35,19 @@ def _id(value: object) -> str:
 def _norm(value: str) -> str:
     from src.indexing.cell_normalizer import normalize_cell_text
     return normalize_cell_text(value).casefold()
+
+def label_names_metric(label: str, metric: str) -> bool:
+    """A header label names metric exactly, or as a registry statement line label."""
+    return _norm(label) == _norm(metric) or table_label_metric(label) == metric
+
+def path_periods(labels: Sequence[str], report_year: Optional[int]) -> List[str]:
+    """Periods a header path names: its labels, their approved period form, and the
+    report's own year for a VAS "Năm nay" column. "Năm trước" is deliberately not
+    mapped: period P comes only from report year P (TASK-030 filter, TASK-080 check)."""
+    periods = [*labels, *(p for p in map(normalize_period_label, labels) if p is not None)]
+    if report_year is not None and any(_norm(label) == "năm nay" for label in labels):
+        periods.append(str(report_year))
+    return periods
 
 @dataclass(frozen=True)
 class CellLocation:
@@ -146,6 +162,22 @@ class CellLocation:
 class _Resolved:
     candidate: RetrievalCandidate; chunk: object; source: object; cells: Dict[str, NormalizedCell]; source_cells: Dict[str, SourceCell]; paragraphs: Dict[str, Paragraph]
 
+class _DerivedProvenance:
+    """ADR-062: the sidecar lookup contract over links/hints re-derived from raw reports."""
+    def __init__(self, hints, links):
+        self._hints_by_ref: Dict[str, list] = {}; self._hints_by_table: Dict[str, list] = {}
+        self._links_by_table: Dict[str, list] = {}; self._links_by_paragraph: Dict[str, list] = {}
+        for hint in hints:
+            self._hints_by_ref.setdefault(hint.source_ref, []).append(hint)
+            if hint.table_id is not None: self._hints_by_table.setdefault(hint.table_id, []).append(hint)
+        for link in links:
+            self._links_by_table.setdefault(link.table_id, []).append(link)
+            self._links_by_paragraph.setdefault(link.paragraph_id, []).append(link)
+    def get_hints_by_source_ref(self, source_ref: str): return list(self._hints_by_ref.get(source_ref, []))
+    def get_hints_by_table_id(self, table_id: str): return list(self._hints_by_table.get(table_id, []))
+    def get_links_by_table_id(self, table_id: str): return list(self._links_by_table.get(table_id, []))
+    def get_links_by_paragraph_id(self, paragraph_id: str): return list(self._links_by_paragraph.get(paragraph_id, []))
+
 class EvidenceProvenanceRepository:
     """Reconstruct only exact selected M2 records and their raw source objects."""
     def __init__(self, corpus_artifact_root: str | Path, raw_corpus_root: str | Path, *, sidecar=None, table_class_sidecar=None):
@@ -153,6 +185,7 @@ class EvidenceProvenanceRepository:
         self.raw_root = Path(raw_corpus_root); self.sidecar = sidecar
         self.table_class_sidecar = table_class_sidecar; self._cache: Dict[str, _Resolved] = {}
         self._table_class_cache: Dict[str, Optional[TableClass]] = {}
+        self._records: Dict[tuple, object] = {}; self._documents: Dict[str, tuple] = {}; self._provenance: Dict[str, tuple] = {}
 
     def table_class_for(self, candidate: RetrievalCandidate) -> Optional[TableClass]:
         """Exact source-backed TableClass from the sidecar, else None (no fallback)."""
@@ -170,21 +203,59 @@ class EvidenceProvenanceRepository:
         if item is None: raise EvidenceLocationError("EVIDENCE_REPORT_MISSING", report_id)
         return _source_from_inventory(self.raw_root, self.corpus.corpus_id, item)
 
+    def preload(self, candidates: Sequence[RetrievalCandidate]) -> None:
+        """Find every uncached candidate record in one corpus pass, not one pass each."""
+        wanted = {(c.chunk_id, c.representation_id) for c in candidates if c.candidate_id not in self._cache} - set(self._records)
+        if not wanted: return
+        for r in _iter_input_records(self.corpus):
+            key = (r.chunk.chunk_id, r.representation.representation_id)
+            if key in wanted:
+                self._records[key] = r; wanted.discard(key)
+                if not wanted: break
+
+    def _document(self, report_id: str) -> tuple:
+        if report_id not in self._documents:
+            source = self._source(report_id); document = parse_document(source); paragraphs = extract_paragraphs(source, document)
+            tables = [assemble_normalized_table(table, build_logical_table_grid(table)) for page in document.pages for table in page.tables]
+            source_cells = {cell.cell_id: cell for page in document.pages for table in page.tables for cell in table.cells}
+            self._documents[report_id] = (source, tables, source_cells, {p.paragraph_id:p for p in paragraphs})
+        return self._documents[report_id]
+
+    def for_candidates(self, candidates: Sequence[RetrievalCandidate]) -> Dict[str, object]:
+        """The CorpusChunkLookup contract, served from preloaded M2 records."""
+        self.preload(candidates); chunks = {}
+        for candidate in candidates:
+            if candidate.source_type is not EvidenceSource.TABLE: continue
+            record = self._records.get((candidate.chunk_id, candidate.representation_id))
+            if record is None: raise EvidenceLocationError("EVIDENCE_CHUNK_MISSING", candidate.candidate_id)
+            chunks[candidate.candidate_id] = record.chunk
+        return chunks
+
+    def scale_unit_hints(self, candidates: Sequence[RetrievalCandidate]) -> Dict[str, List[RetrievedScaleUnitHint]]:
+        """ADR-062: associate hints re-derived from the raw reports the cells are rebuilt from."""
+        hints, links = [], []
+        try:
+            for report_id in sorted({candidate.report_id for candidate in candidates}):
+                if report_id not in self._provenance:
+                    self._provenance[report_id] = _extract_report_provenance(self._source(report_id))
+                hints += self._provenance[report_id][0]; links += self._provenance[report_id][1]
+        except ProvenanceSidecarError as error:
+            raise EvidenceLocationError(error.code, str(error)) from error
+        return ScaleUnitHintRetriever(_DerivedProvenance(hints, links), self).retrieve(list(candidates))
+
     def resolve(self, candidate: RetrievalCandidate) -> _Resolved:
         if candidate.candidate_id in self._cache: return self._cache[candidate.candidate_id]
-        record = next((r for r in _iter_input_records(self.corpus) if r.chunk.chunk_id == candidate.chunk_id and r.representation.representation_id == candidate.representation_id), None)
+        self.preload([candidate]); record = self._records.get((candidate.chunk_id, candidate.representation_id))
         if record is None: raise EvidenceLocationError("EVIDENCE_CHUNK_MISSING", candidate.candidate_id)
-        source = self._source(candidate.report_id); document = parse_document(source); paragraphs = extract_paragraphs(source, document)
-        tables = [assemble_normalized_table(table, build_logical_table_grid(table)) for page in document.pages for table in page.tables]
+        source, tables, source_cells, paragraphs = self._document(candidate.report_id)
         normalized = next((table for table in tables if table.source_table_id == candidate.table_id), None)
         cells = {} if normalized is None else {cell.source_cell_id: cell for cell in normalized.cells}
-        source_cells = {cell.cell_id: cell for page in document.pages for table in page.tables for cell in table.cells}
-        value = _Resolved(candidate, record.chunk, source, cells, source_cells, {p.paragraph_id:p for p in paragraphs})
+        value = _Resolved(candidate, record.chunk, source, cells, source_cells, paragraphs)
         self._cache[candidate.candidate_id] = value; return value
 
 def locate_cells(query: RetrievalQuery, candidates: Sequence[RetrievalCandidate], repository: EvidenceProvenanceRepository) -> List[CellLocation]:
     """Locate only primary/context TABLE source cells; TEXT deliberately emits none."""
-    locations=[]
+    repository.preload(candidates); locations=[]
     for candidate in candidates:
         if candidate.source_type is EvidenceSource.TEXT: continue
         resolved=repository.resolve(candidate); roles={**{x:ProvenanceRole.PRIMARY for x in resolved.chunk.primary_source_cell_ids}, **{x:ProvenanceRole.CONTEXT for x in resolved.chunk.context_source_cell_ids}}
@@ -195,18 +266,18 @@ def locate_cells(query: RetrievalQuery, candidates: Sequence[RetrievalCandidate]
             rows.append((source_cell.source_span.start, source_id, role, cell))
         for _, source_id, role, cell in sorted(rows):
             labels_row=[entry.label for entry in cell.row_path]; labels_col=[entry.label for entry in cell.column_path]
-            metric=next((m for m in query.target_metrics if _norm(m) in {_norm(x) for x in labels_row+labels_col}),None)
-            period=next((p for p in query.periods if p in labels_row+labels_col),None)
-            basis=MatchBasis.EXACT_ROW_PATH if metric and any(_norm(metric)==_norm(x) for x in labels_row) else MatchBasis.EXACT_COLUMN_PATH if metric else MatchBasis.EXACT_PERIOD_LABEL if period else MatchBasis.STRUCTURAL if labels_row or labels_col else MatchBasis.NONE
+            metric=next((m for m in query.target_metrics if any(label_names_metric(x, m) for x in labels_row+labels_col)),None)
+            period=next((p for p in query.periods if p in path_periods(labels_row+labels_col, candidate.report_year)),None)
+            basis=MatchBasis.EXACT_ROW_PATH if metric and any(label_names_metric(x, metric) for x in labels_row) else MatchBasis.EXACT_COLUMN_PATH if metric else MatchBasis.EXACT_PERIOD_LABEL if period else MatchBasis.STRUCTURAL if labels_row or labels_col else MatchBasis.NONE
             locations.append(CellLocation(_id({"candidate":candidate.candidate_id,"cell":source_id}),candidate.candidate_id,candidate.representation_id,candidate.chunk_id or "",candidate.report_id,candidate.page_ids[0],candidate.table_id or "",source_id,cell.anchor_row,cell.anchor_column,list(cell.row_path),list(cell.column_path),cell.normalized_text,cell.numeric,role,metric,period,basis,candidate.ticker,candidate.company_name,candidate.report_year,candidate.statement_scope,repository.table_class_for(candidate)))
     return locations
 
 def build_evidence_items(locations: Sequence[CellLocation], candidates: Sequence[RetrievalCandidate], repository: EvidenceProvenanceRepository, *, linked_table_ids_by_candidate: Optional[Mapping[str, Sequence[str]]]=None) -> List[EvidenceItem]:
-    by_id={candidate.candidate_id:candidate for candidate in candidates}; result=[]
+    by_id={candidate.candidate_id:candidate for candidate in candidates}; result=[]; repository.preload(candidates)
     for location in locations:
         candidate=by_id[location.candidate_id]; resolved=repository.resolve(candidate); source_cell=resolved.source_cells[location.source_cell_id]
         decimal_value=location.numeric.decimal_value
-        result.append(EvidenceItem(_id({"candidate":candidate.candidate_id,"cell":location.source_cell_id}),EvidenceSource.TABLE,candidate.report_id,location.page_id,location.table_id,None,candidate.statement_scope,location.matched_period,location.matched_metric,location.row_path[-1].label if location.row_path else None,location.column_path[-1].label if location.column_path else None,[x.label for x in location.row_path],[x.label for x in location.column_path],None,source_cell.extracted_text,None if decimal_value is None else CanonicalDecimal(decimal_value),None,None,None,candidate.rrf_score if candidate.rrf_score is not None else candidate.bm25_score,candidate.rerank_score,candidate.ticker,candidate.company_name,candidate.report_year,None,[]))
+        result.append(EvidenceItem(location.location_id,EvidenceSource.TABLE,candidate.report_id,location.page_id,location.table_id,None,candidate.statement_scope,location.matched_period,location.matched_metric,location.row_path[-1].label if location.row_path else None,location.column_path[-1].label if location.column_path else None,[x.label for x in location.row_path],[x.label for x in location.column_path],None,source_cell.extracted_text,None if decimal_value is None else CanonicalDecimal(decimal_value),None,None,None,candidate.rrf_score if candidate.rrf_score is not None else candidate.bm25_score,candidate.rerank_score,candidate.ticker,candidate.company_name,candidate.report_year,None,[]))
     for candidate in candidates:
         if candidate.source_type is EvidenceSource.TEXT:
             resolved=repository.resolve(candidate); paragraph=resolved.paragraphs.get(candidate.paragraph_id or "")

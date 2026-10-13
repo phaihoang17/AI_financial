@@ -1,0 +1,27 @@
+{
+  "status": "PASS",
+  "build_seconds": 342.702,
+  "corpus_root": "/Users/phaihoang/Documents/AI_financial/m2-corpus-v1/4f39603a89e213129de6c57e1234456e88086832c8b61bd9821770d76a6dc78e",
+  "bm25_root": "/Users/phaihoang/Documents/AI_financial/artifacts/m3-bm25-v1",
+  "manifest": {
+    "bm25_schema_version": "m3-bm25-index-v1",
+    "artifact_status": "COMMITTED",
+    "artifact_id": "35399789d6b5cb5cfb08168922dc5cce72b2003bf19827e83736a115493b4d51",
+    "artifact_directory": "artifacts/35399789d6b5cb5cfb08168922dc5cce72b2003bf19827e83736a115493b4d51",
+    "backend": "sqlite-fts5",
+    "tokenizer": "unicode61 remove_diacritics 0",
+    "corpus_artifact_id": "4f39603a89e213129de6c57e1234456e88086832c8b61bd9821770d76a6dc78e",
+    "corpus_manifest_sha256": "68de4553a91296fb9fe5bea82a5672b1013febea2769824ee8a71329f0448c97",
+    "corpus_fingerprint": "9ea9e073a8aff69e48ae9b258a2bd657cd5194a52de9742e89f5bdb8d17f61c9",
+    "chunking_config_fingerprint": "0e673035ec6e7cc7b2d0bb1bdde4ee856168450d54b8003ee9032e6043327d93",
+    "embedding_fingerprint": "ebf2adc2a61d75a65db3829163a003e729095310360b9b162b570b34579585b3",
+    "model_id": "BAAI/bge-m3",
+    "model_revision": "5617a9f61b028005a4858fdac845db406aefb181",
+    "candidate_count": 1743311,
+    "logical_index_fingerprint": "35399789d6b5cb5cfb08168922dc5cce72b2003bf19827e83736a115493b4d51",
+    "database": {
+      "file": "bm25.sqlite",
+      "sha256": "9fcb552a2dbbebfdc98f2dcaf1d034809a86a5f1cabb6357f674a9de21a6523e"
+    }
+  }
+}

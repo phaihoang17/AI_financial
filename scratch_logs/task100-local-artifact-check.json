@@ -1,0 +1,48 @@
+{
+  "checked_at": "2026-10-09",
+  "status": "ARTIFACTS_PRESENT_STATIC_CHECKS_PASS",
+  "corpus_path": "/Users/phaihoang/Documents/AI_financial/m2-corpus-v1/4f39603a89e213129de6c57e1234456e88086832c8b61bd9821770d76a6dc78e",
+  "vector_path": "/Users/phaihoang/Documents/AI_financial/m2-vector-index-v1/full-corpus-rtx5090",
+  "corpus_artifact_id": "4f39603a89e213129de6c57e1234456e88086832c8b61bd9821770d76a6dc78e",
+  "vector_artifact_id": "6e196ee45ef08dd1c85a2da647abdd36c9d4613b4de59cb2a381c9fd852a8069",
+  "report_count": 1973,
+  "vector_count": 1743311,
+  "checks": [
+    {
+      "name": "corpus_shard_hashes",
+      "status": "PASS",
+      "shards": 35,
+      "bytes": 6945245240
+    },
+    {
+      "name": "vector_shard_hashes",
+      "status": "PASS",
+      "shards": 18,
+      "bytes": 7154549964
+    },
+    {
+      "name": "vector_sqlite",
+      "status": "HASH_AND_QUICK_CHECK_PASS",
+      "rows": 1743311,
+      "full_integrity_check": "STOPPED_AFTER_EXTENDED_RUNTIME"
+    },
+    {
+      "name": "m2-provenance-v1",
+      "status": "HASH_AND_QUICK_CHECK_PASS",
+      "bytes": 443400192
+    },
+    {
+      "name": "m2-table-class-v1",
+      "status": "HASH_AND_QUICK_CHECK_PASS",
+      "bytes": 88670208
+    }
+  ],
+  "bm25_status": "NOT_FOUND",
+  "live_serving_status": "NOT_RUN",
+  "e2e_status": "NOT_RUN",
+  "production_validation_established": false,
+  "limitations": [
+    "SQLite full integrity_check stopped after extended runtime; hash and quick_check completed.",
+    "FAISS indexes not loaded or searched; serving and E2E not run."
+  ]
+}

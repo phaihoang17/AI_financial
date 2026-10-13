@@ -3,5 +3,7 @@ __pycache__/
 *.py[cod]
 .DS_Store
 .env/
+.venv/
 artifacts/
 data/vifinqa/
+reindex-adr062/

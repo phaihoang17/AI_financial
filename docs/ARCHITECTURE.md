@@ -254,9 +254,16 @@ Header inference v1 is structural and conservative:
 - Header paths are emitted root-to-leaf only when every node in the path is
   uniquely recoverable. Ambiguous or unresolved paths are empty. No financial
   vocabulary, fuzzy heuristic, LLM, cross-page merge, or fabricated parent is
-  used.
+  used, except the ADR-061 fallback below.
+- ADR-061 fallback, tried only when the rule above recovers nothing: columns
+  headed exactly `Mã số` or `Thuyết minh` (VAS line codes and note references)
+  are skipped when finding the left prefix and the first data value, and a
+  `MALFORMED` numeric parse (an ordinal label such as `18. Lợi nhuận ...`)
+  counts as label text. Those columns never become header nodes or data.
+  Tables the base rule already structures are unchanged.
 
-Period-label grammar v1 accepts only exact standalone `YYYY`, `Q1/YYYY` through
+Period-label grammar v1 accepts only exact standalone `YYYY` (optionally
+followed by ` VND`/` VNĐ`, ADR-061), `Q1/YYYY` through
 `Q4/YYYY`, `Quý 1/YYYY` through `Quý 4/YYYY`, and `Quý 1 năm YYYY` through
 `Quý 4 năm YYYY` forms. Values normalize to TASK-011 conventions (`YYYY` or
 `YYYY-Qn`). Missing/contextual years, relative periods, and unlabeled date
@@ -295,7 +302,7 @@ ScaleUnitHint:
   source_span: SourceSpan
   raw_hint_text: string
   normalized_hint_text: string
-  scale_candidate: THOUSAND | MILLION | BILLION | PERCENT | null
+  scale_candidate: RAW | THOUSAND | MILLION | BILLION | PERCENT | null  # RAW only with a unit (ADR-062)
   unit_candidate: string | null
   status: EXTRACTED | AMBIGUOUS
 ```
@@ -322,6 +329,13 @@ units (`unit_candidate` is always null). `HEADER` and `CELL` use
 in `HeaderHierarchy`. A text hint receives `table_id` only through one
 deterministic v1 link. When one table has distinct scale candidates, every
 associated hint is retained and marked `AMBIGUOUS`; no final scale is selected.
+
+ADR-062 adds a currency-unit grammar, shared by offline builds and query-time
+derivation: labelled declarations (`Đơn vị tính: VND`, `ĐVT: triệu đồng`) and
+table-cell `VND`/`VNĐ` (`2023 VND`, `(VND)`) emit `unit_candidate: VND` with the
+scale word's scale, else `RAW`. A declaration paragraph immediately before a
+table with no v1 link gets a `CAPTION`/`IMMEDIATE_BEFORE` link to it.
+Artifacts committed before ADR-062 keep v1 output.
 
 Model-independent representation contract:
 
@@ -813,10 +827,12 @@ MetricResolution:
 
 Metric normalization v1 applies Unicode NFKC normalization, trims leading/trailing whitespace, collapses internal whitespace, and compares complete strings case-insensitively. It preserves diacritics and does not use fuzzy matching, typo correction, substring guessing, or an LLM.
 
-The initial registry is limited to the documented example:
+The initial registry is limited to the documented example plus the two VAS
+income-statement line names for the same metric (ADR-061):
 
 ```text
-LNST <- LNST | lãi ròng | lợi nhuận sau thuế
+LNST <- LNST | lãi ròng | lợi nhuận sau thuế | lợi nhuận sau thuế TNDN
+        | lợi nhuận sau thuế thu nhập doanh nghiệp
 ```
 
 Metric resolver invariants:
@@ -1365,6 +1381,9 @@ expansion, or LLM processing.  The published index manifest has schema version
 `m3-bm25-index-v1`, a corpus fingerprint, a deterministic logical index
 fingerprint, and SQLite file hash.  BM25's native lower-is-better score is
 negated so public `bm25_score` has canonical higher-is-better semantics.
+TASK-030's exact metadata constraints are applied inside the FTS query, before
+top-k, through the same `report_metadata_sql_constraints` used by vector search
+(ADR-061).
 Every deterministic query text is searched independently; duplicate candidates
 retain their highest BM25 score, then final results sort by score descending and
 `candidate_id` ascending.  Empty tokenized query text returns no candidates.
@@ -1411,7 +1430,9 @@ prior scores and orders by rerank score, RRF score, then candidate ID.
 
 TASK-037 decomposes multi-table requests deterministically.  It creates a
 TABLE-only required subquery for every metric--period pair (metric outer,
-period inner), or one per present dimension when one dimension is absent.  Each
+period inner), or one per present dimension when one dimension is absent.
+Subquery texts add the metric registry's names for the canonical metric
+(ADR-061), so lexical and dense search see statement wording.  Each
 subquery runs metadata filtering, BM25, vector retrieval, RRF, and reranking
 independently.  A zero-result or typed backend failure remains visible in
 `missing_subquery_ids`; successful subqueries are retained and the result is
@@ -1428,7 +1449,9 @@ the chunk's primary/context source-cell IDs or its exact table caption; TEXT-
 direct hints must originate in its paragraph ID.  Linked hints require a
 persisted table--text link and retain `LINKED`, rather than being relabelled
 `DIRECT`.  Conflicting hints and requested-scale mismatches remain present in
-deterministic span/ID order for later verification.
+deterministic span/ID order for later verification.  The live M9 path applies
+the same association rules to hints and links re-derived from the raw report at
+query time (ADR-062), not to the persisted sidecar.
 
 ### Batch-4 exact evidence boundary
 
@@ -1595,7 +1618,9 @@ unchanged.
 Source precedence v1 is direct cell, direct header, direct caption, direct
 text, then linked hints. At the highest level with a usable clue, one unique
 scale/unit resolves, conflicting values are ambiguous, and no usable clue is
-unresolved. Missing scale never defaults to `RAW`. A percent literal in the
+unresolved. Missing scale never defaults to `RAW`. `RAW` comes only from an
+explicit currency hint and never outranks a magnitude: considered `RAW` plus
+`THOUSAND`/`MILLION`/`BILLION` at any level is ambiguous (ADR-062). A percent literal in the
 exact numeric cell is a direct-cell `PERCENT` clue. All candidate-scoped hint
 IDs remain in `considered_hint_ids`; only a resolved highest-precedence set is
 listed in `winning_hint_ids`.
@@ -1639,7 +1664,11 @@ SchemaLinkResult:
 
 The linker consumes ordered `Plan.retrieval_requirements` and only the supplied
 `EvidenceItem -> CellLocation` boundary. Metric labels use the existing
-canonical metric registry; periods require exact canonical string equality.
+canonical metric registry after dropping only a leading line ordinal and a
+trailing parenthetical (`table_label_metric`); periods use `path_periods`:
+exact labels, their v1 period-grammar form, and the location's own
+`report_year` for a `Năm nay` column (ADR-061). The M3 locator, this linker and
+TASK-080 grounding share these two functions.
 There is no new synonym registry and no fuzzy, semantic, or LLM fallback.
 Exactly one valid location resolves, multiple valid locations are ambiguous,
 and no valid location is unresolved. Result paths retain the structured
@@ -2193,8 +2222,13 @@ TASK-072 binds `m7-limits-v1` to one exact runtime profile:
 | Canonical response JSON | 1,048,576 bytes |
 
 The parent starts the fixed worker without a shell, in a new process session and
-a fresh non-writable working directory. It passes only the six fixed locale and
-Python-startup variables required by the worker, monitors RSS, and kills the
+a fresh non-writable working directory. It passes the six fixed locale and
+Python-startup variables required by the worker, plus Darwin-only
+`__CF_USER_TEXT_ENCODING=0x<UID in uppercase hex>:0:0` generated from `os.getuid()`
+(ADR-059). The parent never copies this value from its own environment. Pinning
+it prevents CoreFoundation from adding a user-specific value during startup;
+the worker still checks exact key/value equality and clears all variables after
+validation. The parent monitors RSS and kills the
 complete worker process group on wall-clock or memory violation. An unavailable
 RSS monitor fails closed. On Darwin, an additive `sandbox-exec` policy denies
 network, filesystem writes, and process forks; its absence is a typed security
@@ -3307,6 +3341,65 @@ logical identity, and counts crashes/timeouts. It emits
 Recall@k/MRR and invents no quality label. `deploy/retrieval/smoke-queries.jsonl`
 is a committed starter set.
 
+### TASK-100 correctness baseline (ADR-058)
+
+`run_baseline_eval --mode fixture` (legacy alias `strong-strict`) runs the
+existing three STRONG/STRICT fixtures. The report is
+`m10-strong-strict-correctness-baseline-v2`, `measurement_source: CPU_FIXTURE`,
+`status: FIXTURE_ONLY`, `fixture_passed` records regression success, and
+`established` is always false. Production status is `NOT_EVALUATED` rather than
+propagating historical fixture E2E blocker constants. Exit zero means fixture
+regression passed only.
+
+`--mode production` scores **recorded** terminal M9 states against independent
+`VERIFIED` scalar `GoldRetrievalCase` answers. Required inputs are `--gold`,
+`--corpus-artifact`, `--runs`, and `--retrieval-validation`. The run export JSON
+contract is `m10-baseline-runs-v1`:
+
+```json
+{
+  "schema_version": "m10-baseline-runs-v1",
+  "measurement_source": "LIVE",
+  "corpus_artifact_id": "<committed corpus id>",
+  "vector_artifact_id": "<committed vector build id>",
+  "bm25_artifact_id": "<committed BM25 build id>",
+  "states": []
+}
+```
+
+Populate `states` with `M9State.to_dict()` objects whose `request_id` equals
+the corresponding gold `question_id`. The scorer validates checkpoints with
+`M9State.from_dict`, exact question
+identity, unique terminal request ids, gold corpus references, and the complete
+ADR-057 artifact/live check set with matching corpus fingerprints and build ids.
+Fixture measurements cannot replace LIVE records. The export's origin is
+operator-attested: replay does not authenticate exports, re-run the pipeline,
+or probe endpoints. The report explicitly says `evaluation_mode: RECORDED_E2E`.
+
+All supplied VERIFIED scalar answers stay in the denominator. Missing runs,
+unresolved gold scales, or non-STRONG/STRICT configurations prevent establishment;
+abstentions and wrong answers remain incorrect cases. Scale conversion reuses
+`convert_canonical_scale`; value comparison uses exact Decimal, unit comparison
+is exact, and null gold scale is never assumed RAW. Grounding checks company,
+scope, period kind/period, report/table/paragraph, and overlap with gold source
+cells among cited schema links and corresponding chunks. This is pointer coverage, not an independent
+formula/trace proof. Execution success and verifier pass rate are reported
+separately; `trace_accuracy` is null because this gold contract has no program.
+
+`status: MEASURED` / `established: true` means the baseline is measurable on the
+supplied set; it does not require 100% accuracy or assert a release threshold.
+Thresholds remain null/TBD. Missing prerequisites produce BLOCKED and nonzero
+CLI exit. No production adapters, routing changes, or LLM calls are added.
+
+The 2026-10-10 operational pilot uses ADR-060's real M9 adapters and independent
+`gold/retrieval/strong-strict.jsonl` (three curated AVERAGE/LNST cases, RAW/VND).
+All terminal runs are naturally STRONG/STRICT. Recorded production scoring is
+`MEASURED`, `established=true`, with accuracy 0/3: every case abstains at Evidence
+with `EVIDENCE_LOCATION_AMBIGUOUS`, before Programmer/sandbox/verification.
+`scratch_logs/task100-strong-baseline.json` is bound to matching historical
+ADR-057 artifact/live validation; it does not claim fresh Mac endpoint parity,
+corpus-wide quality, or trace accuracy. No contract or routing override is added.
+
 ### NLU / Planning
 
 - field-level semantic accuracy,
@@ -3468,3 +3561,34 @@ Architecture is grounded in:
 - FinAcumen (arXiv:2606.17642): selective experience memory and deterministic financial tools.
 
 The 2603.22651 benchmark is a financial-document extraction study rather than the exact QA task, so its quantitative results are treated as orchestration guidance.
+
+
+### DeepSeek API deployment for live M9 (ADR-060)
+
+`src.serving.deepseek.deepseek_client` reads `.env` as data and honors environment
+overrides. `HttpTransport` supports optional bearer authentication over HTTPS
+with redirects disabled for authenticated requests. Anonymous local serving
+behavior is unchanged. `.env` contains DEEPSEEK_API_KEY, DEEPSEEK_BASE_URL and
+DEEPSEEK_MODEL; credentials never enter generation payloads or exported states.
+
+`APINLU` asks for company, metric and operation proposals, then invokes existing
+company/metric/temporal/scope/scale resolvers and the deterministic planning gate.
+`APIProgrammer` consumes masked ProgrammerInput only and proposes symbolic
+inputs/steps/output. Local Program.create owns IDs; validate_program checks the
+proposal before the real sandbox executes it. Supervisor and Verifier retain
+their deterministic implementations. Shared API roles bypass the local four
+process ServingTopology; no public domain contract changes.
+
+`src.orchestration.live.build_live_graph` assembles these ports with validated
+BM25/vector/provenance/table-class artifacts and raw-source evidence rebuilding.
+Hybrid retrieval searches all requested source types before reporting a failure.
+Binding capabilities stay process-local and are discarded after each exported
+request. CPU query encoding and reranking load models inside their stages and
+use batch size 1 without truncation; candidate depth remains the Batch3 5x policy.
+
+`python -m src.evaluation.run_live_e2e_eval` accepts question JSONL (only ID and
+question enter inference), runs the M9 graph, and atomically checkpoints real
+terminal states in the ADR-058 export format. A blank API key produces a BLOCKED
+report before artifact/model loading. Completed execution is not baseline
+establishment: appropriate independent STRONG/STRICT gold and matching passing
+ADR-057 validation remain required.

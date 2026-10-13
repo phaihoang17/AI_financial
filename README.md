@@ -327,16 +327,26 @@ Use `docs/TASKS.md` as the implementation roadmap and `AGENTS.md` as the working
 
 ## Running the Project
 
-Concrete install, run, test, lint, and evaluation commands are intentionally not invented here because the current source materials do not define the repository toolchain.
+The current development host is macOS on Apple M1 with 8 GiB RAM. Historical
+RTX 5090 validation logs do not describe the current deployment. Local tests and
+fixture evaluations use CPU and need no CUDA or model serving.
 
-When the codebase is initialized, replace this section with the actual commands, for example:
+Create the tested Python 3.11 environment from the repository root:
 
-- environment setup,
-- dependency installation,
-- local API/server start,
-- unit test command,
-- retrieval evaluation command,
-- end-to-end evaluation command.
+```bash
+python3.11 -m venv .venv
+.venv/bin/python -m pip install -r requirements-test.txt
+.venv/bin/python -m pytest -q
+.venv/bin/python -m src.evaluation.run_supervisor_eval --mode fixture
+.venv/bin/python -m src.evaluation.run_reasoning_eval --mode oracle
+.venv/bin/python -m src.evaluation.run_e2e_eval --mode fixture
+.venv/bin/python -m src.evaluation.run_baseline_eval --mode fixture
+```
+
+The sandbox uses `sandbox-exec` on Mac and fails closed if it is unavailable.
+Real-model smoke tests are opt-in; this environment does not install or load
+BGE model weights. Fixtures do not establish TASK-100's real-corpus baseline.
+Full-corpus embedding/index construction remains outside the 8 GiB local run.
 
 ## Documentation
 

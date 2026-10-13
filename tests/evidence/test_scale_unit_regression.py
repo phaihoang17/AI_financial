@@ -31,6 +31,7 @@ class Task055ScaleUnitRegressionTests(unittest.TestCase):
                             location,
                             ScaleHintSource.CELL,
                             scale,
+                            unit="VND" if scale is Scale.RAW else None,
                         )
                     ],
                 )
@@ -57,6 +58,7 @@ class Task055ScaleUnitRegressionTests(unittest.TestCase):
                     source_kind,
                     scale,
                     association=association,
+                    unit="VND" if scale is Scale.RAW else None,
                 )
                 result = resolve_scale_unit(
                     understanding(), item, location, [clue]
@@ -68,7 +70,7 @@ class Task055ScaleUnitRegressionTests(unittest.TestCase):
     def test_complete_precedence_chain(self):
         item, location = grounded_cell()
         ordered = [
-            hint("cell", location, ScaleHintSource.CELL, Scale.RAW, start=50),
+            hint("cell", location, ScaleHintSource.CELL, Scale.PERCENT, start=50),
             hint("header", location, ScaleHintSource.HEADER, Scale.THOUSAND, start=40),
             hint("caption", location, ScaleHintSource.CAPTION, Scale.MILLION, start=30),
             hint("text", location, ScaleHintSource.TEXT, Scale.BILLION, start=20),
@@ -82,7 +84,7 @@ class Task055ScaleUnitRegressionTests(unittest.TestCase):
             ),
         ]
         expected = [
-            Scale.RAW,
+            Scale.PERCENT,
             Scale.THOUSAND,
             Scale.MILLION,
             Scale.BILLION,

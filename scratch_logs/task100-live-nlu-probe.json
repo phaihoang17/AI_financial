@@ -1,0 +1,47 @@
+{
+  "evidence_class": "LIVE",
+  "is_e2e": false,
+  "question_id": "vifinqa-4",
+  "seconds": 1.193137458001729,
+  "nlu": {
+    "query_understanding": {
+      "raw_question": "Lợi nhuận sau thuế của CTCP Chứng khoán FPT năm 2023 là bao nhiêu tỷ đồng?",
+      "company": {
+        "raw": "FTS",
+        "name": "CTCP Chứng khoán FPT",
+        "ticker": "FTS",
+        "confidence": 1.0
+      },
+      "periods": [
+        {
+          "value": "2023",
+          "kind": "NAM",
+          "raw": "năm 2023"
+        }
+      ],
+      "statement_scope": {
+        "value": null,
+        "inferred": false,
+        "confidence": 0.0
+      },
+      "metrics": [
+        {
+          "raw": "LNST",
+          "canonical": "LNST",
+          "confidence": 1.0
+        }
+      ],
+      "operation": "none",
+      "requested_scale": "BILLION",
+      "requested_unit": null,
+      "missing_information": [],
+      "ambiguities": [],
+      "confidence": 1.0
+    },
+    "planning_gate": {
+      "allowed": true,
+      "missing_information": [],
+      "ambiguities": []
+    }
+  }
+}

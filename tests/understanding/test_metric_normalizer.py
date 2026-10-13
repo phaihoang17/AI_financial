@@ -8,6 +8,7 @@ from src.understanding.metric_normalizer import (
     MetricSynonym,
     initial_metric_registry,
     resolve_metric,
+    table_label_metric,
 )
 from src.understanding.schemas import MetricUnderstanding, SchemaValidationError
 
@@ -66,8 +67,29 @@ class MetricNormalizerTests(unittest.TestCase):
                 {"synonym": "LNST", "canonical": "LNST"},
                 {"synonym": "lãi ròng", "canonical": "LNST"},
                 {"synonym": "lợi nhuận sau thuế", "canonical": "LNST"},
+                {"synonym": "lợi nhuận sau thuế TNDN", "canonical": "LNST"},
+                {
+                    "synonym": "lợi nhuận sau thuế thu nhập doanh nghiệp",
+                    "canonical": "LNST",
+                },
             ],
         )
+
+    def test_statement_line_labels_name_registry_metrics_exactly(self):
+        for label in (
+            "18. Lợi nhuận sau thuế TNDN",
+            "Lợi nhuận sau thuế TNDN (60 = 50 - 51 - 52)",
+            "IV. Lợi nhuận sau thuế thu nhập doanh nghiệp",
+        ):
+            with self.subTest(label=label):
+                self.assertEqual(table_label_metric(label), "LNST")
+        for label in (
+            "19. Lợi nhuận sau thuế của công ty mẹ",
+            "Lợi nhuận/(lỗ) sau thuế của cổ đông không kiểm soát",
+            "Lợi nhuận trước thuế",
+        ):
+            with self.subTest(label=label):
+                self.assertIsNone(table_label_metric(label))
 
     def test_all_documented_synonyms_resolve_to_lnst(self):
         for raw in ("LNST", "lãi ròng", "lợi nhuận sau thuế"):

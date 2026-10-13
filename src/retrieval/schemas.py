@@ -705,6 +705,8 @@ class RetrievedScaleUnitHint:
         if self.scale_candidate is not None:
             self.scale_candidate = _require_enum(self.scale_candidate, Scale, "scale_candidate")
         self.unit_candidate = _require_optional_string(self.unit_candidate, "unit_candidate")
+        if self.scale_candidate is Scale.RAW and self.unit_candidate is None:
+            raise RetrievalContractError("INVALID_VALUE", "RAW scale_candidate requires a unit_candidate (ADR-062)")
         self.status = _require_enum(self.status, ScaleHintStatus, "status")
         self.association = _require_enum(self.association, HintAssociation, "association")
 

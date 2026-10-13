@@ -1,3 +1,4 @@
+from dataclasses import replace
 import json
 from pathlib import Path
 import tempfile
@@ -90,6 +91,24 @@ class BM25IndexTests(unittest.TestCase):
         self.assertIs(table[0].source_type, EvidenceSource.TABLE)
         self.assertIs(text[0].source_type, EvidenceSource.TEXT)
         self.assertEqual({item.source_type for item in both}, {EvidenceSource.TABLE, EvidenceSource.TEXT})
+
+    def test_report_metadata_filter_is_exact(self):
+        with tempfile.TemporaryDirectory() as directory:
+            corpus, index = self._index(Path(directory))
+            search = BM25Index(index, corpus)
+            eligible = search.search(make_query("Chỉ", "Narrative"), top_k=10)
+            other_company = search.search(
+                replace(make_query("Chỉ", "Narrative"), company=RetrievalCompany(name="Other", ticker="ZZZ")),
+                top_k=10,
+            )
+            other_year = search.search(
+                replace(make_query("Chỉ", "Narrative"), periods=["1999"]), top_k=10
+            )
+
+        self.assertTrue(eligible)
+        self.assertTrue(all(item.ticker == "AAA" and item.report_year == 2024 for item in eligible))
+        self.assertEqual(other_company, [])
+        self.assertEqual(other_year, [])
 
     def test_incompatible_or_corrupt_index_is_rejected(self):
         with tempfile.TemporaryDirectory() as directory:

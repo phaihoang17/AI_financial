@@ -198,14 +198,17 @@ class IsolatedExecutorTests(unittest.TestCase):
         self.assertNotIn("shell", command)
         project_root = Path(__file__).resolve().parents[2]
         environment = expected_worker_environment(project_root)
-        self.assertEqual(set(environment), {
+        expected_keys = {
             "LC_CTYPE",
             "PYTHONHASHSEED",
             "PYTHONIOENCODING",
             "PYTHONNOUSERSITE",
             "PYTHONPATH",
             "PYTHONDONTWRITEBYTECODE",
-        })
+        }
+        if sys.platform == "darwin":
+            expected_keys.add("__CF_USER_TEXT_ENCODING")
+        self.assertEqual(set(environment), expected_keys)
 
 
 if __name__ == "__main__":

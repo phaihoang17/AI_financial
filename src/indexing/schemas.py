@@ -936,9 +936,12 @@ class ScaleUnitHint(SerializableContract):
         self.normalized_hint_text = _require_string(self.normalized_hint_text, "normalized_hint_text", non_empty=True)
         if self.scale_candidate is not None:
             self.scale_candidate = _require_enum(self.scale_candidate, Scale, "scale_candidate")
-            if self.scale_candidate not in {Scale.THOUSAND, Scale.MILLION, Scale.BILLION, Scale.PERCENT}:
+            if self.scale_candidate not in {Scale.RAW, Scale.THOUSAND, Scale.MILLION, Scale.BILLION, Scale.PERCENT}:
                 raise SchemaValidationError("scale_candidate must be a supported extracted scale")
         self.unit_candidate = _require_optional_string(self.unit_candidate, "unit_candidate")
+        # ADR-062: RAW is only ever read from an explicit currency unit, never defaulted.
+        if self.scale_candidate is Scale.RAW and self.unit_candidate is None:
+            raise SchemaValidationError("RAW scale_candidate requires an explicit unit_candidate")
         self.status = _require_enum(self.status, ScaleHintStatus, "status")
         if self.status is ScaleHintStatus.EXTRACTED and self.scale_candidate is None and self.unit_candidate is None:
             raise SchemaValidationError("EXTRACTED hints require a scale or unit candidate")

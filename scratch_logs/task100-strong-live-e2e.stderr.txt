@@ -1,0 +1,3 @@
+task100-average-aaa-hợp-nhất: ABSTAIN
+task100-average-aaa-riêng: ABSTAIN
+task100-average-fpt-hợp-nhất: ABSTAIN

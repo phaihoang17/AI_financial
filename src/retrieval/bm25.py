@@ -26,6 +26,7 @@ from src.retrieval.compatibility import (
     validate_bm25_artifact_compatibility,
 )
 from src.retrieval.corpus_candidates import candidate_from_representation_chunk
+from src.retrieval.metadata_filter import report_metadata_sql_constraints
 from src.retrieval.query_embedding import make_retrieval_query_id
 from src.retrieval.schemas import (
     RetrievalCandidate,
@@ -330,6 +331,10 @@ class BM25Index:
         except RetrievalContractError as error:
             raise BM25IndexError(error.code, str(error)) from error
         source_placeholders = ",".join("?" for _ in eligible)
+        # TASK-030 report metadata applies before top-k, as in vector search.
+        metadata_where, metadata_parameters = report_metadata_sql_constraints(
+            query, table_alias="c"
+        )
         best: Dict[str, Tuple[RetrievalCandidate, float, int]] = {}
         try:
             connection = sqlite3.connect(f"file:{self._database}?mode=ro", uri=True)
@@ -341,13 +346,25 @@ class BM25Index:
                     expression = " AND ".join(f'"{token}"' for token in tokens)
                     rows = connection.execute(
                         """
-                        SELECT candidate_json, -bm25(candidates_fts) AS public_score
-                        FROM candidates_fts
-                        WHERE candidates_fts MATCH ? AND source_type IN (""" + source_placeholders + """)
+                        SELECT candidate_json, public_score FROM (
+                            SELECT candidate_id, candidate_json,
+                                   -bm25(candidates_fts) AS public_score,
+                                   json_extract(candidate_json, '$.ticker') AS ticker,
+                                   json_extract(candidate_json, '$.statement_scope') AS statement_scope,
+                                   json_extract(candidate_json, '$.report_year') AS report_year
+                            FROM candidates_fts
+                            WHERE candidates_fts MATCH ? AND source_type IN (""" + source_placeholders + """)
+                        ) AS c
+                        WHERE """ + metadata_where + """
                         ORDER BY public_score DESC, candidate_id ASC
                         LIMIT ?
                         """,
-                        (expression, *(source.value for source in eligible), top_k),
+                        (
+                            expression,
+                            *(source.value for source in eligible),
+                            *metadata_parameters,
+                            top_k,
+                        ),
                     )
                     for candidate_json, score in rows:
                         candidate = RetrievalCandidate.from_dict(json.loads(candidate_json))

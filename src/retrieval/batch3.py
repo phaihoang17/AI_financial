@@ -30,6 +30,7 @@ from src.retrieval.schemas import (
     make_candidate_id,
 )
 from src.supervisor.schemas import EvidenceSource
+from src.understanding.metric_normalizer import initial_metric_registry
 from src.understanding.schemas import StatementScope
 
 
@@ -122,11 +123,19 @@ def make_multi_table_subqueries(query: RetrievalQuery) -> List[RetrievalSubquery
     parent_query_id = make_retrieval_query_id(query)
     result: List[RetrievalSubquery] = []
     for metric, period in pairs:
+        # Registry names of the metric carry the statement wording ("lợi nhuận
+        # sau thuế TNDN") that a canonical code such as "LNST" never matches.
+        synonyms = [
+            synonym.synonym
+            for synonym in initial_metric_registry()
+            if metric is not None and synonym.canonical == metric
+        ]
         query_texts = _deduplicate_exact(
             value
             for value in (
                 query.raw_question,
                 metric,
+                *synonyms,
                 period,
                 f"{query.company.ticker} {query.company.name}",
             )
@@ -319,13 +328,17 @@ class Batch3Retriever:
         reranker: Optional[BGEReranker] = None,
         sidecar: Optional[ProvenanceSidecar] = None,
         chunk_lookup: Optional[CorpusChunkLookup] = None,
+        reranker_batch_size: int = 8,
     ) -> None:
+        if isinstance(reranker_batch_size, bool) or not isinstance(reranker_batch_size, int) or reranker_batch_size < 1:
+            raise Batch3RetrievalError("RERANKER_BATCH_SIZE_INVALID", "batch size must be positive")
         self._bm25 = bm25
         self._vector = vector
         self._query_embedder = query_embedder
         self._reranker = reranker
         self._sidecar = sidecar
         self._chunk_lookup = chunk_lookup
+        self._reranker_batch_size = reranker_batch_size
 
     @staticmethod
     def _candidate_depth(top_k: int, candidate_top_k: Optional[int]) -> int:
@@ -378,7 +391,8 @@ class Batch3Retriever:
         )
         fused = fuse_rrf(bm25_candidates, vector_candidates, top_k=depth)
         return rerank_candidates(
-            query, fused, reranker=self._reranker, top_k=top_k
+            query, fused, reranker=self._reranker, top_k=top_k,
+            batch_size=self._reranker_batch_size,
         )
 
     def retrieve_multi_table(

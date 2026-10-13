@@ -46,7 +46,7 @@ from src.indexing.schemas import (
     RetrievalRepresentation,
     TableParseStatus,
 )
-from src.indexing.table_text_linker import link_tables_to_paragraphs
+from src.indexing.table_text_linker import link_tables_to_paragraphs, link_unit_declarations
 from src.supervisor.schemas import EvidenceSource
 from src.understanding.schemas import SchemaValidationError, StatementScope
 
@@ -348,11 +348,9 @@ def _report_pipeline(
                     f"{report.source_ref}: {table.table_id}: {error}",
                 ) from error
     represented_table_ids = {table.source_table_id for table in normalized_tables}
-    links = [
-        link
-        for link in link_tables_to_paragraphs(source, document, paragraphs)
-        if link.table_id in represented_table_ids
-    ]
+    links = link_tables_to_paragraphs(source, document, paragraphs)
+    links += link_unit_declarations(source, document, paragraphs, links)
+    links = [link for link in links if link.table_id in represented_table_ids]
     hints = extract_scale_unit_hints(
         source,
         document,

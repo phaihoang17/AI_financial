@@ -946,7 +946,10 @@ def _validate_materialized_artifact(
     if not metadata_path.is_file() or _sha256_file(metadata_path) != expected_metadata_hash:
         raise EmbeddingArtifactBuilderError("SQLITE_CORRUPT", "metadata.sqlite hash mismatch")
     try:
-        connection = sqlite3.connect(metadata_path)
+        connection = sqlite3.connect(f"{metadata_path.resolve().as_uri()}?mode=ro", uri=True)
+        # Large UUID indexes otherwise thrash SQLite's default 2 MiB page cache.
+        connection.execute("PRAGMA mmap_size=2147483648")
+        connection.execute("PRAGMA cache_size=-131072")
         integrity = connection.execute("PRAGMA integrity_check").fetchone()
         if integrity != ("ok",):
             raise EmbeddingArtifactBuilderError("SQLITE_INTEGRITY_FAILED", "SQLite integrity_check failed")
@@ -1252,7 +1255,18 @@ def main(argv: Optional[Sequence[str]] = None) -> int:
     parser.add_argument("--batch-size", type=int, required=True)
     parser.add_argument("--max-vectors-per-shard", type=int, default=MAX_VECTORS_PER_SHARD)
     parser.add_argument("--resume", action="store_true")
+    parser.add_argument("--reuse-vectors-from", help="committed vector artifact directory (ADR-063)")
+    parser.add_argument("--reuse-corpus", help="the corpus artifact directory that artifact was built from")
     args = parser.parse_args(argv)
+    if (args.reuse_vectors_from is None) != (args.reuse_corpus is None):
+        parser.error("--reuse-vectors-from and --reuse-corpus go together")
+    encoder = None
+    if args.reuse_vectors_from is not None:
+        from src.indexing.vector_reuse import ContentReuseEncoder
+
+        encoder = ContentReuseEncoder(
+            args.reuse_vectors_from, args.reuse_corpus, load_bge_m3_encoder(device=args.device)
+        )
     manifest = build_streaming_embedding_artifact(
         args.input_artifact,
         args.output_root,
@@ -1260,6 +1274,7 @@ def main(argv: Optional[Sequence[str]] = None) -> int:
         batch_size=args.batch_size,
         max_vectors_per_shard=args.max_vectors_per_shard,
         resume=args.resume,
+        encoder=encoder,
     )
     result = validate_published_artifact(args.output_root, input_artifact=args.input_artifact)
     result["artifact_id"] = manifest["artifact_id"]

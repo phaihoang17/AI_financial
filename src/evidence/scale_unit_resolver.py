@@ -25,6 +25,7 @@ _DIRECT_PRECEDENCE = {
     ScaleHintSource.TEXT: 3,
 }
 _LINKED_PRECEDENCE = 4
+_MAGNITUDES = {Scale.THOUSAND, Scale.MILLION, Scale.BILLION}
 
 
 def _validate_grounded_pair(evidence: EvidenceItem, location: CellLocation) -> None:
@@ -139,7 +140,12 @@ def resolve_scale_unit(
     if percent_literal and winning_level == _DIRECT_PRECEDENCE[ScaleHintSource.CELL]:
         scales.add(Scale.PERCENT)
 
-    if len(scales) > 1 or len(units) > 1:
+    # ADR-062: RAW comes only from a currency label, which may name a currency
+    # category ("VND" beside "USD") rather than the unit, so it never outranks a
+    # magnitude stated at any precedence.
+    considered_scales = {hint.scale_candidate for hint in scoped}
+    raw_conflict = Scale.RAW in considered_scales and bool(considered_scales & _MAGNITUDES)
+    if len(scales) > 1 or len(units) > 1 or raw_conflict:
         return ScaleUnitResolution(
             evidence_id=evidence.evidence_id,
             status=ScaleUnitResolutionStatus.AMBIGUOUS,

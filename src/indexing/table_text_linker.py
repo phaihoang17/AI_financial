@@ -6,6 +6,7 @@ from dataclasses import dataclass
 from typing import Dict, List, Tuple
 
 from src.indexing.ids import make_table_text_link_id
+from src.indexing.scale_unit_hint_extractor import declares_unit
 from src.indexing.schemas import (
     Paragraph,
     ParsedDocument,
@@ -128,3 +129,40 @@ def link_tables_to_paragraphs(
             )
         )
     return links
+
+
+def link_unit_declarations(
+    source: ReportSource,
+    document: ParsedDocument,
+    paragraphs: List[Paragraph],
+    links: List[TableTextLink],
+) -> List[TableTextLink]:
+    """ADR-062: an unlinked unit-declaration paragraph annotates the table it immediately precedes.
+
+    VAS statements print "Đơn vị tính: VND" right above the table, often with a
+    page footer below it, so the one-to-one adjacency rule above emits nothing.
+    """
+
+    _validate_inputs(source, document, paragraphs)
+    linked = {link.paragraph_id for link in links}
+    relation = TableTextRelation.CAPTION
+    return [
+        TableTextLink(
+            link_id=make_table_text_link_id(
+                candidate.table.table_id,
+                candidate.paragraph.paragraph_id,
+                relation.value,
+                candidate.basis.value,
+            ),
+            table_id=candidate.table.table_id,
+            paragraph_id=candidate.paragraph.paragraph_id,
+            relation=relation,
+            basis=candidate.basis,
+            evidence_span=candidate.paragraph.source_span,
+            issues=[],
+        )
+        for candidate in _candidates(source, document, paragraphs)
+        if candidate.basis is TableTextLinkBasis.IMMEDIATE_BEFORE
+        and candidate.paragraph.paragraph_id not in linked
+        and declares_unit(candidate.paragraph.raw_text)
+    ]

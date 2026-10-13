@@ -1,0 +1,25 @@
+{
+  "status": "PASS",
+  "build_seconds": 397.807,
+  "manifest": {
+    "bm25_schema_version": "m3-bm25-index-v1",
+    "artifact_status": "COMMITTED",
+    "artifact_id": "91071533f3d0aa3b1820844daa4851c3b729d86c04169b94c4f0f3e9bde23f45",
+    "artifact_directory": "artifacts/91071533f3d0aa3b1820844daa4851c3b729d86c04169b94c4f0f3e9bde23f45",
+    "backend": "sqlite-fts5",
+    "tokenizer": "unicode61 remove_diacritics 0",
+    "corpus_artifact_id": "7c14b5498ce3871adfc61d8a475e910ad90e2e2143f6298a3d1342c048499a66",
+    "corpus_manifest_sha256": "1b95d0be9af41965cf83269067188ba49465a2fa962b2a9a4d4fd03c8d874bed",
+    "corpus_fingerprint": "9ea9e073a8aff69e48ae9b258a2bd657cd5194a52de9742e89f5bdb8d17f61c9",
+    "chunking_config_fingerprint": "0e673035ec6e7cc7b2d0bb1bdde4ee856168450d54b8003ee9032e6043327d93",
+    "embedding_fingerprint": "ebf2adc2a61d75a65db3829163a003e729095310360b9b162b570b34579585b3",
+    "model_id": "BAAI/bge-m3",
+    "model_revision": "5617a9f61b028005a4858fdac845db406aefb181",
+    "candidate_count": 1743967,
+    "logical_index_fingerprint": "91071533f3d0aa3b1820844daa4851c3b729d86c04169b94c4f0f3e9bde23f45",
+    "database": {
+      "file": "bm25.sqlite",
+      "sha256": "4515211ff50e2aa717017974dc024de6ede2f8709a8559c26dbe20a28cf58a0f"
+    }
+  }
+}

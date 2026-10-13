@@ -28,12 +28,14 @@ from src.indexing.schemas import (
 from src.understanding.schemas import SchemaValidationError
 
 
-_YEAR_LABEL = re.compile(r"(?P<year>[0-9]{4})\Z")
+# A year column may carry its currency, e.g. "2023 VND".
+_YEAR_LABEL = re.compile(r"(?P<year>[0-9]{4})(?: (?:VND|VNĐ))?\Z", re.IGNORECASE)
 _Q_LABEL = re.compile(r"Q(?P<quarter>[1-4])/(?P<year>[0-9]{4})\Z", re.IGNORECASE)
 _QUY_LABEL = re.compile(
     r"Quý (?P<quarter>[1-4])(?:/| năm )(?P<year>[0-9]{4})\Z",
     re.IGNORECASE,
 )
+_LABEL_COLUMN_HEADERS = frozenset({"mã số", "thuyết minh"})
 
 
 @dataclass(frozen=True)
@@ -113,16 +115,36 @@ def _row_segments(grid: LogicalTableGrid, row: int) -> List[_Segment]:
     return segments
 
 
+def _label_columns(facts: Dict[str, _CellFacts]) -> Set[int]:
+    """Columns headed "Mã số"/"Thuyết minh": VAS line codes and note refs, not data."""
+    return {
+        column
+        for cell_facts in facts.values()
+        if cell_facts.normalized_text.casefold() in _LABEL_COLUMN_HEADERS
+        for column in range(
+            cell_facts.anchor.anchor_column,
+            cell_facts.anchor.anchor_column + cell_facts.anchor.colspan,
+        )
+    }
+
+
 def _body_rows(
-    grid: LogicalTableGrid, facts: Dict[str, _CellFacts]
+    grid: LogicalTableGrid,
+    facts: Dict[str, _CellFacts],
+    label_columns: Set[int] = frozenset(),
 ) -> Dict[int, Tuple[int, List[str]]]:
     recovered: Dict[int, Tuple[int, List[str]]] = {}
+    # VAS line labels carry ordinals ("18. Lợi nhuận ...") that parse MALFORMED.
+    label_statuses = {NumericParseStatus.NOT_NUMERIC}
+    if label_columns:
+        label_statuses.add(NumericParseStatus.MALFORMED)
     for row in range(grid.row_count):
         segments = _row_segments(grid, row)
         numeric_indexes = [
             index
             for index, segment in enumerate(segments)
             if segment.source_cell_id is not None
+            and segment.start_column not in label_columns
             and facts[segment.source_cell_id].numeric_status
             is NumericParseStatus.PARSED
             and facts[segment.source_cell_id].period_label is None
@@ -136,19 +158,21 @@ def _body_rows(
         prefix_ids: List[str] = []
         valid_prefix = True
         for segment in prefix:
+            if segment.start_column in label_columns:
+                continue
             if segment.source_cell_id is None:
                 valid_prefix = False
                 break
             cell_facts = facts[segment.source_cell_id]
             if (
                 not cell_facts.normalized_text
-                or cell_facts.numeric_status is not NumericParseStatus.NOT_NUMERIC
+                or cell_facts.numeric_status not in label_statuses
             ):
                 valid_prefix = False
                 break
             if not prefix_ids or prefix_ids[-1] != segment.source_cell_id:
                 prefix_ids.append(segment.source_cell_id)
-        if valid_prefix:
+        if valid_prefix and prefix_ids:
             recovered[row] = (
                 segments[first_numeric_index].start_column,
                 prefix_ids,
@@ -325,6 +349,11 @@ def infer_header_structure(
 
     body_rows = _body_rows(grid, facts)
     widths = {width for width, _ in body_rows.values()}
+    if not body_rows or len(widths) != 1:
+        # Fallback only where the generic rule recovers nothing, so tables it
+        # already structures are unchanged.
+        body_rows = _body_rows(grid, facts, _label_columns(facts))
+        widths = {width for width, _ in body_rows.values()}
     if not body_rows or len(widths) != 1:
         return HeaderInference(
             hierarchy=HeaderHierarchy(nodes=[]),

@@ -1,0 +1,9 @@
+{
+  "status": "PASS",
+  "loaded_openmp": [
+    "/Users/phaihoang/Documents/AI_financial/.venv/lib/python3.11/site-packages/faiss/.dylibs/libomp.dylib"
+  ],
+  "torch_matmul": "PASS",
+  "faiss_search": "PASS",
+  "unsafe_duplicate_override": false
+}

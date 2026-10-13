@@ -81,6 +81,27 @@ class HeaderInferenceTests(unittest.TestCase):
         self.assertTrue(all(path == [] for path in result.column_paths.values()))
         self.assertEqual(result.period_labels, [])
 
+    def test_vas_statement_code_and_note_columns_are_labels_not_data(self):
+        table, _, result = infer(
+            "<table>"
+            "<tr><td>Mã số</td><td>CHỈ TIÊU</td><td>Thuyết minh</td><td>Năm nay</td><td>2022 VND</td></tr>"
+            "<tr><td>01</td><td>1. Doanh thu</td><td>28.1</td><td>12.628</td><td>15.314</td></tr>"
+            "<tr><td>60</td><td>18. Lợi nhuận sau thuế TNDN</td><td></td><td>309.193</td><td>117.291</td></tr>"
+            "</table>"
+        )
+        value_cell = next(cell for cell in table.cells if cell.extracted_text == "309.193")
+        prior_cell = next(cell for cell in table.cells if cell.extracted_text == "117.291")
+        code_cell = next(cell for cell in table.cells if cell.extracted_text == "60")
+
+        self.assertEqual(
+            [item.label for item in result.row_paths[value_cell.cell_id]],
+            ["18. Lợi nhuận sau thuế TNDN"],
+        )
+        self.assertEqual([item.label for item in result.column_paths[value_cell.cell_id]], ["Năm nay"])
+        self.assertEqual([item.label for item in result.column_paths[prior_cell.cell_id]], ["2022 VND"])
+        self.assertEqual(result.roles[code_cell.cell_id].value, "UNKNOWN")
+        self.assertEqual(result.period_labels, ["2022"])
+
     def test_period_grammar_is_exact_and_preserves_source_order(self):
         _, _, result = infer(
             "<table>"
@@ -93,7 +114,8 @@ class HeaderInferenceTests(unittest.TestCase):
     def test_period_grammar_does_not_use_context_or_unapproved_forms(self):
         self.assertEqual(normalize_period_label("Quý 4/2024"), "2024-Q4")
         self.assertEqual(normalize_period_label("  Ｑ1/2024  "), "2024-Q1")
-        for value in ("Năm 2024", "Q1", "Quý 2", "31/12/2024", "năm trước"):
+        self.assertEqual(normalize_period_label("2023 VND"), "2023")
+        for value in ("Năm 2024", "Q1", "Quý 2", "31/12/2024", "năm trước", "2023 USD"):
             with self.subTest(value=value):
                 self.assertIsNone(normalize_period_label(value))
 

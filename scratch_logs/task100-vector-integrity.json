@@ -1,0 +1,11 @@
+{
+  "status": "PASS",
+  "integrity_check": [
+    [
+      "ok"
+    ]
+  ],
+  "seconds": 505.284,
+  "database": "m2-vector-index-v1/full-corpus-rtx5090/artifacts/6e196ee45ef08dd1c85a2da647abdd36c9d4613b4de59cb2a381c9fd852a8069/metadata.sqlite",
+  "mmap_size": 2147483648
+}

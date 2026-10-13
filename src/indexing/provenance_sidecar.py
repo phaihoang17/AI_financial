@@ -36,7 +36,7 @@ from src.indexing.schemas import (
     TableTextLink,
 )
 from src.indexing.grid_builder import build_logical_table_grid
-from src.indexing.table_text_linker import link_tables_to_paragraphs
+from src.indexing.table_text_linker import link_tables_to_paragraphs, link_unit_declarations
 from src.understanding.schemas import SchemaValidationError, StatementScope
 
 
@@ -160,10 +160,9 @@ def _extract_report_provenance(source: ReportSource) -> Tuple[List[ScaleUnitHint
                     "SIDECAR_TABLE_NORMALIZATION_FAILED", f"{source.source_ref}: {table.table_id}"
                 ) from error
     represented_table_ids = {table.source_table_id for table in tables}
-    links = [
-        link for link in link_tables_to_paragraphs(source, document, paragraphs)
-        if link.table_id in represented_table_ids
-    ]
+    links = link_tables_to_paragraphs(source, document, paragraphs)
+    links += link_unit_declarations(source, document, paragraphs, links)
+    links = [link for link in links if link.table_id in represented_table_ids]
     hints = extract_scale_unit_hints(source, document, tables, paragraphs, links)
     return hints, links
 

@@ -2517,6 +2517,82 @@ CHEAP-vs-STRONG delta) and stays blocked on model-backed ports being built.
 
 ---
 
+## ADR-058 — Separate fixture regression from recorded real-corpus TASK-100 baseline
+
+**Status:** Accepted (evaluation tooling implemented; bounded real-corpus pilot
+measured on 2026-10-10).
+
+### Context
+
+TASK-100's old CPU-only runner set `established=true` when three fixtures passed.
+That contradicted ADR-057's requirement for production retrieval validation and
+independent real gold answers. Passing every case is also not a prerequisite to
+measure a correctness baseline; errors are part of the measurement.
+
+### Decision
+
+- Version the baseline report as `m10-strong-strict-correctness-baseline-v2`.
+  Fixtures report `FIXTURE_ONLY`, `CPU_FIXTURE`, and `established=false` while
+  retaining a regression-only exit code and `fixture_passed` field.
+- Add recorded-E2E scoring using the existing M9 checkpoint, gold validator,
+  corpus reference index, and deterministic scale conversion contracts. The
+  operator supplies an export with LIVE source declaration, exact build ids,
+  and terminal states bound to gold ids/questions. Replay is labelled explicitly;
+  it does not independently prove the origin or freshness of exported records.
+- Require complete ADR-057 artifact/live gates and matching corpus/index ids.
+  Do not substitute Recall@k, fixtures, or unverified answers for answer accuracy.
+- Include missing answers and abstentions in the denominator. Compare value,
+  scale and unit, and cited evidence grounding. Unknown gold scales block
+  establishment; no metadata is invented. No trace accuracy is claimed without
+  gold reasoning programs. Numeric acceptance thresholds remain TBD.
+
+### Current operational limits
+
+On 2026-10-09, the exact LFS gold object (`8ec4d77d…68b9b1`, 46,778 bytes) was
+read back from the origin and checked against its pointer hash. It contains
+37 VERIFIED LOOKUP cases with answers, all with null gold scale. At that initial
+audit the checkout had no production corpus/vector/BM25 artifacts or real M9
+run export. The 37-case
+retrieval logs therefore do not close TASK-100. A scale-verified gold set covering
+STRONG/STRICT plans and corresponding real terminal M9 runs are still needed.
+No production routing or public pipeline contract changes.
+
+On 2026-10-10 a separate, curated three-case AVERAGE/LNST gold set was frozen
+from the canonical raw reports with explicit RAW/VND answers and source-cell
+audit. The real M9 export routes every case STRONG/STRICT. The existing scorer,
+bound to the matching historical ADR-057 corpus/vector/BM25 validation, reports
+`MEASURED`, `established=true`, zero blockers and **0/3 correct answers**.
+All three abstain at Evidence (`EVIDENCE_LOCATION_AMBIGUOUS`); no live Programmer,
+sandbox or verification result was produced. Reports are
+`scratch_logs/task100-strong-live-e2e.json` and `task100-strong-baseline.json`.
+This is a bounded failure baseline, not an official ViFinQA benchmark or a
+release-quality claim. Fresh Mac HTTP endpoint parity remains unmeasured;
+the existing report attests the same immutable artifact build IDs. Thresholds
+remain TBD and the public contracts and routing policy are unchanged.
+
+## ADR-059 — Pin Darwin CoreFoundation startup in the exact worker environment
+
+**Status:** Accepted
+
+On the current macOS host, launching Python under `sandbox-exec` with the
+approved six variables adds `__CF_USER_TEXT_ENCODING` with per-user settings.
+The exact environment check then correctly rejects startup before calculation,
+causing the sandbox/oracle failures seen on 2026-10-09.
+
+On Darwin only, `expected_worker_environment` now supplies
+`__CF_USER_TEXT_ENCODING=0x<os.getuid() in uppercase hex>:0:0`. This is generated
+deterministically and never inherited from the parent. The fixed UID/encoding
+form follows [Apple's own subprocess startup code](https://github.com/apple-oss-distributions/webdavfs/blob/main/WebDAVPlugin/WebDAV_Mount.c).
+UTF-8 protocol I/O remains explicit. Exact environment equality, environment
+clearing, audit guards, resource limits and the OS sandbox remain enforced.
+Linux retains exactly the existing six variables. No M7 request/result schema,
+DSL operation, production launcher, or model routing changes.
+
+The current execution host is macOS; RTX 5090 run evidence in ADR-057 is
+historical and does not describe the current deployment. This fix and its
+validation require no CUDA or model serving. Full-corpus model/index validation
+on Mac remains a separate measured operational task, subject to available memory.
+
 ## Deferred Decisions
 
 The provided source materials do not fully specify the following. Do not silently treat them as final:
@@ -2533,3 +2609,245 @@ The provided source materials do not fully specify the following. Do not silentl
 - handling of `aggregated`, generic, explanatory, and unlabeled reports through statement-scope mapping or abstention behavior.
 
 Resolve each through a future ADR when implementation constraints are known.
+
+
+## ADR-060 — Use DeepSeek Flash API for live generative M9 ports
+
+Status: accepted by user on 2026-10-09.
+
+NLU and Programmer use the OpenAI-compatible DeepSeek API through the existing
+serving client. Deployment model ID defaults to `deepseek-v4-flash`; DeepSeek's
+current documentation states this legacy alias is served by V4.1 Flash. Record
+the requested model ID; do not claim an immutable V4 checkpoint. NLU uses
+non-thinking mode; a routed STRONG Programmer uses thinking with high reasoning
+effort. Logical roles and deterministic CHEAP/STRONG and LIGHT/STRICT routing
+remain unchanged, even though API roles share one model ID and base URL.
+
+This API deployment does not instantiate the separate local vLLM process
+topology. BGE-M3, BGE reranking, evidence provenance, numeric masking, symbolic
+Program validation, isolated sandbox and deterministic verification are reused.
+API credentials stay in the ignored `.env` or environment, enter HTTPS bearer
+headers only, and are never forwarded through redirects or exported with runs.
+
+The live NLU uses existing resolver registries. Unknown metrics and absent scope
+remain unresolved; the current business registry supports only LNST. Raw
+questions enter inference without gold answers or evidence IDs. The live export
+runner records terminal M9 states and abstentions without tier relabeling;
+ADR-057/058 still gate TASK-100 establishment.
+
+## ADR-061 — Make real income-statement evidence reachable for the TASK-100 pilot
+
+Status: implemented 2026-10-10 at the user's request to fix TASK-100 retrieval and
+cell matching; the design choices below await user review.
+
+The 0/3 TASK-100 pilot failed for stacked reasons, each fixed at its owner:
+
+- **Evidence join.** `_locations_by_evidence` joined items to locations by
+  report/page/table/label paths, which are not unique when distinct cells share
+  paths. M3 now gives each TABLE `EvidenceItem` its `CellLocation.location_id`
+  (the same hash as before), and the join narrows label matches by that exact
+  identity. It never widens; unresolved ties still stop with
+  `EVIDENCE_LOCATION_AMBIGUOUS`.
+- **Provenance scan.** `EvidenceProvenanceRepository.preload` finds all
+  candidate records in one corpus pass and parses each report once. Output is
+  byte-identical on the recorded pilot.
+- **BM25 metadata filter.** BM25 ignored TASK-030 ticker/scope/report-year
+  constraints that ARCHITECTURE requires for every subquery, so other companies,
+  scopes and years entered RRF. The FTS query now applies
+  `report_metadata_sql_constraints` before top-k via `json_extract` on the
+  stored candidate JSON; the index artifact is unchanged.
+- **Subquery wording.** Subquery texts held only `LNST`, the period and the
+  company, so no lexical or dense stage reached the income statement (target
+  absent from fused top-50 in 6/6 pilot subqueries). Subqueries now add the
+  metric registry's names for the canonical metric.
+- **VAS statement headers.** Income statements lead with numeric `Mã số` codes
+  and `Thuyết minh` notes, and line labels carry ordinals (`18. ...`) that parse
+  `MALFORMED`, so header inference recovered no paths at all. A fallback, run
+  only when the base rule recovers nothing, skips columns headed exactly
+  `Mã số`/`Thuyết minh` and accepts `MALFORMED` label text. The period grammar
+  accepts `YYYY VND`/`YYYY VNĐ`.
+- **Metric and period matching.** The registry adds `lợi nhuận sau thuế TNDN`
+  and `lợi nhuận sau thuế thu nhập doanh nghiệp` for `LNST`.
+  `table_label_metric` drops only a leading ordinal and a trailing
+  parenthetical before exact registry resolution. `path_periods` adds the
+  location's `report_year` for a `Năm nay` column. `Năm trước` is not mapped:
+  TASK-030 retrieves period P only from report year P and TASK-080 grounding
+  requires that year, so mapping it would only create ambiguity. The M3 locator,
+  schema linker and TASK-080 grounding share both functions.
+
+Consequences: `NORMALIZATION_VERSION` is unchanged and no artifact is rebuilt.
+Query-time evidence re-derives tables from raw sources and gets the new paths.
+Persisted corpus representations, embeddings and sidecar hints still reflect the
+old header inference until a re-index. Persisted scale/unit hints only cover
+`nghìn/triệu/tỷ/%`, so raw-VND statements with no scale word still stop at
+`SCALE_RESOLUTION_NOT_RESOLVED`. That is the next TASK-100 blocker and needs its
+own decision (unit-hint extraction plus sidecar/corpus rebuild).
+
+## ADR-062 — Derive scale/unit hints at query time from raw reports, with currency units
+
+Status: implemented 2026-10-10 at the user's request (chosen over a GPU re-index
+for now); the design choices below await user review.
+
+### Context
+
+ADR-061 left TASK-100 at `SCALE_RESOLUTION_NOT_RESOLVED`. The pilot income
+statements state VND with no scale word: AAA prints `Đơn vị tính: VND` as a
+paragraph above the table, FPT heads its columns `2023 VND`. The v1 grammar
+(ADR-028) has no currency units. The AAA table also has a footer paragraph, so
+the one-to-one adjacency rule links nothing and no TEXT hint reaches it.
+Verification needs a non-null source scale (`SOURCE_SCALE_REQUIRED`), so a
+unit-only hint is not enough. Corpus representations pin hint IDs
+(`scale_unit_hint_ids`), so changing offline hints means rebuilding the corpus,
+embeddings, vector index, BM25 and both sidecars, which needs the GPU host.
+
+### Decision
+
+- **Query-time derivation.** `EvidenceProvenanceRepository.scale_unit_hints`
+  re-runs `_extract_report_provenance` on the raw report of each selected
+  candidate, the same source the Evidence step already rebuilds cells from, and
+  associates hints through the unchanged TASK-03F `ScaleUnitHintRetriever`
+  rules over an in-memory sidecar view. The live M9 path
+  (`src/orchestration/live.py`) uses it instead of persisted sidecar hints, so
+  it does not wait for a re-index.
+- **One grammar.** Offline corpus and sidecar builds use the same grammar and
+  declaration links, so a re-index persists exactly what query time derives.
+  Committed artifacts are immutable and bound by artifact ID; they stay as
+  built until the live roots are switched.
+- **Currency-unit grammar**, matched after NFKC, case folding and whitespace
+  collapse. A unit is an optional scale word (`nghìn|ngàn|triệu|tỷ`) plus a
+  currency:
+  - declared: `đơn vị tính|đơn vị|đvt`, `:`, then a unit with currency
+    `vnd|vnđ|đồng`, in cells, captions and paragraphs;
+  - in a table cell or caption: `vnd|vnđ` after a scale word, or standing alone
+    or after a digit, `(` or `:` (`2023 VND`, `(VND)`).
+
+  `đồng` needs the label because it is also an ordinary word (`hợp đồng`).
+  Unlisted OCR variants such as `Ngân VND` yield nothing. The hint span is the
+  unit expression, `unit_candidate` is `VND`, and `scale_candidate` is the scale
+  word, else `RAW`. `ScaleUnitHint` admits `RAW` only with a unit: RAW is read
+  from an explicit currency, never defaulted (ADR-032 holds). v1 scale-word hints
+  are unchanged; `triệu VND` yields the v1 `triệu` hint and a MILLION/VND hint,
+  which agree.
+- **Unit-declaration link.** A paragraph holding a declared unit that has no v1
+  link and sits immediately before a table (same page, whitespace-only gap) gets
+  a `TableTextLink` with relation `CAPTION` and basis `IMMEDIATE_BEFORE`. Its
+  hints reach that table as `LINKED`, the lowest precedence. A declaration never
+  links to the table above it.
+- **RAW never outranks a magnitude.** A bare `VND` can name a currency category
+  (a `VND` column beside `USD`/`AUD`) rather than the unit. So when a cell's
+  considered hints hold `RAW` and any of `THOUSAND`/`MILLION`/`BILLION`, at any
+  precedence, the resolver returns `AMBIGUOUS` instead of letting precedence
+  pick. This narrows ADR-032 for `RAW` only; other precedence behavior,
+  masking, binding and verification are unchanged. `RetrievedScaleUnitHint`
+  also rejects `RAW` without a unit.
+
+### Consequences
+
+- Replaying the recorded real Batch3 candidates of the three TASK-100 pilot
+  questions through the real Evidence node: all three resolve RAW/VND on the
+  gold values (AAA via the declaration link, FPT via `2023 VND` headers) and
+  reach the Programmer (`scratch_logs/task100-adr062-evidence-replay.json`).
+- A full raw-corpus pass (1,973 reports, 492 s) raised no errors and emitted
+  6,142 declaration links and unit hints on 46,012 tables. 355 tables hold both
+  RAW and scaled currency hints; the rule above makes such conflicts abstain
+  (`scratch_logs/task100-adr062-corpus-audit.json`).
+- Query-time hints differ from the persisted sidecar: they carry units, take
+  HEADER/CELL kinds from ADR-061 header inference, and add declaration links.
+  Narrative linked-table IDs and TEXT evidence association still use persisted
+  links. Cost is one extra parse per report per query (about 0.2 s on the pilot
+  reports).
+- Tables mixing currency and `%` columns now mark their hints `AMBIGUOUS`. The
+  status is informational; resolution still goes by precedence.
+
+### Re-index (CPU part done 2026-10-10; vectors pending GPU)
+
+- Artifact IDs come from the source inventory, configuration and version
+  constants (`_artifact_id`), not from content. Rebuilding with ADR-061/062 code
+  under the v1 labels reproduced the committed corpus ID `4f39603a…` for
+  different content, so that build was stopped. The re-index sets
+  `NORMALIZATION_VERSION = m2a-normalization-v2` (ADR-061 header paths) and
+  `REPRESENTATION_VERSION = m2a-representation-v2` (ADR-062 hints and links).
+- `main` keeps v1 until the live roots switch, because the schemas reject any
+  other version and every live artifact is v1. The bump is three edits, kept
+  as `reindex-adr062/version-bump.patch`: the two constants;
+  `_validate_input_manifest` reading those constants instead of literal v1
+  strings; and a compatibility test that used `m2a-representation-v2` as its
+  wrong value. With the patch, the suite passes (1067).
+- Built on this CPU host from `reindex-adr062/code` (current code plus the
+  patch) into the git-ignored `reindex-adr062/`:
+  - corpus `7c14b5498ce3871adfc61d8a475e910ad90e2e2143f6298a3d1342c048499a66`
+    (manifest sha256 `1b95d0be…`, 2,512 s, integrity PASS): source inventory
+    unchanged (`9ea9e073…`), 1,737,635 representations, 1,743,967 chunks.
+    There are 656 more table chunks because ADR-061 header paths lengthen the
+    content;
+  - provenance sidecar
+    `bf12c32520752a5718bf65a524cfd6637c8c6d716f51d66167ea2a570a444c65` (657 s):
+    394,995 hints (v1 295,426) and 9,112 links (v1 2,970, plus 6,142
+    declaration links). Every one is referenced by a representation;
+  - table-class sidecar `86d71848…` (135 s). Its ID comes from the source
+    inventory and its 54,173 classifications, both unchanged, so it equals the
+    v1 ID. Its manifest binds it to the v2 corpus;
+  - BM25 `91071533f3d0aa3b1820844daa4851c3b729d86c04169b94c4f0f3e9bde23f45`
+    (398 s, 1,743,967 candidates).
+  Build logs: `scratch_logs/task100-adr062-{corpus,provenance,table-class,bm25}-build.json`.
+- Persisted-path check on v2: the tables and paragraphs the recorded real
+  Batch3 run returned for the three pilot questions, taken from the v2 corpus.
+  Persisted sidecar hints equal the query-time hints for every candidate. The
+  real Evidence node, fed persisted hints, resolves all six gold values RAW/VND
+  and reaches the Programmer
+  (`scratch_logs/task100-adr062-v2-evidence-replay.json`).
+- Remaining GPU step: the vector index for corpus `7c14b549…`. On this M1
+  8 GiB host, BGE-M3 ran at 0.2 chunks/s on MPS (batch 16 ran out of memory),
+  about 2,500 h for the corpus. On the GPU host, after applying the patch:
+  `python -m src.indexing.embedding_artifact_builder --input-artifact
+  <v2 corpus dir> --output-root <root> --device cuda --batch-size <N>
+  --max-vectors-per-shard 100000 --resume`.
+- Switch: apply the patch to `main`; point the live corpus, vector, BM25 and
+  sidecar roots at the v2 set; rerun ADR-057 validation and TASK-100. The live
+  path may then read persisted hints again, which equal the query-time ones
+  for artifacts built by the same code.
+
+## ADR-063 — Reuse vectors of byte-identical chunk content when rebuilding the vector index
+
+Status: implemented 2026-10-11 (`src/indexing/vector_reuse.py`); not yet run on
+real data.
+
+### Context
+
+The ADR-062 re-index needs a vector index for v2 corpus `7c14b549…`. The
+streaming builder embeds every chunk. On this M1 8 GiB host that is about
+2,500 h, yet 1,736,667 of 1,743,967 v2 chunks (99.6%) have content identical
+to a v1 chunk. Only 7,300 table chunks are new (27.8M tokens), changed by
+ADR-061 header paths.
+
+### Decision
+
+`embed_chunks` embeds only `chunk.content`. So under the same approved
+embedding fingerprint, an earlier vector of byte-identical content is the
+vector the model would produce again. `ContentReuseEncoder` wraps the pinned
+encoder and passes it to the unchanged `build_streaming_embedding_artifact`
+(`--reuse-vectors-from <committed vector artifact dir> --reuse-corpus <its
+corpus dir>`). The artifact layout, IDs, fingerprint and validation stay as
+they are.
+
+- The source must be `COMMITTED` with `APPROVED_EMBEDDING_FINGERPRINT`. Its
+  corpus manifest sha256 must equal the source's `input_manifest_sha256`.
+  The source metadata, every FAISS shard and every corpus shard must match
+  their recorded sha256. The vector order must equal the corpus record order,
+  and the counts must agree. Any failure raises `REUSE_SOURCE_INVALID` before
+  anything is built.
+- Content is matched by its exact UTF-8 sha256. A hit returns the stored
+  float32 vector. A miss goes to the pinned encoder, one text at a time,
+  because padded batches of long table chunks exhaust 8 GiB.
+- Reused vectors may come from a different device (the v1 index was built on
+  an RTX 5090); same model, revision and fp32 config, so differences are
+  floating-point rounding only.
+
+### Consequences
+
+- The v2 vector index needs about 27.8M new tokens: about 25 h on this host's
+  CPU (314 tokens/s measured on a 6-chunk sample), or a short run on a GPU
+  host with `--device cuda`.
+- Builder quirk found: `--resume` on a first run fails with
+  `CHECKPOINT_INVALID`, because staging is created before the checkpoint check.
+  Use `--resume` only to continue an interrupted run.

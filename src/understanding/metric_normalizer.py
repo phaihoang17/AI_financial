@@ -4,6 +4,7 @@ from __future__ import annotations
 
 from dataclasses import dataclass
 from enum import Enum
+import re
 from typing import Any, Dict, List, Optional
 import unicodedata
 
@@ -193,7 +194,26 @@ def initial_metric_registry() -> List[MetricSynonym]:
         MetricSynonym(synonym="LNST", canonical="LNST"),
         MetricSynonym(synonym="lãi ròng", canonical="LNST"),
         MetricSynonym(synonym="lợi nhuận sau thuế", canonical="LNST"),
+        MetricSynonym(synonym="lợi nhuận sau thuế TNDN", canonical="LNST"),
+        MetricSynonym(
+            synonym="lợi nhuận sau thuế thu nhập doanh nghiệp", canonical="LNST"
+        ),
     ]
+
+
+# Statement line labels: leading ordinal ("18.", "IV.", "a)") and a trailing
+# parenthetical such as "(60 = 50 - 51 - 52)" are layout, not the metric name.
+_LINE_ORDINAL = re.compile(r"^(?:[0-9]+|[IVXLC]+|[a-zđ])[.)]\s*", re.IGNORECASE)
+_LINE_PARENTHETICAL = re.compile(r"\s*\([^()]*\)\Z")
+
+
+def table_label_metric(label: str) -> Optional[str]:
+    """Canonical registry metric named exactly by a table header label, else None."""
+    text = _LINE_PARENTHETICAL.sub("", _LINE_ORDINAL.sub("", label.strip()))
+    resolution = resolve_metric(text, initial_metric_registry())
+    if resolution.status is not MetricResolutionStatus.RESOLVED:
+        return None
+    return resolution.metric.canonical
 
 
 def resolve_metric(raw: str, synonyms: List[MetricSynonym]) -> MetricResolution:

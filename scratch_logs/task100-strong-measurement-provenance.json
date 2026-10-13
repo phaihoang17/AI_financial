@@ -1,0 +1,16 @@
+{
+  "scope": "Curated 3-case AVERAGE/LNST real-corpus pilot",
+  "gold_inference_boundary": "Only IDs and question text supplied to M9",
+  "retrieval_validation_origin": "Historical RTX 5090 ADR-057 report; matching immutable corpus/vector/BM25 IDs; no fresh Mac endpoint parity claimed",
+  "sha256": {
+    "gold/retrieval/strong-strict.jsonl": "ae065162de648ec3f90c32a1ab165a7c8304bc77802b84ed26fbb24024c8d809",
+    "gold/retrieval/strong-strict-source-audit.json": "e1a862ded3aacdaa102a4edadc268f90ad721e568167d66983151a14685265f4",
+    "scratch_logs/production-validation.json": "dc837fe367c6cb04b6d063eca3479fdc07d266f3f4bc01f6d3c0f5064c425a7d",
+    "src/orchestration/api_stages.py": "d8c851f521e350e7d6c7c84b6ce9e33344c9112d1e8dc56f492f394bf5d52c14",
+    "src/orchestration/live.py": "37e76c02421746bb756e7ff92ba36cb7d65aabf4edb3094ee8fbfc0e128174b2",
+    "src/evaluation/run_live_e2e_eval.py": "9151b582a087042d56a3818877f1906b37201828b750ea4d9524a5c3127bdfad",
+    "src/evaluation/production_baseline.py": "37872bfe726b6ab8c91b87ab13c30c2b2ef5d60827fe5d299323bccec7cdafae",
+    "scratch_logs/task100-strong-live-e2e.json": "6a59bb1d13fa9b410086bc690be84d3c7187d9ab04bb9a298f680913acb71294",
+    "scratch_logs/task100-strong-baseline.json": "45327f5b8179006963e1c0ffd1362f8094fdb235155c3e233025f693779b2c89"
+  }
+}

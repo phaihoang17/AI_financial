@@ -39,6 +39,13 @@ _SCALE_BY_TEXT = {
     "phần trăm": Scale.PERCENT,
     "%": Scale.PERCENT,
 }
+# ADR-062 currency units. The hint span is the `unit` group; a currency with no
+# scale word is an explicit RAW amount. `đồng` counts only after a declaration
+# label, since it is also an ordinary word ("hợp đồng").
+_UNIT = r"(?P<unit>(?:(?P<scale>nghìn|ngàn|triệu|tỷ) )?(?P<currency>vnd|vnđ|đồng))(?!\w)"
+_DECLARED_UNIT = re.compile(r"(?<!\w)(?:đơn vị tính|đơn vị|đvt) ?: ?" + _UNIT)
+_TABLE_UNIT = re.compile(r"(?<!\w)" + _UNIT.replace("|đồng", ""))
+_VND = "VND"
 
 
 @dataclass(frozen=True)
@@ -53,6 +60,7 @@ class _Occurrence:
     raw_text: str
     normalized_text: str
     scale: Scale
+    unit: Optional[str] = None
 
 
 def _visible_html_chunks(raw_html: str, absolute_start: int) -> Iterable[_VisibleChunk]:
@@ -133,6 +141,46 @@ def _occurrences(source: ReportSource, chunks: Iterable[_VisibleChunk]) -> List[
     return found
 
 
+def _bare_table_unit_allowed(normalized: str, start: int) -> bool:
+    # A bare table VND must stand alone or follow a year, "(" or ":" ("2023 VND",
+    # "(VND)"); "Ngân VND" (OCR'd "Ngàn") must not read as RAW.
+    before = normalized[:start].rstrip(" ")
+    return not before or before[-1].isdigit() or before[-1] in "(:"
+
+
+def _unit_occurrences(
+    source: ReportSource, chunks: Iterable[_VisibleChunk], *, in_table: bool
+) -> List[_Occurrence]:
+    found: Dict[Tuple[int, int], _Occurrence] = {}
+    for chunk in chunks:
+        normalized, offsets = _normalized_with_offsets(chunk)
+        matches = list(_DECLARED_UNIT.finditer(normalized))
+        if in_table:
+            matches += [
+                match
+                for match in _TABLE_UNIT.finditer(normalized)
+                if match.group("scale") or _bare_table_unit_allowed(normalized, match.start())
+            ]
+        for match in matches:
+            start = offsets[match.start("unit")][0]
+            end = offsets[match.end("unit") - 1][1]
+            scale = match.group("scale")
+            found[(start, end)] = _Occurrence(
+                source_span=SourceSpan(start, end),
+                raw_text=source.raw_text[start:end],
+                normalized_text=match.group("unit"),
+                scale=Scale.RAW if scale is None else _SCALE_BY_TEXT[scale],
+                unit=_VND,
+            )
+    return [found[key] for key in sorted(found)]
+
+
+def declares_unit(text: str) -> bool:
+    """Whether text holds a labelled ADR-062 unit declaration ("Đơn vị tính: VND")."""
+    normalized, _ = _normalized_with_offsets(_VisibleChunk(text, 0))
+    return _DECLARED_UNIT.search(normalized) is not None
+
+
 def _cell_chunks(cell: SourceCell) -> Iterable[_VisibleChunk]:
     opening_end = cell.raw_html.find(">") + 1
     if opening_end <= 0 or cell.raw_html[
@@ -168,7 +216,7 @@ def _make_hint(
         raw_hint_text=occurrence.raw_text,
         normalized_hint_text=occurrence.normalized_text,
         scale_candidate=occurrence.scale,
-        unit_candidate=None,
+        unit_candidate=occurrence.unit,
         status=ScaleHintStatus.EXTRACTED,
     )
 
@@ -225,6 +273,9 @@ def extract_scale_unit_hints(
             raise SchemaValidationError("links must reference source tables and paragraphs")
         links_by_paragraph.setdefault(link.paragraph_id, []).append(link)
 
+    def found(chunks: List[_VisibleChunk], *, in_table: bool) -> List[_Occurrence]:
+        return _occurrences(source, chunks) + _unit_occurrences(source, chunks, in_table=in_table)
+
     hints: List[ScaleUnitHint] = []
     for table_id, table in source_tables.items():
         normalized = normalized_by_source.get(table_id)
@@ -243,7 +294,7 @@ def extract_scale_unit_hints(
                 if cell.cell_id in header_cell_ids
                 else ScaleHintSource.CELL
             )
-            for occurrence in _occurrences(source, _cell_chunks(cell)):
+            for occurrence in found(list(_cell_chunks(cell)), in_table=True):
                 hints.append(
                     _make_hint(
                         source,
@@ -258,9 +309,9 @@ def extract_scale_unit_hints(
             caption_raw = source.raw_text[
                 table.inline_caption_span.start : table.inline_caption_span.end
             ]
-            for occurrence in _occurrences(
-                source,
-                _visible_html_chunks(caption_raw, table.inline_caption_span.start),
+            for occurrence in found(
+                list(_visible_html_chunks(caption_raw, table.inline_caption_span.start)),
+                in_table=True,
             ):
                 hints.append(
                     _make_hint(
@@ -277,7 +328,7 @@ def extract_scale_unit_hints(
         paragraph_links = links_by_paragraph.get(paragraph.paragraph_id, [])
         linked_table_id = paragraph_links[0].table_id if len(paragraph_links) == 1 else None
         chunks = [_VisibleChunk(paragraph.raw_text, paragraph.source_span.start)]
-        for occurrence in _occurrences(source, chunks):
+        for occurrence in found(chunks, in_table=False):
             hints.append(
                 _make_hint(
                     source,

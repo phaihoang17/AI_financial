@@ -5,12 +5,13 @@ import unittest
 from src.retrieval.corpus_candidates import iter_corpus_candidates
 from src.retrieval.evidence import (
     EvidenceProvenanceRepository, MatchBasis, build_evidence_items,
-    check_evidence_completeness, generate_evidence_requirements, locate_cells,
+    check_evidence_completeness, generate_evidence_requirements, locate_cells, path_periods,
 )
 from src.retrieval.schemas import RetrievalCompany, RetrievalQuery
 from src.supervisor.schemas import EvidenceSource
 from src.understanding.schemas import StatementScope
 from src.indexing.provenance_sidecar import ProvenanceSidecar
+from src.retrieval.batch3 import Batch3Retriever, CorpusChunkLookup
 from tests.indexing.test_provenance_sidecar import ProvenanceSidecarTests
 
 def query(sources):
@@ -38,9 +39,26 @@ class EvidenceBatch4Tests(unittest.TestCase):
         result=check_evidence_completeness(req,evidence,mapping)
         self.assertEqual(result.missing_requirement_ids, [req[0].requirement_id])
 
+    def test_query_time_hints_match_a_sidecar_built_by_the_same_code(self):
+        with tempfile.TemporaryDirectory() as tmp:
+            raw, corpus, sidecar_root = ProvenanceSidecarTests()._artifacts(Path(tmp), text="Đơn vị tính: VND")
+            table=next(x for x in iter_corpus_candidates(corpus) if x.source_type is EvidenceSource.TABLE)
+            persisted=Batch3Retriever(None, None, None, sidecar=ProvenanceSidecar(sidecar_root, corpus), chunk_lookup=CorpusChunkLookup(str(corpus))).retrieve_scale_unit_hints([table])
+            derived=EvidenceProvenanceRepository(corpus, raw).scale_unit_hints([table])
+        self.assertEqual([h.to_dict() for h in derived[table.candidate_id]], [h.to_dict() for h in persisted[table.candidate_id]])
+        self.assertIn(("LINKED", "RAW", "VND"), [(h.association.value, h.scale_candidate.value, h.unit_candidate) for h in derived[table.candidate_id]])
+
     def test_text_and_structural_evidence_do_not_satisfy_table_exact_requirement(self):
         req=generate_evidence_requirements(query([EvidenceSource.TEXT]))
         self.assertEqual(req[0].source_type,EvidenceSource.TEXT)
         self.assertEqual(len(req),1)
+
+class PathPeriodTests(unittest.TestCase):
+    def test_current_year_column_names_the_report_year_only(self):
+        self.assertIn("2023", path_periods(["Năm nay"], 2023))
+        self.assertIn("2023", path_periods(["Năm tài chính", "2023 VND"], 2023))
+        self.assertNotIn("2022", path_periods(["Năm trước"], 2023))
+        self.assertNotIn("2023", path_periods(["Năm nay"], None))
+
 
 if __name__ == "__main__": unittest.main()
