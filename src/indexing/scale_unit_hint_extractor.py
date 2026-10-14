@@ -43,8 +43,13 @@ _SCALE_BY_TEXT = {
 # scale word is an explicit RAW amount. `đồng` counts only after a declaration
 # label, since it is also an ordinary word ("hợp đồng").
 _UNIT = r"(?P<unit>(?:(?P<scale>nghìn|ngàn|triệu|tỷ) )?(?P<currency>vnd|vnđ|đồng))(?!\w)"
-_DECLARED_UNIT = re.compile(r"(?<!\w)(?:đơn vị tính|đơn vị|đvt) ?: ?" + _UNIT)
-_TABLE_UNIT = re.compile(r"(?<!\w)" + _UNIT.replace("|đồng", ""))
+# OCR may drop the dot of "vị" ("Đơn vi tính: VND") or glue the next year header to a
+# declared unit ("Đơn vị tính: VNDNăm 2020").
+_DECLARED_UNIT = re.compile(
+    r"(?<!\w)(?:đơn v[ịi] tính|đơn v[ịi]|đvt) ?: ?" + _UNIT.replace(r"(?!\w)", r"(?:(?!\w)|(?=năm))")
+)
+# A table unit may follow its year with no space ("Năm 2022VND", "2016Triệu VND").
+_TABLE_UNIT = re.compile(r"(?<![^\W\d_])" + _UNIT.replace("|đồng", ""))
 _VND = "VND"
 
 
@@ -143,9 +148,11 @@ def _occurrences(source: ReportSource, chunks: Iterable[_VisibleChunk]) -> List[
 
 def _bare_table_unit_allowed(normalized: str, start: int) -> bool:
     # A bare table VND must stand alone or follow a year, "(" or ":" ("2023 VND",
-    # "(VND)"); "Ngân VND" (OCR'd "Ngàn") must not read as RAW.
+    # "(VND)"), or a VAS "Năm nay"/"Năm trước" column; "Ngân VND" (OCR'd "Ngàn")
+    # must not read as RAW.
     before = normalized[:start].rstrip(" ")
-    return not before or before[-1].isdigit() or before[-1] in "(:"
+    return (not before or before[-1].isdigit() or before[-1] in "(:"
+            or before.casefold().endswith(("năm nay", "năm trước")))
 
 
 def _unit_occurrences(
@@ -162,6 +169,8 @@ def _unit_occurrences(
                 if match.group("scale") or _bare_table_unit_allowed(normalized, match.start())
             ]
         for match in matches:
+            if normalized[match.end("unit"):].lstrip(" ").startswith("/"):
+                continue  # a rate such as "VND/cổ phiếu" (EPS), not the amount unit
             start = offsets[match.start("unit")][0]
             end = offsets[match.end("unit") - 1][1]
             scale = match.group("scale")

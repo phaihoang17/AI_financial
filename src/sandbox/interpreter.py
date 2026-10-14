@@ -390,13 +390,18 @@ def _interpret(request: SandboxExecutionRequest) -> ExecutionOutput:
     with localcontext(make_execution_decimal_context()):
         for step in request.program.steps:
             referenced = [state[ref] for ref in step.input_refs]
+            # The requested output scale/unit applies to the answer: an intermediate
+            # IDENTITY/COLLECT feeding a formula keeps its source scale (the formula
+            # honours the request), so "tăng trưởng bao nhiêu %" never converts VND
+            # inputs to PERCENT.
+            is_output = step.step_id == request.program.output_ref
             if step.operation is ProgramOperation.IDENTITY:
                 scalar = _require_scalars(referenced, "IDENTITY")[0]
-                state[step.step_id] = _apply_requested_conversion(scalar)
+                state[step.step_id] = _apply_requested_conversion(scalar) if is_output else scalar
             elif step.operation is ProgramOperation.COLLECT:
                 scalars = _require_scalars(referenced, "COLLECT")
                 state[step.step_id] = tuple(
-                    _apply_requested_conversion(item) for item in scalars
+                    _apply_requested_conversion(item) if is_output else item for item in scalars
                 )
             elif step.operation is ProgramOperation.APPLY_REGISTERED_FORMULA:
                 scalars = _require_scalars(

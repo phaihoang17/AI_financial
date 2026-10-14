@@ -79,7 +79,7 @@ class ArtifactCompatibilityTests(unittest.TestCase):
         def mutate(corpus, _):
             path = corpus / "manifest.json"
             payload = json.loads(path.read_text())
-            payload["representation_version"] = "m2a-representation-v2"
+            payload["representation_version"] = "m2a-representation-unsupported"
             path.write_text(json.dumps(payload))
 
         self._assert_failure("M2_CORPUS_SCHEMA_MISMATCH", mutate)
@@ -95,16 +95,28 @@ class ArtifactCompatibilityTests(unittest.TestCase):
 
     def test_real_smoke_artifact_is_accepted_when_available(self):
         repository = Path(__file__).resolve().parents[2]
-        corpus = repository / "artifacts/m2-vector-index-v1/smoke-input-500"
-        vectors = repository / "artifacts/m2-vector-index-v1/smoke-resume"
+        corpus = repository / "artifacts/m2-vector-index-v2/smoke-input-500"
+        vectors = repository / "artifacts/m2-vector-index-v2/smoke-500"
         if not (corpus / "manifest.json").is_file() or not (vectors / "manifest.json").is_file():
-            self.skipTest("local real-BGE smoke artifacts are not available")
+            self.skipTest("local real-BGE v2 smoke artifacts are not available")
 
         report = validate_retrieval_artifact_compatibility(vectors, corpus)
 
         self.assertEqual(report.status, "PASS")
         self.assertEqual(report.vector_count, 500)
 
+    def test_stale_v1_smoke_artifact_is_rejected_when_available(self):
+        # v1 artifacts predate ADR-062 normalization v2 and must never be accepted.
+        repository = Path(__file__).resolve().parents[2]
+        corpus = repository / "artifacts/m2-vector-index-v1/smoke-input-500"
+        vectors = repository / "artifacts/m2-vector-index-v1/smoke-resume"
+        if not (corpus / "manifest.json").is_file() or not (vectors / "manifest.json").is_file():
+            self.skipTest("local real-BGE v1 smoke artifacts are not available")
+
+        with self.assertRaises(ArtifactCompatibilityError) as raised:
+            validate_retrieval_artifact_compatibility(vectors, corpus)
+
+        self.assertEqual(raised.exception.code, "M2_CORPUS_SCHEMA_MISMATCH")
 
 if __name__ == "__main__":
     unittest.main()

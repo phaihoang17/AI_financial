@@ -79,5 +79,51 @@ def test_programmer_validates_symbolic_proposal_and_uses_strong_thinking():
     assert client.generate.call_args.kwargs["reasoning_effort"] == "high"
     proposal["inputs"][0]["placeholder"] = "123456789"
     client.generate.return_value = json.dumps(proposal)
-    with pytest.raises(ValueError):
-        APIProgrammer(client).generate(attempt.programmer_input, ModelTier.STRONG)
+    rejected = APIProgrammer(client).generate(attempt.programmer_input, ModelTier.STRONG)
+    assert rejected.status is ProgrammerStatus.REJECTED
+    assert rejected.failure_code == "UNKNOWN_PLACEHOLDER"
+
+
+def test_average_prompt_uses_registry_and_rejects_one_ref():
+    from tests.orchestration.test_graph import make_graph, run
+    from tests.orchestration.test_straight_through_graph import query_understanding, fixture_pairs
+    from src.understanding.schemas import Operation
+    current = query_understanding(("2014", "2015"), Operation.AGGREGATE)
+    graph, _ = make_graph(current, [fixture_pairs(("2014", "2015"), ("10", "20"))])
+    state = run(graph, current).state
+    attempt = state.attempts[-1]
+    proposal = {key: value for key, value in attempt.programmer_result.program.to_dict().items()
+                if key in {"inputs", "steps", "output_ref", "output_kind"}}
+    client = Mock()
+    client.generate.return_value = json.dumps(proposal)
+    stage = APIProgrammer(client)
+    assert stage.generate(attempt.programmer_input, ModelTier.STRONG).status is ProgrammerStatus.GENERATED
+    payload = json.loads(client.generate.call_args.args[0][1]["content"])
+    assert payload["formula_input_contract"]["min_arity"] == 2
+    proposal["steps"][-1]["input_refs"] = proposal["steps"][-1]["input_refs"][:1]
+    client.generate.return_value = json.dumps(proposal)
+    assert stage.generate(attempt.programmer_input, ModelTier.STRONG).failure_code == "FORMULA_ARITY_MISMATCH"
+
+
+@pytest.mark.parametrize("response,code", [("{", "PROGRAMMER_JSON_INVALID"), ("[]", "INVALID_SCHEMA")])
+def test_programmer_rejects_invalid_json_without_repair(response, code):
+    case = e2e_fixture_cases()[0]
+    attempt = case.graph_factory().run(request_id="invalid", raw_question=case.raw_question).state.attempts[-1]
+    client = Mock()
+    client.generate.return_value = response
+    result = APIProgrammer(client).generate(attempt.programmer_input, ModelTier.STRONG)
+    assert result.status is ProgrammerStatus.REJECTED
+    assert result.failure_code == code
+    assert client.generate.call_count == 1
+
+
+def test_programmer_preserves_truncation_code_from_client():
+    from src.serving.schemas import ServingError
+    case = e2e_fixture_cases()[0]
+    attempt = case.graph_factory().run(request_id="truncated", raw_question=case.raw_question).state.attempts[-1]
+    client = Mock()
+    client.generate.side_effect = ServingError("SERVING_RESPONSE_TRUNCATED", "token limit")
+    result = APIProgrammer(client).generate(attempt.programmer_input, ModelTier.STRONG)
+    assert result.failure_code == "SERVING_RESPONSE_TRUNCATED"
+    assert result.program is None
+    assert client.generate.call_count == 1

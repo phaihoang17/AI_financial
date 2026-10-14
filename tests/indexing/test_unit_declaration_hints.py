@@ -67,6 +67,20 @@ class UnitDeclarationHintTests(unittest.TestCase):
         )
         self.assertTrue(all(hint.status is ScaleHintStatus.AMBIGUOUS for hint in hints))
 
+    def test_ocr_variants_of_table_units_and_declarations(self):
+        for declaration, header, expected in (
+            ("", "Năm 2022VND", [("HEADER", "VND", "RAW")]),
+            ("", "2016Triệu VND", [("HEADER", "Triệu VND", "MILLION")]),
+            ("", "Năm nay VND", [("HEADER", "VND", "RAW")]),
+            ("Đơn vi tính: VND", "Năm nay", [("TEXT", "VND", "RAW")]),
+            ("", "Đơn vị tính: VNDNăm 2020", [("HEADER", "VND", "RAW")]),
+            ("", "Lãi cơ bản trên cổ phiếu (VND/cổ phiếu)", []),
+            ("", "Lãi cơ bản trên cổ phiếu (đồng / cổ phiếu)", []),
+        ):
+            with self.subTest(header=header, declaration=declaration):
+                _, hints, _ = provenance(STATEMENT.format(declaration=declaration, header=header))
+                self.assertEqual(units(hints), expected)
+
     def test_words_that_only_look_like_units_yield_nothing(self):
         for declaration, header in (
             ("Theo hợp đồng thanh toán bằng VND", "Năm nay"),

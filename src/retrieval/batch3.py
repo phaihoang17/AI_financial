@@ -183,11 +183,18 @@ def query_for_subquery(parent: RetrievalQuery, subquery: RetrievalSubquery) -> R
 class CorpusChunkLookup:
     """Resolve only returned TABLE chunks from immutable M2 corpus records."""
 
-    def __init__(self, corpus_artifact_root: str) -> None:
+    def __init__(self, corpus_artifact_root: str, *, vector_metadata_path: Optional[str] = None) -> None:
         try:
             self._corpus = _validate_input_manifest(corpus_artifact_root, verify_hashes=True)
         except EmbeddingArtifactBuilderError as error:
             raise Batch3RetrievalError("SCALE_HINT_CORPUS_INVALID", str(error)) from error
+        from src.retrieval.corpus_candidates import CorpusRecordLocator
+
+        # With the M2B vector metadata, records are read by position, not by a corpus pass.
+        self._locator = (
+            None if vector_metadata_path is None
+            else CorpusRecordLocator(self._corpus, vector_metadata_path)
+        )
 
     def for_candidates(
         self, candidates: Sequence[RetrievalCandidate]
@@ -199,6 +206,17 @@ class CorpusChunkLookup:
         }
         found: Dict[str, EmbeddingChunk] = {}
         if not wanted:
+            return found
+        if self._locator is not None:
+            keys = {(c.chunk_id, c.representation_id) for c in candidates if c.candidate_id in wanted}
+            for record in self._locator.records(keys).values():
+                found[make_candidate_id(
+                    record.representation.source_type, record.representation.representation_id,
+                    record.chunk.chunk_id,
+                )] = record.chunk
+            missing = wanted - set(found)
+            if missing:
+                raise Batch3RetrievalError("SCALE_HINT_CHUNK_MISSING", ",".join(sorted(missing)))
             return found
         try:
             for record in _iter_input_records(self._corpus):

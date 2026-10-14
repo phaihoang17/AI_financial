@@ -1,0 +1,18 @@
+{"question_id": "broad-neg-000-unsupported_metric", "question": "Giá đóng cửa cổ phiếu của CTCP Viễn thông FPT (FOX) cuối năm 2018 theo báo cáo riêng là bao nhiêu?", "expected": "NO_ANSWER", "kind": "UNSUPPORTED_METRIC"}
+{"question_id": "broad-neg-001-unsupported_metric", "question": "Vốn hóa thị trường của CTCP Tập đoàn Thủy sản Minh Phú (MPC) cuối năm 2020 theo báo cáo hợp nhất là bao nhiêu?", "expected": "NO_ANSWER", "kind": "UNSUPPORTED_METRIC"}
+{"question_id": "broad-neg-002-unsupported_metric", "question": "Số lượng nhân viên của Tập đoàn VINGROUP - CTCP (VIC) cuối năm 2023 theo báo cáo hợp nhất là bao nhiêu?", "expected": "NO_ANSWER", "kind": "UNSUPPORTED_METRIC"}
+{"question_id": "broad-neg-003-sub_annual_period", "question": "Doanh thu thuần quý 3 năm 2024 của SAM theo báo cáo hợp nhất là bao nhiêu?", "expected": "NO_ANSWER", "kind": "SUB_ANNUAL_PERIOD"}
+{"question_id": "broad-neg-004-sub_annual_period", "question": "Doanh thu thuần quý 3 năm 2023 của DBC theo báo cáo riêng là bao nhiêu?", "expected": "NO_ANSWER", "kind": "SUB_ANNUAL_PERIOD"}
+{"question_id": "broad-neg-005-sub_annual_period", "question": "Doanh thu thuần quý 3 năm 2021 của GEE theo báo cáo hợp nhất là bao nhiêu?", "expected": "NO_ANSWER", "kind": "SUB_ANNUAL_PERIOD"}
+{"question_id": "broad-neg-006-missing_period", "question": "Tổng tài sản của CTCP Thép Nam Kim (NKG) theo báo cáo riêng là bao nhiêu?", "expected": "NO_ANSWER", "kind": "MISSING_PERIOD"}
+{"question_id": "broad-neg-007-missing_period", "question": "Tổng tài sản của CTCP Đầu tư Dịch vụ Hoàng Huy (HHS) theo báo cáo hợp nhất là bao nhiêu?", "expected": "NO_ANSWER", "kind": "MISSING_PERIOD"}
+{"question_id": "broad-neg-008-missing_period", "question": "Tổng tài sản của CTCP Tập đoàn Thủy sản Minh Phú (MPC) theo báo cáo riêng là bao nhiêu?", "expected": "NO_ANSWER", "kind": "MISSING_PERIOD"}
+{"question_id": "broad-neg-009-missing_scope", "question": "Vốn chủ sở hữu của MSR tại ngày 31/12/2023 là bao nhiêu?", "expected": "NO_ANSWER", "kind": "MISSING_SCOPE"}
+{"question_id": "broad-neg-010-missing_scope", "question": "Vốn chủ sở hữu của HHS tại ngày 31/12/2015 là bao nhiêu?", "expected": "NO_ANSWER", "kind": "MISSING_SCOPE"}
+{"question_id": "broad-neg-011-missing_scope", "question": "Vốn chủ sở hữu của HDG tại ngày 31/12/2017 là bao nhiêu?", "expected": "NO_ANSWER", "kind": "MISSING_SCOPE"}
+{"question_id": "broad-neg-012-unknown_company", "question": "Doanh thu thuần theo báo cáo hợp nhất của CTCP Thép Bắc Trung Bộ (TBT) năm 2021 là bao nhiêu?", "expected": "NO_ANSWER", "kind": "UNKNOWN_COMPANY"}
+{"question_id": "broad-neg-013-unknown_company", "question": "Doanh thu thuần theo báo cáo hợp nhất của CTCP Dược phẩm Hải Vân (DHV) năm 2021 là bao nhiêu?", "expected": "NO_ANSWER", "kind": "UNKNOWN_COMPANY"}
+{"question_id": "broad-neg-014-unknown_company", "question": "Doanh thu thuần theo báo cáo hợp nhất của Tổng Công ty Cảng Sông Hồng (SHP) năm 2021 là bao nhiêu?", "expected": "NO_ANSWER", "kind": "UNKNOWN_COMPANY"}
+{"question_id": "broad-neg-015-period_outside_corpus", "question": "Tổng tài sản theo báo cáo riêng của ASM năm 2011 là bao nhiêu?", "expected": "NO_ANSWER", "kind": "PERIOD_OUTSIDE_CORPUS"}
+{"question_id": "broad-neg-016-period_outside_corpus", "question": "Tổng tài sản theo báo cáo riêng của NKG năm 2012 là bao nhiêu?", "expected": "NO_ANSWER", "kind": "PERIOD_OUTSIDE_CORPUS"}
+{"question_id": "broad-neg-017-period_outside_corpus", "question": "Tổng tài sản theo báo cáo riêng của FPT năm 2011 là bao nhiêu?", "expected": "NO_ANSWER", "kind": "PERIOD_OUTSIDE_CORPUS"}

@@ -31,33 +31,35 @@ skipped, zero failures; Supervisor 14/14, oracle reasoning 7/7, E2E fixtures
 
 Goal: establish the interfaces and evaluation boundaries before building agents.
 
-- [ ] **TASK-001 — Define `QueryUnderstanding` schema**
+- [x] **TASK-001 — Define `QueryUnderstanding` schema**
   - Fields: company, periods, period kind, statement scope, metrics, operation, missing information, ambiguity, confidence.
   - Acceptance:
     - schema validation tests,
     - explicit representation of inferred vs. explicit scope,
     - missing information is representable without fabricated defaults.
 
-- [ ] **TASK-002 — Define canonical `Plan` schema**
+- [x] **TASK-002 — Define canonical `Plan` schema**
   - Implement the canonical fields defined in `docs/ARCHITECTURE.md` and preserve the routing decisions in `docs/DECISIONS.md`.
   - Acceptance:
     - valid examples for LOOKUP / DERIVED_RATIO / MULTI_PERIOD / AGGREGATE,
     - invalid enum/field cases rejected,
-    - ROE example serializes correctly.
+    - ROE example serializes correctly under an explicitly registered test
+      formula and metric-table mappings; the production registry remains
+      ratio-free and rejects unregistered ROE (current M4/M6 v1 policy).
 
-- [ ] **TASK-003 — Define evidence contract**
+- [x] **TASK-003 — Define evidence contract**
   - Preserve report/table/period/scope and hierarchical row/column metadata where available.
   - Acceptance:
     - every selected value can be traced back to source metadata,
     - scale provenance accepts `HEADER`, `CELL`, `CAPTION`, `TEXT`, and `QUESTION`,
     - caption provenance round-trips without being collapsed into `TEXT`.
 
-- [ ] **TASK-004 — Define execution and verification result schemas**
+- [x] **TASK-004 — Define execution and verification result schemas**
   - Acceptance:
     - typed success/failure outcomes,
     - explicit failure category/reason.
 
-- [ ] **TASK-005 — Build evaluation harness skeleton**
+- [x] **TASK-005 — Build evaluation harness skeleton**
   - Separate stage-level and end-to-end evaluation.
   - Implement the canonical `EvaluationResult` contract defined in `docs/ARCHITECTURE.md`.
   - Modes:
@@ -71,7 +73,7 @@ Goal: establish the interfaces and evaluation boundaries before building agents.
 ---
 
 
-- [ ] **TASK-006 — Add reasoning-trace evaluation contracts**
+- [x] **TASK-006 — Add reasoning-trace evaluation contracts**
   - Implement the canonical `ReasoningEvaluationResult` and `TraceEquivalenceHook` contracts defined in `docs/ARCHITECTURE.md`.
   - execution accuracy,
   - program/trace accuracy,
@@ -79,7 +81,7 @@ Goal: establish the interfaces and evaluation boundaries before building agents.
   - normalized equivalence hooks for semantically equivalent programs.
   - Do not define Program or Answer schemas, thresholds, or aggregate metrics.
 
-- [ ] **TASK-007 — Add evaluation slices**
+- [x] **TASK-007 — Add evaluation slices**
   - Implement the canonical `EvaluationSlice` and `SlicedEvaluationResult` contracts defined in `docs/ARCHITECTURE.md`.
   - `TABLE`,
   - `TEXT`,
@@ -94,7 +96,7 @@ Goal: establish the interfaces and evaluation boundaries before building agents.
 
 Goal: turn Vietnamese questions into validated structured semantics.
 
-- [ ] **TASK-010 — Company/ticker resolver**
+- [x] **TASK-010 — Company/ticker resolver**
   - Support canonical resolution from aliases/tickers when uniquely known.
   - Implement the canonical company resolver contracts and normalization v1 defined in `docs/ARCHITECTURE.md`.
   - Do not use fuzzy matching, typo correction, substring guessing, or an LLM.
@@ -103,34 +105,34 @@ Goal: turn Vietnamese questions into validated structured semantics.
     - deterministic tests for aliases,
     - ambiguous alias does not silently select a ticker.
 
-- [ ] **TASK-011 — Temporal parser**
+- [x] **TASK-011 — Temporal parser**
   - Parse year, quarter, and cumulative-period expressions.
   - Implement the canonical deterministic v1 contracts and normalized values defined in `docs/ARCHITECTURE.md`.
   - Preserve exact matched text; incomplete/invalid expressions remain unresolved without nearby-text inference or an LLM.
   - Acceptance:
     - examples such as `năm 2015`, `quý 3/2015`, `lũy kế 9 tháng`.
 
-- [ ] **TASK-012 — Statement-scope resolver**
+- [x] **TASK-012 — Statement-scope resolver**
   - Resolve consolidated vs. standalone/company-parent scope.
   - Implement the canonical deterministic v1 contract and indicators defined in `docs/ARCHITECTURE.md`.
   - Do not default or infer scope for aggregated/unlabeled reports and do not use an LLM.
   - Acceptance:
     - explicit and inferred scope are distinguishable.
 
-- [ ] **TASK-013 — Financial metric normalization**
+- [x] **TASK-013 — Financial metric normalization**
   - Canonicalize Vietnamese synonyms.
   - Implement the canonical deterministic v1 metric contracts and exact normalization rules defined in `docs/ARCHITECTURE.md`.
   - Do not expand the initial registry beyond documented examples or use fuzzy/substring/LLM matching.
   - Example: `lãi ròng` / `LNST` / `lợi nhuận sau thuế`.
 
-- [ ] **TASK-014 — Operation detector**
+- [x] **TASK-014 — Operation detector**
   - Output: `none | ratio | growth | aggregate | compare | unknown`.
   - Implement the canonical deterministic v1 contracts, minimal indicator
     vocabulary, conflict handling, and documented growth override in
     `docs/ARCHITECTURE.md`.
   - Do not use fuzzy matching, typo correction, substring guessing, or an LLM.
 
-- [ ] **TASK-015 — Ambiguity and missing-information detector**
+- [x] **TASK-015 — Ambiguity and missing-information detector**
   - Implement the canonical `FindingName` and `PlanningGate` contracts in
     `docs/ARCHITECTURE.md` exactly.
   - Company, requested periods, and requested metrics are hard-required;
@@ -139,7 +141,7 @@ Goal: turn Vietnamese questions into validated structured semantics.
     - unresolved company/period/metric is surfaced,
     - no downstream plan when hard-required identity is missing.
 
-- [ ] **TASK-016 — NLU evaluation set**
+- [x] **TASK-016 — NLU evaluation set**
   - Implement the canonical case/result/field-comparison contracts in
     `docs/ARCHITECTURE.md`.
   - Use exact structural comparison for the seven approved semantic fields.
@@ -150,7 +152,7 @@ Goal: turn Vietnamese questions into validated structured semantics.
 
 ---
 
-- [ ] **TASK-017 — Requested scale/unit parser**
+- [x] **TASK-017 — Requested scale/unit parser**
   - Implement the canonical deterministic `RequestedScaleUnit` contract and v1
     mappings defined in `docs/ARCHITECTURE.md`.
   - Parse only explicit `nghìn`, `ngàn`, `triệu`, `tỷ`, `%`, and `phần trăm`
@@ -158,6 +160,61 @@ Goal: turn Vietnamese questions into validated structured semantics.
   - Keep `requested_unit` null; currency/unit vocabulary remains TBD.
   - Do not perform evidence-scale resolution or change `EvidenceItem.scale`.
   - Do not use fuzzy matching, typo correction, substring guessing, or an LLM.
+
+## M0/M1 completion audit — 2026-10-13
+
+All 15 M0/M1 tasks are complete against the current documented v1 contracts.
+Their implementations already existed; this audit closes stale checkboxes and
+adds the missing TASK-002 DERIVED_RATIO/ROE serialization proof. No production
+component, registry, model invocation, or public contract is added or changed.
+
+| Task | Existing implementation | Acceptance evidence |
+|---|---|---|
+| TASK-001 | `src/understanding/schemas.py` | `tests/understanding/test_schemas.py`: exact fields, nullable/missing identity, explicit/inferred scope, enum/confidence rejection, round-trip |
+| TASK-002 | `src/supervisor/schemas.py` | `tests/supervisor/test_schemas.py`: LOOKUP, MULTI_PERIOD, AGGREGATE, registered DERIVED_RATIO/ROE round-trip; invalid fields/registry rejection; production registries restored unchanged |
+| TASK-003 | `src/evidence/schemas.py` | `tests/evidence/test_schemas.py`: source report/table/period/scope and ordered paths; lossless numeric boundary; HEADER/CELL/CAPTION/TEXT/QUESTION provenance; CAPTION round-trip |
+| TASK-004 | `src/sandbox/schemas.py`, `src/verification/schemas.py` | `tests/sandbox/test_schemas.py`, `tests/verification/test_schemas.py`: typed success/failure outcomes, stage/code/message, category/reason and deterministic precedence; current M7/M8 contracts reused |
+| TASK-005 | `src/evaluation/harness.py` | `tests/evaluation/test_harness.py`: all five modes, exact failure stages, pass/fail invariants, separate stage/oracle/retrieved-E2E paths |
+| TASK-006 | `src/evaluation/reasoning.py` | `tests/evaluation/test_reasoning.py`: independent execution/trace/answer outcomes; exact-first equivalence hook, typed result validation, round-trip |
+| TASK-007 | `src/evaluation/slices.py` | `tests/evaluation/test_slices.py`: TABLE/TEXT/HYBRID, three reasoning depths, strict scale/unit-sensitive flag; HYBRID stays evaluation-only; nested contracts round-trip |
+| TASK-010 | `src/understanding/company_resolver.py` | `tests/understanding/test_company_resolver.py`: exact alias/ticker resolution, case/trim normalization, duplicate canonical deduplication, unresolved/ambiguous outcomes, no fuzzy guessing |
+| TASK-011 | `src/understanding/temporal_parser.py` | `tests/understanding/test_temporal_parser.py`: year/quarter/cumulative forms, exact raw spans/source order, longest non-overlap, incomplete/invalid values stay unresolved |
+| TASK-012 | `src/understanding/statement_scope_resolver.py` | `tests/understanding/test_statement_scope_resolver.py`: explicit scope overrides structured context, inferred flag, conflicting/null scopes, no hidden default |
+| TASK-013 | `src/understanding/metric_normalizer.py` | `tests/understanding/test_metric_normalizer.py`: approved exact synonyms, Unicode/case/whitespace normalization, distinct-metric ambiguity, no fuzzy/substring matching |
+| TASK-014 | `src/understanding/operation_detector.py` | `tests/understanding/test_operation_detector.py`: all six operations, empty/unknown vs none, exact indicators, growth override, other conflicts remain unknown |
+| TASK-015 | `src/understanding/planning_gate.py` | `tests/understanding/test_planning_gate.py`, `tests/supervisor/test_planner.py`: missing/ambiguous hard identities, canonical finding order, unknown-operation block, input immutability, blocked gate never produces a Plan |
+| TASK-016 | `src/evaluation/nlu.py`, `tests/evaluation/fixtures/nlu_v1.json` | `tests/evaluation/test_nlu.py`: three approved fixtures, exact seven-field comparisons, independent field mutations, excluded raw question/confidence/requested scale/unit, no evaluator normalization or LLM judge |
+| TASK-017 | `src/understanding/requested_scale_unit_parser.py` | `tests/understanding/test_requested_scale_unit_parser.py`: complete supported tokens/symbols, repeated/conflicting scales, normalized matching, requested_unit stays null, existing QueryUnderstanding fields reused |
+
+TASK-002 exercises real Plan validation with an isolated declarative TEST_ROE
+registry fixture and explicit LNST/equity mappings. Its 2015 profit and 2015/2014
+equity requirements are authored test inputs, not inferred by the Supervisor.
+Unregistered formulas are still rejected inside the fixture, and the unchanged
+production registry rejects the ROE payload. This proves the schema acceptance
+example; it does not register or execute a production ROE formula.
+
+Validation: the focused M0/M1 audit passes **200 tests and 191 subtests**.
+Supervisor fixtures 14/14, oracle reasoning 7/7, retrieved-E2E fixtures 12/12,
+and baseline fixtures 3/3 pass. Logs are `scratch_logs/m0-m1-audit-tests.txt`,
+`m0-m1-supervisor.json`, `m0-m1-oracle.json`, `m0-m1-e2e.json`, and
+`m0-m1-baseline-fixture.json`. Full repository regression reports **1091 passed,
+350 subtests passed, 2 skipped, and 2 existing failures** from the optional real
+500-vector v1 artifacts, which are incompatible with the current v2 contract.
+No test or compatibility check was weakened. Evidence:
+`scratch_logs/m0-m1-repository-pytest.txt`.
+
+The completion audit also round-trips all five scale-provenance sources and
+checks that all 15 task entries are marked complete while the production formula
+registry remains exactly GROWTH_RATE/AVERAGE. Its report and validation-log hashes
+are `scratch_logs/m0-m1-completion-audit.json`. At that audit boundary, eight
+roadmap tasks remained open: TASK-101 and TASK-120 through TASK-126. Their later
+completion is recorded in the M11 evidence below.
+
+Scope limits remain as documented: authoritative alias/vocabulary storage,
+extra temporal/operation forms, scope eligibility in PlanningGate, currency/unit
+parsing, and production NLU quality thresholds are deferred. TASK-016 fixtures
+verify comparison contracts; they do not establish raw-question NLU accuracy.
+No real-model or full-corpus evaluation is claimed for this contract audit.
 
 # M2 — Financial Evidence Normalization and Hierarchy
 
@@ -917,13 +974,30 @@ Do this only after the correctness baseline is measurable.
     the ignored `reindex-adr062/`. Persisted v2 hints equal query-time hints,
     and the pilot reaches the Programmer on them
     (`scratch_logs/task100-adr062-v2-evidence-replay.json`).
-  - [ ] Vector index for v2 corpus `7c14b549…` (ADR-063): reuse v1 vectors
+  - [x] Vector index for v2 corpus `7c14b549…` (ADR-063): reuse v1 vectors
     for the 99.6% unchanged chunks and embed only 7,300 changed table chunks
     (about 25 h on this host's CPU, or a GPU host with `--device cuda`). Then
     apply `reindex-adr062/version-bump.patch`, switch the live roots and rerun
     ADR-057 validation and TASK-100.
+  - Completed on RTX 3090, 2026-10-13: vector `f9cee82b…` is COMMITTED,
+    1,743,967 vectors / 18 shards, integrity PASS. The version bump is applied;
+    fresh validation and live runs use all five matching v2 roots. ADR-057
+    artifact/live checks PASS (`scratch_logs/adr063-production-validation.json`).
+    TASK-100 is re-measured at **1/3 (33.3%)**, `MEASURED`, `established=true`,
+    no blockers (`scratch_logs/task100-adr063-baseline.json`). AAA RIENG passes;
+    AAA HOP_NHAT and FPT HOP_NHAT stop at Programmer (AVERAGE arity and malformed
+    JSON respectively). Missing gold was recreated by a user-authorized agent
+    raw-source audit, not human review; the three curated cases do not establish
+    general retrieval quality or a release threshold. The full suite has two
+    failures from optional real v1 smoke artifacts; no checks were weakened.
 
-- [ ] **TASK-101 — Activate CHEAP routing for eligible simple cases**
+- [x] **TASK-101 — Activate CHEAP routing for eligible simple cases**
+  - `APIProgrammer` consumes `activated_model_tier`, supports separate serving
+    clients, and preserves required/explicit STRONG escalation and verify profile.
+  - Paired synthetic live measurements record quality, latency, actual tokens
+    and failure modes; a separate three-case real-report LOOKUP pilot also passes
+    3/3 in each mode. This deployment compares thinking presets on one endpoint;
+    it does not establish production quality or a two-model comparison. See M11.
 
 - [x] **TASK-102 — Confidence-gated retry and model escalation**
   - measure retry rate and quality gain.
@@ -1331,35 +1405,133 @@ later completed by M7 Batch 4;
 
 Goal: test whether prior successful/failure trajectories improve tool routing and reasoning without contaminating grounded inference.
 
-- [ ] **TASK-120 — Define memory-entry schema**
+- [x] **TASK-120 — Define memory-entry schema**
   - source question/context signature,
   - successful strategy findings,
   - failure-derived caution rules,
   - provenance.
 
-- [ ] **TASK-121 — Build offline memory distillation from train/dev trajectories**
+- [x] **TASK-121 — Build offline memory distillation from train/dev trajectories**
 
-- [ ] **TASK-122 — Build memory embedding/index**
+- [x] **TASK-122 — Build memory embedding/index**
 
-- [ ] **TASK-123 — Similarity-gated memory retrieval**
+- [x] **TASK-123 — Similarity-gated memory retrieval**
   - threshold,
   - top-k cap,
   - deduplication,
   - base-policy fallback.
 
-- [ ] **TASK-124 — Memory injection policy**
+- [x] **TASK-124 — Memory injection policy**
   - selected roles only,
   - memory cannot override evidence or validators.
 
-- [ ] **TASK-125 — Held-out evaluation isolation**
+- [x] **TASK-125 — Held-out evaluation isolation**
   - memory read-only,
   - no test/gold writes.
 
-- [ ] **TASK-126 — Memory ablation**
+- [x] **TASK-126 — Memory ablation**
   - base,
   - tools only,
   - tools + memory,
   - measure accuracy, retrieval quality, latency, and failure modes.
+
+## M11 / TASK-101 completion evidence — synthetic mechanism validation
+
+Scope was explicitly authorized by the user: use a separate synthetic TRAIN/DEV
+dataset and state that production quality is unmeasured. No existing gold/test
+answers or TASK-100 trajectories were used to distill memory. Memory remains
+disabled unless a calibrated `MemoryIndex` is supplied to `build_live_graph`.
+No dependency, additional generative call, or retry loop was added.
+
+| Task | Implementation and proof |
+|---|---|
+| TASK-101 | `src/orchestration/api_stages.py`, `live.py`: actual client/settings selection consumes existing activation; tests cover eligible CHEAP, forced STRONG, escalation, required STRONG, unchanged Plan/profile; paired live report measures both modes |
+| TASK-120 | `src/memory/schemas.py`: strict versioned STRATEGY/GUARD contracts, question/context signature, source/dataset/split/digest provenance; arbitrary text, hidden answer fields and incompatible specialized rules rejected |
+| TASK-121 | `src/memory/distillation.py`, `run_memory_build.py`: validated terminal TRAIN/DEV trajectories only; separate success/guard rules; held-out IDs/question hashes rejected; separate synthetic data published offline |
+| TASK-122 | `src/memory/index.py`: pinned BGE-M3/token guards, normalized 1024-dimensional vectors, immutable versioned artifact with embedding references/fingerprint/hash; real encoder build succeeds |
+| TASK-123 | DEV-calibrated cosine threshold; exact type/formula/metric/period-kind compatibility; content deduplication, hard cap three, irrelevant/unavailable base fallback; two-period strategy retrieves for three-period AVERAGE |
+| TASK-124 | Only Programmer receives fixed allowlisted advice within its existing call; payload/bindings unchanged; invalid placeholders still fail the same validator; embedding failure adds no generative call |
+| TASK-125 | TRAIN/DEV split and held-out overlap checks; inference exposes no writer; publication requires a new safe path, rejects gold/test and symlink aliases; evaluator cannot overwrite index; held-out index SHA unchanged |
+| TASK-126 | `src/evaluation/memory_experiment.py`, `run_memory_eval.py`: BASE/TOOLS_ONLY/TOOLS_MEMORY share grounded fixture evidence, real validator, OS sandbox and verifier; report includes accuracy, evidence coverage, latency percentiles, measured tokens, retries and failure codes |
+
+The synthetic-v2 dataset is `artifacts/m11-synthetic-v2/`: three TRAIN
+trajectories, four DEV examples, and four independently held-out questions.
+Its four-entry index has artifact ID
+`5734d2a2660e0faf7d04a7099d1a740c8fa40cb43951ddb128ea811d73482a07`.
+DEV min-positive cosine is **0.9892331299507086**, max-negative is
+**0.9818967904639953**, and threshold is **0.985564960207352**. DEV and held-out
+AVERAGE use three periods, while the training strategy uses two. This verifies
+context generalization rather than an identical-context lookup alone.
+
+Latest live measurements: `scratch_logs/m11-memory-live-trace-eval.json`.
+
+| Arm | Answers correct | Mean query latency | Prompt/completion tokens | Attempt failure codes |
+|---|---|---|---|---|
+| BASE | 4/4 | 11,047.78 ms | 5,267 / 7,561 | SERVING_RESPONSE_TRUNCATED ×1 |
+| TOOLS_ONLY | 4/4 | 3,957.10 ms | 4,302 / 2,546 | None |
+| TOOLS_MEMORY | 4/4 | 9,932.32 ms | 5,902 / 7,040 | SERVING_RESPONSE_TRUNCATED ×1 |
+
+Memory answer-accuracy delta is **0**, including the three advised cases.
+All final programs match the independently generated oracle after normalizing
+graph IDs; program-trace match rate is 1.0 in each arm, scored separately from
+answer accuracy. The preceding v2 run is preserved in
+`scratch_logs/m11-memory-live-v2-eval.json`: BASE 3/4, tools 4/4, memory 4/4.
+The comparison control received no advice but varied in retry behavior in that
+run. The recorded memory IDs are post-run retrieval diagnostics; injection
+behavior is separately verified by payload tests. These single, small, ordered
+runs do not establish a causal speed/quality benefit. The current measurement
+does not justify enabling memory by default.
+
+TASK-101 compares two eligible cases: routed CHEAP **2/2**, forced STRONG
+**1/2**; observed difference +0.5. Mean query latency is **1,832.95 ms** versus
+**17,137.16 ms**; completion tokens **458** versus **5,959**. Retries/escalation
+are included. Both use `deepseek-v4-flash` with disabled versus enabled/high
+thinking. This is a measured inference-setting comparison, not proof that CHEAP
+is generally more accurate or cheaper in money. Dollar costs remain null.
+
+A separate real-report TASK-101 pilot evaluates three source-audited LOOKUP
+questions: AAA consolidated, AAA separate, and FPT consolidated, all for 2023.
+The original TASK-100 set contains only AVERAGE questions and therefore has no
+CHEAP-eligible cases; its gold and artifacts remain unchanged. New lookup inputs
+are stored separately in `scratch_logs/task101-lookup-gold.jsonl`, with raw-source
+hash rechecks and source pointers in `task101-lookup-source-audit.json`. These
+agent-audited questions are not an official or human-reviewed benchmark and never
+enter memory distillation or calibration.
+
+The live checkpoint score is
+`scratch_logs/task101-real-lookup-routing-scored.json`: CHEAP **3/3** and STRONG
+**3/3**, quality delta **0**, final program-trace match rate **1.0** in each arm,
+and no attempt failures. Plans remain CHEAP/LIGHT in both arms; actual serving
+observations confirm disabled versus enabled/high thinking for Programmer.
+Prompt/completion tokens, including NLU, are **16,508/600** versus **16,583/1,731**.
+Observed mean end-to-end latency is **54,324.08 ms** versus **33,274.99 ms**.
+The sequential CHEAP-first run includes retrieval/storage warmup, so neither
+end-to-end latency nor this three-case sample establishes a causal speed benefit
+or broad production quality. The score parses gold scale through ExecutionDatum;
+the initial pilot script passed a string scale and was corrected by re-scoring
+the preserved checkpoints without repeating model calls. Raw run:
+`scratch_logs/task101-real-lookup-routing.json`. Capture and scoring scripts are
+`scratch_logs/run_task101_lookup_pilot.py` and `score_task101_lookup_pilot.py`.
+
+All arms have synthetic required-evidence coverage 1.0 because the evaluation
+supplies fixture evidence. Production Recall@k/MRR and production memory quality
+are explicitly unmeasured. Actual report latency includes the Programmer's
+memory embedding when advice is requested; encoder tokens/cost are not counted.
+Index file SHA-256 remains
+`259e3dc4ddfbd80b6f8e533fcc6f59fa4641aa452ccb186d452336f44bfc1794`
+before and after held-out evaluation.
+
+Validation: focused tests and final repository regression are recorded in
+`scratch_logs/m11-focused-final-tests.txt` and
+`scratch_logs/m11-final-repository-pytest.txt`: **1,111 passed, 350 subtests
+passed, 2 skipped, 2 existing failures**. The focused run passes **90 tests and
+11 subtests**. All **18 memory tests** pass, including
+program-trace comparison and protected synthetic dataset publication.
+Supervisor fixtures **14/14**,
+oracle reasoning **7/7**, E2E fixtures **12/12**, baseline fixtures **3/3** pass.
+Two existing optional real v1 retrieval artifacts still fail v2 compatibility;
+no test or validation was weakened. Completion audit and artifact/log hashes:
+`scratch_logs/m11-completion-audit.json`. Replay commands are in the README.
 
 # Recommended Implementation Order
 
@@ -1392,3 +1564,254 @@ M11 Selective Experience Memory (optional)
 ```
 
 The ordering deliberately keeps memory, semantic caching, and complex reflexive behavior out of the initial correctness path.
+
+
+### Programmer failure recovery (ADR-064)
+
+Implemented registry-derived formula input arity/order in the API prompt,
+strict truncation detection, typed Programmer rejection codes, and bounded
+Programmer-only retries using the existing attempt mechanism. Plan, evidence,
+validator, and sandbox contracts remain unchanged. No JSON repair is allowed.
+
+Validation: 194 Programmer/serving/orchestration tests pass. Supervisor fixtures
+14/14, oracle reasoning 7/7, E2E fixtures 12/12, and baseline fixtures 3/3 pass.
+The repository suite (`pytest tests -q`) reports 1081 passed, 2 skipped, and the
+two existing real 500-vector v1 fixture incompatibilities. Default `pytest -q`
+also collects the historical code snapshot under artifacts/reindex-adr062/code,
+which retains the former exception assertion and causes duplicate-module test
+collisions. These artifact fixtures and snapshots were not changed.
+
+TASK-100 rerun on the same frozen three-case gold and matching v2 corpus/vector/
+BM25/provenance/table-class roots is MEASURED, established=true, with no blockers:
+**2/3 correct (66.7%), previously 1/3 (33.3%)**. Both AAA cases pass on their first
+attempt. FPT executes valid Programs on all three attempts but STRICT verification
+rejects each with REPORT_YEAR_MISMATCH; its two retrieval retries originate from
+verification, not from Programmer. This grounding failure remains outside this
+Programmer/retry change.
+
+Recorded stage invocations (before and after): retrieval 5/5, Programmer 5/5,
+sandbox 3/5; NLU 3/3. These are port invocation counts inferred from complete
+checkpoints, not internal embedding/reranker HTTP request counts. All eight new
+generative responses finish with stop. Programmer completion token counts are
+1387, 762, 842, 1094, and 1045; no truncation was observed, so max_tokens stays
+4096. The live run exercises the prompt change; malformed/truncated response
+recovery is proved by deterministic tests, not claimed as an observed live event.
+
+Evidence: scratch_logs/task100-programmer-retry-live-e2e.json,
+task100-programmer-retry-live.stderr.txt, task100-programmer-retry-baseline.json,
+and task100-programmer-retry-comparison.json. Gold remains agent-audited, not
+human-reviewed; the three-case pilot does not establish production quality.
+Thresholds remain unset. Existing ADR-063 LIVE retrieval validation is reused
+for the identical immutable artifact IDs, not claimed as a new parity run.
+
+
+### FPT grounding repair (ADR-065)
+
+The raw 2022 consolidated LNST row includes the OCR-merged terminal heading
+`Phân bổ cho:`. Exact matching now removes that heading only when it terminates
+the label. Schema linking prefers already-retrieved exact matches from the
+requested report year; same-year duplicates remain ambiguous. With no same-year
+match, existing verification-driven retrieval retry remains intact. Mandatory
+report-year verification is unchanged.
+
+Regression proof: the new normalization and linking cases failed before the
+patch. The focused suite passes 388 tests plus 129 subtests; the complete current
+repository suite (`pytest tests -q`) passes 1089 tests plus 350 subtests, with
+2 skipped and the same 2 pre-existing v1 real-vector artifact incompatibilities.
+Supervisor fixtures 14/14, oracle reasoning 7/7, E2E fixtures 12/12, and baseline
+fixtures 3/3 pass. The same-year duplicate case is included in the complete suite.
+
+Recorded-real-evidence replay selects the original 2022 report cell and original
+2023 report cell, both matching the frozen gold source-cell IDs. Original raw
+labels and source paths remain intact. Evidence:
+`scratch_logs/fpt-grounding-evidence-replay.json`. This replay changes only the
+shared metric matching and schema linking; it is not a new full inference run.
+
+
+Fresh LIVE TASK-100 rerun on the same frozen gold and v2 artifact IDs:
+**3/3 correct (100%), previously 2/3 (66.7%)**. All three cases pass on their
+first attempt. FPT now cites the exact gold 2022 source cell from the 2022 report
+and the exact gold 2023 cell from the 2023 report; sandbox execution and STRICT
+verification pass, returning `7139696597042.5 RAW/VND`. Retrieval and Programmer
+port invocations fall from 5 each to 3 each; FPT uses one attempt instead of
+three. No verification check was relaxed. All six generative responses end with
+stop; completion token budget remains 4096.
+
+Evidence: scratch_logs/task100-fpt-grounding-live-e2e.json,
+task100-fpt-grounding-live.stderr.txt, task100-fpt-grounding-baseline.json,
+task100-fpt-grounding-comparison.json, and task100-fpt-grounding-provenance.json.
+The baseline is MEASURED, established=true, with zero blockers and no numeric
+acceptance threshold. Existing ADR-063 retrieval validation binds the same
+immutable artifacts; no new retrieval-parity run is claimed. The three-case,
+agent-audited gold remains a bounded pilot, not a production-quality benchmark.
+
+### Text-to-Pandas pipeline, repair, verification and live benchmark (ADR-069)
+
+- [x] Connect catalog/discovery/generator/validator/isolated executor/verifier
+  through `PandasPipeline.ask` and the opt-in `src.text_to_pandas.run` CLI.
+- [x] Bound code repair to two retries and preserve request, every completed
+  attempt and terminal response in a unique, append-only run directory.
+- [x] Verify exact source facts, provenance, source path/report year, raw numeric
+  parsing and scale, result unit/type, Decimal reference arithmetic and a
+  perturbed-source program execution. Reject unverified extra columns and
+  unsupported compound semantics. Monetary tolerance is four float ULPs with
+  an absolute 1e-12 floor. Security/resource/infrastructure failures do not retry.
+- [x] Add Text-to-Pandas tests, execute real DeepSeek demos and complete the
+  wide real-model benchmark before any default-routing change.
+
+Validation on this Linux instance: Python **3.12.14**, Pandas **2.3.3**, NumPy
+**2.5.3**. `pytest tests -q`: **1222 passed, 2 skipped, 373 subtests passed**.
+Focused Text-to-Pandas suite: **55 passed**. The existing Supervisor fixtures
+remain **14/14**, oracle reasoning **7/7**, E2E fixtures **12/12**, and baseline
+fixtures **3/3**. `requirements-test.txt` now declares the already installed
+Pandas version; its existing NumPy 2.4.6 pin is unchanged. This run does not
+claim a fresh installation of that complete pinned environment.
+
+The live benchmark completes all **140 frozen LNST gold cases + 17 negative
+controls**: **139/140 correct (99.2857%)**, **139/139 answered precision (100%)**,
+**0 wrong answers**, **0 negative false answers**, **0 runner errors**. One VJC
+growth case safely returns NO_DATA because the 2021 LNST row is absent from the
+catalog. Accuracy by operation is LOOKUP 60/60, GROWTH_RATE 39/40, AVERAGE 40/40.
+Sequential per-question latency: p50 **2.803 s**, p95 **3.302 s**, max **3.719 s**.
+Mean estimated LLM cost at the frozen ADR-066 peak rates: **$0.00207192/query**;
+p95 **$0.002434572**. Mean LLM calls across all 157 questions: **0.8917197**.
+Every ADR-066 threshold passes; verdict is **ACCEPTED**, run_complete=true.
+
+Gold source lists contain alternative cells for statement carry-over rows.
+The scorer now requires one cell from each independently audited period/source
+group, rather than all alternative IDs. All 12 initially flagged cases use the
+same audited reports and valid listed cells; gold files and thresholds were
+not changed. Group-coverage and missing-telemetry regressions cover the scorer.
+The legacy six UNSUPPORTED_METRIC negatives remain intact for M9; the separate
+Pandas negative set replaces them with market/subannual controls because the
+larger catalog now supports their metrics.
+
+Real lookup and ROE demos execute generated Pandas in the worker. The initial
+lookup demo observes a real EVIDENCE_SHAPE rejection followed by successful
+code repair; both attempts are retained. The final-current-code ROE demo returns
+**5.0958778273483025 PERCENT**, with source and program checks passing.
+Truncated-response recovery is proven by a regression test, not claimed as a
+live event. A later tolerance/schema tightening and truncation-code correction
+do not alter any recorded successful answer: all **157** recorded live cases
+are re-executed under the current code and match status/reason/result/unit/source
+output. This replay makes no new LLM, cost or latency claim. The full live run's
+original source fingerprint is retained separately from the current replay's.
+
+Evidence:
+
+- `scratch_logs/t2p-wide-live.json`, `t2p-wide-benchmark.json`, `t2p-wide-history/`;
+- `scratch_logs/t2p-final-live-demo.json`, `t2p-live-demo-lookup.json`, `t2p-history/`;
+- `scratch_logs/t2p-current-code-replay.json`, `t2p-replay-history/`;
+- `scratch_logs/t2p-final-verified-repository-pytest.txt`,
+  `t2p-verified-focused-pytest.txt`, `t2p-component-prepatch-tests.txt`,
+  `t2p-verifier-prepatch.txt`;
+- `scratch_logs/t2p-supervisor.json`, `t2p-oracle.json`, `t2p-e2e.json`,
+  `t2p-baseline.json`, `t2p-completion-audit.json`.
+
+Default M9 routing remains unchanged. The accepted benchmark covers LNST annual
+questions, not broad production quality for every catalog metric/ratio. Gold is
+agent-built and cross-year checked, not human-reviewed. The pinned production
+NsJail config is present, but no live production NsJail deployment or load test
+is claimed by this work.
+
+### Broad gold, sandbox load and fresh pinned environments (ADR-070)
+
+- [x] Finish live CLI `--concurrency`, preserve unique request histories and
+  locked atomic report writes, record wall time, reject mixed-concurrency
+  resume and detect source changes after the final in-flight request.
+- [x] Run the four sandbox matrices sequentially at 1,8,16,32,64: local and
+  namespace-free NsJail, each as root and `sbxload`. Every level at or below 16
+  passes; no wrong benign result or escaped/misclassified abuse is observed.
+- [x] Run 158 broad questions at concurrency 8, score unchanged gold and compare
+  every question/history with the sequential measurement. Zero cross-request
+  violations; 156/158 status agreement, 157/158 exact result agreement and
+  106/106 jointly answered result agreement. Wall time 64.277 s; estimated
+  sequential span 480.264 s, estimated speedup 7.472x.
+- [x] Recreate empty-cache pinned environments at final source: Python 3.12.3
+  and 3.11.16 each pass 1,243 tests, 373 subtests, with two skips. All five
+  fixture outputs are byte-identical between versions.
+- [x] Document the NsJail 3.4 profile/seccomp/UID fixes and the three current
+  fingerprints; retain full production namespace/cgroup validation as a
+  deployment gate rather than claiming it from reduced profiles.
+- [x] Investigate VSF 2022 LNST against hash-verified raw tables and extraction
+  replay. Page-3 code-less management summary and page-14 primary line 60 have
+  the same value; first-occurrence dedup keeps the summary and clears the
+  primary row's metric. Verifier arithmetic passes against that catalog choice.
+  Evidence: `scratch_logs/t2p-vsf-2022-grounding-investigation.json`.
+- [x] Resolve the root NsJail-wrapper gate at 64 (ADR-071): the harness now
+  waits up to 5 s for threads/children/descriptors/temp dirs to return to
+  baseline and reports both end-of-level and settled values. A full root
+  wrapped rerun passes with zero residual resources at every level end; the
+  thread observation did not reproduce. Wrapped M7 at 64 still has 7/128
+  WALL_CLOCK_TIMEOUT (p95 1,737 ms), so the per-host M7 ceiling under NsJail
+  stays 32 concurrent workers. Evidence: `sandbox-load-nsjail-root-settle.json`.
+- [x] Pass the broad quality gates on new held-out gold after fixes (ADR-071):
+  `gold/broad-h2` (seed 20261015, no unit shared with `gold/broad`) scores
+  **137/140 ACCEPTED** sequentially with catalog v2, zero wrong answers and zero
+  negative false answers. Before the fixes, `gold/broad` scored 105/140 and
+  106/140 (NOT_ACCEPTED); after them it scores 133/140 at concurrency 8, but that
+  set was used to find the gaps and is reference only.
+- [ ] Validate the full production NsJail profiles on a host with namespaces,
+  writable cgroup v2 and the required Python/Pandas/NumPy runtime under `/usr`.
+- [x] Repair equal-value catalog provenance selection (ADR-071): agreeing
+  repeats keep the first coded row; conflicts and code-less bank layouts are
+  unchanged. `artifacts/t2p-catalog-v2` moves exactly five VSF LNST facts to
+  their line-60 cells with zero value, row or coverage changes.
+
+Focused Text-to-Pandas validation: 62 tests pass. Fresh pinned fixtures remain
+Supervisor 14/14, reasoning 7/7, E2E 12/12 and baseline 3/3; retrieval 8/12
+contains four deliberate failure-attribution controls. The preceding ADR-069
+LNST benchmark remains historical evidence, not a broad production claim.
+
+Evidence: `scratch_logs/sandbox-load-matrix-summary.json`,
+`scratch_logs/t2p-broad-concurrency-comparison.json`,
+`scratch_logs/t2p-broad-benchmark-c8.json`, `scratch_logs/fresh-pinned-env/`.
+
+### Production gates, catalog v3, platforms, providers and service (ADR-072)
+
+- [x] Root-cause and fix the remaining catalog gaps (SSI, HHV, VIF, PNJ, plus MSN,
+  DTK and bank statements found on the development split); rebuild as
+  `artifacts/t2p-catalog-v4` with zero changed values against v2 and every
+  earlier gold component still matching.
+- [x] Build `gold/production-v1`: four splits of 127 positives + 20 must-refuse
+  controls (dev, holdout, holdout2, holdout3 with LLM-paraphrased wording); no split
+  shares a report with another or with earlier gold; each holdout frozen before use.
+- [x] Score holdout once (104/127) and holdout2 once (104/127): all misses safe
+  abstentions on unseen wording, zero wrong answers. Fix from each scored holdout
+  (now development data): 127/127 and 126/126.
+- [x] Gold QA (`src/evaluation/gold_qa.py`): one defect in 508 cases, excluded alike.
+- [x] Add the production gate (`src/evaluation/production_gate.py`): accuracy and
+  per-group accuracy, code execution success, provenance, refusals, security,
+  stability, API reliability, capacity and human review; missing evidence blocks.
+- [x] Configure LLM providers in `deploy/llm/providers.toml` (OpenAI-compatible and
+  Anthropic Messages protocols, eleven entries) and select one with `--provider`.
+- [x] One sandbox configuration for Linux, macOS and Windows (`deploy/sandbox/sandbox.toml`):
+  host-OS local boundaries, `container-v1` on any OS, admission caps (M7 ≤ 32
+  under NsJail) and a CI matrix.
+- [x] Question API with SLOs, Prometheus metrics, alert rules, canary releases and
+  automatic/manual rollback, exercised by a reliability drill.
+- [x] Security: 27 canary probes, 0 escapes (local and reduced NsJail). Capacity:
+  64 offered M7 under the 32 cap 128/128 (uncapped 2/128 timeouts). Stress 1–64 and a
+  30-minute soak (26,611 requests) pass with flat drained-checkpoint resources.
+  API drill 20/20. `pytest tests`: 1369 passed, 2 skipped.
+- [x] Score holdout3 once: 122/127 (96.1%), every group ≥90%, execution 99.2%,
+  provenance 100%, zero wrong answers, 20/20 refusals. Gate 8/9 PASS.
+- [ ] Human review of all 254 cases (review page and CLI ready; needs people).
+- [ ] Full NsJail profile (namespaces, cgroup v2) and the macOS/Windows CI matrix
+  on capable hosts; live measurement of providers other than DeepSeek.
+
+Evidence: `scratch_logs/goal-production/PROGRESS.md` and the files it lists;
+gate reports `production-gate-holdout1.json`, `production-gate-holdout2.json`,
+`production-gate-v3.json` (holdout3, final).
+
+### Browser UI over the question API (ADR-073)
+
+- [x] Serve a dependency-free chat UI (`src/service/web/`) at `/` with a fixed static
+  map and a strict CSP: sidebar (sessions, catalog coverage, token), chat stream
+  (all five statuses with their follow-up actions), detail canvas (result table with
+  search, unit switch and CSV export; sources grouped by report; code).
+- [x] Add `GET /v1/catalog`, `statement` on public sources and the opt-in `program`
+  (`AIFIN_EXPOSE_PROGRAM=1`); tests in `tests/service/test_service.py`.
+- [x] Check in a browser against catalog v4 with a replay release: desktop, dark mode
+  and 390 px width, no console errors, no horizontal overflow.
+

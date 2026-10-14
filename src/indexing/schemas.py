@@ -15,8 +15,8 @@ from src.understanding.schemas import SchemaValidationError, StatementScope
 
 
 M2A_SCHEMA_VERSION = "m2a.v1"
-NORMALIZATION_VERSION = "m2a-normalization-v1"
-REPRESENTATION_VERSION = "m2a-representation-v1"
+NORMALIZATION_VERSION = "m2a-normalization-v2"
+REPRESENTATION_VERSION = "m2a-representation-v2"
 
 
 class IssueSeverity(str, Enum):

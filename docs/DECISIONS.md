@@ -717,6 +717,9 @@ Cache use requires similarity thresholds, cache-versioning, invalidation rules, 
 
 **Status:** Deferred for post-v1, design accepted
 
+Implemented as opt-in M11 under ADR-067. The original post-v1 decision below
+remains the policy basis; the mandatory v1 path still does not require memory.
+
 ### Decision
 
 If cross-episode memory is introduced, store:
@@ -2809,8 +2812,8 @@ embeddings, vector index, BM25 and both sidecars, which needs the GPU host.
 
 ## ADR-063 — Reuse vectors of byte-identical chunk content when rebuilding the vector index
 
-Status: implemented 2026-10-11 (`src/indexing/vector_reuse.py`); not yet run on
-real data.
+Status: implemented 2026-10-11 (`src/indexing/vector_reuse.py`); real v2 vector
+build and ADR-057 validation completed on RTX 3090 on 2026-10-13.
 
 ### Context
 
@@ -2851,3 +2854,767 @@ they are.
 - Builder quirk found: `--resume` on a first run fails with
   `CHECKPOINT_INVALID`, because staging is created before the checkpoint check.
   Use `--resume` only to continue an interrupted run.
+
+### Real v2 build and validation (2026-10-13)
+
+- Resumed the compatible 100,000-vector checkpoint on RTX 3090 24 GiB, using
+  the pinned CUDA encoder and committed v1 vectors for identical content.
+  Published vector artifact
+  `f9cee82be944e3eaef01294c3e9d26d7399b33fdb986f8920e4fd8af8f0cb707`:
+  `COMMITTED`, 1,743,967 vectors, 18 shards, 1,743,967 SQLite rows, integrity
+  PASS (`scratch_logs/task100-adr063-vector-build-cuda.json`).
+- Applied `version-bump.patch` to the main source tree. Validation and live M9
+  invocations use the matching v2 corpus/vector/BM25/provenance/table-class
+  roots recorded in `scratch_logs/adr063-live-artifacts.json`. No v1 artifact
+  was overwritten.
+- Fresh ADR-057 artifact and LIVE embedding/reranker parity checks PASS;
+  `clears_gpu_pending=true`. The existing smoke function used existing CUDA
+  HTTP adapters, top-k 10 and the unchanged 30-second timeout: 4 queries,
+  byte-identical repeated results, zero crashes/timeouts. Evidence:
+  `scratch_logs/adr063-production-validation.json` and
+  `scratch_logs/adr063-retrieval-served-smoke.json`. Recall@k/MRR was not measured.
+- Recreated the missing three-case AVERAGE/LNST gold under user authorization.
+  Raw annual row 60, headers, scope, VND, exact source cells and the 2023
+  comparative values were audited independently of inference; Decimal
+  computes the answers. All 1,973 downloaded raw reports match canonical
+  hashes. Gold validation has zero errors/warnings. The gold is agent-audited,
+  **not human-reviewed or an official benchmark**; provenance records this in
+  `gold/retrieval/strong-strict-source-audit.json`. The singleton `gold.period`
+  is null for these two-period questions; the audit preserves both years.
+- TASK-100 fresh live runs, scored against matching ADR-057 evidence, are
+  `MEASURED`, `established=true`, no blockers, accuracy **1/3 (33.3%)**.
+  AAA RIENG passes execution, STRICT verification and grounding, returning
+  `99031536285 RAW/VND`. AAA HOP_NHAT stops at Programmer with
+  `FORMULA_ARITY_MISMATCH: AVERAGE received 1 refs`; FPT HOP_NHAT exhausts
+  bounded attempts with malformed Programmer JSON (`Unterminated string`).
+  Evidence: `scratch_logs/task100-adr063-live-e2e.json` and
+  `scratch_logs/task100-adr063-baseline.json`. Acceptance thresholds remain
+  unset; this measurement does not establish release quality.
+- Regression: 2,138 tests pass, 6 skip, 2 fail because optional on-disk real
+  500-vector fixtures still declare v1 and are rejected by the v2 contract.
+  No validation was relaxed. Supervisor fixtures 14/14, oracle 7/7,
+  E2E fixtures 12/12 and baseline fixtures 3/3 pass.
+
+
+## ADR-064 — Preserve Programmer failure codes and retry at the Programmer stage
+
+**Status:** Implemented; validation results recorded in TASKS.md.
+
+APIProgrammer returns rejected results for malformed JSON, serving failures,
+and invalid proposals instead of losing their codes as PROGRAMMER_STAGE_FAILED.
+The serving client checks finish_reason before returning content: length is
+SERVING_RESPONSE_TRUNCATED, distinct from PROGRAMMER_JSON_INVALID. It records
+token usage and finish reason without logging prompt or answer content.
+
+The existing registry supplies formula input order and arity to the prompt.
+AVERAGE receives scalar references directly. The validator remains authoritative;
+no missing input is invented and no malformed proposal is repaired.
+
+Repairable Programmer rejections use the existing stage-specific attempt
+projection and shared Plan.max_retries budget. Evidence, bindings and Plan stay
+fixed. Unknown and permanent contract failures abstain. No new LLM call outside
+the existing bounded attempt mechanism, contract field, validator bypass, or
+sandbox change is introduced. The 4096-token budget remains unchanged pending
+actual truncation evidence.
+
+
+## ADR-065 — Recover OCR-merged profit labels and prefer the requested report year
+
+**Status:** Implemented; validation recorded in TASKS.md.
+
+### Cause
+
+FPT's raw consolidated 2022 income-statement row 60 labels the total as
+`Lợi nhuận sau thuế TNDN (60 = 50 - 51 - 52) Phân bổ cho:`. The allocation
+heading is merged into the total row. Exact metric matching misses it, while
+the 2023 report's comparative column matches LNST/2022. TASK-080 correctly
+rejects that later report with REPORT_YEAR_MISMATCH. All three previous FPT
+attempts show this same failure. The original 2022 value agrees with the 2023
+comparative value and the independently frozen gold source audit.
+
+### Decision
+
+The shared statement-label normalizer removes only an exact terminal allocation
+heading before applying its existing ordinal/parenthetical rules. It does not
+strip allocation text after the heading, broaden company-mother profit into
+total profit, change raw source labels, or flatten header paths.
+
+Within already-retrieved exact schema matches, prefer copied report_year equal
+to the requirement period's year. Multiple same-year matches remain ambiguous.
+When none exists, retain previous linking behavior so mandatory grounding
+verification produces the original failure and its targeted retrieval retry.
+An early hard rejection would break that existing recovery mechanism.
+
+No Plan, evidence, numeric binding, Program, sandbox, verifier, retry budget,
+retrieval filter, model call, artifact, or registry synonym contract changes.
+Report identity and period identity remain separate, and the current same-year
+TASK-030/TASK-080 policy remains enforced. No FPT-specific ID or answer is
+embedded in production logic.
+
+
+## ADR-066 — Wide real-data LNST evaluation and v1 acceptance thresholds
+
+**Status:** Accepted 2026-10-13 under the user's goal "đánh giá diện rộng trên
+dữ liệu tài chính thật; chốt ngưỡng nghiệm thu chất lượng, độ trễ, chi phí".
+Thresholds were fixed in `src/evaluation/wide_eval.py` before the first wide run.
+
+### Gold
+
+`src/evaluation/wide_gold.py` builds `gold/wide/` deterministically (seed
+20261013) from the raw ViFinQA annual statements, never from pipeline output:
+
+- value = the LNST total row: TT200 `Mã số 60`, or the bank template's Roman
+  numeral `Lợi nhuận sau thuế` line, read from raw HTML;
+- current/prior columns oriented by year or `Năm nay`/`Năm trước` headers;
+- unit from the table header or nearest `Đơn vị` note (RAW / THOUSAND / MILLION),
+  gold stored in RAW VND (GROWTH as PERCENT);
+- report-year value accepted only when the next report's prior-year column
+  agrees (restated values are skipped, not guessed); restatement tables and
+  partial-period tables are skipped; conflicting duplicate rows are skipped;
+- the three-case STRONG/STRICT pilot is held out.
+
+The v1 registry supports only LNST with LOOKUP / GROWTH_RATE / AVERAGE, so the
+in-scope set is LNST-only: 140 cases (60 LOOKUP, 40 GROWTH_RATE, 40 AVERAGE)
+over 75 tickers, including 30 bank-template and 41 MILLION/THOUSAND source
+values. A separate 17-question expected-non-answer set covers unsupported
+metrics, missing period, missing scope (only where both scopes exist),
+unknown companies and periods outside the corpus. The set is agent-built and
+cross-checked, not human-reviewed; `wide-lnst-audit.json` records every raw
+source row and the confirming next-report value.
+
+### Acceptance thresholds (v1 release gate)
+
+| Group | Metric | Threshold |
+|---|---|---|
+| Quality | answer accuracy (value + unit + grounding + verification, all in-scope cases) | ≥ 0.85 |
+| Quality | lowest per-operation accuracy | ≥ 0.75 |
+| Quality | answered precision (correct / PASS answers) | ≥ 0.98 |
+| Quality | wrong-answer rate (answered but wrong / in-scope cases) | ≤ 0.02 |
+| Quality | expected-non-answer questions answered | 0 |
+| Quality | runner errors | 0 |
+| Latency | end-to-end p50 / p95 / max per question (sequential) | ≤ 20 s / 45 s / 120 s |
+| Cost | mean / p95 LLM cost per question at DeepSeek Flash peak prices | ≤ $0.01 / $0.02 |
+| Cost | mean LLM calls per question | ≤ 4 |
+
+Rationale: a financial assistant must prefer abstention to a wrong number, so
+precision and wrong-answer rate are the hardest gates; accuracy measures useful
+coverage. Latency targets an interactive analyst tool and excludes the one-time
+graph/artifact start-up. Cost uses peak prices (cache hits counted at their
+price) so off-peak can only be cheaper. Accuracy is reported with a Wilson 95%
+interval; the gate uses the point estimate. The verdict is ACCEPTED only when
+every threshold holds. Thresholds change only through a new ADR, never to fit
+a run.
+
+
+## ADR-067 — Wire served tier routing and bounded optional experience memory
+
+**Status:** Implemented under the user's TASK-101/120–126 request; synthetic
+mechanism validation complete. Production memory quality remains unmeasured.
+
+APIProgrammer consumes the existing activated_model_tier decision for eligible
+initial CHEAP calls and preserves explicit STRONG escalation. Separate serving
+clients may be supplied per tier; the existing single-client deployment remains
+supported using its CHEAP/STRONG inference settings. Plan and verification
+profile do not change. Paired experiments measure answer/program validity,
+latency, token usage and failure distribution; unpriced monetary costs stay null.
+
+Implement M11 as offline TRAIN/DEV-only distillation of allowlisted strategy and
+guard rules plus an immutable, DEV-calibrated BGE-M3 vector index. Source-question
+and trajectory hashes preserve provenance without retaining answers or raw
+numeric evidence. Only Programmer receives advice, within its existing call.
+No advice overrides structured contracts or deterministic execution controls.
+
+The user explicitly chose separate synthetic train/dev data for mechanism
+validation. Held-out inputs never write memory and remain disjoint by IDs and
+question hashes. Synthetic accuracy and relevance calibration are not production
+quality evidence. BASE/tools/tools+memory ablation retains mandatory validation,
+OS execution and verification in every arm. No free-form arithmetic baseline or
+unbounded self-reflection loop is introduced. Memory remains opt-in.
+
+The published synthetic-v2 index contains four entries from three TRAIN
+trajectories and uses four disjoint DEV examples. BGE-M3 calibration separates
+min-positive cosine 0.9892331299507086 from max-negative 0.9818967904639953,
+with threshold 0.985564960207352. A two-period AVERAGE strategy transfers to
+three-period DEV/held-out contexts without changing the registry or bindings.
+
+Latest live held-out ablation reports BASE 4/4, TOOLS_ONLY 4/4, TOOLS_MEMORY 4/4;
+memory accuracy delta is zero, and observed mean latency is higher with memory.
+All final program traces match the independently generated oracle after graph-ID
+normalization. The preceding v2 run had BASE 3/4 and an unadvised comparison
+control that varied in retry behavior. Both reports are retained. These four
+cases provide no causal benefit claim or production retrieval measurement.
+Paired tier measurements use one DeepSeek endpoint with different thinking
+settings, not two separately deployed models. Token counts and latency are
+observed; monetary costs remain null because pricing was not supplied.
+
+TASK-101 additionally checks three separately source-audited real-report
+LOOKUP cases without memory. Both serving modes answer 3/3 and produce oracle-
+equivalent final programs; quality delta is zero. Completion tokens are 600
+versus 1,731, including NLU. CHEAP-first sequential timing includes storage and
+retrieval warmup and is not a causal latency comparison. Report:
+`scratch_logs/task101-real-lookup-routing-scored.json`. Broad production quality
+remains unmeasured; the original TASK-100 AVERAGE gold is unchanged.
+
+Validation and task-by-task evidence: `docs/TASKS.md`, M11 completion evidence;
+raw report: `scratch_logs/m11-memory-live-trace-eval.json`. Optional v1 retrieval
+artifact failures remain visible in the full regression; no checks were weakened.
+
+
+## ADR-068 — Make real-statement layouts reachable: OCR-tolerant table class, VAS header variants, positional record reads
+
+**Status:** Implemented 2026-10-13 after the first ADR-066 wide-run cases failed
+at the evidence stage; validation recorded in TASKS.md.
+
+### Cause
+
+The first wide-run questions all abstained although NLU, planning and the
+retrieval filter were correct:
+
+- `TABLE_CLASS_UNAVAILABLE` (GAS 2017, BSR 2019): the right LNST cell was found
+  but its income statement had no table class. The sidecar matched statement
+  titles literally and OCR corrupts tone marks ("KẾT QUÀ", "KÊT", "HOAT ĐÔNG"),
+  writes form codes with spaces ("B 02 – DN/HN"), and bank (Thông tư 49) forms
+  ("B03/TCTD", "Báo cáo kết quả hoạt động riêng/hợp nhất") were not registered.
+  34 of 209 wide-gold tables had no class.
+- `EVIDENCE_INCOMPLETE` (PRT 2023): the cell was found but its "Năm 2023 / VND"
+  column did not name a period; only "2023", "2023 VND" and "Năm nay" did.
+- `EVIDENCE_INCOMPLETE` (EIB 2023): header inference recovered no structure for
+  the bank layout (a leading STT column mixing "1" and "XIII"), so the chunk is a
+  flat cell list. 21 of 209 wide-gold tables were flat for related reasons:
+  OCR-joined "Mãsố"/"Thuyếtminh"/"2020VND", "Mã"/"TM"/"STT" or merged
+  "Mã số Thuyết minh" headers, "18.1" ordinals, and one misaligned EPS row that
+  made the whole table unrecoverable.
+- Latency: `EvidenceProvenanceRepository.preload` and `CorpusChunkLookup` scanned
+  and re-validated the full 1.74M-record corpus per question (52–198 s/question).
+
+### Decision
+
+- Table-class registry v2: titles and codes match case- and diacritic-insensitively
+  (one-for-one folding, so spans still index raw text); codes are written
+  "B 02-DN" so the zero-width gap also accepts spaced forms; TT49 codes
+  B02–B05/TCTD and the bank income-statement titles are registered. The
+  conflicting-classes-means-no-hint rule is unchanged. On a 150-report sample no
+  hint changed class; hints lost were mostly notes tables previously mislabelled
+  through OCR-corrupted notes headers. Rebuilt artifact
+  `cfde11f8…3ca3aa3` (71,768 hints, was 54,173); wide-gold coverage 209/209.
+- Query-time `path_periods` also reads "Năm YYYY", "Năm tài chính YYYY" and
+  "YYYY Triệu/nghìn đồng" year headers. The indexing period grammar accepts the
+  VND-family "YYYY Triệu đồng" / "YYYY nghìn VND" / OCR-joined "2020VND"; "Năm 2024"
+  and other currencies stay rejected there.
+- Header inference label-column rule: label-column headers compare without
+  whitespace and include "Mã", "TM", "STT" and the merged "Mã số Thuyết minh"; a
+  first column of only line ordinals ("1", "18.1", "XIII") is a label column; rows
+  off a dominant (≥ 90 %) row-header width are left unstructured instead of
+  discarding the table. When a table has label columns, this rule replaces the
+  generic one if the generic rule recovers nothing consistent or fewer rows (it
+  drops lines whose labels carry formulas such as "(60=50-51-52)" — exactly the
+  LNST line — and reads VAS codes as data).
+- The statement-label normalizer also removes OCR-merged "Trong đó:" headings
+  (as ADR-065 does for "Phân bổ cho:"), page carry-over notes ("(mang/chuyển sang
+  trang sau)", "(mang sang từ trang trước)"), OCR math delimiters "\(" "\)",
+  nested trailing parentheticals ("(60=50-(51+52))"), dot-less ordinals ("18 ")
+  and a "Tổng" prefix on the "lợi nhuận sau thuế" line. The metric registry and
+  its synonyms are unchanged.
+- Query-time year headers also read "Năm nay VND" and "(Cho) năm (tài chính) kết
+  thúc ngày 31 tháng 12 năm YYYY". Table unit hints accept a unit glued to its
+  year ("Năm 2022VND", "2016Triệu VND") or after "Năm nay"/"Năm trước"; unit
+  declarations accept OCR "Đơn vi tính".
+- Measured on every wide-gold source cell with query-time evidence: metric,
+  period and unit hint all resolve for 201 of 209 tables (176 after only the
+  first round of these changes). The remaining 8: a September fiscal year end (HSG, 4), units glued to
+  following words (2), and two OCR-broken headers.
+- Schema linking (narrows ADR-065): several valid same-year matches that come
+  from one report and carry the identical parsed value are one reported figure
+  (a statement continued across pages repeats its LNST line, a note restates it),
+  so the income-statement cell, then the fullest table (most located cells — the
+  statement itself), then the lowest evidence ID, is chosen. Matches with
+  different values, or from different reports, stay AMBIGUOUS.
+- Table-class gate: only TABLE evidence whose source-backed class is one the Plan
+  requires may satisfy a requirement and flow on to scale resolution, linking and
+  masking. A same-value note table without a class no longer vetoes the classified
+  statement cell; when no eligible evidence remains, the original
+  TABLE_CLASS_UNAVAILABLE / TABLE_CLASS_MISMATCH failure is raised as before.
+- Sandbox: the requested output scale/unit applies to the answer. An intermediate
+  IDENTITY/COLLECT step feeding a formula keeps its source scale (AVERAGE and
+  GROWTH_RATE honour the request themselves), so "tăng trưởng bao nhiêu %" no
+  longer tries to convert VND inputs to PERCENT.
+- A currency followed by "/" ("VND/cổ phiếu" on the EPS line) is a rate, not the
+  table's amount unit, and yields no scale hint (it made every bank statement with
+  "Triệu VND" columns AMBIGUOUS). A declared unit glued to the next year header
+  ("Đơn vị tính: VNDNăm 2020") is read.
+- The temporal parser no longer reads the adjective "quý" in fixed noun phrases
+  ("Vàng bạc Đá quý Phú Nhuận", "kim loại quý", "quý khách/cổ đông/công ty",
+  "quý giá/báu") as an unnumbered quarter; a bare "quý" still requires
+  clarification.
+- GROWTH_RATE periods are planned in chronological order. The formula consumes
+  (previous, current) and the validator requires Plan requirement order, so the
+  natural wording "năm 2024 so với năm 2023" made every growth question fail with
+  FORMULA_INPUT_ORDER_MISMATCH after exhausting Programmer retries. Plan fields
+  are unchanged; AVERAGE keeps question order.
+- `CorpusRecordLocator` reads selected records by the shard/line position the
+  committed M2B vector metadata stores, re-validating each line exactly as a
+  full pass does (`parse_input_record`, now shared with `_iter_input_records`)
+  and requiring equal chunk and representation IDs. The live graph uses it for
+  both lookups; without vector metadata the full pass remains.
+
+### Consequences
+
+- The corpus, vector and BM25 artifacts are not rebuilt: their chunks for the
+  previously flat tables stay flat, so retrieval of those tables relies on their
+  flat text (the EIB 2023 bank statement is not retrieved). A future re-index
+  with these header rules is the fix; ADR-063 vector reuse keeps it cheap.
+- No Plan, evidence, verification, retry or model contract changes.
+
+## ADR-069 — Opt-in Text-to-Pandas pipeline with independent verification
+
+**Status:** Implemented for the user-requested Text-to-Pandas work. Default
+orchestration remains M9 until the new path passes measured acceptance gates.
+
+The new path uses the existing catalog builder, deterministic question discovery,
+`PandasCodeGenerator`, AST validator and isolated Pandas worker. `PandasPipeline.ask`
+connects these components into a Python API. `src.text_to_pandas.run` exposes the
+same API as a CLI for real-model demos and resumable benchmarks. No new HTTP
+service, dependency, model call for verification or symbolic DSL is added.
+
+Generated Python is limited to the approved DataFrame namespace, validated
+before execution and again inside a fresh worker. The parent never executes
+generated code. The existing M7 process/environment/resource boundary is reused;
+production Linux uses the separate pinned `t2p-nsjail.cfg`. Local process tests
+do not establish NsJail production deployment readiness.
+
+Verification independently selects the requested facts from the catalog. It
+checks exact, unmodified evidence rows, report/cell provenance, source path year,
+raw numeric parsing and scale, output unit/type and Decimal reference arithmetic.
+ROE/ROA require prior-year opening balances. Growth and average use existing
+FormulaRegistry semantics; ratios use the shared `src.formulas.ratios` definitions.
+A second isolated execution with perturbed source values checks the generated
+program against the reference again, catching constants and coincidental correct
+answers. This adds one sandbox invocation, no LLM call, to successful attempts.
+One perturbation is a regression guard, not a proof for arbitrary Python.
+
+Repair is bounded to two retries (three generations total). Validation, ordinary
+runtime and verification feedback can repair code; security/resource/infrastructure
+failures do not cause open-ended recovery. An independent missing input or zero
+denominator yields NO_DATA. Unknown semantics fail closed. Explicit report scope
+is required. Supported verification includes named metrics, one ratio, two-period
+growth, mean/sum, keyed comparisons/time series and single-year rankings. Mixed
+units, threshold screening, unrecognised line items and difference semantics are
+not promoted to verified answers.
+
+Financial comparisons allow four floating-point ULPs, with an absolute floor
+of 1e-12, rather than a relative amount tolerance that could conceal a large
+VND error. DataFrame result columns must contain only the verified key/value
+schema; additional financial columns and compound ratio operations fail closed.
+
+Each request gets a unique run directory. The request, every completed attempt
+and terminal response are written with exclusive creation. Attempts retain code,
+typed failures, validation/execution/verification reports and token telemetry.
+Repeated caller IDs cannot overwrite prior history or create caller-selected
+paths. The CLI atomically saves progress after each question; resume requires
+matching catalog/model/code fingerprint, retry budget and question set.
+
+The benchmark retains all 140 frozen wide LNST positive cases and ADR-066's
+thresholds. The six legacy UNSUPPORTED_METRIC controls are now in scope for the
+larger catalog; they remain unchanged in the old benchmark. The separate
+`t2p-negative.jsonl` retains the other 11 controls and adds six market-data and
+subannual-data controls. No gold answers or expected source IDs enter generation,
+discovery, catalog building or verification. Scoring separately measures numeric,
+unit and exact gold-cell correctness, complete-run evidence, negative false
+answers, latency, tokens and configured-price cost. A partial/fixture run or
+missing telemetry cannot receive ACCEPTED. No default changes are automatic.
+
+## ADR-070 — NsJail profile compatibility, broad gold and measured load gates
+
+**Status:** Profile fixes, concurrent runner and measurements implemented.
+Full production NsJail conformance and the broad accuracy gate remain open.
+
+### Decision
+
+Keep the existing sandbox limits and fail-closed production selection. Fix
+three defects demonstrated with NsJail 3.4: incompatible simultaneous memsw
+and swap ceilings, seccomp syntax unsupported by bundled kafel, and an empty
+outside UID/GID mapping that mapped a root launcher to host root. Retain
+`cgroup_mem_swap_max: 0`, use kafel `//` comments/plain fork names/numeric
+syscalls where needed, and explicitly map UID/GID 65534 inside and outside.
+The policy is x86_64-specific; another architecture needs its own reviewed pin.
+
+The root-owned deployment files and `src/sandbox/production.py` agree on:
+
+| File | SHA-256 |
+|---|---|
+| `deploy/sandbox/m7-nsjail.cfg` | `b9a0f9a6b1e1fede6200f5f75cba13b65df183815267a394e27e7b5fecd22623` |
+| `deploy/sandbox/t2p-nsjail.cfg` | `17032b290270864f106d6f859027792573118cfb366d9456fe2d7a9e9f0691f0` |
+| `deploy/sandbox/m7-seccomp.policy` | `528709ce4db5ff3d87c14bd298784c422de0a3f4d1dc1b74945080d6a95604f3` |
+
+Add opt-in live-runner concurrency, default 1, with request-local history and
+telemetry, locked atomic progress writes and wall-time reporting. Resume must
+retain concurrency and all existing identity fields. A final source check
+catches changes during the last in-flight requests. No NLU, financial formula,
+verification or default routing change is part of this work.
+
+### Independent broad measurement
+
+Broad gold v1 uses raw statement line codes and whole-word labels, explicit
+column orientation and unit notes, independently cross-checked in the next
+report. It rejects subsidiary-note rows whose amounts merely equal a code;
+the invalid NAB v0 case and original run are archived. Seed 20261014 yields
+140 positives across 55 tickers and ten statement metrics/six ratios, plus
+18 negative controls. Agent-built gold is not human-reviewed.
+
+The sequential live run scores **105/140 (75.0%)**, Wilson95 0.672–0.814;
+106 answered, one wrong gold-cell citation, zero negative false answers and
+zero runner errors. The concurrency-8 run scores **106/140 (75.7143%)**,
+Wilson95 0.6799–0.8207; 107 answered, the same grounding mismatch, zero negative
+false answers and zero runner errors. Both are **NOT_ACCEPTED**: accuracy is
+below 0.85 and ratio accuracy is 24/36, below 0.75. NLU/catalog gaps remain
+visible; fixes require a new held-out seed before a quality claim.
+
+All 158 concurrent request/history identities and source companies match.
+Status agreement is 156/158; exact result agreement is 157/158. All 106
+jointly answered questions have identical results. One former equity-average
+failure answers correctly; one current-liabilities average changes from FAILED
+to UNSUPPORTED. No evidence indicates a cross-request mix-up.
+
+Concurrent wall time is **64.277 s**, throughput **2.458 requests/s**. The old
+runner did not record wall time: its first-start/last-end span estimates
+480.264 s and 0.329 requests/s, an estimated 7.472x speedup. Concurrent p50/p95
+request latency is 3.043/5.733 s. Cached-input shares and repairs differ, so the
+lower measured API cost is not attributed to concurrency.
+
+### Sandbox load evidence
+
+Run four matrices sequentially at 1,8,16,32,64, through the actual M7/T2P
+executors, with 64 requests per level and 128 at level 64. There are 3,072
+requests across the matrices, including 384 contained abuse requests. No
+BENIGN_WRONG, ABUSE_ESCAPED, ABUSE_MISCLASSIFIED or harness exceptions occur.
+Every level at or below 16 has zero benign failures and no leaks.
+
+| Boundary/user | Highest safe level with zero benign failures, M7/T2P | M7 p95/p99 at 16 (ms) | M7 p95/p99 at 64 (ms) | Matrix gate |
+|---|---|---|---|---|
+| Local/root | 64/64 | 237.8/251.2 | 1047.7/1105.8 | PASS |
+| Local/sbxload | 64/64 | 253.9/313.4 | 1106.2/1182.2 | PASS |
+| Namespace-free NsJail/root | 32/64 | 495.6/526.6 | 1724.7/1847.2 | FAIL |
+| Namespace-free NsJail/sbxload | 64/64 | 406.9/505.6 | 1590.0/1811.5 | PASS |
+
+The root wrapper has eight M7 WALL_CLOCK_TIMEOUT failures and thread_delta=1
+at 64. Leak failure is retained, not excused by the above-target allowance.
+Three focused root repeats have 4,0,3 timeouts and no remaining thread after
+either the immediate snapshot or one second. The original thread was not
+identified; the 0.2-second RSS-monitor join is a plausible cleanup race, not
+a proved cause. A diagnostic launched from the repository instead of the
+deployment root was rejected by the environment guard; that invalid-cwd
+artifact is excluded from the matrix conclusions.
+
+These percentiles measure complete executor calls, including preparation and
+cleanup outside the 1,500 ms M7 communicate timeout. The wrapped 64 level
+has insufficient latency headroom even where every request returns correctly.
+No limit is relaxed. The non-root matrices exercise RLIMIT_NPROC=1 per UID.
+
+### Fresh pinned environment and remaining deployment gate
+
+New Python 3.12.3 and 3.11.16 venvs, each with an initially empty uv cache,
+install `requirements-test.txt` and verify all six direct pins: NumPy 2.4.6,
+Pandas 2.3.3, faiss-cpu 1.15.1, psutil 7.2.2, pytest 9.1.1, langgraph 1.2.10.
+Both final-source suites pass **1,243 tests, 373 subtests, two skips**.
+Supervisor 14/14, oracle reasoning 7/7, E2E 12/12, baseline 3/3 and retrieval
+8/12 outputs are byte-identical between the venvs. Retrieval's four fixture
+failures are deliberate attribution controls, not production retrieval scores.
+
+This unprivileged container cannot create the production namespaces or write
+cgroup v2. Reduced NsJail profiles exercise seccomp, rlimits, dropped caps and
+no_new_privs; they do not prove full production isolation. Run the real pinned
+profiles, focused abuse probes and matrix on a capable Linux host/VM before
+rollout. The jail's `/usr` Python must contain Pandas/NumPy; `/venv` is not
+mounted. Preserve fail-closed behavior and the unresolved root leak gate.
+
+Evidence: `scratch_logs/sandbox-load-matrix-summary.json`, the four
+`sandbox-load-*.json` matrices, `sandbox-load-nsjail-root-thread-diagnostic.json`,
+`t2p-broad-live-c8.json`, `t2p-broad-benchmark-c8.json`,
+`t2p-broad-concurrency-comparison.json`, and `fresh-pinned-env/`.
+
+### VSF 2022 provenance investigation
+
+Replaying extraction of the hash-verified VSF 2022 consolidated report reproduces
+the grounding mismatch. Page 3 is a management explanation letter with a
+three-row year-comparison table. A prose mention of the income-statement title
+classifies that summary as INCOME_STATEMENT; the code-less whole-label fallback
+assigns its LNST row. Page 14 contains the actual B02-DN/HN line 60 with the same
+21,108,412,384 VND. `_resolve_metric_duplicates` retains the first equal-value
+occurrence and clears the later row's metric, so the summary cell is canonical.
+The verifier checks catalog identity/raw value/scale/year and arithmetic but
+does not independently prefer primary-statement provenance. Numeric correctness
+passes; frozen gold-cell grounding fails. This predates concurrency.
+
+Evidence: `scratch_logs/t2p-vsf-2022-grounding-investigation.json` retains both
+tables, source spans, classification matches, layouts, pre/post-dedup facts,
+catalog provenance and live/gold checks. Investigation changes no source,
+catalog or gold. A follow-up should prefer coded primary-statement provenance
+for equal-value duplicates, preserve bank layouts/conflict rejection, add
+independent synthetic regressions, build a new catalog and measure new held-out
+gold. Do not repair this by admitting the observed summary cell into frozen gold.
+
+---
+
+## ADR-071 — Broad-set phrasing fixes, coded-row catalog provenance, held-out re-measurement
+
+**Status:** Implemented and measured. Default M9 routing is unchanged.
+
+### Context
+
+ADR-070's broad set scored 105/140 (NOT_ACCEPTED). Every miss except one was a
+safe abstention, clustered in understanding and catalog provenance:
+"dòng tiền thuần từ hoạt động …" was not a CFO/CFI phrase; "nợ phải trả ngắn
+hạn" resolved to LIABILITIES; "bình quân" inside the ROE/ROA names was read as
+an averaging operation; long ratio names ("tỷ suất lợi nhuận gộp/sau thuế trên
+doanh thu thuần", "hệ số nợ phải trả trên vốn chủ sở hữu") were not ratios; and
+the VSF 2022 LNST fact cited a code-less management-letter summary instead of
+the line-60 row.
+
+### Decision
+
+- Add the missing phrasings as synonyms: CFO/CFI/CFF "dòng tiền thuần từ hoạt
+  động …", "nợ phải trả ngắn/dài hạn" in `src/text_to_pandas/metrics.py`, and
+  the long ratio names in `src/formulas/ratios.py`, which stays the single
+  source of ratio definitions; no formula changes. Longest-match detection
+  makes the specific phrase win over the shorter metric inside it.
+- Mask detected ratio-name spans before operation-cue detection, so words in a
+  ratio's own name are not operations. "ROE bình quân … 2022 và 2023" (an
+  average of a ratio) remains a compound operation that fails closed.
+- In `_resolve_metric_duplicates`, an agreeing repeat keeps the first row with a
+  line code, else the first row. Different-value conflicts still drop all rows;
+  code-less bank layouts are unchanged. Build version `t2p-catalog-build-v2`;
+  `artifacts/t2p-catalog-v2` (catalog id `c0e872e6…`) differs from v1 only in
+  five VSF LNST facts now citing line 60, with zero value/row/coverage changes.
+- The load harness waits up to 5 s for threads, children, descriptors and temp
+  dirs to return to baseline and reports both end-of-level and settled values.
+  The executor's 0.2 s RSS-monitor join can end before one `/proc` scan under
+  heavy load; a resource still present after the window is a leak.
+- `broad_gold --exclude-gold` keeps a new sample disjoint from earlier gold.
+
+None of the 314 wide/T2P LNST questions changes its understanding, discovery
+or prompt context (deterministic before/after comparison), so the ADR-069
+acceptance is unaffected; only the 27 broad questions in the clusters change.
+
+### Measurement
+
+The fixes were derived from `gold/broad`, so they are measured on
+`gold/broad-h2`: seed 20261015, 140 positives over 58 tickers and 18 negatives,
+no (metric, ticker, scope, year) unit or question shared with `gold/broad`, same
+templates. Sequential live DeepSeek run with catalog v2: **137/140 (97.86%,
+Wilson95 0.939–0.993), ACCEPTED**, all thresholds pass, 137 answered with zero
+wrong answers, zero negative false answers, zero runner errors; p50/p95/max
+latency 2.90/3.45/4.00 s; $0.00213/query; 0.89 LLM calls/query. The three misses
+are catalog gaps (SSI 2018 EQUITY, VIF 2023 CFI) and one model UNSUPPORTED on
+HHV current liabilities. Reference only: `gold/broad` at concurrency 8 with
+catalog v2 scores 133/140 with zero wrong answers; its seven misses are catalog
+gaps (SSI, HHV, VIF, PNJ).
+
+A root namespace-free NsJail matrix rerun at 1,8,16,32,64 passes with zero
+residual resources at every level end. Wrapped M7 at 64 has 7/128
+WALL_CLOCK_TIMEOUT (p95 1,737 ms), so a host should run at most 32 concurrent
+M7 workers under NsJail. Full suites pass in the fresh pinned 3.11/3.12 venvs.
+
+### Limits
+
+h2 shares the builder's question templates, so it measures the fixes on unseen
+companies, years and values, not unseen phrasings. Gold is agent-built, not
+human-reviewed. Catalog extraction gaps remain. Full production NsJail
+conformance still requires a capable Linux host or VM.
+
+Evidence: `scratch_logs/t2p-broad-h2-live.json`, `t2p-broad-h2-benchmark.json`,
+`t2p-broad-v2cat-c8-live.json`, `t2p-broad-v2cat-c8-benchmark.json`,
+`t2p-catalog-v2-build.json`, `sandbox-load-nsjail-root-settle.json`,
+`fresh-pinned-env/adr071-py3*-pytest.txt`.
+
+## ADR-072 — Production gates: catalog v4, production gold and holdouts, platforms, providers, service
+
+**Status:** Implemented and measured on this Linux host. Default M9 routing is
+unchanged. Eight of nine gates pass on holdout3; not production-ready because no
+gold case has been reviewed by a person. Full NsJail and the macOS/Windows runtime
+still need other hosts.
+
+### Context
+
+The production thresholds: 200–300 human-reviewed gold cases with ≥100 independent
+holdout; ≥95% correct answers overall and ≥90% in every critical group; ≥99% code
+execution success on valid questions with data; 100% provenance on the audited
+sources; no fabricated number and every must-refuse case refused; zero sandbox
+escapes; no resource growth under stress and soak; an API with SLO, monitoring,
+alerting and a tested rollback; ≤32 concurrent M7 workers per host under NsJail
+(ADR-071: 7/128 timeouts at 64); the catalog gaps (SSI, HHV, VIF, PNJ); one sandbox
+configuration for macOS, Linux and Windows; configuration for several LLM providers.
+
+### Decision
+
+**Catalog v4** (`artifacts/t2p-catalog-v4`, build `t2p-catalog-build-v4`, catalog id
+`ddf9bae2236a7b9ab35b0ff5c4f3592aeb6a798731d5dad7958f096017b5f910`; v3 `436a61ce…`
+is the same minus the last two fixes). Every gap was root-caused on the raw reports:
+
+- securities companies (SSI) print B0x-CTCK forms: recognised in the catalog (the
+  pinned M2 TableClass registry is untouched), TT334 totals mapped first (balance
+  sheet 100/200/270/300/310/340/400/440, income 90/200/201), TT200 codes as fallback
+  with agreeing labels; "Báo cáo tình hình tài chính" without a CTCK form (banks since
+  TT49's amendment) keeps the TT200/bank rules;
+- dotted/dashed header dates ("31.12.2022", HHV) orient columns;
+- a page title contradicted by the table's coded rows (VIF page headers) yields to
+  the rows when the title's statement has no agreeing row and exactly one other has two;
+- an OCR "Thuyết minh" header over the label column (PNJ) is recovered;
+- wording: "nợ phải trả ngắn/dài hạn", "lưu chuyển tiền thuần (sử dụng vào)/từ …", "TÀISẢN";
+- side-by-side group | parent columns use the report's scope (MSN; OCR "Công tv");
+- restatement tables never inherit a page layout;
+- note numbers read as figures are dropped;
+- statement identities (total assets = total capital, current + non-current,
+  liabilities + equity against both totals, CFO + CFI + CFF = line 50) clear the
+  metrics no passing identity confirms;
+- an agreeing repeat prefers the statement line over a "(mang sang trang sau)" copy,
+  and agreeing coded rows win over a differing code-less repeat (KBC: an OCR digit).
+
+Against v2: 53,803 metric facts (+1,611 net) and **zero changed values**; every
+component of every earlier gold case still matches (wide 220/220, broad 242/242,
+broad-h2 241/242 — VIC 2016 CFO is cleared because CFO + CFI + CFF ≠ line 50).
+The provenance index no longer assumes `fact_id` is the first sorted key.
+
+**Production gold** (`src/evaluation/production_gold.py`, `gold/production-v1`).
+Four splits of 127 positives (45 lookup, 24 growth, 28 average, 30 ratio; 97
+corporate and 30 bank cases each) plus 20 must-refuse controls (ten kinds, adding a
+missing scope for an existing year, a line banks do not report, a future period and
+an injected number). The ADR-070 raw-HTML method gains a whole-label bank path; no
+split reuses a report of an earlier split or any earlier gold file. `dev` is for
+fixes. A holdout is frozen before any measurement and scored once; afterwards it
+becomes development data and a new holdout is built and frozen before any fix:
+`holdout` (own phrasings) → `holdout2` (own phrasings) → `holdout3`, whose seed
+questions an LLM rewrote (`src/evaluation/paraphrase_gold.py`, auto-validated,
+frozen unread) so its wording does not come from the person fixing the system.
+`src/evaluation/gold_qa.py` flags gold sources taken from the other scope's column
+of a combined group | parent table; such defects (1 of 508 cases) are excluded alike
+in every split. Cases stay `AUTO_DERIVABLE` until a named person approves them
+(`src/evaluation/gold_review.py`: packets with the printed source rows, a terminal
+reviewer, a shared review page, ingestion of its decisions).
+
+**Understanding.** Wording variants are rewritten to one canonical form before
+matching (`canonical_phrasing`: lãi/lợi nhuận, kế toán, ròng, giá trị/quy mô, vốn
+chủ, lưu chuyển/dòng tiền ± thuần, tỷ số/tỷ lệ/hệ số/khả năng thanh toán, biên lãi,
+"nợ (phải trả)/vốn chủ sở hữu", "lợi nhuận/sinh lời trên …"); a description followed
+by a ratio acronym in parentheses is that ratio's name; an upper-case token in
+parentheses right after a metric or ratio name is an abbreviation, never a ticker
+(a company name before "(XYZ)" still refuses). Each step changed exactly the
+holdout misses it was derived from and nothing else among ~900 recorded questions,
+negatives included.
+
+**Gate** (`src/evaluation/production_gate.py`) computes every threshold from
+recorded evidence; missing evidence is `BLOCKED`. Critical groups: operation,
+statement (income, balance sheet, cash flow, ratio), template (corporate, bank).
+
+**LLM providers** (`deploy/llm/providers.toml`, `src/serving/providers.py`):
+`openai-chat` and `anthropic-messages` protocols; DeepSeek (default, measured),
+OpenAI, Azure OpenAI, Anthropic, Gemini, Qwen/DashScope, OpenRouter, Groq, Mistral,
+vLLM, Ollama. Credentials only from the environment or `.env`; per-provider JSON
+mode, thinking switch, temperature, completion-limit field, headers, extra body,
+bounded retries on 408/409/429/5xx/529/timeouts, price list.
+
+**Sandbox platforms** (`deploy/sandbox/sandbox.toml`, `src/sandbox/host.py`,
+`src/sandbox/windows_job.py`): local boundaries per OS (Linux rlimits, macOS
+`sandbox-exec`, Windows job object), `container-v1` on any OS (digest-pinned image,
+no network, read-only root, no capabilities, caps on pids/memory/CPU, unprivileged
+user, `env -i`, container removed on timeout), admission caps per isolation mode
+(M7: 32 under NsJail) with `CAPACITY_EXCEEDED` after the admission timeout.
+
+**Service** (`src/service/`): stdlib HTTP API with admission control, deadline,
+token, `/healthz` `/readyz` `/metrics` `/slo` and reload; SLOs in
+`deploy/service/slo.toml`; alert rules defined once and rendered to
+`deploy/service/alerts.yml`; releases pinning catalog, generator and code, promoted
+after preflight and a canary set, rolled back automatically on a page alert during
+the bake window, or by command.
+
+### Measurement
+
+- **Accuracy (DeepSeek, concurrency 8).** dev 127/127. holdout scored once at
+  104/127 (81.9%, Wilson95 0.74–0.88); every miss was a safe abstention on unseen
+  wording. After the holdout-derived fixes: holdout (now dev) 127/127; holdout2 scored
+  once at 104/127 (81.9%), again all safe abstentions (18 wording, 3 "(NII)" read as
+  a ticker, 2 catalog). After those fixes and catalog v4: holdout2 (now dev) 126/126
+  (one gold defect excluded). **holdout3 scored once: 122/127 (96.1%, Wilson95
+  0.911–0.983)**; every group ≥90% (lowest: cash flow 9/10, lookup and bank 93.3%);
+  code execution 124/125 (99.2%); provenance 100%; 20/20 refusals. Its five misses
+  are safe abstentions (two catalog gaps, two wordings, one parenthesised term read
+  as an unknown company). A first holdout3 attempt hit HTTP 402 (insufficient
+  provider balance), produced no model output and is archived as invalid. Zero wrong
+  answers and zero must-refuse cases answered in every split and run; code
+  execution 100% and provenance 100% wherever the question was understood.
+- **Sandbox security.** 27 canary probes (secret file and parent-only environment
+  disclosure, file write, process spawn, loopback network, introspection, eval/query
+  injection, pickle, `/proc`, CPU/memory/recursion/output bombs) run through the
+  validator and directly through the worker: 0 escapes locally and under the
+  reduced NsJail profile; the focused security tests pass.
+- **Capacity.** Reduced NsJail profile, 64 offered M7 requests: uncapped 2/128
+  WALL_CLOCK_TIMEOUT; with the 32-worker cap 128/128 correct, p95 1,045 ms, no leaks.
+- **Stability.** Stress 1, 8, 16, 32, 64 for both workers passes. Soak 30 min at
+  concurrency 16 (26,611 requests, 14.7/s, mixed M7/T2P/abuse): 0 wrong or escaped;
+  latency drift 0.98× (M7) and 0.99× (T2P); RSS +3.8 MB fitted (budget 32 MB);
+  descriptors, threads, temp dirs and workers identical at every drained checkpoint
+  (earlier soaks judged in-load counts, which move with in-flight work; the
+  harness now checkpoints).
+- **API.** Reliability drill 20/20: canary promotion, metrics, SLO met, sustained
+  overload answered with 503 and ticketed after 5 minutes, wrong-catalog and
+  wrong-answer releases rejected, a release with a production provider outage paged
+  within 2 minutes and rolled back automatically, recovery, manual rollback. The
+  drill found that the stdlib server's backlog of 5 reset connections in a burst;
+  it is now 512.
+- **Tests.** `pytest tests`: 1369 passed, 2 skipped.
+
+### Limits
+
+No case is human-reviewed; the review page and CLI are ready. The holdouts measure
+robustness to paraphrases written by this agent (holdout and holdout2) or an LLM
+(holdout3), not to questions written by users. Live measurement uses DeepSeek only;
+other providers are covered by offline tests. Full NsJail (namespaces, cgroup v2)
+and the macOS/Windows CI matrix need capable hosts. The service drill replays
+recorded programs on loopback with a simulated clock; no Prometheus/Alertmanager is
+deployed.
+
+Evidence: `scratch_logs/goal-production/` (`PROGRESS.md`, `production-gate-holdout1.json`,
+`production-gate-holdout2.json`, `holdout*-dev-r1-live.json`, `stability-local.json`,
+`security-suite-v3.json`, `security-probes-nsjail.json`, `api-reliability-v3.json`,
+`nsjail-m7-offered64-cap{32,64}.json`, `invalid-provider-402/`).
+
+## ADR-073 — Browser UI served by the question API
+
+**Status:** Implemented. Additive API change; the default public response is
+unchanged except for the `statement` key on sources.
+
+### Context
+
+People need a chat interface over `/v1/ask` (sidebar with history, chat stream,
+a detail canvas for tables, sources and code). The API answered one question at a
+time and exposed no coverage, so a client could not tell users which companies and
+years exist, and it never returned the program, which the planned "code" view needs.
+
+### Decision
+
+- `src/service/web/` holds a dependency-free page (HTML, CSS, vanilla JS, no build)
+  served by the existing stdlib service at `/` and `/static/{app.js,app.css}` from a
+  fixed path map, with `Content-Security-Policy: default-src 'none'; script-src 'self';
+  style-src 'self'; connect-src 'self'` and `nosniff`. Server and model text is
+  rendered with `textContent` only. The page needs no token; data endpoints keep it.
+- `GET /v1/catalog` (bearer token like `/v1/ask`): catalog id, release, build version,
+  report count, companies (`ticker`, `company_name`, `template`, `first_year`,
+  `last_year`, `statement_scopes`) and metric names (`name_vi` from
+  `src/text_to_pandas/metrics.py`). No statement values.
+- Public sources add `statement` (already in the provenance row), so the UI names
+  the statement without parsing identifiers.
+- The generated program stays hidden by default. `AIFIN_EXPOSE_PROGRAM=1` (an
+  analyst deployment) adds `program` = `{code, explanation, attempts}` from the
+  attempt that passed verification, for `ANSWERED` responses only.
+- The UI keeps chat history in browser storage and does not send it: the pipeline
+  stays single-turn, and the composer says so. Clarifications are completed by the
+  user (a year field for `MISSING_PERIOD`, hợp nhất/riêng buttons for
+  `MISSING_SCOPE`), which re-asks a full question.
+- No user file upload: answers come only from the release's catalog, which carries
+  scale, unit and provenance.
+
+### Consequences
+
+The UI shows exactly what the API returns; display rounding is local and CSV export
+keeps exact values. A separate frontend stack can replace the page later without an
+API change. Cross-company ranking questions remain outside the measured gold groups.
+

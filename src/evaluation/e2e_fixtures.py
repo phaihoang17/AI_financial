@@ -325,6 +325,7 @@ class _OracleArtifacts:
     execution: ExecutionResult
     verification: object
     answer: object
+    request: SandboxExecutionRequest
 
 
 def _oracle_artifacts(understanding, pairs, *, output_variant="success"):
@@ -402,7 +403,7 @@ def _oracle_artifacts(understanding, pairs, *, output_variant="success"):
         if report.passed
         else None
     )
-    return _OracleArtifacts(plan, completeness, program, execution, report, answer)
+    return _OracleArtifacts(plan, completeness, program, execution, report, answer, request)
 
 
 def _success_case(case_id, periods, values, operation, *, pair_scripts=None, outcomes=("success",), retries=0, escalated=False):

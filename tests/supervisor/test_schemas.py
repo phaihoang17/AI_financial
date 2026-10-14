@@ -1,7 +1,13 @@
 import copy
 import unittest
+from unittest.mock import patch
 
-from src.supervisor.schemas import EvidenceSource, Plan, RetrievalRequirement, TableClass
+from src.supervisor.formula_registry import get_formula
+from src.supervisor.table_registry import table_for_metric
+from src.supervisor.schemas import (
+    EvidenceSource, FormulaDefinition, MetricTableMapping, Plan,
+    RetrievalRequirement, TableClass,
+)
 from src.understanding.schemas import SchemaValidationError
 
 
@@ -58,6 +64,32 @@ def growth_plan():
     return payload
 
 
+def roe_plan():
+    payload = lookup_plan()
+    requirements = [
+        RetrievalRequirement.create(EvidenceSource.TABLE, table, metric, period).to_dict()
+        for table, metric, period in (
+            (TableClass.INCOME_STATEMENT, "LNST", "2015"),
+            (TableClass.BALANCE_SHEET, "VON_CHU_SO_HUU", "2015"),
+            (TableClass.BALANCE_SHEET, "VON_CHU_SO_HUU", "2014"),
+        )
+    ]
+    payload.update({
+        "question_type": "DERIVED_RATIO",
+        "periods": ["2015", "2014"],
+        "target_metrics": ["LNST", "VON_CHU_SO_HUU"],
+        "derived_target": "ROE",
+        "formula_id": "TEST_ROE",
+        "tables_needed": ["INCOME_STATEMENT", "BALANCE_SHEET"],
+        "retrieval_requirements": requirements,
+        "reasoning_mode": "PROGRAM",
+        "model_tier": "STRONG",
+        "verify_profile": "STRICT",
+        "max_retries": 2,
+    })
+    return payload
+
+
 class PlanSchemaTests(unittest.TestCase):
     def test_valid_lookup_plan(self):
         payload = lookup_plan()
@@ -107,6 +139,39 @@ class PlanSchemaTests(unittest.TestCase):
         plan = Plan.from_dict(payload)
 
         self.assertEqual(plan.question_type.value, "AGGREGATE")
+
+    def test_registered_roe_plan_serializes_without_changing_production_registry(self):
+        payload = roe_plan()
+        formula = FormulaDefinition.from_dict({
+            "formula_id": "TEST_ROE", "operation": "ratio",
+            "question_type": "DERIVED_RATIO", "derived_target": "ROE",
+            "required_metrics": ["LNST", "VON_CHU_SO_HUU"],
+            "period_rule": "AT_LEAST_TWO", "reasoning_mode": "PROGRAM",
+            "evidence_sources": ["TABLE"],
+        })
+        mappings = (
+            MetricTableMapping("LNST", TableClass.INCOME_STATEMENT),
+            MetricTableMapping("VON_CHU_SO_HUU", TableClass.BALANCE_SHEET),
+        )
+        # Isolate registry data; exercise the real Plan validation and serialization.
+        with patch("src.supervisor.formula_registry.get_formula",
+                   side_effect=lambda name: get_formula(name, (formula,))), patch(
+            "src.supervisor.table_registry.table_for_metric",
+            side_effect=lambda metric: table_for_metric(metric, mappings),
+        ):
+            first = Plan.from_dict(payload)
+            self.assertEqual(first.to_dict(), payload)
+            self.assertEqual(Plan.from_dict(first.to_dict()).to_dict(), payload)
+            invalid = copy.deepcopy(payload)
+            invalid["formula_id"] = "UNREGISTERED_RATIO"
+            with self.assertRaises(SchemaValidationError):
+                Plan.from_dict(invalid)
+        self.assertIsNone(get_formula("TEST_ROE"))
+        self.assertIsNone(table_for_metric("VON_CHU_SO_HUU"))
+
+    def test_unregistered_roe_plan_is_rejected_in_production(self):
+        with self.assertRaises(SchemaValidationError):
+            Plan.from_dict(roe_plan())
 
     def test_invalid_enum_fields_are_rejected(self):
         cases = [

@@ -38,7 +38,13 @@ def security_failure(code: SecurityFailureCode, message: str) -> ExecutionFailur
     )
 
 
-def expected_worker_environment(project_root: Path) -> dict[str, str]:
+def expected_worker_environment(project_root: Path, platform_name: str | None = None) -> dict[str, str]:
+    """The exact worker environment; ``platform_name`` is the worker's ``sys.platform``.
+
+    It differs from the parent's only for ``container-v1``, where a Linux worker
+    runs under a macOS or Windows parent.
+    """
+    platform_name = sys.platform if platform_name is None else platform_name
     environment = {
         "LC_CTYPE": "C.UTF-8",
         "PYTHONHASHSEED": "0",
@@ -47,9 +53,12 @@ def expected_worker_environment(project_root: Path) -> dict[str, str]:
         "PYTHONPATH": str(project_root),
         "PYTHONDONTWRITEBYTECODE": "1",
     }
-    if sys.platform == "darwin":
+    if platform_name == "darwin":
         # Pin CoreFoundation startup so it cannot add user-specific encoding settings.
         environment["__CF_USER_TEXT_ENCODING"] = f"0x{os.getuid():X}:0:0"
+    elif platform_name == "win32":
+        # CPython on Windows needs the system directory to load its own DLLs.
+        environment["SYSTEMROOT"] = os.environ.get("SYSTEMROOT", r"C:\Windows")
     return environment
 
 

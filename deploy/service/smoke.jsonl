@@ -1,0 +1,12 @@
+{"question": "Theo BCTC hợp nhất năm 2017, VGT ghi nhận doanh thu thuần về bán hàng và cung cấp dịch vụ bao nhiêu?", "expected": {"status": "ANSWERED", "value": "17446543799942"}}
+{"question": "Tốc độ tăng trưởng doanh thu thuần về bán hàng và cung cấp dịch vụ năm 2023 so với năm 2022 của MCH (BCTC hợp nhất) là bao nhiêu %?", "expected": {"status": "ANSWERED", "value": "4.6843854634389216590723246249259807940218915957164"}}
+{"question": "Trung bình doanh thu thuần của Tổng Công ty Điện lực TKV - CTCP (DTK) năm 2023 và năm 2024 theo BCTC hợp nhất là bao nhiêu đồng?", "expected": {"status": "ANSWERED", "value": "12334667386574.5"}}
+{"question": "FIT báo cáo lợi nhuận gộp về bán hàng và cung cấp dịch vụ năm 2021 là bao nhiêu (BCTC riêng)?", "expected": {"status": "ANSWERED", "value": "5569819375"}}
+{"question": "Tăng trưởng lợi nhuận gộp của VRE giữa năm 2020 và năm 2021 theo báo cáo hợp nhất là bao nhiêu phần trăm?", "expected": {"status": "ANSWERED", "value": "-37.40054070788192564442293918253195847367653882056"}}
+{"question": "Tính lợi nhuận gộp về bán hàng và cung cấp dịch vụ trung bình của CRE cho hai năm 2021, 2022 (báo cáo riêng).", "expected": {"status": "ANSWERED", "value": "824194657607"}}
+{"question": "VRE báo cáo lợi nhuận trước thuế năm 2022 là bao nhiêu (BCTC hợp nhất)?", "expected": {"status": "ANSWERED", "value": "3524490000000"}}
+{"question": "Tăng trưởng lợi nhuận trước thuế của IJC giữa năm 2023 và năm 2024 theo báo cáo riêng là bao nhiêu phần trăm?", "expected": {"status": "ANSWERED", "value": "-36.155793039227382999654278697785318010395806289271"}}
+{"question": "Tính lợi nhuận trước thuế trung bình của VIF cho hai năm 2020, 2021 (báo cáo riêng).", "expected": {"status": "ANSWERED", "value": "304049177829"}}
+{"question": "Lợi nhuận sau thuế thu nhập doanh nghiệp của CTCP Tập đoàn C.E.O (CEO) năm 2019 theo báo cáo tài chính riêng là bao nhiêu đồng?", "expected": {"status": "ANSWERED", "value": "299596352755"}}
+{"question": "Giá đóng cửa cổ phiếu của CTCP Tập Đoàn PC1 (PC1) cuối năm 2025 theo báo cáo riêng là bao nhiêu?", "expected": {"status": "UNSUPPORTED"}}
+{"question": "Số lượng nhân viên của Tổng Công ty cổ phần Phát triển Khu Công nghiệp (SNZ) cuối năm 2020 theo báo cáo hợp nhất là bao nhiêu?", "expected": {"status": "UNSUPPORTED"}}

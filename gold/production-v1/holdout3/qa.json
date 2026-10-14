@@ -1,0 +1,6 @@
+{
+  "split": "holdout3",
+  "cases": 127,
+  "defective_case_ids": [],
+  "defects": []
+}

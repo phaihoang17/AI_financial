@@ -23,12 +23,15 @@ from src.orchestration.schemas import (
     ExecutionClassificationError,
     FinalResponseStatus,
     M9Phase,
+    next_execution_retry_state,
+    terminal_retry_state,
 )
 from src.orchestration.state import AttemptEntryStage, AttemptRecord, M9State
 from src.orchestration.terminal import (
     build_failure_response,
     build_planning_gate_response,
 )
+from src.programmer.validator import ProgramValidationFailureCode
 from src.understanding.schemas import SchemaValidationError
 from src.verification.retry import RetryClassificationError, build_retry_directive
 from src.verification.schemas import RetryAction, RetryDirective, RetryState
@@ -183,7 +186,25 @@ def route_programmer(
 ) -> RoutingTransition:
     transition = run_programmer(state, deps)
     if transition.stop:
-        return _terminalize_stage_stop(transition)
+        retryable = {code.value for code in ProgramValidationFailureCode} - {
+            "FORMULA_REGISTRY_FINGERPRINT_MISMATCH",
+        }
+        retryable.update({"PROGRAMMER_JSON_INVALID", "SERVING_RESPONSE_TRUNCATED"})
+        if transition.failure_kind != "PROGRAMMER_RESULT" or transition.failure_code not in retryable:
+            return _terminalize_stage_stop(transition)
+        current = transition.state
+        assert current.retry_state is not None
+        if current.retry_state.retries_used >= current.retry_state.max_retries:
+            return _terminal_failure(
+                current, phase=M9Phase.PROGRAMMER,
+                code=transition.failure_code,
+                reason="retry budget exhausted: " + transition.failure_message,
+                retry_state=terminal_retry_state(current.retry_state),
+            )
+        return _append_retry(
+            current, entry_stage=AttemptEntryStage.PROGRAMMER,
+            retry_state=next_execution_retry_state(current.retry_state),
+        )
     return RoutingTransition(transition.state, "sandbox")
 
 

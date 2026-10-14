@@ -5,6 +5,7 @@ from enum import Enum
 from hashlib import sha256
 import json
 from pathlib import Path
+import re
 from typing import Any, Dict, List, Mapping, Optional, Sequence
 
 from src.evidence.schemas import CanonicalDecimal, EvidenceItem
@@ -17,6 +18,7 @@ from src.indexing.paragraph_extractor import extract_paragraphs
 from src.indexing.provenance_sidecar import ProvenanceSidecarError, _extract_report_provenance, _source_from_inventory
 from src.indexing.schemas import HeaderPathEntry, NormalizedCell, Paragraph, SourceCell
 from src.retrieval.batch3 import ScaleUnitHintRetriever
+from src.retrieval.corpus_candidates import CorpusRecordLocator
 from src.retrieval.schemas import RetrievalCandidate, RetrievalContractError, RetrievalQuery, RetrievedScaleUnitHint
 from src.supervisor.schemas import EvidenceSource, Plan, TableClass
 from src.understanding.metric_normalizer import table_label_metric
@@ -40,12 +42,28 @@ def label_names_metric(label: str, metric: str) -> bool:
     """A header label names metric exactly, or as a registry statement line label."""
     return _norm(label) == _norm(metric) or table_label_metric(label) == metric
 
+# A year column header "Năm 2023" / "Năm tài chính 2023" / "2023 Triệu đồng", optionally
+# with its currency and scale word.
+_YEAR_COLUMN_HEADER = re.compile(
+    r"(?:năm (?:tài chính )?)?([0-9]{4}) ?(?:(?:triệu|nghìn|ngàn) ?)?(?:vnd|vnđ|đồng)?"
+)
+
+# "(Cho) năm (tài chính) kết thúc (vào) ngày 31 tháng 12 năm 2022" names fiscal year 2022.
+_YEAR_END_HEADER = re.compile(
+    r"(?:cho )?năm (?:tài chính )?kết thúc (?:vào )?ngày 31 tháng 12 năm ([0-9]{4}) ?(?:vnd|vnđ|đồng)?"
+)
+# "Năm nay", optionally with its currency ("Năm nay VND").
+_CURRENT_YEAR_HEADER = re.compile(r"năm nay ?(?:vnd|vnđ|đồng)?")
+
 def path_periods(labels: Sequence[str], report_year: Optional[int]) -> List[str]:
-    """Periods a header path names: its labels, their approved period form, and the
-    report's own year for a VAS "Năm nay" column. "Năm trước" is deliberately not
-    mapped: period P comes only from report year P (TASK-030 filter, TASK-080 check)."""
+    """Periods a header path names: its labels, their approved period form, an explicit
+    "Năm YYYY" year column, and the report's own year for a VAS "Năm nay" column.
+    "Năm trước" is deliberately not mapped: period P comes only from report year P
+    (TASK-030 filter, TASK-080 check)."""
     periods = [*labels, *(p for p in map(normalize_period_label, labels) if p is not None)]
-    if report_year is not None and any(_norm(label) == "năm nay" for label in labels):
+    periods.extend(m.group(1) for m in (_YEAR_COLUMN_HEADER.fullmatch(_norm(label)) for label in labels) if m)
+    periods.extend(m.group(1) for m in (_YEAR_END_HEADER.fullmatch(_norm(label)) for label in labels) if m)
+    if report_year is not None and any(_CURRENT_YEAR_HEADER.fullmatch(_norm(label)) for label in labels):
         periods.append(str(report_year))
     return periods
 
@@ -180,8 +198,10 @@ class _DerivedProvenance:
 
 class EvidenceProvenanceRepository:
     """Reconstruct only exact selected M2 records and their raw source objects."""
-    def __init__(self, corpus_artifact_root: str | Path, raw_corpus_root: str | Path, *, sidecar=None, table_class_sidecar=None):
+    def __init__(self, corpus_artifact_root: str | Path, raw_corpus_root: str | Path, *, sidecar=None, table_class_sidecar=None,
+                 vector_metadata_path: str | Path | None = None):
         self.corpus = _validate_input_manifest(corpus_artifact_root, verify_hashes=True)
+        self.locator = None if vector_metadata_path is None else CorpusRecordLocator(self.corpus, vector_metadata_path)
         self.raw_root = Path(raw_corpus_root); self.sidecar = sidecar
         self.table_class_sidecar = table_class_sidecar; self._cache: Dict[str, _Resolved] = {}
         self._table_class_cache: Dict[str, Optional[TableClass]] = {}
@@ -204,9 +224,12 @@ class EvidenceProvenanceRepository:
         return _source_from_inventory(self.raw_root, self.corpus.corpus_id, item)
 
     def preload(self, candidates: Sequence[RetrievalCandidate]) -> None:
-        """Find every uncached candidate record in one corpus pass, not one pass each."""
+        """Find every uncached candidate record: by persisted position when a locator is
+        set, else in one corpus pass (not one pass each)."""
         wanted = {(c.chunk_id, c.representation_id) for c in candidates if c.candidate_id not in self._cache} - set(self._records)
         if not wanted: return
+        if self.locator is not None:
+            self._records.update(self.locator.records(wanted)); return
         for r in _iter_input_records(self.corpus):
             key = (r.chunk.chunk_id, r.representation.representation_id)
             if key in wanted:

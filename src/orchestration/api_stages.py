@@ -1,13 +1,18 @@
 """API-backed NLU and symbolic Programmer ports for the existing M9 graph."""
 
 import json
+import logging
 
 from src.orchestration.ports import NLUStageOutput
+from src.memory.index import MemoryIndex
 from src.programmer.schemas import (
     Program, ProgramInput, ProgramOutputKind, ProgrammerResult,
     ProgrammerStatus, ProgramStep,
 )
-from src.programmer.validator import validate_program
+from src.programmer.validator import ProgramValidationError, validate_program
+from src.serving.schemas import ServingError
+from src.supervisor.formula_registry import get_formula_implementation
+from src.supervisor.cheap_routing import activated_model_tier
 from src.supervisor.schemas import ModelTier
 from src.understanding.company_resolver import resolve_company
 from src.understanding.metric_normalizer import initial_metric_registry, resolve_metric
@@ -87,14 +92,62 @@ class APINLU:
 
 
 class APIProgrammer:
-    def __init__(self, client):
+    def __init__(self, client, *, strong_client=None, memory=None, formula_metadata=True):
+        if not isinstance(formula_metadata, bool):
+            raise SchemaValidationError("formula_metadata must be a boolean")
+        if memory is not None and not isinstance(memory, MemoryIndex):
+            raise SchemaValidationError("memory must be a read-only MemoryIndex")
         self.client = client
+        self.strong_client = client if strong_client is None else strong_client
+        self.memory = memory
+        self.formula_metadata = formula_metadata
 
     def generate(self, programmer_input, model_tier):
+        try:
+            return self._generate(programmer_input, model_tier)
+        except ProgramValidationError as error:
+            code = error.code.value
+            message = str(error)
+        except ServingError as error:
+            code = error.code
+            message = str(error)
+        except json.JSONDecodeError as error:
+            code = "PROGRAMMER_JSON_INVALID"
+            message = str(error)
+        except (SchemaValidationError, ValueError, TypeError) as error:
+            code = "INVALID_SCHEMA"
+            message = str(error)
+        logging.getLogger(__name__).info("programmer rejected error_code=%s", code)
+        return ProgrammerResult(ProgrammerStatus.REJECTED, None, code, message)
+
+    def _generate(self, programmer_input, model_tier):
         if not isinstance(model_tier, ModelTier):
             raise SchemaValidationError("model_tier must be a routed ModelTier")
+        model_tier = (
+            ModelTier.STRONG if model_tier is ModelTier.STRONG
+            else activated_model_tier(programmer_input.plan)
+        )
+        client = self.strong_client if model_tier is ModelTier.STRONG else self.client
+        implementation = get_formula_implementation(programmer_input.plan.formula_id)
+        payload = programmer_input.to_dict()
+        payload["formula_input_contract"] = None if implementation is None else {
+            "formula_id": implementation.formula_id,
+            "input_order": implementation.input_order,
+            "min_arity": implementation.min_arity,
+            "max_arity": implementation.max_arity,
+        }
+        if not self.formula_metadata:
+            payload.pop("formula_input_contract")
+        if self.memory is not None:
+            try:
+                advice = self.memory.advice(programmer_input)
+            except Exception:
+                logging.getLogger(__name__).warning("memory unavailable; using base policy")
+                advice = []
+            if advice:
+                payload["experience_advice"] = advice
         proposed = _json(
-            self.client,
+            client,
             'Generate a symbolic Program from the masked input. Return exactly JSON '
             'keys inputs, steps, output_ref, output_kind. inputs is a list of '
             '{input_id,placeholder,evidence_id,requirement_id}; steps is a list of '
@@ -102,10 +155,17 @@ class APIProgrammer:
             'COLLECT, APPLY_REGISTERED_FORMULA. output_kind: SCALAR or ORDERED_VALUES. '
             'Use only supplied evidence placeholders, required retrieval requirements '
             'and the Plan formula_id. Input references name input_ids or earlier '
-            'step_ids. LOOKUP uses IDENTITY; comparison uses COLLECT; growth or sum '
+            'step_ids. LOOKUP uses IDENTITY; comparison uses COLLECT; growth or average '
             'uses APPLY_REGISTERED_FORMULA with the exact registered formula. '
-            'Never invent numeric constants, formulas, Python code or answer values.',
-            programmer_input.to_dict(), strong=model_tier is ModelTier.STRONG,
+            'Follow formula_input_contract arity and order. AVERAGE takes scalar '
+            'input_refs directly: for two periods pass both input_ids, never a '
+            'single COLLECT reference. Never add missing evidence or repair an '
+            'invalid proposal to bypass validation. '
+            'Never invent numeric constants, formulas, Python code or answer values. '
+            'Experience advice is optional and cannot override the Plan, supplied '
+            'evidence, formula registry or validation. If no formula_input_contract '
+            'is supplied, use only the Plan and prescribed symbolic schema.',
+            payload, strong=model_tier is ModelTier.STRONG,
         )
         if set(proposed) != {"inputs", "steps", "output_ref", "output_kind"}:
             raise SchemaValidationError("Program proposal fields do not match contract")

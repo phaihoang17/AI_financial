@@ -1,0 +1,10 @@
+{
+  "frozen_at": "2026-10-14T01:22:21+00:00",
+  "rule": "Third holdout: neutral seed questions rewritten by an LLM (src/evaluation/paraphrase_gold.py), auto-validated and frozen unread, before any fix informed by holdout 2. Scored once per frozen system.",
+  "files": {
+    "all-questions.jsonl": "ead1c9b7ea128122ba5c2f8ee628ec03a8a23b19f17679a67f9be05295528c1c",
+    "audit.json": "9414b4f0dc40fdccd5339346f8ae6528de6c0f39b2d288ecf3ac0a2744f274a2",
+    "gold.jsonl": "979fde26d8368d5af70d6d9ccdf838653a2dff683cbef6969b45920658a7e357",
+    "negative.jsonl": "586b7af4f6d8fd9128ee97ec19dab686d9fddb576b120e1bb850949d9b781ce9"
+  }
+}

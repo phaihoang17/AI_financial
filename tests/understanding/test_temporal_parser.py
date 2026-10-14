@@ -116,5 +116,24 @@ class TemporalParserTests(unittest.TestCase):
         self.assertEqual(TemporalParseResult.from_dict(payload).to_dict(), payload)
 
 
+
+class QuarterAdjectiveTests(unittest.TestCase):
+    def test_quy_in_fixed_noun_phrases_is_not_a_quarter(self):
+        for text in (
+            "Lợi nhuận của CTCP Vàng bạc Đá quý Phú Nhuận (PNJ) năm 2020",
+            "kim loại quý năm 2020",
+            "Kính gửi quý cổ đông, năm 2020",
+        ):
+            with self.subTest(text=text):
+                result = parse_periods(TemporalParserInput(text))
+                self.assertEqual([r.raw for r in result.resolutions], [text[text.index("năm 2020"):][:8]])
+                self.assertEqual(result.resolutions[0].period.value, "2020")
+
+    def test_real_quarters_still_parse(self):
+        result = parse_periods(TemporalParserInput("Đá quý quý 3/2015"))
+        self.assertEqual([r.period.value for r in result.resolutions], ["2015-Q3"])
+        self.assertIsNone(parse_periods(TemporalParserInput("lợi nhuận quý")).resolutions[0].period)
+
+
 if __name__ == "__main__":
     unittest.main()

@@ -1,5 +1,206 @@
 # AI Financial Data Assistant
 
+## Opt-in Text-to-Pandas API and real-model evaluation
+
+The Text-to-Pandas components are connected through
+`src.text_to_pandas.pipeline.PandasPipeline.ask`. The API accepts a question and
+returns a JSON-safe answer with source citations, verification and bounded
+attempt history. Generated code runs only in the isolated worker. Monetary
+answers use RAW VND; growth/percentage ratios use PERCENT. Default M9 routing
+has not changed (ADR-069).
+
+Use an active Python environment with `requirements-test.txt` installed
+(including Pandas 2.3.3). With an existing catalog and DeepSeek credentials in
+the ignored `.env`:
+
+```bash
+python -m src.text_to_pandas.run \
+  --catalog artifacts/t2p-catalog-v2 \
+  --question 'ROE của AAA hợp nhất năm 2023 là bao nhiêu?' \
+  --history-root scratch_logs/t2p-history \
+  --output scratch_logs/t2p-demo.json
+
+python -m pytest tests/text_to_pandas -q
+
+python -m src.text_to_pandas.run \
+  --catalog artifacts/t2p-catalog-v2 \
+  --questions gold/wide/t2p-all-questions.jsonl \
+  --history-root scratch_logs/t2p-wide-history \
+  --output scratch_logs/t2p-wide-live.json --resume
+
+python -m src.text_to_pandas.benchmark \
+  --runs scratch_logs/t2p-wide-live.json \
+  --output scratch_logs/t2p-wide-benchmark.json
+```
+
+Use a new output path after changing code, catalog, model, questions, concurrency or retry
+budget. Resume rejects mixed measurements. The report evaluates 140 frozen
+LNST cases and 17 Text-to-Pandas negative controls against ADR-066 thresholds.
+The old negative controls remain intact; six metrics previously unsupported by
+M9 are available in the broader catalog, so the Pandas negative set substitutes
+market-data/subannual controls for those six. No benchmark step switches defaults.
+
+Verification covers named metrics, ratios, growth, mean/sum and keyed results;
+threshold screening, mixed-unit results and unknown semantics fail closed.
+Truncated result/evidence frames are rejected. Local sandbox tests do not prove
+that the pinned production NsJail deployment is installed and operational.
+
+## Production gates (ADR-072)
+
+`python -m src.evaluation.production_gate` checks every production threshold
+from recorded evidence and marks a gate `BLOCKED` when its evidence is missing.
+Current verdict: **8/9 gates pass; not production-ready until people review the gold** (`scratch_logs/goal-production/production-gate-v3.json`).
+
+| Gate | Threshold | Status |
+|---|---|---|
+| human-reviewed gold | 200–300 cases, ≥100 holdout, all approved | BLOCKED on people (0 reviewed; page and CLI ready) |
+| correct financial answer | ≥95%, every group ≥90% | PASS on holdout3: 122/127 = 96.1%, lowest group 90% (earlier holdouts 81.9% before their fixes) |
+| code execution success | ≥99% | PASS: 124/125 = 99.2% on holdout3 |
+| provenance | 100% | PASS: 100% |
+| no fabricated numbers, refusals | 0 wrong, all refused | PASS in every split (0 wrong, 20/20 refusals) |
+| sandbox security | 0 escapes | PASS (27 probes, local + reduced NsJail) |
+| resource stability | no growth in stress and soak | PASS (stress 1–64, 30-min soak) |
+| API reliability | SLO, monitoring, alerting, rollback tested | PASS (drill 20/20) |
+| NsJail capacity | ≤32 M7 per host | PASS (cap 32: 128/128 at 64 offered) |
+
+**Catalog v4.** Rebuild with the same command as v2 and a new output:
+
+```bash
+python -m src.text_to_pandas.catalog_builder --corpus-manifest <corpus>/manifest.json \
+  --raw-root data/vifinqa/financial_statements --output artifacts/t2p-catalog-v4
+```
+
+**Production gold.** Four splits of 127 cases plus 20 must-refuse controls each.
+Fix the system from development data only; score a frozen holdout once, then it
+becomes development data and the next holdout (`holdout3`: LLM-paraphrased) is used.
+
+```bash
+python -m src.evaluation.production_gold --corpus-artifact <corpus> \
+  --raw-corpus data/vifinqa/financial_statements --output gold/production-v1 \
+  --earlier-audit gold/wide/wide-lnst-audit.json --earlier-audit gold/broad/broad-audit.json \
+  --earlier-audit gold/broad-h2/broad-audit.json --earlier-audit gold/retrieval/strong-strict-source-audit.json
+python -m src.text_to_pandas.run --catalog artifacts/t2p-catalog-v4 \
+  --questions gold/production-v1/holdout/all-questions.jsonl --concurrency 8 \
+  --history-root scratch_logs/holdout-history --output scratch_logs/holdout-live.json
+```
+
+**Human review.** Cases stay `AUTO_DERIVABLE` until a person approves them:
+
+```bash
+python -m src.evaluation.gold_review packet           # source rows per case
+python -m src.evaluation.gold_review record --reviewer "Full Name"
+python -m src.evaluation.gold_review page --output gold-review.html   # shared review page
+python -m src.evaluation.gold_review ingest --file review-export.json
+python -m src.evaluation.gold_review summarize        # review/summary.json for the gate
+```
+
+**LLM providers.** `deploy/llm/providers.toml` lists DeepSeek (default), OpenAI,
+Azure OpenAI, Anthropic, Gemini, Qwen/DashScope, OpenRouter, Groq, Mistral, vLLM
+and Ollama. Select with `--provider NAME` or `LLM_PROVIDER`; keys come from the
+environment or `.env` (`OPENAI_API_KEY`, `ANTHROPIC_API_KEY`, …). Only DeepSeek
+has been measured live; run the benchmark before using another provider.
+
+```bash
+python -m src.text_to_pandas.run --provider anthropic --catalog artifacts/t2p-catalog-v4 \
+  --question 'Tổng tài sản của SSI năm 2023 theo báo cáo hợp nhất là bao nhiêu?' \
+  --history-root scratch_logs/t2p-history --output scratch_logs/anthropic-demo.json
+```
+
+**Sandbox on Linux, macOS and Windows.** `deploy/sandbox/sandbox.toml` and
+`M7_SANDBOX_ISOLATION`: `local` (rlimits on Linux, `sandbox-exec` on macOS, a job
+object on Windows), `linux-nsjail-v1` (Linux production), `container-v1` (the
+Linux worker in a digest-pinned image through Docker or Podman, on any OS; build
+`deploy/sandbox/container/Dockerfile`, set `SANDBOX_CONTAINER_IMAGE=<name>@sha256:…`).
+Admission caps M7 at 32 workers under NsJail; override with
+`M7_MAX_CONCURRENT_WORKERS`. `.github/workflows/sandbox-platforms.yml` runs the
+platform tests and a real worker smoke on Ubuntu, macOS and Windows.
+
+```bash
+python -m src.evaluation.run_security_suite --output scratch_logs/security.json
+python -m src.evaluation.run_sandbox_load_eval --concurrency 1,8,16,32,64 --output scratch_logs/stress.json
+python -m src.evaluation.run_soak_eval --duration-s 1800 --concurrency 16 \
+  --stress scratch_logs/stress.json --output scratch_logs/stability.json
+```
+
+**Question API.** Releases pin the catalog, generator and code; a release is
+served only after preflight and a canary set pass, and rolls back on a page alert.
+
+```bash
+python -m src.service.app --release-root deploy/releases --port 8080   # chat UI at http://127.0.0.1:8080/
+curl -s localhost:8080/v1/ask -d '{"question": "ROE của FPT năm 2023 theo báo cáo hợp nhất là bao nhiêu?"}'
+python -m src.service.release rollback --root deploy/releases --reason "..."   # then POST /admin/reload
+python -m src.service.run_reliability_eval --catalog artifacts/t2p-catalog-v4 \
+  --history <run history> --dev-runs <dev run report> --output scratch_logs/api-reliability.json
+```
+
+SLOs: `deploy/service/slo.toml`. Prometheus alert rules: `deploy/service/alerts.yml`
+(generated from `src/service/alerting.py`).
+
+## Broad independent gold and concurrent load (ADR-070)
+
+Build from the committed corpus manifest and raw OCR, independently of the
+pipeline/catalog. The default seed reproduces the existing 140 positives and
+18 negatives. Use a new seed and output directory for held-out measurement
+after any fixes informed by this set; do not tune NLU against the frozen set.
+
+```bash
+python -m src.evaluation.broad_gold \
+  --corpus-artifact artifacts/reindex-adr062/m2-corpus/7c14b5498ce3871adfc61d8a475e910ad90e2e2143f6298a3d1342c048499a66 \
+  --raw-corpus data/vifinqa/financial_statements \
+  --seed 20261014 --output gold/broad
+
+python -m src.text_to_pandas.run \
+  --catalog artifacts/t2p-catalog-v2 \
+  --questions gold/broad/broad-all-questions.jsonl --concurrency 8 \
+  --history-root scratch_logs/t2p-broad-history-c8 \
+  --output scratch_logs/t2p-broad-live-c8.json --resume
+
+python -m src.text_to_pandas.benchmark \
+  --gold gold/broad/broad.jsonl --negatives gold/broad/broad-negative.jsonl \
+  --audit gold/broad/broad-audit.json --runs scratch_logs/t2p-broad-live-c8.json \
+  --output scratch_logs/t2p-broad-benchmark-c8.json
+
+# Run sandbox matrices sequentially, without other heavy work.
+python -m src.evaluation.run_sandbox_load_eval \
+  --concurrency 1,8,16,32,64 --target-concurrency 16 \
+  --output scratch_logs/sandbox-load-local-root.json
+```
+
+Do not edit `src/` during a live run. `--concurrency` defaults to 1;
+`wall_clock_s` measures pending work in that invocation, not cumulative resumed
+work. Before ADR-071 the broad benchmark was NOT_ACCEPTED (sequential 105/140,
+concurrency 8 at 106/140); the 158-request concurrent run took 64.277 seconds
+with zero request/history mix-ups (`scratch_logs/t2p-broad-concurrency-comparison.json`).
+
+ADR-071 fixes the phrasing gaps that set exposed and rebuilds the catalog as
+`artifacts/t2p-catalog-v2` (`python -m src.text_to_pandas.catalog_builder
+--corpus-manifest <corpus>/manifest.json --raw-root data/vifinqa/financial_statements
+--output artifacts/t2p-catalog-v2`). It is measured on a new held-out sample that
+shares no unit with `gold/broad`:
+
+```bash
+python -m src.evaluation.broad_gold --corpus-artifact <corpus> \
+  --raw-corpus data/vifinqa/financial_statements --seed 20261015 \
+  --exclude-gold gold/broad/broad.jsonl --output gold/broad-h2
+```
+
+`gold/broad-h2` scores **137/140, ACCEPTED** (sequential, catalog v2), with zero
+wrong answers and zero negative false answers. Evidence:
+`scratch_logs/t2p-broad-h2-live.json`, `t2p-broad-h2-benchmark.json`.
+
+The sandbox harness checks unique benign results, interleaved abuse and leaked
+processes/descriptors/threads/temp directories. It exits nonzero for wrong,
+escaped, misclassified or leaked results at any level, or benign failures at
+or below the target. Larger-level benign failures remain visible even when
+they do not fail that target gate. On an installed production host, set
+`M7_SANDBOX_ISOLATION=linux-nsjail-v1` and run from `/opt/ai-financial` with the
+pinned profiles. This container can measure only local execution and a reduced
+namespace-free NsJail wrapper. Leak checks wait up to 5 s for resources to
+return to baseline; the root wrapper rerun passes with no residue, but wrapped
+M7 at 64 still times out on 7/128 requests, so plan for at most 32 concurrent
+M7 workers per host. Full production namespace/cgroup conformance remains
+unverified.
+
 AI Financial Data Assistant is a Vietnamese financial-statement question answering system designed to answer factual and numerical questions over OCR-derived financial reports and tabular data.
 
 The system is designed around a hierarchical supervisor-worker architecture with an explicit NLU/Understanding layer, grounded retrieval, program-aided numerical reasoning, sandboxed execution, and verification.
@@ -26,7 +227,7 @@ This is not a single-cell lookup. The system may need profit after tax from the 
 
 ## Architecture at a Glance
 
-The system has two core paths: **offline evidence indexing** and **online question answering**. A future optional experience-memory path is kept outside the v1 critical path.
+The system has two core paths: **offline evidence indexing** and **online question answering**. Optional experience memory stays outside the mandatory v1 critical path.
 
 ### Offline evidence indexing
 
@@ -126,7 +327,7 @@ Hybrid Retrieval Query Builder
                   escalation / abstain
 ```
 
-### Optional future experience memory
+### Optional experience memory
 
 ```text
 Train/Dev Trajectories
@@ -141,12 +342,54 @@ Experience Memory Index
         |
    relevance gate
         |
-        +---- relevant ----> advise Supervisor / Programmer / Verifier
+        +---- relevant ----> advise Programmer
         |
         +---- not relevant -> base pipeline unchanged
 ```
 
 Experience memory is optional and must be relevance-gated; it must not replace grounded evidence retrieval.
+
+M11 implements immutable TRAIN/DEV-derived strategy and guard entries, a
+DEV-calibrated BGE-M3 relevance gate, and a maximum of three entries per
+Programmer call. It stays off until `build_live_graph(..., memory=index)` receives
+a validated `MemoryIndex`. A separate `strong_client` can be supplied for tier
+routing; otherwise CHEAP/STRONG use different thinking settings on one endpoint.
+
+The authorized validation uses independent synthetic TRAIN/DEV and held-out
+cases. Tools and tools+memory each answer 4/4 in the latest live run: no accuracy
+gain is established, and production quality remains unmeasured. Full evidence,
+latency, tokens, failure modes and limitations are in `docs/TASKS.md` (M11).
+TASK-101 also passes a separate three-case real-report LOOKUP pilot in both
+serving modes, with zero answer-quality delta. This small agent-audited pilot
+does not establish broad production quality or a causal latency benefit.
+
+Run these commands with the activated project Python environment and a running
+pinned BGE-M3 endpoint. This session used `/venv/main/bin/python`. The serving
+configuration must contain the existing `embedding` endpoint contract; the local
+measured configuration is `scratch_logs/adr063-retrieval-endpoints.json`.
+Use a new dataset directory and new artifact/report paths on each run.
+
+```bash
+python -c 'from src.evaluation.memory_fixtures import write_synthetic_training; write_synthetic_training("artifacts/m11-demo")'
+python -m src.memory.run_memory_build \
+  --trajectories artifacts/m11-demo/train.jsonl \
+  --development artifacts/m11-demo/dev.jsonl \
+  --held-out-manifest artifacts/m11-demo/held-out-manifest.json \
+  --serving-config scratch_logs/adr063-retrieval-endpoints.json \
+  --dataset-id m11-independent-synthetic-v2 \
+  --output artifacts/m11-demo/memory-index.json
+python -m src.evaluation.run_memory_eval \
+  --memory-index artifacts/m11-demo/memory-index.json \
+  --serving-config scratch_logs/adr063-retrieval-endpoints.json \
+  --output scratch_logs/m11-demo-fixture-eval.json
+```
+
+The default evaluation uses deterministic generation and real OS sandbox
+execution, with no fabricated model token counts. Add `--live-programmer` for
+measured generation using the existing `.env` deployment. Held-out evaluation
+checks index hashes, never learns from its cases, and refuses protected output
+paths or overwriting an existing report/index. Currency costs stay null until
+pricing is supplied; fixture evidence coverage is not production retrieval quality.
 
 ## Model / Engine Baseline
 
@@ -245,7 +488,7 @@ The v3 architecture incorporates six additional research lessons:
 3. **Executable reasoning should be evaluated structurally.** FinQA provides explicit reasoning programs, while PAL supports delegating execution to Python.
 4. **Complex tables may benefit from question-conditioned transforms.** Chain-of-Table motivates a bounded operation history over intermediate tables rather than only a one-shot static-table program.
 5. **Hierarchical orchestration remains the default.** The 2026 financial-document benchmark reports a favorable cost/accuracy position for hierarchical supervisor-worker architectures; reflexive loops gain accuracy but add cost, latency, and coordination risk.
-6. **Memory should be selective, not always-on.** FinAcumen motivates a future experience-memory sidecar that injects strategies/guard rules only when similarity clears a threshold.
+6. **Memory should be selective, not always-on.** The optional M11 memory index injects strategies/guard rules only when similarity clears a DEV-calibrated threshold.
 
 ## Supported Question Types
 

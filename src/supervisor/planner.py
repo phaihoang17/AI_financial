@@ -2,6 +2,7 @@
 from __future__ import annotations
 
 from dataclasses import dataclass
+import re
 from typing import Optional, Sequence
 
 from src.supervisor.formula_registry import (
@@ -174,7 +175,21 @@ def plan_required_periods(
             SupervisorAbstainReason.INVALID_PERIOD_REQUIREMENT,
             "requested periods do not satisfy the approved period rule",
         )
+    if formula is not None and formula.operation is Operation.GROWTH:
+        # GROWTH_RATE consumes (previous, current); "năm 2024 so với năm 2023" names
+        # the current year first, so requirements follow time, not wording.
+        periods.sort(key=_chronological_key)
     return PeriodPlan(periods, next(iter(kinds)))
+
+
+def _chronological_key(value: str) -> tuple[int, int]:
+    match = re.fullmatch(r"([0-9]{4})(?:-Q([1-4])|-([0-9]{1,2})M)?", value)
+    if match is None:
+        raise SupervisorPlanningError(
+            SupervisorAbstainReason.INVALID_PERIOD_REQUIREMENT,
+            f"period {value!r} has no chronological order",
+        )
+    return int(match.group(1)), int(match.group(2) or match.group(3) or 0)
 
 
 def generate_retrieval_requirements(

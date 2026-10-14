@@ -28,14 +28,24 @@ from src.indexing.schemas import (
 from src.understanding.schemas import SchemaValidationError
 
 
-# A year column may carry its currency, e.g. "2023 VND".
-_YEAR_LABEL = re.compile(r"(?P<year>[0-9]{4})(?: (?:VND|VNĐ))?\Z", re.IGNORECASE)
+# A year column may carry its VND currency and scale, e.g. "2023 VND", "2023 Triệu đồng",
+# or OCR-joined "2023VND".
+_YEAR_LABEL = re.compile(
+    r"(?P<year>[0-9]{4})(?: ?(?:(?:triệu|nghìn|ngàn) )?(?:VND|VNĐ|đồng))?\Z", re.IGNORECASE
+)
 _Q_LABEL = re.compile(r"Q(?P<quarter>[1-4])/(?P<year>[0-9]{4})\Z", re.IGNORECASE)
 _QUY_LABEL = re.compile(
     r"Quý (?P<quarter>[1-4])(?:/| năm )(?P<year>[0-9]{4})\Z",
     re.IGNORECASE,
 )
-_LABEL_COLUMN_HEADERS = frozenset({"mã số", "thuyết minh"})
+# Compared with whitespace removed: OCR writes "Mãsố"/"Thuyếtminh", headers abbreviate
+# ("Mã", "TM") or merge the code and note columns into one "Mã số Thuyết minh" cell.
+_LABEL_COLUMN_HEADERS = frozenset({"mãsố", "mã", "thuyếtminh", "tm", "stt", "mãsốthuyếtminh"})
+# Line ordinals of a leading "STT" column: "1", "18.1", "I", "XIII" (bank TT49 layout).
+_LINE_ORDINAL = re.compile(r"(?:[0-9]{1,2}(?:\.[0-9]{1,2})*|[IVXLC]{1,6})[.)]?\Z|stt\Z", re.IGNORECASE)
+# Fallback tolerance: rows off the dominant row-header width (e.g. one merged EPS
+# line) are left unstructured instead of discarding the whole table.
+_DOMINANT_WIDTH_SHARE = 0.9
 
 
 @dataclass(frozen=True)
@@ -120,12 +130,26 @@ def _label_columns(facts: Dict[str, _CellFacts]) -> Set[int]:
     return {
         column
         for cell_facts in facts.values()
-        if cell_facts.normalized_text.casefold() in _LABEL_COLUMN_HEADERS
+        if "".join(cell_facts.normalized_text.split()).casefold() in _LABEL_COLUMN_HEADERS
         for column in range(
             cell_facts.anchor.anchor_column,
             cell_facts.anchor.anchor_column + cell_facts.anchor.colspan,
         )
     }
+
+
+def _ordinal_columns(facts: Dict[str, _CellFacts]) -> Set[int]:
+    """A first column holding only line ordinals is a label column, not data."""
+    cells = [
+        cell_facts.normalized_text
+        for cell_facts in facts.values()
+        if cell_facts.anchor.anchor_column == 0
+        and cell_facts.anchor.colspan == 1
+        and cell_facts.normalized_text
+    ]
+    if len(cells) >= 3 and all(_LINE_ORDINAL.match(text) for text in cells):
+        return {0}
+    return set()
 
 
 def _body_rows(
@@ -349,11 +373,23 @@ def infer_header_structure(
 
     body_rows = _body_rows(grid, facts)
     widths = {width for width, _ in body_rows.values()}
-    if not body_rows or len(widths) != 1:
-        # Fallback only where the generic rule recovers nothing, so tables it
-        # already structures are unchanged.
-        body_rows = _body_rows(grid, facts, _label_columns(facts))
-        widths = {width for width, _ in body_rows.values()}
+    label_columns = _label_columns(facts) | _ordinal_columns(facts)
+    if label_columns:
+        # The label-column rule replaces the generic one only where the generic
+        # rule recovers nothing consistent, or fewer rows: it drops lines whose
+        # labels carry formulas ("(60=50-51-52)") and reads VAS codes as data.
+        fallback = _body_rows(grid, facts, label_columns)
+        counts: Dict[int, int] = {}
+        for width, _ in fallback.values():
+            counts[width] = counts.get(width, 0) + 1
+        if counts:
+            dominant = max(counts, key=lambda width: (counts[width], -width))
+            if counts[dominant] >= _DOMINANT_WIDTH_SHARE * len(fallback):
+                fallback = {row: value for row, value in fallback.items() if value[0] == dominant}
+        fallback_widths = {width for width, _ in fallback.values()}
+        generic_ok = bool(body_rows) and len(widths) == 1
+        if len(fallback_widths) == 1 and (not generic_ok or len(fallback) > len(body_rows)):
+            body_rows, widths = fallback, fallback_widths
     if not body_rows or len(widths) != 1:
         return HeaderInference(
             hierarchy=HeaderHierarchy(nodes=[]),

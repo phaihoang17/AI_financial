@@ -242,7 +242,7 @@ Retrieval quality is a product-critical metric. Evaluation must separately measu
 
 ## 10. Reasoning and Calculation Requirements
 
-For numerical questions:
+For numerical questions in the default M9 path:
 
 - use grounded evidence,
 - execute only the validated symbolic Program DSL through trusted deterministic
@@ -258,6 +258,12 @@ For numerical questions:
 For complex tables, an optional bounded table-transformation mode may be used before or during program generation. Atomic transformations may include row/column selection, adding derived columns, grouping, and sorting. The operation history must be explicit and execution must be deterministic.
 
 The default mode remains program-aided reasoning; dynamic table transformation is a targeted fallback rather than an always-on loop.
+
+ADR-069 adds the user-requested, opt-in Text-to-Pandas path. It generates
+restricted Pandas source for an isolated worker, with mandatory AST validation,
+source/period/unit checks and independent arithmetic/program verification.
+This experimental path does not replace the default symbolic Program DSL until
+the real-model benchmark meets its declared gates.
 
 ## 11. Retrieval Product Requirements
 

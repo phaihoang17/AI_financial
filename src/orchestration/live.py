@@ -90,19 +90,28 @@ class LiveSandbox:
 
 
 def build_live_graph(client, *, corpus_root, vector_root, bm25_root, raw_root,
-                     provenance_root, table_class_root, top_k=10):
+                     provenance_root, table_class_root, top_k=10,
+                     strong_client=None, memory=None, query_encoder=None, reranker=None):
     bm25 = BM25Index(bm25_root, corpus_root)
     vector = VectorSearcher(vector_root, corpus_root)
     sidecar = ProvenanceSidecar(provenance_root, corpus_root)
     table_classes = TableClassSidecar(table_class_root, corpus_root)
-    lookup = CorpusChunkLookup(corpus_root)
-    # Keep only one BGE model resident on the 8 GiB Mac.
-    retriever = Batch3Retriever(
-        bm25, vector, lambda query: embed_query_texts(query, batch_size=1, device="cpu"),
-        sidecar=sidecar, chunk_lookup=lookup, reranker_batch_size=1,
-    )
+    lookup = CorpusChunkLookup(corpus_root, vector_metadata_path=vector.metadata_path)
+    if query_encoder is None and reranker is None:
+        # Keep only one BGE model resident on the 8 GiB Mac.
+        retriever = Batch3Retriever(
+            bm25, vector, lambda query: embed_query_texts(query, batch_size=1, device="cpu"),
+            sidecar=sidecar, chunk_lookup=lookup, reranker_batch_size=1,
+        )
+    else:
+        # ADR-049 served BGE endpoints: the pinned models stay resident in their own processes.
+        retriever = Batch3Retriever(
+            bm25, vector, lambda query: embed_query_texts(query, encoder=query_encoder),
+            reranker=reranker, sidecar=sidecar, chunk_lookup=lookup,
+        )
     repository = EvidenceProvenanceRepository(
         corpus_root, raw_root, sidecar=sidecar, table_class_sidecar=table_classes,
+        vector_metadata_path=vector.metadata_path,
     )
     stages = LiveEvidenceStages(retriever, repository)
     roots = {"corpus": corpus_root, "vector": vector_root, "bm25": bm25_root,
@@ -115,9 +124,11 @@ def build_live_graph(client, *, corpus_root, vector_root, bm25_root, raw_root,
     aliases = [CompanyAlias(name, name, ticker) for ticker, name in companies]
     dependencies = OrchestrationDependencies(
         nlu=APINLU(client, aliases), retrieval=stages, cell_locator=stages,
-        evidence_builder=stages, programmer=APIProgrammer(client),
+        evidence_builder=stages, programmer=APIProgrammer(client, strong_client=strong_client, memory=memory),
         sandbox=LiveSandbox(), binding_store=BindingStore(), top_k=top_k,
         artifact_versions={**{name: manifest["artifact_id"] for name, manifest in manifests.items()},
-                           "generative_model": client.endpoint.model_id},
+                           "generative_model": client.endpoint.model_id,
+                           **({"strong_generative_model": strong_client.endpoint.model_id} if strong_client else {}),
+                           **({"experience_memory": memory.artifact_id} if memory else {})},
     )
     return OrchestrationGraph(dependencies)

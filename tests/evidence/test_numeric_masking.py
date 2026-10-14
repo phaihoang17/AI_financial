@@ -84,7 +84,7 @@ class NumericMaskingTests(unittest.TestCase):
     def test_ambiguous_schema_is_rejected(self):
         current_plan = plan()
         item_a, location_a = grounded_cell("a")
-        item_b, location_b = grounded_cell("b")
+        item_b, location_b = grounded_cell("b", raw_value="13.00", decimal_value="13.00")
         evidence = [item_a, item_b]
         locations = {
             item_a.evidence_id: location_a,

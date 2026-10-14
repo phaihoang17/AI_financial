@@ -1,7 +1,9 @@
-# NsJail applies this defense-in-depth filter before the fixed Python worker is
-# executed. execve must remain available for that one initial transition. The
-# worker then clears its environment and installs the existing Python audit
-# guard, while the closed DSL exposes no callable or source-code surface.
+// x86_64 policy in the kafel dialect bundled with NsJail 3.4: comments use //,
+// syscalls missing from its table are listed by number, and umount2 is named umount.
+// NsJail applies this defense-in-depth filter before the fixed Python worker is
+// executed. execve must remain available for that one initial transition. The
+// worker then clears its environment and installs the existing Python audit
+// guard, while the closed DSL exposes no callable or source-code surface.
 
 ERRNO(1) {
   accept,
@@ -26,10 +28,10 @@ ERRNO(1) {
 
 ERRNO(1) {
   clone,
-  clone3,
+  SYSCALL[435],  // clone3
   execveat,
-  fork ON x86_64,
-  vfork ON x86_64
+  fork,
+  vfork
 }
 
 ERRNO(1) {
@@ -39,7 +41,7 @@ ERRNO(1) {
   delete_module,
   finit_module,
   init_module,
-  io_uring_setup,
+  SYSCALL[425],  // io_uring_setup
   kexec_load,
   keyctl,
   mount,
@@ -52,7 +54,7 @@ ERRNO(1) {
   setns,
   swapoff,
   swapon,
-  umount2,
+  umount,  // umount2 (x86_64 166)
   unshare,
   userfaultfd
 }

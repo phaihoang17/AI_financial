@@ -1,0 +1,143 @@
+# Chat-model providers for the Text-to-Pandas code generator (ADR-072).
+#
+# Select one with `--provider NAME` or the LLM_PROVIDER environment variable;
+# otherwise `default` is used. Secrets never go in this file: each entry names
+# the environment variable (`api_key_env`) that holds its key, read from the
+# environment or from `.env`. `model_env` / `base_url_env` override the model
+# and endpoint without editing this file.
+#
+# Keys (all optional except protocol, base_url, model):
+#   protocol          "openai-chat" (OpenAI-compatible chat/completions) or
+#                     "anthropic-messages" (Anthropic Messages API)
+#   chat_path         route under base_url (default "/v1/chat/completions")
+#   auth              "bearer" | "x-api-key" | "api-key" | "none"
+#   json_mode         send response_format={"type":"json_object"}
+#   thinking          "deepseek" sends DeepSeek's thinking switch; "none" omits it
+#   send_temperature  send temperature=0 (reasoning models reject it)
+#   max_tokens        fixed completion limit (reasoning tokens count toward it)
+#   max_tokens_field  "max_tokens" or "max_completion_tokens"
+#   retries           bounded retries on 408/409/429/5xx/529/timeouts (0-5)
+#   headers           fixed non-secret headers (API versions, betas)
+#   extra_body        provider-specific request fields
+#   pricing           USD per 1M tokens {cache_miss, cache_hit, output}; the
+#                     benchmark reports cost only when this is set
+#
+# Only `deepseek` has been measured live in this repository (ADR-069..072).
+# Other entries are wire-compatible configurations covered by offline tests;
+# run the benchmark before relying on one in production.
+
+default = "deepseek"
+
+[providers.deepseek]
+protocol = "openai-chat"
+base_url = "https://api.deepseek.com"
+model = "deepseek-v4-flash"
+api_key_env = "DEEPSEEK_API_KEY"
+model_env = "DEEPSEEK_MODEL"
+base_url_env = "DEEPSEEK_BASE_URL"
+thinking = "deepseek"
+pricing = { cache_miss = 0.30, cache_hit = 0.006, output = 1.20 }
+
+[providers.openai]
+protocol = "openai-chat"
+base_url = "https://api.openai.com"
+model = "gpt-5-mini"
+api_key_env = "OPENAI_API_KEY"
+model_env = "OPENAI_MODEL"
+base_url_env = "OPENAI_BASE_URL"
+send_temperature = false
+max_tokens = 8192
+max_tokens_field = "max_completion_tokens"
+
+[providers.azure-openai]
+protocol = "openai-chat"
+# Set AZURE_OPENAI_ENDPOINT=https://<resource>.openai.azure.com and
+# AZURE_OPENAI_DEPLOYMENT=<deployment name>.
+base_url = "https://example-resource.openai.azure.com"
+base_url_env = "AZURE_OPENAI_ENDPOINT"
+chat_path = "/openai/v1/chat/completions"
+model = "gpt-5-mini"
+model_env = "AZURE_OPENAI_DEPLOYMENT"
+api_key_env = "AZURE_OPENAI_API_KEY"
+auth = "api-key"
+send_temperature = false
+max_tokens = 8192
+max_tokens_field = "max_completion_tokens"
+
+[providers.anthropic]
+protocol = "anthropic-messages"
+base_url = "https://api.anthropic.com"
+chat_path = "/v1/messages"
+model = "claude-opus-5-5"
+api_key_env = "ANTHROPIC_API_KEY"
+model_env = "ANTHROPIC_MODEL"
+auth = "x-api-key"
+json_mode = false
+# Current Claude models always think and reject temperature; thinking tokens
+# count toward max_tokens, so leave room for them.
+send_temperature = false
+max_tokens = 16000
+# Server-side fallback to another model on a safety refusal.
+headers = { "anthropic-version" = "2023-06-01", "anthropic-beta" = "server-side-fallback-2026-07-01" }
+extra_body = { fallbacks = "default" }
+pricing = { cache_miss = 4.00, cache_hit = 0.20, output = 20.00 }
+
+[providers.gemini]
+protocol = "openai-chat"
+base_url = "https://generativelanguage.googleapis.com"
+chat_path = "/v1beta/openai/chat/completions"
+model = "gemini-2.5-flash"
+api_key_env = "GEMINI_API_KEY"
+model_env = "GEMINI_MODEL"
+max_tokens = 8192
+
+[providers.qwen]
+protocol = "openai-chat"
+base_url = "https://dashscope-intl.aliyuncs.com"
+base_url_env = "DASHSCOPE_BASE_URL"
+chat_path = "/compatible-mode/v1/chat/completions"
+model = "qwen-plus"
+api_key_env = "DASHSCOPE_API_KEY"
+model_env = "DASHSCOPE_MODEL"
+extra_body = { enable_thinking = false }
+
+[providers.openrouter]
+protocol = "openai-chat"
+base_url = "https://openrouter.ai"
+chat_path = "/api/v1/chat/completions"
+model = "deepseek/deepseek-chat"
+api_key_env = "OPENROUTER_API_KEY"
+model_env = "OPENROUTER_MODEL"
+
+[providers.groq]
+protocol = "openai-chat"
+base_url = "https://api.groq.com"
+chat_path = "/openai/v1/chat/completions"
+model = "llama-3.3-70b-versatile"
+api_key_env = "GROQ_API_KEY"
+model_env = "GROQ_MODEL"
+
+[providers.mistral]
+protocol = "openai-chat"
+base_url = "https://api.mistral.ai"
+model = "mistral-small-latest"
+api_key_env = "MISTRAL_API_KEY"
+model_env = "MISTRAL_MODEL"
+
+# Self-hosted OpenAI-compatible servers on this host (no key, loopback only).
+[providers.vllm]
+protocol = "openai-chat"
+base_url = "http://127.0.0.1:8000"
+base_url_env = "VLLM_BASE_URL"
+model = "Qwen/Qwen3-8B"
+model_env = "VLLM_MODEL"
+auth = "none"
+extra_body = { chat_template_kwargs = { enable_thinking = false } }
+
+[providers.ollama]
+protocol = "openai-chat"
+base_url = "http://127.0.0.1:11434"
+base_url_env = "OLLAMA_BASE_URL"
+model = "qwen3:8b"
+model_env = "OLLAMA_MODEL"
+auth = "none"

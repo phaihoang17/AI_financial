@@ -17,10 +17,15 @@ SERVING_SCHEMA_VERSION = "m10-serving-v1"
 
 
 class ServingError(Exception):
-    """A typed serving-configuration, transport, or protocol failure."""
+    """A typed serving-configuration, transport, or protocol failure.
 
-    def __init__(self, code: str, message: str) -> None:
+    ``retryable`` marks transient transport failures (rate limits, overload,
+    timeouts, dropped connections) that a bounded client retry may repeat.
+    """
+
+    def __init__(self, code: str, message: str, *, retryable: bool = False) -> None:
         self.code = code
+        self.retryable = retryable
         super().__init__(f"{code}: {message}")
 
 

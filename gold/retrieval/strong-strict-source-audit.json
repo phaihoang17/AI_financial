@@ -1,0 +1,275 @@
+{
+  "corpus_artifact_id": "7c14b5498ce3871adfc61d8a475e910ad90e2e2143f6298a3d1342c048499a66",
+  "reviewer": "Codex agent; user authorized creation",
+  "human_reviewed": false,
+  "scope": "Curated three-case AVERAGE/LNST pilot, not official ViFinQA benchmark",
+  "gold_sha256": "df6fcd93a9852cdcc2f7fabfa1c708cf744733197ed0ceb3c09b07a850a4f7ac",
+  "cases": [
+    {
+      "question_id": "task100-average-aaa-hợp-nhất",
+      "question": "Trung bình lợi nhuận sau thuế TNDN theo báo cáo hợp nhất của CTCP Nhựa An Phát Xanh (AAA) trong năm 2022 và năm 2023 là bao nhiêu đồng?",
+      "ticker": "AAA",
+      "scope": "HOP_NHAT",
+      "sources": [
+        {
+          "report_id": "report_7f7475e390ab347beb20301bbe5cc871a1d082fee19abcdf6fb322e21260535c",
+          "source_ref": "AAA/2022/AAA_financial_statements_2022_consolidated/AAA_financial_statements_2022_consolidated_extracted.txt",
+          "source_sha256": "34619141507d3dc60bfdd979edc548eec9bbf5d02b7bb085a0c33af49caaf1f3",
+          "period": "2022",
+          "table_id": "table_9fed7ad817f93ab2dfe2af6981732ef7a1f97fd4ff35a36c494f33c12f538ae6",
+          "cell_id": "cell_ad3e0ffd119af00ac4a89d9b5c44fd4e9648f098b21c077c0b29cb16188f0d81",
+          "raw_row": [
+            "60",
+            "18. Lợi nhuận sau thuế TNDN",
+            "",
+            "117.291.267.937",
+            "324.143.024.419"
+          ],
+          "headers": [
+            [
+              "Mã số",
+              "Chỉ TIỀU",
+              "Thuyết minh",
+              "Năm nay",
+              "Năm trước"
+            ],
+            [
+              "01",
+              "1. Doanh thu bán hàng và cung cấp dịch vụ",
+              "27.1",
+              "15.314.698.238.896",
+              "13.154.009.928.330"
+            ]
+          ],
+          "source_span": {
+            "start": 22644,
+            "end": 22668
+          },
+          "value": "117291267937",
+          "unit": "VND",
+          "scale": "RAW",
+          "gold_chunk_ids": [
+            "81bd22303504923c76d8b5c8462a740320ff5067b98451afe48d0a8b81f56055"
+          ]
+        },
+        {
+          "report_id": "report_0f339056833138dd7aa7f08bb91a3ef2e5df203e89af1686bbe70cf3221da3aa",
+          "source_ref": "AAA/2023/AAA_financial_statements_2023_consolidated/AAA_financial_statements_2023_consolidated_extracted.txt",
+          "source_sha256": "627bda5304635b8585c421ae22735ea5c1ea7e429461762f85efd4a634dbbb95",
+          "period": "2023",
+          "table_id": "table_881e5823594ccb658ab25f32cd77ff31130d57dda04444a707baff6b17728bab",
+          "cell_id": "cell_e305364aa29023e2c4de00b61a99aab08a8dfc0dc353e30406a300b7479e85f5",
+          "raw_row": [
+            "60",
+            "18. Lợi nhuận sau thuế TNDN",
+            "",
+            "309.193.823.134",
+            "117.291.267.937"
+          ],
+          "headers": [
+            [
+              "Mã số",
+              "CHÍ TIÊU",
+              "Thuyết minh",
+              "Năm nay",
+              "Năm trước"
+            ],
+            [
+              "01",
+              "1. Doanh thu bán hàng và cung cấp dịch vụ",
+              "28.1",
+              "12.628.191.473.898",
+              "15.314.698.238.896"
+            ]
+          ],
+          "source_span": {
+            "start": 22645,
+            "end": 22669
+          },
+          "value": "309193823134",
+          "unit": "VND",
+          "scale": "RAW",
+          "gold_chunk_ids": [
+            "236fcd8830b2b1809cce8f99e51963c2927c1724c14d693a66bfdec04d73534f"
+          ]
+        }
+      ],
+      "answer": "213242545535.5"
+    },
+    {
+      "question_id": "task100-average-aaa-riêng",
+      "question": "Trung bình lợi nhuận sau thuế TNDN theo báo cáo riêng của CTCP Nhựa An Phát Xanh (AAA) trong năm 2022 và năm 2023 là bao nhiêu đồng?",
+      "ticker": "AAA",
+      "scope": "RIENG",
+      "sources": [
+        {
+          "report_id": "report_42792ca8e0896c987d3229587f7edf87f9fd618af94f0bc67e1ec0a1ea740467",
+          "source_ref": "AAA/2022/AAA_financial_statements_2022_separate/AAA_financial_statements_2022_separate_extracted.txt",
+          "source_sha256": "f69f787fcd4210b9f263be855ed236a62e0efed6b132dd60d1b2812e0dc7f316",
+          "period": "2022",
+          "table_id": "table_f22cde3ddaa307d6998ef01a96a14d3971448925aa4bf618b7a940c3d2278562",
+          "cell_id": "cell_9b89f474f03f13391bb4651c4a430cc4df259408e02d47291848dea91585d6ce",
+          "raw_row": [
+            "60",
+            "17. Lợi nhuận sau thuế TNDN",
+            "",
+            "33.840.974.352",
+            "187.738.207.281"
+          ],
+          "headers": [
+            [
+              "Mã số",
+              "CHỈ TIÊU",
+              "Thuyết minh",
+              "Năm nay",
+              "Năm trước"
+            ],
+            [
+              "01",
+              "1. Doanh thu bán hàng và cung cấp dịch vụ",
+              "23.1",
+              "5.454.933.422.063",
+              "5.130.176.596.375"
+            ]
+          ],
+          "source_span": {
+            "start": 21350,
+            "end": 21373
+          },
+          "value": "33840974352",
+          "unit": "VND",
+          "scale": "RAW",
+          "gold_chunk_ids": [
+            "74370a198fb4f8698402428eb2818e5f46a3b50cf965ca6b8b999eebedecbd9e"
+          ]
+        },
+        {
+          "report_id": "report_4ba954cb37dcc2f30c74581cb846967b8f9898481365cab90aa3f8716a6e056b",
+          "source_ref": "AAA/2023/AAA_financial_statements_2023_separate/AAA_financial_statements_2023_separate_extracted.txt",
+          "source_sha256": "8023cd9387dcbc3cc0ad46873c65cc5df78e98af841a665ba556c55da071a2b8",
+          "period": "2023",
+          "table_id": "table_a563b3b154d50f1a3134b63fb7c1b2536bbcadd06f24f2f2fc5b15ad2b49d386",
+          "cell_id": "cell_3b273a0ed7980bdf064cad8e7e64a32cb24ed6dc763d5775739c8d3ce7b1891c",
+          "raw_row": [
+            "60",
+            "Lợi nhuận sau thuế TNDN",
+            "",
+            "164.222.098.218",
+            "33.840.974.352"
+          ],
+          "headers": [
+            [
+              "Mã số",
+              "CHÍ TIÊU",
+              "Thuyết minh",
+              "Năm nay",
+              "Năm trước"
+            ],
+            [
+              "01",
+              "Doanh thu bán hàng và cung cấp dịch vụ",
+              "24.1",
+              "4.151.047.628.319",
+              "5.454.933.422.063"
+            ]
+          ],
+          "source_span": {
+            "start": 20987,
+            "end": 21011
+          },
+          "value": "164222098218",
+          "unit": "VND",
+          "scale": "RAW",
+          "gold_chunk_ids": [
+            "89f2a5ff7325255d24c65a5f740c98497921f9f5e10a6060803373701bf7b259"
+          ]
+        }
+      ],
+      "answer": "99031536285"
+    },
+    {
+      "question_id": "task100-average-fpt-hợp-nhất",
+      "question": "Trung bình lợi nhuận sau thuế TNDN theo báo cáo hợp nhất của CTCP FPT (FPT) trong năm 2022 và năm 2023 là bao nhiêu đồng?",
+      "ticker": "FPT",
+      "scope": "HOP_NHAT",
+      "sources": [
+        {
+          "report_id": "report_6ddf230244069e6179386d57c0fe40f51e615454e4e035e44d0c0c4072755c11",
+          "source_ref": "FPT/2022/FPT_financial_statements_2022_consolidated/FPT_financial_statements_2022_consolidated_extracted.txt",
+          "source_sha256": "2114c8f091c29fd7f6a26bbfb205fcc747ca280e617a4c0a8a2015cfd89579d7",
+          "period": "2022",
+          "table_id": "table_bf81f6704501b70f52f09dff5958a5a258e7b87e411f4d0579149969a506139d",
+          "cell_id": "cell_3e5197a00927722cf389a95e4526952ee44094c4b7b0425f1bf00f5a75bfa66b",
+          "raw_row": [
+            "60",
+            "Lợi nhuận sau thuế TNDN (60 = 50 - 51 - 52) Phân bổ cho:",
+            "",
+            "6.491.343.454.469",
+            "5.349.301.099.496"
+          ],
+          "headers": [
+            [
+              "Mã số",
+              "",
+              "Thuyết minh",
+              "Năm tài chính kết thúc ngày 31 tháng 12 năm"
+            ],
+            [
+              "2022 VND",
+              "2021 VND"
+            ]
+          ],
+          "source_span": {
+            "start": 25306,
+            "end": 25332
+          },
+          "value": "6491343454469",
+          "unit": "VND",
+          "scale": "RAW",
+          "gold_chunk_ids": [
+            "811ed5cdafb89c2deac48533472b6ac04e71353ac5e1fd40c20eafd7ef8113e3"
+          ]
+        },
+        {
+          "report_id": "report_f7971d7b9eb0380ba4b61a21ba95464fab97822f6a5deb6e19c08cd20bf9bcce",
+          "source_ref": "FPT/2023/FPT_financial_statements_2023_consolidated/FPT_financial_statements_2023_consolidated_extracted.txt",
+          "source_sha256": "1a5c9fd0a3e1f2a1b827ddb6a5a192f114d50626bdfda27dee161e51bbbb6849",
+          "period": "2023",
+          "table_id": "table_54afc8eaa187d1ed32a2a1c6afa7ea8e11ad48910dd3943a0f8a68217bae8b38",
+          "cell_id": "cell_7381f7788e76f72e8ef5dcfbc9e3bf2ab6c43a9111a575b48fcde4bc127b9d8d",
+          "raw_row": [
+            "60",
+            "Lợi nhuận sau thuế TNDN (60 = 50 - 51 - 52)",
+            "",
+            "7.788.049.739.616",
+            "6.491.343.454.469"
+          ],
+          "headers": [
+            [
+              "Mã số",
+              "",
+              "Thuyết minh",
+              "Năm tài chính kết thúc ngày 31 tháng 12 năm"
+            ],
+            [
+              "2023 VND",
+              "2022 VND"
+            ]
+          ],
+          "source_span": {
+            "start": 24510,
+            "end": 24536
+          },
+          "value": "7788049739616",
+          "unit": "VND",
+          "scale": "RAW",
+          "gold_chunk_ids": [
+            "d94129163c5037e2c0821ac765dac85fbf06ee326f4cf3d5b262b2ae760ededc"
+          ]
+        }
+      ],
+      "answer": "7139696597042.5"
+    }
+  ],
+  "period_contract": "The singleton gold.period is null; the two requested years are preserved per source in cases[].sources[].period."
+}

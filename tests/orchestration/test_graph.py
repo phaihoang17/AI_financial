@@ -470,3 +470,69 @@ def test_replay_is_deterministic_and_retry_loop_is_bounded():
 
     assert first.state.to_dict() == second.state.to_dict()
     assert len(first.state.attempts) <= first.state.retry_state.max_retries + 1
+
+
+@pytest.mark.parametrize("code", ["PROGRAMMER_JSON_INVALID", "SERVING_RESPONSE_TRUNCATED", "FORMULA_ARITY_MISMATCH", "MISSING_REQUIRED_EVIDENCE", "PLAN_FORMULA_MISMATCH"])
+@pytest.mark.parametrize("failures,expected", [(1, "PASS"), (20, "ABSTAIN")])
+def test_programmer_rejection_retries_with_same_evidence(failures, expected, code):
+    from src.programmer.schemas import ProgrammerResult, ProgrammerStatus
+    current = query_understanding()
+    graph, deps = make_graph(current, [fixture_pairs(("2015",), ("12.5",))])
+    original = deps.programmer.generate
+    calls = []
+
+    def generate(programmer_input, model_tier):
+        calls.append(programmer_input.to_dict())
+        if len(calls) <= failures:
+            return ProgrammerResult(ProgrammerStatus.REJECTED, None,
+                                    code, "invalid proposal")
+        return original(programmer_input, model_tier)
+
+    deps.programmer.generate = generate
+    result = run(graph, current).state
+    assert result.outcome.value == expected
+    assert len(deps.retrieval.calls) == 1
+    assert all(call == calls[0] for call in calls)
+    assert all(attempt.entry_stage is AttemptEntryStage.PROGRAMMER for attempt in result.attempts[1:])
+    assert len(calls) == (2 if expected == "PASS" else result.retry_state.max_retries + 1)
+    if expected == "ABSTAIN":
+        assert result.final_response.reason_code == code
+        assert result.retry_state.terminal
+
+
+def test_unknown_programmer_failure_abstains_without_retry():
+    from src.programmer.schemas import ProgrammerResult, ProgrammerStatus
+    current = query_understanding()
+    graph, deps = make_graph(current, [fixture_pairs(("2015",), ("12.5",))])
+    deps.programmer.generate = lambda *_: ProgrammerResult(
+        ProgrammerStatus.REJECTED, None, "UNREGISTERED_FAILURE", "unknown")
+    state = run(graph, current).state
+    assert state.outcome is FinalResponseStatus.ABSTAIN
+    assert len(state.attempts) == 1
+    assert state.final_response.reason_code == "UNREGISTERED_FAILURE"
+
+
+def test_programmer_retry_shares_budget_with_sandbox_retry():
+    from src.programmer.schemas import ProgrammerResult, ProgrammerStatus
+    current = query_understanding()
+    graph, deps = make_graph(
+        current, [fixture_pairs(("2015",), ("12.5",))],
+        sandbox_outcomes=((ExecutionFailureStage.ARITHMETIC, InterpreterFailureCode.INVALID_FORMULA.value),),
+    )
+    original = deps.programmer.generate
+    calls = []
+
+    def generate(programmer_input, model_tier):
+        calls.append(programmer_input)
+        if len(calls) == 1:
+            return original(programmer_input, model_tier)
+        return ProgrammerResult(ProgrammerStatus.REJECTED, None,
+                                "PROGRAMMER_JSON_INVALID", "invalid JSON")
+
+    deps.programmer.generate = generate
+    state = run(graph, current).state
+    assert state.outcome is FinalResponseStatus.ABSTAIN
+    assert state.retry_state.retries_used == state.retry_state.max_retries
+    assert len(calls) == state.retry_state.max_retries + 1
+    assert len(deps.retrieval.calls) == 1
+    assert len(deps.sandbox.calls) == 1

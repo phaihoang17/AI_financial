@@ -133,6 +133,30 @@ class RequiredPeriodTests(unittest.TestCase):
         self.assertEqual(plan_required_periods(two.periods, operation=two.operation, formula=average).periods, ["2023", "2024"])
 
 
+class GrowthPeriodOrderTests(unittest.TestCase):
+    def test_growth_requirements_follow_time_not_question_wording(self):
+        # "năm 2024 so với năm 2023" names the current year first.
+        growth = select_formula(understanding(Operation.GROWTH))
+        worded = understanding(Operation.GROWTH, periods=(("2024", PeriodKind.NAM), ("2023", PeriodKind.NAM)))
+        period_plan = plan_required_periods(worded.periods, operation=worded.operation, formula=growth)
+        self.assertEqual(period_plan.periods, ["2023", "2024"])
+        requirements = generate_retrieval_requirements(worded, period_plan, formula=growth)
+        self.assertEqual([item.period for item in requirements], ["2023", "2024"])
+        quarters = understanding(Operation.GROWTH, periods=(("2024-Q1", PeriodKind.QUY), ("2023-Q4", PeriodKind.QUY)))
+        self.assertEqual(
+            plan_required_periods(quarters.periods, operation=quarters.operation, formula=growth).periods,
+            ["2023-Q4", "2024-Q1"],
+        )
+
+    def test_average_keeps_question_order(self):
+        average = select_formula(understanding(Operation.AGGREGATE))
+        worded = understanding(Operation.AGGREGATE, periods=(("2024", PeriodKind.NAM), ("2023", PeriodKind.NAM)))
+        self.assertEqual(
+            plan_required_periods(worded.periods, operation=worded.operation, formula=average).periods,
+            ["2024", "2023"],
+        )
+
+
 class FormulaPlannerTests(unittest.TestCase):
     def test_registry_selection_and_unknown_rejection(self):
         growth = select_formula(understanding(Operation.GROWTH))

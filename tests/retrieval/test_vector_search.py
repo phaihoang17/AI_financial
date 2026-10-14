@@ -137,20 +137,36 @@ class VectorSearchTests(unittest.TestCase):
 
     def test_real_500_vector_artifact_search(self):
         repository = Path(__file__).resolve().parents[2]
-        corpus = repository / "artifacts/m2-vector-index-v1/smoke-input-500"
-        vectors = repository / "artifacts/m2-vector-index-v1/smoke-resume"
+        corpus = repository / "artifacts/m2-vector-index-v2/smoke-input-500"
+        vectors = repository / "artifacts/m2-vector-index-v2/smoke-500"
         if not (corpus / "manifest.json").is_file() or not (vectors / "manifest.json").is_file():
-            self.skipTest("local real-BGE smoke artifacts are unavailable")
-        query = make_query(year="2016", scope=StatementScope.RIENG, texts=("lợi nhuận",))
+            self.skipTest("local real-BGE v2 smoke artifacts are unavailable")
+        shard = corpus / "shards/shard-000000.jsonl"
+        report = json.loads(shard.read_text(encoding="utf-8").splitlines()[0])["report"]
+        scope = StatementScope(report["statement_scope"])
+        query = make_query(
+            ticker=report["ticker"], year=str(report["report_year"]), scope=scope, texts=("lợi nhuận",)
+        )
 
         result = VectorSearcher(vectors, corpus).search(query, embeddings_for(query), top_k=5)
 
         self.assertTrue(result)
         self.assertLessEqual(len(result), 5)
-        self.assertTrue(all(item.ticker == "AAA" for item in result))
-        self.assertTrue(all(item.report_year == 2016 for item in result))
-        self.assertTrue(all(item.statement_scope is StatementScope.RIENG for item in result))
+        self.assertTrue(all(item.ticker == report["ticker"] for item in result))
+        self.assertTrue(all(item.report_year == report["report_year"] for item in result))
+        self.assertTrue(all(item.statement_scope is scope for item in result))
 
+    def test_stale_v1_smoke_artifact_is_rejected(self):
+        repository = Path(__file__).resolve().parents[2]
+        corpus = repository / "artifacts/m2-vector-index-v1/smoke-input-500"
+        vectors = repository / "artifacts/m2-vector-index-v1/smoke-resume"
+        if not (corpus / "manifest.json").is_file() or not (vectors / "manifest.json").is_file():
+            self.skipTest("local real-BGE v1 smoke artifacts are unavailable")
+
+        with self.assertRaises(VectorSearchError) as raised:
+            VectorSearcher(vectors, corpus)
+
+        self.assertEqual(raised.exception.code, "M2_CORPUS_SCHEMA_MISMATCH")
 
 if __name__ == "__main__":
     unittest.main()

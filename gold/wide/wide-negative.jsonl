@@ -1,0 +1,17 @@
+{"question_id": "neg-000-unsupported_metric", "question": "Doanh thu thuần theo báo cáo hợp nhất của CTCP Tập đoàn Khải Hoàn Land (KHG) năm 2020 là bao nhiêu?", "expected": "NO_ANSWER", "kind": "UNSUPPORTED_METRIC"}
+{"question_id": "neg-001-unsupported_metric", "question": "Tổng tài sản theo báo cáo hợp nhất của CTCP SAM Holdings (SAM) năm 2021 là bao nhiêu?", "expected": "NO_ANSWER", "kind": "UNSUPPORTED_METRIC"}
+{"question_id": "neg-002-unsupported_metric", "question": "ROE theo báo cáo riêng của Tổng Công ty cổ phần Vận tải Dầu khí (PVT) năm 2016 là bao nhiêu?", "expected": "NO_ANSWER", "kind": "UNSUPPORTED_METRIC"}
+{"question_id": "neg-003-unsupported_metric", "question": "Lợi nhuận gộp theo báo cáo hợp nhất của Ngân hàng TMCP Quân đội (MBB) năm 2015 là bao nhiêu?", "expected": "NO_ANSWER", "kind": "UNSUPPORTED_METRIC"}
+{"question_id": "neg-004-unsupported_metric", "question": "EPS theo báo cáo riêng của CTCP Tập đoàn GELEX (GEX) năm 2019 là bao nhiêu?", "expected": "NO_ANSWER", "kind": "UNSUPPORTED_METRIC"}
+{"question_id": "neg-005-unsupported_metric", "question": "Vốn chủ sở hữu theo báo cáo hợp nhất của CTCP Hàng tiêu dùng Masan (MCH) năm 2017 là bao nhiêu?", "expected": "NO_ANSWER", "kind": "UNSUPPORTED_METRIC"}
+{"question_id": "neg-006-missing_period", "question": "Lợi nhuận sau thuế TNDN theo báo cáo riêng của SJG là bao nhiêu?", "expected": "NO_ANSWER", "kind": "MISSING_PERIOD"}
+{"question_id": "neg-007-missing_period", "question": "Lợi nhuận sau thuế TNDN theo báo cáo riêng của NAB là bao nhiêu?", "expected": "NO_ANSWER", "kind": "MISSING_PERIOD"}
+{"question_id": "neg-008-missing_period", "question": "Lợi nhuận sau thuế TNDN theo báo cáo hợp nhất của HHS là bao nhiêu?", "expected": "NO_ANSWER", "kind": "MISSING_PERIOD"}
+{"question_id": "neg-009-missing_scope", "question": "Lợi nhuận sau thuế TNDN của DPM năm 2024 là bao nhiêu?", "expected": "NO_ANSWER", "kind": "MISSING_SCOPE"}
+{"question_id": "neg-010-missing_scope", "question": "Lợi nhuận sau thuế TNDN của MSB năm 2017 là bao nhiêu?", "expected": "NO_ANSWER", "kind": "MISSING_SCOPE"}
+{"question_id": "neg-011-missing_scope", "question": "Lợi nhuận sau thuế TNDN của KHG năm 2021 là bao nhiêu?", "expected": "NO_ANSWER", "kind": "MISSING_SCOPE"}
+{"question_id": "neg-012-unknown_company", "question": "Lợi nhuận sau thuế TNDN theo báo cáo hợp nhất của CTCP Sao Băng Phương Nam (SBP) năm 2022 là bao nhiêu?", "expected": "NO_ANSWER", "kind": "UNKNOWN_COMPANY"}
+{"question_id": "neg-013-unknown_company", "question": "Lợi nhuận sau thuế TNDN theo báo cáo hợp nhất của Tập đoàn Hoàng Long Quốc Tế (HLQ) năm 2022 là bao nhiêu?", "expected": "NO_ANSWER", "kind": "UNKNOWN_COMPANY"}
+{"question_id": "neg-014-period_outside_corpus", "question": "Lợi nhuận sau thuế TNDN theo báo cáo riêng của KBC năm 2012 là bao nhiêu?", "expected": "NO_ANSWER", "kind": "PERIOD_OUTSIDE_CORPUS"}
+{"question_id": "neg-015-period_outside_corpus", "question": "Lợi nhuận sau thuế TNDN theo báo cáo riêng của BID năm 2012 là bao nhiêu?", "expected": "NO_ANSWER", "kind": "PERIOD_OUTSIDE_CORPUS"}
+{"question_id": "neg-016-period_outside_corpus", "question": "Lợi nhuận sau thuế TNDN theo báo cáo riêng của SNZ năm 2014 là bao nhiêu?", "expected": "NO_ANSWER", "kind": "PERIOD_OUTSIDE_CORPUS"}

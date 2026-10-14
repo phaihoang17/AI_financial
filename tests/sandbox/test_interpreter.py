@@ -76,6 +76,32 @@ class TrustedDslInterpreterTests(unittest.TestCase):
         self.assertIs(result.output.values[0].scale, Scale.PERCENT)
         self.assertIsNone(result.output.values[0].unit)
 
+    def test_requested_percent_is_not_applied_to_intermediate_identity_steps(self):
+        # Live QNS case: "tăng trưởng bao nhiêu %" with IDENTITY steps before GROWTH_RATE.
+        from tests.programmer.helpers import valid_growth_program
+        base = valid_growth_program()
+        identities = [
+            ProgramStep(step_id=f"step_{item.input_id}", operation=ProgramOperation.IDENTITY,
+                        input_refs=[item.input_id], formula_id=None)
+            for item in base.inputs
+        ]
+        growth = ProgramStep(step_id="step_growth", operation=ProgramOperation.APPLY_REGISTERED_FORMULA,
+                             input_refs=[step.step_id for step in identities], formula_id="GROWTH_RATE")
+        program = Program.create(
+            formula_registry_fingerprint=base.formula_registry_fingerprint,
+            question_type=base.question_type, formula_id="GROWTH_RATE", inputs=base.inputs,
+            steps=[*identities, growth], output_ref="step_growth", output_kind=ProgramOutputKind.SCALAR,
+        )
+        request = execution_request_for(
+            growth_programmer_input(), ["200", "250"], [Scale.RAW, Scale.RAW],
+            units=["VND", "VND"], requested_scales=[RequestedScale.PERCENT, RequestedScale.PERCENT],
+            program=program,
+        )
+        result = interpret_execution_request(request)
+        self.assertTrue(result.success, result.failure)
+        self.assertEqual(result.output.values[0].value, "25")
+        self.assertIs(result.output.values[0].scale, Scale.PERCENT)
+
     def test_average_uses_common_requested_scale(self):
         request = execution_request_for(
             average_programmer_input(),

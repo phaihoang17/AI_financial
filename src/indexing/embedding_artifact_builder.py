@@ -41,7 +41,7 @@ from src.indexing.embedding_schemas import (
     EmbeddingRecord,
 )
 from src.indexing.vector_index_store import INDEX_SCHEMA_VERSION
-from src.indexing.schemas import RetrievalRepresentation
+from src.indexing.schemas import NORMALIZATION_VERSION, REPRESENTATION_VERSION, RetrievalRepresentation
 from src.supervisor.schemas import EvidenceSource
 from src.understanding.schemas import SchemaValidationError
 
@@ -197,8 +197,8 @@ def _validate_input_manifest(path_value: str | Path, *, verify_hashes: bool = Tr
         "manifest_schema_version": CORPUS_ARTIFACT_SCHEMA_VERSION,
         "record_schema_version": CORPUS_RECORD_SCHEMA_VERSION,
         "m2a_schema_version": "m2a.v1",
-        "normalization_version": "m2a-normalization-v1",
-        "representation_version": "m2a-representation-v1",
+        "normalization_version": NORMALIZATION_VERSION,
+        "representation_version": REPRESENTATION_VERSION,
         "chunk_schema_version": EMBEDDING_CHUNK_SCHEMA_VERSION,
     }
     for key, expected in expected_versions.items():
@@ -311,6 +311,63 @@ def _report_matches_inventory(report: Mapping[str, Any], expected: Mapping[str, 
     return all(report.get(key) == expected.get(key) for key in keys)
 
 
+def parse_input_record(
+    input_artifact: _InputArtifact,
+    relative: str,
+    source_shard_sha256: str,
+    source_record_index: int,
+    line: bytes,
+    source_order: int,
+) -> _InputRecord:
+    """Validate one canonical M2 corpus line exactly as a full corpus pass does."""
+    if not line.endswith(b"\n"):
+        raise EmbeddingArtifactBuilderError("INPUT_SHARD_INVALID", f"{relative} has an unterminated line")
+    try:
+        value = json.loads(line.decode("utf-8"))
+    except (UnicodeDecodeError, ValueError) as error:
+        raise EmbeddingArtifactBuilderError("INPUT_RECORD_INVALID", relative) from error
+    if _canonical_json(value) + b"\n" != line:
+        raise EmbeddingArtifactBuilderError("INPUT_RECORD_NOT_CANONICAL", relative)
+    if not isinstance(value, dict) or value.get("record_schema_version") != CORPUS_RECORD_SCHEMA_VERSION:
+        raise EmbeddingArtifactBuilderError("INPUT_RECORD_SCHEMA_MISMATCH", relative)
+    if value.get("source_order") != source_order:
+        raise EmbeddingArtifactBuilderError("INPUT_SOURCE_ORDER_MISMATCH", relative)
+    report = value.get("report")
+    if not isinstance(report, dict) or report.get("report_id") not in input_artifact.report_by_id:
+        raise EmbeddingArtifactBuilderError("INPUT_PROVENANCE_INVALID", relative)
+    if not _report_matches_inventory(report, input_artifact.report_by_id[report["report_id"]]):
+        raise EmbeddingArtifactBuilderError("INPUT_PROVENANCE_INVALID", relative)
+    try:
+        representation = RetrievalRepresentation.from_dict(value["representation"])
+        chunk = EmbeddingChunk.from_dict(value["chunk"])
+    except (KeyError, TypeError, SchemaValidationError) as error:
+        raise EmbeddingArtifactBuilderError("INPUT_RECORD_INVALID", f"{relative}: {error}") from error
+    source_cell_ids = value.get("source_cell_ids")
+    if not isinstance(source_cell_ids, list) or any(not isinstance(item, str) for item in source_cell_ids):
+        raise EmbeddingArtifactBuilderError("INPUT_PROVENANCE_INVALID", relative)
+    if representation.report_id != report["report_id"]:
+        raise EmbeddingArtifactBuilderError("INPUT_PROVENANCE_INVALID", relative)
+    if chunk.representation_id != representation.representation_id or chunk.source_type is not representation.source_type:
+        raise EmbeddingArtifactBuilderError("INPUT_PROVENANCE_INVALID", relative)
+    if chunk.chunking_config_fingerprint != CHUNKING_CONFIG_FINGERPRINT:
+        raise EmbeddingArtifactBuilderError("CHUNKING_FINGERPRINT_MISMATCH", chunk.chunk_id)
+    if representation.source_type is EvidenceSource.TABLE:
+        if representation.table_id is None or representation.paragraph_id is not None:
+            raise EmbeddingArtifactBuilderError("INPUT_PROVENANCE_INVALID", relative)
+    elif representation.paragraph_id is None or representation.table_id is not None:
+        raise EmbeddingArtifactBuilderError("INPUT_PROVENANCE_INVALID", relative)
+    return _InputRecord(
+        source_shard=relative,
+        source_shard_sha256=source_shard_sha256,
+        source_record_index=source_record_index,
+        source_order=source_order,
+        report=report,
+        representation=representation,
+        chunk=chunk,
+        source_cell_ids=list(source_cell_ids),
+    )
+
+
 def _iter_input_records(input_artifact: _InputArtifact) -> Iterator[_InputRecord]:
     source_order = 0
     seen_report_ids = set()
@@ -327,56 +384,15 @@ def _iter_input_records(input_artifact: _InputArtifact) -> Iterator[_InputRecord
             raise EmbeddingArtifactBuilderError("INPUT_SHARD_READ_FAILED", relative) from error
         with handle:
             for source_record_index, line in enumerate(handle):
-                if not line.endswith(b"\n"):
-                    raise EmbeddingArtifactBuilderError("INPUT_SHARD_INVALID", f"{relative} has an unterminated line")
-                try:
-                    value = json.loads(line.decode("utf-8"))
-                except (UnicodeDecodeError, ValueError) as error:
-                    raise EmbeddingArtifactBuilderError("INPUT_RECORD_INVALID", relative) from error
-                if _canonical_json(value) + b"\n" != line:
-                    raise EmbeddingArtifactBuilderError("INPUT_RECORD_NOT_CANONICAL", relative)
-                if not isinstance(value, dict) or value.get("record_schema_version") != CORPUS_RECORD_SCHEMA_VERSION:
-                    raise EmbeddingArtifactBuilderError("INPUT_RECORD_SCHEMA_MISMATCH", relative)
-                if value.get("source_order") != source_order:
-                    raise EmbeddingArtifactBuilderError("INPUT_SOURCE_ORDER_MISMATCH", relative)
-                report = value.get("report")
-                if not isinstance(report, dict) or report.get("report_id") not in input_artifact.report_by_id:
-                    raise EmbeddingArtifactBuilderError("INPUT_PROVENANCE_INVALID", relative)
-                if not _report_matches_inventory(report, input_artifact.report_by_id[report["report_id"]]):
-                    raise EmbeddingArtifactBuilderError("INPUT_PROVENANCE_INVALID", relative)
-                try:
-                    representation = RetrievalRepresentation.from_dict(value["representation"])
-                    chunk = EmbeddingChunk.from_dict(value["chunk"])
-                except (KeyError, TypeError, SchemaValidationError) as error:
-                    raise EmbeddingArtifactBuilderError("INPUT_RECORD_INVALID", f"{relative}: {error}") from error
-                source_cell_ids = value.get("source_cell_ids")
-                if not isinstance(source_cell_ids, list) or any(not isinstance(item, str) for item in source_cell_ids):
-                    raise EmbeddingArtifactBuilderError("INPUT_PROVENANCE_INVALID", relative)
-                if representation.report_id != report["report_id"]:
-                    raise EmbeddingArtifactBuilderError("INPUT_PROVENANCE_INVALID", relative)
-                if chunk.representation_id != representation.representation_id or chunk.source_type is not representation.source_type:
-                    raise EmbeddingArtifactBuilderError("INPUT_PROVENANCE_INVALID", relative)
-                if chunk.chunking_config_fingerprint != CHUNKING_CONFIG_FINGERPRINT:
-                    raise EmbeddingArtifactBuilderError("CHUNKING_FINGERPRINT_MISMATCH", chunk.chunk_id)
-                if representation.source_type is EvidenceSource.TABLE:
-                    if representation.table_id is None or representation.paragraph_id is not None:
-                        raise EmbeddingArtifactBuilderError("INPUT_PROVENANCE_INVALID", relative)
+                record = parse_input_record(
+                    input_artifact, relative, str(shard_entry["sha256"]), source_record_index, line, source_order
+                )
+                if record.representation.source_type is EvidenceSource.TABLE:
                     actual_table_count += 1
-                elif representation.paragraph_id is None or representation.table_id is not None:
-                    raise EmbeddingArtifactBuilderError("INPUT_PROVENANCE_INVALID", relative)
                 else:
                     actual_text_count += 1
-                seen_report_ids.add(str(report["report_id"]))
-                yield _InputRecord(
-                    source_shard=relative,
-                    source_shard_sha256=str(shard_entry["sha256"]),
-                    source_record_index=source_record_index,
-                    source_order=source_order,
-                    report=report,
-                    representation=representation,
-                    chunk=chunk,
-                    source_cell_ids=list(source_cell_ids),
-                )
+                seen_report_ids.add(str(record.report["report_id"]))
+                yield record
                 source_order += 1
                 actual_count += 1
         if actual_count != record_count:

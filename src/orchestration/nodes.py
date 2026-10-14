@@ -478,11 +478,26 @@ def run_evidence(
 
     try:
         locations_by_evidence = _locations_by_evidence(evidence_items, locations)
-        completeness = check_evidence_completeness(
-            generate_plan_evidence_requirements(plan),
-            evidence_items,
-            locations_by_evidence,
+        evidence_requirements = generate_plan_evidence_requirements(plan)
+        # Only TABLE evidence whose source-backed class is one the Plan requires may
+        # satisfy it; a same-value note table without a class no longer vetoes the
+        # classified statement cell.
+        required_classes = {
+            item.table_class for item in plan.retrieval_requirements
+            if item.source_type is EvidenceSource.TABLE
+        }
+        eligible_items = tuple(
+            item for item in evidence_items
+            if item.source_type is not EvidenceSource.TABLE
+            or locations_by_evidence[item.evidence_id].table_class in required_classes
         )
+        completeness = check_evidence_completeness(
+            evidence_requirements, eligible_items, locations_by_evidence,
+        )
+        if not completeness.complete:
+            completeness = check_evidence_completeness(
+                evidence_requirements, evidence_items, locations_by_evidence,
+            )
         current_state = _replace_attempt(
             current_state,
             M9Phase.EVIDENCE,
@@ -497,6 +512,7 @@ def run_evidence(
                 payload=completeness.to_dict(),
             )
         _validate_source_table_classes(plan, completeness, locations_by_evidence)
+        evidence_items = eligible_items
         resolutions = tuple(
             resolve_scale_units(
                 understanding,

@@ -80,6 +80,16 @@ class MetricNormalizerTests(unittest.TestCase):
             "18. Lợi nhuận sau thuế TNDN",
             "Lợi nhuận sau thuế TNDN (60 = 50 - 51 - 52)",
             "IV. Lợi nhuận sau thuế thu nhập doanh nghiệp",
+            "Lợi nhuận sau thuế TNDN (60 = 50 - 51 - 52) Phân bổ cho:",
+            "Lợi nhuận sau thuế TNDN (60 = 50 - 51 - 52) phân bổ cho:  ",
+            "Lợi nhuận sau thuế thu nhập doanh nghiệp (60=50-51-52)Trong đó:",
+            "Lợi nhuận sau thuế TNDN (mang sang trang sau) (60 = 50 - 51 - 52)",
+            "Lợi nhuận sau thuế TNDN (60 = 50 - 51 - 52)(chuyển sang trang sau)",
+            "Lợi nhuận sau thuế TNDN(mang sang từ trang trước)(60 = 50 - 51 - 52)",
+            "Lợi nhuận sau thuế thu nhập doanh nghiệp (60=50-(51+52))",
+            "Lợi nhuận sau thuế TNDN \\( (60 = 50 - 51 - 52) \\)",
+            "18 Lợi nhuận sau thuế thu nhập doanh nghiệp (60=50-51-52)",
+            "18. Tổng lợi nhuận sau thuế thu nhập doanh nghiệp",
         ):
             with self.subTest(label=label):
                 self.assertEqual(table_label_metric(label), "LNST")
@@ -87,6 +97,11 @@ class MetricNormalizerTests(unittest.TestCase):
             "19. Lợi nhuận sau thuế của công ty mẹ",
             "Lợi nhuận/(lỗ) sau thuế của cổ đông không kiểm soát",
             "Lợi nhuận trước thuế",
+            "Lợi nhuận sau thuế TNDN (60 = 50 - 51 - 52) Phân bổ cho: cổ đông công ty mẹ",
+            "Lợi nhuận sau thuế TNDN Trong đó: lợi nhuận của công ty mẹ",
+            "Tổng lợi nhuận kế toán trước thuế (50 = 30 + 40)",
+            "Lợi nhuận sau thuế (mang sang trang sau) của công ty mẹ",
+            "(60 = 50 - 51 - 52)",
         ):
             with self.subTest(label=label):
                 self.assertIsNone(table_label_metric(label))

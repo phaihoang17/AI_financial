@@ -27,8 +27,11 @@ _CUMULATIVE_EXPRESSION = re.compile(
     re.IGNORECASE,
 )
 _CUMULATIVE_CUE = re.compile(r"(?<!\w)lũy\s+kế(?!\w)", re.IGNORECASE)
+# "quý" is also an adjective in fixed noun phrases ("Vàng bạc Đá quý Phú Nhuận",
+# "kim loại quý", "quý khách", "quý cổ đông"); those are not quarters.
 _QUARTER_EXPRESSION = re.compile(
-    r"(?<!\w)quý(?:\s+(?P<number>[0-9]+))?"
+    r"(?<!\w)(?<!đá )(?<!loại )quý(?!\s+(?:khách|công ty|cổ đông|vị|giá|báu)(?!\w))"
+    r"(?:\s+(?P<number>[0-9]+))?"
     r"(?:(?:\s*/\s*|\s+năm\s+)(?P<year>[0-9]+))?(?!\w)",
     re.IGNORECASE,
 )

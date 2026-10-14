@@ -109,3 +109,42 @@ class TransportFailureTests(unittest.TestCase):
 
 if __name__ == "__main__":
     unittest.main()
+
+
+def test_truncated_generation_logs_usage_and_rejects_even_valid_json(caplog):
+    import logging
+    import pytest
+    cli = client(ServingTask.GENERATE, {"/v1/chat/completions": {
+        "choices": [{"finish_reason": "length", "message": {"content": "{}"}}],
+        "usage": {"completion_tokens": 4096},
+    }})
+    with caplog.at_level(logging.INFO), pytest.raises(ServingError) as caught:
+        cli.generate([{"role": "user", "content": "hi"}])
+    assert caught.value.code == "SERVING_RESPONSE_TRUNCATED"
+    assert "4096" in caplog.text
+    assert "SERVING_RESPONSE_TRUNCATED" in caplog.text
+
+
+def test_generate_observer_receives_usage_without_prompt_or_secrets():
+    from dataclasses import replace
+    cli = client(ServingTask.GENERATE, {"/v1/chat/completions": {
+        "choices": [{"finish_reason": "stop", "message": {"content": "{}"}}],
+        "usage": {"prompt_tokens": 7, "completion_tokens": 2},
+    }})
+    events = []
+    cli = replace(cli, observer=events.append)
+    cli.generate([{"role": "user", "content": "private prompt"}], thinking={"type": "disabled"})
+    assert events[0]["prompt_tokens"] == 7
+    assert events[0]["completion_tokens"] == 2
+    assert events[0]["latency_ms"] >= 0
+    assert "private prompt" not in str(events)
+
+
+def test_observer_failure_does_not_break_generation():
+    from dataclasses import replace
+    cli = client(ServingTask.GENERATE, {"/v1/chat/completions": {
+        "choices": [{"finish_reason": "stop", "message": {"content": "{}"}}],
+    }})
+    def broken_observer(_event):
+        raise RuntimeError("observer failure")
+    assert replace(cli, observer=broken_observer).generate([{"role": "user", "content": "q"}]) == "{}"

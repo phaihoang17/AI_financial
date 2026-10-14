@@ -201,15 +201,44 @@ def initial_metric_registry() -> List[MetricSynonym]:
     ]
 
 
-# Statement line labels: leading ordinal ("18.", "IV.", "a)") and a trailing
-# parenthetical such as "(60 = 50 - 51 - 52)" are layout, not the metric name.
-_LINE_ORDINAL = re.compile(r"^(?:[0-9]+|[IVXLC]+|[a-zđ])[.)]\s*", re.IGNORECASE)
-_LINE_PARENTHETICAL = re.compile(r"\s*\([^()]*\)\Z")
+# Statement line labels: leading ordinal ("18.", "IV.", "a)", OCR "18 ") and trailing
+# parentheticals such as "(60 = 50 - 51 - 52)" or "(60=50-(51+52))" are layout, not
+# the metric name.
+_LINE_ORDINAL = re.compile(r"^(?:(?:[0-9]+|[IVXLC]+|[a-zđ])[.)]\s*|[0-9]{1,2}\s+)", re.IGNORECASE)
+# Page carry-over notes ("(mang sang trang sau)", "(chuyển sang trang sau)",
+# "(mang sang từ trang trước)") and OCR math delimiters "\(" / "\)" anywhere.
+_LINE_PAGE_CARRY = re.compile(
+    r"\s*\(\s*(?:mang|chuyển) sang (?:từ )?trang (?:sau|trước)\s*\)", re.IGNORECASE
+)
+_LINE_MATH_DELIMITER = re.compile(r"\\[()]")
+# A "Tổng" prefix on the total-profit line ("Tổng lợi nhuận sau thuế ...").
+_LINE_TOTAL_PREFIX = re.compile(r"^tổng\s+(?=lợi nhuận sau thuế)", re.IGNORECASE)
+# OCR may merge the following allocation heading ("Phân bổ cho:" / "Trong đó:") into
+# the total-profit label, with or without a separating space.
+_LINE_ALLOCATION_HEADING = re.compile(r"\s*(?:phân bổ cho|trong đó)\s*:\s*\Z", re.IGNORECASE)
+
+
+def _strip_trailing_parentheticals(text: str) -> str:
+    """Remove balanced (possibly nested) parentheticals at the end of a label."""
+    while text.endswith(")"):
+        depth = 0
+        for index in range(len(text) - 1, -1, -1):
+            depth += {")": 1, "(": -1}.get(text[index], 0)
+            if depth == 0:
+                break
+        if depth != 0 or index == 0:
+            return text
+        text = text[:index].rstrip()
+    return text
 
 
 def table_label_metric(label: str) -> Optional[str]:
     """Canonical registry metric named exactly by a table header label, else None."""
-    text = _LINE_PARENTHETICAL.sub("", _LINE_ORDINAL.sub("", label.strip()))
+    text = _LINE_MATH_DELIMITER.sub("", label.strip())
+    text = _LINE_PAGE_CARRY.sub("", text)
+    text = _LINE_ALLOCATION_HEADING.sub("", text.strip())
+    text = _strip_trailing_parentheticals(_LINE_ORDINAL.sub("", text))
+    text = _LINE_TOTAL_PREFIX.sub("", text)
     resolution = resolve_metric(text, initial_metric_registry())
     if resolution.status is not MetricResolutionStatus.RESOLVED:
         return None

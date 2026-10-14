@@ -1,0 +1,25 @@
+{
+  "split": "holdout2",
+  "cases": 127,
+  "defective_case_ids": [
+    "prod-holdout2-081-ratio-gross_margin-msr-rieng-2015"
+  ],
+  "defects": [
+    {
+      "question_id": "prod-holdout2-081-ratio-gross_margin-msr-rieng-2015",
+      "metric": "GROSS_PROFIT",
+      "year": 2015,
+      "report_scope": "RIENG",
+      "column_header": "Tập đoàn 2015Nghìn VND",
+      "kind": "WRONG_SCOPE_COLUMN"
+    },
+    {
+      "question_id": "prod-holdout2-081-ratio-gross_margin-msr-rieng-2015",
+      "metric": "NET_REVENUE",
+      "year": 2015,
+      "report_scope": "RIENG",
+      "column_header": "Tập đoàn 2015Nghìn VND",
+      "kind": "WRONG_SCOPE_COLUMN"
+    }
+  ]
+}

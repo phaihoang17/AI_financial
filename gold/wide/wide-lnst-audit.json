@@ -1,0 +1,4398 @@
+{
+  "version": "m10-wide-lnst-gold-v1",
+  "seed": 20261013,
+  "corpus_artifact_id": "7c14b5498ce3871adfc61d8a475e910ad90e2e2143f6298a3d1342c048499a66",
+  "report_count": 1973,
+  "extracted_report_values": 1221,
+  "cross_checked_report_values": 892,
+  "extraction_skips": {
+    "UNIT_UNKNOWN": 204,
+    "NO_LNST_ROW": 375,
+    "PARTIAL_PERIOD": 28,
+    "UNSUPPORTED_SCOPE": 86,
+    "RESTATEMENT_TABLE": 45,
+    "CONFLICTING_LNST_ROWS": 3,
+    "VALUE_COLUMNS": 11
+  },
+  "cross_check_skips": {
+    "NO_NEXT_YEAR_REPORT": 276,
+    "RESTATED_IN_NEXT_REPORT": 53
+  },
+  "case_count": 140,
+  "case_count_by_operation": {
+    "LOOKUP": 60,
+    "GROWTH_RATE": 40,
+    "AVERAGE": 40
+  },
+  "ticker_count": 75,
+  "source_scale_counts": {
+    "RAW": 179,
+    "MILLION": 36,
+    "THOUSAND": 5
+  },
+  "template_counts": {
+    "TT200": 190,
+    "BANK": 30
+  },
+  "negative_case_count": 17,
+  "human_reviewed": false,
+  "gold_sha256": "7d9c2209e20722e348187804863c0280b0cc9f99d6e58a788e5eb98906cb6538",
+  "cases": [
+    {
+      "question_id": "wide-000-lookup-gas-hop_nhat-2017",
+      "operation": "LOOKUP",
+      "years": [
+        2017
+      ],
+      "answer": "9937792548473",
+      "sources": [
+        {
+          "report_id": "report_ac49b7709203ecb721a4a2624285438215e04bebe2c5ac53126d638048508c1f",
+          "source_ref": "GAS/2017/GAS_financial_statements_2017_consolidated/GAS_financial_statements_2017_consolidated_extracted.txt",
+          "label": "18. Lợi nhuận sau thuế thu nhập doanh nghiệp (60=50-51-52)",
+          "template": "TT200",
+          "source_scale": "RAW",
+          "current_raw": "9.937.792.548.473",
+          "next_report_prior_raw": "9.937.792.548.473",
+          "table_id": "table_2e6fb514b6dd96d3bdd4329409ea6231b9d69f370d7d5847a6cb59618004ad1d",
+          "cell_ids": [
+            "cell_71c20827b99ff167e9fa2249cd3ea32896bd85c2514c84c7c847b8d96a3054e1"
+          ]
+        }
+      ]
+    },
+    {
+      "question_id": "wide-001-lookup-prt-hop_nhat-2023",
+      "operation": "LOOKUP",
+      "years": [
+        2023
+      ],
+      "answer": "118510410966",
+      "sources": [
+        {
+          "report_id": "report_99c5a04bdd8725ac51cda4d97c697a389c6a3ee492e51ebfd658e592c1ee1335",
+          "source_ref": "PRT/2023/PRT_financial_statements_2023_consolidated/PRT_financial_statements_2023_consolidated_extracted.txt",
+          "label": "18. Lợi nhuận sau thuế thu nhập doanh nghiệp",
+          "template": "TT200",
+          "source_scale": "RAW",
+          "current_raw": "118.510.410.966",
+          "next_report_prior_raw": "118.510.410.966",
+          "table_id": "table_e3c8126a7ec64e6a47845bc6189f70ae07f28852cd7f65d609fb248c4da6f5b7",
+          "cell_ids": [
+            "cell_dbe7123b03c27d868b5795ff1ae4834ae86aaea4363144d993fa2052979bcc3e"
+          ]
+        }
+      ]
+    },
+    {
+      "question_id": "wide-002-lookup-eib-rieng-2023",
+      "operation": "LOOKUP",
+      "years": [
+        2023
+      ],
+      "answer": "2146292000000",
+      "sources": [
+        {
+          "report_id": "report_b4d3e8bcae5cfa3209a1583bdb01a2a3157abc4a1d132d693c7a11f17a7e97fe",
+          "source_ref": "EIB/2023/EIB_financial_statements_2023_separate/EIB_financial_statements_2023_separate_extracted.txt",
+          "label": "Lợi nhuận sau thuế",
+          "template": "BANK",
+          "source_scale": "MILLION",
+          "current_raw": "2.146.292",
+          "next_report_prior_raw": "2.146.292",
+          "table_id": "table_6055e42ef3031f9c585d46d2869cd677f2a95e32f20d889fc00614433865a7ab",
+          "cell_ids": [
+            "cell_1296bda13b3a348c43522b373bae729c38babac893673b5d4035ba0b9c1b22c8"
+          ]
+        }
+      ]
+    },
+    {
+      "question_id": "wide-003-lookup-bsr-rieng-2019",
+      "operation": "LOOKUP",
+      "years": [
+        2019
+      ],
+      "answer": "2912421396083",
+      "sources": [
+        {
+          "report_id": "report_87978da94e3b5bcb987ee40cb68e4339d3bba80e104afd31765bd7ce406aeed0",
+          "source_ref": "BSR/2019/BSR_financial_statements_2019_separate/BSR_financial_statements_2019_separate_extracted.txt",
+          "label": "15. Lợi nhuận sau thuế thu nhập doanh nghiệp (60=50-51)",
+          "template": "TT200",
+          "source_scale": "RAW",
+          "current_raw": "2.912.421.396.083",
+          "next_report_prior_raw": "2.912.421.396.083",
+          "table_id": "table_afa4af4f1befb136c4777d1f682dbc35667373679ab6f8d2929f4a45c3f7c17f",
+          "cell_ids": [
+            "cell_50fa51ee3dc96ea733f7afcbe709e1002aa3f6b67f02e59ac0b35ab23dd7efbc"
+          ]
+        }
+      ]
+    },
+    {
+      "question_id": "wide-004-lookup-vif-hop_nhat-2024",
+      "operation": "LOOKUP",
+      "years": [
+        2024
+      ],
+      "answer": "357668406061",
+      "sources": [
+        {
+          "report_id": "report_292f0afd0f3afaec1badf7c1a3370d60be845b8fe184b9e281ba4d551cf2e6b0",
+          "source_ref": "VIF/2024/VIF_financial_statements_2024_consolidated/VIF_financial_statements_2024_consolidated_extracted.txt",
+          "label": "18. Lợi nhuận sau thuế TNDN",
+          "template": "TT200",
+          "source_scale": "RAW",
+          "current_raw": "357.668.406.061",
+          "next_report_prior_raw": "357.668.406.061",
+          "table_id": "table_8ee27cf72b2780660eab55c6bc1cd7297112327fa43bc1d9c41216e9d425d8b9",
+          "cell_ids": [
+            "cell_16003b18e1bcba4e673339a078b7f14ee14a59b169a90506b4df1f7b7a9681e5"
+          ]
+        }
+      ]
+    },
+    {
+      "question_id": "wide-005-lookup-hpg-hop_nhat-2020",
+      "operation": "LOOKUP",
+      "years": [
+        2020
+      ],
+      "answer": "13506164056907",
+      "sources": [
+        {
+          "report_id": "report_31cc0fa1ac224bae02dc08605cdaacd57509b4ecca1fd518927dcee17737fa7d",
+          "source_ref": "HPG/2020/HPG_financial_statements_2020_consolidated/HPG_financial_statements_2020_consolidated_extracted.txt",
+          "label": "Lợi nhuận sau thuế TNDN (mang sang trang sau) (60 = 50 - 51 - 52)",
+          "template": "TT200",
+          "source_scale": "RAW",
+          "current_raw": "13.506.164.056.907",
+          "next_report_prior_raw": "13.506.164.056.907",
+          "table_id": "table_2666f1c73fcecea48d8f055e73dba93b8921d9987027a94c3f0a321ca39db7ae",
+          "cell_ids": [
+            "cell_6a8ee95024ee854efef8a4269900b9204a03e010bee58849a37728542fdf48df",
+            "cell_87dd17f49176f4dae6152e2b3fdb6e65bb373165ca231045eec25cc2e8cc25aa"
+          ]
+        }
+      ]
+    },
+    {
+      "question_id": "wide-006-lookup-cre-rieng-2020",
+      "operation": "LOOKUP",
+      "years": [
+        2020
+      ],
+      "answer": "245966421775",
+      "sources": [
+        {
+          "report_id": "report_a498d2583d0d2378a841715c4d6fa9c1eab4280c2f0c43405cbfa557843a4b48",
+          "source_ref": "CRE/2020/CRE_financial_statements_2020_separate/CRE_financial_statements_2020_separate_extracted.txt",
+          "label": "17. Lợi nhuận sau thuế thu nhập doanh nghiệp",
+          "template": "TT200",
+          "source_scale": "RAW",
+          "current_raw": "245.966.421.775",
+          "next_report_prior_raw": "245.966.421.775",
+          "table_id": "table_fd20b33ad110e291f4523d8e8e85fe3ce601452b07d7c2e3edc74cbaa5f5504e",
+          "cell_ids": [
+            "cell_45b19edfc63a0d35893d8f27e10ca0aab512f8a8275e407edf495f73943046b3"
+          ]
+        }
+      ]
+    },
+    {
+      "question_id": "wide-007-lookup-hpx-hop_nhat-2022",
+      "operation": "LOOKUP",
+      "years": [
+        2022
+      ],
+      "answer": "-58361976268",
+      "sources": [
+        {
+          "report_id": "report_15350893b3292361f12f19a9e028a670f6fbabdef2a82f942179c5dfaac7fb5b",
+          "source_ref": "HPX/2022/HPX_financial_statements_2022_consolidated/HPX_financial_statements_2022_consolidated_extracted.txt",
+          "label": "Lợi nhuận sau thuế thu nhập doanh nghiệp (60 = 50-51-52)",
+          "template": "TT200",
+          "source_scale": "RAW",
+          "current_raw": "(58.361.976.268)",
+          "next_report_prior_raw": "(58.361.976.268)",
+          "table_id": "table_45197cbdb7cdcb92752b6ed484cc0c9c26e02d2d2e0e72850891b2e927a7dbea",
+          "cell_ids": [
+            "cell_395f90cf639fb79d212b4226e577ec78865d3bf2c8d12d780203ea6d790f09b4"
+          ]
+        }
+      ]
+    },
+    {
+      "question_id": "wide-008-lookup-baf-hop_nhat-2020",
+      "operation": "LOOKUP",
+      "years": [
+        2020
+      ],
+      "answer": "45826798206",
+      "sources": [
+        {
+          "report_id": "report_efee3beb55b11ffff37752c0c188d2a2675abbd3f6b32b25e088e1195e925045",
+          "source_ref": "BAF/2020/BAF_financial_statements_2020_consolidated/BAF_financial_statements_2020_consolidated_extracted.txt",
+          "label": "Lợi nhuận sau thuế thu nhập doanh nghiệp",
+          "template": "TT200",
+          "source_scale": "RAW",
+          "current_raw": "45.826.798.206",
+          "next_report_prior_raw": "45.826.798.206",
+          "table_id": "table_cb51ee9c9b549ee15de47054d4df25267fbd0db3ae71928932d1a569de5b7432",
+          "cell_ids": [
+            "cell_d5c6e648645964b92805f414f9dac325b8c91088fcb3edc69112d04a0523572f"
+          ]
+        }
+      ]
+    },
+    {
+      "question_id": "wide-009-lookup-klb-rieng-2016",
+      "operation": "LOOKUP",
+      "years": [
+        2016
+      ],
+      "answer": "112868000000",
+      "sources": [
+        {
+          "report_id": "report_9dcc072ff88717547d99761d0564bd6faab50f1b51a850fd51a8242cc13ce224",
+          "source_ref": "KLB/2016/KLB_financial_statements_2016_separate/KLB_financial_statements_2016_separate_extracted.txt",
+          "label": "Lợi nhuận sau thuế",
+          "template": "BANK",
+          "source_scale": "MILLION",
+          "current_raw": "112.868",
+          "next_report_prior_raw": "112.868",
+          "table_id": "table_c43e588efefc7ab1eb8d02fe186b189c93e0aa210c3565a690ad9a69d9f03200",
+          "cell_ids": [
+            "cell_5947567c61819b468e059f41d448b643c971bbee5c9bcdd982793edea8eae2bb"
+          ]
+        }
+      ]
+    },
+    {
+      "question_id": "wide-010-lookup-vic-rieng-2023",
+      "operation": "LOOKUP",
+      "years": [
+        2023
+      ],
+      "answer": "1768614000000",
+      "sources": [
+        {
+          "report_id": "report_9d1ef4e80d06fad0c5ea1497995b17108ebab8031a2dba36fe152095fb9daa1d",
+          "source_ref": "VIC/2023/VIC_financial_statements_2023_separate/VIC_financial_statements_2023_separate_extracted.txt",
+          "label": "17. Lợi nhuận sau thuế TNDN",
+          "template": "TT200",
+          "source_scale": "MILLION",
+          "current_raw": "1.768.614",
+          "next_report_prior_raw": "1.768.614",
+          "table_id": "table_bbacfe387d9179e2d2be7fc99e58145a26089089369686d490ded0cec23bfa63",
+          "cell_ids": [
+            "cell_7394e22d4a79cadbb075a30f2e64cec0c44daf617a7740e9e8d2821cb77de0ac"
+          ]
+        }
+      ]
+    },
+    {
+      "question_id": "wide-011-lookup-vnm-hop_nhat-2018",
+      "operation": "LOOKUP",
+      "years": [
+        2018
+      ],
+      "answer": "10205629711239",
+      "sources": [
+        {
+          "report_id": "report_ddeeb8a63d42ba0e3db3c0ba66fa7d66885f72f36a185e045a1d320a05a2c1b9",
+          "source_ref": "VNM/2018/VNM_financial_statements_2018_consolidated/VNM_financial_statements_2018_consolidated_extracted.txt",
+          "label": "Lợi nhuận sau thuế TNDN (60 = 50 - 51 - 52)",
+          "template": "TT200",
+          "source_scale": "RAW",
+          "current_raw": "10.205.629.711.239",
+          "next_report_prior_raw": "10.205.629.711.239",
+          "table_id": "table_7b2c1ea17af8269b901c47a3405c4a33d3ea2ac32bdc49398cbac17ff2b32685",
+          "cell_ids": [
+            "cell_c9c5246d2488a272a7790f09f6a887a8a901015d2ac03df3cb51dc35ae08aec7",
+            "cell_555d0ce87618b66fc529e01b954d0f9aaf3f58f79b2f364171098a06c1b7cf13"
+          ]
+        }
+      ]
+    },
+    {
+      "question_id": "wide-012-lookup-gee-hop_nhat-2020",
+      "operation": "LOOKUP",
+      "years": [
+        2020
+      ],
+      "answer": "655630516906",
+      "sources": [
+        {
+          "report_id": "report_b25b5986957ba8ed4cb714458fcb3aea99e374a5692ee5a88621560405c9804a",
+          "source_ref": "GEE/2020/GEE_financial_statements_2020_consolidated/GEE_financial_statements_2020_consolidated_extracted.txt",
+          "label": "18. Lợi nhuận sau thuế TNDN",
+          "template": "TT200",
+          "source_scale": "RAW",
+          "current_raw": "655.630.516.906",
+          "next_report_prior_raw": "655.630.516.906",
+          "table_id": "table_71d784c2b0cbbcfea3bac536fc0cee1cf5fe4fbed6c8929f7170c10336c5f522",
+          "cell_ids": [
+            "cell_064e631c420324600e330ef1058996415c5302bbfd369574b7c95770d344f343"
+          ]
+        }
+      ]
+    },
+    {
+      "question_id": "wide-013-lookup-vpi-rieng-2024",
+      "operation": "LOOKUP",
+      "years": [
+        2024
+      ],
+      "answer": "360656361270",
+      "sources": [
+        {
+          "report_id": "report_4216459f4f03187ebd2f00c790c1b7deb199929c8a08eb76c7b0007f80d550fe",
+          "source_ref": "VPI/2024/VPI_financial_statements_2024_separate/VPI_financial_statements_2024_separate_extracted.txt",
+          "label": "17. Lợi nhuận sau thuế TNDN",
+          "template": "TT200",
+          "source_scale": "RAW",
+          "current_raw": "360.656.361.270",
+          "next_report_prior_raw": "360.656.361.270",
+          "table_id": "table_8367921bff262799df52c929623ec83bc6f9fd1236ed438fb6974098e39e4270",
+          "cell_ids": [
+            "cell_b38bc6619610a21d3a41fd233ba80716412c34529edb0957c5c3e1cc4a4dc4fa"
+          ]
+        }
+      ]
+    },
+    {
+      "question_id": "wide-014-lookup-ocb-rieng-2017",
+      "operation": "LOOKUP",
+      "years": [
+        2017
+      ],
+      "answer": "814110650023",
+      "sources": [
+        {
+          "report_id": "report_f1fef11c0324041095524181348fa00e6aa82fba8c056d1ddf1a9774149311af",
+          "source_ref": "OCB/2017/OCB_financial_statements_2017_separate/OCB_financial_statements_2017_separate_extracted.txt",
+          "label": "Lợi nhuận sau thuế",
+          "template": "BANK",
+          "source_scale": "RAW",
+          "current_raw": "814.110.650.023",
+          "next_report_prior_raw": "814.110.650.023",
+          "table_id": "table_f38f4e88358bba3ce942cb8e3899a6f6f0bb80f3c147b1359d667c67cce73d47",
+          "cell_ids": [
+            "cell_3a818b1ebfdfed32b1d06715b15fe7d71de2921c60e5dcbd18e4c06f9a5cc42b"
+          ]
+        }
+      ]
+    },
+    {
+      "question_id": "wide-015-lookup-ssh-rieng-2020",
+      "operation": "LOOKUP",
+      "years": [
+        2020
+      ],
+      "answer": "13383932935",
+      "sources": [
+        {
+          "report_id": "report_f6d03b5f1c8aadfce39085371ec4907bc6d964b0391888bb72c0a20952324225",
+          "source_ref": "SSH/2020/SSH_financial_statements_2020_separate/SSH_financial_statements_2020_separate_extracted.txt",
+          "label": "Lợi nhuận sau thuế thu nhập doanh nghiệp (60=50-51)",
+          "template": "TT200",
+          "source_scale": "RAW",
+          "current_raw": "13.383.932.935",
+          "next_report_prior_raw": "13.383.932.935",
+          "table_id": "table_c159e4d64acf8337fa8a099e15ea8ecb73f55fc23de6fd2aae017998bceec909",
+          "cell_ids": [
+            "cell_9f707919dc7c37269a07f7cf07683c3a7ad3c73c2c878f97a6c4cea3e960a5e8"
+          ]
+        }
+      ]
+    },
+    {
+      "question_id": "wide-016-lookup-hsg-rieng-2019",
+      "operation": "LOOKUP",
+      "years": [
+        2019
+      ],
+      "answer": "611107359723",
+      "sources": [
+        {
+          "report_id": "report_a8d6a05fbc632488e0430bf3a637fa96201c7db3c2bc2dc5ac052ae8e224fc63",
+          "source_ref": "HSG/2019/HSG_financial_statements_2019_separate/HSG_financial_statements_2019_separate_extracted.txt",
+          "label": "Lợi nhuận sau thuế TNDN (60 = 50 - 51 - 52)",
+          "template": "TT200",
+          "source_scale": "RAW",
+          "current_raw": "611.107.359.723",
+          "next_report_prior_raw": "611.107.359.723",
+          "table_id": "table_7b20e2c4264fd32a07e467512cfae987a6409a3f50ab0d9a74cc36a9cba892e5",
+          "cell_ids": [
+            "cell_8d6bda55df71b8dc97c2c3bc14f8ee5f135f58230bbd37d9eb04a7477b2565db"
+          ]
+        }
+      ]
+    },
+    {
+      "question_id": "wide-017-lookup-snz-rieng-2020",
+      "operation": "LOOKUP",
+      "years": [
+        2020
+      ],
+      "answer": "418944170834",
+      "sources": [
+        {
+          "report_id": "report_9ee48e86151413f257ca096ff517cc2f72445326f6608f2c6509445b53b5c309",
+          "source_ref": "SNZ/2020/SNZ_financial_statements_2020_separate/SNZ_financial_statements_2020_separate_extracted.txt",
+          "label": "15. Lợi nhuận sau thuế thu nhập doanh nghiệp",
+          "template": "TT200",
+          "source_scale": "RAW",
+          "current_raw": "418.944.170.834",
+          "next_report_prior_raw": "418.944.170.834",
+          "table_id": "table_0093400c6c068d397a9ce9dd71de5cc2eb9ed4f18c865ed344ffb069fdf843f2",
+          "cell_ids": [
+            "cell_4d01b76eb19391b2daa9ffd9f2320ac40b6e8a1e5f9159f58890e69e3b7800ca"
+          ]
+        }
+      ]
+    },
+    {
+      "question_id": "wide-018-lookup-bab-rieng-2017",
+      "operation": "LOOKUP",
+      "years": [
+        2017
+      ],
+      "answer": "585616000000",
+      "sources": [
+        {
+          "report_id": "report_d442e655d97d0d33de03e19f7ccb93dc8a171c4195374da19491e7e3aad45b4c",
+          "source_ref": "BAB/2017/BAB_financial_statements_2017_separate/BAB_financial_statements_2017_separate_extracted.txt",
+          "label": "Lợi nhuận sau thuế",
+          "template": "BANK",
+          "source_scale": "MILLION",
+          "current_raw": "585.616",
+          "next_report_prior_raw": "585.616",
+          "table_id": "table_c6ec00dde80f4ab0d4bcb76b25ced32c178420c40f26ab82782d0ec19f11042e",
+          "cell_ids": [
+            "cell_aceea5d748192606dd68346d9a938610594e2f1512593d2cc5973692fca532ad"
+          ]
+        }
+      ]
+    },
+    {
+      "question_id": "wide-019-lookup-khg-hop_nhat-2021",
+      "operation": "LOOKUP",
+      "years": [
+        2021
+      ],
+      "answer": "413504439559",
+      "sources": [
+        {
+          "report_id": "report_b76e2414d792979d28c66e8d7806ba7124864c33f8cf0e1dba06ae5d6fcd0bec",
+          "source_ref": "KHG/2021/KHG_financial_statements_2021_consolidated/KHG_financial_statements_2021_consolidated_extracted.txt",
+          "label": "17. Lợi nhuận sau thuế thu nhập doanh nghiệp",
+          "template": "TT200",
+          "source_scale": "RAW",
+          "current_raw": "413.504.439.559",
+          "next_report_prior_raw": "413.504.439.559",
+          "table_id": "table_0728c2fdf88e3533749262a875e4bc718851f3684e3fa85f084f91e4ab9260a4",
+          "cell_ids": [
+            "cell_9b76769dc73d51fb75d174c9a7423eeea207c713ad9d9e978cbc76157c29c859"
+          ]
+        }
+      ]
+    },
+    {
+      "question_id": "wide-020-lookup-dtk-rieng-2019",
+      "operation": "LOOKUP",
+      "years": [
+        2019
+      ],
+      "answer": "551598250582",
+      "sources": [
+        {
+          "report_id": "report_3625588f5bb582d5770b12b5adedb1ce01a3343ae8d19c1a76e3d0edc6e22d3a",
+          "source_ref": "DTK/2019/DTK_financial_statements_2019_separate/DTK_financial_statements_2019_separate_extracted.txt",
+          "label": "Lợi nhuận sau thuế TNDN (60=50-51-52)",
+          "template": "TT200",
+          "source_scale": "RAW",
+          "current_raw": "551.598.250.582",
+          "next_report_prior_raw": "551.598.250.582",
+          "table_id": "table_a62f88f9c30c71a08aa1fdca19075c49c34943de20a6f40e5b0809051aac5e44",
+          "cell_ids": [
+            "cell_dc37d9c5eefcfb516c983f5b84612b7af82fe51ddb28207bfc71a2098bd95344"
+          ]
+        }
+      ]
+    },
+    {
+      "question_id": "wide-021-lookup-scr-rieng-2017",
+      "operation": "LOOKUP",
+      "years": [
+        2017
+      ],
+      "answer": "200233967432",
+      "sources": [
+        {
+          "report_id": "report_2347e8583539e68f65c1ddb5d6babc2d15a78fc99385f33f0181cc3bb6b061a4",
+          "source_ref": "SCR/2017/SCR_financial_statements_2017_separate/SCR_financial_statements_2017_separate_extracted.txt",
+          "label": "Lợi nhuận sau thuế TNDN(60 = 50 - 51 - 52)",
+          "template": "TT200",
+          "source_scale": "RAW",
+          "current_raw": "200.233.967.432",
+          "next_report_prior_raw": "200.233.967.432",
+          "table_id": "table_9214ca6d503411c80af9e29e8ddec7c92b69fb469b019246c60dc5fead0580b9",
+          "cell_ids": [
+            "cell_dc7e0756fed3e5825fb9708ef5e005c3718d607dd505c7168736701a5c978922"
+          ]
+        }
+      ]
+    },
+    {
+      "question_id": "wide-022-lookup-vsf-rieng-2022",
+      "operation": "LOOKUP",
+      "years": [
+        2022
+      ],
+      "answer": "2321621209",
+      "sources": [
+        {
+          "report_id": "report_0575ffe856ba11e5091ba38f11184015ccf94a79ab6f85bb236334ca9c6936cb",
+          "source_ref": "VSF/2022/VSF_financial_statements_2022_separate/VSF_financial_statements_2022_separate_extracted.txt",
+          "label": "Lợi nhuận sau thuế thu nhập doanh nghiệp (60 = 50-51-52)",
+          "template": "TT200",
+          "source_scale": "RAW",
+          "current_raw": "2.321.621.209",
+          "next_report_prior_raw": "2.321.621.209",
+          "table_id": "table_c3fb050b53d27bac77df5a81633f717161541bbaad5c62c5dcd8d46900539196",
+          "cell_ids": [
+            "cell_b6f81464f1f86178913dbd0bc0cda684abb719d3fe3624449d8f304c2d43016a"
+          ]
+        }
+      ]
+    },
+    {
+      "question_id": "wide-023-lookup-msb-rieng-2017",
+      "operation": "LOOKUP",
+      "years": [
+        2017
+      ],
+      "answer": "125407000000",
+      "sources": [
+        {
+          "report_id": "report_14fe4848c70b20db3961d6488dfd7bfff0ace015ba976cf61858af273f5f1885",
+          "source_ref": "MSB/2017/MSB_financial_statements_2017_separate/MSB_financial_statements_2017_separate_extracted.txt",
+          "label": "Lợi nhuận sau thuế",
+          "template": "BANK",
+          "source_scale": "MILLION",
+          "current_raw": "125.407",
+          "next_report_prior_raw": "125.407",
+          "table_id": "table_e773b54e8a0e231a1d66f5429289f406e4bfc7ab26291aa3b3265fa0269cd6ef",
+          "cell_ids": [
+            "cell_49dbdde8fd47e3d11030daf870f5f93551b9d267ecf823be2bdd47d004e6d02d"
+          ]
+        }
+      ]
+    },
+    {
+      "question_id": "wide-024-lookup-plx-rieng-2023",
+      "operation": "LOOKUP",
+      "years": [
+        2023
+      ],
+      "answer": "2176484457370",
+      "sources": [
+        {
+          "report_id": "report_336438736494667bc8354d0f3636e50b3fc439987f69fdc2cccdf6e34ceaab4c",
+          "source_ref": "PLX/2023/PLX_financial_statements_2023_separate/PLX_financial_statements_2023_separate_extracted.txt",
+          "label": "Lợi nhuận sau thuế TNDN (60 = 50 - 51 - 52)",
+          "template": "TT200",
+          "source_scale": "RAW",
+          "current_raw": "2.176.484.457.370",
+          "next_report_prior_raw": "2.176.484.457.370",
+          "table_id": "table_385d41c174726820e671702aa2f64cb522efaf21527b885b9b48c6caac658faa",
+          "cell_ids": [
+            "cell_f4bdf48d3371c52c1aee80d5c7c6f5cdc038b0b57f29eaa175432d11480fae03"
+          ]
+        }
+      ]
+    },
+    {
+      "question_id": "wide-025-lookup-shb-rieng-2019",
+      "operation": "LOOKUP",
+      "years": [
+        2019
+      ],
+      "answer": "2146512000000",
+      "sources": [
+        {
+          "report_id": "report_b2d1a1cdb390770fe99b0a4b4866a7243a9645a5387e8274c0dd4eb4f6648eb5",
+          "source_ref": "SHB/2019/SHB_financial_statements_2019_separate/SHB_financial_statements_2019_separate_extracted.txt",
+          "label": "Lợi nhuận sau thuế",
+          "template": "BANK",
+          "source_scale": "MILLION",
+          "current_raw": "2.146.512",
+          "next_report_prior_raw": "2.146.512",
+          "table_id": "table_2f91c1667b2d4c6e3637bb317d42aea73ccb2b8fd5e0c77b2f25eac693b1a539",
+          "cell_ids": [
+            "cell_82bfac74e9df11868b3b61d94dde624c21e98fc8710a17567f906b33d107a559"
+          ]
+        }
+      ]
+    },
+    {
+      "question_id": "wide-026-lookup-acb-hop_nhat-2019",
+      "operation": "LOOKUP",
+      "years": [
+        2019
+      ],
+      "answer": "6009937000000",
+      "sources": [
+        {
+          "report_id": "report_2d11dbe62984050d3ba75e35fa177c9bf910b7815378169acf4391e059cf1eb6",
+          "source_ref": "ACB/2019/ACB_financial_statements_2019_consolidated/ACB_financial_statements_2019_consolidated_extracted.txt",
+          "label": "Lợi nhuận sau thuế",
+          "template": "BANK",
+          "source_scale": "MILLION",
+          "current_raw": "6.009.937",
+          "next_report_prior_raw": "6.009.937",
+          "table_id": "table_bb583149bab537d91cd936d3eba215503cd6477da3e28a3e66e48fb1bd7b242c",
+          "cell_ids": [
+            "cell_04a31039c0bc729cdf8ef087167be9bb164bd7d874fd3119ddbe82eca58dbec2"
+          ]
+        }
+      ]
+    },
+    {
+      "question_id": "wide-027-lookup-vre-hop_nhat-2017",
+      "operation": "LOOKUP",
+      "years": [
+        2017
+      ],
+      "answer": "2027676442058",
+      "sources": [
+        {
+          "report_id": "report_4444a0cb89e9b63ed0395c1139d9b1d9c1dd327a0b9aa9e99236ccca23dbde00",
+          "source_ref": "VRE/2017/VRE_financial_statements_2017_consolidated/VRE_financial_statements_2017_consolidated_extracted.txt",
+          "label": "18. Lợi nhuận sau thuế TNDN",
+          "template": "TT200",
+          "source_scale": "RAW",
+          "current_raw": "2.027.676.442.058",
+          "next_report_prior_raw": "2.027.676.442.058",
+          "table_id": "table_570ae86bfd5700b04e0206d96282f9a9a389aacc7b44077191e97d99f16f5036",
+          "cell_ids": [
+            "cell_edf0fd95bae25bc4bba830d2c2c3f28520e94cac55ff79329a72e2a41a1e85b9"
+          ]
+        }
+      ]
+    },
+    {
+      "question_id": "wide-028-lookup-nkg-rieng-2018",
+      "operation": "LOOKUP",
+      "years": [
+        2018
+      ],
+      "answer": "48548556624",
+      "sources": [
+        {
+          "report_id": "report_b8cc0efdbc6a5bd6f80a5747e85228895dff06199482f05f70b0ecf80eb04a77",
+          "source_ref": "NKG/2018/NKG_financial_statements_2018_separate/NKG_financial_statements_2018_separate_extracted.txt",
+          "label": "Lợi nhuận sau thuế TNDN",
+          "template": "TT200",
+          "source_scale": "RAW",
+          "current_raw": "48.548.556.624",
+          "next_report_prior_raw": "48.548.556.624",
+          "table_id": "table_0cd458b618d521a0af9787c1690d156c8e12db14c08c5fbd4e4a9016b7544975",
+          "cell_ids": [
+            "cell_689db37e66ddfbb28533d65459aa495cf7f580c994923b8e0a715e808e36de7c"
+          ]
+        }
+      ]
+    },
+    {
+      "question_id": "wide-029-lookup-mch-hop_nhat-2024",
+      "operation": "LOOKUP",
+      "years": [
+        2024
+      ],
+      "answer": "7920537530999",
+      "sources": [
+        {
+          "report_id": "report_5f970ab5469e7f1e39328de99099577611a57c4b97de4ab6b150d3e0f05af938",
+          "source_ref": "MCH/2024/MCH_financial_statements_2024_consolidated/MCH_financial_statements_2024_consolidated_extracted.txt",
+          "label": "Lợi nhuận sau thuế TNDN (60 = 50 - 51 - 52) (mang sang trang sau)",
+          "template": "TT200",
+          "source_scale": "RAW",
+          "current_raw": "7.920.537.530.999",
+          "next_report_prior_raw": "7.920.537.530.999",
+          "table_id": "table_d7915fd06ff788af8d1b3c5a3bb9bedc9c363e471262280bc01c813d58d6d60b",
+          "cell_ids": [
+            "cell_2ac79819cba1d82b5af2847dfdb74b43e82c5dfc9ee7bc95fefac88f50fc460c",
+            "cell_d5ab8392ca25a24e72b1efa652cafa6ec6f9b3c1b7c1b14776f145f60bcb3d6a"
+          ]
+        }
+      ]
+    },
+    {
+      "question_id": "wide-030-lookup-asm-rieng-2017",
+      "operation": "LOOKUP",
+      "years": [
+        2017
+      ],
+      "answer": "182351679355",
+      "sources": [
+        {
+          "report_id": "report_807ca5974f467e51084b316dcb7cfb3025c1f5e96524759a714ea63343749621",
+          "source_ref": "ASM/2017/ASM_financial_statements_2017_separate/ASM_financial_statements_2017_separate_extracted.txt",
+          "label": "17. Lợi nhuận sau thuế thu nhập doanh nghiệp",
+          "template": "TT200",
+          "source_scale": "RAW",
+          "current_raw": "182.351.679.355",
+          "next_report_prior_raw": "182.351.679.355",
+          "table_id": "table_99d719991095cbec5cd064f0b6f9e9cb50dd078d5fb24143cac19a342a642ef4",
+          "cell_ids": [
+            "cell_42f27e98346a754d799c42fc18bc1e9f3fcd296793fd39ce46d96cabff684351"
+          ]
+        }
+      ]
+    },
+    {
+      "question_id": "wide-031-lookup-hut-hop_nhat-2020",
+      "operation": "LOOKUP",
+      "years": [
+        2020
+      ],
+      "answer": "-243442762893",
+      "sources": [
+        {
+          "report_id": "report_d1d6e6c85c8c7e3d9ac2cdf4303ddc8e40e8bbf4473f847b91382b13d9a4601f",
+          "source_ref": "HUT/2020/HUT_financial_statements_2020_consolidated/HUT_financial_statements_2020_consolidated_extracted.txt",
+          "label": "Lợi nhuận sau thuế thu nhập doanh nghiệp (60=50 - 51 - 52)",
+          "template": "TT200",
+          "source_scale": "RAW",
+          "current_raw": "(243.442.762.893)",
+          "next_report_prior_raw": "(243.442.762.893)",
+          "table_id": "table_486adc3425d713df0c5e46217e08a64ea6af90ec670084c38c08930d66a78e1a",
+          "cell_ids": [
+            "cell_5fd6d57b3236f78366b33ca795f28523072cc7719e2e442bd2a6804869c91e5e"
+          ]
+        }
+      ]
+    },
+    {
+      "question_id": "wide-032-lookup-nvl-hop_nhat-2016",
+      "operation": "LOOKUP",
+      "years": [
+        2016
+      ],
+      "answer": "1659349312978",
+      "sources": [
+        {
+          "report_id": "report_398b30913ca4e7c931fd25882debcc1dbfdebe9daafe40879edb8f0826df2be9",
+          "source_ref": "NVL/2016/NVL_financial_statements_2016_consolidated/NVL_financial_statements_2016_consolidated_extracted.txt",
+          "label": "Lợi nhuận sau thuế TNDN",
+          "template": "TT200",
+          "source_scale": "RAW",
+          "current_raw": "1.659.349.312.978",
+          "next_report_prior_raw": "1.659.349.312.978",
+          "table_id": "table_e01fdb51436a5fde09a072e7c44e04eb3e6c7d2ebbab20f7ac01ff07d193db6a",
+          "cell_ids": [
+            "cell_e76e1ea9ed93c8a0d6a121b2133c2fabe5e22ec98e3f42516e039e320a84f444"
+          ]
+        }
+      ]
+    },
+    {
+      "question_id": "wide-033-lookup-qns-rieng-2020",
+      "operation": "LOOKUP",
+      "years": [
+        2020
+      ],
+      "answer": "1104350506325",
+      "sources": [
+        {
+          "report_id": "report_cb0dbb60663877966dea5159a6fe063ca5cc08dab1e5d2de00eef627e3114394",
+          "source_ref": "QNS/2020/QNS_financial_statements_2020_separate/QNS_financial_statements_2020_separate_extracted.txt",
+          "label": "Lợi nhuận sau thuế TNDN",
+          "template": "TT200",
+          "source_scale": "RAW",
+          "current_raw": "1.104.350.506.325",
+          "next_report_prior_raw": "1.104.350.506.325",
+          "table_id": "table_a9a83841336153588c5c5d677c4c2011f47276118f461ba587291d6d1ed08813",
+          "cell_ids": [
+            "cell_17efac1e201f464d1bda6d2304a4f04d9024c699f7571c3a93fd9c0327604813"
+          ]
+        }
+      ]
+    },
+    {
+      "question_id": "wide-034-lookup-aaa-hop_nhat-2016",
+      "operation": "LOOKUP",
+      "years": [
+        2016
+      ],
+      "answer": "142925017617",
+      "sources": [
+        {
+          "report_id": "report_d1272f6b3faa3b7ee0f395653533c26c18ea736227f451d25601844b94e23037",
+          "source_ref": "AAA/2016/AAA_financial_statements_2016_consolidated/AAA_financial_statements_2016_consolidated_extracted.txt",
+          "label": "18. Lợi nhuận sau thuế thu nhập doanh nghiệp",
+          "template": "TT200",
+          "source_scale": "RAW",
+          "current_raw": "142.925.017.617",
+          "next_report_prior_raw": "142.925.017.617",
+          "table_id": "table_814c0272397cb3e693d0dc4619445469f16c11bfed0cb5ad648d087bb01b3727",
+          "cell_ids": [
+            "cell_cdba3ba070d6f72735ff3a5b1246c3f3125acdedcca01d0c616e856259c49029"
+          ]
+        }
+      ]
+    },
+    {
+      "question_id": "wide-035-lookup-fit-rieng-2024",
+      "operation": "LOOKUP",
+      "years": [
+        2024
+      ],
+      "answer": "75425257453",
+      "sources": [
+        {
+          "report_id": "report_4bf4e991a1e4730581446df87eb328596ea473b5b0cfde1d5e6e2cb7150faa87",
+          "source_ref": "FIT/2024/FIT_financial_statements_2024_separate/FIT_financial_statements_2024_separate_extracted.txt",
+          "label": "Lợi nhuận sau thuế thu nhập doanh nghiệp",
+          "template": "TT200",
+          "source_scale": "RAW",
+          "current_raw": "75.425.257.453",
+          "next_report_prior_raw": "75.425.257.453",
+          "table_id": "table_048fcfe8b2907697922c31c9cdfd4bee3ca604cc7c8020a911aeb09210134d8c",
+          "cell_ids": [
+            "cell_da64eb2a9635f7b8745b828c4e9a5062f9b9365d38423ad734b39fc77fb0f252"
+          ]
+        }
+      ]
+    },
+    {
+      "question_id": "wide-036-lookup-dnh-rieng-2020",
+      "operation": "LOOKUP",
+      "years": [
+        2020
+      ],
+      "answer": "665295881509",
+      "sources": [
+        {
+          "report_id": "report_de323c18269bffd4d29fd64bd6c888f76ec9f3daaa0d284bff19612429c01ab8",
+          "source_ref": "DNH/2020/DNH_financial_statements_2020_separate/DNH_financial_statements_2020_separate_extracted.txt",
+          "label": "Lợi nhuận sau thuế TNDN (60 = 50 - 51)",
+          "template": "TT200",
+          "source_scale": "RAW",
+          "current_raw": "665.295.881.509",
+          "next_report_prior_raw": "665.295.881.509",
+          "table_id": "table_12addd4d882e52a3f57ea519bedeca480fa734dc6b5467dadb425c8b0569213d",
+          "cell_ids": [
+            "cell_cf3286bb194c66eb787798ff24194c9e943459335355b3b79bbaed8dba97b1c4"
+          ]
+        }
+      ]
+    },
+    {
+      "question_id": "wide-037-lookup-nab-hop_nhat-2020",
+      "operation": "LOOKUP",
+      "years": [
+        2020
+      ],
+      "answer": "799664000000",
+      "sources": [
+        {
+          "report_id": "report_64ea623ddddccc4c824c0a1d78f1fd48675a32dcdf905c4c9c5ac4d7d0db3ef6",
+          "source_ref": "NAB/2020/NAB_financial_statements_2020_consolidated/NAB_financial_statements_2020_consolidated_extracted.txt",
+          "label": "Lợi nhuận sau thuế",
+          "template": "BANK",
+          "source_scale": "MILLION",
+          "current_raw": "799.664",
+          "next_report_prior_raw": "799.664",
+          "table_id": "table_43a14203d5428c9b88cb3f196a96d132955334579291820adfb4598d6a4fd72c",
+          "cell_ids": [
+            "cell_860fda5a3b41fa50c1ddc6930e5c4a8c131f85bd85ae461cc1ddf74b50a0f765"
+          ]
+        }
+      ]
+    },
+    {
+      "question_id": "wide-038-lookup-hdg-rieng-2021",
+      "operation": "LOOKUP",
+      "years": [
+        2021
+      ],
+      "answer": "1122635988392",
+      "sources": [
+        {
+          "report_id": "report_89c52fea3bfb613d82180a6b34cf7ff267d8ce4e7c08fac4545264137622abe6",
+          "source_ref": "HDG/2021/HDG_financial_statements_2021_separate/HDG_financial_statements_2021_separate_extracted.txt",
+          "label": "17. Lợi nhuận sau thuế TNDN",
+          "template": "TT200",
+          "source_scale": "RAW",
+          "current_raw": "1.122.635.988.392",
+          "next_report_prior_raw": "1.122.635.988.392",
+          "table_id": "table_a528bc559ee1e4ecda85ef98925a850d23b2c35d28db635e4742c83f012e7d20",
+          "cell_ids": [
+            "cell_6e86fa22971398602034d754332a0d41e989257d849a6ac7cadfd6bdcbde2f37"
+          ]
+        }
+      ]
+    },
+    {
+      "question_id": "wide-039-lookup-hbc-rieng-2024",
+      "operation": "LOOKUP",
+      "years": [
+        2024
+      ],
+      "answer": "913254535361",
+      "sources": [
+        {
+          "report_id": "report_ba70baf0b90c84ce7df38ba4285f7bdccb9a4efdade604365ca7ea9dbe12bb3c",
+          "source_ref": "HBC/2024/HBC_financial_statements_2024_separate/HBC_financial_statements_2024_separate_extracted.txt",
+          "label": "17. Lợi nhuận sau thuế thu nhập doanh nghiệp",
+          "template": "TT200",
+          "source_scale": "RAW",
+          "current_raw": "913.254.535.361",
+          "next_report_prior_raw": "913.254.535.361",
+          "table_id": "table_bdc477d7724ba1851229b65b68dcfc05d06374b50da966b1806d84f4fdc5d58d",
+          "cell_ids": [
+            "cell_4e729500bd4c31638f455d4377df87308d74ca6557cc781decf6ea2fa628828f"
+          ]
+        }
+      ]
+    },
+    {
+      "question_id": "wide-040-lookup-vpb-rieng-2020",
+      "operation": "LOOKUP",
+      "years": [
+        2020
+      ],
+      "answer": "7445129000000",
+      "sources": [
+        {
+          "report_id": "report_886562028c7302f183930bfae7ccbce72171c8da0cb877061cd0f0e42c6c3130",
+          "source_ref": "VPB/2020/VPB_financial_statements_2020_separate/VPB_financial_statements_2020_separate_extracted.txt",
+          "label": "Lợi nhuận sau thuế",
+          "template": "BANK",
+          "source_scale": "MILLION",
+          "current_raw": "7.445.129",
+          "next_report_prior_raw": "7.445.129",
+          "table_id": "table_7367e425b1779b724e3fea15262bbadacfb31f0de38deb98963cc4b0688b5b3b",
+          "cell_ids": [
+            "cell_898cf4dc60ea40b81594d681aabcefd71661b3396947c0b4eb97f496985b1d17"
+          ]
+        }
+      ]
+    },
+    {
+      "question_id": "wide-041-lookup-mpc-hop_nhat-2018",
+      "operation": "LOOKUP",
+      "years": [
+        2018
+      ],
+      "answer": "810374778649",
+      "sources": [
+        {
+          "report_id": "report_e7cdb106edeea8b79a950d1197291a66f5638f4351f6a8f8876f4030c326a86a",
+          "source_ref": "MPC/2018/MPC_financial_statements_2018_consolidated/MPC_financial_statements_2018_consolidated_extracted.txt",
+          "label": "Lợi nhuận sau thuế TNDN (mang sang trang sau) (60 = 50 - 51 - 52)",
+          "template": "TT200",
+          "source_scale": "RAW",
+          "current_raw": "810.374.778.649",
+          "next_report_prior_raw": "810.374.778.649",
+          "table_id": "table_cc594ba117df966829da6c2f6b3f551707ca69c271187ffa124dfbb38b874f96",
+          "cell_ids": [
+            "cell_fef67d478be2fcfeef4c7adb2bae351aad063dafe7236f83fe241bd3004117c8",
+            "cell_79bca82175a2df670ddaf06dfa8070601b980a4ba026d0cdabecba4a776569d2"
+          ]
+        }
+      ]
+    },
+    {
+      "question_id": "wide-042-lookup-ht1-rieng-2022",
+      "operation": "LOOKUP",
+      "years": [
+        2022
+      ],
+      "answer": "257643359073",
+      "sources": [
+        {
+          "report_id": "report_33ca98dcdbe33ce71e9e1d45cfaece5e3a778fda54cb3f95930acdc06acbf4f0",
+          "source_ref": "HT1/2022/HT1_financial_statements_2022_separate/HT1_financial_statements_2022_separate_extracted.txt",
+          "label": "Lợi nhuận sau thuế thu nhập doanh nghiệp (60=50-(51+52))",
+          "template": "TT200",
+          "source_scale": "RAW",
+          "current_raw": "257.643.359.073",
+          "next_report_prior_raw": "257.643.359.073",
+          "table_id": "table_753121506e57b2185c0faa6bf647487d3d7e8391a07aeff6ecc2d625fa362ccf",
+          "cell_ids": [
+            "cell_00847e5eefcc5e4e6e9e966a6fb1f346249ffb695fd40981f954812c4686c4ee"
+          ]
+        }
+      ]
+    },
+    {
+      "question_id": "wide-043-lookup-ogc-hop_nhat-2021",
+      "operation": "LOOKUP",
+      "years": [
+        2021
+      ],
+      "answer": "-280028911741",
+      "sources": [
+        {
+          "report_id": "report_3e3c70cef0a70f9a125354e00bc3ae174d2a6fa7fe13e1a377e56ee673da793c",
+          "source_ref": "OGC/2021/OGC_financial_statements_2021_consolidated/OGC_financial_statements_2021_consolidated_extracted.txt",
+          "label": "18. Lợi nhuận sau thuế thu nhập doanh nghiệp",
+          "template": "TT200",
+          "source_scale": "RAW",
+          "current_raw": "(280.028.911.741)",
+          "next_report_prior_raw": "(280.028.911.741)",
+          "table_id": "table_c21d77028184aa3c8f123417f2eed902767a1349e5540d1b2734f83e5139ed50",
+          "cell_ids": [
+            "cell_d7810760d5d4323460bbdb7b5c9756cfc8600d80ee8960999f34727725bc074a"
+          ]
+        }
+      ]
+    },
+    {
+      "question_id": "wide-044-lookup-vgt-hop_nhat-2018",
+      "operation": "LOOKUP",
+      "years": [
+        2018
+      ],
+      "answer": "702616051778",
+      "sources": [
+        {
+          "report_id": "report_5b31bb5cc5907067a21f34f0cbefbfa880c375abe9f3a2237fefd1316b912328",
+          "source_ref": "VGT/2018/VGT_financial_statements_2018_consolidated/VGT_financial_statements_2018_consolidated_extracted.txt",
+          "label": "Lợi nhuận sau thuế TNDN (60 = 50 - 51 - 52) (chuyển sang trang sau)",
+          "template": "TT200",
+          "source_scale": "RAW",
+          "current_raw": "702.616.051.778",
+          "next_report_prior_raw": "702.616.051.778",
+          "table_id": "table_d12fdf964a29eb16bdaf153e53f59fb5a737551e4de88b339dcfc10fb47f325f",
+          "cell_ids": [
+            "cell_5ada61ab22c9caebbf61615da273ed2200778fdc209149c0bec4d34d084bfd5a",
+            "cell_d661e5f99b64adb7065bdb30bebf88b8e30208713429bb44dc1c3c80e10ea47f"
+          ]
+        }
+      ]
+    },
+    {
+      "question_id": "wide-045-lookup-fpt-hop_nhat-2024",
+      "operation": "LOOKUP",
+      "years": [
+        2024
+      ],
+      "answer": "9427422530444",
+      "sources": [
+        {
+          "report_id": "report_9b7c7ab882cf9110524d4769293e27f2c6ce87157df1e075f1226b35671b7395",
+          "source_ref": "FPT/2024/FPT_financial_statements_2024_consolidated/FPT_financial_statements_2024_consolidated_extracted.txt",
+          "label": "Lợi nhuận sau thuế TNDN (60 = 50 - 51 - 52)",
+          "template": "TT200",
+          "source_scale": "RAW",
+          "current_raw": "9.427.422.530.444",
+          "next_report_prior_raw": "9.427.422.530.444",
+          "table_id": "table_ab974bbc638a0b12ccccc680a183b151070a8c3083f8faec99e3c349d0bcc824",
+          "cell_ids": [
+            "cell_e9987a257216afa4e68871f602480aebfc816f9ef601cb54fe5a91dc4d162b4d"
+          ]
+        }
+      ]
+    },
+    {
+      "question_id": "wide-046-lookup-pnj-hop_nhat-2020",
+      "operation": "LOOKUP",
+      "years": [
+        2020
+      ],
+      "answer": "1069310105261",
+      "sources": [
+        {
+          "report_id": "report_542986ac2097e37649f6479bb4d097cb66a2661e08f8a88ccb7e3f83a4a69784",
+          "source_ref": "PNJ/2020/PNJ_financial_statements_2020_consolidated/PNJ_financial_statements_2020_consolidated_extracted.txt",
+          "label": "Lợi nhuận sau thuế TNDN",
+          "template": "TT200",
+          "source_scale": "RAW",
+          "current_raw": "1.069.310.105.261",
+          "next_report_prior_raw": "1.069.310.105.261",
+          "table_id": "table_f8f887b7bbd25530afd8cf12a85214a80e04d1af009bb5b385dadaa91099e4bf",
+          "cell_ids": [
+            "cell_85b8236d7a8cef87f4c37f298c19de71cce8668c43f3af7fa50e5ffa3e573d74"
+          ]
+        }
+      ]
+    },
+    {
+      "question_id": "wide-047-lookup-gvr-hop_nhat-2024",
+      "operation": "LOOKUP",
+      "years": [
+        2024
+      ],
+      "answer": "4826666026951",
+      "sources": [
+        {
+          "report_id": "report_adcc20788c5af9ba201d75f1e5a2892453b5b162f00537f7c672ddd4ec302eb6",
+          "source_ref": "GVR/2024/GVR_financial_statements_2024_consolidated/GVR_financial_statements_2024_consolidated_extracted.txt",
+          "label": "18. Lợi nhuận sau thuế thu nhập doanh nghiệp (50-51-52)",
+          "template": "TT200",
+          "source_scale": "RAW",
+          "current_raw": "4.826.666.026.951",
+          "next_report_prior_raw": "4.826.666.026.951",
+          "table_id": "table_c7110cd7a86a36938a6a09dfe900c3a94a8bc0a1aa26c69931846a6c10834879",
+          "cell_ids": [
+            "cell_3771773abd11abb7cb15a2cd18909d9109d210a6f8442853246c9741abdc823b"
+          ]
+        }
+      ]
+    },
+    {
+      "question_id": "wide-048-lookup-sjg-rieng-2019",
+      "operation": "LOOKUP",
+      "years": [
+        2019
+      ],
+      "answer": "40155682533",
+      "sources": [
+        {
+          "report_id": "report_1d73efe39a1982656054c328b814b2b85518c108d353aaa7f397af01cd7f59dd",
+          "source_ref": "SJG/2019/SJG_financial_statements_2019_separate/SJG_financial_statements_2019_separate_extracted.txt",
+          "label": "Lợi nhuận sau thuế thu nhập doanh nghiệp",
+          "template": "TT200",
+          "source_scale": "RAW",
+          "current_raw": "40.155.682.533",
+          "next_report_prior_raw": "40.155.682.533",
+          "table_id": "table_f3f043c4f5f57cb5e7286840f1590ec6dc8b82dfed8f9fe5d35ccb7a8500f1bd",
+          "cell_ids": [
+            "cell_e9c6e55091f0f7b8606205ce79670cba82723287542cb01da03fecd28ff58e93"
+          ]
+        }
+      ]
+    },
+    {
+      "question_id": "wide-049-lookup-fox-hop_nhat-2024",
+      "operation": "LOOKUP",
+      "years": [
+        2024
+      ],
+      "answer": "2861086103961",
+      "sources": [
+        {
+          "report_id": "report_ab78f72f3da90808fcf2d2c85cd63114520eb1603cee869682efafef8c581574",
+          "source_ref": "FOX/2024/FOX_financial_statements_2024_consolidated/FOX_financial_statements_2024_consolidated_extracted.txt",
+          "label": "Lợi nhuận sau thuế TNDN (60 = 50 - 51 - 52)",
+          "template": "TT200",
+          "source_scale": "RAW",
+          "current_raw": "2.861.086.103.961",
+          "next_report_prior_raw": "2.861.086.103.961",
+          "table_id": "table_22808f7ed5a2edcbb3f82f53970bf125cc56a052435da8031c393968379a3e3d",
+          "cell_ids": [
+            "cell_db9a7ba6e56aafdfc82a12d3c0153334a985610261faaa33639d36be2e0d99fb"
+          ]
+        }
+      ]
+    },
+    {
+      "question_id": "wide-050-lookup-msr-hop_nhat-2022",
+      "operation": "LOOKUP",
+      "years": [
+        2022
+      ],
+      "answer": "105151058000",
+      "sources": [
+        {
+          "report_id": "report_38e9209ac2d9e91a2c3f169b38b7334b832f35d06afd846dc4b420f637749f31",
+          "source_ref": "MSR/2022/MSR_financial_statements_2022_consolidated/MSR_financial_statements_2022_consolidated_extracted.txt",
+          "label": "Lợi nhuận sau thuế TNDN (60 = 50 - 51 - 52) (chuyển sang trang sau)",
+          "template": "TT200",
+          "source_scale": "THOUSAND",
+          "current_raw": "105.151.058",
+          "next_report_prior_raw": "105.151.058",
+          "table_id": "table_87895c0ffb95f04ce64e3de299c9c0704233cff8542461a67e8467107ba9c108",
+          "cell_ids": [
+            "cell_a3641d9c738e74c730ec621ea15a027c67c1d975b417b4a0bc76a9308436de3e",
+            "cell_2451bc6325c8ee673127caa7cd347b46189be65620fe30f186131b161101abe1"
+          ]
+        }
+      ]
+    },
+    {
+      "question_id": "wide-051-lookup-kbc-hop_nhat-2023",
+      "operation": "LOOKUP",
+      "years": [
+        2023
+      ],
+      "answer": "2245003412330",
+      "sources": [
+        {
+          "report_id": "report_5e3e030fbced5f96fa2359230fb69b7d5f92568c14f8ae8fd4e051624558c509",
+          "source_ref": "KBC/2023/KBC_financial_statements_2023_consolidated/KBC_financial_statements_2023_consolidated_extracted.txt",
+          "label": "18. Lợi nhuận sau thuế TNDN",
+          "template": "TT200",
+          "source_scale": "RAW",
+          "current_raw": "2.245.003.412.330",
+          "next_report_prior_raw": "2.245.003.412.330",
+          "table_id": "table_3835b2dbf463dc553c35136a99ab943acf1b65d34629cd0cfebc24e5fb2ed7df",
+          "cell_ids": [
+            "cell_6da993d3c18415df4fcb62ec374397e8efbc1caaab5d106cee8ebb1e16d8d6ee"
+          ]
+        }
+      ]
+    },
+    {
+      "question_id": "wide-052-lookup-ijc-rieng-2016",
+      "operation": "LOOKUP",
+      "years": [
+        2016
+      ],
+      "answer": "119902265925",
+      "sources": [
+        {
+          "report_id": "report_db386d11595cf66a17b7edd5095dd1fee91b0eaa978af574c4a2eaef15eeb8c7",
+          "source_ref": "IJC/2016/IJC_financial_statements_2016_separate/IJC_financial_statements_2016_separate_extracted.txt",
+          "label": "17. Lợi nhuận sau thuế thu nhập doanh nghiệp",
+          "template": "TT200",
+          "source_scale": "RAW",
+          "current_raw": "119.902.265.925",
+          "next_report_prior_raw": "119.902.265.925",
+          "table_id": "table_1783ab15aa50e114d18a017dac37557105f7f251dea0f7555972ba913284f2d0",
+          "cell_ids": [
+            "cell_1178d25e8d8f39ec96630b32a20d2c8617e4aa6f1a612a399991fe1676c4f59e"
+          ]
+        }
+      ]
+    },
+    {
+      "question_id": "wide-053-lookup-dbc-rieng-2015",
+      "operation": "LOOKUP",
+      "years": [
+        2015
+      ],
+      "answer": "187004653066",
+      "sources": [
+        {
+          "report_id": "report_b06efd14b35b5a0408ec1a79d94320f031aed2fdc1af9bc45648ca13d34b3a8c",
+          "source_ref": "DBC/2015/DBC_financial_statements_2015_separate/DBC_financial_statements_2015_separate_extracted.txt",
+          "label": "16. Lợi nhuận sau thuế TNDN",
+          "template": "TT200",
+          "source_scale": "RAW",
+          "current_raw": "187.004.653.066",
+          "next_report_prior_raw": "187.004.653.066",
+          "table_id": "table_3ece04583ced84609993f0f217741cd1c90b958ddd6f13903e507762c30883c3",
+          "cell_ids": [
+            "cell_164008b45fd4ad0708c7be7a083c730f010816a4ba4c3c0814ac153d8af4547e"
+          ]
+        }
+      ]
+    },
+    {
+      "question_id": "wide-054-lookup-dlg-rieng-2015",
+      "operation": "LOOKUP",
+      "years": [
+        2015
+      ],
+      "answer": "48456089553",
+      "sources": [
+        {
+          "report_id": "report_95cc30583d04c951fc37a5258520f0728ffd893bba3faf2faa741e9a9473950c",
+          "source_ref": "DLG/2015/DLG_financial_statements_2015_separate/DLG_financial_statements_2015_separate_extracted.txt",
+          "label": "17. Lợi nhuận sau thuế TNDN",
+          "template": "TT200",
+          "source_scale": "RAW",
+          "current_raw": "48.456.089.553",
+          "next_report_prior_raw": "48.456.089.553",
+          "table_id": "table_9e9ba5444f99f551939284eb324ad88f09b175960df86cfbb06fb314a3377753",
+          "cell_ids": [
+            "cell_80d32f698babc34f1e2706b38b1365481bada83069b6ebc1e4151fbc273b00a8"
+          ]
+        }
+      ]
+    },
+    {
+      "question_id": "wide-055-lookup-pow-rieng-2023",
+      "operation": "LOOKUP",
+      "years": [
+        2023
+      ],
+      "answer": "1200089996302",
+      "sources": [
+        {
+          "report_id": "report_b90ba6d2514660344152b355f40a767a7a55a2ffc0ef708c0eb62ac749f6d65b",
+          "source_ref": "POW/2023/POW_financial_statements_2023_separate/POW_financial_statements_2023_separate_extracted.txt",
+          "label": "15. Lợi nhuận sau thuế thu nhập doanh nghiệp (60=50-51-52)",
+          "template": "TT200",
+          "source_scale": "RAW",
+          "current_raw": "1.200.089.996.302",
+          "next_report_prior_raw": "1.200.089.996.302",
+          "table_id": "table_e5e3f61bff40a3a4db668658f6a650adb3d922e1cc21596dbc55afebb7870dc4",
+          "cell_ids": [
+            "cell_d023dc5051a8014aab58ca57e7a0aa37c92148616d195cc34d882239e60c0762"
+          ]
+        }
+      ]
+    },
+    {
+      "question_id": "wide-056-lookup-mml-rieng-2019",
+      "operation": "LOOKUP",
+      "years": [
+        2019
+      ],
+      "answer": "108345773741",
+      "sources": [
+        {
+          "report_id": "report_3c859d6b8fc29ebd6f162246dce4429656aecd754aa0f823efc5768e5ab9fe55",
+          "source_ref": "MML/2019/MML_financial_statements_2019_separate/MML_financial_statements_2019_separate_extracted.txt",
+          "label": "Lợi nhuận sau thuế TNDN (60 = 50 - 51 - 52)",
+          "template": "TT200",
+          "source_scale": "RAW",
+          "current_raw": "108.345.773.741",
+          "next_report_prior_raw": "108.345.773.741",
+          "table_id": "table_0db9c7254763be34d29eb0f054ab2cd0e8375d9e7be00bf17e4f2556b78eeef6",
+          "cell_ids": [
+            "cell_ba4916e9c4af7eabecfc4be5a9b8711c37b60cd57b721ce2a6e042318279f425"
+          ]
+        }
+      ]
+    },
+    {
+      "question_id": "wide-057-lookup-bvh-rieng-2022",
+      "operation": "LOOKUP",
+      "years": [
+        2022
+      ],
+      "answer": "1065593003834",
+      "sources": [
+        {
+          "report_id": "report_232c298cae876a5d2367f486488307084c4c24d2c6295e0edb387f515cd64137",
+          "source_ref": "BVH/2022/BVH_financial_statements_2022_separate/BVH_financial_statements_2022_separate_extracted.txt",
+          "label": "11. Lợi nhuận sau thuế thu nhập doanh nghiệp",
+          "template": "TT200",
+          "source_scale": "RAW",
+          "current_raw": "1.065.593.003.834",
+          "next_report_prior_raw": "1.065.593.003.834",
+          "table_id": "table_f2045e54da45b414dff3134e76bce3d6979650e24dd9513c6d24bdafc837f36e",
+          "cell_ids": [
+            "cell_db3243596b6d91540e133b6ad65e7e5adb024bdfb34a7590380d6848148cf3b4"
+          ]
+        }
+      ]
+    },
+    {
+      "question_id": "wide-058-lookup-vcb-hop_nhat-2018",
+      "operation": "LOOKUP",
+      "years": [
+        2018
+      ],
+      "answer": "14622062000000",
+      "sources": [
+        {
+          "report_id": "report_b3e3d5f8ea6637ca351994b690476f35b3811bfe78f03ef63e18207bcae7caf3",
+          "source_ref": "VCB/2018/VCB_financial_statements_2018_consolidated/VCB_financial_statements_2018_consolidated_extracted.txt",
+          "label": "LỢI NHUẬN SAU THUẾ",
+          "template": "BANK",
+          "source_scale": "MILLION",
+          "current_raw": "14.622.062",
+          "next_report_prior_raw": "14.622.062",
+          "table_id": "table_ad69d214a14b2672257aede11bd8a593101be18a1e1ce9808e46ca1d713ce5de",
+          "cell_ids": [
+            "cell_3f305b264631bb33d2c42f1ca6961ca3daaa0390971d1104172b177009cd2563"
+          ]
+        }
+      ]
+    },
+    {
+      "question_id": "wide-059-lookup-vgc-hop_nhat-2024",
+      "operation": "LOOKUP",
+      "years": [
+        2024
+      ],
+      "answer": "1187618592580",
+      "sources": [
+        {
+          "report_id": "report_8032238c49db1c1c3d14eb63b59587e8c8ecbcdbca6074cc939e45f6599ab904",
+          "source_ref": "VGC/2024/VGC_financial_statements_2024_consolidated/VGC_financial_statements_2024_consolidated_extracted.txt",
+          "label": "Lợi nhuận sau thuế thu nhập doanh nghiệp (60=50-51-52)",
+          "template": "TT200",
+          "source_scale": "RAW",
+          "current_raw": "1.187.618.592.580",
+          "next_report_prior_raw": "1.187.618.592.580",
+          "table_id": "table_962a1b5f86fa701b49ab039036b9bccf8268b63d40f885d4b4cfa648331cca0f",
+          "cell_ids": [
+            "cell_f0169e746c89466a8ae67707b1b915788cccdaf859cc9b63f33cd796c0a74a9b"
+          ]
+        }
+      ]
+    },
+    {
+      "question_id": "wide-060-growth_rate-bsr-hop_nhat-2023-2024",
+      "operation": "GROWTH_RATE",
+      "years": [
+        2023,
+        2024
+      ],
+      "answer": "-93.120905965713092317724834520671895294658993231509",
+      "sources": [
+        {
+          "report_id": "report_03e91b0dc4229520358c954ee951815baf1c6a61df28101a1fca9de4e1c574a6",
+          "source_ref": "BSR/2023/BSR_financial_statements_2023_consolidated/BSR_financial_statements_2023_consolidated_extracted.txt",
+          "label": "Lợi nhuận sau thuế thu nhập doanh nghiệp (60=50-51-52)",
+          "template": "TT200",
+          "source_scale": "RAW",
+          "current_raw": "8.592.578.972.011",
+          "next_report_prior_raw": "8.592.578.972.011",
+          "table_id": "table_60f227719a1d8c67a604d1a8d442ba6c52ab9089aa3c6a07c1d5d31bf1d5b9b3",
+          "cell_ids": [
+            "cell_b6b1a857ad112ad31fc9ca2c952f9db8b5baa5b971ce3649f95ced46542478ee"
+          ]
+        },
+        {
+          "report_id": "report_ea9797b19ce67a2c2325e89fa6540cf899cbbf3b9c6a364547f897201a25136b",
+          "source_ref": "BSR/2024/BSR_financial_statements_2024_consolidated/BSR_financial_statements_2024_consolidated_extracted.txt",
+          "label": "Lợi nhuận sau thuế thu nhập doanh nghiệp (60=50-51-52)Trong đó:",
+          "template": "TT200",
+          "source_scale": "RAW",
+          "current_raw": "591.091.587.455",
+          "next_report_prior_raw": "591.091.587.455",
+          "table_id": "table_941ec0acb29439041fea290c4a7a4a67c093e8d26a02ce2ea47c7ec93aaa17c8",
+          "cell_ids": [
+            "cell_96f435776ca11db18d9f065cd40e9843071c934cfa046c67c28e6008d5f01c6b"
+          ]
+        }
+      ]
+    },
+    {
+      "question_id": "wide-061-growth_rate-vsc-rieng-2023-2024",
+      "operation": "GROWTH_RATE",
+      "years": [
+        2023,
+        2024
+      ],
+      "answer": "67.263558150147961853200061055275338083182976359089",
+      "sources": [
+        {
+          "report_id": "report_b212ad7ca08eb1d9aa5f0ec4fa2125eb32d1eea51fcc0bbd8cd1c04fff6e7b45",
+          "source_ref": "VSC/2023/VSC_financial_statements_2023_separate/VSC_financial_statements_2023_separate_extracted.txt",
+          "label": "Lợi nhuận sau thuế TNDN",
+          "template": "TT200",
+          "source_scale": "RAW",
+          "current_raw": "155.354.444.763",
+          "next_report_prior_raw": "155.354.444.763",
+          "table_id": "table_8687d82a8b17f2229872d7a625653fab779d5d24074b26c6c6373a7d8c2db3c3",
+          "cell_ids": [
+            "cell_2b75b2232f506e21e499aad0e56ee33371a0387c7f5ac2a029adf9f1661afc99"
+          ]
+        },
+        {
+          "report_id": "report_6692746ab2047a4e95ad7f2681d5eec5f9bb85fdf50bc1655ee64d41e47aa409",
+          "source_ref": "VSC/2024/VSC_financial_statements_2024_separate/VSC_financial_statements_2024_separate_extracted.txt",
+          "label": "Lợi nhuận sau thuế TNDN",
+          "template": "TT200",
+          "source_scale": "RAW",
+          "current_raw": "259.851.372.055",
+          "next_report_prior_raw": "259.851.372.055",
+          "table_id": "table_c109999586026230affac293086cff7f1655b587796936d4db268d0c4031f77b",
+          "cell_ids": [
+            "cell_106ab099cd50ef3eedd1128cfd4175e0cfbd9a20bc42475de1ae5aa3d9459ac1"
+          ]
+        }
+      ]
+    },
+    {
+      "question_id": "wide-062-growth_rate-msr-rieng-2019-2020",
+      "operation": "GROWTH_RATE",
+      "years": [
+        2019,
+        2020
+      ],
+      "answer": "-98.784381030852255800959638969457218864078518508211",
+      "sources": [
+        {
+          "report_id": "report_6544b06bb8b4f23bad82440e2398353aaa25154b7a566f0b86565016e7945974",
+          "source_ref": "MSR/2019/MSR_financial_statements_2019_separate/MSR_financial_statements_2019_separate_extracted.txt",
+          "label": "Lợi nhuận sau thuế TNDN (60 = 50 - 51)",
+          "template": "TT200",
+          "source_scale": "THOUSAND",
+          "current_raw": "651.943.512",
+          "next_report_prior_raw": "651.943.512",
+          "table_id": "table_fa6679321901f70e03a85748c533785d7ca9c77e6e1dc5f5270dca3145794ee7",
+          "cell_ids": [
+            "cell_ea71d4a1c9b0b321f7ccc66c92a035b55c56f219bf345d7ea51b6c71feb004fb"
+          ]
+        },
+        {
+          "report_id": "report_56f3e392dc2dedb9a965cdd90612ee0a941c1c4718ced3d3df5f59c5dceba81a",
+          "source_ref": "MSR/2020/MSR_financial_statements_2020_separate/MSR_financial_statements_2020_separate_extracted.txt",
+          "label": "Lợi nhuận sau thuế TNDN (60 = 50 - 51)",
+          "template": "TT200",
+          "source_scale": "THOUSAND",
+          "current_raw": "7.925.149",
+          "next_report_prior_raw": "7.925.149",
+          "table_id": "table_cda7b66e227e0c9cc90c73fc303d971b675ce13ecace4d81e1a05bdbcd7d8881",
+          "cell_ids": [
+            "cell_6f5b97653dff8f65eec706911c0e80558568c154e316cebd3867ae09e97dbd2d"
+          ]
+        }
+      ]
+    },
+    {
+      "question_id": "wide-063-growth_rate-ocb-hop_nhat-2017-2018",
+      "operation": "GROWTH_RATE",
+      "years": [
+        2017,
+        2018
+      ],
+      "answer": "115.61020890017141130989673987992990750028281802844",
+      "sources": [
+        {
+          "report_id": "report_895f92828d1b2c9ab1aaf0696c5cc889823f4812316a18b4f26028fce0cb3df1",
+          "source_ref": "OCB/2017/OCB_financial_statements_2017_consolidated/OCB_financial_statements_2017_consolidated_extracted.txt",
+          "label": "Lợi nhuận sau thuế",
+          "template": "BANK",
+          "source_scale": "RAW",
+          "current_raw": "816.766.203.959",
+          "next_report_prior_raw": "816.766.203.959",
+          "table_id": "table_011269b894f5af1d109e8c0d5e80d503e21606a176fcab4f95a3517c74cc5414",
+          "cell_ids": [
+            "cell_f4ca625a65182ad4c4752fb8079c3685464eda3c1e439a1fe7ef415aea4b9d42"
+          ]
+        },
+        {
+          "report_id": "report_f245977caa614443a1dbef97be01bf06ca1761f619f50aeab5c2a89ca4bcc924",
+          "source_ref": "OCB/2018/OCB_financial_statements_2018_consolidated/OCB_financial_statements_2018_consolidated_extracted.txt",
+          "label": "Lợi nhuận sau thuế",
+          "template": "BANK",
+          "source_scale": "RAW",
+          "current_raw": "1.761.031.318.582",
+          "next_report_prior_raw": "1.761.031.318.582",
+          "table_id": "table_22cd8f0adbab48b86a6b9f1301e319c6a279c16b8a39707354dc633cff2894b0",
+          "cell_ids": [
+            "cell_f381346bbdde1a5400145a6d4b6377535811e112d096f6b6abcb1fbd6cf05052"
+          ]
+        }
+      ]
+    },
+    {
+      "question_id": "wide-064-growth_rate-hdg-rieng-2018-2019",
+      "operation": "GROWTH_RATE",
+      "years": [
+        2018,
+        2019
+      ],
+      "answer": "94.806271354009902746596434805870612634010131369779",
+      "sources": [
+        {
+          "report_id": "report_e5fe0f24d3d1bfc9ffdf27e4c3d479389dd3447a7792b9948a6e4df409c8ead8",
+          "source_ref": "HDG/2018/HDG_financial_statements_2018_separate/HDG_financial_statements_2018_separate_extracted.txt",
+          "label": "Lợi nhuận sau thuế TNDN (60 = 50 - 51)",
+          "template": "TT200",
+          "source_scale": "RAW",
+          "current_raw": "352.639.653.655",
+          "next_report_prior_raw": "352.639.653.655",
+          "table_id": "table_af527437912bf13cc798b35cdb4abb3ccca9b8e981ebc5afa799777ec9022d32",
+          "cell_ids": [
+            "cell_0ccdf1fbc807c683396460733a64dc242664d63b55dbb06b08b57d53f621e06d"
+          ]
+        },
+        {
+          "report_id": "report_c549dd36817b083ba63c1f808540a74069ddda236137dc7ebf895ca5296155c3",
+          "source_ref": "HDG/2019/HDG_financial_statements_2019_separate/HDG_financial_statements_2019_separate_extracted.txt",
+          "label": "Lợi nhuận sau thuế TNDN (60 = 50 - 51)",
+          "template": "TT200",
+          "source_scale": "RAW",
+          "current_raw": "686.964.160.601",
+          "next_report_prior_raw": "686.964.160.601",
+          "table_id": "table_8e9c8d004c53e4a1920b01581b0e45948313a3eb70d5ee56a485b220eaf63680",
+          "cell_ids": [
+            "cell_ffce8432e008c0beb5ad9188f3eb1b9b372827450bd3f348ba133a355a22309e"
+          ]
+        }
+      ]
+    },
+    {
+      "question_id": "wide-065-growth_rate-ssb-rieng-2022-2023",
+      "operation": "GROWTH_RATE",
+      "years": [
+        2022,
+        2023
+      ],
+      "answer": "-4.7350279343666917790948535955707633818686214304019",
+      "sources": [
+        {
+          "report_id": "report_40ecfb4dcb0f2a158b3cf05b87a0396ada3beb0870ba48c6cc58be67128840b1",
+          "source_ref": "SSB/2022/SSB_financial_statements_2022_separate/SSB_financial_statements_2022_separate_extracted.txt",
+          "label": "Lợi nhuận sau thuế",
+          "template": "BANK",
+          "source_scale": "MILLION",
+          "current_raw": "3.894.486",
+          "next_report_prior_raw": "3.894.486",
+          "table_id": "table_d4a7cb73c3b3869f097d58633a29d07a977f3f60b23f24455d495e17b5b274d0",
+          "cell_ids": [
+            "cell_5066bdbd80066be872b33c72acc10749f6509ba870005ae9a88705ce55a5b03c"
+          ]
+        },
+        {
+          "report_id": "report_3b10cac9dcbe0f0ad5f49a43883130e1cecc95452bdfb57811a034092c9ef1de",
+          "source_ref": "SSB/2023/SSB_financial_statements_2023_separate/SSB_financial_statements_2023_separate_extracted.txt",
+          "label": "Lợi nhuận sau thuế",
+          "template": "BANK",
+          "source_scale": "MILLION",
+          "current_raw": "3.710.081",
+          "next_report_prior_raw": "3.710.081",
+          "table_id": "table_7c954a6e93bc05348c145851a3764ed9c2d9fadabe3f48cf73e9323ade4160d9",
+          "cell_ids": [
+            "cell_a7668050333450c5c38ca465f2c7a42201bf905e83e8528af473d4f32bd21a03"
+          ]
+        }
+      ]
+    },
+    {
+      "question_id": "wide-066-growth_rate-qns-rieng-2022-2023",
+      "operation": "GROWTH_RATE",
+      "years": [
+        2022,
+        2023
+      ],
+      "answer": "64.731156802234045701467263261790200291393911443505",
+      "sources": [
+        {
+          "report_id": "report_ebc55dc090d712ed0ef7098e0631ba94305b2b7e5d3e61e57c8ec635febb9746",
+          "source_ref": "QNS/2022/QNS_financial_statements_2022_separate/QNS_financial_statements_2022_separate_extracted.txt",
+          "label": "17. Lợi nhuận sau thuế TNDN",
+          "template": "TT200",
+          "source_scale": "RAW",
+          "current_raw": "1.426.368.767.079",
+          "next_report_prior_raw": "1.426.368.767.079",
+          "table_id": "table_709e25a4adeeef4a3d6e3cb923d8e9d9589e7ed57906e5f2bd0133fe7b23a9f4",
+          "cell_ids": [
+            "cell_0705c7fb57fd2d3412772799a150ba9c2aae19f416504132954a1fc2bbb87538"
+          ]
+        },
+        {
+          "report_id": "report_e7eaa01c2e4cb9ca48014d566712b77ed16c80d5ec21c2c6005a3f0ccdbb94da",
+          "source_ref": "QNS/2023/QNS_financial_statements_2023_separate/QNS_financial_statements_2023_separate_extracted.txt",
+          "label": "17. Lợi nhuận sau thuế TNDN",
+          "template": "TT200",
+          "source_scale": "RAW",
+          "current_raw": "2.349.673.770.275",
+          "next_report_prior_raw": "2.349.673.770.275",
+          "table_id": "table_bce3aee1d37e6fb9492885024cccc2e830dcb4f5edf1a43ab9d111794dc76674",
+          "cell_ids": [
+            "cell_bbdc520eb86bdeb87d610a0249eca1c5ddc49f833e65bd8502bd86efb57f0f2a"
+          ]
+        }
+      ]
+    },
+    {
+      "question_id": "wide-067-growth_rate-msb-rieng-2018-2019",
+      "operation": "GROWTH_RATE",
+      "years": [
+        2018,
+        2019
+      ],
+      "answer": "19.922927371198444660463824468823774475767254547979",
+      "sources": [
+        {
+          "report_id": "report_663c684270032360076bc89d9452f89cbf3187f64a4370682349fb139c2ab74d",
+          "source_ref": "MSB/2018/MSB_financial_statements_2018_separate/MSB_financial_statements_2018_separate_extracted.txt",
+          "label": "Lợi nhuận sau thuế",
+          "template": "BANK",
+          "source_scale": "MILLION",
+          "current_raw": "864.120",
+          "next_report_prior_raw": "864.120",
+          "table_id": "table_625a4af64fb09ae4aced5dd8cf4f1e1d67c0d85aa5e271f234298fdc2547556e",
+          "cell_ids": [
+            "cell_afcaa7fac113e2f8ce80dd732b73bf2df06df6e45ff61f8bce59338597cbe1e8"
+          ]
+        },
+        {
+          "report_id": "report_a5f22097e57a067a7472879499f1182f8eed6041620c344a6247f65955f6bef9",
+          "source_ref": "MSB/2019/MSB_financial_statements_2019_separate/MSB_financial_statements_2019_separate_extracted.txt",
+          "label": "Lợi nhuận sau thuế",
+          "template": "BANK",
+          "source_scale": "MILLION",
+          "current_raw": "1.036.278",
+          "next_report_prior_raw": "1.036.278",
+          "table_id": "table_6fa54796d5f64f6206c6961c0f011b90534b1f3e44c1831fdb314511f299604f",
+          "cell_ids": [
+            "cell_b58b1bf76b8802eb72952d1a57bb485181bf2923379a06be8b4e9da28889f6f8"
+          ]
+        }
+      ]
+    },
+    {
+      "question_id": "wide-068-growth_rate-ogc-rieng-2016-2017",
+      "operation": "GROWTH_RATE",
+      "years": [
+        2016,
+        2017
+      ],
+      "answer": "-18.970078634759414384595564464346502197753009025246",
+      "sources": [
+        {
+          "report_id": "report_7d9fdcde473214d2c14ce217e4c36effd0e941ce0888d84b076a924106b693a2",
+          "source_ref": "OGC/2016/OGC_financial_statements_2016_separate/OGC_financial_statements_2016_separate_extracted.txt",
+          "label": "17. Lợi nhuận sau thuế TNDN",
+          "template": "TT200",
+          "source_scale": "RAW",
+          "current_raw": "(767.549.293.334)",
+          "next_report_prior_raw": "(767.549.293.334)",
+          "table_id": "table_27d57416369e567517ce84f551395676eb7b2c4ed192234d2c6c0a17f24be6c6",
+          "cell_ids": [
+            "cell_454c43614834a81186f06f401845996b9178e1da29eddc13211bcbe1469c5f23"
+          ]
+        },
+        {
+          "report_id": "report_27d34c3ea0eacee3546180901cdda714eb8b432e4a67140f7c53986a38c68e9f",
+          "source_ref": "OGC/2017/OGC_financial_statements_2017_separate/OGC_financial_statements_2017_separate_extracted.txt",
+          "label": "17. Lợi nhuận sau thuế thu nhập doanh nghiệp",
+          "template": "TT200",
+          "source_scale": "RAW",
+          "current_raw": "(621.944.588.828)",
+          "next_report_prior_raw": "(621.944.588.828)",
+          "table_id": "table_c5d0da91d8acca0aea653d9effbc839c6a62a93ef63fcb76a08711684438d8d2",
+          "cell_ids": [
+            "cell_3c66c598136d1d854aff9fd8aed1cd28fb7b3ddba4bc1a5a78a9d05238f6f527"
+          ]
+        }
+      ]
+    },
+    {
+      "question_id": "wide-069-growth_rate-vab-hop_nhat-2021-2022",
+      "operation": "GROWTH_RATE",
+      "years": [
+        2021,
+        2022
+      ],
+      "answer": "36.204612653451772408636590726039414200071123984671",
+      "sources": [
+        {
+          "report_id": "report_b4e0956ffa5c75575221970a21dc4dafd78fe4ffff45e61a2e94a3a8375eef78",
+          "source_ref": "VAB/2021/VAB_financial_statements_2021_consolidated/VAB_financial_statements_2021_consolidated_extracted.txt",
+          "label": "Lợi nhuận sau thuế",
+          "template": "BANK",
+          "source_scale": "RAW",
+          "current_raw": "653.889.624.082",
+          "next_report_prior_raw": "653.889.624.082",
+          "table_id": "table_565cd46b0aec5ce3c3117f8ade1f01f7cbe4e19a70dc694b2038cced7289ceed",
+          "cell_ids": [
+            "cell_1e181f3f5ceba06a5daaac02e46b8105b567f1cde1006947cbac6ad2a46cc6f7"
+          ]
+        },
+        {
+          "report_id": "report_cf59ed155e66d36804ce0fe871cb14336fabdf50254c96219bda98ab210996fa",
+          "source_ref": "VAB/2022/VAB_financial_statements_2022_consolidated/VAB_financial_statements_2022_consolidated_extracted.txt",
+          "label": "Lợi nhuận sau thuế",
+          "template": "BANK",
+          "source_scale": "RAW",
+          "current_raw": "890.627.829.662",
+          "next_report_prior_raw": "890.627.829.662",
+          "table_id": "table_a6eca1e2981e8ae579272968f7b753e29e437690656d64121b6e429dbc82d3a9",
+          "cell_ids": [
+            "cell_0c998798ada04f320795bb460fa57acc53977f57f0b6ca0d9982ea213f2aa330"
+          ]
+        }
+      ]
+    },
+    {
+      "question_id": "wide-070-growth_rate-vpi-rieng-2016-2017",
+      "operation": "GROWTH_RATE",
+      "years": [
+        2016,
+        2017
+      ],
+      "answer": "2259.5528370813244085538936842560182178916316118231",
+      "sources": [
+        {
+          "report_id": "report_09c895bf0c0f75cf9eec5913c4aa3a71c561940e17ba402f66901471b0924a31",
+          "source_ref": "VPI/2016/VPI_financial_statements_2016_separate/VPI_financial_statements_2016_separate_extracted.txt",
+          "label": "Lợi nhuận sau thuế thu nhập doanh nghiệp",
+          "template": "TT200",
+          "source_scale": "RAW",
+          "current_raw": "17.497.041.175",
+          "next_report_prior_raw": "17.497.041.175",
+          "table_id": "table_38e5ed956627c5b395ead615ff9d01997ca1e7e84090150d1e8402d2a8657e5e",
+          "cell_ids": [
+            "cell_ca7a0c4ed8eb2c58128e5411beccbb170d07e7791308d5095519141d11f6065c"
+          ]
+        },
+        {
+          "report_id": "report_a0cd4e474b9d058398b1ad63aa3f25821edcc96e6c870be538eb691820d77d99",
+          "source_ref": "VPI/2017/VPI_financial_statements_2017_separate/VPI_financial_statements_2017_separate_extracted.txt",
+          "label": "17. Lợi nhuận sau thuế thu nhập doanh nghiệp",
+          "template": "TT200",
+          "source_scale": "RAW",
+          "current_raw": "412.851.931.450",
+          "next_report_prior_raw": "412.851.931.450",
+          "table_id": "table_255d0e8bf0d733b4e05ae7e3aaca45fafa63ca16bda3c125283f17496173fcd8",
+          "cell_ids": [
+            "cell_2cc28a6cc93bad867b919530920dd60f95a8c5254d2825fcd106247f26868abe"
+          ]
+        }
+      ]
+    },
+    {
+      "question_id": "wide-071-growth_rate-msn-hop_nhat-2020-2021",
+      "operation": "GROWTH_RATE",
+      "years": [
+        2020,
+        2021
+      ],
+      "answer": "624.10658538665947915897557943904465406415567453493",
+      "sources": [
+        {
+          "report_id": "report_a15d50acefe04ddd4ebffdc3e3b94bdc04124d887914eb236a075031bf21c6e7",
+          "source_ref": "MSN/2020/MSN_financial_statements_2020_consolidated/MSN_financial_statements_2020_consolidated_extracted.txt",
+          "label": "Lợi nhuận sau thuế TNDN (60 = 50 - 51 - 52) (mang sang trang sau)",
+          "template": "TT200",
+          "source_scale": "MILLION",
+          "current_raw": "1.395.013",
+          "next_report_prior_raw": "1.395.013",
+          "table_id": "table_e91f3f5e83bc5475f3177d373b6eb21fadc41d8109b3a46db045729aeb5527a3",
+          "cell_ids": [
+            "cell_dc3634280a334e6e733fbd34589243c759d29398dbf7dc66b305a398ef778939",
+            "cell_a724c4f5c2712aeaa11fa08a260186e9e020ccf0c865913b100b22bc1814bd8b"
+          ]
+        },
+        {
+          "report_id": "report_959925ef981137f3771e2495cb1ee5436d5b7da56868d9a759228f1f5a1071fa",
+          "source_ref": "MSN/2021/MSN_financial_statements_2021_consolidated/MSN_financial_statements_2021_consolidated_extracted.txt",
+          "label": "Lợi nhuận sau thuế TNDN (60 = 50 - 51 - 52)(mang sang trang sau)",
+          "template": "TT200",
+          "source_scale": "MILLION",
+          "current_raw": "10.101.381",
+          "next_report_prior_raw": "10.101.381",
+          "table_id": "table_6b5f270c60ee1df1620672444cb8914059ac6e8da969b5a53a62229281118434",
+          "cell_ids": [
+            "cell_3ec8f73578c263d61d1bdd2d0742f4a10824ed98854531b4b33317c3ffb18430",
+            "cell_d03acd60038f89dc69ee53ee463b02c8356f142f2432bf3458437438ae42c0f8"
+          ]
+        }
+      ]
+    },
+    {
+      "question_id": "wide-072-growth_rate-dtk-hop_nhat-2019-2020",
+      "operation": "GROWTH_RATE",
+      "years": [
+        2019,
+        2020
+      ],
+      "answer": "4.1036390859081755611106718131732241936274260867698",
+      "sources": [
+        {
+          "report_id": "report_2c3a033d520adfeb8055d1c384a7b08ffb68a7e03d50fd6756abb73ad4e8304c",
+          "source_ref": "DTK/2019/DTK_financial_statements_2019_consolidated/DTK_financial_statements_2019_consolidated_extracted.txt",
+          "label": "Lợi nhuận sau thuế TNDN (60=50-51-52)",
+          "template": "TT200",
+          "source_scale": "RAW",
+          "current_raw": "562.963.312.352",
+          "next_report_prior_raw": "562.963.312.352",
+          "table_id": "table_16aa1f1f1206de01d47a14cbd03c2105a10e1bff6f486f649e869b088c6df3a6",
+          "cell_ids": [
+            "cell_4685e7f2e92c284c0ae094a6b9cc1b5ac850f4e79e009c3d61829632e3ef8e3a"
+          ]
+        },
+        {
+          "report_id": "report_c148ffbf4bfbb1e8d8cc4fd69f540a7a77f552b0df015cec6de1585f3e426e4b",
+          "source_ref": "DTK/2020/DTK_financial_statements_2020_consolidated/DTK_financial_statements_2020_consolidated_extracted.txt",
+          "label": "Lợi nhuận sau thuế TNDN (60=50-51-52)",
+          "template": "TT200",
+          "source_scale": "RAW",
+          "current_raw": "586.065.294.877",
+          "next_report_prior_raw": "586.065.294.877",
+          "table_id": "table_5b3602e3a507670ce9be937825339adbe0cabcbf742da6f4b89aa6dda885fcbb",
+          "cell_ids": [
+            "cell_b4302aa7d977b47e2289c98b9b0227886477cade3fe8ad3ffc7041c30f0b14e9"
+          ]
+        }
+      ]
+    },
+    {
+      "question_id": "wide-073-growth_rate-shb-hop_nhat-2019-2020",
+      "operation": "GROWTH_RATE",
+      "years": [
+        2019,
+        2020
+      ],
+      "answer": "7.8217784928181182766792533986244204657780130609747",
+      "sources": [
+        {
+          "report_id": "report_6c9a6a7a00476cf1364a12538eefa4f25e170676d3c21ce326c4ac4d5e35ac29",
+          "source_ref": "SHB/2019/SHB_financial_statements_2019_consolidated/SHB_financial_statements_2019_consolidated_extracted.txt",
+          "label": "Lợi nhuận sau thuế",
+          "template": "BANK",
+          "source_scale": "MILLION",
+          "current_raw": "2.417.890",
+          "next_report_prior_raw": "2.417.890",
+          "table_id": "table_7885e404cae013f4a00953bf422da085993a5b30e323ef50253979682a821a53",
+          "cell_ids": [
+            "cell_a09a22e49ca3d5f5833f69efd712d65a818b4e38560d012d24f93645d42d65d2"
+          ]
+        },
+        {
+          "report_id": "report_d76c3da5f4a64011cc2382e58a14cf62d6c090563400c9b74fc9d3dab8b3d72d",
+          "source_ref": "SHB/2020/SHB_financial_statements_2020_consolidated/SHB_financial_statements_2020_consolidated_extracted.txt",
+          "label": "Lợi nhuận sau thuế",
+          "template": "BANK",
+          "source_scale": "MILLION",
+          "current_raw": "2.607.012",
+          "next_report_prior_raw": "2.607.012",
+          "table_id": "table_2ad18e7a09e339920a45ccc0734f46909d67da5851896a86505ab0a2d98cfb20",
+          "cell_ids": [
+            "cell_0d0d85cdcc6aa1a97f400cf2ba2de4ee5cf526c255881cef20b812dcad71eb26"
+          ]
+        }
+      ]
+    },
+    {
+      "question_id": "wide-074-growth_rate-hpx-hop_nhat-2023-2024",
+      "operation": "GROWTH_RATE",
+      "years": [
+        2023,
+        2024
+      ],
+      "answer": "-54.44937300312814646908079979138955497443808517378",
+      "sources": [
+        {
+          "report_id": "report_d9a31bd67f767dd65cd379f20029fd43e36fff90158649a9c4c3f4cc202f9d3e",
+          "source_ref": "HPX/2023/HPX_financial_statements_2023_consolidated/HPX_financial_statements_2023_consolidated_extracted.txt",
+          "label": "Lợi nhuận sau thuế thu nhập doanh nghiệp (60 = 50-51-52)",
+          "template": "TT200",
+          "source_scale": "RAW",
+          "current_raw": "134.937.784.139",
+          "next_report_prior_raw": "134.937.784.139",
+          "table_id": "table_6ce16c5101651b0c13b68cb90ec8bbf1397feed7ddf0eeef19855106eda9dab4",
+          "cell_ids": [
+            "cell_5bd45ed05640fc42c6b45a0c8dc75433b97c6f7f35de68c6cb3d6ceb9e1d8201"
+          ]
+        },
+        {
+          "report_id": "report_c20e0622e0eab71fe7bcc33c0d96055573d646d529815e3ca1d904720f10b814",
+          "source_ref": "HPX/2024/HPX_financial_statements_2024_consolidated/HPX_financial_statements_2024_consolidated_extracted.txt",
+          "label": "Lợi nhuận sau thuế thu nhập doanh nghiệp (60 = 50-51-52)",
+          "template": "TT200",
+          "source_scale": "RAW",
+          "current_raw": "61.465.006.731",
+          "next_report_prior_raw": "61.465.006.731",
+          "table_id": "table_22b17e89181ac9326e4c15595c6102bfb864116199ecc300a50f3b00db96d04a",
+          "cell_ids": [
+            "cell_96100882adf0bdadd629a0510455efeb7fc661d2273eb6ee93d53db028069860"
+          ]
+        }
+      ]
+    },
+    {
+      "question_id": "wide-075-growth_rate-geg-hop_nhat-2020-2021",
+      "operation": "GROWTH_RATE",
+      "years": [
+        2020,
+        2021
+      ],
+      "answer": "10.330432767566822525299762053597425765854640011436",
+      "sources": [
+        {
+          "report_id": "report_bfc367b8177b12411e9964df4db192b91959e8e2f4bf7dc07080371b0da43939",
+          "source_ref": "GEG/2020/GEG_financial_statements_2020_consolidated/GEG_financial_statements_2020_consolidated_extracted.txt",
+          "label": "Lợi nhuận sau thuế TNDN (60 = 50 - 51 - 52)",
+          "template": "TT200",
+          "source_scale": "RAW",
+          "current_raw": "294.962.855.251",
+          "next_report_prior_raw": "294.962.855.251",
+          "table_id": "table_ee7e4e7927e865e106baebfa956cde605e28a31abf729ea23e751a6b2433cefa",
+          "cell_ids": [
+            "cell_b4f6a96a93fb863a3da3aedc5dd1504c203420a7f916e3558af87166cfac5e9e"
+          ]
+        },
+        {
+          "report_id": "report_64d5fc4206ae5ce8d0378947f4f85593ec2c7e2a0b41e3eca7f90f0217b6c63d",
+          "source_ref": "GEG/2021/GEG_financial_statements_2021_consolidated/GEG_financial_statements_2021_consolidated_extracted.txt",
+          "label": "Lợi nhuận sau thuế TNDN (60 = 50 - 51 - 52)",
+          "template": "TT200",
+          "source_scale": "RAW",
+          "current_raw": "325.433.794.702",
+          "next_report_prior_raw": "325.433.794.702",
+          "table_id": "table_12de0d20738eaac95e19bdcc0eeb0f1b63472556701dc382483ed4efa0bb0507",
+          "cell_ids": [
+            "cell_044e4713cbb934250af85eaf0a782da1ac0160542d0ce834636e6bebc8117b91"
+          ]
+        }
+      ]
+    },
+    {
+      "question_id": "wide-076-growth_rate-hsg-hop_nhat-2019-2020",
+      "operation": "GROWTH_RATE",
+      "years": [
+        2019,
+        2020
+      ],
+      "answer": "219.06611488642113070750306642802078514944908170723",
+      "sources": [
+        {
+          "report_id": "report_5f836eb541d80723576b1e17263d6e6ef2e990736d1f66afa4ecd6d17dfb6d37",
+          "source_ref": "HSG/2019/HSG_financial_statements_2019_consolidated/HSG_financial_statements_2019_consolidated_extracted.txt",
+          "label": "Lợi nhuận sau thuế TNDN (60 = 50 - 51 - 52) (mang sang trang sau)",
+          "template": "TT200",
+          "source_scale": "RAW",
+          "current_raw": "361.371.503.746",
+          "next_report_prior_raw": "361.371.503.746",
+          "table_id": "table_52e3191aa68444ac492f98300205d55a02db7769e2e9e0aa21833e9e09a0c78b",
+          "cell_ids": [
+            "cell_4005665d65add6ff14f149d6aaee7babfa302edeaf8df989cbbd65c49cc4ba75",
+            "cell_bc60ff6c04c77a4436f60207ccc73cddf9fe49b5cee6a3e4e5be74630273ea02"
+          ]
+        },
+        {
+          "report_id": "report_5637beeb95efffc25c1867bd74e9025570356e42210a43b363abe6f7a37bcde5",
+          "source_ref": "HSG/2020/HSG_financial_statements_2020_consolidated/HSG_financial_statements_2020_consolidated_extracted.txt",
+          "label": "Lợi nhuận sau thuế TNDN (60 = 50 - 51 - 52) (mang sang trang sau)",
+          "template": "TT200",
+          "source_scale": "RAW",
+          "current_raw": "1.153.014.017.309",
+          "next_report_prior_raw": "1.153.014.017.309",
+          "table_id": "table_ee8a7d2791c5aa003d94b6313efbd4e0788bc7ec1fcbc9557fd599a820a9dfa0",
+          "cell_ids": [
+            "cell_aae76c411865f2c04c7b81e8546105b06204db33b3b233c9d0a5f5554b5e7b4c",
+            "cell_3c1a0c39c0d2598415b2112d8bbc4975a991d5c1d40f8e9e22c5793d7a4c1b38"
+          ]
+        }
+      ]
+    },
+    {
+      "question_id": "wide-077-growth_rate-vif-rieng-2022-2023",
+      "operation": "GROWTH_RATE",
+      "years": [
+        2022,
+        2023
+      ],
+      "answer": "5.820686594684956978019279481906933588862302283866",
+      "sources": [
+        {
+          "report_id": "report_c77fe3124d0c7fe9299ab1a05a3f19d36d7a677c5301b9d3e6e701ecb8313171",
+          "source_ref": "VIF/2022/VIF_financial_statements_2022_separate/VIF_financial_statements_2022_separate_extracted.txt",
+          "label": "16. Lợi nhuận sau thuế TNDN",
+          "template": "TT200",
+          "source_scale": "RAW",
+          "current_raw": "330.825.911.235",
+          "next_report_prior_raw": "330.825.911.235",
+          "table_id": "table_bbefe1be99a775ad691bf952f5a99a44a0a009ee7d35bb4a3cad5012d271b59f",
+          "cell_ids": [
+            "cell_090292fa6ab99f7c2997d2d9a8bc59106820cceef2db9cba1431fa134850155d"
+          ]
+        },
+        {
+          "report_id": "report_cf2edb53b5b6d5d06c429064e8d4fed09615b8af94b95c40d14f26294deb3b8d",
+          "source_ref": "VIF/2023/VIF_financial_statements_2023_separate/VIF_financial_statements_2023_separate_extracted.txt",
+          "label": "16. Lợi nhuận sau thuế TNDN",
+          "template": "TT200",
+          "source_scale": "RAW",
+          "current_raw": "350.082.250.702",
+          "next_report_prior_raw": "350.082.250.702",
+          "table_id": "table_8af7549ac7bcb9a562c6b66062e92c0788ffc36053fb37739827c2102d658737",
+          "cell_ids": [
+            "cell_38d9fc0222ad212780272bfe7452f88ba505f8502c4e76abd50188a8c4c243e6"
+          ]
+        }
+      ]
+    },
+    {
+      "question_id": "wide-078-growth_rate-fox-rieng-2023-2024",
+      "operation": "GROWTH_RATE",
+      "years": [
+        2023,
+        2024
+      ],
+      "answer": "16.506333613985156152931205123412945609123266336488",
+      "sources": [
+        {
+          "report_id": "report_a8b00072a5911cae79c60ab55c425cee1272fccc24f7e0b78d2dc0519a7bc7f9",
+          "source_ref": "FOX/2023/FOX_financial_statements_2023_separate/FOX_financial_statements_2023_separate_extracted.txt",
+          "label": "Lợi nhuận sau thuế TNDN (60 = 50 - 51 - 52)",
+          "template": "TT200",
+          "source_scale": "RAW",
+          "current_raw": "2.366.176.848.577",
+          "next_report_prior_raw": "2.366.176.848.577",
+          "table_id": "table_0c6e4aba097b1c51bd876056a4f96d3632766bfb2855f3db31998f0965075be3",
+          "cell_ids": [
+            "cell_d25f2349d83e3ce645fb9991a40d3f7b19262ec21c2c6ad5fd2d661124fcae66"
+          ]
+        },
+        {
+          "report_id": "report_f89a5dac3bf4b0df748a2b4d356336ef97d281606ba5b60f79805a84819c8cd5",
+          "source_ref": "FOX/2024/FOX_financial_statements_2024_separate/FOX_financial_statements_2024_separate_extracted.txt",
+          "label": "Lợi nhuận sau thuế TNDN (60 = 50 - 51 - 52)",
+          "template": "TT200",
+          "source_scale": "RAW",
+          "current_raw": "2.756.745.893.100",
+          "next_report_prior_raw": "2.756.745.893.100",
+          "table_id": "table_f1496cf45972d1cfbaf7e6eee9c856a86586159d295cb76d21280f37424b786d",
+          "cell_ids": [
+            "cell_5016f9601849fa0767242caebe0fde5ba532911cf9c940d5d43172fadc06be36"
+          ]
+        }
+      ]
+    },
+    {
+      "question_id": "wide-079-growth_rate-pow-rieng-2023-2024",
+      "operation": "GROWTH_RATE",
+      "years": [
+        2023,
+        2024
+      ],
+      "answer": "0.59017907913779986055344506189255792388794107320085",
+      "sources": [
+        {
+          "report_id": "report_b90ba6d2514660344152b355f40a767a7a55a2ffc0ef708c0eb62ac749f6d65b",
+          "source_ref": "POW/2023/POW_financial_statements_2023_separate/POW_financial_statements_2023_separate_extracted.txt",
+          "label": "15. Lợi nhuận sau thuế thu nhập doanh nghiệp (60=50-51-52)",
+          "template": "TT200",
+          "source_scale": "RAW",
+          "current_raw": "1.200.089.996.302",
+          "next_report_prior_raw": "1.200.089.996.302",
+          "table_id": "table_e5e3f61bff40a3a4db668658f6a650adb3d922e1cc21596dbc55afebb7870dc4",
+          "cell_ids": [
+            "cell_d023dc5051a8014aab58ca57e7a0aa37c92148616d195cc34d882239e60c0762"
+          ]
+        },
+        {
+          "report_id": "report_53eba9f7f47ec163eaab67e7a7a12969e1b16b2891bf54a2f13241edbad897bd",
+          "source_ref": "POW/2024/POW_financial_statements_2024_separate/POW_financial_statements_2024_separate_extracted.txt",
+          "label": "Lợi nhuận sau thuế thu nhập doanh nghiệp (60=50-51-52)",
+          "template": "TT200",
+          "source_scale": "RAW",
+          "current_raw": "1.207.172.676.391",
+          "next_report_prior_raw": "1.207.172.676.391",
+          "table_id": "table_1a4e6a0d2066069b6626cc5bc38340548c3899f5b41be3a0727bfaac7281e343",
+          "cell_ids": [
+            "cell_0d2148754384186d93af8d70c8352ed16da767f51a95650b406b90927a9181c2"
+          ]
+        }
+      ]
+    },
+    {
+      "question_id": "wide-080-growth_rate-vgt-rieng-2016-2017",
+      "operation": "GROWTH_RATE",
+      "years": [
+        2016,
+        2017
+      ],
+      "answer": "-4.5627909525104219617038144810422285880834377268751",
+      "sources": [
+        {
+          "report_id": "report_a902ee962b66d0cd1599c0cf0c760fb77e5effa760d5c620e9489d8c1dd78315",
+          "source_ref": "VGT/2016/VGT_financial_statements_2016_separate/VGT_financial_statements_2016_separate_extracted.txt",
+          "label": "Lợi nhuận sau thuế TNDN (60 = 50 - 51)",
+          "template": "TT200",
+          "source_scale": "RAW",
+          "current_raw": "267.704.971.894",
+          "next_report_prior_raw": "267.704.971.894",
+          "table_id": "table_00ffaa893b8b9750b995a4c825687aae5c182903ee43d0dd5d27f4202047c086",
+          "cell_ids": [
+            "cell_ee885383be00bcbf804e28ce147cc12ef1379f1968392c56fc863ff8de7d1348"
+          ]
+        },
+        {
+          "report_id": "report_4154fc6b76f7a15275a1b1a609775bc2d2375b53a98c1ab3cfd6be9f43496b42",
+          "source_ref": "VGT/2017/VGT_financial_statements_2017_separate/VGT_financial_statements_2017_separate_extracted.txt",
+          "label": "Lợi nhuận sau thuế TNDN (60 = 50 - 51)",
+          "template": "TT200",
+          "source_scale": "RAW",
+          "current_raw": "255.490.153.657",
+          "next_report_prior_raw": "255.490.153.657",
+          "table_id": "table_23194218e7500dc0a5eb98372a4175de88be36fa8690cb2d2d133a746b27fb2e",
+          "cell_ids": [
+            "cell_f9445ce4707a87705f7835ef73cdae457e058d1e4c2b11aa43c5be886a657f1c"
+          ]
+        }
+      ]
+    },
+    {
+      "question_id": "wide-081-growth_rate-vnm-rieng-2018-2019",
+      "operation": "GROWTH_RATE",
+      "years": [
+        2018,
+        2019
+      ],
+      "answer": "2.7618416217087309780996107749335898539192878690954",
+      "sources": [
+        {
+          "report_id": "report_eece377778ae0e0d0aaa71b9705cb3018ba450bc997a4a0bc8b94962c0c7e8f6",
+          "source_ref": "VNM/2018/VNM_financial_statements_2018_separate/VNM_financial_statements_2018_separate_extracted.txt",
+          "label": "Lợi nhuận sau thuế TNDN (60 = 50 - 51 - 52)",
+          "template": "TT200",
+          "source_scale": "RAW",
+          "current_raw": "9.814.109.826.048",
+          "next_report_prior_raw": "9.814.109.826.048",
+          "table_id": "table_995061d9e15af9477eeaee8abea231d93fd7ebc32f642b1ee5b9b644e1b6fd71",
+          "cell_ids": [
+            "cell_e03b75066d0523931f495c4cc516eca7966871b4ade55cf43d57d404cd50fc21"
+          ]
+        },
+        {
+          "report_id": "report_1f15cb8a7d0afb4839f12ccc19e379ffaeaef6a03513192385610709f9a16814",
+          "source_ref": "VNM/2019/VNM_financial_statements_2019_separate/VNM_financial_statements_2019_separate_extracted.txt",
+          "label": "Lợi nhuận sau thuế TNDN (60 = 50 - 51 - 52)",
+          "template": "TT200",
+          "source_scale": "RAW",
+          "current_raw": "10.085.159.996.024",
+          "next_report_prior_raw": "10.085.159.996.024",
+          "table_id": "table_8ba2a67f0231b3e11be568280f8d47d9dea7898267054f82df6fbbd4911e0498",
+          "cell_ids": [
+            "cell_0a69f653120802b94c51c89fb7923978f1a47ec066f7817eaec147a01b3e3a16"
+          ]
+        }
+      ]
+    },
+    {
+      "question_id": "wide-082-growth_rate-fpt-hop_nhat-2017-2018",
+      "operation": "GROWTH_RATE",
+      "years": [
+        2017,
+        2018
+      ],
+      "answer": "-8.3363740648267065793219240123657602942376665358134",
+      "sources": [
+        {
+          "report_id": "report_2f1665e815cdf3e4c31b01ea43a59384b5fa2f2aea52a5045a2b98937e40b2cf",
+          "source_ref": "FPT/2017/FPT_financial_statements_2017_consolidated/FPT_financial_statements_2017_consolidated_extracted.txt",
+          "label": "18. Lợi nhuận sau thuế thu nhập doanh nghiệp (60=50-51-52)",
+          "template": "TT200",
+          "source_scale": "RAW",
+          "current_raw": "3.528.113.914.381",
+          "next_report_prior_raw": "3.528.113.914.381",
+          "table_id": "table_c00941266941bc18a929b20c5713cab72e6f7dae55f3b003fb5e4cc2ecccc25e",
+          "cell_ids": [
+            "cell_23febfd02fd9e29250526b886b5ea082b90d9a30af825e92f3457b1ad5d7932b"
+          ]
+        },
+        {
+          "report_id": "report_c318f5336cfb60d9a7d29f681b5aefe641647f3201892f742c62a6e562ce756a",
+          "source_ref": "FPT/2018/FPT_financial_statements_2018_consolidated/FPT_financial_statements_2018_consolidated_extracted.txt",
+          "label": "Lợi nhuận sau thuế thu nhập doanh nghiệp (60=50-51-52)",
+          "template": "TT200",
+          "source_scale": "RAW",
+          "current_raw": "3.233.997.141.045",
+          "next_report_prior_raw": "3.233.997.141.045",
+          "table_id": "table_c3fad382d8a3652b4de4bfdad74f956888c880a5925952b0d43c93b340f52953",
+          "cell_ids": [
+            "cell_3529b17935fe2c922a365820c95776dcc95279875db539da351fa20b46e64a3b"
+          ]
+        }
+      ]
+    },
+    {
+      "question_id": "wide-083-growth_rate-mbb-rieng-2015-2016",
+      "operation": "GROWTH_RATE",
+      "years": [
+        2015,
+        2016
+      ],
+      "answer": "20.493754344574810945168832810228972257915025382849",
+      "sources": [
+        {
+          "report_id": "report_9dafe870fd497dd37983dc9cabb3fb9c0331a84a6e3c298bc70aeb80f6960f0f",
+          "source_ref": "MBB/2015/MBB_financial_statements_2015_separate/MBB_financial_statements_2015_separate_extracted.txt",
+          "label": "Lợi nhuận sau thuế",
+          "template": "BANK",
+          "source_scale": "MILLION",
+          "current_raw": "2.468.596",
+          "next_report_prior_raw": "2.468.596",
+          "table_id": "table_a9c2a1f5b5e009ce1f69cd5f8047a1149ff5c5cdc22695a2bd81f767d0d884d1",
+          "cell_ids": [
+            "cell_b7a275b307da0d227727e400b4f41cc4e4cc69d3df107bebe804839b76cf8b49"
+          ]
+        },
+        {
+          "report_id": "report_96893e0a91ef9eacaae2c5e44358505c9c1fe384b8ca17ff5612c8bf24a6bd46",
+          "source_ref": "MBB/2016/MBB_financial_statements_2016_separate/MBB_financial_statements_2016_separate_extracted.txt",
+          "label": "Lợi nhuận sau thuế",
+          "template": "BANK",
+          "source_scale": "MILLION",
+          "current_raw": "2.974.504",
+          "next_report_prior_raw": "2.974.504",
+          "table_id": "table_f8b1820b01d4cb94518ad218b1f6f349e69ea8713f2a9bffcb731d9cccfecbbf",
+          "cell_ids": [
+            "cell_8066a766cfa2c9e897d92b14caf3fba460c6eafd99e932acaf0f94c0efce0386"
+          ]
+        }
+      ]
+    },
+    {
+      "question_id": "wide-084-growth_rate-dpm-hop_nhat-2023-2024",
+      "operation": "GROWTH_RATE",
+      "years": [
+        2023,
+        2024
+      ],
+      "answer": "4.6147301131702454518159440324255352491835681652564",
+      "sources": [
+        {
+          "report_id": "report_af9ee9546b896251ad24e4969248c226c95d7df3bda9739f1bb20567946ca46b",
+          "source_ref": "DPM/2023/DPM_financial_statements_2023_consolidated/DPM_financial_statements_2023_consolidated_extracted.txt",
+          "label": "Lợi nhuận sau thuế thu nhập doanh nghiệp (60=50-51-52)",
+          "template": "TT200",
+          "source_scale": "RAW",
+          "current_raw": "529.816.920.522",
+          "next_report_prior_raw": "529.816.920.522",
+          "table_id": "table_1a796fbaf0fc38315e85251fd4a8eac80d1bb3f677087ac9a7ebdb54c802b09f",
+          "cell_ids": [
+            "cell_1915f53d3b2c0b1084051a60f7753794bc46b6bb052f66ac7f65d756c6d865ec"
+          ]
+        },
+        {
+          "report_id": "report_1061152e5a9229d98a7d024c7f8743ccbe49d1db42b8f8e89945c4f1e35fe872",
+          "source_ref": "DPM/2024/DPM_financial_statements_2024_consolidated/DPM_financial_statements_2024_consolidated_extracted.txt",
+          "label": "Lợi nhuận sau thuế thu nhập doanh nghiệp (60=50-51-52)",
+          "template": "TT200",
+          "source_scale": "RAW",
+          "current_raw": "554.266.541.498",
+          "next_report_prior_raw": "554.266.541.498",
+          "table_id": "table_17b724e0c7184d27c0fe266f8732aa953ecfa66481d81dfa5dd647d7300ee1c5",
+          "cell_ids": [
+            "cell_afc6916a00eac0c4152f615af934a164e9f07e0b6bf103e2b25741a6965e1972"
+          ]
+        }
+      ]
+    },
+    {
+      "question_id": "wide-085-growth_rate-pnj-hop_nhat-2023-2024",
+      "operation": "GROWTH_RATE",
+      "years": [
+        2023,
+        2024
+      ],
+      "answer": "7.1948234495806391553815831733886854905792127266318",
+      "sources": [
+        {
+          "report_id": "report_c61b2a6fb1b7bc056ca4a7372c0ac017f83c14c7511d7b2d922e9e693aeae5b0",
+          "source_ref": "PNJ/2023/PNJ_financial_statements_2023_consolidated/PNJ_financial_statements_2023_consolidated_extracted.txt",
+          "label": "Lợi nhuận sau thuế TNDN(mang sang từ trang trước)(60 = 50 - 51 - 52)",
+          "template": "TT200",
+          "source_scale": "RAW",
+          "current_raw": "1.971.099.177.135",
+          "next_report_prior_raw": "1.971.099.177.135",
+          "table_id": "table_0aeec0fb928f9e8c960373a784342397a9f7c863757234109d8a62570edcd23e",
+          "cell_ids": [
+            "cell_42da0d5610d4e83e2b49442daa218aadd3e8e4e78407dd4196d8c81a712aeacc"
+          ]
+        },
+        {
+          "report_id": "report_6ba490ab850d55c6e0d2fd988ac4dc767160384315c9db1030d9d6f62bddc0e9",
+          "source_ref": "PNJ/2024/PNJ_financial_statements_2024_consolidated/PNJ_financial_statements_2024_consolidated_extracted.txt",
+          "label": "Lợi nhuận sau thuế TNDN (60 = 50 - 51 - 52)",
+          "template": "TT200",
+          "source_scale": "RAW",
+          "current_raw": "2.112.916.282.946",
+          "next_report_prior_raw": "2.112.916.282.946",
+          "table_id": "table_f705312cfde13a3ce00cda4874706c0dd18657e73bbb06dd109d77ac12b39ddc",
+          "cell_ids": [
+            "cell_40f3bd7634a32d5226c597824e2934da39db6f57ebb6d7ed8db269e6da6e522b"
+          ]
+        }
+      ]
+    },
+    {
+      "question_id": "wide-086-growth_rate-ceo-hop_nhat-2017-2018",
+      "operation": "GROWTH_RATE",
+      "years": [
+        2017,
+        2018
+      ],
+      "answer": "15.854116870313255266669164706183304643718241309768",
+      "sources": [
+        {
+          "report_id": "report_c539baa3b79c88898e2a9c8487d50e87626ecb165ed10319049cf6595c78f81a",
+          "source_ref": "CEO/2017/CEO_financial_statements_2017_consolidated/CEO_financial_statements_2017_consolidated_extracted.txt",
+          "label": "18 Lợi nhuận sau thuế thu nhập doanh nghiệp (60=50-51-52)",
+          "template": "TT200",
+          "source_scale": "RAW",
+          "current_raw": "321.160.385.170",
+          "next_report_prior_raw": "321.160.385.170",
+          "table_id": "table_9562564d50a91cab1a97da3b4e56818f5dfdfc18c17170059e8220e9dc7a1fed",
+          "cell_ids": [
+            "cell_3a38e4f28b5d4e1f8377f39c51066c49b4bd239fb7fab304f8e5d4f7d039ed91"
+          ]
+        },
+        {
+          "report_id": "report_6660260a8bcd09753866770bf82b5478d88441eef54cd24b37b14a8467a16c06",
+          "source_ref": "CEO/2018/CEO_financial_statements_2018_consolidated/CEO_financial_statements_2018_consolidated_extracted.txt",
+          "label": "Lợi nhuận sau thuế thu nhập doanh nghiệp (60=50-51-52)",
+          "template": "TT200",
+          "source_scale": "RAW",
+          "current_raw": "372.077.527.976",
+          "next_report_prior_raw": "372.077.527.976",
+          "table_id": "table_6d04b98441c1256dee6d2d34f0a1c545c9724d5198d1434dad277162703936a8",
+          "cell_ids": [
+            "cell_cdb9571bf6c1ae8f2748274b6b65f0bfe52e848d9af7a3d67b355e88d6e90fb1"
+          ]
+        }
+      ]
+    },
+    {
+      "question_id": "wide-087-growth_rate-vre-rieng-2019-2020",
+      "operation": "GROWTH_RATE",
+      "years": [
+        2019,
+        2020
+      ],
+      "answer": "-75.501215914600066834475962378673611082335833248226",
+      "sources": [
+        {
+          "report_id": "report_a39c26975900ae626f8ec0a5aec0eb6216e16fe9aa5bee417a2909a366ae7f6d",
+          "source_ref": "VRE/2019/VRE_financial_statements_2019_separate/VRE_financial_statements_2019_separate_extracted.txt",
+          "label": "Lợi nhuận sau thuế TNDN(60 = 50 - 51 - 52)",
+          "template": "TT200",
+          "source_scale": "MILLION",
+          "current_raw": "4.102.673",
+          "next_report_prior_raw": "4.102.673",
+          "table_id": "table_2e5b4d16bcf7c9ee45db1789d5705d301f4ac6e45e2584cd1075d42ae9f01d30",
+          "cell_ids": [
+            "cell_163fbc4e686dee4e742b06996aeee3c493061beb0726f157d4becfdb1b5de4fe"
+          ]
+        },
+        {
+          "report_id": "report_d047ec6db56f3c9eaf118f52c22460867ea13ae7edbc938c1136e7ed0e5aadcf",
+          "source_ref": "VRE/2020/VRE_financial_statements_2020_separate/VRE_financial_statements_2020_separate_extracted.txt",
+          "label": "Lợi nhuận sau thuế TNDN (60 = 50 - 51 - 52)",
+          "template": "TT200",
+          "source_scale": "MILLION",
+          "current_raw": "1.005.105",
+          "next_report_prior_raw": "1.005.105",
+          "table_id": "table_232208cd6144d1678832598bd48ae58722bcb186277043e86484818cd958d89d",
+          "cell_ids": [
+            "cell_4b238a5248081205a7ac00a1cb444ef8c8bbba3c7f85916e49cd385dfe48d5b7"
+          ]
+        }
+      ]
+    },
+    {
+      "question_id": "wide-088-growth_rate-hpg-rieng-2016-2017",
+      "operation": "GROWTH_RATE",
+      "years": [
+        2016,
+        2017
+      ],
+      "answer": "52.558709734173473282473524963706805856858154409644",
+      "sources": [
+        {
+          "report_id": "report_1c95125e6474034333071b42cee9786810cc9473e33c9c8d64617674f4f075a6",
+          "source_ref": "HPG/2016/HPG_financial_statements_2016_separate/HPG_financial_statements_2016_separate_extracted.txt",
+          "label": "Lợi nhuận sau thuế TNDN (60 = 50 - 51)",
+          "template": "TT200",
+          "source_scale": "RAW",
+          "current_raw": "5.690.657.850.627",
+          "next_report_prior_raw": "5.690.657.850.627",
+          "table_id": "table_6b585b6b47b0acc7c398939d7ded81586ed1a5ee5e42612c9e86718b8a3c4f24",
+          "cell_ids": [
+            "cell_f62b931ea6cfd58af944120af1e585d518b2132d87ed78e0f7ec6a95c0b83138"
+          ]
+        },
+        {
+          "report_id": "report_c611faab46d2bcbd12f38eb19a52f81256275d0e33ba32c71511d5315134caf7",
+          "source_ref": "HPG/2017/HPG_financial_statements_2017_separate/HPG_financial_statements_2017_separate_extracted.txt",
+          "label": "Lợi nhuận sau thuế TNDN (60 = 50 - 51)",
+          "template": "TT200",
+          "source_scale": "RAW",
+          "current_raw": "8.681.594.192.303",
+          "next_report_prior_raw": "8.681.594.192.303",
+          "table_id": "table_cade92e0304ffedaa7dabc5d726ef7dbcaa309b1924ba5414d237944c7d18b95",
+          "cell_ids": [
+            "cell_37ce1ac21ab34d9dd2455c1c1e8c9f89bd1f3366e3134f23db0c745117df8c80"
+          ]
+        }
+      ]
+    },
+    {
+      "question_id": "wide-089-growth_rate-acb-hop_nhat-2023-2024",
+      "operation": "GROWTH_RATE",
+      "years": [
+        2023,
+        2024
+      ],
+      "answer": "4.6434864325881895323530781098071248677058072577462",
+      "sources": [
+        {
+          "report_id": "report_86579bd00afe92d2e36a8c7ca9ee708d01f0c2ee410042cefea17e91d86f26f2",
+          "source_ref": "ACB/2023/ACB_financial_statements_2023_consolidated/ACB_financial_statements_2023_consolidated_extracted.txt",
+          "label": "Lợi nhuận sau thuế",
+          "template": "BANK",
+          "source_scale": "MILLION",
+          "current_raw": "16.044.733",
+          "next_report_prior_raw": "16.044.733",
+          "table_id": "table_be0adfd5d1ed5ff8c544e4a011bb0d8874a06eddf62aab05fbb8f9478a645e8d",
+          "cell_ids": [
+            "cell_b1e6dd2331ba689dccb0767d01647fdd4e7ba812329f0c067cc0a04e553fd2d5"
+          ]
+        },
+        {
+          "report_id": "report_d71e4776787cb3d2bdee86f55940ab5655c5ce2c9bf19c12bb696cebaccc5441",
+          "source_ref": "ACB/2024/ACB_financial_statements_2024_consolidated/ACB_financial_statements_2024_consolidated_extracted.txt",
+          "label": "Lợi nhuận sau thuế",
+          "template": "BANK",
+          "source_scale": "MILLION",
+          "current_raw": "16.789.768",
+          "next_report_prior_raw": "16.789.768",
+          "table_id": "table_58891f02f84fe3a31202eb2d1f4de9db37776fa3266640aae423ab2fbd2eeff9",
+          "cell_ids": [
+            "cell_5c622fa968a77bfe7c2362f8c11bb0ad6186e0c8f0fa6ae8604a0c0b5538dd31"
+          ]
+        }
+      ]
+    },
+    {
+      "question_id": "wide-090-growth_rate-ssh-hop_nhat-2023-2024",
+      "operation": "GROWTH_RATE",
+      "years": [
+        2023,
+        2024
+      ],
+      "answer": "-37.124023812248006129718535997835576410387819556289",
+      "sources": [
+        {
+          "report_id": "report_05f1ac11e07c3055227c95cc99123cddc7d477579e12360d0e12b2456436b3e9",
+          "source_ref": "SSH/2023/SSH_financial_statements_2023_consolidated/SSH_financial_statements_2023_consolidated_extracted.txt",
+          "label": "Lợi nhuận sau thuế thu nhập doanh nghiệp (60=50-51-52)",
+          "template": "TT200",
+          "source_scale": "RAW",
+          "current_raw": "1.299.493.798.487",
+          "next_report_prior_raw": "1.299.493.798.487",
+          "table_id": "table_6367e584fe206231f7099a34adcb826f336ac6f824d0ebd8291b768922e49d0f",
+          "cell_ids": [
+            "cell_f2a32140c39e998e4cc27d0f51b86a8e74939c0af2202525aa2748c2e805ae43"
+          ]
+        },
+        {
+          "report_id": "report_2beecd77aaedf5e1e693ec324548d16606bd03f6b8d48a9558edca2885b65041",
+          "source_ref": "SSH/2024/SSH_financial_statements_2024_consolidated/SSH_financial_statements_2024_consolidated_extracted.txt",
+          "label": "Lợi nhuận sau thuế thu nhập doanh nghiệp (60=50-51-52)",
+          "template": "TT200",
+          "source_scale": "RAW",
+          "current_raw": "817.069.411.298",
+          "next_report_prior_raw": "817.069.411.298",
+          "table_id": "table_4485465212e9002178b8ef13701dbe1de6eeeeee593861a80b9b0b7e7f637041",
+          "cell_ids": [
+            "cell_59c672c554d1c7361f63380faa9ed7b735acc48911c39b58f567b0ccbb9ac4ba"
+          ]
+        }
+      ]
+    },
+    {
+      "question_id": "wide-091-growth_rate-dnh-rieng-2023-2024",
+      "operation": "GROWTH_RATE",
+      "years": [
+        2023,
+        2024
+      ],
+      "answer": "-18.381014559646242249191672313942172603853750684621",
+      "sources": [
+        {
+          "report_id": "report_b7fae5bbed1470886daed56995b988a5f28769b4f45e99fcd3b1d8cd195d2dec",
+          "source_ref": "DNH/2023/DNH_financial_statements_2023_separate/DNH_financial_statements_2023_separate_extracted.txt",
+          "label": "14. Lợi nhuận sau thuế thu nhập doanh nghiệp (60=50-51)",
+          "template": "TT200",
+          "source_scale": "RAW",
+          "current_raw": "1.109.931.425.058",
+          "next_report_prior_raw": "1.109.931.425.058",
+          "table_id": "table_881c95f64fa0eeac324ae527a193ecf88a919d7061a911600e09f26f9a342a3c",
+          "cell_ids": [
+            "cell_43ff35acdec728a89fc5c2c10c5691d35ef34003306675ce7b64a85ae2e3d6e7"
+          ]
+        },
+        {
+          "report_id": "report_882eeeafcecd858f3d579a58a6e2a1040a6dcc13cbdb961566636de4581c8ea7",
+          "source_ref": "DNH/2024/DNH_financial_statements_2024_separate/DNH_financial_statements_2024_separate_extracted.txt",
+          "label": "15. Lợi nhuận sau thuế TNDN",
+          "template": "TT200",
+          "source_scale": "RAW",
+          "current_raw": "905.914.768.216",
+          "next_report_prior_raw": "905.914.768.216",
+          "table_id": "table_09e41abd739978a5d9bfed2c23d05e53ca9c35be12c6c516faef3b34a5144c3e",
+          "cell_ids": [
+            "cell_50350360df3e3cf7037170ebd9ce4d4f4ffd1dfddba235629f580ccdbc817e64"
+          ]
+        }
+      ]
+    },
+    {
+      "question_id": "wide-092-growth_rate-vic-rieng-2015-2016",
+      "operation": "GROWTH_RATE",
+      "years": [
+        2015,
+        2016
+      ],
+      "answer": "-53.500670061847555802215914594259655420693570718031",
+      "sources": [
+        {
+          "report_id": "report_64f8f8f08b04cf4da96cb36c69c534f0c10ad24ecdb8a195e7abd440b7986e78",
+          "source_ref": "VIC/2015/VIC_financial_statements_2015_separate/VIC_financial_statements_2015_separate_extracted.txt",
+          "label": "17. Lợi nhuận sau thuế TNDN",
+          "template": "TT200",
+          "source_scale": "RAW",
+          "current_raw": "2.978.653.161.317",
+          "next_report_prior_raw": "2.978.653.161.317",
+          "table_id": "table_f5a17e1573ae38ebef6147403506ab43fe3a2d2344c9e8300fdbcbeb3f09c9ec",
+          "cell_ids": [
+            "cell_0a3923d0701bc859d59ac6e62d1d8bf36607ee2f68a3359dd618f6a7b7134530"
+          ]
+        },
+        {
+          "report_id": "report_24a3f6181f820176e39e468b2a80257c001cbcd80db6f35b38f5ccec1c262691",
+          "source_ref": "VIC/2016/VIC_financial_statements_2016_separate/VIC_financial_statements_2016_separate_extracted.txt",
+          "label": "17. Lợi nhuận sau thuế TNDN",
+          "template": "TT200",
+          "source_scale": "RAW",
+          "current_raw": "1.385.053.761.194",
+          "next_report_prior_raw": "1.385.053.761.194",
+          "table_id": "table_6aff5215fa88ff603257e5cbbe6fc81c5af4ba8d880fb10d26f2bf9ec3630dc8",
+          "cell_ids": [
+            "cell_0447ae6eb42ad2986e10a307855510772e328625e7b83f3a97e4b4701dd083fa"
+          ]
+        }
+      ]
+    },
+    {
+      "question_id": "wide-093-growth_rate-klb-hop_nhat-2020-2021",
+      "operation": "GROWTH_RATE",
+      "years": [
+        2020,
+        2021
+      ],
+      "answer": "509.78878702956031602780284678351462182745135293466",
+      "sources": [
+        {
+          "report_id": "report_eff66936d7c56a6acf0a395498a032f7fb0c3ec2aa87b0bf65ce056aa1a4681b",
+          "source_ref": "KLB/2020/KLB_financial_statements_2020_consolidated/KLB_financial_statements_2020_consolidated_extracted.txt",
+          "label": "XIII. Lợi nhuận sau thuế",
+          "template": "BANK",
+          "source_scale": "MILLION",
+          "current_raw": "126.318",
+          "next_report_prior_raw": "126.318",
+          "table_id": "table_87ee89f36059e8af03c4afc85fc49274146eba786e68bb428f843b6510fc624c",
+          "cell_ids": [
+            "cell_09f724fc559fc8ae3824d3f61066ea46ce1971374f4226099ece7e4ffbc45b77"
+          ]
+        },
+        {
+          "report_id": "report_da1e6318cf5b355dd62ae16380d9ef3186efa2d018f5a7fe6df7ab576751feb7",
+          "source_ref": "KLB/2021/KLB_financial_statements_2021_consolidated/KLB_financial_statements_2021_consolidated_extracted.txt",
+          "label": "XIII. Lợi nhuận sau thuế",
+          "template": "BANK",
+          "source_scale": "MILLION",
+          "current_raw": "770.273",
+          "next_report_prior_raw": "770.273",
+          "table_id": "table_5f4e5b709e63924c0bf5ee0fde856b27f4b55b5e49d507cc08f1321f363a0767",
+          "cell_ids": [
+            "cell_05da2cab5cc0779a0799fa6b563cb48db0f5edee3a8f38653a7f3a3d289f24bb"
+          ]
+        }
+      ]
+    },
+    {
+      "question_id": "wide-094-growth_rate-bvh-rieng-2019-2020",
+      "operation": "GROWTH_RATE",
+      "years": [
+        2019,
+        2020
+      ],
+      "answer": "-6.695585339093800931723771810641292993898597009228",
+      "sources": [
+        {
+          "report_id": "report_ee3df0dc449549082c33248ac70d581c37376f8b2464161202a4e9fb85a24c16",
+          "source_ref": "BVH/2019/BVH_financial_statements_2019_separate/BVH_financial_statements_2019_separate_extracted.txt",
+          "label": "12. Lợi nhuận sau thuế thu nhập doanh nghiệp",
+          "template": "TT200",
+          "source_scale": "RAW",
+          "current_raw": "1.084.316.950.545",
+          "next_report_prior_raw": "1.084.316.950.545",
+          "table_id": "table_411019dfc222a359862e4c53fdb838150e69466be80b3a6ff563bf907fba9818",
+          "cell_ids": [
+            "cell_1be1d4bfd5791f714bc1adda8e164c7244fc0e143316dd6b902fc86ad7bcb14d"
+          ]
+        },
+        {
+          "report_id": "report_9d321f47836e030928e7edac4f8c096a2a331543742529761e32564233cb3646",
+          "source_ref": "BVH/2020/BVH_financial_statements_2020_separate/BVH_financial_statements_2020_separate_extracted.txt",
+          "label": "12. Lợi nhuận sau thuế thu nhập doanh nghiệp",
+          "template": "TT200",
+          "source_scale": "RAW",
+          "current_raw": "1.011.715.583.775",
+          "next_report_prior_raw": "1.011.715.583.775",
+          "table_id": "table_7078999c39f70bd7e910e91d8d0c60bdd32f4430cf3416d7474e283d11b50065",
+          "cell_ids": [
+            "cell_518102d4ec4b00dc016639357f133bf9fd10759d393731cba335d1eda0f8d681"
+          ]
+        }
+      ]
+    },
+    {
+      "question_id": "wide-095-growth_rate-vjc-hop_nhat-2020-2021",
+      "operation": "GROWTH_RATE",
+      "years": [
+        2020,
+        2021
+      ],
+      "answer": "16.010949562170384207244725686246295281935148677578",
+      "sources": [
+        {
+          "report_id": "report_df88df5dcc1b36606f062dc326bdde406151fafc7a4bccd91fb8c6db49f93be8",
+          "source_ref": "VJC/2020/VJC_financial_statements_2020_consolidated/VJC_financial_statements_2020_consolidated_extracted.txt",
+          "label": "Lợi nhuận sau thuế TNDN",
+          "template": "TT200",
+          "source_scale": "RAW",
+          "current_raw": "68.665.335.134",
+          "next_report_prior_raw": "68.665.335.134",
+          "table_id": "table_0228c72c8a717f512db92476db1868e692597145a370b2ccab094f4933030be2",
+          "cell_ids": [
+            "cell_4d8c478cc58928141dbab508f4df2cedc5697f5923d548f4a67d264b794ae2be"
+          ]
+        },
+        {
+          "report_id": "report_226ea420554a3adeb62cf9990a1cf93ca51c81fb2a92c2c2fbd2e36c3bcd2a72",
+          "source_ref": "VJC/2021/VJC_financial_statements_2021_consolidated/VJC_financial_statements_2021_consolidated_extracted.txt",
+          "label": "Lợi nhuận sau thuế TNDN",
+          "template": "TT200",
+          "source_scale": "RAW",
+          "current_raw": "79.659.307.309",
+          "next_report_prior_raw": "79.659.307.309",
+          "table_id": "table_310b49f0379a9e36918630970b77dd1804c210a2fc10253d370bbb98c8a8f1c6",
+          "cell_ids": [
+            "cell_5652ebeda9cb7f5d38dd87eca6dc8944fa386e9dff683d3401f1422807c51e0a"
+          ]
+        }
+      ]
+    },
+    {
+      "question_id": "wide-096-growth_rate-dcm-hop_nhat-2019-2020",
+      "operation": "GROWTH_RATE",
+      "years": [
+        2019,
+        2020
+      ],
+      "answer": "54.877152987814014698074211000290733432685593471465",
+      "sources": [
+        {
+          "report_id": "report_0a8a609edef0f9c761ae4e073aaa0b3fe738824e321be339b62b36bb1d783b15",
+          "source_ref": "DCM/2019/DCM_financial_statements_2019_consolidated/DCM_financial_statements_2019_consolidated_extracted.txt",
+          "label": "Lợi nhuận sau thuế thu nhập doanh nghiệp (60=50-51-52)",
+          "template": "TT200",
+          "source_scale": "RAW",
+          "current_raw": "427.723.729.092",
+          "next_report_prior_raw": "427.723.729.092",
+          "table_id": "table_e4cfdbd78b6518fca95f77c2ed934dc9ec4da6ffed1aa1995b5c965a14bee0cc",
+          "cell_ids": [
+            "cell_c0a0e6f014c2bebf05301fd71f7144b3b642af641dab5e4730f2c9c1595cc92b"
+          ]
+        },
+        {
+          "report_id": "report_29f419f69c0d255faf251b1741a907ebd1000ec24f1276dc750875831458c42a",
+          "source_ref": "DCM/2020/DCM_financial_statements_2020_consolidated/DCM_financial_statements_2020_consolidated_extracted.txt",
+          "label": "Lợi nhuận sau thuế thu nhập doanh nghiệp (60=50-51-52)Trong đó:",
+          "template": "TT200",
+          "source_scale": "RAW",
+          "current_raw": "662.446.334.271",
+          "next_report_prior_raw": "662.446.334.271",
+          "table_id": "table_58eb7f18ae7aada4429faab0236467dfb69f6ce69f27a2e0588a7809fb91fb57",
+          "cell_ids": [
+            "cell_dd6b83859343018e0087b54cae01d307b2cce00393da9531ebf653a21a4751f5"
+          ]
+        }
+      ]
+    },
+    {
+      "question_id": "wide-097-growth_rate-vgc-hop_nhat-2022-2023",
+      "operation": "GROWTH_RATE",
+      "years": [
+        2022,
+        2023
+      ],
+      "answer": "-39.246433334334984771597781443184946452132511781934",
+      "sources": [
+        {
+          "report_id": "report_6d55d138fe92bfcb076bd96eff2dd5d70e019e60d90b07658011dbea9a426c2e",
+          "source_ref": "VGC/2022/VGC_financial_statements_2022_consolidated/VGC_financial_statements_2022_consolidated_extracted.txt",
+          "label": "Lợi nhuận sau thuế thu nhập doanh nghiệp (60=50-51-52)",
+          "template": "TT200",
+          "source_scale": "RAW",
+          "current_raw": "1.913.038.534.962",
+          "next_report_prior_raw": "1.913.038.534.962",
+          "table_id": "table_274ea9397b54c8477c8c73a661ee0b11f5b2f0429adaa18874588a41d899a0f8",
+          "cell_ids": [
+            "cell_6c3f7958472c66704790658f9d7dbd8e0f0325e385113f412d346bdb04164b9d"
+          ]
+        },
+        {
+          "report_id": "report_1c13e24432efbfc1ca503a691c30a734f268d22e266aa51d1e7fb2fc25cf49c4",
+          "source_ref": "VGC/2023/VGC_financial_statements_2023_consolidated/VGC_financial_statements_2023_consolidated_extracted.txt",
+          "label": "Lợi nhuận sau thuế thu nhập doanh nghiệp (60=50-51-52)",
+          "template": "TT200",
+          "source_scale": "RAW",
+          "current_raw": "1.162.239.141.678",
+          "next_report_prior_raw": "1.162.239.141.678",
+          "table_id": "table_933b5b3d00435aa6a2cdda0668f0cbf15addad42231d4af0bbe9a34518ff59db",
+          "cell_ids": [
+            "cell_e23cf00b05f436135e02dd4b272d6de4918f564269f99addc9a11d691932bae3"
+          ]
+        }
+      ]
+    },
+    {
+      "question_id": "wide-098-growth_rate-gvr-hop_nhat-2020-2021",
+      "operation": "GROWTH_RATE",
+      "years": [
+        2020,
+        2021
+      ],
+      "answer": "5.1945346606196788710756107888937009086494417523818",
+      "sources": [
+        {
+          "report_id": "report_719476aed6a86d46f2761156f5984439f3d2c45223f8177a9ae5a4db89460582",
+          "source_ref": "GVR/2020/GVR_financial_statements_2020_consolidated/GVR_financial_statements_2020_consolidated_extracted.txt",
+          "label": "18. Lợi nhuận sau thuế thu nhập doanh nghiệp (50-51-52)",
+          "template": "TT200",
+          "source_scale": "RAW",
+          "current_raw": "5.076.353.611.250",
+          "next_report_prior_raw": "5.076.353.611.250",
+          "table_id": "table_45018728681043c22a4c8383fe298b01966e17f06857fafcd9970bb013aca4b5",
+          "cell_ids": [
+            "cell_bae3175c71c2f26dd598c8c431e21000d326e8301c5383b13f876037767a1508"
+          ]
+        },
+        {
+          "report_id": "report_266fb0ca892a62dc5fa9accdfdc45b6339150e3a180a7faa3fe2790eedbf7970",
+          "source_ref": "GVR/2021/GVR_financial_statements_2021_consolidated/GVR_financial_statements_2021_consolidated_extracted.txt",
+          "label": "18. Lợi nhuận sau thuế thu nhập doanh nghiệp (50-51-52)",
+          "template": "TT200",
+          "source_scale": "RAW",
+          "current_raw": "5.340.046.559.082",
+          "next_report_prior_raw": "5.340.046.559.082",
+          "table_id": "table_81335c51482bb86ab13627ffb17b78da057de61e1860412a29d3714f555c24dc",
+          "cell_ids": [
+            "cell_9d764d27fe5331244451267e38346560668cf95552ca16e23feee36bad033c29"
+          ]
+        }
+      ]
+    },
+    {
+      "question_id": "wide-099-growth_rate-gee-hop_nhat-2023-2024",
+      "operation": "GROWTH_RATE",
+      "years": [
+        2023,
+        2024
+      ],
+      "answer": "116.30390122930754095151319000929336413030861921757",
+      "sources": [
+        {
+          "report_id": "report_c45f5191366dee5bed93308d9f25a0efb7ba8a0707a2c79d87dcfa46086552e5",
+          "source_ref": "GEE/2023/GEE_financial_statements_2023_consolidated/GEE_financial_statements_2023_consolidated_extracted.txt",
+          "label": "Lợi nhuận sau thuế thu nhập doanh nghiệp (60=50-51-52)",
+          "template": "TT200",
+          "source_scale": "RAW",
+          "current_raw": "792.669.867.091",
+          "next_report_prior_raw": "792.669.867.091",
+          "table_id": "table_042bc214f627cebd9cecde4fce2d4dad285168d30a55c75891423f57422e7b03",
+          "cell_ids": [
+            "cell_fdb5482c2974afeffec96c2f2e96e1d7de66539622bcc631f88dac3480e8100b"
+          ]
+        },
+        {
+          "report_id": "report_83d8c748386e3ae541950f19f94495bdc04500a289621fef40f9f5e94dc11122",
+          "source_ref": "GEE/2024/GEE_financial_statements_2024_consolidated/GEE_financial_statements_2024_consolidated_extracted.txt",
+          "label": "Lợi nhuận sau thuế thu nhập doanh nghiệp (60=50-51-52)",
+          "template": "TT200",
+          "source_scale": "RAW",
+          "current_raw": "1.714.575.846.387",
+          "next_report_prior_raw": "1.714.575.846.387",
+          "table_id": "table_2e086790769d85794bab28a85acb595d64fccd01b6a913ff7f5bddd23c542084",
+          "cell_ids": [
+            "cell_00e8b21bf1476f2e7a0aa2539bcc6b53939b88ca7a22a90bcbb4aa5be29d92cf"
+          ]
+        }
+      ]
+    },
+    {
+      "question_id": "wide-100-average-khg-hop_nhat-2021-2022",
+      "operation": "AVERAGE",
+      "years": [
+        2021,
+        2022
+      ],
+      "answer": "427986514671.5",
+      "sources": [
+        {
+          "report_id": "report_b76e2414d792979d28c66e8d7806ba7124864c33f8cf0e1dba06ae5d6fcd0bec",
+          "source_ref": "KHG/2021/KHG_financial_statements_2021_consolidated/KHG_financial_statements_2021_consolidated_extracted.txt",
+          "label": "17. Lợi nhuận sau thuế thu nhập doanh nghiệp",
+          "template": "TT200",
+          "source_scale": "RAW",
+          "current_raw": "413.504.439.559",
+          "next_report_prior_raw": "413.504.439.559",
+          "table_id": "table_0728c2fdf88e3533749262a875e4bc718851f3684e3fa85f084f91e4ab9260a4",
+          "cell_ids": [
+            "cell_9b76769dc73d51fb75d174c9a7423eeea207c713ad9d9e978cbc76157c29c859"
+          ]
+        },
+        {
+          "report_id": "report_1f8b911e8462da4f93904eff0f19b11003181691db00ee3d32ec5b741c725211",
+          "source_ref": "KHG/2022/KHG_financial_statements_2022_consolidated/KHG_financial_statements_2022_consolidated_extracted.txt",
+          "label": "17. Lợi nhuận sau thuế thu nhập doanh nghiệp",
+          "template": "TT200",
+          "source_scale": "RAW",
+          "current_raw": "442.468.589.784",
+          "next_report_prior_raw": "442.468.589.784",
+          "table_id": "table_08f58d435bb56a9a98dde8184162c4408f9cf273b0cf5c25027c921ca3c79388",
+          "cell_ids": [
+            "cell_b650061a5e27968a3286471abf9e8186ad097e6a7781a52ee0736b0598949799"
+          ]
+        }
+      ]
+    },
+    {
+      "question_id": "wide-101-average-pc1-hop_nhat-2018-2019",
+      "operation": "AVERAGE",
+      "years": [
+        2018,
+        2019
+      ],
+      "answer": "433930431771",
+      "sources": [
+        {
+          "report_id": "report_447b90511901935004d25ff7a2e23428cf64029790af4abcecae56b18e00c3a7",
+          "source_ref": "PC1/2018/PC1_financial_statements_2018_consolidated/PC1_financial_statements_2018_consolidated_extracted.txt",
+          "label": "18. Lợi nhuận sau thuế thu nhập doanh nghiệp",
+          "template": "TT200",
+          "source_scale": "RAW",
+          "current_raw": "491.401.476.874",
+          "next_report_prior_raw": "491.401.476.874",
+          "table_id": "table_d2a567895e184d48c6c115cd893ba4c453f6116f261050f22025c789ae45426e",
+          "cell_ids": [
+            "cell_a81a7853dc7ca1debe89de407f27b26f104414f0fc094c23cf8e0597ab391070"
+          ]
+        },
+        {
+          "report_id": "report_b93f680b975ab66e65c8169ff30ff4f1cf1c7efaf568f17433801b55e561347c",
+          "source_ref": "PC1/2019/PC1_financial_statements_2019_consolidated/PC1_financial_statements_2019_consolidated_extracted.txt",
+          "label": "18. Lợi nhuận sau thuế thu nhập doanh nghiệp",
+          "template": "TT200",
+          "source_scale": "RAW",
+          "current_raw": "376.459.386.668",
+          "next_report_prior_raw": "376.459.386.668",
+          "table_id": "table_2db38ce927063f8a4c64c0541c4c762c7b05a48b1bd02df1f826d6024504f377",
+          "cell_ids": [
+            "cell_53b03a14a3c68b655df25a3238e3a7e83f51888d044601b2f3f99e3289862dbf"
+          ]
+        }
+      ]
+    },
+    {
+      "question_id": "wide-102-average-sjg-hop_nhat-2020-2021",
+      "operation": "AVERAGE",
+      "years": [
+        2020,
+        2021
+      ],
+      "answer": "384031122934.5",
+      "sources": [
+        {
+          "report_id": "report_fffd991024a6b557f8715579516082abd37c645b83270228380b776892aa218e",
+          "source_ref": "SJG/2020/SJG_financial_statements_2020_consolidated/SJG_financial_statements_2020_consolidated_extracted.txt",
+          "label": "Lợi nhuận sau thuế thu nhập doanh nghiệp",
+          "template": "TT200",
+          "source_scale": "RAW",
+          "current_raw": "178.735.958.859",
+          "next_report_prior_raw": "178.735.958.859",
+          "table_id": "table_8bebcc2c661225a1daeb1a3a33a8b315d8a3029e758abde6a48c7e247b9ea789",
+          "cell_ids": [
+            "cell_759ad1b78f7b1eb9c014d00bb91d6f2d9802eeb7fcb69552a5abcef021999157"
+          ]
+        },
+        {
+          "report_id": "report_b587dc3e673b70e2901b8d4932ceebaa2bb3361ebfc2acc84ab67d3b557a4eaf",
+          "source_ref": "SJG/2021/SJG_financial_statements_2021_consolidated/SJG_financial_statements_2021_consolidated_extracted.txt",
+          "label": "Lợi nhuận sau thuế thu nhập doanh nghiệp",
+          "template": "TT200",
+          "source_scale": "RAW",
+          "current_raw": "589.326.287.010",
+          "next_report_prior_raw": "589.326.287.010",
+          "table_id": "table_67cbb5a90006fc253dcdfbcafe9dedef6156a19c11f98fefbcbfe32c90f53111",
+          "cell_ids": [
+            "cell_d3c3a68cddcc362395037f043349e5b4645b73c6e25d678022af91ba3a961e2d"
+          ]
+        }
+      ]
+    },
+    {
+      "question_id": "wide-103-average-dcm-rieng-2021-2022",
+      "operation": "AVERAGE",
+      "years": [
+        2021,
+        2022
+      ],
+      "answer": "3067634355935.5",
+      "sources": [
+        {
+          "report_id": "report_6cb5de996ab440c988029badd193723f94521ed986938af4dd2df88345d3b395",
+          "source_ref": "DCM/2021/DCM_financial_statements_2021_separate/DCM_financial_statements_2021_separate_extracted.txt",
+          "label": "Lợi nhuận sau thuế TNDN",
+          "template": "TT200",
+          "source_scale": "RAW",
+          "current_raw": "1.821.832.926.980",
+          "next_report_prior_raw": "1.821.832.926.980",
+          "table_id": "table_c7ab2c18c9fe3cb88d529fcf208a0178f9d6090e23969d9d873ed58823671f26",
+          "cell_ids": [
+            "cell_8fd23aac234984e98db09c062face3c892f8bd75380babc904b8537d1fb246ba"
+          ]
+        },
+        {
+          "report_id": "report_73fffc47f4ba5be2c658ad7cc735a09112013ebdbc4aaf9d278b4fe191e0dc7a",
+          "source_ref": "DCM/2022/DCM_financial_statements_2022_separate/DCM_financial_statements_2022_separate_extracted.txt",
+          "label": "Lợi nhuận sau thuế thu nhập doanh nghiệp (60=50-51-52)",
+          "template": "TT200",
+          "source_scale": "RAW",
+          "current_raw": "4.313.435.784.891",
+          "next_report_prior_raw": "4.313.435.784.891",
+          "table_id": "table_86271270ec7aaec3e57f548005d4fa5fef94476e186974936b53d9a188de58ec",
+          "cell_ids": [
+            "cell_3952a2bd74b2a31db73c180fc76be13ae68be25615db9a96e835853ededd19c7"
+          ]
+        }
+      ]
+    },
+    {
+      "question_id": "wide-104-average-vpi-rieng-2022-2023",
+      "operation": "AVERAGE",
+      "years": [
+        2022,
+        2023
+      ],
+      "answer": "545934323353.5",
+      "sources": [
+        {
+          "report_id": "report_561177d8b4974f4a2e10ae41f2ce1d92174c817aca0dbe5ef71aae430f248398",
+          "source_ref": "VPI/2022/VPI_financial_statements_2022_separate/VPI_financial_statements_2022_separate_extracted.txt",
+          "label": "17. Lợi nhuận sau thuế TNDN",
+          "template": "TT200",
+          "source_scale": "RAW",
+          "current_raw": "484.762.626.066",
+          "next_report_prior_raw": "484.762.626.066",
+          "table_id": "table_480c5f2e5e7368d533b4da1c385f096e8d797b9dde18da8693f103d218f89425",
+          "cell_ids": [
+            "cell_1e2cf6ce554965651547f46c35677e9376d4488b30caed2468e46dffa839a798"
+          ]
+        },
+        {
+          "report_id": "report_f9db2595d454300599aca1166b2a64bbc939923a0d7a780ca9485e5a43bac49d",
+          "source_ref": "VPI/2023/VPI_financial_statements_2023_separate/VPI_financial_statements_2023_separate_extracted.txt",
+          "label": "17. Lợi nhuận sau thuế TNDN",
+          "template": "TT200",
+          "source_scale": "RAW",
+          "current_raw": "607.106.020.641",
+          "next_report_prior_raw": "607.106.020.641",
+          "table_id": "table_e475fa2e82ae85fc233f4e76e1507e12668e3f4aceb676fd31f3ac5f4cbe0009",
+          "cell_ids": [
+            "cell_7ade4ce2d089eb9d5d4ed1eea37e9b133e6a3521f6306c176f695e96bcb088a4"
+          ]
+        }
+      ]
+    },
+    {
+      "question_id": "wide-105-average-hpg-hop_nhat-2020-2021",
+      "operation": "AVERAGE",
+      "years": [
+        2020,
+        2021
+      ],
+      "answer": "24013559494102.5",
+      "sources": [
+        {
+          "report_id": "report_31cc0fa1ac224bae02dc08605cdaacd57509b4ecca1fd518927dcee17737fa7d",
+          "source_ref": "HPG/2020/HPG_financial_statements_2020_consolidated/HPG_financial_statements_2020_consolidated_extracted.txt",
+          "label": "Lợi nhuận sau thuế TNDN (mang sang trang sau) (60 = 50 - 51 - 52)",
+          "template": "TT200",
+          "source_scale": "RAW",
+          "current_raw": "13.506.164.056.907",
+          "next_report_prior_raw": "13.506.164.056.907",
+          "table_id": "table_2666f1c73fcecea48d8f055e73dba93b8921d9987027a94c3f0a321ca39db7ae",
+          "cell_ids": [
+            "cell_6a8ee95024ee854efef8a4269900b9204a03e010bee58849a37728542fdf48df",
+            "cell_87dd17f49176f4dae6152e2b3fdb6e65bb373165ca231045eec25cc2e8cc25aa"
+          ]
+        },
+        {
+          "report_id": "report_3a04ba7a0283c73789d63c67c01ded04a52fcab1d7c0452b1be8b93fcb11e964",
+          "source_ref": "HPG/2021/HPG_financial_statements_2021_consolidated/HPG_financial_statements_2021_consolidated_extracted.txt",
+          "label": "Lợi nhuận sau thuế TNDN (mang sang trang sau) (60 = 50 - 51 - 52)",
+          "template": "TT200",
+          "source_scale": "RAW",
+          "current_raw": "34.520.954.931.298",
+          "next_report_prior_raw": "34.520.954.931.298",
+          "table_id": "table_bc265b051ae1d2407aebc9d357307bade0b5c33fc4b36a812a532928a95d9f9b",
+          "cell_ids": [
+            "cell_0112ccd46244d0e267c26c872a608b3b924a691c04f1723b389e0da28694e38a",
+            "cell_fb910e0c14e6d2e6bae459077ccb83d7a043f64506fdbc34a5313f0f0c57d30b"
+          ]
+        }
+      ]
+    },
+    {
+      "question_id": "wide-106-average-prt-rieng-2020-2021",
+      "operation": "AVERAGE",
+      "years": [
+        2020,
+        2021
+      ],
+      "answer": "174329093791",
+      "sources": [
+        {
+          "report_id": "report_6d6a9be81c2340e2149c7007e75139d197105c5d31d3268e99450a403562aae3",
+          "source_ref": "PRT/2020/PRT_financial_statements_2020_separate/PRT_financial_statements_2020_separate_extracted.txt",
+          "label": "17. Lợi nhuận sau thuế thu nhập doanh nghiệp",
+          "template": "TT200",
+          "source_scale": "RAW",
+          "current_raw": "143.086.522.050",
+          "next_report_prior_raw": "143.086.522.050",
+          "table_id": "table_3ef73a9c983d774ccf5101d242681bed5888ef470a219eb5c361b30fdc8e6332",
+          "cell_ids": [
+            "cell_af19c50e2e6fd38034dec475fb4f63d8397f96bd0fbaebec9b23b1c5022b67ca"
+          ]
+        },
+        {
+          "report_id": "report_df35c36a10df4301b4d3f526306efa2066462f26a1b94a6201ab4bddc3edd1e3",
+          "source_ref": "PRT/2021/PRT_financial_statements_2021_separate/PRT_financial_statements_2021_separate_extracted.txt",
+          "label": "16. Lợi nhuận sau thuế thu nhập doanh nghiệp",
+          "template": "TT200",
+          "source_scale": "RAW",
+          "current_raw": "205.571.665.532",
+          "next_report_prior_raw": "205.571.665.532",
+          "table_id": "table_b7fe67e27eae86c9d7002ecd938dca3822246271cb50113e8feb5fa62a6795bf",
+          "cell_ids": [
+            "cell_320b0bd4656d49b3746f96691e27d677a3db77afb5f00654baf5fd722fd9e6f1"
+          ]
+        }
+      ]
+    },
+    {
+      "question_id": "wide-107-average-pow-hop_nhat-2022-2023",
+      "operation": "AVERAGE",
+      "years": [
+        2022,
+        2023
+      ],
+      "answer": "1917935355782.5",
+      "sources": [
+        {
+          "report_id": "report_730685d190a4d63be5c11e1523654fc2e904ffc669fa821c73a11d08a41c3405",
+          "source_ref": "POW/2022/POW_financial_statements_2022_consolidated/POW_financial_statements_2022_consolidated_extracted.txt",
+          "label": "Lợi nhuận sau thuế thu nhập doanh nghiệp (60=50-51-52)",
+          "template": "TT200",
+          "source_scale": "RAW",
+          "current_raw": "2.552.928.570.147",
+          "next_report_prior_raw": "2.552.928.570.147",
+          "table_id": "table_0a3d02ad7d86b64389de13dfb6119b3085059f7ccc0e63deafa13267f709fe02",
+          "cell_ids": [
+            "cell_e352a47021bd8b3fde49a6b428a2fe9a03792e5fa4254302472a9dd6794cfb65"
+          ]
+        },
+        {
+          "report_id": "report_aa6775e5f170093e8de8e857917f93bba596d3aa1219507fbd9415e601ac434b",
+          "source_ref": "POW/2023/POW_financial_statements_2023_consolidated/POW_financial_statements_2023_consolidated_extracted.txt",
+          "label": "Lợi nhuận sau thuế thu nhập doanh nghiệp (60=50-51-52)",
+          "template": "TT200",
+          "source_scale": "RAW",
+          "current_raw": "1.282.942.141.418",
+          "next_report_prior_raw": "1.282.942.141.418",
+          "table_id": "table_39f875fd02eabf8a68a9c9013ee50205ba1a70596ccea8df1b938c1748299ee1",
+          "cell_ids": [
+            "cell_669bc1ad254dde8da040eb18ac2f467b73d35ddbc8c0f745328d725ca027fccb"
+          ]
+        }
+      ]
+    },
+    {
+      "question_id": "wide-108-average-cre-rieng-2023-2024",
+      "operation": "AVERAGE",
+      "years": [
+        2023,
+        2024
+      ],
+      "answer": "26414175644.5",
+      "sources": [
+        {
+          "report_id": "report_5b6450d0a7a23bb8481fd4f1cec7cda58550f8cb49149ff23f3421848d181059",
+          "source_ref": "CRE/2023/CRE_financial_statements_2023_separate/CRE_financial_statements_2023_separate_extracted.txt",
+          "label": "17. Lợi nhuận sau thuế thu nhập doanh nghiệp",
+          "template": "TT200",
+          "source_scale": "RAW",
+          "current_raw": "8.155.464.591",
+          "next_report_prior_raw": "8.155.464.591",
+          "table_id": "table_34ee0ebce27fbbc551ea9759dbb0b230098184102495c82e55f72e7c3e7955e6",
+          "cell_ids": [
+            "cell_205a515dd5f903a21de42ad4f9566dfbc192ad47e149b7c8d69f1c786b455177"
+          ]
+        },
+        {
+          "report_id": "report_61e054a9c37cca5500fd626051bbfa65317d261aac5d8f3ef2c39ce401a53bf7",
+          "source_ref": "CRE/2024/CRE_financial_statements_2024_separate/CRE_financial_statements_2024_separate_extracted.txt",
+          "label": "17. Lợi nhuận sau thuế thu nhập doanh nghiệp",
+          "template": "TT200",
+          "source_scale": "RAW",
+          "current_raw": "44.672.886.698",
+          "next_report_prior_raw": "44.672.886.698",
+          "table_id": "table_993feb3663d1bb520c3bd7b0543b7f5e92f42d541d2f6f2a77df0081b6fd2e83",
+          "cell_ids": [
+            "cell_55058965ea6086bca9b0ba1824b3c5cd0d3e3e0fb4d67dd2da9f023e561c47f8"
+          ]
+        }
+      ]
+    },
+    {
+      "question_id": "wide-109-average-ogc-rieng-2022-2023",
+      "operation": "AVERAGE",
+      "years": [
+        2022,
+        2023
+      ],
+      "answer": "41298134838",
+      "sources": [
+        {
+          "report_id": "report_b6e3b944fa79f3a5a5aa2c6f62f56f9fbb9efa7c341f0713a142c3148753b351",
+          "source_ref": "OGC/2022/OGC_financial_statements_2022_separate/OGC_financial_statements_2022_separate_extracted.txt",
+          "label": "Lợi nhuận sau thuế thu nhập doanh nghiệp",
+          "template": "TT200",
+          "source_scale": "RAW",
+          "current_raw": "23.462.167.779",
+          "next_report_prior_raw": "23.462.167.779",
+          "table_id": "table_af5ac1b3a68596815776990764a6ca1ffb2c0294b92ca75b0e2cb69806085355",
+          "cell_ids": [
+            "cell_2be447dd5749956b4cbf48e5179db179e909c6c79c440da7a3c35161a8772ccb"
+          ]
+        },
+        {
+          "report_id": "report_24efc47bb8ab04abcb6c98123e68ee0db320dc6bb31327cd6884d539c3840f3d",
+          "source_ref": "OGC/2023/OGC_financial_statements_2023_separate/OGC_financial_statements_2023_separate_extracted.txt",
+          "label": "Lợi nhuận sau thuế TNDN",
+          "template": "TT200",
+          "source_scale": "RAW",
+          "current_raw": "59.134.101.897",
+          "next_report_prior_raw": "59.134.101.897",
+          "table_id": "table_a7654a0009bcf7e3475515d1a2a6a043837818009d976971a113d6f43d788b35",
+          "cell_ids": [
+            "cell_458e8418a5bbed01ffda1d38fef1de5b25f559a17f29ed9195ca8eb43fd1db73"
+          ]
+        }
+      ]
+    },
+    {
+      "question_id": "wide-110-average-nvl-hop_nhat-2023-2024",
+      "operation": "AVERAGE",
+      "years": [
+        2023,
+        2024
+      ],
+      "answer": "-1954388839402.5",
+      "sources": [
+        {
+          "report_id": "report_d3e2236f1c647f57dc59c735193f3458018da91165da6c3a4f232e43679a389a",
+          "source_ref": "NVL/2023/NVL_financial_statements_2023_consolidated/NVL_financial_statements_2023_consolidated_extracted.txt",
+          "label": "Lợi nhuận sau thuế TNDN",
+          "template": "TT200",
+          "source_scale": "RAW",
+          "current_raw": "485.864.524.898",
+          "next_report_prior_raw": "485.864.524.898",
+          "table_id": "table_0f92aad4ed6255ba2a6a2a3976a326c5d4dfe959a88a47f4e6c6ced2a84abf38",
+          "cell_ids": [
+            "cell_3c51953772b344411cbdcef6df741343bd29f4c82916e69973c9105692b7d023"
+          ]
+        },
+        {
+          "report_id": "report_8f1157d0deefb2608d88fc30757af12036ba578a65515e8d7c8392a6299ec96f",
+          "source_ref": "NVL/2024/NVL_financial_statements_2024_consolidated/NVL_financial_statements_2024_consolidated_extracted.txt",
+          "label": "18. Lợi nhuận sau thuế thu nhập doanh nghiệp(60 = 50 - 51 -52)",
+          "template": "TT200",
+          "source_scale": "RAW",
+          "current_raw": "(4.394.642.203.703)",
+          "next_report_prior_raw": "(4.394.642.203.703)",
+          "table_id": "table_049f7f4db0f6d946024691e87d9179dd1c09f7bc04ae5ee5959f237b92e1f492",
+          "cell_ids": [
+            "cell_3b10d5aff61eb29ba28a022f485ab1e837046f38543c5b74ea90cfe446fa9470"
+          ]
+        }
+      ]
+    },
+    {
+      "question_id": "wide-111-average-msb-hop_nhat-2018-2019",
+      "operation": "AVERAGE",
+      "years": [
+        2018,
+        2019
+      ],
+      "answer": "955924500000",
+      "sources": [
+        {
+          "report_id": "report_e9becb73ea74246a74d94a4cce1ca2231be8a3e97e4778dac0e641b697e41ac7",
+          "source_ref": "MSB/2018/MSB_financial_statements_2018_consolidated/MSB_financial_statements_2018_consolidated_extracted.txt",
+          "label": "Lợi nhuận sau thuế",
+          "template": "BANK",
+          "source_scale": "MILLION",
+          "current_raw": "868.289",
+          "next_report_prior_raw": "868.289",
+          "table_id": "table_d35a3629b1e18a16938a444c249524cd571045f98c51783d6827691ed60c2404",
+          "cell_ids": [
+            "cell_3858b68729a46a96fe6e05c33f19fce6047c8cfd1804e37f120787dbf0683f22"
+          ]
+        },
+        {
+          "report_id": "report_7329e2afb55733728c663c31a7111fee9ae589430971f1dc6255502520e44fa8",
+          "source_ref": "MSB/2019/MSB_financial_statements_2019_consolidated/MSB_financial_statements_2019_consolidated_extracted.txt",
+          "label": "Lợi nhuận sau thuế",
+          "template": "BANK",
+          "source_scale": "MILLION",
+          "current_raw": "1.043.560",
+          "next_report_prior_raw": "1.043.560",
+          "table_id": "table_29f70c4a41f4ac9774be1eacff2299bdb0abd4a9456f5081170809d369939f48",
+          "cell_ids": [
+            "cell_8eb97b0d0c440df86e2d76591a0630ab96867d8aeef2726ca1fd865512ee4ac3"
+          ]
+        }
+      ]
+    },
+    {
+      "question_id": "wide-112-average-vgc-rieng-2020-2021",
+      "operation": "AVERAGE",
+      "years": [
+        2020,
+        2021
+      ],
+      "answer": "769828669183",
+      "sources": [
+        {
+          "report_id": "report_d38bf8aaa4455c3b98b8412321438bd35920d9ca72566acf0adb3053cccea1d8",
+          "source_ref": "VGC/2020/VGC_financial_statements_2020_separate/VGC_financial_statements_2020_separate_extracted.txt",
+          "label": "17. Lợi nhuận sau thuế thu nhập doanh nghiệp",
+          "template": "TT200",
+          "source_scale": "RAW",
+          "current_raw": "606.461.155.044",
+          "next_report_prior_raw": "606.461.155.044",
+          "table_id": "table_2072ef68ce06f48bd689e335ec3b019257679a91020b06023d705c606593c58f",
+          "cell_ids": [
+            "cell_be3aae51a1c248e99094250c0dab14e0f154a90c1d2cf7513d47a9eef0422a6d"
+          ]
+        },
+        {
+          "report_id": "report_60e60282d5975af6f76c6bd307063c6905f885d78427b1b4cda02ac6241477e5",
+          "source_ref": "VGC/2021/VGC_financial_statements_2021_separate/VGC_financial_statements_2021_separate_extracted.txt",
+          "label": "Lợi nhuận sau thuế thu nhập doanh nghiệp (60=50-51-52)",
+          "template": "TT200",
+          "source_scale": "RAW",
+          "current_raw": "933.196.183.322",
+          "next_report_prior_raw": "933.196.183.322",
+          "table_id": "table_37d29178ffd254a5aa61c8b3ac6bb1eabeaee75a441e757b44355b920bc0d1ef",
+          "cell_ids": [
+            "cell_9c4b99f566284c08c202789a70ad31e6d30f5b8ef75aaf1702d05a64fd70e225"
+          ]
+        }
+      ]
+    },
+    {
+      "question_id": "wide-113-average-vic-rieng-2023-2024",
+      "operation": "AVERAGE",
+      "years": [
+        2023,
+        2024
+      ],
+      "answer": "1228876000000",
+      "sources": [
+        {
+          "report_id": "report_9d1ef4e80d06fad0c5ea1497995b17108ebab8031a2dba36fe152095fb9daa1d",
+          "source_ref": "VIC/2023/VIC_financial_statements_2023_separate/VIC_financial_statements_2023_separate_extracted.txt",
+          "label": "17. Lợi nhuận sau thuế TNDN",
+          "template": "TT200",
+          "source_scale": "MILLION",
+          "current_raw": "1.768.614",
+          "next_report_prior_raw": "1.768.614",
+          "table_id": "table_bbacfe387d9179e2d2be7fc99e58145a26089089369686d490ded0cec23bfa63",
+          "cell_ids": [
+            "cell_7394e22d4a79cadbb075a30f2e64cec0c44daf617a7740e9e8d2821cb77de0ac"
+          ]
+        },
+        {
+          "report_id": "report_f4be9542ead388b6f5c0436d15b4e832cad5b6956c83d6f488f6ce145b0847b4",
+          "source_ref": "VIC/2024/VIC_financial_statements_2024_separate/VIC_financial_statements_2024_separate_extracted.txt",
+          "label": "17. Lợi nhuận sau thuế TNDN",
+          "template": "TT200",
+          "source_scale": "MILLION",
+          "current_raw": "689.138",
+          "next_report_prior_raw": "689.138",
+          "table_id": "table_e7d46c60840bd7e5a8aeb33bcecc0333e539b6f05fd5f26ee6e73ddbf2040762",
+          "cell_ids": [
+            "cell_df4518bd36f87ce576805c65a4df594530195515714907041f8789fde2c83588"
+          ]
+        }
+      ]
+    },
+    {
+      "question_id": "wide-114-average-ht1-rieng-2022-2023",
+      "operation": "AVERAGE",
+      "years": [
+        2022,
+        2023
+      ],
+      "answer": "137658387872",
+      "sources": [
+        {
+          "report_id": "report_33ca98dcdbe33ce71e9e1d45cfaece5e3a778fda54cb3f95930acdc06acbf4f0",
+          "source_ref": "HT1/2022/HT1_financial_statements_2022_separate/HT1_financial_statements_2022_separate_extracted.txt",
+          "label": "Lợi nhuận sau thuế thu nhập doanh nghiệp (60=50-(51+52))",
+          "template": "TT200",
+          "source_scale": "RAW",
+          "current_raw": "257.643.359.073",
+          "next_report_prior_raw": "257.643.359.073",
+          "table_id": "table_753121506e57b2185c0faa6bf647487d3d7e8391a07aeff6ecc2d625fa362ccf",
+          "cell_ids": [
+            "cell_00847e5eefcc5e4e6e9e966a6fb1f346249ffb695fd40981f954812c4686c4ee"
+          ]
+        },
+        {
+          "report_id": "report_28895b8d6cc9681717bc5842a25f2a27654ab3189c7e172e8657f0709a414c07",
+          "source_ref": "HT1/2023/HT1_financial_statements_2023_separate/HT1_financial_statements_2023_separate_extracted.txt",
+          "label": "Lợi nhuận sau thuế thu nhập doanh nghiệp (60=50-(51+52))",
+          "template": "TT200",
+          "source_scale": "RAW",
+          "current_raw": "17.673.416.671",
+          "next_report_prior_raw": "17.673.416.671",
+          "table_id": "table_27460434986be6a59ebfec681de3f0c39be942ddf8c9dea76790cbece8ea9537",
+          "cell_ids": [
+            "cell_975cd5bc866bc46ec38832b0a0e9afd253555e0613d493a33887ece1ca18d9b4"
+          ]
+        }
+      ]
+    },
+    {
+      "question_id": "wide-115-average-fpt-rieng-2017-2018",
+      "operation": "AVERAGE",
+      "years": [
+        2017,
+        2018
+      ],
+      "answer": "2074716371639.5",
+      "sources": [
+        {
+          "report_id": "report_1d14981181a1f55e7778b3a4f3a15fb21018d3cdb15b20fb8573de3dd3dfc94e",
+          "source_ref": "FPT/2017/FPT_financial_statements_2017_separate/FPT_financial_statements_2017_separate_extracted.txt",
+          "label": "16. Lợi nhuận sau thuế thu nhập doanh nghiệp (60=50-51)",
+          "template": "TT200",
+          "source_scale": "RAW",
+          "current_raw": "2.978.995.098.824",
+          "next_report_prior_raw": "2.978.995.098.824",
+          "table_id": "table_c51e8d2f42905adb5d124fa6165b15e9538fc2ddab3618deec327640b6559fae",
+          "cell_ids": [
+            "cell_22e89000058c747368b6699c836d81e49fdb8b4e4c3a86da2742deab1691d131"
+          ]
+        },
+        {
+          "report_id": "report_eb4e8e76e51fc1d3353bd613caa18d50f0def4d7b3d1db7801d3f25c389d2316",
+          "source_ref": "FPT/2018/FPT_financial_statements_2018_separate/FPT_financial_statements_2018_separate_extracted.txt",
+          "label": "Lợi nhuận sau thuế thu nhập doanh nghiệp (60=50-51)",
+          "template": "TT200",
+          "source_scale": "RAW",
+          "current_raw": "1.170.437.644.455",
+          "next_report_prior_raw": "1.170.437.644.455",
+          "table_id": "table_71175746bacfc8222045d35e4e2747e8072ab30d63da3dc3c6de1599ffe067a1",
+          "cell_ids": [
+            "cell_47f515855a985d70156035b5c32bceb275f986680daad118521288ba18c87e20"
+          ]
+        }
+      ]
+    },
+    {
+      "question_id": "wide-116-average-sam-rieng-2020-2021",
+      "operation": "AVERAGE",
+      "years": [
+        2020,
+        2021
+      ],
+      "answer": "168617402002.5",
+      "sources": [
+        {
+          "report_id": "report_3455fb5bbba473b471277c23e7169e552ed46ed92d0680a9552c99b4a20f4d05",
+          "source_ref": "SAM/2020/SAM_financial_statements_2020_separate/SAM_financial_statements_2020_separate_extracted.txt",
+          "label": "17. Lợi nhuận sau thuế thu nhập doanh nghiệp",
+          "template": "TT200",
+          "source_scale": "RAW",
+          "current_raw": "207.585.448.083",
+          "next_report_prior_raw": "207.585.448.083",
+          "table_id": "table_bb1a2e2b3e79f9fa79fdc45190c48fe740853cc700dc3158f13a1f4699aad2bd",
+          "cell_ids": [
+            "cell_6856d38748792729d9da93317f0f887556ece6381ae6363fbdabcf6010f549d9"
+          ]
+        },
+        {
+          "report_id": "report_0ef2fefbf07d8864ffb80c522d07671fc0375d006bf0b6ad9661e7677a1cf731",
+          "source_ref": "SAM/2021/SAM_financial_statements_2021_separate/SAM_financial_statements_2021_separate_extracted.txt",
+          "label": "17. Lợi nhuận sau thuế thu nhập doanh nghiệp",
+          "template": "TT200",
+          "source_scale": "RAW",
+          "current_raw": "129.649.355.922",
+          "next_report_prior_raw": "129.649.355.922",
+          "table_id": "table_901c1a43529b9dd1086a9f9fe0b5b7b4197379a4d294bf28c52e281c21767900",
+          "cell_ids": [
+            "cell_be30dead13619a3295ab34cd5b9e6ab0816ff409322dd5e70339fcf8ef663019"
+          ]
+        }
+      ]
+    },
+    {
+      "question_id": "wide-117-average-pnj-rieng-2019-2020",
+      "operation": "AVERAGE",
+      "years": [
+        2019,
+        2020
+      ],
+      "answer": "1095139319860",
+      "sources": [
+        {
+          "report_id": "report_b934e9eee7482fc6f5679f0fdd695d5c9c89d122bde4798d3825a49e35f2701a",
+          "source_ref": "PNJ/2019/PNJ_financial_statements_2019_separate/PNJ_financial_statements_2019_separate_extracted.txt",
+          "label": "Lợi nhuận sau thuế TNDN",
+          "template": "TT200",
+          "source_scale": "RAW",
+          "current_raw": "1.158.012.975.662",
+          "next_report_prior_raw": "1.158.012.975.662",
+          "table_id": "table_5b86b94082472aecbcdd81b847377a5300181d131fcaecfdf43032ffec65ddd2",
+          "cell_ids": [
+            "cell_0690e6876f6ba79b02047c796c63626fa4388f0f8e449225605f5380083101a6"
+          ]
+        },
+        {
+          "report_id": "report_aee12ed6bf3112da4289b5b1cff72589c17b96eb1c1fae296749b87e1171d72c",
+          "source_ref": "PNJ/2020/PNJ_financial_statements_2020_separate/PNJ_financial_statements_2020_separate_extracted.txt",
+          "label": "Lợi nhuận sau thuế TNDN",
+          "template": "TT200",
+          "source_scale": "RAW",
+          "current_raw": "1.032.265.664.058",
+          "next_report_prior_raw": "1.032.265.664.058",
+          "table_id": "table_25d5ae3bcf5509878a477f7b0d45089238f37a31394286c906991a7e75fc41db",
+          "cell_ids": [
+            "cell_80a9d62448620f05c900a5f56be327451c32f736a0382411fdb4f39046b049b2"
+          ]
+        }
+      ]
+    },
+    {
+      "question_id": "wide-118-average-hsg-rieng-2019-2020",
+      "operation": "AVERAGE",
+      "years": [
+        2019,
+        2020
+      ],
+      "answer": "843346229579",
+      "sources": [
+        {
+          "report_id": "report_a8d6a05fbc632488e0430bf3a637fa96201c7db3c2bc2dc5ac052ae8e224fc63",
+          "source_ref": "HSG/2019/HSG_financial_statements_2019_separate/HSG_financial_statements_2019_separate_extracted.txt",
+          "label": "Lợi nhuận sau thuế TNDN (60 = 50 - 51 - 52)",
+          "template": "TT200",
+          "source_scale": "RAW",
+          "current_raw": "611.107.359.723",
+          "next_report_prior_raw": "611.107.359.723",
+          "table_id": "table_7b20e2c4264fd32a07e467512cfae987a6409a3f50ab0d9a74cc36a9cba892e5",
+          "cell_ids": [
+            "cell_8d6bda55df71b8dc97c2c3bc14f8ee5f135f58230bbd37d9eb04a7477b2565db"
+          ]
+        },
+        {
+          "report_id": "report_8f3bccbaca94a3c8314e1cd1e0201cac37d7e0b53227f71182f5acb62d136e97",
+          "source_ref": "HSG/2020/HSG_financial_statements_2020_separate/HSG_financial_statements_2020_separate_extracted.txt",
+          "label": "Lợi nhuận sau thuế TNDN (60 = 50 - 51 - 52)",
+          "template": "TT200",
+          "source_scale": "RAW",
+          "current_raw": "1.075.585.099.435",
+          "next_report_prior_raw": "1.075.585.099.435",
+          "table_id": "table_d4c9cc9c70aedaec77124d6e1e49b8c1e78e4e1f990627fa5ca5858bcd9823ef",
+          "cell_ids": [
+            "cell_125a7fe830cd35fb313480d72b9fb98489c5bcd3d559a2b8db0be249cd8de41a"
+          ]
+        }
+      ]
+    },
+    {
+      "question_id": "wide-119-average-msn-hop_nhat-2019-2020",
+      "operation": "AVERAGE",
+      "years": [
+        2019,
+        2020
+      ],
+      "answer": "3879814000000",
+      "sources": [
+        {
+          "report_id": "report_b92eed7e920024056231aecba23088599d193539f4ffa493442fb3b2dbcb0d14",
+          "source_ref": "MSN/2019/MSN_financial_statements_2019_consolidated/MSN_financial_statements_2019_consolidated_extracted.txt",
+          "label": "Lợi nhuận sau thuế TNDN \\( (60 = 50 - 51 - 52) \\)",
+          "template": "TT200",
+          "source_scale": "MILLION",
+          "current_raw": "6.364.615",
+          "next_report_prior_raw": "6.364.615",
+          "table_id": "table_478ab65c209dcf11e5949977856d0a0b0c9abdff1516a3274518fc8236386f48",
+          "cell_ids": [
+            "cell_9b416221fa126d6cffb37e27f7cdfd388bc0744cefd23303dfae58a5c6a98f9d"
+          ]
+        },
+        {
+          "report_id": "report_a15d50acefe04ddd4ebffdc3e3b94bdc04124d887914eb236a075031bf21c6e7",
+          "source_ref": "MSN/2020/MSN_financial_statements_2020_consolidated/MSN_financial_statements_2020_consolidated_extracted.txt",
+          "label": "Lợi nhuận sau thuế TNDN (60 = 50 - 51 - 52) (mang sang trang sau)",
+          "template": "TT200",
+          "source_scale": "MILLION",
+          "current_raw": "1.395.013",
+          "next_report_prior_raw": "1.395.013",
+          "table_id": "table_e91f3f5e83bc5475f3177d373b6eb21fadc41d8109b3a46db045729aeb5527a3",
+          "cell_ids": [
+            "cell_dc3634280a334e6e733fbd34589243c759d29398dbf7dc66b305a398ef778939",
+            "cell_a724c4f5c2712aeaa11fa08a260186e9e020ccf0c865913b100b22bc1814bd8b"
+          ]
+        }
+      ]
+    },
+    {
+      "question_id": "wide-120-average-gvr-hop_nhat-2015-2016",
+      "operation": "AVERAGE",
+      "years": [
+        2015,
+        2016
+      ],
+      "answer": "2406436677049.5",
+      "sources": [
+        {
+          "report_id": "report_5dde01b622fb94e863ce0e52c3dbe75f6d2e4aa6c259578e72ec7fcb0ec59a1c",
+          "source_ref": "GVR/2015/GVR_financial_statements_2015_consolidated/GVR_financial_statements_2015_consolidated_extracted.txt",
+          "label": "18. Tổng lợi nhuận sau thuế thu nhập doanh nghiệp",
+          "template": "TT200",
+          "source_scale": "RAW",
+          "current_raw": "2.016.269.981.899",
+          "next_report_prior_raw": "2.016.269.981.899",
+          "table_id": "table_5f08783155879171702a274189e44a412b03120db8bae48c5d642c3be619a62a",
+          "cell_ids": [
+            "cell_0ef2e716370ab7cb95e83aa6d314403f6527901ab738945a232d281c305df3a2"
+          ]
+        },
+        {
+          "report_id": "report_2a75fcc60552b021b6f45b5be7c0b269b7d9e190ce16d366827bda21c6e94ac0",
+          "source_ref": "GVR/2016/GVR_financial_statements_2016_consolidated/GVR_financial_statements_2016_consolidated_extracted.txt",
+          "label": "18. Tổng lợi nhuận sau thuế thu nhập doanh nghiệp",
+          "template": "TT200",
+          "source_scale": "RAW",
+          "current_raw": "2.796.603.372.200",
+          "next_report_prior_raw": "2.796.603.372.200",
+          "table_id": "table_09b17646b83f9e244a0ed50e777371a3da6154491341adc235eabf13d22623f8",
+          "cell_ids": [
+            "cell_84763631e2d7140328d9c6530cf74c4551edaae04d296c28aa88c6e0849b4bf3"
+          ]
+        }
+      ]
+    },
+    {
+      "question_id": "wide-121-average-hhs-hop_nhat-2018-2019",
+      "operation": "AVERAGE",
+      "years": [
+        2018,
+        2019
+      ],
+      "answer": "194631820192",
+      "sources": [
+        {
+          "report_id": "report_31a6aaa5c3af5464eb4ebd359be7d7f15b43efc83291608f5d773c6b32a63abc",
+          "source_ref": "HHS/2018/HHS_financial_statements_2018_consolidated/HHS_financial_statements_2018_consolidated_extracted.txt",
+          "label": "18. Lợi nhuận sau thuế thu nhập doanh nghiệp (60=50 - 51)",
+          "template": "TT200",
+          "source_scale": "RAW",
+          "current_raw": "194.003.598.471",
+          "next_report_prior_raw": "194.003.598.471",
+          "table_id": "table_93ee99e6530f00e36669119cd454ef8cdff39eac52f33330b4f7d5af5db43a73",
+          "cell_ids": [
+            "cell_d533e11543d61f12adc89d474e26b5dc0eb0d48573a4d56ce59c9f5dd2233940"
+          ]
+        },
+        {
+          "report_id": "report_6e9a4641ca3763456f3a35b0409d85dbc5580b3b15f79f1971fe483cc2defbd4",
+          "source_ref": "HHS/2019/HHS_financial_statements_2019_consolidated/HHS_financial_statements_2019_consolidated_extracted.txt",
+          "label": "18. Lợi nhuận sau thuế thu nhập doanh nghiệp (60=50 - 51)",
+          "template": "TT200",
+          "source_scale": "RAW",
+          "current_raw": "195.260.041.913",
+          "next_report_prior_raw": "195.260.041.913",
+          "table_id": "table_a4cde24ff2dbd7055910b236f3a471b660c36ecd148bb3690418be5b551e0672",
+          "cell_ids": [
+            "cell_36f9601792bced45e2967b67361cf3f024bdbc4645107cebcca77b4f7aaccfe2"
+          ]
+        }
+      ]
+    },
+    {
+      "question_id": "wide-122-average-mml-hop_nhat-2017-2018",
+      "operation": "AVERAGE",
+      "years": [
+        2017,
+        2018
+      ],
+      "answer": "514557014863.5",
+      "sources": [
+        {
+          "report_id": "report_f9271348a8b767b2f1f5cd19d4816c3ece9c10bda67045924351f2c1d4ec3541",
+          "source_ref": "MML/2017/MML_financial_statements_2017_consolidated/MML_financial_statements_2017_consolidated_extracted.txt",
+          "label": "Lợi nhuận sau thuế TNDN(60 = 50 - 51 - 52)(mang sang trang sau)",
+          "template": "TT200",
+          "source_scale": "RAW",
+          "current_raw": "796.955.754.583",
+          "next_report_prior_raw": "796.955.754.583",
+          "table_id": "table_fca22e95eb2e2eeb48e07b961ffe6974c490c89d270d63df5bf2f7cd9e74fb08",
+          "cell_ids": [
+            "cell_1f579ed4d5addc516987d6572d6624fa14754c93dfe1900d32ea2e6b40d08e58",
+            "cell_65da4eba4dfe8d4ce9b098e46a83765d819b12e97fb4b064e29db116d129c77b"
+          ]
+        },
+        {
+          "report_id": "report_71049025c326e4718597aabd9d74c195fcd1c0a5c3b56626e6d2580a583d258d",
+          "source_ref": "MML/2018/MML_financial_statements_2018_consolidated/MML_financial_statements_2018_consolidated_extracted.txt",
+          "label": "Lợi nhuận sau thuế TNDN (60 = 50 - 51 - 52)(mang sang trang sau)",
+          "template": "TT200",
+          "source_scale": "RAW",
+          "current_raw": "232.158.275.144",
+          "next_report_prior_raw": "232.158.275.144",
+          "table_id": "table_8f1ccf2311055d8f712ee74ee283cb8018ce6c6d98bbb66963a395b6b1c60d85",
+          "cell_ids": [
+            "cell_1a9445a5f1dfaa0ae6aca22133fc0f6753813af300f3f62fcc95e59029a7ad29",
+            "cell_e8b5309b576bb2306e9d24750476c0506fcccbf69a4b6bc7020db87210ce7d73"
+          ]
+        }
+      ]
+    },
+    {
+      "question_id": "wide-123-average-ijc-rieng-2021-2022",
+      "operation": "AVERAGE",
+      "years": [
+        2021,
+        2022
+      ],
+      "answer": "558617101006.5",
+      "sources": [
+        {
+          "report_id": "report_3deaa6b532c69e4cf3581dc2358d2a5d003494b3067e2c3763c72b657e4e58b0",
+          "source_ref": "IJC/2021/IJC_financial_statements_2021_separate/IJC_financial_statements_2021_separate_extracted.txt",
+          "label": "Lợi nhuận sau thuế thu nhập doanh nghiệp",
+          "template": "TT200",
+          "source_scale": "RAW",
+          "current_raw": "623.563.232.808",
+          "next_report_prior_raw": "623.563.232.808",
+          "table_id": "table_02fe84d2aa383a04aed337c68ac16e71709bac4ec293717d1c8d5f98862adb95",
+          "cell_ids": [
+            "cell_dd1dbc18e5948897b57be496701856195fdd03bc44296feb5dd08a64ca41b637"
+          ]
+        },
+        {
+          "report_id": "report_941158702da5aeaf2140fde4f7045bd0e26d60863fb447bd2807833ca5fd0d58",
+          "source_ref": "IJC/2022/IJC_financial_statements_2022_separate/IJC_financial_statements_2022_separate_extracted.txt",
+          "label": "17. Lợi nhuận sau thuế thu nhập doanh nghiệp",
+          "template": "TT200",
+          "source_scale": "RAW",
+          "current_raw": "493.670.969.205",
+          "next_report_prior_raw": "493.670.969.205",
+          "table_id": "table_4b77f88cf122560357800df951a08e1359ee0353c6c13da776139a8696bb7c26",
+          "cell_ids": [
+            "cell_a5aa6868ce1d660fded548ff227a500d4df61defeebcd27b903ce1b23b454254"
+          ]
+        }
+      ]
+    },
+    {
+      "question_id": "wide-124-average-plx-rieng-2021-2022",
+      "operation": "AVERAGE",
+      "years": [
+        2021,
+        2022
+      ],
+      "answer": "1250146982997",
+      "sources": [
+        {
+          "report_id": "report_56910b8f8f2c901777dfeed1f75c5ccbe73ce255b6b27d550a26cd5b2b9b3c06",
+          "source_ref": "PLX/2021/PLX_financial_statements_2021_separate/PLX_financial_statements_2021_separate_extracted.txt",
+          "label": "Lợi nhuận sau thuế TNDN (60 = 50 - 51 - 52)",
+          "template": "TT200",
+          "source_scale": "RAW",
+          "current_raw": "1.637.269.716.135",
+          "next_report_prior_raw": "1.637.269.716.135",
+          "table_id": "table_bfcc930516214abc20f2d6bc7bf0ec2115c2b776a513ed53395a9d99a30ff9b4",
+          "cell_ids": [
+            "cell_080e3dc0f8909c1eb440e1dbd543b3d6dd625e6d67868a7a1950ea629af2b497"
+          ]
+        },
+        {
+          "report_id": "report_3b87826ba66059b4582654d2945196c6e2fbf0d54c8cd772ab0b45a5a4734c1f",
+          "source_ref": "PLX/2022/PLX_financial_statements_2022_separate/PLX_financial_statements_2022_separate_extracted.txt",
+          "label": "Lợi nhuận sau thuế TNDN (60 = 50 - 51 - 52)",
+          "template": "TT200",
+          "source_scale": "RAW",
+          "current_raw": "863.024.249.859",
+          "next_report_prior_raw": "863.024.249.859",
+          "table_id": "table_8f90db35035f5d684627a46c867c6843432802499ca988e7ac4c174c184db14d",
+          "cell_ids": [
+            "cell_fb54370b571e8eae4b56776199a2c15c0d7801f029715dbd4d308fd2c8529482"
+          ]
+        }
+      ]
+    },
+    {
+      "question_id": "wide-125-average-gex-rieng-2021-2022",
+      "operation": "AVERAGE",
+      "years": [
+        2021,
+        2022
+      ],
+      "answer": "413255124461.5",
+      "sources": [
+        {
+          "report_id": "report_4bda7c6567d341e603e7e9ef08a2ec3d76128127933cf1dda8f9e3fb6195ac9b",
+          "source_ref": "GEX/2021/GEX_financial_statements_2021_separate/GEX_financial_statements_2021_separate_extracted.txt",
+          "label": "Lợi nhuận sau thuế thu nhập doanh nghiệp (60=50-51)",
+          "template": "TT200",
+          "source_scale": "RAW",
+          "current_raw": "117.515.035.400",
+          "next_report_prior_raw": "117.515.035.400",
+          "table_id": "table_9d1a5b7c2f61841b9ceaae7a2a9f972c1d1cde6926f60b9a18485fe891ed88bd",
+          "cell_ids": [
+            "cell_f6a25857960feea85b4b40a8ba913711b85d35a447e3c3bc090624ce86f49654"
+          ]
+        },
+        {
+          "report_id": "report_d01a88e5363a6ec57d5d99ff8b0272d09c94918d11be8da5b2acf6f4595ac17d",
+          "source_ref": "GEX/2022/GEX_financial_statements_2022_separate/GEX_financial_statements_2022_separate_extracted.txt",
+          "label": "Lợi nhuận sau thuế thu nhập doanh nghiệp (60=50-51)",
+          "template": "TT200",
+          "source_scale": "RAW",
+          "current_raw": "708.995.213.523",
+          "next_report_prior_raw": "708.995.213.523",
+          "table_id": "table_14da32829243863ea8a1ca9ca009093db782fe29c095fb3cc8e6e87f06cb5190",
+          "cell_ids": [
+            "cell_5b0fdd99bad87eb3ce008a3f22e11bd11ee02f765492bc29455d0761cf6157b6"
+          ]
+        }
+      ]
+    },
+    {
+      "question_id": "wide-126-average-mpc-hop_nhat-2020-2021",
+      "operation": "AVERAGE",
+      "years": [
+        2020,
+        2021
+      ],
+      "answer": "665189677779.5",
+      "sources": [
+        {
+          "report_id": "report_f9576afc82472cd61d34efbf40894569107c08ae46de99ed08baa8d5f13a68a1",
+          "source_ref": "MPC/2020/MPC_financial_statements_2020_consolidated/MPC_financial_statements_2020_consolidated_extracted.txt",
+          "label": "Lợi nhuận sau thuế TNDN (mang sang trang sau) (60 = 50 - 51 - 52)",
+          "template": "TT200",
+          "source_scale": "RAW",
+          "current_raw": "673.787.107.315",
+          "next_report_prior_raw": "673.787.107.315",
+          "table_id": "table_fa12b15ed5aec2223c88b38cda795bd7b8a1598461199a0a4853362c4b7b3cce",
+          "cell_ids": [
+            "cell_7081fe420715b10eeb14bd72c7953153bbfb7d5b20581218df08cf2ee32347db"
+          ]
+        },
+        {
+          "report_id": "report_3b5399ac729c8642b74c4f49940817400e400e53c4740e4f41dd46cd1d3279ec",
+          "source_ref": "MPC/2021/MPC_financial_statements_2021_consolidated/MPC_financial_statements_2021_consolidated_extracted.txt",
+          "label": "Lợi nhuận sau thuế TNDN (mang sang trang sau) (60 = 50 - 51 - 52)",
+          "template": "TT200",
+          "source_scale": "RAW",
+          "current_raw": "656.592.248.244",
+          "next_report_prior_raw": "656.592.248.244",
+          "table_id": "table_bca4a03b2d994527f7ddf97d282f6d2ffc40518807c11356c27817c6829579e0",
+          "cell_ids": [
+            "cell_8c37d027aad43647c7c50b8629a9e71489f25d514f0a6faea853ba95402fb865",
+            "cell_f9a276e4ca018a556b69ff7ada99a3c622f19a51818be0099a293a5a54487d9d"
+          ]
+        }
+      ]
+    },
+    {
+      "question_id": "wide-127-average-nkg-hop_nhat-2017-2018",
+      "operation": "AVERAGE",
+      "years": [
+        2017,
+        2018
+      ],
+      "answer": "382423421688",
+      "sources": [
+        {
+          "report_id": "report_f601051ee9a3bb9ad1b5f408d85d8fc78d0a2f270a9a6de8bef2d9b90b76cc82",
+          "source_ref": "NKG/2017/NKG_financial_statements_2017_consolidated/NKG_financial_statements_2017_consolidated_extracted.txt",
+          "label": "Lợi nhuận sau thuế TNDN",
+          "template": "TT200",
+          "source_scale": "RAW",
+          "current_raw": "707.512.319.409",
+          "next_report_prior_raw": "707.512.319.409",
+          "table_id": "table_a225fc6aaf5c362ffb73b7349e6502847ba33f709806eff236e6b1ebbc3e7072",
+          "cell_ids": [
+            "cell_e17695794028339ba4bd1fc6c90f8cdbd6086f3cb6843f75d825b12830688639"
+          ]
+        },
+        {
+          "report_id": "report_0a13bd52f42286c32a08c861d6d0bef124dd815c01018cd3cf9f1924537a9307",
+          "source_ref": "NKG/2018/NKG_financial_statements_2018_consolidated/NKG_financial_statements_2018_consolidated_extracted.txt",
+          "label": "Lợi nhuận sau thuế TNDN",
+          "template": "TT200",
+          "source_scale": "RAW",
+          "current_raw": "57.334.523.967",
+          "next_report_prior_raw": "57.334.523.967",
+          "table_id": "table_01632202e264410417c7e0442c4b64c21e6ed35aba535734e3c20bbc2d51cf76",
+          "cell_ids": [
+            "cell_a23f5b90b1d071d9c6ad16c1a1680d9100f407f5c7fbad1aab2ef2188b09eb2e"
+          ]
+        }
+      ]
+    },
+    {
+      "question_id": "wide-128-average-ssb-hop_nhat-2022-2023",
+      "operation": "AVERAGE",
+      "years": [
+        2022,
+        2023
+      ],
+      "answer": "3864941500000",
+      "sources": [
+        {
+          "report_id": "report_a2c8194310ce7bd58520553ed15d679c164d8b4ef1ae341445065a8ce4994640",
+          "source_ref": "SSB/2022/SSB_financial_statements_2022_consolidated/SSB_financial_statements_2022_consolidated_extracted.txt",
+          "label": "Lợi nhuận sau thuế",
+          "template": "BANK",
+          "source_scale": "MILLION",
+          "current_raw": "4.052.928",
+          "next_report_prior_raw": "4.052.928",
+          "table_id": "table_7ed027ac857f2175ee9741dbd67464219e2c26d1b779f1c6056d609836dc17c3",
+          "cell_ids": [
+            "cell_1fb72bb7788124964194f869c153b3d74b692d147f930541eb6d51f12c499672"
+          ]
+        },
+        {
+          "report_id": "report_e6af480bfa4468f359a5a6edf0403f8e5c7653d59a1f89f9f0433757fef76e4a",
+          "source_ref": "SSB/2023/SSB_financial_statements_2023_consolidated/SSB_financial_statements_2023_consolidated_extracted.txt",
+          "label": "Lợi nhuận sau thuế",
+          "template": "BANK",
+          "source_scale": "MILLION",
+          "current_raw": "3.676.955",
+          "next_report_prior_raw": "3.676.955",
+          "table_id": "table_41ef0a8baa410de4b0d9de3a3ecf0d6a7a3a9d5f6746b278e4e1d7a26a48b648",
+          "cell_ids": [
+            "cell_f116a66385ea93a244adffc043a09620fd0af37d05d61198abd400be50b33cfa"
+          ]
+        }
+      ]
+    },
+    {
+      "question_id": "wide-129-average-dpm-hop_nhat-2022-2023",
+      "operation": "AVERAGE",
+      "years": [
+        2022,
+        2023
+      ],
+      "answer": "3057354103382.5",
+      "sources": [
+        {
+          "report_id": "report_54ac205ed7add00b40551d113428ca3cbf7660bb136590414ad76f0d80e4f006",
+          "source_ref": "DPM/2022/DPM_financial_statements_2022_consolidated/DPM_financial_statements_2022_consolidated_extracted.txt",
+          "label": "Lợi nhuận sau thuế thu nhập doanh nghiệp (60=50-51-52)",
+          "template": "TT200",
+          "source_scale": "RAW",
+          "current_raw": "5.584.891.286.243",
+          "next_report_prior_raw": "5.584.891.286.243",
+          "table_id": "table_357cce5ff4450d622c19261e8457ec0e92467d70b0c2173cf0fa252234c160c6",
+          "cell_ids": [
+            "cell_48bdb5e9d62d7700a0868d7e99b0a08448e5381c51fd7e98332321a7ef2f20b8"
+          ]
+        },
+        {
+          "report_id": "report_af9ee9546b896251ad24e4969248c226c95d7df3bda9739f1bb20567946ca46b",
+          "source_ref": "DPM/2023/DPM_financial_statements_2023_consolidated/DPM_financial_statements_2023_consolidated_extracted.txt",
+          "label": "Lợi nhuận sau thuế thu nhập doanh nghiệp (60=50-51-52)",
+          "template": "TT200",
+          "source_scale": "RAW",
+          "current_raw": "529.816.920.522",
+          "next_report_prior_raw": "529.816.920.522",
+          "table_id": "table_1a796fbaf0fc38315e85251fd4a8eac80d1bb3f677087ac9a7ebdb54c802b09f",
+          "cell_ids": [
+            "cell_1915f53d3b2c0b1084051a60f7753794bc46b6bb052f66ac7f65d756c6d865ec"
+          ]
+        }
+      ]
+    },
+    {
+      "question_id": "wide-130-average-kbc-hop_nhat-2023-2024",
+      "operation": "AVERAGE",
+      "years": [
+        2023,
+        2024
+      ],
+      "answer": "1334018420732.5",
+      "sources": [
+        {
+          "report_id": "report_5e3e030fbced5f96fa2359230fb69b7d5f92568c14f8ae8fd4e051624558c509",
+          "source_ref": "KBC/2023/KBC_financial_statements_2023_consolidated/KBC_financial_statements_2023_consolidated_extracted.txt",
+          "label": "18. Lợi nhuận sau thuế TNDN",
+          "template": "TT200",
+          "source_scale": "RAW",
+          "current_raw": "2.245.003.412.330",
+          "next_report_prior_raw": "2.245.003.412.330",
+          "table_id": "table_3835b2dbf463dc553c35136a99ab943acf1b65d34629cd0cfebc24e5fb2ed7df",
+          "cell_ids": [
+            "cell_6da993d3c18415df4fcb62ec374397e8efbc1caaab5d106cee8ebb1e16d8d6ee"
+          ]
+        },
+        {
+          "report_id": "report_8d027fec45d8e5d16112d82d06842f015247ab52fe692a2b6a0f355f72695b9a",
+          "source_ref": "KBC/2024/KBC_financial_statements_2024_consolidated/KBC_financial_statements_2024_consolidated_extracted.txt",
+          "label": "18. Lợi nhuận sau thuế TNDN",
+          "template": "TT200",
+          "source_scale": "RAW",
+          "current_raw": "423.033.429.135",
+          "next_report_prior_raw": "423.033.429.135",
+          "table_id": "table_ff579c1824ebfa617a87537476fc76efbce2a462dfa87091cc351bfec1058d99",
+          "cell_ids": [
+            "cell_868b42ef4410837f23daad88fada398b1592795edc30e43945d383b9af0cbac6"
+          ]
+        }
+      ]
+    },
+    {
+      "question_id": "wide-131-average-msr-rieng-2023-2024",
+      "operation": "AVERAGE",
+      "years": [
+        2023,
+        2024
+      ],
+      "answer": "400954000",
+      "sources": [
+        {
+          "report_id": "report_bbb31c5ed798f339876b2fc8e5abee8330666d7df609ba427c61d8e819f09445",
+          "source_ref": "MSR/2023/MSR_financial_statements_2023_separate/MSR_financial_statements_2023_separate_extracted.txt",
+          "label": "Lợi nhuận sau thuế TNDN (60 = 50 - 51)",
+          "template": "TT200",
+          "source_scale": "THOUSAND",
+          "current_raw": "359.021",
+          "next_report_prior_raw": "359.021",
+          "table_id": "table_cd70d52274e476bf8cdd6928088e6ec1ac21f82f15fb7cf1f71fdf7ce6f1aca7",
+          "cell_ids": [
+            "cell_a3fe8a164a92b196d78dafb8dec2d8b4ee946b3b854ba6f4215d5882e54e2cd7"
+          ]
+        },
+        {
+          "report_id": "report_bad0b78f97fa7b4a07ae4e971f7073c070901760307ce94e8bfaaf2eef1d2006",
+          "source_ref": "MSR/2024/MSR_financial_statements_2024_separate/MSR_financial_statements_2024_separate_extracted.txt",
+          "label": "Lợi nhuận sau thuế TNDN (60 = 50 - 51)",
+          "template": "TT200",
+          "source_scale": "THOUSAND",
+          "current_raw": "442.887",
+          "next_report_prior_raw": "442.887",
+          "table_id": "table_38e2917b18e2fae53ef3500ea9f9dcba354ae4a752b11a0f242f9c6a7e29c744",
+          "cell_ids": [
+            "cell_0034e9656379bc803d667d57e9b1c006040f8d562646087ac2a1dcb7a7d09e8c"
+          ]
+        }
+      ]
+    },
+    {
+      "question_id": "wide-132-average-qns-hop_nhat-2016-2017",
+      "operation": "AVERAGE",
+      "years": [
+        2016,
+        2017
+      ],
+      "answer": "1218337566919",
+      "sources": [
+        {
+          "report_id": "report_1b922aa241acbc6756852d2fa1a39e9e3c5c48e87ad34c8063be10e315cdda18",
+          "source_ref": "QNS/2016/QNS_financial_statements_2016_consolidated/QNS_financial_statements_2016_consolidated_extracted.txt",
+          "label": "18. Lợi nhuận sau thuế TNDN",
+          "template": "TT200",
+          "source_scale": "RAW",
+          "current_raw": "1.409.876.421.116",
+          "next_report_prior_raw": "1.409.876.421.116",
+          "table_id": "table_cc08166f870507f5c2e31d5b012302e6ec6bc21cfcdf89a856bb6d4d8912bfb2",
+          "cell_ids": [
+            "cell_b0d3a4179c64547679cc6777e188e70a1a133bd86ee18546bcf5906967e2f9f7"
+          ]
+        },
+        {
+          "report_id": "report_505583eacdc58d3815a618774928f4dcbef63bcef50d453bcb7f40dbcde41e8b",
+          "source_ref": "QNS/2017/QNS_financial_statements_2017_consolidated/QNS_financial_statements_2017_consolidated_extracted.txt",
+          "label": "Lợi nhuận sau thuế TNDN",
+          "template": "TT200",
+          "source_scale": "RAW",
+          "current_raw": "1.026.798.712.722",
+          "next_report_prior_raw": "1.026.798.712.722",
+          "table_id": "table_d2f94f5842f1e22734c9c5cf43d5a2465dd5df015afac1f9a5883a22847b122f",
+          "cell_ids": [
+            "cell_7118185a2f6b0b85e31eeb6947309e5342a9bf316da24a8bb571c4dbab155419"
+          ]
+        }
+      ]
+    },
+    {
+      "question_id": "wide-133-average-vre-rieng-2020-2021",
+      "operation": "AVERAGE",
+      "years": [
+        2020,
+        2021
+      ],
+      "answer": "731248500000",
+      "sources": [
+        {
+          "report_id": "report_d047ec6db56f3c9eaf118f52c22460867ea13ae7edbc938c1136e7ed0e5aadcf",
+          "source_ref": "VRE/2020/VRE_financial_statements_2020_separate/VRE_financial_statements_2020_separate_extracted.txt",
+          "label": "Lợi nhuận sau thuế TNDN (60 = 50 - 51 - 52)",
+          "template": "TT200",
+          "source_scale": "MILLION",
+          "current_raw": "1.005.105",
+          "next_report_prior_raw": "1.005.105",
+          "table_id": "table_232208cd6144d1678832598bd48ae58722bcb186277043e86484818cd958d89d",
+          "cell_ids": [
+            "cell_4b238a5248081205a7ac00a1cb444ef8c8bbba3c7f85916e49cd385dfe48d5b7"
+          ]
+        },
+        {
+          "report_id": "report_7ae8f269145a942493c512a1cd585bf76524d9ad75012ca7b133c56c9e3c7bfc",
+          "source_ref": "VRE/2021/VRE_financial_statements_2021_separate/VRE_financial_statements_2021_separate_extracted.txt",
+          "label": "Lợi nhuận sau thuế TNDN (60 = 50 - 51 - 52)",
+          "template": "TT200",
+          "source_scale": "MILLION",
+          "current_raw": "457.392",
+          "next_report_prior_raw": "457.392",
+          "table_id": "table_a677607a90c3f462ed29621105ed5f5cf45c653a29c18331bf72ad7b49728bfb",
+          "cell_ids": [
+            "cell_f4757b833f643ef6f704ff340f66f375a68aefa517af2182fefeccc15ddadec3"
+          ]
+        }
+      ]
+    },
+    {
+      "question_id": "wide-134-average-dbc-rieng-2023-2024",
+      "operation": "AVERAGE",
+      "years": [
+        2023,
+        2024
+      ],
+      "answer": "317324038623",
+      "sources": [
+        {
+          "report_id": "report_d8c9a7f26aafb6f8e86b9922fe1a780f23e3831fef0eb5bfce4094d64706917f",
+          "source_ref": "DBC/2023/DBC_financial_statements_2023_separate/DBC_financial_statements_2023_separate_extracted.txt",
+          "label": "16. Lợi nhuận sau thuế TNDN",
+          "template": "TT200",
+          "source_scale": "RAW",
+          "current_raw": "315.551.188.338",
+          "next_report_prior_raw": "315.551.188.338",
+          "table_id": "table_7bb1598d1ad237cdcdd4ba9dc3aa963fd89e9c46caf670b8417105fa377a4600",
+          "cell_ids": [
+            "cell_d0272ddb7c085f20a1cd639d3d5ca52c5a1411b62ee8569d8711d2dcabb2cb5b"
+          ]
+        },
+        {
+          "report_id": "report_50826084c880d94528c2084092dd3d871b99c59ccd114343bb0644c25b05088d",
+          "source_ref": "DBC/2024/DBC_financial_statements_2024_separate/DBC_financial_statements_2024_separate_extracted.txt",
+          "label": "17. Lợi nhuận sau thuế TNDN",
+          "template": "TT200",
+          "source_scale": "RAW",
+          "current_raw": "319.096.888.908",
+          "next_report_prior_raw": "319.096.888.908",
+          "table_id": "table_b2f9186084b3910dbe6e1de39a20f232192c033342161feffa215a092a495025",
+          "cell_ids": [
+            "cell_f1a2efef8ce66d0fb6a2e9c2a49a050980c2ea8f182727cf8ec27751e14b1f7f"
+          ]
+        }
+      ]
+    },
+    {
+      "question_id": "wide-135-average-vsc-hop_nhat-2023-2024",
+      "operation": "AVERAGE",
+      "years": [
+        2023,
+        2024
+      ],
+      "answer": "316780627485",
+      "sources": [
+        {
+          "report_id": "report_c3846adbf175db62b433463ff9ce7684815e9bd2b8146d75d8c395be3994a708",
+          "source_ref": "VSC/2023/VSC_financial_statements_2023_consolidated/VSC_financial_statements_2023_consolidated_extracted.txt",
+          "label": "Lợi nhuận sau thuế TNDN",
+          "template": "TT200",
+          "source_scale": "RAW",
+          "current_raw": "199.022.025.920",
+          "next_report_prior_raw": "199.022.025.920",
+          "table_id": "table_0764f83082b17dfc9cdd10d6d7f86b7ea503d51af20c68fd7bdf6b304f6bd1b2",
+          "cell_ids": [
+            "cell_94d5bd59c2fd4339fe1cf488a4ae4d2c0469c51e6be4aff67922208fe6665fa8"
+          ]
+        },
+        {
+          "report_id": "report_fe126cc0c8fea198b03b401634f227fc23e75786d0bda8c5132dcb2d5229601d",
+          "source_ref": "VSC/2024/VSC_financial_statements_2024_consolidated/VSC_financial_statements_2024_consolidated_extracted.txt",
+          "label": "Lợi nhuận sau thuế TNDN",
+          "template": "TT200",
+          "source_scale": "RAW",
+          "current_raw": "434.539.229.050",
+          "next_report_prior_raw": "434.539.229.050",
+          "table_id": "table_a05f12a49165856c19866ae075d567c03a3d7a92d4f94a9d383de6e6a13a5baa",
+          "cell_ids": [
+            "cell_de879d4c6a193566e4fc66c6c6d29efe1d45380336499599f415775be4c0ea3c"
+          ]
+        }
+      ]
+    },
+    {
+      "question_id": "wide-136-average-pvt-rieng-2023-2024",
+      "operation": "AVERAGE",
+      "years": [
+        2023,
+        2024
+      ],
+      "answer": "681124378819.5",
+      "sources": [
+        {
+          "report_id": "report_fbaee23e074bea76c1e1d6e4a814293219bba80d5ad21ed03025b3ad476858d8",
+          "source_ref": "PVT/2023/PVT_financial_statements_2023_separate/PVT_financial_statements_2023_separate_extracted.txt",
+          "label": "Lợi nhuận sau thuế thu nhập doanh nghiệp (60=50-51-52)",
+          "template": "TT200",
+          "source_scale": "RAW",
+          "current_raw": "736.074.592.960",
+          "next_report_prior_raw": "736.074.592.960",
+          "table_id": "table_87a3e7f4ff65f21fcbf7c176fbf1b32401e35056c2054bb92c83a3c7c5db35ac",
+          "cell_ids": [
+            "cell_e6ef4370dd9660f43cf73a5d9c01024e04c7a4a3cb06a9a115925447cad3b55c"
+          ]
+        },
+        {
+          "report_id": "report_123f01b90baca601570b645e3e7bffa556b77807b59a12327bc624d29ef21ab1",
+          "source_ref": "PVT/2024/PVT_financial_statements_2024_separate/PVT_financial_statements_2024_separate_extracted.txt",
+          "label": "Lợi nhuận sau thuế thu nhập doanh nghiệp (60=50-51-52)",
+          "template": "TT200",
+          "source_scale": "RAW",
+          "current_raw": "626.174.164.679",
+          "next_report_prior_raw": "626.174.164.679",
+          "table_id": "table_6797dcdc5274e75a33798354dca05584de70100538b51d9e96034ef7d7b7f382",
+          "cell_ids": [
+            "cell_887a4f241d8f55a164024b05b8b846073e662dc077d1a25549fc473fdb4bbd38"
+          ]
+        }
+      ]
+    },
+    {
+      "question_id": "wide-137-average-vjc-hop_nhat-2019-2020",
+      "operation": "AVERAGE",
+      "years": [
+        2019,
+        2020
+      ],
+      "answer": "1938005231114",
+      "sources": [
+        {
+          "report_id": "report_632e5344af885723cf634b21285b4a5865b924c7ee3710bea1d63b0a46cdfbc8",
+          "source_ref": "VJC/2019/VJC_financial_statements_2019_consolidated/VJC_financial_statements_2019_consolidated_extracted.txt",
+          "label": "Lợi nhuận sau thuế TNDN (60 = 50 - 51 - 52)",
+          "template": "TT200",
+          "source_scale": "RAW",
+          "current_raw": "3.807.345.127.094",
+          "next_report_prior_raw": "3.807.345.127.094",
+          "table_id": "table_e6e599ff11d995ac9458201407fa95c95bade7831b90b124018643d1712ebf53",
+          "cell_ids": [
+            "cell_4a04945deebd8dae7a5548553cec6563da65f05a677844ac5523d393cac6df2e"
+          ]
+        },
+        {
+          "report_id": "report_df88df5dcc1b36606f062dc326bdde406151fafc7a4bccd91fb8c6db49f93be8",
+          "source_ref": "VJC/2020/VJC_financial_statements_2020_consolidated/VJC_financial_statements_2020_consolidated_extracted.txt",
+          "label": "Lợi nhuận sau thuế TNDN",
+          "template": "TT200",
+          "source_scale": "RAW",
+          "current_raw": "68.665.335.134",
+          "next_report_prior_raw": "68.665.335.134",
+          "table_id": "table_0228c72c8a717f512db92476db1868e692597145a370b2ccab094f4933030be2",
+          "cell_ids": [
+            "cell_4d8c478cc58928141dbab508f4df2cedc5697f5923d548f4a67d264b794ae2be"
+          ]
+        }
+      ]
+    },
+    {
+      "question_id": "wide-138-average-gas-rieng-2016-2017",
+      "operation": "AVERAGE",
+      "years": [
+        2016,
+        2017
+      ],
+      "answer": "8390479391906",
+      "sources": [
+        {
+          "report_id": "report_1971bd4eb8dcd604a5ef4e3bb949a60c7e0a11152c4d1aa803ec52f37d718f6d",
+          "source_ref": "GAS/2016/GAS_financial_statements_2016_separate/GAS_financial_statements_2016_separate_extracted.txt",
+          "label": "16. Lợi nhuận sau thuế thu nhập doanh nghiệp (60=50-51)",
+          "template": "TT200",
+          "source_scale": "RAW",
+          "current_raw": "7.110.493.250.947",
+          "next_report_prior_raw": "7.110.493.250.947",
+          "table_id": "table_3b84f294c7fd14b69f29b4f2ed29b1c4931c79e1c30cf8dd1531466f32307601",
+          "cell_ids": [
+            "cell_13d0356bfe1bf71967a68a232a836d988cf8e1f4b2c6d84ecddc288b8c64cb79"
+          ]
+        },
+        {
+          "report_id": "report_bd85bcb6f4ccff25f4086dbc209bd3cf7fc52492c8f9dbc2c77bd69dda53c415",
+          "source_ref": "GAS/2017/GAS_financial_statements_2017_separate/GAS_financial_statements_2017_separate_extracted.txt",
+          "label": "16. Lợi nhuận sau thuế thu nhập doanh nghiệp (60=50-51)",
+          "template": "TT200",
+          "source_scale": "RAW",
+          "current_raw": "9.670.465.532.865",
+          "next_report_prior_raw": "9.670.465.532.865",
+          "table_id": "table_c8395e28279cddce93c7245dc2993f96c81da21af3c1462cd3f5d6d424053aef",
+          "cell_ids": [
+            "cell_53b1f2a9a2e8c0c16395378179c6d6bfee9b980829dfeca3d66fe8292db3783e"
+          ]
+        }
+      ]
+    },
+    {
+      "question_id": "wide-139-average-scr-rieng-2015-2016",
+      "operation": "AVERAGE",
+      "years": [
+        2015,
+        2016
+      ],
+      "answer": "75553766221",
+      "sources": [
+        {
+          "report_id": "report_0007d839c9e1cd0dd9946806cf30d211669822d3afd53875d43e17c5fae20857",
+          "source_ref": "SCR/2015/SCR_financial_statements_2015_separate/SCR_financial_statements_2015_separate_extracted.txt",
+          "label": "Lợi nhuận sau thuế TNDN (60 = 50 - 51 - 52)",
+          "template": "TT200",
+          "source_scale": "RAW",
+          "current_raw": "61.524.594.416",
+          "next_report_prior_raw": "61.524.594.416",
+          "table_id": "table_0d365d42274811279811a79fb613cfef64fdf1e359a9b86ff3944d9ea8ce3794",
+          "cell_ids": [
+            "cell_34daaf4a81ccd5852db21eaf89d4d0e588e72c4a7bd27c1550377302006af627"
+          ]
+        },
+        {
+          "report_id": "report_22cc7ac926a9ef344d2e0117af002374c93adecf42189bb6941a89c9317483ce",
+          "source_ref": "SCR/2016/SCR_financial_statements_2016_separate/SCR_financial_statements_2016_separate_extracted.txt",
+          "label": "Lợi nhuận sau thuế TNDN (60 = 50 - 51 - 52)",
+          "template": "TT200",
+          "source_scale": "RAW",
+          "current_raw": "89.582.938.026",
+          "next_report_prior_raw": "89.582.938.026",
+          "table_id": "table_175ec14f41335ddcea7f7d2ddc0c614625bc8756311db578d0333336f54a9c6f",
+          "cell_ids": [
+            "cell_f4303e6833411b313aa899dce42ee1aa2c98cd4ebf98db82af79012f287dc74a"
+          ]
+        }
+      ]
+    }
+  ]
+}

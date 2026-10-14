@@ -1,0 +1,57 @@
+# Sandbox host configuration (ADR-072). Read by src/sandbox/host.py; select
+# another file with SANDBOX_CONFIG=<path>.
+#
+# Isolation mode: M7_SANDBOX_ISOLATION (applies to the M7 and Text-to-Pandas
+# workers alike):
+#
+#   local            development/test boundary of the host OS:
+#                      Linux   -> posix-rlimit (RLIMIT_CPU/AS/NPROC/NOFILE/FSIZE/CORE)
+#                      macOS   -> darwin-sandbox-exec (no network, no writes,
+#                                 no fork) + rlimits
+#                      Windows -> windows-job-object (memory, CPU time, one
+#                                 process, kill-on-close, UI restrictions)
+#                    plus, everywhere: exact minimal environment, empty
+#                    read-only cwd, parent RSS monitor, wall-clock kill, and the
+#                    in-process audit guards (files, sockets, processes).
+#   linux-nsjail-v1  production on a Linux host with namespaces + cgroup v2
+#                    (pinned /etc/ai-financial/*-nsjail.cfg, fingerprinted).
+#   container-v1     production on Linux, macOS (Docker Desktop/Podman) or
+#                    Windows (Docker Desktop/Podman): the Linux worker in a
+#                    digest-pinned image with no network, read-only root,
+#                    no capabilities, no-new-privileges, pids/memory/CPU caps
+#                    and an unprivileged user. Build: deploy/sandbox/container/.
+#
+# Only `local` (Linux) and the reduced NsJail profile have been measured on
+# this repository's Linux host. Windows/macOS are covered by offline tests and
+# the CI matrix in .github/workflows/sandbox-platforms.yml.
+
+# Concurrent workers per process and isolation mode. Above the cap a request
+# waits up to admission_timeout_ms for a slot, then fails closed with
+# CAPACITY_EXCEEDED. Override with M7_MAX_CONCURRENT_WORKERS /
+# T2P_MAX_CONCURRENT_WORKERS.
+[capacity.m7]
+default = 64
+# ADR-071: at 64 wrapped M7 workers 7/128 hit the 1,500 ms wall clock; 32 had
+# no failure.
+"linux-nsjail-v1" = 32
+"container-v1" = 16
+
+[capacity.t2p]
+default = 32
+"linux-nsjail-v1" = 32
+"container-v1" = 8
+
+[admission_timeout_ms]
+m7 = 5000
+t2p = 30000
+
+[container]
+# Override with SANDBOX_CONTAINER_RUNTIME / SANDBOX_CONTAINER_IMAGE. The image
+# must be pinned by digest: <name>@sha256:<64 hex>.
+runtime = "docker"
+image = ""
+project_root = "/opt/ai-financial"
+python = "/usr/local/bin/python"
+user = "65534:65534"
+cpus = 1
+pids_limit = 8

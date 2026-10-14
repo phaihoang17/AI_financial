@@ -2,6 +2,7 @@
 
 import argparse
 from collections import Counter
+from dataclasses import replace
 import json
 from pathlib import Path
 import sys
@@ -39,6 +40,11 @@ def main(argv=None):
     parser.add_argument("--raw-corpus", required=True)
     parser.add_argument("--output", required=True)
     parser.add_argument("--top-k", type=int, default=10)
+    parser.add_argument("--serving-config",
+                        help="BGE embedding/reranker endpoints JSON (deploy/serving/retrieval-endpoints.json); "
+                             "default loads the pinned models in-process on CPU")
+    parser.add_argument("--resume", action="store_true",
+                        help="keep finished states in --output and run only the remaining questions")
     args = parser.parse_args(argv)
     output = Path(args.output)
     output.parent.mkdir(parents=True, exist_ok=True)
@@ -49,13 +55,26 @@ def main(argv=None):
         temporary.replace(output)
 
     try:
-        client = deepseek_client(args.env_file)
+        generations = []
+        client = replace(deepseek_client(args.env_file), observer=generations.append)
         questions = load_questions(args.questions)
+        served = {}
+        if args.serving_config:
+            from src.serving.client import HttpTransport, OpenAICompatibleClient
+            from src.serving.retrieval_serving import serving_bge_reranker, serving_query_encoder
+            from src.serving.schemas import ServingEndpoint
+            config = json.loads(Path(args.serving_config).read_text())
+            served = {
+                "query_encoder": serving_query_encoder(OpenAICompatibleClient(
+                    ServingEndpoint.from_dict(config["embedding"]), HttpTransport())),
+                "reranker": serving_bge_reranker(OpenAICompatibleClient(
+                    ServingEndpoint.from_dict(config["reranker"]), HttpTransport())),
+            }
         graph = build_live_graph(
             client, corpus_root=args.corpus_artifact, vector_root=args.vector_artifact,
             bm25_root=args.bm25_artifact, raw_root=args.raw_corpus,
             provenance_root=args.provenance_artifact, table_class_root=args.table_class_artifact,
-            top_k=args.top_k,
+            top_k=args.top_k, **served,
         )
     except Exception as error:
         save({"status": "BLOCKED", "established": False,
@@ -67,13 +86,35 @@ def main(argv=None):
               "measurement_source": "LIVE", "status": "RUNNING", "established": False,
               "corpus_artifact_id": versions["corpus"],
               "vector_artifact_id": versions["vector"], "bm25_artifact_id": versions["bm25"],
-              "model_id": client.endpoint.model_id, "states": [], "seconds_by_question": {}}
+              "model_id": client.endpoint.model_id,
+              "retrieval_models": "SERVED" if served else "IN_PROCESS_CPU", "states": [], "seconds_by_question": {},
+              "generations_by_question": {}, "runner_errors": {}}
+    if args.resume and output.is_file():
+        previous = json.loads(output.read_text())
+        identity = ("corpus_artifact_id", "vector_artifact_id", "bm25_artifact_id", "model_id")
+        if any(previous.get(key) != report[key] for key in identity):
+            raise SystemExit("--resume output was produced with different artifacts or model")
+        for key in ("states", "seconds_by_question", "generations_by_question"):
+            report[key] = previous.get(key, report[key])
+    done = {state["request_id"] for state in report["states"]}
     save(report)
     for case_id, question in questions:
+        if case_id in done:
+            continue
         start = time.monotonic()
-        state = graph.run(request_id=case_id, raw_question=question).state
+        generations.clear()
+        try:
+            state = graph.run(request_id=case_id, raw_question=question).state
+        except Exception as error:  # one failed request must not end a long measured run
+            report["runner_errors"][case_id] = f"{type(error).__name__}: {error}"
+            report["seconds_by_question"][case_id] = time.monotonic() - start
+            save(report)
+            print(f"{case_id}: RUNNER_ERROR {type(error).__name__}", file=sys.stderr, flush=True)
+            continue
         report["states"].append(state.to_dict())
         report["seconds_by_question"][case_id] = time.monotonic() - start
+        # Token usage and latency only; prompts and responses are never recorded.
+        report["generations_by_question"][case_id] = list(generations)
         for attempt in state.attempts:
             if attempt.binding_ref is not None:
                 graph.dependencies.binding_store.discard(attempt.binding_ref)

@@ -98,6 +98,11 @@ class VectorSearcher:
         self._shard_paths = self._load_shard_paths()
 
     @property
+    def metadata_path(self) -> Path:
+        """The committed M2B SQLite mapping of every chunk to its corpus position."""
+        return self._metadata_path
+
+    @property
     def artifact_fingerprint(self) -> str:
         return self._compatibility.artifact_fingerprint
 

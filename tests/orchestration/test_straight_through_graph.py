@@ -422,6 +422,24 @@ def test_unavailable_table_class_is_typed_and_never_inferred_from_plan():
     assert deps.programmer.calls == []
 
 
+def test_unclassified_same_value_note_does_not_veto_the_classified_statement_cell():
+    current = query_understanding()
+    statement = fixture_pairs(("2015",), ("12.5",))[0]
+    note_item, note_location = fixture_pairs(("2015",), ("12.5",))[0]
+    note_item = replace(note_item, evidence_id="evidence-note-2015", table_ref="note-table")
+    note_location = replace(
+        note_location, location_id="evidence-note-2015", table_id="note-table",
+        source_cell_id="note-cell", table_class=None,
+    )
+    graph, deps = make_graph(current, [statement, (note_item, note_location)])
+
+    result = run(graph, current)
+
+    assert result.successful
+    assert [link.evidence_id for link in result.state.attempts[0].schema_links] == [statement[0].evidence_id]
+    assert len(deps.programmer.calls) == 1
+
+
 def test_programmer_rejection_stops_before_sandbox():
     current = query_understanding()
     graph, deps = make_graph(

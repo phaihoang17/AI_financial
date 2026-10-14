@@ -1,0 +1,10 @@
+{
+  "frozen_at": "2026-10-13T21:04:49+00:00",
+  "rule": "Holdout is scored once per frozen system; no fix may be derived from holdout results. Fixes come from gold/production-v1/dev only.",
+  "files": {
+    "all-questions.jsonl": "eede412b036a9004a2ca059d9a873c707f71351bf5aaae8a0a82a51e49533354",
+    "audit.json": "17ea043c41ed39c53cbc27e0ed72cecea4adc461ccf88a1abe6af9b2a772fd7e",
+    "gold.jsonl": "fd3adea82accfaccbdc4d3e1ec06c1f516c9a35ab41ee6fee362283af7626326",
+    "negative.jsonl": "137d72429df4939b9491dd245a09cc708ff28ebc0a05119ea1c906d3ce1b9069"
+  }
+}

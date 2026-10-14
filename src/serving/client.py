@@ -11,8 +11,11 @@ production stdlib transport and is exercised only against a live server.
 
 from __future__ import annotations
 
+import logging
+import time
+
 from dataclasses import dataclass
-from typing import Any, List, Mapping, Sequence
+from typing import Any, Callable, List, Mapping, Sequence
 
 from src.serving.schemas import ServingEndpoint, ServingError, ServingTask, Transport
 
@@ -49,6 +52,10 @@ class OpenAICompatibleClient:
 
     endpoint: ServingEndpoint
     transport: Transport
+    observer: Callable[[Mapping[str, Any]], None] | None = None
+    #: Chat route under ``base_url``; providers such as Gemini or DashScope
+    #: serve the OpenAI-compatible API under a different prefix.
+    chat_path: str = "/v1/chat/completions"
 
     def _post(self, path: str, payload: Mapping[str, Any]) -> Any:
         try:
@@ -74,11 +81,38 @@ class OpenAICompatibleClient:
         if not isinstance(messages, (list, tuple)) or not messages:
             raise ServingError("SERVING_INPUT_INVALID", "messages must be non-empty")
         payload = {"model": self.endpoint.model_id, "messages": list(messages), **params}
-        body = _as_mapping(self._post("/v1/chat/completions", payload))
+        started = time.monotonic()
+        body = _as_mapping(self._post(self.chat_path, payload))
         choices = body.get("choices")
         if not isinstance(choices, list) or not choices:
             raise ServingError("SERVING_PROTOCOL_INVALID", "response is missing choices")
-        message = _as_mapping(choices[0]).get("message")
+        choice = _as_mapping(choices[0])
+        finish_reason = choice.get("finish_reason")
+        error_code = "SERVING_RESPONSE_TRUNCATED" if finish_reason == "length" else None
+        logging.getLogger(__name__).info(
+            "generation model=%s finish_reason=%s usage=%s error_code=%s",
+            self.endpoint.model_id, finish_reason, body.get("usage"), error_code,
+        )
+        if self.observer is not None:
+            usage = body.get("usage")
+            usage = usage if isinstance(usage, Mapping) else {}
+            try:
+                self.observer({
+                    "model_id": self.endpoint.model_id,
+                    "thinking": params.get("thinking"), "finish_reason": finish_reason,
+                    "prompt_tokens": usage.get("prompt_tokens"),
+                    "completion_tokens": usage.get("completion_tokens"),
+                    "prompt_cache_hit_tokens": usage.get("prompt_cache_hit_tokens"),
+                    "latency_ms": (time.monotonic() - started) * 1000,
+                    "error_code": error_code,
+                })
+            except Exception:
+                logging.getLogger(__name__).warning("generation observer failed")
+        if error_code:
+            raise ServingError(error_code, "generation reached the completion token limit")
+        if finish_reason not in (None, "stop"):
+            raise ServingError("SERVING_PROTOCOL_INVALID", "generation did not finish normally")
+        message = choice.get("message")
         content = _as_mapping(message).get("content") if message is not None else None
         if not isinstance(content, str):
             raise ServingError("SERVING_PROTOCOL_INVALID", "choice is missing message content")
@@ -155,13 +189,44 @@ def _read_count(response: Any) -> int:
     return count
 
 
-class HttpTransport:
-    """Production stdlib JSON transport. Exercised only against a live server."""
+#: HTTP statuses a bounded retry may repeat: timeout, conflict, rate limit,
+#: server errors and provider overload (529).
+RETRYABLE_HTTP_STATUSES = frozenset({408, 409, 429, 500, 502, 503, 504, 529})
+_LOOPBACK_HOSTS = frozenset({"localhost", "127.0.0.1", "::1"})
 
-    def __init__(self, *, api_key: str | None = None) -> None:
-        if api_key is not None and (not api_key.strip() or "\n" in api_key or "\r" in api_key):
-            raise ServingError("SERVING_AUTH_INVALID", "API key must be a nonempty single line")
+
+def _single_line(value: str, what: str) -> str:
+    if not isinstance(value, str) or not value.strip() or "\n" in value or "\r" in value:
+        raise ServingError("SERVING_AUTH_INVALID", f"{what} must be a nonempty single line")
+    return value
+
+
+class HttpTransport:
+    """Production stdlib JSON transport. Exercised only against a live server.
+
+    The credential goes in ``auth_header`` (``Authorization: Bearer <key>`` by
+    default; ``x-api-key`` for Anthropic, ``api-key`` for Azure OpenAI). It is
+    sent only over HTTPS, or plain HTTP to a loopback host, never across a
+    redirect. ``headers`` are fixed, non-secret extras such as API versions.
+    """
+
+    def __init__(
+        self,
+        *,
+        api_key: str | None = None,
+        auth_header: str = "Authorization",
+        auth_prefix: str = "Bearer ",
+        headers: Mapping[str, str] | None = None,
+    ) -> None:
+        if api_key is not None:
+            _single_line(api_key, "API key")
+        _single_line(auth_header, "auth header")
+        self._headers = {
+            _single_line(name, "header name"): _single_line(value, "header value")
+            for name, value in (headers or {}).items()
+        }
         self._api_key = api_key
+        self._auth_header, self._auth_prefix = auth_header, auth_prefix
 
     def post_json(
         self, url: str, payload: Mapping[str, Any], *, timeout_s: float
@@ -172,13 +237,14 @@ class HttpTransport:
         from urllib.request import HTTPRedirectHandler, Request, build_opener, urlopen
 
         data = json.dumps(dict(payload)).encode("utf-8")
-        headers = {"Content-Type": "application/json"}
+        headers = {"Content-Type": "application/json", **self._headers}
         send = urlopen
         if self._api_key is not None:
             parsed = urlsplit(url)
-            if parsed.scheme != "https" or parsed.username is not None or parsed.password is not None:
+            secure = parsed.scheme == "https" or (parsed.scheme == "http" and parsed.hostname in _LOOPBACK_HOSTS)
+            if not secure or parsed.username is not None or parsed.password is not None:
                 raise ServingError("SERVING_AUTH_INVALID", "Authenticated requests require HTTPS without URL credentials")
-            headers["Authorization"] = f"Bearer {self._api_key}"
+            headers[self._auth_header] = f"{self._auth_prefix}{self._api_key}"
 
             class NoRedirect(HTTPRedirectHandler):
                 def redirect_request(self, req, fp, code, msg, response_headers, newurl):
@@ -191,8 +257,11 @@ class HttpTransport:
             with send(request, timeout=timeout_s) as response:
                 return json.loads(response.read().decode("utf-8"))
         except HTTPError as error:
-            raise ServingError("SERVING_TRANSPORT_FAILED", f"HTTP {error.code}") from error
+            raise ServingError("SERVING_TRANSPORT_FAILED", f"HTTP {error.code}",
+                               retryable=error.code in RETRYABLE_HTTP_STATUSES) from error
         except URLError as error:
-            raise ServingError("SERVING_TRANSPORT_FAILED", str(error.reason)) from error
+            raise ServingError("SERVING_TRANSPORT_FAILED", str(error.reason), retryable=True) from error
+        except TimeoutError as error:
+            raise ServingError("SERVING_TRANSPORT_FAILED", "request timed out", retryable=True) from error
         except json.JSONDecodeError as error:
             raise ServingError("SERVING_PROTOCOL_INVALID", "response was not JSON") from error

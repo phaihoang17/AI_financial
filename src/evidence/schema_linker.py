@@ -3,7 +3,7 @@
 from __future__ import annotations
 
 from dataclasses import dataclass
-from typing import List, Mapping, Optional, Sequence
+from typing import Dict, List, Mapping, Optional, Sequence
 
 from src.evidence.m5_schemas import (
     SchemaLinkMatchBasis,
@@ -12,7 +12,7 @@ from src.evidence.m5_schemas import (
 )
 from src.evidence.schemas import EvidenceItem
 from src.retrieval.evidence import CellLocation, label_names_metric, path_periods
-from src.supervisor.schemas import EvidenceSource, Plan, RetrievalRequirement
+from src.supervisor.schemas import EvidenceSource, Plan, RetrievalRequirement, TableClass
 from src.understanding.schemas import SchemaValidationError
 
 
@@ -116,6 +116,15 @@ def _result(
     )
 
 
+def _one_reported_figure(items: Sequence[_AssessedLocation]) -> bool:
+    """All matches come from one report and carry the identical parsed value."""
+    return (
+        len({item.evidence.report_ref for item in items}) == 1
+        and all(item.evidence.normalized_value is not None for item in items)
+        and len({str(item.evidence.normalized_value) for item in items}) == 1
+    )
+
+
 def link_schema(
     plan: Plan,
     evidence: Sequence[EvidenceItem],
@@ -149,6 +158,9 @@ def link_schema(
         _validate_grounded_pair(item, location)
         table_pairs.append((item, location))
     table_pairs.sort(key=lambda pair: (pair[0].evidence_id, pair[1].source_cell_id))
+    cells_by_table: Dict[str, int] = {}
+    for _, location in table_pairs:
+        cells_by_table[location.table_id] = cells_by_table.get(location.table_id, 0) + 1
 
     results: List[SchemaLinkResult] = []
     for requirement in plan.retrieval_requirements:
@@ -163,6 +175,23 @@ def link_schema(
             for item, location in table_pairs
         ]
         valid = [item for item in assessed if item.valid]
+        # Prefer the requested report year; retain failures for targeted verifier retry.
+        same_year = [
+            item for item in valid
+            if requirement.period is not None
+            and str(item.location.report_year) == requirement.period[:4]
+        ]
+        if same_year:
+            valid = same_year
+        if len(valid) > 1 and _one_reported_figure(valid):
+            # The same figure printed twice in one report (a statement continued
+            # across pages repeats its line, a note restates it); prefer the
+            # income-statement cell, then the fullest table (the statement itself).
+            valid = [min(valid, key=lambda item: (
+                item.location.table_class is not TableClass.INCOME_STATEMENT,
+                -cells_by_table[item.location.table_id],
+                item.evidence.evidence_id, item.location.source_cell_id,
+            ))]
         if len(valid) == 1:
             results.append(
                 _result(requirement, valid[0], SchemaLinkStatus.RESOLVED)

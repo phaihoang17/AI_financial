@@ -1,0 +1,272 @@
+<title>Duyệt Gold Production</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500&display=swap">
+<style>
+/* Layout: an auditor's two-pane worksheet — case ledger on the left, the source rows and the verdict on the right. */
+:root {
+  --paper: #f6f8f7; --sheet: #ffffff; --ink: #18211f; --muted: #5a6764; --rule: #d7dfdc;
+  --accent: #0f6b5c; --accent-soft: #e2f0ec;
+  --ok: #1f7a3a; --ok-soft: #e3f3e7; --bad: #b3261e; --bad-soft: #fbe7e5; --warn: #8a5a00; --warn-soft: #fbf0d9;
+  --font-body: "Be Vietnam Pro", "Segoe UI", system-ui, sans-serif;
+  --font-mono: "IBM Plex Mono", ui-monospace, "SFMono-Regular", Menlo, monospace;
+  --step--1: 0.8125rem; --step-0: 0.9375rem; --step-1: 1.125rem; --step-2: 1.375rem;
+}
+@media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) {
+  --paper: #111816; --sheet: #172120; --ink: #e4ece9; --muted: #9aaba6; --rule: #2b3836;
+  --accent: #5cc4ae; --accent-soft: #163a33;
+  --ok: #6ccf85; --ok-soft: #173826; --bad: #f08a80; --bad-soft: #3d1c1a; --warn: #e2b35a; --warn-soft: #3a2c12;
+  color-scheme: dark } }
+:root[data-theme="dark"] {
+  --paper: #111816; --sheet: #172120; --ink: #e4ece9; --muted: #9aaba6; --rule: #2b3836;
+  --accent: #5cc4ae; --accent-soft: #163a33;
+  --ok: #6ccf85; --ok-soft: #173826; --bad: #f08a80; --bad-soft: #3d1c1a; --warn: #e2b35a; --warn-soft: #3a2c12;
+  color-scheme: dark }
+* { box-sizing: border-box; }
+body { background: var(--paper); color: var(--ink); font-family: var(--font-body); font-size: var(--step-0); line-height: 1.5; }
+.wrap { max-width: 1280px; margin: 0 auto; padding-inline: 16px; padding-block: 20px 40px; display: grid; gap: 16px; }
+header { display: flex; flex-wrap: wrap; align-items: end; justify-content: space-between; gap: 12px 24px; }
+h1 { font-size: var(--step-2); font-weight: 700; margin: 0; text-wrap: balance; letter-spacing: -0.01em; }
+.sub { color: var(--muted); font-size: var(--step--1); margin: 2px 0 0; max-width: 70ch; }
+.who { font-size: var(--step--1); color: var(--muted); }
+.progress { display: grid; gap: 6px; min-width: 260px; flex: 1 1 320px; max-width: 520px; }
+.bar { display: flex; height: 10px; border-radius: 5px; overflow: hidden; background: var(--rule); }
+.bar span { display: block; height: 100%; }
+.bar .a { background: var(--ok); } .bar .r { background: var(--bad); } .bar .c { background: var(--warn); }
+.legend { display: flex; flex-wrap: wrap; gap: 4px 14px; font-size: var(--step--1); color: var(--muted); font-variant-numeric: tabular-nums; }
+.legend b { color: var(--ink); font-weight: 600; }
+.notice { font-size: var(--step--1); background: var(--warn-soft); color: var(--warn); border-radius: 6px; padding: 8px 12px; }
+.grid { display: grid; grid-template-columns: minmax(0, 340px) minmax(0, 1fr); gap: 16px; align-items: start; }
+@media (max-width: 860px) { .grid { grid-template-columns: minmax(0, 1fr); } }
+.panel { background: var(--sheet); border: 1px solid var(--rule); border-radius: 8px; min-width: 0; }
+.filters { display: grid; gap: 8px; padding: 12px; border-bottom: 1px solid var(--rule); }
+.filters .row { display: flex; gap: 8px; flex-wrap: wrap; }
+select, input[type="search"], input[type="text"], textarea {
+  font: inherit; font-size: var(--step--1); color: var(--ink); background: var(--paper); border: 1px solid var(--rule);
+  border-radius: 6px; padding: 6px 8px; min-width: 0; }
+select { flex: 1 1 90px; }
+input[type="search"] { width: 100%; }
+:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
+.list { max-height: 70vh; overflow-y: auto; }
+@media (max-width: 860px) { .list { max-height: 40vh; } }
+.item { display: grid; grid-template-columns: 10px minmax(0, 1fr); gap: 10px; width: 100%; text-align: left; background: none;
+  border: 0; border-bottom: 1px solid var(--rule); padding: 9px 12px; cursor: pointer; color: inherit; font: inherit; }
+.item:hover { background: var(--accent-soft); }
+.item[aria-current="true"] { background: var(--accent-soft); box-shadow: inset 3px 0 0 var(--accent); }
+.dot { width: 10px; height: 10px; border-radius: 50%; margin-top: 5px; background: var(--rule); }
+.dot.APPROVE { background: var(--ok); } .dot.REJECT { background: var(--bad); } .dot.CORRECT { background: var(--warn); }
+.item .q { font-size: var(--step--1); display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; }
+.item .meta { font-size: 0.75rem; color: var(--muted); font-family: var(--font-mono); overflow-wrap: anywhere; }
+.detail { padding: 18px; display: grid; gap: 18px; }
+.eyebrow { display: flex; flex-wrap: wrap; gap: 6px; }
+.chip { font-size: 0.75rem; letter-spacing: 0.04em; text-transform: uppercase; padding: 2px 8px; border-radius: 999px;
+  background: var(--accent-soft); color: var(--accent); font-weight: 600; }
+.chip.split-holdout, .chip.split-holdout2 { background: var(--warn-soft); color: var(--warn); }
+.question { font-size: var(--step-1); font-weight: 600; margin: 0; text-wrap: pretty; max-width: 72ch; }
+.answer { display: flex; flex-wrap: wrap; align-items: baseline; gap: 6px 14px; padding: 12px 14px; border-radius: 8px;
+  background: var(--paper); border: 1px solid var(--rule); }
+.answer .label { font-size: var(--step--1); color: var(--muted); }
+.answer .value { font-family: var(--font-mono); font-size: var(--step-1); font-weight: 500; font-variant-numeric: tabular-nums; overflow-wrap: anywhere; }
+h2 { font-size: var(--step-0); margin: 0 0 8px; font-weight: 600; }
+.source { display: grid; gap: 8px; padding-block: 12px; border-top: 1px solid var(--rule); }
+.source:first-of-type { border-top: 0; padding-top: 0; }
+.kv { display: grid; grid-template-columns: max-content minmax(0, 1fr); gap: 4px 14px; font-size: var(--step--1); }
+.kv dt { color: var(--muted); } .kv dd { margin: 0; font-variant-numeric: tabular-nums; overflow-wrap: anywhere; }
+.mono { font-family: var(--font-mono); }
+.rowwrap { overflow-x: auto; border: 1px solid var(--rule); border-radius: 6px; }
+table { border-collapse: collapse; font-size: var(--step--1); width: max-content; min-width: 100%; }
+td { padding: 6px 10px; border-right: 1px solid var(--rule); white-space: nowrap; font-variant-numeric: tabular-nums; }
+td:last-child { border-right: 0; }
+td.num { font-family: var(--font-mono); text-align: right; }
+td.hit { background: var(--accent-soft); font-weight: 600; }
+.confirm { font-size: var(--step--1); }
+.confirm.same { color: var(--ok); } .confirm.diff { color: var(--bad); }
+.checklist { margin: 0; padding-left: 1.2em; display: grid; gap: 4px; font-size: var(--step--1); color: var(--muted); }
+.verdict { display: grid; gap: 10px; padding: 14px; border-radius: 8px; border: 1px solid var(--rule); background: var(--paper); }
+.buttons { display: flex; flex-wrap: wrap; gap: 8px; }
+button.v { font: inherit; font-weight: 600; font-size: var(--step--1); padding: 8px 14px; border-radius: 6px; cursor: pointer;
+  border: 1px solid var(--rule); background: var(--sheet); color: var(--ink); }
+button.v kbd { font-family: var(--font-mono); font-size: 0.7rem; opacity: 0.7; margin-left: 6px; }
+button.v.APPROVE { border-color: var(--ok); color: var(--ok); } button.v.APPROVE[aria-pressed="true"] { background: var(--ok); color: var(--sheet); }
+button.v.REJECT { border-color: var(--bad); color: var(--bad); } button.v.REJECT[aria-pressed="true"] { background: var(--bad); color: var(--sheet); }
+button.v.CORRECT { border-color: var(--warn); color: var(--warn); } button.v.CORRECT[aria-pressed="true"] { background: var(--warn); color: var(--sheet); }
+button.v:disabled { opacity: 0.45; cursor: not-allowed; }
+button.nav { font: inherit; font-size: var(--step--1); background: none; border: 0; color: var(--accent); cursor: pointer; padding: 4px 0; }
+.fields { display: grid; grid-template-columns: minmax(0, 1fr) minmax(0, 220px); gap: 8px; }
+@media (max-width: 560px) { .fields { grid-template-columns: minmax(0, 1fr); } }
+textarea { resize: vertical; min-height: 2.6em; width: 100%; }
+.status { font-size: var(--step--1); color: var(--muted); min-height: 1.5em; }
+.others { display: flex; flex-wrap: wrap; gap: 6px; font-size: var(--step--1); }
+.others span { padding: 2px 8px; border-radius: 999px; background: var(--accent-soft); }
+.empty { color: var(--muted); padding: 24px; font-size: var(--step--1); }
+.foot { font-size: var(--step--1); color: var(--muted); }
+@media (prefers-reduced-motion: no-preference) { .bar span { transition: width 300ms ease; } }
+</style>
+
+<div class="wrap">
+  <header>
+    <div>
+      <h1>Duyệt Gold Production</h1>
+      <p class="sub">Câu hỏi kèm đáp án do máy dựng từ báo cáo tài chính gốc (gold/production-v1). Mỗi case chỉ được tính là “đã duyệt bởi người” khi một người duyệt đối chiếu dòng nguồn và chọn Đạt. Gate production dùng dev và holdout2 (254 case); holdout (đã chấm một lần) nay là dữ liệu phát triển. Duyệt số liệu, không dùng holdout2 để sửa hệ thống.</p>
+      <p class="who" id="who">Đang kết nối kho quyết định…</p>
+    </div>
+    <div class="progress" aria-live="polite">
+      <div class="bar" id="bar"><span class="a"></span><span class="c"></span><span class="r"></span></div>
+      <div class="legend" id="legend">Chưa có quyết định nào được ghi.</div>
+    </div>
+  </header>
+  <p class="notice" id="notice" hidden></p>
+  <div class="grid">
+    <section class="panel" aria-label="Danh sách case">
+      <div class="filters">
+        <input type="search" id="search" placeholder="Tìm mã, công ty, chỉ tiêu…" aria-label="Tìm case">
+        <div class="row">
+          <select id="f-split" aria-label="Tập"><option value="">Mọi tập</option><option value="dev">dev</option><option value="holdout">holdout (đã chấm)</option><option value="holdout2">holdout2</option></select>
+          <select id="f-op" aria-label="Phép tính"><option value="">Mọi phép tính</option><option value="LOOKUP">Tra cứu</option><option value="GROWTH_RATE">Tăng trưởng</option><option value="AVERAGE">Bình quân</option><option value="RATIO">Chỉ số</option></select>
+          <select id="f-state" aria-label="Trạng thái của tôi"><option value="">Mọi trạng thái</option><option value="pending">Tôi chưa duyệt</option><option value="APPROVE">Đạt</option><option value="CORRECT">Cần sửa</option><option value="REJECT">Không đạt</option></select>
+        </div>
+      </div>
+      <div class="list" id="list" role="list"></div>
+    </section>
+    <section class="panel" aria-label="Chi tiết case">
+      <div class="detail" id="detail"><p class="empty">Chọn một case ở danh sách bên trái.</p></div>
+    </section>
+  </div>
+  <p class="foot">Phím tắt: <span class="mono">a</span> Đạt · <span class="mono">c</span> Cần sửa · <span class="mono">r</span> Không đạt · <span class="mono">j</span>/<span class="mono">k</span> case kế tiếp/trước. Quyết định ghi tên người duyệt và thời điểm; quyết định mới nhất của mỗi người là quyết định có hiệu lực.</p>
+</div>
+
+<script type="application/json" id="cases">__CASES__</script>
+<script>
+(() => {
+  const CASES = JSON.parse(document.getElementById("cases").textContent);
+  const OPS = { LOOKUP: "Tra cứu", GROWTH_RATE: "Tăng trưởng", AVERAGE: "Bình quân", RATIO: "Chỉ số" };
+  const DECISION_LABEL = { APPROVE: "Đạt", CORRECT: "Cần sửa", REJECT: "Không đạt" };
+  const state = { index: 0, mine: {}, all: {}, uid: null, canWrite: null, db: null, user: null, names: {} };
+  const $ = (id) => document.getElementById(id);
+  const esc = (s) => String(s ?? "").replace(/[&<>"']/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]));
+  const vnd = (v) => { const s = String(v); const neg = s.startsWith("-"); const [i, f] = s.replace("-", "").split(".");
+    return (neg ? "-" : "") + i.replace(/\B(?=(\d{3})+(?!\d))/g, ".") + (f ? "," + f : ""); };
+  const answerText = (a) => a.scale === "PERCENT" ? `${Number(a.value).toLocaleString("vi-VN", { maximumFractionDigits: 6 })} %`
+    : a.unit === "VND" ? `${vnd(a.value)} đồng` : `${Number(a.value).toLocaleString("vi-VN", { maximumFractionDigits: 6 })} ${a.unit || "lần"}`;
+
+  function myDecision(qid) { return state.mine[qid]?.decision || null; }
+  function filtered() {
+    const term = $("search").value.trim().toLowerCase(), split = $("f-split").value, op = $("f-op").value, st = $("f-state").value;
+    return CASES.map((c, i) => [c, i]).filter(([c]) => (!split || c.split === split) && (!op || c.operation === op)
+      && (!st || (st === "pending" ? !myDecision(c.question_id) : myDecision(c.question_id) === st))
+      && (!term || (c.question_id + " " + c.question).toLowerCase().includes(term)));
+  }
+  function renderList() {
+    const rows = filtered();
+    $("list").innerHTML = rows.length ? rows.map(([c, i]) => `<button class="item" role="listitem" data-i="${i}" aria-current="${i === state.index}">
+        <span class="dot ${myDecision(c.question_id) || ""}" title="${esc(DECISION_LABEL[myDecision(c.question_id)] || "Chưa duyệt")}"></span>
+        <span><span class="q">${esc(c.question)}</span><span class="meta">${esc(c.question_id)}</span></span></button>`).join("")
+      : `<p class="empty">Không có case nào khớp bộ lọc.</p>`;
+  }
+  function renderProgress() {
+    const total = CASES.length, decisions = CASES.map((c) => myDecision(c.question_id));
+    const n = (d) => decisions.filter((x) => x === d).length, a = n("APPROVE"), c = n("CORRECT"), r = n("REJECT");
+    const spans = $("bar").children; [a, c, r].forEach((v, k) => spans[k].style.width = `${(v / total) * 100}%`);
+    const reviewers = Object.keys(state.all).length;
+    $("legend").innerHTML = `Của tôi: <span><b>${a}</b> đạt</span><span><b>${c}</b> cần sửa</span><span><b>${r}</b> không đạt</span><span><b>${total - a - c - r}</b> chưa duyệt / ${total}</span>` +
+      (reviewers ? `<span>${reviewers} người duyệt đã ghi quyết định</span>` : "");
+  }
+  function cellsHtml(source) {
+    return source.source_rows.map((row) => `<div class="rowwrap"><table><tr>${row.cells.map((cell) =>
+      `<td class="${/^[\d().,-]+$/.test(cell) && /\d{3}/.test(cell) ? "num" : ""} ${cell === source.printed_value ? "hit" : ""}">${esc(cell)}</td>`).join("")}</tr></table></div>`).join("");
+  }
+  function othersHtml(qid) {
+    const items = Object.entries(state.all).filter(([uid]) => uid !== state.uid).map(([uid, decisions]) => [uid, decisions[qid]]).filter(([, d]) => d);
+    return items.length ? `<div class="others">${items.map(([uid, d]) => `<span>${esc(state.names[uid] || "Người duyệt khác")}: ${esc(DECISION_LABEL[d.decision])}</span>`).join("")}</div>` : "";
+  }
+  function renderDetail() {
+    const c = CASES[state.index]; if (!c) return;
+    const mine = state.mine[c.question_id];
+    const writable = state.db && state.uid && state.canWrite !== false;
+    $("detail").innerHTML = `
+      <div class="eyebrow"><span class="chip split-${c.split}">${c.split}</span><span class="chip">${esc(OPS[c.operation])}</span>
+        <span class="chip">${esc(c.target)}</span><span class="chip">${c.template === "BANK" ? "Ngân hàng" : "Doanh nghiệp"}</span></div>
+      <div><p class="question">${esc(c.question)}</p><span class="meta mono" style="font-size:.75rem;color:var(--muted)">${esc(c.question_id)}</span></div>
+      <div class="answer"><span class="label">Đáp án kỳ vọng</span><span class="value">${esc(answerText(c.expected_answer))}</span></div>
+      <div><h2>Dòng nguồn trong báo cáo</h2>${c.sources.map((s) => `<div class="source">
+        <dl class="kv"><dt>Chỉ tiêu, năm</dt><dd>${esc(s.metric)} · ${s.year}</dd>
+          <dt>Nhãn in</dt><dd>${esc(s.printed_label)}</dd>
+          <dt>Số in → VND</dt><dd class="mono">${esc(s.printed_value)} (${esc(s.unit_scale)}) → ${esc(s.value_vnd)}</dd>
+          <dt>Tệp báo cáo</dt><dd class="mono">${esc(s.source_ref)}</dd></dl>
+        ${cellsHtml(s)}
+        <p class="confirm ${s.next_report_prior_value === s.printed_value ? "same" : "diff"}">Báo cáo năm ${s.year + 1} ghi ở cột năm trước: <span class="mono">${esc(s.next_report_prior_value)}</span>${s.next_report_prior_value === s.printed_value ? " (khớp)" : ""}</p>
+      </div>`).join("")}</div>
+      <div><h2>Kiểm tra</h2><ol class="checklist">${c.checklist.map((x) => `<li>${esc(x)}</li>`).join("")}</ol></div>
+      <div class="verdict">
+        <div class="buttons">${["APPROVE", "CORRECT", "REJECT"].map((d) => `<button class="v ${d}" data-d="${d}" aria-pressed="${mine?.decision === d}" ${writable ? "" : "disabled"}>${DECISION_LABEL[d]}<kbd>${d === "APPROVE" ? "a" : d === "CORRECT" ? "c" : "r"}</kbd></button>`).join("")}</div>
+        <div class="fields"><textarea id="note" placeholder="Ghi chú (vd. sai cột năm, sai đơn vị…)" aria-label="Ghi chú" ${writable ? "" : "disabled"}>${esc(mine?.note || "")}</textarea>
+          <input type="text" id="corrected" placeholder="Giá trị đúng (khi Cần sửa)" aria-label="Giá trị đúng" value="${esc(mine?.corrected_value || "")}" ${writable ? "" : "disabled"}></div>
+        <p class="status" id="status">${mine ? `Bạn đã chọn ${DECISION_LABEL[mine.decision]} lúc ${new Date(mine.reviewed_at).toLocaleString("vi-VN")}.` : writable ? "Chưa có quyết định của bạn cho case này." : "Bạn đang xem ở chế độ chỉ đọc."}</p>
+        ${othersHtml(c.question_id)}
+        <div class="buttons"><button class="nav" data-step="-1">← Case trước</button><button class="nav" data-step="1">Case tiếp theo →</button></div>
+      </div>`;
+  }
+  function render() { renderProgress(); renderList(); renderDetail(); }
+  function go(step) {
+    const rows = filtered().map(([, i]) => i); if (!rows.length) return;
+    const at = rows.indexOf(state.index); state.index = rows[Math.max(0, Math.min(rows.length - 1, (at < 0 ? 0 : at + step)))];
+    render(); document.querySelector('.item[aria-current="true"]')?.scrollIntoView({ block: "nearest" });
+  }
+  let saving = Promise.resolve();
+  async function decide(decision) {
+    const c = CASES[state.index], note = $("note").value.trim(), corrected = $("corrected").value.trim();
+    if (decision === "CORRECT" && !corrected) { $("status").textContent = "Nhập giá trị đúng trước khi chọn Cần sửa."; $("corrected").focus(); return; }
+    const row = { question_id: c.question_id, decision, note, corrected_value: decision === "CORRECT" ? corrected : null,
+      reviewed_at: new Date().toISOString(), reviewer_id: state.uid, split: c.split };
+    state.mine[c.question_id] = row; render();
+    saving = saving.then(async () => {
+      try {
+        await state.db.doc(`reviews/${state.uid}`).set({ reviewer_id: state.uid, updated_at: row.reviewed_at });
+        await state.db.doc(`reviews/${state.uid}/decisions/${c.question_id}`).set(row);
+        $("status").textContent = `Đã lưu: ${DECISION_LABEL[decision]}.`;
+      } catch (e) {
+        $("status").textContent = e?.code === "invalid_argument" ? "Bạn không có quyền ghi quyết định ở trang này." : "Chưa lưu được quyết định, thử lại sau ít phút.";
+        if (e?.code === "invalid_argument") { state.canWrite = false; renderDetail(); }
+      }
+    });
+    await saving;
+    if (decision === "APPROVE") go(1);
+  }
+
+  $("list").addEventListener("click", (e) => { const b = e.target.closest(".item"); if (b) { state.index = Number(b.dataset.i); render(); } });
+  $("detail").addEventListener("click", (e) => { const v = e.target.closest("button.v"); if (v && !v.disabled) decide(v.dataset.d);
+    const n = e.target.closest("button.nav"); if (n) go(Number(n.dataset.step)); });
+  ["search", "f-split", "f-op", "f-state"].forEach((id) => $(id).addEventListener("input", renderList));
+  document.addEventListener("keydown", (e) => {
+    if (e.target.closest("input, textarea, select")) return;
+    const map = { a: "APPROVE", c: "CORRECT", r: "REJECT" };
+    if (map[e.key] && state.db && state.uid && state.canWrite !== false) decide(map[e.key]);
+    else if (e.key === "j") go(1); else if (e.key === "k") go(-1);
+  });
+  render();
+
+  (async () => {
+    const [db, user] = await Promise.all([window.claude?.use?.("db"), window.claude?.use?.("user")]);
+    if (!db || !user) { $("who").textContent = "Kho quyết định chưa sẵn sàng ở chế độ xem này; bạn vẫn đọc được mọi case."; return; }
+    state.db = db; state.user = user; state.uid = await user.id();
+    state.canWrite = await user.can("data.write");
+    if (!state.uid) { $("who").textContent = "Đăng nhập để ghi quyết định duyệt."; render(); return; }
+    const me = await user.me();
+    $("who").textContent = `Người duyệt: ${me?.name || "bạn"}${state.canWrite === false ? " (chỉ đọc)" : ""}.`;
+    const watched = {};
+    db.doc(`reviews/${state.uid}`).collection("decisions").onSnapshot((snap) => {
+      state.mine = {}; snap.docs.forEach((d) => { state.mine[d.id] = d.data(); }); state.all[state.uid] = state.mine; render();
+    }, () => { $("notice").hidden = false; $("notice").textContent = "Mất kết nối kho quyết định; tải lại trang để tiếp tục."; });
+    db.collection("reviews").onSnapshot(async (snap) => {
+      const ids = snap.docs.map((d) => d.id).filter((id) => id !== state.uid);
+      for (const id of ids.slice(0, 40)) {
+        if (watched[id]) continue;
+        watched[id] = db.doc(`reviews/${id}`).collection("decisions").onSnapshot((s) => {
+          state.all[id] = {}; s.docs.forEach((d) => { state.all[id][d.id] = d.data(); }); render();
+        });
+      }
+      const profiles = await user.profiles(ids); ids.forEach((id) => { state.names[id] = profiles?.[id]?.name || ""; }); render();
+    });
+  })();
+})();
+</script>

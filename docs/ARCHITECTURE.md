@@ -1,5 +1,107 @@
 # ARCHITECTURE.md — AI Financial Data Assistant
 
+## Opt-in Text-to-Pandas API (ADR-069)
+
+The default M9 flow below remains available. The user-requested experimental
+path is `question -> deterministic understanding/discovery -> catalog slice ->
+LLM Pandas code -> AST validation -> isolated worker -> independent verifier ->
+answer`. Code repair returns to the generator with typed feedback, at most twice.
+
+`PandasPipeline(catalog, generator, history_root=..., max_retries=2).ask(question)`
+returns `t2p-response-v1`: run/request/catalog IDs, understanding, discovery,
+status/reason, JSON-safe result, canonical unit/scale, source provenance, attempts
+and elapsed milliseconds. Status is ANSWERED, NEEDS_CLARIFICATION, UNSUPPORTED,
+NO_DATA or FAILED. ANSWERED requires every source/unit/period/formula check and
+the perturbed-source program check to pass. Monetary output stays RAW VND;
+percentage output uses PERCENT. Generated explanations never substitute for
+verified arithmetic.
+
+Each run stores `request.json`, `attempt-N.json` and `response.json` in a unique
+history directory. The live CLI and benchmark are opt-in; acceptance does not
+automatically change routing. See ADR-069 for supported semantics and limitations.
+
+ADR-070 adds `--concurrency N` to the live CLI (default 1). Requests share the
+read-only catalog and generator; request-local attempts, telemetry and unique
+history directories remain separate. A lock serializes atomic report writes.
+The report retains `t2p-live-runs-v1` and adds `concurrency` and `wall_clock_s`.
+Wall time covers pending questions in the current invocation, including report
+writes, and excludes catalog/client setup. Resume requires the same concurrency
+as well as the existing identity fields; a legacy report without concurrency
+means 1. A source change detected before dispatch or after the pool finishes
+leaves `SOURCE_CHANGED` evidence and aborts completion.
+
+## Production service, gates and platforms (ADR-072)
+
+The Text-to-Pandas path runs behind a question API (`src/service/app.py`):
+`POST /v1/ask` → admission (max in-flight; `503 OVERLOADED` above it) → the
+serving release's `PandasPipeline.ask` under a request deadline (`504 TIMEOUT`)
+→ a public response (status, reason, result, unit/scale, source cells with their
+statement; never attempts, and the generated code only when the deployment sets
+`AIFIN_EXPOSE_PROGRAM=1`, ADR-073). `/healthz`, `/readyz`, `/metrics` (Prometheus
+text) and `/slo` expose liveness, readiness, counters/histograms and SLO attainment.
+`GET /v1/catalog` returns the serving catalog's coverage (companies, years, scopes,
+metric names) behind the same token as `/v1/ask`.
+
+**Browser UI** (`src/service/web/`, ADR-073). The service serves one static page at
+`/` (plus `/static/app.js`, `/static/app.css`; a fixed file map, strict CSP, no
+third-party assets). It is a client of the JSON endpoints only: it renders each of
+the five response statuses, the result (scalar, or a table for dataframe/series/
+list/dict results), the source cells grouped by report, and the program when the
+response carries one. Chat history lives in the browser; every question is still
+answered independently.
+
+A **release** (`src/service/release.py`) pins the catalog directory and its
+`catalog_id`, the generator (`provider:<name>` from `deploy/llm/providers.toml`,
+or `replay:<history>` of recorded programs for drills), the provider-config
+SHA-256 and the source fingerprint. `deploy` promotes a release only after
+preflight (all pins match) and the canary smoke set (`deploy/service/smoke.jsonl`)
+pass; the `current` pointer is replaced atomically and every event is appended to
+`history.jsonl`. `POST /admin/reload` builds the new engine first and swaps it in;
+in-flight requests finish on the old one. A page alert during the bake window
+triggers `watch_and_rollback`; `rollback` is the manual path.
+
+**Availability events.** Bad: HTTP 5xx, including 503 overload, and `FAILED`
+answers with an infrastructure, provider or sandbox-resource reason. Good: every
+typed answer or refusal. SLOs (`deploy/service/slo.toml`): 99.5% over 30 days,
+95% of answers within 8 s. Alert rules are defined once (`src/service/alerting.py`),
+rendered to `deploy/service/alerts.yml` and evaluated locally over snapshots in
+tests and the reliability drill.
+
+**LLM providers** (`src/serving/providers.py`). `openai-chat` providers reuse
+`OpenAICompatibleClient` with a configurable chat path; `anthropic-messages`
+moves system prompts to `system`, reads text blocks and maps `max_tokens` /
+`refusal` stops to typed errors. Per provider: JSON mode, thinking switch,
+temperature, completion-limit field name, fixed headers, extra body fields,
+bounded retries on transient HTTP statuses and price list. The generator keeps one
+request shape and accepts a fenced JSON envelope from providers without JSON mode.
+
+**Sandbox host boundary** (`src/sandbox/host.py`). The executors start workers
+with `popen_isolation_options()` (new session on POSIX, new process group and no
+window on Windows) and kill the whole tree with `kill_worker_tree()` (process
+group on POSIX, job object on Windows, plus `rm --force` of a `container-v1`
+container). Local boundaries: `posix-rlimit` (Linux), `darwin-sandbox-exec`
+(macOS), `windows-job-object` (Windows: committed memory, user CPU time, one
+active process, kill-on-close, UI restrictions). Production: `linux-nsjail-v1`
+or `container-v1` (digest-pinned image, `--network none --read-only --cap-drop ALL
+--security-opt no-new-privileges --ipc none`, pids/memory/CPU caps, unprivileged
+user, the exact worker environment set by `env -i`, the client given only its own
+host variables). Admission (`deploy/sandbox/sandbox.toml`) bounds concurrent
+workers per kind and isolation mode; the worker wall clock starts after admission
+and a request that waits past the admission timeout fails closed with
+`RESOURCE/CAPACITY_EXCEEDED`.
+
+**Catalog v3** adds two provenance-preserving guards to extraction: statement
+identities clear unconfirmed metrics of a failed identity, and an agreeing repeat
+prefers the statement line over a page carry-over copy. Provenance rows carry
+`table_class_basis` (TITLE, SECURITIES_FORM, FINANCIAL_POSITION_TITLE or
+CODED_ROWS); the provenance index tolerates any field order.
+
+**Production gold and gate.** `gold/production-v1/{dev,holdout,holdout2,holdout3}`
+with `FROZEN.json` on each holdout and `qa.json` gold defects; `src/evaluation/production_gate.py` scores the
+holdout (accuracy, operation/statement/template groups, execution success,
+provenance, refusals) and folds in security, stability, API-drill, capacity and
+human-review evidence.
+
 ## 1. Architecture Style
 
 The system uses a **hierarchical supervisor-worker architecture** with an explicit **NLU / Understanding layer** before the Supervisor.
@@ -1665,13 +1767,22 @@ SchemaLinkResult:
 The linker consumes ordered `Plan.retrieval_requirements` and only the supplied
 `EvidenceItem -> CellLocation` boundary. Metric labels use the existing
 canonical metric registry after dropping only a leading line ordinal and a
-trailing parenthetical (`table_label_metric`); periods use `path_periods`:
+trailing parenthetical (`table_label_metric`), plus an exact terminal
+`Phân bổ cho:` heading merged by OCR (ADR-065). Text following that heading is
+not stripped. Original labels and hierarchical paths remain intact; periods use
+`path_periods`:
 exact labels, their v1 period-grammar form, and the location's own
 `report_year` for a `Năm nay` column (ADR-061). The M3 locator, this linker and
 TASK-080 grounding share these two functions.
 There is no new synonym registry and no fuzzy, semantic, or LLM fallback.
-Exactly one valid location resolves, multiple valid locations are ambiguous,
-and no valid location is unresolved. Result paths retain the structured
+Before counting exact matches, the linker prefers locations whose copied
+`report_year` equals the requirement period's year. This separates a requested
+report from a later report's comparative column. Multiple matches within that
+same year remain ambiguous. When no same-year match exists, the original
+candidates remain available for TASK-080 to reject and route targeted retrieval
+retry; metadata is never invented or rewritten (ADR-065).
+Exactly one eligible valid location resolves, multiple eligible valid locations
+are ambiguous, and no valid location is unresolved. Result paths retain the structured
 `HeaderPathEntry` hierarchy; existing flattened `EvidenceItem` path fields are
 not changed.
 
@@ -2301,17 +2412,19 @@ The required native controls are:
 
 - one-shot mode with new user, mount, PID, network, IPC, UTS, and cgroup
   namespaces;
-- an unprivileged mapped worker identity, all capabilities dropped, and
-  `no_new_privs` enabled;
+- an unprivileged mapped worker identity (uid/gid 65534 inside and outside the
+  user namespace, because NsJail runs as root to create the cgroup v2 jail), all
+  capabilities dropped, and `no_new_privs` enabled;
 - no loopback or external interface and a seccomp-bpf policy denying socket,
   connection, process-creation, namespace, mount, tracing, module, BPF,
   `io_uring`, and related high-risk syscalls;
 - a minimal read-only mount set containing only the Python runtime and the
   application code; no host root, corpus, credentials, `/proc`, writable
   filesystem, or container-runtime socket;
-- cgroup v2 memory and PID ceilings as an outer hard stop, plus the parent RSS
-  monitor (aggregated over the NsJail supervisor and child tree) and worker
-  rlimits;
+- cgroup v2 memory and PID ceilings (`cgroup_mem_swap_max: 0`, never together
+  with `cgroup_mem_memsw_max`, which NsJail rejects) as an outer hard stop, plus
+  the parent RSS monitor (aggregated over the NsJail supervisor and child tree)
+  and worker rlimits;
 - the existing cleared environment and post-startup audit guard, which denies
   all later filesystem reads/writes, sockets, and process spawning.
 
@@ -2360,7 +2473,15 @@ Before rollout on each Linux host/image, operations must run the focused M7
 abuse suite through the installed NsJail profile and calibrate cold-start plus
 target-concurrency p50/p95/p99 against the 1,500 ms wall limit. This is a
 deployment conformance gate; failure blocks rollout and triggers profile/image
-tuning without weakening the canonical limits.
+tuning without weakening the canonical limits. `python -m
+src.evaluation.run_sandbox_load_eval` drives both workers through the
+production executors at chosen concurrency levels, interleaves Text-to-Pandas
+abuse programs, checks every benign result against its own expected value and
+reports latency percentiles, failure codes and leaked processes/descriptors/temp
+directories. The seccomp policy is written in the kafel dialect of the pinned
+NsJail release (`//` comments, numeric `SYSCALL[n]` for names missing from its
+table); `tests/sandbox/test_production.py` compiles it with an installed NsJail
+binary when one is present.
 
 #### Migration triggers
 
@@ -2874,6 +2995,18 @@ Sandbox, or CHEAP-to-STRONG rerun consumes exactly one retry; PASS and ABSTAIN
 consume none. The final permitted retry creates a non-terminal attempt, and a
 later repairable failure terminates when the budget is exhausted.
 
+API-backed Programmer failures preserve their exact validation or serving code
+in `ProgrammerResult.REJECTED`. Malformed JSON, completion truncation
+(`finish_reason=length`), and repairable Program validation failures rerun only
+Programmer through the same attempt projection and shared `Plan.max_retries`
+budget. Unknown failures and permanent input/registry contract failures abstain.
+No separate retry loop is added. Failed proposals are never repaired or executed.
+The prompt includes input order and arity from the existing formula registry;
+AVERAGE over two periods passes both scalar input references directly.
+The serving client logs finish reason, token usage, and truncation error code;
+invalid JSON is separately recorded as `PROGRAMMER_JSON_INVALID`. The completion
+token budget remains 4096 unless observed truncation justifies a later change.
+
 Retry projection is stage-specific. Retrieval retry preserves the canonical
 understanding, Supervisor result, Plan, and both policy fingerprints, but
 starts the new attempt with only the frozen retrieval query. Programmer retry
@@ -3004,34 +3137,54 @@ The builder copies the exact verified `ExecutionOutput` and cites only evidence
 in the Program output dependency closure; it performs no arithmetic, scale
 conversion, formula recomputation, or binding lookup.
 
-## 4.14 Optional Experience Memory
+## 4.14 Optional Experience Memory (M11, ADR-067)
 
-Experience memory is deferred until the non-memory baseline is stable.
+Memory is optional and disabled unless a read-only calibrated index is supplied
+when assembling the live graph. It advises only APIProgrammer; deterministic
+Supervisor, retrieval, bindings, validation, sandbox and verification remain
+unchanged. No additional generative call or retry loop is introduced.
 
-If implemented:
+Canonical `m11-experience-v1` entries preserve a source-question SHA-256,
+structured Plan-context signature (question type, formula, metrics, period kind
+and required input count), STRATEGY or GUARD kind, enumerated reusable rules,
+source trajectory ID/digest, dataset ID and TRAIN/DEV split. Source financial
+values, answers, raw evidence and generated identifiers are not stored. Rules
+render from a fixed allowlist; arbitrary memory text cannot enter prompts.
 
-```yaml
-MemoryEntry:
-  source_question: string
-  strategy_findings: [string]
-  caution_rules: [string]
-  embedding_ref: string
-  provenance: string
-```
+Offline distillation accepts only validated terminal TRAIN/DEV trajectories,
+rejects overlap with declared held-out IDs/question hashes, and separates
+successful strategies from failure-derived guards. Offline indexing uses the
+existing pinned BGE-M3 encoder boundary. An immutable JSON vector index binds
+entries, normalized embeddings, embedding fingerprint and DEV calibration.
+Calibration requires both relevant and irrelevant development examples with a
+separating cosine threshold; no uncalibrated default is activated.
 
-Inference policy:
+Inference embeds normalized structured context, applies semantic threshold and
+exact compatibility of question type, formula, metrics and period kind,
+deduplicates rule content and caps injection at three entries. Required input
+count remains an embedding feature, not an exact-match constraint: an AVERAGE
+strategy learned from two periods can advise a three-period plan, whose arity
+still comes from the current registry. Missing, irrelevant or unavailable memory falls back to the same
+base Programmer input/policy. Advice cannot modify Plan, evidence, formula arity,
+token budget or retry budget. Artifact identity participates in live graph
+artifact versions. Index inference exposes no writer; held-out experiments
+verify index hashes before/after and never distill their cases.
 
-1. embed the current question + relevant context,
-2. retrieve candidate memory entries,
-3. discard entries below a calibrated similarity threshold,
-4. deduplicate,
-5. cap retrieval depth,
-6. inject only the remaining strategies/guards,
-7. otherwise fall back to the base policy.
+TASK-126 compares BASE (schema/Plan input without registry assistance),
+TOOLS_ONLY (current formula-registry assistance), and TOOLS_MEMORY (same tools
+plus gated advice). Every arm retains the same grounded input, real validator,
+OS sandbox and verifier. Reports distinguish synthetic train/dev and held-out
+mechanism checks from production quality. Retrieval coverage from supplied
+fixture evidence is reported as coverage, never production Recall@k/MRR.
 
-Memory cannot override current evidence or deterministic verification.
+TASK-101 connects the existing CHEAP activation decision to APIProgrammer's
+serving client and inference settings. Required or explicitly escalated STRONG
+calls remain STRONG even when the initial plan was CHEAP. Deployment can supply
+a separate `strong_client`; otherwise the existing single endpoint uses disabled
+thinking for CHEAP and enabled/high thinking for STRONG. Neither choice changes
+Plan or verification profile. Measured synthetic results and replay commands
+are recorded in `docs/TASKS.md`, M11 completion evidence.
 
-Held-out evaluation/test must not write new memory entries.
 
 ## 5. Routing Policy
 
@@ -3140,6 +3293,12 @@ Implementation lives in TASK-108 (shared Qwen3-8B role serving) and TASK-109
 network-free integrations over an injected transport (ADR-050) and are not yet
 wired into the online query path; live-GPU serving validation and the
 production `HttpTransport` path remain `GPU_PRODUCTION_VALIDATION_PENDING`.
+
+The following paragraph describes the **historical ADR-057 path**, before the
+model-backed assembly in ADR-064/065 and the TASK-101 wiring in ADR-067. Current
+`build_live_graph` uses APINLU and APIProgrammer; fixture dependencies retain
+their deterministic implementations. The historical blocker descriptions do
+not describe the current completed TASK-100 or synthetic TASK-101 measurement.
 
 The **v1 active query path contains no LLM** (verified in code, ADR-057). The M9
 graph calls `supervise_batch1` and `verify` as deterministic functions; NLU,

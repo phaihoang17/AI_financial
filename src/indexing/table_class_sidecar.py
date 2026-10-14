@@ -12,7 +12,9 @@ Matching is deliberately conservative:
   end of the previous table on that page),
 * a fixed-size deterministic preceding-context window,
 * Unicode NFKC normalization,
-* literal, case-insensitive matching with a small bounded amount of
+* literal, case- and diacritic-insensitive matching (OCR routinely corrupts
+  Vietnamese tone marks, e.g. "KẾT QUÀ"; folding is one character per
+  character, so spans still index the raw text) with a small bounded amount of
   non-alphanumeric formatting slack between tokens,
 * no fuzzy matching, no semantic / LLM classification,
 * a table whose window matches more than one distinct ``TableClass`` (or matches
@@ -67,7 +69,7 @@ from src.supervisor.schemas import TableClass
 
 TABLE_CLASS_SIDECAR_SCHEMA_VERSION = "m2-table-class-sidecar-v1"
 TABLE_CLASS_SIDECAR_BUILD_VERSION = "m2-table-class-sidecar-build-v1"
-TABLE_CLASS_REGISTRY_VERSION = "m2-table-class-registry-v1"
+TABLE_CLASS_REGISTRY_VERSION = "m2-table-class-registry-v2"
 TABLE_CLASS_SIDECAR_SQLITE_FILE = "table_class.sqlite"
 
 # Deterministic preceding-context window, in source-text characters.
@@ -92,6 +94,18 @@ def _nfkc(value: str) -> str:
     return unicodedata.normalize("NFKC", value)
 
 
+def _fold(value: str) -> str:
+    """Strip Vietnamese diacritics one character for one character (length-preserving)."""
+    folded = []
+    for char in value:
+        if char in "đĐ":
+            folded.append("d" if char == "đ" else "D")
+            continue
+        base = unicodedata.normalize("NFD", char)[0]
+        folded.append(char if unicodedata.combining(base) else base)
+    return "".join(folded)
+
+
 @dataclass(frozen=True)
 class TableClassRegistryEntry:
     """One literal recogniser: a statement-form code or a statement title."""
@@ -105,7 +119,7 @@ class TableClassRegistryEntry:
         if not isinstance(self.table_class, TableClass):
             raise SchemaValidationError("entry.table_class must be a TableClass")
         object.__setattr__(self, "literal", _require_string(self.literal, "literal"))
-        tokens = [match.group(0) for match in _TOKEN.finditer(_nfkc(self.literal))]
+        tokens = [match.group(0) for match in _TOKEN.finditer(_fold(_nfkc(self.literal)))]
         if not tokens:
             raise SchemaValidationError("entry.literal must contain a token")
         pattern = (
@@ -116,33 +130,56 @@ class TableClassRegistryEntry:
         object.__setattr__(self, "_regex", re.compile(pattern, re.IGNORECASE))
 
     def search(self, text: str) -> Optional[re.Match]:
-        return self._regex.search(text)
+        return self._regex.search(_fold(text))
 
 
 # Ordered, deterministic.  Codes and titles are separate entries so that a table
 # preceded by both still yields exactly one class (a "multiple match" that
 # agrees), while a window mixing forms of different classes yields no hint.
+# Form codes are written "B 02-DN" so the zero-width-allowing gap also accepts the
+# spaced OCR forms "B 02 – DN/HN". Credit institutions (Thông tư 49) number their
+# statements B02 (balance sheet) to B05 (notes) with a "/TCTD" suffix and title the
+# income statement "Báo cáo kết quả hoạt động (kinh doanh)".
 TABLE_CLASS_REGISTRY: Tuple[TableClassRegistryEntry, ...] = (
-    TableClassRegistryEntry("BALANCE_SHEET::B01-DN", TableClass.BALANCE_SHEET, "B01-DN"),
-    TableClassRegistryEntry("BALANCE_SHEET::B01-DN/HN", TableClass.BALANCE_SHEET, "B01-DN/HN"),
+    TableClassRegistryEntry("BALANCE_SHEET::B01-DN", TableClass.BALANCE_SHEET, "B 01-DN"),
+    TableClassRegistryEntry("BALANCE_SHEET::B01-DN/HN", TableClass.BALANCE_SHEET, "B 01-DN/HN"),
+    TableClassRegistryEntry("BALANCE_SHEET::B02/TCTD", TableClass.BALANCE_SHEET, "B 02/TCTD"),
     TableClassRegistryEntry(
         "BALANCE_SHEET::BANG-CAN-DOI-KE-TOAN",
         TableClass.BALANCE_SHEET,
         "BẢNG CÂN ĐỐI KẾ TOÁN",
     ),
-    TableClassRegistryEntry("INCOME_STATEMENT::B02-DN", TableClass.INCOME_STATEMENT, "B02-DN"),
+    TableClassRegistryEntry("INCOME_STATEMENT::B02-DN", TableClass.INCOME_STATEMENT, "B 02-DN"),
+    TableClassRegistryEntry("INCOME_STATEMENT::B03/TCTD", TableClass.INCOME_STATEMENT, "B 03/TCTD"),
     TableClassRegistryEntry(
         "INCOME_STATEMENT::BAO-CAO-KQHDKD",
         TableClass.INCOME_STATEMENT,
         "BÁO CÁO KẾT QUẢ HOẠT ĐỘNG KINH DOANH",
     ),
-    TableClassRegistryEntry("CASH_FLOW_STATEMENT::B03-DN", TableClass.CASH_FLOW_STATEMENT, "B03-DN"),
+    TableClassRegistryEntry(
+        "INCOME_STATEMENT::BAO-CAO-KQHD-RIENG",
+        TableClass.INCOME_STATEMENT,
+        "BÁO CÁO KẾT QUẢ HOẠT ĐỘNG RIÊNG",
+    ),
+    TableClassRegistryEntry(
+        "INCOME_STATEMENT::BAO-CAO-KQHD-HOP-NHAT",
+        TableClass.INCOME_STATEMENT,
+        "BÁO CÁO KẾT QUẢ HOẠT ĐỘNG HỢP NHẤT",
+    ),
+    TableClassRegistryEntry(
+        "INCOME_STATEMENT::BAO-CAO-KQKD",
+        TableClass.INCOME_STATEMENT,
+        "BÁO CÁO KẾT QUẢ KINH DOANH",
+    ),
+    TableClassRegistryEntry("CASH_FLOW_STATEMENT::B03-DN", TableClass.CASH_FLOW_STATEMENT, "B 03-DN"),
+    TableClassRegistryEntry("CASH_FLOW_STATEMENT::B04/TCTD", TableClass.CASH_FLOW_STATEMENT, "B 04/TCTD"),
     TableClassRegistryEntry(
         "CASH_FLOW_STATEMENT::BAO-CAO-LCTT",
         TableClass.CASH_FLOW_STATEMENT,
         "BÁO CÁO LƯU CHUYỂN TIỀN TỆ",
     ),
-    TableClassRegistryEntry("NOTES::B09-DN", TableClass.NOTES, "B09-DN"),
+    TableClassRegistryEntry("NOTES::B09-DN", TableClass.NOTES, "B 09-DN"),
+    TableClassRegistryEntry("NOTES::B05/TCTD", TableClass.NOTES, "B 05/TCTD"),
     TableClassRegistryEntry(
         "NOTES::THUYET-MINH-BCTC",
         TableClass.NOTES,

@@ -6,7 +6,6 @@ from enum import Enum
 import os
 from pathlib import Path
 import platform
-import signal
 import subprocess
 import sys
 import tempfile
@@ -14,6 +13,7 @@ import threading
 from time import monotonic_ns
 from typing import Any, Mapping
 
+from src.sandbox.host import admitted, exit_signal, kill_worker_tree, local_backend, popen_isolation_options
 from src.sandbox.interpreter import failure_result
 from src.sandbox.limits import (
     M7_LIMITS_V1,
@@ -29,7 +29,7 @@ from src.sandbox.protocol import (
     decode_canonical_json,
     encode_canonical_json,
 )
-from src.sandbox.production import production_worker_command
+from src.sandbox.production import launcher_environment, production_worker_command, resolve_isolation_mode
 from src.sandbox.schemas import (
     ExecutionFailure,
     ExecutionFailureStage,
@@ -111,22 +111,21 @@ def _worker_exited_on_memory_error(stderr: bytes) -> bool:
 
 
 def _kill_worker_group(process: subprocess.Popen[bytes]) -> None:
-    try:
-        os.killpg(process.pid, signal.SIGKILL)
-    except ProcessLookupError:
-        return
+    kill_worker_tree(process)
 
 
-def _worker_command(python_command: list[str]) -> list[str]:
+def _worker_command(python_command: list[str], **production_options: Any) -> list[str]:
     command = list(python_command)
     project_root = Path(__file__).resolve().parents[2]
     production_command = production_worker_command(
         command,
         project_root=project_root,
+        **production_options,
     )
     if production_command is not None:
         return production_command
-    if platform.system() != "Darwin":
+    # Linux applies rlimits and Windows a job object inside the worker itself.
+    if local_backend(platform.system()) != "darwin-sandbox-exec":
         return command
     sandbox_executable = Path("/usr/bin/sandbox-exec")
     if not sandbox_executable.is_file():
@@ -146,6 +145,7 @@ def _start_memory_monitor(
     process: subprocess.Popen[bytes],
     violation: list[WorkerResourceViolation],
     stop: threading.Event,
+    memory_bytes: int = M7_LIMITS_V1.memory_bytes,
 ) -> threading.Thread:
     if psutil is None:
         raise WorkerResourceViolation(
@@ -167,7 +167,7 @@ def _start_memory_monitor(
                             continue
                 except (psutil.NoSuchProcess, psutil.ZombieProcess):
                     return
-                if rss > M7_LIMITS_V1.memory_bytes:
+                if rss > memory_bytes:
                     violation.append(
                         WorkerResourceViolation(
                             ResourceLimitFailureCode.MEMORY_LIMIT,
@@ -204,6 +204,11 @@ def _invoke_worker(payload: bytes) -> subprocess.CompletedProcess[bytes]:
 
     project_root = Path(__file__).resolve().parents[2]
     command = _worker_command(_worker_python_command())
+    with admitted("m7", resolve_isolation_mode().value):
+        return _run_worker(command, payload, project_root)
+
+
+def _run_worker(command: list[str], payload: bytes, project_root: Path) -> subprocess.CompletedProcess[bytes]:
     violation: list[WorkerResourceViolation] = []
     stop = threading.Event()
     with tempfile.TemporaryDirectory(prefix="m7-worker-") as isolated_cwd:
@@ -215,8 +220,8 @@ def _invoke_worker(payload: bytes) -> subprocess.CompletedProcess[bytes]:
                 stdout=subprocess.PIPE,
                 stderr=subprocess.PIPE,
                 cwd=isolated_cwd,
-                env=expected_worker_environment(project_root),
-                start_new_session=True,
+                env=launcher_environment(expected_worker_environment(project_root)),
+                **popen_isolation_options(),
             )
             monitor = _start_memory_monitor(process, violation, stop)
             try:
@@ -312,7 +317,7 @@ def execute_sandboxed(
             start_ns,
         )
     if completed.returncode != 0:
-        if completed.returncode == -signal.SIGXCPU:
+        if completed.returncode == exit_signal("SIGXCPU"):
             return failure_result(
                 request.program.program_id,
                 resource_failure(
@@ -321,7 +326,7 @@ def execute_sandboxed(
                 ),
                 execution_ms=_elapsed_ms(start_ns),
             )
-        if completed.returncode == -signal.SIGXFSZ:
+        if completed.returncode == exit_signal("SIGXFSZ"):
             return failure_result(
                 request.program.program_id,
                 resource_failure(

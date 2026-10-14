@@ -1,5 +1,9 @@
 import hashlib
+import os
 from pathlib import Path
+import re
+import shutil
+import subprocess
 import threading
 import tempfile
 import unittest
@@ -16,6 +20,7 @@ from src.sandbox.production import (
     PRODUCTION_PROJECT_ROOT,
     PRODUCTION_SECCOMP_POLICY_SHA256,
     SANDBOX_ISOLATION_MODE_ENV,
+    T2P_NSJAIL_CONFIG_SHA256,
     SandboxIsolationMode,
     production_worker_command,
     resolve_isolation_mode,
@@ -29,6 +34,24 @@ from tests.sandbox.execution_helpers import execution_request_for
 REPOSITORY_ROOT = Path(__file__).resolve().parents[2]
 NSJAIL_CONFIG = REPOSITORY_ROOT / "deploy" / "sandbox" / "m7-nsjail.cfg"
 SECCOMP_POLICY = REPOSITORY_ROOT / "deploy" / "sandbox" / "m7-seccomp.policy"
+T2P_NSJAIL_CONFIG = REPOSITORY_ROOT / "deploy" / "sandbox" / "t2p-nsjail.cfg"
+INSTALLED_NSJAIL = os.environ.get("NSJAIL_TEST_BINARY") or shutil.which("nsjail") or (
+    "/usr/local/bin/nsjail" if Path("/usr/local/bin/nsjail").is_file() else None
+)
+
+
+def _namespace_free_profile(config: str) -> str:
+    """The approved profile minus the controls that need a privileged host.
+
+    Drops user/mount/cgroup setup so the real NsJail binary can parse the
+    config, compile the pinned seccomp policy and apply rlimits/no_new_privs
+    on any Linux host, including an unprivileged container.
+    """
+    config = re.sub(r"(?ms)^(uidmap|gidmap|mount) \{.*?^\}\n", "", config)
+    config = re.sub(r"(?m)^(clone_new\w+): true$", r"\1: false", config)
+    config = re.sub(r"(?m)^(detect_cgroupv2|cgroup_\w+|iface_no_lo):.*\n", "", config)
+    config = re.sub(r"(?m)^cwd: .*$", 'cwd: "/"', config)
+    return re.sub(r"(?m)^seccomp_policy_file: .*$", f'seccomp_policy_file: "{SECCOMP_POLICY}"', config)
 
 
 class ProductionSandboxBoundaryTests(unittest.TestCase):
@@ -237,6 +260,38 @@ class ProductionSandboxBoundaryTests(unittest.TestCase):
         self.assertIn('src: "/opt/ai-financial/src"', config)
         for syscall in ("socket", "connect", "clone", "execveat", "ptrace"):
             self.assertIn(syscall, policy)
+
+    def test_profiles_use_syntax_the_pinned_nsjail_accepts(self):
+        self.assertEqual(
+            hashlib.sha256(T2P_NSJAIL_CONFIG.read_bytes()).hexdigest(),
+            T2P_NSJAIL_CONFIG_SHA256,
+        )
+        for path in (NSJAIL_CONFIG, T2P_NSJAIL_CONFIG):
+            config = path.read_text(encoding="utf-8")
+            # NsJail 3.4 aborts when both are set; swap_max alone is the v2 form.
+            self.assertNotRegex(config, r"(?m)^cgroup_mem_memsw_max:")
+            self.assertIn("cgroup_mem_swap_max: 0", config)
+            # Root runs NsJail (cgroup v2), so the jail must map to nobody, not to root.
+            self.assertEqual(config.count('outside_id: "65534"'), 2)
+        policy = SECCOMP_POLICY.read_text(encoding="utf-8")
+        # kafel reads '#' as a preprocessor directive and has no per-arch clause.
+        self.assertFalse(re.search(r"(?m)^\s*#", policy))
+        self.assertNotIn(" ON ", policy)
+
+    @unittest.skipUnless(INSTALLED_NSJAIL, "NsJail binary is not installed")
+    def test_installed_nsjail_compiles_policy_and_enforces_it(self):
+        with tempfile.TemporaryDirectory() as directory:
+            for name, path in (("m7", NSJAIL_CONFIG), ("t2p", T2P_NSJAIL_CONFIG)):
+                profile = Path(directory) / f"{name}.cfg"
+                profile.write_text(_namespace_free_profile(path.read_text(encoding="utf-8")), encoding="utf-8")
+                ok = subprocess.run([INSTALLED_NSJAIL, "--config", str(profile), "-q", "--", "/bin/true"],
+                                    capture_output=True, timeout=30, check=False)
+                self.assertEqual(ok.returncode, 0, ok.stderr.decode(errors="replace")[-500:])
+                denied = subprocess.run(
+                    [INSTALLED_NSJAIL, "--config", str(profile), "-q", "--", "/bin/sh", "-c", "/bin/true"],
+                    capture_output=True, timeout=30, check=False)
+                # The shell cannot fork/clone its child under the policy.
+                self.assertNotEqual(denied.returncode, 0)
 
 
 if __name__ == "__main__":

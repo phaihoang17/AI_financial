@@ -6,13 +6,16 @@ from dataclasses import dataclass
 from hashlib import sha256
 import json
 from pathlib import Path
-from typing import Dict, Iterable, List, Mapping, Sequence
+import sqlite3
+from typing import Dict, Iterable, List, Mapping, Sequence, Tuple
 
 from src.indexing.embedding_artifact_builder import (
     EmbeddingArtifactBuilderError,
     _InputArtifact,
+    _InputRecord,
     _iter_input_records,
     _validate_input_manifest,
+    parse_input_record,
 )
 from src.indexing.embedding_schemas import EmbeddingChunk
 from src.indexing.schemas import RetrievalRepresentation
@@ -159,3 +162,68 @@ class CorpusCandidateLoader:
                     raise CorpusCandidateError("DUPLICATE_CANDIDATE_LOCATION", candidate.candidate_id)
                 candidates[candidate.candidate_id] = candidate
         return candidates
+
+
+class CorpusRecordLocator:
+    """Read selected M2 records by their persisted position instead of a corpus pass.
+
+    The committed M2B vector metadata maps every chunk to its corpus shard and
+    line. Each record is re-validated exactly as a full pass validates it
+    (canonical JSON, schema, provenance, source order), and its chunk and
+    representation IDs must equal the requested ones.
+    """
+
+    def __init__(self, corpus: _InputArtifact, vector_metadata_path: str | Path) -> None:
+        self._corpus = corpus
+        self._metadata_path = Path(vector_metadata_path)
+        self._shards = {str(entry["file"]): entry for entry in corpus.shard_entries}
+        self._line_offsets: Dict[str, List[int]] = {}
+
+    def _offsets(self, relative: str) -> List[int]:
+        if relative not in self._line_offsets:
+            data = (self._corpus.root / relative).read_bytes()
+            offsets, position = [0], data.find(b"\n")
+            while position != -1:
+                offsets.append(position + 1)
+                position = data.find(b"\n", position + 1)
+            self._line_offsets[relative] = offsets
+        return self._line_offsets[relative]
+
+    def records(self, keys: Iterable[Tuple[str, str]]) -> Dict[Tuple[str, str], _InputRecord]:
+        """Return the records for (chunk_id, representation_id) keys; unknown keys are absent."""
+        wanted = {chunk_id: representation_id for chunk_id, representation_id in keys}
+        if not wanted:
+            return {}
+        connection = sqlite3.connect(f"file:{self._metadata_path}?mode=ro", uri=True)
+        try:
+            rows = []
+            chunk_ids = list(wanted)
+            for start in range(0, len(chunk_ids), 500):
+                batch = chunk_ids[start:start + 500]
+                rows += connection.execute(
+                    "SELECT chunk_id, representation_id, source_shard, source_record_index, source_order"
+                    f" FROM embeddings WHERE chunk_id IN ({','.join('?' * len(batch))})", batch,
+                ).fetchall()
+        finally:
+            connection.close()
+        found: Dict[Tuple[str, str], _InputRecord] = {}
+        for chunk_id, representation_id, relative, index, order in rows:
+            if wanted.get(chunk_id) != representation_id:
+                continue
+            entry = self._shards.get(relative)
+            if entry is None:
+                raise CorpusCandidateError("CORPUS_SOURCE_SHARD_MISSING", relative)
+            offsets = self._offsets(relative)
+            if not 0 <= index < len(offsets) - 1:
+                raise CorpusCandidateError("CORPUS_SOURCE_LOCATION_INVALID", relative)
+            with (self._corpus.root / relative).open("rb") as handle:
+                handle.seek(offsets[index])
+                line = handle.read(offsets[index + 1] - offsets[index])
+            try:
+                record = parse_input_record(self._corpus, relative, str(entry["sha256"]), index, line, order)
+            except EmbeddingArtifactBuilderError as error:
+                raise CorpusCandidateError("CORPUS_SOURCE_RECORD_INVALID", str(error)) from error
+            if (record.chunk.chunk_id, record.representation.representation_id) != (chunk_id, representation_id):
+                raise CorpusCandidateError("CORPUS_VECTOR_PROVENANCE_MISMATCH", chunk_id)
+            found[(chunk_id, representation_id)] = record
+        return found

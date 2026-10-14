@@ -1,0 +1,28 @@
+# Service level objectives of the financial question API (ADR-072).
+# Read by src/service/metrics.py (SLO accounting) and mirrored by the alert
+# rules in deploy/service/alerts.yml (multi-window, multi-burn-rate).
+
+window_days = 30
+
+[availability]
+# Good event: a typed answer or refusal. Bad event: HTTP 5xx (incl. 503
+# overload) or FAILED with an infrastructure/transport/sandbox-resource reason.
+target = 0.995
+
+[latency]
+# Share of ANSWERED requests completing within the threshold.
+threshold_seconds = 8.0
+target = 0.95
+
+[burn_rate]
+# Page when the 1h and 5m windows both burn the 30-day budget >= 14.4x
+# (2% of the budget in an hour); ticket at >= 6x over 6h and 30m.
+page = 14.4
+ticket = 6.0
+
+[correctness]
+# Quality is gated before release, not alerted at runtime: see
+# src/evaluation/production_gate.py (>= 95% holdout accuracy, >= 90% per group,
+# 0 fabricated numbers, 100% provenance on answered cases).
+holdout_accuracy_min = 0.95
+group_accuracy_min = 0.90

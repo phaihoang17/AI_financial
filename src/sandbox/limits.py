@@ -5,8 +5,12 @@ from __future__ import annotations
 from dataclasses import dataclass
 from enum import Enum
 import platform
-import resource
 import signal
+
+try:  # POSIX only; Windows workers use a job object (src/sandbox/windows_job.py).
+    import resource
+except ImportError:  # pragma: no cover - exercised on Windows
+    resource = None
 
 from src.sandbox.schemas import (
     EXECUTION_LIMITS_PROFILE_ID,
@@ -43,6 +47,23 @@ M7_LIMITS_V1 = SandboxLimitsProfile(
 )
 
 
+# ADR-069: the Text-to-Pandas worker imports pandas and runs untrusted generated
+# code over a per-question data slice, so it gets its own, larger profile. The
+# process, file-size and core limits are unchanged.
+T2P_PANDAS_LIMITS_V1 = SandboxLimitsProfile(
+    profile_id="t2p-pandas-limits-v1",
+    wall_clock_timeout_ms=10_000,
+    cpu_soft_seconds=5,
+    cpu_hard_seconds=6,
+    memory_bytes=768 * 1024 * 1024,
+    max_processes=1,
+    max_open_files=64,
+    max_file_size_bytes=0,
+    max_request_bytes=32 * 1024 * 1024,
+    max_output_bytes=4 * 1024 * 1024,
+)
+
+
 class ResourceLimitFailureCode(str, Enum):
     WALL_CLOCK_TIMEOUT = "WALL_CLOCK_TIMEOUT"
     CPU_TIME_LIMIT = "CPU_TIME_LIMIT"
@@ -54,6 +75,8 @@ class ResourceLimitFailureCode(str, Enum):
     OUTPUT_SIZE_LIMIT = "OUTPUT_SIZE_LIMIT"
     LIMIT_SETUP_FAILED = "LIMIT_SETUP_FAILED"
     MEMORY_MONITOR_UNAVAILABLE = "MEMORY_MONITOR_UNAVAILABLE"
+    # ADR-072: every worker slot stayed busy for the admission timeout.
+    CAPACITY_EXCEEDED = "CAPACITY_EXCEEDED"
 
 
 class WorkerResourceViolation(RuntimeError):
@@ -95,8 +118,26 @@ def _set_limit(kind: int, soft: int, hard: int, name: str) -> None:
 
 def apply_worker_resource_limits(
     profile: SandboxLimitsProfile = M7_LIMITS_V1,
+    *,
+    system_name: str | None = None,
 ) -> None:
     """Install OS limits inside the already-isolated trusted worker."""
+    if (system_name or platform.system()) == "Windows":
+        from src.sandbox.windows_job import apply_job_limits
+
+        try:
+            apply_job_limits(profile)
+        except (OSError, AttributeError, ValueError) as error:
+            raise WorkerResourceViolation(
+                ResourceLimitFailureCode.LIMIT_SETUP_FAILED,
+                "could not enforce the Windows job-object limits",
+            ) from error
+        return
+    if resource is None:
+        raise WorkerResourceViolation(
+            ResourceLimitFailureCode.LIMIT_SETUP_FAILED,
+            "POSIX resource limits are unavailable",
+        )
     try:
         signal.signal(signal.SIGXCPU, _raise_cpu_limit)
     except (OSError, ValueError) as error:

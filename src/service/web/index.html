@@ -1,0 +1,87 @@
+<!doctype html>
+<html lang="vi">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <meta name="color-scheme" content="light dark">
+  <title>Trợ lý BCTC</title>
+  <link rel="stylesheet" href="/static/app.css">
+  <script src="/static/app.js" defer></script>
+</head>
+<body>
+  <div class="app booting" id="app" data-sidebar="open" data-canvas="closed">
+    <aside class="sidebar" id="sidebar" aria-label="Phiên chat và dữ liệu">
+      <div class="brand">
+        <span class="brand-mark" aria-hidden="true">BC</span>
+        <span class="brand-name">Trợ lý BCTC</span>
+      </div>
+      <button class="btn btn-new" id="new-session" type="button">
+        <span class="ico" data-icon="plus" aria-hidden="true"></span>Phiên mới
+      </button>
+      <section class="side-section side-history" aria-labelledby="history-label">
+        <h2 class="eyebrow" id="history-label">Lịch sử chat</h2>
+        <ul class="session-list" id="session-list"></ul>
+      </section>
+      <section class="side-section data-box" aria-labelledby="data-label">
+        <h2 class="eyebrow" id="data-label">Dữ liệu đang dùng</h2>
+        <div id="data-box"></div>
+      </section>
+      <div class="side-foot">
+        <button class="btn btn-ghost btn-block" id="open-settings" type="button">
+          <span class="ico" data-icon="key" aria-hidden="true"></span>Mã truy cập API
+        </button>
+      </div>
+    </aside>
+    <div class="scrim" id="scrim" aria-hidden="true"></div>
+
+    <main class="main">
+      <header class="topbar">
+        <button class="icon-btn" id="toggle-sidebar" type="button" aria-label="Ẩn hoặc hiện thanh bên" aria-controls="sidebar">
+          <span class="ico" data-icon="menu" aria-hidden="true"></span>
+        </button>
+        <h1 class="session-title" id="session-title">Phiên mới</h1>
+        <span class="conn" id="conn" data-state="unknown">Đang kết nối…</span>
+      </header>
+      <div class="scroll" id="scroll">
+        <div class="thread" id="thread" aria-live="polite"></div>
+      </div>
+      <form class="composer" id="composer" autocomplete="off">
+        <div class="composer-box">
+          <label class="sr-only" for="question">Câu hỏi</label>
+          <textarea id="question" rows="1" maxlength="8000"
+            placeholder="Hỏi về báo cáo tài chính, ví dụ: ROE năm 2024 của OGC theo báo cáo hợp nhất?"></textarea>
+          <button class="btn btn-primary send" id="send" type="submit">Gửi<span class="ico" data-icon="send" aria-hidden="true"></span></button>
+        </div>
+        <p class="hint">Mỗi câu hỏi được trả lời độc lập, không dựa vào câu trước. Hãy nêu đủ mã CK, năm và loại báo cáo (hợp nhất hoặc riêng).</p>
+      </form>
+    </main>
+
+    <aside class="canvas" id="canvas" aria-label="Chi tiết kết quả">
+      <header class="canvas-head">
+        <div class="canvas-title" id="canvas-title"></div>
+        <button class="icon-btn" id="close-canvas" type="button" aria-label="Đóng bảng chi tiết">
+          <span class="ico" data-icon="close" aria-hidden="true"></span>
+        </button>
+      </header>
+      <nav class="tabs" id="tabs" role="tablist"></nav>
+      <div class="canvas-tools" id="canvas-tools"></div>
+      <div class="canvas-body" id="canvas-body"></div>
+    </aside>
+  </div>
+
+  <dialog class="dialog" id="settings" aria-labelledby="settings-title">
+    <form method="dialog" id="settings-form">
+      <h2 id="settings-title">Mã truy cập API</h2>
+      <p class="muted" id="settings-note">Máy chủ bật xác thực khi đặt biến <code>AIFIN_API_TOKEN</code>. Mã chỉ lưu trong trình duyệt này.</p>
+      <label class="field-label" for="token">Mã truy cập</label>
+      <input class="field" id="token" type="password" autocomplete="off" spellcheck="false">
+      <div class="dialog-actions">
+        <button class="btn btn-ghost" value="clear" type="submit">Xóa mã</button>
+        <span class="spacer"></span>
+        <button class="btn btn-ghost" value="cancel" type="submit">Đóng</button>
+        <button class="btn btn-primary" value="save" type="submit">Lưu</button>
+      </div>
+    </form>
+  </dialog>
+</body>
+</html>

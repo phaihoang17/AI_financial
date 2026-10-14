@@ -60,5 +60,17 @@ class PathPeriodTests(unittest.TestCase):
         self.assertNotIn("2022", path_periods(["Năm trước"], 2023))
         self.assertNotIn("2023", path_periods(["Năm nay"], None))
 
+    def test_explicit_year_column_header_names_that_year(self):
+        self.assertIn("2023", path_periods(["Năm 2023", "VND"], 2023))
+        self.assertIn("2022", path_periods(["Năm 2022"], 2023))
+        self.assertIn("2023", path_periods(["Năm tài chính 2023 VND"], 2023))
+        self.assertIn("2023", path_periods(["Năm tài chính kết thúc", "2023 Triệu đồng"], 2023))
+        self.assertNotIn("2023", path_periods(["Năm 2023 so với năm 2022"], 2023))
+        self.assertNotIn("2023", path_periods(["Tăng trưởng năm 2023"], 2023))
+        self.assertIn("2022", path_periods(["Cho năm tài chính kết thúc ngày 31 tháng 12 năm 2022"], 2022))
+        self.assertIn("2020", path_periods(["Năm nay VND"], 2020))
+        self.assertNotIn("2019", path_periods(["Năm trước VND"], 2020))
+        self.assertNotIn("2022", path_periods(["Ngày 31 tháng 12 năm 2022"], 2022))
+
 
 if __name__ == "__main__": unittest.main()

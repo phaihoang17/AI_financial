@@ -1,0 +1,10 @@
+{
+  "frozen_at": "2026-10-13T23:44:39+00:00",
+  "rule": "Second holdout, built after holdout 1 was scored once (104/127) and became development data. Frozen before any analysis of holdout-1 misses or any fix; scored once per frozen system.",
+  "files": {
+    "all-questions.jsonl": "85e862bcaa1335d3ff8624790cce7dfe47d7c31d8f215d39e7dfbdd0c82eacef",
+    "audit.json": "79bcc7bafff9fa0083e15c27337d863c5b0a8a507583aafb42cdc5ddcf62b7c9",
+    "gold.jsonl": "dbdb5d0151a505e984ad17dc9e56038f56cbd80134cc874fa7a8cd1b51abf150",
+    "negative.jsonl": "21b1d2d660673841ca5f94d9e87ef6104d35fdd737f24ea23a6aaa2365da2af7"
+  }
+}

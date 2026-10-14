@@ -102,6 +102,36 @@ class HeaderInferenceTests(unittest.TestCase):
         self.assertEqual(result.roles[code_cell.cell_id].value, "UNKNOWN")
         self.assertEqual(result.period_labels, ["2022"])
 
+    def test_bank_line_ordinal_column_is_a_label_column(self):
+        # Thông tư 49 bank income statement: STT ordinals mix digits and Roman numerals.
+        table, _, result = infer(
+            "<table>"
+            '<tr><td rowspan="2" colspan="2"></td><td rowspan="2">Thuyết minh</td>'
+            '<td colspan="2">Năm tài chính kết thúc ngày 31 tháng 12 năm</td></tr>'
+            "<tr><td>2023 Triệu đồng</td><td>2022 Triệu đồng</td></tr>"
+            "<tr><td>1</td><td>Thu nhập lãi</td><td>19</td><td>14.699.192</td><td>12.170.179</td></tr>"
+            "<tr><td>I</td><td>Thu nhập lãi thuần</td><td></td><td>4.581.069</td><td>5.582.871</td></tr>"
+            "<tr><td>XIII</td><td>Lợi nhuận sau thuế</td><td></td><td>2.146.292</td><td>2.944.377</td></tr>"
+            "</table>"
+        )
+        value_cell = next(cell for cell in table.cells if cell.extracted_text == "2.146.292")
+        ordinal_cell = next(cell for cell in table.cells if cell.extracted_text == "1")
+
+        self.assertEqual([item.label for item in result.row_paths[value_cell.cell_id]], ["Lợi nhuận sau thuế"])
+        self.assertEqual(
+            [item.label for item in result.column_paths[value_cell.cell_id]],
+            ["Năm tài chính kết thúc ngày 31 tháng 12 năm", "2023 Triệu đồng"],
+        )
+        self.assertEqual(result.roles[ordinal_cell.cell_id].value, "UNKNOWN")
+
+    def test_numeric_first_data_column_is_not_an_ordinal_label_column(self):
+        _, _, result = infer(
+            "<table>"
+            "<tr><td>1</td><td>2</td></tr><tr><td>3</td><td>4</td></tr><tr><td>5</td><td>6</td></tr>"
+            "</table>"
+        )
+        self.assertEqual(result.hierarchy.nodes, [])
+
     def test_period_grammar_is_exact_and_preserves_source_order(self):
         _, _, result = infer(
             "<table>"
@@ -115,7 +145,10 @@ class HeaderInferenceTests(unittest.TestCase):
         self.assertEqual(normalize_period_label("Quý 4/2024"), "2024-Q4")
         self.assertEqual(normalize_period_label("  Ｑ1/2024  "), "2024-Q1")
         self.assertEqual(normalize_period_label("2023 VND"), "2023")
-        for value in ("Năm 2024", "Q1", "Quý 2", "31/12/2024", "năm trước", "2023 USD"):
+        self.assertEqual(normalize_period_label("2023 Triệu đồng"), "2023")
+        self.assertEqual(normalize_period_label("2023 nghìn VND"), "2023")
+        self.assertEqual(normalize_period_label("2020VND"), "2020")
+        for value in ("Năm 2024", "Q1", "Quý 2", "31/12/2024", "năm trước", "2023 USD", "2023 triệu USD"):
             with self.subTest(value=value):
                 self.assertIsNone(normalize_period_label(value))
 

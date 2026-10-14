@@ -54,7 +54,7 @@ class SchemaLinkerTests(unittest.TestCase):
         self.assertEqual(result.row_path, location.row_path)
 
     def test_multiple_valid_locations_are_ambiguous_and_ordered(self):
-        item_b, location_b = grounded_cell("b")
+        item_b, location_b = grounded_cell("b", raw_value="13.00", decimal_value="13.00")
         item_a, location_a = grounded_cell("a")
         results = link_schema(
             plan(),
@@ -96,3 +96,85 @@ class SchemaLinkerTests(unittest.TestCase):
 
 if __name__ == "__main__":
     unittest.main()
+
+
+def test_schema_linking_uses_target_report_not_next_reports_comparative_column():
+    from dataclasses import replace
+    current, current_location = grounded_cell(
+        "current", row_labels=("Lợi nhuận sau thuế TNDN (60 = 50 - 51 - 52) Phân bổ cho:",))
+    comparative, comparative_location = grounded_cell("comparative", row_labels=("Lợi nhuận sau thuế TNDN",))
+    current = replace(current, report_year=2015)
+    comparative = replace(comparative, report_year=2016)
+    current_location = replace(current_location, report_year=2015)
+    comparative_location = replace(comparative_location, report_year=2016)
+    result = link_schema(plan(), [comparative, current], {
+        current.evidence_id: current_location,
+        comparative.evidence_id: comparative_location,
+    })
+    assert len(result) == 1
+    assert result[0].status is SchemaLinkStatus.RESOLVED
+    assert result[0].evidence_id == current.evidence_id
+    assert result[0].row_path == current_location.row_path
+
+
+def test_schema_linking_preserves_wrong_year_for_verifier_retry_when_no_target_report():
+    from dataclasses import replace
+    item, location = grounded_cell()
+    item = replace(item, report_year=2016)
+    location = replace(location, report_year=2016)
+    result = link_schema(plan(), [item], {item.evidence_id: location})
+    assert len(result) == 1
+    assert result[0].status is SchemaLinkStatus.RESOLVED
+    assert result[0].evidence_id == item.evidence_id
+    assert location.report_year == 2016
+
+
+def test_same_year_duplicates_with_different_values_remain_ambiguous():
+    from dataclasses import replace
+    pairs = [grounded_cell("first"), grounded_cell("second", raw_value="13.00", decimal_value="13.00")]
+    evidence = [replace(item, report_year=2015) for item, _ in pairs]
+    locations = {item.evidence_id: replace(location, report_year=2015)
+                 for item, location in pairs}
+    result = link_schema(plan(), evidence, locations)
+    assert len(result) == 2
+    assert all(link.status is SchemaLinkStatus.AMBIGUOUS for link in result)
+
+
+def test_one_figure_repeated_in_one_report_resolves_to_the_income_statement_cell():
+    from dataclasses import replace
+    from src.supervisor.schemas import TableClass
+    pairs = [grounded_cell(name) for name in ("carried", "statement")]
+    evidence = [replace(item, report_year=2015) for item, _ in pairs]
+    locations = {item.evidence_id: replace(location, report_year=2015) for item, location in pairs}
+    locations["evidence-statement"] = replace(locations["evidence-statement"], table_class=TableClass.INCOME_STATEMENT)
+    result = link_schema(plan(), evidence, locations)
+    assert [(link.status, link.evidence_id) for link in result] == [
+        (SchemaLinkStatus.RESOLVED, "evidence-statement")]
+
+
+def test_equal_values_from_different_reports_remain_ambiguous():
+    from dataclasses import replace
+    pairs = [grounded_cell(name) for name in ("first", "second")]
+    evidence = [replace(pairs[0][0], report_year=2015),
+                replace(pairs[1][0], report_year=2015, report_ref="other-report")]
+    locations = {pairs[0][0].evidence_id: replace(pairs[0][1], report_year=2015),
+                 pairs[1][0].evidence_id: replace(pairs[1][1], report_year=2015, report_id="other-report")}
+    result = link_schema(plan(), evidence, locations)
+    assert all(link.status is SchemaLinkStatus.AMBIGUOUS for link in result)
+
+
+def test_one_repeated_figure_prefers_the_fullest_table():
+    from dataclasses import replace
+    note, note_location = grounded_cell("a-note")
+    statement, statement_location = grounded_cell("b-statement")
+    other, other_location = grounded_cell("c-other-line", row_labels=("Doanh thu",))
+    statement_location = replace(statement_location, table_id="statement-table")
+    other_location = replace(other_location, table_id="statement-table")
+    statement = replace(statement, table_ref="statement-table")
+    other = replace(other, table_ref="statement-table")
+    result = link_schema(plan(), [note, statement, other], {
+        note.evidence_id: note_location, statement.evidence_id: statement_location,
+        other.evidence_id: other_location,
+    })
+    assert [(link.status, link.evidence_id) for link in result] == [
+        (SchemaLinkStatus.RESOLVED, "evidence-b-statement")]
