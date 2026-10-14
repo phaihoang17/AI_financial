@@ -36,11 +36,11 @@ DYLD_LIBRARY_PATH="$PWD/.venv/lib/python3.11/site-packages/faiss/.dylibs" \
 OMP_NUM_THREADS=2 \
 .venv/bin/python -m src.evaluation.run_live_e2e_eval \
   --questions gold/retrieval/pilot.jsonl \
-  --corpus-artifact m2-corpus-v1/4f39603a89e213129de6c57e1234456e88086832c8b61bd9821770d76a6dc78e \
-  --vector-artifact m2-vector-index-v1/full-corpus-rtx5090 \
-  --bm25-artifact artifacts/m3-bm25-v1 \
-  --provenance-artifact m2-provenance-v1 \
-  --table-class-artifact m2-table-class-v1 \
+  --corpus-artifact artifacts/reindex-adr062/m2-corpus/7c14b5498ce3871adfc61d8a475e910ad90e2e2143f6298a3d1342c048499a66 \
+  --vector-artifact artifacts/reindex-adr062/m2-vector-index \
+  --bm25-artifact artifacts/reindex-adr062/m3-bm25 \
+  --provenance-artifact artifacts/reindex-adr062/m2-provenance \
+  --table-class-artifact artifacts/reindex-adr062/m2-table-class \
   --raw-corpus data/vifinqa/financial_statements \
   --output scratch_logs/task100-live-e2e.json
 ```
