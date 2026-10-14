@@ -1,1 +1,0 @@
-{"acceptance_thresholds": null, "answer_accuracy": null, "baseline_config": {"model_tier": "STRONG", "verify_profile": "STRICT"}, "blockers": ["MISSING_CORPUS_ARTIFACT", "MISSING_RUNS"], "established": false, "evaluation_mode": "RECORDED_E2E", "schema_version": "m10-strong-strict-correctness-baseline-v2", "status": "BLOCKED"}
