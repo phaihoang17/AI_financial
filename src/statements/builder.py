@@ -45,6 +45,17 @@ BUILD_VERSION = "statement-set-build-v1"
 FORMS = {"BALANCE_SHEET": "B01-DN", "INCOME_STATEMENT": "B02-DN", "CASH_FLOW_STATEMENT": "B03-DN"}
 SUPPORTED = "TT200"
 _TAG = re.compile(r"<[^>]+>")
+# A line that opens B09, not a statement footer that only mentions the notes.
+_NOTES_HEADING = re.compile(r"(?:ban )?thuyet minh bao cao tai chinh|thong tin bo sung cho cac khoan muc")
+_OTHER_SCOPE = {"HOP_NHAT": re.compile(r"\brieng\b"), "RIENG": re.compile(r"\bhop nhat\b")}
+
+
+def _notes_heading(text: str) -> bool:
+    for line in text.splitlines():
+        folded = fold(line).strip(" .:-*")
+        if _NOTES_HEADING.match(folded) or (_NOTES_FORM.search(folded) and not _NOTES_HEADING.search(folded)):
+            return True
+    return False
 
 
 class StatementBuildError(RuntimeError):
@@ -91,7 +102,7 @@ def notes_blocks(source: Any, document: Any, after: int) -> tuple[int | None, li
             if start < after:
                 continue
             if started is None:
-                if kind != "text" or not _NOTES_FORM.search(fold(item.raw_text)):
+                if kind != "text" or not _notes_heading(item.raw_text):
                     continue
                 started = start
             if kind == "text":
@@ -162,6 +173,9 @@ def build_report(source: Any, report: Mapping[str, Any]) -> tuple[str, dict[str,
 
     if not notes:
         warnings.append("NOTES_NOT_FOUND")
+    elif _OTHER_SCOPE[report["statement_scope"]].search(fold(notes[0].get("text", ""))):
+        # e.g. a file printing the separate set before the consolidated one
+        warnings.append("NOTES_SCOPE_MISMATCH")
     checks = check_identities(values)
     missing = missing_required(values)
     for statement, sheet in statements.items():
@@ -171,7 +185,8 @@ def build_report(source: Any, report: Mapping[str, Any]) -> tuple[str, dict[str,
             warnings.append(f"MIXED_SCALES {FORMS[statement]}")
     # Notes and scale warnings are shown but do not concern whether the figures add up.
     reconciled = (not missing and all(check["status"] != "FAIL" for check in checks)
-                  and not any(warning.startswith(("DUPLICATE_CODE", "STATEMENT_NOT_FOUND")) for warning in warnings))
+                  and not any(warning.startswith(("DUPLICATE_CODE", "STATEMENT_NOT_FOUND", "NOTES_SCOPE_MISMATCH"))
+                              for warning in warnings))
     return SUPPORTED, {
         "schema_version": SCHEMA_VERSION,
         "report_id": source.report_id,

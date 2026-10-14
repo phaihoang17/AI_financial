@@ -144,6 +144,10 @@
     const lines = [header, ...rows].map((row) => row.map(cell).join(','));
     // The BOM makes Excel read the file as UTF-8 (Vietnamese diacritics).
     const blob = new Blob(['﻿' + lines.join('\r\n')], { type: 'text/csv;charset=utf-8' });
+    downloadBlob(filename, blob);
+  }
+
+  function downloadBlob(filename, blob) {
     const url = URL.createObjectURL(blob);
     const link = h('a', { href: url, download: filename });
     document.body.append(link);
@@ -506,7 +510,55 @@
       row('Năm tài chính', years),
       row('Release', catalog.release),
       h('button', { class: 'btn btn-sm', type: 'button', onclick: openCoverage }, icon('building'), 'Danh sách doanh nghiệp'),
+      statementForm(catalog),
     );
+  }
+
+  // Statement-set PDF (ADR-075). Bank forms are not built; the server explains other refusals.
+  function statementForm(catalog) {
+    const companies = catalog.companies.filter((c) => c.template !== 'BANK');
+    if (!companies.length) return null;
+    const SCOPE_NAMES = { HOP_NHAT: 'Hợp nhất', RIENG: 'Riêng' };
+    const company = h('select', { class: 'select', id: 'statement-company', 'aria-label': 'Doanh nghiệp' },
+      companies.map((c) => h('option', { value: c.ticker }, `${c.ticker} · ${c.company_name}`)));
+    const year = h('input', { class: 'field field-year', id: 'statement-year', type: 'number', inputmode: 'numeric',
+      'aria-label': 'Năm tài chính' });
+    const scope = h('select', { class: 'select', id: 'statement-scope', 'aria-label': 'Phạm vi báo cáo' });
+    const status = h('div', { class: 'muted statement-status', role: 'status' });
+    const sync = () => {
+      const chosen = companies.find((c) => c.ticker === company.value) || companies[0];
+      year.min = chosen.first_year;
+      year.max = chosen.last_year;
+      year.value = chosen.last_year;
+      scope.replaceChildren(...chosen.statement_scopes.map((value) => h('option', { value }, SCOPE_NAMES[value] || value)));
+    };
+    company.addEventListener('change', sync);
+    sync();
+    const button = h('button', { class: 'btn btn-sm', type: 'button' }, 'Tải BCTC (PDF)');
+    button.addEventListener('click', async () => {
+      button.disabled = true;
+      status.textContent = 'Đang tạo PDF…';
+      const query = new URLSearchParams({ ticker: company.value, year: year.value, scope: scope.value });
+      try {
+        const response = await fetch(`/v1/statements?${query}`, { headers: headers() });
+        if (!response.ok) {
+          const body = await response.json().catch(() => ({}));
+          status.textContent = response.status === 401 ? 'Cần mã truy cập để tải.' : (body.message || `Lỗi ${response.status}.`);
+          return;
+        }
+        downloadBlob(`BCTC_${company.value}_${year.value}_${scope.value}.pdf`, await response.blob());
+        status.textContent = response.headers.get('X-Statement-Status') === 'RECONCILED'
+          ? 'Đã tải. Các đẳng thức kế toán đều khớp.'
+          : 'Đã tải. Có phép đối chiếu không đạt: xem Phụ lục trong PDF.';
+      } catch (error) {
+        status.textContent = 'Không kết nối được máy chủ.';
+      } finally {
+        button.disabled = false;
+      }
+    });
+    return h('div', { class: 'statement-form' },
+      h('label', { class: 'field-label', for: 'statement-company' }, 'Bộ báo cáo tài chính (PDF)'),
+      company, h('div', { class: 'statement-row' }, year, scope), button, status);
   }
 
   function setSidebar(open) {

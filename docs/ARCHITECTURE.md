@@ -54,6 +54,21 @@ list/dict results), the source cells grouped by report, and the program when the
 response carries one. Chat history lives in the browser; every question is still
 answered independently.
 
+**Statement-set PDF** (`src/statements/`, ADR-075). Offline,
+`python -m src.statements.builder` re-reads every corpus report through the
+catalog's own table reader (`catalog_builder.statement_tables` and
+`_TableReader.lines`: both period columns, every printed line including headings
+and "-" cells), takes B09 from its first heading line after the first B03 table as
+ordered paragraph/table blocks, checks the code-keyed identities of
+`src/formulas/identities.py` and writes `reports/<report_id>.json.gz` plus a
+manifest (`statements_id` = SHA-256 over the per-file hashes; per-identity pass
+counts; a parity check that every catalog fact is read back unchanged). A release
+may pin the artifact (`statements`, `statements_id`, checked in preflight);
+`GET /v1/statements?ticker=&year=&scope=` loads one file (hash-checked on read),
+renders it with fpdf2 (`src/statements/pdf.py`, vendored Noto Sans) and returns
+`application/pdf`, or a typed `400/404/422 UNSUPPORTED_TEMPLATE/503` refusal. At
+most two renders run at once. The sidebar of the browser UI has the download form.
+
 A **release** (`src/service/release.py`) pins the catalog directory and its
 `catalog_id`, the generator (`provider:<name>` from `deploy/llm/providers.toml`,
 or `replay:<history>` of recorded programs for drills), the provider-config

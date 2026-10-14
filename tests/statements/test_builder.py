@@ -47,9 +47,12 @@ CASH = _table(["CHỈ TIÊU", "Mã số", "Thuyết minh", "Năm 2024", "Năm 20
     ["Lưu chuyển tiền thuần từ hoạt động đầu tư", "30", "", "(500.000.000)", "-"],
     ["Lưu chuyển tiền thuần từ hoạt động tài chính", "40", "", "300.000.000", "-"],
     ["Lưu chuyển tiền thuần trong năm", "50", "", "100.000.000", "100.000.000"],
+])
+# A continuation page without a header row keeps the previous page's columns.
+CASH_NEXT = "<table>" + "".join("<tr>" + "".join(f"<td>{cell}</td>" for cell in row) + "</tr>" for row in [
     ["Tiền và tương đương tiền đầu năm", "60", "", "300.000.000", "200.000.000"],
     ["Tiền và tương đương tiền cuối năm", "70", "", "400.000.000", "300.000.000"],
-])
+]) + "</table>"
 NOTES = _table(["Khoản mục", "31/12/2024", "01/01/2024"], [["Tiền mặt", "400.000.000", "300.000.000"]])
 
 RAW = (
@@ -57,7 +60,9 @@ RAW = (
     f"===== PAGE 2 =====\nBẢNG CÂN ĐỐI KẾ TOÁN\nTại ngày 31 tháng 12 năm 2024\nĐơn vị tính: VND\n\n{BALANCE}\n\n"
     f"===== PAGE 3 =====\nBÁO CÁO KẾT QUẢ HOẠT ĐỘNG KINH DOANH\nĐơn vị tính: VND\n\n{INCOME}\n\n"
     f"===== PAGE 4 =====\nBÁO CÁO LƯU CHUYỂN TIỀN TỆ\nĐơn vị tính: VND\n\n{CASH}\n\n"
-    "===== PAGE 5 =====\nTHUYẾT MINH BÁO CÁO TÀI CHÍNH\nMẪU SỐ B09 - DN\n\n1. Thông tin chung\n\n"
+    "Báo cáo này phải được đọc cùng với Bản thuyết minh Báo cáo tài chính hợp nhất\n\n"
+    f"===== PAGE 5 =====\nBÁO CÁO LƯU CHUYỂN TIỀN TỆ (tiếp theo)\nĐơn vị tính: VND\n\n{CASH_NEXT}\n\n"
+    "===== PAGE 6 =====\nTHUYẾT MINH BÁO CÁO TÀI CHÍNH\nMẪU SỐ B09 - DN\n\n1. Thông tin chung\n\n"
     f"5.1 Tiền\n\n{NOTES}\n"
 )
 
@@ -101,6 +106,19 @@ def test_identities_pass_and_notes_start_after_the_statements():
     assert "B09" in notes[0]["text"]  # not the auditor's mention on page 1
     table = next(block for block in notes if block["kind"] == "table")
     assert [cell["text"] for cell in table["rows"][1]] == ["Tiền mặt", "400.000.000", "300.000.000"]
+
+
+def test_a_footer_naming_the_notes_does_not_end_the_cash_flow_statement():
+    _template, statement_set = build_report(*_report())
+    closing = _line(statement_set, "CASH_FLOW_STATEMENT", "70")  # read from the continuation page
+    assert (closing["current"]["value"], closing["prior"]["value"]) == ("400000000", "300000000")
+    assert statement_set["notes"][0]["text"].startswith("THUYẾT MINH")
+
+
+def test_notes_of_the_other_scope_are_flagged():
+    raw = RAW.replace("THUYẾT MINH BÁO CÁO TÀI CHÍNH\n", "THUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG\n")
+    _template, statement_set = build_report(*_report(raw))
+    assert "NOTES_SCOPE_MISMATCH" in statement_set["warnings"] and statement_set["status"] == "NOT_RECONCILED"
 
 
 def test_misread_total_is_flagged_never_corrected():

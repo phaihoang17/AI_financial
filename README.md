@@ -129,6 +129,21 @@ metric. Enter it in the clarification card to keep the company, years and scope
 in the next request; a statement name such as “kết quả kinh doanh” alone is not
 a metric.
 
+**Statement-set PDF (ADR-075).** The sidebar form "Bộ báo cáo tài chính (PDF)"
+downloads B01/B02/B03/B09 of one company, year and scope, reconstructed from the
+published report with a reconciliation appendix. Build the artifact once and pin it
+in the release:
+
+```bash
+python -m src.statements.builder --corpus-manifest <m2-corpus manifest.json> \
+  --raw-root data/vifinqa/financial_statements --out artifacts/statements-v1 \
+  --parity-catalog artifacts/t2p-catalog-v4
+python -m src.service.release deploy --root deploy/releases --release <id> \
+  --catalog artifacts/t2p-catalog-v4 --statements artifacts/statements-v1 --generator provider:deepseek
+curl -s -H "Authorization: Bearer $AIFIN_API_TOKEN" -o AAA_2015.pdf \
+  "localhost:8080/v1/statements?ticker=AAA&year=2015&scope=HOP_NHAT"
+```
+
 ```bash
 python -m src.service.app --release-root deploy/releases --port 8080   # chat UI at http://127.0.0.1:8080/
 curl -s localhost:8080/v1/ask -d '{"question": "ROE của FPT năm 2023 theo báo cáo hợp nhất là bao nhiêu?"}'

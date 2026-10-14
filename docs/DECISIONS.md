@@ -3668,3 +3668,85 @@ Imports of the old module paths and symbols fail; there is no alias period. Earl
 ADRs and task notes now cite the new names. `source_fingerprint()` hashes every
 `src/**/*.py`, so release and live-run records made before this change no longer match
 the current source and must be re-measured before a release preflight passes.
+
+---
+
+## ADR-075 — Reconstructed official statement set as a PDF
+
+**Status:** Implemented. Additive: the question pipeline, the `Plan` contract and
+catalog v4 are unchanged (a rebuild reproduces `catalog_id ddf9bae2…`); releases
+gain two optional fields.
+
+### Context
+
+Users asked to "lập bộ báo cáo tài chính chính thức": the full B01-DN, B02-DN,
+B03-DN and B09-DN of one company, year and scope, as a PDF. The question API
+answers one value at a time and asks for a metric when a question names only a
+report. The catalog keeps only the current-year column, drops "-" cells and
+headings, and skips the notes, so it cannot lay out a statement as printed.
+
+### Decision
+
+- The statement set is a deterministic reconstruction of the published report,
+  not a question class: no NLU, Supervisor, LLM or generated code is involved.
+- The catalog's table reader is shared, not copied:
+  `catalog_builder.statement_tables()` yields every B01/B02/B03 table with its
+  layout and scale (skipped tables carry their reason), `_Layout` adds
+  `prior_column` and `note_column`, and `_TableReader.lines()` yields every
+  printed line (headings and "-" cells included) with both period cells.
+  `extract_report_facts` runs on the same generator.
+- Accounting identities keyed by printed line code live in
+  `src/formulas/identities.py` (B01 section sums and 270 = 440; the B02 chain
+  10/20/30/40/50/60 and 60 = 61 + 62; B03 50 and 70; B03 70 and 60 against B01
+  110). Each is checked per period column as PASS, FAIL or MISSING (an omitted
+  summand counts as zero). Expense lines are read as costs when the report prints
+  them in parentheses. The tolerance is two printed units of the coarsest member.
+  Checks report; they never change a figure.
+- `python -m src.statements.builder` writes `reports/<report_id>.json.gz` and a
+  manifest. Each report holds the lines as printed, B09 as ordered
+  paragraph/table blocks, the checks and warnings.
+  - B09 starts at the first line that opens the notes after the first B03 table.
+    A footer that only mentions the notes does not start it.
+  - Tables inside B09 are notes, never statement lines.
+  - `NOTES_SCOPE_MISMATCH` flags a file whose notes name the other scope.
+  - The manifest carries `statements_id`, per-identity counts and a catalog parity
+    check: every catalog fact must be read back by the same `fact_id` with an equal
+    absolute value.
+- Only TT200/TT202 corporate forms are built. Securities (B0x-CTCK) and bank
+  (TT49, no "Mã số" column) reports are recorded as `UNSUPPORTED_TEMPLATE`.
+- A release may pin the artifact (`statements`, `statements_id`; preflight
+  `STATEMENTS_ID`). The ADR-073 rule "answers come only from the release's
+  catalog" extends to "served data comes only from artifacts the release pins".
+  `GET /v1/statements?ticker=&year=&scope=` (same token) loads one report,
+  checking its SHA-256 on read, and renders it with fpdf2 2.8.9 and vendored
+  Noto Sans (OFL). The PDF has a cover with a reconciliation banner and a
+  disclaimer that it is an automated reconstruction, not the signed original;
+  B01–B03 with failed-identity lines marked; B09 verbatim; and an appendix of
+  every check, warning and provenance. Refusals are typed 400/404/422/503, and at
+  most two renders run at once. The browser sidebar has the download form.
+
+### Measurement
+
+`artifacts/statements-v1` (`statements_id d231b6e1…`), built from the corpus
+`4f39603a…` in 244 s with 4 workers on the 8 GiB Mac:
+
+- **Templates:** 1,887 reports: 1,468 TT200, 385 bank, 22 securities, 12 with no
+  readable statement.
+- **Reconciliation:** 553 TT200 sets reconcile fully; 915 are flagged.
+- **Catalog parity:** 158,845 catalog facts read back with 0 missing and 0
+  mismatched; 4,636 catalog facts came from tables inside B09.
+- **Sampled failures:** mostly OCR — two figures merged into one cell, codes shifted
+  into value columns, a lost line code — plus a few pre-TT200 B02 layouts.
+- **Render time:** about 1 s per PDF.
+
+### Consequences and limits
+
+- Statements inherit the reader's classification gaps. An untitled B03 page, as in
+  VNM 2024 separate, is missing from the set (and from the catalog), and the set is
+  flagged.
+- A file printing both the separate and the consolidated set shows the first one,
+  flagged by `NOTES_SCOPE_MISMATCH`.
+- Wide notes tables wrap in narrow columns on A4 portrait.
+- Bank and securities templates, and moving the catalog's metric-keyed guard onto
+  `src/formulas/identities.py` (with catalog v5), are follow-ups. A test keeps the
+  two identity lists aligned until then.
