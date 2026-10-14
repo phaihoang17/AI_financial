@@ -15,6 +15,10 @@ NO_DATA or FAILED. ANSWERED requires every source/unit/period/formula check and
 the perturbed-source program check to pass. Monetary output stays RAW VND;
 percentage output uses PERCENT. Generated explanations never substitute for
 verified arithmetic.
+When the generator requests clarification for a company question without a
+recognized metric, the pipeline returns reason `MISSING_METRIC` with a concrete
+example; an `UNSUPPORTED` decision remains unsupported. The browser uses that
+reason to collect a metric and resends the complete question.
 
 Each run stores `request.json`, `attempt-N.json` and `response.json` in a unique
 history directory. The live CLI and benchmark are opt-in; acceptance does not

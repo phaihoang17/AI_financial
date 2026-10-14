@@ -149,6 +149,10 @@ class PandasPipeline:
                 return finish(ResponseStatus.ANSWERED, result=attempt.execution["result"], unit=program.result_unit,
                               sources=attempt.verification["sources"])
             if attempt.outcome is AttemptStage.DECLINED:
+                if program.status is ProgramStatus.NEEDS_CLARIFICATION and not understanding.required_metrics:
+                    return finish(ResponseStatus.NEEDS_CLARIFICATION, "MISSING_METRIC",
+                                  "Vui lòng chọn một chỉ tiêu cụ thể, ví dụ doanh thu thuần, lợi nhuận sau thuế hoặc tổng tài sản. "
+                                  "Tên báo cáo như 'kết quả kinh doanh' chưa xác định một giá trị cần tra cứu.")
                 return finish(ResponseStatus(program.status.value), program.status.value, program.explanation)
             if not retry:
                 break

@@ -206,6 +206,7 @@ code, pre, .mono { font-family: var(--mono); }
 }
 .field:focus { outline: 2px solid var(--accent); outline-offset: 0; border-color: var(--accent); }
 .field-year { width: 96px; font-variant-numeric: tabular-nums; }
+.field-metric { width: min(100%, 240px); }
 .details { font-size: 13px; color: var(--muted); }
 .details summary { cursor: pointer; width: fit-content; }
 .kv { display: grid; grid-template-columns: auto minmax(0, 1fr); gap: 2px 12px; margin: 6px 0 0; }

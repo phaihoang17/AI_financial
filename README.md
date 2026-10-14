@@ -124,6 +124,10 @@ python -m src.evaluation.run_soak_eval --duration-s 1800 --concurrency 16 \
 
 **Question API.** Releases pin the catalog, generator and code; a release is
 served only after preflight and a canary set pass, and rolls back on a page alert.
+In the browser, a request for a whole financial report asks for a specific
+metric. Enter it in the clarification card to keep the company, years and scope
+in the next request; a statement name such as “kết quả kinh doanh” alone is not
+a metric.
 
 ```bash
 python -m src.service.app --release-root deploy/releases --port 8080   # chat UI at http://127.0.0.1:8080/

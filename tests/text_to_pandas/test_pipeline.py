@@ -63,6 +63,18 @@ def test_gate_avoids_model_calls(catalog, tmp_path, question, status):
     assert not client.requests and not response["attempts"]
 
 
+def test_report_request_without_metric_preserves_model_refusal(catalog, tmp_path):
+    question = "Báo cáo tài chính của AAA năm 2022-2023 theo báo cáo hợp nhất?"
+    response, client = run(catalog, tmp_path, [{"status": "NEEDS_CLARIFICATION", "code": "", "explanation": "unclear"}], question)
+    assert (response["status"], response["reason_code"]) == ("NEEDS_CLARIFICATION", "MISSING_METRIC")
+    assert len(client.requests) == len(response["attempts"]) == 1
+    unsupported, _ = run(catalog, tmp_path, [{"status": "UNSUPPORTED", "code": "", "explanation": "not a statement metric"}], question)
+    assert (unsupported["status"], unsupported["reason_code"]) == ("UNSUPPORTED", "UNSUPPORTED")
+    refined = understand_question("Báo cáo tài chính của AAA năm 2022-2023 theo báo cáo hợp nhất, chỉ tiêu LNST?", catalog)
+    assert refined.tickers == ("AAA",) and refined.years == (2022, 2023)
+    assert refined.statement_scope == "HOP_NHAT" and refined.required_metrics == ("LNST",)
+
+
 @pytest.mark.parametrize("code,unit", [
     (FILTER + "result = evidence['value'].iloc[0]\nevidence['value'] = 999", "VND"),
     (FILTER + "result = evidence['value'].iloc[0]", "PERCENT"),

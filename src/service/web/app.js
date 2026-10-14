@@ -689,6 +689,21 @@
       fix.append(h('span', { class: 'muted' }, 'Chọn loại báo cáo:'),
         h('button', { class: 'btn btn-sm', type: 'button', disabled, onclick: () => ask(insertPhrase(message.question, ' theo báo cáo hợp nhất')) }, 'Hợp nhất'),
         h('button', { class: 'btn btn-sm', type: 'button', disabled, onclick: () => ask(insertPhrase(message.question, ' theo báo cáo riêng')) }, 'Riêng'));
+    } else if (body.reason_code === 'MISSING_METRIC') {
+      const inputId = `metric-${message.id}`;
+      const input = h('input', { class: 'field field-metric', id: inputId, type: 'text', placeholder: 'Ví dụ: doanh thu thuần' });
+      const choose = (metric) => ask(insertPhrase(message.question, `, chỉ tiêu ${metric}`));
+      input.addEventListener('keydown', (event) => {
+        if (event.key === 'Enter') {
+          event.preventDefault();
+          if (input.value.trim()) choose(input.value.trim());
+        }
+      });
+      fix.append(h('label', { for: inputId }, 'Chỉ tiêu cần tra cứu'), input,
+        h('button', { class: 'btn btn-primary btn-sm', type: 'button', disabled, onclick: () => {
+          if (input.value.trim()) choose(input.value.trim());
+          else input.focus();
+        } }, 'Hỏi lại'));
     }
     fix.append(h('button', { class: 'btn btn-ghost btn-sm', type: 'button', onclick: () => editQuestion(message.question) }, 'Sửa câu hỏi'));
     notice.append(fix);
