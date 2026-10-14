@@ -126,6 +126,7 @@ code, pre, .mono { font-family: var(--mono); }
 .statement-form .select { width: 100%; }
 .statement-row { display: flex; gap: 6px; }
 .statement-row .select { flex: 1; }
+.statement-row .field-year { width: 72px; flex: none; }
 .statement-status { font-size: 12px; }
 .side-foot { padding-top: 4px; border-top: 1px solid var(--line); }
 
