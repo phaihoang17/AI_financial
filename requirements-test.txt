@@ -1,4 +1,5 @@
 -r requirements-orchestration.txt
+-r requirements-statements.txt
 # Verified on macOS Apple M1 with Python 3.11; real retrieval weights are optional.
 # Fresh install of exactly these pins (empty uv cache) verified on Linux x86_64 with
 # Python 3.11.16 and 3.12.3 on 2026-10-13: full suite and fixture evaluations pass.

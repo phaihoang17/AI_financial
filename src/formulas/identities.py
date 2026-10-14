@@ -113,9 +113,11 @@ def check_identities(values: Values) -> list[dict[str, object]]:
             total = costs.get(_key(identity.total, column))
             present = [(term, costs[_key(term, column)]) for term in identity.summands
                        if _key(term, column) in costs]
-            result: dict[str, object] = {"identity": identity.name, "column": column,
-                                         "total_code": identity.total.code,
-                                         "codes": [term.code for term in identity.summands]}
+            result: dict[str, object] = {
+                "identity": identity.name, "column": column, "total_code": identity.total.code,
+                "codes": [term.code for term in identity.summands],
+                "lines": [[term.statement, term.code] for term in (identity.total, *identity.summands)],
+            }
             if total is None or not present:
                 results.append({**result, "status": MISSING})
                 continue

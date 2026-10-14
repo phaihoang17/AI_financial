@@ -37,10 +37,10 @@ from src.indexing.grid_builder import build_logical_table_grid
 from src.indexing.paragraph_extractor import extract_paragraphs
 from src.indexing.provenance_sidecar import _source_from_inventory
 from src.indexing.schemas import TableParseStatus
+from src.statements.store import SCHEMA_VERSION, files_id, report_key
 from src.text_to_pandas.catalog_builder import _MULTIPLIER, _NOTES_FORM, figure_value, make_fact_id, statement_tables
 from src.text_to_pandas.metrics import DATASET_BY_STATEMENT, STATEMENTS, fold, is_per_share_label
 
-SCHEMA_VERSION = "statement-set-v1"
 BUILD_VERSION = "statement-set-build-v1"
 FORMS = {"BALANCE_SHEET": "B01-DN", "INCOME_STATEMENT": "B02-DN", "CASH_FLOW_STATEMENT": "B03-DN"}
 SUPPORTED = "TT200"
@@ -75,13 +75,13 @@ def _grid_rows(table: Any) -> list[list[dict[str, Any]]]:
     return rows
 
 
-def notes_blocks(source: Any, document: Any, after: int) -> list[dict[str, Any]]:
-    """B09 as printed: paragraphs and tables in source order from its heading after ``after``."""
+def notes_blocks(source: Any, document: Any, after: int) -> tuple[int | None, list[dict[str, Any]]]:
+    """(start offset, blocks) of B09 as printed: paragraphs and tables from its first heading after ``after``."""
     paragraphs: dict[str, list[Any]] = {}
     for paragraph in extract_paragraphs(source, document):
         paragraphs.setdefault(paragraph.page_id, []).append(paragraph)
     blocks: list[dict[str, Any]] = []
-    started = False
+    started: int | None = None
     for page in document.pages:
         if page.content_span.end <= after:
             continue
@@ -90,10 +90,10 @@ def notes_blocks(source: Any, document: Any, after: int) -> list[dict[str, Any]]
         for start, kind, item in sorted(items, key=lambda entry: entry[0]):
             if start < after:
                 continue
-            if not started:
+            if started is None:
                 if kind != "text" or not _NOTES_FORM.search(fold(item.raw_text)):
                     continue
-                started = True
+                started = start
             if kind == "text":
                 blocks.append({"page": page.page_number, "kind": "text", "text": item.raw_text})
             elif item.parse_status is TableParseStatus.UNPARSEABLE:
@@ -101,7 +101,7 @@ def notes_blocks(source: Any, document: Any, after: int) -> list[dict[str, Any]]
                 blocks.append({"page": page.page_number, "kind": "text", "text": text, "unparseable_table": True})
             else:
                 blocks.append({"page": page.page_number, "kind": "table", "rows": _grid_rows(item)})
-    return blocks
+    return started, blocks
 
 
 def build_report(source: Any, report: Mapping[str, Any]) -> tuple[str, dict[str, Any] | None]:
@@ -117,15 +117,21 @@ def build_report(source: Any, report: Mapping[str, Any]) -> tuple[str, dict[str,
     if not any(item.layout.code_named for item in read):
         return "BANK", None
 
+    # B09 follows B03; the auditor's report before the statements also names the notes.
+    anchor = next((item for item in read if item.statement == "CASH_FLOW_STATEMENT"), read[0])
+    notes_start, notes = notes_blocks(source, document, anchor.table.source_span.end)
     statements = {statement: {"form": FORMS[statement], "columns": None, "scales": [], "lines": []}
                   for statement in STATEMENTS}
     values: dict[tuple[str, str, str], tuple[Any, int]] = {}
     warnings: list[str] = []
     skipped = []
     for item in tables:
-        if item.skip_reason is not None:
+        # A table inside the notes is a note that looks like a statement, never a statement line.
+        in_notes = notes_start is not None and item.table.source_span.start >= notes_start
+        if item.skip_reason is not None or in_notes:
             skipped.append({"statement": item.statement, "page_id": item.page.page_id,
-                            "table_id": item.table.table_id, "reason": item.skip_reason})
+                            "table_id": item.table.table_id,
+                            "reason": "INSIDE_NOTES" if in_notes else item.skip_reason})
             continue
         sheet, reader, layout = statements[item.statement], item.reader, item.layout
         if sheet["columns"] is None and item.period_basis == "HEADER":
@@ -154,8 +160,6 @@ def build_report(source: Any, report: Mapping[str, Any]) -> tuple[str, dict[str,
                     warnings.append(f"DUPLICATE_CODE {FORMS[item.statement]} {code} {column}")
             sheet["lines"].append(line)
 
-    last_end = max(item.table.source_span.end for item in tables)
-    notes = notes_blocks(source, document, last_end)
     if not notes:
         warnings.append("NOTES_NOT_FOUND")
     checks = check_identities(values)
@@ -188,10 +192,6 @@ def build_report(source: Any, report: Mapping[str, Any]) -> tuple[str, dict[str,
     }
 
 
-def report_key(ticker: str, year: int, scope: str) -> str:
-    return f"{ticker}|{int(year)}|{scope}"
-
-
 def _process(args: tuple[str, str, str, dict[str, Any]]) -> dict[str, Any]:
     raw_root, corpus_id, output, report = args
     entry = {"report_id": report["report_id"], "key": report_key(report["ticker"], report["report_year"],
@@ -208,7 +208,9 @@ def _process(args: tuple[str, str, str, dict[str, Any]]) -> dict[str, Any]:
     (Path(output) / name).write_bytes(data)
     statuses = Counter(f"{check['identity']}|{check['column']}|{check['status']}" for check in statement_set["checks"])
     return {**entry, "file": name, "sha256": sha256(data).hexdigest(), "status": statement_set["status"],
-            "checks": dict(statuses), "fact_values": _fact_values(statement_set)}
+            "checks": dict(statuses), "fact_values": _fact_values(statement_set),
+            "notes_tables": [item["table_id"] for item in statement_set["skipped_tables"]
+                             if item["reason"] == "INSIDE_NOTES"]}
 
 
 def _fact_values(statement_set: Mapping[str, Any]) -> dict[str, str]:
@@ -218,8 +220,13 @@ def _fact_values(statement_set: Mapping[str, Any]) -> dict[str, str]:
             if line["current"] and line["current"]["value"] is not None}
 
 
-def parity(fact_values: Mapping[str, str], catalog_dir: Path, report_ids: set[str]) -> dict[str, Any]:
-    """Every catalog fact of a built report must be read back with the same absolute value."""
+def parity(fact_values: Mapping[str, str], catalog_dir: Path, report_ids: set[str],
+           notes_tables: set[str] = frozenset()) -> dict[str, Any]:
+    """Every catalog fact of a built report must be read back with the same absolute value.
+
+    Facts the catalog read from a table this builder places inside B09 are counted as
+    ``inside_notes`` instead.
+    """
     provenance = {}
     with (catalog_dir / "provenance.jsonl").open(encoding="utf-8") as handle:
         for line in handle:
@@ -233,6 +240,9 @@ def parity(fact_values: Mapping[str, str], catalog_dir: Path, report_ids: set[st
             for row in csv.DictReader(handle):
                 if row["fact_id"] not in provenance:
                     continue
+                if provenance[row["fact_id"]]["table_id"] in notes_tables:
+                    counts["inside_notes"] += 1
+                    continue
                 counts["checked"] += 1
                 ours = fact_values.get(row["fact_id"])
                 if ours is None:
@@ -244,6 +254,7 @@ def parity(fact_values: Mapping[str, str], catalog_dir: Path, report_ids: set[st
                 if len(examples) < 10:
                     examples.append(row["fact_id"])
     return {"checked": counts["checked"], "missing": counts["missing"], "mismatched": counts["mismatched"],
+            "inside_notes": counts["inside_notes"],
             "passed": counts["missing"] == 0 and counts["mismatched"] == 0, "examples": examples}
 
 
@@ -269,6 +280,7 @@ def build_statements(corpus_manifest: str | Path, raw_root: str | Path, output_r
     entries: dict[str, dict[str, Any]] = {}
     failures: dict[str, str] = {}
     fact_values: dict[str, str] = {}
+    notes_tables: set[str] = set()
     checks: Counter = Counter()
     with Pool(processes=max(1, workers)) as pool:
         for result in pool.imap(_process, tasks, chunksize=4):
@@ -276,6 +288,7 @@ def build_statements(corpus_manifest: str | Path, raw_root: str | Path, output_r
                 failures[result["report_id"]] = result["error"]
                 continue
             fact_values.update(result.pop("fact_values", {}))
+            notes_tables.update(result.pop("notes_tables", []))
             checks.update(result.pop("checks", {}))
             entries[result.pop("key")] = result
     summary: dict[str, dict[str, int]] = {}
@@ -288,7 +301,7 @@ def build_statements(corpus_manifest: str | Path, raw_root: str | Path, output_r
         "build_version": BUILD_VERSION,
         "source_corpus_artifact_id": corpus["corpus_id"],
         "source_corpus_manifest_sha256": sha256(manifest_path.read_bytes()).hexdigest(),
-        "statements_id": sha256(json.dumps(files, sort_keys=True).encode("utf-8")).hexdigest(),
+        "statements_id": files_id(files),
         "report_count": len(reports),
         "templates": dict(Counter(entry["template"] for entry in entries.values())),
         "statuses": dict(Counter(entry["status"] for entry in entries.values() if "status" in entry)),
@@ -298,7 +311,7 @@ def build_statements(corpus_manifest: str | Path, raw_root: str | Path, output_r
     }
     if parity_catalog is not None:
         built = {entry["report_id"] for entry in entries.values() if "file" in entry}
-        manifest["catalog_parity"] = parity(fact_values, Path(parity_catalog), built)
+        manifest["catalog_parity"] = parity(fact_values, Path(parity_catalog), built, notes_tables)
     (output / "manifest.json").write_text(json.dumps(manifest, ensure_ascii=False, indent=2) + "\n",
                                           encoding="utf-8")
     return manifest

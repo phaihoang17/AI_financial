@@ -8,6 +8,10 @@ Endpoints (JSON):
   (when ``AIFIN_API_TOKEN`` is set);
 - ``GET /v1/catalog`` → the serving catalog's coverage (companies, years, statement
   scopes, metric names) for clients; same bearer token as ``/v1/ask``;
+- ``GET /v1/statements?ticker=AAA&year=2015&scope=HOP_NHAT`` → the reconstructed
+  statement set (B01/B02/B03/B09 + reconciliation appendix) as a PDF download
+  (ADR-075); ``404`` no such report, ``422 UNSUPPORTED_TEMPLATE`` for bank and
+  securities forms, ``503`` when the release pins no statement set or renders are busy;
 - ``GET /`` and ``GET /static/<file>`` → the browser UI (``src/service/web/``); it
   holds no data and calls the JSON endpoints above;
 - ``GET /healthz`` (process alive), ``GET /readyz`` (a release is loaded and its
@@ -36,16 +40,19 @@ import json
 import logging
 import os
 from pathlib import Path
+import re
 import threading
 import time
 from typing import Any
-from urllib.parse import urlsplit
+from urllib.parse import parse_qs, urlsplit
 from uuid import uuid4
 
 from src.service.metrics import SLO, ServiceMetrics, load_slo, slo_report
 from src.service.release import Release, ReleaseStore
 
 MAX_BODY_BYTES = 16 * 1024
+MAX_PDF_RENDERS = 2  # a PDF render takes seconds of CPU; more requests get 503
+_TICKER = re.compile(r"[A-Z0-9]{1,10}")
 TOKEN_ENV = "AIFIN_API_TOKEN"
 EXPOSE_PROGRAM_ENV = "AIFIN_EXPOSE_PROGRAM"
 SOURCE_KEYS = ("fact_id", "report_id", "source_ref", "statement", "table_id", "source_cell_id", "page_id",
@@ -65,6 +72,7 @@ log = logging.getLogger("aifin.service")
 class Engine:
     release: Release
     pipeline: Any
+    statements: Any = None  # StatementStore when the release pins a statement set
 
 
 def build_engine(release: Release, history_root: str | Path) -> Engine:
@@ -85,7 +93,15 @@ def build_engine(release: Release, history_root: str | Path) -> Engine:
 
         client = provider_client(release.generator[len("provider:"):],
                                  **({"config_path": release.llm_config} if release.llm_config else {}))
-    return Engine(release, PandasPipeline(catalog, PandasCodeGenerator(client), history_root=history_root))
+    statements = None
+    if release.statements:
+        from src.statements.store import StatementStore
+
+        statements = StatementStore(release.statements)
+        if statements.statements_id != release.statements_id:
+            raise RuntimeError("statement set does not match the release")
+    return Engine(release, PandasPipeline(catalog, PandasCodeGenerator(client), history_root=history_root),
+                  statements)
 
 
 def public_response(response: dict[str, Any], *, expose_program: bool = False) -> dict[str, Any]:
@@ -132,6 +148,7 @@ class QuestionService:
         self.request_timeout_s = request_timeout_s
         self.api_token = api_token
         self._slots = threading.BoundedSemaphore(max_in_flight)
+        self._renders = threading.BoundedSemaphore(MAX_PDF_RENDERS)
         self._pool = ThreadPoolExecutor(max_workers=max_in_flight, thread_name_prefix="aifin-ask")
         self._engine: Engine | None = None
         self._engine_lock = threading.Lock()
@@ -216,6 +233,42 @@ class QuestionService:
             return 503, {"error": "no release is loaded"}
         return 200, catalog_summary(engine)
 
+    def statements(self, query: dict[str, list[str]]) -> tuple[int, Any, dict[str, str]]:
+        """(status, PDF bytes or JSON error, headers) for one company/year/scope statement set."""
+        engine = self.engine()
+        store = None if engine is None else engine.statements
+        if store is None:
+            return 503, {"error": "STATEMENTS_NOT_CONFIGURED", "message": "Bản phát hành chưa có bộ BCTC."}, {}
+        ticker = (query.get("ticker") or [""])[0].strip().upper()
+        year = (query.get("year") or [""])[0].strip()
+        scope = (query.get("scope") or [""])[0].strip().upper()
+        if not _TICKER.fullmatch(ticker) or not year.isdigit() or len(year) != 4 or scope not in ("HOP_NHAT", "RIENG"):
+            return 400, {"error": "INVALID_REQUEST",
+                         "message": "Cần ticker, year (4 chữ số) và scope HOP_NHAT hoặc RIENG."}, {}
+        if not self._renders.acquire(blocking=False):
+            return 503, {"error": "BUSY", "message": "Đang tạo bộ BCTC khác, vui lòng thử lại."}, {}
+        try:
+            template, statement_set = store.get(ticker, int(year), scope)
+            if template == "NOT_FOUND":
+                return 404, {"error": "NOT_FOUND",
+                             "message": f"Không có báo cáo {ticker} năm {year} ({scope}) trong dữ liệu."}, {}
+            if statement_set is None:
+                return 422, {"error": "UNSUPPORTED_TEMPLATE", "template": template,
+                             "message": "Chưa hỗ trợ mẫu báo cáo này (ngân hàng / công ty chứng khoán)."}, {}
+            from src.statements.pdf import render_pdf
+
+            data = render_pdf(statement_set, statements_id=store.statements_id)
+        except Exception as error:  # never leak internals; the type is enough to triage
+            log.exception("statement render failed")
+            return 500, {"error": "INTERNAL_ERROR", "message": type(error).__name__}, {}
+        finally:
+            self._renders.release()
+        log.info(json.dumps({"event": "statements", "ticker": ticker, "year": year, "scope": scope,
+                             "status": statement_set["status"], "release": engine.release.release_id}))
+        return 200, data, {"Content-Disposition": f'attachment; filename="BCTC_{ticker}_{year}_{scope}.pdf"',
+                           "X-Statement-Status": statement_set["status"], "Cache-Control": "no-store",
+                           "X-Content-Type-Options": "nosniff"}
+
     def close(self) -> None:
         self._pool.shutdown(wait=False, cancel_futures=True)
 
@@ -234,7 +287,8 @@ def make_handler(service: QuestionService):
             else:
                 data = body.encode() if isinstance(body, str) else json.dumps(body, ensure_ascii=False).encode()
             self.send_response(code)
-            self.send_header("Content-Type", f"{content_type}; charset=utf-8")
+            binary = content_type == "application/pdf"
+            self.send_header("Content-Type", content_type if binary else f"{content_type}; charset=utf-8")
             self.send_header("Content-Length", str(len(data)))
             for name, value in (headers or {}).items():
                 self.send_header(name, value)
@@ -253,6 +307,12 @@ def make_handler(service: QuestionService):
                     self._send(401, {"error": "unauthorized"})
                     return
                 self._send(*service.catalog())
+            elif path == "/v1/statements":
+                if not service.authorized(self.headers.get("Authorization")):
+                    self._send(401, {"error": "unauthorized"})
+                    return
+                code, body, headers = service.statements(parse_qs(urlsplit(self.path).query))
+                self._send(code, body, "application/pdf" if code == 200 else "application/json", headers)
             elif self.path == "/healthz":
                 self._send(200, {"alive": True})
             elif self.path == "/readyz":
