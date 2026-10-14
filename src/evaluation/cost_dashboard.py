@@ -11,12 +11,11 @@ invocations.
 
 from __future__ import annotations
 
+from collections.abc import Mapping, Sequence
 from dataclasses import dataclass
-from typing import Dict, Mapping, Optional, Sequence
 
 from src.serving.schemas import ServingRole
 from src.understanding.schemas import SchemaValidationError
-
 
 COST_DASHBOARD_SCHEMA_VERSION = "m10-cost-token-dashboard-v1"
 TOKEN_COST_LIVE_BLOCKER = "GPU_PRODUCTION_VALIDATION_PENDING"
@@ -78,12 +77,12 @@ class CostTokenDashboard:
     invocation_count: int
     total_prompt_tokens: int
     total_completion_tokens: int
-    per_model: Mapping[str, Dict[str, object]]
-    tokens_per_query: Optional[float]
-    cost_per_query: Optional[float]
+    per_model: Mapping[str, dict[str, object]]
+    tokens_per_query: float | None
+    cost_per_query: float | None
     escalation_requests: int
-    escalation_cost: Optional[float]
-    cache_hit_rate: Optional[float]
+    escalation_cost: float | None
+    cache_hit_rate: float | None
     token_measurement_status: str
 
     def to_dict(self) -> dict:
@@ -106,8 +105,8 @@ class CostTokenDashboard:
 
 
 def _priced_cost(
-    invocations: Sequence["ModelInvocation"], pricing: Mapping[str, "TokenPrice"]
-) -> Optional[float]:
+    invocations: Sequence[ModelInvocation], pricing: Mapping[str, TokenPrice]
+) -> float | None:
     """Sum priced cost, or None if any invoked model is unpriced."""
     if not invocations:
         return None
@@ -124,10 +123,10 @@ def build_cost_dashboard(
     invocations: Sequence[ModelInvocation],
     *,
     queries: int,
-    pricing: Optional[Mapping[str, TokenPrice]] = None,
+    pricing: Mapping[str, TokenPrice] | None = None,
     escalation_requests: int = 0,
-    escalation_invocations: Optional[Sequence[ModelInvocation]] = None,
-    cache_hit_rate: Optional[float] = None,
+    escalation_invocations: Sequence[ModelInvocation] | None = None,
+    cache_hit_rate: float | None = None,
 ) -> CostTokenDashboard:
     """Aggregate token/cost telemetry; pending when nothing live was measured."""
     if isinstance(queries, bool) or not isinstance(queries, int) or queries < 1:
@@ -142,7 +141,7 @@ def build_cost_dashboard(
         raise SchemaValidationError("escalation_invocations must be ModelInvocation values")
     pricing = dict(pricing or {})
 
-    per_model: Dict[str, Dict[str, object]] = {}
+    per_model: dict[str, dict[str, object]] = {}
     total_prompt = 0
     total_completion = 0
     total_cost = 0.0

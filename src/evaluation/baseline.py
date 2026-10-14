@@ -16,8 +16,8 @@ evidence only; production scoring lives in ``production_baseline``.
 
 from __future__ import annotations
 
+from collections.abc import Sequence
 from dataclasses import dataclass
-from typing import Sequence
 
 from src.evaluation.e2e import (
     RetrievedEvidenceE2ECase,
@@ -28,7 +28,6 @@ from src.evaluation.e2e_fixtures import e2e_fixture_cases
 from src.evaluation.telemetry import MeasurementSource
 from src.supervisor.schemas import ModelTier, VerifyProfile
 from src.understanding.schemas import SchemaValidationError
-
 
 BASELINE_SCHEMA_VERSION = "m10-strong-strict-correctness-baseline-v2"
 BASELINE_MODEL_TIER = ModelTier.STRONG

@@ -2,15 +2,15 @@ from dataclasses import replace
 import unittest
 from unittest.mock import patch
 
-from src.evidence.m5_schemas import MaskedEvidenceBundle
+from src.evidence.masking_schemas import MaskedEvidenceBundle
 from src.programmer.generator import (
     ProgrammerFailureCode,
     generate_program,
 )
 from src.programmer.schemas import (
+    ProgrammerStatus,
     ProgramOperation,
     ProgramOutputKind,
-    ProgrammerStatus,
 )
 from src.programmer.validator import (
     ProgramValidationError,

@@ -1,9 +1,8 @@
 """Independent synthetic TRAIN, DEV and HELD_OUT episodes; no existing gold is read."""
-from dataclasses import replace
 from hashlib import sha256
 import json
 
-from src.evaluation.e2e_fixtures import fixture_understanding, fixture_pairs, _graph_factory
+from src.evaluation.e2e_fixtures import _graph_factory, fixture_pairs, fixture_understanding
 from src.memory.distillation import distill_trajectory
 from src.memory.index import DevelopmentExample, validate_output_path
 from src.memory.schemas import MemoryContext
@@ -33,6 +32,20 @@ def held_out_episodes():
     ]
 
 
+def _reject_first_call(generate):
+    """Fail the first programmer call so the episode records a recovered retry."""
+    calls = []
+
+    def recover(programmer_input, model_tier):
+        calls.append(1)
+        if len(calls) == 1:
+            return ProgrammerResult(ProgrammerStatus.REJECTED, None,
+                                    "FORMULA_ARITY_MISMATCH", "synthetic training failure")
+        return generate(programmer_input, model_tier)
+
+    return recover
+
+
 def synthetic_training():
     held = held_out_episodes()
     held_ids = [row[0] for row in held]
@@ -45,17 +58,7 @@ def synthetic_training():
     ):
         understanding, graph = episode(name, operation, periods, values)
         if operation is Operation.AGGREGATE:
-            original = graph.dependencies.programmer.generate
-            calls = []
-
-            def recover(programmer_input, model_tier):
-                calls.append(1)
-                if len(calls) == 1:
-                    return ProgrammerResult(ProgrammerStatus.REJECTED, None,
-                                            "FORMULA_ARITY_MISMATCH", "synthetic training failure")
-                return original(programmer_input, model_tier)
-
-            graph.dependencies.programmer.generate = recover
+            graph.dependencies.programmer.generate = _reject_first_call(graph.dependencies.programmer.generate)
         state = graph.run(request_id=name, raw_question=understanding.raw_question).state
         rows.append({"split": "TRAIN", "state": state.to_dict()})
         entries.extend(distill_trajectory(state, split="TRAIN", dataset_id=DATASET_ID,

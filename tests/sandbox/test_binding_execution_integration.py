@@ -13,14 +13,14 @@ from src.sandbox.schemas import (
     SandboxExecutionRequest,
 )
 from src.supervisor.formula_registry import FORMULA_REGISTRY_FINGERPRINT
-from tests.evidence.m5_helpers import (
+from tests.evidence.helpers import (
     grounded_cell,
     multi_period_plan,
     resolved_scale,
 )
 
 
-class M5ToIsolatedM7IntegrationTests(unittest.TestCase):
+class BindingToIsolatedExecutionIntegrationTests(unittest.TestCase):
     def test_grounded_values_bind_and_execute_only_inside_worker(self):
         plan = multi_period_plan()
         previous, previous_location = grounded_cell(

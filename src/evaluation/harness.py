@@ -4,7 +4,7 @@ from __future__ import annotations
 
 from dataclasses import dataclass
 from enum import Enum
-from typing import Any, Dict, Optional
+from typing import Any
 
 from src.understanding.schemas import (
     SchemaValidationError,
@@ -39,8 +39,8 @@ class EvaluationFailureStage(str, Enum):
 class EvaluationResult:
     mode: EvaluationMode
     passed: bool
-    failure_stage: Optional[EvaluationFailureStage]
-    failure_reason: Optional[str]
+    failure_stage: EvaluationFailureStage | None
+    failure_reason: str | None
 
     def __post_init__(self) -> None:
         self.mode = _require_enum(self.mode, EvaluationMode, "mode")
@@ -94,7 +94,7 @@ class EvaluationResult:
             failure_reason=data["failure_reason"],
         )
 
-    def to_dict(self) -> Dict[str, Any]:
+    def to_dict(self) -> dict[str, Any]:
         return {
             "mode": self.mode.value,
             "passed": self.passed,

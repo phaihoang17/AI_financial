@@ -2,8 +2,6 @@
 
 from __future__ import annotations
 
-from typing import List, Optional
-
 from src.programmer.schemas import ProgramOperation, ProgramOutputKind
 from src.supervisor.formula_registry import (
     FORMULA_REGISTRY_FINGERPRINT,
@@ -23,7 +21,7 @@ def _check(
     check_id: str,
     passed: bool,
     reason_code: str,
-    *subject_ids: Optional[str],
+    *subject_ids: str | None,
 ) -> VerificationCheckResult:
     subjects = []
     for item in subject_ids:
@@ -62,7 +60,7 @@ def _expected_shape(request: VerificationRequest):
 
 def verify_financial_logic(
     request: VerificationRequest,
-) -> List[VerificationCheckResult]:
+) -> list[VerificationCheckResult]:
     """Validate symbolic financial intent; never calculate a formula."""
     plan = request.plan
     program = request.program

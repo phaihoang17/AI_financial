@@ -10,17 +10,18 @@ typed transport error a provider outage would.
 
 from __future__ import annotations
 
+from collections.abc import Callable, Mapping, Sequence
 from dataclasses import dataclass, field
 import json
 from pathlib import Path
-from typing import Any, Callable, Dict, Mapping, Optional, Sequence
+from typing import Any
 
 from src.serving.schemas import ServingEndpoint, ServingError, ServingTask
 
 
-def load_programs(history_root: str | Path) -> Dict[str, Dict[str, Any]]:
+def load_programs(history_root: str | Path) -> dict[str, dict[str, Any]]:
     """question -> final generated program envelope, from one run's history."""
-    programs: Dict[str, Dict[str, Any]] = {}
+    programs: dict[str, dict[str, Any]] = {}
     for response_file in sorted(Path(history_root).glob("*/response.json")):
         response = json.loads(response_file.read_text(encoding="utf-8"))
         attempts = [attempt for attempt in response.get("attempts", []) if attempt.get("program")]
@@ -36,7 +37,7 @@ class ReplayClient:
     programs: Mapping[str, Mapping[str, Any]]
     endpoint: ServingEndpoint = field(default_factory=lambda: ServingEndpoint(
         "replay", "http://127.0.0.1:1", "replay", ServingTask.GENERATE, 1.0))
-    observer: Optional[Callable[[Mapping[str, Any]], None]] = None
+    observer: Callable[[Mapping[str, Any]], None] | None = None
 
     def generate(self, messages: Sequence[Mapping[str, str]], **params: Any) -> str:
         question = json.loads(messages[-1]["content"])["question"]
@@ -56,7 +57,7 @@ class FailingClient:
 
     endpoint: ServingEndpoint = field(default_factory=lambda: ServingEndpoint(
         "outage", "http://127.0.0.1:1", "outage", ServingTask.GENERATE, 1.0))
-    observer: Optional[Callable[[Mapping[str, Any]], None]] = None
+    observer: Callable[[Mapping[str, Any]], None] | None = None
 
     def generate(self, messages: Sequence[Mapping[str, str]], **params: Any) -> str:
         raise ServingError("SERVING_TRANSPORT_FAILED", "provider unavailable")

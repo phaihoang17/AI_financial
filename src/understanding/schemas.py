@@ -2,10 +2,11 @@
 
 from __future__ import annotations
 
+from collections.abc import Mapping
 from dataclasses import dataclass
 from enum import Enum
 import math
-from typing import Any, Dict, List, Mapping, Optional, Set, Type, TypeVar
+from typing import Any, TypeVar
 
 
 class SchemaValidationError(ValueError):
@@ -42,7 +43,7 @@ def _require_mapping(value: Any, path: str) -> Mapping[str, Any]:
 
 
 def _require_exact_keys(
-    data: Mapping[str, Any], expected: Set[str], path: str
+    data: Mapping[str, Any], expected: set[str], path: str
 ) -> None:
     actual = set(data.keys())
     missing = expected - actual
@@ -63,7 +64,7 @@ def _require_string(value: Any, path: str) -> str:
     return value
 
 
-def _require_optional_string(value: Any, path: str) -> Optional[str]:
+def _require_optional_string(value: Any, path: str) -> str | None:
     if value is not None and not isinstance(value, str):
         raise SchemaValidationError(f"{path} must be a string or null")
     return value
@@ -84,13 +85,13 @@ def _require_confidence(value: Any, path: str) -> float:
     return normalized
 
 
-def _require_string_list(value: Any, path: str) -> List[str]:
+def _require_string_list(value: Any, path: str) -> list[str]:
     if not isinstance(value, list):
         raise SchemaValidationError(f"{path} must be a list")
     return [_require_string(item, f"{path}[{index}]") for index, item in enumerate(value)]
 
 
-def _parse_enum(value: Any, enum_type: Type[EnumT], path: str) -> EnumT:
+def _parse_enum(value: Any, enum_type: type[EnumT], path: str) -> EnumT:
     if not isinstance(value, str):
         raise SchemaValidationError(f"{path} must be a string enum value")
     try:
@@ -100,7 +101,7 @@ def _parse_enum(value: Any, enum_type: Type[EnumT], path: str) -> EnumT:
         raise SchemaValidationError(f"{path} must be one of: {allowed}") from error
 
 
-def _require_enum(value: Any, enum_type: Type[EnumT], path: str) -> EnumT:
+def _require_enum(value: Any, enum_type: type[EnumT], path: str) -> EnumT:
     if not isinstance(value, enum_type):
         raise SchemaValidationError(f"{path} must be a {enum_type.__name__}")
     return value
@@ -108,9 +109,9 @@ def _require_enum(value: Any, enum_type: Type[EnumT], path: str) -> EnumT:
 
 @dataclass
 class CompanyUnderstanding:
-    raw: Optional[str]
-    name: Optional[str]
-    ticker: Optional[str]
+    raw: str | None
+    name: str | None
+    ticker: str | None
     confidence: float
 
     def __post_init__(self) -> None:
@@ -130,7 +131,7 @@ class CompanyUnderstanding:
             confidence=data["confidence"],
         )
 
-    def to_dict(self) -> Dict[str, Any]:
+    def to_dict(self) -> dict[str, Any]:
         return {
             "raw": self.raw,
             "name": self.name,
@@ -143,7 +144,7 @@ class CompanyUnderstanding:
 class PeriodUnderstanding:
     value: str
     kind: PeriodKind
-    raw: Optional[str]
+    raw: str | None
 
     def __post_init__(self) -> None:
         self.value = _require_string(self.value, "period.value")
@@ -160,13 +161,13 @@ class PeriodUnderstanding:
             raw=data["raw"],
         )
 
-    def to_dict(self) -> Dict[str, Any]:
+    def to_dict(self) -> dict[str, Any]:
         return {"value": self.value, "kind": self.kind.value, "raw": self.raw}
 
 
 @dataclass
 class StatementScopeUnderstanding:
-    value: Optional[StatementScope]
+    value: StatementScope | None
     inferred: bool
     confidence: float
 
@@ -197,7 +198,7 @@ class StatementScopeUnderstanding:
             confidence=data["confidence"],
         )
 
-    def to_dict(self) -> Dict[str, Any]:
+    def to_dict(self) -> dict[str, Any]:
         return {
             "value": None if self.value is None else self.value.value,
             "inferred": self.inferred,
@@ -226,7 +227,7 @@ class MetricUnderstanding:
             confidence=data["confidence"],
         )
 
-    def to_dict(self) -> Dict[str, Any]:
+    def to_dict(self) -> dict[str, Any]:
         return {
             "raw": self.raw,
             "canonical": self.canonical,
@@ -238,14 +239,14 @@ class MetricUnderstanding:
 class QueryUnderstanding:
     raw_question: str
     company: CompanyUnderstanding
-    periods: List[PeriodUnderstanding]
+    periods: list[PeriodUnderstanding]
     statement_scope: StatementScopeUnderstanding
-    metrics: List[MetricUnderstanding]
+    metrics: list[MetricUnderstanding]
     operation: Operation
-    requested_scale: Optional[str]
-    requested_unit: Optional[str]
-    missing_information: List[str]
-    ambiguities: List[str]
+    requested_scale: str | None
+    requested_unit: str | None
+    missing_information: list[str]
+    ambiguities: list[str]
     confidence: float
 
     def __post_init__(self) -> None:
@@ -327,7 +328,7 @@ class QueryUnderstanding:
             confidence=data["confidence"],
         )
 
-    def to_dict(self) -> Dict[str, Any]:
+    def to_dict(self) -> dict[str, Any]:
         return {
             "raw_question": self.raw_question,
             "company": self.company.to_dict(),

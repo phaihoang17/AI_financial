@@ -6,7 +6,7 @@ from src.evaluation.gold_retrieval import GoldRetrievalCase
 from src.text_to_pandas.benchmark import evaluate
 from src.text_to_pandas.generator import PandasCodeGenerator, ScriptedClient
 from src.text_to_pandas.understanding import discover, understand_question
-from tests.text_to_pandas.test_pipeline import catalog, envelope, FILTER, QUESTION
+from tests.text_to_pandas.test_pipeline import QUESTION
 
 
 @pytest.fixture

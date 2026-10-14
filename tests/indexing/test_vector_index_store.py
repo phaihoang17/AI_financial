@@ -1,7 +1,7 @@
+from pathlib import Path
 import sqlite3
 import tempfile
 import unittest
-from pathlib import Path
 
 from src.indexing.embedding_chunker import CHUNKING_CONFIG_FINGERPRINT
 from src.indexing.embedding_indexer import embed_chunks, make_embedding_config_fingerprint
@@ -10,7 +10,6 @@ from src.indexing.vector_index_store import (
     build_sharded_index,
     load_sharded_manifest,
 )
-
 from tests.indexing.test_embedding_chunker import CharTokenizer, build_fixture
 
 

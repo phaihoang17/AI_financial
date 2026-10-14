@@ -1,6 +1,6 @@
-from typing import Optional, Sequence
+from collections.abc import Sequence
 
-from src.evidence.m5_schemas import BindingMap, ValueBinding
+from src.evidence.masking_schemas import BindingMap, ValueBinding
 from src.evidence.schemas import CanonicalDecimal, Scale
 from src.programmer.generator import generate_program
 from src.programmer.schemas import Program, ProgrammerInput, ProgrammerStatus
@@ -15,12 +15,12 @@ from src.understanding.requested_scale_unit_parser import RequestedScale
 def execution_request_for(
     programmer_input: ProgrammerInput,
     values: Sequence[str],
-    scales: Sequence[Optional[Scale]],
+    scales: Sequence[Scale | None],
     *,
-    units: Optional[Sequence[Optional[str]]] = None,
-    requested_scales: Optional[Sequence[Optional[RequestedScale]]] = None,
-    requested_units: Optional[Sequence[Optional[str]]] = None,
-    program: Optional[Program] = None,
+    units: Sequence[str | None] | None = None,
+    requested_scales: Sequence[RequestedScale | None] | None = None,
+    requested_units: Sequence[str | None] | None = None,
+    program: Program | None = None,
 ) -> SandboxExecutionRequest:
     generated = generate_program(programmer_input)
     if generated.status is not ProgrammerStatus.GENERATED or generated.program is None:

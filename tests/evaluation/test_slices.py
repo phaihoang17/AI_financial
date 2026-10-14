@@ -11,7 +11,6 @@ from src.evaluation.slices import (
 from src.supervisor.schemas import EvidenceSource
 from src.understanding.schemas import SchemaValidationError
 
-
 SLICE_FIELDS = ["evidence_source", "reasoning_depth", "scale_unit_sensitive"]
 SLICED_RESULT_FIELDS = ["result", "slice"]
 

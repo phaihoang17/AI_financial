@@ -2,13 +2,13 @@
 
 from __future__ import annotations
 
+from collections.abc import Mapping
 from dataclasses import dataclass
 from enum import Enum
 import re
-from typing import Any, Dict, List, Mapping, Optional, Set
+from typing import Any
 
 from src.understanding.schemas import SchemaValidationError
-
 
 FORMULA_IMPLEMENTATION_SCHEMA_VERSION = "m6-formula-implementation-v1"
 _CANONICAL_DECIMAL = re.compile(r"-?(?:0|[1-9]\d*)(?:\.\d+)?\Z")
@@ -25,7 +25,7 @@ def _mapping(value: Any, path: str) -> Mapping[str, Any]:
     return value
 
 
-def _exact_keys(data: Mapping[str, Any], expected: Set[str], path: str) -> None:
+def _exact_keys(data: Mapping[str, Any], expected: set[str], path: str) -> None:
     missing = expected - set(data)
     unknown = set(data) - expected
     if missing:
@@ -57,10 +57,10 @@ class FormulaImplementation:
     schema_version: str
     formula_id: str
     implementation_kind: FormulaImplementationKind
-    input_order: List[str]
+    input_order: list[str]
     min_arity: int
-    max_arity: Optional[int]
-    constants: List[str]
+    max_arity: int | None
+    constants: list[str]
 
     def __post_init__(self) -> None:
         if self.schema_version != FORMULA_IMPLEMENTATION_SCHEMA_VERSION:
@@ -92,7 +92,7 @@ class FormulaImplementation:
                 raise SchemaValidationError("max_arity must be >= min_arity")
         if not isinstance(self.constants, list):
             raise SchemaValidationError("constants must be a list")
-        constants: List[str] = []
+        constants: list[str] = []
         for index, constant in enumerate(self.constants):
             if not isinstance(constant, str) or not _CANONICAL_DECIMAL.fullmatch(
                 constant
@@ -130,7 +130,7 @@ class FormulaImplementation:
             self.max_arity is None or arity <= self.max_arity
         )
 
-    def to_dict(self) -> Dict[str, Any]:
+    def to_dict(self) -> dict[str, Any]:
         return {
             "schema_version": self.schema_version,
             "formula_id": self.formula_id,
@@ -142,7 +142,7 @@ class FormulaImplementation:
         }
 
     @classmethod
-    def from_dict(cls, value: Any) -> "FormulaImplementation":
+    def from_dict(cls, value: Any) -> FormulaImplementation:
         data = _mapping(value, "FormulaImplementation")
         _exact_keys(
             data,

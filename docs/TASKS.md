@@ -1072,7 +1072,7 @@ Do this only after the correctness baseline is measurable.
       `HttpTransport`: embedding parity min cosine `0.9999999999990075` (dim 1024),
       reranker order parity `true` (max score abs diff `1.9e-06`).
     - Deterministic retrieval-execution smoke over
-      `deploy/retrieval/smoke-queries.jsonl` through the real `Batch3Retriever`
+      `deploy/retrieval/smoke-queries.jsonl` through the real `HybridRetriever`
       (BM25 + FAISS + pinned BGE-M3 query encoder + pinned BGE-reranker):
       `ran true`, `byte_identical true`, `crashes 0`, `timeouts 0`,
       `sample_size 4`.
@@ -1104,13 +1104,13 @@ Do this only after the correctness baseline is measurable.
     invariant M9's own contracts do not already enforce:
     - `CONFLICTING_WORKER_STATE` — a non-`PASS` terminal outcome whose final
       `AttemptRecord` still carries an M8 `RetryDirective` with `action == PASS`
-      (`M9State._validate_pass` only constrains the `PASS` direction), or a
+      (`OrchestrationState._validate_pass` only constrains the `PASS` direction), or a
       `CLARIFICATION` terminal outcome with a non-empty attempt history.
     - `STALE_WORKER_STATE` — `FailureAttribution.attempt_index` does not equal
       the current `attempts[-1].attempt_index` (or is set with no attempts),
       i.e. attribution never advanced with the run.
     - `MESSAGE_SCHEMA_CORRUPTION` — `scan_coordination_payload` runs a raw
-      checkpoint dict through the existing `M9State.from_dict` fail-closed edge
+      checkpoint dict through the existing `OrchestrationState.from_dict` fail-closed edge
       and, on `SchemaValidationError`, records only the boundary name and the
       exception class name (no payload body, no message).
     Detection is deterministic and fail-closed (a valid state emits none of the
@@ -1159,7 +1159,7 @@ TASK-103 adds `src/retrieval/parallel.py`: `retrieve_multi_table_parallel` and
 sources concurrently but reuse the exact Batch 3 decomposition, per-subquery
 requests, backend→RRF→reranker sequence, and subquery-ordered merge, so results
 are byte-identical to the sequential path (proven against
-`Batch3Retriever.retrieve_multi_table`).
+`HybridRetriever.retrieve_multi_table`).
 
 TASK-105 adds an optional `SemanticCache`
 (`src/orchestration/semantic_cache.py`) and a policy experiment
@@ -1189,7 +1189,7 @@ bullet is covered by `tests/orchestration/test_coordination_log.py`. It changes
 no M9 orchestration behavior.
 
 **No LLM is in the v1 active query path (verified in code, ADR-057).** The M9
-graph calls `supervise_batch1` and `verify` as deterministic functions and takes
+graph calls `supervise` and `verify` as deterministic functions and takes
 NLU / Programmer / Sandbox through injected ports whose only implementations are
 deterministic (`src/evaluation/e2e_fixtures.py`). `generate_program` is a pure
 symbolic-DSL builder and ignores model tier. `Plan.model_tier` /
@@ -1337,7 +1337,7 @@ Remaining blocker: **`RETRIEVAL_QUALITY` and TASK-100 stay `BLOCKED_GOLD_DATA`**
 host, then run `run_gold_retrieval_validation --questions-source …` to bucket it,
 hand-annotate a 20–50 case `VERIFIED` pilot, validate it, and score Recall@k /
 MRR (and answer correctness where `gold_answer` is trustworthy) through the real
-`Batch3Retriever`. TASK-100 is not closed.
+`HybridRetriever`. TASK-100 is not closed.
 
 M10 Batch 10 audits and confirms the public question source. HF dataset
 `HuuDong03uet/ViFinQA` was fetched to a temp dir (`/workspace/vifinqa_candidate`,

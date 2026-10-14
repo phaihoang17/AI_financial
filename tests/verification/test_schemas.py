@@ -8,8 +8,8 @@ from src.verification.schemas import (
     VerificationReport,
     VerificationRequest,
 )
-from tests.verification.helpers import make_request
 from src.verification.verifier import verify
+from tests.verification.helpers import make_request
 
 
 def test_contract_field_names():

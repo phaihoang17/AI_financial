@@ -2,22 +2,22 @@
 
 from __future__ import annotations
 
+from collections.abc import Mapping, Sequence
 from hashlib import sha256
 import json
 import math
-from typing import Any, Iterable, List, Mapping, Optional, Protocol, Sequence
+from typing import Any, Protocol
 
 from src.indexing.embedding_chunker import BGE_M3_MODEL_ID, BGE_M3_REVISION
 from src.indexing.embedding_schemas import (
-    EMBEDDING_DTYPE,
     EMBEDDING_DIMENSION,
+    EMBEDDING_DTYPE,
     EMBEDDING_HARD_MAX_TOKENS,
     EMBEDDING_RECORD_SCHEMA_VERSION,
     EmbeddingChunk,
     EmbeddingRecord,
 )
 from src.understanding.schemas import SchemaValidationError
-
 
 BGE_POOLING = "attention_mask_mean_last_hidden_state"
 EMBEDDING_ALGORITHM_VERSION = "m2b-bge-m3-document-v1"
@@ -70,7 +70,7 @@ def make_embedding_id(chunk_id: str, model_fingerprint: str) -> str:
     return digest.hexdigest()
 
 
-def _l2_normalize(vector: Sequence[float]) -> List[float]:
+def _l2_normalize(vector: Sequence[float]) -> list[float]:
     values = [float(value) for value in vector]
     norm = math.sqrt(sum(value * value for value in values))
     if not math.isfinite(norm) or norm == 0:
@@ -86,10 +86,10 @@ class TransformersBGEEncoder:
         self.tokenizer = tokenizer
         self.device = device
 
-    def count_tokens(self, texts: Sequence[str], *, max_length: int) -> List[int]:
+    def count_tokens(self, texts: Sequence[str], *, max_length: int) -> list[int]:
         """Count full tokenized inputs before the no-truncation encode path."""
 
-        counts: List[int] = []
+        counts: list[int] = []
         for text in texts:
             encoded = self.tokenizer(
                 text,
@@ -108,7 +108,7 @@ class TransformersBGEEncoder:
             import torch
         except ImportError as error:  # pragma: no cover - deployment dependent
             raise EmbeddingError("TORCH_DEPENDENCY_MISSING", "torch is required for BGE-M3") from error
-        vectors: List[Any] = []
+        vectors: list[Any] = []
         for start in range(0, len(texts), batch_size):
             batch = list(texts[start:start + batch_size])
             encoded = self.tokenizer(
@@ -137,8 +137,8 @@ class TransformersBGEEncoder:
 
 def load_bge_m3_encoder(
     *,
-    device: Optional[str] = None,
-    cache_dir: Optional[str] = None,
+    device: str | None = None,
+    cache_dir: str | None = None,
 ) -> TransformersBGEEncoder:
     try:
         import torch
@@ -165,11 +165,11 @@ def load_bge_m3_encoder(
 def embed_chunks(
     chunks: Sequence[EmbeddingChunk],
     *,
-    encoder: Optional[DocumentEncoder] = None,
-    model_fingerprint: Optional[str] = None,
+    encoder: DocumentEncoder | None = None,
+    model_fingerprint: str | None = None,
     batch_size: int = 8,
-    device: Optional[str] = None,
-) -> List[EmbeddingRecord]:
+    device: str | None = None,
+) -> list[EmbeddingRecord]:
     if batch_size < 1:
         raise EmbeddingError("INVALID_BATCH_SIZE", "batch_size must be positive")
     if any(not isinstance(chunk, EmbeddingChunk) for chunk in chunks):
@@ -198,7 +198,7 @@ def embed_chunks(
         raise EmbeddingError("EMBEDDING_OUTPUT_INVALID", "encoder did not return a vector sequence") from error
     if vector_count != len(chunks):
         raise EmbeddingError("EMBEDDING_OUTPUT_INVALID", "encoder returned the wrong number of vectors")
-    records: List[EmbeddingRecord] = []
+    records: list[EmbeddingRecord] = []
     for chunk, raw_vector in zip(chunks, raw_vectors):
         try:
             vector = _l2_normalize(raw_vector)

@@ -2,9 +2,9 @@
 
 from __future__ import annotations
 
-from typing import Sequence
+from collections.abc import Sequence
 
-from src.evidence.m5_schemas import SchemaLinkResult, SchemaLinkStatus
+from src.evidence.masking_schemas import SchemaLinkResult, SchemaLinkStatus
 from src.evidence.schemas import EvidenceItem
 from src.orchestration.schemas import (
     AnswerEvidenceReference,

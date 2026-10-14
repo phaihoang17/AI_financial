@@ -1,9 +1,9 @@
 """Canonical formula definitions and deterministic implementation metadata."""
 from __future__ import annotations
 
+from collections.abc import Sequence
 from hashlib import sha256
 import json
-from typing import Optional, Sequence
 
 from src.formulas.schemas import (
     FORMULA_IMPLEMENTATION_SCHEMA_VERSION,
@@ -18,7 +18,6 @@ from src.supervisor.schemas import (
     ReasoningMode,
 )
 from src.understanding.schemas import Operation
-
 
 FORMULA_REGISTRY: tuple[FormulaDefinition, ...] = (
     FormulaDefinition(
@@ -107,7 +106,7 @@ FORMULA_REGISTRY_FINGERPRINT = make_formula_registry_fingerprint()
 
 def get_formula(
     formula_id: str, registry: Sequence[FormulaDefinition] = FORMULA_REGISTRY
-) -> Optional[FormulaDefinition]:
+) -> FormulaDefinition | None:
     return next((formula for formula in registry if formula.formula_id == formula_id), None)
 
 
@@ -120,7 +119,7 @@ def formulas_for_operation(
 def get_formula_implementation(
     formula_id: str,
     implementations: Sequence[FormulaImplementation] = FORMULA_IMPLEMENTATIONS,
-) -> Optional[FormulaImplementation]:
+) -> FormulaImplementation | None:
     return next(
         (
             implementation

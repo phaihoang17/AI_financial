@@ -2,13 +2,13 @@
 
 from __future__ import annotations
 
+from collections.abc import Callable, Sequence
 from hashlib import sha256
-from typing import Callable, Dict, List, Sequence
+from typing import Any
 
 from src.supervisor.formula_registry import get_formula
 from src.table_transform.schemas import (
     AddDerivedColumnOp,
-    AggregateFunction,
     GroupOp,
     OperationRecord,
     SelectColumnsOp,
@@ -72,7 +72,7 @@ def _execute_select_rows(state: TableState, op: SelectRowsOp) -> TableState:
             f"filter_column '{op.filter_column}' not found in table columns {state.columns}",
         )
 
-    selected_rows: List[TableRow] = []
+    selected_rows: list[TableRow] = []
     labels_set = set(op.row_labels) if op.row_labels is not None else None
     indices_set = set(op.row_indices) if op.row_indices is not None else None
     values_set = set(op.filter_values) if op.filter_values is not None else None
@@ -112,7 +112,7 @@ def _execute_select_columns(state: TableState, op: SelectColumnsOp) -> TableStat
                 f"column '{col}' not found in table columns {state.columns}",
             )
 
-    projected_rows: List[TableRow] = []
+    projected_rows: list[TableRow] = []
     for row in state.rows:
         projected_cells = {col: row.cells[col] for col in op.columns}
         projected_rows.append(
@@ -154,7 +154,7 @@ def _execute_add_derived_column(state: TableState, op: AddDerivedColumnOp) -> Ta
             f"formula_id '{op.formula_id}' is not registered in FormulaRegistry",
         )
 
-    new_rows: List[TableRow] = []
+    new_rows: list[TableRow] = []
     for row in state.rows:
         input_cells = [row.cells[c] for c in op.input_columns]
         input_placeholders = [c.value for c in input_cells if c.is_placeholder]
@@ -207,14 +207,14 @@ def _execute_group(state: TableState, op: GroupOp) -> TableState:
             f"agg_column '{op.agg_column}' not found in table columns {state.columns}",
         )
 
-    groups: Dict[str, List[TableRow]] = {}
+    groups: dict[str, list[TableRow]] = {}
     for row in state.rows:
         key = row.cells[op.by_column].value
         groups.setdefault(key, []).append(row)
 
     # Sort keys for determinism
     sorted_keys = sorted(groups.keys())
-    grouped_rows: List[TableRow] = []
+    grouped_rows: list[TableRow] = []
 
     for key in sorted_keys:
         rows_in_group = groups[key]
@@ -282,7 +282,7 @@ def _execute_sort(state: TableState, op: SortOp) -> TableState:
     )
 
 
-_HANDLERS: Dict[
+_HANDLERS: dict[
     TableOperationType,
     Callable[[TableState, Any], TableState],
 ] = {

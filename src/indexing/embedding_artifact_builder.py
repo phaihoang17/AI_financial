@@ -8,13 +8,14 @@ are resident in Python/FAISS memory.
 
 from __future__ import annotations
 
+from collections.abc import Iterator, Mapping, Sequence
 from dataclasses import dataclass
 from hashlib import sha256
 import json
 import os
 from pathlib import Path
 import sqlite3
-from typing import Any, Dict, Iterable, Iterator, List, Mapping, Optional, Sequence, Tuple
+from typing import Any
 
 from src.indexing.corpus_artifact import (
     CORPUS_ARTIFACT_SCHEMA_VERSION,
@@ -35,16 +36,13 @@ from src.indexing.embedding_schemas import (
     EMBEDDING_CHUNK_SCHEMA_VERSION,
     EMBEDDING_DIMENSION,
     EMBEDDING_DTYPE,
-    EMBEDDING_HARD_MAX_TOKENS,
-    EMBEDDING_RECORD_SCHEMA_VERSION,
     EmbeddingChunk,
     EmbeddingRecord,
 )
-from src.indexing.vector_index_store import INDEX_SCHEMA_VERSION
 from src.indexing.schemas import NORMALIZATION_VERSION, REPRESENTATION_VERSION, RetrievalRepresentation
+from src.indexing.vector_index_store import INDEX_SCHEMA_VERSION
 from src.supervisor.schemas import EvidenceSource
 from src.understanding.schemas import SchemaValidationError
-
 
 APPROVED_EMBEDDING_FINGERPRINT = (
     "ebf2adc2a61d75a65db3829163a003e729095310360b9b162b570b34579585b3"
@@ -73,7 +71,7 @@ class _InputRecord:
     report: Mapping[str, Any]
     representation: RetrievalRepresentation
     chunk: EmbeddingChunk
-    source_cell_ids: List[str]
+    source_cell_ids: list[str]
 
 
 @dataclass(frozen=True)
@@ -228,7 +226,7 @@ def _validate_input_manifest(path_value: str | Path, *, verify_hashes: bool = Tr
     reports = manifest.get("reports")
     if not isinstance(reports, list) or not reports:
         raise EmbeddingArtifactBuilderError("INPUT_MANIFEST_INVALID", "reports must be a non-empty list")
-    report_by_id: Dict[str, Mapping[str, Any]] = {}
+    report_by_id: dict[str, Mapping[str, Any]] = {}
     for index, report in enumerate(reports):
         if not isinstance(report, dict):
             raise EmbeddingArtifactBuilderError("INPUT_MANIFEST_INVALID", f"reports[{index}] is invalid")
@@ -253,7 +251,7 @@ def _validate_input_manifest(path_value: str | Path, *, verify_hashes: bool = Tr
     total_records = 0
     total_table_records = 0
     total_text_records = 0
-    shard_entries: List[Mapping[str, Any]] = []
+    shard_entries: list[Mapping[str, Any]] = []
     for index, entry in enumerate(shards):
         if not isinstance(entry, dict):
             raise EmbeddingArtifactBuilderError("INPUT_MANIFEST_INVALID", f"shards[{index}] is invalid")
@@ -405,7 +403,7 @@ def _iter_input_records(input_artifact: _InputArtifact) -> Iterator[_InputRecord
         raise EmbeddingArtifactBuilderError("INPUT_REPORT_COVERAGE_FAILED", "M2 report inventory is not covered")
 
 
-def _load_faiss_numpy() -> Tuple[Any, Any]:
+def _load_faiss_numpy() -> tuple[Any, Any]:
     try:
         import faiss
         import numpy as np
@@ -446,7 +444,7 @@ class _ShardAccumulator:
         self.index = faiss.IndexIDMap2(faiss.IndexFlatIP(EMBEDDING_DIMENSION))
         self.vector_count = 0
 
-    def add(self, records: Sequence[EmbeddingRecord]) -> List[int]:
+    def add(self, records: Sequence[EmbeddingRecord]) -> list[int]:
         _, np = _load_faiss_numpy()
         if not records:
             return []
@@ -458,7 +456,7 @@ class _ShardAccumulator:
         self.vector_count += len(records)
         return local_ids
 
-    def flush(self, shards_dir: Path) -> Tuple[Path, str]:
+    def flush(self, shards_dir: Path) -> tuple[Path, str]:
         path = shards_dir / f"{self.shard_id}.faiss"
         temporary = path.with_name(f".{path.name}.tmp")
         if temporary.exists():
@@ -584,7 +582,6 @@ def _insert_batch(
     rows = []
     for item, record, local_id in zip(input_records, records, local_ids):
         representation = item.representation
-        report = item.report
         rows.append(
             (
                 record.embedding_id,
@@ -689,7 +686,7 @@ def _load_resume_state(
     staging: Path,
     input_artifact: _InputArtifact,
     max_vectors_per_shard: int,
-) -> Tuple[List[Mapping[str, Any]], int, sqlite3.Connection]:
+) -> tuple[list[Mapping[str, Any]], int, sqlite3.Connection]:
     state = _read_json(staging / "checkpoint.json", "CHECKPOINT_INVALID")
     expected = {
         "state_schema_version": STATE_SCHEMA_VERSION,
@@ -708,7 +705,7 @@ def _load_resume_state(
     if not isinstance(completed, list):
         raise EmbeddingArtifactBuilderError("CHECKPOINT_INVALID", "completed_shards is invalid")
     connection = _open_metadata_database(staging / "metadata.sqlite", input_artifact, max_vectors_per_shard)
-    validated: List[Mapping[str, Any]] = []
+    validated: list[Mapping[str, Any]] = []
     cumulative_vectors = 0
     for expected_number, entry in enumerate(completed):
         if not isinstance(entry, dict) or entry.get("shard_number") != expected_number:
@@ -857,7 +854,7 @@ def _manifest_for_staging(
     max_vectors_per_shard: int,
     completed_shards: Sequence[Mapping[str, Any]],
     vector_count: int,
-) -> Dict[str, Any]:
+) -> dict[str, Any]:
     shard_entries = []
     for entry in completed_shards:
         shard_id = str(entry["faiss_shard_id"])
@@ -907,8 +904,8 @@ def _manifest_for_staging(
 def _validate_materialized_artifact(
     artifact: Path,
     manifest: Mapping[str, Any],
-    input_artifact: Optional[_InputArtifact] = None,
-) -> Dict[str, Any]:
+    input_artifact: _InputArtifact | None = None,
+) -> dict[str, Any]:
     if manifest.get("manifest_schema_version") != INDEX_SCHEMA_VERSION or manifest.get("artifact_status") != "COMMITTED":
         raise EmbeddingArtifactBuilderError("MANIFEST_INVALID", "vector artifact manifest is not committed")
     if manifest.get("embedding_fingerprint") != APPROVED_EMBEDDING_FINGERPRINT:
@@ -1000,7 +997,7 @@ def _validate_materialized_artifact(
     }
 
 
-def validate_published_artifact(output_root: str | Path, *, input_artifact: str | Path | None = None) -> Dict[str, Any]:
+def validate_published_artifact(output_root: str | Path, *, input_artifact: str | Path | None = None) -> dict[str, Any]:
     """Validate the current pointer, manifest, FAISS shards, and SQLite mapping."""
 
     root = Path(output_root)
@@ -1026,7 +1023,7 @@ def _make_checkpoint(
     shard: _ShardAccumulator,
     shard_hash: str,
     sqlite_committed_count: int,
-) -> Dict[str, Any]:
+) -> dict[str, Any]:
     last = input_records[-1]
     return {
         "checkpoint_schema_version": CHECKPOINT_SCHEMA_VERSION,
@@ -1070,7 +1067,7 @@ def build_streaming_embedding_artifact(
     max_vectors_per_shard: int = MAX_VECTORS_PER_SHARD,
     resume: bool = False,
     encoder: Any = None,
-) -> Dict[str, Any]:
+) -> dict[str, Any]:
     """Build and atomically publish the streaming M2 vector artifact.
 
     ``encoder`` is intentionally injectable for deterministic tests.  The CLI
@@ -1110,7 +1107,7 @@ def build_streaming_embedding_artifact(
     shards_dir.mkdir(parents=True, exist_ok=True)
     checkpoints_dir.mkdir(parents=True, exist_ok=True)
     metadata_path = staging / "metadata.sqlite"
-    completed_shards: List[Mapping[str, Any]]
+    completed_shards: list[Mapping[str, Any]]
     committed_vectors: int
     connection: sqlite3.Connection
     if staging.exists() and resume and (staging / "checkpoint.json").exists():
@@ -1133,8 +1130,8 @@ def build_streaming_embedding_artifact(
     if encoder is None:
         encoder = load_bge_m3_encoder(device=device)
     stream = _iter_input_records(input_data)
-    last_input: Optional[_InputRecord] = None
-    accumulator: Optional[_ShardAccumulator] = None
+    last_input: _InputRecord | None = None
+    accumulator: _ShardAccumulator | None = None
     try:
         # Validate and skip only records belonging to fully checkpointed shards.
         for _ in range(committed_vectors):
@@ -1143,7 +1140,7 @@ def build_streaming_embedding_artifact(
         accumulator = _ShardAccumulator(next_shard_number)
         while True:
             remaining = max_vectors_per_shard - accumulator.vector_count
-            batch_inputs: List[_InputRecord] = []
+            batch_inputs: list[_InputRecord] = []
             for _ in range(min(batch_size, remaining)):
                 try:
                     item = next(stream)
@@ -1261,7 +1258,7 @@ def _publish_pointer(root: Path, manifest: Mapping[str, Any]) -> None:
     _atomic_write_bytes(root / "CURRENT", (str(manifest["artifact_id"]) + "\n").encode("utf-8"))
 
 
-def main(argv: Optional[Sequence[str]] = None) -> int:
+def main(argv: Sequence[str] | None = None) -> int:
     import argparse
 
     parser = argparse.ArgumentParser(description="Build the streaming M2 BGE-M3 FAISS/SQLite artifact")

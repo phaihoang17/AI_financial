@@ -17,9 +17,10 @@ human review must correct or reject it.
 from __future__ import annotations
 
 import argparse
+from collections.abc import Sequence
 import json
 from pathlib import Path
-from typing import Any, Dict, List, Optional, Sequence
+from typing import Any
 
 from src.indexing.document_parser import parse_document
 from src.indexing.provenance_sidecar import _source_from_inventory
@@ -37,12 +38,12 @@ def _scopes_named(header: str) -> set:
     return {scope for scope, words in _MARKERS.items() if any(word in folded for word in words)}
 
 
-def check_split(root: Path, split: str, corpus: Path, raw_root: Path) -> Dict[str, Any]:
+def check_split(root: Path, split: str, corpus: Path, raw_root: Path) -> dict[str, Any]:
     manifest = json.loads((corpus / "manifest.json").read_text(encoding="utf-8"))
     reports = {report["report_id"]: report for report in manifest["reports"]}
     audit = json.loads((root / split / "audit.json").read_text(encoding="utf-8"))
-    documents: Dict[str, Any] = {}
-    defects: List[Dict[str, Any]] = []
+    documents: dict[str, Any] = {}
+    defects: list[dict[str, Any]] = []
     for case in audit["cases"]:
         for source in case["sources"]:
             report = reports[source["report_id"]]
@@ -75,7 +76,7 @@ def defective_ids(root: Path, split: str) -> set:
     return set(json.loads(path.read_text(encoding="utf-8"))["defective_case_ids"]) if path.is_file() else set()
 
 
-def main(argv: Optional[Sequence[str]] = None) -> int:
+def main(argv: Sequence[str] | None = None) -> int:
     parser = argparse.ArgumentParser(description=__doc__.splitlines()[0])
     parser.add_argument("--root", default=str(DEFAULT_ROOT))
     parser.add_argument("--split", action="append", required=True)

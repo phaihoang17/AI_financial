@@ -2,11 +2,12 @@
 
 from __future__ import annotations
 
+from collections.abc import Mapping, Sequence
 from dataclasses import dataclass
 from enum import Enum
-from typing import Any, Dict, List, Mapping, Optional, Sequence
+from typing import Any
 
-from src.evidence.m5_schemas import BindingMap, ScaleUnitResolution, SchemaLinkResult
+from src.evidence.masking_schemas import BindingMap, ScaleUnitResolution, SchemaLinkResult
 from src.evidence.schemas import EvidenceItem
 from src.programmer.schemas import Program
 from src.retrieval.evidence import CellLocation, EvidenceCompletenessResult
@@ -67,7 +68,7 @@ def _string(value: Any, path: str, *, non_empty: bool = False) -> str:
     return value
 
 
-def _optional_string(value: Any, path: str) -> Optional[str]:
+def _optional_string(value: Any, path: str) -> str | None:
     if value is not None and not isinstance(value, str):
         raise SchemaValidationError(f"{path} must be a string or null")
     return value
@@ -95,7 +96,7 @@ def _typed_list(value: Any, item_type: type, path: str) -> list:
     return list(value)
 
 
-def _string_list(value: Any, path: str) -> List[str]:
+def _string_list(value: Any, path: str) -> list[str]:
     if not isinstance(value, list):
         raise SchemaValidationError(f"{path} must be a list")
     result = [_string(item, f"{path}[{index}]", non_empty=True) for index, item in enumerate(value)]
@@ -108,10 +109,10 @@ def _string_list(value: Any, path: str) -> List[str]:
 class VerificationRequest:
     plan: Plan
     program: Program
-    evidence_items: List[EvidenceItem]
-    cell_locations: List[CellLocation]
-    schema_links: List[SchemaLinkResult]
-    scale_unit_resolutions: List[ScaleUnitResolution]
+    evidence_items: list[EvidenceItem]
+    cell_locations: list[CellLocation]
+    schema_links: list[SchemaLinkResult]
+    scale_unit_resolutions: list[ScaleUnitResolution]
     binding_map: BindingMap
     evidence_completeness: EvidenceCompletenessResult
     execution_result: ExecutionResult
@@ -164,8 +165,8 @@ class VerificationCheckResult:
     check_id: str
     category: VerificationFailureCategory
     passed: bool
-    reason_code: Optional[str]
-    subject_ids: List[str]
+    reason_code: str | None
+    subject_ids: list[str]
 
     def __post_init__(self) -> None:
         object.__setattr__(self, "check_id", _string(self.check_id, "check_id", non_empty=True))
@@ -182,7 +183,7 @@ class VerificationCheckResult:
             raise SchemaValidationError("failed check requires a non-empty reason_code")
 
     @classmethod
-    def from_dict(cls, value: Any) -> "VerificationCheckResult":
+    def from_dict(cls, value: Any) -> VerificationCheckResult:
         data = _mapping(value, "VerificationCheckResult")
         _exact_keys(
             data,
@@ -199,7 +200,7 @@ class VerificationCheckResult:
             subject_ids=data["subject_ids"],
         )
 
-    def to_dict(self) -> Dict[str, Any]:
+    def to_dict(self) -> dict[str, Any]:
         return {
             "check_id": self.check_id,
             "category": self.category.value,
@@ -211,7 +212,7 @@ class VerificationCheckResult:
 
 def aggregate_failure(
     checks: Sequence[VerificationCheckResult],
-) -> tuple[Optional[VerificationFailureCategory], Optional[str]]:
+) -> tuple[VerificationFailureCategory | None, str | None]:
     for category in FAILURE_PRECEDENCE:
         for check in checks:
             if not check.passed and check.category is category:
@@ -222,9 +223,9 @@ def aggregate_failure(
 @dataclass(frozen=True)
 class VerificationReport:
     passed: bool
-    checks: List[VerificationCheckResult]
-    failure_category: Optional[VerificationFailureCategory]
-    failure_reason: Optional[str]
+    checks: list[VerificationCheckResult]
+    failure_category: VerificationFailureCategory | None
+    failure_reason: str | None
 
     def __post_init__(self) -> None:
         if not isinstance(self.passed, bool):
@@ -248,12 +249,12 @@ class VerificationReport:
             )
 
     @classmethod
-    def create(cls, checks: Sequence[VerificationCheckResult]) -> "VerificationReport":
+    def create(cls, checks: Sequence[VerificationCheckResult]) -> VerificationReport:
         category, reason = aggregate_failure(checks)
         return cls(category is None, list(checks), category, reason)
 
     @classmethod
-    def from_dict(cls, value: Any) -> "VerificationReport":
+    def from_dict(cls, value: Any) -> VerificationReport:
         data = _mapping(value, "VerificationReport")
         _exact_keys(
             data,
@@ -276,7 +277,7 @@ class VerificationReport:
             failure_reason=data["failure_reason"],
         )
 
-    def to_dict(self) -> Dict[str, Any]:
+    def to_dict(self) -> dict[str, Any]:
         return {
             "passed": self.passed,
             "checks": [check.to_dict() for check in self.checks],
@@ -325,7 +326,7 @@ class RetryState:
             )
 
     @classmethod
-    def initial(cls, plan: Plan) -> "RetryState":
+    def initial(cls, plan: Plan) -> RetryState:
         if not isinstance(plan, Plan):
             raise SchemaValidationError("plan must be an executable Plan")
         return cls(
@@ -337,7 +338,7 @@ class RetryState:
         )
 
     @classmethod
-    def from_dict(cls, value: Any) -> "RetryState":
+    def from_dict(cls, value: Any) -> RetryState:
         data = _mapping(value, "RetryState")
         _exact_keys(
             data,
@@ -360,7 +361,7 @@ class RetryState:
             terminal=data["terminal"],
         )
 
-    def to_dict(self) -> Dict[str, Any]:
+    def to_dict(self) -> dict[str, Any]:
         return {
             "retries_used": self.retries_used,
             "max_retries": self.max_retries,
@@ -373,8 +374,8 @@ class RetryState:
 @dataclass(frozen=True)
 class RetryDirective:
     action: RetryAction
-    failure_category: Optional[VerificationFailureCategory]
-    reason_code: Optional[str]
+    failure_category: VerificationFailureCategory | None
+    reason_code: str | None
     next_state: RetryState
     reason: str
 
@@ -418,7 +419,7 @@ class RetryDirective:
             )
 
     @classmethod
-    def from_dict(cls, value: Any) -> "RetryDirective":
+    def from_dict(cls, value: Any) -> RetryDirective:
         data = _mapping(value, "RetryDirective")
         _exact_keys(
             data,
@@ -446,7 +447,7 @@ class RetryDirective:
             reason=data["reason"],
         )
 
-    def to_dict(self) -> Dict[str, Any]:
+    def to_dict(self) -> dict[str, Any]:
         return {
             "action": self.action.value,
             "failure_category": (

@@ -2,10 +2,10 @@
 
 from __future__ import annotations
 
+from collections.abc import Mapping, Sequence
 from enum import Enum
-from typing import Dict, Mapping, Sequence
 
-from src.evidence.m5_schemas import (
+from src.evidence.masking_schemas import (
     BindingMap,
     MaskedEvidenceBundle,
     ScaleUnitResolution,
@@ -36,12 +36,12 @@ class ValueBindingError(SchemaValidationError):
         super().__init__(f"{code.value}: {message}")
 
 
-def _index_evidence(evidence: Sequence[EvidenceItem]) -> Dict[str, EvidenceItem]:
+def _index_evidence(evidence: Sequence[EvidenceItem]) -> dict[str, EvidenceItem]:
     if not isinstance(evidence, (list, tuple)) or not all(
         isinstance(item, EvidenceItem) for item in evidence
     ):
         raise SchemaValidationError("evidence must contain EvidenceItem values")
-    result: Dict[str, EvidenceItem] = {}
+    result: dict[str, EvidenceItem] = {}
     for item in evidence:
         existing = result.get(item.evidence_id)
         if existing is not None and existing.to_dict() != item.to_dict():
@@ -55,14 +55,14 @@ def _index_evidence(evidence: Sequence[EvidenceItem]) -> Dict[str, EvidenceItem]
 
 def _index_scales(
     resolutions: Sequence[ScaleUnitResolution],
-) -> Dict[str, ScaleUnitResolution]:
+) -> dict[str, ScaleUnitResolution]:
     if not isinstance(resolutions, (list, tuple)) or not all(
         isinstance(item, ScaleUnitResolution) for item in resolutions
     ):
         raise SchemaValidationError(
             "scale_resolutions must contain ScaleUnitResolution values"
         )
-    result: Dict[str, ScaleUnitResolution] = {}
+    result: dict[str, ScaleUnitResolution] = {}
     for item in resolutions:
         existing = result.get(item.evidence_id)
         if existing is not None and existing.to_dict() != item.to_dict():
@@ -109,8 +109,8 @@ def build_binding_map(
     if not isinstance(locations, Mapping):
         raise SchemaValidationError("locations must map evidence IDs to CellLocation")
 
-    placeholder_targets: Dict[str, str] = {}
-    ordered_targets: Dict[str, str] = {}
+    placeholder_targets: dict[str, str] = {}
+    ordered_targets: dict[str, str] = {}
     for item in masked.items:
         if not isinstance(item.placeholder, str) or not item.placeholder:
             raise ValueBindingError(

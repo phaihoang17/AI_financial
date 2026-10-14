@@ -19,11 +19,12 @@ shard JSONL; the cache lets validation runs re-use it.
 
 from __future__ import annotations
 
+from collections.abc import Iterable, Iterator
 from dataclasses import dataclass, field
 import hashlib
 import json
 from pathlib import Path
-from typing import Any, Dict, Iterable, Iterator, Optional, Set
+from typing import Any
 
 CORPUS_REFERENCE_INDEX_SCHEMA_VERSION = "m10-corpus-reference-index-v1"
 
@@ -42,7 +43,7 @@ class ReportMeta:
     report_year: int
     statement_scope: str
 
-    def to_dict(self) -> Dict[str, Any]:
+    def to_dict(self) -> dict[str, Any]:
         return {
             "report_id": self.report_id,
             "ticker": self.ticker,
@@ -52,7 +53,7 @@ class ReportMeta:
         }
 
     @classmethod
-    def from_dict(cls, value: Dict[str, Any]) -> "ReportMeta":
+    def from_dict(cls, value: dict[str, Any]) -> ReportMeta:
         return cls(
             report_id=value["report_id"],
             ticker=value["ticker"],
@@ -68,25 +69,25 @@ class CorpusReferenceIndex:
 
     corpus_artifact_id: str
     source_inventory_sha256: str
-    reports: Dict[str, ReportMeta] = field(default_factory=dict)
-    table_to_report: Dict[str, str] = field(default_factory=dict)
-    paragraph_ids: Set[str] = field(default_factory=set)
-    chunk_ids: Set[str] = field(default_factory=set)
-    source_cell_ids: Set[str] = field(default_factory=set)
-    representation_ids: Set[str] = field(default_factory=set)
-    tickers_by_year_scope: Dict[str, Set[str]] = field(default_factory=dict)
+    reports: dict[str, ReportMeta] = field(default_factory=dict)
+    table_to_report: dict[str, str] = field(default_factory=dict)
+    paragraph_ids: set[str] = field(default_factory=set)
+    chunk_ids: set[str] = field(default_factory=set)
+    source_cell_ids: set[str] = field(default_factory=set)
+    representation_ids: set[str] = field(default_factory=set)
+    tickers_by_year_scope: dict[str, set[str]] = field(default_factory=dict)
 
     # -- lookups -----------------------------------------------------------
     def has_report(self, report_id: str) -> bool:
         return report_id in self.reports
 
-    def report_meta(self, report_id: str) -> Optional[ReportMeta]:
+    def report_meta(self, report_id: str) -> ReportMeta | None:
         return self.reports.get(report_id)
 
     def has_table(self, table_id: str) -> bool:
         return table_id in self.table_to_report
 
-    def table_report(self, table_id: str) -> Optional[str]:
+    def table_report(self, table_id: str) -> str | None:
         return self.table_to_report.get(table_id)
 
     def has_paragraph(self, paragraph_id: str) -> bool:
@@ -98,7 +99,7 @@ class CorpusReferenceIndex:
     def has_source_cell(self, source_cell_id: str) -> bool:
         return source_cell_id in self.source_cell_ids
 
-    def reports_for(self, ticker: str, year: int, scope: Optional[str] = None) -> list[ReportMeta]:
+    def reports_for(self, ticker: str, year: int, scope: str | None = None) -> list[ReportMeta]:
         out = [
             meta
             for meta in self.reports.values()
@@ -112,7 +113,7 @@ class CorpusReferenceIndex:
         return any(meta.ticker == ticker for meta in self.reports.values())
 
     # -- summary ---------------------------------------------------------
-    def summary(self) -> Dict[str, Any]:
+    def summary(self) -> dict[str, Any]:
         return {
             "schema_version": CORPUS_REFERENCE_INDEX_SCHEMA_VERSION,
             "corpus_artifact_id": self.corpus_artifact_id,
@@ -127,7 +128,7 @@ class CorpusReferenceIndex:
         }
 
     # -- cache serialisation -------------------------------------------
-    def to_cache_dict(self) -> Dict[str, Any]:
+    def to_cache_dict(self) -> dict[str, Any]:
         return {
             "schema_version": CORPUS_REFERENCE_INDEX_SCHEMA_VERSION,
             "corpus_artifact_id": self.corpus_artifact_id,
@@ -141,7 +142,7 @@ class CorpusReferenceIndex:
         }
 
     @classmethod
-    def from_cache_dict(cls, value: Dict[str, Any]) -> "CorpusReferenceIndex":
+    def from_cache_dict(cls, value: dict[str, Any]) -> CorpusReferenceIndex:
         if value.get("schema_version") != CORPUS_REFERENCE_INDEX_SCHEMA_VERSION:
             raise CorpusReferenceIndexError(
                 "CACHE_SCHEMA_MISMATCH", f"unexpected schema {value.get('schema_version')!r}"
@@ -179,7 +180,7 @@ def _iter_shard_paths(corpus_root: Path) -> list[Path]:
     return paths
 
 
-def _iter_records(paths: Iterable[Path]) -> Iterator[Dict[str, Any]]:
+def _iter_records(paths: Iterable[Path]) -> Iterator[dict[str, Any]]:
     for path in paths:
         with path.open(encoding="utf-8") as handle:
             for line_number, line in enumerate(handle, start=1):
@@ -195,7 +196,7 @@ def _iter_records(paths: Iterable[Path]) -> Iterator[Dict[str, Any]]:
 
 
 def build_reference_index(
-    corpus_artifact_dir: str | Path, *, max_shards: Optional[int] = None
+    corpus_artifact_dir: str | Path, *, max_shards: int | None = None
 ) -> CorpusReferenceIndex:
     """Stream the canonical corpus shards and collect existence sets.
 
@@ -262,12 +263,12 @@ def build_reference_index(
     return index
 
 
-def _cache_key(corpus_artifact_dir: Path, max_shards: Optional[int]) -> str:
-    raw = f"{corpus_artifact_dir.resolve()}::{max_shards}".encode("utf-8")
+def _cache_key(corpus_artifact_dir: Path, max_shards: int | None) -> str:
+    raw = f"{corpus_artifact_dir.resolve()}::{max_shards}".encode()
     return hashlib.sha256(raw).hexdigest()[:16]
 
 
-def default_cache_path(corpus_artifact_dir: str | Path, max_shards: Optional[int] = None) -> Path:
+def default_cache_path(corpus_artifact_dir: str | Path, max_shards: int | None = None) -> Path:
     corpus_root = Path(corpus_artifact_dir)
     cache_dir = Path("artifacts/gold")
     return cache_dir / f"corpus-reference-index-{_cache_key(corpus_root, max_shards)}.json"
@@ -276,8 +277,8 @@ def default_cache_path(corpus_artifact_dir: str | Path, max_shards: Optional[int
 def load_or_build_reference_index(
     corpus_artifact_dir: str | Path,
     *,
-    max_shards: Optional[int] = None,
-    cache_path: Optional[str | Path] = None,
+    max_shards: int | None = None,
+    cache_path: str | Path | None = None,
     rebuild: bool = False,
 ) -> CorpusReferenceIndex:
     resolved_cache = Path(cache_path) if cache_path else default_cache_path(corpus_artifact_dir, max_shards)

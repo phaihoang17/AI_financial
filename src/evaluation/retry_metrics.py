@@ -20,13 +20,12 @@ retry-rate / quality-gain measurement over real models and traffic is
 
 from __future__ import annotations
 
+from collections.abc import Mapping, Sequence
 from dataclasses import dataclass
-from typing import Dict, Mapping, Optional, Sequence
 
 from src.evaluation.e2e import RetrievedEvidenceE2ECaseResult
 from src.orchestration.schemas import FinalResponseStatus
 from src.understanding.schemas import SchemaValidationError
-
 
 RETRY_METRICS_SCHEMA_VERSION = "m10-retry-escalation-metrics-v1"
 MEASUREMENT_STATUS = "FIXTURE_STRUCTURE"
@@ -36,7 +35,7 @@ PRODUCTION_MEASUREMENT_BLOCKER = "GPU_PRODUCTION_VALIDATION_PENDING"
 DEFAULT_CONFIDENCE_BANDS = ((0.0, 0.5), (0.5, 0.9), (0.9, 1.0))
 
 
-def _rate(numerator: int, denominator: int) -> Optional[float]:
+def _rate(numerator: int, denominator: int) -> float | None:
     """Return a rate, or ``None`` when undefined (no eligible cases)."""
     if denominator <= 0:
         return None
@@ -50,12 +49,12 @@ class RetryEscalationMetrics:
     retried_cases: int
     escalated_cases: int
     passed_cases: int
-    retry_rate: Optional[float]  # retried / executed
-    escalation_rate: Optional[float]  # escalated / executed
-    retry_recovery_rate: Optional[float]  # PASS / retried
-    escalation_recovery_rate: Optional[float]  # PASS / escalated
+    retry_rate: float | None  # retried / executed
+    escalation_rate: float | None  # escalated / executed
+    retry_recovery_rate: float | None  # PASS / retried
+    escalation_recovery_rate: float | None  # PASS / escalated
     retries_used_distribution: Mapping[str, int]
-    confidence_bands: Mapping[str, Dict[str, object]]
+    confidence_bands: Mapping[str, dict[str, object]]
 
     def to_dict(self) -> dict:
         return {
@@ -90,7 +89,7 @@ def _in_band(confidence: float, low: float, high: float) -> bool:
 def retry_escalation_metrics(
     case_results: Sequence[RetrievedEvidenceE2ECaseResult],
     *,
-    confidence_by_case: Optional[Mapping[str, float]] = None,
+    confidence_by_case: Mapping[str, float] | None = None,
     confidence_bands: Sequence[tuple] = DEFAULT_CONFIDENCE_BANDS,
 ) -> RetryEscalationMetrics:
     """Measure retry/escalation behavior from terminal M9 case results."""
@@ -105,12 +104,12 @@ def retry_escalation_metrics(
     escalated = [item for item in executed if item.strong_escalated]
     passed = [item for item in case_results if item.final_status is FinalResponseStatus.PASS]
 
-    distribution: Dict[str, int] = {}
+    distribution: dict[str, int] = {}
     for item in case_results:
         key = "NONE" if item.retries_used is None else str(item.retries_used)
         distribution[key] = distribution.get(key, 0) + 1
 
-    bands: Dict[str, Dict[str, object]] = {}
+    bands: dict[str, dict[str, object]] = {}
     if confidence_by_case is not None:
         for low, high in confidence_bands:
             selected = [

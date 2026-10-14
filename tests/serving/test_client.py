@@ -113,6 +113,7 @@ if __name__ == "__main__":
 
 def test_truncated_generation_logs_usage_and_rejects_even_valid_json(caplog):
     import logging
+
     import pytest
     cli = client(ServingTask.GENERATE, {"/v1/chat/completions": {
         "choices": [{"finish_reason": "length", "message": {"content": "{}"}}],

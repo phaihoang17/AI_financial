@@ -4,7 +4,7 @@ from __future__ import annotations
 
 from dataclasses import dataclass
 from enum import Enum
-from typing import Any, Dict, List, Tuple
+from typing import Any
 
 from src.understanding.schemas import (
     QueryUnderstanding,
@@ -28,7 +28,7 @@ class NLUEvaluationField(str, Enum):
     AMBIGUITIES = "AMBIGUITIES"
 
 
-_FIELD_ORDER: Tuple[NLUEvaluationField, ...] = tuple(NLUEvaluationField)
+_FIELD_ORDER: tuple[NLUEvaluationField, ...] = tuple(NLUEvaluationField)
 
 
 @dataclass
@@ -49,7 +49,7 @@ class NLUFieldComparison:
             matches=data["matches"],
         )
 
-    def to_dict(self) -> Dict[str, Any]:
+    def to_dict(self) -> dict[str, Any]:
         return {"field": self.field.value, "matches": self.matches}
 
 
@@ -85,7 +85,7 @@ class NLUEvaluationCase:
             expected=QueryUnderstanding.from_dict(data["expected"]),
         )
 
-    def to_dict(self) -> Dict[str, Any]:
+    def to_dict(self) -> dict[str, Any]:
         return {
             "case_id": self.case_id,
             "question": self.question,
@@ -122,7 +122,7 @@ def _exact_field_matches(
 
 def _expected_comparisons(
     expected: QueryUnderstanding, actual: QueryUnderstanding
-) -> List[NLUFieldComparison]:
+) -> list[NLUFieldComparison]:
     return [
         NLUFieldComparison(
             field=field,
@@ -136,7 +136,7 @@ def _expected_comparisons(
 class NLUEvaluationResult:
     case: NLUEvaluationCase
     actual: QueryUnderstanding
-    field_comparisons: List[NLUFieldComparison]
+    field_comparisons: list[NLUFieldComparison]
 
     def __post_init__(self) -> None:
         if not isinstance(self.case, NLUEvaluationCase):
@@ -184,7 +184,7 @@ class NLUEvaluationResult:
             ],
         )
 
-    def to_dict(self) -> Dict[str, Any]:
+    def to_dict(self) -> dict[str, Any]:
         return {
             "case": self.case.to_dict(),
             "actual": self.actual.to_dict(),

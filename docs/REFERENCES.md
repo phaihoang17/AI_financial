@@ -10,13 +10,13 @@
 
 ## Available Reference Files
 
-- `docs/references/2105.07624v2.pdf`: TAT-QA.
-- `docs/references/2109.00122v3.pdf`: FinQA.
-- `docs/references/2211.10435v2.pdf`: PAL.
-- `docs/references/2401.04398v2.pdf`: Chain-of-Table.
-- `docs/references/2606.17642v1.pdf`: FinAcumen.
-- `docs/references/_2026__AIGuru___Finance_Tabular_QA 1.pdf`: 2026 AIGuru Finance Tabular QA materials.
-- `docs/references/_2026__R2AI___Stage2___Finance_Tabular_QA___Aug21 (1).pdf`: 2026 R2AI Stage 2 Finance Tabular QA materials.
+- `docs/references/tat-qa-2105.07624v2.pdf`: TAT-QA.
+- `docs/references/finqa-2109.00122v3.pdf`: FinQA.
+- `docs/references/pal-2211.10435v2.pdf`: PAL.
+- `docs/references/chain-of-table-2401.04398v2.pdf`: Chain-of-Table.
+- `docs/references/finacumen-2606.17642v1.pdf`: FinAcumen.
+- `docs/references/aiguru-2026-finance-tabular-qa.pdf`: 2026 AIGuru Finance Tabular QA materials.
+- `docs/references/r2ai-2026-stage2-finance-tabular-qa-aug21.pdf`: 2026 R2AI Stage 2 Finance Tabular QA materials.
 
 ## Missing References
 

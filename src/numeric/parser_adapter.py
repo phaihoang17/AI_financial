@@ -1,4 +1,4 @@
-"""M6/M7 adapter over the existing M2 numeric parser contract."""
+"""Adapter from the indexing numeric parser to canonical decimals with typed failures."""
 
 from __future__ import annotations
 
@@ -9,7 +9,7 @@ from src.understanding.schemas import SchemaValidationError
 
 
 class NumericBoundaryError(SchemaValidationError):
-    """Expose an unsuccessful M2 parse status as a typed boundary failure."""
+    """Expose an unsuccessful parse status as a typed boundary failure."""
 
     def __init__(self, code: NumericParseStatus, raw_text: str) -> None:
         self.code = code
@@ -18,7 +18,7 @@ class NumericBoundaryError(SchemaValidationError):
 
 
 def adapt_numeric_parse_result(result: NumericParseResult) -> CanonicalDecimal:
-    """Return the parsed canonical string or preserve the exact M2 failure type."""
+    """Return the parsed canonical string or preserve the exact parser failure type."""
     if not isinstance(result, NumericParseResult):
         raise SchemaValidationError("result must be a NumericParseResult")
     if result.status is not NumericParseStatus.PARSED:
@@ -29,5 +29,5 @@ def adapt_numeric_parse_result(result: NumericParseResult) -> CanonicalDecimal:
 
 
 def parse_canonical_decimal(raw_text: str) -> CanonicalDecimal:
-    """Delegate parsing to M2; this adapter defines no additional numeric grammar."""
+    """Delegate parsing to the indexing parser; this adapter defines no additional numeric grammar."""
     return adapt_numeric_parse_result(numeric_parser.parse_numeric_string(raw_text))

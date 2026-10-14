@@ -7,7 +7,6 @@ from src.indexing.paragraph_extractor import extract_paragraphs
 from src.indexing.scale_unit_hint_extractor import extract_scale_unit_hints
 from src.indexing.schemas import ScaleHintSource, ScaleHintStatus
 from src.indexing.table_text_linker import link_tables_to_paragraphs
-
 from tests.indexing.test_document_parser import make_source
 
 

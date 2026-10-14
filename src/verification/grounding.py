@@ -2,9 +2,9 @@
 
 from __future__ import annotations
 
-from typing import List, Optional, Sequence
+from collections.abc import Sequence
 
-from src.evidence.m5_schemas import (
+from src.evidence.masking_schemas import (
     SchemaLinkMatchBasis,
     SchemaLinkStatus,
 )
@@ -16,7 +16,6 @@ from src.verification.schemas import (
     VerificationRequest,
 )
 
-
 _EXACT_LINK_BASES = {
     SchemaLinkMatchBasis.EXACT_METRIC_PATH,
     SchemaLinkMatchBasis.EXACT_PERIOD_PATH,
@@ -24,8 +23,8 @@ _EXACT_LINK_BASES = {
 }
 
 
-def _subjects(*values: Optional[str]) -> List[str]:
-    result: List[str] = []
+def _subjects(*values: str | None) -> list[str]:
+    result: list[str] = []
     for value in values:
         if value and value not in result:
             result.append(value)
@@ -36,7 +35,7 @@ def _check(
     check_id: str,
     passed: bool,
     reason_code: str,
-    *subject_ids: Optional[str],
+    *subject_ids: str | None,
 ) -> VerificationCheckResult:
     return VerificationCheckResult(
         check_id=check_id,
@@ -55,7 +54,7 @@ def _one(items: Sequence, *, missing: str, ambiguous: str):
     return items[0], None
 
 
-def _year(period: Optional[str]) -> Optional[int]:
+def _year(period: str | None) -> int | None:
     if period is None or len(period) < 4 or not period[:4].isdigit():
         return None
     return int(period[:4])
@@ -64,7 +63,7 @@ def _year(period: Optional[str]) -> Optional[int]:
 def _table_checks(
     request: VerificationRequest,
     requirement: RetrievalRequirement,
-) -> List[VerificationCheckResult]:
+) -> list[VerificationCheckResult]:
     prefix = f"grounding:{requirement.requirement_id}"
     links = [
         link
@@ -280,8 +279,8 @@ def _table_checks(
 def _text_evidence_ids(
     request: VerificationRequest,
     requirement: RetrievalRequirement,
-) -> List[str]:
-    completeness_ids: List[str] = []
+) -> list[str]:
+    completeness_ids: list[str] = []
     for result in request.evidence_completeness.requirements:
         if result.requirement.requirement_id == requirement.requirement_id:
             completeness_ids.extend(result.evidence_ids)
@@ -299,8 +298,8 @@ def _text_evidence_ids(
 def _text_checks(
     request: VerificationRequest,
     requirement: RetrievalRequirement,
-) -> List[VerificationCheckResult]:
-    checks: List[VerificationCheckResult] = []
+) -> list[VerificationCheckResult]:
+    checks: list[VerificationCheckResult] = []
     evidence_by_id = {item.evidence_id: item for item in request.evidence_items}
     for evidence_id in _text_evidence_ids(request, requirement):
         evidence = evidence_by_id.get(evidence_id)
@@ -386,9 +385,9 @@ def _text_checks(
     return checks
 
 
-def verify_grounding(request: VerificationRequest) -> List[VerificationCheckResult]:
+def verify_grounding(request: VerificationRequest) -> list[VerificationCheckResult]:
     """Return every applicable grounding check in Plan requirement order."""
-    checks: List[VerificationCheckResult] = []
+    checks: list[VerificationCheckResult] = []
     for requirement in request.plan.retrieval_requirements:
         if not requirement.required:
             continue

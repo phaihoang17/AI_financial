@@ -2,14 +2,14 @@
 
 from __future__ import annotations
 
+from collections.abc import Iterable, Mapping, Sequence
 from dataclasses import dataclass, replace
 import json
 from pathlib import Path
 import sqlite3
-from typing import Any, Dict, Iterable, List, Mapping, Sequence, Tuple
+from typing import Any
 
 from src.indexing.embedding_artifact_builder import (
-    APPROVED_EMBEDDING_FINGERPRINT,
     EmbeddingArtifactBuilderError,
     validate_published_artifact,
 )
@@ -47,7 +47,7 @@ class _VectorLocation:
     local_vector_id: int
 
 
-def _load_faiss_numpy() -> Tuple[Any, Any]:
+def _load_faiss_numpy() -> tuple[Any, Any]:
     try:
         import faiss
         import numpy as np
@@ -110,7 +110,7 @@ class VectorSearcher:
     def embedding_fingerprint(self) -> str:
         return self._compatibility.model_fingerprint
 
-    def _load_manifest(self) -> Dict[str, Any]:
+    def _load_manifest(self) -> dict[str, Any]:
         try:
             manifest = json.loads((self._vector_root / "manifest.json").read_text(encoding="utf-8"))
         except (OSError, UnicodeDecodeError, ValueError) as error:
@@ -119,11 +119,11 @@ class VectorSearcher:
             raise VectorSearchError("VECTOR_MANIFEST_INVALID", "manifest must be an object")
         return manifest
 
-    def _load_shard_paths(self) -> Dict[str, Path]:
+    def _load_shard_paths(self) -> dict[str, Path]:
         entries = self._manifest.get("shards")
         if not isinstance(entries, list) or not entries:
             raise VectorSearchError("VECTOR_MANIFEST_INVALID", "shards are missing")
-        paths: Dict[str, Path] = {}
+        paths: dict[str, Path] = {}
         for expected_number, entry in enumerate(entries):
             if not isinstance(entry, Mapping):
                 raise VectorSearchError("VECTOR_MANIFEST_INVALID", "shard entry is invalid")
@@ -140,7 +140,7 @@ class VectorSearcher:
 
     def _validate_embeddings(
         self, query: RetrievalQuery, embeddings: Sequence[QueryEmbedding]
-    ) -> List[QueryEmbedding]:
+    ) -> list[QueryEmbedding]:
         if not isinstance(query, RetrievalQuery):
             raise TypeError("query must be a RetrievalQuery")
         values = list(embeddings)
@@ -166,7 +166,7 @@ class VectorSearcher:
 
     def _eligible_locations(
         self, query: RetrievalQuery, eligible_source_types: Sequence[EvidenceSource]
-    ) -> Dict[str, List[_VectorLocation]]:
+    ) -> dict[str, list[_VectorLocation]]:
         where, parameters = report_metadata_sql_constraints(query, table_alias="e")
         source_placeholders = ",".join("?" for _ in eligible_source_types)
         sql = f"""
@@ -187,7 +187,7 @@ class VectorSearcher:
                 connection.close()
         except sqlite3.DatabaseError as error:
             raise VectorSearchError("VECTOR_METADATA_INVALID", str(error)) from error
-        grouped: Dict[str, List[_VectorLocation]] = {}
+        grouped: dict[str, list[_VectorLocation]] = {}
         seen_ids = set()
         for row in rows:
             (
@@ -250,7 +250,7 @@ class VectorSearcher:
     @staticmethod
     def _search_eligible_in_shard(
         index: Any, local_vector_ids: Sequence[int], query_vector: Sequence[float], top_k: int
-    ) -> Iterable[Tuple[float, int]]:
+    ) -> Iterable[tuple[float, int]]:
         faiss, np = _load_faiss_numpy()
         identifiers = np.asarray(list(local_vector_ids), dtype=np.int64)
         if identifiers.size == 0:
@@ -276,7 +276,7 @@ class VectorSearcher:
         embeddings: Sequence[QueryEmbedding],
         *,
         top_k: int,
-        eligible_source_types: Optional[Sequence[Any]] = None,
+        eligible_source_types: Sequence[Any] | None = None,
     ) -> RetrievalSearchResult:
         if isinstance(top_k, bool) or not isinstance(top_k, int) or top_k < 1:
             raise VectorSearchError("INVALID_TOP_K", "top_k must be a positive integer")
@@ -286,7 +286,7 @@ class VectorSearcher:
             raise VectorSearchError(error.code, str(error)) from error
         values = self._validate_embeddings(query, embeddings)
         locations_by_shard = self._eligible_locations(query, eligible)
-        best: Dict[str, Tuple[_VectorLocation, float, int]] = {}
+        best: dict[str, tuple[_VectorLocation, float, int]] = {}
         for query_embedding in values:
             for shard_id in sorted(self._shard_paths):
                 locations = locations_by_shard.get(shard_id, [])
@@ -315,8 +315,8 @@ class VectorSearcher:
             source_candidates = self._loader.load_locations([item[0].source for item in best.values()])
         except CorpusCandidateError as error:
             raise VectorSearchError(error.code, str(error)) from error
-        candidates: List[RetrievalCandidate] = []
-        for candidate_id, (location, score, _) in best.items():
+        candidates: list[RetrievalCandidate] = []
+        for candidate_id, (_, score, _) in best.items():
             source = source_candidates.get(candidate_id)
             if source is None:
                 raise VectorSearchError("CORPUS_VECTOR_PROVENANCE_MISMATCH", candidate_id)
@@ -344,8 +344,8 @@ class VectorSearcher:
         embeddings: Sequence[QueryEmbedding],
         *,
         top_k: int,
-        eligible_source_types: Optional[Sequence[Any]] = None,
-    ) -> List[RetrievalCandidate]:
+        eligible_source_types: Sequence[Any] | None = None,
+    ) -> list[RetrievalCandidate]:
         return self.search_with_diagnostics(
             query,
             embeddings,
@@ -361,8 +361,8 @@ def search_vectors(
     embeddings: Sequence[QueryEmbedding],
     *,
     top_k: int,
-    eligible_source_types: Optional[Sequence[Any]] = None,
-) -> List[RetrievalCandidate]:
+    eligible_source_types: Sequence[Any] | None = None,
+) -> list[RetrievalCandidate]:
     """Open a fully validated vector artifact and execute exact filtered search."""
 
     return VectorSearcher(vector_artifact_root, corpus_artifact_root).search(

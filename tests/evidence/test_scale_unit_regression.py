@@ -1,13 +1,13 @@
 import copy
 import unittest
 
-from src.evidence.m5_schemas import ScaleUnitResolutionStatus
+from src.evidence.masking_schemas import ScaleUnitResolutionStatus
 from src.evidence.scale_unit_resolver import resolve_scale_unit
 from src.evidence.schemas import CanonicalDecimal, Scale
 from src.indexing.schemas import ScaleHintSource
 from src.retrieval.schemas import HintAssociation
 from src.understanding.requested_scale_unit_parser import RequestedScale
-from tests.evidence.m5_helpers import grounded_cell, hint, understanding
+from tests.evidence.helpers import grounded_cell, hint, understanding
 
 
 class Task055ScaleUnitRegressionTests(unittest.TestCase):

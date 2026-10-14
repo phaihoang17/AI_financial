@@ -1,19 +1,19 @@
-"""Canonical M5 scale-resolution and schema-linking contracts."""
+"""Scale-resolution, schema-linking, numeric-masking and value-binding contracts."""
 
 from __future__ import annotations
 
+from collections.abc import Mapping
 from dataclasses import dataclass
 from enum import Enum
 from hashlib import sha256
 import json
 import re
-from typing import Any, Dict, List, Mapping, Optional, Set
+from typing import Any
 
 from src.evidence.schemas import CanonicalDecimal, Scale
 from src.indexing.schemas import HeaderPathEntry
 from src.understanding.requested_scale_unit_parser import RequestedScale
 from src.understanding.schemas import SchemaValidationError
-
 
 M5_MASKING_CONTRACT_VERSION = "m5-numeric-masking-v1"
 _PLACEHOLDER_PATTERN = re.compile(r"val_[0-9a-f]{64}\Z")
@@ -60,7 +60,7 @@ def _mapping(value: Any, path: str) -> Mapping[str, Any]:
     return value
 
 
-def _exact_keys(data: Mapping[str, Any], expected: Set[str], path: str) -> None:
+def _exact_keys(data: Mapping[str, Any], expected: set[str], path: str) -> None:
     missing = expected - set(data)
     unknown = set(data) - expected
     if missing:
@@ -81,7 +81,7 @@ def _string(value: Any, path: str, *, non_empty: bool = False) -> str:
     return value
 
 
-def _optional_string(value: Any, path: str) -> Optional[str]:
+def _optional_string(value: Any, path: str) -> str | None:
     if value is not None and not isinstance(value, str):
         raise SchemaValidationError(f"{path} must be a string or null")
     return value
@@ -103,7 +103,7 @@ def _parse_enum(value: Any, enum_type: type[Enum], path: str) -> Enum:
         raise SchemaValidationError(f"{path} must be one of: {allowed}") from error
 
 
-def _string_ids(value: Any, path: str) -> List[str]:
+def _string_ids(value: Any, path: str) -> list[str]:
     if not isinstance(value, list):
         raise SchemaValidationError(f"{path} must be a list")
     result = [_string(item, f"{path}[{index}]", non_empty=True) for index, item in enumerate(value)]
@@ -112,7 +112,7 @@ def _string_ids(value: Any, path: str) -> List[str]:
     return result
 
 
-def _header_path(value: Any, path: str) -> List[HeaderPathEntry]:
+def _header_path(value: Any, path: str) -> list[HeaderPathEntry]:
     if not isinstance(value, list):
         raise SchemaValidationError(f"{path} must be a list")
     return [
@@ -129,12 +129,12 @@ class ScaleUnitResolution:
 
     evidence_id: str
     status: ScaleUnitResolutionStatus
-    source_scale: Optional[Scale]
-    source_unit: Optional[str]
-    requested_output_scale: Optional[RequestedScale]
-    requested_output_unit: Optional[str]
-    winning_hint_ids: List[str]
-    considered_hint_ids: List[str]
+    source_scale: Scale | None
+    source_unit: str | None
+    requested_output_scale: RequestedScale | None
+    requested_output_unit: str | None
+    winning_hint_ids: list[str]
+    considered_hint_ids: list[str]
 
     def __post_init__(self) -> None:
         self.evidence_id = _string(self.evidence_id, "evidence_id", non_empty=True)
@@ -183,7 +183,7 @@ class ScaleUnitResolution:
                 )
 
     @classmethod
-    def from_dict(cls, value: Any) -> "ScaleUnitResolution":
+    def from_dict(cls, value: Any) -> ScaleUnitResolution:
         data = _mapping(value, "ScaleUnitResolution")
         _exact_keys(
             data,
@@ -224,7 +224,7 @@ class ScaleUnitResolution:
             considered_hint_ids=data["considered_hint_ids"],
         )
 
-    def to_dict(self) -> Dict[str, Any]:
+    def to_dict(self) -> dict[str, Any]:
         return {
             "evidence_id": self.evidence_id,
             "status": self.status.value,
@@ -248,11 +248,11 @@ class SchemaLinkResult:
     requirement_id: str
     evidence_id: str
     status: SchemaLinkStatus
-    metric: Optional[str]
-    period: Optional[str]
-    row_path: List[HeaderPathEntry]
-    column_path: List[HeaderPathEntry]
-    matched_source_cell_id: Optional[str]
+    metric: str | None
+    period: str | None
+    row_path: list[HeaderPathEntry]
+    column_path: list[HeaderPathEntry]
+    matched_source_cell_id: str | None
     match_basis: SchemaLinkMatchBasis
 
     def __post_init__(self) -> None:
@@ -287,7 +287,7 @@ class SchemaLinkResult:
                 )
 
     @classmethod
-    def from_dict(cls, value: Any) -> "SchemaLinkResult":
+    def from_dict(cls, value: Any) -> SchemaLinkResult:
         data = _mapping(value, "SchemaLinkResult")
         _exact_keys(
             data,
@@ -318,7 +318,7 @@ class SchemaLinkResult:
             ),
         )
 
-    def to_dict(self) -> Dict[str, Any]:
+    def to_dict(self) -> dict[str, Any]:
         return {
             "requirement_id": self.requirement_id,
             "evidence_id": self.evidence_id,
@@ -339,10 +339,10 @@ class MaskedEvidence:
     placeholder: str
     evidence_id: str
     requirement_id: str
-    metric: Optional[str]
-    period: Optional[str]
-    row_path: List[HeaderPathEntry]
-    column_path: List[HeaderPathEntry]
+    metric: str | None
+    period: str | None
+    row_path: list[HeaderPathEntry]
+    column_path: list[HeaderPathEntry]
 
     def __post_init__(self) -> None:
         self.placeholder = _string(
@@ -366,7 +366,7 @@ class MaskedEvidence:
         self.column_path = _header_path(self.column_path, "column_path")
 
     @classmethod
-    def from_dict(cls, value: Any) -> "MaskedEvidence":
+    def from_dict(cls, value: Any) -> MaskedEvidence:
         data = _mapping(value, "MaskedEvidence")
         _exact_keys(
             data,
@@ -391,7 +391,7 @@ class MaskedEvidence:
             column_path=_header_path(data["column_path"], "column_path"),
         )
 
-    def to_dict(self) -> Dict[str, Any]:
+    def to_dict(self) -> dict[str, Any]:
         return {
             "placeholder": self.placeholder,
             "evidence_id": self.evidence_id,
@@ -407,7 +407,7 @@ class MaskedEvidence:
 class MaskedEvidenceBundle:
     """The complete programmer-facing numeric evidence boundary."""
 
-    items: List[MaskedEvidence]
+    items: list[MaskedEvidence]
 
     def __post_init__(self) -> None:
         if not isinstance(self.items, list) or not all(
@@ -416,7 +416,7 @@ class MaskedEvidenceBundle:
             raise SchemaValidationError(
                 "items must contain MaskedEvidence values"
             )
-        placeholder_evidence: Dict[str, str] = {}
+        placeholder_evidence: dict[str, str] = {}
         seen_pairs = set()
         for item in self.items:
             existing = placeholder_evidence.get(item.placeholder)
@@ -433,7 +433,7 @@ class MaskedEvidenceBundle:
             seen_pairs.add(pair)
 
     @classmethod
-    def from_dict(cls, value: Any) -> "MaskedEvidenceBundle":
+    def from_dict(cls, value: Any) -> MaskedEvidenceBundle:
         data = _mapping(value, "MaskedEvidenceBundle")
         _exact_keys(data, {"items"}, "MaskedEvidenceBundle")
         items = data["items"]
@@ -443,7 +443,7 @@ class MaskedEvidenceBundle:
             items=[MaskedEvidence.from_dict(item) for item in items]
         )
 
-    def to_dict(self) -> Dict[str, Any]:
+    def to_dict(self) -> dict[str, Any]:
         return {"items": [item.to_dict() for item in self.items]}
 
 
@@ -454,10 +454,10 @@ class ValueBinding:
     placeholder: str
     evidence_id: str
     value: CanonicalDecimal
-    source_scale: Optional[Scale]
-    source_unit: Optional[str]
-    requested_output_scale: Optional[RequestedScale]
-    requested_output_unit: Optional[str]
+    source_scale: Scale | None
+    source_unit: str | None
+    requested_output_scale: RequestedScale | None
+    requested_output_unit: str | None
 
     def __post_init__(self) -> None:
         self.placeholder = _string(
@@ -492,7 +492,7 @@ class ValueBinding:
         )
 
     @classmethod
-    def from_dict(cls, value: Any) -> "ValueBinding":
+    def from_dict(cls, value: Any) -> ValueBinding:
         data = _mapping(value, "ValueBinding")
         _exact_keys(
             data,
@@ -530,7 +530,7 @@ class ValueBinding:
             requested_output_unit=data["requested_output_unit"],
         )
 
-    def to_dict(self) -> Dict[str, Any]:
+    def to_dict(self) -> dict[str, Any]:
         return {
             "placeholder": self.placeholder,
             "evidence_id": self.evidence_id,
@@ -550,7 +550,7 @@ class ValueBinding:
 class BindingMap:
     """Execution-only bindings; this contract must not enter Programmer input."""
 
-    bindings: List[ValueBinding]
+    bindings: list[ValueBinding]
 
     def __post_init__(self) -> None:
         if not isinstance(self.bindings, list) or not all(
@@ -568,7 +568,7 @@ class BindingMap:
             )
 
     @classmethod
-    def from_dict(cls, value: Any) -> "BindingMap":
+    def from_dict(cls, value: Any) -> BindingMap:
         data = _mapping(value, "BindingMap")
         _exact_keys(data, {"bindings"}, "BindingMap")
         bindings = data["bindings"]
@@ -576,5 +576,5 @@ class BindingMap:
             raise SchemaValidationError("bindings must be a list")
         return cls(bindings=[ValueBinding.from_dict(item) for item in bindings])
 
-    def to_dict(self) -> Dict[str, Any]:
+    def to_dict(self) -> dict[str, Any]:
         return {"bindings": [binding.to_dict() for binding in self.bindings]}

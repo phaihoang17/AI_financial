@@ -1,6 +1,6 @@
 """TASK-112 coordination-failure logging.
 
-A pure, read-only observer over a completed or in-progress :class:`M9State`. It
+A pure, read-only observer over a completed or in-progress :class:`OrchestrationState`. It
 derives typed coordination records — attempt progression, model-tier
 escalation, retry-budget consumption/exhaustion, terminal stage failures, and
 the three M10 coordination-failure categories (conflicting worker state, stale
@@ -26,16 +26,16 @@ state it is not emitted (fail closed).
 
 from __future__ import annotations
 
+from collections.abc import Mapping
 from dataclasses import dataclass, field
 from enum import Enum
-from typing import Any, Dict, Mapping, Optional
+from typing import Any
 
 from src.orchestration.schemas import FinalResponseStatus
-from src.orchestration.state import M9State
+from src.orchestration.state import OrchestrationState
 from src.supervisor.schemas import ModelTier
 from src.understanding.schemas import SchemaValidationError
 from src.verification.schemas import RetryAction
-
 
 COORDINATION_LOG_SCHEMA_VERSION = "m10-coordination-log-v1"
 
@@ -52,14 +52,14 @@ class CoordinationEventType(str, Enum):
 
 
 # Only redaction-safe scalar values are ever placed in an event detail.
-_SafeDetailValue = Optional[object]
+_SafeDetailValue = object | None
 
 
 @dataclass(frozen=True)
 class CoordinationEvent:
     event_type: CoordinationEventType
-    attempt_index: Optional[int]
-    detail: Dict[str, _SafeDetailValue] = field(default_factory=dict)
+    attempt_index: int | None
+    detail: dict[str, _SafeDetailValue] = field(default_factory=dict)
 
     def __post_init__(self) -> None:
         if not isinstance(self.event_type, CoordinationEventType):
@@ -79,7 +79,7 @@ class CoordinationEvent:
                 "detail must map strings to redaction-safe scalars"
             )
 
-    def to_dict(self) -> Dict[str, Any]:
+    def to_dict(self) -> dict[str, Any]:
         return {
             "event_type": self.event_type.value,
             "attempt_index": self.attempt_index,
@@ -88,11 +88,11 @@ class CoordinationEvent:
 
 
 def _conflicting_worker_state_event(
-    state: M9State,
-) -> Optional[CoordinationEvent]:
+    state: OrchestrationState,
+) -> CoordinationEvent | None:
     """Detect a terminal outcome that contradicts its own worker output.
 
-    Two proven contradictions, neither rejected by ``M9State`` validation:
+    Two proven contradictions, neither rejected by ``OrchestrationState`` validation:
 
     - a non-``PASS`` terminal outcome whose final :class:`AttemptRecord` carries
       an M8 ``RetryDirective`` with ``action == PASS`` (``_validate_pass`` only
@@ -133,12 +133,12 @@ def _conflicting_worker_state_event(
     return None
 
 
-def _stale_worker_state_event(state: M9State) -> Optional[CoordinationEvent]:
+def _stale_worker_state_event(state: OrchestrationState) -> CoordinationEvent | None:
     """Detect a failure attribution that does not track the current attempt.
 
     ``build_failure_response`` always stamps
     ``FailureAttribution.attempt_index`` with ``attempts[-1].attempt_index`` (or
-    ``None`` when there is no attempt). ``M9State`` never re-checks that field
+    ``None`` when there is no attempt). ``OrchestrationState`` never re-checks that field
     against the attempt tuple, so an attribution pointing at a superseded,
     out-of-range, or absent attempt is a stale observation that never advanced
     with the run.
@@ -161,13 +161,13 @@ def _stale_worker_state_event(state: M9State) -> Optional[CoordinationEvent]:
     )
 
 
-def build_coordination_log(state: M9State) -> tuple[CoordinationEvent, ...]:
+def build_coordination_log(state: OrchestrationState) -> tuple[CoordinationEvent, ...]:
     """Derive the ordered coordination log for one orchestration state."""
-    if not isinstance(state, M9State):
-        raise TypeError("state must be an M9State")
+    if not isinstance(state, OrchestrationState):
+        raise TypeError("state must be an OrchestrationState")
 
     events: list[CoordinationEvent] = []
-    previous_tier: Optional[ModelTier] = None
+    previous_tier: ModelTier | None = None
     for attempt in state.attempts:
         events.append(
             CoordinationEvent(
@@ -250,7 +250,7 @@ def scan_coordination_payload(
     """Observe one raw orchestration checkpoint payload at its fail-closed edge.
 
     The dict handed between orchestration nodes (``_OrchestrationGraphState``'s
-    ``checkpoint``) is the coordination message. ``M9State.from_dict`` is the
+    ``checkpoint``) is the coordination message. ``OrchestrationState.from_dict`` is the
     existing boundary every node already crosses; if it rejects the payload as
     contract-invalid the run cannot proceed, and this records a single
     :attr:`CoordinationEventType.MESSAGE_SCHEMA_CORRUPTION` event carrying only
@@ -259,7 +259,7 @@ def scan_coordination_payload(
     :func:`build_coordination_log` so callers get the full log for valid input.
     """
     try:
-        state = M9State.from_dict(payload)
+        state = OrchestrationState.from_dict(payload)
     except SchemaValidationError as error:
         return (
             CoordinationEvent(
@@ -267,7 +267,7 @@ def scan_coordination_payload(
                 None,
                 {
                     "signal": "CHECKPOINT_CONTRACT_INVALID",
-                    "boundary": "M9State.from_dict",
+                    "boundary": "OrchestrationState.from_dict",
                     "error_type": type(error).__name__,
                 },
             ),
@@ -275,7 +275,7 @@ def scan_coordination_payload(
     return build_coordination_log(state)
 
 
-def coordination_log_to_dict(state: M9State) -> Dict[str, Any]:
+def coordination_log_to_dict(state: OrchestrationState) -> dict[str, Any]:
     """Serialize the coordination log with its schema version."""
     return {
         "schema_version": COORDINATION_LOG_SCHEMA_VERSION,
@@ -285,7 +285,7 @@ def coordination_log_to_dict(state: M9State) -> Dict[str, Any]:
 
 def coordination_payload_scan_to_dict(
     payload: Mapping[str, Any],
-) -> Dict[str, Any]:
+) -> dict[str, Any]:
     """Serialize a raw-payload scan with its schema version."""
     return {
         "schema_version": COORDINATION_LOG_SCHEMA_VERSION,

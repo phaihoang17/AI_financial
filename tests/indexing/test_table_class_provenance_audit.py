@@ -17,7 +17,6 @@ from src.indexing.table_class_provenance_audit import (
 from src.indexing.table_class_sidecar import build_table_class_sidecar
 from tests.indexing.test_corpus_artifact import CharTokenizer
 
-
 _TABLE = (
     "<table><tr><td>Chỉ tiêu</td><td>2024</td></tr>"
     "<tr><td>Doanh thu</td><td>1.250</td></tr></table>"

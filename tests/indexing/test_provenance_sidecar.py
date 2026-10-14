@@ -6,6 +6,10 @@ import unittest
 from unittest.mock import patch
 
 from src.indexing.corpus_artifact import build_corpus_artifact
+from src.indexing.document_parser import parse_document
+from src.indexing.grid_builder import build_logical_table_grid
+from src.indexing.normalized_table_assembler import assemble_normalized_table
+from src.indexing.paragraph_extractor import extract_paragraphs
 from src.indexing.provenance_sidecar import (
     ProvenanceSidecar,
     ProvenanceSidecarError,
@@ -15,10 +19,6 @@ from src.indexing.provenance_sidecar import (
     validate_provenance_sidecar,
 )
 from src.indexing.scale_unit_hint_extractor import extract_scale_unit_hints
-from src.indexing.document_parser import parse_document
-from src.indexing.paragraph_extractor import extract_paragraphs
-from src.indexing.grid_builder import build_logical_table_grid
-from src.indexing.normalized_table_assembler import assemble_normalized_table
 from src.indexing.table_text_linker import link_tables_to_paragraphs
 from tests.indexing.test_corpus_artifact import CharTokenizer
 

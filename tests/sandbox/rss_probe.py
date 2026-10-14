@@ -16,8 +16,6 @@ worker as MEMORY_LIMIT while it is still climbing.
 
 from __future__ import annotations
 
-import sys
-
 from src.sandbox.limits import apply_worker_resource_limits
 
 _CHUNK_BYTES = 16 * 1024 * 1024

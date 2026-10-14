@@ -2,11 +2,11 @@
 
 from __future__ import annotations
 
+from collections.abc import Mapping
 from enum import Enum
 import os
 from pathlib import Path
 import sys
-from typing import Mapping
 
 from src.sandbox.schemas import ExecutionFailure, ExecutionFailureStage
 

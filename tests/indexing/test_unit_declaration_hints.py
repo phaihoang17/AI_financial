@@ -13,7 +13,6 @@ from src.indexing.schemas import (
     TableTextRelation,
 )
 from src.understanding.schemas import SchemaValidationError
-
 from tests.indexing.test_document_parser import make_source
 
 STATEMENT = (

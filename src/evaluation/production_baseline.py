@@ -3,29 +3,33 @@
 This replays checkpoints; it does not call serving endpoints or generate gold.
 """
 
+from collections.abc import Mapping, Sequence
 from decimal import Decimal
-from typing import Any, Mapping, Sequence
+from typing import Any
 
 from src.evaluation.baseline import (
-    BASELINE_ACCEPTANCE_THRESHOLDS, BASELINE_MODEL_TIER,
-    BASELINE_SCHEMA_VERSION, BASELINE_VERIFY_PROFILE,
+    BASELINE_ACCEPTANCE_THRESHOLDS,
+    BASELINE_MODEL_TIER,
+    BASELINE_SCHEMA_VERSION,
+    BASELINE_VERIFY_PROFILE,
 )
 from src.evaluation.corpus_reference_index import CorpusReferenceIndex
 from src.evaluation.gold_retrieval import (
-    GoldAnnotationStatus, GoldRetrievalCase, validate_gold_cases,
+    GoldAnnotationStatus,
+    GoldRetrievalCase,
+    validate_gold_cases,
 )
 from src.evaluation.retrieval_production_validation import (
     PRODUCTION_RETRIEVAL_VALIDATION_SCHEMA_VERSION,
 )
 from src.evaluation.telemetry import MeasurementSource
-from src.evidence.m5_schemas import SchemaLinkStatus
+from src.evidence.masking_schemas import SchemaLinkStatus
 from src.numeric.scale_conversion import ScaleConversionStatus, convert_canonical_scale
 from src.orchestration.schemas import FinalResponseStatus
-from src.orchestration.state import M9State
+from src.orchestration.state import OrchestrationState
 from src.programmer.schemas import ProgramOutputKind
 from src.sandbox.schemas import ExecutionDatum
 from src.understanding.schemas import SchemaValidationError
-
 
 BASELINE_RUNS_SCHEMA_VERSION = "m10-baseline-runs-v1"
 
@@ -113,7 +117,7 @@ def evaluate_production_baseline(
         raise SchemaValidationError("baseline runs.states must be a list")
     states = {}
     for raw in raw_states:
-        state = M9State.from_dict(raw)
+        state = OrchestrationState.from_dict(raw)
         if not state.terminal or state.request_id in states:
             raise SchemaValidationError("baseline runs require unique terminal request_id values")
         states[state.request_id] = state
@@ -168,10 +172,11 @@ def evaluate_production_baseline(
             result["unit_correct"] = datum.unit == gold.unit
             refs = answer.evidence
             used_ids = {r.evidence_id for r in refs}
-            used_cells = {l.matched_source_cell_id for l in attempt.schema_links
-                          if l.evidence_id in used_ids and l.status is SchemaLinkStatus.RESOLVED}
+            used_cells = {link.matched_source_cell_id for link in attempt.schema_links
+                          if link.evidence_id in used_ids and link.status is SchemaLinkStatus.RESOLVED}
             used_paragraphs = {r.paragraph_ref for r in refs if r.paragraph_ref}
-            used_chunks = {l.chunk_id for l in attempt.cell_locations if l.source_cell_id in used_cells}
+            used_chunks = {location.chunk_id for location in attempt.cell_locations
+                           if location.source_cell_id in used_cells}
             used_chunks.update(c.chunk_id for c in attempt.retrieval_candidates
                                if c.paragraph_id in used_paragraphs)
             result["grounding_correct"] = bool(plan and refs

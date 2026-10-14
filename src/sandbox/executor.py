@@ -2,6 +2,7 @@
 
 from __future__ import annotations
 
+from collections.abc import Mapping
 from enum import Enum
 import os
 from pathlib import Path
@@ -11,7 +12,7 @@ import sys
 import tempfile
 import threading
 from time import monotonic_ns
-from typing import Any, Mapping
+from typing import Any
 
 from src.sandbox.host import admitted, exit_signal, kill_worker_tree, local_backend, popen_isolation_options
 from src.sandbox.interpreter import failure_result
@@ -22,6 +23,7 @@ from src.sandbox.limits import (
     resource_failure,
 )
 from src.sandbox.policy import ExecutionPolicyError, validate_execution_request
+from src.sandbox.production import launcher_environment, production_worker_command, resolve_isolation_mode
 from src.sandbox.protocol import (
     MAX_PROTOCOL_REQUEST_BYTES,
     MAX_PROTOCOL_RESPONSE_BYTES,
@@ -29,7 +31,6 @@ from src.sandbox.protocol import (
     decode_canonical_json,
     encode_canonical_json,
 )
-from src.sandbox.production import launcher_environment, production_worker_command, resolve_isolation_mode
 from src.sandbox.schemas import (
     ExecutionFailure,
     ExecutionFailureStage,
@@ -235,7 +236,7 @@ def _run_worker(command: list[str], payload: bytes, project_root: Path) -> subpr
                 raise WorkerResourceViolation(
                     ResourceLimitFailureCode.WALL_CLOCK_TIMEOUT,
                     "worker exceeded the wall-clock limit",
-                )
+                ) from None
             finally:
                 stop.set()
                 monitor.join(timeout=0.2)

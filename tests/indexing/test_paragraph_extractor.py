@@ -1,9 +1,9 @@
 import unittest
 
+from test_document_parser import fixture_source, make_source
+
 from src.indexing.document_parser import parse_document
 from src.indexing.paragraph_extractor import extract_paragraphs
-
-from test_document_parser import fixture_source, make_source
 
 
 class ParagraphExtractionTests(unittest.TestCase):

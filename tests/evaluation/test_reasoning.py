@@ -8,7 +8,6 @@ from src.evaluation.reasoning import (
 )
 from src.understanding.schemas import SchemaValidationError
 
-
 CANONICAL_FIELDS = [
     "execution_correct",
     "trace_comparison",

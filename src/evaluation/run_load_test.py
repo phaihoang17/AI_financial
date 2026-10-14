@@ -8,14 +8,14 @@ models remains GPU_PRODUCTION_VALIDATION_PENDING.
 from __future__ import annotations
 
 import argparse
+from collections.abc import Sequence
 import json
-from typing import Optional, Sequence
 
 from src.evaluation.e2e_fixtures import e2e_fixture_cases
 from src.evaluation.load_test import run_load_test
 
 
-def main(argv: Optional[Sequence[str]] = None) -> int:
+def main(argv: Sequence[str] | None = None) -> int:
     parser = argparse.ArgumentParser()
     parser.add_argument("--mode", choices=("fixture",), default="fixture")
     parser.add_argument("--total-requests", type=int, default=24)

@@ -17,7 +17,6 @@ from src.understanding.planning_gate import (
 from src.understanding.schemas import Operation, SchemaValidationError
 from src.understanding.temporal_parser import TemporalParserInput, parse_periods
 
-
 ALIASES = [CompanyAlias(alias="AAA", name="An Phát", ticker="AAA")]
 
 

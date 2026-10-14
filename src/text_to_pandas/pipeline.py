@@ -1,7 +1,7 @@
 """Question API with bounded code repair and append-only per-attempt history."""
 
 import ast
-from datetime import datetime, timezone
+from datetime import UTC, datetime
 import json
 from pathlib import Path
 from time import monotonic_ns
@@ -9,8 +9,8 @@ from uuid import uuid4
 
 from src.sandbox.pandas_executor import execute_pandas_sandboxed
 from src.sandbox.pandas_protocol import PandasFailureStage
-from src.text_to_pandas.metrics import METRICS_BY_ID
 from src.text_to_pandas.catalog import DatasetCatalog
+from src.text_to_pandas.metrics import METRICS_BY_ID
 from src.text_to_pandas.schemas import AttemptRecord, AttemptStage, ProgramStatus, ResponseStatus
 from src.text_to_pandas.understanding import GateDecision, discover, understand_question
 from src.text_to_pandas.validator import validate_pandas_code
@@ -46,7 +46,7 @@ class PandasPipeline:
         response = {"schema_version": "t2p-response-v1", "run_id": run_id,
                     "request_id": request_id or run_id, "question": question,
                     "catalog_id": self.catalog.catalog_id,
-                    "started_at": datetime.now(timezone.utc).isoformat(),
+                    "started_at": datetime.now(UTC).isoformat(),
                     "understanding": understanding.to_dict(), "discovery": discovery.to_dict()}
 
         def write(name, value):

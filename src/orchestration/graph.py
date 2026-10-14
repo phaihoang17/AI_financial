@@ -6,8 +6,9 @@ only sequencing, routing, checkpoint projection, and compatibility wrappers.
 
 from __future__ import annotations
 
+from collections.abc import Mapping
 from dataclasses import dataclass
-from typing import Any, Mapping, Optional, TypedDict
+from typing import Any, TypedDict
 
 from langgraph.graph import END, START, StateGraph
 
@@ -36,7 +37,7 @@ from src.orchestration.routing import (
     route_verification,
 )
 from src.orchestration.schemas import FinalResponseStatus
-from src.orchestration.state import M9State
+from src.orchestration.state import OrchestrationState
 from src.programmer.schemas import ProgrammerResult
 from src.retrieval.evidence import EvidenceCompletenessResult
 from src.retrieval.schemas import RetrievalContractError
@@ -44,7 +45,6 @@ from src.sandbox.schemas import ExecutionResult
 from src.supervisor.schemas import SupervisorResult
 from src.understanding.planning_gate import PlanningGate
 from src.verification.schemas import VerificationReport
-
 
 ORCHESTRATION_NODE_SEQUENCE = (
     "nlu",
@@ -68,7 +68,7 @@ class _OrchestrationGraphState(TypedDict):
 
 @dataclass(frozen=True)
 class OrchestrationResult:
-    state: M9State
+    state: OrchestrationState
 
     @property
     def successful(self) -> bool:
@@ -118,7 +118,7 @@ class OrchestrationGraph:
 
     def _node(self, function):
         def node(value: _OrchestrationGraphState) -> _OrchestrationGraphState:
-            state = M9State.from_dict(value["checkpoint"])
+            state = OrchestrationState.from_dict(value["checkpoint"])
             return _project_route(function(state, self.dependencies))
 
         return node
@@ -128,14 +128,14 @@ class OrchestrationGraph:
         *,
         request_id: str,
         raw_question: str,
-        config: Optional[Mapping[str, Any]] = None,
+        config: Mapping[str, Any] | None = None,
     ) -> OrchestrationResult:
         state = initial_state(request_id=request_id, raw_question=raw_question)
         output = self.graph.invoke(
             {"checkpoint": state.to_dict(), "next_node": "nlu"},
             config=None if config is None else dict(config),
         )
-        restored = M9State.from_dict(output["checkpoint"])
+        restored = OrchestrationState.from_dict(output["checkpoint"])
         if not restored.terminal:
             raise RuntimeError("orchestration graph stopped without a terminal state")
         return OrchestrationResult(restored)
@@ -144,19 +144,19 @@ class OrchestrationGraph:
 class _StraightThroughGraphState(TypedDict):
     checkpoint: dict[str, Any]
     stop: bool
-    failure: Optional[dict[str, Any]]
+    failure: dict[str, Any] | None
 
 
 @dataclass(frozen=True)
 class StraightThroughOrchestrationResult:
     """Result retained for the deprecated no-retry compatibility graph."""
 
-    state: M9State
-    failure_stage: Optional[str]
-    failure: Optional[object]
+    state: OrchestrationState
+    failure_stage: str | None
+    failure: object | None
 
     @property
-    def verification_report(self) -> Optional[VerificationReport]:
+    def verification_report(self) -> VerificationReport | None:
         if not self.state.attempts:
             return None
         return self.state.attempts[-1].verification_report
@@ -167,7 +167,7 @@ class StraightThroughOrchestrationResult:
         return self.failure is None and report is not None and report.passed
 
 
-def _failure_payload(transition: StageTransition) -> Optional[dict[str, Any]]:
+def _failure_payload(transition: StageTransition) -> dict[str, Any] | None:
     if transition.failure_kind is None:
         return None
     return {
@@ -194,8 +194,8 @@ def _route_straight_through(value: _StraightThroughGraphState) -> str:
 
 
 def _decode_failure(
-    value: Optional[Mapping[str, Any]],
-) -> tuple[Optional[str], Optional[object]]:
+    value: Mapping[str, Any] | None,
+) -> tuple[str | None, object | None]:
     if value is None:
         return None, None
     kind = value["kind"]
@@ -216,10 +216,10 @@ def _decode_failure(
     elif kind == "RETRIEVAL_ERROR":
         failure = RetrievalContractError(value["code"], value["message"])
     else:
-        from src.orchestration.schemas import M9Phase
+        from src.orchestration.schemas import OrchestrationPhase
 
         failure = OrchestrationFailure(
-            M9Phase(stage), value["code"], value["message"]
+            OrchestrationPhase(stage), value["code"], value["message"]
         )
     return stage, failure
 
@@ -261,7 +261,7 @@ class StraightThroughOrchestrationGraph:
 
     def _node(self, function):
         def node(value: _StraightThroughGraphState) -> _StraightThroughGraphState:
-            state = M9State.from_dict(value["checkpoint"])
+            state = OrchestrationState.from_dict(value["checkpoint"])
             return _project_straight_through(function(state, self.dependencies))
 
         return node
@@ -271,36 +271,23 @@ class StraightThroughOrchestrationGraph:
         *,
         request_id: str,
         raw_question: str,
-        config: Optional[Mapping[str, Any]] = None,
+        config: Mapping[str, Any] | None = None,
     ) -> StraightThroughOrchestrationResult:
         state = initial_state(request_id=request_id, raw_question=raw_question)
         output = self.graph.invoke(
             {"checkpoint": state.to_dict(), "stop": False, "failure": None},
             config=None if config is None else dict(config),
         )
-        restored = M9State.from_dict(output["checkpoint"])
+        restored = OrchestrationState.from_dict(output["checkpoint"])
         failure_stage, failure = _decode_failure(output.get("failure"))
         return StraightThroughOrchestrationResult(restored, failure_stage, failure)
-
-
-# Deprecated compatibility aliases. Keep these as identity aliases so there is
-# no second final-graph implementation path.
-M9_BATCH2_NODE_SEQUENCE = STRAIGHT_THROUGH_NODE_SEQUENCE
-M9Batch2Graph = StraightThroughOrchestrationGraph
-M9Batch2Result = StraightThroughOrchestrationResult
-M9_BATCH3_NODES = ORCHESTRATION_NODE_SEQUENCE
-M9Batch3Graph = OrchestrationGraph
-M9Batch3Result = OrchestrationResult
 
 
 __all__ = [
     "ORCHESTRATION_NODE_SEQUENCE",
     "OrchestrationGraph",
     "OrchestrationResult",
-    "M9_BATCH2_NODE_SEQUENCE",
-    "M9Batch2Graph",
-    "M9Batch2Result",
-    "M9_BATCH3_NODES",
-    "M9Batch3Graph",
-    "M9Batch3Result",
+    "STRAIGHT_THROUGH_NODE_SEQUENCE",
+    "StraightThroughOrchestrationGraph",
+    "StraightThroughOrchestrationResult",
 ]

@@ -1,4 +1,4 @@
-from src.evidence.m5_schemas import (
+from src.evidence.masking_schemas import (
     ScaleUnitResolution,
     ScaleUnitResolutionStatus,
 )
@@ -7,7 +7,6 @@ from src.indexing.schemas import (
     HeaderPathEntry,
     NumericParseResult,
     NumericParseStatus,
-    ScaleHintSource,
     ScaleHintStatus,
     SourceSpan,
 )

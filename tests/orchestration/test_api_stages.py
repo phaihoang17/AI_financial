@@ -46,13 +46,13 @@ def test_api_cannot_set_planning_gate():
 
 
 def test_api_mean_routes_strong_strict_and_rejects_noncanonical_operation():
-    from src.supervisor.planner import supervise_batch1
+    from src.supervisor.planner import supervise
     from src.supervisor.schemas import VerifyProfile
 
     question = "Trung bình LNST hợp nhất của AAA năm 2022 và năm 2023?"
     stage = nlu({"company": "AAA", "metrics": ["LNST"], "operation": "aggregate"})
     output = stage.understand(question)
-    plan = supervise_batch1(output.query_understanding, output.planning_gate).plan
+    plan = supervise(output.query_understanding, output.planning_gate).plan
     assert plan.formula_id == "AVERAGE"
     assert plan.periods == ["2022", "2023"]
     assert plan.model_tier is ModelTier.STRONG
@@ -85,9 +85,9 @@ def test_programmer_validates_symbolic_proposal_and_uses_strong_thinking():
 
 
 def test_average_prompt_uses_registry_and_rejects_one_ref():
-    from tests.orchestration.test_graph import make_graph, run
-    from tests.orchestration.test_straight_through_graph import query_understanding, fixture_pairs
     from src.understanding.schemas import Operation
+    from tests.orchestration.test_graph import make_graph, run
+    from tests.orchestration.test_straight_through_graph import fixture_pairs, query_understanding
     current = query_understanding(("2014", "2015"), Operation.AGGREGATE)
     graph, _ = make_graph(current, [fixture_pairs(("2014", "2015"), ("10", "20"))])
     state = run(graph, current).state

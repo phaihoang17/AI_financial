@@ -2,7 +2,7 @@ import copy
 from dataclasses import fields
 import unittest
 
-from src.evidence.m5_schemas import BindingMap, ValueBinding
+from src.evidence.masking_schemas import BindingMap, ValueBinding
 from src.evidence.schemas import CanonicalDecimal, Scale
 from src.programmer.schemas import ProgramOutputKind
 from src.sandbox.schemas import (

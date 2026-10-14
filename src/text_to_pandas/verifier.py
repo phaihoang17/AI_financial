@@ -10,11 +10,15 @@ import math
 import re
 
 from src.formulas.ratios import (
-    AVERAGE_OPENING_CLOSING, RATIOS_BY_ID, average, compute_ratio, growth_rate,
+    AVERAGE_OPENING_CLOSING,
+    RATIOS_BY_ID,
+    average,
+    compute_ratio,
+    growth_rate,
 )
-from src.text_to_pandas.metrics import fold
 from src.indexing.numeric_parser import parse_numeric_string
 from src.indexing.schemas import NumericParseStatus
+from src.text_to_pandas.metrics import fold
 
 
 def _close(left, right):

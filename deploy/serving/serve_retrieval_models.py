@@ -35,10 +35,11 @@ still sees two independent base URLs (one per port), which is all
 from __future__ import annotations
 
 import argparse
+from collections.abc import Callable
+from http.server import BaseHTTPRequestHandler, ThreadingHTTPServer
 import json
 import threading
-from http.server import BaseHTTPRequestHandler, ThreadingHTTPServer
-from typing import Any, Callable, Dict
+from typing import Any
 
 from src.indexing.embedding_chunker import BGE_M3_MODEL_ID
 from src.indexing.embedding_indexer import load_bge_m3_encoder
@@ -90,7 +91,7 @@ def _make_handler(models: _Models, served_model_id: str) -> type[BaseHTTPRequest
         def log_message(self, *_args: Any) -> None:  # keep stdout for real errors
             return
 
-        def _send(self, code: int, body: Dict[str, Any]) -> None:
+        def _send(self, code: int, body: dict[str, Any]) -> None:
             payload = json.dumps(body).encode("utf-8")
             self.send_response(code)
             self.send_header("Content-Type", "application/json")
@@ -113,7 +114,7 @@ def _make_handler(models: _Models, served_model_id: str) -> type[BaseHTTPRequest
 
         def do_POST(self) -> None:
             route = self.path.split("?", 1)[0].rstrip("/")
-            handlers: Dict[str, Callable[[Any], Dict[str, Any]]] = {
+            handlers: dict[str, Callable[[Any], dict[str, Any]]] = {
                 "/v1/embeddings": self._embeddings,
                 "/embeddings": self._embeddings,
                 "/score": self._score,
@@ -133,7 +134,7 @@ def _make_handler(models: _Models, served_model_id: str) -> type[BaseHTTPRequest
                 self._send(500, {"error": {"message": f"{type(error).__name__}: {error}"}})
 
         # --- route bodies -------------------------------------------------- #
-        def _embeddings(self, body: Any) -> Dict[str, Any]:
+        def _embeddings(self, body: Any) -> dict[str, Any]:
             raw = body["input"]
             texts = [raw] if isinstance(raw, str) else [str(t) for t in raw]
             if not texts:
@@ -149,7 +150,7 @@ def _make_handler(models: _Models, served_model_id: str) -> type[BaseHTTPRequest
                 "usage": {"prompt_tokens": 0, "total_tokens": 0},
             }
 
-        def _score(self, body: Any) -> Dict[str, Any]:
+        def _score(self, body: Any) -> dict[str, Any]:
             query = body["text_1"]
             raw = body["text_2"]
             docs = [raw] if isinstance(raw, str) else [str(d) for d in raw]
@@ -162,7 +163,7 @@ def _make_handler(models: _Models, served_model_id: str) -> type[BaseHTTPRequest
                 "data": [{"index": i, "score": float(s)} for i, s in enumerate(scores)],
             }
 
-        def _tokenize(self, body: Any) -> Dict[str, Any]:
+        def _tokenize(self, body: Any) -> dict[str, Any]:
             if "prompt" in body:
                 count = models.count_prompt_tokens(str(body["prompt"]))
             elif "text_1" in body and "text_2" in body:

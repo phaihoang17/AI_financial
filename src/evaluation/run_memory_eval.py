@@ -3,7 +3,7 @@ import argparse
 import json
 from pathlib import Path
 
-from src.evaluation.memory_experiment import FixtureProgrammerClient, run_memory_ablation, run_cheap_routing_experiment
+from src.evaluation.memory_experiment import FixtureProgrammerClient, run_cheap_routing_experiment, run_memory_ablation
 from src.memory.index import MemoryIndex, validate_output_path
 from src.serving.client import HttpTransport, OpenAICompatibleClient
 from src.serving.deepseek import deepseek_client

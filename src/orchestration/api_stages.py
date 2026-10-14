@@ -3,26 +3,32 @@
 import json
 import logging
 
-from src.orchestration.ports import NLUStageOutput
 from src.memory.index import MemoryIndex
+from src.orchestration.ports import NLUStageOutput
 from src.programmer.schemas import (
-    Program, ProgramInput, ProgramOutputKind, ProgrammerResult,
-    ProgrammerStatus, ProgramStep,
+    Program,
+    ProgramInput,
+    ProgrammerResult,
+    ProgrammerStatus,
+    ProgramOutputKind,
+    ProgramStep,
 )
 from src.programmer.validator import ProgramValidationError, validate_program
 from src.serving.schemas import ServingError
-from src.supervisor.formula_registry import get_formula_implementation
 from src.supervisor.cheap_routing import activated_model_tier
+from src.supervisor.formula_registry import get_formula_implementation
 from src.supervisor.schemas import ModelTier
 from src.understanding.company_resolver import resolve_company
 from src.understanding.metric_normalizer import initial_metric_registry, resolve_metric
 from src.understanding.planning_gate import evaluate_planning_gate
 from src.understanding.requested_scale_unit_parser import (
-    RequestedScaleUnitParserInput, parse_requested_scale_unit,
+    RequestedScaleUnitParserInput,
+    parse_requested_scale_unit,
 )
 from src.understanding.schemas import Operation, QueryUnderstanding, SchemaValidationError
 from src.understanding.statement_scope_resolver import (
-    StatementScopeResolverInput, resolve_statement_scope,
+    StatementScopeResolverInput,
+    resolve_statement_scope,
 )
 from src.understanding.temporal_parser import TemporalParserInput, parse_periods
 

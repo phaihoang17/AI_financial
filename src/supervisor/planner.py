@@ -1,9 +1,9 @@
 """Deterministic M4 planning from validated NLU contracts."""
 from __future__ import annotations
 
+from collections.abc import Sequence
 from dataclasses import dataclass
 import re
-from typing import Optional, Sequence
 
 from src.supervisor.formula_registry import (
     FORMULA_REGISTRY,
@@ -57,7 +57,7 @@ class PeriodPlan:
 def classify_question_type(
     operation: Operation,
     *,
-    ratio_formula: Optional[FormulaDefinition] = None,
+    ratio_formula: FormulaDefinition | None = None,
 ) -> QuestionType:
     """TASK-040 exact operation-to-question-type mapping."""
     mapping = {
@@ -88,7 +88,7 @@ def classify_question_type(
 def select_formula(
     understanding: QueryUnderstanding,
     registry: Sequence[FormulaDefinition] = FORMULA_REGISTRY,
-) -> Optional[FormulaDefinition]:
+) -> FormulaDefinition | None:
     """TASK-043 selects registry metadata and never authors a formula."""
     operation = understanding.operation
     if operation in {Operation.NONE, Operation.COMPARE}:
@@ -142,7 +142,7 @@ def plan_required_periods(
     requested: Sequence[PeriodUnderstanding],
     *,
     operation: Operation,
-    formula: Optional[FormulaDefinition],
+    formula: FormulaDefinition | None,
 ) -> PeriodPlan:
     """TASK-042 validates source periods without deriving a missing date."""
     if not requested:
@@ -196,7 +196,7 @@ def generate_retrieval_requirements(
     understanding: QueryUnderstanding,
     period_plan: PeriodPlan,
     *,
-    formula: Optional[FormulaDefinition],
+    formula: FormulaDefinition | None,
     table_registry: Sequence[MetricTableMapping] = METRIC_TABLE_REGISTRY,
 ) -> list[RetrievalRequirement]:
     """Generate explicit ordered requirements from supported semantics."""
@@ -280,14 +280,14 @@ def _abstain(
     return SupervisorResult(gate, None, True, reason, fingerprint)
 
 
-def supervise_batch1(
+def supervise(
     understanding: QueryUnderstanding,
     planning_gate: PlanningGate,
     *,
     formula_registry: Sequence[FormulaDefinition] = FORMULA_REGISTRY,
     table_registry: Sequence[MetricTableMapping] = METRIC_TABLE_REGISTRY,
 ) -> SupervisorResult:
-    """TASK-044 produces either one validated Plan or a typed abstention."""
+    """Produce either one validated Plan or a typed abstention."""
     if not isinstance(understanding, QueryUnderstanding):
         raise TypeError("understanding must be a QueryUnderstanding")
     if not isinstance(planning_gate, PlanningGate):

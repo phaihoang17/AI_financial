@@ -7,15 +7,15 @@ import unittest
 from src.evidence.schemas import Scale
 from src.indexing.provenance_sidecar import ProvenanceSidecar
 from src.indexing.schemas import ScaleHintSource, ScaleHintStatus, ScaleUnitHint, SourceSpan
-from src.retrieval.batch3 import (
+from src.retrieval.corpus_candidates import iter_corpus_candidates
+from src.retrieval.hybrid_retriever import (
     CANDIDATE_DEPTH_MULTIPLIER,
-    Batch3RetrievalError,
-    Batch3Retriever,
     CorpusChunkLookup,
+    HybridRetrievalError,
+    HybridRetriever,
     ScaleUnitHintRetriever,
     make_multi_table_subqueries,
 )
-from src.retrieval.corpus_candidates import iter_corpus_candidates
 from src.retrieval.reranker import BGEReranker
 from src.retrieval.schemas import RetrievalCandidate, RetrievalCompany, RetrievalQuery, make_candidate_id
 from src.supervisor.schemas import EvidenceSource
@@ -136,7 +136,7 @@ class FakeBackend:
     def _candidate(self, query, eligible, *, vector):
         metric = query.target_metrics[0] if query.target_metrics else "period"
         if metric == self.fail_metric:
-            raise Batch3RetrievalError("TEST_SUBQUERY_FAILURE", metric)
+            raise HybridRetrievalError("TEST_SUBQUERY_FAILURE", metric)
         if metric == self.no_result_metric:
             return []
         source_type = eligible[0]
@@ -198,12 +198,12 @@ class FakeChunkLookup:
         return self.chunks
 
 
-class Batch3PipelineTests(unittest.TestCase):
+class HybridRetrieverTests(unittest.TestCase):
     def test_cartesian_decomposition_order_and_table_only_execution(self):
         query = make_query(metrics=("Revenue", "Profit"), periods=("2023", "2024"))
         subqueries = make_multi_table_subqueries(query)
         backend = FakeBackend()
-        service = Batch3Retriever(backend, backend, lambda _: [], reranker=constant_reranker())
+        service = HybridRetriever(backend, backend, lambda _: [], reranker=constant_reranker())
 
         result = service.retrieve_multi_table(query, top_k=3)
 
@@ -227,7 +227,7 @@ class Batch3PipelineTests(unittest.TestCase):
         )
         query = make_query(metrics=("Revenue", "Missing", "Failure"), periods=("2024",))
         backend = FakeBackend(fail_metric="Failure", no_result_metric="Missing")
-        result = Batch3Retriever(backend, backend, lambda _: [], reranker=constant_reranker()).retrieve_multi_table(query, top_k=2)
+        result = HybridRetriever(backend, backend, lambda _: [], reranker=constant_reranker()).retrieve_multi_table(query, top_k=2)
 
         self.assertFalse(result.complete)
         self.assertEqual(len(result.missing_subquery_ids), 2)
@@ -236,18 +236,18 @@ class Batch3PipelineTests(unittest.TestCase):
         self.assertTrue(any(not item.candidates and item.failure_code is None for item in result.subquery_results))
 
     def test_scope_is_required_and_narrative_is_text_only_with_no_synthetic_link(self):
-        with self.assertRaisesRegex(Batch3RetrievalError, "MULTI_TABLE_SCOPE_REQUIRED"):
+        with self.assertRaisesRegex(HybridRetrievalError, "MULTI_TABLE_SCOPE_REQUIRED"):
             make_multi_table_subqueries(make_query(scope=None))
 
         backend = FakeBackend()
         sidecar = FakeSidecar({"paragraph-period-2024": [Link("table-linked")]})
-        service = Batch3Retriever(backend, backend, lambda _: [], reranker=constant_reranker(), sidecar=sidecar)
+        service = HybridRetriever(backend, backend, lambda _: [], reranker=constant_reranker(), sidecar=sidecar)
         result = service.retrieve_narrative(make_query(metrics=(), periods=("2024",)), top_k=2)
 
         self.assertTrue(all(candidate.source_type is EvidenceSource.TEXT for candidate in result.candidates))
         self.assertEqual(result.linked_table_ids_by_candidate[result.candidates[0].candidate_id], ["table-linked"])
         self.assertTrue(all(call[1] == [EvidenceSource.TEXT] for call in backend.calls))
-        unlinked = Batch3Retriever(
+        unlinked = HybridRetriever(
             FakeBackend(), FakeBackend(), lambda _: [], reranker=constant_reranker(), sidecar=FakeSidecar({})
         ).retrieve_narrative(make_query(metrics=(), periods=("2024",)), top_k=2)
         self.assertEqual(unlinked.linked_table_ids_by_candidate[unlinked.candidates[0].candidate_id], [])
@@ -255,7 +255,7 @@ class Batch3PipelineTests(unittest.TestCase):
 
 class CandidateDepthTests(unittest.TestCase):
     def _service(self, backend):
-        return Batch3Retriever(backend, backend, lambda _: [], reranker=constant_reranker())
+        return HybridRetriever(backend, backend, lambda _: [], reranker=constant_reranker())
 
     def test_backends_run_at_multiplied_depth_while_result_stays_top_k(self):
         backend = FakeBackend()
@@ -279,14 +279,14 @@ class CandidateDepthTests(unittest.TestCase):
 
     def test_candidate_top_k_below_top_k_and_invalid_top_k_are_typed_errors(self):
         service = self._service(FakeBackend())
-        with self.assertRaisesRegex(Batch3RetrievalError, "INVALID_CANDIDATE_TOP_K"):
+        with self.assertRaisesRegex(HybridRetrievalError, "INVALID_CANDIDATE_TOP_K"):
             service.retrieve(
                 make_query(),
                 top_k=5,
                 eligible_source_types=[EvidenceSource.TABLE],
                 candidate_top_k=4,
             )
-        with self.assertRaisesRegex(Batch3RetrievalError, "INVALID_TOP_K"):
+        with self.assertRaisesRegex(HybridRetrievalError, "INVALID_TOP_K"):
             service.retrieve(
                 make_query(), top_k=0, eligible_source_types=[EvidenceSource.TABLE]
             )

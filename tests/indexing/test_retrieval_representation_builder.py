@@ -9,7 +9,6 @@ from src.indexing.retrieval_representation_builder import build_retrieval_repres
 from src.indexing.scale_unit_hint_extractor import extract_scale_unit_hints
 from src.indexing.table_text_linker import link_tables_to_paragraphs
 from src.supervisor.schemas import EvidenceSource
-
 from tests.indexing.test_document_parser import make_source
 
 

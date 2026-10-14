@@ -4,7 +4,7 @@ from unittest.mock import patch
 from src.evidence.schemas import CanonicalDecimal
 from src.indexing.numeric_parser import parse_numeric_string
 from src.indexing.schemas import NumericParseStatus
-from src.numeric.m2_adapter import (
+from src.numeric.parser_adapter import (
     NumericBoundaryError,
     adapt_numeric_parse_result,
     parse_canonical_decimal,
@@ -12,10 +12,10 @@ from src.numeric.m2_adapter import (
 from src.understanding.schemas import SchemaValidationError
 
 
-class M2NumericAdapterTests(unittest.TestCase):
+class NumericParserAdapterTests(unittest.TestCase):
     def test_adapter_delegates_to_existing_m2_parser(self):
         with patch(
-            "src.numeric.m2_adapter.numeric_parser.parse_numeric_string",
+            "src.numeric.parser_adapter.numeric_parser.parse_numeric_string",
             wraps=parse_numeric_string,
         ) as parser:
             value = parse_canonical_decimal("1.234.567,8900")

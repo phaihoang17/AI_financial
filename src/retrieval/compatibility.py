@@ -2,12 +2,13 @@
 
 from __future__ import annotations
 
+from collections.abc import Mapping
 from dataclasses import dataclass
 from hashlib import sha256
 import json
 from pathlib import Path
 import sqlite3
-from typing import Any, Dict, Mapping, Optional
+from typing import Any
 
 from src.indexing.corpus_artifact import (
     CORPUS_ARTIFACT_SCHEMA_VERSION,
@@ -28,9 +29,8 @@ from src.indexing.embedding_schemas import (
     EMBEDDING_DTYPE,
 )
 from src.indexing.schemas import M2A_SCHEMA_VERSION, NORMALIZATION_VERSION, REPRESENTATION_VERSION
-from src.indexing.vector_index_store import INDEX_SCHEMA_VERSION, INDEX_METRIC
+from src.indexing.vector_index_store import INDEX_METRIC, INDEX_SCHEMA_VERSION
 from src.understanding.schemas import SchemaValidationError
-
 
 BM25_INDEX_SCHEMA_VERSION = "m3-bm25-index-v1"
 SQLITE_METADATA_SCHEMA_VERSION = INDEX_SCHEMA_VERSION
@@ -53,7 +53,7 @@ class CompatibilityReport:
     model_fingerprint: str
     vector_count: int
 
-    def to_dict(self) -> Dict[str, Any]:
+    def to_dict(self) -> dict[str, Any]:
         return {
             "status": self.status,
             "artifact_id": self.artifact_id,
@@ -64,7 +64,7 @@ class CompatibilityReport:
         }
 
 
-def _read_json(path: Path, code: str) -> Dict[str, Any]:
+def _read_json(path: Path, code: str) -> dict[str, Any]:
     if not path.is_file():
         raise ArtifactCompatibilityError(code, f"missing {path}")
     try:
@@ -110,7 +110,7 @@ def _require_non_negative_int(value: Any, path: str) -> int:
     return value
 
 
-def _validate_corpus_manifest(corpus_root: Path) -> tuple[Dict[str, Any], str]:
+def _validate_corpus_manifest(corpus_root: Path) -> tuple[dict[str, Any], str]:
     manifest_path = corpus_root / "manifest.json"
     manifest = _read_json(manifest_path, "M2_CORPUS_MANIFEST_MISSING")
     expected = {
@@ -134,7 +134,7 @@ def _validate_corpus_manifest(corpus_root: Path) -> tuple[Dict[str, Any], str]:
     return manifest, sha256(manifest_bytes).hexdigest()
 
 
-def _read_sqlite_metadata(metadata_path: Path) -> Dict[str, str]:
+def _read_sqlite_metadata(metadata_path: Path) -> dict[str, str]:
     if not metadata_path.is_file():
         raise ArtifactCompatibilityError("SQLITE_METADATA_MISSING", str(metadata_path))
     try:
@@ -152,7 +152,7 @@ def _read_sqlite_metadata(metadata_path: Path) -> Dict[str, str]:
         raise ArtifactCompatibilityError("SQLITE_SCHEMA_MISMATCH", str(error)) from error
 
 
-def _validate_bm25_metadata(metadata: Optional[Mapping[str, Any]]) -> None:
+def _validate_bm25_metadata(metadata: Mapping[str, Any] | None) -> None:
     """Reserve the explicit BM25 version check without implementing BM25 itself."""
 
     if metadata is None:
@@ -205,7 +205,7 @@ def validate_retrieval_artifact_compatibility(
     vector_artifact_root: str | Path,
     corpus_artifact_root: str | Path,
     *,
-    bm25_metadata: Optional[Mapping[str, Any]] = None,
+    bm25_metadata: Mapping[str, Any] | None = None,
 ) -> CompatibilityReport:
     """Validate M2/M2B metadata exactly before a retrieval backend is used.
 

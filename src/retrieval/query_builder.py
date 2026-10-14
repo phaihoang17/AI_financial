@@ -2,16 +2,14 @@
 
 from __future__ import annotations
 
-from typing import List
-
 from src.retrieval.schemas import RetrievalCompany, RetrievalQuery
 from src.supervisor.schemas import Plan
 from src.understanding.schemas import QueryUnderstanding
 
 
-def _deduplicate_exact(values: List[str]) -> List[str]:
+def _deduplicate_exact(values: list[str]) -> list[str]:
     seen = set()
-    result: List[str] = []
+    result: list[str] = []
     for value in values:
         if value not in seen:
             seen.add(value)

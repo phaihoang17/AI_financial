@@ -10,13 +10,12 @@ fabricated here.
 
 from __future__ import annotations
 
+from collections.abc import Callable
 from concurrent.futures import FIRST_COMPLETED, ThreadPoolExecutor, wait
 from dataclasses import dataclass
-from typing import Callable, List, Optional
 
 from src.evaluation.telemetry import Distribution, MeasurementSource, Stopwatch
 from src.understanding.schemas import SchemaValidationError
-
 
 LOAD_TEST_SCHEMA_VERSION = "m10-load-test-v1"
 MAX_CONCURRENCY = 64
@@ -33,7 +32,7 @@ class LoadTestResult:
     timeouts: int
     wall_clock_ms: float
     throughput_rps: float
-    latency: Optional[Distribution]
+    latency: Distribution | None
 
     def to_dict(self) -> dict:
         return {
@@ -58,7 +57,7 @@ def run_load_test(
     *,
     total_requests: int,
     concurrency: int,
-    wait_timeout_s: Optional[float] = None,
+    wait_timeout_s: float | None = None,
     source: MeasurementSource = MeasurementSource.CPU_FIXTURE,
 ) -> LoadTestResult:
     """Execute ``task(i)`` for i in range(total_requests) at bounded concurrency."""
@@ -80,7 +79,7 @@ def run_load_test(
         raise SchemaValidationError("wait_timeout_s must be positive or None")
     workers = min(concurrency, total_requests)
 
-    latencies: List[float] = []
+    latencies: list[float] = []
     succeeded = 0
     failed = 0
     timeouts = 0

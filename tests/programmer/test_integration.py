@@ -4,20 +4,20 @@ from src.evidence.numeric_masking import mask_numeric_evidence
 from src.evidence.schema_linker import link_schema
 from src.programmer.generator import generate_program
 from src.programmer.schemas import (
-    ProgramOperation,
     ProgrammerInput,
     ProgrammerStatus,
+    ProgramOperation,
 )
 from src.programmer.validator import validate_program
 from src.supervisor.formula_registry import FORMULA_REGISTRY_FINGERPRINT
-from tests.evidence.m5_helpers import (
+from tests.evidence.helpers import (
     grounded_cell,
     multi_period_plan,
     resolved_scale,
 )
 
 
-class M5ToProgrammerIntegrationTests(unittest.TestCase):
+class MaskingToProgrammerIntegrationTests(unittest.TestCase):
     def test_real_numeric_masking_output_generates_value_free_growth_program(self):
         plan = multi_period_plan()
         item_2015, location_2015 = grounded_cell(

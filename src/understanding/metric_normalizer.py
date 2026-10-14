@@ -5,7 +5,7 @@ from __future__ import annotations
 from dataclasses import dataclass
 from enum import Enum
 import re
-from typing import Any, Dict, List, Optional
+from typing import Any
 import unicodedata
 
 from src.understanding.schemas import (
@@ -47,7 +47,7 @@ class CanonicalMetric:
         _require_exact_keys(data, {"canonical"}, path)
         return cls(canonical=data["canonical"])
 
-    def to_dict(self) -> Dict[str, str]:
+    def to_dict(self) -> dict[str, str]:
         return {"canonical": self.canonical}
 
 
@@ -68,7 +68,7 @@ class MetricSynonym:
         _require_exact_keys(data, {"synonym", "canonical"}, "MetricSynonym")
         return cls(synonym=data["synonym"], canonical=data["canonical"])
 
-    def to_dict(self) -> Dict[str, str]:
+    def to_dict(self) -> dict[str, str]:
         return {"synonym": self.synonym, "canonical": self.canonical}
 
 
@@ -82,8 +82,8 @@ class MetricResolutionStatus(str, Enum):
 class MetricResolution:
     status: MetricResolutionStatus
     raw: str
-    metric: Optional[MetricUnderstanding]
-    candidates: List[CanonicalMetric]
+    metric: MetricUnderstanding | None
+    candidates: list[CanonicalMetric]
     confidence: float
 
     def __post_init__(self) -> None:
@@ -178,7 +178,7 @@ class MetricResolution:
             confidence=data["confidence"],
         )
 
-    def to_dict(self) -> Dict[str, Any]:
+    def to_dict(self) -> dict[str, Any]:
         return {
             "status": self.status.value,
             "raw": self.raw,
@@ -188,7 +188,7 @@ class MetricResolution:
         }
 
 
-def initial_metric_registry() -> List[MetricSynonym]:
+def initial_metric_registry() -> list[MetricSynonym]:
     """Return the documented v1 registry without shared mutable state."""
     return [
         MetricSynonym(synonym="LNST", canonical="LNST"),
@@ -232,7 +232,7 @@ def _strip_trailing_parentheticals(text: str) -> str:
     return text
 
 
-def table_label_metric(label: str) -> Optional[str]:
+def table_label_metric(label: str) -> str | None:
     """Canonical registry metric named exactly by a table header label, else None."""
     text = _LINE_MATH_DELIMITER.sub("", label.strip())
     text = _LINE_PAGE_CARRY.sub("", text)
@@ -245,7 +245,7 @@ def table_label_metric(label: str) -> Optional[str]:
     return resolution.metric.canonical
 
 
-def resolve_metric(raw: str, synonyms: List[MetricSynonym]) -> MetricResolution:
+def resolve_metric(raw: str, synonyms: list[MetricSynonym]) -> MetricResolution:
     raw = _require_string(raw, "raw")
     if not isinstance(synonyms, list) or not all(
         isinstance(synonym, MetricSynonym) for synonym in synonyms
@@ -255,7 +255,7 @@ def resolve_metric(raw: str, synonyms: List[MetricSynonym]) -> MetricResolution:
         )
 
     normalized_raw = _normalize_match_value(raw)
-    matches: Dict[str, CanonicalMetric] = {}
+    matches: dict[str, CanonicalMetric] = {}
     for synonym in synonyms:
         if _normalize_match_value(synonym.synonym) != normalized_raw:
             continue

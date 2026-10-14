@@ -21,6 +21,7 @@ from __future__ import annotations
 
 import argparse
 from collections import Counter
+from collections.abc import Callable, Sequence
 from concurrent.futures import ThreadPoolExecutor
 from dataclasses import dataclass
 import glob
@@ -32,7 +33,7 @@ import sys
 import tempfile
 import threading
 from time import monotonic_ns
-from typing import Any, Callable, Dict, List, Optional, Sequence
+from typing import Any
 
 import pandas as pd
 import psutil
@@ -58,7 +59,7 @@ BENIGN_CODE = (
     "result = evidence['value'].sum()\n"
 )
 # Each abuse program must end in one of the listed failure stages, never success.
-ABUSE_PROGRAMS: Dict[str, tuple] = {
+ABUSE_PROGRAMS: dict[str, tuple] = {
     "cpu_loop": ("while True:\n    pass\nresult = 1\n", {"RESOURCE"}),
     "memory": ("big = np.ones(400_000_000)\nresult = float(big.sum())\n", {"RESOURCE"}),
     "file_read": ("result = open('/etc/passwd').read()\n", {"VALIDATION", "SECURITY"}),
@@ -77,7 +78,7 @@ class LoadCase:
     allowed_stages: frozenset = frozenset()
 
 
-def m7_cases(count: int, offset: int) -> List[LoadCase]:
+def m7_cases(count: int, offset: int) -> list[LoadCase]:
     cases = []
     for index in range(offset, offset + count):
         value = f"{1000 + index}.{index % 97:02d}"  # distinct per request
@@ -95,7 +96,7 @@ def _t2p_payload(index: int, rows: int) -> tuple:
     return {"income_statement": frame_payload(pd.DataFrame(data, columns=FACT_COLUMNS))}, expected
 
 
-def t2p_cases(count: int, offset: int, rows: int, abuse_every: int) -> List[LoadCase]:
+def t2p_cases(count: int, offset: int, rows: int, abuse_every: int) -> list[LoadCase]:
     cases = []
     abuse_names = sorted(ABUSE_PROGRAMS)
     for index in range(offset, offset + count):
@@ -111,7 +112,7 @@ def t2p_cases(count: int, offset: int, rows: int, abuse_every: int) -> List[Load
     return cases
 
 
-def _judge(case: LoadCase, result: Any) -> Dict[str, Any]:
+def _judge(case: LoadCase, result: Any) -> dict[str, Any]:
     failure = None if result.failure is None else {"stage": result.failure.stage.value, "code": result.failure.code}
     if case.kind != "benign":
         escaped = bool(result.success)
@@ -132,7 +133,7 @@ def _worker_temp_dirs() -> set:
     return {path for prefix in WORKER_TEMP_PREFIXES for path in glob.glob(os.path.join(root, prefix + "*"))}
 
 
-def _snapshot() -> Dict[str, Any]:
+def _snapshot() -> dict[str, Any]:
     me = psutil.Process()
     # Windows has no descriptor count; its handle count plays the same role.
     descriptors = me.num_fds() if hasattr(me, "num_fds") else me.num_handles()
@@ -140,7 +141,7 @@ def _snapshot() -> Dict[str, Any]:
             "temp_dirs": _worker_temp_dirs(), "rss_mb": me.memory_info().rss / 2**20}
 
 
-def run_level(cases: Sequence[LoadCase], concurrency: int) -> Dict[str, Any]:
+def run_level(cases: Sequence[LoadCase], concurrency: int) -> dict[str, Any]:
     before = _snapshot()
     peak = {"children": 0}
     stop = threading.Event()
@@ -156,7 +157,7 @@ def run_level(cases: Sequence[LoadCase], concurrency: int) -> Dict[str, Any]:
     sampler = threading.Thread(target=sample, daemon=True)
     sampler.start()
 
-    def one(case: LoadCase) -> Dict[str, Any]:
+    def one(case: LoadCase) -> dict[str, Any]:
         start = monotonic_ns()
         try:
             verdict = _judge(case, case.run())
@@ -171,7 +172,7 @@ def run_level(cases: Sequence[LoadCase], concurrency: int) -> Dict[str, Any]:
     stop.set()
     sampler.join()
 
-    def leaks_of(after: Dict[str, Any]) -> Dict[str, int]:
+    def leaks_of(after: dict[str, Any]) -> dict[str, int]:
         return {
             "children_alive": after["children"],
             "fd_delta": after["fds"] - before["fds"],
@@ -209,7 +210,7 @@ def run_level(cases: Sequence[LoadCase], concurrency: int) -> Dict[str, Any]:
 
 
 def evaluate(workers: Sequence[str], levels: Sequence[int], *, requests: int, rows: int, abuse_every: int,
-             target: int) -> Dict[str, Any]:
+             target: int) -> dict[str, Any]:
     results = []
     offset = 0
     for worker in workers:
@@ -244,7 +245,7 @@ def evaluate(workers: Sequence[str], levels: Sequence[int], *, requests: int, ro
     }
 
 
-def main(argv: Optional[Sequence[str]] = None) -> int:
+def main(argv: Sequence[str] | None = None) -> int:
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument("--workers", default="m7,t2p")
     parser.add_argument("--concurrency", default="1,4,16,32")

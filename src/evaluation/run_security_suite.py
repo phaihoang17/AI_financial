@@ -22,6 +22,7 @@ recorded. Exit status is non-zero on any escape or failing security test.
 from __future__ import annotations
 
 import argparse
+from collections.abc import Sequence
 import json
 import os
 from pathlib import Path
@@ -31,7 +32,7 @@ import subprocess
 import sys
 import tempfile
 import threading
-from typing import Any, Dict, List, Optional, Sequence
+from typing import Any
 from uuid import uuid4
 
 import pandas as pd
@@ -75,7 +76,7 @@ class Canaries:
         while not self._stop.is_set():
             try:
                 connection, _ = self._server.accept()
-            except (socket.timeout, OSError):
+            except (TimeoutError, OSError):
                 continue
             self.connections += 1
             connection.close()
@@ -89,7 +90,7 @@ class Canaries:
         return self.secret_value in text or self.env_value in text
 
 
-def probes(c: Canaries) -> Dict[str, str]:
+def probes(c: Canaries) -> dict[str, str]:
     """Hostile programs: each tries one capability the worker must not have."""
     secret, written, proc = (str(path).replace("\\", "/") for path in (c.secret_file, c.write_target, c.process_target))
     url = f"http://127.0.0.1:{c.port}/x.csv"
@@ -124,7 +125,7 @@ def probes(c: Canaries) -> Dict[str, str]:
     }
 
 
-def _effects(c: Canaries, result: Any, connections_before: int) -> List[str]:
+def _effects(c: Canaries, result: Any, connections_before: int) -> list[str]:
     effects = []
     text = json.dumps({"result": getattr(result, "result", None), "evidence": getattr(result, "evidence", None)},
                       ensure_ascii=False, default=str)
@@ -141,7 +142,7 @@ def _effects(c: Canaries, result: Any, connections_before: int) -> List[str]:
     return effects
 
 
-def run_probe(name: str, code: str, c: Canaries, datasets: Dict[str, Any]) -> Dict[str, Any]:
+def run_probe(name: str, code: str, c: Canaries, datasets: dict[str, Any]) -> dict[str, Any]:
     validation = validate_pandas_code(code, datasets={key: list(value["columns"]) for key, value in datasets.items()},
                                       known_metrics=METRICS_BY_ID)
     before = c.connections
@@ -155,7 +156,7 @@ def run_probe(name: str, code: str, c: Canaries, datasets: Dict[str, Any]) -> Di
             "worker_success": result.success, "worker_failure": failure, "effects": effects, "outcome": outcome}
 
 
-def run_security_tests(paths: Sequence[str]) -> Dict[str, Any]:
+def run_security_tests(paths: Sequence[str]) -> dict[str, Any]:
     root = Path(__file__).resolve().parents[2]
     completed = subprocess.run([sys.executable, "-m", "pytest", "-q", "-p", "no:cacheprovider", *paths],
                                cwd=root, capture_output=True, text=True, timeout=1800)
@@ -163,7 +164,7 @@ def run_security_tests(paths: Sequence[str]) -> Dict[str, Any]:
     return {"paths": list(paths), "returncode": completed.returncode, "summary": tail}
 
 
-def evaluate(*, run_tests: bool = True) -> Dict[str, Any]:
+def evaluate(*, run_tests: bool = True) -> dict[str, Any]:
     os.environ[SECRET_ENV] = "unset"
     with tempfile.TemporaryDirectory(prefix="security-canary-") as directory:
         c = Canaries(Path(directory))
@@ -194,7 +195,7 @@ def evaluate(*, run_tests: bool = True) -> Dict[str, Any]:
     return report
 
 
-def main(argv: Optional[Sequence[str]] = None) -> int:
+def main(argv: Sequence[str] | None = None) -> int:
     parser = argparse.ArgumentParser(description=__doc__.splitlines()[0])
     parser.add_argument("--output", required=True)
     parser.add_argument("--skip-tests", action="store_true")

@@ -2,11 +2,11 @@
 
 from __future__ import annotations
 
+from collections.abc import Iterable, Sequence
 from dataclasses import dataclass
 from html import unescape
 import re
 import unicodedata
-from typing import Dict, Iterable, List, Optional, Sequence, Tuple
 
 from src.evidence.schemas import Scale
 from src.indexing.ids import make_scale_unit_hint_id
@@ -20,11 +20,9 @@ from src.indexing.schemas import (
     ScaleUnitHint,
     SourceCell,
     SourceSpan,
-    SourceTable,
     TableTextLink,
 )
 from src.understanding.schemas import SchemaValidationError
-
 
 _ENTITY = re.compile(r"&(?:#[0-9]+|#x[0-9A-Fa-f]+|[A-Za-z][A-Za-z0-9]+);")
 _SCALE_EXPRESSION = re.compile(
@@ -65,7 +63,7 @@ class _Occurrence:
     raw_text: str
     normalized_text: str
     scale: Scale
-    unit: Optional[str] = None
+    unit: str | None = None
 
 
 def _visible_html_chunks(raw_html: str, absolute_start: int) -> Iterable[_VisibleChunk]:
@@ -77,7 +75,7 @@ def _visible_html_chunks(raw_html: str, absolute_start: int) -> Iterable[_Visibl
             continue
         if text_start < cursor:
             yield _VisibleChunk(raw_html[text_start:cursor], absolute_start + text_start)
-        quote: Optional[str] = None
+        quote: str | None = None
         cursor += 1
         while cursor < len(raw_html):
             character = raw_html[cursor]
@@ -95,9 +93,9 @@ def _visible_html_chunks(raw_html: str, absolute_start: int) -> Iterable[_Visibl
         yield _VisibleChunk(raw_html[text_start:], absolute_start + text_start)
 
 
-def _normalized_with_offsets(chunk: _VisibleChunk) -> Tuple[str, List[Tuple[int, int]]]:
-    normalized: List[str] = []
-    offsets: List[Tuple[int, int]] = []
+def _normalized_with_offsets(chunk: _VisibleChunk) -> tuple[str, list[tuple[int, int]]]:
+    normalized: list[str] = []
+    offsets: list[tuple[int, int]] = []
     raw = chunk.raw_text
     index = 0
     while index < len(raw):
@@ -127,8 +125,8 @@ def _normalized_with_offsets(chunk: _VisibleChunk) -> Tuple[str, List[Tuple[int,
     return "".join(normalized), offsets
 
 
-def _occurrences(source: ReportSource, chunks: Iterable[_VisibleChunk]) -> List[_Occurrence]:
-    found: List[_Occurrence] = []
+def _occurrences(source: ReportSource, chunks: Iterable[_VisibleChunk]) -> list[_Occurrence]:
+    found: list[_Occurrence] = []
     for chunk in chunks:
         normalized, offsets = _normalized_with_offsets(chunk)
         for match in _SCALE_EXPRESSION.finditer(normalized):
@@ -157,8 +155,8 @@ def _bare_table_unit_allowed(normalized: str, start: int) -> bool:
 
 def _unit_occurrences(
     source: ReportSource, chunks: Iterable[_VisibleChunk], *, in_table: bool
-) -> List[_Occurrence]:
-    found: Dict[Tuple[int, int], _Occurrence] = {}
+) -> list[_Occurrence]:
+    found: dict[tuple[int, int], _Occurrence] = {}
     for chunk in chunks:
         normalized, offsets = _normalized_with_offsets(chunk)
         matches = list(_DECLARED_UNIT.finditer(normalized))
@@ -204,7 +202,7 @@ def _cell_chunks(cell: SourceCell) -> Iterable[_VisibleChunk]:
 def _make_hint(
     source: ReportSource,
     page_id: str,
-    table_id: Optional[str],
+    table_id: str | None,
     source_kind: ScaleHintSource,
     source_ref: str,
     occurrence: _Occurrence,
@@ -236,7 +234,7 @@ def extract_scale_unit_hints(
     normalized_tables: Sequence[NormalizedTable],
     paragraphs: Sequence[Paragraph],
     links: Sequence[TableTextLink],
-) -> List[ScaleUnitHint]:
+) -> list[ScaleUnitHint]:
     """Extract occurrences without resolving a final table scale."""
 
     if not isinstance(source, ReportSource) or not isinstance(document, ParsedDocument):
@@ -254,7 +252,7 @@ def extract_scale_unit_hints(
         for page in document.pages
         for table in page.tables
     }
-    normalized_by_source: Dict[str, NormalizedTable] = {}
+    normalized_by_source: dict[str, NormalizedTable] = {}
     for table in normalized_tables:
         if not isinstance(table, NormalizedTable) or table.source_table_id not in source_tables:
             raise SchemaValidationError("normalized tables must originate from document tables")
@@ -264,7 +262,7 @@ def extract_scale_unit_hints(
             raise SchemaValidationError("normalized source table IDs must be unique")
         normalized_by_source[table.source_table_id] = table
 
-    paragraphs_by_id: Dict[str, Paragraph] = {}
+    paragraphs_by_id: dict[str, Paragraph] = {}
     for paragraph in paragraphs:
         if not isinstance(paragraph, Paragraph) or paragraph.report_id != source.report_id:
             raise SchemaValidationError("paragraph provenance must match source")
@@ -272,7 +270,7 @@ def extract_scale_unit_hints(
             raise SchemaValidationError("paragraph span must round-trip to source")
         paragraphs_by_id[paragraph.paragraph_id] = paragraph
 
-    links_by_paragraph: Dict[str, List[TableTextLink]] = {}
+    links_by_paragraph: dict[str, list[TableTextLink]] = {}
     for link in links:
         if (
             not isinstance(link, TableTextLink)
@@ -282,10 +280,10 @@ def extract_scale_unit_hints(
             raise SchemaValidationError("links must reference source tables and paragraphs")
         links_by_paragraph.setdefault(link.paragraph_id, []).append(link)
 
-    def found(chunks: List[_VisibleChunk], *, in_table: bool) -> List[_Occurrence]:
+    def found(chunks: list[_VisibleChunk], *, in_table: bool) -> list[_Occurrence]:
         return _occurrences(source, chunks) + _unit_occurrences(source, chunks, in_table=in_table)
 
-    hints: List[ScaleUnitHint] = []
+    hints: list[ScaleUnitHint] = []
     for table_id, table in source_tables.items():
         normalized = normalized_by_source.get(table_id)
         header_cell_ids = (
@@ -350,7 +348,7 @@ def extract_scale_unit_hints(
             )
 
     hints.sort(key=lambda hint: (hint.source_span.start, hint.source_span.end, hint.hint_id))
-    hints_by_table: Dict[str, List[ScaleUnitHint]] = {}
+    hints_by_table: dict[str, list[ScaleUnitHint]] = {}
     for hint in hints:
         if hint.table_id is not None:
             hints_by_table.setdefault(hint.table_id, []).append(hint)

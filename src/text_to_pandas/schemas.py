@@ -8,9 +8,10 @@ understanding and the executed result; the code itself is what runs.
 
 from __future__ import annotations
 
+from collections.abc import Mapping
 from dataclasses import dataclass, field
 from enum import Enum
-from typing import Any, Dict, List, Mapping, Optional, Tuple
+from typing import Any
 
 from src.understanding.schemas import SchemaValidationError
 
@@ -38,15 +39,15 @@ RESULT_UNITS = frozenset({"VND", "VND/share", "PERCENT", "TIMES", "COUNT", "TEXT
 @dataclass(frozen=True)
 class PandasProgram:
     status: ProgramStatus
-    selected_datasets: Tuple[str, ...]
+    selected_datasets: tuple[str, ...]
     code: str
-    expected_result_type: Optional[ResultType]
-    result_unit: Optional[str]
+    expected_result_type: ResultType | None
+    result_unit: str | None
     explanation: str
     language: str = "python"
     execution_engine: str = "pandas"
 
-    def to_dict(self) -> Dict[str, Any]:
+    def to_dict(self) -> dict[str, Any]:
         return {
             "status": self.status.value,
             "selected_datasets": list(self.selected_datasets),
@@ -59,7 +60,7 @@ class PandasProgram:
         }
 
     @classmethod
-    def from_dict(cls, value: Any, *, dataset_names: Tuple[str, ...]) -> "PandasProgram":
+    def from_dict(cls, value: Any, *, dataset_names: tuple[str, ...]) -> PandasProgram:
         if not isinstance(value, Mapping):
             raise SchemaValidationError("envelope must be a JSON object")
         unknown = set(value) - ENVELOPE_KEYS
@@ -112,18 +113,18 @@ class AttemptRecord:
     """One generate -> validate -> execute -> verify attempt, kept for the trace."""
 
     attempt: int
-    program: Optional[Dict[str, Any]] = None
+    program: dict[str, Any] | None = None
     outcome: AttemptStage = AttemptStage.GENERATION
-    failure_code: Optional[str] = None
-    failure_message: Optional[str] = None
-    validation: Optional[Dict[str, Any]] = None
-    execution: Optional[Dict[str, Any]] = None
-    verification: Optional[Dict[str, Any]] = None
+    failure_code: str | None = None
+    failure_message: str | None = None
+    validation: dict[str, Any] | None = None
+    execution: dict[str, Any] | None = None
+    verification: dict[str, Any] | None = None
     generation_ms: int = 0
     execution_ms: int = 0
-    llm_usage: List[Dict[str, Any]] = field(default_factory=list)
+    llm_usage: list[dict[str, Any]] = field(default_factory=list)
 
-    def to_dict(self) -> Dict[str, Any]:
+    def to_dict(self) -> dict[str, Any]:
         return {
             "attempt": self.attempt,
             "program": self.program,

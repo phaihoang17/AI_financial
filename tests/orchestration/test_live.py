@@ -4,7 +4,7 @@ from unittest.mock import Mock
 import pytest
 
 from src.orchestration.live import BindingStore, LiveEvidenceStages
-from src.retrieval.batch3 import Batch3Retriever, Batch3RetrievalError
+from src.retrieval.hybrid_retriever import HybridRetrievalError, HybridRetriever
 from src.retrieval.schemas import RetrievalContractError
 from src.supervisor.schemas import EvidenceSource
 
@@ -38,5 +38,5 @@ def test_binding_capability_is_opaque_and_discarded():
 
 @pytest.mark.parametrize("batch_size", [0, -1, True, 1.5])
 def test_invalid_batch_size_fails_before_backends(batch_size):
-    with pytest.raises(Batch3RetrievalError):
-        Batch3Retriever(None, None, lambda _: [], reranker_batch_size=batch_size)
+    with pytest.raises(HybridRetrievalError):
+        HybridRetriever(None, None, lambda _: [], reranker_batch_size=batch_size)

@@ -1,13 +1,13 @@
 import unittest
 
-from src.evidence.m5_schemas import (
+from src.evidence.masking_schemas import (
     SchemaLinkMatchBasis,
     SchemaLinkResult,
     SchemaLinkStatus,
 )
 from src.evidence.schema_linker import link_schema
 from src.indexing.schemas import HeaderPathEntry
-from tests.evidence.m5_helpers import grounded_cell, plan
+from tests.evidence.helpers import grounded_cell, plan
 
 
 class SchemaLinkerTests(unittest.TestCase):
@@ -142,6 +142,7 @@ def test_same_year_duplicates_with_different_values_remain_ambiguous():
 
 def test_one_figure_repeated_in_one_report_resolves_to_the_income_statement_cell():
     from dataclasses import replace
+
     from src.supervisor.schemas import TableClass
     pairs = [grounded_cell(name) for name in ("carried", "statement")]
     evidence = [replace(item, report_year=2015) for item, _ in pairs]

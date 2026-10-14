@@ -2,9 +2,7 @@
 
 from __future__ import annotations
 
-from typing import List, Optional
-
-from src.evidence.m5_schemas import ScaleUnitResolutionStatus
+from src.evidence.masking_schemas import ScaleUnitResolutionStatus
 from src.evidence.schemas import Scale
 from src.indexing.schemas import NumericParseResult
 from src.numeric.scale_conversion import ScaleConversionStatus, convert_canonical_scale
@@ -16,7 +14,6 @@ from src.verification.schemas import (
     VerificationRequest,
 )
 
-
 _MAGNITUDE_SCALES = {Scale.RAW, Scale.THOUSAND, Scale.MILLION, Scale.BILLION}
 
 
@@ -24,7 +21,7 @@ def _check(
     check_id: str,
     passed: bool,
     reason_code: str,
-    *subject_ids: Optional[str],
+    *subject_ids: str | None,
 ) -> VerificationCheckResult:
     subjects = []
     for item in subject_ids:
@@ -39,7 +36,7 @@ def _check(
     )
 
 
-def _requested_scale(value: Optional[RequestedScale]) -> Optional[Scale]:
+def _requested_scale(value: RequestedScale | None) -> Scale | None:
     return None if value is None else Scale(value.value)
 
 
@@ -143,9 +140,9 @@ def _formula_output_metadata(request: VerificationRequest):
     return None
 
 
-def verify_scale_unit(request: VerificationRequest) -> List[VerificationCheckResult]:
+def verify_scale_unit(request: VerificationRequest) -> list[VerificationCheckResult]:
     """Verify the approved scale/unit chain without resolving provenance again."""
-    checks: List[VerificationCheckResult] = []
+    checks: list[VerificationCheckResult] = []
     evidence = {item.evidence_id: item for item in request.evidence_items}
     resolutions = {
         item.evidence_id: item for item in request.scale_unit_resolutions

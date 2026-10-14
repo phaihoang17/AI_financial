@@ -2,10 +2,10 @@
 
 from __future__ import annotations
 
+from collections.abc import Mapping, Sequence
 from dataclasses import dataclass
-from typing import Dict, List, Mapping, Optional, Sequence
 
-from src.evidence.m5_schemas import (
+from src.evidence.masking_schemas import (
     SchemaLinkMatchBasis,
     SchemaLinkResult,
     SchemaLinkStatus,
@@ -20,8 +20,8 @@ from src.understanding.schemas import SchemaValidationError
 class _AssessedLocation:
     evidence: EvidenceItem
     location: CellLocation
-    metric: Optional[str]
-    period: Optional[str]
+    metric: str | None
+    period: str | None
     basis: SchemaLinkMatchBasis
     valid: bool
 
@@ -41,7 +41,7 @@ def _validate_grounded_pair(evidence: EvidenceItem, location: CellLocation) -> N
         )
 
 
-def _metric_match(requirement: RetrievalRequirement, labels: Sequence[str]) -> Optional[str]:
+def _metric_match(requirement: RetrievalRequirement, labels: Sequence[str]) -> str | None:
     if requirement.metric is None:
         return None
     for label in labels:
@@ -53,8 +53,8 @@ def _metric_match(requirement: RetrievalRequirement, labels: Sequence[str]) -> O
 def _period_match(
     requirement: RetrievalRequirement,
     labels: Sequence[str],
-    report_year: Optional[int],
-) -> Optional[str]:
+    report_year: int | None,
+) -> str | None:
     if requirement.period is not None and requirement.period in path_periods(
         labels, report_year
     ):
@@ -129,7 +129,7 @@ def link_schema(
     plan: Plan,
     evidence: Sequence[EvidenceItem],
     locations: Mapping[str, CellLocation],
-) -> List[SchemaLinkResult]:
+) -> list[SchemaLinkResult]:
     """Link Plan TABLE requirements using only supplied evidence locations.
 
     Results follow Plan requirement order. Within an ambiguous or unresolved
@@ -158,11 +158,11 @@ def link_schema(
         _validate_grounded_pair(item, location)
         table_pairs.append((item, location))
     table_pairs.sort(key=lambda pair: (pair[0].evidence_id, pair[1].source_cell_id))
-    cells_by_table: Dict[str, int] = {}
+    cells_by_table: dict[str, int] = {}
     for _, location in table_pairs:
         cells_by_table[location.table_id] = cells_by_table.get(location.table_id, 0) + 1
 
-    results: List[SchemaLinkResult] = []
+    results: list[SchemaLinkResult] = []
     for requirement in plan.retrieval_requirements:
         if requirement.source_type is not EvidenceSource.TABLE:
             continue

@@ -25,6 +25,7 @@ from __future__ import annotations
 
 import argparse
 from collections import Counter
+from collections.abc import Sequence
 from concurrent.futures import FIRST_COMPLETED, ThreadPoolExecutor, wait
 import json
 import os
@@ -33,7 +34,7 @@ import platform
 import sys
 import threading
 from time import monotonic, monotonic_ns
-from typing import Any, Dict, List, Optional, Sequence
+from typing import Any
 
 import psutil
 
@@ -48,7 +49,7 @@ LATENCY_DRIFT_MAX = 1.5
 SETTLE_SECONDS = 5.0
 
 
-def slope(points: Sequence[tuple]) -> Optional[float]:
+def slope(points: Sequence[tuple]) -> float | None:
     """Least-squares slope of (x, y) points; None for fewer than three points."""
     if len(points) < 3:
         return None
@@ -66,15 +67,14 @@ def _case_stream(rows: int, abuse_every: int):
     while True:
         batch = m7_cases(4, offset) + t2p_cases(4, offset, rows, abuse_every)
         offset += 4
-        for case in batch:
-            yield case
+        yield from batch
 
 
-def trend_analysis(samples: List[Dict[str, Any]], warmup_fraction: float) -> Dict[str, Any]:
+def trend_analysis(samples: list[dict[str, Any]], warmup_fraction: float) -> dict[str, Any]:
     start = samples[0]["t_s"]
     measured = [sample for sample in samples if sample["t_s"] - start >= warmup_fraction * (samples[-1]["t_s"] - start)]
     span_h = (measured[-1]["t_s"] - measured[0]["t_s"]) / 3600 if len(measured) > 1 else 0.0
-    trends: Dict[str, Any] = {}
+    trends: dict[str, Any] = {}
     for key in ("rss_mb", "fds", "threads", "temp_dirs"):
         fitted = slope([(sample["t_s"] / 3600, sample[key]) for sample in measured])
         trends[key] = {"slope_per_hour": fitted, "fitted_growth": None if fitted is None else fitted * span_h,
@@ -91,7 +91,7 @@ def trend_analysis(samples: List[Dict[str, Any]], warmup_fraction: float) -> Dic
             "rss_budget_mb": round(budget, 1), "series": trends, "checks": checks}
 
 
-def latency_drift(windows: List[Dict[str, Any]], warmup_fraction: float, share: float = 0.2) -> Dict[str, Any]:
+def latency_drift(windows: list[dict[str, Any]], warmup_fraction: float, share: float = 0.2) -> dict[str, Any]:
     """Per worker kind: pooled p95 of the last ``share`` of measured windows over the first."""
     measured = windows[int(len(windows) * warmup_fraction):]
     size = max(1, int(len(measured) * share))
@@ -107,7 +107,7 @@ def latency_drift(windows: List[Dict[str, Any]], warmup_fraction: float, share: 
     return result
 
 
-def quiescent_trend(checkpoints: List[Dict[str, Any]]) -> Dict[str, Any]:
+def quiescent_trend(checkpoints: list[dict[str, Any]]) -> dict[str, Any]:
     """Exact counts at drained checkpoints: none may rise above the first checkpoint's."""
     series = {}
     for key in ("fds", "threads", "temp_dirs", "workers"):
@@ -121,12 +121,12 @@ def quiescent_trend(checkpoints: List[Dict[str, Any]]) -> Dict[str, Any]:
 
 
 def soak(duration_s: float, concurrency: int, *, sample_s: float, rows: int, abuse_every: int,
-         warmup_fraction: float = 0.1, checkpoint_s: float = 300.0) -> Dict[str, Any]:
+         warmup_fraction: float = 0.1, checkpoint_s: float = 300.0) -> dict[str, Any]:
     baseline = _snapshot()
     me = psutil.Process()
-    samples: List[Dict[str, Any]] = []
-    window: List[Dict[str, Any]] = []
-    windows: List[Dict[str, Any]] = []
+    samples: list[dict[str, Any]] = []
+    window: list[dict[str, Any]] = []
+    windows: list[dict[str, Any]] = []
     lock = threading.Lock()
     outcomes: Counter = Counter()
     started = monotonic()
@@ -158,9 +158,9 @@ def soak(duration_s: float, concurrency: int, *, sample_s: float, rows: int, abu
                         "fds": snapshot["fds"], "threads": snapshot["threads"], "workers": workers,
                         "temp_dirs": len(snapshot["temp_dirs"] - baseline["temp_dirs"]), "requests": len(done)})
 
-    checkpoints: List[Dict[str, Any]] = []
+    checkpoints: list[dict[str, Any]] = []
 
-    def settle() -> Dict[str, Any]:
+    def settle() -> dict[str, Any]:
         # Drained: no worker alive, no worker temp dir left, then one exact reading.
         settle_start = monotonic()
         after = _snapshot()
@@ -218,7 +218,7 @@ def soak(duration_s: float, concurrency: int, *, sample_s: float, rows: int, abu
             "windows": [{key: value for key, value in w.items() if key != "latencies"} for w in windows]}
 
 
-def main(argv: Optional[Sequence[str]] = None) -> int:
+def main(argv: Sequence[str] | None = None) -> int:
     parser = argparse.ArgumentParser(description=__doc__.splitlines()[0])
     parser.add_argument("--duration-s", type=float, default=1800)
     parser.add_argument("--concurrency", type=int, default=16)

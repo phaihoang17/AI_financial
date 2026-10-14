@@ -8,7 +8,7 @@ from src.supervisor.planner import (
     generate_retrieval_requirements,
     plan_required_periods,
     select_formula,
-    supervise_batch1,
+    supervise,
     validate_formula_id,
 )
 from src.supervisor.schemas import (
@@ -184,8 +184,8 @@ class FormulaPlannerTests(unittest.TestCase):
 
 class EarlyAbstainAndIntegrationTests(unittest.TestCase):
     def test_valid_plan_and_deterministic_supervisor_result(self):
-        first = supervise_batch1(understanding(), ALLOWED)
-        second = supervise_batch1(understanding(), ALLOWED)
+        first = supervise(understanding(), ALLOWED)
+        second = supervise(understanding(), ALLOWED)
         self.assertFalse(first.abstain)
         self.assertEqual(first.input_fingerprint, second.input_fingerprint)
         self.assertEqual(first.to_dict(), SupervisorResult.from_dict(first.to_dict()).to_dict())
@@ -194,7 +194,7 @@ class EarlyAbstainAndIntegrationTests(unittest.TestCase):
         self.assertTrue(first.plan.requires_scale_resolution)
 
     def test_supervisor_result_contradictions_are_rejected(self):
-        result = supervise_batch1(understanding(), ALLOWED)
+        result = supervise(understanding(), ALLOWED)
         with self.assertRaises(SchemaValidationError):
             SupervisorResult(ALLOWED, result.plan, True, SupervisorAbstainReason.INVALID_PLAN, result.input_fingerprint)
         with self.assertRaises(SchemaValidationError):
@@ -214,7 +214,7 @@ class EarlyAbstainAndIntegrationTests(unittest.TestCase):
         )
         for query, gate, kwargs, reason in cases:
             with self.subTest(reason=reason):
-                result = supervise_batch1(query, gate, **kwargs)
+                result = supervise(query, gate, **kwargs)
                 self.assertTrue(result.abstain)
                 self.assertIsNone(result.plan)
                 self.assertIs(result.abstain_reason, reason)
@@ -224,7 +224,7 @@ class EarlyAbstainAndIntegrationTests(unittest.TestCase):
             Operation.GROWTH,
             periods=(("2023", PeriodKind.NAM), ("2024", PeriodKind.NAM)),
         )
-        result = supervise_batch1(query, ALLOWED)
+        result = supervise(query, ALLOWED)
         self.assertFalse(result.abstain)
         self.assertEqual(
             [(item.metric, item.period) for item in result.plan.retrieval_requirements],
@@ -236,7 +236,7 @@ class EarlyAbstainAndIntegrationTests(unittest.TestCase):
             Operation.COMPARE,
             periods=(("2023", PeriodKind.NAM), ("2024", PeriodKind.NAM)),
         )
-        result = supervise_batch1(query, ALLOWED)
+        result = supervise(query, ALLOWED)
         self.assertFalse(result.abstain)
         self.assertIs(result.plan.reasoning_mode, ReasoningMode.DIRECT)
         self.assertEqual(result.plan.model_tier.value, "CHEAP")
@@ -248,7 +248,7 @@ class EarlyAbstainAndIntegrationTests(unittest.TestCase):
             Operation.GROWTH,
             periods=(("2023", PeriodKind.NAM), ("2024", PeriodKind.NAM)),
         )
-        result = supervise_batch1(query, ALLOWED)
+        result = supervise(query, ALLOWED)
         self.assertFalse(result.abstain)
         self.assertIs(result.plan.reasoning_mode, ReasoningMode.PROGRAM)
         self.assertEqual(result.plan.model_tier.value, "STRONG")

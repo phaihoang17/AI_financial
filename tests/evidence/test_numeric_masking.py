@@ -4,7 +4,7 @@ from hashlib import sha256
 import json
 import unittest
 
-from src.evidence.m5_schemas import (
+from src.evidence.masking_schemas import (
     M5_MASKING_CONTRACT_VERSION,
     MaskedEvidenceBundle,
     ScaleUnitResolution,
@@ -17,7 +17,7 @@ from src.evidence.numeric_masking import (
     mask_numeric_evidence,
 )
 from src.evidence.schema_linker import link_schema
-from tests.evidence.m5_helpers import (
+from tests.evidence.helpers import (
     grounded_cell,
     multi_period_plan,
     plan,

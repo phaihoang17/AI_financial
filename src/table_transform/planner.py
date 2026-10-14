@@ -4,17 +4,17 @@ from __future__ import annotations
 
 from dataclasses import dataclass
 from enum import Enum
-from typing import Any, Dict, List, Optional, Sequence
+from typing import Any
 
-from src.evidence.m5_schemas import MaskedEvidence, MaskedEvidenceBundle
+from src.evidence.masking_schemas import MaskedEvidence, MaskedEvidenceBundle
 from src.orchestration.schemas import EvaluationFailureStage, FailureAttribution
 from src.programmer.schemas import (
     Program,
     ProgramInput,
+    ProgrammerInput,
     ProgramOperation,
     ProgramOutputKind,
     ProgramStep,
-    ProgrammerInput,
 )
 from src.programmer.validator import validate_program
 from src.supervisor.formula_registry import FORMULA_REGISTRY_FINGERPRINT
@@ -26,11 +26,9 @@ from src.table_transform.schemas import (
     GroupOp,
     SelectColumnsOp,
     SelectRowsOp,
-    SortOp,
     TableCell,
     TableOperation,
     TableOperationType,
-    TableRow,
     TableState,
     TableTransformFailureCode,
 )
@@ -47,14 +45,14 @@ class TableTransformStatus(str, Enum):
 @dataclass(frozen=True)
 class TableTransformResult:
     status: TableTransformStatus
-    terminal_state: Optional[TableState]
-    program: Optional[Program]
+    terminal_state: TableState | None
+    program: Program | None
     step_count: int
-    failure_attribution: Optional[FailureAttribution] = None
-    failure_code: Optional[str] = None
-    failure_message: Optional[str] = None
+    failure_attribution: FailureAttribution | None = None
+    failure_code: str | None = None
+    failure_message: str | None = None
 
-    def to_dict(self) -> Dict[str, Any]:
+    def to_dict(self) -> dict[str, Any]:
         return {
             "status": self.status.value,
             "terminal_state": None if self.terminal_state is None else self.terminal_state.to_dict(),
@@ -112,8 +110,8 @@ def _synthesize_program(
     plan: Plan,
 ) -> Program:
     """Synthesize validated M6 Program from terminal TableState."""
-    inputs: List[ProgramInput] = []
-    input_cells: List[TableCell] = []
+    inputs: list[ProgramInput] = []
+    input_cells: list[TableCell] = []
     seen_placeholders = set()
 
     for row in terminal_state.rows:
@@ -136,10 +134,7 @@ def _synthesize_program(
 
     # In case derived column was created, extract input cells from history
     if not inputs and terminal_state.history:
-        # Collect from input state before derivation
-        first_rec = terminal_state.history[0]
-        # Gather all requirement inputs from plan
-        # fallback to plan requirements
+        # Fall back to the plan requirements; the derived state no longer holds the inputs.
         reqs = [r for r in plan.retrieval_requirements if r.required]
         for idx, req in enumerate(reqs):
             input_id = f"input_{idx}"
@@ -245,7 +240,7 @@ def _next_operation(
     state: TableState,
     query: QueryUnderstanding,
     plan: Plan,
-) -> Optional[TableOperation]:
+) -> TableOperation | None:
     """Deterministically select next atomic operation to apply."""
     # 1. Row selection: filter out rows not in plan.target_metrics
     target_metrics = set(plan.target_metrics)
@@ -289,7 +284,6 @@ def _next_operation(
         formula = plan.formula_id or "AVERAGE"
         # Check if we need to group by metric or segment
         if len(state.rows) > 1 and len(state.columns) >= 1:
-            agg_col = state.columns[0]
             return TableOperation(
                 operation_type=TableOperationType.GROUP,
                 payload=GroupOp(

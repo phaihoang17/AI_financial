@@ -18,6 +18,7 @@ from __future__ import annotations
 
 import argparse
 from collections import Counter
+from collections.abc import Sequence
 from dataclasses import dataclass
 from decimal import Decimal, getcontext
 from hashlib import sha256
@@ -26,7 +27,7 @@ import json
 from pathlib import Path
 import random
 import re
-from typing import Any, Dict, List, Optional, Sequence, Tuple
+from typing import Any
 
 from src.indexing.document_parser import parse_document
 from src.indexing.provenance_sidecar import _source_from_inventory
@@ -50,9 +51,9 @@ _SCOPE_WORD = {"HOP_NHAT": "hợp nhất", "RIENG": "riêng"}
 class _Rows(HTMLParser):
     def __init__(self) -> None:
         super().__init__()
-        self.rows: List[List[str]] = []
-        self._row: List[str] = []
-        self._cell: Optional[List[str]] = None
+        self.rows: list[list[str]] = []
+        self._row: list[str] = []
+        self._cell: list[str] | None = None
 
     def handle_starttag(self, tag: str, attrs: Any) -> None:
         if tag == "tr":
@@ -76,7 +77,7 @@ def _clean(text: str) -> str:
     return " ".join(text.split())
 
 
-def _to_decimal(text: str) -> Optional[str]:
+def _to_decimal(text: str) -> str | None:
     raw = _clean(text)
     if not _VALUE.fullmatch(raw):
         return None
@@ -100,7 +101,7 @@ class LnstRow:
     template: str
 
 
-def _scale(header_text: str, before: str) -> Optional[str]:
+def _scale(header_text: str, before: str) -> str | None:
     """RAW/THOUSAND/MILLION from the table header, else the nearest unit note."""
     notes = _UNIT_NOTE.findall(before)
     for text in (header_text, notes[-1] if notes else ""):
@@ -113,7 +114,7 @@ def _scale(header_text: str, before: str) -> Optional[str]:
     return None
 
 
-def _orientation(header_text: str, report_year: int) -> Optional[bool]:
+def _orientation(header_text: str, report_year: int) -> bool | None:
     """True when the current year precedes the prior year, None when unstated."""
     text = header_text.casefold()
     pairs = ((str(report_year), str(report_year - 1)), ("năm nay", "năm trước"))
@@ -123,9 +124,9 @@ def _orientation(header_text: str, report_year: int) -> Optional[bool]:
     return None
 
 
-def find_lnst_rows(raw_text: str, report_year: int) -> Tuple[List[LnstRow], Optional[str]]:
+def find_lnst_rows(raw_text: str, report_year: int) -> tuple[list[LnstRow], str | None]:
     """Every LNST total row (TT200 Mã số 60, or the bank template) in annual tables."""
-    found: List[LnstRow] = []
+    found: list[LnstRow] = []
     reasons: Counter = Counter()
     for match in re.finditer(r"<table.*?</table>", raw_text, re.S):
         parser = _Rows()
@@ -181,7 +182,7 @@ def raw_vnd(row: LnstRow, column: str = "current") -> str:
     return str(int(getattr(row, column)) * _MULTIPLIER[row.scale])
 
 
-def _locate_cells(source: Any, rows: Sequence[LnstRow]) -> Optional[Tuple[str, List[str]]]:
+def _locate_cells(source: Any, rows: Sequence[LnstRow]) -> tuple[str, list[str]] | None:
     document = parse_document(source)
     tables = {table.source_span.start: table for page in document.pages for table in page.tables}
     table_id, cell_ids = None, []
@@ -198,8 +199,8 @@ def _locate_cells(source: Any, rows: Sequence[LnstRow]) -> Optional[Tuple[str, L
     return table_id, cell_ids
 
 
-def extract_report_values(manifest: Dict[str, Any], raw_root: Path) -> Tuple[Dict[Tuple[str, str, int], Dict[str, Any]], Counter]:
-    values: Dict[Tuple[str, str, int], Dict[str, Any]] = {}
+def extract_report_values(manifest: dict[str, Any], raw_root: Path) -> tuple[dict[tuple[str, str, int], dict[str, Any]], Counter]:
+    values: dict[tuple[str, str, int], dict[str, Any]] = {}
     skips: Counter = Counter()
     for report in manifest["reports"]:
         if report["statement_scope"] not in _SCOPE_WORD:
@@ -221,7 +222,7 @@ def extract_report_values(manifest: Dict[str, Any], raw_root: Path) -> Tuple[Dic
     return values, skips
 
 
-def cross_checked(values: Dict[Tuple[str, str, int], Dict[str, Any]]) -> Tuple[Dict[Tuple[str, str, int], Dict[str, Any]], Counter]:
+def cross_checked(values: dict[tuple[str, str, int], dict[str, Any]]) -> tuple[dict[tuple[str, str, int], dict[str, Any]], Counter]:
     """Keep report-year values confirmed by the next report's prior-year column."""
     kept, skips = {}, Counter()
     for (ticker, scope, year), value in values.items():
@@ -268,15 +269,15 @@ def _answer(operation: str, values: Sequence[str]) -> str:
     return format(result.normalize(), "f")
 
 
-def _sample(units: Sequence[Tuple[str, str, int]], count: int, rng: random.Random, used: set) -> List[Tuple[str, str, int]]:
-    by_ticker: Dict[str, List[Tuple[str, str, int]]] = {}
+def _sample(units: Sequence[tuple[str, str, int]], count: int, rng: random.Random, used: set) -> list[tuple[str, str, int]]:
+    by_ticker: dict[str, list[tuple[str, str, int]]] = {}
     for unit in units:
         by_ticker.setdefault(unit[0], []).append(unit)
     tickers = sorted(by_ticker)
     rng.shuffle(tickers)
     for ticker in tickers:
         rng.shuffle(by_ticker[ticker])
-    picked: List[Tuple[str, str, int]] = []
+    picked: list[tuple[str, str, int]] = []
     while len(picked) < count and any(by_ticker.values()):
         for ticker in tickers:
             while by_ticker[ticker] and by_ticker[ticker][-1] in used:
@@ -288,8 +289,8 @@ def _sample(units: Sequence[Tuple[str, str, int]], count: int, rng: random.Rando
     return picked
 
 
-def _chunk_ids(corpus: Path, manifest: Dict[str, Any], cells: set) -> Dict[str, List[str]]:
-    found: Dict[str, List[str]] = {}
+def _chunk_ids(corpus: Path, manifest: dict[str, Any], cells: set) -> dict[str, list[str]]:
+    found: dict[str, list[str]] = {}
     for shard in manifest["shards"]:
         with (corpus / shard["file"]).open(encoding="utf-8") as handle:
             for line in handle:
@@ -301,8 +302,8 @@ def _chunk_ids(corpus: Path, manifest: Dict[str, Any], cells: set) -> Dict[str, 
     return found
 
 
-def build(corpus: Path, raw_root: Path, output: Path, *, seed: int, counts: Dict[str, int],
-          exclude: Sequence[Tuple[str, str, int]] = ()) -> Dict[str, Any]:
+def build(corpus: Path, raw_root: Path, output: Path, *, seed: int, counts: dict[str, int],
+          exclude: Sequence[tuple[str, str, int]] = ()) -> dict[str, Any]:
     manifest = json.loads((corpus / "manifest.json").read_text(encoding="utf-8"))
     values, extraction_skips = extract_report_values(manifest, raw_root)
     verified, cross_skips = cross_checked(values)
@@ -310,7 +311,7 @@ def build(corpus: Path, raw_root: Path, output: Path, *, seed: int, counts: Dict
     used: set = set(exclude)
     single = sorted(verified)
     pairs = sorted(key for key in verified if (key[0], key[1], key[2] - 1) in verified)
-    plan: List[Tuple[str, List[Tuple[str, str, int]]]] = []
+    plan: list[tuple[str, list[tuple[str, str, int]]]] = []
     for unit in _sample(single, counts["LOOKUP"], rng, used):
         plan.append(("LOOKUP", [unit]))
     for operation in ("GROWTH_RATE", "AVERAGE"):
@@ -388,13 +389,13 @@ def build(corpus: Path, raw_root: Path, output: Path, *, seed: int, counts: Dict
     return summary
 
 
-def _negatives(manifest: Dict[str, Any], verified: Dict[Tuple[str, str, int], Dict[str, Any]], rng: random.Random) -> List[Dict[str, Any]]:
+def _negatives(manifest: dict[str, Any], verified: dict[tuple[str, str, int], dict[str, Any]], rng: random.Random) -> list[dict[str, Any]]:
     keys = sorted(verified)
     rng.shuffle(keys)
-    years_by_ticker: Dict[str, set] = {}
+    years_by_ticker: dict[str, set] = {}
     for report in manifest["reports"]:
         years_by_ticker.setdefault(report["ticker"], set()).add(int(report["report_year"]))
-    rows: List[Dict[str, Any]] = []
+    rows: list[dict[str, Any]] = []
 
     def add(kind: str, question: str) -> None:
         rows.append({"question_id": f"neg-{len(rows):03d}-{kind.lower()}", "question": question,
@@ -406,7 +407,7 @@ def _negatives(manifest: Dict[str, Any], verified: Dict[Tuple[str, str, int], Di
         add("UNSUPPORTED_METRIC", f"{metric} theo báo cáo {_SCOPE_WORD[scope]} của {name} ({ticker}) năm {year} là bao nhiêu?")
     for ticker, scope, _ in keys[6:9]:
         add("MISSING_PERIOD", f"Lợi nhuận sau thuế TNDN theo báo cáo {_SCOPE_WORD[scope]} của {ticker} là bao nhiêu?")
-    scopes: Dict[Tuple[str, int], set] = {}
+    scopes: dict[tuple[str, int], set] = {}
     for report in manifest["reports"]:
         scopes.setdefault((report["ticker"], int(report["report_year"])), set()).add(report["statement_scope"])
     # Only where both scopes exist, so asking back is the one correct behavior.
@@ -421,7 +422,7 @@ def _negatives(manifest: Dict[str, Any], verified: Dict[Tuple[str, str, int], Di
     return rows
 
 
-def main(argv: Optional[Sequence[str]] = None) -> int:
+def main(argv: Sequence[str] | None = None) -> int:
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument("--corpus-artifact", required=True)
     parser.add_argument("--raw-corpus", required=True)

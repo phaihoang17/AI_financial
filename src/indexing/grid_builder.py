@@ -2,8 +2,6 @@
 
 from __future__ import annotations
 
-from typing import Dict, List, Tuple
-
 from src.indexing.schemas import (
     LogicalTableGrid,
     MergedCellAnchor,
@@ -14,7 +12,7 @@ from src.indexing.schemas import (
 from src.understanding.schemas import SchemaValidationError
 
 
-def _ordered_cells(table: SourceTable) -> List[SourceCell]:
+def _ordered_cells(table: SourceTable) -> list[SourceCell]:
     coordinates = [
         (cell.source_row_index, cell.source_cell_index) for cell in table.cells
     ]
@@ -38,9 +36,9 @@ def build_logical_table_grid(table: SourceTable) -> LogicalTableGrid:
             "cannot build a logical grid for an unparseable source table"
         )
 
-    occupied: Dict[Tuple[int, int], str] = {}
-    anchors: List[MergedCellAnchor] = []
-    row_cursors: Dict[int, int] = {}
+    occupied: dict[tuple[int, int], str] = {}
+    anchors: list[MergedCellAnchor] = []
+    row_cursors: dict[int, int] = {}
     row_count = 0
     column_count = 0
 

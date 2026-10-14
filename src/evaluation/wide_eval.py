@@ -10,24 +10,25 @@ from __future__ import annotations
 
 import argparse
 from collections import Counter
+from collections.abc import Mapping, Sequence
 from decimal import Decimal, InvalidOperation
 import json
 import math
 from pathlib import Path
-from typing import Any, Dict, List, Mapping, Optional, Sequence
+from typing import Any
 
 from src.evaluation.gold_retrieval import GoldRetrievalCase, load_gold_file
-from src.evidence.m5_schemas import SchemaLinkStatus
+from src.evidence.masking_schemas import SchemaLinkStatus
 from src.numeric.scale_conversion import ScaleConversionStatus, convert_canonical_scale
 from src.orchestration.schemas import FinalResponseStatus
-from src.orchestration.state import M9State
+from src.orchestration.state import OrchestrationState
 from src.programmer.schemas import ProgramOutputKind
 from src.sandbox.schemas import ExecutionDatum
 
 WIDE_EVAL_SCHEMA_VERSION = "m10-wide-eval-v1"
 
 #: ADR-066. Fixed before the first wide run; change only through a new ADR.
-ACCEPTANCE_THRESHOLDS: Dict[str, Dict[str, Any]] = {
+ACCEPTANCE_THRESHOLDS: dict[str, dict[str, Any]] = {
     "answer_accuracy": {"min": 0.85},
     "min_operation_accuracy": {"min": 0.75},
     "answered_precision": {"min": 0.98},
@@ -50,7 +51,7 @@ PEAK_PRICE_PER_MTOK = {"cache_hit": 0.006, "cache_miss": 0.30, "output": 1.20}
 VALUE_RELATIVE_TOLERANCE = Decimal("1e-6")
 
 
-def percentile(values: Sequence[float], fraction: float) -> Optional[float]:
+def percentile(values: Sequence[float], fraction: float) -> float | None:
     """Nearest-rank percentile."""
     if not values:
         return None
@@ -58,7 +59,7 @@ def percentile(values: Sequence[float], fraction: float) -> Optional[float]:
     return ordered[max(0, math.ceil(fraction * len(ordered)) - 1)]
 
 
-def wilson_interval(successes: int, total: int, z: float = 1.96) -> Optional[List[float]]:
+def wilson_interval(successes: int, total: int, z: float = 1.96) -> list[float] | None:
     if total == 0:
         return None
     p = successes / total
@@ -84,8 +85,8 @@ def _value_matches(predicted: str, gold: str) -> bool:
     return abs(left - right) <= VALUE_RELATIVE_TOLERANCE * max(abs(right), Decimal(1))
 
 
-def score_case(case: GoldRetrievalCase, state: Optional[M9State]) -> Dict[str, Any]:
-    result: Dict[str, Any] = {
+def score_case(case: GoldRetrievalCase, state: OrchestrationState | None) -> dict[str, Any]:
+    result: dict[str, Any] = {
         "question_id": case.question_id, "operation": case.operation, "outcome": None,
         "reason_code": None, "answered": False, "value_correct": False, "unit_correct": False,
         "grounding_correct": False, "verification_passed": False, "answer_correct": False,
@@ -133,7 +134,7 @@ def score_case(case: GoldRetrievalCase, state: Optional[M9State]) -> Dict[str, A
     return result
 
 
-def _check(name: str, value: Optional[float]) -> Dict[str, Any]:
+def _check(name: str, value: float | None) -> dict[str, Any]:
     rule = ACCEPTANCE_THRESHOLDS[name]
     if value is None:
         passed = False
@@ -145,8 +146,8 @@ def _check(name: str, value: Optional[float]) -> Dict[str, Any]:
 
 
 def evaluate(cases: Sequence[GoldRetrievalCase], negatives: Sequence[Mapping[str, Any]],
-             runs: Mapping[str, Any], *, audit: Optional[Mapping[str, Any]] = None) -> Dict[str, Any]:
-    states = {raw["request_id"]: M9State.from_dict(raw) for raw in runs.get("states", [])}
+             runs: Mapping[str, Any], *, audit: Mapping[str, Any] | None = None) -> dict[str, Any]:
+    states = {raw["request_id"]: OrchestrationState.from_dict(raw) for raw in runs.get("states", [])}
     results = [score_case(case, states.get(case.question_id)) for case in cases]
     strata = {}
     if audit:
@@ -167,11 +168,11 @@ def evaluate(cases: Sequence[GoldRetrievalCase], negatives: Sequence[Mapping[str
                                  "reason_code": state.final_response.reason_code if state else None,
                                  "false_answer": outcome == FinalResponseStatus.PASS.value})
 
-    def rate(rows: Sequence[Mapping[str, Any]], key: str) -> Optional[float]:
+    def rate(rows: Sequence[Mapping[str, Any]], key: str) -> float | None:
         return sum(bool(r[key]) for r in rows) / len(rows) if rows else None
 
-    def breakdown(field: str) -> Dict[str, Any]:
-        groups: Dict[str, List[Mapping[str, Any]]] = {}
+    def breakdown(field: str) -> dict[str, Any]:
+        groups: dict[str, list[Mapping[str, Any]]] = {}
         for result in results:
             groups.setdefault(str(result.get(field)), []).append(result)
         return {name: {"cases": len(rows), "correct": sum(r["answer_correct"] for r in rows),
@@ -238,7 +239,7 @@ def evaluate(cases: Sequence[GoldRetrievalCase], negatives: Sequence[Mapping[str
     }
 
 
-def main(argv: Optional[Sequence[str]] = None) -> int:
+def main(argv: Sequence[str] | None = None) -> int:
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument("--gold", default="gold/wide/wide-lnst.jsonl")
     parser.add_argument("--negatives", default="gold/wide/wide-negative.jsonl")

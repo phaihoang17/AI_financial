@@ -2,11 +2,12 @@
 
 from __future__ import annotations
 
+from collections.abc import Iterable, Mapping, Sequence
 from dataclasses import dataclass
 from hashlib import sha256
 import json
 from pathlib import Path
-from typing import Any, Dict, Iterable, List, Mapping, Optional, Protocol, Sequence, Tuple
+from typing import Any, Protocol
 
 from src.indexing.embedding_schemas import (
     EMBEDDING_CHUNK_SCHEMA_VERSION,
@@ -18,7 +19,6 @@ from src.indexing.embedding_schemas import (
 from src.indexing.schemas import CellRole, NormalizedCell, NormalizedTable, RetrievalRepresentation
 from src.supervisor.schemas import EvidenceSource
 from src.understanding.schemas import SchemaValidationError
-
 
 BGE_M3_MODEL_ID = "BAAI/bge-m3"
 BGE_M3_REVISION = "5617a9f61b028005a4858fdac845db406aefb181"
@@ -64,7 +64,7 @@ class EmbeddingChunkingError(SchemaValidationError):
         super().__init__(f"{code}: {message}")
 
 
-def load_bge_m3_tokenizer(cache_dir: Optional[str | Path] = None) -> Any:
+def load_bge_m3_tokenizer(cache_dir: str | Path | None = None) -> Any:
     """Load the exact tokenizer required by the M2B chunk contract."""
 
     try:
@@ -74,7 +74,7 @@ def load_bge_m3_tokenizer(cache_dir: Optional[str | Path] = None) -> Any:
             "TOKENIZER_DEPENDENCY_MISSING",
             "transformers is required to load the pinned BGE-M3 tokenizer",
         ) from error
-    kwargs: Dict[str, Any] = {"revision": BGE_M3_REVISION, "use_fast": True}
+    kwargs: dict[str, Any] = {"revision": BGE_M3_REVISION, "use_fast": True}
     if cache_dir is not None:
         kwargs["cache_dir"] = str(cache_dir)
     try:
@@ -86,7 +86,7 @@ def load_bge_m3_tokenizer(cache_dir: Optional[str | Path] = None) -> Any:
         ) from error
 
 
-def _token_ids(tokenizer: TokenizerLike, text: str, *, add_special_tokens: bool) -> List[int]:
+def _token_ids(tokenizer: TokenizerLike, text: str, *, add_special_tokens: bool) -> list[int]:
     encoded = tokenizer(
         text,
         add_special_tokens=add_special_tokens,
@@ -113,14 +113,14 @@ def _compact_json(payload: Mapping[str, Any]) -> str:
 class _CellItem:
     cell: NormalizedCell
     text: str
-    fragment: Optional[CellFragment] = None
+    fragment: CellFragment | None = None
 
     @property
     def source_cell_id(self) -> str:
         return self.cell.source_cell_id
 
 
-def _cell_payload(item: _CellItem) -> Dict[str, Any]:
+def _cell_payload(item: _CellItem) -> dict[str, Any]:
     return {
         "row_path": [entry.label for entry in item.cell.row_path],
         "column_path": [entry.label for entry in item.cell.column_path],
@@ -160,7 +160,7 @@ def _fit_count_or_safe_bound(tokenizer: TokenizerLike, content: str) -> int:
 
 def _context_cells(
     primary: Sequence[_CellItem], all_cells: Sequence[_CellItem]
-) -> List[_CellItem]:
+) -> list[_CellItem]:
     if not primary:
         return []
     primary_ids = {item.source_cell_id for item in primary}
@@ -168,7 +168,7 @@ def _context_cells(
     max_row = max(item.cell.anchor_row for item in primary)
     min_col = min(item.cell.anchor_column for item in primary)
     max_col = max(item.cell.anchor_column for item in primary)
-    result: List[_CellItem] = []
+    result: list[_CellItem] = []
     for item in all_cells:
         if item.source_cell_id in primary_ids:
             continue
@@ -193,7 +193,7 @@ def _render_items(
     primary: Sequence[_CellItem],
     all_cells: Sequence[_CellItem],
     tokenizer: TokenizerLike,
-) -> Tuple[str, List[_CellItem], int]:
+) -> tuple[str, list[_CellItem], int]:
     context = _context_cells(primary, all_cells)
     context_ids = {item.source_cell_id for item in context}
     ordered = list(primary) + [item for item in context if item.source_cell_id not in context_ids.intersection({p.source_cell_id for p in primary})]
@@ -220,11 +220,11 @@ def _fragment_text(
     tokenizer: TokenizerLike,
     base: Mapping[str, Any],
     cell: NormalizedCell,
-) -> List[str]:
+) -> list[str]:
     text = cell.normalized_text
     if not text:
         return [text]
-    fragments: List[str] = []
+    fragments: list[str] = []
     start = 0
     while start < len(text):
         low = start + 1
@@ -259,8 +259,8 @@ def _prepare_cell_items(
     tokenizer: TokenizerLike,
     base: Mapping[str, Any],
     cells: Sequence[NormalizedCell],
-) -> List[_CellItem]:
-    result: List[_CellItem] = []
+) -> list[_CellItem]:
+    result: list[_CellItem] = []
     for cell in cells:
         candidate = _candidate_with_text(base, cell, cell.normalized_text)
         if _fit_count_or_safe_bound(tokenizer, candidate) <= EMBEDDING_TARGET_TOKENS:
@@ -290,9 +290,9 @@ def _chunk_id(
     chunk_index: int,
     primary_ids: Sequence[str],
     context_ids: Sequence[str],
-    fragment: Optional[CellFragment],
+    fragment: CellFragment | None,
 ) -> str:
-    parts: List[Any] = [
+    parts: list[Any] = [
         EMBEDDING_CHUNK_SCHEMA_VERSION,
         representation_id,
         CHUNKING_CONFIG_FINGERPRINT,
@@ -317,7 +317,7 @@ def _make_table_chunks(
     representation: RetrievalRepresentation,
     table: NormalizedTable,
     tokenizer: TokenizerLike,
-) -> List[EmbeddingChunk]:
+) -> list[EmbeddingChunk]:
     if representation.source_type is not EvidenceSource.TABLE:
         raise EmbeddingChunkingError("REPRESENTATION_TYPE_MISMATCH", "expected a TABLE representation")
     if representation.source_ref != table.normalized_table_id:
@@ -340,12 +340,12 @@ def _make_table_chunks(
             raise EmbeddingChunkingError("TABLE_CELL_CONTENT_MISMATCH", f"cell {cell.source_cell_id} differs from representation")
     items = _prepare_cell_items(tokenizer, base, cells)
     context_cells = [_CellItem(cell=cell, text=cell.normalized_text) for cell in cells]
-    chunks_data: List[Tuple[List[_CellItem], List[_CellItem], str, int]] = []
-    rows: Dict[int, List[_CellItem]] = {}
+    chunks_data: list[tuple[list[_CellItem], list[_CellItem], str, int]] = []
+    rows: dict[int, list[_CellItem]] = {}
     for item in items:
         rows.setdefault(item.cell.anchor_row, []).append(item)
 
-    current: List[_CellItem] = []
+    current: list[_CellItem] = []
 
     def flush() -> None:
         nonlocal current
@@ -359,7 +359,7 @@ def _make_table_chunks(
         row = rows[row_index]
         if any(item.fragment is not None for item in row):
             flush()
-            group: List[_CellItem] = []
+            group: list[_CellItem] = []
             for item in row:
                 if item.fragment is not None:
                     if group:
@@ -402,7 +402,7 @@ def _make_table_chunks(
             continue
         flush()
         # An oversized row is split into consecutive anchor-column groups.
-        group: List[_CellItem] = []
+        group: list[_CellItem] = []
         for item in row:
             candidate_group = group + [item]
             try:
@@ -432,7 +432,7 @@ def _make_table_chunks(
         content = _table_payload(base, [])
         chunks_data.append(([], [], content, _content_token_count(tokenizer, content)))
 
-    chunks: List[EmbeddingChunk] = []
+    chunks: list[EmbeddingChunk] = []
     chunk_count = len(chunks_data)
     for index, (primary, context, content, token_count) in enumerate(chunks_data):
         token_count = _content_token_count(tokenizer, content)
@@ -499,10 +499,10 @@ def build_embedding_chunks(
     representations: Sequence[RetrievalRepresentation],
     normalized_tables: Mapping[str, NormalizedTable],
     tokenizer: TokenizerLike,
-) -> List[EmbeddingChunk]:
+) -> list[EmbeddingChunk]:
     """Build complete, deterministic chunks in representation source order."""
 
-    result: List[EmbeddingChunk] = []
+    result: list[EmbeddingChunk] = []
     for representation in representations:
         if representation.source_type is EvidenceSource.TABLE:
             table = normalized_tables.get(representation.source_ref)

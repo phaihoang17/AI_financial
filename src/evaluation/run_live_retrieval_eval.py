@@ -1,7 +1,7 @@
 """Evaluate real retrieval with annotated query metadata, without NLU or E2E.
 
 Models run sequentially to bound memory. Backend depth, fusion and reranking
-reuse the Batch3 policy; gold answers and evidence IDs are used only to score.
+reuse the HybridRetriever policy; gold answers and evidence IDs are used only to score.
 """
 
 from __future__ import annotations
@@ -14,11 +14,13 @@ import sys
 import time
 
 from src.evaluation.gold_retrieval import (
-    GoldRetrievalCase, compute_gold_retrieval_metrics, load_gold_file,
+    GoldRetrievalCase,
+    compute_gold_retrieval_metrics,
+    load_gold_file,
 )
 from src.indexing.embedding_indexer import load_bge_m3_encoder, make_embedding_config_fingerprint
-from src.retrieval.batch3 import Batch3Retriever
 from src.retrieval.bm25 import BM25Index
+from src.retrieval.hybrid_retriever import HybridRetriever
 from src.retrieval.query_embedding import embed_query_texts
 from src.retrieval.reranker import load_bge_reranker, make_reranker_config_fingerprint, rerank_candidates
 from src.retrieval.rrf import fuse_rrf
@@ -49,7 +51,7 @@ def annotated_query(case: GoldRetrievalCase) -> RetrievalQuery:
 def run(cases, *, corpus_root, vector_root, bm25_root, top_k=10):
     if not cases or len({case.question_id for case in cases}) != len(cases):
         raise ValueError("gold must be nonempty with unique question IDs")
-    depth = Batch3Retriever._candidate_depth(top_k, None)
+    depth = HybridRetriever._candidate_depth(top_k, None)
     started = time.monotonic()
     queries = {case.question_id: annotated_query(case) for case in cases if case.is_gold_bearing()}
     if not queries:
@@ -145,7 +147,7 @@ def run(cases, *, corpus_root, vector_root, bm25_root, top_k=10):
         "errors": errors, "timings": timings,
         "metrics_by_stage": {
             name: compute_gold_retrieval_metrics(
-                cases, lambda case: values.get(case.question_id, []),
+                cases, lambda case, found=values: found.get(case.question_id, []),
             ).to_dict()
             for name, values in stages.items()
         },

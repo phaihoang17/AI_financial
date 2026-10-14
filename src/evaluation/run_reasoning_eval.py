@@ -3,8 +3,8 @@
 from __future__ import annotations
 
 import argparse
+from collections.abc import Sequence
 import json
-from typing import Optional, Sequence
 
 from src.evaluation.oracle_reasoning import evaluate_oracle_reasoning_cases
 from src.evaluation.oracle_reasoning_fixtures import (
@@ -12,7 +12,7 @@ from src.evaluation.oracle_reasoning_fixtures import (
 )
 
 
-def main(argv: Optional[Sequence[str]] = None) -> int:
+def main(argv: Sequence[str] | None = None) -> int:
     parser = argparse.ArgumentParser()
     parser.add_argument("--mode", choices=("oracle",), default="oracle")
     args = parser.parse_args(argv)

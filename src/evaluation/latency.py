@@ -15,19 +15,18 @@ Two honest instruments:
 from __future__ import annotations
 
 from collections import OrderedDict
+from collections.abc import Callable, Mapping, Sequence
 from dataclasses import dataclass
-from typing import Callable, Dict, Mapping, Optional, Sequence
 
 from src.evaluation.e2e import RetrievedEvidenceE2ECase
 from src.evaluation.e2e_fixtures import e2e_fixture_cases
 from src.evaluation.telemetry import (
+    TELEMETRY_SCHEMA_VERSION,
     Distribution,
     MeasurementSource,
     Stopwatch,
-    TELEMETRY_SCHEMA_VERSION,
 )
 from src.understanding.schemas import SchemaValidationError
-
 
 LATENCY_REPORT_SCHEMA_VERSION = "m10-latency-distribution-v1"
 STAGE_LATENCY_LIVE_BLOCKER = "GPU_PRODUCTION_VALIDATION_PENDING"
@@ -46,7 +45,7 @@ class StageProfile:
 
 
 def profile_stages(
-    stage_callables: "OrderedDict[str, Callable[[], object]]",
+    stage_callables: OrderedDict[str, Callable[[], object]],
     *,
     repeats: int = 1,
 ) -> StageProfile:
@@ -55,7 +54,7 @@ def profile_stages(
         raise SchemaValidationError("stage_callables must be a non-empty OrderedDict")
     if isinstance(repeats, bool) or not isinstance(repeats, int) or repeats < 1:
         raise SchemaValidationError("repeats must be a positive integer")
-    per_stage: Dict[str, list] = {name: [] for name in stage_callables}
+    per_stage: dict[str, list] = {name: [] for name in stage_callables}
     e2e_samples: list = []
     for _ in range(repeats):
         total = Stopwatch()
@@ -93,7 +92,7 @@ class E2ELatencyReport:
 
 
 def measure_e2e_latency(
-    cases: Optional[Sequence[RetrievedEvidenceE2ECase]] = None,
+    cases: Sequence[RetrievedEvidenceE2ECase] | None = None,
     *,
     repeats: int = 1,
 ) -> E2ELatencyReport:

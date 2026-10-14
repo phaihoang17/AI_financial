@@ -4,14 +4,13 @@ from pathlib import Path
 import re
 import shutil
 import subprocess
-import threading
 import tempfile
+import threading
 import unittest
 from unittest.mock import patch
 
 from src.evidence.schemas import Scale
-from src.sandbox.executor import _start_memory_monitor, _worker_command
-from src.sandbox.executor import execute_sandboxed
+from src.sandbox.executor import _start_memory_monitor, _worker_command, execute_sandboxed
 from src.sandbox.limits import ResourceLimitFailureCode
 from src.sandbox.production import (
     NSJAIL_BINARY_ENV,
@@ -29,7 +28,6 @@ from src.sandbox.schemas import ExecutionFailureStage
 from src.sandbox.security import SecurityFailureCode, WorkerSecurityViolation
 from tests.programmer.helpers import growth_programmer_input
 from tests.sandbox.execution_helpers import execution_request_for
-
 
 REPOSITORY_ROOT = Path(__file__).resolve().parents[2]
 NSJAIL_CONFIG = REPOSITORY_ROOT / "deploy" / "sandbox" / "m7-nsjail.cfg"

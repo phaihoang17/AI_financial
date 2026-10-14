@@ -1,14 +1,14 @@
 """Deterministic retrieval-execution smoke (TASK-109 / ADR-057).
 
 Runs the *real* production retrieval stack (BM25 + FAISS + pinned BGE-M3 query
-encoder + pinned BGE-reranker-v2-m3, via ``Batch3Retriever``) over a fixed set
+encoder + pinned BGE-reranker-v2-m3, via ``HybridRetriever``) over a fixed set
 of Qwen-free ``RetrievalQuery`` inputs, twice, and emits the typed smoke result
 that ``run_retrieval_production_validation`` gates on:
 
     {"ran": bool, "byte_identical": bool, "crashes": int, "timeouts": int,
      "sample_size": int, ...}
 
-It changes no retrieval semantics — it only calls ``Batch3Retriever.retrieve``.
+It changes no retrieval semantics — it only calls ``HybridRetriever.retrieve``.
 It never computes Recall@k / MRR and invents no quality label.
 
 Queries file: JSONL, one ``RetrievalQuery`` dict per line (the exact
@@ -26,13 +26,13 @@ Exit 0 iff ran and byte_identical and crashes == 0 and timeouts == 0.
 from __future__ import annotations
 
 import argparse
+from collections.abc import Sequence
 import json
-import time
 from pathlib import Path
-from typing import Any, Dict, List, Optional, Sequence
+import time
+from typing import Any
 
 from src.retrieval.schemas import RetrievalQuery
-
 
 RETRIEVAL_EXECUTION_SMOKE_SCHEMA_VERSION = "m10-retrieval-execution-smoke-v1"
 DEFAULT_TOP_K = 10
@@ -45,10 +45,10 @@ class RetrievalSmokeError(Exception):
         super().__init__(f"{code}: {message}")
 
 
-def load_smoke_queries(path: str | Path) -> List[RetrievalQuery]:
+def load_smoke_queries(path: str | Path) -> list[RetrievalQuery]:
     """Load a JSONL file of ``RetrievalQuery.to_dict()`` objects."""
     text = Path(path).read_text(encoding="utf-8")
-    queries: List[RetrievalQuery] = []
+    queries: list[RetrievalQuery] = []
     for line_number, line in enumerate(text.splitlines(), start=1):
         line = line.strip()
         if not line:
@@ -70,21 +70,21 @@ def run_retrieval_execution_smoke(
     *,
     top_k: int = DEFAULT_TOP_K,
     per_query_timeout_s: float = DEFAULT_PER_QUERY_TIMEOUT_S,
-) -> Dict[str, Any]:
+) -> dict[str, Any]:
     """Run each query twice through ``retriever.retrieve`` and compare results."""
     if not queries:
         raise RetrievalSmokeError("SMOKE_QUERIES_EMPTY", "queries must be non-empty")
     if isinstance(top_k, bool) or not isinstance(top_k, int) or top_k < 1:
         raise RetrievalSmokeError("SMOKE_TOP_K_INVALID", "top_k must be a positive integer")
 
-    per_query: List[Dict[str, Any]] = []
+    per_query: list[dict[str, Any]] = []
     crashes = 0
     timeouts = 0
     all_identical = True
 
     for index, query in enumerate(queries):
         eligible = list(query.eligible_source_types or query.evidence_sources)
-        record: Dict[str, Any] = {"index": index, "raw_question": query.raw_question}
+        record: dict[str, Any] = {"index": index, "raw_question": query.raw_question}
         try:
             start_first = time.monotonic()
             first = retriever.retrieve(query, top_k=top_k, eligible_source_types=eligible)
@@ -134,8 +134,8 @@ def _build_production_retriever(
     corpus_root: str, vector_root: str, bm25_root: str
 ) -> Any:  # pragma: no cover - needs real artifacts + pinned weights
     from src.indexing.embedding_indexer import load_bge_m3_encoder
-    from src.retrieval.batch3 import Batch3Retriever
     from src.retrieval.bm25 import BM25Index
+    from src.retrieval.hybrid_retriever import HybridRetriever
     from src.retrieval.query_embedding import embed_query_texts
     from src.retrieval.reranker import load_bge_reranker
     from src.retrieval.vector_search import VectorSearcher
@@ -148,10 +148,10 @@ def _build_production_retriever(
     def query_embedder(query: RetrievalQuery) -> Any:
         return embed_query_texts(query, encoder=encoder)
 
-    return Batch3Retriever(bm25, vector, query_embedder, reranker=reranker)
+    return HybridRetriever(bm25, vector, query_embedder, reranker=reranker)
 
 
-def main(argv: Optional[Sequence[str]] = None) -> int:
+def main(argv: Sequence[str] | None = None) -> int:
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument("--corpus-artifact", required=True)
     parser.add_argument("--vector-artifact", required=True)

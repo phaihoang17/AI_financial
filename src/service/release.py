@@ -23,20 +23,21 @@ through ``POST /admin/reload``.
 from __future__ import annotations
 
 import argparse
+from collections.abc import Callable, Mapping, Sequence
 from dataclasses import asdict, dataclass, field
-from datetime import datetime, timezone
+from datetime import UTC, datetime
 from decimal import Decimal, InvalidOperation
 from hashlib import sha256
 import json
 import os
 from pathlib import Path
-from typing import Any, Callable, Dict, List, Mapping, Optional, Sequence
+from typing import Any
 
 RELEASE_SCHEMA_VERSION = "aifin-release-v1"
 
 
 def _now() -> str:
-    return datetime.now(timezone.utc).isoformat(timespec="seconds")
+    return datetime.now(UTC).isoformat(timespec="seconds")
 
 
 def file_sha256(path: str | Path) -> str:
@@ -61,11 +62,11 @@ class Release:
         if not self.generator.startswith(("provider:", "replay:")):
             raise ValueError("generator must be provider:<name> or replay:<directory>")
 
-    def to_dict(self) -> Dict[str, Any]:
+    def to_dict(self) -> dict[str, Any]:
         return {"schema_version": RELEASE_SCHEMA_VERSION, **asdict(self)}
 
     @classmethod
-    def from_dict(cls, value: Mapping[str, Any]) -> "Release":
+    def from_dict(cls, value: Mapping[str, Any]) -> Release:
         data = dict(value)
         if data.pop("schema_version", None) != RELEASE_SCHEMA_VERSION:
             raise ValueError("unsupported release schema")
@@ -92,21 +93,21 @@ class ReleaseStore:
     def get(self, release_id: str) -> Release:
         return Release.from_dict(json.loads(self._path(release_id).read_text(encoding="utf-8")))
 
-    def current_id(self) -> Optional[str]:
+    def current_id(self) -> str | None:
         pointer = self.root / "current"
         return pointer.read_text(encoding="utf-8").strip() or None if pointer.is_file() else None
 
-    def current(self) -> Optional[Release]:
+    def current(self) -> Release | None:
         release_id = self.current_id()
         return None if release_id is None else self.get(release_id)
 
-    def history(self) -> List[Dict[str, Any]]:
+    def history(self) -> list[dict[str, Any]]:
         path = self.root / "history.jsonl"
         if not path.is_file():
             return []
         return [json.loads(line) for line in path.read_text(encoding="utf-8").splitlines() if line.strip()]
 
-    def _event(self, event: str, release_id: Optional[str], **detail: Any) -> None:
+    def _event(self, event: str, release_id: str | None, **detail: Any) -> None:
         with (self.root / "history.jsonl").open("a", encoding="utf-8") as handle:
             handle.write(json.dumps({"at": _now(), "event": event, "release_id": release_id, **detail},
                                     ensure_ascii=False) + "\n")
@@ -125,7 +126,7 @@ class ReleaseStore:
     def reject(self, release_id: str, reason: str, detail: Any = None) -> None:
         self._event("REJECTED", release_id, reason=reason, detail=detail)
 
-    def previous_id(self) -> Optional[str]:
+    def previous_id(self) -> str | None:
         """The release served before the current one, following promotions and rollbacks."""
         served = [row["release_id"] for row in self.history() if row["event"] in ("PROMOTED", "ROLLED_BACK")]
         current = self.current_id()
@@ -144,10 +145,10 @@ class ReleaseStore:
         return target
 
 
-Checker = Callable[[Release], List[Dict[str, Any]]]
+Checker = Callable[[Release], list[dict[str, Any]]]
 
 
-def preflight(release: Release, *, source_fingerprint: Optional[str] = None) -> List[Dict[str, Any]]:
+def preflight(release: Release, *, source_fingerprint: str | None = None) -> list[dict[str, Any]]:
     """Static checks: the pinned catalog, config and code are exactly what was validated."""
     checks = []
     manifest = Path(release.catalog) / "manifest.json"
@@ -178,7 +179,7 @@ def smoke_matches(response: Mapping[str, Any], expected: Mapping[str, Any]) -> b
 
 
 def deploy(store: ReleaseStore, release: Release, checker: Checker, *,
-           source_fingerprint: Optional[str] = None) -> Dict[str, Any]:
+           source_fingerprint: str | None = None) -> dict[str, Any]:
     """Promote ``release`` only if preflight and every canary smoke case pass."""
     store.register(release)
     checks = preflight(release, source_fingerprint=source_fingerprint)
@@ -195,7 +196,7 @@ def deploy(store: ReleaseStore, release: Release, checker: Checker, *,
     return {"promoted": True, "checks": checks, "smoke": smoke, "serving": store.current_id()}
 
 
-def watch_and_rollback(store: ReleaseStore, firing_alerts: Sequence[str], *, page_alerts: Sequence[str]) -> Optional[str]:
+def watch_and_rollback(store: ReleaseStore, firing_alerts: Sequence[str], *, page_alerts: Sequence[str]) -> str | None:
     """Roll back when any page alert fires during the bake window; returns the restored release."""
     paged = [name for name in firing_alerts if name in page_alerts]
     if not paged:
@@ -210,7 +211,7 @@ def smoke_checker(smoke_file: str | Path, history_root: str | Path) -> Checker:
     """Run the canary questions through the candidate release's own pipeline."""
     smoke = [json.loads(line) for line in Path(smoke_file).read_text(encoding="utf-8").splitlines() if line.strip()]
 
-    def checker(release: Release) -> List[Dict[str, Any]]:
+    def checker(release: Release) -> list[dict[str, Any]]:
         from src.service.app import build_engine
 
         engine = build_engine(release, history_root)
@@ -223,7 +224,7 @@ def smoke_checker(smoke_file: str | Path, history_root: str | Path) -> Checker:
     return checker
 
 
-def main(argv: Optional[Sequence[str]] = None) -> int:  # pragma: no cover - thin CLI
+def main(argv: Sequence[str] | None = None) -> int:  # pragma: no cover - thin CLI
     parser = argparse.ArgumentParser(description=__doc__.splitlines()[0])
     parser.add_argument("command", choices=("list", "rollback", "promote", "deploy"))
     parser.add_argument("--root", required=True)

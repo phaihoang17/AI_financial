@@ -2,8 +2,6 @@
 
 from __future__ import annotations
 
-from typing import List, Optional
-
 from src.evidence.schemas import CanonicalDecimal, Scale
 from src.numeric.scale_conversion import ScaleConversionStatus, convert_canonical_scale
 from src.programmer.schemas import ProgramOperation, ProgramOutputKind
@@ -19,7 +17,7 @@ def _check(
     check_id: str,
     passed: bool,
     reason_code: str,
-    *subject_ids: Optional[str],
+    *subject_ids: str | None,
 ) -> VerificationCheckResult:
     subjects = []
     for item in subject_ids:
@@ -70,7 +68,7 @@ def _ordered_expected_values(request: VerificationRequest):
     return expected
 
 
-def verify_numeric(request: VerificationRequest) -> List[VerificationCheckResult]:
+def verify_numeric(request: VerificationRequest) -> list[VerificationCheckResult]:
     """Check numeric output shape and canonical values without formula recomputation."""
     result = request.execution_result
     output = result.output

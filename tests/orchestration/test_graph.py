@@ -3,21 +3,21 @@ from __future__ import annotations
 from dataclasses import replace
 import json
 
-import pytest
 from langgraph.checkpoint.memory import MemorySaver
+import pytest
 
 from src.evidence.schemas import CanonicalDecimal, Scale
 from src.indexing.schemas import ScaleHintSource
 from src.orchestration.answer_builder import build_final_answer
-from src.orchestration.nodes import OrchestrationDependencies
 from src.orchestration.execution_routing import classify_execution_failure
 from src.orchestration.graph import OrchestrationGraph
+from src.orchestration.nodes import OrchestrationDependencies
 from src.orchestration.ports import NLUStageOutput, RetrievalArtifacts
 from src.orchestration.schemas import (
     ExecutionAction,
     ExecutionClassificationError,
     FinalResponseStatus,
-    M9Phase,
+    OrchestrationPhase,
 )
 from src.orchestration.state import AttemptEntryStage, AttemptRecord
 from src.programmer.generator import generate_program
@@ -39,6 +39,7 @@ from src.supervisor.schemas import ModelTier
 from src.understanding.planning_gate import FindingName, PlanningGate
 from src.understanding.schemas import Operation, SchemaValidationError
 from src.verification.schemas import RetryAction
+from tests.evidence.helpers import hint
 from tests.orchestration.test_straight_through_graph import (
     ARTIFACT_VERSIONS,
     FakeNLU,
@@ -46,7 +47,6 @@ from tests.orchestration.test_straight_through_graph import (
     fixture_pairs,
     query_understanding,
 )
-from tests.evidence.m5_helpers import hint
 from tests.verification.helpers import text_item
 
 
@@ -214,7 +214,7 @@ def test_verification_pass_builds_terminal_answer_with_exact_output_and_citation
     state = result.state
     attempt = state.attempts[-1]
     assert result.successful
-    assert state.phase is M9Phase.TERMINAL
+    assert state.phase is OrchestrationPhase.TERMINAL
     assert attempt.retry_directive.action is RetryAction.PASS
     assert state.final_response.answer.output.to_dict() == attempt.execution_result.output.to_dict()
     assert [item.evidence_id for item in state.final_response.answer.evidence] == [

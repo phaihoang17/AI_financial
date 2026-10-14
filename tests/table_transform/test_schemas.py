@@ -3,7 +3,6 @@
 import pytest
 
 from src.table_transform.schemas import (
-    TABLE_TRANSFORM_SCHEMA_VERSION,
     AddDerivedColumnOp,
     AggregateFunction,
     GroupOp,

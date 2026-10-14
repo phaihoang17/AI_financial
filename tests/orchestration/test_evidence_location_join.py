@@ -6,7 +6,7 @@ from src.orchestration.nodes import (
     OrchestrationFailureCode,
     _locations_by_evidence,
 )
-from tests.evidence.m5_helpers import grounded_cell
+from tests.evidence.helpers import grounded_cell
 
 
 class EvidenceLocationJoinTests(unittest.TestCase):

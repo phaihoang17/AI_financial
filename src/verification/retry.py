@@ -6,9 +6,9 @@ the Programmer, a model, or the sandbox.
 
 from __future__ import annotations
 
+from collections.abc import Mapping
 from dataclasses import dataclass
 from types import MappingProxyType
-from typing import Dict, Mapping, Tuple
 
 from src.supervisor.schemas import ModelTier, Plan
 from src.understanding.schemas import SchemaValidationError
@@ -48,12 +48,12 @@ class RetryClassificationError(ValueError):
 
 def _policies(
     category: VerificationFailureCategory,
-    codes: Tuple[str, ...],
+    codes: tuple[str, ...],
     action: RetryAction,
     *,
     escalation_eligible: bool = False,
     reason: str,
-) -> Dict[Tuple[VerificationFailureCategory, str], FailurePolicy]:
+) -> dict[tuple[VerificationFailureCategory, str], FailurePolicy]:
     policy = FailurePolicy(action, escalation_eligible, reason)
     return {(category, code): policy for code in codes}
 
@@ -174,8 +174,8 @@ _FINANCIAL_PERMANENT = (
 )
 
 
-_failure_policies: Dict[
-    Tuple[VerificationFailureCategory, str], FailurePolicy
+_failure_policies: dict[
+    tuple[VerificationFailureCategory, str], FailurePolicy
 ] = {}
 for _entries in (
     _policies(
@@ -241,11 +241,11 @@ for _entries in (
     _failure_policies.update(_entries)
 
 FAILURE_POLICY_BY_REASON: Mapping[
-    Tuple[VerificationFailureCategory, str], FailurePolicy
+    tuple[VerificationFailureCategory, str], FailurePolicy
 ] = MappingProxyType(_failure_policies)
 
 KNOWN_VERIFIER_REASON_CODES: Mapping[
-    VerificationFailureCategory, Tuple[str, ...]
+    VerificationFailureCategory, tuple[str, ...]
 ] = MappingProxyType(
     {
         category: tuple(

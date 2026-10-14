@@ -11,8 +11,9 @@ missing ``result``). The worker reruns the security subset on its own.
 from __future__ import annotations
 
 import ast
+from collections.abc import Collection, Mapping, Sequence
 from dataclasses import dataclass
-from typing import Any, Collection, Dict, List, Mapping, Optional, Sequence, Set, Tuple
+from typing import Any
 
 MAX_CODE_CHARS = 8000
 ALLOWED_MODULES = {"pandas": "pd", "numpy": "np", "math": "math"}
@@ -62,15 +63,15 @@ SECURITY_CODES = frozenset({
 class CodeIssue:
     code: str
     message: str
-    line: Optional[int]
+    line: int | None
 
-    def to_dict(self) -> Dict[str, Any]:
+    def to_dict(self) -> dict[str, Any]:
         return {"code": self.code, "message": self.message, "line": self.line}
 
 
 @dataclass(frozen=True)
 class CodeValidationReport:
-    issues: Tuple[CodeIssue, ...]
+    issues: tuple[CodeIssue, ...]
 
     @property
     def ok(self) -> bool:
@@ -80,24 +81,24 @@ class CodeValidationReport:
     def security_violation(self) -> bool:
         return any(issue.code in SECURITY_CODES for issue in self.issues)
 
-    def to_dict(self) -> Dict[str, Any]:
+    def to_dict(self) -> dict[str, Any]:
         return {"ok": self.ok, "issues": [issue.to_dict() for issue in self.issues]}
 
 
-def _line(node: ast.AST) -> Optional[int]:
+def _line(node: ast.AST) -> int | None:
     return getattr(node, "lineno", None)
 
 
-def _string_constant(node: ast.AST) -> Optional[str]:
+def _string_constant(node: ast.AST) -> str | None:
     return node.value if isinstance(node, ast.Constant) and isinstance(node.value, str) else None
 
 
-def _subscript_key(node: ast.AST) -> Optional[str]:
+def _subscript_key(node: ast.AST) -> str | None:
     return _string_constant(node.slice) if isinstance(node, ast.Subscript) else None
 
 
-def _assigned_names(tree: ast.AST) -> Set[str]:
-    names: Set[str] = set()
+def _assigned_names(tree: ast.AST) -> set[str]:
+    names: set[str] = set()
     for node in ast.walk(tree):
         if isinstance(node, ast.Name) and isinstance(node.ctx, (ast.Store, ast.Del)):
             names.add(node.id)
@@ -120,7 +121,7 @@ def _assigned_names(tree: ast.AST) -> Set[str]:
 
 def _assigns_result(body: Sequence[ast.stmt]) -> bool:
     for statement in body:
-        targets: List[ast.AST] = []
+        targets: list[ast.AST] = []
         if isinstance(statement, ast.Assign):
             targets = list(statement.targets)
         elif isinstance(statement, (ast.AnnAssign, ast.AugAssign)):
@@ -138,9 +139,9 @@ def _assigns_result(body: Sequence[ast.stmt]) -> bool:
     return False
 
 
-def _metric_literals(node: ast.AST) -> List[Tuple[str, int]]:
+def _metric_literals(node: ast.AST) -> list[tuple[str, int]]:
     """String literals compared against a ``[...]["metric"]`` column."""
-    found: List[Tuple[str, int]] = []
+    found: list[tuple[str, int]] = []
     if isinstance(node, ast.Compare):
         operands = [node.left, *node.comparators]
         if any(_subscript_key(operand) == "metric" for operand in operands):
@@ -168,11 +169,11 @@ def validate_pandas_code(
     code: str,
     *,
     datasets: Mapping[str, Sequence[str]],
-    known_metrics: Optional[Collection[str]] = None,
+    known_metrics: Collection[str] | None = None,
     security_only: bool = False,
 ) -> CodeValidationReport:
     """Return every issue found; an empty report means the code may be executed."""
-    issues: List[CodeIssue] = []
+    issues: list[CodeIssue] = []
     if not isinstance(code, str) or not code.strip():
         return CodeValidationReport((CodeIssue("EMPTY_CODE", "code is empty", None),))
     if len(code) > MAX_CODE_CHARS:
@@ -214,7 +215,7 @@ def validate_pandas_code(
         return CodeValidationReport(tuple(issues))
 
     assigned = _assigned_names(tree)
-    reported: Set[str] = set()
+    reported: set[str] = set()
     for node in ast.walk(tree):
         if isinstance(node, ast.Name) and isinstance(node.ctx, ast.Load):
             name = node.id

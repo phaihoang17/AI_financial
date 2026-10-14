@@ -7,10 +7,11 @@ contains no financial or retrieval policy logic.
 
 from __future__ import annotations
 
+from collections.abc import Mapping, Sequence
 from dataclasses import dataclass, replace
 from enum import Enum
 from types import MappingProxyType
-from typing import Any, Mapping, Optional, Sequence
+from typing import Any
 
 from src.evidence.numeric_masking import mask_numeric_evidence
 from src.evidence.scale_unit_resolver import resolve_scale_units
@@ -28,12 +29,12 @@ from src.orchestration.ports import (
     SandboxStagePort,
 )
 from src.orchestration.schemas import (
-    M9Phase,
     M9_STATE_SCHEMA_VERSION,
+    OrchestrationPhase,
     make_plan_fingerprint,
     make_retrieval_policy_fingerprint,
 )
-from src.orchestration.state import AttemptEntryStage, AttemptRecord, M9State
+from src.orchestration.state import AttemptEntryStage, AttemptRecord, OrchestrationState
 from src.programmer.schemas import ProgrammerInput, ProgrammerResult, ProgrammerStatus
 from src.programmer.validator import ProgramValidationError, validate_program
 from src.retrieval.evidence import (
@@ -49,7 +50,7 @@ from src.sandbox.schemas import (
     SandboxExecutionRequest,
 )
 from src.supervisor.formula_registry import FORMULA_REGISTRY_FINGERPRINT
-from src.supervisor.planner import supervise_batch1
+from src.supervisor.planner import supervise
 from src.supervisor.schemas import EvidenceSource, Plan
 from src.understanding.schemas import SchemaValidationError
 from src.verification.schemas import RetryState, VerificationRequest
@@ -79,7 +80,7 @@ class OrchestrationFailureCode(str, Enum):
 class OrchestrationFailure(SchemaValidationError):
     """Typed M9 failure for orchestration boundaries without a native result."""
 
-    def __init__(self, stage: M9Phase, code: str | Enum, message: str) -> None:
+    def __init__(self, stage: OrchestrationPhase, code: str | Enum, message: str) -> None:
         self.stage = stage
         self.code = code.value if isinstance(code, Enum) else code
         self.message = message
@@ -88,23 +89,23 @@ class OrchestrationFailure(SchemaValidationError):
 
 @dataclass(frozen=True)
 class StageTransition:
-    state: M9State
+    state: OrchestrationState
     stop: bool = False
-    failure_kind: Optional[str] = None
-    failure_code: Optional[str] = None
-    failure_message: Optional[str] = None
-    failure_payload: Optional[dict[str, Any]] = None
+    failure_kind: str | None = None
+    failure_code: str | None = None
+    failure_message: str | None = None
+    failure_payload: dict[str, Any] | None = None
 
     @classmethod
     def stopped(
         cls,
-        state: M9State,
+        state: OrchestrationState,
         *,
         kind: str,
         code: str,
         message: str,
-        payload: Optional[dict[str, Any]] = None,
-    ) -> "StageTransition":
+        payload: dict[str, Any] | None = None,
+    ) -> StageTransition:
         return cls(state, True, kind, code, message, payload)
 
 
@@ -139,13 +140,13 @@ class OrchestrationDependencies:
         )
 
 
-def initial_state(*, request_id: str, raw_question: str) -> M9State:
+def initial_state(*, request_id: str, raw_question: str) -> OrchestrationState:
     """Create the non-terminal checkpoint state for one orchestration run."""
-    return M9State(
+    return OrchestrationState(
         schema_version=M9_STATE_SCHEMA_VERSION,
         request_id=request_id,
         raw_question=raw_question,
-        phase=M9Phase.INPUT,
+        phase=OrchestrationPhase.INPUT,
         outcome=None,
         query_understanding=None,
         planning_gate=None,
@@ -160,8 +161,8 @@ def initial_state(*, request_id: str, raw_question: str) -> M9State:
 
 
 def _exception_transition(
-    state: M9State,
-    stage: M9Phase,
+    state: OrchestrationState,
+    stage: OrchestrationPhase,
     code: OrchestrationFailureCode,
     error: Exception,
 ) -> StageTransition:
@@ -175,18 +176,18 @@ def _exception_transition(
     )
 
 
-def run_nlu(state: M9State, deps: OrchestrationDependencies) -> StageTransition:
+def run_nlu(state: OrchestrationState, deps: OrchestrationDependencies) -> StageTransition:
     try:
         output = deps.nlu.understand(state.raw_question)
         next_state = replace(
             state,
-            phase=M9Phase.NLU,
+            phase=OrchestrationPhase.NLU,
             query_understanding=output.query_understanding,
             planning_gate=output.planning_gate,
         )
     except Exception as error:  # injected boundary: preserve as typed M9 failure
         return _exception_transition(
-            state, M9Phase.NLU, OrchestrationFailureCode.NLU_STAGE_FAILED, error
+            state, OrchestrationPhase.NLU, OrchestrationFailureCode.NLU_STAGE_FAILED, error
         )
     if not output.planning_gate.allowed:
         return StageTransition.stopped(
@@ -221,19 +222,19 @@ def _validate_supported_retrieval_shape(plan: Plan) -> None:
     )
     if actual_pairs != expected_pairs or not text_shape_supported:
         raise OrchestrationFailure(
-            M9Phase.RETRIEVAL,
+            OrchestrationPhase.RETRIEVAL,
             OrchestrationFailureCode.UNSUPPORTED_RETRIEVAL_SHAPE,
             "Plan requirements cannot be represented by the supported M3 v1 shapes",
         )
 
 
-def run_supervisor(state: M9State, deps: OrchestrationDependencies) -> StageTransition:
+def run_supervisor(state: OrchestrationState, deps: OrchestrationDependencies) -> StageTransition:
     assert state.query_understanding is not None
     assert state.planning_gate is not None
-    result = supervise_batch1(state.query_understanding, state.planning_gate)
+    result = supervise(state.query_understanding, state.planning_gate)
     next_state = replace(
         state,
-        phase=M9Phase.SUPERVISOR,
+        phase=OrchestrationPhase.SUPERVISOR,
         supervisor_result=result,
         plan_fingerprint=(
             None if result.plan is None else make_plan_fingerprint(result.plan)
@@ -277,7 +278,7 @@ def run_supervisor(state: M9State, deps: OrchestrationDependencies) -> StageTran
     )
     next_state = replace(
         next_state,
-        phase=M9Phase.RETRIEVAL,
+        phase=OrchestrationPhase.RETRIEVAL,
         retrieval_policy_fingerprint=policy_fingerprint,
         retry_state=RetryState.initial(plan),
         attempts=(attempt,),
@@ -295,7 +296,7 @@ def run_supervisor(state: M9State, deps: OrchestrationDependencies) -> StageTran
     return StageTransition(next_state)
 
 
-def _replace_attempt(state: M9State, phase: M9Phase, **updates: Any) -> M9State:
+def _replace_attempt(state: OrchestrationState, phase: OrchestrationPhase, **updates: Any) -> OrchestrationState:
     if not state.attempts:
         raise SchemaValidationError("attempt update requires the initial attempt")
     current = state.attempts[-1]
@@ -304,7 +305,7 @@ def _replace_attempt(state: M9State, phase: M9Phase, **updates: Any) -> M9State:
 
 
 def _retrieval_request(
-    state: M9State, deps: OrchestrationDependencies
+    state: OrchestrationState, deps: OrchestrationDependencies
 ) -> RetrievalStageRequest:
     plan = state.supervisor_result.plan
     query = state.attempts[-1].retrieval_query
@@ -320,7 +321,7 @@ def _retrieval_request(
 
 
 def run_retrieval(
-    state: M9State, deps: OrchestrationDependencies
+    state: OrchestrationState, deps: OrchestrationDependencies
 ) -> StageTransition:
     try:
         request = _retrieval_request(state, deps)
@@ -338,14 +339,14 @@ def run_retrieval(
             )
         next_state = _replace_attempt(
             state,
-            M9Phase.EVIDENCE,
+            OrchestrationPhase.EVIDENCE,
             retrieval_candidates=artifacts.candidates,
             scale_hints_by_candidate=artifacts.scale_hints_by_candidate,
         )
         return StageTransition(next_state)
     except RetrievalContractError as error:
         return StageTransition.stopped(
-            replace(state, phase=M9Phase.RETRIEVAL),
+            replace(state, phase=OrchestrationPhase.RETRIEVAL),
             kind="RETRIEVAL_ERROR",
             code=error.code,
             message=str(error),
@@ -353,7 +354,7 @@ def run_retrieval(
     except Exception as error:
         return _exception_transition(
             state,
-            M9Phase.RETRIEVAL,
+            OrchestrationPhase.RETRIEVAL,
             OrchestrationFailureCode.RETRIEVAL_STAGE_FAILED,
             error,
         )
@@ -376,7 +377,7 @@ def _locations_by_evidence(
         ]
         if not matches:
             raise OrchestrationFailure(
-                M9Phase.EVIDENCE,
+                OrchestrationPhase.EVIDENCE,
                 OrchestrationFailureCode.EVIDENCE_LOCATION_MISSING,
                 f"TABLE evidence {item.evidence_id} has no exact CellLocation",
             )
@@ -390,7 +391,7 @@ def _locations_by_evidence(
             ] or matches
         if len(matches) != 1:
             raise OrchestrationFailure(
-                M9Phase.EVIDENCE,
+                OrchestrationPhase.EVIDENCE,
                 OrchestrationFailureCode.EVIDENCE_LOCATION_AMBIGUOUS,
                 f"TABLE evidence {item.evidence_id} has multiple CellLocations",
             )
@@ -414,19 +415,19 @@ def _validate_source_table_classes(
             location = locations_by_evidence[evidence_id]
             if location.table_class is None:
                 raise OrchestrationFailure(
-                    M9Phase.EVIDENCE,
+                    OrchestrationPhase.EVIDENCE,
                     OrchestrationFailureCode.TABLE_CLASS_UNAVAILABLE,
                     f"source-backed table_class is unavailable for {evidence_id}",
                 )
             if location.table_class is not requirement.table_class:
                 raise OrchestrationFailure(
-                    M9Phase.EVIDENCE,
+                    OrchestrationPhase.EVIDENCE,
                     OrchestrationFailureCode.TABLE_CLASS_MISMATCH,
                     f"source-backed table_class does not match {requirement.requirement_id}",
                 )
 
 
-def _orchestration_stop(state: M9State, failure: OrchestrationFailure) -> StageTransition:
+def _orchestration_stop(state: OrchestrationState, failure: OrchestrationFailure) -> StageTransition:
     return StageTransition.stopped(
         replace(state, phase=failure.stage),
         kind="ORCHESTRATION",
@@ -437,7 +438,7 @@ def _orchestration_stop(state: M9State, failure: OrchestrationFailure) -> StageT
 
 
 def run_evidence(
-    state: M9State, deps: OrchestrationDependencies
+    state: OrchestrationState, deps: OrchestrationDependencies
 ) -> StageTransition:
     plan = state.supervisor_result.plan
     understanding = state.query_understanding
@@ -452,12 +453,12 @@ def run_evidence(
             )
         )
         current_state = _replace_attempt(
-            current_state, M9Phase.EVIDENCE, cell_locations=locations
+            current_state, OrchestrationPhase.EVIDENCE, cell_locations=locations
         )
     except Exception as error:
         return _exception_transition(
             current_state,
-            M9Phase.EVIDENCE,
+            OrchestrationPhase.EVIDENCE,
             OrchestrationFailureCode.CELL_LOCATION_FAILED,
             error,
         )
@@ -466,12 +467,12 @@ def run_evidence(
             deps.evidence_builder.build(locations, attempt.retrieval_candidates)
         )
         current_state = _replace_attempt(
-            current_state, M9Phase.EVIDENCE, evidence_items=evidence_items
+            current_state, OrchestrationPhase.EVIDENCE, evidence_items=evidence_items
         )
     except Exception as error:
         return _exception_transition(
             current_state,
-            M9Phase.EVIDENCE,
+            OrchestrationPhase.EVIDENCE,
             OrchestrationFailureCode.EVIDENCE_BUILD_FAILED,
             error,
         )
@@ -500,7 +501,7 @@ def run_evidence(
             )
         current_state = _replace_attempt(
             current_state,
-            M9Phase.EVIDENCE,
+            OrchestrationPhase.EVIDENCE,
             evidence_completeness=completeness,
         )
         if not completeness.complete:
@@ -523,12 +524,12 @@ def run_evidence(
         )
         current_state = _replace_attempt(
             current_state,
-            M9Phase.EVIDENCE,
+            OrchestrationPhase.EVIDENCE,
             scale_unit_resolutions=resolutions,
         )
         schema_links = tuple(link_schema(plan, evidence_items, locations_by_evidence))
         current_state = _replace_attempt(
-            current_state, M9Phase.EVIDENCE, schema_links=schema_links
+            current_state, OrchestrationPhase.EVIDENCE, schema_links=schema_links
         )
         masked = mask_numeric_evidence(
             plan,
@@ -538,7 +539,7 @@ def run_evidence(
             resolutions,
         )
         current_state = _replace_attempt(
-            current_state, M9Phase.EVIDENCE, masked_evidence=masked
+            current_state, OrchestrationPhase.EVIDENCE, masked_evidence=masked
         )
         binding_map = build_binding_map(
             masked, evidence_items, locations_by_evidence, resolutions
@@ -546,7 +547,7 @@ def run_evidence(
         binding_ref = deps.binding_store.put(binding_map)
         if not isinstance(binding_ref, str) or not binding_ref.strip():
             raise OrchestrationFailure(
-                M9Phase.EVIDENCE,
+                OrchestrationPhase.EVIDENCE,
                 OrchestrationFailureCode.BINDING_STORE_FAILED,
                 "BindingStorePort returned an invalid reference",
             )
@@ -557,7 +558,7 @@ def run_evidence(
         )
         current_state = _replace_attempt(
             current_state,
-            M9Phase.PROGRAMMER,
+            OrchestrationPhase.PROGRAMMER,
             binding_ref=binding_ref,
             programmer_input=programmer_input,
         )
@@ -567,14 +568,14 @@ def run_evidence(
     except Exception as error:
         return _exception_transition(
             current_state,
-            M9Phase.EVIDENCE,
+            OrchestrationPhase.EVIDENCE,
             OrchestrationFailureCode.EVIDENCE_PIPELINE_FAILED,
             error,
         )
 
 
 def run_programmer(
-    state: M9State, deps: OrchestrationDependencies
+    state: OrchestrationState, deps: OrchestrationDependencies
 ) -> StageTransition:
     attempt = state.attempts[-1]
     assert attempt.programmer_input is not None
@@ -594,12 +595,12 @@ def run_programmer(
                     failure_message=str(error),
                 )
         next_state = _replace_attempt(
-            state, M9Phase.PROGRAMMER, programmer_result=result
+            state, OrchestrationPhase.PROGRAMMER, programmer_result=result
         )
     except Exception as error:
         return _exception_transition(
             state,
-            M9Phase.PROGRAMMER,
+            OrchestrationPhase.PROGRAMMER,
             OrchestrationFailureCode.PROGRAMMER_STAGE_FAILED,
             error,
         )
@@ -611,14 +612,14 @@ def run_programmer(
             message=result.failure_message or "Programmer rejected the request.",
             payload=result.to_dict(),
         )
-    return StageTransition(replace(next_state, phase=M9Phase.SANDBOX))
+    return StageTransition(replace(next_state, phase=OrchestrationPhase.SANDBOX))
 
 
-def _resolve_binding(state: M9State, deps: OrchestrationDependencies):
+def _resolve_binding(state: OrchestrationState, deps: OrchestrationDependencies):
     binding_ref = state.attempts[-1].binding_ref
     if binding_ref is None or not deps.binding_store.contains(binding_ref):
         raise OrchestrationFailure(
-            M9Phase.EVIDENCE,
+            OrchestrationPhase.EVIDENCE,
             OrchestrationFailureCode.BINDING_REFERENCE_UNAVAILABLE,
             "process-local binding reference is unavailable; re-enter EVIDENCE",
         )
@@ -626,7 +627,7 @@ def _resolve_binding(state: M9State, deps: OrchestrationDependencies):
 
 
 def run_sandbox(
-    state: M9State, deps: OrchestrationDependencies
+    state: OrchestrationState, deps: OrchestrationDependencies
 ) -> StageTransition:
     attempt = state.attempts[-1]
     assert attempt.programmer_input is not None
@@ -643,14 +644,14 @@ def run_sandbox(
         )
         result = deps.sandbox.execute(request)
         next_state = _replace_attempt(
-            state, M9Phase.SANDBOX, execution_result=result
+            state, OrchestrationPhase.SANDBOX, execution_result=result
         )
     except OrchestrationFailure as failure:
         return _orchestration_stop(state, failure)
     except Exception as error:
         return _exception_transition(
             state,
-            M9Phase.SANDBOX,
+            OrchestrationPhase.SANDBOX,
             OrchestrationFailureCode.SANDBOX_STAGE_FAILED,
             error,
         )
@@ -663,11 +664,11 @@ def run_sandbox(
             message=result.failure.message,
             payload=result.to_dict(),
         )
-    return StageTransition(replace(next_state, phase=M9Phase.VERIFICATION))
+    return StageTransition(replace(next_state, phase=OrchestrationPhase.VERIFICATION))
 
 
 def run_verification(
-    state: M9State, deps: OrchestrationDependencies
+    state: OrchestrationState, deps: OrchestrationDependencies
 ) -> StageTransition:
     attempt = state.attempts[-1]
     plan = state.supervisor_result.plan
@@ -693,19 +694,19 @@ def run_verification(
         report = verify(request)
         if report is None:
             raise OrchestrationFailure(
-                M9Phase.VERIFICATION,
+                OrchestrationPhase.VERIFICATION,
                 OrchestrationFailureCode.VERIFICATION_BYPASSED,
                 "successful execution unexpectedly bypassed verification",
             )
         next_state = _replace_attempt(
-            state, M9Phase.VERIFICATION, verification_report=report
+            state, OrchestrationPhase.VERIFICATION, verification_report=report
         )
     except OrchestrationFailure as failure:
         return _orchestration_stop(state, failure)
     except Exception as error:
         return _exception_transition(
             state,
-            M9Phase.VERIFICATION,
+            OrchestrationPhase.VERIFICATION,
             OrchestrationFailureCode.VERIFICATION_STAGE_FAILED,
             error,
         )

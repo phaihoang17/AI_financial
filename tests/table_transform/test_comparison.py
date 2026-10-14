@@ -1,6 +1,5 @@
 """Unit tests for TASK-06D comparison evaluation between static Programmer and TABLE_TRANSFORM."""
 
-import pytest
 
 from src.evaluation.table_transform_comparison import (
     COMPARISON_SCHEMA_VERSION,

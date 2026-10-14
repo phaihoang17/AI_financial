@@ -2,19 +2,19 @@
 
 from __future__ import annotations
 
+from collections.abc import Mapping, Sequence
 from hashlib import sha256
 import json
 import os
 from pathlib import Path
 import shutil
 import sqlite3
-from typing import Any, Dict, List, Mapping, Sequence, Tuple
+from typing import Any
 
-from src.indexing.embedding_schemas import EMBEDDING_DIMENSION, EmbeddingChunk, EmbeddingRecord
 from src.indexing.embedding_indexer import EMBEDDING_ALGORITHM_VERSION
+from src.indexing.embedding_schemas import EMBEDDING_DIMENSION, EmbeddingChunk, EmbeddingRecord
 from src.indexing.schemas import RetrievalRepresentation
 from src.understanding.schemas import SchemaValidationError
-
 
 INDEX_SCHEMA_VERSION = "m2b-sharded-index-v1"
 MAX_VECTORS_PER_SHARD = 100_000
@@ -58,7 +58,7 @@ def _atomic_write_json(path: Path, value: Any) -> None:
     _atomic_write_bytes(path, _canonical(value))
 
 
-def _load_faiss_numpy() -> Tuple[Any, Any]:
+def _load_faiss_numpy() -> tuple[Any, Any]:
     try:
         import faiss
         import numpy as np
@@ -87,7 +87,7 @@ def _validate_inputs(
     representations: Sequence[RetrievalRepresentation],
     model_fingerprint: str,
     chunking_config_fingerprint: str,
-) -> Tuple[List[EmbeddingRecord], Dict[str, EmbeddingChunk], Dict[str, RetrievalRepresentation]]:
+) -> tuple[list[EmbeddingRecord], dict[str, EmbeddingChunk], dict[str, RetrievalRepresentation]]:
     if not records:
         raise IndexStorageError("EMPTY_INDEX", "at least one embedding record is required")
     if len({record.embedding_id for record in records}) != len(records):
@@ -142,7 +142,7 @@ def _write_metadata(
     representations: Mapping[str, RetrievalRepresentation],
     model_fingerprint: str,
     chunking_config_fingerprint: str,
-    shard_lookup: Mapping[str, Tuple[str, int]],
+    shard_lookup: Mapping[str, tuple[str, int]],
 ) -> None:
     temporary = path.with_name(f".{path.name}.tmp")
     if temporary.exists():
@@ -246,7 +246,7 @@ def build_sharded_index(
     *,
     model_fingerprint: str,
     chunking_config_fingerprint: str,
-) -> Dict[str, Any]:
+) -> dict[str, Any]:
     """Build and atomically publish an immutable sharded artifact."""
 
     records, chunks_by_id, representations_by_id = _validate_inputs(
@@ -259,8 +259,8 @@ def build_sharded_index(
     final = root / "artifacts" / build_id
     staging_shards = staging / "shards"
     staging_shards.mkdir(parents=True, exist_ok=True)
-    shard_entries: List[Dict[str, Any]] = []
-    shard_lookup: Dict[str, Tuple[str, int]] = {}
+    shard_entries: list[dict[str, Any]] = []
+    shard_lookup: dict[str, tuple[str, int]] = {}
     for shard_number, start in enumerate(range(0, len(records), MAX_VECTORS_PER_SHARD)):
         shard_records = records[start:start + MAX_VECTORS_PER_SHARD]
         shard_id = f"shard-{shard_number:05d}"
@@ -324,7 +324,7 @@ def load_sharded_manifest(
     verify: bool = True,
     expected_model_fingerprint: str | None = None,
     expected_chunking_config_fingerprint: str | None = None,
-) -> Dict[str, Any]:
+) -> dict[str, Any]:
     root = Path(artifact_root)
     manifest_path = root / "manifest.json"
     if not manifest_path.is_file():

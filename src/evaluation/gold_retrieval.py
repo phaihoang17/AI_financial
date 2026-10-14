@@ -25,11 +25,12 @@ Contents:
 
 from __future__ import annotations
 
+from collections.abc import Callable, Mapping, Sequence
 from dataclasses import dataclass
 from enum import Enum
 import json
 from pathlib import Path
-from typing import Any, Callable, Dict, List, Mapping, Optional, Sequence, Tuple
+from typing import Any
 
 from src.evaluation.corpus_reference_index import CorpusReferenceIndex
 from src.evaluation.retrieval import RequiredEvidence, mrr, recall_at_k
@@ -87,7 +88,7 @@ _GOLD_CASE_KEYS = frozenset(
 _GOLD_BEARING = frozenset({GoldAnnotationStatus.AUTO_DERIVABLE, GoldAnnotationStatus.VERIFIED})
 
 
-def _clean_str(value: Any, name: str, *, required: bool = True) -> Optional[str]:
+def _clean_str(value: Any, name: str, *, required: bool = True) -> str | None:
     if value is None:
         if required:
             raise GoldContractError("GOLD_CASE_INVALID", f"{name} is required")
@@ -97,7 +98,7 @@ def _clean_str(value: Any, name: str, *, required: bool = True) -> Optional[str]
     return value
 
 
-def _clean_str_list(value: Any, name: str) -> Tuple[str, ...]:
+def _clean_str_list(value: Any, name: str) -> tuple[str, ...]:
     if value is None:
         return ()
     if not isinstance(value, list) or any(not isinstance(v, str) or not v for v in value):
@@ -108,14 +109,14 @@ def _clean_str_list(value: Any, name: str) -> Tuple[str, ...]:
 @dataclass(frozen=True)
 class GoldAnswer:
     value: str
-    unit: Optional[str] = None
-    scale: Optional[str] = None
+    unit: str | None = None
+    scale: str | None = None
 
-    def to_dict(self) -> Dict[str, Any]:
+    def to_dict(self) -> dict[str, Any]:
         return {"value": self.value, "unit": self.unit, "scale": self.scale}
 
     @classmethod
-    def from_dict(cls, value: Any) -> "GoldAnswer":
+    def from_dict(cls, value: Any) -> GoldAnswer:
         if not isinstance(value, Mapping) or "value" not in value:
             raise GoldContractError("GOLD_CASE_INVALID", "gold_answer must have a 'value'")
         raw = value["value"]
@@ -132,13 +133,13 @@ class GoldAnswer:
 class GoldProvenance:
     source: str
     method: GoldProvenanceMethod
-    notes: Optional[str] = None
+    notes: str | None = None
 
-    def to_dict(self) -> Dict[str, Any]:
+    def to_dict(self) -> dict[str, Any]:
         return {"source": self.source, "method": self.method.value, "notes": self.notes}
 
     @classmethod
-    def from_dict(cls, value: Any) -> "GoldProvenance":
+    def from_dict(cls, value: Any) -> GoldProvenance:
         if not isinstance(value, Mapping) or "source" not in value or "method" not in value:
             raise GoldContractError(
                 "GOLD_CASE_INVALID", "provenance needs 'source' and 'method'"
@@ -155,18 +156,18 @@ class GoldRetrievalCase:
     question_id: str
     question: str
     company_ticker: str
-    company_name: Optional[str]
-    period: Optional[str]
-    period_kind: Optional[str]
-    statement_scope: Optional[str]
-    metric: Optional[str]
-    operation: Optional[str]
-    gold_report_id: Optional[str]
-    gold_table_id: Optional[str]
-    gold_paragraph_id: Optional[str]
-    gold_chunk_ids: Tuple[str, ...]
-    gold_source_cell_ids: Tuple[str, ...]
-    gold_answer: Optional[GoldAnswer]
+    company_name: str | None
+    period: str | None
+    period_kind: str | None
+    statement_scope: str | None
+    metric: str | None
+    operation: str | None
+    gold_report_id: str | None
+    gold_table_id: str | None
+    gold_paragraph_id: str | None
+    gold_chunk_ids: tuple[str, ...]
+    gold_source_cell_ids: tuple[str, ...]
+    gold_answer: GoldAnswer | None
     provenance: GoldProvenance
     annotation_status: GoldAnnotationStatus
 
@@ -182,7 +183,7 @@ class GoldRetrievalCase:
     def is_gold_bearing(self) -> bool:
         return self.annotation_status in _GOLD_BEARING and self.has_evidence_pointer()
 
-    def evidence_signature(self) -> Tuple[Any, ...]:
+    def evidence_signature(self) -> tuple[Any, ...]:
         return (
             self.company_ticker,
             self.period,
@@ -194,7 +195,7 @@ class GoldRetrievalCase:
             tuple(sorted(self.gold_source_cell_ids)),
         )
 
-    def to_dict(self) -> Dict[str, Any]:
+    def to_dict(self) -> dict[str, Any]:
         return {
             "question_id": self.question_id,
             "question": self.question,
@@ -215,7 +216,7 @@ class GoldRetrievalCase:
         }
 
     @classmethod
-    def from_dict(cls, value: Any) -> "GoldRetrievalCase":
+    def from_dict(cls, value: Any) -> GoldRetrievalCase:
         if not isinstance(value, Mapping):
             raise GoldContractError("GOLD_CASE_INVALID", "case must be an object")
         unknown = set(value) - _GOLD_CASE_KEYS
@@ -257,9 +258,9 @@ class GoldRetrievalCase:
 # --------------------------------------------------------------------------- #
 # JSONL round-trip
 # --------------------------------------------------------------------------- #
-def load_gold_file(path: str | Path) -> List[GoldRetrievalCase]:
+def load_gold_file(path: str | Path) -> list[GoldRetrievalCase]:
     text = Path(path).read_text(encoding="utf-8")
-    cases: List[GoldRetrievalCase] = []
+    cases: list[GoldRetrievalCase] = []
     for line_number, line in enumerate(text.splitlines(), start=1):
         line = line.strip()
         if not line or line.startswith("//"):
@@ -282,12 +283,12 @@ def dump_gold_cases(cases: Sequence[GoldRetrievalCase]) -> str:
 # --------------------------------------------------------------------------- #
 @dataclass(frozen=True)
 class GoldValidationIssue:
-    question_id: Optional[str]
+    question_id: str | None
     severity: str  # "ERROR" | "WARNING"
     code: str
     message: str
 
-    def to_dict(self) -> Dict[str, Any]:
+    def to_dict(self) -> dict[str, Any]:
         return {
             "question_id": self.question_id,
             "severity": self.severity,
@@ -298,7 +299,7 @@ class GoldValidationIssue:
 
 @dataclass(frozen=True)
 class GoldValidationReport:
-    issues: Tuple[GoldValidationIssue, ...]
+    issues: tuple[GoldValidationIssue, ...]
     case_count: int
     gold_bearing_count: int
     status_counts: Mapping[str, int]
@@ -315,7 +316,7 @@ class GoldValidationReport:
     def ok(self) -> bool:
         return self.error_count == 0
 
-    def to_dict(self) -> Dict[str, Any]:
+    def to_dict(self) -> dict[str, Any]:
         return {
             "schema_version": GOLD_RETRIEVAL_SCHEMA_VERSION,
             "ok": self.ok,
@@ -329,15 +330,15 @@ class GoldValidationReport:
 
 
 def validate_gold_cases(
-    cases: Sequence[GoldRetrievalCase], index: Optional[CorpusReferenceIndex] = None
+    cases: Sequence[GoldRetrievalCase], index: CorpusReferenceIndex | None = None
 ) -> GoldValidationReport:
     """Schema is already enforced by ``from_dict``; this adds cross-case and
     corpus-referential checks. Referential checks are skipped when ``index`` is
     ``None`` (a warning is emitted instead)."""
-    issues: List[GoldValidationIssue] = []
-    seen_ids: Dict[str, int] = {}
-    seen_signatures: Dict[Tuple[Any, ...], str] = {}
-    status_counts: Dict[str, int] = {}
+    issues: list[GoldValidationIssue] = []
+    seen_ids: dict[str, int] = {}
+    seen_signatures: dict[tuple[Any, ...], str] = {}
+    status_counts: dict[str, int] = {}
 
     for case in cases:
         status_counts[case.annotation_status.value] = (
@@ -409,8 +410,8 @@ def validate_gold_cases(
 
 def _referential_issues(
     case: GoldRetrievalCase, index: CorpusReferenceIndex
-) -> List[GoldValidationIssue]:
-    out: List[GoldValidationIssue] = []
+) -> list[GoldValidationIssue]:
+    out: list[GoldValidationIssue] = []
     report_meta = None
     if case.gold_report_id is not None:
         report_meta = index.report_meta(case.gold_report_id)
@@ -501,9 +502,9 @@ def _referential_issues(
 class ClassificationResult:
     question_id: str
     status: GoldAnnotationStatus
-    reasons: Tuple[str, ...]
+    reasons: tuple[str, ...]
 
-    def to_dict(self) -> Dict[str, Any]:
+    def to_dict(self) -> dict[str, Any]:
         return {
             "question_id": self.question_id,
             "status": self.status.value,
@@ -523,7 +524,7 @@ def classify_question(record: Mapping[str, Any], index: CorpusReferenceIndex) ->
     qid = str(record.get("question_id") or record.get("id") or record.get("qid") or "")
     company = record.get("company") or {}
     ticker = (company.get("ticker") if isinstance(company, Mapping) else None) or record.get("ticker")
-    reasons: List[str] = []
+    reasons: list[str] = []
 
     if not ticker:
         return ClassificationResult(qid, GoldAnnotationStatus.UNSUPPORTED, ("no company ticker",))
@@ -564,8 +565,8 @@ def classify_question(record: Mapping[str, Any], index: CorpusReferenceIndex) ->
 # --------------------------------------------------------------------------- #
 # Bridge to the existing Recall@k / MRR metric layer
 # --------------------------------------------------------------------------- #
-def to_required_evidence(case: GoldRetrievalCase) -> Tuple[RequiredEvidence, ...]:
-    out: List[RequiredEvidence] = []
+def to_required_evidence(case: GoldRetrievalCase) -> tuple[RequiredEvidence, ...]:
+    out: list[RequiredEvidence] = []
     if case.gold_table_id is not None or (
         case.gold_report_id is not None and case.gold_paragraph_id is None
     ):
@@ -600,13 +601,13 @@ def to_required_evidence(case: GoldRetrievalCase) -> Tuple[RequiredEvidence, ...
 class GoldRetrievalMetrics:
     evaluated_case_count: int
     skipped_case_count: int
-    k_values: Tuple[int, ...]
+    k_values: tuple[int, ...]
     recall_at_k: Mapping[int, float]
     mean_reciprocal_rank: float
     mrr_hit_count: int
-    per_case: Tuple[Mapping[str, Any], ...]
+    per_case: tuple[Mapping[str, Any], ...]
 
-    def to_dict(self) -> Dict[str, Any]:
+    def to_dict(self) -> dict[str, Any]:
         return {
             "schema_version": GOLD_RETRIEVAL_SCHEMA_VERSION,
             "evaluated_case_count": self.evaluated_case_count,
@@ -634,10 +635,10 @@ def compute_gold_retrieval_metrics(
     ks = tuple(sorted({int(k) for k in k_values}))
     evaluated = 0
     skipped = 0
-    recall_sums: Dict[int, float] = {k: 0.0 for k in ks}
+    recall_sums: dict[int, float] = {k: 0.0 for k in ks}
     reciprocal_sum = 0.0
     mrr_hits = 0
-    per_case: List[Mapping[str, Any]] = []
+    per_case: list[Mapping[str, Any]] = []
 
     for case in cases:
         if not case.is_gold_bearing():
@@ -681,12 +682,12 @@ def score_answer_correctness(
     predicted: Mapping[str, str],
     *,
     relative_tolerance: float = 1e-4,
-) -> Dict[str, Any]:
+) -> dict[str, Any]:
     """Score predicted answers against VERIFIED gold answers only."""
     scored = 0
     correct = 0
     missing_prediction = 0
-    per_case: List[Mapping[str, Any]] = []
+    per_case: list[Mapping[str, Any]] = []
     for case in cases:
         if case.annotation_status is not GoldAnnotationStatus.VERIFIED or case.gold_answer is None:
             continue

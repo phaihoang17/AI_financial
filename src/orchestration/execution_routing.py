@@ -2,7 +2,7 @@
 
 from __future__ import annotations
 
-from typing import Mapping
+from collections.abc import Mapping
 
 from src.numeric.scale_conversion import ScaleConversionFailureCode
 from src.orchestration.schemas import (
@@ -22,7 +22,6 @@ from src.sandbox.schemas import ExecutionFailureStage, ExecutionResult
 from src.supervisor.schemas import Plan
 from src.understanding.schemas import SchemaValidationError
 from src.verification.schemas import RetryState
-
 
 _POLICY_PROGRAMMER = frozenset(
     {

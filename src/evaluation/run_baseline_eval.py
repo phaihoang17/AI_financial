@@ -3,20 +3,21 @@
 from __future__ import annotations
 
 import argparse
+from collections.abc import Sequence
 import json
 from pathlib import Path
-from typing import Optional, Sequence
 
 from src.evaluation.baseline import evaluate_strong_strict_baseline
 from src.evaluation.corpus_reference_index import (
-    CorpusReferenceIndexError, load_or_build_reference_index,
+    CorpusReferenceIndexError,
+    load_or_build_reference_index,
 )
 from src.evaluation.gold_retrieval import GoldContractError, load_gold_file
 from src.evaluation.production_baseline import blocked_baseline, evaluate_production_baseline
 from src.understanding.schemas import SchemaValidationError
 
 
-def main(argv: Optional[Sequence[str]] = None) -> int:
+def main(argv: Sequence[str] | None = None) -> int:
     parser = argparse.ArgumentParser()
     parser.add_argument("--mode", choices=("fixture", "strong-strict", "production"), default="fixture")
     parser.add_argument("--gold", default="gold/retrieval/pilot.jsonl")

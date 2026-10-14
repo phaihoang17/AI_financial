@@ -1,21 +1,20 @@
 from src.evaluation.harness import EvaluationFailureStage
 from src.orchestration.schemas import (
+    M9_STATE_SCHEMA_VERSION,
     FailureAttribution,
     FinalResponse,
     FinalResponseStatus,
-    M9Phase,
-    M9_STATE_SCHEMA_VERSION,
+    OrchestrationPhase,
     make_plan_fingerprint,
     make_retrieval_policy_fingerprint,
     terminal_retry_state,
 )
-from src.orchestration.state import AttemptEntryStage, AttemptRecord, M9State
+from src.orchestration.state import AttemptEntryStage, AttemptRecord, OrchestrationState
 from src.retrieval.query_builder import build_retrieval_query
-from src.supervisor.planner import supervise_batch1
+from src.supervisor.planner import supervise
 from src.understanding.planning_gate import PlanningGate
 from src.verification.schemas import RetryState
-from tests.evidence.m5_helpers import understanding
-
+from tests.evidence.helpers import understanding
 
 ARTIFACT_VERSIONS = {
     "bm25": "fixture-bm25-v1",
@@ -27,7 +26,7 @@ ARTIFACT_VERSIONS = {
 def approved_contracts():
     query_understanding = understanding()
     gate = PlanningGate(True, [], [])
-    supervisor_result = supervise_batch1(query_understanding, gate)
+    supervisor_result = supervise(query_understanding, gate)
     assert supervisor_result.plan is not None
     plan = supervisor_result.plan
     query = build_retrieval_query(plan, query_understanding)
@@ -49,7 +48,7 @@ def approved_contracts():
     )
 
 
-def active_state(*, binding_ref="binding://process-local/opaque-1") -> M9State:
+def active_state(*, binding_ref="binding://process-local/opaque-1") -> OrchestrationState:
     (
         query_understanding,
         gate,
@@ -67,11 +66,11 @@ def active_state(*, binding_ref="binding://process-local/opaque-1") -> M9State:
         retrieval_query=query,
         binding_ref=binding_ref,
     )
-    return M9State(
+    return OrchestrationState(
         schema_version=M9_STATE_SCHEMA_VERSION,
         request_id="request-001",
         raw_question=query_understanding.raw_question,
-        phase=M9Phase.RETRIEVAL,
+        phase=OrchestrationPhase.RETRIEVAL,
         outcome=None,
         query_understanding=query_understanding,
         planning_gate=gate,
@@ -85,7 +84,7 @@ def active_state(*, binding_ref="binding://process-local/opaque-1") -> M9State:
     )
 
 
-def terminal_abstain_response(state: M9State) -> FinalResponse:
+def terminal_abstain_response(state: OrchestrationState) -> FinalResponse:
     assert state.retry_state is not None
     attribution = FailureAttribution(
         stage=EvaluationFailureStage.EVIDENCE,

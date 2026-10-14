@@ -1,6 +1,6 @@
 import unittest
 
-from src.retrieval.batch3 import Batch3Retriever
+from src.retrieval.hybrid_retriever import HybridRetriever
 from src.retrieval.parallel import (
     retrieve_multi_table_parallel,
     retrieve_sources_parallel,
@@ -93,7 +93,7 @@ class ParallelMultiTableTests(unittest.TestCase):
     def test_parallel_matches_sequential(self):
         stub = StubRetriever()
         q = query(["Doanh thu", "LNST"], ["2023", "2024"])
-        sequential = Batch3Retriever.retrieve_multi_table(stub, q, top_k=5)
+        sequential = HybridRetriever.retrieve_multi_table(stub, q, top_k=5)
         parallel = retrieve_multi_table_parallel(stub, q, top_k=5)
         self.assertEqual(_summ(parallel), _summ(sequential))
         self.assertEqual(len(parallel.subquery_results), 4)
@@ -101,7 +101,7 @@ class ParallelMultiTableTests(unittest.TestCase):
     def test_parallel_matches_sequential_with_missing_and_failures(self):
         stub = StubRetriever(empty_for={"LNST"}, fail_for={"Doanh thu"})
         q = query(["Doanh thu", "LNST"], ["2023", "2024"])
-        sequential = Batch3Retriever.retrieve_multi_table(stub, q, top_k=5)
+        sequential = HybridRetriever.retrieve_multi_table(stub, q, top_k=5)
         parallel = retrieve_multi_table_parallel(stub, q, top_k=5)
         self.assertEqual(_summ(parallel), _summ(sequential))
         self.assertFalse(parallel.complete)

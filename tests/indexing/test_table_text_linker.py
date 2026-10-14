@@ -2,9 +2,8 @@ import unittest
 
 from src.indexing.document_parser import parse_document
 from src.indexing.paragraph_extractor import extract_paragraphs
-from src.indexing.table_text_linker import link_tables_to_paragraphs
 from src.indexing.schemas import TableTextLinkBasis, TableTextRelation
-
+from src.indexing.table_text_linker import link_tables_to_paragraphs
 from tests.indexing.test_document_parser import make_source
 
 

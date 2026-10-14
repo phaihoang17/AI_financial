@@ -21,6 +21,7 @@ from __future__ import annotations
 
 import argparse
 from collections import Counter, defaultdict
+from collections.abc import Sequence
 from dataclasses import dataclass
 from decimal import Decimal, getcontext
 from hashlib import sha256
@@ -28,8 +29,8 @@ import json
 from pathlib import Path
 import random
 import re
+from typing import Any
 import unicodedata
-from typing import Any, Dict, List, Optional, Sequence, Tuple
 
 from src.evaluation.wide_gold import (
     _MULTIPLIER,
@@ -66,11 +67,11 @@ class MetricSpec:
     statement: str
     code: str
     label: str  # regex over the folded label
-    names: Tuple[str, ...]  # question phrasings
+    names: tuple[str, ...]  # question phrasings
     growth: bool = True  # sampled for growth only when values are positive
 
 
-SPECS: Tuple[MetricSpec, ...] = (
+SPECS: tuple[MetricSpec, ...] = (
     MetricSpec("NET_REVENUE", INCOME, "10", r"doanh thu thuan",
                ("doanh thu thuần", "doanh thu thuần về bán hàng và cung cấp dịch vụ")),
     MetricSpec("GROSS_PROFIT", INCOME, "20", r"loi nhuan gop",
@@ -124,12 +125,12 @@ class StatementRow:
     scale: str
 
 
-def _first(patterns: Sequence[str], text: str) -> Optional[int]:
+def _first(patterns: Sequence[str], text: str) -> int | None:
     found = [match.start() for pattern in patterns for match in [re.search(pattern, text)] if match]
     return min(found) if found else None
 
 
-def column_orientation(header_text: str, year: int) -> Optional[bool]:
+def column_orientation(header_text: str, year: int) -> bool | None:
     """True when the current (closing) column precedes the prior (opening) one.
 
     Balance sheets print ``31/12/Y | 01/01/Y`` or ``Số cuối năm | Số đầu năm``,
@@ -150,9 +151,9 @@ def column_orientation(header_text: str, year: int) -> Optional[bool]:
     return close_at < open_at
 
 
-def find_statement_rows(raw_text: str, report_year: int) -> Tuple[Dict[str, List[StatementRow]], Counter]:
+def find_statement_rows(raw_text: str, report_year: int) -> tuple[dict[str, list[StatementRow]], Counter]:
     """Rows per metric (code and label agree) in annual tables, minus conflicts."""
-    found: Dict[str, List[StatementRow]] = defaultdict(list)
+    found: dict[str, list[StatementRow]] = defaultdict(list)
     reasons: Counter = Counter()
     for match in re.finditer(r"<table.*?</table>", raw_text, re.S):
         parser = _Rows()
@@ -173,7 +174,7 @@ def find_statement_rows(raw_text: str, report_year: int) -> Tuple[Dict[str, List
                     continue  # a line code precedes the amounts; a later cell is a value (e.g. 100%)
                 labels = [c for c in cells[:at + 2] if c and c != spec.code and not _VALUE.fullmatch(c)]
                 if any(_LABELS[spec.metric_id].search(fold(label)) for label in labels):
-                    metrics.append((spec, next(l for l in labels if _LABELS[spec.metric_id].search(fold(l)))))
+                    metrics.append((spec, next(label for label in labels if _LABELS[spec.metric_id].search(fold(label)))))
             if len(metrics) > 1:
                 reasons["AMBIGUOUS_ROW"] += 1
             if len(metrics) != 1:
@@ -200,7 +201,7 @@ def find_statement_rows(raw_text: str, report_year: int) -> Tuple[Dict[str, List
             found[spec.metric_id].append(StatementRow(
                 spec.metric_id, match.start(), row_index, current, prior, parser.rows[row_index][current],
                 parser.rows[row_index][prior], _to_decimal(cells[current]), _to_decimal(cells[prior]), label, scale))
-    kept: Dict[str, List[StatementRow]] = {}
+    kept: dict[str, list[StatementRow]] = {}
     for metric_id, rows in found.items():
         if len({raw_vnd(row) + "|" + raw_vnd(row, "prior") for row in rows}) != 1:
             reasons[f"{metric_id}.CONFLICTING_ROWS"] += 1
@@ -213,11 +214,11 @@ def raw_vnd(row: StatementRow, column: str = "current") -> str:
     return str(int(getattr(row, column)) * _MULTIPLIER[row.scale])
 
 
-Key = Tuple[str, str, int]  # ticker, scope, report year
+Key = tuple[str, str, int]  # ticker, scope, report year
 
 
-def extract_report_values(manifest: Dict[str, Any], raw_root: Path) -> Tuple[Dict[Key, Dict[str, Any]], Counter]:
-    values: Dict[Key, Dict[str, Any]] = {}
+def extract_report_values(manifest: dict[str, Any], raw_root: Path) -> tuple[dict[Key, dict[str, Any]], Counter]:
+    values: dict[Key, dict[str, Any]] = {}
     skips: Counter = Counter()
     duplicates = set()
     for report in manifest["reports"]:
@@ -238,9 +239,9 @@ def extract_report_values(manifest: Dict[str, Any], raw_root: Path) -> Tuple[Dic
     return values, skips
 
 
-def cross_checked(values: Dict[Key, Dict[str, Any]]) -> Tuple[Dict[Tuple[str, Key], List[StatementRow]], Counter]:
+def cross_checked(values: dict[Key, dict[str, Any]]) -> tuple[dict[tuple[str, Key], list[StatementRow]], Counter]:
     """(metric, key) values confirmed by report Y+1's prior-year/opening column."""
-    kept: Dict[Tuple[str, Key], List[StatementRow]] = {}
+    kept: dict[tuple[str, Key], list[StatementRow]] = {}
     skips: Counter = Counter()
     for key, value in values.items():
         later = values.get((key[0], key[1], key[2] + 1))
@@ -255,11 +256,11 @@ def cross_checked(values: Dict[Key, Dict[str, Any]]) -> Tuple[Dict[Tuple[str, Ke
     return kept, skips
 
 
-def _decimal(verified: Dict[Tuple[str, Key], List[StatementRow]], metric_id: str, key: Key) -> Decimal:
+def _decimal(verified: dict[tuple[str, Key], list[StatementRow]], metric_id: str, key: Key) -> Decimal:
     return Decimal(raw_vnd(verified[(metric_id, key)][0]))
 
 
-def ratio_inputs(ratio_id: str, key: Key) -> List[Tuple[str, Key]]:
+def ratio_inputs(ratio_id: str, key: Key) -> list[tuple[str, Key]]:
     ratio = RATIOS_BY_ID[ratio_id]
     inputs = [(ratio.numerator, key), (ratio.denominator, key)]
     if ratio.denominator_basis == AVERAGE_OPENING_CLOSING:
@@ -267,7 +268,7 @@ def ratio_inputs(ratio_id: str, key: Key) -> List[Tuple[str, Key]]:
     return inputs
 
 
-def ratio_answer(ratio_id: str, key: Key, verified: Dict[Tuple[str, Key], List[StatementRow]]) -> Optional[str]:
+def ratio_answer(ratio_id: str, key: Key, verified: dict[tuple[str, Key], list[StatementRow]]) -> str | None:
     """Exact ratio from verified inputs; None when an input is missing or the denominator is not positive."""
     ratio = RATIOS_BY_ID[ratio_id]
     inputs = ratio_inputs(ratio_id, key)
@@ -319,7 +320,7 @@ _RATIO = (
 )
 
 
-def question(operation: str, choice: int, names: Sequence[str], statement: Optional[str], company: str,
+def question(operation: str, choice: int, names: Sequence[str], statement: str | None, company: str,
              ticker: str, scope: str, years: Sequence[int]) -> str:
     name = names[choice % len(names)]
     fields = {"name": name, "Name": name[0].upper() + name[1:], "company": company, "ticker": ticker,
@@ -331,9 +332,9 @@ def question(operation: str, choice: int, names: Sequence[str], statement: Optio
     return templates[(choice // len(names)) % len(templates)].format(**fields)
 
 
-def excluded_units(gold_paths: Sequence[Path]) -> Dict[str, set]:
+def excluded_units(gold_paths: Sequence[Path]) -> dict[str, set]:
     """(ticker, scope, last year) already asked per metric/ratio in earlier gold files."""
-    used: Dict[str, set] = defaultdict(set)
+    used: dict[str, set] = defaultdict(set)
     for path in gold_paths:
         for line in Path(path).read_text(encoding="utf-8").splitlines():
             if line.strip():
@@ -343,18 +344,18 @@ def excluded_units(gold_paths: Sequence[Path]) -> Dict[str, set]:
     return used
 
 
-def build(corpus: Path, raw_root: Path, output: Path, *, seed: int, counts: Dict[str, int],
-          exclude: Optional[Dict[str, set]] = None) -> Dict[str, Any]:
+def build(corpus: Path, raw_root: Path, output: Path, *, seed: int, counts: dict[str, int],
+          exclude: dict[str, set] | None = None) -> dict[str, Any]:
     exclude = exclude or {}
     manifest = json.loads((corpus / "manifest.json").read_text(encoding="utf-8"))
     values, extraction_skips = extract_report_values(manifest, raw_root)
     verified, cross_skips = cross_checked(values)
     rng = random.Random(seed)
-    by_metric: Dict[str, List[Key]] = defaultdict(list)
+    by_metric: dict[str, list[Key]] = defaultdict(list)
     for metric_id, key in sorted(verified):
         by_metric[metric_id].append(key)
 
-    plan: List[Tuple[str, str, List[Tuple[str, Key]]]] = []  # operation, metric/ratio, inputs
+    plan: list[tuple[str, str, list[tuple[str, Key]]]] = []  # operation, metric/ratio, inputs
     for metric_id in QUESTION_METRICS:
         keys = by_metric[metric_id]
         for key in _sample(keys, counts["LOOKUP"], rng, set(exclude.get(metric_id, ()))):
@@ -465,18 +466,18 @@ def build(corpus: Path, raw_root: Path, output: Path, *, seed: int, counts: Dict
     return summary
 
 
-def negative_cases(manifest: Dict[str, Any], verified: Dict[Tuple[str, Key], List[StatementRow]],
-                   rng: random.Random) -> List[Dict[str, Any]]:
+def negative_cases(manifest: dict[str, Any], verified: dict[tuple[str, Key], list[StatementRow]],
+                   rng: random.Random) -> list[dict[str, Any]]:
     """Questions the v1 catalog cannot answer: each kind three times."""
     keys = sorted({key for metric_id, key in verified if metric_id in ("TOTAL_ASSETS", "NET_REVENUE")})
     rng.shuffle(keys)
     names = {(r["ticker"]): r["company_name"] for r in manifest["reports"]}
-    years: Dict[str, set] = defaultdict(set)
-    scopes: Dict[Tuple[str, int], set] = defaultdict(set)
+    years: dict[str, set] = defaultdict(set)
+    scopes: dict[tuple[str, int], set] = defaultdict(set)
     for report in manifest["reports"]:
         years[report["ticker"]].add(int(report["report_year"]))
         scopes[(report["ticker"], int(report["report_year"]))].add(report["statement_scope"])
-    rows: List[Dict[str, Any]] = []
+    rows: list[dict[str, Any]] = []
 
     def add(kind: str, text: str) -> None:
         rows.append({"question_id": f"broad-neg-{len(rows):03d}-{kind.lower()}", "question": text,
@@ -504,7 +505,7 @@ def negative_cases(manifest: Dict[str, Any], verified: Dict[Tuple[str, Key], Lis
     return rows
 
 
-def main(argv: Optional[Sequence[str]] = None) -> int:
+def main(argv: Sequence[str] | None = None) -> int:
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument("--corpus-artifact", required=True)
     parser.add_argument("--raw-corpus", required=True)

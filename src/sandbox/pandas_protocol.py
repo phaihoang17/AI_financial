@@ -7,10 +7,11 @@ Pickle is never used; values cross the boundary as plain JSON.
 
 from __future__ import annotations
 
+from collections.abc import Mapping
 from dataclasses import dataclass
 from enum import Enum
 import json
-from typing import Any, Dict, Mapping, Optional
+from typing import Any
 
 from src.understanding.schemas import SchemaValidationError
 
@@ -41,13 +42,13 @@ class PandasFailure:
     stage: PandasFailureStage
     code: str
     message: str
-    line: Optional[int] = None
+    line: int | None = None
 
-    def to_dict(self) -> Dict[str, Any]:
+    def to_dict(self) -> dict[str, Any]:
         return {"stage": self.stage.value, "code": self.code, "message": self.message, "line": self.line}
 
     @classmethod
-    def from_dict(cls, value: Any) -> "PandasFailure":
+    def from_dict(cls, value: Any) -> PandasFailure:
         _require(isinstance(value, Mapping) and set(value) == {"stage", "code", "message", "line"},
                  "PandasFailure fields are invalid")
         _require(isinstance(value["code"], str) and value["code"], "failure code must be a string")
@@ -73,9 +74,9 @@ class PandasExecutionResult:
     schema_version: str
     request_id: str
     success: bool
-    result: Optional[Dict[str, Any]]
-    evidence: Optional[Dict[str, Any]]
-    failure: Optional[PandasFailure]
+    result: dict[str, Any] | None
+    evidence: dict[str, Any] | None
+    failure: PandasFailure | None
     execution_ms: int
 
     def __post_init__(self) -> None:
@@ -92,7 +93,7 @@ class PandasExecutionResult:
             _require(self.failure is not None and self.result is None and self.evidence is None,
                      "failure requires a failure and no values")
 
-    def to_dict(self) -> Dict[str, Any]:
+    def to_dict(self) -> dict[str, Any]:
         return {
             "schema_version": self.schema_version,
             "request_id": self.request_id,
@@ -104,7 +105,7 @@ class PandasExecutionResult:
         }
 
     @classmethod
-    def from_dict(cls, value: Any) -> "PandasExecutionResult":
+    def from_dict(cls, value: Any) -> PandasExecutionResult:
         _require(isinstance(value, Mapping) and set(value) == {
             "schema_version", "request_id", "success", "result", "evidence", "failure", "execution_ms"
         }, "PandasExecutionResult fields are invalid")
@@ -120,7 +121,7 @@ class PandasExecutionResult:
 
 
 def failure_result(request_id: str, stage: PandasFailureStage, code: str, message: str, *,
-                   execution_ms: int = 0, line: Optional[int] = None) -> PandasExecutionResult:
+                   execution_ms: int = 0, line: int | None = None) -> PandasExecutionResult:
     return PandasExecutionResult(
         T2P_RESULT_SCHEMA_VERSION, request_id or "unavailable", False, None, None,
         PandasFailure(stage, code, message[:MAX_ERROR_MESSAGE_CHARS], line), execution_ms,

@@ -13,14 +13,13 @@ deterministic pipeline, and model-dependent numbers stay explicitly pending.
 
 from __future__ import annotations
 
+from collections.abc import Sequence
 from dataclasses import dataclass
 from enum import Enum
 import math
 import time
-from typing import Dict, List, Sequence
 
 from src.understanding.schemas import SchemaValidationError
-
 
 TELEMETRY_SCHEMA_VERSION = "m10-telemetry-v1"
 
@@ -64,7 +63,7 @@ class Distribution:
     p95_ms: float
     p99_ms: float
 
-    def to_dict(self) -> Dict[str, float]:
+    def to_dict(self) -> dict[str, float]:
         return {
             "count": self.count,
             "min_ms": self.min_ms,
@@ -76,8 +75,8 @@ class Distribution:
         }
 
     @classmethod
-    def from_samples(cls, samples: Sequence[float]) -> "Distribution":
-        values: List[float] = [float(value) for value in samples]
+    def from_samples(cls, samples: Sequence[float]) -> Distribution:
+        values: list[float] = [float(value) for value in samples]
         if not values:
             raise SchemaValidationError("Distribution requires at least one sample")
         if any(not math.isfinite(value) or value < 0 for value in values):

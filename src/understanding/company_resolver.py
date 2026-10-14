@@ -4,7 +4,7 @@ from __future__ import annotations
 
 from dataclasses import dataclass
 from enum import Enum
-from typing import Any, Dict, List, Tuple
+from typing import Any
 
 from src.understanding.schemas import (
     CompanyUnderstanding,
@@ -45,7 +45,7 @@ class CompanyAlias:
         _require_exact_keys(data, {"alias", "name", "ticker"}, "CompanyAlias")
         return cls(alias=data["alias"], name=data["name"], ticker=data["ticker"])
 
-    def to_dict(self) -> Dict[str, str]:
+    def to_dict(self) -> dict[str, str]:
         return {"alias": self.alias, "name": self.name, "ticker": self.ticker}
 
 
@@ -64,7 +64,7 @@ class CompanyCandidate:
         _require_exact_keys(data, {"name", "ticker"}, path)
         return cls(name=data["name"], ticker=data["ticker"])
 
-    def to_dict(self) -> Dict[str, str]:
+    def to_dict(self) -> dict[str, str]:
         return {"name": self.name, "ticker": self.ticker}
 
 
@@ -74,7 +74,7 @@ class CompanyResolutionStatus(str, Enum):
     AMBIGUOUS = "AMBIGUOUS"
 
 
-def _candidate_key(candidate: CompanyCandidate) -> Tuple[str, str]:
+def _candidate_key(candidate: CompanyCandidate) -> tuple[str, str]:
     return (
         _normalize_match_value(candidate.name),
         _normalize_match_value(candidate.ticker),
@@ -85,7 +85,7 @@ def _candidate_key(candidate: CompanyCandidate) -> Tuple[str, str]:
 class CompanyResolution:
     status: CompanyResolutionStatus
     company: CompanyUnderstanding
-    candidates: List[CompanyCandidate]
+    candidates: list[CompanyCandidate]
 
     def __post_init__(self) -> None:
         self.status = _require_enum(
@@ -158,7 +158,7 @@ class CompanyResolution:
             ],
         )
 
-    def to_dict(self) -> Dict[str, Any]:
+    def to_dict(self) -> dict[str, Any]:
         return {
             "status": self.status.value,
             "company": self.company.to_dict(),
@@ -166,7 +166,7 @@ class CompanyResolution:
         }
 
 
-def resolve_company(raw: str, aliases: List[CompanyAlias]) -> CompanyResolution:
+def resolve_company(raw: str, aliases: list[CompanyAlias]) -> CompanyResolution:
     """Resolve by trimmed case-insensitive alias or ticker equality only."""
     raw = _require_string(raw, "raw")
     if not isinstance(aliases, list) or not all(
@@ -175,7 +175,7 @@ def resolve_company(raw: str, aliases: List[CompanyAlias]) -> CompanyResolution:
         raise SchemaValidationError("aliases must be a list of CompanyAlias values")
 
     normalized_raw = _normalize_match_value(raw)
-    matches: Dict[Tuple[str, str], CompanyCandidate] = {}
+    matches: dict[tuple[str, str], CompanyCandidate] = {}
     for alias in aliases:
         if normalized_raw not in {
             _normalize_match_value(alias.alias),

@@ -2,17 +2,17 @@
 
 from __future__ import annotations
 
+from collections.abc import Iterable, Sequence
 import json
-from typing import Dict, Iterable, List, Sequence, Tuple
 
 from src.indexing.ids import make_representation_id
 from src.indexing.schemas import (
+    REPRESENTATION_VERSION,
     HeaderPathEntry,
     NormalizedTable,
     Paragraph,
-    REPRESENTATION_VERSION,
-    RepresentationGranularity,
     ReportSource,
+    RepresentationGranularity,
     RetrievalRepresentation,
     ScaleHintSource,
     ScaleUnitHint,
@@ -22,19 +22,19 @@ from src.supervisor.schemas import EvidenceSource
 from src.understanding.schemas import SchemaValidationError
 
 
-def _compact_json(payload: Dict[str, object]) -> str:
+def _compact_json(payload: dict[str, object]) -> str:
     return json.dumps(payload, ensure_ascii=False, separators=(",", ":"))
 
 
-def _path_key(path: Sequence[HeaderPathEntry]) -> Tuple[Tuple[str, str], ...]:
+def _path_key(path: Sequence[HeaderPathEntry]) -> tuple[tuple[str, str], ...]:
     return tuple((entry.header_id, entry.label) for entry in path)
 
 
 def _deduplicate_paths(
     paths: Iterable[Sequence[HeaderPathEntry]],
-) -> List[List[HeaderPathEntry]]:
+) -> list[list[HeaderPathEntry]]:
     seen = set()
-    result: List[List[HeaderPathEntry]] = []
+    result: list[list[HeaderPathEntry]] = []
     for path in paths:
         if not path:
             continue
@@ -91,13 +91,13 @@ def build_retrieval_representations(
     paragraphs: Sequence[Paragraph],
     links: Sequence[TableTextLink],
     hints: Sequence[ScaleUnitHint],
-) -> List[RetrievalRepresentation]:
+) -> list[RetrievalRepresentation]:
     """Build one independent representation per table and paragraph."""
 
     if not isinstance(source, ReportSource):
         raise SchemaValidationError("source must be a ReportSource")
-    tables_by_id: Dict[str, NormalizedTable] = {}
-    table_order: Dict[str, int] = {}
+    tables_by_id: dict[str, NormalizedTable] = {}
+    table_order: dict[str, int] = {}
     for index, table in enumerate(normalized_tables):
         if not isinstance(table, NormalizedTable) or table.report_id != source.report_id:
             raise SchemaValidationError("normalized table provenance must match source")
@@ -106,7 +106,7 @@ def build_retrieval_representations(
         tables_by_id[table.source_table_id] = table
         table_order[table.source_table_id] = index
 
-    paragraphs_by_id: Dict[str, Paragraph] = {}
+    paragraphs_by_id: dict[str, Paragraph] = {}
     for paragraph in paragraphs:
         if not isinstance(paragraph, Paragraph) or paragraph.report_id != source.report_id:
             raise SchemaValidationError("paragraph provenance must match source")
@@ -114,8 +114,8 @@ def build_retrieval_representations(
             raise SchemaValidationError("paragraph IDs must be unique")
         paragraphs_by_id[paragraph.paragraph_id] = paragraph
 
-    links_by_table: Dict[str, List[TableTextLink]] = {}
-    links_by_paragraph: Dict[str, List[TableTextLink]] = {}
+    links_by_table: dict[str, list[TableTextLink]] = {}
+    links_by_paragraph: dict[str, list[TableTextLink]] = {}
     for link in links:
         if (
             not isinstance(link, TableTextLink)
@@ -126,8 +126,8 @@ def build_retrieval_representations(
         links_by_table.setdefault(link.table_id, []).append(link)
         links_by_paragraph.setdefault(link.paragraph_id, []).append(link)
 
-    hints_by_table: Dict[str, List[ScaleUnitHint]] = {}
-    hints_by_paragraph: Dict[str, List[ScaleUnitHint]] = {}
+    hints_by_table: dict[str, list[ScaleUnitHint]] = {}
+    hints_by_paragraph: dict[str, list[ScaleUnitHint]] = {}
     for hint in hints:
         if not isinstance(hint, ScaleUnitHint) or hint.report_id != source.report_id:
             raise SchemaValidationError("hint provenance must match source")
@@ -139,7 +139,7 @@ def build_retrieval_representations(
         ):
             hints_by_paragraph.setdefault(hint.source_ref, []).append(hint)
 
-    representations: List[RetrievalRepresentation] = []
+    representations: list[RetrievalRepresentation] = []
     for table in normalized_tables:
         cells = sorted(table.cells, key=lambda cell: (cell.anchor_row, cell.anchor_column))
         table_links = sorted(

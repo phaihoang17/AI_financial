@@ -10,11 +10,12 @@ corpus artifact that the embedding builder and retrieval gates accept unchanged.
 
 from __future__ import annotations
 
+from collections.abc import Sequence
+from hashlib import sha256
 import heapq
 import json
-from hashlib import sha256
 from pathlib import Path
-from typing import Any, Dict, List, Optional, Sequence, Tuple
+from typing import Any
 
 from src.indexing.embedding_artifact_builder import (
     _atomic_write_bytes,
@@ -28,11 +29,11 @@ SELECTION_VERSION = "m2b-real-smoke-sample-v1"
 SELECTION_METHOD = "lowest_sha256_chunk_id_per_source_type_with_p95_table_inclusion"
 
 
-def _scan(root: Path, shard_entries: Sequence[Dict[str, Any]], per_type: int) -> Tuple[Dict[str, List[Tuple[str, int]]], List[int], Tuple[int, str, int]]:
+def _scan(root: Path, shard_entries: Sequence[dict[str, Any]], per_type: int) -> tuple[dict[str, list[tuple[str, int]]], list[int], tuple[int, str, int]]:
     # Max-heaps (negated) keep the `per_type` lowest chunk IDs per source type.
-    heaps: Dict[str, List[Tuple[str, int]]] = {"TABLE": [], "TEXT": []}
-    table_tokens: List[int] = []
-    longest: Tuple[int, str, int] = (-1, "", -1)
+    heaps: dict[str, list[tuple[str, int]]] = {"TABLE": [], "TEXT": []}
+    table_tokens: list[int] = []
+    longest: tuple[int, str, int] = (-1, "", -1)
     for entry in shard_entries:
         with (root / str(entry["file"])).open("rb") as handle:
             for line in handle:
@@ -58,7 +59,7 @@ def _negate(chunk_id: str) -> str:
     return "".join("%x" % (15 - int(char, 16)) for char in chunk_id)
 
 
-def _p95(values: List[int]) -> int:
+def _p95(values: list[int]) -> int:
     ordered = sorted(values)
     return ordered[min(len(ordered) - 1, int(0.95 * len(ordered)))]
 
@@ -68,7 +69,7 @@ def build_smoke_subset(input_artifact: str | Path, output_root: str | Path, *, p
     manifest = source.manifest
     selected, table_tokens, longest = _scan(source.root, source.shard_entries, per_type)
     p95 = _p95(table_tokens)
-    long_table: Optional[Tuple[str, int]] = None
+    long_table: tuple[str, int] | None = None
     if not any(order == longest[2] for _, order in selected["TABLE"]) and longest[0] >= p95:
         # Replace the highest selected table ID with the longest table chunk.
         selected["TABLE"] = sorted(selected["TABLE"][:-1] + [(longest[1], longest[2])])
@@ -76,7 +77,7 @@ def build_smoke_subset(input_artifact: str | Path, output_root: str | Path, *, p
     orders = sorted(order for items in selected.values() for _, order in items)
     wanted = set(orders)
 
-    lines: List[bytes] = []
+    lines: list[bytes] = []
     covered: set = set()
     cells = 0
     for entry in source.shard_entries:
@@ -151,7 +152,7 @@ def build_smoke_subset(input_artifact: str | Path, output_root: str | Path, *, p
     return root
 
 
-def main(argv: Optional[Sequence[str]] = None) -> int:
+def main(argv: Sequence[str] | None = None) -> int:
     import argparse
 
     parser = argparse.ArgumentParser(description="Cut the deterministic real-data M2 smoke subset")

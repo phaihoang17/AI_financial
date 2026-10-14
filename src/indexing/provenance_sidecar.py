@@ -7,13 +7,14 @@ the committed M2 corpus artifact or any embedding artifact.
 
 from __future__ import annotations
 
+from collections.abc import Iterable, Mapping, Sequence
 from hashlib import sha256
 import json
 import os
 from pathlib import Path
 import shutil
 import sqlite3
-from typing import Any, Dict, Iterable, List, Mapping, Optional, Sequence, Tuple
+from typing import Any
 
 from src.indexing.corpus_artifact import CORPUS_ARTIFACT_SCHEMA_VERSION
 from src.indexing.document_parser import parse_document
@@ -21,6 +22,7 @@ from src.indexing.embedding_artifact_builder import (
     EmbeddingArtifactBuilderError,
     _validate_input_manifest,
 )
+from src.indexing.grid_builder import build_logical_table_grid
 from src.indexing.ids import content_sha256
 from src.indexing.normalized_table_assembler import assemble_normalized_table
 from src.indexing.paragraph_extractor import extract_paragraphs
@@ -35,10 +37,8 @@ from src.indexing.schemas import (
     TableParseStatus,
     TableTextLink,
 )
-from src.indexing.grid_builder import build_logical_table_grid
 from src.indexing.table_text_linker import link_tables_to_paragraphs, link_unit_declarations
 from src.understanding.schemas import SchemaValidationError, StatementScope
-
 
 PROVENANCE_SIDECAR_SCHEMA_VERSION = "m2-provenance-sidecar-v1"
 PROVENANCE_SIDECAR_BUILD_VERSION = "m2-provenance-sidecar-build-v1"
@@ -145,10 +145,10 @@ def _source_from_inventory(raw_corpus_root: Path, corpus_id: str, item: Mapping[
     )
 
 
-def _extract_report_provenance(source: ReportSource) -> Tuple[List[ScaleUnitHint], List[TableTextLink]]:
+def _extract_report_provenance(source: ReportSource) -> tuple[list[ScaleUnitHint], list[TableTextLink]]:
     document = parse_document(source)
     paragraphs = extract_paragraphs(source, document)
-    tables: List[NormalizedTable] = []
+    tables: list[NormalizedTable] = []
     for page in document.pages:
         for table in page.tables:
             if table.parse_status is TableParseStatus.UNPARSEABLE:
@@ -258,7 +258,7 @@ def _insert_provenance(
         raise ProvenanceSidecarError("SIDECAR_SQLITE_WRITE_FAILED", str(error)) from error
 
 
-def _cross_check_corpus_references(corpus: Any, connection: sqlite3.Connection) -> Dict[str, int]:
+def _cross_check_corpus_references(corpus: Any, connection: sqlite3.Connection) -> dict[str, int]:
     hint_ids = {row[0] for row in connection.execute("SELECT hint_id FROM scale_unit_hints")}
     link_pairs = {
         (row[0], row[1]) for row in connection.execute("SELECT table_id, paragraph_id FROM table_text_links")
@@ -317,7 +317,7 @@ def build_provenance_sidecar(
     corpus_artifact_root: str | Path,
     raw_corpus_root: str | Path,
     output_root: str | Path,
-) -> Dict[str, Any]:
+) -> dict[str, Any]:
     """Materialize immutable M2A links and hints without touching M2 corpus bytes."""
 
     try:
@@ -374,7 +374,7 @@ def build_provenance_sidecar(
     artifact_id = _build_id(corpus.corpus_fingerprint, digest.hexdigest())
     artifact = root / "artifacts" / artifact_id
     database_hash = _sha256_file(database)
-    manifest: Dict[str, Any] = {
+    manifest: dict[str, Any] = {
         "sidecar_schema_version": PROVENANCE_SIDECAR_SCHEMA_VERSION,
         "artifact_status": "COMMITTED",
         "artifact_id": artifact_id,
@@ -407,7 +407,7 @@ def build_provenance_sidecar(
         else:
             os.replace(staging, artifact)
         _atomic_write_json(root / "manifest.json", manifest)
-        _atomic_write(root / "CURRENT", f"{artifact_id}\n".encode("utf-8"))
+        _atomic_write(root / "CURRENT", f"{artifact_id}\n".encode())
         return manifest
     finally:
         if staging.exists():
@@ -416,7 +416,7 @@ def build_provenance_sidecar(
 
 def validate_provenance_sidecar(
     sidecar_root: str | Path, corpus_artifact_root: str | Path
-) -> Dict[str, Any]:
+) -> dict[str, Any]:
     """Validate immutable sidecar bytes and exact M2 corpus compatibility."""
 
     try:
@@ -489,7 +489,7 @@ class ProvenanceSidecar:
         manifest = json.loads((root / "manifest.json").read_text(encoding="utf-8"))
         self._database = root / manifest["artifact_directory"] / manifest["database"]["file"]
 
-    def _rows(self, sql: str, parameters: Sequence[Any]) -> Iterable[Tuple[str]]:
+    def _rows(self, sql: str, parameters: Sequence[Any]) -> Iterable[tuple[str]]:
         try:
             connection = sqlite3.connect(f"file:{self._database}?mode=ro", uri=True)
             try:
@@ -499,13 +499,13 @@ class ProvenanceSidecar:
         except sqlite3.DatabaseError as error:
             raise ProvenanceSidecarError("SIDECAR_DATABASE_CORRUPT", str(self._database)) from error
 
-    def get_hint(self, hint_id: str) -> Optional[ScaleUnitHint]:
+    def get_hint(self, hint_id: str) -> ScaleUnitHint | None:
         rows = self._rows("SELECT canonical_json FROM scale_unit_hints WHERE hint_id=?", (hint_id,))
         if not rows:
             return None
         return ScaleUnitHint.from_dict(json.loads(rows[0][0]))
 
-    def get_hints_by_source_ref(self, source_ref: str) -> List[ScaleUnitHint]:
+    def get_hints_by_source_ref(self, source_ref: str) -> list[ScaleUnitHint]:
         rows = self._rows(
             """SELECT canonical_json FROM scale_unit_hints WHERE source_ref=?
                ORDER BY source_span_start, source_span_end, hint_id""",
@@ -513,7 +513,7 @@ class ProvenanceSidecar:
         )
         return [ScaleUnitHint.from_dict(json.loads(row[0])) for row in rows]
 
-    def get_hints_by_table_id(self, table_id: str) -> List[ScaleUnitHint]:
+    def get_hints_by_table_id(self, table_id: str) -> list[ScaleUnitHint]:
         """Return every persisted cell/header/caption hint associated with one table."""
 
         rows = self._rows(
@@ -523,7 +523,7 @@ class ProvenanceSidecar:
         )
         return [ScaleUnitHint.from_dict(json.loads(row[0])) for row in rows]
 
-    def get_links_by_table_id(self, table_id: str) -> List[TableTextLink]:
+    def get_links_by_table_id(self, table_id: str) -> list[TableTextLink]:
         rows = self._rows(
             """SELECT canonical_json FROM table_text_links WHERE table_id=?
                ORDER BY evidence_span_start, evidence_span_end, link_id""",
@@ -531,7 +531,7 @@ class ProvenanceSidecar:
         )
         return [TableTextLink.from_dict(json.loads(row[0])) for row in rows]
 
-    def get_links_by_paragraph_id(self, paragraph_id: str) -> List[TableTextLink]:
+    def get_links_by_paragraph_id(self, paragraph_id: str) -> list[TableTextLink]:
         rows = self._rows(
             """SELECT canonical_json FROM table_text_links WHERE paragraph_id=?
                ORDER BY evidence_span_start, evidence_span_end, link_id""",

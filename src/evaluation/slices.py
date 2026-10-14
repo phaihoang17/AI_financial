@@ -4,7 +4,7 @@ from __future__ import annotations
 
 from dataclasses import dataclass
 from enum import Enum
-from typing import Any, Dict
+from typing import Any
 
 from src.evaluation.harness import EvaluationResult
 from src.understanding.schemas import (
@@ -68,7 +68,7 @@ class EvaluationSlice:
             scale_unit_sensitive=data["scale_unit_sensitive"],
         )
 
-    def to_dict(self) -> Dict[str, Any]:
+    def to_dict(self) -> dict[str, Any]:
         return {
             "evidence_source": self.evidence_source.value,
             "reasoning_depth": self.reasoning_depth.value,
@@ -98,5 +98,5 @@ class SlicedEvaluationResult:
             slice=EvaluationSlice.from_dict(data["slice"]),
         )
 
-    def to_dict(self) -> Dict[str, Any]:
+    def to_dict(self) -> dict[str, Any]:
         return {"result": self.result.to_dict(), "slice": self.slice.to_dict()}

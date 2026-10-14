@@ -5,7 +5,7 @@ from __future__ import annotations
 from dataclasses import dataclass
 from enum import Enum
 import re
-from typing import Any, Dict, Optional, Set
+from typing import Any
 import unicodedata
 
 from src.understanding.schemas import (
@@ -60,14 +60,14 @@ class RequestedScaleUnitParserInput:
         )
         return cls(text=data["text"])
 
-    def to_dict(self) -> Dict[str, str]:
+    def to_dict(self) -> dict[str, str]:
         return {"text": self.text}
 
 
 @dataclass
 class RequestedScaleUnit:
-    requested_scale: Optional[RequestedScale]
-    requested_unit: Optional[str]
+    requested_scale: RequestedScale | None
+    requested_unit: str | None
 
     def __post_init__(self) -> None:
         if self.requested_scale is not None:
@@ -96,7 +96,7 @@ class RequestedScaleUnit:
             requested_unit=data["requested_unit"],
         )
 
-    def to_dict(self) -> Dict[str, Any]:
+    def to_dict(self) -> dict[str, Any]:
         return {
             "requested_scale": (
                 None if self.requested_scale is None else self.requested_scale.value
@@ -105,7 +105,7 @@ class RequestedScaleUnit:
         }
 
 
-def _find_scales(text: str) -> Set[RequestedScale]:
+def _find_scales(text: str) -> set[RequestedScale]:
     scales = {
         scale
         for phrase, scale in _WORD_MAPPINGS.items()

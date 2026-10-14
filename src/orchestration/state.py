@@ -1,32 +1,33 @@
 """Checkpoint-safe M9 state contracts and transition guards.
 
 This module stores only an opaque ``binding_ref``.  ``BindingMap`` is never a
-field of either M9State or AttemptRecord.
+field of either OrchestrationState or AttemptRecord.
 """
 
 from __future__ import annotations
 
+from collections.abc import Mapping
 from dataclasses import dataclass, field, replace
 from enum import Enum
 from hashlib import sha256
 import json
 from types import MappingProxyType
-from typing import Any, Dict, Mapping, Optional
+from typing import Any
 
-from src.evidence.m5_schemas import (
+from src.evidence.masking_schemas import (
     MaskedEvidenceBundle,
     ScaleUnitResolution,
     SchemaLinkResult,
 )
 from src.evidence.schemas import EvidenceItem
 from src.orchestration.schemas import (
+    M9_STATE_SCHEMA_VERSION,
+    M9_STATE_SCHEMA_VERSION_V1,
     ExecutionDirective,
     FailureAttribution,
     FinalResponse,
     FinalResponseStatus,
-    M9Phase,
-    M9_STATE_SCHEMA_VERSION,
-    M9_STATE_SCHEMA_VERSION_V1,
+    OrchestrationPhase,
     make_plan_fingerprint,
     validate_retrieval_query_against_plan,
 )
@@ -38,9 +39,9 @@ from src.programmer.schemas import (
 from src.retrieval.evidence import CellLocation, EvidenceCompletenessResult
 from src.retrieval.query_builder import build_retrieval_query
 from src.retrieval.schemas import (
-    RetrievedScaleUnitHint,
     RetrievalCandidate,
     RetrievalQuery,
+    RetrievedScaleUnitHint,
 )
 from src.sandbox.schemas import ExecutionResult
 from src.supervisor.schemas import (
@@ -86,7 +87,7 @@ def _string(value: Any, path: str, *, non_empty: bool = False) -> str:
     return value
 
 
-def _optional_string(value: Any, path: str) -> Optional[str]:
+def _optional_string(value: Any, path: str) -> str | None:
     if value is not None and not isinstance(value, str):
         raise SchemaValidationError(f"{path} must be a string or null")
     return value
@@ -152,26 +153,26 @@ class AttemptRecord:
     entry_stage: AttemptEntryStage
     model_tier: ModelTier
 
-    retrieval_query: Optional[RetrievalQuery] = None
+    retrieval_query: RetrievalQuery | None = None
     retrieval_candidates: tuple[RetrievalCandidate, ...] = ()
     scale_hints_by_candidate: Mapping[str, tuple[RetrievedScaleUnitHint, ...]] = field(
         default_factory=dict
     )
     cell_locations: tuple[CellLocation, ...] = ()
     evidence_items: tuple[EvidenceItem, ...] = ()
-    evidence_completeness: Optional[EvidenceCompletenessResult] = None
+    evidence_completeness: EvidenceCompletenessResult | None = None
 
     scale_unit_resolutions: tuple[ScaleUnitResolution, ...] = ()
     schema_links: tuple[SchemaLinkResult, ...] = ()
-    masked_evidence: Optional[MaskedEvidenceBundle] = None
-    binding_ref: Optional[str] = None
+    masked_evidence: MaskedEvidenceBundle | None = None
+    binding_ref: str | None = None
 
-    programmer_input: Optional[ProgrammerInput] = None
-    programmer_result: Optional[ProgrammerResult] = None
-    execution_result: Optional[ExecutionResult] = None
-    verification_report: Optional[VerificationReport] = None
-    retry_directive: Optional[RetryDirective] = None
-    execution_directive: Optional[ExecutionDirective] = None
+    programmer_input: ProgrammerInput | None = None
+    programmer_result: ProgrammerResult | None = None
+    execution_result: ExecutionResult | None = None
+    verification_report: VerificationReport | None = None
+    retry_directive: RetryDirective | None = None
+    execution_directive: ExecutionDirective | None = None
 
     _content_fingerprint: str = field(init=False, repr=False, compare=False)
 
@@ -214,7 +215,7 @@ class AttemptRecord:
 
         if not isinstance(self.scale_hints_by_candidate, Mapping):
             raise SchemaValidationError("scale_hints_by_candidate must be a mapping")
-        cloned_hints: Dict[str, tuple[RetrievedScaleUnitHint, ...]] = {}
+        cloned_hints: dict[str, tuple[RetrievedScaleUnitHint, ...]] = {}
         for candidate_id, hints in sorted(self.scale_hints_by_candidate.items()):
             candidate_id = _string(
                 candidate_id, "scale_hints_by_candidate key", non_empty=True
@@ -320,7 +321,7 @@ class AttemptRecord:
                 )
         object.__setattr__(self, "_content_fingerprint", _payload_fingerprint(self._payload()))
 
-    def _payload(self) -> Dict[str, Any]:
+    def _payload(self) -> dict[str, Any]:
         return {
             "attempt_index": self.attempt_index,
             "entry_stage": self.entry_stage.value,
@@ -354,12 +355,12 @@ class AttemptRecord:
         if _payload_fingerprint(self._payload()) != self._content_fingerprint:
             raise SchemaValidationError("AttemptRecord was mutated after creation")
 
-    def to_dict(self) -> Dict[str, Any]:
+    def to_dict(self) -> dict[str, Any]:
         self.assert_immutable()
         return self._payload()
 
     @classmethod
-    def from_dict(cls, value: Any) -> "AttemptRecord":
+    def from_dict(cls, value: Any) -> AttemptRecord:
         data = _mapping(value, "AttemptRecord")
         expected = {
             "attempt_index", "entry_stage", "model_tier", "retrieval_query",
@@ -409,24 +410,24 @@ class AttemptRecord:
 
 
 @dataclass(frozen=True)
-class M9State:
+class OrchestrationState:
     schema_version: str
     request_id: str
     raw_question: str
-    phase: M9Phase
-    outcome: Optional[FinalResponseStatus]
+    phase: OrchestrationPhase
+    outcome: FinalResponseStatus | None
 
-    query_understanding: Optional[QueryUnderstanding]
-    planning_gate: Optional[PlanningGate]
-    supervisor_result: Optional[SupervisorResult]
-    plan_fingerprint: Optional[str]
+    query_understanding: QueryUnderstanding | None
+    planning_gate: PlanningGate | None
+    supervisor_result: SupervisorResult | None
+    plan_fingerprint: str | None
 
-    retrieval_policy_fingerprint: Optional[str]
-    retry_state: Optional[RetryState]
+    retrieval_policy_fingerprint: str | None
+    retry_state: RetryState | None
     attempts: tuple[AttemptRecord, ...]
 
-    final_response: Optional[FinalResponse]
-    failure_attribution: Optional[FailureAttribution]
+    final_response: FinalResponse | None
+    failure_attribution: FailureAttribution | None
 
     def __post_init__(self) -> None:
         if self.schema_version != M9_STATE_SCHEMA_VERSION:
@@ -435,7 +436,7 @@ class M9State:
             )
         object.__setattr__(self, "request_id", _string(self.request_id, "request_id", non_empty=True))
         object.__setattr__(self, "raw_question", _string(self.raw_question, "raw_question"))
-        object.__setattr__(self, "phase", _enum(self.phase, M9Phase, "phase"))
+        object.__setattr__(self, "phase", _enum(self.phase, OrchestrationPhase, "phase"))
         if self.outcome is not None:
             object.__setattr__(self, "outcome", _enum(self.outcome, FinalResponseStatus, "outcome"))
 
@@ -566,7 +567,7 @@ class M9State:
 
         object.__setattr__(self, "final_response", _clone_optional(self.final_response, FinalResponse))
         object.__setattr__(self, "failure_attribution", _clone_optional(self.failure_attribution, FailureAttribution))
-        is_terminal = self.phase is M9Phase.TERMINAL
+        is_terminal = self.phase is OrchestrationPhase.TERMINAL
         if is_terminal:
             if self.outcome is None or self.final_response is None:
                 raise SchemaValidationError(
@@ -629,11 +630,11 @@ class M9State:
 
     @property
     def terminal(self) -> bool:
-        return self.phase is M9Phase.TERMINAL
+        return self.phase is OrchestrationPhase.TERMINAL
 
     def append_attempt(
         self, attempt: AttemptRecord, *, next_retry_state: RetryState
-    ) -> "M9State":
+    ) -> OrchestrationState:
         """Append one immutable current attempt; execute no stage work."""
         if self.terminal:
             raise SchemaValidationError("terminal state cannot transition")
@@ -650,9 +651,9 @@ class M9State:
                 "attempt_index must equal next_retry_state.retries_used"
             )
         phase = {
-            AttemptEntryStage.RETRIEVAL: M9Phase.RETRIEVAL,
-            AttemptEntryStage.PROGRAMMER: M9Phase.PROGRAMMER,
-            AttemptEntryStage.SANDBOX: M9Phase.SANDBOX,
+            AttemptEntryStage.RETRIEVAL: OrchestrationPhase.RETRIEVAL,
+            AttemptEntryStage.PROGRAMMER: OrchestrationPhase.PROGRAMMER,
+            AttemptEntryStage.SANDBOX: OrchestrationPhase.SANDBOX,
         }[attempt.entry_stage]
         return replace(
             self,
@@ -664,7 +665,7 @@ class M9State:
     def terminate(
         self,
         response: FinalResponse,
-    ) -> "M9State":
+    ) -> OrchestrationState:
         """Attach a terminal response; reject repeated terminal transitions."""
         if self.terminal:
             raise SchemaValidationError("terminal state cannot transition")
@@ -672,14 +673,14 @@ class M9State:
             raise SchemaValidationError("response must be a FinalResponse")
         return replace(
             self,
-            phase=M9Phase.TERMINAL,
+            phase=OrchestrationPhase.TERMINAL,
             outcome=response.status,
             retry_state=response.retry_state,
             final_response=response,
             failure_attribution=response.failure_attribution,
         )
 
-    def to_dict(self) -> Dict[str, Any]:
+    def to_dict(self) -> dict[str, Any]:
         for attempt in self.attempts:
             attempt.assert_immutable()
         if self.supervisor_result is not None and self.supervisor_result.plan is not None:
@@ -703,8 +704,8 @@ class M9State:
         }
 
     @classmethod
-    def from_dict(cls, value: Any) -> "M9State":
-        data = _mapping(value, "M9State")
+    def from_dict(cls, value: Any) -> OrchestrationState:
+        data = _mapping(value, "OrchestrationState")
         _exact_keys(
             data,
             {
@@ -713,7 +714,7 @@ class M9State:
                 "plan_fingerprint", "retrieval_policy_fingerprint", "retry_state",
                 "attempts", "final_response", "failure_attribution",
             },
-            "M9State",
+            "OrchestrationState",
         )
         if not isinstance(data["attempts"], list):
             raise SchemaValidationError("attempts must be a list")
@@ -724,7 +725,7 @@ class M9State:
             schema_version=schema_version,
             request_id=data["request_id"],
             raw_question=data["raw_question"],
-            phase=_parse_enum(data["phase"], M9Phase, "phase"),
+            phase=_parse_enum(data["phase"], OrchestrationPhase, "phase"),
             outcome=None if data["outcome"] is None else _parse_enum(data["outcome"], FinalResponseStatus, "outcome"),
             query_understanding=None if data["query_understanding"] is None else QueryUnderstanding.from_dict(data["query_understanding"]),
             planning_gate=None if data["planning_gate"] is None else PlanningGate.from_dict(data["planning_gate"]),

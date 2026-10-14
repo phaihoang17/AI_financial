@@ -30,11 +30,12 @@ blocker for the GPU flag, but it *is* a blocker for any retrieval-quality claim.
 
 from __future__ import annotations
 
+from collections.abc import Mapping
 from dataclasses import dataclass, field
 from enum import Enum
 import json
 from pathlib import Path
-from typing import Any, Dict, List, Mapping, Optional
+from typing import Any
 
 from src.indexing.embedding_artifact_builder import APPROVED_EMBEDDING_FINGERPRINT
 from src.indexing.vector_index_store import IndexStorageError, load_sharded_manifest
@@ -44,7 +45,6 @@ from src.retrieval.compatibility import (
     validate_retrieval_artifact_compatibility,
 )
 from src.serving.live_probe import EmbeddingProbeResult, RerankerProbeResult
-
 
 PRODUCTION_RETRIEVAL_VALIDATION_SCHEMA_VERSION = "m10-retrieval-production-validation-v1"
 
@@ -86,10 +86,10 @@ class CheckResult:
     category: ValidationCategory
     evidence: CheckEvidence
     status: CheckStatus
-    code: Optional[str]
-    detail: Dict[str, Any] = field(default_factory=dict)
+    code: str | None
+    detail: dict[str, Any] = field(default_factory=dict)
 
-    def to_dict(self) -> Dict[str, Any]:
+    def to_dict(self) -> dict[str, Any]:
         return {
             "name": self.name,
             "category": self.category.value,
@@ -100,15 +100,15 @@ class CheckResult:
         }
 
 
-def _artifact(name: str, status: CheckStatus, code: Optional[str], **detail: Any) -> CheckResult:
+def _artifact(name: str, status: CheckStatus, code: str | None, **detail: Any) -> CheckResult:
     return CheckResult(name, ValidationCategory.ARTIFACT_SERVING, CheckEvidence.ARTIFACT, status, code, dict(detail))
 
 
-def _live(name: str, status: CheckStatus, code: Optional[str], **detail: Any) -> CheckResult:
+def _live(name: str, status: CheckStatus, code: str | None, **detail: Any) -> CheckResult:
     return CheckResult(name, ValidationCategory.ARTIFACT_SERVING, CheckEvidence.LIVE, status, code, dict(detail))
 
 
-def _read_manifest(root: str | Path, code: str) -> Dict[str, Any]:
+def _read_manifest(root: str | Path, code: str) -> dict[str, Any]:
     path = Path(root) / "manifest.json"
     try:
         data = json.loads(path.read_text(encoding="utf-8"))
@@ -125,8 +125,8 @@ def _read_manifest(root: str | Path, code: str) -> Dict[str, Any]:
 
 def _compatibility_checks(
     corpus_root: str | Path, vector_root: str | Path, bm25_root: str | Path
-) -> List[CheckResult]:
-    results: List[CheckResult] = []
+) -> list[CheckResult]:
+    results: list[CheckResult] = []
     bm25_manifest = _read_manifest(bm25_root, "BM25_MANIFEST_MISSING")
     try:
         vector_report = validate_retrieval_artifact_compatibility(
@@ -166,8 +166,8 @@ def _vector_count_checks(
     vector_root: str | Path,
     *,
     expected_canonical_chunk_count: int,
-    operator_expected_vector_count: Optional[int],
-) -> List[CheckResult]:
+    operator_expected_vector_count: int | None,
+) -> list[CheckResult]:
     corpus_manifest = _read_manifest(corpus_root, "M2_CORPUS_MANIFEST_MISSING")
     vector_manifest = _read_manifest(vector_root, "VECTOR_MANIFEST_MISSING")
     corpus_chunk_count = corpus_manifest.get("chunk_count")
@@ -175,7 +175,7 @@ def _vector_count_checks(
     table_repr = corpus_manifest.get("table_representation_count")
     repr_count = corpus_manifest.get("representation_count")
 
-    results: List[CheckResult] = []
+    results: list[CheckResult] = []
 
     # Anti-substitution: neither the operator's acceptance number nor the
     # expected-canonical number may be a representation/source-table count.
@@ -305,7 +305,7 @@ def _embedding_fingerprint_check(vector_root: str | Path) -> CheckResult:
     )
 
 
-def _live_embedding_check(probe_result: Optional[EmbeddingProbeResult]) -> CheckResult:
+def _live_embedding_check(probe_result: EmbeddingProbeResult | None) -> CheckResult:
     if probe_result is None:
         return _live("live_bge_m3_embedding_parity", CheckStatus.SKIPPED, "LIVE_SERVING_NOT_VALIDATED")
     if not isinstance(probe_result, EmbeddingProbeResult):
@@ -317,7 +317,7 @@ def _live_embedding_check(probe_result: Optional[EmbeddingProbeResult]) -> Check
     return _live("live_bge_m3_embedding_parity", status, probe_result.code, probe=probe_result.to_dict())
 
 
-def _live_reranker_check(probe_result: Optional[RerankerProbeResult]) -> CheckResult:
+def _live_reranker_check(probe_result: RerankerProbeResult | None) -> CheckResult:
     if probe_result is None:
         return _live("live_bge_reranker_parity", CheckStatus.SKIPPED, "LIVE_SERVING_NOT_VALIDATED")
     if not isinstance(probe_result, RerankerProbeResult):
@@ -329,7 +329,7 @@ def _live_reranker_check(probe_result: Optional[RerankerProbeResult]) -> CheckRe
     return _live("live_bge_reranker_parity", status, probe_result.code, probe=probe_result.to_dict())
 
 
-def _retrieval_smoke_check(smoke: Optional[Mapping[str, Any]]) -> CheckResult:
+def _retrieval_smoke_check(smoke: Mapping[str, Any] | None) -> CheckResult:
     if smoke is None:
         return _live("deterministic_retrieval_execution", CheckStatus.SKIPPED, "LIVE_BACKENDS_NOT_EXERCISED")
     ran = bool(smoke.get("ran"))
@@ -353,14 +353,14 @@ def validate_artifact_serving(
     vector_root: str | Path,
     bm25_root: str | Path,
     *,
-    embedding_probe_result: Optional[EmbeddingProbeResult] = None,
-    reranker_probe_result: Optional[RerankerProbeResult] = None,
-    retrieval_smoke: Optional[Mapping[str, Any]] = None,
+    embedding_probe_result: EmbeddingProbeResult | None = None,
+    reranker_probe_result: RerankerProbeResult | None = None,
+    retrieval_smoke: Mapping[str, Any] | None = None,
     expected_canonical_chunk_count: int = EXPECTED_CANONICAL_CHUNK_COUNT,
-    operator_expected_vector_count: Optional[int] = None,
-) -> List[CheckResult]:
+    operator_expected_vector_count: int | None = None,
+) -> list[CheckResult]:
     """Run every category-1 check and return the ordered results."""
-    checks: List[CheckResult] = []
+    checks: list[CheckResult] = []
     checks.extend(_compatibility_checks(corpus_root, vector_root, bm25_root))
     checks.extend(
         _vector_count_checks(
@@ -386,7 +386,7 @@ _REQUIRED_GOLD_FIELDS = frozenset({"question_id"})
 _GOLD_EVIDENCE_FIELDS = ("gold_report_id", "gold_table_id", "gold_paragraph_id", "gold_source_cell_ids")
 
 
-def validate_retrieval_quality(gold_annotations_path: Optional[str | Path] = None) -> CheckResult:
+def validate_retrieval_quality(gold_annotations_path: str | Path | None = None) -> CheckResult:
     """Return a quality check that is BLOCKED unless real gold evidence exists."""
     category = ValidationCategory.RETRIEVAL_QUALITY
     if gold_annotations_path is None:
@@ -440,8 +440,8 @@ def validate_retrieval_quality(gold_annotations_path: Optional[str | Path] = Non
     )
 
 
-def _load_jsonl(path: Path) -> List[Any]:
-    rows: List[Any] = []
+def _load_jsonl(path: Path) -> list[Any]:
+    rows: list[Any] = []
     for line in path.read_text(encoding="utf-8").splitlines():
         line = line.strip()
         if not line:
@@ -492,7 +492,7 @@ class ProductionValidationReport:
     def overall_status(self) -> str:
         return "PASS" if self.artifact_status == "PASS" and self.live_serving_status == "PASS" else "FAIL"
 
-    def to_dict(self) -> Dict[str, Any]:
+    def to_dict(self) -> dict[str, Any]:
         return {
             "schema_version": PRODUCTION_RETRIEVAL_VALIDATION_SCHEMA_VERSION,
             "overall_status": self.overall_status,
@@ -511,12 +511,12 @@ def run_full_corpus_retrieval_validation(
     vector_root: str | Path,
     bm25_root: str | Path,
     *,
-    embedding_probe_result: Optional[EmbeddingProbeResult] = None,
-    reranker_probe_result: Optional[RerankerProbeResult] = None,
-    retrieval_smoke: Optional[Mapping[str, Any]] = None,
-    gold_annotations_path: Optional[str | Path] = None,
+    embedding_probe_result: EmbeddingProbeResult | None = None,
+    reranker_probe_result: RerankerProbeResult | None = None,
+    retrieval_smoke: Mapping[str, Any] | None = None,
+    gold_annotations_path: str | Path | None = None,
     expected_canonical_chunk_count: int = EXPECTED_CANONICAL_CHUNK_COUNT,
-    operator_expected_vector_count: Optional[int] = None,
+    operator_expected_vector_count: int | None = None,
 ) -> ProductionValidationReport:
     checks = validate_artifact_serving(
         corpus_root,

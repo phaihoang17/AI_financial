@@ -5,15 +5,15 @@ from src.evaluation.program_trace import (
     normalized_program_equivalence,
 )
 from src.evaluation.reasoning import TraceComparison
-from src.numeric.m2_adapter import parse_canonical_decimal
-from src.numeric.scale_conversion import ScaleConversionStatus, convert_canonical_scale
 from src.evidence.schemas import Scale
+from src.numeric.parser_adapter import parse_canonical_decimal
+from src.numeric.scale_conversion import ScaleConversionStatus, convert_canonical_scale
 from src.programmer.generator import generate_program
 from src.programmer.schemas import ProgrammerStatus
 from tests.programmer.helpers import growth_programmer_input, valid_growth_program
 
 
-class M6Batch3IntegrationTests(unittest.TestCase):
+class NumericBoundaryIntegrationTests(unittest.TestCase):
     def test_numeric_boundaries_remain_separate_from_symbolic_program(self):
         programmer_input = growth_programmer_input()
         before = generate_program(programmer_input)

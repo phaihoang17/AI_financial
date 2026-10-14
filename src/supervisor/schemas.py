@@ -2,21 +2,21 @@
 
 from __future__ import annotations
 
+from collections.abc import Mapping
 from dataclasses import dataclass
 from enum import Enum
 from hashlib import sha256
 import json
 import math
-from typing import Any, Dict, List, Mapping, Optional, Set, Type, TypeVar
+from typing import Any, TypeVar
 
+from src.understanding.planning_gate import PlanningGate
 from src.understanding.schemas import (
     Operation,
     PeriodKind,
     SchemaValidationError,
     StatementScope,
 )
-from src.understanding.planning_gate import PlanningGate
-
 
 SUPERVISOR_CONTRACT_SCHEMA_VERSION = "m4-supervisor-v1"
 
@@ -85,7 +85,7 @@ def _require_mapping(value: Any, path: str) -> Mapping[str, Any]:
 
 
 def _require_exact_keys(
-    data: Mapping[str, Any], expected: Set[str], path: str
+    data: Mapping[str, Any], expected: set[str], path: str
 ) -> None:
     actual = set(data.keys())
     missing = expected - actual
@@ -106,13 +106,13 @@ def _require_string(value: Any, path: str) -> str:
     return value
 
 
-def _require_optional_string(value: Any, path: str) -> Optional[str]:
+def _require_optional_string(value: Any, path: str) -> str | None:
     if value is not None and not isinstance(value, str):
         raise SchemaValidationError(f"{path} must be a string or null")
     return value
 
 
-def _require_string_list(value: Any, path: str) -> List[str]:
+def _require_string_list(value: Any, path: str) -> list[str]:
     if not isinstance(value, list):
         raise SchemaValidationError(f"{path} must be a list")
     return [_require_string(item, f"{path}[{index}]") for index, item in enumerate(value)]
@@ -158,7 +158,7 @@ def _canonical_json(value: Any) -> bytes:
     ).encode("utf-8")
 
 
-def _parse_enum(value: Any, enum_type: Type[EnumT], path: str) -> EnumT:
+def _parse_enum(value: Any, enum_type: type[EnumT], path: str) -> EnumT:
     if not isinstance(value, str):
         raise SchemaValidationError(f"{path} must be a string enum value")
     try:
@@ -168,15 +168,15 @@ def _parse_enum(value: Any, enum_type: Type[EnumT], path: str) -> EnumT:
         raise SchemaValidationError(f"{path} must be one of: {allowed}") from error
 
 
-def _require_enum(value: Any, enum_type: Type[EnumT], path: str) -> EnumT:
+def _require_enum(value: Any, enum_type: type[EnumT], path: str) -> EnumT:
     if not isinstance(value, enum_type):
         raise SchemaValidationError(f"{path} must be a {enum_type.__name__}")
     return value
 
 
 def _require_enum_list(
-    value: Any, enum_type: Type[EnumT], path: str
-) -> List[EnumT]:
+    value: Any, enum_type: type[EnumT], path: str
+) -> list[EnumT]:
     if not isinstance(value, list):
         raise SchemaValidationError(f"{path} must be a list")
     return [
@@ -200,7 +200,7 @@ class PlanCompany:
         _require_exact_keys(data, {"name", "ticker"}, "company")
         return cls(name=data["name"], ticker=data["ticker"])
 
-    def to_dict(self) -> Dict[str, str]:
+    def to_dict(self) -> dict[str, str]:
         return {"name": self.name, "ticker": self.ticker}
 
 
@@ -217,11 +217,11 @@ class MetricTableMapping:
             _require_enum(self.table_class, TableClass, "table_class"),
         )
 
-    def to_dict(self) -> Dict[str, str]:
+    def to_dict(self) -> dict[str, str]:
         return {"metric": self.metric, "table_class": self.table_class.value}
 
     @classmethod
-    def from_dict(cls, value: Any) -> "MetricTableMapping":
+    def from_dict(cls, value: Any) -> MetricTableMapping:
         data = _require_mapping(value, "MetricTableMapping")
         _require_exact_keys(data, {"metric", "table_class"}, "MetricTableMapping")
         return cls(
@@ -236,10 +236,10 @@ class FormulaDefinition:
     operation: Operation
     question_type: QuestionType
     derived_target: str
-    required_metrics: List[str]
+    required_metrics: list[str]
     period_rule: FormulaPeriodRule
     reasoning_mode: ReasoningMode
-    evidence_sources: List[EvidenceSource]
+    evidence_sources: list[EvidenceSource]
 
     def __post_init__(self) -> None:
         object.__setattr__(self, "formula_id", _require_string(self.formula_id, "formula_id"))
@@ -266,7 +266,7 @@ class FormulaDefinition:
         if expected_type is None or self.question_type is not expected_type:
             raise SchemaValidationError("formula operation and question_type are incompatible")
 
-    def to_dict(self) -> Dict[str, Any]:
+    def to_dict(self) -> dict[str, Any]:
         return {
             "formula_id": self.formula_id,
             "operation": self.operation.value,
@@ -279,7 +279,7 @@ class FormulaDefinition:
         }
 
     @classmethod
-    def from_dict(cls, value: Any) -> "FormulaDefinition":
+    def from_dict(cls, value: Any) -> FormulaDefinition:
         data = _require_mapping(value, "FormulaDefinition")
         _require_exact_keys(
             data,
@@ -306,9 +306,9 @@ class FormulaDefinition:
 
 def make_retrieval_requirement_id(
     source_type: EvidenceSource,
-    table_class: Optional[TableClass],
-    metric: Optional[str],
-    period: Optional[str],
+    table_class: TableClass | None,
+    metric: str | None,
+    period: str | None,
     required: bool,
 ) -> str:
     payload = {
@@ -326,9 +326,9 @@ def make_retrieval_requirement_id(
 class RetrievalRequirement:
     requirement_id: str
     source_type: EvidenceSource
-    table_class: Optional[TableClass]
-    metric: Optional[str]
-    period: Optional[str]
+    table_class: TableClass | None
+    metric: str | None
+    period: str | None
     required: bool
 
     def __post_init__(self) -> None:
@@ -353,11 +353,11 @@ class RetrievalRequirement:
     def create(
         cls,
         source_type: EvidenceSource,
-        table_class: Optional[TableClass],
-        metric: Optional[str],
-        period: Optional[str],
+        table_class: TableClass | None,
+        metric: str | None,
+        period: str | None,
         required: bool = True,
-    ) -> "RetrievalRequirement":
+    ) -> RetrievalRequirement:
         return cls(
             make_retrieval_requirement_id(source_type, table_class, metric, period, required),
             source_type,
@@ -368,7 +368,7 @@ class RetrievalRequirement:
         )
 
     @classmethod
-    def from_dict(cls, value: Any) -> "RetrievalRequirement":
+    def from_dict(cls, value: Any) -> RetrievalRequirement:
         data = _require_mapping(value, "RetrievalRequirement")
         _require_exact_keys(data, {"requirement_id", "source_type", "table_class", "metric", "period", "required"}, "RetrievalRequirement")
         table_class = data["table_class"]
@@ -381,7 +381,7 @@ class RetrievalRequirement:
             data["required"],
         )
 
-    def to_dict(self) -> Dict[str, Any]:
+    def to_dict(self) -> dict[str, Any]:
         return {
             "requirement_id": self.requirement_id,
             "source_type": self.source_type.value,
@@ -396,15 +396,15 @@ class RetrievalRequirement:
 class Plan:
     question_type: QuestionType
     company: PlanCompany
-    periods: List[str]
+    periods: list[str]
     period_kind: PeriodKind
     statement_scope: StatementScope
-    target_metrics: List[str]
-    derived_target: Optional[str]
-    formula_id: Optional[str]
-    tables_needed: List[TableClass]
-    retrieval_requirements: List[RetrievalRequirement]
-    evidence_sources: List[EvidenceSource]
+    target_metrics: list[str]
+    derived_target: str | None
+    formula_id: str | None
+    tables_needed: list[TableClass]
+    retrieval_requirements: list[RetrievalRequirement]
+    evidence_sources: list[EvidenceSource]
     reasoning_mode: ReasoningMode
     requires_scale_resolution: bool
     model_tier: ModelTier
@@ -412,7 +412,7 @@ class Plan:
     max_retries: int
     confidence: float
     abstain: bool
-    abstain_reason: Optional[str]
+    abstain_reason: str | None
 
     def __post_init__(self) -> None:
         self.question_type = _require_enum(
@@ -473,7 +473,7 @@ class Plan:
         if self.abstain or self.abstain_reason is not None:
             raise SchemaValidationError("Plan is executable; abstention belongs to SupervisorResult")
 
-        requirement_tables: List[TableClass] = []
+        requirement_tables: list[TableClass] = []
         requirement_sources = []
         requirement_metrics = []
         requirement_periods = []
@@ -592,7 +592,7 @@ class Plan:
             abstain_reason=data["abstain_reason"],
         )
 
-    def to_dict(self) -> Dict[str, Any]:
+    def to_dict(self) -> dict[str, Any]:
         return {
             "question_type": self.question_type.value,
             "company": self.company.to_dict(),
@@ -639,9 +639,9 @@ def make_supervisor_input_fingerprint(
 @dataclass
 class SupervisorResult:
     planning_gate: PlanningGate
-    plan: Optional[Plan]
+    plan: Plan | None
     abstain: bool
-    abstain_reason: Optional[SupervisorAbstainReason]
+    abstain_reason: SupervisorAbstainReason | None
     input_fingerprint: str
 
     def __post_init__(self) -> None:
@@ -670,7 +670,7 @@ class SupervisorResult:
             raise SchemaValidationError("blocked PlanningGate cannot produce a Plan")
 
     @classmethod
-    def from_dict(cls, value: Any) -> "SupervisorResult":
+    def from_dict(cls, value: Any) -> SupervisorResult:
         data = _require_mapping(value, "SupervisorResult")
         _require_exact_keys(
             data,
@@ -686,7 +686,7 @@ class SupervisorResult:
             input_fingerprint=data["input_fingerprint"],
         )
 
-    def to_dict(self) -> Dict[str, Any]:
+    def to_dict(self) -> dict[str, Any]:
         return {
             "planning_gate": self.planning_gate.to_dict(),
             "plan": None if self.plan is None else self.plan.to_dict(),

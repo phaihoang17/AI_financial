@@ -2,14 +2,14 @@
 
 from __future__ import annotations
 
+from collections.abc import Mapping, Sequence
+from contextlib import nullcontext
 from dataclasses import dataclass, replace
 from hashlib import sha256
 import json
-from contextlib import nullcontext
-from typing import Any, List, Mapping, Optional, Protocol, Sequence
+from typing import Any, Protocol
 
 from src.retrieval.schemas import RetrievalCandidate, RetrievalContractError, RetrievalQuery
-
 
 RERANKER_SCHEMA_VERSION = "m3-bge-reranker-v1"
 BGE_RERANKER_MODEL_ID = "BAAI/bge-reranker-v2-m3"
@@ -78,7 +78,7 @@ class BGEReranker:
     model: SequenceClassifier
     device: str = "cpu"
     config_fingerprint: str = RERANKER_CONFIG_FINGERPRINT
-    torch_module: Optional[Any] = None
+    torch_module: Any | None = None
 
     def __post_init__(self) -> None:
         if not callable(self.tokenizer) or not callable(self.model):
@@ -101,7 +101,7 @@ class BGEReranker:
             raise RerankerError("RERANKER_TOKENIZATION_FAILED", str(error)) from error
         return _input_ids_length(encoded)
 
-    def score_pairs(self, query: str, documents: Sequence[str], *, batch_size: int) -> List[float]:
+    def score_pairs(self, query: str, documents: Sequence[str], *, batch_size: int) -> list[float]:
         if isinstance(batch_size, bool) or not isinstance(batch_size, int) or batch_size < 1:
             raise RerankerError("RERANKER_BATCH_SIZE_INVALID", "batch_size must be positive")
         if not isinstance(query, str) or any(not isinstance(document, str) for document in documents):
@@ -113,7 +113,7 @@ class BGEReranker:
                     "RERANKER_INPUT_TOO_LONG",
                     f"candidate[{index}] has {count} tokens; max is {RERANKER_MAX_PAIR_TOKENS}",
                 )
-        scores: List[float] = []
+        scores: list[float] = []
         if self.torch_module is None:
             try:
                 import torch
@@ -155,7 +155,7 @@ class BGEReranker:
 
 
 def load_bge_reranker(
-    *, device: Optional[str] = None, cache_dir: Optional[str] = None
+    *, device: str | None = None, cache_dir: str | None = None
 ) -> BGEReranker:
     """Load only the pinned BGE reranker revision and expected fast tokenizer."""
 
@@ -193,10 +193,10 @@ def rerank_candidates(
     query: RetrievalQuery,
     candidates: Sequence[RetrievalCandidate],
     *,
-    reranker: Optional[BGEReranker] = None,
+    reranker: BGEReranker | None = None,
     batch_size: int = 8,
-    top_k: Optional[int] = None,
-) -> List[RetrievalCandidate]:
+    top_k: int | None = None,
+) -> list[RetrievalCandidate]:
     """Score RRF candidates with raw logits and deterministic tie-breaking."""
 
     if not isinstance(query, RetrievalQuery):

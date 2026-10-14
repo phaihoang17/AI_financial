@@ -2,15 +2,15 @@
 
 from __future__ import annotations
 
+from collections.abc import Mapping
 from dataclasses import dataclass
 import json
 import math
 import re
-from typing import Any, Dict, List, Mapping, Optional
+from typing import Any
 
 from src.supervisor.schemas import EvidenceSource
 from src.understanding.schemas import SchemaValidationError
-
 
 EMBEDDING_CHUNK_SCHEMA_VERSION = "m2b-embedding-chunk-v1"
 EMBEDDING_RECORD_SCHEMA_VERSION = "m2b-embedding-record-v1"
@@ -43,7 +43,7 @@ def _string(value: Any, path: str, *, non_empty: bool = False) -> str:
     return value
 
 
-def _string_list(value: Any, path: str) -> List[str]:
+def _string_list(value: Any, path: str) -> list[str]:
     if not isinstance(value, list):
         raise SchemaValidationError(f"{path} must be a list")
     return [_string(item, f"{path}[{index}]") for index, item in enumerate(value)]
@@ -55,7 +55,7 @@ def _integer(value: Any, path: str, minimum: int = 0) -> int:
     return value
 
 
-def _optional_integer(value: Any, path: str) -> Optional[int]:
+def _optional_integer(value: Any, path: str) -> int | None:
     if value is None:
         return None
     return _integer(value, path)
@@ -114,7 +114,7 @@ class CellFragment:
         self.text = _string(self.text, "text")
         self.content_token_count = _integer(self.content_token_count, "content_token_count")
 
-    def to_dict(self) -> Dict[str, Any]:
+    def to_dict(self) -> dict[str, Any]:
         return {
             "source_cell_id": self.source_cell_id,
             "fragment_index": self.fragment_index,
@@ -124,7 +124,7 @@ class CellFragment:
         }
 
     @classmethod
-    def from_dict(cls, value: Any, path: str = "CellFragment") -> "CellFragment":
+    def from_dict(cls, value: Any, path: str = "CellFragment") -> CellFragment:
         data = _require_mapping(value, path)
         _require_exact_keys(data, {
             "source_cell_id", "fragment_index", "fragment_count", "text", "content_token_count"
@@ -140,16 +140,16 @@ class EmbeddingChunk:
     source_type: EvidenceSource
     chunk_index: int
     chunk_count: int
-    primary_source_cell_ids: List[str]
-    context_source_cell_ids: List[str]
-    anchor_row_start: Optional[int]
-    anchor_row_end: Optional[int]
-    anchor_column_start: Optional[int]
-    anchor_column_end: Optional[int]
+    primary_source_cell_ids: list[str]
+    context_source_cell_ids: list[str]
+    anchor_row_start: int | None
+    anchor_row_end: int | None
+    anchor_column_start: int | None
+    anchor_column_end: int | None
     content: str
     content_token_count: int
     chunking_config_fingerprint: str
-    cell_fragment: Optional[CellFragment] = None
+    cell_fragment: CellFragment | None = None
 
     def __post_init__(self) -> None:
         if self.schema_version != EMBEDDING_CHUNK_SCHEMA_VERSION:
@@ -199,7 +199,7 @@ class EmbeddingChunk:
             if self.primary_source_cell_ids != [self.cell_fragment.source_cell_id]:
                 raise SchemaValidationError("fragment chunks must have the fragmented cell as their only primary cell")
 
-    def to_dict(self) -> Dict[str, Any]:
+    def to_dict(self) -> dict[str, Any]:
         return {
             "schema_version": self.schema_version,
             "chunk_id": self.chunk_id,
@@ -220,7 +220,7 @@ class EmbeddingChunk:
         }
 
     @classmethod
-    def from_dict(cls, value: Any, path: str = "EmbeddingChunk") -> "EmbeddingChunk":
+    def from_dict(cls, value: Any, path: str = "EmbeddingChunk") -> EmbeddingChunk:
         data = _require_mapping(value, path)
         expected = {
             "schema_version", "chunk_id", "representation_id", "source_type", "chunk_index",
@@ -254,7 +254,7 @@ class EmbeddingRecord:
     dimension: int
     dtype: str
     normalized: bool
-    vector: List[float]
+    vector: list[float]
 
     def __post_init__(self) -> None:
         if self.schema_version != EMBEDDING_RECORD_SCHEMA_VERSION:
@@ -278,7 +278,7 @@ class EmbeddingRecord:
                 raise SchemaValidationError(f"vector[{index}] must be a finite number")
             self.vector[index] = float(value)
 
-    def to_dict(self) -> Dict[str, Any]:
+    def to_dict(self) -> dict[str, Any]:
         return {
             "schema_version": self.schema_version,
             "embedding_id": self.embedding_id,
@@ -292,7 +292,7 @@ class EmbeddingRecord:
         }
 
     @classmethod
-    def from_dict(cls, value: Any, path: str = "EmbeddingRecord") -> "EmbeddingRecord":
+    def from_dict(cls, value: Any, path: str = "EmbeddingRecord") -> EmbeddingRecord:
         data = _require_mapping(value, path)
         _require_exact_keys(data, {
             "schema_version", "embedding_id", "chunk_id", "representation_id", "model_fingerprint",

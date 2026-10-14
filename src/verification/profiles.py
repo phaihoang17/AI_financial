@@ -3,7 +3,6 @@
 from __future__ import annotations
 
 from dataclasses import dataclass
-from typing import List, Optional
 
 from src.supervisor.schemas import QuestionType, ReasoningMode, VerifyProfile
 from src.verification.schemas import (
@@ -16,14 +15,14 @@ from src.verification.schemas import (
 @dataclass(frozen=True)
 class VerificationProfileDecision:
     effective_profile: VerifyProfile
-    checks: List[VerificationCheckResult]
+    checks: list[VerificationCheckResult]
 
 
 def _check(
     check_id: str,
     passed: bool,
     reason_code: str,
-    *subject_ids: Optional[str],
+    *subject_ids: str | None,
 ) -> VerificationCheckResult:
     subjects = []
     for item in subject_ids:

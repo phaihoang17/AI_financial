@@ -2,7 +2,6 @@ import json
 from pathlib import Path
 import unittest
 
-
 FIXTURE_ROOT = Path(__file__).with_name("fixtures")
 
 

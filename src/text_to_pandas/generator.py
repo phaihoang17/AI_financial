@@ -9,11 +9,12 @@ and the isolated worker executes it.
 
 from __future__ import annotations
 
-import json
+from collections.abc import Mapping, Sequence
 from dataclasses import dataclass, field, is_dataclass, replace
+import json
 import re
 from time import monotonic_ns
-from typing import Any, Dict, Mapping, Optional, Sequence
+from typing import Any
 
 from src.serving.schemas import ServingError
 from src.text_to_pandas.catalog import DATASET_NAMES
@@ -61,9 +62,9 @@ REPAIR_INSTRUCTION = (
 
 @dataclass(frozen=True)
 class GenerationOutcome:
-    program: Optional[PandasProgram]
-    error_code: Optional[str]
-    error_message: Optional[str]
+    program: PandasProgram | None
+    error_code: str | None
+    error_message: str | None
     elapsed_ms: int
     usage: list = field(default_factory=list)
 
@@ -72,10 +73,10 @@ def build_payload(
     understanding: T2PUnderstanding,
     discovery: Discovery,
     *,
-    previous: Optional[Mapping[str, Any]] = None,
-    feedback: Optional[Mapping[str, Any]] = None,
-) -> Dict[str, Any]:
-    payload: Dict[str, Any] = {
+    previous: Mapping[str, Any] | None = None,
+    feedback: Mapping[str, Any] | None = None,
+) -> dict[str, Any]:
+    payload: dict[str, Any] = {
         "question": understanding.question,
         "understanding": {
             **understanding.to_dict(),
@@ -113,8 +114,8 @@ class PandasCodeGenerator:
         understanding: T2PUnderstanding,
         discovery: Discovery,
         *,
-        previous: Optional[Mapping[str, Any]] = None,
-        feedback: Optional[Mapping[str, Any]] = None,
+        previous: Mapping[str, Any] | None = None,
+        feedback: Mapping[str, Any] | None = None,
     ) -> GenerationOutcome:
         start = monotonic_ns()
         usage = []
@@ -128,7 +129,7 @@ class PandasCodeGenerator:
                     self.client.observer(event)
             client = replace(client, observer=observe)
         payload = build_payload(understanding, discovery, previous=previous, feedback=feedback)
-        params: Dict[str, Any] = {
+        params: dict[str, Any] = {
             "response_format": {"type": "json_object"},
             "max_tokens": self.max_tokens,
             "thinking": {"type": "enabled" if self.thinking else "disabled"},

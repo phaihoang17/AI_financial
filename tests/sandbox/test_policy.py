@@ -1,7 +1,7 @@
 from dataclasses import replace
 import unittest
 
-from src.evidence.m5_schemas import (
+from src.evidence.masking_schemas import (
     BindingMap,
     ValueBinding,
     make_value_placeholder,

@@ -11,11 +11,11 @@ production stdlib transport and is exercised only against a live server.
 
 from __future__ import annotations
 
+from collections.abc import Callable, Mapping, Sequence
+from dataclasses import dataclass
 import logging
 import time
-
-from dataclasses import dataclass
-from typing import Any, Callable, List, Mapping, Sequence
+from typing import Any
 
 from src.serving.schemas import ServingEndpoint, ServingError, ServingTask, Transport
 
@@ -26,14 +26,14 @@ def _as_mapping(value: Any) -> Mapping[str, Any]:
     return value
 
 
-def _ordered_data(response: Any) -> List[Mapping[str, Any]]:
+def _ordered_data(response: Any) -> list[Mapping[str, Any]]:
     """Return an OpenAI ``data`` array ordered by its ``index`` field."""
 
     body = _as_mapping(response)
     data = body.get("data")
     if not isinstance(data, list) or not data:
         raise ServingError("SERVING_PROTOCOL_INVALID", "response is missing a data array")
-    items: List[Mapping[str, Any]] = []
+    items: list[Mapping[str, Any]] = []
     for entry in data:
         items.append(_as_mapping(entry))
     if all("index" in entry for entry in items):
@@ -118,7 +118,7 @@ class OpenAICompatibleClient:
             raise ServingError("SERVING_PROTOCOL_INVALID", "choice is missing message content")
         return content
 
-    def embed(self, inputs: Sequence[str]) -> List[List[float]]:
+    def embed(self, inputs: Sequence[str]) -> list[list[float]]:
         """Call the embeddings API and return raw (un-normalized) vectors in order."""
 
         self._require_task(ServingTask.EMBED)
@@ -129,7 +129,7 @@ class OpenAICompatibleClient:
         items = _ordered_data(self._post("/v1/embeddings", payload))
         if len(items) != len(texts):
             raise ServingError("SERVING_PROTOCOL_INVALID", "embedding count does not match inputs")
-        vectors: List[List[float]] = []
+        vectors: list[list[float]] = []
         for item in items:
             vector = item.get("embedding")
             if not isinstance(vector, list) or not vector:
@@ -140,7 +140,7 @@ class OpenAICompatibleClient:
                 raise ServingError("SERVING_PROTOCOL_INVALID", "embedding is not numeric") from error
         return vectors
 
-    def score(self, query: str, documents: Sequence[str]) -> List[float]:
+    def score(self, query: str, documents: Sequence[str]) -> list[float]:
         """Call the cross-encoder score API and return raw scores in order."""
 
         self._require_task(ServingTask.SCORE)
@@ -151,7 +151,7 @@ class OpenAICompatibleClient:
         items = _ordered_data(self._post("/score", payload))
         if len(items) != len(docs):
             raise ServingError("SERVING_PROTOCOL_INVALID", "score count does not match documents")
-        scores: List[float] = []
+        scores: list[float] = []
         for item in items:
             value = item.get("score")
             if isinstance(value, bool) or not isinstance(value, (int, float)):

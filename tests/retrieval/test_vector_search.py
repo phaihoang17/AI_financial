@@ -6,7 +6,7 @@ import unittest
 from src.indexing.embedding_artifact_builder import APPROVED_EMBEDDING_FINGERPRINT
 from src.retrieval.query_embedding import QueryEmbedding, make_query_embedding_id, make_retrieval_query_id
 from src.retrieval.schemas import RetrievalCompany, RetrievalQuery
-from src.retrieval.vector_search import VectorSearchError, VectorSearcher
+from src.retrieval.vector_search import VectorSearcher, VectorSearchError
 from src.supervisor.schemas import EvidenceSource
 from src.understanding.schemas import StatementScope
 from tests.indexing.test_embedding_artifact_builder import EmbeddingArtifactBuilderTests, RecordingEncoder

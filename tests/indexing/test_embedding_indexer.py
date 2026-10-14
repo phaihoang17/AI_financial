@@ -6,7 +6,6 @@ from src.indexing.embedding_indexer import (
     embed_chunks,
     make_embedding_config_fingerprint,
 )
-
 from tests.indexing.test_embedding_chunker import CharTokenizer, build_fixture
 
 

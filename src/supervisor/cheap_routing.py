@@ -17,7 +17,6 @@ from __future__ import annotations
 
 from src.supervisor.schemas import ModelTier, Plan
 
-
 # The TASK-100 baseline is approved, so CHEAP routing may be activated for the
 # already-approved eligible cases. A future toggle to ``False`` conservatively
 # serves eligible plans at STRONG cost; it can never affect correctness.

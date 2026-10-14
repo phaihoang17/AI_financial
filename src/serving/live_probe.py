@@ -25,14 +25,14 @@ and raw-score closeness is advisory only.
 
 from __future__ import annotations
 
+from collections.abc import Sequence
 from dataclasses import dataclass, field
 import math
-from typing import Any, Dict, List, Optional, Sequence
+from typing import Any
 
 from src.indexing.embedding_schemas import EMBEDDING_DIMENSION
 from src.serving.client import OpenAICompatibleClient
 from src.serving.schemas import ServingError, ServingTask
-
 
 LIVE_PROBE_SCHEMA_VERSION = "m10-live-serving-probe-v1"
 
@@ -49,10 +49,10 @@ class LiveProbeError(Exception):
         super().__init__(f"{code}: {message}")
 
 
-def _finite_floats(values: Any, path: str) -> List[float]:
+def _finite_floats(values: Any, path: str) -> list[float]:
     if not isinstance(values, (list, tuple)) or not values:
         raise LiveProbeError("PROBE_RESPONSE_INVALID", f"{path} must be a non-empty sequence")
-    out: List[float] = []
+    out: list[float] = []
     for index, value in enumerate(values):
         if isinstance(value, bool) or not isinstance(value, (int, float)):
             raise LiveProbeError("PROBE_RESPONSE_INVALID", f"{path}[{index}] is not numeric")
@@ -63,7 +63,7 @@ def _finite_floats(values: Any, path: str) -> List[float]:
     return out
 
 
-def _l2_normalize(vector: Sequence[float], path: str) -> List[float]:
+def _l2_normalize(vector: Sequence[float], path: str) -> list[float]:
     norm = math.sqrt(sum(value * value for value in vector))
     if norm == 0.0 or not math.isfinite(norm):
         raise LiveProbeError("PROBE_ZERO_VECTOR", f"{path} has zero or non-finite L2 norm")
@@ -74,7 +74,7 @@ def _cosine(left: Sequence[float], right: Sequence[float]) -> float:
     return sum(a * b for a, b in zip(left, right))
 
 
-def _descending_order(scores: Sequence[float]) -> List[int]:
+def _descending_order(scores: Sequence[float]) -> list[int]:
     """Deterministic score-descending order with a stable index tie-break."""
     return sorted(range(len(scores)), key=lambda index: (-scores[index], index))
 
@@ -82,20 +82,20 @@ def _descending_order(scores: Sequence[float]) -> List[int]:
 @dataclass(frozen=True)
 class EmbeddingProbeResult:
     status: str
-    code: Optional[str]
+    code: str | None
     endpoint_name: str
     sample_size: int
-    dimension: Optional[int]
-    min_cosine_similarity: Optional[float]
-    raw_vectors_were_unit_norm: Optional[bool]
+    dimension: int | None
+    min_cosine_similarity: float | None
+    raw_vectors_were_unit_norm: bool | None
     min_cosine_threshold: float
-    detail: Dict[str, Any] = field(default_factory=dict)
+    detail: dict[str, Any] = field(default_factory=dict)
 
     @property
     def passed(self) -> bool:
         return self.status == "PASS"
 
-    def to_dict(self) -> Dict[str, Any]:
+    def to_dict(self) -> dict[str, Any]:
         return {
             "schema_version": LIVE_PROBE_SCHEMA_VERSION,
             "probe": "BGE_M3_EMBEDDING",
@@ -115,19 +115,19 @@ class EmbeddingProbeResult:
 @dataclass(frozen=True)
 class RerankerProbeResult:
     status: str
-    code: Optional[str]
+    code: str | None
     endpoint_name: str
     sample_size: int
-    order_matches_local: Optional[bool]
-    max_score_abs_diff: Optional[float]
+    order_matches_local: bool | None
+    max_score_abs_diff: float | None
     score_abs_tol: float
-    detail: Dict[str, Any] = field(default_factory=dict)
+    detail: dict[str, Any] = field(default_factory=dict)
 
     @property
     def passed(self) -> bool:
         return self.status == "PASS"
 
-    def to_dict(self) -> Dict[str, Any]:
+    def to_dict(self) -> dict[str, Any]:
         return {
             "schema_version": LIVE_PROBE_SCHEMA_VERSION,
             "probe": "BGE_RERANKER_SCORE",
@@ -182,7 +182,7 @@ def probe_embedding_endpoint(
         )
 
     raw_unit_norm = True
-    min_cos: Optional[float] = None
+    min_cos: float | None = None
     for index, (served_vector, reference) in enumerate(zip(served, refs)):
         if len(reference) != EMBEDDING_DIMENSION:
             raise LiveProbeError("PROBE_CONFIG_INVALID", f"local_vectors[{index}] is not {EMBEDDING_DIMENSION}-d")

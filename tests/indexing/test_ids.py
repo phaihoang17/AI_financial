@@ -39,7 +39,7 @@ class StableIdTests(unittest.TestCase):
 
     def test_canonical_json_is_utf8_sorted_and_compact(self):
         encoded = canonical_json_bytes({"z": 1, "a": "triệu"})
-        self.assertEqual(encoded, '{"a":"triệu","z":1}'.encode("utf-8"))
+        self.assertEqual(encoded, '{"a":"triệu","z":1}'.encode())
 
     def test_canonical_json_rejects_nan(self):
         with self.assertRaises(SchemaValidationError):

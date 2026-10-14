@@ -22,10 +22,11 @@ from __future__ import annotations
 
 import argparse
 from collections import defaultdict
+from collections.abc import Mapping, Sequence
 import json
 from pathlib import Path
 import tomllib
-from typing import Any, Dict, List, Mapping, Optional, Sequence
+from typing import Any
 
 from src.evaluation.gold_retrieval import load_gold_file
 from src.text_to_pandas.benchmark import evaluate
@@ -36,17 +37,17 @@ GROUP_FIELDS = ("operation", "statement", "template")
 GOLD_RANGE, HOLDOUT_MIN = (200, 300), 100
 
 
-def _gate(name: str, status: str, detail: Mapping[str, Any]) -> Dict[str, Any]:
+def _gate(name: str, status: str, detail: Mapping[str, Any]) -> dict[str, Any]:
     return {"gate": name, "status": status, **detail}
 
 
-def _load_json(path: Optional[str | Path]) -> Optional[Dict[str, Any]]:
+def _load_json(path: str | Path | None) -> dict[str, Any] | None:
     if path is None or not Path(path).is_file():
         return None
     return json.loads(Path(path).read_text(encoding="utf-8"))
 
 
-def score_split(gold: Path, negatives: Path, audit: Path, runs: Path) -> Dict[str, Any]:
+def score_split(gold: Path, negatives: Path, audit: Path, runs: Path) -> dict[str, Any]:
     """Benchmark one split, then add group, execution, provenance and refusal metrics."""
     # Gold defects found by src/evaluation/gold_qa.py are excluded alike in every split.
     qa_path = gold.parent / "qa.json"
@@ -59,7 +60,7 @@ def score_split(gold: Path, negatives: Path, audit: Path, runs: Path) -> Dict[st
     report = evaluate(cases, negative_rows, run_data, audit=audit_data)
     audited = {row["question_id"]: row for row in audit_data["cases"]}
     responses = run_data.get("responses", {})
-    groups: Dict[str, Dict[str, List[bool]]] = {field: defaultdict(list) for field in GROUP_FIELDS}
+    groups: dict[str, dict[str, list[bool]]] = {field: defaultdict(list) for field in GROUP_FIELDS}
     execution = {"eligible": 0, "succeeded": 0, "reached_execution": 0, "first_attempt_succeeded": 0}
     provenance = {"answered": 0, "exact": 0, "failures": []}
     for row in report["case_results"]:
@@ -113,7 +114,7 @@ def score_split(gold: Path, negatives: Path, audit: Path, runs: Path) -> Dict[st
     }
 
 
-def human_review_gate(splits: Mapping[str, Dict[str, Any]], reviews: Optional[Dict[str, Any]]) -> Dict[str, Any]:
+def human_review_gate(splits: Mapping[str, dict[str, Any]], reviews: dict[str, Any] | None) -> dict[str, Any]:
     total = sum(split["case_count"] for split in splits.values())
     holdout = splits.get("holdout", {}).get("case_count", 0)
     detail = {"total_cases": total, "holdout_cases": holdout,
@@ -130,7 +131,7 @@ def human_review_gate(splits: Mapping[str, Dict[str, Any]], reviews: Optional[Di
     return _gate("human_reviewed_gold", status, detail)
 
 
-def quality_gates(holdout: Dict[str, Any]) -> List[Dict[str, Any]]:
+def quality_gates(holdout: dict[str, Any]) -> list[dict[str, Any]]:
     if not holdout.get("run_complete"):
         blocked = {"reason": "holdout run is missing or incomplete"}
         return [_gate(name, "BLOCKED", blocked) for name in
@@ -159,7 +160,7 @@ def quality_gates(holdout: Dict[str, Any]) -> List[Dict[str, Any]]:
     ]
 
 
-def evidence_gate(name: str, evidence: Optional[Dict[str, Any]], passed_key: str = "passed") -> Dict[str, Any]:
+def evidence_gate(name: str, evidence: dict[str, Any] | None, passed_key: str = "passed") -> dict[str, Any]:
     if evidence is None:
         return _gate(name, "BLOCKED", {"reason": "evidence file missing"})
     return _gate(name, "PASS" if evidence.get(passed_key) is True else "FAIL",
@@ -168,7 +169,7 @@ def evidence_gate(name: str, evidence: Optional[Dict[str, Any]], passed_key: str
                      "measurement_scope", "limitations")})
 
 
-def capacity_gate(capped: Optional[Dict[str, Any]], uncapped: Optional[Dict[str, Any]]) -> Dict[str, Any]:
+def capacity_gate(capped: dict[str, Any] | None, uncapped: dict[str, Any] | None) -> dict[str, Any]:
     settings = tomllib.loads((Path(__file__).resolve().parents[2] / "deploy" / "sandbox" / "sandbox.toml")
                              .read_text(encoding="utf-8"))
     cap = settings["capacity"]["m7"].get("linux-nsjail-v1")
@@ -183,11 +184,11 @@ def capacity_gate(capped: Optional[Dict[str, Any]], uncapped: Optional[Dict[str,
     return _gate("sandbox_capacity", "PASS" if ok else "FAIL", detail)
 
 
-def build_report(args: argparse.Namespace) -> Dict[str, Any]:
+def build_report(args: argparse.Namespace) -> dict[str, Any]:
     # The gate's gold is the development split plus the scored holdout; any other
     # split given (e.g. a holdout already scored once, now development data) is
     # reported for diagnosis only.
-    splits: Dict[str, Dict[str, Any]] = {}
+    splits: dict[str, dict[str, Any]] = {}
     plan = [("dev", args.dev_runs), ("holdout", args.holdout_runs)]
     extra = [tuple(item.split("=", 1)) for item in getattr(args, "extra", None) or []]
     for split, runs in plan:
@@ -211,7 +212,10 @@ def build_report(args: argparse.Namespace) -> Dict[str, Any]:
               evidence_gate("api_reliability", _load_json(args.api)),
               capacity_gate(_load_json(args.capacity), _load_json(args.capacity_uncapped))]
     summary = {gate["gate"]: gate["status"] for gate in gates}
-    strip = lambda split: {key: value for key, value in split.items() if key != "case_results"}
+
+    def strip(split):
+        return {key: value for key, value in split.items() if key != "case_results"}
+
     return {"schema_version": GATE_SCHEMA_VERSION,
             "production_ready": all(status == "PASS" for status in summary.values()),
             "holdout_split": args.holdout_split,
@@ -220,7 +224,7 @@ def build_report(args: argparse.Namespace) -> Dict[str, Any]:
             "diagnostic_splits": {name: strip(split) for name, split in diagnostics.items()}}
 
 
-def main(argv: Optional[Sequence[str]] = None) -> int:
+def main(argv: Sequence[str] | None = None) -> int:
     parser = argparse.ArgumentParser(description=__doc__.splitlines()[0])
     parser.add_argument("--gold-root", default="gold/production-v1")
     parser.add_argument("--dev-runs")

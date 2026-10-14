@@ -2112,7 +2112,7 @@ loops, and message/schema corruption. `src/orchestration/coordination_log.py`
 already emitted `ATTEMPT_RECORDED`, `MODEL_TIER_ESCALATION`,
 `RETRY_BUDGET_CONSUMED`, `RETRY_BUDGET_EXHAUSTED`, and `TERMINAL_FAILURE`,
 covering the retry-loop bullet. The remaining three categories were not
-represented. M9's `M9State` / `AttemptRecord` contracts are immutable and
+represented. M9's `OrchestrationState` / `AttemptRecord` contracts are immutable and
 strictly validated on construction (ADR-045), so most contradictions cannot
 exist in a validated state — a naive detector would be dead code.
 
@@ -2125,7 +2125,7 @@ enforce, plus one minimal raw-payload entry point. Events carry only stable
 diagnostic scalars — never `binding_ref`, evidence, execution output, prompts,
 or secrets.
 
-- **`CONFLICTING_WORKER_STATE`.** `M9State._validate_pass` constrains only the
+- **`CONFLICTING_WORKER_STATE`.** `OrchestrationState._validate_pass` constrains only the
   `PASS` direction, so a terminal non-`PASS` outcome whose final `AttemptRecord`
   still carries an M8 `RetryDirective` with `action == PASS` is representable and
   contradictory. A `CLARIFICATION` terminal outcome with a non-empty attempt
@@ -2133,11 +2133,11 @@ or secrets.
   any executable attempt). Either fires the event, at most once.
 - **`STALE_WORKER_STATE`.** `build_failure_response` always stamps
   `FailureAttribution.attempt_index` with `attempts[-1].attempt_index` (or
-  `None`), and `M9State` never re-checks that pointer against the attempt tuple.
+  `None`), and `OrchestrationState` never re-checks that pointer against the attempt tuple.
   An attribution pointing at a superseded / out-of-range / absent attempt is a
   stale observation that never advanced with the run.
 - **`MESSAGE_SCHEMA_CORRUPTION`.** The dict passed between orchestration nodes is
-  the coordination message; `M9State.from_dict` is the fail-closed edge every
+  the coordination message; `OrchestrationState.from_dict` is the fail-closed edge every
   node already crosses. New `scan_coordination_payload(payload)` runs that edge
   and, on `SchemaValidationError`, records one event with only the boundary name
   and the exception class name — no payload body, no message. A payload that
@@ -2227,7 +2227,7 @@ sizes 8/16/32/64 that recommends the largest stable batch beating the prior by
 ### Qwen is not in the v1 active path (verified in code)
 
 - No active v1 query path calls `Qwen3-8B` or `Qwen2.5-Coder-14B`. The M9 graph
-  (`src/orchestration/nodes.py`) calls `supervise_batch1` and `verify` as
+  (`src/orchestration/nodes.py`) calls `supervise` and `verify` as
   deterministic functions; NLU / Programmer / Sandbox are injected ports whose
   only implementations (`src/evaluation/e2e_fixtures.py`) are deterministic;
   `generate_program` is a pure symbolic-DSL builder and takes no model tier.
@@ -2305,7 +2305,7 @@ Executed end to end on an RTX 5090 (driver CUDA 13.0, torch cu128, `faiss-cpu`,
   `true`, max score abs diff `1.9e-06`).
 - **Deterministic retrieval-execution smoke** —
   `run_retrieval_execution_smoke` over `deploy/retrieval/smoke-queries.jsonl`
-  (4 Qwen-free `RetrievalQuery` rows) through the real `Batch3Retriever`
+  (4 Qwen-free `RetrievalQuery` rows) through the real `HybridRetriever`
   (BM25 + `VectorSearcher` + pinned CPU BGE-M3 query encoder + pinned CPU
   BGE-reranker): `ran true`, `byte_identical true`, `crashes 0`, `timeouts 0`,
   `sample_size 4` (exit 0).
@@ -2328,7 +2328,7 @@ Executed end to end on an RTX 5090 (driver CUDA 13.0, torch cu128, `faiss-cpu`,
   no model is deployed.
 - **Known limitation:** the deterministic retrieval-execution smoke is a typed
   input the runner *gates on* (`ran` + `byte_identical` + no crash/timeout), not
-  something the runner drives itself. Driving `Batch3Retriever` end to end needs
+  something the runner drives itself. Driving `HybridRetriever` end to end needs
   the retrieval stack wired into an online path (building a `RetrievalQuery` and
   a `query_embedder`), which is a separate task; until then the operator
   produces the smoke result from a real run over committed `RetrievalQuery`
@@ -3618,3 +3618,53 @@ The UI shows exactly what the API returns; display rounding is local and CSV exp
 keeps exact values. A separate frontend stack can replace the page later without an
 API change. Cross-company ranking questions remain outside the measured gold groups.
 
+
+---
+
+## ADR-074 — Role-based file and symbol names; repository lint gate
+
+**Status:** Implemented. Code-structure rename only: no contract value, persisted
+identifier, schema version, error code or runtime behavior changes. The fixture
+evaluations produce byte-identical reports before and after.
+
+### Context
+
+Several modules, tests and symbols were named after the milestone or batch that
+introduced them (`batch3.py`, `m5_schemas.py`, `M9State`), so their names said when
+they were written, not what they do. The orchestration package still exported
+deprecated `M9Batch*` / `run_batch3_*` aliases that only a compatibility test used.
+`ruff check src tests` had no repository config, so its result depended on the
+machine, and the typing style was mixed (`List[...]` beside `list[...]`).
+
+### Decision
+
+- Renamed modules: `src/retrieval/batch3.py` -> `src/retrieval/hybrid_retriever.py`,
+  `src/evidence/m5_schemas.py` -> `src/evidence/masking_schemas.py`,
+  `src/numeric/m2_adapter.py` -> `src/numeric/parser_adapter.py`.
+- Renamed symbols: `Batch3Retriever` -> `HybridRetriever`, `Batch3RetrievalError` ->
+  `HybridRetrievalError`, `M9State` -> `OrchestrationState`, `M9Phase` ->
+  `OrchestrationPhase`, `supervise_batch1` -> `supervise`.
+- Removed the deprecated orchestration aliases (`Batch2Dependencies`, `M9Batch2Graph`,
+  `M9Batch2Result`, `M9Batch3Graph`, `M9Batch3Result`, `M9_BATCH2_NODE_SEQUENCE`,
+  `M9_BATCH3_NODES`, `Batch3Transition`, `run_batch3_*`);
+  `tests/orchestration/test_public_api.py` asserts they stay gone.
+- Test files follow the module or behavior they test (for example
+  `tests/retrieval/test_hybrid_retriever.py`, `tests/evidence/helpers.py`); the two
+  evidence batch integration tests are merged into `tests/evidence/test_integration.py`.
+  The shared Text-to-Pandas `catalog` fixture lives in `tests/text_to_pandas/conftest.py`.
+- Reference PDFs carry the paper name (`docs/references/tat-qa-2105.07624v2.pdf`, ...).
+- `ruff.toml` pins the lint gate: Python 3.11, rules `E4 E7 E9 F I UP B`, imports
+  sorted within sections. `B905` and `UP042` are ignored because their fixes change
+  behavior (`zip(strict=)`, `StrEnum` string formatting).
+- Kept on purpose: identifiers whose value is persisted or deployed — schema and
+  contract versions (`m7-execution-request-v1`, `M7_LIMITS_V1`, `M2A_SCHEMA_VERSION`,
+  `M9_STATE_SCHEMA_VERSION`, `M5_MASKING_CONTRACT_VERSION`), error codes, the
+  `M7_*` environment variables and `deploy/sandbox/m7-*.cfg|policy`, which match the
+  installed `/etc/ai-financial/` paths.
+
+### Consequences
+
+Imports of the old module paths and symbols fail; there is no alias period. Earlier
+ADRs and task notes now cite the new names. `source_fingerprint()` hashes every
+`src/**/*.py`, so release and live-run records made before this change no longer match
+the current source and must be re-measured before a release preflight passes.

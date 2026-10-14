@@ -4,7 +4,7 @@ from __future__ import annotations
 
 from dataclasses import dataclass
 from enum import Enum
-from typing import Any, Dict, Optional, Protocol
+from typing import Any, Protocol
 
 from src.understanding.schemas import (
     SchemaValidationError,
@@ -58,7 +58,7 @@ class ReasoningEvaluationResult:
             answer_correct=data["answer_correct"],
         )
 
-    def to_dict(self) -> Dict[str, Any]:
+    def to_dict(self) -> dict[str, Any]:
         return {
             "execution_correct": self.execution_correct,
             "trace_comparison": self.trace_comparison.value,
@@ -69,7 +69,7 @@ class ReasoningEvaluationResult:
 def compare_traces(
     expected_trace: Any,
     actual_trace: Any,
-    equivalence_hook: Optional[TraceEquivalenceHook] = None,
+    equivalence_hook: TraceEquivalenceHook | None = None,
 ) -> TraceComparison:
     """Compare opaque traces exactly, then through an optional equivalence hook."""
     exact_match = expected_trace == actual_trace

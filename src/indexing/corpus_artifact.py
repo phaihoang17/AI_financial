@@ -7,24 +7,24 @@ indexes, or lexical indexes.
 
 from __future__ import annotations
 
-from dataclasses import dataclass
+from collections.abc import Mapping, Sequence
 import csv
+from dataclasses import dataclass
 from hashlib import sha256
 import json
 import os
 from pathlib import Path
 import re
-import shutil
 import time
-from typing import Any, Dict, Iterable, List, Mapping, Optional, Sequence, Set, Tuple
+from typing import Any
 
 from src.indexing.document_parser import parse_document
 from src.indexing.embedding_chunker import (
     BGE_M3_MODEL_ID,
     BGE_M3_REVISION,
     CHUNKING_CONFIG_FINGERPRINT,
-    load_bge_m3_tokenizer,
     build_embedding_chunks,
+    load_bge_m3_tokenizer,
 )
 from src.indexing.embedding_schemas import (
     EMBEDDING_CHUNK_SCHEMA_VERSION,
@@ -49,7 +49,6 @@ from src.indexing.schemas import (
 from src.indexing.table_text_linker import link_tables_to_paragraphs, link_unit_declarations
 from src.supervisor.schemas import EvidenceSource
 from src.understanding.schemas import SchemaValidationError, StatementScope
-
 
 CORPUS_ARTIFACT_SCHEMA_VERSION = "m2-corpus-artifact-v1"
 CORPUS_RECORD_SCHEMA_VERSION = "m2-corpus-chunk-record-v1"
@@ -77,12 +76,12 @@ class CorpusReport:
     ticker: str
     company_name: str
     report_year: int
-    statement_scope: Optional[StatementScope]
+    statement_scope: StatementScope | None
     report_id: str
     content_sha256: str
     byte_size: int
 
-    def inventory_dict(self) -> Dict[str, Any]:
+    def inventory_dict(self) -> dict[str, Any]:
         return {
             "report_id": self.report_id,
             "source_ref": self.source_ref,
@@ -107,7 +106,7 @@ class _Stats:
     source_cell_count: int = 0
     emitted_source_cell_count: int = 0
 
-    def to_dict(self) -> Dict[str, int]:
+    def to_dict(self) -> dict[str, int]:
         return {
             "report_count": self.report_count,
             "representation_count": self.representation_count,
@@ -121,11 +120,11 @@ class _Stats:
         }
 
     @classmethod
-    def from_dict(cls, value: Mapping[str, Any]) -> "_Stats":
+    def from_dict(cls, value: Mapping[str, Any]) -> _Stats:
         fields = cls().__dict__.keys()
         if set(value) != set(fields):
             raise CorpusArtifactError("CHECKPOINT_INVALID", "checkpoint statistics have the wrong shape")
-        parsed: Dict[str, int] = {}
+        parsed: dict[str, int] = {}
         for field in fields:
             raw = value[field]
             if isinstance(raw, bool) or not isinstance(raw, int) or raw < 0:
@@ -186,7 +185,7 @@ def _atomic_write_json(path: Path, value: Any, *, sorted_keys: bool = False) -> 
     _atomic_write_bytes(path, payload)
 
 
-def _statement_scope(directory_name: str) -> Optional[StatementScope]:
+def _statement_scope(directory_name: str) -> StatementScope | None:
     if directory_name.endswith("_consolidated"):
         return StatementScope.HOP_NHAT
     if directory_name.endswith("_separate"):
@@ -198,7 +197,7 @@ def _statement_scope(directory_name: str) -> Optional[StatementScope]:
     return None
 
 
-def _load_company_names(path: Path) -> Dict[str, str]:
+def _load_company_names(path: Path) -> dict[str, str]:
     try:
         with path.open("r", encoding="utf-8-sig", newline="") as handle:
             rows = csv.DictReader(handle)
@@ -261,7 +260,7 @@ def enumerate_reports(
     *,
     corpus_id: str = "ViFinQA",
     company_metadata: str | Path | None = None,
-) -> List[CorpusReport]:
+) -> list[CorpusReport]:
     """Return the complete source inventory in deterministic POSIX order."""
 
     root = Path(corpus_root).resolve()
@@ -330,11 +329,11 @@ def _report_pipeline(
     *,
     corpus_id: str,
     tokenizer: Any,
-) -> Tuple[ReportSource, List[RetrievalRepresentation], List[EmbeddingChunk], int]:
+) -> tuple[ReportSource, list[RetrievalRepresentation], list[EmbeddingChunk], int]:
     source = _make_source(report, corpus_id)
     document = parse_document(source)
     paragraphs = extract_paragraphs(source, document)
-    normalized_tables: List[NormalizedTable] = []
+    normalized_tables: list[NormalizedTable] = []
     for page in document.pages:
         for table in page.tables:
             if table.parse_status is TableParseStatus.UNPARSEABLE:
@@ -404,7 +403,7 @@ def _record(
     chunk: EmbeddingChunk,
     source_cell_ids: Sequence[str],
     source_order: int,
-) -> Dict[str, Any]:
+) -> dict[str, Any]:
     return {
         "record_schema_version": CORPUS_RECORD_SCHEMA_VERSION,
         "source_order": source_order,
@@ -441,7 +440,7 @@ class _ShardWriter:
         self.shard_id = shard_id
         self.record_count = record_count
         self.byte_count = byte_count
-        self._handle: Optional[Any] = None
+        self._handle: Any | None = None
         if self.record_count:
             path = self.path
             if not path.exists():
@@ -508,7 +507,7 @@ def _checkpoint_payload(
     next_source_order: int,
     writer: _ShardWriter,
     stats: _Stats,
-) -> Dict[str, Any]:
+) -> dict[str, Any]:
     return {
         "state_version": _STATE_VERSION,
         "artifact_id": artifact_id,
@@ -532,7 +531,7 @@ def _load_checkpoint(path: Path) -> Mapping[str, Any]:
     return value
 
 
-def _recover_staging(staging: Path, artifact_id: str, inventory_hash: str) -> Tuple[Mapping[str, Any], _Stats, _ShardWriter]:
+def _recover_staging(staging: Path, artifact_id: str, inventory_hash: str) -> tuple[Mapping[str, Any], _Stats, _ShardWriter]:
     checkpoint_path = staging / _CHECKPOINT_NAME
     state = _load_checkpoint(checkpoint_path)
     if state.get("state_version") != _STATE_VERSION or state.get("artifact_id") != artifact_id:
@@ -578,7 +577,7 @@ def _manifest_base(
     corpus_id: str,
     max_records_per_shard: int,
     max_shard_bytes: int,
-) -> Dict[str, Any]:
+) -> dict[str, Any]:
     return {
         "manifest_schema_version": CORPUS_ARTIFACT_SCHEMA_VERSION,
         "record_schema_version": CORPUS_RECORD_SCHEMA_VERSION,
@@ -605,7 +604,7 @@ def _manifest_base(
     }
 
 
-def _shard_manifest(path: Path) -> Dict[str, Any]:
+def _shard_manifest(path: Path) -> dict[str, Any]:
     records = 0
     table_chunks = 0
     text_chunks = 0
@@ -641,7 +640,7 @@ def _write_manifest(staging: Path, manifest: Mapping[str, Any]) -> None:
     _atomic_write_json(staging / _MANIFEST_NAME, manifest)
 
 
-def verify_corpus_artifact(artifact: str | Path) -> Dict[str, Any]:
+def verify_corpus_artifact(artifact: str | Path) -> dict[str, Any]:
     """Verify all physical records, hashes, provenance, counts, and coverage."""
 
     root = Path(artifact)
@@ -661,16 +660,16 @@ def verify_corpus_artifact(artifact: str | Path) -> Dict[str, Any]:
     expected_report_ids = {item.get("report_id") for item in reports if isinstance(item, dict)}
     if len(expected_report_ids) != len(reports) or None in expected_report_ids:
         raise CorpusArtifactError("MANIFEST_INVALID", "report inventory is invalid")
-    seen_report_ids: Set[str] = set()
-    seen_chunk_ids: Set[str] = set()
-    expected_cells_by_rep: Dict[str, Set[str]] = {}
-    emitted_cells_by_rep: Dict[str, Set[str]] = {}
-    seen_rep_ids: Set[str] = set()
+    seen_report_ids: set[str] = set()
+    seen_chunk_ids: set[str] = set()
+    expected_cells_by_rep: dict[str, set[str]] = {}
+    emitted_cells_by_rep: dict[str, set[str]] = {}
+    seen_rep_ids: set[str] = set()
     source_order = 0
     table_chunks = 0
     text_chunks = 0
     record_count = 0
-    physical_shards: List[Dict[str, Any]] = []
+    physical_shards: list[dict[str, Any]] = []
     for shard_entry in shards:
         if not isinstance(shard_entry, dict):
             raise CorpusArtifactError("MANIFEST_INVALID", "shard entry is not an object")
@@ -864,7 +863,7 @@ def build_corpus_artifact(
                 corpus_id=corpus_id,
                 tokenizer=tokenizer,
             )
-            normalized_source_cells: Dict[str, List[str]] = {}
+            normalized_source_cells: dict[str, list[str]] = {}
             for representation in representations:
                 if representation.source_type is EvidenceSource.TABLE:
                     # All chunks for this representation carry the same source
@@ -872,7 +871,7 @@ def build_corpus_artifact(
                     # lossless fragment/context metadata in the chunk stream.
                     normalized_source_cells.setdefault(representation.representation_id, [])
             representation_by_id = {representation.representation_id: representation for representation in representations}
-            source_cell_ids_by_rep: Dict[str, List[str]] = {}
+            source_cell_ids_by_rep: dict[str, list[str]] = {}
             for chunk in chunks:
                 if chunk.source_type is EvidenceSource.TABLE:
                     source_cell_ids_by_rep.setdefault(chunk.representation_id, [])
@@ -883,8 +882,8 @@ def build_corpus_artifact(
             for representation in representations:
                 if representation.source_type is not EvidenceSource.TABLE:
                     continue
-                seen: Set[str] = set()
-                ordered: List[str] = []
+                seen: set[str] = set()
+                ordered: list[str] = []
                 for source_cell_id in source_cell_ids_by_rep.get(representation.representation_id, []):
                     if source_cell_id not in seen:
                         seen.add(source_cell_id)

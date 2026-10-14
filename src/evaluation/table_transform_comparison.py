@@ -3,33 +3,28 @@
 from __future__ import annotations
 
 from collections import Counter
-from dataclasses import dataclass, field
-import json
+from collections.abc import Sequence
+from dataclasses import dataclass
 import statistics
 import time
-from typing import Any, Dict, List, Optional, Sequence
+from typing import Any
 
-from src.evidence.m5_schemas import MaskedEvidence, MaskedEvidenceBundle, make_value_placeholder
-from src.orchestration.schemas import EvaluationFailureStage
+from src.evidence.masking_schemas import MaskedEvidence, MaskedEvidenceBundle, make_value_placeholder
 from src.programmer.generator import generate_program
 from src.programmer.schemas import (
-    Program,
-    ProgramOutputKind,
     ProgrammerInput,
     ProgrammerStatus,
+    ProgramOutputKind,
 )
 from src.supervisor.formula_registry import FORMULA_REGISTRY_FINGERPRINT
 from src.supervisor.schemas import (
     EvidenceSource,
     Plan,
-    QuestionType,
-    ReasoningMode,
     RetrievalRequirement,
     StatementScope,
     TableClass,
 )
 from src.table_transform.planner import (
-    TableTransformResult,
     TableTransformStatus,
     plan_and_transform,
 )
@@ -38,7 +33,6 @@ from src.table_transform.schemas import (
     TableOperationType,
     TableRow,
     TableState,
-    TableTransformFailureCode,
 )
 from src.understanding.schemas import (
     CompanyUnderstanding,
@@ -88,13 +82,13 @@ class CaseComparisonResult:
     step_efficiency: str
     baseline_success: bool
     baseline_latency_ms: float
-    baseline_failure_code: Optional[str]
+    baseline_failure_code: str | None
     fallback_success: bool
     fallback_latency_ms: float
-    fallback_failure_code: Optional[str]
+    fallback_failure_code: str | None
     static_inability_reason: str
 
-    def to_dict(self) -> Dict[str, Any]:
+    def to_dict(self) -> dict[str, Any]:
         return {
             "case_id": self.case_id,
             "group": self.group,
@@ -121,7 +115,7 @@ class TableTransformComparisonReport:
     baseline_mean_latency_ms: float
     fallback_mean_latency_ms: float
     average_fallback_steps: float
-    step_distribution: Dict[int, int]
+    step_distribution: dict[int, int]
     baseline_group_accuracy: float
     baseline_group_fallback_accuracy: float
     multistep_group_baseline_accuracy: float
@@ -129,10 +123,10 @@ class TableTransformComparisonReport:
     multistep_group_mean_steps: float
     corpus_cases_available: bool
     corpus_cases_note: str
-    results: List[CaseComparisonResult]
+    results: list[CaseComparisonResult]
     recommendation: str
 
-    def to_dict(self) -> Dict[str, Any]:
+    def to_dict(self) -> dict[str, Any]:
         return {
             "schema_version": self.schema_version,
             "total_case_count": self.total_case_count,
@@ -305,7 +299,7 @@ def run_comparison_evaluation(cases: Sequence[ComplexTableCase]) -> TableTransfo
     )
 
 
-def build_complex_table_fixtures() -> List[ComplexTableCase]:
+def build_complex_table_fixtures() -> list[ComplexTableCase]:
     """Generate representative benchmark cases comparing static Programmer vs TABLE_TRANSFORM."""
     req_lnst_2022 = RetrievalRequirement.create(EvidenceSource.TABLE, TableClass.INCOME_STATEMENT, "LNST", "2022")
     req_lnst_2021 = RetrievalRequirement.create(EvidenceSource.TABLE, TableClass.INCOME_STATEMENT, "LNST", "2021")
@@ -1165,12 +1159,12 @@ def render_comparison_markdown(report: TableTransformComparisonReport) -> str:
         "## Group-Level Disaggregated Metrics (Unpooled)",
         "",
         "### 1. Existing Baseline Cases (Cases 1 - 5)",
-        f"- **Cases:** 5 (Standard lookups, simple multi-period, 1-step row/column pruning)",
+        "- **Cases:** 5 (Standard lookups, simple multi-period, 1-step row/column pruning)",
         f"- **Static M6 Accuracy:** {report.baseline_group_accuracy:.1%}",
         f"- **M6B Fallback Accuracy:** {report.baseline_group_fallback_accuracy:.1%}",
         "",
         "### 2. New Multi-Step Complex Cases (Cases 6 - 13, >= 3 operations)",
-        f"- **Cases:** 8 (All requiring >= 3 distinct operation types)",
+        "- **Cases:** 8 (All requiring >= 3 distinct operation types)",
         f"- **Static M6 Accuracy:** {report.multistep_group_baseline_accuracy:.1%}",
         f"- **M6B Fallback Accuracy:** {report.multistep_group_fallback_accuracy:.1%}",
         f"- **Average Steps on Multi-Step Group:** {report.multistep_group_mean_steps:.2f} steps",

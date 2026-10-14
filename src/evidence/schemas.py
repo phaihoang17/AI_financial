@@ -6,7 +6,7 @@ from dataclasses import dataclass, field
 from enum import Enum
 import math
 import re
-from typing import Any, Dict, List, Optional, Union
+from typing import Any
 
 from src.supervisor.schemas import EvidenceSource
 from src.understanding.schemas import (
@@ -39,8 +39,8 @@ class ScaleSource(str, Enum):
     QUESTION = "QUESTION"
 
 
-Number = Union[int, float]
-RawValue = Union[str, int, float]
+Number = int | float
+RawValue = str | int | float
 
 
 class CanonicalDecimal(str):
@@ -48,13 +48,13 @@ class CanonicalDecimal(str):
 
     _PATTERN = re.compile(r"-?(?:0|[1-9]\d*)(?:\.\d+)?\Z")
 
-    def __new__(cls, value: str) -> "CanonicalDecimal":
+    def __new__(cls, value: str) -> CanonicalDecimal:
         if not isinstance(value, str) or not cls._PATTERN.fullmatch(value):
             raise SchemaValidationError("normalized_value must be a canonical decimal string")
         return str.__new__(cls, value)
 
 
-def _require_optional_number(value: Any, path: str) -> Optional[Number]:
+def _require_optional_number(value: Any, path: str) -> Number | None:
     if value is None:
         return None
     if isinstance(value, bool) or not isinstance(value, (int, float)):
@@ -64,12 +64,12 @@ def _require_optional_number(value: Any, path: str) -> Optional[Number]:
     return value
 
 
-def _require_optional_float(value: Any, path: str) -> Optional[float]:
+def _require_optional_float(value: Any, path: str) -> float | None:
     number = _require_optional_number(value, path)
     return None if number is None else float(number)
 
 
-def _require_optional_canonical_decimal(value: Any) -> Optional[CanonicalDecimal]:
+def _require_optional_canonical_decimal(value: Any) -> CanonicalDecimal | None:
     if value is None:
         return None
     if not isinstance(value, str):
@@ -77,7 +77,7 @@ def _require_optional_canonical_decimal(value: Any) -> Optional[CanonicalDecimal
     return CanonicalDecimal(value)
 
 
-def _require_raw_value(value: Any) -> Optional[RawValue]:
+def _require_raw_value(value: Any) -> RawValue | None:
     if value is None or isinstance(value, str):
         return value
     number = _require_optional_number(value, "raw_value")
@@ -89,29 +89,29 @@ class EvidenceItem:
     evidence_id: str
     source_type: EvidenceSource
     report_ref: str
-    page_ref: Optional[str]
-    table_ref: Optional[str]
-    associated_table_ref: Optional[str]
-    statement_scope: Optional[StatementScope]
-    period: Optional[str]
-    metric: Optional[str]
-    row_label: Optional[str]
-    column_label: Optional[str]
-    row_path: List[str]
-    column_path: List[str]
-    text_span: Optional[str]
-    raw_value: Optional[RawValue]
-    normalized_value: Optional[CanonicalDecimal]
-    unit: Optional[str]
-    scale: Optional[Scale]
-    scale_source: Optional[ScaleSource]
-    retrieval_score: Optional[float]
-    rerank_score: Optional[float]
-    ticker: Optional[str] = None
-    company_name: Optional[str] = None
-    report_year: Optional[int] = None
-    paragraph_ref: Optional[str] = None
-    provenance_link_ids: List[str] = field(default_factory=list)
+    page_ref: str | None
+    table_ref: str | None
+    associated_table_ref: str | None
+    statement_scope: StatementScope | None
+    period: str | None
+    metric: str | None
+    row_label: str | None
+    column_label: str | None
+    row_path: list[str]
+    column_path: list[str]
+    text_span: str | None
+    raw_value: RawValue | None
+    normalized_value: CanonicalDecimal | None
+    unit: str | None
+    scale: Scale | None
+    scale_source: ScaleSource | None
+    retrieval_score: float | None
+    rerank_score: float | None
+    ticker: str | None = None
+    company_name: str | None = None
+    report_year: int | None = None
+    paragraph_ref: str | None = None
+    provenance_link_ids: list[str] = field(default_factory=list)
 
     def __post_init__(self) -> None:
         self.evidence_id = _require_string(self.evidence_id, "evidence_id")
@@ -251,7 +251,7 @@ class EvidenceItem:
             provenance_link_ids=data["provenance_link_ids"],
         )
 
-    def to_dict(self) -> Dict[str, Any]:
+    def to_dict(self) -> dict[str, Any]:
         return {
             "evidence_id": self.evidence_id,
             "source_type": self.source_type.value,

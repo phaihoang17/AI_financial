@@ -2,12 +2,12 @@
 
 from __future__ import annotations
 
+from collections.abc import Iterable, Sequence
 from dataclasses import dataclass
 from hashlib import sha256
 import json
 from pathlib import Path
 import sqlite3
-from typing import Dict, Iterable, List, Mapping, Sequence, Tuple
 
 from src.indexing.embedding_artifact_builder import (
     EmbeddingArtifactBuilderError,
@@ -114,15 +114,15 @@ class CorpusCandidateLoader:
     def corpus_fingerprint(self) -> str:
         return self._artifact.corpus_fingerprint
 
-    def load_locations(self, locations: Sequence[CandidateLocation]) -> Dict[str, RetrievalCandidate]:
+    def load_locations(self, locations: Sequence[CandidateLocation]) -> dict[str, RetrievalCandidate]:
         """Resolve selected locations by exact source-shard and line position."""
 
-        grouped: Dict[str, List[CandidateLocation]] = {}
+        grouped: dict[str, list[CandidateLocation]] = {}
         for location in locations:
             if not isinstance(location, CandidateLocation):
                 raise TypeError("locations must contain CandidateLocation values")
             grouped.setdefault(location.source_shard, []).append(location)
-        candidates: Dict[str, RetrievalCandidate] = {}
+        candidates: dict[str, RetrievalCandidate] = {}
         for source_shard, group in grouped.items():
             entry = self._shard_entries.get(source_shard)
             if entry is None:
@@ -177,9 +177,9 @@ class CorpusRecordLocator:
         self._corpus = corpus
         self._metadata_path = Path(vector_metadata_path)
         self._shards = {str(entry["file"]): entry for entry in corpus.shard_entries}
-        self._line_offsets: Dict[str, List[int]] = {}
+        self._line_offsets: dict[str, list[int]] = {}
 
-    def _offsets(self, relative: str) -> List[int]:
+    def _offsets(self, relative: str) -> list[int]:
         if relative not in self._line_offsets:
             data = (self._corpus.root / relative).read_bytes()
             offsets, position = [0], data.find(b"\n")
@@ -189,7 +189,7 @@ class CorpusRecordLocator:
             self._line_offsets[relative] = offsets
         return self._line_offsets[relative]
 
-    def records(self, keys: Iterable[Tuple[str, str]]) -> Dict[Tuple[str, str], _InputRecord]:
+    def records(self, keys: Iterable[tuple[str, str]]) -> dict[tuple[str, str], _InputRecord]:
         """Return the records for (chunk_id, representation_id) keys; unknown keys are absent."""
         wanted = {chunk_id: representation_id for chunk_id, representation_id in keys}
         if not wanted:
@@ -206,7 +206,7 @@ class CorpusRecordLocator:
                 ).fetchall()
         finally:
             connection.close()
-        found: Dict[Tuple[str, str], _InputRecord] = {}
+        found: dict[tuple[str, str], _InputRecord] = {}
         for chunk_id, representation_id, relative, index, order in rows:
             if wanted.get(chunk_id) != representation_id:
                 continue

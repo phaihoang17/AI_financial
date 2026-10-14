@@ -12,7 +12,6 @@ from __future__ import annotations
 
 from dataclasses import dataclass
 import re
-from typing import Dict, Optional, Tuple
 import unicodedata
 
 from src.understanding.metric_normalizer import initial_metric_registry
@@ -41,15 +40,15 @@ def fold(text: str) -> str:
 class MetricDefinition:
     metric_id: str
     statement: str
-    vas_codes: Tuple[str, ...]
+    vas_codes: tuple[str, ...]
     label_pattern: str
-    bank_label_pattern: Optional[str]
+    bank_label_pattern: str | None
     name_vi: str
     unit: str
     description: str
-    synonyms: Tuple[str, ...]
+    synonyms: tuple[str, ...]
 
-    def to_dict(self) -> Dict[str, object]:
+    def to_dict(self) -> dict[str, object]:
         return {
             "metric_id": self.metric_id,
             "statement": self.statement,
@@ -71,7 +70,7 @@ _LNST_SYNONYMS = tuple(item.synonym for item in initial_metric_registry())
 # "Lưu chuyển tiền thuần từ", "… sử dụng vào", "… từ/(sử dụng vào)" before the activity.
 _NET_FLOW = r"luu chuyen tien thuan[^a-z]*(?:(?:tu|su dung vao|dung vao)[^a-z]*)*"
 
-METRICS: Tuple[MetricDefinition, ...] = (
+METRICS: tuple[MetricDefinition, ...] = (
     # Income statement (TT200 B02-DN).
     _m("GROSS_REVENUE", INCOME_STATEMENT, ["01"], r"doanh thu ban hang", "Doanh thu bán hàng và cung cấp dịch vụ",
        "Gross sales and service revenue before deductions (line 01).",
@@ -192,7 +191,7 @@ METRICS: Tuple[MetricDefinition, ...] = (
        "Cash and cash equivalents at the end of the year (line 70).", ["tiền cuối năm", "tiền cuối kỳ"]),
 )
 
-METRICS_BY_ID: Dict[str, MetricDefinition] = {metric.metric_id: metric for metric in METRICS}
+METRICS_BY_ID: dict[str, MetricDefinition] = {metric.metric_id: metric for metric in METRICS}
 if len(METRICS_BY_ID) != len(METRICS):
     raise RuntimeError("metric IDs must be unique")
 
@@ -226,7 +225,7 @@ def label_key(label: str) -> str:
 # income-statement profit lines 90/200/201. These codes are tried first; other
 # rows fall back to the TT200 codes (older CTCK forms follow TT200 numbering), and
 # the agreeing label keeps a reused code from naming a different line.
-SECURITIES_CODES: Dict[str, Dict[str, str]] = {
+SECURITIES_CODES: dict[str, dict[str, str]] = {
     BALANCE_SHEET: {"100": "CURRENT_ASSETS", "200": "NON_CURRENT_ASSETS", "270": "TOTAL_ASSETS",
                     "300": "LIABILITIES", "310": "CURRENT_LIABILITIES", "340": "NON_CURRENT_LIABILITIES",
                     "400": "EQUITY", "440": "TOTAL_CAPITAL"},
@@ -237,7 +236,7 @@ SECURITIES_CODES: Dict[str, Dict[str, str]] = {
 _SECURITIES_PATTERNS = {"LNST": re.compile(r"loi nhuan (?:ke toan )?sau thue")}
 
 
-def metric_for_code(statement: str, code: Optional[str], label: str, *, securities: bool = False) -> Optional[str]:
+def metric_for_code(statement: str, code: str | None, label: str, *, securities: bool = False) -> str | None:
     """The metric of a coded TT200 (or CTCK) row, only when the label agrees with the code."""
     if not code:
         return None
@@ -256,7 +255,7 @@ def metric_for_code(statement: str, code: Optional[str], label: str, *, securiti
     return matches[0] if len(matches) == 1 else None
 
 
-def metric_for_bank_label(statement: str, label: str) -> Optional[str]:
+def metric_for_bank_label(statement: str, label: str) -> str | None:
     """The metric of a code-less bank-template row whose whole label names it."""
     key = label_key(label)
     matches = [

@@ -3,11 +3,15 @@ import unittest
 from unittest.mock import patch
 
 from src.supervisor.formula_registry import get_formula
-from src.supervisor.table_registry import table_for_metric
 from src.supervisor.schemas import (
-    EvidenceSource, FormulaDefinition, MetricTableMapping, Plan,
-    RetrievalRequirement, TableClass,
+    EvidenceSource,
+    FormulaDefinition,
+    MetricTableMapping,
+    Plan,
+    RetrievalRequirement,
+    TableClass,
 )
+from src.supervisor.table_registry import table_for_metric
 from src.understanding.schemas import SchemaValidationError
 
 

@@ -8,8 +8,8 @@ fields; token/cost require live serving (GPU_PRODUCTION_VALIDATION_PENDING).
 from __future__ import annotations
 
 import argparse
+from collections.abc import Sequence
 import json
-from typing import Optional, Sequence
 
 from src.evaluation.cache_experiment import run_cache_experiment
 from src.evaluation.cost_dashboard import build_cost_dashboard
@@ -18,7 +18,7 @@ from src.evaluation.e2e_fixtures import e2e_fixture_cases
 from src.evaluation.retry_metrics import retry_escalation_metrics
 
 
-def main(argv: Optional[Sequence[str]] = None) -> int:
+def main(argv: Sequence[str] | None = None) -> int:
     parser = argparse.ArgumentParser()
     parser.add_argument("--mode", choices=("fixture",), default="fixture")
     parser.parse_args(argv)

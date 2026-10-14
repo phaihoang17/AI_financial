@@ -1,7 +1,7 @@
 from dataclasses import replace
 import unittest
 
-from src.evidence.m5_schemas import BindingMap
+from src.evidence.masking_schemas import BindingMap
 from src.evidence.schemas import CanonicalDecimal, Scale
 from src.programmer.schemas import (
     Program,

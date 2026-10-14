@@ -6,8 +6,15 @@ import json
 from pathlib import Path
 
 from src.evaluation.gold_retrieval import load_gold_file
-from src.evaluation.wide_eval import (ACCEPTANCE_THRESHOLDS, PEAK_PRICE_PER_MTOK, _check, _value_matches, generation_cost,
-                                     percentile, wilson_interval)
+from src.evaluation.wide_eval import (
+    ACCEPTANCE_THRESHOLDS,
+    PEAK_PRICE_PER_MTOK,
+    _check,
+    _value_matches,
+    generation_cost,
+    percentile,
+    wilson_interval,
+)
 
 
 def evaluate(cases, negatives, runs, *, audit=None):

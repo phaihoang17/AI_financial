@@ -1,6 +1,6 @@
 """Shared deterministic numeric boundaries for M6 and later execution stages."""
 
-from src.numeric.m2_adapter import (
+from src.numeric.parser_adapter import (
     NumericBoundaryError,
     adapt_numeric_parse_result,
     parse_canonical_decimal,

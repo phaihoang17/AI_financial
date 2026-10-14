@@ -15,7 +15,7 @@ production Windows host runs the Linux worker in the ``container-v1`` mode.
 from __future__ import annotations
 
 import ctypes
-from typing import Any, Optional
+from typing import Any
 
 # Win32 DWORD is 32-bit; ctypes.wintypes.DWORD is c_ulong, 64-bit off Windows,
 # so the layout is spelled out to stay identical (and testable) on every host.
@@ -82,7 +82,7 @@ def job_limit_information(profile: Any) -> JOBOBJECT_EXTENDED_LIMIT_INFORMATION:
     return info
 
 
-_job_handle: Optional[int] = None
+_job_handle: int | None = None
 
 
 def apply_job_limits(profile: Any, kernel32: Any = None) -> int:

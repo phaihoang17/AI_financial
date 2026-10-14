@@ -2,7 +2,7 @@ from dataclasses import replace
 import inspect
 import unittest
 
-from src.evidence.m5_schemas import (
+from src.evidence.masking_schemas import (
     BindingMap,
     MaskedEvidenceBundle,
     ValueBinding,
@@ -40,7 +40,7 @@ def _binding_map(programmer_input, values):
     return BindingMap(bindings=sorted(bindings, key=lambda item: item.placeholder))
 
 
-class M5AntiHardcodeGeneratedProgramTests(unittest.TestCase):
+class AntiHardcodeGeneratedProgramTests(unittest.TestCase):
     def generated(self, programmer_input=None):
         programmer_input = (
             growth_programmer_input()

@@ -9,7 +9,6 @@ from typing import Any
 from src.programmer.schemas import canonical_json
 from src.sandbox.limits import M7_LIMITS_V1
 
-
 MAX_PROTOCOL_REQUEST_BYTES = M7_LIMITS_V1.max_request_bytes
 MAX_PROTOCOL_RESPONSE_BYTES = M7_LIMITS_V1.max_output_bytes
 

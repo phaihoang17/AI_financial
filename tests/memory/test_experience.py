@@ -7,8 +7,8 @@ import pytest
 from src.evaluation.memory_fixtures import synthetic_training
 from src.memory.distillation import distill_trajectory
 from src.memory.index import DevelopmentExample, MemoryIndex, build_index, publish_index
-from src.memory.schemas import MemoryContext, MemoryEntry, MemoryKind
-from src.orchestration.state import M9State
+from src.memory.schemas import MemoryEntry, MemoryKind
+from src.orchestration.state import OrchestrationState
 from src.understanding.schemas import SchemaValidationError
 
 
@@ -59,13 +59,13 @@ def test_distillation_separates_strategy_and_failure_guard_without_answers(train
 
 @pytest.mark.parametrize("split", ["TEST", "HELD_OUT", "GOLD"])
 def test_held_out_trajectories_cannot_be_distilled(training, split):
-    state = M9State.from_dict(training[0][0]["state"])
+    state = OrchestrationState.from_dict(training[0][0]["state"])
     with pytest.raises(SchemaValidationError):
         distill_trajectory(state, split=split, dataset_id="synthetic")
 
 
 def test_overlap_by_source_id_or_question_hash_is_rejected(training):
-    state = M9State.from_dict(training[0][0]["state"])
+    state = OrchestrationState.from_dict(training[0][0]["state"])
     for excluded in ({"held_out_ids": [state.request_id]},
                      {"held_out_question_signatures": [sha256(state.raw_question.encode()).hexdigest()]}):
         with pytest.raises(SchemaValidationError):

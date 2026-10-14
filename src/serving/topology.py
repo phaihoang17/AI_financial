@@ -11,13 +11,11 @@ module only maps that already-decided tier to an endpoint.
 from __future__ import annotations
 
 from dataclasses import dataclass
-from typing import Optional
 
 from src.indexing.embedding_chunker import BGE_M3_MODEL_ID
 from src.retrieval.reranker import BGE_RERANKER_MODEL_ID
 from src.serving.schemas import ServingEndpoint, ServingError, ServingRole, ServingTask
 from src.supervisor.schemas import ModelTier
-
 
 # Default model identities are configurable deployment choices, never hardwired
 # into business logic. Base URLs must always be supplied by deployment config.
@@ -145,7 +143,7 @@ def build_topology(
     )
 
 
-def topology_from_env(env: Optional[dict[str, str]] = None) -> ServingTopology:
+def topology_from_env(env: dict[str, str] | None = None) -> ServingTopology:
     """Build a topology from environment variables (deployment convenience).
 
     Required base-URL variables:

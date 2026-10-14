@@ -2,13 +2,13 @@
 
 from __future__ import annotations
 
+from collections.abc import Iterable
 from hashlib import sha256
 import json
-from typing import Any, Iterable
+from typing import Any
 
 from src.indexing.schemas import SourceSpan
 from src.understanding.schemas import SchemaValidationError
-
 
 ID_CONTRACT_VERSION = "m2a-id-v1"
 

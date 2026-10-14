@@ -88,7 +88,10 @@ def _release(tmp_path, name, catalog_id="c" * 64):
 
 def test_deploy_promotes_only_after_preflight_and_canary_then_rolls_back(tmp_path):
     store = ReleaseStore(tmp_path / "store")
-    passing = lambda release: [{"passed": True}]
+
+    def passing(release):
+        return [{"passed": True}]
+
     assert deploy(store, _release(tmp_path, "a"), passing, source_fingerprint="fp")["promoted"]
     rejected = deploy(store, _release(tmp_path, "b", catalog_id="0" * 64), passing, source_fingerprint="fp")
     assert rejected["reason"] == "PREFLIGHT_FAILED" and store.current_id() == "a"

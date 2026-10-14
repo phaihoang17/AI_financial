@@ -20,7 +20,7 @@ from __future__ import annotations
 from dataclasses import dataclass, field
 from enum import Enum
 import re
-from typing import Any, Dict, List, Optional, Sequence, Tuple
+from typing import Any
 
 from src.formulas.ratios import RATIOS, RATIOS_BY_ID
 from src.text_to_pandas.catalog import DatasetCatalog, DatasetSlice, metric_dataset, schema_context
@@ -83,37 +83,37 @@ class CompanyMention:
 @dataclass(frozen=True)
 class T2PUnderstanding:
     question: str
-    companies: Tuple[CompanyMention, ...]
-    unknown_tickers: Tuple[str, ...]
-    years: Tuple[int, ...]
+    companies: tuple[CompanyMention, ...]
+    unknown_tickers: tuple[str, ...]
+    years: tuple[int, ...]
     all_periods: bool
     sub_annual_period: bool
-    statement_scope: Optional[str]
+    statement_scope: str | None
     scope_inferred: bool
-    metrics: Tuple[str, ...]
-    ratios: Tuple[str, ...]
+    metrics: tuple[str, ...]
+    ratios: tuple[str, ...]
     operation: str
     ranking: bool
     growth: bool
     average: bool
-    requested_scale: Optional[str]
-    unavailable: Tuple[str, ...]
+    requested_scale: str | None
+    unavailable: tuple[str, ...]
 
     @property
-    def tickers(self) -> Tuple[str, ...]:
+    def tickers(self) -> tuple[str, ...]:
         return tuple(company.ticker for company in self.companies)
 
     @property
-    def required_metrics(self) -> Tuple[str, ...]:
+    def required_metrics(self) -> tuple[str, ...]:
         """Detected metrics plus the components of detected ratios, in order."""
-        result: List[str] = list(self.metrics)
+        result: list[str] = list(self.metrics)
         for ratio_id in self.ratios:
             for metric in RATIOS_BY_ID[ratio_id].required_metrics:
                 if metric not in result:
                     result.append(metric)
         return tuple(result)
 
-    def to_dict(self) -> Dict[str, Any]:
+    def to_dict(self) -> dict[str, Any]:
         return {
             "companies": [{"ticker": c.ticker, "name": c.name} for c in self.companies],
             "unknown_tickers": list(self.unknown_tickers),
@@ -130,7 +130,7 @@ class T2PUnderstanding:
         }
 
 
-def _phrase_matches(folded: str, phrase: str) -> List[Tuple[int, int]]:
+def _phrase_matches(folded: str, phrase: str) -> list[tuple[int, int]]:
     pattern = re.compile(r"(?<![a-z0-9])" + re.escape(fold(phrase)) + r"(?![a-z0-9])")
     return [(match.start(), match.end()) for match in pattern.finditer(folded)]
 
@@ -176,7 +176,7 @@ def canonical_phrasing(folded: str) -> str:
     return folded
 
 
-def _described_ratio_spans(folded: str) -> List[Tuple[int, int, str]]:
+def _described_ratio_spans(folded: str) -> list[tuple[int, int, str]]:
     spans = []
     for ratio in RATIOS:
         for phrase in ratio.synonyms:
@@ -190,13 +190,13 @@ def _described_ratio_spans(folded: str) -> List[Tuple[int, int, str]]:
     return spans
 
 
-def _detect_terms(folded: str) -> Tuple[List[str], List[str], List[Tuple[int, int]]]:
+def _detect_terms(folded: str) -> tuple[list[str], list[str], list[tuple[int, int]]]:
     """Metric and ratio ids named in the question, and the ratio-name spans.
 
     Longest phrases win and matches never overlap; a description followed by a
     ratio acronym in parentheses is that ratio's name.
     """
-    candidates: List[Tuple[int, int, str, str]] = []
+    candidates: list[tuple[int, int, str, str]] = []
     for metric in METRICS:
         for phrase in (metric.metric_id.lower().replace("_", " "), *metric.synonyms):
             for start, end in _phrase_matches(folded, phrase):
@@ -208,10 +208,10 @@ def _detect_terms(folded: str) -> Tuple[List[str], List[str], List[Tuple[int, in
     for start, end, ratio_id in _described_ratio_spans(folded):
         candidates.append((start, end, "ratio", ratio_id))
     candidates.sort(key=lambda item: (-(item[1] - item[0]), item[0]))
-    taken: List[Tuple[int, int]] = []
-    metrics: List[Tuple[int, str]] = []
-    ratios: List[Tuple[int, str]] = []
-    ratio_spans: List[Tuple[int, int]] = []
+    taken: list[tuple[int, int]] = []
+    metrics: list[tuple[int, str]] = []
+    ratios: list[tuple[int, str]] = []
+    ratio_spans: list[tuple[int, int]] = []
     for start, end, kind, identifier in candidates:
         if any(start < other_end and other_start < end for other_start, other_end in taken):
             continue
@@ -219,12 +219,15 @@ def _detect_terms(folded: str) -> Tuple[List[str], List[str], List[Tuple[int, in
         (metrics if kind == "metric" else ratios).append((start, identifier))
         if kind == "ratio":
             ratio_spans.append((start, end))
-    ordered = lambda items: list(dict.fromkeys(identifier for _, identifier in sorted(items)))
+
+    def ordered(items):
+        return list(dict.fromkeys(identifier for _, identifier in sorted(items)))
+
     return ordered(metrics), ordered(ratios), ratio_spans
 
 
-def _years(question: str) -> List[int]:
-    years: List[int] = []
+def _years(question: str) -> list[int]:
+    years: list[int] = []
     for match in _YEAR_RANGE.finditer(question):
         first, last = sorted((int(match.group(1)), int(match.group(2))))
         if last - first <= 30:
@@ -233,13 +236,13 @@ def _years(question: str) -> List[int]:
     return sorted(dict.fromkeys(years))
 
 
-def _companies(question: str, catalog: DatasetCatalog) -> Tuple[List[CompanyMention], List[str]]:
+def _companies(question: str, catalog: DatasetCatalog) -> tuple[list[CompanyMention], list[str]]:
     companies = catalog.companies
     aliases = [CompanyAlias(name, name, ticker)
                for ticker, name in companies[["ticker", "company_name"]].itertuples(index=False, name=None)]
     known = set(catalog.tickers())
-    found: Dict[str, CompanyMention] = {}
-    unknown: List[str] = []
+    found: dict[str, CompanyMention] = {}
+    unknown: list[str] = []
     folded = fold(question)
     occupied = []
     for alias in sorted(aliases, key=lambda item: -len(item.alias)):
@@ -268,10 +271,10 @@ def _companies(question: str, catalog: DatasetCatalog) -> Tuple[List[CompanyMent
     return list(found.values()), unknown
 
 
-_TERM_PHRASES: Optional[Tuple[str, ...]] = None
+_TERM_PHRASES: tuple[str, ...] | None = None
 
 
-def _term_phrases() -> Tuple[str, ...]:
+def _term_phrases() -> tuple[str, ...]:
     global _TERM_PHRASES
     if _TERM_PHRASES is None:
         phrases = {canonical_phrasing(fold(phrase)) for metric in METRICS for phrase in metric.synonyms}
@@ -280,7 +283,7 @@ def _term_phrases() -> Tuple[str, ...]:
     return _TERM_PHRASES
 
 
-def _abbreviations(question: str, unknown: List[str]) -> List[str]:
+def _abbreviations(question: str, unknown: list[str]) -> list[str]:
     """Unknown upper-case tokens that abbreviate the term printed right before them ("thu nhập lãi thuần (NII)").
 
     Only a parenthesis that directly follows a metric or ratio name counts; a
@@ -355,14 +358,14 @@ def understand_question(question: str, catalog: DatasetCatalog) -> T2PUnderstand
 @dataclass(frozen=True)
 class Discovery:
     decision: GateDecision
-    reason: Optional[str]
-    message: Optional[str]
-    data: Optional[DatasetSlice] = None
-    context: Optional[Dict[str, Any]] = None
-    expected_datasets: Tuple[str, ...] = field(default_factory=tuple)
-    mode: Optional[str] = None
+    reason: str | None
+    message: str | None
+    data: DatasetSlice | None = None
+    context: dict[str, Any] | None = None
+    expected_datasets: tuple[str, ...] = field(default_factory=tuple)
+    mode: str | None = None
 
-    def to_dict(self) -> Dict[str, Any]:
+    def to_dict(self) -> dict[str, Any]:
         return {
             "decision": self.decision.value,
             "reason": self.reason,

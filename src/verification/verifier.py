@@ -11,9 +11,10 @@ unchanged.
 
 from __future__ import annotations
 
+from collections.abc import Callable, Sequence
 from concurrent.futures import ThreadPoolExecutor
-from typing import Callable, List, Optional, Sequence
 
+from src.supervisor.schemas import VerifyProfile
 from src.verification.evidence_support import verify_evidence_support
 from src.verification.financial_logic import verify_financial_logic
 from src.verification.grounding import verify_grounding
@@ -28,17 +29,15 @@ from src.verification.schemas import (
     VerificationReport,
     VerificationRequest,
 )
-from src.supervisor.schemas import VerifyProfile
-
 
 _CheckGroup = Callable[[], Sequence[VerificationCheckResult]]
 
 
 def _independent_check_groups(
     request: VerificationRequest, profile: VerificationProfileDecision
-) -> List[_CheckGroup]:
+) -> list[_CheckGroup]:
     """Ordered independent check groups; order fixes the report/precedence."""
-    groups: List[_CheckGroup] = [
+    groups: list[_CheckGroup] = [
         lambda: verify_grounding(request),
         lambda: verify_evidence_support(request),
         lambda: verify_numeric(request),
@@ -52,13 +51,13 @@ def _independent_check_groups(
 
 def _run_sequential(
     groups: Sequence[_CheckGroup],
-) -> List[List[VerificationCheckResult]]:
+) -> list[list[VerificationCheckResult]]:
     return [list(group()) for group in groups]
 
 
 def _run_parallel(
     groups: Sequence[_CheckGroup],
-) -> List[List[VerificationCheckResult]]:
+) -> list[list[VerificationCheckResult]]:
     # Results are read back in submission order, so the assembled check list is
     # independent of completion order and any first-group exception propagates
     # exactly as it would sequentially.
@@ -69,7 +68,7 @@ def _run_parallel(
 
 def verify(
     request: VerificationRequest, *, parallel: bool = False
-) -> Optional[VerificationReport]:
+) -> VerificationReport | None:
     """Verify a successful execution; return ``None`` when execution is bypassed.
 
     ``parallel=True`` runs the independent check groups concurrently and must
@@ -82,7 +81,7 @@ def verify(
     profile = select_verification_profile(request)
     groups = _independent_check_groups(request, profile)
     results = _run_parallel(groups) if parallel else _run_sequential(groups)
-    checks: List[VerificationCheckResult] = [*profile.checks]
+    checks: list[VerificationCheckResult] = [*profile.checks]
     for group_result in results:
         checks.extend(group_result)
     return VerificationReport.create(checks)

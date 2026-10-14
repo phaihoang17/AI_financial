@@ -1,13 +1,13 @@
 from dataclasses import replace
 import unittest
 
+from src.evidence.masking_schemas import MaskedEvidenceBundle
 from src.programmer.schemas import (
     ProgramInput,
     ProgramOperation,
     ProgramOutputKind,
     ProgramStep,
 )
-from src.evidence.m5_schemas import MaskedEvidenceBundle
 from src.programmer.validator import (
     ProgramValidationError,
     ProgramValidationFailureCode,

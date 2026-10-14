@@ -16,11 +16,12 @@ contracts without duplicating their logic:
 
 from __future__ import annotations
 
-from typing import Any, List, Sequence
+from collections.abc import Sequence
+from typing import Any
 
 from src.retrieval.reranker import (
-    BGEReranker,
     RERANKER_MAX_PAIR_TOKENS,
+    BGEReranker,
     RerankerError,
 )
 from src.serving.client import OpenAICompatibleClient
@@ -41,14 +42,14 @@ class ServingQueryEncoder:
             raise ServingError("SERVING_TASK_MISMATCH", "encoder needs an EMBED endpoint")
         self.client = client
 
-    def count_tokens(self, texts: Sequence[str], *, max_length: int) -> List[int]:
+    def count_tokens(self, texts: Sequence[str], *, max_length: int) -> list[int]:
         return [self.client.count_tokens(text) for text in texts]
 
-    def encode(self, texts: Sequence[str], *, batch_size: int, max_length: int) -> List[List[float]]:
+    def encode(self, texts: Sequence[str], *, batch_size: int, max_length: int) -> list[list[float]]:
         if isinstance(batch_size, bool) or not isinstance(batch_size, int) or batch_size < 1:
             raise ServingError("SERVING_INPUT_INVALID", "batch_size must be positive")
         items = list(texts)
-        vectors: List[List[float]] = []
+        vectors: list[list[float]] = []
         for start in range(0, len(items), batch_size):
             vectors.extend(self.client.embed(items[start:start + batch_size]))
         return vectors
@@ -79,7 +80,7 @@ class ServingBGEReranker(BGEReranker):
     def count_pair_tokens(self, query: str, document: str) -> int:
         return self._client.count_pair_tokens(query, document)
 
-    def score_pairs(self, query: str, documents: Sequence[str], *, batch_size: int) -> List[float]:
+    def score_pairs(self, query: str, documents: Sequence[str], *, batch_size: int) -> list[float]:
         if isinstance(batch_size, bool) or not isinstance(batch_size, int) or batch_size < 1:
             raise RerankerError("RERANKER_BATCH_SIZE_INVALID", "batch_size must be positive")
         if not isinstance(query, str) or any(not isinstance(document, str) for document in documents):
@@ -92,7 +93,7 @@ class ServingBGEReranker(BGEReranker):
                     "RERANKER_INPUT_TOO_LONG",
                     f"candidate[{index}] has {count} tokens; max is {RERANKER_MAX_PAIR_TOKENS}",
                 )
-        scores: List[float] = []
+        scores: list[float] = []
         for start in range(0, len(docs), batch_size):
             batch = docs[start:start + batch_size]
             try:

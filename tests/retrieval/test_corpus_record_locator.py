@@ -3,10 +3,13 @@ import tempfile
 import unittest
 
 from src.indexing.embedding_artifact_builder import _iter_input_records, _validate_input_manifest
-from src.retrieval.batch3 import CorpusChunkLookup
-from src.retrieval.corpus_candidates import CorpusCandidateError, CorpusRecordLocator
-from src.retrieval.corpus_candidates import candidate_from_representation_chunk
+from src.retrieval.corpus_candidates import (
+    CorpusCandidateError,
+    CorpusRecordLocator,
+    candidate_from_representation_chunk,
+)
 from src.retrieval.evidence import EvidenceProvenanceRepository
+from src.retrieval.hybrid_retriever import CorpusChunkLookup
 from src.retrieval.vector_search import VectorSearcher
 from tests.indexing.test_embedding_artifact_builder import EmbeddingArtifactBuilderTests, RecordingEncoder
 

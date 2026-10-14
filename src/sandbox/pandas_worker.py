@@ -25,7 +25,7 @@ import os
 from pathlib import Path
 import sys
 from time import monotonic_ns
-from typing import Any, Dict, List, Optional
+from typing import Any
 
 from src.sandbox.limits import (
     T2P_PANDAS_LIMITS_V1,
@@ -45,8 +45,8 @@ from src.sandbox.pandas_protocol import (
 )
 from src.sandbox.security import (
     SecurityFailureCode,
-    _open_is_write,
     WorkerSecurityViolation,
+    _open_is_write,
     expected_worker_environment,
     install_worker_security_guards,
 )
@@ -65,10 +65,10 @@ _DENIED_EVENT_PREFIXES = (
     "resource.", "signal.", "sys._getframe", "sys.settrace", "sys.setprofile", "code.", "pdb.",
 )
 _DENIED_EVENTS = frozenset({"open", "compile_command", "import_module", "cpython.run_command"})
-_violations: List[str] = []
+_violations: list[str] = []
 
 
-def expected_pandas_worker_environment(project_root: Path, platform_name: Optional[str] = None) -> Dict[str, str]:
+def expected_pandas_worker_environment(project_root: Path, platform_name: str | None = None) -> dict[str, str]:
     return {**expected_worker_environment(project_root, platform_name), **THREAD_ENVIRONMENT}
 
 
@@ -95,14 +95,14 @@ def _restricted_import(name, globals=None, locals=None, fromlist=(), level=0):
     return sys.modules[name] if name in sys.modules else sys.modules[root]
 
 
-def _safe_builtins() -> Dict[str, Any]:
+def _safe_builtins() -> dict[str, Any]:
     allowed = {name: getattr(builtins, name) for name in SAFE_BUILTIN_NAMES}
     allowed["__import__"] = _restricted_import
     return allowed
 
 
-def _build_frames(pd: Any, datasets: Dict[str, Any]) -> Dict[str, Any]:
-    frames: Dict[str, Any] = {}
+def _build_frames(pd: Any, datasets: dict[str, Any]) -> dict[str, Any]:
+    frames: dict[str, Any] = {}
     for name, payload in datasets.items():
         if not name.isidentifier() or name.startswith("_"):
             raise ValueError(f"invalid dataset name {name!r}")
@@ -174,7 +174,7 @@ def _column_name(value: Any) -> str:
     return str(value)
 
 
-def _describe(value: Any, np: Any, pd: Any) -> Dict[str, Any]:
+def _describe(value: Any, np: Any, pd: Any) -> dict[str, Any]:
     if value is None:
         return {"kind": "none"}
     if isinstance(value, pd.DataFrame):
@@ -215,7 +215,7 @@ def _describe(value: Any, np: Any, pd: Any) -> Dict[str, Any]:
             "non_finite": bool(non_finite), "missing": bool(is_missing)}
 
 
-def _generated_line(error: BaseException) -> Optional[int]:
+def _generated_line(error: BaseException) -> int | None:
     """Innermost line of the generated code, without reading any source file."""
     line = None
     traceback = error.__traceback__
@@ -276,7 +276,7 @@ def run_request(request: Any, start_ns: int) -> PandasExecutionResult:
     sys.addaudithook(_guard)
     install_worker_security_guards()
 
-    namespace: Dict[str, Any] = {"__builtins__": _safe_builtins(), "pd": pd, "np": np, "math": math, **frames}
+    namespace: dict[str, Any] = {"__builtins__": _safe_builtins(), "pd": pd, "np": np, "math": math, **frames}
     try:
         exec(code, namespace)
     except WorkerSecurityViolation as error:

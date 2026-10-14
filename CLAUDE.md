@@ -24,7 +24,7 @@ python -m pytest -q
 python -m pytest tests/verification/test_numeric.py -q
 python -m pytest tests/verification/test_numeric.py::ClassName::test_name -q
 
-# Lint (ruff cache is present in-repo)
+# Lint (rules pinned in ruff.toml)
 ruff check src tests
 
 # Deterministic CPU-only fixture evaluations (each prints a JSON report,

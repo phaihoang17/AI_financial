@@ -3,9 +3,9 @@
 from __future__ import annotations
 
 from dataclasses import dataclass, replace
-from typing import Optional
 
 from src.orchestration.answer_builder import build_pass_response
+from src.orchestration.execution_routing import build_execution_directive
 from src.orchestration.nodes import (
     OrchestrationDependencies,
     StageTransition,
@@ -17,16 +17,15 @@ from src.orchestration.nodes import (
     run_supervisor,
     run_verification,
 )
-from src.orchestration.execution_routing import build_execution_directive
 from src.orchestration.schemas import (
     ExecutionAction,
     ExecutionClassificationError,
     FinalResponseStatus,
-    M9Phase,
+    OrchestrationPhase,
     next_execution_retry_state,
     terminal_retry_state,
 )
-from src.orchestration.state import AttemptEntryStage, AttemptRecord, M9State
+from src.orchestration.state import AttemptEntryStage, AttemptRecord, OrchestrationState
 from src.orchestration.terminal import (
     build_failure_response,
     build_planning_gate_response,
@@ -39,11 +38,11 @@ from src.verification.schemas import RetryAction, RetryDirective, RetryState
 
 @dataclass(frozen=True)
 class RoutingTransition:
-    state: M9State
+    state: OrchestrationState
     next_node: str
 
 
-def _replace_current_attempt(state: M9State, **updates) -> M9State:
+def _replace_current_attempt(state: OrchestrationState, **updates) -> OrchestrationState:
     if state.terminal or not state.attempts:
         raise SchemaValidationError("current attempt update requires active state")
     current = replace(state.attempts[-1], **updates)
@@ -51,12 +50,12 @@ def _replace_current_attempt(state: M9State, **updates) -> M9State:
 
 
 def _terminal_failure(
-    state: M9State,
+    state: OrchestrationState,
     *,
-    phase: M9Phase,
+    phase: OrchestrationPhase,
     code: str,
     reason: str,
-    retry_state: Optional[RetryState] = None,
+    retry_state: RetryState | None = None,
     status: FinalResponseStatus = FinalResponseStatus.ABSTAIN,
 ) -> RoutingTransition:
     response = build_failure_response(
@@ -88,7 +87,7 @@ def _terminalize_stage_stop(transition: StageTransition) -> RoutingTransition:
         )
         return _terminal_failure(
             state,
-            phase=M9Phase.SUPERVISOR,
+            phase=OrchestrationPhase.SUPERVISOR,
             code=code,
             reason=transition.failure_message or "Supervisor abstained.",
         )
@@ -133,7 +132,7 @@ def _retry_attempt(
 
 
 def _append_retry(
-    state: M9State,
+    state: OrchestrationState,
     *,
     entry_stage: AttemptEntryStage,
     retry_state: RetryState,
@@ -146,7 +145,7 @@ def _append_retry(
 
 
 def route_nlu(
-    state: M9State, deps: OrchestrationDependencies
+    state: OrchestrationState, deps: OrchestrationDependencies
 ) -> RoutingTransition:
     transition = run_nlu(state, deps)
     if transition.stop:
@@ -155,7 +154,7 @@ def route_nlu(
 
 
 def route_supervisor(
-    state: M9State, deps: OrchestrationDependencies
+    state: OrchestrationState, deps: OrchestrationDependencies
 ) -> RoutingTransition:
     transition = run_supervisor(state, deps)
     if transition.stop:
@@ -164,7 +163,7 @@ def route_supervisor(
 
 
 def route_retrieval(
-    state: M9State, deps: OrchestrationDependencies
+    state: OrchestrationState, deps: OrchestrationDependencies
 ) -> RoutingTransition:
     transition = run_retrieval(state, deps)
     if transition.stop:
@@ -173,7 +172,7 @@ def route_retrieval(
 
 
 def route_evidence(
-    state: M9State, deps: OrchestrationDependencies
+    state: OrchestrationState, deps: OrchestrationDependencies
 ) -> RoutingTransition:
     transition = run_evidence(state, deps)
     if transition.stop:
@@ -182,7 +181,7 @@ def route_evidence(
 
 
 def route_programmer(
-    state: M9State, deps: OrchestrationDependencies
+    state: OrchestrationState, deps: OrchestrationDependencies
 ) -> RoutingTransition:
     transition = run_programmer(state, deps)
     if transition.stop:
@@ -196,7 +195,7 @@ def route_programmer(
         assert current.retry_state is not None
         if current.retry_state.retries_used >= current.retry_state.max_retries:
             return _terminal_failure(
-                current, phase=M9Phase.PROGRAMMER,
+                current, phase=OrchestrationPhase.PROGRAMMER,
                 code=transition.failure_code,
                 reason="retry budget exhausted: " + transition.failure_message,
                 retry_state=terminal_retry_state(current.retry_state),
@@ -209,13 +208,13 @@ def route_programmer(
 
 
 def _execute_execution_directive(
-    state: M9State, directive
+    state: OrchestrationState, directive
 ) -> RoutingTransition:
     state = _replace_current_attempt(state, execution_directive=directive)
     if directive.action is ExecutionAction.ABSTAIN:
         return _terminal_failure(
             state,
-            phase=M9Phase.SANDBOX,
+            phase=OrchestrationPhase.SANDBOX,
             code=directive.execution_failure_code,
             reason=directive.reason,
             retry_state=directive.next_retry_state,
@@ -231,7 +230,7 @@ def _execute_execution_directive(
 
 
 def route_sandbox(
-    state: M9State, deps: OrchestrationDependencies
+    state: OrchestrationState, deps: OrchestrationDependencies
 ) -> RoutingTransition:
     transition = run_sandbox(state, deps)
     if not transition.stop:
@@ -255,7 +254,7 @@ def route_sandbox(
         assert failure is not None
         return _terminal_failure(
             current,
-            phase=M9Phase.SANDBOX,
+            phase=OrchestrationPhase.SANDBOX,
             code=failure.code,
             reason=str(error),
         )
@@ -263,15 +262,15 @@ def route_sandbox(
 
 
 def _execute_retry_directive(
-    state: M9State, directive: RetryDirective
+    state: OrchestrationState, directive: RetryDirective
 ) -> RoutingTransition:
     state = _replace_current_attempt(state, retry_directive=directive)
     if directive.action is RetryAction.PASS:
-        return RoutingTransition(replace(state, phase=M9Phase.ANSWER), "answer")
+        return RoutingTransition(replace(state, phase=OrchestrationPhase.ANSWER), "answer")
     if directive.action is RetryAction.ABSTAIN:
         return _terminal_failure(
             state,
-            phase=M9Phase.VERIFICATION,
+            phase=OrchestrationPhase.VERIFICATION,
             code=directive.reason_code or "VERIFICATION_FAILED",
             reason=directive.reason,
             retry_state=directive.next_state,
@@ -287,7 +286,7 @@ def _execute_retry_directive(
 
 
 def route_verification(
-    state: M9State, deps: OrchestrationDependencies
+    state: OrchestrationState, deps: OrchestrationDependencies
 ) -> RoutingTransition:
     transition = run_verification(state, deps)
     attempt = transition.state.attempts[-1]
@@ -304,7 +303,7 @@ def route_verification(
         assert failure_code is not None
         return _terminal_failure(
             transition.state,
-            phase=M9Phase.VERIFICATION,
+            phase=OrchestrationPhase.VERIFICATION,
             code=failure_code,
             reason=str(error),
         )
@@ -312,7 +311,7 @@ def route_verification(
 
 
 def route_answer(
-    state: M9State, deps: OrchestrationDependencies
+    state: OrchestrationState, deps: OrchestrationDependencies
 ) -> RoutingTransition:
     del deps
     attempt = state.attempts[-1]
@@ -336,23 +335,9 @@ def route_answer(
     except SchemaValidationError as error:
         return _terminal_failure(
             state,
-            phase=M9Phase.VERIFICATION,
+            phase=OrchestrationPhase.VERIFICATION,
             code="ANSWER_BUILD_FAILED",
             reason=str(error),
             retry_state=attempt.retry_directive.next_state,
         )
     return RoutingTransition(state.terminate(response), "end")
-
-
-# Deprecated: Batch 3 implementation-history names. Use RoutingTransition and
-# the route_* functions above. Kept as identity aliases only; no duplicate
-# implementation.
-Batch3Transition = RoutingTransition
-run_batch3_answer = route_answer
-run_batch3_evidence = route_evidence
-run_batch3_nlu = route_nlu
-run_batch3_programmer = route_programmer
-run_batch3_retrieval = route_retrieval
-run_batch3_sandbox = route_sandbox
-run_batch3_supervisor = route_supervisor
-run_batch3_verification = route_verification

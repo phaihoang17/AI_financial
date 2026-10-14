@@ -19,6 +19,7 @@ Production isolation (Linux NsJail, or a pinned container on any OS) stays in
 
 from __future__ import annotations
 
+from collections.abc import Iterator, Mapping
 from contextlib import contextmanager
 from dataclasses import dataclass
 import os
@@ -28,7 +29,7 @@ import signal
 import subprocess
 import threading
 import tomllib
-from typing import Any, Dict, Iterator, Mapping, Optional
+from typing import Any
 
 LOCAL_BACKENDS = {"Linux": "posix-rlimit", "Darwin": "darwin-sandbox-exec", "Windows": "windows-job-object"}
 WORKER_KINDS = ("m7", "t2p")
@@ -40,11 +41,11 @@ _QUEUE_ENV = {"m7": "M7_ADMISSION_TIMEOUT_MS", "t2p": "T2P_ADMISSION_TIMEOUT_MS"
 _WINDOWS_CREATIONFLAGS = 0x00000200 | 0x08000000
 
 
-def host_system(system_name: Optional[str] = None) -> str:
+def host_system(system_name: str | None = None) -> str:
     return platform.system() if system_name is None else system_name
 
 
-def local_backend(system_name: Optional[str] = None) -> str:
+def local_backend(system_name: str | None = None) -> str:
     system = host_system(system_name)
     if system not in LOCAL_BACKENDS:
         from src.sandbox.security import SecurityFailureCode, WorkerSecurityViolation
@@ -54,14 +55,14 @@ def local_backend(system_name: Optional[str] = None) -> str:
     return LOCAL_BACKENDS[system]
 
 
-def popen_isolation_options(system_name: Optional[str] = None) -> Dict[str, Any]:
+def popen_isolation_options(system_name: str | None = None) -> dict[str, Any]:
     """Popen options that give the worker its own session or process group."""
     if host_system(system_name) == "Windows":
         return {"creationflags": _WINDOWS_CREATIONFLAGS}
     return {"start_new_session": True}
 
 
-def kill_worker_tree(process: subprocess.Popen, system_name: Optional[str] = None) -> None:
+def kill_worker_tree(process: subprocess.Popen, system_name: str | None = None) -> None:
     """Kill the worker and everything it started; never raises for a dead worker."""
     if host_system(system_name) == "Windows":
         # The worker's job object (KILL_ON_JOB_CLOSE, one active process) dies with it.
@@ -79,7 +80,7 @@ def kill_worker_tree(process: subprocess.Popen, system_name: Optional[str] = Non
         _kill_container(process.args[0], container)
 
 
-def container_name(process: Any) -> Optional[str]:
+def container_name(process: Any) -> str | None:
     """The ``--name`` of a ``container-v1`` worker command, else None."""
     args = getattr(process, "args", None)
     if not isinstance(args, (list, tuple)) or "--name" not in args:
@@ -97,7 +98,7 @@ def _kill_container(runtime: str, name: str) -> None:
         pass
 
 
-def exit_signal(name: str) -> Optional[int]:
+def exit_signal(name: str) -> int | None:
     """Negative Popen return code of a POSIX signal, or None where it does not exist."""
     number = getattr(signal, name, None)
     return None if number is None else -int(number)
@@ -109,7 +110,7 @@ class SandboxSettings:
     admission_timeout_ms: Mapping[str, int]
     container: Mapping[str, Any]
 
-    def worker_capacity(self, kind: str, mode: str, environment: Optional[Mapping[str, str]] = None) -> int:
+    def worker_capacity(self, kind: str, mode: str, environment: Mapping[str, str] | None = None) -> int:
         source = os.environ if environment is None else environment
         raw = source.get(_CAPACITY_ENV[kind])
         value = int(raw) if raw else int(self.capacity[kind].get(mode, self.capacity[kind]["default"]))
@@ -117,7 +118,7 @@ class SandboxSettings:
             raise ValueError(f"{_CAPACITY_ENV[kind]} must be at least 1")
         return value
 
-    def queue_timeout_s(self, kind: str, environment: Optional[Mapping[str, str]] = None) -> float:
+    def queue_timeout_s(self, kind: str, environment: Mapping[str, str] | None = None) -> float:
         source = os.environ if environment is None else environment
         raw = source.get(_QUEUE_ENV[kind])
         value = int(raw) if raw else int(self.admission_timeout_ms[kind])
@@ -126,7 +127,7 @@ class SandboxSettings:
         return value / 1000
 
 
-def load_sandbox_settings(path: Optional[str | Path] = None) -> SandboxSettings:
+def load_sandbox_settings(path: str | Path | None = None) -> SandboxSettings:
     document = tomllib.loads(Path(path or os.environ.get(SANDBOX_CONFIG_ENV) or DEFAULT_SANDBOX_CONFIG)
                              .read_text(encoding="utf-8"))
     capacity = document.get("capacity", {})
@@ -139,8 +140,8 @@ def load_sandbox_settings(path: Optional[str | Path] = None) -> SandboxSettings:
     return SandboxSettings(capacity, timeouts, document.get("container", {}))
 
 
-_settings: Optional[SandboxSettings] = None
-_semaphores: Dict[tuple, threading.BoundedSemaphore] = {}
+_settings: SandboxSettings | None = None
+_semaphores: dict[tuple, threading.BoundedSemaphore] = {}
 _lock = threading.Lock()
 
 

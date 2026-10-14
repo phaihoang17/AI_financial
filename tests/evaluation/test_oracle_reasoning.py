@@ -1,7 +1,7 @@
+from contextlib import redirect_stdout
 import io
 import json
 import unittest
-from contextlib import redirect_stdout
 from unittest.mock import patch
 
 from src.evaluation.oracle_reasoning import (
@@ -20,8 +20,8 @@ from src.evaluation.reasoning import TraceComparison
 from src.evaluation.run_reasoning_eval import main
 from src.evidence.schemas import CanonicalDecimal, Scale
 from src.evidence.value_binder import ValueBindingError, ValueBindingFailureCode
-from src.programmer.validator import ProgramValidationFailureCode
 from src.programmer.schemas import ProgramOutputKind
+from src.programmer.validator import ProgramValidationFailureCode
 from src.sandbox.schemas import (
     ExecutionDatum,
     ExecutionFailureStage,

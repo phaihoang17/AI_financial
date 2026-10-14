@@ -5,7 +5,7 @@ from __future__ import annotations
 from dataclasses import dataclass
 from enum import Enum
 import re
-from typing import Any, Dict, Optional
+from typing import Any
 import unicodedata
 
 from src.understanding.schemas import (
@@ -18,7 +18,6 @@ from src.understanding.schemas import (
     _require_mapping,
     _require_string,
 )
-
 
 _HOP_NHAT_INDICATORS = (
     "hợp nhất",
@@ -51,7 +50,7 @@ def _contains_indicator(text: str, indicator: str) -> bool:
 @dataclass
 class StatementScopeResolverInput:
     text: str
-    context_scope: Optional[StatementScope]
+    context_scope: StatementScope | None
 
     def __post_init__(self) -> None:
         self.text = _require_string(self.text, "text")
@@ -76,7 +75,7 @@ class StatementScopeResolverInput:
             ),
         )
 
-    def to_dict(self) -> Dict[str, Any]:
+    def to_dict(self) -> dict[str, Any]:
         return {
             "text": self.text,
             "context_scope": (
@@ -144,7 +143,7 @@ class StatementScopeResolution:
             ),
         )
 
-    def to_dict(self) -> Dict[str, Any]:
+    def to_dict(self) -> dict[str, Any]:
         return {
             "status": self.status.value,
             "statement_scope": self.statement_scope.to_dict(),

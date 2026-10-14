@@ -26,7 +26,9 @@ from __future__ import annotations
 
 import argparse
 from collections import deque
-from concurrent.futures import ThreadPoolExecutor, TimeoutError as FutureTimeout
+from collections.abc import Callable
+from concurrent.futures import ThreadPoolExecutor
+from concurrent.futures import TimeoutError as FutureTimeout
 from dataclasses import dataclass
 import hmac
 from http.server import BaseHTTPRequestHandler, ThreadingHTTPServer
@@ -36,7 +38,7 @@ import os
 from pathlib import Path
 import threading
 import time
-from typing import Any, Callable, Dict, Optional, Tuple
+from typing import Any
 from urllib.parse import urlsplit
 from uuid import uuid4
 
@@ -86,7 +88,7 @@ def build_engine(release: Release, history_root: str | Path) -> Engine:
     return Engine(release, PandasPipeline(catalog, PandasCodeGenerator(client), history_root=history_root))
 
 
-def public_response(response: Dict[str, Any], *, expose_program: bool = False) -> Dict[str, Any]:
+def public_response(response: dict[str, Any], *, expose_program: bool = False) -> dict[str, Any]:
     keys = ("request_id", "run_id", "status", "reason_code", "message", "result", "unit", "scale", "elapsed_ms",
             "catalog_id")
     body = {key: response.get(key) for key in keys}
@@ -101,7 +103,7 @@ def public_response(response: Dict[str, Any], *, expose_program: bool = False) -
     return body
 
 
-def catalog_summary(engine: Engine) -> Dict[str, Any]:
+def catalog_summary(engine: Engine) -> dict[str, Any]:
     """Coverage a client may show or check before asking; no statement values."""
     from src.text_to_pandas.metrics import METRICS_BY_ID
 
@@ -119,8 +121,8 @@ def catalog_summary(engine: Engine) -> Dict[str, Any]:
 
 
 class QuestionService:
-    def __init__(self, store: ReleaseStore, *, engine_factory: Callable[[Release], Engine], slo: Optional[SLO] = None,
-                 max_in_flight: int = 32, request_timeout_s: float = 60.0, api_token: Optional[str] = None,
+    def __init__(self, store: ReleaseStore, *, engine_factory: Callable[[Release], Engine], slo: SLO | None = None,
+                 max_in_flight: int = 32, request_timeout_s: float = 60.0, api_token: str | None = None,
                  recent: int = 10_000, clock: Callable[[], float] = time.monotonic,
                  expose_program: bool = False) -> None:
         self.store, self.engine_factory = store, engine_factory
@@ -131,12 +133,12 @@ class QuestionService:
         self.api_token = api_token
         self._slots = threading.BoundedSemaphore(max_in_flight)
         self._pool = ThreadPoolExecutor(max_workers=max_in_flight, thread_name_prefix="aifin-ask")
-        self._engine: Optional[Engine] = None
+        self._engine: Engine | None = None
         self._engine_lock = threading.Lock()
         self.events: deque = deque(maxlen=recent)
 
     # ---- release ------------------------------------------------------------
-    def reload(self) -> Dict[str, Any]:
+    def reload(self) -> dict[str, Any]:
         release = self.store.current()
         if release is None:
             raise RuntimeError("no promoted release")
@@ -147,11 +149,11 @@ class QuestionService:
             self.metrics.reloads += 1
         return {"serving": release.release_id}
 
-    def engine(self) -> Optional[Engine]:
+    def engine(self) -> Engine | None:
         with self._engine_lock:
             return self._engine
 
-    def ready(self) -> Tuple[bool, Dict[str, Any]]:
+    def ready(self) -> tuple[bool, dict[str, Any]]:
         engine = self.engine()
         if engine is None:
             return False, {"ready": False, "reason": "no release loaded"}
@@ -159,13 +161,13 @@ class QuestionService:
         return ok, {"ready": ok, "release": engine.release.release_id, "catalog_id": engine.release.catalog_id}
 
     # ---- ask ------------------------------------------------------------------
-    def authorized(self, header: Optional[str]) -> bool:
+    def authorized(self, header: str | None) -> bool:
         if not self.api_token:
             return True
         expected = f"Bearer {self.api_token}"
         return header is not None and hmac.compare_digest(header.encode(), expected.encode())
 
-    def _finish(self, started: float, code: int, body: Dict[str, Any]) -> Tuple[int, Dict[str, Any]]:
+    def _finish(self, started: float, code: int, body: dict[str, Any]) -> tuple[int, dict[str, Any]]:
         seconds = time.monotonic() - started
         status, reason = body.get("status"), body.get("reason_code")
         self.metrics.finished(code, status, reason, seconds, latency_threshold_s=self.slo.latency_threshold_s)
@@ -175,7 +177,7 @@ class QuestionService:
                              "release": self.metrics.release}))
         return code, body
 
-    def ask(self, payload: Any) -> Tuple[int, Dict[str, Any]]:
+    def ask(self, payload: Any) -> tuple[int, dict[str, Any]]:
         started = time.monotonic()
         self.metrics.started()
         if not self._slots.acquire(blocking=False):
@@ -208,7 +210,7 @@ class QuestionService:
         finally:
             self._slots.release()
 
-    def catalog(self) -> Tuple[int, Dict[str, Any]]:
+    def catalog(self) -> tuple[int, dict[str, Any]]:
         engine = self.engine()
         if engine is None:
             return 503, {"error": "no release is loaded"}
@@ -226,7 +228,7 @@ def make_handler(service: QuestionService):
             pass
 
         def _send(self, code: int, body: Any, content_type: str = "application/json",
-                  headers: Optional[Dict[str, str]] = None) -> None:
+                  headers: dict[str, str] | None = None) -> None:
             if isinstance(body, bytes):
                 data = body
             else:
@@ -302,7 +304,7 @@ def serve(service: QuestionService, host: str = "127.0.0.1", port: int = 8080) -
     return _Server((host, port), make_handler(service))
 
 
-def main(argv: Optional[list] = None) -> int:  # pragma: no cover - process entry point
+def main(argv: list | None = None) -> int:  # pragma: no cover - process entry point
     parser = argparse.ArgumentParser(description=__doc__.splitlines()[0])
     parser.add_argument("--release-root", required=True)
     parser.add_argument("--history-root", default="scratch_logs/service-history")

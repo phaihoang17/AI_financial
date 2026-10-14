@@ -1,23 +1,20 @@
 """Unit tests for TASK-06C bounded table transform planner."""
 
-import pytest
 
-from src.evidence.m5_schemas import make_value_placeholder
+from src.evidence.masking_schemas import make_value_placeholder
 from src.orchestration.schemas import EvaluationFailureStage
 from src.programmer.schemas import ProgramOperation
 from src.supervisor.schemas import (
     EvidenceSource,
     Plan,
-    QuestionType,
-    ReasoningMode,
     RetrievalRequirement,
     StatementScope,
     TableClass,
 )
 from src.table_transform.planner import (
+    TableTransformStatus,
     is_terminal_state,
     plan_and_transform,
-    TableTransformStatus,
 )
 from src.table_transform.schemas import (
     TableCell,

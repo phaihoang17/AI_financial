@@ -3,17 +3,16 @@
 from __future__ import annotations
 
 from enum import Enum
-from typing import Dict, List
 
-from src.evidence.m5_schemas import MaskedEvidence
+from src.evidence.masking_schemas import MaskedEvidence
 from src.programmer.schemas import (
     Program,
     ProgramInput,
-    ProgramOperation,
-    ProgramOutputKind,
     ProgrammerInput,
     ProgrammerResult,
     ProgrammerStatus,
+    ProgramOperation,
+    ProgramOutputKind,
     ProgramStep,
 )
 from src.programmer.validator import (
@@ -49,13 +48,13 @@ def _rejected(code: str | Enum, message: str) -> ProgrammerResult:
 
 def _ordered_required_evidence(
     programmer_input: ProgrammerInput,
-) -> List[MaskedEvidence] | ProgrammerResult:
+) -> list[MaskedEvidence] | ProgrammerResult:
     plan = programmer_input.plan
     requirements_by_id = {
         requirement.requirement_id: requirement
         for requirement in plan.retrieval_requirements
     }
-    items_by_requirement: Dict[str, List[MaskedEvidence]] = {}
+    items_by_requirement: dict[str, list[MaskedEvidence]] = {}
     for item in programmer_input.masked_evidence.items:
         if item.requirement_id not in requirements_by_id:
             return _rejected(
@@ -64,7 +63,7 @@ def _ordered_required_evidence(
             )
         items_by_requirement.setdefault(item.requirement_id, []).append(item)
 
-    ordered: List[MaskedEvidence] = []
+    ordered: list[MaskedEvidence] = []
     for requirement in plan.retrieval_requirements:
         if not requirement.required:
             continue
@@ -88,7 +87,7 @@ def _ordered_required_evidence(
     return ordered
 
 
-def _program_inputs(items: List[MaskedEvidence]) -> List[ProgramInput]:
+def _program_inputs(items: list[MaskedEvidence]) -> list[ProgramInput]:
     return [
         ProgramInput(
             input_id=f"input_{index}",
@@ -102,8 +101,8 @@ def _program_inputs(items: List[MaskedEvidence]) -> List[ProgramInput]:
 
 def _program_shape(
     programmer_input: ProgrammerInput,
-    inputs: List[ProgramInput],
-) -> tuple[List[ProgramStep], ProgramOutputKind] | ProgrammerResult:
+    inputs: list[ProgramInput],
+) -> tuple[list[ProgramStep], ProgramOutputKind] | ProgrammerResult:
     plan = programmer_input.plan
     input_refs = [item.input_id for item in inputs]
 

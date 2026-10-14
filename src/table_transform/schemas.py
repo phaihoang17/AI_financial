@@ -2,11 +2,12 @@
 
 from __future__ import annotations
 
+from collections.abc import Mapping, Sequence
 from dataclasses import dataclass, field
 from enum import Enum
 from hashlib import sha256
 import json
-from typing import Any, Dict, List, Mapping, Optional, Sequence, Set, Type, TypeVar, Union
+from typing import Any, TypeVar
 
 from src.understanding.schemas import SchemaValidationError
 
@@ -21,7 +22,7 @@ def _mapping(value: Any, path: str) -> Mapping[str, Any]:
     return value
 
 
-def _exact_keys(data: Mapping[str, Any], expected: Set[str], path: str) -> None:
+def _exact_keys(data: Mapping[str, Any], expected: set[str], path: str) -> None:
     missing = expected - set(data)
     unknown = set(data) - expected
     if missing:
@@ -42,7 +43,7 @@ def _string(value: Any, path: str, *, non_empty: bool = True) -> str:
     return value
 
 
-def _optional_string(value: Any, path: str) -> Optional[str]:
+def _optional_string(value: Any, path: str) -> str | None:
     if value is not None and not isinstance(value, str):
         raise SchemaValidationError(f"{path} must be a string or null")
     if value == "":
@@ -50,7 +51,7 @@ def _optional_string(value: Any, path: str) -> Optional[str]:
     return value
 
 
-def _string_list(value: Any, path: str, *, non_empty: bool = False, unique: bool = False) -> List[str]:
+def _string_list(value: Any, path: str, *, non_empty: bool = False, unique: bool = False) -> list[str]:
     if not isinstance(value, list):
         raise SchemaValidationError(f"{path} must be a list")
     result = [_string(item, f"{path}[{index}]") for index, item in enumerate(value)]
@@ -61,13 +62,13 @@ def _string_list(value: Any, path: str, *, non_empty: bool = False, unique: bool
     return result
 
 
-def _optional_string_list(value: Any, path: str, *, non_empty: bool = False, unique: bool = False) -> Optional[List[str]]:
+def _optional_string_list(value: Any, path: str, *, non_empty: bool = False, unique: bool = False) -> list[str] | None:
     if value is None:
         return None
     return _string_list(value, path, non_empty=non_empty, unique=unique)
 
 
-def _int_list(value: Any, path: str, *, non_empty: bool = False, non_negative: bool = True) -> List[int]:
+def _int_list(value: Any, path: str, *, non_empty: bool = False, non_negative: bool = True) -> list[int]:
     if not isinstance(value, list):
         raise SchemaValidationError(f"{path} must be a list")
     result = []
@@ -82,19 +83,19 @@ def _int_list(value: Any, path: str, *, non_empty: bool = False, non_negative: b
     return result
 
 
-def _optional_int_list(value: Any, path: str, *, non_empty: bool = False, non_negative: bool = True) -> Optional[List[int]]:
+def _optional_int_list(value: Any, path: str, *, non_empty: bool = False, non_negative: bool = True) -> list[int] | None:
     if value is None:
         return None
     return _int_list(value, path, non_empty=non_empty, non_negative=non_negative)
 
 
-def _enum(value: Any, enum_type: Type[EnumT], path: str) -> EnumT:
+def _enum(value: Any, enum_type: type[EnumT], path: str) -> EnumT:
     if not isinstance(value, enum_type):
         raise SchemaValidationError(f"{path} must be a {enum_type.__name__}")
     return value
 
 
-def _parse_enum(value: Any, enum_type: Type[EnumT], path: str) -> EnumT:
+def _parse_enum(value: Any, enum_type: type[EnumT], path: str) -> EnumT:
     if not isinstance(value, str):
         raise SchemaValidationError(f"{path} must be a string enum value")
     try:
@@ -149,14 +150,14 @@ class TableCell:
     cell_id: str
     value: str
     is_placeholder: bool
-    evidence_id: Optional[str] = None
-    requirement_id: Optional[str] = None
-    metric: Optional[str] = None
-    period: Optional[str] = None
-    row_path: List[str] = field(default_factory=list)
-    column_path: List[str] = field(default_factory=list)
-    derived_formula_id: Optional[str] = None
-    input_cell_ids: List[str] = field(default_factory=list)
+    evidence_id: str | None = None
+    requirement_id: str | None = None
+    metric: str | None = None
+    period: str | None = None
+    row_path: list[str] = field(default_factory=list)
+    column_path: list[str] = field(default_factory=list)
+    derived_formula_id: str | None = None
+    input_cell_ids: list[str] = field(default_factory=list)
 
     def __post_init__(self) -> None:
         object.__setattr__(self, "cell_id", _string(self.cell_id, "cell_id"))
@@ -172,7 +173,7 @@ class TableCell:
         object.__setattr__(self, "derived_formula_id", _optional_string(self.derived_formula_id, "derived_formula_id"))
         object.__setattr__(self, "input_cell_ids", _string_list(list(self.input_cell_ids), "input_cell_ids"))
 
-    def to_dict(self) -> Dict[str, Any]:
+    def to_dict(self) -> dict[str, Any]:
         return {
             "cell_id": self.cell_id,
             "value": self.value,
@@ -188,7 +189,7 @@ class TableCell:
         }
 
     @classmethod
-    def from_dict(cls, value: Any) -> "TableCell":
+    def from_dict(cls, value: Any) -> TableCell:
         data = _mapping(value, "TableCell")
         _exact_keys(
             data,
@@ -226,7 +227,7 @@ class TableCell:
 class TableRow:
     row_id: str
     row_label: str
-    cells: Dict[str, TableCell]
+    cells: dict[str, TableCell]
 
     def __post_init__(self) -> None:
         object.__setattr__(self, "row_id", _string(self.row_id, "row_id"))
@@ -242,7 +243,7 @@ class TableRow:
             checked_cells[col_name] = cell
         object.__setattr__(self, "cells", checked_cells)
 
-    def to_dict(self) -> Dict[str, Any]:
+    def to_dict(self) -> dict[str, Any]:
         return {
             "row_id": self.row_id,
             "row_label": self.row_label,
@@ -250,7 +251,7 @@ class TableRow:
         }
 
     @classmethod
-    def from_dict(cls, value: Any) -> "TableRow":
+    def from_dict(cls, value: Any) -> TableRow:
         data = _mapping(value, "TableRow")
         _exact_keys(data, {"row_id", "row_label", "cells"}, "TableRow")
         cells_raw = _mapping(data["cells"], "TableRow.cells")
@@ -263,10 +264,10 @@ class TableRow:
 
 @dataclass(frozen=True)
 class SelectRowsOp:
-    row_labels: Optional[List[str]] = None
-    row_indices: Optional[List[int]] = None
-    filter_column: Optional[str] = None
-    filter_values: Optional[List[str]] = None
+    row_labels: list[str] | None = None
+    row_indices: list[int] | None = None
+    filter_column: str | None = None
+    filter_values: list[str] | None = None
 
     def __post_init__(self) -> None:
         object.__setattr__(
@@ -302,7 +303,7 @@ class SelectRowsOp:
                 "SelectRowsOp filter_column requires non-null filter_values"
             )
 
-    def to_dict(self) -> Dict[str, Any]:
+    def to_dict(self) -> dict[str, Any]:
         return {
             "row_labels": None if self.row_labels is None else list(self.row_labels),
             "row_indices": None if self.row_indices is None else list(self.row_indices),
@@ -311,7 +312,7 @@ class SelectRowsOp:
         }
 
     @classmethod
-    def from_dict(cls, value: Any) -> "SelectRowsOp":
+    def from_dict(cls, value: Any) -> SelectRowsOp:
         data = _mapping(value, "SelectRowsOp")
         _exact_keys(data, {"row_labels", "row_indices", "filter_column", "filter_values"}, "SelectRowsOp")
         return cls(
@@ -324,7 +325,7 @@ class SelectRowsOp:
 
 @dataclass(frozen=True)
 class SelectColumnsOp:
-    columns: List[str]
+    columns: list[str]
 
     def __post_init__(self) -> None:
         object.__setattr__(
@@ -333,11 +334,11 @@ class SelectColumnsOp:
             _string_list(self.columns, "columns", non_empty=True, unique=True),
         )
 
-    def to_dict(self) -> Dict[str, Any]:
+    def to_dict(self) -> dict[str, Any]:
         return {"columns": list(self.columns)}
 
     @classmethod
-    def from_dict(cls, value: Any) -> "SelectColumnsOp":
+    def from_dict(cls, value: Any) -> SelectColumnsOp:
         data = _mapping(value, "SelectColumnsOp")
         _exact_keys(data, {"columns"}, "SelectColumnsOp")
         return cls(columns=data["columns"])
@@ -347,7 +348,7 @@ class SelectColumnsOp:
 class AddDerivedColumnOp:
     new_column: str
     formula_id: str
-    input_columns: List[str]
+    input_columns: list[str]
 
     def __post_init__(self) -> None:
         object.__setattr__(self, "new_column", _string(self.new_column, "new_column"))
@@ -358,7 +359,7 @@ class AddDerivedColumnOp:
             _string_list(self.input_columns, "input_columns", non_empty=True, unique=True),
         )
 
-    def to_dict(self) -> Dict[str, Any]:
+    def to_dict(self) -> dict[str, Any]:
         return {
             "new_column": self.new_column,
             "formula_id": self.formula_id,
@@ -366,7 +367,7 @@ class AddDerivedColumnOp:
         }
 
     @classmethod
-    def from_dict(cls, value: Any) -> "AddDerivedColumnOp":
+    def from_dict(cls, value: Any) -> AddDerivedColumnOp:
         data = _mapping(value, "AddDerivedColumnOp")
         _exact_keys(data, {"new_column", "formula_id", "input_columns"}, "AddDerivedColumnOp")
         return cls(
@@ -387,7 +388,7 @@ class GroupOp:
         object.__setattr__(self, "agg_column", _string(self.agg_column, "agg_column"))
         object.__setattr__(self, "agg_func", _enum(self.agg_func, AggregateFunction, "agg_func"))
 
-    def to_dict(self) -> Dict[str, Any]:
+    def to_dict(self) -> dict[str, Any]:
         return {
             "by_column": self.by_column,
             "agg_column": self.agg_column,
@@ -395,7 +396,7 @@ class GroupOp:
         }
 
     @classmethod
-    def from_dict(cls, value: Any) -> "GroupOp":
+    def from_dict(cls, value: Any) -> GroupOp:
         data = _mapping(value, "GroupOp")
         _exact_keys(data, {"by_column", "agg_column", "agg_func"}, "GroupOp")
         return cls(
@@ -415,14 +416,14 @@ class SortOp:
         if not isinstance(self.descending, bool):
             raise SchemaValidationError("descending must be a boolean")
 
-    def to_dict(self) -> Dict[str, Any]:
+    def to_dict(self) -> dict[str, Any]:
         return {
             "by_column": self.by_column,
             "descending": self.descending,
         }
 
     @classmethod
-    def from_dict(cls, value: Any) -> "SortOp":
+    def from_dict(cls, value: Any) -> SortOp:
         data = _mapping(value, "SortOp")
         _exact_keys(data, {"by_column", "descending"}, "SortOp")
         return cls(
@@ -431,13 +432,7 @@ class SortOp:
         )
 
 
-TableOpPayload = Union[
-    SelectRowsOp,
-    SelectColumnsOp,
-    AddDerivedColumnOp,
-    GroupOp,
-    SortOp,
-]
+TableOpPayload = SelectRowsOp | SelectColumnsOp | AddDerivedColumnOp | GroupOp | SortOp
 
 
 @dataclass(frozen=True)
@@ -464,14 +459,14 @@ class TableOperation:
                 f"payload for {self.operation_type.value} must be {expected_type.__name__}"
             )
 
-    def to_dict(self) -> Dict[str, Any]:
+    def to_dict(self) -> dict[str, Any]:
         return {
             "operation_type": self.operation_type.value,
             "payload": self.payload.to_dict(),
         }
 
     @classmethod
-    def from_dict(cls, value: Any) -> "TableOperation":
+    def from_dict(cls, value: Any) -> TableOperation:
         data = _mapping(value, "TableOperation")
         _exact_keys(data, {"operation_type", "payload"}, "TableOperation")
         op_type = _parse_enum(data["operation_type"], TableOperationType, "operation_type")
@@ -514,7 +509,7 @@ class OperationRecord:
             _string(self.output_state_fingerprint, "output_state_fingerprint"),
         )
 
-    def to_dict(self) -> Dict[str, Any]:
+    def to_dict(self) -> dict[str, Any]:
         return {
             "step_index": self.step_index,
             "operation": self.operation.to_dict(),
@@ -523,7 +518,7 @@ class OperationRecord:
         }
 
     @classmethod
-    def from_dict(cls, value: Any) -> "OperationRecord":
+    def from_dict(cls, value: Any) -> OperationRecord:
         data = _mapping(value, "OperationRecord")
         _exact_keys(
             data,
@@ -557,10 +552,10 @@ def compute_table_fingerprint(
 @dataclass(frozen=True)
 class TableState:
     table_id: str
-    columns: List[str]
-    rows: List[TableRow]
+    columns: list[str]
+    rows: list[TableRow]
     step_index: int = 0
-    history: List[OperationRecord] = field(default_factory=list)
+    history: list[OperationRecord] = field(default_factory=list)
     fingerprint: str = ""
 
     def __post_init__(self) -> None:
@@ -594,7 +589,7 @@ class TableState:
             )
         object.__setattr__(self, "fingerprint", expected_fp)
 
-    def to_dict(self) -> Dict[str, Any]:
+    def to_dict(self) -> dict[str, Any]:
         return {
             "schema_version": TABLE_TRANSFORM_SCHEMA_VERSION,
             "table_id": self.table_id,
@@ -606,7 +601,7 @@ class TableState:
         }
 
     @classmethod
-    def from_dict(cls, value: Any) -> "TableState":
+    def from_dict(cls, value: Any) -> TableState:
         data = _mapping(value, "TableState")
         _exact_keys(
             data,
@@ -638,11 +633,11 @@ class TableState:
     def create(
         cls,
         table_id: str,
-        columns: List[str],
-        rows: List[TableRow],
+        columns: list[str],
+        rows: list[TableRow],
         step_index: int = 0,
-        history: Optional[List[OperationRecord]] = None,
-    ) -> "TableState":
+        history: list[OperationRecord] | None = None,
+    ) -> TableState:
         return cls(
             table_id=table_id,
             columns=columns,

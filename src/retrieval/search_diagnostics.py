@@ -4,7 +4,6 @@ from __future__ import annotations
 
 from dataclasses import dataclass
 import math
-from typing import List
 
 from src.retrieval.schemas import RetrievalCandidate, RetrievalContractError
 
@@ -41,5 +40,5 @@ class RetrievalSearchObservation:
 
 @dataclass(frozen=True)
 class RetrievalSearchResult:
-    candidates: List[RetrievalCandidate]
-    observations: List[RetrievalSearchObservation]
+    candidates: list[RetrievalCandidate]
+    observations: list[RetrievalSearchObservation]

@@ -7,7 +7,7 @@ from pathlib import Path
 
 from src.indexing.embedding_artifact_builder import APPROVED_EMBEDDING_FINGERPRINT
 from src.indexing.embedding_schemas import EMBEDDING_DIMENSION
-from src.memory.schemas import MEMORY_SCHEMA_VERSION, MemoryContext, MemoryEntry, RULE_TEXT
+from src.memory.schemas import MEMORY_SCHEMA_VERSION, RULE_TEXT, MemoryContext, MemoryEntry
 from src.programmer.schemas import canonical_json
 from src.retrieval.query_embedding import embed_query_texts
 from src.retrieval.schemas import RetrievalCompany, RetrievalQuery

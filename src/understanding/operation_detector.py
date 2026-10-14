@@ -4,7 +4,7 @@ from __future__ import annotations
 
 from dataclasses import dataclass
 import re
-from typing import Any, Dict, Set
+from typing import Any
 import unicodedata
 
 from src.understanding.schemas import (
@@ -16,7 +16,6 @@ from src.understanding.schemas import (
     _require_mapping,
     _require_string,
 )
-
 
 _RATIO_INDICATORS = ("roe", "tỷ lệ", "tỷ suất")
 _GROWTH_INDICATORS = ("tăng bao nhiêu %",)
@@ -49,7 +48,7 @@ class OperationDetectorInput:
         _require_exact_keys(data, {"text"}, "OperationDetectorInput")
         return cls(text=data["text"])
 
-    def to_dict(self) -> Dict[str, str]:
+    def to_dict(self) -> dict[str, str]:
         return {"text": self.text}
 
 
@@ -66,12 +65,12 @@ class OperationDetection:
         _require_exact_keys(data, {"operation"}, "OperationDetection")
         return cls(operation=_parse_enum(data["operation"], Operation, "operation"))
 
-    def to_dict(self) -> Dict[str, str]:
+    def to_dict(self) -> dict[str, str]:
         return {"operation": self.operation.value}
 
 
-def _detected_operations(text: str) -> Set[Operation]:
-    operations: Set[Operation] = set()
+def _detected_operations(text: str) -> set[Operation]:
+    operations: set[Operation] = set()
     if any(_contains_complete_phrase(text, value) for value in _RATIO_INDICATORS):
         operations.add(Operation.RATIO)
     if any(_contains_complete_phrase(text, value) for value in _GROWTH_INDICATORS):

@@ -19,13 +19,14 @@ TOML file, and never enter model payloads, reports or error messages.
 
 from __future__ import annotations
 
+from collections.abc import Callable, Mapping, Sequence
 from dataclasses import dataclass, field
 import os
 from pathlib import Path
 import shlex
 import time
 import tomllib
-from typing import Any, Callable, Dict, Mapping, Optional, Sequence
+from typing import Any
 
 from src.serving.client import HttpTransport, OpenAICompatibleClient
 from src.serving.schemas import ServingEndpoint, ServingError, ServingTask, Transport
@@ -55,20 +56,20 @@ class ProviderConfig:
     base_url: str
     model: str
     chat_path: str = "/v1/chat/completions"
-    api_key_env: Optional[str] = None
-    model_env: Optional[str] = None
-    base_url_env: Optional[str] = None
+    api_key_env: str | None = None
+    model_env: str | None = None
+    base_url_env: str | None = None
     auth: str = "bearer"
     json_mode: bool = True
     thinking: str = "none"
     send_temperature: bool = True
-    max_tokens: Optional[int] = None
+    max_tokens: int | None = None
     max_tokens_field: str = "max_tokens"
     timeout_s: float = 120.0
     retries: int = 2
     headers: Mapping[str, str] = field(default_factory=dict)
     extra_body: Mapping[str, Any] = field(default_factory=dict)
-    pricing: Optional[Mapping[str, float]] = None
+    pricing: Mapping[str, float] | None = None
 
     def __post_init__(self) -> None:
         if self.protocol not in PROTOCOLS:
@@ -96,7 +97,7 @@ class ProviderConfig:
                 raise _config_error(f"{self.name}: extra_body must not set {key}")
 
     @classmethod
-    def from_mapping(cls, name: str, value: Mapping[str, Any]) -> "ProviderConfig":
+    def from_mapping(cls, name: str, value: Mapping[str, Any]) -> ProviderConfig:
         if not isinstance(value, Mapping):
             raise _config_error(f"{name}: provider entry must be a table")
         unknown = set(value) - _FIELDS
@@ -108,7 +109,7 @@ class ProviderConfig:
         return cls(name=name, **dict(value))
 
 
-def load_providers(path: str | Path = DEFAULT_PROVIDERS_FILE) -> tuple[str, Dict[str, ProviderConfig]]:
+def load_providers(path: str | Path = DEFAULT_PROVIDERS_FILE) -> tuple[str, dict[str, ProviderConfig]]:
     """(default provider name, providers by name) from one TOML file."""
     try:
         document = tomllib.loads(Path(path).read_text(encoding="utf-8"))
@@ -124,9 +125,9 @@ def load_providers(path: str | Path = DEFAULT_PROVIDERS_FILE) -> tuple[str, Dict
     return default, providers
 
 
-def read_env_file(path: str | Path, names: Sequence[str]) -> Dict[str, str]:
+def read_env_file(path: str | Path, names: Sequence[str]) -> dict[str, str]:
     """Only the requested ``NAME=value`` lines of a ``.env`` file."""
-    values: Dict[str, str] = {}
+    values: dict[str, str] = {}
     env_path = Path(path)
     if not env_path.is_file():
         return values
@@ -145,7 +146,7 @@ def read_env_file(path: str | Path, names: Sequence[str]) -> Dict[str, str]:
     return values
 
 
-Observer = Optional[Callable[[Mapping[str, Any]], None]]
+Observer = Callable[[Mapping[str, Any]], None] | None
 
 
 def _with_retries(config: ProviderConfig, call: Callable[[], Any], sleep: Callable[[float], None]) -> Any:
@@ -169,8 +170,8 @@ class ProviderChatClient:
     observer: Observer = None
     sleep: Callable[[float], None] = time.sleep
 
-    def request_params(self, params: Mapping[str, Any]) -> Dict[str, Any]:
-        out: Dict[str, Any] = {}
+    def request_params(self, params: Mapping[str, Any]) -> dict[str, Any]:
+        out: dict[str, Any] = {}
         if self.config.json_mode and "response_format" in params:
             out["response_format"] = params["response_format"]
         if self.config.thinking == "deepseek" and "thinking" in params:
@@ -204,7 +205,7 @@ class AnthropicMessagesClient:
     observer: Observer = None
     sleep: Callable[[float], None] = time.sleep
 
-    def request_payload(self, messages: Sequence[Mapping[str, str]], params: Mapping[str, Any]) -> Dict[str, Any]:
+    def request_payload(self, messages: Sequence[Mapping[str, str]], params: Mapping[str, Any]) -> dict[str, Any]:
         if not isinstance(messages, (list, tuple)) or not messages:
             raise ServingError("SERVING_INPUT_INVALID", "messages must be non-empty")
         system = "\n\n".join(message["content"] for message in messages if message["role"] == "system")
@@ -212,7 +213,7 @@ class AnthropicMessagesClient:
                  for message in messages if message["role"] != "system"]
         if not turns:
             raise ServingError("SERVING_INPUT_INVALID", "at least one user message is required")
-        payload: Dict[str, Any] = {"model": self.endpoint.model_id,
+        payload: dict[str, Any] = {"model": self.endpoint.model_id,
                                    "max_tokens": self.config.max_tokens or params.get("max_tokens") or 4096,
                                    "messages": turns}
         if system:
@@ -271,12 +272,12 @@ class AnthropicMessagesClient:
 
 
 def provider_client(
-    name: Optional[str] = None,
+    name: str | None = None,
     *,
     config_path: str | Path = DEFAULT_PROVIDERS_FILE,
     env_file: str | Path = ".env",
-    environ: Optional[Mapping[str, str]] = None,
-    transport: Optional[Transport] = None,
+    environ: Mapping[str, str] | None = None,
+    transport: Transport | None = None,
 ) -> ProviderChatClient | AnthropicMessagesClient:
     """The chat client of one configured provider (``name`` > ``LLM_PROVIDER`` > file default)."""
     environment = os.environ if environ is None else environ
@@ -303,7 +304,7 @@ def provider_client(
     return ProviderChatClient(config, endpoint, transport)
 
 
-def provider_report(client: ProviderChatClient | AnthropicMessagesClient) -> Dict[str, Any]:
+def provider_report(client: ProviderChatClient | AnthropicMessagesClient) -> dict[str, Any]:
     """Non-secret provider identity recorded in run reports."""
     return {"name": client.config.name, "protocol": client.config.protocol, "model_id": client.endpoint.model_id,
             "base_url": client.endpoint.base_url,

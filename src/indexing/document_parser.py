@@ -2,17 +2,17 @@
 
 from __future__ import annotations
 
+from collections.abc import Sequence
 from dataclasses import dataclass
 from html.parser import HTMLParser
 import re
-from typing import List, Optional, Sequence, Tuple
 
 from src.indexing.ids import make_cell_id, make_page_id, make_table_id
 from src.indexing.schemas import (
     IssueSeverity,
     Page,
-    ParseIssue,
     ParsedDocument,
+    ParseIssue,
     ReportSource,
     SourceCell,
     SourceSpan,
@@ -20,7 +20,6 @@ from src.indexing.schemas import (
     TableParseStatus,
 )
 from src.understanding.schemas import SchemaValidationError
-
 
 _PAGE_MARKER = re.compile(
     r"^===== PAGE ([0-9]+) =====[ \t]*(?:\r\n|\r|\n|$)", re.MULTILINE
@@ -32,16 +31,16 @@ _BLANK_LINE = re.compile(r"(?:\r\n|\r|\n)[ \t]*(?:\r\n|\r|\n)+")
 def _issue(
     code: str,
     severity: IssueSeverity,
-    start: Optional[int],
-    end: Optional[int],
+    start: int | None,
+    end: int | None,
     message: str,
 ) -> ParseIssue:
     span = None if start is None or end is None else SourceSpan(start, end)
     return ParseIssue(code=code, severity=severity, source_span=span, message=message)
 
 
-def _find_tag_end(text: str, start: int, limit: int) -> Optional[int]:
-    quote: Optional[str] = None
+def _find_tag_end(text: str, start: int, limit: int) -> int | None:
+    quote: str | None = None
     index = start + 1
     while index < limit:
         character = text[index]
@@ -70,9 +69,9 @@ def _unclosed_table_end(text: str, start: int, page_end: int) -> int:
 
 def _find_table_ranges(
     text: str, page_start: int, page_end: int
-) -> Tuple[List[Tuple[int, int, bool]], List[ParseIssue]]:
-    ranges: List[Tuple[int, int, bool]] = []
-    issues: List[ParseIssue] = []
+) -> tuple[list[tuple[int, int, bool]], list[ParseIssue]]:
+    ranges: list[tuple[int, int, bool]] = []
+    issues: list[ParseIssue] = []
     cursor = page_start
 
     while cursor < page_end:
@@ -110,7 +109,7 @@ def _find_table_ranges(
         start = match.start()
         depth = 1
         search_cursor = tag_end
-        closed_end: Optional[int] = None
+        closed_end: int | None = None
         while search_cursor < page_end:
             nested = _TABLE_TAG.search(text, search_cursor, page_end)
             if nested is None:
@@ -150,7 +149,7 @@ def _find_table_ranges(
 class _TextExtractor(HTMLParser):
     def __init__(self) -> None:
         super().__init__(convert_charrefs=True)
-        self.parts: List[str] = []
+        self.parts: list[str] = []
 
     def handle_data(self, data: str) -> None:
         self.parts.append(data)
@@ -193,15 +192,15 @@ class _TableStructureParser(HTMLParser):
         self.line_starts.extend(
             match.end() for match in re.finditer(r"\r\n|\r|\n", raw_html)
         )
-        self.cells: List[SourceCell] = []
-        self.issues: List[ParseIssue] = []
+        self.cells: list[SourceCell] = []
+        self.issues: list[ParseIssue] = []
         self.current_row = -1
         self.current_cell_index = 0
         self.in_row = False
-        self.open_cell: Optional[_OpenCell] = None
-        self.open_caption: Optional[_OpenCaption] = None
-        self.caption_span: Optional[SourceSpan] = None
-        self.caption_text: Optional[str] = None
+        self.open_cell: _OpenCell | None = None
+        self.open_caption: _OpenCaption | None = None
+        self.caption_span: SourceSpan | None = None
+        self.caption_text: str | None = None
         self.table_depth = 0
         self.fatal_structure = False
         self.recovered = False
@@ -218,8 +217,8 @@ class _TableStructureParser(HTMLParser):
         message: str,
         *,
         fatal: bool,
-        start: Optional[int] = None,
-        end: Optional[int] = None,
+        start: int | None = None,
+        end: int | None = None,
     ) -> None:
         relative_start = self._position() if start is None else start
         relative_end = relative_start + 1 if end is None else end
@@ -235,7 +234,7 @@ class _TableStructureParser(HTMLParser):
         self.fatal_structure = self.fatal_structure or fatal
         self.recovered = self.recovered or not fatal
 
-    def _parse_span(self, attrs: Sequence[Tuple[str, Optional[str]]], name: str) -> Optional[int]:
+    def _parse_span(self, attrs: Sequence[tuple[str, str | None]], name: str) -> int | None:
         values = [value for key, value in attrs if key.lower() == name]
         if not values:
             return 1
@@ -257,7 +256,7 @@ class _TableStructureParser(HTMLParser):
         return parsed
 
     def handle_starttag(
-        self, tag: str, attrs: List[Tuple[str, Optional[str]]]
+        self, tag: str, attrs: list[tuple[str, str | None]]
     ) -> None:
         tag = tag.lower()
         position = self._position()
@@ -311,7 +310,7 @@ class _TableStructureParser(HTMLParser):
             self.open_caption = _OpenCaption(start=position, content_start=tag_end)
 
     def handle_startendtag(
-        self, tag: str, attrs: List[Tuple[str, Optional[str]]]
+        self, tag: str, attrs: list[tuple[str, str | None]]
     ) -> None:
         if tag.lower() in {"table", "tr", "td", "th", "caption"}:
             position = self._position()
@@ -464,7 +463,7 @@ def _parse_source_table(
 
     if parser.fatal_structure:
         status = TableParseStatus.UNPARSEABLE
-        cells: List[SourceCell] = []
+        cells: list[SourceCell] = []
         caption_span = None
         caption_text = None
     else:
@@ -496,7 +495,7 @@ def parse_document(source: ReportSource) -> ParsedDocument:
 
     raw_text = source.raw_text
     marker_matches = list(_PAGE_MARKER.finditer(raw_text))
-    document_issues: List[ParseIssue] = []
+    document_issues: list[ParseIssue] = []
     if not marker_matches:
         document_issues.append(
             _issue(
@@ -525,9 +524,9 @@ def parse_document(source: ReportSource) -> ParsedDocument:
             )
         )
 
-    pages: List[Page] = []
+    pages: list[Page] = []
     seen_numbers = set()
-    previous_number: Optional[int] = None
+    previous_number: int | None = None
     for marker_index, marker in enumerate(marker_matches):
         page_number = int(marker.group(1))
         source_end = (
@@ -556,7 +555,7 @@ def parse_document(source: ReportSource) -> ParsedDocument:
             page_index,
             source_span,
         )
-        page_issues: List[ParseIssue] = []
+        page_issues: list[ParseIssue] = []
         if page_number in seen_numbers:
             page_issues.append(
                 _issue(

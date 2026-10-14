@@ -10,19 +10,20 @@ from __future__ import annotations
 
 import argparse
 from collections import Counter, defaultdict
+from collections.abc import Iterable, Mapping, Sequence
 from concurrent.futures import ProcessPoolExecutor
 from dataclasses import dataclass
 import json
 from pathlib import Path
 import sqlite3
-from typing import Any, Dict, Iterable, List, Mapping, Optional, Sequence, Tuple
+from typing import Any
 
+from src.indexing.document_parser import parse_document
 from src.indexing.embedding_artifact_builder import (
     EmbeddingArtifactBuilderError,
     _iter_input_records,
     _validate_input_manifest,
 )
-from src.indexing.document_parser import parse_document
 from src.indexing.provenance_sidecar import (
     ProvenanceSidecarError,
     _canonical_json,
@@ -47,11 +48,10 @@ from src.retrieval.schemas import RetrievalCandidate, RetrievalCompany, Retrieva
 from src.supervisor.schemas import EvidenceSource, TableClass
 from src.understanding.schemas import SchemaValidationError
 
-
 TABLE_CLASS_PROVENANCE_AUDIT_SCHEMA_VERSION = "m2-table-class-provenance-audit-v1"
 PRODUCTION_TABLE_CLASS_PROVENANCE_FLAG = "PRODUCTION_TABLE_CLASS_PROVENANCE_PENDING"
 
-TableKey = Tuple[str, str, str]
+TableKey = tuple[str, str, str]
 
 
 class TableClassProvenanceAuditError(RuntimeError):
@@ -62,11 +62,11 @@ class TableClassProvenanceAuditError(RuntimeError):
         super().__init__(f"{code}: {message}")
 
 
-def _identity(key: TableKey) -> Dict[str, str]:
+def _identity(key: TableKey) -> dict[str, str]:
     return {"report_id": key[0], "page_id": key[1], "table_id": key[2]}
 
 
-def _sorted_identities(keys: Iterable[TableKey]) -> List[Dict[str, str]]:
+def _sorted_identities(keys: Iterable[TableKey]) -> list[dict[str, str]]:
     return [_identity(key) for key in sorted(set(keys))]
 
 
@@ -82,14 +82,14 @@ class _StoredRow:
     span_end: Any
     matched_text: Any
     canonical_json: Any
-    hint: Optional[TableClassHint]
+    hint: TableClassHint | None
 
     @property
-    def key(self) -> Tuple[Any, Any, Any]:
+    def key(self) -> tuple[Any, Any, Any]:
         return self.report_id, self.page_id, self.table_id
 
 
-def _load_sidecar_rows(database: Path) -> List[Tuple[Any, ...]]:
+def _load_sidecar_rows(database: Path) -> list[tuple[Any, ...]]:
     try:
         connection = sqlite3.connect(f"file:{database}?mode=ro", uri=True)
         try:
@@ -109,14 +109,14 @@ def _load_sidecar_rows(database: Path) -> List[Tuple[Any, ...]]:
 
 
 def _parse_sidecar_rows(
-    rows: Sequence[Tuple[Any, ...]],
-) -> Tuple[List[_StoredRow], List[str], List[str]]:
-    stored: List[_StoredRow] = []
-    invalid_records: List[str] = []
-    canonical_failures: List[str] = []
+    rows: Sequence[tuple[Any, ...]],
+) -> tuple[list[_StoredRow], list[str], list[str]]:
+    stored: list[_StoredRow] = []
+    invalid_records: list[str] = []
+    canonical_failures: list[str] = []
     for row_index, row in enumerate(rows):
         label = str(row[0]) if row else f"row-{row_index}"
-        hint: Optional[TableClassHint] = None
+        hint: TableClassHint | None = None
         try:
             payload = json.loads(row[9])
             hint = TableClassHint.from_dict(payload)
@@ -166,19 +166,19 @@ def _integration_audit(
     candidates_by_table: Mapping[TableKey, RetrievalCandidate],
     classified_hints: Mapping[TableKey, TableClassHint],
     unmatched_keys: Sequence[TableKey],
-) -> Dict[str, Any]:
+) -> dict[str, Any]:
     sidecar = TableClassSidecar(sidecar_root, corpus_artifact_root)
     repository = EvidenceProvenanceRepository(
         corpus_artifact_root,
         raw_corpus_root,
         table_class_sidecar=sidecar,
     )
-    representative_by_class: Dict[TableClass, TableKey] = {}
+    representative_by_class: dict[TableClass, TableKey] = {}
     for key, hint in sorted(classified_hints.items()):
         representative_by_class.setdefault(hint.table_class, key)
 
-    checks: List[Dict[str, Any]] = []
-    failures: List[TableKey] = []
+    checks: list[dict[str, Any]] = []
+    failures: list[TableKey] = []
     for table_class in TableClass:
         key = representative_by_class.get(table_class)
         if key is None:
@@ -206,7 +206,7 @@ def _integration_audit(
         if not passed:
             failures.append(key)
 
-    none_check: Dict[str, Any] = {"performed": False, "passed": None}
+    none_check: dict[str, Any] = {"performed": False, "passed": None}
     if unmatched_keys:
         key = sorted(unmatched_keys)[0]
         candidate = candidates_by_table.get(key)
@@ -245,11 +245,11 @@ class _ReportAuditTask:
 
     raw_corpus_root: str
     corpus_id: str
-    report: Dict[str, Any]
-    report_rows: Tuple[_StoredRow, ...]
+    report: dict[str, Any]
+    report_rows: tuple[_StoredRow, ...]
 
 
-def _audit_report_source(task: _ReportAuditTask) -> Dict[str, Any]:
+def _audit_report_source(task: _ReportAuditTask) -> dict[str, Any]:
     """Replay the deterministic source-only audit for exactly one report.
 
     Runs in the parent (``--workers 1``) or in a ``ProcessPoolExecutor`` worker.
@@ -261,7 +261,7 @@ def _audit_report_source(task: _ReportAuditTask) -> Dict[str, Any]:
     """
 
     registry_by_id = {entry.entry_id: entry for entry in TABLE_CLASS_REGISTRY}
-    result: Dict[str, Any] = {
+    result: dict[str, Any] = {
         "error": None,
         "source_table_keys": [],
         "expected_hints": [],
@@ -341,7 +341,7 @@ def _audit_report_source(task: _ReportAuditTask) -> Dict[str, Any]:
 
 def _run_report_audits(
     tasks: Sequence[_ReportAuditTask], workers: int
-) -> List[Dict[str, Any]]:
+) -> list[dict[str, Any]]:
     """Fan ``_audit_report_source`` over ``tasks``, preserving input order."""
 
     if workers <= 1 or len(tasks) <= 1:
@@ -356,7 +356,7 @@ def audit_table_class_provenance(
     raw_corpus_root: str | Path,
     *,
     workers: int = 1,
-) -> Dict[str, Any]:
+) -> dict[str, Any]:
     """Audit one exact corpus/sidecar/source triplet and return canonical JSON data.
 
     ``workers`` only parallelises the per-report source replay across processes;
@@ -396,9 +396,9 @@ def audit_table_class_provenance(
     stored_rows, invalid_records, canonical_failures = _parse_sidecar_rows(raw_rows)
 
     corpus_table_keys: set[TableKey] = set()
-    corpus_table_id_keys: Dict[str, set[TableKey]] = defaultdict(set)
-    candidates_by_table: Dict[TableKey, RetrievalCandidate] = {}
-    invalid_corpus_table_records: List[str] = []
+    corpus_table_id_keys: dict[str, set[TableKey]] = defaultdict(set)
+    candidates_by_table: dict[TableKey, RetrievalCandidate] = {}
+    invalid_corpus_table_records: list[str] = []
     try:
         for record in _iter_input_records(corpus):
             representation = record.representation
@@ -421,8 +421,8 @@ def audit_table_class_provenance(
     except (EmbeddingArtifactBuilderError, SchemaValidationError) as error:
         raise TableClassProvenanceAuditError("CORPUS_ARTIFACT_INVALID", str(error)) from error
 
-    rows_by_exact_key: Dict[Tuple[Any, Any, Any], List[_StoredRow]] = defaultdict(list)
-    rows_by_table_id: Dict[Any, List[_StoredRow]] = defaultdict(list)
+    rows_by_exact_key: dict[tuple[Any, Any, Any], list[_StoredRow]] = defaultdict(list)
+    rows_by_table_id: dict[Any, list[_StoredRow]] = defaultdict(list)
     for row in stored_rows:
         rows_by_exact_key[row.key].append(row)
         rows_by_table_id[row.table_id].append(row)
@@ -443,7 +443,7 @@ def audit_table_class_provenance(
     }
 
     canonical_failure_ids = set(canonical_failures)
-    valid_hints: Dict[TableKey, TableClassHint] = {}
+    valid_hints: dict[TableKey, TableClassHint] = {}
     for row in stored_rows:
         if row.hint is None or not all(isinstance(item, str) for item in row.key):
             continue
@@ -451,18 +451,18 @@ def audit_table_class_provenance(
         if len(rows_by_exact_key[row.key]) == 1 and str(row.hint_id) not in canonical_failure_ids:
             valid_hints[key] = row.hint
 
-    rows_by_report: Dict[str, List[_StoredRow]] = defaultdict(list)
+    rows_by_report: dict[str, list[_StoredRow]] = defaultdict(list)
     for row in stored_rows:
         if isinstance(row.report_id, str):
             rows_by_report[row.report_id].append(row)
 
     source_table_keys: set[TableKey] = set()
-    expected_hints: Dict[TableKey, TableClassHint] = {}
-    invalid_spans: List[str] = []
-    span_round_trip_failures: List[str] = []
-    registry_source_failures: List[str] = []
-    ambiguous_conflict_keys: List[TableKey] = []
-    source_no_match_keys: List[TableKey] = []
+    expected_hints: dict[TableKey, TableClassHint] = {}
+    invalid_spans: list[str] = []
+    span_round_trip_failures: list[str] = []
+    registry_source_failures: list[str] = []
+    ambiguous_conflict_keys: list[TableKey] = []
+    source_no_match_keys: list[TableKey] = []
     unparseable_table_count = 0
 
     tasks = [
@@ -533,7 +533,7 @@ def audit_table_class_provenance(
         ) from error
 
     counts = Counter(hint.table_class.value for hint in classified_hints.values())
-    blockers: List[str] = []
+    blockers: list[str] = []
     checks = (
         (not corpus_table_keys, "NO_CANONICAL_TABLES"),
         (not classified_hints, "NO_SOURCE_BACKED_CLASSIFICATIONS"),
@@ -641,7 +641,7 @@ def audit_table_class_provenance(
     }
 
 
-def _hard_failure_payload(error: TableClassProvenanceAuditError) -> Dict[str, Any]:
+def _hard_failure_payload(error: TableClassProvenanceAuditError) -> dict[str, Any]:
     return {
         "schema_version": TABLE_CLASS_PROVENANCE_AUDIT_SCHEMA_VERSION,
         "status": "BLOCKED",
@@ -652,7 +652,7 @@ def _hard_failure_payload(error: TableClassProvenanceAuditError) -> Dict[str, An
     }
 
 
-def main(argv: Optional[Sequence[str]] = None) -> int:
+def main(argv: Sequence[str] | None = None) -> int:
     parser = argparse.ArgumentParser(
         description="Audit production TableClass provenance against exact M2 source"
     )

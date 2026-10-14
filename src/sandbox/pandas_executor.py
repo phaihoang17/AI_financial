@@ -9,6 +9,7 @@ config and the worker module differ.
 
 from __future__ import annotations
 
+from collections.abc import Mapping
 import json
 import os
 from pathlib import Path
@@ -17,7 +18,7 @@ import sys
 import tempfile
 import threading
 from time import monotonic_ns
-from typing import Any, Mapping
+from typing import Any
 from uuid import uuid4
 
 from src.sandbox.executor import (
@@ -94,7 +95,7 @@ def _run(command: list[str], payload: bytes) -> subprocess.CompletedProcess[byte
                 _kill_worker_group(process)
                 process.communicate()
                 raise WorkerResourceViolation(ResourceLimitFailureCode.WALL_CLOCK_TIMEOUT,
-                                              "worker exceeded the wall-clock limit")
+                                              "worker exceeded the wall-clock limit") from None
             finally:
                 stop.set()
                 monitor.join(timeout=0.2)

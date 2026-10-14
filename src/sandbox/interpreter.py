@@ -2,13 +2,14 @@
 
 from __future__ import annotations
 
+from collections.abc import Mapping, Sequence
 from dataclasses import dataclass
 from decimal import Decimal, DecimalException, localcontext
 from enum import Enum
 from time import monotonic_ns
-from typing import Any, Dict, Mapping, Optional, Sequence, Tuple, Union
+from typing import Any
 
-from src.evidence.m5_schemas import ValueBinding
+from src.evidence.masking_schemas import ValueBinding
 from src.evidence.schemas import CanonicalDecimal, Scale
 from src.formulas.schemas import FormulaImplementation, FormulaImplementationKind
 from src.numeric.scale_conversion import (
@@ -47,13 +48,13 @@ class InterpreterFailureCode(str, Enum):
 class _RuntimeDatum:
     decimal_value: Decimal
     canonical_value: CanonicalDecimal
-    scale: Optional[Scale]
-    unit: Optional[str]
-    requested_scale: Optional[RequestedScale]
-    requested_unit: Optional[str]
+    scale: Scale | None
+    unit: str | None
+    requested_scale: RequestedScale | None
+    requested_unit: str | None
 
 
-_RuntimeValue = Union[_RuntimeDatum, Tuple[_RuntimeDatum, ...]]
+_RuntimeValue = _RuntimeDatum | tuple[_RuntimeDatum, ...]
 _MAGNITUDE_SCALES = frozenset(
     {Scale.RAW, Scale.THOUSAND, Scale.MILLION, Scale.BILLION}
 )
@@ -118,8 +119,8 @@ def _runtime_datum(binding: ValueBinding) -> _RuntimeDatum:
 def _converted(
     datum: _RuntimeDatum,
     *,
-    output_scale: Optional[Scale | RequestedScale],
-    output_unit: Optional[str],
+    output_scale: Scale | RequestedScale | None,
+    output_unit: str | None,
 ) -> _RuntimeDatum:
     result = convert_canonical_scale(
         datum.canonical_value,
@@ -162,7 +163,7 @@ def _require_scalars(values: Sequence[_RuntimeValue], operation: str) -> list[_R
     return [value for value in values if isinstance(value, _RuntimeDatum)]
 
 
-def _compatible_unit(values: Sequence[_RuntimeDatum]) -> Optional[str]:
+def _compatible_unit(values: Sequence[_RuntimeDatum]) -> str | None:
     source_units = [value.unit for value in values]
     present_source_units = {unit for unit in source_units if unit is not None}
     if (present_source_units and any(unit is None for unit in source_units)) or len(
@@ -218,7 +219,7 @@ def _scale_category(values: Sequence[_RuntimeDatum]) -> str:
 
 
 def _normalize(
-    datum: _RuntimeDatum, target_scale: Scale, target_unit: Optional[str]
+    datum: _RuntimeDatum, target_scale: Scale, target_unit: str | None
 ) -> _RuntimeDatum:
     return _converted(
         datum,
@@ -323,7 +324,7 @@ def _average(values: Sequence[_RuntimeDatum]) -> _RuntimeDatum:
     )
 
 
-def _apply_formula(formula_id: Optional[str], values: Sequence[_RuntimeDatum]) -> _RuntimeDatum:
+def _apply_formula(formula_id: str | None, values: Sequence[_RuntimeDatum]) -> _RuntimeDatum:
     if formula_id is None:
         _fail(
             ExecutionFailureStage.ARITHMETIC,
@@ -382,7 +383,7 @@ def _interpret(request: SandboxExecutionRequest) -> ExecutionOutput:
     bindings = {
         binding.placeholder: binding for binding in request.binding_map.bindings
     }
-    state: Dict[str, _RuntimeValue] = {
+    state: dict[str, _RuntimeValue] = {
         item.input_id: _runtime_datum(bindings[item.placeholder])
         for item in request.program.inputs
     }

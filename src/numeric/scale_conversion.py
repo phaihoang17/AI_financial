@@ -2,10 +2,11 @@
 
 from __future__ import annotations
 
+from collections.abc import Mapping
 from dataclasses import dataclass
 from decimal import Decimal, localcontext
 from enum import Enum
-from typing import Any, Dict, Mapping, Optional, Union
+from typing import Any
 
 from src.evidence.schemas import CanonicalDecimal, Scale
 from src.understanding.requested_scale_unit_parser import RequestedScale
@@ -31,17 +32,17 @@ _MAGNITUDE_FACTORS = {
     Scale.BILLION: Decimal("1000000000"),
 }
 
-RequestedOutputScale = Union[Scale, RequestedScale]
+RequestedOutputScale = Scale | RequestedScale
 
 
 @dataclass(frozen=True)
 class ScaleConversionResult:
     status: ScaleConversionStatus
-    canonical_value: Optional[CanonicalDecimal]
-    output_scale: Optional[Scale]
-    output_unit: Optional[str]
-    failure_code: Optional[ScaleConversionFailureCode]
-    failure_message: Optional[str]
+    canonical_value: CanonicalDecimal | None
+    output_scale: Scale | None
+    output_unit: str | None
+    failure_code: ScaleConversionFailureCode | None
+    failure_message: str | None
 
     def __post_init__(self) -> None:
         if not isinstance(self.status, ScaleConversionStatus):
@@ -84,7 +85,7 @@ class ScaleConversionResult:
                 "REJECTED requires only failure_code and failure_message"
             )
 
-    def to_dict(self) -> Dict[str, Any]:
+    def to_dict(self) -> dict[str, Any]:
         return {
             "status": self.status.value,
             "canonical_value": self.canonical_value,
@@ -99,7 +100,7 @@ class ScaleConversionResult:
         }
 
     @classmethod
-    def from_dict(cls, value: Any) -> "ScaleConversionResult":
+    def from_dict(cls, value: Any) -> ScaleConversionResult:
         if not isinstance(value, Mapping):
             raise SchemaValidationError("ScaleConversionResult must be an object")
         expected = {
@@ -157,8 +158,8 @@ def _rejected(
 
 
 def _normalized_requested_scale(
-    requested_scale: Optional[RequestedOutputScale],
-) -> Optional[Scale]:
+    requested_scale: RequestedOutputScale | None,
+) -> Scale | None:
     if requested_scale is None:
         return None
     if isinstance(requested_scale, Scale):
@@ -180,10 +181,10 @@ def _serialize_decimal(value: Decimal) -> CanonicalDecimal:
 def convert_canonical_scale(
     canonical_value: CanonicalDecimal,
     *,
-    source_scale: Optional[Scale],
-    source_unit: Optional[str] = None,
-    requested_output_scale: Optional[RequestedOutputScale] = None,
-    requested_output_unit: Optional[str] = None,
+    source_scale: Scale | None,
+    source_unit: str | None = None,
+    requested_output_scale: RequestedOutputScale | None = None,
+    requested_output_unit: str | None = None,
 ) -> ScaleConversionResult:
     """Convert scale metadata exactly, without mutating evidence or bindings."""
     if not isinstance(canonical_value, CanonicalDecimal):

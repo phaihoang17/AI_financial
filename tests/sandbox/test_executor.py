@@ -1,8 +1,8 @@
+from pathlib import Path
 import subprocess
 import sys
 import unittest
 from unittest.mock import patch
-from pathlib import Path
 
 from src.evidence.schemas import Scale
 from src.sandbox.executor import (

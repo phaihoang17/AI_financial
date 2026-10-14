@@ -3,23 +3,22 @@ import unittest
 
 from src.indexing.ids import content_sha256
 from src.indexing.schemas import (
-    HeaderHierarchy,
-    LogicalTableGrid,
     M2A_SCHEMA_VERSION,
     NORMALIZATION_VERSION,
-    NumericParseResult,
+    REPRESENTATION_VERSION,
+    HeaderHierarchy,
+    LogicalTableGrid,
     NormalizedTable,
+    NumericParseResult,
     Paragraph,
     ParsedDocument,
     ReportSource,
-    REPRESENTATION_VERSION,
     RetrievalRepresentation,
     ScaleHintSource,
     ScaleUnitHint,
     TableTextLink,
 )
 from src.understanding.schemas import SchemaValidationError
-
 
 RAW_REPORT = """===== PAGE 1 =====
 BÁO CÁO TÀI CHÍNH HỢP NHẤT

@@ -2,15 +2,15 @@
 
 from __future__ import annotations
 
+from collections.abc import Mapping
 from dataclasses import dataclass
 from enum import Enum
-from typing import Any, Dict, List, Mapping, Optional
+from typing import Any
 
-from src.evidence.m5_schemas import BindingMap
+from src.evidence.masking_schemas import BindingMap
 from src.evidence.schemas import CanonicalDecimal, Scale
 from src.programmer.schemas import Program, ProgrammerInput, ProgramOutputKind
 from src.understanding.schemas import SchemaValidationError
-
 
 EXECUTION_REQUEST_SCHEMA_VERSION = "m7-execution-request-v1"
 EXECUTION_RESULT_SCHEMA_VERSION = "m7-execution-result-v1"
@@ -47,7 +47,7 @@ def _exact_keys(data: Mapping[str, Any], expected: set[str], path: str) -> None:
         )
 
 
-def _string(value: Any, path: str, *, exact: Optional[str] = None) -> str:
+def _string(value: Any, path: str, *, exact: str | None = None) -> str:
     if not isinstance(value, str) or not value:
         raise SchemaValidationError(f"{path} must be a non-empty string")
     if exact is not None and value != exact:
@@ -90,7 +90,7 @@ class SandboxExecutionRequest:
         )
 
     @classmethod
-    def from_dict(cls, value: Any) -> "SandboxExecutionRequest":
+    def from_dict(cls, value: Any) -> SandboxExecutionRequest:
         data = _mapping(value, "SandboxExecutionRequest")
         _exact_keys(
             data,
@@ -111,7 +111,7 @@ class SandboxExecutionRequest:
             limits_profile_id=data["limits_profile_id"],
         )
 
-    def to_dict(self) -> Dict[str, Any]:
+    def to_dict(self) -> dict[str, Any]:
         return {
             "schema_version": self.schema_version,
             "program": self.program.to_dict(),
@@ -124,8 +124,8 @@ class SandboxExecutionRequest:
 @dataclass(frozen=True)
 class ExecutionDatum:
     value: CanonicalDecimal
-    scale: Optional[Scale]
-    unit: Optional[str]
+    scale: Scale | None
+    unit: str | None
 
     def __post_init__(self) -> None:
         if not isinstance(self.value, CanonicalDecimal):
@@ -141,7 +141,7 @@ class ExecutionDatum:
             raise SchemaValidationError("unit must be a non-empty string or null")
 
     @classmethod
-    def from_dict(cls, value: Any) -> "ExecutionDatum":
+    def from_dict(cls, value: Any) -> ExecutionDatum:
         data = _mapping(value, "ExecutionDatum")
         _exact_keys(data, {"value", "scale", "unit"}, "ExecutionDatum")
         raw_value = data["value"]
@@ -158,7 +158,7 @@ class ExecutionDatum:
             unit=data["unit"],
         )
 
-    def to_dict(self) -> Dict[str, Any]:
+    def to_dict(self) -> dict[str, Any]:
         return {
             "value": self.value,
             "scale": None if self.scale is None else self.scale.value,
@@ -169,7 +169,7 @@ class ExecutionDatum:
 @dataclass(frozen=True)
 class ExecutionOutput:
     kind: ProgramOutputKind
-    values: List[ExecutionDatum]
+    values: list[ExecutionDatum]
 
     def __post_init__(self) -> None:
         if not isinstance(self.kind, ProgramOutputKind):
@@ -187,7 +187,7 @@ class ExecutionOutput:
             )
 
     @classmethod
-    def from_dict(cls, value: Any) -> "ExecutionOutput":
+    def from_dict(cls, value: Any) -> ExecutionOutput:
         data = _mapping(value, "ExecutionOutput")
         _exact_keys(data, {"kind", "values"}, "ExecutionOutput")
         if not isinstance(data["values"], list):
@@ -201,7 +201,7 @@ class ExecutionOutput:
             values=[ExecutionDatum.from_dict(item) for item in data["values"]],
         )
 
-    def to_dict(self) -> Dict[str, Any]:
+    def to_dict(self) -> dict[str, Any]:
         return {
             "kind": self.kind.value,
             "values": [item.to_dict() for item in self.values],
@@ -221,7 +221,7 @@ class ExecutionFailure:
         _string(self.message, "message")
 
     @classmethod
-    def from_dict(cls, value: Any) -> "ExecutionFailure":
+    def from_dict(cls, value: Any) -> ExecutionFailure:
         data = _mapping(value, "ExecutionFailure")
         _exact_keys(data, {"stage", "code", "message"}, "ExecutionFailure")
         try:
@@ -230,7 +230,7 @@ class ExecutionFailure:
             raise SchemaValidationError("stage is unsupported") from error
         return cls(stage=stage, code=data["code"], message=data["message"])
 
-    def to_dict(self) -> Dict[str, str]:
+    def to_dict(self) -> dict[str, str]:
         return {
             "stage": self.stage.value,
             "code": self.code,
@@ -243,8 +243,8 @@ class ExecutionResult:
     schema_version: str
     program_id: str
     success: bool
-    output: Optional[ExecutionOutput]
-    failure: Optional[ExecutionFailure]
+    output: ExecutionOutput | None
+    failure: ExecutionFailure | None
     execution_ms: int
 
     def __post_init__(self) -> None:
@@ -273,7 +273,7 @@ class ExecutionResult:
             )
 
     @classmethod
-    def from_dict(cls, value: Any) -> "ExecutionResult":
+    def from_dict(cls, value: Any) -> ExecutionResult:
         data = _mapping(value, "ExecutionResult")
         _exact_keys(
             data,
@@ -304,7 +304,7 @@ class ExecutionResult:
             execution_ms=data["execution_ms"],
         )
 
-    def to_dict(self) -> Dict[str, Any]:
+    def to_dict(self) -> dict[str, Any]:
         return {
             "schema_version": self.schema_version,
             "program_id": self.program_id,

@@ -7,13 +7,13 @@ remains GPU_PRODUCTION_VALIDATION_PENDING.
 from __future__ import annotations
 
 import argparse
+from collections.abc import Sequence
 import json
-from typing import Optional, Sequence
 
 from src.evaluation.latency import measure_e2e_latency
 
 
-def main(argv: Optional[Sequence[str]] = None) -> int:
+def main(argv: Sequence[str] | None = None) -> int:
     parser = argparse.ArgumentParser()
     parser.add_argument("--mode", choices=("fixture",), default="fixture")
     parser.add_argument("--repeats", type=int, default=1)

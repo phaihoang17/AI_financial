@@ -3,8 +3,7 @@ import unittest
 from src.indexing.document_parser import parse_document
 from src.indexing.grid_builder import build_logical_table_grid
 from src.indexing.normalized_table_assembler import assemble_normalized_table
-from src.indexing.schemas import NumericParseStatus
-from src.indexing.schemas import IssueSeverity, ParseIssue, SourceSpan
+from src.indexing.schemas import IssueSeverity, NumericParseStatus, ParseIssue, SourceSpan
 from tests.indexing.test_document_parser import make_source
 
 

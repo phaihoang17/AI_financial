@@ -2,9 +2,7 @@
 
 from __future__ import annotations
 
-from typing import List, Set
-
-from src.evidence.m5_schemas import (
+from src.evidence.masking_schemas import (
     SchemaLinkMatchBasis,
     SchemaLinkStatus,
 )
@@ -14,7 +12,6 @@ from src.verification.schemas import (
     VerificationFailureCategory,
     VerificationRequest,
 )
-
 
 _EXACT_LINK_BASES = {
     SchemaLinkMatchBasis.EXACT_METRIC_PATH,
@@ -26,8 +23,8 @@ _EXACT_LINK_BASES = {
 def _declared_complete_ids(
     request: VerificationRequest,
     requirement: RetrievalRequirement,
-) -> Set[str]:
-    ids: Set[str] = set()
+) -> set[str]:
+    ids: set[str] = set()
     for result in request.evidence_completeness.requirements:
         declared = result.requirement
         if declared.requirement_id != requirement.requirement_id:
@@ -49,13 +46,13 @@ def _declared_complete_ids(
 def _table_coverage_ids(
     request: VerificationRequest,
     requirement: RetrievalRequirement,
-) -> Set[str]:
+) -> set[str]:
     evidence_by_id = {
         item.evidence_id: item
         for item in request.evidence_items
         if item.source_type is EvidenceSource.TABLE
     }
-    ids: Set[str] = set()
+    ids: set[str] = set()
     for link in request.schema_links:
         if (
             link.requirement_id != requirement.requirement_id
@@ -85,7 +82,7 @@ def _table_coverage_ids(
 def _text_coverage_ids(
     request: VerificationRequest,
     requirement: RetrievalRequirement,
-) -> Set[str]:
+) -> set[str]:
     return {
         item.evidence_id
         for item in request.evidence_items
@@ -105,9 +102,9 @@ def _text_coverage_ids(
 
 def verify_evidence_support(
     request: VerificationRequest,
-) -> List[VerificationCheckResult]:
+) -> list[VerificationCheckResult]:
     """Check every required Plan requirement without widening source types."""
-    checks: List[VerificationCheckResult] = []
+    checks: list[VerificationCheckResult] = []
     for requirement in request.plan.retrieval_requirements:
         if not requirement.required:
             continue

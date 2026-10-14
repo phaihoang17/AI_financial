@@ -12,7 +12,6 @@ from src.evaluation.harness import (
 )
 from src.understanding.schemas import SchemaValidationError
 
-
 CANONICAL_FIELDS = ["mode", "passed", "failure_stage", "failure_reason"]
 MODES = [
     "NLU",

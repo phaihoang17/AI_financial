@@ -25,11 +25,10 @@ from dataclasses import dataclass
 from enum import Enum
 from hashlib import sha256
 import json
-from typing import Any, Dict, Optional
+from typing import Any
 
 from src.orchestration.schemas import FinalAnswer, FinalResponse, FinalResponseStatus
 from src.understanding.schemas import QueryUnderstanding, SchemaValidationError
-
 
 SEMANTIC_CACHE_VERSION = "m10-semantic-cache-v1"
 _VOLATILE_KEYS = frozenset({"raw_question", "confidence"})
@@ -85,7 +84,7 @@ class SemanticCache:
         self.enabled = bool(enabled) and policy is not CacheKeyPolicy.NONE
         self.cache_version = cache_version
         self.stability_min_confidence = float(stability_min_confidence)
-        self._store: Dict[str, CachedEntry] = {}
+        self._store: dict[str, CachedEntry] = {}
         self.puts = 0
         self.hits = 0
         self.misses = 0
@@ -95,7 +94,7 @@ class SemanticCache:
     def _is_stable(self, understanding: QueryUnderstanding) -> bool:
         return understanding.confidence >= self.stability_min_confidence
 
-    def _signature(self, understanding: QueryUnderstanding) -> Optional[str]:
+    def _signature(self, understanding: QueryUnderstanding) -> str | None:
         if not self.enabled:
             return None
         if self.policy is CacheKeyPolicy.QUERY:
@@ -149,7 +148,7 @@ class SemanticCache:
 
     def get(
         self, understanding: QueryUnderstanding, invalidation_fingerprint: str
-    ) -> Optional[FinalAnswer]:
+    ) -> FinalAnswer | None:
         """Return a previously-verified answer for an identical, current input."""
         if not isinstance(understanding, QueryUnderstanding):
             raise SchemaValidationError("understanding must be a QueryUnderstanding")
@@ -174,7 +173,7 @@ class SemanticCache:
     def invalidate_all(self) -> None:
         self._store.clear()
 
-    def stats(self) -> Dict[str, Any]:
+    def stats(self) -> dict[str, Any]:
         lookups = self.hits + self.misses
         return {
             "policy": self.policy.value,

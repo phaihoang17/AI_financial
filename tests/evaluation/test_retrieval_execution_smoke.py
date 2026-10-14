@@ -1,6 +1,6 @@
 """Tests for the deterministic retrieval-execution smoke core (ADR-057).
 
-The ``Batch3Retriever`` construction needs real artifacts + pinned weights and
+The ``HybridRetriever`` construction needs real artifacts + pinned weights and
 is exercised only on the GPU host; here the retriever is a stand-in so the
 twice-run comparison / crash / timeout accounting is verified.
 """

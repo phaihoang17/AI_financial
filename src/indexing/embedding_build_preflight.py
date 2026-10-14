@@ -18,9 +18,10 @@ Exit status: 0 on a clean decision, 1 on an input/compat error.
 from __future__ import annotations
 
 import argparse
+from collections.abc import Sequence
 import json
 from pathlib import Path
-from typing import Any, Dict, Optional, Sequence
+from typing import Any
 
 from src.indexing.embedding_artifact_builder import (
     APPROVED_EMBEDDING_FINGERPRINT,
@@ -31,11 +32,10 @@ from src.indexing.embedding_artifact_builder import (
 )
 from src.indexing.embedding_chunker import CHUNKING_CONFIG_FINGERPRINT
 
-
 PREFLIGHT_SCHEMA_VERSION = "m2b-vector-build-preflight-v1"
 
 
-def _read_json(path: Path) -> Optional[Dict[str, Any]]:
+def _read_json(path: Path) -> dict[str, Any] | None:
     try:
         data = json.loads(path.read_text(encoding="utf-8"))
     except (OSError, ValueError):
@@ -48,7 +48,7 @@ def preflight_vector_build(
     output_root: str | Path,
     *,
     max_vectors_per_shard: int = MAX_VECTORS_PER_SHARD,
-) -> Dict[str, Any]:
+) -> dict[str, Any]:
     """Decide FRESH / RESUME / ALREADY_PUBLISHED without loading a model."""
     input_data = _validate_input_manifest(input_artifact, verify_hashes=False)
     build_id = _build_id(input_data, max_vectors_per_shard)
@@ -58,7 +58,7 @@ def preflight_vector_build(
     staging = root / ".staging" / build_id
     checkpoint_path = staging / "checkpoint.json"
 
-    result: Dict[str, Any] = {
+    result: dict[str, Any] = {
         "schema_version": PREFLIGHT_SCHEMA_VERSION,
         "build_id": build_id,
         "input_artifact_id": input_data.artifact_id,
@@ -117,7 +117,7 @@ def preflight_vector_build(
     return result
 
 
-def main(argv: Optional[Sequence[str]] = None) -> int:
+def main(argv: Sequence[str] | None = None) -> int:
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument("--input-artifact", required=True)
     parser.add_argument("--output-root", required=True)

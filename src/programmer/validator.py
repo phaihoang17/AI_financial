@@ -2,19 +2,20 @@
 
 from __future__ import annotations
 
+from collections.abc import Mapping, Sequence
 from enum import Enum
 import json
 import re
-from typing import Any, Dict, List, Mapping, Sequence, Set, Tuple
+from typing import Any
 
-from src.evidence.m5_schemas import MaskedEvidence
+from src.evidence.masking_schemas import MaskedEvidence
 from src.formulas.schemas import FormulaImplementation
 from src.programmer.schemas import (
     Program,
     ProgramInput,
+    ProgrammerInput,
     ProgramOperation,
     ProgramOutputKind,
-    ProgrammerInput,
     canonical_json,
     make_program_id,
 )
@@ -25,7 +26,6 @@ from src.supervisor.formula_registry import (
 )
 from src.supervisor.schemas import FormulaDefinition, QuestionType
 from src.understanding.schemas import SchemaValidationError
-
 
 _REFERENCE_ID = re.compile(r"[A-Za-z][A-Za-z0-9_-]*\Z")
 _CANONICAL_DECIMAL = re.compile(r"-?(?:0|[1-9]\d*)(?:\.\d+)?\Z")
@@ -152,7 +152,7 @@ def _validate_reference_id(value: str, path: str) -> None:
 def _formula_indexes(
     definitions: Sequence[FormulaDefinition],
     implementations: Sequence[FormulaImplementation],
-) -> Tuple[Dict[str, FormulaDefinition], Dict[str, FormulaImplementation]]:
+) -> tuple[dict[str, FormulaDefinition], dict[str, FormulaImplementation]]:
     definitions_by_id = {item.formula_id: item for item in definitions}
     implementations_by_id = {item.formula_id: item for item in implementations}
     if (
@@ -169,7 +169,7 @@ def _formula_indexes(
 
 def _validate_program_inputs(
     program: Program, programmer_input: ProgrammerInput
-) -> Dict[str, ProgramInput]:
+) -> dict[str, ProgramInput]:
     masked_items = programmer_input.masked_evidence.items
     plan_requirement_ids = {
         requirement.requirement_id
@@ -186,8 +186,8 @@ def _validate_program_inputs(
         (item.placeholder, item.evidence_id, item.requirement_id)
         for item in masked_items
     }
-    inputs_by_id: Dict[str, ProgramInput] = {}
-    input_bindings: Set[Tuple[str, str, str]] = set()
+    inputs_by_id: dict[str, ProgramInput] = {}
+    input_bindings: set[tuple[str, str, str]] = set()
     for index, item in enumerate(program.inputs):
         _validate_reference_id(item.input_id, f"inputs[{index}].input_id")
         if item.input_id in inputs_by_id:
@@ -218,9 +218,9 @@ def _validate_program_inputs(
 
 def _validate_steps(
     program: Program,
-    inputs_by_id: Dict[str, ProgramInput],
-    implementations_by_id: Dict[str, FormulaImplementation],
-) -> Tuple[Dict[str, List[str]], Dict[str, ProgramOperation]]:
+    inputs_by_id: dict[str, ProgramInput],
+    implementations_by_id: dict[str, FormulaImplementation],
+) -> tuple[dict[str, list[str]], dict[str, ProgramOperation]]:
     step_ids = [step.step_id for step in program.steps]
     for index, step_id in enumerate(step_ids):
         _validate_reference_id(step_id, f"steps[{index}].step_id")
@@ -234,8 +234,8 @@ def _validate_steps(
 
     available = set(inputs_by_id)
     all_step_ids = set(step_ids)
-    dependencies: Dict[str, List[str]] = {}
-    operations: Dict[str, ProgramOperation] = {}
+    dependencies: dict[str, list[str]] = {}
+    operations: dict[str, ProgramOperation] = {}
     for index, step in enumerate(program.steps):
         for ref_index, ref in enumerate(step.input_refs):
             _validate_reference_id(
@@ -291,24 +291,24 @@ def _validate_steps(
 
 def _leaf_inputs(
     ref: str,
-    inputs_by_id: Dict[str, ProgramInput],
-    dependencies: Dict[str, List[str]],
-) -> List[ProgramInput]:
+    inputs_by_id: dict[str, ProgramInput],
+    dependencies: dict[str, list[str]],
+) -> list[ProgramInput]:
     if ref in inputs_by_id:
         return [inputs_by_id[ref]]
-    leaves: List[ProgramInput] = []
+    leaves: list[ProgramInput] = []
     for dependency in dependencies[ref]:
         leaves.extend(_leaf_inputs(dependency, inputs_by_id, dependencies))
     return leaves
 
 
-def _required_masked_items(programmer_input: ProgrammerInput) -> List[MaskedEvidence]:
+def _required_masked_items(programmer_input: ProgrammerInput) -> list[MaskedEvidence]:
     required_ids = [
         requirement.requirement_id
         for requirement in programmer_input.plan.retrieval_requirements
         if requirement.required
     ]
-    masked_by_requirement: Dict[str, List[MaskedEvidence]] = {}
+    masked_by_requirement: dict[str, list[MaskedEvidence]] = {}
     for item in programmer_input.masked_evidence.items:
         masked_by_requirement.setdefault(item.requirement_id, []).append(item)
     for requirement_id in required_ids:
@@ -326,8 +326,8 @@ def _required_masked_items(programmer_input: ProgrammerInput) -> List[MaskedEvid
 
 def _validate_evidence_coverage(
     programmer_input: ProgrammerInput,
-    inputs_by_id: Dict[str, ProgramInput],
-    consumed_inputs: List[ProgramInput],
+    inputs_by_id: dict[str, ProgramInput],
+    consumed_inputs: list[ProgramInput],
 ) -> None:
     required_items = _required_masked_items(programmer_input)
     declared = {
@@ -348,8 +348,8 @@ def _validate_evidence_coverage(
 def _validate_formula_order(
     program: Program,
     programmer_input: ProgrammerInput,
-    inputs_by_id: Dict[str, ProgramInput],
-    dependencies: Dict[str, List[str]],
+    inputs_by_id: dict[str, ProgramInput],
+    dependencies: dict[str, list[str]],
 ) -> None:
     required = _required_masked_items(programmer_input)
     expected = [
@@ -380,7 +380,7 @@ def _validate_formula_order(
 def _validate_formula_boundary(
     program: Program,
     programmer_input: ProgrammerInput,
-    definitions_by_id: Dict[str, FormulaDefinition],
+    definitions_by_id: dict[str, FormulaDefinition],
 ) -> None:
     plan = programmer_input.plan
     if program.question_type is not plan.question_type:
@@ -447,10 +447,10 @@ def _validate_formula_boundary(
 
 def _validate_output(
     program: Program,
-    inputs_by_id: Dict[str, ProgramInput],
-    dependencies: Dict[str, List[str]],
-    operations: Dict[str, ProgramOperation],
-) -> List[ProgramInput]:
+    inputs_by_id: dict[str, ProgramInput],
+    dependencies: dict[str, list[str]],
+    operations: dict[str, ProgramOperation],
+) -> list[ProgramInput]:
     _validate_reference_id(program.output_ref, "output_ref")
     if program.output_ref not in inputs_by_id and program.output_ref not in dependencies:
         _fail(

@@ -2,7 +2,7 @@
 
 from __future__ import annotations
 
-from typing import Any, Dict, List, Optional
+from typing import Any
 
 from src.evaluation.reasoning import (
     ReasoningEvaluationResult,
@@ -14,9 +14,9 @@ from src.programmer.schemas import Program
 from src.understanding.schemas import SchemaValidationError
 
 
-def _normalized_program(program: Program) -> Optional[Dict[str, Any]]:
-    references: Dict[str, str] = {}
-    ordered_inputs: List[Dict[str, str]] = []
+def _normalized_program(program: Program) -> dict[str, Any] | None:
+    references: dict[str, str] = {}
+    ordered_inputs: list[dict[str, str]] = []
     for index, item in enumerate(program.inputs):
         if item.input_id in references:
             return None
@@ -29,11 +29,11 @@ def _normalized_program(program: Program) -> Optional[Dict[str, Any]]:
             }
         )
 
-    normalized_steps: List[Dict[str, Any]] = []
+    normalized_steps: list[dict[str, Any]] = []
     for index, step in enumerate(program.steps):
         if step.step_id in references:
             return None
-        normalized_refs: List[str] = []
+        normalized_refs: list[str] = []
         for reference in step.input_refs:
             if reference not in references:
                 return None
@@ -75,7 +75,7 @@ def normalized_program_equivalence(
 def compare_program_traces(
     expected_program: Program,
     actual_program: Program,
-    equivalence_hook: Optional[TraceEquivalenceHook] = None,
+    equivalence_hook: TraceEquivalenceHook | None = None,
 ) -> TraceComparison:
     """Compare exact Programs, then optionally apply a deterministic hook."""
     if not isinstance(expected_program, Program) or not isinstance(
@@ -93,7 +93,7 @@ def evaluate_program_trace(
     *,
     execution_correct: bool,
     answer_correct: bool,
-    equivalence_hook: Optional[TraceEquivalenceHook] = None,
+    equivalence_hook: TraceEquivalenceHook | None = None,
 ) -> ReasoningEvaluationResult:
     """Package trace evaluation with caller-supplied, independently scored outcomes."""
     return ReasoningEvaluationResult(

@@ -1,7 +1,7 @@
+from collections.abc import Iterable, Sequence
 from dataclasses import replace
-from typing import Iterable, Sequence
 
-from src.evidence.m5_schemas import (
+from src.evidence.masking_schemas import (
     BindingMap,
     ScaleUnitResolution,
     ScaleUnitResolutionStatus,
@@ -11,15 +11,15 @@ from src.evidence.m5_schemas import (
 )
 from src.evidence.schema_linker import link_schema
 from src.evidence.schemas import CanonicalDecimal, EvidenceItem, Scale
+from src.programmer.generator import generate_program
 from src.programmer.schemas import (
     Program,
     ProgramInput,
+    ProgrammerInput,
     ProgramOperation,
     ProgramOutputKind,
     ProgramStep,
-    ProgrammerInput,
 )
-from src.programmer.generator import generate_program
 from src.retrieval.evidence import (
     CellLocation,
     EvidenceCompletenessResult,
@@ -34,6 +34,7 @@ from src.sandbox.schemas import (
     ExecutionOutput,
     ExecutionResult,
 )
+from src.supervisor.formula_registry import FORMULA_REGISTRY_FINGERPRINT
 from src.supervisor.schemas import (
     EvidenceSource,
     Plan,
@@ -41,10 +42,9 @@ from src.supervisor.schemas import (
     TableClass,
     VerifyProfile,
 )
-from src.supervisor.formula_registry import FORMULA_REGISTRY_FINGERPRINT
 from src.understanding.schemas import StatementScope
 from src.verification.schemas import VerificationRequest
-from tests.evidence.m5_helpers import grounded_cell
+from tests.evidence.helpers import grounded_cell
 
 
 def make_plan(sources: Sequence[EvidenceSource]) -> Plan:

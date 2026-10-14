@@ -13,8 +13,8 @@ import tempfile
 import unittest
 
 from src.evaluation.retrieval_production_validation import (
-    CheckStatus,
     KNOWN_SOURCE_TABLE_COUNT,
+    CheckStatus,
     ProductionValidationError,
     _live_embedding_check,
     _live_reranker_check,

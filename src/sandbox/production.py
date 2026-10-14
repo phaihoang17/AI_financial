@@ -11,6 +11,7 @@ fall back to an unisolated worker.
 
 from __future__ import annotations
 
+from collections.abc import Callable, Mapping, Sequence
 from enum import Enum
 import hashlib
 import os
@@ -19,7 +20,6 @@ import platform
 import re
 import shutil
 import stat
-from typing import Callable, Mapping, Optional, Sequence
 from uuid import uuid4
 
 from src.sandbox.security import SecurityFailureCode, WorkerSecurityViolation
@@ -54,7 +54,7 @@ def _setup_failure(message: str) -> WorkerSecurityViolation:
 
 
 def resolve_isolation_mode(
-    environment: Optional[Mapping[str, str]] = None,
+    environment: Mapping[str, str] | None = None,
 ) -> SandboxIsolationMode:
     source = os.environ if environment is None else environment
     raw = source.get(SANDBOX_ISOLATION_MODE_ENV, SandboxIsolationMode.LOCAL.value)
@@ -117,7 +117,7 @@ _CONTAINER_CLIENT_ENV = (
 
 def launcher_environment(
     worker_environment: Mapping[str, str],
-    environment: Optional[Mapping[str, str]] = None,
+    environment: Mapping[str, str] | None = None,
 ) -> dict[str, str]:
     """The environment of the process the parent starts.
 
@@ -135,8 +135,8 @@ def container_worker_command(
     worker_command: Sequence[str],
     *,
     limits: object,
-    worker_environment: Callable[[Path, Optional[str]], Mapping[str, str]],
-    environment: Optional[Mapping[str, str]] = None,
+    worker_environment: Callable[[Path, str | None], Mapping[str, str]],
+    environment: Mapping[str, str] | None = None,
 ) -> list[str]:
     """``docker|podman run`` of the pinned worker image with the profile's limits."""
     from src.sandbox.host import settings
@@ -173,14 +173,14 @@ def production_worker_command(
     worker_command: Sequence[str],
     *,
     project_root: Path,
-    environment: Optional[Mapping[str, str]] = None,
-    system_name: Optional[str] = None,
+    environment: Mapping[str, str] | None = None,
+    system_name: str | None = None,
     config_env: str = NSJAIL_CONFIG_ENV,
-    default_config: Optional[Path] = None,
-    config_sha256: Optional[str] = None,
-    limits: Optional[object] = None,
-    worker_environment: Optional[Callable[[Path, Optional[str]], Mapping[str, str]]] = None,
-) -> Optional[list[str]]:
+    default_config: Path | None = None,
+    config_sha256: str | None = None,
+    limits: object | None = None,
+    worker_environment: Callable[[Path, str | None], Mapping[str, str]] | None = None,
+) -> list[str] | None:
     """Wrap the fixed worker with the approved production boundary.
 
     ``None`` means local/development execution should keep using its existing

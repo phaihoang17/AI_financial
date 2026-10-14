@@ -5,8 +5,8 @@ from __future__ import annotations
 from src.indexing.header_inference import infer_header_structure
 from src.indexing.ids import make_normalized_cell_id, make_normalized_table_id
 from src.indexing.schemas import (
-    LogicalTableGrid,
     NORMALIZATION_VERSION,
+    LogicalTableGrid,
     NormalizedCell,
     NormalizedTable,
     SourceTable,

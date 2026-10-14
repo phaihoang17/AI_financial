@@ -5,9 +5,9 @@ from src.sandbox.pandas_protocol import PandasFailureStage
 from src.serving.schemas import ServingError
 from src.text_to_pandas.catalog import frame_payload
 from src.text_to_pandas.catalog_builder import _column_period
-from src.text_to_pandas.metrics import metric_for_code, metric_for_bank_label
+from src.text_to_pandas.metrics import metric_for_bank_label, metric_for_code
 from src.text_to_pandas.understanding import understand_question
-from tests.text_to_pandas.test_pipeline import catalog, envelope, FILTER, run
+from tests.text_to_pandas.test_pipeline import FILTER, envelope, run
 
 
 @pytest.mark.parametrize("header,expected", [

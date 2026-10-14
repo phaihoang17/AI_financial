@@ -12,8 +12,8 @@ from src.orchestration.ports import (
 from src.orchestration.schemas import make_retrieval_policy_fingerprint
 from src.retrieval.query_builder import build_retrieval_query
 from src.understanding.schemas import SchemaValidationError
+from tests.evidence.helpers import grounded_cell
 from tests.orchestration.helpers import ARTIFACT_VERSIONS, approved_contracts
-from tests.evidence.m5_helpers import grounded_cell
 
 
 def test_nlu_stage_output_round_trip():

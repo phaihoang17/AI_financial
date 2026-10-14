@@ -6,7 +6,6 @@ from src.evidence.schemas import CanonicalDecimal, EvidenceItem
 from src.indexing.numeric_parser import parse_numeric_string
 from src.understanding.schemas import SchemaValidationError
 
-
 CANONICAL_FIELDS = [
     "evidence_id",
     "source_type",

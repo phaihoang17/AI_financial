@@ -1,6 +1,6 @@
 from dataclasses import replace
 
-from src.evidence.m5_schemas import SchemaLinkMatchBasis, SchemaLinkStatus
+from src.evidence.masking_schemas import SchemaLinkMatchBasis, SchemaLinkStatus
 from src.supervisor.schemas import EvidenceSource
 from src.verification.evidence_support import verify_evidence_support
 from src.verification.schemas import VerificationRequest

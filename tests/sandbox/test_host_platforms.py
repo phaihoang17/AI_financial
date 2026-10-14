@@ -12,10 +12,9 @@ from unittest.mock import patch
 
 import pytest
 
-from src.sandbox import host
+from src.sandbox import host, windows_job
 from src.sandbox.limits import M7_LIMITS_V1, T2P_PANDAS_LIMITS_V1, WorkerResourceViolation, apply_worker_resource_limits
 from src.sandbox.security import WorkerSecurityViolation, expected_worker_environment
-from src.sandbox import windows_job
 
 ROOT = Path(__file__).resolve().parents[2]
 
@@ -247,9 +246,9 @@ def test_container_client_gets_host_env_and_worker_gets_exact_env(container_mode
 
 
 def test_m7_and_t2p_workers_run_through_the_container_boundary(container_mode):
+    from src.evaluation.run_sandbox_load_eval import BENIGN_CODE, _t2p_payload
     from src.sandbox.executor import execute_sandboxed
     from src.sandbox.pandas_executor import execute_pandas_sandboxed
-    from src.evaluation.run_sandbox_load_eval import BENIGN_CODE, _t2p_payload
 
     request, expected = _m7_request(3)
     result = execute_sandboxed(request)

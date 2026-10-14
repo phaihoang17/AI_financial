@@ -1,5 +1,5 @@
-import unittest
 from collections import OrderedDict
+import unittest
 
 from src.evaluation.e2e_fixtures import e2e_fixture_cases
 from src.evaluation.latency import measure_e2e_latency, profile_stages

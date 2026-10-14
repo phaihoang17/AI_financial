@@ -3,19 +3,18 @@
 from __future__ import annotations
 
 from decimal import (
+    ROUND_HALF_EVEN,
     Context,
     Decimal,
     DivisionByZero,
     Inexact,
     InvalidOperation,
     Overflow,
-    ROUND_HALF_EVEN,
     Rounded,
 )
 
 from src.evidence.schemas import CanonicalDecimal
 from src.understanding.schemas import SchemaValidationError
-
 
 EXECUTION_DECIMAL_PRECISION = 50
 EXECUTION_DECIMAL_ROUNDING = ROUND_HALF_EVEN

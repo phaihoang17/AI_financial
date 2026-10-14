@@ -2,10 +2,11 @@
 
 from __future__ import annotations
 
+from collections.abc import Mapping
 from enum import Enum
-from typing import Any, Dict, Mapping
+from typing import Any
 
-from src.evidence.m5_schemas import BindingMap
+from src.evidence.masking_schemas import BindingMap
 from src.programmer.schemas import Program, ProgrammerInput, ProgramOperation
 from src.programmer.validator import ProgramValidationError, validate_program
 from src.sandbox.schemas import (
@@ -16,7 +17,6 @@ from src.sandbox.schemas import (
     SandboxExecutionRequest,
 )
 from src.understanding.schemas import SchemaValidationError
-
 
 MAX_PROGRAM_INPUTS = 256
 MAX_PROGRAM_STEPS = 256
@@ -91,7 +91,7 @@ def _raw_structural_limits(program: Any) -> None:
 
 
 def _validate_depth(program: Program) -> None:
-    depths: Dict[str, int] = {item.input_id: 0 for item in program.inputs}
+    depths: dict[str, int] = {item.input_id: 0 for item in program.inputs}
     for step in program.steps:
         depth = 1 + max(depths[ref] for ref in step.input_refs)
         if depth > MAX_PROGRAM_DEPTH:
@@ -103,8 +103,8 @@ def _validate_depth(program: Program) -> None:
         depths[step.step_id] = depth
 
 
-def _unique_placeholder_map(values: list[Any], *, source: str) -> Dict[str, str]:
-    result: Dict[str, str] = {}
+def _unique_placeholder_map(values: list[Any], *, source: str) -> dict[str, str]:
+    result: dict[str, str] = {}
     for item in values:
         existing = result.get(item.placeholder)
         if existing is not None:

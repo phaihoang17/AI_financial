@@ -32,8 +32,9 @@ Without ``--serving-config`` the two LIVE probes are ``SKIPPED``; without
 from __future__ import annotations
 
 import argparse
+from collections.abc import Sequence
 import json
-from typing import Any, Optional, Sequence
+from typing import Any
 
 from src.evaluation.retrieval_production_validation import (
     EXPECTED_CANONICAL_CHUNK_COUNT,
@@ -43,7 +44,7 @@ from src.evaluation.retrieval_production_validation import (
 )
 
 
-def _load_serving_probes(config_path: str, sample_path: Optional[str]) -> dict[str, Any]:  # pragma: no cover - live infra
+def _load_serving_probes(config_path: str, sample_path: str | None) -> dict[str, Any]:  # pragma: no cover - live infra
     """Build HttpTransport-backed clients, compute pinned local references, probe.
 
     Requires a live vLLM deployment and the pinned BGE-M3 / BGE-reranker weights
@@ -82,7 +83,7 @@ def _load_serving_probes(config_path: str, sample_path: Optional[str]) -> dict[s
     }
 
 
-def main(argv: Optional[Sequence[str]] = None) -> int:
+def main(argv: Sequence[str] | None = None) -> int:
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument("--corpus-artifact", required=True)
     parser.add_argument("--vector-artifact", required=True)

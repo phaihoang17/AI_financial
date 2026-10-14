@@ -7,11 +7,11 @@ tier routing stays in ``src/supervisor`` and is only consumed here.
 
 from __future__ import annotations
 
+from collections.abc import Mapping
 from dataclasses import dataclass
 from enum import Enum
-from typing import Any, Mapping, Protocol
+from typing import Any, Protocol
 from urllib.parse import urlparse
-
 
 SERVING_SCHEMA_VERSION = "m10-serving-v1"
 
@@ -95,7 +95,7 @@ class ServingEndpoint:
         }
 
     @classmethod
-    def from_dict(cls, value: Any) -> "ServingEndpoint":
+    def from_dict(cls, value: Any) -> ServingEndpoint:
         if not isinstance(value, Mapping):
             raise ServingError("INVALID_ENDPOINT", "endpoint must be a mapping")
         expected = {"name", "base_url", "model_id", "task", "timeout_s"}

@@ -9,31 +9,27 @@ Verifies that:
    and never evaluate arithmetic calculations on grounded values.
 """
 
-from decimal import Decimal
 import re
-import pytest
 
-from src.evidence.m5_schemas import make_value_placeholder
-from src.table_transform.executor import execute_operation
-from src.table_transform.planner import is_terminal_state, plan_and_transform
-from src.table_transform.schemas import (
-    AddDerivedColumnOp,
-    AggregateFunction,
-    GroupOp,
-    SelectColumnsOp,
-    SelectRowsOp,
-    TableCell,
-    TableOperation,
-    TableOperationType,
-    TableRow,
-    TableState,
-)
+from src.evidence.masking_schemas import make_value_placeholder
 from src.supervisor.schemas import (
     EvidenceSource,
     Plan,
     RetrievalRequirement,
     StatementScope,
     TableClass,
+)
+from src.table_transform.executor import execute_operation
+from src.table_transform.planner import plan_and_transform
+from src.table_transform.schemas import (
+    AddDerivedColumnOp,
+    AggregateFunction,
+    GroupOp,
+    TableCell,
+    TableOperation,
+    TableOperationType,
+    TableRow,
+    TableState,
 )
 from src.understanding.schemas import (
     CompanyUnderstanding,
@@ -152,7 +148,7 @@ class TestAntiHardcodeCompliance:
 
         for step_idx, state in enumerate(intermediate_states):
             for row in state.rows:
-                for col_name, cell in row.cells.items():
+                for cell in row.cells.values():
                     if cell.is_placeholder:
                         # 1. Must be a valid symbolic placeholder format
                         assert _is_valid_symbolic_placeholder(cell.value), (

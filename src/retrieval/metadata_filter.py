@@ -2,11 +2,10 @@
 
 from __future__ import annotations
 
+from collections.abc import Iterable
 import re
-from typing import Iterable, List, Tuple
 
 from src.retrieval.schemas import RetrievalCandidate, RetrievalContractError, RetrievalQuery
-
 
 _YEAR = re.compile(r"^(?P<year>[0-9]{4})$")
 _QUARTER = re.compile(r"^(?P<year>[0-9]{4})-Q[1-4]$")
@@ -14,10 +13,10 @@ _CUMULATIVE = re.compile(r"^(?P<year>[0-9]{4})-(?:[1-9]|1[0-2])M$")
 _SQL_IDENTIFIER = re.compile(r"^[A-Za-z_][A-Za-z0-9_]*$")
 
 
-def derive_report_years(periods: Iterable[str]) -> List[int]:
+def derive_report_years(periods: Iterable[str]) -> list[int]:
     """Derive report years in source order, removing only duplicate years."""
 
-    years: List[int] = []
+    years: list[int] = []
     seen = set()
     for index, period in enumerate(periods):
         if not isinstance(period, str):
@@ -37,7 +36,7 @@ def derive_report_years(periods: Iterable[str]) -> List[int]:
 
 def report_metadata_sql_constraints(
     query: RetrievalQuery, *, table_alias: str = ""
-) -> Tuple[str, List[object]]:
+) -> tuple[str, list[object]]:
     """Return TASK-030's exact constraints for a compatible SQLite table.
 
     This is deliberately the single SQL representation of TASK-030 semantics.
@@ -51,8 +50,8 @@ def report_metadata_sql_constraints(
         raise RetrievalContractError("INVALID_SQL_TABLE_ALIAS", "table_alias must be an SQL identifier")
 
     prefix = f"{table_alias}." if table_alias else ""
-    predicates: List[str] = []
-    parameters: List[object] = []
+    predicates: list[str] = []
+    parameters: list[object] = []
     if query.company.ticker:
         predicates.append(f"{prefix}ticker = ?")
         parameters.append(query.company.ticker)
@@ -68,7 +67,7 @@ def report_metadata_sql_constraints(
 
 def filter_by_report_metadata(
     query: RetrievalQuery, candidates: Iterable[RetrievalCandidate]
-) -> List[RetrievalCandidate]:
+) -> list[RetrievalCandidate]:
     """Apply only exact ticker, explicit scope, and derived report-year filters.
 
     Candidate iteration order is intentionally retained.  This function does
@@ -79,7 +78,7 @@ def filter_by_report_metadata(
         raise TypeError("query must be a RetrievalQuery")
     report_years = derive_report_years(query.periods)
     allowed_years = set(report_years)
-    result: List[RetrievalCandidate] = []
+    result: list[RetrievalCandidate] = []
     for candidate in candidates:
         if not isinstance(candidate, RetrievalCandidate):
             raise TypeError("candidates must contain RetrievalCandidate values")

@@ -54,6 +54,7 @@ from __future__ import annotations
 
 import argparse
 from collections import Counter, defaultdict
+from collections.abc import Iterable, Mapping, Sequence
 import csv
 from dataclasses import dataclass
 from decimal import Decimal
@@ -63,7 +64,7 @@ from multiprocessing import Pool
 from pathlib import Path
 import re
 import sys
-from typing import Any, Dict, Iterable, List, Mapping, Optional, Sequence, Tuple
+from typing import Any
 
 from src.evidence.schemas import Scale
 from src.indexing.cell_normalizer import normalize_cell_text
@@ -132,20 +133,20 @@ class CatalogBuildError(RuntimeError):
 
 
 def make_fact_id(report_id: str, table_id: str, source_cell_id: str) -> str:
-    digest = sha256(f"{report_id}|{table_id}|{source_cell_id}".encode("utf-8")).hexdigest()
+    digest = sha256(f"{report_id}|{table_id}|{source_cell_id}".encode()).hexdigest()
     return f"f_{digest[:20]}"
 
 
 @dataclass(frozen=True)
 class _Layout:
     column_count: int
-    code_column: Optional[int]
+    code_column: int | None
     code_named: bool
     current_column: int
-    label_columns: Tuple[int, ...]
+    label_columns: tuple[int, ...]
 
 
-def _column_period(header: str, report_year: int) -> Optional[str]:
+def _column_period(header: str, report_year: int) -> str | None:
     """CURRENT/PRIOR for one value-column header, None when unstated or both."""
     folded = fold(header)
     compact = folded.replace(" ", "")
@@ -164,7 +165,7 @@ def _column_period(header: str, report_year: int) -> Optional[str]:
     return "CURRENT" if current else "PRIOR"
 
 
-def _scale_for_table(hints: Sequence[Any]) -> Tuple[Optional[Scale], str]:
+def _scale_for_table(hints: Sequence[Any]) -> tuple[Scale | None, str]:
     """Scale from labelled currency-unit hints; RAW never outranks a magnitude (ADR-062)."""
     scales = {hint.scale_candidate for hint in hints if hint.unit_candidate == "VND"}
     magnitudes = scales & _MAGNITUDES
@@ -177,7 +178,7 @@ def _scale_for_table(hints: Sequence[Any]) -> Tuple[Optional[Scale], str]:
     return None, "NONE"
 
 
-def _page_declaration(hints: Sequence[Any], page_id: str, table_start: int) -> Tuple[Optional[Scale], str]:
+def _page_declaration(hints: Sequence[Any], page_id: str, table_start: int) -> tuple[Scale | None, str]:
     """The nearest labelled unit declaration printed above the table on its page."""
     above = [
         hint for hint in hints
@@ -201,7 +202,7 @@ _FOLDED_SCALE = {None: Scale.RAW, "trieu": Scale.MILLION, "nghin": Scale.THOUSAN
 _FOLDED_COLUMN_UNIT = re.compile(r"(?:(trieu|nghin|ngan|ty)\s*)?(?:vnd|dong)(?![a-z])")
 
 
-def _column_header_unit(header: str) -> Tuple[Optional[Scale], str]:
+def _column_header_unit(header: str) -> tuple[Scale | None, str]:
     """A unit written in the value column's own header ("2018 Triệu đồng", "Năm nay VND")."""
     scales = {_FOLDED_SCALE[match.group(1)] for match in _FOLDED_COLUMN_UNIT.finditer(fold(header))}
     if len(scales) == 1:
@@ -209,7 +210,7 @@ def _column_header_unit(header: str) -> Tuple[Optional[Scale], str]:
     return None, "NONE" if not scales else "AMBIGUOUS"
 
 
-def _page_text_declaration(raw_text: str, page: Any, table_start: int) -> Tuple[Optional[Scale], str]:
+def _page_text_declaration(raw_text: str, page: Any, table_start: int) -> tuple[Scale | None, str]:
     """The last unit declaration in the page text above the table, read OCR-tolerantly."""
     above = fold(raw_text[page.source_span.start:table_start])
     matches = list(_FOLDED_DECLARATION.finditer(above))
@@ -218,7 +219,7 @@ def _page_text_declaration(raw_text: str, page: Any, table_start: int) -> Tuple[
     return _FOLDED_SCALE[matches[-1].group(1)], "PAGE_TEXT"
 
 
-def _report_consensus(hints: Sequence[Any]) -> Tuple[Optional[Scale], str]:
+def _report_consensus(hints: Sequence[Any]) -> tuple[Scale | None, str]:
     """The report's scale when its currency-unit hints agree (all, or >= 95% of >= 20)."""
     scales = Counter(hint.scale_candidate for hint in hints if hint.unit_candidate == "VND")
     if not scales:
@@ -232,7 +233,7 @@ def _report_consensus(hints: Sequence[Any]) -> Tuple[Optional[Scale], str]:
     return None, "REPORT_MIXED"
 
 
-def _statement_class(source: Any, page: Any, table: Any) -> Tuple[Optional[str], bool, str]:
+def _statement_class(source: Any, page: Any, table: Any) -> tuple[str | None, bool, str]:
     """(statement, securities form, basis) of one table from the text printed above it."""
     start, end = _preceding_window_bounds(page, table)
     window = fold(source.raw_text[start:end]) if end > start else ""
@@ -251,7 +252,7 @@ def _statement_class(source: Any, page: Any, table: Any) -> Tuple[Optional[str],
     return statement, False, "TITLE"
 
 
-def _content_statement(reader: "_TableReader", layout: "_Layout", statement: str, securities: bool) -> Optional[str]:
+def _content_statement(reader: _TableReader, layout: _Layout, statement: str, securities: bool) -> str | None:
     """The statement named by the table's coded rows when its title disagrees, else None."""
     if layout.code_column is None:
         return None
@@ -269,7 +270,7 @@ def _content_statement(reader: "_TableReader", layout: "_Layout", statement: str
 class _TableReader:
     """Row reader over the existing M2 logical grid of one statement table."""
 
-    def __init__(self, table: Any, report_year: int, scope: Optional[str] = None) -> None:
+    def __init__(self, table: Any, report_year: int, scope: str | None = None) -> None:
         self.table = table
         self.scope = scope
         self.grid = build_logical_table_grid(table)
@@ -288,14 +289,14 @@ class _TableReader:
             None,
         )
 
-    def _row_cells(self, row: int) -> List[Optional[str]]:
+    def _row_cells(self, row: int) -> list[str | None]:
         return self.grid.slots[row]
 
-    def _full_width(self, row: int, cell_id: Optional[str]) -> bool:
+    def _full_width(self, row: int, cell_id: str | None) -> bool:
         return cell_id is not None and all(slot == cell_id for slot in self.grid.slots[row])
 
     def header_text(self, column: int) -> str:
-        parts: List[str] = []
+        parts: list[str] = []
         for row in range(self.header_end or 0):
             cell_id = self.grid.slots[row][column]
             if cell_id is None or self._full_width(row, cell_id):
@@ -317,7 +318,7 @@ class _TableReader:
         compact = fold(self.header_text(column)).replace(" ", "")
         return "thuyetminh" in compact and "maso" not in compact or compact == "tm"
 
-    def shifted_note(self, row: int, layout: "_Layout") -> bool:
+    def shifted_note(self, row: int, layout: _Layout) -> bool:
         """The current cell holds this row's note number, shifted over a lost figure."""
         if not any(self._is_note_column(column) for column in layout.label_columns):
             return False
@@ -335,13 +336,13 @@ class _TableReader:
         words = sum(len(re.findall(r"[^\W\d_]{2,}", value)) >= 2 for value in values)
         return bool(values) and words > 0.5 * len(values)
 
-    def _code_column(self) -> Tuple[Optional[int], bool]:
+    def _code_column(self) -> tuple[int | None, bool]:
         """(code column, named by a "Mã số" header); content-detected codes may be note numbers."""
         for column in range(self.width):
             compact = fold(self.header_text(column)).replace(" ", "")
             if "maso" in compact or compact in {"ma", "ms"}:
                 return column, True
-        best: Optional[int] = None
+        best: int | None = None
         best_share = 0.5
         for column in range(self.width):
             if self._is_note_column(column):
@@ -358,7 +359,7 @@ class _TableReader:
                 best, best_share = column, share
         return best, False
 
-    def layout(self, inherited: Optional[_Layout]) -> Tuple[Optional[_Layout], str]:
+    def layout(self, inherited: _Layout | None) -> tuple[_Layout | None, str]:
         if self.header_end is None:
             return None, "NO_DATA_ROWS"
         periods = {column: _column_period(self.header_text(column), self.report_year)
@@ -408,7 +409,7 @@ class _TableReader:
             return None, "NO_LABEL_COLUMN"
         return _Layout(self.width, code_column, code_named, current_column, label_columns), basis
 
-    def rows(self, layout: _Layout) -> Iterable[Tuple[int, str, Optional[str], str, str]]:
+    def rows(self, layout: _Layout) -> Iterable[tuple[int, str, str | None, str, str]]:
         """(grid_row, label, code, current_cell_id, current_text) for data rows."""
         for row in range(self.header_end or 0, self.grid.row_count):
             slots = self._row_cells(row)
@@ -423,7 +424,7 @@ class _TableReader:
                 if column != layout.current_column
             ):
                 continue  # merged across value columns: not one period's figure
-            parts: List[str] = []
+            parts: list[str] = []
             for column in layout.label_columns:
                 cell_id = slots[column]
                 text = self.texts.get(cell_id or "", "")
@@ -444,21 +445,21 @@ class _TableReader:
 
 def extract_report_facts(
     source: Any, report: Mapping[str, Any]
-) -> Tuple[List[Dict[str, Any]], List[Dict[str, Any]], Counter]:
+) -> tuple[list[dict[str, Any]], list[dict[str, Any]], Counter]:
     """Facts, provenance rows and skip counters for one report."""
     stats: Counter = Counter()
     document = parse_document(source)
     hints, _links = _extract_report_provenance(source)
-    hints_by_table: Dict[str, List[Any]] = defaultdict(list)
+    hints_by_table: dict[str, list[Any]] = defaultdict(list)
     for hint in hints:
         if hint.table_id is not None:
             hints_by_table[hint.table_id].append(hint)
     report_scale = _report_consensus(hints)
 
-    facts: List[Dict[str, Any]] = []
-    provenance: List[Dict[str, Any]] = []
-    last_layout: Dict[str, _Layout] = {}
-    last_scale: Dict[str, Scale] = {}
+    facts: list[dict[str, Any]] = []
+    provenance: list[dict[str, Any]] = []
+    last_layout: dict[str, _Layout] = {}
+    last_scale: dict[str, Scale] = {}
     year = int(report["report_year"])
     for page in document.pages:
         for table in page.tables:
@@ -562,7 +563,7 @@ def extract_report_facts(
 _PAGE_CARRY = re.compile(r"\((?:mang|chuyen) sang (?:tu )?trang (?:sau|truoc)\)")
 
 
-def _resolve_metric_duplicates(facts: List[Dict[str, Any]], stats: Counter) -> None:
+def _resolve_metric_duplicates(facts: list[dict[str, Any]], stats: Counter) -> None:
     """One value per (statement, metric) per report; agreeing repeats keep one.
 
     Conflicts drop every row, except that agreeing coded rows win over differing
@@ -573,7 +574,7 @@ def _resolve_metric_duplicates(facts: List[Dict[str, Any]], stats: Counter) -> N
     displaces the coded statement line as the fact's provenance. Within that order a
     page carry-over copy ("... (mang sang trang sau)") yields to the line itself.
     """
-    groups: Dict[Tuple[str, str], List[Dict[str, Any]]] = defaultdict(list)
+    groups: dict[tuple[str, str], list[dict[str, Any]]] = defaultdict(list)
     for fact in facts:
         if fact["metric"] is not None:
             groups[(fact["statement"], fact["metric"])].append(fact)
@@ -593,7 +594,7 @@ def _resolve_metric_duplicates(facts: List[Dict[str, Any]], stats: Counter) -> N
                 fact["metric"] = None
             stats[f"metric_conflict.{metric}"] += 1
             continue
-        def carried(fact: Dict[str, Any]) -> bool:
+        def carried(fact: dict[str, Any]) -> bool:
             return bool(_PAGE_CARRY.search(fold(fact.get("line_item") or "")))
 
         kept = next((fact for fact in group if fact["line_code"] and not carried(fact)),
@@ -618,7 +619,7 @@ _IDENTITIES = (
 )
 
 
-def _guard_identities(facts: List[Dict[str, Any]], stats: Counter) -> None:
+def _guard_identities(facts: list[dict[str, Any]], stats: Counter) -> None:
     """Clear metrics of failed identities that no passing identity confirms."""
     kept = {fact["metric"]: fact for fact in facts if fact["metric"] is not None}
     anchored, suspect = set(), {}
@@ -636,7 +637,7 @@ def _guard_identities(facts: List[Dict[str, Any]], stats: Counter) -> None:
             stats[f"identity_failed.{name}"] += 1
             for metric in members:
                 suspect.setdefault(metric, name)
-    for metric, name in suspect.items():
+    for metric in suspect:
         if metric not in anchored:
             kept[metric]["metric"] = None
             stats[f"identity_cleared.{metric}"] += 1
@@ -649,7 +650,7 @@ _EXPENSE_METRICS = ("COGS", "SELLING_EXPENSES", "GA_EXPENSES", "FINANCIAL_EXPENS
 _CONVENTION_PROBES = ("COGS", "SELLING_EXPENSES", "GA_EXPENSES", "FINANCIAL_EXPENSES")
 
 
-def _normalize_expense_signs(facts: List[Dict[str, Any]], stats: Counter) -> str:
+def _normalize_expense_signs(facts: list[dict[str, Any]], stats: Counter) -> str:
     """Make expense metrics positive costs when the report prints deductions in parentheses.
 
     The convention is read from the expense lines themselves (a cost of goods sold
@@ -673,7 +674,7 @@ def _normalize_expense_signs(facts: List[Dict[str, Any]], stats: Counter) -> str
     return "EXPENSES_PARENTHESIZED"
 
 
-def _process(args: Tuple[str, str, Dict[str, Any]]) -> Tuple[str, List[Dict], List[Dict], Counter, Optional[str]]:
+def _process(args: tuple[str, str, dict[str, Any]]) -> tuple[str, list[dict], list[dict], Counter, str | None]:
     raw_root, corpus_id, report = args
     try:
         source = _source_from_inventory(Path(raw_root), corpus_id, report)
@@ -683,9 +684,9 @@ def _process(args: Tuple[str, str, Dict[str, Any]]) -> Tuple[str, List[Dict], Li
         return report["report_id"], [], [], Counter(), f"{type(error).__name__}: {error}"
 
 
-def _quality_checks(facts: Sequence[Mapping[str, Any]]) -> Dict[str, Any]:
+def _quality_checks(facts: Sequence[Mapping[str, Any]]) -> dict[str, Any]:
     """Accounting identities that independently test extraction quality."""
-    by_key: Dict[Tuple[str, int, str], Dict[str, Decimal]] = defaultdict(dict)
+    by_key: dict[tuple[str, int, str], dict[str, Decimal]] = defaultdict(dict)
     for fact in facts:
         if fact["metric"] is not None:
             key = (fact["ticker"], fact["fiscal_year"], fact["statement_scope"])
@@ -719,10 +720,10 @@ def _quality_checks(facts: Sequence[Mapping[str, Any]]) -> Dict[str, Any]:
     }
 
 
-def _companies(facts: Sequence[Mapping[str, Any]], reports: Sequence[Mapping[str, Any]]) -> List[Dict[str, Any]]:
-    names: Dict[str, Counter] = defaultdict(Counter)
-    years: Dict[str, List[int]] = defaultdict(list)
-    scopes: Dict[str, set] = defaultdict(set)
+def _companies(facts: Sequence[Mapping[str, Any]], reports: Sequence[Mapping[str, Any]]) -> list[dict[str, Any]]:
+    names: dict[str, Counter] = defaultdict(Counter)
+    years: dict[str, list[int]] = defaultdict(list)
+    scopes: dict[str, set] = defaultdict(set)
     for report in reports:
         names[report["ticker"]][report["company_name"]] += 1
         years[report["ticker"]].append(int(report["report_year"]))
@@ -755,9 +756,9 @@ def build_catalog(
     output_root: str | Path,
     *,
     workers: int = 8,
-    limit: Optional[int] = None,
-    tickers: Optional[Sequence[str]] = None,
-) -> Dict[str, Any]:
+    limit: int | None = None,
+    tickers: Sequence[str] | None = None,
+) -> dict[str, Any]:
     """Write CSV datasets, provenance JSONL and a manifest into a new directory."""
     output = Path(output_root)
     if output.exists():
@@ -781,10 +782,10 @@ def build_catalog(
         raise CatalogBuildError("CATALOG_DUPLICATE_REPORT", "one report per ticker/year/scope is required")
 
     tasks = [(str(raw_root), corpus["corpus_id"], report) for report in reports]
-    all_facts: List[Dict[str, Any]] = []
-    all_provenance: List[Dict[str, Any]] = []
+    all_facts: list[dict[str, Any]] = []
+    all_provenance: list[dict[str, Any]] = []
     stats: Counter = Counter()
-    failures: Dict[str, str] = {}
+    failures: dict[str, str] = {}
     with Pool(processes=max(1, workers)) as pool:
         for report_id, facts, provenance, report_stats, error in pool.imap(_process, tasks, chunksize=4):
             if error is not None:
@@ -796,7 +797,7 @@ def build_catalog(
             stats["reports.with_facts"] += bool(facts)
 
     output.mkdir(parents=True)
-    files: Dict[str, Dict[str, Any]] = {}
+    files: dict[str, dict[str, Any]] = {}
     for statement in STATEMENTS:
         dataset = DATASET_BY_STATEMENT[statement]
         rows = [fact for fact in all_facts if fact["statement"] == statement]
@@ -840,7 +841,7 @@ def build_catalog(
     return manifest
 
 
-def main(argv: Optional[Sequence[str]] = None) -> int:  # pragma: no cover - CLI
+def main(argv: Sequence[str] | None = None) -> int:  # pragma: no cover - CLI
     parser = argparse.ArgumentParser(description=__doc__.splitlines()[0])
     parser.add_argument("--corpus-manifest", required=True)
     parser.add_argument("--raw-root", required=True)

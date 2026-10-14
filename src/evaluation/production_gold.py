@@ -30,13 +30,14 @@ from __future__ import annotations
 
 import argparse
 from collections import Counter, defaultdict
+from collections.abc import Iterable, Sequence
 from dataclasses import dataclass
 from hashlib import sha256
 import json
 from pathlib import Path
 import random
 import re
-from typing import Any, Dict, Iterable, List, Optional, Sequence, Set, Tuple
+from typing import Any
 
 from src.evaluation.broad_gold import (
     BALANCE,
@@ -72,7 +73,7 @@ from src.indexing.provenance_sidecar import _source_from_inventory
 
 PRODUCTION_GOLD_VERSION = "m10-production-gold-v1"
 SPLITS = ("dev", "holdout", "holdout2", "holdout3")
-Key = Tuple[str, str, int]  # ticker, scope, report year
+Key = tuple[str, str, int]  # ticker, scope, report year
 
 # ---- bank statements --------------------------------------------------------
 
@@ -80,7 +81,7 @@ _ORDINAL = re.compile(r"^(?:(?:[ivxl]+|\d+|[a-h])\s+)+")
 # A statement line continued on the next page keeps its label plus this note.
 _PAGE_CARRY = re.compile(r"\s+(?:mang|chuyen) sang (?:tu )?trang (?:sau|truoc)$")
 _BANK_SIGNATURE = "thu nhap lai thuan"
-BANK_LABELS: Dict[str, Tuple[str, re.Pattern]] = {
+BANK_LABELS: dict[str, tuple[str, re.Pattern]] = {
     "NET_INTEREST_INCOME": (INCOME, re.compile(r"thu nhap lai thuan")),
     "PROFIT_BEFORE_TAX": (INCOME, re.compile(r"(?:tong )?loi nhuan truoc thue")),
     "LNST": (INCOME, re.compile(r"(?:tong )?loi nhuan sau thue(?: thu nhap doanh nghiep)?")),
@@ -94,7 +95,7 @@ def label_key(text: str) -> str:
     return _ORDINAL.sub("", fold(text)).strip()
 
 
-def carry_alternatives(raw_text: str, report_year: int, row: StatementRow) -> List[StatementRow]:
+def carry_alternatives(raw_text: str, report_year: int, row: StatementRow) -> list[StatementRow]:
     """Page carry-over copies ("... (mang sang trang sau)") of a verified bank row.
 
     They print the same line and value on the statement page before a page
@@ -130,7 +131,7 @@ def carry_alternatives(raw_text: str, report_year: int, row: StatementRow) -> Li
     return found
 
 
-def find_bank_rows(raw_text: str, report_year: int) -> Tuple[Dict[str, List[StatementRow]], Counter]:
+def find_bank_rows(raw_text: str, report_year: int) -> tuple[dict[str, list[StatementRow]], Counter]:
     """Whole-label bank rows per metric, minus conflicts; empty for non-bank reports."""
     reasons: Counter = Counter()
     tables = []
@@ -140,7 +141,7 @@ def find_bank_rows(raw_text: str, report_year: int) -> Tuple[Dict[str, List[Stat
         tables.append((match, parser.rows, [[_clean(cell) for cell in row] for row in parser.rows]))
     if not any(label_key(cell) == _BANK_SIGNATURE for _, _, rows in tables for row in rows for cell in row):
         return {}, reasons
-    found: Dict[str, List[StatementRow]] = defaultdict(list)
+    found: dict[str, list[StatementRow]] = defaultdict(list)
     for match, raw_rows, rows in tables:
         first_data = next((i for i, row in enumerate(rows) if sum(bool(_VALUE.fullmatch(c)) for c in row) >= 2), None)
         if first_data is None:
@@ -187,10 +188,10 @@ def find_bank_rows(raw_text: str, report_year: int) -> Tuple[Dict[str, List[Stat
     return kept, reasons
 
 
-def extract_values(manifest: Dict[str, Any], raw_root: Path) -> Tuple[Dict[Key, Dict[str, Any]], Counter]:
-    values: Dict[Key, Dict[str, Any]] = {}
+def extract_values(manifest: dict[str, Any], raw_root: Path) -> tuple[dict[Key, dict[str, Any]], Counter]:
+    values: dict[Key, dict[str, Any]] = {}
     skips: Counter = Counter()
-    duplicates: Set[Key] = set()
+    duplicates: set[Key] = set()
     for report in manifest["reports"]:
         if report.get("statement_scope") not in _SCOPE_WORD or not report.get("ticker") or not report.get("report_year"):
             skips["UNIDENTIFIED_OR_UNSUPPORTED_SCOPE"] += 1
@@ -419,10 +420,10 @@ def question(split: str, operation: str, choice: int, target: str, company: str,
     return group[(choice // len(options)) % len(group)].format(**fields)
 
 
-def earlier_gold_reports(audits: Iterable[Path], manifest: Dict[str, Any]) -> Set[Key]:
+def earlier_gold_reports(audits: Iterable[Path], manifest: dict[str, Any]) -> set[Key]:
     """Every report cited by an earlier gold case, as (ticker, scope, year)."""
     by_id = {report["report_id"]: report for report in manifest["reports"]}
-    used: Set[Key] = set()
+    used: set[Key] = set()
     for path in audits:
         for case in json.loads(Path(path).read_text(encoding="utf-8"))["cases"]:
             for source in case["sources"]:
@@ -432,11 +433,11 @@ def earlier_gold_reports(audits: Iterable[Path], manifest: Dict[str, Any]) -> Se
     return used
 
 
-def plan_split(verified: Dict[Tuple[str, Key], List[StatementRow]], templates: Dict[Key, str], counts: Counts,
-               rng: random.Random, excluded: Set[Key]) -> List[Tuple[str, str, List[Tuple[str, Key]]]]:
+def plan_split(verified: dict[tuple[str, Key], list[StatementRow]], templates: dict[Key, str], counts: Counts,
+               rng: random.Random, excluded: set[Key]) -> list[tuple[str, str, list[tuple[str, Key]]]]:
     """(operation, target, inputs) per case; no input report is in ``excluded``."""
-    plan: List[Tuple[str, str, List[Tuple[str, Key]]]] = []
-    by_metric: Dict[Tuple[str, str], List[Key]] = defaultdict(list)
+    plan: list[tuple[str, str, list[tuple[str, Key]]]] = []
+    by_metric: dict[tuple[str, str], list[Key]] = defaultdict(list)
     for metric_id, key in sorted(verified):
         if key not in excluded:
             by_metric[(templates[key], metric_id)].append(key)
@@ -471,12 +472,12 @@ def plan_split(verified: Dict[Tuple[str, Key], List[StatementRow]], templates: D
     return plan
 
 
-def negative_cases(split: str, manifest: Dict[str, Any], templates: Dict[Key, str], rng: random.Random,
-                   excluded: Set[Key]) -> List[Dict[str, Any]]:
+def negative_cases(split: str, manifest: dict[str, Any], templates: dict[Key, str], rng: random.Random,
+                   excluded: set[Key]) -> list[dict[str, Any]]:
     """Must-refuse controls: two of each kind per split."""
     names = {report["ticker"]: report["company_name"] for report in manifest["reports"] if report.get("ticker")}
-    years: Dict[str, Set[int]] = defaultdict(set)
-    scopes: Dict[Tuple[str, int], Set[str]] = defaultdict(set)
+    years: dict[str, set[int]] = defaultdict(set)
+    scopes: dict[tuple[str, int], set[str]] = defaultdict(set)
     for report in manifest["reports"]:
         if report.get("ticker") and report.get("report_year"):
             years[report["ticker"]].add(int(report["report_year"]))
@@ -488,7 +489,7 @@ def negative_cases(split: str, manifest: Dict[str, Any], templates: Dict[Key, st
     one_scope = [(ticker, year) for (ticker, year), present in sorted(scopes.items())
                  if len(present & set(_SCOPE_WORD)) == 1 and min(years[ticker]) < year < max(years[ticker])]
     rng.shuffle(one_scope)
-    rows: List[Dict[str, Any]] = []
+    rows: list[dict[str, Any]] = []
 
     def add(kind: str, text: str) -> None:
         rows.append({"question_id": f"prod-{split}-neg-{len(rows):03d}-{kind.lower()}", "question": text,
@@ -586,8 +587,8 @@ def _case(split: str, index: int, operation: str, target: str, inputs, values, v
     return case, audit
 
 
-def build(corpus: Path, raw_root: Path, output: Path, *, seeds: Dict[str, int], counts: Counts,
-          earlier_audits: Sequence[Path], write_splits: Optional[Sequence[str]] = None) -> Dict[str, Any]:
+def build(corpus: Path, raw_root: Path, output: Path, *, seeds: dict[str, int], counts: Counts,
+          earlier_audits: Sequence[Path], write_splits: Sequence[str] | None = None) -> dict[str, Any]:
     """Build the splits in order; every split excludes the reports of the ones before it.
 
     ``write_splits`` limits which splits are written, so a later split can be added
@@ -599,7 +600,7 @@ def build(corpus: Path, raw_root: Path, output: Path, *, seeds: Dict[str, int], 
     verified, cross_skips = cross_checked(values)
     templates = {key: value["template"] for key, value in values.items()}
     excluded = earlier_gold_reports(earlier_audits, manifest)
-    summary: Dict[str, Any] = {
+    summary: dict[str, Any] = {
         "version": PRODUCTION_GOLD_VERSION, "corpus_artifact_id": manifest["artifact_id"], "seeds": seeds,
         "earlier_gold_reports_excluded": len(excluded), "extracted_reports": len(values),
         "bank_reports": sum(template == "BANK" for template in templates.values()),
@@ -667,7 +668,7 @@ def build(corpus: Path, raw_root: Path, output: Path, *, seeds: Dict[str, int], 
     return summary
 
 
-def main(argv: Optional[Sequence[str]] = None) -> int:
+def main(argv: Sequence[str] | None = None) -> int:
     parser = argparse.ArgumentParser(description=__doc__.splitlines()[0])
     parser.add_argument("--corpus-artifact", required=True)
     parser.add_argument("--raw-corpus", required=True)

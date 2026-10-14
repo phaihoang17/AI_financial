@@ -1,11 +1,12 @@
-"""Batch 3 deterministic orchestration before Evidence Builder exists."""
+"""Hybrid retrieval: BM25 + dense search, RRF fusion, reranking and scale-hint enrichment."""
 
 from __future__ import annotations
 
+from collections.abc import Callable, Iterable, Sequence
 from dataclasses import replace
 from hashlib import sha256
 import json
-from typing import Callable, Dict, Iterable, List, Mapping, Optional, Protocol, Sequence
+from typing import Protocol
 
 from src.indexing.embedding_artifact_builder import (
     EmbeddingArtifactBuilderError,
@@ -15,24 +16,23 @@ from src.indexing.embedding_artifact_builder import (
 from src.indexing.embedding_schemas import EmbeddingChunk
 from src.indexing.provenance_sidecar import ProvenanceSidecar, ProvenanceSidecarError
 from src.indexing.schemas import ScaleHintSource, ScaleUnitHint
-from src.retrieval.rrf import fuse_rrf
 from src.retrieval.reranker import BGEReranker, rerank_candidates
+from src.retrieval.rrf import fuse_rrf
 from src.retrieval.schemas import (
     HintAssociation,
     MultiTableRetrievalResult,
     NarrativeRetrievalResult,
-    RetrievedScaleUnitHint,
     RetrievalCandidate,
     RetrievalContractError,
     RetrievalQuery,
     RetrievalSubquery,
+    RetrievedScaleUnitHint,
     SubqueryRetrievalResult,
     make_candidate_id,
 )
 from src.supervisor.schemas import EvidenceSource
 from src.understanding.metric_normalizer import initial_metric_registry
 from src.understanding.schemas import StatementScope
-
 
 #: BM25 / vector / RRF run at ``top_k * CANDIDATE_DEPTH_MULTIPLIER`` so the
 #: reranker picks the final ``top_k`` from a wider fused pool. Measured on the
@@ -43,14 +43,14 @@ from src.understanding.schemas import StatementScope
 CANDIDATE_DEPTH_MULTIPLIER = 5
 
 
-class Batch3RetrievalError(RetrievalContractError):
-    """A typed Batch 3 orchestration, decomposition, or enrichment failure."""
+class HybridRetrievalError(RetrievalContractError):
+    """A typed hybrid-retrieval orchestration, decomposition, or enrichment failure."""
 
 
 class _BM25Backend(Protocol):
     def search(
         self, query: RetrievalQuery, *, top_k: int, eligible_source_types: Sequence[EvidenceSource]
-    ) -> List[RetrievalCandidate]: ...
+    ) -> list[RetrievalCandidate]: ...
 
 
 class _VectorBackend(Protocol):
@@ -61,7 +61,7 @@ class _VectorBackend(Protocol):
         *,
         top_k: int,
         eligible_source_types: Sequence[EvidenceSource],
-    ) -> List[RetrievalCandidate]: ...
+    ) -> list[RetrievalCandidate]: ...
 
 
 QueryEmbedder = Callable[[RetrievalQuery], Sequence[object]]
@@ -71,8 +71,8 @@ def _canonical_json(value: object) -> bytes:
     return json.dumps(value, ensure_ascii=False, sort_keys=True, separators=(",", ":")).encode("utf-8")
 
 
-def _deduplicate_exact(values: Iterable[str]) -> List[str]:
-    result: List[str] = []
+def _deduplicate_exact(values: Iterable[str]) -> list[str]:
+    result: list[str] = []
     seen = set()
     for value in values:
         if value not in seen:
@@ -82,7 +82,7 @@ def _deduplicate_exact(values: Iterable[str]) -> List[str]:
 
 
 def _subquery_id(
-    *, parent_query_id: str, metric: Optional[str], period: Optional[str], scope: StatementScope
+    *, parent_query_id: str, metric: str | None, period: str | None, scope: StatementScope
 ) -> str:
     return sha256(
         _canonical_json(
@@ -97,13 +97,13 @@ def _subquery_id(
     ).hexdigest()
 
 
-def make_multi_table_subqueries(query: RetrievalQuery) -> List[RetrievalSubquery]:
+def make_multi_table_subqueries(query: RetrievalQuery) -> list[RetrievalSubquery]:
     """Expand supplied metrics and periods without inferring any missing value."""
 
     if not isinstance(query, RetrievalQuery):
         raise TypeError("query must be a RetrievalQuery")
     if query.statement_scope is None:
-        raise Batch3RetrievalError(
+        raise HybridRetrievalError(
             "MULTI_TABLE_SCOPE_REQUIRED", "TABLE subqueries require an explicit statement scope"
         )
     from src.retrieval.query_embedding import make_retrieval_query_id
@@ -117,11 +117,11 @@ def make_multi_table_subqueries(query: RetrievalQuery) -> List[RetrievalSubquery
     elif periods:
         pairs = [(None, period) for period in periods]
     else:
-        raise Batch3RetrievalError(
+        raise HybridRetrievalError(
             "MULTI_TABLE_DECOMPOSITION_EMPTY", "target_metrics or periods must be supplied"
         )
     parent_query_id = make_retrieval_query_id(query)
-    result: List[RetrievalSubquery] = []
+    result: list[RetrievalSubquery] = []
     for metric, period in pairs:
         # Registry names of the metric carry the statement wording ("lợi nhuận
         # sau thuế TNDN") that a canonical code such as "LNST" never matches.
@@ -159,7 +159,7 @@ def make_multi_table_subqueries(query: RetrievalQuery) -> List[RetrievalSubquery
             )
         )
     if len({subquery.subquery_id for subquery in result}) != len(result):
-        raise Batch3RetrievalError(
+        raise HybridRetrievalError(
             "MULTI_TABLE_DUPLICATE_SUBQUERY", "duplicate input dimensions are unsupported"
         )
     return result
@@ -169,7 +169,7 @@ def query_for_subquery(parent: RetrievalQuery, subquery: RetrievalSubquery) -> R
     """Create the canonical TABLE-only request used by one subquery execution."""
 
     if subquery.statement_scope is not parent.statement_scope:
-        raise Batch3RetrievalError("SUBQUERY_PARENT_MISMATCH", "statement scope differs")
+        raise HybridRetrievalError("SUBQUERY_PARENT_MISMATCH", "statement scope differs")
     return replace(
         parent,
         periods=[] if subquery.period is None else [subquery.period],
@@ -183,11 +183,11 @@ def query_for_subquery(parent: RetrievalQuery, subquery: RetrievalSubquery) -> R
 class CorpusChunkLookup:
     """Resolve only returned TABLE chunks from immutable M2 corpus records."""
 
-    def __init__(self, corpus_artifact_root: str, *, vector_metadata_path: Optional[str] = None) -> None:
+    def __init__(self, corpus_artifact_root: str, *, vector_metadata_path: str | None = None) -> None:
         try:
             self._corpus = _validate_input_manifest(corpus_artifact_root, verify_hashes=True)
         except EmbeddingArtifactBuilderError as error:
-            raise Batch3RetrievalError("SCALE_HINT_CORPUS_INVALID", str(error)) from error
+            raise HybridRetrievalError("SCALE_HINT_CORPUS_INVALID", str(error)) from error
         from src.retrieval.corpus_candidates import CorpusRecordLocator
 
         # With the M2B vector metadata, records are read by position, not by a corpus pass.
@@ -198,13 +198,13 @@ class CorpusChunkLookup:
 
     def for_candidates(
         self, candidates: Sequence[RetrievalCandidate]
-    ) -> Dict[str, EmbeddingChunk]:
+    ) -> dict[str, EmbeddingChunk]:
         wanted = {
             candidate.candidate_id
             for candidate in candidates
             if candidate.source_type is EvidenceSource.TABLE
         }
-        found: Dict[str, EmbeddingChunk] = {}
+        found: dict[str, EmbeddingChunk] = {}
         if not wanted:
             return found
         if self._locator is not None:
@@ -216,7 +216,7 @@ class CorpusChunkLookup:
                 )] = record.chunk
             missing = wanted - set(found)
             if missing:
-                raise Batch3RetrievalError("SCALE_HINT_CHUNK_MISSING", ",".join(sorted(missing)))
+                raise HybridRetrievalError("SCALE_HINT_CHUNK_MISSING", ",".join(sorted(missing)))
             return found
         try:
             for record in _iter_input_records(self._corpus):
@@ -228,10 +228,10 @@ class CorpusChunkLookup:
                 if candidate_id in wanted:
                     found[candidate_id] = record.chunk
         except EmbeddingArtifactBuilderError as error:
-            raise Batch3RetrievalError("SCALE_HINT_CORPUS_INVALID", str(error)) from error
+            raise HybridRetrievalError("SCALE_HINT_CORPUS_INVALID", str(error)) from error
         missing = wanted - set(found)
         if missing:
-            raise Batch3RetrievalError(
+            raise HybridRetrievalError(
                 "SCALE_HINT_CHUNK_MISSING", ",".join(sorted(missing))
             )
         return found
@@ -270,7 +270,7 @@ class ScaleUnitHintRetriever:
         )
 
     @staticmethod
-    def _order(values: Sequence[RetrievedScaleUnitHint]) -> List[RetrievedScaleUnitHint]:
+    def _order(values: Sequence[RetrievedScaleUnitHint]) -> list[RetrievedScaleUnitHint]:
         return sorted(
             values,
             key=lambda value: (
@@ -283,16 +283,16 @@ class ScaleUnitHintRetriever:
 
     def retrieve(
         self, candidates: Sequence[RetrievalCandidate]
-    ) -> Dict[str, List[RetrievedScaleUnitHint]]:
+    ) -> dict[str, list[RetrievedScaleUnitHint]]:
         if not isinstance(candidates, (list, tuple)) or not all(
             isinstance(candidate, RetrievalCandidate) for candidate in candidates
         ):
-            raise Batch3RetrievalError("SCALE_HINT_INPUT_INVALID", "candidates are invalid")
+            raise HybridRetrievalError("SCALE_HINT_INPUT_INVALID", "candidates are invalid")
         chunks = self._chunk_lookup.for_candidates(candidates)
-        result: Dict[str, List[RetrievedScaleUnitHint]] = {}
+        result: dict[str, list[RetrievedScaleUnitHint]] = {}
         try:
             for candidate in candidates:
-                values: List[RetrievedScaleUnitHint] = []
+                values: list[RetrievedScaleUnitHint] = []
                 if candidate.source_type is EvidenceSource.TABLE:
                     chunk = chunks[candidate.candidate_id]
                     source_refs = _deduplicate_exact(
@@ -330,12 +330,12 @@ class ScaleUnitHintRetriever:
                 unique = {(value.hint_id, value.association.value): value for value in values}
                 result[candidate.candidate_id] = self._order(list(unique.values()))
         except ProvenanceSidecarError as error:
-            raise Batch3RetrievalError(error.code, str(error)) from error
+            raise HybridRetrievalError(error.code, str(error)) from error
         return result
 
 
-class Batch3Retriever:
-    """Composable Batch 3 pipeline; it returns candidates, never EvidenceItem."""
+class HybridRetriever:
+    """Composable hybrid retrieval pipeline; it returns candidates, never EvidenceItem."""
 
     def __init__(
         self,
@@ -343,13 +343,13 @@ class Batch3Retriever:
         vector: _VectorBackend,
         query_embedder: QueryEmbedder,
         *,
-        reranker: Optional[BGEReranker] = None,
-        sidecar: Optional[ProvenanceSidecar] = None,
-        chunk_lookup: Optional[CorpusChunkLookup] = None,
+        reranker: BGEReranker | None = None,
+        sidecar: ProvenanceSidecar | None = None,
+        chunk_lookup: CorpusChunkLookup | None = None,
         reranker_batch_size: int = 8,
     ) -> None:
         if isinstance(reranker_batch_size, bool) or not isinstance(reranker_batch_size, int) or reranker_batch_size < 1:
-            raise Batch3RetrievalError("RERANKER_BATCH_SIZE_INVALID", "batch size must be positive")
+            raise HybridRetrievalError("RERANKER_BATCH_SIZE_INVALID", "batch size must be positive")
         self._bm25 = bm25
         self._vector = vector
         self._query_embedder = query_embedder
@@ -359,7 +359,7 @@ class Batch3Retriever:
         self._reranker_batch_size = reranker_batch_size
 
     @staticmethod
-    def _candidate_depth(top_k: int, candidate_top_k: Optional[int]) -> int:
+    def _candidate_depth(top_k: int, candidate_top_k: int | None) -> int:
         """Resolve the BM25 / vector / RRF depth for a request.
 
         The reranker is the most accurate stage, so it must choose the final
@@ -369,7 +369,7 @@ class Batch3Retriever:
         """
 
         if isinstance(top_k, bool) or not isinstance(top_k, int) or top_k < 1:
-            raise Batch3RetrievalError("INVALID_TOP_K", "top_k must be a positive integer")
+            raise HybridRetrievalError("INVALID_TOP_K", "top_k must be a positive integer")
         if candidate_top_k is None:
             return top_k * CANDIDATE_DEPTH_MULTIPLIER
         if (
@@ -377,7 +377,7 @@ class Batch3Retriever:
             or not isinstance(candidate_top_k, int)
             or candidate_top_k < top_k
         ):
-            raise Batch3RetrievalError(
+            raise HybridRetrievalError(
                 "INVALID_CANDIDATE_TOP_K", "candidate_top_k must be an integer >= top_k"
             )
         return candidate_top_k
@@ -388,8 +388,8 @@ class Batch3Retriever:
         *,
         top_k: int,
         eligible_source_types: Sequence[EvidenceSource],
-        candidate_top_k: Optional[int] = None,
-    ) -> List[RetrievalCandidate]:
+        candidate_top_k: int | None = None,
+    ) -> list[RetrievalCandidate]:
         """Run the exact Backend -> RRF -> reranker sequence for one request.
 
         Stage order, backends, and models are unchanged; only the candidate
@@ -419,8 +419,8 @@ class Batch3Retriever:
         """Execute every required TABLE subquery independently and expose partial state."""
 
         subqueries = make_multi_table_subqueries(query)
-        subquery_results: List[SubqueryRetrievalResult] = []
-        missing: List[str] = []
+        subquery_results: list[SubqueryRetrievalResult] = []
+        missing: list[str] = []
         for subquery in subqueries:
             try:
                 candidates = self.retrieve(
@@ -456,7 +456,7 @@ class Batch3Retriever:
         """Run TEXT-only retrieval and expose only persisted paragraph-table associations."""
 
         if self._sidecar is None:
-            raise Batch3RetrievalError("NARRATIVE_SIDECAR_REQUIRED", "sidecar is required")
+            raise HybridRetrievalError("NARRATIVE_SIDECAR_REQUIRED", "sidecar is required")
         candidates = self.retrieve(
             replace(
                 query,
@@ -466,11 +466,11 @@ class Batch3Retriever:
             top_k=top_k,
             eligible_source_types=[EvidenceSource.TEXT],
         )
-        links: Dict[str, List[str]] = {}
+        links: dict[str, list[str]] = {}
         try:
             for candidate in candidates:
                 if candidate.source_type is not EvidenceSource.TEXT:
-                    raise Batch3RetrievalError(
+                    raise HybridRetrievalError(
                         "NARRATIVE_SOURCE_TYPE_INVALID", candidate.candidate_id
                     )
                 links[candidate.candidate_id] = _deduplicate_exact(
@@ -478,18 +478,18 @@ class Batch3Retriever:
                     for link in self._sidecar.get_links_by_paragraph_id(candidate.paragraph_id or "")
                 )
         except ProvenanceSidecarError as error:
-            raise Batch3RetrievalError(error.code, str(error)) from error
+            raise HybridRetrievalError(error.code, str(error)) from error
         return NarrativeRetrievalResult(
             candidates=candidates, linked_table_ids_by_candidate=links
         )
 
     def retrieve_scale_unit_hints(
         self, candidates: Sequence[RetrievalCandidate]
-    ) -> Dict[str, List[RetrievedScaleUnitHint]]:
+    ) -> dict[str, list[RetrievedScaleUnitHint]]:
         """Enrich candidates from persisted sidecar hints without resolving scale/unit."""
 
         if self._sidecar is None or self._chunk_lookup is None:
-            raise Batch3RetrievalError(
+            raise HybridRetrievalError(
                 "SCALE_HINT_SIDECAR_REQUIRED", "sidecar and immutable M2 chunk lookup are required"
             )
         return ScaleUnitHintRetriever(self._sidecar, self._chunk_lookup).retrieve(candidates)

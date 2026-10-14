@@ -3,7 +3,7 @@ from hashlib import sha256
 
 from src.memory.schemas import MemoryContext, MemoryEntry, MemoryKind, MemoryRule
 from src.orchestration.schemas import FinalResponseStatus
-from src.orchestration.state import M9State
+from src.orchestration.state import OrchestrationState
 from src.programmer.schemas import canonical_json
 from src.understanding.schemas import SchemaValidationError
 
@@ -16,11 +16,11 @@ GUARD_BY_FAILURE = {
 }
 
 
-def distill_trajectory(state: M9State, *, split: str, dataset_id: str,
+def distill_trajectory(state: OrchestrationState, *, split: str, dataset_id: str,
                        held_out_ids=(), held_out_question_signatures=()):
     if split not in {"TRAIN", "DEV"}:
         raise SchemaValidationError("held-out trajectories cannot be distilled")
-    state = M9State.from_dict(state.to_dict())
+    state = OrchestrationState.from_dict(state.to_dict())
     signature = sha256(state.raw_question.encode()).hexdigest()
     if state.request_id in held_out_ids or signature in held_out_question_signatures:
         raise SchemaValidationError("trajectory overlaps declared held-out data")

@@ -2,12 +2,13 @@
 
 from __future__ import annotations
 
+from collections.abc import Sequence
 from hashlib import sha256
 import json
 from pathlib import Path
 import sqlite3
 import sys
-from typing import Any, Dict, List, Sequence, Tuple
+from typing import Any
 
 from src.indexing.embedding_artifact_builder import (
     APPROVED_EMBEDDING_FINGERPRINT,
@@ -48,7 +49,7 @@ class ContentReuseEncoder:
             self._shards.append(faiss.read_index(str(path), faiss.IO_FLAG_MMAP | faiss.IO_FLAG_READ_ONLY))
 
         corpus_manifest = json.loads(corpus_manifest_path.read_text(encoding="utf-8"))
-        self._locations: Dict[bytes, Tuple[int, int]] = {}
+        self._locations: dict[bytes, tuple[int, int]] = {}
         connection = sqlite3.connect(f"file:{metadata}?mode=ro", uri=True)
         try:
             rows = connection.execute(
@@ -73,8 +74,8 @@ class ContentReuseEncoder:
         self.reused = 0
         self.encoded = 0
 
-    def encode(self, texts: Sequence[str], *, batch_size: int, max_length: int) -> List[Any]:
-        vectors: List[Any] = []
+    def encode(self, texts: Sequence[str], *, batch_size: int, max_length: int) -> list[Any]:
+        vectors: list[Any] = []
         for text in texts:
             location = self._locations.get(sha256(text.encode("utf-8")).digest())
             if location is not None:

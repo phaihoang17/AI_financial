@@ -4,18 +4,18 @@ from dataclasses import replace
 from hashlib import sha256
 import json
 
-import pytest
 from langgraph.checkpoint.memory import MemorySaver
+import pytest
 
-from src.evidence.m5_schemas import BindingMap
+from src.evidence.masking_schemas import BindingMap
 from src.evidence.schemas import CanonicalDecimal, Scale
 from src.indexing.schemas import ScaleHintSource
+from src.orchestration.graph import STRAIGHT_THROUGH_NODE_SEQUENCE, StraightThroughOrchestrationGraph
 from src.orchestration.nodes import (
     OrchestrationDependencies,
     OrchestrationFailure,
     OrchestrationFailureCode,
 )
-from src.orchestration.graph import STRAIGHT_THROUGH_NODE_SEQUENCE, StraightThroughOrchestrationGraph
 from src.orchestration.ports import NLUStageOutput, RetrievalArtifacts
 from src.programmer.generator import generate_program
 from src.programmer.schemas import Program, ProgrammerResult, ProgrammerStatus
@@ -40,8 +40,7 @@ from src.understanding.schemas import (
     StatementScopeUnderstanding,
 )
 from src.verification.schemas import VerificationReport
-from tests.evidence.m5_helpers import grounded_cell, hint, understanding
-
+from tests.evidence.helpers import grounded_cell, hint, understanding
 
 ARTIFACT_VERSIONS = {
     "bm25": "fixture-bm25-v1",

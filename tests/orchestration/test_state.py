@@ -1,16 +1,16 @@
-import json
 from dataclasses import FrozenInstanceError, fields
+import json
 
 import pytest
 
-from src.evidence.m5_schemas import BindingMap
-from src.programmer.generator import generate_program
+from src.evidence.masking_schemas import BindingMap
 from src.orchestration.schemas import (
-    M9Phase,
     M9_STATE_SCHEMA_VERSION,
     M9_STATE_SCHEMA_VERSION_V1,
+    OrchestrationPhase,
 )
-from src.orchestration.state import AttemptEntryStage, AttemptRecord, M9State
+from src.orchestration.state import AttemptEntryStage, AttemptRecord, OrchestrationState
+from src.programmer.generator import generate_program
 from src.sandbox.schemas import (
     EXECUTION_RESULT_SCHEMA_VERSION,
     ExecutionFailure,
@@ -19,15 +19,15 @@ from src.sandbox.schemas import (
 )
 from src.understanding.schemas import SchemaValidationError
 from src.verification.schemas import RetryState, VerificationReport
-from tests.programmer.helpers import lookup_programmer_input
 from tests.orchestration.helpers import active_state, terminal_abstain_response
+from tests.programmer.helpers import lookup_programmer_input
 
 
 def test_m9_state_serialization_round_trip_is_exact():
     state = active_state()
 
     payload = state.to_dict()
-    restored = M9State.from_dict(json.loads(json.dumps(payload)))
+    restored = OrchestrationState.from_dict(json.loads(json.dumps(payload)))
 
     assert restored.to_dict() == payload
     assert payload["schema_version"] == M9_STATE_SCHEMA_VERSION
@@ -46,7 +46,7 @@ def test_v1_terminal_checkpoint_migrates_empty_attribution_identifiers():
         attribution.pop("evidence_ids")
         attribution.pop("program_ids")
 
-    restored = M9State.from_dict(payload)
+    restored = OrchestrationState.from_dict(payload)
 
     assert restored.schema_version == M9_STATE_SCHEMA_VERSION
     assert restored.failure_attribution.requirement_ids == ()
@@ -96,7 +96,7 @@ def test_embedded_programmer_plan_cannot_become_a_second_source_of_truth():
         SchemaValidationError,
         match="ProgrammerInput Plan must equal SupervisorResult.plan",
     ):
-        M9State.from_dict(payload)
+        OrchestrationState.from_dict(payload)
 
 
 def test_retry_attempt_index_must_equal_retries_used():
@@ -105,13 +105,13 @@ def test_retry_attempt_index_must_equal_retries_used():
     payload["attempts"][0]["attempt_index"] = 1
 
     with pytest.raises(SchemaValidationError, match="contiguous"):
-        M9State.from_dict(payload)
+        OrchestrationState.from_dict(payload)
 
 
 def test_terminal_state_rejects_all_later_transitions():
     active = active_state()
     terminal = active.terminate(terminal_abstain_response(active))
-    assert terminal.phase is M9Phase.TERMINAL
+    assert terminal.phase is OrchestrationPhase.TERMINAL
 
     with pytest.raises(SchemaValidationError, match="terminal state"):
         terminal.terminate(terminal_abstain_response(active))
@@ -138,13 +138,13 @@ def test_checkpoint_contains_only_opaque_binding_reference_without_values():
     assert "bindings" not in encoded.casefold()
     assert "numeric binding" not in encoded.casefold()
     assert "BindingMap" not in {item.name for item in fields(AttemptRecord)}
-    assert "binding_map" not in {item.name for item in fields(M9State)}
+    assert "binding_map" not in {item.name for item in fields(OrchestrationState)}
     assert BindingMap not in {item.type for item in fields(AttemptRecord)}
 
 
 def test_lost_process_local_handle_can_resume_before_downstream_artifacts():
     state = active_state(binding_ref=None)
-    restored = M9State.from_dict(state.to_dict())
+    restored = OrchestrationState.from_dict(state.to_dict())
 
     assert restored.attempts[-1].binding_ref is None
     assert restored.attempts[-1].programmer_result is None

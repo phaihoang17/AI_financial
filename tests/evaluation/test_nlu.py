@@ -11,7 +11,6 @@ from src.evaluation.nlu import (
 )
 from src.understanding.schemas import QueryUnderstanding, SchemaValidationError
 
-
 FIXTURE_PATH = Path(__file__).parent / "fixtures" / "nlu_v1.json"
 
 

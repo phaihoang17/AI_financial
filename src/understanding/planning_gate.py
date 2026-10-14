@@ -4,7 +4,7 @@ from __future__ import annotations
 
 from dataclasses import dataclass
 from enum import Enum
-from typing import Any, Dict, List
+from typing import Any
 
 from src.understanding.company_resolver import (
     CompanyResolution,
@@ -39,7 +39,7 @@ _FINDING_ORDER = {
 }
 
 
-def _validate_findings(value: Any, path: str) -> List[FindingName]:
+def _validate_findings(value: Any, path: str) -> list[FindingName]:
     if not isinstance(value, list):
         raise SchemaValidationError(f"{path} must be a list")
     findings = [
@@ -58,8 +58,8 @@ def _validate_findings(value: Any, path: str) -> List[FindingName]:
 @dataclass
 class PlanningGate:
     allowed: bool
-    missing_information: List[FindingName]
-    ambiguities: List[FindingName]
+    missing_information: list[FindingName]
+    ambiguities: list[FindingName]
 
     def __post_init__(self) -> None:
         self.allowed = _require_bool(self.allowed, "allowed")
@@ -106,7 +106,7 @@ class PlanningGate:
             ],
         )
 
-    def to_dict(self) -> Dict[str, Any]:
+    def to_dict(self) -> dict[str, Any]:
         return {
             "allowed": self.allowed,
             "missing_information": [
@@ -116,7 +116,7 @@ class PlanningGate:
         }
 
 
-def _append_once(findings: List[FindingName], finding: FindingName) -> None:
+def _append_once(findings: list[FindingName], finding: FindingName) -> None:
     if finding not in findings:
         findings.append(finding)
 
@@ -124,7 +124,7 @@ def _append_once(findings: List[FindingName], finding: FindingName) -> None:
 def evaluate_planning_gate(
     company_resolution: CompanyResolution,
     period_result: TemporalParseResult,
-    metric_resolutions: List[MetricResolution],
+    metric_resolutions: list[MetricResolution],
     operation: Operation,
 ) -> PlanningGate:
     """Evaluate hard-required v1 identity findings without mutating inputs."""
@@ -143,8 +143,8 @@ def evaluate_planning_gate(
         )
     operation = _require_enum(operation, Operation, "operation")
 
-    missing: List[FindingName] = []
-    ambiguities: List[FindingName] = []
+    missing: list[FindingName] = []
+    ambiguities: list[FindingName] = []
 
     if company_resolution.status is CompanyResolutionStatus.UNRESOLVED:
         _append_once(missing, FindingName.COMPANY)

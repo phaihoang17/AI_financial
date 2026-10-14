@@ -2,17 +2,18 @@
 
 from __future__ import annotations
 
+from collections.abc import Sequence
 from dataclasses import dataclass
 from hashlib import sha256
 import json
 import math
 import struct
-from typing import Any, List, Optional, Protocol, Sequence
+from typing import Any, Protocol
 
 from src.indexing.embedding_artifact_builder import APPROVED_EMBEDDING_FINGERPRINT
 from src.indexing.embedding_indexer import (
-    EmbeddingError,
     EMBEDDING_ALGORITHM_VERSION,
+    EmbeddingError,
     _l2_normalize,
     load_bge_m3_encoder,
     make_embedding_config_fingerprint,
@@ -23,7 +24,6 @@ from src.indexing.embedding_schemas import (
     EMBEDDING_HARD_MAX_TOKENS,
 )
 from src.retrieval.schemas import RetrievalContractError, RetrievalQuery
-
 
 QUERY_EMBEDDING_SCHEMA_VERSION = "m3-query-embedding-v1"
 
@@ -77,7 +77,7 @@ def _require_sha256(value: str, path: str) -> str:
     return value
 
 
-def _to_float32(values: Sequence[float]) -> List[float]:
+def _to_float32(values: Sequence[float]) -> list[float]:
     try:
         return [struct.unpack("!f", struct.pack("!f", float(value)))[0] for value in values]
     except (TypeError, ValueError, OverflowError, struct.error) as error:
@@ -90,7 +90,7 @@ class QueryEmbedding:
     query_id: str
     query_text: str
     query_text_index: int
-    vector: List[float]
+    vector: list[float]
     dimension: int
     dtype: str
     embedding_fingerprint: str
@@ -153,7 +153,7 @@ class QueryEmbedding:
         }
 
     @classmethod
-    def from_dict(cls, value: Any) -> "QueryEmbedding":
+    def from_dict(cls, value: Any) -> QueryEmbedding:
         if not isinstance(value, dict):
             raise QueryEmbeddingError("INVALID_TYPE", "QueryEmbedding must be an object")
         expected = {
@@ -165,7 +165,7 @@ class QueryEmbedding:
         return cls(**value)
 
 
-def _validate_model_fingerprint(embedding_fingerprint: Optional[str]) -> str:
+def _validate_model_fingerprint(embedding_fingerprint: str | None) -> str:
     current = make_embedding_config_fingerprint(
         algorithm_version=EMBEDDING_ALGORITHM_VERSION
     )
@@ -185,11 +185,11 @@ def _validate_model_fingerprint(embedding_fingerprint: Optional[str]) -> str:
 def embed_query_texts(
     query: RetrievalQuery,
     *,
-    encoder: Optional[QueryEncoder] = None,
+    encoder: QueryEncoder | None = None,
     batch_size: int = 8,
-    device: Optional[str] = None,
-    embedding_fingerprint: Optional[str] = None,
-) -> List[QueryEmbedding]:
+    device: str | None = None,
+    embedding_fingerprint: str | None = None,
+) -> list[QueryEmbedding]:
     """Embed every query text in source order with no retrieval side effects."""
 
     if not isinstance(query, RetrievalQuery):
@@ -228,7 +228,7 @@ def embed_query_texts(
     if not hasattr(raw_vectors, "__len__") or len(raw_vectors) != len(texts):
         raise QueryEmbeddingError("QUERY_EMBEDDING_FAILED", "encoder returned the wrong vector count")
     query_id = make_retrieval_query_id(query)
-    embeddings: List[QueryEmbedding] = []
+    embeddings: list[QueryEmbedding] = []
     for index, (text, raw_vector) in enumerate(zip(texts, raw_vectors)):
         try:
             normalized = _l2_normalize(raw_vector)

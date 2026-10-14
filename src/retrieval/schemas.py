@@ -6,12 +6,13 @@ populate only the score it owns; later stages must not overwrite it.
 
 from __future__ import annotations
 
+from collections.abc import Mapping, Sequence
 from dataclasses import dataclass, fields, replace
 from enum import Enum
 from hashlib import sha256
 import json
 import math
-from typing import Any, Dict, List, Mapping, Optional, Sequence, Set
+from typing import Any
 
 from src.evidence.schemas import Scale
 from src.indexing.schemas import (
@@ -28,7 +29,6 @@ from src.understanding.schemas import (
     _parse_enum,
     _require_enum,
 )
-
 
 RETRIEVAL_CONTRACT_SCHEMA_VERSION = "m3-retrieval-contract-v1"
 RETRIEVAL_SCORE_FIELDS = (
@@ -55,8 +55,8 @@ class RetrievalContractError(SchemaValidationError):
 
 
 def resolve_eligible_source_types(
-    query: "RetrievalQuery", eligible_source_types: Optional[Sequence[EvidenceSource]] = None
-) -> List[EvidenceSource]:
+    query: RetrievalQuery, eligible_source_types: Sequence[EvidenceSource] | None = None
+) -> list[EvidenceSource]:
     """Resolve the exact source gate without changing TASK-030 metadata rules.
 
     Omitted explicit eligibility uses the already-approved source request on the
@@ -68,7 +68,7 @@ def resolve_eligible_source_types(
     values = query.eligible_source_types if eligible_source_types is None else eligible_source_types
     if not isinstance(values, (list, tuple)):
         raise RetrievalContractError("INVALID_SOURCE_ELIGIBILITY", "eligible_source_types must be a list")
-    result: List[EvidenceSource] = []
+    result: list[EvidenceSource] = []
     seen = set()
     for index, value in enumerate(values):
         source_type = _require_enum(value, EvidenceSource, f"eligible_source_types[{index}]")
@@ -88,7 +88,7 @@ def _require_mapping(value: Any, path: str) -> Mapping[str, Any]:
     return value
 
 
-def _require_exact_keys(data: Mapping[str, Any], expected: Set[str], path: str) -> None:
+def _require_exact_keys(data: Mapping[str, Any], expected: set[str], path: str) -> None:
     actual = set(data.keys())
     missing = expected - actual
     unknown = actual - expected
@@ -109,7 +109,7 @@ def _require_string(value: Any, path: str) -> str:
     return value
 
 
-def _require_optional_string(value: Any, path: str) -> Optional[str]:
+def _require_optional_string(value: Any, path: str) -> str | None:
     if value is not None and not isinstance(value, str):
         raise RetrievalContractError("INVALID_TYPE", f"{path} must be a string or null")
     return value
@@ -134,13 +134,13 @@ def _require_sha256(value: Any, path: str) -> str:
     return value
 
 
-def _require_string_list(value: Any, path: str) -> List[str]:
+def _require_string_list(value: Any, path: str) -> list[str]:
     if not isinstance(value, list):
         raise RetrievalContractError("INVALID_TYPE", f"{path} must be a list")
     return [_require_string(item, f"{path}[{index}]") for index, item in enumerate(value)]
 
 
-def _require_optional_score(value: Any, path: str) -> Optional[float]:
+def _require_optional_score(value: Any, path: str) -> float | None:
     if value is None:
         return None
     if isinstance(value, bool) or not isinstance(value, (int, float)):
@@ -151,7 +151,7 @@ def _require_optional_score(value: Any, path: str) -> Optional[float]:
     return score
 
 
-def _require_optional_rank(value: Any, path: str) -> Optional[int]:
+def _require_optional_rank(value: Any, path: str) -> int | None:
     if value is None:
         return None
     if isinstance(value, bool) or not isinstance(value, int) or value < 1:
@@ -165,10 +165,10 @@ def _require_year(value: Any, path: str) -> int:
     return value
 
 
-def _parse_header_path_groups(value: Any, path: str) -> List[List[HeaderPathEntry]]:
+def _parse_header_path_groups(value: Any, path: str) -> list[list[HeaderPathEntry]]:
     if not isinstance(value, list):
         raise RetrievalContractError("INVALID_TYPE", f"{path} must be a list")
-    groups: List[List[HeaderPathEntry]] = []
+    groups: list[list[HeaderPathEntry]] = []
     for group_index, group in enumerate(value):
         if not isinstance(group, list):
             raise RetrievalContractError("INVALID_TYPE", f"{path}[{group_index}] must be a list")
@@ -199,12 +199,12 @@ class RetrievalCompany:
         self.ticker = _require_string(self.ticker, "company.ticker")
 
     @classmethod
-    def from_dict(cls, value: Any) -> "RetrievalCompany":
+    def from_dict(cls, value: Any) -> RetrievalCompany:
         data = _require_mapping(value, "company")
         _require_exact_keys(data, {"name", "ticker"}, "company")
         return cls(name=data["name"], ticker=data["ticker"])
 
-    def to_dict(self) -> Dict[str, str]:
+    def to_dict(self) -> dict[str, str]:
         return {"name": self.name, "ticker": self.ticker}
 
 
@@ -214,16 +214,16 @@ class RetrievalQuery:
 
     raw_question: str
     company: RetrievalCompany
-    periods: List[str]
-    period_kind: Optional[PeriodKind]
-    statement_scope: Optional[StatementScope]
-    target_metrics: List[str]
-    derived_target: Optional[str]
-    evidence_sources: List[EvidenceSource]
-    requested_scale: Optional[str]
-    requested_unit: Optional[str]
-    query_texts: List[str]
-    eligible_source_types: Optional[List[EvidenceSource]] = None
+    periods: list[str]
+    period_kind: PeriodKind | None
+    statement_scope: StatementScope | None
+    target_metrics: list[str]
+    derived_target: str | None
+    evidence_sources: list[EvidenceSource]
+    requested_scale: str | None
+    requested_unit: str | None
+    query_texts: list[str]
+    eligible_source_types: list[EvidenceSource] | None = None
 
     def __post_init__(self) -> None:
         self.raw_question = _require_string(self.raw_question, "raw_question")
@@ -274,7 +274,7 @@ class RetrievalQuery:
             raise RetrievalContractError("QUERY_TEXTS_EMPTY", "query_texts must include raw_question")
 
     @classmethod
-    def from_dict(cls, value: Any) -> "RetrievalQuery":
+    def from_dict(cls, value: Any) -> RetrievalQuery:
         data = _require_mapping(value, "RetrievalQuery")
         expected_keys = {field.name for field in fields(cls)}
         if "eligible_source_types" in data:
@@ -325,7 +325,7 @@ class RetrievalQuery:
             ),
         )
 
-    def to_dict(self) -> Dict[str, Any]:
+    def to_dict(self) -> dict[str, Any]:
         return {
             "raw_question": self.raw_question,
             "company": self.company.to_dict(),
@@ -350,7 +350,7 @@ class RetrievalQuery:
 
 
 def make_candidate_id(
-    source_type: EvidenceSource, representation_id: str, chunk_id: Optional[str]
+    source_type: EvidenceSource, representation_id: str, chunk_id: str | None
 ) -> str:
     """Return the score- and rank-independent identity for one candidate."""
 
@@ -375,25 +375,25 @@ class RetrievalCandidate:
 
     candidate_id: str
     representation_id: str
-    chunk_id: Optional[str]
+    chunk_id: str | None
     source_type: EvidenceSource
     report_id: str
-    page_ids: List[str]
-    table_id: Optional[str]
-    paragraph_id: Optional[str]
+    page_ids: list[str]
+    table_id: str | None
+    paragraph_id: str | None
     ticker: str
-    company_name: Optional[str]
+    company_name: str | None
     report_year: int
-    statement_scope: Optional[StatementScope]
-    period_labels: List[str]
-    row_paths: List[List[HeaderPathEntry]]
-    column_paths: List[List[HeaderPathEntry]]
+    statement_scope: StatementScope | None
+    period_labels: list[str]
+    row_paths: list[list[HeaderPathEntry]]
+    column_paths: list[list[HeaderPathEntry]]
     content: str
-    bm25_score: Optional[float]
-    vector_score: Optional[float]
-    rrf_score: Optional[float]
-    rerank_score: Optional[float]
-    rank: Optional[int]
+    bm25_score: float | None
+    vector_score: float | None
+    rrf_score: float | None
+    rerank_score: float | None
+    rank: int | None
 
     def __post_init__(self) -> None:
         self.representation_id = _require_string(self.representation_id, "representation_id")
@@ -439,7 +439,7 @@ class RetrievalCandidate:
             )
 
     @classmethod
-    def from_dict(cls, value: Any) -> "RetrievalCandidate":
+    def from_dict(cls, value: Any) -> RetrievalCandidate:
         data = _require_mapping(value, "RetrievalCandidate")
         _require_exact_keys(data, {field.name for field in fields(cls)}, "RetrievalCandidate")
         source_type = _parse_enum(data["source_type"], EvidenceSource, "source_type")
@@ -472,7 +472,7 @@ class RetrievalCandidate:
             rank=data["rank"],
         )
 
-    def to_dict(self) -> Dict[str, Any]:
+    def to_dict(self) -> dict[str, Any]:
         return {
             "candidate_id": self.candidate_id,
             "representation_id": self.representation_id,
@@ -513,11 +513,11 @@ class RetrievalSubquery:
 
     subquery_id: str
     parent_query_id: str
-    metric: Optional[str]
-    period: Optional[str]
+    metric: str | None
+    period: str | None
     statement_scope: StatementScope
     source_type: EvidenceSource
-    query_texts: List[str]
+    query_texts: list[str]
     required: bool
 
     def __post_init__(self) -> None:
@@ -541,7 +541,7 @@ class RetrievalSubquery:
         self.required = _require_bool(self.required, "required")
 
     @classmethod
-    def from_dict(cls, value: Any) -> "RetrievalSubquery":
+    def from_dict(cls, value: Any) -> RetrievalSubquery:
         data = _require_mapping(value, "RetrievalSubquery")
         _require_exact_keys(data, {field.name for field in fields(cls)}, "RetrievalSubquery")
         return cls(
@@ -557,7 +557,7 @@ class RetrievalSubquery:
             required=data["required"],
         )
 
-    def to_dict(self) -> Dict[str, Any]:
+    def to_dict(self) -> dict[str, Any]:
         return {
             "subquery_id": self.subquery_id,
             "parent_query_id": self.parent_query_id,
@@ -575,8 +575,8 @@ class SubqueryRetrievalResult:
     """The retained outcome for one independently executed TABLE subquery."""
 
     subquery_id: str
-    candidates: List[RetrievalCandidate]
-    failure_code: Optional[str]
+    candidates: list[RetrievalCandidate]
+    failure_code: str | None
 
     def __post_init__(self) -> None:
         self.subquery_id = _require_sha256(self.subquery_id, "subquery_id")
@@ -596,7 +596,7 @@ class SubqueryRetrievalResult:
                 "SUBQUERY_FAILURE_RESULT_INVALID", "failed subqueries cannot contain candidates"
             )
 
-    def to_dict(self) -> Dict[str, Any]:
+    def to_dict(self) -> dict[str, Any]:
         return {
             "subquery_id": self.subquery_id,
             "candidates": [candidate.to_dict() for candidate in self.candidates],
@@ -609,9 +609,9 @@ class MultiTableRetrievalResult:
     """Aggregate result that exposes partial retrieval without masking it."""
 
     parent_query_id: str
-    subquery_results: List[SubqueryRetrievalResult]
+    subquery_results: list[SubqueryRetrievalResult]
     complete: bool
-    missing_subquery_ids: List[str]
+    missing_subquery_ids: list[str]
 
     def __post_init__(self) -> None:
         self.parent_query_id = _require_sha256(self.parent_query_id, "parent_query_id")
@@ -633,7 +633,7 @@ class MultiTableRetrievalResult:
                 "MULTI_TABLE_COMPLETENESS_INVALID", "complete must exactly reflect missing_subquery_ids"
             )
 
-    def to_dict(self) -> Dict[str, Any]:
+    def to_dict(self) -> dict[str, Any]:
         return {
             "parent_query_id": self.parent_query_id,
             "subquery_results": [result.to_dict() for result in self.subquery_results],
@@ -646,8 +646,8 @@ class MultiTableRetrievalResult:
 class NarrativeRetrievalResult:
     """TEXT-only reranked candidates and only their persisted table links."""
 
-    candidates: List[RetrievalCandidate]
-    linked_table_ids_by_candidate: Dict[str, List[str]]
+    candidates: list[RetrievalCandidate]
+    linked_table_ids_by_candidate: dict[str, list[str]]
 
     def __post_init__(self) -> None:
         if not isinstance(self.candidates, list) or not all(
@@ -661,7 +661,7 @@ class NarrativeRetrievalResult:
             raise RetrievalContractError(
                 "NARRATIVE_LINK_KEYS_INVALID", "links must be present for exactly every narrative candidate"
             )
-        normalized: Dict[str, List[str]] = {}
+        normalized: dict[str, list[str]] = {}
         for candidate_id, table_ids in self.linked_table_ids_by_candidate.items():
             _require_sha256(candidate_id, "linked_table_ids_by_candidate key")
             normalized[candidate_id] = _require_string_list(
@@ -669,7 +669,7 @@ class NarrativeRetrievalResult:
             )
         self.linked_table_ids_by_candidate = normalized
 
-    def to_dict(self) -> Dict[str, Any]:
+    def to_dict(self) -> dict[str, Any]:
         return {
             "candidates": [candidate.to_dict() for candidate in self.candidates],
             "linked_table_ids_by_candidate": {
@@ -689,8 +689,8 @@ class RetrievedScaleUnitHint:
     source_ref: str
     source_span: SourceSpan
     raw_hint_text: str
-    scale_candidate: Optional[Scale]
-    unit_candidate: Optional[str]
+    scale_candidate: Scale | None
+    unit_candidate: str | None
     status: ScaleHintStatus
     association: HintAssociation
 
@@ -710,7 +710,7 @@ class RetrievedScaleUnitHint:
         self.status = _require_enum(self.status, ScaleHintStatus, "status")
         self.association = _require_enum(self.association, HintAssociation, "association")
 
-    def to_dict(self) -> Dict[str, Any]:
+    def to_dict(self) -> dict[str, Any]:
         return {
             "hint_id": self.hint_id,
             "candidate_id": self.candidate_id,
@@ -727,7 +727,7 @@ class RetrievedScaleUnitHint:
         }
 
     @classmethod
-    def from_dict(cls, value: Any) -> "RetrievedScaleUnitHint":
+    def from_dict(cls, value: Any) -> RetrievedScaleUnitHint:
         data = _require_mapping(value, "RetrievedScaleUnitHint")
         _require_exact_keys(
             data,
@@ -775,9 +775,9 @@ class RetrievalObservation:
     query_id: str
     stage: str
     candidate_id: str
-    rank: Optional[int]
-    score: Optional[float]
-    filter_reason: Optional[str]
+    rank: int | None
+    score: float | None
+    filter_reason: str | None
     artifact_fingerprint: str
     model_fingerprint: str
 
@@ -794,12 +794,12 @@ class RetrievalObservation:
         self.model_fingerprint = _require_string(self.model_fingerprint, "model_fingerprint")
 
     @classmethod
-    def from_dict(cls, value: Any) -> "RetrievalObservation":
+    def from_dict(cls, value: Any) -> RetrievalObservation:
         data = _require_mapping(value, "RetrievalObservation")
         _require_exact_keys(data, {field.name for field in fields(cls)}, "RetrievalObservation")
         return cls(**dict(data))
 
-    def to_dict(self) -> Dict[str, Any]:
+    def to_dict(self) -> dict[str, Any]:
         return {
             "query_id": self.query_id,
             "stage": self.stage,
@@ -821,8 +821,8 @@ def deterministic_json(value: RetrievalQuery | RetrievalCandidate | RetrievalObs
 
 
 def rank_candidates(
-    candidates: List[RetrievalCandidate], *, score_field: str
-) -> List[RetrievalCandidate]:
+    candidates: list[RetrievalCandidate], *, score_field: str
+) -> list[RetrievalCandidate]:
     """Assign deterministic ranks using score descending, then candidate ID ascending.
 
     This is intentionally backend-independent. It neither normalizes nor

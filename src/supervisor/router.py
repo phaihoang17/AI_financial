@@ -2,7 +2,7 @@
 
 from __future__ import annotations
 
-from typing import Mapping, Optional, Sequence
+from collections.abc import Mapping, Sequence
 
 from src.supervisor.schemas import (
     EvidenceSource,
@@ -14,7 +14,6 @@ from src.supervisor.schemas import (
     VerifyProfile,
 )
 from src.understanding.schemas import SchemaValidationError
-
 
 NUMERIC_FINANCIAL_METRIC_POLICY = "NUMERIC_FINANCIAL_METRIC"
 
@@ -39,7 +38,7 @@ def _ordered_requirement_sources(
 
 def plan_requirement_source_types(
     *,
-    formula: Optional[FormulaDefinition],
+    formula: FormulaDefinition | None,
     explicit_requirements: Sequence[RetrievalRequirement] = (),
     policy_name: str = NUMERIC_FINANCIAL_METRIC_POLICY,
     policy_registry: Mapping[
@@ -88,7 +87,7 @@ def derive_evidence_sources(
 def route_reasoning_mode(
     question_type: QuestionType,
     *,
-    formula: Optional[FormulaDefinition],
+    formula: FormulaDefinition | None,
 ) -> ReasoningMode:
     """Route only from canonical question/formula structure; v1 disables transforms."""
     if not isinstance(question_type, QuestionType):
@@ -111,7 +110,7 @@ def route_reasoning_mode(
 def route_model_tier(
     reasoning_mode: ReasoningMode,
     *,
-    registry_required_tier: Optional[ModelTier] = None,
+    registry_required_tier: ModelTier | None = None,
 ) -> ModelTier:
     """Route DIRECT to CHEAP and PROGRAM to STRONG, with upgrade-only override."""
     if reasoning_mode is ReasoningMode.TABLE_TRANSFORM:
@@ -137,7 +136,7 @@ def route_model_tier(
 def route_verification_profile(
     question_type: QuestionType,
     reasoning_mode: ReasoningMode,
-    formula_id: Optional[str],
+    formula_id: str | None,
     requirements: Sequence[RetrievalRequirement],
 ) -> VerifyProfile:
     """Select LIGHT only for one-requirement direct formula-free lookups."""
@@ -155,8 +154,8 @@ def route_verification_profile(
 def requires_scale_resolution(
     evidence_sources: Sequence[EvidenceSource],
     *,
-    requested_scale: Optional[str],
-    requested_unit: Optional[str],
+    requested_scale: str | None,
+    requested_unit: str | None,
 ) -> bool:
     """Preserve the approved Batch 1 scale-resolution routing flag."""
     return (

@@ -3,9 +3,9 @@
 from __future__ import annotations
 
 from collections import defaultdict
-from typing import Dict, List, Mapping, Optional, Sequence, Tuple
+from collections.abc import Mapping, Sequence
 
-from src.evidence.m5_schemas import (
+from src.evidence.masking_schemas import (
     ScaleUnitResolution,
     ScaleUnitResolutionStatus,
 )
@@ -16,7 +16,6 @@ from src.retrieval.schemas import HintAssociation, RetrievedScaleUnitHint
 from src.supervisor.schemas import EvidenceSource
 from src.understanding.requested_scale_unit_parser import RequestedScale
 from src.understanding.schemas import QueryUnderstanding, SchemaValidationError
-
 
 _DIRECT_PRECEDENCE = {
     ScaleHintSource.CELL: 0,
@@ -47,7 +46,7 @@ def _validate_grounded_pair(evidence: EvidenceItem, location: CellLocation) -> N
         )
 
 
-def _requested_scale(understanding: QueryUnderstanding) -> Optional[RequestedScale]:
+def _requested_scale(understanding: QueryUnderstanding) -> RequestedScale | None:
     if understanding.requested_scale is None:
         return None
     try:
@@ -64,7 +63,7 @@ def _precedence(hint: RetrievedScaleUnitHint) -> int:
     return _DIRECT_PRECEDENCE[hint.source_kind]
 
 
-def _hint_order(hint: RetrievedScaleUnitHint) -> Tuple[int, int, int, str]:
+def _hint_order(hint: RetrievedScaleUnitHint) -> tuple[int, int, int, str]:
     return (
         _precedence(hint),
         hint.source_span.start,
@@ -98,7 +97,7 @@ def resolve_scale_unit(
     scoped = sorted(scoped_by_id.values(), key=_hint_order)
     considered_ids = [hint.hint_id for hint in scoped]
 
-    clues: Dict[int, List[RetrievedScaleUnitHint]] = defaultdict(list)
+    clues: dict[int, list[RetrievedScaleUnitHint]] = defaultdict(list)
     for hint in scoped:
         if hint.scale_candidate is not None or hint.unit_candidate is not None:
             clues[_precedence(hint)].append(hint)
@@ -176,11 +175,11 @@ def resolve_scale_units(
     evidence: Sequence[EvidenceItem],
     locations: Mapping[str, CellLocation],
     hints_by_candidate: Mapping[str, Sequence[RetrievedScaleUnitHint]],
-) -> List[ScaleUnitResolution]:
+) -> list[ScaleUnitResolution]:
     """Resolve supplied M3 TABLE evidence in stable evidence-id order."""
     if not isinstance(evidence, (list, tuple)):
         raise SchemaValidationError("evidence must be a list")
-    results: List[ScaleUnitResolution] = []
+    results: list[ScaleUnitResolution] = []
     for item in sorted(evidence, key=lambda value: value.evidence_id):
         if not isinstance(item, EvidenceItem):
             raise SchemaValidationError("evidence must contain EvidenceItem values")

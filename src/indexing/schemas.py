@@ -2,17 +2,17 @@
 
 from __future__ import annotations
 
+from collections.abc import Mapping
 from dataclasses import dataclass, fields, is_dataclass
 from enum import Enum
 from hashlib import sha256
 import json
 import re
-from typing import Any, Dict, List, Mapping, Optional, Set, Type, TypeVar
+from typing import Any, TypeVar
 
 from src.evidence.schemas import Scale
 from src.supervisor.schemas import EvidenceSource
 from src.understanding.schemas import SchemaValidationError, StatementScope
-
 
 M2A_SCHEMA_VERSION = "m2a.v1"
 NORMALIZATION_VERSION = "m2a-normalization-v2"
@@ -105,7 +105,7 @@ def _require_mapping(value: Any, path: str) -> Mapping[str, Any]:
 
 
 def _require_exact_keys(
-    data: Mapping[str, Any], expected: Set[str], path: str
+    data: Mapping[str, Any], expected: set[str], path: str
 ) -> None:
     actual = set(data.keys())
     missing = expected - actual
@@ -128,7 +128,7 @@ def _require_string(value: Any, path: str, *, non_empty: bool = False) -> str:
     return value
 
 
-def _require_optional_string(value: Any, path: str) -> Optional[str]:
+def _require_optional_string(value: Any, path: str) -> str | None:
     if value is not None and not isinstance(value, str):
         raise SchemaValidationError(f"{path} must be a string or null")
     return value
@@ -148,13 +148,13 @@ def _require_bool(value: Any, path: str) -> bool:
     return value
 
 
-def _require_enum(value: Any, enum_type: Type[EnumT], path: str) -> EnumT:
+def _require_enum(value: Any, enum_type: type[EnumT], path: str) -> EnumT:
     if not isinstance(value, enum_type):
         raise SchemaValidationError(f"{path} must be a {enum_type.__name__}")
     return value
 
 
-def _parse_enum(value: Any, enum_type: Type[EnumT], path: str) -> EnumT:
+def _parse_enum(value: Any, enum_type: type[EnumT], path: str) -> EnumT:
     if not isinstance(value, str):
         raise SchemaValidationError(f"{path} must be a string enum value")
     try:
@@ -164,20 +164,20 @@ def _parse_enum(value: Any, enum_type: Type[EnumT], path: str) -> EnumT:
         raise SchemaValidationError(f"{path} must be one of: {allowed}") from error
 
 
-def _require_list(value: Any, path: str) -> List[Any]:
+def _require_list(value: Any, path: str) -> list[Any]:
     if not isinstance(value, list):
         raise SchemaValidationError(f"{path} must be a list")
     return value
 
 
-def _require_string_list(value: Any, path: str) -> List[str]:
+def _require_string_list(value: Any, path: str) -> list[str]:
     return [
         _require_string(item, f"{path}[{index}]")
         for index, item in enumerate(_require_list(value, path))
     ]
 
 
-def _require_instance_list(value: Any, expected: Type[Any], path: str) -> List[Any]:
+def _require_instance_list(value: Any, expected: type[Any], path: str) -> list[Any]:
     items = _require_list(value, path)
     for index, item in enumerate(items):
         if not isinstance(item, expected):
@@ -188,8 +188,8 @@ def _require_instance_list(value: Any, expected: Type[Any], path: str) -> List[A
 
 
 def _parse_list(
-    value: Any, item_type: Type[Any], path: str
-) -> List[Any]:
+    value: Any, item_type: type[Any], path: str
+) -> list[Any]:
     return [
         item_type.from_dict(item, f"{path}[{index}]")
         for index, item in enumerate(_require_list(value, path))
@@ -207,7 +207,7 @@ def _serialize(value: Any) -> Any:
 
 
 class SerializableContract:
-    def to_dict(self) -> Dict[str, Any]:
+    def to_dict(self) -> dict[str, Any]:
         return _serialize(self)
 
 
@@ -233,7 +233,7 @@ class SourceSpan(SerializableContract):
 class ParseIssue(SerializableContract):
     code: str
     severity: IssueSeverity
-    source_span: Optional[SourceSpan]
+    source_span: SourceSpan | None
     message: str
 
     def __post_init__(self) -> None:
@@ -282,10 +282,10 @@ class ReportSource(SerializableContract):
     report_id: str
     source_ref: str
     ticker: str
-    company_name: Optional[str]
+    company_name: str | None
     report_year: int
     document_name: str
-    statement_scope: Optional[StatementScope]
+    statement_scope: StatementScope | None
     raw_text: str
     content_sha256: str
 
@@ -390,10 +390,10 @@ class SourceTable(SerializableContract):
     source_span: SourceSpan
     raw_html: str
     parse_status: TableParseStatus
-    inline_caption_span: Optional[SourceSpan]
-    inline_caption_text: Optional[str]
-    cells: List[SourceCell]
-    issues: List[ParseIssue]
+    inline_caption_span: SourceSpan | None
+    inline_caption_text: str | None
+    cells: list[SourceCell]
+    issues: list[ParseIssue]
 
     def __post_init__(self) -> None:
         self.table_id = _require_string(self.table_id, "table_id", non_empty=True)
@@ -442,8 +442,8 @@ class Page(SerializableContract):
     source_span: SourceSpan
     content_span: SourceSpan
     raw_text: str
-    tables: List[SourceTable]
-    issues: List[ParseIssue]
+    tables: list[SourceTable]
+    issues: list[ParseIssue]
 
     def __post_init__(self) -> None:
         self.page_id = _require_string(self.page_id, "page_id", non_empty=True)
@@ -477,8 +477,8 @@ class Page(SerializableContract):
 class ParsedDocument(SerializableContract):
     report_id: str
     content_sha256: str
-    pages: List[Page]
-    issues: List[ParseIssue]
+    pages: list[Page]
+    issues: list[ParseIssue]
 
     def __post_init__(self) -> None:
         self.report_id = _require_string(self.report_id, "report_id", non_empty=True)
@@ -529,8 +529,8 @@ class MergedCellAnchor(SerializableContract):
 class LogicalTableGrid(SerializableContract):
     row_count: int
     column_count: int
-    anchors: List[MergedCellAnchor]
-    slots: List[List[Optional[str]]]
+    anchors: list[MergedCellAnchor]
+    slots: list[list[str | None]]
 
     def __post_init__(self) -> None:
         self.row_count = _require_int(self.row_count, "row_count")
@@ -539,7 +539,7 @@ class LogicalTableGrid(SerializableContract):
         rows = _require_list(self.slots, "slots")
         if len(rows) != self.row_count:
             raise SchemaValidationError("slots row count must equal row_count")
-        normalized_slots: List[List[Optional[str]]] = []
+        normalized_slots: list[list[str | None]] = []
         for row_index, row in enumerate(rows):
             row_values = _require_list(row, f"slots[{row_index}]")
             if len(row_values) != self.column_count:
@@ -596,8 +596,8 @@ class HeaderNode(SerializableContract):
     header_id: str
     axis: HeaderAxis
     label: str
-    source_cell_ids: List[str]
-    parent_header_id: Optional[str]
+    source_cell_ids: list[str]
+    parent_header_id: str | None
     depth: int
     resolution: HeaderResolution
 
@@ -625,7 +625,7 @@ class HeaderNode(SerializableContract):
 
 @dataclass
 class HeaderHierarchy(SerializableContract):
-    nodes: List[HeaderNode]
+    nodes: list[HeaderNode]
 
     def __post_init__(self) -> None:
         self.nodes = _require_instance_list(self.nodes, HeaderNode, "nodes")
@@ -655,8 +655,8 @@ _CANONICAL_DECIMAL = re.compile(r"-?(?:0|[1-9]\d*)(?:\.\d+)?\Z")
 class NumericParseResult(SerializableContract):
     status: NumericParseStatus
     raw_text: str
-    normalized_lexeme: Optional[str]
-    decimal_value: Optional[str]
+    normalized_lexeme: str | None
+    decimal_value: str | None
     percent_literal: bool
 
     def __post_init__(self) -> None:
@@ -695,9 +695,9 @@ class NormalizedCell(SerializableContract):
     normalized_text: str
     role: CellRole
     numeric: NumericParseResult
-    row_path: List[HeaderPathEntry]
-    column_path: List[HeaderPathEntry]
-    issues: List[ParseIssue]
+    row_path: list[HeaderPathEntry]
+    column_path: list[HeaderPathEntry]
+    issues: list[ParseIssue]
 
     def __post_init__(self) -> None:
         self.normalized_cell_id = _require_string(self.normalized_cell_id, "normalized_cell_id", non_empty=True)
@@ -739,9 +739,9 @@ class NormalizedTable(SerializableContract):
     normalization_version: str
     grid: LogicalTableGrid
     header_hierarchy: HeaderHierarchy
-    cells: List[NormalizedCell]
-    period_labels: List[str]
-    issues: List[ParseIssue]
+    cells: list[NormalizedCell]
+    period_labels: list[str]
+    issues: list[ParseIssue]
 
     def __post_init__(self) -> None:
         self.normalized_table_id = _require_string(self.normalized_table_id, "normalized_table_id", non_empty=True)
@@ -848,7 +848,7 @@ class Paragraph(SerializableContract):
     source_span: SourceSpan
     raw_text: str
     normalized_text: str
-    section_ref: Optional[str]
+    section_ref: str | None
     kind: ParagraphKind
 
     def __post_init__(self) -> None:
@@ -883,7 +883,7 @@ class TableTextLink(SerializableContract):
     relation: TableTextRelation
     basis: TableTextLinkBasis
     evidence_span: SourceSpan
-    issues: List[ParseIssue]
+    issues: list[ParseIssue]
 
     def __post_init__(self) -> None:
         self.link_id = _require_string(self.link_id, "link_id", non_empty=True)
@@ -913,14 +913,14 @@ class ScaleUnitHint(SerializableContract):
     hint_id: str
     report_id: str
     page_id: str
-    table_id: Optional[str]
+    table_id: str | None
     source_kind: ScaleHintSource
     source_ref: str
     source_span: SourceSpan
     raw_hint_text: str
     normalized_hint_text: str
-    scale_candidate: Optional[Scale]
-    unit_candidate: Optional[str]
+    scale_candidate: Scale | None
+    unit_candidate: str | None
     status: ScaleHintStatus
 
     def __post_init__(self) -> None:
@@ -961,7 +961,7 @@ class ScaleUnitHint(SerializableContract):
         )
 
 
-def _parse_header_path_groups(value: Any, path: str) -> List[List[HeaderPathEntry]]:
+def _parse_header_path_groups(value: Any, path: str) -> list[list[HeaderPathEntry]]:
     groups = _require_list(value, path)
     return [
         _parse_list(group, HeaderPathEntry, f"{path}[{index}]")
@@ -977,19 +977,19 @@ class RetrievalRepresentation(SerializableContract):
     granularity: RepresentationGranularity
     source_ref: str
     report_id: str
-    page_ids: List[str]
-    table_id: Optional[str]
-    paragraph_id: Optional[str]
+    page_ids: list[str]
+    table_id: str | None
+    paragraph_id: str | None
     ticker: str
-    company_name: Optional[str]
+    company_name: str | None
     report_year: int
-    statement_scope: Optional[StatementScope]
-    period_labels: List[str]
+    statement_scope: StatementScope | None
+    period_labels: list[str]
     content: str
-    row_paths: List[List[HeaderPathEntry]]
-    column_paths: List[List[HeaderPathEntry]]
-    linked_source_ids: List[str]
-    scale_unit_hint_ids: List[str]
+    row_paths: list[list[HeaderPathEntry]]
+    column_paths: list[list[HeaderPathEntry]]
+    linked_source_ids: list[str]
+    scale_unit_hint_ids: list[str]
 
     def __post_init__(self) -> None:
         self.representation_id = _require_string(self.representation_id, "representation_id", non_empty=True)

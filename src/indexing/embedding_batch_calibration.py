@@ -21,11 +21,12 @@ one wins.
 from __future__ import annotations
 
 import argparse
+from collections.abc import Sequence
 from itertools import islice
 import json
-import time
 from pathlib import Path
-from typing import Any, Dict, List, Optional, Sequence
+import time
+from typing import Any
 
 from src.indexing.embedding_artifact_builder import (
     APPROVED_EMBEDDING_FINGERPRINT,
@@ -35,7 +36,6 @@ from src.indexing.embedding_artifact_builder import (
 from src.indexing.embedding_indexer import embed_chunks
 from src.indexing.embedding_schemas import EmbeddingChunk
 
-
 CALIBRATION_SCHEMA_VERSION = "m2b-batch-calibration-v1"
 MAX_CALIBRATION_SAMPLE = 20_000
 DEFAULT_BATCH_SIZES = (8, 16, 32, 64)
@@ -44,7 +44,7 @@ DEFAULT_MIN_SPEEDUP = 1.05
 
 def load_calibration_sample(
     input_artifact: str | Path, sample_size: int
-) -> List[EmbeddingChunk]:
+) -> list[EmbeddingChunk]:
     """Read the first ``sample_size`` chunks (bounded) from the corpus artifact."""
     if isinstance(sample_size, bool) or not isinstance(sample_size, int) or sample_size < 1:
         raise ValueError("sample_size must be a positive integer")
@@ -53,7 +53,7 @@ def load_calibration_sample(
     return [record.chunk for record in islice(_iter_input_records(input_data), bounded)]
 
 
-def _peak_vram_bytes(device: str) -> Optional[int]:
+def _peak_vram_bytes(device: str) -> int | None:
     if not device.startswith("cuda"):
         return None
     try:  # pragma: no cover - requires CUDA
@@ -82,16 +82,16 @@ def calibrate_batch_sizes(
     batch_sizes: Sequence[int] = DEFAULT_BATCH_SIZES,
     *,
     device: str = "cuda",
-) -> List[Dict[str, Any]]:
+) -> list[dict[str, Any]]:
     """Time the pinned embedding path over ``sample`` for each batch size."""
     if not sample:
         raise ValueError("sample must be non-empty")
     chunks = list(sample)
-    results: List[Dict[str, Any]] = []
+    results: list[dict[str, Any]] = []
     for batch_size in batch_sizes:
         _reset_peak_vram(device)
         started = time.monotonic()
-        error: Optional[str] = None
+        error: str | None = None
         produced = 0
         try:
             for start in range(0, len(chunks), batch_size):
@@ -123,8 +123,8 @@ def calibrate_batch_sizes(
 
 
 def recommend_batch_size(
-    results: Sequence[Dict[str, Any]], *, min_speedup: float = DEFAULT_MIN_SPEEDUP
-) -> Dict[str, Any]:
+    results: Sequence[dict[str, Any]], *, min_speedup: float = DEFAULT_MIN_SPEEDUP
+) -> dict[str, Any]:
     """Largest stable batch that is at least ``min_speedup`` faster than the prior."""
     ordered = sorted((r for r in results if r.get("ok")), key=lambda r: r["batch_size"])
     if not ordered:
@@ -151,7 +151,7 @@ def _load_pinned_encoder(device: str) -> Any:  # pragma: no cover - requires CUD
     return load_bge_m3_encoder(device=device)
 
 
-def main(argv: Optional[Sequence[str]] = None) -> int:
+def main(argv: Sequence[str] | None = None) -> int:
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument("--input-artifact", required=True)
     parser.add_argument("--sample-size", type=int, default=2000)

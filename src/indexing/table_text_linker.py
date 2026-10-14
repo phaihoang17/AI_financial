@@ -3,7 +3,6 @@
 from __future__ import annotations
 
 from dataclasses import dataclass
-from typing import Dict, List, Tuple
 
 from src.indexing.ids import make_table_text_link_id
 from src.indexing.scale_unit_hint_extractor import declares_unit
@@ -29,7 +28,7 @@ class _AdjacencyCandidate:
 def _validate_inputs(
     source: ReportSource,
     document: ParsedDocument,
-    paragraphs: List[Paragraph],
+    paragraphs: list[Paragraph],
 ) -> None:
     if not isinstance(source, ReportSource):
         raise SchemaValidationError("source must be a ReportSource")
@@ -54,13 +53,13 @@ def _whitespace_only(value: str) -> bool:
 def _candidates(
     source: ReportSource,
     document: ParsedDocument,
-    paragraphs: List[Paragraph],
-) -> List[_AdjacencyCandidate]:
-    paragraphs_by_page: Dict[str, List[Paragraph]] = {}
+    paragraphs: list[Paragraph],
+) -> list[_AdjacencyCandidate]:
+    paragraphs_by_page: dict[str, list[Paragraph]] = {}
     for paragraph in paragraphs:
         paragraphs_by_page.setdefault(paragraph.page_id, []).append(paragraph)
 
-    candidates: List[_AdjacencyCandidate] = []
+    candidates: list[_AdjacencyCandidate] = []
     for page in document.pages:
         page_paragraphs = paragraphs_by_page.get(page.page_id, [])
         for table in page.tables:
@@ -85,14 +84,14 @@ def _candidates(
 def link_tables_to_paragraphs(
     source: ReportSource,
     document: ParsedDocument,
-    paragraphs: List[Paragraph],
-) -> List[TableTextLink]:
+    paragraphs: list[Paragraph],
+) -> list[TableTextLink]:
     """Emit only adjacency pairs unique for both table and paragraph."""
 
     _validate_inputs(source, document, paragraphs)
     candidates = _candidates(source, document, paragraphs)
-    table_counts: Dict[str, int] = {}
-    paragraph_counts: Dict[str, int] = {}
+    table_counts: dict[str, int] = {}
+    paragraph_counts: dict[str, int] = {}
     for candidate in candidates:
         table_counts[candidate.table.table_id] = table_counts.get(candidate.table.table_id, 0) + 1
         paragraph_counts[candidate.paragraph.paragraph_id] = paragraph_counts.get(candidate.paragraph.paragraph_id, 0) + 1
@@ -109,7 +108,7 @@ def link_tables_to_paragraphs(
             candidate.paragraph.source_span.start,
         )
     )
-    links: List[TableTextLink] = []
+    links: list[TableTextLink] = []
     for candidate in emitted:
         relation = TableTextRelation.ADJACENT_CONTEXT
         links.append(
@@ -134,9 +133,9 @@ def link_tables_to_paragraphs(
 def link_unit_declarations(
     source: ReportSource,
     document: ParsedDocument,
-    paragraphs: List[Paragraph],
-    links: List[TableTextLink],
-) -> List[TableTextLink]:
+    paragraphs: list[Paragraph],
+    links: list[TableTextLink],
+) -> list[TableTextLink]:
     """ADR-062: an unlinked unit-declaration paragraph annotates the table it immediately precedes.
 
     VAS statements print "Đơn vị tính: VND" right above the table, often with a

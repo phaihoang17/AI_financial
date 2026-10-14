@@ -6,7 +6,7 @@ from pathlib import Path
 from src.memory.distillation import distill_trajectory
 from src.memory.index import DevelopmentExample, build_index, publish_index, validate_output_path
 from src.memory.schemas import MemoryContext
-from src.orchestration.state import M9State
+from src.orchestration.state import OrchestrationState
 from src.serving.client import HttpTransport, OpenAICompatibleClient
 from src.serving.retrieval_serving import ServingQueryEncoder
 from src.serving.schemas import ServingEndpoint
@@ -29,7 +29,7 @@ def main(argv=None):
             continue
         row = json.loads(line)
         _require_exact_keys(row, {"split", "state"}, "TrainingTrajectory")
-        entries.extend(distill_trajectory(M9State.from_dict(row["state"]), split=row["split"],
+        entries.extend(distill_trajectory(OrchestrationState.from_dict(row["state"]), split=row["split"],
                        dataset_id=args.dataset_id, held_out_ids=held_out["ids"],
                        held_out_question_signatures=held_out["question_signatures"]))
     development = []

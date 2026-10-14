@@ -2,16 +2,16 @@
 
 from __future__ import annotations
 
+from collections.abc import Mapping
 from dataclasses import dataclass
 from enum import Enum
 from hashlib import sha256
 import json
-from typing import Any, Dict, List, Mapping, Optional, Set, Type, TypeVar
+from typing import Any, TypeVar
 
-from src.evidence.m5_schemas import MaskedEvidenceBundle
+from src.evidence.masking_schemas import MaskedEvidenceBundle
 from src.supervisor.schemas import Plan, QuestionType
 from src.understanding.schemas import SchemaValidationError
-
 
 PROGRAM_SCHEMA_VERSION = "m6-program-v1"
 
@@ -41,7 +41,7 @@ def _mapping(value: Any, path: str) -> Mapping[str, Any]:
     return value
 
 
-def _exact_keys(data: Mapping[str, Any], expected: Set[str], path: str) -> None:
+def _exact_keys(data: Mapping[str, Any], expected: set[str], path: str) -> None:
     missing = expected - set(data)
     unknown = set(data) - expected
     if missing:
@@ -62,7 +62,7 @@ def _string(value: Any, path: str, *, non_empty: bool = True) -> str:
     return value
 
 
-def _optional_string(value: Any, path: str) -> Optional[str]:
+def _optional_string(value: Any, path: str) -> str | None:
     if value is not None and not isinstance(value, str):
         raise SchemaValidationError(f"{path} must be a string or null")
     if value == "":
@@ -81,7 +81,7 @@ def _sha256_string(value: Any, path: str) -> str:
     return value
 
 
-def _string_list(value: Any, path: str, *, non_empty: bool = False) -> List[str]:
+def _string_list(value: Any, path: str, *, non_empty: bool = False) -> list[str]:
     if not isinstance(value, list):
         raise SchemaValidationError(f"{path} must be a list")
     result = [
@@ -92,13 +92,13 @@ def _string_list(value: Any, path: str, *, non_empty: bool = False) -> List[str]
     return result
 
 
-def _enum(value: Any, enum_type: Type[EnumT], path: str) -> EnumT:
+def _enum(value: Any, enum_type: type[EnumT], path: str) -> EnumT:
     if not isinstance(value, enum_type):
         raise SchemaValidationError(f"{path} must be a {enum_type.__name__}")
     return value
 
 
-def _parse_enum(value: Any, enum_type: Type[EnumT], path: str) -> EnumT:
+def _parse_enum(value: Any, enum_type: type[EnumT], path: str) -> EnumT:
     if not isinstance(value, str):
         raise SchemaValidationError(f"{path} must be a string enum value")
     try:
@@ -140,7 +140,7 @@ class ProgramInput:
             _string(self.requirement_id, "requirement_id"),
         )
 
-    def to_dict(self) -> Dict[str, str]:
+    def to_dict(self) -> dict[str, str]:
         return {
             "input_id": self.input_id,
             "placeholder": self.placeholder,
@@ -149,7 +149,7 @@ class ProgramInput:
         }
 
     @classmethod
-    def from_dict(cls, value: Any) -> "ProgramInput":
+    def from_dict(cls, value: Any) -> ProgramInput:
         data = _mapping(value, "ProgramInput")
         _exact_keys(
             data,
@@ -168,8 +168,8 @@ class ProgramInput:
 class ProgramStep:
     step_id: str
     operation: ProgramOperation
-    input_refs: List[str]
-    formula_id: Optional[str]
+    input_refs: list[str]
+    formula_id: str | None
 
     def __post_init__(self) -> None:
         object.__setattr__(self, "step_id", _string(self.step_id, "step_id"))
@@ -185,7 +185,7 @@ class ProgramStep:
             self, "formula_id", _optional_string(self.formula_id, "formula_id")
         )
 
-    def to_dict(self) -> Dict[str, Any]:
+    def to_dict(self) -> dict[str, Any]:
         return {
             "step_id": self.step_id,
             "operation": self.operation.value,
@@ -194,7 +194,7 @@ class ProgramStep:
         }
 
     @classmethod
-    def from_dict(cls, value: Any) -> "ProgramStep":
+    def from_dict(cls, value: Any) -> ProgramStep:
         data = _mapping(value, "ProgramStep")
         _exact_keys(
             data,
@@ -213,12 +213,12 @@ def _program_identity_payload(
     *,
     formula_registry_fingerprint: str,
     question_type: QuestionType,
-    formula_id: Optional[str],
-    inputs: List[ProgramInput],
-    steps: List[ProgramStep],
+    formula_id: str | None,
+    inputs: list[ProgramInput],
+    steps: list[ProgramStep],
     output_ref: str,
     output_kind: ProgramOutputKind,
-) -> Dict[str, Any]:
+) -> dict[str, Any]:
     return {
         "schema_version": PROGRAM_SCHEMA_VERSION,
         "formula_registry_fingerprint": formula_registry_fingerprint,
@@ -235,9 +235,9 @@ def make_program_id(
     *,
     formula_registry_fingerprint: str,
     question_type: QuestionType,
-    formula_id: Optional[str],
-    inputs: List[ProgramInput],
-    steps: List[ProgramStep],
+    formula_id: str | None,
+    inputs: list[ProgramInput],
+    steps: list[ProgramStep],
     output_ref: str,
     output_kind: ProgramOutputKind,
 ) -> str:
@@ -260,9 +260,9 @@ class Program:
     program_id: str
     formula_registry_fingerprint: str
     question_type: QuestionType
-    formula_id: Optional[str]
-    inputs: List[ProgramInput]
-    steps: List[ProgramStep]
+    formula_id: str | None
+    inputs: list[ProgramInput]
+    steps: list[ProgramStep]
     output_ref: str
     output_kind: ProgramOutputKind
 
@@ -309,12 +309,12 @@ class Program:
         *,
         formula_registry_fingerprint: str,
         question_type: QuestionType,
-        formula_id: Optional[str],
-        inputs: List[ProgramInput],
-        steps: List[ProgramStep],
+        formula_id: str | None,
+        inputs: list[ProgramInput],
+        steps: list[ProgramStep],
         output_ref: str,
         output_kind: ProgramOutputKind,
-    ) -> "Program":
+    ) -> Program:
         program_id = make_program_id(
             formula_registry_fingerprint=formula_registry_fingerprint,
             question_type=question_type,
@@ -336,7 +336,7 @@ class Program:
             output_kind=output_kind,
         )
 
-    def to_dict(self) -> Dict[str, Any]:
+    def to_dict(self) -> dict[str, Any]:
         return {
             "schema_version": self.schema_version,
             "program_id": self.program_id,
@@ -353,7 +353,7 @@ class Program:
         return canonical_json(self.to_dict())
 
     @classmethod
-    def from_dict(cls, value: Any) -> "Program":
+    def from_dict(cls, value: Any) -> Program:
         data = _mapping(value, "Program")
         _exact_keys(
             data,
@@ -415,7 +415,7 @@ class ProgrammerInput:
             ),
         )
 
-    def to_dict(self) -> Dict[str, Any]:
+    def to_dict(self) -> dict[str, Any]:
         return {
             "plan": self.plan.to_dict(),
             "masked_evidence": self.masked_evidence.to_dict(),
@@ -423,7 +423,7 @@ class ProgrammerInput:
         }
 
     @classmethod
-    def from_dict(cls, value: Any) -> "ProgrammerInput":
+    def from_dict(cls, value: Any) -> ProgrammerInput:
         data = _mapping(value, "ProgrammerInput")
         _exact_keys(
             data,
@@ -446,9 +446,9 @@ class ProgrammerInput:
 @dataclass(frozen=True)
 class ProgrammerResult:
     status: ProgrammerStatus
-    program: Optional[Program]
-    failure_code: Optional[str]
-    failure_message: Optional[str]
+    program: Program | None
+    failure_code: str | None
+    failure_message: str | None
 
     def __post_init__(self) -> None:
         object.__setattr__(self, "status", _enum(self.status, ProgrammerStatus, "status"))
@@ -480,7 +480,7 @@ class ProgrammerResult:
                 "REJECTED requires null program and non-null failure fields"
             )
 
-    def to_dict(self) -> Dict[str, Any]:
+    def to_dict(self) -> dict[str, Any]:
         return {
             "status": self.status.value,
             "program": None if self.program is None else self.program.to_dict(),
@@ -489,7 +489,7 @@ class ProgrammerResult:
         }
 
     @classmethod
-    def from_dict(cls, value: Any) -> "ProgrammerResult":
+    def from_dict(cls, value: Any) -> ProgrammerResult:
         data = _mapping(value, "ProgrammerResult")
         _exact_keys(
             data,

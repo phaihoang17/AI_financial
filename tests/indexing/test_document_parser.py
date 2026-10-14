@@ -4,12 +4,11 @@ import unittest
 from src.indexing.document_parser import parse_document
 from src.indexing.ids import content_sha256, make_report_id
 from src.indexing.schemas import (
-    IssueSeverity,
     M2A_SCHEMA_VERSION,
+    IssueSeverity,
     ReportSource,
     TableParseStatus,
 )
-
 
 FIXTURE_ROOT = Path(__file__).with_name("fixtures")
 

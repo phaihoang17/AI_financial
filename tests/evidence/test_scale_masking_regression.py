@@ -1,6 +1,6 @@
 import unittest
 
-from src.evidence.m5_schemas import ScaleUnitResolutionStatus
+from src.evidence.masking_schemas import ScaleUnitResolutionStatus
 from src.evidence.numeric_masking import (
     NumericMaskingError,
     NumericMaskingFailureCode,
@@ -10,7 +10,7 @@ from src.evidence.scale_unit_resolver import resolve_scale_units
 from src.evidence.schema_linker import link_schema
 from src.evidence.schemas import Scale
 from src.indexing.schemas import ScaleHintSource
-from tests.evidence.m5_helpers import grounded_cell, hint, plan, understanding
+from tests.evidence.helpers import grounded_cell, hint, plan, understanding
 
 
 class Task055ScaleMaskingRegressionTests(unittest.TestCase):

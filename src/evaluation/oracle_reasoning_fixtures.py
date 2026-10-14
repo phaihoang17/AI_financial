@@ -2,14 +2,14 @@
 
 from __future__ import annotations
 
-from typing import Optional, Sequence
+from collections.abc import Sequence
 
 from src.evaluation.oracle_reasoning import (
     OracleEvidence,
     OracleReasoningCase,
     OracleReasoningFailureStage,
 )
-from src.evidence.m5_schemas import (
+from src.evidence.masking_schemas import (
     ScaleUnitResolution,
     ScaleUnitResolutionStatus,
     SchemaLinkMatchBasis,
@@ -50,8 +50,8 @@ def _plan(
     question_type: str,
     periods: Sequence[str],
     *,
-    derived_target: Optional[str],
-    formula_id: Optional[str],
+    derived_target: str | None,
+    formula_id: str | None,
     reasoning_mode: str,
     model_tier: str,
 ) -> Plan:
@@ -95,9 +95,9 @@ def _oracle_evidence(
     value: str,
     *,
     source_scale: Scale,
-    source_unit: Optional[str],
-    requested_scale: Optional[RequestedScale] = None,
-    requested_unit: Optional[str] = None,
+    source_unit: str | None,
+    requested_scale: RequestedScale | None = None,
+    requested_unit: str | None = None,
 ) -> OracleEvidence:
     period = requirement.period or "unknown"
     evidence_id = f"oracle-{case_id}-{period}"
@@ -184,7 +184,7 @@ def _expected_program(
     *,
     operation: ProgramOperation,
     output_kind: ProgramOutputKind,
-    formula_id: Optional[str],
+    formula_id: str | None,
     renamed_graph: bool = False,
 ) -> Program:
     inputs = [
@@ -216,7 +216,7 @@ def _expected_program(
 
 def _output(
     kind: ProgramOutputKind,
-    values: Sequence[tuple[str, Scale, Optional[str]]],
+    values: Sequence[tuple[str, Scale, str | None]],
 ) -> ExecutionOutput:
     return ExecutionOutput(
         kind=kind,

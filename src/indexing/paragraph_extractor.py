@@ -2,8 +2,8 @@
 
 from __future__ import annotations
 
+from collections.abc import Iterable
 import re
-from typing import Iterable, List, Tuple
 
 from src.indexing.ids import make_paragraph_id
 from src.indexing.schemas import (
@@ -15,11 +15,10 @@ from src.indexing.schemas import (
 )
 from src.understanding.schemas import SchemaValidationError
 
-
 _BLANK_BOUNDARY = re.compile(r"(?:\r\n|\r|\n)[ \t]*(?:\r\n|\r|\n)+")
 
 
-def _trim_whitespace(text: str, start: int, end: int) -> Tuple[int, int]:
+def _trim_whitespace(text: str, start: int, end: int) -> tuple[int, int]:
     while start < end and text[start].isspace():
         start += 1
     while end > start and text[end - 1].isspace():
@@ -43,7 +42,7 @@ def _paragraph_spans(text: str, start: int, end: int) -> Iterable[SourceSpan]:
 
 def extract_paragraphs(
     source: ReportSource, document: ParsedDocument
-) -> List[Paragraph]:
+) -> list[Paragraph]:
     """Extract page-local paragraphs while preserving exact raw source slices."""
 
     if not isinstance(source, ReportSource):
@@ -53,14 +52,14 @@ def extract_paragraphs(
     if document.report_id != source.report_id or document.content_sha256 != source.content_sha256:
         raise SchemaValidationError("document must originate from source")
 
-    paragraphs: List[Paragraph] = []
+    paragraphs: list[Paragraph] = []
     for page in document.pages:
         excluded = sorted(
             (table.source_span for table in page.tables),
             key=lambda span: (span.start, span.end),
         )
         cursor = page.content_span.start
-        page_spans: List[SourceSpan] = []
+        page_spans: list[SourceSpan] = []
         for table_span in excluded:
             if table_span.start < cursor or table_span.end > page.content_span.end:
                 raise SchemaValidationError("table spans must be ordered and contained in page content")

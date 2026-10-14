@@ -7,7 +7,10 @@ from src.programmer.schemas import canonical_json
 from src.retrieval.query_embedding import _require_sha256
 from src.supervisor.schemas import Plan, QuestionType
 from src.understanding.schemas import (
-    PeriodKind, SchemaValidationError, _require_exact_keys, _require_mapping,
+    PeriodKind,
+    SchemaValidationError,
+    _require_exact_keys,
+    _require_mapping,
 )
 
 MEMORY_SCHEMA_VERSION = "m11-experience-v1"

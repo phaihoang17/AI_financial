@@ -1,25 +1,26 @@
+from dataclasses import replace
 import hashlib
 import json
-from dataclasses import replace
 from pathlib import Path
 import sqlite3
 import tempfile
 import unittest
 
+from src.indexing.corpus_artifact import CORPUS_ARTIFACT_SCHEMA_VERSION, CORPUS_RECORD_SCHEMA_VERSION
 from src.indexing.embedding_artifact_builder import (
     APPROVED_EMBEDDING_FINGERPRINT,
     EmbeddingArtifactBuilderError,
-    _build_id,
     build_streaming_embedding_artifact,
     validate_published_artifact,
 )
-from src.indexing.embedding_chunker import CHUNKING_CONFIG_FINGERPRINT, build_embedding_chunks
+from src.indexing.embedding_chunker import (
+    BGE_M3_MODEL_ID,
+    BGE_M3_REVISION,
+    CHUNKING_CONFIG_FINGERPRINT,
+    build_embedding_chunks,
+)
 from src.indexing.embedding_schemas import EMBEDDING_CHUNK_SCHEMA_VERSION
-from src.indexing.embedding_indexer import EMBEDDING_ALGORITHM_VERSION
-from src.indexing.corpus_artifact import CORPUS_ARTIFACT_SCHEMA_VERSION, CORPUS_RECORD_SCHEMA_VERSION
-from src.indexing.embedding_chunker import BGE_M3_MODEL_ID, BGE_M3_REVISION
 from src.indexing.schemas import M2A_SCHEMA_VERSION, NORMALIZATION_VERSION, REPRESENTATION_VERSION
-
 from tests.indexing.test_embedding_chunker import CharTokenizer, build_fixture
 
 

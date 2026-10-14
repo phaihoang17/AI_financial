@@ -1,7 +1,7 @@
 from __future__ import annotations
 
-import json
 from dataclasses import replace
+import json
 
 from src.evaluation.e2e_fixtures import e2e_fixture_cases
 from src.evaluation.harness import EvaluationFailureStage
@@ -17,7 +17,7 @@ from src.orchestration.schemas import (
     FailureAttribution,
     FinalResponse,
     FinalResponseStatus,
-    M9Phase,
+    OrchestrationPhase,
     terminal_retry_state,
 )
 from src.verification.schemas import RetryAction
@@ -147,7 +147,7 @@ def _conflicting_state():
     )
     return replace(
         passed,
-        phase=M9Phase.TERMINAL,
+        phase=OrchestrationPhase.TERMINAL,
         outcome=FinalResponseStatus.ABSTAIN,
         retry_state=terminal_retry,
         final_response=response,
@@ -233,7 +233,7 @@ def test_message_schema_corruption_detected_for_invalid_enum():
     assert events[0].attempt_index is None
     assert events[0].detail == {
         "signal": "CHECKPOINT_CONTRACT_INVALID",
-        "boundary": "M9State.from_dict",
+        "boundary": "OrchestrationState.from_dict",
         "error_type": "SchemaValidationError",
     }
 

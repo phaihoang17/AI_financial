@@ -8,7 +8,6 @@ from src.indexing.cell_normalizer import normalize_cell_text
 from src.indexing.schemas import NumericParseResult, NumericParseStatus
 from src.understanding.schemas import SchemaValidationError
 
-
 _MISSING_LEXEMES = {"", "-", "‒", "–", "—", "―", "−"}
 _PLAIN_INTEGER = re.compile(r"[0-9]+\Z")
 _PERIOD_GROUPED_INTEGER = re.compile(r"[0-9]{1,3}(?:\.[0-9]{3})+\Z")

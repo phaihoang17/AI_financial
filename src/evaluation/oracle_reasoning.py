@@ -2,16 +2,17 @@
 
 from __future__ import annotations
 
+from collections.abc import Sequence
 from dataclasses import dataclass
 from enum import Enum
-from typing import Any, Dict, Optional, Sequence
+from typing import Any
 
 from src.evaluation.program_trace import (
     compare_program_traces,
     normalized_program_equivalence,
 )
 from src.evaluation.reasoning import ReasoningEvaluationResult, TraceComparison
-from src.evidence.m5_schemas import ScaleUnitResolution, SchemaLinkResult
+from src.evidence.masking_schemas import ScaleUnitResolution, SchemaLinkResult
 from src.evidence.numeric_masking import NumericMaskingError, mask_numeric_evidence
 from src.evidence.schemas import EvidenceItem
 from src.evidence.value_binder import ValueBindingError, build_binding_map
@@ -30,7 +31,6 @@ from src.sandbox.schemas import (
 from src.supervisor.formula_registry import FORMULA_REGISTRY_FINGERPRINT
 from src.supervisor.schemas import Plan
 from src.understanding.schemas import SchemaValidationError
-
 
 ORACLE_REASONING_EVALUATION_SCHEMA_VERSION = "m6-oracle-reasoning-eval-v1"
 
@@ -75,10 +75,10 @@ class OracleReasoningCase:
     case_id: str
     plan: Plan
     oracle_evidence: Sequence[OracleEvidence]
-    expected_program: Optional[Program]
-    expected_output: Optional[ExecutionOutput]
-    expected_failure_stage: Optional[OracleReasoningFailureStage]
-    expected_failure_code: Optional[str]
+    expected_program: Program | None
+    expected_output: ExecutionOutput | None
+    expected_failure_stage: OracleReasoningFailureStage | None
+    expected_failure_code: str | None
 
     def __post_init__(self) -> None:
         if not isinstance(self.case_id, str) or not self.case_id:
@@ -135,14 +135,14 @@ class OracleReasoningCase:
 class OracleReasoningCaseResult:
     case_id: str
     reasoning_result: ReasoningEvaluationResult
-    actual_program_id: Optional[str]
+    actual_program_id: str | None
     execution_success: bool
-    actual_output: Optional[ExecutionOutput]
-    failure_stage: Optional[OracleReasoningFailureStage]
-    failure_code: Optional[str]
+    actual_output: ExecutionOutput | None
+    failure_stage: OracleReasoningFailureStage | None
+    failure_code: str | None
     passed: bool
 
-    def to_dict(self) -> Dict[str, Any]:
+    def to_dict(self) -> dict[str, Any]:
         return {
             "case_id": self.case_id,
             "reasoning_result": self.reasoning_result.to_dict(),
@@ -204,7 +204,7 @@ class OracleReasoningReport:
             self.case_count,
         )
 
-    def to_dict(self) -> Dict[str, Any]:
+    def to_dict(self) -> dict[str, Any]:
         trace_distribution = {
             comparison.value: sum(
                 item.reasoning_result.trace_comparison is comparison
@@ -236,7 +236,7 @@ class OracleReasoningReport:
 
 
 def outputs_equal(
-    expected: Optional[ExecutionOutput], actual: Optional[ExecutionOutput]
+    expected: ExecutionOutput | None, actual: ExecutionOutput | None
 ) -> bool:
     """Compare output kind, order, canonical decimal, scale, and unit exactly."""
     if expected is None or actual is None:
@@ -245,7 +245,7 @@ def outputs_equal(
 
 
 def _trace_comparison(
-    expected: Optional[Program], actual: Optional[Program]
+    expected: Program | None, actual: Program | None
 ) -> TraceComparison:
     if expected is None or actual is None:
         return (
@@ -296,10 +296,10 @@ def evaluate_oracle_reasoning_case(
     links = [item.schema_link for item in case.oracle_evidence]
     resolutions = [item.scale_resolution for item in case.oracle_evidence]
 
-    actual_program: Optional[Program] = None
-    actual_output: Optional[ExecutionOutput] = None
-    failure_stage: Optional[OracleReasoningFailureStage] = None
-    failure_code: Optional[str] = None
+    actual_program: Program | None = None
+    actual_output: ExecutionOutput | None = None
+    failure_stage: OracleReasoningFailureStage | None = None
+    failure_code: str | None = None
     execution_success = False
 
     try:

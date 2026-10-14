@@ -4,13 +4,13 @@ from unittest.mock import patch
 
 import pytest
 
-from src.evaluation.memory_experiment import FixtureProgrammerClient, run_memory_ablation, run_cheap_routing_experiment
+from src.evaluation.memory_experiment import FixtureProgrammerClient, run_cheap_routing_experiment, run_memory_ablation
 from src.evaluation.memory_fixtures import synthetic_training
 from src.memory.index import build_index, publish_index
 from src.orchestration.api_stages import APIProgrammer
 from src.supervisor.schemas import ModelTier
 from tests.memory.test_experience import FixtureEncoder
-from tests.programmer.helpers import lookup_programmer_input, average_programmer_input
+from tests.programmer.helpers import average_programmer_input, lookup_programmer_input
 
 
 class RecordingClient(FixtureProgrammerClient):

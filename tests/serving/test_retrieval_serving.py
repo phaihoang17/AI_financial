@@ -5,8 +5,8 @@ from src.retrieval.query_embedding import QueryEmbeddingError, embed_query_texts
 from src.retrieval.reranker import RerankerError, rerank_candidates
 from src.retrieval.schemas import RetrievalCandidate, RetrievalCompany, RetrievalQuery, make_candidate_id
 from src.serving.client import OpenAICompatibleClient
-from src.serving.schemas import ServingEndpoint, ServingError, ServingTask
 from src.serving.retrieval_serving import serving_bge_reranker, serving_query_encoder
+from src.serving.schemas import ServingEndpoint, ServingError, ServingTask
 from src.supervisor.schemas import EvidenceSource
 
 

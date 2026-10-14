@@ -5,12 +5,12 @@ from types import SimpleNamespace
 import unittest
 
 from src.retrieval.reranker import (
-    BGEReranker,
     BGE_RERANKER_MODEL_ID,
     BGE_RERANKER_REVISION,
     BGE_RERANKER_TOKENIZER_CLASS,
     RERANKER_CONFIG_FINGERPRINT,
     RERANKER_MAX_PAIR_TOKENS,
+    BGEReranker,
     RerankerError,
     load_bge_reranker,
     make_reranker_config_fingerprint,

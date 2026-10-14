@@ -2,11 +2,10 @@
 
 from __future__ import annotations
 
+from collections.abc import Sequence
 from dataclasses import replace
-from typing import Dict, List, Sequence
 
 from src.retrieval.schemas import RetrievalCandidate, RetrievalContractError, rank_candidates
-
 
 RRF_K = 60
 
@@ -21,7 +20,7 @@ def _validate_ranked_backend(
     if not isinstance(candidates, (list, tuple)):
         raise RRFFusionError("RRF_INPUT_INVALID", f"{backend} candidates must be a list")
     expected_ranks = list(range(1, len(candidates) + 1))
-    observed_ranks: List[int] = []
+    observed_ranks: list[int] = []
     candidate_ids = set()
     for candidate in candidates:
         if not isinstance(candidate, RetrievalCandidate):
@@ -54,7 +53,7 @@ def fuse_rrf(
     vector_candidates: Sequence[RetrievalCandidate],
     *,
     top_k: int,
-) -> List[RetrievalCandidate]:
+) -> list[RetrievalCandidate]:
     """Fuse two complete ranked backend lists using unweighted RRF with k=60."""
 
     if isinstance(top_k, bool) or not isinstance(top_k, int) or top_k < 1:
@@ -62,12 +61,9 @@ def fuse_rrf(
     _validate_ranked_backend(bm25_candidates, score_field="bm25_score", backend="bm25")
     _validate_ranked_backend(vector_candidates, score_field="vector_score", backend="vector")
 
-    merged: Dict[str, RetrievalCandidate] = {}
-    scores: Dict[str, float] = {}
-    for candidates, score_field in (
-        (bm25_candidates, "bm25_score"),
-        (vector_candidates, "vector_score"),
-    ):
+    merged: dict[str, RetrievalCandidate] = {}
+    scores: dict[str, float] = {}
+    for candidates in (bm25_candidates, vector_candidates):
         for candidate in candidates:
             existing = merged.get(candidate.candidate_id)
             if existing is None:

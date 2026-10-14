@@ -21,11 +21,12 @@ keep the case out of the approved set until the gold is rebuilt or fixed.
 from __future__ import annotations
 
 import argparse
-from datetime import datetime, timezone
+from collections.abc import Callable, Iterable, Mapping, Sequence
+from datetime import UTC, datetime
 from decimal import Decimal
 import json
 from pathlib import Path
-from typing import Any, Callable, Dict, Iterable, List, Mapping, Optional, Sequence
+from typing import Any
 
 from src.indexing.document_parser import parse_document
 from src.indexing.provenance_sidecar import _source_from_inventory
@@ -51,7 +52,7 @@ def _vnd(value: str) -> str:
     return f"{number:,.0f}".replace(",", ".") if number == number.to_integral() else str(number)
 
 
-def _row_cells(document: Any, cell_ids: Sequence[str]) -> List[Dict[str, Any]]:
+def _row_cells(document: Any, cell_ids: Sequence[str]) -> list[dict[str, Any]]:
     rows = []
     for page in document.pages:
         for table in page.tables:
@@ -66,13 +67,13 @@ def _row_cells(document: Any, cell_ids: Sequence[str]) -> List[Dict[str, Any]]:
     return rows
 
 
-def build_packet(root: Path, split: str, corpus: Path, raw_root: Path) -> List[Dict[str, Any]]:
+def build_packet(root: Path, split: str, corpus: Path, raw_root: Path) -> list[dict[str, Any]]:
     manifest = json.loads((corpus / "manifest.json").read_text(encoding="utf-8"))
     reports = {report["report_id"]: report for report in manifest["reports"]}
     audit = json.loads((root / split / "audit.json").read_text(encoding="utf-8"))
     gold = {json.loads(line)["question_id"]: json.loads(line)
             for line in (root / split / "gold.jsonl").read_text(encoding="utf-8").splitlines() if line.strip()}
-    documents: Dict[str, Any] = {}
+    documents: dict[str, Any] = {}
     packet = []
     for case in audit["cases"]:
         sources = []
@@ -95,8 +96,8 @@ def build_packet(root: Path, split: str, corpus: Path, raw_root: Path) -> List[D
     return packet
 
 
-def load_decisions(path: Path) -> Dict[str, Dict[str, Any]]:
-    latest: Dict[str, Dict[str, Any]] = {}
+def load_decisions(path: Path) -> dict[str, dict[str, Any]]:
+    latest: dict[str, dict[str, Any]] = {}
     if path.is_file():
         for line in path.read_text(encoding="utf-8").splitlines():
             if line.strip():
@@ -106,7 +107,7 @@ def load_decisions(path: Path) -> Dict[str, Dict[str, Any]]:
 
 
 def record_decision(path: Path, question_id: str, decision: str, reviewer: str, *, note: str = "",
-                    corrected_value: Optional[str] = None, now: Optional[str] = None) -> Dict[str, Any]:
+                    corrected_value: str | None = None, now: str | None = None) -> dict[str, Any]:
     if decision not in DECISIONS:
         raise ValueError(f"decision must be one of {DECISIONS}")
     if not reviewer.strip():
@@ -115,14 +116,14 @@ def record_decision(path: Path, question_id: str, decision: str, reviewer: str, 
         raise ValueError("CORRECT needs the corrected value")
     row = {"question_id": question_id, "decision": decision, "reviewer": reviewer.strip(), "note": note,
            "corrected_value": corrected_value,
-           "reviewed_at": now or datetime.now(timezone.utc).isoformat(timespec="seconds")}
+           "reviewed_at": now or datetime.now(UTC).isoformat(timespec="seconds")}
     path.parent.mkdir(parents=True, exist_ok=True)
     with path.open("a", encoding="utf-8") as handle:
         handle.write(json.dumps(row, ensure_ascii=False) + "\n")
     return row
 
 
-def summarize(root: Path, splits: Iterable[str] = SPLITS) -> Dict[str, Any]:
+def summarize(root: Path, splits: Iterable[str] = SPLITS) -> dict[str, Any]:
     ids = [json.loads(line)["question_id"] for split in splits if (root / split / "gold.jsonl").is_file()
            for line in (root / split / "gold.jsonl").read_text(encoding="utf-8").splitlines() if line.strip()]
     decisions = load_decisions(root / "review" / "decisions.jsonl")
@@ -217,7 +218,7 @@ def interactive(root: Path, reviewer: str, ask: Callable[[str], str] = input, sh
     return count
 
 
-def main(argv: Optional[Sequence[str]] = None) -> int:
+def main(argv: Sequence[str] | None = None) -> int:
     parser = argparse.ArgumentParser(description=__doc__.splitlines()[0])
     sub = parser.add_subparsers(dest="command", required=True)
     packet = sub.add_parser("packet")

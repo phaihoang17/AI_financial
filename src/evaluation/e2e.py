@@ -2,24 +2,22 @@
 
 from __future__ import annotations
 
+from collections.abc import Callable, Sequence
 from dataclasses import dataclass
-from typing import Callable, Optional, Sequence
 
-from src.evaluation.harness import EvaluationFailureStage
 from src.orchestration.graph import OrchestrationGraph
 from src.orchestration.schemas import (
     FailureAttribution,
     FinalAnswer,
     FinalResponseStatus,
 )
-from src.orchestration.state import M9State
+from src.orchestration.state import OrchestrationState
 from src.programmer.schemas import Program
 from src.retrieval.evidence import EvidenceCompletenessResult
 from src.sandbox.schemas import ExecutionFailureStage, ExecutionOutput
 from src.supervisor.schemas import Plan
 from src.understanding.schemas import QueryUnderstanding, SchemaValidationError
 from src.verification.schemas import VerificationFailureCategory
-
 
 E2E_EVALUATION_SCHEMA_VERSION = "m9-retrieved-evidence-e2e-v1"
 PRODUCTION_TABLE_E2E_STATUS = "BLOCKED"
@@ -29,9 +27,9 @@ PRODUCTION_TABLE_E2E_BLOCKER = "PRODUCTION_TABLE_CLASS_PROVENANCE_PENDING"
 @dataclass(frozen=True)
 class ExecutionExpectation:
     success: bool
-    output: Optional[ExecutionOutput]
-    failure_stage: Optional[ExecutionFailureStage]
-    failure_code: Optional[str]
+    output: ExecutionOutput | None
+    failure_stage: ExecutionFailureStage | None
+    failure_code: str | None
 
     def __post_init__(self) -> None:
         if not isinstance(self.success, bool):
@@ -59,8 +57,8 @@ class ExecutionExpectation:
 @dataclass(frozen=True)
 class VerificationExpectation:
     passed: bool
-    failure_category: Optional[VerificationFailureCategory]
-    failure_code: Optional[str]
+    failure_category: VerificationFailureCategory | None
+    failure_code: str | None
 
     def __post_init__(self) -> None:
         if not isinstance(self.passed, bool):
@@ -78,17 +76,17 @@ class RetrievedEvidenceE2ECase:
     case_id: str
     raw_question: str
     graph_factory: Callable[[], OrchestrationGraph]
-    expected_nlu: Optional[QueryUnderstanding]
-    expected_plan: Optional[Plan]
-    expected_evidence: Optional[EvidenceCompletenessResult]
-    expected_program: Optional[Program]
-    expected_execution: Optional[ExecutionExpectation]
-    expected_verification: Optional[VerificationExpectation]
+    expected_nlu: QueryUnderstanding | None
+    expected_plan: Plan | None
+    expected_evidence: EvidenceCompletenessResult | None
+    expected_program: Program | None
+    expected_execution: ExecutionExpectation | None
+    expected_verification: VerificationExpectation | None
     expected_status: FinalResponseStatus
-    expected_answer: Optional[FinalAnswer]
-    expected_retries_used: Optional[int]
+    expected_answer: FinalAnswer | None
+    expected_retries_used: int | None
     expected_strong_escalated: bool
-    expected_failure_attribution: Optional[FailureAttribution]
+    expected_failure_attribution: FailureAttribution | None
 
     def __post_init__(self) -> None:
         if not isinstance(self.case_id, str) or not self.case_id:
@@ -123,9 +121,9 @@ class RetrievedEvidenceE2ECaseResult:
     escalation_correct: bool
     failure_attribution_correct: bool
     final_status: FinalResponseStatus
-    retries_used: Optional[int]
+    retries_used: int | None
     strong_escalated: bool
-    terminal_failure: Optional[FailureAttribution]
+    terminal_failure: FailureAttribution | None
 
     @property
     def passed(self) -> bool:
@@ -177,7 +175,7 @@ def _contract_equal(expected, actual) -> bool:
     return expected.to_dict() == actual.to_dict()
 
 
-def _execution_correct(expected: Optional[ExecutionExpectation], actual) -> bool:
+def _execution_correct(expected: ExecutionExpectation | None, actual) -> bool:
     if expected is None or actual is None:
         return expected is actual
     if expected.success != actual.success:
@@ -197,7 +195,7 @@ def _execution_correct(expected: Optional[ExecutionExpectation], actual) -> bool
 
 
 def _verification_correct(
-    expected: Optional[VerificationExpectation], actual
+    expected: VerificationExpectation | None, actual
 ) -> bool:
     if expected is None or actual is None:
         return expected is actual
@@ -211,7 +209,7 @@ def _verification_correct(
 def evaluate_e2e_case(case: RetrievedEvidenceE2ECase) -> RetrievedEvidenceE2ECaseResult:
     if not isinstance(case, RetrievedEvidenceE2ECase):
         raise SchemaValidationError("case must be RetrievedEvidenceE2ECase")
-    state: M9State = case.graph_factory().run(
+    state: OrchestrationState = case.graph_factory().run(
         request_id=f"e2e-{case.case_id}", raw_question=case.raw_question
     ).state
     attempt = None if not state.attempts else state.attempts[-1]
@@ -261,7 +259,7 @@ def evaluate_e2e_case(case: RetrievedEvidenceE2ECase) -> RetrievedEvidenceE2ECas
 class RetrievedEvidenceE2EReport:
     case_results: tuple[RetrievedEvidenceE2ECaseResult, ...]
     expected_statuses: tuple[FinalResponseStatus, ...]
-    expected_retries_used: tuple[Optional[int], ...]
+    expected_retries_used: tuple[int | None, ...]
 
     @staticmethod
     def _rate(values: Sequence[bool]) -> float:

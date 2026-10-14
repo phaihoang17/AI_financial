@@ -6,15 +6,15 @@ Measurement only: retry/escalation routing stays in the deterministic M8 engine.
 from __future__ import annotations
 
 import argparse
+from collections.abc import Sequence
 import json
-from typing import Optional, Sequence
 
 from src.evaluation.e2e import evaluate_e2e_cases
 from src.evaluation.e2e_fixtures import e2e_fixture_cases
 from src.evaluation.retry_metrics import retry_escalation_metrics
 
 
-def main(argv: Optional[Sequence[str]] = None) -> int:
+def main(argv: Sequence[str] | None = None) -> int:
     parser = argparse.ArgumentParser()
     parser.add_argument("--mode", choices=("fixture",), default="fixture")
     parser.parse_args(argv)

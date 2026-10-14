@@ -2,10 +2,10 @@
 
 from __future__ import annotations
 
+from collections.abc import Sequence
 from dataclasses import dataclass, replace
 from hashlib import sha256
 import json
-from typing import Sequence
 
 from src.evaluation.e2e import (
     ExecutionExpectation,
@@ -27,9 +27,9 @@ from src.indexing.schemas import (
     SourceSpan,
 )
 from src.orchestration.answer_builder import build_final_answer
-from src.orchestration.nodes import OrchestrationDependencies
 from src.orchestration.execution_routing import build_execution_directive
 from src.orchestration.graph import OrchestrationGraph
+from src.orchestration.nodes import OrchestrationDependencies
 from src.orchestration.ports import NLUStageOutput, RetrievalArtifacts
 from src.orchestration.schemas import FailureAttribution, FinalResponseStatus
 from src.programmer.generator import generate_program
@@ -61,7 +61,7 @@ from src.sandbox.schemas import (
 )
 from src.sandbox.security import SecurityFailureCode
 from src.supervisor.formula_registry import FORMULA_REGISTRY_FINGERPRINT
-from src.supervisor.planner import supervise_batch1
+from src.supervisor.planner import supervise
 from src.supervisor.schemas import EvidenceSource, ModelTier, TableClass
 from src.understanding.planning_gate import FindingName, PlanningGate
 from src.understanding.schemas import (
@@ -80,7 +80,6 @@ from src.verification.schemas import (
     VerificationRequest,
 )
 from src.verification.verifier import verify
-
 
 ARTIFACT_VERSIONS = {
     "bm25": "fixture-bm25-v1",
@@ -330,7 +329,7 @@ class _OracleArtifacts:
 
 def _oracle_artifacts(understanding, pairs, *, output_variant="success"):
     gate = PlanningGate(True, [], [])
-    plan = supervise_batch1(understanding, gate).plan
+    plan = supervise(understanding, gate).plan
     assert plan is not None
     evidence = [item for item, _ in pairs]
     locations = [location for _, location in pairs]
@@ -478,7 +477,6 @@ def e2e_fixture_cases() -> list[RetrievedEvidenceE2ECase]:
         )
     )
 
-    retrieval_retry = fixture_understanding("retrieval-retry", ("2015",))
     good = fixture_pairs(("2015",), ("12.5",))
     bad = tuple(
         (replace(item, report_year=2014), replace(location, report_year=2014))

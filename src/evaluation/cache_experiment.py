@@ -13,15 +13,14 @@ quality measurement require the retrieval models and remain
 
 from __future__ import annotations
 
+from collections.abc import Sequence
 from dataclasses import dataclass
-from typing import List, Optional, Sequence, Tuple
 
 from src.evaluation.e2e import RetrievedEvidenceE2ECase
 from src.evaluation.e2e_fixtures import e2e_fixture_cases
 from src.orchestration.schemas import FinalResponse, FinalResponseStatus, make_plan_fingerprint
 from src.orchestration.semantic_cache import CacheKeyPolicy, SemanticCache
 from src.understanding.schemas import QueryUnderstanding, SchemaValidationError
-
 
 CACHE_EXPERIMENT_SCHEMA_VERSION = "m10-semantic-cache-experiment-v1"
 MEASUREMENT_STATUS = "FIXTURE_STRUCTURE"
@@ -64,7 +63,7 @@ class CachePolicyResult:
     stored: int
     warm_hits: int
     correctness_regressions: int
-    hit_rate: Optional[float]
+    hit_rate: float | None
 
     def to_dict(self) -> dict:
         return {
@@ -115,7 +114,7 @@ def _evaluate_policy(policy: CacheKeyPolicy, outcomes: Sequence[_CaseOutcome]) -
 
 @dataclass(frozen=True)
 class CacheExperimentReport:
-    policy_results: Tuple[CachePolicyResult, ...]
+    policy_results: tuple[CachePolicyResult, ...]
     total_cases: int
 
     @property
@@ -134,9 +133,9 @@ class CacheExperimentReport:
 
 
 def run_cache_experiment(
-    cases: Optional[Sequence[RetrievedEvidenceE2ECase]] = None,
+    cases: Sequence[RetrievedEvidenceE2ECase] | None = None,
 ) -> CacheExperimentReport:
     selected = list(e2e_fixture_cases() if cases is None else cases)
-    outcomes: List[_CaseOutcome] = [_run_case(case) for case in selected]
+    outcomes: list[_CaseOutcome] = [_run_case(case) for case in selected]
     results = tuple(_evaluate_policy(policy, outcomes) for policy in _EXPERIMENT_POLICIES)
     return CacheExperimentReport(policy_results=results, total_cases=len(outcomes))

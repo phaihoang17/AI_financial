@@ -2,11 +2,12 @@
 
 from __future__ import annotations
 
+from collections.abc import Sequence
 from dataclasses import dataclass
 from enum import Enum
-from typing import Any, Dict, List, Optional, Sequence, Tuple
+from typing import Any
 
-from src.supervisor.planner import supervise_batch1
+from src.supervisor.planner import supervise
 from src.supervisor.schemas import (
     EvidenceSource,
     ModelTier,
@@ -31,7 +32,6 @@ from src.understanding.schemas import (
     _require_string,
 )
 
-
 SUPERVISOR_EVALUATION_VERSION = 1
 
 
@@ -50,7 +50,7 @@ class SupervisorField(str, Enum):
     VERIFY_PROFILE = "verify_profile"
 
 
-_FIELD_ORDER: Tuple[SupervisorField, ...] = tuple(SupervisorField)
+_FIELD_ORDER: tuple[SupervisorField, ...] = tuple(SupervisorField)
 
 
 def _require_non_empty_string(value: Any, path: str) -> str:
@@ -66,7 +66,7 @@ def _require_version(value: Any) -> int:
     return value
 
 
-def _require_string_list(value: Any, path: str) -> List[str]:
+def _require_string_list(value: Any, path: str) -> list[str]:
     if not isinstance(value, list):
         raise SchemaValidationError(f"{path} must be a list")
     result = [_require_string(item, f"{path}[{index}]") for index, item in enumerate(value)]
@@ -92,9 +92,9 @@ class ExpectedRetrievalRequirement:
     """RetrievalRequirement expectation without its derived identity field."""
 
     source_type: EvidenceSource
-    table_class: Optional[TableClass]
-    metric: Optional[str]
-    period: Optional[str]
+    table_class: TableClass | None
+    metric: str | None
+    period: str | None
     required: bool
 
     def __post_init__(self) -> None:
@@ -126,7 +126,7 @@ class ExpectedRetrievalRequirement:
     @classmethod
     def from_requirement(
         cls, requirement: RetrievalRequirement
-    ) -> "ExpectedRetrievalRequirement":
+    ) -> ExpectedRetrievalRequirement:
         if not isinstance(requirement, RetrievalRequirement):
             raise SchemaValidationError(
                 "requirement must be a RetrievalRequirement"
@@ -140,7 +140,7 @@ class ExpectedRetrievalRequirement:
         )
 
     @classmethod
-    def from_dict(cls, value: Any) -> "ExpectedRetrievalRequirement":
+    def from_dict(cls, value: Any) -> ExpectedRetrievalRequirement:
         data = _require_mapping(value, "ExpectedRetrievalRequirement")
         _require_exact_keys(
             data,
@@ -162,7 +162,7 @@ class ExpectedRetrievalRequirement:
             required=data["required"],
         )
 
-    def to_dict(self) -> Dict[str, Any]:
+    def to_dict(self) -> dict[str, Any]:
         return {
             "source_type": self.source_type.value,
             "table_class": (
@@ -179,18 +179,18 @@ class ExpectedSupervisorResult:
     """Typed value stored under SupervisorEvaluationCase.expected."""
 
     abstain: bool
-    abstain_reason: Optional[SupervisorAbstainReason]
-    question_type: Optional[QuestionType]
-    reasoning_mode: Optional[ReasoningMode]
-    formula_id: Optional[str]
-    target_metrics: List[str]
-    periods: List[str]
-    tables_needed: List[TableClass]
-    evidence_sources: List[EvidenceSource]
-    retrieval_requirements: List[ExpectedRetrievalRequirement]
-    requires_scale_resolution: Optional[bool]
-    model_tier: Optional[ModelTier]
-    verify_profile: Optional[VerifyProfile]
+    abstain_reason: SupervisorAbstainReason | None
+    question_type: QuestionType | None
+    reasoning_mode: ReasoningMode | None
+    formula_id: str | None
+    target_metrics: list[str]
+    periods: list[str]
+    tables_needed: list[TableClass]
+    evidence_sources: list[EvidenceSource]
+    retrieval_requirements: list[ExpectedRetrievalRequirement]
+    requires_scale_resolution: bool | None
+    model_tier: ModelTier | None
+    verify_profile: VerifyProfile | None
 
     def __post_init__(self) -> None:
         self.abstain = _require_bool(self.abstain, "expected.abstain")
@@ -286,7 +286,7 @@ class ExpectedSupervisorResult:
     @classmethod
     def abstention(
         cls, reason: SupervisorAbstainReason
-    ) -> "ExpectedSupervisorResult":
+    ) -> ExpectedSupervisorResult:
         return cls(
             abstain=True,
             abstain_reason=reason,
@@ -304,7 +304,7 @@ class ExpectedSupervisorResult:
         )
 
     @classmethod
-    def from_dict(cls, value: Any) -> "ExpectedSupervisorResult":
+    def from_dict(cls, value: Any) -> ExpectedSupervisorResult:
         data = _require_mapping(value, "expected")
         _require_exact_keys(
             data,
@@ -397,7 +397,7 @@ class ExpectedSupervisorResult:
             ),
         )
 
-    def to_dict(self) -> Dict[str, Any]:
+    def to_dict(self) -> dict[str, Any]:
         return {
             "abstain": self.abstain,
             "abstain_reason": (
@@ -450,7 +450,7 @@ class SupervisorEvaluationCase:
             )
 
     @classmethod
-    def from_dict(cls, value: Any) -> "SupervisorEvaluationCase":
+    def from_dict(cls, value: Any) -> SupervisorEvaluationCase:
         data = _require_mapping(value, "SupervisorEvaluationCase")
         _require_exact_keys(
             data,
@@ -473,7 +473,7 @@ class SupervisorEvaluationCase:
             expected=ExpectedSupervisorResult.from_dict(data["expected"]),
         )
 
-    def to_dict(self) -> Dict[str, Any]:
+    def to_dict(self) -> dict[str, Any]:
         return {
             "case_id": self.case_id,
             "version": self.version,
@@ -495,7 +495,7 @@ class SupervisorFieldComparison:
         object.__setattr__(self, "matches", _require_bool(self.matches, "matches"))
 
     @classmethod
-    def from_dict(cls, value: Any) -> "SupervisorFieldComparison":
+    def from_dict(cls, value: Any) -> SupervisorFieldComparison:
         data = _require_mapping(value, "SupervisorFieldComparison")
         _require_exact_keys(
             data, {"field", "matches"}, "SupervisorFieldComparison"
@@ -505,7 +505,7 @@ class SupervisorFieldComparison:
             matches=data["matches"],
         )
 
-    def to_dict(self) -> Dict[str, Any]:
+    def to_dict(self) -> dict[str, Any]:
         return {"field": self.field.value, "matches": self.matches}
 
 
@@ -592,7 +592,7 @@ def _field_matches(
 
 def _expected_comparisons(
     case: SupervisorEvaluationCase, actual: SupervisorResult
-) -> List[SupervisorFieldComparison]:
+) -> list[SupervisorFieldComparison]:
     return [
         SupervisorFieldComparison(field, _field_matches(case, actual, field))
         for field in _FIELD_ORDER
@@ -603,7 +603,7 @@ def _expected_comparisons(
 class SupervisorEvaluationCaseResult:
     case: SupervisorEvaluationCase
     actual: SupervisorResult
-    field_comparisons: List[SupervisorFieldComparison]
+    field_comparisons: list[SupervisorFieldComparison]
     passed: bool
 
     def __post_init__(self) -> None:
@@ -637,7 +637,7 @@ class SupervisorEvaluationCaseResult:
             )
 
     @classmethod
-    def from_dict(cls, value: Any) -> "SupervisorEvaluationCaseResult":
+    def from_dict(cls, value: Any) -> SupervisorEvaluationCaseResult:
         data = _require_mapping(value, "SupervisorEvaluationCaseResult")
         _require_exact_keys(
             data,
@@ -656,7 +656,7 @@ class SupervisorEvaluationCaseResult:
             passed=data["passed"],
         )
 
-    def to_dict(self) -> Dict[str, Any]:
+    def to_dict(self) -> dict[str, Any]:
         return {
             "case": self.case.to_dict(),
             "actual": self.actual.to_dict(),
@@ -669,7 +669,7 @@ class SupervisorEvaluationCaseResult:
 
 @dataclass(frozen=True)
 class SupervisorEvaluationReport:
-    results: Tuple[SupervisorEvaluationCaseResult, ...]
+    results: tuple[SupervisorEvaluationCaseResult, ...]
 
     def __post_init__(self) -> None:
         if not self.results or not all(
@@ -700,7 +700,7 @@ class SupervisorEvaluationReport:
         return self.passed_count / self.case_count
 
     @property
-    def per_field_accuracy(self) -> Dict[str, float]:
+    def per_field_accuracy(self) -> dict[str, float]:
         return {
             field.value: sum(
                 comparison.matches
@@ -728,7 +728,7 @@ class SupervisorEvaluationReport:
         true_positive = sum(item.actual.abstain for item in expected)
         return true_positive / len(expected)
 
-    def to_dict(self) -> Dict[str, Any]:
+    def to_dict(self) -> dict[str, Any]:
         return {
             "case_count": self.case_count,
             "passed_count": self.passed_count,
@@ -764,7 +764,7 @@ def evaluate_supervisor_case(
     """Run only the deterministic Supervisor and compare its structured result."""
     if not isinstance(case, SupervisorEvaluationCase):
         raise SchemaValidationError("case must be a SupervisorEvaluationCase")
-    actual = supervise_batch1(case.query_understanding, case.planning_gate)
+    actual = supervise(case.query_understanding, case.planning_gate)
     return compare_supervisor_case(case, actual)
 
 

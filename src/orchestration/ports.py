@@ -6,13 +6,14 @@ LangGraph nodes, routing decisions, retries, or business logic.
 
 from __future__ import annotations
 
+from collections.abc import Mapping, Sequence
 from dataclasses import dataclass, field
 from hashlib import sha256
 import json
 from types import MappingProxyType
-from typing import Any, Dict, Mapping, Protocol, Sequence, runtime_checkable
+from typing import Any, Protocol, runtime_checkable
 
-from src.evidence.m5_schemas import BindingMap
+from src.evidence.masking_schemas import BindingMap
 from src.evidence.schemas import EvidenceItem
 from src.orchestration.schemas import (
     make_plan_fingerprint,
@@ -21,9 +22,9 @@ from src.orchestration.schemas import (
 from src.programmer.schemas import ProgrammerInput, ProgrammerResult
 from src.retrieval.evidence import CellLocation, EvidenceCompletenessResult
 from src.retrieval.schemas import (
-    RetrievedScaleUnitHint,
     RetrievalCandidate,
     RetrievalQuery,
+    RetrievedScaleUnitHint,
 )
 from src.sandbox.schemas import ExecutionResult, SandboxExecutionRequest
 from src.supervisor.schemas import ModelTier, Plan
@@ -68,14 +69,14 @@ class NLUStageOutput:
             PlanningGate.from_dict(self.planning_gate.to_dict()),
         )
 
-    def to_dict(self) -> Dict[str, Any]:
+    def to_dict(self) -> dict[str, Any]:
         return {
             "query_understanding": self.query_understanding.to_dict(),
             "planning_gate": self.planning_gate.to_dict(),
         }
 
     @classmethod
-    def from_dict(cls, value: Any) -> "NLUStageOutput":
+    def from_dict(cls, value: Any) -> NLUStageOutput:
         if not isinstance(value, Mapping):
             raise SchemaValidationError("NLUStageOutput must be an object")
         expected = {"query_understanding", "planning_gate"}

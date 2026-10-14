@@ -2,10 +2,10 @@
 
 from __future__ import annotations
 
+from collections.abc import Mapping, Sequence
 from enum import Enum
-from typing import Dict, List, Mapping, Sequence
 
-from src.evidence.m5_schemas import (
+from src.evidence.masking_schemas import (
     MaskedEvidence,
     MaskedEvidenceBundle,
     ScaleUnitResolution,
@@ -42,12 +42,12 @@ class NumericMaskingError(SchemaValidationError):
         super().__init__(f"{code.value}: {message}")
 
 
-def _evidence_index(evidence: Sequence[EvidenceItem]) -> Dict[str, EvidenceItem]:
+def _evidence_index(evidence: Sequence[EvidenceItem]) -> dict[str, EvidenceItem]:
     if not isinstance(evidence, (list, tuple)) or not all(
         isinstance(item, EvidenceItem) for item in evidence
     ):
         raise SchemaValidationError("evidence must contain EvidenceItem values")
-    result: Dict[str, EvidenceItem] = {}
+    result: dict[str, EvidenceItem] = {}
     for item in evidence:
         existing = result.get(item.evidence_id)
         if existing is not None and existing.to_dict() != item.to_dict():
@@ -61,14 +61,14 @@ def _evidence_index(evidence: Sequence[EvidenceItem]) -> Dict[str, EvidenceItem]
 
 def _scale_index(
     resolutions: Sequence[ScaleUnitResolution],
-) -> Dict[str, ScaleUnitResolution]:
+) -> dict[str, ScaleUnitResolution]:
     if not isinstance(resolutions, (list, tuple)) or not all(
         isinstance(item, ScaleUnitResolution) for item in resolutions
     ):
         raise SchemaValidationError(
             "scale_resolutions must contain ScaleUnitResolution values"
         )
-    result: Dict[str, ScaleUnitResolution] = {}
+    result: dict[str, ScaleUnitResolution] = {}
     for item in resolutions:
         existing = result.get(item.evidence_id)
         if existing is not None and existing.to_dict() != item.to_dict():
@@ -132,7 +132,7 @@ def mask_numeric_evidence(
         requirement.requirement_id: requirement
         for requirement in plan.retrieval_requirements
     }
-    links_by_requirement: Dict[str, List[SchemaLinkResult]] = {}
+    links_by_requirement: dict[str, list[SchemaLinkResult]] = {}
     for link in schema_links:
         if link.requirement_id not in requirements_by_id:
             raise NumericMaskingError(
@@ -141,7 +141,7 @@ def mask_numeric_evidence(
             )
         links_by_requirement.setdefault(link.requirement_id, []).append(link)
 
-    masked: List[MaskedEvidence] = []
+    masked: list[MaskedEvidence] = []
     for requirement in plan.retrieval_requirements:
         links = links_by_requirement.get(requirement.requirement_id, [])
         ambiguous = [

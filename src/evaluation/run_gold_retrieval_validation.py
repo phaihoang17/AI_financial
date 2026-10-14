@@ -17,9 +17,10 @@ Exit code is 0 only when the gold file has zero ERROR-severity issues.
 from __future__ import annotations
 
 import argparse
+from collections.abc import Sequence
 import json
 from pathlib import Path
-from typing import Any, List, Optional, Sequence
+from typing import Any
 
 from src.evaluation.corpus_reference_index import (
     CorpusReferenceIndexError,
@@ -33,8 +34,8 @@ from src.evaluation.gold_retrieval import (
 )
 
 
-def _load_jsonl(path: str | Path) -> List[dict]:
-    rows: List[dict] = []
+def _load_jsonl(path: str | Path) -> list[dict]:
+    rows: list[dict] = []
     for line in Path(path).read_text(encoding="utf-8").splitlines():
         line = line.strip()
         if not line or line.startswith("//"):
@@ -43,7 +44,7 @@ def _load_jsonl(path: str | Path) -> List[dict]:
     return rows
 
 
-def main(argv: Optional[Sequence[str]] = None) -> int:
+def main(argv: Sequence[str] | None = None) -> int:
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument("--corpus-artifact", required=True)
     parser.add_argument("--gold", default=None, help="gold annotation JSONL to validate")

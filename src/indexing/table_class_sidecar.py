@@ -27,6 +27,7 @@ is not consulted here.
 
 from __future__ import annotations
 
+from collections.abc import Mapping, Sequence
 from dataclasses import dataclass
 from hashlib import sha256
 import json
@@ -35,8 +36,8 @@ from pathlib import Path
 import re
 import shutil
 import sqlite3
+from typing import Any
 import unicodedata
-from typing import Any, Dict, List, Mapping, Optional, Sequence, Tuple
 
 from src.indexing.corpus_artifact import CORPUS_ARTIFACT_SCHEMA_VERSION
 from src.indexing.document_parser import parse_document
@@ -61,11 +62,12 @@ from src.indexing.schemas import (
     SourceSpan,
     SourceTable,
     TableParseStatus,
+    _require_exact_keys,
+    _require_mapping,
+    _require_string,
 )
-from src.indexing.schemas import _require_exact_keys, _require_mapping, _require_string
-from src.understanding.schemas import SchemaValidationError
 from src.supervisor.schemas import TableClass
-
+from src.understanding.schemas import SchemaValidationError
 
 TABLE_CLASS_SIDECAR_SCHEMA_VERSION = "m2-table-class-sidecar-v1"
 TABLE_CLASS_SIDECAR_BUILD_VERSION = "m2-table-class-sidecar-build-v1"
@@ -78,8 +80,8 @@ PRECEDING_CONTEXT_WINDOW_CHARS = 1200
 MAX_TOKEN_GAP_CHARS = 8
 
 _LETTER_OR_DIGIT = "0-9A-Za-zÀ-ỹ̀-ͯ"
-_GAP = r"[^%s]{0,%d}" % (_LETTER_OR_DIGIT, MAX_TOKEN_GAP_CHARS)
-_TOKEN = re.compile(r"[%s]+" % _LETTER_OR_DIGIT)
+_GAP = rf"[^{_LETTER_OR_DIGIT}]{{0,{MAX_TOKEN_GAP_CHARS}}}"
+_TOKEN = re.compile(rf"[{_LETTER_OR_DIGIT}]+")
 
 
 class TableClassSidecarError(RuntimeError):
@@ -123,13 +125,13 @@ class TableClassRegistryEntry:
         if not tokens:
             raise SchemaValidationError("entry.literal must contain a token")
         pattern = (
-            r"(?<![%s])" % _LETTER_OR_DIGIT
+            rf"(?<![{_LETTER_OR_DIGIT}])"
             + _GAP.join(re.escape(token) for token in tokens)
-            + r"(?![%s])" % _LETTER_OR_DIGIT
+            + rf"(?![{_LETTER_OR_DIGIT}])"
         )
         object.__setattr__(self, "_regex", re.compile(pattern, re.IGNORECASE))
 
-    def search(self, text: str) -> Optional[re.Match]:
+    def search(self, text: str) -> re.Match | None:
         return self._regex.search(_fold(text))
 
 
@@ -140,7 +142,7 @@ class TableClassRegistryEntry:
 # spaced OCR forms "B 02 – DN/HN". Credit institutions (Thông tư 49) number their
 # statements B02 (balance sheet) to B05 (notes) with a "/TCTD" suffix and title the
 # income statement "Báo cáo kết quả hoạt động (kinh doanh)".
-TABLE_CLASS_REGISTRY: Tuple[TableClassRegistryEntry, ...] = (
+TABLE_CLASS_REGISTRY: tuple[TableClassRegistryEntry, ...] = (
     TableClassRegistryEntry("BALANCE_SHEET::B01-DN", TableClass.BALANCE_SHEET, "B 01-DN"),
     TableClassRegistryEntry("BALANCE_SHEET::B01-DN/HN", TableClass.BALANCE_SHEET, "B 01-DN/HN"),
     TableClassRegistryEntry("BALANCE_SHEET::B02/TCTD", TableClass.BALANCE_SHEET, "B 02/TCTD"),
@@ -249,7 +251,7 @@ class TableClassHint:
         if self.hint_id != expected:
             raise SchemaValidationError("hint_id does not match the canonical hint payload")
 
-    def to_dict(self) -> Dict[str, Any]:
+    def to_dict(self) -> dict[str, Any]:
         return {
             "hint_id": self.hint_id,
             "report_id": self.report_id,
@@ -265,7 +267,7 @@ class TableClassHint:
         }
 
     @classmethod
-    def from_dict(cls, value: Any) -> "TableClassHint":
+    def from_dict(cls, value: Any) -> TableClassHint:
         data = _require_mapping(value, "TableClassHint")
         _require_exact_keys(
             data,
@@ -333,7 +335,7 @@ class _EntryMatch:
     text: str
 
 
-def _preceding_window_bounds(page: Page, table: SourceTable) -> Tuple[int, int]:
+def _preceding_window_bounds(page: Page, table: SourceTable) -> tuple[int, int]:
     """Same-page preceding window, clamped past the previous table on the page."""
 
     window_end = table.source_span.start
@@ -347,13 +349,13 @@ def _preceding_window_bounds(page: Page, table: SourceTable) -> Tuple[int, int]:
 
 def _match_entries(
     raw_text: str, window_start: int, window_end: int
-) -> List[_EntryMatch]:
+) -> list[_EntryMatch]:
     raw_window = raw_text[window_start:window_end]
     norm_window = _nfkc(raw_window)
     # Only search the normalised window when normalisation preserved offsets, so
     # every recorded span still indexes the raw source text exactly.
     haystack = norm_window if len(norm_window) == len(raw_window) else raw_window
-    matches: List[_EntryMatch] = []
+    matches: list[_EntryMatch] = []
     for entry in TABLE_CLASS_REGISTRY:
         found = entry.search(haystack)
         if found is None:
@@ -371,7 +373,7 @@ def _match_entries(
 
 def classify_table(
     report_id: str, raw_text: str, page: Page, table: SourceTable
-) -> Optional[TableClassHint]:
+) -> TableClassHint | None:
     """Return a conservative source-backed hint, or ``None`` when ambiguous."""
 
     if table.parse_status is TableParseStatus.UNPARSEABLE:
@@ -414,11 +416,11 @@ def classify_table(
     )
 
 
-def classify_report(source: Any) -> List[TableClassHint]:
+def classify_report(source: Any) -> list[TableClassHint]:
     """Deterministically classify every parseable table in one report."""
 
     document = parse_document(source)
-    hints: List[TableClassHint] = []
+    hints: list[TableClassHint] = []
     for page in document.pages:
         for table in page.tables:
             hint = classify_table(source.report_id, source.raw_text, page, table)
@@ -427,7 +429,7 @@ def classify_report(source: Any) -> List[TableClassHint]:
     return hints
 
 
-def _expected_metadata(corpus: Any) -> Dict[str, str]:
+def _expected_metadata(corpus: Any) -> dict[str, str]:
     return {
         "sidecar_schema_version": TABLE_CLASS_SIDECAR_SCHEMA_VERSION,
         "build_version": TABLE_CLASS_SIDECAR_BUILD_VERSION,
@@ -526,7 +528,7 @@ def build_table_class_sidecar(
     corpus_artifact_root: str | Path,
     raw_corpus_root: str | Path,
     output_root: str | Path,
-) -> Dict[str, Any]:
+) -> dict[str, Any]:
     """Materialize an immutable additive TableClass sidecar for one M2 corpus."""
 
     try:
@@ -572,7 +574,7 @@ def build_table_class_sidecar(
     artifact_id = _build_id(corpus.corpus_fingerprint, digest.hexdigest())
     artifact = root / "artifacts" / artifact_id
     database_hash = _sha256_file(database)
-    manifest: Dict[str, Any] = {
+    manifest: dict[str, Any] = {
         "sidecar_schema_version": TABLE_CLASS_SIDECAR_SCHEMA_VERSION,
         "artifact_status": "COMMITTED",
         "artifact_id": artifact_id,
@@ -604,7 +606,7 @@ def build_table_class_sidecar(
         else:
             os.replace(staging, artifact)
         _atomic_write_json(root / "manifest.json", manifest)
-        _atomic_write(root / "CURRENT", f"{artifact_id}\n".encode("utf-8"))
+        _atomic_write(root / "CURRENT", f"{artifact_id}\n".encode())
         return manifest
     finally:
         if staging.exists():
@@ -613,7 +615,7 @@ def build_table_class_sidecar(
 
 def validate_table_class_sidecar(
     sidecar_root: str | Path, corpus_artifact_root: str | Path
-) -> Dict[str, Any]:
+) -> dict[str, Any]:
     """Validate immutable sidecar bytes and exact M2 corpus + registry compatibility."""
 
     try:
@@ -692,7 +694,7 @@ class TableClassSidecar:
         manifest = json.loads((root / "manifest.json").read_text(encoding="utf-8"))
         self._database = root / manifest["artifact_directory"] / manifest["database"]["file"]
 
-    def _rows(self, sql: str, parameters: Sequence[Any]) -> List[Tuple[Any, ...]]:
+    def _rows(self, sql: str, parameters: Sequence[Any]) -> list[tuple[Any, ...]]:
         try:
             connection = sqlite3.connect(f"file:{self._database}?mode=ro", uri=True)
             try:
@@ -706,7 +708,7 @@ class TableClassSidecar:
 
     def get_hint(
         self, report_id: str, page_id: str, table_id: str
-    ) -> Optional[TableClassHint]:
+    ) -> TableClassHint | None:
         rows = self._rows(
             """SELECT canonical_json FROM table_class_hints
                WHERE report_id=? AND page_id=? AND table_id=?""",
@@ -718,7 +720,7 @@ class TableClassSidecar:
 
     def table_class_for(
         self, report_id: str, page_id: str, table_id: str
-    ) -> Optional[TableClass]:
+    ) -> TableClass | None:
         """Exact (report, page, table) lookup; a missing hint returns ``None``."""
 
         rows = self._rows(

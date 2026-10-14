@@ -24,13 +24,14 @@ Steps, each recorded as a check:
 from __future__ import annotations
 
 import argparse
+from collections.abc import Mapping, Sequence
 from concurrent.futures import ThreadPoolExecutor
 import json
 from pathlib import Path
 import shutil
 import tempfile
 import threading
-from typing import Any, Dict, List, Mapping, Optional, Sequence
+from typing import Any
 from urllib.error import HTTPError, URLError
 from urllib.request import Request, urlopen
 
@@ -72,7 +73,7 @@ def _get(url: str) -> tuple:
         return error.code, error.read().decode()
 
 
-def smoke_set(gold_dir: Path, runs: Mapping[str, Any], count: int = 8) -> List[Dict[str, Any]]:
+def smoke_set(gold_dir: Path, runs: Mapping[str, Any], count: int = 8) -> list[dict[str, Any]]:
     """Positives across operations with gold values, plus two refusals, from the dev split."""
     cases = [json.loads(line) for line in (gold_dir / "gold.jsonl").read_text(encoding="utf-8").splitlines() if line]
     picked, seen = [], set()
@@ -90,7 +91,7 @@ def smoke_set(gold_dir: Path, runs: Mapping[str, Any], count: int = 8) -> List[D
 
 
 def make_checker(smoke: Sequence[Mapping[str, Any]], history_root: Path):
-    def checker(release: Release) -> List[Dict[str, Any]]:
+    def checker(release: Release) -> list[dict[str, Any]]:
         engine = build_engine(release, history_root)
         results = []
         for item in smoke:
@@ -113,7 +114,7 @@ def corrupt_history(source: Path, target: Path) -> None:
 
 
 def drill(*, catalog: Path, history: Path, gold_dir: Path, dev_runs: Path, work: Path, batch: int = 20,
-          concurrency: int = 8) -> Dict[str, Any]:
+          concurrency: int = 8) -> dict[str, Any]:
     runs = json.loads(dev_runs.read_text(encoding="utf-8"))
     questions = [response["question"] for response in runs["responses"].values()]
     catalog_id = json.loads((catalog / "manifest.json").read_text(encoding="utf-8"))["catalog_id"]
@@ -136,10 +137,10 @@ def drill(*, catalog: Path, history: Path, gold_dir: Path, dev_runs: Path, work:
     service = QuestionService(store, engine_factory=engine_factory, max_in_flight=concurrency,
                               request_timeout_s=120, clock=clock)
     evaluator = AlertEvaluator(load_slo())
-    checks: Dict[str, Any] = {}
-    timeline: List[Dict[str, Any]] = []
+    checks: dict[str, Any] = {}
+    timeline: list[dict[str, Any]] = []
 
-    def release(release_id: str, generator: str, *, catalog_id_override: Optional[str] = None,
+    def release(release_id: str, generator: str, *, catalog_id_override: str | None = None,
                 notes: str = "") -> Release:
         return Release(release_id, str(catalog), catalog_id_override or catalog_id, generator, fingerprint,
                        notes=notes)
@@ -154,17 +155,17 @@ def drill(*, catalog: Path, history: Path, gold_dir: Path, dev_runs: Path, work:
         checks["A_canary_promoted"] = result_a["promoted"] and store.current_id() == "rel-a"
         checks["readyz_ok"] = _get(f"{base}/readyz")[0] == 200 and _get(f"{base}/healthz")[0] == 200
 
-        def traffic(count: int, *, offset: int = 0, clients: int = concurrency) -> List[tuple]:
+        def traffic(count: int, *, offset: int = 0, clients: int = concurrency) -> list[tuple]:
             items = [questions[(offset + i) % len(questions)] for i in range(count)]
             with ThreadPoolExecutor(max_workers=clients) as pool:
                 return list(pool.map(lambda q: _post(f"{base}/v1/ask", {"question": q}), items))
 
-        def tick(label: str, replies: List[tuple]) -> List[str]:
+        def tick(label: str, replies: list[tuple]) -> list[str]:
             clock.now += 60
             snapshot = service.metrics.snapshot()
             firing = evaluator.evaluate(samples + [snapshot]) if samples else []
             samples.append(snapshot)
-            codes: Dict[str, int] = {}
+            codes: dict[str, int] = {}
             for code, body in replies:
                 key = f"{code}:{body.get('status')}"
                 codes[key] = codes.get(key, 0) + 1
@@ -172,7 +173,7 @@ def drill(*, catalog: Path, history: Path, gold_dir: Path, dev_runs: Path, work:
                              "codes": codes, "firing": firing})
             return firing
 
-        samples: List[Dict[str, float]] = [service.metrics.snapshot()]
+        samples: list[dict[str, float]] = [service.metrics.snapshot()]
         normal_alerts = set()
         for index in range(6):
             replies = traffic(batch, offset=index * batch)
@@ -269,7 +270,7 @@ def drill(*, catalog: Path, history: Path, gold_dir: Path, dev_runs: Path, work:
     }
 
 
-def main(argv: Optional[Sequence[str]] = None) -> int:
+def main(argv: Sequence[str] | None = None) -> int:
     parser = argparse.ArgumentParser(description=__doc__.splitlines()[0])
     parser.add_argument("--catalog", required=True)
     parser.add_argument("--history", required=True, help="history root of a completed live run")

@@ -2,14 +2,15 @@
 
 from __future__ import annotations
 
+from collections.abc import Sequence
 from dataclasses import dataclass
 import re
-from typing import Dict, List, Optional, Sequence, Set, Tuple
 
 from src.indexing.cell_normalizer import normalize_cell_text, normalize_source_cell_text
 from src.indexing.ids import make_header_id, make_normalized_table_id
 from src.indexing.numeric_parser import parse_numeric_string
 from src.indexing.schemas import (
+    NORMALIZATION_VERSION,
     CellRole,
     HeaderAxis,
     HeaderHierarchy,
@@ -18,7 +19,6 @@ from src.indexing.schemas import (
     HeaderResolution,
     LogicalTableGrid,
     MergedCellAnchor,
-    NORMALIZATION_VERSION,
     NumericParseResult,
     NumericParseStatus,
     SourceCell,
@@ -26,7 +26,6 @@ from src.indexing.schemas import (
     TableParseStatus,
 )
 from src.understanding.schemas import SchemaValidationError
-
 
 # A year column may carry its VND currency and scale, e.g. "2023 VND", "2023 Triệu đồng",
 # or OCR-joined "2023VND".
@@ -54,12 +53,12 @@ class _CellFacts:
     anchor: MergedCellAnchor
     normalized_text: str
     numeric_status: NumericParseStatus
-    period_label: Optional[str]
+    period_label: str | None
 
 
 @dataclass(frozen=True)
 class _Segment:
-    source_cell_id: Optional[str]
+    source_cell_id: str | None
     start_column: int
     end_column: int
 
@@ -67,15 +66,15 @@ class _Segment:
 @dataclass
 class HeaderInference:
     hierarchy: HeaderHierarchy
-    roles: Dict[str, CellRole]
-    row_paths: Dict[str, List[HeaderPathEntry]]
-    column_paths: Dict[str, List[HeaderPathEntry]]
-    period_labels: List[str]
-    normalized_texts: Dict[str, str]
-    numeric_results: Dict[str, NumericParseResult]
+    roles: dict[str, CellRole]
+    row_paths: dict[str, list[HeaderPathEntry]]
+    column_paths: dict[str, list[HeaderPathEntry]]
+    period_labels: list[str]
+    normalized_texts: dict[str, str]
+    numeric_results: dict[str, NumericParseResult]
 
 
-def normalize_period_label(value: str) -> Optional[str]:
+def normalize_period_label(value: str) -> str | None:
     """Normalize only the approved exact standalone period-label grammar."""
 
     value = normalize_cell_text(value)
@@ -112,8 +111,8 @@ def _validate_inputs(table: SourceTable, grid: LogicalTableGrid) -> None:
             )
 
 
-def _row_segments(grid: LogicalTableGrid, row: int) -> List[_Segment]:
-    segments: List[_Segment] = []
+def _row_segments(grid: LogicalTableGrid, row: int) -> list[_Segment]:
+    segments: list[_Segment] = []
     column = 0
     while column < grid.column_count:
         source_cell_id = grid.slots[row][column]
@@ -125,7 +124,7 @@ def _row_segments(grid: LogicalTableGrid, row: int) -> List[_Segment]:
     return segments
 
 
-def _label_columns(facts: Dict[str, _CellFacts]) -> Set[int]:
+def _label_columns(facts: dict[str, _CellFacts]) -> set[int]:
     """Columns headed "Mã số"/"Thuyết minh": VAS line codes and note refs, not data."""
     return {
         column
@@ -138,7 +137,7 @@ def _label_columns(facts: Dict[str, _CellFacts]) -> Set[int]:
     }
 
 
-def _ordinal_columns(facts: Dict[str, _CellFacts]) -> Set[int]:
+def _ordinal_columns(facts: dict[str, _CellFacts]) -> set[int]:
     """A first column holding only line ordinals is a label column, not data."""
     cells = [
         cell_facts.normalized_text
@@ -154,10 +153,10 @@ def _ordinal_columns(facts: Dict[str, _CellFacts]) -> Set[int]:
 
 def _body_rows(
     grid: LogicalTableGrid,
-    facts: Dict[str, _CellFacts],
-    label_columns: Set[int] = frozenset(),
-) -> Dict[int, Tuple[int, List[str]]]:
-    recovered: Dict[int, Tuple[int, List[str]]] = {}
+    facts: dict[str, _CellFacts],
+    label_columns: set[int] = frozenset(),
+) -> dict[int, tuple[int, list[str]]]:
+    recovered: dict[int, tuple[int, list[str]]] = {}
     # VAS line labels carry ordinals ("18. Lợi nhuận ...") that parse MALFORMED.
     label_statuses = {NumericParseStatus.NOT_NUMERIC}
     if label_columns:
@@ -179,7 +178,7 @@ def _body_rows(
         prefix = segments[:first_numeric_index]
         if not prefix or prefix[0].start_column != 0:
             continue
-        prefix_ids: List[str] = []
+        prefix_ids: list[str] = []
         valid_prefix = True
         for segment in prefix:
             if segment.start_column in label_columns:
@@ -204,14 +203,14 @@ def _body_rows(
     return recovered
 
 
-def _overlaps_columns(anchor: MergedCellAnchor, columns: Set[int]) -> bool:
+def _overlaps_columns(anchor: MergedCellAnchor, columns: set[int]) -> bool:
     return any(
         column in columns
         for column in range(anchor.anchor_column, anchor.anchor_column + anchor.colspan)
     )
 
 
-def _axis_interval(anchor: MergedCellAnchor, axis: HeaderAxis) -> Tuple[int, int]:
+def _axis_interval(anchor: MergedCellAnchor, axis: HeaderAxis) -> tuple[int, int]:
     if axis is HeaderAxis.COLUMN:
         return anchor.anchor_column, anchor.anchor_column + anchor.colspan
     return anchor.anchor_row, anchor.anchor_row + anchor.rowspan
@@ -234,12 +233,12 @@ def _contains(parent: MergedCellAnchor, child: MergedCellAnchor, axis: HeaderAxi
 def _build_axis_nodes(
     axis: HeaderAxis,
     candidate_ids: Sequence[str],
-    facts: Dict[str, _CellFacts],
+    facts: dict[str, _CellFacts],
     normalized_table_id: str,
-) -> Tuple[List[HeaderNode], Dict[str, str]]:
-    nodes: List[HeaderNode] = []
-    node_by_source: Dict[str, HeaderNode] = {}
-    header_id_by_source: Dict[str, str] = {}
+) -> tuple[list[HeaderNode], dict[str, str]]:
+    nodes: list[HeaderNode] = []
+    node_by_source: dict[str, HeaderNode] = {}
+    header_id_by_source: dict[str, str] = {}
 
     for source_cell_id in candidate_ids:
         cell_facts = facts[source_cell_id]
@@ -252,7 +251,7 @@ def _build_axis_nodes(
             and _axis_position(facts[parent_id].anchor, axis) < position
             and _contains(facts[parent_id].anchor, anchor, axis)
         ]
-        nearest: List[_CellFacts] = []
+        nearest: list[_CellFacts] = []
         if containing:
             nearest_position = max(
                 _axis_position(candidate.anchor, axis) for candidate in containing
@@ -263,7 +262,7 @@ def _build_axis_nodes(
                 if _axis_position(candidate.anchor, axis) == nearest_position
             ]
 
-        parent: Optional[HeaderNode] = None
+        parent: HeaderNode | None = None
         if len(nearest) == 1:
             parent = node_by_source[nearest[0].cell.cell_id]
         if len(nearest) > 1:
@@ -297,13 +296,13 @@ def _build_axis_nodes(
     return nodes, header_id_by_source
 
 
-def _node_paths(nodes: Sequence[HeaderNode]) -> Dict[str, List[HeaderPathEntry]]:
+def _node_paths(nodes: Sequence[HeaderNode]) -> dict[str, list[HeaderPathEntry]]:
     by_id = {node.header_id: node for node in nodes}
-    paths: Dict[str, List[HeaderPathEntry]] = {}
+    paths: dict[str, list[HeaderPathEntry]] = {}
     for node in nodes:
-        chain: List[HeaderNode] = []
-        current: Optional[HeaderNode] = node
-        seen: Set[str] = set()
+        chain: list[HeaderNode] = []
+        current: HeaderNode | None = node
+        seen: set[str] = set()
         while current is not None:
             if (
                 current.header_id in seen
@@ -329,9 +328,9 @@ def _deepest_covering_path(
     cell_anchor: MergedCellAnchor,
     axis: HeaderAxis,
     nodes: Sequence[HeaderNode],
-    facts: Dict[str, _CellFacts],
-    paths: Dict[str, List[HeaderPathEntry]],
-) -> List[HeaderPathEntry]:
+    facts: dict[str, _CellFacts],
+    paths: dict[str, list[HeaderPathEntry]],
+) -> list[HeaderPathEntry]:
     covering = [
         node
         for node in nodes
@@ -353,9 +352,9 @@ def infer_header_structure(
 
     _validate_inputs(table, grid)
     anchor_by_id = {anchor.source_cell_id: anchor for anchor in grid.anchors}
-    normalized_texts: Dict[str, str] = {}
-    numeric_results: Dict[str, NumericParseResult] = {}
-    facts: Dict[str, _CellFacts] = {}
+    normalized_texts: dict[str, str] = {}
+    numeric_results: dict[str, NumericParseResult] = {}
+    facts: dict[str, _CellFacts] = {}
     for cell in table.cells:
         normalized_text = normalize_source_cell_text(cell)
         numeric_result = parse_numeric_string(cell.extracted_text)
@@ -379,7 +378,7 @@ def infer_header_structure(
         # rule recovers nothing consistent, or fewer rows: it drops lines whose
         # labels carry formulas ("(60=50-51-52)") and reads VAS codes as data.
         fallback = _body_rows(grid, facts, label_columns)
-        counts: Dict[int, int] = {}
+        counts: dict[int, int] = {}
         for width, _ in fallback.values():
             counts[width] = counts.get(width, 0) + 1
         if counts:
@@ -413,7 +412,7 @@ def infer_header_structure(
         and facts[grid.slots[row][column]].period_label is None
     }
 
-    column_candidate_ids: List[str] = []
+    column_candidate_ids: list[str] = []
     for row in range(first_body_row):
         row_candidates = [
             anchor.source_cell_id
@@ -432,8 +431,8 @@ def infer_header_structure(
             break
         column_candidate_ids.extend(row_candidates)
 
-    row_candidate_ids: List[str] = []
-    seen_row_candidates: Set[str] = set()
+    row_candidate_ids: list[str] = []
+    seen_row_candidates: set[str] = set()
     for row in sorted(body_rows):
         _, prefix_ids = body_rows[row]
         for source_cell_id in prefix_ids:

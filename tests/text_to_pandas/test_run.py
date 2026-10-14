@@ -6,10 +6,10 @@ import pytest
 
 from src.text_to_pandas import run
 from src.text_to_pandas.generator import ScriptedClient
-from tests.text_to_pandas.test_pipeline import FILTER, QUESTION, catalog, envelope  # noqa: F401 (fixture)
+from tests.text_to_pandas.test_pipeline import FILTER, QUESTION, envelope
 
 
-def test_concurrent_run_answers_every_question_and_records_load(catalog, tmp_path, monkeypatch):  # noqa: F811
+def test_concurrent_run_answers_every_question_and_records_load(catalog, tmp_path, monkeypatch):
     program = envelope(FILTER + "result = float(evidence['value'].iloc[0])")
     client = ScriptedClient([program] * 6)
     client.endpoint = SimpleNamespace(model_id="scripted")

@@ -8,12 +8,13 @@ the isolated worker only ever receives a per-question slice as data.
 
 from __future__ import annotations
 
+from collections.abc import Iterable, Mapping, Sequence
 from dataclasses import dataclass
 from hashlib import sha256
 import json
 import math
 from pathlib import Path
-from typing import Any, Dict, Iterable, List, Mapping, Optional, Sequence, Tuple
+from typing import Any
 
 import pandas as pd
 
@@ -75,7 +76,7 @@ def _sha256(path: Path) -> str:
     return digest.hexdigest()
 
 
-def frame_payload(frame: pd.DataFrame) -> Dict[str, Any]:
+def frame_payload(frame: pd.DataFrame) -> dict[str, Any]:
     """JSON-safe columnar payload: NaN becomes null, dtypes are kept by name."""
     data = []
     for row in frame.itertuples(index=False, name=None):
@@ -98,10 +99,10 @@ class DatasetSlice:
     frames: Mapping[str, pd.DataFrame]
     filters: Mapping[str, Any]
 
-    def payload(self) -> Dict[str, Dict[str, Any]]:
+    def payload(self) -> dict[str, dict[str, Any]]:
         return {name: frame_payload(frame) for name, frame in self.frames.items()}
 
-    def row_counts(self) -> Dict[str, int]:
+    def row_counts(self) -> dict[str, int]:
         return {name: int(len(frame)) for name, frame in self.frames.items()}
 
 
@@ -120,7 +121,7 @@ class DatasetCatalog:
         provenance_entry = self.manifest["files"]["provenance"]
         if verify_hashes and _sha256(self.root / provenance_entry["file"]) != provenance_entry["sha256"]:
             raise CatalogError("CATALOG_FILE_HASH_MISMATCH", provenance_entry["file"])
-        self.frames: Dict[str, pd.DataFrame] = {}
+        self.frames: dict[str, pd.DataFrame] = {}
         for name in DATASET_NAMES:
             entry = self.manifest["files"][name]
             path = self.root / entry["file"]
@@ -141,11 +142,11 @@ class DatasetCatalog:
             if list(frame.columns) != expected:
                 raise CatalogError("CATALOG_COLUMNS_INVALID", name)
             self.frames[name] = frame
-        self._provenance_offsets: Optional[Dict[str, int]] = None
+        self._provenance_offsets: dict[str, int] | None = None
 
     @classmethod
     def from_frames(cls, frames: Mapping[str, pd.DataFrame], *, catalog_id: str = "fixture",
-                    provenance: Optional[Mapping[str, Mapping[str, Any]]] = None) -> "DatasetCatalog":
+                    provenance: Mapping[str, Mapping[str, Any]] | None = None) -> DatasetCatalog:
         """An in-memory catalog (tests and explicitly labelled fixtures)."""
         catalog = cls.__new__(cls)
         catalog.root = None
@@ -171,16 +172,16 @@ class DatasetCatalog:
     def companies(self) -> pd.DataFrame:
         return self.frames["companies"]
 
-    def tickers(self) -> List[str]:
+    def tickers(self) -> list[str]:
         return list(self.companies["ticker"])
 
-    def statement_frames(self) -> Iterable[Tuple[str, pd.DataFrame]]:
+    def statement_frames(self) -> Iterable[tuple[str, pd.DataFrame]]:
         for name in STATEMENT_DATASETS:
             yield name, self.frames[name]
 
-    def coverage(self, tickers: Sequence[str]) -> Dict[Tuple[str, int], set]:
+    def coverage(self, tickers: Sequence[str]) -> dict[tuple[str, int], set]:
         """(ticker, fiscal_year) -> statement scopes that have any statement row."""
-        result: Dict[Tuple[str, int], set] = {}
+        result: dict[tuple[str, int], set] = {}
         for _, frame in self.statement_frames():
             rows = frame[frame["ticker"].isin(list(tickers))][["ticker", "fiscal_year", "statement_scope"]]
             for ticker, year, scope in rows.drop_duplicates().itertuples(index=False, name=None):
@@ -189,7 +190,7 @@ class DatasetCatalog:
 
     def slice(self, *, tickers: Sequence[str] = (), metrics: Sequence[str] = ()) -> DatasetSlice:
         """Company mode (all rows of the named companies) or screening mode (named metrics)."""
-        frames: Dict[str, pd.DataFrame] = {}
+        frames: dict[str, pd.DataFrame] = {}
         for name, frame in self.statement_frames():
             if tickers:
                 selected = frame[frame["ticker"].isin(list(tickers))]
@@ -203,9 +204,9 @@ class DatasetCatalog:
 
     # ---- provenance --------------------------------------------------------
 
-    def _offsets(self) -> Dict[str, int]:
+    def _offsets(self) -> dict[str, int]:
         if self._provenance_offsets is None:
-            offsets: Dict[str, int] = {}
+            offsets: dict[str, int] = {}
             path = self.root / self.manifest["files"]["provenance"]["file"]
             with path.open("rb") as handle:
                 position = 0
@@ -220,13 +221,13 @@ class DatasetCatalog:
             self._provenance_offsets = offsets
         return self._provenance_offsets
 
-    def provenance(self, fact_ids: Sequence[str]) -> Dict[str, Dict[str, Any]]:
+    def provenance(self, fact_ids: Sequence[str]) -> dict[str, dict[str, Any]]:
         if self.root is None:
             return {fact_id: dict(self._fixture_provenance[fact_id])
                     for fact_id in fact_ids if fact_id in self._fixture_provenance}
         offsets = self._offsets()
         path = self.root / self.manifest["files"]["provenance"]["file"]
-        result: Dict[str, Dict[str, Any]] = {}
+        result: dict[str, dict[str, Any]] = {}
         with path.open("rb") as handle:
             for fact_id in fact_ids:
                 if fact_id not in offsets:
@@ -241,8 +242,8 @@ class DatasetCatalog:
 # ---- schema context rendered for code generation ---------------------------
 
 
-def _distinct(values: Iterable[Any], limit: int) -> List[Any]:
-    seen: List[Any] = []
+def _distinct(values: Iterable[Any], limit: int) -> list[Any]:
+    seen: list[Any] = []
     for value in values:
         if value not in seen and not (isinstance(value, float) and math.isnan(value)):
             seen.append(value)
@@ -256,12 +257,12 @@ def schema_context(
     *,
     relevant_metrics: Sequence[str] = (),
     include_line_items: bool = False,
-) -> Dict[str, Any]:
+) -> dict[str, Any]:
     """Everything the code generator may rely on: datasets, columns, slice values, definitions."""
-    datasets: Dict[str, Any] = {}
+    datasets: dict[str, Any] = {}
     for name, frame in data.frames.items():
         docs = _COMPANY_COLUMN_DOCS if name == "companies" else _FACT_COLUMN_DOCS
-        entry: Dict[str, Any] = {
+        entry: dict[str, Any] = {
             "description": _DATASET_DOCS[name],
             "rows_in_slice": int(len(frame)),
             "columns": {column: docs[column] for column in frame.columns},
@@ -300,6 +301,6 @@ def schema_context(
     }
 
 
-def metric_dataset(metric_id: str) -> Optional[str]:
+def metric_dataset(metric_id: str) -> str | None:
     metric = METRICS_BY_ID.get(metric_id)
     return None if metric is None else DATASET_BY_STATEMENT[metric.statement]

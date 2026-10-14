@@ -10,9 +10,9 @@ from src.orchestration.api_stages import APINLU, APIProgrammer
 from src.orchestration.graph import OrchestrationGraph
 from src.orchestration.nodes import OrchestrationDependencies
 from src.orchestration.ports import RetrievalArtifacts
-from src.retrieval.batch3 import Batch3Retriever, CorpusChunkLookup
 from src.retrieval.bm25 import BM25Index
 from src.retrieval.evidence import EvidenceProvenanceRepository, build_evidence_items, locate_cells
+from src.retrieval.hybrid_retriever import CorpusChunkLookup, HybridRetriever
 from src.retrieval.query_embedding import embed_query_texts
 from src.retrieval.vector_search import VectorSearcher
 from src.sandbox.executor import execute_sandboxed
@@ -99,13 +99,13 @@ def build_live_graph(client, *, corpus_root, vector_root, bm25_root, raw_root,
     lookup = CorpusChunkLookup(corpus_root, vector_metadata_path=vector.metadata_path)
     if query_encoder is None and reranker is None:
         # Keep only one BGE model resident on the 8 GiB Mac.
-        retriever = Batch3Retriever(
+        retriever = HybridRetriever(
             bm25, vector, lambda query: embed_query_texts(query, batch_size=1, device="cpu"),
             sidecar=sidecar, chunk_lookup=lookup, reranker_batch_size=1,
         )
     else:
         # ADR-049 served BGE endpoints: the pinned models stay resident in their own processes.
-        retriever = Batch3Retriever(
+        retriever = HybridRetriever(
             bm25, vector, lambda query: embed_query_texts(query, encoder=query_encoder),
             reranker=reranker, sidecar=sidecar, chunk_lookup=lookup,
         )

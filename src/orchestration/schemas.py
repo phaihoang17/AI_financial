@@ -2,11 +2,12 @@
 
 from __future__ import annotations
 
+from collections.abc import Mapping
 from dataclasses import dataclass
 from enum import Enum
 from hashlib import sha256
 import json
-from typing import Any, Dict, Mapping, Optional, Sequence
+from typing import Any
 
 from src.evaluation.harness import EvaluationFailureStage
 from src.numeric.scale_conversion import ScaleConversionFailureCode
@@ -28,14 +29,13 @@ from src.supervisor.schemas import EvidenceSource, Plan, QuestionType
 from src.understanding.schemas import SchemaValidationError
 from src.verification.schemas import RetryState
 
-
 M9_STATE_SCHEMA_VERSION_V1 = "m9-orchestration-state-v1"
 M9_STATE_SCHEMA_VERSION = "m9-orchestration-state-v2"
 PLAN_FINGERPRINT_VERSION = "m9-plan-fingerprint-v1"
 RETRIEVAL_POLICY_FINGERPRINT_VERSION = "m9-retrieval-policy-fingerprint-v1"
 
 
-class M9Phase(str, Enum):
+class OrchestrationPhase(str, Enum):
     INPUT = "INPUT"
     NLU = "NLU"
     SUPERVISOR = "SUPERVISOR"
@@ -92,7 +92,7 @@ def _string(value: Any, path: str, *, non_empty: bool = False) -> str:
     return value
 
 
-def _optional_string(value: Any, path: str) -> Optional[str]:
+def _optional_string(value: Any, path: str) -> str | None:
     if value is not None and not isinstance(value, str):
         raise SchemaValidationError(f"{path} must be a string or null")
     return value
@@ -199,7 +199,7 @@ def make_retrieval_policy_fingerprint(
         raise SchemaValidationError("top_k must be a positive integer")
     if not isinstance(artifact_versions, Mapping) or not artifact_versions:
         raise SchemaValidationError("artifact_versions must be a non-empty mapping")
-    normalized_versions: Dict[str, str] = {}
+    normalized_versions: dict[str, str] = {}
     for key, value in artifact_versions.items():
         normalized_versions[
             _string(key, "artifact_versions key", non_empty=True)
@@ -223,7 +223,7 @@ class FailureAttribution:
     stage: EvaluationFailureStage
     code: str
     reason: str
-    attempt_index: Optional[int]
+    attempt_index: int | None
     requirement_ids: tuple[str, ...] = ()
     evidence_ids: tuple[str, ...] = ()
     program_ids: tuple[str, ...] = ()
@@ -250,7 +250,7 @@ class FailureAttribution:
                 raise SchemaValidationError(f"{field_name} must be unique")
             object.__setattr__(self, field_name, tuple(values))
 
-    def to_dict(self) -> Dict[str, Any]:
+    def to_dict(self) -> dict[str, Any]:
         return {
             "stage": self.stage.value,
             "code": self.code,
@@ -262,7 +262,7 @@ class FailureAttribution:
         }
 
     @classmethod
-    def from_dict(cls, value: Any) -> "FailureAttribution":
+    def from_dict(cls, value: Any) -> FailureAttribution:
         data = _mapping(value, "FailureAttribution")
         legacy = {"stage", "code", "reason", "attempt_index"}
         current = legacy | {"requirement_ids", "evidence_ids", "program_ids"}
@@ -285,11 +285,11 @@ class AnswerEvidenceReference:
     requirement_id: str
     source_type: EvidenceSource
     report_ref: str
-    page_ref: Optional[str]
-    table_ref: Optional[str]
-    paragraph_ref: Optional[str]
-    metric: Optional[str]
-    period: Optional[str]
+    page_ref: str | None
+    table_ref: str | None
+    paragraph_ref: str | None
+    metric: str | None
+    period: str | None
     row_path: tuple[str, ...]
     column_path: tuple[str, ...]
 
@@ -310,7 +310,7 @@ class AnswerEvidenceReference:
         if self.source_type is EvidenceSource.TEXT and self.paragraph_ref is None:
             raise SchemaValidationError("TEXT answer evidence requires paragraph_ref")
 
-    def to_dict(self) -> Dict[str, Any]:
+    def to_dict(self) -> dict[str, Any]:
         return {
             "evidence_id": self.evidence_id,
             "requirement_id": self.requirement_id,
@@ -326,7 +326,7 @@ class AnswerEvidenceReference:
         }
 
     @classmethod
-    def from_dict(cls, value: Any) -> "AnswerEvidenceReference":
+    def from_dict(cls, value: Any) -> AnswerEvidenceReference:
         data = _mapping(value, "AnswerEvidenceReference")
         _exact_keys(
             data,
@@ -356,8 +356,8 @@ class AnswerEvidenceReference:
 class FinalAnswer:
     question_type: QuestionType
     target_metrics: tuple[str, ...]
-    derived_target: Optional[str]
-    formula_id: Optional[str]
+    derived_target: str | None
+    formula_id: str | None
     output: ExecutionOutput
     evidence: tuple[AnswerEvidenceReference, ...]
 
@@ -379,7 +379,7 @@ class FinalAnswer:
             raise SchemaValidationError("evidence must contain AnswerEvidenceReference values")
         object.__setattr__(self, "evidence", tuple(self.evidence))
 
-    def to_dict(self) -> Dict[str, Any]:
+    def to_dict(self) -> dict[str, Any]:
         return {
             "question_type": self.question_type.value,
             "target_metrics": list(self.target_metrics),
@@ -390,7 +390,7 @@ class FinalAnswer:
         }
 
     @classmethod
-    def from_dict(cls, value: Any) -> "FinalAnswer":
+    def from_dict(cls, value: Any) -> FinalAnswer:
         data = _mapping(value, "FinalAnswer")
         _exact_keys(
             data,
@@ -412,11 +412,11 @@ class FinalAnswer:
 @dataclass(frozen=True)
 class FinalResponse:
     status: FinalResponseStatus
-    answer: Optional[FinalAnswer]
-    reason_code: Optional[str]
+    answer: FinalAnswer | None
+    reason_code: str | None
     message: str
-    retry_state: Optional[RetryState]
-    failure_attribution: Optional[FailureAttribution]
+    retry_state: RetryState | None
+    failure_attribution: FailureAttribution | None
 
     def __post_init__(self) -> None:
         object.__setattr__(self, "status", _enum(self.status, FinalResponseStatus, "status"))
@@ -451,7 +451,7 @@ class FinalResponse:
                     "non-PASS response requires failure_attribution"
                 )
 
-    def to_dict(self) -> Dict[str, Any]:
+    def to_dict(self) -> dict[str, Any]:
         return {
             "status": self.status.value,
             "answer": None if self.answer is None else self.answer.to_dict(),
@@ -466,7 +466,7 @@ class FinalResponse:
         }
 
     @classmethod
-    def from_dict(cls, value: Any) -> "FinalResponse":
+    def from_dict(cls, value: Any) -> FinalResponse:
         data = _mapping(value, "FinalResponse")
         _exact_keys(
             data,
@@ -557,7 +557,7 @@ class ExecutionDirective:
         elif self.next_retry_state.terminal:
             raise SchemaValidationError("execution retry requires non-terminal next_retry_state")
 
-    def to_dict(self) -> Dict[str, Any]:
+    def to_dict(self) -> dict[str, Any]:
         return {
             "action": self.action.value,
             "execution_failure_stage": self.execution_failure_stage.value,
@@ -567,7 +567,7 @@ class ExecutionDirective:
         }
 
     @classmethod
-    def from_dict(cls, value: Any) -> "ExecutionDirective":
+    def from_dict(cls, value: Any) -> ExecutionDirective:
         data = _mapping(value, "ExecutionDirective")
         _exact_keys(
             data,

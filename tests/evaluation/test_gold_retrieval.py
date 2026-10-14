@@ -1,8 +1,8 @@
 import json
-import tempfile
-import unittest
 from pathlib import Path
+import tempfile
 from types import SimpleNamespace
+import unittest
 
 from src.evaluation.corpus_reference_index import (
     CorpusReferenceIndex,

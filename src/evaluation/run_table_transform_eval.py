@@ -3,8 +3,8 @@
 from __future__ import annotations
 
 import argparse
+from collections.abc import Sequence
 import json
-from typing import Optional, Sequence
 
 from src.evaluation.table_transform_comparison import (
     build_complex_table_fixtures,
@@ -13,7 +13,7 @@ from src.evaluation.table_transform_comparison import (
 )
 
 
-def main(argv: Optional[Sequence[str]] = None) -> int:
+def main(argv: Sequence[str] | None = None) -> int:
     parser = argparse.ArgumentParser(description="Run TASK-06D comparison evaluation")
     parser.add_argument(
         "--format",

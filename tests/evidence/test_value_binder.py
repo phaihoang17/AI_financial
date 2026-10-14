@@ -2,7 +2,7 @@ import copy
 from dataclasses import replace
 import unittest
 
-from src.evidence.m5_schemas import BindingMap
+from src.evidence.masking_schemas import BindingMap
 from src.evidence.numeric_masking import mask_numeric_evidence
 from src.evidence.schema_linker import link_schema
 from src.evidence.schemas import CanonicalDecimal, Scale
@@ -12,7 +12,7 @@ from src.evidence.value_binder import (
     build_binding_map,
 )
 from src.understanding.requested_scale_unit_parser import RequestedScale
-from tests.evidence.m5_helpers import (
+from tests.evidence.helpers import (
     grounded_cell,
     multi_period_plan,
     plan,

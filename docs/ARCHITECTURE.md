@@ -1607,7 +1607,7 @@ More context is not automatically better. FinQA-style retriever-generator result
 The exact `top_k` is an evaluated configuration, not a hardcoded constant.
 
 Candidate depth and answer depth are separate. BM25, vector search, and RRF run
-at `top_k * CANDIDATE_DEPTH_MULTIPLIER` (`src/retrieval/batch3.py`); only the
+at `top_k * CANDIDATE_DEPTH_MULTIPLIER` (`src/retrieval/hybrid_retriever.py`); only the
 cross-encoder reranker cuts back to `top_k`. Equal depth starves the reranker:
 RRF sums one reciprocal rank for a single-backend hit and two for a hit both
 backends returned, so a correct table found by only one backend is dropped
@@ -2801,11 +2801,11 @@ M9 Batch 1 defines contracts only. It performs no stage calls and contains no
 graph execution.
 
 ```yaml
-M9State:
+OrchestrationState:
   schema_version: "m9-orchestration-state-v2"
   request_id: string
   raw_question: string
-  phase: M9Phase
+  phase: OrchestrationPhase
   outcome: PASS | CLARIFICATION | ABSTAIN | null
   query_understanding: QueryUnderstanding | null
   planning_gate: PlanningGate | null
@@ -2858,7 +2858,7 @@ is current, and its index equals `RetryState.retries_used`. Prior attempts are
 copied into immutable records and guarded by content fingerprints. Terminal
 state rejects every later transition.
 
-`BindingMap` is execution-only and is not a field of `M9State` or
+`BindingMap` is execution-only and is not a field of `OrchestrationState` or
 `AttemptRecord`. State stores only an opaque process-local `binding_ref` and
 never serializes bound numeric values. Programmer receives only
 `ProgrammerInput` and `ModelTier` and cannot resolve that handle. Sandbox and
@@ -2939,7 +2939,7 @@ nlu -> supervisor -> retrieval -> evidence -> programmer -> sandbox
     -> verification -> stop
 ```
 
-Each node projects a complete serialized `M9State` and a small serializable
+Each node projects a complete serialized `OrchestrationState` and a small serializable
 control envelope. LangGraph owns sequencing, projection, conditional stop, and
 checkpoint coordination only. The stage work remains in the existing
 deterministic Supervisor, M3/M5 evidence functions, M6 validator, M7 contracts,
@@ -3091,7 +3091,7 @@ and `PRODUCTION_TABLE_CLASS_PROVENANCE_PENDING` remain active.
 ### Coordination-failure logging (M10 / TASK-112, ADR-056)
 
 `src/orchestration/coordination_log.py` is a pure, read-only observer over one
-`M9State` (or one raw checkpoint dict). It never mutates state, changes routing,
+`OrchestrationState` (or one raw checkpoint dict). It never mutates state, changes routing,
 retries work, repairs state, touches retry budgets, or alters answers, and it
 never raises on a validated state. It reads only already-public coordination
 fields and emits `CoordinationEvent`s whose `detail` is a small map of stable
@@ -3108,7 +3108,7 @@ them:
 
 - `CONFLICTING_WORKER_STATE` — a terminal non-`PASS` outcome whose final
   `AttemptRecord` still carries an M8 `RetryDirective` with `action == PASS`
-  (`M9State._validate_pass` constrains only the `PASS` direction), or a
+  (`OrchestrationState._validate_pass` constrains only the `PASS` direction), or a
   `CLARIFICATION` terminal outcome with a non-empty attempt history
   (clarification responses are built before any executable attempt exists).
 - `STALE_WORKER_STATE` — `FailureAttribution.attempt_index` does not equal the
@@ -3117,7 +3117,7 @@ them:
   out-of-range / absent value means the attribution never advanced with the run.
 - `MESSAGE_SCHEMA_CORRUPTION` — `scan_coordination_payload(payload)` runs the
   raw checkpoint dict (the coordination message between orchestration nodes)
-  through the existing `M9State.from_dict` fail-closed edge. On
+  through the existing `OrchestrationState.from_dict` fail-closed edge. On
   `SchemaValidationError` it records exactly one event carrying only the
   boundary name and the exception class name; a payload that parses is delegated
   to `build_coordination_log`. This is the single minimal added observation
@@ -3301,7 +3301,7 @@ their deterministic implementations. The historical blocker descriptions do
 not describe the current completed TASK-100 or synthetic TASK-101 measurement.
 
 The **v1 active query path contains no LLM** (verified in code, ADR-057). The M9
-graph calls `supervise_batch1` and `verify` as deterministic functions; NLU,
+graph calls `supervise` and `verify` as deterministic functions; NLU,
 Programmer, and Sandbox go through injected ports whose only implementations are
 deterministic; `generate_program` is a pure symbolic-DSL builder that ignores
 `model_tier`. `Plan.model_tier` and `ESCALATE_STRONG` set recorded enum values
@@ -3491,7 +3491,7 @@ never writes to an output root.
 
 The deterministic retrieval-execution smoke is
 `src/evaluation/run_retrieval_execution_smoke.py`: it builds the real
-`Batch3Retriever` (`BM25Index` + `VectorSearcher` + pinned BGE-M3 query encoder +
+`HybridRetriever` (`BM25Index` + `VectorSearcher` + pinned BGE-M3 query encoder +
 pinned BGE-reranker — all CPU, Qwen-free), runs a hand-authored JSONL of
 `RetrievalQuery` objects twice, compares `RetrievalCandidate.to_dict()` lists for
 logical identity, and counts crashes/timeouts. It emits
@@ -3526,9 +3526,9 @@ contract is `m10-baseline-runs-v1`:
 }
 ```
 
-Populate `states` with `M9State.to_dict()` objects whose `request_id` equals
+Populate `states` with `OrchestrationState.to_dict()` objects whose `request_id` equals
 the corresponding gold `question_id`. The scorer validates checkpoints with
-`M9State.from_dict`, exact question
+`OrchestrationState.from_dict`, exact question
 identity, unique terminal request ids, gold corpus references, and the complete
 ADR-057 artifact/live check set with matching corpus fingerprints and build ids.
 Fixture measurements cannot replace LIVE records. The export's origin is

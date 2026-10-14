@@ -15,12 +15,12 @@ events: refusing correctly is the service working.
 from __future__ import annotations
 
 from collections import defaultdict
+from collections.abc import Iterable, Mapping
 from dataclasses import dataclass
+from pathlib import Path
 import threading
 import time
 import tomllib
-from pathlib import Path
-from typing import Dict, Iterable, List, Mapping, Optional, Tuple
 
 DEFAULT_SLO_FILE = Path(__file__).resolve().parents[2] / "deploy" / "service" / "slo.toml"
 LATENCY_BUCKETS_S = (0.25, 0.5, 1.0, 2.0, 4.0, 8.0, 15.0, 30.0, 60.0, 120.0)
@@ -36,7 +36,7 @@ SECURITY_REASONS = frozenset({"FILESYSTEM_READ_DENIED", "FILESYSTEM_WRITE_DENIED
                               "PROCESS_SPAWN_DENIED", "ENVIRONMENT_INHERITANCE_DENIED"})
 
 
-def is_bad_event(http_status: int, status: Optional[str], reason: Optional[str]) -> bool:
+def is_bad_event(http_status: int, status: str | None, reason: str | None) -> bool:
     if http_status >= 500:
         return True
     return status == "FAILED" and reason in INFRASTRUCTURE_REASONS
@@ -72,7 +72,7 @@ class ServiceMetrics:
     def __init__(self, clock=time.monotonic) -> None:
         self._lock = threading.Lock()
         self._clock = clock
-        self.requests: Dict[Tuple[int, str, str], int] = defaultdict(int)  # (http, status, reason)
+        self.requests: dict[tuple[int, str, str], int] = defaultdict(int)  # (http, status, reason)
         self.bad_events = 0
         self.total_events = 0
         self.latency_buckets = [0] * (len(LATENCY_BUCKETS_S) + 1)
@@ -91,7 +91,7 @@ class ServiceMetrics:
         with self._lock:
             self.in_flight += 1
 
-    def finished(self, http_status: int, status: Optional[str], reason: Optional[str], seconds: float,
+    def finished(self, http_status: int, status: str | None, reason: str | None, seconds: float,
                  *, latency_threshold_s: float) -> None:
         with self._lock:
             self.in_flight -= 1
@@ -109,7 +109,7 @@ class ServiceMetrics:
                 self.answered += 1
                 self.slow_answers += seconds > latency_threshold_s
 
-    def snapshot(self) -> Dict[str, float]:
+    def snapshot(self) -> dict[str, float]:
         with self._lock:
             return {"t": self._clock(), "total": self.total_events, "bad": self.bad_events,
                     "answered": self.answered, "slow_answers": self.slow_answers, "in_flight": self.in_flight,
@@ -119,7 +119,7 @@ class ServiceMetrics:
     def render(self) -> str:
         """Prometheus text exposition format 0.0.4."""
         with self._lock:
-            lines: List[str] = [
+            lines: list[str] = [
                 "# HELP aifin_requests_total Ask requests by HTTP status, answer status and reason.",
                 "# TYPE aifin_requests_total counter",
             ]
@@ -159,7 +159,7 @@ class ServiceMetrics:
             return "\n".join(lines) + "\n"
 
 
-def slo_report(events: Iterable[Mapping[str, object]], slo: SLO) -> Dict[str, object]:
+def slo_report(events: Iterable[Mapping[str, object]], slo: SLO) -> dict[str, object]:
     """Availability, latency attainment and error budget spent over recorded request events."""
     rows = list(events)
     total = len(rows)

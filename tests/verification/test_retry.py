@@ -1,8 +1,8 @@
-from dataclasses import fields, replace
+from dataclasses import fields
 
 import pytest
 
-from src.supervisor.schemas import ModelTier, Plan
+from src.supervisor.schemas import EvidenceSource, ModelTier, Plan
 from src.understanding.schemas import SchemaValidationError
 from src.verification.retry import (
     FAILURE_POLICY_BY_REASON,
@@ -21,7 +21,6 @@ from src.verification.schemas import (
 )
 from src.verification.verifier import verify
 from tests.verification.helpers import failed_execution, make_request
-from src.supervisor.schemas import EvidenceSource
 
 
 def _report(category: VerificationFailureCategory, code: str) -> VerificationReport:

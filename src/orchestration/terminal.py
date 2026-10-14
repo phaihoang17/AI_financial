@@ -7,28 +7,27 @@ from src.orchestration.schemas import (
     FailureAttribution,
     FinalResponse,
     FinalResponseStatus,
-    M9Phase,
+    OrchestrationPhase,
     terminal_retry_state,
 )
-from src.orchestration.state import M9State
+from src.orchestration.state import OrchestrationState
 from src.understanding.planning_gate import PlanningGate
 from src.understanding.schemas import Operation, SchemaValidationError
 from src.verification.schemas import RetryState
 
-
 _FAILURE_STAGE_BY_PHASE = {
-    M9Phase.NLU: EvaluationFailureStage.NLU,
-    M9Phase.SUPERVISOR: EvaluationFailureStage.SUPERVISOR,
-    M9Phase.RETRIEVAL: EvaluationFailureStage.RETRIEVAL,
-    M9Phase.EVIDENCE: EvaluationFailureStage.EVIDENCE,
-    M9Phase.PROGRAMMER: EvaluationFailureStage.PROGRAMMER,
-    M9Phase.SANDBOX: EvaluationFailureStage.SANDBOX,
-    M9Phase.VERIFICATION: EvaluationFailureStage.VERIFICATION,
+    OrchestrationPhase.NLU: EvaluationFailureStage.NLU,
+    OrchestrationPhase.SUPERVISOR: EvaluationFailureStage.SUPERVISOR,
+    OrchestrationPhase.RETRIEVAL: EvaluationFailureStage.RETRIEVAL,
+    OrchestrationPhase.EVIDENCE: EvaluationFailureStage.EVIDENCE,
+    OrchestrationPhase.PROGRAMMER: EvaluationFailureStage.PROGRAMMER,
+    OrchestrationPhase.SANDBOX: EvaluationFailureStage.SANDBOX,
+    OrchestrationPhase.VERIFICATION: EvaluationFailureStage.VERIFICATION,
 }
 
 
 def _relevant_identifiers(
-    state: M9State,
+    state: OrchestrationState,
     stage: EvaluationFailureStage,
     reason_code: str,
 ) -> tuple[tuple[str, ...], tuple[str, ...], tuple[str, ...]]:
@@ -100,10 +99,10 @@ def _relevant_identifiers(
 
 
 def build_failure_response(
-    state: M9State,
+    state: OrchestrationState,
     *,
     status: FinalResponseStatus,
-    originating_phase: M9Phase,
+    originating_phase: OrchestrationPhase,
     reason_code: str,
     reason: str,
     retry_state: RetryState | None = None,
@@ -145,7 +144,7 @@ def build_failure_response(
     )
 
 
-def build_planning_gate_response(state: M9State, gate: PlanningGate) -> FinalResponse:
+def build_planning_gate_response(state: OrchestrationState, gate: PlanningGate) -> FinalResponse:
     """Clarify only from the gate's existing actionable findings."""
     if gate.allowed:
         raise SchemaValidationError("allowed PlanningGate is not terminal")
@@ -169,7 +168,7 @@ def build_planning_gate_response(state: M9State, gate: PlanningGate) -> FinalRes
     return build_failure_response(
         state,
         status=status,
-        originating_phase=M9Phase.NLU,
+        originating_phase=OrchestrationPhase.NLU,
         reason_code=code,
         reason=reason,
     )

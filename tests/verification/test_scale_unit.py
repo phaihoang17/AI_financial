@@ -1,6 +1,6 @@
 from dataclasses import replace
 
-from src.evidence.m5_schemas import BindingMap
+from src.evidence.masking_schemas import BindingMap
 from src.evidence.schemas import Scale
 from src.sandbox.schemas import ExecutionDatum
 from src.supervisor.schemas import EvidenceSource

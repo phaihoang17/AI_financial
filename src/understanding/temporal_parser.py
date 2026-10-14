@@ -4,7 +4,7 @@ from __future__ import annotations
 
 from dataclasses import dataclass
 import re
-from typing import Any, Dict, List, Optional, Tuple
+from typing import Any
 
 from src.understanding.schemas import (
     PeriodKind,
@@ -15,7 +15,6 @@ from src.understanding.schemas import (
     _require_mapping,
     _require_string,
 )
-
 
 _YEAR_VALUE = re.compile(r"^[0-9]{4}$")
 _QUARTER_VALUE = re.compile(r"^[0-9]{4}-Q[1-4]$")
@@ -53,7 +52,7 @@ class TemporalParserInput:
         _require_exact_keys(data, {"text"}, "TemporalParserInput")
         return cls(text=data["text"])
 
-    def to_dict(self) -> Dict[str, str]:
+    def to_dict(self) -> dict[str, str]:
         return {"text": self.text}
 
 
@@ -68,7 +67,7 @@ def _period_value_is_valid(period: PeriodUnderstanding) -> bool:
 @dataclass
 class TemporalResolution:
     raw: str
-    period: Optional[PeriodUnderstanding]
+    period: PeriodUnderstanding | None
     confidence: float
 
     def __post_init__(self) -> None:
@@ -113,7 +112,7 @@ class TemporalResolution:
             confidence=data["confidence"],
         )
 
-    def to_dict(self) -> Dict[str, Any]:
+    def to_dict(self) -> dict[str, Any]:
         return {
             "raw": self.raw,
             "period": None if self.period is None else self.period.to_dict(),
@@ -123,7 +122,7 @@ class TemporalResolution:
 
 @dataclass
 class TemporalParseResult:
-    resolutions: List[TemporalResolution]
+    resolutions: list[TemporalResolution]
 
     def __post_init__(self) -> None:
         if not isinstance(self.resolutions, list) or not all(
@@ -150,7 +149,7 @@ class TemporalParseResult:
             ]
         )
 
-    def to_dict(self) -> Dict[str, Any]:
+    def to_dict(self) -> dict[str, Any]:
         return {
             "resolutions": [resolution.to_dict() for resolution in self.resolutions]
         }
@@ -161,15 +160,15 @@ class _Candidate:
     start: int
     end: int
     raw: str
-    period: Optional[PeriodUnderstanding]
+    period: PeriodUnderstanding | None
 
 
 def _period(raw: str, value: str, kind: PeriodKind) -> PeriodUnderstanding:
     return PeriodUnderstanding(value=value, kind=kind, raw=raw)
 
 
-def _collect_candidates(text: str) -> List[_Candidate]:
-    candidates: List[_Candidate] = []
+def _collect_candidates(text: str) -> list[_Candidate]:
+    candidates: list[_Candidate] = []
 
     for match in _CUMULATIVE_EXPRESSION.finditer(text):
         raw = match.group(0)
@@ -215,8 +214,8 @@ def _collect_candidates(text: str) -> List[_Candidate]:
     return candidates
 
 
-def _select_longest_non_overlapping(candidates: List[_Candidate]) -> List[_Candidate]:
-    selected: List[_Candidate] = []
+def _select_longest_non_overlapping(candidates: list[_Candidate]) -> list[_Candidate]:
+    selected: list[_Candidate] = []
     for candidate in sorted(
         candidates, key=lambda item: (item.start, -(item.end - item.start))
     ):

@@ -6,13 +6,12 @@ from src.indexing.normalized_table_assembler import assemble_normalized_table
 from src.indexing.numeric_parser import parse_numeric_string
 from src.indexing.paragraph_extractor import extract_paragraphs
 from src.indexing.scale_unit_hint_extractor import extract_scale_unit_hints
-from src.indexing.table_text_linker import link_tables_to_paragraphs
 from src.indexing.schemas import NumericParseStatus, TableParseStatus
-
+from src.indexing.table_text_linker import link_tables_to_paragraphs
 from tests.indexing.test_document_parser import fixture_source, make_source
 
 
-class M2ARegressionGate(unittest.TestCase):
+class NormalizationRegressionTests(unittest.TestCase):
     def test_traceable_end_to_end_normalization(self):
         source = make_source(
             "===== PAGE 1 =====\nĐơn vị: triệu\n"

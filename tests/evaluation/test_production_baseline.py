@@ -7,7 +7,8 @@ from src.evaluation.corpus_reference_index import CorpusReferenceIndex, ReportMe
 from src.evaluation.e2e_fixtures import e2e_fixture_cases
 from src.evaluation.gold_retrieval import GoldRetrievalCase
 from src.evaluation.production_baseline import (
-    BASELINE_RUNS_SCHEMA_VERSION, evaluate_production_baseline,
+    BASELINE_RUNS_SCHEMA_VERSION,
+    evaluate_production_baseline,
 )
 from src.evaluation.run_baseline_eval import main
 from src.understanding.schemas import SchemaValidationError

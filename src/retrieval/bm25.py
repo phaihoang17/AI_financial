@@ -2,6 +2,7 @@
 
 from __future__ import annotations
 
+from collections.abc import Mapping, Sequence
 from dataclasses import replace
 from hashlib import sha256
 import json
@@ -10,7 +11,7 @@ from pathlib import Path
 import re
 import shutil
 import sqlite3
-from typing import Any, Dict, Iterable, List, Mapping, Optional, Sequence, Tuple
+from typing import Any
 import unicodedata
 
 from src.indexing.embedding_artifact_builder import (
@@ -21,8 +22,8 @@ from src.indexing.embedding_artifact_builder import (
 )
 from src.indexing.embedding_chunker import BGE_M3_MODEL_ID, BGE_M3_REVISION, CHUNKING_CONFIG_FINGERPRINT
 from src.retrieval.compatibility import (
-    ArtifactCompatibilityError,
     BM25_INDEX_SCHEMA_VERSION,
+    ArtifactCompatibilityError,
     validate_bm25_artifact_compatibility,
 )
 from src.retrieval.corpus_candidates import candidate_from_representation_chunk
@@ -37,7 +38,6 @@ from src.retrieval.schemas import (
 )
 from src.retrieval.search_diagnostics import RetrievalSearchObservation, RetrievalSearchResult
 
-
 BM25_BACKEND = "sqlite-fts5"
 BM25_TOKENIZER = "unicode61 remove_diacritics 0"
 _BUILD_SCHEMA_VERSION = "m3-bm25-build-v1"
@@ -48,13 +48,13 @@ class BM25IndexError(RetrievalContractError):
     """A typed TASK-031 build, load, or search failure."""
 
 
-def unicode_tokens(text: str) -> List[str]:
+def unicode_tokens(text: str) -> list[str]:
     """Tokenize deterministically with the same Unicode categories as FTS v1."""
 
     if not isinstance(text, str):
         raise TypeError("text must be a string")
-    tokens: List[str] = []
-    current: List[str] = []
+    tokens: list[str] = []
+    current: list[str] = []
     for character in text:
         category = unicodedata.category(character)
         if category[0] in {"L", "M", "N"} or category == "Co" or character == "_":
@@ -117,7 +117,7 @@ def _build_logical_fingerprint(
     ).hexdigest()
 
 
-def build_bm25_index(corpus_artifact_root: str | Path, output_root: str | Path) -> Dict[str, Any]:
+def build_bm25_index(corpus_artifact_root: str | Path, output_root: str | Path) -> dict[str, Any]:
     """Build and atomically publish a local FTS5 index over M2 embedding chunks."""
 
     try:
@@ -165,7 +165,7 @@ def build_bm25_index(corpus_artifact_root: str | Path, output_root: str | Path) 
             )
             digest = sha256()
             count = 0
-            rows: List[Tuple[str, str, str, str, str, str]] = []
+            rows: list[tuple[str, str, str, str, str, str]] = []
             for record in _iter_input_records(corpus):
                 candidate = candidate_from_representation_chunk(record.representation, record.chunk)
                 if unicode_tokens(candidate.content):
@@ -218,7 +218,7 @@ def build_bm25_index(corpus_artifact_root: str | Path, output_root: str | Path) 
         else:
             os.replace(database, target_database)
         database_hash = _sha256_file(target_database)
-        manifest: Dict[str, Any] = {
+        manifest: dict[str, Any] = {
             "bm25_schema_version": BM25_INDEX_SCHEMA_VERSION,
             "artifact_status": "COMMITTED",
             "artifact_id": artifact_id,
@@ -264,7 +264,7 @@ class BM25Index:
         self.embedding_fingerprint = report.model_fingerprint
         self._validate_sqlite()
 
-    def _read_manifest(self) -> Dict[str, Any]:
+    def _read_manifest(self) -> dict[str, Any]:
         path = self._root / "manifest.json"
         try:
             manifest = json.loads(path.read_text(encoding="utf-8"))
@@ -320,7 +320,7 @@ class BM25Index:
         query: RetrievalQuery,
         *,
         top_k: int,
-        eligible_source_types: Optional[Sequence[Any]] = None,
+        eligible_source_types: Sequence[Any] | None = None,
     ) -> RetrievalSearchResult:
         if not isinstance(query, RetrievalQuery):
             raise TypeError("query must be a RetrievalQuery")
@@ -335,7 +335,7 @@ class BM25Index:
         metadata_where, metadata_parameters = report_metadata_sql_constraints(
             query, table_alias="c"
         )
-        best: Dict[str, Tuple[RetrievalCandidate, float, int]] = {}
+        best: dict[str, tuple[RetrievalCandidate, float, int]] = {}
         try:
             connection = sqlite3.connect(f"file:{self._database}?mode=ro", uri=True)
             try:
@@ -404,8 +404,8 @@ class BM25Index:
         query: RetrievalQuery,
         *,
         top_k: int,
-        eligible_source_types: Optional[Sequence[Any]] = None,
-    ) -> List[RetrievalCandidate]:
+        eligible_source_types: Sequence[Any] | None = None,
+    ) -> list[RetrievalCandidate]:
         return self.search_with_diagnostics(
             query, top_k=top_k, eligible_source_types=eligible_source_types
         ).candidates
@@ -417,8 +417,8 @@ def search_bm25(
     query: RetrievalQuery,
     *,
     top_k: int,
-    eligible_source_types: Optional[Sequence[Any]] = None,
-) -> List[RetrievalCandidate]:
+    eligible_source_types: Sequence[Any] | None = None,
+) -> list[RetrievalCandidate]:
     """Open a validated BM25 artifact and return only canonical candidates."""
 
     return BM25Index(index_root, corpus_artifact_root).search(
