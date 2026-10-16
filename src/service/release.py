@@ -15,7 +15,8 @@ window; ``rollback`` is the manual path. The service picks up a pointer change
 through ``POST /admin/reload``.
 
     python -m src.service.release deploy --root deploy/releases --release r2026-10-14 \
-        --catalog artifacts/t2p-catalog-v3 --generator provider:deepseek
+        --catalog artifacts/t2p-catalog-v3 --generator provider:deepseek \
+        [--statements artifacts/statements-v1]
     python -m src.service.release list --root deploy/releases
     python -m src.service.release rollback --root deploy/releases --reason "..."
 """
@@ -55,6 +56,8 @@ class Release:
     llm_config_sha256: str = ""
     created_at: str = field(default_factory=_now)
     notes: str = ""
+    statements: str = ""  # optional statement-set artifact (ADR-075); "" serves no statements
+    statements_id: str = ""
 
     def __post_init__(self) -> None:
         if not self.release_id or "/" in self.release_id or self.release_id.startswith("."):
@@ -162,6 +165,10 @@ def preflight(release: Release, *, source_fingerprint: str | None = None) -> lis
         checks.append({"check": "SOURCE_FINGERPRINT", "passed": source_fingerprint == release.source_fingerprint})
     if release.generator.startswith("replay:"):
         checks.append({"check": "REPLAY_HISTORY", "passed": Path(release.generator[7:]).is_dir()})
+    if release.statements:
+        manifest = Path(release.statements) / "manifest.json"
+        actual = json.loads(manifest.read_text(encoding="utf-8")).get("statements_id") if manifest.is_file() else None
+        checks.append({"check": "STATEMENTS_ID", "passed": actual == release.statements_id, "actual": actual})
     return checks
 
 
@@ -231,6 +238,7 @@ def main(argv: Sequence[str] | None = None) -> int:  # pragma: no cover - thin C
     parser.add_argument("--release")
     parser.add_argument("--reason", default="manual")
     parser.add_argument("--catalog", help="deploy: catalog directory")
+    parser.add_argument("--statements", default="", help="deploy: statement-set directory (optional)")
     parser.add_argument("--generator", default="provider:deepseek", help="deploy: provider:<name> or replay:<dir>")
     parser.add_argument("--llm-config", default="", help="deploy: providers TOML (default: the repository file)")
     parser.add_argument("--smoke", default=str(DEFAULT_SMOKE))
@@ -243,9 +251,13 @@ def main(argv: Sequence[str] | None = None) -> int:  # pragma: no cover - thin C
 
         catalog_id = json.loads((Path(args.catalog) / "manifest.json").read_text(encoding="utf-8"))["catalog_id"]
         config = args.llm_config or (str(DEFAULT_PROVIDERS_FILE) if args.generator.startswith("provider:") else "")
+        statements_id = (json.loads((Path(args.statements) / "manifest.json").read_text(encoding="utf-8"))
+                         ["statements_id"] if args.statements else "")
         release = Release(args.release, str(Path(args.catalog).resolve()), catalog_id, args.generator,
                           source_fingerprint(), llm_config=config,
-                          llm_config_sha256=file_sha256(config) if config else "", notes=args.reason)
+                          llm_config_sha256=file_sha256(config) if config else "", notes=args.reason,
+                          statements=str(Path(args.statements).resolve()) if args.statements else "",
+                          statements_id=statements_id)
         result = deploy(store, release, smoke_checker(args.smoke, args.history_root),
                         source_fingerprint=source_fingerprint())
         print(json.dumps(result, ensure_ascii=False, indent=2))

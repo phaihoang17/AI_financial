@@ -18,12 +18,20 @@ Pandas code on answers (analyst deployments only). On a remote host keep the bin
 on loopback and reach it with `ssh -L 8080:127.0.0.1:8080 …` or behind the TLS/auth
 proxy.
 
+## Statement-set PDF (ADR-075)
+
+Releases may pin a statement-set artifact with `deploy --statements
+artifacts/statements-v1`; preflight checks its `statements_id`. Without it,
+`GET /v1/statements` answers `503 STATEMENTS_NOT_CONFIGURED` and the rest of the
+service is unchanged. A render takes a few seconds of CPU; at most two run at once
+and further requests get `503 BUSY`. The PDF needs `fpdf2` (`requirements-statements.txt`).
+
 ## Release, canary and rollback
 
 ```bash
 # register + preflight (catalog id, provider-config hash, code fingerprint) + canary; promotes only on success
 python -m src.service.release deploy --root deploy/releases --release r2026-10-14 \
-  --catalog artifacts/t2p-catalog-v4 --generator provider:deepseek
+  --catalog artifacts/t2p-catalog-v4 --statements artifacts/statements-v1 --generator provider:deepseek
 python -m src.service.app --release-root deploy/releases --port 8080
 # after any promotion or rollback, swap the serving release in place
 curl -s -XPOST localhost:8080/admin/reload

@@ -265,6 +265,17 @@ source/period/unit checks and independent arithmetic/program verification.
 This experimental path does not replace the default symbolic Program DSL until
 the real-model benchmark meets its declared gates.
 
+### Statement-set export (ADR-075)
+
+A user may also download the official statement set of one company, year and
+scope (B01-DN, B02-DN, B03-DN, B09-DN) as a PDF. It is not a question class and
+does not pass through NLU, Supervisor or the Programmer: it is a deterministic
+reconstruction of the published report from the corpus. Labels, line codes and
+figures are printed as read; accounting identities are checked per period column
+and failures are flagged, never corrected. The PDF states that it is an automated
+reconstruction, not the signed original. Bank (TT49) and securities-company
+(CTCK) forms are not supported yet.
+
 ## 11. Retrieval Product Requirements
 
 The retrieval capability is explicitly hybrid rather than a single semantic-search black box.

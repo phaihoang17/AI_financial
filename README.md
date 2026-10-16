@@ -67,7 +67,7 @@ Current verdict: **8/9 gates pass; not production-ready until people review the 
 
 ```bash
 python -m src.text_to_pandas.catalog_builder --corpus-manifest <corpus>/manifest.json \
-  --raw-root data/vifinqa/financial_statements --output artifacts/t2p-catalog-v4
+  --raw-root data/vifinqa/financial_statements --output artifacts/t2p-catalog-v5
 ```
 
 **Production gold.** Four splits of 127 cases plus 20 must-refuse controls each.
@@ -79,7 +79,7 @@ python -m src.evaluation.production_gold --corpus-artifact <corpus> \
   --raw-corpus data/vifinqa/financial_statements --output gold/production-v1 \
   --earlier-audit gold/wide/wide-lnst-audit.json --earlier-audit gold/broad/broad-audit.json \
   --earlier-audit gold/broad-h2/broad-audit.json --earlier-audit gold/retrieval/strong-strict-source-audit.json
-python -m src.text_to_pandas.run --catalog artifacts/t2p-catalog-v4 \
+python -m src.text_to_pandas.run --catalog artifacts/t2p-catalog-v5 \
   --questions gold/production-v1/holdout/all-questions.jsonl --concurrency 8 \
   --history-root scratch_logs/holdout-history --output scratch_logs/holdout-live.json
 ```
@@ -101,7 +101,7 @@ environment or `.env` (`OPENAI_API_KEY`, `ANTHROPIC_API_KEY`, …). Only DeepSee
 has been measured live; run the benchmark before using another provider.
 
 ```bash
-python -m src.text_to_pandas.run --provider anthropic --catalog artifacts/t2p-catalog-v4 \
+python -m src.text_to_pandas.run --provider anthropic --catalog artifacts/t2p-catalog-v5 \
   --question 'Tổng tài sản của SSI năm 2023 theo báo cáo hợp nhất là bao nhiêu?' \
   --history-root scratch_logs/t2p-history --output scratch_logs/anthropic-demo.json
 ```
@@ -129,11 +129,36 @@ metric. Enter it in the clarification card to keep the company, years and scope
 in the next request; a statement name such as “kết quả kinh doanh” alone is not
 a metric.
 
+**Statement-set PDF (ADR-075).** The sidebar form "Bộ báo cáo tài chính (PDF)"
+downloads B01/B02/B03/B09 of one company, year and scope, reconstructed from the
+published report with a reconciliation appendix. Build the artifact once and pin it
+in the release:
+
+The separate **AI soạn bản nháp** button calls `POST /v1/statements/draft` using
+the release's live provider. The application sends `src/statements/system_prompt.md`
+as the model's system message. AI can add a short preface and emphasize existing
+B09 headings; source figures and checks remain fixed. Replay releases do not
+support this mode. Each draft request uses a model call.
+
+The current artifact leaves 795 sets flagged; `artifacts/statements-v2/review_queue.csv`
+lists each source and failed check. A flagged PDF keeps the printed figures and needs
+review against the original report before official use.
+
+```bash
+python -m src.statements.builder --corpus-manifest <m2-corpus manifest.json> \
+  --raw-root data/vifinqa/financial_statements --out artifacts/statements-v2 \
+  --parity-catalog artifacts/t2p-catalog-v5
+python -m src.service.release deploy --root deploy/releases --release <id> \
+  --catalog artifacts/t2p-catalog-v5 --statements artifacts/statements-v2 --generator provider:deepseek
+curl -s -H "Authorization: Bearer $AIFIN_API_TOKEN" -o AAA_2015.pdf \
+  "localhost:8080/v1/statements?ticker=AAA&year=2015&scope=HOP_NHAT"
+```
+
 ```bash
 python -m src.service.app --release-root deploy/releases --port 8080   # chat UI at http://127.0.0.1:8080/
 curl -s localhost:8080/v1/ask -d '{"question": "ROE của FPT năm 2023 theo báo cáo hợp nhất là bao nhiêu?"}'
 python -m src.service.release rollback --root deploy/releases --reason "..."   # then POST /admin/reload
-python -m src.service.run_reliability_eval --catalog artifacts/t2p-catalog-v4 \
+python -m src.service.run_reliability_eval --catalog artifacts/t2p-catalog-v5 \
   --history <run history> --dev-runs <dev run report> --output scratch_logs/api-reliability.json
 ```
 

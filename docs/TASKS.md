@@ -1815,3 +1815,31 @@ gate reports `production-gate-holdout1.json`, `production-gate-holdout2.json`,
 - [x] Check in a browser against catalog v4 with a replay release: desktop, dark mode
   and 390 px width, no console errors, no horizontal overflow.
 
+
+### Official statement set as PDF (ADR-075)
+
+- [x] Tag the pre-feature version `v1.0.0` (commit `07c11aa`, pushed) as the
+  rollback point; develop on `feat/statements-pdf`.
+- [x] Share the catalog reader (`statement_tables`, `lines`, `prior_column`); a
+  catalog rebuild reproduces t2p-catalog-v4's `catalog_id`.
+- [x] Add code-keyed TT200/TT202 identities (`src/formulas/identities.py`) with
+  tests, including alignment with the catalog guard.
+- [x] Build `artifacts/statements-v1` (`src/statements/builder.py`): 1,468 TT200
+  sets, catalog parity 158,845 facts with 0 missing and 0 mismatched.
+- [x] Render the PDF (`src/statements/pdf.py`, fpdf2 2.8.9, Noto Sans OFL) and
+  serve `GET /v1/statements` from a release that pins the artifact; add the browser
+  download form. Tests are in `tests/statements/`.
+- [ ] Bank (TT49) and securities (CTCK) templates.
+- [ ] Classify untitled statement pages (e.g. VNM 2024 separate B03 page 1) in the
+  shared reader, together with a later catalog build.
+
+### Flagged statement-set remediation (ADR-076)
+
+- [x] Read source-delimited B02 code-22 financial-expense/interest cells in the
+  shared reader; keep the raw cell and reject ambiguous concatenations.
+- [x] Rebuild catalog v5 and statement-set v2 without changing or removing any
+  previous catalog row or parsed statement figure. Catalog parity: 159,016/159,016.
+- [x] Resolve 120 of the 915 flagged corporate sets; 673/1,468 now reconcile.
+  Export the 795 remaining cases to `artifacts/statements-v2/review_queue.csv`.
+- [ ] Verify the 795 remaining flagged cases against original PDFs/scans. Only OCR
+  text is available in this workspace, so figures and lost codes are not inferred.

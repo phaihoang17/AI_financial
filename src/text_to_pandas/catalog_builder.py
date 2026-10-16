@@ -87,7 +87,7 @@ from src.text_to_pandas.metrics import (
 )
 
 CATALOG_SCHEMA_VERSION = "t2p-catalog-v1"
-CATALOG_BUILD_VERSION = "t2p-catalog-build-v4"
+CATALOG_BUILD_VERSION = "t2p-catalog-build-v5"
 FACT_COLUMNS = (
     "fact_id", "ticker", "company_name", "fiscal_year", "statement_scope",
     "line_code", "line_item", "metric", "value", "unit", "source_scale",
@@ -102,6 +102,10 @@ PROVENANCE_FIELDS = (
 _MULTIPLIER = {Scale.RAW: 1, Scale.THOUSAND: 10**3, Scale.MILLION: 10**6, Scale.BILLION: 10**9}
 _MAGNITUDES = {Scale.THOUSAND, Scale.MILLION, Scale.BILLION}
 _GROUPED_NUMBER = re.compile(r"\(?-?\d{1,3}(?:\.\d{3})+(?:,\d+)?\)?")
+_MERGED_FINANCIAL_COST = re.compile(
+    rf"(?P<cost>{_GROUPED_NUMBER.pattern})(?:\s+|(?<=\))(?=\()|(?<=\d)(?=\())"
+    rf"(?P<interest>{_GROUPED_NUMBER.pattern})"
+)
 _CODE = re.compile(r"\d{2,3}[a-z]?")
 _BARE_SMALL = re.compile(r"\d{1,3}")
 _MILLION_GROUPED = re.compile(r"\(?-?\d{1,3}(?:\.\d{3}){2,}(?:,\d+)?\)?")
@@ -144,6 +148,8 @@ class _Layout:
     code_named: bool
     current_column: int
     label_columns: tuple[int, ...]
+    prior_column: int | None = None  # the comparative column; only the statement set reads it
+    note_column: int | None = None
 
 
 def _column_period(header: str, report_year: int) -> str | None:
@@ -267,6 +273,12 @@ def _content_statement(reader: _TableReader, layout: _Layout, statement: str, se
     return others[0] if len(others) == 1 else None
 
 
+def _own_cell(slots: list[str | None], column: int | None) -> str | None:
+    """The cell in ``column`` unless it is empty or merged across several columns."""
+    cell_id = None if column is None else slots[column]
+    return None if cell_id is None or slots.count(cell_id) > 1 else cell_id
+
+
 class _TableReader:
     """Row reader over the existing M2 logical grid of one statement table."""
 
@@ -359,24 +371,30 @@ class _TableReader:
                 best, best_share = column, share
         return best, False
 
+    def _own_scope(self, columns: list[int]) -> list[int]:
+        """The report's own scope column when group and parent figures sit side by side."""
+        if len(columns) > 1 and self.scope in _SCOPE_COLUMN:
+            own = [column for column in columns if _SCOPE_COLUMN[self.scope].search(fold(self.header_text(column)))]
+            other = _SCOPE_COLUMN["RIENG" if self.scope == "HOP_NHAT" else "HOP_NHAT"]
+            if len(own) == 1 and all(other.search(fold(self.header_text(column))) for column in columns
+                                     if column not in own):
+                return own
+        return columns
+
     def layout(self, inherited: _Layout | None) -> tuple[_Layout | None, str]:
         if self.header_end is None:
             return None, "NO_DATA_ROWS"
         periods = {column: _column_period(self.header_text(column), self.report_year)
                    for column in range(self.width)}
-        current = [column for column, period in periods.items() if period == "CURRENT"]
+        current = self._own_scope([column for column, period in periods.items() if period == "CURRENT"])
         code_column, code_named = self._code_column()
-        if len(current) > 1 and self.scope in _SCOPE_COLUMN:
-            own = [column for column in current if _SCOPE_COLUMN[self.scope].search(fold(self.header_text(column)))]
-            other = _SCOPE_COLUMN["RIENG" if self.scope == "HOP_NHAT" else "HOP_NHAT"]
-            if len(own) == 1 and all(other.search(fold(self.header_text(column))) for column in current
-                                     if column not in own):
-                current = own
         if len(current) > 1:
             return None, "AMBIGUOUS_CURRENT_COLUMN"
         if current:
             basis = "HEADER"
             current_column = current[0]
+            prior = self._own_scope([column for column, period in periods.items() if period == "PRIOR"])
+            prior_column = prior[0] if len(prior) == 1 else None
         elif inherited is not None and _RESTATEMENT_HEADER.search(fold(self.all_header_text())):
             return None, "RESTATEMENT_TABLE"
         elif inherited is not None and not any(periods.values()):
@@ -386,6 +404,8 @@ class _TableReader:
             if current_column < 1:
                 return None, "NO_CURRENT_COLUMN"
             basis = "INHERITED"
+            prior_column = (None if inherited.prior_column is None
+                            else self.width - (inherited.column_count - inherited.prior_column))
         else:
             return None, "NO_CURRENT_COLUMN"
         # OCR may put "Mã số" before the label, so labels are the non-code, non-note
@@ -407,7 +427,31 @@ class _TableReader:
             )
         if not label_columns:
             return None, "NO_LABEL_COLUMN"
-        return _Layout(self.width, code_column, code_named, current_column, label_columns), basis
+        if prior_column is not None and not (
+            0 <= prior_column < self.width and prior_column != current_column
+            and prior_column != code_column and prior_column not in label_columns
+        ):
+            prior_column = None
+        note_column = next((column for column in sorted(notes) if column < first_value
+                            and column != code_column and column not in label_columns), None)
+        return _Layout(self.width, code_column, code_named, current_column, label_columns,
+                       prior_column, note_column), basis
+
+    def _label_code(self, slots: list[str | None], layout: _Layout) -> tuple[str, str | None]:
+        parts: list[str] = []
+        for column in layout.label_columns:
+            cell_id = slots[column]
+            text = self.texts.get(cell_id or "", "")
+            if not text or text in parts:
+                continue
+            if not parts and _PURE_ORDINAL.fullmatch(text) and len(layout.label_columns) > 1:
+                continue
+            parts.append(text)
+        code = None
+        if layout.code_column is not None:
+            raw_code = self.texts.get(slots[layout.code_column] or "", "").replace(" ", "").lower()
+            code = raw_code if _CODE.fullmatch(raw_code) else None
+        return " ".join(parts), code
 
     def rows(self, layout: _Layout) -> Iterable[tuple[int, str, str | None, str, str]]:
         """(grid_row, label, code, current_cell_id, current_text) for data rows."""
@@ -424,31 +468,60 @@ class _TableReader:
                 if column != layout.current_column
             ):
                 continue  # merged across value columns: not one period's figure
-            parts: list[str] = []
-            for column in layout.label_columns:
-                cell_id = slots[column]
-                text = self.texts.get(cell_id or "", "")
-                if not text or text in parts:
-                    continue
-                if not parts and _PURE_ORDINAL.fullmatch(text) and len(layout.label_columns) > 1:
-                    continue
-                parts.append(text)
-            label = " ".join(parts)
-            code = None
-            if layout.code_column is not None:
-                raw_code = self.texts.get(slots[layout.code_column] or "", "").replace(" ", "").lower()
-                code = raw_code if _CODE.fullmatch(raw_code) else None
+            label, code = self._label_code(slots, layout)
             if not label and code is None:
                 continue
             yield row, label, code, current_id, self.texts.get(current_id, "")
 
+    def lines(self, layout: _Layout) -> Iterable[tuple[int, str, str | None, str, str | None, str | None]]:
+        """(grid_row, label, code, note, current_cell_id, prior_cell_id) for every printed line.
 
-def extract_report_facts(
-    source: Any, report: Mapping[str, Any]
-) -> tuple[list[dict[str, Any]], list[dict[str, Any]], Counter]:
-    """Facts, provenance rows and skip counters for one report."""
-    stats: Counter = Counter()
-    document = parse_document(source)
+        Unlike ``rows`` this keeps headings, "-" and empty figures, so a statement can be
+        laid out as printed. A cell merged across columns is no single period's figure.
+        """
+        values = [column for column in (layout.current_column, layout.prior_column) if column is not None]
+        for row in range(self.grid.row_count):
+            slots = self._row_cells(row)
+            if self._full_width(row, slots[0]):
+                text = self.texts.get(slots[0] or "", "")
+                if text and row >= (self.header_end or 0):
+                    yield row, text, None, "", None, None
+                continue
+            label, code = self._label_code(slots, layout)
+            if not label and code is None:
+                continue
+            if row < (self.header_end or 0) and (
+                # Above the first figure only a section heading is a line, not the column headers.
+                code is not None or any(self.texts.get(slots[column] or "") for column in values)
+                or (row > 0 and slots[layout.label_columns[0]] == self.grid.slots[row - 1][layout.label_columns[0]])
+            ):
+                continue
+            note = "" if layout.note_column is None else self.texts.get(slots[layout.note_column] or "", "")
+            yield (row, label, code, note,
+                   _own_cell(slots, layout.current_column), _own_cell(slots, layout.prior_column))
+
+
+@dataclass(frozen=True)
+class StatementTable:
+    """One primary-statement table of a report, with how it was read or why it was skipped."""
+
+    page: Any
+    table: Any
+    statement: str
+    securities: bool
+    class_basis: str
+    reader: _TableReader
+    layout: _Layout | None
+    period_basis: str
+    scale: Scale | None
+    scale_basis: str
+    skip_reason: str | None
+
+
+def statement_tables(
+    source: Any, document: Any, report: Mapping[str, Any], stats: Counter
+) -> Iterable[StatementTable]:
+    """Every B01/B02/B03 table of one report in source order; a skipped table carries its reason."""
     hints, _links = _extract_report_provenance(source)
     hints_by_table: dict[str, list[Any]] = defaultdict(list)
     for hint in hints:
@@ -456,8 +529,6 @@ def extract_report_facts(
             hints_by_table[hint.table_id].append(hint)
     report_scale = _report_consensus(hints)
 
-    facts: list[dict[str, Any]] = []
-    provenance: list[dict[str, Any]] = []
     last_layout: dict[str, _Layout] = {}
     last_scale: dict[str, Scale] = {}
     year = int(report["report_year"])
@@ -480,6 +551,8 @@ def extract_report_facts(
             stats[f"tables.{statement}"] += 1
             if layout is None:
                 stats[f"skip.{period_basis}"] += 1
+                yield StatementTable(page, table, statement, securities, class_basis, reader, None,
+                                     period_basis, None, "NONE", period_basis)
                 continue
             scale, scale_basis = _scale_for_table(hints_by_table.get(table.table_id, []))
             if scale is None and scale_basis == "NONE":
@@ -494,64 +567,100 @@ def extract_report_facts(
                 scale, scale_basis = report_scale
             if scale is None:
                 stats[f"skip.SCALE_{scale_basis}"] += 1
+                yield StatementTable(page, table, statement, securities, class_basis, reader, layout,
+                                     period_basis, None, scale_basis, f"SCALE_{scale_basis}")
                 continue
             last_layout[statement] = layout
             last_scale[statement] = scale
-            # Bank (TT49) forms have no "Mã số" column; their whole-label rules apply
-            # whenever the codes were not named by a header (they may be note numbers).
-            label_rules = not layout.code_named
-            emitted = 0
-            for grid_row, label, code, cell_id, text in reader.rows(layout):
-                numeric = parse_numeric_string(text)
-                if numeric.status is not NumericParseStatus.PARSED or numeric.percent_literal:
-                    stats["rows.value_not_parsed"] += 1
-                    continue
-                per_share = is_per_share_label(label)
-                multiplier = 1 if per_share else _MULTIPLIER[scale]
-                value = Decimal(numeric.decimal_value) * multiplier
-                if not per_share and (
-                    (_BARE_SMALL.fullmatch(text.strip()) and reader.shifted_note(grid_row, layout))
-                    or (scale is Scale.RAW and value != 0 and abs(value) < 1000)
-                ):
-                    stats["rows.note_reference_as_value"] += 1
-                    continue
-                metric = metric_for_code(statement, code, label, securities=securities)
-                if metric is None and label_rules and not securities:
-                    metric = metric_for_bank_label(statement, label)
-                fact_id = make_fact_id(source.report_id, table.table_id, cell_id)
-                facts.append({
-                    "fact_id": fact_id,
-                    "ticker": report["ticker"],
-                    "company_name": report["company_name"],
-                    "fiscal_year": year,
-                    "statement_scope": report["statement_scope"],
-                    "statement": statement,
-                    "line_code": code,
-                    "line_item": label,
-                    "metric": metric,
-                    "value": format(value.normalize(), "f") if value != 0 else "0",
-                    "unit": "VND/share" if per_share else "VND",
-                    "source_scale": "RAW" if per_share else scale.value,
-                    "report_id": source.report_id,
-                })
-                provenance.append({
-                    "fact_id": fact_id,
-                    "statement": statement,
-                    "report_id": source.report_id,
-                    "source_ref": report["source_ref"],
-                    "page_id": page.page_id,
-                    "table_id": table.table_id,
-                    "source_cell_id": cell_id,
-                    "grid_row": grid_row,
-                    "grid_column": layout.current_column,
-                    "raw_text": text,
-                    "label_text": label,
-                    "period_basis": period_basis,
-                    "scale_basis": scale_basis,
-                    "table_class_basis": class_basis,
-                })
-                emitted += 1
-            stats[f"facts.{statement}"] += emitted
+            yield StatementTable(page, table, statement, securities, class_basis, reader, layout,
+                                 period_basis, scale, scale_basis, None)
+
+
+def figure_value(text: str, label: str, scale: Scale, *, code: str | None) -> Decimal | None:
+    """A printed figure in VND (per-share lines unscaled), or None when the cell is not a number."""
+    numeric = parse_numeric_string(text)
+    if numeric.status is not NumericParseStatus.PARSED:
+        # OCR sometimes joins B02 code 22 with its "trong đó: lãi vay" subline.
+        folded = fold(label)
+        merged = (_MERGED_FINANCIAL_COST.fullmatch(text.strip())
+                  if code == "22" and "chi phi tai chinh" in folded and "lai vay" in folded else None)
+        if merged is not None:
+            interest = parse_numeric_string(merged["interest"])
+            if interest.status is NumericParseStatus.PARSED and not interest.percent_literal:
+                numeric = parse_numeric_string(merged["cost"])
+    if numeric.status is not NumericParseStatus.PARSED or numeric.percent_literal:
+        return None
+    return Decimal(numeric.decimal_value) * (1 if is_per_share_label(label) else _MULTIPLIER[scale])
+
+
+def extract_report_facts(
+    source: Any, report: Mapping[str, Any]
+) -> tuple[list[dict[str, Any]], list[dict[str, Any]], Counter]:
+    """Facts, provenance rows and skip counters for one report."""
+    stats: Counter = Counter()
+    document = parse_document(source)
+    facts: list[dict[str, Any]] = []
+    provenance: list[dict[str, Any]] = []
+    year = int(report["report_year"])
+    for item in statement_tables(source, document, report, stats):
+        if item.skip_reason is not None:
+            continue
+        page, table, statement, securities = item.page, item.table, item.statement, item.securities
+        reader, layout, scale = item.reader, item.layout, item.scale
+        period_basis, scale_basis, class_basis = item.period_basis, item.scale_basis, item.class_basis
+        # Bank (TT49) forms have no "Mã số" column; their whole-label rules apply
+        # whenever the codes were not named by a header (they may be note numbers).
+        label_rules = not layout.code_named
+        emitted = 0
+        for grid_row, label, code, cell_id, text in reader.rows(layout):
+            value = figure_value(text, label, scale, code=code)
+            if value is None:
+                stats["rows.value_not_parsed"] += 1
+                continue
+            per_share = is_per_share_label(label)
+            if not per_share and (
+                (_BARE_SMALL.fullmatch(text.strip()) and reader.shifted_note(grid_row, layout))
+                or (scale is Scale.RAW and value != 0 and abs(value) < 1000)
+            ):
+                stats["rows.note_reference_as_value"] += 1
+                continue
+            metric = metric_for_code(statement, code, label, securities=securities)
+            if metric is None and label_rules and not securities:
+                metric = metric_for_bank_label(statement, label)
+            fact_id = make_fact_id(source.report_id, table.table_id, cell_id)
+            facts.append({
+                "fact_id": fact_id,
+                "ticker": report["ticker"],
+                "company_name": report["company_name"],
+                "fiscal_year": year,
+                "statement_scope": report["statement_scope"],
+                "statement": statement,
+                "line_code": code,
+                "line_item": label,
+                "metric": metric,
+                "value": format(value.normalize(), "f") if value != 0 else "0",
+                "unit": "VND/share" if per_share else "VND",
+                "source_scale": "RAW" if per_share else scale.value,
+                "report_id": source.report_id,
+            })
+            provenance.append({
+                "fact_id": fact_id,
+                "statement": statement,
+                "report_id": source.report_id,
+                "source_ref": report["source_ref"],
+                "page_id": page.page_id,
+                "table_id": table.table_id,
+                "source_cell_id": cell_id,
+                "grid_row": grid_row,
+                "grid_column": layout.current_column,
+                "raw_text": text,
+                "label_text": label,
+                "period_basis": period_basis,
+                "scale_basis": scale_basis,
+                "table_class_basis": class_basis,
+            })
+            emitted += 1
+        stats[f"facts.{statement}"] += emitted
     _resolve_metric_duplicates(facts, stats)
     sign_basis = _normalize_expense_signs(facts, stats)
     _guard_identities(facts, stats)
