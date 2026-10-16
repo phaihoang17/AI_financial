@@ -3748,5 +3748,48 @@ headings, and skips the notes, so it cannot lay out a statement as printed.
   flagged by `NOTES_SCOPE_MISMATCH`.
 - Wide notes tables wrap in narrow columns on A4 portrait.
 - Bank and securities templates, and moving the catalog's metric-keyed guard onto
-  `src/formulas/identities.py` (with catalog v5), are follow-ups. A test keeps the
+  `src/formulas/identities.py` (in a later catalog build), are follow-ups. A test keeps the
   two identity lists aligned until then.
+
+## ADR-076 — Resolve only source-delimited merged financial expense cells
+
+**Status:** Implemented. Catalog build v5 and statement-set build v2 supersede
+the build artifacts in ADR-075 without changing the catalog or statement schemas.
+
+The OCR corpus sometimes combines B02 code 22, financial expenses, with its
+"trong đó: chi phí lãi vay" subline in one value cell. The shared reader now
+uses the first of exactly two parseable amounts only when the printed code is
+`22`, the label names both items, and the amounts have an explicit whitespace or
+parenthesis boundary. It retains the full raw cell text and its cell ID. It
+does not split run-together digits or infer a missing code from arithmetic.
+The same rule feeds the catalog and the statement-set checks.
+
+On the same 1,887-report corpus, catalog v5 adds 171 current-year code-22 facts;
+no old catalog row changes or disappears. Statement-set v2 adds 171 current and
+172 prior parsed cell values, all on code 22. Of 1,468 supported corporate sets,
+120 move from NOT_RECONCILED to RECONCILED, none regress: **673 reconciled, 795
+still flagged**. The catalog parity check covers 159,016 facts with zero missing
+or mismatched. `artifacts/statements-v2/review_queue.csv` lists each remaining
+flagged set, its source file, failed checks, missing totals and warnings;
+`remediation_summary.json` records the comparison with v1.
+
+The remaining OCR text includes lost or duplicated line codes, merged digits
+without a recoverable boundary, and missing statement tables. The workspace has
+no original PDF or scan for independent verification. These cases remain flagged;
+the builder does not back-solve or replace a published figure. No release was
+promoted as part of this remediation.
+
+## ADR-077 — Separate AI drafting mode for statement PDFs
+
+**Status:** Implemented. The deterministic statement download in ADR-075 is
+unchanged. A new `POST /v1/statements/draft` uses the same pinned statement set
+and the release's configured provider client. The runtime sends
+`src/statements/system_prompt.md` with role `system`; the skill reference points
+to that same file. The model returns only a short preface and indexes of
+existing B09 text blocks to emphasize. Code validates this response and renders
+all source figures, notes and reconciliation checks without model edits. The
+draft is visibly marked as AI-generated and retains the OCR disclaimer. Replay
+releases refuse drafting, and invalid model output fails closed. This separate
+request incurs provider latency and cost only when selected.
+The release source fingerprint includes the runtime prompt file, so changing
+the drafting instructions requires a new preflighted release.

@@ -19,7 +19,7 @@ from src.text_to_pandas.pipeline import PandasPipeline
 
 def source_fingerprint():
     root = Path(__file__).resolve().parents[2]
-    paths = sorted((root / "src").rglob("*.py"))
+    paths = sorted((*((root / "src").rglob("*.py")), root / "src/statements/system_prompt.md"))
     digest = sha256()
     for path in paths:
         digest.update(str(path.relative_to(root)).encode())

@@ -43,7 +43,7 @@ def _flagged(statement_set: Mapping[str, Any]) -> set[tuple[str, str]]:
             for statement, code in check.get("lines", [])}
 
 
-def render_pdf(statement_set: Mapping[str, Any], *, statements_id: str = "") -> bytes:
+def render_pdf(statement_set: Mapping[str, Any], *, statements_id: str = "", draft: Any = None) -> bytes:
     from fpdf import FPDF
     from fpdf.fonts import FontFace
 
@@ -81,6 +81,8 @@ def render_pdf(statement_set: Mapping[str, Any], *, statements_id: str = "") -> 
     pdf.add_page()
     pdf.ln(30)
     heading(f"BÁO CÁO TÀI CHÍNH {scope}", 18)
+    if draft is not None:
+        heading("BẢN NHÁP AI", 11)
     pdf.ln(4)
     heading(str(statement_set["company_name"] or statement_set["ticker"]), 14)
     pdf.ln(2)
@@ -99,6 +101,9 @@ def render_pdf(statement_set: Mapping[str, Any], *, statements_id: str = "") -> 
     pdf.set_fill_color(255, 255, 255)  # tables fill with the current colour
     pdf.ln(6)
     paragraph(DISCLAIMER, 9, GREY)
+    if draft is not None:
+        pdf.ln(4)
+        paragraph(draft.preface, 9)
     pdf.ln(6)
     paragraph("Nội dung: B01-DN Bảng cân đối kế toán · B02-DN Báo cáo kết quả hoạt động kinh doanh · "
               "B03-DN Báo cáo lưu chuyển tiền tệ · B09-DN Thuyết minh báo cáo tài chính · Phụ lục đối chiếu", 9)
@@ -147,9 +152,13 @@ def render_pdf(statement_set: Mapping[str, Any], *, statements_id: str = "") -> 
     pdf.ln(2)
     if not statement_set["notes"]:
         paragraph("Không tìm thấy phần thuyết minh trong bản nguồn.", 10, RED)
-    for block in statement_set["notes"]:
+    for index, block in enumerate(statement_set["notes"]):
         if block["kind"] == "text":
-            paragraph(block["text"], 8)
+            if draft is not None and index in draft.heading_indexes:
+                pdf.set_font("Noto", "B", 9)
+                pdf.multi_cell(width, 5, block["text"], new_x="LMARGIN", new_y="NEXT")
+            else:
+                paragraph(block["text"], 8)
             pdf.ln(1)
             continue
         rows = block["rows"]

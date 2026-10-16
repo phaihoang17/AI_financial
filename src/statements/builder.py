@@ -11,7 +11,7 @@ Only TT200/TT202 corporate forms are built. Securities-company (B0x-CTCK) and
 bank (TT49, no "Mã số" column) reports are recorded as unsupported templates.
 
     python -m src.statements.builder --corpus-manifest M --raw-root R --out artifacts/statements-v1 \
-        [--parity-catalog artifacts/t2p-catalog-v4]
+        [--parity-catalog artifacts/t2p-catalog-v5]
 """
 
 from __future__ import annotations
@@ -41,7 +41,7 @@ from src.statements.store import SCHEMA_VERSION, files_id, report_key
 from src.text_to_pandas.catalog_builder import _MULTIPLIER, _NOTES_FORM, figure_value, make_fact_id, statement_tables
 from src.text_to_pandas.metrics import DATASET_BY_STATEMENT, STATEMENTS, fold, is_per_share_label
 
-BUILD_VERSION = "statement-set-build-v1"
+BUILD_VERSION = "statement-set-build-v2"
 FORMS = {"BALANCE_SHEET": "B01-DN", "INCOME_STATEMENT": "B02-DN", "CASH_FLOW_STATEMENT": "B03-DN"}
 SUPPORTED = "TT200"
 _TAG = re.compile(r"<[^>]+>")
@@ -157,7 +157,7 @@ def build_report(source: Any, report: Mapping[str, Any]) -> tuple[str, dict[str,
             unit = 1 if per_share else _MULTIPLIER[item.scale]
             for column, cell_id in (("current", current_id), ("prior", prior_id)):
                 text = "" if cell_id is None else reader.texts.get(cell_id, "")
-                value = figure_value(text, label, item.scale) if text else None
+                value = figure_value(text, label, item.scale, code=code) if text else None
                 line[column] = None if cell_id is None else {
                     "text": text, "value": None if value is None else _decimal_text(value),
                     "cell_id": cell_id, "fact_id": make_fact_id(source.report_id, item.table.table_id, cell_id)}

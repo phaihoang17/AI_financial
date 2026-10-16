@@ -87,7 +87,7 @@ from src.text_to_pandas.metrics import (
 )
 
 CATALOG_SCHEMA_VERSION = "t2p-catalog-v1"
-CATALOG_BUILD_VERSION = "t2p-catalog-build-v4"
+CATALOG_BUILD_VERSION = "t2p-catalog-build-v5"
 FACT_COLUMNS = (
     "fact_id", "ticker", "company_name", "fiscal_year", "statement_scope",
     "line_code", "line_item", "metric", "value", "unit", "source_scale",
@@ -102,6 +102,10 @@ PROVENANCE_FIELDS = (
 _MULTIPLIER = {Scale.RAW: 1, Scale.THOUSAND: 10**3, Scale.MILLION: 10**6, Scale.BILLION: 10**9}
 _MAGNITUDES = {Scale.THOUSAND, Scale.MILLION, Scale.BILLION}
 _GROUPED_NUMBER = re.compile(r"\(?-?\d{1,3}(?:\.\d{3})+(?:,\d+)?\)?")
+_MERGED_FINANCIAL_COST = re.compile(
+    rf"(?P<cost>{_GROUPED_NUMBER.pattern})(?:\s+|(?<=\))(?=\()|(?<=\d)(?=\())"
+    rf"(?P<interest>{_GROUPED_NUMBER.pattern})"
+)
 _CODE = re.compile(r"\d{2,3}[a-z]?")
 _BARE_SMALL = re.compile(r"\d{1,3}")
 _MILLION_GROUPED = re.compile(r"\(?-?\d{1,3}(?:\.\d{3}){2,}(?:,\d+)?\)?")
@@ -572,9 +576,18 @@ def statement_tables(
                                  period_basis, scale, scale_basis, None)
 
 
-def figure_value(text: str, label: str, scale: Scale) -> Decimal | None:
+def figure_value(text: str, label: str, scale: Scale, *, code: str | None) -> Decimal | None:
     """A printed figure in VND (per-share lines unscaled), or None when the cell is not a number."""
     numeric = parse_numeric_string(text)
+    if numeric.status is not NumericParseStatus.PARSED:
+        # OCR sometimes joins B02 code 22 with its "trong đó: lãi vay" subline.
+        folded = fold(label)
+        merged = (_MERGED_FINANCIAL_COST.fullmatch(text.strip())
+                  if code == "22" and "chi phi tai chinh" in folded and "lai vay" in folded else None)
+        if merged is not None:
+            interest = parse_numeric_string(merged["interest"])
+            if interest.status is NumericParseStatus.PARSED and not interest.percent_literal:
+                numeric = parse_numeric_string(merged["cost"])
     if numeric.status is not NumericParseStatus.PARSED or numeric.percent_literal:
         return None
     return Decimal(numeric.decimal_value) * (1 if is_per_share_label(label) else _MULTIPLIER[scale])
@@ -600,7 +613,7 @@ def extract_report_facts(
         label_rules = not layout.code_named
         emitted = 0
         for grid_row, label, code, cell_id, text in reader.rows(layout):
-            value = figure_value(text, label, scale)
+            value = figure_value(text, label, scale, code=code)
             if value is None:
                 stats["rows.value_not_parsed"] += 1
                 continue

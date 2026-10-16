@@ -535,18 +535,23 @@
     company.addEventListener('change', sync);
     sync();
     const button = h('button', { class: 'btn btn-sm', type: 'button' }, 'Tải BCTC (PDF)');
-    button.addEventListener('click', async () => {
+    const draftButton = h('button', { class: 'btn btn-sm', type: 'button' }, 'AI soạn bản nháp');
+    const downloadStatement = async (draft) => {
       button.disabled = true;
-      status.textContent = 'Đang tạo PDF…';
+      draftButton.disabled = true;
+      status.textContent = draft ? 'AI đang soạn bản nháp…' : 'Đang tạo PDF…';
       const query = new URLSearchParams({ ticker: company.value, year: year.value, scope: scope.value });
       try {
-        const response = await fetch(`/v1/statements?${query}`, { headers: headers() });
+        const response = await fetch(draft ? '/v1/statements/draft' : `/v1/statements?${query}`,
+          draft ? { method: 'POST', headers: { ...headers(), 'Content-Type': 'application/json' },
+            body: JSON.stringify({ ticker: company.value, year: year.value, scope: scope.value }) }
+            : { headers: headers() });
         if (!response.ok) {
           const body = await response.json().catch(() => ({}));
           status.textContent = response.status === 401 ? 'Cần mã truy cập để tải.' : (body.message || `Lỗi ${response.status}.`);
           return;
         }
-        downloadBlob(`BCTC_${company.value}_${year.value}_${scope.value}.pdf`, await response.blob());
+        downloadBlob(`BCTC_${company.value}_${year.value}_${scope.value}${draft ? '_AI_DRAFT' : ''}.pdf`, await response.blob());
         status.textContent = response.headers.get('X-Statement-Status') === 'RECONCILED'
           ? 'Đã tải. Các đẳng thức kế toán đều khớp.'
           : 'Đã tải. Có phép đối chiếu không đạt: xem Phụ lục trong PDF.';
@@ -554,11 +559,14 @@
         status.textContent = 'Không kết nối được máy chủ.';
       } finally {
         button.disabled = false;
+        draftButton.disabled = false;
       }
-    });
+    };
+    button.addEventListener('click', () => downloadStatement(false));
+    draftButton.addEventListener('click', () => downloadStatement(true));
     return h('div', { class: 'statement-form' },
       h('label', { class: 'field-label', for: 'statement-company' }, 'Bộ báo cáo tài chính (PDF)'),
-      company, h('div', { class: 'statement-row' }, year, scope), button, status);
+      company, h('div', { class: 'statement-row' }, year, scope), button, draftButton, status);
   }
 
   function setSidebar(open) {

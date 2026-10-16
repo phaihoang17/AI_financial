@@ -68,6 +68,17 @@ may pin the artifact (`statements`, `statements_id`, checked in preflight);
 renders it with fpdf2 (`src/statements/pdf.py`, vendored Noto Sans) and returns
 `application/pdf`, or a typed `400/404/422 UNSUPPORTED_TEMPLATE/503` refusal. At
 most two renders run at once. The sidebar of the browser UI has the download form.
+`POST /v1/statements/draft` is a separate, authenticated AI drafting mode. It
+loads the same pinned statement set, sends `src/statements/system_prompt.md` as
+the provider client's system message, and accepts only a short preface plus
+indexes of existing B09 text blocks as headings. The PDF renderer alone places
+source tables, note contents and reconciliation results. Replay releases return
+`AI_DRAFT_UNAVAILABLE`; invalid model output returns `AI_DRAFT_FAILED`.
+In catalog build v5 / statement build v2, the shared numeric reader can take the
+first amount of a B02 code-22 cell only when the label explicitly joins financial
+expense with its interest-expense subline and the two printed amounts have an
+unambiguous boundary. The raw OCR cell remains unchanged; ambiguous strings
+remain unreadable. Statement checks and catalog parity are unchanged.
 
 A **release** (`src/service/release.py`) pins the catalog directory and its
 `catalog_id`, the generator (`provider:<name>` from `deploy/llm/providers.toml`,

@@ -1831,4 +1831,15 @@ gate reports `production-gate-holdout1.json`, `production-gate-holdout2.json`,
   download form. Tests are in `tests/statements/`.
 - [ ] Bank (TT49) and securities (CTCK) templates.
 - [ ] Classify untitled statement pages (e.g. VNM 2024 separate B03 page 1) in the
-  shared reader, together with catalog v5.
+  shared reader, together with a later catalog build.
+
+### Flagged statement-set remediation (ADR-076)
+
+- [x] Read source-delimited B02 code-22 financial-expense/interest cells in the
+  shared reader; keep the raw cell and reject ambiguous concatenations.
+- [x] Rebuild catalog v5 and statement-set v2 without changing or removing any
+  previous catalog row or parsed statement figure. Catalog parity: 159,016/159,016.
+- [x] Resolve 120 of the 915 flagged corporate sets; 673/1,468 now reconcile.
+  Export the 795 remaining cases to `artifacts/statements-v2/review_queue.csv`.
+- [ ] Verify the 795 remaining flagged cases against original PDFs/scans. Only OCR
+  text is available in this workspace, so figures and lost codes are not inferred.

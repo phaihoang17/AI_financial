@@ -9,6 +9,7 @@ from src.service.app import Engine, QuestionService, serve
 from src.service.release import Release, ReleaseStore, preflight
 from src.statements.builder import build_statements
 from src.statements.pdf import render_pdf
+from src.statements.ai_draft import SYSTEM_PROMPT, draft_statement
 from src.statements.store import StatementStore, StatementStoreError
 from tests.service.test_service import _call, _Pipeline, _release
 from tests.statements.test_builder import RAW, _report
@@ -105,3 +106,66 @@ def test_store_rejects_a_changed_report_file(statements_dir):
     (statements_dir / entry["file"]).write_bytes(b"tampered")
     with pytest.raises(StatementStoreError):
         store.get("AAA", 2024, "HOP_NHAT")
+
+
+class _DraftClient:
+    def __init__(self, response):
+        self.response = response
+        self.calls = []
+
+    def generate(self, messages, **params):
+        self.calls.append((messages, params))
+        return json.dumps(self.response, ensure_ascii=False)
+
+
+def test_ai_draft_sends_system_prompt_and_cannot_change_values(statements_dir):
+    _template, statement_set = StatementStore(statements_dir).get("AAA", 2024, "HOP_NHAT")
+    before = json.dumps(statement_set, sort_keys=True)
+    client = _DraftClient({"preface": "Bộ báo cáo được trình bày theo thứ tự biểu mẫu từ nguồn.",
+                           "heading_indexes": [0]})
+    draft = draft_statement(statement_set, client)
+    messages, params = client.calls[0]
+    assert messages[0] == {"role": "system", "content": SYSTEM_PROMPT}
+    assert messages[1]["role"] == "user" and "candidates" in json.loads(messages[1]["content"])
+    assert params["response_format"] == {"type": "json_object"}
+    assert draft.heading_indexes == {0}
+    assert json.dumps(statement_set, sort_keys=True) == before
+    assert render_pdf(statement_set, draft=draft).startswith(b"%PDF-")
+
+
+@pytest.mark.parametrize("response", [
+    {"preface": "Doanh thu tăng 20% và đã kiểm toán.", "heading_indexes": []},
+    {"preface": "Bộ báo cáo được trình bày theo thứ tự biểu mẫu từ nguồn.", "heading_indexes": [999]},
+    {"preface": "Bộ báo cáo được trình bày theo thứ tự biểu mẫu từ nguồn.", "heading_indexes": [True]},
+])
+def test_ai_draft_rejects_unsupported_content(statements_dir, response):
+    _template, statement_set = StatementStore(statements_dir).get("AAA", 2024, "HOP_NHAT")
+    with pytest.raises(ValueError, match="AI_DRAFT_INVALID"):
+        draft_statement(statement_set, _DraftClient(response))
+
+
+def test_ai_draft_allows_standard_form_codes_as_numbers(statements_dir):
+    _template, statement_set = StatementStore(statements_dir).get("AAA", 2024, "HOP_NHAT")
+    client = _DraftClient({"preface": "Bộ báo cáo trình bày các biểu B01-DN, B02-DN, B03-DN và B09 theo nguồn.",
+                           "heading_indexes": []})
+    assert draft_statement(statement_set, client).preface.endswith("theo nguồn.")
+
+
+def test_draft_endpoint_is_separate_and_fails_closed(served, statements_dir):
+    service, base = served
+    path = f"{base}/v1/statements/draft"
+    payload = {"ticker": "AAA", "year": "2024", "scope": "HOP_NHAT"}
+    assert json.loads(_call(path, payload)[1])["error"] == "AI_DRAFT_UNAVAILABLE"
+    client = _DraftClient({"preface": "Bộ báo cáo được trình bày theo thứ tự biểu mẫu từ nguồn.",
+                           "heading_indexes": [0]})
+    engine = service.engine()
+    service._engine = Engine(engine.release, engine.pipeline, engine.statements, client)
+    code, body, headers = _call(path, payload, with_headers=True)
+    assert code == 200 and body.startswith(b"%PDF-")
+    assert headers["Content-Disposition"].endswith('_AI_DRAFT.pdf"')
+    assert len(client.calls) == 1
+    assert _call(f"{base}/v1/statements?ticker=AAA&year=2024&scope=HOP_NHAT")[0] == 200
+    assert len(client.calls) == 1
+    client.response = {"preface": "Doanh thu tăng 20%.", "heading_indexes": []}
+    assert json.loads(_call(path, payload)[1])["error"] == "AI_DRAFT_FAILED"
+    assert _call(path, payload, token=None)[0] == 401

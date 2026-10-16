@@ -1,13 +1,29 @@
+from decimal import Decimal
+
 import pytest
 
+from src.evidence.schemas import Scale
 from src.sandbox.pandas_executor import execute_pandas_sandboxed
 from src.sandbox.pandas_protocol import PandasFailureStage
 from src.serving.schemas import ServingError
 from src.text_to_pandas.catalog import frame_payload
-from src.text_to_pandas.catalog_builder import _column_period
+from src.text_to_pandas.catalog_builder import _column_period, figure_value
 from src.text_to_pandas.metrics import metric_for_bank_label, metric_for_code
 from src.text_to_pandas.understanding import understand_question
 from tests.text_to_pandas.test_pipeline import FILTER, envelope, run
+
+
+@pytest.mark.parametrize("text,label,code,expected", [
+    ("971.581.509.393 96.219.749.004", "Chi phí tài chính - Trong đó: Chi phí lãi vay", "22",
+     Decimal("971581509393")),
+    ("(91.319.173.001)(58.455.274.055)", "Chi phí tài chính Trong đó: Chi phí lãi vay", "22",
+     Decimal("-91319173001")),
+    ("204.089.149.32988.792.729.468", "Chi phí tài chính Trong đó: Chi phí lãi vay", "22", None),
+    ("971.581.509.393 96.219.749.004", "Chi phí tài chính", "22", None),
+    ("971.581.509.393 96.219.749.004", "Chi phí tài chính Trong đó: Chi phí lãi vay", "23", None),
+])
+def test_merged_financial_cost_uses_only_an_explicit_first_figure(text, label, code, expected):
+    assert figure_value(text, label, Scale.RAW, code=code) == expected
 
 
 @pytest.mark.parametrize("header,expected", [

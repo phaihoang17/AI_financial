@@ -139,6 +139,21 @@ def test_current_figures_match_the_catalog_facts():
     assert facts and all(abs(float(ours[fact["fact_id"]])) == abs(float(fact["value"])) for fact in facts)
 
 
+def test_merged_financial_cost_is_grounded_in_both_statement_and_catalog():
+    merged = ("<tr><td>7. Chi phí tài chính - Trong đó: Chi phí lãi vay</td><td>22</td><td></td>"
+              "<td>10.000.000 2.000.000</td><td>8.000.000 1.000.000</td></tr>")
+    income = INCOME.replace("<tr><td>10. Chi phí quản lý doanh nghiệp", merged +
+                            "<tr><td>10. Chi phí quản lý doanh nghiệp")
+    source, report = _report(RAW.replace(INCOME, income))
+    facts, _provenance, _stats = extract_report_facts(source, report)
+    _template, statement_set = build_report(source, report)
+
+    line = _line(statement_set, "INCOME_STATEMENT", "22")
+    assert (line["current"]["text"], line["current"]["value"], line["prior"]["value"]) == (
+        "10.000.000 2.000.000", "10000000", "8000000")
+    assert next(fact["value"] for fact in facts if fact["metric"] == "FINANCIAL_EXPENSES") == "10000000"
+
+
 def test_bank_form_without_line_codes_is_unsupported():
     bank = RAW.replace("<td>Mã số</td>", "<td>Ghi chú</td>")
     template, statement_set = build_report(*_report(bank))

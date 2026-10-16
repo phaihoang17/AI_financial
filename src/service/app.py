@@ -12,6 +12,8 @@ Endpoints (JSON):
   statement set (B01/B02/B03/B09 + reconciliation appendix) as a PDF download
   (ADR-075); ``404`` no such report, ``422 UNSUPPORTED_TEMPLATE`` for bank and
   securities forms, ``503`` when the release pins no statement set or renders are busy;
+- ``POST /v1/statements/draft`` with ticker, year and scope → an AI-edited PDF
+  using the release's provider client; replay releases cannot draft;
 - ``GET /`` and ``GET /static/<file>`` → the browser UI (``src/service/web/``); it
   holds no data and calls the JSON endpoints above;
 - ``GET /healthz`` (process alive), ``GET /readyz`` (a release is loaded and its
@@ -73,6 +75,7 @@ class Engine:
     release: Release
     pipeline: Any
     statements: Any = None  # StatementStore when the release pins a statement set
+    draft_client: Any = None  # live provider only; replay cannot generate prose
 
 
 def build_engine(release: Release, history_root: str | Path) -> Engine:
@@ -101,7 +104,7 @@ def build_engine(release: Release, history_root: str | Path) -> Engine:
         if statements.statements_id != release.statements_id:
             raise RuntimeError("statement set does not match the release")
     return Engine(release, PandasPipeline(catalog, PandasCodeGenerator(client), history_root=history_root),
-                  statements)
+                  statements, None if release.generator.startswith("replay:") else client)
 
 
 def public_response(response: dict[str, Any], *, expose_program: bool = False) -> dict[str, Any]:
@@ -235,10 +238,21 @@ class QuestionService:
 
     def statements(self, query: dict[str, list[str]]) -> tuple[int, Any, dict[str, str]]:
         """(status, PDF bytes or JSON error, headers) for one company/year/scope statement set."""
+        return self._statements(query, draft=False)
+
+    def statement_draft(self, payload: Any) -> tuple[int, Any, dict[str, str]]:
+        if not isinstance(payload, dict):
+            return 400, {"error": "INVALID_REQUEST", "message": "Cần ticker, year và scope."}, {}
+        return self._statements({key: [value] for key, value in payload.items()
+                                 if key in ("ticker", "year", "scope") and isinstance(value, str)}, draft=True)
+
+    def _statements(self, query: dict[str, list[str]], *, draft: bool) -> tuple[int, Any, dict[str, str]]:
         engine = self.engine()
         store = None if engine is None else engine.statements
         if store is None:
             return 503, {"error": "STATEMENTS_NOT_CONFIGURED", "message": "Bản phát hành chưa có bộ BCTC."}, {}
+        if draft and engine.draft_client is None:
+            return 503, {"error": "AI_DRAFT_UNAVAILABLE", "message": "Bản phát hành chưa cấu hình model AI soạn thảo."}, {}
         ticker = (query.get("ticker") or [""])[0].strip().upper()
         year = (query.get("year") or [""])[0].strip()
         scope = (query.get("scope") or [""])[0].strip().upper()
@@ -257,15 +271,26 @@ class QuestionService:
                              "message": "Chưa hỗ trợ mẫu báo cáo này (ngân hàng / công ty chứng khoán)."}, {}
             from src.statements.pdf import render_pdf
 
-            data = render_pdf(statement_set, statements_id=store.statements_id)
+            suggestion = None
+            if draft:
+                from src.statements.ai_draft import draft_statement
+                from src.serving.schemas import ServingError
+
+                try:
+                    suggestion = draft_statement(statement_set, engine.draft_client)
+                except (ServingError, ValueError) as error:
+                    log.warning("statement draft failed: %s", type(error).__name__)
+                    return 502, {"error": "AI_DRAFT_FAILED", "message": "Model không tạo được bản nháp hợp lệ."}, {}
+            data = render_pdf(statement_set, statements_id=store.statements_id, draft=suggestion)
         except Exception as error:  # never leak internals; the type is enough to triage
             log.exception("statement render failed")
             return 500, {"error": "INTERNAL_ERROR", "message": type(error).__name__}, {}
         finally:
             self._renders.release()
-        log.info(json.dumps({"event": "statements", "ticker": ticker, "year": year, "scope": scope,
+        log.info(json.dumps({"event": "statements_draft" if draft else "statements", "ticker": ticker, "year": year, "scope": scope,
                              "status": statement_set["status"], "release": engine.release.release_id}))
-        return 200, data, {"Content-Disposition": f'attachment; filename="BCTC_{ticker}_{year}_{scope}.pdf"',
+        suffix = "_AI_DRAFT" if draft else ""
+        return 200, data, {"Content-Disposition": f'attachment; filename="BCTC_{ticker}_{year}_{scope}{suffix}.pdf"',
                            "X-Statement-Status": statement_set["status"], "Cache-Control": "no-store",
                            "X-Content-Type-Options": "nosniff"}
 
@@ -326,7 +351,7 @@ def make_handler(service: QuestionService):
                 self._send(404, {"error": "not found"})
 
         def do_POST(self) -> None:  # noqa: N802 - stdlib API
-            if self.path not in ("/v1/ask", "/admin/reload"):
+            if self.path not in ("/v1/ask", "/v1/statements/draft", "/admin/reload"):
                 self._send(404, {"error": "not found"})
                 return
             if not service.authorized(self.headers.get("Authorization")):
@@ -347,6 +372,10 @@ def make_handler(service: QuestionService):
                 payload = json.loads(raw or b"null")
             except json.JSONDecodeError:
                 payload = None
+            if self.path == "/v1/statements/draft":
+                code, body, headers = service.statement_draft(payload)
+                self._send(code, body, "application/pdf" if code == 200 else "application/json", headers)
+                return
             code, body = service.ask(payload)
             self._send(code, body)
 

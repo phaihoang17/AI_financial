@@ -9,5 +9,10 @@ data/vifinqa/
 reindex-adr062/
 scratch_logs/
 .ipynb_checkpoints/
+.cache/
+.codegraph/
+.github/
+.pytest_cache/
+.ruff_cache/
 AGENTS.md
 CLAUDE.md
